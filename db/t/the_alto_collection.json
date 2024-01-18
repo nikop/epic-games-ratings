@@ -988,9 +988,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55240,
+  "EOS_Progressed": 55242,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 886,
+  "EOS_NewPlayers": 887,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32033,6 +32033,11 @@
       "Time": "2024-01-18T01:52:06.7638192+00:00",
       "NumProgressed": 55240,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T02:28:06.4569199+00:00",
+      "NumProgressed": 55242,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32084,7 +32089,7 @@
       "Name": "Rookie",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15467
+      "UsersEstimate": 15468
     },
     {
       "ID": "goals180",
@@ -32268,7 +32273,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6076
+      "UsersEstimate": 6077
     },
     {
       "ID": "ultimate",
@@ -32355,15 +32360,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55240,
+      "Progressed": 55242,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-16T19:59:32.4683523+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:52:06.763819+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:28:06.4569196+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.1789264+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:48:04.6743734+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:52:06.7639513+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:24:14.3675613+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:28:06.4571256+00:00"
 }

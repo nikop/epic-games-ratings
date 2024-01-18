@@ -10854,9 +10854,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95885,
+  "EOS_Progressed": 95886,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2105,
+  "EOS_NewPlayers": 2102,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40094,6 +40094,11 @@
       "Time": "2024-01-18T01:58:21.8396464+00:00",
       "NumProgressed": 95885,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T02:34:14.7103063+00:00",
+      "NumProgressed": 95886,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40113,7 +40118,7 @@
       "Name": "Apple of my eye",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16300
+      "UsersEstimate": 16301
     },
     {
       "ID": "Bannerlord",
@@ -40121,7 +40126,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 23971
+      "UsersEstimate": 23972
     },
     {
       "ID": "Best served cold",
@@ -40193,7 +40198,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9588
+      "UsersEstimate": 9589
     },
     {
       "ID": "Entrepreneur",
@@ -40281,7 +40286,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9588
+      "UsersEstimate": 9589
     },
     {
       "ID": "Jack of All Trades",
@@ -40345,7 +40350,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23012
+      "UsersEstimate": 23013
     },
     {
       "ID": "Long live the Empire",
@@ -40465,7 +40470,7 @@
       "Name": "This Is Our Land",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16300
+      "UsersEstimate": 16301
     },
     {
       "ID": "This is Sparta",
@@ -40505,22 +40510,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9588
+      "UsersEstimate": 9589
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95885,
+      "Progressed": 95886,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-18T01:47:38.6636778+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:58:21.8396462+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:34:14.7103061+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:47:38.6636804+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:58:21.8397965+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:23:48.8069572+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:34:14.7104816+00:00"
 }

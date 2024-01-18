@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 28927,
+  "EOS_Progressed": 28928,
   "EOS_Completed": 531,
-  "EOS_NewPlayers": 508,
+  "EOS_NewPlayers": 509,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -29831,6 +29831,11 @@
       "Time": "2024-01-18T01:52:33.7111956+00:00",
       "NumProgressed": 28927,
       "NumCompleted": 531
+    },
+    {
+      "Time": "2024-01-18T02:28:32.1093752+00:00",
+      "NumProgressed": 28928,
+      "NumCompleted": 531
     }
   ],
   "TotalAchievements": 20,
@@ -29866,7 +29871,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -29970,7 +29975,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7810
+      "UsersEstimate": 7811
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30001,15 +30006,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 28927,
+      "Progressed": 28928,
       "Completed": 531
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:52:33.7111951+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:28:32.109375+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:45:35.9439319+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:52:33.7113402+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:21:45.6950358+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:28:32.1095172+00:00"
 }

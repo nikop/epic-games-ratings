@@ -6,15 +6,15 @@ Rating: 4.71 (Ranked 203)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Marksman | 97.00% | ~17,638 |
-| Welcome Aboard | 83.00% | ~15,092 |
+| Welcome Aboard | 83.00% | ~15,093 |
 | Lab Rat | 67.00% | ~12,183 |
-| All Systems Go | 56.00% | ~10,182 |
+| All Systems Go | 56.00% | ~10,183 |
 | Brute Force | 55.00% | ~10,001 |
-| Cannon Fodder | 51.00% | ~9,273 |
+| Cannon Fodder | 51.00% | ~9,274 |
 | Raise the Stakes | 49.00% | ~8,910 |
 | Autofire | 47.00% | ~8,546 |
-| True Believer | 46.00% | ~8,364 |
-| Story Teller | 45.00% | ~8,182 |
+| True Believer | 46.00% | ~8,365 |
+| Story Teller | 45.00% | ~8,183 |
 | Surgeon | 43.00% | ~7,819 |
 | Freeze | 42.00% | ~7,637 |
 | Exterminator | 42.00% | ~7,637 |
@@ -24,14 +24,14 @@ Rating: 4.71 (Ranked 203)
 | Live with the Hot Ones | 35.00% | ~6,364 |
 | Get Off My Ship! | 35.00% | ~6,364 |
 | Strange Transmissions | 35.00% | ~6,364 |
-| Wreckage | 34.00% | ~6,182 |
+| Wreckage | 34.00% | ~6,183 |
 | Keeper of the Faith | 32.00% | ~5,819 |
 | Betrayed | 31.00% | ~5,637 |
 | Exodus | 30.00% | ~5,455 |
 | Legend Teller | 30.00% | ~5,455 |
 | Mindless Prey | 30.00% | ~5,455 |
 | There's Always Peng! | 29.00% | ~5,273 |
-| A Cut Above | 27.00% | ~4,909 |
+| A Cut Above | 27.00% | ~4,910 |
 | Front Toward Enemy | 26.00% | ~4,728 |
 | Set A Benchmark | 23.00% | ~4,182 |
 | Whole Again | 22.00% | ~4,000 |
@@ -46,14 +46,14 @@ Rating: 4.71 (Ranked 203)
 | Marked | 11.00% | ~2,000 |
 | Wishbone | 7.00% | ~1,273 |
 | Built To Order | 4.00% | ~727 |
-| Trusted Contractor | 3.00% | ~545 |
-| Merchant | 3.00% | ~545 |
+| Trusted Contractor | 3.00% | ~546 |
+| Merchant | 3.00% | ~546 |
 | One Gun | 1.00% | ~182 |
 | Maxed Out | 1.00% | ~182 |
 | Reunion | 1.00% | ~182 |
 | Untouchable | 0.90% | ~164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,183 (Ranked 164)  
+Progressed: 18,184 (Ranked 164)  
 Completed: 45 (0.25%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -179,7 +179,7 @@ Completed: 45 (0.25%) (Ranked 272)
 | 2024-01-15 | 17,945 | 43 |
 | 2024-01-16 | 18,058 | 45 |
 | 2024-01-17 | 18,173 | 45 |
-| 2024-01-18 | 18,183 | 45 |
+| 2024-01-18 | 18,184 | 45 |
 ## Awards
 Max (Great Boss Battles): 294  (Ranked 268)  
 Sum: 294 (Ranked 384)  

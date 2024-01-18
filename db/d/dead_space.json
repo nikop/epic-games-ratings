@@ -971,9 +971,9 @@
       "Count": 294
     }
   ],
-  "EOS_Progressed": 18183,
+  "EOS_Progressed": 18184,
   "EOS_Completed": 45,
-  "EOS_NewPlayers": 1290,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -11521,6 +11521,11 @@
       "Time": "2024-01-18T01:53:17.2178626+00:00",
       "NumProgressed": 18183,
       "NumCompleted": 45
+    },
+    {
+      "Time": "2024-01-18T02:29:14.1391086+00:00",
+      "NumProgressed": 18184,
+      "NumCompleted": 45
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -11533,7 +11538,7 @@
       "Name": "Welcome Aboard",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 15092
+      "UsersEstimate": 15093
     },
     {
       "ID": "achievement_10",
@@ -11597,7 +11602,7 @@
       "Name": "Trusted Contractor",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "achievement_18",
@@ -11645,7 +11650,7 @@
       "Name": "A Cut Above",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 4909
+      "UsersEstimate": 4910
     },
     {
       "ID": "achievement_23",
@@ -11693,7 +11698,7 @@
       "Name": "Story Teller",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 8182
+      "UsersEstimate": 8183
     },
     {
       "ID": "achievement_29",
@@ -11709,7 +11714,7 @@
       "Name": "All Systems Go",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 10182
+      "UsersEstimate": 10183
     },
     {
       "ID": "achievement_30",
@@ -11717,7 +11722,7 @@
       "Name": "Merchant",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "achievement_31",
@@ -11797,7 +11802,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 9273
+      "UsersEstimate": 9274
     },
     {
       "ID": "achievement_40",
@@ -11869,7 +11874,7 @@
       "Name": "True Believer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8364
+      "UsersEstimate": 8365
     },
     {
       "ID": "achievement_6",
@@ -11901,14 +11906,14 @@
       "Name": "Wreckage",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6182
+      "UsersEstimate": 6183
     }
   ],
   "AchievementSets": [
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 18183,
+      "Progressed": 18184,
       "Completed": 45
     }
   ],
@@ -11916,8 +11921,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2024-01-17T11:02:41.9686673+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:53:17.2178622+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:29:14.1391082+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.351068+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:51:15.3039026+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:53:17.2179462+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:27:13.7038236+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:29:14.1392385+00:00"
 }

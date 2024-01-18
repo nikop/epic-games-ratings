@@ -2,7 +2,7 @@
   "ID": "19d5458aa3c849a1b0fff69da4c9ed9d",
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
-  "Ranking_EOS_Progress": 298,
+  "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 181,
   "Ranking_EOS_NewPlayers": 255,
   "Ranking_EOS_NewCompleters": 157,
@@ -3637,9 +3637,9 @@
       "ID": "achievement_13",
       "SetID": "7ldgi7j",
       "Name": "Competitor\u0027s Spirit",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 347
     },
     {
       "ID": "achievement_14",
@@ -3755,8 +3755,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:52:40.1789514+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:28:38.5858308+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.0492343+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:46:02.6443101+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:52:40.1789742+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:22:13.8630771+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:28:38.5858547+00:00"
 }

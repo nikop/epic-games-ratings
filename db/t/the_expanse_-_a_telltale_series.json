@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19120,
+  "EOS_Progressed": 19121,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 288,
+  "EOS_NewPlayers": 289,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17674,6 +17674,11 @@
       "Time": "2024-01-18T01:54:28.6078722+00:00",
       "NumProgressed": 19120,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T02:30:25.6326762+00:00",
+      "NumProgressed": 19121,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17734,7 +17739,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "16",
@@ -17750,7 +17755,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2294
+      "UsersEstimate": 2295
     },
     {
       "ID": "18",
@@ -17934,7 +17939,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "33",
@@ -17965,13 +17970,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19120,
+      "Progressed": 19121,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5074,
+      "Progressed": 5075,
       "Completed": 1340
     }
   ],
@@ -17979,8 +17984,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:54:28.607872+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:30:25.632676+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:47:54.4365642+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:54:28.6079574+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:24:04.4006037+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:30:25.6327947+00:00"
 }

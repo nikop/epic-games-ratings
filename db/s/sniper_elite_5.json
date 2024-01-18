@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 259,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 4295,
+  "EOS_Progressed": 4296,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9773,6 +9773,11 @@
       "Time": "2024-01-17T23:10:51.2894516+00:00",
       "NumProgressed": 4295,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-18T02:33:54.4663166+00:00",
+      "NumProgressed": 4296,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9992,7 +9997,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1331
+      "UsersEstimate": 1332
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -10096,7 +10101,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1503
+      "UsersEstimate": 1504
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -10120,7 +10125,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1374
+      "UsersEstimate": 1375
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10152,7 +10157,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10351,13 +10356,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4246,
+      "Progressed": 4247,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4295,
+      "Progressed": 4296,
       "Completed": 11
     }
   ],
@@ -10365,8 +10370,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-14T22:57:09.406703+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:58:01.7271581+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:33:54.4663164+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:46:50.7488622+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:58:01.7272616+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:23:02.0877417+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:33:54.4664244+00:00"
 }

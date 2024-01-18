@@ -793,7 +793,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4603,
+  "EOS_Progressed": 4604,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
@@ -12878,6 +12878,11 @@
       "Time": "2024-01-18T01:54:37.4020432+00:00",
       "NumProgressed": 4603,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T02:30:33.6872818+00:00",
+      "NumProgressed": 4604,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12993,7 +12998,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "dragonmaster",
@@ -13001,7 +13006,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "dragonslayer",
@@ -13057,7 +13062,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "exoticmerchant",
@@ -13065,7 +13070,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "fellowshippower",
@@ -13073,7 +13078,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "fourleafclover",
@@ -13137,7 +13142,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "howdoyouturnthison",
@@ -13159,9 +13164,9 @@
       "ID": "inspection",
       "SetID": "3nl4bcg",
       "Name": "Inspection",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 645
     },
     {
       "ID": "jewelenchanting",
@@ -13225,7 +13230,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 690
+      "UsersEstimate": 691
     },
     {
       "ID": "missionsdedication",
@@ -13449,7 +13454,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4281
+      "UsersEstimate": 4282
     },
     {
       "ID": "warmachinesarmy",
@@ -13481,14 +13486,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3590
+      "UsersEstimate": 3591
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4603,
+      "Progressed": 4604,
       "Completed": 2
     }
   ],
@@ -13496,8 +13501,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-17T22:58:46.2405409+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:54:37.4020428+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:30:33.6872814+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:46:13.2492775+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:54:37.4021882+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:22:24.4102431+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:30:33.6874949+00:00"
 }

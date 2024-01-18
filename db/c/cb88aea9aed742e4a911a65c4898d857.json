@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 220,
   "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 426,
+  "Ranking_PopularitySum": 427,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 108,
@@ -395,9 +395,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11720,
+  "EOS_Progressed": 11721,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 706,
+  "EOS_NewPlayers": 704,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5285,6 +5285,11 @@
       "Time": "2024-01-18T01:58:18.374303+00:00",
       "NumProgressed": 11720,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T02:34:11.2036632+00:00",
+      "NumProgressed": 11721,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5297,7 +5302,7 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2578
+      "UsersEstimate": 2579
     },
     {
       "ID": "03_TheStolenStar",
@@ -5609,7 +5614,7 @@
       "Name": "Jungle Heat",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1406
+      "UsersEstimate": 1407
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5816,7 +5821,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11720,
+      "Progressed": 11721,
       "Completed": 1
     }
   ],
@@ -5824,8 +5829,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-18T01:47:06.6801147+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:58:18.3743029+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:34:11.2036629+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:47:06.6801152+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:58:18.374361+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:23:18.1360195+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:34:11.2037481+00:00"
 }

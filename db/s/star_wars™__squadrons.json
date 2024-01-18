@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42065,
+  "EOS_Progressed": 42067,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2050,
+  "EOS_NewPlayers": 2047,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14259,6 +14259,11 @@
       "Time": "2024-01-18T01:58:19.0407167+00:00",
       "NumProgressed": 42065,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T02:34:11.9073195+00:00",
+      "NumProgressed": 42067,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -14319,7 +14324,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 7992
+      "UsersEstimate": 7993
     },
     {
       "ID": "achievement_16",
@@ -14495,7 +14500,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 39962
+      "UsersEstimate": 39964
     },
     {
       "ID": "achievement_36",
@@ -14615,7 +14620,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5468
+      "UsersEstimate": 5469
     },
     {
       "ID": "achievement_7",
@@ -14646,7 +14651,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 42065,
+      "Progressed": 42067,
       "Completed": 3
     }
   ],
@@ -14654,8 +14659,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:58:19.0407165+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:34:11.9073193+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.3811703+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:51:39.8230496+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:58:19.0407959+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:27:38.3303553+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:34:11.9074246+00:00"
 }

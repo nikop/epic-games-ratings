@@ -10,7 +10,7 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 39.00% | ~102 |
 | Civilian | 36.00% | ~94 |
 | Role Model | 35.00% | ~91 |
-| Creator | 32.00% | ~84 |
+| Creator | 33.00% | ~86 |
 | Military Leader | 30.00% | ~78 |
 | Festival-goer | 30.00% | ~78 |
 | Peddler | 25.00% | ~65 |

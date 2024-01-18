@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 418,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17923,
+  "EOS_Progressed": 17924,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18610,6 +18610,11 @@
       "Time": "2024-01-17T23:07:51.9270116+00:00",
       "NumProgressed": 17923,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-18T02:30:14.8703162+00:00",
+      "NumProgressed": 17924,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18637,7 +18642,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "tpote_achievement_12",
@@ -18661,7 +18666,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5735
+      "UsersEstimate": 5736
     },
     {
       "ID": "tpote_achievement_15",
@@ -18709,7 +18714,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5735
+      "UsersEstimate": 5736
     },
     {
       "ID": "tpote_achievement_20",
@@ -18909,7 +18914,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "tpote_achievement_6",
@@ -18917,7 +18922,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4122
+      "UsersEstimate": 4123
     },
     {
       "ID": "tpote_achievement_7",
@@ -18948,15 +18953,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17923,
+      "Progressed": 17924,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:54:18.1595056+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:30:14.8703159+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:51:23.2930616+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:54:18.1595985+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:27:21.7902904+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:30:14.8704453+00:00"
 }

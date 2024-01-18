@@ -2291,9 +2291,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22517,
+  "EOS_Progressed": 22518,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14286,6 +14286,11 @@
       "Time": "2024-01-18T01:58:00.7211761+00:00",
       "NumProgressed": 22517,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-18T02:33:53.5070781+00:00",
+      "NumProgressed": 22518,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14465,7 +14470,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4503
+      "UsersEstimate": 4504
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14529,7 +14534,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5854
+      "UsersEstimate": 5855
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14649,7 +14654,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14672,13 +14677,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22517,
+      "Progressed": 22518,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10443,
+      "Progressed": 10444,
       "Completed": 29
     }
   ],
@@ -14686,8 +14691,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T22:03:19.3835436+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:58:00.7211756+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:33:53.5070778+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:51:41.9680661+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:58:00.7212526+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:27:40.2516936+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:33:53.5071772+00:00"
 }

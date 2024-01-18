@@ -18540,10 +18540,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 501784,
       "NumberOfAwardsMax": 141662
+    },
+    {
+      "Time": "2024-01-18T02:27:32.8900123+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 501951,
+      "NumberOfAwardsMax": 141662
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 501784,
+  "NumberOfAwards": 501951,
   "NumberOfAwardsMax": 141662,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18605,7 +18611,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 28676
+      "Count": 28843
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18620,9 +18626,9 @@
       "Count": 19395
     }
   ],
-  "EOS_Progressed": 1053882,
+  "EOS_Progressed": 1053894,
   "EOS_Completed": 3117,
-  "EOS_NewPlayers": 9287,
+  "EOS_NewPlayers": 9249,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -49840,6 +49846,11 @@
       "Time": "2024-01-18T01:57:10.1133088+00:00",
       "NumProgressed": 1053882,
       "NumCompleted": 3117
+    },
+    {
+      "Time": "2024-01-18T02:33:04.3199762+00:00",
+      "NumProgressed": 1053894,
+      "NumCompleted": 3117
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -49874,9 +49885,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2108
+      "UsersEstimate": 3162
     },
     {
       "ID": "Denied",
@@ -50387,21 +50398,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1053882,
+      "Progressed": 1053894,
       "Completed": 3117
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 182505,
+      "Progressed": 182517,
       "Completed": 10643
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-17T23:03:55.4793261+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:57:10.1133084+00:00",
+  "LastChanged": "2024-01-18T02:27:32.8900122+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:33:04.3199759+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:51:34.0109113+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:57:10.1134849+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:27:32.8900126+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:33:04.3201909+00:00"
 }

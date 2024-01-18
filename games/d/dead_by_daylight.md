@@ -6,20 +6,20 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~82,767 |
-| Skillful | 7.00% | ~82,767 |
-| Zealous | 6.00% | ~70,943 |
-| Not half bad | 5.00% | ~59,119 |
-| Apt Survivor | 5.00% | ~59,119 |
-| Survival Treasures | 5.00% | ~59,119 |
-| Make Some Noise | 5.00% | ~59,119 |
-| No one left behind | 4.00% | ~47,295 |
-| Handyman | 4.00% | ~47,295 |
-| I | 4.00% | ~47,295 |
-| Sorted | 4.00% | ~47,295 |
-| Healthy Obsession | 4.00% | ~47,295 |
-| Resurgence | 4.00% | ~47,295 |
-| Preemptive Strike | 4.00% | ~47,295 |
+| It wakes | 7.00% | ~82,769 |
+| Skillful | 7.00% | ~82,769 |
+| Zealous | 6.00% | ~70,945 |
+| Not half bad | 5.00% | ~59,121 |
+| Apt Survivor | 5.00% | ~59,121 |
+| Survival Treasures | 5.00% | ~59,121 |
+| Make Some Noise | 5.00% | ~59,121 |
+| No one left behind | 4.00% | ~47,297 |
+| Handyman | 4.00% | ~47,297 |
+| I | 4.00% | ~47,297 |
+| Sorted | 4.00% | ~47,297 |
+| Healthy Obsession | 4.00% | ~47,297 |
+| Resurgence | 4.00% | ~47,297 |
+| Preemptive Strike | 4.00% | ~47,297 |
 | The Grand Sacrifice | 3.00% | ~35,472 |
 | Agonizing Escape | 3.00% | ~35,472 |
 | Backdoor Escape | 3.00% | ~35,472 |
@@ -89,9 +89,9 @@ Number of Ratings: 70,340  (23.09.2022)
 | Extraterrestrial | 1.00% | ~11,824 |
 | MU/TH/UR Dearest | 1.00% | ~11,824 |
 | Outta Nowhere | 1.00% | ~11,824 |
-| Jump Scares | 0.90% | ~10,641 |
-| Party Crasher | 0.90% | ~10,641 |
-| High Speed Pursuit | 0.90% | ~10,641 |
+| Jump Scares | 0.90% | ~10,642 |
+| Party Crasher | 0.90% | ~10,642 |
+| High Speed Pursuit | 0.90% | ~10,642 |
 | Deep Cleansing | 0.80% | ~9,459 |
 | Texas BBQ | 0.80% | ~9,459 |
 | Outrage | 0.80% | ~9,459 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,182 |
 | Adept Good Guy | 0.10% | ~1,182 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,182,384 (Ranked 13)  
+Progressed: 1,182,416 (Ranked 13)  
 Completed: 68 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -512,7 +512,7 @@ Completed: 68 (0.01%) (Ranked 378)
 | 2024-01-15 | 1,179,156 | 68 |
 | 2024-01-16 | 1,180,767 | 68 |
 | 2024-01-17 | 1,182,216 | 68 |
-| 2024-01-18 | 1,182,384 | 68 |
+| 2024-01-18 | 1,182,416 | 68 |
 ## Awards
 Max (Diverse Characters): 39,860  (Ranked 15)  
 Sum: 300,134 (Ranked 12)  

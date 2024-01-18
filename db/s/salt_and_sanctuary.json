@@ -3042,9 +3042,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544648,
+  "EOS_Progressed": 544649,
   "EOS_Completed": 1688,
-  "EOS_NewPlayers": 670,
+  "EOS_NewPlayers": 671,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -33327,6 +33327,11 @@
       "Time": "2024-01-18T01:53:03.1213104+00:00",
       "NumProgressed": 544648,
       "NumCompleted": 1688
+    },
+    {
+      "Time": "2024-01-18T02:29:00.216289+00:00",
+      "NumProgressed": 544649,
+      "NumCompleted": 1688
     }
   ],
   "TotalAchievements": 37,
@@ -33394,7 +33399,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 452058
+      "UsersEstimate": 452059
     },
     {
       "ID": "HONED",
@@ -33450,7 +33455,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217859
+      "UsersEstimate": 217860
     },
     {
       "ID": "THE_CASTLE",
@@ -33633,15 +33638,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544648,
+      "Progressed": 544649,
       "Completed": 1688
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-17T19:00:06.7804227+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:53:03.12131+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:29:00.2162887+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.9396789+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:47:55.9160389+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:53:03.121485+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:24:05.7772486+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:29:00.2165458+00:00"
 }

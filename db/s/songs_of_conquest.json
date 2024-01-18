@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1222,
+  "EOS_Progressed": 1223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4222,6 +4222,11 @@
       "Time": "2024-01-18T01:57:43.8264489+00:00",
       "NumProgressed": 1222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T02:33:36.9980604+00:00",
+      "NumProgressed": 1223,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4544,9 +4549,9 @@
       "ID": "TrojanHorse",
       "SetID": "71c0n9i",
       "Name": "Trojan Horse",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 49
     },
     {
       "ID": "UltraKill",
@@ -4562,7 +4567,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "WielderLevel2",
@@ -4618,7 +4623,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4665,15 +4670,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1222,
+      "Progressed": 1223,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:57:43.8264486+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:33:36.9980601+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:51:09.93874+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:57:43.8265015+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:27:08.3308355+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:33:36.9981083+00:00"
 }

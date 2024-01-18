@@ -2,7 +2,7 @@
   "ID": "conanexiles",
   "Name": "Conan Exiles",
   "ProductSlug": "conan-exiles",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 549,
   "Ranking_Popularity": 136,
   "Ranking_PopularitySum": 93,
   "Ranking_EOS_Progress": 838,
@@ -9502,10 +9502,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 11487,
       "NumberOfAwardsMax": 1687
+    },
+    {
+      "Time": "2024-01-18T02:23:51.7704471+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 11489,
+      "NumberOfAwardsMax": 1687
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11487,
+  "NumberOfAwards": 11489,
   "NumberOfAwardsMax": 1687,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -9549,7 +9555,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1467
+      "Count": 1469
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9575,8 +9581,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:49.0940249+00:00",
-  "LastChanged": "2024-01-17T15:00:23.859495+00:00",
+  "LastChanged": "2024-01-18T02:23:51.7704471+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:26.1352904+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:47:41.718782+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:53:17.5022681+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:23:51.7704476+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:29:14.4327036+00:00"
 }

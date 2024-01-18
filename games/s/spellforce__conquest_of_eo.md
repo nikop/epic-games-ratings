@@ -18,8 +18,8 @@
 | Necromancer's Apprentice | 38.00% | ~56 |
 | Alchemist's Apprentice | 36.00% | ~53 |
 | Friend of Lyraine | 32.00% | ~47 |
+| Redecorating | 30.00% | ~44 |
 | The Circle | 30.00% | ~44 |
-| Redecorating | 29.00% | ~43 |
 | Bad JuJu | 25.00% | ~37 |
 | Friend of Sevenkeeps | 22.00% | ~33 |
 | Slave to the rhythm | 20.00% | ~30 |
@@ -53,11 +53,11 @@
 | Get to the Airship! | 6.00% | ~9 |
 | Defeat Ianna | 6.00% | ~9 |
 | Defeat Raith | 6.00% | ~9 |
+| Defeat Undergast | 6.00% | ~9 |
 | Master Artificer | 6.00% | ~9 |
 | Heroes | 6.00% | ~9 |
 | My Friends! | 6.00% | ~9 |
 | Friend of Grey Dusk Vale | 6.00% | ~9 |
-| Defeat Undergast | 5.00% | ~7 |
 | Elynn's Tale | 5.00% | ~7 |
 | Lore's Tale | 5.00% | ~7 |
 | Misty Coast Dragonbones | 5.00% | ~7 |

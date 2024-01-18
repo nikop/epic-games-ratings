@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1121,
+  "EOS_Progressed": 1122,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.16,
   "EosHistory": [
@@ -3200,6 +3200,11 @@
       "Time": "2024-01-18T00:10:15.6716281+00:00",
       "NumProgressed": 1121,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-18T02:33:49.2660944+00:00",
+      "NumProgressed": 1122,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 20,
@@ -3211,7 +3216,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3259,7 +3264,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ENDING_6",
@@ -3283,7 +3288,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -3299,7 +3304,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "GOOD_KARMA",
@@ -3323,7 +3328,7 @@
       "Name": "Office Clerk",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -3370,7 +3375,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1121,
+      "Progressed": 1122,
       "Completed": 13
     }
   ],
@@ -3378,8 +3383,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:57:56.5187158+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:33:49.2660942+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.1573775+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:45:30.3496764+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:57:56.5187518+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:21:40.1657513+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:33:49.2661258+00:00"
 }

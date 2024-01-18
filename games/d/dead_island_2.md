@@ -1,25 +1,25 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 550)  
+Rating: 4.54 (Ranked 549)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,545 |
-| Break A Leg | 9.00% | ~72,490 |
-| Hotel California | 9.00% | ~72,490 |
-| Coup de Grâce | 8.00% | ~64,436 |
-| Hazardous Materials | 8.00% | ~64,436 |
-| Git Gutte! | 7.00% | ~56,381 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,381 |
-| Dr. Reed, I Presume? | 6.00% | ~48,327 |
-| Bookworm | 6.00% | ~48,327 |
-| Friends Like These | 6.00% | ~48,327 |
-| Apex Predator | 6.00% | ~48,327 |
-| Stacking the Deck | 6.00% | ~48,327 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,272 |
-| But Doctor, I am Butcho | 5.00% | ~40,272 |
-| This is My Weapon | 5.00% | ~40,272 |
+| Welcome To Hell-A | 10.00% | ~80,546 |
+| Break A Leg | 9.00% | ~72,491 |
+| Hotel California | 9.00% | ~72,491 |
+| Coup de Grâce | 8.00% | ~64,437 |
+| Hazardous Materials | 8.00% | ~64,437 |
+| Git Gutte! | 7.00% | ~56,382 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,382 |
+| Dr. Reed, I Presume? | 6.00% | ~48,328 |
+| Bookworm | 6.00% | ~48,328 |
+| Friends Like These | 6.00% | ~48,328 |
+| Apex Predator | 6.00% | ~48,328 |
+| Stacking the Deck | 6.00% | ~48,328 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,273 |
+| But Doctor, I am Butcho | 5.00% | ~40,273 |
+| This is My Weapon | 5.00% | ~40,273 |
 | Making Your Mark | 4.00% | ~32,218 |
 | Anger Management | 4.00% | ~32,218 |
 | Perks of the Job | 4.00% | ~32,218 |
@@ -33,8 +33,8 @@ Rating: 4.54 (Ranked 550)
 | Our True Nature | 4.00% | ~32,218 |
 | Whatever It Takes | 4.00% | ~5,240 |
 | Pork Chopped | 4.00% | ~5,240 |
-| Humanity Distilled | 3.00% | ~24,163 |
-| Down with the Sickness | 3.00% | ~24,163 |
+| Humanity Distilled | 3.00% | ~24,164 |
+| Down with the Sickness | 3.00% | ~24,164 |
 | One of Us | 3.00% | ~3,930 |
 | Smorgasbord | 2.00% | ~16,109 |
 | Not Even My Final Form | 2.00% | ~16,109 |
@@ -43,11 +43,11 @@ Rating: 4.54 (Ranked 550)
 | Max Headroom | 2.00% | ~16,109 |
 | Go, Bobcats! | 2.00% | ~16,109 |
 | Rising Star | 2.00% | ~16,109 |
-| Make it So | 1.00% | ~8,054 |
-| LA Influential | 1.00% | ~8,054 |
-| On Safari | 1.00% | ~8,054 |
-| Gore Horse | 1.00% | ~8,054 |
-| Variety is the Spice of Death | 1.00% | ~8,054 |
+| Make it So | 1.00% | ~8,055 |
+| LA Influential | 1.00% | ~8,055 |
+| On Safari | 1.00% | ~8,055 |
+| Gore Horse | 1.00% | ~8,055 |
+| Variety is the Spice of Death | 1.00% | ~8,055 |
 | Sole Survivor | 0.90% | ~7,249 |
 | Sharpest Tool in the Box | 0.90% | ~7,249 |
 | Top That, Tisha! | 0.60% | ~786 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 550)
 | Bucket List | 0.10% | ~805 |
 | Wilhelm | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,449 (Ranked 23)  
+Progressed: 805,459 (Ranked 23)  
 Completed: 2,596 (0.32%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,10 +330,10 @@ Completed: 2,596 (0.32%) (Ranked 257)
 | 2024-01-15 | 804,269 | 2,590 |
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
-| 2024-01-18 | 805,449 | 2,596 |
+| 2024-01-18 | 805,459 | 2,596 |
 ## Awards
 Max (Great Boss Battles): 10,564  (Ranked 40)  
-Sum: 16,204 (Ranked 70)  
+Sum: 16,211 (Ranked 70)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -30
 | This game has Amazing Storytelling | 689 |
 | This game is Highly Recommended | 674 |
 | This game is Extremely Fun | 648 |
-| This game has Amazing Characters | 608 |
+| This game has Amazing Characters | 615 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -621,3 +621,4 @@ Diff (max vs sum): -30
 | 2024-01-15 | 4.54 | 10,450 | 16,016 |
 | 2024-01-16 | 4.54 | 10,503 | 16,101 |
 | 2024-01-17 | 4.54 | 10,564 | 16,204 |
+| 2024-01-18 | 4.54 | 10,564 | 16,211 |

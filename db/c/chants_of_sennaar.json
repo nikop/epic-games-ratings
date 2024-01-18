@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -139,7 +139,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2845,
+  "EOS_Progressed": 2846,
   "EOS_Completed": 219,
   "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 26,
@@ -7559,6 +7559,11 @@
       "Time": "2024-01-18T01:52:32.0530284+00:00",
       "NumProgressed": 2845,
       "NumCompleted": 219
+    },
+    {
+      "Time": "2024-01-18T02:28:30.4527908+00:00",
+      "NumProgressed": 2846,
+      "NumCompleted": 219
     }
   ],
   "TotalAchievements": 25,
@@ -7592,9 +7597,9 @@
       "ID": "META_ALL_TERMINAL",
       "SetID": "2gma9an",
       "Name": "Cable guy",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 825
+      "UsersEstimate": 797
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7602,7 +7607,7 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "META_HALF_LINK",
@@ -7618,7 +7623,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7634,7 +7639,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7682,7 +7687,7 @@
       "Name": "True G3M4R",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 910
+      "UsersEstimate": 911
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7698,7 +7703,7 @@
       "Name": "Fashion victim",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -7712,9 +7717,9 @@
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1707
+      "UsersEstimate": 1736
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7722,7 +7727,7 @@
       "Name": "Scholar",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "PROGRESS_N1",
@@ -7730,7 +7735,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1536
+      "UsersEstimate": 1537
     },
     {
       "ID": "PROGRESS_N2",
@@ -7769,7 +7774,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2845,
+      "Progressed": 2846,
       "Completed": 219
     }
   ],
@@ -7777,8 +7782,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:52:32.0530282+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:28:30.4527906+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:48:11.8463006+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:52:32.0530652+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:24:21.8873246+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:28:30.4528528+00:00"
 }

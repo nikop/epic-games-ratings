@@ -10,12 +10,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Life is your teacher | 5.00% | ~38,074 |
 | Lightning Hands | 5.00% | ~38,074 |
 | The Assault | 4.00% | ~30,459 |
-| The Hateful Pole Fighter | 3.00% | ~22,844 |
-| Stuntmaster | 3.00% | ~22,844 |
-| Street Fighting | 3.00% | ~22,844 |
-| State of constant learning | 3.00% | ~22,844 |
-| Qi Gong: Essence | 3.00% | ~22,844 |
-| Old Child | 3.00% | ~22,844 |
+| The Hateful Pole Fighter | 3.00% | ~22,845 |
+| Stuntmaster | 3.00% | ~22,845 |
+| Street Fighting | 3.00% | ~22,845 |
+| State of constant learning | 3.00% | ~22,845 |
+| Qi Gong: Essence | 3.00% | ~22,845 |
+| Old Child | 3.00% | ~22,845 |
 | A Lady's Blood in the Snow | 2.00% | ~15,230 |
 | Lady Wing Chun | 2.00% | ~15,230 |
 | Furious Fists | 2.00% | ~15,230 |
@@ -36,7 +36,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.70% | ~5,330 |
 | Source of Flying Daggers | 0.70% | ~5,330 |
 | Detective Story | 0.70% | ~5,330 |
-| Martial Hub | 0.70% | ~495 |
+| Martial Hub | 0.70% | ~496 |
 | Iron Money | 0.60% | ~4,569 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,569 |
 | Sword Stained With Blood | 0.60% | ~4,569 |
@@ -49,12 +49,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.40% | ~3,046 |
 | Drunken Fighter | 0.30% | ~2,284 |
 | Martial Artist | 0.30% | ~2,284 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,284 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,284 |
 | Be like water my friend | 0.30% | ~2,284 |
 | Deadly Venom | 0.30% | ~212 |
 | A Touch of Acumen | 0.30% | ~212 |
 | Healing Memory | 0.20% | ~1,523 |
-| Master of the Phoenix Eye Fist | 0.20% | ~1,523 |
 | Secure, Protect, Leave | 0.20% | ~142 |
 | Crouching Tiger | 0.20% | ~142 |
 | Skill and an even stronger will | 0.20% | ~142 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,483 (Ranked 26)  
+Progressed: 761,486 (Ranked 26)  
 Completed: 12,991 (1.71%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 12,991 (1.71%) (Ranked 148)
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
-| 2024-01-18 | 761,483 | 12,991 |
+| 2024-01-18 | 761,486 | 12,991 |
 ## Awards
 Max (Great Boss Battles): 7,227  (Ranked 57)  
 Sum: 12,784 (Ranked 87)  

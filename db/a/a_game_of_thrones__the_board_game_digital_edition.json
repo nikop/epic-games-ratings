@@ -1428,7 +1428,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33703,
+  "EOS_Progressed": 33706,
   "EOS_Completed": 88,
   "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 2,
@@ -30823,6 +30823,11 @@
       "Time": "2024-01-18T01:58:06.5215115+00:00",
       "NumProgressed": 33703,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-18T02:33:59.3052201+00:00",
+      "NumProgressed": 33706,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30930,7 +30935,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3033
+      "UsersEstimate": 3034
     },
     {
       "ID": "1028",
@@ -30962,7 +30967,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "1032",
@@ -30970,7 +30975,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13481
+      "UsersEstimate": 13482
     },
     {
       "ID": "1033",
@@ -30994,7 +30999,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4044
+      "UsersEstimate": 4045
     },
     {
       "ID": "1036",
@@ -31009,15 +31014,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33703,
+      "Progressed": 33706,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-17T22:58:28.4065006+00:00",
-  "LastChanged_Achievements": "2024-01-18T01:58:06.5215108+00:00",
+  "LastChanged_Achievements": "2024-01-18T02:33:59.3052196+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-18T01:46:01.5554415+00:00",
-  "LastUpdate_Achievements": "2024-01-18T01:58:06.521625+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:22:12.6933251+00:00",
+  "LastUpdate_Achievements": "2024-01-18T02:33:59.30537+00:00"
 }
