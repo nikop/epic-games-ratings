@@ -6,12 +6,12 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.30% | ~3,162 |
-| Right Back At Ya | 0.30% | ~3,162 |
-| The Hermit | 0.30% | ~3,162 |
-| The High Priestess | 0.30% | ~3,162 |
-| The Wheel of Fortune | 0.30% | ~3,162 |
-| True Soldier | 0.30% | ~3,162 |
+| Full Body Conversion | 0.30% | ~3,163 |
+| Right Back At Ya | 0.30% | ~3,163 |
+| The Hermit | 0.30% | ~3,163 |
+| The High Priestess | 0.30% | ~3,163 |
+| The Wheel of Fortune | 0.30% | ~3,163 |
+| True Soldier | 0.30% | ~3,163 |
 | Bushido and Chill | 0.20% | ~2,108 |
 | Gun Fu | 0.20% | ~2,108 |
 | Master Crafter | 0.20% | ~2,108 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,156 (Ranked 17)  
+Progressed: 1,054,205 (Ranked 17)  
 Completed: 3,118 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 3,118 (0.30%) (Ranked 262)
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
-| 2024-01-18 | 1,054,156 | 3,118 |
+| 2024-01-18 | 1,054,205 | 3,118 |
 ## Awards
 Max (Character Customization): 141,662  (Ranked 8)  
 Sum: 502,938 (Ranked 8)  

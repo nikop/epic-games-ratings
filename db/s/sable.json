@@ -641,9 +641,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 111352,
-  "EOS_Completed": 1139,
-  "EOS_NewPlayers": 1064,
+  "EOS_Progressed": 111354,
+  "EOS_Completed": 1140,
+  "EOS_NewPlayers": 1059,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -32071,6 +32071,11 @@
       "Time": "2024-01-18T12:10:30.6148979+00:00",
       "NumProgressed": 111352,
       "NumCompleted": 1139
+    },
+    {
+      "Time": "2024-01-18T13:16:52.8012054+00:00",
+      "NumProgressed": 111354,
+      "NumCompleted": 1140
     }
   ],
   "TotalAchievements": 56,
@@ -32194,7 +32199,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 17816
+      "UsersEstimate": 17817
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -32298,7 +32303,7 @@
       "Name": "Power to the People",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15589
+      "UsersEstimate": 15590
     },
     {
       "ID": "ach_028_accuse_suspect",
@@ -32330,7 +32335,7 @@
       "Name": "Nesting Giant",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 15589
+      "UsersEstimate": 15590
     },
     {
       "ID": "ach_032_collect_elephant_beetle",
@@ -32338,7 +32343,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26724
+      "UsersEstimate": 26725
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -32410,7 +32415,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26724
+      "UsersEstimate": 26725
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -32418,7 +32423,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17816
+      "UsersEstimate": 17817
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -32426,7 +32431,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 17816
+      "UsersEstimate": 17817
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -32434,7 +32439,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 20043
+      "UsersEstimate": 20044
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -32466,7 +32471,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17816
+      "UsersEstimate": 17817
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -32482,7 +32487,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 24497
+      "UsersEstimate": 24498
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -32529,15 +32534,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 111352,
-      "Completed": 1139
+      "Progressed": 111354,
+      "Completed": 1140
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2024-01-16T05:00:33.2548308+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:10:30.6148976+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:16:52.801205+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.3687916+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:57:32.9838771+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:10:30.6150699+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:03:00.692748+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:16:52.8014182+00:00"
 }

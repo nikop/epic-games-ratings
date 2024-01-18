@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,119 |
+| Malpractice Assurance | 14.00% | ~1,120 |
 | Lost and Found | 9.00% | ~720 |
 | Autodidact | 8.00% | ~10,650 |
 | This Belongs in a Museum | 7.00% | ~9,319 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,127 (Ranked 92)  
+Progressed: 133,130 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,127 | 5 |
+| 2024-01-18 | 133,130 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
 Sum: 21,733 (Ranked 58)  

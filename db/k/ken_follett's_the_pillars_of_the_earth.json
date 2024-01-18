@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17929,
+  "EOS_Progressed": 17930,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 155,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18640,6 +18640,11 @@
       "Time": "2024-01-18T12:03:50.9883236+00:00",
       "NumProgressed": 17929,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-18T13:09:43.8934121+00:00",
+      "NumProgressed": 17930,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18691,7 +18696,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "tpote_achievement_15",
@@ -18739,7 +18744,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5737
+      "UsersEstimate": 5738
     },
     {
       "ID": "tpote_achievement_20",
@@ -18755,7 +18760,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5199
+      "UsersEstimate": 5200
     },
     {
       "ID": "tpote_achievement_22",
@@ -18811,7 +18816,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2151
+      "UsersEstimate": 2152
     },
     {
       "ID": "tpote_achievement_29",
@@ -18915,7 +18920,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6992
+      "UsersEstimate": 6993
     },
     {
       "ID": "tpote_achievement_40",
@@ -18978,15 +18983,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17929,
+      "Progressed": 17930,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:03:50.9883234+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:09:43.8934115+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:03:19.6907435+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:03:50.9884322+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:08:57.0553788+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:09:43.8935098+00:00"
 }

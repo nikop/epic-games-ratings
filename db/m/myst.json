@@ -4,7 +4,7 @@
   "ProductSlug": "myst",
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 545,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-08-26T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:16.8502811+00:00",
   "LastChanged": "2023-03-31T05:57:16.8502812+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.8982605+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:03:08.9671504+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:09:46.9890617+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:08:41.9978576+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:15:52.3342723+00:00"
 }

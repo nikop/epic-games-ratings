@@ -303,7 +303,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 2571,
+  "EOS_Progressed": 2572,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
@@ -6228,6 +6228,11 @@
       "Time": "2024-01-18T05:05:47.4734967+00:00",
       "NumProgressed": 2571,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T13:11:37.1617329+00:00",
+      "NumProgressed": 2572,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6248,7 +6253,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2288
+      "UsersEstimate": 2289
     },
     {
       "ID": "AC02",
@@ -6256,15 +6261,15 @@
       "Name": "Blood and Dust",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "AC03",
       "SetID": "l4abp0",
       "Name": "Blood and Gold",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1568
+      "UsersEstimate": 1543
     },
     {
       "ID": "AC04",
@@ -6344,7 +6349,7 @@
       "Name": "Second Psalm.",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 771
+      "UsersEstimate": 772
     },
     {
       "ID": "AC14",
@@ -6368,7 +6373,7 @@
       "Name": "Weight of Penance",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "AC17",
@@ -6384,7 +6389,7 @@
       "Name": "Acquired Taste",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "AC19",
@@ -6464,7 +6469,7 @@
       "Name": "The Punished One",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1054
+      "UsersEstimate": 1055
     },
     {
       "ID": "AC29",
@@ -6488,7 +6493,7 @@
       "Name": "The Merciless One",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "AC32",
@@ -6576,7 +6581,7 @@
       "Name": "Two Old Ones Eating Soup",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "AC43",
@@ -6607,7 +6612,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2571,
+      "Progressed": 2572,
       "Completed": 0
     }
   ],
@@ -6615,8 +6620,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-11T21:01:32.4954396+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:05:10.216236+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:11:37.1617325+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:00:24.6504714+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:05:10.216287+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:07:13.9324384+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:11:37.1617936+00:00"
 }

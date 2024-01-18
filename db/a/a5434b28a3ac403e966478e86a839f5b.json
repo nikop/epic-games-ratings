@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 972,
+  "EOS_Progressed": 973,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.23,
   "EosHistory": [
@@ -3430,6 +3430,11 @@
       "Time": "2024-01-18T04:09:36.7959077+00:00",
       "NumProgressed": 972,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-18T13:15:19.0885952+00:00",
+      "NumProgressed": 973,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3440,9 +3445,9 @@
       "ID": "ACH_end",
       "SetID": "51of0eo",
       "Name": "Assassinate the Makron",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 120,
-      "UsersEstimate": 146
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_eou1",
@@ -3450,7 +3455,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_eou2",
@@ -3482,7 +3487,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_eou6",
@@ -3498,7 +3503,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_eou8",
@@ -3545,14 +3550,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 972,
+      "Progressed": 973,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:09:23.9943943+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:15:19.0885948+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.9580247+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:00:14.7600589+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:09:23.9944155+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:06:59.0306352+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:15:19.0886168+00:00"
 }

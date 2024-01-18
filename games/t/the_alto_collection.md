@@ -6,20 +6,20 @@ Number of Ratings: 332  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rookie | 28.00% | ~15,475 |
-| Finding Your Footing | 25.00% | ~13,817 |
-| Nomad | 17.00% | ~9,396 |
-| Picking Up Speed | 15.00% | ~8,290 |
-| Welcome Maya | 14.00% | ~7,738 |
-| Scout | 12.00% | ~6,632 |
+| Rookie | 28.00% | ~15,477 |
+| Finding Your Footing | 25.00% | ~13,819 |
+| Nomad | 17.00% | ~9,397 |
+| Picking Up Speed | 15.00% | ~8,291 |
+| Welcome Maya | 14.00% | ~7,739 |
+| Scout | 12.00% | ~6,633 |
 | Sightseer | 11.00% | ~6,080 |
-| Amateur | 10.00% | ~5,527 |
+| Amateur | 10.00% | ~5,528 |
 | Unlock Maya | 8.00% | ~4,422 |
 | Wanderer | 8.00% | ~4,422 |
 | Enter Paz | 7.00% | ~3,869 |
-| Aviator | 5.00% | ~2,763 |
-| My Little Friend | 5.00% | ~2,763 |
-| One With The Board | 5.00% | ~2,763 |
+| Aviator | 5.00% | ~2,764 |
+| My Little Friend | 5.00% | ~2,764 |
+| One With The Board | 5.00% | ~2,764 |
 | Voyager | 4.00% | ~2,211 |
 | Junkie | 3.00% | ~1,658 |
 | Traveler | 3.00% | ~1,658 |
@@ -27,11 +27,11 @@ Number of Ratings: 332  (23.09.2022)
 | Human Flight | 3.00% | ~1,658 |
 | Sandboarder | 3.00% | ~1,658 |
 | Izel Has Arrived | 3.00% | ~1,658 |
-| Explorer | 2.00% | ~1,105 |
-| Pro | 2.00% | ~1,105 |
-| Journeyer | 2.00% | ~1,105 |
-| Unlock Izel | 2.00% | ~1,105 |
-| Here Comes Felipe | 2.00% | ~1,105 |
+| Explorer | 2.00% | ~1,106 |
+| Pro | 2.00% | ~1,106 |
+| Journeyer | 2.00% | ~1,106 |
+| Unlock Izel | 2.00% | ~1,106 |
+| Here Comes Felipe | 2.00% | ~1,106 |
 | Hoist the Mainsail | 1.00% | ~553 |
 | Daredevil | 1.00% | ~553 |
 | Introducing Sumara | 1.00% | ~553 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~55 |
 | Windswept | 0.10% | ~55 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,269 (Ranked 123)  
+Progressed: 55,275 (Ranked 123)  
 Completed: 5 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 5 (0.01%) (Ranked 378)
 | 2024-01-15 | 55,001 | 5 |
 | 2024-01-16 | 55,113 | 5 |
 | 2024-01-17 | 55,226 | 5 |
-| 2024-01-18 | 55,269 | 5 |
+| 2024-01-18 | 55,275 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 51  (Ranked 460)  
 Sum: 400 (Ranked 361)  

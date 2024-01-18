@@ -5,39 +5,39 @@ Rating: 4.22 (Ranked 956)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 28.00% | ~6,306 |
-| Flesh Wound | 27.00% | ~6,081 |
-| Desperate Times | 26.00% | ~5,856 |
+| The Outer Way | 28.00% | ~6,308 |
+| Flesh Wound | 27.00% | ~6,082 |
+| Desperate Times | 26.00% | ~5,857 |
 | Paper Jams | 24.00% | ~5,406 |
-| Get a Grip | 23.00% | ~5,180 |
-| Chew 'Em Up | 22.00% | ~4,955 |
+| Get a Grip | 23.00% | ~5,181 |
+| Chew 'Em Up | 22.00% | ~4,956 |
 | Reforged | 20.00% | ~4,505 |
-| Float Like A Butterfly | 19.00% | ~4,279 |
-| Workplace Hazard | 18.00% | ~4,054 |
-| If the SHU Fits... | 18.00% | ~4,054 |
-| Without A Paddle | 15.00% | ~3,378 |
-| In the Pipe, Five by Five | 14.00% | ~3,153 |
-| Two Heads Are Better Than One | 13.00% | ~2,928 |
-| Crash Site | 13.00% | ~2,928 |
+| Float Like A Butterfly | 19.00% | ~4,280 |
+| Workplace Hazard | 18.00% | ~4,055 |
+| If the SHU Fits... | 18.00% | ~4,055 |
+| Without A Paddle | 15.00% | ~3,379 |
+| In the Pipe, Five by Five | 14.00% | ~3,154 |
+| Two Heads Are Better Than One | 13.00% | ~2,929 |
+| Crash Site | 13.00% | ~2,929 |
 | Power Up | 12.00% | ~2,703 |
 | Giving Back | 11.00% | ~2,478 |
 | Terminated | 11.00% | ~2,478 |
 | What Lies Beneath | 11.00% | ~2,478 |
 | Full Circle | 11.00% | ~2,478 |
-| You Need a Gun | 10.00% | ~2,252 |
+| You Need a Gun | 10.00% | ~2,253 |
 | I Do Belong Here | 9.00% | ~2,027 |
 | Keep Fighting | 8.00% | ~836 |
-| The Commonality | 6.00% | ~1,351 |
+| The Commonality | 6.00% | ~1,352 |
 | It's Time | 6.00% | ~627 |
 | In Striking Distance | 5.00% | ~1,126 |
-| One Last Job | 3.00% | ~313 |
-| Mugshot | 2.00% | ~450 |
+| One Last Job | 3.00% | ~314 |
+| Mugshot | 2.00% | ~451 |
 | Big Spender | 2.00% | ~209 |
 | This Isn't About Escape | 2.00% | ~209 |
-| Armed to the Teeth | 1.00% | ~104 |
+| Armed to the Teeth | 1.00% | ~105 |
 | Grim Reaper | 1.00% | ~225 |
-| Instigator | 1.00% | ~104 |
-| Information Overload | 1.00% | ~104 |
+| Instigator | 1.00% | ~105 |
+| Information Overload | 1.00% | ~105 |
 | Parole Denied | 0.90% | ~94 |
 | Quick Pick | 0.80% | ~84 |
 | Subject Alpha | 0.70% | ~73 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 956)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,523 (Ranked 151)  
+Progressed: 22,527 (Ranked 151)  
 Completed: 82 (0.36%) (Ranked 250)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 82 (0.36%) (Ranked 250)
 | 2024-01-15 | 22,431 | 82 |
 | 2024-01-16 | 22,467 | 82 |
 | 2024-01-17 | 22,513 | 82 |
-| 2024-01-18 | 22,523 | 82 |
+| 2024-01-18 | 22,527 | 82 |
 ## Awards
 Max (Amazing Characters): 136  (Ranked 345)  
 Sum: 665 (Ranked 318)  

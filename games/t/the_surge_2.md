@@ -6,7 +6,7 @@ Rating: 4.27 (Ranked 912)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 78.00% | ~2,031 |
-| Don't I Know You...? | 74.00% | ~1,927 |
+| Don't I Know You...? | 75.00% | ~1,953 |
 | Jailbreak | 64.00% | ~1,667 |
 | HEADSHOT! | 37.00% | ~963 |
 | Suited and Booted | 37.00% | ~963 |
@@ -17,8 +17,8 @@ Rating: 4.27 (Ranked 912)
 | Studied The Blade | 24.00% | ~625 |
 | Home Invasion | 22.00% | ~573 |
 | Luminary | 22.00% | ~573 |
+| It's a Trap | 22.00% | ~573 |
 | True Survivor | 21.00% | ~547 |
-| It's a Trap | 21.00% | ~547 |
 | Offensive Defense | 20.00% | ~521 |
 | Shocking | 20.00% | ~521 |
 | Court Martial | 19.00% | ~495 |

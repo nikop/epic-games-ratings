@@ -5,38 +5,38 @@ Rating: 4.86 (Ranked 34)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,727 |
-| Start with a bang! | 55.00% | ~9,553 |
-| You can pet the cat! | 50.00% | ~8,684 |
-| Who put gears in there? | 41.00% | ~7,121 |
+| Feeling the beat! | 56.00% | ~9,728 |
+| Start with a bang! | 55.00% | ~9,554 |
+| You can pet the cat! | 50.00% | ~8,686 |
+| Who put gears in there? | 41.00% | ~7,122 |
 | Cream of the Crop | 37.00% | ~6,427 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,253 |
-| You got this, Peppermint? | 31.00% | ~5,384 |
-| Perfect Parry | 29.00% | ~5,037 |
-| Alright, that felt AWESOME! | 28.00% | ~4,863 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,254 |
+| You got this, Peppermint? | 31.00% | ~5,385 |
+| Perfect Parry | 29.00% | ~5,038 |
+| Alright, that felt AWESOME! | 28.00% | ~4,864 |
 | I play my own way! | 24.00% | ~4,169 |
 | This will cost you big time | 23.00% | ~3,995 |
 | Uh, they were broken when I got here | 23.00% | ~3,995 |
-| Z-shielding's got nothing on us! | 21.00% | ~3,647 |
-| Kissing the sky! | 21.00% | ~3,647 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,126 |
+| Z-shielding's got nothing on us! | 21.00% | ~3,648 |
+| Kissing the sky! | 21.00% | ~3,648 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,127 |
 | The Negotiator | 17.00% | ~2,953 |
 | Does that say weakpoint? | 17.00% | ~2,953 |
-| You must like calling me in, Chai | 15.00% | ~2,605 |
+| You must like calling me in, Chai | 15.00% | ~2,606 |
 | Headliner | 14.00% | ~2,432 |
 | Out in a puff of smoke | 14.00% | ~2,432 |
 | Time to pay up! | 13.00% | ~2,258 |
 | Perfecter Parry-er! | 13.00% | ~2,258 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,258 |
-| Who's the boss now? | 12.00% | ~2,084 |
-| I have to read these things? | 12.00% | ~2,084 |
+| Who's the boss now? | 12.00% | ~2,085 |
+| I have to read these things? | 12.00% | ~2,085 |
 | There's such a thing as TOO helpful | 9.00% | ~1,563 |
 | NOW we got a kickass hideout! | 9.00% | ~1,430 |
 | Well that was a rush! | 8.00% | ~1,390 |
 | That's a lot of junk metal… | 8.00% | ~1,390 |
 | Beat-hit mania | 7.00% | ~1,216 |
-| I told you I'd be fine, Peppermint! | 5.00% | ~868 |
-| Chip-tuned | 4.00% | ~695 |
+| Chip-tuned | 5.00% | ~869 |
+| I told you I'd be fine, Peppermint! | 5.00% | ~869 |
 | Wanna hear my playlist? | 4.00% | ~695 |
 | Check out my moves! | 4.00% | ~695 |
 | I think I deserve some praise, here! | 2.00% | ~347 |
@@ -60,6 +60,7 @@ Rating: 4.86 (Ranked 34)
 | With our powers combined…and to the rhythm… | 0.30% | ~52 |
 | I can't see this ever being a problem again | 0.20% | ~35 |
 | I think that's enough health for now | 0.20% | ~35 |
+| Have we met before? | 0.20% | ~35 |
 | I saw all those hits coming a measure away! | 0.20% | ~35 |
 | OK, I THINK I know what I'm doing now | 0.20% | ~35 |
 | It'll do, CNMN | 0.20% | ~32 |
@@ -68,7 +69,6 @@ Rating: 4.86 (Ranked 34)
 | My Ultimate Setlist | 0.10% | ~17 |
 | What a journey it was... | 0.10% | ~17 |
 | This was... not what I expected. | 0.10% | ~17 |
-| Have we met before? | 0.10% | ~17 |
 | I'm untouchable! | 0.10% | ~17 |
 | I'm trying to FOCUS HERE! | 0.10% | ~17 |
 | Please don't make this awkward | 0.10% | ~16 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,369 (Ranked 168)  
+Progressed: 17,371 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 343)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 8 (0.05%) (Ranked 343)
 | 2024-01-15 | 17,227 | 8 |
 | 2024-01-16 | 17,286 | 8 |
 | 2024-01-17 | 17,341 | 8 |
-| 2024-01-18 | 17,369 | 8 |
+| 2024-01-18 | 17,371 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 535)  

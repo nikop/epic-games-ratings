@@ -3,7 +3,7 @@
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
   "Ranking_Rating": 345,
-  "Ranking_Popularity": 423,
+  "Ranking_Popularity": 424,
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 404,
@@ -1571,7 +1571,7 @@
   ],
   "EOS_Progressed": 18381,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 715,
+  "EOS_NewPlayers": 711,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12225,9 +12225,9 @@
       "ID": "achievement_0013",
       "SetID": "9123ogc",
       "Name": "Oil and Water",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1838
     },
     {
       "ID": "achievement_0014",
@@ -12530,8 +12530,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-18T07:57:31.5210033+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:06:16.5788133+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:13:10.5561679+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:57:52.2069486+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:06:16.5788885+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:03:28.9946109+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:13:10.5562394+00:00"
 }

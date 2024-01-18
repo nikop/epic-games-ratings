@@ -8,13 +8,13 @@
 | Um, ok... | 52.00% | ~150 |
 | Congratulations, you are a sadist | 47.00% | ~135 |
 | Superstar-crossed lovers | 41.00% | ~118 |
-| A leader, you are not | 33.00% | ~95 |
+| A leader, you are not | 34.00% | ~98 |
 | Comedy Killer | 32.00% | ~92 |
 | Good job, nerd | 32.00% | ~92 |
-| Mission Complete | 31.00% | ~89 |
+| Mission Complete | 32.00% | ~92 |
 | This won't end well... | 31.00% | ~89 |
 | Bromance | 30.00% | ~86 |
-| Lootaphilia | 21.00% | ~60 |
+| Lootaphilia | 22.00% | ~63 |
 | Maybe you should give it another go | 10.00% | ~29 |
 | Mikey Lizard | 7.00% | ~20 |
 | I used to think I was indecisive... | 6.00% | ~17 |

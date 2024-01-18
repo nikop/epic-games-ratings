@@ -2291,9 +2291,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22523,
+  "EOS_Progressed": 22527,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14301,6 +14301,11 @@
       "Time": "2024-01-18T09:10:06.8961716+00:00",
       "NumProgressed": 22523,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-18T13:16:27.0675903+00:00",
+      "NumProgressed": 22527,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14320,7 +14325,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "BACKSTAB_BLIND",
@@ -14336,7 +14341,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2252
+      "UsersEstimate": 2253
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14344,7 +14349,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14416,7 +14421,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5180
+      "UsersEstimate": 5181
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14432,7 +14437,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14440,7 +14445,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4955
+      "UsersEstimate": 4956
     },
     {
       "ID": "KILL_ROBOT",
@@ -14456,7 +14461,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14464,7 +14469,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14472,7 +14477,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4279
+      "UsersEstimate": 4280
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14496,7 +14501,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -14504,7 +14509,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6306
+      "UsersEstimate": 6308
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14512,7 +14517,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4054
+      "UsersEstimate": 4055
     },
     {
       "ID": "STORY_HABITAT",
@@ -14520,7 +14525,7 @@
       "Name": "Without A Paddle",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 3378
+      "UsersEstimate": 3379
     },
     {
       "ID": "STORY_HANGAR",
@@ -14528,7 +14533,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3153
+      "UsersEstimate": 3154
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14544,7 +14549,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5856
+      "UsersEstimate": 5857
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14552,7 +14557,7 @@
       "Name": "Crash Site",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "STORY_TOWER",
@@ -14584,7 +14589,7 @@
       "Name": "Instigator",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FINISH_WAVE_50",
@@ -14640,7 +14645,7 @@
       "Name": "Information Overload",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "FIND_ESCAPE_POD",
@@ -14656,7 +14661,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "KILL_BIOBOT",
@@ -14687,13 +14692,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22523,
+      "Progressed": 22527,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10449,
+      "Progressed": 10453,
       "Completed": 29
     }
   ],
@@ -14701,8 +14706,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T22:03:19.3835436+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:10:11.9260681+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:16:27.0675899+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:03:39.4088341+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:10:11.9261495+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:09:25.2058733+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:16:27.0676808+00:00"
 }

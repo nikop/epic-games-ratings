@@ -1281,9 +1281,9 @@
       "ID": "REACH_LEVEL_10",
       "SetID": "14g34pl",
       "Name": "Powerful",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 116
+      "UsersEstimate": 119
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -1312,8 +1312,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:05:21.4227026+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:11:52.9248442+00:00",
   "LastUpdate_AppInfo": "2024-01-17T01:46:10.8318489+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:59:34.2632482+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:05:21.4227211+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:05:58.2671854+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:11:52.9248581+00:00"
 }

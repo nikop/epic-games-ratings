@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 54.00% | ~287 |
-| Starting Skyward | 48.00% | ~255 |
-| Grime is Not Good | 41.00% | ~218 |
+| In the Black | 54.00% | ~288 |
+| Starting Skyward | 48.00% | ~256 |
+| Grime is Not Good | 41.00% | ~219 |
 | Floor Galore | 36.00% | ~192 |
-| Campaign Launch | 35.00% | ~186 |
-| Dinner Dash | 35.00% | ~186 |
+| Campaign Launch | 35.00% | ~187 |
+| Dinner Dash | 35.00% | ~187 |
 | Need a Consult | 33.00% | ~176 |
-| Upgrade Unlock | 32.00% | ~170 |
-| It's Technical | 32.00% | ~170 |
+| Upgrade Unlock | 32.00% | ~171 |
+| It's Technical | 32.00% | ~171 |
 | Proper Walls | 28.00% | ~149 |
 | Delegate Maintenance | 28.00% | ~149 |
 | Destination Destiny | 28.00% | ~149 |
-| Happy Tenants | 23.00% | ~122 |
+| Happy Tenants | 23.00% | ~123 |
 | Your Prestige is Rising | 22.00% | ~117 |
 | Potent Potables | 22.00% | ~117 |
 | Smooth Service | 22.00% | ~117 |
 | Retail Revenue | 21.00% | ~112 |
-| Don't Feel a Loan | 20.00% | ~106 |
+| Don't Feel a Loan | 20.00% | ~107 |
 | Artfully Done | 18.00% | ~96 |
 | People Mover | 18.00% | ~96 |
 | Leveled Up Shops | 18.00% | ~96 |
-| Lux Living | 17.00% | ~90 |
-| Emporium Empire | 17.00% | ~90 |
-| We Don't Need No Education | 17.00% | ~90 |
-| Get Electrified | 17.00% | ~90 |
+| Lux Living | 17.00% | ~91 |
+| Emporium Empire | 17.00% | ~91 |
+| We Don't Need No Education | 17.00% | ~91 |
+| Get Electrified | 17.00% | ~91 |
 | Tasty Profits | 16.00% | ~85 |
 | Rehab Expert | 15.00% | ~80 |
 | Established Fame | 15.00% | ~80 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 532 (Ranked 352)  
+Progressed: 533 (Ranked 352)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -228,6 +228,7 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-14 | 530 | 0 |
 | 2024-01-16 | 531 | 0 |
 | 2024-01-17 | 532 | 0 |
+| 2024-01-18 | 533 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

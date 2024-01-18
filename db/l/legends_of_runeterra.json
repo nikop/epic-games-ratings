@@ -2,12 +2,12 @@
   "ID": "4fb89e9f47fe48258314c366649c398e",
   "Name": "Legends of Runeterra",
   "ProductSlug": "legends-of-runeterra",
-  "Ranking_Rating": 303,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 295,
   "Ranking_PopularitySum": 235,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 545,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-11-04T16:30:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN, VN"
     }
   },
-  "Rating": 4.66,
+  "Rating": 4.65,
   "NumberOfRatings": 431,
   "RatingHistory": [
     {
@@ -3144,10 +3144,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 1660,
       "NumberOfAwardsMax": 214
+    },
+    {
+      "Time": "2024-01-18T13:03:44.8826134+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1661,
+      "NumberOfAwardsMax": 214
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1660,
+  "NumberOfAwards": 1661,
   "NumberOfAwardsMax": 214,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3155,7 +3161,7 @@
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 195
+      "Count": 196
     },
     {
       "Text": "This game has Diverse Characters",
@@ -3229,8 +3235,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:06.6748123+00:00",
-  "LastChanged": "2024-01-17T00:00:22.0195775+00:00",
+  "LastChanged": "2024-01-18T13:03:44.8826132+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:45.3190152+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:58:02.7089948+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:09:35.127971+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:03:44.8826138+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:15:35.5185417+00:00"
 }

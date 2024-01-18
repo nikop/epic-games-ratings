@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 253,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 61,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19134,
+  "EOS_Progressed": 19135,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 290,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17724,6 +17724,11 @@
       "Time": "2024-01-18T11:08:29.6491172+00:00",
       "NumProgressed": 19134,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T13:09:35.8461089+00:00",
+      "NumProgressed": 19135,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17768,7 +17773,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "14",
@@ -17840,7 +17845,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "22",
@@ -17880,7 +17885,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "27",
@@ -17912,7 +17917,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3061
+      "UsersEstimate": 3062
     },
     {
       "ID": "30",
@@ -18015,13 +18020,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19134,
+      "Progressed": 19135,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5088,
+      "Progressed": 5089,
       "Completed": 1343
     }
   ],
@@ -18029,8 +18034,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T11:08:29.6491168+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:09:35.8461086+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:00:22.7629291+00:00",
-  "LastUpdate_Achievements": "2024-01-18T11:08:29.6492663+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:07:10.4879124+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:09:35.8462103+00:00"
 }

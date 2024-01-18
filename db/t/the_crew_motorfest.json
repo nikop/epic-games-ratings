@@ -2,12 +2,12 @@
   "ID": "9533b9db84274b15886caa464445a975",
   "Name": "The Crew\u2122 Motorfest Standard Edition",
   "ProductSlug": "the-crew-motorfest",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 190,
-  "Ranking_PopularitySum": 142,
+  "Ranking_PopularitySum": 141,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 545,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-09-14T08:00:00+00:00",
@@ -4455,10 +4455,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 5578,
       "NumberOfAwardsMax": 778
+    },
+    {
+      "Time": "2024-01-18T13:09:16.0202292+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 5594,
+      "NumberOfAwardsMax": 778
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5578,
+  "NumberOfAwards": 5594,
   "NumberOfAwardsMax": 778,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -4466,7 +4472,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 663
+      "Count": 670
     },
     {
       "Text": "This game is Relaxing",
@@ -4514,7 +4520,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 727
+      "Count": 736
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -4541,8 +4547,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-14T08:57:08.1529881+00:00",
   "FirstSeenRating": "2023-09-15T10:57:58.1384789+00:00",
-  "LastChanged": "2024-01-18T02:27:34.6530268+00:00",
+  "LastChanged": "2024-01-18T13:09:16.0202291+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.2996542+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:03:33.4328532+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:09:47.4199274+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:09:16.0202297+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:15:52.9320711+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "nioh-the-complete-edition",
   "Ranking_Rating": 512,
   "Ranking_Popularity": 47,
-  "Ranking_PopularitySum": 60,
+  "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 545,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
@@ -10253,10 +10253,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 21211,
       "NumberOfAwardsMax": 8637
+    },
+    {
+      "Time": "2024-01-18T13:03:07.285875+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 21213,
+      "NumberOfAwardsMax": 8637
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21211,
+  "NumberOfAwards": 21213,
   "NumberOfAwardsMax": 8637,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10288,7 +10294,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 995
+      "Count": 997
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10332,8 +10338,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-01-18T10:57:29.2451677+00:00",
+  "LastChanged": "2024-01-18T13:03:07.2858748+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:14.8349937+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:57:37.3872114+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:04:34.4084+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:03:07.2858754+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:10:46.3799124+00:00"
 }

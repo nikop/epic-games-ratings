@@ -11016,7 +11016,7 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133127,
+  "EOS_Progressed": 133130,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 1,
@@ -40436,6 +40436,11 @@
       "Time": "2024-01-18T12:10:25.2228732+00:00",
       "NumProgressed": 133127,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T13:16:45.7204985+00:00",
+      "NumProgressed": 133130,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40983,7 +40988,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "combat_kill_collector",
@@ -41078,21 +41083,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133127,
+      "Progressed": 133130,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 7996,
+      "Progressed": 7999,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-18T11:00:13.9321321+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:10:25.2228729+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:16:45.7204982+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:00:05.2685581+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:10:25.2230412+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:06:44.6538823+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:16:45.7206752+00:00"
 }

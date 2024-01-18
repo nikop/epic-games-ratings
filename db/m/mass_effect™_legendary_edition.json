@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4458,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8752,9 +8752,9 @@
       "ID": "achievement_124",
       "SetID": "d252ncf",
       "Name": "Recruit",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2363
     },
     {
       "ID": "achievement_125",
@@ -9556,8 +9556,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:10:37.6156161+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:17:01.3158886+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:03:40.4754963+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:10:37.6157874+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:09:26.8673795+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:17:01.3160673+00:00"
 }

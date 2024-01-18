@@ -808,9 +808,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44463,
+  "EOS_Progressed": 44465,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 436,
+  "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -28808,6 +28808,11 @@
       "Time": "2024-01-18T12:04:30.271656+00:00",
       "NumProgressed": 44463,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-18T13:10:40.4866759+00:00",
+      "NumProgressed": 44465,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29019,7 +29024,7 @@
       "Name": "Pupil",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3113
     },
     {
       "ID": "ach_legacyrival",
@@ -29163,7 +29168,7 @@
       "Name": "The Ascent of Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 3112
+      "UsersEstimate": 3113
     },
     {
       "ID": "ach_sweetheart",
@@ -29171,7 +29176,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8003
+      "UsersEstimate": 8004
     },
     {
       "ID": "ach_terror100",
@@ -29187,7 +29192,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6669
+      "UsersEstimate": 6670
     },
     {
       "ID": "ach_undercurrent",
@@ -29250,15 +29255,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44463,
+      "Progressed": 44465,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:04:30.2716557+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:10:40.4866756+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:59:38.5848944+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:04:30.2718006+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:06:05.3774238+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:10:40.486826+00:00"
 }

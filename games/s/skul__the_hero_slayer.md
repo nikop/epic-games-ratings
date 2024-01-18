@@ -6,32 +6,32 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,802 |
-| What should I buy? | 80.00% | ~11,873 |
-| Focus! | 60.00% | ~8,905 |
-| Rescued Elder Ent | 60.00% | ~8,905 |
-| The End of the Gold Mane Knights | 48.00% | ~7,124 |
-| False Goddess, Disappear | 40.00% | ~5,936 |
-| Rules of Etiquette | 38.00% | ~5,640 |
-| Inventory Management | 32.00% | ~4,749 |
-| The Fall of the Leonia Order | 31.00% | ~4,601 |
-| Quick Movements | 30.00% | ~4,452 |
-| Go Home... | 28.00% | ~4,155 |
-| The Final Battle of the First Hero | 27.00% | ~4,007 |
-| The Hero Killer | 25.00% | ~3,710 |
-| Brain at Full Throttle | 20.00% | ~2,968 |
-| Rookies Welcome | 18.00% | ~2,671 |
+| The Legend Begins | 93.00% | ~13,805 |
+| What should I buy? | 80.00% | ~11,875 |
+| Focus! | 60.00% | ~8,906 |
+| Rescued Elder Ent | 60.00% | ~8,906 |
+| The End of the Gold Mane Knights | 48.00% | ~7,125 |
+| False Goddess, Disappear | 40.00% | ~5,938 |
+| Rules of Etiquette | 38.00% | ~5,641 |
+| Inventory Management | 32.00% | ~4,750 |
+| The Fall of the Leonia Order | 31.00% | ~4,602 |
+| Quick Movements | 30.00% | ~4,453 |
+| Go Home... | 28.00% | ~4,156 |
+| The Final Battle of the First Hero | 27.00% | ~4,008 |
+| The Hero Killer | 25.00% | ~3,711 |
+| Brain at Full Throttle | 20.00% | ~2,969 |
+| Rookies Welcome | 18.00% | ~2,672 |
 | Deadly Power | 16.00% | ~2,375 |
-| Castle Restoration Plans | 13.00% | ~1,929 |
+| Castle Restoration Plans | 13.00% | ~1,930 |
 | The Dwarven Chandelier | 11.00% | ~1,633 |
 | Master of Speed | 9.00% | ~1,336 |
-| The Levitator | 8.00% | ~1,187 |
+| The Levitator | 8.00% | ~1,188 |
 | The God of Battle | 4.00% | ~594 |
 | Too Much of a Talker | 1.00% | ~148 |
 | The Skeleton King | 1.00% | ~148 |
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,841 (Ranked 175)  
+Progressed: 14,844 (Ranked 175)  
 Completed: 22 (0.15%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 22 (0.15%) (Ranked 296)
 | 2024-01-15 | 14,763 | 22 |
 | 2024-01-16 | 14,802 | 22 |
 | 2024-01-17 | 14,830 | 22 |
-| 2024-01-18 | 14,841 | 22 |
+| 2024-01-18 | 14,844 | 22 |
 ## Awards
 Max (Diverse Characters): 155  (Ranked 333)  
 Sum: 1,033 (Ranked 275)  

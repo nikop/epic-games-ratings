@@ -6,7 +6,7 @@
   "Ranking_Popularity": 255,
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 323,
+  "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 213,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
@@ -2319,7 +2319,7 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22174,
+  "EOS_Progressed": 22175,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
@@ -13529,6 +13529,11 @@
       "Time": "2024-01-18T06:04:58.6255789+00:00",
       "NumProgressed": 22174,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-18T13:11:33.9412785+00:00",
+      "NumProgressed": 22175,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13572,7 +13577,7 @@
       "Name": "Worth Every Penny",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 3104
+      "UsersEstimate": 3105
     },
     {
       "ID": "EstateAgent",
@@ -13588,7 +13593,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21065
+      "UsersEstimate": 21066
     },
     {
       "ID": "GameOver",
@@ -13620,7 +13625,7 @@
       "Name": "Mystery",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "JuniorEstateAgent",
@@ -13708,7 +13713,7 @@
       "Name": "Artistic soul",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "YouDoItWrong",
@@ -13723,15 +13728,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22174,
+      "Progressed": 22175,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-17T13:04:23.3855034+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:05:07.9018741+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:11:33.9412772+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.8721647+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:59:23.4142783+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:05:07.9019311+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:05:42.8134274+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:11:33.9413401+00:00"
 }

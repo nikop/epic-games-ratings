@@ -28,10 +28,10 @@ Rating: 4.64 (Ranked 345)
 | Gathering Dust | 11.00% | ~2,022 |
 | Eagle Eye | 10.00% | ~1,838 |
 | All in a Weekend's Work | 10.00% | ~1,838 |
+| Oil and Water | 10.00% | ~1,838 |
 | Friendly Competition | 10.00% | ~1,838 |
 | Switcheroo | 10.00% | ~1,838 |
 | One for the Book | 10.00% | ~1,838 |
-| Oil and Water | 9.00% | ~1,654 |
 | Lightning Round the World | 9.00% | ~1,654 |
 | Hitting a Bullseye | 9.00% | ~1,654 |
 | Spinning Around | 9.00% | ~1,654 |
@@ -184,9 +184,9 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-17 | 18,358 | 0 |
 | 2024-01-18 | 18,381 | 0 |
 ## Awards
-Max (Diverse Characters): 68  (Ranked 423)  
+Max (Diverse Characters): 68  (Ranked 424)  
 Sum: 460 (Ranked 348)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 68 |

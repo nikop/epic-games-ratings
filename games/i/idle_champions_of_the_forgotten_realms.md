@@ -20,9 +20,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.70% | ~1,782 |
 | Fast Food | 0.70% | ~1,546 |
 | A Persistent Buzzing | 0.60% | ~1,527 |
+| Terror in the Dark | 0.60% | ~1,527 |
 | Maddening | 0.50% | ~1,273 |
 | Beast Mode | 0.50% | ~1,273 |
-| Terror in the Dark | 0.50% | ~1,273 |
 | A Mysterious Summons | 0.50% | ~1,273 |
 | Unearthed Evil | 0.50% | ~1,273 |
 | The Crumbling Temple | 0.50% | ~1,273 |
@@ -60,6 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~509 |
 | Wet Feet | 0.20% | ~509 |
 | Hatchlings Underfoot | 0.20% | ~509 |
+| Don't Look Up! | 0.20% | ~509 |
 | Heavy Burden | 0.20% | ~509 |
 | Vecna Lives! | 0.20% | ~442 |
 | Homecoming | 0.20% | ~509 |
@@ -149,7 +150,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Levelheaded | 0.10% | ~221 |
 | The Madness of Zuggtmoy | 0.10% | ~221 |
 | It's So Pretty... | 0.10% | ~221 |
-| Don't Look Up! | 0.10% | ~255 |
 | The Cult of Lolth | 0.10% | ~221 |
 | Head over Heals | 0.10% | ~221 |
 | The Demon Lords of the Abyss | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,526 (Ranked 71)  
+Progressed: 254,534 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,7 +826,7 @@ Completed: 2,624 (1.03%) (Ranked 178)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,526 | 2,624 |
+| 2024-01-18 | 254,534 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,543 (Ranked 41)  

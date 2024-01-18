@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 363,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 288,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.08,
   "EosHistory": [
@@ -834,17 +834,17 @@
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 98
     },
     {
       "ID": "lootaphilia",
       "SetID": "84ad177",
       "Name": "Lootaphilia",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 60
+      "UsersEstimate": 63
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -866,9 +866,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "super_seducer",
@@ -939,8 +939,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:04:18.6651714+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:10:24.0398705+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.7913402+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:03:39.785712+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:04:18.6651847+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:09:25.7675283+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:10:24.0398822+00:00"
 }

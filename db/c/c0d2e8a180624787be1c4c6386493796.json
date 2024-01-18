@@ -1814,9 +1814,9 @@
       "ID": "KR4_ACHIEVEMENT_KERMIT",
       "SetID": "caeik3h",
       "Name": "None Of My Business",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_DWARF_ENGINEERS",
@@ -1846,9 +1846,9 @@
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_MEDIUM",
       "SetID": "caeik3h",
       "Name": "No Survivors II",
-      "Percentage": 81,
+      "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 266
+      "UsersEstimate": 269
     },
     {
       "ID": "KR4_ACHIEVEMENT_KILL_ENEMIES_WITH_VEZNAN_POWERS",
@@ -2141,8 +2141,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:04:15.7310993+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:10:19.9554684+00:00",
   "LastUpdate_AppInfo": "2024-01-11T20:57:08.5791664+00:00",
-  "LastUpdate_Ratings": "2024-01-18T12:00:43.6173424+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:04:15.731173+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:07:40.3740762+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:10:19.9555555+00:00"
 }

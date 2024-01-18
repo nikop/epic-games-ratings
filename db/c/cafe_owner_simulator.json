@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1237,
+  "EOS_Progressed": 1238,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -3796,6 +3796,11 @@
       "Time": "2024-01-18T12:10:20.5868126+00:00",
       "NumProgressed": 1237,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T13:16:39.4793185+00:00",
+      "NumProgressed": 1238,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 14,
@@ -3805,9 +3810,9 @@
       "ID": "ADVANCED",
       "SetID": "64e5lgf",
       "Name": "ADVANCED",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 507
+      "UsersEstimate": 495
     },
     {
       "ID": "BUSINESS_OWNER",
@@ -3815,7 +3820,7 @@
       "Name": "BUSINESS OWNER",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 1200
+      "UsersEstimate": 1201
     },
     {
       "ID": "CHIEF",
@@ -3831,7 +3836,7 @@
       "Name": "CLEANER",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "DEBTOR",
@@ -3847,7 +3852,7 @@
       "Name": "FIREFIGHTER",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "FIRST_100K",
@@ -3918,7 +3923,7 @@
     {
       "ID": "64e5lgf",
       "IsBase": true,
-      "Progressed": 1237,
+      "Progressed": 1238,
       "Completed": 0
     }
   ],
@@ -3926,8 +3931,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-01-18T12:10:20.5868123+00:00",
+  "LastChanged_Achievements": "2024-01-18T13:16:39.479318+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.6770489+00:00",
-  "LastUpdate_Ratings": "2024-01-18T11:57:24.4263706+00:00",
-  "LastUpdate_Achievements": "2024-01-18T12:10:20.5868503+00:00"
+  "LastUpdate_Ratings": "2024-01-18T13:02:48.7889394+00:00",
+  "LastUpdate_Achievements": "2024-01-18T13:16:39.4793494+00:00"
 }

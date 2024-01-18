@@ -32,7 +32,7 @@
 | It's good to be alive | 52.00% | ~307 |
 | Own four walls | 51.00% | ~301 |
 | Intriguing candies | 51.00% | ~301 |
-| Employee of the year | 50.00% | ~296 |
+| Employee of the year | 51.00% | ~301 |
 | Legal courier | 47.00% | ~278 |
 | Extreme neuropower! | 47.00% | ~278 |
 | Escaped from a big trouble | 44.00% | ~260 |

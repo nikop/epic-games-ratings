@@ -5,7 +5,7 @@ Rating: 4.56 (Ranked 512)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,934 |
+| Getting Started | 81.00% | ~15,935 |
 | Pay 'n' Spray | 50.00% | ~9,836 |
 | All Dressed Up for San Fierro | 25.00% | ~4,918 |
 | The American Dream | 19.00% | ~3,738 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 512)
 | ...Here we go again | 0.50% | ~98 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,672 (Ranked 157)  
+Progressed: 19,673 (Ranked 157)  
 Completed: 80 (0.41%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,14 +314,14 @@ Completed: 80 (0.41%) (Ranked 242)
 | 2024-01-15 | 19,602 | 79 |
 | 2024-01-16 | 19,632 | 80 |
 | 2024-01-17 | 19,657 | 80 |
-| 2024-01-18 | 19,672 | 80 |
+| 2024-01-18 | 19,673 | 80 |
 ## Awards
-Max (Great Boss Battles): 685  (Ranked 199)  
-Sum: 1,119 (Ranked 269)  
+Max (Great Boss Battles): 691  (Ranked 198)  
+Sum: 1,125 (Ranked 268)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 685 |
+| This game has Great Boss Battles | 691 |
 | This game has Amazing Characters | 61 |
 | This game is Relaxing | 59 |
 | This game has Amazing Storytelling | 59 |
@@ -568,4 +568,4 @@ Diff (max vs sum): -70
 | 2024-01-15 | 4.56 | 677 | 1,096 |
 | 2024-01-16 | 4.56 | 682 | 1,107 |
 | 2024-01-17 | 4.56 | 685 | 1,118 |
-| 2024-01-18 | 4.56 | 685 | 1,119 |
+| 2024-01-18 | 4.56 | 691 | 1,125 |
