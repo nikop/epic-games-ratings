@@ -3529,9 +3529,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 1106251,
+  "EOS_Progressed": 1106259,
   "EOS_Completed": 535,
-  "EOS_NewPlayers": 2884,
+  "EOS_NewPlayers": 2881,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34924,6 +34924,11 @@
       "Time": "2024-01-18T02:32:56.4609434+00:00",
       "NumProgressed": 1106251,
       "NumCompleted": 535
+    },
+    {
+      "Time": "2024-01-18T03:09:13.742152+00:00",
+      "NumProgressed": 1106259,
+      "NumCompleted": 535
     }
   ],
   "TotalAchievements": 37,
@@ -34935,7 +34940,7 @@
       "Name": "Ghostbuster",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 376125
+      "UsersEstimate": 376128
     },
     {
       "ID": "CompleteAustralia",
@@ -35135,7 +35140,7 @@
       "Name": "The First of Many",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 995626
+      "UsersEstimate": 995633
     },
     {
       "ID": "GetLotsOfScore",
@@ -35167,7 +35172,7 @@
       "Name": "Pump my Ride",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 519938
+      "UsersEstimate": 519942
     },
     {
       "ID": "OutOfFuelLoseRace",
@@ -35175,7 +35180,7 @@
       "Name": "Call Roadside Assistance",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 199125
+      "UsersEstimate": 199127
     },
     {
       "ID": "OutOfFuelWinRace",
@@ -35199,7 +35204,7 @@
       "Name": "I Need a Bigger Garage",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 696938
+      "UsersEstimate": 696943
     },
     {
       "ID": "WinBySmallDifference",
@@ -35207,7 +35212,7 @@
       "Name": "That Was Close",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 199125
+      "UsersEstimate": 199127
     },
     {
       "ID": "WinLotsOfConsecutiveRaces",
@@ -35230,15 +35235,15 @@
     {
       "ID": "77fdf3o",
       "IsBase": true,
-      "Progressed": 1106251,
+      "Progressed": 1106259,
       "Completed": 535
     }
   ],
   "FirstSeen": "2022-07-22T20:19:20.5347351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:12.6843682+00:00",
   "LastChanged": "2024-01-16T01:51:55.3859024+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:32:56.4609432+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:09:13.7421515+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.766646+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:27:33.5890397+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:32:56.4611328+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:03:50.8790772+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:09:13.7423178+00:00"
 }

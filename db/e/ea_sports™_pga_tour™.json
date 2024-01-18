@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 181,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,9 +20,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.01,
   "EosHistory": [
@@ -3595,6 +3595,11 @@
       "Time": "2024-01-17T21:04:06.2733341+00:00",
       "NumProgressed": 992,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-18T03:05:28.9901101+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3639,7 +3644,7 @@
       "Name": "Competitor\u0027s Spirit",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "achievement_14",
@@ -3663,7 +3668,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 833
+      "UsersEstimate": 834
     },
     {
       "ID": "achievement_17",
@@ -3679,7 +3684,7 @@
       "Name": "Perfect Round",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "achievement_2",
@@ -3703,7 +3708,7 @@
       "Name": "From Many, One",
       "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "achievement_5",
@@ -3735,7 +3740,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "achievement_9",
@@ -3750,13 +3755,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:28:38.5858308+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:05:28.9901097+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.0492343+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:22:13.8630771+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:28:38.5858547+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:58:26.6457296+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:05:28.9901411+00:00"
 }

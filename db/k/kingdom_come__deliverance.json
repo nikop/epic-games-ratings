@@ -10161,7 +10161,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 817979,
+  "EOS_Progressed": 817980,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 1094,
   "EOS_NewCompleters": 0,
@@ -41016,6 +41016,11 @@
       "Time": "2024-01-18T02:34:15.5005349+00:00",
       "NumProgressed": 817979,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-18T03:11:04.7421409+00:00",
+      "NumProgressed": 817980,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41107,7 +41112,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261753
+      "UsersEstimate": 261754
     },
     {
       "ID": "Bookworm",
@@ -41123,7 +41128,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98157
+      "UsersEstimate": 98158
     },
     {
       "ID": "Casanova",
@@ -41603,7 +41608,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98157
+      "UsersEstimate": 98158
     },
     {
       "ID": "TisButAScratch",
@@ -41682,15 +41687,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 817979,
+      "Progressed": 817980,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-17T19:59:12.4860951+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:34:15.5005347+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:11:04.7421406+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:23:32.671284+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:34:15.5007356+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:00:28.3683827+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:11:04.7423369+00:00"
 }

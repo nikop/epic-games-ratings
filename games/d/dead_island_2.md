@@ -5,13 +5,13 @@ Rating: 4.54 (Ranked 549)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,546 |
-| Break A Leg | 9.00% | ~72,491 |
-| Hotel California | 9.00% | ~72,491 |
+| Welcome To Hell-A | 10.00% | ~80,547 |
+| Break A Leg | 9.00% | ~72,492 |
+| Hotel California | 9.00% | ~72,492 |
 | Coup de Grâce | 8.00% | ~64,437 |
 | Hazardous Materials | 8.00% | ~64,437 |
-| Git Gutte! | 7.00% | ~56,382 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,382 |
+| Git Gutte! | 7.00% | ~56,383 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,383 |
 | Dr. Reed, I Presume? | 6.00% | ~48,328 |
 | Bookworm | 6.00% | ~48,328 |
 | Friends Like These | 6.00% | ~48,328 |
@@ -20,17 +20,17 @@ Rating: 4.54 (Ranked 549)
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,273 |
 | But Doctor, I am Butcho | 5.00% | ~40,273 |
 | This is My Weapon | 5.00% | ~40,273 |
-| Making Your Mark | 4.00% | ~32,218 |
-| Anger Management | 4.00% | ~32,218 |
-| Perks of the Job | 4.00% | ~32,218 |
-| Slayer Squad | 4.00% | ~32,218 |
-| Can't Handle the Truth | 4.00% | ~32,218 |
-| Like Riding a Bike | 4.00% | ~32,218 |
-| Zombologist | 4.00% | ~32,218 |
-| Ooh, Shiny! | 4.00% | ~32,218 |
-| A Patton Emerges | 4.00% | ~32,218 |
-| I Am the Resurrection | 4.00% | ~32,218 |
-| Our True Nature | 4.00% | ~32,218 |
+| Making Your Mark | 4.00% | ~32,219 |
+| Anger Management | 4.00% | ~32,219 |
+| Perks of the Job | 4.00% | ~32,219 |
+| Slayer Squad | 4.00% | ~32,219 |
+| Can't Handle the Truth | 4.00% | ~32,219 |
+| Like Riding a Bike | 4.00% | ~32,219 |
+| Zombologist | 4.00% | ~32,219 |
+| Ooh, Shiny! | 4.00% | ~32,219 |
+| A Patton Emerges | 4.00% | ~32,219 |
+| I Am the Resurrection | 4.00% | ~32,219 |
+| Our True Nature | 4.00% | ~32,219 |
 | Whatever It Takes | 4.00% | ~5,240 |
 | Pork Chopped | 4.00% | ~5,240 |
 | Humanity Distilled | 3.00% | ~24,164 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 549)
 | Bucket List | 0.10% | ~805 |
 | Wilhelm | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,459 (Ranked 23)  
+Progressed: 805,468 (Ranked 23)  
 Completed: 2,596 (0.32%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 2,596 (0.32%) (Ranked 257)
 | 2024-01-15 | 804,269 | 2,590 |
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
-| 2024-01-18 | 805,459 | 2,596 |
+| 2024-01-18 | 805,468 | 2,596 |
 ## Awards
 Max (Great Boss Battles): 10,564  (Ranked 40)  
 Sum: 16,211 (Ranked 70)  

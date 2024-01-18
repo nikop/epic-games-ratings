@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83808,
+  "EOS_Progressed": 83809,
   "EOS_Completed": 945,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30577,6 +30577,11 @@
       "Time": "2024-01-18T02:28:09.1876305+00:00",
       "NumProgressed": 83808,
       "NumCompleted": 945
+    },
+    {
+      "Time": "2024-01-18T03:04:46.6893825+00:00",
+      "NumProgressed": 83809,
+      "NumCompleted": 945
     }
   ],
   "TotalAchievements": 25,
@@ -30628,7 +30633,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15085
+      "UsersEstimate": 15086
     },
     {
       "ID": "Butcher",
@@ -30644,7 +30649,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5028
+      "UsersEstimate": 5029
     },
     {
       "ID": "Fair\u0027sFair",
@@ -30787,7 +30792,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83808,
+      "Progressed": 83809,
       "Completed": 945
     }
   ],
@@ -30795,8 +30800,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:28:09.1876302+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:04:46.6893821+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:23:45.7207586+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:28:09.1877935+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:00:49.1285465+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:04:46.6895992+00:00"
 }

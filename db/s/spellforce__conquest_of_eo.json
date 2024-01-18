@@ -1167,9 +1167,9 @@
       "ID": "Max_Reputation_Gillyshire",
       "SetID": "7b9f97e",
       "Name": "Friend of Gillyshire",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 24
     },
     {
       "ID": "Max_Reputation_Goldenfields",
@@ -1328,8 +1328,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:33:54.6224203+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:10:36.7392171+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:27:08.9100406+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:33:54.6224761+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:03:13.06448+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:10:36.7392744+00:00"
 }

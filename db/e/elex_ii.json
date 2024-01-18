@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 157,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 261,
+  "EOS_Progressed": 262,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1617,6 +1617,11 @@
       "Time": "2024-01-17T15:08:19.6351328+00:00",
       "NumProgressed": 261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T03:04:15.8037161+00:00",
+      "NumProgressed": 262,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1645,7 +1650,7 @@
       "Name": "Entrepreneur",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "100HEALS",
@@ -1693,7 +1698,7 @@
       "Name": "Peddler",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1757,7 +1762,7 @@
       "Name": "Military Leader",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ALLCOMBAT",
@@ -1805,7 +1810,7 @@
       "Name": "Role Model",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "BRINGTOYS",
@@ -1843,9 +1848,9 @@
       "ID": "CHOSEKLE",
       "SetID": "a1angca",
       "Name": "Cleric",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "CHOSEMOR",
@@ -1867,9 +1872,9 @@
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 84
     },
     {
       "ID": "DESTRUCTION",
@@ -1891,25 +1896,25 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 63
     },
     {
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 92
     },
     {
       "ID": "FINDCRONY",
@@ -1955,9 +1960,9 @@
       "ID": "HELPTHORHILD",
       "SetID": "a1angca",
       "Name": "Pass A38",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 50
     },
     {
       "ID": "KILL200MONSTER",
@@ -2028,15 +2033,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 261,
+      "Progressed": 262,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:27:47.5614379+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:04:15.8037157+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:21:34.6871547+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:27:47.5615055+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:57:27.8202281+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:04:15.8037593+00:00"
 }

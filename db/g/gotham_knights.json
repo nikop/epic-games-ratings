@@ -5339,7 +5339,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82947,
+  "EOS_Progressed": 82948,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 487,
   "EOS_NewCompleters": 2,
@@ -30634,6 +30634,11 @@
       "Time": "2024-01-18T01:53:31.6979851+00:00",
       "NumProgressed": 82947,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-18T03:06:40.2150726+00:00",
+      "NumProgressed": 82948,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30693,7 +30698,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18248
+      "UsersEstimate": 18249
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -30749,7 +30754,7 @@
       "Name": "Something in the Clay",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16589
+      "UsersEstimate": 16590
     },
     {
       "ID": "CLAYFACE_2",
@@ -30877,7 +30882,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16589
+      "UsersEstimate": 16590
     },
     {
       "ID": "FREEZE_2",
@@ -30957,7 +30962,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19907
+      "UsersEstimate": 19908
     },
     {
       "ID": "HARLEY_3",
@@ -30965,7 +30970,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16589
+      "UsersEstimate": 16590
     },
     {
       "ID": "HARLEY_4",
@@ -31013,7 +31018,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16589
+      "UsersEstimate": 16590
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -31045,7 +31050,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19907
+      "UsersEstimate": 19908
     },
     {
       "ID": "MYSTERY_03",
@@ -31053,7 +31058,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18248
+      "UsersEstimate": 18249
     },
     {
       "ID": "MYSTERY_04",
@@ -31061,7 +31066,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16589
+      "UsersEstimate": 16590
     },
     {
       "ID": "MYSTERY_05",
@@ -31132,13 +31137,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82947,
+      "Progressed": 82948,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53227,
+      "Progressed": 53228,
       "Completed": 2680
     }
   ],
@@ -31146,8 +31151,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-17T18:00:52.239204+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:29:28.3231458+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:06:40.2150722+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:24:22.5846681+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:29:28.3233601+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:01:47.3776056+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:06:40.2152676+00:00"
 }

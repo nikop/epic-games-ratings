@@ -2293,7 +2293,7 @@
   ],
   "EOS_Progressed": 22518,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 441,
+  "EOS_NewPlayers": 438,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14516,9 +14516,9 @@
       "ID": "STORY_HANGAR",
       "SetID": "4hj6d86",
       "Name": "In the Pipe, Five by Five",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2927
+      "UsersEstimate": 3153
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14691,8 +14691,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T22:03:19.3835436+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:33:53.5070778+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:10:35.2604591+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:27:40.2516936+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:33:53.5071772+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:04:01.9960605+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:10:35.2605542+00:00"
 }

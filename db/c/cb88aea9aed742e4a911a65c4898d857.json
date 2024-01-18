@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 220,
-  "Ranking_Popularity": 337,
-  "Ranking_PopularitySum": 427,
+  "Ranking_Popularity": 334,
+  "Ranking_PopularitySum": 423,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 378,
   "Ranking_EOS_NewPlayers": 108,
@@ -369,18 +369,24 @@
       "Rating": 4.7,
       "NumberOfAwards": 187,
       "NumberOfAwardsMax": 145
+    },
+    {
+      "Time": "2024-01-18T03:00:05.8249356+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 191,
+      "NumberOfAwardsMax": 149
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 187,
-  "NumberOfAwardsMax": 145,
+  "NumberOfAwards": 191,
+  "NumberOfAwardsMax": 149,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 145
+      "Count": 149
     },
     {
       "Text": "This game has Diverse Characters",
@@ -395,9 +401,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 11721,
+  "EOS_Progressed": 11722,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 704,
+  "EOS_NewPlayers": 705,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5290,6 +5296,11 @@
       "Time": "2024-01-18T02:34:11.2036632+00:00",
       "NumProgressed": 11721,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T03:10:59.2406824+00:00",
+      "NumProgressed": 11722,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5326,7 +5337,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5422,7 +5433,7 @@
       "Name": "Exemplar",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 820
+      "UsersEstimate": 821
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -5821,16 +5832,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11721,
+      "Progressed": 11722,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-18T01:47:06.6801147+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:34:11.2036629+00:00",
+  "LastChanged": "2024-01-18T03:00:05.8249354+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:10:59.240682+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.5295101+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:23:18.1360195+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:34:11.2037481+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:00:05.824936+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:10:59.2407474+00:00"
 }

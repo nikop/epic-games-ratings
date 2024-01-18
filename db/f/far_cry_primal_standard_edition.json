@@ -4,7 +4,7 @@
   "ProductSlug": "far-cry-primal",
   "Ranking_Rating": 203,
   "Ranking_Popularity": 218,
-  "Ranking_PopularitySum": 295,
+  "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
   "Ranking_EOS_NewPlayers": 547,
@@ -1847,10 +1847,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 809,
       "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2024-01-18T02:58:30.6611199+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 810,
+      "NumberOfAwardsMax": 545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 809,
+  "NumberOfAwards": 810,
   "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -1912,7 +1918,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 22
+      "Count": 23
     }
   ],
   "EOS_Progressed": 0,
@@ -1926,8 +1932,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
-  "LastChanged": "2024-01-17T14:58:03.9620285+00:00",
+  "LastChanged": "2024-01-18T02:58:30.6611198+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:08.3520824+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:22:16.5835959+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:30:23.7128909+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:58:30.6611205+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:07:59.7621753+00:00"
 }

@@ -2322,9 +2322,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16953,
+  "EOS_Progressed": 16954,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 556,
+  "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20362,6 +20362,11 @@
       "Time": "2024-01-18T00:10:49.966659+00:00",
       "NumProgressed": 16953,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T03:11:10.9723413+00:00",
+      "NumProgressed": 16954,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21219,9 +21224,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_CLERICS",
       "SetID": "7l38kb8",
       "Name": "Clerics",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_HUNTERS",
@@ -23236,21 +23241,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16953,
+      "Progressed": 16954,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16953,
+      "Progressed": 16954,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-17T20:02:50.9221949+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:34:20.6501843+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:11:10.9723406+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:27:08.4861123+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:34:20.6511685+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:03:12.4287821+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:11:10.9733326+00:00"
 }

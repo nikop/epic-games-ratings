@@ -10,15 +10,15 @@ Rating: 4.19 (Ranked 977)
 | Loose Ends | 33.00% | ~27,373 |
 | To the Victor Go the Spoils | 27.00% | ~22,396 |
 | Knighthood | 26.00% | ~21,566 |
-| Get ReQ'd | 24.00% | ~19,907 |
-| Whispered Words | 24.00% | ~19,907 |
-| The Batman Family | 22.00% | ~18,248 |
-| Lock and Key | 22.00% | ~18,248 |
-| Something in the Clay | 20.00% | ~16,589 |
-| Quartzer Life Crisis | 20.00% | ~16,589 |
-| Working Hard or Harley Working? | 20.00% | ~16,589 |
-| Unstoppable Force | 20.00% | ~16,589 |
-| Bad Apples in Every Orchard | 20.00% | ~16,589 |
+| Get ReQ'd | 24.00% | ~19,908 |
+| Whispered Words | 24.00% | ~19,908 |
+| The Batman Family | 22.00% | ~18,249 |
+| Lock and Key | 22.00% | ~18,249 |
+| Something in the Clay | 20.00% | ~16,590 |
+| Quartzer Life Crisis | 20.00% | ~16,590 |
+| Working Hard or Harley Working? | 20.00% | ~16,590 |
+| Unstoppable Force | 20.00% | ~16,590 |
+| Bad Apples in Every Orchard | 20.00% | ~16,590 |
 | Snow Problem | 19.00% | ~15,760 |
 | The Show Mud Go On | 17.00% | ~14,101 |
 | From Inside Gotham's Walls | 17.00% | ~14,101 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 977)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~106 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,947 (Ranked 110)  
+Progressed: 82,948 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 294)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 135 (0.16%) (Ranked 294)
 | 2024-01-15 | 82,834 | 134 |
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
-| 2024-01-18 | 82,947 | 135 |
+| 2024-01-18 | 82,948 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,216  (Ranked 102)  
 Sum: 5,497 (Ranked 144)  

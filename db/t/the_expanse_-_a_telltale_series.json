@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19121,
+  "EOS_Progressed": 19124,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 289,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -17679,6 +17679,11 @@
       "Time": "2024-01-18T02:30:25.6326762+00:00",
       "NumProgressed": 19121,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T03:08:02.4101754+00:00",
+      "NumProgressed": 19124,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17723,7 +17728,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3633
+      "UsersEstimate": 3634
     },
     {
       "ID": "14",
@@ -17731,7 +17736,7 @@
       "Name": "Doctor Approved",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "15",
@@ -17763,7 +17768,7 @@
       "Name": "Bottoms up!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "19",
@@ -17867,7 +17872,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "30",
@@ -17899,7 +17904,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2868
+      "UsersEstimate": 2869
     },
     {
       "ID": "7",
@@ -17947,7 +17952,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "34",
@@ -17955,7 +17960,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "35",
@@ -17970,22 +17975,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19121,
+      "Progressed": 19124,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5075,
-      "Completed": 1340
+      "Progressed": 5078,
+      "Completed": 1341
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:30:25.632676+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:08:02.4101752+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:24:04.4006037+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:30:25.6327947+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:01:18.8502875+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:08:02.4102717+00:00"
 }

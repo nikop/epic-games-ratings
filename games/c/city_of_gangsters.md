@@ -1,25 +1,25 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 884)  
+Rating: 4.29 (Ranked 885)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,793 |
-| Copacetic Coordination | 16.00% | ~58,015 |
-| Fronting the Money | 15.00% | ~54,389 |
-| The Dawn of Automation | 14.00% | ~50,763 |
-| Extraordinary Logistics | 14.00% | ~50,763 |
-| Dirty Money | 13.00% | ~47,137 |
-| Family First | 13.00% | ~47,137 |
-| Cleaning House | 12.00% | ~43,511 |
-| Room in the Back | 12.00% | ~43,511 |
-| Beating the Heat | 11.00% | ~39,885 |
-| Booze Baron | 11.00% | ~39,885 |
-| Friends on the Force | 10.00% | ~36,259 |
-| Neighborhood Watch | 10.00% | ~36,259 |
-| Core Corps | 8.00% | ~29,007 |
-| Sizeable Stash | 8.00% | ~29,007 |
+| Corner Clout | 46.00% | ~166,795 |
+| Copacetic Coordination | 16.00% | ~58,016 |
+| Fronting the Money | 15.00% | ~54,390 |
+| The Dawn of Automation | 14.00% | ~50,764 |
+| Extraordinary Logistics | 14.00% | ~50,764 |
+| Dirty Money | 13.00% | ~47,138 |
+| Family First | 13.00% | ~47,138 |
+| Cleaning House | 12.00% | ~43,512 |
+| Room in the Back | 12.00% | ~43,512 |
+| Beating the Heat | 11.00% | ~39,886 |
+| Booze Baron | 11.00% | ~39,886 |
+| Friends on the Force | 10.00% | ~36,260 |
+| Neighborhood Watch | 10.00% | ~36,260 |
+| Core Corps | 8.00% | ~29,008 |
+| Sizeable Stash | 8.00% | ~29,008 |
 | Street Fighter | 7.00% | ~25,382 |
 | Friendly Gestures | 7.00% | ~25,382 |
 | People Person | 7.00% | ~25,382 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 884)
 | High Pillow | 0.10% | ~363 |
 | Station Master | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,593 (Ranked 58)  
+Progressed: 362,597 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -359,7 +359,7 @@ Completed: 7 (0.00%) (Ranked 404)
 | 2024-01-15 | 362,302 | 7 |
 | 2024-01-16 | 362,447 | 7 |
 | 2024-01-17 | 362,581 | 7 |
-| 2024-01-18 | 362,593 | 7 |
+| 2024-01-18 | 362,597 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 440)  
 Sum: 274 (Ranked 395)  

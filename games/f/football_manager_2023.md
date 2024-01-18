@@ -5,26 +5,26 @@ Rating: 4.76 (Ranked 134)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~256,739 |
-| The Player Whisperer | 68.00% | ~253,018 |
-| One of Us, One of Us! | 62.00% | ~230,693 |
-| Clean Sheet | 55.00% | ~204,647 |
-| First Victory | 55.00% | ~204,647 |
-| #DoneDeal | 54.00% | ~200,926 |
-| Off the Books | 52.00% | ~193,484 |
-| Super-Sub | 52.00% | ~193,484 |
-| Hat-trick | 47.00% | ~174,880 |
-| Planned Signing | 45.00% | ~167,438 |
-| "I Would Love It If We Beat Them" | 44.00% | ~163,717 |
-| Scoring Streak | 41.00% | ~152,555 |
-| Wheeler Dealer | 41.00% | ~152,555 |
-| Thumping | 40.00% | ~148,834 |
-| Unbeatable! | 39.00% | ~145,113 |
-| People Pleaser | 39.00% | ~145,113 |
-| One Of Our Own | 37.00% | ~137,671 |
-| They're a Natural | 33.00% | ~122,788 |
-| Record Signing | 33.00% | ~122,788 |
-| Team Performance | 31.00% | ~115,346 |
+| Motivational Speaker | 69.00% | ~256,740 |
+| The Player Whisperer | 68.00% | ~253,019 |
+| One of Us, One of Us! | 62.00% | ~230,694 |
+| Clean Sheet | 55.00% | ~204,648 |
+| First Victory | 55.00% | ~204,648 |
+| #DoneDeal | 54.00% | ~200,927 |
+| Off the Books | 52.00% | ~193,485 |
+| Super-Sub | 52.00% | ~193,485 |
+| Hat-trick | 47.00% | ~174,881 |
+| Planned Signing | 45.00% | ~167,439 |
+| "I Would Love It If We Beat Them" | 44.00% | ~163,718 |
+| Scoring Streak | 41.00% | ~152,556 |
+| Wheeler Dealer | 41.00% | ~152,556 |
+| Thumping | 40.00% | ~148,835 |
+| Unbeatable! | 39.00% | ~145,114 |
+| People Pleaser | 39.00% | ~145,114 |
+| One Of Our Own | 37.00% | ~137,672 |
+| They're a Natural | 33.00% | ~122,789 |
+| Record Signing | 33.00% | ~122,789 |
+| Team Performance | 31.00% | ~115,347 |
 | Star Player | 30.00% | ~111,626 |
 | The Only Stat That Matters | 30.00% | ~111,626 |
 | Parked The Bus | 28.00% | ~104,184 |
@@ -33,28 +33,28 @@ Rating: 4.76 (Ranked 134)
 | Squad Goals | 28.00% | ~104,184 |
 | The People's Champion | 28.00% | ~104,184 |
 | Beating Expectations | 27.00% | ~100,463 |
-| Tremendous Trio | 26.00% | ~96,742 |
-| Unstoppable Force | 26.00% | ~96,742 |
-| Record Sale | 26.00% | ~96,742 |
-| You're on Fire | 25.00% | ~93,021 |
-| Shots For Days | 25.00% | ~93,021 |
-| On a Roll | 24.00% | ~89,300 |
-| Drilling Down | 24.00% | ~89,300 |
-| Flavour Of The Month | 24.00% | ~89,300 |
-| The Special One | 24.00% | ~89,300 |
+| Tremendous Trio | 26.00% | ~96,743 |
+| Unstoppable Force | 26.00% | ~96,743 |
+| Record Sale | 26.00% | ~96,743 |
+| You're on Fire | 25.00% | ~93,022 |
+| Shots For Days | 25.00% | ~93,022 |
+| On a Roll | 24.00% | ~89,301 |
+| Drilling Down | 24.00% | ~89,301 |
+| Flavour Of The Month | 24.00% | ~89,301 |
+| The Special One | 24.00% | ~89,301 |
 | What A Goal! | 23.00% | ~85,580 |
 | Goal Machine | 22.00% | ~81,859 |
 | Immovable Object | 21.00% | ~78,138 |
 | Cup Glory! | 21.00% | ~78,138 |
 | Splashing the Cash | 20.00% | ~74,417 |
-| Irresistible Force | 19.00% | ~70,696 |
-| Do The Double | 17.00% | ~63,254 |
-| Cash to Burn | 17.00% | ~63,254 |
+| Irresistible Force | 19.00% | ~70,697 |
+| Do The Double | 17.00% | ~63,255 |
+| Cash to Burn | 17.00% | ~63,255 |
 | Window Shopping | 15.00% | ~55,813 |
 | Top Form | 14.00% | ~52,092 |
 | A Game of Two Halves | 14.00% | ~52,092 |
 | You're Up! | 13.00% | ~48,371 |
-| Money, Money, Money | 11.00% | ~40,929 |
+| Money, Money, Money | 11.00% | ~40,930 |
 | Superb Strike | 9.00% | ~33,488 |
 | Best in the World | 9.00% | ~33,488 |
 | Clean Sheet Network | 8.00% | ~29,767 |
@@ -106,7 +106,7 @@ Rating: 4.76 (Ranked 134)
 | 200 Club | 0.10% | ~372 |
 | Draft Value | 0.10% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372,085 (Ranked 57)  
+Progressed: 372,087 (Ranked 57)  
 Completed: 30 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 30 (0.01%) (Ranked 378)
 | 2024-01-15 | 371,765 | 30 |
 | 2024-01-16 | 371,916 | 30 |
 | 2024-01-17 | 372,072 | 30 |
-| 2024-01-18 | 372,085 | 30 |
+| 2024-01-18 | 372,087 | 30 |
 ## Awards
 Max (Diverse Characters): 1,379  (Ranked 143)  
 Sum: 9,437 (Ranked 98)  

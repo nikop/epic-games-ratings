@@ -117,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Lion | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
 | Strong Difficulty | 0.60% | ~102 |
+| Clerics | 0.60% | ~102 |
 | Hunters | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Babylonia | 0.60% | ~102 |
@@ -130,7 +131,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.60% | ~102 |
 | Jerwan Aqueduct | 0.60% | ~102 |
 | Royal Library | 0.60% | ~102 |
-| Clerics | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,953 (Ranked 169)  
+Progressed: 16,954 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,953 | 5 |
+| 2024-01-18 | 16,954 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,936 (Ranked 223)  

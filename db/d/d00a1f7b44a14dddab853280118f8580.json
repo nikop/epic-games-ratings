@@ -1757,9 +1757,9 @@
       "ID": "ach_items_50",
       "SetID": "5e260i9",
       "Name": "Sharp-sighted!",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 60,
-      "UsersEstimate": 312
+      "UsersEstimate": 316
     },
     {
       "ID": "ach_minigames_10",
@@ -1804,8 +1804,8 @@
   ],
   "FirstSeen": "2023-07-30T16:57:15.6867124+00:00",
   "FirstSeenAchievements": "2023-07-27T20:02:52.2356403+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:33:30.8221304+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:10:02.3282189+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:06.9907121+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:27:09.8487295+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:33:30.8221451+00:00"
+  "LastUpdate_Ratings": "2024-01-18T03:03:14.5184391+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:10:02.3282369+00:00"
 }

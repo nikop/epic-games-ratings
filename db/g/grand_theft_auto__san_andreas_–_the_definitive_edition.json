@@ -2489,10 +2489,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 1118,
       "NumberOfAwardsMax": 685
+    },
+    {
+      "Time": "2024-01-18T02:59:13.9862889+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1119,
+      "NumberOfAwardsMax": 685
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1118,
+  "NumberOfAwards": 1119,
   "NumberOfAwardsMax": 685,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2530,7 +2536,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has a Creative Community",
@@ -2557,9 +2563,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19661,
+  "EOS_Progressed": 19662,
   "EOS_Completed": 80,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 315,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -20772,6 +20778,11 @@
       "Time": "2024-01-18T01:58:15.3922476+00:00",
       "NumProgressed": 19661,
       "NumCompleted": 80
+    },
+    {
+      "Time": "2024-01-18T03:10:55.3390842+00:00",
+      "NumProgressed": 19662,
+      "NumCompleted": 80
     }
   ],
   "TotalAchievements": 35,
@@ -20783,7 +20794,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15925
+      "UsersEstimate": 15926
     },
     {
       "ID": "ACH02",
@@ -20839,7 +20850,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9830
+      "UsersEstimate": 9831
     },
     {
       "ID": "ACH09",
@@ -20903,7 +20914,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3342
+      "UsersEstimate": 3343
     },
     {
       "ID": "ACH17",
@@ -20959,7 +20970,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 4915
+      "UsersEstimate": 4916
     },
     {
       "ID": "ACH24",
@@ -21062,16 +21073,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19661,
+      "Progressed": 19662,
       "Completed": 80
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-17T23:58:38.1093538+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:34:08.2007625+00:00",
+  "LastChanged": "2024-01-18T02:59:13.9862876+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:10:55.3390838+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:22:44.9889712+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:34:08.2008955+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:59:13.9862894+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:10:55.339195+00:00"
 }

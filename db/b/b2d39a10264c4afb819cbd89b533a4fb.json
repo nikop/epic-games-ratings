@@ -108,9 +108,9 @@
       "ID": "MATH_FUN_2",
       "SetID": "d79724p",
       "Name": "Expert Winner",
-      "Percentage": 33,
+      "Percentage": 44,
       "XP": 200,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "MATH_FUN_3",
@@ -131,8 +131,8 @@
   ],
   "FirstSeen": "2023-12-05T23:59:23.1866187+00:00",
   "FirstSeenAchievements": "2023-12-01T04:03:09.3266073+00:00",
-  "LastChanged_Achievements": "2024-01-18T02:28:44.9854612+00:00",
+  "LastChanged_Achievements": "2024-01-18T03:05:38.180484+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:00.6512667+00:00",
-  "LastUpdate_Ratings": "2024-01-18T02:21:42.2223015+00:00",
-  "LastUpdate_Achievements": "2024-01-18T02:28:44.9854666+00:00"
+  "LastUpdate_Ratings": "2024-01-18T02:57:39.3836268+00:00",
+  "LastUpdate_Achievements": "2024-01-18T03:05:38.1804963+00:00"
 }
