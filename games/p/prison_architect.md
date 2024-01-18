@@ -6,24 +6,24 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~54,561 |
-| Get Busy Living | 15.00% | ~32,737 |
-| Samuel Norton | 9.00% | ~19,642 |
-| Spare The Rod | 4.00% | ~8,730 |
-| Don't Put Me In The Dark | 3.00% | ~6,547 |
-| Wait and Hope | 3.00% | ~6,547 |
-| I May Have Found A Way Out Of Here | 3.00% | ~6,547 |
-| Throw The Book At Them | 2.00% | ~4,365 |
-| Iron Bars | 2.00% | ~4,365 |
-| D.B. Cooper | 1.00% | ~2,182 |
-| Reformation | 0.60% | ~1,309 |
+| Stone Walls | 25.00% | ~54,569 |
+| Get Busy Living | 15.00% | ~32,741 |
+| Samuel Norton | 9.00% | ~19,645 |
+| Spare The Rod | 4.00% | ~8,731 |
+| Don't Put Me In The Dark | 3.00% | ~6,548 |
+| Wait and Hope | 3.00% | ~6,548 |
+| I May Have Found A Way Out Of Here | 3.00% | ~6,548 |
+| Throw The Book At Them | 2.00% | ~4,366 |
+| Iron Bars | 2.00% | ~4,366 |
+| D.B. Cooper | 1.00% | ~2,183 |
+| Reformation | 0.60% | ~1,310 |
 | Crowd Control | 0.50% | ~1,091 |
 | Freedom | 0.40% | ~873 |
 | Confined | 0.30% | ~655 |
 | It's Not What You Know... | 0.10% | ~218 |
 | ... It's What You Can Prove | 0.10% | ~218 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,245 (Ranked 81)  
+Progressed: 218,275 (Ranked 81)  
 Completed: 13 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,23 +296,23 @@ Completed: 13 (0.01%) (Ranked 379)
 | 2024-01-15 | 217,109 | 13 |
 | 2024-01-16 | 217,461 | 13 |
 | 2024-01-17 | 217,984 | 13 |
-| 2024-01-18 | 218,245 | 13 |
+| 2024-01-18 | 218,275 | 13 |
 ## Awards
 Max (Great for Beginners): 645  (Ranked 202)  
-Sum: 4,936 (Ranked 155)  
+Sum: 4,940 (Ranked 155)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 645 |
-| This game is Extremely Fun | 618 |
+| This game is Extremely Fun | 619 |
 | This game is Highly Recommended | 588 |
 | This game has Quickly Understood Controls | 583 |
 | This game is Relaxing | 576 |
 | This game has Diverse Characters | 548 |
 | This game has Amazing Storytelling | 521 |
-| This game has Amazing Characters | 479 |
+| This game has Amazing Characters | 481 |
 | This game is Educational | 459 |
-| This game has a Creative Community | 378 |
+| This game has a Creative Community | 379 |
 | This game has Obsessive Gameplay | 234 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -677,4 +677,4 @@ Diff (max vs sum): 47
 | 2024-01-15 | 4.61 | - | 640 | 4,911 |
 | 2024-01-16 | 4.61 | - | 640 | 4,919 |
 | 2024-01-17 | 4.61 | - | 642 | 4,930 |
-| 2024-01-18 | 4.61 | - | 645 | 4,936 |
+| 2024-01-18 | 4.61 | - | 645 | 4,940 |

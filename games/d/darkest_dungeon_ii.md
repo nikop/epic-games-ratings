@@ -6,21 +6,21 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,121 |
+| Malpractice Assurance | 14.00% | ~1,122 |
 | Lost and Found | 9.00% | ~721 |
 | Autodidact | 8.00% | ~10,651 |
 | This Belongs in a Museum | 7.00% | ~9,320 |
 | Overdue Notice | 7.00% | ~9,320 |
 | This guy... again? | 7.00% | ~561 |
-| Serenity Now! | 6.00% | ~7,988 |
-| Creep and Sleep | 6.00% | ~7,988 |
-| Meat and Greet | 6.00% | ~7,988 |
-| Catch and Decease | 6.00% | ~7,988 |
-| Escape from the Black Hole | 6.00% | ~7,988 |
-| Rush Hour | 6.00% | ~7,988 |
-| To Grandmother's House | 6.00% | ~7,988 |
-| Ploughshares to Swords | 6.00% | ~480 |
-| Bloody Graduation | 6.00% | ~480 |
+| Serenity Now! | 6.00% | ~7,989 |
+| Creep and Sleep | 6.00% | ~7,989 |
+| Meat and Greet | 6.00% | ~7,989 |
+| Catch and Decease | 6.00% | ~7,989 |
+| Escape from the Black Hole | 6.00% | ~7,989 |
+| Rush Hour | 6.00% | ~7,989 |
+| To Grandmother's House | 6.00% | ~7,989 |
+| Ploughshares to Swords | 6.00% | ~481 |
+| Bloody Graduation | 6.00% | ~481 |
 | Don't Make Me Turn This Coach Around | 5.00% | ~6,657 |
 | It Rings a Bell | 5.00% | ~6,657 |
 | Not Today! | 5.00% | ~6,657 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,657 |
 | FNG | 5.00% | ~6,657 |
 | Nope | 5.00% | ~6,657 |
-| Friends 'Til the End | 5.00% | ~400 |
+| Friends 'Til the End | 5.00% | ~401 |
 | Resurrection | 4.00% | ~5,326 |
 | Unleash Hell | 4.00% | ~5,326 |
 | Funny Guy | 4.00% | ~5,326 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,139 (Ranked 92)  
+Progressed: 133,142 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,10 +349,10 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
-| 2024-01-18 | 133,139 | 5 |
+| 2024-01-18 | 133,142 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
-Sum: 21,733 (Ranked 58)  
+Sum: 21,738 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): -6
 | This game has Amazing Characters | 1,539 |
 | This game is Extremely Fun | 1,530 |
 | This game has Unique Visuals | 1,478 |
-| This game has Amazing Storytelling | 1,453 |
+| This game has Amazing Storytelling | 1,458 |
 | This game has Quickly Understood Controls | 1,425 |
 | This game has a Creative Community | 1,104 |
 | This game has Obsessive Gameplay | 585 |
@@ -726,4 +726,4 @@ Diff (max vs sum): -6
 | 2024-01-15 | 4.68 | - | 8,026 | 21,671 |
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
-| 2024-01-18 | 4.69 | - | 8,040 | 21,733 |
+| 2024-01-18 | 4.69 | - | 8,040 | 21,738 |

@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,698 |
+| The Old Grandmaster | 6.00% | ~45,699 |
 | Life is your teacher | 5.00% | ~38,082 |
 | Lightning Hands | 5.00% | ~38,082 |
 | The Assault | 4.00% | ~30,466 |
@@ -30,12 +30,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 1.00% | ~7,616 |
 | Dance of the Praying Mantis | 1.00% | ~7,616 |
 | Kung-Fu Tussle | 1.00% | ~7,616 |
-| Project Arena | 1.00% | ~709 |
+| Project Arena | 1.00% | ~710 |
 | Muk Yan Master | 0.80% | ~6,093 |
 | Fight the way you practice | 0.80% | ~568 |
-| Tiger on Fire | 0.70% | ~5,331 |
-| Source of Flying Daggers | 0.70% | ~5,331 |
-| Detective Story | 0.70% | ~5,331 |
+| Tiger on Fire | 0.70% | ~5,332 |
+| Source of Flying Daggers | 0.70% | ~5,332 |
+| Detective Story | 0.70% | ~5,332 |
 | Martial Hub | 0.70% | ~497 |
 | Iron Money | 0.60% | ~4,570 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,570 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,641 (Ranked 26)  
+Progressed: 761,649 (Ranked 26)  
 Completed: 12,992 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,17 +340,17 @@ Completed: 12,992 (1.71%) (Ranked 149)
 | 2024-01-15 | 761,016 | 12,989 |
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
-| 2024-01-18 | 761,641 | 12,992 |
+| 2024-01-18 | 761,649 | 12,992 |
 ## Awards
 Max (Great Boss Battles): 7,227  (Ranked 57)  
-Sum: 12,794 (Ranked 87)  
+Sum: 12,796 (Ranked 87)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,227 |
 | This game has Diverse Characters | 706 |
 | This game has Challenging Combat | 651 |
-| This game has Amazing Storytelling | 624 |
+| This game has Amazing Storytelling | 626 |
 | This game has Amazing Characters | 620 |
 | This game is Highly Recommended | 613 |
 | This game has Quickly Understood Controls | 601 |
@@ -727,4 +727,4 @@ Diff (max vs sum): -30
 | 2024-01-15 | 4.82 | - | 7,215 | 12,761 |
 | 2024-01-16 | 4.82 | - | 7,221 | 12,772 |
 | 2024-01-17 | 4.82 | - | 7,227 | 12,784 |
-| 2024-01-18 | 4.82 | - | 7,227 | 12,794 |
+| 2024-01-18 | 4.82 | - | 7,227 | 12,796 |

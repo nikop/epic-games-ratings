@@ -5,9 +5,9 @@
   "Ranking_Rating": 304,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -4153,9 +4153,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 294
+      "UsersEstimate": 308
     },
     {
       "ID": "ClovemaryGift",
@@ -4297,9 +4297,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 348
+      "UsersEstimate": 361
     },
     {
       "ID": "MapCompletion1",
@@ -4538,8 +4538,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:11:30.2628059+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:16:22.9529246+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:57:13.5762054+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:11:30.2628513+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:57:26.2556724+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:16:22.9529882+00:00"
 }

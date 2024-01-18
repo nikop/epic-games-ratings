@@ -5,9 +5,9 @@
   "Ranking_Rating": 992,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 244,
+  "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 180,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 2378,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 147,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4875,9 +4875,9 @@
       "ID": "ACH_13",
       "SetID": "efe2lj",
       "Name": "Adventurer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 594
+      "UsersEstimate": 618
     },
     {
       "ID": "ACH_14",
@@ -5035,9 +5035,9 @@
       "ID": "ACH_34",
       "SetID": "efe2lj",
       "Name": "The Collector",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 690
     },
     {
       "ID": "ACH_35",
@@ -5076,8 +5076,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:11:23.5411737+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:16:15.9652774+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:57:34.7817226+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:11:23.5412122+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:57:46.8045689+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:16:15.9653296+00:00"
 }

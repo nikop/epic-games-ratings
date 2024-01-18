@@ -5,9 +5,9 @@
   "Ranking_Rating": 1049,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 285,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,9 +261,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1240,
+  "EOS_Progressed": 1241,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -3621,6 +3621,11 @@
       "Time": "2024-01-17T16:04:57.5640986+00:00",
       "NumProgressed": 1240,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T17:10:09.8907037+00:00",
+      "NumProgressed": 1241,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3688,7 +3693,7 @@
       "Name": "My little farm",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH008",
@@ -3720,7 +3725,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH012",
@@ -3734,9 +3739,9 @@
       "ID": "ACH013",
       "SetID": "69nfp41",
       "Name": "In a mint condition",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 471
+      "UsersEstimate": 459
     },
     {
       "ID": "ACH014",
@@ -3816,7 +3821,7 @@
       "Name": "Gofer",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACH024",
@@ -3848,7 +3853,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "ACH028",
@@ -3864,7 +3869,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH030",
@@ -3872,7 +3877,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH031",
@@ -3904,7 +3909,7 @@
       "Name": "Panic buying",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH035",
@@ -3920,7 +3925,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "ACH037",
@@ -4031,15 +4036,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1240,
+      "Progressed": 1241,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:05:01.6138406+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:10:09.8907032+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.317946+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:58:56.4164859+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:05:01.6139132+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:59:11.2830215+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:10:09.8907472+00:00"
 }

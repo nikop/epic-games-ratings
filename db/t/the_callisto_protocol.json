@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2291,9 +2291,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22533,
+  "EOS_Progressed": 22534,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 393,
+  "EOS_NewPlayers": 391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14316,6 +14316,11 @@
       "Time": "2024-01-18T16:10:58.2270299+00:00",
       "NumProgressed": 22533,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-18T17:15:50.9218108+00:00",
+      "NumProgressed": 22534,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14519,7 +14524,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6309
+      "UsersEstimate": 6310
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14565,9 +14570,9 @@
       "ID": "STORY_SNOWCAT",
       "SetID": "4hj6d86",
       "Name": "Crash Site",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2929
+      "UsersEstimate": 3155
     },
     {
       "ID": "STORY_TOWER",
@@ -14581,9 +14586,9 @@
       "ID": "STORY_TUNNELS",
       "SetID": "4hj6d86",
       "Name": "Power Up",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2704
+      "UsersEstimate": 2929
     },
     {
       "ID": "DISMEMBER_100",
@@ -14702,13 +14707,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22533,
+      "Progressed": 22534,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10459,
+      "Progressed": 10460,
       "Completed": 29
     }
   ],
@@ -14716,8 +14721,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T22:03:19.3835436+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:10:58.2270293+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:15:50.9218106+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:03:49.1740262+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:10:58.2271261+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:08:56.4754887+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:15:50.9219243+00:00"
 }

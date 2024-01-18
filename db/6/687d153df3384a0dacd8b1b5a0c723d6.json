@@ -2,9 +2,9 @@
   "ID": "687d153df3384a0dacd8b1b5a0c723d6",
   "Name": "Top Web Search 23",
   "ProductSlug": "top-web-search-23-a34613",
-  "Ranking_EOS_Progress": 583,
+  "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 74,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 40,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 17.5,
   "EosHistory": [
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:08:36.4708621+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:13:49.7884294+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:09.6857871+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:58:52.8673945+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:08:36.4708719+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:59:07.4551021+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:13:49.7884394+00:00"
 }

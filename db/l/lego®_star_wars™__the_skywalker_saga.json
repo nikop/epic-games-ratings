@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4203,10 +4203,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 6869,
       "NumberOfAwardsMax": 2506
+    },
+    {
+      "Time": "2024-01-18T17:02:16.2000905+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 6870,
+      "NumberOfAwardsMax": 2506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6869,
+  "NumberOfAwards": 6870,
   "NumberOfAwardsMax": 2506,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4226,7 +4232,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 533
+      "Count": 534
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4283,9 +4289,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59578,
+  "EOS_Progressed": 59579,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 448,
+  "EOS_NewPlayers": 444,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19088,6 +19094,11 @@
       "Time": "2024-01-18T16:08:44.0765354+00:00",
       "NumProgressed": 59578,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2024-01-18T17:13:57.3680223+00:00",
+      "NumProgressed": 59579,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 45,
@@ -19123,7 +19134,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45875
+      "UsersEstimate": 45876
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19219,7 +19230,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 26214
+      "UsersEstimate": 26215
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -19235,7 +19246,7 @@
       "Name": "A New Hope",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 26810
+      "UsersEstimate": 26811
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -19243,7 +19254,7 @@
       "Name": "The Empire Strikes Back",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 20852
+      "UsersEstimate": 20853
     },
     {
       "ID": "COMPLETE_EPISODE_6",
@@ -19251,7 +19262,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 17873
+      "UsersEstimate": 17874
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -19259,7 +19270,7 @@
       "Name": "The Force Awakens",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 14894
+      "UsersEstimate": 14895
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -19267,7 +19278,7 @@
       "Name": "The Last Jedi",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 12511
+      "UsersEstimate": 12512
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -19291,7 +19302,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 32172
+      "UsersEstimate": 32173
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -19363,7 +19374,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57195
+      "UsersEstimate": 57196
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19403,7 +19414,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41109
+      "UsersEstimate": 41110
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -19419,7 +19430,7 @@
       "Name": "\u0027\u0027A fine addition to my collection\u0027\u0027",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 20852
+      "UsersEstimate": 20853
     },
     {
       "ID": "RIDE_ALL_CREATURES",
@@ -19451,22 +19462,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41109
+      "UsersEstimate": 41110
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59578,
+      "Progressed": 59579,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2024-01-18T00:00:18.4885059+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:08:44.076535+00:00",
+  "LastChanged": "2024-01-18T17:02:16.2000904+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:13:57.3680219+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.2426522+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:01:58.9871132+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:08:44.0766319+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:02:16.2000907+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:13:57.3681324+00:00"
 }

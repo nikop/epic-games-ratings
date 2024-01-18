@@ -2,9 +2,9 @@
   "ID": "84860d15749f404e8a24fd58e6b01448",
   "Name": "Delivery Boy",
   "ProductSlug": "delivery-boy-2f4605",
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-02-15T05:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-10T18:03:22.1751424+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:04:31.4205076+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:09:39.456239+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.7813306+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:02:26.0705807+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:04:31.4205099+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:08:03.5678853+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:09:39.4562422+00:00"
 }

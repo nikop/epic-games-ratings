@@ -5,9 +5,9 @@
   "Ranking_Rating": 1105,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 249,
+  "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,7 +101,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2274,
+  "EOS_Progressed": 2275,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
@@ -8786,6 +8786,11 @@
       "Time": "2024-01-18T15:08:16.1712934+00:00",
       "NumProgressed": 2274,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T17:13:23.7396526+00:00",
+      "NumProgressed": 2275,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8925,7 +8930,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -8957,15 +8962,15 @@
       "Name": "General",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 159
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8989,7 +8994,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -8997,7 +9002,7 @@
       "Name": "Seek \u0026 Destroy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_3",
@@ -9005,7 +9010,7 @@
       "Name": "Stocking Up",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -9021,7 +9026,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -9053,7 +9058,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -9100,7 +9105,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2274,
+      "Progressed": 2275,
       "Completed": 1
     }
   ],
@@ -9108,8 +9113,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:08:10.7198036+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:13:23.7396522+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:59:32.9044892+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:08:10.719876+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:59:48.5294197+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:13:23.7397278+00:00"
 }

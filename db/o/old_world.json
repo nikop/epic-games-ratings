@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2328,9 +2328,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16962,
+  "EOS_Progressed": 16964,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 545,
+  "EOS_NewPlayers": 542,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20403,6 +20403,11 @@
       "Time": "2024-01-18T15:10:26.6549321+00:00",
       "NumProgressed": 16962,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T17:16:28.3389484+00:00",
+      "NumProgressed": 16964,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20846,7 +20851,7 @@
       "Name": "Explorer",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -20902,7 +20907,7 @@
       "Name": "Intrepid",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -21276,9 +21281,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
       "SetID": "7l38kb8",
       "Name": "Landowners",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -21292,9 +21297,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_RIDERS",
       "SetID": "7l38kb8",
       "Name": "Riders",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -21326,7 +21331,7 @@
       "Name": "Friendly Family",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -22492,9 +22497,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -23277,21 +23282,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16962,
+      "Progressed": 16964,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16962,
+      "Progressed": 16964,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-18T04:02:53.7762322+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:11:35.3700298+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:16:28.338948+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:02:28.9823455+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:11:35.3709639+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:08:06.5857097+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:16:28.3398838+00:00"
 }

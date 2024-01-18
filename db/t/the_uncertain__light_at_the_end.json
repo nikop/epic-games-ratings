@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 334,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 304,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1444,6 +1444,11 @@
       "Time": "2024-01-18T14:04:23.6367574+00:00",
       "NumProgressed": 680,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T17:09:59.1339984+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1543,7 +1548,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "Hitman",
@@ -1575,7 +1580,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "Leisurely_Strol",
@@ -1637,9 +1642,9 @@
       "ID": "Paparazzi",
       "SetID": "ek310c",
       "Name": "Paparazzi",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 14
     },
     {
       "ID": "Park",
@@ -1653,9 +1658,9 @@
       "ID": "Party",
       "SetID": "ek310c",
       "Name": "Life of the Party",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 14
     },
     {
       "ID": "Smart cookie",
@@ -1669,9 +1674,9 @@
       "ID": "Strike",
       "SetID": "ek310c",
       "Name": "Beat the Heat",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 150
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1686,7 +1691,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 6
     }
   ],
@@ -1694,8 +1699,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:04:51.0052509+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:09:59.133998+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:03:54.2681514+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:04:51.0052781+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:09:00.3985061+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:09:59.1340198+00:00"
 }

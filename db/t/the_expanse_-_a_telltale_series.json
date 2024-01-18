@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19136,
+  "EOS_Progressed": 19138,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17734,6 +17734,11 @@
       "Time": "2024-01-18T14:03:52.7750459+00:00",
       "NumProgressed": 19136,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-18T17:09:13.4947175+00:00",
+      "NumProgressed": 19138,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17794,7 +17799,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "16",
@@ -17810,7 +17815,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "18",
@@ -17946,7 +17951,7 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 765
+      "UsersEstimate": 766
     },
     {
       "ID": "6",
@@ -17954,7 +17959,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "7",
@@ -18010,7 +18015,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "35",
@@ -18025,13 +18030,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19136,
+      "Progressed": 19138,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5090,
+      "Progressed": 5092,
       "Completed": 1343
     }
   ],
@@ -18039,8 +18044,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:04:06.264384+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:09:13.4947172+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:01:49.4568051+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:04:06.2644763+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:02:06.2856659+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:09:13.4948431+00:00"
 }

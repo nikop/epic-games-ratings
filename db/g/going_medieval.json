@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1709,9 +1709,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 7993,
+  "EOS_Progressed": 7994,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -16994,6 +16994,11 @@
       "Time": "2024-01-18T15:05:57.6800008+00:00",
       "NumProgressed": 7993,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-18T17:12:41.2959467+00:00",
+      "NumProgressed": 7994,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17013,7 +17018,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -17021,7 +17026,7 @@
       "Name": "Disassembled",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -17037,7 +17042,7 @@
       "Name": "Green Thumb",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 5435
+      "UsersEstimate": 5436
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -17053,7 +17058,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5835
+      "UsersEstimate": 5836
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17061,7 +17066,7 @@
       "Name": "A Party Now",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "HUNT_DEER_20",
@@ -17069,7 +17074,7 @@
       "Name": "Deerly Departed",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 639
+      "UsersEstimate": 640
     },
     {
       "ID": "HUNT_DEER_5",
@@ -17077,7 +17082,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -17165,7 +17170,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5595
+      "UsersEstimate": 5596
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17197,7 +17202,7 @@
       "Name": "All Year Round",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1838
+      "UsersEstimate": 1839
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -17205,7 +17210,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4476
+      "UsersEstimate": 4477
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -17213,7 +17218,7 @@
       "Name": "Novice Researcher",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 5515
+      "UsersEstimate": 5516
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17237,7 +17242,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4636
+      "UsersEstimate": 4637
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -17245,22 +17250,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4236
+      "UsersEstimate": 4237
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7993,
+      "Progressed": 7994,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-17T08:58:35.4041927+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:07:30.6377331+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:12:41.2959462+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:00:26.4734133+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:07:30.6378181+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:00:40.7478039+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:12:41.2960526+00:00"
 }

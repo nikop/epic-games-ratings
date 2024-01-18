@@ -2,9 +2,9 @@
   "ID": "5ff3ddfd4b274899b034e37517942d97",
   "Name": "Meta Nemesis",
   "ProductSlug": "meta-nemesis-0b3428",
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.7684484+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:58:50.5896782+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:06:51.7431023+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:59:05.0120802+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:12:01.838006+00:00"
 }

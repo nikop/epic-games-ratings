@@ -2,9 +2,9 @@
   "ID": "e920c823522745c88a85e396965afc62",
   "Name": "Indoorlands",
   "ProductSlug": "indoorlands-3b2356",
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 433,
+  "Ranking_EOS_NewPlayers": 418,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47,
+  "EOS_Progressed": 48,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -259,6 +259,11 @@
       "Time": "2024-01-13T18:09:02.4788702+00:00",
       "NumProgressed": 47,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T17:09:05.1701806+00:00",
+      "NumProgressed": 48,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-14T09:03:47.827813+00:00",
@@ -293,17 +298,17 @@
       "ID": "beginner",
       "SetID": "d4692al",
       "Name": "Beginner Guide",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "contractor",
       "SetID": "d4692al",
       "Name": "New Contractor",
-      "Percentage": 40,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "crazyCoaster",
@@ -325,7 +330,7 @@
       "ID": "dealmaker",
       "SetID": "d4692al",
       "Name": "Devious Dealmaker",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -357,7 +362,7 @@
       "ID": "exContractor",
       "SetID": "d4692al",
       "Name": "Experienced Contractor",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 45,
       "UsersEstimate": 4
     },
@@ -373,9 +378,9 @@
       "ID": "expansion",
       "SetID": "d4692al",
       "Name": "Expansion",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "halls",
@@ -461,7 +466,7 @@
       "ID": "toomany",
       "SetID": "d4692al",
       "Name": "Too many too count",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
       "UsersEstimate": 5
     },
@@ -485,9 +490,9 @@
       "ID": "vip",
       "SetID": "d4692al",
       "Name": "VIP",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "visitorLife",
@@ -518,14 +523,14 @@
     {
       "ID": "d4692al",
       "IsBase": true,
-      "Progressed": 47,
+      "Progressed": 48,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T08:59:07.6239252+00:00",
   "FirstSeenAchievements": "2023-12-14T09:03:47.827813+00:00",
-  "LastChanged_Achievements": "2024-01-18T15:08:54.151461+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:09:05.1701795+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.3881048+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:01:46.2271007+00:00",
-  "LastUpdate_Achievements": "2024-01-18T15:08:54.151481+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:02:03.1219082+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:09:05.1706557+00:00"
 }

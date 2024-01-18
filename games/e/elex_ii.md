@@ -24,10 +24,10 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 14.00% | ~37 |
 | Berserker | 14.00% | ~37 |
 | Globetrotter | 13.00% | ~34 |
+| Hunter | 12.00% | ~32 |
+| Beam Me Up | 11.00% | ~29 |
 | Alb | 11.00% | ~29 |
-| Hunter | 11.00% | ~29 |
 | Lover | 11.00% | ~29 |
-| Beam Me Up | 10.00% | ~26 |
 | Perfectionist | 10.00% | ~26 |
 | Treasure Hunter | 8.00% | ~21 |
 | Free as a Bird | 8.00% | ~21 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Defender | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 263 (Ranked 418)  
+Progressed: 263 (Ranked 419)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |

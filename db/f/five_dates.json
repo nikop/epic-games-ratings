@@ -2,9 +2,9 @@
   "ID": "e966687f61fa4c40b1e53b45b6e4eb75",
   "Name": "Five Dates",
   "ProductSlug": "five-dates-60ef51",
-  "Ranking_EOS_Progress": 245,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-10-14T07:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2365,
+  "EOS_Progressed": 2366,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -4595,6 +4595,11 @@
       "Time": "2024-01-18T16:11:12.9112358+00:00",
       "NumProgressed": 2365,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-18T17:16:05.3191791+00:00",
+      "NumProgressed": 2366,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4606,7 +4611,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "booty_call",
@@ -4630,7 +4635,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2270
+      "UsersEstimate": 2271
     },
     {
       "ID": "hold_my_beer",
@@ -4686,7 +4691,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "planting_the_seed",
@@ -4694,7 +4699,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "smooth_criminal",
@@ -4718,14 +4723,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2365,
+      "Progressed": 2366,
       "Completed": 12
     }
   ],
@@ -4733,8 +4738,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:11:12.9112353+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:16:05.3191788+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:29.1751476+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:57:39.1017207+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:11:12.9112648+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:57:51.2307786+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:16:05.3192112+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "9d986837984c476195398f37ba7446dd",
   "Name": "Birch Simulator",
   "ProductSlug": "birch-simulator-21969e",
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-26T16:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-05T04:58:48.2763731+00:00",
   "LastUpdate_AppInfo": "2024-01-16T05:57:16.1635844+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:01:51.3350923+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:10:39.4172914+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:02:08.2044795+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:15:32.2868543+00:00"
 }

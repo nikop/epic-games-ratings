@@ -2,13 +2,13 @@
   "ID": "1d6b5762a1d643a4830481c44d59abfb",
   "Name": "The Lord of The Rings Return to Moria",
   "ProductSlug": "the-lord-of-the-rings-return-to-moria-f01344",
-  "Ranking_Rating": 732,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 169,
   "Ranking_PopularitySum": 143,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 28,
-  "Ranking_EOS_NewCompleters": 8,
+  "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
     "PcReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -3000,9 +3000,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 386096,
+  "EOS_Progressed": 386122,
   "EOS_Completed": 367,
-  "EOS_NewPlayers": 5139,
+  "EOS_NewPlayers": 5118,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13325,6 +13325,11 @@
       "Time": "2024-01-18T16:10:19.5469716+00:00",
       "NumProgressed": 386096,
       "NumCompleted": 367
+    },
+    {
+      "Time": "2024-01-18T17:15:12.4309876+00:00",
+      "NumProgressed": 386122,
+      "NumCompleted": 367
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -13337,7 +13342,7 @@
       "Name": "Shadow\u0027s Bane",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 38610
+      "UsersEstimate": 38612
     },
     {
       "ID": "CraftedDurinsAxe",
@@ -13345,7 +13350,7 @@
       "Name": "Baruk Khaz\u00E2d!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 50192
+      "UsersEstimate": 50196
     },
     {
       "ID": "CraftedFullSetBelegost",
@@ -13353,7 +13358,7 @@
       "Name": "Decked Out",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 19305
+      "UsersEstimate": 19306
     },
     {
       "ID": "CraftedFullSetBrews",
@@ -13369,7 +13374,7 @@
       "Name": "Guarded from Despair",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 19305
+      "UsersEstimate": 19306
     },
     {
       "ID": "CraftedFullSetErebor",
@@ -13377,7 +13382,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 127412
+      "UsersEstimate": 127420
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -13385,7 +13390,7 @@
       "Name": "Suit Up",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 208492
+      "UsersEstimate": 208506
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -13393,7 +13398,7 @@
       "Name": "Battering Ram",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 50192
+      "UsersEstimate": 50196
     },
     {
       "ID": "CraftedFullSetMetaElven",
@@ -13401,7 +13406,7 @@
       "Name": "Eregion Weaponcraft",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 11583
+      "UsersEstimate": 11584
     },
     {
       "ID": "CraftedFullSetMetaHat",
@@ -13417,7 +13422,7 @@
       "Name": "Master of All Trades",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 15444
+      "UsersEstimate": 15445
     },
     {
       "ID": "CraftedFullSetMetaShield",
@@ -13433,7 +13438,7 @@
       "Name": "True-silver",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 11583
+      "UsersEstimate": 11584
     },
     {
       "ID": "CraftedFullSetWeaponsCh2",
@@ -13441,7 +13446,7 @@
       "Name": "Westgate Weaponcraft",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 34749
+      "UsersEstimate": 34751
     },
     {
       "ID": "CraftedFullSetWeaponsCh3",
@@ -13449,7 +13454,7 @@
       "Name": "Deeps Weaponcraft",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 30888
+      "UsersEstimate": 30890
     },
     {
       "ID": "CraftedFullSetWeaponsCh4",
@@ -13457,7 +13462,7 @@
       "Name": "Dimrill Weaponcraft",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11583
+      "UsersEstimate": 11584
     },
     {
       "ID": "CraftedSteelPickaxe",
@@ -13465,7 +13470,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 227797
+      "UsersEstimate": 227812
     },
     {
       "ID": "DefeatedBolgakh",
@@ -13473,7 +13478,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 119690
+      "UsersEstimate": 119698
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -13481,7 +13486,7 @@
       "Name": "Darkness Is Passing",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 27027
+      "UsersEstimate": 27029
     },
     {
       "ID": "DefeatedTrollKing",
@@ -13489,7 +13494,7 @@
       "Name": "False King, Deposed",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 54053
+      "UsersEstimate": 54057
     },
     {
       "ID": "DiscoveredAngryCaverns",
@@ -13497,7 +13502,7 @@
       "Name": "Caradhras The Cruel",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69497
+      "UsersEstimate": 69502
     },
     {
       "ID": "DiscoveredDwarrowdelf",
@@ -13505,7 +13510,7 @@
       "Name": "Risk a Little Real Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 119690
+      "UsersEstimate": 119698
     },
     {
       "ID": "DiscoveredElvenQuarter",
@@ -13513,7 +13518,7 @@
       "Name": "Speak Friend",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 316599
+      "UsersEstimate": 316620
     },
     {
       "ID": "DiscoveredHighway",
@@ -13521,7 +13526,7 @@
       "Name": "A Memory of this Place",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69497
+      "UsersEstimate": 69502
     },
     {
       "ID": "DiscoveredLowerDeeps",
@@ -13529,7 +13534,7 @@
       "Name": "To the Mountain\u0027s Roots",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 189187
+      "UsersEstimate": 189200
     },
     {
       "ID": "DiscoveredMinesOfMoria",
@@ -13537,7 +13542,7 @@
       "Name": "Delving Onward",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 266406
+      "UsersEstimate": 266424
     },
     {
       "ID": "DiscoveredTomb",
@@ -13545,14 +13550,14 @@
       "Name": "Remains To Be Seen",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 135134
+      "UsersEstimate": 135143
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 386096,
+      "Progressed": 386122,
       "Completed": 367
     }
   ],
@@ -13560,8 +13565,8 @@
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
   "LastChanged": "2024-01-18T07:03:16.0268452+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:10:19.5469708+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:15:12.4309869+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:25.3374963+00:00",
   "LastUpdate_Ratings": "2024-01-18T16:02:19.9386288+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:10:19.5470205+00:00"
+  "LastUpdate_Achievements": "2024-01-18T17:15:12.431059+00:00"
 }

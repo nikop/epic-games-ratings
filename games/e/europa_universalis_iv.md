@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.60% | ~3,007 |
 | Victorious! | 0.60% | ~3,007 |
 | That is mine! | 0.50% | ~2,506 |
-| Brothers in Arms | 0.40% | ~2,004 |
-| That's a Grand Navy | 0.40% | ~2,004 |
-| Seriously?! | 0.40% | ~2,004 |
+| Brothers in Arms | 0.40% | ~2,005 |
+| That's a Grand Navy | 0.40% | ~2,005 |
+| Seriously?! | 0.40% | ~2,005 |
 | Cold War | 0.30% | ~1,503 |
 | For the Glory | 0.30% | ~1,503 |
 | It's all about the money | 0.30% | ~1,503 |
@@ -55,6 +55,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Anglophile | 0.10% | ~501 |
 | The Animal Kingdom | 0.10% | ~501 |
 | Arabian Coffee | 0.10% | ~501 |
+| Around the World in 80 Years | 0.10% | ~501 |
 | Assembly Instructions Needed | 0.10% | ~501 |
 | At every continent | 0.10% | ~501 |
 | Atwix Legacy | 0.10% | ~501 |
@@ -354,7 +355,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Last Crusade | 0.10% | ~501 |
 | Truly Good Maaaaa-tch | 0.10% | ~501 |
 | The Zoro-Austrians | 0.10% | ~501 |
-| Around the World in 80 Years | 0.00% | ~0 |
 | Dovmont's Own | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,117 (Ranked 42)  
+Progressed: 501,145 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,17 +643,17 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
-| 2024-01-18 | 501,117 | 1 |
+| 2024-01-18 | 501,145 | 1 |
 ## Awards
 Max (Educational): 7,871  (Ranked 53)  
-Sum: 65,019 (Ranked 24)  
+Sum: 65,038 (Ranked 24)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,871 |
 | This game has Diverse Characters | 7,749 |
 | This game is Highly Recommended | 7,565 |
-| This game has Challenging Combat | 7,497 |
+| This game has Challenging Combat | 7,516 |
 | This game is Extremely Fun | 7,387 |
 | This game is Relaxing | 7,227 |
 | This game has Competitive Players | 7,063 |
@@ -1029,4 +1029,4 @@ Diff (max vs sum): 29
 | 2024-01-15 | 4.69 | - | 7,850 | 64,731 |
 | 2024-01-16 | 4.69 | - | 7,857 | 64,813 |
 | 2024-01-17 | 4.69 | - | 7,871 | 64,924 |
-| 2024-01-18 | 4.69 | - | 7,871 | 65,019 |
+| 2024-01-18 | 4.69 | - | 7,871 | 65,038 |

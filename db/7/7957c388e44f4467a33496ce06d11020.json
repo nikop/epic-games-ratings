@@ -2,9 +2,9 @@
   "ID": "7957c388e44f4467a33496ce06d11020",
   "Name": "Eternium",
   "ProductSlug": "eternium-ad91d1",
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-15T15:57:24.6853292+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:59:10.0648005+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:08:10.9301854+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:59:24.6065062+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:13:23.9346682+00:00"
 }

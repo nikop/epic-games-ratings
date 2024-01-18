@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -139,7 +139,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2861,
+  "EOS_Progressed": 2862,
   "EOS_Completed": 220,
   "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 26,
@@ -7609,6 +7609,11 @@
       "Time": "2024-01-18T16:05:30.6413642+00:00",
       "NumProgressed": 2861,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2024-01-18T17:10:39.5930803+00:00",
+      "NumProgressed": 2862,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 25,
@@ -7628,7 +7633,7 @@
       "Name": "In this together",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "META_ALL_LINK",
@@ -7636,7 +7641,7 @@
       "Name": "Peace walker",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7716,7 +7721,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7724,7 +7729,7 @@
       "Name": "Rascal",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -7756,15 +7761,15 @@
       "Name": "Champollion",
       "Percentage": 27,
       "XP": 100,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
       "SetID": "2gma9an",
       "Name": "That\u0027s the spirit",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1746
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7786,9 +7791,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1345
     },
     {
       "ID": "PROGRESS_N3",
@@ -7796,7 +7801,7 @@
       "Name": "A new dawn",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "PROGRESS_N4",
@@ -7812,14 +7817,14 @@
       "Name": "One last step",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2861,
+      "Progressed": 2862,
       "Completed": 220
     }
   ],
@@ -7827,8 +7832,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:05:30.6413638+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:10:39.5930798+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:57:24.4149891+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:05:30.6414106+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:57:37.0022465+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:10:39.5931216+00:00"
 }

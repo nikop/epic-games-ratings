@@ -9,8 +9,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Devoured by Darkness | 28.00% | ~3,727 |
 | A Spark | 20.00% | ~2,662 |
 | Burning City | 19.00% | ~2,529 |
-| Mythic Choices | 16.00% | ~2,129 |
-| Defender's Heart | 16.00% | ~2,129 |
+| Mythic Choices | 16.00% | ~2,130 |
+| Defender's Heart | 16.00% | ~2,130 |
 | Banner over the Citadel | 14.00% | ~1,863 |
 | Queen's Gratitude | 13.00% | ~1,730 |
 | Fifth Crusade | 9.00% | ~1,198 |
@@ -20,12 +20,12 @@ Number of Ratings: 1,354  (23.09.2022)
 | Great Upstart | 6.00% | ~799 |
 | Voice from Your Dreams | 6.00% | ~799 |
 | All Paths Open | 6.00% | ~799 |
-| Path of the Azata | 5.00% | ~665 |
-| Transformation | 5.00% | ~665 |
-| The Legacy | 5.00% | ~665 |
-| A Flame | 5.00% | ~665 |
-| Next-Door Play | 5.00% | ~665 |
-| Get the Toad | 5.00% | ~665 |
+| Path of the Azata | 5.00% | ~666 |
+| Transformation | 5.00% | ~666 |
+| The Legacy | 5.00% | ~666 |
+| A Flame | 5.00% | ~666 |
+| Next-Door Play | 5.00% | ~666 |
+| Get the Toad | 5.00% | ~666 |
 | Heart of the Fallen Land | 4.00% | ~532 |
 | Divide and Rule | 4.00% | ~532 |
 | Mythic Reinforcements | 4.00% | ~532 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,309 (Ranked 178)  
+Progressed: 13,310 (Ranked 178)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-15 | 13,286 | 0 |
 | 2024-01-16 | 13,298 | 0 |
 | 2024-01-17 | 13,303 | 0 |
-| 2024-01-18 | 13,309 | 0 |
+| 2024-01-18 | 13,310 | 0 |
 ## Awards
 Max (Character Customization): 1,785  (Ranked 133)  
 Sum: 7,237 (Ranked 127)  

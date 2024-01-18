@@ -1,27 +1,27 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.46 (Ranked 677)  
+Rating: 4.46 (Ranked 676)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~375,098 |
-| Now You're Talking | 62.00% | ~332,230 |
-| Steel Yourself | 62.00% | ~332,230 |
+| First Step | 70.00% | ~375,100 |
+| Now You're Talking | 62.00% | ~332,231 |
+| Steel Yourself | 62.00% | ~332,231 |
 | Window Dressing | 50.00% | ~267,928 |
-| Trigger Happy | 46.00% | ~246,493 |
-| Riverborn | 45.00% | ~241,135 |
+| Trigger Happy | 46.00% | ~246,494 |
+| Riverborn | 45.00% | ~241,136 |
 | Starry Eyed | 34.00% | ~182,191 |
 | Poking Around | 34.00% | ~182,191 |
-| Talk of the Town | 24.00% | ~128,605 |
+| Talk of the Town | 24.00% | ~128,606 |
 | AAARR! | 23.00% | ~123,247 |
 | Hello Darkness | 23.00% | ~123,247 |
-| Wind At Our Backs | 22.00% | ~117,888 |
+| Wind At Our Backs | 22.00% | ~117,889 |
 | To the Beat | 20.00% | ~107,171 |
-| Sunny Shores | 17.00% | ~91,095 |
+| Sunny Shores | 17.00% | ~91,096 |
 | Sunday Best | 16.00% | ~85,737 |
-| To Victory! | 15.00% | ~80,378 |
+| To Victory! | 15.00% | ~80,379 |
 | Two of a Kind | 14.00% | ~75,020 |
 | Keep On Trucking | 13.00% | ~69,661 |
 | Going on an Adventure | 12.00% | ~64,303 |
@@ -30,7 +30,7 @@ Number of Ratings: 617  (23.09.2022)
 | Not So Cute Anymore | 10.00% | ~53,586 |
 | Road Less Travelled | 9.00% | ~48,227 |
 | Lost and Found | 9.00% | ~48,227 |
-| Under the Radar | 8.00% | ~42,868 |
+| Under the Radar | 8.00% | ~42,869 |
 | Partner in Crime | 7.00% | ~37,510 |
 | Hard to Hear | 7.00% | ~37,510 |
 | Moving On Up | 6.00% | ~32,151 |
@@ -57,14 +57,14 @@ Number of Ratings: 617  (23.09.2022)
 | Seek the Rainbow | 2.00% | ~10,717 |
 | Words of Truth | 2.00% | ~10,717 |
 | Star Power | 2.00% | ~10,717 |
+| Don’t Get Crabby | 2.00% | ~10,717 |
 | Justice Served | 2.00% | ~10,717 |
 | Written in the Stars | 1.00% | ~5,359 |
 | Don't Care | 1.00% | ~5,359 |
-| Don’t Get Crabby | 1.00% | ~5,359 |
 | Boss of All Bosses | 0.30% | ~1,608 |
 | Point Taken | 0.20% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,855 (Ranked 37)  
+Progressed: 535,857 (Ranked 37)  
 Completed: 523 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 523 (0.10%) (Ranked 317)
 | 2024-01-15 | 535,692 | 523 |
 | 2024-01-16 | 535,756 | 523 |
 | 2024-01-17 | 535,815 | 523 |
-| 2024-01-18 | 535,855 | 523 |
+| 2024-01-18 | 535,857 | 523 |
 ## Awards
 Max (Relaxing): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

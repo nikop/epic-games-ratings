@@ -2,9 +2,9 @@
   "ID": "385d49efc26d45039f42216423168cae",
   "Name": "Keep Keepers",
   "ProductSlug": "keep-keepers-61d312",
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-17T16:57:03.2453952+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:57:47.6804288+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:04:46.4368991+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:57:59.664224+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:09:54.8701016+00:00"
 }

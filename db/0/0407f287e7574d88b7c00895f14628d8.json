@@ -2,7 +2,7 @@
   "ID": "0407f287e7574d88b7c00895f14628d8",
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
-  "Ranking_EOS_Progress": 427,
+  "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 155,
@@ -1130,9 +1130,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 76
     },
     {
       "ID": "jk2",
@@ -1369,8 +1369,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:06:38.1083322+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:11:48.5639735+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:03:25.0224123+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:06:38.108363+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:08:32.1013883+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:11:48.5640058+00:00"
 }

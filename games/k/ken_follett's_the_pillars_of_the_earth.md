@@ -34,7 +34,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,614 |
 | The truth revealed | 9.00% | ~1,614 |
 | The End. | 9.00% | ~1,614 |
-| Nothing but make-believe | 8.00% | ~1,434 |
+| Nothing but make-believe | 8.00% | ~1,435 |
 | A cry for help | 7.00% | ~1,255 |
 | Silentium est aureum | 7.00% | ~1,255 |
 | Rebel without a cause | 6.00% | ~1,076 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~538 |
 | Boy of mystery | 2.00% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,931 (Ranked 165)  
+Progressed: 17,932 (Ranked 165)  
 Completed: 125 (0.70%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 125 (0.70%) (Ranked 205)
 | 2024-01-15 | 17,891 | 125 |
 | 2024-01-16 | 17,908 | 125 |
 | 2024-01-17 | 17,923 | 125 |
-| 2024-01-18 | 17,931 | 125 |
+| 2024-01-18 | 17,932 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 331)  
 Sum: 200 (Ranked 419)  

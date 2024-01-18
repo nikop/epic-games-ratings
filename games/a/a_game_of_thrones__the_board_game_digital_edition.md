@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,499 |
-| Battering Crew | 19.00% | ~6,412 |
-| The Kingsroad | 17.00% | ~5,737 |
-| Well Stocked | 13.00% | ~4,387 |
+| Conqueror | 40.00% | ~13,500 |
+| Battering Crew | 19.00% | ~6,413 |
+| The Kingsroad | 17.00% | ~5,738 |
+| Well Stocked | 13.00% | ~4,388 |
 | Royal Fleet | 12.00% | ~4,050 |
-| The Kraken’s Grasp | 9.00% | ~3,037 |
+| The Kraken’s Grasp | 9.00% | ~3,038 |
 | Alliance | 8.00% | ~2,700 |
-| Winter is Coming | 7.00% | ~2,362 |
-| Daggers in the Dark | 7.00% | ~2,362 |
-| Oathkeeper | 7.00% | ~2,362 |
-| Influential | 7.00% | ~2,362 |
-| A Long Journey | 7.00% | ~2,362 |
+| Winter is Coming | 7.00% | ~2,363 |
+| Daggers in the Dark | 7.00% | ~2,363 |
+| Oathkeeper | 7.00% | ~2,363 |
+| Influential | 7.00% | ~2,363 |
+| A Long Journey | 7.00% | ~2,363 |
 | Ours is the Fury | 6.00% | ~2,025 |
 | We Do Not Sow | 6.00% | ~2,025 |
 | Defender of the Wall | 6.00% | ~2,025 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,687 |
-| Growing Strong | 5.00% | ~1,687 |
-| Hear me Roar! | 5.00% | ~1,687 |
-| What is Dead may Never Die | 3.00% | ~1,012 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,688 |
+| Growing Strong | 5.00% | ~1,688 |
+| Hear me Roar! | 5.00% | ~1,688 |
+| What is Dead may Never Die | 3.00% | ~1,013 |
 | King in the North | 2.00% | ~675 |
 | The Swift | 2.00% | ~675 |
-| War of the Five Kings | 1.00% | ~337 |
+| War of the Five Kings | 1.00% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,747 (Ranked 141)  
+Progressed: 33,751 (Ranked 141)  
 Completed: 88 (0.26%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,11 +302,11 @@ Completed: 88 (0.26%) (Ranked 272)
 | 2024-01-15 | 33,534 | 88 |
 | 2024-01-16 | 33,616 | 88 |
 | 2024-01-17 | 33,694 | 88 |
-| 2024-01-18 | 33,747 | 88 |
+| 2024-01-18 | 33,751 | 88 |
 ## Awards
-Max (Quickly Understood Controls): 129  (Ranked 353)  
+Max (Quickly Understood Controls): 129  (Ranked 354)  
 Sum: 815 (Ranked 292)  
-Diff (max vs sum): 61  
+Diff (max vs sum): 62  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 129 |

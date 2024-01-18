@@ -35,7 +35,7 @@
 | Fisherman | 7.00% | ~23 |
 | Something to think about | 5.00% | ~17 |
 | I remember It Like Was Yesterday | 5.00% | ~17 |
-| We Are Not Alone | 4.00% | ~13 |
+| We Are Not Alone | 5.00% | ~17 |
 | Dark correspondence | 4.00% | ~13 |
 | The Perfect Storm | 4.00% | ~13 |
 | Se7en Seas | 4.00% | ~13 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331 (Ranked 391)  
+Progressed: 331 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |

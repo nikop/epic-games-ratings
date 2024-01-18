@@ -6,22 +6,22 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~33,673 |
-| Final touch | 34.00% | ~30,942 |
-| Prop-M Rover | 32.00% | ~29,122 |
-| Changing the Planet | 28.00% | ~25,482 |
-| Sojourner | 26.00% | ~23,662 |
-| New Home | 23.00% | ~20,932 |
-| Beagle 2 | 23.00% | ~20,932 |
-| Winner Winner Terraformer | 20.00% | ~18,201 |
-| Project Manager | 19.00% | ~17,291 |
-| Collector | 19.00% | ~17,291 |
-| Curiosity | 18.00% | ~16,381 |
-| Master | 18.00% | ~16,381 |
-| No Longer Red | 17.00% | ~15,471 |
-| Self-sufficient | 17.00% | ~15,471 |
-| Money money | 15.00% | ~13,651 |
-| First Journey | 14.00% | ~12,741 |
+| It's a steal! | 37.00% | ~33,674 |
+| Final touch | 34.00% | ~30,944 |
+| Prop-M Rover | 32.00% | ~29,124 |
+| Changing the Planet | 28.00% | ~25,483 |
+| Sojourner | 26.00% | ~23,663 |
+| New Home | 23.00% | ~20,933 |
+| Beagle 2 | 23.00% | ~20,933 |
+| Winner Winner Terraformer | 20.00% | ~18,202 |
+| Project Manager | 19.00% | ~17,292 |
+| Collector | 19.00% | ~17,292 |
+| Curiosity | 18.00% | ~16,382 |
+| Master | 18.00% | ~16,382 |
+| No Longer Red | 17.00% | ~15,472 |
+| Self-sufficient | 17.00% | ~15,472 |
+| Money money | 15.00% | ~13,652 |
+| First Journey | 14.00% | ~12,742 |
 | Biggest Reward | 13.00% | ~11,831 |
 | Acquired knowledge | 12.00% | ~10,921 |
 | Landlord | 11.00% | ~10,011 |
@@ -32,12 +32,12 @@ Number of Ratings: 2,731  (23.09.2022)
 | Variety Expert | 9.00% | ~8,191 |
 | Ultimate success | 9.00% | ~8,191 |
 | Frequent tester | 8.00% | ~7,281 |
-| Determined | 7.00% | ~6,370 |
+| Determined | 7.00% | ~6,371 |
 | Terraformer | 4.00% | ~3,640 |
 | Opportunity | 3.00% | ~2,730 |
 | Team Effort | 2.00% | ~1,820 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,007 (Ranked 107)  
+Progressed: 91,011 (Ranked 107)  
 Completed: 184 (0.20%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 184 (0.20%) (Ranked 286)
 | 2024-01-15 | 90,735 | 184 |
 | 2024-01-16 | 90,830 | 184 |
 | 2024-01-17 | 90,943 | 184 |
-| 2024-01-18 | 91,007 | 184 |
+| 2024-01-18 | 91,011 | 184 |
 ## Awards
 Max (Relaxing): 544  (Ranked 219)  
 Sum: 3,349 (Ranked 180)  

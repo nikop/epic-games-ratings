@@ -2,7 +2,7 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 710,
+  "Ranking_Rating": 709,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 205,
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5449,
+  "EOS_Progressed": 5452,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5395,6 +5395,11 @@
       "Time": "2024-01-18T04:06:08.336025+00:00",
       "NumProgressed": 5449,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-18T17:11:29.0050399+00:00",
+      "NumProgressed": 5452,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5406,7 +5411,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5422,7 +5427,7 @@
       "Name": "Big Sister",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ID_ACHIEV_04",
@@ -5446,7 +5451,7 @@
       "Name": "For the Good of Mankind",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ID_ACHIEV_07",
@@ -5454,7 +5459,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4577
+      "UsersEstimate": 4580
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5462,7 +5467,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5122
+      "UsersEstimate": 5125
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5470,7 +5475,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4144
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5478,7 +5483,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1962
+      "UsersEstimate": 1963
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5486,7 +5491,7 @@
       "Name": "CREO Killed the Video Star",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ID_ACHIEV_12",
@@ -5510,7 +5515,7 @@
       "Name": "Who\u0027s in Charge Here?",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ID_ACHIEV_15",
@@ -5518,7 +5523,7 @@
       "Name": "Turing Test",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ID_ACHIEV_16",
@@ -5526,7 +5531,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -5550,7 +5555,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -5558,7 +5563,7 @@
       "Name": "Repeat Customer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ID_ACHIEV_21",
@@ -5566,7 +5571,7 @@
       "Name": "Shall Not Pass",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ID_ACHIEV_22",
@@ -5582,7 +5587,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -5598,7 +5603,7 @@
       "Name": "Duty-Bound",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ID_ACHIEV_26",
@@ -5614,7 +5619,7 @@
       "Name": "Follow the White Rabbit",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ID_ACHIEV_28",
@@ -5622,7 +5627,7 @@
       "Name": "First Day on the Job",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4089
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5630,7 +5635,7 @@
       "Name": "Liberation",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ID_ACHIEV_30",
@@ -5638,7 +5643,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5646,7 +5651,7 @@
       "Name": "Evolution Theory",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ID_ACHIEV_32",
@@ -5654,7 +5659,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2944
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5662,7 +5667,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -5670,7 +5675,7 @@
       "Name": "Most Wanted",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "ID_ACHIEV_36",
@@ -5678,7 +5683,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5686,7 +5691,7 @@
       "Name": "It\u0027s Blue Light",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "ID_ACHIEV_38",
@@ -5694,7 +5699,7 @@
       "Name": "I Choose You",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ID_ACHIEV_39",
@@ -5726,7 +5731,7 @@
       "Name": "Nothing to Lose",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "ID_ACHIEV_43",
@@ -5734,7 +5739,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5750,7 +5755,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -5758,7 +5763,7 @@
       "Name": "SENTINEL",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ID_ACHIEV_47",
@@ -5846,7 +5851,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -5902,7 +5907,7 @@
       "Name": "Bling-Bling",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ID_ACHIEV_65",
@@ -5934,22 +5939,22 @@
       "Name": "Risk Assessment",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     }
   ],
   "AchievementSets": [
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5449,
+      "Progressed": 5452,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:06:19.3004802+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:11:29.0050396+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:00:00.9269362+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:06:19.3005452+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:00:16.3265701+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:11:29.005117+00:00"
 }

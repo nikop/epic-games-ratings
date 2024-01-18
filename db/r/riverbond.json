@@ -2,13 +2,13 @@
   "ID": "100f8957d16d4d2d89716775b5767779",
   "Name": "Riverbond",
   "ProductSlug": "riverbond-782aa4",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 676,
   "Ranking_Popularity": 575,
   "Ranking_PopularitySum": 577,
   "Ranking_EOS_Progress": 37,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 61,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 62,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 535855,
+  "EOS_Progressed": 535857,
   "EOS_Completed": 523,
-  "EOS_NewPlayers": 475,
+  "EOS_NewPlayers": 474,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29619,6 +29619,11 @@
       "Time": "2024-01-18T16:09:26.9419431+00:00",
       "NumProgressed": 535855,
       "NumCompleted": 523
+    },
+    {
+      "Time": "2024-01-18T17:14:20.3737179+00:00",
+      "NumProgressed": 535857,
+      "NumCompleted": 523
     }
   ],
   "TotalAchievements": 57,
@@ -29638,7 +29643,7 @@
       "Name": "Riverborn",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 241135
+      "UsersEstimate": 241136
     },
     {
       "ID": "11",
@@ -29646,7 +29651,7 @@
       "Name": "First Step",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 375098
+      "UsersEstimate": 375100
     },
     {
       "ID": "12",
@@ -29654,7 +29659,7 @@
       "Name": "Wind At Our Backs",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 117888
+      "UsersEstimate": 117889
     },
     {
       "ID": "13",
@@ -29702,7 +29707,7 @@
       "Name": "To Victory!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 80378
+      "UsersEstimate": 80379
     },
     {
       "ID": "19",
@@ -29710,7 +29715,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 332230
+      "UsersEstimate": 332231
     },
     {
       "ID": "2",
@@ -29726,7 +29731,7 @@
       "Name": "Talk of the Town",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128605
+      "UsersEstimate": 128606
     },
     {
       "ID": "21",
@@ -29926,7 +29931,7 @@
       "Name": "Sunny Shores",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91095
+      "UsersEstimate": 91096
     },
     {
       "ID": "44",
@@ -29934,7 +29939,7 @@
       "Name": "Under the Radar",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 42868
+      "UsersEstimate": 42869
     },
     {
       "ID": "45",
@@ -29958,7 +29963,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 332230
+      "UsersEstimate": 332231
     },
     {
       "ID": "48",
@@ -30006,7 +30011,7 @@
       "Name": "Trigger Happy",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 246493
+      "UsersEstimate": 246494
     },
     {
       "ID": "53",
@@ -30060,9 +30065,9 @@
       "ID": "7",
       "SetID": "1mk7d95",
       "Name": "Don\u2019t Get Crabby",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 5359
+      "UsersEstimate": 10717
     },
     {
       "ID": "8",
@@ -30085,15 +30090,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 535855,
+      "Progressed": 535857,
       "Completed": 523
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-14T11:00:05.8665885+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:09:26.9419426+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:14:20.3737175+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.4407887+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:59:30.8878467+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:09:26.9420718+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:59:45.8723766+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:14:20.3738597+00:00"
 }

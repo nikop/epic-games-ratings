@@ -39,19 +39,19 @@
 | Horace Mountjoy | 22.00% | ~26 |
 | The Secrets | 22.00% | ~26 |
 | Johan Kristiansen | 21.00% | ~25 |
+| A peculiar fellow | 20.00% | ~24 |
 | Mortimer Ailsworth | 20.00% | ~24 |
 | Well-travelled | 19.00% | ~22 |
-| A peculiar fellow | 19.00% | ~22 |
-| Florence Farquhar | 18.00% | ~21 |
-| The Investigation Starts Anew | 18.00% | ~21 |
-| A treasured heirloom | 15.00% | ~18 |
-| The Penitent Magdalene | 15.00% | ~18 |
-| A true performance | 15.00% | ~18 |
+| Florence Farquhar | 19.00% | ~22 |
+| The Investigation Starts Anew | 19.00% | ~22 |
+| A treasured heirloom | 16.00% | ~19 |
+| The Penitent Magdalene | 16.00% | ~19 |
+| A true performance | 16.00% | ~19 |
 | The Denouement | 14.00% | ~17 |
 | A perilous journey | 14.00% | ~17 |
 | Perkins | 8.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 488)  
+Progressed: 118 (Ranked 489)  
 Completed: 5 (4.24%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |

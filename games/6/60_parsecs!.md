@@ -4,41 +4,41 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 97.00% | ~1,015 |
-| Space Colonization | 80.00% | ~837 |
-| Friendzone | 78.00% | ~816 |
-| Hello World | 73.00% | ~764 |
-| Space Engineer | 62.00% | ~649 |
-| Tinkerer | 62.00% | ~649 |
-| Dust to Dust | 57.00% | ~596 |
-| Across The Stars | 46.00% | ~481 |
-| Crafty | 44.00% | ~460 |
-| All Seats Taken | 36.00% | ~377 |
-| For Science! | 32.00% | ~335 |
-| Meet the Petersons | 31.00% | ~324 |
-| Stay Cool | 27.00% | ~282 |
-| KIA | 26.00% | ~272 |
-| Mutiny in making | 23.00% | ~241 |
-| Eco-Shuttle | 18.00% | ~188 |
-| Et tu, Astrocitizen? | 18.00% | ~188 |
-| Space Explorer | 15.00% | ~157 |
+| Don't Panic! | 97.00% | ~1,020 |
+| Space Colonization | 79.00% | ~831 |
+| Friendzone | 78.00% | ~821 |
+| Hello World | 73.00% | ~768 |
+| Space Engineer | 62.00% | ~652 |
+| Tinkerer | 61.00% | ~642 |
+| Dust to Dust | 57.00% | ~600 |
+| Across The Stars | 46.00% | ~484 |
+| Crafty | 44.00% | ~463 |
+| All Seats Taken | 36.00% | ~379 |
+| For Science! | 32.00% | ~337 |
+| Meet the Petersons | 31.00% | ~326 |
+| Stay Cool | 27.00% | ~284 |
+| KIA | 26.00% | ~274 |
+| Mutiny in making | 23.00% | ~242 |
+| Eco-Shuttle | 18.00% | ~189 |
+| Et tu, Astrocitizen? | 18.00% | ~189 |
+| Space Explorer | 15.00% | ~158 |
 | Gold Medalist | 12.00% | ~126 |
-| Hands Full | 11.00% | ~115 |
+| Hands Full | 11.00% | ~116 |
 | Non-Fiction | 10.00% | ~105 |
 | No Man Left Behind | 8.00% | ~84 |
-| Fix-It Felix | 7.00% | ~73 |
-| Intergalactic Breakup | 7.00% | ~73 |
-| Second Life | 7.00% | ~73 |
+| Fix-It Felix | 7.00% | ~74 |
+| Intergalactic Breakup | 7.00% | ~74 |
+| Second Life | 7.00% | ~74 |
 | Axel jump in space! | 6.00% | ~63 |
 | First of April | 6.00% | ~63 |
 | Flawless Maegangement | 6.00% | ~63 |
 | Extreme Makeover | 4.00% | ~42 |
 | The Last Supper | 4.00% | ~42 |
-| The Improvinator | 3.00% | ~31 |
+| The Improvinator | 3.00% | ~32 |
 | Bovine Domain | 2.00% | ~21 |
 | 2018: A Soup Odyssey | 2.00% | ~21 |
 | That's No Moon! | 2.00% | ~21 |
-| Feels like home | 1.00% | ~10 |
+| Feels like home | 1.00% | ~11 |
 | AAARGH! | 0.90% | ~9 |
 | No Ticket | 0.90% | ~9 |
 | Bingpot! | 0.70% | ~7 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,046 (Ranked 296)  
+Progressed: 1,052 (Ranked 297)  
 Completed: 1 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 1 (0.10%) (Ranked 317)
 | 2024-01-15 | 830 | 1 |
 | 2024-01-16 | 870 | 1 |
 | 2024-01-17 | 981 | 1 |
-| 2024-01-18 | 1,046 | 1 |
+| 2024-01-18 | 1,052 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

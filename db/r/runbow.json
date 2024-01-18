@@ -2,12 +2,12 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 676,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253580,
+  "EOS_Progressed": 253581,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24407,6 +24407,11 @@
       "Time": "2024-01-18T16:11:15.6672175+00:00",
       "NumProgressed": 253580,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-18T17:16:08.3663622+00:00",
+      "NumProgressed": 253581,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24514,7 +24519,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45644
+      "UsersEstimate": 45645
     },
     {
       "ID": "curator",
@@ -24594,7 +24599,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134397
+      "UsersEstimate": 134398
     },
     {
       "ID": "indegestible",
@@ -24722,7 +24727,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58323
+      "UsersEstimate": 58324
     },
     {
       "ID": "thunderstruck",
@@ -24738,7 +24743,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32965
+      "UsersEstimate": 32966
     },
     {
       "ID": "treeMedalist",
@@ -24785,7 +24790,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253580,
+      "Progressed": 253581,
       "Completed": 6
     }
   ],
@@ -24793,8 +24798,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:11:15.6672171+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:16:08.366362+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:59:43.2010766+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:11:15.6673318+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:59:59.2890424+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:16:08.3665051+00:00"
 }

@@ -2,9 +2,9 @@
   "ID": "55f04b3e8af94804913ec761195d7a7c",
   "Name": "Skyts",
   "ProductSlug": "skyts-f5dfd7",
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-10T15:59:08.048372+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:08.2756085+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:01:28.5579924+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:07:38.9195518+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:01:45.2008782+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:12:50.5826707+00:00"
 }

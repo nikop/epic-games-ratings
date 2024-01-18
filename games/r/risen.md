@@ -26,7 +26,7 @@ Rating: 4.58 (Ranked 474)
 | Little hero | 18.00% | ~37 |
 | The fourth triplet | 18.00% | ~37 |
 | Sidelined | 18.00% | ~37 |
-| Wise man | 16.00% | ~33 |
+| Wise man | 17.00% | ~35 |
 | Fence | 16.00% | ~33 |
 | Pandora's box | 15.00% | ~31 |
 | Ghost hunter | 15.00% | ~31 |
@@ -56,7 +56,7 @@ Rating: 4.58 (Ranked 474)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204 (Ranked 433)  
+Progressed: 204 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |

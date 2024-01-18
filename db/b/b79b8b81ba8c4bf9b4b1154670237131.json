@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16770,
+  "EOS_Progressed": 16771,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6937,6 +6937,11 @@
       "Time": "2024-01-18T16:10:44.9643332+00:00",
       "NumProgressed": 16770,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-18T17:15:37.5334959+00:00",
+      "NumProgressed": 16771,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6965,7 +6970,7 @@
       "Name": "One-Track Mind",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_AE_12",
@@ -6997,7 +7002,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3689
+      "UsersEstimate": 3690
     },
     {
       "ID": "ACH_AE_16",
@@ -7181,7 +7186,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ACH_AE_5",
@@ -7189,7 +7194,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2012
+      "UsersEstimate": 2013
     },
     {
       "ID": "ACH_AE_6",
@@ -7228,7 +7233,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16770,
+      "Progressed": 16771,
       "Completed": 16
     }
   ],
@@ -7236,8 +7241,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:10:44.9643328+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:15:37.5334955+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:00:59.6649875+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:10:44.9643837+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:01:14.2860779+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:15:37.5335608+00:00"
 }

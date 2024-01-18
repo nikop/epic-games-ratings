@@ -38,8 +38,8 @@
 | Escaped from a big trouble | 44.00% | ~260 |
 | Now you are worthy | 40.00% | ~236 |
 | Fight is life | 40.00% | ~236 |
+| Guiding on the right path | 40.00% | ~236 |
 | Mysterious voice | 39.00% | ~230 |
-| Guiding on the right path | 39.00% | ~230 |
 | No blades in the gym | 37.00% | ~219 |
 | Champion – no way back | 36.00% | ~213 |
 | Responsible approach | 36.00% | ~213 |
@@ -71,7 +71,7 @@
 | Your own way | 25.00% | ~148 |
 | Silver’s past | 24.00% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 591 (Ranked 345)  
+Progressed: 591 (Ranked 346)  
 Completed: 9 (1.52%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -2,9 +2,9 @@
   "ID": "2ffca7b804814a12a367c5100fb000f5",
   "Name": "Chains",
   "ProductSlug": "chains-8ac580",
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-18T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:35.9949935+00:00",
   "LastChanged": "2023-03-31T05:58:35.9949937+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:30.9830315+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:01:48.3703093+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:11:07.5713693+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:02:05.5321734+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:15:59.9666071+00:00"
 }

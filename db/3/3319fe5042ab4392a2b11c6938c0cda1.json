@@ -2,7 +2,7 @@
   "ID": "3319fe5042ab4392a2b11c6938c0cda1",
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
-  "Ranking_EOS_Progress": 442,
+  "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 155,
@@ -1122,8 +1122,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:05:49.9393284+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:10:59.4277883+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:57:49.1741954+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:05:49.9393556+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:58:01.2172895+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:10:59.4278142+00:00"
 }

@@ -1,59 +1,59 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 710)  
+Rating: 4.44 (Ranked 709)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,122 |
-| I'll Be Back | 84.00% | ~4,577 |
-| Sorry, I Dropped This | 76.00% | ~4,141 |
-| First Day on the Job | 75.00% | ~4,087 |
-| Butcher's Bill | 54.00% | ~2,942 |
-| P.A.X | 36.00% | ~1,962 |
-| Hey Listen | 36.00% | ~1,962 |
-| OPERATOR | 35.00% | ~1,907 |
-| It's Blue Light | 33.00% | ~1,798 |
-| Most Wanted | 26.00% | ~1,417 |
-| Infidel | 23.00% | ~1,253 |
+| On My Own Two Feet | 94.00% | ~5,125 |
+| I'll Be Back | 84.00% | ~4,580 |
+| Sorry, I Dropped This | 76.00% | ~4,144 |
+| First Day on the Job | 75.00% | ~4,089 |
+| Butcher's Bill | 54.00% | ~2,944 |
+| P.A.X | 36.00% | ~1,963 |
+| Hey Listen | 36.00% | ~1,963 |
+| OPERATOR | 35.00% | ~1,908 |
+| It's Blue Light | 33.00% | ~1,799 |
+| Most Wanted | 26.00% | ~1,418 |
+| Infidel | 23.00% | ~1,254 |
 | Firebug | 20.00% | ~1,090 |
 | GOLIATH | 20.00% | ~1,090 |
-| I Choose You | 17.00% | ~926 |
-| Nothing to Lose | 17.00% | ~926 |
-| Big Sister | 15.00% | ~817 |
-| SENTINEL | 15.00% | ~817 |
+| I Choose You | 17.00% | ~927 |
+| Nothing to Lose | 17.00% | ~927 |
+| Big Sister | 15.00% | ~818 |
+| SENTINEL | 15.00% | ~818 |
 | Gear Up | 14.00% | ~763 |
 | The Black Cerberus | 12.00% | ~654 |
 | Watchman | 12.00% | ~654 |
 | Core Power | 12.00% | ~654 |
-| CREO Killed the Video Star | 11.00% | ~599 |
-| Who's in Charge Here? | 11.00% | ~599 |
-| Shall Not Pass | 11.00% | ~599 |
+| CREO Killed the Video Star | 11.00% | ~600 |
+| Who's in Charge Here? | 11.00% | ~600 |
+| Shall Not Pass | 11.00% | ~600 |
 | Right Tool for the Job | 10.00% | ~545 |
-| Melting Down | 9.00% | ~490 |
-| Raging Drones | 9.00% | ~490 |
-| Overconfident | 9.00% | ~490 |
+| Melting Down | 9.00% | ~491 |
+| Raging Drones | 9.00% | ~491 |
+| Overconfident | 9.00% | ~491 |
 | Pusher Man | 8.00% | ~436 |
 | Squad Chief Helvig | 8.00% | ~436 |
 | No More Marching | 8.00% | ~436 |
 | Is This Real Life? | 8.00% | ~436 |
-| Duty-Bound | 7.00% | ~381 |
-| Follow the White Rabbit | 7.00% | ~381 |
-| Liberation | 7.00% | ~381 |
-| Risk Assessment | 7.00% | ~381 |
+| Duty-Bound | 7.00% | ~382 |
+| Follow the White Rabbit | 7.00% | ~382 |
+| Liberation | 7.00% | ~382 |
+| Risk Assessment | 7.00% | ~382 |
 | Sunglasses at Night | 6.00% | ~327 |
 | Carbon Cat | 6.00% | ~327 |
-| It Lives! It Sniffs! It Conquers! | 5.00% | ~272 |
-| Man of Steel | 5.00% | ~272 |
-| Jack of All Trades | 5.00% | ~272 |
-| 3-2-1 | 5.00% | ~272 |
+| It Lives! It Sniffs! It Conquers! | 5.00% | ~273 |
+| Man of Steel | 5.00% | ~273 |
+| Jack of All Trades | 5.00% | ~273 |
+| 3-2-1 | 5.00% | ~273 |
 | Rusty Rat | 4.00% | ~218 |
 | Desecration | 4.00% | ~218 |
-| For the Good of Mankind | 3.00% | ~163 |
-| Turing Test | 3.00% | ~163 |
-| Repeat Customer | 3.00% | ~163 |
-| Evolution Theory | 3.00% | ~163 |
+| For the Good of Mankind | 3.00% | ~164 |
+| Turing Test | 3.00% | ~164 |
+| Repeat Customer | 3.00% | ~164 |
+| Evolution Theory | 3.00% | ~164 |
 | Ghost in the Machine | 2.00% | ~109 |
 | Homo Machinalis | 2.00% | ~109 |
 | Was That Yours? | 2.00% | ~109 |
@@ -66,7 +66,7 @@ Number of Ratings: 62  (23.09.2022)
 | Episodic | 2.00% | ~109 |
 | End of Transmission | 2.00% | ~109 |
 | Gramophone Enthusiast | 2.00% | ~109 |
-| Bling-Bling | 1.00% | ~54 |
+| Bling-Bling | 1.00% | ~55 |
 | Sniffing Around | 0.70% | ~38 |
 | Modus Operandi | 0.70% | ~38 |
 | Suited and Booted | 0.70% | ~38 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,449 (Ranked 205)  
+Progressed: 5,452 (Ranked 205)  
 Completed: 18 (0.33%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 18 (0.33%) (Ranked 257)
 | 2024-01-15 | 5,430 | 18 |
 | 2024-01-16 | 5,439 | 18 |
 | 2024-01-17 | 5,445 | 18 |
-| 2024-01-18 | 5,449 | 18 |
+| 2024-01-18 | 5,452 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 527)  
 Sum: 30 (Ranked 548)  

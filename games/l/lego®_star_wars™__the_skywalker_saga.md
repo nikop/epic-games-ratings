@@ -6,22 +6,22 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,195 |
-| ''I don't like you either!'' | 77.00% | ~45,875 |
-| ''Impressive, most impressive'' | 69.00% | ~41,109 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,109 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,196 |
+| ''I don't like you either!'' | 77.00% | ~45,876 |
+| ''Impressive, most impressive'' | 69.00% | ~41,110 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,110 |
 | The Phantom Menace | 56.00% | ~33,364 |
 | ''Aggressive Negotiations'' | 56.00% | ~33,364 |
-| ''I can fly anything'' | 54.00% | ~32,172 |
+| ''I can fly anything'' | 54.00% | ~32,173 |
 | ''And who gave you permission...?'' | 51.00% | ~30,385 |
-| A New Hope | 45.00% | ~26,810 |
-| Attack of the Clones | 44.00% | ~26,214 |
+| A New Hope | 45.00% | ~26,811 |
+| Attack of the Clones | 44.00% | ~26,215 |
 | Revenge of the Sith | 38.00% | ~22,640 |
-| The Empire Strikes Back | 35.00% | ~20,852 |
-| ''A fine addition to my collection'' | 35.00% | ~20,852 |
-| Return of the Jedi | 30.00% | ~17,873 |
-| The Force Awakens | 25.00% | ~14,894 |
-| The Last Jedi | 21.00% | ~12,511 |
+| The Empire Strikes Back | 35.00% | ~20,853 |
+| ''A fine addition to my collection'' | 35.00% | ~20,853 |
+| Return of the Jedi | 30.00% | ~17,874 |
+| The Force Awakens | 25.00% | ~14,895 |
+| The Last Jedi | 21.00% | ~12,512 |
 | The Rise of Skywalker | 19.00% | ~11,320 |
 | ''It's true... all of it'' | 18.00% | ~10,724 |
 | ''Get the crews to their fighters'' | 17.00% | ~10,128 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~596 |
 | ''I've never seen a real one!'' | 0.90% | ~536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,578 (Ranked 120)  
+Progressed: 59,579 (Ranked 120)  
 Completed: 262 (0.44%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,15 +324,15 @@ Completed: 262 (0.44%) (Ranked 239)
 | 2024-01-15 | 59,484 | 261 |
 | 2024-01-16 | 59,517 | 262 |
 | 2024-01-17 | 59,553 | 262 |
-| 2024-01-18 | 59,578 | 262 |
+| 2024-01-18 | 59,579 | 262 |
 ## Awards
 Max (Great Boss Battles): 2,506  (Ranked 111)  
-Sum: 6,869 (Ranked 131)  
+Sum: 6,870 (Ranked 131)  
 Diff (max vs sum): -20  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 2,506 |
-| This game is Great for Beginners | 533 |
+| This game is Great for Beginners | 534 |
 | This game has Diverse Characters | 524 |
 | This game has Amazing Characters | 503 |
 | This game is Highly Recommended | 483 |
@@ -646,4 +646,4 @@ Diff (max vs sum): -20
 | 2024-01-15 | 4.77 | - | 2,501 | 6,860 |
 | 2024-01-16 | 4.77 | - | 2,503 | 6,865 |
 | 2024-01-17 | 4.77 | - | 2,506 | 6,868 |
-| 2024-01-18 | 4.77 | - | 2,506 | 6,869 |
+| 2024-01-18 | 4.77 | - | 2,506 | 6,870 |

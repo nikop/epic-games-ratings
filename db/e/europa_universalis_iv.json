@@ -14473,10 +14473,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65019,
       "NumberOfAwardsMax": 7871
+    },
+    {
+      "Time": "2024-01-18T16:58:52.184108+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65038,
+      "NumberOfAwardsMax": 7871
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65019,
+  "NumberOfAwards": 65038,
   "NumberOfAwardsMax": 7871,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14490,7 +14496,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7497
+      "Count": 7516
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14547,9 +14553,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 501117,
+  "EOS_Progressed": 501145,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4404,
+  "EOS_NewPlayers": 4410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46097,6 +46103,11 @@
       "Time": "2024-01-18T16:11:35.003419+00:00",
       "NumProgressed": 501117,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T17:16:27.9481687+00:00",
+      "NumProgressed": 501145,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -46330,9 +46341,9 @@
       "ID": "achievement_around_the_world_in_eighty_years",
       "SetID": "8p2n7he",
       "Name": "Around the World in 80 Years",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 501
     },
     {
       "ID": "achievement_assemble_instructions_needed",
@@ -46548,7 +46559,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -47132,7 +47143,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -48108,7 +48119,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2004
+      "UsersEstimate": 2005
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -49011,21 +49022,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 501117,
+      "Progressed": 501145,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 501117,
+      "Progressed": 501145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-18T14:58:13.6343443+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:11:35.0034185+00:00",
+  "LastChanged": "2024-01-18T16:58:52.1841079+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:16:27.9481682+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:58:38.0426667+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:11:35.0045089+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:58:52.1841085+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:16:27.9494585+00:00"
 }

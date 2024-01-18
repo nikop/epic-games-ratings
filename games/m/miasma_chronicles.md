@@ -57,7 +57,7 @@ Rating: 4.40 (Ranked 772)
 | Alpha Editor | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,724 (Ranked 263)  
+Progressed: 1,724 (Ranked 264)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |

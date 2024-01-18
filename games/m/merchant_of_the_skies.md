@@ -17,7 +17,7 @@
 | Supplier | 6.00% | ~58 |
 | Botanical | 5.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 962 (Ranked 304)  
+Progressed: 962 (Ranked 306)  
 Completed: 14 (1.46%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 69,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 270,
+  "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 277,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1545,
+  "EOS_Progressed": 1546,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.39,
   "EosHistory": [
@@ -5372,6 +5372,11 @@
       "Time": "2024-01-18T16:08:20.5616695+00:00",
       "NumProgressed": 1545,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-18T17:13:33.7383257+00:00",
+      "NumProgressed": 1546,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5392,7 +5397,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1066
+      "UsersEstimate": 1067
     },
     {
       "ID": "_03_FinishAct1",
@@ -5400,7 +5405,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 772
+      "UsersEstimate": 773
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5440,7 +5445,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "_09_Completion_20",
@@ -5552,7 +5557,7 @@
       "Name": "Accursed Artifacts",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "_23_CrewTale_CNN",
@@ -5568,7 +5573,7 @@
       "Name": "Jaded Judge",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "_25_CrewTale_GCW",
@@ -5591,7 +5596,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1545,
+      "Progressed": 1546,
       "Completed": 37
     }
   ],
@@ -5599,8 +5604,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:08:20.561669+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:13:33.7383252+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5086793+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:02:09.1057735+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:08:20.561708+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:02:25.7647411+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:13:33.7383554+00:00"
 }

@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,746 (Ranked 260)  
+Progressed: 1,746 (Ranked 261)  
 Completed: 1 (0.06%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |

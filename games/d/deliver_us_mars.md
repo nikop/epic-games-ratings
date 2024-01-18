@@ -1,7 +1,7 @@
 # Deliver Us Mars
 [Store](https://store.epicgames.com/en-US/p/deliver-us-mars)  
 [View Rawdata](../../db/d/deliver_us_mars.json)  
-Rating: 4.14 (Ranked 1,014)  
+Rating: 4.15 (Ranked 1,007)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -39,7 +39,7 @@ Rating: 4.14 (Ranked 1,014)
 | Shai-Hulud? | 0.00% | ~0 |
 | The Gang | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11 (Ranked 666)  
+Progressed: 11 (Ranked 667)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,3 +87,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2023-12-26 | 4.16 | 0 | 0 |
 | 2023-12-27 | 4.15 | 0 | 0 |
 | 2024-01-17 | 4.14 | 0 | 0 |
+| 2024-01-18 | 4.15 | 0 | 0 |

@@ -2,9 +2,9 @@
   "ID": "6a04125b9d884151868aa2c56e84dc11",
   "Name": "LOVE",
   "ProductSlug": "love-65c4d0",
-  "Ranking_EOS_Progress": 728,
+  "Ranking_EOS_Progress": 238,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 54,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-18T16:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 2656,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 2653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-01-18T14:03:50.5576985+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T17:09:10.1579335+00:00",
+      "NumProgressed": 2656,
       "NumCompleted": 0
     }
   ],
@@ -42,129 +47,129 @@
       "ID": "ach_APlusPlusRank",
       "SetID": "1ol4jj3",
       "Name": "Top of the Class",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 120,
-      "UsersEstimate": 0
+      "UsersEstimate": 3
     },
     {
       "ID": "ach_ARank",
       "SetID": "1ol4jj3",
       "Name": "Studious",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_BRank",
       "SetID": "1ol4jj3",
       "Name": "Day Dreamer",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_CRank",
       "SetID": "1ol4jj3",
       "Name": "Slacker",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_OverlyCautious",
       "SetID": "1ol4jj3",
       "Name": "Overly Cautious",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_SpeedRank",
       "SetID": "1ol4jj3",
       "Name": "Gotta Go Fast",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_bouncer",
       "SetID": "1ol4jj3",
       "Name": "Bouncer",
-      "Percentage": 67,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 2
+      "UsersEstimate": 1328
     },
     {
       "ID": "ach_gameClear",
       "SetID": "1ol4jj3",
       "Name": "Game Cleared",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 0
+      "UsersEstimate": 106
     },
     {
       "ID": "ach_lv02",
       "SetID": "1ol4jj3",
       "Name": "The Direct Approach",
-      "Percentage": 0,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 27
     },
     {
       "ID": "ach_lv04",
       "SetID": "1ol4jj3",
       "Name": "The Secret of the Slow Tube",
-      "Percentage": 0,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 5
     },
     {
       "ID": "ach_lv05",
       "SetID": "1ol4jj3",
       "Name": "What Are You Doing Up There?",
-      "Percentage": 33,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 372
     },
     {
       "ID": "ach_lv06",
       "SetID": "1ol4jj3",
       "Name": "Not a Drop",
-      "Percentage": 0,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 16
     },
     {
       "ID": "ach_lv08",
       "SetID": "1ol4jj3",
       "Name": "Without a Scratch",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 13
     },
     {
       "ID": "ach_lv10",
       "SetID": "1ol4jj3",
       "Name": "The High Road",
-      "Percentage": 0,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 319
     },
     {
       "ID": "ach_lv10-2",
       "SetID": "1ol4jj3",
       "Name": "The Low Road",
-      "Percentage": 0,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 159
     },
     {
       "ID": "ach_shortcut1",
       "SetID": "1ol4jj3",
       "Name": "Shorcut Taker",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 80
     },
     {
       "ID": "ach_yolo",
@@ -187,13 +192,13 @@
     {
       "ID": "1ol4jj3",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 2656,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-18T14:03:50.5589776+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:04:03.0298169+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:09:10.1579331+00:00",
   "LastUpdate_AppInfo": "2024-01-18T13:57:18.6800892+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:57:09.9328805+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:04:03.0298382+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:57:22.5936747+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:09:10.1579535+00:00"
 }

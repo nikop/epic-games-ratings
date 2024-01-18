@@ -2,10 +2,10 @@
   "ID": "fc224bc11259446ab10c942201eb5926",
   "Name": "Dice Legacy",
   "ProductSlug": "dice-legacy",
-  "Ranking_Rating": 886,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 279,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 354,
   "Ranking_EOS_NewCompleters": 155,
@@ -3327,8 +3327,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:07:25.456153+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:12:36.2532642+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:53.4031601+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:03:31.9623334+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:07:25.4561949+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:08:38.7771724+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:12:36.2533039+00:00"
 }

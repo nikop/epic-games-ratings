@@ -10,6 +10,7 @@ Rating: 4.57 (Ranked 499)
 | Collect Gold | 2.00% | ~47 |
 | Collect Iron Ore | 2.00% | ~47 |
 | Collect Monster Parts | 2.00% | ~47 |
+| Complete Elder Faction | 2.00% | ~47 |
 | End of the Mozis | 2.00% | ~47 |
 | Ranged Weapon | 2.00% | ~47 |
 | Two Handed Weapon | 2.00% | ~47 |
@@ -28,7 +29,6 @@ Rating: 4.57 (Ranked 499)
 | The Bright Fir | 2.00% | ~20 |
 | Return the Statues | 1.00% | ~23 |
 | Complete the Chefs Book | 1.00% | ~23 |
-| Complete Elder Faction | 1.00% | ~23 |
 | Defeat Ratnor Rodentson | 1.00% | ~23 |
 | Defeat Rattus Augustail | 1.00% | ~23 |
 | Fix the Travellers Wagon | 1.00% | ~23 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 499)
 | Complete Ranger Faction | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,337 (Ranked 247)  
+Progressed: 2,337 (Ranked 248)  
 Completed: 12 (0.51%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |

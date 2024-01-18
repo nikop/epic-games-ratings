@@ -5,7 +5,7 @@
   "Ranking_Rating": 499,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 225,
   "Ranking_EOS_NewPlayers": 312,
   "Ranking_EOS_NewCompleters": 155,
@@ -4518,9 +4518,9 @@
       "ID": "CompleteElderFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Elder Faction",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 47
     },
     {
       "ID": "CompleteGuardFaction",
@@ -4742,15 +4742,15 @@
       "ID": "cbf1i0c",
       "IsBase": false,
       "Progressed": 978,
-      "Completed": 923
+      "Completed": 924
     }
   ],
   "FirstSeen": "2022-09-16T04:32:32.4390313+00:00",
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:07:39.1984096+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:12:50.8737276+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:01:59.7333542+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:07:39.198444+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:02:17.2451035+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:12:50.8737658+00:00"
 }

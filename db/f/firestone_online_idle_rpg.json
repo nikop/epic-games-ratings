@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -793,9 +793,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4616,
+  "EOS_Progressed": 4617,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 214,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12918,6 +12918,11 @@
       "Time": "2024-01-18T15:03:38.4080599+00:00",
       "NumProgressed": 4616,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T17:09:17.6983551+00:00",
+      "NumProgressed": 4617,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -12953,7 +12958,7 @@
       "Name": "Arena Challenger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "backgroundstory",
@@ -13025,7 +13030,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "dragonclicker",
@@ -13033,7 +13038,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "dragonmaster",
@@ -13057,7 +13062,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "enchantingskill",
@@ -13265,7 +13270,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "missionsdedication",
@@ -13319,9 +13324,9 @@
       "ID": "prestigious",
       "SetID": "3nl4bcg",
       "Name": "Prestigious",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 2400
+      "UsersEstimate": 2447
     },
     {
       "ID": "prestigiousx10",
@@ -13385,7 +13390,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2585
+      "UsersEstimate": 2586
     },
     {
       "ID": "thealchemist",
@@ -13425,7 +13430,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "theunstoppable",
@@ -13489,7 +13494,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4293
+      "UsersEstimate": 4294
     },
     {
       "ID": "warmachinesarmy",
@@ -13521,14 +13526,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4616,
+      "Progressed": 4617,
       "Completed": 2
     }
   ],
@@ -13536,8 +13541,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-17T22:58:46.2405409+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:04:10.2684398+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:09:17.6983546+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:59:08.3428954+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:04:10.2685588+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:59:22.7903077+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:09:17.698463+00:00"
 }

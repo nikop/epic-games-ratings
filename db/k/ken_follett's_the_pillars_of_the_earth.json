@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17931,
+  "EOS_Progressed": 17932,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18650,6 +18650,11 @@
       "Time": "2024-01-18T15:03:41.2837204+00:00",
       "NumProgressed": 17931,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-18T17:09:21.8376451+00:00",
+      "NumProgressed": 17932,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18869,7 +18874,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1435
     },
     {
       "ID": "tpote_achievement_34",
@@ -18988,15 +18993,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17931,
+      "Progressed": 17932,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:04:14.3545375+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:09:21.8376447+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:03:20.0787722+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:04:14.3546234+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:08:27.2363017+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:09:21.8377766+00:00"
 }

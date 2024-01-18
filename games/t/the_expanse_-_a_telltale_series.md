@@ -7,14 +7,14 @@ Rating: 4.54 (Ranked 551)
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 19.00% | ~3,636 |
 | Captain Drummer | 16.00% | ~3,062 |
-| Celebrations are in Order | 15.00% | ~2,870 |
+| Celebrations are in Order | 15.00% | ~2,871 |
 | The Pit and the Pirates | 14.00% | ~2,679 |
 | Martian Music | 14.00% | ~2,679 |
 | Bosmang | 14.00% | ~2,679 |
 | Impossible Objects | 14.00% | ~2,679 |
 | Drone Dodger | 13.00% | ~2,488 |
-| Stogie for Fogey | 12.00% | ~2,296 |
-| Spore Taste | 12.00% | ~2,296 |
+| Stogie for Fogey | 12.00% | ~2,297 |
+| Spore Taste | 12.00% | ~2,297 |
 | Zen Master | 11.00% | ~560 |
 | Call it Even | 10.00% | ~1,914 |
 | Safe Cracker | 10.00% | ~509 |
@@ -27,10 +27,10 @@ Rating: 4.54 (Ranked 551)
 | Keep Arjun in Check | 8.00% | ~407 |
 | Doctor Approved | 7.00% | ~1,340 |
 | Bottoms up! | 7.00% | ~1,340 |
-| Master Negotiator | 6.00% | ~305 |
+| Master Negotiator | 6.00% | ~306 |
 | Data Logger | 5.00% | ~957 |
 | Miraculous Maya | 5.00% | ~957 |
-| Data Master | 4.00% | ~765 |
+| Data Master | 4.00% | ~766 |
 | No Belter Left Behind | 3.00% | ~574 |
 | Brother's Reaper | 2.00% | ~383 |
 | Debris Spree | 2.00% | ~383 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 551)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,136 (Ranked 159)  
+Progressed: 19,138 (Ranked 159)  
 Completed: 66 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -221,7 +221,7 @@ Completed: 66 (0.34%) (Ranked 254)
 | 2024-01-15 | 19,055 | 66 |
 | 2024-01-16 | 19,084 | 66 |
 | 2024-01-17 | 19,116 | 66 |
-| 2024-01-18 | 19,136 | 66 |
+| 2024-01-18 | 19,138 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

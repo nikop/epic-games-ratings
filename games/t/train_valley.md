@@ -6,20 +6,20 @@ Number of Ratings: 28  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting started | 76.00% | ~506 |
-| Close call! | 70.00% | ~466 |
+| Getting started | 76.00% | ~507 |
+| Close call! | 70.00% | ~467 |
 | Builder | 51.00% | ~340 |
 | Living it large! | 44.00% | ~293 |
-| Collector | 43.00% | ~286 |
-| Pangs of conscience | 43.00% | ~286 |
+| Collector | 43.00% | ~287 |
+| Pangs of conscience | 43.00% | ~287 |
 | Completely nuts! | 41.00% | ~273 |
 | Need to think | 41.00% | ~273 |
 | Europe | 33.00% | ~220 |
 | Just in time! | 32.00% | ~213 |
-| Madness! | 32.00% | ~213 |
+| Madness! | 31.00% | ~207 |
 | It's no coincidence. | 27.00% | ~180 |
 | Philatelist | 26.00% | ~173 |
-| Let's roll! | 25.00% | ~166 |
+| Let's roll! | 25.00% | ~167 |
 | Ouroboros | 24.00% | ~160 |
 | Non Stop! | 24.00% | ~160 |
 | Foreman | 20.00% | ~133 |
@@ -28,7 +28,7 @@ Number of Ratings: 28  (23.09.2022)
 | Missed it! | 18.00% | ~120 |
 | Sabotage | 15.00% | ~100 |
 | Achtung! | 12.00% | ~80 |
-| Japan | 11.00% | ~73 |
+| Japan | 10.00% | ~67 |
 | Tycoon | 9.00% | ~60 |
 | Woodcutter | 9.00% | ~60 |
 | Engineer | 9.00% | ~60 |
@@ -41,12 +41,12 @@ Number of Ratings: 28  (23.09.2022)
 | Lucky vandal | 3.00% | ~20 |
 | Salesman | 1.00% | ~7 |
 | Juggler | 0.90% | ~6 |
-| Maniac vandal | 0.80% | ~5 |
+| Maniac vandal | 0.70% | ~5 |
 | BBQ | 0.60% | ~4 |
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 338)  
+Progressed: 667 (Ranked 339)  
 Completed: 2 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -201,6 +201,7 @@ Completed: 2 (0.30%) (Ranked 263)
 | 2024-01-12 | 664 | 2 |
 | 2024-01-13 | 665 | 2 |
 | 2024-01-15 | 666 | 2 |
+| 2024-01-18 | 667 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

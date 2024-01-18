@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewPlayers": 90,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1915,9 +1915,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 168782,
+  "EOS_Progressed": 168787,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1104,
+  "EOS_NewPlayers": 1106,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23570,6 +23570,11 @@
       "Time": "2024-01-18T16:06:22.609701+00:00",
       "NumProgressed": 168782,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-18T17:11:32.3274882+00:00",
+      "NumProgressed": 168787,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23630,7 +23635,7 @@
       "Name": "The Hunt",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "ACQUIRE_MAXBREATH",
@@ -23678,15 +23683,15 @@
       "Name": "Shapely",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
       "SetID": "72k7oh",
       "Name": "Scion",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1515
     },
     {
       "ID": "DEFEAT_FLOWERROCKGIANT",
@@ -23766,7 +23771,7 @@
       "Name": "Watcher",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -23854,7 +23859,7 @@
       "Name": "Ravenous",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "MISC_UNLOCKBARRIERDOOR",
@@ -23949,21 +23954,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168365,
+      "Progressed": 168370,
       "Completed": 1266
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168782,
+      "Progressed": 168787,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-18T13:07:11.4279492+00:00",
-  "LastChanged_Achievements": "2024-01-18T16:06:22.6097005+00:00",
+  "LastChanged_Achievements": "2024-01-18T17:11:32.3274877+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:01:50.4859232+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:06:22.6098338+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:02:07.3757913+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:11:32.3276271+00:00"
 }

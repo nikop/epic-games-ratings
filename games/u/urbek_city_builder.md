@@ -51,6 +51,7 @@
 | Sport is the best thing | 0.20% | ~1 |
 | Everyone should always do sport! | 0.20% | ~1 |
 | Temperate builder | 0.20% | ~1 |
+| Welfare state | 0.20% | ~1 |
 | Full archipelago | 0.00% | ~0 |
 | Archipelago builder | 0.00% | ~0 |
 | Archipelago urban planner | 0.00% | ~0 |
@@ -82,9 +83,8 @@
 | Rainforest builder | 0.00% | ~0 |
 | Rainforest urban planner | 0.00% | ~0 |
 | Rainforest master | 0.00% | ~0 |
-| Welfare state | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 517 (Ranked 355)  
+Progressed: 518 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-14 | 514 | 0 |
 | 2024-01-15 | 515 | 0 |
 | 2024-01-16 | 516 | 0 |
-| 2024-01-18 | 517 | 0 |
+| 2024-01-18 | 518 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

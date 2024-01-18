@@ -2,9 +2,9 @@
   "ID": "c8c671bf7c024fe2b2a1d4c6cd7319db",
   "Name": "Espiocracy",
   "ProductSlug": "espiocracy-e70901",
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.1648085+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:03:35.753504+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:05:24.4679487+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:08:44.0987906+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:10:33.1005212+00:00"
 }

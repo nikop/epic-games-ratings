@@ -2,12 +2,12 @@
   "ID": "41cd36dc3662428193f02f0f947bbe5e",
   "Name": "Yes, Your Grace",
   "ProductSlug": "yes-your-grace",
-  "Ranking_Rating": 580,
+  "Ranking_Rating": 581,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 840,
+  "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-26T16:00:00+00:00",
@@ -253,6 +253,6 @@
   "FirstSeenRating": "2022-08-05T14:32:08.7916569+00:00",
   "LastChanged": "2023-06-23T07:00:09.4924736+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:19.9035348+00:00",
-  "LastUpdate_Ratings": "2024-01-18T15:57:28.3539525+00:00",
-  "LastUpdate_Achievements": "2024-01-18T16:07:02.2925792+00:00"
+  "LastUpdate_Ratings": "2024-01-18T16:57:40.4850912+00:00",
+  "LastUpdate_Achievements": "2024-01-18T17:12:12.1076303+00:00"
 }
