@@ -19,14 +19,14 @@
 | 15 | [Overloop](games/o/overloop.md) | 25.00% |
 | 18 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.32% |
 | 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
-| 21 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
-| 22 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 20.69% |
-| 23 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 20.00% |
-| 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.86% |
-| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 20 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.59% |
+| 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
+| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
+| 23 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
+| 25 | [Island Cities](games/i/island_cities.md) | 16.86% |
+| 26 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 26 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 16.67% |
 | 28 | [The Riflemen](games/t/the_riflemen.md) | 16.15% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
@@ -51,8 +51,8 @@
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.70% |
-| 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
@@ -104,8 +104,8 @@
 | 102 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.56% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
-| 105 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.31% |
-| 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
+| 105 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.30% |
+| 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.23% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.16% |
@@ -160,7 +160,7 @@
 | 157 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 159 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.31% |
 | 160 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
-| 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.24% |
+| 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.23% |
 | 162 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 162 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
 | 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.17% |
