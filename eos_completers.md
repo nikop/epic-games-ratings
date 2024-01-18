@@ -10,9 +10,9 @@
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.49% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.24% |
-| 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 33.33% |
-| 12 | [Volley Pals](games/v/volley_pals.md) | 31.08% |
-| 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
+| 11 | [Volley Pals](games/v/volley_pals.md) | 31.08% |
+| 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
+| 13 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 28.57% |
 | 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.21% |
 | 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.53% |
 | 16 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -25,7 +25,7 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.82% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.80% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [The Riflemen](games/t/the_riflemen.md) | 16.13% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
@@ -106,7 +106,7 @@
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.30% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
-| 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.23% |
+| 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.22% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.16% |
 | 110 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.12% |
@@ -139,7 +139,7 @@
 | 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.05% |
 | 138 | [Strange House](games/s/strange_house.md) | 2.04% |
 | 139 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.00% |
-| 140 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.96% |
+| 140 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.95% |
 | 141 | [Somerville](games/s/somerville.md) | 1.94% |
 | 142 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
 | 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
@@ -243,10 +243,10 @@
 | 241 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
 | 242 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.41% |
 | 242 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.41% |
-| 242 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.41% |
-| 245 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
-| 245 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
-| 245 | [Tchia](games/t/tchia.md) | 0.40% |
+| 244 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
+| 244 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
+| 244 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.40% |
+| 244 | [Tchia](games/t/tchia.md) | 0.40% |
 | 248 | [Remnant 2](games/r/remnant_2.md) | 0.38% |
 | 249 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
 | 250 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
@@ -280,10 +280,10 @@
 | 278 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
 | 279 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
 | 279 | [Eternights](games/e/eternights.md) | 0.22% |
-| 281 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.21% |
-| 281 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 281 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.21% |
-| 281 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.21% |
+| 279 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.22% |
+| 282 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.21% |
+| 282 | [Ghostbusters: Spirits Unleashed Ecto Edition](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
+| 282 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.21% |
 | 285 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.20% |
 | 285 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
 | 285 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
@@ -299,11 +299,11 @@
 | 296 | [Scathe](games/s/scathe.md) | 0.15% |
 | 296 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
 | 296 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
-| 296 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.15% |
-| 301 | [Blanc](games/b/blanc.md) | 0.14% |
-| 301 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
-| 301 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
-| 301 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.14% |
+| 300 | [Blanc](games/b/blanc.md) | 0.14% |
+| 300 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
+| 300 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
+| 300 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
+| 300 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.14% |
 | 305 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
 | 305 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 305 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
