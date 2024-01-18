@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1443,
+  "EOS_Progressed": 1444,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4248,6 +4248,11 @@
       "Time": "2024-01-18T18:06:35.1699227+00:00",
       "NumProgressed": 1443,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T19:09:02.6083124+00:00",
+      "NumProgressed": 1444,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4396,7 +4401,7 @@
       "Name": "Gnothi Seauton",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "GoodCitizen",
@@ -4404,7 +4409,7 @@
       "Name": "Good Citizen",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "GrasslandsRing",
@@ -4428,7 +4433,7 @@
       "Name": "Into the Machine",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "JustOneLap",
@@ -4444,7 +4449,7 @@
       "Name": "Lord of the Files",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "LostMarshes",
@@ -4460,7 +4465,7 @@
       "Name": "Mistress of Riddles",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Mnemosyne",
@@ -4492,7 +4497,7 @@
       "Name": "A New Beginning",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "NewMorality",
@@ -4668,7 +4673,7 @@
       "Name": "The Word Endures",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "TouchGrass",
@@ -4698,9 +4703,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 317
+      "UsersEstimate": 332
     },
     {
       "ID": "WesternDelta",
@@ -4724,14 +4729,14 @@
       "Name": "Your Biggest Fan",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     }
   ],
   "AchievementSets": [
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1443,
+      "Progressed": 1444,
       "Completed": 2
     }
   ],
@@ -4739,8 +4744,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:06:35.1699224+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:09:02.608312+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:00:02.1727611+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:06:35.1699886+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:02:04.4819211+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:09:02.60837+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3643,
+  "EOS_Progressed": 3644,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9060,6 +9060,11 @@
       "Time": "2024-01-18T18:04:52.6206431+00:00",
       "NumProgressed": 3643,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T19:06:36.059189+00:00",
+      "NumProgressed": 3644,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9080,7 +9085,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9248,7 +9253,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -9280,7 +9285,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1639
+      "UsersEstimate": 1640
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9328,7 +9333,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9360,7 +9365,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9424,7 +9429,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9463,7 +9468,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3643,
+      "Progressed": 3644,
       "Completed": 0
     }
   ],
@@ -9471,8 +9476,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:04:52.6206427+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:06:36.0591888+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:58:53.1029032+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:04:52.6207225+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:00:21.3557493+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:06:36.0593001+00:00"
 }

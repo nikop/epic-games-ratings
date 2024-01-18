@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -1418,9 +1418,9 @@
       "ID": "id_6",
       "SetID": "bk9jib6",
       "Name": "Fence",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 35
     },
     {
       "ID": "id_60",
@@ -1491,8 +1491,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-15T06:57:50.024963+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:10:05.5588946+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:11:51.357044+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.9157484+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:59:34.7095579+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:10:05.5589804+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:01:25.8069481+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:11:51.3570844+00:00"
 }

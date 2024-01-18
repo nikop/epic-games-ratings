@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 277,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -943,10 +943,16 @@
       "Rating": 4.17,
       "NumberOfAwards": 701,
       "NumberOfAwardsMax": 99
+    },
+    {
+      "Time": "2024-01-18T18:57:53.131521+00:00",
+      "Rating": 4.17,
+      "NumberOfAwards": 702,
+      "NumberOfAwardsMax": 99
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 701,
+  "NumberOfAwards": 702,
   "NumberOfAwardsMax": 99,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -978,7 +984,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 88
+      "Count": 89
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1013,7 +1019,7 @@
   ],
   "EOS_Progressed": 7561,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -10135,9 +10141,9 @@
       "ID": "Recruit_Leader",
       "SetID": "4h07amh",
       "Name": "Recruit a Leader",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "Sell_10_Resource",
@@ -10438,9 +10444,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
-  "LastChanged": "2024-01-12T16:57:40.5503057+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:10:06.4957265+00:00",
+  "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:11:52.545978+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:57:16.5134129+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:10:06.4958147+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:57:53.1315213+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:11:52.5460751+00:00"
 }

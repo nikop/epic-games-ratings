@@ -2,13 +2,13 @@
   "ID": "5645a537b6a44f6f82d122729f3253ed",
   "Name": "Mutazione",
   "ProductSlug": "mutazione",
-  "Ranking_Rating": 381,
+  "Ranking_Rating": 356,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-03-04T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.62,
+  "Rating": 4.63,
   "NumberOfRatings": 63,
   "RatingHistory": [
     {
@@ -281,6 +281,12 @@
       "Rating": 4.62,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-18T19:00:59.8593181+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -298,8 +304,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:44.0004019+00:00",
-  "LastChanged": "2023-11-11T22:58:22.4142818+00:00",
+  "LastChanged": "2024-01-18T19:00:59.8593179+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:21.6248422+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:59:17.116951+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:03:34.8651078+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:00:59.8593186+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:04:58.7158208+00:00"
 }

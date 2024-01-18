@@ -3,9 +3,9 @@
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
   "Ranking_EOS_Progress": 334,
-  "Ranking_EOS_Completed": 125,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 126,
+  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-20T08:00:00+00:00",
     "PcReleaseDate": "2023-06-20T08:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 17,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.5,
+  "EOS_Completed_Percentage": 2.49,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -2564,6 +2564,11 @@
       "Time": "2024-01-18T15:03:55.8220595+00:00",
       "NumProgressed": 681,
       "NumCompleted": 17
+    },
+    {
+      "Time": "2024-01-18T19:05:24.8766584+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 17
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2608,7 +2613,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 415
+      "UsersEstimate": 416
     },
     {
       "ID": "YellowSkeleton",
@@ -2623,14 +2628,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 17
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:04:03.4155796+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:05:24.8766581+00:00",
   "LastUpdate_AppInfo": "2024-01-12T05:57:06.9315884+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:59:06.3837344+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:04:03.4156011+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:00:43.0359372+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:05:24.8767258+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
   "Ranking_EOS_Progress": 400,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
     "PcReleaseDate": "2021-10-05T15:00:00+00:00",
@@ -1395,9 +1395,9 @@
       "ID": "Vanilla_CodexTier1",
       "SetID": "27kik8p",
       "Name": "Scribe",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -1619,9 +1619,9 @@
       "ID": "Vanilla_FirstFactionTier5Neg",
       "SetID": "27kik8p",
       "Name": "Despised",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "Vanilla_FirstWin",
@@ -2076,8 +2076,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:08:27.9361274+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:09:33.9725713+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:35.0174568+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:59:04.9423527+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:08:27.9362383+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:00:40.9088206+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:09:33.9726998+00:00"
 }

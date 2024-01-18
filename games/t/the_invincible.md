@@ -5,21 +5,21 @@ Rating: 4.56 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Camp | 71.00% | ~1,233 |
-| The Teleprobe | 58.00% | ~1,007 |
-| The City | 53.00% | ~921 |
-| The field base | 48.00% | ~834 |
-| The Alliance | 45.00% | ~782 |
+| The Camp | 71.00% | ~1,235 |
+| The Teleprobe | 58.00% | ~1,009 |
+| The City | 52.00% | ~904 |
+| The field base | 48.00% | ~835 |
+| The Alliance | 45.00% | ~783 |
 | Survivors | 42.00% | ~730 |
-| The Condor | 40.00% | ~695 |
-| The End | 39.00% | ~677 |
+| The Condor | 40.00% | ~696 |
+| The End | 39.00% | ~678 |
 | The Necroevolution | 32.00% | ~556 |
-| Krauta is alive | 30.00% | ~521 |
+| Krauta is alive | 30.00% | ~522 |
 | On her own | 23.00% | ~400 |
 | Fierce fight | 23.00% | ~400 |
 | Peacemaker | 23.00% | ~400 |
 | Volcanologist | 23.00% | ~400 |
-| Evacuation | 22.00% | ~382 |
+| Evacuation | 22.00% | ~383 |
 | Beyond divisions | 19.00% | ~330 |
 | Flying Objects Operator | 18.00% | ~313 |
 | I remember everything! | 14.00% | ~243 |
@@ -27,15 +27,15 @@ Rating: 4.56 (Ranked 513)
 | Violent solution | 10.00% | ~174 |
 | I leave no man behind | 10.00% | ~174 |
 | Innate curiosity | 8.00% | ~139 |
-| Ubiquitous holes | 7.00% | ~122 |
 | Strong objection | 7.00% | ~122 |
+| Ubiquitous holes | 6.00% | ~104 |
 | The Invincible | 6.00% | ~104 |
 | Got lost again | 6.00% | ~104 |
 | I leave no man behind (no exceptions) | 2.00% | ~35 |
 | Convoy list | 0.90% | ~16 |
 | No more mistakes | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,737 (Ranked 262)  
+Progressed: 1,739 (Ranked 262)  
 Completed: 1 (0.06%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 1 (0.06%) (Ranked 337)
 | 2024-01-15 | 1,713 | 1 |
 | 2024-01-16 | 1,722 | 1 |
 | 2024-01-17 | 1,733 | 1 |
-| 2024-01-18 | 1,737 | 1 |
+| 2024-01-18 | 1,739 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

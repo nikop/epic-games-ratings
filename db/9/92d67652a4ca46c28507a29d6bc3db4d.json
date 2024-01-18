@@ -2,13 +2,13 @@
   "ID": "92d67652a4ca46c28507a29d6bc3db4d",
   "Name": "Karos",
   "ProductSlug": "karos-09de0a",
-  "Ranking_Rating": 745,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 406,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-11-16T06:00:00+00:00",
     "PcReleaseDate": "2014-12-23T21:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-11-30T13:08:42.1369127+00:00",
@@ -533,6 +533,12 @@
       "Rating": 4.42,
       "NumberOfAwards": 135,
       "NumberOfAwardsMax": 79
+    },
+    {
+      "Time": "2024-01-18T19:04:28.4958311+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 135,
+      "NumberOfAwardsMax": 79
     }
   ],
   "ReviewsDisabled": false,
@@ -565,8 +571,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-16T17:57:12.71751+00:00",
   "FirstSeenRating": "2023-11-30T13:08:42.1369125+00:00",
-  "LastChanged": "2024-01-18T01:51:36.5950064+00:00",
+  "LastChanged": "2024-01-18T19:04:28.495831+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.8024002+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:03:16.3786459+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:05:33.1402469+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:04:28.4958314+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:07:33.5322239+00:00"
 }

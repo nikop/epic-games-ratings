@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 227,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4213,
+  "EOS_Progressed": 4214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8679,6 +8679,11 @@
       "Time": "2024-01-18T18:08:10.2739589+00:00",
       "NumProgressed": 4213,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T19:09:08.6145523+00:00",
+      "NumProgressed": 4214,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8778,7 +8783,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "ACH_BASE_22",
@@ -9145,13 +9150,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2397,
+      "Progressed": 2398,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4213,
+      "Progressed": 4214,
       "Completed": 0
     }
   ],
@@ -9159,8 +9164,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-17T19:57:40.7931209+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:08:10.2739585+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:09:08.614552+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.7673694+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:58:22.0941039+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:08:10.274051+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:59:33.9723751+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:09:08.6146344+00:00"
 }

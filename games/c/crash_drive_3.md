@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Brace for impact! | 30.00% | ~132 |
+| Brace for impact! | 30.00% | ~133 |
 | Baby's First Car | 29.00% | ~128 |
 | A Forest Walk | 29.00% | ~128 |
 | Amateur Mechanic | 27.00% | ~119 |
@@ -44,9 +44,9 @@
 | Earth Defense Force | 10.00% | ~44 |
 | Rocketman | 10.00% | ~44 |
 | Event Pro | 9.00% | ~40 |
-| Space Crash | 6.00% | ~26 |
-| To war! | 6.00% | ~26 |
-| Hoarder | 6.00% | ~26 |
+| Space Crash | 6.00% | ~27 |
+| To war! | 6.00% | ~27 |
+| Hoarder | 6.00% | ~27 |
 | A Starting Collector | 4.00% | ~18 |
 | Best Friends! | 4.00% | ~18 |
 | Event Master | 4.00% | ~18 |
@@ -60,8 +60,8 @@
 | Master Mechanic | 0.90% | ~4 |
 | Crashed and Driven | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 441 (Ranked 368)  
-Completed: 2 (0.45%) (Ranked 237)  
+Progressed: 442 (Ranked 368)  
+Completed: 2 (0.45%) (Ranked 236)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -176,7 +176,7 @@ Completed: 2 (0.45%) (Ranked 237)
 | 2024-01-08 | 438 | 2 |
 | 2024-01-15 | 439 | 2 |
 | 2024-01-16 | 440 | 2 |
-| 2024-01-18 | 441 | 2 |
+| 2024-01-18 | 442 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

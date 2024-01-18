@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -927,9 +927,9 @@
       "ID": "ach-campaign-story3",
       "SetID": "17ih7ma",
       "Name": "O Captain My Captain",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 138
     },
     {
       "ID": "ach-cartography-complete",
@@ -1167,9 +1167,9 @@
       "ID": "ach-raiseDino",
       "SetID": "17ih7ma",
       "Name": "Good Mama",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 143
     },
     {
       "ID": "ach-redElk",
@@ -1183,9 +1183,9 @@
       "ID": "ach-rideDinosaur",
       "SetID": "17ih7ma",
       "Name": "Practical Palaeontology",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "ach-rob-shrines",
@@ -1264,8 +1264,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:10:09.3826057+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:11:56.7932814+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:14.1481528+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:00:29.1925716+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:10:09.3826493+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:02:43.8715377+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:11:56.7933288+00:00"
 }

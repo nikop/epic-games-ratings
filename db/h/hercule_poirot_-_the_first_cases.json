@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 363,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 364,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -1003,9 +1003,9 @@
       "ID": "ACH_02",
       "SetID": "72imik0",
       "Name": "The Blackmail",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_020",
@@ -1211,9 +1211,9 @@
       "ID": "ACH_043",
       "SetID": "72imik0",
       "Name": "Major Felix Hagen",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 268
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_044",
@@ -1292,8 +1292,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:08:43.1486946+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:09:56.2391646+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.8777109+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:03:11.5882453+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:08:43.1487399+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:04:20.7772564+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:09:56.2392022+00:00"
 }

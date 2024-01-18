@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 20,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-04-28T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -15523,10 +15523,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 92675,
       "NumberOfAwardsMax": 14084
+    },
+    {
+      "Time": "2024-01-18T19:04:06.4324999+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 92706,
+      "NumberOfAwardsMax": 14084
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 92675,
+  "NumberOfAwards": 92706,
   "NumberOfAwardsMax": 14084,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -15570,7 +15576,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 10031
+      "Count": 10049
     },
     {
       "Text": "This game has Challenging Combat",
@@ -15582,7 +15588,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 7352
+      "Count": 7365
     },
     {
       "Text": "This game has a Creative Community",
@@ -15602,8 +15608,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:33.5806012+00:00",
-  "LastChanged": "2024-01-18T18:03:02.5328589+00:00",
+  "LastChanged": "2024-01-18T19:04:06.4324998+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:48.4107759+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:03:02.5328605+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:05:05.2872148+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:04:06.4325002+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:06:54.0186834+00:00"
 }

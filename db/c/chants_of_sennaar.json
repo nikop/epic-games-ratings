@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 177,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -141,8 +141,8 @@
   "Tags": [],
   "EOS_Progressed": 2864,
   "EOS_Completed": 220,
-  "EOS_NewPlayers": 178,
-  "EOS_NewCompleters": 26,
+  "EOS_NewPlayers": 175,
+  "EOS_NewCompleters": 25,
   "EOS_Completed_Percentage": 7.68,
   "EosHistory": [
     {
@@ -7812,9 +7812,9 @@
       "ID": "PROGRESS_N4",
       "SetID": "2gma9an",
       "Name": "The darkness",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 916
+      "UsersEstimate": 945
     },
     {
       "ID": "PROGRESS_N5",
@@ -7837,8 +7837,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:04:42.0600393+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:06:21.6163825+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:57:35.6120513+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:04:42.060086+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:58:22.305587+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:06:21.6164342+00:00"
 }

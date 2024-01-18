@@ -2,13 +2,13 @@
   "ID": "89e85a9255bc41ecba82e16a23aeedf4",
   "Name": "Out of the Park Baseball 23",
   "ProductSlug": "out-of-the-park-baseball-23-09e3fa",
-  "Ranking_Rating": 381,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -167,6 +167,6 @@
   "FirstSeen": "2022-07-22T20:23:29.0257142+00:00",
   "LastChanged": "2023-03-31T05:57:41.3209203+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:04.809853+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:59:16.9102744+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:08:51.9520682+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:00:59.2295222+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:10:08.6307817+00:00"
 }

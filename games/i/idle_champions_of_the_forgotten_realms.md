@@ -90,6 +90,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~509 |
 | Dinosaur Racing | 0.20% | ~509 |
 | Elturel Has Fallen | 0.20% | ~509 |
+| Market Fluctuations | 0.20% | ~509 |
 | The Giant's Bane Tavern | 0.20% | ~442 |
 | The Long Haul | 0.20% | ~509 |
 | Lost in the Deep | 0.20% | ~509 |
@@ -367,7 +368,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.10% | ~255 |
 | Shadow Stalkers | 0.10% | ~221 |
 | Avernus Frozen Over | 0.10% | ~221 |
-| Market Fluctuations | 0.10% | ~255 |
 | Once More Into The Breach | 0.10% | ~255 |
 | Twice More Into The Breach | 0.10% | ~255 |
 | Thrice More Into The Breach | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,563 (Ranked 71)  
+Progressed: 254,571 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,7 +826,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,563 | 2,624 |
+| 2024-01-18 | 254,571 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,543 (Ranked 41)  

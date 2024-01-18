@@ -49,9 +49,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
 | Win as the Iconians | 0.50% | ~38 |
+| Recruit a Leader | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
-| Recruit a Leader | 0.20% | ~15 |
 | Commodity Seller, Level 2 | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |
 | Ask Not What Your Empire Can Do For You | 0.10% | ~8 |
@@ -354,13 +354,13 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-18 | 7,561 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 384)  
-Sum: 701 (Ranked 313)  
+Sum: 702 (Ranked 313)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 99 |
 | This game is Relaxing | 91 |
-| This game is Highly Recommended | 88 |
+| This game is Highly Recommended | 89 |
 | This game has Quickly Understood Controls | 87 |
 | This game is Extremely Fun | 83 |
 | This game has Amazing Storytelling | 79 |
@@ -495,3 +495,4 @@ Diff (max vs sum): 71
 | 2023-12-27 | 4.17 | - | 99 | 699 |
 | 2024-01-06 | 4.17 | - | 99 | 700 |
 | 2024-01-12 | 4.17 | - | 99 | 701 |
+| 2024-01-18 | 4.17 | - | 99 | 702 |

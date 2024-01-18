@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Hired | 96.00% | ~180 |
+| You're Hired | 97.00% | ~181 |
 | Learn the Ropes | 64.00% | ~120 |
 | Working for the Kiweekend | 38.00% | ~71 |
 | Fun in the Bungalow Basin Sun | 37.00% | ~69 |

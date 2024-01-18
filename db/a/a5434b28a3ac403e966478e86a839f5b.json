@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 973,
+  "EOS_Progressed": 974,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
@@ -3435,6 +3435,11 @@
       "Time": "2024-01-18T13:15:19.0885952+00:00",
       "NumProgressed": 973,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-18T19:10:17.5611983+00:00",
+      "NumProgressed": 974,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3463,7 +3468,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_eou3",
@@ -3479,7 +3484,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_eou5",
@@ -3550,14 +3555,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 973,
+      "Progressed": 974,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:08:58.1160659+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:10:17.561198+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.9580247+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:00:21.6933692+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:08:58.1161023+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:02:32.5010141+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:10:17.5612189+00:00"
 }

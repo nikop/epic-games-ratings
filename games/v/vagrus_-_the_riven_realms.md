@@ -9,7 +9,7 @@
 | The Package | 28.00% | ~87 |
 | Randomized | 19.00% | ~59 |
 | Conquered | 18.00% | ~56 |
-| Scribe | 11.00% | ~34 |
+| Scribe | 12.00% | ~37 |
 | Breached | 11.00% | ~34 |
 | Tactician | 10.00% | ~31 |
 | Conciliator | 9.00% | ~28 |
@@ -28,11 +28,11 @@
 | Merchant | 5.00% | ~16 |
 | Trouble at Fort Larius | 5.00% | ~16 |
 | Potential Unlocked | 4.00% | ~12 |
+| Despised | 4.00% | ~12 |
 | Been There | 4.00% | ~12 |
 | Spiritual Journey | 4.00% | ~12 |
 | Xevarian Gambit | 3.00% | ~9 |
 | The Voice of Hereafter | 3.00% | ~9 |
-| Despised | 3.00% | ~9 |
 | A Terrible Will | 3.00% | ~9 |
 | Inquisitions of Discord | 3.00% | ~9 |
 | Unseen Patterns | 3.00% | ~9 |

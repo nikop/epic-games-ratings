@@ -5,48 +5,48 @@ Rating: 4.72 (Ranked 196)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,481 |
-| First of Many | 12.00% | ~35,481 |
-| Not Your Average Trait | 10.00% | ~29,568 |
-| Expanding Horizons | 9.00% | ~26,611 |
-| Gleaming the Cube | 8.00% | ~23,654 |
-| Quest for Survival | 8.00% | ~23,654 |
-| Familiar Face | 8.00% | ~23,654 |
-| Boss'n Up | 8.00% | ~23,654 |
-| Trait Chaser | 8.00% | ~23,654 |
-| Not So Special Now | 7.00% | ~20,697 |
-| Not a Janitor | 7.00% | ~20,697 |
-| Duality | 7.00% | ~20,697 |
-| Equal Measures | 6.00% | ~17,741 |
-| Blue Goddess | 6.00% | ~17,741 |
-| Top Performer | 6.00% | ~17,741 |
-| Almost There | 6.00% | ~17,741 |
-| Make Some Room | 6.00% | ~17,741 |
-| Good, But Could Be Better! | 6.00% | ~17,741 |
-| Am I Seeing This? | 5.00% | ~14,784 |
-| Chaos | 5.00% | ~14,784 |
-| Power Surge | 5.00% | ~14,784 |
-| The God Gambit | 5.00% | ~14,784 |
-| Dark Designs | 5.00% | ~14,784 |
-| Shhh...It's a Secret | 5.00% | ~14,784 |
-| Was This Supposed To Happen? | 5.00% | ~14,784 |
-| The Web | 5.00% | ~14,784 |
-| Traitor | 4.00% | ~11,827 |
-| Forever is a Long Time Coming | 4.00% | ~11,827 |
-| Madman's Paradise | 4.00% | ~11,827 |
-| The Agenda | 4.00% | ~11,827 |
-| Strapped | 4.00% | ~11,827 |
-| Scrap Collector | 4.00% | ~11,827 |
-| All These Traits� | 4.00% | ~11,827 |
-| Tall Tales | 3.00% | ~8,870 |
-| Bad Moon Rising | 3.00% | ~8,870 |
-| Edgelord | 3.00% | ~8,870 |
-| Scrap Hoarder | 3.00% | ~8,870 |
-| Carnage in C-Minor | 3.00% | ~8,870 |
-| The Ultimate Weapon | 3.00% | ~8,870 |
-| No One Should Have All That Power | 3.00% | ~8,870 |
-| Transmutate | 3.00% | ~8,870 |
-| Regicide | 3.00% | ~2,245 |
+| The Killing Jar | 12.00% | ~35,485 |
+| First of Many | 12.00% | ~35,485 |
+| Not Your Average Trait | 10.00% | ~29,570 |
+| Expanding Horizons | 9.00% | ~26,613 |
+| Gleaming the Cube | 8.00% | ~23,656 |
+| Quest for Survival | 8.00% | ~23,656 |
+| Familiar Face | 8.00% | ~23,656 |
+| Boss'n Up | 8.00% | ~23,656 |
+| Trait Chaser | 8.00% | ~23,656 |
+| Not So Special Now | 7.00% | ~20,699 |
+| Not a Janitor | 7.00% | ~20,699 |
+| Duality | 7.00% | ~20,699 |
+| Equal Measures | 6.00% | ~17,742 |
+| Blue Goddess | 6.00% | ~17,742 |
+| Top Performer | 6.00% | ~17,742 |
+| Almost There | 6.00% | ~17,742 |
+| Make Some Room | 6.00% | ~17,742 |
+| Good, But Could Be Better! | 6.00% | ~17,742 |
+| Am I Seeing This? | 5.00% | ~14,785 |
+| Chaos | 5.00% | ~14,785 |
+| Power Surge | 5.00% | ~14,785 |
+| The God Gambit | 5.00% | ~14,785 |
+| Dark Designs | 5.00% | ~14,785 |
+| Shhh...It's a Secret | 5.00% | ~14,785 |
+| Was This Supposed To Happen? | 5.00% | ~14,785 |
+| The Web | 5.00% | ~14,785 |
+| Traitor | 4.00% | ~11,828 |
+| Forever is a Long Time Coming | 4.00% | ~11,828 |
+| Madman's Paradise | 4.00% | ~11,828 |
+| The Agenda | 4.00% | ~11,828 |
+| Strapped | 4.00% | ~11,828 |
+| Scrap Collector | 4.00% | ~11,828 |
+| All These Traits� | 4.00% | ~11,828 |
+| Tall Tales | 3.00% | ~8,871 |
+| Bad Moon Rising | 3.00% | ~8,871 |
+| Edgelord | 3.00% | ~8,871 |
+| Scrap Hoarder | 3.00% | ~8,871 |
+| Carnage in C-Minor | 3.00% | ~8,871 |
+| The Ultimate Weapon | 3.00% | ~8,871 |
+| No One Should Have All That Power | 3.00% | ~8,871 |
+| Transmutate | 3.00% | ~8,871 |
+| Regicide | 3.00% | ~2,246 |
 | Crafty | 2.00% | ~5,914 |
 | Ghost in the Machine | 2.00% | ~5,914 |
 | Only Human | 2.00% | ~5,914 |
@@ -61,7 +61,7 @@ Rating: 4.72 (Ranked 196)
 | You Shall Pass | 0.80% | ~599 |
 | A Foul Feast | 0.50% | ~374 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,678 (Ranked 66)  
+Progressed: 295,705 (Ranked 66)  
 Completed: 1,136 (0.38%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -247,7 +247,7 @@ Completed: 1,136 (0.38%) (Ranked 249)
 | 2024-01-15 | 294,108 | 1,080 |
 | 2024-01-16 | 294,750 | 1,101 |
 | 2024-01-17 | 295,280 | 1,119 |
-| 2024-01-18 | 295,678 | 1,136 |
+| 2024-01-18 | 295,705 | 1,136 |
 ## Awards
 Max (Great Boss Battles): 7,166  (Ranked 58)  
 Sum: 16,258 (Ranked 71)  

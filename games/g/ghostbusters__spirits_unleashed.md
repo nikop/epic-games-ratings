@@ -1,4 +1,4 @@
-# Ghostbusters: Spirits Unleashed Ecto Edition
+# Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
 Rating: 4.50 (Ranked 618)  
@@ -9,9 +9,9 @@ Rating: 4.50 (Ranked 618)
 | Meticulously Efficient | 9.00% | ~3,040 |
 | Advancement | 8.00% | ~2,702 |
 | Swift Rift Removers | 7.00% | ~2,364 |
-| I collect Spores, Molds, and Fungi | 6.00% | ~2,026 |
-| Discovery | 6.00% | ~2,026 |
-| Solo Capture | 6.00% | ~2,026 |
+| I collect Spores, Molds, and Fungi | 6.00% | ~2,027 |
+| Discovery | 6.00% | ~2,027 |
+| Solo Capture | 6.00% | ~2,027 |
 | Clutch Capture | 5.00% | ~1,689 |
 | Cultured | 5.00% | ~1,689 |
 | Fully Upgraded | 5.00% | ~1,689 |
@@ -34,12 +34,12 @@ Rating: 4.50 (Ranked 618)
 | Side Hustle | 3.00% | ~1,013 |
 | Summoner | 3.00% | ~1,013 |
 | Welcome to the Crew | 3.00% | ~1,013 |
-| Collector | 2.00% | ~675 |
-| Escape Artist | 2.00% | ~675 |
-| Reckless | 2.00% | ~675 |
-| Skilled | 2.00% | ~675 |
-| Stunner | 2.00% | ~675 |
-| Tobin's Prodigy | 2.00% | ~675 |
+| Collector | 2.00% | ~676 |
+| Escape Artist | 2.00% | ~676 |
+| Reckless | 2.00% | ~676 |
+| Skilled | 2.00% | ~676 |
+| Stunner | 2.00% | ~676 |
+| Tobin's Prodigy | 2.00% | ~676 |
 | Diabolical | 1.00% | ~338 |
 | Fragile Panes | 1.00% | ~338 |
 | Liability | 1.00% | ~338 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 618)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,774 (Ranked 140)  
+Progressed: 33,777 (Ranked 140)  
 Completed: 71 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 71 (0.21%) (Ranked 283)
 | 2024-01-15 | 33,702 | 71 |
 | 2024-01-16 | 33,725 | 71 |
 | 2024-01-17 | 33,760 | 71 |
-| 2024-01-18 | 33,774 | 71 |
+| 2024-01-18 | 33,777 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
 Sum: 2,969 (Ranked 188)  

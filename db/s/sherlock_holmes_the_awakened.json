@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -181,9 +181,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1495,
+  "EOS_Progressed": 1496,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.28,
   "EosHistory": [
@@ -5341,6 +5341,11 @@
       "Time": "2024-01-18T18:06:22.8026998+00:00",
       "NumProgressed": 1495,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-18T19:08:44.4969216+00:00",
+      "NumProgressed": 1496,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5352,7 +5357,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 927
+      "UsersEstimate": 928
     },
     {
       "ID": "MQ01_2",
@@ -5360,7 +5365,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "MQ02_1",
@@ -5368,7 +5373,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "MQ02_2",
@@ -5392,7 +5397,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 52,
       "XP": 40,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "MQ03_1",
@@ -5440,7 +5445,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "MQ04_2",
@@ -5448,7 +5453,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 508
+      "UsersEstimate": 509
     },
     {
       "ID": "MQ04_3",
@@ -5496,7 +5501,7 @@
       "Name": "Brain Food",
       "Percentage": 31,
       "XP": 40,
-      "UsersEstimate": 463
+      "UsersEstimate": 464
     },
     {
       "ID": "MQ06_2",
@@ -5542,9 +5547,9 @@
       "ID": "MQ08_1",
       "SetID": "bbing49",
       "Name": "No Stone Unturned",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 493
+      "UsersEstimate": 479
     },
     {
       "ID": "MQ08_2",
@@ -5575,7 +5580,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1495,
+      "Progressed": 1496,
       "Completed": 49
     }
   ],
@@ -5583,8 +5588,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:06:22.8026992+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:08:44.4969212+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:03:16.3976644+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:06:22.8027469+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:04:28.4791845+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:08:44.4969654+00:00"
 }

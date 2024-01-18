@@ -33,11 +33,11 @@ Rating: 3.66 (Ranked 1,100)
 | Sic Transit Umbra | 3.00% | ~72 |
 | Silence Is Golden | 3.00% | ~72 |
 | Good Morning | 3.00% | ~72 |
+| Check, Please! | 3.00% | ~72 |
 | Starve the Beast | 3.00% | ~72 |
 | Harvest’s End | 3.00% | ~72 |
 | Revelations | 2.00% | ~48 |
 | Contingency Plans | 2.00% | ~48 |
-| Check, Please! | 2.00% | ~48 |
 | Right This Way | 2.00% | ~48 |
 | Nice Try | 2.00% | ~48 |
 | Blacklight Down | 2.00% | ~48 |

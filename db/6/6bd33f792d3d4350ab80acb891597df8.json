@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-3-b0c022",
   "Ranking_EOS_Progress": 476,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 378,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2022-12-23T00:00:00+00:00",
@@ -768,9 +768,9 @@
       "ID": "CgkIxYDzrbcPEAIQBg",
       "SetID": "4egpam7",
       "Name": "Uninvited Guests",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 85
     },
     {
       "ID": "CgkIxYDzrbcPEAIQBw",
@@ -975,8 +975,8 @@
   ],
   "FirstSeen": "2023-07-14T06:57:05.7829638+00:00",
   "FirstSeenAchievements": "2023-06-13T09:02:05.7598782+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:05:59.0139065+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:08:10.8395889+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:13.4937077+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:58:50.0470503+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:05:59.0139278+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:00:16.7042216+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:08:10.8396156+00:00"
 }

@@ -6,13 +6,13 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,520 |
-| Photographer | 67.00% | ~9,520 |
-| Valley's Helper | 59.00% | ~8,383 |
-| Constructor | 50.00% | ~7,104 |
-| Renovator | 50.00% | ~7,104 |
+| Goofy's Investor | 67.00% | ~9,521 |
+| Photographer | 67.00% | ~9,521 |
+| Valley's Helper | 59.00% | ~8,384 |
+| Constructor | 50.00% | ~7,105 |
+| Renovator | 50.00% | ~7,105 |
 | Bestest Friend | 44.00% | ~6,252 |
-| Banker | 38.00% | ~5,399 |
+| Banker | 38.00% | ~5,400 |
 | Gardener | 30.00% | ~4,263 |
 | Generous | 25.00% | ~3,552 |
 | Chef Cook | 19.00% | ~2,700 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 6.00% | ~853 |
 | Chit Chatter | 3.00% | ~426 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,209 (Ranked 176)  
+Progressed: 14,210 (Ranked 176)  
 Completed: 352 (2.48%) (Ranked 127)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -246,22 +246,22 @@ Completed: 352 (2.48%) (Ranked 127)
 | 2024-01-15 | 14,165 | 351 |
 | 2024-01-16 | 14,183 | 352 |
 | 2024-01-17 | 14,198 | 352 |
-| 2024-01-18 | 14,209 | 352 |
+| 2024-01-18 | 14,210 | 352 |
 ## Awards
 Max (Great for Beginners): 1,190  (Ranked 151)  
-Sum: 8,427 (Ranked 112)  
+Sum: 8,433 (Ranked 112)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,190 |
-| This game has Diverse Characters | 1,003 |
+| This game has Diverse Characters | 1,005 |
 | This game is Highly Recommended | 874 |
-| This game has Amazing Characters | 848 |
+| This game has Amazing Characters | 849 |
 | This game is Relaxing | 831 |
 | This game has Amazing Storytelling | 807 |
 | This game is Extremely Fun | 794 |
 | This game has Quickly Understood Controls | 784 |
-| This game has a Creative Community | 738 |
+| This game has a Creative Community | 741 |
 | This game has Easy Combat | 558 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -576,4 +576,4 @@ Diff (max vs sum): 39
 | 2024-01-15 | 4.76 | - | 1,185 | 8,408 |
 | 2024-01-16 | 4.76 | - | 1,185 | 8,415 |
 | 2024-01-17 | 4.76 | - | 1,187 | 8,423 |
-| 2024-01-18 | 4.76 | - | 1,190 | 8,427 |
+| 2024-01-18 | 4.76 | - | 1,190 | 8,433 |

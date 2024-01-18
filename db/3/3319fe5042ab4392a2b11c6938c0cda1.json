@@ -4,8 +4,8 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -859,9 +859,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "ae95dh3",
       "Name": "Child of the Shadows",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 29
+      "UsersEstimate": 31
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -955,9 +955,9 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "ae95dh3",
       "Name": "All That Glitters",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -1122,8 +1122,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:04:56.1150466+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:06:40.8668194+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:57:51.267355+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:04:56.1150885+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:58:46.1349981+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:06:40.8668453+00:00"
 }

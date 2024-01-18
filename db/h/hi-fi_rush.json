@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -281,7 +281,7 @@
   ],
   "EOS_Progressed": 17385,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 587,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12786,9 +12786,9 @@
       "ID": "Ach017",
       "SetID": "12n4k20",
       "Name": "I play my own way!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4172
+      "UsersEstimate": 4346
     },
     {
       "ID": "Ach018",
@@ -13241,8 +13241,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:03:55.6710855+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:05:13.8918734+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:57:45.3483619+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:03:55.6712145+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:58:37.2886293+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:05:13.8919882+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "top-web-search-23-a34613",
   "Ranking_EOS_Progress": 584,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 74,
+  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2024-01-10T18:00:00+00:00",
     "PcReleaseDate": "2024-01-10T18:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 40,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 17.5,
   "EosHistory": [
@@ -258,9 +258,9 @@
       "ID": "MASTERFUL_ELEVEN",
       "SetID": "44h0e32",
       "Name": "Masterful Eleven",
-      "Percentage": 35,
+      "Percentage": 38,
       "XP": 100,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "NINTH_WONDER_DECISIONMAKER",
@@ -320,8 +320,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-08T21:03:53.9988833+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:08:21.3045086+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:09:24.6089384+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:09.6857871+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:58:33.1196754+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:08:21.304541+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:59:50.5936801+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:09:24.608947+00:00"
 }

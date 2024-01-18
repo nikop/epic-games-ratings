@@ -2,10 +2,10 @@
   "ID": "bf3261d8abc64fdfb73c3f9c4f7870e0",
   "Name": "Ash of Gods: Redemption",
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
-  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 341,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 144,
+  "EOS_Progressed": 145,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -674,6 +674,11 @@
       "Time": "2024-01-17T13:15:29.9382178+00:00",
       "NumProgressed": 144,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T19:11:05.3264926+00:00",
+      "NumProgressed": 145,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-11T10:03:42.0552866+00:00",
@@ -742,7 +747,7 @@
       "Name": "Berserker",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_blance_is_my_choise",
@@ -894,7 +899,7 @@
       "Name": "The last word",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "achievement_madman",
@@ -950,7 +955,7 @@
       "Name": "Not energetic",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_not_risky",
@@ -958,7 +963,7 @@
       "Name": "Not a daredevil",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "achievement_rush",
@@ -1085,14 +1090,14 @@
     {
       "ID": "bngbnfb",
       "IsBase": true,
-      "Progressed": 144,
+      "Progressed": 145,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:09:31.7107749+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:11:05.3264922+00:00",
   "LastUpdate_AppInfo": "2024-01-17T15:57:31.0618274+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:57:51.7158397+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:09:31.7108322+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:58:46.8691925+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:11:05.3265535+00:00"
 }

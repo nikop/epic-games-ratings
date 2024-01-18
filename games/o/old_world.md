@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Explorer | 5.00% | ~848 |
 | Settler | 5.00% | ~848 |
 | Play a Single Player Game | 5.00% | ~848 |
-| Explorer | 4.00% | ~679 |
 | Intrepid | 4.00% | ~679 |
 | Friendly Family | 4.00% | ~679 |
 | Able | 3.00% | ~509 |
@@ -134,13 +134,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library | 0.60% | ~102 |
 | Yazilikaya | 0.60% | ~102 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
+| Old | 0.50% | ~85 |
 | Church of the Holy Sepulchre | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
 | Turreted Elephant | 0.50% | ~85 |
 | All Nations | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
-| Old | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
 | Learn to Play 5 | 0.40% | ~68 |
@@ -152,10 +152,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
+| Persia | 0.30% | ~51 |
 | Pantheon of Gods | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
+| Al Khazneh | 0.30% | ~51 |
 | Cothon | 0.30% | ~51 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
@@ -171,7 +173,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.20% | ~34 |
 | Tell the Spartans | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
-| Persia | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
 | Circus Maximus in Roma | 0.20% | ~34 |
@@ -181,7 +182,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.20% | ~34 |
 | Kush | 0.20% | ~34 |
 | Beja Archer | 0.20% | ~34 |
-| Al Khazneh | 0.20% | ~34 |
 | Colosseum | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,965 (Ranked 169)  
+Progressed: 16,968 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,965 | 5 |
+| 2024-01-18 | 16,968 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

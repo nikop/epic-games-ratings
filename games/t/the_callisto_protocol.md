@@ -5,17 +5,17 @@ Rating: 4.22 (Ranked 957)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Outer Way | 28.00% | ~6,310 |
-| Flesh Wound | 27.00% | ~6,085 |
-| Desperate Times | 26.00% | ~5,859 |
+| The Outer Way | 28.00% | ~6,311 |
+| Flesh Wound | 27.00% | ~6,086 |
+| Desperate Times | 26.00% | ~5,860 |
 | Paper Jams | 24.00% | ~5,409 |
-| Get a Grip | 23.00% | ~5,183 |
-| Chew 'Em Up | 22.00% | ~4,958 |
-| Reforged | 20.00% | ~4,507 |
+| Get a Grip | 23.00% | ~5,184 |
+| Chew 'Em Up | 22.00% | ~4,959 |
+| Reforged | 20.00% | ~4,508 |
 | Float Like A Butterfly | 19.00% | ~4,282 |
-| Workplace Hazard | 18.00% | ~4,056 |
-| If the SHU Fits... | 18.00% | ~4,056 |
-| Without A Paddle | 15.00% | ~3,380 |
+| Workplace Hazard | 18.00% | ~4,057 |
+| If the SHU Fits... | 18.00% | ~4,057 |
+| Without A Paddle | 15.00% | ~3,381 |
 | In the Pipe, Five by Five | 14.00% | ~3,155 |
 | Crash Site | 14.00% | ~3,155 |
 | Two Heads Are Better Than One | 13.00% | ~2,930 |
@@ -25,7 +25,7 @@ Rating: 4.22 (Ranked 957)
 | What Lies Beneath | 11.00% | ~2,479 |
 | Full Circle | 11.00% | ~2,479 |
 | You Need a Gun | 10.00% | ~2,254 |
-| I Do Belong Here | 9.00% | ~2,028 |
+| I Do Belong Here | 9.00% | ~2,029 |
 | Keep Fighting | 8.00% | ~837 |
 | The Commonality | 6.00% | ~1,352 |
 | It's Time | 6.00% | ~628 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 957)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,536 (Ranked 151)  
+Progressed: 22,539 (Ranked 151)  
 Completed: 82 (0.36%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,11 +318,11 @@ Completed: 82 (0.36%) (Ranked 251)
 | 2024-01-15 | 22,431 | 82 |
 | 2024-01-16 | 22,467 | 82 |
 | 2024-01-17 | 22,513 | 82 |
-| 2024-01-18 | 22,536 | 82 |
+| 2024-01-18 | 22,539 | 82 |
 ## Awards
-Max (Amazing Characters): 136  (Ranked 345)  
+Max (Amazing Characters): 136  (Ranked 346)  
 Sum: 665 (Ranked 318)  
-Diff (max vs sum): 27  
+Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 136 |

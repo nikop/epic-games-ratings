@@ -10942,10 +10942,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21738,
       "NumberOfAwardsMax": 8040
+    },
+    {
+      "Time": "2024-01-18T19:02:18.5845433+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21739,
+      "NumberOfAwardsMax": 8040
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21738,
+  "NumberOfAwards": 21739,
   "NumberOfAwardsMax": 8040,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10965,7 +10971,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1609
+      "Count": 1610
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11022,9 +11028,9 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133146,
+  "EOS_Progressed": 133149,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40472,6 +40478,11 @@
       "Time": "2024-01-18T18:10:00.5904182+00:00",
       "NumProgressed": 133146,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T19:11:44.9789712+00:00",
+      "NumProgressed": 133149,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41019,7 +41030,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "combat_kill_collector",
@@ -41083,7 +41094,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 721
+      "UsersEstimate": 722
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41114,21 +41125,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133146,
+      "Progressed": 133149,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8015,
+      "Progressed": 8018,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-18T17:01:39.4586378+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:10:00.5904177+00:00",
+  "LastChanged": "2024-01-18T19:02:18.5845419+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:11:44.9789708+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:00:12.4430878+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:10:00.5906086+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:02:18.5845437+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:11:44.9791278+00:00"
 }

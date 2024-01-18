@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9655,10 +9655,10 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254563,
+  "EOS_Progressed": 254571,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1183,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1182,
+  "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -40670,6 +40670,11 @@
       "Time": "2024-01-18T18:10:15.3926895+00:00",
       "NumProgressed": 254563,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-18T19:12:03.5901526+00:00",
+      "NumProgressed": 254571,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -43303,9 +43308,9 @@
       "ID": "objective_completed_61",
       "SetID": "cc37lbc",
       "Name": "Market Fluctuations",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_610",
@@ -45048,21 +45053,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220837,
+      "Progressed": 220845,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254563,
+      "Progressed": 254571,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-18T07:59:00.741304+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:10:15.3926891+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:12:03.590152+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:59:29.1982149+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:10:15.3948923+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:01:17.4626451+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:12:03.5924496+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "53ef2f4592684c4c97d6d32e40467274",
   "Name": "Among the Sleep - Enhanced Edition",
   "ProductSlug": "among-the-sleep-enhanced-edition",
-  "Ranking_Rating": 903,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 102,
@@ -506,9 +506,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99556,
+  "EOS_Progressed": 99563,
   "EOS_Completed": 459,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -31021,6 +31021,11 @@
       "Time": "2024-01-18T18:09:14.5497468+00:00",
       "NumProgressed": 99556,
       "NumCompleted": 459
+    },
+    {
+      "Time": "2024-01-18T19:10:40.8308098+00:00",
+      "NumProgressed": 99563,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 10,
@@ -31096,7 +31101,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34845
+      "UsersEstimate": 34847
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -31104,22 +31109,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10951
+      "UsersEstimate": 10952
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 99556,
+      "Progressed": 99563,
       "Completed": 459
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-01-18T16:03:39.3756738+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:09:14.5497409+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:10:40.8308094+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.2995243+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:03:15.77693+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:09:14.5499321+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:04:27.5476541+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:10:40.8309805+00:00"
 }

@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~494 |
 | First of many… | 68.00% | ~437 |
-| Helping Hand | 64.00% | ~411 |
+| Helping Hand | 65.00% | ~417 |
 | Increased Vigor | 61.00% | ~392 |
 | Fight Fire with Fire | 59.00% | ~379 |
 | Increased Capacity | 56.00% | ~360 |
@@ -20,8 +20,8 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 41.00% | ~263 |
 | Throne Potato | 41.00% | ~263 |
 | Five's a Crowd | 41.00% | ~263 |
+| Salvation | 40.00% | ~257 |
 | 25 to Life | 40.00% | ~257 |
-| Salvation | 39.00% | ~250 |
 | Unshakable Fortitude | 37.00% | ~238 |
 | Soul Harvester | 37.00% | ~238 |
 | Delusions of Grandeur | 36.00% | ~231 |
@@ -38,11 +38,11 @@ Number of Ratings: 116  (23.09.2022)
 | Cleanup Crew | 26.00% | ~167 |
 | Seeing Red | 25.00% | ~160 |
 | Demon Meddler | 24.00% | ~154 |
+| Egomaniac | 24.00% | ~154 |
 | Maximum Capacity | 23.00% | ~148 |
-| Egomaniac | 23.00% | ~148 |
 | Protector of Humanity | 22.00% | ~141 |
 | Everybody Wants to Rule the World | 22.00% | ~141 |
-| Community Outreach | 16.00% | ~103 |
+| Community Outreach | 17.00% | ~109 |
 | A Parting Gift | 15.00% | ~96 |
 | Path of the Horseman | 15.00% | ~96 |
 | Unbreakable Will | 14.00% | ~90 |

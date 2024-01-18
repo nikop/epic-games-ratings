@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2579,9 +2579,9 @@
       "ID": "Collect_Weapon_Crossblade",
       "SetID": "7a5k76n",
       "Name": "Salvation",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 257
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -2803,9 +2803,9 @@
       "ID": "Kill_Sin_Pride",
       "SetID": "7a5k76n",
       "Name": "Egomaniac",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 154
     },
     {
       "ID": "Kill_Sin_Sloth",
@@ -2835,9 +2835,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 411
+      "UsersEstimate": 417
     },
     {
       "ID": "Save_Humans_10",
@@ -2851,9 +2851,9 @@
       "ID": "Save_Humans_15",
       "SetID": "7a5k76n",
       "Name": "Community Outreach",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 103
+      "UsersEstimate": 109
     },
     {
       "ID": "Save_Humans_20",
@@ -2947,8 +2947,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:05:40.1518511+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:07:43.3837579+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:58:38.4097117+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:05:40.1519395+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:59:58.725427+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:07:43.3838104+00:00"
 }

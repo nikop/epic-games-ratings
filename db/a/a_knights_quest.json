@@ -4,8 +4,8 @@
   "ProductSlug": "a-knights-quest",
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2019-10-09T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:17.1214723+00:00",
   "LastChanged": "2023-03-31T05:57:17.1214724+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.1486293+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:03:20.279211+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:08:38.3156244+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:04:34.6921833+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:09:49.5222619+00:00"
 }

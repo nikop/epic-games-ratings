@@ -5,10 +5,10 @@
   "Ranking_Rating": 551,
   "Ranking_Popularity": 507,
   "Ranking_PopularitySum": 405,
-  "Ranking_EOS_Progress": 208,
+  "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 217,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4804,
+  "EOS_Progressed": 4805,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8489,6 +8489,11 @@
       "Time": "2024-01-18T08:04:50.3057101+00:00",
       "NumProgressed": 4804,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T19:07:04.9674754+00:00",
+      "NumProgressed": 4805,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8692,7 +8697,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8716,7 +8721,7 @@
       "Name": "Strange amalgams",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "Tapped_22",
@@ -8724,7 +8729,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1633
+      "UsersEstimate": 1634
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8756,7 +8761,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -8820,7 +8825,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3459
+      "UsersEstimate": 3460
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8835,15 +8840,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4804,
+      "Progressed": 4805,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:05:12.6685255+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:07:04.967475+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:03:08.6746378+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:05:12.6686282+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:04:16.1457973+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:07:04.9675554+00:00"
 }

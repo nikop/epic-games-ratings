@@ -5,25 +5,25 @@ Rating: 4.56 (Ranked 513)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,942 |
-| Pay 'n' Spray | 50.00% | ~9,840 |
-| All Dressed Up for San Fierro | 25.00% | ~4,920 |
-| The American Dream | 19.00% | ~3,739 |
+| Getting Started | 81.00% | ~15,944 |
+| Pay 'n' Spray | 50.00% | ~9,842 |
+| All Dressed Up for San Fierro | 25.00% | ~4,921 |
+| The American Dream | 19.00% | ~3,740 |
 | School's Out | 18.00% | ~3,543 |
 | Smooth Moves | 17.00% | ~3,346 |
-| What happens in Las Venturas... | 15.00% | ~2,952 |
-| Today Was a Good Day | 15.00% | ~2,952 |
+| What happens in Las Venturas... | 15.00% | ~2,953 |
+| Today Was a Good Day | 15.00% | ~2,953 |
 | Horror of the Santa Maria | 11.00% | ~2,165 |
 | Liberty City State of Mind | 10.00% | ~1,968 |
-| The End of the Line | 8.00% | ~1,574 |
-| Original Gangster | 8.00% | ~1,574 |
+| The End of the Line | 8.00% | ~1,575 |
+| Original Gangster | 8.00% | ~1,575 |
 | With Extra Dip | 7.00% | ~1,378 |
 | Saviour | 6.00% | ~1,181 |
 | They Can’t Stop All of Us | 5.00% | ~984 |
 | Rescue a Kitten Too? | 5.00% | ~984 |
 | What are the Odds | 4.00% | ~787 |
-| Bike or Biker | 3.00% | ~590 |
-| What the City Needs | 3.00% | ~590 |
+| Bike or Biker | 3.00% | ~591 |
+| What the City Needs | 3.00% | ~591 |
 | A Legitimate Business | 2.00% | ~394 |
 | I’ll Have Two Number 9s | 2.00% | ~394 |
 | Who Needs Directions? | 2.00% | ~394 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 513)
 | ...Here we go again | 0.50% | ~98 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,681 (Ranked 157)  
+Progressed: 19,684 (Ranked 157)  
 Completed: 80 (0.41%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 80 (0.41%) (Ranked 243)
 | 2024-01-15 | 19,602 | 79 |
 | 2024-01-16 | 19,632 | 80 |
 | 2024-01-17 | 19,657 | 80 |
-| 2024-01-18 | 19,681 | 80 |
+| 2024-01-18 | 19,684 | 80 |
 ## Awards
 Max (Great Boss Battles): 691  (Ranked 198)  
 Sum: 1,125 (Ranked 268)  

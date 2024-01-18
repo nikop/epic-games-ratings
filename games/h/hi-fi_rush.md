@@ -14,7 +14,7 @@ Rating: 4.86 (Ranked 34)
 | You got this, Peppermint? | 31.00% | ~5,389 |
 | Perfect Parry | 29.00% | ~5,042 |
 | Alright, that felt AWESOME! | 28.00% | ~4,868 |
-| I play my own way! | 24.00% | ~4,172 |
+| I play my own way! | 25.00% | ~4,346 |
 | This will cost you big time | 23.00% | ~3,999 |
 | Uh, they were broken when I got here | 23.00% | ~3,999 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,651 |

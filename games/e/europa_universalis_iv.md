@@ -201,6 +201,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Market Control | 0.10% | ~501 |
 | Marshy March | 0.10% | ~501 |
 | Mary of Lotharingia | 0.10% | ~501 |
+| Mass Production | 0.10% | ~501 |
 | Master of India | 0.10% | ~501 |
 | Mehmet's Ambition | 0.10% | ~501 |
 | Mewar Never Changes | 0.10% | ~501 |
@@ -361,7 +362,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Kuban Cigars | 0.00% | ~0 |
-| Mass Production | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,170 (Ranked 42)  
+Progressed: 501,209 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
-| 2024-01-18 | 501,170 | 1 |
+| 2024-01-18 | 501,209 | 1 |
 ## Awards
 Max (Educational): 7,871  (Ranked 53)  
 Sum: 65,038 (Ranked 24)  

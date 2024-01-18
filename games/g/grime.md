@@ -34,7 +34,7 @@ Number of Ratings: 46  (23.09.2022)
 | All-Seeing | 0.40% | ~675 |
 | Breathsmith | 0.40% | ~675 |
 | Unwrap the Gift | 0.40% | ~675 |
-| Dream | 0.40% | ~673 |
+| Dream | 0.40% | ~674 |
 | Breath | 0.30% | ~506 |
 | Passage | 0.30% | ~506 |
 | Proportions | 0.30% | ~506 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,791 (Ranked 85)  
+Progressed: 168,795 (Ranked 85)  
 Completed: 461 (0.27%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 461 (0.27%) (Ranked 268)
 | 2024-01-15 | 168,384 | 461 |
 | 2024-01-16 | 168,542 | 461 |
 | 2024-01-17 | 168,696 | 461 |
-| 2024-01-18 | 168,791 | 461 |
+| 2024-01-18 | 168,795 | 461 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 433)  
 Sum: 465 (Ranked 345)  

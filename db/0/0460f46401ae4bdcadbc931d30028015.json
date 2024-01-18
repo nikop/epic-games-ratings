@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 356,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 99,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1761,7 +1761,7 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11015,
+  "EOS_Progressed": 11018,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 898,
   "EOS_NewCompleters": 0,
@@ -11921,6 +11921,11 @@
       "Time": "2024-01-18T18:04:15.5789698+00:00",
       "NumProgressed": 11015,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T19:05:43.0647954+00:00",
+      "NumProgressed": 11018,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11933,7 +11938,7 @@
       "Name": "Primetime",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_10",
@@ -11941,7 +11946,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "achievement_11",
@@ -11965,7 +11970,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 3194
+      "UsersEstimate": 3195
     },
     {
       "ID": "achievement_14",
@@ -11973,7 +11978,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 3635
+      "UsersEstimate": 3636
     },
     {
       "ID": "achievement_15",
@@ -12029,7 +12034,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6499
+      "UsersEstimate": 6501
     },
     {
       "ID": "achievement_21",
@@ -12053,7 +12058,7 @@
       "Name": "Lockdown Corner",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 330
+      "UsersEstimate": 331
     },
     {
       "ID": "achievement_5",
@@ -12061,7 +12066,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1762
+      "UsersEstimate": 1763
     },
     {
       "ID": "achievement_6",
@@ -12085,7 +12090,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 2864
+      "UsersEstimate": 2865
     },
     {
       "ID": "achievement_9",
@@ -12100,7 +12105,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11015,
+      "Progressed": 11018,
       "Completed": 0
     }
   ],
@@ -12108,8 +12113,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-18T04:02:54.8864333+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:04:15.5789692+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:05:43.064795+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:02:51.5977435+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:04:15.5790356+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:03:48.6875151+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:05:43.0648603+00:00"
 }

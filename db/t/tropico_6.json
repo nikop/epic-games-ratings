@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7190,
+  "EOS_Progressed": 7191,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -16961,6 +16961,11 @@
       "Time": "2024-01-18T17:09:10.6720574+00:00",
       "NumProgressed": 7190,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T19:04:53.1679784+00:00",
+      "NumProgressed": 7191,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17028,7 +17033,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -17044,7 +17049,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1078
+      "UsersEstimate": 1079
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -17076,7 +17081,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -17124,7 +17129,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1150
+      "UsersEstimate": 1151
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -17244,7 +17249,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2516
+      "UsersEstimate": 2517
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17291,15 +17296,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7190,
+      "Progressed": 7191,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-17T10:01:51.1088644+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:03:30.7697108+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:04:53.1679776+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-18T18:02:46.1771201+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:03:30.7698082+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:03:41.0066565+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:04:53.1681015+00:00"
 }

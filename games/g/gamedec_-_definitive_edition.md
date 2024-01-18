@@ -1,18 +1,18 @@
 # Gamedec - Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/gamedec)  
 [View Rawdata](../../db/g/gamedec_-_definitive_edition.json)  
-Rating: 4.28 (Ranked 903)  
+Rating: 4.28 (Ranked 902)  
 Number of Ratings: 33  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,873 |
-| Powergamer | 27.00% | ~69,709 |
-| Write that down | 25.00% | ~64,546 |
-| Barely scratched the surface | 25.00% | ~64,546 |
-| Guns, lots of guns | 13.00% | ~33,564 |
-| Collector | 12.00% | ~30,982 |
-| Elementary! | 9.00% | ~23,236 |
+| I will finish what you started | 29.00% | ~74,875 |
+| Powergamer | 27.00% | ~69,712 |
+| Write that down | 25.00% | ~64,548 |
+| Barely scratched the surface | 25.00% | ~64,548 |
+| Guns, lots of guns | 13.00% | ~33,565 |
+| Collector | 12.00% | ~30,983 |
+| Elementary! | 9.00% | ~23,237 |
 | Griever | 8.00% | ~20,655 |
 | Pumpkin Jack | 8.00% | ~20,655 |
 | Wake up! | 8.00% | ~20,655 |
@@ -20,13 +20,13 @@ Number of Ratings: 33  (23.09.2022)
 | Me smart | 6.00% | ~15,491 |
 | Trash compactor | 6.00% | ~15,491 |
 | Valedictorian | 6.00% | ~15,491 |
-| Good listener | 5.00% | ~12,909 |
-| BOY! | 4.00% | ~10,327 |
-| Ka-ching! | 4.00% | ~10,327 |
-| So you like to read? | 4.00% | ~10,327 |
-| Hoarder | 3.00% | ~7,745 |
-| I like to sniff around | 3.00% | ~7,745 |
-| Mind reader | 3.00% | ~7,745 |
+| Good listener | 5.00% | ~12,910 |
+| BOY! | 4.00% | ~10,328 |
+| Ka-ching! | 4.00% | ~10,328 |
+| So you like to read? | 4.00% | ~10,328 |
+| Hoarder | 3.00% | ~7,746 |
+| I like to sniff around | 3.00% | ~7,746 |
+| Mind reader | 3.00% | ~7,746 |
 | Catnip | 2.00% | ~5,164 |
 | Gentleman's classic | 2.00% | ~5,164 |
 | Is that a rift? | 2.00% | ~5,164 |
@@ -44,8 +44,8 @@ Number of Ratings: 33  (23.09.2022)
 | Take the blue pill | 1.00% | ~2,582 |
 | The power of three | 1.00% | ~2,582 |
 | Let's try another | 0.90% | ~2,324 |
-| It's blue, always blue | 0.80% | ~2,065 |
-| Home run | 0.80% | ~2,065 |
+| It's blue, always blue | 0.80% | ~2,066 |
+| Home run | 0.80% | ~2,066 |
 | I have the high ground | 0.70% | ~1,807 |
 | Enjoy these little moments | 0.50% | ~1,291 |
 | Who wouldn't love a troll? | 0.50% | ~1,291 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~516 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,183 (Ranked 70)  
+Progressed: 258,191 (Ranked 70)  
 Completed: 8 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 8 (0.00%) (Ranked 405)
 | 2024-01-15 | 257,957 | 8 |
 | 2024-01-16 | 258,031 | 8 |
 | 2024-01-17 | 258,117 | 8 |
-| 2024-01-18 | 258,183 | 8 |
+| 2024-01-18 | 258,191 | 8 |
 ## Awards
 Max (Character Customization): 99  (Ranked 384)  
 Sum: 99 (Ranked 474)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -579,7 +579,7 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6486,
+  "EOS_Progressed": 6487,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 0,
@@ -10049,6 +10049,11 @@
       "Time": "2024-01-18T14:06:46.4176101+00:00",
       "NumProgressed": 6486,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-18T19:04:46.6086437+00:00",
+      "NumProgressed": 6487,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10068,7 +10073,7 @@
       "Name": "Flawless Victory",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -10116,7 +10121,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10156,7 +10161,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4216
+      "UsersEstimate": 4217
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10172,7 +10177,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3502
+      "UsersEstimate": 3503
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10188,7 +10193,7 @@
       "Name": "Heavy Steps",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -10228,7 +10233,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1168
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -10284,7 +10289,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2205
+      "UsersEstimate": 2206
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10332,7 +10337,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10340,7 +10345,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10356,7 +10361,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4152
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10364,7 +10369,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 4994
+      "UsersEstimate": 4995
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10380,7 +10385,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10412,14 +10417,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6486,
+      "Progressed": 6487,
       "Completed": 3
     }
   ],
@@ -10427,8 +10432,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:13:29.8177942+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:04:46.6086433+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:59:49.0729512+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:13:29.8178661+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:01:47.1410629+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:04:46.6088438+00:00"
 }

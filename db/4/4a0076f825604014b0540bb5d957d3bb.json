@@ -4,7 +4,7 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 464,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 384,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -893,9 +893,9 @@
       "ID": "CgkInO_K3eIdEAIQEg",
       "SetID": "6bj96in",
       "Name": "HOARDER",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "CgkInO_K3eIdEAIQEw",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:09:57.7671065+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:11:41.3121463+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:12.6071198+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:57:58.9225395+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:09:57.7671259+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:58:59.0100981+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:11:41.3121671+00:00"
 }

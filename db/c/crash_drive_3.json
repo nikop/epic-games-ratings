@@ -3,9 +3,9 @@
   "Name": "Crash Drive 3",
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 368,
-  "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 236,
+  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewCompleters": 156,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
     "PcReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 441,
+  "EOS_Progressed": 442,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -764,6 +764,11 @@
       "Time": "2024-01-18T08:09:40.7909419+00:00",
       "NumProgressed": 441,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T19:10:43.7579474+00:00",
+      "NumProgressed": 442,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -775,7 +780,7 @@
       "Name": "Brace for impact!",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "ALL_ACHIEVEMENTS",
@@ -991,7 +996,7 @@
       "Name": "Space Crash",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "HONK_100_TIMES",
@@ -1079,7 +1084,7 @@
       "Name": "To war!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "SPIN_1080",
@@ -1111,7 +1116,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "USE_FERRY",
@@ -1214,7 +1219,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 441,
+      "Progressed": 442,
       "Completed": 2
     }
   ],
@@ -1222,8 +1227,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-18T18:09:16.3828305+00:00",
+  "LastChanged_Achievements": "2024-01-18T19:10:43.757947+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.3078107+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:59:23.1543709+00:00",
-  "LastUpdate_Achievements": "2024-01-18T18:09:16.382873+00:00"
+  "LastUpdate_Ratings": "2024-01-18T19:01:08.241077+00:00",
+  "LastUpdate_Achievements": "2024-01-18T19:10:43.7580003+00:00"
 }
