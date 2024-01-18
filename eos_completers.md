@@ -6,13 +6,13 @@
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
 | 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.06% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
+| 7 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 42.86% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 42.86% |
-| 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.49% |
-| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.24% |
-| 11 | [Volley Pals](games/v/volley_pals.md) | 31.08% |
-| 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
-| 13 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 28.57% |
+| 9 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
+| 10 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.49% |
+| 11 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.24% |
+| 12 | [Volley Pals](games/v/volley_pals.md) | 31.08% |
+| 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 27.21% |
 | 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.53% |
 | 16 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
@@ -27,7 +27,7 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.80% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.13% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.12% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 30 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.38% |
@@ -44,7 +44,7 @@
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.65% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.31% |
+| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.30% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.52% |
 | 48 | [Smelter](games/s/smelter.md) | 8.51% |
@@ -60,8 +60,8 @@
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.27% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.88% |
-| 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.87% |
+| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.87% |
+| 61 | [Sonic Origins](games/s/sonic_origins.md) | 6.87% |
 | 63 | [Scorn](games/s/scorn.md) | 6.85% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.82% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
@@ -104,8 +104,8 @@
 | 102 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.56% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
-| 105 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.30% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
+| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.29% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.22% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.16% |
@@ -127,7 +127,7 @@
 | 125 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.50% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
-| 128 | [Destiny 2](games/d/destiny_2.md) | 2.45% |
+| 128 | [Destiny 2](games/d/destiny_2.md) | 2.46% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.40% |
 | 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.33% |
