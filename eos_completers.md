@@ -27,7 +27,7 @@
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 26 | [Island Cities](games/i/island_cities.md) | 16.86% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.16% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.15% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 30 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.38% |
@@ -57,7 +57,7 @@
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
 | 57 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.41% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.30% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.29% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
 | 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.88% |
@@ -153,13 +153,13 @@
 | 151 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.52% |
 | 152 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.46% |
 | 152 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
-| 154 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.45% |
+| 154 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.44% |
 | 155 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.41% |
 | 156 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 157 | [Chorus](games/c/chorus.md) | 1.33% |
 | 157 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
 | 159 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.31% |
-| 160 | [Poosh XL](games/p/poosh_xl.md) | 1.29% |
+| 160 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
 | 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.24% |
 | 162 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 162 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
