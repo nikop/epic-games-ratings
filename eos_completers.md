@@ -10,24 +10,24 @@
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.49% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.24% |
-| 11 | [Volley Pals](games/v/volley_pals.md) | 31.08% |
-| 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
-| 13 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.87% |
-| 14 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.53% |
-| 15 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
-| 15 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
-| 15 | [Overloop](games/o/overloop.md) | 25.00% |
-| 18 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.32% |
-| 18 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
-| 20 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.59% |
-| 21 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
-| 22 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
-| 23 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
-| 24 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 25 | [Island Cities](games/i/island_cities.md) | 16.86% |
-| 26 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 26 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 16.67% |
-| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.15% |
+| 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 33.33% |
+| 12 | [Volley Pals](games/v/volley_pals.md) | 31.08% |
+| 13 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
+| 14 | [Hide and Seek](games/2/2918f07c226a49308895622ed4937eb1.md) | 26.87% |
+| 15 | [MY LITTLE PONY A Maretime Bay Adventure](games/m/my_little_pony_a_maretime_bay_adventure.md) | 26.53% |
+| 16 | [100 Worlds - Escape the room](games/5/56f53448f62340be9147fe73eb240321.md) | 25.00% |
+| 16 | [Afterglitch](games/a/afterglitch.md) | 25.00% |
+| 16 | [Overloop](games/o/overloop.md) | 25.00% |
+| 19 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.32% |
+| 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
+| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.59% |
+| 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
+| 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
+| 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
+| 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.86% |
+| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 28 | [The Riflemen](games/t/the_riflemen.md) | 16.14% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 30 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 30 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 15.38% |
@@ -76,12 +76,12 @@
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.96% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.89% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.78% |
-| 78 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.76% |
+| 77 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.76% |
+| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.76% |
 | 79 | [ZZT!](games/z/zzt!.md) | 4.75% |
 | 80 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
-| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.51% |
 | 81 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.51% |
+| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.50% |
 | 83 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.49% |
 | 84 | [JARS](games/j/jars.md) | 4.42% |
 | 85 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.41% |
@@ -163,10 +163,10 @@
 | 161 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.23% |
 | 162 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 162 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
-| 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.17% |
-| 165 | [Late Shift](games/l/late_shift.md) | 1.16% |
-| 165 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
-| 165 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.16% |
+| 164 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.16% |
+| 164 | [Late Shift](games/l/late_shift.md) | 1.16% |
+| 164 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
+| 167 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.15% |
 | 168 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
 | 169 | [Adios](games/a/adios.md) | 1.13% |
 | 169 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.13% |
