@@ -24,9 +24,9 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.70% | ~1,178 |
 | Watcher | 0.70% | ~1,181 |
 | Predator | 0.60% | ~1,012 |
-| Assimilation | 0.50% | ~843 |
+| Assimilation | 0.50% | ~844 |
 | Host | 0.50% | ~841 |
-| Celebration | 0.50% | ~843 |
+| Celebration | 0.50% | ~844 |
 | Hunt Down | 0.40% | ~675 |
 | Artisan | 0.40% | ~675 |
 | Hush | 0.40% | ~675 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,696 (Ranked 85)  
+Progressed: 168,704 (Ranked 85)  
 Completed: 461 (0.27%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,6 +303,7 @@ Completed: 461 (0.27%) (Ranked 267)
 | 2024-01-15 | 168,384 | 461 |
 | 2024-01-16 | 168,542 | 461 |
 | 2024-01-17 | 168,696 | 461 |
+| 2024-01-18 | 168,704 | 461 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 433)  
 Sum: 464 (Ranked 345)  

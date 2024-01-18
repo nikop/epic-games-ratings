@@ -9631,9 +9631,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254469,
+  "EOS_Progressed": 254476,
   "EOS_Completed": 2623,
-  "EOS_NewPlayers": 1219,
+  "EOS_NewPlayers": 1223,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40551,6 +40551,11 @@
       "Time": "2024-01-17T23:11:28.0822335+00:00",
       "NumProgressed": 254469,
       "NumCompleted": 2623
+    },
+    {
+      "Time": "2024-01-18T00:10:50.6666771+00:00",
+      "NumProgressed": 254476,
+      "NumCompleted": 2623
     }
   ],
   "TotalAchievements": 546,
@@ -40930,7 +40935,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "objective_completed_110",
@@ -41242,7 +41247,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "objective_completed_1164",
@@ -42234,7 +42239,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "objective_completed_34",
@@ -43706,15 +43711,15 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5089
+      "UsersEstimate": 5090
     },
     {
       "ID": "objective_completed_70",
       "SetID": "cc37lbc",
       "Name": "Close Escort",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 763
     },
     {
       "ID": "objective_completed_71",
@@ -44786,7 +44791,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "objective_completed_1548",
@@ -44826,7 +44831,7 @@
       "Name": "The Brains of an Illithid\u0027s Desire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "objective_completed_1347",
@@ -44929,21 +44934,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220743,
+      "Progressed": 220750,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254469,
+      "Progressed": 254476,
       "Completed": 2623
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-17T21:58:55.3738336+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:11:28.0822332+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:10:50.6666768+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:59:57.0201719+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:11:28.0849389+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:59:07.3538333+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:10:50.6689354+00:00"
 }

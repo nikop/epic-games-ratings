@@ -99,7 +99,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1566,
+  "EOS_Progressed": 1567,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 1,
@@ -4284,6 +4284,11 @@
       "Time": "2024-01-17T22:10:17.4196661+00:00",
       "NumProgressed": 1566,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-18T00:10:43.4685785+00:00",
+      "NumProgressed": 1567,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-10-23T06:09:19.5228409+00:00",
@@ -4304,7 +4309,7 @@
       "Name": "My Darkest Day",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "EV_ACH03",
@@ -4320,7 +4325,7 @@
       "Name": "No Bites",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "EV_ACH05",
@@ -4328,7 +4333,7 @@
       "Name": "Tear of Freedom",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "EV_ACH06",
@@ -4368,7 +4373,7 @@
       "Name": "Family",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "EV_ACH11",
@@ -4400,7 +4405,7 @@
       "Name": "Boom Things",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 830
+      "UsersEstimate": 831
     },
     {
       "ID": "EV_ACH15",
@@ -4408,7 +4413,7 @@
       "Name": "Better On Ice",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 1065
+      "UsersEstimate": 1066
     },
     {
       "ID": "EV_ACH16",
@@ -4416,7 +4421,7 @@
       "Name": "Krugmazing",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "EV_ACH17",
@@ -4424,7 +4429,7 @@
       "Name": "Iceborn",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "EV_ACH18",
@@ -4440,7 +4445,7 @@
       "Name": "On The Rocks",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "EV_ACH20",
@@ -4488,7 +4493,7 @@
       "Name": "Rhythm Of Willump",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "EV_ACH26",
@@ -4504,7 +4509,7 @@
       "Name": "I Broke It",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "EV_ACH28",
@@ -4520,7 +4525,7 @@
       "Name": "Cutie Poro",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "EV_ACH30",
@@ -4534,9 +4539,9 @@
       "ID": "EV_ACH31",
       "SetID": "6jeac23",
       "Name": "Feels Familiar",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1174
+      "UsersEstimate": 1160
     },
     {
       "ID": "EV_ACH32",
@@ -4552,7 +4557,7 @@
       "Name": "Notai Notes",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1049
+      "UsersEstimate": 1050
     },
     {
       "ID": "EV_ACH34",
@@ -4568,7 +4573,7 @@
       "Name": "The Fire Below the Mountain",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "EV_ACH36",
@@ -4576,7 +4581,7 @@
       "Name": "The Relentless Storm",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 720
+      "UsersEstimate": 721
     },
     {
       "ID": "EV_ACH37",
@@ -4600,7 +4605,7 @@
       "Name": "Boosted!",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "EV_ACH40",
@@ -4647,7 +4652,7 @@
     {
       "ID": "6jeac23",
       "IsBase": true,
-      "Progressed": 1566,
+      "Progressed": 1567,
       "Completed": 10
     }
   ],
@@ -4655,8 +4660,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-14T13:02:41.6102698+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:11:19.3504959+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:10:43.4685781+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:02:26.8243753+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:11:19.3505622+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:03:09.7564344+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:10:43.4686168+00:00"
 }

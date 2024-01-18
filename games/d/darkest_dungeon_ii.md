@@ -19,32 +19,32 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 6.00% | ~7,985 |
 | Rush Hour | 6.00% | ~7,985 |
 | To Grandmother's House | 6.00% | ~7,985 |
-| Ploughshares to Swords | 6.00% | ~477 |
-| Bloody Graduation | 6.00% | ~477 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,654 |
-| It Rings a Bell | 5.00% | ~6,654 |
-| Not Today! | 5.00% | ~6,654 |
-| It Happens | 5.00% | ~6,654 |
-| Merry Time | 5.00% | ~6,654 |
-| Harvest Festival | 5.00% | ~6,654 |
-| Whale | 5.00% | ~6,654 |
-| A Place to Lay Your Head | 5.00% | ~6,654 |
-| FNG | 5.00% | ~6,654 |
-| Nope | 5.00% | ~6,654 |
+| Ploughshares to Swords | 6.00% | ~478 |
+| Bloody Graduation | 6.00% | ~478 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,655 |
+| It Rings a Bell | 5.00% | ~6,655 |
+| Not Today! | 5.00% | ~6,655 |
+| It Happens | 5.00% | ~6,655 |
+| Merry Time | 5.00% | ~6,655 |
+| Harvest Festival | 5.00% | ~6,655 |
+| Whale | 5.00% | ~6,655 |
+| A Place to Lay Your Head | 5.00% | ~6,655 |
+| FNG | 5.00% | ~6,655 |
+| Nope | 5.00% | ~6,655 |
 | Friends 'Til the End | 5.00% | ~398 |
-| Resurrection | 4.00% | ~5,323 |
-| Unleash Hell | 4.00% | ~5,323 |
-| Funny Guy | 4.00% | ~5,323 |
-| Long Live the King | 4.00% | ~5,323 |
-| Wyrdly Reconstructed | 4.00% | ~5,323 |
-| Unfulfilled Desires | 4.00% | ~5,323 |
-| Dissector | 4.00% | ~5,323 |
-| Banishment | 4.00% | ~5,323 |
-| Now Stay Dead | 4.00% | ~5,323 |
-| Spelunker | 4.00% | ~5,323 |
-| Ramble On | 4.00% | ~5,323 |
-| A Clear Conscience | 4.00% | ~5,323 |
-| Unshackled | 4.00% | ~5,323 |
+| Resurrection | 4.00% | ~5,324 |
+| Unleash Hell | 4.00% | ~5,324 |
+| Funny Guy | 4.00% | ~5,324 |
+| Long Live the King | 4.00% | ~5,324 |
+| Wyrdly Reconstructed | 4.00% | ~5,324 |
+| Unfulfilled Desires | 4.00% | ~5,324 |
+| Dissector | 4.00% | ~5,324 |
+| Banishment | 4.00% | ~5,324 |
+| Now Stay Dead | 4.00% | ~5,324 |
+| Spelunker | 4.00% | ~5,324 |
+| Ramble On | 4.00% | ~5,324 |
+| A Clear Conscience | 4.00% | ~5,324 |
+| Unshackled | 4.00% | ~5,324 |
 | Boxcar Kid | 3.00% | ~3,993 |
 | Hope Rekindled | 3.00% | ~3,993 |
 | Predator | 3.00% | ~3,993 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,087 (Ranked 92)  
+Progressed: 133,091 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,6 +349,7 @@ Completed: 5 (0.00%) (Ranked 404)
 | 2024-01-15 | 132,935 | 4 |
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
+| 2024-01-18 | 133,091 | 5 |
 ## Awards
 Max (Character Customization): 8,040  (Ranked 52)  
 Sum: 21,713 (Ranked 58)  

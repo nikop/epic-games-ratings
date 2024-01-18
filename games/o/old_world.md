@@ -166,6 +166,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Event Level High | 0.20% | ~34 |
 | Run, Pheidippides, Run! | 0.20% | ~34 |
 | Nenikekamen | 0.20% | ~34 |
+| A Good Start | 0.20% | ~34 |
+| Tell the Spartans | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
 | Persia | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
@@ -227,12 +229,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Get the Hellas Out | 0.10% | ~17 |
 | Not a Chance | 0.10% | ~17 |
 | The Turning Point | 0.10% | ~17 |
-| A Good Start | 0.10% | ~17 |
 | Like a Lion | 0.10% | ~17 |
 | Still Fighting | 0.10% | ~17 |
 | They Shall Not Pass | 0.10% | ~17 |
 | THIS IS SPARTA!! | 0.10% | ~17 |
-| Tell the Spartans | 0.10% | ~17 |
 | Shape of Things to Come | 0.10% | ~17 |
 | I am the Archon Now | 0.10% | ~17 |
 | Not a Scratch | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,952 (Ranked 169)  
+Progressed: 16,953 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 360)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,6 +638,7 @@ Completed: 5 (0.03%) (Ranked 360)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
+| 2024-01-18 | 16,953 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,936 (Ranked 223)  

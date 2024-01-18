@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1039,9 +1039,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4466,
+  "EOS_Progressed": 4467,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 99,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8849,6 +8849,11 @@
       "Time": "2024-01-17T23:09:17.9090192+00:00",
       "NumProgressed": 4466,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T00:09:09.1936718+00:00",
+      "NumProgressed": 4467,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8869,7 +8874,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2501
+      "UsersEstimate": 2502
     },
     {
       "ID": "achievement_11",
@@ -8883,9 +8888,9 @@
       "ID": "achievement_12",
       "SetID": "c8fif6p",
       "Name": "Stud Finder",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1831
+      "UsersEstimate": 1787
     },
     {
       "ID": "achievement_13",
@@ -8893,7 +8898,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "achievement_14",
@@ -9005,7 +9010,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "achievement_8",
@@ -9028,7 +9033,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4466,
+      "Progressed": 4467,
       "Completed": 0
     }
   ],
@@ -9036,8 +9041,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-16T15:59:33.7498908+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:09:17.9090187+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:09:09.1936714+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:01:43.011059+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:09:17.9090856+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:00:26.7270878+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:09:09.1937177+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4197,10 +4197,16 @@
       "Rating": 4.77,
       "NumberOfAwards": 6868,
       "NumberOfAwardsMax": 2506
+    },
+    {
+      "Time": "2024-01-18T00:00:18.4885063+00:00",
+      "Rating": 4.77,
+      "NumberOfAwards": 6869,
+      "NumberOfAwardsMax": 2506
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6868,
+  "NumberOfAwards": 6869,
   "NumberOfAwardsMax": 2506,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4226,7 +4232,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 502
+      "Count": 503
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4277,9 +4283,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59553,
+  "EOS_Progressed": 59554,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 478,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19022,6 +19028,11 @@
       "Time": "2024-01-17T23:08:55.9192198+00:00",
       "NumProgressed": 59553,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2024-01-18T00:08:52.5981166+00:00",
+      "NumProgressed": 59554,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 45,
@@ -19057,7 +19068,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45856
+      "UsersEstimate": 45857
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19153,7 +19164,7 @@
       "Name": "Attack of the Clones",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 26203
+      "UsersEstimate": 26204
     },
     {
       "ID": "COMPLETE_EPISODE_3",
@@ -19161,7 +19172,7 @@
       "Name": "Revenge of the Sith",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 22630
+      "UsersEstimate": 22631
     },
     {
       "ID": "COMPLETE_EPISODE_4",
@@ -19297,7 +19308,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57171
+      "UsersEstimate": 57172
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19369,7 +19380,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 30372
+      "UsersEstimate": 30373
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -19392,15 +19403,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59553,
+      "Progressed": 59554,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
-  "LastChanged": "2024-01-17T23:01:31.549787+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:08:55.9192194+00:00",
+  "LastChanged": "2024-01-18T00:00:18.4885059+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:08:52.5981163+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.2426522+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:01:31.5497876+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:08:55.919353+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:00:18.4885066+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:08:52.5982107+00:00"
 }

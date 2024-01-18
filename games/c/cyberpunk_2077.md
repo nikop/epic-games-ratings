@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Right Back At Ya | 0.30% | ~3,161 |
+| Right Back At Ya | 0.30% | ~3,162 |
 | Bushido and Chill | 0.20% | ~2,108 |
 | Full Body Conversion | 0.20% | ~2,108 |
 | Gun Fu | 0.20% | ~2,108 |
@@ -21,6 +21,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.20% | ~2,108 |
 | The World | 0.20% | ~2,108 |
 | True Soldier | 0.20% | ~2,108 |
+| Judy vs Night City | 0.20% | ~2,108 |
 | Legend of The Afterlife | 0.20% | ~2,108 |
 | All the President's Men | 0.20% | ~365 |
 | Arachnophobia | 0.20% | ~365 |
@@ -49,7 +50,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.10% | ~1,054 |
 | True Warrior | 0.10% | ~1,054 |
 | Two Heads, One Bullet | 0.10% | ~1,054 |
-| Judy vs Night City | 0.10% | ~1,054 |
 | V for Vendetta | 0.10% | ~1,054 |
 | It's Elementary | 0.10% | ~1,054 |
 | The APB is Not Enough | 0.10% | ~182 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,053,821 (Ranked 17)  
+Progressed: 1,053,836 (Ranked 17)  
 Completed: 3,117 (0.30%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,6 +347,7 @@ Completed: 3,117 (0.30%) (Ranked 262)
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
+| 2024-01-18 | 1,053,836 | 3,117 |
 ## Awards
 Max (Character Customization): 141,662  (Ranked 8)  
 Sum: 501,784 (Ranked 8)  

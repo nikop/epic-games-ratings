@@ -2,7 +2,7 @@
   "ID": "aeac94c7a11048758064b82f8f8d20ed",
   "Name": "Mount \u0026 Blade II: Bannerlord",
   "ProductSlug": "mount-and-blade-2",
-  "Ranking_Rating": 164,
+  "Ranking_Rating": 165,
   "Ranking_Popularity": 50,
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 103,
@@ -10848,9 +10848,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 95878,
+  "EOS_Progressed": 95879,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2124,
+  "EOS_NewPlayers": 2111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40078,6 +40078,11 @@
       "Time": "2024-01-17T23:11:19.6448854+00:00",
       "NumProgressed": 95878,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T00:10:43.7270413+00:00",
+      "NumProgressed": 95879,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40249,7 +40254,7 @@
       "Name": "Horde breaker",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 20134
+      "UsersEstimate": 20135
     },
     {
       "ID": "I can do it",
@@ -40297,7 +40302,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6711
+      "UsersEstimate": 6712
     },
     {
       "ID": "Lance-a-lot",
@@ -40313,7 +40318,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33557
+      "UsersEstimate": 33558
     },
     {
       "ID": "Lawbringer",
@@ -40465,7 +40470,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 28763
+      "UsersEstimate": 28764
     },
     {
       "ID": "Undercover",
@@ -40496,15 +40501,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 95878,
+      "Progressed": 95879,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-17T18:59:47.0741296+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:11:19.6448851+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:10:43.7270409+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:00:58.0602712+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:11:19.6451248+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:59:53.2248834+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:10:43.7272032+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 963,
+  "Ranking_Rating": 964,
   "Ranking_Popularity": 353,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 270,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1428,9 +1428,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33694,
+  "EOS_Progressed": 33696,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 607,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -30813,6 +30813,11 @@
       "Time": "2024-01-17T23:10:58.1561143+00:00",
       "NumProgressed": 33694,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-18T00:10:26.8800756+00:00",
+      "NumProgressed": 33696,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -30920,7 +30925,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3032
+      "UsersEstimate": 3033
     },
     {
       "ID": "1028",
@@ -30984,7 +30989,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4043
+      "UsersEstimate": 4044
     },
     {
       "ID": "1036",
@@ -30999,15 +31004,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33694,
+      "Progressed": 33696,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-17T22:58:28.4065006+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:10:58.156114+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:10:26.8800753+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:58:28.4065011+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:10:58.1563604+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:58:02.0593701+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:10:26.8802157+00:00"
 }

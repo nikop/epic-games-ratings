@@ -4,7 +4,7 @@
   "ProductSlug": "disney-dreamlight-valley",
   "Ranking_Rating": 134,
   "Ranking_Popularity": 151,
-  "Ranking_PopularitySum": 112,
+  "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 127,
   "Ranking_EOS_NewPlayers": 183,
@@ -6009,7 +6009,7 @@
       "Count": 558
     }
   ],
-  "EOS_Progressed": 14198,
+  "EOS_Progressed": 14199,
   "EOS_Completed": 352,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 4,
@@ -25569,6 +25569,11 @@
       "Time": "2024-01-17T23:10:03.2494716+00:00",
       "NumProgressed": 14198,
       "NumCompleted": 352
+    },
+    {
+      "Time": "2024-01-18T00:09:44.8657913+00:00",
+      "NumProgressed": 14199,
+      "NumCompleted": 352
     }
   ],
   "TotalAchievements": 15,
@@ -25588,7 +25593,7 @@
       "Name": "Banker",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5395
+      "UsersEstimate": 5396
     },
     {
       "ID": "Bestest_Friend",
@@ -25596,7 +25601,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6247
+      "UsersEstimate": 6248
     },
     {
       "ID": "Chef_Cook",
@@ -25620,7 +25625,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7099
+      "UsersEstimate": 7100
     },
     {
       "ID": "Duty_Bound",
@@ -25636,7 +25641,7 @@
       "Name": "Gardener",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4259
+      "UsersEstimate": 4260
     },
     {
       "ID": "Generous",
@@ -25676,7 +25681,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 7099
+      "UsersEstimate": 7100
     },
     {
       "ID": "Thorn_Cleaner",
@@ -25699,7 +25704,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14198,
+      "Progressed": 14199,
       "Completed": 352
     }
   ],
@@ -25707,8 +25712,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-17T14:01:09.2353544+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:10:03.2494709+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:09:44.8657909+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:35.1172032+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:01:36.1449285+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:10:03.2495883+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:00:21.7757706+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:09:44.8658934+00:00"
 }

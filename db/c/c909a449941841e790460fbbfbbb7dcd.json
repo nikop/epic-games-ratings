@@ -1175,9 +1175,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -1302,8 +1302,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:06:12.8393908+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:05:28.1681487+00:00",
   "LastUpdate_AppInfo": "2024-01-17T01:46:10.8318489+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:00:12.6903929+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:06:12.8394128+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:59:18.806054+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:05:28.1681691+00:00"
 }

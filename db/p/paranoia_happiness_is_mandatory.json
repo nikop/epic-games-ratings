@@ -4,7 +4,7 @@
   "ProductSlug": "paranoia",
   "Ranking_EOS_Progress": 838,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-12-21T09:00:00+00:00",
@@ -32,6 +32,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-22T01:45:34.2547772+00:00",
   "LastUpdate_AppInfo": "2024-01-11T11:56:53.8117413+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:00:42.7135633+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:05:24.9521934+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:59:41.5629562+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:04:51.5075634+00:00"
 }

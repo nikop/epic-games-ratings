@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 359,
+  "Ranking_EOS_NewPlayers": 348,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 535,
+  "EOS_Progressed": 536,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1577,6 +1577,11 @@
       "Time": "2024-01-17T03:08:58.1357372+00:00",
       "NumProgressed": 535,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-18T00:09:11.3962787+00:00",
+      "NumProgressed": 536,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1645,7 +1650,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1661,7 +1666,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1677,7 +1682,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1685,7 +1690,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1693,15 +1698,15 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 251
+      "UsersEstimate": 247
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1725,7 +1730,7 @@
       "Name": "Angler\u0027s Club",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "KODAMA_REACH_NUM",
@@ -1741,7 +1746,7 @@
       "Name": "The Beginning",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1765,7 +1770,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1781,7 +1786,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1853,7 +1858,7 @@
       "Name": "Hypersonic Hedgehog",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1901,21 +1906,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 535,
+      "Progressed": 536,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:09:20.7879236+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:09:11.3962784+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:58:46.8787458+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:09:20.7879645+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:58:15.4446059+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:09:11.3963094+00:00"
 }

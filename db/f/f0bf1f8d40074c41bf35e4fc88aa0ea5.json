@@ -4,7 +4,7 @@
   "ProductSlug": "argol-kronoss-castle-84d829",
   "Ranking_EOS_Progress": 643,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-12-26T23:00:00+00:00",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:06:15.6863981+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:05:30.2856388+00:00",
   "LastUpdate_AppInfo": "2024-01-16T23:56:55.5726001+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:57:29.3917604+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:06:15.6864065+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:57:18.9848249+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:05:30.2856524+00:00"
 }

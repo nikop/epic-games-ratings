@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1218,
+  "EOS_Progressed": 1219,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -4212,6 +4212,11 @@
       "Time": "2024-01-17T23:10:25.4703726+00:00",
       "NumProgressed": 1218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T00:10:01.2851453+00:00",
+      "NumProgressed": 1219,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4368,7 +4373,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 499
+      "UsersEstimate": 500
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4552,7 +4557,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "WielderLevel2",
@@ -4568,7 +4573,7 @@
       "Name": "Master",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "WielderLevel4",
@@ -4655,15 +4660,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1218,
+      "Progressed": 1219,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:10:25.4703723+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:10:01.2851449+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:03:16.7429362+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:10:25.4704482+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:03:16.3763656+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:10:01.2852095+00:00"
 }

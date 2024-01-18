@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 257,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -492,9 +492,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 631,
+  "EOS_Progressed": 632,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -2362,6 +2362,11 @@
       "Time": "2024-01-17T23:06:39.1244124+00:00",
       "NumProgressed": 631,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T00:05:48.2848129+00:00",
+      "NumProgressed": 632,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2398,7 +2403,7 @@
       "Name": "Unshakable Fortitude",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Collect_Artifact_Angel_50",
@@ -2430,7 +2435,7 @@
       "Name": "Increased Capacity",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -2446,7 +2451,7 @@
       "Name": "Increased Vigor",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2462,15 +2467,15 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "Collect_Hollow_Force",
       "SetID": "7a5k76n",
       "Name": "I Wanna Rock",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 221
+      "UsersEstimate": 228
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2494,7 +2499,7 @@
       "Name": "Soul Harvester",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -2502,7 +2507,7 @@
       "Name": "Soul Reaper",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Collect_PickUp_500",
@@ -2526,7 +2531,7 @@
       "Name": "Salvation",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Craft_Enhancement_Balanced_1",
@@ -2534,7 +2539,7 @@
       "Name": "Can you restore the Balance?",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -2556,7 +2561,7 @@
       "ID": "Crucible_Kill_WickedK",
       "SetID": "7a5k76n",
       "Name": "Quite Proper",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
       "UsersEstimate": 6
     },
@@ -2678,7 +2683,7 @@
       "Name": "Demon Meddler",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2700,7 +2705,7 @@
       "ID": "Kill_Enemies_HavocForm_666",
       "SetID": "7a5k76n",
       "Name": "Beast Mode",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 6
     },
@@ -2726,7 +2731,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2742,7 +2747,7 @@
       "Name": "Delusions of Grandeur",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 227
+      "UsersEstimate": 228
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -2756,9 +2761,9 @@
       "ID": "Kill_Sin_Sloth",
       "SetID": "7a5k76n",
       "Name": "Throne Potato",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 265
+      "UsersEstimate": 259
     },
     {
       "ID": "Kill_Sin_Wrath",
@@ -2782,7 +2787,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "Save_Humans_10",
@@ -2790,7 +2795,7 @@
       "Name": "Crowd Source",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Save_Humans_15",
@@ -2822,7 +2827,7 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -2830,7 +2835,7 @@
       "Name": "First of many\u2026",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -2838,7 +2843,7 @@
       "Name": "25 to Life",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2846,7 +2851,7 @@
       "Name": "Big Spender",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -2885,15 +2890,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 631,
+      "Progressed": 632,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:06:39.124412+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:05:48.2848127+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:58:40.4173978+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:06:39.1244917+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:58:10.5959644+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:05:48.2848683+00:00"
 }

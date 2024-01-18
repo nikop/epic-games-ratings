@@ -2322,9 +2322,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16952,
+  "EOS_Progressed": 16953,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20357,6 +20357,11 @@
       "Time": "2024-01-17T23:11:27.0435595+00:00",
       "NumProgressed": 16952,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T00:10:49.966659+00:00",
+      "NumProgressed": 16953,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21382,9 +21387,9 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_10",
       "SetID": "9201eeb",
       "Name": "A Good Start",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_20",
@@ -21422,9 +21427,9 @@
       "ID": "ACHIEVEMENT_GREECE2_THERMOPYLAE_WIN",
       "SetID": "9201eeb",
       "Name": "Tell the Spartans",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_GREECE3_ALEXANDER_KILL",
@@ -23231,21 +23236,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16952,
+      "Progressed": 16953,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16952,
+      "Progressed": 16953,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-17T20:02:50.9221949+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:11:27.043559+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:10:49.9666585+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:03:17.0109463+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:11:27.0445626+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:03:16.5832172+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:10:49.9675962+00:00"
 }

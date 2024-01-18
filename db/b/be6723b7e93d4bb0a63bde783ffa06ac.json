@@ -4,7 +4,7 @@
   "ProductSlug": "strike-force-kitty-4603e5",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 207,
+  "EOS_Progressed": 208,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -979,6 +979,11 @@
       "Time": "2024-01-16T00:04:17.5882024+00:00",
       "NumProgressed": 207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T00:05:48.2948208+00:00",
+      "NumProgressed": 208,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-23T15:03:22.1103385+00:00",
@@ -1119,7 +1124,7 @@
       "Name": "Researcher",
       "Percentage": 47,
       "XP": 35,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ach25",
@@ -1141,17 +1146,17 @@
       "ID": "ach27",
       "SetID": "baneh2j",
       "Name": "Preparation",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 35,
-      "UsersEstimate": 161
+      "UsersEstimate": 160
     },
     {
       "ID": "ach28",
       "SetID": "baneh2j",
       "Name": "Start",
-      "Percentage": 89,
+      "Percentage": 88,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 183
     },
     {
       "ID": "ach29",
@@ -1238,14 +1243,14 @@
     {
       "ID": "baneh2j",
       "IsBase": true,
-      "Progressed": 207,
+      "Progressed": 208,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-28T07:00:19.541662+00:00",
   "FirstSeenAchievements": "2023-09-06T00:03:02.6926977+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:06:39.2651755+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:05:48.2948206+00:00",
   "LastUpdate_AppInfo": "2024-01-17T11:57:04.308567+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:03:20.4708334+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:06:39.2652144+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:03:19.0615239+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:05:48.2948406+00:00"
 }

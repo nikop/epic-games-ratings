@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adapt and Overcome | 99.00% | ~123,006 |
-| Foot Soldier | 85.00% | ~105,611 |
-| Making Dunn Proud | 83.00% | ~103,126 |
-| Good Company | 82.00% | ~101,883 |
-| Showoff | 80.00% | ~99,398 |
+| Adapt and Overcome | 99.00% | ~123,007 |
+| Foot Soldier | 85.00% | ~105,612 |
+| Making Dunn Proud | 83.00% | ~103,127 |
+| Good Company | 82.00% | ~101,884 |
+| Showoff | 80.00% | ~99,399 |
 | Squad Wiper | 70.00% | ~86,974 |
-| Luck of the Irish | 69.00% | ~85,731 |
-| Burnout | 65.00% | ~80,761 |
-| War machine | 61.00% | ~75,791 |
-| Deadshot | 61.00% | ~75,791 |
-| Thank you, Santa | 55.00% | ~68,336 |
-| No-one gets left behind | 48.00% | ~59,639 |
-| Dead in their tracks! | 48.00% | ~59,639 |
-| The Winner Takes It All | 48.00% | ~59,639 |
-| Going Places | 46.00% | ~57,154 |
+| Luck of the Irish | 69.00% | ~85,732 |
+| Burnout | 65.00% | ~80,762 |
+| War machine | 61.00% | ~75,792 |
+| Deadshot | 61.00% | ~75,792 |
+| Thank you, Santa | 55.00% | ~68,337 |
+| No-one gets left behind | 48.00% | ~59,640 |
+| Dead in their tracks! | 48.00% | ~59,640 |
+| The Winner Takes It All | 48.00% | ~59,640 |
+| Going Places | 46.00% | ~57,155 |
 | Wrecking Crew | 41.00% | ~50,942 |
-| I'm Five by Five, B | 32.00% | ~39,759 |
+| I'm Five by Five, B | 32.00% | ~39,760 |
 | Command and Conquest | 29.00% | ~36,032 |
 | A bird?  A plane? | 16.00% | ~19,880 |
 | One Careful Owner | 15.00% | ~18,637 |
@@ -39,7 +39,7 @@
 | Pack Rat | 0.30% | ~373 |
 | Escape Artist | 0.10% | ~124 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,248 (Ranked 93)  
+Progressed: 124,249 (Ranked 93)  
 Completed: 7 (0.01%) (Ranked 378)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -163,6 +163,7 @@ Completed: 7 (0.01%) (Ranked 378)
 | 2024-01-15 | 123,652 | 7 |
 | 2024-01-16 | 123,959 | 7 |
 | 2024-01-17 | 124,248 | 7 |
+| 2024-01-18 | 124,249 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

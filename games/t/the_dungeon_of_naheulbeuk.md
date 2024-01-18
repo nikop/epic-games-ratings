@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,965 |
-| Alt+F4 | 11.00% | ~27,341 |
+| Sowwy! | 37.00% | ~91,968 |
+| Alt+F4 | 11.00% | ~27,342 |
 | Where's that freaking Dwarf? | 9.00% | ~22,370 |
-| Déjà vu | 8.00% | ~19,884 |
-| Sock! SOCK! | 6.00% | ~14,913 |
-| Speedrun | 6.00% | ~14,913 |
+| Déjà vu | 8.00% | ~19,885 |
+| Sock! SOCK! | 6.00% | ~14,914 |
+| Speedrun | 6.00% | ~14,914 |
 | A beer, two curses, three companions | 5.00% | ~12,428 |
 | GG EZ | 5.00% | ~12,428 |
 | DM intervention | 5.00% | ~12,428 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,553 (Ranked 73)  
+Progressed: 248,561 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,9 +327,10 @@ Completed: 9 (0.00%) (Ranked 404)
 | 2024-01-15 | 248,300 | 9 |
 | 2024-01-16 | 248,418 | 9 |
 | 2024-01-17 | 248,553 | 9 |
+| 2024-01-18 | 248,561 | 9 |
 ## Awards
 Max (Character Customization): 272  (Ranked 278)  
-Sum: 572 (Ranked 331)  
+Sum: 574 (Ranked 331)  
 Diff (max vs sum): -53  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +341,7 @@ Diff (max vs sum): -53
 | This game has Quickly Understood Controls | 36 |
 | This game has Amazing Storytelling | 34 |
 | This game has Diverse Characters | 33 |
-| This game has Amazing Characters | 30 |
+| This game has Amazing Characters | 32 |
 | This game is Extremely Fun | 30 |
 | This game has Playful Visuals | 21 |
 ## Ratings History
@@ -565,3 +566,4 @@ Diff (max vs sum): -53
 | 2024-01-13 | 4.58 | - | 268 | 567 |
 | 2024-01-15 | 4.58 | - | 270 | 570 |
 | 2024-01-16 | 4.58 | - | 272 | 572 |
+| 2024-01-18 | 4.58 | - | 272 | 574 |

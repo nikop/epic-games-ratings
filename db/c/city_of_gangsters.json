@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 395,
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 404,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 88,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1066,9 +1066,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 362581,
+  "EOS_Progressed": 362582,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1127,
+  "EOS_NewPlayers": 1121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32221,6 +32221,11 @@
       "Time": "2024-01-17T23:07:11.1248052+00:00",
       "NumProgressed": 362581,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-18T00:06:12.8581732+00:00",
+      "NumProgressed": 362582,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -32320,7 +32325,7 @@
       "Name": "Core Corps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29006
+      "UsersEstimate": 29007
     },
     {
       "ID": "ach013",
@@ -32368,7 +32373,7 @@
       "Name": "Sizeable Stash",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 29006
+      "UsersEstimate": 29007
     },
     {
       "ID": "ach019",
@@ -32440,7 +32445,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 166787
+      "UsersEstimate": 166788
     },
     {
       "ID": "ach028",
@@ -32871,7 +32876,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 362581,
+      "Progressed": 362582,
       "Completed": 7
     }
   ],
@@ -32879,8 +32884,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-15T21:00:19.3263555+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:07:11.1248049+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:06:12.8581727+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:21.5232848+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:02:09.3377654+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:07:11.1250701+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:02:56.7408573+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:06:12.858375+00:00"
 }

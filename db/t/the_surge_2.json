@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2599,
+  "EOS_Progressed": 2600,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4801,6 +4801,11 @@
       "Time": "2024-01-17T17:06:09.8340757+00:00",
       "NumProgressed": 2599,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-18T00:05:44.1676751+00:00",
+      "NumProgressed": 2600,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4820,7 +4825,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ACHV_03",
@@ -5012,7 +5017,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "ACHV_27",
@@ -5116,7 +5121,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "ACHV_40",
@@ -5267,7 +5272,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2599,
+      "Progressed": 2600,
       "Completed": 13
     }
   ],
@@ -5275,8 +5280,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:06:33.6907208+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:05:44.1676746+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.3713337+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:03:32.3789576+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:06:33.6908168+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:03:27.1797353+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:05:44.1677409+00:00"
 }

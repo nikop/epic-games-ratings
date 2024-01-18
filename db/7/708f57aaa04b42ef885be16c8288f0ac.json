@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 290,
-  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewPlayers": 131,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -449,9 +449,9 @@
       "Count": 50
     }
   ],
-  "EOS_Progressed": 15013,
+  "EOS_Progressed": 15014,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 477,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10729,6 +10729,11 @@
       "Time": "2024-01-17T22:10:11.5033535+00:00",
       "NumProgressed": 15013,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T00:10:37.3653156+00:00",
+      "NumProgressed": 15014,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10749,7 +10754,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6155
+      "UsersEstimate": 6156
     },
     {
       "ID": "BeLikeWater",
@@ -10813,7 +10818,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8257
+      "UsersEstimate": 8258
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10933,7 +10938,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "TheQuarterback",
@@ -11012,7 +11017,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15013,
+      "Progressed": 15014,
       "Completed": 27
     }
   ],
@@ -11020,8 +11025,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-17T13:06:02.0822336+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:11:11.7895631+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:10:37.3653153+00:00",
   "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:02:20.9707546+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:11:11.7896465+00:00"
+  "LastUpdate_Ratings": "2024-01-18T00:03:05.0245411+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:10:37.3653738+00:00"
 }

@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 157,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -932,9 +932,9 @@
       "ID": "A_WASP",
       "SetID": "324h56e",
       "Name": "Splat",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "A_WORKER",
@@ -963,8 +963,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:08:15.3697704+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:07:01.9395883+00:00",
   "LastUpdate_AppInfo": "2024-01-11T05:57:08.8788926+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:00:46.7735399+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:08:15.3698133+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:59:44.7982708+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:07:01.9396318+00:00"
 }

@@ -6,53 +6,53 @@ Number of Ratings: 1,047  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Longrunner | 40.00% | ~465,254 |
-| Sword Runner | 24.00% | ~279,152 |
-| Running out of breath | 19.00% | ~220,995 |
-| Wallrunner | 18.00% | ~209,364 |
-| I call it luck | 14.00% | ~162,839 |
-| Out of order | 12.00% | ~139,576 |
-| Homerunner | 11.00% | ~127,945 |
-| Back to hell | 9.00% | ~104,682 |
-| Running Wild | 9.00% | ~104,682 |
-| Where are my Keys? | 9.00% | ~104,682 |
-| Sword to a gunfight | 8.00% | ~93,051 |
-| Perfection | 7.00% | ~81,419 |
-| Artificial selection | 6.00% | ~69,788 |
-| Finish line | 6.00% | ~69,788 |
-| Control freak | 6.00% | ~69,788 |
-| Upgrades not mandatory | 6.00% | ~69,788 |
-| Why not both | 6.00% | ~69,788 |
-| Unstoppable force | 5.00% | ~58,157 |
-| Dead in the air | 4.00% | ~46,525 |
-| Wave of mutilation | 4.00% | ~46,525 |
-| Can't Run Can't Hide | 3.00% | ~34,894 |
-| Improvise, adapt, overrun | 2.00% | ~23,263 |
-| Pre-empative strike | 2.00% | ~23,263 |
-| R is for Running | 2.00% | ~23,263 |
-| Strike | 2.00% | ~23,263 |
-| Triple A | 2.00% | ~23,263 |
-| More than human | 1.00% | ~11,631 |
-| Push it to the limit | 0.80% | ~9,305 |
-| Fine addition | 0.60% | ~6,979 |
-| About Adam | 0.40% | ~4,653 |
-| Hit me if you can | 0.20% | ~2,326 |
-| Junkrunner | 0.20% | ~2,326 |
-| One man's trash | 0.20% | ~2,326 |
-| One Of Those Days | 0.20% | ~2,326 |
-| Where He Stood | 0.20% | ~2,326 |
-| A Grade | 0.10% | ~1,163 |
-| Everyone Needs A Hobby | 0.10% | ~1,163 |
-| GR Project Complete | 0.10% | ~1,163 |
-| Just A Man | 0.10% | ~1,163 |
-| Legacy Drivers | 0.10% | ~1,163 |
-| Obedient Machine | 0.10% | ~1,163 |
-| Scrapped | 0.10% | ~1,163 |
-| Sticks And Stones | 0.10% | ~1,163 |
-| Strafing Run | 0.10% | ~1,163 |
-| Up Close And Personal | 0.10% | ~1,163 |
+| Longrunner | 40.00% | ~465,404 |
+| Sword Runner | 24.00% | ~279,243 |
+| Running out of breath | 19.00% | ~221,067 |
+| Wallrunner | 18.00% | ~209,432 |
+| I call it luck | 14.00% | ~162,892 |
+| Out of order | 12.00% | ~139,621 |
+| Homerunner | 11.00% | ~127,986 |
+| Back to hell | 9.00% | ~104,716 |
+| Running Wild | 9.00% | ~104,716 |
+| Where are my Keys? | 9.00% | ~104,716 |
+| Sword to a gunfight | 8.00% | ~93,081 |
+| Perfection | 7.00% | ~81,446 |
+| Artificial selection | 6.00% | ~69,811 |
+| Finish line | 6.00% | ~69,811 |
+| Control freak | 6.00% | ~69,811 |
+| Upgrades not mandatory | 6.00% | ~69,811 |
+| Why not both | 6.00% | ~69,811 |
+| Unstoppable force | 5.00% | ~58,176 |
+| Dead in the air | 4.00% | ~46,540 |
+| Wave of mutilation | 4.00% | ~46,540 |
+| Can't Run Can't Hide | 3.00% | ~34,905 |
+| Improvise, adapt, overrun | 2.00% | ~23,270 |
+| Pre-empative strike | 2.00% | ~23,270 |
+| R is for Running | 2.00% | ~23,270 |
+| Strike | 2.00% | ~23,270 |
+| Triple A | 2.00% | ~23,270 |
+| More than human | 1.00% | ~11,635 |
+| Push it to the limit | 0.80% | ~9,308 |
+| Fine addition | 0.60% | ~6,981 |
+| About Adam | 0.40% | ~4,654 |
+| Hit me if you can | 0.20% | ~2,327 |
+| Junkrunner | 0.20% | ~2,327 |
+| One man's trash | 0.20% | ~2,327 |
+| One Of Those Days | 0.20% | ~2,327 |
+| Where He Stood | 0.20% | ~2,327 |
+| A Grade | 0.10% | ~1,164 |
+| Everyone Needs A Hobby | 0.10% | ~1,164 |
+| GR Project Complete | 0.10% | ~1,164 |
+| Just A Man | 0.10% | ~1,164 |
+| Legacy Drivers | 0.10% | ~1,164 |
+| Obedient Machine | 0.10% | ~1,164 |
+| Scrapped | 0.10% | ~1,164 |
+| Sticks And Stones | 0.10% | ~1,164 |
+| Strafing Run | 0.10% | ~1,164 |
+| Up Close And Personal | 0.10% | ~1,164 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,163,134 (Ranked 14)  
+Progressed: 1,163,511 (Ranked 14)  
 Completed: 231 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,6 +325,7 @@ Completed: 231 (0.02%) (Ranked 368)
 | 2024-01-15 | 1,144,294 | 224 |
 | 2024-01-16 | 1,154,083 | 228 |
 | 2024-01-17 | 1,163,134 | 231 |
+| 2024-01-18 | 1,163,511 | 231 |
 ## Awards
 Max (Great Boss Battles): 1,524  (Ranked 139)  
 Sum: 1,866 (Ranked 225)  

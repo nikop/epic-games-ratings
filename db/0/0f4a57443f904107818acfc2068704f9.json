@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 158,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -3537,9 +3537,9 @@
       "ID": "CompleteChapter12",
       "SetID": "52ail55",
       "Name": "Grumblin\u0027 Bellies",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 157
+      "UsersEstimate": 170
     },
     {
       "ID": "CompleteChapter13",
@@ -3760,8 +3760,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:05:55.3079424+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:05:14.9441329+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:08.1219888+00:00",
-  "LastUpdate_Ratings": "2024-01-17T23:01:05.9065019+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:05:55.3080035+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:59:59.0840891+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:05:14.9441705+00:00"
 }

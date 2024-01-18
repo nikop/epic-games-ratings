@@ -5,27 +5,27 @@ Rating: 4.64 (Ranked 345)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,706 |
-| On the Top Step | 83.00% | ~15,237 |
-| Setting up for Success | 70.00% | ~12,851 |
-| Team Orders | 68.00% | ~12,483 |
-| Engineer | 45.00% | ~8,261 |
-| Familiar Faces | 42.00% | ~7,710 |
-| Going the Extra Mile | 36.00% | ~6,609 |
-| Sharing the Love | 33.00% | ~6,058 |
+| Getting on the Step | 91.00% | ~16,708 |
+| On the Top Step | 83.00% | ~15,239 |
+| Setting up for Success | 70.00% | ~12,852 |
+| Team Orders | 68.00% | ~12,485 |
+| Engineer | 45.00% | ~8,262 |
+| Familiar Faces | 42.00% | ~7,711 |
+| Going the Extra Mile | 36.00% | ~6,610 |
+| Sharing the Love | 33.00% | ~6,059 |
 | Hitting a Season | 27.00% | ~4,957 |
 | A Dozen Pieces | 25.00% | ~4,590 |
 | Making History | 25.00% | ~4,590 |
-| Network Success | 23.00% | ~4,222 |
-| Challenge Yourself | 23.00% | ~4,222 |
+| Network Success | 23.00% | ~4,223 |
+| Challenge Yourself | 23.00% | ~4,223 |
 | Writing a new Chapter | 19.00% | ~3,488 |
-| Spring Cleaning | 18.00% | ~3,304 |
+| Spring Cleaning | 18.00% | ~3,305 |
 | Reduce | 15.00% | ~2,754 |
 | Ups and Downs | 15.00% | ~2,754 |
 | Crucial Combo | 13.00% | ~2,387 |
 | Proving Them Wrong | 13.00% | ~2,387 |
 | Reuse | 12.00% | ~2,203 |
-| Gathering Dust | 11.00% | ~2,019 |
+| Gathering Dust | 11.00% | ~2,020 |
 | Eagle Eye | 10.00% | ~1,836 |
 | All in a Weekend's Work | 10.00% | ~1,836 |
 | Friendly Competition | 10.00% | ~1,836 |
@@ -37,7 +37,7 @@ Rating: 4.64 (Ranked 345)
 | Spinning Around | 9.00% | ~1,652 |
 | Undisputed Winner | 7.00% | ~1,285 |
 | Recycle | 7.00% | ~1,285 |
-| Tinkerer | 6.00% | ~1,101 |
+| Tinkerer | 6.00% | ~1,102 |
 | For all Those Back at the Factory | 5.00% | ~918 |
 | Living up to Expectations | 4.00% | ~734 |
 | Smooth Operator | 4.00% | ~734 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 345)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,358 (Ranked 163)  
+Progressed: 18,360 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 404)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,16 +182,17 @@ Completed: 0 (0.00%) (Ranked 404)
 | 2024-01-15 | 18,246 | 0 |
 | 2024-01-16 | 18,312 | 0 |
 | 2024-01-17 | 18,358 | 0 |
+| 2024-01-18 | 18,360 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
-Sum: 457 (Ranked 348)  
+Sum: 458 (Ranked 348)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 68 |
 | This game has a Competitive Community | 54 |
+| This game is Highly Recommended | 49 |
 | This game has Amazing Characters | 49 |
-| This game is Highly Recommended | 48 |
 | This game is Extremely Fun | 45 |
 | This game has Quickly Understood Controls | 41 |
 | This game has Challenging Combat | 40 |
@@ -329,4 +330,4 @@ Diff (max vs sum): 75
 | 2024-01-14 | 4.64 | 65 | 438 |
 | 2024-01-15 | 4.64 | 67 | 444 |
 | 2024-01-16 | 4.64 | 68 | 448 |
-| 2024-01-17 | 4.64 | 68 | 457 |
+| 2024-01-17 | 4.64 | 68 | 458 |

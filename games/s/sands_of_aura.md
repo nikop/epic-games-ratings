@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting Sail | 89.00% | ~126 |
+| Setting Sail | 90.00% | ~128 |
 | A Small Thirsty Thing | 13.00% | ~18 |
 | Dousing a Venerable Flame | 13.00% | ~18 |
 | Advanced Armaments | 13.00% | ~18 |
@@ -25,8 +25,8 @@
 | Missing Melodies | 2.00% | ~3 |
 | Transformative Nature | 2.00% | ~3 |
 | Pommelsmith | 1.00% | ~1 |
+| Redeemer | 1.00% | ~1 |
 | Smotherly Love | 1.00% | ~1 |
-| Redeemer | 0.70% | ~1 |
 | Champion of Starspire | 0.70% | ~1 |
 | No Salvation | 0.00% | ~0 |
 | Unimpaired | 0.00% | ~0 |

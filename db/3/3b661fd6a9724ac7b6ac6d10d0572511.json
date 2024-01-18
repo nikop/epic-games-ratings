@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 6,
   "Ranking_EOS_Completed": 355,
   "Ranking_EOS_NewPlayers": 25,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2023-06-08T15:00:00+00:00",
     "PcReleaseDate": "2013-08-12T22:00:00+00:00",
@@ -9511,9 +9511,9 @@
       "Count": 1574
     }
   ],
-  "EOS_Progressed": 1846993,
+  "EOS_Progressed": 1847016,
   "EOS_Completed": 744,
-  "EOS_NewPlayers": 6626,
+  "EOS_NewPlayers": 6630,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -35866,6 +35866,11 @@
       "Time": "2024-01-17T23:11:29.8688125+00:00",
       "NumProgressed": 1846993,
       "NumCompleted": 744
+    },
+    {
+      "Time": "2024-01-18T00:10:52.7256007+00:00",
+      "NumProgressed": 1847016,
+      "NumCompleted": 744
     }
   ],
   "TotalAchievements": 1328,
@@ -35933,7 +35938,7 @@
       "Name": "The Collector",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129290
+      "UsersEstimate": 129291
     },
     {
       "ID": "armed_and_dangerous",
@@ -35949,7 +35954,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110820
+      "UsersEstimate": 110821
     },
     {
       "ID": "armored_1",
@@ -37077,7 +37082,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 240109
+      "UsersEstimate": 240112
     },
     {
       "ID": "brooklyn_2",
@@ -37301,7 +37306,7 @@
       "Name": "Virus",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129290
+      "UsersEstimate": 129291
     },
     {
       "ID": "cac_29",
@@ -40349,7 +40354,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 92350
+      "UsersEstimate": 92351
     },
     {
       "ID": "gorilla_1",
@@ -40493,7 +40498,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 147759
+      "UsersEstimate": 147761
     },
     {
       "ID": "halloween_1",
@@ -40629,7 +40634,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129290
+      "UsersEstimate": 129291
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -41589,7 +41594,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203169
+      "UsersEstimate": 203172
     },
     {
       "ID": "no_turning_back",
@@ -41597,7 +41602,7 @@
       "Name": "No Turning Back",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 184699
+      "UsersEstimate": 184702
     },
     {
       "ID": "orange_1",
@@ -45229,7 +45234,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 73880
+      "UsersEstimate": 73881
     },
     {
       "ID": "trk_js_1",
@@ -46381,7 +46386,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110820
+      "UsersEstimate": 110821
     },
     {
       "ID": "wwh_1",
@@ -46485,7 +46490,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203169
+      "UsersEstimate": 203172
     },
     {
       "ID": "you_shall_not_pass",
@@ -46500,13 +46505,13 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1846993,
+      "Progressed": 1847016,
       "Completed": 744
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1846993,
+      "Progressed": 1847016,
       "Completed": 127
     }
   ],
@@ -46514,8 +46519,8 @@
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
   "LastChanged": "2024-01-17T17:59:02.9172998+00:00",
-  "LastChanged_Achievements": "2024-01-17T23:11:29.8688122+00:00",
+  "LastChanged_Achievements": "2024-01-18T00:10:52.7256004+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.1503905+00:00",
-  "LastUpdate_Ratings": "2024-01-17T22:59:30.3825318+00:00",
-  "LastUpdate_Achievements": "2024-01-17T23:11:29.8813907+00:00"
+  "LastUpdate_Ratings": "2024-01-17T23:58:47.311204+00:00",
+  "LastUpdate_Achievements": "2024-01-18T00:10:52.7376108+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,179 |
-| Beast Intentions | 2.00% | ~5,089 |
-| The Cursed Farmer | 2.00% | ~5,089 |
-| The Mad Wizard | 2.00% | ~5,089 |
+| Beast Intentions | 2.00% | ~5,090 |
+| The Cursed Farmer | 2.00% | ~5,090 |
+| The Mad Wizard | 2.00% | ~5,090 |
 | The Ring of Regeneration | 1.00% | ~2,545 |
 | Are Ya Chicken? | 0.90% | ~2,290 |
 | Were-verpowered | 0.80% | ~2,036 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~763 |
 | The Dinner Party | 0.30% | ~763 |
 | A Tale of Two Cities | 0.30% | ~763 |
+| Close Escort | 0.30% | ~763 |
 | Constant Banditry | 0.30% | ~763 |
 | Underdeep Cartography | 0.30% | ~763 |
 | Overdue Rendezvous | 0.30% | ~763 |
@@ -59,7 +60,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pros and CONs | 0.20% | ~509 |
 | Wet Feet | 0.20% | ~509 |
 | Hatchlings Underfoot | 0.20% | ~509 |
-| Vecna Lives! | 0.20% | ~441 |
+| Vecna Lives! | 0.20% | ~442 |
 | Homecoming | 0.20% | ~509 |
 | The Lost Heir of Omu | 0.20% | ~509 |
 | The Forbidden City | 0.20% | ~509 |
@@ -84,15 +85,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~509 |
 | Dinosaur Racing | 0.20% | ~509 |
 | Elturel Has Fallen | 0.20% | ~509 |
-| Close Escort | 0.20% | ~509 |
 | The Long Haul | 0.20% | ~509 |
 | Lost in the Deep | 0.20% | ~509 |
 | Easily Distracted | 0.20% | ~509 |
 | Rude Welcome | 0.20% | ~509 |
 | Durable Deep | 0.20% | ~509 |
 | The Haunted Jungle | 0.20% | ~509 |
-| The Beginning is the End | 0.20% | ~441 |
-| The Brains of an Illithid's Desire | 0.20% | ~441 |
+| The Beginning is the End | 0.20% | ~442 |
+| The Brains of an Illithid's Desire | 0.20% | ~442 |
 | Upholding the Law | 0.10% | ~254 |
 | Starving in the Jungle | 0.10% | ~254 |
 | Cold as Ice | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,469 (Ranked 71)  
+Progressed: 254,476 (Ranked 71)  
 Completed: 2,623 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,6 +826,7 @@ Completed: 2,623 (1.03%) (Ranked 178)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
+| 2024-01-18 | 254,476 | 2,623 |
 ## Awards
 Max (Great for Beginners): 5,786  (Ranked 74)  
 Sum: 33,533 (Ranked 41)  

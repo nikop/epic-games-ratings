@@ -6,7 +6,7 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 2.00% | ~4,862 |
+| First Steps | 2.00% | ~4,863 |
 | Matching | 2.00% | ~92 |
 | Nothing To Lose | 1.00% | ~2,431 |
 | Heavy Hitter | 1.00% | ~2,431 |
@@ -65,10 +65,10 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.50% | ~1,216 |
 | Antivenom | 0.50% | ~1,216 |
 | The Long Run | 0.50% | ~1,216 |
-| Berzerker | 0.40% | ~972 |
-| Decisions, Decisions | 0.40% | ~972 |
-| Snake Sneak | 0.40% | ~972 |
-| Precious | 0.40% | ~972 |
+| Berzerker | 0.40% | ~973 |
+| Decisions, Decisions | 0.40% | ~973 |
+| Snake Sneak | 0.40% | ~973 |
+| Precious | 0.40% | ~973 |
 | Who Needs Luck? | 0.40% | ~18 |
 | Achievement Hunter | 0.30% | ~729 |
 | Challenge Increases | 0.30% | ~729 |
@@ -106,6 +106,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Champion of the Day | 0.20% | ~486 |
 | Diviner | 0.20% | ~9 |
 | Soul Kin | 0.20% | ~9 |
+| Brute | 0.20% | ~9 |
 | Nuclear | 0.20% | ~9 |
 | Disposal | 0.10% | ~243 |
 | Hanging On | 0.10% | ~243 |
@@ -142,10 +143,9 @@ Number of Ratings: 15,086  (23.09.2022)
 | All Natural | 0.10% | ~5 |
 | Multiclass | 0.10% | ~5 |
 | Stalker | 0.10% | ~5 |
-| Brute | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,123 (Ranked 75)  
+Progressed: 243,127 (Ranked 75)  
 Completed: 308 (0.13%) (Ranked 305)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -418,6 +418,7 @@ Completed: 308 (0.13%) (Ranked 305)
 | 2024-01-15 | 243,028 | 306 |
 | 2024-01-16 | 243,080 | 307 |
 | 2024-01-17 | 243,123 | 308 |
+| 2024-01-18 | 243,127 | 308 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  

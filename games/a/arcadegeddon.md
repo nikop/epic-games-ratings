@@ -6,18 +6,18 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,958 |
-| Photogenic | 82.00% | ~8,541 |
+| Let's Get This Party Started | 86.00% | ~8,959 |
+| Photogenic | 82.00% | ~8,542 |
 | Surge Gauntlet Jockey | 79.00% | ~8,229 |
-| Plug It In | 78.00% | ~8,124 |
-| Adventure Time | 74.00% | ~7,708 |
+| Plug It In | 78.00% | ~8,125 |
+| Adventure Time | 74.00% | ~7,709 |
 | Playing With Power | 72.00% | ~7,500 |
 | Coup d'Etat | 55.00% | ~5,729 |
 | You're Fired | 54.00% | ~5,625 |
-| Get Furious | 53.00% | ~5,520 |
-| Hacks In Stacks | 52.00% | ~5,416 |
-| Gunplay And Cosplay | 51.00% | ~5,312 |
-| Meching Enemies | 46.00% | ~4,791 |
+| Get Furious | 53.00% | ~5,521 |
+| Hacks In Stacks | 52.00% | ~5,417 |
+| Gunplay And Cosplay | 51.00% | ~5,313 |
+| Meching Enemies | 46.00% | ~4,792 |
 | Ticket Toddler | 41.00% | ~4,271 |
 | Booty Bashing | 36.00% | ~3,750 |
 | Field Medic | 36.00% | ~3,750 |
@@ -34,9 +34,9 @@ Number of Ratings: 801  (23.09.2022)
 | To Be Continued | 13.00% | ~1,354 |
 | Light My Fire | 11.00% | ~1,146 |
 | Seasoned Adventurer | 11.00% | ~1,146 |
-| Get In The Ring! | 9.00% | ~937 |
-| 1.21 Gigawatts | 9.00% | ~937 |
-| This Is My Boomstick! | 9.00% | ~937 |
+| Get In The Ring! | 9.00% | ~938 |
+| 1.21 Gigawatts | 9.00% | ~938 |
+| This Is My Boomstick! | 9.00% | ~938 |
 | Rescue Ranger | 7.00% | ~729 |
 | Surge Gauntlet Scholar | 6.00% | ~625 |
 | Ticket Titan | 6.00% | ~625 |
@@ -45,19 +45,19 @@ Number of Ratings: 801  (23.09.2022)
 | Start Your Collection | 4.00% | ~417 |
 | Stop Hitting Yourself | 4.00% | ~417 |
 | Team Player | 4.00% | ~417 |
-| Event Horizon | 3.00% | ~312 |
-| Ground Control | 3.00% | ~312 |
-| Treasure Hunting | 3.00% | ~312 |
+| Event Horizon | 3.00% | ~313 |
+| Ground Control | 3.00% | ~313 |
+| Treasure Hunting | 3.00% | ~313 |
 | Nexuwizard | 2.00% | ~208 |
 | Everybody Freeze | 1.00% | ~104 |
 | The Collector | 0.90% | ~94 |
 | Nature Is Lit | 0.80% | ~83 |
-| I'm The Pluggernaut | 0.60% | ~62 |
+| I'm The Pluggernaut | 0.60% | ~63 |
 | Shield and Shred | 0.50% | ~52 |
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,416 (Ranked 183)  
+Progressed: 10,417 (Ranked 183)  
 Completed: 2 (0.02%) (Ranked 368)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,6 +330,7 @@ Completed: 2 (0.02%) (Ranked 368)
 | 2024-01-15 | 10,403 | 2 |
 | 2024-01-16 | 10,410 | 2 |
 | 2024-01-17 | 10,416 | 2 |
+| 2024-01-18 | 10,417 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 428)  
 Sum: 465 (Ranked 344)  
