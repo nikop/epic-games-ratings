@@ -4,7 +4,7 @@
   "ProductSlug": "the-lord-of-the-rings-gollum-436d4f",
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 418,
+  "Ranking_EOS_NewPlayers": 417,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -2204,9 +2204,9 @@
       "ID": "Flying",
       "SetID": "70l3651",
       "Name": "Like Flying...",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 228
     },
     {
       "ID": "GollumChoices",
@@ -2347,8 +2347,8 @@
   ],
   "FirstSeen": "2023-05-25T20:57:35.347964+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:22.1270035+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:07:32.2753837+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:06:24.4701884+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:29.4423488+00:00",
   "LastUpdate_Ratings": "2024-01-18T22:02:01.0733012+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:07:32.275414+00:00"
+  "LastUpdate_Achievements": "2024-01-18T23:06:24.4702233+00:00"
 }

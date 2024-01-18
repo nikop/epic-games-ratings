@@ -4,7 +4,7 @@
   "ProductSlug": "super-smash-asteroids-afae0a",
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 553,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-10T00:00:00+00:00",
@@ -353,8 +353,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:49:30.2470225+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:07:03.5235017+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:06:02.3076194+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.1277931+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:03:48.2132582+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:07:03.5235425+00:00"
+  "LastUpdate_Ratings": "2024-01-18T23:03:28.0016886+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:06:02.3076405+00:00"
 }

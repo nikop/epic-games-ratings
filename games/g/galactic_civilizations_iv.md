@@ -53,11 +53,11 @@ Number of Ratings: 429  (23.09.2022)
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Ask Not What Your Empire Can Do For You | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
+| Hyperspace! | 0.20% | ~15 |
 | Commodity Seller, Level 2 | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
-| Hyperspace! | 0.10% | ~8 |
 | Veteran Crew | 0.10% | ~8 |
 | Play for 1000 Hours | 0.10% | ~8 |
 | Play for 100 Hours | 0.10% | ~8 |

@@ -1116,9 +1116,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232536,
+  "EOS_Progressed": 232539,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 559,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31161,6 +31161,11 @@
       "Time": "2024-01-18T22:11:18.1190198+00:00",
       "NumProgressed": 232536,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T23:10:37.6354207+00:00",
+      "NumProgressed": 232539,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31172,7 +31177,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46507
+      "UsersEstimate": 46508
     },
     {
       "ID": "ACH_BASE_10",
@@ -31180,7 +31185,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60459
+      "UsersEstimate": 60460
     },
     {
       "ID": "ACH_BASE_11",
@@ -31196,7 +31201,7 @@
       "Name": "Competent Cohort",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9301
+      "UsersEstimate": 9302
     },
     {
       "ID": "ACH_BASE_13",
@@ -31228,7 +31233,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20928
+      "UsersEstimate": 20929
     },
     {
       "ID": "ACH_BASE_18",
@@ -31340,7 +31345,7 @@
       "Name": "Celestial Cartography Catastrophe",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9301
+      "UsersEstimate": 9302
     },
     {
       "ID": "ACH_BASE_30",
@@ -31428,7 +31433,7 @@
       "Name": "One with the Machine",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9301
+      "UsersEstimate": 9302
     },
     {
       "ID": "ACH_BASE_9",
@@ -31436,14 +31441,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20928
+      "UsersEstimate": 20929
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232536,
+      "Progressed": 232539,
       "Completed": 5
     }
   ],
@@ -31451,8 +31456,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-15T19:00:01.7583563+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:11:18.1190194+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:10:37.6354205+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:59:17.0632807+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:11:18.1192038+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:58:47.7196542+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:10:37.6355389+00:00"
 }

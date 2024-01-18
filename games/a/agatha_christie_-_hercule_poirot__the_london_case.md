@@ -15,9 +15,9 @@
 | Impossible is possible | 52.00% | ~61 |
 | Arthur Hastings | 52.00% | ~61 |
 | The Missing Magdalene | 50.00% | ~59 |
-| Everything matters | 45.00% | ~53 |
-| DI Hardwicke | 44.00% | ~52 |
-| An expert mediator | 43.00% | ~51 |
+| Everything matters | 46.00% | ~54 |
+| DI Hardwicke | 45.00% | ~53 |
+| An expert mediator | 44.00% | ~52 |
 | Betty Allen | 39.00% | ~46 |
 | Order and method | 38.00% | ~45 |
 | The Investigation Begins | 37.00% | ~44 |

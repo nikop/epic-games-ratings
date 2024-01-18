@@ -2,12 +2,12 @@
   "ID": "larkspur",
   "Name": "Far Cry Primal Standard Edition",
   "ProductSlug": "far-cry-primal",
-  "Ranking_Rating": 204,
+  "Ranking_Rating": 205,
   "Ranking_Popularity": 218,
   "Ranking_PopularitySum": 292,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 553,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2016-03-01T15:00:00+00:00",
@@ -1946,6 +1946,6 @@
   "FirstSeen": "2022-07-22T20:23:55.0433269+00:00",
   "LastChanged": "2024-01-18T16:59:09.4073129+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:08.3520824+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:59:21.5652462+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:04:25.9441882+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:58:50.6814859+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:04:00.2044184+00:00"
 }

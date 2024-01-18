@@ -9,7 +9,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Until death do us apart | 0.70% | ~3,509 |
 | That's a Grand Army | 0.60% | ~3,008 |
 | Victorious! | 0.60% | ~3,008 |
-| That is mine! | 0.50% | ~2,506 |
+| That is mine! | 0.50% | ~2,507 |
 | Brothers in Arms | 0.40% | ~2,005 |
 | That's a Grand Navy | 0.40% | ~2,005 |
 | Seriously?! | 0.40% | ~2,005 |
@@ -118,6 +118,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Everything's Coming Up Mulhouse | 0.10% | ~501 |
 | Factionalism | 0.10% | ~501 |
 | Fanatic Collectivist | 0.10% | ~501 |
+| The Fezzan Corridors | 0.10% | ~501 |
 | Fine Financials | 0.10% | ~501 |
 | A Fine Goosestep | 0.10% | ~501 |
 | First Come, First Serve | 0.10% | ~501 |
@@ -254,6 +255,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Rise of the White Sheep | 0.10% | ~501 |
 | Rozwi Empire | 0.10% | ~501 |
 | Ruina Imperii | 0.10% | ~501 |
+| Sailor Mon | 0.10% | ~501 |
 | Sakoku Law | 0.10% | ~501 |
 | Saladins Legacy | 0.10% | ~501 |
 | Shahanshah | 0.10% | ~501 |
@@ -345,6 +347,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | The White Elephant | 0.10% | ~501 |
 | Why is the Rûm gone!? | 0.10% | ~501 |
 | Winged Hussars | 0.10% | ~501 |
+| With a little help.. | 0.10% | ~501 |
 | Wonderful | 0.10% | ~501 |
 | World Conqueror | 0.10% | ~501 |
 | World Discoverer | 0.10% | ~501 |
@@ -359,18 +362,15 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Last Crusade | 0.10% | ~501 |
 | Truly Good Maaaaa-tch | 0.10% | ~501 |
 | The Zoro-Austrians | 0.10% | ~501 |
-| The Fezzan Corridors | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
 | Great Perm | 0.00% | ~0 |
 | Meissner Porcelain | 0.00% | ~0 |
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Rekindling the Flames | 0.00% | ~0 |
-| Sailor Mon | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
-| With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,292 (Ranked 42)  
+Progressed: 501,312 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
-| 2024-01-18 | 501,292 | 1 |
+| 2024-01-18 | 501,312 | 1 |
 ## Awards
 Max (Educational): 7,890  (Ranked 53)  
 Sum: 65,057 (Ranked 24)  

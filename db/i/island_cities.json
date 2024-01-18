@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 883,
+  "EOS_Progressed": 884,
   "EOS_Completed": 148,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.76,
+  "EOS_Completed_Percentage": 16.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3826,6 +3826,11 @@
       "Time": "2024-01-18T22:07:50.9779868+00:00",
       "NumProgressed": 883,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2024-01-18T23:06:38.623094+00:00",
+      "NumProgressed": 884,
+      "NumCompleted": 148
     }
   ],
   "TotalAchievements": 22,
@@ -3837,7 +3842,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "LEVEL_002",
@@ -3845,7 +3850,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "LEVEL_003",
@@ -3861,7 +3866,7 @@
       "Name": "Great view from the beach and from the hill",
       "Percentage": 57,
       "XP": 35,
-      "UsersEstimate": 503
+      "UsersEstimate": 504
     },
     {
       "ID": "LEVEL_005",
@@ -3893,7 +3898,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "LEVEL_009",
@@ -3909,7 +3914,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 247
+      "UsersEstimate": 248
     },
     {
       "ID": "LEVEL_011",
@@ -3941,7 +3946,7 @@
       "Name": "Not lonely anymore",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "LEVEL_015",
@@ -3949,7 +3954,7 @@
       "Name": "Monumental tribute",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "LEVEL_016",
@@ -4012,7 +4017,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 883,
+      "Progressed": 884,
       "Completed": 148
     }
   ],
@@ -4020,8 +4025,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:07:50.9779866+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:06:38.6230937+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:00:44.8793837+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:07:50.978036+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:59:50.7266454+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:06:38.6231229+00:00"
 }

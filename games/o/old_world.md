@@ -33,32 +33,32 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~509 |
 | Naming Landmarks | 3.00% | ~509 |
 | Trade Caravan | 3.00% | ~509 |
-| Regicide | 2.00% | ~339 |
-| Drillmaster | 2.00% | ~339 |
-| Brilliant | 2.00% | ~339 |
-| Fountainhead | 2.00% | ~339 |
-| Great | 2.00% | ~339 |
-| Magnificent | 2.00% | ~339 |
-| Warrior | 2.00% | ~339 |
-| Wise | 2.00% | ~339 |
-| Strong Cities | 2.00% | ~339 |
-| Able Difficulty | 2.00% | ~339 |
-| Furious Family | 2.00% | ~339 |
-| Acropolis | 2.00% | ~339 |
-| Apadana | 2.00% | ~339 |
-| Great Ziggurat | 2.00% | ~339 |
-| Ishtar Gate | 2.00% | ~339 |
-| Lighthouse | 2.00% | ~339 |
-| Musaeum | 2.00% | ~339 |
-| Necropolis | 2.00% | ~339 |
-| Learn to Play 2 | 2.00% | ~339 |
-| Christianity | 2.00% | ~339 |
-| Manichaeism | 2.00% | ~339 |
-| Babylonian Paganism | 2.00% | ~339 |
-| Carthaginian Paganism | 2.00% | ~339 |
-| Egyptian Paganism | 2.00% | ~339 |
-| Roman Paganism | 2.00% | ~339 |
-| Zoroastrianism | 2.00% | ~339 |
+| Regicide | 2.00% | ~340 |
+| Drillmaster | 2.00% | ~340 |
+| Brilliant | 2.00% | ~340 |
+| Fountainhead | 2.00% | ~340 |
+| Great | 2.00% | ~340 |
+| Magnificent | 2.00% | ~340 |
+| Warrior | 2.00% | ~340 |
+| Wise | 2.00% | ~340 |
+| Strong Cities | 2.00% | ~340 |
+| Able Difficulty | 2.00% | ~340 |
+| Furious Family | 2.00% | ~340 |
+| Acropolis | 2.00% | ~340 |
+| Apadana | 2.00% | ~340 |
+| Great Ziggurat | 2.00% | ~340 |
+| Ishtar Gate | 2.00% | ~340 |
+| Lighthouse | 2.00% | ~340 |
+| Musaeum | 2.00% | ~340 |
+| Necropolis | 2.00% | ~340 |
+| Learn to Play 2 | 2.00% | ~340 |
+| Christianity | 2.00% | ~340 |
+| Manichaeism | 2.00% | ~340 |
+| Babylonian Paganism | 2.00% | ~340 |
+| Carthaginian Paganism | 2.00% | ~340 |
+| Egyptian Paganism | 2.00% | ~340 |
+| Roman Paganism | 2.00% | ~340 |
+| Zoroastrianism | 2.00% | ~340 |
 | Hanging Gardens in Babylon | 1.00% | ~170 |
 | Beloved | 1.00% | ~170 |
 | Intercessor | 1.00% | ~170 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,973 (Ranked 169)  
+Progressed: 16,975 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -638,7 +638,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-15 | 16,887 | 5 |
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
-| 2024-01-18 | 16,973 | 5 |
+| 2024-01-18 | 16,975 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

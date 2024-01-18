@@ -11,9 +11,9 @@
 | Mutation ✔ | 26.00% | ~87 |
 | Doberman ✔ | 15.00% | ~50 |
 | Weapon ✔ | 12.00% | ~40 |
+| Master of Unlocking ✔ | 10.00% | ~34 |
 | Chess ✔ | 10.00% | ~34 |
 | Survival ✔ | 9.00% | ~30 |
-| Master of Unlocking ✔ | 9.00% | ~30 |
 | Thirst ✔ | 8.00% | ~27 |
 | City ✔ | 7.00% | ~24 |
 | Hospital ✔ | 7.00% | ~24 |

@@ -1033,9 +1033,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8363,
+  "EOS_Progressed": 8364,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14218,6 +14218,11 @@
       "Time": "2024-01-18T21:09:58.1642413+00:00",
       "NumProgressed": 8363,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T23:09:15.3099019+00:00",
+      "NumProgressed": 8364,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14277,7 +14282,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14285,7 +14290,7 @@
       "Name": "Scaling up",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -14548,13 +14553,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8363,
+      "Progressed": 8364,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7735,
+      "Progressed": 7736,
       "Completed": 113
     }
   ],
@@ -14562,8 +14567,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-17T10:59:19.7573316+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:09:30.9236256+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:09:15.3099017+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:01:58.5405109+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:09:30.9237298+00:00"
+  "LastUpdate_Ratings": "2024-01-18T23:00:45.0550139+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:09:15.3099707+00:00"
 }

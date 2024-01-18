@@ -17,6 +17,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.30% | ~3,164 |
 | True Soldier | 0.30% | ~3,164 |
 | Legend of The Afterlife | 0.30% | ~3,164 |
+| All the President's Men | 0.30% | ~549 |
 | Bushido and Chill | 0.20% | ~2,109 |
 | To Protect and Serve | 0.20% | ~2,109 |
 | Gun Fu | 0.20% | ~2,109 |
@@ -27,7 +28,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.20% | ~2,109 |
 | True Warrior | 0.20% | ~2,109 |
 | Judy vs Night City | 0.20% | ~2,109 |
-| All the President's Men | 0.20% | ~366 |
 | Arachnophobia | 0.20% | ~366 |
 | City Lights | 0.10% | ~1,055 |
 | To Bad Decisions! | 0.10% | ~1,055 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,505 (Ranked 17)  
+Progressed: 1,054,519 (Ranked 17)  
 Completed: 3,123 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,10 +347,10 @@ Completed: 3,123 (0.30%) (Ranked 263)
 | 2024-01-15 | 1,052,315 | 3,105 |
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
-| 2024-01-18 | 1,054,505 | 3,123 |
+| 2024-01-18 | 1,054,519 | 3,123 |
 ## Awards
 Max (Character Customization): 142,143  (Ranked 8)  
-Sum: 504,100 (Ranked 8)  
+Sum: 504,220 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -364,7 +364,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 28,843 |
 | This game is Relaxing | 27,967 |
 | This game has Quickly Understood Controls | 27,856 |
-| This game has a Creative Community | 19,395 |
+| This game has a Creative Community | 19,515 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -732,4 +732,4 @@ Diff (max vs sum): 0
 | 2024-01-15 | 4.67 | - | 140,483 | 496,542 |
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
-| 2024-01-18 | 4.67 | - | 142,143 | 504,100 |
+| 2024-01-18 | 4.67 | - | 142,143 | 504,220 |

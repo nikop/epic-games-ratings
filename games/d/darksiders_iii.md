@@ -26,8 +26,8 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Harvester | 37.00% | ~238 |
 | Delusions of Grandeur | 36.00% | ~231 |
 | I Wanna Rock | 35.00% | ~225 |
+| Love Tap | 35.00% | ~225 |
 | Maximum Vigor | 34.00% | ~218 |
-| Love Tap | 34.00% | ~218 |
 | Freeze Frame | 31.00% | ~199 |
 | Eat Your Heart Out | 31.00% | ~199 |
 | For Whom the Bell Tolls | 30.00% | ~193 |

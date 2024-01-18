@@ -6,11 +6,11 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 47.00% | ~578 |
-| Double Kill | 41.00% | ~504 |
+| Adept | 47.00% | ~579 |
+| Double Kill | 41.00% | ~505 |
 | Critical Hit | 23.00% | ~283 |
 | Veteran | 23.00% | ~283 |
-| Dressed For Success | 15.00% | ~184 |
+| Dressed For Success | 15.00% | ~185 |
 | Veni, Vidi, Vici | 11.00% | ~135 |
 | Humiliation | 10.00% | ~123 |
 | Multi Kill | 9.00% | ~111 |
@@ -35,9 +35,9 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 0.90% | ~11 |
 | Versatile Wielder | 0.80% | ~10 |
 | Unlimited Power! | 0.70% | ~9 |
-| Cleave | 0.70% | ~9 |
 | Death To Diplomacy | 0.60% | ~7 |
 | Killing Spree | 0.60% | ~7 |
+| Cleave | 0.60% | ~7 |
 | Get Over Here! | 0.50% | ~6 |
 | Coming Through! | 0.40% | ~5 |
 | Attack Bonanza | 0.30% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,230 (Ranked 287)  
+Progressed: 1,231 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-15 | 1,208 | 0 |
 | 2024-01-16 | 1,212 | 0 |
 | 2024-01-17 | 1,218 | 0 |
-| 2024-01-18 | 1,230 | 0 |
+| 2024-01-18 | 1,231 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 527)  
 Sum: 252 (Ranked 401)  

@@ -7,9 +7,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,700 |
+| The Assault | 5.00% | ~38,084 |
 | Life is your teacher | 5.00% | ~38,084 |
 | Lightning Hands | 5.00% | ~38,084 |
-| The Assault | 4.00% | ~30,467 |
 | The Hateful Pole Fighter | 3.00% | ~22,850 |
 | Stuntmaster | 3.00% | ~22,850 |
 | Street Fighting | 3.00% | ~22,850 |

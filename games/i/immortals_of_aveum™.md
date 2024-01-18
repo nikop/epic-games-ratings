@@ -5,14 +5,14 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,125 |
-| Battlefields Have Memories | 82.00% | ~2,879 |
-| Enlisted | 75.00% | ~2,633 |
+| Unforeseen | 89.00% | ~3,126 |
+| Battlefields Have Memories | 82.00% | ~2,880 |
+| Enlisted | 75.00% | ~2,634 |
 | Maybe Engage a Little | 70.00% | ~2,458 |
 | No More Names | 54.00% | ~1,896 |
 | Initiate | 41.00% | ~1,440 |
 | Thrada-Kul | 37.00% | ~1,299 |
-| Gravity-Challenged Rocks | 31.00% | ~1,088 |
+| Gravity-Challenged Rocks | 31.00% | ~1,089 |
 | Soldier | 27.00% | ~948 |
 | All the Major Food Groups | 26.00% | ~913 |
 | Socialite | 25.00% | ~878 |
@@ -25,7 +25,7 @@ Rating: 4.19 (Ranked 977)
 | Periapt Alizarin | 17.00% | ~597 |
 | A Perfect Cycle | 16.00% | ~562 |
 | Recruit | 15.00% | ~527 |
-| Armsman | 13.00% | ~456 |
+| Armsman | 13.00% | ~457 |
 | Lights Army | 11.00% | ~386 |
 | Periapt Cerulean | 9.00% | ~316 |
 | Good Boy | 9.00% | ~316 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 977)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,511 (Ranked 229)  
+Progressed: 3,512 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-15 | 3,463 | 5 |
 | 2024-01-16 | 3,478 | 5 |
 | 2024-01-17 | 3,496 | 5 |
-| 2024-01-18 | 3,511 | 5 |
+| 2024-01-18 | 3,512 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

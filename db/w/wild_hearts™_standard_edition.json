@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 236,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1382,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 49,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4714,9 +4714,9 @@
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 553
     },
     {
       "ID": "achievement_30",
@@ -4928,8 +4928,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:10:53.859745+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:10:18.4873272+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:58:53.3883373+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:10:53.8598103+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:58:31.075114+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:10:18.4874387+00:00"
 }

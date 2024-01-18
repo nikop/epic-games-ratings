@@ -2,7 +2,7 @@
   "ID": "50bbaf85f4454b1c88786efeede5b302",
   "Name": "Goat Simulator 3",
   "ProductSlug": "goat-simulator-3",
-  "Ranking_Rating": 57,
+  "Ranking_Rating": 56,
   "Ranking_Popularity": 217,
   "Ranking_PopularitySum": 161,
   "Ranking_EOS_Progress": 68,
@@ -6691,9 +6691,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 267887,
+  "EOS_Progressed": 267888,
   "EOS_Completed": 955,
-  "EOS_NewPlayers": 985,
+  "EOS_NewPlayers": 983,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -36801,6 +36801,11 @@
       "Time": "2024-01-18T22:11:23.0688555+00:00",
       "NumProgressed": 267887,
       "NumCompleted": 955
+    },
+    {
+      "Time": "2024-01-18T23:10:41.6744918+00:00",
+      "NumProgressed": 267888,
+      "NumCompleted": 955
     }
   ],
   "TotalAchievements": 39,
@@ -36828,7 +36833,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 32146
+      "UsersEstimate": 32147
     },
     {
       "ID": "AchievementBaywatchID",
@@ -36836,7 +36841,7 @@
       "Name": "Who Baywatches the Baywatch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10715
+      "UsersEstimate": 10716
     },
     {
       "ID": "AchievementBecomeHumanID",
@@ -36876,7 +36881,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 243777
+      "UsersEstimate": 243778
     },
     {
       "ID": "AchievementClownID",
@@ -36900,7 +36905,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 75008
+      "UsersEstimate": 75009
     },
     {
       "ID": "AchievementEggID",
@@ -36940,7 +36945,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139301
+      "UsersEstimate": 139302
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -36972,7 +36977,7 @@
       "Name": "Secret Society",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 117870
+      "UsersEstimate": 117871
     },
     {
       "ID": "AchievementIntroID",
@@ -37012,7 +37017,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 99118
+      "UsersEstimate": 99119
     },
     {
       "ID": "AchievementRampID",
@@ -37028,7 +37033,7 @@
       "Name": "[REDACTED]",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 10715
+      "UsersEstimate": 10716
     },
     {
       "ID": "AchievementRedecorationID",
@@ -37084,7 +37089,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 144659
+      "UsersEstimate": 144660
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -37116,14 +37121,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 72329
+      "UsersEstimate": 72330
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 267887,
+      "Progressed": 267888,
       "Completed": 955
     }
   ],
@@ -37131,8 +37136,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-18T21:00:31.700904+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:11:23.0688549+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:10:41.6744916+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.7490682+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:00:49.0257425+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:11:23.0690664+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:59:54.0526597+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:10:41.6746123+00:00"
 }

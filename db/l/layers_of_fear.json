@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 333,
+  "EOS_Progressed": 334,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1484,6 +1484,11 @@
       "Time": "2024-01-18T19:10:23.1125503+00:00",
       "NumProgressed": 333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T23:09:35.6912088+00:00",
+      "NumProgressed": 334,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1550,9 +1555,9 @@
       "ID": "collect_most_of_myths",
       "SetID": "f2im8d",
       "Name": "We Are Not Alone",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 13
     },
     {
       "ID": "collect_most_of_posters",
@@ -1608,7 +1613,7 @@
       "Name": "Do what you have to",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "earn_all_trophies",
@@ -1648,23 +1653,23 @@
       "Name": "Scraps of love",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1686,9 +1691,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1790,9 +1795,9 @@
       "ID": "rocket_science",
       "SetID": "f2im8d",
       "Name": "Rocket Science",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 3
     },
     {
       "ID": "save_all_rats",
@@ -1824,7 +1829,7 @@
       "Name": "Sign of weakness",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "something_important",
@@ -1832,7 +1837,7 @@
       "Name": "Something important",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "spy_one_item",
@@ -1862,9 +1867,9 @@
       "ID": "the_tragedy_unfolds",
       "SetID": "f2im8d",
       "Name": "The tragedy unfolds",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 37
+      "UsersEstimate": 33
     },
     {
       "ID": "tough_conversation",
@@ -1894,9 +1899,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 186
+      "UsersEstimate": 184
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1911,14 +1916,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 333,
+      "Progressed": 334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:09:58.1045876+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:09:35.6912085+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:00:42.250181+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:09:58.1046324+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:59:49.1909102+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:09:35.691256+00:00"
 }

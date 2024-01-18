@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~286 |
+| Something important | 86.00% | ~287 |
 | A piece of the story | 66.00% | ~220 |
 | It's covered up for a reason | 60.00% | ~200 |
-| Wanderer | 56.00% | ~186 |
-| Scraps of love | 52.00% | ~173 |
+| Wanderer | 55.00% | ~184 |
+| Scraps of love | 52.00% | ~174 |
 | The artist’s impression | 51.00% | ~170 |
-| Do what you have to | 46.00% | ~153 |
-| Sign of weakness | 43.00% | ~143 |
+| Do what you have to | 46.00% | ~154 |
+| Sign of weakness | 43.00% | ~144 |
 | Refuse to look | 38.00% | ~127 |
 | Face your fears | 33.00% | ~110 |
 | Finished it | 27.00% | ~90 |
 | Whispers long forgotten | 18.00% | ~60 |
 | Sound Bite | 15.00% | ~50 |
-| A Slice of Life | 14.00% | ~47 |
-| Debut | 14.00% | ~47 |
 | The art of movement | 14.00% | ~47 |
 | Another perspective | 13.00% | ~43 |
+| A Slice of Life | 13.00% | ~43 |
+| Debut | 13.00% | ~43 |
 | Lights! Camera! Action! | 13.00% | ~43 |
-| First steps | 11.00% | ~37 |
 | Playtime | 11.00% | ~37 |
-| The tragedy unfolds | 11.00% | ~37 |
 | Tough conversation | 11.00% | ~37 |
 | A new way | 10.00% | ~33 |
 | Breaking free | 10.00% | ~33 |
+| First steps | 10.00% | ~33 |
+| The tragedy unfolds | 10.00% | ~33 |
 | Heavy Burden | 8.00% | ~27 |
 | True Reflection | 8.00% | ~27 |
 | Casting Finished | 7.00% | ~23 |
@@ -35,7 +35,7 @@
 | Fisherman | 7.00% | ~23 |
 | Something to think about | 5.00% | ~17 |
 | I remember It Like Was Yesterday | 5.00% | ~17 |
-| We Are Not Alone | 5.00% | ~17 |
+| We Are Not Alone | 4.00% | ~13 |
 | Dark correspondence | 4.00% | ~13 |
 | The Perfect Storm | 4.00% | ~13 |
 | Se7en Seas | 4.00% | ~13 |
@@ -46,7 +46,7 @@
 | It was worth a try | 2.00% | ~7 |
 | In One Take | 2.00% | ~7 |
 | Preferred Parent | 2.00% | ~7 |
-| Rocket Science | 2.00% | ~7 |
+| Rocket Science | 1.00% | ~3 |
 | The Big Picture | 0.90% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |
 | Letting go | 0.60% | ~2 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 333 (Ranked 392)  
+Progressed: 334 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,4 +143,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-14 | 327 | 0 |
 | 2024-01-16 | 329 | 0 |
 | 2024-01-17 | 331 | 0 |
-| 2024-01-18 | 333 | 0 |
+| 2024-01-18 | 334 | 0 |

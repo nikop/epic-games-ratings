@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2374,
+  "EOS_Progressed": 2375,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -4620,6 +4620,11 @@
       "Time": "2024-01-18T22:11:14.4354864+00:00",
       "NumProgressed": 2374,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-18T23:10:34.4578882+00:00",
+      "NumProgressed": 2375,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4631,7 +4636,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2327
+      "UsersEstimate": 2328
     },
     {
       "ID": "booty_call",
@@ -4647,7 +4652,7 @@
       "Name": "Crash and Burn",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "digital_casanova",
@@ -4655,7 +4660,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2279
+      "UsersEstimate": 2280
     },
     {
       "ID": "hold_my_beer",
@@ -4663,7 +4668,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -4750,7 +4755,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2374,
+      "Progressed": 2375,
       "Completed": 12
     }
   ],
@@ -4758,8 +4763,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:11:14.4354858+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:10:34.4578879+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:29.1751476+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:58:05.7435472+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:11:14.4355796+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:57:56.433175+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:10:34.4579236+00:00"
 }

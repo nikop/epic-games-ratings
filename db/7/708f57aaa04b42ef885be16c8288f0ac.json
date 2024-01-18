@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -461,9 +461,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15048,
+  "EOS_Progressed": 15049,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 414,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10836,6 +10836,11 @@
       "Time": "2024-01-18T22:11:21.107938+00:00",
       "NumProgressed": 15048,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T23:10:40.0607802+00:00",
+      "NumProgressed": 15049,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10920,7 +10925,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8276
+      "UsersEstimate": 8277
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11040,7 +11045,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "TheQuarterback",
@@ -11119,7 +11124,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15048,
+      "Progressed": 15049,
       "Completed": 27
     }
   ],
@@ -11127,8 +11132,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-18T17:57:24.8025675+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:11:21.1079374+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:10:40.0607799+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:57:34.2422355+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:11:21.1080232+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:57:34.7349225+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:10:40.0608465+00:00"
 }

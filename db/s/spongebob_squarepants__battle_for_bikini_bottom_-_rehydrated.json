@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 296,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1080,
+  "EOS_Progressed": 1081,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
@@ -2998,6 +2998,11 @@
       "Time": "2024-01-18T20:04:40.4305801+00:00",
       "NumProgressed": 1080,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-18T23:04:32.823207+00:00",
+      "NumProgressed": 1081,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3112,9 +3117,9 @@
       "ID": "ACH_PRAWN_BOSS",
       "SetID": "biiejkc",
       "Name": "Shrimp Catcher",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -3218,7 +3223,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3226,7 +3231,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3242,7 +3247,7 @@
       "Name": "Star Smasher",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -3265,15 +3270,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1080,
+      "Progressed": 1081,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:05:08.6472289+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:04:32.8232068+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:59:04.6296916+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:05:08.6472604+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:58:38.7525016+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:04:32.8232338+00:00"
 }

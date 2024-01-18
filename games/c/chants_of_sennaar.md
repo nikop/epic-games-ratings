@@ -8,7 +8,7 @@ Rating: 4.87 (Ranked 24)
 | That's the spirit | 61.00% | ~1,748 |
 | Welcome to the Tower | 54.00% | ~1,548 |
 | The great escape | 47.00% | ~1,347 |
-| The Preacher's fate | 44.00% | ~1,261 |
+| The Preacher's fate | 45.00% | ~1,290 |
 | A new dawn | 38.00% | ~1,089 |
 | Scholar | 34.00% | ~974 |
 | A good beginning | 32.00% | ~917 |

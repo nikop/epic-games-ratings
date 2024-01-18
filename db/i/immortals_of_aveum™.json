@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 301,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -507,9 +507,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3511,
+  "EOS_Progressed": 3512,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5832,6 +5832,11 @@
       "Time": "2024-01-18T22:11:20.9754443+00:00",
       "NumProgressed": 3511,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T23:10:39.9039775+00:00",
+      "NumProgressed": 3512,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5844,7 +5849,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3125
+      "UsersEstimate": 3126
     },
     {
       "ID": "achievement_10",
@@ -5932,7 +5937,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2879
+      "UsersEstimate": 2880
     },
     {
       "ID": "achievement_20",
@@ -5996,7 +6001,7 @@
       "Name": "Armsman",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "achievement_37",
@@ -6076,7 +6081,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2634
     },
     {
       "ID": "achievement_49",
@@ -6196,7 +6201,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "achievement_8",
@@ -6219,7 +6224,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3511,
+      "Progressed": 3512,
       "Completed": 5
     }
   ],
@@ -6227,8 +6232,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-16T05:57:57.6675635+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:11:20.9754436+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:10:39.9039773+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:00:36.1614272+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:11:20.9755406+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:59:44.7979803+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:10:39.9040328+00:00"
 }

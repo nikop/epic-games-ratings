@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3479,
+  "EOS_Progressed": 3480,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -6652,6 +6652,11 @@
       "Time": "2024-01-18T22:04:42.2559388+00:00",
       "NumProgressed": 3479,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-18T23:04:12.6687501+00:00",
+      "NumProgressed": 3480,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 53,
@@ -6703,7 +6708,7 @@
       "Name": "Hijack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1113
+      "UsersEstimate": 1114
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6727,7 +6732,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3305
+      "UsersEstimate": 3306
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6735,7 +6740,7 @@
       "Name": "My heart and sword always for Demacia",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "STB_DEFEAT_ICE_SALAMANDER_I",
@@ -6743,7 +6748,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6767,7 +6772,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6807,7 +6812,7 @@
       "Name": "True power",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_III",
@@ -6839,7 +6844,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2609
+      "UsersEstimate": 2610
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6847,7 +6852,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6855,7 +6860,7 @@
       "Name": "Meltridge",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "STB_MISSION11_COMPLETED",
@@ -6871,7 +6876,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -6879,7 +6884,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2644
+      "UsersEstimate": 2645
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6895,7 +6900,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1426
+      "UsersEstimate": 1427
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6911,7 +6916,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6967,7 +6972,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2087
+      "UsersEstimate": 2088
     },
     {
       "ID": "STB_PET_HORSE",
@@ -6989,9 +6994,9 @@
       "ID": "STB_SECONDARY_ASSAULT_ALL",
       "SetID": "3pe2bac",
       "Name": "Back to sleep, then...",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 417
+      "UsersEstimate": 452
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_I",
@@ -7031,7 +7036,7 @@
       "Name": "Cloven Dell Headquarters",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "STB_UNLOCK_ACTIVE_RUNE",
@@ -7086,7 +7091,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3479,
+      "Progressed": 3480,
       "Completed": 33
     }
   ],
@@ -7094,8 +7099,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:04:42.2559385+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:04:12.6687498+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:00:08.8465697+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:04:42.2560131+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:59:25.1232074+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:04:12.6688021+00:00"
 }

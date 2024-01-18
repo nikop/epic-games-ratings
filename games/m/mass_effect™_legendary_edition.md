@@ -17,9 +17,9 @@
 | Council Legion of Merit | 38.00% | ~1,699 |
 | Missing in Action | 37.00% | ~1,655 |
 | Medal of Honor | 36.00% | ~1,610 |
+| Meritorious Service Medal | 36.00% | ~1,610 |
 | Soldier Ally | 36.00% | ~1,610 |
 | Soldier | 35.00% | ~1,565 |
-| Meritorious Service Medal | 35.00% | ~1,565 |
 | Charismatic | 35.00% | ~1,565 |
 | Asari Ally | 34.00% | ~1,520 |
 | Very Elusive | 34.00% | ~1,520 |
@@ -105,9 +105,9 @@
 | Long Service Medal | 11.00% | ~492 |
 | Sabotage Specialist | 11.00% | ~492 |
 | Throw Mastery | 11.00% | ~492 |
+| Mail Slot | 10.00% | ~447 |
 | Electronics Specialist | 10.00% | ~447 |
 | Combined Arms | 9.00% | ~402 |
-| Mail Slot | 9.00% | ~402 |
 | Warp Mastery | 8.00% | ~358 |
 | Barrier Mastery | 7.00% | ~313 |
 | Sky High | 7.00% | ~313 |

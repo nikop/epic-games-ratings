@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -141,7 +141,7 @@
   "Tags": [],
   "EOS_Progressed": 2866,
   "EOS_Completed": 220,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 7.68,
   "EosHistory": [
@@ -7753,9 +7753,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1290
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7842,8 +7842,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:05:57.9732402+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:05:11.3394763+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:57:50.5017652+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:05:57.9732789+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:57:46.1697169+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:05:11.3395467+00:00"
 }

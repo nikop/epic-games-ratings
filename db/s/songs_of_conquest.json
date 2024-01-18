@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1230,
+  "EOS_Progressed": 1231,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
@@ -4262,6 +4262,11 @@
       "Time": "2024-01-18T21:11:00.7514276+00:00",
       "NumProgressed": 1230,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T23:10:05.3713616+00:00",
+      "NumProgressed": 1231,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4298,7 +4303,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "AttackCount",
@@ -4418,7 +4423,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 504
+      "UsersEstimate": 505
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4568,9 +4573,9 @@
       "ID": "SweepKillCount",
       "SetID": "71c0n9i",
       "Name": "Cleave",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "TownCompletion",
@@ -4602,7 +4607,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "WielderLevel2",
@@ -4705,15 +4710,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1230,
+      "Progressed": 1231,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:10:36.7481514+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:10:05.3713614+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:03:22.6054807+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:10:36.7482083+00:00"
+  "LastUpdate_Ratings": "2024-01-18T23:03:09.0910179+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:10:05.3714237+00:00"
 }

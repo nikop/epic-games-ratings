@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chapter 1 Complete | 68.00% | ~82 |
+| Chapter 1 Complete | 67.00% | ~81 |
 | Vicious Spider | 45.00% | ~54 |
-| Chapter 2 Complete | 42.00% | ~50 |
-| The Guardian | 31.00% | ~37 |
-| Chapter 3 Complete | 31.00% | ~37 |
+| Chapter 2 Complete | 41.00% | ~50 |
+| The Guardian | 31.00% | ~38 |
+| Chapter 3 Complete | 31.00% | ~38 |
 | Chapter 4 Complete | 23.00% | ~28 |
-| Heavy Duty | 22.00% | ~26 |
+| Heavy Duty | 21.00% | ~25 |
 | Chapter 5 Complete | 19.00% | ~23 |
 | Chapter 6 Complete | 18.00% | ~22 |
-| Chapter 7 Complete | 18.00% | ~22 |
-| Plant Enchanter | 18.00% | ~22 |
 | The Truth | 18.00% | ~22 |
-| Reconciliation | 18.00% | ~22 |
-| Always Watchful | 17.00% | ~20 |
+| Always Watchful | 17.00% | ~21 |
+| Chapter 7 Complete | 17.00% | ~21 |
+| Plant Enchanter | 17.00% | ~21 |
+| Reconciliation | 17.00% | ~21 |
 | Bounty Hunter | 14.00% | ~17 |
 | The Terror | 14.00% | ~17 |
-| All Geared Up | 13.00% | ~16 |
-| Battle Ready | 13.00% | ~16 |
-| The End | 12.00% | ~14 |
+| All Geared Up | 12.00% | ~15 |
+| The End | 12.00% | ~15 |
+| Battle Ready | 12.00% | ~15 |
 | Good Deed | 11.00% | ~13 |
 | Music Collector | 9.00% | ~11 |
-| Gamer | 8.00% | ~10 |
 | Cooking Maestro | 8.00% | ~10 |
 | Pro Explorers | 8.00% | ~10 |
 | Ultimate Team! | 8.00% | ~10 |
+| Gamer | 7.00% | ~8 |
 | Field Researcher | 7.00% | ~8 |
 | Helping Hand | 7.00% | ~8 |
 | Medal Collector | 4.00% | ~5 |
 | Our job's done! | 4.00% | ~5 |
 | Crystal Collector | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 120 (Ranked 487)  
+Progressed: 121 (Ranked 487)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-10 | 118 | 0 |
 | 2024-01-12 | 119 | 0 |
 | 2024-01-15 | 120 | 0 |
+| 2024-01-18 | 121 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

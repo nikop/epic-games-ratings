@@ -2,9 +2,9 @@
   "ID": "f9b5fde4c25442e5b6dd30e19ac26580",
   "Name": "Return of Red Riding Hood Enhanced Edition",
   "ProductSlug": "return-of-red-riding-hood-enhanced-edition-3598e4",
-  "Ranking_EOS_Progress": 638,
+  "Ranking_EOS_Progress": 633,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 487,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-22T09:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 17,
+  "EOS_Progressed": 18,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -107,6 +107,11 @@
       "Time": "2024-01-16T14:07:06.4279868+00:00",
       "NumProgressed": 17,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T23:04:03.8537005+00:00",
+      "NumProgressed": 18,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T18:03:33.8802079+00:00",
@@ -117,7 +122,7 @@
       "ID": "ADVANTAGEOUSINVESTMENT",
       "SetID": "bfiopga",
       "Name": "Advantageous investment",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -127,13 +132,13 @@
       "Name": "Adventure begins",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ATTENTIONTODETAIL",
       "SetID": "bfiopga",
       "Name": "Attention to detail",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -141,7 +146,7 @@
       "ID": "AWFULDREAM",
       "SetID": "bfiopga",
       "Name": "An awful dream",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -149,7 +154,7 @@
       "ID": "BEPREPARED",
       "SetID": "bfiopga",
       "Name": "Be prepared",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -157,7 +162,7 @@
       "ID": "BUSYWOLF",
       "SetID": "bfiopga",
       "Name": "Busy wolf",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 10,
       "UsersEstimate": 5
     },
@@ -165,7 +170,7 @@
       "ID": "CLASSICENDING",
       "SetID": "bfiopga",
       "Name": "Classic ending",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -173,7 +178,7 @@
       "ID": "COLOURLESSEXISTENCE",
       "SetID": "bfiopga",
       "Name": "Colourless existence",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -181,7 +186,7 @@
       "ID": "DESERVEDREST",
       "SetID": "bfiopga",
       "Name": "Deserved rest",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 15,
       "UsersEstimate": 6
     },
@@ -189,7 +194,7 @@
       "ID": "DONTOPENTOSTRANGERS",
       "SetID": "bfiopga",
       "Name": "Don\u0027t open to strangers",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -197,7 +202,7 @@
       "ID": "EVERYBODYALIVE",
       "SetID": "bfiopga",
       "Name": "Everybody is alive and kicking",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -205,7 +210,7 @@
       "ID": "FEARHASBIGEYES",
       "SetID": "bfiopga",
       "Name": "Fear has big eyes",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
       "UsersEstimate": 5
     },
@@ -213,7 +218,7 @@
       "ID": "FORTUNEARCHITECT",
       "SetID": "bfiopga",
       "Name": "The architect of your own fortune",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -221,7 +226,7 @@
       "ID": "GLUTTONY",
       "SetID": "bfiopga",
       "Name": "Gluttony",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -229,7 +234,7 @@
       "ID": "GOODDEED",
       "SetID": "bfiopga",
       "Name": "Good deed",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -237,7 +242,7 @@
       "ID": "GOODSTUFF",
       "SetID": "bfiopga",
       "Name": "You don\u0027t get rid of good stuff",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -245,7 +250,7 @@
       "ID": "GRANNYPASTRIES",
       "SetID": "bfiopga",
       "Name": "Granny and a pile of pastries",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -253,7 +258,7 @@
       "ID": "HAPPILYEVERAFTER",
       "SetID": "bfiopga",
       "Name": "Happily ever after",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -261,7 +266,7 @@
       "ID": "HAPPYENDING",
       "SetID": "bfiopga",
       "Name": "Happy ending",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -269,7 +274,7 @@
       "ID": "HOLYSIMPLICITY",
       "SetID": "bfiopga",
       "Name": "Holy simplicity",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -277,7 +282,7 @@
       "ID": "HUNGRYWOLF",
       "SetID": "bfiopga",
       "Name": "A hungry wolf",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -285,7 +290,7 @@
       "ID": "IFONLY",
       "SetID": "bfiopga",
       "Name": "If only",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -293,7 +298,7 @@
       "ID": "INGRATITUDE",
       "SetID": "bfiopga",
       "Name": "Ingratitude",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -301,7 +306,7 @@
       "ID": "LACKOFFASTIDIOUSNESS",
       "SetID": "bfiopga",
       "Name": "Lack of fastidiousness",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -309,7 +314,7 @@
       "ID": "LONGAWAITEDFIND",
       "SetID": "bfiopga",
       "Name": "Long-awaited find",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -317,7 +322,7 @@
       "ID": "LUCKYACCIDENT",
       "SetID": "bfiopga",
       "Name": "Lucky accident",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -325,7 +330,7 @@
       "ID": "LUCKYCOINCIDENCE",
       "SetID": "bfiopga",
       "Name": "Lucky coincidence",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -333,7 +338,7 @@
       "ID": "MIRACULOUSOUTCOME",
       "SetID": "bfiopga",
       "Name": "Miraculous outcome",
-      "Percentage": 35,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 6
     },
@@ -341,7 +346,7 @@
       "ID": "MODERATEEATING",
       "SetID": "bfiopga",
       "Name": "Art of moderate eating",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -349,7 +354,7 @@
       "ID": "NASTYLUNCH",
       "SetID": "bfiopga",
       "Name": "Nasty lunch",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -357,7 +362,7 @@
       "ID": "OPENFINAL",
       "SetID": "bfiopga",
       "Name": "Open Final",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -365,7 +370,7 @@
       "ID": "PATIENCE",
       "SetID": "bfiopga",
       "Name": "Patience",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -373,7 +378,7 @@
       "ID": "PEACEMAKERPASTRIES",
       "SetID": "bfiopga",
       "Name": "Peacemaker pastries",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -381,7 +386,7 @@
       "ID": "POLITENESSRETRIBUTION",
       "SetID": "bfiopga",
       "Name": "Retribution for politeness",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -389,7 +394,7 @@
       "ID": "POORCOOK",
       "SetID": "bfiopga",
       "Name": "Poor cook",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -397,7 +402,7 @@
       "ID": "PRISONER",
       "SetID": "bfiopga",
       "Name": "Prisoner",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -405,7 +410,7 @@
       "ID": "PROPERUPBRINGING",
       "SetID": "bfiopga",
       "Name": "Proper upbringing",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -413,7 +418,7 @@
       "ID": "RETARDEDIGNITION",
       "SetID": "bfiopga",
       "Name": "Retarded ignition",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -421,7 +426,7 @@
       "ID": "REWARDFORTHEEFFORTS",
       "SetID": "bfiopga",
       "Name": "Reward for the efforts",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -429,7 +434,7 @@
       "ID": "STAYALERTED",
       "SetID": "bfiopga",
       "Name": "Stay alert",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -437,15 +442,15 @@
       "ID": "TAMEWOLF",
       "SetID": "bfiopga",
       "Name": "Tamed wolf",
-      "Percentage": 29,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "TELLTALEEVIDENCE",
       "SetID": "bfiopga",
       "Name": "Telltale evidence",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -453,7 +458,7 @@
       "ID": "THANKSFROMWOLF",
       "SetID": "bfiopga",
       "Name": "Thanks from the wolf",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 4
     },
@@ -461,7 +466,7 @@
       "ID": "UNPREDICTABLEPEOPLE",
       "SetID": "bfiopga",
       "Name": "Unpredictable people",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -469,7 +474,7 @@
       "ID": "VERYHUNGRYWOLF",
       "SetID": "bfiopga",
       "Name": "A very hungry wolf",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -477,7 +482,7 @@
       "ID": "WHYWOLFATTACK",
       "SetID": "bfiopga",
       "Name": "Why Wolf Attacked Granny",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 4
     },
@@ -485,15 +490,15 @@
       "ID": "WICKEDFREELOAD",
       "SetID": "bfiopga",
       "Name": "Wicked freeload",
-      "Percentage": 24,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "WOLFNATURE",
       "SetID": "bfiopga",
       "Name": "Wolf nature",
-      "Percentage": 24,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -501,7 +506,7 @@
       "ID": "WOLFSDAY",
       "SetID": "bfiopga",
       "Name": "Wolf\u0027s day",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -509,7 +514,7 @@
       "ID": "WOODCUTTERSAVIOUR",
       "SetID": "bfiopga",
       "Name": "Woodcutter saviour",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -517,7 +522,7 @@
       "ID": "WOODCUTTERSRESCUERS",
       "SetID": "bfiopga",
       "Name": "Woodcutters rescuers",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
       "UsersEstimate": 2
     }
@@ -526,13 +531,13 @@
     {
       "ID": "bfiopga",
       "IsBase": true,
-      "Progressed": 17,
+      "Progressed": 18,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-20T18:03:33.8802078+00:00",
-  "LastChanged_Achievements": "2024-01-18T22:04:30.8783022+00:00",
+  "LastChanged_Achievements": "2024-01-18T23:04:03.8537002+00:00",
   "LastUpdate_AppInfo": "2024-01-17T20:57:02.3335249+00:00",
-  "LastUpdate_Ratings": "2024-01-18T21:58:30.5814164+00:00",
-  "LastUpdate_Achievements": "2024-01-18T22:04:30.878346+00:00"
+  "LastUpdate_Ratings": "2024-01-18T22:58:13.9387673+00:00",
+  "LastUpdate_Achievements": "2024-01-18T23:04:03.8537346+00:00"
 }
