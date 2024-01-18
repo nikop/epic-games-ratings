@@ -25,7 +25,7 @@
 | 23 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 20.00% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.74% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [The Riflemen](games/t/the_riflemen.md) | 16.17% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
@@ -51,8 +51,8 @@
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.83% |
-| 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.67% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.71% |
+| 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.45% |
@@ -253,9 +253,9 @@
 | 250 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
 | 250 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 253 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.35% |
-| 254 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.34% |
 | 254 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
-| 256 | [The Surge](games/t/the_surge.md) | 0.33% |
+| 255 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.33% |
+| 255 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 257 | [Darksiders III](games/d/darksiders_iii.md) | 0.32% |
 | 257 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 259 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
