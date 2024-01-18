@@ -473,6 +473,7 @@
 | [Lost Abroad Cafe - A Language Learning Management](../games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 8 | 1,000 |
 | [Lost Eidolons](../games/l/lost_eidolons.md) | 23 | 1,000 |
 | [Lost Ruins](../games/l/lost_ruins.md) | 40 | 1,000 |
+| [LOVE](../games/6/6a04125b9d884151868aa2c56e84dc11.md) | 18 | 1,000 |
 | [LOVE 3](../games/l/love_3.md) | 22 | 1,000 |
 | [Love Is All Around](../games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 42 | 1,000 |
 | [Love Money Rock-n-Roll](../games/a/a0a1f3864fe74447bcd8511abe8a2745.md) | 18 | 1,000 |
