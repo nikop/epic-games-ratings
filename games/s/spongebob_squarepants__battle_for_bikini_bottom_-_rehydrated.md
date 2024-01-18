@@ -24,8 +24,8 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 8.00% | ~86 |
 | Shrimp Catcher | 8.00% | ~86 |
 | Ultra Spatula Seeker | 8.00% | ~86 |
-| Are you ready now? | 7.00% | ~75 |
-| Hello, Bikini Bottom | 7.00% | ~75 |
+| Are you ready now? | 7.00% | ~76 |
+| Hello, Bikini Bottom | 7.00% | ~76 |
 | Robot encyclopedia | 6.00% | ~65 |
 | The Small Does Not Rule | 5.00% | ~54 |
 | Ship Shape | 5.00% | ~54 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~11 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,078 (Ranked 295)  
+Progressed: 1,079 (Ranked 295)  
 Completed: 9 (0.83%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -75,7 +75,7 @@ Completed: 9 (0.83%) (Ranked 195)
 | 2024-01-15 | 1,041 | 9 |
 | 2024-01-16 | 1,056 | 9 |
 | 2024-01-17 | 1,070 | 9 |
-| 2024-01-18 | 1,078 | 9 |
+| 2024-01-18 | 1,079 | 9 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 535)  

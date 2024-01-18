@@ -29,8 +29,8 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 11.00% | ~29 |
 | Lover | 11.00% | ~29 |
 | Perfectionist | 10.00% | ~26 |
+| Free as a Bird | 9.00% | ~24 |
 | Treasure Hunter | 8.00% | ~21 |
-| Free as a Bird | 8.00% | ~21 |
 | Detective | 8.00% | ~21 |
 | Weaponsmith | 7.00% | ~18 |
 | Hotshot | 7.00% | ~18 |

@@ -5,8 +5,8 @@
   "Ranking_Rating": 24,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
-  "Ranking_EOS_Progress": 235,
-  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_Progress": 236,
+  "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 13,
   "Store": {
@@ -139,11 +139,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2862,
+  "EOS_Progressed": 2864,
   "EOS_Completed": 220,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 26,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.68,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7614,6 +7614,11 @@
       "Time": "2024-01-18T17:10:39.5930803+00:00",
       "NumProgressed": 2862,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2024-01-18T18:04:42.0600395+00:00",
+      "NumProgressed": 2864,
+      "NumCompleted": 220
     }
   ],
   "TotalAchievements": 25,
@@ -7625,7 +7630,7 @@
       "Name": "I did it",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "END_GOOD",
@@ -7649,7 +7654,7 @@
       "Name": "Cable guy",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7665,7 +7670,7 @@
       "Name": "Half the way",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7673,7 +7678,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7681,7 +7686,7 @@
       "Name": "Free at last",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "META_RESULT_1-4",
@@ -7689,7 +7694,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7697,7 +7702,7 @@
       "Name": "A great audience",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "META_RESULT_2-4",
@@ -7705,15 +7710,15 @@
       "Name": "For its own good",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "META_RESULT_3-4",
       "SetID": "2gma9an",
       "Name": "A Link to the Past",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 487
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -7745,7 +7750,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7769,7 +7774,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1746
+      "UsersEstimate": 1747
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7777,7 +7782,7 @@
       "Name": "Scholar",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "PROGRESS_N1",
@@ -7785,7 +7790,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1545
+      "UsersEstimate": 1547
     },
     {
       "ID": "PROGRESS_N2",
@@ -7793,7 +7798,7 @@
       "Name": "The great escape",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1345
+      "UsersEstimate": 1346
     },
     {
       "ID": "PROGRESS_N3",
@@ -7824,7 +7829,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2862,
+      "Progressed": 2864,
       "Completed": 220
     }
   ],
@@ -7832,8 +7837,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:10:39.5930798+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:04:42.0600393+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:57:37.0022465+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:10:39.5931216+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:57:35.6120513+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:04:42.060086+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.59 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,820 |
-| First Love | 46.00% | ~1,675 |
-| Clean Race | 45.00% | ~1,638 |
+| Eat My Dust | 50.00% | ~1,822 |
+| First Love | 46.00% | ~1,676 |
+| Clean Race | 45.00% | ~1,639 |
 | Hear That Roar! | 43.00% | ~1,566 |
 | Bitter Rivalry | 31.00% | ~1,129 |
 | Rivals to the End | 31.00% | ~1,129 |
-| Champagne Spray | 30.00% | ~1,092 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,019 |
-| Quick Pit Stop | 23.00% | ~837 |
+| Champagne Spray | 30.00% | ~1,093 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,020 |
+| Quick Pit Stop | 23.00% | ~838 |
 | Restored and Ready | 21.00% | ~765 |
 | I Want One Too! | 21.00% | ~765 |
-| Legendary!!! | 20.00% | ~728 |
-| Go-Faster Stripes | 18.00% | ~655 |
+| Legendary!!! | 20.00% | ~729 |
+| Go-Faster Stripes | 18.00% | ~656 |
 | I'm Here Too! | 15.00% | ~546 |
 | We've Just Begun | 15.00% | ~546 |
 | Is It the Right Size? | 10.00% | ~364 |
@@ -39,8 +39,8 @@ Rating: 4.59 (Ranked 455)
 | Still Here | 2.00% | ~73 |
 | Next Level | 1.00% | ~36 |
 | I Don't Stop | 1.00% | ~36 |
-| Exhausted but Happy | 0.70% | ~25 |
-| In Search of Perfection | 0.70% | ~25 |
+| Exhausted but Happy | 0.70% | ~26 |
+| In Search of Perfection | 0.70% | ~26 |
 | Globe-trotter | 0.40% | ~15 |
 | Breathtaking Views | 0.30% | ~11 |
 | Maximum Endurance | 0.20% | ~7 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 455)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,641 (Ranked 226)  
+Progressed: 3,643 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,7 +194,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-15 | 3,609 | 0 |
 | 2024-01-16 | 3,623 | 0 |
 | 2024-01-17 | 3,636 | 0 |
-| 2024-01-18 | 3,641 | 0 |
+| 2024-01-18 | 3,643 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

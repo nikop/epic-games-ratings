@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21234,
+  "EOS_Progressed": 21239,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1042,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17768,6 +17768,11 @@
       "Time": "2024-01-18T17:15:49.7340276+00:00",
       "NumProgressed": 21234,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-18T18:09:45.1802347+00:00",
+      "NumProgressed": 21239,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17780,7 +17785,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "a_10",
@@ -17828,7 +17833,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9343
+      "UsersEstimate": 9345
     },
     {
       "ID": "a_19",
@@ -17868,7 +17873,7 @@
       "Name": "A long journey",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "a_23",
@@ -18027,7 +18032,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21234,
+      "Progressed": 21239,
       "Completed": 13
     }
   ],
@@ -18035,8 +18040,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:15:49.734027+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:09:45.1802344+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9205684+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:57:30.1581135+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:15:49.734134+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:57:31.2459198+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:09:45.180342+00:00"
 }

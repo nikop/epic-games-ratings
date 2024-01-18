@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1972,
+  "EOS_Progressed": 1973,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -5092,6 +5092,11 @@
       "Time": "2024-01-18T16:08:52.9222433+00:00",
       "NumProgressed": 1972,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T18:08:32.759469+00:00",
+      "NumProgressed": 1973,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5112,7 +5117,7 @@
       "Name": "Acrobat",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -5152,7 +5157,7 @@
       "Name": "Globetrotter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -5471,20 +5476,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1972,
+      "Progressed": 1973,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1640,
+      "Progressed": 1641,
       "Completed": 1014
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:14:06.3501265+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:08:32.7594687+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.7946639+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:59:18.3971294+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:14:06.3501763+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:58:39.7278554+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:08:32.7595379+00:00"
 }

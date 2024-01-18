@@ -45,9 +45,9 @@ Rating: 4.48 (Ranked 658)
 | It'll Buff Right Out | 5.00% | ~215 |
 | Road Rage | 5.00% | ~215 |
 | Don't hold your breath | 5.00% | ~215 |
-| Last Resort | 5.00% | ~212 |
-| Siegebreaker | 5.00% | ~212 |
-| Ghost of Falaise | 5.00% | ~212 |
+| Last Resort | 5.00% | ~213 |
+| Siegebreaker | 5.00% | ~213 |
+| Ghost of Falaise | 5.00% | ~213 |
 | Locomotion Commotion | 4.00% | ~172 |
 | From Paris with Love | 3.00% | ~129 |
 | Burn after reading | 3.00% | ~129 |
@@ -66,9 +66,9 @@ Rating: 4.48 (Ranked 658)
 | Sink or Swim | 2.00% | ~85 |
 | Best of the Best | 1.00% | ~43 |
 | Sight Beyond Sights | 1.00% | ~43 |
-| From Führer Away | 1.00% | ~42 |
-| Alpha | 1.00% | ~42 |
-| Das Familienjuwel | 1.00% | ~42 |
+| From Führer Away | 1.00% | ~43 |
+| Alpha | 1.00% | ~43 |
+| Das Familienjuwel | 1.00% | ~43 |
 | Master of Secondaries | 0.90% | ~39 |
 | Master of Rifles | 0.90% | ~39 |
 | Master of Pistols | 0.70% | ~30 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 658)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,299 (Ranked 214)  
+Progressed: 4,300 (Ranked 215)  
 Completed: 11 (0.26%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 11 (0.26%) (Ranked 272)
 | 2024-01-15 | 4,288 | 11 |
 | 2024-01-16 | 4,292 | 11 |
 | 2024-01-17 | 4,295 | 11 |
-| 2024-01-18 | 4,299 | 11 |
+| 2024-01-18 | 4,300 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 532)  
 Sum: 29 (Ranked 550)  

@@ -7,8 +7,8 @@ Rating: 4.55 (Ranked 532)
 | ---- | ---------- | ----- |
 | Tell me your story | 75.00% | ~640 |
 | Don't judge a manhole by its cover | 60.00% | ~512 |
+| I just love stuff! | 42.00% | ~359 |
 | Keep 'em coming! | 42.00% | ~359 |
-| I just love stuff! | 41.00% | ~350 |
 | The things they print nowadays | 39.00% | ~333 |
 | Big Spender | 38.00% | ~325 |
 | That's gotta hurt | 36.00% | ~307 |

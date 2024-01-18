@@ -2,13 +2,13 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 166,
-  "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 519,
+  "Ranking_Rating": 167,
+  "Ranking_Popularity": 451,
+  "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -441,23 +441,29 @@
       "Rating": 4.74,
       "NumberOfAwards": 50,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-01-18T17:57:24.8025677+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 53,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 53,
+  "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 50
+      "Count": 53
     }
   ],
-  "EOS_Progressed": 15040,
+  "EOS_Progressed": 15041,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 416,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10805,6 +10811,11 @@
       "Time": "2024-01-18T17:16:12.556159+00:00",
       "NumProgressed": 15040,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-18T18:10:02.3361218+00:00",
+      "NumProgressed": 15041,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10825,7 +10836,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6166
+      "UsersEstimate": 6167
     },
     {
       "ID": "BeLikeWater",
@@ -10873,7 +10884,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "FasterThanLight",
@@ -10889,7 +10900,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8272
+      "UsersEstimate": 8273
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10897,7 +10908,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "GarbageMan",
@@ -10921,7 +10932,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -11009,7 +11020,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3910
+      "UsersEstimate": 3911
     },
     {
       "ID": "TheQuarterback",
@@ -11017,7 +11028,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6467
+      "UsersEstimate": 6468
     },
     {
       "ID": "ThisIsDharma",
@@ -11057,7 +11068,7 @@
       "Name": "Digestive Issues",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2406
+      "UsersEstimate": 2407
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -11088,16 +11099,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15040,
+      "Progressed": 15041,
       "Completed": 27
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2024-01-18T15:57:08.4752725+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:16:12.5561587+00:00",
-  "LastUpdate_AppInfo": "2024-01-11T16:57:24.0790049+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:57:21.0480006+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:16:12.5562359+00:00"
+  "LastChanged": "2024-01-18T17:57:24.8025675+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:10:02.3361212+00:00",
+  "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
+  "LastUpdate_Ratings": "2024-01-18T17:57:24.8025681+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:10:02.3361834+00:00"
 }

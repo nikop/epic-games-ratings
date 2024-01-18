@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 239,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4289,9 +4289,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59579,
+  "EOS_Progressed": 59580,
   "EOS_Completed": 262,
-  "EOS_NewPlayers": 444,
+  "EOS_NewPlayers": 440,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19099,6 +19099,11 @@
       "Time": "2024-01-18T17:13:57.3680223+00:00",
       "NumProgressed": 59579,
       "NumCompleted": 262
+    },
+    {
+      "Time": "2024-01-18T18:08:26.514545+00:00",
+      "NumProgressed": 59580,
+      "NumCompleted": 262
     }
   ],
   "TotalAchievements": 45,
@@ -19134,7 +19139,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45876
+      "UsersEstimate": 45877
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19222,7 +19227,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 33364
+      "UsersEstimate": 33365
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -19350,7 +19355,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33364
+      "UsersEstimate": 33365
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -19358,7 +19363,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10128
+      "UsersEstimate": 10129
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -19374,7 +19379,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57196
+      "UsersEstimate": 57197
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19446,7 +19451,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 30385
+      "UsersEstimate": 30386
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -19469,15 +19474,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59579,
+      "Progressed": 59580,
       "Completed": 262
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-18T17:02:16.2000904+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:13:57.3680219+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:08:26.5145443+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.2426522+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:02:16.2000907+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:13:57.3681324+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:00:35.2602326+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:08:26.5146922+00:00"
 }

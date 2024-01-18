@@ -7,7 +7,7 @@ Rating: 4.56 (Ranked 513)
 | ---- | ---------- | ----- |
 | The Camp | 71.00% | ~1,233 |
 | The Teleprobe | 58.00% | ~1,007 |
-| The City | 52.00% | ~903 |
+| The City | 53.00% | ~921 |
 | The field base | 48.00% | ~834 |
 | The Alliance | 45.00% | ~782 |
 | Survivors | 42.00% | ~730 |

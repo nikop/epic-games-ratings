@@ -48,7 +48,7 @@
 | By Yourself 12x12 | 0.00% | ~0 |
 | Play for 24 hours | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 87 (Ranked 513)  
+Progressed: 88 (Ranked 512)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,3 +110,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-03 | 83 | 0 |
 | 2024-01-07 | 84 | 0 |
 | 2024-01-09 | 87 | 0 |
+| 2024-01-18 | 88 | 0 |

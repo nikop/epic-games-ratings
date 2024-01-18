@@ -3,12 +3,12 @@
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
   "Ranking_Rating": 998,
-  "Ranking_Popularity": 453,
+  "Ranking_Popularity": 454,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47452,
+  "EOS_Progressed": 47453,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19233,6 +19233,11 @@
       "Time": "2024-01-18T17:11:23.4936273+00:00",
       "NumProgressed": 47452,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-18T18:05:12.3296259+00:00",
+      "NumProgressed": 47453,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19667,22 +19672,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47452,
+      "Progressed": 47453,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12289,
-      "Completed": 12289
+      "Progressed": 12290,
+      "Completed": 12290
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:11:23.4936268+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:05:12.3296255+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:08:29.8618404+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:11:23.493745+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:03:05.1453141+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:05:12.3297642+00:00"
 }

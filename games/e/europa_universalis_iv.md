@@ -1,7 +1,7 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 241)  
+Rating: 4.69 (Ranked 242)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -13,13 +13,13 @@ Number of Ratings: 8,414  (23.09.2022)
 | Brothers in Arms | 0.40% | ~2,005 |
 | That's a Grand Navy | 0.40% | ~2,005 |
 | Seriously?! | 0.40% | ~2,005 |
-| Cold War | 0.30% | ~1,503 |
-| For the Glory | 0.30% | ~1,503 |
-| It's all about the money | 0.30% | ~1,503 |
-| True Catholic | 0.30% | ~1,503 |
+| Cold War | 0.30% | ~1,504 |
+| Defender of the Faith | 0.30% | ~1,504 |
+| For the Glory | 0.30% | ~1,504 |
+| It's all about the money | 0.30% | ~1,504 |
+| True Catholic | 0.30% | ~1,504 |
 | Blockader | 0.20% | ~1,002 |
 | Combined Arms | 0.20% | ~1,002 |
-| Defender of the Faith | 0.20% | ~1,002 |
 | Double the Love | 0.20% | ~1,002 |
 | It's all about luck | 0.20% | ~1,002 |
 | Respected | 0.20% | ~1,002 |
@@ -104,6 +104,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Die Please Die | 0.10% | ~501 |
 | Disciples of Enlightenment | 0.10% | ~501 |
 | Don’t be Cilli | 0.10% | ~501 |
+| Dovmont's Own | 0.10% | ~501 |
 | Down Under | 0.10% | ~501 |
 | Dracula's Revenge | 0.10% | ~501 |
 | Dude, Where's my Boat? | 0.10% | ~501 |
@@ -355,7 +356,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Last Crusade | 0.10% | ~501 |
 | Truly Good Maaaaa-tch | 0.10% | ~501 |
 | The Zoro-Austrians | 0.10% | ~501 |
-| Dovmont's Own | 0.00% | ~0 |
 | The Fezzan Corridors | 0.00% | ~0 |
 | Frozen Assets | 0.00% | ~0 |
 | Gothic Invasion | 0.00% | ~0 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Turkish Delight | 0.00% | ~0 |
 | With a little help.. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,145 (Ranked 42)  
+Progressed: 501,170 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-15 | 499,663 | 1 |
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
-| 2024-01-18 | 501,145 | 1 |
+| 2024-01-18 | 501,170 | 1 |
 ## Awards
 Max (Educational): 7,871  (Ranked 53)  
 Sum: 65,038 (Ranked 24)  

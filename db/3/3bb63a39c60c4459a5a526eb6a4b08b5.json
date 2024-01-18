@@ -3,9 +3,9 @@
   "Name": "Fly Corp",
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 291,
-  "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_Completed": 324,
+  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1155,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4509,6 +4509,11 @@
       "Time": "2024-01-17T15:11:00.4115076+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-18T18:10:06.2512756+00:00",
+      "NumProgressed": 1155,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4536,7 +4541,7 @@
       "Name": "Basic Controls",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "BigPlane",
@@ -4584,7 +4589,7 @@
       "Name": "Debtor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -4784,7 +4789,7 @@
       "Name": "Reliable Transporter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "ResourceEconomy",
@@ -4855,14 +4860,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1155,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:16:17.5335872+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:10:06.2512753+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.7241323+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:57:51.2910579+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:16:17.533638+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:57:44.5687747+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:10:06.2513168+00:00"
 }

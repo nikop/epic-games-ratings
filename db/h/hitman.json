@@ -4,11 +4,11 @@
   "ProductSlug": "hitman/standard-edition",
   "Ranking_Rating": 356,
   "Ranking_Popularity": 293,
-  "Ranking_PopularitySum": 241,
+  "Ranking_PopularitySum": 240,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -2794,10 +2794,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 1630,
       "NumberOfAwardsMax": 219
+    },
+    {
+      "Time": "2024-01-18T17:59:37.9486185+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 1631,
+      "NumberOfAwardsMax": 219
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1630,
+  "NumberOfAwards": 1631,
   "NumberOfAwardsMax": 219,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2823,7 +2829,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 188
+      "Count": 189
     },
     {
       "Text": "This game is Relaxing",
@@ -2873,8 +2879,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:32:10.6067815+00:00",
-  "LastChanged": "2024-01-14T15:57:13.0763086+00:00",
+  "LastChanged": "2024-01-18T17:59:37.9486183+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:36.6045518+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:00:49.8557187+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:09:53.6697924+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:59:37.9486189+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:04:10.5025519+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 345,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 92,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1915,9 +1915,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 168787,
+  "EOS_Progressed": 168791,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23575,6 +23575,11 @@
       "Time": "2024-01-18T17:11:32.3274882+00:00",
       "NumProgressed": 168787,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-18T18:05:18.6099256+00:00",
+      "NumProgressed": 168791,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23651,7 +23656,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6751
+      "UsersEstimate": 6752
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -23769,9 +23774,9 @@
       "ID": "DEFEAT_WATCHER",
       "SetID": "ccc0dlh",
       "Name": "Watcher",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1350
     },
     {
       "ID": "DEFEAT_WHISPERERS",
@@ -23803,7 +23808,7 @@
       "Name": "Imprint",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6751
+      "UsersEstimate": 6752
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -23954,21 +23959,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168370,
-      "Completed": 1266
+      "Progressed": 168374,
+      "Completed": 1267
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168787,
+      "Progressed": 168791,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-18T13:07:11.4279492+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:11:32.3274877+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:05:18.6099252+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:02:07.3757913+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:11:32.3276271+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:00:30.0085405+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:05:18.6100549+00:00"
 }

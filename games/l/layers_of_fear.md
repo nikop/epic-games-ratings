@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 87.00% | ~288 |
-| A piece of the story | 66.00% | ~218 |
+| Something important | 86.00% | ~286 |
+| A piece of the story | 66.00% | ~219 |
 | It's covered up for a reason | 60.00% | ~199 |
-| Wanderer | 56.00% | ~185 |
-| Scraps of love | 53.00% | ~175 |
+| Wanderer | 56.00% | ~186 |
+| Scraps of love | 52.00% | ~173 |
 | The artist’s impression | 51.00% | ~169 |
-| Do what you have to | 46.00% | ~152 |
-| Sign of weakness | 44.00% | ~146 |
+| Do what you have to | 46.00% | ~153 |
+| Sign of weakness | 43.00% | ~143 |
 | Refuse to look | 38.00% | ~126 |
-| Face your fears | 33.00% | ~109 |
-| Finished it | 27.00% | ~89 |
+| Face your fears | 33.00% | ~110 |
+| Finished it | 27.00% | ~90 |
 | Whispers long forgotten | 18.00% | ~60 |
 | Sound Bite | 15.00% | ~50 |
 | A Slice of Life | 14.00% | ~46 |
@@ -22,14 +22,14 @@
 | The art of movement | 14.00% | ~46 |
 | Another perspective | 13.00% | ~43 |
 | Lights! Camera! Action! | 13.00% | ~43 |
-| First steps | 11.00% | ~36 |
-| Playtime | 11.00% | ~36 |
-| The tragedy unfolds | 11.00% | ~36 |
-| Tough conversation | 11.00% | ~36 |
+| First steps | 11.00% | ~37 |
+| Playtime | 11.00% | ~37 |
+| The tragedy unfolds | 11.00% | ~37 |
+| Tough conversation | 11.00% | ~37 |
 | A new way | 10.00% | ~33 |
 | Breaking free | 10.00% | ~33 |
-| Heavy Burden | 8.00% | ~26 |
-| True Reflection | 8.00% | ~26 |
+| Heavy Burden | 8.00% | ~27 |
+| True Reflection | 8.00% | ~27 |
 | Casting Finished | 7.00% | ~23 |
 | Instinct of self-preservation | 7.00% | ~23 |
 | Fisherman | 7.00% | ~23 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 331 (Ranked 392)  
+Progressed: 332 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,3 +143,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-14 | 327 | 0 |
 | 2024-01-16 | 329 | 0 |
 | 2024-01-17 | 331 | 0 |
+| 2024-01-18 | 332 | 0 |

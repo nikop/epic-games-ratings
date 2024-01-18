@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,182 |
+| A Brief Tour of the Realms | 4.00% | ~10,183 |
 | Beast Intentions | 2.00% | ~5,091 |
 | The Cursed Farmer | 2.00% | ~5,091 |
 | The Mad Wizard | 2.00% | ~5,091 |
 | The Ring of Regeneration | 1.00% | ~2,546 |
 | Are Ya Chicken? | 1.00% | ~2,546 |
 | Were-verpowered | 0.90% | ~2,291 |
-| Seeking Allies | 0.80% | ~2,036 |
-| Mad Cow Disease | 0.80% | ~2,036 |
-| Friendly Imps | 0.80% | ~2,036 |
+| Seeking Allies | 0.80% | ~2,037 |
+| Mad Cow Disease | 0.80% | ~2,037 |
+| Friendly Imps | 0.80% | ~2,037 |
 | Welcome to Sigil | 0.80% | ~1,767 |
 | Pure Energy | 0.70% | ~1,782 |
 | Fast Food | 0.70% | ~1,546 |
@@ -96,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Easily Distracted | 0.20% | ~509 |
 | Rude Welcome | 0.20% | ~509 |
 | Durable Deep | 0.20% | ~509 |
+| Expert Opinion | 0.20% | ~509 |
 | The Haunted Jungle | 0.20% | ~509 |
 | The Beginning is the End | 0.20% | ~442 |
 | The Brains of an Illithid's Desire | 0.20% | ~442 |
@@ -443,7 +444,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wrecked Flying Fortress | 0.10% | ~221 |
 | Relentless Peril | 0.10% | ~221 |
 | Rickety Rubble | 0.10% | ~221 |
-| Expert Opinion | 0.10% | ~255 |
 | Dwarven Rumors | 0.10% | ~221 |
 | Mimic Perception | 0.10% | ~221 |
 | Frozen in Fear | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,558 (Ranked 71)  
+Progressed: 254,563 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -826,7 +826,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-15 | 254,088 | 2,619 |
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
-| 2024-01-18 | 254,558 | 2,624 |
+| 2024-01-18 | 254,563 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,543 (Ranked 41)  

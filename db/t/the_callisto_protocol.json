@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2291,9 +2291,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22534,
+  "EOS_Progressed": 22536,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 391,
+  "EOS_NewPlayers": 390,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14321,6 +14321,11 @@
       "Time": "2024-01-18T17:15:50.9218108+00:00",
       "NumProgressed": 22534,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-18T18:09:46.1068927+00:00",
+      "NumProgressed": 22536,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14356,7 +14361,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2253
+      "UsersEstimate": 2254
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14364,7 +14369,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6084
+      "UsersEstimate": 6085
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14452,7 +14457,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2930
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14460,7 +14465,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4957
+      "UsersEstimate": 4958
     },
     {
       "ID": "KILL_ROBOT",
@@ -14492,7 +14497,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4281
+      "UsersEstimate": 4282
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14508,7 +14513,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5408
+      "UsersEstimate": 5409
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14588,7 +14593,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2929
+      "UsersEstimate": 2930
     },
     {
       "ID": "DISMEMBER_100",
@@ -14707,13 +14712,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22534,
+      "Progressed": 22536,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10460,
+      "Progressed": 10462,
       "Completed": 29
     }
   ],
@@ -14721,8 +14726,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-17T22:03:19.3835436+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:15:50.9218106+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:09:46.1068923+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:08:56.4754887+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:15:50.9219243+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:03:21.1576085+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:09:46.1069591+00:00"
 }

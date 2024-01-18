@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5357,9 +5357,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82966,
+  "EOS_Progressed": 82967,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 482,
+  "EOS_NewPlayers": 481,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30702,6 +30702,11 @@
       "Time": "2024-01-18T16:06:57.8102285+00:00",
       "NumProgressed": 82966,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-18T18:05:43.2933422+00:00",
+      "NumProgressed": 82967,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31017,7 +31022,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28208
+      "UsersEstimate": 28209
     },
     {
       "ID": "HARLEY_2",
@@ -31057,7 +31062,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41483
+      "UsersEstimate": 41484
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31200,13 +31205,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82966,
+      "Progressed": 82967,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53246,
+      "Progressed": 53247,
       "Completed": 2680
     }
   ],
@@ -31214,8 +31219,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-18T16:57:33.4775999+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:12:07.9325721+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:05:43.2933418+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:57:33.4776008+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:12:07.932721+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:57:33.3410108+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:05:43.29348+00:00"
 }

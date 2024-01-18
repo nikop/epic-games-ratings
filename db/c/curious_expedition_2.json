@@ -2,13 +2,13 @@
   "ID": "2ba34162e36a4caf860fd00f934c8af1",
   "Name": "Curious Expedition 2",
   "ProductSlug": "curious-expedition-2-8cb901",
-  "Ranking_Rating": 166,
+  "Ranking_Rating": 167,
   "Ranking_Popularity": 586,
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 418,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
     "PcReleaseDate": "2021-01-28T00:00:00+00:00",
@@ -1119,9 +1119,9 @@
       "ID": "ach-noRest",
       "SetID": "17ih7ma",
       "Name": "Insomnia",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 207
+      "UsersEstimate": 212
     },
     {
       "ID": "ach-pacifist-goals",
@@ -1264,8 +1264,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:16:21.9456505+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:10:09.3826057+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:14.1481528+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:02:06.0468023+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:16:21.9457005+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:00:29.1925716+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:10:09.3826493+00:00"
 }

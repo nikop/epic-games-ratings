@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 117
     }
   ],
-  "EOS_Progressed": 1442,
+  "EOS_Progressed": 1443,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4243,6 +4243,11 @@
       "Time": "2024-01-18T17:13:25.9221518+00:00",
       "NumProgressed": 1442,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-18T18:06:35.1699227+00:00",
+      "NumProgressed": 1443,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4263,7 +4268,7 @@
       "Name": "Ab Initio",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "AnthropicHills",
@@ -4343,7 +4348,7 @@
       "Name": "Desolate Island",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "Discovery",
@@ -4431,7 +4436,7 @@
       "Name": "Just One Lap",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "LordOfTheFiles",
@@ -4511,7 +4516,7 @@
       "Name": "Overload",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 490
+      "UsersEstimate": 491
     },
     {
       "ID": "Persistent",
@@ -4519,7 +4524,7 @@
       "Name": "Persistent",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "PrometheusUnbound",
@@ -4567,7 +4572,7 @@
       "Name": "Signatory",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "SingleRod",
@@ -4599,7 +4604,7 @@
       "Name": "Team Spirit",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "TextAdventurer",
@@ -4671,7 +4676,7 @@
       "Name": "Touch Grass",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "TrevorsBiographer",
@@ -4703,15 +4708,15 @@
       "Name": "Western Delta",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "WoodedPlateau",
       "SetID": "1n308hc",
       "Name": "Wooded Plateau",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 245
+      "UsersEstimate": 231
     },
     {
       "ID": "YourBiggestFan",
@@ -4726,7 +4731,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1442,
+      "Progressed": 1443,
       "Completed": 2
     }
   ],
@@ -4734,8 +4739,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-16T05:58:36.7533084+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:13:25.9221514+00:00",
-  "LastUpdate_AppInfo": "2024-01-11T16:57:25.5591881+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:01:25.0816228+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:13:25.9222575+00:00"
+  "LastChanged_Achievements": "2024-01-18T18:06:35.1699224+00:00",
+  "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
+  "LastUpdate_Ratings": "2024-01-18T18:00:02.1727611+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:06:35.1699886+00:00"
 }

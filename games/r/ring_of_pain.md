@@ -7,6 +7,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Steps | 2.00% | ~4,863 |
+| Uncharted Territory | 2.00% | ~4,863 |
 | Matching | 2.00% | ~93 |
 | Nothing To Lose | 1.00% | ~2,432 |
 | Heavy Hitter | 1.00% | ~2,432 |
@@ -23,7 +24,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | C-C-Combo | 1.00% | ~2,432 |
 | Deflection | 1.00% | ~2,432 |
 | A Quick Escape | 1.00% | ~2,432 |
-| Uncharted Territory | 1.00% | ~2,432 |
 | Explorer | 1.00% | ~2,432 |
 | Sneaky | 1.00% | ~2,432 |
 | An Offering | 1.00% | ~2,432 |

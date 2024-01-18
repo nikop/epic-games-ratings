@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 127,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4979,7 +4979,7 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13310,
+  "EOS_Progressed": 13311,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 0,
@@ -19939,6 +19939,11 @@
       "Time": "2024-01-18T17:16:24.9131235+00:00",
       "NumProgressed": 13310,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T18:10:11.7698264+00:00",
+      "NumProgressed": 13311,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -19966,7 +19971,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1863
+      "UsersEstimate": 1864
     },
     {
       "ID": "04_FithCrusade",
@@ -20877,21 +20882,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12092,
+      "Progressed": 12093,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13310,
+      "Progressed": 13311,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-18T15:58:21.1198388+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:16:24.9131232+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:10:11.7698262+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:58:33.5899848+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:16:24.9133043+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:58:12.1148796+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:10:11.7699841+00:00"
 }

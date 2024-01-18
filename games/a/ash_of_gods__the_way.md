@@ -10,8 +10,8 @@
 | Under cover | 35.00% | ~28 |
 | First blood | 35.00% | ~28 |
 | Royal blessing | 30.00% | ~24 |
+| A hidden snake | 24.00% | ~19 |
 | Blood and sand | 24.00% | ~19 |
-| A hidden snake | 23.00% | ~18 |
 | Surpass the teacher | 21.00% | ~17 |
 | Power of Inquisition | 19.00% | ~15 |
 | All for one! | 19.00% | ~15 |

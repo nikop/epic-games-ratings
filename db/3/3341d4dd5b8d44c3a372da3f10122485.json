@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 355,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 259,
-  "EOS_Completed": 111,
+  "EOS_Completed": 112,
   "EOS_NewPlayers": 10,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 42.86,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 43.24,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1719,6 +1719,11 @@
       "Time": "2024-01-17T19:05:26.3705582+00:00",
       "NumProgressed": 259,
       "NumCompleted": 111
+    },
+    {
+      "Time": "2024-01-18T18:05:44.0160659+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 112
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1761,9 +1766,9 @@
       "ID": "Konec",
       "SetID": "823jm6g",
       "Name": "Happy End",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "Les",
@@ -1777,9 +1782,9 @@
       "ID": "Majak",
       "SetID": "823jm6g",
       "Name": "Lighthouse",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 114
+      "UsersEstimate": 117
     },
     {
       "ID": "Nora",
@@ -1835,13 +1840,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 259,
-      "Completed": 111
+      "Completed": 112
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:12:09.0340766+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:05:44.0160653+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.8400206+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:00:25.7746461+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:12:09.03409+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:59:22.4774763+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:05:44.0160816+00:00"
 }

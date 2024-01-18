@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 586,
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 354,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-09T16:00:00+00:00",
     "PcReleaseDate": "2021-09-09T16:00:00+00:00",
@@ -59,9 +59,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2949,6 +2949,11 @@
       "Time": "2024-01-18T16:07:25.4561534+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T18:06:02.4860335+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 45,
@@ -3080,7 +3085,7 @@
       "Name": "Manipulating Fate",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "DIE_MAX_POWER",
@@ -3184,7 +3189,7 @@
       "Name": "We made it",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "THREE_HAPPY_CLASSES",
@@ -3319,7 +3324,7 @@
     {
       "ID": "6ohhfoc",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 0
     }
   ],
@@ -3327,8 +3332,8 @@
   "FirstSeenRating": "2023-01-10T11:57:19.8134473+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.7117548+00:00",
   "LastChanged": "2023-12-18T15:02:48.0768878+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:12:36.2532642+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:06:02.4860331+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:53.4031601+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:08:38.7771724+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:12:36.2533039+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:03:10.877872+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:06:02.486082+00:00"
 }

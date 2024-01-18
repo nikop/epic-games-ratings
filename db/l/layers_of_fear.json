@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 331,
+  "EOS_Progressed": 332,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1474,6 +1474,11 @@
       "Time": "2024-01-17T01:58:38.7938678+00:00",
       "NumProgressed": 331,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T18:09:01.8548047+00:00",
+      "NumProgressed": 332,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1598,7 +1603,7 @@
       "Name": "Do what you have to",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "earn_all_trophies",
@@ -1614,7 +1619,7 @@
       "Name": "Face your fears",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1636,9 +1641,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 173
     },
     {
       "ID": "find_one_photo",
@@ -1670,7 +1675,7 @@
       "Name": "Finished it",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "first_step",
@@ -1678,7 +1683,7 @@
       "Name": "First steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1702,7 +1707,7 @@
       "Name": "Heavy Burden",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "in_one_take",
@@ -1758,7 +1763,7 @@
       "Name": "A piece of the story",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "playtime",
@@ -1766,7 +1771,7 @@
       "Name": "Playtime",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "preferred_parent",
@@ -1812,17 +1817,17 @@
       "ID": "sign_of_weakness",
       "SetID": "f2im8d",
       "Name": "Sign of weakness",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 146
+      "UsersEstimate": 143
     },
     {
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 288
+      "UsersEstimate": 286
     },
     {
       "ID": "spy_one_item",
@@ -1854,7 +1859,7 @@
       "Name": "The tragedy unfolds",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "tough_conversation",
@@ -1862,7 +1867,7 @@
       "Name": "Tough conversation",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "true_reflection",
@@ -1870,7 +1875,7 @@
       "Name": "True Reflection",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "view_most_of_photos",
@@ -1886,7 +1891,7 @@
       "Name": "Wanderer",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1901,14 +1906,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 331,
+      "Progressed": 332,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:14:48.004615+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:09:01.8548043+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:00:33.152062+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:14:48.0046601+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:59:27.2738695+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:09:01.854851+00:00"
 }

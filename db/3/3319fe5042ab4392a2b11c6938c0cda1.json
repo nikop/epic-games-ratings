@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -907,9 +907,9 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "ae95dh3",
       "Name": "Hidden Agenda",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -1122,8 +1122,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:10:59.4277883+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:04:56.1150466+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:58:01.2172895+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:10:59.4278142+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:57:51.267355+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:04:56.1150885+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 242,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11022,9 +11022,9 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133142,
+  "EOS_Progressed": 133146,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 682,
+  "EOS_NewPlayers": 680,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40467,6 +40467,11 @@
       "Time": "2024-01-18T17:16:10.4625099+00:00",
       "NumProgressed": 133142,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T18:10:00.5904182+00:00",
+      "NumProgressed": 133146,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40548,9 +40553,9 @@
       "ID": "altar_of_hope_unlock_hero_runaway",
       "SetID": "64l4lke",
       "Name": "Boxcar Kid",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3994
+      "UsersEstimate": 5326
     },
     {
       "ID": "altar_of_hope_unlock_hero_vestal",
@@ -40830,7 +40835,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10651
+      "UsersEstimate": 10652
     },
     {
       "ID": "hero_story_complete_all",
@@ -41109,21 +41114,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133142,
+      "Progressed": 133146,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8011,
+      "Progressed": 8015,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-18T17:01:39.4586378+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:16:10.4625095+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:10:00.5904177+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:01:39.4586385+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:16:10.4626964+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:00:12.4430878+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:10:00.5906086+00:00"
 }

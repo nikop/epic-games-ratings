@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1773,9 +1773,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248640,
+  "EOS_Progressed": 248644,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 998,
+  "EOS_NewPlayers": 995,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26673,6 +26673,11 @@
       "Time": "2024-01-18T17:16:24.3472291+00:00",
       "NumProgressed": 248640,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-18T18:10:11.3987041+00:00",
+      "NumProgressed": 248644,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26700,7 +26705,7 @@
       "Name": "Holistic Adventuring Party",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "BarbarianEpic",
@@ -26732,7 +26737,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19891
+      "UsersEstimate": 19892
     },
     {
       "ID": "Chapter2",
@@ -27116,7 +27121,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14918
+      "UsersEstimate": 14919
     },
     {
       "ID": "ElfEpic",
@@ -27132,7 +27137,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 91997
+      "UsersEstimate": 91998
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27180,7 +27185,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27350
+      "UsersEstimate": 27351
     },
     {
       "ID": "FollowBraztok",
@@ -27252,7 +27257,7 @@
       "Name": "Law and Order",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1740
+      "UsersEstimate": 1741
     },
     {
       "ID": "Poster",
@@ -27332,7 +27337,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14918
+      "UsersEstimate": 14919
     },
     {
       "ID": "SupportCount4",
@@ -27387,21 +27392,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248640,
+      "Progressed": 248644,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248640,
+      "Progressed": 248644,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-18T04:02:39.050202+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:16:24.3472289+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:10:11.3987037+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-18T16:57:28.9811258+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:16:24.347433+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:57:30.4752753+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:10:11.3988658+00:00"
 }

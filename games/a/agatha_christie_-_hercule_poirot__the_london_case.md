@@ -8,8 +8,8 @@
 | Little ideas | 73.00% | ~86 |
 | The Ship | 69.00% | ~81 |
 | Seeking the truth | 58.00% | ~68 |
-| An old friend | 56.00% | ~66 |
-| The Gala | 55.00% | ~65 |
+| An old friend | 57.00% | ~67 |
+| The Gala | 56.00% | ~66 |
 | A curious gathering | 53.00% | ~63 |
 | Little grey cells | 52.00% | ~61 |
 | Impossible is possible | 51.00% | ~60 |
@@ -23,8 +23,8 @@
 | The Investigation Begins | 37.00% | ~44 |
 | Irene Court-Smyth | 36.00% | ~42 |
 | Ms. Camilla B. Culsham | 35.00% | ~41 |
-| An odd series of events | 33.00% | ~39 |
-| The Apartment | 33.00% | ~39 |
+| An odd series of events | 34.00% | ~40 |
+| The Apartment | 34.00% | ~40 |
 | A rude awakening | 31.00% | ~37 |
 | Nathaniel Dryden | 31.00% | ~37 |
 | Bartholomew | 31.00% | ~37 |

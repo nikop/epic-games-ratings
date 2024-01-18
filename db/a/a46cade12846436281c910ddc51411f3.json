@@ -4,8 +4,8 @@
   "ProductSlug": "dros-6da0b2",
   "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-11T01:30:00+00:00",
     "PcReleaseDate": "2023-07-20T16:00:00+00:00",
@@ -461,8 +461,8 @@
   ],
   "FirstSeen": "2023-08-13T17:57:40.8250998+00:00",
   "FirstSeenAchievements": "2023-08-07T02:00:19.8030023+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:16:13.0713265+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:10:02.7259086+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:37.4885851+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:08:44.3481788+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:16:13.0713545+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:03:13.6042605+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:10:02.725933+00:00"
 }

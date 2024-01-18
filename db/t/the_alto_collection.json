@@ -3,12 +3,12 @@
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
   "Ranking_Rating": 221,
-  "Ranking_Popularity": 460,
+  "Ranking_Popularity": 461,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -988,7 +988,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55293,
+  "EOS_Progressed": 55296,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 873,
   "EOS_NewCompleters": 0,
@@ -32108,6 +32108,11 @@
       "Time": "2024-01-18T17:10:02.9730417+00:00",
       "NumProgressed": 55293,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-18T18:04:16.9197849+00:00",
+      "NumProgressed": 55296,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32143,7 +32148,7 @@
       "Name": "Scout",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6635
+      "UsersEstimate": 6636
     },
     {
       "ID": "distance500000",
@@ -32159,7 +32164,7 @@
       "Name": "Rookie",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15482
+      "UsersEstimate": 15483
     },
     {
       "ID": "goals180",
@@ -32175,7 +32180,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5529
+      "UsersEstimate": 5530
     },
     {
       "ID": "goals75",
@@ -32271,7 +32276,7 @@
       "Name": "Unlock Maya",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "playerPaz",
@@ -32327,7 +32332,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13823
+      "UsersEstimate": 13824
     },
     {
       "ID": "sandboarder",
@@ -32343,7 +32348,7 @@
       "Name": "Sightseer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 6082
+      "UsersEstimate": 6083
     },
     {
       "ID": "ultimate",
@@ -32415,7 +32420,7 @@
       "Name": "Wanderer",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 4423
+      "UsersEstimate": 4424
     },
     {
       "ID": "windswept",
@@ -32430,15 +32435,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55293,
+      "Progressed": 55296,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-16T19:59:32.4683523+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:10:02.9730413+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:04:16.9197845+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.1789264+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:02:21.0391039+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:10:02.9732356+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:02:38.3100346+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:04:16.9199922+00:00"
 }

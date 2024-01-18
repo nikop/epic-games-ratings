@@ -61,7 +61,7 @@ Rating: 4.36 (Ranked 823)
 | European Union | 0.60% | ~17 |
 | Together we stand | 0.50% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,752 (Ranked 236)  
+Progressed: 2,752 (Ranked 237)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3995,9 +3995,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20867,
+  "EOS_Progressed": 20870,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19960,6 +19960,11 @@
       "Time": "2024-01-18T15:08:44.1618038+00:00",
       "NumProgressed": 20867,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-18T18:08:30.7005031+00:00",
+      "NumProgressed": 20870,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20188,7 +20193,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "WinNearRuins",
@@ -20228,7 +20233,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "WinOnCoral",
@@ -20252,7 +20257,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "WinOnMoorlands",
@@ -20284,7 +20289,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1043
+      "UsersEstimate": 1044
     },
     {
       "ID": "WinWIthCaches",
@@ -20443,15 +20448,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20867,
+      "Progressed": 20870,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-17T20:58:38.9052798+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:14:03.330852+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:08:30.7005028+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:00:27.4971998+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:14:03.3309572+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:59:23.7229021+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:08:30.7006399+00:00"
 }

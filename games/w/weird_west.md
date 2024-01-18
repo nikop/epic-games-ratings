@@ -7,15 +7,15 @@ Number of Ratings: 125  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Unforgiven | 89.00% | ~1,841 |
-| Self-Improvement | 71.00% | ~1,468 |
-| Perky | 65.00% | ~1,344 |
-| Let’s Ride | 59.00% | ~1,220 |
-| Dead or Alive | 56.00% | ~1,158 |
-| Welcome to the Weird West | 56.00% | ~1,158 |
-| Full House | 37.00% | ~765 |
+| Self-Improvement | 71.00% | ~1,469 |
+| Perky | 65.00% | ~1,345 |
+| Let’s Ride | 59.00% | ~1,221 |
+| Welcome to the Weird West | 56.00% | ~1,159 |
+| Dead or Alive | 55.00% | ~1,138 |
+| Full House | 37.00% | ~766 |
 | Off the Trail | 34.00% | ~703 |
-| Justice Served | 30.00% | ~620 |
-| Chain Reaction | 27.00% | ~558 |
+| Justice Served | 30.00% | ~621 |
+| Chain Reaction | 27.00% | ~559 |
 | Through Their Eyes | 26.00% | ~538 |
 | Dishonored | 25.00% | ~517 |
 | Rain of Death | 25.00% | ~517 |
@@ -38,10 +38,10 @@ Number of Ratings: 125  (23.09.2022)
 | Loyalty to the Pack | 9.00% | ~186 |
 | Eternity Can Wait | 9.00% | ~186 |
 | Mystery Machine | 9.00% | ~186 |
-| Do Not Pass Go… | 8.00% | ~165 |
-| Gold Digger | 8.00% | ~165 |
-| Monster Hunter | 8.00% | ~165 |
-| Knuckle Sandwich | 8.00% | ~165 |
+| Do Not Pass Go… | 8.00% | ~166 |
+| Gold Digger | 8.00% | ~166 |
+| Monster Hunter | 8.00% | ~166 |
+| Knuckle Sandwich | 8.00% | ~166 |
 | Getting the Gang Back Together | 7.00% | ~145 |
 | Healing Old Wounds | 6.00% | ~124 |
 | Who You Gonna Call? | 6.00% | ~124 |
@@ -60,7 +60,7 @@ Number of Ratings: 125  (23.09.2022)
 | Revenant | 0.50% | ~10 |
 | Winter Has Come | 0.40% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,068 (Ranked 253)  
+Progressed: 2,069 (Ranked 253)  
 Completed: 7 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,6 +262,7 @@ Completed: 7 (0.34%) (Ranked 254)
 | 2024-01-14 | 2,066 | 7 |
 | 2024-01-15 | 2,067 | 7 |
 | 2024-01-17 | 2,068 | 7 |
+| 2024-01-18 | 2,069 | 7 |
 ## Awards
 Max (Impact the Story): 29  (Ranked 532)  
 Sum: 29 (Ranked 550)  

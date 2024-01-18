@@ -2,10 +2,10 @@
   "ID": "dba7dabb038f40209c6075de144754de",
   "Name": "ZZT!",
   "ProductSlug": "zzt",
-  "Ranking_EOS_Progress": 227,
+  "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 312,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
     "PcReleaseDate": "1991-01-15T12:31:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3600,
+  "EOS_Progressed": 3601,
   "EOS_Completed": 171,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.75,
   "EosHistory": [
@@ -6604,6 +6604,11 @@
       "Time": "2024-01-18T16:09:46.8588632+00:00",
       "NumProgressed": 3600,
       "NumCompleted": 171
+    },
+    {
+      "Time": "2024-01-18T18:08:56.2911367+00:00",
+      "NumProgressed": 3601,
+      "NumCompleted": 171
     }
   ],
   "TotalAchievements": 5,
@@ -6615,7 +6620,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3600
+      "UsersEstimate": 3601
     },
     {
       "ID": "2",
@@ -6654,7 +6659,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3600,
+      "Progressed": 3601,
       "Completed": 171
     }
   ],
@@ -6662,8 +6667,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:14:39.9039103+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:08:56.2911363+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1839426+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:08:04.5301283+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:14:39.9039507+00:00"
+  "LastUpdate_Ratings": "2024-01-18T18:02:48.9424963+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:08:56.2912022+00:00"
 }

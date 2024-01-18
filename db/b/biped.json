@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10583,
+  "EOS_Progressed": 10584,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -17264,6 +17264,11 @@
       "Time": "2024-01-18T17:12:11.637343+00:00",
       "NumProgressed": 10583,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-18T18:05:45.7686397+00:00",
+      "NumProgressed": 10584,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17339,7 +17344,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2222
+      "UsersEstimate": 2223
     },
     {
       "ID": "4",
@@ -17379,7 +17384,7 @@
       "Name": "Sunset Ridge",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "9",
@@ -17394,7 +17399,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10583,
+      "Progressed": 10584,
       "Completed": 0
     }
   ],
@@ -17402,8 +17407,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-18T17:12:11.6373426+00:00",
+  "LastChanged_Achievements": "2024-01-18T18:05:45.7686392+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-18T17:00:59.2605861+00:00",
-  "LastUpdate_Achievements": "2024-01-18T17:12:11.6374469+00:00"
+  "LastUpdate_Ratings": "2024-01-18T17:59:43.5292866+00:00",
+  "LastUpdate_Achievements": "2024-01-18T18:05:45.7687465+00:00"
 }

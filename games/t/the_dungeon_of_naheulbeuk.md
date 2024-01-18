@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~91,997 |
-| Alt+F4 | 11.00% | ~27,350 |
+| Sowwy! | 37.00% | ~91,998 |
+| Alt+F4 | 11.00% | ~27,351 |
 | Where's that freaking Dwarf? | 9.00% | ~22,378 |
-| Déjà vu | 8.00% | ~19,891 |
-| Sock! SOCK! | 6.00% | ~14,918 |
-| Speedrun | 6.00% | ~14,918 |
+| Déjà vu | 8.00% | ~19,892 |
+| Sock! SOCK! | 6.00% | ~14,919 |
+| Speedrun | 6.00% | ~14,919 |
 | A beer, two curses, three companions | 5.00% | ~12,432 |
 | GG EZ | 5.00% | ~12,432 |
 | DM intervention | 5.00% | ~12,432 |
@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,486 |
 | We come in peace | 0.90% | ~2,238 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,989 |
-| Holistic Adventuring Party | 0.70% | ~1,740 |
-| Law and Order | 0.70% | ~1,740 |
+| Holistic Adventuring Party | 0.70% | ~1,741 |
+| Law and Order | 0.70% | ~1,741 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,492 |
 | I'd rather... Just... Sing! | 0.50% | ~1,243 |
 | It's been a hard day's night | 0.50% | ~1,243 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,640 (Ranked 73)  
+Progressed: 248,644 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 9 (0.00%) (Ranked 405)
 | 2024-01-15 | 248,300 | 9 |
 | 2024-01-16 | 248,418 | 9 |
 | 2024-01-17 | 248,553 | 9 |
-| 2024-01-18 | 248,640 | 9 |
+| 2024-01-18 | 248,644 | 9 |
 ## Awards
 Max (Character Customization): 272  (Ranked 278)  
 Sum: 575 (Ranked 331)  
