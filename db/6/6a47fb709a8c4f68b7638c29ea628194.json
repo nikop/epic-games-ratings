@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2399,
+  "EOS_Progressed": 2400,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3304,6 +3304,11 @@
       "Time": "2024-01-19T13:15:23.1967415+00:00",
       "NumProgressed": 2399,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T14:09:29.7748671+00:00",
+      "NumProgressed": 2400,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -3412,7 +3417,7 @@
       "Name": "First lap",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 1583
+      "UsersEstimate": 1584
     },
     {
       "ID": "PODIUM_1",
@@ -3444,7 +3449,7 @@
       "Name": "On the starting grid",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "RESEARCHED_2",
@@ -3595,14 +3600,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2399,
+      "Progressed": 2400,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:15:23.1967412+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:09:29.7748667+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:36.1155547+00:00",
   "LastUpdate_Ratings": "2024-01-19T13:07:22.4750795+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:15:23.1967808+00:00"
+  "LastUpdate_Achievements": "2024-01-19T14:09:29.7749029+00:00"
 }

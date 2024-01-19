@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2513,18 +2513,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 1127,
       "NumberOfAwardsMax": 691
+    },
+    {
+      "Time": "2024-01-19T13:59:24.1446179+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1131,
+      "NumberOfAwardsMax": 695
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1127,
-  "NumberOfAwardsMax": 691,
+  "NumberOfAwards": 1131,
+  "NumberOfAwardsMax": 695,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 691
+      "Count": 695
     },
     {
       "Text": "This game is Relaxing",
@@ -2581,7 +2587,7 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19702,
+  "EOS_Progressed": 19703,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 288,
   "EOS_NewCompleters": 4,
@@ -20931,6 +20937,11 @@
       "Time": "2024-01-19T13:16:22.7144508+00:00",
       "NumProgressed": 19702,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-19T14:10:12.6905726+00:00",
+      "NumProgressed": 19703,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -20990,7 +21001,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3743
+      "UsersEstimate": 3744
     },
     {
       "ID": "ACH08",
@@ -20998,7 +21009,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 9851
+      "UsersEstimate": 9852
     },
     {
       "ID": "ACH09",
@@ -21038,7 +21049,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3546
+      "UsersEstimate": 3547
     },
     {
       "ID": "ACH14",
@@ -21062,7 +21073,7 @@
       "Name": "Smooth Moves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3349
+      "UsersEstimate": 3350
     },
     {
       "ID": "ACH17",
@@ -21221,16 +21232,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19702,
+      "Progressed": 19703,
       "Completed": 81
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-19T11:59:33.7281434+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:16:22.7144505+00:00",
+  "LastChanged": "2024-01-19T13:59:24.1446177+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:10:12.6905724+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:05:31.1369265+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:16:22.7145562+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:59:24.1446182+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:10:12.6906639+00:00"
 }

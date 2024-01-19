@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21341,
+  "EOS_Progressed": 21342,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1045,
+  "EOS_NewPlayers": 1035,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17863,6 +17863,11 @@
       "Time": "2024-01-19T13:16:00.7010404+00:00",
       "NumProgressed": 21341,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-19T14:09:56.9251315+00:00",
+      "NumProgressed": 21342,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17947,7 +17952,7 @@
       "Name": "The Assistant",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "a_21",
@@ -17955,7 +17960,7 @@
       "Name": "The Blue Marl",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "a_22",
@@ -18122,7 +18127,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21341,
+      "Progressed": 21342,
       "Completed": 13
     }
   ],
@@ -18130,8 +18135,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:16:00.7010401+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:09:56.9251311+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9205684+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:03:09.1542441+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:16:00.7011489+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:57:46.284903+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:09:56.9252204+00:00"
 }

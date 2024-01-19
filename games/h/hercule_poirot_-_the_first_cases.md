@@ -41,7 +41,7 @@ Rating: 4.38 (Ranked 800)
 | Archibald Sterling | 26.00% | ~132 |
 | Viscount Edwin Van den Bosch | 26.00% | ~132 |
 | Exquisite Artwork | 25.00% | ~127 |
-| Well-prepared | 21.00% | ~106 |
+| Well-prepared | 22.00% | ~112 |
 | The Truth | 21.00% | ~106 |
 | What Else Did I Miss? | 19.00% | ~96 |
 | I Like an Audience | 19.00% | ~96 |

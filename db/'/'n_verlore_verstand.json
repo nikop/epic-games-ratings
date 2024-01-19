@@ -2,10 +2,10 @@
   "ID": "bcabb7efae0c4d0b9f652d6b232449d3",
   "Name": "\u0027n Verlore Verstand",
   "ProductSlug": "n-verlore-verstand-1d7f5b",
-  "Ranking_EOS_Progress": 523,
+  "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 489,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-13T22:00:00+00:00",
     "PcReleaseDate": "2016-02-01T10:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -404,6 +404,11 @@
       "Time": "2024-01-13T12:09:52.2503817+00:00",
       "NumProgressed": 81,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T14:09:32.3837698+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -415,7 +420,7 @@
       "Name": "Start of a Journey",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "10",
@@ -503,7 +508,7 @@
       "Name": "Escape the Maze",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "20",
@@ -567,7 +572,7 @@
       "Name": "A thing of beauty",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "28",
@@ -589,7 +594,7 @@
       "ID": "3",
       "SetID": "6m1k8ai",
       "Name": "Brace the cold",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 5,
       "UsersEstimate": 33
     },
@@ -677,7 +682,7 @@
       "ID": "4",
       "SetID": "6m1k8ai",
       "Name": "A Long Walk",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 5,
       "UsersEstimate": 32
     },
@@ -798,14 +803,14 @@
     {
       "ID": "6m1k8ai",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-02T12:00:06.1215649+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:54.1443777+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:15:26.742583+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:09:32.3837694+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.6674424+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:08:43.921954+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:15:26.7426315+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:03:18.2576221+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:09:32.3838013+00:00"
 }

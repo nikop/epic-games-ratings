@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 387,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 448,
+  "EOS_Progressed": 449,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -1059,6 +1059,11 @@
       "Time": "2024-01-18T21:04:55.8209715+00:00",
       "NumProgressed": 448,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T14:04:07.6969396+00:00",
+      "NumProgressed": 449,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1172,9 +1177,9 @@
       "ID": "PARPLIN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Third Commander",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 60,
-      "UsersEstimate": 67
+      "UsersEstimate": 63
     },
     {
       "ID": "PET_DOG",
@@ -1197,7 +1202,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 448,
+      "Progressed": 449,
       "Completed": 4
     }
   ],
@@ -1205,8 +1210,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:09:52.5220944+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:04:07.6969392+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:26.0379231+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:07:33.0722217+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:09:52.5221086+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:02:44.0647304+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:04:07.696952+00:00"
 }

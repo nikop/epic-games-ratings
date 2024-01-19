@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 715,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 430,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
     "PcReleaseDate": "2022-09-27T20:00:00+00:00",
@@ -73,17 +73,17 @@
       "ID": "BREAK_CAM",
       "SetID": "39bcm6",
       "Name": "Process THIS!",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CHAIR_HELL",
       "SetID": "39bcm6",
       "Name": "BEWARE THE CHAIR",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DEBUG_GLASSES",
@@ -129,9 +129,9 @@
       "ID": "HAMMER_ACQUIRE",
       "SetID": "39bcm6",
       "Name": "J-MC Hammer",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "IMMOVABLE",
@@ -161,9 +161,9 @@
       "ID": "LEVEL_3_ENTER",
       "SetID": "39bcm6",
       "Name": "Just a Slight Detour",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "MICROWAVE",
@@ -255,8 +255,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:12:09.183284+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:05:46.0598943+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:06:06.8892254+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:12:09.1832975+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:59:48.0327388+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:05:46.0599058+00:00"
 }

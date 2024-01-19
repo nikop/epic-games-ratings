@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 318,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -1225,9 +1225,9 @@
       "ID": "id_30",
       "SetID": "bk9jib6",
       "Name": "Beginner",
-      "Percentage": 89,
+      "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 186
     },
     {
       "ID": "id_32",
@@ -1506,8 +1506,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-15T06:57:50.024963+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:16:27.4088528+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:10:16.242695+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.9157484+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:06:21.3242884+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:16:27.4088838+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:59:57.277493+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:10:16.2427358+00:00"
 }

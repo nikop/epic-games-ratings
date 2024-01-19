@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 136,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40725,
+  "EOS_Progressed": 40729,
   "EOS_Completed": 126,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 338,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -24488,6 +24488,11 @@
       "Time": "2024-01-19T13:14:33.2443944+00:00",
       "NumProgressed": 40725,
       "NumCompleted": 126
+    },
+    {
+      "Time": "2024-01-19T14:08:54.0548686+00:00",
+      "NumProgressed": 40729,
+      "NumCompleted": 126
     }
   ],
   "TotalAchievements": 14,
@@ -24515,7 +24520,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10588
+      "UsersEstimate": 10590
     },
     {
       "ID": "allItems",
@@ -24523,7 +24528,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "allSecrets",
@@ -24547,7 +24552,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3666
     },
     {
       "ID": "completionist",
@@ -24579,7 +24584,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9774
+      "UsersEstimate": 9775
     },
     {
       "ID": "firstItem",
@@ -24587,7 +24592,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 30951
+      "UsersEstimate": 30954
     },
     {
       "ID": "roots",
@@ -24595,7 +24600,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6923
+      "UsersEstimate": 6924
     },
     {
       "ID": "secretItem",
@@ -24610,15 +24615,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40725,
+      "Progressed": 40729,
       "Completed": 126
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:14:33.2443941+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:08:54.0548682+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.6261434+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:04:31.1402438+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:14:33.2445789+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:58:41.3521714+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:08:54.0550298+00:00"
 }

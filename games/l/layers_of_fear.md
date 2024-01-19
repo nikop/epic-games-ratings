@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~287 |
-| A piece of the story | 66.00% | ~220 |
-| It's covered up for a reason | 60.00% | ~200 |
-| Wanderer | 56.00% | ~187 |
+| Something important | 86.00% | ~288 |
+| A piece of the story | 66.00% | ~221 |
+| It's covered up for a reason | 60.00% | ~201 |
+| Wanderer | 56.00% | ~188 |
 | Scraps of love | 52.00% | ~174 |
-| The artist’s impression | 51.00% | ~170 |
+| The artist’s impression | 51.00% | ~171 |
 | Do what you have to | 46.00% | ~154 |
 | Sign of weakness | 43.00% | ~144 |
 | Refuse to look | 38.00% | ~127 |
-| Face your fears | 33.00% | ~110 |
+| Face your fears | 33.00% | ~111 |
 | Finished it | 27.00% | ~90 |
-| Whispers long forgotten | 19.00% | ~63 |
+| Whispers long forgotten | 19.00% | ~64 |
 | Sound Bite | 15.00% | ~50 |
 | The art of movement | 14.00% | ~47 |
-| Another perspective | 13.00% | ~43 |
-| A Slice of Life | 13.00% | ~43 |
-| Debut | 13.00% | ~43 |
-| Lights! Camera! Action! | 13.00% | ~43 |
+| Another perspective | 13.00% | ~44 |
+| A Slice of Life | 13.00% | ~44 |
+| Debut | 13.00% | ~44 |
+| Lights! Camera! Action! | 13.00% | ~44 |
 | Playtime | 11.00% | ~37 |
 | Tough conversation | 11.00% | ~37 |
-| A new way | 10.00% | ~33 |
-| Breaking free | 10.00% | ~33 |
-| First steps | 10.00% | ~33 |
-| The tragedy unfolds | 10.00% | ~33 |
+| A new way | 10.00% | ~34 |
+| Breaking free | 10.00% | ~34 |
+| First steps | 10.00% | ~34 |
+| The tragedy unfolds | 10.00% | ~34 |
 | Heavy Burden | 8.00% | ~27 |
 | True Reflection | 8.00% | ~27 |
 | Casting Finished | 7.00% | ~23 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 334 (Ranked 392)  
+Progressed: 335 (Ranked 392)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -144,3 +144,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 329 | 0 |
 | 2024-01-17 | 331 | 0 |
 | 2024-01-18 | 334 | 0 |
+| 2024-01-19 | 335 | 0 |

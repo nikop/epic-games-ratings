@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,091 |
-| Space Colonization | 79.00% | ~897 |
-| Friendzone | 77.00% | ~875 |
-| Hello World | 73.00% | ~829 |
-| Space Engineer | 61.00% | ~693 |
-| Tinkerer | 61.00% | ~693 |
-| Dust to Dust | 57.00% | ~648 |
-| Across The Stars | 45.00% | ~511 |
-| Crafty | 43.00% | ~488 |
-| All Seats Taken | 35.00% | ~398 |
-| For Science! | 31.00% | ~352 |
-| Meet the Petersons | 30.00% | ~341 |
-| Stay Cool | 27.00% | ~307 |
-| KIA | 26.00% | ~295 |
-| Mutiny in making | 22.00% | ~250 |
-| Et tu, Astrocitizen? | 18.00% | ~204 |
-| Eco-Shuttle | 17.00% | ~193 |
+| Don't Panic! | 96.00% | ~1,093 |
+| Space Colonization | 79.00% | ~900 |
+| Friendzone | 77.00% | ~877 |
+| Hello World | 73.00% | ~831 |
+| Space Engineer | 61.00% | ~695 |
+| Tinkerer | 61.00% | ~695 |
+| Dust to Dust | 57.00% | ~649 |
+| Across The Stars | 45.00% | ~513 |
+| Crafty | 43.00% | ~490 |
+| All Seats Taken | 35.00% | ~399 |
+| For Science! | 31.00% | ~353 |
+| Meet the Petersons | 30.00% | ~342 |
+| Stay Cool | 27.00% | ~308 |
+| KIA | 26.00% | ~296 |
+| Mutiny in making | 22.00% | ~251 |
+| Eco-Shuttle | 17.00% | ~194 |
+| Et tu, Astrocitizen? | 17.00% | ~194 |
 | Space Explorer | 14.00% | ~159 |
 | Gold Medalist | 11.00% | ~125 |
 | Hands Full | 11.00% | ~125 |
@@ -32,8 +32,8 @@
 | Fix-It Felix | 6.00% | ~68 |
 | Flawless Maegangement | 6.00% | ~68 |
 | Axel jump in space! | 5.00% | ~57 |
-| Extreme Makeover | 4.00% | ~45 |
-| The Last Supper | 4.00% | ~45 |
+| Extreme Makeover | 4.00% | ~46 |
+| The Last Supper | 4.00% | ~46 |
 | The Improvinator | 3.00% | ~34 |
 | 2018: A Soup Odyssey | 2.00% | ~23 |
 | That's No Moon! | 2.00% | ~23 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,136 (Ranked 292)  
+Progressed: 1,139 (Ranked 292)  
 Completed: 1 (0.09%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 1 (0.09%) (Ranked 324)
 | 2024-01-16 | 870 | 1 |
 | 2024-01-17 | 981 | 1 |
 | 2024-01-18 | 1,088 | 1 |
-| 2024-01-19 | 1,136 | 1 |
+| 2024-01-19 | 1,139 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

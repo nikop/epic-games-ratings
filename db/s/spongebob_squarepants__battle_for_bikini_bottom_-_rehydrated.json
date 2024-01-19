@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1092,
+  "EOS_Progressed": 1093,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
@@ -3043,6 +3043,11 @@
       "Time": "2024-01-19T13:10:09.8126185+00:00",
       "NumProgressed": 1092,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-19T14:04:20.4828782+00:00",
+      "NumProgressed": 1093,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3053,9 +3058,9 @@
       "ID": "ACH_ALL_ROBOTS",
       "SetID": "biiejkc",
       "Name": "Robot encyclopedia",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 66
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -3063,7 +3068,7 @@
       "Name": "Are you ready now?",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -3111,7 +3116,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -3310,15 +3315,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1092,
+      "Progressed": 1093,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:10:09.8126183+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:04:20.4828778+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:04:29.9224012+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:10:09.8126602+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:58:40.4992247+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:04:20.4829157+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47818,
+  "EOS_Progressed": 47820,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -14746,6 +14746,11 @@
       "Time": "2024-01-19T13:15:36.0295931+00:00",
       "NumProgressed": 47818,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2024-01-19T14:09:39.0932634+00:00",
+      "NumProgressed": 47820,
+      "NumCompleted": 243
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14766,7 +14771,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 6216
+      "UsersEstimate": 6217
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -14902,7 +14907,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 10998
+      "UsersEstimate": 10999
     },
     {
       "ID": "ACH_HUB2",
@@ -14910,7 +14915,7 @@
       "Name": "Path to Salvation",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8607
+      "UsersEstimate": 8608
     },
     {
       "ID": "ACH_OASIS",
@@ -14918,7 +14923,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24865
+      "UsersEstimate": 24866
     },
     {
       "ID": "ACH_PEAK",
@@ -14926,7 +14931,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 10998
+      "UsersEstimate": 10999
     },
     {
       "ID": "ACH_PROPELL",
@@ -14950,7 +14955,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32516
+      "UsersEstimate": 32518
     },
     {
       "ID": "ACH_S4",
@@ -14958,7 +14963,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 23909
+      "UsersEstimate": 23910
     },
     {
       "ID": "ACH_S5",
@@ -14974,7 +14979,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35864
+      "UsersEstimate": 35865
     },
     {
       "ID": "ACH_STATUE",
@@ -14982,22 +14987,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20562
+      "UsersEstimate": 20563
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47818,
+      "Progressed": 47820,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:15:36.0295928+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:09:39.0932632+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:20.0193731+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:02:21.4083684+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:15:36.0296863+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:57:15.1328594+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:09:39.0933553+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 46.00% | ~567 |
+| Adept | 47.00% | ~580 |
 | Double Kill | 41.00% | ~506 |
 | Critical Hit | 23.00% | ~284 |
 | Veteran | 23.00% | ~284 |
@@ -43,11 +43,11 @@ Number of Ratings: 292  (23.09.2022)
 | Attack Bonanza | 0.30% | ~4 |
 | Fully Charged | 0.30% | ~4 |
 | Barbecue | 0.30% | ~4 |
+| Bringer of Ruin | 0.20% | ~2 |
 | Hello There | 0.20% | ~2 |
 | An Empress's Hope | 0.20% | ~2 |
 | Oops! | 0.20% | ~2 |
 | The Marsh Expands | 0.20% | ~2 |
-| Bringer of Ruin | 0.10% | ~1 |
 | Kneel, peasant! | 0.10% | ~1 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,233 (Ranked 287)  
+Progressed: 1,234 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,7 +131,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 1,212 | 0 |
 | 2024-01-17 | 1,218 | 0 |
 | 2024-01-18 | 1,231 | 0 |
-| 2024-01-19 | 1,233 | 0 |
+| 2024-01-19 | 1,234 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 527)  
 Sum: 252 (Ranked 401)  

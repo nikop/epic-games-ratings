@@ -18716,10 +18716,10 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1054885,
-  "EOS_Completed": 3126,
-  "EOS_NewPlayers": 7309,
-  "EOS_NewCompleters": 51,
+  "EOS_Progressed": 1054927,
+  "EOS_Completed": 3127,
+  "EOS_NewPlayers": 7251,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50116,6 +50116,11 @@
       "Time": "2024-01-19T13:14:49.1808154+00:00",
       "NumProgressed": 1054885,
       "NumCompleted": 3126
+    },
+    {
+      "Time": "2024-01-19T14:09:05.4822398+00:00",
+      "NumProgressed": 1054927,
+      "NumCompleted": 3127
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50398,9 +50403,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 2110
+      "UsersEstimate": 3165
     },
     {
       "ID": "ThisIsPacifica",
@@ -50663,21 +50668,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054885,
-      "Completed": 3126
+      "Progressed": 1054927,
+      "Completed": 3127
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183508,
-      "Completed": 10657
+      "Progressed": 183550,
+      "Completed": 10659
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-19T12:03:47.271056+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:14:49.1808151+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:09:05.4822395+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:08:43.0487485+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:14:49.1810562+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:03:17.7263723+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:09:05.4824245+00:00"
 }

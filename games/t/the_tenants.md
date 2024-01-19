@@ -93,7 +93,7 @@ Number of Ratings: 82  (23.09.2022)
 | White House | 0.00% | ~0 |
 | Wondersville Magnate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,799 (Ranked 186)  
+Progressed: 9,800 (Ranked 186)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -208,6 +208,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-14 | 9,796 | 0 |
 | 2024-01-15 | 9,797 | 0 |
 | 2024-01-17 | 9,799 | 0 |
+| 2024-01-19 | 9,800 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

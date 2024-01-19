@@ -5,24 +5,24 @@ Rating: 4.29 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~166,877 |
-| Copacetic Coordination | 16.00% | ~58,044 |
-| Fronting the Money | 15.00% | ~54,416 |
+| Corner Clout | 46.00% | ~166,880 |
+| Copacetic Coordination | 16.00% | ~58,045 |
+| Fronting the Money | 15.00% | ~54,417 |
 | The Dawn of Automation | 14.00% | ~50,789 |
 | Extraordinary Logistics | 14.00% | ~50,789 |
-| Dirty Money | 13.00% | ~47,161 |
-| Family First | 13.00% | ~47,161 |
-| Cleaning House | 12.00% | ~43,533 |
-| Room in the Back | 12.00% | ~43,533 |
-| Beating the Heat | 11.00% | ~39,905 |
-| Booze Baron | 11.00% | ~39,905 |
+| Dirty Money | 13.00% | ~47,162 |
+| Family First | 13.00% | ~47,162 |
+| Cleaning House | 12.00% | ~43,534 |
+| Room in the Back | 12.00% | ~43,534 |
+| Beating the Heat | 11.00% | ~39,906 |
+| Booze Baron | 11.00% | ~39,906 |
 | Friends on the Force | 10.00% | ~36,278 |
 | Neighborhood Watch | 10.00% | ~36,278 |
-| Core Corps | 8.00% | ~29,022 |
-| Sizeable Stash | 8.00% | ~29,022 |
-| Street Fighter | 7.00% | ~25,394 |
-| Friendly Gestures | 7.00% | ~25,394 |
-| People Person | 7.00% | ~25,394 |
+| Core Corps | 8.00% | ~29,023 |
+| Sizeable Stash | 8.00% | ~29,023 |
+| Street Fighter | 7.00% | ~25,395 |
+| Friendly Gestures | 7.00% | ~25,395 |
+| People Person | 7.00% | ~25,395 |
 | Liquor Lord | 6.00% | ~21,767 |
 | Safety in Numbers | 6.00% | ~21,767 |
 | Moving Experiences | 6.00% | ~21,767 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 887)
 | High Pillow | 0.10% | ~363 |
 | Station Master | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 362,776 (Ranked 58)  
+Progressed: 362,782 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 7 (0.00%) (Ranked 405)
 | 2024-01-16 | 362,447 | 7 |
 | 2024-01-17 | 362,581 | 7 |
 | 2024-01-18 | 362,713 | 7 |
-| 2024-01-19 | 362,776 | 7 |
+| 2024-01-19 | 362,782 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 439)  
 Sum: 274 (Ranked 395)  

@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 334,
+  "EOS_Progressed": 335,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1489,6 +1489,11 @@
       "Time": "2024-01-18T23:09:35.6912088+00:00",
       "NumProgressed": 334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T14:09:12.7766697+00:00",
+      "NumProgressed": 335,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1501,7 +1506,7 @@
       "Name": "A new way",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "another_perspective",
@@ -1509,7 +1514,7 @@
       "Name": "Another perspective",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "assemble_puzzles",
@@ -1525,7 +1530,7 @@
       "Name": "Breaking free",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "casting_finished",
@@ -1581,7 +1586,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "decrypt_one_myth",
@@ -1629,7 +1634,7 @@
       "Name": "Face your fears",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1661,7 +1666,7 @@
       "Name": "A Slice of Life",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "find_one_poster",
@@ -1669,7 +1674,7 @@
       "Name": "Debut",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "find_one_rat_sketch",
@@ -1677,7 +1682,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "finished_it",
@@ -1693,7 +1698,7 @@
       "Name": "First steps",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1749,7 +1754,7 @@
       "Name": "Lights! Camera! Action!",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "once_upon_a_time",
@@ -1773,7 +1778,7 @@
       "Name": "A piece of the story",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "playtime",
@@ -1837,7 +1842,7 @@
       "Name": "Something important",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "spy_one_item",
@@ -1869,7 +1874,7 @@
       "Name": "The tragedy unfolds",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "tough_conversation",
@@ -1901,7 +1906,7 @@
       "Name": "Wanderer",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1909,21 +1914,21 @@
       "Name": "Whispers long forgotten",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 334,
+      "Progressed": 335,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:14:59.2507268+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:09:12.7766693+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:06:09.193456+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:14:59.2507939+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:59:49.8615561+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:09:12.7767086+00:00"
 }

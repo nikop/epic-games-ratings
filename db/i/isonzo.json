@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,7 +1087,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9996,
+  "EOS_Progressed": 9997,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -11342,6 +11342,11 @@
       "Time": "2024-01-19T13:15:42.7192292+00:00",
       "NumProgressed": 9996,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T14:09:43.7934236+00:00",
+      "NumProgressed": 9997,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11369,7 +11374,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4398
+      "UsersEstimate": 4399
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11497,7 +11502,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1599
+      "UsersEstimate": 1600
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11545,7 +11550,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4498
+      "UsersEstimate": 4499
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11593,7 +11598,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11649,7 +11654,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1399
+      "UsersEstimate": 1400
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -11689,7 +11694,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1299
+      "UsersEstimate": 1300
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -11712,7 +11717,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9996,
+      "Progressed": 9997,
       "Completed": 10
     }
   ],
@@ -11720,8 +11725,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:15:42.7192291+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:09:43.7934233+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:07:34.0889389+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:15:42.7193199+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:02:44.5791911+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:09:43.793513+00:00"
 }

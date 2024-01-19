@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -253,7 +253,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9130,
+  "EOS_Progressed": 9132,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -10443,6 +10443,11 @@
       "Time": "2024-01-19T13:16:28.9123494+00:00",
       "NumProgressed": 9130,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T14:10:17.4338465+00:00",
+      "NumProgressed": 9132,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10463,7 +10468,7 @@
       "Name": "A Thorny Situation",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -10607,7 +10612,7 @@
       "Name": "... And Spit Back Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "DISPATCH_CLOUDS",
@@ -10798,13 +10803,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9130,
+      "Progressed": 9132,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1747,
+      "Progressed": 1749,
       "Completed": 1050
     }
   ],
@@ -10812,8 +10817,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-12T15:03:42.669795+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:16:28.9123491+00:00",
-  "LastUpdate_AppInfo": "2024-01-12T13:02:37.7520011+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:08:54.1117312+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:16:28.9124312+00:00"
+  "LastChanged_Achievements": "2024-01-19T14:10:17.4338462+00:00",
+  "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
+  "LastUpdate_Ratings": "2024-01-19T14:03:25.249883+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:10:17.4339222+00:00"
 }

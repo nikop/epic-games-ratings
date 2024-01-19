@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 220,
   "Ranking_EOS_NewPlayers": 251,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 531,
+  "EOS_Progressed": 532,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -2069,6 +2069,11 @@
       "Time": "2024-01-19T04:05:01.4263665+00:00",
       "NumProgressed": 531,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T14:05:17.0448435+00:00",
+      "NumProgressed": 532,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2089,7 +2094,7 @@
       "Name": "Empire",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AC_ALL_MONEYSACKS",
@@ -2145,7 +2150,7 @@
       "Name": "Ludopath",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AC_BOSS_00",
@@ -2153,7 +2158,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "AC_BOSS_01",
@@ -2185,7 +2190,7 @@
       "Name": "Heresy",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AC_COMBO_1",
@@ -2225,7 +2230,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "AC_DEATH_2",
@@ -2233,7 +2238,7 @@
       "Name": "Carcass",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AC_DEATH_3",
@@ -2257,7 +2262,7 @@
       "Name": "Psycopath",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2273,7 +2278,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 425
+      "UsersEstimate": 426
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2289,7 +2294,7 @@
       "Name": "Voyage",
       "Percentage": 30,
       "XP": 45,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2329,7 +2334,7 @@
       "Name": "Vision",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -2337,7 +2342,7 @@
       "Name": "Winner",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2353,15 +2358,15 @@
       "Name": "Gun",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "AC_RECIPES_DONE_1",
       "SetID": "16i2akc",
       "Name": "Cook",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 74
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2385,7 +2390,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2416,14 +2421,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 531,
+      "Progressed": 532,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:11:28.5262186+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:05:17.0448432+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:07:29.4590395+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:11:28.5262743+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:02:41.6494075+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:05:17.0448788+00:00"
 }

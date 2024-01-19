@@ -4007,9 +4007,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20886,
+  "EOS_Progressed": 20888,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20027,6 +20027,11 @@
       "Time": "2024-01-19T13:13:53.9018281+00:00",
       "NumProgressed": 20886,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-19T14:08:40.246871+00:00",
+      "NumProgressed": 20888,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20119,7 +20124,7 @@
       "Name": "Homesick",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinFirstGame",
@@ -20151,7 +20156,7 @@
       "Name": "Ruined Armory",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinNearBandit",
@@ -20199,7 +20204,7 @@
       "Name": "Fertile Meadows",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinNearFishmen",
@@ -20231,7 +20236,7 @@
       "Name": "Levitating Monument",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinNearMines",
@@ -20247,7 +20252,7 @@
       "Name": "Monastery of the Holy Flame",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinNearOutpost",
@@ -20263,7 +20268,7 @@
       "Name": "Lost Colonies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinNearStatue",
@@ -20287,7 +20292,7 @@
       "Name": "Corrosive Torrent",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinNearWatchtower",
@@ -20407,7 +20412,7 @@
       "Name": "Trade Baron",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinWithoutDeath",
@@ -20495,7 +20500,7 @@
       "Name": "Untamed Wilds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "WinWithFoxes",
@@ -20510,15 +20515,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20886,
+      "Progressed": 20888,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-19T03:00:38.4221467+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:13:53.9018279+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:08:40.2468707+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:06:03.8122972+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:13:53.9019477+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:59:45.8747184+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:08:40.2469853+00:00"
 }

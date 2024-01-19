@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2873,
+  "EOS_Progressed": 2874,
   "EOS_Completed": 221,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 24,
   "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
@@ -7654,6 +7654,11 @@
       "Time": "2024-01-19T13:10:58.8381297+00:00",
       "NumProgressed": 2873,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2024-01-19T14:04:55.8296446+00:00",
+      "NumProgressed": 2874,
+      "NumCompleted": 221
     }
   ],
   "TotalAchievements": 25,
@@ -7665,7 +7670,7 @@
       "Name": "I did it",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 804
+      "UsersEstimate": 805
     },
     {
       "ID": "END_GOOD",
@@ -7697,7 +7702,7 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "META_HALF_LINK",
@@ -7777,7 +7782,7 @@
       "Name": "True G3M4R",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7825,7 +7830,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1551
+      "UsersEstimate": 1552
     },
     {
       "ID": "PROGRESS_N2",
@@ -7833,7 +7838,7 @@
       "Name": "The great escape",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1350
+      "UsersEstimate": 1351
     },
     {
       "ID": "PROGRESS_N3",
@@ -7864,7 +7869,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2873,
+      "Progressed": 2874,
       "Completed": 221
     }
   ],
@@ -7872,8 +7877,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:10:58.8381294+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:04:55.8296443+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:03:15.8156918+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:10:58.8381677+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:57:50.7751751+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:04:55.8297093+00:00"
 }

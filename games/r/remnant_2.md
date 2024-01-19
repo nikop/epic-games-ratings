@@ -5,32 +5,32 @@ Rating: 4.72 (Ranked 197)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,531 |
-| First of Many | 12.00% | ~35,531 |
-| Not Your Average Trait | 10.00% | ~29,609 |
-| Expanding Horizons | 9.00% | ~26,648 |
-| Gleaming the Cube | 8.00% | ~23,687 |
-| Quest for Survival | 8.00% | ~23,687 |
-| Familiar Face | 8.00% | ~23,687 |
-| Boss'n Up | 8.00% | ~23,687 |
-| Trait Chaser | 8.00% | ~23,687 |
-| Not So Special Now | 7.00% | ~20,726 |
-| Not a Janitor | 7.00% | ~20,726 |
-| Duality | 7.00% | ~20,726 |
-| Equal Measures | 6.00% | ~17,765 |
-| Blue Goddess | 6.00% | ~17,765 |
-| Top Performer | 6.00% | ~17,765 |
-| Almost There | 6.00% | ~17,765 |
-| Make Some Room | 6.00% | ~17,765 |
-| Good, But Could Be Better! | 6.00% | ~17,765 |
-| Am I Seeing This? | 5.00% | ~14,804 |
-| Chaos | 5.00% | ~14,804 |
-| Power Surge | 5.00% | ~14,804 |
-| The God Gambit | 5.00% | ~14,804 |
-| Dark Designs | 5.00% | ~14,804 |
-| Shhh...It's a Secret | 5.00% | ~14,804 |
-| Was This Supposed To Happen? | 5.00% | ~14,804 |
-| The Web | 5.00% | ~14,804 |
+| The Killing Jar | 12.00% | ~35,533 |
+| First of Many | 12.00% | ~35,533 |
+| Not Your Average Trait | 10.00% | ~29,611 |
+| Expanding Horizons | 9.00% | ~26,650 |
+| Gleaming the Cube | 8.00% | ~23,689 |
+| Quest for Survival | 8.00% | ~23,689 |
+| Familiar Face | 8.00% | ~23,689 |
+| Boss'n Up | 8.00% | ~23,689 |
+| Trait Chaser | 8.00% | ~23,689 |
+| Not So Special Now | 7.00% | ~20,728 |
+| Not a Janitor | 7.00% | ~20,728 |
+| Duality | 7.00% | ~20,728 |
+| Equal Measures | 6.00% | ~17,767 |
+| Blue Goddess | 6.00% | ~17,767 |
+| Top Performer | 6.00% | ~17,767 |
+| Almost There | 6.00% | ~17,767 |
+| Make Some Room | 6.00% | ~17,767 |
+| Good, But Could Be Better! | 6.00% | ~17,767 |
+| Am I Seeing This? | 5.00% | ~14,806 |
+| Chaos | 5.00% | ~14,806 |
+| Power Surge | 5.00% | ~14,806 |
+| The God Gambit | 5.00% | ~14,806 |
+| Dark Designs | 5.00% | ~14,806 |
+| Shhh...It's a Secret | 5.00% | ~14,806 |
+| Was This Supposed To Happen? | 5.00% | ~14,806 |
+| The Web | 5.00% | ~14,806 |
 | Traitor | 4.00% | ~11,844 |
 | Forever is a Long Time Coming | 4.00% | ~11,844 |
 | Madman's Paradise | 4.00% | ~11,844 |
@@ -61,7 +61,7 @@ Rating: 4.72 (Ranked 197)
 | You Shall Pass | 0.80% | ~602 |
 | A Foul Feast | 0.50% | ~376 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,090 (Ranked 66)  
+Progressed: 296,110 (Ranked 66)  
 Completed: 1,144 (0.39%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,24 +248,24 @@ Completed: 1,144 (0.39%) (Ranked 249)
 | 2024-01-16 | 294,750 | 1,101 |
 | 2024-01-17 | 295,280 | 1,119 |
 | 2024-01-18 | 295,787 | 1,138 |
-| 2024-01-19 | 296,090 | 1,144 |
+| 2024-01-19 | 296,110 | 1,144 |
 ## Awards
 Max (Great Boss Battles): 7,224  (Ranked 58)  
-Sum: 16,366 (Ranked 70)  
-Diff (max vs sum): -12  
+Sum: 16,392 (Ranked 69)  
+Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,224 |
 | This game is Highly Recommended | 1,033 |
 | This game has Diverse Characters | 996 |
+| This game has Challenging Combat | 961 |
 | This game is Extremely Fun | 950 |
 | This game has Quickly Understood Controls | 944 |
-| This game has Challenging Combat | 942 |
 | This game is Relaxing | 940 |
 | This game has Amazing Storytelling | 939 |
 | This game has Amazing Characters | 907 |
 | This game has Unique Visuals | 830 |
-| This game has a Creative Community | 661 |
+| This game has a Creative Community | 668 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -446,4 +446,4 @@ Diff (max vs sum): -12
 | 2024-01-16 | 4.72 | 6,998 | 15,811 |
 | 2024-01-17 | 4.72 | 7,080 | 16,044 |
 | 2024-01-18 | 4.72 | 7,166 | 16,280 |
-| 2024-01-19 | 4.72 | 7,224 | 16,366 |
+| 2024-01-19 | 4.72 | 7,224 | 16,392 |

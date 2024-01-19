@@ -2,13 +2,13 @@
   "ID": "dc09ae8f1aa445b7853b5300c2345d81",
   "Name": "Metalstorm",
   "ProductSlug": "metalstorm",
-  "Ranking_Rating": 774,
+  "Ranking_Rating": 763,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 547,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-14T19:00:00+00:00",
     "PcReleaseDate": "2023-11-14T19:00:00+00:00",
@@ -23,7 +23,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-11-25T02:17:36.1236478+00:00",
@@ -402,6 +402,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-19T13:58:27.5657918+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -428,9 +434,9 @@
   "FirstSeen": "2023-11-14T23:58:41.9992254+00:00",
   "FirstSeenRating": "2023-11-25T02:17:36.1236475+00:00",
   "FirstSeenAchievements": "2024-01-11T17:07:21.0457989+00:00",
-  "LastChanged": "2024-01-17T20:57:25.4018508+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:12:00.2702647+00:00",
+  "LastChanged": "2024-01-19T13:58:27.5657916+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:05:39.6491979+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:45.4487862+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:04:11.5056448+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:12:00.2702668+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:58:27.565792+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:05:39.6492007+00:00"
 }

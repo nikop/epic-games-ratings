@@ -142,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.50% | ~85 |
 | Turreted Elephant | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
+| Jebel Barkal | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
@@ -151,13 +152,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | No Undo | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
 | Cothon | 0.40% | ~68 |
-| Jebel Barkal | 0.40% | ~68 |
 | The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
+| Beja Archer | 0.30% | ~51 |
 | Al Khazneh | 0.30% | ~51 |
 | Colosseum | 0.30% | ~51 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
@@ -184,7 +185,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conquest Victory | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
 | Kush | 0.20% | ~34 |
-| Beja Archer | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |

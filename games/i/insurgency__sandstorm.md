@@ -6,11 +6,11 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,341 |
-| Wallbanger | 5.00% | ~26,341 |
-| Exploitative | 4.00% | ~21,073 |
-| High Speed Low Drag | 4.00% | ~21,073 |
-| Wet Feet | 4.00% | ~21,073 |
+| Point Shooting | 5.00% | ~26,342 |
+| Wallbanger | 5.00% | ~26,342 |
+| Exploitative | 4.00% | ~21,074 |
+| High Speed Low Drag | 4.00% | ~21,074 |
+| Wet Feet | 4.00% | ~21,074 |
 | Checkpoint Victory | 3.00% | ~15,805 |
 | Lucky | 3.00% | ~15,805 |
 | Stylin' | 3.00% | ~15,805 |
@@ -23,10 +23,10 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~5,268 |
 | Ruthless | 1.00% | ~5,268 |
 | Semper Paratus | 1.00% | ~5,268 |
-| Carrying | 0.90% | ~4,741 |
-| Efficient | 0.90% | ~4,741 |
-| Mount & Gun | 0.90% | ~4,741 |
-| Personal | 0.90% | ~4,741 |
+| Carrying | 0.90% | ~4,742 |
+| Efficient | 0.90% | ~4,742 |
+| Mount & Gun | 0.90% | ~4,742 |
+| Personal | 0.90% | ~4,742 |
 | Grounded | 0.80% | ~4,215 |
 | Play to Win | 0.80% | ~4,215 |
 | Special Delivery | 0.70% | ~3,688 |
@@ -34,15 +34,15 @@ Number of Ratings: 1,316  (23.09.2022)
 | #1 | 0.60% | ~3,161 |
 | Cinematic | 0.50% | ~2,634 |
 | Thanks Station! | 0.40% | ~2,107 |
-| Knock Knock | 0.30% | ~1,580 |
-| There For You | 0.30% | ~1,580 |
+| Knock Knock | 0.30% | ~1,581 |
+| There For You | 0.30% | ~1,581 |
 | Hit and Run | 0.20% | ~1,054 |
 | Designated Driver | 0.10% | ~527 |
 | J.R. .50 | 0.10% | ~527 |
 | It's All in the Reflexes | 0.10% | ~527 |
 | Road Hazard | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,828 (Ranked 40)  
+Progressed: 526,840 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 2 (0.00%) (Ranked 405)
 | 2024-01-16 | 525,809 | 2 |
 | 2024-01-17 | 526,256 | 2 |
 | 2024-01-18 | 526,642 | 2 |
-| 2024-01-19 | 526,828 | 2 |
+| 2024-01-19 | 526,840 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 421  (Ranked 238)  
 Sum: 3,411 (Ranked 177)  

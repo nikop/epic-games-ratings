@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 376,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1847,9 +1847,9 @@
       "ID": "DenyingDestiny",
       "SetID": "1jeo1g7",
       "Name": "Denying Destiny",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "DiceSpecialist",
@@ -2430,8 +2430,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:15:03.7928108+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:09:15.9461802+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5704794+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:06:44.1786773+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:15:03.7929844+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:00:11.5922582+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:09:15.9462732+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 413,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1177,9 +1177,9 @@
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "GoingPlaces",
@@ -1360,8 +1360,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:10:58.7321566+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:04:55.6969022+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.8775637+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:08:48.8316684+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:10:58.7321959+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:03:21.6978058+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:04:55.6969194+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1709,7 +1709,7 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 8007,
+  "EOS_Progressed": 8008,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
@@ -17049,6 +17049,11 @@
       "Time": "2024-01-19T12:04:13.7479007+00:00",
       "NumProgressed": 8007,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-19T14:03:46.4494055+00:00",
+      "NumProgressed": 8008,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17060,7 +17065,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6085
+      "UsersEstimate": 6086
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -17100,7 +17105,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6165
+      "UsersEstimate": 6166
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17108,7 +17113,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5845
+      "UsersEstimate": 5846
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17180,7 +17185,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5044
+      "UsersEstimate": 5045
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -17188,7 +17193,7 @@
       "Name": "Feast or Famine",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 2802
+      "UsersEstimate": 2803
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -17220,7 +17225,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5605
+      "UsersEstimate": 5606
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17236,7 +17241,7 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -17268,7 +17273,7 @@
       "Name": "Novice Researcher",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 5525
+      "UsersEstimate": 5526
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17276,7 +17281,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3603
+      "UsersEstimate": 3604
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -17292,7 +17297,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4644
+      "UsersEstimate": 4645
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -17307,15 +17312,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 8007,
+      "Progressed": 8008,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-17T08:58:35.4041927+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:09:23.6405427+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:03:46.4494051+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:06:16.9900812+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:09:23.64063+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:59:54.4457511+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:03:46.4496958+00:00"
 }

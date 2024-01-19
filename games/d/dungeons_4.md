@@ -9,7 +9,7 @@ Rating: 4.74 (Ranked 167)
 | Thalya – Simply Immortal | 88.00% | ~684 |
 | For the Horde! | 82.00% | ~637 |
 | Hammer Time, Round Two | 81.00% | ~629 |
-| The Hellwoods | 76.00% | ~591 |
+| The Hellwoods | 77.00% | ~598 |
 | The Plains of Strothalm | 72.00% | ~559 |
 | Experienced Thalya | 72.00% | ~559 |
 | Bad Elves Go Everywhere | 69.00% | ~536 |

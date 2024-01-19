@@ -37,10 +37,10 @@
 | Favored by the Cosmos | 6.00% | ~23 |
 | Anomaly Control | 5.00% | ~20 |
 | Artificer | 5.00% | ~20 |
+| Denying Destiny | 5.00% | ~20 |
 | Prestidigitation | 5.00% | ~20 |
 | Apian Hero | 5.00% | ~20 |
 | Astrarium of Holding | 4.00% | ~16 |
-| Denying Destiny | 4.00% | ~16 |
 | If I Had Failed... | 4.00% | ~16 |
 | The Chaos Artisan | 4.00% | ~16 |
 | The Dark Moon | 4.00% | ~16 |

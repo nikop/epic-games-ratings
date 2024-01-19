@@ -1,30 +1,30 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 774)  
+Rating: 4.40 (Ranked 775)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~112,285 |
-| 74 miles East of Otaheité | 56.00% | ~78,599 |
-| Interesting... | 42.00% | ~58,950 |
-| The Everhart Expedition | 40.00% | ~56,142 |
-| The Vanishing of the Lady Shannon | 31.00% | ~43,510 |
-| Seaside Serenade | 31.00% | ~43,510 |
-| Halfway there | 30.00% | ~42,107 |
-| A brigantine, a brig and a barque | 28.00% | ~39,300 |
-| 506 East Hampden Avenue | 28.00% | ~39,300 |
-| Weekend at Walakea's | 27.00% | ~37,896 |
-| Quite a Show | 27.00% | ~37,896 |
-| Dark Water Ride | 25.00% | ~35,089 |
-| Sunken | 25.00% | ~35,089 |
-| Deep Cut | 25.00% | ~35,089 |
-| FHALGOF'N' | 23.00% | ~32,282 |
-| Marsh Cannery | 21.00% | ~29,475 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~25,264 |
+| A Family Heirloom | 80.00% | ~112,288 |
+| 74 miles East of Otaheité | 56.00% | ~78,602 |
+| Interesting... | 42.00% | ~58,951 |
+| The Everhart Expedition | 40.00% | ~56,144 |
+| The Vanishing of the Lady Shannon | 31.00% | ~43,512 |
+| Seaside Serenade | 31.00% | ~43,512 |
+| Halfway there | 30.00% | ~42,108 |
+| A brigantine, a brig and a barque | 28.00% | ~39,301 |
+| 506 East Hampden Avenue | 28.00% | ~39,301 |
+| Weekend at Walakea's | 27.00% | ~37,897 |
+| Quite a Show | 27.00% | ~37,897 |
+| Dark Water Ride | 25.00% | ~35,090 |
+| Sunken | 25.00% | ~35,090 |
+| Deep Cut | 25.00% | ~35,090 |
+| FHALGOF'N' | 23.00% | ~32,283 |
+| Marsh Cannery | 21.00% | ~29,476 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~25,265 |
 | The only thing I have now | 17.00% | ~23,861 |
-| Not Another Boring Slideshow! | 16.00% | ~22,457 |
-| Naacalvision | 16.00% | ~22,457 |
+| Not Another Boring Slideshow! | 16.00% | ~22,458 |
+| Naacalvision | 16.00% | ~22,458 |
 | The Norahnomicon | 10.00% | ~14,036 |
 | I'll make a note of that... | 9.00% | ~12,632 |
 | Written in Stone | 7.00% | ~9,825 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 774)
 | Soundcheck | 2.00% | ~2,807 |
 | Meta-reference | 1.00% | ~1,404 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,356 (Ranked 90)  
+Progressed: 140,360 (Ranked 90)  
 Completed: 1,272 (0.91%) (Ranked 188)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 1,272 (0.91%) (Ranked 188)
 | 2024-01-16 | 140,035 | 1,265 |
 | 2024-01-17 | 140,184 | 1,266 |
 | 2024-01-18 | 140,310 | 1,271 |
-| 2024-01-19 | 140,356 | 1,272 |
+| 2024-01-19 | 140,360 | 1,272 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

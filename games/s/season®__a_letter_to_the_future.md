@@ -11,7 +11,7 @@
 | Grey Hands Praxis 101 | 26.00% | ~561 |
 | Deep Listener | 25.00% | ~540 |
 | Music for Cows | 18.00% | ~388 |
-| Emotional Baggage Handler | 16.00% | ~345 |
+| Emotional Baggage Handler | 17.00% | ~367 |
 | Dream Listener | 15.00% | ~324 |
 | Artist Assistant | 14.00% | ~302 |
 | Tour de Tieng | 13.00% | ~281 |

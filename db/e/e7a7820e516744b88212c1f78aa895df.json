@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 377,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 386,
+  "EOS_Progressed": 388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1605,6 +1605,11 @@
       "Time": "2024-01-19T07:10:47.5741421+00:00",
       "NumProgressed": 386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T14:10:03.8641726+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1617,7 +1622,7 @@
       "Name": "You\u0027re Fired!",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achMaxCage",
@@ -1713,7 +1718,7 @@
       "Name": "Corporate Cooperator",
       "Percentage": 4,
       "XP": 75,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "achSponsor5",
@@ -1840,14 +1845,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 386,
+      "Progressed": 388,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:16:10.8140631+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:10:03.8641722+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8036701+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:03:02.6150597+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:16:10.8140881+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:57:42.1455777+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:10:03.8641955+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 221,
+  "Ranking_Rating": 222,
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -425,7 +425,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11825,
+  "EOS_Progressed": 11827,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
@@ -5465,6 +5465,11 @@
       "Time": "2024-01-19T13:16:27.0987046+00:00",
       "NumProgressed": 11825,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T14:10:15.8400445+00:00",
+      "NumProgressed": 11827,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5661,7 +5666,7 @@
       "Name": "The Dynasty Prospers",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "26_MasterOfTheTrade",
@@ -5685,7 +5690,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1537
+      "UsersEstimate": 1538
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5709,7 +5714,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "32_AviationSaviour",
@@ -5749,7 +5754,7 @@
       "Name": "Adventurous Archaeologist",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "37_TheSirenicalDiplomat",
@@ -5757,7 +5762,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -5805,7 +5810,7 @@
       "Name": "No Place Like Home",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1182
+      "UsersEstimate": 1183
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -5885,7 +5890,7 @@
       "Name": "Enraged Dragon",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "54_ThisIsAJobForLordCaptain",
@@ -5893,7 +5898,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -5901,7 +5906,7 @@
       "Name": "Returning the Boots",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -5917,7 +5922,7 @@
       "Name": "Burning Inheritance",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "58_KneeDeepInChaos",
@@ -5933,7 +5938,7 @@
       "Name": "The Possessed Ship",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "60_NotSoBottomlessPit",
@@ -5996,7 +6001,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11825,
+      "Progressed": 11827,
       "Completed": 1
     }
   ],
@@ -6004,8 +6009,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-19T09:59:46.9537952+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:16:27.0987043+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:10:15.8400441+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:06:27.3336111+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:16:27.0987885+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:00:00.4236036+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:10:15.8401065+00:00"
 }

@@ -3570,9 +3570,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 20,
-      "UsersEstimate": 448
+      "UsersEstimate": 456
     },
     {
       "ID": "RogueEat",
@@ -3665,8 +3665,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-19T13:10:02.0932857+00:00",
+  "LastChanged_Achievements": "2024-01-19T14:04:14.8570191+00:00",
   "LastUpdate_AppInfo": "2024-01-17T03:57:20.2875868+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:04:50.9435638+00:00",
-  "LastUpdate_Achievements": "2024-01-19T13:10:02.0933529+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:58:56.1650912+00:00",
+  "LastUpdate_Achievements": "2024-01-19T14:04:14.8570621+00:00"
 }
