@@ -60,9 +60,9 @@
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.23% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.92% |
+| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.91% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.87% |
-| 63 | [Scorn](games/s/scorn.md) | 6.85% |
+| 63 | [Scorn](games/s/scorn.md) | 6.84% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.74% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
@@ -101,7 +101,7 @@
 | 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
 | 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
-| 100 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.57% |
+| 102 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.53% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.30% |
@@ -121,8 +121,8 @@
 | 118 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 120 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 121 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
-| 122 | [The Complex](games/t/the_complex.md) | 2.58% |
-| 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.57% |
+| 122 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.57% |
+| 122 | [The Complex](games/t/the_complex.md) | 2.57% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
