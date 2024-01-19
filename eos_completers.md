@@ -51,7 +51,7 @@
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.71% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.70% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
@@ -96,7 +96,7 @@
 | 94 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
 | 95 | [The Bunker](games/t/the_bunker.md) | 3.85% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
-| 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.68% |
+| 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
 | 98 | [Doodle God](games/d/doodle_god.md) | 3.60% |
 | 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
 | 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
@@ -108,7 +108,7 @@
 | 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.26% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.22% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
-| 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.15% |
+| 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
 | 110 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.12% |
 | 111 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
 | 112 | [HordeCore](games/h/hordecore.md) | 3.02% |
@@ -256,9 +256,9 @@
 | 254 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.34% |
 | 254 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.34% |
 | 254 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
+| 257 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.33% |
 | 257 | [The Surge](games/t/the_surge.md) | 0.33% |
-| 258 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
-| 258 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.32% |
+| 259 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 260 | [Darksiders III](games/d/darksiders_iii.md) | 0.31% |
 | 260 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 260 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
