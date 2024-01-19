@@ -2,7 +2,7 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 532,
+  "Ranking_Rating": 533,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 129,
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45258,
+  "EOS_Progressed": 45259,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -21427,6 +21427,11 @@
       "Time": "2024-01-19T08:06:35.5469161+00:00",
       "NumProgressed": 45258,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2024-01-19T11:07:04.0684083+00:00",
+      "NumProgressed": 45259,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 44,
@@ -21438,7 +21443,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25797
+      "UsersEstimate": 25798
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21558,7 +21563,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36206
+      "UsersEstimate": 36207
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -21614,7 +21619,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10409
+      "UsersEstimate": 10410
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -21630,7 +21635,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16745
+      "UsersEstimate": 16746
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -21638,7 +21643,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8146
+      "UsersEstimate": 8147
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -21710,7 +21715,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30323
+      "UsersEstimate": 30324
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21774,7 +21779,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 42090
+      "UsersEstimate": 42091
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -21782,14 +21787,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23534
+      "UsersEstimate": 23535
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45258,
+      "Progressed": 45259,
       "Completed": 250
     }
   ],
@@ -21797,8 +21802,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:05:24.4478444+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:07:04.068408+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.4342341+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:03:21.9653727+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:05:24.4479519+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:04:09.7351038+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:07:04.0685346+00:00"
 }

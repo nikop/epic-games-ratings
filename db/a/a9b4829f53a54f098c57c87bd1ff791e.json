@@ -4,7 +4,7 @@
   "ProductSlug": "title_pending-2d8df9",
   "Ranking_EOS_Progress": 745,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
@@ -47,9 +47,9 @@
       "ID": "233",
       "SetID": "39bcm6",
       "Name": "Powertrip",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "AFTER_END",
@@ -71,9 +71,9 @@
       "ID": "CHAIR_HELL",
       "SetID": "39bcm6",
       "Name": "BEWARE THE CHAIR",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "DEBUG_GLASSES",
@@ -103,9 +103,9 @@
       "ID": "FALL_DEATH",
       "SetID": "39bcm6",
       "Name": "Slippin Stanton",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "GLITCH",
@@ -183,9 +183,9 @@
       "ID": "OG_PENDING",
       "SetID": "39bcm6",
       "Name": "WE MUST TRAVEL BACK IN TIME",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "OWEN_DEATH",
@@ -199,9 +199,9 @@
       "ID": "PLAYTEST_END",
       "SetID": "39bcm6",
       "Name": "Congratulations!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "SPEED",
@@ -245,8 +245,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:05:45.0096492+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:07:32.8497666+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:59:33.637962+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:05:45.0096639+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:01:08.7828209+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:07:32.8497796+00:00"
 }

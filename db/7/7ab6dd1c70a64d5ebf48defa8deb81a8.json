@@ -2,13 +2,13 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 991,
+  "Ranking_Rating": 992,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -115,10 +115,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2384,
+  "EOS_Progressed": 2385,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 128,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 129,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
     {
@@ -4795,6 +4795,11 @@
       "Time": "2024-01-19T09:10:23.4600135+00:00",
       "NumProgressed": 2384,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T11:11:31.412364+00:00",
+      "NumProgressed": 2385,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4822,7 +4827,7 @@
       "Name": "Powerful Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACH_04",
@@ -4878,7 +4883,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "ACH_11",
@@ -4918,7 +4923,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_16",
@@ -4966,7 +4971,7 @@
       "Name": "Big Bazar",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACH_22",
@@ -5046,7 +5051,7 @@
       "Name": "Stone Collection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACH_33",
@@ -5093,7 +5098,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2384,
+      "Progressed": 2385,
       "Completed": 5
     }
   ],
@@ -5101,8 +5106,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:10:29.1956606+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:11:31.4123639+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:57:45.8208275+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:10:29.1956997+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:58:22.2388584+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:11:31.4124036+00:00"
 }

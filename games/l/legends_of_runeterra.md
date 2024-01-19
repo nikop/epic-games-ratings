@@ -1,12 +1,12 @@
 # Legends of Runeterra
 [Store](https://store.epicgames.com/en-US/p/legends-of-runeterra)  
 [View Rawdata](../../db/l/legends_of_runeterra.json)  
-Rating: 4.65 (Ranked 323)  
+Rating: 4.65 (Ranked 324)  
 Number of Ratings: 431  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 215  (Ranked 294)  
-Sum: 1,664 (Ranked 235)  
-Diff (max vs sum): 59  
+Sum: 1,664 (Ranked 236)  
+Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 215 |

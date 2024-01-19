@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 242)  
+Rating: 4.69 (Ranked 243)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,6 +12,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 7.00% | ~9,323 |
 | Overdue Notice | 7.00% | ~9,323 |
 | This guy... again? | 7.00% | ~564 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~7,991 |
 | Serenity Now! | 6.00% | ~7,991 |
 | Creep and Sleep | 6.00% | ~7,991 |
 | Meat and Greet | 6.00% | ~7,991 |
@@ -19,33 +20,32 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 6.00% | ~7,991 |
 | Rush Hour | 6.00% | ~7,991 |
 | To Grandmother's House | 6.00% | ~7,991 |
-| Ploughshares to Swords | 6.00% | ~483 |
-| Bloody Graduation | 6.00% | ~483 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,659 |
-| It Rings a Bell | 5.00% | ~6,659 |
-| Not Today! | 5.00% | ~6,659 |
-| It Happens | 5.00% | ~6,659 |
-| Merry Time | 5.00% | ~6,659 |
-| Harvest Festival | 5.00% | ~6,659 |
-| Whale | 5.00% | ~6,659 |
-| A Place to Lay Your Head | 5.00% | ~6,659 |
-| FNG | 5.00% | ~6,659 |
-| Nope | 5.00% | ~6,659 |
+| Ploughshares to Swords | 6.00% | ~484 |
+| Bloody Graduation | 6.00% | ~484 |
+| It Rings a Bell | 5.00% | ~6,660 |
+| Not Today! | 5.00% | ~6,660 |
+| It Happens | 5.00% | ~6,660 |
+| Merry Time | 5.00% | ~6,660 |
+| Harvest Festival | 5.00% | ~6,660 |
+| Whale | 5.00% | ~6,660 |
+| A Place to Lay Your Head | 5.00% | ~6,660 |
+| FNG | 5.00% | ~6,660 |
+| Nope | 5.00% | ~6,660 |
 | Friends 'Til the End | 5.00% | ~403 |
-| Resurrection | 4.00% | ~5,327 |
-| Unleash Hell | 4.00% | ~5,327 |
-| Funny Guy | 4.00% | ~5,327 |
-| Long Live the King | 4.00% | ~5,327 |
-| Wyrdly Reconstructed | 4.00% | ~5,327 |
-| Boxcar Kid | 4.00% | ~5,327 |
-| Unfulfilled Desires | 4.00% | ~5,327 |
-| Dissector | 4.00% | ~5,327 |
-| Banishment | 4.00% | ~5,327 |
-| Now Stay Dead | 4.00% | ~5,327 |
-| Spelunker | 4.00% | ~5,327 |
-| Ramble On | 4.00% | ~5,327 |
-| A Clear Conscience | 4.00% | ~5,327 |
-| Unshackled | 4.00% | ~5,327 |
+| Resurrection | 4.00% | ~5,328 |
+| Unleash Hell | 4.00% | ~5,328 |
+| Funny Guy | 4.00% | ~5,328 |
+| Long Live the King | 4.00% | ~5,328 |
+| Wyrdly Reconstructed | 4.00% | ~5,328 |
+| Boxcar Kid | 4.00% | ~5,328 |
+| Unfulfilled Desires | 4.00% | ~5,328 |
+| Dissector | 4.00% | ~5,328 |
+| Banishment | 4.00% | ~5,328 |
+| Now Stay Dead | 4.00% | ~5,328 |
+| Spelunker | 4.00% | ~5,328 |
+| Ramble On | 4.00% | ~5,328 |
+| A Clear Conscience | 4.00% | ~5,328 |
+| Unshackled | 4.00% | ~5,328 |
 | Hope Rekindled | 3.00% | ~3,996 |
 | Predator | 3.00% | ~3,996 |
 | Deprogramming | 3.00% | ~3,996 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~81 |
 | For Old Time' Sake | 1.00% | ~81 |
 | Et Tu, Riposte? | 0.90% | ~73 |
-| The World As It Was | 0.80% | ~1,065 |
+| The World As It Was | 0.80% | ~1,066 |
 | A Life Well Lived | 0.70% | ~932 |
 | Bacon Bits | 0.70% | ~932 |
 | Eidetic | 0.60% | ~799 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,187 (Ranked 92)  
+Progressed: 133,191 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,187 | 5 |
+| 2024-01-19 | 133,191 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,752 (Ranked 58)  

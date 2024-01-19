@@ -8,10 +8,10 @@
 | Springs | 56.00% | ~82 |
 | Soap | 38.00% | ~55 |
 | Purr-fect | 34.00% | ~50 |
+| Act 1 | 32.00% | ~47 |
 | Wrench | 31.00% | ~45 |
-| Act 1 | 31.00% | ~45 |
-| Capacitors | 30.00% | ~44 |
-| Mug | 27.00% | ~39 |
+| Capacitors | 31.00% | ~45 |
+| Mug | 28.00% | ~41 |
 | Soldering iron | 27.00% | ~39 |
 | Robot Bros | 21.00% | ~31 |
 | Act 2 | 21.00% | ~31 |
@@ -20,8 +20,8 @@
 | Act 3 | 18.00% | ~26 |
 | Here we go again | 17.00% | ~25 |
 | Flyer | 15.00% | ~22 |
+| It’s in the Vault | 14.00% | ~20 |
 | Dr. Antivirus | 14.00% | ~20 |
-| It’s in the Vault | 13.00% | ~19 |
 | Access protocol | 13.00% | ~19 |
 | Photo | 12.00% | ~18 |
 | Ticket | 12.00% | ~18 |

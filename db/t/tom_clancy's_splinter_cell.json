@@ -2,12 +2,12 @@
   "ID": "54090fbc182e44d79b2872f24994c190",
   "Name": "Tom Clancy\u0027s Splinter Cell",
   "ProductSlug": "splinter-cell",
-  "Ranking_Rating": 744,
+  "Ranking_Rating": 745,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-11T16:00:00+00:00",
@@ -219,6 +219,6 @@
   "FirstSeenRating": "2022-10-05T15:02:18.5896958+00:00",
   "LastChanged": "2024-01-16T19:00:29.2716521+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:21.5651516+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:02:46.5355979+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:06:11.5495183+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:03:15.8707842+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:08:09.7633619+00:00"
 }

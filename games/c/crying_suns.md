@@ -1,26 +1,26 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.51 (Ranked 597)  
+Rating: 4.51 (Ranked 598)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,924 |
-| Jeef Skeejj | 44.00% | ~208,616 |
-| Careful planning | 39.00% | ~184,910 |
+| The Shutdown | 66.00% | ~312,926 |
+| Jeef Skeejj | 44.00% | ~208,617 |
+| Careful planning | 39.00% | ~184,911 |
 | Second Coming | 34.00% | ~161,204 |
-| Jeef Skagg | 30.00% | ~142,238 |
+| Jeef Skagg | 30.00% | ~142,239 |
 | Mother | 25.00% | ~118,532 |
 | In space, no one can hear you scream | 24.00% | ~113,791 |
-| Chapter I: Echoes | 22.00% | ~104,308 |
-| Excelsior Rule | 22.00% | ~104,308 |
+| Chapter I: Echoes | 22.00% | ~104,309 |
+| Excelsior Rule | 22.00% | ~104,309 |
 | Things persisted in not being what they seemed | 20.00% | ~94,826 |
-| Knightmare Frames | 15.00% | ~71,119 |
-| May His passing cleanse the world | 15.00% | ~71,119 |
-| Chapter II: Fallible Flesh | 15.00% | ~71,119 |
-| Pope Zenon | 15.00% | ~71,119 |
-| Plan for the worst | 12.00% | ~56,895 |
+| Knightmare Frames | 15.00% | ~71,120 |
+| May His passing cleanse the world | 15.00% | ~71,120 |
+| Chapter II: Fallible Flesh | 15.00% | ~71,120 |
+| Pope Zenon | 15.00% | ~71,120 |
+| Plan for the worst | 12.00% | ~56,896 |
 | Tetsuo | 11.00% | ~52,154 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,413 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,930 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,128 (Ranked 45)  
+Progressed: 474,130 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -360,7 +360,7 @@ Completed: 21 (0.00%) (Ranked 405)
 | 2024-01-16 | 473,981 | 21 |
 | 2024-01-17 | 474,055 | 21 |
 | 2024-01-18 | 474,108 | 21 |
-| 2024-01-19 | 474,128 | 21 |
+| 2024-01-19 | 474,130 | 21 |
 ## Awards
 Max (Character Customization): 230  (Ranked 287)  
 Sum: 254 (Ranked 400)  

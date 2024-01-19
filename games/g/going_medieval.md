@@ -1,7 +1,7 @@
 # Going Medieval
 [Store](https://store.epicgames.com/en-US/p/going-medieval)  
 [View Rawdata](../../db/g/going_medieval.json)  
-Rating: 4.60 (Ranked 425)  
+Rating: 4.60 (Ranked 426)  
 Number of Ratings: 706  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,7 +21,7 @@ Number of Ratings: 706  (23.09.2022)
 | Retribution | 43.00% | ~3,443 |
 | Putting Food on the Table | 43.00% | ~3,443 |
 | ...And Don’t Come Back! | 43.00% | ~3,443 |
-| Feast or Famine | 34.00% | ~2,722 |
+| Feast or Famine | 35.00% | ~2,802 |
 | Heating Up | 33.00% | ~2,642 |
 | Winter Is Coming | 30.00% | ~2,402 |
 | Luminary Researcher | 30.00% | ~2,402 |

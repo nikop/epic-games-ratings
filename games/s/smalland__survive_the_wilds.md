@@ -1,7 +1,7 @@
 # Smalland: Survive the Wilds
 [Store](https://store.epicgames.com/en-US/p/smalland)  
 [View Rawdata](../../db/s/smalland__survive_the_wilds.json)  
-Rating: 4.58 (Ranked 474)  
+Rating: 4.58 (Ranked 475)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.58 (Ranked 474)
 | Something Wicked | 0.20% | ~43 |
 | The Key | 0.20% | ~43 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,368 (Ranked 154)  
+Progressed: 21,368 (Ranked 155)  
 Completed: 18 (0.08%) (Ranked 331)  
 ## EOS Players History
 | Date | Progressed | Completed |

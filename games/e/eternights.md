@@ -1,7 +1,7 @@
 # Eternights
 [Store](https://store.epicgames.com/en-US/p/eternights-c2fbca)  
 [View Rawdata](../../db/e/eternights.json)  
-Rating: 4.73 (Ranked 182)  
+Rating: 4.73 (Ranked 183)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,7 +28,7 @@ Rating: 4.73 (Ranked 182)
 | Plushyboy | 4.00% | ~37 |
 | LOVEassistant | 3.00% | ~28 |
 | True Player | 1.00% | ~9 |
-| Dreamboat | 0.90% | ~8 |
+| Dreamboat | 1.00% | ~9 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 918 (Ranked 309)  

@@ -4,7 +4,7 @@
   "ProductSlug": "desktop-girlfriend-neo-136f5a",
   "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 412,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-25T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -469,6 +469,11 @@
       "Time": "2024-01-18T14:10:29.7546827+00:00",
       "NumProgressed": 91,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T11:11:38.7018394+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-16T10:08:21.0101681+00:00",
@@ -583,7 +588,7 @@
       "ID": "EI",
       "SetID": "2621k8c",
       "Name": "Exceptional intelligence",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 16
     },
@@ -719,7 +724,7 @@
       "ID": "IC",
       "SetID": "2621k8c",
       "Name": "Intimate Contact",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 10,
       "UsersEstimate": 37
     },
@@ -943,7 +948,7 @@
       "ID": "Perfunctory",
       "SetID": "2621k8c",
       "Name": "Perfunctory",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -967,7 +972,7 @@
       "ID": "Preaching",
       "SetID": "2621k8c",
       "Name": "Preaching",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 5,
       "UsersEstimate": 17
     },
@@ -1224,14 +1229,14 @@
     {
       "ID": "2621k8c",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-21T16:57:18.9896255+00:00",
   "FirstSeenAchievements": "2023-09-14T09:02:21.8735151+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:10:35.059166+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:11:38.7018392+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.1671543+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:58:29.0172392+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:10:35.0592462+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:59:31.1663434+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:11:38.7019377+00:00"
 }

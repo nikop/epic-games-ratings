@@ -2,7 +2,7 @@
   "ID": "dc989527f6684c218eb8f5992e85cfea",
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
-  "Ranking_Rating": 1014,
+  "Ranking_Rating": 1015,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 174,
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15691,
+  "EOS_Progressed": 15694,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 213,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19436,6 +19436,11 @@
       "Time": "2024-01-19T08:05:40.0732122+00:00",
       "NumProgressed": 15691,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T11:06:07.4181941+00:00",
+      "NumProgressed": 15694,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19519,7 +19524,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6904
+      "UsersEstimate": 6905
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -19535,7 +19540,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -19615,7 +19620,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -19639,14 +19644,14 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2824
+      "UsersEstimate": 2825
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15691,
+      "Progressed": 15694,
       "Completed": 0
     }
   ],
@@ -19654,8 +19659,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:04:43.6408836+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:06:07.4181937+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.4408266+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:02:54.1780179+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:04:43.640987+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:03:27.2658165+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:06:07.4182966+00:00"
 }

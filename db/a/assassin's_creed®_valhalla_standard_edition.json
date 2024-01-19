@@ -2,12 +2,12 @@
   "ID": "400347196e674de89c23cc2a7f2121db",
   "Name": "Assassin\u0027s Creed\u00AE Valhalla Standard Edition",
   "ProductSlug": "assassins-creed-valhalla",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 426,
   "Ranking_Popularity": 25,
   "Ranking_PopularitySum": 36,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-11-17T15:00:00+00:00",
@@ -14713,10 +14713,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 39829,
       "NumberOfAwardsMax": 16183
+    },
+    {
+      "Time": "2024-01-19T11:01:34.6793518+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 39836,
+      "NumberOfAwardsMax": 16183
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 39829,
+  "NumberOfAwards": 39836,
   "NumberOfAwardsMax": 16183,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -14742,7 +14748,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1532
+      "Count": 1539
     },
     {
       "Text": "This game is Great for Beginners",
@@ -14804,8 +14810,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:17.7160409+00:00",
-  "LastChanged": "2024-01-19T08:01:10.3937098+00:00",
+  "LastChanged": "2024-01-19T11:01:34.6793517+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.8656727+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:59:51.2837431+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:05:40.1215853+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:01:34.6793522+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:07:26.0449811+00:00"
 }

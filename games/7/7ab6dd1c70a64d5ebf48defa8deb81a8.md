@@ -1,12 +1,12 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.17 (Ranked 991)  
+Rating: 4.17 (Ranked 992)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 65.00% | ~1,550 |
-| Trinity | 35.00% | ~834 |
+| Trinity | 35.00% | ~835 |
 | The Collector | 28.00% | ~668 |
 | Find Allies | 27.00% | ~644 |
 | A Taste of Wrath | 27.00% | ~644 |
@@ -16,10 +16,10 @@ Rating: 4.17 (Ranked 991)
 | Scholar | 25.00% | ~596 |
 | I Found It | 25.00% | ~596 |
 | Fashion Victim | 24.00% | ~572 |
-| Tributes of Caladrias | 23.00% | ~548 |
-| Stone Collection | 23.00% | ~548 |
-| Powerful Allies | 22.00% | ~524 |
-| Big Bazar | 16.00% | ~381 |
+| Tributes of Caladrias | 23.00% | ~549 |
+| Stone Collection | 23.00% | ~549 |
+| Powerful Allies | 22.00% | ~525 |
+| Big Bazar | 16.00% | ~382 |
 | Essence Blow | 15.00% | ~358 |
 | Alchemist | 15.00% | ~358 |
 | The Mentor | 12.00% | ~286 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 991)
 | All That Gold | 0.90% | ~21 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,384 (Ranked 246)  
+Progressed: 2,385 (Ranked 246)  
 Completed: 5 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-16 | 2,358 | 4 |
 | 2024-01-17 | 2,374 | 5 |
 | 2024-01-18 | 2,380 | 5 |
-| 2024-01-19 | 2,384 | 5 |
+| 2024-01-19 | 2,385 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

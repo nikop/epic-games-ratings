@@ -1,40 +1,40 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 921)  
+Rating: 4.26 (Ranked 922)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~160,804 |
-| Dead-ball specialist | 61.00% | ~130,787 |
-| European Legend | 52.00% | ~111,491 |
-| Multitasking | 51.00% | ~109,347 |
-| Balanced Path | 49.00% | ~105,058 |
-| High Grades | 48.00% | ~102,914 |
-| A Moment of Your Time | 46.00% | ~98,626 |
-| Let the Games Begin | 46.00% | ~98,626 |
-| Aiming High | 46.00% | ~98,626 |
-| Tactical Tinkerer | 40.00% | ~85,762 |
-| Intuition and Execution | 39.00% | ~83,618 |
-| Squad Building Connoisseur | 38.00% | ~81,474 |
-| The Winning Formula | 36.00% | ~77,186 |
-| Parking the Bus | 27.00% | ~57,889 |
-| Safe House | 26.00% | ~55,745 |
-| Best of Five | 26.00% | ~55,745 |
-| Football is Everything | 24.00% | ~51,457 |
-| The Chosen One | 22.00% | ~47,169 |
-| Fresh Fit | 20.00% | ~42,881 |
-| Bring it on | 17.00% | ~36,449 |
-| Life-Like | 14.00% | ~30,017 |
+| Power Shot | 75.00% | ~160,808 |
+| Dead-ball specialist | 61.00% | ~130,791 |
+| European Legend | 52.00% | ~111,494 |
+| Multitasking | 51.00% | ~109,350 |
+| Balanced Path | 49.00% | ~105,061 |
+| High Grades | 48.00% | ~102,917 |
+| A Moment of Your Time | 46.00% | ~98,629 |
+| Let the Games Begin | 46.00% | ~98,629 |
+| Aiming High | 46.00% | ~98,629 |
+| Tactical Tinkerer | 40.00% | ~85,764 |
+| Intuition and Execution | 39.00% | ~83,620 |
+| Squad Building Connoisseur | 38.00% | ~81,476 |
+| The Winning Formula | 36.00% | ~77,188 |
+| Parking the Bus | 27.00% | ~57,891 |
+| Safe House | 26.00% | ~55,747 |
+| Best of Five | 26.00% | ~55,747 |
+| Football is Everything | 24.00% | ~51,459 |
+| The Chosen One | 22.00% | ~47,170 |
+| Fresh Fit | 20.00% | ~42,882 |
+| Bring it on | 17.00% | ~36,450 |
+| Life-Like | 14.00% | ~30,018 |
 | Make the Grade | 12.00% | ~25,729 |
-| I Played Them All | 10.00% | ~21,440 |
-| Specialist | 10.00% | ~21,440 |
-| Teamwork works | 9.00% | ~19,296 |
-| First of Many | 9.00% | ~19,296 |
-| Momentous Achievement | 6.00% | ~12,864 |
-| Becoming Unplayable | 5.00% | ~10,720 |
-| Shop till you drop | 5.00% | ~10,720 |
-| On the way up | 5.00% | ~10,720 |
+| I Played Them All | 10.00% | ~21,441 |
+| Specialist | 10.00% | ~21,441 |
+| Teamwork works | 9.00% | ~19,297 |
+| First of Many | 9.00% | ~19,297 |
+| Momentous Achievement | 6.00% | ~12,865 |
+| Becoming Unplayable | 5.00% | ~10,721 |
+| Shop till you drop | 5.00% | ~10,721 |
+| On the way up | 5.00% | ~10,721 |
 | Volta's best | 4.00% | ~8,576 |
 | In Cahoots | 4.00% | ~8,576 |
 | Tune Your Club | 4.00% | ~8,576 |
@@ -45,7 +45,7 @@ Rating: 4.26 (Ranked 921)
 | Training Addict | 0.10% | ~214 |
 | Dazzling Personality | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,405 (Ranked 82)  
+Progressed: 214,411 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,7 +172,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 213,829 | 0 |
 | 2024-01-17 | 214,072 | 0 |
 | 2024-01-18 | 214,334 | 0 |
-| 2024-01-19 | 214,405 | 0 |
+| 2024-01-19 | 214,411 | 0 |
 ## Awards
 Max (Diverse Characters): 22,303  (Ranked 21)  
 Sum: 110,604 (Ranked 17)  

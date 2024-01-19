@@ -1,15 +1,15 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 978)  
+Rating: 4.19 (Ranked 979)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,495 |
+| First Step Into the Knight | 50.00% | ~41,496 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,217 |
 | Loose Ends | 33.00% | ~27,387 |
-| To the Victor Go the Spoils | 27.00% | ~22,407 |
-| Knighthood | 26.00% | ~21,577 |
+| To the Victor Go the Spoils | 27.00% | ~22,408 |
+| Knighthood | 26.00% | ~21,578 |
 | Get ReQ'd | 24.00% | ~19,918 |
 | Whispered Words | 24.00% | ~19,918 |
 | The Batman Family | 22.00% | ~18,258 |
@@ -22,9 +22,9 @@ Rating: 4.19 (Ranked 978)
 | Snow Problem | 19.00% | ~15,768 |
 | The Show Mud Go On | 17.00% | ~14,108 |
 | From Inside Gotham's Walls | 17.00% | ~14,108 |
-| Protector of Gotham | 16.00% | ~13,278 |
-| In Your Element | 15.00% | ~12,448 |
-| Universal Health Scare | 15.00% | ~12,448 |
+| Protector of Gotham | 16.00% | ~13,279 |
+| In Your Element | 15.00% | ~12,449 |
+| Universal Health Scare | 15.00% | ~12,449 |
 | Rock and a Hard Place | 14.00% | ~11,619 |
 | Cooldown | 14.00% | ~11,619 |
 | Voiceless | 14.00% | ~11,619 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 978)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,990 (Ranked 110)  
+Progressed: 82,991 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
-| 2024-01-19 | 82,990 | 135 |
+| 2024-01-19 | 82,991 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,223  (Ranked 102)  
 Sum: 5,508 (Ranked 144)  

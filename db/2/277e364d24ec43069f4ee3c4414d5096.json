@@ -2,13 +2,13 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 401,
+  "Ranking_Rating": 402,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120391,
+  "EOS_Progressed": 120392,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25392,6 +25392,11 @@
       "Time": "2024-01-19T10:10:29.6015835+00:00",
       "NumProgressed": 120391,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-19T11:11:31.7876273+00:00",
+      "NumProgressed": 120392,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -25411,7 +25416,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92701
+      "UsersEstimate": 92702
     },
     {
       "ID": "EAwards_10",
@@ -25491,7 +25496,7 @@
       "Name": "One Born Every Minute",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "EAwards_2",
@@ -25523,7 +25528,7 @@
       "Name": "Combo Machine",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7223
+      "UsersEstimate": 7224
     },
     {
       "ID": "EAwards_23",
@@ -25794,7 +25799,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120391,
+      "Progressed": 120392,
       "Completed": 61
     }
   ],
@@ -25802,8 +25807,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:10:29.6015833+00:00",
-  "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:59:38.7299635+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:10:29.6017267+00:00"
+  "LastChanged_Achievements": "2024-01-19T11:11:31.7876271+00:00",
+  "LastUpdate_AppInfo": "2024-01-19T10:57:12.1684277+00:00",
+  "LastUpdate_Ratings": "2024-01-19T11:01:16.241067+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:11:31.7877816+00:00"
 }

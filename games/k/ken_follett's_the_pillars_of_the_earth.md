@@ -1,21 +1,21 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 597)  
+Rating: 4.51 (Ranked 598)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~6,998 |
-| Man of politics | 34.00% | ~6,101 |
-| Friends of sorts | 32.00% | ~5,742 |
-| Yet another secret | 32.00% | ~5,742 |
+| Tattletale | 39.00% | ~6,999 |
+| Man of politics | 34.00% | ~6,102 |
+| Friends of sorts | 32.00% | ~5,743 |
+| Yet another secret | 32.00% | ~5,743 |
 | Let there be darkness | 31.00% | ~5,563 |
 | End of Book One | 29.00% | ~5,204 |
-| Wannabe knight | 23.00% | ~4,127 |
-| Garden of Eden | 23.00% | ~4,127 |
-| Full house | 23.00% | ~4,127 |
-| Help an old friend | 21.00% | ~3,768 |
+| Wannabe knight | 23.00% | ~4,128 |
+| Garden of Eden | 23.00% | ~4,128 |
+| Full house | 23.00% | ~4,128 |
+| Help an old friend | 21.00% | ~3,769 |
 | Two of us | 20.00% | ~3,589 |
 | Negotiation skills | 18.00% | ~3,230 |
 | Workers' union | 18.00% | ~3,230 |
@@ -24,11 +24,11 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,512 |
 | Jack was here! | 14.00% | ~2,512 |
 | Exterminator | 13.00% | ~2,333 |
-| Whodunnit | 12.00% | ~2,153 |
-| Good midwife | 10.00% | ~1,794 |
-| Friar Tuck | 10.00% | ~1,794 |
-| First profit | 10.00% | ~1,794 |
-| Team player | 10.00% | ~1,794 |
+| Whodunnit | 12.00% | ~2,154 |
+| Good midwife | 10.00% | ~1,795 |
+| Friar Tuck | 10.00% | ~1,795 |
+| First profit | 10.00% | ~1,795 |
+| Team player | 10.00% | ~1,795 |
 | Skilled merchant | 9.00% | ~1,615 |
 | Brother Marcus | 9.00% | ~1,615 |
 | The oath | 9.00% | ~1,615 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~538 |
 | Boy of mystery | 2.00% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,944 (Ranked 166)  
+Progressed: 17,946 (Ranked 166)  
 Completed: 125 (0.70%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 125 (0.70%) (Ranked 205)
 | 2024-01-16 | 17,908 | 125 |
 | 2024-01-17 | 17,923 | 125 |
 | 2024-01-18 | 17,936 | 125 |
-| 2024-01-19 | 17,944 | 125 |
+| 2024-01-19 | 17,946 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 331)  
 Sum: 200 (Ranked 419)  

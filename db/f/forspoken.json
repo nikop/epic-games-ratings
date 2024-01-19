@@ -2,12 +2,12 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 997,
+  "Ranking_Rating": 998,
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47473,
+  "EOS_Progressed": 47478,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19303,6 +19303,11 @@
       "Time": "2024-01-19T10:05:25.8027352+00:00",
       "NumProgressed": 47473,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T11:07:06.0726416+00:00",
+      "NumProgressed": 47478,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19362,7 +19367,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6171
+      "UsersEstimate": 6172
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19386,7 +19391,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -19394,7 +19399,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -19410,7 +19415,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -19426,7 +19431,7 @@
       "Name": "Breaking Point",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -19474,7 +19479,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -19514,7 +19519,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -19530,7 +19535,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -19562,7 +19567,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -19570,7 +19575,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2848
+      "UsersEstimate": 2849
     },
     {
       "ID": "MAGIC_IVY",
@@ -19586,7 +19591,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 949
+      "UsersEstimate": 950
     },
     {
       "ID": "MONUMENT_ALL",
@@ -19737,22 +19742,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47473,
+      "Progressed": 47478,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12310,
-      "Completed": 12310
+      "Progressed": 12315,
+      "Completed": 12315
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:05:25.8027349+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:07:06.0726415+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:03:11.1231966+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:05:25.8028784+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:03:53.1665897+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:07:06.0727364+00:00"
 }

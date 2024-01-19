@@ -2,12 +2,12 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 436,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-15T06:00:00+00:00",
@@ -723,6 +723,6 @@
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
   "LastChanged": "2024-01-19T09:58:31.8711704+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:05.330693+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:58:31.8711709+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:08:52.2363287+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:59:35.3726228+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:09:18.509406+00:00"
 }

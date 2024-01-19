@@ -1,37 +1,37 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.19 (Ranked 978)  
+Rating: 4.19 (Ranked 979)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,134 |
-| Battlefields Have Memories | 82.00% | ~2,887 |
-| Enlisted | 76.00% | ~2,676 |
-| Maybe Engage a Little | 70.00% | ~2,465 |
-| No More Names | 54.00% | ~1,901 |
+| Unforeseen | 89.00% | ~3,135 |
+| Battlefields Have Memories | 82.00% | ~2,889 |
+| Enlisted | 76.00% | ~2,677 |
+| Maybe Engage a Little | 70.00% | ~2,466 |
+| No More Names | 54.00% | ~1,902 |
 | Initiate | 41.00% | ~1,444 |
-| Thrada-Kul | 37.00% | ~1,303 |
+| Thrada-Kul | 37.00% | ~1,304 |
 | Gravity-Challenged Rocks | 31.00% | ~1,092 |
 | Soldier | 27.00% | ~951 |
-| All the Major Food Groups | 26.00% | ~915 |
-| Socialite | 25.00% | ~880 |
-| Beggars Would Ride | 24.00% | ~845 |
+| All the Major Food Groups | 26.00% | ~916 |
+| Socialite | 25.00% | ~881 |
+| Beggars Would Ride | 24.00% | ~846 |
 | Control is an Illusion | 23.00% | ~810 |
-| The Means to Save It | 20.00% | ~704 |
+| The Means to Save It | 20.00% | ~705 |
 | Resilience to Sin | 18.00% | ~634 |
 | A Familiar Nest | 18.00% | ~634 |
 | Geas Aristeya | 17.00% | ~599 |
 | Periapt Alizarin | 17.00% | ~599 |
-| A Perfect Cycle | 16.00% | ~563 |
-| Recruit | 16.00% | ~563 |
+| A Perfect Cycle | 16.00% | ~564 |
+| Recruit | 16.00% | ~564 |
 | Armsman | 13.00% | ~458 |
-| Lights Army | 11.00% | ~387 |
+| Lights Army | 11.00% | ~388 |
 | Periapt Cerulean | 9.00% | ~317 |
 | Good Boy | 9.00% | ~317 |
-| Best Dressed | 7.00% | ~246 |
-| Periapt Viridian | 7.00% | ~246 |
-| Shroudfane Explorer | 7.00% | ~246 |
+| Best Dressed | 7.00% | ~247 |
+| Periapt Viridian | 7.00% | ~247 |
+| Shroudfane Explorer | 7.00% | ~247 |
 | Kitted Out | 5.00% | ~176 |
 | Armaments Azure | 5.00% | ~176 |
 | Armaments Gules | 5.00% | ~176 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 978)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,521 (Ranked 229)  
+Progressed: 3,523 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-16 | 3,478 | 5 |
 | 2024-01-17 | 3,496 | 5 |
 | 2024-01-18 | 3,512 | 5 |
-| 2024-01-19 | 3,521 | 5 |
+| 2024-01-19 | 3,523 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 568)  
 Sum: 22 (Ranked 573)  

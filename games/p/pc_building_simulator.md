@@ -1,46 +1,46 @@
 # PC Building Simulator
 [Store](https://store.epicgames.com/en-US/p/pc-building-simulator)  
 [View Rawdata](../../db/p/pc_building_simulator.json)  
-Rating: 4.66 (Ranked 304)  
+Rating: 4.66 (Ranked 305)  
 Number of Ratings: 12,155  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,769,263 |
-| Easy to forget | 46.00% | ~1,660,940 |
-| Back in the black | 39.00% | ~1,408,189 |
-| That's what I'm talking about | 29.00% | ~1,047,115 |
-| The Best of Both Worlds | 25.00% | ~902,685 |
-| Get your wings | 20.00% | ~722,148 |
-| Double trouble | 16.00% | ~577,718 |
-| Smashing it | 11.00% | ~397,181 |
-| But can it run Crysis? | 9.00% | ~324,967 |
-| My favourite feature... | 9.00% | ~324,967 |
-| Customer satisfaction | 8.00% | ~288,859 |
-| From humble beginnings... | 7.00% | ~252,752 |
+| You need to plug it in... | 49.00% | ~1,769,270 |
+| Easy to forget | 46.00% | ~1,660,947 |
+| Back in the black | 39.00% | ~1,408,194 |
+| That's what I'm talking about | 29.00% | ~1,047,119 |
+| The Best of Both Worlds | 25.00% | ~902,689 |
+| Get your wings | 20.00% | ~722,151 |
+| Double trouble | 16.00% | ~577,721 |
+| Smashing it | 11.00% | ~397,183 |
+| But can it run Crysis? | 9.00% | ~324,968 |
+| My favourite feature... | 9.00% | ~324,968 |
+| Customer satisfaction | 8.00% | ~288,860 |
+| From humble beginnings... | 7.00% | ~252,753 |
 | Keeping things neat | 4.00% | ~144,430 |
 | Seems you're pretty good at this | 4.00% | ~144,430 |
 | Bending over backwards | 4.00% | ~144,430 |
-| I'm broke, Uncle! | 3.00% | ~108,322 |
-| Triple threat | 3.00% | ~108,322 |
-| You rock at this! | 3.00% | ~108,322 |
-| Perfection | 3.00% | ~108,322 |
-| Your music sucks | 3.00% | ~108,322 |
+| I'm broke, Uncle! | 3.00% | ~108,323 |
+| Triple threat | 3.00% | ~108,323 |
+| You rock at this! | 3.00% | ~108,323 |
+| Perfection | 3.00% | ~108,323 |
+| Your music sucks | 3.00% | ~108,323 |
 | Maybe you should try something else? | 2.00% | ~72,215 |
 | Taking care of business | 2.00% | ~72,215 |
 | Things are under control | 2.00% | ~72,215 |
 | Calling in Sick | 2.00% | ~72,215 |
-| Overvolted | 1.00% | ~36,107 |
-| If you fail the first time... | 1.00% | ~36,107 |
-| Amazonian | 1.00% | ~36,107 |
-| Show off | 1.00% | ~36,107 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,107 |
-| Building isn't cheap! | 1.00% | ~36,107 |
-| Majority Shareholder | 1.00% | ~36,107 |
-| Owner | 1.00% | ~36,107 |
+| Overvolted | 1.00% | ~36,108 |
+| If you fail the first time... | 1.00% | ~36,108 |
+| Amazonian | 1.00% | ~36,108 |
+| Show off | 1.00% | ~36,108 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,108 |
+| Building isn't cheap! | 1.00% | ~36,108 |
+| Majority Shareholder | 1.00% | ~36,108 |
+| Owner | 1.00% | ~36,108 |
 | Work ethic 101 | 0.70% | ~25,275 |
-| Building momentum | 0.60% | ~21,664 |
-| Lead by example | 0.60% | ~21,664 |
+| Building momentum | 0.60% | ~21,665 |
+| Lead by example | 0.60% | ~21,665 |
 | Treat yourself - RAM | 0.50% | ~18,054 |
 | Mr big business | 0.40% | ~14,443 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,832 |
@@ -48,8 +48,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Getting your feet wet | 0.30% | ~10,832 |
 | Customer's ALWAYS right. | 0.30% | ~10,832 |
 | Treat yourself - CPU | 0.30% | ~10,832 |
-| 1920x1080 | 0.20% | ~7,221 |
-| Blow 'em away | 0.20% | ~7,221 |
+| 1920x1080 | 0.20% | ~7,222 |
+| Blow 'em away | 0.20% | ~7,222 |
 | Hasta La Vista, Baby. | 0.10% | ~3,611 |
 | Wow to build a PC! | 0.10% | ~3,611 |
 | Hoarder | 0.10% | ~3,611 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,611 |
 | Treat yourself - GPU | 0.10% | ~3,611 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,610,740 (Ranked 5)  
+Progressed: 3,610,755 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 41 (0.00%) (Ranked 405)
 | 2024-01-16 | 3,609,869 | 41 |
 | 2024-01-17 | 3,610,214 | 41 |
 | 2024-01-18 | 3,610,598 | 41 |
-| 2024-01-19 | 3,610,740 | 41 |
+| 2024-01-19 | 3,610,755 | 41 |
 ## Awards
 Max (Great for Beginners): 1,145  (Ranked 153)  
 Sum: 8,315 (Ranked 116)  

@@ -4,10 +4,10 @@
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 17,
   "Ranking_Popularity": 79,
-  "Ranking_PopularitySum": 101,
+  "Ranking_PopularitySum": 102,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -5160,6 +5160,6 @@
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
   "LastChanged": "2024-01-19T07:03:16.64965+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:14.3116631+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:03:15.3207706+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:08:24.8706133+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:03:59.3831963+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:08:39.8747907+00:00"
 }

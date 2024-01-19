@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1102,
+  "Ranking_Rating": 1103,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 109,
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83895,
+  "EOS_Progressed": 83897,
   "EOS_Completed": 946,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30727,6 +30727,11 @@
       "Time": "2024-01-19T10:04:30.9914817+00:00",
       "NumProgressed": 83895,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-19T11:05:49.3867721+00:00",
+      "NumProgressed": 83897,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30882,7 +30887,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9228
+      "UsersEstimate": 9229
     },
     {
       "ID": "Right On Target",
@@ -30890,7 +30895,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11745
+      "UsersEstimate": 11746
     },
     {
       "ID": "Sniper",
@@ -30937,7 +30942,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83895,
+      "Progressed": 83897,
       "Completed": 946
     }
   ],
@@ -30945,8 +30950,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:04:30.9914814+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:05:49.3867716+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:00:18.7721353+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:04:30.9916245+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:02:12.592278+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:05:49.3869143+00:00"
 }

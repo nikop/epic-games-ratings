@@ -2,7 +2,7 @@
   "ID": "af0ea01162704696bebf8633a52a7a6d",
   "Name": "Crime Boss: Rockay City",
   "ProductSlug": "crime-boss",
-  "Ranking_Rating": 1065,
+  "Ranking_Rating": 1066,
   "Ranking_Popularity": 211,
   "Ranking_PopularitySum": 191,
   "Ranking_EOS_Progress": 106,
@@ -5631,9 +5631,9 @@
       "Count": 545
     }
   ],
-  "EOS_Progressed": 93537,
+  "EOS_Progressed": 93538,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -31776,6 +31776,11 @@
       "Time": "2024-01-19T10:05:35.603209+00:00",
       "NumProgressed": 93537,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-19T11:07:19.7198053+00:00",
+      "NumProgressed": 93538,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31787,7 +31792,7 @@
       "Name": "Neophyte Ninja",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "ACH_0011",
@@ -31931,7 +31936,7 @@
       "Name": "First One\u2019s Free",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "ACH_0210",
@@ -31939,7 +31944,7 @@
       "Name": "Downed but Not Outed",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 3741
+      "UsersEstimate": 3742
     },
     {
       "ID": "ACH_0211",
@@ -32114,13 +32119,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93537,
+      "Progressed": 93538,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21884,
+      "Progressed": 21885,
       "Completed": 15602
     }
   ],
@@ -32128,8 +32133,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-19T04:57:24.0243757+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:05:35.6032085+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:07:19.719805+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.1525871+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:57:23.5060148+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:05:35.603371+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:57:47.4370405+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:07:19.7199511+00:00"
 }

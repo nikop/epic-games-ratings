@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.07 (Ranked 1,038)  
+Rating: 4.07 (Ranked 1,039)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 2.00% | ~5,093 |
 | The Cursed Farmer | 2.00% | ~5,093 |
 | The Mad Wizard | 2.00% | ~5,093 |
-| The Ring of Regeneration | 1.00% | ~2,546 |
-| Are Ya Chicken? | 1.00% | ~2,546 |
+| The Ring of Regeneration | 1.00% | ~2,547 |
+| Are Ya Chicken? | 1.00% | ~2,547 |
 | Were-verpowered | 0.90% | ~2,292 |
 | Seeking Allies | 0.80% | ~2,037 |
 | Mad Cow Disease | 0.80% | ~2,037 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,644 (Ranked 71)  
+Progressed: 254,651 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,14 +827,14 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,644 | 2,624 |
+| 2024-01-19 | 254,651 | 2,624 |
 ## Awards
-Max (Great for Beginners): 5,792  (Ranked 74)  
-Sum: 33,554 (Ranked 41)  
+Max (Great for Beginners): 5,801  (Ranked 74)  
+Sum: 33,563 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,792 |
+| This game is Great for Beginners | 5,801 |
 | This game has Diverse Characters | 5,731 |
 | This game has Quickly Understood Controls | 4,916 |
 | This game is Relaxing | 4,789 |
@@ -1202,4 +1202,4 @@ Diff (max vs sum): 33
 | 2024-01-16 | 4.07 | - | 5,786 | 33,532 |
 | 2024-01-17 | 4.07 | - | 5,786 | 33,533 |
 | 2024-01-18 | 4.07 | - | 5,792 | 33,543 |
-| 2024-01-19 | 4.07 | - | 5,792 | 33,554 |
+| 2024-01-19 | 4.07 | - | 5,801 | 33,563 |

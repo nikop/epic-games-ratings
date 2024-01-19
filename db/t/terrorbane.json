@@ -3,8 +3,8 @@
   "Name": "tERRORbane",
   "ProductSlug": "terrorbane-437dd3",
   "Ranking_EOS_Progress": 577,
-  "Ranking_EOS_Completed": 134,
-  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_Completed": 135,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45,
+  "EOS_Progressed": 46,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.22,
+  "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:15.1891473+00:00",
@@ -116,6 +116,11 @@
       "Time": "2024-01-11T18:04:56.2286407+00:00",
       "NumProgressed": 45,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T11:06:58.4209411+00:00",
+      "NumProgressed": 46,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 25,
@@ -125,7 +130,7 @@
       "ID": "Achievement_00",
       "SetID": "6jd5kdh",
       "Name": "First contact",
-      "Percentage": 104,
+      "Percentage": 102,
       "XP": 100,
       "UsersEstimate": 47
     },
@@ -133,7 +138,7 @@
       "ID": "Achievement_01",
       "SetID": "6jd5kdh",
       "Name": "C Rank Bug-catcher",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -141,7 +146,7 @@
       "ID": "Achievement_02",
       "SetID": "6jd5kdh",
       "Name": "B Rank Bug-catcher",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 50,
       "UsersEstimate": 13
     },
@@ -165,7 +170,7 @@
       "ID": "Achievement_05",
       "SetID": "6jd5kdh",
       "Name": "System shocked",
-      "Percentage": 67,
+      "Percentage": 65,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -173,7 +178,7 @@
       "ID": "Achievement_06",
       "SetID": "6jd5kdh",
       "Name": "Blade of prophecy",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -181,7 +186,7 @@
       "ID": "Achievement_07",
       "SetID": "6jd5kdh",
       "Name": "Normal end",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 50,
       "UsersEstimate": 20
     },
@@ -205,7 +210,7 @@
       "ID": "Achievement_10",
       "SetID": "6jd5kdh",
       "Name": "Errorbane",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
       "UsersEstimate": 8
     },
@@ -213,7 +218,7 @@
       "ID": "Achievement_11",
       "SetID": "6jd5kdh",
       "Name": "Expos\u00E9",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -277,7 +282,7 @@
       "ID": "Achievement_19",
       "SetID": "6jd5kdh",
       "Name": "Never learn",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -309,7 +314,7 @@
       "ID": "Achievement_23",
       "SetID": "6jd5kdh",
       "Name": "Armed robbery",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -326,7 +331,7 @@
     {
       "ID": "6jd5kdh",
       "IsBase": true,
-      "Progressed": 45,
+      "Progressed": 46,
       "Completed": 1
     }
   ],
@@ -334,8 +339,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:05:20.3676014+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:06:58.4209408+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:31.3000654+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:57:33.5767949+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:05:20.367624+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:58:04.4951389+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:06:58.4209539+00:00"
 }

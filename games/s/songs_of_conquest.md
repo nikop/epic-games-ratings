@@ -1,7 +1,7 @@
 # Songs of Conquest
 [Store](https://store.epicgames.com/en-US/p/songs-of-conquest)  
 [View Rawdata](../../db/s/songs_of_conquest.json)  
-Rating: 4.68 (Ranked 264)  
+Rating: 4.68 (Ranked 265)  
 Number of Ratings: 292  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,7 +11,7 @@ Number of Ratings: 292  (23.09.2022)
 | Critical Hit | 23.00% | ~283 |
 | Veteran | 23.00% | ~283 |
 | Dressed For Success | 15.00% | ~185 |
-| Veni, Vidi, Vici | 11.00% | ~135 |
+| Veni, Vidi, Vici | 11.00% | ~136 |
 | Humiliation | 10.00% | ~123 |
 | Multi Kill | 9.00% | ~111 |
 | Sorcerous Spree | 9.00% | ~111 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,231 (Ranked 287)  
+Progressed: 1,232 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,6 +131,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 1,212 | 0 |
 | 2024-01-17 | 1,218 | 0 |
 | 2024-01-18 | 1,231 | 0 |
+| 2024-01-19 | 1,232 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 527)  
 Sum: 252 (Ranked 401)  

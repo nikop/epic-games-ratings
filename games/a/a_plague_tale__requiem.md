@@ -1,31 +1,31 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 182)  
+Rating: 4.73 (Ranked 183)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~16,840 |
+| Under a New Sun | 91.00% | ~16,841 |
 | Newcomers | 76.00% | ~14,065 |
-| A Burden of Blood | 70.00% | ~12,954 |
-| Protector's Duty | 67.00% | ~12,399 |
-| In our Wake | 65.00% | ~12,029 |
-| Alchemist | 65.00% | ~12,029 |
+| A Burden of Blood | 70.00% | ~12,955 |
+| Protector's Duty | 67.00% | ~12,400 |
+| In our Wake | 65.00% | ~12,030 |
+| Alchemist | 65.00% | ~12,030 |
 | Leaving all Behind | 61.00% | ~11,289 |
 | Felons | 59.00% | ~10,919 |
-| A Sea of Promises | 57.00% | ~10,548 |
-| Tales and Revelations | 54.00% | ~9,993 |
+| A Sea of Promises | 57.00% | ~10,549 |
+| Tales and Revelations | 54.00% | ~9,994 |
 | Bloodline | 49.00% | ~9,068 |
 | The Cradle of Centuries | 45.00% | ~8,328 |
 | The Life We Deserve | 42.00% | ~7,773 |
-| Night guard | 41.00% | ~7,587 |
-| Nothing Left | 36.00% | ~6,662 |
+| Night guard | 41.00% | ~7,588 |
+| Nothing Left | 36.00% | ~6,663 |
 | Healing our Wounds | 34.00% | ~6,292 |
 | Dying Sun | 31.00% | ~5,737 |
-| Improved crossbow | 25.00% | ~4,626 |
-| King Hugo | 23.00% | ~4,256 |
-| Perfect shot | 23.00% | ~4,256 |
-| Mercy | 23.00% | ~4,256 |
+| Improved crossbow | 25.00% | ~4,627 |
+| King Hugo | 23.00% | ~4,257 |
+| Perfect shot | 23.00% | ~4,257 |
+| Mercy | 23.00% | ~4,257 |
 | Effective instruments | 20.00% | ~3,701 |
 | Perfect throw | 20.00% | ~3,701 |
 | Knights! | 19.00% | ~3,516 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 182)
 | Explorer | 1.00% | ~185 |
 | Malignant | 1.00% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,506 (Ranked 163)  
+Progressed: 18,507 (Ranked 163)  
 Completed: 66 (0.36%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 66 (0.36%) (Ranked 251)
 | 2024-01-16 | 18,399 | 66 |
 | 2024-01-17 | 18,446 | 66 |
 | 2024-01-18 | 18,490 | 66 |
-| 2024-01-19 | 18,506 | 66 |
+| 2024-01-19 | 18,507 | 66 |
 ## Awards
 Max (Great Boss Battles): 468  (Ranked 229)  
 Sum: 733 (Ranked 307)  

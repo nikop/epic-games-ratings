@@ -1,30 +1,30 @@
 # Potion Permit
 [Store](https://store.epicgames.com/en-US/p/potion-permit)  
 [View Rawdata](../../db/p/potion_permit.json)  
-Rating: 3.87 (Ranked 1,079)  
+Rating: 3.87 (Ranked 1,080)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,928 |
-| The First Step | 87.00% | ~1,711 |
-| Moonbury Traveller | 63.00% | ~1,239 |
-| Rookie Chemist | 60.00% | ~1,180 |
+| Welcome to Moonbury | 98.00% | ~1,929 |
+| The First Step | 87.00% | ~1,712 |
+| Moonbury Traveller | 63.00% | ~1,240 |
+| Rookie Chemist | 60.00% | ~1,181 |
 | Great Doctor | 50.00% | ~984 |
-| Dog Whisperer | 47.00% | ~924 |
+| Dog Whisperer | 47.00% | ~925 |
 | Friendly | 46.00% | ~905 |
-| K.O.! | 43.00% | ~846 |
 | The Capitalist | 43.00% | ~846 |
-| Intermediate Chemist | 39.00% | ~767 |
+| K.O.! | 42.00% | ~827 |
+| Intermediate Chemist | 39.00% | ~768 |
 | Decorative Mind | 33.00% | ~649 |
 | Lumber Specialist | 31.00% | ~610 |
 | Kind-hearted | 25.00% | ~492 |
 | Catch of the Day | 25.00% | ~492 |
 | Amateur Chef | 22.00% | ~433 |
-| Fishing Guru | 20.00% | ~393 |
+| Fishing Guru | 20.00% | ~394 |
 | Spark of Love | 18.00% | ~354 |
 | Community Helper | 16.00% | ~315 |
-| Expert Chemist | 14.00% | ~275 |
-| Stone Specialist | 14.00% | ~275 |
+| Expert Chemist | 14.00% | ~276 |
+| Stone Specialist | 14.00% | ~276 |
 | Line Cook | 13.00% | ~256 |
 | Sociable | 12.00% | ~236 |
 | Ablutomaniac | 12.00% | ~236 |
@@ -44,7 +44,7 @@ Rating: 3.87 (Ranked 1,079)
 | Moonbury Navigator | 1.00% | ~20 |
 | Being a donut... | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,967 (Ranked 256)  
+Progressed: 1,968 (Ranked 256)  
 Completed: 11 (0.56%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,6 +243,7 @@ Completed: 11 (0.56%) (Ranked 220)
 | 2024-01-16 | 1,958 | 11 |
 | 2024-01-17 | 1,963 | 11 |
 | 2024-01-18 | 1,967 | 11 |
+| 2024-01-19 | 1,968 | 11 |
 ## Awards
 Max (Character Customization): 72  (Ranked 415)  
 Sum: 72 (Ranked 491)  

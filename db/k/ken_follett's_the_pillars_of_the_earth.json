@@ -2,7 +2,7 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 597,
+  "Ranking_Rating": 598,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 166,
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17944,
+  "EOS_Progressed": 17946,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18690,6 +18690,11 @@
       "Time": "2024-01-19T10:03:59.5450601+00:00",
       "NumProgressed": 17944,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-19T11:05:05.9806208+00:00",
+      "NumProgressed": 17946,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18701,7 +18706,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "tpote_achievement_10",
@@ -18717,7 +18722,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "tpote_achievement_12",
@@ -18741,7 +18746,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5742
+      "UsersEstimate": 5743
     },
     {
       "ID": "tpote_achievement_15",
@@ -18773,7 +18778,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "tpote_achievement_19",
@@ -18789,7 +18794,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5742
+      "UsersEstimate": 5743
     },
     {
       "ID": "tpote_achievement_20",
@@ -18829,7 +18834,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "tpote_achievement_25",
@@ -18861,7 +18866,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2153
+      "UsersEstimate": 2154
     },
     {
       "ID": "tpote_achievement_29",
@@ -18885,7 +18890,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1794
+      "UsersEstimate": 1795
     },
     {
       "ID": "tpote_achievement_31",
@@ -18965,7 +18970,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 6998
+      "UsersEstimate": 6999
     },
     {
       "ID": "tpote_achievement_40",
@@ -18989,7 +18994,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "tpote_achievement_6",
@@ -18997,7 +19002,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4127
+      "UsersEstimate": 4128
     },
     {
       "ID": "tpote_achievement_7",
@@ -19013,7 +19018,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3768
+      "UsersEstimate": 3769
     },
     {
       "ID": "tpote_achievement_9",
@@ -19021,22 +19026,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6101
+      "UsersEstimate": 6102
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17944,
+      "Progressed": 17946,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:03:59.5450597+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:05:05.9806204+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:03:09.2227978+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:03:59.545169+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:03:50.5197761+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:05:05.9807164+00:00"
 }

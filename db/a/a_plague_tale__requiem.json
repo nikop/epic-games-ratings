@@ -2,7 +2,7 @@
   "ID": "64ae027afbd145d9b6e62bd96967fe66",
   "Name": "A Plague Tale: Requiem",
   "ProductSlug": "a-plague-tale-requiem",
-  "Ranking_Rating": 182,
+  "Ranking_Rating": 183,
   "Ranking_Popularity": 229,
   "Ranking_PopularitySum": 307,
   "Ranking_EOS_Progress": 163,
@@ -851,9 +851,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18506,
+  "EOS_Progressed": 18507,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -16476,6 +16476,11 @@
       "Time": "2024-01-19T08:04:27.8125974+00:00",
       "NumProgressed": 18506,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-19T11:04:54.5990951+00:00",
+      "NumProgressed": 18507,
+      "NumCompleted": 66
     }
   ],
   "TotalAchievements": 35,
@@ -16487,7 +16492,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16840
+      "UsersEstimate": 16841
     },
     {
       "ID": "ACH_02",
@@ -16503,7 +16508,7 @@
       "Name": "A Burden of Blood",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 12954
+      "UsersEstimate": 12955
     },
     {
       "ID": "ACH_04",
@@ -16511,7 +16516,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12399
+      "UsersEstimate": 12400
     },
     {
       "ID": "ACH_05",
@@ -16519,7 +16524,7 @@
       "Name": "In our Wake",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 12029
+      "UsersEstimate": 12030
     },
     {
       "ID": "ACH_06",
@@ -16543,7 +16548,7 @@
       "Name": "A Sea of Promises",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 10548
+      "UsersEstimate": 10549
     },
     {
       "ID": "ACH_09",
@@ -16551,7 +16556,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 9993
+      "UsersEstimate": 9994
     },
     {
       "ID": "ACH_10",
@@ -16583,7 +16588,7 @@
       "Name": "Nothing Left",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 6662
+      "UsersEstimate": 6663
     },
     {
       "ID": "ACH_14",
@@ -16607,7 +16612,7 @@
       "Name": "King Hugo",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "ACH_17",
@@ -16663,7 +16668,7 @@
       "Name": "Improved crossbow",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4626
+      "UsersEstimate": 4627
     },
     {
       "ID": "ACH_24",
@@ -16695,7 +16700,7 @@
       "Name": "Night guard",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 7587
+      "UsersEstimate": 7588
     },
     {
       "ID": "ACH_28",
@@ -16703,7 +16708,7 @@
       "Name": "Alchemist",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 12029
+      "UsersEstimate": 12030
     },
     {
       "ID": "ACH_29",
@@ -16735,7 +16740,7 @@
       "Name": "Perfect shot",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     },
     {
       "ID": "ACH_33",
@@ -16759,14 +16764,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 4256
+      "UsersEstimate": 4257
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18506,
+      "Progressed": 18507,
       "Completed": 66
     }
   ],
@@ -16774,8 +16779,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-19T09:58:57.5075743+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:03:51.2227871+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:04:54.5990949+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.7609626+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:58:57.5075748+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:03:51.2228889+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:00:12.3814983+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:04:54.5992084+00:00"
 }

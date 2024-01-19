@@ -1,17 +1,17 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 580)  
+Rating: 4.52 (Ranked 581)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~24,937 |
-| I've Had Enough! | 15.00% | ~18,703 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,715 |
-| Seasoned Fighter | 9.00% | ~11,222 |
-| All For One and One For All | 8.00% | ~9,975 |
-| Home Sweet Home? | 6.00% | ~7,481 |
-| A New Age | 5.00% | ~6,234 |
+| All Grown Up! | 20.00% | ~24,941 |
+| I've Had Enough! | 15.00% | ~18,706 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,717 |
+| Seasoned Fighter | 9.00% | ~11,223 |
+| All For One and One For All | 8.00% | ~9,976 |
+| Home Sweet Home? | 6.00% | ~7,482 |
+| A New Age | 5.00% | ~6,235 |
 | Oh Baby, A Triple | 3.00% | ~3,741 |
 | Master of Disguise | 3.00% | ~3,741 |
 | Symbiotic | 3.00% | ~3,741 |
@@ -26,8 +26,8 @@ Rating: 4.52 (Ranked 580)
 | Ninja Reflex | 0.90% | ~1,122 |
 | Zero-sum Game | 0.90% | ~1,122 |
 | Taste Your Own Medicine | 0.70% | ~873 |
-| This is GigaBash! | 0.50% | ~623 |
-| Sidetracked... | 0.50% | ~623 |
+| This is GigaBash! | 0.50% | ~624 |
+| Sidetracked... | 0.50% | ~624 |
 | Eye of the Titan | 0.40% | ~499 |
 | Just Getting Warmed Up | 0.40% | ~499 |
 | Top of the Food Chain | 0.40% | ~499 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 580)
 | What's Mine is Yours | 0.10% | ~125 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,684 (Ranked 93)  
+Progressed: 124,704 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 123,753 | 0 |
 | 2024-01-17 | 124,143 | 0 |
 | 2024-01-18 | 124,518 | 0 |
-| 2024-01-19 | 124,684 | 0 |
+| 2024-01-19 | 124,704 | 0 |
 ## Awards
 Max (Great Boss Battles): 57  (Ranked 441)  
 Sum: 57 (Ranked 505)  

@@ -1,22 +1,22 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 1,030)  
+Rating: 4.08 (Ranked 1,031)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~551,864 |
-| Every story has a beginning | 36.00% | ~251,482 |
-| The first of many | 31.00% | ~216,554 |
-| Positive word of mouth | 18.00% | ~125,741 |
-| Lawn in the U.S.A. | 15.00% | ~104,784 |
+| The dream begins | 79.00% | ~551,870 |
+| Every story has a beginning | 36.00% | ~251,485 |
+| The first of many | 31.00% | ~216,557 |
+| Positive word of mouth | 18.00% | ~125,743 |
+| Lawn in the U.S.A. | 15.00% | ~104,786 |
 | Blade Runner | 9.00% | ~62,871 |
-| Credible | 7.00% | ~48,899 |
+| Credible | 7.00% | ~48,900 |
 | Teamwork makes the dream work | 6.00% | ~41,914 |
-| Where there's muck there's brass | 4.00% | ~27,942 |
-| Bigger and better | 4.00% | ~27,942 |
-| Aggressive expansion | 4.00% | ~27,942 |
+| Where there's muck there's brass | 4.00% | ~27,943 |
+| Bigger and better | 4.00% | ~27,943 |
+| Aggressive expansion | 4.00% | ~27,943 |
 | Size isn't everything | 3.00% | ~20,957 |
 | Close shave | 3.00% | ~20,957 |
 | Established | 3.00% | ~20,957 |
@@ -33,7 +33,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Jack of all trades | 0.90% | ~6,287 |
 | All hands on deck | 0.90% | ~6,287 |
 | Professional | 0.90% | ~6,287 |
-| Worked your grass off | 0.80% | ~5,588 |
+| Worked your grass off | 0.80% | ~5,589 |
 | Phoenix rises | 0.40% | ~2,794 |
 | Cut Loose | 0.40% | ~2,794 |
 | Esteemed | 0.40% | ~2,794 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~699 |
 | Mo mowers, mo problems | 0.10% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698,562 (Ranked 29)  
+Progressed: 698,570 (Ranked 29)  
 Completed: 19 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 19 (0.00%) (Ranked 405)
 | 2024-01-16 | 698,034 | 19 |
 | 2024-01-17 | 698,277 | 19 |
 | 2024-01-18 | 698,496 | 19 |
-| 2024-01-19 | 698,562 | 19 |
+| 2024-01-19 | 698,570 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 314)  
 Sum: 992 (Ranked 278)  

@@ -1,31 +1,31 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.46 (Ranked 675)  
+Rating: 4.46 (Ranked 676)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~375,132 |
-| Now You're Talking | 62.00% | ~332,260 |
-| Steel Yourself | 62.00% | ~332,260 |
+| First Step | 70.00% | ~375,134 |
+| Now You're Talking | 62.00% | ~332,261 |
+| Steel Yourself | 62.00% | ~332,261 |
 | Window Dressing | 50.00% | ~267,952 |
-| Trigger Happy | 46.00% | ~246,515 |
-| Riverborn | 45.00% | ~241,156 |
-| Starry Eyed | 34.00% | ~182,207 |
-| Poking Around | 34.00% | ~182,207 |
+| Trigger Happy | 46.00% | ~246,516 |
+| Riverborn | 45.00% | ~241,157 |
+| Starry Eyed | 34.00% | ~182,208 |
+| Poking Around | 34.00% | ~182,208 |
 | Talk of the Town | 24.00% | ~128,617 |
 | AAARR! | 23.00% | ~123,258 |
 | Hello Darkness | 23.00% | ~123,258 |
 | Wind At Our Backs | 22.00% | ~117,899 |
 | To the Beat | 20.00% | ~107,181 |
 | Sunny Shores | 17.00% | ~91,104 |
-| Sunday Best | 16.00% | ~85,744 |
-| To Victory! | 15.00% | ~80,385 |
-| Two of a Kind | 14.00% | ~75,026 |
-| Keep On Trucking | 13.00% | ~69,667 |
-| Going on an Adventure | 12.00% | ~64,308 |
-| Make Peace, Not War | 11.00% | ~58,949 |
+| Sunday Best | 16.00% | ~85,745 |
+| To Victory! | 15.00% | ~80,386 |
+| Two of a Kind | 14.00% | ~75,027 |
+| Keep On Trucking | 13.00% | ~69,668 |
+| Going on an Adventure | 12.00% | ~64,309 |
+| Make Peace, Not War | 11.00% | ~58,950 |
 | Walking The Line | 10.00% | ~53,590 |
 | Not So Cute Anymore | 10.00% | ~53,590 |
 | Road Less Travelled | 9.00% | ~48,231 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,608 |
 | Point Taken | 0.20% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535,903 (Ranked 37)  
+Progressed: 535,905 (Ranked 37)  
 Completed: 523 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 523 (0.10%) (Ranked 317)
 | 2024-01-16 | 535,756 | 523 |
 | 2024-01-17 | 535,815 | 523 |
 | 2024-01-18 | 535,876 | 523 |
-| 2024-01-19 | 535,903 | 523 |
+| 2024-01-19 | 535,905 | 523 |
 ## Awards
 Max (Relaxing): 21  (Ranked 576)  
 Sum: 21 (Ranked 579)  

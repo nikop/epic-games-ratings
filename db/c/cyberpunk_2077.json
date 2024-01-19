@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 283,
+  "Ranking_Rating": 284,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
@@ -18710,9 +18710,9 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1054764,
+  "EOS_Progressed": 1054807,
   "EOS_Completed": 3125,
-  "EOS_NewPlayers": 7461,
+  "EOS_NewPlayers": 7424,
   "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50095,6 +50095,11 @@
       "Time": "2024-01-19T10:09:18.9267502+00:00",
       "NumProgressed": 1054764,
       "NumCompleted": 3125
+    },
+    {
+      "Time": "2024-01-19T11:09:54.9896709+00:00",
+      "NumProgressed": 1054807,
+      "NumCompleted": 3125
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50369,9 +50374,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 4219
     },
     {
       "ID": "TheWorld",
@@ -50642,21 +50647,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054764,
+      "Progressed": 1054807,
       "Completed": 3125
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183387,
-      "Completed": 10654
+      "Progressed": 183430,
+      "Completed": 10655
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-19T06:03:20.2493981+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:09:18.92675+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:09:54.9896707+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:03:20.8314918+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:09:18.9269225+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:04:08.0052997+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:09:54.9898151+00:00"
 }

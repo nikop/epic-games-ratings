@@ -1,23 +1,23 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 991)  
+Rating: 4.17 (Ranked 992)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,824 |
+| Colonize a Planet | 77.00% | ~5,825 |
 | Worker Specialization | 76.00% | ~5,749 |
-| First Contact | 72.00% | ~5,446 |
+| First Contact | 72.00% | ~5,447 |
 | Win a Battle | 65.00% | ~4,917 |
-| Anomaly Researcher | 60.00% | ~4,538 |
-| Unleash My Power | 60.00% | ~4,538 |
-| Own 30 Planets | 32.00% | ~2,420 |
+| Anomaly Researcher | 60.00% | ~4,539 |
+| Unleash My Power | 60.00% | ~4,539 |
+| Own 30 Planets | 32.00% | ~2,421 |
 | Xenocide | 31.00% | ~2,345 |
 | Design a Civilization | 31.00% | ~2,345 |
 | Commodity Trader | 29.00% | ~2,194 |
-| Design a Ship | 27.00% | ~2,042 |
-| Commodity Seller | 24.00% | ~1,815 |
+| Design a Ship | 27.00% | ~2,043 |
+| Commodity Seller | 24.00% | ~1,816 |
 | Prestige Victory! | 13.00% | ~983 |
 | Galactic War | 10.00% | ~756 |
 | Trading Partner | 8.00% | ~605 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Rebuild the Retribution | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,564 (Ranked 199)  
+Progressed: 7,565 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 7,557 | 0 |
 | 2024-01-17 | 7,558 | 0 |
 | 2024-01-18 | 7,562 | 0 |
-| 2024-01-19 | 7,564 | 0 |
+| 2024-01-19 | 7,565 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 384)  
 Sum: 702 (Ranked 313)  

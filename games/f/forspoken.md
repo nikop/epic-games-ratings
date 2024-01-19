@@ -1,11 +1,11 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.16 (Ranked 997)  
+Rating: 4.16 (Ranked 998)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,171 |
+| Attachments | 13.00% | ~6,172 |
 | Unlocked Potential | 12.00% | ~5,697 |
 | Tinkerer | 9.00% | ~4,273 |
 | Leapfrogger | 8.00% | ~3,798 |
@@ -13,9 +13,9 @@ Rating: 4.16 (Ranked 997)
 | Pilgrimage: Initiate | 8.00% | ~3,798 |
 | Hell of a Run | 8.00% | ~3,798 |
 | Call of the Fount: Baptized | 7.00% | ~3,323 |
-| No Mercy | 6.00% | ~2,848 |
-| Explorer: Seeker | 6.00% | ~2,848 |
-| Help Me Out Here | 6.00% | ~2,848 |
+| No Mercy | 6.00% | ~2,849 |
+| Explorer: Seeker | 6.00% | ~2,849 |
+| Help Me Out Here | 6.00% | ~2,849 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,374 |
 | Stuck | 5.00% | ~2,374 |
 | The Interloper | 4.00% | ~1,899 |
@@ -23,13 +23,13 @@ Rating: 4.16 (Ranked 997)
 | Damned If You Do... | 3.00% | ~1,424 |
 | Hop, Step, Jump | 3.00% | ~1,424 |
 | Endless Runner | 3.00% | ~1,424 |
-| What Must Be Done | 2.00% | ~949 |
-| Might and Main | 2.00% | ~949 |
-| The Hue of Blue | 2.00% | ~949 |
-| Breaking Point | 2.00% | ~949 |
-| Explorer: Pathfinder | 2.00% | ~949 |
-| Shocker | 2.00% | ~949 |
-| From Every Angle | 2.00% | ~949 |
+| What Must Be Done | 2.00% | ~950 |
+| Might and Main | 2.00% | ~950 |
+| The Hue of Blue | 2.00% | ~950 |
+| Breaking Point | 2.00% | ~950 |
+| Explorer: Pathfinder | 2.00% | ~950 |
+| Shocker | 2.00% | ~950 |
+| From Every Angle | 2.00% | ~950 |
 | The Truth Will Out | 1.00% | ~475 |
 | None the Wiser | 1.00% | ~475 |
 | Forspoken | 1.00% | ~475 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 997)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,473 (Ranked 127)  
+Progressed: 47,478 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 4 (0.01%) (Ranked 379)
 | 2024-01-16 | 47,364 | 4 |
 | 2024-01-17 | 47,424 | 4 |
 | 2024-01-18 | 47,464 | 4 |
-| 2024-01-19 | 47,473 | 4 |
+| 2024-01-19 | 47,478 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 455)  
 Sum: 78 (Ranked 488)  

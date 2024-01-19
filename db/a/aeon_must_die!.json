@@ -4,7 +4,7 @@
   "ProductSlug": "aeon-must-die",
   "Ranking_EOS_Progress": 226,
   "Ranking_EOS_Completed": 3860,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 387,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-27T21:59:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3654,
+  "EOS_Progressed": 3655,
   "EOS_Completed": -28,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": -0.77,
   "EosHistory": [
@@ -979,6 +979,11 @@
       "Time": "2024-01-18T07:10:15.0881527+00:00",
       "NumProgressed": 3654,
       "NumCompleted": -28
+    },
+    {
+      "Time": "2024-01-19T11:10:11.5041935+00:00",
+      "NumProgressed": 3655,
+      "NumCompleted": -28
     }
   ],
   "TotalAchievements": 35,
@@ -1046,7 +1051,7 @@
       "Name": "Moment Of Perfection",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "17",
@@ -1086,7 +1091,7 @@
       "Name": "Even While Weakened",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "21",
@@ -1158,7 +1163,7 @@
       "Name": "Balance Incarnate",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "3",
@@ -1198,7 +1203,7 @@
       "Name": "Cheap Tricks",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "34",
@@ -1269,7 +1274,7 @@
     {
       "ID": "5cfan5f",
       "IsBase": true,
-      "Progressed": 3654,
+      "Progressed": 3655,
       "Completed": -28
     }
   ],
@@ -1277,8 +1282,8 @@
   "FirstSeenRating": "2023-03-31T05:57:47.6282552+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:12.6590754+00:00",
   "LastChanged": "2023-03-31T05:57:47.6282553+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:09:30.6248256+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:10:11.5041932+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:17.8264224+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:00:09.2769117+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:09:30.6248501+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:02:00.942138+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:10:11.5042247+00:00"
 }

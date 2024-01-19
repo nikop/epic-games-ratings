@@ -1,13 +1,14 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.67 (Ranked 283)  
+Rating: 4.67 (Ranked 284)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.40% | ~4,219 |
 | Right Back At Ya | 0.40% | ~4,219 |
+| The Wheel of Fortune | 0.40% | ~4,219 |
 | True Soldier | 0.40% | ~4,219 |
 | Christmas Tree Attack | 0.30% | ~3,164 |
 | Life of the Road | 0.30% | ~3,164 |
@@ -16,7 +17,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.30% | ~3,164 |
 | The High Priestess | 0.30% | ~3,164 |
 | The Lovers | 0.30% | ~3,164 |
-| The Wheel of Fortune | 0.30% | ~3,164 |
 | Legend of The Afterlife | 0.30% | ~3,164 |
 | All the President's Men | 0.30% | ~550 |
 | Arachnophobia | 0.30% | ~550 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,764 (Ranked 17)  
+Progressed: 1,054,807 (Ranked 17)  
 Completed: 3,125 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 3,125 (0.30%) (Ranked 263)
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
-| 2024-01-19 | 1,054,764 | 3,125 |
+| 2024-01-19 | 1,054,807 | 3,125 |
 ## Awards
 Max (Character Customization): 142,143  (Ranked 8)  
 Sum: 504,915 (Ranked 8)  

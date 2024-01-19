@@ -2,7 +2,7 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 532,
+  "Ranking_Rating": 533,
   "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 74,
@@ -905,9 +905,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244102,
+  "EOS_Progressed": 244106,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1362,
+  "EOS_NewPlayers": 1357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21815,6 +21815,11 @@
       "Time": "2024-01-19T10:10:24.8473771+00:00",
       "NumProgressed": 244102,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T11:11:25.767065+00:00",
+      "NumProgressed": 244106,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21883,7 +21888,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51261
+      "UsersEstimate": 51262
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -21891,7 +21896,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 21969
+      "UsersEstimate": 21970
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -22011,7 +22016,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34174
+      "UsersEstimate": 34175
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -22098,7 +22103,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244102,
+      "Progressed": 244106,
       "Completed": 0
     }
   ],
@@ -22106,8 +22111,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-16T11:59:06.7396953+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:10:24.8473769+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:11:25.7670647+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:00:03.9759258+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:10:24.8474669+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:01:52.9649731+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:11:25.7671866+00:00"
 }

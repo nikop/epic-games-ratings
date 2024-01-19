@@ -1485,9 +1485,9 @@
       "ID": "Ach-04-snek",
       "SetID": "2pjo9pi",
       "Name": "Snek",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "Ach-04-tucnak",
@@ -1501,9 +1501,9 @@
       "ID": "Ach-04-zaba",
       "SetID": "2pjo9pi",
       "Name": "Zaba",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 32
+      "UsersEstimate": 35
     },
     {
       "ID": "Ach-04-zarovka",
@@ -1700,8 +1700,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:09:40.8002387+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:10:24.9821879+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683371+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:57:59.1834697+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:09:40.8002916+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:58:43.5726325+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:10:24.9822432+00:00"
 }

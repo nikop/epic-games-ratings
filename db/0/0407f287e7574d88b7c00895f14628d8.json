@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 428,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 226,
+  "EOS_Progressed": 227,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -949,6 +949,11 @@
       "Time": "2024-01-19T09:05:41.8024104+00:00",
       "NumProgressed": 226,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T11:07:29.6132117+00:00",
+      "NumProgressed": 227,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -975,9 +980,9 @@
       "ID": "c2",
       "SetID": "b1ggf28",
       "Name": "Mineral-Rich",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 16
     },
     {
       "ID": "c3",
@@ -1041,7 +1046,7 @@
       "Name": "City Center",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "fw2",
@@ -1073,7 +1078,7 @@
       "Name": "Efficient Tools",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "g3",
@@ -1081,7 +1086,7 @@
       "Name": "Handcart",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "j1",
@@ -1111,9 +1116,9 @@
       "ID": "jg1",
       "SetID": "b1ggf28",
       "Name": "Infrastructure",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "jg2",
@@ -1135,9 +1140,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 75
     },
     {
       "ID": "jk2",
@@ -1185,7 +1190,7 @@
       "Name": "Advanced Technology",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "k2",
@@ -1273,7 +1278,7 @@
       "Name": "Against the Cold",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "w2",
@@ -1368,14 +1373,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 226,
+      "Progressed": 227,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:05:42.6193882+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:07:29.6132113+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:03:12.621548+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:05:42.6194365+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:03:55.4602096+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:07:29.6132512+00:00"
 }

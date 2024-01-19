@@ -2,12 +2,12 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 434,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -107,9 +107,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 205,
+  "EOS_Progressed": 206,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1077,6 +1077,11 @@
       "Time": "2024-01-19T04:10:22.4373327+00:00",
       "NumProgressed": 205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T11:11:32.0848758+00:00",
+      "NumProgressed": 206,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1127,9 +1132,9 @@
       "ID": "id_16",
       "SetID": "bk9jib6",
       "Name": "Little hero",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "id_17",
@@ -1137,7 +1142,7 @@
       "Name": "Freedom fighter",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "id_18",
@@ -1199,9 +1204,9 @@
       "ID": "id_26",
       "SetID": "bk9jib6",
       "Name": "Titan Lord",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "id_3",
@@ -1209,7 +1214,7 @@
       "Name": "Philanthropist",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "id_30",
@@ -1217,7 +1222,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "id_32",
@@ -1225,7 +1230,7 @@
       "Name": "The brave little tailor",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "id_33",
@@ -1361,7 +1366,7 @@
       "Name": "Idiot",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "id_53",
@@ -1377,7 +1382,7 @@
       "Name": "Safecracker",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "id_55",
@@ -1393,7 +1398,7 @@
       "Name": "Master thief",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "id_57",
@@ -1433,7 +1438,7 @@
       "Name": "Adventurer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "id_61",
@@ -1441,7 +1446,7 @@
       "Name": "Map reader",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "id_62",
@@ -1449,7 +1454,7 @@
       "Name": "Archer",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "id_63",
@@ -1471,9 +1476,9 @@
       "ID": "id_8",
       "SetID": "bk9jib6",
       "Name": "Sidelined",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 39
+      "UsersEstimate": 37
     },
     {
       "ID": "id_9",
@@ -1488,7 +1493,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 205,
+      "Progressed": 206,
       "Completed": 0
     }
   ],
@@ -1496,8 +1501,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-15T06:57:50.024963+00:00",
-  "LastChanged_Achievements": "2024-01-19T10:10:29.8216954+00:00",
+  "LastChanged_Achievements": "2024-01-19T11:11:32.0848755+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.9157484+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:59:43.7699063+00:00",
-  "LastUpdate_Achievements": "2024-01-19T10:10:29.8217338+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:01:22.9008118+00:00",
+  "LastUpdate_Achievements": "2024-01-19T11:11:32.0849245+00:00"
 }

@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 498)  
+Rating: 4.57 (Ranked 499)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 498)
 | Complete Ranger Faction | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,338 (Ranked 248)  
+Progressed: 2,339 (Ranked 248)  
 Completed: 12 (0.51%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,6 +269,7 @@ Completed: 12 (0.51%) (Ranked 224)
 | 2024-01-16 | 2,333 | 12 |
 | 2024-01-17 | 2,335 | 12 |
 | 2024-01-18 | 2,338 | 12 |
+| 2024-01-19 | 2,339 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
