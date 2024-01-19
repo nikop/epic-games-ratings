@@ -5,17 +5,17 @@ Rating: 4.64 (Ranked 347)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,770 |
-| On the Top Step | 83.00% | ~15,296 |
-| Setting up for Success | 70.00% | ~12,900 |
+| Getting on the Step | 91.00% | ~16,771 |
+| On the Top Step | 83.00% | ~15,297 |
+| Setting up for Success | 70.00% | ~12,901 |
 | Team Orders | 68.00% | ~12,532 |
-| Engineer | 46.00% | ~8,477 |
-| Familiar Faces | 42.00% | ~7,740 |
-| Going the Extra Mile | 36.00% | ~6,634 |
+| Engineer | 46.00% | ~8,478 |
+| Familiar Faces | 42.00% | ~7,741 |
+| Going the Extra Mile | 36.00% | ~6,635 |
 | Sharing the Love | 33.00% | ~6,082 |
 | Hitting a Season | 28.00% | ~5,160 |
-| A Dozen Pieces | 25.00% | ~4,607 |
-| Making History | 25.00% | ~4,607 |
+| A Dozen Pieces | 25.00% | ~4,608 |
+| Making History | 25.00% | ~4,608 |
 | Challenge Yourself | 24.00% | ~4,423 |
 | Network Success | 23.00% | ~4,239 |
 | Writing a new Chapter | 20.00% | ~3,686 |
@@ -24,7 +24,7 @@ Rating: 4.64 (Ranked 347)
 | Ups and Downs | 15.00% | ~2,764 |
 | Crucial Combo | 13.00% | ~2,396 |
 | Proving Them Wrong | 13.00% | ~2,396 |
-| Reuse | 12.00% | ~2,211 |
+| Reuse | 12.00% | ~2,212 |
 | Gathering Dust | 11.00% | ~2,027 |
 | One for the Book | 11.00% | ~2,027 |
 | Eagle Eye | 10.00% | ~1,843 |
@@ -38,7 +38,7 @@ Rating: 4.64 (Ranked 347)
 | Undisputed Winner | 7.00% | ~1,290 |
 | Recycle | 7.00% | ~1,290 |
 | Tinkerer | 6.00% | ~1,106 |
-| For all Those Back at the Factory | 5.00% | ~921 |
+| For all Those Back at the Factory | 5.00% | ~922 |
 | Living up to Expectations | 4.00% | ~737 |
 | Smooth Operator | 4.00% | ~737 |
 | Peak Performance | 4.00% | ~737 |
@@ -55,8 +55,8 @@ Rating: 4.64 (Ranked 347)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,429 (Ranked 164)  
-Completed: 0 (0.00%) (Ranked 405)  
+Progressed: 18,430 (Ranked 164)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -183,7 +183,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 18,312 | 0 |
 | 2024-01-17 | 18,358 | 0 |
 | 2024-01-18 | 18,404 | 0 |
-| 2024-01-19 | 18,429 | 0 |
+| 2024-01-19 | 18,430 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
 Sum: 461 (Ranked 348)  

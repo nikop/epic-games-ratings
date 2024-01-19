@@ -5,48 +5,48 @@ Rating: 4.26 (Ranked 922)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~160,856 |
-| Dead-ball specialist | 61.00% | ~130,829 |
-| European Legend | 52.00% | ~111,526 |
-| Multitasking | 51.00% | ~109,382 |
-| Balanced Path | 49.00% | ~105,092 |
-| High Grades | 48.00% | ~102,948 |
-| A Moment of Your Time | 46.00% | ~98,658 |
-| Let the Games Begin | 46.00% | ~98,658 |
-| Aiming High | 46.00% | ~98,658 |
-| Tactical Tinkerer | 40.00% | ~85,790 |
-| Intuition and Execution | 39.00% | ~83,645 |
-| Squad Building Connoisseur | 38.00% | ~81,500 |
-| The Winning Formula | 36.00% | ~77,211 |
-| Parking the Bus | 27.00% | ~57,908 |
-| Safe House | 26.00% | ~55,763 |
-| Best of Five | 26.00% | ~55,763 |
-| Football is Everything | 24.00% | ~51,474 |
-| The Chosen One | 21.00% | ~45,040 |
-| Fresh Fit | 20.00% | ~42,895 |
-| Bring it on | 17.00% | ~36,461 |
-| Life-Like | 14.00% | ~30,026 |
-| Make the Grade | 12.00% | ~25,737 |
-| I Played Them All | 10.00% | ~21,447 |
-| Specialist | 10.00% | ~21,447 |
-| Teamwork works | 9.00% | ~19,303 |
-| First of Many | 9.00% | ~19,303 |
-| Momentous Achievement | 6.00% | ~12,868 |
+| Power Shot | 75.00% | ~160,867 |
+| Dead-ball specialist | 61.00% | ~130,838 |
+| European Legend | 52.00% | ~111,534 |
+| Multitasking | 51.00% | ~109,389 |
+| Balanced Path | 49.00% | ~105,100 |
+| High Grades | 48.00% | ~102,955 |
+| A Moment of Your Time | 46.00% | ~98,665 |
+| Let the Games Begin | 46.00% | ~98,665 |
+| Aiming High | 46.00% | ~98,665 |
+| Tactical Tinkerer | 40.00% | ~85,796 |
+| Intuition and Execution | 39.00% | ~83,651 |
+| Squad Building Connoisseur | 38.00% | ~81,506 |
+| The Winning Formula | 36.00% | ~77,216 |
+| Parking the Bus | 27.00% | ~57,912 |
+| Safe House | 26.00% | ~55,767 |
+| Best of Five | 26.00% | ~55,767 |
+| Football is Everything | 24.00% | ~51,477 |
+| The Chosen One | 21.00% | ~45,043 |
+| Fresh Fit | 20.00% | ~42,898 |
+| Bring it on | 17.00% | ~36,463 |
+| Life-Like | 14.00% | ~30,028 |
+| Make the Grade | 12.00% | ~25,739 |
+| I Played Them All | 10.00% | ~21,449 |
+| Specialist | 10.00% | ~21,449 |
+| Teamwork works | 9.00% | ~19,304 |
+| First of Many | 9.00% | ~19,304 |
+| Momentous Achievement | 6.00% | ~12,869 |
 | Becoming Unplayable | 5.00% | ~10,724 |
 | Shop till you drop | 5.00% | ~10,724 |
 | On the way up | 5.00% | ~10,724 |
-| Volta's best | 4.00% | ~8,579 |
-| In Cahoots | 4.00% | ~8,579 |
-| Tune Your Club | 4.00% | ~8,579 |
-| Full-House | 4.00% | ~8,579 |
-| Sharing is Caring | 3.00% | ~6,434 |
+| Volta's best | 4.00% | ~8,580 |
+| In Cahoots | 4.00% | ~8,580 |
+| Tune Your Club | 4.00% | ~8,580 |
+| Full-House | 4.00% | ~8,580 |
+| Sharing is Caring | 3.00% | ~6,435 |
 | Full wardrobe | 0.50% | ~1,072 |
 | Girl Power | 0.40% | ~858 |
 | Training Addict | 0.10% | ~214 |
 | Dazzling Personality | 0.10% | ~214 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,474 (Ranked 82)  
-Completed: 0 (0.00%) (Ranked 405)  
+Progressed: 214,489 (Ranked 82)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -172,21 +172,21 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 213,829 | 0 |
 | 2024-01-17 | 214,072 | 0 |
 | 2024-01-18 | 214,334 | 0 |
-| 2024-01-19 | 214,474 | 0 |
+| 2024-01-19 | 214,489 | 0 |
 ## Awards
-Max (Diverse Characters): 22,303  (Ranked 21)  
-Sum: 110,620 (Ranked 17)  
+Max (Diverse Characters): 22,316  (Ranked 21)  
+Sum: 110,640 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 22,303 |
+| This game has Diverse Characters | 22,316 |
 | This game is Highly Recommended | 15,132 |
 | This game has a Competitive Community | 14,481 |
 | This game has Amazing Characters | 12,445 |
 | This game is Extremely Fun | 11,928 |
 | This game has Competitive Players | 11,870 |
 | This game has Amazing Storytelling | 11,691 |
-| This game has Quickly Understood Controls | 10,770 |
+| This game has Quickly Understood Controls | 10,777 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -570,4 +570,4 @@ Diff (max vs sum): 4
 | 2024-01-16 | 4.26 | 22,275 | 110,519 |
 | 2024-01-17 | 4.26 | 22,286 | 110,556 |
 | 2024-01-18 | 4.26 | 22,303 | 110,604 |
-| 2024-01-19 | 4.26 | 22,303 | 110,620 |
+| 2024-01-19 | 4.26 | 22,316 | 110,640 |

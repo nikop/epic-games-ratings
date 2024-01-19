@@ -3,8 +3,8 @@
   "Name": "Return to Abyss \u91CD\u8FD4\u6DF1\u6E0A",
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 482,
-  "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_Completed": 406,
+  "Ranking_EOS_NewPlayers": 492,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 134,
+  "EOS_Progressed": 135,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -604,6 +604,11 @@
       "Time": "2024-01-10T19:04:52.0803542+00:00",
       "NumProgressed": 134,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T16:07:19.8523551+00:00",
+      "NumProgressed": 135,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -615,7 +620,7 @@
       "Name": "10,000-Volt Electric Field",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -623,7 +628,7 @@
       "Name": "End Day",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Epic_Brand_25",
@@ -719,7 +724,7 @@
       "Name": "Stars\u0027 Shimmer",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "Epic_Formula_12",
@@ -735,15 +740,15 @@
       "Name": "Bad Apple",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 63
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -789,7 +794,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 20,
       "UsersEstimate": 84
     },
@@ -799,7 +804,7 @@
       "Name": "Pseudo-redemption",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "Epic_KillBoss_25",
@@ -871,13 +876,13 @@
       "Name": "Deus Ex Machina",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 10,
       "UsersEstimate": 100
     },
@@ -983,7 +988,7 @@
       "Name": "Spark Starts Prairie Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "Epic_WinTimes_500",
@@ -998,14 +1003,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 134,
+      "Progressed": 135,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:05:51.0009053+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:07:19.8523547+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.2529391+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:00:16.8939006+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:05:51.0009415+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:02:01.4908854+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:07:19.8523879+00:00"
 }

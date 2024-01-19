@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1577,9 +1577,9 @@
       "Count": 155
     }
   ],
-  "EOS_Progressed": 14869,
+  "EOS_Progressed": 14870,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10392,6 +10392,11 @@
       "Time": "2024-01-19T14:09:30.7086684+00:00",
       "NumProgressed": 14869,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-19T16:10:12.0461955+00:00",
+      "NumProgressed": 14870,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -10427,7 +10432,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8921
+      "UsersEstimate": 8922
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10483,7 +10488,7 @@
       "Name": "Go Home...",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4163
+      "UsersEstimate": 4164
     },
     {
       "ID": "HeroSlayer",
@@ -10499,7 +10504,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 4609
+      "UsersEstimate": 4610
     },
     {
       "ID": "LeoniasFall_2",
@@ -10515,7 +10520,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 5650
+      "UsersEstimate": 5651
     },
     {
       "ID": "RookieWelcome",
@@ -10523,7 +10528,7 @@
       "Name": "Rookies Welcome",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 2676
+      "UsersEstimate": 2677
     },
     {
       "ID": "SavedElderEnt",
@@ -10531,7 +10536,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8921
+      "UsersEstimate": 8922
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10563,7 +10568,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13828
+      "UsersEstimate": 13829
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10571,7 +10576,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 7137
+      "UsersEstimate": 7138
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -10587,22 +10592,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11895
+      "UsersEstimate": 11896
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14869,
+      "Progressed": 14870,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-18T14:57:31.8456825+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:09:34.4711503+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:10:12.0461953+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:57:50.8433194+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:09:34.4712198+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:58:26.4213293+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:10:12.0462559+00:00"
 }

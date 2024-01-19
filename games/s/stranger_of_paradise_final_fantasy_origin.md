@@ -12,7 +12,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Hopes and Dreams | 82.00% | ~67,699 |
 | Lantern Smasher | 78.00% | ~64,397 |
 | The Pirate's Way | 73.00% | ~60,269 |
-| Dark Crystal, Warrior's Heart | 70.00% | ~57,792 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~58,618 |
 | The King of the Dark Elves | 68.00% | ~56,141 |
 | Memories of the Distant Past | 66.00% | ~54,490 |
 | Distortion's Progeny | 62.00% | ~51,187 |

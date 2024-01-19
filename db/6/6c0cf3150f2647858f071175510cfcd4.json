@@ -3,8 +3,8 @@
   "Name": "Aircraft Carrier Survival",
   "ProductSlug": "aircraft-carrier-survival-769456",
   "Ranking_EOS_Progress": 626,
-  "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_Completed": 406,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2024-01-17T14:00:00+00:00",
@@ -138,9 +138,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "a48gbka",
       "Name": "The Bronze Star",
-      "Percentage": 0,
+      "Percentage": 5,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -265,8 +265,8 @@
   ],
   "FirstSeen": "2024-01-18T18:00:15.4077819+00:00",
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:05:09.0319544+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:06:20.7740842+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.63618+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:00:24.9631201+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:05:09.0319684+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:02:13.5144448+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:06:20.7740998+00:00"
 }

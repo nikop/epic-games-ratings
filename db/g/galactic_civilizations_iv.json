@@ -6,8 +6,8 @@
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 199,
-  "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_Completed": 406,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -9884,9 +9884,9 @@
       "ID": "30_Citizens",
       "SetID": "4h07amh",
       "Name": "Ask Not What Your Empire Can Do For You",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 30
     },
     {
       "ID": "Buy_10_Resource",
@@ -10460,8 +10460,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:10:21.1807926+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:11:15.7722066+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:57:24.8162781+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:10:21.1808766+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:57:46.370556+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:11:15.7722918+00:00"
 }

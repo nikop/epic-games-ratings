@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.90% | ~153 |
 | Landowners | 0.90% | ~153 |
 | Patrons | 0.90% | ~153 |
+| Traders | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
 | Dualism | 0.90% | ~153 |
 | Legalism | 0.90% | ~153 |
@@ -97,25 +98,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.80% | ~136 |
 | Subjugator | 0.80% | ~136 |
 | Riders | 0.80% | ~136 |
-| Traders | 0.80% | ~136 |
 | Circus Maximus | 0.80% | ~136 |
 | Hagia Sophia | 0.80% | ~136 |
 | Pantheon | 0.80% | ~136 |
 | Via Recta Souk | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Military Prestige | 0.80% | ~136 |
+| Cimmerian Archer | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
 | Invincible | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
 | Hunters | 0.70% | ~119 |
+| Babylonia | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
 | Enlightenment | 0.70% | ~119 |
 | Gnosticism | 0.70% | ~119 |
 | Redemption | 0.70% | ~119 |
 | Veneration | 0.70% | ~119 |
-| Cimmerian Archer | 0.70% | ~119 |
 | Phalangite | 0.70% | ~119 |
 | Ambition Victory | 0.70% | ~119 |
 | Kushite Pyramids | 0.70% | ~119 |
@@ -125,7 +126,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.60% | ~102 |
 | Clerics | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
-| Babylonia | 0.60% | ~102 |
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
 | Hittite Paganism | 0.60% | ~102 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,991 (Ranked 170)  
+Progressed: 16,993 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 16,991 | 5 |
+| 2024-01-19 | 16,993 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,939 (Ranked 223)  

@@ -5,20 +5,20 @@ Rating: 4.43 (Ranked 732)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| No aid from the Omnissiah | 26.00% | ~60,471 |
-| This is only the beginning | 20.00% | ~46,516 |
-| Knowledge is power | 13.00% | ~30,236 |
-| Power Ranger | 10.00% | ~23,258 |
-| Galvanic Rifle | 10.00% | ~23,258 |
-| Radium Ready | 10.00% | ~23,258 |
-| Taser Goad | 9.00% | ~20,932 |
-| Half a cog | 9.00% | ~20,932 |
+| No aid from the Omnissiah | 26.00% | ~60,473 |
+| This is only the beginning | 20.00% | ~46,518 |
+| Knowledge is power | 13.00% | ~30,237 |
+| Power Ranger | 10.00% | ~23,259 |
+| Galvanic Rifle | 10.00% | ~23,259 |
+| Radium Ready | 10.00% | ~23,259 |
+| Taser Goad | 9.00% | ~20,933 |
+| Half a cog | 9.00% | ~20,933 |
 | Watch them crumble | 6.00% | ~13,955 |
-| Competent Cohort | 4.00% | ~9,303 |
-| Celestial Cartography Catastrophe | 4.00% | ~9,303 |
-| One with the Machine | 4.00% | ~9,303 |
-| Legio Cybernetica | 3.00% | ~6,977 |
-| Fleshy Disposal | 3.00% | ~6,977 |
+| Competent Cohort | 4.00% | ~9,304 |
+| Celestial Cartography Catastrophe | 4.00% | ~9,304 |
+| One with the Machine | 4.00% | ~9,304 |
+| Legio Cybernetica | 3.00% | ~6,978 |
+| Fleshy Disposal | 3.00% | ~6,978 |
 | Battle Servitor | 2.00% | ~4,652 |
 | Ding Dong Szaregon's Gone | 2.00% | ~4,652 |
 | Impatient destruction | 2.00% | ~4,652 |
@@ -40,8 +40,8 @@ Rating: 4.43 (Ranked 732)
 | Perma-live | 0.10% | ~233 |
 | Purge the Heretek | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,581 (Ranked 78)  
-Completed: 5 (0.00%) (Ranked 405)  
+Progressed: 232,589 (Ranked 78)  
+Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -314,7 +314,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 232,407 | 5 |
 | 2024-01-17 | 232,475 | 5 |
 | 2024-01-18 | 232,539 | 5 |
-| 2024-01-19 | 232,581 | 5 |
+| 2024-01-19 | 232,589 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 270)  
 Sum: 2,233 (Ranked 212)  

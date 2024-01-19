@@ -7,7 +7,7 @@
 | Home Sweet Home | 88.00% | ~134 |
 | Enough rooms to swing a cat | 79.00% | ~120 |
 | First to the post | 79.00% | ~120 |
-| A kind of Magic | 68.00% | ~103 |
+| A kind of Magic | 69.00% | ~105 |
 | Connected | 57.00% | ~87 |
 | Expansion | 55.00% | ~84 |
 | Mine! | 53.00% | ~81 |
@@ -15,7 +15,7 @@
 | Artificer's Apprentice | 44.00% | ~67 |
 | Fly the friendly Sky | 41.00% | ~62 |
 | Get out of here! | 40.00% | ~61 |
-| Necromancer's Apprentice | 38.00% | ~58 |
+| Necromancer's Apprentice | 39.00% | ~59 |
 | Alchemist's Apprentice | 36.00% | ~55 |
 | Friend of Lyraine | 32.00% | ~49 |
 | Redecorating | 30.00% | ~46 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 152 (Ranked 465)  
-Completed: 0 (0.00%) (Ranked 405)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

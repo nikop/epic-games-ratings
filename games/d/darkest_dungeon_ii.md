@@ -1,12 +1,12 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 244)  
+Rating: 4.69 (Ranked 243)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,131 |
+| Malpractice Assurance | 14.00% | ~1,132 |
 | Lost and Found | 9.00% | ~727 |
 | Autodidact | 8.00% | ~10,657 |
 | This Belongs in a Museum | 7.00% | ~9,325 |
@@ -22,30 +22,30 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~7,993 |
 | Ploughshares to Swords | 6.00% | ~485 |
 | Bloody Graduation | 6.00% | ~485 |
-| It Rings a Bell | 5.00% | ~6,660 |
-| Not Today! | 5.00% | ~6,660 |
-| It Happens | 5.00% | ~6,660 |
-| Merry Time | 5.00% | ~6,660 |
-| Harvest Festival | 5.00% | ~6,660 |
-| Whale | 5.00% | ~6,660 |
-| A Place to Lay Your Head | 5.00% | ~6,660 |
-| FNG | 5.00% | ~6,660 |
-| Nope | 5.00% | ~6,660 |
+| It Rings a Bell | 5.00% | ~6,661 |
+| Not Today! | 5.00% | ~6,661 |
+| It Happens | 5.00% | ~6,661 |
+| Merry Time | 5.00% | ~6,661 |
+| Harvest Festival | 5.00% | ~6,661 |
+| Whale | 5.00% | ~6,661 |
+| A Place to Lay Your Head | 5.00% | ~6,661 |
+| FNG | 5.00% | ~6,661 |
+| Nope | 5.00% | ~6,661 |
 | Friends 'Til the End | 5.00% | ~404 |
-| Resurrection | 4.00% | ~5,328 |
-| Unleash Hell | 4.00% | ~5,328 |
-| Funny Guy | 4.00% | ~5,328 |
-| Long Live the King | 4.00% | ~5,328 |
-| Wyrdly Reconstructed | 4.00% | ~5,328 |
-| Boxcar Kid | 4.00% | ~5,328 |
-| Unfulfilled Desires | 4.00% | ~5,328 |
-| Dissector | 4.00% | ~5,328 |
-| Banishment | 4.00% | ~5,328 |
-| Now Stay Dead | 4.00% | ~5,328 |
-| Spelunker | 4.00% | ~5,328 |
-| Ramble On | 4.00% | ~5,328 |
-| A Clear Conscience | 4.00% | ~5,328 |
-| Unshackled | 4.00% | ~5,328 |
+| Resurrection | 4.00% | ~5,329 |
+| Unleash Hell | 4.00% | ~5,329 |
+| Funny Guy | 4.00% | ~5,329 |
+| Long Live the King | 4.00% | ~5,329 |
+| Wyrdly Reconstructed | 4.00% | ~5,329 |
+| Boxcar Kid | 4.00% | ~5,329 |
+| Unfulfilled Desires | 4.00% | ~5,329 |
+| Dissector | 4.00% | ~5,329 |
+| Banishment | 4.00% | ~5,329 |
+| Now Stay Dead | 4.00% | ~5,329 |
+| Spelunker | 4.00% | ~5,329 |
+| Ramble On | 4.00% | ~5,329 |
+| A Clear Conscience | 4.00% | ~5,329 |
+| Unshackled | 4.00% | ~5,329 |
 | Hope Rekindled | 3.00% | ~3,996 |
 | Predator | 3.00% | ~3,996 |
 | Deprogramming | 3.00% | ~3,996 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,210 (Ranked 92)  
-Completed: 5 (0.00%) (Ranked 405)  
+Progressed: 133,214 (Ranked 92)  
+Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -350,10 +350,10 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,210 | 5 |
+| 2024-01-19 | 133,214 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
-Sum: 21,752 (Ranked 58)  
+Sum: 21,754 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): -6
 | This game is Highly Recommended | 1,610 |
 | This game has Amazing Characters | 1,539 |
 | This game is Extremely Fun | 1,532 |
-| This game has Unique Visuals | 1,478 |
+| This game has Unique Visuals | 1,480 |
 | This game has Amazing Storytelling | 1,458 |
 | This game has Quickly Understood Controls | 1,427 |
 | This game has a Creative Community | 1,104 |
@@ -728,4 +728,4 @@ Diff (max vs sum): -6
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
-| 2024-01-19 | 4.69 | - | 8,044 | 21,752 |
+| 2024-01-19 | 4.69 | - | 8,044 | 21,754 |

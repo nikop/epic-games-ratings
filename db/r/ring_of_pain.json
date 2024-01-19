@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3934,7 +3934,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243205,
+  "EOS_Progressed": 243207,
   "EOS_Completed": 309,
   "EOS_NewPlayers": 379,
   "EOS_NewCompleters": 4,
@@ -32344,6 +32344,11 @@
       "Time": "2024-01-19T15:10:27.9935321+00:00",
       "NumProgressed": 243205,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-19T16:11:24.2955632+00:00",
+      "NumProgressed": 243207,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32785,9 +32790,9 @@
       "ID": "KILL20TYPES",
       "SetID": "5l8oe0h",
       "Name": "The Bestiary",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2432
     },
     {
       "ID": "KILLABOMINATIONHIGHDEF",
@@ -33458,13 +33463,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243205,
+      "Progressed": 243207,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4685,
+      "Progressed": 4687,
       "Completed": 429
     }
   ],
@@ -33472,8 +33477,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:10:27.9935317+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:11:24.2955629+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:59:16.4881304+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:10:27.9937781+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:00:34.1437138+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:11:24.2958173+00:00"
 }

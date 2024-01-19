@@ -28,9 +28,9 @@ Rating: 4.17 (Ranked 991)
 | Godslayer | 9.00% | ~215 |
 | Airborne | 9.00% | ~215 |
 | Miner | 9.00% | ~215 |
+| Fine Feathers Make Fine Birds | 6.00% | ~143 |
 | Clear Sight | 5.00% | ~119 |
 | Shatterer | 5.00% | ~119 |
-| Fine Feathers Make Fine Birds | 5.00% | ~119 |
 | A Queen's Tale | 4.00% | ~96 |
 | Slayer | 3.00% | ~72 |
 | Flawless Victory | 3.00% | ~72 |

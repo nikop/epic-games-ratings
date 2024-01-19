@@ -50,7 +50,7 @@ Rating: 4.84 (Ranked 49)
 | The Good, the Bad and the Krabby | 8.00% | ~3 |
 | Wrath-tub | 8.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 37 (Ranked 590)  
+Progressed: 37 (Ranked 591)  
 Completed: 4 (10.81%) (Ranked 40)  
 ## EOS Players History
 | Date | Progressed | Completed |

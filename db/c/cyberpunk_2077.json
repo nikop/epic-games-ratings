@@ -18642,10 +18642,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 505535,
       "NumberOfAwardsMax": 142143
+    },
+    {
+      "Time": "2024-01-19T16:03:42.3728866+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 505721,
+      "NumberOfAwardsMax": 142143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 505535,
+  "NumberOfAwards": 505721,
   "NumberOfAwardsMax": 142143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18701,7 +18707,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 27856
+      "Count": 28042
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18722,9 +18728,9 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1054975,
+  "EOS_Progressed": 1055010,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 7173,
+  "EOS_NewPlayers": 7107,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50132,6 +50138,11 @@
       "Time": "2024-01-19T15:09:09.1953726+00:00",
       "NumProgressed": 1054975,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-19T16:09:36.6113832+00:00",
+      "NumProgressed": 1055010,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50230,9 +50241,9 @@
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2110
+      "UsersEstimate": 3165
     },
     {
       "ID": "IAmMaxTac",
@@ -50679,21 +50690,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054975,
+      "Progressed": 1055010,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183598,
-      "Completed": 10659
+      "Progressed": 183633,
+      "Completed": 10661
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-19T15:03:17.792007+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:09:09.1953723+00:00",
+  "LastChanged": "2024-01-19T16:03:42.3728864+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:09:36.611383+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:03:17.7920076+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:09:09.1956303+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:03:42.372887+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:09:36.6115538+00:00"
 }

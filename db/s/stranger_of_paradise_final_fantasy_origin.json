@@ -1887,7 +1887,7 @@
   ],
   "EOS_Progressed": 82560,
   "EOS_Completed": 2236,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 2.71,
   "EosHistory": [
@@ -14656,9 +14656,9 @@
       "ID": "034_TROPHY_UNLOCKED_ADVANCED_JOB",
       "SetID": "4ajkb4b",
       "Name": "Dark Crystal, Warrior\u0027s Heart",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 57792
+      "UsersEstimate": 58618
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -14760,8 +14760,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2024-01-18T16:00:50.191894+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:06:07.8467822+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:07:43.2062322+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:29.2292241+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:59:59.666738+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:06:07.8468784+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:01:37.6784281+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:07:43.2063216+00:00"
 }

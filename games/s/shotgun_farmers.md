@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Seeds of War | 81.00% | ~310 |
-| First Blood | 64.00% | ~245 |
-| Triple Kill | 62.00% | ~237 |
-| Aspairagus | 59.00% | ~196 |
-| No Asperascope | 58.00% | ~222 |
-| Survivor | 56.00% | ~186 |
-| Cornivore | 53.00% | ~203 |
+| Seeds of War | 81.00% | ~311 |
+| First Blood | 64.00% | ~246 |
+| Triple Kill | 63.00% | ~242 |
+| Aspairagus | 59.00% | ~197 |
+| No Asperascope | 58.00% | ~223 |
+| Survivor | 56.00% | ~187 |
+| Cornivore | 53.00% | ~204 |
 | I Believe I Can Fly | 49.00% | ~188 |
 | No Diggity | 44.00% | ~147 |
 | Early Survivor | 39.00% | ~130 |
-| Bouncemato | 31.00% | ~103 |
-| 10K | 28.00% | ~107 |
-| Amateur Survivor | 28.00% | ~93 |
+| Bouncemato | 31.00% | ~104 |
+| 10K | 28.00% | ~108 |
+| Amateur Survivor | 28.00% | ~94 |
 | 15K | 26.00% | ~100 |
 | Grave Digger | 24.00% | ~80 |
 | Drinking Problem | 22.00% | ~84 |
@@ -34,13 +34,13 @@
 | Summers Here | 11.00% | ~37 |
 | Fresh Pancake | 10.00% | ~38 |
 | Quadsparagus | 10.00% | ~33 |
-| Bring Home The Bacon | 9.00% | ~34 |
+| Bring Home The Bacon | 9.00% | ~35 |
 | Expert Survivor | 8.00% | ~27 |
 | Early Bird | 7.00% | ~27 |
 | Chick Magnet | 5.00% | ~19 |
 | I Have The High Ground | 5.00% | ~19 |
 | Pyromaniac | 5.00% | ~17 |
-| Honk Honk | 3.00% | ~11 |
+| Honk Honk | 3.00% | ~12 |
 | Master Survivor | 3.00% | ~10 |
 | Heart Breaker | 3.00% | ~10 |
 | 15 Days | 2.00% | ~8 |
@@ -79,8 +79,8 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 383 (Ranked 378)  
-Completed: 0 (0.00%) (Ranked 405)  
+Progressed: 384 (Ranked 378)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -248,6 +248,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-15 | 381 | 0 |
 | 2024-01-16 | 382 | 0 |
 | 2024-01-18 | 383 | 0 |
+| 2024-01-19 | 384 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

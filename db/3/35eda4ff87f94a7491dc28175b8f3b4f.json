@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 44,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22639,
+  "EOS_Progressed": 22643,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 1095,
+  "EOS_NewPlayers": 1090,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8627,6 +8627,11 @@
       "Time": "2024-01-19T15:05:35.219261+00:00",
       "NumProgressed": 22639,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2024-01-19T16:06:57.4812938+00:00",
+      "NumProgressed": 22643,
+      "NumCompleted": 114
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8655,7 +8660,7 @@
       "Name": "Good Listener",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "MORBIDLY_CURIOUS_1_8",
@@ -8687,7 +8692,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8718,7 +8723,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22639,
+      "Progressed": 22643,
       "Completed": 114
     }
   ],
@@ -8726,8 +8731,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:05:35.2192606+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:06:57.4812934+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:59:56.8719495+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:05:35.2193181+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:01:33.9296411+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:06:57.4813441+00:00"
 }

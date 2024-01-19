@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4050,
+  "EOS_Progressed": 4051,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5754,6 +5754,11 @@
       "Time": "2024-01-19T01:53:33.918313+00:00",
       "NumProgressed": 4050,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-19T16:04:56.5121131+00:00",
+      "NumProgressed": 4051,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5797,7 +5802,7 @@
       "Name": "Untouchable",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "bonus6",
@@ -5893,7 +5898,7 @@
       "Name": "An Ally in Need",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "campaign2",
@@ -5909,7 +5914,7 @@
       "Name": "For the Queen",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "campaign3",
@@ -5925,7 +5930,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1660
+      "UsersEstimate": 1661
     },
     {
       "ID": "campaign5",
@@ -5941,7 +5946,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "campaign7",
@@ -5949,7 +5954,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "campaign8",
@@ -5973,7 +5978,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "scenario2",
@@ -5989,7 +5994,7 @@
       "Name": "Not a Drop Wasted",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "scenario4",
@@ -6028,7 +6033,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4050,
+      "Progressed": 4051,
       "Completed": 11
     }
   ],
@@ -6036,8 +6041,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-16T03:01:32.4269328+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:04:07.8301425+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:04:56.5121127+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:46.778469+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:57:54.8605825+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:04:07.8302086+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:58:32.5412634+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:04:56.5121491+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Mashed",
   "ProductSlug": "mashed-ebdee9",
   "Ranking_EOS_Progress": 842,
-  "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 545,
+  "Ranking_EOS_Completed": 406,
+  "Ranking_EOS_NewPlayers": 546,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-28T04:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-04-09T13:59:29.9901532+00:00",
   "LastChanged": "2023-04-09T13:59:29.9901533+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:36.705505+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:00:18.2092996+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:04:32.4309716+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:02:03.381965+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:05:29.7104358+00:00"
 }

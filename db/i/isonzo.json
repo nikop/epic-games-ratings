@@ -1087,9 +1087,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9998,
+  "EOS_Progressed": 9999,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11352,6 +11352,11 @@
       "Time": "2024-01-19T15:09:47.4327993+00:00",
       "NumProgressed": 9998,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T16:10:30.4589755+00:00",
+      "NumProgressed": 9999,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11379,7 +11384,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4399
+      "UsersEstimate": 4400
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11411,7 +11416,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11475,7 +11480,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -11531,7 +11536,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3499
+      "UsersEstimate": 3500
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11555,7 +11560,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4499
+      "UsersEstimate": 4500
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11611,7 +11616,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2699
+      "UsersEstimate": 2700
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11691,7 +11696,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4999
+      "UsersEstimate": 5000
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11722,7 +11727,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9998,
+      "Progressed": 9999,
       "Completed": 10
     }
   ],
@@ -11730,8 +11735,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:09:47.4327989+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:10:30.4589752+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:00:32.7939505+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:09:47.4328811+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:02:25.4521926+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:10:30.4590532+00:00"
 }

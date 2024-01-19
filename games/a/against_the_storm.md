@@ -20,9 +20,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Frosts | 6.00% | ~1,253 |
 | Land of Greed | 6.00% | ~1,253 |
 | Ominous Presence | 6.00% | ~1,253 |
-| Royal Outpost | 5.00% | ~1,044 |
-| Watchtower | 5.00% | ~1,044 |
-| A Real Challenge | 5.00% | ~1,044 |
+| Royal Outpost | 5.00% | ~1,045 |
+| Watchtower | 5.00% | ~1,045 |
+| A Real Challenge | 5.00% | ~1,045 |
 | Homesick | 4.00% | ~836 |
 | Ruined Armory | 4.00% | ~836 |
 | Fertile Meadows | 4.00% | ~836 |
@@ -50,9 +50,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Victory Through Prosperity | 2.00% | ~418 |
 | Defying the Crown | 2.00% | ~418 |
 | Into the Forest | 2.00% | ~418 |
+| Feeding The People | 1.00% | ~209 |
 | Forbidden Lands | 1.00% | ~209 |
 | Like a Machine | 1.00% | ~209 |
-| Feeding The People | 0.90% | ~188 |
 | Prestigious Expedition | 0.60% | ~125 |
 | Blood Flower Farmer | 0.60% | ~125 |
 | Fox Utopia | 0.50% | ~104 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,890 (Ranked 157)  
+Progressed: 20,891 (Ranked 157)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-16 | 20,829 | 35 |
 | 2024-01-17 | 20,854 | 35 |
 | 2024-01-18 | 20,874 | 35 |
-| 2024-01-19 | 20,890 | 35 |
+| 2024-01-19 | 20,891 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 234)  
 Sum: 3,397 (Ranked 179)  

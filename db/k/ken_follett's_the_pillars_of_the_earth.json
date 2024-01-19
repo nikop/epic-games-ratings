@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17955,
+  "EOS_Progressed": 17956,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 150,
+  "EOS_NewPlayers": 149,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18715,6 +18715,11 @@
       "Time": "2024-01-19T15:04:02.6481869+00:00",
       "NumProgressed": 17955,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-19T16:04:48.9407724+00:00",
+      "NumProgressed": 17956,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18990,7 +18995,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7002
+      "UsersEstimate": 7003
     },
     {
       "ID": "tpote_achievement_40",
@@ -19053,15 +19058,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17955,
+      "Progressed": 17956,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:04:02.6481866+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:04:48.940772+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:03:06.0754988+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:04:02.6483282+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:03:24.7211508+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:04:48.9408646+00:00"
 }

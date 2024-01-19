@@ -24,9 +24,9 @@
 | Cheats ✔ | 6.00% | ~20 |
 | Food ✔ | 6.00% | ~20 |
 | King of survival ✔ | 6.00% | ~20 |
+| All secrets revealed ✔ | 6.00% | ~20 |
 | Brain ✔ | 5.00% | ~17 |
 | Eva ✔ | 5.00% | ~17 |
-| All secrets revealed ✔ | 5.00% | ~17 |
 | Boss 1 ✔ | 4.00% | ~13 |
 | Secret ✔ | 4.00% | ~13 |
 | Group Alpha ✔ | 4.00% | ~13 |
@@ -56,7 +56,7 @@
 | Rank A+ ✔ | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 336 (Ranked 391)  
-Completed: 0 (0.00%) (Ranked 405)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

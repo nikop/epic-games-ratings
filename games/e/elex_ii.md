@@ -7,33 +7,33 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 45.00% | ~119 |
-| Best Buddy | 39.00% | ~103 |
+| Best Buddy | 38.00% | ~101 |
 | Civilian | 36.00% | ~95 |
-| Role Model | 35.00% | ~92 |
-| Creator | 32.00% | ~84 |
-| Military Leader | 30.00% | ~79 |
-| Festival-goer | 30.00% | ~79 |
+| Role Model | 35.00% | ~93 |
+| Creator | 32.00% | ~85 |
+| Military Leader | 30.00% | ~80 |
+| Festival-goer | 29.00% | ~77 |
 | Peddler | 25.00% | ~66 |
 | Commander | 25.00% | ~66 |
-| Irissa's Fate | 21.00% | ~55 |
+| Irissa's Fate | 21.00% | ~56 |
 | Long-Haul Flyer | 19.00% | ~50 |
 | Family Reunion | 19.00% | ~50 |
-| Pass A38 | 19.00% | ~50 |
+| Pass A38 | 18.00% | ~48 |
 | Eternal Oblivion | 17.00% | ~45 |
-| Banker | 16.00% | ~42 |
+| Banker | 15.00% | ~40 |
 | Storyteller | 14.00% | ~37 |
 | Globetrotter | 14.00% | ~37 |
 | Berserker | 14.00% | ~37 |
-| Hunter | 13.00% | ~34 |
+| Alb | 12.00% | ~32 |
+| Hunter | 12.00% | ~32 |
 | Beam Me Up | 11.00% | ~29 |
-| Alb | 11.00% | ~29 |
 | Lover | 11.00% | ~29 |
 | Perfectionist | 10.00% | ~26 |
 | Free as a Bird | 9.00% | ~24 |
 | Treasure Hunter | 8.00% | ~21 |
 | Detective | 8.00% | ~21 |
-| Weaponsmith | 7.00% | ~18 |
-| Hotshot | 7.00% | ~18 |
+| Weaponsmith | 7.00% | ~19 |
+| Hotshot | 7.00% | ~19 |
 | Cleric | 6.00% | ~16 |
 | Alchemist | 5.00% | ~13 |
 | Self-Sufficient | 4.00% | ~11 |
@@ -57,8 +57,8 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 264 (Ranked 419)  
-Completed: 0 (0.00%) (Ranked 405)  
+Progressed: 265 (Ranked 419)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -94,7 +94,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 259 | 0 |
 | 2024-01-17 | 261 | 0 |
 | 2024-01-18 | 263 | 0 |
-| 2024-01-19 | 264 | 0 |
+| 2024-01-19 | 265 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

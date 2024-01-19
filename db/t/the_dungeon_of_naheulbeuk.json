@@ -6,9 +6,9 @@
   "Ranking_Popularity": 278,
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 73,
-  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1779,9 +1779,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248736,
+  "EOS_Progressed": 248744,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 998,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26779,6 +26779,11 @@
       "Time": "2024-01-19T15:10:25.9741222+00:00",
       "NumProgressed": 248736,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-19T16:11:21.5836076+00:00",
+      "NumProgressed": 248744,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26822,7 +26827,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9949
+      "UsersEstimate": 9950
     },
     {
       "ID": "BookCollection",
@@ -26838,7 +26843,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19899
+      "UsersEstimate": 19900
     },
     {
       "ID": "Chapter2",
@@ -26854,7 +26859,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9949
+      "UsersEstimate": 9950
     },
     {
       "ID": "Chapter4",
@@ -27190,7 +27195,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22386
+      "UsersEstimate": 22387
     },
     {
       "ID": "DwarfElf15Support",
@@ -27222,7 +27227,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "ElfEpic",
@@ -27238,7 +27243,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92032
+      "UsersEstimate": 92035
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27286,7 +27291,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27361
+      "UsersEstimate": 27362
     },
     {
       "ID": "FollowBraztok",
@@ -27438,7 +27443,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14924
+      "UsersEstimate": 14925
     },
     {
       "ID": "SupportCount4",
@@ -27493,21 +27498,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248736,
+      "Progressed": 248744,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248736,
+      "Progressed": 248744,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-19T03:57:31.5798585+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:10:25.9741219+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:11:21.5836074+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:57:38.4623985+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:10:25.9743208+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:58:07.0867885+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:11:21.5837692+00:00"
 }

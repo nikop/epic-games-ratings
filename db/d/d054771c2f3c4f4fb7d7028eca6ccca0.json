@@ -3,7 +3,7 @@
   "Name": "Pinball M",
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 214,
-  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4349,
+  "EOS_Progressed": 4351,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5469,6 +5469,11 @@
       "Time": "2024-01-19T15:05:00.972452+00:00",
       "NumProgressed": 4349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T16:06:09.8058585+00:00",
+      "NumProgressed": 4351,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5489,7 +5494,7 @@
       "Name": "Done for Today",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -5513,7 +5518,7 @@
       "Name": "Gruesome Ball Handler",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -5545,7 +5550,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -5569,7 +5574,7 @@
       "Name": "Grim Challenger",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -5641,7 +5646,7 @@
       "Name": "Your Own Nightmare",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -5856,20 +5861,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4349,
+      "Progressed": 4351,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 127,
-      "Completed": 127
+      "Progressed": 129,
+      "Completed": 129
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:05:00.9724515+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:06:09.8058582+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.8664152+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:57:49.7750083+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:05:00.9725008+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:58:24.8843257+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:06:09.8059197+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 800,
+  "Ranking_Rating": 799,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -3831,9 +3831,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 701
+      "UsersEstimate": 711
     },
     {
       "ID": "play-at-night",
@@ -3927,8 +3927,8 @@
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-17T04:03:24.3401457+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:05:07.2108977+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:06:18.3547379+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:03:07.1236713+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:05:07.2109281+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:03:26.2414332+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:06:18.3547654+00:00"
 }

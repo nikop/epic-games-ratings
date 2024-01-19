@@ -8,7 +8,7 @@
 | Home Leaver | 78.00% | ~1,683 |
 | Outside World Seer | 60.00% | ~1,295 |
 | Stranger Encounterer | 35.00% | ~755 |
-| Grey Hands Praxis 101 | 26.00% | ~561 |
+| Grey Hands Praxis 101 | 27.00% | ~583 |
 | Deep Listener | 25.00% | ~540 |
 | Music for Cows | 18.00% | ~388 |
 | Emotional Baggage Handler | 17.00% | ~367 |

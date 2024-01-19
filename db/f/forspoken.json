@@ -4,7 +4,7 @@
   "ProductSlug": "forspoken",
   "Ranking_Rating": 997,
   "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 488,
+  "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 144,
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47488,
+  "EOS_Progressed": 47492,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19328,6 +19328,11 @@
       "Time": "2024-01-19T15:05:30.2219829+00:00",
       "NumProgressed": 47488,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T16:06:50.0711384+00:00",
+      "NumProgressed": 47492,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19371,7 +19376,7 @@
       "Name": "Through the Eyes of Another: Empath",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "CHALLENGE_TEN",
@@ -19387,7 +19392,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6173
+      "UsersEstimate": 6174
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19395,7 +19400,7 @@
       "Name": "Stuck",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "CHAPTER_03_CLEAR",
@@ -19499,7 +19504,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -19555,7 +19560,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -19595,7 +19600,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2849
+      "UsersEstimate": 2850
     },
     {
       "ID": "MAGIC_IVY",
@@ -19762,22 +19767,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47488,
+      "Progressed": 47492,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12325,
-      "Completed": 12325
+      "Progressed": 12329,
+      "Completed": 12329
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:05:30.2219826+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:06:50.0711382+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:03:08.3604677+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:05:30.2221511+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:03:27.1831216+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:06:50.0712979+00:00"
 }

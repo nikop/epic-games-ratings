@@ -24,7 +24,7 @@ Rating: 4.87 (Ranked 25)
 | Champollion | 27.00% | ~777 |
 | Open door | 23.00% | ~662 |
 | Feels like springtime | 23.00% | ~662 |
-| Alchemists Express | 22.00% | ~633 |
+| Alchemists Express | 23.00% | ~662 |
 | Free at last | 20.00% | ~576 |
 | A Link to the Past | 18.00% | ~518 |
 | A great audience | 15.00% | ~432 |

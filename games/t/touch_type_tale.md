@@ -8,12 +8,12 @@ Rating: 4.73 (Ranked 183)
 | You and what Army? | 87.00% | ~3,524 |
 | Flanked! | 75.00% | ~3,038 |
 | Economics 101 | 59.00% | ~2,390 |
-| Get Rich Quick | 41.00% | ~1,660 |
-| Do the Splits | 37.00% | ~1,498 |
-| Maestro | 25.00% | ~1,012 |
+| Get Rich Quick | 41.00% | ~1,661 |
+| Do the Splits | 37.00% | ~1,499 |
+| Maestro | 25.00% | ~1,013 |
 | Full Employment | 18.00% | ~729 |
 | Clay Fighter | 16.00% | ~648 |
-| Nowhere left to Hide | 13.00% | ~526 |
+| Nowhere left to Hide | 13.00% | ~527 |
 | All Ovens Blazing | 12.00% | ~486 |
 | Boulder Clash | 12.00% | ~486 |
 | Held Back by the Roots | 11.00% | ~446 |
@@ -25,9 +25,9 @@ Rating: 4.73 (Ranked 183)
 | Master of the Brawl | 7.00% | ~284 |
 | Your Biggest Fans | 6.00% | ~243 |
 | A Secret Recipe | 6.00% | ~243 |
-| An Ally in Need | 5.00% | ~202 |
-| For the Queen | 5.00% | ~202 |
-| Not a Drop Wasted | 5.00% | ~202 |
+| An Ally in Need | 5.00% | ~203 |
+| For the Queen | 5.00% | ~203 |
+| Not a Drop Wasted | 5.00% | ~203 |
 | Reinforcements | 4.00% | ~162 |
 | Sweet Revenge | 4.00% | ~162 |
 | We Have the Technology | 4.00% | ~162 |
@@ -36,10 +36,10 @@ Rating: 4.73 (Ranked 183)
 | The Handyman Can! | 3.00% | ~122 |
 | A Brief Moment of Respite | 3.00% | ~122 |
 | Almost Like Winning | 2.00% | ~81 |
-| Untouchable | 1.00% | ~40 |
+| Untouchable | 1.00% | ~41 |
 | All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,050 (Ranked 220)  
+Progressed: 4,051 (Ranked 220)  
 Completed: 11 (0.27%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,7 +283,7 @@ Completed: 11 (0.27%) (Ranked 268)
 | 2024-01-16 | 4,043 | 11 |
 | 2024-01-17 | 4,045 | 11 |
 | 2024-01-18 | 4,049 | 11 |
-| 2024-01-19 | 4,050 | 11 |
+| 2024-01-19 | 4,051 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

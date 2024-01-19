@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -3621,9 +3621,9 @@
       "ID": "ACHIEVEMENT_5_FirstWall",
       "SetID": "9bke6f1",
       "Name": "First wall",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 386
+      "UsersEstimate": 395
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3670,8 +3670,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-18T15:59:14.6603524+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:09:31.1622798+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:10:07.2125449+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:58:56.6017073+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:09:31.1623191+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:00:03.5469957+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:10:07.212626+00:00"
 }

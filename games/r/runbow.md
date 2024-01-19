@@ -5,32 +5,32 @@ Rating: 4.46 (Ranked 676)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,414 |
-| My First Runbow | 50.00% | ~126,806 |
-| It's The Fall | 26.00% | ~65,939 |
-| The Stunner | 23.00% | ~58,331 |
-| Be Aggressive | 21.00% | ~53,258 |
-| Curator | 20.00% | ~50,722 |
-| Crowning Around | 18.00% | ~45,650 |
-| Can You Dig It? | 17.00% | ~43,114 |
-| You Juan-A-Go? | 16.00% | ~40,578 |
-| Chan-tastic | 15.00% | ~38,042 |
+| In The Zone | 53.00% | ~134,417 |
+| My First Runbow | 50.00% | ~126,808 |
+| It's The Fall | 26.00% | ~65,940 |
+| The Stunner | 23.00% | ~58,332 |
+| Be Aggressive | 21.00% | ~53,260 |
+| Curator | 20.00% | ~50,723 |
+| Crowning Around | 18.00% | ~45,651 |
+| Can You Dig It? | 17.00% | ~43,115 |
+| You Juan-A-Go? | 16.00% | ~40,579 |
+| Chan-tastic | 15.00% | ~38,043 |
 | Muddy Waters | 14.00% | ~35,506 |
-| Toasty! | 13.00% | ~32,969 |
+| Toasty! | 13.00% | ~32,970 |
 | Lazy Laser | 8.00% | ~20,289 |
 | Ready? Fight! | 8.00% | ~20,289 |
 | Just A Phaze | 7.00% | ~17,753 |
 | Into The Drift | 7.00% | ~17,753 |
 | Butt Butt | 6.00% | ~15,217 |
-| He Who Laughs Last | 3.00% | ~7,608 |
-| Shoo, Cat! | 3.00% | ~7,608 |
+| He Who Laughs Last | 3.00% | ~7,609 |
+| Shoo, Cat! | 3.00% | ~7,609 |
 | And You're Okay | 2.00% | ~5,072 |
 | Blotbuster | 2.00% | ~5,072 |
 | Thunderstruck | 2.00% | ~5,072 |
 | Just A Bit | 1.00% | ~2,536 |
 | Tubular, Dude | 1.00% | ~2,536 |
 | What A Trip | 1.00% | ~2,536 |
-| Please The King | 0.90% | ~2,282 |
+| Please The King | 0.90% | ~2,283 |
 | Here We Go! | 0.80% | ~2,029 |
 | Clear-Cut | 0.50% | ~1,268 |
 | Breaking Out | 0.40% | ~1,014 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 676)
 | Talent Scout | 0.10% | ~254 |
 | True Completionist | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,611 (Ranked 72)  
-Completed: 6 (0.00%) (Ranked 405)  
+Progressed: 253,617 (Ranked 72)  
+Completed: 6 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -326,7 +326,7 @@ Completed: 6 (0.00%) (Ranked 405)
 | 2024-01-16 | 253,530 | 6 |
 | 2024-01-17 | 253,564 | 6 |
 | 2024-01-18 | 253,593 | 6 |
-| 2024-01-19 | 253,611 | 6 |
+| 2024-01-19 | 253,617 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

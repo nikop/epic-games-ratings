@@ -2309,9 +2309,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22557,
+  "EOS_Progressed": 22559,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 353,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14404,6 +14404,11 @@
       "Time": "2024-01-19T14:09:58.2718379+00:00",
       "NumProgressed": 22557,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-19T16:10:49.5363053+00:00",
+      "NumProgressed": 22559,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14447,7 +14452,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6090
+      "UsersEstimate": 6091
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14519,7 +14524,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5188
+      "UsersEstimate": 5189
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14535,7 +14540,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14559,7 +14564,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14567,7 +14572,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14583,7 +14588,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4511
+      "UsersEstimate": 4512
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14607,7 +14612,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6316
+      "UsersEstimate": 6317
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14615,7 +14620,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4060
+      "UsersEstimate": 4061
     },
     {
       "ID": "STORY_HABITAT",
@@ -14671,7 +14676,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2932
+      "UsersEstimate": 2933
     },
     {
       "ID": "DISMEMBER_100",
@@ -14759,7 +14764,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "KILL_BIOBOT",
@@ -14790,13 +14795,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22557,
+      "Progressed": 22559,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10483,
+      "Progressed": 10485,
       "Completed": 29
     }
   ],
@@ -14804,8 +14809,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-19T14:03:25.3060788+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:10:01.6924944+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:10:49.5363048+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:03:25.4863848+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:10:01.6925899+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:03:54.022202+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:10:49.5363989+00:00"
 }

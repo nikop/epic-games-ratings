@@ -2,11 +2,11 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 789,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 69,
-  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -1537,9 +1537,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 260833,
+  "EOS_Progressed": 260835,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27707,6 +27707,11 @@
       "Time": "2024-01-19T15:03:57.6870147+00:00",
       "NumProgressed": 260833,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T16:04:41.9075923+00:00",
+      "NumProgressed": 260835,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27766,7 +27771,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80858
+      "UsersEstimate": 80859
     },
     {
       "ID": "BackHomeNTimes",
@@ -27806,7 +27811,7 @@
       "Name": "Arms dealer",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "CompleteBestiary",
@@ -27822,7 +27827,7 @@
       "Name": "Fixer I",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "CreditLevel2",
@@ -27838,7 +27843,7 @@
       "Name": "Fixer III",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "CreedsInBank1",
@@ -28110,7 +28115,7 @@
       "Name": "A week in Century City",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 26083
+      "UsersEstimate": 26084
     },
     {
       "ID": "ReachNDays2",
@@ -28134,7 +28139,7 @@
       "Name": "AML questionnaire",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "TakeHomeNHearts",
@@ -28142,7 +28147,7 @@
       "Name": "Heartbreaker",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "UnlockAllAchievements",
@@ -28165,7 +28170,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260833,
+      "Progressed": 260835,
       "Completed": 3
     }
   ],
@@ -28173,8 +28178,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-19T13:59:38.3049487+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:03:57.6870143+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:04:41.907592+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:59:26.5717004+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:03:57.6872181+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:00:49.2770783+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:04:41.9077692+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 289,
-  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1206,
+  "EOS_Progressed": 1207,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3087,6 +3087,11 @@
       "Time": "2024-01-19T13:14:56.8595715+00:00",
       "NumProgressed": 1206,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T16:09:44.3106474+00:00",
+      "NumProgressed": 1207,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3121,9 +3126,9 @@
       "ID": "CareerChamp2",
       "SetID": "5hd282c",
       "Name": "National Amateurs Champion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 217
+      "UsersEstimate": 229
     },
     {
       "ID": "CareerChamp3",
@@ -3155,7 +3160,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "CollectVehiclesA",
@@ -3225,9 +3230,9 @@
       "ID": "PlayerRankC",
       "SetID": "5hd282c",
       "Name": "Showing Some Dedication",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 90,
-      "UsersEstimate": 24
+      "UsersEstimate": 36
     },
     {
       "ID": "RocketSpeedReached",
@@ -3258,7 +3263,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1206,
+      "Progressed": 1207,
       "Completed": 0
     }
   ],
@@ -3266,8 +3271,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:09:14.6428658+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:09:44.3106472+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:58:24.613388+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:09:14.642899+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:59:16.08337+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:09:44.3106722+00:00"
 }

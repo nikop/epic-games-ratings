@@ -3,8 +3,8 @@
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
   "Ranking_EOS_Progress": 486,
-  "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_Completed": 406,
+  "Ranking_EOS_NewPlayers": 431,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -684,9 +684,9 @@
       "ID": "ACH_ENCOUNTER_S_RANK",
       "SetID": "5akmpni",
       "Name": "Savior",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "ACH_ENEMY_FIRE",
@@ -708,9 +708,9 @@
       "ID": "ACH_ENEMY_LEDGE_THROW",
       "SetID": "5akmpni",
       "Name": "Out of the ring",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_EQUIP_ALL_ARTIFACTS",
@@ -876,17 +876,17 @@
       "ID": "ACH_PURCHASE_OUTFIT",
       "SetID": "5akmpni",
       "Name": "Haute Couture",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_REBEL_ABILITY",
       "SetID": "5akmpni",
       "Name": "Take Action!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "ACH_REBEL_INSTINCT",
@@ -971,8 +971,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:08:59.5653214+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:09:22.5094936+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:02.0262154+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:58:47.9725423+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:08:59.5653641+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:59:50.3884863+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:09:22.509536+00:00"
 }

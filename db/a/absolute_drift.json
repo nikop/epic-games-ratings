@@ -2,13 +2,13 @@
   "ID": "9d2f484bbec64aa8ad234b3199dcaf1c",
   "Name": "Absolute Drift",
   "ProductSlug": "absolute-drift",
-  "Ranking_Rating": 710,
+  "Ranking_Rating": 709,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 8,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 75,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2021-02-18T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1564552,
+  "EOS_Progressed": 1564560,
   "EOS_Completed": 770,
-  "EOS_NewPlayers": 1337,
+  "EOS_NewPlayers": 1333,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31972,6 +31972,11 @@
       "Time": "2024-01-19T15:08:31.9386489+00:00",
       "NumProgressed": 1564552,
       "NumCompleted": 770
+    },
+    {
+      "Time": "2024-01-19T16:08:43.8854469+00:00",
+      "NumProgressed": 1564560,
+      "NumCompleted": 770
     }
   ],
   "TotalAchievements": 20,
@@ -32079,7 +32084,7 @@
       "Name": "Midnight Drifter",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 156455
+      "UsersEstimate": 156456
     },
     {
       "ID": "ACH_MIDNIGHT_MASTER",
@@ -32142,15 +32147,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1564552,
+      "Progressed": 1564560,
       "Completed": 770
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:08:31.9386485+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:08:43.8854466+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:09.5781079+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:59:57.9166075+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:08:31.9388478+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:01:34.8770579+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:08:43.8855817+00:00"
 }

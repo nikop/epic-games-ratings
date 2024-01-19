@@ -50,7 +50,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
 | Win as the Iconians | 0.50% | ~38 |
-| Ask Not What Your Empire Can Do For You | 0.30% | ~23 |
+| Ask Not What Your Empire Can Do For You | 0.40% | ~30 |
 | Hyperspace! | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
@@ -80,7 +80,7 @@ Number of Ratings: 429  (23.09.2022)
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,565 (Ranked 199)  
-Completed: 0 (0.00%) (Ranked 405)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

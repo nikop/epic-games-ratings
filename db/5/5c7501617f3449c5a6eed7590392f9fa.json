@@ -4,7 +4,7 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 206,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -1333,9 +1333,9 @@
       "ID": "Ach-02-hopik",
       "SetID": "2pjo9pi",
       "Name": "Hopik",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "Ach-02-nosal",
@@ -1700,8 +1700,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:09:30.5946087+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:10:06.4393328+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683371+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:58:03.7051049+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:09:30.5946628+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:58:44.8373751+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:10:06.4393713+00:00"
 }

@@ -53,8 +53,8 @@
 | Glorious Dedication | 0.00% | ~0 |
 | Abolish Edict | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 545)  
-Completed: 0 (0.00%) (Ranked 405)  
+Progressed: 64 (Ranked 544)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -102,3 +102,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-10 | 61 | 0 |
 | 2024-01-16 | 62 | 0 |
 | 2024-01-17 | 63 | 0 |
+| 2024-01-19 | 64 | 0 |

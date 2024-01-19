@@ -1,14 +1,14 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 789)  
+Rating: 4.39 (Ranked 788)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,858 |
+| Survivor | 31.00% | ~80,859 |
 | Predator I | 23.00% | ~59,992 |
-| Fixer I | 10.00% | ~26,083 |
-| A week in Century City | 10.00% | ~26,083 |
+| Fixer I | 10.00% | ~26,084 |
+| A week in Century City | 10.00% | ~26,084 |
 | The Wait | 7.00% | ~18,258 |
 | Green thumb I | 6.00% | ~15,650 |
 | Cleaning Company | 6.00% | ~15,650 |
@@ -44,10 +44,10 @@ Rating: 4.39 (Ranked 789)
 | Predator III | 0.50% | ~1,304 |
 | Expert Hunter | 0.40% | ~1,043 |
 | Fungi hunter | 0.40% | ~1,043 |
-| Arms dealer | 0.30% | ~782 |
-| Fixer III | 0.30% | ~782 |
-| AML questionnaire | 0.30% | ~782 |
-| Heartbreaker | 0.30% | ~782 |
+| Arms dealer | 0.30% | ~783 |
+| Fixer III | 0.30% | ~783 |
+| AML questionnaire | 0.30% | ~783 |
+| Heartbreaker | 0.30% | ~783 |
 | Workhorse | 0.20% | ~522 |
 | Homerun | 0.20% | ~522 |
 | A season in Century City | 0.20% | ~522 |
@@ -62,8 +62,8 @@ Rating: 4.39 (Ranked 789)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,833 (Ranked 69)  
-Completed: 3 (0.00%) (Ranked 405)  
+Progressed: 260,835 (Ranked 69)  
+Completed: 3 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,7 +336,7 @@ Completed: 3 (0.00%) (Ranked 405)
 | 2024-01-16 | 260,735 | 3 |
 | 2024-01-17 | 260,770 | 3 |
 | 2024-01-18 | 260,810 | 3 |
-| 2024-01-19 | 260,833 | 3 |
+| 2024-01-19 | 260,835 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 448)  
 Sum: 384 (Ranked 366)  

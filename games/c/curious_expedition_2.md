@@ -49,9 +49,9 @@ Number of Ratings: 20  (23.09.2022)
 | Errand Runner | 8.00% | ~35 |
 | Zookeeper | 7.00% | ~30 |
 | A Paris Sunset | 6.00% | ~26 |
+| The Director Perseveres | 6.00% | ~26 |
 | The Workshop | 6.00% | ~26 |
 | Islander Understanding | 5.00% | ~22 |
-| The Director Perseveres | 5.00% | ~22 |
 | The Round Table | 5.00% | ~22 |
 | X Marks the Spot | 4.00% | ~17 |
 | Frugal | 4.00% | ~17 |

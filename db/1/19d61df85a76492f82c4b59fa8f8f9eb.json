@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-eb6e37",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 43,
-  "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-06-09T09:00:00+00:00",
     "PcReleaseDate": "2017-11-24T00:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 9.65,
+  "EOS_Completed_Percentage": 9.64,
   "EosHistory": [
     {
       "Time": "2023-06-01T10:00:07.8366245+00:00",
@@ -2579,6 +2579,11 @@
       "Time": "2024-01-17T21:09:10.4304175+00:00",
       "NumProgressed": 549,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-19T16:09:54.0556633+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 6,
@@ -2598,7 +2603,7 @@
       "Name": "File-cutter",
       "Percentage": 64,
       "XP": 165,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "CgkIgaGB2J0LEAIQAg",
@@ -2637,14 +2642,14 @@
     {
       "ID": "4ocea6d",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 53
     }
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:09:21.6386768+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:09:54.0556629+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.2964285+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:00:17.2742636+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:09:21.638699+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:02:02.0728224+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:09:54.055694+00:00"
 }

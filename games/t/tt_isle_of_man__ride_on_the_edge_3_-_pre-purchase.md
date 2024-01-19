@@ -9,9 +9,9 @@
 | You Get An Upgrade, You Get An Upgrade! | 18.00% | ~49 |
 | Like Phileas Fogg | 17.00% | ~47 |
 | Onwards and Upwards | 12.00% | ~33 |
+| Lone Wolf | 9.00% | ~25 |
 | Serial Winner | 8.00% | ~22 |
 | Start Your Engines | 8.00% | ~22 |
-| Lone Wolf | 8.00% | ~22 |
 | Highly Qualified | 7.00% | ~19 |
 | No Room for Improvement | 7.00% | ~19 |
 | Playing God | 5.00% | ~14 |

@@ -500,7 +500,7 @@
   ],
   "EOS_Progressed": 646,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2512,9 +2512,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 149
+      "UsersEstimate": 155
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2760,9 +2760,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 220
+      "UsersEstimate": 226
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2816,9 +2816,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 226
+      "UsersEstimate": 233
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -2840,9 +2840,9 @@
       "ID": "Kill_Sin_Wrath",
       "SetID": "7a5k76n",
       "Name": "Seeing Red",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 168
     },
     {
       "ID": "Level_Up_100",
@@ -2912,9 +2912,9 @@
       "ID": "Spend_AttributePoint_25",
       "SetID": "7a5k76n",
       "Name": "25 to Life",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 258
+      "UsersEstimate": 265
     },
     {
       "ID": "Spend_AttributePoint_50",
@@ -2968,8 +2968,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-19T13:58:56.6907178+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:05:58.7791008+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:07:30.7946951+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:58:48.0644238+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:05:58.779161+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:59:50.4356143+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:07:30.7947511+00:00"
 }

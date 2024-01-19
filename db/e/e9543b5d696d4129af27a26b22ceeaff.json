@@ -3,7 +3,7 @@
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 535,
-  "Ranking_EOS_Completed": 405,
+  "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -603,9 +603,9 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:09:06.8309948+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:09:33.291821+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:57:57.9615272+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:09:06.8310194+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:58:37.7305558+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:09:33.2918477+00:00"
 }

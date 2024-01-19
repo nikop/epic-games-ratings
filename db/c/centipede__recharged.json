@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 233,
   "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25411,
+  "EOS_Progressed": 25412,
   "EOS_Completed": 120,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 312,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -23600,6 +23600,11 @@
       "Time": "2024-01-19T15:03:57.4437522+00:00",
       "NumProgressed": 25411,
       "NumCompleted": 120
+    },
+    {
+      "Time": "2024-01-19T16:04:41.6680128+00:00",
+      "NumProgressed": 25412,
+      "NumCompleted": 120
     }
   ],
   "TotalAchievements": 16,
@@ -23683,7 +23688,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9656
+      "UsersEstimate": 9657
     },
     {
       "ID": "Mirrors",
@@ -23707,7 +23712,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11943
+      "UsersEstimate": 11944
     },
     {
       "ID": "Sole_Survivor",
@@ -23738,15 +23743,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25411,
+      "Progressed": 25412,
       "Completed": 120
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:03:57.4437518+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:04:41.6680125+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.5508236+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:59:02.5772527+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:03:57.4438834+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:00:12.8425381+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:04:41.6681115+00:00"
 }

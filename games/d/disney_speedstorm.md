@@ -5,18 +5,18 @@ Rating: 4.42 (Ranked 745)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,281 |
-| IT MAKES BOOM! | 9.00% | ~36,194 |
-| EXTRA BOOST | 6.00% | ~24,130 |
-| PROTECTED | 5.00% | ~20,108 |
-| PRO | 5.00% | ~20,108 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,086 |
-| AGGRESSIVE RACER | 3.00% | ~12,065 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,043 |
-| TRAINING HARD | 2.00% | ~8,043 |
-| BE OUR GUEST | 2.00% | ~8,043 |
-| ACE SPEEDSTER | 2.00% | ~8,043 |
-| A TIGER'S FEAR | 2.00% | ~8,043 |
+| ROOKIE | 13.00% | ~52,289 |
+| IT MAKES BOOM! | 9.00% | ~36,200 |
+| EXTRA BOOST | 6.00% | ~24,133 |
+| PROTECTED | 5.00% | ~20,111 |
+| PRO | 5.00% | ~20,111 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,089 |
+| AGGRESSIVE RACER | 3.00% | ~12,067 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,044 |
+| TRAINING HARD | 2.00% | ~8,044 |
+| BE OUR GUEST | 2.00% | ~8,044 |
+| ACE SPEEDSTER | 2.00% | ~8,044 |
+| A TIGER'S FEAR | 2.00% | ~8,044 |
 | RELEASE THE KRAKEN | 1.00% | ~4,022 |
 | ACE BRAWLER | 1.00% | ~4,022 |
 | DEFEAT OUR CHAMPION | 1.00% | ~4,022 |
@@ -25,12 +25,12 @@ Rating: 4.42 (Ranked 745)
 | FRIENDLY | 1.00% | ~4,022 |
 | MASTER | 1.00% | ~4,022 |
 | LEGENDARY HERO | 1.00% | ~4,022 |
-| EXPERIENCED CREW | 0.90% | ~3,619 |
-| FRAMED! | 0.70% | ~2,815 |
-| ACE TRICKSTER | 0.70% | ~2,815 |
+| EXPERIENCED CREW | 0.90% | ~3,620 |
+| FRAMED! | 0.70% | ~2,816 |
+| ACE TRICKSTER | 0.70% | ~2,816 |
 | PERFECTLY POISED | 0.60% | ~2,413 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402,160 (Ranked 51)  
+Progressed: 402,223 (Ranked 51)  
 Completed: 1,659 (0.41%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 1,659 (0.41%) (Ranked 243)
 | 2024-01-16 | 399,717 | 1,630 |
 | 2024-01-17 | 400,804 | 1,644 |
 | 2024-01-18 | 401,688 | 1,649 |
-| 2024-01-19 | 402,160 | 1,659 |
+| 2024-01-19 | 402,223 | 1,659 |
 ## Awards
 Max (Great for Beginners): 190  (Ranked 308)  
 Sum: 1,237 (Ranked 263)  

@@ -13,6 +13,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.40% | ~4,220 |
 | Bushido and Chill | 0.30% | ~3,165 |
 | Gun Fu | 0.30% | ~3,165 |
+| Master Crafter | 0.30% | ~3,165 |
 | Christmas Tree Attack | 0.30% | ~3,165 |
 | Life of the Road | 0.30% | ~3,165 |
 | Stanislavski's Method | 0.30% | ~3,165 |
@@ -24,7 +25,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.30% | ~551 |
 | Arachnophobia | 0.30% | ~551 |
 | To Protect and Serve | 0.20% | ~2,110 |
-| Master Crafter | 0.20% | ~2,110 |
 | I Am The Law | 0.20% | ~2,110 |
 | The Quick and the Dead | 0.20% | ~2,110 |
 | True Warrior | 0.20% | ~2,110 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,975 (Ranked 17)  
+Progressed: 1,055,010 (Ranked 17)  
 Completed: 3,129 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,10 +348,10 @@ Completed: 3,129 (0.30%) (Ranked 263)
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
-| 2024-01-19 | 1,054,975 | 3,129 |
+| 2024-01-19 | 1,055,010 | 3,129 |
 ## Awards
 Max (Character Customization): 142,143  (Ranked 8)  
-Sum: 505,535 (Ranked 8)  
+Sum: 505,721 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -364,7 +364,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 29,322 |
 | This game has Amazing Characters | 29,024 |
 | This game is Relaxing | 28,123 |
-| This game has Quickly Understood Controls | 27,856 |
+| This game has Quickly Understood Controls | 28,042 |
 | This game has a Creative Community | 19,515 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -734,4 +734,4 @@ Diff (max vs sum): 0
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
 | 2024-01-18 | 4.67 | - | 142,143 | 504,220 |
-| 2024-01-19 | 4.67 | - | 142,143 | 505,535 |
+| 2024-01-19 | 4.67 | - | 142,143 | 505,721 |

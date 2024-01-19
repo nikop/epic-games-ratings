@@ -20,14 +20,14 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 41.00% | ~265 |
 | Throne Potato | 41.00% | ~265 |
 | Five's a Crowd | 41.00% | ~265 |
+| 25 to Life | 41.00% | ~265 |
 | Salvation | 40.00% | ~258 |
-| 25 to Life | 40.00% | ~258 |
 | Unshakable Fortitude | 37.00% | ~239 |
 | Soul Harvester | 37.00% | ~239 |
+| Delusions of Grandeur | 36.00% | ~233 |
 | I Wanna Rock | 35.00% | ~226 |
-| Delusions of Grandeur | 35.00% | ~226 |
+| Love Tap | 35.00% | ~226 |
 | Maximum Vigor | 34.00% | ~220 |
-| Love Tap | 34.00% | ~220 |
 | Freeze Frame | 31.00% | ~200 |
 | Eat Your Heart Out | 31.00% | ~200 |
 | For Whom the Bell Tolls | 30.00% | ~194 |
@@ -36,9 +36,9 @@ Number of Ratings: 116  (23.09.2022)
 | Crowd Source | 27.00% | ~174 |
 | Big Spender | 27.00% | ~174 |
 | Cleanup Crew | 26.00% | ~168 |
-| Seeing Red | 25.00% | ~162 |
+| Seeing Red | 26.00% | ~168 |
+| Maximum Capacity | 24.00% | ~155 |
 | Demon Meddler | 24.00% | ~155 |
-| Maximum Capacity | 23.00% | ~149 |
 | Egomaniac | 23.00% | ~149 |
 | Protector of Humanity | 22.00% | ~142 |
 | Everybody Wants to Rule the World | 22.00% | ~142 |

@@ -579,9 +579,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6497,
+  "EOS_Progressed": 6498,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10094,6 +10094,11 @@
       "Time": "2024-01-19T15:03:44.3983453+00:00",
       "NumProgressed": 6497,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T16:04:23.9289487+00:00",
+      "NumProgressed": 6498,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10121,7 +10126,7 @@
       "Name": "One For Every Occasion",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -10161,7 +10166,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10201,7 +10206,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10217,7 +10222,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3508
+      "UsersEstimate": 3509
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10225,7 +10230,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3768
+      "UsersEstimate": 3769
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10257,7 +10262,7 @@
       "Name": "El Riesgo Siempre Vive",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1364
+      "UsersEstimate": 1365
     },
     {
       "ID": "ACH_MAX_MEDIC",
@@ -10273,7 +10278,7 @@
       "Name": "Frontliner",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1169
+      "UsersEstimate": 1170
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -10281,7 +10286,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1494
+      "UsersEstimate": 1495
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10289,7 +10294,7 @@
       "Name": "The Cable Guy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "ACH_MISSION_01",
@@ -10297,7 +10302,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3443
+      "UsersEstimate": 3444
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10353,7 +10358,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10361,7 +10366,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10369,7 +10374,7 @@
       "Name": "The Spire",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "ACH_MISSION_11",
@@ -10377,7 +10382,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10385,7 +10390,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1234
+      "UsersEstimate": 1235
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10401,7 +10406,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10417,7 +10422,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10464,7 +10469,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6497,
+      "Progressed": 6498,
       "Completed": 3
     }
   ],
@@ -10472,8 +10477,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-19T15:03:44.398345+00:00",
+  "LastChanged_Achievements": "2024-01-19T16:04:23.9289483+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:00:00.9498913+00:00",
-  "LastUpdate_Achievements": "2024-01-19T15:03:44.3984377+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:01:38.7921083+00:00",
+  "LastUpdate_Achievements": "2024-01-19T16:04:23.9291956+00:00"
 }

@@ -23,20 +23,20 @@
 | Ultra Rebel Instinct | 21.00% | ~26 |
 | First Aid | 21.00% | ~26 |
 | Merry Go Round | 19.00% | ~24 |
-| Savior | 16.00% | ~20 |
+| Savior | 17.00% | ~21 |
+| Take Action! | 16.00% | ~20 |
 | Ultra Combo | 15.00% | ~19 |
-| Take Action! | 15.00% | ~19 |
 | Ascending Will | 14.00% | ~18 |
 | Hidden Experiment | 14.00% | ~18 |
 | Into the Lion's Den | 10.00% | ~12 |
 | Sky High Fighter | 9.00% | ~11 |
-| Haute Couture | 8.00% | ~10 |
+| Haute Couture | 9.00% | ~11 |
 | The Gang prevails | 6.00% | ~8 |
 | Brilliant Executioner | 5.00% | ~6 |
 | Bold and Bossy | 4.00% | ~5 |
 | Power of Friendship! | 4.00% | ~5 |
+| Out of the ring | 4.00% | ~5 |
 | No Mercy | 3.00% | ~4 |
-| Out of the ring | 3.00% | ~4 |
 | King of the Iron Fist | 2.00% | ~2 |
 | Five of Friends | 2.00% | ~2 |
 | A Gest of Robyn Hode | 2.00% | ~2 |
@@ -59,7 +59,7 @@
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 125 (Ranked 486)  
-Completed: 0 (0.00%) (Ranked 405)  
+Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

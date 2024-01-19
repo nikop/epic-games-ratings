@@ -24,9 +24,9 @@
 | He's so Annoying | 8.00% | ~55 |
 | Master of the Old Game | 6.00% | ~41 |
 | Made a Song | 5.00% | ~35 |
+| Sweet Darkness | 4.00% | ~28 |
 | So Tasty! | 4.00% | ~28 |
 | Break a Leg! | 3.00% | ~21 |
-| Sweet Darkness | 3.00% | ~21 |
 | So Silly! | 3.00% | ~21 |
 | And now we wish... | 2.00% | ~14 |
 | Ss ss ss... | 2.00% | ~14 |
