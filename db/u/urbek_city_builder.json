@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -2237,9 +2237,9 @@
       "ID": "GREEN_AREAS_1",
       "SetID": "44dlcg0",
       "Name": "I like parks",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 99
     },
     {
       "ID": "GREEN_AREAS_2",
@@ -2550,8 +2550,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:15.3611943+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:20.6692164+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.3885201+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:10.9371032+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:15.3612617+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:12.307706+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:20.6692776+00:00"
 }

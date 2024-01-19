@@ -3,11 +3,11 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 991,
-  "Ranking_Popularity": 384,
+  "Ranking_Popularity": 385,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 282,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7565,
+  "EOS_Progressed": 7566,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9867,6 +9867,11 @@
       "Time": "2024-01-19T11:11:33.2645207+00:00",
       "NumProgressed": 7565,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T20:10:18.6109167+00:00",
+      "NumProgressed": 7566,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9918,7 +9923,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4539
+      "UsersEstimate": 4540
     },
     {
       "ID": "Control_All_Relics",
@@ -9982,7 +9987,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5825
+      "UsersEstimate": 5826
     },
     {
       "ID": "First_Race_Met",
@@ -9990,7 +9995,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5447
+      "UsersEstimate": 5448
     },
     {
       "ID": "First_Ship_Designed",
@@ -10014,7 +10019,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5749
+      "UsersEstimate": 5750
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10156,17 +10161,17 @@
       "ID": "Recruit_Leader",
       "SetID": "4h07amh",
       "Name": "Recruit a Leader",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 53
+      "UsersEstimate": 61
     },
     {
       "ID": "Sell_10_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Seller, Level 2",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "Sell_30_Resource",
@@ -10198,7 +10203,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4539
+      "UsersEstimate": 4540
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10214,7 +10219,7 @@
       "Name": "Galactic War",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "War_Without_Translator",
@@ -10366,7 +10371,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4917
+      "UsersEstimate": 4918
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10430,7 +10435,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "Win_Quickly",
@@ -10453,15 +10458,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7565,
+      "Progressed": 7566,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:13.4025493+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:18.6109165+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:27.422732+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:13.4026408+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:30.8099794+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:18.6110065+00:00"
 }

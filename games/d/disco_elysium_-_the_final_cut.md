@@ -7,23 +7,23 @@ Number of Ratings: 1,611  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Goodest Of The Good Cops | 28.00% | ~39,102 |
-| Biggest Communism Builder | 23.00% | ~32,119 |
+| Biggest Communism Builder | 23.00% | ~32,120 |
 | The World's Most Laughable Centrist | 20.00% | ~27,930 |
 | Il Coppo Del'Arte! | 18.00% | ~25,137 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,344 |
-| Hyperstellar Law Official | 15.00% | ~20,947 |
+| Hyperstellar Law Official | 15.00% | ~20,948 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~19,551 |
 | Gurdi-Ball Is Lit | 14.00% | ~19,551 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~18,154 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,361 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,362 |
 | Unbelievably Boring **** | 9.00% | ~12,568 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,568 |
 | Enemy Of The Physical Realm | 8.00% | ~11,172 |
 | Hardie's Heroes | 6.00% | ~8,379 |
 | The Lawbringer | 4.00% | ~5,586 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,586 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,189 |
-| Bother Kim After Hours | 3.00% | ~4,189 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,190 |
+| Bother Kim After Hours | 3.00% | ~4,190 |
 | Baddest Of the Bad Cops | 2.00% | ~2,793 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,793 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,793 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~140 |
 | What body? | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,649 (Ranked 91)  
+Progressed: 139,650 (Ranked 91)  
 Completed: 29 (0.02%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 29 (0.02%) (Ranked 369)
 | 2024-01-16 | 139,425 | 29 |
 | 2024-01-17 | 139,506 | 29 |
 | 2024-01-18 | 139,576 | 29 |
-| 2024-01-19 | 139,649 | 29 |
+| 2024-01-19 | 139,650 | 29 |
 ## Awards
 Max (Character Customization): 769  (Ranked 192)  
 Sum: 1,174 (Ranked 266)  

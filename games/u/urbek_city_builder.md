@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Small town | 21.00% | ~109 |
-| I like parks | 18.00% | ~94 |
+| I like parks | 19.00% | ~99 |
 | The spiritual world... | 10.00% | ~52 |
 | It is nice to share with friends in the city | 9.00% | ~47 |
 | The woodcutter | 8.00% | ~42 |

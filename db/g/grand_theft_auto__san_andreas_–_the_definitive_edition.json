@@ -2587,9 +2587,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19711,
+  "EOS_Progressed": 19712,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -20962,6 +20962,11 @@
       "Time": "2024-01-19T19:10:08.8052598+00:00",
       "NumProgressed": 19711,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-19T20:10:13.5526736+00:00",
+      "NumProgressed": 19712,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -20973,7 +20978,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15966
+      "UsersEstimate": 15967
     },
     {
       "ID": "ACH02",
@@ -21252,7 +21257,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19711,
+      "Progressed": 19712,
       "Completed": 81
     }
   ],
@@ -21260,8 +21265,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-19T13:59:24.1446177+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:08.8052594+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:13.5526733+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:59:19.6334583+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:08.8053595+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:59:34.3361976+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:13.5527782+00:00"
 }

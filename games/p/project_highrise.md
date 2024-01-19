@@ -25,8 +25,8 @@
 | Artfully Done | 18.00% | ~96 |
 | People Mover | 18.00% | ~96 |
 | Leveled Up Shops | 18.00% | ~96 |
+| We Don't Need No Education | 18.00% | ~96 |
 | Emporium Empire | 17.00% | ~91 |
-| We Don't Need No Education | 17.00% | ~91 |
 | Get Electrified | 17.00% | ~91 |
 | Lux Living | 16.00% | ~85 |
 | Tasty Profits | 16.00% | ~85 |

@@ -2566,9 +2566,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 226925,
+  "EOS_Progressed": 226930,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 1385,
+  "EOS_NewPlayers": 1384,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34171,6 +34171,11 @@
       "Time": "2024-01-19T19:05:04.9252297+00:00",
       "NumProgressed": 226925,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2024-01-19T20:05:14.4526863+00:00",
+      "NumProgressed": 226930,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 44,
@@ -34190,7 +34195,7 @@
       "Name": "Atheist Ox",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "ChickenDinner",
@@ -34222,7 +34227,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20423
+      "UsersEstimate": 20424
     },
     {
       "ID": "FiveShadows",
@@ -34254,7 +34259,7 @@
       "Name": "Genin",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 27231
+      "UsersEstimate": 27232
     },
     {
       "ID": "HappyLittleAccidents",
@@ -34342,7 +34347,7 @@
       "Name": "No Gimmicks",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "Noboru",
@@ -34366,7 +34371,7 @@
       "Name": "Old Man",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "PraiseTheShogun",
@@ -34398,7 +34403,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20423
+      "UsersEstimate": 20424
     },
     {
       "ID": "Rollin",
@@ -34406,7 +34411,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20423
+      "UsersEstimate": 20424
     },
     {
       "ID": "StillRollin",
@@ -34438,7 +34443,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20423
+      "UsersEstimate": 20424
     },
     {
       "ID": "TheCave",
@@ -34454,7 +34459,7 @@
       "Name": "The End",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "TheOldWay",
@@ -34518,7 +34523,7 @@
       "Name": "Winner Winner",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 4538
+      "UsersEstimate": 4539
     },
     {
       "ID": "Yabu",
@@ -34533,15 +34538,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 226925,
+      "Progressed": 226930,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-17T07:58:02.8497251+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:04.9252293+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:14.452686+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:58:59.5512745+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:04.9254068+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:59:11.1828359+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:14.4528756+00:00"
 }

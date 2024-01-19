@@ -4,9 +4,9 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You're Going Down! | 92.00% | ~252 |
-| To Each Their Own | 41.00% | ~112 |
-| You Get An Upgrade, You Get An Upgrade! | 18.00% | ~49 |
+| You're Going Down! | 91.00% | ~250 |
+| To Each Their Own | 40.00% | ~110 |
+| You Get An Upgrade, You Get An Upgrade! | 18.00% | ~50 |
 | Like Phileas Fogg | 17.00% | ~47 |
 | Onwards and Upwards | 12.00% | ~33 |
 | Lone Wolf | 9.00% | ~25 |
@@ -24,10 +24,10 @@
 | Made Mother Proud | 3.00% | ~8 |
 | Winner Winner Chicken Dinner | 3.00% | ~8 |
 | Tempus Fugit | 3.00% | ~8 |
-| POI Hunter | 2.00% | ~5 |
-| Seven-League Boots | 2.00% | ~5 |
-| First Things First | 2.00% | ~5 |
-| Tailor-Made for Two | 2.00% | ~5 |
+| POI Hunter | 2.00% | ~6 |
+| Seven-League Boots | 2.00% | ~6 |
+| First Things First | 2.00% | ~6 |
+| Tailor-Made for Two | 2.00% | ~6 |
 | Déjà-Vu | 1.00% | ~3 |
 | The Joy of Discovery | 1.00% | ~3 |
 | Geek | 1.00% | ~3 |
@@ -44,7 +44,7 @@
 | Superbike Superfan | 0.70% | ~2 |
 | Playing Favourites | 0.70% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 417)  
+Progressed: 275 (Ranked 417)  
 Completed: 2 (0.73%) (Ranked 203)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,3 +168,4 @@ Completed: 2 (0.73%) (Ranked 203)
 | 2024-01-11 | 272 | 2 |
 | 2024-01-12 | 273 | 2 |
 | 2024-01-13 | 274 | 2 |
+| 2024-01-19 | 275 | 2 |

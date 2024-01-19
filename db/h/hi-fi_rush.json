@@ -279,7 +279,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17435,
+  "EOS_Progressed": 17437,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 538,
   "EOS_NewCompleters": 0,
@@ -12749,6 +12749,11 @@
       "Time": "2024-01-19T18:04:00.6476058+00:00",
       "NumProgressed": 17435,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T20:04:09.106413+00:00",
+      "NumProgressed": 17437,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12760,7 +12765,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9589
+      "UsersEstimate": 9590
     },
     {
       "ID": "Ach002",
@@ -12768,7 +12773,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6451
+      "UsersEstimate": 6452
     },
     {
       "ID": "Ach003",
@@ -12776,7 +12781,7 @@
       "Name": "This will cost you big time",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "Ach004",
@@ -12896,7 +12901,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "Ach019",
@@ -12936,7 +12941,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9764
+      "UsersEstimate": 9765
     },
     {
       "ID": "Ach024",
@@ -12944,7 +12949,7 @@
       "Name": "Beat-hit mania",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "Ach025",
@@ -12960,7 +12965,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "Ach027",
@@ -12968,7 +12973,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     },
     {
       "ID": "Ach028",
@@ -13000,7 +13005,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "Ach032",
@@ -13016,7 +13021,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4010
+      "UsersEstimate": 4011
     },
     {
       "ID": "Ach034",
@@ -13040,7 +13045,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     },
     {
       "ID": "Ach037",
@@ -13128,7 +13133,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7323
+      "UsersEstimate": 7324
     },
     {
       "ID": "Ach048",
@@ -13136,7 +13141,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5056
+      "UsersEstimate": 5057
     },
     {
       "ID": "Ach049",
@@ -13327,13 +13332,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17435,
+      "Progressed": 17437,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15956,
+      "Progressed": 15958,
       "Completed": 1931
     }
   ],
@@ -13341,8 +13346,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:04:03.7653061+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:04:09.1064126+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:58.6495577+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:04:03.7654123+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:58:04.7325552+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:04:09.1065497+00:00"
 }

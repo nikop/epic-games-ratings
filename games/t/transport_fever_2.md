@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,846 |
+| First line | 74.00% | ~1,847 |
 | First cargo item waiting | 68.00% | ~1,697 |
 | First cargo item on board | 67.00% | ~1,672 |
 | First bus stop | 66.00% | ~1,647 |
+| First passenger on board | 63.00% | ~1,572 |
 | First passenger waiting | 63.00% | ~1,572 |
-| First bus arrived | 62.00% | ~1,547 |
-| First passenger on board | 62.00% | ~1,547 |
-| First train station | 59.00% | ~1,472 |
-| First steam train arrived | 56.00% | ~1,397 |
-| Cadet | 53.00% | ~1,322 |
-| First industry upgraded | 53.00% | ~1,322 |
-| Transport millionaire | 51.00% | ~1,272 |
+| First bus arrived | 62.00% | ~1,548 |
+| First train station | 59.00% | ~1,473 |
+| First steam train arrived | 56.00% | ~1,398 |
+| Cadet | 53.00% | ~1,323 |
+| First industry upgraded | 53.00% | ~1,323 |
+| Transport millionaire | 51.00% | ~1,273 |
 | Transport master | 49.00% | ~1,223 |
 | Cargo hub | 49.00% | ~1,223 |
 | Sculpturer | 46.00% | ~1,148 |
@@ -29,8 +29,8 @@ Number of Ratings: 180  (23.09.2022)
 | High speed | 39.00% | ~973 |
 | Transport shark | 38.00% | ~948 |
 | First aircraft arrived | 38.00% | ~948 |
-| Mass production | 33.00% | ~823 |
-| Aircraft entrepreneur | 30.00% | ~748 |
+| Mass production | 33.00% | ~824 |
+| Aircraft entrepreneur | 30.00% | ~749 |
 | Crowd in a train | 28.00% | ~699 |
 | The future is now, old man | 28.00% | ~699 |
 | Not in my backyard | 27.00% | ~674 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,495 (Ranked 242)  
+Progressed: 2,496 (Ranked 242)  
 Completed: 1 (0.04%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 1 (0.04%) (Ranked 356)
 | 2024-01-16 | 2,485 | 1 |
 | 2024-01-17 | 2,489 | 1 |
 | 2024-01-18 | 2,490 | 1 |
-| 2024-01-19 | 2,495 | 1 |
+| 2024-01-19 | 2,496 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 465)  
 Sum: 333 (Ranked 374)  

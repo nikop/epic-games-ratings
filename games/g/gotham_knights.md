@@ -5,46 +5,46 @@ Rating: 4.19 (Ranked 978)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,506 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,224 |
-| Loose Ends | 33.00% | ~27,394 |
-| To the Victor Go the Spoils | 27.00% | ~22,413 |
-| Knighthood | 26.00% | ~21,583 |
-| Get ReQ'd | 24.00% | ~19,923 |
-| Whispered Words | 24.00% | ~19,923 |
-| The Batman Family | 22.00% | ~18,262 |
-| Lock and Key | 22.00% | ~18,262 |
-| Something in the Clay | 20.00% | ~16,602 |
-| Quartzer Life Crisis | 20.00% | ~16,602 |
-| Working Hard or Harley Working? | 20.00% | ~16,602 |
-| Unstoppable Force | 20.00% | ~16,602 |
-| Bad Apples in Every Orchard | 20.00% | ~16,602 |
-| Snow Problem | 19.00% | ~15,772 |
-| The Show Mud Go On | 17.00% | ~14,112 |
-| From Inside Gotham's Walls | 17.00% | ~14,112 |
-| Protector of Gotham | 16.00% | ~13,282 |
-| In Your Element | 15.00% | ~12,452 |
-| Universal Health Scare | 15.00% | ~12,452 |
+| First Step Into the Knight | 50.00% | ~41,508 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,226 |
+| Loose Ends | 33.00% | ~27,396 |
+| To the Victor Go the Spoils | 27.00% | ~22,415 |
+| Knighthood | 26.00% | ~21,584 |
+| Get ReQ'd | 24.00% | ~19,924 |
+| Whispered Words | 24.00% | ~19,924 |
+| The Batman Family | 22.00% | ~18,264 |
+| Lock and Key | 22.00% | ~18,264 |
+| Something in the Clay | 20.00% | ~16,603 |
+| Quartzer Life Crisis | 20.00% | ~16,603 |
+| Working Hard or Harley Working? | 20.00% | ~16,603 |
+| Unstoppable Force | 20.00% | ~16,603 |
+| Bad Apples in Every Orchard | 20.00% | ~16,603 |
+| Snow Problem | 19.00% | ~15,773 |
+| The Show Mud Go On | 17.00% | ~14,113 |
+| From Inside Gotham's Walls | 17.00% | ~14,113 |
+| Protector of Gotham | 16.00% | ~13,283 |
+| In Your Element | 15.00% | ~12,453 |
+| Universal Health Scare | 15.00% | ~12,453 |
 | Rock and a Hard Place | 14.00% | ~11,622 |
 | Cooldown | 14.00% | ~11,622 |
 | Voiceless | 14.00% | ~11,622 |
-| Shock Til They Drop | 13.00% | ~10,791 |
-| Seeking Asylum | 13.00% | ~10,791 |
-| End of an Era | 12.00% | ~9,961 |
-| Not On My Watch | 12.00% | ~9,961 |
-| Bulldozed | 12.00% | ~9,961 |
-| Gotham Knight | 12.00% | ~9,961 |
-| Gotham City Confidential | 11.00% | ~9,131 |
-| Drone You Out | 10.00% | ~8,301 |
-| Out of Their League | 9.00% | ~7,471 |
+| Shock Til They Drop | 13.00% | ~10,792 |
+| Seeking Asylum | 13.00% | ~10,792 |
+| End of an Era | 12.00% | ~9,962 |
+| Not On My Watch | 12.00% | ~9,962 |
+| Bulldozed | 12.00% | ~9,962 |
+| Gotham Knight | 12.00% | ~9,962 |
+| Gotham City Confidential | 11.00% | ~9,132 |
+| Drone You Out | 10.00% | ~8,302 |
+| Out of Their League | 9.00% | ~7,472 |
 | Solid Alibi | 8.00% | ~6,641 |
 | Fusion Expert | 7.00% | ~5,811 |
 | Family Meeting | 6.00% | ~4,981 |
 | A Worthy Successor | 6.00% | ~4,981 |
 | Expert Crime Fighter | 5.00% | ~4,151 |
-| Dressed to Impress | 4.00% | ~3,320 |
-| A Momentum Occasion | 3.00% | ~2,490 |
-| Bat Out of Hell | 3.00% | ~2,490 |
+| Dressed to Impress | 4.00% | ~3,321 |
+| A Momentum Occasion | 3.00% | ~2,491 |
+| Bat Out of Hell | 3.00% | ~2,491 |
 | Practice Makes Perfect | 2.00% | ~1,660 |
 | He'd Be So Proud of You | 2.00% | ~1,660 |
 | Talonted | 1.00% | ~830 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 978)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,011 (Ranked 110)  
+Progressed: 83,017 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,10 +341,10 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
-| 2024-01-19 | 83,011 | 135 |
+| 2024-01-19 | 83,017 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,232  (Ranked 102)  
-Sum: 5,520 (Ranked 145)  
+Sum: 5,522 (Ranked 145)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): -43
 | This game is Great for Beginners | 292 |
 | This game is Relaxing | 291 |
 | This game is Extremely Fun | 290 |
-| This game has Quickly Understood Controls | 287 |
+| This game has Quickly Understood Controls | 289 |
 | This game has Amazing Characters | 281 |
 | This game has Amazing Storytelling | 279 |
 | This game is Highly Recommended | 275 |
@@ -688,4 +688,4 @@ Diff (max vs sum): -43
 | 2024-01-16 | 4.19 | 3,211 | 5,488 |
 | 2024-01-17 | 4.19 | 3,216 | 5,497 |
 | 2024-01-18 | 4.19 | 3,223 | 5,508 |
-| 2024-01-19 | 4.19 | 3,232 | 5,520 |
+| 2024-01-19 | 4.19 | 3,232 | 5,522 |

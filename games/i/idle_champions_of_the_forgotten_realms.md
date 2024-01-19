@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 2.00% | ~5,095 |
 | The Cursed Farmer | 2.00% | ~5,095 |
 | The Mad Wizard | 2.00% | ~5,095 |
-| The Ring of Regeneration | 1.00% | ~2,547 |
-| Are Ya Chicken? | 1.00% | ~2,547 |
+| The Ring of Regeneration | 1.00% | ~2,548 |
+| Are Ya Chicken? | 1.00% | ~2,548 |
 | Were-verpowered | 0.90% | ~2,293 |
 | Seeking Allies | 0.80% | ~2,038 |
 | Mad Cow Disease | 0.80% | ~2,038 |
@@ -20,7 +20,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.70% | ~1,783 |
 | Pure Energy | 0.70% | ~1,783 |
 | Fast Food | 0.70% | ~1,547 |
-| Terror in the Dark | 0.60% | ~1,528 |
+| Terror in the Dark | 0.60% | ~1,529 |
 | Maddening | 0.50% | ~1,274 |
 | Beast Mode | 0.50% | ~1,274 |
 | A Mysterious Summons | 0.50% | ~1,274 |
@@ -60,49 +60,49 @@ Number of Ratings: 9,041  (23.09.2022)
 | Overdue Rendezvous | 0.30% | ~764 |
 | The Templar's Camp | 0.30% | ~764 |
 | Rescue in the Jungle | 0.30% | ~764 |
-| Pros and CONs | 0.20% | ~509 |
-| Wet Feet | 0.20% | ~509 |
-| Hatchlings Underfoot | 0.20% | ~509 |
-| Don't Look Up! | 0.20% | ~509 |
-| Heavy Burden | 0.20% | ~509 |
+| Pros and CONs | 0.20% | ~510 |
+| Wet Feet | 0.20% | ~510 |
+| Hatchlings Underfoot | 0.20% | ~510 |
+| Don't Look Up! | 0.20% | ~510 |
+| Heavy Burden | 0.20% | ~510 |
 | Vecna Lives! | 0.20% | ~442 |
-| Homecoming | 0.20% | ~509 |
-| The Lost Heir of Omu | 0.20% | ~509 |
-| The Forbidden City | 0.20% | ~509 |
-| Captured! | 0.20% | ~509 |
-| Street War | 0.20% | ~509 |
-| Wisdom Check | 0.20% | ~509 |
-| A Grand Puzzle | 0.20% | ~509 |
-| Tomb of the Nine Gods | 0.20% | ~509 |
-| The Mists of Ravenloft | 0.20% | ~509 |
-| Family Entanglements | 0.20% | ~509 |
-| Tower on the Lake | 0.20% | ~509 |
-| Seeds of Deceit | 0.20% | ~509 |
-| Trollskull Manor | 0.20% | ~509 |
-| Attack on the Manor | 0.20% | ~509 |
-| Treasure Hunters | 0.20% | ~509 |
-| Flies on the Wall | 0.20% | ~509 |
-| Backtracking Through Barovia | 0.20% | ~509 |
-| Nimble Escape | 0.20% | ~509 |
-| Fugitives | 0.20% | ~509 |
-| Premature Betrayal | 0.20% | ~509 |
-| Hopelessly Lost | 0.20% | ~509 |
-| The Dead Three | 0.20% | ~509 |
-| Crowded Streets | 0.20% | ~509 |
-| The Darkness Runs Deeper | 0.20% | ~509 |
-| Difficult Terrain | 0.20% | ~509 |
-| Dinosaur Racing | 0.20% | ~509 |
-| Elturel Has Fallen | 0.20% | ~509 |
-| Resolve Amongst Chaos | 0.20% | ~509 |
-| Market Fluctuations | 0.20% | ~509 |
+| Homecoming | 0.20% | ~510 |
+| The Lost Heir of Omu | 0.20% | ~510 |
+| The Forbidden City | 0.20% | ~510 |
+| Captured! | 0.20% | ~510 |
+| Street War | 0.20% | ~510 |
+| Wisdom Check | 0.20% | ~510 |
+| A Grand Puzzle | 0.20% | ~510 |
+| Tomb of the Nine Gods | 0.20% | ~510 |
+| The Mists of Ravenloft | 0.20% | ~510 |
+| Family Entanglements | 0.20% | ~510 |
+| Tower on the Lake | 0.20% | ~510 |
+| Seeds of Deceit | 0.20% | ~510 |
+| Trollskull Manor | 0.20% | ~510 |
+| Attack on the Manor | 0.20% | ~510 |
+| Treasure Hunters | 0.20% | ~510 |
+| Flies on the Wall | 0.20% | ~510 |
+| Backtracking Through Barovia | 0.20% | ~510 |
+| Nimble Escape | 0.20% | ~510 |
+| Fugitives | 0.20% | ~510 |
+| Premature Betrayal | 0.20% | ~510 |
+| Hopelessly Lost | 0.20% | ~510 |
+| The Dead Three | 0.20% | ~510 |
+| Crowded Streets | 0.20% | ~510 |
+| The Darkness Runs Deeper | 0.20% | ~510 |
+| Difficult Terrain | 0.20% | ~510 |
+| Dinosaur Racing | 0.20% | ~510 |
+| Elturel Has Fallen | 0.20% | ~510 |
+| Resolve Amongst Chaos | 0.20% | ~510 |
+| Market Fluctuations | 0.20% | ~510 |
 | The Giant's Bane Tavern | 0.20% | ~442 |
-| The Long Haul | 0.20% | ~509 |
-| Lost in the Deep | 0.20% | ~509 |
-| Easily Distracted | 0.20% | ~509 |
-| Rude Welcome | 0.20% | ~509 |
-| Durable Deep | 0.20% | ~509 |
-| Expert Opinion | 0.20% | ~509 |
-| The Haunted Jungle | 0.20% | ~509 |
+| The Long Haul | 0.20% | ~510 |
+| Lost in the Deep | 0.20% | ~510 |
+| Easily Distracted | 0.20% | ~510 |
+| Rude Welcome | 0.20% | ~510 |
+| Durable Deep | 0.20% | ~510 |
+| Expert Opinion | 0.20% | ~510 |
+| The Haunted Jungle | 0.20% | ~510 |
 | The Beginning is the End | 0.20% | ~442 |
 | The Brains of an Illithid's Desire | 0.20% | ~442 |
 | Upholding the Law | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,741 (Ranked 71)  
+Progressed: 254,752 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,741 | 2,624 |
+| 2024-01-19 | 254,752 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,565 (Ranked 41)  

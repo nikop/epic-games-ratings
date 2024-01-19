@@ -35,31 +35,31 @@ Rating: 4.16 (Ranked 997)
 | Forspoken | 1.00% | ~475 |
 | Pilgrimage: Novice | 1.00% | ~475 |
 | Wildfire | 0.80% | ~380 |
-| Awakening | 0.70% | ~332 |
-| Realized Potential | 0.70% | ~332 |
+| Awakening | 0.70% | ~333 |
+| Realized Potential | 0.70% | ~333 |
 | Explorer: Trailblazer | 0.60% | ~285 |
-| Through the Eyes of Another: Seer | 0.50% | ~237 |
+| Through the Eyes of Another: Seer | 0.50% | ~238 |
 | Archivist | 0.40% | ~190 |
 | Craftsperson | 0.40% | ~190 |
 | Tit for Tat | 0.40% | ~190 |
-| A Roaring Trade | 0.30% | ~142 |
-| Promises | 0.30% | ~142 |
-| Rebirth | 0.30% | ~142 |
+| A Roaring Trade | 0.30% | ~143 |
+| Promises | 0.30% | ~143 |
+| Rebirth | 0.30% | ~143 |
 | Paragon | 0.20% | ~95 |
 | Pilgrimage: Adept | 0.20% | ~95 |
 | Call of the Fount: Beatified | 0.20% | ~95 |
 | I Can Fly! | 0.20% | ~95 |
-| Abominizer | 0.10% | ~47 |
-| Through the Eyes of Another: Visionary | 0.10% | ~47 |
-| Kit and Caboodle | 0.10% | ~47 |
-| Above and Beyond | 0.10% | ~47 |
-| Happy Snapper | 0.10% | ~47 |
-| Barely There | 0.10% | ~47 |
-| Moves | 0.10% | ~47 |
-| Remembrance | 0.10% | ~47 |
-| Cat Person | 0.10% | ~47 |
+| Abominizer | 0.10% | ~48 |
+| Through the Eyes of Another: Visionary | 0.10% | ~48 |
+| Kit and Caboodle | 0.10% | ~48 |
+| Above and Beyond | 0.10% | ~48 |
+| Happy Snapper | 0.10% | ~48 |
+| Barely There | 0.10% | ~48 |
+| Moves | 0.10% | ~48 |
+| Remembrance | 0.10% | ~48 |
+| Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,498 (Ranked 127)  
+Progressed: 47,501 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 4 (0.01%) (Ranked 379)
 | 2024-01-16 | 47,364 | 4 |
 | 2024-01-17 | 47,424 | 4 |
 | 2024-01-18 | 47,464 | 4 |
-| 2024-01-19 | 47,498 | 4 |
+| 2024-01-19 | 47,501 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 455)  
 Sum: 78 (Ranked 489)  

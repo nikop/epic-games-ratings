@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19355,
+  "EOS_Progressed": 19356,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14815,6 +14815,11 @@
       "Time": "2024-01-19T15:05:44.023649+00:00",
       "NumProgressed": 19355,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T20:05:49.2428277+00:00",
+      "NumProgressed": 19356,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14826,7 +14831,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5806
+      "UsersEstimate": 5807
     },
     {
       "ID": "0002",
@@ -14842,7 +14847,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3290
+      "UsersEstimate": 3291
     },
     {
       "ID": "0004",
@@ -15113,7 +15118,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19355,
+      "Progressed": 19356,
       "Completed": 4
     }
   ],
@@ -15121,8 +15126,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:37.09365+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:49.2428275+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:43.1243695+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:58:34.2063358+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:37.0937409+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:58:42.996909+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:49.2429139+00:00"
 }

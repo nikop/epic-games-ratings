@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 586,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -284,9 +284,9 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "UPGRADES_FIRST",
@@ -315,8 +315,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:04:28.0443216+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:04:35.2207397+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:58:31.4157621+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:04:28.0443341+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:58:39.881641+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:04:35.2207488+00:00"
 }

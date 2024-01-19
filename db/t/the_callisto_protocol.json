@@ -6,7 +6,7 @@
   "Ranking_Popularity": 345,
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 153,
-  "Ranking_EOS_Completed": 251,
+  "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
@@ -2315,9 +2315,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22566,
+  "EOS_Progressed": 22567,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14430,6 +14430,11 @@
       "Time": "2024-01-19T19:09:53.963193+00:00",
       "NumProgressed": 22566,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-19T20:09:57.080611+00:00",
+      "NumProgressed": 22567,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14633,7 +14638,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6318
+      "UsersEstimate": 6319
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14816,13 +14821,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22566,
+      "Progressed": 22567,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10492,
+      "Progressed": 10493,
       "Completed": 29
     }
   ],
@@ -14830,8 +14835,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-19T17:03:48.3111876+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:09:53.9631924+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:09:57.0806109+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:03:14.3195346+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:09:53.9632811+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:03:13.3280945+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:09:57.0806759+00:00"
 }

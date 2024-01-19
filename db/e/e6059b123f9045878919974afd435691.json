@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1491,
+  "EOS_Progressed": 1492,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3984,6 +3984,11 @@
       "Time": "2024-01-19T18:10:12.0466976+00:00",
       "NumProgressed": 1491,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T20:10:23.7932396+00:00",
+      "NumProgressed": 1492,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4003,7 +4008,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4131,7 +4136,7 @@
       "Name": "He\u0027s Getting Crazier",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "BURN_ACHIEVEMENT_4",
@@ -4235,7 +4240,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -4283,7 +4288,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4307,7 +4312,7 @@
       "Name": "Do This In Silence",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_1",
@@ -4345,9 +4350,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 283
+      "UsersEstimate": 298
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4355,7 +4360,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 447
+      "UsersEstimate": 448
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4371,7 +4376,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4387,7 +4392,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4419,7 +4424,7 @@
       "Name": "Buy A Book",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -4443,7 +4448,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4522,14 +4527,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1491,
+      "Progressed": 1492,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:18.3277901+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:23.7932393+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:00:34.7892764+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:18.3278472+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:02:28.4471698+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:23.7933099+00:00"
 }

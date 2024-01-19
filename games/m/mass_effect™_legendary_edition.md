@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,045 |
-| Spectre Inductee | 66.00% | ~2,966 |
+| Distinguished Service Medal | 90.00% | ~4,046 |
+| Spectre Inductee | 66.00% | ~2,967 |
 | Medal of Exploration I | 56.00% | ~2,517 |
 | Recruit | 53.00% | ~2,382 |
 | Search and Rescue | 51.00% | ~2,292 |
-| Quarian Ally | 49.00% | ~2,202 |
-| Medal of Heroism | 44.00% | ~1,977 |
-| Honorarium of Corporate Service | 44.00% | ~1,977 |
+| Quarian Ally | 49.00% | ~2,203 |
+| Medal of Heroism | 44.00% | ~1,978 |
+| Honorarium of Corporate Service | 44.00% | ~1,978 |
 | Turian Ally | 40.00% | ~1,798 |
 | Medal of Exploration II | 39.00% | ~1,753 |
 | Council Legion of Merit | 38.00% | ~1,708 |
@@ -34,19 +34,19 @@
 | The Professor | 30.00% | ~1,348 |
 | Head Hunter | 30.00% | ~1,348 |
 | Scholar | 30.00% | ~1,348 |
-| The Archangel | 29.00% | ~1,303 |
-| Operative | 28.00% | ~1,258 |
-| The Convict | 27.00% | ~1,213 |
-| Power Full | 27.00% | ~1,213 |
-| Colony Defense | 26.00% | ~1,168 |
-| The Krogan | 26.00% | ~1,168 |
-| Broke, Blind, and Bedlam | 26.00% | ~1,168 |
+| The Archangel | 29.00% | ~1,304 |
+| Operative | 28.00% | ~1,259 |
+| The Convict | 27.00% | ~1,214 |
+| Power Full | 27.00% | ~1,214 |
+| Colony Defense | 26.00% | ~1,169 |
+| The Krogan | 26.00% | ~1,169 |
+| Broke, Blind, and Bedlam | 26.00% | ~1,169 |
 | Veteran | 25.00% | ~1,124 |
 | Driven | 25.00% | ~1,124 |
 | Ghost Ship | 24.00% | ~1,079 |
 | The Assassin | 24.00% | ~1,079 |
+| The Justicar | 24.00% | ~1,079 |
 | The Quarian | 24.00% | ~1,079 |
-| The Justicar | 23.00% | ~1,034 |
 | The Prodigal | 23.00% | ~1,034 |
 | Galactic Explorer | 23.00% | ~1,034 |
 | Shopaholic | 23.00% | ~1,034 |
@@ -105,9 +105,9 @@
 | Long Service Medal | 11.00% | ~494 |
 | Sabotage Specialist | 11.00% | ~494 |
 | Throw Mastery | 11.00% | ~494 |
-| Mail Slot | 10.00% | ~449 |
-| Electronics Specialist | 10.00% | ~449 |
-| Combined Arms | 9.00% | ~404 |
+| Mail Slot | 10.00% | ~450 |
+| Electronics Specialist | 10.00% | ~450 |
+| Combined Arms | 9.00% | ~405 |
 | Warp Mastery | 8.00% | ~360 |
 | Barrier Mastery | 7.00% | ~315 |
 | Sky High | 7.00% | ~315 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~40 |
 | The One and Only | 0.60% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,494 (Ranked 211)  
+Progressed: 4,495 (Ranked 211)  
 Completed: 13 (0.29%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,4 +258,4 @@ Completed: 13 (0.29%) (Ranked 266)
 | 2024-01-16 | 4,423 | 13 |
 | 2024-01-17 | 4,449 | 13 |
 | 2024-01-18 | 4,472 | 13 |
-| 2024-01-19 | 4,494 | 13 |
+| 2024-01-19 | 4,495 | 13 |

@@ -14,8 +14,8 @@ Number of Ratings: 54  (23.09.2022)
 | Grave Robber | 17.00% | ~298 |
 | Explorer | 16.00% | ~280 |
 | Head Burst | 16.00% | ~280 |
+| Double agent | 15.00% | ~263 |
 | Paranoia | 15.00% | ~263 |
-| Double agent | 14.00% | ~245 |
 | Savant | 10.00% | ~175 |
 | Kraina Grzybow | 9.00% | ~158 |
 | Love Guru | 9.00% | ~158 |
@@ -33,7 +33,7 @@ Number of Ratings: 54  (23.09.2022)
 | Cosmic Horror | 1.00% | ~18 |
 | It was worth a shot | 0.90% | ~16 |
 | Ghostbuster | 0.60% | ~11 |
-| Cheeki Breeki | 0.40% | ~7 |
+| Cheeki Breeki | 0.50% | ~9 |
 | It's a classic! | 0.40% | ~7 |
 | Comrade Yogi | 0.40% | ~7 |
 | Tourist Korallov | 0.40% | ~7 |
@@ -271,9 +271,9 @@ Completed: 1 (0.06%) (Ranked 337)
 | 2024-01-18 | 1,749 | 1 |
 | 2024-01-19 | 1,751 | 1 |
 ## Awards
-Max (Character Customization): 53  (Ranked 452)  
+Max (Character Customization): 53  (Ranked 453)  
 Sum: 53 (Ranked 511)  
-Diff (max vs sum): -59  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 53 |

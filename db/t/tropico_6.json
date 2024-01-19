@@ -1611,9 +1611,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7200,
+  "EOS_Progressed": 7201,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17001,6 +17001,11 @@
       "Time": "2024-01-19T19:03:47.5054254+00:00",
       "NumProgressed": 7200,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T20:03:50.9365791+00:00",
+      "NumProgressed": 7201,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17026,9 +17031,9 @@
       "ID": "ACH_DOUBLEESCALATION",
       "SetID": "1p8ab95",
       "Name": "Double Trouble",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 504
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -17172,7 +17177,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5256
+      "UsersEstimate": 5257
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17314,9 +17319,9 @@
       "ID": "ACH_WONDER_FRENCHCONNECTION",
       "SetID": "1p8ab95",
       "Name": "French Connection",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 504
+      "UsersEstimate": 432
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -17331,15 +17336,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7200,
+      "Progressed": 7201,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-17T10:01:51.1088644+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:03:47.5054249+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:03:50.9365789+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:02.6194378+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:03:47.5055252+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:03.2368334+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:03:50.9366764+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5061,
+  "EOS_Progressed": 5064,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -13570,6 +13570,11 @@
       "Time": "2024-01-19T19:05:53.0370501+00:00",
       "NumProgressed": 5061,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-19T20:06:06.7879052+00:00",
+      "NumProgressed": 5064,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13581,7 +13586,7 @@
       "Name": "Colored 10 easy pictures.",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ach_10_hard_pictures",
@@ -13589,7 +13594,7 @@
       "Name": "Artist",
       "Percentage": 4,
       "XP": 80,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_10_medium_pictures",
@@ -13613,7 +13618,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3897
+      "UsersEstimate": 3899
     },
     {
       "ID": "ach_architecture_completed",
@@ -13629,7 +13634,7 @@
       "Name": "Architecture - unlocked",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ach_bomb",
@@ -13637,7 +13642,7 @@
       "Name": "Cannoneer",
       "Percentage": 27,
       "XP": 65,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "ach_color_splash",
@@ -13645,7 +13650,7 @@
       "Name": "Color flood",
       "Percentage": 31,
       "XP": 65,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "ach_first_picture",
@@ -13653,7 +13658,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4102
     },
     {
       "ID": "ach_food_completed",
@@ -13669,7 +13674,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1822
+      "UsersEstimate": 1823
     },
     {
       "ID": "ach_game_opened",
@@ -13677,7 +13682,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3796
+      "UsersEstimate": 3798
     },
     {
       "ID": "ach_magic_wand",
@@ -13685,7 +13690,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1518
+      "UsersEstimate": 1519
     },
     {
       "ID": "ach_no_boosters",
@@ -13693,7 +13698,7 @@
       "Name": "Master",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ach_tornado",
@@ -13701,14 +13706,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5061,
+      "Progressed": 5064,
       "Completed": 44
     }
   ],
@@ -13716,8 +13721,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:53.0370495+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:06:06.7879049+00:00",
   "LastUpdate_AppInfo": "2024-01-12T23:57:12.5110716+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:00:19.5480298+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:53.0371164+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:00:41.1204222+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:06:06.7879741+00:00"
 }

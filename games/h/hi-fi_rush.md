@@ -5,24 +5,24 @@ Rating: 4.86 (Ranked 34)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,764 |
-| Start with a bang! | 55.00% | ~9,589 |
+| Feeling the beat! | 56.00% | ~9,765 |
+| Start with a bang! | 55.00% | ~9,590 |
 | You can pet the cat! | 50.00% | ~8,718 |
-| Who put gears in there? | 42.00% | ~7,323 |
-| Cream of the Crop | 37.00% | ~6,451 |
+| Who put gears in there? | 42.00% | ~7,324 |
+| Cream of the Crop | 37.00% | ~6,452 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,277 |
 | You got this, Peppermint? | 31.00% | ~5,405 |
-| Perfect Parry | 29.00% | ~5,056 |
-| Alright, that felt AWESOME! | 29.00% | ~5,056 |
+| Perfect Parry | 29.00% | ~5,057 |
+| Alright, that felt AWESOME! | 29.00% | ~5,057 |
 | I play my own way! | 25.00% | ~4,359 |
-| This will cost you big time | 23.00% | ~4,010 |
-| Uh, they were broken when I got here | 23.00% | ~4,010 |
-| Z-shielding's got nothing on us! | 21.00% | ~3,661 |
-| Kissing the sky! | 21.00% | ~3,661 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,138 |
+| This will cost you big time | 23.00% | ~4,011 |
+| Uh, they were broken when I got here | 23.00% | ~4,011 |
+| Z-shielding's got nothing on us! | 21.00% | ~3,662 |
+| Kissing the sky! | 21.00% | ~3,662 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,139 |
 | The Negotiator | 17.00% | ~2,964 |
 | Does that say weakpoint? | 17.00% | ~2,964 |
-| You must like calling me in, Chai | 15.00% | ~2,615 |
+| You must like calling me in, Chai | 15.00% | ~2,616 |
 | Headliner | 14.00% | ~2,441 |
 | Out in a puff of smoke | 14.00% | ~2,441 |
 | Time to pay up! | 13.00% | ~2,267 |
@@ -34,7 +34,7 @@ Rating: 4.86 (Ranked 34)
 | NOW we got a kickass hideout! | 9.00% | ~1,436 |
 | Well that was a rush! | 8.00% | ~1,395 |
 | That's a lot of junk metal… | 8.00% | ~1,395 |
-| Beat-hit mania | 7.00% | ~1,220 |
+| Beat-hit mania | 7.00% | ~1,221 |
 | Chip-tuned | 5.00% | ~872 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~872 |
 | Wanna hear my playlist? | 4.00% | ~697 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,435 (Ranked 169)  
+Progressed: 17,437 (Ranked 169)  
 Completed: 8 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 8 (0.05%) (Ranked 344)
 | 2024-01-16 | 17,286 | 8 |
 | 2024-01-17 | 17,341 | 8 |
 | 2024-01-18 | 17,389 | 8 |
-| 2024-01-19 | 17,435 | 8 |
+| 2024-01-19 | 17,437 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

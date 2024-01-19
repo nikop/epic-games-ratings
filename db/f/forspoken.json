@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47498,
+  "EOS_Progressed": 47501,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19343,6 +19343,11 @@
       "Time": "2024-01-19T18:05:19.8041968+00:00",
       "NumProgressed": 47498,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T20:05:33.8879443+00:00",
+      "NumProgressed": 47501,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19354,7 +19359,7 @@
       "Name": "Abominizer",
       "Percentage": 0.1,
       "XP": 105,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ARCHIVE",
@@ -19378,7 +19383,7 @@
       "Name": "Through the Eyes of Another: Visionary",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "CHALLENGE_FIRST",
@@ -19394,7 +19399,7 @@
       "Name": "Through the Eyes of Another: Seer",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "CHAPTER_01_CLEAR",
@@ -19490,7 +19495,7 @@
       "Name": "Awakening",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "CRAFT_ALL",
@@ -19522,7 +19527,7 @@
       "Name": "Kit and Caboodle",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "FAIRYSTEP",
@@ -19578,7 +19583,7 @@
       "Name": "Above and Beyond",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "MAGIC_ALL",
@@ -19674,7 +19679,7 @@
       "Name": "Happy Snapper",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SKILLTREE_ALL",
@@ -19682,7 +19687,7 @@
       "Name": "Realized Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "SKILLTREE_FIRST",
@@ -19722,7 +19727,7 @@
       "Name": "Barely There",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SUBCON_DANCE",
@@ -19730,7 +19735,7 @@
       "Name": "Moves",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SUBCON_PRAY",
@@ -19738,7 +19743,7 @@
       "Name": "Remembrance",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "SUBCON_TRADE",
@@ -19746,7 +19751,7 @@
       "Name": "A Roaring Trade",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SUBQUEST_CINTA",
@@ -19754,7 +19759,7 @@
       "Name": "Promises",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "SUBQUEST_CIPAL",
@@ -19762,7 +19767,7 @@
       "Name": "Rebirth",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "TANTACAT_ALL",
@@ -19770,29 +19775,29 @@
       "Name": "Cat Person",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47498,
+      "Progressed": 47501,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12335,
-      "Completed": 12335
+      "Progressed": 12338,
+      "Completed": 12338
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:23.3122557+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:33.887944+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:02:57.3176232+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:23.3123591+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:02:54.3794831+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:33.8880836+00:00"
 }

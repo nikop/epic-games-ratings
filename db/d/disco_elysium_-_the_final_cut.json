@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139649,
+  "EOS_Progressed": 139650,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 738,
+  "EOS_NewPlayers": 736,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29151,6 +29151,11 @@
       "Time": "2024-01-19T19:08:55.9727063+00:00",
       "NumProgressed": 139649,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-19T20:08:55.993156+00:00",
+      "NumProgressed": 139650,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29186,7 +29191,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "ACH_COP_ART",
@@ -29218,7 +29223,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32119
+      "UsersEstimate": 32120
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -29298,7 +29303,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20947
+      "UsersEstimate": 20948
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -29306,7 +29311,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15362
     },
     {
       "ID": "ACH_CUNO",
@@ -29386,7 +29391,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4190
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -29481,15 +29486,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139649,
+      "Progressed": 139650,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:08:55.9727051+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:08:55.9931557+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:00:18.3303462+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:08:55.972847+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:00:39.6955967+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:08:55.9933296+00:00"
 }

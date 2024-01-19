@@ -6,12 +6,12 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.40% | ~4,220 |
-| Right Back At Ya | 0.40% | ~4,220 |
-| The Hermit | 0.40% | ~4,220 |
-| The High Priestess | 0.40% | ~4,220 |
-| The Wheel of Fortune | 0.40% | ~4,220 |
-| True Soldier | 0.40% | ~4,220 |
+| Full Body Conversion | 0.40% | ~4,221 |
+| Right Back At Ya | 0.40% | ~4,221 |
+| The Hermit | 0.40% | ~4,221 |
+| The High Priestess | 0.40% | ~4,221 |
+| The Wheel of Fortune | 0.40% | ~4,221 |
+| True Soldier | 0.40% | ~4,221 |
 | Bushido and Chill | 0.30% | ~3,165 |
 | Gun Fu | 0.30% | ~3,165 |
 | Master Crafter | 0.30% | ~3,165 |
@@ -30,7 +30,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.20% | ~2,110 |
 | Two Heads, One Bullet | 0.20% | ~2,110 |
 | Judy vs Night City | 0.20% | ~2,110 |
-| Spin Doctor | 0.20% | ~367 |
+| Spin Doctor | 0.20% | ~368 |
 | City Lights | 0.10% | ~1,055 |
 | To Bad Decisions! | 0.10% | ~1,055 |
 | The Wandering Fool | 0.10% | ~1,055 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,103 (Ranked 17)  
+Progressed: 1,055,135 (Ranked 17)  
 Completed: 3,129 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,14 +348,14 @@ Completed: 3,129 (0.30%) (Ranked 263)
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
-| 2024-01-19 | 1,055,103 | 3,129 |
+| 2024-01-19 | 1,055,135 | 3,129 |
 ## Awards
-Max (Character Customization): 142,143  (Ranked 8)  
-Sum: 505,907 (Ranked 8)  
+Max (Character Customization): 142,615  (Ranked 8)  
+Sum: 506,379 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 142,143 |
+| This game has Inclusive Character Customization | 142,615 |
 | This game has Great Boss Battles | 106,097 |
 | This game is Great for Beginners | 32,259 |
 | This game has Diverse Characters | 31,578 |
@@ -734,4 +734,4 @@ Diff (max vs sum): 0
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
 | 2024-01-18 | 4.67 | - | 142,143 | 504,220 |
-| 2024-01-19 | 4.67 | - | 142,143 | 505,907 |
+| 2024-01-19 | 4.67 | - | 142,615 | 506,379 |

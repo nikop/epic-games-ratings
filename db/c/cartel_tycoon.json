@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1047,
+  "EOS_Progressed": 1048,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -3763,6 +3763,11 @@
       "Time": "2024-01-19T19:04:59.7103928+00:00",
       "NumProgressed": 1047,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T20:05:09.020306+00:00",
+      "NumProgressed": 1048,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3822,7 +3827,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "kill-lieutenants",
@@ -3836,9 +3841,9 @@
       "ID": "pack-and-sell",
       "SetID": "bed33dd",
       "Name": "Hokey-Pokey",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 712
+      "UsersEstimate": 702
     },
     {
       "ID": "play-at-night",
@@ -3878,7 +3883,7 @@
       "Name": "Bite the Blow",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "sell-variety",
@@ -3894,7 +3899,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 544
+      "UsersEstimate": 545
     },
     {
       "ID": "unlock-residences",
@@ -3925,15 +3930,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1047,
+      "Progressed": 1048,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-17T04:03:24.3401457+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:04:59.7103922+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:09.0203058+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:02:56.6869762+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:04:59.7104207+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:02:53.6459369+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:09.020332+00:00"
 }

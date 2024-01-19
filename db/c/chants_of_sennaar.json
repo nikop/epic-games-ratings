@@ -139,10 +139,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2884,
+  "EOS_Progressed": 2885,
   "EOS_Completed": 221,
   "EOS_NewPlayers": 166,
-  "EOS_NewCompleters": 22,
+  "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 7.66,
   "EosHistory": [
     {
@@ -7679,6 +7679,11 @@
       "Time": "2024-01-19T19:04:50.7119028+00:00",
       "NumProgressed": 2884,
       "NumCompleted": 221
+    },
+    {
+      "Time": "2024-01-19T20:04:58.8708972+00:00",
+      "NumProgressed": 2885,
+      "NumCompleted": 221
     }
   ],
   "TotalAchievements": 25,
@@ -7714,7 +7719,7 @@
       "Name": "Cable guy",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7730,7 +7735,7 @@
       "Name": "Half the way",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7738,7 +7743,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7754,7 +7759,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 663
+      "UsersEstimate": 664
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7786,7 +7791,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7808,9 +7813,9 @@
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1298
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7834,7 +7839,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 1759
+      "UsersEstimate": 1760
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7850,7 +7855,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "PROGRESS_N2",
@@ -7858,7 +7863,7 @@
       "Name": "The great escape",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "PROGRESS_N3",
@@ -7882,14 +7887,14 @@
       "Name": "One last step",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2884,
+      "Progressed": 2885,
       "Completed": 221
     }
   ],
@@ -7897,8 +7902,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:04:50.7119024+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:04:58.8708969+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:48.3354009+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:04:50.71196+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:53.1174+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:04:58.8709504+00:00"
 }

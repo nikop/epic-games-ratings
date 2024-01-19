@@ -4,7 +4,7 @@
   "ProductSlug": "escaperoom-0d8657",
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-13T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-12T11:03:43.6218073+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:06:26.6592041+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:08:03.6266048+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:13.4579305+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:00:34.405598+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:06:26.6592075+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:02:28.0250325+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:08:03.6266071+00:00"
 }

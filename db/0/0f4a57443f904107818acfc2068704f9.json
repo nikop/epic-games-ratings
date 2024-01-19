@@ -4,7 +4,7 @@
   "ProductSlug": "warhammer-age-of-sigmar-realms-of-ruin",
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-17T16:00:00+00:00",
@@ -3672,9 +3672,9 @@
       "ID": "CompleteChapter9",
       "SetID": "52ail55",
       "Name": "Ingredients List",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 197
+      "UsersEstimate": 210
     },
     {
       "ID": "CompleteConquestKruleboyz",
@@ -3775,8 +3775,8 @@
   ],
   "FirstSeen": "2023-11-17T18:58:28.956827+00:00",
   "FirstSeenAchievements": "2023-09-04T12:07:57.8771847+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:19.156828+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:29.2573277+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:08.9023483+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:08.3404695+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:19.1568588+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:09.5798271+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:29.2573752+00:00"
 }

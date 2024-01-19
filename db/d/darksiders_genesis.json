@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 710,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -2520,6 +2520,11 @@
       "Time": "2024-01-19T18:09:59.5655457+00:00",
       "NumProgressed": 709,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T20:10:10.4889467+00:00",
+      "NumProgressed": 710,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2716,7 +2721,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TheDeadCourt",
@@ -2771,15 +2776,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 710,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:05.7672592+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:10.4889465+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:28.2193344+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:00:03.6121363+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:05.7672906+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:00:23.7629271+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:10.4889757+00:00"
 }

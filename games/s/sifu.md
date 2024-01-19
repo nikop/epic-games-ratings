@@ -30,7 +30,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Scareless | 1.00% | ~7,618 |
 | Dance of the Praying Mantis | 1.00% | ~7,618 |
 | Kung-Fu Tussle | 1.00% | ~7,618 |
-| Project Arena | 1.00% | ~711 |
+| Project Arena | 1.00% | ~712 |
 | Muk Yan Master | 0.80% | ~6,095 |
 | Fight the way you practice | 0.80% | ~569 |
 | Tiger on Fire | 0.70% | ~5,333 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,844 (Ranked 26)  
+Progressed: 761,849 (Ranked 26)  
 Completed: 12,994 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 12,994 (1.71%) (Ranked 149)
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
-| 2024-01-19 | 761,844 | 12,994 |
+| 2024-01-19 | 761,849 | 12,994 |
 ## Awards
 Max (Great Boss Battles): 7,237  (Ranked 57)  
 Sum: 12,812 (Ranked 87)  

@@ -1,16 +1,16 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 401)  
+Rating: 4.61 (Ranked 400)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,346 |
-| Wallbanger | 5.00% | ~26,346 |
-| Exploitative | 4.00% | ~21,077 |
-| High Speed Low Drag | 4.00% | ~21,077 |
-| Wet Feet | 4.00% | ~21,077 |
+| Point Shooting | 5.00% | ~26,347 |
+| Wallbanger | 5.00% | ~26,347 |
+| Exploitative | 4.00% | ~21,078 |
+| High Speed Low Drag | 4.00% | ~21,078 |
+| Wet Feet | 4.00% | ~21,078 |
 | Checkpoint Victory | 3.00% | ~15,808 |
 | Lucky | 3.00% | ~15,808 |
 | Stylin' | 3.00% | ~15,808 |
@@ -23,12 +23,12 @@ Number of Ratings: 1,316  (23.09.2022)
 | Blindfire | 1.00% | ~5,269 |
 | Ruthless | 1.00% | ~5,269 |
 | Semper Paratus | 1.00% | ~5,269 |
-| Carrying | 0.90% | ~4,742 |
-| Efficient | 0.90% | ~4,742 |
-| Mount & Gun | 0.90% | ~4,742 |
-| Personal | 0.90% | ~4,742 |
-| Grounded | 0.80% | ~4,215 |
-| Play to Win | 0.80% | ~4,215 |
+| Carrying | 0.90% | ~4,743 |
+| Efficient | 0.90% | ~4,743 |
+| Mount & Gun | 0.90% | ~4,743 |
+| Personal | 0.90% | ~4,743 |
+| Grounded | 0.80% | ~4,216 |
+| Play to Win | 0.80% | ~4,216 |
 | Special Delivery | 0.70% | ~3,689 |
 | Firefight Victory | 0.60% | ~3,162 |
 | #1 | 0.60% | ~3,162 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~527 |
 | Road Hazard | 0.10% | ~527 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 526,930 (Ranked 40)  
+Progressed: 526,948 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 2 (0.00%) (Ranked 406)
 | 2024-01-16 | 525,809 | 2 |
 | 2024-01-17 | 526,256 | 2 |
 | 2024-01-18 | 526,642 | 2 |
-| 2024-01-19 | 526,930 | 2 |
+| 2024-01-19 | 526,948 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 422  (Ranked 238)  
 Sum: 3,412 (Ranked 177)  

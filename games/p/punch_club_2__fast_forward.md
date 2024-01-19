@@ -17,9 +17,9 @@
 | Your own amateur gym | 65.00% | ~385 |
 | First defeat | 63.00% | ~374 |
 | Run K, run! | 63.00% | ~374 |
+| Hello, world! | 62.00% | ~368 |
 | Fighting is cool | 61.00% | ~362 |
 | No bullying more | 61.00% | ~362 |
-| Hello, world! | 61.00% | ~362 |
 | Pal of your father? | 59.00% | ~350 |
 | Spirit of the past | 57.00% | ~338 |
 | Employee of the month | 57.00% | ~338 |
@@ -27,9 +27,9 @@
 | Handyman | 53.00% | ~314 |
 | Workout professional | 52.00% | ~308 |
 | Fight for life | 52.00% | ~308 |
+| Little hacker | 52.00% | ~308 |
 | Champion – starter pack | 52.00% | ~308 |
 | It's good to be alive | 52.00% | ~308 |
-| Little hacker | 51.00% | ~302 |
 | Own four walls | 51.00% | ~302 |
 | Intriguing candies | 51.00% | ~302 |
 | Employee of the year | 50.00% | ~296 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 245,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1638,9 +1638,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28430,
+  "EOS_Progressed": 28432,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14483,6 +14483,11 @@
       "Time": "2024-01-19T19:10:06.6755673+00:00",
       "NumProgressed": 28430,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-19T20:10:11.3616222+00:00",
+      "NumProgressed": 28432,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14796,30 +14801,30 @@
       "ID": "UnlockHighestUnity",
       "SetID": "3ojhj46",
       "Name": "Color Coordination",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 114
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28430,
+      "Progressed": 28432,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7360,
+      "Progressed": 7362,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-17T20:57:40.3892321+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:06.6755667+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:11.361622+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:58:42.3662687+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:06.6756655+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:58:51.6162382+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:11.3617106+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 374,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -897,9 +897,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 2495,
+  "EOS_Progressed": 2496,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -7062,6 +7062,11 @@
       "Time": "2024-01-19T19:09:30.6195643+00:00",
       "NumProgressed": 2495,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T20:09:32.3202717+00:00",
+      "NumProgressed": 2496,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 61,
@@ -7113,7 +7118,7 @@
       "Name": "Transport millionaire",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "achAircraftEarnings",
@@ -7121,7 +7126,7 @@
       "Name": "Aircraft entrepreneur",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "achAllClimates",
@@ -7177,7 +7182,7 @@
       "Name": "First train station",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 1472
+      "UsersEstimate": 1473
     },
     {
       "ID": "achCannotGetEnough",
@@ -7233,7 +7238,7 @@
       "Name": "Cadet",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "achCreateLine",
@@ -7241,7 +7246,7 @@
       "Name": "First line",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "achCrowdInATrain",
@@ -7281,7 +7286,7 @@
       "Name": "First bus arrived",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "achFirstCargoTransported",
@@ -7313,15 +7318,15 @@
       "Name": "First industry upgraded",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 1322
+      "UsersEstimate": 1323
     },
     {
       "ID": "achFirstPassengerTransported",
       "SetID": "dgl390n",
       "Name": "First passenger on board",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1572
     },
     {
       "ID": "achFirstPassengerWaiting",
@@ -7345,7 +7350,7 @@
       "Name": "First steam train arrived",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "achGlacierExpress",
@@ -7417,7 +7422,7 @@
       "Name": "Mass production",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "achMetropolis",
@@ -7560,15 +7565,15 @@
     {
       "ID": "dgl390n",
       "IsBase": true,
-      "Progressed": 2495,
+      "Progressed": 2496,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:09:30.619564+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:09:32.3202715+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:40.3828724+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:02:57.6998546+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:09:30.6196366+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:02:54.823514+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:09:32.3203494+00:00"
 }

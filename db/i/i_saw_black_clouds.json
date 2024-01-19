@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 430,
+  "EOS_Progressed": 431,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.4,
+  "EOS_Completed_Percentage": 1.39,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:35.1686756+00:00",
@@ -1006,6 +1006,11 @@
       "Time": "2024-01-19T18:05:13.6877487+00:00",
       "NumProgressed": 430,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-19T20:05:27.1890376+00:00",
+      "NumProgressed": 431,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 15,
@@ -1081,7 +1086,7 @@
       "Name": "Jack",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "nonconsensual",
@@ -1097,7 +1102,7 @@
       "Name": "Origin",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "realist",
@@ -1129,14 +1134,14 @@
       "Name": "Wrong",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     }
   ],
   "AchievementSets": [
     {
       "ID": "8b5dfcp",
       "IsBase": true,
-      "Progressed": 430,
+      "Progressed": 431,
       "Completed": 6
     }
   ],
@@ -1144,8 +1149,8 @@
   "FirstSeenRating": "2023-03-31T05:57:25.6585069+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.1686763+00:00",
   "LastChanged": "2023-03-31T05:57:25.658507+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:17.2797035+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:27.1890374+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:21.4981512+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:51.7410179+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:17.2797165+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:56.7003673+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:27.1890547+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "alekon-b2faec",
   "Ranking_EOS_Progress": 677,
   "Ranking_EOS_Completed": 39,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
@@ -415,8 +415,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:13.1793768+00:00",
   "FirstSeenAchievements": "2023-05-06T12:01:39.7571986+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:04:12.5142984+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:04:18.3816429+00:00",
   "LastUpdate_AppInfo": "2024-01-14T10:57:01.9359413+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:59:33.2438348+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:04:12.514321+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:59:50.0960257+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:04:18.3816738+00:00"
 }

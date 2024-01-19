@@ -6,15 +6,15 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,137 |
+| On My Own Two Feet | 94.00% | ~5,138 |
 | I'll Be Back | 84.00% | ~4,591 |
-| Sorry, I Dropped This | 76.00% | ~4,153 |
-| First Day on the Job | 75.00% | ~4,099 |
-| Butcher's Bill | 54.00% | ~2,951 |
-| P.A.X | 36.00% | ~1,967 |
-| Hey Listen | 36.00% | ~1,967 |
+| Sorry, I Dropped This | 76.00% | ~4,154 |
+| First Day on the Job | 75.00% | ~4,100 |
+| Butcher's Bill | 54.00% | ~2,952 |
+| P.A.X | 36.00% | ~1,968 |
+| Hey Listen | 36.00% | ~1,968 |
 | OPERATOR | 35.00% | ~1,913 |
-| It's Blue Light | 33.00% | ~1,803 |
+| It's Blue Light | 33.00% | ~1,804 |
 | Most Wanted | 26.00% | ~1,421 |
 | Infidel | 23.00% | ~1,257 |
 | Firebug | 20.00% | ~1,093 |
@@ -30,7 +30,7 @@ Number of Ratings: 62  (23.09.2022)
 | CREO Killed the Video Star | 11.00% | ~601 |
 | Who's in Charge Here? | 11.00% | ~601 |
 | Shall Not Pass | 11.00% | ~601 |
-| Right Tool for the Job | 10.00% | ~546 |
+| Right Tool for the Job | 10.00% | ~547 |
 | Melting Down | 9.00% | ~492 |
 | Raging Drones | 9.00% | ~492 |
 | Overconfident | 9.00% | ~492 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,465 (Ranked 206)  
+Progressed: 5,466 (Ranked 206)  
 Completed: 18 (0.33%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 18 (0.33%) (Ranked 257)
 | 2024-01-16 | 5,439 | 18 |
 | 2024-01-17 | 5,445 | 18 |
 | 2024-01-18 | 5,459 | 18 |
-| 2024-01-19 | 5,465 | 18 |
+| 2024-01-19 | 5,466 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 527)  
 Sum: 30 (Ranked 549)  

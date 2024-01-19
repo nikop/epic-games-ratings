@@ -5,24 +5,24 @@ Rating: 4.58 (Ranked 474)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~186 |
+| Beginner | 89.00% | ~185 |
 | Map reader | 65.00% | ~135 |
-| Adventurer | 64.00% | ~132 |
-| Philanthropist | 61.00% | ~126 |
-| The brave little tailor | 42.00% | ~87 |
+| Adventurer | 64.00% | ~133 |
+| Philanthropist | 61.00% | ~127 |
 | Archer | 42.00% | ~87 |
+| The brave little tailor | 41.00% | ~85 |
 | Field hand | 39.00% | ~81 |
-| Well-to-do | 34.00% | ~70 |
+| Well-to-do | 34.00% | ~71 |
 | Samaritan | 30.00% | ~62 |
 | Ladies' man | 30.00% | ~62 |
 | The merciful one | 29.00% | ~60 |
 | Ferocious wild boars | 25.00% | ~52 |
 | Idiot | 25.00% | ~52 |
 | Beast slayer | 22.00% | ~46 |
-| Death of a legend | 21.00% | ~43 |
-| Ogre friend | 21.00% | ~43 |
-| Archaeologist | 20.00% | ~41 |
-| Family man | 19.00% | ~39 |
+| Death of a legend | 21.00% | ~44 |
+| Ogre friend | 21.00% | ~44 |
+| Archaeologist | 20.00% | ~42 |
+| Family man | 19.00% | ~40 |
 | Little hero | 18.00% | ~37 |
 | The fourth triplet | 18.00% | ~37 |
 | Sidelined | 18.00% | ~37 |
@@ -33,15 +33,15 @@ Rating: 4.58 (Ranked 474)
 | Ghost hunter | 15.00% | ~31 |
 | Master detective | 15.00% | ~31 |
 | Defender | 14.00% | ~29 |
-| Peacekeeper | 14.00% | ~29 |
 | Showdown | 13.00% | ~27 |
+| Peacekeeper | 13.00% | ~27 |
 | Workaholic | 12.00% | ~25 |
 | Titan Lord | 11.00% | ~23 |
 | Freedom fighter | 9.00% | ~19 |
 | Safecracker | 9.00% | ~19 |
 | Master thief | 9.00% | ~19 |
 | Expert | 8.00% | ~17 |
-| King of the handymen | 7.00% | ~14 |
+| King of the handymen | 7.00% | ~15 |
 | The traveler | 6.00% | ~12 |
 | Terror of the hens | 6.00% | ~12 |
 | Moneybags | 5.00% | ~10 |
@@ -56,7 +56,7 @@ Rating: 4.58 (Ranked 474)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 207 (Ranked 434)  
+Progressed: 208 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-13 | 200 | 0 |
 | 2024-01-14 | 203 | 0 |
 | 2024-01-17 | 204 | 0 |
-| 2024-01-19 | 207 | 0 |
+| 2024-01-19 | 208 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

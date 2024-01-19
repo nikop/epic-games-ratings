@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 62,
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2018-10-05T15:00:00+00:00",
@@ -13482,18 +13482,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 19647,
       "NumberOfAwardsMax": 7332
+    },
+    {
+      "Time": "2024-01-19T19:59:08.3281094+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 19670,
+      "NumberOfAwardsMax": 7348
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 19647,
-  "NumberOfAwardsMax": 7332,
+  "NumberOfAwards": 19670,
+  "NumberOfAwardsMax": 7348,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7332
+      "Count": 7348
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -13529,7 +13535,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 770
+      "Count": 772
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -13547,7 +13553,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 767
+      "Count": 772
     },
     {
       "Text": "This game is Extremely Fun",
@@ -13585,8 +13591,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:24.693286+00:00",
-  "LastChanged": "2024-01-19T17:58:54.1114478+00:00",
+  "LastChanged": "2024-01-19T19:59:08.3281092+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:55.9905499+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:58:57.2237007+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:03:31.8952728+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:59:08.3281099+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:03:33.593789+00:00"
 }

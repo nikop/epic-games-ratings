@@ -5,9 +5,9 @@ Rating: 4.17 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,552 |
+| Break Out | 65.00% | ~1,553 |
 | Trinity | 35.00% | ~836 |
-| The Collector | 28.00% | ~669 |
+| The Collector | 29.00% | ~693 |
 | Find Allies | 27.00% | ~645 |
 | A Taste of Wrath | 27.00% | ~645 |
 | Adventurer | 26.00% | ~621 |
@@ -18,13 +18,13 @@ Rating: 4.17 (Ranked 991)
 | Fashion Victim | 24.00% | ~573 |
 | Tributes of Caladrias | 23.00% | ~549 |
 | Stone Collection | 23.00% | ~549 |
-| Powerful Allies | 22.00% | ~525 |
+| Powerful Allies | 22.00% | ~526 |
 | Big Bazar | 16.00% | ~382 |
+| Essence Blow | 15.00% | ~358 |
 | Alchemist | 15.00% | ~358 |
-| Essence Blow | 14.00% | ~334 |
 | The Mentor | 12.00% | ~287 |
 | Calm before the Storm | 11.00% | ~263 |
-| To Battle | 9.00% | ~215 |
+| To Battle | 10.00% | ~239 |
 | Godslayer | 9.00% | ~215 |
 | Airborne | 9.00% | ~215 |
 | Miner | 9.00% | ~215 |
@@ -39,10 +39,10 @@ Rating: 4.17 (Ranked 991)
 | Shardbearer | 2.00% | ~48 |
 | All There Is | 2.00% | ~48 |
 | Summiter | 2.00% | ~48 |
-| All That Gold | 0.90% | ~21 |
+| All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,388 (Ranked 246)  
+Progressed: 2,389 (Ranked 246)  
 Completed: 5 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-16 | 2,358 | 4 |
 | 2024-01-17 | 2,374 | 5 |
 | 2024-01-18 | 2,380 | 5 |
-| 2024-01-19 | 2,388 | 5 |
+| 2024-01-19 | 2,389 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

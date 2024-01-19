@@ -18654,18 +18654,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 505907,
       "NumberOfAwardsMax": 142143
+    },
+    {
+      "Time": "2024-01-19T20:03:05.0833544+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 506379,
+      "NumberOfAwardsMax": 142615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 505907,
-  "NumberOfAwardsMax": 142143,
+  "NumberOfAwards": 506379,
+  "NumberOfAwardsMax": 142615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 142143
+      "Count": 142615
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -18734,9 +18740,9 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1055103,
+  "EOS_Progressed": 1055135,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6989,
+  "EOS_NewPlayers": 6957,
   "EOS_NewCompleters": 52,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50164,6 +50170,11 @@
       "Time": "2024-01-19T19:08:58.9245078+00:00",
       "NumProgressed": 1055103,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-19T20:08:59.5997534+00:00",
+      "NumProgressed": 1055135,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50200,7 +50211,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "Denied",
@@ -50208,7 +50219,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "FollowingTheRiver",
@@ -50400,7 +50411,7 @@
       "Name": "The Hermit",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "TheHightPriestess",
@@ -50408,7 +50419,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "TheLovers",
@@ -50440,7 +50451,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "TheWorld",
@@ -50472,7 +50483,7 @@
       "Name": "True Soldier",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4220
+      "UsersEstimate": 4221
     },
     {
       "ID": "TrueWarrior",
@@ -50576,7 +50587,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "Kingofcups",
@@ -50711,21 +50722,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055103,
+      "Progressed": 1055135,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183726,
+      "Progressed": 183758,
       "Completed": 10662
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-19T18:03:06.2151883+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:08:58.9245071+00:00",
+  "LastChanged": "2024-01-19T20:03:05.0833542+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:08:59.5997533+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:03:07.0273296+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:08:58.9247363+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:03:05.0833551+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:08:59.599912+00:00"
 }

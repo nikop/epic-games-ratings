@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16559,
+  "EOS_Progressed": 16561,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -18584,6 +18584,11 @@
       "Time": "2024-01-19T19:10:01.6697794+00:00",
       "NumProgressed": 16559,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2024-01-19T20:10:05.7824193+00:00",
+      "NumProgressed": 16561,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 34,
@@ -18699,7 +18704,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7120
+      "UsersEstimate": 7121
     },
     {
       "ID": "ACH15",
@@ -18755,7 +18760,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7783
+      "UsersEstimate": 7784
     },
     {
       "ID": "ACH22",
@@ -18763,7 +18768,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "ACH23",
@@ -18779,7 +18784,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH25",
@@ -18787,7 +18792,7 @@
       "Name": "Chauffeur",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH26",
@@ -18795,7 +18800,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2649
+      "UsersEstimate": 2650
     },
     {
       "ID": "ACH27",
@@ -18817,9 +18822,9 @@
       "ID": "ACH29",
       "SetID": "9llo822",
       "Name": "Take the Cannoli",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 497
+      "UsersEstimate": 331
     },
     {
       "ID": "ACH30",
@@ -18866,7 +18871,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16559,
+      "Progressed": 16561,
       "Completed": 106
     }
   ],
@@ -18874,8 +18879,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:01.6697789+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:05.7824191+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:59:04.2824674+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:01.6698773+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:59:16.4609899+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:05.782527+00:00"
 }

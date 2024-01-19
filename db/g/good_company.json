@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 205,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -194,9 +194,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5855,
+  "EOS_Progressed": 5857,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -5489,6 +5489,11 @@
       "Time": "2024-01-19T18:05:28.6584053+00:00",
       "NumProgressed": 5855,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T20:05:43.6165608+00:00",
+      "NumProgressed": 5857,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 76,
@@ -5556,7 +5561,7 @@
       "Name": "Level: Charlie\u0027s Circuits",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1289
     },
     {
       "ID": "ach_campaign_progress10",
@@ -5612,7 +5617,7 @@
       "Name": "Level: Returning Home",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2870
     },
     {
       "ID": "ach_campaign_progress6",
@@ -5652,7 +5657,7 @@
       "Name": "Returning Home: Quick Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "ach_campaign_special10",
@@ -5884,7 +5889,7 @@
       "Name": "Peddler",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ach_frp_many_products2",
@@ -6107,15 +6112,15 @@
     {
       "ID": "8cb3id7",
       "IsBase": true,
-      "Progressed": 5855,
+      "Progressed": 5857,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:27:54.0503204+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:55.1219233+00:00",
   "LastChanged": "2023-12-29T23:58:32.3539857+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:32.3490962+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:43.6165606+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.4885671+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:20.9455662+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:32.3491706+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:23.5994033+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:43.6166352+00:00"
 }

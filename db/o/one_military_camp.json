@@ -1519,9 +1519,9 @@
       "ID": "ACHIEVEMENT_ID_27",
       "SetID": "c504de6",
       "Name": "The 4 Pillars",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_ID_28",
@@ -1718,8 +1718,8 @@
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:03:52.2589633+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:03:56.3219492+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.4606605+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:59:03.7814766+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:03:52.2589952+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:59:15.8941265+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:03:56.3219833+00:00"
 }

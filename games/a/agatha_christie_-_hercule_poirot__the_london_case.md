@@ -44,10 +44,10 @@
 | Well-travelled | 20.00% | ~24 |
 | Florence Farquhar | 19.00% | ~22 |
 | The Investigation Starts Anew | 19.00% | ~22 |
-| A treasured heirloom | 16.00% | ~19 |
-| The Penitent Magdalene | 16.00% | ~19 |
-| A true performance | 16.00% | ~19 |
-| The Denouement | 14.00% | ~17 |
+| A treasured heirloom | 17.00% | ~20 |
+| The Penitent Magdalene | 17.00% | ~20 |
+| A true performance | 17.00% | ~20 |
+| The Denouement | 15.00% | ~18 |
 | A perilous journey | 14.00% | ~17 |
 | Perkins | 8.00% | ~9 |
 ## Popularity (Based on EOS Achievements)

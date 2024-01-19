@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70698,
+  "EOS_Progressed": 70700,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 244,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20853,6 +20853,11 @@
       "Time": "2024-01-19T19:05:17.7014964+00:00",
       "NumProgressed": 70698,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-19T20:05:27.590704+00:00",
+      "NumProgressed": 70700,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -20928,7 +20933,7 @@
       "Name": "Let there be light",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_MATCHES",
@@ -20944,7 +20949,7 @@
       "Name": "Silent Advisor",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_PAULMISSION",
@@ -21023,7 +21028,7 @@
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70698,
+      "Progressed": 70700,
       "Completed": 18
     }
   ],
@@ -21031,8 +21036,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:17.7014959+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:27.5907038+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:29.1840104+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:58:40.8298223+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:17.7015884+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:58:49.8724278+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:27.5908362+00:00"
 }

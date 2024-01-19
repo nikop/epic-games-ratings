@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 262,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -4173,9 +4173,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 295
+      "UsersEstimate": 309
     },
     {
       "ID": "ClovemaryGift",
@@ -4558,8 +4558,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:17.1508584+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:22.6864102+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:39.4981494+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:17.150924+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:45.0758473+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:22.6864658+00:00"
 }

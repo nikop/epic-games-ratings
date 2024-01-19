@@ -6,20 +6,20 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,825 |
-| Worker Specialization | 76.00% | ~5,749 |
-| First Contact | 72.00% | ~5,447 |
-| Win a Battle | 65.00% | ~4,917 |
-| Anomaly Researcher | 60.00% | ~4,539 |
-| Unleash My Power | 60.00% | ~4,539 |
+| Colonize a Planet | 77.00% | ~5,826 |
+| Worker Specialization | 76.00% | ~5,750 |
+| First Contact | 72.00% | ~5,448 |
+| Win a Battle | 65.00% | ~4,918 |
+| Anomaly Researcher | 60.00% | ~4,540 |
+| Unleash My Power | 60.00% | ~4,540 |
 | Own 30 Planets | 32.00% | ~2,421 |
 | Xenocide | 31.00% | ~2,345 |
 | Design a Civilization | 31.00% | ~2,345 |
 | Commodity Trader | 29.00% | ~2,194 |
 | Design a Ship | 27.00% | ~2,043 |
 | Commodity Seller | 24.00% | ~1,816 |
-| Prestige Victory! | 13.00% | ~983 |
-| Galactic War | 10.00% | ~756 |
+| Prestige Victory! | 13.00% | ~984 |
+| Galactic War | 10.00% | ~757 |
 | Trading Partner | 8.00% | ~605 |
 | Fleet Victory | 8.00% | ~605 |
 | Gain an Ally | 6.00% | ~454 |
@@ -39,8 +39,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
+| Recruit a Leader | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
-| Recruit a Leader | 0.70% | ~53 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as the Krynn | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
@@ -53,10 +53,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iconians | 0.50% | ~38 |
 | Hyperspace! | 0.40% | ~30 |
 | Veteran Crew | 0.30% | ~23 |
+| Commodity Seller, Level 2 | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
 | Recruit a Dozen Leaders | 0.20% | ~15 |
-| Commodity Seller, Level 2 | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
 | Commodity Guru | 0.10% | ~8 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Rebuild the Retribution | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,565 (Ranked 199)  
+Progressed: 7,566 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,11 +352,11 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 7,557 | 0 |
 | 2024-01-17 | 7,558 | 0 |
 | 2024-01-18 | 7,562 | 0 |
-| 2024-01-19 | 7,565 | 0 |
+| 2024-01-19 | 7,566 | 0 |
 ## Awards
-Max (Diverse Characters): 99  (Ranked 384)  
+Max (Diverse Characters): 99  (Ranked 385)  
 Sum: 702 (Ranked 313)  
-Diff (max vs sum): 71  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 99 |

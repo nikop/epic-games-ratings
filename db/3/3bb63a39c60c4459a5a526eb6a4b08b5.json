@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 292,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1158,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4529,6 +4529,11 @@
       "Time": "2024-01-19T19:10:13.0836753+00:00",
       "NumProgressed": 1158,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T20:10:18.1750711+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4556,15 +4561,15 @@
       "Name": "Basic Controls",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "BigPlane",
       "SetID": "1e89b4i",
       "Name": "Expensive Plane",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 313
+      "UsersEstimate": 301
     },
     {
       "ID": "BudgetFlight",
@@ -4572,7 +4577,7 @@
       "Name": "Budget Flight",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Calculated",
@@ -4580,7 +4585,7 @@
       "Name": "Calculated",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Close",
@@ -4692,7 +4697,7 @@
       "Name": "Legendary transporter",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "LinearNetwork",
@@ -4740,7 +4745,7 @@
       "Name": "New Record",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "NoTimeForModernization",
@@ -4764,7 +4769,7 @@
       "Name": "This Wasn\u0027t Part of the Plan...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "Ownway",
@@ -4788,7 +4793,7 @@
       "Name": "Race Against Time",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Reaction",
@@ -4812,7 +4817,7 @@
       "Name": "Resource Economy",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Restructuring",
@@ -4875,14 +4880,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:10:13.0836747+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:10:18.1750708+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.7241323+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:58.1206315+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:10:13.0837252+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:58:04.1453154+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:10:18.1751171+00:00"
 }

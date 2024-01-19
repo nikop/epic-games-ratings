@@ -12,7 +12,7 @@ Rating: 4.60 (Ranked 425)
 | Space Society | 20.00% | ~845 |
 | A Thousand Strong | 20.00% | ~845 |
 | Ready for a New World | 20.00% | ~845 |
-| Permanent Redesigns | 17.00% | ~718 |
+| Permanent Redesigns | 18.00% | ~760 |
 | Fully Recycled | 16.00% | ~676 |
 | The Ship of Theseus | 16.00% | ~676 |
 | Guy de Borderlands | 15.00% | ~634 |

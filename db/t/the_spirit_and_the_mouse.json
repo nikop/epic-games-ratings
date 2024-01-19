@@ -4,7 +4,7 @@
   "ProductSlug": "the-spirit-and-the-mouse-42390b",
   "Ranking_EOS_Progress": 521,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewPlayers": 495,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-26T13:00:00+00:00",
@@ -159,9 +159,9 @@
       "ID": "energy800",
       "SetID": "bbgli2k",
       "Name": "Energy Expert",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "gadx",
@@ -255,9 +255,9 @@
       "ID": "lightbulbs50",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Expert",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "neighenergy.east",
@@ -327,9 +327,9 @@
       "ID": "quest004",
       "SetID": "bbgli2k",
       "Name": "The Painter and the Lights",
-      "Percentage": 15,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "quest005",
@@ -448,8 +448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:07.1584726+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:16.4796632+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.3747867+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:59:30.4255104+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:07.1584991+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:59:46.9002956+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:05:16.4796902+00:00"
 }

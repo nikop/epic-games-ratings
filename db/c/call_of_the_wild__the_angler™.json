@@ -1033,9 +1033,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8370,
+  "EOS_Progressed": 8371,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 81,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14248,6 +14248,11 @@
       "Time": "2024-01-19T19:08:45.1328397+00:00",
       "NumProgressed": 8370,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T20:08:44.3847329+00:00",
+      "NumProgressed": 8371,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14283,7 +14288,7 @@
       "Name": "Ready to Rod and Roll",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "ACHIEVEMENT_005",
@@ -14379,7 +14384,7 @@
       "Name": "School\u0027s Out for Summer",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "ACHIEVEMENT_017",
@@ -14578,13 +14583,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8370,
+      "Progressed": 8371,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7742,
+      "Progressed": 7743,
       "Completed": 113
     }
   ],
@@ -14592,8 +14597,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-17T10:59:19.7573316+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:08:45.1328393+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:08:44.3847326+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:04.7074761+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:08:45.1329496+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:05.5089501+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:08:44.3848013+00:00"
 }

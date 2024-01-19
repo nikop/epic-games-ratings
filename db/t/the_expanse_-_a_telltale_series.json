@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19160,
+  "EOS_Progressed": 19161,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17804,6 +17804,11 @@
       "Time": "2024-01-19T19:03:49.0294247+00:00",
       "NumProgressed": 19160,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-19T20:03:52.8767552+00:00",
+      "NumProgressed": 19161,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17832,7 +17837,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "12",
@@ -17848,7 +17853,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3640
+      "UsersEstimate": 3641
     },
     {
       "ID": "14",
@@ -17896,7 +17901,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "2",
@@ -17968,7 +17973,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "28",
@@ -18048,7 +18053,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2682
+      "UsersEstimate": 2683
     },
     {
       "ID": "31",
@@ -18064,7 +18069,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "33",
@@ -18088,20 +18093,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19160,
+      "Progressed": 19161,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5114,
+      "Progressed": 5115,
       "Completed": 1354
     }
   ],
@@ -18109,8 +18114,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:03:49.0294243+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:03:52.876755+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:57:09.8960031+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:03:49.0295326+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:57:11.3333478+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:03:52.8768595+00:00"
 }

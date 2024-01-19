@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 220,
   "Ranking_EOS_Progress": 36,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 112,
   "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-12-29T16:00:00+00:00",
@@ -3042,9 +3042,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544785,
+  "EOS_Progressed": 544786,
   "EOS_Completed": 1692,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -33527,6 +33527,11 @@
       "Time": "2024-01-19T19:05:23.0788433+00:00",
       "NumProgressed": 544785,
       "NumCompleted": 1692
+    },
+    {
+      "Time": "2024-01-19T20:05:33.5174518+00:00",
+      "NumProgressed": 544786,
+      "NumCompleted": 1692
     }
   ],
   "TotalAchievements": 37,
@@ -33554,7 +33559,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 168883
+      "UsersEstimate": 168884
     },
     {
       "ID": "DEVOTED",
@@ -33794,7 +33799,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 348662
+      "UsersEstimate": 348663
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -33810,7 +33815,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 92613
+      "UsersEstimate": 92614
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -33833,15 +33838,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544785,
+      "Progressed": 544786,
       "Completed": 1692
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-17T19:00:06.7804227+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:05:23.0788429+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:05:33.5174515+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.9396789+00:00",
   "LastUpdate_Ratings": "2024-01-19T19:00:33.206276+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:05:23.0790204+00:00"
+  "LastUpdate_Achievements": "2024-01-19T20:05:33.517611+00:00"
 }

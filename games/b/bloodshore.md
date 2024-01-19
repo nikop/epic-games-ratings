@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Um, ok... | 52.00% | ~151 |
-| Super Seducer | 51.00% | ~148 |
-| Congratulations, you are a sadist | 47.00% | ~136 |
-| Superstar-crossed lovers | 41.00% | ~119 |
+| Um, ok... | 52.00% | ~152 |
+| Super Seducer | 51.00% | ~149 |
+| Congratulations, you are a sadist | 47.00% | ~137 |
+| Superstar-crossed lovers | 40.00% | ~117 |
 | A leader, you are not | 33.00% | ~96 |
 | Comedy Killer | 32.00% | ~93 |
 | Good job, nerd | 32.00% | ~93 |
-| Mission Complete | 31.00% | ~90 |
-| This won't end well... | 31.00% | ~90 |
-| Bromance | 30.00% | ~87 |
+| Mission Complete | 31.00% | ~91 |
+| This won't end well... | 31.00% | ~91 |
+| Bromance | 29.00% | ~85 |
 | Lootaphilia | 21.00% | ~61 |
 | Maybe you should give it another go | 10.00% | ~29 |
 | Mikey Lizard | 7.00% | ~20 |
-| I used to think I was indecisive... | 6.00% | ~17 |
+| I used to think I was indecisive... | 6.00% | ~18 |
 | That's my boy! | 4.00% | ~12 |
 | Deathlooper | 3.00% | ~9 |
 | We tried to warn you! | 3.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 290 (Ranked 411)  
-Completed: 6 (2.07%) (Ranked 136)  
+Progressed: 292 (Ranked 411)  
+Completed: 6 (2.05%) (Ranked 136)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 6 (2.07%) (Ranked 136)
 | 2024-01-14 | 285 | 6 |
 | 2024-01-16 | 288 | 6 |
 | 2024-01-18 | 289 | 6 |
-| 2024-01-19 | 290 | 6 |
+| 2024-01-19 | 292 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

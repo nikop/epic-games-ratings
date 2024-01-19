@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5293,10 +5293,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 8917,
       "NumberOfAwardsMax": 2975
+    },
+    {
+      "Time": "2024-01-19T20:02:47.3721574+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 8922,
+      "NumberOfAwardsMax": 2975
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8917,
+  "NumberOfAwards": 8922,
   "NumberOfAwardsMax": 2975,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5346,7 +5352,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 576
+      "Count": 581
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5373,9 +5379,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 24013,
+  "EOS_Progressed": 24014,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17118,6 +17124,11 @@
       "Time": "2024-01-19T19:08:54.5054508+00:00",
       "NumProgressed": 24013,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T20:08:54.339985+00:00",
+      "NumProgressed": 24014,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17130,7 +17141,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8164
+      "UsersEstimate": 8165
     },
     {
       "ID": "ach02",
@@ -17138,7 +17149,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "ach03",
@@ -17242,7 +17253,7 @@
       "Name": "Give A Koin",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "ach16",
@@ -17258,7 +17269,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 9845
+      "UsersEstimate": 9846
     },
     {
       "ID": "ach18",
@@ -17338,7 +17349,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6003
+      "UsersEstimate": 6004
     },
     {
       "ID": "ach28",
@@ -17378,7 +17389,7 @@
       "Name": "Who Da Boss??",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4562
+      "UsersEstimate": 4563
     },
     {
       "ID": "ach33",
@@ -17418,7 +17429,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11286
+      "UsersEstimate": 11287
     },
     {
       "ID": "ach38",
@@ -17426,7 +17437,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8164
+      "UsersEstimate": 8165
     },
     {
       "ID": "ach39",
@@ -17529,16 +17540,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24013,
+      "Progressed": 24014,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-19T19:02:51.2803391+00:00",
-  "LastChanged_Achievements": "2024-01-19T19:08:54.5054505+00:00",
+  "LastChanged": "2024-01-19T20:02:47.3721555+00:00",
+  "LastChanged_Achievements": "2024-01-19T20:08:54.3399847+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:02:51.2803397+00:00",
-  "LastUpdate_Achievements": "2024-01-19T19:08:54.5055385+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:02:47.3721579+00:00",
+  "LastUpdate_Achievements": "2024-01-19T20:08:54.3400577+00:00"
 }
