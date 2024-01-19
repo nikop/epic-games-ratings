@@ -48,7 +48,7 @@ Rating: 3.67 (Ranked 1,100)
 | Empty Nest Syndrome | 1.00% | ~24 |
 | Bloody Initiate | 1.00% | ~24 |
 | Good Samaritan | 1.00% | ~24 |
-| Sisterhood | 0.80% | ~19 |
+| Sisterhood | 0.90% | ~22 |
 | Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
 | Monster Hunters Club | 0.70% | ~17 |

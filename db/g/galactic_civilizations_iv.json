@@ -9879,9 +9879,9 @@
       "ID": "30_Citizens",
       "SetID": "4h07amh",
       "Name": "Ask Not What Your Empire Can Do For You",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "Buy_10_Resource",
@@ -9895,9 +9895,9 @@
       "ID": "Buy_30_Resource",
       "SetID": "4h07amh",
       "Name": "Commodity Guru",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "Buy_Resource",
@@ -10071,9 +10071,9 @@
       "ID": "Level_5_Ship",
       "SetID": "4h07amh",
       "Name": "Veteran Crew",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "Minor_Civ_Quest",
@@ -10455,8 +10455,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:10:23.3985273+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:26.4913127+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:57:18.9846996+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:10:23.398603+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:57:20.3104269+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:26.4913919+00:00"
 }

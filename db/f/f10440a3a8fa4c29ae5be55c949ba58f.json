@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9573,
+  "EOS_Progressed": 9576,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 1154,
   "EOS_NewCompleters": 1,
@@ -3429,6 +3429,11 @@
       "Time": "2024-01-19T04:09:42.3815697+00:00",
       "NumProgressed": 9573,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-19T05:09:45.2278348+00:00",
+      "NumProgressed": 9576,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3441,7 +3446,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4691
+      "UsersEstimate": 4692
     },
     {
       "ID": "Document1",
@@ -3465,7 +3470,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Document4",
@@ -3489,7 +3494,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "Untraceable2",
@@ -3497,21 +3502,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9573,
+      "Progressed": 9576,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:09:42.3815692+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:09:45.2278346+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:57:40.8615965+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:09:42.3815909+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:57:44.7333293+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:09:45.2278563+00:00"
 }

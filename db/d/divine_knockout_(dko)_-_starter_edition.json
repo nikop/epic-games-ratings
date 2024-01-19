@@ -3,11 +3,11 @@
   "Name": "Divine Knockout",
   "ProductSlug": "divine-knockout",
   "Ranking_Rating": 875,
-  "Ranking_Popularity": 415,
+  "Ranking_Popularity": 414,
   "Ranking_PopularitySum": 335,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-29T11:00:00+00:00",
@@ -1647,10 +1647,16 @@
       "Rating": 4.31,
       "NumberOfAwards": 531,
       "NumberOfAwardsMax": 73
+    },
+    {
+      "Time": "2024-01-19T05:03:20.8313251+00:00",
+      "Rating": 4.31,
+      "NumberOfAwards": 532,
+      "NumberOfAwardsMax": 73
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 531,
+  "NumberOfAwards": 532,
   "NumberOfAwardsMax": 73,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1712,7 +1718,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 49
+      "Count": 50
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1744,8 +1750,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:52.9902406+00:00",
-  "LastChanged": "2024-01-19T03:03:31.0901353+00:00",
+  "LastChanged": "2024-01-19T05:03:20.831325+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:14.402313+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:03:14.6731042+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:04:17.6624396+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:03:20.8313254+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:27.6404111+00:00"
 }

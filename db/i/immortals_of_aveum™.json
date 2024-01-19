@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 573,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -513,9 +513,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3515,
+  "EOS_Progressed": 3516,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5858,6 +5858,11 @@
       "Time": "2024-01-19T04:10:19.1899824+00:00",
       "NumProgressed": 3515,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T05:10:22.2593345+00:00",
+      "NumProgressed": 3516,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5870,7 +5875,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3128
+      "UsersEstimate": 3129
     },
     {
       "ID": "achievement_10",
@@ -5878,7 +5883,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "achievement_11",
@@ -5918,7 +5923,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "achievement_16",
@@ -5926,7 +5931,7 @@
       "Name": "Recruit",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 562
+      "UsersEstimate": 563
     },
     {
       "ID": "achievement_17",
@@ -5958,7 +5963,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2882
+      "UsersEstimate": 2883
     },
     {
       "ID": "achievement_20",
@@ -6014,7 +6019,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2460
+      "UsersEstimate": 2461
     },
     {
       "ID": "achievement_36",
@@ -6046,7 +6051,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1898
+      "UsersEstimate": 1899
     },
     {
       "ID": "achievement_41",
@@ -6100,9 +6105,9 @@
       "ID": "achievement_48",
       "SetID": "18al4io",
       "Name": "Enlisted",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2636
+      "UsersEstimate": 2672
     },
     {
       "ID": "achievement_49",
@@ -6118,7 +6123,7 @@
       "Name": "Initiate",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1441
+      "UsersEstimate": 1442
     },
     {
       "ID": "achievement_50",
@@ -6245,7 +6250,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3515,
+      "Progressed": 3516,
       "Completed": 5
     }
   ],
@@ -6253,8 +6258,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T02:26:21.3827515+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:10:19.189982+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:22.2593343+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:59:21.5053633+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:10:19.1900302+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:59:27.1342651+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:22.2593817+00:00"
 }

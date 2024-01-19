@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4337,
+  "EOS_Progressed": 4339,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5434,6 +5434,11 @@
       "Time": "2024-01-19T04:04:43.7725256+00:00",
       "NumProgressed": 4337,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T05:04:54.0075858+00:00",
+      "NumProgressed": 4339,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5510,7 +5515,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -5550,7 +5555,7 @@
       "Name": "Worthy Badge",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 955
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -5630,7 +5635,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1735
+      "UsersEstimate": 1736
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5646,7 +5651,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1995
+      "UsersEstimate": 1996
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5821,20 +5826,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4337,
+      "Progressed": 4339,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 115,
-      "Completed": 115
+      "Progressed": 117,
+      "Completed": 117
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:04:43.7725253+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:04:54.0075854+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.8664152+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:57:42.5338544+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:04:43.7725903+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:57:46.4660083+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:54.0076444+00:00"
 }

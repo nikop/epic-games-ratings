@@ -2,7 +2,7 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "ProductSlug": "tannenberg",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 789,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 181,
   "Ranking_EOS_Progress": 88,
@@ -3781,7 +3781,7 @@
   ],
   "EOS_Progressed": 145828,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 822,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -35212,8 +35212,8 @@
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2024-01-12T22:02:29.1609085+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:09:04.1159341+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:09:06.1855094+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:22.1319867+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:00:02.5151013+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:09:04.1160975+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:00:09.085402+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:09:06.1856886+00:00"
 }

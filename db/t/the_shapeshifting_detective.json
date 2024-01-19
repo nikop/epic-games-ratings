@@ -3,8 +3,8 @@
   "Name": "The Shapeshifting Detective",
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 389,
-  "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 337,
+  "Ranking_EOS_Completed": 191,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 338,
+  "EOS_Progressed": 339,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.89,
+  "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:57.7196507+00:00",
@@ -910,6 +910,11 @@
       "Time": "2024-01-18T14:06:06.4433402+00:00",
       "NumProgressed": 338,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T05:06:07.9710011+00:00",
+      "NumProgressed": 339,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -919,9 +924,9 @@
       "ID": "a_woman_scorned",
       "SetID": "2db2j74",
       "Name": "A Woman Scorned",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 92
     },
     {
       "ID": "book_em_danny",
@@ -977,7 +982,7 @@
       "Name": "Highlander",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -1033,7 +1038,7 @@
       "Name": "Put A Ring On It",
       "Percentage": 9,
       "XP": 35,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "show_me_some_skin",
@@ -1065,7 +1070,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "voyeur",
@@ -1088,7 +1093,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 338,
+      "Progressed": 339,
       "Completed": 3
     }
   ],
@@ -1096,8 +1101,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:05:55.8422818+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:06:07.9710008+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.8973889+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:03:18.8567765+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:05:55.8422971+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:03:25.0146191+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:06:07.9710168+00:00"
 }

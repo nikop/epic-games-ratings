@@ -331,7 +331,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18820,
+  "EOS_Progressed": 18821,
   "EOS_Completed": 336,
   "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 19,
@@ -10311,6 +10311,11 @@
       "Time": "2024-01-19T04:10:01.2361524+00:00",
       "NumProgressed": 18820,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2024-01-19T05:10:04.5963265+00:00",
+      "NumProgressed": 18821,
+      "NumCompleted": 336
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10331,7 +10336,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15244
+      "UsersEstimate": 15245
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10347,7 +10352,7 @@
       "Name": "Doesn\u0027t Matter I\u0027ll Handle It",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2258
+      "UsersEstimate": 2259
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -10363,7 +10368,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -10411,7 +10416,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -10419,7 +10424,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12421
+      "UsersEstimate": 12422
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10459,7 +10464,7 @@
       "Name": "Love Actually",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7904
+      "UsersEstimate": 7905
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -10579,7 +10584,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8845
+      "UsersEstimate": 8846
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -10595,7 +10600,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5834
+      "UsersEstimate": 5835
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -10611,7 +10616,7 @@
       "Name": "That\u0027s So You",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -10619,7 +10624,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6022
+      "UsersEstimate": 6023
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -10635,7 +10640,7 @@
       "Name": "Drama King",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6775
+      "UsersEstimate": 6776
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -10651,14 +10656,14 @@
       "Name": "SALUTE",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4140
+      "UsersEstimate": 4141
     }
   ],
   "AchievementSets": [
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18820,
+      "Progressed": 18821,
       "Completed": 336
     }
   ],
@@ -10666,8 +10671,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-18T14:58:48.8284143+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:10:01.2361518+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:04.5963262+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:58:59.0481084+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:10:01.2362485+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:59:03.4287114+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:04.5963883+00:00"
 }

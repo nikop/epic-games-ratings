@@ -6,8 +6,8 @@
   "Ranking_Popularity": 588,
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 14,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -139,11 +139,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2867,
-  "EOS_Completed": 220,
-  "EOS_NewPlayers": 166,
-  "EOS_NewCompleters": 24,
-  "EOS_Completed_Percentage": 7.67,
+  "EOS_Progressed": 2868,
+  "EOS_Completed": 221,
+  "EOS_NewPlayers": 167,
+  "EOS_NewCompleters": 25,
+  "EOS_Completed_Percentage": 7.71,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7629,6 +7629,11 @@
       "Time": "2024-01-19T00:06:09.1420905+00:00",
       "NumProgressed": 2867,
       "NumCompleted": 220
+    },
+    {
+      "Time": "2024-01-19T05:04:51.5956375+00:00",
+      "NumProgressed": 2868,
+      "NumCompleted": 221
     }
   ],
   "TotalAchievements": 25,
@@ -7664,7 +7669,7 @@
       "Name": "Cable guy",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7672,7 +7677,7 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "META_HALF_LINK",
@@ -7680,7 +7685,7 @@
       "Name": "Half the way",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7688,7 +7693,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7696,7 +7701,7 @@
       "Name": "Free at last",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "META_RESULT_1-4",
@@ -7704,7 +7709,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7752,7 +7757,7 @@
       "Name": "True G3M4R",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 917
+      "UsersEstimate": 918
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7760,7 +7765,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 1290
+      "UsersEstimate": 1291
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7800,7 +7805,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "PROGRESS_N2",
@@ -7808,7 +7813,7 @@
       "Name": "The great escape",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "PROGRESS_N3",
@@ -7816,7 +7821,7 @@
       "Name": "A new dawn",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "PROGRESS_N4",
@@ -7839,16 +7844,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2867,
-      "Completed": 220
+      "Progressed": 2868,
+      "Completed": 221
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:04:41.3815165+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:04:51.5956372+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:57:36.8171381+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:04:41.3815711+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:57:40.2584858+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:51.5956875+00:00"
 }

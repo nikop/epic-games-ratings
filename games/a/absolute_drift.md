@@ -25,9 +25,9 @@ Number of Ratings: 216  (23.09.2022)
 | Bacon Donuts | 0.60% | ~9,387 |
 | Double Rainbow | 0.60% | ~9,387 |
 | Washing Machine | 0.40% | ~6,258 |
-| The Completionist | 0.10% | ~1,564 |
+| The Completionist | 0.10% | ~1,565 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,564,498 (Ranked 8)  
+Progressed: 1,564,503 (Ranked 8)  
 Completed: 770 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -301,7 +301,7 @@ Completed: 770 (0.05%) (Ranked 344)
 | 2024-01-16 | 1,564,114 | 769 |
 | 2024-01-17 | 1,564,294 | 769 |
 | 2024-01-18 | 1,564,473 | 769 |
-| 2024-01-19 | 1,564,498 | 770 |
+| 2024-01-19 | 1,564,503 | 770 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 995,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -3605,6 +3605,11 @@
       "Time": "2024-01-19T01:54:27.989844+00:00",
       "NumProgressed": 994,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T05:04:59.9593744+00:00",
+      "NumProgressed": 995,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3625,7 +3630,7 @@
       "Name": "Holey Moley",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "achievement_11",
@@ -3657,7 +3662,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "achievement_15",
@@ -3673,7 +3678,7 @@
       "Name": "Star Power",
       "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "achievement_17",
@@ -3695,9 +3700,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 179
+      "UsersEstimate": 169
     },
     {
       "ID": "achievement_3",
@@ -3745,7 +3750,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "achievement_9",
@@ -3760,13 +3765,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 995,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:04:49.4966723+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:04:59.959374+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.0492343+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:58:30.2400505+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:04:49.4967035+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:58:35.0516435+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:59.9594058+00:00"
 }

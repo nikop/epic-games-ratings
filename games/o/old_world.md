@@ -11,6 +11,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 5.00% | ~849 |
 | Intrepid | 4.00% | ~679 |
 | Friendly Family | 4.00% | ~679 |
+| Hanging Gardens | 4.00% | ~679 |
 | Able | 3.00% | ~510 |
 | Ambitious | 3.00% | ~510 |
 | Architect | 3.00% | ~510 |
@@ -25,7 +26,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pioneer | 3.00% | ~510 |
 | Strong | 3.00% | ~510 |
 | Developing Cities | 3.00% | ~510 |
-| Hanging Gardens | 3.00% | ~510 |
 | Oracle | 3.00% | ~510 |
 | Pyramids | 3.00% | ~510 |
 | Learn to Play 1 | 3.00% | ~510 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,985 (Ranked 169)  
+Progressed: 16,985 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,7 +642,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-19 | 16,985 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,937 (Ranked 223)  
+Sum: 1,938 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -652,7 +652,7 @@ Diff (max vs sum): 64
 | This game is Highly Recommended | 223 |
 | This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
-| This game has Amazing Characters | 203 |
+| This game has Amazing Characters | 204 |
 | This game has Amazing Storytelling | 199 |
 | This game has Quickly Understood Controls | 198 |
 | This game has Obsessive Gameplay | 155 |
@@ -856,3 +856,4 @@ Diff (max vs sum): 64
 | 2024-01-16 | 4.65 | - | 230 | 1,933 |
 | 2024-01-17 | 4.65 | - | 230 | 1,936 |
 | 2024-01-18 | 4.65 | - | 230 | 1,937 |
+| 2024-01-19 | 4.65 | - | 230 | 1,938 |

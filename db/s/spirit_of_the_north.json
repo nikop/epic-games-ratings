@@ -4,11 +4,11 @@
   "ProductSlug": "spirit-of-the-north-f58a66",
   "Ranking_Rating": 823,
   "Ranking_Popularity": 544,
-  "Ranking_PopularitySum": 466,
+  "Ranking_PopularitySum": 465,
   "Ranking_EOS_Progress": 112,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 59,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-04-19T12:00:00+00:00",
     "PcReleaseDate": "2021-05-07T00:00:00+00:00",
@@ -339,9 +339,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80400,
+  "EOS_Progressed": 80402,
   "EOS_Completed": 436,
-  "EOS_NewPlayers": 630,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.54,
   "EosHistory": [
@@ -30609,6 +30609,11 @@
       "Time": "2024-01-19T04:09:59.8276352+00:00",
       "NumProgressed": 80400,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2024-01-19T05:10:03.0415543+00:00",
+      "NumProgressed": 80402,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 24,
@@ -30636,7 +30641,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55476
+      "UsersEstimate": 55477
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30652,7 +30657,7 @@
       "Name": "BLOOMS OF LIGHT",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 20904
+      "UsersEstimate": 20905
     },
     {
       "ID": "ERADICATE",
@@ -30668,7 +30673,7 @@
       "Name": "FETCH",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 22512
+      "UsersEstimate": 22513
     },
     {
       "ID": "FOXIN_AROUND",
@@ -30676,7 +30681,7 @@
       "Name": "FOXIN\u0027 AROUND",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 23316
+      "UsersEstimate": 23317
     },
     {
       "ID": "FOX_OR_FLYING_SQUIRREL",
@@ -30700,7 +30705,7 @@
       "Name": "INFUSED WITH LIGHT",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 42612
+      "UsersEstimate": 42613
     },
     {
       "ID": "KINDRED_SPIRITS",
@@ -30811,7 +30816,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80400,
+      "Progressed": 80402,
       "Completed": 436
     }
   ],
@@ -30819,8 +30824,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:09:59.8276348+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:03.0415541+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:58:09.7729025+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:09:59.8277803+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:58:13.736967+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:03.0417162+00:00"
 }

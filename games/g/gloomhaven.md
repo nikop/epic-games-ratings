@@ -6,17 +6,17 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,109 |
-| Overkill | 33.00% | ~11,384 |
-| Vaccine Incoming | 31.00% | ~10,694 |
-| A normal day in Gloomhaven | 29.00% | ~10,004 |
-| Spread the plague | 26.00% | ~8,969 |
-| Get over here! | 24.00% | ~8,280 |
-| Just when I thought I was out... | 19.00% | ~6,555 |
-| Mine... All Mine... | 16.00% | ~5,520 |
-| Precious! | 15.00% | ~5,175 |
-| Grizzled veteran | 15.00% | ~5,175 |
-| Anatomy Lesson | 14.00% | ~4,830 |
+| I'm not dead yet | 38.00% | ~13,112 |
+| Overkill | 33.00% | ~11,386 |
+| Vaccine Incoming | 31.00% | ~10,696 |
+| A normal day in Gloomhaven | 29.00% | ~10,006 |
+| Spread the plague | 26.00% | ~8,971 |
+| Get over here! | 24.00% | ~8,281 |
+| Just when I thought I was out... | 19.00% | ~6,556 |
+| Mine... All Mine... | 16.00% | ~5,521 |
+| Precious! | 15.00% | ~5,176 |
+| Grizzled veteran | 15.00% | ~5,176 |
+| Anatomy Lesson | 14.00% | ~4,831 |
 | Who's the Boss? | 12.00% | ~4,140 |
 | You activated my trap card! | 12.00% | ~4,140 |
 | Obstacle race | 12.00% | ~4,140 |
@@ -51,24 +51,24 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~345 |
 | Spoiler police! | 1.00% | ~345 |
 | New Blood | 1.00% | ~345 |
-| The Pacifist | 0.50% | ~172 |
-| The evil that men do | 0.50% | ~172 |
-| Born Support | 0.50% | ~172 |
+| The Pacifist | 0.50% | ~173 |
+| The evil that men do | 0.50% | ~173 |
+| Born Support | 0.50% | ~173 |
 | MacReady Steady.. Go! | 0.40% | ~138 |
-| A tough job | 0.30% | ~103 |
-| The Jaws of victory! | 0.30% | ~103 |
-| Pull out the big guns | 0.30% | ~103 |
+| A tough job | 0.30% | ~104 |
+| The Jaws of victory! | 0.30% | ~104 |
+| Pull out the big guns | 0.30% | ~104 |
 | The Cartographer | 0.20% | ~69 |
 | Beware my power | 0.20% | ~69 |
 | Crimson Tornado | 0.20% | ~69 |
-| A cult following | 0.10% | ~34 |
-| Over your dead body | 0.10% | ~34 |
-| The Guildmaster | 0.10% | ~34 |
-| Lara Who? | 0.10% | ~34 |
-| Hard-travelling Heroes | 0.10% | ~34 |
-| Murder Death Kill | 0.10% | ~34 |
+| A cult following | 0.10% | ~35 |
+| Over your dead body | 0.10% | ~35 |
+| The Guildmaster | 0.10% | ~35 |
+| Lara Who? | 0.10% | ~35 |
+| Hard-travelling Heroes | 0.10% | ~35 |
+| Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,498 (Ranked 139)  
+Progressed: 34,504 (Ranked 139)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-16 | 34,076 | 1 |
 | 2024-01-17 | 34,284 | 1 |
 | 2024-01-18 | 34,462 | 1 |
-| 2024-01-19 | 34,498 | 1 |
+| 2024-01-19 | 34,504 | 1 |
 ## Awards
 Max (Character Customization): 3,621  (Ranked 96)  
 Sum: 8,492 (Ranked 110)  

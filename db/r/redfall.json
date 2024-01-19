@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 246,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -4894,9 +4894,9 @@
       "ID": "Achievement_037",
       "SetID": "6b34g18",
       "Name": "Sisterhood",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "Achievement_038",
@@ -5151,8 +5151,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-19T03:58:04.7867701+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:08:19.1591783+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:08:20.1899595+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:58:04.7867705+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:08:19.1592448+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:58:08.512053+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:08:20.1900377+00:00"
 }

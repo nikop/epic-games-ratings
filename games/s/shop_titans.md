@@ -6,8 +6,8 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 11.00% | ~16,708 |
-| Titan's First Steps | 11.00% | ~16,708 |
+| Sponsored by Argon | 11.00% | ~16,709 |
+| Titan's First Steps | 11.00% | ~16,709 |
 | Basic in Bulk | 10.00% | ~15,190 |
 | Tinkle of Coins | 10.00% | ~15,190 |
 | Disintermediation | 8.00% | ~12,152 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.70% | ~1,063 |
 | Unleashed Potential | 0.70% | ~1,063 |
 | JACKPOT!!! | 0.70% | ~1,063 |
-| Oligarch Monarch | 0.50% | ~759 |
-| Merchant Extraordinaire | 0.50% | ~759 |
+| Oligarch Monarch | 0.50% | ~760 |
+| Merchant Extraordinaire | 0.50% | ~760 |
 | To Hell and Back | 0.40% | ~608 |
 | Cash Only Please | 0.40% | ~608 |
 | Capitalist Camaraderie | 0.30% | ~456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,895 (Ranked 87)  
+Progressed: 151,902 (Ranked 87)  
 Completed: 359 (0.24%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -393,7 +393,7 @@ Completed: 359 (0.24%) (Ranked 275)
 | 2024-01-16 | 151,517 | 355 |
 | 2024-01-17 | 151,701 | 359 |
 | 2024-01-18 | 151,873 | 359 |
-| 2024-01-19 | 151,895 | 359 |
+| 2024-01-19 | 151,902 | 359 |
 ## Awards
 Max (Great for Beginners): 4,966  (Ranked 82)  
 Sum: 28,015 (Ranked 52)  

@@ -13758,9 +13758,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63088,
+  "EOS_Progressed": 63089,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 788,
+  "EOS_NewPlayers": 786,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -39893,6 +39893,11 @@
       "Time": "2024-01-19T03:09:02.0483957+00:00",
       "NumProgressed": 63088,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-19T05:08:47.6638806+00:00",
+      "NumProgressed": 63089,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -39984,7 +39989,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 37222
+      "UsersEstimate": 37223
     },
     {
       "ID": "CutTree",
@@ -40000,7 +40005,7 @@
       "Name": "I\u0027m stumped",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35329
+      "UsersEstimate": 35330
     },
     {
       "ID": "DeliveryGrapes",
@@ -40040,7 +40045,7 @@
       "Name": "Plant get enough",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 35329
+      "UsersEstimate": 35330
     },
     {
       "ID": "Harvested",
@@ -40056,7 +40061,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 44792
+      "UsersEstimate": 44793
     },
     {
       "ID": "HorseJumps",
@@ -40112,7 +40117,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 30913
+      "UsersEstimate": 30914
     },
     {
       "ID": "NumBeehives",
@@ -40192,7 +40197,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 36591
+      "UsersEstimate": 36592
     },
     {
       "ID": "Stones",
@@ -40208,7 +40213,7 @@
       "Name": "Field Trip",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25235
+      "UsersEstimate": 25236
     },
     {
       "ID": "TruckDriving",
@@ -40240,22 +40245,22 @@
       "Name": "That\u0027s a wrap",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 8201
+      "UsersEstimate": 8202
     }
   ],
   "AchievementSets": [
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63088,
+      "Progressed": 63089,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-18T16:59:59.0785882+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:08:46.0652291+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:08:47.6638803+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:33.2343402+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:59:04.4700389+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:08:46.065384+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:59:09.1007952+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:08:47.6640186+00:00"
 }

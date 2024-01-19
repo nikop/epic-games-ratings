@@ -4,7 +4,7 @@
   "ProductSlug": "soulstice",
   "Ranking_Rating": 965,
   "Ranking_Popularity": 404,
-  "Ranking_PopularitySum": 487,
+  "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 51,
@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 347170,
+  "EOS_Progressed": 347180,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2880,
+  "EOS_NewPlayers": 2869,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13919,6 +13919,11 @@
       "Time": "2024-01-19T04:09:19.7483944+00:00",
       "NumProgressed": 347170,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-19T05:09:22.3563349+00:00",
+      "NumProgressed": 347180,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -13931,7 +13936,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17358
+      "UsersEstimate": 17359
     },
     {
       "ID": "S02_BRDA",
@@ -14067,7 +14072,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17358
+      "UsersEstimate": 17359
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14243,14 +14248,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6943
+      "UsersEstimate": 6944
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 347170,
+      "Progressed": 347180,
       "Completed": 7
     }
   ],
@@ -14258,8 +14263,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:09:19.7483942+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:09:22.3563347+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:57:22.3033446+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:09:19.7484651+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:57:24.2710796+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:09:22.3564157+00:00"
 }

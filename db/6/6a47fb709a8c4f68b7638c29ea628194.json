@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2389,
+  "EOS_Progressed": 2390,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 412,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3284,6 +3284,11 @@
       "Time": "2024-01-19T04:09:37.9981277+00:00",
       "NumProgressed": 2389,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T05:09:40.8857988+00:00",
+      "NumProgressed": 2390,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -3376,7 +3381,7 @@
       "Name": "One formula race",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "FINISHED_RACE_MOTORBIKE_1",
@@ -3400,7 +3405,7 @@
       "Name": "Podium finisher",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 812
+      "UsersEstimate": 813
     },
     {
       "ID": "PODIUM_10",
@@ -3424,7 +3429,7 @@
       "Name": "On the starting grid",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2246
+      "UsersEstimate": 2247
     },
     {
       "ID": "RESEARCHED_2",
@@ -3575,14 +3580,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2389,
+      "Progressed": 2390,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:09:37.9981274+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:09:40.8857985+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:36.1155547+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:00:10.1191771+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:09:37.9981694+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:00:17.0513476+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:09:40.8858318+00:00"
 }

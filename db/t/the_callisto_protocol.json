@@ -2297,9 +2297,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 22547,
+  "EOS_Progressed": 22548,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 365,
+  "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14362,6 +14362,11 @@
       "Time": "2024-01-19T03:10:56.2901867+00:00",
       "NumProgressed": 22547,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-19T05:10:07.6920849+00:00",
+      "NumProgressed": 22548,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14501,7 +14506,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4960
+      "UsersEstimate": 4961
     },
     {
       "ID": "KILL_ROBOT",
@@ -14517,7 +14522,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14541,7 +14546,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4510
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14549,7 +14554,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5411
+      "UsersEstimate": 5412
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14573,7 +14578,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4058
+      "UsersEstimate": 4059
     },
     {
       "ID": "STORY_HABITAT",
@@ -14748,13 +14753,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22547,
+      "Progressed": 22548,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10473,
+      "Progressed": 10474,
       "Completed": 29
     }
   ],
@@ -14762,8 +14767,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-18T20:03:43.9425248+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:10:04.8376785+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:07.6920847+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:03:28.3167583+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:10:04.8377467+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:03:34.0157818+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:07.6921627+00:00"
 }

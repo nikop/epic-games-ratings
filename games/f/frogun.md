@@ -4,18 +4,18 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Historian | 94.00% | ~226 |
-| Treasure hunter | 90.00% | ~216 |
+| Historian | 93.00% | ~224 |
+| Treasure hunter | 90.00% | ~217 |
 | Survivalist | 84.00% | ~202 |
-| Challenge seeker | 80.00% | ~192 |
-| Coin collector | 74.00% | ~178 |
+| Challenge seeker | 80.00% | ~193 |
+| Coin collector | 73.00% | ~176 |
 | Floater | 59.00% | ~142 |
 | Speedrunner | 44.00% | ~106 |
-| On foot racer | 41.00% | ~98 |
+| On foot racer | 41.00% | ~99 |
 | Prickly situation handler | 34.00% | ~82 |
-| Hat lover | 33.00% | ~79 |
-| Perfectionist | 31.00% | ~74 |
-| Protected | 30.00% | ~72 |
+| Hat lover | 32.00% | ~77 |
+| Perfectionist | 31.00% | ~75 |
+| Protected | 29.00% | ~70 |
 | Pragmatic | 22.00% | ~53 |
 | Calory burner | 18.00% | ~43 |
 | Snow digger | 15.00% | ~36 |
@@ -23,21 +23,21 @@
 | Model | 14.00% | ~34 |
 | Fire extinguisher | 10.00% | ~24 |
 | Hubworld fan | 10.00% | ~24 |
-| Occult cataloger | 8.00% | ~19 |
+| Occult cataloger | 7.00% | ~17 |
 | Photographer | 5.00% | ~12 |
 | Great rescuer | 4.00% | ~10 |
 | Absolute race champion | 4.00% | ~10 |
 | Doppelganger | 4.00% | ~10 |
-| Biologist | 3.00% | ~7 |
 | Tank | 3.00% | ~7 |
 | Gladiator | 2.00% | ~5 |
+| Biologist | 2.00% | ~5 |
 | Fashionista | 2.00% | ~5 |
 | Duelist | 2.00% | ~5 |
 | Art lover | 1.00% | ~2 |
 | Completionist | 1.00% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 240 (Ranked 426)  
-Completed: 4 (1.67%) (Ranked 151)  
+Progressed: 241 (Ranked 425)  
+Completed: 4 (1.66%) (Ranked 151)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -83,6 +83,7 @@ Completed: 4 (1.67%) (Ranked 151)
 | 2024-01-06 | 238 | 4 |
 | 2024-01-12 | 239 | 4 |
 | 2024-01-17 | 240 | 4 |
+| 2024-01-19 | 241 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

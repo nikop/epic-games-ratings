@@ -2,12 +2,12 @@
   "ID": "8b2d6cf2b45b41f1abe91bc5b7c1e8f9",
   "Name": "UNCHARTED\u2122: Legacy of Thieves Collection",
   "ProductSlug": "uncharted-legacy-of-thieves-collection",
-  "Ranking_Rating": 151,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 172,
   "Ranking_PopularitySum": 256,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-19T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.75,
+  "Rating": 4.74,
   "RatingHistory": [
     {
       "Time": "2022-10-20T19:02:12.9087246+00:00",
@@ -1823,6 +1823,12 @@
       "Rating": 4.75,
       "NumberOfAwards": 1352,
       "NumberOfAwardsMax": 931
+    },
+    {
+      "Time": "2024-01-19T04:57:36.8627438+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1352,
+      "NumberOfAwardsMax": 931
     }
   ],
   "ReviewsDisabled": false,
@@ -1909,8 +1915,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-19T19:01:42.4603943+00:00",
   "FirstSeenRating": "2022-10-20T19:02:12.9087244+00:00",
-  "LastChanged": "2024-01-18T19:57:26.9244449+00:00",
+  "LastChanged": "2024-01-19T04:57:36.8627437+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.4387501+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:57:33.5679111+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:04:18.2467399+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:57:36.8627441+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:28.1814688+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "gamedec",
   "Ranking_Rating": 901,
   "Ranking_Popularity": 384,
-  "Ranking_PopularitySum": 474,
+  "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258213,
+  "EOS_Progressed": 258216,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31232,6 +31232,11 @@
       "Time": "2024-01-19T04:04:02.7129845+00:00",
       "NumProgressed": 258213,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T05:04:12.0391643+00:00",
+      "NumProgressed": 258216,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31339,7 +31344,7 @@
       "Name": "I have the high ground",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "ACH_HIGHNOON",
@@ -31387,7 +31392,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74882
+      "UsersEstimate": 74883
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -31459,7 +31464,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64553
+      "UsersEstimate": 64554
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31563,7 +31568,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64553
+      "UsersEstimate": 64554
     },
     {
       "ID": "ACH_SOREAD",
@@ -31658,7 +31663,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258213,
+      "Progressed": 258216,
       "Completed": 8
     }
   ],
@@ -31666,8 +31671,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:04:02.7129843+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:04:12.0391639+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:02:57.9737273+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:04:02.7131196+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:03:03.7563238+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:12.0393566+00:00"
 }

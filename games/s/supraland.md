@@ -6,14 +6,14 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~733,338 |
-| The Blues | 85.00% | ~629,633 |
+| Out of bed | 99.00% | ~733,339 |
+| The Blues | 85.00% | ~629,634 |
 | Fast | 66.00% | ~488,892 |
 | Healthbar | 55.00% | ~407,410 |
 | Force Cube | 53.00% | ~392,595 |
 | Double Jump | 48.00% | ~355,558 |
-| Regeneration | 47.00% | ~348,150 |
-| Triple Jump | 43.00% | ~318,520 |
+| Regeneration | 47.00% | ~348,151 |
+| Triple Jump | 43.00% | ~318,521 |
 | Climb the hill | 42.00% | ~311,113 |
 | Through the fire pipe | 39.00% | ~288,891 |
 | MacGuffin | 38.00% | ~281,483 |
@@ -22,10 +22,10 @@ Number of Ratings: 25,175  (23.09.2022)
 | True holy spirit | 28.00% | ~207,409 |
 | That's how electronics work obviously | 27.00% | ~200,001 |
 | Force Cube Catapult | 25.00% | ~185,186 |
-| Holy Sword | 23.00% | ~170,371 |
-| Telefrag | 23.00% | ~170,371 |
+| Holy Sword | 23.00% | ~170,372 |
+| Telefrag | 23.00% | ~170,372 |
 | Freed from prison | 22.00% | ~162,964 |
-| Stomp | 21.00% | ~155,556 |
+| Stomp | 21.00% | ~155,557 |
 | Double Health | 19.00% | ~140,742 |
 | Buckle | 18.00% | ~133,334 |
 | Green Keycard | 18.00% | ~133,334 |
@@ -37,20 +37,20 @@ Number of Ratings: 25,175  (23.09.2022)
 | Health Drink | 13.00% | ~96,297 |
 | Helped a star | 13.00% | ~96,297 |
 | Purple Cube | 13.00% | ~96,297 |
-| Strong | 12.00% | ~88,889 |
+| Strong | 12.00% | ~88,890 |
 | Blue King's lair | 11.00% | ~81,482 |
 | Payback | 11.00% | ~81,482 |
 | Got the coins back | 11.00% | ~81,482 |
 | Got the gun back | 11.00% | ~81,482 |
 | Infiltrated | 11.00% | ~81,482 |
 | Robbed | 11.00% | ~81,482 |
-| Fire Flies | 10.00% | ~74,074 |
-| Cave Flies | 10.00% | ~74,074 |
-| Gold Scam | 10.00% | ~74,074 |
-| Gold Scam Uncovered | 10.00% | ~74,074 |
-| Panic Lights | 10.00% | ~74,074 |
-| Translocator | 10.00% | ~74,074 |
-| Yellow Shot Button | 10.00% | ~74,074 |
+| Fire Flies | 10.00% | ~74,075 |
+| Cave Flies | 10.00% | ~74,075 |
+| Gold Scam | 10.00% | ~74,075 |
+| Gold Scam Uncovered | 10.00% | ~74,075 |
+| Panic Lights | 10.00% | ~74,075 |
+| Translocator | 10.00% | ~74,075 |
+| Yellow Shot Button | 10.00% | ~74,075 |
 | Moon Door | 9.00% | ~66,667 |
 | Momentum | 9.00% | ~66,667 |
 | Through the tiny pipe | 9.00% | ~66,667 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,745 (Ranked 27)  
+Progressed: 740,746 (Ranked 27)  
 Completed: 783 (0.11%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 783 (0.11%) (Ranked 312)
 | 2024-01-16 | 740,521 | 782 |
 | 2024-01-17 | 740,619 | 783 |
 | 2024-01-18 | 740,733 | 783 |
-| 2024-01-19 | 740,745 | 783 |
+| 2024-01-19 | 740,746 | 783 |
 ## Awards
 Max (Challenging Puzzles): 7,781  (Ranked 55)  
 Sum: 10,167 (Ranked 95)  

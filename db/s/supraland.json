@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 101,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
     "PcReleaseDate": "2018-03-09T19:16:06+00:00",
@@ -3499,10 +3499,10 @@
       "Count": 198
     }
   ],
-  "EOS_Progressed": 740745,
+  "EOS_Progressed": 740746,
   "EOS_Completed": 783,
   "EOS_NewPlayers": 840,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
     {
@@ -34469,6 +34469,11 @@
       "Time": "2024-01-19T03:11:28.571926+00:00",
       "NumProgressed": 740745,
       "NumCompleted": 783
+    },
+    {
+      "Time": "2024-01-19T05:10:31.5447815+00:00",
+      "NumProgressed": 740746,
+      "NumCompleted": 783
     }
   ],
   "TotalAchievements": 98,
@@ -34704,7 +34709,7 @@
       "Name": "Fire Flies",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74074
+      "UsersEstimate": 74075
     },
     {
       "ID": "Firepipe",
@@ -34720,7 +34725,7 @@
       "Name": "Cave Flies",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74074
+      "UsersEstimate": 74075
     },
     {
       "ID": "ForceCube",
@@ -34768,7 +34773,7 @@
       "Name": "Gold Scam",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74074
+      "UsersEstimate": 74075
     },
     {
       "ID": "GoldScam2",
@@ -34776,7 +34781,7 @@
       "Name": "Gold Scam Uncovered",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74074
+      "UsersEstimate": 74075
     },
     {
       "ID": "GottaJumpHigh",
@@ -34848,7 +34853,7 @@
       "Name": "Regeneration",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 348150
+      "UsersEstimate": 348151
     },
     {
       "ID": "HelpedAStar",
@@ -34872,7 +34877,7 @@
       "Name": "Holy Sword",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170371
+      "UsersEstimate": 170372
     },
     {
       "ID": "Horticultural",
@@ -34992,7 +34997,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 733338
+      "UsersEstimate": 733339
     },
     {
       "ID": "PanicLights",
@@ -35000,7 +35005,7 @@
       "Name": "Panic Lights",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74074
+      "UsersEstimate": 74075
     },
     {
       "ID": "Purple_Cube",
@@ -35104,7 +35109,7 @@
       "Name": "Stomp",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 155556
+      "UsersEstimate": 155557
     },
     {
       "ID": "Speedx2",
@@ -35120,7 +35125,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 88889
+      "UsersEstimate": 88890
     },
     {
       "ID": "SuperSword",
@@ -35144,7 +35149,7 @@
       "Name": "Telefrag",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 170371
+      "UsersEstimate": 170372
     },
     {
       "ID": "The_Blues",
@@ -35152,7 +35157,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 629633
+      "UsersEstimate": 629634
     },
     {
       "ID": "ThroughPipe",
@@ -35184,7 +35189,7 @@
       "Name": "Translocator",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 74074
+      "UsersEstimate": 74075
     },
     {
       "ID": "Triplejump",
@@ -35192,7 +35197,7 @@
       "Name": "Triple Jump",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 318520
+      "UsersEstimate": 318521
     },
     {
       "ID": "True_Holy_Spirit",
@@ -35240,7 +35245,7 @@
       "Name": "Yellow Shot Button",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 74074
+      "UsersEstimate": 74075
     },
     {
       "ID": "notholyenough",
@@ -35263,15 +35268,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 740745,
+      "Progressed": 740746,
       "Completed": 783
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-18T07:59:19.3701756+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:10:28.3811618+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:31.5447813+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:20.5842386+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:59:46.345483+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:10:28.3813451+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:59:52.4971359+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:31.5449674+00:00"
 }

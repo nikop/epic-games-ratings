@@ -4,7 +4,7 @@
   "ProductSlug": "argol-kronoss-castle-84d829",
   "Ranking_EOS_Progress": 646,
   "Ranking_EOS_Completed": 34,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-26T23:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "PHOBOS",
       "SetID": "d0gblle",
       "Name": "Evil soul",
-      "Percentage": 7,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PRISONER",
@@ -259,8 +259,8 @@
   ],
   "FirstSeen": "2023-12-29T14:58:56.0005709+00:00",
   "FirstSeenAchievements": "2023-12-19T21:04:20.7899526+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:05:20.3651953+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:05:31.1131615+00:00",
   "LastUpdate_AppInfo": "2024-01-16T23:56:55.5726001+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:57:51.2891424+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:05:20.36521+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:57:55.1213195+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:05:31.1131711+00:00"
 }

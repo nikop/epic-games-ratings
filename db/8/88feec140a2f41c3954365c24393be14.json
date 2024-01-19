@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114688,
+  "EOS_Progressed": 114689,
   "EOS_Completed": 5691,
-  "EOS_NewPlayers": 1263,
+  "EOS_NewPlayers": 1257,
   "EOS_NewCompleters": 111,
   "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
@@ -14843,6 +14843,11 @@
       "Time": "2024-01-19T04:08:50.3480176+00:00",
       "NumProgressed": 114688,
       "NumCompleted": 5691
+    },
+    {
+      "Time": "2024-01-19T05:08:52.0145857+00:00",
+      "NumProgressed": 114689,
+      "NumCompleted": 5691
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -14855,7 +14860,7 @@
       "Name": "Assemble a Crew!",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 72253
+      "UsersEstimate": 72254
     },
     {
       "ID": "GoldMedalCrewmates",
@@ -14887,7 +14892,7 @@
       "Name": "Pelagic Perils",
       "Percentage": 57,
       "XP": 75,
-      "UsersEstimate": 65372
+      "UsersEstimate": 65373
     },
     {
       "ID": "ShipDip",
@@ -14903,7 +14908,7 @@
       "Name": "The Art of Parley",
       "Percentage": 77,
       "XP": 75,
-      "UsersEstimate": 88310
+      "UsersEstimate": 88311
     },
     {
       "ID": "TheGoldenRatio",
@@ -14911,7 +14916,7 @@
       "Name": "The Golden Ratio",
       "Percentage": 13,
       "XP": 125,
-      "UsersEstimate": 14909
+      "UsersEstimate": 14910
     },
     {
       "ID": "TilesTrailsTreasure",
@@ -14935,7 +14940,7 @@
       "Name": "Weigh Anchor, Set Sail!",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 91750
+      "UsersEstimate": 91751
     },
     {
       "ID": "WelcomeAboard",
@@ -14950,7 +14955,7 @@
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 114688,
+      "Progressed": 114689,
       "Completed": 5691
     }
   ],
@@ -14958,8 +14963,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2024-01-12T23:58:14.6562948+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:08:50.3480173+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:08:52.0145854+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:12.4175443+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:57:45.852314+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:08:50.3480873+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:57:49.5425721+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:08:52.0146665+00:00"
 }

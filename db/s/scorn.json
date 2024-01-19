@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -221,9 +221,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3008,
+  "EOS_Progressed": 3009,
   "EOS_Completed": 206,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 6.85,
   "EosHistory": [
@@ -5326,6 +5326,11 @@
       "Time": "2024-01-19T03:09:04.5024958+00:00",
       "NumProgressed": 3008,
       "NumCompleted": 206
+    },
+    {
+      "Time": "2024-01-19T05:08:49.3007236+00:00",
+      "NumProgressed": 3009,
+      "NumCompleted": 206
     }
   ],
   "TotalAchievements": 12,
@@ -5345,7 +5350,7 @@
       "Name": "002",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "003",
@@ -5361,7 +5366,7 @@
       "Name": "004",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "005",
@@ -5369,7 +5374,7 @@
       "Name": "005",
       "Percentage": 17,
       "XP": 80,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "006",
@@ -5432,7 +5437,7 @@
     {
       "ID": "94k0mj8",
       "IsBase": true,
-      "Progressed": 3008,
+      "Progressed": 3009,
       "Completed": 206
     }
   ],
@@ -5440,8 +5445,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:08:47.7406562+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:08:49.3007231+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.1386964+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:58:26.3978324+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:08:47.7406852+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:58:30.722089+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:08:49.3007677+00:00"
 }

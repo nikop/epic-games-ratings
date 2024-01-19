@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 257,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 328,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
@@ -306,7 +306,7 @@
   "Tags": [],
   "EOS_Progressed": 1961,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -5057,9 +5057,9 @@
       "ID": "How",
       "SetID": "85nb4h3",
       "Name": "How?!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 18
+      "UsersEstimate": 20
     },
     {
       "ID": "Its_very_spicy",
@@ -5161,8 +5161,8 @@
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:10:07.9995736+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:11.0672813+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:21.1126482+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:59:48.2843446+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:10:07.9996108+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:59:54.591751+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:11.0673118+00:00"
 }

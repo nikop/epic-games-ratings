@@ -5,7 +5,7 @@
   "Ranking_Rating": 323,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
-  "Ranking_EOS_Progress": 169,
+  "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 126,
   "Ranking_EOS_NewCompleters": 153,
@@ -2248,10 +2248,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1937,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-19T05:03:01.2557251+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1938,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1937,
+  "NumberOfAwards": 1938,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2313,7 +2319,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 203
+      "Count": 204
     },
     {
       "Text": "This game has a Creative Community",
@@ -2330,7 +2336,7 @@
   ],
   "EOS_Progressed": 16985,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21840,9 +21846,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
       "SetID": "9201eeb",
       "Name": "Hanging Gardens",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 679
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -23349,9 +23355,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-18T04:02:53.7762322+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:10:31.4136755+00:00",
+  "LastChanged": "2024-01-19T05:03:01.2557251+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:34.2006442+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:02:56.14106+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:10:31.4147556+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:03:01.2557254+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:34.201653+00:00"
 }

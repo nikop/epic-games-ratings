@@ -50,15 +50,16 @@ Number of Ratings: 429  (23.09.2022)
 | Diplomatic Victory! | 0.60% | ~45 |
 | Recruit a Leader | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
+| Ask Not What Your Empire Can Do For You | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
-| Ask Not What Your Empire Can Do For You | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
 | Hyperspace! | 0.20% | ~15 |
+| Veteran Crew | 0.20% | ~15 |
 | Commodity Seller, Level 2 | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |
 | Commodity Trader - Level 2 | 0.10% | ~8 |
+| Commodity Guru | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
-| Veteran Crew | 0.10% | ~8 |
 | Play for 1000 Hours | 0.10% | ~8 |
 | Play for 100 Hours | 0.10% | ~8 |
 | Play for 5 Hours | 0.10% | ~8 |
@@ -67,7 +68,6 @@ Number of Ratings: 429  (23.09.2022)
 | Recruit a Dozen Leaders | 0.10% | ~8 |
 | Commodity Selling Guru | 0.10% | ~8 |
 | Win a Multiplayer Game | 0.10% | ~8 |
-| Commodity Guru | 0.00% | ~0 |
 | Yor Dead Iconians | 0.00% | ~0 |
 | Against the Tide | 0.00% | ~0 |
 | Breeding Season | 0.00% | ~0 |

@@ -4,7 +4,7 @@
   "ProductSlug": "the-hive-f5c2c8",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -902,9 +902,9 @@
       "ID": "A_SKIP_ADVISOR advisor (0-5)",
       "SetID": "324h56e",
       "Name": "Silencer",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "A_SUN",
@@ -973,8 +973,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:08:28.5627958+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:08:30.0730758+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:15.0895709+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:59:59.3154127+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:08:28.5628207+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:00:05.7272409+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:08:30.073103+00:00"
 }

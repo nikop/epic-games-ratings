@@ -4,38 +4,38 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mighty Powers | 81.00% | ~51 |
-| Grand Re-Opening | 70.00% | ~44 |
-| Pup Pup Boogie | 67.00% | ~42 |
-| Summer Day | 67.00% | ~42 |
-| Mr. Porter | 56.00% | ~35 |
+| Mighty Powers | 81.00% | ~52 |
+| Grand Re-Opening | 69.00% | ~44 |
+| Pup Pup Boogie | 66.00% | ~42 |
+| Summer Day | 66.00% | ~42 |
+| Mr. Porter | 55.00% | ~35 |
 | Risky Rescue | 52.00% | ~33 |
-| Carlos Is Tangled | 51.00% | ~32 |
-| Mandy Family | 46.00% | ~29 |
+| Carlos Is Tangled | 50.00% | ~32 |
+| Mandy Family | 45.00% | ~29 |
 | Clear the Road | 44.00% | ~28 |
 | Paw patrol member | 41.00% | ~26 |
 | Robot Out of Control | 41.00% | ~26 |
 | Never Miss | 38.00% | ~24 |
-| Break Time | 37.00% | ~23 |
-| In the Air | 37.00% | ~23 |
-| Master of the Rope | 35.00% | ~22 |
-| Training Day | 35.00% | ~22 |
-| Animal Sighting | 29.00% | ~18 |
+| Break Time | 36.00% | ~23 |
+| In the Air | 36.00% | ~23 |
+| Master of the Rope | 34.00% | ~22 |
+| Training Day | 34.00% | ~22 |
+| Animal Sighting | 28.00% | ~18 |
 | The Fastest | 25.00% | ~16 |
 | Adventure Bay’s Citizen | 25.00% | ~16 |
-| Don’t Miss Any | 24.00% | ~15 |
+| Don’t Miss Any | 23.00% | ~15 |
 | Mountain and Ice | 22.00% | ~14 |
-| You Have Been Everywhere | 21.00% | ~13 |
+| You Have Been Everywhere | 20.00% | ~13 |
 | Everything Under Control | 19.00% | ~12 |
 | Nothing Can Stop You | 11.00% | ~7 |
-| A Great Explorer | 10.00% | ~6 |
+| A Great Explorer | 9.00% | ~6 |
 | King of the Mountain | 6.00% | ~4 |
 | Air Ace | 2.00% | ~1 |
 | You Know Them All | 2.00% | ~1 |
 | The Collector | 2.00% | ~1 |
 | Pup Treat Master | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63 (Ranked 544)  
+Progressed: 64 (Ranked 544)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-09 | 61 | 0 |
 | 2024-01-10 | 62 | 0 |
 | 2024-01-13 | 63 | 0 |
+| 2024-01-19 | 64 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

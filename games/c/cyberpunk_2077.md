@@ -6,7 +6,7 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Right Back At Ya | 0.40% | ~4,218 |
+| Right Back At Ya | 0.40% | ~4,219 |
 | Full Body Conversion | 0.30% | ~3,164 |
 | Christmas Tree Attack | 0.30% | ~3,164 |
 | Life of the Road | 0.30% | ~3,164 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,602 (Ranked 17)  
+Progressed: 1,054,627 (Ranked 17)  
 Completed: 3,124 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 3,124 (0.30%) (Ranked 263)
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
-| 2024-01-19 | 1,054,602 | 3,124 |
+| 2024-01-19 | 1,054,627 | 3,124 |
 ## Awards
 Max (Character Customization): 142,143  (Ranked 8)  
 Sum: 504,719 (Ranked 8)  

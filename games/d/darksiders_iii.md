@@ -17,8 +17,8 @@ Number of Ratings: 116  (23.09.2022)
 | All That Glitters | 47.00% | ~302 |
 | Enhance! | 43.00% | ~276 |
 | One Of the Chosen | 42.00% | ~270 |
+| Throne Potato | 42.00% | ~270 |
 | Devil's in the Details | 41.00% | ~264 |
-| Throne Potato | 41.00% | ~264 |
 | Five's a Crowd | 41.00% | ~264 |
 | Salvation | 40.00% | ~257 |
 | 25 to Life | 40.00% | ~257 |
@@ -109,8 +109,8 @@ Completed: 2 (0.31%) (Ranked 260)
 | 2024-01-19 | 643 | 2 |
 ## Awards
 Max (Great Boss Battles): 99  (Ranked 384)  
-Sum: 99 (Ranked 474)  
-Diff (max vs sum): -90  
+Sum: 99 (Ranked 473)  
+Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 99 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7267,
+  "EOS_Progressed": 7269,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11339,6 +11339,11 @@
       "Time": "2024-01-17T20:06:21.6940339+00:00",
       "NumProgressed": 7267,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T05:04:09.4634477+00:00",
+      "NumProgressed": 7269,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11494,7 +11499,7 @@
       "Name": "Bone Peddler",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "27",
@@ -11829,13 +11834,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7267,
+      "Progressed": 7269,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7267,
+      "Progressed": 7269,
       "Completed": 8
     }
   ],
@@ -11843,8 +11848,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:04:00.1192974+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:04:09.4634474+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:58:32.2636591+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:04:00.1193752+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:58:37.0338478+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:09.463546+00:00"
 }

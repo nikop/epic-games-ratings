@@ -487,9 +487,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1564498,
+  "EOS_Progressed": 1564503,
   "EOS_Completed": 770,
-  "EOS_NewPlayers": 1380,
+  "EOS_NewPlayers": 1378,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -31917,6 +31917,11 @@
       "Time": "2024-01-19T04:08:39.3929204+00:00",
       "NumProgressed": 1564498,
       "NumCompleted": 770
+    },
+    {
+      "Time": "2024-01-19T05:08:40.796105+00:00",
+      "NumProgressed": 1564503,
+      "NumCompleted": 770
     }
   ],
   "TotalAchievements": 20,
@@ -32064,7 +32069,7 @@
       "Name": "The Completionist",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "ACH_THE_LONG_DRIFT",
@@ -32087,15 +32092,15 @@
     {
       "ID": "4lh7icm",
       "IsBase": true,
-      "Progressed": 1564498,
+      "Progressed": 1564503,
       "Completed": 770
     }
   ],
   "FirstSeen": "2022-07-22T20:19:02.1541897+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.2129614+00:00",
   "LastChanged": "2024-01-01T15:58:03.3050035+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:08:39.3929198+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:08:40.7961047+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:09.5781079+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:59:42.9623601+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:08:39.3930748+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:59:49.1090319+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:08:40.796298+00:00"
 }

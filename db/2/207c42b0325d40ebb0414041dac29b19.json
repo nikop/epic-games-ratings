@@ -3,11 +3,11 @@
   "Name": "Melvor Idle",
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 382,
-  "Ranking_Popularity": 124,
-  "Ranking_PopularitySum": 187,
+  "Ranking_Popularity": 121,
+  "Ranking_PopularitySum": 183,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-21T16:00:00+00:00",
@@ -953,18 +953,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 3104,
       "NumberOfAwardsMax": 1946
+    },
+    {
+      "Time": "2024-01-19T05:03:11.5435572+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3170,
+      "NumberOfAwardsMax": 1999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3104,
-  "NumberOfAwardsMax": 1946,
+  "NumberOfAwards": 3170,
+  "NumberOfAwardsMax": 1999,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 1946
+      "Count": 1999
     },
     {
       "Text": "This game has Playful Visuals",
@@ -982,7 +988,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 170
+      "Count": 183
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1045,8 +1051,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-01-19T03:03:17.3364729+00:00",
+  "LastChanged": "2024-01-19T05:03:11.5435571+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:16.3469285+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:03:05.3532456+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:06:08.0220601+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:03:11.5435575+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:06:20.5589223+00:00"
 }

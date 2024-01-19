@@ -4,10 +4,10 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 658,
   "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 384,
+  "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -868,7 +868,7 @@
   ],
   "EOS_Progressed": 6409,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13649,9 +13649,9 @@
       "ID": "MF_Ach_ThatllLeaveAMark",
       "SetID": "9b9n573",
       "Name": "That\u0027ll Leave a Mark",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1666
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13673,8 +13673,8 @@
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:03:58.7765413+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:04:08.0481607+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:58:16.8683993+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:03:58.7766132+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:58:20.8724691+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:08.0482314+00:00"
 }

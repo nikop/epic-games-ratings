@@ -413,9 +413,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11808,
+  "EOS_Progressed": 11809,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 688,
+  "EOS_NewPlayers": 684,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5418,6 +5418,11 @@
       "Time": "2024-01-19T04:10:22.2035043+00:00",
       "NumProgressed": 11808,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T05:10:25.3559986+00:00",
+      "NumProgressed": 11809,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5460,9 +5465,9 @@
       "ID": "06_TheExpanseCalamity",
       "SetID": "37a94m8",
       "Name": "Expanse Calamity",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 472
     },
     {
       "ID": "07_TheGrandFinale",
@@ -5606,7 +5611,7 @@
       "Name": "Highrise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "25_DynastyProspers",
@@ -5949,7 +5954,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11808,
+      "Progressed": 11809,
       "Completed": 1
     }
   ],
@@ -5957,8 +5962,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-18T13:59:36.0341699+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:10:22.203504+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:10:25.3559984+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:59:35.4381036+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:10:22.2035742+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:59:41.5857344+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:10:25.3560774+00:00"
 }

@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19151,
+  "EOS_Progressed": 19152,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 269,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17774,6 +17774,11 @@
       "Time": "2024-01-19T03:04:36.4838407+00:00",
       "NumProgressed": 19151,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-19T05:03:52.9210944+00:00",
+      "NumProgressed": 19152,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18034,7 +18039,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "33",
@@ -18058,20 +18063,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19151,
+      "Progressed": 19152,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5105,
+      "Progressed": 5106,
       "Completed": 1349
     }
   ],
@@ -18079,8 +18084,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:03:44.3162769+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:03:52.9210941+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:02:40.012892+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:03:44.3163779+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:00:23.9745646+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:03:52.9212004+00:00"
 }

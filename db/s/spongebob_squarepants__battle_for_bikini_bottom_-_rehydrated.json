@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1084,
+  "EOS_Progressed": 1086,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.83,
   "EosHistory": [
@@ -3018,6 +3018,11 @@
       "Time": "2024-01-19T02:30:55.9649995+00:00",
       "NumProgressed": 1084,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-19T05:04:18.1171726+00:00",
+      "NumProgressed": 1086,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3102,7 +3107,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3110,7 +3115,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3140,9 +3145,9 @@
       "ID": "ACH_ROBO_PATRICK_BOSS",
       "SetID": "biiejkc",
       "Name": "Toxic Terror",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 108
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_ROBO_SANDY_BOSS",
@@ -3238,7 +3243,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3246,7 +3251,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3285,15 +3290,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1084,
+      "Progressed": 1086,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-19T04:04:08.3194007+00:00",
+  "LastChanged_Achievements": "2024-01-19T05:04:18.1171724+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:58:22.6898532+00:00",
-  "LastUpdate_Achievements": "2024-01-19T04:04:08.3194428+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:58:26.9750775+00:00",
+  "LastUpdate_Achievements": "2024-01-19T05:04:18.1172041+00:00"
 }
