@@ -151,9 +151,9 @@
       "ID": "energy250",
       "SetID": "bbgli2k",
       "Name": "Energy Collector",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "energy800",
@@ -239,9 +239,9 @@
       "ID": "lightbulbs10",
       "SetID": "bbgli2k",
       "Name": "Lightbulbs Collector",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "lightbulbs100",
@@ -311,9 +311,9 @@
       "ID": "quest002",
       "SetID": "bbgli2k",
       "Name": "The Old Man and the Caf\u00E9",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "quest003",
@@ -448,8 +448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:29.0586638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:34.5925841+00:00",
   "LastChanged": "2023-03-31T05:58:29.0586639+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:05:03.4267417+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:05:07.1584726+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.3747867+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:29.0630247+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:05:03.426766+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:30.4255104+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:05:07.1584991+00:00"
 }

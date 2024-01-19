@@ -49,8 +49,8 @@ Number of Ratings: 371  (23.09.2022)
 | Strike Force | 0.60% | ~23 |
 | Reign of Confusion | 0.60% | ~23 |
 | Abomination | 0.60% | ~23 |
+| Deadshot | 0.50% | ~20 |
 | Suffer Not the Mutant | 0.50% | ~20 |
-| Deadshot | 0.40% | ~16 |
 | Blood and Iron | 0.30% | ~12 |
 | Clean Slate | 0.30% | ~12 |
 | Unstable Immaterium | 0.30% | ~12 |

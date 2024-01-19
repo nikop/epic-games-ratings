@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 205,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17959,
+  "EOS_Progressed": 17960,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18725,6 +18725,11 @@
       "Time": "2024-01-19T17:04:41.4412515+00:00",
       "NumProgressed": 17959,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-19T19:03:55.3009156+00:00",
+      "NumProgressed": 17960,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18800,7 +18805,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2873
+      "UsersEstimate": 2874
     },
     {
       "ID": "tpote_achievement_18",
@@ -18912,7 +18917,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5567
+      "UsersEstimate": 5568
     },
     {
       "ID": "tpote_achievement_30",
@@ -19048,7 +19053,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3771
+      "UsersEstimate": 3772
     },
     {
       "ID": "tpote_achievement_9",
@@ -19063,15 +19068,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17959,
+      "Progressed": 17960,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:03:52.3893729+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:03:55.3009151+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:02:54.5933138+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:03:52.3894931+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:02:55.6736737+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:03:55.3010314+00:00"
 }

@@ -187,7 +187,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3487,
+  "EOS_Progressed": 3488,
   "EOS_Completed": 33,
   "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 10,
@@ -6692,6 +6692,11 @@
       "Time": "2024-01-19T18:03:53.4253954+00:00",
       "NumProgressed": 3487,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-19T19:03:56.4782135+00:00",
+      "NumProgressed": 3488,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 53,
@@ -6711,7 +6716,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6759,7 +6764,7 @@
       "Name": "No more holding back",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "STB_DEFEAT_GAREN_I",
@@ -6767,7 +6772,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3313
+      "UsersEstimate": 3314
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6783,7 +6788,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6815,7 +6820,7 @@
       "Name": "I chose my shackles",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 976
+      "UsersEstimate": 977
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6879,7 +6884,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6887,7 +6892,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3138
+      "UsersEstimate": 3139
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6911,7 +6916,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -6919,7 +6924,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6927,7 +6932,7 @@
       "Name": "Thornbarrow",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1534
+      "UsersEstimate": 1535
     },
     {
       "ID": "STB_MISSION2B_COMPLETED",
@@ -6951,7 +6956,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 941
+      "UsersEstimate": 942
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6975,7 +6980,7 @@
       "Name": "Terbisia",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "STB_MISSION7_COMPLETED",
@@ -7007,7 +7012,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "STB_PET_HORSE",
@@ -7047,7 +7052,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -7063,7 +7068,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -7111,7 +7116,7 @@
       "Name": "Ancient power",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1011
+      "UsersEstimate": 1012
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -7126,7 +7131,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3487,
+      "Progressed": 3488,
       "Completed": 33
     }
   ],
@@ -7134,8 +7139,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:03:53.425395+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:03:56.4782131+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:19.0040093+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:03:53.4254707+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:21.8298158+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:03:56.4782964+00:00"
 }

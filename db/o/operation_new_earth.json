@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2279,
+  "EOS_Progressed": 2281,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8811,6 +8811,11 @@
       "Time": "2024-01-19T17:04:11.688252+00:00",
       "NumProgressed": 2279,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T19:03:33.8788149+00:00",
+      "NumProgressed": 2281,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8942,7 +8947,7 @@
       "Name": "Sergeant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -8998,7 +9003,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -9006,7 +9011,7 @@
       "Name": "Covert Operative",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "objective_key_drone_missions_completed_1",
@@ -9125,7 +9130,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2279,
+      "Progressed": 2281,
       "Completed": 1
     }
   ],
@@ -9133,8 +9138,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:03:30.6674101+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:03:33.8788144+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:12.3867183+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:03:30.6674702+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:15.4589438+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:03:33.8789072+00:00"
 }

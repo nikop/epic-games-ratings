@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253622,
+  "EOS_Progressed": 253623,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24492,6 +24492,11 @@
       "Time": "2024-01-19T18:09:59.3607206+00:00",
       "NumProgressed": 253622,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-19T19:10:05.5531003+00:00",
+      "NumProgressed": 253623,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24607,7 +24612,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50724
+      "UsersEstimate": 50725
     },
     {
       "ID": "didYourTime",
@@ -24743,7 +24748,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126811
+      "UsersEstimate": 126812
     },
     {
       "ID": "notScared",
@@ -24870,7 +24875,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253622,
+      "Progressed": 253623,
       "Completed": 6
     }
   ],
@@ -24878,8 +24883,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:09:59.3607204+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:10:05.5531001+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:19.2250994+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:09:59.3608417+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:22.0110353+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:10:05.5532309+00:00"
 }

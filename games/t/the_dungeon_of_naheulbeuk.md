@@ -6,18 +6,18 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,039 |
-| Alt+F4 | 11.00% | ~27,363 |
-| Where's that freaking Dwarf? | 9.00% | ~22,388 |
-| Déjà vu | 8.00% | ~19,900 |
-| Sock! SOCK! | 6.00% | ~14,925 |
-| Speedrun | 6.00% | ~14,925 |
+| Sowwy! | 37.00% | ~92,042 |
+| Alt+F4 | 11.00% | ~27,364 |
+| Where's that freaking Dwarf? | 9.00% | ~22,389 |
+| Déjà vu | 8.00% | ~19,901 |
+| Sock! SOCK! | 6.00% | ~14,926 |
+| Speedrun | 6.00% | ~14,926 |
 | A beer, two curses, three companions | 5.00% | ~12,438 |
 | GG EZ | 5.00% | ~12,438 |
 | DM intervention | 5.00% | ~12,438 |
 | Fireproof Wizardess | 5.00% | ~12,438 |
-| Way of the Wimp | 4.00% | ~9,950 |
-| The plot thickens... At the tavern | 4.00% | ~9,950 |
+| Way of the Wimp | 4.00% | ~9,951 |
+| The plot thickens... At the tavern | 4.00% | ~9,951 |
 | Livin' in a dwarven paradise | 3.00% | ~7,463 |
 | The demons' feast | 3.00% | ~7,463 |
 | The Great Library | 3.00% | ~7,463 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,754 (Ranked 73)  
+Progressed: 248,763 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,14 +328,14 @@ Completed: 9 (0.00%) (Ranked 406)
 | 2024-01-16 | 248,418 | 9 |
 | 2024-01-17 | 248,553 | 9 |
 | 2024-01-18 | 248,677 | 9 |
-| 2024-01-19 | 248,754 | 9 |
+| 2024-01-19 | 248,763 | 9 |
 ## Awards
-Max (Character Customization): 272  (Ranked 278)  
-Sum: 575 (Ranked 331)  
-Diff (max vs sum): -53  
+Max (Character Customization): 273  (Ranked 277)  
+Sum: 576 (Ranked 331)  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 272 |
+| This game has Inclusive Character Customization | 273 |
 | This game is Relaxing | 41 |
 | This game is Great for Beginners | 38 |
 | This game is Highly Recommended | 38 |
@@ -568,4 +568,4 @@ Diff (max vs sum): -53
 | 2024-01-15 | 4.58 | - | 270 | 570 |
 | 2024-01-16 | 4.58 | - | 272 | 572 |
 | 2024-01-18 | 4.58 | - | 272 | 575 |
-| 2024-01-19 | 4.59 | - | 272 | 575 |
+| 2024-01-19 | 4.59 | - | 273 | 576 |

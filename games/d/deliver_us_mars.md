@@ -5,41 +5,41 @@ Rating: 4.15 (Ranked 1,006)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 46.00% | ~119 |
-| Take a look | 27.00% | ~70 |
-| Reading is fundamental | 26.00% | ~67 |
-| The beginning of a beautiful collection | 25.00% | ~65 |
-| Home Is... | 19.00% | ~49 |
-| Moonbear | 7.00% | ~18 |
-| Getting the hang of it | 4.00% | ~10 |
-| On the Precipice | 4.00% | ~10 |
-| Stellar extra-vehicular activities score | 3.00% | ~8 |
-| Cinephile | 3.00% | ~8 |
-| Piecing the story together | 3.00% | ~8 |
-| Like Animals | 3.00% | ~8 |
-| Not the Rabbits, Not the Bees | 3.00% | ~8 |
-| Desperate Times | 3.00% | ~8 |
-| Want to Go to Space? | 3.00% | ~8 |
-| Kats always land on their feet | 2.00% | ~5 |
-| Delivered Us Mars | 2.00% | ~5 |
-| The Dream for These Folks | 2.00% | ~5 |
-| A Nice Place to Live | 2.00% | ~5 |
-| Wants and Needs | 1.00% | ~3 |
-| When ACE met AYLA | 0.80% | ~2 |
-| Kat-like reflexes | 0.80% | ~2 |
-| As the story unfolds... | 0.80% | ~2 |
-| Quick like a Kat | 0.40% | ~1 |
-| Peruser | 0.40% | ~1 |
-| Pannapictagraphist | 0.40% | ~1 |
-| Curiosity didn't kill the Kat | 0.40% | ~1 |
-| Chronicler | 0.40% | ~1 |
-| Who waits five minutes, seriously? | 0.40% | ~1 |
+| Better jot that down | 49.00% | ~208 |
+| Take a look | 29.00% | ~123 |
+| Reading is fundamental | 28.00% | ~119 |
+| The beginning of a beautiful collection | 27.00% | ~114 |
+| Home Is... | 22.00% | ~93 |
+| Moonbear | 8.00% | ~34 |
+| Getting the hang of it | 6.00% | ~25 |
+| On the Precipice | 5.00% | ~21 |
+| Want to Go to Space? | 5.00% | ~21 |
+| Piecing the story together | 4.00% | ~17 |
+| The Dream for These Folks | 4.00% | ~17 |
+| Like Animals | 4.00% | ~17 |
+| A Nice Place to Live | 4.00% | ~17 |
+| Not the Rabbits, Not the Bees | 4.00% | ~17 |
+| Desperate Times | 4.00% | ~17 |
+| Stellar extra-vehicular activities score | 3.00% | ~13 |
+| Cinephile | 3.00% | ~13 |
+| Delivered Us Mars | 3.00% | ~13 |
+| Wants and Needs | 3.00% | ~13 |
+| When ACE met AYLA | 2.00% | ~8 |
+| Kat-like reflexes | 1.00% | ~4 |
+| Kats always land on their feet | 0.90% | ~4 |
+| As the story unfolds... | 0.50% | ~2 |
+| Quick like a Kat | 0.20% | ~1 |
+| Peruser | 0.20% | ~1 |
+| Pannapictagraphist | 0.20% | ~1 |
+| Curiosity didn't kill the Kat | 0.20% | ~1 |
+| Chronicler | 0.20% | ~1 |
+| Who waits five minutes, seriously? | 0.20% | ~1 |
 | Simulacrum | 0.00% | ~0 |
 | Their batteries were low and it got dark | 0.00% | ~0 |
 | Shai-Hulud? | 0.00% | ~0 |
 | The Gang | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 259 (Ranked 420)  
+Progressed: 424 (Ranked 372)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2023-11-07 | 8 | 0 |
 | 2023-11-21 | 9 | 0 |
 | 2023-11-22 | 11 | 0 |
-| 2024-01-19 | 259 | 0 |
+| 2024-01-19 | 424 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

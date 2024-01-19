@@ -2,10 +2,10 @@
   "ID": "3341d4dd5b8d44c3a372da3f10122485",
   "Name": "Samorost 2",
   "ProductSlug": "samorost-2-1b9bb1",
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -27,7 +27,7 @@
   "EOS_Progressed": 259,
   "EOS_Completed": 112,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 7,
+  "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 43.24,
   "EosHistory": [
     {
@@ -1758,9 +1758,9 @@
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 80,
-      "UsersEstimate": 192
+      "UsersEstimate": 194
     },
     {
       "ID": "Konec",
@@ -1798,9 +1798,9 @@
       "ID": "Planina",
       "SetID": "823jm6g",
       "Name": "Plain",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 80,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "Poklop",
@@ -1845,8 +1845,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:05:51.6822466+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:05:54.6972415+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.8400206+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:37.9843275+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:05:51.6822605+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:39.231293+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:05:54.6972636+00:00"
 }

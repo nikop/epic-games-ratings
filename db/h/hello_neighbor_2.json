@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 98,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -513,9 +513,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4115,
+  "EOS_Progressed": 4118,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 3.62,
   "EosHistory": [
@@ -7563,6 +7563,11 @@
       "Time": "2024-01-19T18:05:30.2410938+00:00",
       "NumProgressed": 4115,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2024-01-19T19:05:33.756249+00:00",
+      "NumProgressed": 4118,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 14,
@@ -7574,7 +7579,7 @@
       "Name": "Ancient Curse",
       "Percentage": 26,
       "XP": 80,
-      "UsersEstimate": 1070
+      "UsersEstimate": 1071
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -7582,7 +7587,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -7590,7 +7595,7 @@
       "Name": "Cat Person",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_CLIMBER",
@@ -7598,7 +7603,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -7614,7 +7619,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7622,7 +7627,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1277
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7638,7 +7643,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -7646,7 +7651,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "ACH_REUNION",
@@ -7654,7 +7659,7 @@
       "Name": "Reunion",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 905
+      "UsersEstimate": 906
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -7662,7 +7667,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -7670,7 +7675,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -7678,14 +7683,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3251
+      "UsersEstimate": 3253
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4115,
+      "Progressed": 4118,
       "Completed": 149
     }
   ],
@@ -7693,8 +7698,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-17T15:01:36.9556508+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:05:30.2410935+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:05:33.7562485+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:54.0486901+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:57:30.9866567+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:05:30.241138+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:57:35.3886852+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:05:33.7562937+00:00"
 }

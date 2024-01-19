@@ -12,7 +12,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | No Deaths | 9.00% | ~1,880 |
 | Abandoned Settlement | 9.00% | ~1,880 |
 | Petrified Necropolis | 9.00% | ~1,880 |
-| The Marshlands | 8.00% | ~1,671 |
+| The Marshlands | 8.00% | ~1,672 |
 | Overcoming Difficulty | 7.00% | ~1,463 |
 | Coral Forest | 7.00% | ~1,463 |
 | The Scarlet Orchard | 7.00% | ~1,463 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,893 (Ranked 157)  
+Progressed: 20,894 (Ranked 157)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-16 | 20,829 | 35 |
 | 2024-01-17 | 20,854 | 35 |
 | 2024-01-18 | 20,874 | 35 |
-| 2024-01-19 | 20,893 | 35 |
+| 2024-01-19 | 20,894 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 234)  
 Sum: 3,397 (Ranked 179)  

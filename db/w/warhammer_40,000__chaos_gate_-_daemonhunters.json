@@ -6611,9 +6611,9 @@
       "ID": "ExperiencedVindicare",
       "SetID": "2im8phi",
       "Name": "Deadshot",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 20
     },
     {
       "ID": "Kills_BioMeltdown",
@@ -6665,8 +6665,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-16T14:04:00.758203+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:03:29.1893713+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:03:32.3362666+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:03:08.6629221+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:03:29.1894811+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:03:09.5862905+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:03:32.3364079+00:00"
 }

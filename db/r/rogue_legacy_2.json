@@ -1638,9 +1638,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28429,
+  "EOS_Progressed": 28430,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14478,6 +14478,11 @@
       "Time": "2024-01-19T18:10:00.3722523+00:00",
       "NumProgressed": 28429,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-19T19:10:06.6755673+00:00",
+      "NumProgressed": 28430,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14543,9 +14548,9 @@
       "ID": "BossBridgeAdvancedDefeated",
       "SetID": "3ojhj46",
       "Name": "For Justice",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 171
+      "UsersEstimate": 199
     },
     {
       "ID": "BossBridgeDefeated",
@@ -14553,7 +14558,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -14681,7 +14686,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "EndTimerFail",
@@ -14800,21 +14805,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28429,
+      "Progressed": 28430,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7359,
+      "Progressed": 7360,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-17T20:57:40.3892321+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:10:00.372252+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:10:06.6755667+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:58:37.8313075+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:10:00.3723352+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:58:42.3662687+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:10:06.6756655+00:00"
 }

@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.70% | ~3,512 |
+| Until death do us apart | 0.70% | ~3,513 |
 | That's a Grand Army | 0.60% | ~3,011 |
 | That is mine! | 0.60% | ~3,011 |
 | Victorious! | 0.60% | ~3,011 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~502 |
 | The Zoro-Austrians | 0.10% | ~502 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,765 (Ranked 42)  
+Progressed: 501,812 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,10 +644,10 @@ Completed: 1 (0.00%) (Ranked 406)
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
 | 2024-01-18 | 501,312 | 1 |
-| 2024-01-19 | 501,765 | 1 |
+| 2024-01-19 | 501,812 | 1 |
 ## Awards
 Max (Educational): 7,890  (Ranked 53)  
-Sum: 65,177 (Ranked 24)  
+Sum: 65,191 (Ranked 24)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
@@ -658,7 +658,7 @@ Diff (max vs sum): 29
 | This game is Extremely Fun | 7,408 |
 | This game is Relaxing | 7,242 |
 | This game has Competitive Players | 7,080 |
-| This game has Amazing Storytelling | 6,582 |
+| This game has Amazing Storytelling | 6,596 |
 | This game has Amazing Characters | 6,096 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -1031,4 +1031,4 @@ Diff (max vs sum): 29
 | 2024-01-16 | 4.69 | - | 7,857 | 64,813 |
 | 2024-01-17 | 4.69 | - | 7,871 | 64,924 |
 | 2024-01-18 | 4.69 | - | 7,890 | 65,057 |
-| 2024-01-19 | 4.69 | - | 7,890 | 65,177 |
+| 2024-01-19 | 4.69 | - | 7,890 | 65,191 |

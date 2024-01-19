@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 292,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1157,
+  "EOS_Progressed": 1158,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4524,6 +4524,11 @@
       "Time": "2024-01-19T05:10:26.147498+00:00",
       "NumProgressed": 1157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T19:10:13.0836753+00:00",
+      "NumProgressed": 1158,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4559,7 +4564,7 @@
       "Name": "Expensive Plane",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "BudgetFlight",
@@ -4663,7 +4668,7 @@
       "Name": "Lack of Time",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "LargeAirport",
@@ -4703,7 +4708,7 @@
       "Name": "Long Distances",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "ManagementMaster",
@@ -4751,7 +4756,7 @@
       "Name": "No Way Back",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "NotPlanned",
@@ -4815,7 +4820,7 @@
       "Name": "Restructuring",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Reviewer",
@@ -4847,7 +4852,7 @@
       "Name": "Ten!",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TimeForManagement",
@@ -4870,14 +4875,14 @@
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1157,
+      "Progressed": 1158,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:10:06.9074921+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:10:13.0836747+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.7241323+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:57:55.1547067+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:10:06.907536+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:57:58.1206315+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:10:13.0837252+00:00"
 }

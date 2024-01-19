@@ -2,7 +2,7 @@
   "ID": "3658d3b2ab274e47baf9da3225ad128e",
   "Name": "The Entropy Centre",
   "ProductSlug": "the-entropy-centre-40bccd",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 413,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 152,
@@ -1189,9 +1189,9 @@
       "ID": "ACH_CHAINREACTION",
       "SetID": "2310cb1",
       "Name": "Chain Reaction",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "ACH_DATARESEARCH",
@@ -1205,9 +1205,9 @@
       "ID": "ACH_FASHION",
       "SetID": "2310cb1",
       "Name": "Fashionista",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 90,
-      "UsersEstimate": 49
+      "UsersEstimate": 52
     },
     {
       "ID": "ACH_HANDYMAN",
@@ -1270,8 +1270,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:03:50.8468669+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:03:54.0508352+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:33.4911212+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:16.4851635+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:03:50.8468935+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:19.3703226+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:03:54.0508785+00:00"
 }

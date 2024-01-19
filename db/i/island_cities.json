@@ -3893,9 +3893,9 @@
       "ID": "LEVEL_002",
       "SetID": "3khpmem",
       "Name": "A tiny town",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 767
+      "UsersEstimate": 776
     },
     {
       "ID": "LEVEL_003",
@@ -4070,8 +4070,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:06:08.9988519+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:06:12.4283259+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:44.3207823+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:06:08.9988808+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:45.731026+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:06:12.4283605+00:00"
 }

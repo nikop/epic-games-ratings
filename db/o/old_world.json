@@ -2340,9 +2340,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16998,
+  "EOS_Progressed": 17001,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 480,
+  "EOS_NewPlayers": 479,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20510,6 +20510,11 @@
       "Time": "2024-01-19T18:10:15.2353236+00:00",
       "NumProgressed": 16998,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T19:10:21.5108036+00:00",
+      "NumProgressed": 17001,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20575,9 +20580,9 @@
       "ID": "ACHIEVEMENT_ASSASSINATED_BY_HEIR",
       "SetID": "9201eeb",
       "Name": "Bad Heir Day",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_ASSASSINATED_HEIR",
@@ -20991,9 +20996,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_HOLY",
       "SetID": "9201eeb",
       "Name": "Holy",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INTERCESSOR",
@@ -22223,9 +22228,9 @@
       "ID": "ACHIEVEMENT_PLAY_FFA",
       "SetID": "9201eeb",
       "Name": "Play a Free-For-All Game (\u003E2 Players)",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_PLAY_HOTSEAT",
@@ -23384,21 +23389,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16998,
+      "Progressed": 17001,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16998,
+      "Progressed": 17001,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-19T10:02:54.9677394+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:10:15.2353231+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:10:21.5108031+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:02:40.024113+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:10:15.2362763+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:02:42.2348225+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:10:21.5117813+00:00"
 }

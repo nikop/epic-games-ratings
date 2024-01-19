@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 443,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 168,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -793,9 +793,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4652,
+  "EOS_Progressed": 4653,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 215,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13003,6 +13003,11 @@
       "Time": "2024-01-19T18:03:49.3685213+00:00",
       "NumProgressed": 4652,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T19:03:52.656624+00:00",
+      "NumProgressed": 4653,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13246,7 +13251,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1023
+      "UsersEstimate": 1024
     },
     {
       "ID": "herewegoagain",
@@ -13406,7 +13411,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2419
+      "UsersEstimate": 2420
     },
     {
       "ID": "prestigiousx10",
@@ -13414,7 +13419,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "relicofthepast",
@@ -13470,7 +13475,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2605
+      "UsersEstimate": 2606
     },
     {
       "ID": "thealchemist",
@@ -13502,7 +13507,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "thepowerofawakening",
@@ -13574,7 +13579,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4326
+      "UsersEstimate": 4327
     },
     {
       "ID": "warmachinesarmy",
@@ -13613,7 +13618,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4652,
+      "Progressed": 4653,
       "Completed": 2
     }
   ],
@@ -13621,8 +13626,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-17T22:58:46.2405409+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:03:49.368521+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:03:52.6566235+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:58:55.4272977+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:03:49.3686398+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:58:58.5914449+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:03:52.6567419+00:00"
 }

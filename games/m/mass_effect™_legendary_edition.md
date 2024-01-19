@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,044 |
-| Spectre Inductee | 66.00% | ~2,965 |
-| Medal of Exploration I | 56.00% | ~2,516 |
-| Recruit | 53.00% | ~2,381 |
-| Search and Rescue | 51.00% | ~2,291 |
+| Distinguished Service Medal | 90.00% | ~4,045 |
+| Spectre Inductee | 66.00% | ~2,966 |
+| Medal of Exploration I | 56.00% | ~2,517 |
+| Recruit | 53.00% | ~2,382 |
+| Search and Rescue | 51.00% | ~2,292 |
 | Quarian Ally | 49.00% | ~2,202 |
 | Medal of Heroism | 44.00% | ~1,977 |
 | Honorarium of Corporate Service | 44.00% | ~1,977 |
-| Turian Ally | 40.00% | ~1,797 |
-| Medal of Exploration II | 39.00% | ~1,752 |
-| Council Legion of Merit | 38.00% | ~1,707 |
-| Missing in Action | 37.00% | ~1,662 |
-| Medal of Honor | 36.00% | ~1,617 |
-| Meritorious Service Medal | 36.00% | ~1,617 |
-| Soldier Ally | 36.00% | ~1,617 |
+| Turian Ally | 40.00% | ~1,798 |
+| Medal of Exploration II | 39.00% | ~1,753 |
+| Council Legion of Merit | 38.00% | ~1,708 |
+| Missing in Action | 37.00% | ~1,663 |
+| Medal of Honor | 36.00% | ~1,618 |
+| Meritorious Service Medal | 36.00% | ~1,618 |
+| Soldier Ally | 36.00% | ~1,618 |
 | Soldier | 35.00% | ~1,573 |
 | Charismatic | 35.00% | ~1,573 |
 | Asari Ally | 34.00% | ~1,528 |
@@ -41,29 +41,30 @@
 | Colony Defense | 26.00% | ~1,168 |
 | The Krogan | 26.00% | ~1,168 |
 | Broke, Blind, and Bedlam | 26.00% | ~1,168 |
-| Veteran | 25.00% | ~1,123 |
-| Driven | 25.00% | ~1,123 |
-| Ghost Ship | 24.00% | ~1,078 |
-| The Assassin | 24.00% | ~1,078 |
-| The Justicar | 24.00% | ~1,078 |
-| The Quarian | 24.00% | ~1,078 |
-| The Prodigal | 23.00% | ~1,033 |
-| Galactic Explorer | 23.00% | ~1,033 |
-| Shopaholic | 23.00% | ~1,033 |
-| A Personal Touch | 22.00% | ~988 |
-| Battlemaster | 22.00% | ~988 |
-| Catharsis | 22.00% | ~988 |
-| Fade Away | 22.00% | ~988 |
-| Ghost of the Father | 22.00% | ~988 |
-| The Cure | 22.00% | ~988 |
-| Big Game Hunter | 22.00% | ~988 |
-| Revenge! | 22.00% | ~988 |
-| Heart of Darkness | 22.00% | ~988 |
-| Bringer of War | 22.00% | ~988 |
+| Veteran | 25.00% | ~1,124 |
+| Driven | 25.00% | ~1,124 |
+| Ghost Ship | 24.00% | ~1,079 |
+| The Assassin | 24.00% | ~1,079 |
+| The Quarian | 24.00% | ~1,079 |
+| The Justicar | 23.00% | ~1,034 |
+| The Prodigal | 23.00% | ~1,034 |
+| Galactic Explorer | 23.00% | ~1,034 |
+| Shopaholic | 23.00% | ~1,034 |
+| A Personal Touch | 22.00% | ~989 |
+| Battlemaster | 22.00% | ~989 |
+| Catharsis | 22.00% | ~989 |
+| Fade Away | 22.00% | ~989 |
+| Ghost of the Father | 22.00% | ~989 |
+| The Cure | 22.00% | ~989 |
+| Big Game Hunter | 22.00% | ~989 |
+| Revenge! | 22.00% | ~989 |
+| Heart of Darkness | 22.00% | ~989 |
+| Bringer of War | 22.00% | ~989 |
 | Focused | 21.00% | ~944 |
 | Archivist | 21.00% | ~944 |
 | Treason | 21.00% | ~944 |
 | Digital Exorcist | 21.00% | ~944 |
+| Mobilizer | 21.00% | ~944 |
 | Completionist | 20.00% | ~899 |
 | Mission Accomplished | 20.00% | ~899 |
 | Suicide Mission | 20.00% | ~899 |
@@ -72,7 +73,6 @@
 | Cat's in the Cradle | 20.00% | ~899 |
 | Doppelganger | 20.00% | ~899 |
 | Agent | 20.00% | ~899 |
-| Mobilizer | 20.00% | ~899 |
 | Untouchable | 19.00% | ~854 |
 | Eye of the Hurricane | 19.00% | ~854 |
 | Giant Killer | 19.00% | ~854 |
@@ -108,7 +108,7 @@
 | Mail Slot | 10.00% | ~449 |
 | Electronics Specialist | 10.00% | ~449 |
 | Combined Arms | 9.00% | ~404 |
-| Warp Mastery | 8.00% | ~359 |
+| Warp Mastery | 8.00% | ~360 |
 | Barrier Mastery | 7.00% | ~315 |
 | Sky High | 7.00% | ~315 |
 | Always Prepared | 7.00% | ~315 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~40 |
 | The One and Only | 0.60% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,493 (Ranked 211)  
+Progressed: 4,494 (Ranked 211)  
 Completed: 13 (0.29%) (Ranked 266)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,4 +258,4 @@ Completed: 13 (0.29%) (Ranked 266)
 | 2024-01-16 | 4,423 | 13 |
 | 2024-01-17 | 4,449 | 13 |
 | 2024-01-18 | 4,472 | 13 |
-| 2024-01-19 | 4,493 | 13 |
+| 2024-01-19 | 4,494 | 13 |

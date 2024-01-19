@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,133 |
-| Lost and Found | 9.00% | ~728 |
-| Autodidact | 8.00% | ~10,658 |
+| Malpractice Assurance | 14.00% | ~1,134 |
+| Lost and Found | 9.00% | ~729 |
+| Autodidact | 8.00% | ~10,659 |
 | This Belongs in a Museum | 7.00% | ~9,326 |
 | Creep and Sleep | 7.00% | ~9,326 |
 | Overdue Notice | 7.00% | ~9,326 |
 | This guy... again? | 7.00% | ~567 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~7,993 |
-| Serenity Now! | 6.00% | ~7,993 |
-| Meat and Greet | 6.00% | ~7,993 |
-| Catch and Decease | 6.00% | ~7,993 |
-| Escape from the Black Hole | 6.00% | ~7,993 |
-| Rush Hour | 6.00% | ~7,993 |
-| To Grandmother's House | 6.00% | ~7,993 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~7,994 |
+| Serenity Now! | 6.00% | ~7,994 |
+| Meat and Greet | 6.00% | ~7,994 |
+| Catch and Decease | 6.00% | ~7,994 |
+| Escape from the Black Hole | 6.00% | ~7,994 |
+| Rush Hour | 6.00% | ~7,994 |
+| To Grandmother's House | 6.00% | ~7,994 |
 | Ploughshares to Swords | 6.00% | ~486 |
 | Bloody Graduation | 6.00% | ~486 |
-| It Rings a Bell | 5.00% | ~6,661 |
-| Not Today! | 5.00% | ~6,661 |
-| It Happens | 5.00% | ~6,661 |
-| Merry Time | 5.00% | ~6,661 |
-| Harvest Festival | 5.00% | ~6,661 |
-| Whale | 5.00% | ~6,661 |
-| A Place to Lay Your Head | 5.00% | ~6,661 |
-| FNG | 5.00% | ~6,661 |
-| Nope | 5.00% | ~6,661 |
+| It Rings a Bell | 5.00% | ~6,662 |
+| Not Today! | 5.00% | ~6,662 |
+| It Happens | 5.00% | ~6,662 |
+| Merry Time | 5.00% | ~6,662 |
+| Harvest Festival | 5.00% | ~6,662 |
+| Whale | 5.00% | ~6,662 |
+| A Place to Lay Your Head | 5.00% | ~6,662 |
+| FNG | 5.00% | ~6,662 |
+| Nope | 5.00% | ~6,662 |
 | Friends 'Til the End | 5.00% | ~405 |
 | Resurrection | 4.00% | ~5,329 |
 | Unleash Hell | 4.00% | ~5,329 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,997 |
 | Hot Air | 3.00% | ~3,997 |
 | Road Trip | 3.00% | ~3,997 |
-| This Looks Familiar | 2.00% | ~2,664 |
-| Ichthyophobic | 2.00% | ~2,664 |
-| No More Mouths to Feed | 2.00% | ~2,664 |
-| Worldly Traveller | 2.00% | ~2,664 |
-| Eyes Up | 2.00% | ~2,664 |
-| Handled | 2.00% | ~2,664 |
-| Body of Work | 2.00% | ~2,664 |
+| This Looks Familiar | 2.00% | ~2,665 |
+| Ichthyophobic | 2.00% | ~2,665 |
+| No More Mouths to Feed | 2.00% | ~2,665 |
+| Worldly Traveller | 2.00% | ~2,665 |
+| Eyes Up | 2.00% | ~2,665 |
+| Handled | 2.00% | ~2,665 |
+| Body of Work | 2.00% | ~2,665 |
 | Clearing the Ledger | 1.00% | ~1,332 |
 | Hat Trick | 1.00% | ~1,332 |
 | Shrine of Reflection | 1.00% | ~1,332 |
@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.70% | ~933 |
 | Eidetic | 0.60% | ~799 |
 | On This Long Road, We Found Redemption | 0.60% | ~49 |
-| Battle Hardened | 0.50% | ~40 |
+| Battle Hardened | 0.50% | ~41 |
 | Tears in the Rain | 0.40% | ~533 |
 | Maître De La Lame | 0.40% | ~32 |
 | Circle of Life | 0.30% | ~400 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,224 (Ranked 92)  
+Progressed: 133,233 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,224 | 5 |
+| 2024-01-19 | 133,233 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,756 (Ranked 58)  

@@ -107,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
+| Bad Heir Day | 0.70% | ~119 |
 | Invincible | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.70% | ~119 |
 | Jerwan Aqueduct | 0.70% | ~119 |
 | Royal Library | 0.70% | ~119 |
-| Bad Heir Day | 0.60% | ~102 |
 | Devout | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
 | Clerics | 0.60% | ~102 |
@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
+| Play a Free-For-All Game (>2 Players) | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Beja Archer | 0.30% | ~51 |
@@ -166,6 +167,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Cleopatra's Love | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
+| Holy | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
 | Magnificent Difficulty | 0.20% | ~34 |
 | Event Level High | 0.20% | ~34 |
@@ -178,7 +180,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.20% | ~34 |
 | Hatti | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
-| Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
 | Circus Maximus in Roma | 0.20% | ~34 |
 | Capturing Cities | 0.20% | ~34 |
 | Three Man Chariot | 0.20% | ~34 |
@@ -218,7 +219,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage Campaign | 0.10% | ~17 |
 | Avenger | 0.10% | ~17 |
 | Destroyer | 0.10% | ~17 |
-| Holy | 0.10% | ~17 |
 | Rebuilder | 0.10% | ~17 |
 | Restorer | 0.10% | ~17 |
 | White Death | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,998 (Ranked 170)  
+Progressed: 17,001 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 16,998 | 5 |
+| 2024-01-19 | 17,001 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,939 (Ranked 224)  

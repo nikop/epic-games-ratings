@@ -2,9 +2,9 @@
   "ID": "6c2272d1b5f64cb483a3c1088021b39a",
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
-  "Ranking_EOS_Progress": 281,
+  "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1347,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4854,6 +4854,11 @@
       "Time": "2024-01-18T23:10:47.4011595+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T19:10:16.1034654+00:00",
+      "NumProgressed": 1347,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4865,7 +4870,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "adventurous_2",
@@ -4935,9 +4940,9 @@
       "ID": "catacombs_raid_1",
       "SetID": "53c1p3k",
       "Name": "Catacombs Raid 1",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 54
     },
     {
       "ID": "catacombs_raid_2",
@@ -4985,7 +4990,7 @@
       "Name": "Conqueror 1",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "conqueror_2",
@@ -5033,7 +5038,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "elemental_stones_2",
@@ -5079,9 +5084,9 @@
       "ID": "from_day_to_day_1",
       "SetID": "53c1p3k",
       "Name": "From Day to Day 1",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 67
     },
     {
       "ID": "from_day_to_day_2",
@@ -5273,7 +5278,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -5392,14 +5397,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1347,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:10:09.8935215+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:10:16.1034649+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.5682133+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:09.3698392+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:10:09.8935813+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:12.5641101+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:10:16.1035306+00:00"
 }

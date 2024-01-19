@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16558,
+  "EOS_Progressed": 16559,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -18579,6 +18579,11 @@
       "Time": "2024-01-19T18:09:55.4595337+00:00",
       "NumProgressed": 16558,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2024-01-19T19:10:01.6697794+00:00",
+      "NumProgressed": 16559,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 34,
@@ -18678,7 +18683,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACH13",
@@ -18750,7 +18755,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7782
+      "UsersEstimate": 7783
     },
     {
       "ID": "ACH22",
@@ -18806,7 +18811,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "ACH29",
@@ -18861,7 +18866,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16558,
+      "Progressed": 16559,
       "Completed": 106
     }
   ],
@@ -18869,8 +18874,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:09:55.4595334+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:10:01.6697789+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:01.0827093+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:09:55.4596301+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:04.2824674+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:10:01.6698773+00:00"
 }

@@ -3075,9 +3075,9 @@
       "ID": "Goal",
       "SetID": "2aagp3d",
       "Name": "Goal!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 28
     },
     {
       "ID": "GoldRush",
@@ -3260,8 +3260,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:10:03.9210725+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:10:10.1199724+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.9247795+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:57:06.876301+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:10:03.9211076+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:57:10.0160071+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:10:10.1200081+00:00"
 }

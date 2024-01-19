@@ -20,8 +20,8 @@ Number of Ratings: 124  (23.09.2022)
 | Family Reunion | 19.00% | ~50 |
 | Pass A38 | 18.00% | ~48 |
 | Eternal Oblivion | 17.00% | ~45 |
-| Banker | 15.00% | ~40 |
-| Storyteller | 14.00% | ~37 |
+| Banker | 16.00% | ~42 |
+| Storyteller | 15.00% | ~40 |
 | Globetrotter | 14.00% | ~37 |
 | Berserker | 14.00% | ~37 |
 | Alb | 12.00% | ~32 |
@@ -34,7 +34,7 @@ Number of Ratings: 124  (23.09.2022)
 | Detective | 8.00% | ~21 |
 | Weaponsmith | 7.00% | ~19 |
 | Hotshot | 7.00% | ~19 |
-| Cleric | 6.00% | ~16 |
+| Cleric | 7.00% | ~19 |
 | Alchemist | 5.00% | ~13 |
 | Self-Sufficient | 4.00% | ~11 |
 | Unbreakable | 4.00% | ~11 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 265 (Ranked 419)  
+Progressed: 265 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |

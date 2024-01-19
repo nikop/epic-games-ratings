@@ -24,10 +24,10 @@ Rating: 4.68 (Ranked 265)
 | Sneak peek | 4.00% | ~37 |
 | Favorite | 4.00% | ~37 |
 | Queen | 4.00% | ~37 |
+| Goal! | 3.00% | ~28 |
 | Specialist | 3.00% | ~28 |
 | Witch's cookbook | 3.00% | ~28 |
 | Bad apple | 2.00% | ~18 |
-| Goal! | 2.00% | ~18 |
 | Gnowlledgeable | 2.00% | ~18 |
 | Both sides | 2.00% | ~18 |
 | Always worth a try | 2.00% | ~18 |

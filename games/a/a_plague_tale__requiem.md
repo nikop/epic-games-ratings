@@ -5,24 +5,24 @@ Rating: 4.73 (Ranked 183)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~16,858 |
-| Newcomers | 76.00% | ~14,079 |
-| A Burden of Blood | 70.00% | ~12,968 |
-| Protector's Duty | 67.00% | ~12,412 |
-| In our Wake | 65.00% | ~12,041 |
-| Alchemist | 65.00% | ~12,041 |
-| Leaving all Behind | 62.00% | ~11,486 |
-| Felons | 59.00% | ~10,930 |
-| A Sea of Promises | 57.00% | ~10,559 |
-| Tales and Revelations | 54.00% | ~10,004 |
-| Bloodline | 49.00% | ~9,077 |
-| The Cradle of Centuries | 45.00% | ~8,336 |
-| The Life We Deserve | 43.00% | ~7,966 |
-| Night guard | 41.00% | ~7,595 |
-| Nothing Left | 36.00% | ~6,669 |
-| Healing our Wounds | 34.00% | ~6,298 |
+| Under a New Sun | 91.00% | ~16,860 |
+| Newcomers | 76.00% | ~14,081 |
+| A Burden of Blood | 70.00% | ~12,969 |
+| Protector's Duty | 67.00% | ~12,413 |
+| In our Wake | 65.00% | ~12,043 |
+| Alchemist | 65.00% | ~12,043 |
+| Leaving all Behind | 62.00% | ~11,487 |
+| Felons | 59.00% | ~10,931 |
+| A Sea of Promises | 57.00% | ~10,560 |
+| Tales and Revelations | 54.00% | ~10,005 |
+| Bloodline | 49.00% | ~9,078 |
+| The Cradle of Centuries | 45.00% | ~8,337 |
+| The Life We Deserve | 43.00% | ~7,967 |
+| Night guard | 41.00% | ~7,596 |
+| Nothing Left | 36.00% | ~6,670 |
+| Healing our Wounds | 34.00% | ~6,299 |
 | Dying Sun | 31.00% | ~5,743 |
-| Improved crossbow | 25.00% | ~4,631 |
+| Improved crossbow | 25.00% | ~4,632 |
 | King Hugo | 23.00% | ~4,261 |
 | Perfect shot | 23.00% | ~4,261 |
 | Mercy | 23.00% | ~4,261 |
@@ -37,11 +37,11 @@ Rating: 4.73 (Ranked 183)
 | Ornithologist | 5.00% | ~926 |
 | Sneaky | 4.00% | ~741 |
 | Immortal memories | 3.00% | ~556 |
-| Old protector | 2.00% | ~370 |
+| Old protector | 2.00% | ~371 |
 | Explorer | 1.00% | ~185 |
 | Malignant | 1.00% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,525 (Ranked 163)  
+Progressed: 18,527 (Ranked 163)  
 Completed: 67 (0.36%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 67 (0.36%) (Ranked 251)
 | 2024-01-16 | 18,399 | 66 |
 | 2024-01-17 | 18,446 | 66 |
 | 2024-01-18 | 18,490 | 66 |
-| 2024-01-19 | 18,525 | 67 |
+| 2024-01-19 | 18,527 | 67 |
 ## Awards
 Max (Great Boss Battles): 468  (Ranked 229)  
 Sum: 733 (Ranked 307)  

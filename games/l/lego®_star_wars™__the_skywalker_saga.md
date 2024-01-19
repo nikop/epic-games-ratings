@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,225 |
-| ''I don't like you either!'' | 77.00% | ~45,899 |
-| ''Impressive, most impressive'' | 69.00% | ~41,130 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,130 |
-| The Phantom Menace | 56.00% | ~33,381 |
-| ''Aggressive Negotiations'' | 56.00% | ~33,381 |
-| ''I can fly anything'' | 54.00% | ~32,189 |
-| ''And who gave you permission...?'' | 51.00% | ~30,401 |
-| A New Hope | 45.00% | ~26,824 |
-| Attack of the Clones | 44.00% | ~26,228 |
-| Revenge of the Sith | 38.00% | ~22,651 |
-| The Empire Strikes Back | 35.00% | ~20,863 |
-| ''A fine addition to my collection'' | 35.00% | ~20,863 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,227 |
+| ''I don't like you either!'' | 77.00% | ~45,900 |
+| ''Impressive, most impressive'' | 69.00% | ~41,132 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,132 |
+| The Phantom Menace | 56.00% | ~33,382 |
+| ''Aggressive Negotiations'' | 56.00% | ~33,382 |
+| ''I can fly anything'' | 54.00% | ~32,190 |
+| ''And who gave you permission...?'' | 51.00% | ~30,402 |
+| A New Hope | 45.00% | ~26,825 |
+| Attack of the Clones | 44.00% | ~26,229 |
+| Revenge of the Sith | 38.00% | ~22,652 |
+| The Empire Strikes Back | 35.00% | ~20,864 |
+| ''A fine addition to my collection'' | 35.00% | ~20,864 |
 | Return of the Jedi | 30.00% | ~17,883 |
-| The Force Awakens | 25.00% | ~14,902 |
+| The Force Awakens | 25.00% | ~14,903 |
 | The Last Jedi | 21.00% | ~12,518 |
 | The Rise of Skywalker | 19.00% | ~11,326 |
 | ''It's true... all of it'' | 18.00% | ~10,730 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~596 |
 | ''I've never seen a real one!'' | 0.90% | ~536 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,609 (Ranked 120)  
+Progressed: 59,611 (Ranked 120)  
 Completed: 262 (0.44%) (Ranked 239)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 262 (0.44%) (Ranked 239)
 | 2024-01-16 | 59,517 | 262 |
 | 2024-01-17 | 59,553 | 262 |
 | 2024-01-18 | 59,589 | 262 |
-| 2024-01-19 | 59,609 | 262 |
+| 2024-01-19 | 59,611 | 262 |
 ## Awards
 Max (Great Boss Battles): 2,506  (Ranked 111)  
 Sum: 6,872 (Ranked 131)  

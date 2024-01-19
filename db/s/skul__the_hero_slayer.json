@@ -3,11 +3,11 @@
   "Name": "Skul: The Hero Slayer",
   "ProductSlug": "skul-the-hero-slayer",
   "Ranking_Rating": 151,
-  "Ranking_Popularity": 333,
+  "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 297,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1503,12 +1503,18 @@
       "Rating": 4.75,
       "NumberOfAwards": 1035,
       "NumberOfAwardsMax": 155
+    },
+    {
+      "Time": "2024-01-19T18:57:55.8084458+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1036,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1035,
-  "NumberOfAwardsMax": 155,
-  "MaxAwardTitle": "Diverse Characters",
+  "NumberOfAwards": 1036,
+  "NumberOfAwardsMax": 156,
+  "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1574,12 +1580,12 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 155
+      "Count": 156
     }
   ],
-  "EOS_Progressed": 14873,
+  "EOS_Progressed": 14874,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10407,6 +10413,11 @@
       "Time": "2024-01-19T18:09:20.9530103+00:00",
       "NumProgressed": 14873,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-19T19:09:26.4831909+00:00",
+      "NumProgressed": 14874,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -10450,7 +10461,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "DwarfChandelier",
@@ -10466,7 +10477,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5949
+      "UsersEstimate": 5950
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -10498,7 +10509,7 @@
       "Name": "Go Home...",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4164
+      "UsersEstimate": 4165
     },
     {
       "ID": "HeroSlayer",
@@ -10570,7 +10581,7 @@
       "Name": "Inventory Management",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4759
+      "UsersEstimate": 4760
     },
     {
       "ID": "TheLegendBegins",
@@ -10578,7 +10589,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13832
+      "UsersEstimate": 13833
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10586,7 +10597,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 7139
+      "UsersEstimate": 7140
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -10602,22 +10613,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11898
+      "UsersEstimate": 11899
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14873,
+      "Progressed": 14874,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-01-18T14:57:31.8456825+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:09:20.95301+00:00",
+  "LastChanged": "2024-01-19T18:57:55.8084456+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:09:26.4831903+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:57:52.1927275+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:09:20.9530794+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:57:55.8084463+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:09:26.4832456+00:00"
 }

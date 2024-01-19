@@ -2,9 +2,9 @@
   "ID": "76e9bc3f4ccd4061b471ee52735daf45",
   "Name": "Entomophobia",
   "ProductSlug": "entomophobia-5e766c",
-  "Ranking_EOS_Progress": 733,
+  "Ranking_EOS_Progress": 716,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2024-01-17T23:08:08.3981391+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T19:03:44.6607643+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -92,9 +97,9 @@
       "ID": "FIRST_LEVEL",
       "SetID": "73fploh",
       "Name": "Might",
-      "Percentage": 133,
+      "Percentage": 125,
       "XP": 10,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FIRST_UPGRADE",
@@ -140,7 +145,7 @@
       "ID": "PRESS_ESCAPE",
       "SetID": "73fploh",
       "Name": "Take a Breather",
-      "Percentage": 100,
+      "Percentage": 75,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -165,13 +170,13 @@
     {
       "ID": "73fploh",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-10-12T05:03:22.9962515+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:03:41.2302151+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:03:44.6607637+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.3103267+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:59:36.7960019+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:03:41.2302239+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:37.9432427+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:03:44.6607724+00:00"
 }

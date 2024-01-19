@@ -49,9 +49,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Manti | 0.60% | ~45 |
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
+| Ask Not What Your Empire Can Do For You | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
-| Ask Not What Your Empire Can Do For You | 0.40% | ~30 |
-| Hyperspace! | 0.30% | ~23 |
+| Hyperspace! | 0.40% | ~30 |
 | Veteran Crew | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |

@@ -3,7 +3,7 @@
   "Name": "The Dungeon of Naheulbeuk",
   "ProductSlug": "the-dungeon-of-naheulbeuk",
   "Ranking_Rating": 454,
-  "Ranking_Popularity": 278,
+  "Ranking_Popularity": 277,
   "Ranking_PopularitySum": 331,
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 406,
@@ -1711,18 +1711,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 575,
       "NumberOfAwardsMax": 272
+    },
+    {
+      "Time": "2024-01-19T18:57:42.8675178+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 576,
+      "NumberOfAwardsMax": 273
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 575,
-  "NumberOfAwardsMax": 272,
+  "NumberOfAwards": 576,
+  "NumberOfAwardsMax": 273,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 272
+      "Count": 273
     },
     {
       "Text": "This game is Relaxing",
@@ -1779,9 +1785,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248754,
+  "EOS_Progressed": 248763,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 992,
+  "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26794,6 +26800,11 @@
       "Time": "2024-01-19T18:10:11.9704972+00:00",
       "NumProgressed": 248754,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-19T19:10:18.1593654+00:00",
+      "NumProgressed": 248763,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26837,7 +26848,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9950
+      "UsersEstimate": 9951
     },
     {
       "ID": "BookCollection",
@@ -26853,7 +26864,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19900
+      "UsersEstimate": 19901
     },
     {
       "ID": "Chapter2",
@@ -26869,7 +26880,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9950
+      "UsersEstimate": 9951
     },
     {
       "ID": "Chapter4",
@@ -27205,7 +27216,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22388
+      "UsersEstimate": 22389
     },
     {
       "ID": "DwarfElf15Support",
@@ -27237,7 +27248,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14925
+      "UsersEstimate": 14926
     },
     {
       "ID": "ElfEpic",
@@ -27253,7 +27264,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92039
+      "UsersEstimate": 92042
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27301,7 +27312,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27363
+      "UsersEstimate": 27364
     },
     {
       "ID": "FollowBraztok",
@@ -27453,7 +27464,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14925
+      "UsersEstimate": 14926
     },
     {
       "ID": "SupportCount4",
@@ -27508,21 +27519,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248754,
+      "Progressed": 248763,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248754,
+      "Progressed": 248763,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
-  "LastChanged": "2024-01-19T03:57:31.5798585+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:10:11.970497+00:00",
+  "LastChanged": "2024-01-19T18:57:42.8675176+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:10:18.1593647+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:57:37.4417664+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:10:11.9706699+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:57:42.8675181+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:10:18.1595465+00:00"
 }

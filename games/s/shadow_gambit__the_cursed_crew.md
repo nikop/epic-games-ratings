@@ -16,7 +16,7 @@ Rating: 4.82 (Ranked 69)
 | Powder Monkey | 26.00% | ~402 |
 | Pirates Assemble! | 24.00% | ~371 |
 | Buccaneer | 21.00% | ~325 |
-| Fishy Fish | 20.00% | ~309 |
+| Fishy Fish | 21.00% | ~325 |
 | All Good Things | 19.00% | ~294 |
 | Persistent Parasite | 17.00% | ~263 |
 | Seadog | 15.00% | ~232 |

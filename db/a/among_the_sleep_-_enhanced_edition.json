@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 234,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -506,9 +506,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99641,
+  "EOS_Progressed": 99647,
   "EOS_Completed": 459,
-  "EOS_NewPlayers": 675,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -31136,6 +31136,11 @@
       "Time": "2024-01-19T18:09:14.1157074+00:00",
       "NumProgressed": 99641,
       "NumCompleted": 459
+    },
+    {
+      "Time": "2024-01-19T19:09:19.33625+00:00",
+      "NumProgressed": 99647,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 10,
@@ -31171,7 +31176,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "Drawings04",
@@ -31203,7 +31208,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9964
+      "UsersEstimate": 9965
     },
     {
       "ID": "Level00BowlingStrike",
@@ -31211,7 +31216,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34874
+      "UsersEstimate": 34876
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -31226,15 +31231,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 99641,
+      "Progressed": 99647,
       "Completed": 459
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-01-18T16:03:39.3756738+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:09:14.1157069+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:09:19.3362495+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.2995243+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:03:07.7974997+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:09:14.1158473+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:03:08.6804202+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:09:19.3364109+00:00"
 }

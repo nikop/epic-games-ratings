@@ -10,17 +10,17 @@ Number of Ratings: 368  (23.09.2022)
 | Man of politics | 34.00% | ~6,106 |
 | Friends of sorts | 32.00% | ~5,747 |
 | Yet another secret | 32.00% | ~5,747 |
-| Let there be darkness | 31.00% | ~5,567 |
+| Let there be darkness | 31.00% | ~5,568 |
 | End of Book One | 29.00% | ~5,208 |
 | Wannabe knight | 23.00% | ~4,131 |
 | Garden of Eden | 23.00% | ~4,131 |
 | Full house | 23.00% | ~4,131 |
-| Help an old friend | 21.00% | ~3,771 |
+| Help an old friend | 21.00% | ~3,772 |
 | Two of us | 20.00% | ~3,592 |
 | Negotiation skills | 18.00% | ~3,233 |
 | Workers' union | 18.00% | ~3,233 |
 | End of Book Two | 18.00% | ~3,233 |
-| Everything's in order | 16.00% | ~2,873 |
+| Everything's in order | 16.00% | ~2,874 |
 | Twist of Fate | 14.00% | ~2,514 |
 | Jack was here! | 14.00% | ~2,514 |
 | Exterminator | 13.00% | ~2,335 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~539 |
 | Boy of mystery | 2.00% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,959 (Ranked 166)  
+Progressed: 17,960 (Ranked 166)  
 Completed: 125 (0.70%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 125 (0.70%) (Ranked 205)
 | 2024-01-16 | 17,908 | 125 |
 | 2024-01-17 | 17,923 | 125 |
 | 2024-01-18 | 17,936 | 125 |
-| 2024-01-19 | 17,959 | 125 |
+| 2024-01-19 | 17,960 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 331)  
 Sum: 200 (Ranked 419)  

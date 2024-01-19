@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258277,
+  "EOS_Progressed": 258278,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 645,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31302,6 +31302,11 @@
       "Time": "2024-01-19T18:04:06.3820808+00:00",
       "NumProgressed": 258277,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T19:04:09.0277848+00:00",
+      "NumProgressed": 258278,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31457,7 +31462,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74900
+      "UsersEstimate": 74901
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -31505,7 +31510,7 @@
       "Name": "Let\u0027s try another",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "ACH_LETSBEACH",
@@ -31529,7 +31534,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64569
+      "UsersEstimate": 64570
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31633,7 +31638,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64569
+      "UsersEstimate": 64570
     },
     {
       "ID": "ACH_SOREAD",
@@ -31728,7 +31733,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258277,
+      "Progressed": 258278,
       "Completed": 8
     }
   ],
@@ -31736,8 +31741,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:04:06.3820804+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:04:09.0277843+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-19T18:02:43.3453731+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:04:06.3822688+00:00"
+  "LastUpdate_Ratings": "2024-01-19T19:02:44.9987903+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:04:09.0279351+00:00"
 }

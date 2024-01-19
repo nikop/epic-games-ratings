@@ -6,21 +6,21 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,464 |
-| Ready for Winter | 61.00% | ~2,935 |
-| Ready for Summer | 48.00% | ~2,309 |
-| Cordon Bleu | 40.00% | ~1,924 |
+| Venture Outward | 72.00% | ~3,465 |
+| Ready for Winter | 61.00% | ~2,936 |
+| Ready for Summer | 48.00% | ~2,310 |
+| Cordon Bleu | 40.00% | ~1,925 |
 | Tapped! | 34.00% | ~1,636 |
-| Eureka | 30.00% | ~1,443 |
+| Eureka | 30.00% | ~1,444 |
 | Scourge Slayer | 23.00% | ~1,107 |
-| Exceptional Skill | 21.00% | ~1,010 |
-| Science, Troglodyte! | 21.00% | ~1,010 |
-| Home Sweet Home | 20.00% | ~962 |
+| Exceptional Skill | 21.00% | ~1,011 |
+| Science, Troglodyte! | 21.00% | ~1,011 |
+| Home Sweet Home | 20.00% | ~963 |
 | Encyclopedic! | 18.00% | ~866 |
 | The Power of Family | 15.00% | ~722 |
 | A Fortress Toppled! | 14.00% | ~674 |
 | Apex Predator | 14.00% | ~674 |
-| The Power of Faith | 12.00% | ~577 |
+| The Power of Faith | 12.00% | ~578 |
 | Strange amalgams | 11.00% | ~529 |
 | The Power of Freedom | 8.00% | ~385 |
 | Ace Detective | 7.00% | ~337 |
@@ -32,9 +32,9 @@ Number of Ratings: 266  (23.09.2022)
 | The power of ambition | 6.00% | ~289 |
 | Blood and justice | 5.00% | ~241 |
 | The stuff of legends. | 5.00% | ~241 |
-| Ancestor's Pride | 4.00% | ~192 |
-| For All Aurai | 4.00% | ~192 |
-| Memory of a legend | 4.00% | ~192 |
+| Ancestor's Pride | 4.00% | ~193 |
+| For All Aurai | 4.00% | ~193 |
+| Memory of a legend | 4.00% | ~193 |
 | Light of Levant | 3.00% | ~144 |
 | Crowd Pleaser. | 2.00% | ~96 |
 | Perfect Defense | 2.00% | ~96 |
@@ -43,13 +43,13 @@ Number of Ratings: 266  (23.09.2022)
 | Your actions define you | 2.00% | ~96 |
 | The blood is life | 1.00% | ~48 |
 | Vanquisher of nightmares | 1.00% | ~48 |
-| They'll Tell Stories About This | 0.80% | ~38 |
+| They'll Tell Stories About This | 0.80% | ~39 |
 | Through fire and flame. | 0.60% | ~29 |
 | Legacy of a master hunter | 0.40% | ~19 |
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,811 (Ranked 209)  
+Progressed: 4,813 (Ranked 209)  
 Completed: 5 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 5 (0.10%) (Ranked 317)
 | 2024-01-16 | 4,794 | 5 |
 | 2024-01-17 | 4,801 | 5 |
 | 2024-01-18 | 4,806 | 5 |
-| 2024-01-19 | 4,811 | 5 |
+| 2024-01-19 | 4,813 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 507)  
 Sum: 246 (Ranked 405)  

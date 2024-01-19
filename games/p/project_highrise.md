@@ -13,10 +13,10 @@
 | Need a Consult | 33.00% | ~176 |
 | Upgrade Unlock | 32.00% | ~171 |
 | It's Technical | 32.00% | ~171 |
-| Delegate Maintenance | 29.00% | ~155 |
-| Proper Walls | 28.00% | ~149 |
-| Destination Destiny | 28.00% | ~149 |
-| Happy Tenants | 23.00% | ~123 |
+| Proper Walls | 28.00% | ~150 |
+| Delegate Maintenance | 28.00% | ~150 |
+| Destination Destiny | 28.00% | ~150 |
+| Happy Tenants | 22.00% | ~117 |
 | Your Prestige is Rising | 22.00% | ~117 |
 | Potent Potables | 22.00% | ~117 |
 | Smooth Service | 22.00% | ~117 |
@@ -25,10 +25,10 @@
 | Artfully Done | 18.00% | ~96 |
 | People Mover | 18.00% | ~96 |
 | Leveled Up Shops | 18.00% | ~96 |
-| Lux Living | 17.00% | ~91 |
 | Emporium Empire | 17.00% | ~91 |
 | We Don't Need No Education | 17.00% | ~91 |
 | Get Electrified | 17.00% | ~91 |
+| Lux Living | 16.00% | ~85 |
 | Tasty Profits | 16.00% | ~85 |
 | Rehab Expert | 15.00% | ~80 |
 | Established Fame | 15.00% | ~80 |
@@ -49,10 +49,8 @@
 | Phoning It In | 7.00% | ~37 |
 | Water Features | 6.00% | ~32 |
 | Golden Opportunity | 6.00% | ~32 |
-| I'm Busy Ruling | 5.00% | ~27 |
 | Careful Constructor | 5.00% | ~27 |
 | Meet Me at HQ | 5.00% | ~27 |
-| Sky High Stature | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
 | Maximum Reuse | 5.00% | ~27 |
 | Revenue Royalty | 5.00% | ~27 |
@@ -61,28 +59,30 @@
 | Meet ADA/360 | 4.00% | ~21 |
 | Penthouse in the Sky | 4.00% | ~21 |
 | Baron of Business | 4.00% | ~21 |
+| I'm Busy Ruling | 4.00% | ~21 |
+| Sky High Stature | 4.00% | ~21 |
 | Tuned In | 4.00% | ~21 |
 | Decorator's Touch | 3.00% | ~16 |
 | Office Bigwigs | 3.00% | ~16 |
 | Three of a Kind | 3.00% | ~16 |
 | Sandbagger | 3.00% | ~16 |
 | Apartment Awareness | 2.00% | ~11 |
-| Loft Life | 2.00% | ~11 |
 | Glut of Gastronomy | 2.00% | ~11 |
 | Luxury Boutiques | 2.00% | ~11 |
-| Royal Flush | 2.00% | ~11 |
-| The King of Cool | 2.00% | ~11 |
 | Four of a Kind | 2.00% | ~11 |
 | In the Money | 2.00% | ~11 |
 | It is Payday | 2.00% | ~11 |
-| Scenario Success | 2.00% | ~11 |
 | Curated Class | 1.00% | ~5 |
+| Loft Life | 1.00% | ~5 |
 | Plebs Are Needed | 1.00% | ~5 |
 | Full House | 1.00% | ~5 |
+| Royal Flush | 1.00% | ~5 |
+| The King of Cool | 1.00% | ~5 |
 | Such Great Heights | 1.00% | ~5 |
+| Scenario Success | 1.00% | ~5 |
 | Lofty Landlord | 0.90% | ~5 |
-| High Hand | 0.80% | ~4 |
-| Double Down | 0.80% | ~4 |
+| High Hand | 0.70% | ~4 |
+| Double Down | 0.70% | ~4 |
 | Artistic Largesse | 0.60% | ~3 |
 | Scenario Master | 0.60% | ~3 |
 | Poker Face | 0.40% | ~2 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 533 (Ranked 353)  
+Progressed: 534 (Ranked 353)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 531 | 0 |
 | 2024-01-17 | 532 | 0 |
 | 2024-01-18 | 533 | 0 |
+| 2024-01-19 | 534 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

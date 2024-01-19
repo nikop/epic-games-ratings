@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 174,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12437,
+  "EOS_Progressed": 12439,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -16146,6 +16146,11 @@
       "Time": "2024-01-19T17:05:31.6975502+00:00",
       "NumProgressed": 12437,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-19T19:04:32.7103675+00:00",
+      "NumProgressed": 12439,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 29,
@@ -16157,7 +16162,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10323
+      "UsersEstimate": 10324
     },
     {
       "ID": "ACH02",
@@ -16165,7 +16170,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4353
+      "UsersEstimate": 4354
     },
     {
       "ID": "ACH03",
@@ -16181,7 +16186,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4850
+      "UsersEstimate": 4851
     },
     {
       "ID": "ACH05",
@@ -16197,7 +16202,7 @@
       "Name": "Street Sweeper",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "ACH07",
@@ -16269,7 +16274,7 @@
       "Name": "Full Artillery",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACH16",
@@ -16388,7 +16393,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12437,
+      "Progressed": 12439,
       "Completed": 93
     }
   ],
@@ -16396,8 +16401,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-19T18:04:29.531674+00:00",
+  "LastChanged_Achievements": "2024-01-19T19:04:32.7103669+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:58:58.0036343+00:00",
-  "LastUpdate_Achievements": "2024-01-19T18:04:29.5317746+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:59:01.1809451+00:00",
+  "LastUpdate_Achievements": "2024-01-19T19:04:32.7104495+00:00"
 }
