@@ -8,9 +8,9 @@ Number of Ratings: 2,500  (23.09.2022)
 | ---- | ---------- | ----- |
 | Conqueror | 40.00% | ~13,528 |
 | Battering Crew | 19.00% | ~6,426 |
-| The Kingsroad | 17.00% | ~5,749 |
-| Well Stocked | 13.00% | ~4,396 |
-| Royal Fleet | 12.00% | ~4,058 |
+| The Kingsroad | 17.00% | ~5,750 |
+| Well Stocked | 13.00% | ~4,397 |
+| Royal Fleet | 12.00% | ~4,059 |
 | The Kraken’s Grasp | 9.00% | ~3,044 |
 | Alliance | 8.00% | ~2,706 |
 | Winter is Coming | 7.00% | ~2,367 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~676 |
 | War of the Five Kings | 1.00% | ~338 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,819 (Ranked 140)  
+Progressed: 33,821 (Ranked 140)  
 Completed: 88 (0.26%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,11 +303,11 @@ Completed: 88 (0.26%) (Ranked 272)
 | 2024-01-16 | 33,616 | 88 |
 | 2024-01-17 | 33,694 | 88 |
 | 2024-01-18 | 33,780 | 88 |
-| 2024-01-19 | 33,819 | 88 |
+| 2024-01-19 | 33,821 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 354)  
-Sum: 816 (Ranked 293)  
-Diff (max vs sum): 61  
+Sum: 816 (Ranked 294)  
+Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 129 |

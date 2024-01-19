@@ -103,6 +103,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.80% | ~136 |
 | Via Recta Souk | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
+| Assyrian Paganism | 0.80% | ~136 |
 | Military Prestige | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
@@ -111,7 +112,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong Difficulty | 0.70% | ~119 |
 | Hunters | 0.70% | ~119 |
 | Babylonia | 0.70% | ~119 |
-| Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
 | Enlightenment | 0.70% | ~119 |
 | Gnosticism | 0.70% | ~119 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,993 (Ranked 170)  
+Progressed: 16,995 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 16,993 | 5 |
+| 2024-01-19 | 16,995 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,939 (Ranked 223)  

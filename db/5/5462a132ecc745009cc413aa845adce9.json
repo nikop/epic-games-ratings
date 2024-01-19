@@ -2,10 +2,10 @@
   "ID": "5462a132ecc745009cc413aa845adce9",
   "Name": "Candy Disaster",
   "ProductSlug": "candy-disaster-3f72ef",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-11-11T16:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T05:57:12.2246158+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:35.2666989+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:06:10.2676089+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:58:21.5633961+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:06:00.385749+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "fae3c63acffa4e4b8e2401ba0bb9b92c",
   "Name": "Splatter - Zombiecalypse Now",
   "ProductSlug": "splatter-zombiecalypse-now-73f9d2",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T10:00:00+00:00",
     "PcReleaseDate": "2014-03-06T16:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:44.118573+00:00",
   "LastChanged": "2023-03-31T05:58:44.1185732+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.837416+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:03:25.5604365+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:06:54.5736665+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:03:21.7464262+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:06:44.7621164+00:00"
 }

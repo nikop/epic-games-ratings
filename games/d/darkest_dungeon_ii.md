@@ -7,7 +7,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,132 |
-| Lost and Found | 9.00% | ~727 |
+| Lost and Found | 9.00% | ~728 |
 | Autodidact | 8.00% | ~10,657 |
 | This Belongs in a Museum | 7.00% | ~9,325 |
 | Overdue Notice | 7.00% | ~9,325 |
@@ -46,14 +46,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,329 |
 | A Clear Conscience | 4.00% | ~5,329 |
 | Unshackled | 4.00% | ~5,329 |
-| Hope Rekindled | 3.00% | ~3,996 |
-| Predator | 3.00% | ~3,996 |
-| Deprogramming | 3.00% | ~3,996 |
-| Reverse Banditry | 3.00% | ~3,996 |
-| When You Want Something Done Right | 3.00% | ~3,996 |
-| Utopia | 3.00% | ~3,996 |
-| Hot Air | 3.00% | ~3,996 |
-| Road Trip | 3.00% | ~3,996 |
+| Hope Rekindled | 3.00% | ~3,997 |
+| Predator | 3.00% | ~3,997 |
+| Deprogramming | 3.00% | ~3,997 |
+| Reverse Banditry | 3.00% | ~3,997 |
+| When You Want Something Done Right | 3.00% | ~3,997 |
+| Utopia | 3.00% | ~3,997 |
+| Hot Air | 3.00% | ~3,997 |
+| Road Trip | 3.00% | ~3,997 |
 | This Looks Familiar | 2.00% | ~2,664 |
 | Ichthyophobic | 2.00% | ~2,664 |
 | No More Mouths to Feed | 2.00% | ~2,664 |
@@ -70,10 +70,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | For Old Time' Sake | 1.00% | ~81 |
 | Et Tu, Riposte? | 0.90% | ~73 |
 | The World As It Was | 0.80% | ~1,066 |
-| A Life Well Lived | 0.70% | ~932 |
-| Bacon Bits | 0.70% | ~932 |
+| A Life Well Lived | 0.70% | ~933 |
+| Bacon Bits | 0.70% | ~933 |
 | Eidetic | 0.60% | ~799 |
-| On This Long Road, We Found Redemption | 0.60% | ~48 |
+| On This Long Road, We Found Redemption | 0.60% | ~49 |
 | Battle Hardened | 0.50% | ~40 |
 | Tears in the Rain | 0.40% | ~533 |
 | Maître De La Lame | 0.40% | ~32 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,214 (Ranked 92)  
+Progressed: 133,217 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,214 | 5 |
+| 2024-01-19 | 133,217 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,754 (Ranked 58)  

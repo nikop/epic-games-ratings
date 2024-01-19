@@ -2,13 +2,13 @@
   "ID": "6bff1c13a8884b518bd44acaf691ddba",
   "Name": "MudRunner",
   "ProductSlug": "mudrunner",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 262,
   "Ranking_PopularitySum": 222,
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-11-26T16:00:00+00:00",
     "PcReleaseDate": "2020-11-26T16:00:00+00:00",
@@ -3671,10 +3671,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 1991,
       "NumberOfAwardsMax": 304
+    },
+    {
+      "Time": "2024-01-19T16:57:58.432474+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 1992,
+      "NumberOfAwardsMax": 304
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1991,
+  "NumberOfAwards": 1992,
   "NumberOfAwardsMax": 304,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3742,7 +3748,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 144
+      "Count": 145
     }
   ],
   "EOS_Progressed": 0,
@@ -3756,8 +3762,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:58.5631341+00:00",
-  "LastChanged": "2024-01-18T00:00:37.15705+00:00",
+  "LastChanged": "2024-01-19T16:57:58.4324738+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.8661063+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:10.6060023+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:05:28.6261015+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:58.4324744+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:05:19.8153314+00:00"
 }

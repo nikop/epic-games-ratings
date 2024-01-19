@@ -2,10 +2,10 @@
   "ID": "269f94247b4f471b9381fd4052bf1fad",
   "Name": "Born of Bread",
   "ProductSlug": "born-of-bread-008e66",
-  "Ranking_EOS_Progress": 558,
+  "Ranking_EOS_Progress": 559,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 493,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 53,
+  "EOS_Progressed": 54,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -284,6 +284,11 @@
       "Time": "2024-01-13T01:57:09.6206074+00:00",
       "NumProgressed": 53,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T17:09:40.5809264+00:00",
+      "NumProgressed": 54,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-05T15:04:34.1379111+00:00",
@@ -374,7 +379,7 @@
       "ID": "ACH_FIRST-PAYCHECK",
       "SetID": "6lg1p1e",
       "Name": "First Paycheck",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 10,
       "UsersEstimate": 22
     },
@@ -382,7 +387,7 @@
       "ID": "ACH_FRIENEMY",
       "SetID": "6lg1p1e",
       "Name": "Frienemy",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 4
     },
@@ -446,7 +451,7 @@
       "ID": "ACH_MISCHIEVOUS-BREAD",
       "SetID": "6lg1p1e",
       "Name": "Mischievous Bread",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -480,7 +485,7 @@
       "Name": "Partner",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACH_PHOTOGRAPHIC-MEMORY",
@@ -510,7 +515,7 @@
       "ID": "ACH_PRO-EXCAVATOR",
       "SetID": "6lg1p1e",
       "Name": "Pro Excavator",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
       "UsersEstimate": 12
     },
@@ -534,7 +539,7 @@
       "ID": "ACH_RATATOUIED",
       "SetID": "6lg1p1e",
       "Name": "Ratatouied",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -542,7 +547,7 @@
       "ID": "ACH_ROYAL-PARDON",
       "SetID": "6lg1p1e",
       "Name": "Royal Pardon",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 10,
       "UsersEstimate": 4
     },
@@ -566,7 +571,7 @@
       "ID": "ACH_WHACK-A-MOLE",
       "SetID": "6lg1p1e",
       "Name": "Whack-a-mole",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 20,
       "UsersEstimate": 24
     },
@@ -583,14 +588,14 @@
     {
       "ID": "6lg1p1e",
       "IsBase": true,
-      "Progressed": 53,
+      "Progressed": 54,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:09:56.5448438+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:09:40.580926+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.669194+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:57:18.8104582+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:09:56.5448735+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:07.603457+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:09:40.5809544+00:00"
 }

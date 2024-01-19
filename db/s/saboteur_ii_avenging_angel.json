@@ -2,10 +2,10 @@
   "ID": "7bef045c12144d119dc3684bddee48c7",
   "Name": "Saboteur II Avenging Angel",
   "ProductSlug": "saboteur-ii-avenging-angel-33e83c",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-28T18:00:00+00:00",
     "PcReleaseDate": "2023-04-28T18:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-03T20:59:07.5803995+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:45.9873859+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:36.4169855+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:09:58.8133512+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:58:22.6355446+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:09:42.671308+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14509,10 +14509,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65146,
       "NumberOfAwardsMax": 7890
+    },
+    {
+      "Time": "2024-01-19T16:59:16.718839+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65177,
+      "NumberOfAwardsMax": 7890
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65146,
+  "NumberOfAwards": 65177,
   "NumberOfAwardsMax": 7890,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14526,13 +14532,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7516
+      "Count": 7533
     },
     {
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7749
+      "Count": 7763
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14583,9 +14589,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 501687,
+  "EOS_Progressed": 501730,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4387,
+  "EOS_NewPlayers": 4391,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46253,6 +46259,11 @@
       "Time": "2024-01-19T16:11:25.4476899+00:00",
       "NumProgressed": 501687,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T17:11:08.9586286+00:00",
+      "NumProgressed": 501730,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -49167,21 +49178,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 501687,
+      "Progressed": 501730,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 501687,
+      "Progressed": 501730,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-19T14:58:33.0456067+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:11:25.4476896+00:00",
+  "LastChanged": "2024-01-19T16:59:16.7188389+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:11:08.9586283+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:59:28.4846029+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:11:25.4487397+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:59:16.7188397+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:11:08.9597503+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.54 (Ranked 551)
 | Martian Music | 14.00% | ~2,682 |
 | Bosmang | 14.00% | ~2,682 |
 | Impossible Objects | 14.00% | ~2,682 |
-| Drone Dodger | 13.00% | ~2,490 |
+| Drone Dodger | 13.00% | ~2,491 |
 | Stogie for Fogey | 12.00% | ~2,299 |
 | Spore Taste | 12.00% | ~2,299 |
 | Zen Master | 11.00% | ~562 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 551)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,157 (Ranked 160)  
+Progressed: 19,158 (Ranked 160)  
 Completed: 66 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 66 (0.34%) (Ranked 254)
 | 2024-01-16 | 19,084 | 66 |
 | 2024-01-17 | 19,116 | 66 |
 | 2024-01-18 | 19,145 | 66 |
-| 2024-01-19 | 19,157 | 66 |
+| 2024-01-19 | 19,158 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "worldless-49eae3",
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-21T14:00:00+00:00",
     "PcReleaseDate": "2023-11-21T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 180,
+  "EOS_Progressed": 181,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -799,6 +799,11 @@
       "Time": "2024-01-16T18:09:02.7301771+00:00",
       "NumProgressed": 180,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T17:09:00.5025942+00:00",
+      "NumProgressed": 181,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-17T13:09:54.2114838+00:00",
@@ -875,7 +880,7 @@
       "Name": "All clean",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_DARK_PALADIN_ABSORBED",
@@ -883,7 +888,7 @@
       "Name": "Dark Paladin",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_DEMON_ABSORBED",
@@ -915,7 +920,7 @@
       "Name": "Edda and Aven",
       "Percentage": 13,
       "XP": 60,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "ACH_FIRST_ABSORPTION",
@@ -923,7 +928,7 @@
       "Name": "Absorption",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_LIGHTNING_NIGHTMARE_ABSORBED",
@@ -1002,14 +1007,14 @@
     {
       "ID": "cagp2pi",
       "IsBase": true,
-      "Progressed": 180,
+      "Progressed": 181,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-24T04:57:19.514+00:00",
   "FirstSeenAchievements": "2023-11-17T13:09:54.2114838+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:09:15.6875627+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:09:00.5025939+00:00",
   "LastUpdate_AppInfo": "2024-01-12T17:56:54.348231+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:12.511412+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:09:15.687577+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:58:00.3314273+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:09:00.5026122+00:00"
 }

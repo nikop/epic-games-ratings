@@ -2,10 +2,10 @@
   "ID": "070a016061db4e2d96e3cb7767487091",
   "Name": "Dog Duty",
   "ProductSlug": "dog-duty-c07002",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-02T05:00:00+00:00",
     "PcReleaseDate": "2020-09-17T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:13.3866931+00:00",
   "LastChanged": "2023-03-31T05:57:13.3866932+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:47.2731038+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:03:20.7154994+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:08:41.6135423+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:03:17.3311629+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:08:27.8491982+00:00"
 }

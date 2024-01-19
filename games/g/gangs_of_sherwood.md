@@ -24,12 +24,12 @@
 | First Aid | 21.00% | ~26 |
 | Merry Go Round | 19.00% | ~24 |
 | Savior | 17.00% | ~21 |
+| Hidden Experiment | 16.00% | ~20 |
 | Take Action! | 16.00% | ~20 |
 | Ultra Combo | 15.00% | ~19 |
 | Ascending Will | 14.00% | ~18 |
-| Hidden Experiment | 14.00% | ~18 |
+| Sky High Fighter | 10.00% | ~12 |
 | Into the Lion's Den | 10.00% | ~12 |
-| Sky High Fighter | 9.00% | ~11 |
 | Haute Couture | 9.00% | ~11 |
 | The Gang prevails | 6.00% | ~8 |
 | Brilliant Executioner | 5.00% | ~6 |

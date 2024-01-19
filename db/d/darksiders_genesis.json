@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 329,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,7 +445,7 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 706,
+  "EOS_Progressed": 707,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
@@ -2510,6 +2510,11 @@
       "Time": "2024-01-19T15:10:13.61915+00:00",
       "NumProgressed": 706,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T17:10:50.3811627+00:00",
+      "NumProgressed": 707,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2744,9 +2749,9 @@
       "ID": "WhydItHavetoBeSnakes",
       "SetID": "329ak73",
       "Name": "Why\u0027d It Have to Be Snakes?",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "WickedKillington",
@@ -2761,15 +2766,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 706,
+      "Progressed": 707,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:11:06.0198865+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:10:50.3811623+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:28.2193344+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:01:35.0767337+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:11:06.0199099+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:01:22.2223773+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:10:50.3811917+00:00"
 }

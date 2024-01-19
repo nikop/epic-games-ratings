@@ -5,14 +5,14 @@ Rating: 4.16 (Ranked 997)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,174 |
-| Unlocked Potential | 12.00% | ~5,699 |
-| Tinkerer | 9.00% | ~4,274 |
-| Leapfrogger | 8.00% | ~3,799 |
-| Knock 'Em Dead | 8.00% | ~3,799 |
-| Pilgrimage: Initiate | 8.00% | ~3,799 |
-| Hell of a Run | 8.00% | ~3,799 |
-| Call of the Fount: Baptized | 7.00% | ~3,324 |
+| Attachments | 13.00% | ~6,175 |
+| Unlocked Potential | 12.00% | ~5,700 |
+| Tinkerer | 9.00% | ~4,275 |
+| Leapfrogger | 8.00% | ~3,800 |
+| Knock 'Em Dead | 8.00% | ~3,800 |
+| Pilgrimage: Initiate | 8.00% | ~3,800 |
+| Hell of a Run | 8.00% | ~3,800 |
+| Call of the Fount: Baptized | 7.00% | ~3,325 |
 | No Mercy | 6.00% | ~2,850 |
 | Explorer: Seeker | 6.00% | ~2,850 |
 | Help Me Out Here | 6.00% | ~2,850 |
@@ -39,9 +39,9 @@ Rating: 4.16 (Ranked 997)
 | Realized Potential | 0.70% | ~332 |
 | Explorer: Trailblazer | 0.60% | ~285 |
 | Through the Eyes of Another: Seer | 0.50% | ~237 |
+| Archivist | 0.40% | ~190 |
 | Craftsperson | 0.40% | ~190 |
 | Tit for Tat | 0.40% | ~190 |
-| Archivist | 0.30% | ~142 |
 | A Roaring Trade | 0.30% | ~142 |
 | Promises | 0.30% | ~142 |
 | Rebirth | 0.30% | ~142 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 997)
 | Remembrance | 0.10% | ~47 |
 | Cat Person | 0.10% | ~47 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,492 (Ranked 127)  
+Progressed: 47,497 (Ranked 127)  
 Completed: 4 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 4 (0.01%) (Ranked 379)
 | 2024-01-16 | 47,364 | 4 |
 | 2024-01-17 | 47,424 | 4 |
 | 2024-01-18 | 47,464 | 4 |
-| 2024-01-19 | 47,492 | 4 |
+| 2024-01-19 | 47,497 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 455)  
 Sum: 78 (Ranked 489)  

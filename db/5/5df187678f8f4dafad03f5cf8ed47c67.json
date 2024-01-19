@@ -2,10 +2,10 @@
   "ID": "5df187678f8f4dafad03f5cf8ed47c67",
   "Name": "Gnomes Garden. Return Of The Queen",
   "ProductSlug": "gnomes-garden-return-of-the-queen-159f41",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-10T22:00:00+00:00",
     "PcReleaseDate": "2021-04-20T00:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-15T03:58:36.523534+00:00",
   "LastUpdate_AppInfo": "2024-01-17T11:57:03.9205179+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:11.368347+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:10:22.9289874+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:59.1825885+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:10:06.4512842+00:00"
 }

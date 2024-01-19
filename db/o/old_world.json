@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2340,9 +2340,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 16993,
+  "EOS_Progressed": 16995,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 485,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20500,6 +20500,11 @@
       "Time": "2024-01-19T16:11:25.8949666+00:00",
       "NumProgressed": 16993,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T17:11:09.4352414+00:00",
+      "NumProgressed": 16995,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22309,9 +22314,9 @@
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_ASSYRIA",
       "SetID": "7l38kb8",
       "Name": "Assyrian Paganism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -23374,21 +23379,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 16993,
+      "Progressed": 16995,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 16993,
+      "Progressed": 16995,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-19T10:02:54.9677394+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:11:25.8949663+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:11:09.435241+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:03:04.1322436+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:11:25.8960048+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:02:59.9202536+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:11:09.43618+00:00"
 }

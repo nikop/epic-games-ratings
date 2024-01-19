@@ -2,10 +2,10 @@
   "ID": "474de2af8ae04a7b9991ea3fbbc56c7b",
   "Name": "CounterAttack: Uprising",
   "ProductSlug": "counterattackuprising-06aed8",
-  "Ranking_EOS_Progress": 630,
+  "Ranking_EOS_Progress": 631,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-12T02:00:00+00:00",
     "PcReleaseDate": "2019-03-11T07:00:00+00:00",
@@ -159,9 +159,9 @@
       "ID": "40Attachments",
       "SetID": "c18da06",
       "Name": "40 Attachments",
-      "Percentage": 32,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "550Attachments",
@@ -318,8 +318,8 @@
   ],
   "FirstSeen": "2024-01-12T22:00:00.0081569+00:00",
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:10:03.94584+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:09:47.8506566+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:35.8555267+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:01:47.7229147+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:10:03.9458581+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:01:34.734088+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:09:47.8506777+00:00"
 }

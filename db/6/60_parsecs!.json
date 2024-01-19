@@ -2,10 +2,10 @@
   "ID": "0ab59318bba240478a251395e7bc4a4e",
   "Name": "60 Parsecs!",
   "ProductSlug": "60-parsecs-0481c5",
-  "Ranking_EOS_Progress": 292,
+  "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1154,
+  "EOS_Progressed": 1160,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 336,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -1606,6 +1606,11 @@
       "Time": "2024-01-19T16:09:18.4093425+00:00",
       "NumProgressed": 1154,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T17:09:03.1304803+00:00",
+      "NumProgressed": 1160,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -1625,7 +1630,7 @@
       "Name": "Across The Stars",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 519
+      "UsersEstimate": 522
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -1641,15 +1646,15 @@
       "Name": "All Seats Taken",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 404
+      "UsersEstimate": 406
     },
     {
       "ID": "Achievement_AxelInSpace",
       "SetID": "c01p6e5",
       "Name": "Axel jump in space!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 58
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_BabyAstro",
@@ -1681,7 +1686,7 @@
       "Name": "Crafty",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 496
+      "UsersEstimate": 499
     },
     {
       "ID": "Achievement_DontPanic",
@@ -1689,7 +1694,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 96,
       "XP": 15,
-      "UsersEstimate": 1108
+      "UsersEstimate": 1114
     },
     {
       "ID": "Achievement_DustToDust",
@@ -1697,7 +1702,7 @@
       "Name": "Dust to Dust",
       "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 658
+      "UsersEstimate": 661
     },
     {
       "ID": "Achievement_EcoShuttle",
@@ -1705,7 +1710,7 @@
       "Name": "Eco-Shuttle",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "Achievement_ExtremeMakeover",
@@ -1737,7 +1742,7 @@
       "Name": "First of April",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_FixItFelix",
@@ -1745,7 +1750,7 @@
       "Name": "Fix-It Felix",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_ForScience",
@@ -1753,7 +1758,7 @@
       "Name": "For Science!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 358
+      "UsersEstimate": 360
     },
     {
       "ID": "Achievement_Friendzone",
@@ -1761,7 +1766,7 @@
       "Name": "Friendzone",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 893
     },
     {
       "ID": "Achievement_GiantLeap",
@@ -1777,7 +1782,7 @@
       "Name": "Gold Medalist",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Achievement_HandsFull",
@@ -1785,7 +1790,7 @@
       "Name": "Hands Full",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "Achievement_HelloWorld",
@@ -1793,7 +1798,7 @@
       "Name": "Hello World",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 847
     },
     {
       "ID": "Achievement_Improvinator",
@@ -1817,7 +1822,7 @@
       "Name": "KIA",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 302
     },
     {
       "ID": "Achievement_LastSupper",
@@ -1833,7 +1838,7 @@
       "Name": "Flawless Maegangement",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Achievement_MeetThePetersons",
@@ -1841,7 +1846,7 @@
       "Name": "Meet the Petersons",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 348
     },
     {
       "ID": "Achievement_MutinyInMaking",
@@ -1849,7 +1854,7 @@
       "Name": "Mutiny in making",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "Achievement_Muttnik",
@@ -1865,7 +1870,7 @@
       "Name": "No Man Left Behind",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Achievement_NonFiction",
@@ -1873,7 +1878,7 @@
       "Name": "Non-Fiction",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Achievement_SecondLife",
@@ -1905,7 +1910,7 @@
       "Name": "Space Colonization",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 912
+      "UsersEstimate": 916
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -1913,7 +1918,7 @@
       "Name": "Space Engineer",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 704
+      "UsersEstimate": 708
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -1935,9 +1940,9 @@
       "ID": "Achievement_StayCool",
       "SetID": "c01p6e5",
       "Name": "Stay Cool",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 312
+      "UsersEstimate": 302
     },
     {
       "ID": "Achievement_ThatsNoMoon",
@@ -1953,22 +1958,22 @@
       "Name": "Tinkerer",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 704
+      "UsersEstimate": 708
     },
     {
       "ID": "Achievement_Traitor",
       "SetID": "c01p6e5",
       "Name": "Et tu, Astrocitizen?",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 208
+      "UsersEstimate": 197
     }
   ],
   "AchievementSets": [
     {
       "ID": "c01p6e5",
       "IsBase": true,
-      "Progressed": 1154,
+      "Progressed": 1160,
       "Completed": 1
     }
   ],
@@ -1976,8 +1981,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:09:18.4093421+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:09:03.1304799+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:13.8191647+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:12.8974809+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:09:18.4094035+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:58:00.6738665+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:09:03.1305267+00:00"
 }

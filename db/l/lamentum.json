@@ -6,9 +6,9 @@
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 385,
-  "Ranking_EOS_Completed": 116,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 117,
+  "Ranking_EOS_NewPlayers": 493,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-12T16:00:00+00:00",
     "PcReleaseDate": "2021-08-28T00:00:00+00:00",
@@ -78,11 +78,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 349,
+  "EOS_Progressed": 350,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.87,
+  "EOS_Completed_Percentage": 2.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:34.4947976+00:00",
@@ -503,6 +503,11 @@
       "Time": "2024-01-09T01:54:05.3195904+00:00",
       "NumProgressed": 349,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T17:04:01.8901941+00:00",
+      "NumProgressed": 350,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 19,
@@ -546,7 +551,7 @@
       "Name": "The moth and the flame",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_05",
@@ -554,7 +559,7 @@
       "Name": "Bloodrush",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_06",
@@ -562,7 +567,7 @@
       "Name": "Moon Cloudiness Sonata by Danloop",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "achievement_07",
@@ -570,7 +575,7 @@
       "Name": "True magic doesn\u0027t exist",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_08",
@@ -586,7 +591,7 @@
       "Name": "Grau Hill",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "achievement_10",
@@ -616,9 +621,9 @@
       "ID": "achievement_13",
       "SetID": "7881h0d",
       "Name": "One step down",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "achievement_14",
@@ -642,7 +647,7 @@
       "Name": "The other side of the mirror",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "achievement_17",
@@ -665,7 +670,7 @@
     {
       "ID": "7881h0d",
       "IsBase": true,
-      "Progressed": 349,
+      "Progressed": 350,
       "Completed": 10
     }
   ],
@@ -673,8 +678,8 @@
   "FirstSeenRating": "2022-10-04T02:32:44.3620857+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.4947982+00:00",
   "LastChanged": "2023-12-19T15:00:52.3248594+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:04:08.302437+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:04:01.8901938+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:54.2414796+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:45.5999074+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:04:08.3024548+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:58:31.6949509+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:04:01.8902093+00:00"
 }

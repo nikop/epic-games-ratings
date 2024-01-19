@@ -4,7 +4,7 @@
   "ProductSlug": "coffee-talk-episode-2-hibiscus-and-butterfly-c110ad",
   "Ranking_EOS_Progress": 443,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 319,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
@@ -1000,9 +1000,9 @@
       "ID": "ACH_BREW_LATTEART_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "It\u0027s a masterpiece!",
-      "Percentage": 82,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_CAT_SHELTER",
@@ -1168,9 +1168,9 @@
       "ID": "ACH_NEW_GAME_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Welcome to Coffee Talk",
-      "Percentage": 92,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 168
+      "UsersEstimate": 170
     },
     {
       "ID": "ACH_NOTHING_TO_SHOW",
@@ -1359,8 +1359,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:08:53.7573658+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:08:39.4093974+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:02.7129015+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:01:35.075646+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:08:53.7574063+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:01:22.2046331+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:08:39.4094453+00:00"
 }

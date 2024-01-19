@@ -6,7 +6,7 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,732 |
+| Atom Agent | 99.00% | ~1,733 |
 | One HIT wonder | 34.00% | ~595 |
 | Wanderer | 32.00% | ~560 |
 | One shot, one kill | 25.00% | ~438 |
@@ -14,7 +14,7 @@ Number of Ratings: 54  (23.09.2022)
 | Grave Robber | 17.00% | ~298 |
 | Explorer | 16.00% | ~280 |
 | Head Burst | 16.00% | ~280 |
-| Paranoia | 15.00% | ~262 |
+| Paranoia | 15.00% | ~263 |
 | Double agent | 14.00% | ~245 |
 | Savant | 10.00% | ~175 |
 | Kraina Grzybow | 9.00% | ~158 |
@@ -26,13 +26,13 @@ Number of Ratings: 54  (23.09.2022)
 | Protection racket | 5.00% | ~88 |
 | Sacrifice | 4.00% | ~70 |
 | Secret room | 4.00% | ~70 |
-| Indy | 3.00% | ~52 |
-| Wishmaster | 3.00% | ~52 |
+| Indy | 3.00% | ~53 |
+| Wishmaster | 3.00% | ~53 |
 | Career criminal | 2.00% | ~35 |
 | Neanderthal | 1.00% | ~18 |
 | Cosmic Horror | 1.00% | ~18 |
 | It was worth a shot | 0.90% | ~16 |
-| Ghostbuster | 0.60% | ~10 |
+| Ghostbuster | 0.60% | ~11 |
 | Cheeki Breeki | 0.40% | ~7 |
 | Comrade Yogi | 0.40% | ~7 |
 | Tourist Korallov | 0.40% | ~7 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,750 (Ranked 261)  
+Progressed: 1,751 (Ranked 262)  
 Completed: 1 (0.06%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 1 (0.06%) (Ranked 337)
 | 2024-01-16 | 1,741 | 1 |
 | 2024-01-17 | 1,744 | 1 |
 | 2024-01-18 | 1,749 | 1 |
-| 2024-01-19 | 1,750 | 1 |
+| 2024-01-19 | 1,751 | 1 |
 ## Awards
 Max (Character Customization): 53  (Ranked 452)  
 Sum: 53 (Ranked 511)  

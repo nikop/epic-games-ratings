@@ -2,10 +2,10 @@
   "ID": "7f82d4cc5bc24d6487315fd6b4b27779",
   "Name": "Scarlet Hood and the Wicked Wood",
   "ProductSlug": "scarlet-hood-and-the-wicked-wood",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-08T15:00:00+00:00",
     "PcReleaseDate": "2021-04-08T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:04.0805544+00:00",
   "LastChanged": "2023-03-31T05:58:04.0805545+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:20.891643+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:01:54.9096065+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:08:01.7185509+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:01:41.8293567+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:07:49.7949905+00:00"
 }

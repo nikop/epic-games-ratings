@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1234,
+  "EOS_Progressed": 1239,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4282,6 +4282,11 @@
       "Time": "2024-01-19T14:09:41.0396591+00:00",
       "NumProgressed": 1234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T17:10:10.3500008+00:00",
+      "NumProgressed": 1239,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4318,7 +4323,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "AttackCount",
@@ -4398,7 +4403,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "Deepstrike",
@@ -4438,7 +4443,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 508
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4502,7 +4507,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "MultiplayerWins",
@@ -4574,7 +4579,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4598,7 +4603,7 @@
       "Name": "Landlord Extraordinaire",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "TrojanHorse",
@@ -4606,7 +4611,7 @@
       "Name": "Trojan Horse",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "UltraKill",
@@ -4622,7 +4627,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 582
     },
     {
       "ID": "WielderLevel2",
@@ -4630,7 +4635,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "WielderLevel3",
@@ -4638,7 +4643,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "WielderLevel4",
@@ -4654,7 +4659,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4670,7 +4675,7 @@
       "Name": "Expert Essence Employment",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "WinSiegeAsAttacker",
@@ -4725,15 +4730,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1234,
+      "Progressed": 1239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:10:26.5687128+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:10:10.3500004+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:03:03.7963402+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:10:26.5687812+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:02:59.5580056+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:10:10.3500679+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19157,
+  "EOS_Progressed": 19158,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 258,
+  "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17794,6 +17794,11 @@
       "Time": "2024-01-19T16:04:40.0653585+00:00",
       "NumProgressed": 19157,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-19T17:04:33.1677551+00:00",
+      "NumProgressed": 19158,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17910,7 +17915,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2490
+      "UsersEstimate": 2491
     },
     {
       "ID": "22",
@@ -18085,13 +18090,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19157,
+      "Progressed": 19158,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5111,
+      "Progressed": 5112,
       "Completed": 1351
     }
   ],
@@ -18099,8 +18104,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:04:40.0653581+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:04:33.1677547+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:57:20.9361966+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:04:40.065465+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:09.6746338+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:04:33.1678523+00:00"
 }

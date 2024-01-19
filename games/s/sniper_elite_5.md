@@ -14,7 +14,7 @@ Rating: 4.48 (Ranked 660)
 | Taking it back | 30.00% | ~1,291 |
 | Resourceful | 28.00% | ~1,205 |
 | Target America | 28.00% | ~1,205 |
-| The Kraken Sleeps | 25.00% | ~1,076 |
+| The Kraken Sleeps | 26.00% | ~1,119 |
 | Liberté | 24.00% | ~1,033 |
 | Organ Grinder | 24.00% | ~1,033 |
 | As Quiet as a Mouse | 24.00% | ~1,033 |
@@ -351,12 +351,12 @@ Completed: 11 (0.26%) (Ranked 272)
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,303 | 11 |
 ## Awards
-Max (Great for Beginners): 29  (Ranked 532)  
-Sum: 29 (Ranked 551)  
-Diff (max vs sum): -19  
+Max (Great for Beginners): 30  (Ranked 527)  
+Sum: 30 (Ranked 549)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 29 |
+| This game is Great for Beginners | 30 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -460,3 +460,4 @@ Diff (max vs sum): -19
 | 2024-01-05 | 4.46 | 29 | 29 |
 | 2024-01-09 | 4.47 | 29 | 29 |
 | 2024-01-14 | 4.48 | 29 | 29 |
+| 2024-01-19 | 4.48 | 30 | 30 |

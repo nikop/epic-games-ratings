@@ -3,12 +3,12 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 956,
-  "Ranking_Popularity": 346,
-  "Ranking_PopularitySum": 318,
+  "Ranking_Popularity": 345,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 251,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2259,11 +2259,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 670,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2024-01-19T17:03:48.3111878+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 673,
+      "NumberOfAwardsMax": 139
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 670,
-  "NumberOfAwardsMax": 136,
+  "NumberOfAwards": 673,
+  "NumberOfAwardsMax": 139,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -2288,7 +2294,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 136
+      "Count": 139
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2309,9 +2315,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22559,
+  "EOS_Progressed": 22561,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14409,6 +14415,11 @@
       "Time": "2024-01-19T16:10:49.5363053+00:00",
       "NumProgressed": 22559,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-19T17:10:34.230109+00:00",
+      "NumProgressed": 22561,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14436,7 +14447,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14556,7 +14567,7 @@
       "Name": "Terminated",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14580,7 +14591,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14596,7 +14607,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5414
+      "UsersEstimate": 5415
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14628,7 +14639,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3609
+      "UsersEstimate": 3610
     },
     {
       "ID": "STORY_HANGAR",
@@ -14636,7 +14647,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14644,7 +14655,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14652,7 +14663,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5865
+      "UsersEstimate": 5866
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14660,7 +14671,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3158
+      "UsersEstimate": 3159
     },
     {
       "ID": "STORY_TOWER",
@@ -14668,7 +14679,7 @@
       "Name": "Full Circle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2481
+      "UsersEstimate": 2482
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14795,22 +14806,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22559,
+      "Progressed": 22561,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10485,
+      "Progressed": 10487,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-19T14:03:25.3060788+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:10:49.5363048+00:00",
+  "LastChanged": "2024-01-19T17:03:48.3111876+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:10:34.2301087+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:03:54.022202+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:10:49.5363989+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:03:48.3111881+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:10:34.2302061+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10610,
+  "EOS_Progressed": 10612,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
@@ -17339,6 +17339,11 @@
       "Time": "2024-01-19T16:07:37.1023719+00:00",
       "NumProgressed": 10610,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T17:07:25.737986+00:00",
+      "NumProgressed": 10612,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17414,7 +17419,7 @@
       "Name": "Cactus Vally",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 2228
+      "UsersEstimate": 2229
     },
     {
       "ID": "4",
@@ -17446,7 +17451,7 @@
       "Name": "Blue Rapids",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "8",
@@ -17469,7 +17474,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10610,
+      "Progressed": 10612,
       "Completed": 0
     }
   ],
@@ -17477,8 +17482,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:07:37.1023716+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:07:25.7379856+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:01:31.9875474+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:07:37.1024495+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:01:19.4655073+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:07:25.7380979+00:00"
 }

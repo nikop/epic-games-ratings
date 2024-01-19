@@ -2,10 +2,10 @@
   "ID": "767a05e3670e45a5add05def9f69f87c",
   "Name": "Shadowman\u00AE: Darque Legacy",
   "ProductSlug": "shadowman-darque-legacy-98fad9",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-13T22:57:18.5082253+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:02:04.3309858+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:08:29.6167107+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:02:31.2905864+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:08:16.430903+00:00"
 }

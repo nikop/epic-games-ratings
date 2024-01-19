@@ -2,10 +2,10 @@
   "ID": "092c025d036643c69367ff9da5a34bde",
   "Name": "The Red Exile: Survival Horror",
   "ProductSlug": "the-red-exile-67804a",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-21T14:00:00+00:00",
     "PcReleaseDate": "2022-06-19T14:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-08T04:58:48.2944397+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.5162334+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:57:55.2143741+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:05:41.3749591+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:44.1216316+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:05:32.3027599+00:00"
 }

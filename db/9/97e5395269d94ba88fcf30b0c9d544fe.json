@@ -2,10 +2,10 @@
   "ID": "97e5395269d94ba88fcf30b0c9d544fe",
   "Name": "Racing the Gods - Beyond Horizons",
   "ProductSlug": "racing-the-gods-25565b",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-01T05:00:00.431+00:00",
     "PcReleaseDate": "2023-12-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-01T06:03:34.6824416+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:06:18.1108642+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:06:08.455457+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:13.1120723+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:57:12.3409573+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:06:18.110868+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:02.2154326+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:06:08.4554615+00:00"
 }

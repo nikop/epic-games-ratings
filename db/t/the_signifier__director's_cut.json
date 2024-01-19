@@ -2,10 +2,10 @@
   "ID": "05b0f1dcc0a74cb9824fdd45a1b57703",
   "Name": "The Signifier: Director\u0027s Cut",
   "ProductSlug": "the-signifier-directors-cut",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:42.8899791+00:00",
   "LastChanged": "2023-03-31T05:57:42.8899792+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.2332601+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:47.2521782+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:10:01.1935249+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:58:33.2638432+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:09:44.9832257+00:00"
 }

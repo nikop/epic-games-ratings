@@ -2,10 +2,10 @@
   "ID": "ad111036e70f4cf59259c6976a9b7173",
   "Name": "Image",
   "ProductSlug": "image-747287",
-  "Ranking_EOS_Progress": 769,
+  "Ranking_EOS_Progress": 770,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-20T18:00:00+00:00",
     "PcReleaseDate": "2023-01-20T18:00:00+00:00",
@@ -88,8 +88,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-18T17:09:04.7318232+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:04:23.3102794+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:04:16.5106772+00:00",
   "LastUpdate_AppInfo": "2024-01-18T16:57:14.7573514+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:57:53.056798+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:04:23.310316+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:41.4667771+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:04:16.5106823+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.53 (Ranked 569)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,780 |
-| Greasy Palms | 43.00% | ~7,118 |
+| Legal Counsel | 47.00% | ~7,781 |
+| Greasy Palms | 43.00% | ~7,119 |
 | South American Connection | 27.00% | ~4,470 |
-| Life of the Party | 21.00% | ~3,476 |
+| Life of the Party | 21.00% | ~3,477 |
 | Big Heat from Little Havana | 16.00% | ~2,649 |
 | Chauffeur | 16.00% | ~2,649 |
 | Tommy Two-Wheels | 16.00% | ~2,649 |
-| Salutations My Little Friend | 12.00% | ~1,986 |
-| Iron-y | 10.00% | ~1,655 |
-| Gun for Hire | 10.00% | ~1,655 |
+| Salutations My Little Friend | 12.00% | ~1,987 |
+| Iron-y | 10.00% | ~1,656 |
+| Gun for Hire | 10.00% | ~1,656 |
 | Mischief Managed | 9.00% | ~1,490 |
 | Vice City Mogul | 7.00% | ~1,159 |
 | Catch Me if You Can | 6.00% | ~993 |
@@ -29,9 +29,9 @@ Rating: 4.53 (Ranked 569)
 | Somebody Call the Wambulance? | 3.00% | ~497 |
 | Just Like the Real Thing | 3.00% | ~497 |
 | Don't Need Roads | 3.00% | ~497 |
+| Take the Cannoli | 3.00% | ~497 |
 | City Sleuth | 3.00% | ~497 |
 | One is Better Than Two | 2.00% | ~331 |
-| Take the Cannoli | 2.00% | ~331 |
 | Chopper’d Up | 2.00% | ~331 |
 | Born in the 80’s | 1.00% | ~166 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~166 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 569)
 | Done it All | 1.00% | ~166 |
 | Kingpin | 0.60% | ~99 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,554 (Ranked 172)  
+Progressed: 16,556 (Ranked 172)  
 Completed: 106 (0.64%) (Ranked 208)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,7 +314,7 @@ Completed: 106 (0.64%) (Ranked 208)
 | 2024-01-16 | 16,476 | 100 |
 | 2024-01-17 | 16,514 | 103 |
 | 2024-01-18 | 16,538 | 104 |
-| 2024-01-19 | 16,554 | 106 |
+| 2024-01-19 | 16,556 | 106 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

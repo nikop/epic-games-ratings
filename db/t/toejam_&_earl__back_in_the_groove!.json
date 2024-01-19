@@ -2,13 +2,13 @@
   "ID": "bd1047eb76fd4fd490fcb8f668e5deda",
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
-  "Ranking_Rating": 862,
+  "Ranking_Rating": 861,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,7 +226,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58855,
+  "EOS_Progressed": 58857,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
@@ -16131,6 +16131,11 @@
       "Time": "2024-01-19T16:05:23.0367282+00:00",
       "NumProgressed": 58855,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-19T17:05:14.1757752+00:00",
+      "NumProgressed": 58857,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16206,7 +16211,7 @@
       "Name": "Fall Fest",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4708
+      "UsersEstimate": 4709
     },
     {
       "ID": "FlyingPresent",
@@ -16533,7 +16538,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58855,
+      "Progressed": 58857,
       "Completed": 6
     }
   ],
@@ -16541,8 +16546,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:05:23.0367279+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:05:14.1757748+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:29.3003234+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:57:38.1736883+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:05:23.0368305+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:26.53733+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:05:14.1759099+00:00"
 }

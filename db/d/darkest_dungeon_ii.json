@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11058,7 +11058,7 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133214,
+  "EOS_Progressed": 133217,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 666,
   "EOS_NewCompleters": 1,
@@ -40613,6 +40613,11 @@
       "Time": "2024-01-19T16:11:09.1937271+00:00",
       "NumProgressed": 133214,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T17:10:53.4236947+00:00",
+      "NumProgressed": 133217,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40648,7 +40653,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -40728,7 +40733,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -40744,7 +40749,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -40792,7 +40797,7 @@
       "Name": "Deprogramming",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -40856,7 +40861,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "combat_kill_shambler",
@@ -40880,7 +40885,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -41024,7 +41029,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -41056,7 +41061,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -41088,7 +41093,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "run_victory_act03",
@@ -41136,7 +41141,7 @@
       "Name": "Road Trip",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 3996
+      "UsersEstimate": 3997
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -41224,7 +41229,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 728
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41248,28 +41253,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133214,
+      "Progressed": 133217,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8083,
+      "Progressed": 8086,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-19T15:57:42.8448467+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:11:09.1937267+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:10:53.4236945+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:57:42.8448472+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:11:09.193908+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:30.4912674+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:10:53.423868+00:00"
 }

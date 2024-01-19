@@ -7,23 +7,23 @@ Rating: 4.22 (Ranked 956)
 | ---- | ---------- | ----- |
 | The Outer Way | 28.00% | ~6,317 |
 | Flesh Wound | 27.00% | ~6,091 |
-| Desperate Times | 26.00% | ~5,865 |
-| Paper Jams | 24.00% | ~5,414 |
+| Desperate Times | 26.00% | ~5,866 |
+| Paper Jams | 24.00% | ~5,415 |
 | Get a Grip | 23.00% | ~5,189 |
 | Chew 'Em Up | 22.00% | ~4,963 |
 | Reforged | 20.00% | ~4,512 |
-| Float Like A Butterfly | 19.00% | ~4,286 |
+| Float Like A Butterfly | 19.00% | ~4,287 |
 | Workplace Hazard | 18.00% | ~4,061 |
 | If the SHU Fits... | 18.00% | ~4,061 |
-| Without A Paddle | 16.00% | ~3,609 |
-| In the Pipe, Five by Five | 14.00% | ~3,158 |
-| Crash Site | 14.00% | ~3,158 |
+| Without A Paddle | 16.00% | ~3,610 |
+| In the Pipe, Five by Five | 14.00% | ~3,159 |
+| Crash Site | 14.00% | ~3,159 |
 | Two Heads Are Better Than One | 13.00% | ~2,933 |
 | Power Up | 13.00% | ~2,933 |
-| Giving Back | 11.00% | ~2,481 |
-| Terminated | 11.00% | ~2,481 |
-| What Lies Beneath | 11.00% | ~2,481 |
-| Full Circle | 11.00% | ~2,481 |
+| Giving Back | 11.00% | ~2,482 |
+| Terminated | 11.00% | ~2,482 |
+| What Lies Beneath | 11.00% | ~2,482 |
+| Full Circle | 11.00% | ~2,482 |
 | You Need a Gun | 10.00% | ~2,256 |
 | I Do Belong Here | 9.00% | ~2,030 |
 | Keep Fighting | 8.00% | ~839 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 956)
 | Big Game Hunter | 0.10% | ~10 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,559 (Ranked 153)  
+Progressed: 22,561 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,14 +319,14 @@ Completed: 82 (0.36%) (Ranked 251)
 | 2024-01-16 | 22,467 | 82 |
 | 2024-01-17 | 22,513 | 82 |
 | 2024-01-18 | 22,544 | 82 |
-| 2024-01-19 | 22,559 | 82 |
+| 2024-01-19 | 22,561 | 82 |
 ## Awards
-Max (Amazing Characters): 136  (Ranked 346)  
-Sum: 670 (Ranked 318)  
+Max (Amazing Characters): 139  (Ranked 345)  
+Sum: 673 (Ranked 317)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game has Amazing Characters | 136 |
+| This game has Amazing Characters | 139 |
 | This game is Highly Recommended | 123 |
 | This game is Extremely Fun | 122 |
 | This game has Amazing Storytelling | 116 |
@@ -542,4 +542,4 @@ Diff (max vs sum): 28
 | 2024-01-16 | 4.22 | 135 | 656 |
 | 2024-01-17 | 4.22 | 136 | 665 |
 | 2024-01-18 | 4.22 | 136 | 666 |
-| 2024-01-19 | 4.22 | 136 | 670 |
+| 2024-01-19 | 4.22 | 139 | 673 |

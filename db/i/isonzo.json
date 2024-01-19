@@ -2,13 +2,13 @@
   "ID": "30de69013f3b41b0ba594a8ef3b693ba",
   "Name": "Isonzo",
   "ProductSlug": "isonzo",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 481,
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9999,
+  "EOS_Progressed": 10000,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11357,6 +11357,11 @@
       "Time": "2024-01-19T16:10:30.4589755+00:00",
       "NumProgressed": 9999,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T17:10:15.1131983+00:00",
+      "NumProgressed": 10000,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11720,14 +11725,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5099
+      "UsersEstimate": 5100
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9999,
+      "Progressed": 10000,
       "Completed": 10
     }
   ],
@@ -11735,8 +11740,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:10:30.4589752+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:10:15.113198+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:02:25.4521926+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:10:30.4590532+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:02:52.3989959+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:10:15.1132956+00:00"
 }

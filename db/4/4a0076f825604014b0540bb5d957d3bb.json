@@ -813,9 +813,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -869,9 +869,9 @@
       "ID": "CgkInO_K3eIdEAIQDw",
       "SetID": "6bj96in",
       "Name": "TIME THIEF",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 40,
-      "UsersEstimate": 81
+      "UsersEstimate": 83
     },
     {
       "ID": "CgkInO_K3eIdEAIQEA",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:11:05.4642752+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:10:49.8483118+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:12.6071198+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:52.1535759+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:11:05.4642958+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:58:38.1980557+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:10:49.8483281+00:00"
 }

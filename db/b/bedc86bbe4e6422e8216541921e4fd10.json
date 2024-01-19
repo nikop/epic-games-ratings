@@ -2,10 +2,10 @@
   "ID": "bedc86bbe4e6422e8216541921e4fd10",
   "Name": "Honeycomb: The World Beyond",
   "ProductSlug": "honeycomb-45501f",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-09-30T00:00:00+00:00",
     "PcReleaseDate": "2024-09-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T10:57:08.8030782+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:58:05.1679927+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:04:41.1887867+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:53.1858011+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:04:34.2452966+00:00"
 }

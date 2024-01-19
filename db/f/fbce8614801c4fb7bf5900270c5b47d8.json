@@ -2,10 +2,10 @@
   "ID": "fbce8614801c4fb7bf5900270c5b47d8",
   "Name": "Universe Has No Favorites",
   "ProductSlug": "universe-has-no-favorites-dd2b5c",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T14:57:09.0512568+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:01:33.5473095+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:07:01.6560422+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:01:20.6429729+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:06:51.1519372+00:00"
 }

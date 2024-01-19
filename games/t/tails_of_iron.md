@@ -35,14 +35,14 @@ Rating: 4.57 (Ranked 499)
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | Defeat Avor Warden of the Northern Wastes | 0.90% | ~21 |
+| Complete Arena Faction | 0.80% | ~19 |
+| Complete Ranger Faction | 0.80% | ~19 |
 | Discover the mystery of the Kings Chambers | 0.80% | ~19 |
 | Complete Redgi's Armory | 0.70% | ~16 |
 | King of Kings | 0.70% | ~16 |
-| Complete Arena Faction | 0.70% | ~16 |
-| Complete Ranger Faction | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,339 (Ranked 248)  
+Progressed: 2,340 (Ranked 248)  
 Completed: 12 (0.51%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -269,7 +269,7 @@ Completed: 12 (0.51%) (Ranked 224)
 | 2024-01-16 | 2,333 | 12 |
 | 2024-01-17 | 2,335 | 12 |
 | 2024-01-18 | 2,338 | 12 |
-| 2024-01-19 | 2,339 | 12 |
+| 2024-01-19 | 2,340 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -30,6 +30,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.20% | ~2,110 |
 | Two Heads, One Bullet | 0.20% | ~2,110 |
 | Judy vs Night City | 0.20% | ~2,110 |
+| Spin Doctor | 0.20% | ~367 |
 | City Lights | 0.10% | ~1,055 |
 | To Bad Decisions! | 0.10% | ~1,055 |
 | The Wandering Fool | 0.10% | ~1,055 |
@@ -53,7 +54,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | V for Vendetta | 0.10% | ~1,055 |
 | It's Elementary | 0.10% | ~1,055 |
 | The APB is Not Enough | 0.10% | ~184 |
-| Spin Doctor | 0.10% | ~184 |
 | Relic Ruler | 0.10% | ~184 |
 | Judgement Day | 0.10% | ~184 |
 | King of Cups | 0.10% | ~184 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,010 (Ranked 17)  
+Progressed: 1,055,045 (Ranked 17)  
 Completed: 3,129 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 3,129 (0.30%) (Ranked 263)
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
-| 2024-01-19 | 1,055,010 | 3,129 |
+| 2024-01-19 | 1,055,045 | 3,129 |
 ## Awards
 Max (Character Customization): 142,143  (Ranked 8)  
 Sum: 505,721 (Ranked 8)  

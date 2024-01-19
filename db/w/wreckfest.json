@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1207,
+  "EOS_Progressed": 1210,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3092,6 +3092,11 @@
       "Time": "2024-01-19T16:09:44.3106474+00:00",
       "NumProgressed": 1207,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T17:09:28.4732759+00:00",
+      "NumProgressed": 1210,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3112,7 +3117,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 736
+      "UsersEstimate": 738
     },
     {
       "ID": "CareerChamp1",
@@ -3120,7 +3125,7 @@
       "Name": "Regional Juniors Champion",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "CareerChamp2",
@@ -3128,7 +3133,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "CareerChamp3",
@@ -3144,7 +3149,7 @@
       "Name": "Pro Internationals Champion",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "CareerComplete",
@@ -3158,9 +3163,9 @@
       "ID": "CareerFirstWin",
       "SetID": "5hd282c",
       "Name": "Storm Warning",
-      "Percentage": 72,
+      "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 869
+      "UsersEstimate": 859
     },
     {
       "ID": "CollectVehiclesA",
@@ -3168,7 +3173,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "CollectVehiclesB",
@@ -3176,15 +3181,15 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "CreditsEarnedA",
       "SetID": "5hd282c",
       "Name": "Cash For Crashes",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 84
+      "UsersEstimate": 97
     },
     {
       "ID": "GetWreckedA",
@@ -3216,7 +3221,7 @@
       "Name": "Dirty Roller",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "PlayerRankB",
@@ -3224,7 +3229,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "PlayerRankC",
@@ -3248,7 +3253,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "WreckOpponentsBus",
@@ -3263,7 +3268,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1207,
+      "Progressed": 1210,
       "Completed": 0
     }
   ],
@@ -3271,8 +3276,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:09:44.3106472+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:09:28.4732751+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:59:16.08337+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:09:44.3106722+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:59:03.841175+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:09:28.4732944+00:00"
 }

@@ -9673,9 +9673,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254699,
+  "EOS_Progressed": 254713,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1151,
+  "EOS_NewPlayers": 1159,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40798,6 +40798,11 @@
       "Time": "2024-01-19T16:11:26.1646977+00:00",
       "NumProgressed": 254699,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-19T17:11:09.5933856+00:00",
+      "NumProgressed": 254713,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -40809,7 +40814,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10188
+      "UsersEstimate": 10189
     },
     {
       "ID": "objective_completed_10",
@@ -40817,7 +40822,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_100",
@@ -41913,7 +41918,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_149",
@@ -42001,7 +42006,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_165",
@@ -42137,7 +42142,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_20",
@@ -42497,7 +42502,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_36",
@@ -42953,7 +42958,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_540",
@@ -43353,7 +43358,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "objective_completed_60",
@@ -45176,21 +45181,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220973,
+      "Progressed": 220987,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254699,
+      "Progressed": 254713,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T11:01:14.5748225+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:11:26.1646974+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:11:09.5933854+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:01:09.8702062+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:11:26.166949+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:00:57.4282828+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:11:09.5956125+00:00"
 }

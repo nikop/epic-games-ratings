@@ -2,10 +2,10 @@
   "ID": "ca818534cb4f4b3ca8a7c71e3bf24d9b",
   "Name": "Breachway",
   "ProductSlug": "breachway-aa1bbf",
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T03:57:16.7755889+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:57:25.6720799+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:10:05.6826314+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:57:14.3908805+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:09:49.6749159+00:00"
 }

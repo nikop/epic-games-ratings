@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 978)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,138 |
-| Battlefields Have Memories | 82.00% | ~2,891 |
-| Enlisted | 76.00% | ~2,680 |
-| Maybe Engage a Little | 70.00% | ~2,468 |
-| No More Names | 54.00% | ~1,904 |
+| Unforeseen | 89.00% | ~3,139 |
+| Battlefields Have Memories | 82.00% | ~2,892 |
+| Enlisted | 76.00% | ~2,681 |
+| Maybe Engage a Little | 70.00% | ~2,469 |
+| No More Names | 54.00% | ~1,905 |
 | Initiate | 41.00% | ~1,446 |
 | Thrada-Kul | 37.00% | ~1,305 |
 | Gravity-Challenged Rocks | 31.00% | ~1,093 |
@@ -21,11 +21,11 @@ Rating: 4.19 (Ranked 978)
 | The Means to Save It | 20.00% | ~705 |
 | Resilience to Sin | 18.00% | ~635 |
 | A Familiar Nest | 18.00% | ~635 |
-| Geas Aristeya | 17.00% | ~599 |
-| Periapt Alizarin | 17.00% | ~599 |
+| Geas Aristeya | 17.00% | ~600 |
+| Periapt Alizarin | 17.00% | ~600 |
 | A Perfect Cycle | 16.00% | ~564 |
 | Recruit | 16.00% | ~564 |
-| Armsman | 13.00% | ~458 |
+| Armsman | 13.00% | ~459 |
 | Lights Army | 11.00% | ~388 |
 | Periapt Cerulean | 9.00% | ~317 |
 | Good Boy | 9.00% | ~317 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 978)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,526 (Ranked 229)  
+Progressed: 3,527 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-16 | 3,478 | 5 |
 | 2024-01-17 | 3,496 | 5 |
 | 2024-01-18 | 3,512 | 5 |
-| 2024-01-19 | 3,526 | 5 |
+| 2024-01-19 | 3,527 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 568)  
 Sum: 22 (Ranked 573)  

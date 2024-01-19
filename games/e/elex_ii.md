@@ -12,7 +12,7 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 35.00% | ~93 |
 | Creator | 32.00% | ~85 |
 | Military Leader | 30.00% | ~80 |
-| Festival-goer | 29.00% | ~77 |
+| Festival-goer | 30.00% | ~80 |
 | Peddler | 25.00% | ~66 |
 | Commander | 25.00% | ~66 |
 | Irissa's Fate | 21.00% | ~56 |
@@ -26,8 +26,8 @@ Number of Ratings: 124  (23.09.2022)
 | Berserker | 14.00% | ~37 |
 | Alb | 12.00% | ~32 |
 | Hunter | 12.00% | ~32 |
+| Lover | 12.00% | ~32 |
 | Beam Me Up | 11.00% | ~29 |
-| Lover | 11.00% | ~29 |
 | Perfectionist | 10.00% | ~26 |
 | Free as a Bird | 9.00% | ~24 |
 | Treasure Hunter | 8.00% | ~21 |

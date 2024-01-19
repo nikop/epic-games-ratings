@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,188 |
+| A Brief Tour of the Realms | 4.00% | ~10,189 |
 | Beast Intentions | 2.00% | ~5,094 |
 | The Cursed Farmer | 2.00% | ~5,094 |
 | The Mad Wizard | 2.00% | ~5,094 |
@@ -21,13 +21,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.70% | ~1,783 |
 | Fast Food | 0.70% | ~1,547 |
 | Terror in the Dark | 0.60% | ~1,528 |
-| Maddening | 0.50% | ~1,273 |
-| Beast Mode | 0.50% | ~1,273 |
-| A Mysterious Summons | 0.50% | ~1,273 |
-| Unearthed Evil | 0.50% | ~1,273 |
-| The Crumbling Temple | 0.50% | ~1,273 |
-| Exploring Port Nyanzaru | 0.50% | ~1,273 |
-| The Contagious Curse | 0.50% | ~1,273 |
+| Maddening | 0.50% | ~1,274 |
+| Beast Mode | 0.50% | ~1,274 |
+| A Mysterious Summons | 0.50% | ~1,274 |
+| Unearthed Evil | 0.50% | ~1,274 |
+| The Crumbling Temple | 0.50% | ~1,274 |
+| Exploring Port Nyanzaru | 0.50% | ~1,274 |
+| The Contagious Curse | 0.50% | ~1,274 |
 | The Overgrown Grove | 0.50% | ~1,105 |
 | When Tentacles Attack | 0.50% | ~1,105 |
 | Flames of Avernus | 0.50% | ~1,105 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,699 (Ranked 71)  
+Progressed: 254,713 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,699 | 2,624 |
+| 2024-01-19 | 254,713 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,563 (Ranked 41)  

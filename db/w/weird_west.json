@@ -3,12 +3,12 @@
   "Name": "Weird West: Definitive Edition",
   "ProductSlug": "weird-west-906661",
   "Ranking_Rating": 732,
-  "Ranking_Popularity": 532,
-  "Ranking_PopularitySum": 551,
+  "Ranking_Popularity": 533,
+  "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -3528,8 +3528,8 @@
   "FirstSeen": "2022-07-22T20:30:17.2064587+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:31.9989778+00:00",
   "LastChanged": "2024-01-01T13:01:35.2225517+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:05:13.4211739+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:05:05.0558361+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:39.6582553+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:02:11.9751881+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:05:13.4212312+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:02:38.8146333+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:05:05.0558789+00:00"
 }

@@ -5,33 +5,33 @@ Rating: 4.42 (Ranked 745)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,289 |
-| IT MAKES BOOM! | 9.00% | ~36,200 |
-| EXTRA BOOST | 6.00% | ~24,133 |
-| PROTECTED | 5.00% | ~20,111 |
-| PRO | 5.00% | ~20,111 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,089 |
-| AGGRESSIVE RACER | 3.00% | ~12,067 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,044 |
-| TRAINING HARD | 2.00% | ~8,044 |
-| BE OUR GUEST | 2.00% | ~8,044 |
-| ACE SPEEDSTER | 2.00% | ~8,044 |
-| A TIGER'S FEAR | 2.00% | ~8,044 |
-| RELEASE THE KRAKEN | 1.00% | ~4,022 |
-| ACE BRAWLER | 1.00% | ~4,022 |
-| DEFEAT OUR CHAMPION | 1.00% | ~4,022 |
-| ACE DEFENDER | 1.00% | ~4,022 |
-| THE EYE OF THE HUNTER | 1.00% | ~4,022 |
-| FRIENDLY | 1.00% | ~4,022 |
-| MASTER | 1.00% | ~4,022 |
-| LEGENDARY HERO | 1.00% | ~4,022 |
-| EXPERIENCED CREW | 0.90% | ~3,620 |
+| ROOKIE | 13.00% | ~52,298 |
+| IT MAKES BOOM! | 9.00% | ~36,207 |
+| EXTRA BOOST | 6.00% | ~24,138 |
+| PROTECTED | 5.00% | ~20,115 |
+| PRO | 5.00% | ~20,115 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,092 |
+| AGGRESSIVE RACER | 3.00% | ~12,069 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,046 |
+| TRAINING HARD | 2.00% | ~8,046 |
+| BE OUR GUEST | 2.00% | ~8,046 |
+| ACE SPEEDSTER | 2.00% | ~8,046 |
+| A TIGER'S FEAR | 2.00% | ~8,046 |
+| RELEASE THE KRAKEN | 1.00% | ~4,023 |
+| ACE BRAWLER | 1.00% | ~4,023 |
+| DEFEAT OUR CHAMPION | 1.00% | ~4,023 |
+| ACE DEFENDER | 1.00% | ~4,023 |
+| THE EYE OF THE HUNTER | 1.00% | ~4,023 |
+| FRIENDLY | 1.00% | ~4,023 |
+| MASTER | 1.00% | ~4,023 |
+| LEGENDARY HERO | 1.00% | ~4,023 |
+| EXPERIENCED CREW | 0.90% | ~3,621 |
 | FRAMED! | 0.70% | ~2,816 |
 | ACE TRICKSTER | 0.70% | ~2,816 |
-| PERFECTLY POISED | 0.60% | ~2,413 |
+| PERFECTLY POISED | 0.60% | ~2,414 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 402,223 (Ranked 51)  
-Completed: 1,659 (0.41%) (Ranked 243)  
+Progressed: 402,296 (Ranked 51)  
+Completed: 1,661 (0.41%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -300,14 +300,14 @@ Completed: 1,659 (0.41%) (Ranked 243)
 | 2024-01-16 | 399,717 | 1,630 |
 | 2024-01-17 | 400,804 | 1,644 |
 | 2024-01-18 | 401,688 | 1,649 |
-| 2024-01-19 | 402,223 | 1,659 |
+| 2024-01-19 | 402,296 | 1,661 |
 ## Awards
-Max (Great for Beginners): 190  (Ranked 308)  
-Sum: 1,237 (Ranked 263)  
-Diff (max vs sum): 45  
+Max (Great for Beginners): 193  (Ranked 305)  
+Sum: 1,240 (Ranked 263)  
+Diff (max vs sum): 42  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 190 |
+| This game is Great for Beginners | 193 |
 | This game is Great for Quick Sessions | 176 |
 | This game has Diverse Characters | 134 |
 | This game has a Competitive Community | 107 |
@@ -432,4 +432,4 @@ Diff (max vs sum): 45
 | 2024-01-16 | 4.42 | 184 | 1,210 |
 | 2024-01-17 | 4.42 | 184 | 1,222 |
 | 2024-01-18 | 4.42 | 190 | 1,231 |
-| 2024-01-19 | 4.42 | 190 | 1,237 |
+| 2024-01-19 | 4.42 | 193 | 1,240 |

@@ -2,10 +2,10 @@
   "ID": "4d936d45ca14450c86d6472c3c494181",
   "Name": "Hero Battle Fantasy Arena",
   "ProductSlug": "hero-battle-fantasy-arena-f15594",
-  "Ranking_EOS_Progress": 680,
+  "Ranking_EOS_Progress": 676,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 389,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
     "PcReleaseDate": "2024-01-18T23:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 8,
+  "EOS_Progressed": 9,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -66,6 +66,11 @@
     {
       "Time": "2024-01-19T15:06:39.7277012+00:00",
       "NumProgressed": 8,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T17:08:14.8407526+00:00",
+      "NumProgressed": 9,
       "NumCompleted": 0
     }
   ],
@@ -198,13 +203,13 @@
     {
       "ID": "5p6eg8f",
       "IsBase": true,
-      "Progressed": 8,
+      "Progressed": 9,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-12-16T08:05:18.2860146+00:00",
-  "LastChanged_Achievements": "2024-01-19T16:08:28.041972+00:00",
+  "LastChanged_Achievements": "2024-01-19T17:08:14.8407523+00:00",
   "LastUpdate_AppInfo": "2024-01-14T14:57:09.17923+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:00:59.7330309+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:08:28.0419799+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:00:47.8151084+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:08:14.8407603+00:00"
 }

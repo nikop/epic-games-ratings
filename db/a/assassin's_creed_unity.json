@@ -2,13 +2,13 @@
   "ID": "72bdc702b4974024a69a5eb718a7a135",
   "Name": "Assassin\u0027s Creed Unity",
   "ProductSlug": "assassins-creed-unity",
-  "Ranking_Rating": 381,
+  "Ranking_Rating": 380,
   "Ranking_Popularity": 166,
   "Ranking_PopularitySum": 260,
-  "Ranking_EOS_Progress": 842,
+  "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2014-11-11T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -2602,18 +2602,24 @@
       "Rating": 4.62,
       "NumberOfAwards": 1293,
       "NumberOfAwardsMax": 990
+    },
+    {
+      "Time": "2024-01-19T16:58:58.4571743+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 1297,
+      "NumberOfAwardsMax": 992
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1293,
-  "NumberOfAwardsMax": 990,
+  "NumberOfAwards": 1297,
+  "NumberOfAwardsMax": 992,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 990
+      "Count": 992
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -2637,7 +2643,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 34
+      "Count": 36
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -2705,8 +2711,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:14.6538569+00:00",
-  "LastChanged": "2024-01-17T22:58:00.0988899+00:00",
+  "LastChanged": "2024-01-19T16:58:58.4571741+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:45.1703519+00:00",
-  "LastUpdate_Ratings": "2024-01-19T15:59:11.0719762+00:00",
-  "LastUpdate_Achievements": "2024-01-19T16:07:59.5854808+00:00"
+  "LastUpdate_Ratings": "2024-01-19T16:58:58.4571747+00:00",
+  "LastUpdate_Achievements": "2024-01-19T17:07:47.7446165+00:00"
 }
