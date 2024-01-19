@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 568,
+  "Ranking_Rating": 569,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16546,
+  "EOS_Progressed": 16547,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 264,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -18549,6 +18549,11 @@
       "Time": "2024-01-19T10:10:18.894176+00:00",
       "NumProgressed": 16546,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-19T13:16:13.15124+00:00",
+      "NumProgressed": 16547,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 34,
@@ -18736,7 +18741,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4467
+      "UsersEstimate": 4468
     },
     {
       "ID": "ACH24",
@@ -18744,7 +18749,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "ACH25",
@@ -18752,7 +18757,7 @@
       "Name": "Chauffeur",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "ACH26",
@@ -18760,7 +18765,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "ACH27",
@@ -18831,7 +18836,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16546,
+      "Progressed": 16547,
       "Completed": 105
     }
   ],
@@ -18839,8 +18844,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:10:23.3218853+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:16:13.1512398+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:59:17.9505731+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:10:23.3220144+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:05:06.5448994+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:16:13.1513416+00:00"
 }

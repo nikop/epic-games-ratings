@@ -1779,9 +1779,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248718,
+  "EOS_Progressed": 248724,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 997,
+  "EOS_NewPlayers": 996,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26764,6 +26764,11 @@
       "Time": "2024-01-19T12:10:40.4828343+00:00",
       "NumProgressed": 248718,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-19T13:16:34.5513826+00:00",
+      "NumProgressed": 248724,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26823,7 +26828,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19897
+      "UsersEstimate": 19898
     },
     {
       "ID": "Chapter2",
@@ -27223,7 +27228,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92026
+      "UsersEstimate": 92028
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27271,7 +27276,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27359
+      "UsersEstimate": 27360
     },
     {
       "ID": "FollowBraztok",
@@ -27311,7 +27316,7 @@
       "Name": "We come in peace",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2238
+      "UsersEstimate": 2239
     },
     {
       "ID": "MinistrelEpic",
@@ -27478,21 +27483,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248718,
+      "Progressed": 248724,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248718,
+      "Progressed": 248724,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-19T03:57:31.5798585+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:10:40.4828341+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:16:34.5513814+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:57:57.2556675+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:10:40.4830134+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:03:08.0842336+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:16:34.5515784+00:00"
 }

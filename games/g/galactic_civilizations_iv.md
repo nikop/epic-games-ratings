@@ -51,9 +51,9 @@ Number of Ratings: 429  (23.09.2022)
 | Diplomatic Victory! | 0.60% | ~45 |
 | Win as the Iconians | 0.50% | ~38 |
 | Ask Not What Your Empire Can Do For You | 0.30% | ~23 |
+| Hyperspace! | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
-| Hyperspace! | 0.20% | ~15 |
 | Veteran Crew | 0.20% | ~15 |
 | Commodity Seller, Level 2 | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |

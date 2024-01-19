@@ -3,8 +3,8 @@
   "Name": "Pilgrims",
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 318,
-  "Ranking_EOS_Completed": 60,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_Completed": 61,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 799,
+  "EOS_Progressed": 800,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.01,
+  "EOS_Completed_Percentage": 7,
   "EosHistory": [
     {
       "Time": "2023-06-13T12:01:22.5999936+00:00",
@@ -3284,6 +3284,11 @@
       "Time": "2024-01-19T12:04:40.4152174+00:00",
       "NumProgressed": 799,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2024-01-19T13:10:02.0932861+00:00",
+      "NumProgressed": 800,
+      "NumCompleted": 56
     }
   ],
   "TotalAchievements": 45,
@@ -3327,7 +3332,7 @@
       "Name": "Ouch!",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "BearPoppiesBroth",
@@ -3359,7 +3364,7 @@
       "Name": "Alms",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "BeggarWomanFishGrilled",
@@ -3375,7 +3380,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "BroomAmanita",
@@ -3399,7 +3404,7 @@
       "Name": "Deal with the Devil",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "DevilRope",
@@ -3407,7 +3412,7 @@
       "Name": "The Devil is My Friend",
       "Percentage": 72,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "Drunkard",
@@ -3447,7 +3452,7 @@
       "Name": "Happy Reunion",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 543
+      "UsersEstimate": 544
     },
     {
       "ID": "HastrmanAcorn",
@@ -3487,7 +3492,7 @@
       "Name": "Flower",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "KingDiamond",
@@ -3549,9 +3554,9 @@
       "ID": "Priestess",
       "SetID": "db30heh",
       "Name": "Blessed",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 439
+      "UsersEstimate": 448
     },
     {
       "ID": "PrincessThrone",
@@ -3565,9 +3570,9 @@
       "ID": "RogueChest",
       "SetID": "db30heh",
       "Name": "Treasure Chest",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 455
+      "UsersEstimate": 448
     },
     {
       "ID": "RogueEat",
@@ -3575,7 +3580,7 @@
       "Name": "Debt Free",
       "Percentage": 94,
       "XP": 20,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "RogueKing",
@@ -3597,17 +3602,17 @@
       "ID": "RogueRum",
       "SetID": "db30heh",
       "Name": "In Good Spirits",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 631
+      "UsersEstimate": 640
     },
     {
       "ID": "SleepingBasiliskAmanita",
       "SetID": "db30heh",
       "Name": "Wild Dreams",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 144
+      "UsersEstimate": 152
     },
     {
       "ID": "SleepingBasiliskPistol",
@@ -3631,7 +3636,7 @@
       "Name": "Precious Barter",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 407
+      "UsersEstimate": 408
     },
     {
       "ID": "SwordMoneyBag",
@@ -3654,14 +3659,14 @@
     {
       "ID": "db30heh",
       "IsBase": true,
-      "Progressed": 799,
+      "Progressed": 800,
       "Completed": 56
     }
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:04:40.4152171+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:10:02.0932857+00:00",
   "LastUpdate_AppInfo": "2024-01-17T03:57:20.2875868+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:59:07.5675361+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:04:40.4152671+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:04:50.9435638+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:10:02.0933529+00:00"
 }

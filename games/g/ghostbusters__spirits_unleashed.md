@@ -19,9 +19,9 @@ Rating: 4.50 (Ranked 618)
 | There you are! | 5.00% | ~1,689 |
 | Vaporous Expansion | 5.00% | ~1,689 |
 | Whoopsie | 5.00% | ~1,689 |
-| Daily Dose | 4.00% | ~1,351 |
-| Ghostbuster In Training | 4.00% | ~1,351 |
-| Right back at ya | 4.00% | ~1,351 |
+| Daily Dose | 4.00% | ~1,352 |
+| Ghostbuster In Training | 4.00% | ~1,352 |
+| Right back at ya | 4.00% | ~1,352 |
 | Animated | 3.00% | ~1,014 |
 | Back Off | 3.00% | ~1,014 |
 | We have the best insurance | 3.00% | ~1,014 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 618)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,787 (Ranked 141)  
+Progressed: 33,788 (Ranked 141)  
 Completed: 71 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,16 +331,16 @@ Completed: 71 (0.21%) (Ranked 283)
 | 2024-01-16 | 33,725 | 71 |
 | 2024-01-17 | 33,760 | 71 |
 | 2024-01-18 | 33,781 | 71 |
-| 2024-01-19 | 33,787 | 71 |
+| 2024-01-19 | 33,788 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
-Sum: 2,972 (Ranked 188)  
+Sum: 2,973 (Ranked 188)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 328 |
 | This game is Great for Quick Sessions | 328 |
-| This game has Diverse Characters | 313 |
+| This game has Diverse Characters | 314 |
 | This game has Amazing Storytelling | 297 |
 | This game is Highly Recommended | 296 |
 | This game has Competitive Players | 290 |
@@ -619,3 +619,4 @@ Diff (max vs sum): 70
 | 2024-01-13 | 4.50 | 328 | 2,965 |
 | 2024-01-16 | 4.50 | 328 | 2,967 |
 | 2024-01-18 | 4.50 | 328 | 2,972 |
+| 2024-01-19 | 4.50 | 328 | 2,973 |

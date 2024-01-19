@@ -7,7 +7,7 @@ Rating: 4.62 (Ranked 382)
 | ---- | ---------- | ----- |
 | Feels Familiar | 75.00% | ~1,180 |
 | I Broke It | 73.00% | ~1,148 |
-| Better On Ice | 68.00% | ~1,070 |
+| Better On Ice | 69.00% | ~1,085 |
 | Notai Notes | 67.00% | ~1,054 |
 | Blue Dreams | 66.00% | ~1,038 |
 | He's Famous! | 66.00% | ~1,038 |
@@ -20,8 +20,8 @@ Rating: 4.62 (Ranked 382)
 | Boom Things | 53.00% | ~834 |
 | Tear of Freedom | 52.00% | ~818 |
 | My Darkest Day | 49.00% | ~771 |
+| The Relentless Storm | 47.00% | ~739 |
 | Rhythm Of Willump | 46.00% | ~724 |
-| The Relentless Storm | 46.00% | ~724 |
 | A Tragic Reminder | 45.00% | ~708 |
 | 3000 Year Blackout | 44.00% | ~692 |
 | So Close | 42.00% | ~661 |

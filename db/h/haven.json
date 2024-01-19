@@ -2,13 +2,13 @@
   "ID": "2d831f372e6343cc85cceda5c9c808cf",
   "Name": "Haven",
   "ProductSlug": "haven",
-  "Ranking_Rating": 134,
+  "Ranking_Rating": 135,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 254,
   "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2018,
+  "EOS_Progressed": 2020,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3804,6 +3804,11 @@
       "Time": "2024-01-19T10:05:00.4787021+00:00",
       "NumProgressed": 2018,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T13:11:07.3976403+00:00",
+      "NumProgressed": 2020,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3815,7 +3820,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 827
+      "UsersEstimate": 828
     },
     {
       "ID": "10",
@@ -3823,7 +3828,7 @@
       "Name": "Perfect timing",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "11",
@@ -3847,7 +3852,7 @@
       "Name": "Unstoppable",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "14",
@@ -3879,7 +3884,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "18",
@@ -3975,7 +3980,7 @@
       "Name": "Hug therapy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "30",
@@ -4039,7 +4044,7 @@
       "Name": "Over my dead body",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "9",
@@ -4054,15 +4059,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2018,
+      "Progressed": 2020,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:05:25.3097883+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:11:07.39764+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:00:31.6101605+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:05:25.3098308+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:07:01.2935182+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:11:07.397672+00:00"
 }

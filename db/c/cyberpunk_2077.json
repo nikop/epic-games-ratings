@@ -18716,9 +18716,9 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1054839,
-  "EOS_Completed": 3125,
-  "EOS_NewPlayers": 7363,
+  "EOS_Progressed": 1054885,
+  "EOS_Completed": 3126,
+  "EOS_NewPlayers": 7309,
   "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50111,6 +50111,11 @@
       "Time": "2024-01-19T12:09:25.5546335+00:00",
       "NumProgressed": 1054839,
       "NumCompleted": 3125
+    },
+    {
+      "Time": "2024-01-19T13:14:49.1808154+00:00",
+      "NumProgressed": 1054885,
+      "NumCompleted": 3126
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50147,7 +50152,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "Denied",
@@ -50155,7 +50160,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "FollowingTheRiver",
@@ -50193,9 +50198,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2110
+      "UsersEstimate": 3165
     },
     {
       "ID": "Gunslinger",
@@ -50347,7 +50352,7 @@
       "Name": "The Hermit",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "TheHightPriestess",
@@ -50387,7 +50392,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "TheWorld",
@@ -50419,7 +50424,7 @@
       "Name": "True Soldier",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4219
+      "UsersEstimate": 4220
     },
     {
       "ID": "TrueWarrior",
@@ -50499,7 +50504,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Easycomeeasygo",
@@ -50523,7 +50528,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "Kingofcups",
@@ -50563,7 +50568,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "UltimateSurvivor",
@@ -50579,7 +50584,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "HydraIsDead",
@@ -50587,7 +50592,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "IHateSpider",
@@ -50595,7 +50600,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "KingOfTheCups",
@@ -50603,7 +50608,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "KingOfThePentacles",
@@ -50611,7 +50616,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "KingOfTheSwords",
@@ -50619,7 +50624,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "KingOfTheWands",
@@ -50627,7 +50632,7 @@
       "Name": "King of Wands",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "TheTower",
@@ -50635,7 +50640,7 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "DirtyWork",
@@ -50643,7 +50648,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "EasyComeEasyGo",
@@ -50651,28 +50656,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054839,
-      "Completed": 3125
+      "Progressed": 1054885,
+      "Completed": 3126
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183462,
-      "Completed": 10656
+      "Progressed": 183508,
+      "Completed": 10657
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-19T12:03:47.271056+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:09:25.5546333+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:14:49.1808151+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:47.2710566+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:09:25.5548076+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:08:43.0487485+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:14:49.1810562+00:00"
 }

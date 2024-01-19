@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667594,
+  "EOS_Progressed": 667597,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -27107,6 +27107,11 @@
       "Time": "2024-01-19T11:10:52.8744098+00:00",
       "NumProgressed": 667594,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-19T13:15:46.7659192+00:00",
+      "NumProgressed": 667597,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27118,7 +27123,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480668
+      "UsersEstimate": 480670
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27126,7 +27131,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387205
+      "UsersEstimate": 387206
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -27182,7 +27187,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66759
+      "UsersEstimate": 66760
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -27214,7 +27219,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66759
+      "UsersEstimate": 66760
     },
     {
       "ID": "Achievement_14_Magician",
@@ -27262,7 +27267,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93463
+      "UsersEstimate": 93464
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -27358,7 +27363,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80111
+      "UsersEstimate": 80112
     },
     {
       "ID": "Achievement_32_Karma",
@@ -27382,7 +27387,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166898
+      "UsersEstimate": 166899
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -27398,7 +27403,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 60083
+      "UsersEstimate": 60084
     },
     {
       "ID": "Achievement_37_Champion",
@@ -27501,15 +27506,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667594,
+      "Progressed": 667597,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:10:05.9145144+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:15:46.7659189+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.071591+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:58:53.1090785+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:10:05.9146328+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:04:30.9560845+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:15:46.766078+00:00"
 }

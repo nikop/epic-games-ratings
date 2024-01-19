@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 331,
   "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6410,
+  "EOS_Progressed": 6411,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13476,6 +13476,11 @@
       "Time": "2024-01-19T06:04:01.7824964+00:00",
       "NumProgressed": 6410,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T13:09:55.431041+00:00",
+      "NumProgressed": 6411,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13504,7 +13509,7 @@
       "Name": "Deadication",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 320
+      "UsersEstimate": 321
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -13520,7 +13525,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13600,7 +13605,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1474
+      "UsersEstimate": 1475
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13671,15 +13676,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6410,
+      "Progressed": 6411,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:04:35.8978048+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:09:55.4310407+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:58:46.0683608+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:04:35.8978817+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:04:19.8184802+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:09:55.4311162+00:00"
 }

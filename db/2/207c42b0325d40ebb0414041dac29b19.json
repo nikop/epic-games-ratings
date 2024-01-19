@@ -4,11 +4,11 @@
   "ProductSlug": "melvor-idle-b6a9b3",
   "Ranking_Rating": 382,
   "Ranking_Popularity": 121,
-  "Ranking_PopularitySum": 187,
+  "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-21T16:00:00+00:00",
     "PcReleaseDate": "2021-11-18T00:00:00+00:00",
@@ -971,10 +971,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 3003,
       "NumberOfAwardsMax": 1999
+    },
+    {
+      "Time": "2024-01-19T13:08:19.7414476+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 3129,
+      "NumberOfAwardsMax": 1999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3003,
+  "NumberOfAwards": 3129,
   "NumberOfAwardsMax": 1999,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -1018,7 +1024,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 149
+      "Count": 159
     },
     {
       "Text": "This game has Easy Combat",
@@ -1048,7 +1054,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 107
+      "Count": 116
     }
   ],
   "EOS_Progressed": 0,
@@ -1063,8 +1069,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-21T16:57:07.0640742+00:00",
   "FirstSeenRating": "2023-12-22T16:57:30.2372031+00:00",
-  "LastChanged": "2024-01-19T09:02:53.0905889+00:00",
+  "LastChanged": "2024-01-19T13:08:19.7414474+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:16.3469285+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:32.530196+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:06:46.4957584+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:08:19.7414478+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:13:05.7085523+00:00"
 }

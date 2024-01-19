@@ -1,54 +1,54 @@
 # Tannenberg
 [Store](https://store.epicgames.com/en-US/p/tannenberg)  
 [View Rawdata](../../db/t/tannenberg.json)  
-Rating: 4.39 (Ranked 790)  
+Rating: 4.39 (Ranked 789)  
 Number of Ratings: 13,393  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~129,810 |
-| Comeback | 82.00% | ~119,600 |
-| Information is Key | 80.00% | ~116,683 |
-| Unlucky | 70.00% | ~102,098 |
-| Anarchist | 68.00% | ~99,181 |
-| Wallhack | 65.00% | ~94,805 |
-| Steady Supply | 60.00% | ~87,512 |
-| Lucky Shot | 53.00% | ~77,303 |
-| Ring Ring! | 52.00% | ~75,844 |
-| Forward Observer | 51.00% | ~74,386 |
-| Bossing Around | 45.00% | ~65,634 |
-| Frostbite | 45.00% | ~65,634 |
-| Night Owl | 44.00% | ~64,176 |
-| Strength in Numbers | 44.00% | ~64,176 |
-| Fog of War | 41.00% | ~59,800 |
-| Stronghold Denied | 39.00% | ~56,883 |
-| Anyone Else? | 38.00% | ~55,425 |
-| Rasputin | 38.00% | ~55,425 |
-| Hydra | 36.00% | ~52,507 |
-| This Belongs to Us Now | 36.00% | ~52,507 |
-| Stronghold | 35.00% | ~51,049 |
-| Leeroy | 33.00% | ~48,132 |
-| Lost Batallion | 33.00% | ~48,132 |
-| This is MY Machine Gun! | 31.00% | ~45,215 |
-| Together As One | 31.00% | ~45,215 |
-| Gavrilo Princip | 27.00% | ~39,381 |
+| Immovable Object | 89.00% | ~129,814 |
+| Comeback | 82.00% | ~119,604 |
+| Information is Key | 80.00% | ~116,686 |
+| Unlucky | 70.00% | ~102,101 |
+| Anarchist | 68.00% | ~99,183 |
+| Wallhack | 65.00% | ~94,808 |
+| Steady Supply | 60.00% | ~87,515 |
+| Lucky Shot | 53.00% | ~77,305 |
+| Ring Ring! | 52.00% | ~75,846 |
+| Forward Observer | 51.00% | ~74,388 |
+| Bossing Around | 45.00% | ~65,636 |
+| Frostbite | 45.00% | ~65,636 |
+| Night Owl | 44.00% | ~64,178 |
+| Strength in Numbers | 44.00% | ~64,178 |
+| Fog of War | 41.00% | ~59,802 |
+| Stronghold Denied | 39.00% | ~56,885 |
+| Anyone Else? | 38.00% | ~55,426 |
+| Rasputin | 38.00% | ~55,426 |
+| Hydra | 36.00% | ~52,509 |
+| This Belongs to Us Now | 36.00% | ~52,509 |
+| Stronghold | 35.00% | ~51,050 |
+| Leeroy | 33.00% | ~48,133 |
+| Lost Batallion | 33.00% | ~48,133 |
+| This is MY Machine Gun! | 31.00% | ~45,216 |
+| Together As One | 31.00% | ~45,216 |
+| Gavrilo Princip | 27.00% | ~39,382 |
 | Lead Harvest | 25.00% | ~36,464 |
-| Skynet Confirmed | 23.00% | ~33,546 |
-| Kesselschlacht | 22.00% | ~32,088 |
-| Democracy Works! | 20.00% | ~29,171 |
-| Switch, Please! | 19.00% | ~27,712 |
+| Skynet Confirmed | 23.00% | ~33,547 |
+| Kesselschlacht | 22.00% | ~32,089 |
+| Democracy Works! | 20.00% | ~29,172 |
+| Switch, Please! | 19.00% | ~27,713 |
 | At Least This Way I Can Win... | 18.00% | ~26,254 |
 | Tourist | 18.00% | ~26,254 |
-| I've Seen It All | 17.00% | ~24,795 |
-| Oops! | 17.00% | ~24,795 |
+| I've Seen It All | 17.00% | ~24,796 |
+| Oops! | 17.00% | ~24,796 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~23,337 |
-| Butcher | 12.00% | ~17,502 |
-| Before the Leaves Fall | 10.00% | ~14,585 |
-| Close Call | 10.00% | ~14,585 |
-| Pinpoint | 10.00% | ~14,585 |
+| Butcher | 12.00% | ~17,503 |
+| Before the Leaves Fall | 10.00% | ~14,586 |
+| Close Call | 10.00% | ~14,586 |
+| Pinpoint | 10.00% | ~14,586 |
 | Tannenberg | 9.00% | ~13,127 |
-| For the Emperor | 8.00% | ~11,668 |
-| Hawk Eye | 8.00% | ~11,668 |
+| For the Emperor | 8.00% | ~11,669 |
+| Hawk Eye | 8.00% | ~11,669 |
 | Equality For All | 7.00% | ~10,210 |
 | Hötzendorf | 7.00% | ~10,210 |
 | Crack Shot | 6.00% | ~8,751 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,313 |
 | Road to Berlin | 0.60% | ~875 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,854 (Ranked 88)  
+Progressed: 145,858 (Ranked 88)  
 Completed: 35 (0.02%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 35 (0.02%) (Ranked 369)
 | 2024-01-16 | 145,575 | 35 |
 | 2024-01-17 | 145,678 | 35 |
 | 2024-01-18 | 145,813 | 35 |
-| 2024-01-19 | 145,854 | 35 |
+| 2024-01-19 | 145,858 | 35 |
 ## Awards
 Max (Competitive Players): 336  (Ranked 254)  
 Sum: 3,304 (Ranked 181)  

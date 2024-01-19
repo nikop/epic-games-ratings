@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -3979,10 +3979,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2972,
       "NumberOfAwardsMax": 328
+    },
+    {
+      "Time": "2024-01-19T13:04:55.0922455+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2973,
+      "NumberOfAwardsMax": 328
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2972,
+  "NumberOfAwards": 2973,
   "NumberOfAwardsMax": 328,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4026,7 +4032,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 313
+      "Count": 314
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4059,9 +4065,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33787,
+  "EOS_Progressed": 33788,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -25924,6 +25930,11 @@
       "Time": "2024-01-19T06:09:28.2945814+00:00",
       "NumProgressed": 33787,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-19T13:15:08.5576094+00:00",
+      "NumProgressed": 33788,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26007,7 +26018,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "Diabolical",
@@ -26079,7 +26090,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "Ghost_Expert",
@@ -26183,7 +26194,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1351
+      "UsersEstimate": 1352
     },
     {
       "ID": "Rivalry",
@@ -26342,16 +26353,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33787,
+      "Progressed": 33788,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-18T20:59:17.219683+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:09:39.2908506+00:00",
+  "LastChanged": "2024-01-19T13:04:55.0922454+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:15:08.5576092+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:59:10.2037231+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:09:39.2909749+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:04:55.092246+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:15:08.5577856+00:00"
 }

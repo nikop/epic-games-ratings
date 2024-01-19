@@ -4,10 +4,10 @@
   "ProductSlug": "psychiatrist-simulator-bfbcc4",
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
-    "ReleaseDate": "2024-01-22T14:00:00+00:00",
+    "ReleaseDate": "2024-01-19T13:00:00+00:00",
     "PcReleaseDate": "2018-01-27T00:00:00+00:00",
     "isBlockchainUsed": false,
     "isEpicFirstRun": false,
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T04:57:08.2522528+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:57:31.9569288+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:04:07.4554832+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:02:31.3333145+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:09:15.2404382+00:00"
 }

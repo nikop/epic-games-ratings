@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -425,9 +425,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11823,
+  "EOS_Progressed": 11825,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 674,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5460,6 +5460,11 @@
       "Time": "2024-01-19T12:10:34.8197292+00:00",
       "NumProgressed": 11823,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T13:16:27.0987046+00:00",
+      "NumProgressed": 11825,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5472,7 +5477,7 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2601
+      "UsersEstimate": 2602
     },
     {
       "ID": "03_TheStolenStar",
@@ -5584,7 +5589,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "17_TheExemplar",
@@ -5600,7 +5605,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1773
+      "UsersEstimate": 1774
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5632,7 +5637,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1655
+      "UsersEstimate": 1656
     },
     {
       "ID": "23_DynastyRestored",
@@ -5648,7 +5653,7 @@
       "Name": "Highrise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "25_DynastyProspers",
@@ -5991,7 +5996,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11823,
+      "Progressed": 11825,
       "Completed": 1
     }
   ],
@@ -5999,8 +6004,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-19T09:59:46.9537952+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:10:34.8197289+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:16:27.0987043+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:00:09.3237034+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:10:34.8197918+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:06:27.3336111+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:16:27.0987885+00:00"
 }

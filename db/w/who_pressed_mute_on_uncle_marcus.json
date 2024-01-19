@@ -2,9 +2,9 @@
   "ID": "5f3452bade6849f4981ca2bcaaec5505",
   "Name": "Who Pressed Mute on Uncle Marcus?",
   "ProductSlug": "who-pressed-mute-on-uncle-marucs-ee90a4",
-  "Ranking_EOS_Progress": 402,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 41,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-11-04T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 10.1,
+  "EOS_Completed_Percentage": 10.06,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:58.284727+00:00",
@@ -890,6 +890,11 @@
       "Time": "2024-01-14T19:09:46.2854324+00:00",
       "NumProgressed": 307,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-19T13:16:07.8059597+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 17,
@@ -901,7 +906,7 @@
       "Name": "And away we go!",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "bless_the_rain",
@@ -915,9 +920,9 @@
       "ID": "blow",
       "SetID": "202dmm8",
       "Name": "Blow",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 107
+      "UsersEstimate": 105
     },
     {
       "ID": "brown_nosing",
@@ -965,7 +970,7 @@
       "Name": "Job one. DONE!",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "just_like_me",
@@ -973,7 +978,7 @@
       "Name": "Just like me",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "making_a_murderer",
@@ -981,7 +986,7 @@
       "Name": "Making a murderer",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "prove_it",
@@ -997,7 +1002,7 @@
       "Name": "Sorry, kiddo",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "the_truth",
@@ -1036,7 +1041,7 @@
     {
       "ID": "202dmm8",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 31
     }
   ],
@@ -1044,8 +1049,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.5541243+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.2847283+00:00",
   "LastChanged": "2023-03-31T05:57:38.5541244+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:10:19.60057+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:16:07.8059594+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:32.1176252+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:00:13.9888539+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:10:19.6005833+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:06:34.3546162+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:16:07.8059794+00:00"
 }

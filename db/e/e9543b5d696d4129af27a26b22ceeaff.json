@@ -4,8 +4,8 @@
   "ProductSlug": "international-basketball-manager-23-561576",
   "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 358,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -587,9 +587,9 @@
       "ID": "ACH_WELCOME",
       "SetID": "1lnhagg",
       "Name": "Welcome to IBM 23!",
-      "Percentage": 91,
+      "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_WINNER_STREAK",
@@ -642,8 +642,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:09:23.4447692+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:14:46.0242688+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:58:18.1189202+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:09:23.4448082+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:03:38.7374239+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:14:46.0243014+00:00"
 }

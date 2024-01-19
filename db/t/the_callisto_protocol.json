@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 251,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2247,10 +2247,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 666,
       "NumberOfAwardsMax": 136
+    },
+    {
+      "Time": "2024-01-19T13:08:54.2855411+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 668,
+      "NumberOfAwardsMax": 136
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 666,
+  "NumberOfAwards": 668,
   "NumberOfAwardsMax": 136,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2294,12 +2300,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 56
+      "Count": 58
     }
   ],
-  "EOS_Progressed": 22553,
+  "EOS_Progressed": 22556,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14382,6 +14388,11 @@
       "Time": "2024-01-19T12:10:16.3955663+00:00",
       "NumProgressed": 22553,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-19T13:16:03.1893622+00:00",
+      "NumProgressed": 22556,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14417,7 +14428,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2255
+      "UsersEstimate": 2256
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14425,7 +14436,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14497,7 +14508,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5187
+      "UsersEstimate": 5188
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14553,7 +14564,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4285
+      "UsersEstimate": 4286
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14585,7 +14596,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6315
+      "UsersEstimate": 6316
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14601,7 +14612,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "STORY_HANGAR",
@@ -14609,7 +14620,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14625,7 +14636,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5864
+      "UsersEstimate": 5865
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14633,7 +14644,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3157
+      "UsersEstimate": 3158
     },
     {
       "ID": "STORY_TOWER",
@@ -14745,7 +14756,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14768,22 +14779,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22553,
+      "Progressed": 22556,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10479,
+      "Progressed": 10482,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-18T20:03:43.9425248+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:10:16.3955661+00:00",
+  "LastChanged": "2024-01-19T13:08:54.2855409+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:16:03.1893619+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:54.989022+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:10:16.3956373+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:08:54.2855414+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:16:03.1895199+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 866,
+  "EOS_Progressed": 867,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2764,6 +2764,11 @@
       "Time": "2024-01-19T12:05:31.0867988+00:00",
       "NumProgressed": 866,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T13:11:15.8050114+00:00",
+      "NumProgressed": 867,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2830,9 +2835,9 @@
       "ID": "REMAKE_001",
       "SetID": "5pi96jj",
       "Name": "Turn a Rat into a Snack",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 260
     },
     {
       "ID": "REMAKE_002",
@@ -2840,15 +2845,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 502
+      "UsersEstimate": 512
     },
     {
       "ID": "Remake_005",
@@ -2999,14 +3004,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 866,
+      "Progressed": 867,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:05:31.0867984+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:11:15.8050111+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:59:57.4758139+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:05:31.08683+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:06:07.8493984+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:11:15.8050432+00:00"
 }

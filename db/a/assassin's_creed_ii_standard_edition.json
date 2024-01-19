@@ -3,12 +3,12 @@
   "Name": "Assassin\u0027s Creed II Standard Edition",
   "ProductSlug": "assassins-creed-2",
   "Ranking_Rating": 151,
-  "Ranking_Popularity": 436,
+  "Ranking_Popularity": 435,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-10-06T15:00:00+00:00",
     "PcReleaseDate": "2014-11-11T15:00:00+00:00",
@@ -1776,18 +1776,24 @@
       "Rating": 4.75,
       "NumberOfAwards": 462,
       "NumberOfAwardsMax": 60
+    },
+    {
+      "Time": "2024-01-19T13:07:46.4245053+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 464,
+      "NumberOfAwardsMax": 61
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 462,
-  "NumberOfAwardsMax": 60,
+  "NumberOfAwards": 464,
+  "NumberOfAwardsMax": 61,
   "MaxAwardTitle": "Amazing Storytelling",
   "Tags": [
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 60
+      "Count": 61
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1835,7 +1841,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 35
+      "Count": 36
     },
     {
       "Text": "This game has Diverse Characters",
@@ -1861,8 +1867,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:18:28.9665726+00:00",
-  "LastChanged": "2024-01-18T23:03:10.0504222+00:00",
+  "LastChanged": "2024-01-19T13:07:46.4245052+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:55.8842008+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:22.8857842+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:04:54.534377+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:07:46.4245055+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:10:22.6274812+00:00"
 }

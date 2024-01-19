@@ -10,7 +10,7 @@ Number of Ratings: 801  (23.09.2022)
 | Photogenic | 82.00% | ~8,548 |
 | Surge Gauntlet Jockey | 79.00% | ~8,235 |
 | Plug It In | 78.00% | ~8,131 |
-| Adventure Time | 74.00% | ~7,714 |
+| Adventure Time | 75.00% | ~7,818 |
 | Playing With Power | 72.00% | ~7,505 |
 | Coup d'Etat | 55.00% | ~5,733 |
 | You're Fired | 54.00% | ~5,629 |

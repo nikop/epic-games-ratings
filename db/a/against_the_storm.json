@@ -4007,9 +4007,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20883,
+  "EOS_Progressed": 20886,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20022,6 +20022,11 @@
       "Time": "2024-01-19T09:08:40.910083+00:00",
       "NumProgressed": 20883,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-19T13:13:53.9018281+00:00",
+      "NumProgressed": 20886,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20122,7 +20127,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "WinHard",
@@ -20138,7 +20143,7 @@
       "Name": "Against All Odds",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinNearArmory",
@@ -20154,7 +20159,7 @@
       "Name": "Bandit Camp",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinNearBarren",
@@ -20162,7 +20167,7 @@
       "Name": "Barren Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinNearBattleground",
@@ -20170,7 +20175,7 @@
       "Name": "Ancient Battleground",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinNearCrystals",
@@ -20178,7 +20183,7 @@
       "Name": "Sparkdew Crystals",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinNearDangerous",
@@ -20218,7 +20223,7 @@
       "Name": "Haunted Forest",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinNearLevitating",
@@ -20234,7 +20239,7 @@
       "Name": "Flooded Mines",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinNearMonastery",
@@ -20266,7 +20271,7 @@
       "Name": "Statue of the Forefathers",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinNearTemple",
@@ -20306,7 +20311,7 @@
       "Name": "Cursed Lands",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "WinOnMarshlands",
@@ -20370,7 +20375,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "WinWithResolve",
@@ -20410,7 +20415,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "WinWithoutOrders",
@@ -20434,7 +20439,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "WinNearFrosts",
@@ -20458,7 +20463,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2088
+      "UsersEstimate": 2089
     },
     {
       "ID": "WinNearPetrified",
@@ -20466,7 +20471,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1879
+      "UsersEstimate": 1880
     },
     {
       "ID": "WinNearPresence",
@@ -20505,15 +20510,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20883,
+      "Progressed": 20886,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-19T03:00:38.4221467+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:09:01.4274915+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:13:53.9018279+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:59:54.7365523+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:09:01.4275958+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:06:03.8122972+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:13:53.9019477+00:00"
 }

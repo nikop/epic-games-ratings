@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -367,7 +367,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1205,
+  "EOS_Progressed": 1206,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
@@ -3082,6 +3082,11 @@
       "Time": "2024-01-19T12:09:30.9927562+00:00",
       "NumProgressed": 1205,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T13:14:56.8595715+00:00",
+      "NumProgressed": 1206,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3094,7 +3099,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 301
+      "UsersEstimate": 302
     },
     {
       "ID": "CareerAllChallenges",
@@ -3102,7 +3107,7 @@
       "Name": "Highballer",
       "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "CareerChamp1",
@@ -3158,7 +3163,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "CollectVehiclesB",
@@ -3253,7 +3258,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1205,
+      "Progressed": 1206,
       "Completed": 0
     }
   ],
@@ -3261,8 +3266,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:09:30.9927558+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:14:56.8595712+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9925636+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:58:44.3247539+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:09:30.9927807+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:04:17.1445105+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:14:56.8596059+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.64 (Ranked 347)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,764 |
-| On the Top Step | 83.00% | ~15,290 |
-| Setting up for Success | 70.00% | ~12,895 |
-| Team Orders | 68.00% | ~12,527 |
-| Engineer | 46.00% | ~8,474 |
-| Familiar Faces | 42.00% | ~7,737 |
+| Getting on the Step | 91.00% | ~16,765 |
+| On the Top Step | 83.00% | ~15,291 |
+| Setting up for Success | 70.00% | ~12,896 |
+| Team Orders | 68.00% | ~12,528 |
+| Engineer | 46.00% | ~8,475 |
+| Familiar Faces | 42.00% | ~7,738 |
 | Going the Extra Mile | 36.00% | ~6,632 |
-| Sharing the Love | 33.00% | ~6,079 |
+| Sharing the Love | 33.00% | ~6,080 |
 | Hitting a Season | 28.00% | ~5,158 |
 | A Dozen Pieces | 25.00% | ~4,606 |
 | Making History | 25.00% | ~4,606 |
-| Challenge Yourself | 24.00% | ~4,421 |
+| Challenge Yourself | 24.00% | ~4,422 |
 | Network Success | 23.00% | ~4,237 |
-| Writing a new Chapter | 19.00% | ~3,500 |
+| Writing a new Chapter | 20.00% | ~3,685 |
 | Spring Cleaning | 18.00% | ~3,316 |
 | Reduce | 15.00% | ~2,763 |
 | Ups and Downs | 15.00% | ~2,763 |
 | Crucial Combo | 13.00% | ~2,395 |
 | Proving Them Wrong | 13.00% | ~2,395 |
 | Reuse | 12.00% | ~2,211 |
-| Gathering Dust | 11.00% | ~2,026 |
-| One for the Book | 11.00% | ~2,026 |
+| Gathering Dust | 11.00% | ~2,027 |
+| One for the Book | 11.00% | ~2,027 |
 | Eagle Eye | 10.00% | ~1,842 |
 | All in a Weekend's Work | 10.00% | ~1,842 |
 | Oil and Water | 10.00% | ~1,842 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 347)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,422 (Ranked 164)  
+Progressed: 18,423 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,7 +183,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 18,312 | 0 |
 | 2024-01-17 | 18,358 | 0 |
 | 2024-01-18 | 18,404 | 0 |
-| 2024-01-19 | 18,422 | 0 |
+| 2024-01-19 | 18,423 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
 Sum: 461 (Ranked 348)  

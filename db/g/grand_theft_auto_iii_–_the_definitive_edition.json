@@ -723,7 +723,7 @@
   "Tags": [],
   "EOS_Progressed": 12430,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 193,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -16180,9 +16180,9 @@
       "ID": "ACH06",
       "SetID": "552d41m",
       "Name": "Street Sweeper",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2362
+      "UsersEstimate": 2486
     },
     {
       "ID": "ACH07",
@@ -16381,8 +16381,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:05:02.4176852+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:10:33.9133081+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:59:14.8818576+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:05:02.4177726+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:05:02.0855004+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:10:33.9134248+00:00"
 }

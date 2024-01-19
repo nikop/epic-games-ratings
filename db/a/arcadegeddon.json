@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 369,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-07-05T16:00:00+00:00",
     "PcReleaseDate": "2021-07-08T21:30:00+00:00",
@@ -14437,9 +14437,9 @@
       "ID": "ACH_ADVENTURE_TIME",
       "SetID": "97mcd7i",
       "Name": "Adventure Time",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 7714
+      "UsersEstimate": 7818
     },
     {
       "ID": "ACH_BOOTY_BASHING",
@@ -14845,8 +14845,8 @@
   "FirstSeen": "2022-07-22T20:20:13.3727461+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1513278+00:00",
   "LastChanged": "2024-01-14T10:03:36.7068974+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:05:29.2072908+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:11:13.2602441+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.8494039+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:37.3008656+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:05:29.2073871+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:08:27.2899605+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:11:13.2603209+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9995,
+  "EOS_Progressed": 9996,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11337,6 +11337,11 @@
       "Time": "2024-01-19T12:10:03.3070879+00:00",
       "NumProgressed": 9995,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T13:15:42.7192292+00:00",
+      "NumProgressed": 9996,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11396,7 +11401,7 @@
       "Name": "Conrad von Hotzensocks",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "ISONZO_ACH_DANTES_INFERNO",
@@ -11420,7 +11425,7 @@
       "Name": "Die Bosniaken Kommen!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "ISONZO_ACH_DIRTY_DOZEN",
@@ -11428,7 +11433,7 @@
       "Name": "Dirty Dozen",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "ISONZO_ACH_DONATELLO",
@@ -11460,7 +11465,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3198
+      "UsersEstimate": 3199
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -11500,7 +11505,7 @@
       "Name": "Machiavelli",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ISONZO_ACH_MALPRACTICE",
@@ -11516,7 +11521,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3498
+      "UsersEstimate": 3499
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11700,14 +11705,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5097
+      "UsersEstimate": 5098
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9995,
+      "Progressed": 9996,
       "Completed": 10
     }
   ],
@@ -11715,8 +11720,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:10:03.3070877+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:15:42.7192291+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:14.4840999+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:10:03.307169+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:07:34.0889389+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:15:42.7193199+00:00"
 }

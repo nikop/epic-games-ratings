@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.80% | ~2,037 |
 | Mad Cow Disease | 0.80% | ~2,037 |
 | Friendly Imps | 0.80% | ~2,037 |
-| Welcome to Sigil | 0.80% | ~1,767 |
+| Welcome to Sigil | 0.80% | ~1,768 |
 | A Persistent Buzzing | 0.70% | ~1,783 |
 | Pure Energy | 0.70% | ~1,783 |
 | Fast Food | 0.70% | ~1,547 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,663 (Ranked 71)  
+Progressed: 254,671 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,663 | 2,624 |
+| 2024-01-19 | 254,671 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,563 (Ranked 41)  

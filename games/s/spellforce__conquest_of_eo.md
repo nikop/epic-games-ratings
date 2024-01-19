@@ -4,78 +4,78 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 87.00% | ~131 |
-| Enough rooms to swing a cat | 78.00% | ~118 |
-| First to the post | 78.00% | ~118 |
+| Home Sweet Home | 88.00% | ~134 |
+| First to the post | 79.00% | ~120 |
+| Enough rooms to swing a cat | 78.00% | ~119 |
 | A kind of Magic | 68.00% | ~103 |
-| Connected | 57.00% | ~86 |
-| Expansion | 54.00% | ~82 |
-| Mine! | 52.00% | ~79 |
-| Harvest Time | 51.00% | ~77 |
-| Artificer's Apprentice | 44.00% | ~66 |
+| Connected | 57.00% | ~87 |
+| Expansion | 55.00% | ~84 |
+| Mine! | 53.00% | ~81 |
+| Harvest Time | 51.00% | ~78 |
+| Artificer's Apprentice | 44.00% | ~67 |
 | Fly the friendly Sky | 41.00% | ~62 |
-| Get out of here! | 40.00% | ~60 |
-| Necromancer's Apprentice | 38.00% | ~57 |
-| Alchemist's Apprentice | 36.00% | ~54 |
-| Friend of Lyraine | 32.00% | ~48 |
-| Redecorating | 29.00% | ~44 |
-| The Circle | 29.00% | ~44 |
+| Get out of here! | 40.00% | ~61 |
+| Necromancer's Apprentice | 38.00% | ~58 |
+| Alchemist's Apprentice | 36.00% | ~55 |
+| Friend of Lyraine | 32.00% | ~49 |
+| Redecorating | 30.00% | ~46 |
+| The Circle | 30.00% | ~46 |
 | Bad JuJu | 25.00% | ~38 |
-| Friend of Sevenkeeps | 21.00% | ~32 |
-| Slave to the rhythm | 19.00% | ~29 |
-| Castle Meldec | 19.00% | ~29 |
+| Friend of Sevenkeeps | 22.00% | ~33 |
+| Slave to the rhythm | 20.00% | ~30 |
+| Castle Meldec | 20.00% | ~30 |
 | Sevenkeeps Seat of Kings | 18.00% | ~27 |
+| Friend of Alluvyan | 16.00% | ~24 |
 | Friend of Connach | 16.00% | ~24 |
-| Friend of Alluvyan | 15.00% | ~23 |
 | Friend of Gillyshire | 15.00% | ~23 |
 | Friend of Orgash | 14.00% | ~21 |
+| Friend of Silver Drift Hollow | 14.00% | ~21 |
+| Silver Drift Hollow Mine | 13.00% | ~20 |
 | Stormwatch Faste | 13.00% | ~20 |
-| Friend of Silver Drift Hollow | 13.00% | ~20 |
 | Friend of Bastion | 13.00% | ~20 |
-| Silver Drift Hollow Mine | 12.00% | ~18 |
+| Break Free | 13.00% | ~20 |
 | Magic Academy | 12.00% | ~18 |
-| Break Free | 12.00% | ~18 |
 | Philo's Tale | 11.00% | ~17 |
 | A Master of Magic | 11.00% | ~17 |
+| Mage Teacher | 10.00% | ~15 |
 | Friend of Windholme | 10.00% | ~15 |
+| Defeat Gor | 9.00% | ~14 |
 | Defeat Uram | 9.00% | ~14 |
-| Mage Teacher | 9.00% | ~14 |
+| A Monopoly of Might | 9.00% | ~14 |
 | A Joke | 9.00% | ~14 |
-| Defeat Gor | 8.00% | ~12 |
 | Yngrid's Tale | 8.00% | ~12 |
 | The Forge of Regan Gor | 8.00% | ~12 |
-| A Monopoly of Might | 8.00% | ~12 |
+| Tuscari Sea Portal | 8.00% | ~12 |
+| Fireforge | 8.00% | ~12 |
+| Friend of Uram Gor | 8.00% | ~12 |
 | Defeat Hokan | 7.00% | ~11 |
+| Defeat Ianna | 7.00% | ~11 |
+| Defeat Raith | 7.00% | ~11 |
 | Crypt of the Revenant | 7.00% | ~11 |
-| Tuscari Sea Portal | 7.00% | ~11 |
-| Fireforge | 7.00% | ~11 |
-| Friend of Uram Gor | 7.00% | ~11 |
+| Master Artificer | 7.00% | ~11 |
+| Heroes | 7.00% | ~11 |
 | Get to the Airship! | 6.00% | ~9 |
-| Defeat Ianna | 6.00% | ~9 |
-| Defeat Raith | 6.00% | ~9 |
 | Defeat Undergast | 6.00% | ~9 |
-| Master Artificer | 6.00% | ~9 |
-| Heroes | 6.00% | ~9 |
+| Elynn's Tale | 6.00% | ~9 |
 | My Friends! | 6.00% | ~9 |
+| Balanced | 6.00% | ~9 |
 | Friend of Grey Dusk Vale | 6.00% | ~9 |
-| Elynn's Tale | 5.00% | ~8 |
+| Defeat Rohen | 5.00% | ~8 |
+| Defeat Yria | 5.00% | ~8 |
 | Lore's Tale | 5.00% | ~8 |
+| Lytra's Tale | 5.00% | ~8 |
 | Misty Coast Dragonbones | 5.00% | ~8 |
-| Balanced | 5.00% | ~8 |
+| Breaking the circle | 5.00% | ~8 |
 | Master Necromancer | 5.00% | ~8 |
-| Defeat Rohen | 4.00% | ~6 |
-| Defeat Yria | 4.00% | ~6 |
-| Lytra's Tale | 4.00% | ~6 |
-| Breaking the circle | 4.00% | ~6 |
-| Defeat Isgrimm | 3.00% | ~5 |
-| Master Alchemist | 3.00% | ~5 |
+| Defeat Isgrimm | 4.00% | ~6 |
+| Master Alchemist | 4.00% | ~6 |
 | Hard Life | 1.00% | ~2 |
 | Impossible Mission | 1.00% | ~2 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151 (Ranked 465)  
+Progressed: 152 (Ranked 465)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -140,7 +140,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-14 | 147 | 0 |
 | 2024-01-16 | 148 | 0 |
 | 2024-01-18 | 149 | 0 |
-| 2024-01-19 | 151 | 0 |
+| 2024-01-19 | 152 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

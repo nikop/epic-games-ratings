@@ -5,13 +5,13 @@ Rating: 4.27 (Ranked 913)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,031 |
-| Don't I Know You...? | 75.00% | ~1,953 |
+| Rigged And Ready | 78.00% | ~2,032 |
+| Don't I Know You...? | 74.00% | ~1,928 |
 | Jailbreak | 64.00% | ~1,667 |
-| HEADSHOT! | 37.00% | ~963 |
-| Suited and Booted | 37.00% | ~963 |
-| Sleeping With The Fishes | 34.00% | ~885 |
-| High Performance | 30.00% | ~781 |
+| HEADSHOT! | 37.00% | ~964 |
+| Suited and Booted | 37.00% | ~964 |
+| Sleeping With The Fishes | 34.00% | ~886 |
+| High Performance | 30.00% | ~782 |
 | Overheated | 29.00% | ~755 |
 | Powered Up | 27.00% | ~703 |
 | Studied The Blade | 24.00% | ~625 |
@@ -32,9 +32,9 @@ Rating: 4.27 (Ranked 913)
 | Where It All Began | 13.00% | ~339 |
 | Risk Tolerant | 13.00% | ~339 |
 | What A Catchy Song | 13.00% | ~339 |
-| Corrupted Beauty | 12.00% | ~312 |
-| Sorry, Didn't See You There | 12.00% | ~312 |
-| Marked For Success | 11.00% | ~286 |
+| Corrupted Beauty | 12.00% | ~313 |
+| Sorry, Didn't See You There | 12.00% | ~313 |
+| Marked For Success | 11.00% | ~287 |
 | Stimulating The Local Economy | 10.00% | ~260 |
 | Triplets | 10.00% | ~260 |
 | Denying Prophecy | 9.00% | ~234 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 913)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,604 (Ranked 239)  
+Progressed: 2,605 (Ranked 239)  
 Completed: 13 (0.50%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,6 +274,7 @@ Completed: 13 (0.50%) (Ranked 227)
 | 2024-01-16 | 2,597 | 13 |
 | 2024-01-17 | 2,599 | 13 |
 | 2024-01-18 | 2,604 | 13 |
+| 2024-01-19 | 2,605 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

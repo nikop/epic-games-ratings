@@ -20,11 +20,11 @@
 | Hindenburgerer | 9.00% | ~8 |
 | Punchy Wagon | 8.00% | ~7 |
 | Holy Terror | 5.00% | ~5 |
+| Trash the Planet. | 5.00% | ~5 |
 | Kill All Humans! | 5.00% | ~5 |
 | Midair Affair | 4.00% | ~4 |
 | Demolition Tactician | 4.00% | ~4 |
 | Plight of the Valkyrie | 4.00% | ~4 |
-| Trash the Planet. | 4.00% | ~4 |
 | Demolition Exhibition | 3.00% | ~3 |
 | Rocket Science | 3.00% | ~3 |
 | Meat Catcher | 3.00% | ~3 |

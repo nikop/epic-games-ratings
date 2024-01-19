@@ -2,10 +2,10 @@
   "ID": "b2d39a10264c4afb819cbd89b533a4fb",
   "Name": "Math Fun",
   "ProductSlug": "math-fun-9585ad",
-  "Ranking_EOS_Progress": 675,
+  "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 450,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-02T18:30:00+00:00",
     "PcReleaseDate": "2017-10-11T18:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9,
+  "EOS_Progressed": 10,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -74,6 +74,11 @@
       "Time": "2024-01-17T19:04:36.5699012+00:00",
       "NumProgressed": 9,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T13:11:19.6820955+00:00",
+      "NumProgressed": 10,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-01T04:03:09.3266074+00:00",
@@ -84,7 +89,7 @@
       "ID": "MATH_FUN4",
       "SetID": "d79724p",
       "Name": "Genius Winner",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -92,7 +97,7 @@
       "ID": "MATH_FUN5",
       "SetID": "d79724p",
       "Name": "Super Genius Winner",
-      "Percentage": 22,
+      "Percentage": 20,
       "XP": 200,
       "UsersEstimate": 2
     },
@@ -100,7 +105,7 @@
       "ID": "MATH_FUN_1",
       "SetID": "d79724p",
       "Name": "Beginner Winner",
-      "Percentage": 33,
+      "Percentage": 30,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -108,7 +113,7 @@
       "ID": "MATH_FUN_2",
       "SetID": "d79724p",
       "Name": "Expert Winner",
-      "Percentage": 44,
+      "Percentage": 40,
       "XP": 200,
       "UsersEstimate": 4
     },
@@ -125,14 +130,14 @@
     {
       "ID": "d79724p",
       "IsBase": true,
-      "Progressed": 9,
+      "Progressed": 10,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-05T23:59:23.1866187+00:00",
   "FirstSeenAchievements": "2023-12-01T04:03:09.3266073+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:05:33.8382265+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:11:19.6820952+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.8942064+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:58:28.094977+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:05:33.8382312+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:03:52.911458+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:11:19.6820989+00:00"
 }

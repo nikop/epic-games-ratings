@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 328,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2019-08-02T00:00:00+00:00",
     "PcReleaseDate": "2019-07-23T15:00:00+00:00",
@@ -994,10 +994,16 @@
       "Rating": 4.87,
       "NumberOfAwards": 593,
       "NumberOfAwardsMax": 170
+    },
+    {
+      "Time": "2024-01-19T13:05:55.2028861+00:00",
+      "Rating": 4.87,
+      "NumberOfAwards": 595,
+      "NumberOfAwardsMax": 170
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 593,
+  "NumberOfAwards": 595,
   "NumberOfAwardsMax": 170,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -1071,7 +1077,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 52
+      "Count": 54
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1091,8 +1097,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:49.195013+00:00",
-  "LastChanged": "2024-01-17T16:59:15.1343451+00:00",
+  "LastChanged": "2024-01-19T13:05:55.202886+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:31.6405461+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:59:49.1408526+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:08:50.3240577+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:05:55.2028864+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:13:39.435709+00:00"
 }

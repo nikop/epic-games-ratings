@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1611,7 +1611,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7195,
+  "EOS_Progressed": 7196,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
@@ -16981,6 +16981,11 @@
       "Time": "2024-01-19T06:03:45.7761095+00:00",
       "NumProgressed": 7195,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T13:09:32.1816003+00:00",
+      "NumProgressed": 7196,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17152,7 +17157,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5252
+      "UsersEstimate": 5253
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17264,7 +17269,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2519
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17311,15 +17316,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7195,
+      "Progressed": 7196,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-17T10:01:51.1088644+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:04:19.5775556+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:09:32.1816001+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:17.4267751+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:04:19.5776755+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:07:37.8610141+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:09:32.1817104+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 887,
   "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 336,
-  "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44448,
+  "EOS_Progressed": 44450,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30007,6 +30007,11 @@
       "Time": "2024-01-19T12:08:53.4116907+00:00",
       "NumProgressed": 44448,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-19T13:13:43.7032601+00:00",
+      "NumProgressed": 44450,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30018,7 +30023,7 @@
       "Name": "A Good Day To Die",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "ACH_03_HIVE_CLEARED_NO_MANA_USE",
@@ -30249,7 +30254,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44448,
+      "Progressed": 44450,
       "Completed": 30
     }
   ],
@@ -30257,8 +30262,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:08:53.4116903+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:13:43.7032597+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.9023781+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:33.0179701+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:08:53.4118283+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:08:20.5045243+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:13:43.7034423+00:00"
 }

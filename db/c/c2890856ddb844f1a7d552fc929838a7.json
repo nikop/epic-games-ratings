@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -309,7 +309,7 @@
       "Count": 34
     }
   ],
-  "EOS_Progressed": 2580,
+  "EOS_Progressed": 2581,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 111,
   "EOS_NewCompleters": 0,
@@ -6269,6 +6269,11 @@
       "Time": "2024-01-19T00:06:48.3372124+00:00",
       "NumProgressed": 2580,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T13:11:37.8645175+00:00",
+      "NumProgressed": 2581,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6289,7 +6294,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2296
+      "UsersEstimate": 2297
     },
     {
       "ID": "AC02",
@@ -6297,7 +6302,7 @@
       "Name": "Blood and Dust",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "AC03",
@@ -6313,7 +6318,7 @@
       "Name": "Blood and Iron",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1549
     },
     {
       "ID": "AC05",
@@ -6345,7 +6350,7 @@
       "Name": "Forged in Fire",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1264
+      "UsersEstimate": 1265
     },
     {
       "ID": "AC09",
@@ -6369,7 +6374,7 @@
       "Name": "A Heart of Gold",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 877
+      "UsersEstimate": 878
     },
     {
       "ID": "AC12",
@@ -6393,7 +6398,7 @@
       "Name": "Acta, Non Verba",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "AC15",
@@ -6441,7 +6446,7 @@
       "Name": "Still Among Us",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "AC21",
@@ -6481,15 +6486,15 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1006
+      "UsersEstimate": 1007
     },
     {
       "ID": "AC26",
       "SetID": "l4abp0",
       "Name": "A Leap of Faith",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 826
+      "UsersEstimate": 800
     },
     {
       "ID": "AC27",
@@ -6513,7 +6518,7 @@
       "Name": "The Veteran One",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "AC30",
@@ -6529,7 +6534,7 @@
       "Name": "The Merciless One",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "AC32",
@@ -6625,7 +6630,7 @@
       "Name": "The Finest Craftmanship",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 1109
+      "UsersEstimate": 1110
     },
     {
       "ID": "AC44",
@@ -6648,7 +6653,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2580,
+      "Progressed": 2581,
       "Completed": 0
     }
   ],
@@ -6656,8 +6661,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-18T16:01:52.6705834+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:05:46.4579633+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:11:37.8645172+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:10.8344316+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:05:46.4580198+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:07:28.9006766+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:11:37.8645676+00:00"
 }

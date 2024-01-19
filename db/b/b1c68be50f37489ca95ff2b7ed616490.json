@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 342,
+  "EOS_Progressed": 343,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1464,6 +1464,11 @@
       "Time": "2024-01-18T08:04:08.9790876+00:00",
       "NumProgressed": 342,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T13:10:40.9959581+00:00",
+      "NumProgressed": 343,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1476,7 +1481,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "10",
@@ -1564,7 +1569,7 @@
       "Name": "I do not like your face, Mr Ratchett",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "20",
@@ -1628,7 +1633,7 @@
       "Name": "Dessert Connoisseur!",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 68
+      "UsersEstimate": 69
     },
     {
       "ID": "3",
@@ -1691,14 +1696,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 342,
+      "Progressed": 343,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-19T12:05:07.0859648+00:00",
+  "LastChanged_Achievements": "2024-01-19T13:10:40.9959579+00:00",
   "LastUpdate_AppInfo": "2024-01-18T06:57:12.8329669+00:00",
-  "LastUpdate_Ratings": "2024-01-19T12:03:46.1629254+00:00",
-  "LastUpdate_Achievements": "2024-01-19T12:05:07.0859915+00:00"
+  "LastUpdate_Ratings": "2024-01-19T13:08:41.4058531+00:00",
+  "LastUpdate_Achievements": "2024-01-19T13:10:40.9959813+00:00"
 }
