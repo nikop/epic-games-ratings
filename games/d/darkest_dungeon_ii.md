@@ -6,20 +6,20 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,128 |
-| Lost and Found | 9.00% | ~725 |
-| Autodidact | 8.00% | ~10,655 |
-| This Belongs in a Museum | 7.00% | ~9,323 |
-| Overdue Notice | 7.00% | ~9,323 |
+| Malpractice Assurance | 14.00% | ~1,129 |
+| Lost and Found | 9.00% | ~726 |
+| Autodidact | 8.00% | ~10,656 |
+| This Belongs in a Museum | 7.00% | ~9,324 |
+| Overdue Notice | 7.00% | ~9,324 |
 | This guy... again? | 7.00% | ~564 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~7,991 |
-| Serenity Now! | 6.00% | ~7,991 |
-| Creep and Sleep | 6.00% | ~7,991 |
-| Meat and Greet | 6.00% | ~7,991 |
-| Catch and Decease | 6.00% | ~7,991 |
-| Escape from the Black Hole | 6.00% | ~7,991 |
-| Rush Hour | 6.00% | ~7,991 |
-| To Grandmother's House | 6.00% | ~7,991 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~7,992 |
+| Serenity Now! | 6.00% | ~7,992 |
+| Creep and Sleep | 6.00% | ~7,992 |
+| Meat and Greet | 6.00% | ~7,992 |
+| Catch and Decease | 6.00% | ~7,992 |
+| Escape from the Black Hole | 6.00% | ~7,992 |
+| Rush Hour | 6.00% | ~7,992 |
+| To Grandmother's House | 6.00% | ~7,992 |
 | Ploughshares to Swords | 6.00% | ~484 |
 | Bloody Graduation | 6.00% | ~484 |
 | It Rings a Bell | 5.00% | ~6,660 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,191 (Ranked 92)  
+Progressed: 133,194 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,191 | 5 |
+| 2024-01-19 | 133,194 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,752 (Ranked 58)  

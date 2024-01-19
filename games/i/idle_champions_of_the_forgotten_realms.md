@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,186 |
+| A Brief Tour of the Realms | 4.00% | ~10,187 |
 | Beast Intentions | 2.00% | ~5,093 |
 | The Cursed Farmer | 2.00% | ~5,093 |
 | The Mad Wizard | 2.00% | ~5,093 |
@@ -19,7 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.80% | ~1,767 |
 | A Persistent Buzzing | 0.70% | ~1,783 |
 | Pure Energy | 0.70% | ~1,783 |
-| Fast Food | 0.70% | ~1,546 |
+| Fast Food | 0.70% | ~1,547 |
 | Terror in the Dark | 0.60% | ~1,528 |
 | Maddening | 0.50% | ~1,273 |
 | Beast Mode | 0.50% | ~1,273 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,651 (Ranked 71)  
+Progressed: 254,663 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,651 | 2,624 |
+| 2024-01-19 | 254,663 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,563 (Ranked 41)  

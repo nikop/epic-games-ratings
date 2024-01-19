@@ -45,7 +45,7 @@
 | The New Demon Lord | 0.70% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 465)  
+Progressed: 150 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |

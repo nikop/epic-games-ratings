@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140350,
+  "EOS_Progressed": 140351,
   "EOS_Completed": 1272,
-  "EOS_NewPlayers": 1079,
+  "EOS_NewPlayers": 1075,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -31700,6 +31700,11 @@
       "Time": "2024-01-19T11:05:41.1962994+00:00",
       "NumProgressed": 140350,
       "NumCompleted": 1272
+    },
+    {
+      "Time": "2024-01-19T12:04:51.5677259+00:00",
+      "NumProgressed": 140351,
+      "NumCompleted": 1272
     }
   ],
   "TotalAchievements": 34,
@@ -31767,7 +31772,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 112280
+      "UsersEstimate": 112281
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -31783,7 +31788,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78596
+      "UsersEstimate": 78597
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -31807,7 +31812,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 37894
+      "UsersEstimate": 37895
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -31823,7 +31828,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 43508
+      "UsersEstimate": 43509
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -31839,7 +31844,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 43508
+      "UsersEstimate": 43509
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -31847,7 +31852,7 @@
       "Name": "You looked that up in a guide!",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "ACH_L03_RECORD",
@@ -31855,7 +31860,7 @@
       "Name": "The Lady Shannon Recording",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "ACH_L03_SLIDES",
@@ -31879,7 +31884,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 37894
+      "UsersEstimate": 37895
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -31943,7 +31948,7 @@
       "Name": "Otherwordly Portal",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 4210
+      "UsersEstimate": 4211
     },
     {
       "ID": "ACH_L06_KEY",
@@ -31967,7 +31972,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 32280
+      "UsersEstimate": 32281
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -31982,7 +31987,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140350,
+      "Progressed": 140351,
       "Completed": 1272
     }
   ],
@@ -31990,8 +31995,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:05:41.1962989+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:04:51.5677254+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:01:11.3788042+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:05:41.1964296+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:59:58.6049114+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:04:51.567897+00:00"
 }

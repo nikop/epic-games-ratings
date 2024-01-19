@@ -38,7 +38,7 @@ Rating: 4.53 (Ranked 568)
 | One For Every Occasion | 17.00% | ~1,104 |
 | The Cable Guy | 17.00% | ~1,104 |
 | Bandage Lover | 16.00% | ~1,039 |
-| Regicide | 13.00% | ~844 |
+| Regicide | 14.00% | ~909 |
 | This Went Smoothly | 12.00% | ~779 |
 | Flawless Victory | 11.00% | ~714 |
 | Heavy Steps | 11.00% | ~714 |

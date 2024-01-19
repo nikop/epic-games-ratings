@@ -347,9 +347,9 @@
       "ID": "COMBO_DRONE",
       "SetID": "1fek4an",
       "Name": "Skynet",
-      "Percentage": 16,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "COMBO_HP",
@@ -858,8 +858,8 @@
   ],
   "FirstSeen": "2023-12-29T13:57:03.3261861+00:00",
   "FirstSeenAchievements": "2023-12-16T10:03:32.9103598+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:06:35.5590943+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:05:28.8657033+00:00",
   "LastUpdate_AppInfo": "2024-01-17T13:02:49.644912+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:03:33.8906593+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:06:35.5591379+00:00"
+  "LastUpdate_Ratings": "2024-01-19T12:03:25.629541+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:05:28.8657547+00:00"
 }

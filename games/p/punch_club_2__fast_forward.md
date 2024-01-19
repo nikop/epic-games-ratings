@@ -40,8 +40,8 @@
 | Fight is life | 40.00% | ~237 |
 | Guiding on the right path | 40.00% | ~237 |
 | Mysterious voice | 39.00% | ~231 |
+| No blades in the gym | 37.00% | ~219 |
 | Champion – no way back | 36.00% | ~213 |
-| No blades in the gym | 36.00% | ~213 |
 | Responsible approach | 36.00% | ~213 |
 | GYM professional | 35.00% | ~207 |
 | Underground dwellers | 35.00% | ~207 |

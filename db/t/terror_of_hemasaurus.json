@@ -2,9 +2,9 @@
   "ID": "7304eee6de244842b8158bfa95542b7a",
   "Name": "Terror of Hemasaurus",
   "ProductSlug": "terror-of-hemasaurus-a08800",
-  "Ranking_EOS_Progress": 508,
+  "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 105,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-17T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.3,
+  "EOS_Completed_Percentage": 3.26,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:56.8436927+00:00",
@@ -330,6 +330,11 @@
       "Time": "2024-01-14T17:04:24.6436802+00:00",
       "NumProgressed": 91,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T12:04:02.3070125+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 30,
@@ -403,7 +408,7 @@
       "ID": "ACH_20_CARS_DESTROYED",
       "SetID": "aio76gp",
       "Name": "Jalopy Poppy",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 10,
       "UsersEstimate": 62
     },
@@ -499,7 +504,7 @@
       "ID": "ACH_50_POLICE_HELICOPTERS",
       "SetID": "aio76gp",
       "Name": "Night Bird",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 20,
       "UsersEstimate": 16
     },
@@ -531,7 +536,7 @@
       "ID": "ACH_KILL_1000_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Horror Show",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 75,
       "UsersEstimate": 16
     },
@@ -547,7 +552,7 @@
       "ID": "ACH_KILL_300_ENEMIES",
       "SetID": "aio76gp",
       "Name": "Monstrosity Atrocity",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 25,
       "UsersEstimate": 36
     },
@@ -580,7 +585,7 @@
     {
       "ID": "aio76gp",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 3
     }
   ],
@@ -588,8 +593,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.2122868+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.8436935+00:00",
   "LastChanged": "2023-03-31T05:57:37.2122869+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:04:31.1500922+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:04:02.3070121+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:32.9479441+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:00:36.1349123+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:04:31.1501107+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:59:36.7272298+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:04:02.3070573+00:00"
 }

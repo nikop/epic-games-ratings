@@ -20,7 +20,7 @@ Number of Ratings: 20  (23.09.2022)
 | O Captain My Captain | 32.00% | ~138 |
 | Plunderer | 30.00% | ~130 |
 | Taxonomist | 27.00% | ~117 |
-| Traveller | 25.00% | ~108 |
+| Traveller | 26.00% | ~112 |
 | Uncertain Loyalties | 25.00% | ~108 |
 | Roll to Save | 23.00% | ~99 |
 | Nahua Seeker | 23.00% | ~99 |

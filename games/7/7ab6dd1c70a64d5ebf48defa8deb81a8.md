@@ -1,7 +1,7 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.17 (Ranked 992)  
+Rating: 4.17 (Ranked 991)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.17 (Ranked 992)
 | Stone Collection | 23.00% | ~549 |
 | Powerful Allies | 22.00% | ~525 |
 | Big Bazar | 16.00% | ~382 |
-| Essence Blow | 15.00% | ~358 |
 | Alchemist | 15.00% | ~358 |
+| Essence Blow | 14.00% | ~334 |
 | The Mentor | 12.00% | ~286 |
 | Calm before the Storm | 11.00% | ~262 |
 | To Battle | 9.00% | ~215 |

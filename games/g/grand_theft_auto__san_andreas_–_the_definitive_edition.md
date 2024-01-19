@@ -1,11 +1,11 @@
 # Grand Theft Auto: San Andreas – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-san-andreas-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto__san_andreas_–_the_definitive_edition.json)  
-Rating: 4.56 (Ranked 513)  
+Rating: 4.55 (Ranked 531)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~15,957 |
+| Getting Started | 81.00% | ~15,958 |
 | Pay 'n' Spray | 50.00% | ~9,850 |
 | All Dressed Up for San Fierro | 25.00% | ~4,925 |
 | The American Dream | 19.00% | ~3,743 |
@@ -41,7 +41,7 @@ Rating: 4.56 (Ranked 513)
 | ...Here we go again | 0.60% | ~118 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,700 (Ranked 158)  
+Progressed: 19,701 (Ranked 158)  
 Completed: 81 (0.41%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -315,17 +315,17 @@ Completed: 81 (0.41%) (Ranked 243)
 | 2024-01-16 | 19,632 | 80 |
 | 2024-01-17 | 19,657 | 80 |
 | 2024-01-18 | 19,691 | 81 |
-| 2024-01-19 | 19,700 | 81 |
+| 2024-01-19 | 19,701 | 81 |
 ## Awards
 Max (Great Boss Battles): 691  (Ranked 198)  
-Sum: 1,126 (Ranked 268)  
+Sum: 1,127 (Ranked 268)  
 Diff (max vs sum): -70  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 691 |
 | This game has Amazing Characters | 61 |
+| This game is Relaxing | 60 |
 | This game has Amazing Storytelling | 60 |
-| This game is Relaxing | 59 |
 | This game is Highly Recommended | 59 |
 | This game is Great for Beginners | 56 |
 | This game has Diverse Characters | 54 |
@@ -570,3 +570,4 @@ Diff (max vs sum): -70
 | 2024-01-16 | 4.56 | 682 | 1,107 |
 | 2024-01-17 | 4.56 | 685 | 1,118 |
 | 2024-01-18 | 4.56 | 691 | 1,126 |
+| 2024-01-19 | 4.55 | 691 | 1,127 |

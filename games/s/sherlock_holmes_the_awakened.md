@@ -1,15 +1,15 @@
 # Sherlock Holmes The Awakened
 [Store](https://store.epicgames.com/en-US/p/sherlock-holmes-the-awakened)  
 [View Rawdata](../../db/s/sherlock_holmes_the_awakened.json)  
-Rating: 4.52 (Ranked 581)  
+Rating: 4.49 (Ranked 641)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 62.00% | ~934 |
 | To Hell In A Handcart | 61.00% | ~919 |
-| High Profile | 54.00% | ~813 |
-| Whispers In The Dark | 51.00% | ~768 |
-| Fond Memories | 50.00% | ~753 |
+| High Profile | 54.00% | ~814 |
+| Whispers In The Dark | 51.00% | ~769 |
+| Fond Memories | 50.00% | ~754 |
 | A Method To His Madness | 48.00% | ~723 |
 | History Check | 47.00% | ~708 |
 | The New World | 44.00% | ~663 |
@@ -20,12 +20,12 @@ Rating: 4.52 (Ranked 581)
 | Lock, Stock, And Barrel | 42.00% | ~633 |
 | Back In The Saddle | 42.00% | ~633 |
 | Land, Ho! | 42.00% | ~633 |
-| No Man Is An Island | 41.00% | ~617 |
-| At Wits' End | 41.00% | ~617 |
-| Up In Flames | 39.00% | ~587 |
-| Fhtagn! | 39.00% | ~587 |
-| Bookworm | 38.00% | ~572 |
-| Going Once... | 36.00% | ~542 |
+| No Man Is An Island | 41.00% | ~618 |
+| At Wits' End | 40.00% | ~603 |
+| Up In Flames | 39.00% | ~588 |
+| Fhtagn! | 39.00% | ~588 |
+| Bookworm | 38.00% | ~573 |
+| Going Once... | 36.00% | ~543 |
 | Let Me Be Frank | 34.00% | ~512 |
 | No Stone Unturned | 32.00% | ~482 |
 | Brain Food | 31.00% | ~467 |
@@ -34,7 +34,7 @@ Rating: 4.52 (Ranked 581)
 | Big Breakthrough | 13.00% | ~196 |
 | Reawakened | 4.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,506 (Ranked 272)  
+Progressed: 1,507 (Ranked 272)  
 Completed: 49 (3.25%) (Ranked 106)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -264,7 +264,7 @@ Completed: 49 (3.25%) (Ranked 106)
 | 2024-01-16 | 1,462 | 48 |
 | 2024-01-17 | 1,482 | 49 |
 | 2024-01-18 | 1,502 | 49 |
-| 2024-01-19 | 1,506 | 49 |
+| 2024-01-19 | 1,507 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -294,3 +294,4 @@ Completed: 49 (3.25%) (Ranked 106)
 | 2024-01-08 | 4.51 | 0 | 0 |
 | 2024-01-09 | 4.53 | 0 | 0 |
 | 2024-01-14 | 4.52 | 0 | 0 |
+| 2024-01-19 | 4.49 | 0 | 0 |

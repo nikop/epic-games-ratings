@@ -18630,10 +18630,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 504915,
       "NumberOfAwardsMax": 142143
+    },
+    {
+      "Time": "2024-01-19T12:03:47.2710562+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 505349,
+      "NumberOfAwardsMax": 142143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 504915,
+  "NumberOfAwards": 505349,
   "NumberOfAwardsMax": 142143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18647,7 +18653,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 105663
+      "Count": 106097
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18710,9 +18716,9 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1054807,
+  "EOS_Progressed": 1054839,
   "EOS_Completed": 3125,
-  "EOS_NewPlayers": 7424,
+  "EOS_NewPlayers": 7363,
   "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50100,6 +50106,11 @@
       "Time": "2024-01-19T11:09:54.9896709+00:00",
       "NumProgressed": 1054807,
       "NumCompleted": 3125
+    },
+    {
+      "Time": "2024-01-19T12:09:25.5546335+00:00",
+      "NumProgressed": 1054839,
+      "NumCompleted": 3125
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50126,9 +50137,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2110
+      "UsersEstimate": 3165
     },
     {
       "ID": "Cyberjunkie",
@@ -50232,7 +50243,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "MaxPain",
@@ -50280,7 +50291,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "Roleplayer",
@@ -50288,7 +50299,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "Specialist",
@@ -50328,15 +50339,15 @@
       "Name": "The Fool",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 4219
     },
     {
       "ID": "TheHightPriestess",
@@ -50344,7 +50355,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "TheLovers",
@@ -50352,7 +50363,7 @@
       "Name": "The Lovers",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "TheStar",
@@ -50456,7 +50467,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "All the President\u0027s Men",
@@ -50647,21 +50658,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054807,
+      "Progressed": 1054839,
       "Completed": 3125
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183430,
-      "Completed": 10655
+      "Progressed": 183462,
+      "Completed": 10656
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-19T06:03:20.2493981+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:09:54.9896707+00:00",
+  "LastChanged": "2024-01-19T12:03:47.271056+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:09:25.5546333+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:04:08.0052997+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:09:54.9898151+00:00"
+  "LastUpdate_Ratings": "2024-01-19T12:03:47.2710566+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:09:25.5548076+00:00"
 }

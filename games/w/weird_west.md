@@ -10,8 +10,8 @@ Number of Ratings: 125  (23.09.2022)
 | Self-Improvement | 71.00% | ~1,469 |
 | Perky | 65.00% | ~1,345 |
 | Let’s Ride | 59.00% | ~1,221 |
+| Dead or Alive | 56.00% | ~1,159 |
 | Welcome to the Weird West | 56.00% | ~1,159 |
-| Dead or Alive | 55.00% | ~1,138 |
 | Full House | 37.00% | ~766 |
 | Off the Trail | 34.00% | ~703 |
 | Justice Served | 30.00% | ~621 |

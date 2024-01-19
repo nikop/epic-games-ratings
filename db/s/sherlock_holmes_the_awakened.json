@@ -2,7 +2,7 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 581,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 272,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.52,
+  "Rating": 4.49,
   "RatingHistory": [
     {
       "Time": "2023-04-12T21:57:08.1785831+00:00",
@@ -175,15 +175,21 @@
       "Rating": 4.52,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-19T12:03:49.5981344+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1506,
+  "EOS_Progressed": 1507,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.25,
   "EosHistory": [
@@ -5376,6 +5382,11 @@
       "Time": "2024-01-19T11:08:36.269897+00:00",
       "NumProgressed": 1506,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-19T12:08:30.8216592+00:00",
+      "NumProgressed": 1507,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5403,7 +5414,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "MQ02_2",
@@ -5427,7 +5438,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 768
+      "UsersEstimate": 769
     },
     {
       "ID": "MQ03_1",
@@ -5435,7 +5446,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "MQ03_2",
@@ -5475,7 +5486,7 @@
       "Name": "Going Once...",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "MQ04_2",
@@ -5539,7 +5550,7 @@
       "Name": "Bookworm",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "MQ06_3",
@@ -5555,7 +5566,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "MQ07_1",
@@ -5569,9 +5580,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 617
+      "UsersEstimate": 603
     },
     {
       "ID": "MQ08_1",
@@ -5587,7 +5598,7 @@
       "Name": "Up In Flames",
       "Percentage": 39,
       "XP": 40,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "MQ08_3",
@@ -5595,7 +5606,7 @@
       "Name": "Fhtagn!",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "PLTN",
@@ -5610,16 +5621,16 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1506,
+      "Progressed": 1507,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
-  "LastChanged": "2024-01-14T12:02:52.0751005+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:08:36.2698965+00:00",
+  "LastChanged": "2024-01-19T12:03:49.5981342+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:08:30.8216587+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:04:11.0545634+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:08:36.2699342+00:00"
+  "LastUpdate_Ratings": "2024-01-19T12:03:49.5981348+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:08:30.8216908+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "deeeer-simulator-9bfc4a",
   "Ranking_EOS_Progress": 455,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-04T07:00:00+00:00",
@@ -887,17 +887,17 @@
       "ID": "EpicACHV_10",
       "SetID": "acn799d",
       "Name": "Counting Sheep",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 70,
-      "UsersEstimate": 142
+      "UsersEstimate": 144
     },
     {
       "ID": "EpicACHV_11",
       "SetID": "acn799d",
       "Name": "Dead or Deer",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 70,
-      "UsersEstimate": 69
+      "UsersEstimate": 71
     },
     {
       "ID": "EpicACHV_12",
@@ -911,9 +911,9 @@
       "ID": "EpicACHV_13",
       "SetID": "acn799d",
       "Name": "Kept You Waiting?",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 70,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "EpicACHV_14",
@@ -1022,8 +1022,8 @@
   ],
   "FirstSeen": "2023-09-06T20:00:29.6789825+00:00",
   "FirstSeenAchievements": "2023-08-23T04:02:11.626295+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:10:12.4415566+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:09:37.8082936+00:00",
   "LastUpdate_AppInfo": "2024-01-17T15:57:29.503385+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:00:17.9310908+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:10:12.4415692+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:59:25.3405779+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:09:37.8083113+00:00"
 }

@@ -10883,9 +10883,9 @@
       "ID": "C_YEAR",
       "SetID": "80dcan0",
       "Name": "Time Flies",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 543
+      "UsersEstimate": 552
     },
     {
       "ID": "F_DUEL",
@@ -10915,9 +10915,9 @@
       "ID": "F_RUIN_S_ALL",
       "SetID": "80dcan0",
       "Name": "Super Spelunker",
-      "Percentage": 161,
+      "Percentage": 162,
       "XP": 30,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1466
     },
     {
       "ID": "M_ASSEMBLER_DIAGRAM",
@@ -11339,8 +11339,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-19T08:02:47.5991478+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:10:10.3323016+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:09:36.3901328+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:30.134628+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:03:09.6257877+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:10:10.3323738+00:00"
+  "LastUpdate_Ratings": "2024-01-19T12:03:08.7314634+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:09:36.3902056+00:00"
 }

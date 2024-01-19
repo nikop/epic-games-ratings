@@ -4,10 +4,10 @@
   "ProductSlug": "assassins-creed-origins",
   "Ranking_Rating": 265,
   "Ranking_Popularity": 90,
-  "Ranking_PopularitySum": 122,
+  "Ranking_PopularitySum": 121,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2017-10-26T11:00:00+00:00",
@@ -7980,10 +7980,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 7526,
       "NumberOfAwardsMax": 4226
+    },
+    {
+      "Time": "2024-01-19T12:03:23.20658+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 7529,
+      "NumberOfAwardsMax": 4226
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7526,
+  "NumberOfAwards": 7529,
   "NumberOfAwardsMax": 4226,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -8003,7 +8009,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 355
+      "Count": 357
     },
     {
       "Text": "This game is Great for Beginners",
@@ -8057,7 +8063,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 168
+      "Count": 169
     }
   ],
   "EOS_Progressed": 0,
@@ -8071,8 +8077,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:42.6567846+00:00",
-  "LastChanged": "2024-01-19T06:02:56.785258+00:00",
+  "LastChanged": "2024-01-19T12:03:23.2065798+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:57.4621512+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:03:30.1620991+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:08:27.132877+00:00"
+  "LastUpdate_Ratings": "2024-01-19T12:03:23.2065805+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:06:44.9921354+00:00"
 }

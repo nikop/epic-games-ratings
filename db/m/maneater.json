@@ -2,12 +2,12 @@
   "ID": "turtle",
   "Name": "Maneater",
   "ProductSlug": "maneater",
-  "Ranking_Rating": 642,
+  "Ranking_Rating": 641,
   "Ranking_Popularity": 32,
   "Ranking_PopularitySum": 63,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-22T09:00:00+00:00",
@@ -4278,10 +4278,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 18420,
       "NumberOfAwardsMax": 13945
+    },
+    {
+      "Time": "2024-01-19T11:58:29.2280908+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 18421,
+      "NumberOfAwardsMax": 13945
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 18420,
+  "NumberOfAwards": 18421,
   "NumberOfAwardsMax": 13945,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4331,7 +4337,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 98
+      "Count": 99
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4381,8 +4387,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:54.7080283+00:00",
-  "LastChanged": "2024-01-18T07:57:31.3937152+00:00",
+  "LastChanged": "2024-01-19T11:58:29.2280906+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:24.409261+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:58:52.5910268+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:05:11.2470651+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:58:29.2280911+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:04:30.9479332+00:00"
 }

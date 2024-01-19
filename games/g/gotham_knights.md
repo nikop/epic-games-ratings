@@ -1,27 +1,27 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 979)  
+Rating: 4.19 (Ranked 978)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,496 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,217 |
-| Loose Ends | 33.00% | ~27,387 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,218 |
+| Loose Ends | 33.00% | ~27,388 |
 | To the Victor Go the Spoils | 27.00% | ~22,408 |
 | Knighthood | 26.00% | ~21,578 |
 | Get ReQ'd | 24.00% | ~19,918 |
 | Whispered Words | 24.00% | ~19,918 |
 | The Batman Family | 22.00% | ~18,258 |
 | Lock and Key | 22.00% | ~18,258 |
-| Something in the Clay | 20.00% | ~16,598 |
-| Quartzer Life Crisis | 20.00% | ~16,598 |
-| Working Hard or Harley Working? | 20.00% | ~16,598 |
-| Unstoppable Force | 20.00% | ~16,598 |
-| Bad Apples in Every Orchard | 20.00% | ~16,598 |
-| Snow Problem | 19.00% | ~15,768 |
-| The Show Mud Go On | 17.00% | ~14,108 |
-| From Inside Gotham's Walls | 17.00% | ~14,108 |
+| Something in the Clay | 20.00% | ~16,599 |
+| Quartzer Life Crisis | 20.00% | ~16,599 |
+| Working Hard or Harley Working? | 20.00% | ~16,599 |
+| Unstoppable Force | 20.00% | ~16,599 |
+| Bad Apples in Every Orchard | 20.00% | ~16,599 |
+| Snow Problem | 19.00% | ~15,769 |
+| The Show Mud Go On | 17.00% | ~14,109 |
+| From Inside Gotham's Walls | 17.00% | ~14,109 |
 | Protector of Gotham | 16.00% | ~13,279 |
 | In Your Element | 15.00% | ~12,449 |
 | Universal Health Scare | 15.00% | ~12,449 |
@@ -38,9 +38,9 @@ Rating: 4.19 (Ranked 979)
 | Out of Their League | 9.00% | ~7,469 |
 | Drone You Out | 9.00% | ~7,469 |
 | Solid Alibi | 8.00% | ~6,639 |
-| Fusion Expert | 7.00% | ~5,809 |
-| Family Meeting | 6.00% | ~4,979 |
-| A Worthy Successor | 6.00% | ~4,979 |
+| Fusion Expert | 7.00% | ~5,810 |
+| Family Meeting | 6.00% | ~4,980 |
+| A Worthy Successor | 6.00% | ~4,980 |
 | Expert Crime Fighter | 5.00% | ~4,150 |
 | Dressed to Impress | 4.00% | ~3,320 |
 | A Momentum Occasion | 3.00% | ~2,490 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 979)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,991 (Ranked 110)  
+Progressed: 82,993 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,17 +341,17 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
-| 2024-01-19 | 82,991 | 135 |
+| 2024-01-19 | 82,993 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,223  (Ranked 102)  
-Sum: 5,508 (Ranked 144)  
+Sum: 5,509 (Ranked 144)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,223 |
 | This game has Diverse Characters | 293 |
 | This game is Great for Beginners | 292 |
-| This game is Relaxing | 290 |
+| This game is Relaxing | 291 |
 | This game is Extremely Fun | 290 |
 | This game has Quickly Understood Controls | 287 |
 | This game has Amazing Characters | 281 |
@@ -688,3 +688,4 @@ Diff (max vs sum): -42
 | 2024-01-16 | 4.19 | 3,211 | 5,488 |
 | 2024-01-17 | 4.19 | 3,216 | 5,497 |
 | 2024-01-18 | 4.19 | 3,223 | 5,508 |
+| 2024-01-19 | 4.19 | 3,223 | 5,509 |

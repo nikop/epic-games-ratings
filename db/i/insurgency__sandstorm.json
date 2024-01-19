@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 177,
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 43,
+  "Ranking_EOS_NewPlayers": 44,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
@@ -4960,9 +4960,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 526814,
+  "EOS_Progressed": 526820,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3268,
+  "EOS_NewPlayers": 3260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36505,6 +36505,11 @@
       "Time": "2024-01-19T11:07:36.196929+00:00",
       "NumProgressed": 526814,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T12:06:09.9916435+00:00",
+      "NumProgressed": 526820,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -36540,7 +36545,7 @@
       "Name": "Checkpoint Victory",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15804
+      "UsersEstimate": 15805
     },
     {
       "ID": "ACH_CINEMATIC",
@@ -36644,7 +36649,7 @@
       "Name": "Lucky",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15804
+      "UsersEstimate": 15805
     },
     {
       "ID": "ACH_MOUNT_AND_GUN",
@@ -36748,7 +36753,7 @@
       "Name": "Stylin\u0027",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 15804
+      "UsersEstimate": 15805
     },
     {
       "ID": "ACH_THANKS_STATION",
@@ -36772,7 +36777,7 @@
       "Name": "Turf War",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 15804
+      "UsersEstimate": 15805
     },
     {
       "ID": "ACH_WALLBANGER",
@@ -36795,15 +36800,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 526814,
+      "Progressed": 526820,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2024-01-19T08:59:58.1451085+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:07:36.1969288+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:06:09.9916432+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:31.8838043+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:01:28.3148288+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:07:36.197064+00:00"
+  "LastUpdate_Ratings": "2024-01-19T12:00:09.6799002+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:06:09.9918385+00:00"
 }

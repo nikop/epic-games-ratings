@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 358)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 18.00% | ~1,308 |
+| Secret Technique | 18.00% | ~1,309 |
 | Realm Estate | 16.00% | ~1,163 |
 | A Wonderful Discovery | 15.00% | ~1,090 |
 | Walls Cannot Stop Us | 15.00% | ~1,090 |
@@ -21,11 +21,11 @@ Rating: 4.63 (Ranked 358)
 | Intimidation Tactics | 7.00% | ~509 |
 | My Final Form | 6.00% | ~436 |
 | But this one is mine | 6.00% | ~436 |
-| Return of the Wizard King | 5.00% | ~363 |
-| Enchanted Archipelago | 5.00% | ~363 |
-| Digging for Treasure | 5.00% | ~363 |
-| Against the Odds | 5.00% | ~363 |
-| Impenetrable Fortress | 5.00% | ~363 |
+| Return of the Wizard King | 5.00% | ~364 |
+| Enchanted Archipelago | 5.00% | ~364 |
+| Digging for Treasure | 5.00% | ~364 |
+| Against the Odds | 5.00% | ~364 |
+| Impenetrable Fortress | 5.00% | ~364 |
 | Preparation Is Everything | 4.00% | ~291 |
 | Fiery Friend | 4.00% | ~291 |
 | Crimson Caldera | 3.00% | ~218 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 358)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,269 (Ranked 201)  
+Progressed: 7,270 (Ranked 201)  
 Completed: 8 (0.11%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 8 (0.11%) (Ranked 312)
 | 2024-01-15 | 7,255 | 8 |
 | 2024-01-16 | 7,262 | 8 |
 | 2024-01-17 | 7,267 | 8 |
-| 2024-01-19 | 7,269 | 8 |
+| 2024-01-19 | 7,270 | 8 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 240 (Ranked 407)  

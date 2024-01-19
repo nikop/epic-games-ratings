@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4480,
+  "EOS_Progressed": 4481,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -8583,6 +8583,11 @@
       "Time": "2024-01-19T11:11:40.486873+00:00",
       "NumProgressed": 4480,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-19T12:10:41.4135586+00:00",
+      "NumProgressed": 4481,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -8659,7 +8664,7 @@
       "Name": "Pyromaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "achievement_107",
@@ -8819,7 +8824,7 @@
       "Name": "Recruit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2374
+      "UsersEstimate": 2375
     },
     {
       "ID": "achievement_125",
@@ -8875,7 +8880,7 @@
       "Name": "First Aid Specialist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "achievement_17",
@@ -8907,7 +8912,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "achievement_20",
@@ -8931,7 +8936,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1747
+      "UsersEstimate": 1748
     },
     {
       "ID": "achievement_23",
@@ -8979,7 +8984,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2195
+      "UsersEstimate": 2196
     },
     {
       "ID": "achievement_29",
@@ -8987,7 +8992,7 @@
       "Name": "Asari Ally",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "achievement_3",
@@ -8995,7 +9000,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "achievement_30",
@@ -9059,7 +9064,7 @@
       "Name": "Very Elusive",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "achievement_38",
@@ -9083,7 +9088,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 38,
       "XP": 25,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1703
     },
     {
       "ID": "achievement_40",
@@ -9147,7 +9152,7 @@
       "Name": "The Justicar",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_48",
@@ -9171,15 +9176,15 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "achievement_50",
       "SetID": "d252ncf",
       "Name": "The Quarian",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1075
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_51",
@@ -9251,7 +9256,7 @@
       "Name": "The Prodigal",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_6",
@@ -9339,7 +9344,7 @@
       "Name": "Galactic Explorer",
       "Percentage": 23,
       "XP": 75,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_7",
@@ -9355,7 +9360,7 @@
       "Name": "Operative",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "achievement_71",
@@ -9531,7 +9536,7 @@
       "Name": "Executioner",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "achievement_91",
@@ -9555,7 +9560,7 @@
       "Name": "Liberator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "achievement_94",
@@ -9587,7 +9592,7 @@
       "Name": "Shopaholic",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1030
+      "UsersEstimate": 1031
     },
     {
       "ID": "achievement_98",
@@ -9610,19 +9615,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4480,
+      "Progressed": 4481,
       "Completed": 13
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4480,
+      "Progressed": 4481,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:11:40.4868729+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:10:41.4135583+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:04:20.9936062+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:11:40.4870562+00:00"
+  "LastUpdate_Ratings": "2024-01-19T12:03:55.9680811+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:10:41.4137181+00:00"
 }

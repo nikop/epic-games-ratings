@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 533,
+  "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -389,6 +389,11 @@
       "Time": "2024-01-10T20:06:58.8766191+00:00",
       "NumProgressed": 72,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T12:08:40.4841504+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -455,7 +460,7 @@
       "ID": "Hedda",
       "SetID": "d11cl5p",
       "Name": "Hilma af Klint",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
       "UsersEstimate": 9
     },
@@ -463,7 +468,7 @@
       "ID": "InterimCEO",
       "SetID": "d11cl5p",
       "Name": "Interim CEO",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -511,7 +516,7 @@
       "ID": "NouveauRiche",
       "SetID": "d11cl5p",
       "Name": "Nouveau riche",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
       "UsersEstimate": 9
     },
@@ -583,7 +588,7 @@
       "ID": "SmallAirfield",
       "SetID": "d11cl5p",
       "Name": "Small airfield",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
       "UsersEstimate": 39
     },
@@ -599,7 +604,7 @@
       "ID": "TakingOff",
       "SetID": "d11cl5p",
       "Name": "Taking off",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 10,
       "UsersEstimate": 50
     },
@@ -655,7 +660,7 @@
       "ID": "WhenIsTheNextDevBlog",
       "SetID": "d11cl5p",
       "Name": "\u0022When is the next dev blog?\u0022",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
       "UsersEstimate": 12
     },
@@ -672,14 +677,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:08:50.7853789+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:08:40.4841498+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:11.4106099+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:00:32.9405537+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:08:50.785399+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:59:34.6407153+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:08:40.4841802+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,706 |
-| The Assault | 5.00% | ~38,088 |
-| Life is your teacher | 5.00% | ~38,088 |
-| Lightning Hands | 5.00% | ~38,088 |
+| The Assault | 5.00% | ~38,089 |
+| Life is your teacher | 5.00% | ~38,089 |
+| Lightning Hands | 5.00% | ~38,089 |
 | The Hateful Pole Fighter | 3.00% | ~22,853 |
 | Stuntmaster | 3.00% | ~22,853 |
 | Street Fighting | 3.00% | ~22,853 |
@@ -32,11 +32,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,618 |
 | Project Arena | 1.00% | ~711 |
 | Muk Yan Master | 0.80% | ~6,094 |
-| Fight the way you practice | 0.80% | ~568 |
+| Fight the way you practice | 0.80% | ~569 |
 | Tiger on Fire | 0.70% | ~5,332 |
 | Source of Flying Daggers | 0.70% | ~5,332 |
 | Detective Story | 0.70% | ~5,332 |
-| Martial Hub | 0.70% | ~497 |
+| Martial Hub | 0.70% | ~498 |
 | Iron Money | 0.60% | ~4,571 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,571 |
 | Sword Stained With Blood | 0.60% | ~4,571 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,760 (Ranked 26)  
+Progressed: 761,772 (Ranked 26)  
 Completed: 12,993 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,15 +341,15 @@ Completed: 12,993 (1.71%) (Ranked 149)
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
-| 2024-01-19 | 761,760 | 12,993 |
+| 2024-01-19 | 761,772 | 12,993 |
 ## Awards
 Max (Great Boss Battles): 7,237  (Ranked 57)  
-Sum: 12,809 (Ranked 87)  
+Sum: 12,812 (Ranked 87)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,237 |
-| This game has Diverse Characters | 706 |
+| This game has Diverse Characters | 709 |
 | This game has Challenging Combat | 651 |
 | This game has Amazing Storytelling | 626 |
 | This game has Amazing Characters | 620 |
@@ -729,4 +729,4 @@ Diff (max vs sum): -30
 | 2024-01-16 | 4.82 | - | 7,221 | 12,772 |
 | 2024-01-17 | 4.82 | - | 7,227 | 12,784 |
 | 2024-01-18 | 4.82 | - | 7,227 | 12,798 |
-| 2024-01-19 | 4.82 | - | 7,237 | 12,809 |
+| 2024-01-19 | 4.82 | - | 7,237 | 12,812 |

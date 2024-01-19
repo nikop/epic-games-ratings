@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,11 +353,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1088,
+  "EOS_Progressed": 1091,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 0.83,
+  "EOS_Completed_Percentage": 0.82,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -3033,6 +3033,11 @@
       "Time": "2024-01-19T10:04:19.033902+00:00",
       "NumProgressed": 1088,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-19T12:04:45.7205151+00:00",
+      "NumProgressed": 1091,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3061,7 +3066,7 @@
       "Name": "The Small Does Not Rule",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_COMPLETION",
@@ -3093,7 +3098,7 @@
       "Name": "Ship Shape",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_FIND_BB_SPATULAS",
@@ -3109,7 +3114,7 @@
       "Name": "Shanghaied",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_JELLYFISHING",
@@ -3125,7 +3130,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3133,7 +3138,7 @@
       "Name": "Kelp Forest of Fear",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_MERMALAIR",
@@ -3165,7 +3170,7 @@
       "Name": "Sweet Victory",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -3173,7 +3178,7 @@
       "Name": "SpongeBob vs SpongeBob!",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ROCK_BOTTOM",
@@ -3197,7 +3202,7 @@
       "Name": "Sock Concert",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_SOCK_OPERA",
@@ -3237,7 +3242,7 @@
       "Name": "Mega Spatula Seeker",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_STAT_COLLECT_SOCKS",
@@ -3245,7 +3250,7 @@
       "Name": "Sock Getter",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "ACH_STAT_SPATULA_SEEKER",
@@ -3253,7 +3258,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3261,7 +3266,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3277,7 +3282,7 @@
       "Name": "Star Smasher",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -3293,22 +3298,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1088,
+      "Progressed": 1091,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:05:32.7466196+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:04:45.7205148+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:59:29.4200937+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:05:32.7466455+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:58:52.2701999+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:04:45.7205514+00:00"
 }

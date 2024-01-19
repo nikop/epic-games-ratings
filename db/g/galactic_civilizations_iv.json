@@ -2,7 +2,7 @@
   "ID": "fbab831cc1c94385b4e311f47f6fdc4f",
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 991,
   "Ranking_Popularity": 384,
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 199,
@@ -10156,9 +10156,9 @@
       "ID": "Recruit_Leader",
       "SetID": "4h07amh",
       "Name": "Recruit a Leader",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "Sell_10_Resource",
@@ -10460,8 +10460,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:11:33.2645206+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:10:35.9538884+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:57:42.3954095+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:11:33.264604+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:57:43.8043927+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:10:35.953973+00:00"
 }

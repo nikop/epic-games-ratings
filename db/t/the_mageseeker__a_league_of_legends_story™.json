@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3483,
+  "EOS_Progressed": 3484,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -6672,6 +6672,11 @@
       "Time": "2024-01-19T08:04:40.7863056+00:00",
       "NumProgressed": 3483,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-19T12:04:27.794907+00:00",
+      "NumProgressed": 3484,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 53,
@@ -6691,7 +6696,7 @@
       "Name": "Whispers in the Woods I",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "STB_COLISSEUM_FOURTH",
@@ -6747,7 +6752,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3309
+      "UsersEstimate": 3310
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6763,7 +6768,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6771,7 +6776,7 @@
       "Name": "I smell fear",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "STB_DEFEAT_KILLAN",
@@ -6795,7 +6800,7 @@
       "Name": "I chose my shackles",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_I",
@@ -6819,7 +6824,7 @@
       "Name": "Old friend",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -6843,7 +6848,7 @@
       "Name": "Silverwing nest",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "STB_HOOK_CHALLENGE",
@@ -6859,7 +6864,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6867,7 +6872,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3135
+      "UsersEstimate": 3136
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6899,7 +6904,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2647
+      "UsersEstimate": 2648
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6923,7 +6928,7 @@
       "Name": "Devineur",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -6931,7 +6936,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 940
+      "UsersEstimate": 941
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -6971,7 +6976,7 @@
       "Name": "The Great City of Demacia",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "STB_MISSION9_COMPLETED",
@@ -7019,7 +7024,7 @@
       "Name": "Ternmoat Headquarters",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1358
+      "UsersEstimate": 1359
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -7099,14 +7104,14 @@
       "Name": "Petricite Burst",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3483,
+      "Progressed": 3484,
       "Completed": 33
     }
   ],
@@ -7114,8 +7119,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:05:07.361922+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:04:27.7949066+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:00:34.7891921+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:05:07.3619922+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:59:35.9143199+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:04:27.7949859+00:00"
 }

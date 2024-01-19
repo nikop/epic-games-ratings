@@ -18,11 +18,11 @@
 | City ✔ | 7.00% | ~24 |
 | Hospital ✔ | 7.00% | ~24 |
 | Fraternal help ✔ | 7.00% | ~24 |
+| Alice ✔ | 6.00% | ~20 |
 | Antivirus ✔ | 6.00% | ~20 |
 | Betty ✔ | 6.00% | ~20 |
 | Cheats ✔ | 6.00% | ~20 |
 | King of survival ✔ | 6.00% | ~20 |
-| Alice ✔ | 5.00% | ~17 |
 | Brain ✔ | 5.00% | ~17 |
 | Eva ✔ | 5.00% | ~17 |
 | Food ✔ | 5.00% | ~17 |

@@ -7,7 +7,7 @@ Number of Ratings: 892  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Adept Assembler | 217.00% | ~1,964 |
-| Super Spelunker | 161.00% | ~1,457 |
+| Super Spelunker | 162.00% | ~1,466 |
 | Iron Chef | 150.00% | ~1,358 |
 | The Little Wood that Could | 130.00% | ~1,176 |
 | Officially Official | 130.00% | ~1,176 |
@@ -44,7 +44,7 @@ Number of Ratings: 892  (23.09.2022)
 | Anti-Santa | 63.00% | ~570 |
 | Who Ya Gonna Call...? | 62.00% | ~561 |
 | You Don't Win Friends With Salad | 62.00% | ~561 |
-| Time Flies | 60.00% | ~543 |
+| Time Flies | 61.00% | ~552 |
 | Happier-est Place on Earth | 60.00% | ~543 |
 | Call Me Fishmael | 58.00% | ~525 |
 | Finishing Touches | 57.00% | ~516 |

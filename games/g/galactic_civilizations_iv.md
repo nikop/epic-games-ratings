@@ -1,7 +1,7 @@
 # Galactic Civilizations IV
 [Store](https://store.epicgames.com/en-US/p/galactic-civilizations-iv)  
 [View Rawdata](../../db/g/galactic_civilizations_iv.json)  
-Rating: 4.17 (Ranked 992)  
+Rating: 4.17 (Ranked 991)  
 Number of Ratings: 429  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -43,12 +43,12 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Drengin | 0.70% | ~53 |
 | Win as the Krynn | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
+| Recruit a Leader | 0.60% | ~45 |
 | Win as the Drath | 0.60% | ~45 |
 | Win as the Iridium | 0.60% | ~45 |
 | Win as the Manti | 0.60% | ~45 |
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
-| Recruit a Leader | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
 | Ask Not What Your Empire Can Do For You | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |

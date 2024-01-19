@@ -513,9 +513,9 @@
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "BeatBossNaka",
@@ -722,8 +722,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:08:55.2925701+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:08:43.5711277+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.2162952+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:01:02.1983168+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:08:55.2925912+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:59:52.8530183+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:08:43.5711453+00:00"
 }

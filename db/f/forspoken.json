@@ -2,7 +2,7 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 998,
+  "Ranking_Rating": 997,
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 127,
@@ -673,7 +673,7 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47478,
+  "EOS_Progressed": 47481,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
@@ -19308,6 +19308,11 @@
       "Time": "2024-01-19T11:07:06.0726416+00:00",
       "NumProgressed": 47478,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T12:05:49.6668254+00:00",
+      "NumProgressed": 47481,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19367,7 +19372,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6172
+      "UsersEstimate": 6173
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19655,7 +19660,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5697
+      "UsersEstimate": 5698
     },
     {
       "ID": "SPRING_ALL",
@@ -19671,7 +19676,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3324
     },
     {
       "ID": "STAYING_AIR",
@@ -19742,22 +19747,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47478,
+      "Progressed": 47481,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12315,
-      "Completed": 12315
+      "Progressed": 12318,
+      "Completed": 12318
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:07:06.0726415+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:05:49.6668247+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-19T11:03:53.1665897+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:07:06.0727364+00:00"
+  "LastUpdate_Ratings": "2024-01-19T12:03:38.1124419+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:05:49.6669658+00:00"
 }

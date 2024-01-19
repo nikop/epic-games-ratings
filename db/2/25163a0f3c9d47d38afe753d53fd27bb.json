@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1798,
+  "EOS_Progressed": 1799,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.23,
   "EosHistory": [
@@ -4574,6 +4574,11 @@
       "Time": "2024-01-19T10:10:25.0241304+00:00",
       "NumProgressed": 1798,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-19T12:10:29.2923712+00:00",
+      "NumProgressed": 1799,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4585,7 +4590,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1709
     },
     {
       "ID": "LEVEL_002",
@@ -4593,7 +4598,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "LEVEL_003",
@@ -4617,7 +4622,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "LEVEL_006",
@@ -4625,7 +4630,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "LEVEL_007",
@@ -4633,7 +4638,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "LEVEL_008",
@@ -4641,7 +4646,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "LEVEL_009",
@@ -4649,7 +4654,7 @@
       "Name": "Going zig zag",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "LEVEL_010",
@@ -4824,14 +4829,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1798,
+      "Progressed": 1799,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-19T11:11:26.0154958+00:00",
+  "LastChanged_Achievements": "2024-01-19T12:10:29.292371+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-19T10:57:56.2319003+00:00",
-  "LastUpdate_Achievements": "2024-01-19T11:11:26.0155387+00:00"
+  "LastUpdate_Ratings": "2024-01-19T11:57:53.0653035+00:00",
+  "LastUpdate_Achievements": "2024-01-19T12:10:29.2923998+00:00"
 }

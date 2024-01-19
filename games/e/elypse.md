@@ -4,42 +4,42 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 97.00% | ~134 |
-| A bottomless pit | 80.00% | ~110 |
-| Pigeon | 77.00% | ~106 |
-| Baited | 66.00% | ~91 |
-| "Swoosh" | 59.00% | ~81 |
-| The light at the end of the tunnel | 58.00% | ~80 |
-| Masochistic | 53.00% | ~73 |
+| A path of no return | 97.00% | ~135 |
+| A bottomless pit | 80.00% | ~111 |
+| Pigeon | 77.00% | ~107 |
+| Baited | 65.00% | ~90 |
+| "Swoosh" | 58.00% | ~81 |
+| The light at the end of the tunnel | 58.00% | ~81 |
+| Masochistic | 53.00% | ~74 |
 | Soft skin | 49.00% | ~68 |
 | Splash! | 49.00% | ~68 |
 | Squid game | 41.00% | ~57 |
 | Rock Solid | 34.00% | ~47 |
-| The beast within | 33.00% | ~46 |
-| It's getting dark | 33.00% | ~46 |
-| Sensitive soul | 33.00% | ~46 |
-| Rooftop | 30.00% | ~41 |
+| The beast within | 32.00% | ~44 |
+| It's getting dark | 32.00% | ~44 |
+| Sensitive soul | 32.00% | ~44 |
+| Rooftop | 29.00% | ~40 |
 | Homeless | 29.00% | ~40 |
 | Hard Rock | 29.00% | ~40 |
 | Big badaboom! | 28.00% | ~39 |
-| Nokron tower | 25.00% | ~34 |
-| Bookworm | 25.00% | ~34 |
-| Payback | 25.00% | ~34 |
+| Payback | 25.00% | ~35 |
+| Nokron tower | 24.00% | ~33 |
+| Bookworm | 24.00% | ~33 |
 | Full power | 23.00% | ~32 |
 | "Ah sh*t... Here we go again!" | 23.00% | ~32 |
-| Compulsive hoarder | 22.00% | ~30 |
-| Magnitude 5 | 22.00% | ~30 |
+| Compulsive hoarder | 22.00% | ~31 |
+| Magnitude 5 | 22.00% | ~31 |
 | GG EZ | 16.00% | ~22 |
 | Comeback | 16.00% | ~22 |
 | MayDay! MayDay! | 10.00% | ~14 |
-| Gooooooaaaaal!!! | 7.00% | ~10 |
+| Gooooooaaaaal!!! | 6.00% | ~8 |
 | Sadistic | 1.00% | ~1 |
 | Abyssal God | 0.00% | ~0 |
 | What do you want? | 0.00% | ~0 |
 | Gold digger | 0.00% | ~0 |
 | Speedrunner | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 138 (Ranked 478)  
+Progressed: 139 (Ranked 477)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -118,3 +118,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-11 | 136 | 0 |
 | 2024-01-14 | 137 | 0 |
 | 2024-01-16 | 138 | 0 |
+| 2024-01-19 | 139 | 0 |
