@@ -4,7 +4,7 @@
   "ProductSlug": "figment2-creed-valley",
   "Ranking_EOS_Progress": 532,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 451,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -422,9 +422,9 @@
       "ID": "fluff_arguing_opinions_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Patient Listener",
-      "Percentage": 5,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "fluff_cerebrum_cider_priciple_square",
@@ -534,9 +534,9 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "story_principle_square",
@@ -559,8 +559,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:10:52.5106127+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:10:01.1178988+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.2509908+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:00:47.6159581+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:10:52.510624+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:59:38.5950858+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:10:01.1179103+00:00"
 }

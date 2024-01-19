@@ -36,12 +36,12 @@
 | Evelyn Lakshmi Warbeck | 25.00% | ~30 |
 | The Suspects | 25.00% | ~30 |
 | A curious phrase | 24.00% | ~28 |
-| Horace Mountjoy | 22.00% | ~26 |
-| The Secrets | 22.00% | ~26 |
+| Horace Mountjoy | 23.00% | ~27 |
+| The Secrets | 23.00% | ~27 |
+| A peculiar fellow | 21.00% | ~25 |
 | Johan Kristiansen | 21.00% | ~25 |
-| A peculiar fellow | 20.00% | ~24 |
-| Mortimer Ailsworth | 20.00% | ~24 |
-| Well-travelled | 19.00% | ~22 |
+| Mortimer Ailsworth | 21.00% | ~25 |
+| Well-travelled | 20.00% | ~24 |
 | Florence Farquhar | 19.00% | ~22 |
 | The Investigation Starts Anew | 19.00% | ~22 |
 | A treasured heirloom | 16.00% | ~19 |
@@ -51,7 +51,7 @@
 | A perilous journey | 14.00% | ~17 |
 | Perkins | 8.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 118 (Ranked 489)  
+Progressed: 118 (Ranked 490)  
 Completed: 5 (4.24%) (Ranked 89)  
 ## EOS Players History
 | Date | Progressed | Completed |

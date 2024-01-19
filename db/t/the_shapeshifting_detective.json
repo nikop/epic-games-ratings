@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 340,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -915,6 +915,11 @@
       "Time": "2024-01-19T05:06:07.9710011+00:00",
       "NumProgressed": 339,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T18:06:07.0447521+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -966,7 +971,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "heavy_rayne",
@@ -996,9 +1001,9 @@
       "ID": "oscar_winning_performance",
       "SetID": "2db2j74",
       "Name": "Oscar Winning Performance",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 41
+      "UsersEstimate": 37
     },
     {
       "ID": "patient_listener",
@@ -1006,7 +1011,7 @@
       "Name": "Patient Listener",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "play_it_again_sam",
@@ -1014,7 +1019,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "play_me_by_the_hour",
@@ -1022,7 +1027,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "poetent",
@@ -1054,7 +1059,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "the_big_sleep",
@@ -1086,14 +1091,14 @@
       "Name": "You Had One Job",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 3
     }
   ],
@@ -1101,8 +1106,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:07:45.4028986+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:06:07.0447517+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:16.8973889+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:03:35.247718+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:07:45.4029471+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:03:04.0460751+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:06:07.0447729+00:00"
 }

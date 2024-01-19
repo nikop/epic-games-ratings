@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -9948,9 +9948,9 @@
       "ID": "Destroy_Iconians_As_Yor",
       "SetID": "4h07amh",
       "Name": "Yor Dead Iconians",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 8
     },
     {
       "ID": "First_Civ_Designed",
@@ -10148,9 +10148,9 @@
       "ID": "Recruit_12_Leaders",
       "SetID": "4h07amh",
       "Name": "Recruit a Dozen Leaders",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 8
+      "UsersEstimate": 15
     },
     {
       "ID": "Recruit_Leader",
@@ -10460,8 +10460,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:10:59.7021109+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:10:07.2112228+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:57:34.2299747+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:10:59.7022151+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:57:23.6858593+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:10:07.211313+00:00"
 }

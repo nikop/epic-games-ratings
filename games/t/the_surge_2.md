@@ -6,18 +6,18 @@ Rating: 4.27 (Ranked 913)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rigged And Ready | 78.00% | ~2,033 |
-| Don't I Know You...? | 75.00% | ~1,954 |
+| Don't I Know You...? | 74.00% | ~1,929 |
 | Jailbreak | 64.00% | ~1,668 |
-| HEADSHOT! | 37.00% | ~964 |
-| Suited and Booted | 37.00% | ~964 |
+| HEADSHOT! | 37.00% | ~965 |
+| Suited and Booted | 37.00% | ~965 |
 | Sleeping With The Fishes | 34.00% | ~886 |
 | High Performance | 30.00% | ~782 |
 | Overheated | 29.00% | ~756 |
-| Powered Up | 27.00% | ~704 |
-| Studied The Blade | 24.00% | ~625 |
-| Home Invasion | 22.00% | ~573 |
-| Luminary | 22.00% | ~573 |
-| It's a Trap | 22.00% | ~573 |
+| Powered Up | 28.00% | ~730 |
+| Studied The Blade | 24.00% | ~626 |
+| Home Invasion | 22.00% | ~574 |
+| Luminary | 22.00% | ~574 |
+| It's a Trap | 22.00% | ~574 |
 | True Survivor | 21.00% | ~547 |
 | Offensive Defense | 20.00% | ~521 |
 | Shocking | 20.00% | ~521 |
@@ -38,9 +38,9 @@ Rating: 4.27 (Ranked 913)
 | Stimulating The Local Economy | 10.00% | ~261 |
 | Triplets | 10.00% | ~261 |
 | Denying Prophecy | 9.00% | ~235 |
-| A Little Banged Up | 8.00% | ~208 |
-| Following In Their Footsteps | 8.00% | ~208 |
-| Defense in Depth | 8.00% | ~208 |
+| A Little Banged Up | 8.00% | ~209 |
+| Following In Their Footsteps | 8.00% | ~209 |
+| Defense in Depth | 8.00% | ~209 |
 | Reverse Engineering | 7.00% | ~182 |
 | Remote Surgery | 6.00% | ~156 |
 | Turbo Booster | 6.00% | ~156 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 913)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,606 (Ranked 239)  
+Progressed: 2,607 (Ranked 239)  
 Completed: 13 (0.50%) (Ranked 227)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -274,7 +274,7 @@ Completed: 13 (0.50%) (Ranked 227)
 | 2024-01-16 | 2,597 | 13 |
 | 2024-01-17 | 2,599 | 13 |
 | 2024-01-18 | 2,604 | 13 |
-| 2024-01-19 | 2,606 | 13 |
+| 2024-01-19 | 2,607 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

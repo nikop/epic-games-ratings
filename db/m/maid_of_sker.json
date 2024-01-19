@@ -2,9 +2,9 @@
   "ID": "89a30c2a3fdb4281b5df57350e797ca9",
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
-  "Ranking_EOS_Progress": 404,
+  "Ranking_EOS_Progress": 401,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 339,
+  "Ranking_EOS_NewPlayers": 336,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 307,
+  "EOS_Progressed": 308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -890,6 +890,11 @@
       "Time": "2024-01-18T15:05:09.2921463+00:00",
       "NumProgressed": 307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T18:05:24.1150332+00:00",
+      "NumProgressed": 308,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -933,7 +938,7 @@
       "Name": "Chief Butler",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "choking_hazzard",
@@ -1027,7 +1032,7 @@
       "ID": "luddite",
       "SetID": "3j2phem",
       "Name": "Luddite",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -1035,7 +1040,7 @@
       "ID": "maids_of_sker",
       "SetID": "3j2phem",
       "Name": "Maids of Sker",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -1140,7 +1145,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 307,
+      "Progressed": 308,
       "Completed": 0
     }
   ],
@@ -1148,8 +1153,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:06:46.1034857+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:05:24.1150328+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:33.033911+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:01:10.9823346+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:06:46.1035036+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:59:53.5934212+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:05:24.1150536+00:00"
 }

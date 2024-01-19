@@ -5,37 +5,37 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,691 |
-| Break A Leg | 9.00% | ~72,565 |
-| Hotel California | 9.00% | ~72,565 |
-| Coup de Grâce | 8.00% | ~64,502 |
-| Hazardous Materials | 8.00% | ~64,502 |
-| Git Gutte! | 7.00% | ~56,439 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,439 |
-| Dr. Reed, I Presume? | 6.00% | ~48,377 |
-| Bookworm | 6.00% | ~48,377 |
-| Friends Like These | 6.00% | ~48,377 |
-| Apex Predator | 6.00% | ~48,377 |
-| Stacking the Deck | 6.00% | ~48,377 |
-| Anger Management | 5.00% | ~40,314 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,314 |
-| But Doctor, I am Butcho | 5.00% | ~40,314 |
-| Can't Handle the Truth | 5.00% | ~40,314 |
-| This is My Weapon | 5.00% | ~40,314 |
-| Making Your Mark | 4.00% | ~32,251 |
-| Perks of the Job | 4.00% | ~32,251 |
-| Slayer Squad | 4.00% | ~32,251 |
-| Like Riding a Bike | 4.00% | ~32,251 |
-| Zombologist | 4.00% | ~32,251 |
-| Ooh, Shiny! | 4.00% | ~32,251 |
-| A Patton Emerges | 4.00% | ~32,251 |
-| I Am the Resurrection | 4.00% | ~32,251 |
-| Our True Nature | 4.00% | ~32,251 |
-| Whatever It Takes | 4.00% | ~5,273 |
-| Pork Chopped | 4.00% | ~5,273 |
-| Humanity Distilled | 3.00% | ~24,188 |
-| Down with the Sickness | 3.00% | ~24,188 |
-| One of Us | 3.00% | ~3,955 |
+| Welcome To Hell-A | 11.00% | ~88,695 |
+| Break A Leg | 9.00% | ~72,569 |
+| Hotel California | 9.00% | ~72,569 |
+| Coup de Grâce | 8.00% | ~64,506 |
+| Hazardous Materials | 8.00% | ~64,506 |
+| Git Gutte! | 7.00% | ~56,443 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,443 |
+| Dr. Reed, I Presume? | 6.00% | ~48,379 |
+| Bookworm | 6.00% | ~48,379 |
+| Friends Like These | 6.00% | ~48,379 |
+| Apex Predator | 6.00% | ~48,379 |
+| Stacking the Deck | 6.00% | ~48,379 |
+| Anger Management | 5.00% | ~40,316 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,316 |
+| But Doctor, I am Butcho | 5.00% | ~40,316 |
+| Can't Handle the Truth | 5.00% | ~40,316 |
+| This is My Weapon | 5.00% | ~40,316 |
+| Making Your Mark | 4.00% | ~32,253 |
+| Perks of the Job | 4.00% | ~32,253 |
+| Slayer Squad | 4.00% | ~32,253 |
+| Like Riding a Bike | 4.00% | ~32,253 |
+| Zombologist | 4.00% | ~32,253 |
+| Ooh, Shiny! | 4.00% | ~32,253 |
+| A Patton Emerges | 4.00% | ~32,253 |
+| I Am the Resurrection | 4.00% | ~32,253 |
+| Our True Nature | 4.00% | ~32,253 |
+| Whatever It Takes | 4.00% | ~5,275 |
+| Pork Chopped | 4.00% | ~5,275 |
+| Humanity Distilled | 3.00% | ~24,190 |
+| Down with the Sickness | 3.00% | ~24,190 |
+| One of Us | 3.00% | ~3,956 |
 | Smorgasbord | 2.00% | ~16,126 |
 | Not Even My Final Form | 2.00% | ~16,126 |
 | Internet Famous | 2.00% | ~16,126 |
@@ -53,11 +53,11 @@ Rating: 4.54 (Ranked 551)
 | Survival Skills | 0.60% | ~4,838 |
 | Top That, Tisha! | 0.60% | ~791 |
 | Donk! | 0.40% | ~3,225 |
-| Lawn and Order | 0.30% | ~395 |
+| Lawn and Order | 0.30% | ~396 |
 | Bucket List | 0.10% | ~806 |
 | Wilhelm | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806,278 (Ranked 23)  
+Progressed: 806,322 (Ranked 23)  
 Completed: 2,601 (0.32%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 2,601 (0.32%) (Ranked 259)
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
 | 2024-01-18 | 805,908 | 2,599 |
-| 2024-01-19 | 806,278 | 2,601 |
+| 2024-01-19 | 806,322 | 2,601 |
 ## Awards
 Max (Great Boss Battles): 10,659  (Ranked 40)  
 Sum: 16,361 (Ranked 71)  

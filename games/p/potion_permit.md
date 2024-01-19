@@ -5,17 +5,17 @@ Rating: 3.87 (Ranked 1,080)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Moonbury | 98.00% | ~1,929 |
-| The First Step | 87.00% | ~1,712 |
+| Welcome to Moonbury | 98.00% | ~1,930 |
+| The First Step | 87.00% | ~1,713 |
 | Moonbury Traveller | 63.00% | ~1,240 |
 | Rookie Chemist | 60.00% | ~1,181 |
 | Great Doctor | 50.00% | ~984 |
 | Dog Whisperer | 47.00% | ~925 |
-| Friendly | 46.00% | ~905 |
-| K.O.! | 43.00% | ~846 |
-| The Capitalist | 43.00% | ~846 |
+| Friendly | 46.00% | ~906 |
+| K.O.! | 43.00% | ~847 |
+| The Capitalist | 43.00% | ~847 |
 | Intermediate Chemist | 39.00% | ~768 |
-| Decorative Mind | 33.00% | ~649 |
+| Decorative Mind | 33.00% | ~650 |
 | Lumber Specialist | 31.00% | ~610 |
 | Kind-hearted | 25.00% | ~492 |
 | Catch of the Day | 25.00% | ~492 |
@@ -28,9 +28,9 @@ Rating: 3.87 (Ranked 1,080)
 | Line Cook | 13.00% | ~256 |
 | Sociable | 12.00% | ~236 |
 | Ablutomaniac | 12.00% | ~236 |
-| Production Sorter | 11.00% | ~216 |
+| Production Sorter | 11.00% | ~217 |
 | Good Samaritan | 10.00% | ~197 |
-| Acrobatic Adventurer | 10.00% | ~197 |
+| Acrobatic Adventurer | 9.00% | ~177 |
 | Animal Exterminator | 9.00% | ~177 |
 | Adolescent Love | 6.00% | ~118 |
 | Mail Carrier | 6.00% | ~118 |
@@ -44,7 +44,7 @@ Rating: 3.87 (Ranked 1,080)
 | Moonbury Navigator | 1.00% | ~20 |
 | Being a donut... | 0.70% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,968 (Ranked 256)  
+Progressed: 1,969 (Ranked 256)  
 Completed: 11 (0.56%) (Ranked 220)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -243,7 +243,7 @@ Completed: 11 (0.56%) (Ranked 220)
 | 2024-01-16 | 1,958 | 11 |
 | 2024-01-17 | 1,963 | 11 |
 | 2024-01-18 | 1,967 | 11 |
-| 2024-01-19 | 1,968 | 11 |
+| 2024-01-19 | 1,969 | 11 |
 ## Awards
 Max (Character Customization): 72  (Ranked 416)  
 Sum: 72 (Ranked 493)  

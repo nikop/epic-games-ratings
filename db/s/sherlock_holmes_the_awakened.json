@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 215,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -5536,9 +5536,9 @@
       "ID": "MQ05_2",
       "SetID": "bbing49",
       "Name": "Back In The Saddle",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 621
+      "UsersEstimate": 636
     },
     {
       "ID": "MQ05_3",
@@ -5649,8 +5649,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-19T12:03:49.5981342+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:08:05.7602849+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:06:21.8738626+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:03:40.5581398+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:08:05.7603305+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:03:08.0870532+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:06:21.8739085+00:00"
 }

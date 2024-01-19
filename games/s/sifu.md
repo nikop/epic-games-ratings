@@ -47,12 +47,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.40% | ~3,047 |
 | The Pit Protector | 0.40% | ~3,047 |
 | Come Snap With Me | 0.40% | ~3,047 |
-| Drunken Fighter | 0.30% | ~2,285 |
-| Martial Artist | 0.30% | ~2,285 |
-| Healing Memory | 0.30% | ~2,285 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,285 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,285 |
-| Be like water my friend | 0.30% | ~2,285 |
+| Drunken Fighter | 0.30% | ~2,286 |
+| Martial Artist | 0.30% | ~2,286 |
+| Healing Memory | 0.30% | ~2,286 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,286 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,286 |
+| Be like water my friend | 0.30% | ~2,286 |
 | Deadly Venom | 0.30% | ~213 |
 | A Touch of Acumen | 0.30% | ~213 |
 | Secure, Protect, Leave | 0.20% | ~142 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,833 (Ranked 26)  
+Progressed: 761,839 (Ranked 26)  
 Completed: 12,994 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 12,994 (1.71%) (Ranked 149)
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
-| 2024-01-19 | 761,833 | 12,994 |
+| 2024-01-19 | 761,839 | 12,994 |
 ## Awards
 Max (Great Boss Battles): 7,237  (Ranked 57)  
 Sum: 12,812 (Ranked 87)  

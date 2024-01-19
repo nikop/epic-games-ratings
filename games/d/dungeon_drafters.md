@@ -25,8 +25,8 @@
 | Oracle Mastery | 6.00% | ~9 |
 | Ancient Nemesis | 5.00% | ~8 |
 | Traveler Mastery | 5.00% | ~8 |
+| The Plot Thickens | 5.00% | ~8 |
 | Warden Mastery | 4.00% | ~6 |
-| The Plot Thickens | 4.00% | ~6 |
 | Raider Mastery | 3.00% | ~4 |
 | Best Pupil | 2.00% | ~3 |
 | FOR JUSTICE! | 2.00% | ~3 |
@@ -45,7 +45,7 @@
 | The New Demon Lord | 0.70% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 466)  
+Progressed: 150 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |

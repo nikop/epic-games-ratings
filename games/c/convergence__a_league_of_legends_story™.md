@@ -5,12 +5,12 @@ Rating: 4.66 (Ranked 305)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~630 |
+| Time Heals All Wounds | 47.00% | ~631 |
 | Rail Rat | 36.00% | ~483 |
-| The Mysterious Stranger | 35.00% | ~469 |
-| Immaculate Aim | 30.00% | ~402 |
+| The Mysterious Stranger | 35.00% | ~470 |
+| Immaculate Aim | 30.00% | ~403 |
 | The Brass Boss | 29.00% | ~389 |
-| Time Flies | 28.00% | ~375 |
+| Time Flies | 28.00% | ~376 |
 | Make Up For Lost Time | 27.00% | ~362 |
 | No, Thanks! | 27.00% | ~362 |
 | The Prince in Heels | 27.00% | ~362 |
@@ -18,11 +18,11 @@ Rating: 4.66 (Ranked 305)
 | Immaculate Aim | 27.00% | ~362 |
 | The Harder They Fall | 26.00% | ~349 |
 | Fast Learner | 26.00% | ~349 |
-| The Steel Shadow | 25.00% | ~335 |
+| The Steel Shadow | 25.00% | ~336 |
 | Breaking Down Barriers | 24.00% | ~322 |
 | The Wicked Twins | 24.00% | ~322 |
-| Right On Time | 23.00% | ~308 |
-| Golem Chaser | 23.00% | ~308 |
+| Right On Time | 23.00% | ~309 |
+| Golem Chaser | 23.00% | ~309 |
 | Like Clockwork | 22.00% | ~295 |
 | The Betrayer | 22.00% | ~295 |
 | Check Your Pulse | 21.00% | ~282 |
@@ -47,9 +47,9 @@ Rating: 4.66 (Ranked 305)
 | Entresol Explorer | 9.00% | ~121 |
 | Sartorialist | 8.00% | ~107 |
 | Golem Hunter | 7.00% | ~94 |
-| Clovemary for Remembering | 6.00% | ~80 |
-| Hexlock for Protection | 6.00% | ~80 |
-| Rungs Was Right | 6.00% | ~80 |
+| Clovemary for Remembering | 6.00% | ~81 |
+| Hexlock for Protection | 6.00% | ~81 |
+| Rungs Was Right | 6.00% | ~81 |
 | Wunderkind | 3.00% | ~40 |
 | Thinking Two Steps Ahead | 2.00% | ~27 |
 | Fitting In | 2.00% | ~27 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 305)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,341 (Ranked 282)  
+Progressed: 1,342 (Ranked 282)  
 Completed: 8 (0.60%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 8 (0.60%) (Ranked 215)
 | 2024-01-16 | 1,333 | 8 |
 | 2024-01-17 | 1,335 | 8 |
 | 2024-01-18 | 1,339 | 8 |
-| 2024-01-19 | 1,341 | 8 |
+| 2024-01-19 | 1,342 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

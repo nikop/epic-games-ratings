@@ -4,7 +4,7 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewPlayers": 357,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.08,
+  "EOS_Completed_Percentage": 2.07,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -790,6 +790,11 @@
       "Time": "2024-01-18T21:05:28.4803015+00:00",
       "NumProgressed": 289,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-19T18:04:21.554199+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -809,7 +814,7 @@
       "Name": "Comedy Killer",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -833,15 +838,15 @@
       "Name": "Good job, nerd",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 96
     },
     {
       "ID": "lootaphilia",
@@ -879,9 +884,9 @@
       "ID": "super_seducer",
       "SetID": "84ad177",
       "Name": "Super Seducer",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 150
+      "UsersEstimate": 148
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -889,7 +894,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "thats_my_boy",
@@ -921,7 +926,7 @@
       "Name": "Um, ok...",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -936,7 +941,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 6
     }
   ],
@@ -944,8 +949,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:05:20.4870514+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:04:21.5541986+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.7913402+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:03:48.9862986+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:05:20.4870695+00:00"
+  "LastUpdate_Ratings": "2024-01-19T18:03:14.5050531+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:04:21.5542175+00:00"
 }

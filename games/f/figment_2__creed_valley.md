@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Hog Down | 64.00% | ~48 |
+| Black Hog Down | 65.00% | ~49 |
 | Remembering of the past | 47.00% | ~35 |
 | Fight like an idiot | 39.00% | ~29 |
 | Ouch, that hurt! | 36.00% | ~27 |
@@ -17,7 +17,7 @@
 | Dance like an idiot | 15.00% | ~11 |
 | I'm Back at the Surface now | 13.00% | ~10 |
 | Come full circle | 12.00% | ~9 |
-| Patient Listener | 5.00% | ~4 |
+| Patient Listener | 7.00% | ~5 |
 | GOAAAAAAAAAL! | 5.00% | ~4 |
 | Whac-a-worker | 3.00% | ~2 |
 | You're a-MAZE-ing! | 1.00% | ~1 |

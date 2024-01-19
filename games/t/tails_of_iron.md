@@ -1,7 +1,7 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 499)  
+Rating: 4.57 (Ranked 497)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,15 +30,15 @@ Rating: 4.57 (Ranked 499)
 | The Bright Fir | 2.00% | ~20 |
 | Return the Statues | 1.00% | ~23 |
 | Complete the Chefs Book | 1.00% | ~23 |
+| Defeat Avor Warden of the Northern Wastes | 1.00% | ~23 |
 | Defeat Rattus Augustail | 1.00% | ~23 |
 | Fix the Travellers Wagon | 1.00% | ~23 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
-| Defeat Avor Warden of the Northern Wastes | 0.90% | ~21 |
+| Discover the mystery of the Kings Chambers | 0.90% | ~21 |
+| Complete Redgi's Armory | 0.80% | ~19 |
 | Complete Arena Faction | 0.80% | ~19 |
 | Complete Ranger Faction | 0.80% | ~19 |
-| Discover the mystery of the Kings Chambers | 0.80% | ~19 |
-| Complete Redgi's Armory | 0.70% | ~16 |
 | King of Kings | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

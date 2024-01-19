@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9623,10 +9623,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33563,
       "NumberOfAwardsMax": 5801
+    },
+    {
+      "Time": "2024-01-19T17:59:44.9240101+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33565,
+      "NumberOfAwardsMax": 5801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33563,
+  "NumberOfAwards": 33565,
   "NumberOfAwardsMax": 5801,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9646,7 +9652,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4916
+      "Count": 4918
     },
     {
       "Text": "This game is Relaxing",
@@ -9673,9 +9679,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254713,
+  "EOS_Progressed": 254732,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1159,
+  "EOS_NewPlayers": 1171,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40803,6 +40809,11 @@
       "Time": "2024-01-19T17:11:09.5933856+00:00",
       "NumProgressed": 254713,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-19T18:10:16.0943034+00:00",
+      "NumProgressed": 254732,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -41182,7 +41193,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "objective_completed_110",
@@ -41678,7 +41689,7 @@
       "Name": "Were-verpowered",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 2292
+      "UsersEstimate": 2293
     },
     {
       "ID": "objective_completed_1203",
@@ -42260,9 +42271,9 @@
       "ID": "objective_completed_235",
       "SetID": "cc37lbc",
       "Name": "The Botched Kidnapping",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 764
     },
     {
       "ID": "objective_completed_236",
@@ -42486,7 +42497,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "objective_completed_34",
@@ -43958,7 +43969,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "objective_completed_70",
@@ -45181,21 +45192,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220987,
+      "Progressed": 221006,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254713,
+      "Progressed": 254732,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-19T11:01:14.5748225+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:11:09.5933854+00:00",
+  "LastChanged": "2024-01-19T17:59:44.9240099+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:10:16.094303+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:00:57.4282828+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:11:09.5956125+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:59:44.9240108+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:10:16.0965833+00:00"
 }

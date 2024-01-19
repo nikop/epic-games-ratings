@@ -15,9 +15,9 @@
 | Breathless End | 19.00% | ~20 |
 | Bathroom Brawler | 18.00% | ~19 |
 | Codebreaker | 18.00% | ~19 |
+| Flying High | 18.00% | ~19 |
 | Set Sail | 18.00% | ~19 |
 | Backstory Buff | 17.00% | ~18 |
-| Flying High | 17.00% | ~18 |
 | Key Keeper's Curse | 6.00% | ~6 |
 | Freedum Fighter | 5.00% | ~5 |
 | Fool's Gold | 4.00% | ~4 |

@@ -15,7 +15,7 @@ Number of Ratings: 1,919  (23.09.2022)
 | Dark Crystal, Warrior's Heart | 71.00% | ~58,618 |
 | The King of the Dark Elves | 68.00% | ~56,141 |
 | Memories of the Distant Past | 66.00% | ~54,490 |
-| Distortion's Progeny | 62.00% | ~51,187 |
+| Distortion's Progeny | 63.00% | ~52,013 |
 | Savant | 61.00% | ~50,362 |
 | A Landscape of Memory | 58.00% | ~47,885 |
 | The Wind's Light | 54.00% | ~44,582 |

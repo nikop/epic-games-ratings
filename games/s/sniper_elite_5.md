@@ -5,9 +5,9 @@ Rating: 4.48 (Ranked 660)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,022 |
-| Confirming Suspicions | 42.00% | ~1,807 |
-| The Kraken Wakes | 38.00% | ~1,635 |
+| Meeting Resistance | 47.00% | ~2,023 |
+| Confirming Suspicions | 42.00% | ~1,808 |
+| The Kraken Wakes | 38.00% | ~1,636 |
 | It's Starting to Crack | 35.00% | ~1,506 |
 | Change the Channel | 32.00% | ~1,377 |
 | Lord of War | 31.00% | ~1,334 |
@@ -24,16 +24,16 @@ Rating: 4.48 (Ranked 660)
 | Climbing the Ladder | 17.00% | ~732 |
 | Just a Flesh Wound | 17.00% | ~732 |
 | Der Geist | 17.00% | ~732 |
-| Skirmisher | 16.00% | ~688 |
-| Close Quarters | 16.00% | ~688 |
-| Snake in the Grass | 16.00% | ~688 |
-| Brains of the Operation | 16.00% | ~688 |
-| No Stone Unturned | 15.00% | ~645 |
-| Die Nussknacker Sweet! | 15.00% | ~645 |
-| Opposing Force | 14.00% | ~602 |
-| Enemy at the Gates | 14.00% | ~602 |
-| Fields of Glory | 14.00% | ~602 |
-| Set Europe Ablaze | 14.00% | ~602 |
+| Skirmisher | 16.00% | ~689 |
+| Close Quarters | 16.00% | ~689 |
+| Snake in the Grass | 16.00% | ~689 |
+| Brains of the Operation | 16.00% | ~689 |
+| No Stone Unturned | 15.00% | ~646 |
+| Die Nussknacker Sweet! | 15.00% | ~646 |
+| Opposing Force | 14.00% | ~603 |
+| Enemy at the Gates | 14.00% | ~603 |
+| Fields of Glory | 14.00% | ~603 |
+| Set Europe Ablaze | 14.00% | ~603 |
 | Precision Is Key | 10.00% | ~430 |
 | My Little Friend | 10.00% | ~430 |
 | Rigged to Blow | 9.00% | ~387 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 660)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,303 (Ranked 215)  
+Progressed: 4,304 (Ranked 215)  
 Completed: 11 (0.26%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 11 (0.26%) (Ranked 272)
 | 2024-01-16 | 4,292 | 11 |
 | 2024-01-17 | 4,295 | 11 |
 | 2024-01-18 | 4,301 | 11 |
-| 2024-01-19 | 4,303 | 11 |
+| 2024-01-19 | 4,304 | 11 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 527)  
 Sum: 30 (Ranked 549)  

@@ -4,7 +4,7 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,7 +20,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 996,
+  "EOS_Progressed": 997,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
@@ -3615,6 +3615,11 @@
       "Time": "2024-01-19T08:06:05.9737945+00:00",
       "NumProgressed": 996,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T18:04:56.1367831+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3627,7 +3632,7 @@
       "Name": "The Ultimate Prize",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "achievement_10",
@@ -3635,7 +3640,7 @@
       "Name": "Holey Moley",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "achievement_11",
@@ -3643,7 +3648,7 @@
       "Name": "Bomb\u0027s Away",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "achievement_12",
@@ -3705,9 +3710,9 @@
       "ID": "achievement_2",
       "SetID": "7ldgi7j",
       "Name": "A Tradition Unlike Any Other",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 169
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_3",
@@ -3737,9 +3742,9 @@
       "ID": "achievement_6",
       "SetID": "7ldgi7j",
       "Name": "The Strongest Field in Golf",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 229
+      "UsersEstimate": 239
     },
     {
       "ID": "achievement_7",
@@ -3755,7 +3760,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "achievement_9",
@@ -3770,13 +3775,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 996,
+      "Progressed": 997,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:06:08.1912906+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:04:56.1367827+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.0492343+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:59:27.8991524+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:06:08.1913264+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:58:43.4805947+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:04:56.1368149+00:00"
 }

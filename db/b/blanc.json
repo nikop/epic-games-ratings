@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 209,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4163,
+  "EOS_Progressed": 4165,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7261,6 +7261,11 @@
       "Time": "2024-01-19T17:04:10.4345399+00:00",
       "NumProgressed": 4163,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-19T18:03:29.8064667+00:00",
+      "NumProgressed": 4165,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7304,7 +7309,7 @@
       "Name": "The will to move on",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "REUNION",
@@ -7312,7 +7317,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "SLIDERS",
@@ -7336,7 +7341,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -7366,16 +7371,16 @@
       "ID": "UNEXPECTED_ENCOUNTER",
       "SetID": "1a29mp6",
       "Name": "Unexpected encounter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 708
+      "UsersEstimate": 666
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4163,
+      "Progressed": 4165,
       "Completed": 6
     }
   ],
@@ -7383,8 +7388,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:04:10.4345396+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:03:29.8064661+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:33.446333+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:57:17.0557393+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:04:10.4345902+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:57:11.9914671+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:03:29.8065601+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.52 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~24,963 |
-| I've Had Enough! | 15.00% | ~18,723 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,730 |
-| Seasoned Fighter | 9.00% | ~11,234 |
-| All For One and One For All | 8.00% | ~9,985 |
-| Home Sweet Home? | 6.00% | ~7,489 |
+| All Grown Up! | 20.00% | ~24,966 |
+| I've Had Enough! | 15.00% | ~18,724 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,731 |
+| Seasoned Fighter | 9.00% | ~11,235 |
+| All For One and One For All | 8.00% | ~9,986 |
+| Home Sweet Home? | 6.00% | ~7,490 |
 | A New Age | 5.00% | ~6,241 |
 | Oh Baby, A Triple | 3.00% | ~3,745 |
 | Master of Disguise | 3.00% | ~3,745 |
 | Symbiotic | 3.00% | ~3,745 |
-| Battle Hardened | 2.00% | ~2,496 |
-| Double Punch! | 2.00% | ~2,496 |
-| It's Mayhem! | 2.00% | ~2,496 |
-| Right back at'cha | 2.00% | ~2,496 |
-| Spectacular Finisher | 2.00% | ~2,496 |
+| Battle Hardened | 2.00% | ~2,497 |
+| Double Punch! | 2.00% | ~2,497 |
+| It's Mayhem! | 2.00% | ~2,497 |
+| Right back at'cha | 2.00% | ~2,497 |
+| Spectacular Finisher | 2.00% | ~2,497 |
 | Cautious Veteran | 1.00% | ~1,248 |
 | Katamari | 1.00% | ~1,248 |
 | Martyrdom | 1.00% | ~1,248 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 581)
 | What's Mine is Yours | 0.10% | ~125 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,817 (Ranked 93)  
+Progressed: 124,829 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,7 +86,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 123,753 | 0 |
 | 2024-01-17 | 124,143 | 0 |
 | 2024-01-18 | 124,518 | 0 |
-| 2024-01-19 | 124,817 | 0 |
+| 2024-01-19 | 124,829 | 0 |
 ## Awards
 Max (Great Boss Battles): 57  (Ranked 442)  
 Sum: 57 (Ranked 506)  

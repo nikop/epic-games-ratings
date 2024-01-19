@@ -64,10 +64,10 @@
 | Key memories | 27.00% | ~160 |
 | Careerist | 27.00% | ~160 |
 | The heart of the Resistance | 27.00% | ~160 |
+| The only right decision | 26.00% | ~154 |
 | The last bell ring | 26.00% | ~154 |
 | Anyone can resist | 26.00% | ~154 |
 | Better cooking at home | 25.00% | ~148 |
-| The only right decision | 25.00% | ~148 |
 | Your own way | 25.00% | ~148 |
 | Silver’s past | 24.00% | ~142 |
 ## Popularity (Based on EOS Achievements)

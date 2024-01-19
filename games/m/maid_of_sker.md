@@ -13,13 +13,13 @@
 | Perfect Harmony! | 12.00% | ~37 |
 | Bull in a China Shop | 8.00% | ~25 |
 | Wales Interactive | 8.00% | ~25 |
-| Chief Butler | 7.00% | ~21 |
+| Chief Butler | 7.00% | ~22 |
 | Sker Explorer | 5.00% | ~15 |
 | The Long Night | 2.00% | ~6 |
 | Ending on a High Note | 1.00% | ~3 |
 | Phonic Boom | 1.00% | ~3 |
-| Luddite | 0.70% | ~2 |
-| Maids of Sker | 0.70% | ~2 |
+| Luddite | 0.60% | ~2 |
+| Maids of Sker | 0.60% | ~2 |
 | Axe of Kindness | 0.30% | ~1 |
 | In Darkness | 0.30% | ~1 |
 | Scholar | 0.30% | ~1 |
@@ -35,7 +35,7 @@
 | Nuisance Caller | 0.00% | ~0 |
 | The Longest Night | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 307 (Ranked 404)  
+Progressed: 308 (Ranked 401)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 303 | 0 |
 | 2024-01-17 | 306 | 0 |
 | 2024-01-18 | 307 | 0 |
+| 2024-01-19 | 308 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

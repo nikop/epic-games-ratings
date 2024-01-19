@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17434,
+  "EOS_Progressed": 17435,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 540,
+  "EOS_NewPlayers": 539,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12744,6 +12744,11 @@
       "Time": "2024-01-19T17:04:52.6393208+00:00",
       "NumProgressed": 17434,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T18:04:00.6476058+00:00",
+      "NumProgressed": 17435,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12795,7 +12800,7 @@
       "Name": "Time to pay up!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "Ach007",
@@ -12803,7 +12808,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "Ach008",
@@ -12867,7 +12872,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6276
+      "UsersEstimate": 6277
     },
     {
       "ID": "Ach016",
@@ -12883,7 +12888,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4358
+      "UsersEstimate": 4359
     },
     {
       "ID": "Ach018",
@@ -12931,7 +12936,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9763
+      "UsersEstimate": 9764
     },
     {
       "ID": "Ach024",
@@ -13003,7 +13008,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "Ach033",
@@ -13083,7 +13088,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "Ach043",
@@ -13123,7 +13128,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7322
+      "UsersEstimate": 7323
     },
     {
       "ID": "Ach048",
@@ -13155,7 +13160,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8717
+      "UsersEstimate": 8718
     },
     {
       "ID": "Ach052",
@@ -13322,13 +13327,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17434,
+      "Progressed": 17435,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15955,
+      "Progressed": 15956,
       "Completed": 1931
     }
   ],
@@ -13336,8 +13341,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:04:52.6393203+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:04:00.6476054+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:58:17.277098+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:04:52.6394499+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:57:55.6455288+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:04:00.6477162+00:00"
 }

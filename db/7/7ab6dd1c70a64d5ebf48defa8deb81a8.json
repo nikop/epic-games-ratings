@@ -117,7 +117,7 @@
   "Tags": [],
   "EOS_Progressed": 2388,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 126,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4955,9 +4955,9 @@
       "ID": "ACH_18",
       "SetID": "efe2lj",
       "Name": "Shatter Them All",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 597
+      "UsersEstimate": 621
     },
     {
       "ID": "ACH_19",
@@ -5116,8 +5116,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:10:57.990623+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:10:05.8178578+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:58:12.2921612+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:10:57.9906701+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:57:51.5354789+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:10:05.8178933+00:00"
 }

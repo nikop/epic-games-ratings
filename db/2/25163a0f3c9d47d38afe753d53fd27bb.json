@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1802,
+  "EOS_Progressed": 1804,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.21,
   "EosHistory": [
@@ -4589,6 +4589,11 @@
       "Time": "2024-01-19T16:11:08.262268+00:00",
       "NumProgressed": 1802,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-19T18:10:01.2482107+00:00",
+      "NumProgressed": 1804,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4600,7 +4605,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1712
+      "UsersEstimate": 1714
     },
     {
       "ID": "LEVEL_002",
@@ -4608,7 +4613,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "LEVEL_003",
@@ -4616,7 +4621,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1207
+      "UsersEstimate": 1209
     },
     {
       "ID": "LEVEL_004",
@@ -4624,7 +4629,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "LEVEL_005",
@@ -4632,7 +4637,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "LEVEL_006",
@@ -4672,7 +4677,7 @@
       "Name": "Rocks around the island",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "LEVEL_011",
@@ -4680,7 +4685,7 @@
       "Name": "This island of mine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "LEVEL_012",
@@ -4688,7 +4693,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "LEVEL_013",
@@ -4696,7 +4701,7 @@
       "Name": "Higher ground",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "LEVEL_014",
@@ -4704,7 +4709,7 @@
       "Name": "Cross-country",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "LEVEL_015",
@@ -4712,7 +4717,7 @@
       "Name": "Flatland",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "LEVEL_016",
@@ -4720,7 +4725,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "LEVEL_017",
@@ -4728,7 +4733,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_018",
@@ -4736,7 +4741,7 @@
       "Name": "Isle rock city",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "LEVEL_019",
@@ -4839,14 +4844,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1802,
+      "Progressed": 1804,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:10:52.5633931+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:10:01.2482105+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-19T16:57:49.0237645+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:10:52.5634398+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:57:32.7261961+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:10:01.2482419+00:00"
 }

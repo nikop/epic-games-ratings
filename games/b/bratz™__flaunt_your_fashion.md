@@ -8,7 +8,7 @@
 | Talented Performer | 60.00% | ~101 |
 | Welcome to Barcelona | 59.00% | ~99 |
 | We will need a bigger wardrobe | 42.00% | ~71 |
-| Roller Race | 41.00% | ~69 |
+| Roller Race | 42.00% | ~71 |
 | Born to Win | 39.00% | ~66 |
 | Welcome to Seoul | 39.00% | ~66 |
 | Stilesville Hidden Style | 35.00% | ~59 |
@@ -24,7 +24,7 @@
 | Talented Photographer | 0.60% | ~1 |
 | Exclusive Photoshoot | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168 (Ranked 453)  
+Progressed: 168 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |

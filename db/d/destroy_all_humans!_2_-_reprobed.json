@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2224,9 +2224,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 175
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2417,8 +2417,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:10:06.8329068+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:09:28.4365894+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:00:57.1888682+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:10:06.8329412+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:59:44.6931505+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:09:28.4366371+00:00"
 }

@@ -121,10 +121,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.70% | ~119 |
 | Kushite Pyramids | 0.70% | ~119 |
 | Jerwan Aqueduct | 0.70% | ~119 |
+| Royal Library | 0.70% | ~119 |
 | Bad Heir Day | 0.60% | ~102 |
 | Devout | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
 | Clerics | 0.60% | ~102 |
+| Church of the Holy Sepulchre | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
@@ -132,11 +134,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.60% | ~102 |
 | Kushite Cavalry | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
-| Royal Library | 0.60% | ~102 |
 | Yazilikaya | 0.60% | ~102 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
 | Old | 0.50% | ~85 |
-| Church of the Holy Sepulchre | 0.50% | ~85 |
 | Learn to Play 5 | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
@@ -310,6 +310,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Akhenaten's Legacy | 0.10% | ~17 |
 | Pharaonic Glory to The Aten | 0.10% | ~17 |
 | Akhenaten's Pharaonic Legacy | 0.10% | ~17 |
+| Qadesh Defeat | 0.10% | ~17 |
+| Destruction at Qadesh | 0.10% | ~17 |
 | Ramesses II The Great | 0.10% | ~17 |
 | Qadesh Victory | 0.10% | ~17 |
 | Ramesses II KIA | 0.10% | ~17 |
@@ -345,8 +347,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Royal Couple | 0.00% | ~0 |
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Failed the Aten | 0.00% | ~0 |
-| Qadesh Defeat | 0.00% | ~0 |
-| Destruction at Qadesh | 0.00% | ~0 |
 | Muwatalli II KIA | 0.00% | ~0 |
 | Pharaonic Ramesses II The Great | 0.00% | ~0 |
 | Pharaonic Qadesh Victory | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,995 (Ranked 170)  
+Progressed: 16,998 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,11 +639,11 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 16,995 | 5 |
+| 2024-01-19 | 16,998 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,939 (Ranked 223)  
-Diff (max vs sum): 64  
+Sum: 1,939 (Ranked 224)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |

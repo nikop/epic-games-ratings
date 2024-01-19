@@ -7,12 +7,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,189 |
-| Beast Intentions | 2.00% | ~5,094 |
-| The Cursed Farmer | 2.00% | ~5,094 |
-| The Mad Wizard | 2.00% | ~5,094 |
+| Beast Intentions | 2.00% | ~5,095 |
+| The Cursed Farmer | 2.00% | ~5,095 |
+| The Mad Wizard | 2.00% | ~5,095 |
 | The Ring of Regeneration | 1.00% | ~2,547 |
 | Are Ya Chicken? | 1.00% | ~2,547 |
-| Were-verpowered | 0.90% | ~2,292 |
+| Were-verpowered | 0.90% | ~2,293 |
 | Seeking Allies | 0.80% | ~2,038 |
 | Mad Cow Disease | 0.80% | ~2,038 |
 | Friendly Imps | 0.80% | ~2,038 |
@@ -51,6 +51,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | No Time To Rest | 0.30% | ~764 |
 | Invisible Shadows | 0.30% | ~764 |
 | The Dinner Party | 0.30% | ~764 |
+| The Botched Kidnapping | 0.30% | ~764 |
 | The Death Curse | 0.30% | ~764 |
 | A Tale of Two Cities | 0.30% | ~764 |
 | Flying Monkey Skulls of Doom | 0.30% | ~764 |
@@ -75,7 +76,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.20% | ~509 |
 | The Mists of Ravenloft | 0.20% | ~509 |
 | Family Entanglements | 0.20% | ~509 |
-| The Botched Kidnapping | 0.20% | ~509 |
 | Tower on the Lake | 0.20% | ~509 |
 | Seeds of Deceit | 0.20% | ~509 |
 | Trollskull Manor | 0.20% | ~509 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,713 (Ranked 71)  
+Progressed: 254,732 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,16 +827,16 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,713 | 2,624 |
+| 2024-01-19 | 254,732 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
-Sum: 33,563 (Ranked 41)  
+Sum: 33,565 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,801 |
 | This game has Diverse Characters | 5,731 |
-| This game has Quickly Understood Controls | 4,916 |
+| This game has Quickly Understood Controls | 4,918 |
 | This game is Relaxing | 4,789 |
 | This game is Highly Recommended | 4,339 |
 | This game has Amazing Characters | 4,339 |
@@ -1202,4 +1202,4 @@ Diff (max vs sum): 33
 | 2024-01-16 | 4.07 | - | 5,786 | 33,532 |
 | 2024-01-17 | 4.07 | - | 5,786 | 33,533 |
 | 2024-01-18 | 4.07 | - | 5,792 | 33,543 |
-| 2024-01-19 | 4.07 | - | 5,801 | 33,563 |
+| 2024-01-19 | 4.07 | - | 5,801 | 33,565 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 292,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4013,9 +4013,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20891,
+  "EOS_Progressed": 20893,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20048,6 +20048,11 @@
       "Time": "2024-01-19T16:09:00.8259519+00:00",
       "NumProgressed": 20891,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-19T18:08:30.7708105+00:00",
+      "NumProgressed": 20893,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20156,7 +20161,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "WinImpossible",
@@ -20324,7 +20329,7 @@
       "Name": "Coral Forest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "WinOnCursed",
@@ -20348,7 +20353,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "WinPrestige10",
@@ -20468,7 +20473,7 @@
       "Name": "Frosts",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "WinNearGreed",
@@ -20476,7 +20481,7 @@
       "Name": "Land of Greed",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "WinNearLibrary",
@@ -20500,7 +20505,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1253
+      "UsersEstimate": 1254
     },
     {
       "ID": "WinNearStorms",
@@ -20508,7 +20513,7 @@
       "Name": "Gathering Storm",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1462
+      "UsersEstimate": 1463
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20531,15 +20536,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20891,
+      "Progressed": 20893,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-19T14:59:34.2231574+00:00",
-  "LastChanged_Achievements": "2024-01-19T17:08:46.2135003+00:00",
+  "LastChanged_Achievements": "2024-01-19T18:08:30.7708102+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T17:00:48.7390405+00:00",
-  "LastUpdate_Achievements": "2024-01-19T17:08:46.213647+00:00"
+  "LastUpdate_Ratings": "2024-01-19T17:59:39.2250124+00:00",
+  "LastUpdate_Achievements": "2024-01-19T18:08:30.7709143+00:00"
 }
