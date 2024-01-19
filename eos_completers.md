@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.70% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.95% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.94% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -37,7 +37,7 @@
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
 | 36 | [Remains](games/r/remains.md) | 12.70% |
 | 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.37% |
-| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
+| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.05% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.06% |
@@ -52,16 +52,16 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.67% |
-| 54 | [Ravenlok](games/r/ravenlok.md) | 7.64% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.66% |
+| 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
 | 57 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.27% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.21% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.20% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
-| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.13% |
-| 61 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.12% |
-| 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.87% |
+| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.12% |
+| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.12% |
+| 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.86% |
 | 63 | [Scorn](games/s/scorn.md) | 6.84% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.74% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
@@ -76,8 +76,8 @@
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.96% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
-| 77 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.74% |
 | 77 | [ZZT!](games/z/zzt!.md) | 4.74% |
+| 78 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
 | 79 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
 | 80 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.56% |
 | 81 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
@@ -166,9 +166,9 @@
 | 163 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
 | 165 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.16% |
 | 165 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
-| 167 | [Late Shift](games/l/late_shift.md) | 1.15% |
-| 168 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
-| 168 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.14% |
+| 167 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
+| 167 | [Late Shift](games/l/late_shift.md) | 1.14% |
+| 167 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.14% |
 | 170 | [Adios](games/a/adios.md) | 1.13% |
 | 171 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.12% |
 | 171 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
@@ -223,12 +223,12 @@
 | 220 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 222 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 223 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
+| 224 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.51% |
 | 224 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.51% |
 | 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.51% |
 | 224 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
-| 227 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.50% |
-| 227 | [Five Dates](games/f/five_dates.md) | 0.50% |
-| 227 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
+| 228 | [Five Dates](games/f/five_dates.md) | 0.50% |
+| 228 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 230 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.49% |
 | 230 | [Haven](games/h/haven.md) | 0.49% |
 | 232 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.48% |
@@ -299,12 +299,12 @@
 | 297 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 297 | [Scathe](games/s/scathe.md) | 0.15% |
 | 297 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 297 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
-| 301 | [Blanc](games/b/blanc.md) | 0.14% |
-| 301 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
-| 301 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
-| 301 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
-| 301 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.14% |
+| 300 | [Blanc](games/b/blanc.md) | 0.14% |
+| 300 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
+| 300 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
+| 300 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.14% |
+| 300 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
+| 300 | [The Talos Principle 2](games/4/43acebbd46cd4aac956ad049c10c603a.md) | 0.14% |
 | 306 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
 | 306 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 306 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
@@ -323,18 +323,18 @@
 | 317 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 317 | [Riverbond](games/r/riverbond.md) | 0.10% |
 | 317 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.10% |
-| 324 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.09% |
 | 324 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
 | 324 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
 | 324 | [House Flipper](games/h/house_flipper.md) | 0.09% |
 | 324 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 324 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
 | 324 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 331 | [MythForce](games/m/mythforce.md) | 0.08% |
-| 331 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
-| 331 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
-| 331 | [SYNCED](games/s/synced.md) | 0.08% |
-| 331 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
+| 330 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.08% |
+| 330 | [MythForce](games/m/mythforce.md) | 0.08% |
+| 330 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
+| 330 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
+| 330 | [SYNCED](games/s/synced.md) | 0.08% |
+| 330 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
 | 336 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 337 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
 | 337 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
