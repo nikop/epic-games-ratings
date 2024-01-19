@@ -13,10 +13,10 @@
 | Festival Fever | 22.00% | ~11 |
 | Entering New Territory | 20.00% | ~10 |
 | Gotta Adopt Them All! | 12.00% | ~6 |
+| Just One More Go | 10.00% | ~5 |
 | Lecturer | 10.00% | ~5 |
 | Landscaper | 8.00% | ~4 |
 | Dream Big | 8.00% | ~4 |
-| Just One More Go | 8.00% | ~4 |
 | Diamonds in the Rough | 4.00% | ~2 |
 | Neverending Story | 4.00% | ~2 |
 | Kindred Spirits | 4.00% | ~2 |

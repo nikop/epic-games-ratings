@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 528,
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 147,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -331,11 +331,11 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18823,
+  "EOS_Progressed": 18824,
   "EOS_Completed": 336,
-  "EOS_NewPlayers": 413,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 19,
-  "EOS_Completed_Percentage": 1.79,
+  "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -10321,6 +10321,11 @@
       "Time": "2024-01-19T06:10:01.7990334+00:00",
       "NumProgressed": 18823,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2024-01-19T07:10:35.4636591+00:00",
+      "NumProgressed": 18824,
+      "NumCompleted": 336
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10333,7 +10338,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16564
+      "UsersEstimate": 16565
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10365,7 +10370,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -10429,7 +10434,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12423
+      "UsersEstimate": 12424
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10477,7 +10482,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -10485,7 +10490,7 @@
       "Name": "Still Single",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_27",
@@ -10541,7 +10546,7 @@
       "Name": "What I Want Is You",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 9976
+      "UsersEstimate": 9977
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -10573,7 +10578,7 @@
       "Name": "ONE PUNCH",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 5270
+      "UsersEstimate": 5271
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_9",
@@ -10629,7 +10634,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6023
+      "UsersEstimate": 6024
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -10645,7 +10650,7 @@
       "Name": "Drama King",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6776
+      "UsersEstimate": 6777
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -10668,7 +10673,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18823,
+      "Progressed": 18824,
       "Completed": 336
     }
   ],
@@ -10676,8 +10681,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-18T14:58:48.8284143+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:10:01.7990333+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:10:35.4636588+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:59:11.9402206+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:10:01.7990965+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:59:50.4494964+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:10:35.4637402+00:00"
 }

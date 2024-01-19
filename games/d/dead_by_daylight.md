@@ -6,35 +6,35 @@ Number of Ratings: 70,340  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 7.00% | ~82,893 |
-| Skillful | 7.00% | ~82,893 |
-| Zealous | 6.00% | ~71,051 |
-| Not half bad | 5.00% | ~59,209 |
-| Apt Survivor | 5.00% | ~59,209 |
-| Survival Treasures | 5.00% | ~59,209 |
-| Make Some Noise | 5.00% | ~59,209 |
-| No one left behind | 4.00% | ~47,367 |
-| Medic | 4.00% | ~47,367 |
-| Handyman | 4.00% | ~47,367 |
-| Bloody Millionaire | 4.00% | ~47,367 |
-| I | 4.00% | ~47,367 |
-| Sorted | 4.00% | ~47,367 |
-| Healthy Obsession | 4.00% | ~47,367 |
-| Resurgence | 4.00% | ~47,367 |
-| Preemptive Strike | 4.00% | ~47,367 |
-| Humanitarian | 4.00% | ~47,367 |
-| The Grand Sacrifice | 3.00% | ~35,525 |
-| Agonizing Escape | 3.00% | ~35,525 |
-| Backdoor Escape | 3.00% | ~35,525 |
-| I've got your back | 3.00% | ~35,525 |
-| Perfect Escape | 3.00% | ~35,525 |
-| Perfect Killing | 3.00% | ~35,525 |
-| Apt Killer | 3.00% | ~35,525 |
-| Risk it all | 3.00% | ~35,525 |
-| II | 3.00% | ~35,525 |
-| Engineer | 3.00% | ~35,525 |
-| Wounded Healer | 3.00% | ~35,525 |
-| Close Shave | 3.00% | ~35,525 |
+| It wakes | 7.00% | ~82,894 |
+| Skillful | 7.00% | ~82,894 |
+| Zealous | 6.00% | ~71,052 |
+| Not half bad | 5.00% | ~59,210 |
+| Apt Survivor | 5.00% | ~59,210 |
+| Survival Treasures | 5.00% | ~59,210 |
+| Make Some Noise | 5.00% | ~59,210 |
+| No one left behind | 4.00% | ~47,368 |
+| Medic | 4.00% | ~47,368 |
+| Handyman | 4.00% | ~47,368 |
+| Bloody Millionaire | 4.00% | ~47,368 |
+| I | 4.00% | ~47,368 |
+| Sorted | 4.00% | ~47,368 |
+| Healthy Obsession | 4.00% | ~47,368 |
+| Resurgence | 4.00% | ~47,368 |
+| Preemptive Strike | 4.00% | ~47,368 |
+| Humanitarian | 4.00% | ~47,368 |
+| The Grand Sacrifice | 3.00% | ~35,526 |
+| Agonizing Escape | 3.00% | ~35,526 |
+| Backdoor Escape | 3.00% | ~35,526 |
+| I've got your back | 3.00% | ~35,526 |
+| Perfect Escape | 3.00% | ~35,526 |
+| Perfect Killing | 3.00% | ~35,526 |
+| Apt Killer | 3.00% | ~35,526 |
+| Risk it all | 3.00% | ~35,526 |
+| II | 3.00% | ~35,526 |
+| Engineer | 3.00% | ~35,526 |
+| Wounded Healer | 3.00% | ~35,526 |
+| Close Shave | 3.00% | ~35,526 |
 | Blood on your hands | 2.00% | ~23,684 |
 | Escape Artist | 2.00% | ~23,684 |
 | Made it out alive! | 2.00% | ~23,684 |
@@ -92,11 +92,11 @@ Number of Ratings: 70,340  (23.09.2022)
 | Jump Scares | 0.90% | ~10,658 |
 | Party Crasher | 0.90% | ~10,658 |
 | High Speed Pursuit | 0.90% | ~10,658 |
-| Deep Cleansing | 0.80% | ~9,473 |
-| Texas BBQ | 0.80% | ~9,473 |
-| Outrage | 0.80% | ~9,473 |
-| I See You | 0.80% | ~9,473 |
-| Triage | 0.80% | ~9,473 |
+| Deep Cleansing | 0.80% | ~9,474 |
+| Texas BBQ | 0.80% | ~9,474 |
+| Outrage | 0.80% | ~9,474 |
+| I See You | 0.80% | ~9,474 |
+| Triage | 0.80% | ~9,474 |
 | Blood in your mouth | 0.70% | ~8,289 |
 | Whiffing to Success | 0.70% | ~8,289 |
 | Heavy Burden | 0.70% | ~8,289 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,184 |
 | Adept Good Guy | 0.10% | ~1,184 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,184,179 (Ranked 13)  
+Progressed: 1,184,204 (Ranked 13)  
 Completed: 68 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -513,17 +513,17 @@ Completed: 68 (0.01%) (Ranked 379)
 | 2024-01-16 | 1,180,767 | 68 |
 | 2024-01-17 | 1,182,216 | 68 |
 | 2024-01-18 | 1,183,758 | 68 |
-| 2024-01-19 | 1,184,179 | 68 |
+| 2024-01-19 | 1,184,204 | 68 |
 ## Awards
 Max (Diverse Characters): 39,908  (Ranked 15)  
-Sum: 300,443 (Ranked 12)  
+Sum: 300,467 (Ranked 12)  
 Diff (max vs sum): 3  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 39,908 |
 | This game is Highly Recommended | 34,392 |
 | This game has Amazing Characters | 33,783 |
-| This game has Competitive Players | 33,498 |
+| This game has Competitive Players | 33,522 |
 | This game is Extremely Fun | 33,281 |
 | This game has Challenging Combat | 33,194 |
 | This game has Quickly Understood Controls | 32,278 |
@@ -894,4 +894,4 @@ Diff (max vs sum): 3
 | 2024-01-16 | 4.51 | - | 39,811 | 299,762 |
 | 2024-01-17 | 4.51 | - | 39,860 | 300,047 |
 | 2024-01-18 | 4.51 | - | 39,908 | 300,329 |
-| 2024-01-19 | 4.51 | - | 39,908 | 300,443 |
+| 2024-01-19 | 4.51 | - | 39,908 | 300,467 |

@@ -14559,9 +14559,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 501414,
+  "EOS_Progressed": 501433,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4388,
+  "EOS_NewPlayers": 4398,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46179,6 +46179,11 @@
       "Time": "2024-01-19T06:10:30.972949+00:00",
       "NumProgressed": 501414,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T07:11:13.9394134+00:00",
+      "NumProgressed": 501433,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47190,7 +47195,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "achievement_grand_coalition",
@@ -48886,7 +48891,7 @@
       "Name": "Victorious!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3008
+      "UsersEstimate": 3009
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -49093,21 +49098,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 501414,
+      "Progressed": 501433,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 501414,
+      "Progressed": 501433,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-18T19:58:44.1387049+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:10:30.9729488+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:11:13.9394129+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:58:32.033231+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:10:30.9739318+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:58:58.5721773+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:11:13.9404363+00:00"
 }

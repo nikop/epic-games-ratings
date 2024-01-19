@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9661,9 +9661,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254625,
+  "EOS_Progressed": 254632,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1145,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40736,6 +40736,11 @@
       "Time": "2024-01-19T06:10:32.1821326+00:00",
       "NumProgressed": 254625,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-19T07:11:15.2626033+00:00",
+      "NumProgressed": 254632,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -41115,7 +41120,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5092
+      "UsersEstimate": 5093
     },
     {
       "ID": "objective_completed_110",
@@ -41931,7 +41936,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "objective_completed_164",
@@ -41971,7 +41976,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "objective_completed_17",
@@ -42419,7 +42424,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5092
+      "UsersEstimate": 5093
     },
     {
       "ID": "objective_completed_34",
@@ -42619,7 +42624,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "objective_completed_400",
@@ -43235,7 +43240,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "objective_completed_590",
@@ -43819,7 +43824,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "objective_completed_690",
@@ -43891,7 +43896,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5092
+      "UsersEstimate": 5093
     },
     {
       "ID": "objective_completed_70",
@@ -43923,7 +43928,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "objective_completed_75",
@@ -43955,7 +43960,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1019
     },
     {
       "ID": "objective_completed_8",
@@ -45067,7 +45072,7 @@
       "Name": "The Overgrown Grove",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "objective_completed_673",
@@ -45075,7 +45080,7 @@
       "Name": "When Tentacles Attack",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "objective_completed_678",
@@ -45083,7 +45088,7 @@
       "Name": "Flames of Avernus",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "objective_completed_683",
@@ -45091,7 +45096,7 @@
       "Name": "Mental Gymnastics",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "objective_completed_860",
@@ -45099,7 +45104,7 @@
       "Name": "Don\u0027t Lose Your Head",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1104
+      "UsersEstimate": 1105
     },
     {
       "ID": "objective_completed_865",
@@ -45114,21 +45119,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220899,
+      "Progressed": 220906,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254625,
+      "Progressed": 254632,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T01:48:57.7551958+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:10:32.1821324+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:11:15.2626029+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:59:41.29746+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:10:32.184361+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:00:33.8515432+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:11:15.2648373+00:00"
 }

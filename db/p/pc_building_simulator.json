@@ -5971,9 +5971,9 @@
       "Count": 687
     }
   ],
-  "EOS_Progressed": 3610698,
+  "EOS_Progressed": 3610707,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 3050,
+  "EOS_NewPlayers": 3049,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37596,6 +37596,11 @@
       "Time": "2024-01-19T06:05:39.9801883+00:00",
       "NumProgressed": 3610698,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2024-01-19T07:06:39.1785317+00:00",
+      "NumProgressed": 3610707,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 52,
@@ -37615,7 +37620,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 902674
+      "UsersEstimate": 902677
     },
     {
       "ID": "BRICK",
@@ -37647,7 +37652,7 @@
       "Name": "Double trouble",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 577712
+      "UsersEstimate": 577713
     },
     {
       "ID": "BUILD_2",
@@ -37671,7 +37676,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1408172
+      "UsersEstimate": 1408176
     },
     {
       "ID": "CASH_2",
@@ -37703,7 +37708,7 @@
       "Name": "But can it run Crysis?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 324963
+      "UsersEstimate": 324964
     },
     {
       "ID": "DATE",
@@ -37735,7 +37740,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 722140
+      "UsersEstimate": 722141
     },
     {
       "ID": "HBPC_TIME",
@@ -37767,7 +37772,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1047102
+      "UsersEstimate": 1047105
     },
     {
       "ID": "JOBS_2",
@@ -37775,7 +37780,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 397177
+      "UsersEstimate": 397178
     },
     {
       "ID": "JOBS_3",
@@ -37847,7 +37852,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1769242
+      "UsersEstimate": 1769246
     },
     {
       "ID": "NO_PASTE",
@@ -37855,7 +37860,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1660921
+      "UsersEstimate": 1660925
     },
     {
       "ID": "OPC_BM_1",
@@ -37911,7 +37916,7 @@
       "Name": "My favourite feature...",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 324963
+      "UsersEstimate": 324964
     },
     {
       "ID": "PLAY_MUSIC",
@@ -37967,7 +37972,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 288856
+      "UsersEstimate": 288857
     },
     {
       "ID": "STARS_2",
@@ -38015,22 +38020,22 @@
       "Name": "Treat yourself - RAM",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 18053
+      "UsersEstimate": 18054
     }
   ],
   "AchievementSets": [
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3610698,
+      "Progressed": 3610707,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2024-01-18T19:00:25.3601619+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:05:39.9801882+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:06:39.1785314+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.4141666+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:59:08.421353+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:05:39.9803436+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:59:45.1979107+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:06:39.1787219+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,185 |
-| Beast Intentions | 2.00% | ~5,092 |
-| The Cursed Farmer | 2.00% | ~5,092 |
-| The Mad Wizard | 2.00% | ~5,092 |
+| Beast Intentions | 2.00% | ~5,093 |
+| The Cursed Farmer | 2.00% | ~5,093 |
+| The Mad Wizard | 2.00% | ~5,093 |
 | The Ring of Regeneration | 1.00% | ~2,546 |
 | Are Ya Chicken? | 1.00% | ~2,546 |
 | Were-verpowered | 0.90% | ~2,292 |
@@ -28,18 +28,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.50% | ~1,273 |
 | Exploring Port Nyanzaru | 0.50% | ~1,273 |
 | The Contagious Curse | 0.50% | ~1,273 |
-| The Overgrown Grove | 0.50% | ~1,104 |
-| When Tentacles Attack | 0.50% | ~1,104 |
-| Flames of Avernus | 0.50% | ~1,104 |
-| Mental Gymnastics | 0.50% | ~1,104 |
-| Don't Lose Your Head | 0.50% | ~1,104 |
-| Low Initiative | 0.40% | ~1,018 |
-| Building Trust | 0.40% | ~1,018 |
-| Useless Allies | 0.40% | ~1,018 |
-| Running of the Saurs | 0.40% | ~1,018 |
-| Escort to Waterdeep | 0.40% | ~1,018 |
-| Waterdeep Detours | 0.40% | ~1,018 |
-| Underdeep Cartography | 0.40% | ~1,018 |
+| The Overgrown Grove | 0.50% | ~1,105 |
+| When Tentacles Attack | 0.50% | ~1,105 |
+| Flames of Avernus | 0.50% | ~1,105 |
+| Mental Gymnastics | 0.50% | ~1,105 |
+| Don't Lose Your Head | 0.50% | ~1,105 |
+| Low Initiative | 0.40% | ~1,019 |
+| Building Trust | 0.40% | ~1,019 |
+| Useless Allies | 0.40% | ~1,019 |
+| Running of the Saurs | 0.40% | ~1,019 |
+| Escort to Waterdeep | 0.40% | ~1,019 |
+| Waterdeep Detours | 0.40% | ~1,019 |
+| Underdeep Cartography | 0.40% | ~1,019 |
 | Arcane Suppression | 0.40% | ~884 |
 | Welcome to the Vrocks | 0.40% | ~884 |
 | Misaligned in Sigil | 0.40% | ~884 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,625 (Ranked 71)  
+Progressed: 254,632 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,625 | 2,624 |
+| 2024-01-19 | 254,632 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,552 (Ranked 41)  

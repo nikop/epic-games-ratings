@@ -6,29 +6,29 @@ Number of Ratings: 21,082  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unseen Assassin | 46.00% | ~642,425 |
-| Death From Above | 44.00% | ~614,493 |
-| Master of the Household | 37.00% | ~516,733 |
-| Death of the Party | 35.00% | ~488,802 |
-| NEXUS-47 | 32.00% | ~446,904 |
-| The Last Tango | 31.00% | ~432,939 |
-| Nightmare Fuel | 30.00% | ~418,973 |
-| The Result of Previous Training | 29.00% | ~405,007 |
-| Cleared for Field Duty | 28.00% | ~391,041 |
-| Tools of the Trade | 28.00% | ~391,041 |
-| Seizing the Opportunity | 26.00% | ~363,110 |
-| Bullet Train | 21.00% | ~293,281 |
-| Stylish Assassin | 20.00% | ~279,315 |
-| Silent Assassin | 14.00% | ~195,521 |
-| Rise Up | 12.00% | ~167,589 |
-| Evil Wine Club | 11.00% | ~153,623 |
+| Unseen Assassin | 46.00% | ~642,429 |
+| Death From Above | 44.00% | ~614,497 |
+| Master of the Household | 37.00% | ~516,736 |
+| Death of the Party | 35.00% | ~488,804 |
+| NEXUS-47 | 32.00% | ~446,907 |
+| The Last Tango | 31.00% | ~432,941 |
+| Nightmare Fuel | 30.00% | ~418,975 |
+| The Result of Previous Training | 29.00% | ~405,009 |
+| Cleared for Field Duty | 28.00% | ~391,044 |
+| Tools of the Trade | 28.00% | ~391,044 |
+| Seizing the Opportunity | 26.00% | ~363,112 |
+| Bullet Train | 21.00% | ~293,283 |
+| Stylish Assassin | 20.00% | ~279,317 |
+| Silent Assassin | 14.00% | ~195,522 |
+| Rise Up | 12.00% | ~167,590 |
+| Evil Wine Club | 11.00% | ~153,624 |
 | Console Cowboy | 10.00% | ~139,658 |
 | Last Stop | 10.00% | ~139,658 |
-| A New Profile | 9.00% | ~125,692 |
-| Dune Raider | 8.00% | ~111,726 |
-| Full House | 8.00% | ~111,726 |
-| Train Surfing | 8.00% | ~111,726 |
-| No Stone Unturned | 7.00% | ~97,760 |
+| A New Profile | 9.00% | ~125,693 |
+| Dune Raider | 8.00% | ~111,727 |
+| Full House | 8.00% | ~111,727 |
+| Train Surfing | 8.00% | ~111,727 |
+| No Stone Unturned | 7.00% | ~97,761 |
 | Family Feud | 6.00% | ~83,795 |
 | Icebreaker | 6.00% | ~83,795 |
 | Count Down From 47 | 6.00% | ~83,795 |
@@ -42,19 +42,19 @@ Number of Ratings: 21,082  (23.09.2022)
 | The Great Outdoors | 4.00% | ~55,863 |
 | Partied Out | 4.00% | ~55,863 |
 | Surveillance Master | 4.00% | ~55,863 |
-| Training Escalated | 3.00% | ~41,897 |
-| Warehouse Veteran | 3.00% | ~41,897 |
-| Future Shock | 3.00% | ~41,897 |
-| Hack the Planet | 3.00% | ~41,897 |
-| Master the Terroir | 3.00% | ~41,897 |
-| Vineyard Virtuoso | 3.00% | ~41,897 |
+| Training Escalated | 3.00% | ~41,898 |
+| Warehouse Veteran | 3.00% | ~41,898 |
+| Future Shock | 3.00% | ~41,898 |
+| Hack the Planet | 3.00% | ~41,898 |
+| Master the Terroir | 3.00% | ~41,898 |
+| Vineyard Virtuoso | 3.00% | ~41,898 |
 | Keep Your Eyes Peeled | 2.00% | ~27,932 |
 | Bird Art | 2.00% | ~27,932 |
 | Top of the Class | 1.00% | ~13,966 |
 | Ripe for the Picking | 1.00% | ~13,966 |
 | The Creative Assassin | 0.70% | ~9,776 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,396,576 (Ranked 9)  
+Progressed: 1,396,584 (Ranked 9)  
 Completed: 2,242 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 2,242 (0.16%) (Ranked 295)
 | 2024-01-16 | 1,395,855 | 2,239 |
 | 2024-01-17 | 1,396,219 | 2,240 |
 | 2024-01-18 | 1,396,516 | 2,242 |
-| 2024-01-19 | 1,396,576 | 2,242 |
+| 2024-01-19 | 1,396,584 | 2,242 |
 ## Awards
 Max (Diverse Characters): 11,484  (Ranked 38)  
-Sum: 77,396 (Ranked 22)  
+Sum: 77,405 (Ranked 22)  
 Diff (max vs sum): 16  
 | Award | Count |
 | ----- | ----- |
@@ -340,7 +340,7 @@ Diff (max vs sum): 16
 | This game is Extremely Fun | 9,748 |
 | This game has Amazing Storytelling | 9,630 |
 | This game has Amazing Characters | 9,490 |
-| This game has a Creative Community | 9,062 |
+| This game has a Creative Community | 9,071 |
 | This game has Quickly Understood Controls | 8,961 |
 | This game is Relaxing | 8,835 |
 | This game is Great for Beginners | 8,394 |
@@ -734,4 +734,4 @@ Diff (max vs sum): 16
 | 2024-01-16 | 4.77 | - | 11,461 | 77,286 |
 | 2024-01-17 | 4.77 | - | 11,472 | 77,338 |
 | 2024-01-18 | 4.77 | - | 11,484 | 77,388 |
-| 2024-01-19 | 4.77 | - | 11,484 | 77,396 |
+| 2024-01-19 | 4.77 | - | 11,484 | 77,405 |

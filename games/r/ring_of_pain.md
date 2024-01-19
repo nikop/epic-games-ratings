@@ -35,13 +35,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | The Bestiary | 0.90% | ~2,189 |
 | Shootout | 0.90% | ~2,189 |
 | Toxic | 0.90% | ~2,189 |
-| Dig Your Own Grave | 0.80% | ~1,945 |
-| Who To Trust? | 0.80% | ~1,945 |
-| Walk It Off | 0.80% | ~1,945 |
-| Destroy Your Fears | 0.80% | ~1,945 |
-| Stone Touch | 0.80% | ~1,945 |
-| Shadow Walker | 0.80% | ~1,945 |
-| Flesh Wound | 0.80% | ~1,945 |
+| Dig Your Own Grave | 0.80% | ~1,946 |
+| Who To Trust? | 0.80% | ~1,946 |
+| Walk It Off | 0.80% | ~1,946 |
+| Destroy Your Fears | 0.80% | ~1,946 |
+| Stone Touch | 0.80% | ~1,946 |
+| Shadow Walker | 0.80% | ~1,946 |
+| Flesh Wound | 0.80% | ~1,946 |
 | Consecutive Curses | 0.70% | ~1,702 |
 | Just Chilling | 0.70% | ~1,702 |
 | Save Our Souls | 0.70% | ~1,702 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,185 (Ranked 75)  
+Progressed: 243,189 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 309 (0.13%) (Ranked 306)
 | 2024-01-16 | 243,080 | 307 |
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
-| 2024-01-19 | 243,185 | 309 |
+| 2024-01-19 | 243,189 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  

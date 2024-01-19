@@ -5,7 +5,7 @@
   "Ranking_Rating": 346,
   "Ranking_Popularity": 423,
   "Ranking_PopularitySum": 348,
-  "Ranking_EOS_Progress": 163,
+  "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 152,
@@ -1575,9 +1575,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18413,
+  "EOS_Progressed": 18414,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 598,
+  "EOS_NewPlayers": 597,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12185,6 +12185,11 @@
       "Time": "2024-01-19T06:06:16.1521379+00:00",
       "NumProgressed": 18413,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T07:08:09.7017317+00:00",
+      "NumProgressed": 18414,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12197,7 +12202,7 @@
       "Name": "Spring Cleaning",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 3314
+      "UsersEstimate": 3315
     },
     {
       "ID": "achievement_0002",
@@ -12205,7 +12210,7 @@
       "Name": "Gathering Dust",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "achievement_0003",
@@ -12237,7 +12242,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12889
+      "UsersEstimate": 12890
     },
     {
       "ID": "achievement_0007",
@@ -12245,7 +12250,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16756
+      "UsersEstimate": 16757
     },
     {
       "ID": "achievement_0008",
@@ -12253,7 +12258,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15283
+      "UsersEstimate": 15284
     },
     {
       "ID": "achievement_0009",
@@ -12357,7 +12362,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12521
+      "UsersEstimate": 12522
     },
     {
       "ID": "achievement_0022",
@@ -12365,7 +12370,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "achievement_0023",
@@ -12373,7 +12378,7 @@
       "Name": "Sharing the Love",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6076
+      "UsersEstimate": 6077
     },
     {
       "ID": "achievement_0024",
@@ -12509,7 +12514,7 @@
       "Name": "One for the Book",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2025
+      "UsersEstimate": 2026
     },
     {
       "ID": "achievement_0041",
@@ -12533,7 +12538,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7733
+      "UsersEstimate": 7734
     },
     {
       "ID": "achievement_0044",
@@ -12549,7 +12554,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4603
+      "UsersEstimate": 4604
     },
     {
       "ID": "achievement_0046",
@@ -12588,7 +12593,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18413,
+      "Progressed": 18414,
       "Completed": 0
     }
   ],
@@ -12596,8 +12601,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-18T23:58:36.1257529+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:06:16.1521378+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:08:09.7017312+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:58:08.4586911+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:06:16.1522+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:58:26.6461578+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:08:09.7018387+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83885,
+  "EOS_Progressed": 83886,
   "EOS_Completed": 946,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 566,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30707,6 +30707,11 @@
       "Time": "2024-01-19T06:04:22.8172942+00:00",
       "NumProgressed": 83885,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-19T07:04:53.4594293+00:00",
+      "NumProgressed": 83886,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30846,7 +30851,7 @@
       "Name": "Nice Try",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14260
+      "UsersEstimate": 14261
     },
     {
       "ID": "Nothing Left to Say",
@@ -30917,7 +30922,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83885,
+      "Progressed": 83886,
       "Completed": 946
     }
   ],
@@ -30925,8 +30930,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:04:22.817294+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:04:53.4594289+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-19T06:00:17.8105887+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:04:22.817506+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:01:28.7228485+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:04:53.4596158+00:00"
 }

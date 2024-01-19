@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253601,
+  "EOS_Progressed": 253602,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24452,6 +24452,11 @@
       "Time": "2024-01-19T06:10:16.1002428+00:00",
       "NumProgressed": 253601,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-19T07:10:55.3510203+00:00",
+      "NumProgressed": 253602,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24663,7 +24668,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65936
+      "UsersEstimate": 65937
     },
     {
       "ID": "justABit",
@@ -24703,7 +24708,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126800
+      "UsersEstimate": 126801
     },
     {
       "ID": "notScared",
@@ -24830,7 +24835,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253601,
+      "Progressed": 253602,
       "Completed": 6
     }
   ],
@@ -24838,8 +24843,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:10:16.1002426+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:10:55.35102+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:59:18.3455145+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:10:16.1004179+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:59:59.0689951+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:10:55.3511493+00:00"
 }

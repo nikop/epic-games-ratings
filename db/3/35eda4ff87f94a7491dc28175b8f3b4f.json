@@ -2,11 +2,11 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 846,
+  "Ranking_Rating": 847,
   "Ranking_Popularity": 588,
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 151,
-  "Ranking_EOS_Completed": 228,
+  "Ranking_EOS_Completed": 227,
   "Ranking_EOS_NewPlayers": 91,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22585,
+  "EOS_Progressed": 22589,
   "EOS_Completed": 114,
-  "EOS_NewPlayers": 1098,
+  "EOS_NewPlayers": 1096,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -8582,6 +8582,11 @@
       "Time": "2024-01-19T06:05:19.7426988+00:00",
       "NumProgressed": 22585,
       "NumCompleted": 114
+    },
+    {
+      "Time": "2024-01-19T07:06:11.668294+00:00",
+      "NumProgressed": 22589,
+      "NumCompleted": 114
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8642,7 +8647,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2936
+      "UsersEstimate": 2937
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8673,7 +8678,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22585,
+      "Progressed": 22589,
       "Completed": 114
     }
   ],
@@ -8681,8 +8686,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:05:19.7426985+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:06:11.6682937+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:59:56.5398741+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:05:19.7427498+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:00:56.5755005+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:06:11.6683521+00:00"
 }

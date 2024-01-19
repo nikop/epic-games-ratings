@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 28,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2019-12-10T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -6574,10 +6574,10 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 725263,
-  "EOS_Completed": 6618,
-  "EOS_NewPlayers": 1286,
-  "EOS_NewCompleters": 14,
+  "EOS_Progressed": 725264,
+  "EOS_Completed": 6619,
+  "EOS_NewPlayers": 1283,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
     {
@@ -36689,6 +36689,11 @@
       "Time": "2024-01-19T06:10:22.0722689+00:00",
       "NumProgressed": 725263,
       "NumCompleted": 6618
+    },
+    {
+      "Time": "2024-01-19T07:11:02.8992433+00:00",
+      "NumProgressed": 725264,
+      "NumCompleted": 6619
     }
   ],
   "TotalAchievements": 49,
@@ -36708,7 +36713,7 @@
       "Name": "War-God\u0027s Bloodlust",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 108789
+      "UsersEstimate": 108790
     },
     {
       "ID": "AchBeatCharon",
@@ -36764,7 +36769,7 @@
       "Name": "Escaped Asphodel",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 572958
+      "UsersEstimate": 572959
     },
     {
       "ID": "AchClearElysium",
@@ -36772,7 +36777,7 @@
       "Name": "Escaped Elysium",
       "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 471421
+      "UsersEstimate": 471422
     },
     {
       "ID": "AchClearElysiumEM",
@@ -36788,7 +36793,7 @@
       "Name": "Hold the Onions",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 130547
+      "UsersEstimate": 130548
     },
     {
       "ID": "AchClearRun4thAspect",
@@ -36804,7 +36809,7 @@
       "Name": "Escaped Tartarus",
       "Percentage": 88,
       "XP": 25,
-      "UsersEstimate": 638231
+      "UsersEstimate": 638232
     },
     {
       "ID": "AchCrushedThanatos",
@@ -36812,7 +36817,7 @@
       "Name": "Death Dealer",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 326368
+      "UsersEstimate": 326369
     },
     {
       "ID": "AchEliteAttributeKills",
@@ -36868,7 +36873,7 @@
       "Name": "Friends in High Places",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 485926
+      "UsersEstimate": 485927
     },
     {
       "ID": "AchGreaterCallSpurned",
@@ -36892,7 +36897,7 @@
       "Name": "Day-or-Night Trader",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 268347
+      "UsersEstimate": 268348
     },
     {
       "ID": "AchManyCosmetics",
@@ -36924,7 +36929,7 @@
       "Name": "Chthonic Colleagues",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 449663
+      "UsersEstimate": 449664
     },
     {
       "ID": "AchMirrorAllUnlocked",
@@ -36988,7 +36993,7 @@
       "Name": "Blessed by the Gods",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 268347
+      "UsersEstimate": 268348
     },
     {
       "ID": "AchPickedManyHammers",
@@ -36996,7 +37001,7 @@
       "Name": "Tools of the Architect",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 166810
+      "UsersEstimate": 166811
     },
     {
       "ID": "AchPurgedLegendBoon",
@@ -37052,7 +37057,7 @@
       "Name": "Skelly Slayer",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 304610
+      "UsersEstimate": 304611
     },
     {
       "ID": "AchUnlockedAllWeapons",
@@ -37060,7 +37065,7 @@
       "Name": "Arms Collector",
       "Percentage": 70,
       "XP": 25,
-      "UsersEstimate": 507684
+      "UsersEstimate": 507685
     },
     {
       "ID": "AchWeaponClears",
@@ -37068,7 +37073,7 @@
       "Name": "Master of Arms",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 166810
+      "UsersEstimate": 166811
     },
     {
       "ID": "AchWellShopItems",
@@ -37076,7 +37081,7 @@
       "Name": "Well Stocked",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 290105
+      "UsersEstimate": 290106
     },
     {
       "ID": "ActUnlockedAllAspects",
@@ -37091,15 +37096,15 @@
     {
       "ID": "4l1m16p",
       "IsBase": true,
-      "Progressed": 725263,
-      "Completed": 6618
+      "Progressed": 725264,
+      "Completed": 6619
     }
   ],
   "FirstSeen": "2022-07-22T20:21:47.7235159+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.5179917+00:00",
   "LastChanged": "2024-01-18T19:59:05.7944635+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:10:22.0722688+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:11:02.8992429+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.110873+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:58:51.4143724+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:10:22.0724265+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:59:18.7339625+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:11:02.8993943+00:00"
 }

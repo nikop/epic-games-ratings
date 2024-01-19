@@ -2560,9 +2560,9 @@
       "ID": "Collect_Lurchers_1000000",
       "SetID": "7a5k76n",
       "Name": "Soul Reaper",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 58
     },
     {
       "ID": "Collect_PickUp_500",
@@ -2952,8 +2952,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-13T13:02:48.7812399+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:05:41.7507809+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:06:41.7072421+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:58:51.8453671+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:05:41.7508288+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:59:19.441778+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:06:41.7073019+00:00"
 }

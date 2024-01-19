@@ -905,9 +905,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244090,
+  "EOS_Progressed": 244092,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1375,
+  "EOS_NewPlayers": 1367,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21795,6 +21795,11 @@
       "Time": "2024-01-19T06:10:17.8274965+00:00",
       "NumProgressed": 244090,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T07:10:57.5475399+00:00",
+      "NumProgressed": 244092,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21879,7 +21884,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12204
+      "UsersEstimate": 12205
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -22063,7 +22068,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61022
+      "UsersEstimate": 61023
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22078,7 +22083,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244090,
+      "Progressed": 244092,
       "Completed": 0
     }
   ],
@@ -22086,8 +22091,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-16T11:59:06.7396953+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:10:17.8274964+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:10:57.5475395+00:00",
   "LastUpdate_AppInfo": "2024-01-12T07:57:02.6941027+00:00",
-  "LastUpdate_Ratings": "2024-01-19T06:00:04.6431465+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:10:17.8276148+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:01:08.9646431+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:10:57.5477376+00:00"
 }

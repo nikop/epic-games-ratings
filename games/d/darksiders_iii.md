@@ -50,7 +50,7 @@ Number of Ratings: 116  (23.09.2022)
 | Holy Keeper | 12.00% | ~77 |
 | Demon Keeper | 12.00% | ~77 |
 | Humanitarian | 10.00% | ~64 |
-| Soul Reaper | 8.00% | ~51 |
+| Soul Reaper | 9.00% | ~58 |
 | Made of Sterner Stuff | 7.00% | ~45 |
 | My Evil Twin | 6.00% | ~39 |
 | Purity of Power | 5.00% | ~32 |

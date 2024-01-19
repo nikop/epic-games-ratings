@@ -513,9 +513,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3518,
+  "EOS_Progressed": 3519,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5868,6 +5868,11 @@
       "Time": "2024-01-19T06:10:19.4087152+00:00",
       "NumProgressed": 3518,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T07:10:59.5320485+00:00",
+      "NumProgressed": 3519,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5880,7 +5885,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3131
+      "UsersEstimate": 3132
     },
     {
       "ID": "achievement_10",
@@ -5968,7 +5973,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2885
+      "UsersEstimate": 2886
     },
     {
       "ID": "achievement_20",
@@ -6112,7 +6117,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "achievement_49",
@@ -6128,7 +6133,7 @@
       "Name": "Initiate",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "achievement_50",
@@ -6248,14 +6253,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3518,
+      "Progressed": 3519,
       "Completed": 5
     }
   ],
@@ -6263,8 +6268,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T02:26:21.3827515+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:10:19.408715+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:10:59.5320482+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:59:35.2233699+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:10:19.4087824+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:00:24.3827755+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:10:59.5320991+00:00"
 }

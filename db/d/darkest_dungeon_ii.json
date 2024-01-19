@@ -11046,9 +11046,9 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133180,
+  "EOS_Progressed": 133181,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 666,
+  "EOS_NewPlayers": 664,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40551,6 +40551,11 @@
       "Time": "2024-01-19T06:10:18.4013636+00:00",
       "NumProgressed": 133180,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T07:10:58.1449917+00:00",
+      "NumProgressed": 133181,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41106,7 +41111,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41193,21 +41198,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133180,
+      "Progressed": 133181,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8049,
+      "Progressed": 8050,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-18T22:57:22.7656101+00:00",
-  "LastChanged_Achievements": "2024-01-19T06:10:18.4013635+00:00",
+  "LastChanged_Achievements": "2024-01-19T07:10:58.1449914+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:57:24.3523282+00:00",
-  "LastUpdate_Achievements": "2024-01-19T06:10:18.4015485+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:57:21.9991809+00:00",
+  "LastUpdate_Achievements": "2024-01-19T07:10:58.1452056+00:00"
 }

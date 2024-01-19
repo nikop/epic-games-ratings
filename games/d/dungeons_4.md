@@ -59,8 +59,8 @@ Rating: 4.74 (Ranked 166)
 | My Little Torture Chamber | 19.00% | ~147 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~140 |
 | Mirror, Mirror | 18.00% | ~140 |
+| Untouchable | 18.00% | ~140 |
 | Heal Heal Blessing | 18.00% | ~140 |
-| Untouchable | 17.00% | ~132 |
 | Hands Off My Stones | 15.00% | ~116 |
 | Laser Eyes Are So Useless | 14.00% | ~109 |
 | Gorgu is in the Best of Health | 13.00% | ~101 |
