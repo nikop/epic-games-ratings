@@ -50,7 +50,7 @@
 | 48 | [Smelter](games/s/smelter.md) | 8.51% |
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
-| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.67% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
@@ -60,7 +60,7 @@
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.23% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.96% |
+| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.95% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.87% |
 | 63 | [Scorn](games/s/scorn.md) | 6.85% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.82% |
@@ -125,8 +125,8 @@
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.57% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.49% |
-| 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
+| 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
+| 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.48% |
 | 128 | [Destiny 2](games/d/destiny_2.md) | 2.46% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.39% |
@@ -147,7 +147,7 @@
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 145 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.82% |
 | 147 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.79% |
-| 148 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.77% |
+| 148 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.78% |
 | 149 | [Sifu](games/s/sifu.md) | 1.71% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 151 | [Frogun](games/f/frogun.md) | 1.67% |
@@ -219,17 +219,17 @@
 | 217 | [Grindstone](games/g/grindstone.md) | 0.59% |
 | 217 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
 | 219 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.58% |
-| 220 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.57% |
-| 221 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
+| 220 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.56% |
+| 220 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 222 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 223 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
-| 224 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.52% |
-| 225 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.51% |
-| 225 | [Five Dates](games/f/five_dates.md) | 0.51% |
-| 225 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.51% |
-| 225 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
-| 229 | [Haven](games/h/haven.md) | 0.50% |
-| 229 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
+| 224 | [Five Dates](games/f/five_dates.md) | 0.51% |
+| 224 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.51% |
+| 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.51% |
+| 224 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
+| 228 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.50% |
+| 228 | [Haven](games/h/haven.md) | 0.50% |
+| 228 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 231 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.49% |
 | 232 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.48% |
 | 233 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.47% |
