@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.70% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.94% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.93% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -50,7 +50,7 @@
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.49% |
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
-| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
+| 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.66% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
@@ -105,7 +105,7 @@
 | 103 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.49% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.24% |
+| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.23% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.22% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
@@ -126,8 +126,8 @@
 | 123 | [The Complex](games/t/the_complex.md) | 2.56% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.47% |
-| 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.47% |
-| 128 | [Destiny 2](games/d/destiny_2.md) | 2.46% |
+| 127 | [Destiny 2](games/d/destiny_2.md) | 2.46% |
+| 127 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.46% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.39% |
 | 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.30% |
@@ -135,8 +135,8 @@
 | 132 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
 | 134 | [Night Book](games/n/night_book.md) | 2.20% |
 | 135 | [tERRORbane](games/t/terrorbane.md) | 2.17% |
-| 136 | [Bloodshore](games/b/bloodshore.md) | 2.07% |
-| 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.05% |
+| 136 | [Bloodshore](games/b/bloodshore.md) | 2.05% |
+| 136 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.05% |
 | 138 | [Strange House](games/s/strange_house.md) | 2.04% |
 | 139 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.00% |
 | 140 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.95% |
@@ -155,7 +155,7 @@
 | 153 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 154 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
 | 155 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.44% |
-| 156 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.40% |
+| 156 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.39% |
 | 157 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 158 | [Chorus](games/c/chorus.md) | 1.33% |
 | 159 | [Ten Dates](games/t/ten_dates.md) | 1.32% |
@@ -249,10 +249,10 @@
 | 245 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.40% |
 | 245 | [Tchia](games/t/tchia.md) | 0.40% |
 | 249 | [Remnant 2](games/r/remnant_2.md) | 0.39% |
+| 250 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 250 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
-| 251 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
-| 251 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
-| 251 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
+| 252 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
+| 252 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 254 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.34% |
 | 254 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.34% |
 | 254 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
