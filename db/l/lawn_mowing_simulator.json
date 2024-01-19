@@ -4,7 +4,7 @@
   "ProductSlug": "lawn-mowing-simulator-838bf3",
   "Ranking_Rating": 1030,
   "Ranking_Popularity": 314,
-  "Ranking_PopularitySum": 279,
+  "Ranking_PopularitySum": 278,
   "Ranking_EOS_Progress": 29,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 57,
@@ -2242,7 +2242,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 698544,
+  "EOS_Progressed": 698548,
   "EOS_Completed": 19,
   "EOS_NewPlayers": 2133,
   "EOS_NewCompleters": 0,
@@ -33807,6 +33807,11 @@
       "Time": "2024-01-19T07:11:05.9578284+00:00",
       "NumProgressed": 698544,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-19T08:11:09.1955221+00:00",
+      "NumProgressed": 698548,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 54,
@@ -33818,7 +33823,7 @@
       "Name": "The dream begins",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 551850
+      "UsersEstimate": 551853
     },
     {
       "ID": "3_CONTRACTS_1_DAY",
@@ -33906,7 +33911,7 @@
       "Name": "Every story has a beginning",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 251476
+      "UsersEstimate": 251477
     },
     {
       "ID": "COMPLETE_PARK_CONTRACT",
@@ -34058,7 +34063,7 @@
       "Name": "The first of many",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 216549
+      "UsersEstimate": 216550
     },
     {
       "ID": "FIRST_CHALLENGE",
@@ -34218,7 +34223,7 @@
       "Name": "Positive word of mouth",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 125738
+      "UsersEstimate": 125739
     },
     {
       "ID": "RP_TRUSTED",
@@ -34249,15 +34254,15 @@
     {
       "ID": "dg1ia2",
       "IsBase": true,
-      "Progressed": 698544,
+      "Progressed": 698548,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-28T20:01:48.1817383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:54.2494775+00:00",
   "LastChanged": "2024-01-10T21:59:15.2512846+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:11:05.9578283+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:11:09.1955219+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.5018357+00:00",
-  "LastUpdate_Ratings": "2024-01-19T06:59:22.5427387+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:11:05.9579779+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:59:35.6533907+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:11:09.1956795+00:00"
 }

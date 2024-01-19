@@ -7,8 +7,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,127 |
-| Lost and Found | 9.00% | ~724 |
-| Autodidact | 8.00% | ~10,654 |
+| Lost and Found | 9.00% | ~725 |
+| Autodidact | 8.00% | ~10,655 |
 | This Belongs in a Museum | 7.00% | ~9,323 |
 | Overdue Notice | 7.00% | ~9,323 |
 | This guy... again? | 7.00% | ~564 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,659 |
 | FNG | 5.00% | ~6,659 |
 | Nope | 5.00% | ~6,659 |
-| Friends 'Til the End | 5.00% | ~402 |
+| Friends 'Til the End | 5.00% | ~403 |
 | Resurrection | 4.00% | ~5,327 |
 | Unleash Hell | 4.00% | ~5,327 |
 | Funny Guy | 4.00% | ~5,327 |
@@ -65,9 +65,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 1.00% | ~1,332 |
 | Shrine of Reflection | 1.00% | ~1,332 |
 | Triage | 1.00% | ~1,332 |
-| No Mercy | 1.00% | ~80 |
-| Slap on the Wrist | 1.00% | ~80 |
-| For Old Time' Sake | 1.00% | ~80 |
+| No Mercy | 1.00% | ~81 |
+| Slap on the Wrist | 1.00% | ~81 |
+| For Old Time' Sake | 1.00% | ~81 |
 | Et Tu, Riposte? | 0.90% | ~72 |
 | The World As It Was | 0.80% | ~1,065 |
 | A Life Well Lived | 0.70% | ~932 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,181 (Ranked 92)  
+Progressed: 133,183 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,181 | 5 |
+| 2024-01-19 | 133,183 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,750 (Ranked 58)  

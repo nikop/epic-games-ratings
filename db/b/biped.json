@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 159,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10590,
+  "EOS_Progressed": 10592,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17299,6 +17299,11 @@
       "Time": "2024-01-19T06:05:46.4451317+00:00",
       "NumProgressed": 10590,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T08:07:22.9165965+00:00",
+      "NumProgressed": 10592,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17310,7 +17315,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3918
+      "UsersEstimate": 3919
     },
     {
       "ID": "10",
@@ -17366,7 +17371,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3071
+      "UsersEstimate": 3072
     },
     {
       "ID": "3",
@@ -17422,14 +17427,14 @@
       "Name": "Speed\u00A0walkers",
       "Percentage": 6,
       "XP": 65,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     }
   ],
   "AchievementSets": [
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10590,
+      "Progressed": 10592,
       "Completed": 0
     }
   ],
@@ -17437,8 +17442,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:06:48.1101629+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:07:22.916596+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:00:54.8401466+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:06:48.1103351+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:01:12.6660573+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:07:22.9166872+00:00"
 }

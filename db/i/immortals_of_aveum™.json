@@ -513,9 +513,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3519,
+  "EOS_Progressed": 3520,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5873,6 +5873,11 @@
       "Time": "2024-01-19T07:10:59.5320485+00:00",
       "NumProgressed": 3519,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T08:11:02.5745831+00:00",
+      "NumProgressed": 3520,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5885,7 +5890,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3132
+      "UsersEstimate": 3133
     },
     {
       "ID": "achievement_10",
@@ -5893,7 +5898,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 809
+      "UsersEstimate": 810
     },
     {
       "ID": "achievement_11",
@@ -5909,7 +5914,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_13",
@@ -5917,7 +5922,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "achievement_14",
@@ -6029,7 +6034,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2463
+      "UsersEstimate": 2464
     },
     {
       "ID": "achievement_36",
@@ -6037,7 +6042,7 @@
       "Name": "Armsman",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "achievement_37",
@@ -6061,7 +6066,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "achievement_41",
@@ -6117,7 +6122,7 @@
       "Name": "Enlisted",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "achievement_49",
@@ -6260,7 +6265,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3519,
+      "Progressed": 3520,
       "Completed": 5
     }
   ],
@@ -6268,8 +6273,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T02:26:21.3827515+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:10:59.5320482+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:11:02.5745825+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:00:24.3827755+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:10:59.5320991+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:00:41.2770815+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:11:02.5746338+00:00"
 }

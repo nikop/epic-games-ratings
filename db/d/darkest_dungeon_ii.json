@@ -11046,9 +11046,9 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133181,
+  "EOS_Progressed": 133183,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 664,
+  "EOS_NewPlayers": 665,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40556,6 +40556,11 @@
       "Time": "2024-01-19T07:10:58.1449917+00:00",
       "NumProgressed": 133181,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T08:11:01.061032+00:00",
+      "NumProgressed": 133183,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40919,7 +40924,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10654
+      "UsersEstimate": 10655
     },
     {
       "ID": "hero_story_complete_all",
@@ -41127,7 +41132,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -41135,7 +41140,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -41167,7 +41172,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41175,7 +41180,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41183,7 +41188,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -41198,21 +41203,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133181,
+      "Progressed": 133183,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8050,
+      "Progressed": 8052,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-18T22:57:22.7656101+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:10:58.1449914+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:11:01.0610318+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-19T06:57:21.9991809+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:10:58.1452056+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:57:26.1317697+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:11:01.0612033+00:00"
 }

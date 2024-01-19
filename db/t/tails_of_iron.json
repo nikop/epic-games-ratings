@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
@@ -4571,9 +4571,9 @@
       "ID": "DefeatRatnorRodentson",
       "SetID": "9lj35g4",
       "Name": "Defeat Ratnor Rodentson",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 47
     },
     {
       "ID": "DefeatRattusAugustus",
@@ -4754,8 +4754,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:07:24.2821482+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:08:00.4491261+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-19T06:57:15.0528525+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:07:24.2822088+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:57:18.4375868+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:08:00.4491665+00:00"
 }

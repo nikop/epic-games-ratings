@@ -4,7 +4,7 @@
   "ProductSlug": "tropico-5",
   "Ranking_Rating": 708,
   "Ranking_Popularity": 356,
-  "Ranking_PopularitySum": 282,
+  "Ranking_PopularitySum": 281,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 546,
@@ -2235,6 +2235,6 @@
   "FirstSeen": "2022-07-22T20:18:35.4138302+00:00",
   "LastChanged": "2024-01-17T01:51:51.0146823+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:04.277128+00:00",
-  "LastUpdate_Ratings": "2024-01-19T06:58:09.5249955+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:10:14.7160214+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:58:17.3248101+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:10:16.5776221+00:00"
 }

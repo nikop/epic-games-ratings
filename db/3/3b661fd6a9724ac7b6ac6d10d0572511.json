@@ -9491,10 +9491,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 24434,
       "NumberOfAwardsMax": 10537
+    },
+    {
+      "Time": "2024-01-19T08:00:23.2725586+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 24440,
+      "NumberOfAwardsMax": 10537
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24434,
+  "NumberOfAwards": 24440,
   "NumberOfAwardsMax": 10537,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9514,7 +9520,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1419
+      "Count": 1425
     },
     {
       "Text": "This game is Great for Beginners",
@@ -9565,9 +9571,9 @@
       "Count": 1578
     }
   ],
-  "EOS_Progressed": 1848001,
+  "EOS_Progressed": 1848028,
   "EOS_Completed": 746,
-  "EOS_NewPlayers": 6552,
+  "EOS_NewPlayers": 6564,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -36080,6 +36086,11 @@
       "Time": "2024-01-19T07:11:16.7268108+00:00",
       "NumProgressed": 1848001,
       "NumCompleted": 746
+    },
+    {
+      "Time": "2024-01-19T08:11:20.4084392+00:00",
+      "NumProgressed": 1848028,
+      "NumCompleted": 746
     }
   ],
   "TotalAchievements": 1328,
@@ -36147,7 +36158,7 @@
       "Name": "The Collector",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129360
+      "UsersEstimate": 129362
     },
     {
       "ID": "armed_and_dangerous",
@@ -36155,7 +36166,7 @@
       "Name": "Armed and Dangerous",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 36960
+      "UsersEstimate": 36961
     },
     {
       "ID": "armed_to_the_teeth",
@@ -36163,7 +36174,7 @@
       "Name": "Would You Like Your Receipt?",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110880
+      "UsersEstimate": 110882
     },
     {
       "ID": "armored_1",
@@ -37291,7 +37302,7 @@
       "Name": "I Want to Get Away",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 240240
+      "UsersEstimate": 240244
     },
     {
       "ID": "brooklyn_2",
@@ -37307,7 +37318,7 @@
       "Name": "I Never Asked for This",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 73920
+      "UsersEstimate": 73921
     },
     {
       "ID": "brooklyn_4",
@@ -37515,7 +37526,7 @@
       "Name": "Virus",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 129360
+      "UsersEstimate": 129362
     },
     {
       "ID": "cac_29",
@@ -39195,7 +39206,7 @@
       "Name": "Pink Slip",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 55440
+      "UsersEstimate": 55441
     },
     {
       "ID": "fort_3",
@@ -39355,7 +39366,7 @@
       "Name": "HOLY SHI-",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 55440
+      "UsersEstimate": 55441
     },
     {
       "ID": "gage2_9",
@@ -40555,7 +40566,7 @@
       "Name": "Going Places",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 55440
+      "UsersEstimate": 55441
     },
     {
       "ID": "gone_in_30_seconds",
@@ -40563,7 +40574,7 @@
       "Name": "Smooth Criminal",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 92400
+      "UsersEstimate": 92401
     },
     {
       "ID": "gorilla_1",
@@ -40707,7 +40718,7 @@
       "Name": "Guilty of Crime",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 147840
+      "UsersEstimate": 147842
     },
     {
       "ID": "halloween_1",
@@ -40843,7 +40854,7 @@
       "Name": "How Do You Like Me Now?",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 147840
+      "UsersEstimate": 147842
     },
     {
       "ID": "i_knew_what_i_was_doing_was_wrong",
@@ -41675,7 +41686,7 @@
       "Name": "I Got It, I Got It!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 36960
+      "UsersEstimate": 36961
     },
     {
       "ID": "nbm_1",
@@ -41803,7 +41814,7 @@
       "Name": "No One Cared Who I Was...",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203280
+      "UsersEstimate": 203283
     },
     {
       "ID": "no_turning_back",
@@ -41811,7 +41822,7 @@
       "Name": "No Turning Back",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 184800
+      "UsersEstimate": 184803
     },
     {
       "ID": "orange_1",
@@ -43707,7 +43718,7 @@
       "Name": "Spend Money to Make Money",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 55440
+      "UsersEstimate": 55441
     },
     {
       "ID": "squek",
@@ -44171,7 +44182,7 @@
       "Name": "No Thermal Drill was Harmed During the Heist",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 55440
+      "UsersEstimate": 55441
     },
     {
       "ID": "trk_bc_1",
@@ -44235,7 +44246,7 @@
       "Name": "Taking the Bars",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 36960
+      "UsersEstimate": 36961
     },
     {
       "ID": "trk_bg_1",
@@ -44891,7 +44902,7 @@
       "Name": "Being Precious",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 55440
+      "UsersEstimate": 55441
     },
     {
       "ID": "trk_ds_1",
@@ -45171,7 +45182,7 @@
       "Name": "Go, Go, Go",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 55440
+      "UsersEstimate": 55441
     },
     {
       "ID": "trk_gb_1",
@@ -45443,7 +45454,7 @@
       "Name": "There is Always a First Time",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 73920
+      "UsersEstimate": 73921
     },
     {
       "ID": "trk_js_1",
@@ -45563,7 +45574,7 @@
       "Name": "No Return Policy",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 36960
+      "UsersEstimate": 36961
     },
     {
       "ID": "trk_mc_1",
@@ -45963,7 +45974,7 @@
       "Name": "Sold Out",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 36960
+      "UsersEstimate": 36961
     },
     {
       "ID": "trk_sx_1",
@@ -46219,7 +46230,7 @@
       "Name": "Precious Delicious",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 36960
+      "UsersEstimate": 36961
     },
     {
       "ID": "trk_uj_1",
@@ -46379,7 +46390,7 @@
       "Name": "A Good Haul",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 36960
+      "UsersEstimate": 36961
     },
     {
       "ID": "uno_2",
@@ -46595,7 +46606,7 @@
       "Name": "Armed to the Teeth",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 110880
+      "UsersEstimate": 110882
     },
     {
       "ID": "wwh_1",
@@ -46699,7 +46710,7 @@
       "Name": "You Gotta Start Somewhere",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 203280
+      "UsersEstimate": 203283
     },
     {
       "ID": "you_shall_not_pass",
@@ -46714,22 +46725,22 @@
     {
       "ID": "61cefe3",
       "IsBase": true,
-      "Progressed": 1848001,
+      "Progressed": 1848028,
       "Completed": 746
     },
     {
       "ID": "bkjdbk8",
       "IsBase": false,
-      "Progressed": 1848001,
+      "Progressed": 1848028,
       "Completed": 127
     }
   ],
   "FirstSeen": "2023-06-08T18:57:07.8003815+00:00",
   "FirstSeenRating": "2023-06-09T03:57:04.3869033+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:50.4372379+00:00",
-  "LastChanged": "2024-01-19T05:59:24.098117+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:11:16.7268105+00:00",
+  "LastChanged": "2024-01-19T08:00:23.2725584+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:11:20.4084388+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.1503905+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:00:07.6307649+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:11:16.7388985+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:00:23.272559+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:11:20.4204591+00:00"
 }

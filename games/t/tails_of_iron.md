@@ -12,6 +12,7 @@ Rating: 4.57 (Ranked 499)
 | Collect Monster Parts | 2.00% | ~47 |
 | Complete Elder Faction | 2.00% | ~47 |
 | End of the Mozis | 2.00% | ~47 |
+| Defeat Ratnor Rodentson | 2.00% | ~47 |
 | Ranged Weapon | 2.00% | ~47 |
 | Two Handed Weapon | 2.00% | ~47 |
 | Defeat 25 Grubs | 2.00% | ~47 |
@@ -29,7 +30,6 @@ Rating: 4.57 (Ranked 499)
 | The Bright Fir | 2.00% | ~20 |
 | Return the Statues | 1.00% | ~23 |
 | Complete the Chefs Book | 1.00% | ~23 |
-| Defeat Ratnor Rodentson | 1.00% | ~23 |
 | Defeat Rattus Augustail | 1.00% | ~23 |
 | Fix the Travellers Wagon | 1.00% | ~23 |
 | Defeat the Grub Buster | 1.00% | ~10 |

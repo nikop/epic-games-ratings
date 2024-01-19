@@ -339,7 +339,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 80407,
+  "EOS_Progressed": 80408,
   "EOS_Completed": 436,
   "EOS_NewPlayers": 630,
   "EOS_NewCompleters": 4,
@@ -30624,6 +30624,11 @@
       "Time": "2024-01-19T07:10:33.0415503+00:00",
       "NumProgressed": 80407,
       "NumCompleted": 436
+    },
+    {
+      "Time": "2024-01-19T08:10:35.2108268+00:00",
+      "NumProgressed": 80408,
+      "NumCompleted": 436
     }
   ],
   "TotalAchievements": 24,
@@ -30651,7 +30656,7 @@
       "Name": "A GUARDIAN FORGOTTEN",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 55481
+      "UsersEstimate": 55482
     },
     {
       "ID": "BEST_FRIENDS",
@@ -30675,7 +30680,7 @@
       "Name": "ERADICATE",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 16885
+      "UsersEstimate": 16886
     },
     {
       "ID": "FETCH",
@@ -30826,7 +30831,7 @@
     {
       "ID": "30359jm",
       "IsBase": true,
-      "Progressed": 80407,
+      "Progressed": 80408,
       "Completed": 436
     }
   ],
@@ -30834,8 +30839,8 @@
   "FirstSeenRating": "2022-09-16T15:31:24.9636045+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:11.7429211+00:00",
   "LastChanged": "2023-12-11T01:48:32.7425544+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:10:33.04155+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:10:35.2108266+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.0596722+00:00",
-  "LastUpdate_Ratings": "2024-01-19T06:58:39.2688275+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:10:33.0417224+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:58:49.8197887+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:10:35.2109728+00:00"
 }

@@ -793,9 +793,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4633,
+  "EOS_Progressed": 4634,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12963,6 +12963,11 @@
       "Time": "2024-01-19T04:03:47.3903219+00:00",
       "NumProgressed": 4633,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T08:04:35.831524+00:00",
+      "NumProgressed": 4634,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13366,7 +13371,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2409
+      "UsersEstimate": 2410
     },
     {
       "ID": "prestigiousx10",
@@ -13430,7 +13435,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2594
+      "UsersEstimate": 2595
     },
     {
       "ID": "thealchemist",
@@ -13534,7 +13539,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "warmachinesarmy",
@@ -13566,14 +13571,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3614
+      "UsersEstimate": 3615
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4633,
+      "Progressed": 4634,
       "Completed": 2
     }
   ],
@@ -13581,8 +13586,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-17T22:58:46.2405409+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:04:09.0741139+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:04:35.8315235+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-19T06:59:25.1994779+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:04:09.0742343+00:00"
+  "LastUpdate_Ratings": "2024-01-19T07:59:38.4587027+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:04:35.8316385+00:00"
 }

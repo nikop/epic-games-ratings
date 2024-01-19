@@ -6,24 +6,24 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,116 |
-| Overkill | 33.00% | ~11,391 |
-| Vaccine Incoming | 31.00% | ~10,700 |
-| A normal day in Gloomhaven | 29.00% | ~10,010 |
-| Spread the plague | 26.00% | ~8,974 |
-| Get over here! | 24.00% | ~8,284 |
-| Just when I thought I was out... | 19.00% | ~6,558 |
+| I'm not dead yet | 38.00% | ~13,118 |
+| Overkill | 33.00% | ~11,392 |
+| Vaccine Incoming | 31.00% | ~10,702 |
+| A normal day in Gloomhaven | 29.00% | ~10,011 |
+| Spread the plague | 26.00% | ~8,975 |
+| Get over here! | 24.00% | ~8,285 |
+| Just when I thought I was out... | 19.00% | ~6,559 |
 | Mine... All Mine... | 16.00% | ~5,523 |
 | Precious! | 15.00% | ~5,178 |
 | Grizzled veteran | 15.00% | ~5,178 |
-| Anatomy Lesson | 14.00% | ~4,832 |
-| Who's the Boss? | 12.00% | ~4,142 |
-| You activated my trap card! | 12.00% | ~4,142 |
-| Obstacle race | 12.00% | ~4,142 |
-| Light of my life | 12.00% | ~4,142 |
+| Anatomy Lesson | 14.00% | ~4,833 |
+| Who's the Boss? | 12.00% | ~4,143 |
+| You activated my trap card! | 12.00% | ~4,143 |
+| Obstacle race | 12.00% | ~4,143 |
+| Light of my life | 12.00% | ~4,143 |
 | Augmented rat | 10.00% | ~3,452 |
 | Doom and gloom | 9.00% | ~3,107 |
-| Dungeon Veteran | 8.00% | ~2,761 |
+| Dungeon Veteran | 8.00% | ~2,762 |
 | Pack leader | 7.00% | ~2,416 |
 | Pain is your friend | 7.00% | ~2,416 |
 | Black death | 7.00% | ~2,416 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,517 (Ranked 139)  
+Progressed: 34,521 (Ranked 139)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-16 | 34,076 | 1 |
 | 2024-01-17 | 34,284 | 1 |
 | 2024-01-18 | 34,462 | 1 |
-| 2024-01-19 | 34,517 | 1 |
+| 2024-01-19 | 34,521 | 1 |
 ## Awards
 Max (Character Customization): 3,622  (Ranked 96)  
 Sum: 8,493 (Ranked 110)  

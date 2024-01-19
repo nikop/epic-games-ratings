@@ -18,15 +18,15 @@ Number of Ratings: 48  (23.09.2022)
 | A Girl About the Town | 47.00% | ~380 |
 | First Time Hunting | 46.00% | ~372 |
 | Rune Wall Wreckage | 45.00% | ~364 |
-| ...And Your Tax Money | 43.00% | ~347 |
-| The Lords of the Snowpeak | 37.00% | ~299 |
+| ...And Your Tax Money | 44.00% | ~356 |
+| The Lords of the Snowpeak | 38.00% | ~307 |
 | The Go-To Girl | 34.00% | ~275 |
 | Scavenger's Honor | 34.00% | ~275 |
 | Natural Born Monster-Killer | 34.00% | ~275 |
+| The Great Forest...On Foot! | 34.00% | ~275 |
 | The Lava Mantor Wyrm | 33.00% | ~267 |
 | One Mean Merc | 33.00% | ~267 |
 | Money, Money, Money | 33.00% | ~267 |
-| The Great Forest...On Foot! | 33.00% | ~267 |
 | Adept, for an Acting Mayor | 32.00% | ~259 |
 | Rune Wall Master | 31.00% | ~250 |
 | The Quarry...On Foot! | 28.00% | ~226 |
@@ -57,7 +57,7 @@ Number of Ratings: 48  (23.09.2022)
 | Full Force - Isha | 7.00% | ~57 |
 | Rising Champion | 6.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808 (Ranked 316)  
+Progressed: 808 (Ranked 317)  
 Completed: 60 (7.43%) (Ranked 56)  
 ## EOS Players History
 | Date | Progressed | Completed |

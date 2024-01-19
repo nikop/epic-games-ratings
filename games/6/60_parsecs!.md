@@ -4,21 +4,21 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,070 |
-| Space Colonization | 79.00% | ~881 |
+| Don't Panic! | 96.00% | ~1,071 |
+| Space Colonization | 79.00% | ~882 |
 | Friendzone | 78.00% | ~870 |
-| Hello World | 73.00% | ~814 |
-| Space Engineer | 61.00% | ~680 |
-| Tinkerer | 61.00% | ~680 |
+| Hello World | 73.00% | ~815 |
+| Space Engineer | 62.00% | ~692 |
+| Tinkerer | 61.00% | ~681 |
 | Dust to Dust | 57.00% | ~636 |
 | Across The Stars | 46.00% | ~513 |
-| Crafty | 43.00% | ~479 |
-| All Seats Taken | 35.00% | ~390 |
-| For Science! | 31.00% | ~346 |
-| Meet the Petersons | 30.00% | ~334 |
+| Crafty | 43.00% | ~480 |
+| All Seats Taken | 35.00% | ~391 |
+| For Science! | 32.00% | ~357 |
+| Meet the Petersons | 30.00% | ~335 |
 | Stay Cool | 27.00% | ~301 |
 | KIA | 26.00% | ~290 |
-| Mutiny in making | 22.00% | ~245 |
+| Mutiny in making | 22.00% | ~246 |
 | Et tu, Astrocitizen? | 18.00% | ~201 |
 | Eco-Shuttle | 17.00% | ~190 |
 | Space Explorer | 14.00% | ~156 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,115 (Ranked 294)  
+Progressed: 1,116 (Ranked 294)  
 Completed: 1 (0.09%) (Ranked 324)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 1 (0.09%) (Ranked 324)
 | 2024-01-16 | 870 | 1 |
 | 2024-01-17 | 981 | 1 |
 | 2024-01-18 | 1,088 | 1 |
-| 2024-01-19 | 1,115 | 1 |
+| 2024-01-19 | 1,116 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

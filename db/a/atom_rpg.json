@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1749,
+  "EOS_Progressed": 1750,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4732,6 +4732,11 @@
       "Time": "2024-01-18T21:11:42.0338814+00:00",
       "NumProgressed": 1749,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T08:11:00.8956144+00:00",
+      "NumProgressed": 1750,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4831,7 +4836,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4863,7 +4868,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4871,7 +4876,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4879,7 +4884,7 @@
       "Name": "Neanderthal",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "NO_NAME",
@@ -4903,7 +4908,7 @@
       "Name": "One shot, one kill",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "PACIFIST",
@@ -4927,7 +4932,7 @@
       "Name": "Not-so-private Eye",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "PROTECTION_RACKET",
@@ -4935,7 +4940,7 @@
       "Name": "Protection racket",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "RELICTS",
@@ -4943,7 +4948,7 @@
       "Name": "Mystical relics",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ROBOT_DEAD",
@@ -4983,7 +4988,7 @@
       "Name": "Cosmic Horror",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "SUPERHUMAN_1",
@@ -5030,15 +5035,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1749,
+      "Progressed": 1750,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:10:58.0333288+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:11:00.8956138+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4928837+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:02:44.048849+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:10:58.0333756+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:03:03.8036466+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:11:00.8956585+00:00"
 }

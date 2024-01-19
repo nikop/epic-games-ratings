@@ -35,8 +35,8 @@ Rating: 4.19 (Ranked 977)
 | Bulldozed | 12.00% | ~9,959 |
 | Gotham Knight | 12.00% | ~9,959 |
 | Gotham City Confidential | 11.00% | ~9,129 |
+| Drone You Out | 10.00% | ~8,299 |
 | Out of Their League | 9.00% | ~7,469 |
-| Drone You Out | 9.00% | ~7,469 |
 | Solid Alibi | 8.00% | ~6,639 |
 | Fusion Expert | 7.00% | ~5,809 |
 | Family Meeting | 6.00% | ~4,979 |

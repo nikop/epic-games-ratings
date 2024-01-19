@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 887,
+  "EOS_Progressed": 888,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 16.8,
+  "EOS_Completed_Percentage": 16.78,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3851,6 +3851,11 @@
       "Time": "2024-01-19T07:07:10.0710076+00:00",
       "NumProgressed": 887,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2024-01-19T08:07:45.7313736+00:00",
+      "NumProgressed": 888,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 22,
@@ -3870,7 +3875,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "LEVEL_003",
@@ -3878,7 +3883,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "LEVEL_004",
@@ -3902,7 +3907,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "LEVEL_007",
@@ -3910,7 +3915,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "LEVEL_008",
@@ -3934,7 +3939,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "LEVEL_011",
@@ -3980,9 +3985,9 @@
       "ID": "LEVEL_016",
       "SetID": "3khpmem",
       "Name": "The beach is right there",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 169
     },
     {
       "ID": "LEVEL_017",
@@ -4037,7 +4042,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 887,
+      "Progressed": 888,
       "Completed": 149
     }
   ],
@@ -4045,8 +4050,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:07:10.0710072+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:07:45.7313728+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:00:32.7523445+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:07:10.0710501+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:00:50.0474057+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:07:45.7314029+00:00"
 }

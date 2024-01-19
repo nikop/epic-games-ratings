@@ -223,9 +223,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35866,
+  "EOS_Progressed": 35867,
   "EOS_Completed": 346,
-  "EOS_NewPlayers": 1575,
+  "EOS_NewPlayers": 1570,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.96,
   "EosHistory": [
@@ -16668,6 +16668,11 @@
       "Time": "2024-01-19T07:08:24.4541396+00:00",
       "NumProgressed": 35866,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2024-01-19T08:08:20.8722146+00:00",
+      "NumProgressed": 35867,
+      "NumCompleted": 346
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -16712,7 +16717,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 18650
+      "UsersEstimate": 18651
     },
     {
       "ID": "achievement_14",
@@ -16752,7 +16757,7 @@
       "Name": "Back At You",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 25106
+      "UsersEstimate": 25107
     },
     {
       "ID": "achievement_19",
@@ -16760,7 +16765,7 @@
       "Name": "Perfect Timing",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 17933
+      "UsersEstimate": 17934
     },
     {
       "ID": "achievement_2",
@@ -16888,7 +16893,7 @@
       "Name": "Full House",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 12194
+      "UsersEstimate": 12195
     },
     {
       "ID": "achievement_34",
@@ -16904,7 +16909,7 @@
       "Name": "Sabersmith",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 28334
+      "UsersEstimate": 28335
     },
     {
       "ID": "achievement_36",
@@ -16968,7 +16973,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 35866
+      "UsersEstimate": 35867
     },
     {
       "ID": "achievement_8",
@@ -16976,7 +16981,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 32638
+      "UsersEstimate": 32639
     },
     {
       "ID": "achievement_9",
@@ -16991,7 +16996,7 @@
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 35866,
+      "Progressed": 35867,
       "Completed": 346
     }
   ],
@@ -16999,8 +17004,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2024-01-01T22:59:19.1576337+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:08:24.4541392+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:08:20.8722143+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:12.1681771+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:01:20.1801967+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:08:24.4542299+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:01:39.9550399+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:08:20.8723127+00:00"
 }

@@ -1785,9 +1785,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11076,
+  "EOS_Progressed": 11078,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 821,
+  "EOS_NewPlayers": 818,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12010,6 +12010,11 @@
       "Time": "2024-01-19T07:04:48.5969024+00:00",
       "NumProgressed": 11076,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T08:05:17.3370185+00:00",
+      "NumProgressed": 11078,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12030,7 +12035,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "achievement_11",
@@ -12046,7 +12051,7 @@
       "Name": "Dealmaker",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "achievement_13",
@@ -12054,7 +12059,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 3212
+      "UsersEstimate": 3213
     },
     {
       "ID": "achievement_14",
@@ -12062,7 +12067,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 3655
+      "UsersEstimate": 3656
     },
     {
       "ID": "achievement_15",
@@ -12118,7 +12123,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6535
+      "UsersEstimate": 6536
     },
     {
       "ID": "achievement_21",
@@ -12158,7 +12163,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "achievement_7",
@@ -12189,7 +12194,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11076,
+      "Progressed": 11078,
       "Completed": 0
     }
   ],
@@ -12197,8 +12202,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-19T05:03:02.6226655+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:04:48.596902+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:05:17.3370182+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:02:49.7775678+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:04:48.5969766+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:03:09.9806321+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:05:17.3370827+00:00"
 }

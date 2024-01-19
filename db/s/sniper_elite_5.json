@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 551,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -675,7 +675,7 @@
   ],
   "EOS_Progressed": 4302,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -10337,9 +10337,9 @@
       "ID": "REWARD_DLC03_01_IF_YOU_GO_DOWN_TO_THE_WOODS_TODAY",
       "SetID": "83mdf7p",
       "Name": "If You Go Down To The Woods Today",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 128
+      "UsersEstimate": 170
     },
     {
       "ID": "REWARD_DLC03_02_FIGHT_ANOTHER_DAY",
@@ -10400,8 +10400,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-14T22:57:09.406703+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:10:41.5110048+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:10:43.7015216+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:00:21.195584+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:10:41.5110944+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:00:37.6066225+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:10:43.7016234+00:00"
 }

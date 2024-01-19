@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 463,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 301,
-  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewPlayers": 215,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4498,9 +4498,9 @@
       "ID": "MuseumVisitor",
       "SetID": "1n308hc",
       "Name": "Museum Visitor",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 405
+      "UsersEstimate": 419
     },
     {
       "ID": "NewBeginning",
@@ -4755,8 +4755,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-18T22:01:32.7392384+00:00",
-  "LastChanged_Achievements": "2024-01-19T07:08:26.4579088+00:00",
+  "LastChanged_Achievements": "2024-01-19T08:08:23.0282858+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:01:18.2660103+00:00",
-  "LastUpdate_Achievements": "2024-01-19T07:08:26.4579675+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:01:37.8845794+00:00",
+  "LastUpdate_Achievements": "2024-01-19T08:08:23.0283394+00:00"
 }

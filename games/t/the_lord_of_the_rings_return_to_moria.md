@@ -7,16 +7,16 @@ Rating: 4.43 (Ranked 731)
 | ---- | ---------- | ----- |
 | Speak Friend | 82.00% | ~316,868 |
 | Delving Onward | 69.00% | ~266,633 |
-| Miner's Helper | 59.00% | ~227,990 |
-| Suit Up | 54.00% | ~208,669 |
+| Miner's Helper | 59.00% | ~227,991 |
+| Suit Up | 54.00% | ~208,670 |
 | To the Mountain's Roots | 50.00% | ~193,212 |
-| Remains To Be Seen | 35.00% | ~135,248 |
+| Remains To Be Seen | 35.00% | ~135,249 |
 | Covered Head to Toe | 33.00% | ~127,520 |
 | Line of Azog, Ended | 32.00% | ~123,656 |
-| Risk a Little Real Light | 31.00% | ~119,791 |
+| Risk a Little Real Light | 31.00% | ~119,792 |
 | Caradhras The Cruel | 18.00% | ~69,556 |
 | A Memory of this Place | 18.00% | ~69,556 |
-| False King, Deposed | 14.00% | ~54,099 |
+| False King, Deposed | 14.00% | ~54,100 |
 | Baruk Khazâd! | 13.00% | ~50,235 |
 | Battering Ram | 13.00% | ~50,235 |
 | Shadow's Bane | 10.00% | ~38,642 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 731)
 | Shielded | 1.00% | ~3,864 |
 | We're Gonna Need More Mugs | 0.20% | ~773 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,424 (Ranked 54)  
+Progressed: 386,425 (Ranked 54)  
 Completed: 369 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 369 (0.10%) (Ranked 317)
 | 2024-01-16 | 385,383 | 356 |
 | 2024-01-17 | 385,849 | 363 |
 | 2024-01-18 | 386,311 | 369 |
-| 2024-01-19 | 386,424 | 369 |
+| 2024-01-19 | 386,425 | 369 |
 ## Awards
 Max (Great for Beginners): 964  (Ranked 169)  
 Sum: 5,563 (Ranked 143)  
