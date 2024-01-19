@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75926,
+  "EOS_Progressed": 75932,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1293,
+  "EOS_NewPlayers": 1294,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7842,6 +7842,11 @@
       "Time": "2024-01-19T05:09:04.9056852+00:00",
       "NumProgressed": 75926,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-19T06:09:03.6813029+00:00",
+      "NumProgressed": 75932,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7854,7 +7859,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28093
+      "UsersEstimate": 28095
     },
     {
       "ID": "Achievement_10",
@@ -7926,7 +7931,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Achievement_19",
@@ -7942,7 +7947,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21259
+      "UsersEstimate": 21261
     },
     {
       "ID": "Achievement_20",
@@ -8022,7 +8027,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 531
+      "UsersEstimate": 532
     },
     {
       "ID": "Achievement_3",
@@ -8030,7 +8035,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9111
+      "UsersEstimate": 9112
     },
     {
       "ID": "Achievement_30",
@@ -8078,7 +8083,7 @@
       "Name": "The General\u0027s Daughter",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 6833
+      "UsersEstimate": 6834
     },
     {
       "ID": "Achievement_5",
@@ -8125,7 +8130,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75926,
+      "Progressed": 75932,
       "Completed": 128
     }
   ],
@@ -8133,8 +8138,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:09:04.9056849+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:09:03.6813027+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:59:56.9507381+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:09:04.9057474+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:00:04.400073+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:09:03.6813677+00:00"
 }

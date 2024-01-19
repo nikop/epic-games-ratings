@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,702 |
-| The Assault | 5.00% | ~38,085 |
-| Life is your teacher | 5.00% | ~38,085 |
-| Lightning Hands | 5.00% | ~38,085 |
+| The Old Grandmaster | 6.00% | ~45,703 |
+| The Assault | 5.00% | ~38,086 |
+| Life is your teacher | 5.00% | ~38,086 |
+| Lightning Hands | 5.00% | ~38,086 |
 | The Hateful Pole Fighter | 3.00% | ~22,851 |
 | Stuntmaster | 3.00% | ~22,851 |
 | Street Fighting | 3.00% | ~22,851 |
@@ -49,12 +49,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | Come Snap With Me | 0.40% | ~3,047 |
 | Drunken Fighter | 0.30% | ~2,285 |
 | Martial Artist | 0.30% | ~2,285 |
+| Healing Memory | 0.30% | ~2,285 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,285 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,285 |
 | Be like water my friend | 0.30% | ~2,285 |
 | Deadly Venom | 0.30% | ~213 |
 | A Touch of Acumen | 0.30% | ~213 |
-| Healing Memory | 0.20% | ~1,523 |
 | Secure, Protect, Leave | 0.20% | ~142 |
 | Crouching Tiger | 0.20% | ~142 |
 | Skill and an even stronger will | 0.20% | ~142 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,707 (Ranked 26)  
+Progressed: 761,713 (Ranked 26)  
 Completed: 12,992 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 12,992 (1.71%) (Ranked 149)
 | 2024-01-16 | 761,239 | 12,989 |
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
-| 2024-01-19 | 761,707 | 12,992 |
+| 2024-01-19 | 761,713 | 12,992 |
 ## Awards
 Max (Great Boss Battles): 7,237  (Ranked 57)  
 Sum: 12,809 (Ranked 87)  

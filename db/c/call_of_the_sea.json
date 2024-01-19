@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 21,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140329,
+  "EOS_Progressed": 140330,
   "EOS_Completed": 1271,
   "EOS_NewPlayers": 1087,
   "EOS_NewCompleters": 16,
@@ -31675,6 +31675,11 @@
       "Time": "2024-01-19T05:04:23.7326976+00:00",
       "NumProgressed": 140329,
       "NumCompleted": 1271
+    },
+    {
+      "Time": "2024-01-19T06:04:17.0644598+00:00",
+      "NumProgressed": 140330,
+      "NumCompleted": 1271
     }
   ],
   "TotalAchievements": 34,
@@ -31702,7 +31707,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 58938
+      "UsersEstimate": 58939
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -31742,7 +31747,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 112263
+      "UsersEstimate": 112264
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -31758,7 +31763,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78584
+      "UsersEstimate": 78585
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -31957,7 +31962,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140329,
+      "Progressed": 140330,
       "Completed": 1271
     }
   ],
@@ -31965,8 +31970,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:04:23.7326972+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:04:17.0644595+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:59:31.2398637+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:04:23.7328555+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:59:39.3606103+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:04:17.0646658+00:00"
 }

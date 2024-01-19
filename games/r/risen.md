@@ -14,11 +14,11 @@ Rating: 4.58 (Ranked 475)
 | Field hand | 39.00% | ~80 |
 | Well-to-do | 34.00% | ~70 |
 | Samaritan | 31.00% | ~64 |
+| Ladies' man | 31.00% | ~64 |
 | The merciful one | 30.00% | ~62 |
-| Ladies' man | 30.00% | ~62 |
 | Idiot | 25.00% | ~51 |
 | Ferocious wild boars | 24.00% | ~49 |
-| Beast slayer | 21.00% | ~43 |
+| Beast slayer | 22.00% | ~45 |
 | Ogre friend | 21.00% | ~43 |
 | Death of a legend | 20.00% | ~41 |
 | Archaeologist | 20.00% | ~41 |

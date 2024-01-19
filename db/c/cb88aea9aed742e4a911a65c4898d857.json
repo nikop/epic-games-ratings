@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -413,9 +413,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11809,
+  "EOS_Progressed": 11812,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 684,
+  "EOS_NewPlayers": 686,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5423,6 +5423,11 @@
       "Time": "2024-01-19T05:10:25.3559986+00:00",
       "NumProgressed": 11809,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T06:10:22.390856+00:00",
+      "NumProgressed": 11812,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5435,7 +5440,7 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2598
+      "UsersEstimate": 2599
     },
     {
       "ID": "03_TheStolenStar",
@@ -5443,7 +5448,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5547,7 +5552,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "17_TheExemplar",
@@ -5563,7 +5568,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5593,9 +5598,9 @@
       "ID": "22_PerfectTiming",
       "SetID": "37a94m8",
       "Name": "Perfect Timing",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1654
     },
     {
       "ID": "23_DynastyRestored",
@@ -5633,9 +5638,9 @@
       "ID": "27_UncoverTheIce",
       "SetID": "37a94m8",
       "Name": "Uncover the Ice",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 354
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -5643,7 +5648,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1535
+      "UsersEstimate": 1536
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5787,7 +5792,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1889
+      "UsersEstimate": 1890
     },
     {
       "ID": "47_AFlame",
@@ -5954,7 +5959,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11809,
+      "Progressed": 11812,
       "Completed": 1
     }
   ],
@@ -5962,8 +5967,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-18T13:59:36.0341699+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:10:25.3559984+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:10:22.3908558+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:59:41.5857344+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:10:25.3560774+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:59:49.8140509+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:10:22.390923+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 243,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2575,9 +2575,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19695,
+  "EOS_Progressed": 19696,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 292,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -20890,6 +20890,11 @@
       "Time": "2024-01-19T04:10:19.0914141+00:00",
       "NumProgressed": 19695,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-19T06:10:19.3102398+00:00",
+      "NumProgressed": 19696,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -20901,7 +20906,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15953
+      "UsersEstimate": 15954
     },
     {
       "ID": "ACH02",
@@ -21005,7 +21010,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2166
+      "UsersEstimate": 2167
     },
     {
       "ID": "ACH15",
@@ -21180,7 +21185,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19695,
+      "Progressed": 19696,
       "Completed": 81
     }
   ],
@@ -21188,8 +21193,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-18T19:59:44.9643821+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:10:22.2410898+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:10:19.3102396+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:59:07.0065026+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:10:22.2411815+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:59:15.6737139+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:10:19.3103953+00:00"
 }

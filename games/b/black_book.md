@@ -6,10 +6,10 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,659 |
+| Initiation | 29.00% | ~19,660 |
 | Student | 22.00% | ~14,914 |
-| Knower | 16.00% | ~10,846 |
-| Listener | 15.00% | ~10,168 |
+| Knower | 16.00% | ~10,847 |
+| Listener | 15.00% | ~10,169 |
 | Aspen Tree | 14.00% | ~9,491 |
 | Healer | 14.00% | ~9,491 |
 | Scientist | 12.00% | ~8,135 |
@@ -26,21 +26,21 @@ Number of Ratings: 96  (23.09.2022)
 | Card Player | 8.00% | ~5,423 |
 | Dead Friend | 8.00% | ~5,423 |
 | Pine Tree | 8.00% | ~5,423 |
-| Worthy | 7.00% | ~4,745 |
-| Black Book | 7.00% | ~4,745 |
-| Black Sorcerer | 7.00% | ~4,745 |
-| Dead Man | 7.00% | ~4,745 |
-| Fern | 7.00% | ~4,745 |
-| 100 Friends | 7.00% | ~4,745 |
-| Researcher | 7.00% | ~4,745 |
-| Savvy | 7.00% | ~4,745 |
-| Encyclopedist | 6.00% | ~4,067 |
-| Witch | 6.00% | ~4,067 |
-| Vorsa | 6.00% | ~4,067 |
-| Old Spirits | 6.00% | ~4,067 |
-| Sinner | 6.00% | ~4,067 |
-| Folklorist | 6.00% | ~4,067 |
-| Keeper of Knowledge | 6.00% | ~4,067 |
+| Worthy | 7.00% | ~4,746 |
+| Black Book | 7.00% | ~4,746 |
+| Black Sorcerer | 7.00% | ~4,746 |
+| Dead Man | 7.00% | ~4,746 |
+| Fern | 7.00% | ~4,746 |
+| 100 Friends | 7.00% | ~4,746 |
+| Researcher | 7.00% | ~4,746 |
+| Savvy | 7.00% | ~4,746 |
+| Encyclopedist | 6.00% | ~4,068 |
+| Witch | 6.00% | ~4,068 |
+| Vorsa | 6.00% | ~4,068 |
+| Old Spirits | 6.00% | ~4,068 |
+| Sinner | 6.00% | ~4,068 |
+| Folklorist | 6.00% | ~4,068 |
+| Keeper of Knowledge | 6.00% | ~4,068 |
 | Susanin | 5.00% | ~3,390 |
 | Traveller | 5.00% | ~3,390 |
 | Righteous | 4.00% | ~2,712 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,356 |
 | Word Master | 0.20% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 67,790 (Ranked 118)  
+Progressed: 67,793 (Ranked 118)  
 Completed: 75 (0.11%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -203,7 +203,7 @@ Completed: 75 (0.11%) (Ranked 312)
 | 2024-01-16 | 67,454 | 74 |
 | 2024-01-17 | 67,598 | 75 |
 | 2024-01-18 | 67,756 | 75 |
-| 2024-01-19 | 67,790 | 75 |
+| 2024-01-19 | 67,793 | 75 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

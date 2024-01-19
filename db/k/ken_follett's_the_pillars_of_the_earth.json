@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17940,
+  "EOS_Progressed": 17942,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18680,6 +18680,11 @@
       "Time": "2024-01-19T01:53:29.2232231+00:00",
       "NumProgressed": 17940,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-19T06:03:53.1727265+00:00",
+      "NumProgressed": 17942,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18699,7 +18704,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "tpote_achievement_11",
@@ -18707,7 +18712,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "tpote_achievement_12",
@@ -18755,7 +18760,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2870
+      "UsersEstimate": 2871
     },
     {
       "ID": "tpote_achievement_18",
@@ -18771,7 +18776,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "tpote_achievement_2",
@@ -18843,7 +18848,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "tpote_achievement_28",
@@ -18867,7 +18872,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5561
+      "UsersEstimate": 5562
     },
     {
       "ID": "tpote_achievement_30",
@@ -18883,7 +18888,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3229
+      "UsersEstimate": 3230
     },
     {
       "ID": "tpote_achievement_32",
@@ -18979,7 +18984,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "tpote_achievement_6",
@@ -18987,7 +18992,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4126
+      "UsersEstimate": 4127
     },
     {
       "ID": "tpote_achievement_7",
@@ -19003,7 +19008,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3767
+      "UsersEstimate": 3768
     },
     {
       "ID": "tpote_achievement_9",
@@ -19018,15 +19023,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17940,
+      "Progressed": 17942,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:03:58.6323302+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:03:53.1727263+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:03:15.5753723+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:03:58.6324397+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:03:08.8791447+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:03:53.172816+00:00"
 }

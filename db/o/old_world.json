@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -21270,9 +21270,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong Difficulty",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_ELEPHANTINE_ELEPHANT",
@@ -23356,8 +23356,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-19T05:03:01.2557251+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:10:34.2006442+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:10:31.2655093+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:03:01.2557254+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:10:34.201653+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:02:55.7049651+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:10:31.2664429+00:00"
 }

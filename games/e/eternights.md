@@ -18,7 +18,7 @@ Rating: 4.73 (Ranked 182)
 | Yuna's Promise | 26.00% | ~239 |
 | Stone Retriever | 26.00% | ~239 |
 | Find myself | 24.00% | ~220 |
-| Min's Promise | 17.00% | ~156 |
+| Min's Promise | 18.00% | ~165 |
 | Sia's Promise | 17.00% | ~156 |
 | Truebro | 17.00% | ~156 |
 | Romantic | 13.00% | ~119 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 361,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1611,7 +1611,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7194,
+  "EOS_Progressed": 7195,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
@@ -16976,6 +16976,11 @@
       "Time": "2024-01-19T05:03:51.2216849+00:00",
       "NumProgressed": 7194,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T06:03:45.7761095+00:00",
+      "NumProgressed": 7195,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17011,7 +17016,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -17027,7 +17032,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -17067,7 +17072,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -17083,7 +17088,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17099,7 +17104,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -17131,7 +17136,7 @@
       "Name": "For Science!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -17243,7 +17248,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17306,15 +17311,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7194,
+      "Progressed": 7195,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-17T10:01:51.1088644+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:03:51.2216848+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:03:45.7761093+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:02:56.7033743+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:03:51.2218603+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:02:51.5210413+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:03:45.7762246+00:00"
 }

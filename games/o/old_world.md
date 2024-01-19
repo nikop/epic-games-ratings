@@ -107,6 +107,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.80% | ~136 |
 | Invincible | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
+| Strong Difficulty | 0.70% | ~119 |
 | Hunters | 0.70% | ~119 |
 | Assyrian Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.60% | ~102 |
 | Devout | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
-| Strong Difficulty | 0.60% | ~102 |
 | Clerics | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Babylonia | 0.60% | ~102 |

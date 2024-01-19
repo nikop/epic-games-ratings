@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 58,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 59,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9117,9 +9117,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 761707,
+  "EOS_Progressed": 761713,
   "EOS_Completed": 12992,
-  "EOS_NewPlayers": 2038,
+  "EOS_NewPlayers": 2024,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34422,6 +34422,11 @@
       "Time": "2024-01-19T05:09:56.2874999+00:00",
       "NumProgressed": 761707,
       "NumCompleted": 12992
+    },
+    {
+      "Time": "2024-01-19T06:09:53.7692264+00:00",
+      "NumProgressed": 761713,
+      "NumCompleted": 12992
     }
   ],
   "TotalAchievements": 60,
@@ -34433,7 +34438,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45702
+      "UsersEstimate": 45703
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34441,7 +34446,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38085
+      "UsersEstimate": 38086
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34575,9 +34580,9 @@
       "ID": "19_Detective_H5",
       "SetID": "adcm20g",
       "Name": "Healing Memory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 1523
+      "UsersEstimate": 2285
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -34609,7 +34614,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38085
+      "UsersEstimate": 38086
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -34697,7 +34702,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38085
+      "UsersEstimate": 38086
     },
     {
       "ID": "35_WideStrike",
@@ -34912,21 +34917,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71008,
+      "Progressed": 71014,
       "Completed": 10814
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 761707,
+      "Progressed": 761713,
       "Completed": 12992
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-19T04:03:17.2982375+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:09:56.2874997+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:09:53.7692262+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:03:23.4404068+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:09:56.2876343+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:03:16.9904505+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:09:53.7693685+00:00"
 }

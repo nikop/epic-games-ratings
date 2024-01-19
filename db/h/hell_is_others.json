@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 367,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1525,7 +1525,7 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 260820,
+  "EOS_Progressed": 260822,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
@@ -27660,6 +27660,11 @@
       "Time": "2024-01-19T05:03:54.2200382+00:00",
       "NumProgressed": 260820,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T06:03:48.8418376+00:00",
+      "NumProgressed": 260822,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27671,7 +27676,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18257
+      "UsersEstimate": 18258
     },
     {
       "ID": "Act2",
@@ -27719,7 +27724,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80854
+      "UsersEstimate": 80855
     },
     {
       "ID": "BackHomeNTimes",
@@ -28118,7 +28123,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260820,
+      "Progressed": 260822,
       "Completed": 3
     }
   ],
@@ -28126,8 +28131,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-18T17:00:15.4326522+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:03:54.220038+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:03:48.8418374+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:59:20.0168429+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:03:54.2201639+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:59:28.4162161+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:03:48.841962+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3481,
+  "EOS_Progressed": 3482,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -6662,6 +6662,11 @@
       "Time": "2024-01-19T05:04:00.0748195+00:00",
       "NumProgressed": 3481,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-19T06:03:53.8933855+00:00",
+      "NumProgressed": 3482,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 53,
@@ -6697,7 +6702,7 @@
       "Name": "Whispers in the Woods II",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "STB_COLISSEUM_THIRD",
@@ -6737,7 +6742,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6849,7 +6854,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2611
+      "UsersEstimate": 2612
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6857,7 +6862,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6905,7 +6910,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6929,7 +6934,7 @@
       "Name": "Glyndemere",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "STB_MISSION5B_COMPLETED",
@@ -6937,7 +6942,7 @@
       "Name": "Capelworth",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -7017,7 +7022,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1218
+      "UsersEstimate": 1219
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -7033,7 +7038,7 @@
       "Name": "Quickmoore Headquarters",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_V",
@@ -7049,7 +7054,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2541
+      "UsersEstimate": 2542
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -7065,7 +7070,7 @@
       "Name": "Full equipped",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "STB_UNLOCK_ALL_ULTIMATES",
@@ -7081,7 +7086,7 @@
       "Name": "Ancient power",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1009
+      "UsersEstimate": 1010
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -7096,7 +7101,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3481,
+      "Progressed": 3482,
       "Completed": 33
     }
   ],
@@ -7104,8 +7109,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:04:00.0748192+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:03:53.8933853+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-19T04:59:09.0795132+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:04:00.0749058+00:00"
+  "LastUpdate_Ratings": "2024-01-19T05:59:18.2171224+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:03:53.8934436+00:00"
 }

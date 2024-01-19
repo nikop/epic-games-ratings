@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 374,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 506,
+  "EOS_Progressed": 507,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -906,6 +906,11 @@
       "Time": "2024-01-17T04:09:03.7877321+00:00",
       "NumProgressed": 506,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-19T06:09:03.4885682+00:00",
+      "NumProgressed": 507,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 46,
@@ -917,7 +922,7 @@
       "Name": "The Bracelet",
       "Percentage": 65,
       "XP": 50,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_010",
@@ -941,7 +946,7 @@
       "Name": "Well-acquainted",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_013",
@@ -949,15 +954,15 @@
       "Name": "Little Grey Cells",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 259
     },
     {
       "ID": "ACH_015",
@@ -997,15 +1002,15 @@
       "Name": "Fine-toothed Comb",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_02",
       "SetID": "72imik0",
       "Name": "The Blackmail",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_020",
@@ -1013,7 +1018,7 @@
       "Name": "Exquisite Artwork",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_021",
@@ -1021,15 +1026,15 @@
       "Name": "Well-read",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_022",
       "SetID": "72imik0",
       "Name": "Room with a View",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_023",
@@ -1067,9 +1072,9 @@
       "ID": "ACH_027",
       "SetID": "72imik0",
       "Name": "Well-prepared",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 111
+      "UsersEstimate": 106
     },
     {
       "ID": "ACH_028",
@@ -1077,7 +1082,7 @@
       "Name": "It Wasn\u2019t a Burglary",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 445
+      "UsersEstimate": 446
     },
     {
       "ID": "ACH_029",
@@ -1109,7 +1114,7 @@
       "Name": "Angeline Van den Bosch",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_032",
@@ -1125,7 +1130,7 @@
       "Name": "Cassandra Van den Bosch",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_034",
@@ -1141,7 +1146,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 350
     },
     {
       "ID": "ACH_036",
@@ -1157,7 +1162,7 @@
       "Name": "Florette Duval",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ACH_038",
@@ -1205,15 +1210,15 @@
       "Name": "Luc Piette",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH_043",
       "SetID": "72imik0",
       "Name": "Major Felix Hagen",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 273
+      "UsersEstimate": 269
     },
     {
       "ID": "ACH_044",
@@ -1235,9 +1240,9 @@
       "ID": "ACH_046",
       "SetID": "72imik0",
       "Name": "Zakariya Demir",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 207
+      "UsersEstimate": 203
     },
     {
       "ID": "ACH_05",
@@ -1253,7 +1258,7 @@
       "Name": "The Secret",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "ACH_07",
@@ -1284,7 +1289,7 @@
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 506,
+      "Progressed": 507,
       "Completed": 7
     }
   ],
@@ -1292,8 +1297,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:09:04.7174255+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:09:03.488568+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.8777109+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:03:23.9163819+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:09:04.7174671+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:03:17.3782458+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:09:03.4885992+00:00"
 }

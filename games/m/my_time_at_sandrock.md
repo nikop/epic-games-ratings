@@ -39,7 +39,7 @@ Number of Ratings: 892  (23.09.2022)
 | Commissions, commissions...! | 73.00% | ~662 |
 | Elementary, My Dear | 72.00% | ~653 |
 | Lifeline Pipeline | 68.00% | ~617 |
-| Sepia Toned Memories | 65.00% | ~590 |
+| Sepia Toned Memories | 66.00% | ~599 |
 | Martle's Dream | 63.00% | ~571 |
 | Anti-Santa | 63.00% | ~571 |
 | Who Ya Gonna Call...? | 62.00% | ~562 |

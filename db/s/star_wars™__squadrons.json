@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-squadrons",
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 59,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 58,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-10-02T04:00:00+00:00",
     "PcReleaseDate": "2020-10-02T04:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 42330,
+  "EOS_Progressed": 42337,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2036,
+  "EOS_NewPlayers": 2035,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -14394,6 +14394,11 @@
       "Time": "2024-01-19T05:10:25.7005168+00:00",
       "NumProgressed": 42330,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T06:10:22.7477635+00:00",
+      "NumProgressed": 42337,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-09-20T23:04:05.06979+00:00",
@@ -14406,7 +14411,7 @@
       "Name": "The Galaxy\u0027s Finest (Story Mode)",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 6350
+      "UsersEstimate": 6351
     },
     {
       "ID": "achievement_10",
@@ -14454,7 +14459,7 @@
       "Name": "Begin the Ceremony",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 8043
+      "UsersEstimate": 8044
     },
     {
       "ID": "achievement_16",
@@ -14510,7 +14515,7 @@
       "Name": "Sound Strategy",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "achievement_22",
@@ -14558,7 +14563,7 @@
       "Name": "Unkillable",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "achievement_28",
@@ -14614,7 +14619,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 7619
+      "UsersEstimate": 7621
     },
     {
       "ID": "achievement_34",
@@ -14630,7 +14635,7 @@
       "Name": "Fracture at Fostar Haven",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 40214
+      "UsersEstimate": 40220
     },
     {
       "ID": "achievement_36",
@@ -14638,7 +14643,7 @@
       "Name": "Together, Vanguard",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "achievement_37",
@@ -14662,7 +14667,7 @@
       "Name": "Safety in the Storm",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9736
+      "UsersEstimate": 9738
     },
     {
       "ID": "achievement_4",
@@ -14734,7 +14739,7 @@
       "Name": "Stomped",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2116
+      "UsersEstimate": 2117
     },
     {
       "ID": "achievement_5",
@@ -14750,7 +14755,7 @@
       "Name": "A Starfighter of Your Own",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 5503
+      "UsersEstimate": 5504
     },
     {
       "ID": "achievement_7",
@@ -14766,7 +14771,7 @@
       "Name": "A Better Idea",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 9736
+      "UsersEstimate": 9738
     },
     {
       "ID": "achievement_9",
@@ -14781,7 +14786,7 @@
     {
       "ID": "8ghcoph",
       "IsBase": true,
-      "Progressed": 42330,
+      "Progressed": 42337,
       "Completed": 3
     }
   ],
@@ -14789,8 +14794,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.5712385+00:00",
   "FirstSeenAchievements": "2023-07-27T23:05:06.959195+00:00",
   "LastChanged": "2023-03-31T05:57:34.5712386+00:00",
-  "LastChanged_Achievements": "2024-01-19T05:10:25.7005166+00:00",
+  "LastChanged_Achievements": "2024-01-19T06:10:22.7477633+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.3811703+00:00",
-  "LastUpdate_Ratings": "2024-01-19T05:03:32.0363412+00:00",
-  "LastUpdate_Achievements": "2024-01-19T05:10:25.700592+00:00"
+  "LastUpdate_Ratings": "2024-01-19T06:03:25.6365222+00:00",
+  "LastUpdate_Achievements": "2024-01-19T06:10:22.7478829+00:00"
 }

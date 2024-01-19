@@ -10,8 +10,8 @@ Rating: 4.53 (Ranked 567)
 | Enter the Speed Gauntlet | 25.00% | ~304 |
 | I just can't choose | 25.00% | ~304 |
 | A Cheese Grater to the Face | 19.00% | ~231 |
+| It's like an haircut | 18.00% | ~219 |
 | Put it on a shelf | 18.00% | ~219 |
-| It's like an haircut | 17.00% | ~207 |
 | Ride in the rising sun | 16.00% | ~194 |
 | Suit up | 16.00% | ~194 |
 | Walked like an Egyptian | 15.00% | ~182 |

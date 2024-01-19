@@ -5,17 +5,17 @@ Rating: 4.38 (Ranked 798)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It Wasn’t a Burglary | 88.00% | ~445 |
-| Luc Piette | 74.00% | ~374 |
-| Angeline Van den Bosch | 72.00% | ~364 |
-| Elizabeth Padget | 69.00% | ~349 |
-| Little Grey Cells | 67.00% | ~339 |
-| The Bracelet | 65.00% | ~329 |
-| The Blackmail | 54.00% | ~273 |
-| Florette Duval | 54.00% | ~273 |
-| Major Felix Hagen | 54.00% | ~273 |
-| Order and Method | 52.00% | ~263 |
-| Fine-toothed Comb | 52.00% | ~263 |
+| It Wasn’t a Burglary | 88.00% | ~446 |
+| Luc Piette | 74.00% | ~375 |
+| Angeline Van den Bosch | 72.00% | ~365 |
+| Elizabeth Padget | 69.00% | ~350 |
+| Little Grey Cells | 67.00% | ~340 |
+| The Bracelet | 65.00% | ~330 |
+| Florette Duval | 54.00% | ~274 |
+| The Blackmail | 53.00% | ~269 |
+| Major Felix Hagen | 53.00% | ~269 |
+| Fine-toothed Comb | 52.00% | ~264 |
+| Order and Method | 51.00% | ~259 |
 | The Altercation | 49.00% | ~248 |
 | Truth from Within | 47.00% | ~238 |
 | The Major | 46.00% | ~233 |
@@ -23,11 +23,11 @@ Rating: 4.38 (Ranked 798)
 | Curious and Beautiful | 43.00% | ~218 |
 | Jacqueline “Jackie” Conrad | 43.00% | ~218 |
 | The Interrogations | 43.00% | ~218 |
-| Well-acquainted | 41.00% | ~207 |
-| Zakariya Demir | 41.00% | ~207 |
-| Well-read | 39.00% | ~197 |
-| Cassandra Van den Bosch | 37.00% | ~187 |
-| The Secret | 37.00% | ~187 |
+| Well-acquainted | 41.00% | ~208 |
+| Zakariya Demir | 40.00% | ~203 |
+| Well-read | 39.00% | ~198 |
+| Cassandra Van den Bosch | 37.00% | ~188 |
+| The Secret | 37.00% | ~188 |
 | Gedeon Demir | 35.00% | ~177 |
 | Rehana Piette | 34.00% | ~172 |
 | Instinct is Marvellous | 33.00% | ~167 |
@@ -40,8 +40,8 @@ Rating: 4.38 (Ranked 798)
 | Thinking of Everything | 27.00% | ~137 |
 | Archibald Sterling | 26.00% | ~132 |
 | Viscount Edwin Van den Bosch | 26.00% | ~132 |
-| Exquisite Artwork | 25.00% | ~126 |
-| Well-prepared | 22.00% | ~111 |
+| Exquisite Artwork | 25.00% | ~127 |
+| Well-prepared | 21.00% | ~106 |
 | The Truth | 21.00% | ~106 |
 | What Else Did I Miss? | 19.00% | ~96 |
 | I Like an Audience | 19.00% | ~96 |
@@ -49,10 +49,10 @@ Rating: 4.38 (Ranked 798)
 | Sunken Secrets | 18.00% | ~91 |
 | Probably the Greatest Detective in the World | 13.00% | ~66 |
 | Take a Break | 11.00% | ~56 |
-| Room with a View | 8.00% | ~40 |
+| Room with a View | 7.00% | ~35 |
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 506 (Ranked 359)  
+Progressed: 507 (Ranked 359)  
 Completed: 7 (1.38%) (Ranked 157)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -162,6 +162,7 @@ Completed: 7 (1.38%) (Ranked 157)
 | 2024-01-14 | 504 | 7 |
 | 2024-01-15 | 505 | 7 |
 | 2024-01-17 | 506 | 7 |
+| 2024-01-19 | 507 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

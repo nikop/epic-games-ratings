@@ -32,7 +32,7 @@
 | Anastasia Babanin | 30.00% | ~35 |
 | The Scheme | 30.00% | ~35 |
 | Zakariya Demir | 29.00% | ~34 |
-| Truth from within | 26.00% | ~31 |
+| Truth from within | 27.00% | ~32 |
 | A curious phrase | 24.00% | ~28 |
 | Evelyn Lakshmi Warbeck | 24.00% | ~28 |
 | The Suspects | 24.00% | ~28 |
