@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 36,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14521,11 +14521,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 65191,
       "NumberOfAwardsMax": 7890
+    },
+    {
+      "Time": "2024-01-19T21:59:02.8351866+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65212,
+      "NumberOfAwardsMax": 7911
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65191,
-  "NumberOfAwardsMax": 7890,
+  "NumberOfAwards": 65212,
+  "NumberOfAwardsMax": 7911,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -14556,7 +14562,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7890
+      "Count": 7911
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14595,10 +14601,10 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 501891,
-  "EOS_Completed": 1,
-  "EOS_NewPlayers": 4385,
-  "EOS_NewCompleters": 0,
+  "EOS_Progressed": 501921,
+  "EOS_Completed": 2,
+  "EOS_NewPlayers": 4384,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
@@ -46290,6 +46296,11 @@
       "Time": "2024-01-19T21:11:24.608013+00:00",
       "NumProgressed": 501891,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T22:10:33.0414416+00:00",
+      "NumProgressed": 501921,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47301,7 +47312,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "achievement_grand_coalition",
@@ -48581,7 +48592,7 @@
       "Name": "That is mine!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -48997,7 +49008,7 @@
       "Name": "Victorious!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3011
+      "UsersEstimate": 3012
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -49204,21 +49215,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 501891,
-      "Completed": 1
+      "Progressed": 501921,
+      "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 501891,
+      "Progressed": 501921,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-19T18:58:39.9500958+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:11:24.6080128+00:00",
+  "LastChanged": "2024-01-19T21:59:02.8351864+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:10:33.0414412+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:59:37.925213+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:11:24.6091816+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:59:02.835187+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:10:33.0424228+00:00"
 }

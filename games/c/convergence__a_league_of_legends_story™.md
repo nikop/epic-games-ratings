@@ -11,22 +11,22 @@ Rating: 4.66 (Ranked 305)
 | Immaculate Aim | 30.00% | ~403 |
 | The Brass Boss | 29.00% | ~389 |
 | Time Flies | 28.00% | ~376 |
-| Make Up For Lost Time | 27.00% | ~362 |
-| No, Thanks! | 27.00% | ~362 |
-| The Prince in Heels | 27.00% | ~362 |
-| Honest Mistake | 27.00% | ~362 |
-| Immaculate Aim | 27.00% | ~362 |
+| Make Up For Lost Time | 27.00% | ~363 |
+| No, Thanks! | 27.00% | ~363 |
+| The Prince in Heels | 27.00% | ~363 |
+| Honest Mistake | 27.00% | ~363 |
+| Immaculate Aim | 27.00% | ~363 |
 | The Harder They Fall | 26.00% | ~349 |
 | Fast Learner | 26.00% | ~349 |
 | The Steel Shadow | 25.00% | ~336 |
 | Breaking Down Barriers | 24.00% | ~322 |
 | The Wicked Twins | 24.00% | ~322 |
 | Right On Time | 23.00% | ~309 |
-| Like Clockwork | 23.00% | ~309 |
 | Golem Chaser | 23.00% | ~309 |
+| Like Clockwork | 22.00% | ~295 |
 | The Betrayer | 22.00% | ~295 |
 | Check Your Pulse | 21.00% | ~282 |
-| The Loose Cannon | 20.00% | ~268 |
+| The Loose Cannon | 20.00% | ~269 |
 | Street Style | 19.00% | ~255 |
 | The Man Who Shattered Time | 19.00% | ~255 |
 | The Family Fortune | 19.00% | ~255 |
@@ -34,8 +34,8 @@ Rating: 4.66 (Ranked 305)
 | Good Neighbor | 16.00% | ~215 |
 | Family Memories | 14.00% | ~188 |
 | Ask Questions Later | 14.00% | ~188 |
-| Chaincrawler Explorer | 13.00% | ~174 |
-| Syron for Hope | 13.00% | ~174 |
+| Chaincrawler Explorer | 13.00% | ~175 |
+| Syron for Hope | 13.00% | ~175 |
 | Treasure Trove | 12.00% | ~161 |
 | Cartographer | 12.00% | ~161 |
 | Sump Explorer | 12.00% | ~161 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 305)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,342 (Ranked 282)  
+Progressed: 1,343 (Ranked 282)  
 Completed: 8 (0.60%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,7 +239,7 @@ Completed: 8 (0.60%) (Ranked 215)
 | 2024-01-16 | 1,333 | 8 |
 | 2024-01-17 | 1,335 | 8 |
 | 2024-01-18 | 1,339 | 8 |
-| 2024-01-19 | 1,342 | 8 |
+| 2024-01-19 | 1,343 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -61,14 +61,14 @@ Rating: 4.74 (Ranked 167)
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~140 |
 | Mirror, Mirror | 18.00% | ~140 |
 | Untouchable | 18.00% | ~140 |
+| Laser Eyes Are So Useless | 15.00% | ~117 |
 | Hands Off My Stones | 15.00% | ~117 |
-| Laser Eyes Are So Useless | 14.00% | ~109 |
 | Gorgu is in the Best of Health | 13.00% | ~101 |
 | No Mana, No Cry | 11.00% | ~85 |
 | I Don't Need Any Help | 11.00% | ~85 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 777 (Ranked 321)  
-Completed: 34 (4.38%) (Ranked 85)  
+Progressed: 777 (Ranked 322)  
+Completed: 34 (4.38%) (Ranked 86)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

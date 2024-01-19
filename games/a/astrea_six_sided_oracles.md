@@ -18,8 +18,8 @@
 | Anomaly Destroyer | 33.00% | ~129 |
 | Star Killer | 31.00% | ~121 |
 | Eridanian Champion | 27.00% | ~106 |
+| Loyal Partner | 23.00% | ~90 |
 | Lacertian Champion | 23.00% | ~90 |
-| Loyal Partner | 22.00% | ~86 |
 | Apian Champion | 20.00% | ~78 |
 | Shard Spender | 18.00% | ~70 |
 | Unbeatable | 18.00% | ~70 |

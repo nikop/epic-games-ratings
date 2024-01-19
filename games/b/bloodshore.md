@@ -11,10 +11,10 @@
 | A leader, you are not | 33.00% | ~96 |
 | Comedy Killer | 32.00% | ~93 |
 | Good job, nerd | 32.00% | ~93 |
-| Mission Complete | 31.00% | ~91 |
+| Mission Complete | 32.00% | ~93 |
 | This won't end well... | 31.00% | ~91 |
 | Bromance | 29.00% | ~85 |
-| Lootaphilia | 21.00% | ~61 |
+| Lootaphilia | 22.00% | ~64 |
 | Maybe you should give it another go | 10.00% | ~29 |
 | Mikey Lizard | 7.00% | ~20 |
 | I used to think I was indecisive... | 6.00% | ~18 |

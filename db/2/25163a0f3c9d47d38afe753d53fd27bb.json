@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 58,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1807,
+  "EOS_Progressed": 1808,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.19,
   "EosHistory": [
@@ -4604,6 +4604,11 @@
       "Time": "2024-01-19T21:11:07.3522787+00:00",
       "NumProgressed": 1807,
       "NumCompleted": 130
+    },
+    {
+      "Time": "2024-01-19T22:10:18.2370562+00:00",
+      "NumProgressed": 1808,
+      "NumCompleted": 130
     }
   ],
   "TotalAchievements": 30,
@@ -4615,7 +4620,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1717
+      "UsersEstimate": 1718
     },
     {
       "ID": "LEVEL_002",
@@ -4663,7 +4668,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "LEVEL_008",
@@ -4703,7 +4708,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "LEVEL_013",
@@ -4815,7 +4820,7 @@
       "Name": "Hiking, camping, picnics... you choose",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "LEVEL_027",
@@ -4823,7 +4828,7 @@
       "Name": "A farm island lost in time...",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "LEVEL_028",
@@ -4831,7 +4836,7 @@
       "Name": "What is the country?",
       "Percentage": 7,
       "XP": 55,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "LEVEL_029",
@@ -4854,14 +4859,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1807,
+      "Progressed": 1808,
       "Completed": 130
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:11:07.3522784+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:10:18.2370559+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:58:10.390168+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:11:07.3523105+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:57:56.9860005+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:10:18.2370968+00:00"
 }

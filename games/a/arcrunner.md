@@ -30,8 +30,8 @@
 | Trickshot | 2.00% | ~19 |
 | Hard Boiled | 0.70% | ~7 |
 | Ripperdoc | 0.50% | ~5 |
+| Cyborg | 0.30% | ~3 |
 | Weaponsmith | 0.30% | ~3 |
-| Cyborg | 0.20% | ~2 |
 | Hell Raiser | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 963 (Ranked 306)  

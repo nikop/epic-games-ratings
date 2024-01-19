@@ -5,19 +5,19 @@ Rating: 4.78 (Ranked 113)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,314 |
-| No more cages! | 90.00% | ~3,139 |
-| Everfrost | 76.00% | ~2,651 |
-| Dark Forest | 76.00% | ~2,651 |
-| Pentakill | 75.00% | ~2,616 |
-| The use of petricite | 73.00% | ~2,546 |
+| For Demacia | 95.00% | ~3,315 |
+| No more cages! | 90.00% | ~3,140 |
+| Everfrost | 76.00% | ~2,652 |
+| Dark Forest | 76.00% | ~2,652 |
+| Pentakill | 75.00% | ~2,617 |
+| The use of petricite | 73.00% | ~2,547 |
 | You can pet the dog | 60.00% | ~2,093 |
 | Thornbarrow | 44.00% | ~1,535 |
 | Big Helmet Bro | 42.00% | ~1,465 |
 | Clarion Cove | 41.00% | ~1,430 |
-| Ternmoat Headquarters | 39.00% | ~1,360 |
-| Elemental master | 38.00% | ~1,325 |
-| Past trauma | 38.00% | ~1,325 |
+| Ternmoat Headquarters | 39.00% | ~1,361 |
+| Elemental master | 38.00% | ~1,326 |
+| Past trauma | 38.00% | ~1,326 |
 | Cypress Glen Headquarters | 35.00% | ~1,221 |
 | Petricite Burst | 34.00% | ~1,186 |
 | Old friend | 33.00% | ~1,151 |
@@ -50,8 +50,8 @@ Rating: 4.78 (Ranked 113)
 | Whispers in the Woods IV | 14.00% | ~488 |
 | The end of the experiments | 14.00% | ~488 |
 | Truth is a dark mirror | 14.00% | ~488 |
-| Do you trust me? | 13.00% | ~453 |
-| Back to sleep, then... | 13.00% | ~453 |
+| Do you trust me? | 13.00% | ~454 |
+| Back to sleep, then... | 13.00% | ~454 |
 | The great mage rebellion starts now | 12.00% | ~419 |
 | Chains master | 11.00% | ~384 |
 | You can pet the... horse | 11.00% | ~384 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 113)
 | Silverwing nest | 3.00% | ~105 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,488 (Ranked 230)  
+Progressed: 3,489 (Ranked 230)  
 Completed: 33 (0.95%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 33 (0.95%) (Ranked 184)
 | 2024-01-16 | 3,470 | 30 |
 | 2024-01-17 | 3,474 | 30 |
 | 2024-01-18 | 3,480 | 33 |
-| 2024-01-19 | 3,488 | 33 |
+| 2024-01-19 | 3,489 | 33 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

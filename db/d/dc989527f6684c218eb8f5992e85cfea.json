@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15714,
+  "EOS_Progressed": 15726,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 218,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19486,6 +19486,11 @@
       "Time": "2024-01-19T21:06:00.7808676+00:00",
       "NumProgressed": 15714,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T22:05:08.2066785+00:00",
+      "NumProgressed": 15726,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19497,7 +19502,7 @@
       "Name": "Self Portrait",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 1886
+      "UsersEstimate": 1887
     },
     {
       "ID": "ACH_COLOR_AVERAGE_AT_LEAST_6_AFTER_25_GAMES",
@@ -19569,7 +19574,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6914
+      "UsersEstimate": 6919
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -19585,7 +19590,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2831
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -19665,7 +19670,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3143
+      "UsersEstimate": 3145
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -19681,7 +19686,7 @@
       "Name": "First Prize!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_WIN_A_GAME_SCRIBBLE_IT",
@@ -19689,14 +19694,14 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2829
+      "UsersEstimate": 2831
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15714,
+      "Progressed": 15726,
       "Completed": 0
     }
   ],
@@ -19704,8 +19709,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:06:00.7808671+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:05:08.2066781+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.4408266+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:03:08.3241064+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:06:00.780985+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:01:16.2675804+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:05:08.2067799+00:00"
 }

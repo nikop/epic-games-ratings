@@ -6,8 +6,8 @@ Number of Ratings: 15,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Steps | 2.00% | ~4,864 |
-| Uncharted Territory | 2.00% | ~4,864 |
+| First Steps | 2.00% | ~4,865 |
+| Uncharted Territory | 2.00% | ~4,865 |
 | Matching | 2.00% | ~94 |
 | Nothing To Lose | 1.00% | ~2,432 |
 | Heavy Hitter | 1.00% | ~2,432 |
@@ -102,6 +102,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Trail Of Death | 0.20% | ~486 |
 | The Boulder | 0.20% | ~486 |
 | Overthrown | 0.20% | ~486 |
+| Illuminate, Annihilate | 0.20% | ~486 |
 | No Mercy | 0.20% | ~486 |
 | Just Looking Around | 0.20% | ~486 |
 | Champion of the Day | 0.20% | ~486 |
@@ -118,7 +119,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Poor Choices | 0.10% | ~243 |
 | Not What I Meant | 0.10% | ~243 |
 | A Rock And A Hard Place | 0.10% | ~243 |
-| Illuminate, Annihilate | 0.10% | ~243 |
 | Never Too Many Hats | 0.10% | ~243 |
 | Master of Strategy | 0.10% | ~243 |
 | Good Boys | 0.10% | ~243 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,224 (Ranked 75)  
+Progressed: 243,226 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 309 (0.13%) (Ranked 306)
 | 2024-01-16 | 243,080 | 307 |
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
-| 2024-01-19 | 243,224 | 309 |
+| 2024-01-19 | 243,226 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  

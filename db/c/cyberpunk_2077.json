@@ -18746,9 +18746,9 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1055157,
+  "EOS_Progressed": 1055178,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6912,
+  "EOS_NewPlayers": 6880,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50186,6 +50186,11 @@
       "Time": "2024-01-19T21:09:37.9018291+00:00",
       "NumProgressed": 1055157,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-19T22:09:07.7884858+00:00",
+      "NumProgressed": 1055178,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50214,7 +50219,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "Cyberjunkie",
@@ -50270,7 +50275,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "Gunslinger",
@@ -50286,7 +50291,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "IAmMaxTac",
@@ -50318,7 +50323,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "MaxPain",
@@ -50366,7 +50371,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "Roleplayer",
@@ -50374,7 +50379,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "Specialist",
@@ -50414,7 +50419,7 @@
       "Name": "The Fool",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "TheHermit",
@@ -50438,7 +50443,7 @@
       "Name": "The Lovers",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "TheStar",
@@ -50470,7 +50475,7 @@
       "Name": "The World",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "ThisIsPacifica",
@@ -50516,9 +50521,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2110
+      "UsersEstimate": 3166
     },
     {
       "ID": "VForVendetta",
@@ -50542,7 +50547,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "All the President\u0027s Men",
@@ -50733,21 +50738,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055157,
+      "Progressed": 1055178,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183780,
+      "Progressed": 183801,
       "Completed": 10662
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-19T21:03:46.8709827+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:09:37.9018286+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:09:07.7884855+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:03:46.8709832+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:09:37.9020109+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:03:25.2320796+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:09:07.7886509+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1360,
+  "EOS_Progressed": 1361,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -3999,6 +3999,11 @@
       "Time": "2024-01-19T12:10:25.9261355+00:00",
       "NumProgressed": 1360,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-19T22:10:14.5417851+00:00",
+      "NumProgressed": 1361,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -4011,15 +4016,15 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 830
     },
     {
       "ID": "BoxingClever",
@@ -4035,7 +4040,7 @@
       "Name": "Cartographer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "Causality",
@@ -4083,7 +4088,7 @@
       "Name": "Everything is Dust",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "LightsOut",
@@ -4107,7 +4112,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "Outpatient",
@@ -4123,7 +4128,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "SkeletonCrew",
@@ -4163,21 +4168,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1360,
+      "Progressed": 1361,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:11:02.8185513+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:10:14.5417849+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.0988435+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:02:08.8294336+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:11:02.8185899+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:00:54.5966747+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:10:14.5418191+00:00"
 }

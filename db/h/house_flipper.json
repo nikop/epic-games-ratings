@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 210,
   "Ranking_EOS_Progress": 154,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2325,7 +2325,7 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22186,
+  "EOS_Progressed": 22187,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -13580,6 +13580,11 @@
       "Time": "2024-01-19T19:05:17.3844433+00:00",
       "NumProgressed": 22186,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-19T22:05:47.3989788+00:00",
+      "NumProgressed": 22187,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13639,7 +13644,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21077
+      "UsersEstimate": 21078
     },
     {
       "ID": "GameOver",
@@ -13743,7 +13748,7 @@
       "Name": "Pro-creative",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 4215
+      "UsersEstimate": 4216
     },
     {
       "ID": "Strongman",
@@ -13774,15 +13779,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22186,
+      "Progressed": 22187,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-19T13:06:13.2656124+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:06:51.3324698+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:05:47.3989784+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.8721647+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:01:22.1656484+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:06:51.3325234+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:00:19.1270284+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:05:47.3990621+00:00"
 }

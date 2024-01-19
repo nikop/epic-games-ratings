@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 72,
   "Ranking_EOS_NewPlayers": 552,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-16T16:00:00+00:00",
     "PcReleaseDate": "2015-04-09T16:00:00+00:00",
@@ -947,9 +947,9 @@
       "ID": "Level_completed_007_006",
       "SetID": "6od1ndi",
       "Name": "Onk Boga VII",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 35,
-      "UsersEstimate": 109
+      "UsersEstimate": 112
     },
     {
       "ID": "Level_completed_008_005",
@@ -1020,8 +1020,8 @@
   "FirstSeenRating": "2023-03-31T05:58:24.8540327+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:26.5588515+00:00",
   "LastChanged": "2023-03-31T05:58:24.8540328+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:10:44.3242392+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:10:00.1118518+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.3395176+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:03:41.354379+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:10:44.3242526+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:03:21.1460386+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:10:00.1118781+00:00"
 }

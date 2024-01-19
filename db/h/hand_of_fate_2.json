@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667624,
+  "EOS_Progressed": 667628,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -27147,6 +27147,11 @@
       "Time": "2024-01-19T21:10:34.4146673+00:00",
       "NumProgressed": 667624,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-19T22:09:52.2963042+00:00",
+      "NumProgressed": 667628,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27158,7 +27163,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480689
+      "UsersEstimate": 480692
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27166,7 +27171,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387222
+      "UsersEstimate": 387224
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -27182,7 +27187,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40057
+      "UsersEstimate": 40058
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -27214,7 +27219,7 @@
       "Name": "Card Sharp",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 13352
+      "UsersEstimate": 13353
     },
     {
       "ID": "Achievement_09_Gambler",
@@ -27222,7 +27227,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66762
+      "UsersEstimate": 66763
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -27254,7 +27259,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66762
+      "UsersEstimate": 66763
     },
     {
       "ID": "Achievement_14_Magician",
@@ -27262,7 +27267,7 @@
       "Name": "Magician",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 13352
+      "UsersEstimate": 13353
     },
     {
       "ID": "Achievement_15_Hero",
@@ -27302,7 +27307,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93467
+      "UsersEstimate": 93468
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -27310,7 +27315,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113496
+      "UsersEstimate": 113497
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -27318,7 +27323,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40057
+      "UsersEstimate": 40058
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -27422,7 +27427,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166906
+      "UsersEstimate": 166907
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -27438,7 +27443,7 @@
       "Name": "Swordsman",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 60086
+      "UsersEstimate": 60087
     },
     {
       "ID": "Achievement_37_Champion",
@@ -27478,7 +27483,7 @@
       "Name": "Draknar\u0027s Bane",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 13352
+      "UsersEstimate": 13353
     },
     {
       "ID": "Achievement_42_Thomas_Bane",
@@ -27518,7 +27523,7 @@
       "Name": "Pilgrim",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "Achievement_47_Smiths_Honour",
@@ -27526,7 +27531,7 @@
       "Name": "Smiths Honour",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "Achievement_48_Blood_Pact",
@@ -27541,15 +27546,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667624,
+      "Progressed": 667628,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:10:34.414667+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:09:52.2963039+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.071591+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:59:38.3167256+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:10:34.4148131+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:59:03.1138363+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:09:52.2964866+00:00"
 }

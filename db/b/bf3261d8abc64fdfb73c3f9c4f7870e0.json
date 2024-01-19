@@ -4,8 +4,8 @@
   "ProductSlug": "ash-of-gods-redemption-e0b97d",
   "Ranking_EOS_Progress": 474,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 370,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-11T09:00:00+00:00",
     "PcReleaseDate": "2018-03-22T23:00:00+00:00",
@@ -953,17 +953,17 @@
       "ID": "achievement_not_energetic",
       "SetID": "bngbnfb",
       "Name": "Not energetic",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_not_risky",
       "SetID": "bngbnfb",
       "Name": "Not a daredevil",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "achievement_rush",
@@ -1096,8 +1096,8 @@
   ],
   "FirstSeen": "2023-10-20T21:02:41.8286211+00:00",
   "FirstSeenAchievements": "2023-10-11T10:03:42.0552864+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:10:29.1239311+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:09:48.0907544+00:00",
   "LastUpdate_AppInfo": "2024-01-17T15:57:31.0618274+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:58:48.8200586+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:10:29.1239628+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:58:27.4495769+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:09:48.0907936+00:00"
 }

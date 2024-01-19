@@ -6,9 +6,9 @@
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 175,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -721,11 +721,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12443,
-  "EOS_Completed": 93,
-  "EOS_NewPlayers": 185,
-  "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 0.75,
+  "EOS_Progressed": 12444,
+  "EOS_Completed": 94,
+  "EOS_NewPlayers": 186,
+  "EOS_NewCompleters": 5,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -16161,6 +16161,11 @@
       "Time": "2024-01-19T21:05:50.3875079+00:00",
       "NumProgressed": 12443,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-19T22:05:00.0191011+00:00",
+      "NumProgressed": 12444,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 29,
@@ -16172,7 +16177,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10328
+      "UsersEstimate": 10329
     },
     {
       "ID": "ACH02",
@@ -16244,7 +16249,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3608
+      "UsersEstimate": 3609
     },
     {
       "ID": "ACH11",
@@ -16300,7 +16305,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1866
+      "UsersEstimate": 1867
     },
     {
       "ID": "ACH18",
@@ -16394,25 +16399,25 @@
       "ID": "ACH29",
       "SetID": "552d41m",
       "Name": "King of Liberty City",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 87
+      "UsersEstimate": 100
     }
   ],
   "AchievementSets": [
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12443,
-      "Completed": 93
+      "Progressed": 12444,
+      "Completed": 94
     }
   ],
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:05:50.3875075+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:05:00.0191006+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:00:09.9963528+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:05:50.3876397+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:59:28.0569153+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:05:00.0191943+00:00"
 }

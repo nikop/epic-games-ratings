@@ -2,10 +2,10 @@
   "ID": "c5730ad3d7004a65a472a7699b88008a",
   "Name": "Foretales",
   "ProductSlug": "foretales-d6c5bd",
-  "Ranking_EOS_Progress": 408,
+  "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 432,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -295,6 +295,11 @@
       "Time": "2024-01-15T13:09:25.2638946+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T22:06:13.4239915+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -330,15 +335,15 @@
       "Name": "Isenburg\u0027s fall",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 147
+      "UsersEstimate": 148
     },
     {
       "ID": "chapter2",
       "SetID": "5bkacmp",
       "Name": "Aboard the Sea Bird",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "chapter3",
@@ -346,7 +351,7 @@
       "Name": "Is this the end?",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "darkAndStinky",
@@ -354,7 +359,7 @@
       "Name": "Dark and stinky",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "darkVolepain",
@@ -506,7 +511,7 @@
       "Name": "Sneak in, sneak out",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "stronk",
@@ -570,7 +575,7 @@
       "Name": "A gift horse",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "thePirate",
@@ -578,15 +583,15 @@
       "Name": "Pieces of eight!",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "thePolitician",
       "SetID": "5bkacmp",
       "Name": "Elephant in the room",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 94
     },
     {
       "ID": "theRanger",
@@ -633,7 +638,7 @@
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 0
     }
   ],
@@ -641,8 +646,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:07:24.7750837+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:06:13.4239913+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.1478942+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:00:06.4126803+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:07:24.7751118+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:59:25.4913878+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:06:13.4240165+00:00"
 }

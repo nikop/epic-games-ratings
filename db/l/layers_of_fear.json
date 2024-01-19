@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 392,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 336,
+  "EOS_Progressed": 337,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1499,6 +1499,11 @@
       "Time": "2024-01-19T17:09:30.9291248+00:00",
       "NumProgressed": 336,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T22:09:15.8769356+00:00",
+      "NumProgressed": 337,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1517,9 +1522,9 @@
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 44
+      "UsersEstimate": 40
     },
     {
       "ID": "assemble_puzzles",
@@ -1533,9 +1538,9 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 30
     },
     {
       "ID": "casting_finished",
@@ -1661,9 +1666,9 @@
       "ID": "find_one_memento",
       "SetID": "f2im8d",
       "Name": "Scraps of love",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 179
     },
     {
       "ID": "find_one_photo",
@@ -1687,7 +1692,7 @@
       "Name": "The artist\u2019s impression",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "finished_it",
@@ -1701,9 +1706,9 @@
       "ID": "first_step",
       "SetID": "f2im8d",
       "Name": "First steps",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 37
     },
     {
       "ID": "hear_most_of_interviews",
@@ -1719,7 +1724,7 @@
       "Name": "Sound Bite",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "heavy_burden",
@@ -1839,7 +1844,7 @@
       "Name": "Sign of weakness",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "something_important",
@@ -1847,7 +1852,7 @@
       "Name": "Something important",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "spy_one_item",
@@ -1919,21 +1924,21 @@
       "Name": "Whispers long forgotten",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 336,
+      "Progressed": 337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:09:48.5051125+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:09:15.8769353+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:01:18.5686428+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:09:48.5051646+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:00:16.8192661+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:09:15.876974+00:00"
 }

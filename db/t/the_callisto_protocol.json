@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2315,9 +2315,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22568,
+  "EOS_Progressed": 22569,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 344,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14440,6 +14440,11 @@
       "Time": "2024-01-19T21:10:49.3075193+00:00",
       "NumProgressed": 22568,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-19T22:10:04.0311236+00:00",
+      "NumProgressed": 22569,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14467,7 +14472,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14483,7 +14488,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6093
+      "UsersEstimate": 6094
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14585,9 +14590,9 @@
       "ID": "KILL_ROBOT",
       "SetID": "4hj6d86",
       "Name": "Terminated",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2708
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14627,7 +14632,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5416
+      "UsersEstimate": 5417
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14675,7 +14680,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14699,7 +14704,7 @@
       "Name": "Full Circle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2482
+      "UsersEstimate": 2483
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14826,13 +14831,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22568,
+      "Progressed": 22569,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10494,
+      "Progressed": 10495,
       "Completed": 29
     }
   ],
@@ -14840,8 +14845,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-19T17:03:48.3111876+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:10:49.3075189+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:10:04.0311232+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:03:58.5655805+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:10:49.3076074+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:03:33.4559181+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:10:04.0312049+00:00"
 }

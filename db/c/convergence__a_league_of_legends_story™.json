@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1342,
+  "EOS_Progressed": 1343,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4116,6 +4116,11 @@
       "Time": "2024-01-19T18:10:10.9250628+00:00",
       "NumProgressed": 1342,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T22:10:28.7888837+00:00",
+      "NumProgressed": 1343,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4143,7 +4148,7 @@
       "Name": "Chaincrawler Explorer",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "ChestCompletion1",
@@ -4173,9 +4178,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 295
     },
     {
       "ID": "ClovemaryGift",
@@ -4311,7 +4316,7 @@
       "Name": "The Loose Cannon",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "LacunaCompleted",
@@ -4319,7 +4324,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "MapCompletion1",
@@ -4383,7 +4388,7 @@
       "Name": "No, Thanks!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4407,7 +4412,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "RewindDamage1",
@@ -4423,7 +4428,7 @@
       "Name": "Honest Mistake",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4479,7 +4484,7 @@
       "Name": "Syron for Hope",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4511,7 +4516,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "WatcherFought",
@@ -4550,7 +4555,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1342,
+      "Progressed": 1343,
       "Completed": 8
     }
   ],
@@ -4558,8 +4563,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:11:19.8074697+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:10:28.7888835+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:58:13.6395983+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:11:19.807512+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:57:59.5687982+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:10:28.7889283+00:00"
 }

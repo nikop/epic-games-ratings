@@ -7,9 +7,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Until death do us apart | 0.70% | ~3,513 |
-| That's a Grand Army | 0.60% | ~3,011 |
-| That is mine! | 0.60% | ~3,011 |
-| Victorious! | 0.60% | ~3,011 |
+| That's a Grand Army | 0.60% | ~3,012 |
+| That is mine! | 0.60% | ~3,012 |
+| Victorious! | 0.60% | ~3,012 |
 | Brothers in Arms | 0.40% | ~2,008 |
 | That's a Grand Navy | 0.40% | ~2,008 |
 | Seriously?! | 0.40% | ~2,008 |
@@ -370,8 +370,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~502 |
 | The Zoro-Austrians | 0.10% | ~502 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,891 (Ranked 42)  
-Completed: 1 (0.00%) (Ranked 406)  
+Progressed: 501,921 (Ranked 42)  
+Completed: 2 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -644,14 +644,14 @@ Completed: 1 (0.00%) (Ranked 406)
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
 | 2024-01-18 | 501,312 | 1 |
-| 2024-01-19 | 501,891 | 1 |
+| 2024-01-19 | 501,921 | 2 |
 ## Awards
-Max (Educational): 7,890  (Ranked 53)  
-Sum: 65,191 (Ranked 24)  
+Max (Educational): 7,911  (Ranked 53)  
+Sum: 65,212 (Ranked 24)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Educational | 7,890 |
+| This game is Educational | 7,911 |
 | This game has Diverse Characters | 7,763 |
 | This game is Highly Recommended | 7,583 |
 | This game has Challenging Combat | 7,533 |
@@ -1031,4 +1031,4 @@ Diff (max vs sum): 29
 | 2024-01-16 | 4.69 | - | 7,857 | 64,813 |
 | 2024-01-17 | 4.69 | - | 7,871 | 64,924 |
 | 2024-01-18 | 4.69 | - | 7,890 | 65,057 |
-| 2024-01-19 | 4.69 | - | 7,890 | 65,191 |
+| 2024-01-19 | 4.69 | - | 7,911 | 65,212 |

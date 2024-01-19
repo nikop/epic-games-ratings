@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,155 |
-| Space Colonization | 78.00% | ~938 |
-| Friendzone | 77.00% | ~926 |
-| Hello World | 72.00% | ~866 |
-| Space Engineer | 61.00% | ~734 |
-| Tinkerer | 60.00% | ~722 |
-| Dust to Dust | 56.00% | ~674 |
-| Across The Stars | 45.00% | ~541 |
-| Crafty | 42.00% | ~505 |
-| All Seats Taken | 34.00% | ~409 |
-| For Science! | 31.00% | ~373 |
-| Meet the Petersons | 30.00% | ~361 |
-| KIA | 26.00% | ~313 |
-| Stay Cool | 26.00% | ~313 |
-| Mutiny in making | 22.00% | ~265 |
-| Eco-Shuttle | 17.00% | ~205 |
-| Et tu, Astrocitizen? | 17.00% | ~205 |
-| Space Explorer | 14.00% | ~168 |
-| Gold Medalist | 11.00% | ~132 |
-| Hands Full | 11.00% | ~132 |
-| Non-Fiction | 10.00% | ~120 |
-| No Man Left Behind | 8.00% | ~96 |
-| Intergalactic Breakup | 7.00% | ~84 |
-| Second Life | 7.00% | ~84 |
-| First of April | 6.00% | ~72 |
-| Fix-It Felix | 6.00% | ~72 |
-| Axel jump in space! | 5.00% | ~60 |
-| Flawless Maegangement | 5.00% | ~60 |
-| Extreme Makeover | 4.00% | ~48 |
+| Don't Panic! | 96.00% | ~1,164 |
+| Space Colonization | 78.00% | ~946 |
+| Friendzone | 76.00% | ~922 |
+| Hello World | 72.00% | ~873 |
+| Space Engineer | 60.00% | ~728 |
+| Tinkerer | 60.00% | ~728 |
+| Dust to Dust | 56.00% | ~679 |
+| Across The Stars | 45.00% | ~546 |
+| Crafty | 42.00% | ~509 |
+| All Seats Taken | 34.00% | ~412 |
+| For Science! | 31.00% | ~376 |
+| Meet the Petersons | 30.00% | ~364 |
+| KIA | 26.00% | ~315 |
+| Stay Cool | 26.00% | ~315 |
+| Mutiny in making | 22.00% | ~267 |
+| Eco-Shuttle | 17.00% | ~206 |
+| Et tu, Astrocitizen? | 17.00% | ~206 |
+| Space Explorer | 14.00% | ~170 |
+| Gold Medalist | 11.00% | ~133 |
+| Hands Full | 11.00% | ~133 |
+| Non-Fiction | 10.00% | ~121 |
+| No Man Left Behind | 8.00% | ~97 |
+| Intergalactic Breakup | 7.00% | ~85 |
+| Second Life | 7.00% | ~85 |
+| First of April | 6.00% | ~73 |
+| Fix-It Felix | 6.00% | ~73 |
+| Flawless Maegangement | 6.00% | ~73 |
+| Axel jump in space! | 5.00% | ~61 |
+| Extreme Makeover | 4.00% | ~49 |
 | The Improvinator | 3.00% | ~36 |
 | The Last Supper | 3.00% | ~36 |
 | 2018: A Soup Odyssey | 2.00% | ~24 |
@@ -49,7 +49,7 @@
 | Unidentified Flying Offspring | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,203 (Ranked 290)  
+Progressed: 1,213 (Ranked 290)  
 Completed: 1 (0.08%) (Ranked 330)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 1 (0.08%) (Ranked 330)
 | 2024-01-16 | 870 | 1 |
 | 2024-01-17 | 981 | 1 |
 | 2024-01-18 | 1,088 | 1 |
-| 2024-01-19 | 1,203 | 1 |
+| 2024-01-19 | 1,213 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

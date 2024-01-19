@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 347430,
+  "EOS_Progressed": 347448,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2846,
+  "EOS_NewPlayers": 2848,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14004,6 +14004,11 @@
       "Time": "2024-01-19T21:09:45.8993465+00:00",
       "NumProgressed": 347430,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-19T22:09:13.8710689+00:00",
+      "NumProgressed": 347448,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14024,7 +14029,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13897
+      "UsersEstimate": 13898
     },
     {
       "ID": "S03_OTWA",
@@ -14048,7 +14053,7 @@
       "Name": "Back to your senses",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "S06_LWTC",
@@ -14056,7 +14061,7 @@
       "Name": "They tricked me",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "S07_INWA",
@@ -14184,7 +14189,7 @@
       "Name": "They won\u0027t last long",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "S23_ETHEREAL",
@@ -14248,7 +14253,7 @@
       "Name": "Bring it on!",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "S31_CHNG_DIAMOND",
@@ -14335,7 +14340,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 347430,
+      "Progressed": 347448,
       "Completed": 7
     }
   ],
@@ -14343,8 +14348,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:09:45.899346+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:09:13.8710685+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:58:01.9643009+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:09:45.8994427+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:57:50.3519019+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:09:13.8711514+00:00"
 }

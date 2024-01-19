@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17438,
+  "EOS_Progressed": 17440,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 533,
+  "EOS_NewPlayers": 532,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12759,6 +12759,11 @@
       "Time": "2024-01-19T21:05:10.7563864+00:00",
       "NumProgressed": 17438,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T22:04:29.1999581+00:00",
+      "NumProgressed": 17440,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12770,7 +12775,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9591
+      "UsersEstimate": 9592
     },
     {
       "ID": "Ach002",
@@ -12778,7 +12783,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6452
+      "UsersEstimate": 6453
     },
     {
       "ID": "Ach003",
@@ -12794,7 +12799,7 @@
       "Name": "The Negotiator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "Ach005",
@@ -12802,7 +12807,7 @@
       "Name": "Headliner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "Ach006",
@@ -12946,7 +12951,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9765
+      "UsersEstimate": 9766
     },
     {
       "ID": "Ach024",
@@ -12994,7 +12999,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2441
+      "UsersEstimate": 2442
     },
     {
       "ID": "Ach030",
@@ -13010,7 +13015,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5058
     },
     {
       "ID": "Ach032",
@@ -13122,7 +13127,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1569
+      "UsersEstimate": 1570
     },
     {
       "ID": "Ach046",
@@ -13138,7 +13143,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7324
+      "UsersEstimate": 7325
     },
     {
       "ID": "Ach048",
@@ -13146,7 +13151,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5057
+      "UsersEstimate": 5058
     },
     {
       "ID": "Ach049",
@@ -13170,7 +13175,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8719
+      "UsersEstimate": 8720
     },
     {
       "ID": "Ach052",
@@ -13186,7 +13191,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2964
+      "UsersEstimate": 2965
     },
     {
       "ID": "Ach054",
@@ -13337,13 +13342,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17438,
+      "Progressed": 17440,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15959,
+      "Progressed": 15961,
       "Completed": 1931
     }
   ],
@@ -13351,8 +13356,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:05:10.7563859+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:04:29.1999578+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:58:39.4875958+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:05:10.7564917+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:58:20.1706705+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:04:29.2000624+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "3933d71231a543fd873b8768585e2bd7",
   "Name": "Masterplan Tycoon",
   "ProductSlug": "masterplan-tycoon-379d81",
-  "Ranking_EOS_Progress": 540,
+  "Ranking_EOS_Progress": 539,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 434,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-01T08:00:00+00:00",
     "PcReleaseDate": "2023-03-09T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 68,
+  "EOS_Progressed": 69,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -354,6 +354,11 @@
       "Time": "2024-01-14T11:03:33.5955703+00:00",
       "NumProgressed": 68,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T22:06:38.7153339+00:00",
+      "NumProgressed": 69,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-01T09:03:14.0251979+00:00",
@@ -388,7 +393,7 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 74,
+      "Percentage": 72,
       "XP": 40,
       "UsersEstimate": 50
     },
@@ -396,7 +401,7 @@
       "ID": "achievements.completemission.master.02",
       "SetID": "1kd1942",
       "Name": "Beams of Steel",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
       "UsersEstimate": 12
     },
@@ -422,7 +427,7 @@
       "Name": "ForestTreePlank",
       "Percentage": 91,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "achievements.firstexpedition",
@@ -460,7 +465,7 @@
       "ID": "achievements.researches.first",
       "SetID": "1kd1942",
       "Name": "Eureka!",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 40,
       "UsersEstimate": 14
     },
@@ -493,14 +498,14 @@
     {
       "ID": "1kd1942",
       "IsBase": true,
-      "Progressed": 68,
+      "Progressed": 69,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:07:57.5238859+00:00",
-  "LastUpdate_AppInfo": "2024-01-12T21:56:58.7259645+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:02:56.0461409+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:07:57.523902+00:00"
+  "LastChanged_Achievements": "2024-01-19T22:06:38.7153335+00:00",
+  "LastUpdate_AppInfo": "2024-01-19T21:57:11.8602693+00:00",
+  "LastUpdate_Ratings": "2024-01-19T22:01:06.9570829+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:06:38.7153743+00:00"
 }

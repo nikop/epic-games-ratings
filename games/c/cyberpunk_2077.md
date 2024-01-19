@@ -12,16 +12,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.40% | ~4,221 |
 | The Wheel of Fortune | 0.40% | ~4,221 |
 | True Soldier | 0.40% | ~4,221 |
-| Bushido and Chill | 0.30% | ~3,165 |
-| Gun Fu | 0.30% | ~3,165 |
-| Master Crafter | 0.30% | ~3,165 |
-| Christmas Tree Attack | 0.30% | ~3,165 |
-| Life of the Road | 0.30% | ~3,165 |
-| Stanislavski's Method | 0.30% | ~3,165 |
-| The Fool | 0.30% | ~3,165 |
-| The Lovers | 0.30% | ~3,165 |
-| The World | 0.30% | ~3,165 |
-| Legend of The Afterlife | 0.30% | ~3,165 |
+| Bushido and Chill | 0.30% | ~3,166 |
+| Gun Fu | 0.30% | ~3,166 |
+| Master Crafter | 0.30% | ~3,166 |
+| Christmas Tree Attack | 0.30% | ~3,166 |
+| Life of the Road | 0.30% | ~3,166 |
+| Stanislavski's Method | 0.30% | ~3,166 |
+| The Fool | 0.30% | ~3,166 |
+| The Lovers | 0.30% | ~3,166 |
+| The World | 0.30% | ~3,166 |
+| Judy vs Night City | 0.30% | ~3,166 |
+| Legend of The Afterlife | 0.30% | ~3,166 |
 | All the President's Men | 0.30% | ~551 |
 | Arachnophobia | 0.30% | ~551 |
 | To Protect and Serve | 0.20% | ~2,110 |
@@ -29,7 +30,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.20% | ~2,110 |
 | True Warrior | 0.20% | ~2,110 |
 | Two Heads, One Bullet | 0.20% | ~2,110 |
-| Judy vs Night City | 0.20% | ~2,110 |
 | Spin Doctor | 0.20% | ~368 |
 | City Lights | 0.10% | ~1,055 |
 | To Bad Decisions! | 0.10% | ~1,055 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,157 (Ranked 17)  
+Progressed: 1,055,178 (Ranked 17)  
 Completed: 3,129 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 3,129 (0.30%) (Ranked 263)
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
-| 2024-01-19 | 1,055,157 | 3,129 |
+| 2024-01-19 | 1,055,178 | 3,129 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
 Sum: 506,552 (Ranked 8)  

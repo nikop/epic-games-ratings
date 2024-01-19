@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 7,
   "Ranking_EOS_NewPlayers": 384,
-  "Ranking_EOS_NewCompleters": 50,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 259,
-  "EOS_Completed": 112,
+  "EOS_Completed": 113,
   "EOS_NewPlayers": 7,
-  "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 43.24,
+  "EOS_NewCompleters": 6,
+  "EOS_Completed_Percentage": 43.63,
   "EosHistory": [
     {
       "Time": "2023-06-30T19:02:26.4579198+00:00",
@@ -1724,6 +1724,11 @@
       "Time": "2024-01-18T18:05:44.0160659+00:00",
       "NumProgressed": 259,
       "NumCompleted": 112
+    },
+    {
+      "Time": "2024-01-19T22:06:28.4628007+00:00",
+      "NumProgressed": 259,
+      "NumCompleted": 113
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.1574321+00:00",
@@ -1790,9 +1795,9 @@
       "ID": "Nora",
       "SetID": "823jm6g",
       "Name": "Burrow",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 75,
-      "UsersEstimate": 153
+      "UsersEstimate": 155
     },
     {
       "ID": "Planina",
@@ -1830,9 +1835,9 @@
       "ID": "Tuleni",
       "SetID": "823jm6g",
       "Name": "Seal Peaks",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 75,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     }
   ],
   "AchievementSets": [
@@ -1840,13 +1845,13 @@
       "ID": "823jm6g",
       "IsBase": true,
       "Progressed": 259,
-      "Completed": 112
+      "Completed": 113
     }
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:07:44.5439237+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:06:28.4628002+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.8400206+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:01:10.5801078+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:07:44.5439387+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:00:10.8224551+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:06:28.4628173+00:00"
 }

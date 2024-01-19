@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 452,
   "Ranking_EOS_Completed": 55,
   "Ranking_EOS_NewPlayers": 552,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-08T16:00:00+00:00",
     "PcReleaseDate": "2020-03-16T17:00:00+00:00",
@@ -975,9 +975,9 @@
       "ID": "Bit Blaster V6",
       "SetID": "1f269fc",
       "Name": "Bit Blaster V6",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Bit Blaster V7",
@@ -1006,8 +1006,8 @@
   ],
   "FirstSeen": "2023-05-20T01:55:13.7731097+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:16.9581391+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:08:48.9890112+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:08:29.1571851+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:36.603955+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:02:49.0958056+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:08:48.98903+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:01:01.6019385+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:08:29.1572042+00:00"
 }

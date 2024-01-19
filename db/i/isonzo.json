@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1013,10 +1013,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 343,
       "NumberOfAwardsMax": 44
+    },
+    {
+      "Time": "2024-01-19T21:57:14.4969949+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 344,
+      "NumberOfAwardsMax": 44
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 343,
+  "NumberOfAwards": 344,
   "NumberOfAwardsMax": 44,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1072,7 +1078,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has a Kind Community",
@@ -1087,7 +1093,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10002,
+  "EOS_Progressed": 10003,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
@@ -11367,6 +11373,11 @@
       "Time": "2024-01-19T20:09:42.0756806+00:00",
       "NumProgressed": 10002,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T22:09:49.1857192+00:00",
+      "NumProgressed": 10003,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11386,7 +11397,7 @@
       "Name": "Aurelio Baruzzi",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ISONZO_ACH_AVANTI_SAVOIA",
@@ -11442,7 +11453,7 @@
       "Name": "Decimation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 2000
+      "UsersEstimate": 2001
     },
     {
       "ID": "ISONZO_ACH_DIE_BOSNIAKEN_KOMMEN",
@@ -11466,7 +11477,7 @@
       "Name": "Donatello",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ISONZO_ACH_DROP_AND_GIVE_ME_20",
@@ -11506,7 +11517,7 @@
       "Name": "Insubordination",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ISONZO_ACH_I_HAVE_THE_HIGH_GROUND",
@@ -11586,7 +11597,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1700
+      "UsersEstimate": 1701
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11666,7 +11677,7 @@
       "Name": "The Italian Job",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ISONZO_ACH_THE_LION_OF_THE_ISONZO",
@@ -11706,7 +11717,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5001
+      "UsersEstimate": 5002
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11722,7 +11733,7 @@
       "Name": "Veni Vidi Vici",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 1900
+      "UsersEstimate": 1901
     },
     {
       "ID": "ISONZO_ACH_YOU_SHALL_NOT_PASS",
@@ -11730,23 +11741,23 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5101
+      "UsersEstimate": 5102
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10002,
+      "Progressed": 10003,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-09-13T17:01:45.3760457+00:00",
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
-  "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:10:30.5702386+00:00",
+  "LastChanged": "2024-01-19T21:57:14.4969947+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:09:49.1857188+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:57:15.1610421+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:10:30.5703317+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:57:14.4969952+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:09:49.185805+00:00"
 }

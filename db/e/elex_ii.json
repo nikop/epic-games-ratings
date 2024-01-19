@@ -2,13 +2,13 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 900,
+  "Ranking_Rating": 901,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 265,
+  "EOS_Progressed": 266,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1637,6 +1637,11 @@
       "Time": "2024-01-19T16:05:01.6404218+00:00",
       "NumProgressed": 265,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T22:04:29.6458692+00:00",
+      "NumProgressed": 266,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1657,7 +1662,7 @@
       "Name": "Banker",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "1000ELEXIT",
@@ -1665,7 +1670,7 @@
       "Name": "Entrepreneur",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "100HEALS",
@@ -1737,7 +1742,7 @@
       "Name": "Long-Haul Flyer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "30POTIONS",
@@ -1905,7 +1910,7 @@
       "Name": "Perfectionist",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "FINDALLIES",
@@ -1929,7 +1934,7 @@
       "Name": "Civilian",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "FINDCRONY",
@@ -1953,7 +1958,7 @@
       "Name": "Family Reunion",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "FUTUREIRISSA",
@@ -2048,15 +2053,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 265,
+      "Progressed": 266,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:05:11.2708383+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:04:29.6458684+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:58:48.8346841+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:05:11.2708905+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:58:27.5761532+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:04:29.6459053+00:00"
 }

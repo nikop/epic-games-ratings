@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25141,
+  "EOS_Progressed": 25142,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 293,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -23894,6 +23894,11 @@
       "Time": "2024-01-19T21:05:24.8717477+00:00",
       "NumProgressed": 25141,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-19T22:04:40.0819969+00:00",
+      "NumProgressed": 25142,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23929,7 +23934,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6285
+      "UsersEstimate": 6286
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -24016,15 +24021,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25141,
+      "Progressed": 25142,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:05:24.8717472+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:04:40.0819965+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.2562135+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:57:28.1684852+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:05:24.8718744+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:57:25.2554419+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:04:40.0821226+00:00"
 }

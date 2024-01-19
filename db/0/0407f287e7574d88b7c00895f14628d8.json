@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -1004,9 +1004,9 @@
       "ID": "dl2",
       "SetID": "b1ggf28",
       "Name": "Road Planning",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "dl3",
@@ -1092,9 +1092,9 @@
       "ID": "j1",
       "SetID": "b1ggf28",
       "Name": "Civilized Land",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "j2",
@@ -1156,9 +1156,9 @@
       "ID": "jk3",
       "SetID": "b1ggf28",
       "Name": "Robust Settlers",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 14
+      "UsersEstimate": 16
     },
     {
       "ID": "jz1",
@@ -1300,17 +1300,17 @@
       "ID": "x1",
       "SetID": "b1ggf28",
       "Name": "Happiness Maintainer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "x2",
       "SetID": "b1ggf28",
       "Name": "Hard-Drinking",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "x3",
@@ -1379,8 +1379,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:07:24.7151146+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:06:13.3533688+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:03:34.593086+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:07:24.7151544+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:03:16.2505575+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:06:13.3534087+00:00"
 }

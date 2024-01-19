@@ -41,9 +41,9 @@ Rating: 4.58 (Ranked 474)
 | Safecracker | 9.00% | ~19 |
 | Master thief | 9.00% | ~19 |
 | Expert | 8.00% | ~17 |
+| Terror of the hens | 7.00% | ~15 |
 | King of the handymen | 7.00% | ~15 |
 | The traveler | 6.00% | ~12 |
-| Terror of the hens | 6.00% | ~12 |
 | Moneybags | 5.00% | ~10 |
 | King Midas | 4.00% | ~8 |
 | Rune master | 3.00% | ~6 |

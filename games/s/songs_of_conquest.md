@@ -20,7 +20,7 @@ Number of Ratings: 292  (23.09.2022)
 | The Song of Stoutheart | 6.00% | ~75 |
 | Whoops! | 6.00% | ~75 |
 | Don't Touch My Stuff | 6.00% | ~75 |
-| Trojan Horse | 4.00% | ~50 |
+| Trojan Horse | 5.00% | ~62 |
 | Expert Essence Employment | 4.00% | ~50 |
 | Ultra Kill | 3.00% | ~37 |
 | This Spot's Taken | 2.00% | ~25 |

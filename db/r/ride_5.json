@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3648,
+  "EOS_Progressed": 3649,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 82,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9085,6 +9085,11 @@
       "Time": "2024-01-19T14:05:06.3294487+00:00",
       "NumProgressed": 3648,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T22:05:31.3718098+00:00",
+      "NumProgressed": 3649,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9097,7 +9102,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1678
+      "UsersEstimate": 1679
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9169,7 +9174,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1021
+      "UsersEstimate": 1022
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9401,7 +9406,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9488,7 +9493,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3648,
+      "Progressed": 3649,
       "Completed": 0
     }
   ],
@@ -9496,8 +9501,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:06:30.6369594+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:05:31.3718094+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:00:24.3550097+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:06:30.6370254+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:59:37.7163253+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:05:31.371875+00:00"
 }

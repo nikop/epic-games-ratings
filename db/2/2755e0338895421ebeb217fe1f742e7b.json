@@ -3,9 +3,9 @@
   "Name": "Nocturnal",
   "ProductSlug": "nocturnal-ef3fa0",
   "Ranking_EOS_Progress": 537,
-  "Ranking_EOS_Completed": 87,
+  "Ranking_EOS_Completed": 73,
   "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-07T15:00:00+00:00",
     "PcReleaseDate": "2023-06-07T15:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 70,
-  "EOS_Completed": 3,
+  "EOS_Completed": 4,
   "EOS_NewPlayers": 2,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.29,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.71,
   "EosHistory": [
     {
       "Time": "2023-06-12T20:01:31.4959965+00:00",
@@ -389,6 +389,11 @@
       "Time": "2024-01-19T11:11:21.5578486+00:00",
       "NumProgressed": 70,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T22:10:14.5376785+00:00",
+      "NumProgressed": 70,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -406,9 +411,9 @@
       "ID": "Nocturnal_Achivement_11_FireShrine",
       "SetID": "329ifed",
       "Name": "No Stone Unturned",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 150,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Nocturnal_Achivement_1_Flame",
@@ -454,9 +459,9 @@
       "ID": "Nocturnal_Achivement_6_Arsia",
       "SetID": "329ifed",
       "Name": "Baleful Shadow",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Nocturnal_Achivement_7_Letter",
@@ -470,9 +475,9 @@
       "ID": "Nocturnal_Achivement_8_End",
       "SetID": "329ifed",
       "Name": "A Grim Farewell",
-      "Percentage": 17,
+      "Percentage": 19,
       "XP": 200,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Nocturnal_Achivement_9_Torches",
@@ -488,13 +493,13 @@
       "ID": "329ifed",
       "IsBase": true,
       "Progressed": 70,
-      "Completed": 3
+      "Completed": 4
     }
   ],
   "FirstSeen": "2023-07-26T23:57:21.2236192+00:00",
   "FirstSeenAchievements": "2023-06-12T15:00:06.5838251+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:11:03.0399539+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:10:14.537678+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.0998528+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:58:05.6908733+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:11:03.0399659+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:57:53.2951154+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:10:14.5376879+00:00"
 }

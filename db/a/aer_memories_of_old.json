@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29041,
+  "EOS_Progressed": 29046,
   "EOS_Completed": 534,
-  "EOS_NewPlayers": 509,
+  "EOS_NewPlayers": 511,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30031,6 +30031,11 @@
       "Time": "2024-01-19T21:06:17.0529056+00:00",
       "NumProgressed": 29041,
       "NumCompleted": 534
+    },
+    {
+      "Time": "2024-01-19T22:05:20.7419843+00:00",
+      "NumProgressed": 29046,
+      "NumCompleted": 534
     }
   ],
   "TotalAchievements": 20,
@@ -30082,7 +30087,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2904
+      "UsersEstimate": 2905
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -30098,7 +30103,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -30122,7 +30127,7 @@
       "Name": "Tails of Stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "FOUND_MAMBA",
@@ -30130,7 +30135,7 @@
       "Name": "Baa from the past",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "FOUND_RIFT_CAVE",
@@ -30138,7 +30143,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3776
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -30146,7 +30151,7 @@
       "Name": "Written in stone",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "GAME_FINISHED",
@@ -30154,7 +30159,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3485
+      "UsersEstimate": 3486
     },
     {
       "ID": "INTRO_FINISHED",
@@ -30162,7 +30167,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22071
+      "UsersEstimate": 22075
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30170,7 +30175,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7841
+      "UsersEstimate": 7842
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30178,7 +30183,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3775
+      "UsersEstimate": 3776
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -30186,7 +30191,7 @@
       "Name": "Talk to all the spirit animals",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1742
+      "UsersEstimate": 1743
     },
     {
       "ID": "WEST_FINISHED",
@@ -30194,22 +30199,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5227
+      "UsersEstimate": 5228
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29041,
+      "Progressed": 29046,
       "Completed": 534
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:06:17.0529052+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:05:20.7419839+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:59:06.6687391+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:06:17.0530597+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:58:40.5429449+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:05:20.742141+00:00"
 }

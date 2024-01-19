@@ -6,21 +6,21 @@ Number of Ratings: 98  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Shall Not Pass | 51.00% | ~5,101 |
-| Tutti Eroi! | 50.00% | ~5,001 |
+| You Shall Not Pass | 51.00% | ~5,102 |
+| Tutti Eroi! | 50.00% | ~5,002 |
 | Peak Performance | 45.00% | ~4,501 |
 | Avanti Savoia! | 44.00% | ~4,401 |
 | Mamma Mia! | 35.00% | ~3,501 |
 | Gabriele D'Annunzio | 32.00% | ~3,201 |
 | Conrad von Hotzensocks | 31.00% | ~3,101 |
 | Silver Lining | 27.00% | ~2,701 |
-| Aurelio Baruzzi | 20.00% | ~2,000 |
-| Decimation | 20.00% | ~2,000 |
-| Donatello | 19.00% | ~1,900 |
-| Insubordination | 19.00% | ~1,900 |
-| The Italian Job | 19.00% | ~1,900 |
-| Veni Vidi Vici | 19.00% | ~1,900 |
-| Ragazzi del '99 | 17.00% | ~1,700 |
+| Aurelio Baruzzi | 20.00% | ~2,001 |
+| Decimation | 20.00% | ~2,001 |
+| Donatello | 19.00% | ~1,901 |
+| Insubordination | 19.00% | ~1,901 |
+| The Italian Job | 19.00% | ~1,901 |
+| Veni Vidi Vici | 19.00% | ~1,901 |
+| Ragazzi del '99 | 17.00% | ~1,701 |
 | Luigi Cadorna | 16.00% | ~1,600 |
 | The Lion of the Isonzo | 14.00% | ~1,400 |
 | Shaken, Not Stirred | 13.00% | ~1,300 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,002 (Ranked 185)  
+Progressed: 10,003 (Ranked 185)  
 Completed: 10 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 10 (0.10%) (Ranked 317)
 | 2024-01-16 | 9,969 | 10 |
 | 2024-01-17 | 9,982 | 10 |
 | 2024-01-18 | 9,990 | 10 |
-| 2024-01-19 | 10,002 | 10 |
+| 2024-01-19 | 10,003 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 481)  
-Sum: 343 (Ranked 371)  
+Sum: 344 (Ranked 371)  
 Diff (max vs sum): 110  
 | Award | Count |
 | ----- | ----- |
@@ -335,7 +335,7 @@ Diff (max vs sum): 110
 | This game has Challenging Combat | 34 |
 | This game is Educational | 33 |
 | This game has Quickly Understood Controls | 31 |
-| This game has Competitive Players | 28 |
+| This game has Competitive Players | 29 |
 | This game has Amazing Storytelling | 25 |
 | This game has a Kind Community | 20 |
 ## Ratings History
@@ -487,3 +487,4 @@ Diff (max vs sum): 110
 | 2024-01-06 | 4.58 | - | 43 | 339 |
 | 2024-01-13 | 4.58 | - | 44 | 341 |
 | 2024-01-14 | 4.58 | - | 44 | 343 |
+| 2024-01-19 | 4.58 | - | 44 | 344 |

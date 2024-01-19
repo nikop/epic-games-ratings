@@ -4,8 +4,8 @@
   "ProductSlug": "aircraft-carrier-survival-769456",
   "Ranking_EOS_Progress": 624,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-17T14:00:00+00:00",
     "PcReleaseDate": "2022-04-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22,
+  "EOS_Progressed": 23,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -109,6 +109,11 @@
       "Time": "2024-01-19T20:05:10.6386245+00:00",
       "NumProgressed": 22,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T22:05:30.5797436+00:00",
+      "NumProgressed": 23,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-10T08:04:08.4002593+00:00",
@@ -121,13 +126,13 @@
       "Name": "Ensign",
       "Percentage": 91,
       "XP": 55,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "a48gbka",
       "Name": "Lieutenant Junior Grade",
-      "Percentage": 45,
+      "Percentage": 43,
       "XP": 55,
       "UsersEstimate": 10
     },
@@ -143,7 +148,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "a48gbka",
       "Name": "The Bronze Star",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 55,
       "UsersEstimate": 1
     },
@@ -191,7 +196,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "a48gbka",
       "Name": "Lieutenant",
-      "Percentage": 64,
+      "Percentage": 61,
       "XP": 55,
       "UsersEstimate": 14
     },
@@ -207,7 +212,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "a48gbka",
       "Name": "Lieutenant Commander",
-      "Percentage": 32,
+      "Percentage": 30,
       "XP": 55,
       "UsersEstimate": 7
     },
@@ -264,14 +269,14 @@
     {
       "ID": "a48gbka",
       "IsBase": true,
-      "Progressed": 22,
+      "Progressed": 23,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-18T18:00:15.4077819+00:00",
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:06:29.6936283+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:05:30.5797433+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.63618+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:57:17.8587123+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:06:29.6936422+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:57:16.9420354+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:05:30.5797515+00:00"
 }

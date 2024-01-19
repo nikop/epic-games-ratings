@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
     "PcReleaseDate": "2021-09-15T17:00:00+00:00",
@@ -169,7 +169,7 @@
   "Tags": [],
   "EOS_Progressed": 1742,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -5119,9 +5119,9 @@
       "ID": "ACH_WASHCAR_03",
       "SetID": "5fn8ia4",
       "Name": "Sand? Not a problem",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 314
+      "UsersEstimate": 331
     },
     {
       "ID": "GSS_ACH_01_SHOP_01",
@@ -5383,9 +5383,9 @@
       "ID": "GSS_ACH_34_FLYING_CARS",
       "SetID": "5fn8ia4",
       "Name": "It\u0027s Raining Cars",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 139
+      "UsersEstimate": 157
     },
     {
       "ID": "GSS_ACH_35_BROOM_01",
@@ -5784,8 +5784,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-19T11:59:35.8280694+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:08:10.8295555+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:06:49.2914685+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:07.7335688+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:00:43.0997164+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:08:10.829667+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:59:51.2124752+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:06:49.2916632+00:00"
 }

@@ -17,13 +17,13 @@ Rating: 4.64 (Ranked 347)
 | Mist Walker | 3.00% | ~274 |
 | Clear the Air | 2.00% | ~183 |
 | Lumberjack | 2.00% | ~183 |
-| Higher Tax Bracket | 2.00% | ~183 |
 | Oui, Chef! | 2.00% | ~183 |
 | Botanical Breakthrough | 2.00% | ~183 |
 | Exit Through The Gift Shop | 2.00% | ~35 |
 | Search for the Hairy Grell | 1.00% | ~91 |
 | Flaming Hot Completos | 1.00% | ~91 |
 | Beach Comber | 1.00% | ~91 |
+| Higher Tax Bracket | 1.00% | ~91 |
 | Azorian Anniversary | 1.00% | ~91 |
 | Skilled | 1.00% | ~91 |
 | Fae Farmer | 0.90% | ~82 |
@@ -49,7 +49,7 @@ Rating: 4.64 (Ranked 347)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,133 (Ranked 189)  
+Progressed: 9,134 (Ranked 189)  
 Completed: 1 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.01%) (Ranked 379)
 | 2024-01-16 | 9,101 | 1 |
 | 2024-01-17 | 9,112 | 1 |
 | 2024-01-18 | 9,124 | 1 |
-| 2024-01-19 | 9,133 | 1 |
+| 2024-01-19 | 9,134 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

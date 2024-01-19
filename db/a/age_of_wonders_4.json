@@ -789,7 +789,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7272,
+  "EOS_Progressed": 7273,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 1,
@@ -11359,6 +11359,11 @@
       "Time": "2024-01-19T18:04:03.1072702+00:00",
       "NumProgressed": 7272,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T22:04:31.7954028+00:00",
+      "NumProgressed": 7273,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11386,7 +11391,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "12",
@@ -11538,7 +11543,7 @@
       "Name": "Stronger Together",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "3",
@@ -11578,7 +11583,7 @@
       "Name": "Seat of Power",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "34",
@@ -11849,13 +11854,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7272,
+      "Progressed": 7273,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7272,
+      "Progressed": 7273,
       "Completed": 8
     }
   ],
@@ -11863,8 +11868,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:05:14.137415+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:04:31.7954024+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:59:52.2310764+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:05:14.1375223+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:59:13.9600859+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:04:31.7955229+00:00"
 }

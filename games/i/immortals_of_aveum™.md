@@ -16,7 +16,7 @@ Rating: 4.19 (Ranked 978)
 | Soldier | 27.00% | ~954 |
 | All the Major Food Groups | 26.00% | ~919 |
 | Socialite | 25.00% | ~883 |
-| Beggars Would Ride | 24.00% | ~848 |
+| Beggars Would Ride | 25.00% | ~883 |
 | Control is an Illusion | 23.00% | ~813 |
 | The Means to Save It | 20.00% | ~707 |
 | Resilience to Sin | 18.00% | ~636 |
@@ -29,8 +29,8 @@ Rating: 4.19 (Ranked 978)
 | Lights Army | 11.00% | ~389 |
 | Periapt Cerulean | 9.00% | ~318 |
 | Good Boy | 9.00% | ~318 |
+| Periapt Viridian | 8.00% | ~283 |
 | Best Dressed | 7.00% | ~247 |
-| Periapt Viridian | 7.00% | ~247 |
 | Shroudfane Explorer | 7.00% | ~247 |
 | Kitted Out | 5.00% | ~177 |
 | Armaments Azure | 5.00% | ~177 |

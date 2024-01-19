@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1385,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4721,17 +4721,17 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 388
+      "UsersEstimate": 402
     },
     {
       "ID": "achievement_3",
       "SetID": "2cpn27e",
       "Name": "Bonds of Enmity",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 540
+      "UsersEstimate": 554
     },
     {
       "ID": "achievement_30",
@@ -4943,8 +4943,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:10:43.3045536+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:09:59.3747311+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:59:26.1823976+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:10:43.3045987+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:58:54.2679192+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:09:59.374787+00:00"
 }

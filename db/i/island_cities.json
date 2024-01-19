@@ -4029,9 +4029,9 @@
       "ID": "LEVEL_019",
       "SetID": "3khpmem",
       "Name": "Aiming for a living and human city",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 152
+      "UsersEstimate": 161
     },
     {
       "ID": "LEVEL_020",
@@ -4070,8 +4070,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:08:09.5936211+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:06:48.3294282+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:01:21.4080233+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:08:09.5936579+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:00:18.6436299+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:06:48.3294605+00:00"
 }

@@ -9629,10 +9629,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33565,
       "NumberOfAwardsMax": 5801
+    },
+    {
+      "Time": "2024-01-19T22:00:19.3499636+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33568,
+      "NumberOfAwardsMax": 5801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33565,
+  "NumberOfAwards": 33568,
   "NumberOfAwardsMax": 5801,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9676,12 +9682,12 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3648
+      "Count": 3651
     }
   ],
-  "EOS_Progressed": 254764,
+  "EOS_Progressed": 254778,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1180,
+  "EOS_NewPlayers": 1189,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40829,6 +40835,11 @@
       "Time": "2024-01-19T21:11:25.249973+00:00",
       "NumProgressed": 254764,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-19T22:10:33.8072327+00:00",
+      "NumProgressed": 254778,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -41208,7 +41219,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     },
     {
       "ID": "objective_completed_110",
@@ -42512,7 +42523,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     },
     {
       "ID": "objective_completed_34",
@@ -43984,7 +43995,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5095
+      "UsersEstimate": 5096
     },
     {
       "ID": "objective_completed_70",
@@ -45207,21 +45218,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221038,
+      "Progressed": 221052,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254764,
+      "Progressed": 254778,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-19T17:59:44.9240099+00:00",
-  "LastChanged_Achievements": "2024-01-19T21:11:25.2499728+00:00",
+  "LastChanged": "2024-01-19T22:00:19.3499634+00:00",
+  "LastChanged_Achievements": "2024-01-19T22:10:33.8072324+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:01:22.3701809+00:00",
-  "LastUpdate_Achievements": "2024-01-19T21:11:25.2522733+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:00:19.349964+00:00",
+  "LastUpdate_Achievements": "2024-01-19T22:10:33.8094336+00:00"
 }

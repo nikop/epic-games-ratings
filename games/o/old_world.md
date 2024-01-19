@@ -259,6 +259,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Eastern Empire | 0.10% | ~17 |
 | Mausoleum in Halicarnassus | 0.10% | ~17 |
 | Hardcore | 0.10% | ~17 |
+| Knowledge of the Ancients | 0.10% | ~17 |
 | Learn By Playing 1 - Able | 0.10% | ~17 |
 | Learn By Playing 2 - Just | 0.10% | ~17 |
 | Learn By Playing 3 - Good | 0.10% | ~17 |
@@ -339,7 +340,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Youth Prevails | 0.00% | ~0 |
 | Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
-| Knowledge of the Ancients | 0.00% | ~0 |
 | Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,006 (Ranked 170)  
+Progressed: 17,007 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 17,006 | 5 |
+| 2024-01-19 | 17,007 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,939 (Ranked 224)  

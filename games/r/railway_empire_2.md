@@ -35,7 +35,7 @@ Rating: 4.36 (Ranked 823)
 | Socializer | 28.00% | ~772 |
 | Hostile Takeover | 26.00% | ~717 |
 | Seven at one stroke | 25.00% | ~690 |
-| Breaking Ground | 23.00% | ~634 |
+| Breaking Ground | 24.00% | ~662 |
 | Trailblazer | 22.00% | ~607 |
 | Traffic Junction | 22.00% | ~607 |
 | Traffic Jam | 21.00% | ~579 |

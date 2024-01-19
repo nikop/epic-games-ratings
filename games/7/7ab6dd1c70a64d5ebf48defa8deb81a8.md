@@ -16,8 +16,8 @@ Rating: 4.17 (Ranked 991)
 | Scholar | 25.00% | ~597 |
 | I Found It | 25.00% | ~597 |
 | Fashion Victim | 24.00% | ~573 |
+| Stone Collection | 24.00% | ~573 |
 | Tributes of Caladrias | 23.00% | ~549 |
-| Stone Collection | 23.00% | ~549 |
 | Powerful Allies | 22.00% | ~526 |
 | Big Bazar | 16.00% | ~382 |
 | Essence Blow | 15.00% | ~358 |
