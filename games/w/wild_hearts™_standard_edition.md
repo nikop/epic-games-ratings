@@ -21,7 +21,7 @@
 | Flawless Crystal | 38.00% | ~526 |
 | Distance Devourer | 37.00% | ~512 |
 | Counter Specialist | 35.00% | ~485 |
-| Master of the Skies | 32.00% | ~443 |
+| Master of the Skies | 33.00% | ~457 |
 | Axer of Auspice | 30.00% | ~416 |
 | Mighty Marmelizer | 29.00% | ~402 |
 | Fair Means or Foul | 28.00% | ~388 |

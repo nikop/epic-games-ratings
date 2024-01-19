@@ -66,6 +66,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.50% | ~1,216 |
 | Antivenom | 0.50% | ~1,216 |
 | The Long Run | 0.50% | ~1,216 |
+| Juggernaut | 0.40% | ~973 |
 | Decisions, Decisions | 0.40% | ~973 |
 | Fragile Mortality | 0.40% | ~973 |
 | Snake Sneak | 0.40% | ~973 |
@@ -78,7 +79,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Barbecue | 0.30% | ~730 |
 | Grave Digger | 0.30% | ~730 |
 | Soul Stash | 0.30% | ~730 |
-| Juggernaut | 0.30% | ~730 |
 | Gigantic | 0.30% | ~730 |
 | Clearing The Room | 0.30% | ~730 |
 | Path To Enlightenment | 0.30% | ~730 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,218 (Ranked 75)  
+Progressed: 243,224 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 309 (0.13%) (Ranked 306)
 | 2024-01-16 | 243,080 | 307 |
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
-| 2024-01-19 | 243,218 | 309 |
+| 2024-01-19 | 243,224 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  

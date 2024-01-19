@@ -50,20 +50,20 @@
 | The die is cast | 33.00% | ~196 |
 | Poisoned fighter | 32.00% | ~190 |
 | Get out of my apartment! | 31.00% | ~184 |
+| Undercover robot | 31.00% | ~184 |
 | Gang wrangler | 30.00% | ~178 |
 | Absolute Champion! | 30.00% | ~178 |
 | Seashell hunter | 30.00% | ~178 |
-| Undercover robot | 30.00% | ~178 |
 | Problems of cyborgs | 29.00% | ~172 |
 | Another world | 28.00% | ~166 |
+| The lonesome road | 28.00% | ~166 |
+| Family comes first | 28.00% | ~166 |
+| Key memories | 28.00% | ~166 |
 | Not little hacker | 28.00% | ~166 |
+| The heart of the Resistance | 28.00% | ~166 |
 | Trap disarmed | 27.00% | ~160 |
-| The lonesome road | 27.00% | ~160 |
 | Keep nature safe | 27.00% | ~160 |
-| Family comes first | 27.00% | ~160 |
-| Key memories | 27.00% | ~160 |
 | Careerist | 27.00% | ~160 |
-| The heart of the Resistance | 27.00% | ~160 |
 | The only right decision | 26.00% | ~154 |
 | The last bell ring | 26.00% | ~154 |
 | Anyone can resist | 26.00% | ~154 |
@@ -71,7 +71,7 @@
 | Your own way | 25.00% | ~148 |
 | Silver’s past | 24.00% | ~142 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 593 (Ranked 346)  
+Progressed: 593 (Ranked 347)  
 Completed: 9 (1.52%) (Ranked 152)  
 ## EOS Players History
 | Date | Progressed | Completed |

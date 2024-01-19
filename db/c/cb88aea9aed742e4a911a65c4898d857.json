@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11854,
+  "EOS_Progressed": 11857,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5506,6 +5506,11 @@
       "Time": "2024-01-19T20:10:17.1964259+00:00",
       "NumProgressed": 11854,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T21:11:13.3432412+00:00",
+      "NumProgressed": 11857,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5518,7 +5523,7 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "03_TheStolenStar",
@@ -5534,7 +5539,7 @@
       "Name": "Trade Empire",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -5542,7 +5547,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5614,7 +5619,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 948
+      "UsersEstimate": 949
     },
     {
       "ID": "15_Pentakill",
@@ -5630,7 +5635,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1778
+      "UsersEstimate": 1779
     },
     {
       "ID": "17_TheExemplar",
@@ -5686,7 +5691,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "24_TheHighrise",
@@ -5766,7 +5771,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5830,7 +5835,7 @@
       "Name": "Jungle Heat",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5846,7 +5851,7 @@
       "Name": "No Place Like Home",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1185
+      "UsersEstimate": 1186
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6037,7 +6042,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11854,
+      "Progressed": 11857,
       "Completed": 1
     }
   ],
@@ -6045,8 +6050,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-19T17:59:53.1997648+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:10:17.1964257+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:11:13.3432411+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:00:14.6852315+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:10:17.1964886+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:01:35.6557186+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:11:13.3433007+00:00"
 }

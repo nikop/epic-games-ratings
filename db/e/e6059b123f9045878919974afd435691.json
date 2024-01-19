@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1492,
+  "EOS_Progressed": 1493,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 46,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3989,6 +3989,11 @@
       "Time": "2024-01-19T20:10:23.7932396+00:00",
       "NumProgressed": 1492,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T21:11:21.3125962+00:00",
+      "NumProgressed": 1493,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4000,7 +4005,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -4016,7 +4021,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -4040,7 +4045,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4072,7 +4077,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4248,7 +4253,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -4272,7 +4277,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -4280,7 +4285,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4294,9 +4299,9 @@
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 478
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4318,9 +4323,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 537
+      "UsersEstimate": 523
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4350,9 +4355,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 284
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4416,7 +4421,7 @@
       "Name": "Reading and More Reading",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 104
+      "UsersEstimate": 105
     },
     {
       "ID": "NOTE_ACHIEVEMENT_1",
@@ -4432,7 +4437,7 @@
       "Name": "The Last of Us",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4527,14 +4532,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1492,
+      "Progressed": 1493,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:10:23.7932393+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:11:21.312596+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:02:28.4471698+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:10:23.7933099+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:03:01.5242363+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:11:21.3126561+00:00"
 }

@@ -1,51 +1,51 @@
 # EA SPORTS™ FIFA 23 Standard Edition
 [Store](https://store.epicgames.com/en-US/p/fifa-23)  
 [View Rawdata](../../db/e/ea_sports™_fifa_23_standard_edition.json)  
-Rating: 4.26 (Ranked 922)  
+Rating: 4.26 (Ranked 923)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~160,926 |
-| Dead-ball specialist | 61.00% | ~130,886 |
-| European Legend | 52.00% | ~111,575 |
-| Multitasking | 51.00% | ~109,430 |
-| Balanced Path | 49.00% | ~105,138 |
-| High Grades | 48.00% | ~102,993 |
-| A Moment of Your Time | 46.00% | ~98,701 |
-| Let the Games Begin | 46.00% | ~98,701 |
-| Aiming High | 46.00% | ~98,701 |
-| Tactical Tinkerer | 40.00% | ~85,827 |
-| Intuition and Execution | 39.00% | ~83,682 |
-| Squad Building Connoisseur | 38.00% | ~81,536 |
-| The Winning Formula | 36.00% | ~77,244 |
-| Parking the Bus | 27.00% | ~57,933 |
-| Safe House | 26.00% | ~55,788 |
-| Best of Five | 26.00% | ~55,788 |
-| Football is Everything | 24.00% | ~51,496 |
-| The Chosen One | 21.00% | ~45,059 |
-| Fresh Fit | 20.00% | ~42,914 |
-| Bring it on | 17.00% | ~36,477 |
-| Life-Like | 14.00% | ~30,040 |
-| Make the Grade | 12.00% | ~25,748 |
-| I Played Them All | 10.00% | ~21,457 |
-| Specialist | 10.00% | ~21,457 |
-| Teamwork works | 9.00% | ~19,311 |
-| First of Many | 9.00% | ~19,311 |
-| Momentous Achievement | 6.00% | ~12,874 |
-| Becoming Unplayable | 5.00% | ~10,728 |
-| Shop till you drop | 5.00% | ~10,728 |
-| On the way up | 5.00% | ~10,728 |
+| Power Shot | 75.00% | ~160,940 |
+| Dead-ball specialist | 61.00% | ~130,898 |
+| European Legend | 52.00% | ~111,585 |
+| Multitasking | 51.00% | ~109,439 |
+| Balanced Path | 49.00% | ~105,148 |
+| High Grades | 48.00% | ~103,002 |
+| A Moment of Your Time | 46.00% | ~98,710 |
+| Let the Games Begin | 46.00% | ~98,710 |
+| Aiming High | 46.00% | ~98,710 |
+| Tactical Tinkerer | 40.00% | ~85,835 |
+| Intuition and Execution | 39.00% | ~83,689 |
+| Squad Building Connoisseur | 38.00% | ~81,543 |
+| The Winning Formula | 36.00% | ~77,251 |
+| Parking the Bus | 27.00% | ~57,938 |
+| Safe House | 26.00% | ~55,793 |
+| Best of Five | 26.00% | ~55,793 |
+| Football is Everything | 24.00% | ~51,501 |
+| The Chosen One | 21.00% | ~45,063 |
+| Fresh Fit | 20.00% | ~42,917 |
+| Bring it on | 17.00% | ~36,480 |
+| Life-Like | 14.00% | ~30,042 |
+| Make the Grade | 12.00% | ~25,750 |
+| I Played Them All | 10.00% | ~21,459 |
+| Specialist | 10.00% | ~21,459 |
+| Teamwork works | 9.00% | ~19,313 |
+| First of Many | 9.00% | ~19,313 |
+| Momentous Achievement | 6.00% | ~12,875 |
+| Becoming Unplayable | 5.00% | ~10,729 |
+| Shop till you drop | 5.00% | ~10,729 |
+| On the way up | 5.00% | ~10,729 |
 | Volta's best | 4.00% | ~8,583 |
 | In Cahoots | 4.00% | ~8,583 |
 | Tune Your Club | 4.00% | ~8,583 |
 | Full-House | 4.00% | ~8,583 |
-| Sharing is Caring | 3.00% | ~6,437 |
+| Sharing is Caring | 3.00% | ~6,438 |
 | Full wardrobe | 0.50% | ~1,073 |
 | Girl Power | 0.40% | ~858 |
 | Training Addict | 0.10% | ~215 |
 | Dazzling Personality | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 214,568 (Ranked 82)  
+Progressed: 214,587 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,17 +172,17 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 213,829 | 0 |
 | 2024-01-17 | 214,072 | 0 |
 | 2024-01-18 | 214,334 | 0 |
-| 2024-01-19 | 214,568 | 0 |
+| 2024-01-19 | 214,587 | 0 |
 ## Awards
 Max (Diverse Characters): 22,316  (Ranked 21)  
-Sum: 110,653 (Ranked 17)  
+Sum: 110,663 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 22,316 |
 | This game is Highly Recommended | 15,132 |
 | This game has a Competitive Community | 14,486 |
-| This game has Amazing Characters | 12,445 |
+| This game has Amazing Characters | 12,455 |
 | This game is Extremely Fun | 11,928 |
 | This game has Competitive Players | 11,870 |
 | This game has Amazing Storytelling | 11,699 |
@@ -570,4 +570,4 @@ Diff (max vs sum): 4
 | 2024-01-16 | 4.26 | 22,275 | 110,519 |
 | 2024-01-17 | 4.26 | 22,286 | 110,556 |
 | 2024-01-18 | 4.26 | 22,303 | 110,604 |
-| 2024-01-19 | 4.26 | 22,316 | 110,653 |
+| 2024-01-19 | 4.26 | 22,316 | 110,663 |

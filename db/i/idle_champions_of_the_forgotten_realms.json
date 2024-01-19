@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9679,9 +9679,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254752,
+  "EOS_Progressed": 254764,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1175,
+  "EOS_NewPlayers": 1180,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40824,6 +40824,11 @@
       "Time": "2024-01-19T20:10:28.2120609+00:00",
       "NumProgressed": 254752,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-19T21:11:25.249973+00:00",
+      "NumProgressed": 254764,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -40835,7 +40840,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10190
+      "UsersEstimate": 10191
     },
     {
       "ID": "objective_completed_10",
@@ -40905,9 +40910,9 @@
       "ID": "objective_completed_1050",
       "SetID": "415jc5c",
       "Name": "Tall Tales",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 442
     },
     {
       "ID": "objective_completed_1051",
@@ -41537,9 +41542,9 @@
       "ID": "objective_completed_1168",
       "SetID": "415jc5c",
       "Name": "Vecna Loots!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 442
     },
     {
       "ID": "objective_completed_1169",
@@ -45202,21 +45207,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221026,
+      "Progressed": 221038,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254752,
+      "Progressed": 254764,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T17:59:44.9240099+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:10:28.2120607+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:11:25.2499728+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:00:04.9551953+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:10:28.2143388+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:01:22.3701809+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:11:25.2522733+00:00"
 }

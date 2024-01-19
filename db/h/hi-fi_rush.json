@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17437,
+  "EOS_Progressed": 17438,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 538,
+  "EOS_NewPlayers": 533,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12754,6 +12754,11 @@
       "Time": "2024-01-19T20:04:09.106413+00:00",
       "NumProgressed": 17437,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T21:05:10.7563864+00:00",
+      "NumProgressed": 17438,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12765,7 +12770,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9590
+      "UsersEstimate": 9591
     },
     {
       "ID": "Ach002",
@@ -12877,7 +12882,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6277
+      "UsersEstimate": 6278
     },
     {
       "ID": "Ach016",
@@ -12893,7 +12898,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4359
+      "UsersEstimate": 4360
     },
     {
       "ID": "Ach018",
@@ -12925,7 +12930,7 @@
       "Name": "I have to read these things?",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "Ach022",
@@ -12957,7 +12962,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5405
+      "UsersEstimate": 5406
     },
     {
       "ID": "Ach026",
@@ -13165,7 +13170,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8718
+      "UsersEstimate": 8719
     },
     {
       "ID": "Ach052",
@@ -13173,7 +13178,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "Ach053",
@@ -13237,7 +13242,7 @@
       "Name": "Check out my moves!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "Ach061",
@@ -13332,13 +13337,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17437,
+      "Progressed": 17438,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15958,
+      "Progressed": 15959,
       "Completed": 1931
     }
   ],
@@ -13346,8 +13351,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:04:09.1064126+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:05:10.7563859+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:58:04.7325552+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:04:09.1065497+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:58:39.4875958+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:05:10.7564917+00:00"
 }

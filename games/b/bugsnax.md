@@ -6,23 +6,23 @@ Number of Ratings: 425  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Everybody Gets One | 97.00% | ~28,291 |
-| Gone Home | 93.00% | ~27,124 |
-| Wonderfalls | 87.00% | ~25,374 |
-| Got to Catch a Few | 77.00% | ~22,458 |
-| Double Trapper | 75.00% | ~21,874 |
+| Everybody Gets One | 97.00% | ~28,292 |
+| Gone Home | 93.00% | ~27,125 |
+| Wonderfalls | 87.00% | ~25,375 |
+| Got to Catch a Few | 77.00% | ~22,459 |
+| Double Trapper | 75.00% | ~21,875 |
 | I'm Stuffed | 69.00% | ~20,125 |
 | Got to Catch a Lot | 66.00% | ~19,250 |
-| Talkin' 'Bout Bugsnax | 61.00% | ~17,791 |
-| In the Arms of the Gramble | 59.00% | ~17,208 |
-| Know Thy Neighbor | 59.00% | ~17,208 |
+| Talkin' 'Bout Bugsnax | 61.00% | ~17,792 |
+| In the Arms of the Gramble | 59.00% | ~17,209 |
+| Know Thy Neighbor | 59.00% | ~17,209 |
 | Perf Dirt | 57.00% | ~16,625 |
-| Launch Party | 56.00% | ~16,333 |
-| Vacation's End | 53.00% | ~15,458 |
-| Bossy Bugs | 46.00% | ~13,416 |
+| Launch Party | 56.00% | ~16,334 |
+| Vacation's End | 53.00% | ~15,459 |
+| Bossy Bugs | 46.00% | ~13,417 |
 | Survivor | 45.00% | ~13,125 |
-| That Reminds Me of a Puzzle | 43.00% | ~12,541 |
-| Sidetracked | 40.00% | ~11,666 |
+| That Reminds Me of a Puzzle | 43.00% | ~12,542 |
+| Sidetracked | 40.00% | ~11,667 |
 | Film Buff | 38.00% | ~11,083 |
 | Combo Meal | 38.00% | ~11,083 |
 | Midnight Snak | 36.00% | ~10,500 |
@@ -37,7 +37,7 @@ Number of Ratings: 425  (23.09.2022)
 | Live Laugh Hut | 9.00% | ~2,625 |
 | Dapper Capper | 7.00% | ~2,042 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,166 (Ranked 145)  
+Progressed: 29,167 (Ranked 145)  
 Completed: 1,428 (4.90%) (Ranked 76)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 1,428 (4.90%) (Ranked 76)
 | 2024-01-16 | 29,143 | 1,426 |
 | 2024-01-17 | 29,151 | 1,426 |
 | 2024-01-18 | 29,159 | 1,428 |
-| 2024-01-19 | 29,166 | 1,428 |
+| 2024-01-19 | 29,167 | 1,428 |
 ## Awards
 Max (Amazing Storytelling): 45  (Ranked 476)  
 Sum: 389 (Ranked 364)  

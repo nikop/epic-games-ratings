@@ -2,7 +2,7 @@
   "ID": "93eeeab14a3d45b8bf5586a900137733",
   "Name": "Against the Storm",
   "ProductSlug": "against-the-storm",
-  "Ranking_Rating": 69,
+  "Ranking_Rating": 70,
   "Ranking_Popularity": 234,
   "Ranking_PopularitySum": 179,
   "Ranking_EOS_Progress": 157,
@@ -3945,10 +3945,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3397,
       "NumberOfAwardsMax": 454
+    },
+    {
+      "Time": "2024-01-19T21:01:13.1796239+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3398,
+      "NumberOfAwardsMax": 454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3397,
+  "NumberOfAwards": 3398,
   "NumberOfAwardsMax": 454,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4004,7 +4010,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Unique Visuals",
@@ -4015,7 +4021,7 @@
   ],
   "EOS_Progressed": 20894,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20547,9 +20553,9 @@
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-19T14:59:34.2231574+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:08:31.2387958+00:00",
+  "LastChanged": "2024-01-19T21:01:13.1796235+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:09:02.79609+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:59:58.3768383+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:08:31.2389314+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:01:13.1796245+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:09:02.7962022+00:00"
 }

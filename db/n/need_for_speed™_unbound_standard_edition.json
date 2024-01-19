@@ -4,7 +4,7 @@
   "ProductSlug": "need-for-speed-unbound",
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 64,
+  "Ranking_EOS_NewPlayers": 65,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 56620,
+  "EOS_Progressed": 56621,
   "EOS_Completed": 60,
-  "EOS_NewPlayers": 1863,
+  "EOS_NewPlayers": 1850,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -14198,6 +14198,11 @@
       "Time": "2024-01-19T20:09:40.0429596+00:00",
       "NumProgressed": 56620,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-19T21:10:28.1045819+00:00",
+      "NumProgressed": 56621,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -14258,7 +14263,7 @@
       "Name": "Serious Guap",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 15287
+      "UsersEstimate": 15288
     },
     {
       "ID": "achievement_16",
@@ -14330,7 +14335,7 @@
       "Name": "Public Enemy",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 33972
+      "UsersEstimate": 33973
     },
     {
       "ID": "achievement_24",
@@ -14346,7 +14351,7 @@
       "Name": "Access All Areas",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 9625
+      "UsersEstimate": 9626
     },
     {
       "ID": "achievement_26",
@@ -14418,7 +14423,7 @@
       "Name": "#Blessed",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9625
+      "UsersEstimate": 9626
     },
     {
       "ID": "achievement_34",
@@ -14450,7 +14455,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 47561
+      "UsersEstimate": 47562
     },
     {
       "ID": "achievement_38",
@@ -14458,7 +14463,7 @@
       "Name": "Fashion Killa",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 45862
+      "UsersEstimate": 45863
     },
     {
       "ID": "achievement_39",
@@ -14466,7 +14471,7 @@
       "Name": "Cool Whip",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 41899
+      "UsersEstimate": 41900
     },
     {
       "ID": "achievement_4",
@@ -14482,7 +14487,7 @@
       "Name": "Kick it",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6794
+      "UsersEstimate": 6795
     },
     {
       "ID": "achievement_41",
@@ -14490,7 +14495,7 @@
       "Name": "Drop the Beat",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 37369
+      "UsersEstimate": 37370
     },
     {
       "ID": "achievement_5",
@@ -14498,7 +14503,7 @@
       "Name": "Lake Better Watch Out",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9625
+      "UsersEstimate": 9626
     },
     {
       "ID": "achievement_6",
@@ -14514,7 +14519,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 34538
+      "UsersEstimate": 34539
     },
     {
       "ID": "achievement_8",
@@ -14537,13 +14542,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 56620,
+      "Progressed": 56621,
       "Completed": 60
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:09:40.0429593+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:10:28.1045817+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:36.4910206+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:00:44.4737867+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:09:40.0430616+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:02:15.3857249+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:10:28.1046564+00:00"
 }

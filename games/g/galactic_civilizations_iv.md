@@ -52,7 +52,7 @@ Number of Ratings: 429  (23.09.2022)
 | Ask Not What Your Empire Can Do For You | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
 | Hyperspace! | 0.40% | ~30 |
-| Veteran Crew | 0.30% | ~23 |
+| Veteran Crew | 0.40% | ~30 |
 | Commodity Seller, Level 2 | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Relic Hoarder | 0.20% | ~15 |
@@ -66,6 +66,7 @@ Number of Ratings: 429  (23.09.2022)
 | Play for 100 Hours | 0.10% | ~8 |
 | Play for 5 Hours | 0.10% | ~8 |
 | Play a Multiplayer Game | 0.10% | ~8 |
+| Rebuild the Retribution | 0.10% | ~8 |
 | It's OUR Homeworld | 0.10% | ~8 |
 | Commodity Selling Guru | 0.10% | ~8 |
 | Win a Multiplayer Game | 0.10% | ~8 |
@@ -76,7 +77,6 @@ Number of Ratings: 429  (23.09.2022)
 | The Everwar | 0.00% | ~0 |
 | The Plague | 0.00% | ~0 |
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
-| Rebuild the Retribution | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,566 (Ranked 199)  

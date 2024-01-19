@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
     "PcReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1048,
+  "EOS_Progressed": 1049,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -3768,6 +3768,11 @@
       "Time": "2024-01-19T20:05:09.020306+00:00",
       "NumProgressed": 1048,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T21:06:27.7295288+00:00",
+      "NumProgressed": 1049,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3779,7 +3784,7 @@
       "Name": "Safe Pair of Hands",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "cool-shirts",
@@ -3803,7 +3808,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "female-conqueror",
@@ -3819,7 +3824,7 @@
       "Name": "That was base",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "hire-lieutenant",
@@ -3827,7 +3832,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "kill-lieutenants",
@@ -3843,7 +3848,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "play-at-night",
@@ -3867,7 +3872,7 @@
       "Name": "Bad Trip",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "rename-lieutenant",
@@ -3891,7 +3896,7 @@
       "Name": "Spread",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 440
+      "UsersEstimate": 441
     },
     {
       "ID": "send-smuggling",
@@ -3915,7 +3920,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "use-submarine",
@@ -3930,15 +3935,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1048,
+      "Progressed": 1049,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-17T04:03:24.3401457+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:05:09.0203058+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:06:27.7295284+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:02:53.6459369+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:05:09.020332+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:03:31.392593+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:06:27.7295502+00:00"
 }

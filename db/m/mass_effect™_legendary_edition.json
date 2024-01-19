@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 266,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4495,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9126,9 +9126,9 @@
       "ID": "achievement_4",
       "SetID": "b9pe172",
       "Name": "Council Legion of Merit",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 1708
+      "UsersEstimate": 1753
     },
     {
       "ID": "achievement_40",
@@ -9666,8 +9666,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:10:24.6119928+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:11:22.1083522+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:03:14.5867966+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:10:24.6121743+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:04:00.2532656+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:11:22.1085162+00:00"
 }

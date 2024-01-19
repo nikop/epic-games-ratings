@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 347413,
+  "EOS_Progressed": 347430,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2856,
+  "EOS_NewPlayers": 2846,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -13999,6 +13999,11 @@
       "Time": "2024-01-19T20:09:06.0387182+00:00",
       "NumProgressed": 347413,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-19T21:09:45.8993465+00:00",
+      "NumProgressed": 347430,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14011,7 +14016,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17371
+      "UsersEstimate": 17372
     },
     {
       "ID": "S02_BRDA",
@@ -14067,7 +14072,7 @@
       "Name": "I feel drawn to it",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "S09_MNSE",
@@ -14075,7 +14080,7 @@
       "Name": "Here to stay",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "S10_GRSB",
@@ -14083,7 +14088,7 @@
       "Name": "Counting on you",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "S11_MMR6",
@@ -14091,7 +14096,7 @@
       "Name": "This is the end",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "S12_ALL",
@@ -14099,7 +14104,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 2084
+      "UsersEstimate": 2085
     },
     {
       "ID": "S13_ALL_HARD",
@@ -14147,7 +14152,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17371
+      "UsersEstimate": 17372
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14323,14 +14328,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6948
+      "UsersEstimate": 6949
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 347413,
+      "Progressed": 347430,
       "Completed": 7
     }
   ],
@@ -14338,8 +14343,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:09:06.038718+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:09:45.899346+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:57:36.0649145+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:09:06.0388148+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:58:01.9643009+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:09:45.8994427+00:00"
 }

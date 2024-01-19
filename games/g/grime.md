@@ -1,7 +1,7 @@
 # GRIME
 [Store](https://store.epicgames.com/en-US/p/grime)  
 [View Rawdata](../../db/g/grime.json)  
-Rating: 4.60 (Ranked 425)  
+Rating: 4.59 (Ranked 453)  
 Number of Ratings: 46  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,7 +22,7 @@ Number of Ratings: 46  (23.09.2022)
 | Jawstag | 0.80% | ~1,351 |
 | Watcher | 0.80% | ~1,351 |
 | Shapely | 0.70% | ~1,182 |
-| Glare | 0.70% | ~1,179 |
+| Glare | 0.70% | ~1,180 |
 | Assimilation | 0.60% | ~1,014 |
 | Host | 0.60% | ~1,011 |
 | Celebration | 0.60% | ~1,014 |
@@ -48,12 +48,12 @@ Number of Ratings: 46  (23.09.2022)
 | Instruments | 0.10% | ~169 |
 | Weakness | 0.10% | ~169 |
 | Generous | 0.10% | ~169 |
-| The Nightmare | 0.10% | ~168 |
-| Touch of Otherwhere | 0.10% | ~168 |
-| Enrich | 0.10% | ~168 |
-| Intensify | 0.10% | ~168 |
+| The Nightmare | 0.10% | ~169 |
+| Touch of Otherwhere | 0.10% | ~169 |
+| Enrich | 0.10% | ~169 |
+| Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,917 (Ranked 85)  
+Progressed: 168,921 (Ranked 85)  
 Completed: 462 (0.27%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 462 (0.27%) (Ranked 268)
 | 2024-01-16 | 168,542 | 461 |
 | 2024-01-17 | 168,696 | 461 |
 | 2024-01-18 | 168,812 | 461 |
-| 2024-01-19 | 168,917 | 462 |
+| 2024-01-19 | 168,921 | 462 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 432)  
 Sum: 465 (Ranked 346)  
@@ -509,3 +509,4 @@ Diff (max vs sum): 86
 | 2024-01-16 | 4.60 | - | 63 | 463 |
 | 2024-01-17 | 4.60 | - | 63 | 464 |
 | 2024-01-18 | 4.60 | - | 63 | 465 |
+| 2024-01-19 | 4.59 | - | 63 | 465 |

@@ -2,7 +2,7 @@
   "ID": "3bb4afc31dd241c787bad056e9b8dbf9",
   "Name": "GRIME",
   "ProductSlug": "grime",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 453,
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 85,
@@ -21,7 +21,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "NumberOfRatings": 46,
   "RatingHistory": [
     {
@@ -1853,6 +1853,12 @@
       "Rating": 4.6,
       "NumberOfAwards": 465,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-01-19T20:57:33.1442935+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 465,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
@@ -1915,9 +1921,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 168917,
+  "EOS_Progressed": 168921,
   "EOS_Completed": 462,
-  "EOS_NewPlayers": 1089,
+  "EOS_NewPlayers": 1083,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23710,6 +23716,11 @@
       "Time": "2024-01-19T20:05:40.3642577+00:00",
       "NumProgressed": 168917,
       "NumCompleted": 462
+    },
+    {
+      "Time": "2024-01-19T21:07:08.9353154+00:00",
+      "NumProgressed": 168921,
+      "NumCompleted": 462
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23834,7 +23845,7 @@
       "Name": "Glare",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1180
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -24058,7 +24069,7 @@
       "Name": "The Nightmare",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "MISC_FINISHNG",
@@ -24066,7 +24077,7 @@
       "Name": "Touch of Otherwhere",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "MISC_OVERLOADITEM",
@@ -24074,7 +24085,7 @@
       "Name": "Enrich",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     },
     {
       "ID": "MISC_OVERLOADTRAIT",
@@ -24082,28 +24093,28 @@
       "Name": "Intensify",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 168
+      "UsersEstimate": 169
     }
   ],
   "AchievementSets": [
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168500,
+      "Progressed": 168504,
       "Completed": 1267
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168917,
+      "Progressed": 168921,
       "Completed": 462
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-18T13:07:11.4279492+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:05:40.3642574+00:00",
+  "LastChanged": "2024-01-19T20:57:33.1442933+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:07:08.9353151+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:57:12.2172017+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:05:40.3643623+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:57:33.1442938+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:07:08.9354465+00:00"
 }

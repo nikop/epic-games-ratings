@@ -5,16 +5,16 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Might be useful… | 38.00% | ~57 |
-| Treasure Hunting | 37.00% | ~56 |
-| Shine! | 31.00% | ~46 |
+| Treasure Hunting | 36.00% | ~54 |
+| Shine! | 30.00% | ~45 |
 | Friend! | 29.00% | ~44 |
-| Uncut Gem | 27.00% | ~40 |
-| Clear as Water | 27.00% | ~40 |
-| Setting Off | 23.00% | ~34 |
-| Card Collector | 23.00% | ~34 |
+| Uncut Gem | 27.00% | ~41 |
+| Clear as Water | 26.00% | ~39 |
+| Setting Off | 23.00% | ~35 |
+| Card Collector | 23.00% | ~35 |
 | Riddlesolver | 21.00% | ~32 |
 | Dungeon Mastery | 20.00% | ~30 |
-| A Strange Proposition | 11.00% | ~16 |
+| A Strange Proposition | 11.00% | ~17 |
 | Card Completionist | 10.00% | ~15 |
 | The Steed | 9.00% | ~14 |
 | The Bodyguard | 7.00% | ~11 |
@@ -27,7 +27,7 @@
 | Traveler Mastery | 5.00% | ~8 |
 | The Plot Thickens | 5.00% | ~8 |
 | Warden Mastery | 4.00% | ~6 |
-| Raider Mastery | 3.00% | ~4 |
+| Raider Mastery | 3.00% | ~5 |
 | Best Pupil | 2.00% | ~3 |
 | FOR JUSTICE! | 2.00% | ~3 |
 | Journey’s End | 2.00% | ~3 |
@@ -45,7 +45,7 @@
 | The New Demon Lord | 0.70% | ~1 |
 | True Drafter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 150 (Ranked 467)  
+Progressed: 151 (Ranked 467)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,6 +129,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-11 | 148 | 0 |
 | 2024-01-12 | 149 | 0 |
 | 2024-01-15 | 150 | 0 |
+| 2024-01-19 | 151 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

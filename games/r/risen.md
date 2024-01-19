@@ -18,7 +18,7 @@ Rating: 4.58 (Ranked 474)
 | The merciful one | 29.00% | ~60 |
 | Ferocious wild boars | 25.00% | ~52 |
 | Idiot | 25.00% | ~52 |
-| Beast slayer | 22.00% | ~46 |
+| Beast slayer | 23.00% | ~48 |
 | Death of a legend | 21.00% | ~44 |
 | Ogre friend | 21.00% | ~44 |
 | Archaeologist | 20.00% | ~42 |

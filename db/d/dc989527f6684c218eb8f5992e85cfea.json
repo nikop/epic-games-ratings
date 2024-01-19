@@ -2,13 +2,13 @@
   "ID": "dc989527f6684c218eb8f5992e85cfea",
   "Name": "Scribble It!",
   "ProductSlug": "scribble-it-c61a6f",
-  "Ranking_Rating": 1014,
+  "Ranking_Rating": 1015,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15713,
+  "EOS_Progressed": 15714,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19481,6 +19481,11 @@
       "Time": "2024-01-19T20:04:47.7793135+00:00",
       "NumProgressed": 15713,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T21:06:00.7808676+00:00",
+      "NumProgressed": 15714,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19580,7 +19585,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -19684,14 +19689,14 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2828
+      "UsersEstimate": 2829
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15713,
+      "Progressed": 15714,
       "Completed": 0
     }
   ],
@@ -19699,8 +19704,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:04:47.7793133+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:06:00.7808671+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.4408266+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:02:34.3348529+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:04:47.7793936+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:03:08.3241064+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:06:00.780985+00:00"
 }

@@ -37,10 +37,10 @@
 | I remember It Like Was Yesterday | 5.00% | ~17 |
 | We Are Not Alone | 4.00% | ~13 |
 | Dark correspondence | 4.00% | ~13 |
+| Full Scoop | 4.00% | ~13 |
 | The Perfect Storm | 4.00% | ~13 |
 | Se7en Seas | 4.00% | ~13 |
 | Immortalized in my heart | 3.00% | ~10 |
-| Full Scoop | 3.00% | ~10 |
 | A Mosaic of Misery | 3.00% | ~10 |
 | Body of Work | 2.00% | ~7 |
 | It was worth a try | 2.00% | ~7 |

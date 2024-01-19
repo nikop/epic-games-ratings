@@ -5,20 +5,20 @@ Rating: 4.53 (Ranked 569)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~5,007 |
-| Keep 'Em Coming | 65.00% | ~4,227 |
-| Snatched Out | 64.00% | ~4,162 |
+| This Is Hayes, Pioneer Station, Signing Off | 77.00% | ~5,008 |
+| Keep 'Em Coming | 65.00% | ~4,228 |
+| Snatched Out | 64.00% | ~4,163 |
 | Cleaning Lethe, One Nest At A Time | 58.00% | ~3,772 |
 | Call Me Snake | 54.00% | ~3,512 |
 | Something Lurks Under The Hills | 53.00% | ~3,447 |
 | This Was No Papercut | 51.00% | ~3,317 |
-| People Person | 48.00% | ~3,121 |
-| The Shrink Hates Me | 48.00% | ~3,121 |
-| Use The Bumper, That's What It's For | 45.00% | ~2,926 |
-| First Steps Into Madness | 45.00% | ~2,926 |
-| Colonial Barrels | 43.00% | ~2,796 |
-| Harper's Hell | 39.00% | ~2,536 |
-| Making a Stand | 38.00% | ~2,471 |
+| People Person | 48.00% | ~3,122 |
+| The Shrink Hates Me | 48.00% | ~3,122 |
+| Use The Bumper, That's What It's For | 45.00% | ~2,927 |
+| First Steps Into Madness | 45.00% | ~2,927 |
+| Colonial Barrels | 43.00% | ~2,797 |
+| Harper's Hell | 39.00% | ~2,537 |
+| Making a Stand | 38.00% | ~2,472 |
 | Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~2,341 |
 | Where It All Begun | 34.00% | ~2,211 |
 | Recouped Investment | 32.00% | ~2,081 |
@@ -37,8 +37,8 @@ Rating: 4.53 (Ranked 569)
 | Frontliner | 18.00% | ~1,171 |
 | One For Every Occasion | 17.00% | ~1,106 |
 | The Cable Guy | 17.00% | ~1,106 |
-| Bandage Lover | 16.00% | ~1,040 |
-| Regicide | 14.00% | ~910 |
+| Bandage Lover | 16.00% | ~1,041 |
+| Regicide | 13.00% | ~846 |
 | This Went Smoothly | 12.00% | ~780 |
 | Flawless Victory | 11.00% | ~715 |
 | Heavy Steps | 11.00% | ~715 |
@@ -51,7 +51,7 @@ Rating: 4.53 (Ranked 569)
 | Perfect Organism | 0.70% | ~46 |
 | This Ain't No Picnic | 0.60% | ~39 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6,503 (Ranked 203)  
+Progressed: 6,504 (Ranked 203)  
 Completed: 3 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 3 (0.05%) (Ranked 344)
 | 2024-01-16 | 6,467 | 3 |
 | 2024-01-17 | 6,480 | 3 |
 | 2024-01-18 | 6,488 | 3 |
-| 2024-01-19 | 6,503 | 3 |
+| 2024-01-19 | 6,504 | 3 |
 ## Awards
 Max (Great Boss Battles): 67  (Ranked 426)  
 Sum: 67 (Ranked 500)  

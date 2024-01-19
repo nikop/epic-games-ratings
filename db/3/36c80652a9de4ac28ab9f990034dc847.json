@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 562,
   "Ranking_EOS_Completed": 142,
   "Ranking_EOS_NewPlayers": 552,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-22T23:00:00+00:00",
     "PcReleaseDate": "2019-08-22T23:00:00+00:00",
@@ -344,9 +344,9 @@
       "ID": "Boss_Cube",
       "SetID": "cla1dpp",
       "Name": "I hate geometry so much!",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Boss_King",
@@ -416,9 +416,9 @@
       "ID": "Pass_Tutorial",
       "SetID": "cla1dpp",
       "Name": "First time here?",
-      "Percentage": 63,
+      "Percentage": 65,
       "XP": 25,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "PvP_Mission",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-10-24T18:58:49.6745587+00:00",
   "FirstSeenAchievements": "2023-08-23T14:02:21.3308024+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:09:50.5662396+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:10:41.2140811+00:00",
   "LastUpdate_AppInfo": "2024-01-18T03:57:07.7032117+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:57:40.0142507+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:09:50.5662513+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:58:06.8500363+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:10:41.2140928+00:00"
 }

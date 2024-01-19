@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1751,
+  "EOS_Progressed": 1752,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4742,6 +4742,11 @@
       "Time": "2024-01-19T17:10:52.8199924+00:00",
       "NumProgressed": 1751,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T21:11:07.8809545+00:00",
+      "NumProgressed": 1752,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4799,9 +4804,9 @@
       "ID": "DOUBLE_AGENT",
       "SetID": "bf13m8j",
       "Name": "Double agent",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 263
+      "UsersEstimate": 245
     },
     {
       "ID": "EARLY_ACCESS_1",
@@ -4809,7 +4814,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "EXPERT_1",
@@ -4905,7 +4910,7 @@
       "Name": "One HIT wonder",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 595
+      "UsersEstimate": 596
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -5025,7 +5030,7 @@
       "Name": "Wanderer",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "WISHMASTER_1",
@@ -5040,15 +5045,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1751,
+      "Progressed": 1752,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:10:12.4843672+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:11:07.8809543+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4928837+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:02:31.5127342+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:10:12.4844131+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:03:05.3329091+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:11:07.8809925+00:00"
 }

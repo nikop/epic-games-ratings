@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17960,
+  "EOS_Progressed": 17963,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 151,
   "EOS_NewCompleters": 0,
@@ -18730,6 +18730,11 @@
       "Time": "2024-01-19T19:03:55.3009156+00:00",
       "NumProgressed": 17960,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-19T21:04:58.93135+00:00",
+      "NumProgressed": 17963,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18781,7 +18786,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "tpote_achievement_15",
@@ -18797,7 +18802,7 @@
       "Name": "Twist of Fate",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "tpote_achievement_17",
@@ -18829,7 +18834,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5747
+      "UsersEstimate": 5748
     },
     {
       "ID": "tpote_achievement_20",
@@ -18845,7 +18850,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5208
+      "UsersEstimate": 5209
     },
     {
       "ID": "tpote_achievement_22",
@@ -18853,7 +18858,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3592
+      "UsersEstimate": 3593
     },
     {
       "ID": "tpote_achievement_23",
@@ -18877,7 +18882,7 @@
       "Name": "Revenge",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "tpote_achievement_26",
@@ -18901,7 +18906,7 @@
       "Name": "Whodunnit",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2155
+      "UsersEstimate": 2156
     },
     {
       "ID": "tpote_achievement_29",
@@ -18909,7 +18914,7 @@
       "Name": "Skilled merchant",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "tpote_achievement_3",
@@ -18917,7 +18922,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5568
+      "UsersEstimate": 5569
     },
     {
       "ID": "tpote_achievement_30",
@@ -18941,7 +18946,7 @@
       "Name": "Jack was here!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "tpote_achievement_33",
@@ -18973,7 +18978,7 @@
       "Name": "Brother Marcus",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "tpote_achievement_37",
@@ -18989,7 +18994,7 @@
       "Name": "Countess Aliena",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "tpote_achievement_39",
@@ -18997,7 +19002,7 @@
       "Name": "The oath",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "tpote_achievement_4",
@@ -19005,7 +19010,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7004
+      "UsersEstimate": 7006
     },
     {
       "ID": "tpote_achievement_40",
@@ -19013,7 +19018,7 @@
       "Name": "The truth revealed",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "tpote_achievement_41",
@@ -19021,7 +19026,7 @@
       "Name": "The End.",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 1616
+      "UsersEstimate": 1617
     },
     {
       "ID": "tpote_achievement_5",
@@ -19061,22 +19066,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6106
+      "UsersEstimate": 6107
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17960,
+      "Progressed": 17963,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:03:59.7076708+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:04:58.9313496+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:02:52.5193652+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:03:59.7077841+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:03:29.8894342+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:04:58.9314545+00:00"
 }

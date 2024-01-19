@@ -32,7 +32,7 @@
 | Ripperdoc | 0.50% | ~5 |
 | Weaponsmith | 0.30% | ~3 |
 | Cyborg | 0.20% | ~2 |
-| Hell Raiser | 0.00% | ~0 |
+| Hell Raiser | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 963 (Ranked 306)  
 Completed: 0 (0.00%) (Ranked 406)  

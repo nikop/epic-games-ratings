@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once Upon a Time | 96.00% | ~1,144 |
-| Waff! | 95.00% | ~1,132 |
-| Into the Barn | 87.00% | ~1,037 |
-| A Prophecy | 85.00% | ~1,013 |
-| Sword, Shield, Fight! | 76.00% | ~906 |
-| A Grand Visit | 72.00% | ~858 |
-| Fun Guy | 63.00% | ~751 |
-| Vibing | 62.00% | ~739 |
+| Once Upon a Time | 96.00% | ~1,145 |
+| Waff! | 95.00% | ~1,133 |
+| Into the Barn | 87.00% | ~1,038 |
+| A Prophecy | 85.00% | ~1,014 |
+| Sword, Shield, Fight! | 76.00% | ~907 |
+| A Grand Visit | 72.00% | ~859 |
+| Fun Guy | 63.00% | ~752 |
+| Vibing | 62.00% | ~740 |
 | Tragic Brave | 54.00% | ~644 |
 | Awakened Spirits | 51.00% | ~608 |
 | Little Shop | 50.00% | ~596 |
-| Surprise! | 46.00% | ~548 |
-| An Actor! | 46.00% | ~548 |
-| Curtain Call | 44.00% | ~524 |
+| Surprise! | 46.00% | ~549 |
+| An Actor! | 46.00% | ~549 |
+| Curtain Call | 44.00% | ~525 |
 | Piece of Cake | 42.00% | ~501 |
 | Gooey Delight! | 42.00% | ~501 |
 | Glimmer of Hope | 42.00% | ~501 |
@@ -38,15 +38,15 @@
 | Stardust | 36.00% | ~429 |
 | Heartbreaker | 36.00% | ~429 |
 | Kidnapped! | 36.00% | ~429 |
-| Trick Question! | 35.00% | ~417 |
-| Pull the Plug | 34.00% | ~405 |
-| Soul Slayer | 34.00% | ~405 |
-| The Downfall | 34.00% | ~405 |
-| All Heart | 34.00% | ~405 |
-| Final Showdown | 34.00% | ~405 |
-| Spot of Tea? | 34.00% | ~405 |
-| Going Home | 34.00% | ~405 |
-| Extraordinary! | 33.00% | ~393 |
+| Trick Question! | 35.00% | ~418 |
+| Pull the Plug | 34.00% | ~406 |
+| Soul Slayer | 34.00% | ~406 |
+| The Downfall | 34.00% | ~406 |
+| All Heart | 34.00% | ~406 |
+| Final Showdown | 34.00% | ~406 |
+| Spot of Tea? | 34.00% | ~406 |
+| Going Home | 34.00% | ~406 |
+| Extraordinary! | 33.00% | ~394 |
 | Mirror, Mirror | 31.00% | ~370 |
 | Flower Power | 28.00% | ~334 |
 | Shopping Spree! | 25.00% | ~298 |
@@ -55,7 +55,7 @@
 | Dance Master | 10.00% | ~119 |
 | Bombs Away! | 9.00% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,192 (Ranked 291)  
+Progressed: 1,193 (Ranked 291)  
 Completed: 91 (7.63%) (Ranked 54)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 91 (7.63%) (Ranked 54)
 | 2024-01-13 | 1,186 | 90 |
 | 2024-01-14 | 1,186 | 91 |
 | 2024-01-15 | 1,189 | 91 |
-| 2024-01-19 | 1,192 | 91 |
+| 2024-01-19 | 1,193 | 91 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

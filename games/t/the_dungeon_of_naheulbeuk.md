@@ -1,45 +1,45 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 454)  
+Rating: 4.59 (Ranked 453)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,046 |
-| Alt+F4 | 11.00% | ~27,365 |
-| Where's that freaking Dwarf? | 9.00% | ~22,389 |
-| Déjà vu | 8.00% | ~19,902 |
-| Sock! SOCK! | 6.00% | ~14,926 |
-| Speedrun | 6.00% | ~14,926 |
+| Sowwy! | 37.00% | ~92,052 |
+| Alt+F4 | 11.00% | ~27,367 |
+| Where's that freaking Dwarf? | 9.00% | ~22,391 |
+| Déjà vu | 8.00% | ~19,903 |
+| Sock! SOCK! | 6.00% | ~14,927 |
+| Speedrun | 6.00% | ~14,927 |
 | A beer, two curses, three companions | 5.00% | ~12,439 |
 | GG EZ | 5.00% | ~12,439 |
 | DM intervention | 5.00% | ~12,439 |
 | Fireproof Wizardess | 5.00% | ~12,439 |
-| Way of the Wimp | 4.00% | ~9,951 |
-| The plot thickens... At the tavern | 4.00% | ~9,951 |
-| Livin' in a dwarven paradise | 3.00% | ~7,463 |
-| The demons' feast | 3.00% | ~7,463 |
-| The Great Library | 3.00% | ~7,463 |
-| Torture and Sensibility | 3.00% | ~7,463 |
-| Urik's Depths | 3.00% | ~7,463 |
-| The Dungeon Master | 3.00% | ~7,463 |
-| The Woman in the High Castle | 3.00% | ~7,463 |
-| Team Building Exercise | 3.00% | ~7,463 |
-| Oh, when I'll be level 10... | 3.00% | ~7,463 |
-| Shiny and Crôm | 2.00% | ~4,975 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,975 |
-| Res Judicata | 2.00% | ~4,975 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,975 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,975 |
-| Dwarf Fortress | 2.00% | ~4,975 |
-| Look but don't touch | 2.00% | ~4,975 |
-| The beards of change | 2.00% | ~4,975 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,975 |
-| Lust and Debauchery | 2.00% | ~4,975 |
-| The Ranger of Chaos | 2.00% | ~4,975 |
-| I am the night | 2.00% | ~4,975 |
-| Thieves' Guild Accreditation | 2.00% | ~4,975 |
+| Way of the Wimp | 4.00% | ~9,952 |
+| The plot thickens... At the tavern | 4.00% | ~9,952 |
+| Livin' in a dwarven paradise | 3.00% | ~7,464 |
+| The demons' feast | 3.00% | ~7,464 |
+| The Great Library | 3.00% | ~7,464 |
+| Torture and Sensibility | 3.00% | ~7,464 |
+| Urik's Depths | 3.00% | ~7,464 |
+| The Dungeon Master | 3.00% | ~7,464 |
+| The Woman in the High Castle | 3.00% | ~7,464 |
+| Team Building Exercise | 3.00% | ~7,464 |
+| Oh, when I'll be level 10... | 3.00% | ~7,464 |
+| Shiny and Crôm | 2.00% | ~4,976 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,976 |
+| Res Judicata | 2.00% | ~4,976 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,976 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,976 |
+| Dwarf Fortress | 2.00% | ~4,976 |
+| Look but don't touch | 2.00% | ~4,976 |
+| The beards of change | 2.00% | ~4,976 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,976 |
+| Lust and Debauchery | 2.00% | ~4,976 |
+| The Ranger of Chaos | 2.00% | ~4,976 |
+| I am the night | 2.00% | ~4,976 |
+| Thieves' Guild Accreditation | 2.00% | ~4,976 |
 | %#*!$*! | 1.00% | ~2,488 |
 | Dead for good | 1.00% | ~2,488 |
 | Gargantua | 1.00% | ~2,488 |
@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,488 |
 | We come in peace | 0.90% | ~2,239 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,990 |
-| Holistic Adventuring Party | 0.70% | ~1,741 |
-| Law and Order | 0.70% | ~1,741 |
+| Holistic Adventuring Party | 0.70% | ~1,742 |
+| Law and Order | 0.70% | ~1,742 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,493 |
 | I'd rather... Just... Sing! | 0.50% | ~1,244 |
 | It's been a hard day's night | 0.50% | ~1,244 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,772 (Ranked 73)  
+Progressed: 248,788 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 9 (0.00%) (Ranked 406)
 | 2024-01-16 | 248,418 | 9 |
 | 2024-01-17 | 248,553 | 9 |
 | 2024-01-18 | 248,677 | 9 |
-| 2024-01-19 | 248,772 | 9 |
+| 2024-01-19 | 248,788 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 576 (Ranked 331)  

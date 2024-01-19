@@ -36,8 +36,8 @@ Number of Ratings: 98  (23.09.2022)
 | The Show Must Go On | 8.00% | ~800 |
 | Tosca | 8.00% | ~800 |
 | 12th Bottle of the Isonzo | 6.00% | ~600 |
+| Cercatore d'Oro | 6.00% | ~600 |
 | The Enlightment | 6.00% | ~600 |
-| Cercatore d'Oro | 5.00% | ~500 |
 | Generalissimo | 4.00% | ~400 |
 | Farewell to Arms | 3.00% | ~300 |
 | "O La Vittoria, O Tutti Accoppati" | 3.00% | ~300 |

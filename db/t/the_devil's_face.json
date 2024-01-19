@@ -2,9 +2,9 @@
   "ID": "b022b60ee02545788d645fe353f5ddd6",
   "Name": "The Devil\u0027s Face",
   "ProductSlug": "the-devils-face-356c31",
-  "Ranking_EOS_Progress": 340,
+  "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 655,
+  "EOS_Progressed": 656,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -2894,6 +2894,11 @@
       "Time": "2024-01-17T23:04:15.67019+00:00",
       "NumProgressed": 655,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T21:05:11.6025091+00:00",
+      "NumProgressed": 656,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 14,
@@ -2905,15 +2910,15 @@
       "Name": "The gateway to the underworld",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "296pn27",
       "Name": "Is it merely a dream?",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 328
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -2969,7 +2974,7 @@
       "Name": "This looks really bad",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -3016,14 +3021,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 655,
+      "Progressed": 656,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:04:09.8524495+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:05:11.6025041+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.7712536+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:58:29.7169493+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:04:09.8524649+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:59:11.2960956+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:05:11.6025639+00:00"
 }

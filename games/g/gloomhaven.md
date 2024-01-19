@@ -6,46 +6,46 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,155 |
-| Overkill | 33.00% | ~11,424 |
-| Vaccine Incoming | 31.00% | ~10,732 |
-| A normal day in Gloomhaven | 29.00% | ~10,039 |
-| Spread the plague | 26.00% | ~9,001 |
-| Get over here! | 24.00% | ~8,308 |
-| Just when I thought I was out... | 19.00% | ~6,577 |
-| Mine... All Mine... | 16.00% | ~5,539 |
-| Precious! | 15.00% | ~5,193 |
-| Grizzled veteran | 14.00% | ~4,847 |
-| Anatomy Lesson | 14.00% | ~4,847 |
-| Who's the Boss? | 12.00% | ~4,154 |
-| You activated my trap card! | 12.00% | ~4,154 |
-| Obstacle race | 12.00% | ~4,154 |
-| Light of my life | 12.00% | ~4,154 |
-| Augmented rat | 10.00% | ~3,462 |
-| Doom and gloom | 9.00% | ~3,116 |
-| Dungeon Veteran | 8.00% | ~2,769 |
-| Pack leader | 7.00% | ~2,423 |
-| Pain is your friend | 7.00% | ~2,423 |
-| Black death | 7.00% | ~2,423 |
-| Play it again, Sam | 7.00% | ~2,423 |
-| Caught off guard | 6.00% | ~2,077 |
-| Quad damage | 6.00% | ~2,077 |
-| Power Up! | 5.00% | ~1,731 |
-| Merchant of doom | 5.00% | ~1,731 |
-| Now you see me... | 5.00% | ~1,731 |
+| I'm not dead yet | 38.00% | ~13,162 |
+| Overkill | 33.00% | ~11,430 |
+| Vaccine Incoming | 31.00% | ~10,737 |
+| A normal day in Gloomhaven | 29.00% | ~10,044 |
+| Spread the plague | 26.00% | ~9,005 |
+| Get over here! | 24.00% | ~8,313 |
+| Just when I thought I was out... | 19.00% | ~6,581 |
+| Mine... All Mine... | 16.00% | ~5,542 |
+| Precious! | 15.00% | ~5,195 |
+| Grizzled veteran | 14.00% | ~4,849 |
+| Anatomy Lesson | 14.00% | ~4,849 |
+| Who's the Boss? | 12.00% | ~4,156 |
+| You activated my trap card! | 12.00% | ~4,156 |
+| Obstacle race | 12.00% | ~4,156 |
+| Light of my life | 12.00% | ~4,156 |
+| Augmented rat | 10.00% | ~3,464 |
+| Doom and gloom | 9.00% | ~3,117 |
+| Dungeon Veteran | 8.00% | ~2,771 |
+| Pack leader | 7.00% | ~2,425 |
+| Pain is your friend | 7.00% | ~2,425 |
+| Black death | 7.00% | ~2,425 |
+| Play it again, Sam | 7.00% | ~2,425 |
+| Caught off guard | 6.00% | ~2,078 |
+| Quad damage | 6.00% | ~2,078 |
+| Power Up! | 5.00% | ~1,732 |
+| Merchant of doom | 5.00% | ~1,732 |
+| Now you see me... | 5.00% | ~1,732 |
 | The Pro from Dover | 4.00% | ~1,385 |
 | Pretty lights! | 4.00% | ~1,385 |
 | I hate portals | 3.00% | ~1,039 |
 | Down the hatch | 3.00% | ~1,039 |
 | An eye for an eye | 3.00% | ~1,039 |
 | The Cephalophore | 3.00% | ~1,039 |
-| From Gloom, only greed and death emerges | 2.00% | ~692 |
-| The Rat King | 2.00% | ~692 |
-| How to train your Drake | 2.00% | ~692 |
-| Master Assassin | 2.00% | ~692 |
-| The Sniper | 2.00% | ~692 |
-| Grin and bear it | 2.00% | ~692 |
-| An axe to grind | 2.00% | ~692 |
+| From Gloom, only greed and death emerges | 2.00% | ~693 |
+| The Rat King | 2.00% | ~693 |
+| How to train your Drake | 2.00% | ~693 |
+| Master Assassin | 2.00% | ~693 |
+| The Sniper | 2.00% | ~693 |
+| Grin and bear it | 2.00% | ~693 |
+| An axe to grind | 2.00% | ~693 |
 | Betray this | 1.00% | ~346 |
 | Add a bit of colour | 1.00% | ~346 |
 | Captain hooked | 1.00% | ~346 |
@@ -54,7 +54,7 @@ Number of Ratings: 68  (23.09.2022)
 | The Pacifist | 0.50% | ~173 |
 | The evil that men do | 0.50% | ~173 |
 | Born Support | 0.50% | ~173 |
-| MacReady Steady.. Go! | 0.40% | ~138 |
+| MacReady Steady.. Go! | 0.40% | ~139 |
 | A tough job | 0.30% | ~104 |
 | The Jaws of victory! | 0.30% | ~104 |
 | Pull out the big guns | 0.30% | ~104 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,618 (Ranked 140)  
+Progressed: 34,636 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.00%) (Ranked 406)
 | 2024-01-16 | 34,076 | 1 |
 | 2024-01-17 | 34,284 | 1 |
 | 2024-01-18 | 34,462 | 1 |
-| 2024-01-19 | 34,618 | 1 |
+| 2024-01-19 | 34,636 | 1 |
 ## Awards
 Max (Character Customization): 3,622  (Ranked 96)  
 Sum: 8,494 (Ranked 110)  

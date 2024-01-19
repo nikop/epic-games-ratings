@@ -47,7 +47,7 @@ Number of Ratings: 85  (23.09.2022)
 | Toilet Break | 2.00% | ~10 |
 | Against All Odds | 2.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 519 (Ranked 357)  
+Progressed: 519 (Ranked 358)  
 Completed: 6 (1.16%) (Ranked 165)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,9 +86,9 @@ Completed: 6 (1.16%) (Ranked 165)
 | 2024-01-18 | 517 | 6 |
 | 2024-01-19 | 519 | 6 |
 ## Awards
-Max (Great Boss Battles): 35  (Ranked 507)  
+Max (Great Boss Battles): 35  (Ranked 508)  
 Sum: 35 (Ranked 539)  
-Diff (max vs sum): -32  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

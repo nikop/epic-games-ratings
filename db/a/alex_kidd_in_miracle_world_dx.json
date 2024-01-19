@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 190,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 370,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 449,
+  "EOS_Progressed": 450,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.89,
   "EosHistory": [
@@ -1064,6 +1064,11 @@
       "Time": "2024-01-19T14:04:07.6969396+00:00",
       "NumProgressed": 449,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T21:05:07.9335561+00:00",
+      "NumProgressed": 450,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1155,7 +1160,7 @@
       "Name": "Pacifist",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "NO_PURCHASES",
@@ -1195,14 +1200,14 @@
       "Name": "Magic Ball",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     }
   ],
   "AchievementSets": [
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 449,
+      "Progressed": 450,
       "Completed": 4
     }
   ],
@@ -1210,8 +1215,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:04:06.9708926+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:05:07.9335556+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:26.0379231+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:56:58.0594315+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:04:06.9709068+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:57:14.6847539+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:05:07.9335715+00:00"
 }

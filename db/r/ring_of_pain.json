@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243218,
+  "EOS_Progressed": 243224,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32369,6 +32369,11 @@
       "Time": "2024-01-19T20:10:25.6262976+00:00",
       "NumProgressed": 243218,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-19T21:11:23.3043565+00:00",
+      "NumProgressed": 243224,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32714,9 +32719,9 @@
       "ID": "HIGHDEFENSE",
       "SetID": "5l8oe0h",
       "Name": "Juggernaut",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 973
     },
     {
       "ID": "HIGHHEALTH",
@@ -33483,13 +33488,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243218,
+      "Progressed": 243224,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4698,
+      "Progressed": 4704,
       "Completed": 429
     }
   ],
@@ -33497,8 +33502,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:10:25.6262974+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:11:23.3043564+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:59:38.5848459+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:10:25.6265359+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:00:44.6197748+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:11:23.3046022+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2315,9 +2315,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22567,
+  "EOS_Progressed": 22568,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14435,6 +14435,11 @@
       "Time": "2024-01-19T20:09:57.080611+00:00",
       "NumProgressed": 22567,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-19T21:10:49.3075193+00:00",
+      "NumProgressed": 22568,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14550,7 +14555,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5190
+      "UsersEstimate": 5191
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14614,7 +14619,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4513
+      "UsersEstimate": 4514
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14662,7 +14667,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3159
+      "UsersEstimate": 3160
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14678,7 +14683,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5867
+      "UsersEstimate": 5868
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14686,7 +14691,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3159
+      "UsersEstimate": 3160
     },
     {
       "ID": "STORY_TOWER",
@@ -14798,7 +14803,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14821,13 +14826,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22567,
+      "Progressed": 22568,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10493,
+      "Progressed": 10494,
       "Completed": 29
     }
   ],
@@ -14835,8 +14840,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-19T17:03:48.3111876+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:09:57.0806109+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:10:49.3075189+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:03:13.3280945+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:09:57.0806759+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:03:58.5655805+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:10:49.3076074+00:00"
 }

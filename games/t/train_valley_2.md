@@ -6,40 +6,40 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 74.00% | ~321,102 |
-| Full garage | 61.00% | ~264,692 |
-| To the eyeballs! | 51.00% | ~221,300 |
-| Individual delivery | 47.00% | ~203,943 |
-| Non-Stop | 45.00% | ~195,265 |
-| Juggler | 36.00% | ~156,212 |
-| Forgot something | 35.00% | ~151,873 |
-| Close call! | 31.00% | ~134,516 |
-| Get out my way | 28.00% | ~121,498 |
-| Common cause | 26.00% | ~112,820 |
-| Critical care | 26.00% | ~112,820 |
-| Mega-railroad | 23.00% | ~99,802 |
-| Upgrade complete | 23.00% | ~99,802 |
-| Just in time! | 18.00% | ~78,106 |
-| Builder | 17.00% | ~73,767 |
-| Long Haul | 17.00% | ~73,655 |
-| Steam Age | 16.00% | ~69,428 |
-| Multilevel road | 15.00% | ~65,088 |
-| Bridgemania | 14.00% | ~60,749 |
-| Need to think | 14.00% | ~60,749 |
-| The Tortoise | 12.00% | ~52,071 |
-| Beginner | 11.00% | ~47,731 |
-| Without a lunch break | 11.00% | ~47,731 |
-| One way | 10.00% | ~43,392 |
-| Relocation | 10.00% | ~43,392 |
-| Industrial Age | 9.00% | ~39,053 |
-| Just One More Valley | 9.00% | ~38,994 |
-| Prick of conscience | 8.00% | ~34,714 |
+| Dealmaker | 74.00% | ~321,110 |
+| Full garage | 61.00% | ~264,699 |
+| To the eyeballs! | 51.00% | ~221,305 |
+| Individual delivery | 47.00% | ~203,948 |
+| Non-Stop | 45.00% | ~195,269 |
+| Juggler | 36.00% | ~156,216 |
+| Forgot something | 35.00% | ~151,876 |
+| Close call! | 31.00% | ~134,519 |
+| Get out my way | 28.00% | ~121,501 |
+| Common cause | 26.00% | ~112,822 |
+| Critical care | 26.00% | ~112,822 |
+| Mega-railroad | 23.00% | ~99,804 |
+| Upgrade complete | 23.00% | ~99,804 |
+| Just in time! | 18.00% | ~78,108 |
+| Builder | 17.00% | ~73,768 |
+| Long Haul | 17.00% | ~73,656 |
+| Steam Age | 16.00% | ~69,429 |
+| Multilevel road | 15.00% | ~65,090 |
+| Bridgemania | 14.00% | ~60,750 |
+| Need to think | 14.00% | ~60,750 |
+| The Tortoise | 12.00% | ~52,072 |
+| Beginner | 11.00% | ~47,733 |
+| Without a lunch break | 11.00% | ~47,733 |
+| One way | 10.00% | ~43,393 |
+| Relocation | 10.00% | ~43,393 |
+| Industrial Age | 9.00% | ~39,054 |
+| Just One More Valley | 9.00% | ~38,995 |
+| Prick of conscience | 8.00% | ~34,715 |
 | Missed it! | 7.00% | ~30,375 |
-| At the last moment! | 6.00% | ~26,035 |
-| Overseer | 6.00% | ~26,035 |
-| Highlander | 5.00% | ~21,696 |
-| Jewelry accuracy | 5.00% | ~21,696 |
-| Stargazer | 5.00% | ~21,696 |
+| At the last moment! | 6.00% | ~26,036 |
+| Overseer | 6.00% | ~26,036 |
+| Highlander | 5.00% | ~21,697 |
+| Jewelry accuracy | 5.00% | ~21,697 |
+| Stargazer | 5.00% | ~21,697 |
 | Bridge builder | 4.00% | ~17,357 |
 | Electrical Age | 4.00% | ~17,357 |
 | Engineer | 4.00% | ~17,357 |
@@ -49,13 +49,13 @@ Number of Ratings: 87  (23.09.2022)
 | Living it large | 3.00% | ~13,018 |
 | Sabotage | 3.00% | ~13,018 |
 | Test Batch | 3.00% | ~12,998 |
-| Astronomer | 2.00% | ~8,678 |
-| Innovator | 2.00% | ~8,678 |
-| Lucky vandal | 2.00% | ~8,678 |
-| The Hare | 2.00% | ~8,678 |
-| Vandal | 2.00% | ~8,678 |
-| Will work | 2.00% | ~8,678 |
-| Woodcutter | 2.00% | ~8,678 |
+| Astronomer | 2.00% | ~8,679 |
+| Innovator | 2.00% | ~8,679 |
+| Lucky vandal | 2.00% | ~8,679 |
+| The Hare | 2.00% | ~8,679 |
+| Vandal | 2.00% | ~8,679 |
+| Will work | 2.00% | ~8,679 |
+| Woodcutter | 2.00% | ~8,679 |
 | Occupied! | 2.00% | ~8,665 |
 | Achiever | 1.00% | ~4,339 |
 | Environmental activist | 1.00% | ~4,339 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~433 |
 | World Zapper | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,922 (Ranked 46)  
+Progressed: 433,932 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 24 (0.01%) (Ranked 379)
 | 2024-01-16 | 433,332 | 24 |
 | 2024-01-17 | 433,553 | 24 |
 | 2024-01-18 | 433,732 | 24 |
-| 2024-01-19 | 433,922 | 24 |
+| 2024-01-19 | 433,932 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,060  (Ranked 159)  
 Sum: 2,197 (Ranked 215)  

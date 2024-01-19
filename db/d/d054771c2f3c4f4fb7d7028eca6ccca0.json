@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 147,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4361,
+  "EOS_Progressed": 4367,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5494,6 +5494,11 @@
       "Time": "2024-01-19T20:05:01.8279407+00:00",
       "NumProgressed": 4361,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T21:06:19.0649829+00:00",
+      "NumProgressed": 4367,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5520,9 +5525,9 @@
       "ID": "ACHIEVEMENT_08",
       "SetID": "c167foo",
       "Name": "Wicked Zeroes",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -5530,7 +5535,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1485
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5570,7 +5575,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -5610,7 +5615,7 @@
       "Name": "Worthy Badge",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 959
+      "UsersEstimate": 961
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -5690,7 +5695,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1744
+      "UsersEstimate": 1747
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5706,7 +5711,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2006
+      "UsersEstimate": 2009
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5824,9 +5829,9 @@
       "ID": "ACHIEVEMENT_49",
       "SetID": "c167foo",
       "Name": "I\u0027m your friend to the end",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 22
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -5881,20 +5886,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4361,
+      "Progressed": 4367,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 139,
-      "Completed": 139
+      "Progressed": 145,
+      "Completed": 145
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:05:01.8279404+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:06:19.0649824+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.8664152+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:58:00.0066772+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:05:01.8280025+00:00"
+  "LastUpdate_Ratings": "2024-01-19T20:58:33.497916+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:06:19.0650466+00:00"
 }

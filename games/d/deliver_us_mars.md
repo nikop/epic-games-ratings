@@ -1,45 +1,45 @@
 # Deliver Us Mars
 [Store](https://store.epicgames.com/en-US/p/deliver-us-mars)  
 [View Rawdata](../../db/d/deliver_us_mars.json)  
-Rating: 4.15 (Ranked 1,006)  
+Rating: 4.15 (Ranked 1,007)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 49.00% | ~208 |
-| Take a look | 29.00% | ~123 |
-| Reading is fundamental | 28.00% | ~119 |
-| The beginning of a beautiful collection | 27.00% | ~114 |
-| Home Is... | 22.00% | ~93 |
-| Moonbear | 8.00% | ~34 |
-| Getting the hang of it | 6.00% | ~25 |
-| On the Precipice | 5.00% | ~21 |
-| Want to Go to Space? | 5.00% | ~21 |
-| Piecing the story together | 4.00% | ~17 |
-| The Dream for These Folks | 4.00% | ~17 |
-| Like Animals | 4.00% | ~17 |
-| A Nice Place to Live | 4.00% | ~17 |
-| Not the Rabbits, Not the Bees | 4.00% | ~17 |
-| Desperate Times | 4.00% | ~17 |
-| Stellar extra-vehicular activities score | 3.00% | ~13 |
-| Cinephile | 3.00% | ~13 |
-| Delivered Us Mars | 3.00% | ~13 |
-| Wants and Needs | 3.00% | ~13 |
-| When ACE met AYLA | 2.00% | ~8 |
-| Kat-like reflexes | 1.00% | ~4 |
-| Kats always land on their feet | 0.90% | ~4 |
-| As the story unfolds... | 0.50% | ~2 |
-| Quick like a Kat | 0.20% | ~1 |
-| Peruser | 0.20% | ~1 |
-| Pannapictagraphist | 0.20% | ~1 |
-| Curiosity didn't kill the Kat | 0.20% | ~1 |
-| Chronicler | 0.20% | ~1 |
-| Who waits five minutes, seriously? | 0.20% | ~1 |
+| Better jot that down | 57.00% | ~392 |
+| Take a look | 37.00% | ~255 |
+| Reading is fundamental | 35.00% | ~241 |
+| The beginning of a beautiful collection | 32.00% | ~220 |
+| Home Is... | 23.00% | ~158 |
+| Moonbear | 14.00% | ~96 |
+| Getting the hang of it | 11.00% | ~76 |
+| Want to Go to Space? | 11.00% | ~76 |
+| On the Precipice | 7.00% | ~48 |
+| Piecing the story together | 6.00% | ~41 |
+| Like Animals | 6.00% | ~41 |
+| A Nice Place to Live | 6.00% | ~41 |
+| Not the Rabbits, Not the Bees | 6.00% | ~41 |
+| Desperate Times | 6.00% | ~41 |
+| Cinephile | 5.00% | ~34 |
+| Delivered Us Mars | 5.00% | ~34 |
+| The Dream for These Folks | 5.00% | ~34 |
+| Wants and Needs | 5.00% | ~34 |
+| Stellar extra-vehicular activities score | 4.00% | ~28 |
+| When ACE met AYLA | 2.00% | ~14 |
+| Kat-like reflexes | 2.00% | ~14 |
+| Kats always land on their feet | 1.00% | ~7 |
+| As the story unfolds... | 0.40% | ~3 |
+| The Gang | 0.40% | ~3 |
+| Curiosity didn't kill the Kat | 0.30% | ~2 |
+| Chronicler | 0.30% | ~2 |
+| Quick like a Kat | 0.10% | ~1 |
+| Peruser | 0.10% | ~1 |
+| Pannapictagraphist | 0.10% | ~1 |
+| Who waits five minutes, seriously? | 0.10% | ~1 |
 | Simulacrum | 0.00% | ~0 |
 | Their batteries were low and it got dark | 0.00% | ~0 |
 | Shai-Hulud? | 0.00% | ~0 |
-| The Gang | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 424 (Ranked 372)  
+Progressed: 688 (Ranked 335)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -50,7 +50,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2023-11-07 | 8 | 0 |
 | 2023-11-21 | 9 | 0 |
 | 2023-11-22 | 11 | 0 |
-| 2024-01-19 | 424 | 0 |
+| 2024-01-19 | 688 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

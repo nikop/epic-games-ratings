@@ -4,8 +4,8 @@
   "ProductSlug": "one-military-camp-8db1f6",
   "Ranking_EOS_Progress": 407,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 415,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-07-20T13:00:00+00:00",
     "PcReleaseDate": "2023-07-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 301,
+  "EOS_Progressed": 302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1349,6 +1349,11 @@
       "Time": "2024-01-19T15:03:59.6062877+00:00",
       "NumProgressed": 301,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T21:04:54.5369206+00:00",
+      "NumProgressed": 302,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-17T17:03:41.4004468+00:00",
@@ -1712,14 +1717,14 @@
     {
       "ID": "c504de6",
       "IsBase": true,
-      "Progressed": 301,
+      "Progressed": 302,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-20T19:59:50.2241543+00:00",
   "FirstSeenAchievements": "2023-06-23T10:04:05.7234618+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:03:56.3219492+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:04:54.5369201+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.4606605+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:59:15.8941265+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:03:56.3219833+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:00:14.9224999+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:04:54.5369573+00:00"
 }

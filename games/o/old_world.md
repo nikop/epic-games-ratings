@@ -47,6 +47,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Furious Family | 2.00% | ~340 |
 | Acropolis | 2.00% | ~340 |
 | Apadana | 2.00% | ~340 |
+| Colossus | 2.00% | ~340 |
 | Great Ziggurat | 2.00% | ~340 |
 | Ishtar Gate | 2.00% | ~340 |
 | Lighthouse | 2.00% | ~340 |
@@ -72,7 +73,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Sages | 1.00% | ~170 |
 | Statesmen | 1.00% | ~170 |
 | Hittite Iron | 1.00% | ~170 |
-| Colossus | 1.00% | ~170 |
 | Temple of Solomon | 1.00% | ~170 |
 | Mausoleum | 1.00% | ~170 |
 | Learn to Play 3 | 1.00% | ~170 |
@@ -95,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 0.90% | ~153 |
 | Capable | 0.80% | ~136 |
 | Conqueror | 0.80% | ~136 |
+| Invincible | 0.80% | ~136 |
 | Ready | 0.80% | ~136 |
 | Subjugator | 0.80% | ~136 |
 | Riders | 0.80% | ~136 |
@@ -108,11 +109,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cimmerian Archer | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
-| Invincible | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
 | Hunters | 0.70% | ~119 |
 | Babylonia | 0.70% | ~119 |
+| Hittite Paganism | 0.70% | ~119 |
 | Industrial Progress | 0.70% | ~119 |
 | Enlightenment | 0.70% | ~119 |
 | Gnosticism | 0.70% | ~119 |
@@ -123,6 +124,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.70% | ~119 |
 | Jerwan Aqueduct | 0.70% | ~119 |
 | Royal Library | 0.70% | ~119 |
+| Yazilikaya | 0.70% | ~119 |
 | Devout | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
 | Clerics | 0.60% | ~102 |
@@ -130,17 +132,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
-| Hittite Paganism | 0.60% | ~102 |
 | Revelation | 0.60% | ~102 |
 | Kushite Cavalry | 0.60% | ~102 |
+| Turreted Elephant | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
-| Yazilikaya | 0.60% | ~102 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
 | Old | 0.50% | ~85 |
 | Learn to Play 5 | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
-| Turreted Elephant | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
 | Jebel Barkal | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
@@ -185,6 +185,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
+| The Great Mage | 0.20% | ~34 |
 | Kush | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
@@ -289,7 +290,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Network Game | 0.10% | ~17 |
 | Win a Play-By-Cloud Game | 0.10% | ~17 |
 | Five Cults | 0.10% | ~17 |
-| The Great Mage | 0.10% | ~17 |
 | Pilgrimage | 0.10% | ~17 |
 | Patriarch St Paul | 0.10% | ~17 |
 | Hypatia the Teacher | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,004 (Ranked 170)  
+Progressed: 17,006 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 17,004 | 5 |
+| 2024-01-19 | 17,006 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,939 (Ranked 224)  

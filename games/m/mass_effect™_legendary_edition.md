@@ -14,7 +14,7 @@
 | Honorarium of Corporate Service | 44.00% | ~1,978 |
 | Turian Ally | 40.00% | ~1,798 |
 | Medal of Exploration II | 39.00% | ~1,753 |
-| Council Legion of Merit | 38.00% | ~1,708 |
+| Council Legion of Merit | 39.00% | ~1,753 |
 | Missing in Action | 37.00% | ~1,663 |
 | Medal of Honor | 36.00% | ~1,618 |
 | Meritorious Service Medal | 36.00% | ~1,618 |

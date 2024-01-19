@@ -46,7 +46,7 @@ Number of Ratings: 28  (23.09.2022)
 | Mega-railroad | 0.60% | ~4 |
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 668 (Ranked 339)  
+Progressed: 668 (Ranked 340)  
 Completed: 2 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |

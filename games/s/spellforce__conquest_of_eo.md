@@ -41,13 +41,13 @@
 | Friend of Windholme | 10.00% | ~15 |
 | Defeat Gor | 9.00% | ~14 |
 | Defeat Uram | 9.00% | ~14 |
+| Fireforge | 9.00% | ~14 |
 | A Monopoly of Might | 9.00% | ~14 |
+| Friend of Uram Gor | 9.00% | ~14 |
 | A Joke | 9.00% | ~14 |
 | Yngrid's Tale | 8.00% | ~12 |
 | The Forge of Regan Gor | 8.00% | ~12 |
 | Tuscari Sea Portal | 8.00% | ~12 |
-| Fireforge | 8.00% | ~12 |
-| Friend of Uram Gor | 8.00% | ~12 |
 | Defeat Hokan | 7.00% | ~11 |
 | Defeat Ianna | 7.00% | ~11 |
 | Defeat Raith | 7.00% | ~11 |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 265,
   "Ranking_Popularity": 527,
   "Ranking_PopularitySum": 401,
-  "Ranking_EOS_Progress": 287,
+  "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1241,
+  "EOS_Progressed": 1243,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -4297,6 +4297,11 @@
       "Time": "2024-01-19T20:09:39.1750627+00:00",
       "NumProgressed": 1241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T21:10:27.0581345+00:00",
+      "NumProgressed": 1243,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4317,7 +4322,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -4413,7 +4418,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "Deepstrike",
@@ -4453,7 +4458,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4549,7 +4554,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "RanaCampaign",
@@ -4573,7 +4578,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4637,7 +4642,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "WielderLevel2",
@@ -4645,7 +4650,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "WielderLevel3",
@@ -4740,15 +4745,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1241,
+      "Progressed": 1243,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:09:39.1750624+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:10:27.0581342+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-19T20:02:35.3859481+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:09:39.1751197+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:03:09.584025+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:10:27.0581852+00:00"
 }

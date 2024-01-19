@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16561,
+  "EOS_Progressed": 16562,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 254,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -18589,6 +18589,11 @@
       "Time": "2024-01-19T20:10:05.7824193+00:00",
       "NumProgressed": 16561,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2024-01-19T21:10:59.59531+00:00",
+      "NumProgressed": 16562,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 34,
@@ -18704,7 +18709,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7121
+      "UsersEstimate": 7122
     },
     {
       "ID": "ACH15",
@@ -18776,7 +18781,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4471
+      "UsersEstimate": 4472
     },
     {
       "ID": "ACH24",
@@ -18832,7 +18837,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1490
+      "UsersEstimate": 1491
     },
     {
       "ID": "ACH31",
@@ -18871,7 +18876,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16561,
+      "Progressed": 16562,
       "Completed": 106
     }
   ],
@@ -18879,8 +18884,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-19T20:10:05.7824191+00:00",
+  "LastChanged_Achievements": "2024-01-19T21:10:59.5953097+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T19:59:16.4609899+00:00",
-  "LastUpdate_Achievements": "2024-01-19T20:10:05.782527+00:00"
+  "LastUpdate_Ratings": "2024-01-19T21:00:15.668928+00:00",
+  "LastUpdate_Achievements": "2024-01-19T21:10:59.5954161+00:00"
 }

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Super Seducer | 52.00% | ~152 |
 | Um, ok... | 52.00% | ~152 |
-| Super Seducer | 51.00% | ~149 |
 | Congratulations, you are a sadist | 47.00% | ~137 |
-| Superstar-crossed lovers | 40.00% | ~117 |
+| Superstar-crossed lovers | 41.00% | ~120 |
 | A leader, you are not | 33.00% | ~96 |
 | Comedy Killer | 32.00% | ~93 |
 | Good job, nerd | 32.00% | ~93 |

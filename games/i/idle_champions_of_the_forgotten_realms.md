@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,190 |
+| A Brief Tour of the Realms | 4.00% | ~10,191 |
 | Beast Intentions | 2.00% | ~5,095 |
 | The Cursed Farmer | 2.00% | ~5,095 |
 | The Mad Wizard | 2.00% | ~5,095 |
@@ -61,11 +61,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.30% | ~764 |
 | Rescue in the Jungle | 0.30% | ~764 |
 | Pros and CONs | 0.20% | ~510 |
+| Tall Tales | 0.20% | ~442 |
 | Wet Feet | 0.20% | ~510 |
 | Hatchlings Underfoot | 0.20% | ~510 |
 | Don't Look Up! | 0.20% | ~510 |
 | Heavy Burden | 0.20% | ~510 |
 | Vecna Lives! | 0.20% | ~442 |
+| Vecna Loots! | 0.20% | ~442 |
 | Homecoming | 0.20% | ~510 |
 | The Lost Heir of Omu | 0.20% | ~510 |
 | The Forbidden City | 0.20% | ~510 |
@@ -111,7 +113,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Keep Your Friends Close | 0.10% | ~221 |
 | Friends and Foes | 0.10% | ~221 |
 | And Your Enemies Closer | 0.10% | ~221 |
-| Tall Tales | 0.10% | ~221 |
 | Nightmare Rats! | 0.10% | ~221 |
 | An Unexpected Geist | 0.10% | ~221 |
 | Back to Nature | 0.10% | ~221 |
@@ -182,7 +183,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Best Thay Ever | 0.10% | ~221 |
 | Overwhelmed with Knowledge | 0.10% | ~221 |
 | A Demi-god's Defender | 0.10% | ~221 |
-| Vecna Loots! | 0.10% | ~221 |
 | Well Equipped | 0.10% | ~221 |
 | Friends of the Forest | 0.10% | ~255 |
 | More Than Well Equipped | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,752 (Ranked 71)  
+Progressed: 254,764 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,752 | 2,624 |
+| 2024-01-19 | 254,764 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,565 (Ranked 41)  

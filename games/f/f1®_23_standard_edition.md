@@ -5,45 +5,45 @@ Rating: 4.64 (Ranked 347)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,784 |
-| On the Top Step | 83.00% | ~15,309 |
-| Setting up for Success | 70.00% | ~12,911 |
-| Team Orders | 68.00% | ~12,542 |
-| Engineer | 46.00% | ~8,484 |
-| Familiar Faces | 42.00% | ~7,746 |
-| Going the Extra Mile | 36.00% | ~6,640 |
-| Sharing the Love | 33.00% | ~6,087 |
-| Hitting a Season | 28.00% | ~5,164 |
-| A Dozen Pieces | 25.00% | ~4,611 |
-| Making History | 25.00% | ~4,611 |
-| Challenge Yourself | 24.00% | ~4,427 |
-| Network Success | 23.00% | ~4,242 |
-| Writing a new Chapter | 20.00% | ~3,689 |
-| Spring Cleaning | 18.00% | ~3,320 |
-| Reduce | 15.00% | ~2,767 |
-| Ups and Downs | 15.00% | ~2,767 |
+| Getting on the Step | 91.00% | ~16,790 |
+| On the Top Step | 83.00% | ~15,314 |
+| Setting up for Success | 70.00% | ~12,915 |
+| Team Orders | 68.00% | ~12,546 |
+| Engineer | 46.00% | ~8,487 |
+| Familiar Faces | 42.00% | ~7,749 |
+| Going the Extra Mile | 36.00% | ~6,642 |
+| Sharing the Love | 33.00% | ~6,088 |
+| Hitting a Season | 28.00% | ~5,166 |
+| A Dozen Pieces | 25.00% | ~4,612 |
+| Making History | 25.00% | ~4,612 |
+| Challenge Yourself | 24.00% | ~4,428 |
+| Network Success | 23.00% | ~4,244 |
+| Writing a new Chapter | 20.00% | ~3,690 |
+| Spring Cleaning | 18.00% | ~3,321 |
+| Reduce | 15.00% | ~2,768 |
+| Ups and Downs | 15.00% | ~2,768 |
 | Crucial Combo | 13.00% | ~2,398 |
 | Proving Them Wrong | 13.00% | ~2,398 |
-| Reuse | 12.00% | ~2,213 |
-| Gathering Dust | 11.00% | ~2,029 |
-| One for the Book | 11.00% | ~2,029 |
-| Eagle Eye | 10.00% | ~1,844 |
-| All in a Weekend's Work | 10.00% | ~1,844 |
-| Oil and Water | 10.00% | ~1,844 |
-| Friendly Competition | 10.00% | ~1,844 |
-| Switcheroo | 10.00% | ~1,844 |
+| Reuse | 12.00% | ~2,214 |
+| Gathering Dust | 11.00% | ~2,030 |
+| One for the Book | 11.00% | ~2,030 |
+| Eagle Eye | 10.00% | ~1,845 |
+| All in a Weekend's Work | 10.00% | ~1,845 |
+| Oil and Water | 10.00% | ~1,845 |
+| Friendly Competition | 10.00% | ~1,845 |
+| Switcheroo | 10.00% | ~1,845 |
 | Lightning Round the World | 9.00% | ~1,660 |
 | Hitting a Bullseye | 9.00% | ~1,660 |
 | Spinning Around | 9.00% | ~1,660 |
-| Undisputed Winner | 7.00% | ~1,291 |
-| Recycle | 7.00% | ~1,291 |
+| Undisputed Winner | 7.00% | ~1,292 |
+| Recycle | 7.00% | ~1,292 |
 | Tinkerer | 6.00% | ~1,107 |
 | For all Those Back at the Factory | 5.00% | ~922 |
 | Living up to Expectations | 4.00% | ~738 |
 | Smooth Operator | 4.00% | ~738 |
 | Peak Performance | 4.00% | ~738 |
-| Seasoned Rookie | 3.00% | ~553 |
-| Loyal Bond | 3.00% | ~553 |
+| Seasoned Rookie | 3.00% | ~554 |
+| Loyal Bond | 3.00% | ~554 |
 | Hitting a Century | 2.00% | ~369 |
 | Wait, I know you? | 2.00% | ~369 |
 | Filling in the Gaps | 1.00% | ~184 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 347)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,444 (Ranked 164)  
+Progressed: 18,450 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,10 +183,10 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 18,312 | 0 |
 | 2024-01-17 | 18,358 | 0 |
 | 2024-01-18 | 18,404 | 0 |
-| 2024-01-19 | 18,444 | 0 |
+| 2024-01-19 | 18,450 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
-Sum: 461 (Ranked 348)  
+Sum: 462 (Ranked 348)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -194,7 +194,7 @@ Diff (max vs sum): 75
 | This game has a Competitive Community | 54 |
 | This game has Amazing Characters | 51 |
 | This game is Highly Recommended | 49 |
-| This game is Extremely Fun | 45 |
+| This game is Extremely Fun | 46 |
 | This game has Quickly Understood Controls | 41 |
 | This game has Challenging Combat | 41 |
 | This game has Competitive Players | 39 |
@@ -333,3 +333,4 @@ Diff (max vs sum): 75
 | 2024-01-16 | 4.64 | 68 | 448 |
 | 2024-01-17 | 4.64 | 68 | 458 |
 | 2024-01-18 | 4.64 | 68 | 461 |
+| 2024-01-19 | 4.64 | 68 | 462 |

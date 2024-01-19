@@ -5,40 +5,40 @@ Rating: 4.72 (Ranked 197)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,554 |
-| First of Many | 12.00% | ~35,554 |
-| Not Your Average Trait | 10.00% | ~29,629 |
-| Expanding Horizons | 9.00% | ~26,666 |
-| Gleaming the Cube | 8.00% | ~23,703 |
-| Quest for Survival | 8.00% | ~23,703 |
-| Familiar Face | 8.00% | ~23,703 |
-| Boss'n Up | 8.00% | ~23,703 |
-| Trait Chaser | 8.00% | ~23,703 |
-| Not So Special Now | 7.00% | ~20,740 |
-| Not a Janitor | 7.00% | ~20,740 |
-| Duality | 7.00% | ~20,740 |
-| Equal Measures | 6.00% | ~17,777 |
-| Blue Goddess | 6.00% | ~17,777 |
-| Top Performer | 6.00% | ~17,777 |
-| Almost There | 6.00% | ~17,777 |
-| Make Some Room | 6.00% | ~17,777 |
-| Good, But Could Be Better! | 6.00% | ~17,777 |
-| Am I Seeing This? | 5.00% | ~14,814 |
-| Chaos | 5.00% | ~14,814 |
-| Power Surge | 5.00% | ~14,814 |
-| The God Gambit | 5.00% | ~14,814 |
-| Dark Designs | 5.00% | ~14,814 |
-| Shhh...It's a Secret | 5.00% | ~14,814 |
-| Was This Supposed To Happen? | 5.00% | ~14,814 |
-| The Web | 5.00% | ~14,814 |
-| Scrap Collector | 5.00% | ~14,814 |
-| Traitor | 4.00% | ~11,851 |
-| Forever is a Long Time Coming | 4.00% | ~11,851 |
-| Madman's Paradise | 4.00% | ~11,851 |
-| The Agenda | 4.00% | ~11,851 |
-| Bad Moon Rising | 4.00% | ~11,851 |
-| Strapped | 4.00% | ~11,851 |
-| All These Traits� | 4.00% | ~11,851 |
+| The Killing Jar | 12.00% | ~35,557 |
+| First of Many | 12.00% | ~35,557 |
+| Not Your Average Trait | 10.00% | ~29,631 |
+| Expanding Horizons | 9.00% | ~26,668 |
+| Gleaming the Cube | 8.00% | ~23,705 |
+| Quest for Survival | 8.00% | ~23,705 |
+| Familiar Face | 8.00% | ~23,705 |
+| Boss'n Up | 8.00% | ~23,705 |
+| Trait Chaser | 8.00% | ~23,705 |
+| Not So Special Now | 7.00% | ~20,742 |
+| Not a Janitor | 7.00% | ~20,742 |
+| Duality | 7.00% | ~20,742 |
+| Equal Measures | 6.00% | ~17,778 |
+| Blue Goddess | 6.00% | ~17,778 |
+| Top Performer | 6.00% | ~17,778 |
+| Almost There | 6.00% | ~17,778 |
+| Make Some Room | 6.00% | ~17,778 |
+| Good, But Could Be Better! | 6.00% | ~17,778 |
+| Am I Seeing This? | 5.00% | ~14,815 |
+| Chaos | 5.00% | ~14,815 |
+| Power Surge | 5.00% | ~14,815 |
+| The God Gambit | 5.00% | ~14,815 |
+| Dark Designs | 5.00% | ~14,815 |
+| Shhh...It's a Secret | 5.00% | ~14,815 |
+| Was This Supposed To Happen? | 5.00% | ~14,815 |
+| The Web | 5.00% | ~14,815 |
+| Scrap Collector | 5.00% | ~14,815 |
+| Traitor | 4.00% | ~11,852 |
+| Forever is a Long Time Coming | 4.00% | ~11,852 |
+| Madman's Paradise | 4.00% | ~11,852 |
+| The Agenda | 4.00% | ~11,852 |
+| Bad Moon Rising | 4.00% | ~11,852 |
+| Strapped | 4.00% | ~11,852 |
+| All These Traits� | 4.00% | ~11,852 |
 | Tall Tales | 3.00% | ~8,889 |
 | Edgelord | 3.00% | ~8,889 |
 | Scrap Hoarder | 3.00% | ~8,889 |
@@ -61,8 +61,8 @@ Rating: 4.72 (Ranked 197)
 | You Shall Pass | 0.80% | ~604 |
 | A Foul Feast | 0.50% | ~377 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 296,287 (Ranked 66)  
-Completed: 1,151 (0.39%) (Ranked 249)  
+Progressed: 296,308 (Ranked 66)  
+Completed: 1,152 (0.39%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -248,16 +248,16 @@ Completed: 1,151 (0.39%) (Ranked 249)
 | 2024-01-16 | 294,750 | 1,101 |
 | 2024-01-17 | 295,280 | 1,119 |
 | 2024-01-18 | 295,787 | 1,138 |
-| 2024-01-19 | 296,287 | 1,151 |
+| 2024-01-19 | 296,308 | 1,152 |
 ## Awards
 Max (Great Boss Battles): 7,224  (Ranked 58)  
-Sum: 16,442 (Ranked 68)  
+Sum: 16,460 (Ranked 68)  
 Diff (max vs sum): -10  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,224 |
 | This game is Highly Recommended | 1,048 |
-| This game has Diverse Characters | 996 |
+| This game has Diverse Characters | 1,014 |
 | This game is Extremely Fun | 968 |
 | This game has Challenging Combat | 961 |
 | This game has Quickly Understood Controls | 951 |
@@ -446,4 +446,4 @@ Diff (max vs sum): -10
 | 2024-01-16 | 4.72 | 6,998 | 15,811 |
 | 2024-01-17 | 4.72 | 7,080 | 16,044 |
 | 2024-01-18 | 4.72 | 7,166 | 16,280 |
-| 2024-01-19 | 4.72 | 7,224 | 16,442 |
+| 2024-01-19 | 4.72 | 7,224 | 16,460 |
