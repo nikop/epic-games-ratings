@@ -1,16 +1,16 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 474)  
+Rating: 4.58 (Ranked 475)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,019 |
-| Sweet Sorrow | 18.00% | ~8,009 |
-| Rules the Waves | 17.00% | ~7,564 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,674 |
-| Rival | 14.00% | ~6,229 |
+| Sink Beneath the Waves | 36.00% | ~16,020 |
+| Sweet Sorrow | 18.00% | ~8,010 |
+| Rules the Waves | 17.00% | ~7,565 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,675 |
+| Rival | 14.00% | ~6,230 |
 | Correspondent | 12.00% | ~5,340 |
 | Lose Your Mind | 12.00% | ~5,340 |
 | Sound Mind? | 12.00% | ~5,340 |
@@ -36,32 +36,32 @@ Number of Ratings: 401  (23.09.2022)
 | The Bell Tolls | 1.00% | ~445 |
 | Knife, Cup and Bone | 1.00% | ~445 |
 | A current under zee | 1.00% | ~445 |
-| Never Stop Sinking... | 0.90% | ~400 |
-| His bones in whispers | 0.90% | ~400 |
-| The beauty of the deep | 0.90% | ~400 |
-| The dragon in the zee | 0.90% | ~400 |
-| Thanks for all the fish | 0.90% | ~400 |
-| Those are pearls that were his eyes | 0.90% | ~400 |
-| No regrets | 0.90% | ~400 |
-| Rosewater sailor | 0.90% | ~400 |
-| Under the zee | 0.90% | ~400 |
-| Depth charge | 0.90% | ~400 |
+| Never Stop Sinking... | 0.90% | ~401 |
+| His bones in whispers | 0.90% | ~401 |
+| The beauty of the deep | 0.90% | ~401 |
+| The dragon in the zee | 0.90% | ~401 |
+| Thanks for all the fish | 0.90% | ~401 |
+| Those are pearls that were his eyes | 0.90% | ~401 |
+| No regrets | 0.90% | ~401 |
+| Rosewater sailor | 0.90% | ~401 |
+| Under the zee | 0.90% | ~401 |
+| Depth charge | 0.90% | ~401 |
 | A zee-change | 0.80% | ~356 |
 | Leviathan | 0.80% | ~356 |
-| What lies beneath | 0.70% | ~311 |
-| Stone's Curse | 0.70% | ~311 |
-| Five Years at Zee | 0.50% | ~222 |
+| What lies beneath | 0.70% | ~312 |
+| Stone's Curse | 0.70% | ~312 |
+| Five Years at Zee | 0.50% | ~223 |
 | The Lady's Parlour | 0.20% | ~89 |
 | A Past Wreathed in Shadows | 0.20% | ~89 |
 | Under pressure | 0.20% | ~89 |
-| A Drownie devotee | 0.10% | ~44 |
-| Romans 6:9 | 0.10% | ~44 |
-| Ofermod | 0.10% | ~44 |
-| Consider Phlebas | 0.10% | ~44 |
-| Death By Water | 0.10% | ~44 |
-| Ten Years at Zee | 0.10% | ~44 |
+| A Drownie devotee | 0.10% | ~45 |
+| Romans 6:9 | 0.10% | ~45 |
+| Ofermod | 0.10% | ~45 |
+| Consider Phlebas | 0.10% | ~45 |
+| Death By Water | 0.10% | ~45 |
+| Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,496 (Ranked 133)  
+Progressed: 44,501 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 4 (0.01%) (Ranked 379)
 | 2024-01-16 | 44,372 | 4 |
 | 2024-01-17 | 44,437 | 4 |
 | 2024-01-18 | 44,492 | 4 |
-| 2024-01-19 | 44,496 | 4 |
+| 2024-01-19 | 44,501 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 292)  
 Sum: 315 (Ranked 377)  

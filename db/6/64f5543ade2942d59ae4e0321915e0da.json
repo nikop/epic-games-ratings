@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 530,
+  "EOS_Progressed": 531,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.57,
+  "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
     {
       "Time": "2023-10-17T15:03:17.566478+00:00",
@@ -2064,6 +2064,11 @@
       "Time": "2024-01-18T16:05:59.8506704+00:00",
       "NumProgressed": 530,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T04:05:01.4263665+00:00",
+      "NumProgressed": 531,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2108,7 +2113,7 @@
       "Name": "Gift",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -2156,7 +2161,7 @@
       "Name": "Misery",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "AC_BOSS_02",
@@ -2188,7 +2193,7 @@
       "Name": "Pack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "AC_COMBO_2",
@@ -2226,9 +2231,9 @@
       "ID": "AC_DEATH_2",
       "SetID": "16i2akc",
       "Name": "Carcass",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_DEATH_3",
@@ -2242,9 +2247,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 266
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2268,7 +2273,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2276,7 +2281,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2292,7 +2297,7 @@
       "Name": "Player",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2330,9 +2335,9 @@
       "ID": "AC_MONEY_BLACKJACK",
       "SetID": "16i2akc",
       "Name": "Winner",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 58
     },
     {
       "ID": "AC_MUSIC_CONCERT",
@@ -2340,7 +2345,7 @@
       "Name": "Band",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "AC_PISTOL_MAX",
@@ -2378,9 +2383,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 212
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2411,14 +2416,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 530,
+      "Progressed": 531,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:06:28.9010875+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:05:01.4263661+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:02:44.7809582+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:06:28.9011211+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:02:44.3907188+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:05:01.4264075+00:00"
 }

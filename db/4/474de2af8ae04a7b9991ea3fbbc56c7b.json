@@ -247,9 +247,9 @@
       "ID": "Kill10k",
       "SetID": "c18da06",
       "Name": "Kill 10,000 Automatons",
-      "Percentage": 26,
+      "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Kill1M",
@@ -295,9 +295,9 @@
       "ID": "Super100",
       "SetID": "c18da06",
       "Name": "User 100 Ultimates",
-      "Percentage": 21,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "Super1k",
@@ -318,8 +318,8 @@
   ],
   "FirstSeen": "2024-01-12T22:00:00.0081569+00:00",
   "FirstSeenAchievements": "2023-12-12T23:09:03.0564734+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:10:10.6076845+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:09:33.7658118+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:35.8555267+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:01:24.7843347+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:10:10.6077053+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:59:51.6106073+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:09:33.765822+00:00"
 }

@@ -15,7 +15,7 @@ Rating: 4.22 (Ranked 956)
 | Float Like A Butterfly | 19.00% | ~4,284 |
 | Workplace Hazard | 18.00% | ~4,058 |
 | If the SHU Fits... | 18.00% | ~4,058 |
-| Without A Paddle | 15.00% | ~3,382 |
+| Without A Paddle | 16.00% | ~3,608 |
 | In the Pipe, Five by Five | 14.00% | ~3,157 |
 | Crash Site | 14.00% | ~3,157 |
 | Two Heads Are Better Than One | 13.00% | ~2,931 |

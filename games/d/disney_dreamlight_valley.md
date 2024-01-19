@@ -6,24 +6,24 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,526 |
-| Photographer | 67.00% | ~9,526 |
+| Goofy's Investor | 67.00% | ~9,527 |
+| Photographer | 67.00% | ~9,527 |
 | Valley's Helper | 59.00% | ~8,389 |
-| Constructor | 50.00% | ~7,109 |
-| Renovator | 50.00% | ~7,109 |
+| Constructor | 50.00% | ~7,110 |
+| Renovator | 50.00% | ~7,110 |
 | Bestest Friend | 44.00% | ~6,256 |
 | Banker | 38.00% | ~5,403 |
-| Gardener | 30.00% | ~4,265 |
-| Generous | 25.00% | ~3,554 |
-| Chef Cook | 19.00% | ~2,701 |
+| Gardener | 30.00% | ~4,266 |
+| Generous | 25.00% | ~3,555 |
+| Chef Cook | 19.00% | ~2,702 |
 | Miner | 11.00% | ~1,564 |
-| Duty Bound | 8.00% | ~1,137 |
+| Duty Bound | 8.00% | ~1,138 |
 | Angler | 6.00% | ~853 |
 | Thorn Cleaner | 6.00% | ~853 |
 | Chit Chatter | 3.00% | ~427 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,218 (Ranked 177)  
-Completed: 352 (2.48%) (Ranked 127)  
+Progressed: 14,219 (Ranked 177)  
+Completed: 352 (2.48%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -247,11 +247,11 @@ Completed: 352 (2.48%) (Ranked 127)
 | 2024-01-16 | 14,183 | 352 |
 | 2024-01-17 | 14,198 | 352 |
 | 2024-01-18 | 14,214 | 352 |
-| 2024-01-19 | 14,218 | 352 |
+| 2024-01-19 | 14,219 | 352 |
 ## Awards
 Max (Great for Beginners): 1,190  (Ranked 151)  
-Sum: 8,433 (Ranked 113)  
-Diff (max vs sum): 38  
+Sum: 8,435 (Ranked 112)  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,190 |
@@ -263,7 +263,7 @@ Diff (max vs sum): 38
 | This game is Extremely Fun | 794 |
 | This game has Quickly Understood Controls | 784 |
 | This game has a Creative Community | 741 |
-| This game has Easy Combat | 558 |
+| This game has Easy Combat | 560 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -578,3 +578,4 @@ Diff (max vs sum): 38
 | 2024-01-16 | 4.76 | - | 1,185 | 8,415 |
 | 2024-01-17 | 4.76 | - | 1,187 | 8,423 |
 | 2024-01-18 | 4.76 | - | 1,190 | 8,433 |
+| 2024-01-19 | 4.76 | - | 1,190 | 8,435 |

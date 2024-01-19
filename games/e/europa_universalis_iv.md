@@ -10,9 +10,9 @@ Number of Ratings: 8,414  (23.09.2022)
 | That's a Grand Army | 0.60% | ~3,008 |
 | Victorious! | 0.60% | ~3,008 |
 | That is mine! | 0.50% | ~2,507 |
-| Brothers in Arms | 0.40% | ~2,005 |
-| That's a Grand Navy | 0.40% | ~2,005 |
-| Seriously?! | 0.40% | ~2,005 |
+| Brothers in Arms | 0.40% | ~2,006 |
+| That's a Grand Navy | 0.40% | ~2,006 |
+| Seriously?! | 0.40% | ~2,006 |
 | Cold War | 0.30% | ~1,504 |
 | Defender of the Faith | 0.30% | ~1,504 |
 | For the Glory | 0.30% | ~1,504 |
@@ -253,6 +253,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Queen of Mercury | 0.10% | ~501 |
 | Quizquiz Pro Quo | 0.10% | ~501 |
 | Rags and Riches | 0.10% | ~501 |
+| Raja of the Rajput Reich | 0.10% | ~501 |
 | The Reapers | 0.10% | ~501 |
 | Redecorating | 0.10% | ~501 |
 | Rekindling the Flames | 0.10% | ~501 |
@@ -263,6 +264,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Sailor Mon | 0.10% | ~501 |
 | Sakoku Law | 0.10% | ~501 |
 | Saladins Legacy | 0.10% | ~501 |
+| Foremost Servitor of Jagannath | 0.10% | ~501 |
 | Shahanshah | 0.10% | ~501 |
 | Shemot is Not | 0.10% | ~501 |
 | Sikh Pun | 0.10% | ~501 |
@@ -367,10 +369,8 @@ Number of Ratings: 8,414  (23.09.2022)
 | The Last Crusade | 0.10% | ~501 |
 | Truly Good Maaaaa-tch | 0.10% | ~501 |
 | The Zoro-Austrians | 0.10% | ~501 |
-| Raja of the Rajput Reich | 0.00% | ~0 |
-| Foremost Servitor of Jagannath | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,371 (Ranked 42)  
+Progressed: 501,390 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
 | 2024-01-18 | 501,312 | 1 |
-| 2024-01-19 | 501,371 | 1 |
+| 2024-01-19 | 501,390 | 1 |
 ## Awards
 Max (Educational): 7,890  (Ranked 53)  
 Sum: 65,057 (Ranked 24)  

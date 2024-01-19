@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,184 |
+| A Brief Tour of the Realms | 4.00% | ~10,185 |
 | Beast Intentions | 2.00% | ~5,092 |
 | The Cursed Farmer | 2.00% | ~5,092 |
 | The Mad Wizard | 2.00% | ~5,092 |
@@ -39,6 +39,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~1,018 |
 | Escort to Waterdeep | 0.40% | ~1,018 |
 | Waterdeep Detours | 0.40% | ~1,018 |
+| Underdeep Cartography | 0.40% | ~1,018 |
 | Arcane Suppression | 0.40% | ~884 |
 | Welcome to the Vrocks | 0.40% | ~884 |
 | Misaligned in Sigil | 0.40% | ~884 |
@@ -55,7 +56,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flying Monkey Skulls of Doom | 0.30% | ~764 |
 | Close Escort | 0.30% | ~764 |
 | Constant Banditry | 0.30% | ~764 |
-| Underdeep Cartography | 0.30% | ~764 |
 | Overdue Rendezvous | 0.30% | ~764 |
 | The Templar's Camp | 0.30% | ~764 |
 | Rescue in the Jungle | 0.30% | ~764 |
@@ -81,6 +81,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~509 |
 | Treasure Hunters | 0.20% | ~509 |
 | Flies on the Wall | 0.20% | ~509 |
+| Backtracking Through Barovia | 0.20% | ~509 |
 | Nimble Escape | 0.20% | ~509 |
 | Fugitives | 0.20% | ~509 |
 | Premature Betrayal | 0.20% | ~509 |
@@ -286,7 +287,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Killer Mists | 0.10% | ~255 |
 | Class Vacation | 0.10% | ~255 |
 | A Nod from Strahd | 0.10% | ~221 |
-| Backtracking Through Barovia | 0.10% | ~255 |
 | Diversity Day-Trip | 0.10% | ~255 |
 | Late Game | 0.10% | ~255 |
 | Shadowfell Stalwarts | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,612 (Ranked 71)  
+Progressed: 254,616 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,612 | 2,624 |
+| 2024-01-19 | 254,616 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,552 (Ranked 41)  

@@ -7,8 +7,8 @@ Number of Ratings: 495  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Genin | 12.00% | ~27,210 |
-| A thief's beginning | 11.00% | ~24,942 |
-| Thorough | 11.00% | ~24,942 |
+| A thief's beginning | 11.00% | ~24,943 |
+| Thorough | 11.00% | ~24,943 |
 | Disguised | 9.00% | ~20,408 |
 | Rescue Takuma | 9.00% | ~20,408 |
 | Rollin' | 9.00% | ~20,408 |
@@ -30,8 +30,8 @@ Number of Ratings: 495  (23.09.2022)
 | Noboru | 4.00% | ~9,070 |
 | Still Rollin' | 4.00% | ~9,070 |
 | Stoned | 4.00% | ~9,070 |
-| It's raining men | 3.00% | ~6,802 |
-| The Old Way | 3.00% | ~6,802 |
+| It's raining men | 3.00% | ~6,803 |
+| The Old Way | 3.00% | ~6,803 |
 | Atheist Ox | 2.00% | ~4,535 |
 | No Gimmicks | 2.00% | ~4,535 |
 | Old Man | 2.00% | ~4,535 |
@@ -42,7 +42,7 @@ Number of Ratings: 495  (23.09.2022)
 | When Cut Across the Neck | 1.00% | ~2,268 |
 | High Five the Moon | 0.90% | ~2,041 |
 | The Cave | 0.90% | ~2,041 |
-| Time Paradox | 0.60% | ~1,360 |
+| Time Paradox | 0.60% | ~1,361 |
 | Merciful | 0.50% | ~1,134 |
 | Five Shadows | 0.40% | ~907 |
 | Complete Mastery | 0.20% | ~454 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~227 |
 | Release the Kraken | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,750 (Ranked 80)  
+Progressed: 226,754 (Ranked 80)  
 Completed: 108 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 108 (0.05%) (Ranked 344)
 | 2024-01-16 | 226,388 | 107 |
 | 2024-01-17 | 226,537 | 108 |
 | 2024-01-18 | 226,722 | 108 |
-| 2024-01-19 | 226,750 | 108 |
+| 2024-01-19 | 226,754 | 108 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 213)  
 Sum: 4,963 (Ranked 154)  

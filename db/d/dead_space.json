@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 383,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -977,9 +977,9 @@
       "Count": 298
     }
   ],
-  "EOS_Progressed": 18297,
+  "EOS_Progressed": 18298,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 1159,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -11657,6 +11657,11 @@
       "Time": "2024-01-19T03:07:04.7447844+00:00",
       "NumProgressed": 18297,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-19T04:05:25.8979274+00:00",
+      "NumProgressed": 18298,
+      "NumCompleted": 49
     }
   ],
   "AchievementsAdded": "2023-09-19T17:07:15.1979161+00:00",
@@ -11699,9 +11704,9 @@
       "ID": "achievement_13",
       "SetID": "222fo9l",
       "Name": "Final Regeneration",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3660
     },
     {
       "ID": "achievement_14",
@@ -11709,7 +11714,7 @@
       "Name": "Whole Again",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "achievement_15",
@@ -11717,7 +11722,7 @@
       "Name": "Set A Benchmark",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "achievement_16",
@@ -11757,7 +11762,7 @@
       "Name": "Lab Rat",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 12259
+      "UsersEstimate": 12260
     },
     {
       "ID": "achievement_20",
@@ -11805,7 +11810,7 @@
       "Name": "Full Contact",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3477
     },
     {
       "ID": "achievement_26",
@@ -11845,7 +11850,7 @@
       "Name": "All Systems Go",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 10246
+      "UsersEstimate": 10247
     },
     {
       "ID": "achievement_30",
@@ -11861,7 +11866,7 @@
       "Name": "Marksman",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 17748
+      "UsersEstimate": 17749
     },
     {
       "ID": "achievement_32",
@@ -11925,7 +11930,7 @@
       "Name": "Z-Baller",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3111
     },
     {
       "ID": "achievement_4",
@@ -11933,7 +11938,7 @@
       "Name": "Cannon Fodder",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 9331
+      "UsersEstimate": 9332
     },
     {
       "ID": "achievement_40",
@@ -11949,7 +11954,7 @@
       "Name": "Full Clearance",
       "Percentage": 19,
       "XP": 40,
-      "UsersEstimate": 3476
+      "UsersEstimate": 3477
     },
     {
       "ID": "achievement_42",
@@ -11957,7 +11962,7 @@
       "Name": "Brute Force",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 10063
+      "UsersEstimate": 10064
     },
     {
       "ID": "achievement_43",
@@ -12044,7 +12049,7 @@
     {
       "ID": "222fo9l",
       "IsBase": true,
-      "Progressed": 18297,
+      "Progressed": 18298,
       "Completed": 49
     }
   ],
@@ -12052,8 +12057,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2024-01-18T12:03:11.1650792+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:07:04.744784+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:05:25.8979271+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:09.351068+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:03:10.8911402+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:07:04.7448779+00:00"
+  "LastUpdate_Ratings": "2024-01-19T04:03:00.963787+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:05:25.8980012+00:00"
 }

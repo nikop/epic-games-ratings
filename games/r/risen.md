@@ -1,49 +1,49 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.58 (Ranked 474)  
+Rating: 4.58 (Ranked 475)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Beginner | 90.00% | ~184 |
 | Map reader | 65.00% | ~133 |
 | Adventurer | 64.00% | ~131 |
-| Philanthropist | 61.00% | ~124 |
+| Philanthropist | 61.00% | ~125 |
 | The brave little tailor | 42.00% | ~86 |
 | Archer | 42.00% | ~86 |
 | Field hand | 39.00% | ~80 |
-| Well-to-do | 33.00% | ~67 |
-| Samaritan | 30.00% | ~61 |
-| Ladies' man | 30.00% | ~61 |
-| The merciful one | 29.00% | ~59 |
+| Well-to-do | 34.00% | ~70 |
+| Samaritan | 31.00% | ~64 |
+| The merciful one | 30.00% | ~62 |
+| Ladies' man | 30.00% | ~62 |
 | Idiot | 25.00% | ~51 |
 | Ferocious wild boars | 24.00% | ~49 |
 | Beast slayer | 21.00% | ~43 |
 | Ogre friend | 21.00% | ~43 |
 | Death of a legend | 20.00% | ~41 |
+| Archaeologist | 20.00% | ~41 |
 | Family man | 19.00% | ~39 |
-| Archaeologist | 19.00% | ~39 |
-| Little hero | 18.00% | ~37 |
+| Little hero | 19.00% | ~39 |
 | The fourth triplet | 18.00% | ~37 |
 | Sidelined | 18.00% | ~37 |
 | Wise man | 17.00% | ~35 |
 | Fence | 17.00% | ~35 |
-| Pandora's box | 15.00% | ~31 |
+| Pandora's box | 16.00% | ~33 |
+| Hard worker | 16.00% | ~33 |
 | Ghost hunter | 15.00% | ~31 |
-| Hard worker | 15.00% | ~31 |
 | Master detective | 15.00% | ~31 |
-| Defender | 13.00% | ~27 |
-| Peacekeeper | 13.00% | ~27 |
-| Showdown | 12.00% | ~24 |
-| Workaholic | 12.00% | ~24 |
+| Defender | 14.00% | ~29 |
+| Peacekeeper | 14.00% | ~29 |
+| Showdown | 13.00% | ~27 |
+| Workaholic | 12.00% | ~25 |
 | Titan Lord | 10.00% | ~20 |
 | Freedom fighter | 9.00% | ~18 |
 | Safecracker | 9.00% | ~18 |
 | Master thief | 9.00% | ~18 |
 | Expert | 8.00% | ~16 |
 | King of the handymen | 7.00% | ~14 |
+| The traveler | 6.00% | ~12 |
 | Terror of the hens | 6.00% | ~12 |
-| The traveler | 5.00% | ~10 |
 | Moneybags | 5.00% | ~10 |
 | King Midas | 4.00% | ~8 |
 | Rune master | 3.00% | ~6 |
@@ -56,7 +56,7 @@ Rating: 4.58 (Ranked 474)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 204 (Ranked 434)  
+Progressed: 205 (Ranked 434)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-13 | 200 | 0 |
 | 2024-01-14 | 203 | 0 |
 | 2024-01-17 | 204 | 0 |
+| 2024-01-19 | 205 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

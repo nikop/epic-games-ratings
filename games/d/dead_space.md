@@ -5,12 +5,12 @@ Rating: 4.71 (Ranked 205)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 97.00% | ~17,748 |
+| Marksman | 97.00% | ~17,749 |
 | Welcome Aboard | 83.00% | ~15,187 |
-| Lab Rat | 67.00% | ~12,259 |
-| All Systems Go | 56.00% | ~10,246 |
-| Brute Force | 55.00% | ~10,063 |
-| Cannon Fodder | 51.00% | ~9,331 |
+| Lab Rat | 67.00% | ~12,260 |
+| All Systems Go | 56.00% | ~10,247 |
+| Brute Force | 55.00% | ~10,064 |
+| Cannon Fodder | 51.00% | ~9,332 |
 | Raise the Stakes | 49.00% | ~8,966 |
 | Autofire | 47.00% | ~8,600 |
 | True Believer | 47.00% | ~8,600 |
@@ -33,12 +33,12 @@ Rating: 4.71 (Ranked 205)
 | There's Always Peng! | 29.00% | ~5,306 |
 | A Cut Above | 27.00% | ~4,940 |
 | Front Toward Enemy | 27.00% | ~4,940 |
-| Whole Again | 23.00% | ~4,208 |
-| Set A Benchmark | 23.00% | ~4,208 |
-| Final Regeneration | 19.00% | ~3,476 |
-| Full Contact | 19.00% | ~3,476 |
-| Full Clearance | 19.00% | ~3,476 |
-| Z-Baller | 17.00% | ~3,110 |
+| Whole Again | 23.00% | ~4,209 |
+| Set A Benchmark | 23.00% | ~4,209 |
+| Final Regeneration | 20.00% | ~3,660 |
+| Full Contact | 19.00% | ~3,477 |
+| Full Clearance | 19.00% | ~3,477 |
+| Z-Baller | 17.00% | ~3,111 |
 | Pusher | 16.00% | ~2,928 |
 | Pack Rat | 16.00% | ~2,928 |
 | Eviscerator | 12.00% | ~2,196 |
@@ -53,7 +53,7 @@ Rating: 4.71 (Ranked 205)
 | One Gun | 1.00% | ~183 |
 | Reunion | 1.00% | ~183 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,297 (Ranked 164)  
+Progressed: 18,298 (Ranked 164)  
 Completed: 49 (0.27%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 49 (0.27%) (Ranked 268)
 | 2024-01-16 | 18,058 | 45 |
 | 2024-01-17 | 18,173 | 45 |
 | 2024-01-18 | 18,282 | 49 |
-| 2024-01-19 | 18,297 | 49 |
+| 2024-01-19 | 18,298 | 49 |
 ## Awards
 Max (Great Boss Battles): 298  (Ranked 266)  
 Sum: 298 (Ranked 383)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 263,
+  "EOS_Progressed": 264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1627,6 +1627,11 @@
       "Time": "2024-01-18T08:03:37.7891698+00:00",
       "NumProgressed": 263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T04:03:58.3244817+00:00",
+      "NumProgressed": 264,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1655,7 +1660,7 @@
       "Name": "Entrepreneur",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "100HEALS",
@@ -1911,7 +1916,7 @@
       "Name": "Festival-goer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "FINDCITY",
@@ -2038,15 +2043,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 263,
+      "Progressed": 264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:04:56.9404618+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:03:58.3244815+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:58:17.6290811+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:04:56.9404995+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:57:52.2660237+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:03:58.3245145+00:00"
 }

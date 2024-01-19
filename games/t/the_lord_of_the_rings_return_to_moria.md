@@ -5,35 +5,35 @@ Rating: 4.43 (Ranked 731)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~316,834 |
-| Delving Onward | 69.00% | ~266,604 |
-| Miner's Helper | 59.00% | ~227,966 |
-| Suit Up | 54.00% | ~208,647 |
-| To the Mountain's Roots | 49.00% | ~189,328 |
-| Remains To Be Seen | 35.00% | ~135,234 |
-| Covered Head to Toe | 33.00% | ~127,506 |
-| Line of Azog, Ended | 32.00% | ~123,643 |
-| Risk a Little Real Light | 31.00% | ~119,779 |
-| Caradhras The Cruel | 18.00% | ~69,549 |
-| A Memory of this Place | 18.00% | ~69,549 |
-| False King, Deposed | 14.00% | ~54,094 |
-| Baruk Khazâd! | 13.00% | ~50,230 |
-| Battering Ram | 13.00% | ~50,230 |
-| Shadow's Bane | 10.00% | ~38,638 |
-| Westgate Weaponcraft | 9.00% | ~34,774 |
+| Speak Friend | 82.00% | ~316,841 |
+| Delving Onward | 69.00% | ~266,610 |
+| Miner's Helper | 59.00% | ~227,971 |
+| Suit Up | 54.00% | ~208,652 |
+| To the Mountain's Roots | 50.00% | ~193,196 |
+| Remains To Be Seen | 35.00% | ~135,237 |
+| Covered Head to Toe | 33.00% | ~127,509 |
+| Line of Azog, Ended | 32.00% | ~123,645 |
+| Risk a Little Real Light | 31.00% | ~119,782 |
+| Caradhras The Cruel | 18.00% | ~69,551 |
+| A Memory of this Place | 18.00% | ~69,551 |
+| False King, Deposed | 14.00% | ~54,095 |
+| Baruk Khazâd! | 13.00% | ~50,231 |
+| Battering Ram | 13.00% | ~50,231 |
+| Shadow's Bane | 10.00% | ~38,639 |
+| Westgate Weaponcraft | 9.00% | ~34,775 |
 | Deeps Weaponcraft | 8.00% | ~30,911 |
 | Darkness Is Passing | 7.00% | ~27,047 |
-| Decked Out | 5.00% | ~19,319 |
-| Guarded from Despair | 5.00% | ~19,319 |
-| Master of All Trades | 4.00% | ~15,455 |
-| Eregion Weaponcraft | 3.00% | ~11,591 |
-| True-silver | 3.00% | ~11,591 |
-| Dimrill Weaponcraft | 3.00% | ~11,591 |
+| Decked Out | 5.00% | ~19,320 |
+| Guarded from Despair | 5.00% | ~19,320 |
+| Master of All Trades | 4.00% | ~15,456 |
+| Eregion Weaponcraft | 3.00% | ~11,592 |
+| True-silver | 3.00% | ~11,592 |
+| Dimrill Weaponcraft | 3.00% | ~11,592 |
 | Hard-headed | 1.00% | ~3,864 |
 | Shielded | 1.00% | ~3,864 |
 | We're Gonna Need More Mugs | 0.20% | ~773 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,383 (Ranked 54)  
+Progressed: 386,392 (Ranked 54)  
 Completed: 369 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 369 (0.10%) (Ranked 317)
 | 2024-01-16 | 385,383 | 356 |
 | 2024-01-17 | 385,849 | 363 |
 | 2024-01-18 | 386,311 | 369 |
-| 2024-01-19 | 386,383 | 369 |
+| 2024-01-19 | 386,392 | 369 |
 ## Awards
 Max (Great for Beginners): 964  (Ranked 169)  
 Sum: 5,552 (Ranked 143)  

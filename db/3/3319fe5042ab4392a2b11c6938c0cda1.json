@@ -957,9 +957,9 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "ae95dh3",
       "Name": "Dastardly Deeds",
-      "Percentage": 0,
+      "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
@@ -989,9 +989,9 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 126
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -1132,8 +1132,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:06:19.4716266+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:04:54.7396708+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:58:18.1680794+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:06:19.471652+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:57:52.6163318+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:04:54.739694+00:00"
 }

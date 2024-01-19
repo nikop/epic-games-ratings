@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 158,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239446,
+  "EOS_Progressed": 239445,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29028,6 +29028,11 @@
       "Time": "2024-01-19T03:09:15.0514948+00:00",
       "NumProgressed": 239446,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-19T04:08:54.9402828+00:00",
+      "NumProgressed": 239445,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 34,
@@ -29199,7 +29204,7 @@
       "Name": "ON A ROLL",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 23945
+      "UsersEstimate": 23944
     },
     {
       "ID": "PHOTOFINISH",
@@ -29303,22 +29308,22 @@
       "Name": "VANGUARD",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 98173
+      "UsersEstimate": 98172
     }
   ],
   "AchievementSets": [
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239446,
+      "Progressed": 239445,
       "Completed": 49
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:09:15.0514944+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:08:54.9402825+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:01:06.2079531+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:09:15.0516757+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:59:39.9212157+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:08:54.940438+00:00"
 }

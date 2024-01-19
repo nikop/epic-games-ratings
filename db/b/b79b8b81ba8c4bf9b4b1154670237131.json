@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16786,
+  "EOS_Progressed": 16787,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -6982,6 +6982,11 @@
       "Time": "2024-01-19T03:10:42.8460734+00:00",
       "NumProgressed": 16786,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-19T04:09:55.2577966+00:00",
+      "NumProgressed": 16787,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7114,7 +7119,7 @@
       "Name": "Emergency Services",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_AE_24",
@@ -7122,7 +7127,7 @@
       "Name": "Think Fast",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_AE_25",
@@ -7138,7 +7143,7 @@
       "Name": "Live With It",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 1846
+      "UsersEstimate": 1847
     },
     {
       "ID": "ACH_AE_27",
@@ -7273,7 +7278,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16786,
+      "Progressed": 16787,
       "Completed": 16
     }
   ],
@@ -7281,8 +7286,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:10:42.846073+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:09:55.2577962+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:01:23.2370944+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:10:42.8461253+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:59:50.5783977+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:09:55.2578403+00:00"
 }

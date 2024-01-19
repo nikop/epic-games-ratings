@@ -11,29 +11,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 5.00% | ~849 |
 | Intrepid | 4.00% | ~679 |
 | Friendly Family | 4.00% | ~679 |
-| Able | 3.00% | ~509 |
-| Ambitious | 3.00% | ~509 |
-| Architect | 3.00% | ~509 |
-| Enlightened | 3.00% | ~509 |
-| Glorious | 3.00% | ~509 |
-| Good | 3.00% | ~509 |
-| Just | 3.00% | ~509 |
-| Keystone | 3.00% | ~509 |
-| Learned | 3.00% | ~509 |
-| Mason | 3.00% | ~509 |
-| Noble | 3.00% | ~509 |
-| Pioneer | 3.00% | ~509 |
-| Strong | 3.00% | ~509 |
-| Developing Cities | 3.00% | ~509 |
-| Hanging Gardens | 3.00% | ~509 |
-| Oracle | 3.00% | ~509 |
-| Pyramids | 3.00% | ~509 |
-| Learn to Play 1 | 3.00% | ~509 |
-| Judaism | 3.00% | ~509 |
-| Babylonian Paganism | 3.00% | ~509 |
-| Greek Paganism | 3.00% | ~509 |
-| Naming Landmarks | 3.00% | ~509 |
-| Trade Caravan | 3.00% | ~509 |
+| Able | 3.00% | ~510 |
+| Ambitious | 3.00% | ~510 |
+| Architect | 3.00% | ~510 |
+| Enlightened | 3.00% | ~510 |
+| Glorious | 3.00% | ~510 |
+| Good | 3.00% | ~510 |
+| Just | 3.00% | ~510 |
+| Keystone | 3.00% | ~510 |
+| Learned | 3.00% | ~510 |
+| Mason | 3.00% | ~510 |
+| Noble | 3.00% | ~510 |
+| Pioneer | 3.00% | ~510 |
+| Strong | 3.00% | ~510 |
+| Developing Cities | 3.00% | ~510 |
+| Hanging Gardens | 3.00% | ~510 |
+| Oracle | 3.00% | ~510 |
+| Pyramids | 3.00% | ~510 |
+| Learn to Play 1 | 3.00% | ~510 |
+| Judaism | 3.00% | ~510 |
+| Babylonian Paganism | 3.00% | ~510 |
+| Greek Paganism | 3.00% | ~510 |
+| Naming Landmarks | 3.00% | ~510 |
+| Trade Caravan | 3.00% | ~510 |
 | Regicide | 2.00% | ~340 |
 | Drillmaster | 2.00% | ~340 |
 | Brilliant | 2.00% | ~340 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,983 (Ranked 169)  
+Progressed: 16,985 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 16,983 | 5 |
+| 2024-01-19 | 16,985 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

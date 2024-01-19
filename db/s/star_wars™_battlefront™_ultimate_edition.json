@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3028,
+  "EOS_Progressed": 3029,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 0,
@@ -8249,6 +8249,11 @@
       "Time": "2024-01-19T01:59:56.1378825+00:00",
       "NumProgressed": 3028,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T04:10:27.2766407+00:00",
+      "NumProgressed": 3029,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8395,9 +8400,9 @@
       "ID": "achievement_25",
       "SetID": "271ol84",
       "Name": "A tremor in the Force",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_26",
@@ -8485,7 +8490,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2604
+      "UsersEstimate": 2605
     },
     {
       "ID": "achievement_36",
@@ -8547,9 +8552,9 @@
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 121
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_43",
@@ -8701,7 +8706,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "achievement_60",
@@ -8764,13 +8769,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3028,
+      "Progressed": 3029,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3028,
+      "Progressed": 3029,
       "Completed": 1
     }
   ],
@@ -8778,8 +8783,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:11:27.1024156+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:10:27.2766404+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:00:55.8291053+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:11:27.1024962+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:59:32.7973314+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:10:27.2767236+00:00"
 }

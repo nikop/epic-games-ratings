@@ -5,29 +5,29 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,490 |
+| First Step Into the Knight | 50.00% | ~41,492 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,214 |
 | Loose Ends | 33.00% | ~27,384 |
 | To the Victor Go the Spoils | 27.00% | ~22,405 |
-| Knighthood | 26.00% | ~21,575 |
-| Get ReQ'd | 24.00% | ~19,915 |
-| Whispered Words | 24.00% | ~19,915 |
+| Knighthood | 26.00% | ~21,576 |
+| Get ReQ'd | 24.00% | ~19,916 |
+| Whispered Words | 24.00% | ~19,916 |
 | The Batman Family | 22.00% | ~18,256 |
 | Lock and Key | 22.00% | ~18,256 |
-| Something in the Clay | 20.00% | ~16,596 |
-| Quartzer Life Crisis | 20.00% | ~16,596 |
-| Working Hard or Harley Working? | 20.00% | ~16,596 |
-| Unstoppable Force | 20.00% | ~16,596 |
-| Bad Apples in Every Orchard | 20.00% | ~16,596 |
-| Snow Problem | 19.00% | ~15,766 |
+| Something in the Clay | 20.00% | ~16,597 |
+| Quartzer Life Crisis | 20.00% | ~16,597 |
+| Working Hard or Harley Working? | 20.00% | ~16,597 |
+| Unstoppable Force | 20.00% | ~16,597 |
+| Bad Apples in Every Orchard | 20.00% | ~16,597 |
+| Snow Problem | 19.00% | ~15,767 |
 | The Show Mud Go On | 17.00% | ~14,107 |
 | From Inside Gotham's Walls | 17.00% | ~14,107 |
 | Protector of Gotham | 16.00% | ~13,277 |
 | In Your Element | 15.00% | ~12,447 |
 | Universal Health Scare | 15.00% | ~12,447 |
-| Rock and a Hard Place | 14.00% | ~11,617 |
-| Cooldown | 14.00% | ~11,617 |
-| Voiceless | 14.00% | ~11,617 |
+| Rock and a Hard Place | 14.00% | ~11,618 |
+| Cooldown | 14.00% | ~11,618 |
+| Voiceless | 14.00% | ~11,618 |
 | Shock Til They Drop | 13.00% | ~10,788 |
 | Seeking Asylum | 13.00% | ~10,788 |
 | End of an Era | 12.00% | ~9,958 |
@@ -37,7 +37,7 @@ Rating: 4.19 (Ranked 977)
 | Gotham City Confidential | 11.00% | ~9,128 |
 | Out of Their League | 9.00% | ~7,468 |
 | Drone You Out | 9.00% | ~7,468 |
-| Solid Alibi | 8.00% | ~6,638 |
+| Solid Alibi | 8.00% | ~6,639 |
 | Fusion Expert | 7.00% | ~5,809 |
 | Family Meeting | 6.00% | ~4,979 |
 | A Worthy Successor | 6.00% | ~4,979 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 977)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,981 (Ranked 110)  
+Progressed: 82,983 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
-| 2024-01-19 | 82,981 | 135 |
+| 2024-01-19 | 82,983 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,223  (Ranked 102)  
 Sum: 5,508 (Ranked 144)  

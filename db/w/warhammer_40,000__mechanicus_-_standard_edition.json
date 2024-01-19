@@ -1116,9 +1116,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232550,
+  "EOS_Progressed": 232551,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 558,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31181,6 +31181,11 @@
       "Time": "2024-01-19T03:11:13.2782267+00:00",
       "NumProgressed": 232550,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T04:10:17.1289777+00:00",
+      "NumProgressed": 232551,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31280,7 +31285,7 @@
       "Name": "Legio Cybernetica",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 6976
+      "UsersEstimate": 6977
     },
     {
       "ID": "ACH_BASE_21",
@@ -31416,7 +31421,7 @@
       "Name": "Fleshy Disposal",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 6976
+      "UsersEstimate": 6977
     },
     {
       "ID": "ACH_BASE_5",
@@ -31463,7 +31468,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232550,
+      "Progressed": 232551,
       "Completed": 5
     }
   ],
@@ -31471,8 +31476,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-15T19:00:01.7583563+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:11:13.2782263+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:10:17.1289774+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.6561537+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:59:18.9964368+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:11:13.2784006+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:58:30.4744192+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:10:17.1290949+00:00"
 }

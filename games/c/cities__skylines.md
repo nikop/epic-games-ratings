@@ -6,29 +6,29 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~901,780 |
-| Green Energy | 59.00% | ~749,367 |
-| Foggy Weather | 58.00% | ~736,666 |
-| Singing In The- | 58.00% | ~736,666 |
-| Unpopular Mayor | 40.00% | ~508,045 |
-| Power at Your Fingertips | 33.00% | ~419,137 |
-| City Planner | 22.00% | ~279,425 |
-| Rolling in Dough | 20.00% | ~254,023 |
-| Does My Bum Look Big In This? | 17.00% | ~215,919 |
-| Climbing the Social Ladder | 16.00% | ~203,218 |
-| Safe City | 13.00% | ~165,115 |
-| Quay-King | 11.00% | ~139,712 |
-| With Canals You Can! | 10.00% | ~127,011 |
-| Lawmaker | 9.00% | ~114,310 |
-| Nomen Est Omen | 7.00% | ~88,908 |
-| Well Informed | 6.00% | ~76,207 |
-| Fire Watch | 5.00% | ~63,506 |
-| Greenest City | 4.00% | ~50,805 |
-| Heavenly City | 3.00% | ~38,103 |
-| Reporting! | 3.00% | ~38,103 |
-| SIMulated City | 3.00% | ~38,103 |
-| The Safest Town | 3.00% | ~38,103 |
-| Professional Dumper | 2.00% | ~25,402 |
+| Pioneer | 71.00% | ~901,803 |
+| Green Energy | 59.00% | ~749,386 |
+| Foggy Weather | 58.00% | ~736,684 |
+| Singing In The- | 58.00% | ~736,684 |
+| Unpopular Mayor | 40.00% | ~508,058 |
+| Power at Your Fingertips | 33.00% | ~419,148 |
+| City Planner | 22.00% | ~279,432 |
+| Rolling in Dough | 20.00% | ~254,029 |
+| Does My Bum Look Big In This? | 17.00% | ~215,925 |
+| Climbing the Social Ladder | 16.00% | ~203,223 |
+| Safe City | 13.00% | ~165,119 |
+| Quay-King | 11.00% | ~139,716 |
+| With Canals You Can! | 10.00% | ~127,014 |
+| Lawmaker | 9.00% | ~114,313 |
+| Nomen Est Omen | 7.00% | ~88,910 |
+| Well Informed | 6.00% | ~76,209 |
+| Fire Watch | 5.00% | ~63,507 |
+| Greenest City | 4.00% | ~50,806 |
+| Heavenly City | 3.00% | ~38,104 |
+| Reporting! | 3.00% | ~38,104 |
+| SIMulated City | 3.00% | ~38,104 |
+| The Safest Town | 3.00% | ~38,104 |
+| Professional Dumper | 2.00% | ~25,403 |
 | City in Motion | 1.00% | ~12,701 |
 | Earthloving City | 1.00% | ~12,701 |
 | Metropolis | 1.00% | ~12,701 |
@@ -41,15 +41,15 @@ Number of Ratings: 25,248  (23.09.2022)
 | Shake It Up! | 0.50% | ~6,351 |
 | The Waters of Our Lives | 0.50% | ~6,351 |
 | Twist and shout | 0.50% | ~6,351 |
-| Airfield Expertise | 0.40% | ~5,080 |
-| Drop the Base | 0.40% | ~5,080 |
-| Get Your Snowshoes Ready! | 0.40% | ~5,080 |
-| Happy Town | 0.40% | ~5,080 |
-| I Want It All | 0.40% | ~5,080 |
-| Just Tolling | 0.40% | ~5,080 |
-| Postman | 0.40% | ~5,080 |
-| Speed up! | 0.40% | ~5,080 |
-| Thunder and Lightning | 0.40% | ~5,080 |
+| Airfield Expertise | 0.40% | ~5,081 |
+| Drop the Base | 0.40% | ~5,081 |
+| Get Your Snowshoes Ready! | 0.40% | ~5,081 |
+| Happy Town | 0.40% | ~5,081 |
+| I Want It All | 0.40% | ~5,081 |
+| Just Tolling | 0.40% | ~5,081 |
+| Postman | 0.40% | ~5,081 |
+| Speed up! | 0.40% | ~5,081 |
+| Thunder and Lightning | 0.40% | ~5,081 |
 | A Huge Hadron | 0.30% | ~3,810 |
 | Airlifter | 0.30% | ~3,810 |
 | Airport Architect | 0.30% | ~3,810 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,270 |
 | Z00 | 0.10% | ~1,270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,270,113 (Ranked 12)  
+Progressed: 1,270,145 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -400,17 +400,17 @@ Completed: 11 (0.00%) (Ranked 405)
 | 2024-01-16 | 1,267,974 | 11 |
 | 2024-01-17 | 1,269,037 | 11 |
 | 2024-01-18 | 1,270,003 | 11 |
-| 2024-01-19 | 1,270,113 | 11 |
+| 2024-01-19 | 1,270,145 | 11 |
 ## Awards
 Max (Great for Beginners): 6,744  (Ranked 60)  
-Sum: 49,563 (Ranked 32)  
+Sum: 49,567 (Ranked 32)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 6,744 |
 | This game is Relaxing | 6,548 |
 | This game is Educational | 6,249 |
-| This game has Quickly Understood Controls | 6,070 |
+| This game has Quickly Understood Controls | 6,074 |
 | This game is Extremely Fun | 5,667 |
 | This game is Highly Recommended | 5,513 |
 | This game has Amazing Storytelling | 4,559 |
@@ -778,4 +778,4 @@ Diff (max vs sum): 28
 | 2024-01-16 | 4.66 | - | 6,732 | 49,457 |
 | 2024-01-17 | 4.66 | - | 6,736 | 49,497 |
 | 2024-01-18 | 4.66 | - | 6,744 | 49,552 |
-| 2024-01-19 | 4.66 | - | 6,744 | 49,563 |
+| 2024-01-19 | 4.66 | - | 6,744 | 49,567 |

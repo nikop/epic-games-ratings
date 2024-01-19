@@ -513,9 +513,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 3514,
+  "EOS_Progressed": 3515,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5853,6 +5853,11 @@
       "Time": "2024-01-19T03:11:16.1518884+00:00",
       "NumProgressed": 3514,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T04:10:19.1899824+00:00",
+      "NumProgressed": 3515,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5865,7 +5870,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3127
+      "UsersEstimate": 3128
     },
     {
       "ID": "achievement_10",
@@ -5905,7 +5910,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_15",
@@ -5919,9 +5924,9 @@
       "ID": "achievement_16",
       "SetID": "18al4io",
       "Name": "Recruit",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 527
+      "UsersEstimate": 562
     },
     {
       "ID": "achievement_17",
@@ -5945,7 +5950,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "achievement_2",
@@ -5953,7 +5958,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2881
+      "UsersEstimate": 2882
     },
     {
       "ID": "achievement_20",
@@ -6081,7 +6086,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "achievement_46",
@@ -6161,7 +6166,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "achievement_60",
@@ -6217,7 +6222,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "achievement_8",
@@ -6233,14 +6238,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3514,
+      "Progressed": 3515,
       "Completed": 5
     }
   ],
@@ -6248,8 +6253,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T02:26:21.3827515+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:11:16.151888+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:10:19.189982+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:00:37.5411015+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:11:16.1519426+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:59:21.5053633+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:10:19.1900302+00:00"
 }

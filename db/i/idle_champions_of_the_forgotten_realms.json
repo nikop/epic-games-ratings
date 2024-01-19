@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 84,
+  "Ranking_EOS_NewPlayers": 85,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9661,9 +9661,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254612,
+  "EOS_Progressed": 254616,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1158,
+  "EOS_NewPlayers": 1149,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40721,6 +40721,11 @@
       "Time": "2024-01-19T03:11:33.1109183+00:00",
       "NumProgressed": 254612,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-19T04:10:31.9958187+00:00",
+      "NumProgressed": 254616,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -40732,7 +40737,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10184
+      "UsersEstimate": 10185
     },
     {
       "ID": "objective_completed_10",
@@ -42546,9 +42551,9 @@
       "ID": "objective_completed_393",
       "SetID": "cc37lbc",
       "Name": "Backtracking Through Barovia",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_394",
@@ -43938,9 +43943,9 @@
       "ID": "objective_completed_79",
       "SetID": "cc37lbc",
       "Name": "Underdeep Cartography",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 764
+      "UsersEstimate": 1018
     },
     {
       "ID": "objective_completed_8",
@@ -45099,21 +45104,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220886,
+      "Progressed": 220890,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254612,
+      "Progressed": 254616,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T01:48:57.7551958+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:11:33.110918+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:10:31.9958184+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:00:47.5441753+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:11:33.11323+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:59:27.4879567+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:10:31.9980415+00:00"
 }

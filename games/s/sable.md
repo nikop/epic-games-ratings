@@ -6,23 +6,23 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~37,889 |
-| Just The Two of Us | 32.00% | ~35,660 |
+| Simoon | 34.00% | ~37,890 |
+| Just The Two of Us | 32.00% | ~35,661 |
 | Up On High | 25.00% | ~27,860 |
 | Under The Hood | 25.00% | ~27,860 |
-| Got Your Nose | 24.00% | ~26,745 |
-| The Gift of Gab | 24.00% | ~26,745 |
-| Wrapping Up | 22.00% | ~24,516 |
+| Got Your Nose | 24.00% | ~26,746 |
+| The Gift of Gab | 24.00% | ~26,746 |
+| Wrapping Up | 22.00% | ~24,517 |
 | More Than A Box Of Sand | 18.00% | ~20,059 |
-| The Dunboyne | 17.00% | ~18,944 |
-| Badge Hobbyist | 17.00% | ~18,944 |
+| The Dunboyne | 17.00% | ~18,945 |
+| Badge Hobbyist | 17.00% | ~18,945 |
 | Chum Novice | 16.00% | ~17,830 |
 | Silver-Tongued Sable | 16.00% | ~17,830 |
 | Sticky Paws | 16.00% | ~17,830 |
 | Bubble Up | 16.00% | ~17,830 |
 | Thread The Needle | 15.00% | ~16,716 |
-| Power to the People | 14.00% | ~15,601 |
-| Nesting Giant | 14.00% | ~15,601 |
+| Power to the People | 14.00% | ~15,602 |
+| Nesting Giant | 14.00% | ~15,602 |
 | Take That! | 13.00% | ~14,487 |
 | Treasure Tracker | 13.00% | ~14,487 |
 | Big Spender | 13.00% | ~14,487 |
@@ -34,11 +34,11 @@ Number of Ratings: 43  (23.09.2022)
 | Balfron Connection | 10.00% | ~11,144 |
 | Ceiling Of Stars | 10.00% | ~11,144 |
 | Playing Dress Up | 10.00% | ~11,144 |
-| Many Different Faces | 9.00% | ~10,029 |
-| Trellick's Pillar | 9.00% | ~10,029 |
-| Centre Of Brunswick | 9.00% | ~10,029 |
-| Bike Collector | 9.00% | ~10,029 |
-| Not That Kind Of Gliding | 9.00% | ~10,029 |
+| Many Different Faces | 9.00% | ~10,030 |
+| Trellick's Pillar | 9.00% | ~10,030 |
+| Centre Of Brunswick | 9.00% | ~10,030 |
+| Bike Collector | 9.00% | ~10,030 |
+| Not That Kind Of Gliding | 9.00% | ~10,030 |
 | The Scrapper Mask | 8.00% | ~8,915 |
 | Shadow Of Neave | 8.00% | ~8,915 |
 | Fragile Goods | 8.00% | ~8,915 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,343 |
 | Vivacious Vivarium | 2.00% | ~2,229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,438 (Ranked 98)  
+Progressed: 111,440 (Ranked 98)  
 Completed: 1,141 (1.02%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 1,141 (1.02%) (Ranked 180)
 | 2024-01-16 | 111,136 | 1,136 |
 | 2024-01-17 | 111,277 | 1,138 |
 | 2024-01-18 | 111,418 | 1,141 |
-| 2024-01-19 | 111,438 | 1,141 |
+| 2024-01-19 | 111,440 | 1,141 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 527)  
 Sum: 153 (Ranked 447)  

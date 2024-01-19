@@ -11046,9 +11046,9 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133173,
+  "EOS_Progressed": 133176,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 668,
+  "EOS_NewPlayers": 667,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40536,6 +40536,11 @@
       "Time": "2024-01-19T02:36:56.661451+00:00",
       "NumProgressed": 133173,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T04:10:18.1296052+00:00",
+      "NumProgressed": 133176,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40555,7 +40560,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40643,7 +40648,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -40707,7 +40712,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40723,7 +40728,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "combat_kill_gaunts",
@@ -40739,7 +40744,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -40747,7 +40752,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -40763,7 +40768,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "combat_kill_librarian",
@@ -40787,7 +40792,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -40843,7 +40848,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -40867,7 +40872,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 7990
+      "UsersEstimate": 7991
     },
     {
       "ID": "driving_distance_easy",
@@ -40963,7 +40968,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -41019,7 +41024,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "run_victory_act04",
@@ -41027,7 +41032,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "run_victory_act05",
@@ -41035,7 +41040,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -41178,21 +41183,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133173,
+      "Progressed": 133176,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8042,
+      "Progressed": 8045,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-18T22:57:22.7656101+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:11:14.5325329+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:10:18.1296047+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:57:23.0625258+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:11:14.5327784+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:57:16.3435339+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:10:18.129763+00:00"
 }

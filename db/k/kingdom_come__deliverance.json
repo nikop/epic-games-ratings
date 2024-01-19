@@ -10179,9 +10179,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818122,
+  "EOS_Progressed": 818123,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1106,
+  "EOS_NewPlayers": 1103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41154,6 +41154,11 @@
       "Time": "2024-01-19T03:11:25.5104835+00:00",
       "NumProgressed": 818122,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-19T04:10:26.4210775+00:00",
+      "NumProgressed": 818123,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41645,7 +41650,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163624
+      "UsersEstimate": 163625
     },
     {
       "ID": "RevenantOfLedechko",
@@ -41685,7 +41690,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163624
+      "UsersEstimate": 163625
     },
     {
       "ID": "SerialKiller",
@@ -41701,7 +41706,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89993
+      "UsersEstimate": 89994
     },
     {
       "ID": "Sniper",
@@ -41773,7 +41778,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 89993
+      "UsersEstimate": 89994
     },
     {
       "ID": "TrialAndError",
@@ -41820,15 +41825,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818122,
+      "Progressed": 818123,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-19T03:01:22.325709+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:11:25.5104832+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:10:26.4210772+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:01:22.3257097+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:11:25.5106512+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:59:49.9802294+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:10:26.4212488+00:00"
 }

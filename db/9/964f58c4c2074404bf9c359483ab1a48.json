@@ -3,11 +3,11 @@
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
   "Ranking_Rating": 846,
-  "Ranking_Popularity": 390,
+  "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
@@ -2359,18 +2359,24 @@
       "Rating": 4.34,
       "NumberOfAwards": 676,
       "NumberOfAwardsMax": 97
+    },
+    {
+      "Time": "2024-01-19T03:58:33.6583875+00:00",
+      "Rating": 4.34,
+      "NumberOfAwards": 677,
+      "NumberOfAwardsMax": 98
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 676,
-  "NumberOfAwardsMax": 97,
+  "NumberOfAwards": 677,
+  "NumberOfAwardsMax": 98,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 97
+      "Count": 98
     },
     {
       "Text": "This game is Highly Recommended",
@@ -2439,9 +2445,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 1301666,
+  "EOS_Progressed": 1301668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1180,
+  "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29564,6 +29570,11 @@
       "Time": "2024-01-19T03:07:05.6682134+00:00",
       "NumProgressed": 1301666,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T04:05:26.5634031+00:00",
+      "NumProgressed": 1301668,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -29871,7 +29882,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 767983
+      "UsersEstimate": 767984
     },
     {
       "ID": "hunter_win",
@@ -29879,7 +29890,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 702900
+      "UsersEstimate": 702901
     },
     {
       "ID": "master_of_loadouts",
@@ -29910,16 +29921,16 @@
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1301666,
+      "Progressed": 1301668,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-01T17:56:58.3739755+00:00",
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
-  "LastChanged": "2024-01-18T03:58:29.9902672+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:07:05.6682129+00:00",
+  "LastChanged": "2024-01-19T03:58:33.6583874+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:05:26.5634029+00:00",
   "LastUpdate_AppInfo": "2024-01-12T13:02:34.9954537+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:59:24.1598322+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:07:05.6683752+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:58:33.6583878+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:05:26.5635331+00:00"
 }

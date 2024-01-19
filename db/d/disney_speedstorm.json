@@ -2973,10 +2973,10 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 401836,
+  "EOS_Progressed": 401871,
   "EOS_Completed": 1652,
   "EOS_NewPlayers": 6809,
-  "EOS_NewCompleters": 81,
+  "EOS_NewCompleters": 80,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
@@ -21603,6 +21603,11 @@
       "Time": "2024-01-19T03:09:23.8649337+00:00",
       "NumProgressed": 401836,
       "NumCompleted": 1652
+    },
+    {
+      "Time": "2024-01-19T04:09:01.0322705+00:00",
+      "NumProgressed": 401871,
+      "NumCompleted": 1652
     }
   ],
   "TotalAchievements": 24,
@@ -21622,7 +21627,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24110
+      "UsersEstimate": 24112
     },
     {
       "ID": "11",
@@ -21654,7 +21659,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36165
+      "UsersEstimate": 36168
     },
     {
       "ID": "15",
@@ -21670,7 +21675,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "17",
@@ -21686,7 +21691,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "19",
@@ -21694,7 +21699,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 1,
       "XP": 85,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "2",
@@ -21710,7 +21715,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 20092
+      "UsersEstimate": 20094
     },
     {
       "ID": "21",
@@ -21718,7 +21723,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "22",
@@ -21726,7 +21731,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "23",
@@ -21742,7 +21747,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16073
+      "UsersEstimate": 16075
     },
     {
       "ID": "3",
@@ -21750,7 +21755,7 @@
       "Name": "FRIENDLY",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "4",
@@ -21758,7 +21763,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 12055
+      "UsersEstimate": 12056
     },
     {
       "ID": "5",
@@ -21766,7 +21771,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 52239
+      "UsersEstimate": 52243
     },
     {
       "ID": "6",
@@ -21774,7 +21779,7 @@
       "Name": "PRO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20092
+      "UsersEstimate": 20094
     },
     {
       "ID": "7",
@@ -21782,7 +21787,7 @@
       "Name": "MASTER",
       "Percentage": 1,
       "XP": 65,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     },
     {
       "ID": "8",
@@ -21798,14 +21803,14 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 4018
+      "UsersEstimate": 4019
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 401836,
+      "Progressed": 401871,
       "Completed": 1652
     }
   ],
@@ -21813,8 +21818,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-19T01:48:53.6051269+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:09:23.8649333+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:09:01.0322702+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.8696408+00:00",
-  "LastUpdate_Ratings": "2024-01-19T03:00:41.1268217+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:09:23.8650442+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:59:23.6418812+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:09:01.0323699+00:00"
 }

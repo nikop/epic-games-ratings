@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12422,
+  "EOS_Progressed": 12423,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -16106,6 +16106,11 @@
       "Time": "2024-01-19T02:31:20.0238438+00:00",
       "NumProgressed": 12422,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-19T04:04:24.227191+00:00",
+      "NumProgressed": 12423,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 29,
@@ -16117,7 +16122,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10310
+      "UsersEstimate": 10311
     },
     {
       "ID": "ACH02",
@@ -16189,7 +16194,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3602
+      "UsersEstimate": 3603
     },
     {
       "ID": "ACH11",
@@ -16253,7 +16258,7 @@
       "Name": "Not So Fast",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1366
+      "UsersEstimate": 1367
     },
     {
       "ID": "ACH19",
@@ -16348,7 +16353,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12422,
+      "Progressed": 12423,
       "Completed": 93
     }
   ],
@@ -16356,8 +16361,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-19T03:05:35.0949503+00:00",
+  "LastChanged_Achievements": "2024-01-19T04:04:24.2271908+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:59:39.7422425+00:00",
-  "LastUpdate_Achievements": "2024-01-19T03:05:35.0950543+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:58:44.7434498+00:00",
+  "LastUpdate_Achievements": "2024-01-19T04:04:24.2272664+00:00"
 }
