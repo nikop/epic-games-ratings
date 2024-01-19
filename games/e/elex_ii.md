@@ -41,11 +41,11 @@ Number of Ratings: 124  (23.09.2022)
 | Idealist | 3.00% | ~8 |
 | Morkon | 3.00% | ~8 |
 | Legendary | 3.00% | ~8 |
+| Pack Rat | 2.00% | ~5 |
 | Toy Time | 2.00% | ~5 |
 | Defector | 2.00% | ~5 |
 | Outlaw | 2.00% | ~5 |
 | Destroyer | 2.00% | ~5 |
-| Pack Rat | 1.00% | ~3 |
 | Ruthless | 0.80% | ~2 |
 | Fire in the Hole | 0.80% | ~2 |
 | Drinker | 0.00% | ~0 |

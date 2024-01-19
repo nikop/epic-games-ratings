@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 372,
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 317,
-  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewPlayers": 210,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1087,9 +1087,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 9990,
+  "EOS_Progressed": 9991,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11322,6 +11322,11 @@
       "Time": "2024-01-18T23:10:08.910552+00:00",
       "NumProgressed": 9990,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T00:10:50.2218277+00:00",
+      "NumProgressed": 9991,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11477,7 +11482,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1598
+      "UsersEstimate": 1599
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11501,7 +11506,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3496
+      "UsersEstimate": 3497
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11581,7 +11586,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2697
+      "UsersEstimate": 2698
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11661,7 +11666,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 4995
+      "UsersEstimate": 4996
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11692,7 +11697,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 9990,
+      "Progressed": 9991,
       "Completed": 10
     }
   ],
@@ -11700,8 +11705,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-14T23:58:41.0120561+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:10:08.9105518+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:10:50.2218273+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.0971145+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:03:01.2230815+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:10:08.9106293+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:03:22.5748504+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:10:50.2218972+00:00"
 }

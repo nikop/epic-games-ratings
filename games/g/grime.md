@@ -6,10 +6,10 @@ Number of Ratings: 46  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Taste | 4.00% | ~6,752 |
-| Imprint | 4.00% | ~6,752 |
-| The Hunt | 3.00% | ~5,064 |
-| Ravenous | 3.00% | ~5,064 |
+| Taste | 4.00% | ~6,753 |
+| Imprint | 4.00% | ~6,753 |
+| The Hunt | 3.00% | ~5,065 |
+| Ravenous | 3.00% | ~5,065 |
 | Weeper | 2.00% | ~3,376 |
 | Harmless | 1.00% | ~1,688 |
 | Silenced Whispers | 1.00% | ~1,688 |
@@ -19,15 +19,15 @@ Number of Ratings: 46  (23.09.2022)
 | Scion | 0.90% | ~1,516 |
 | Jawcrab | 0.90% | ~1,519 |
 | Feast | 0.90% | ~1,519 |
-| Jawstag | 0.80% | ~1,350 |
-| Watcher | 0.80% | ~1,350 |
+| Jawstag | 0.80% | ~1,351 |
+| Watcher | 0.80% | ~1,351 |
 | Shapely | 0.70% | ~1,182 |
 | Glare | 0.70% | ~1,179 |
 | Predator | 0.60% | ~1,013 |
 | Assimilation | 0.50% | ~844 |
+| Hunt Down | 0.50% | ~844 |
 | Host | 0.50% | ~842 |
 | Celebration | 0.50% | ~844 |
-| Hunt Down | 0.40% | ~675 |
 | Artisan | 0.40% | ~675 |
 | Hush | 0.40% | ~675 |
 | Inevitable | 0.40% | ~675 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~168 |
 | Intensify | 0.10% | ~168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,812 (Ranked 85)  
+Progressed: 168,817 (Ranked 85)  
 Completed: 461 (0.27%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,6 +304,7 @@ Completed: 461 (0.27%) (Ranked 268)
 | 2024-01-16 | 168,542 | 461 |
 | 2024-01-17 | 168,696 | 461 |
 | 2024-01-18 | 168,812 | 461 |
+| 2024-01-19 | 168,817 | 461 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 433)  
 Sum: 465 (Ranked 345)  

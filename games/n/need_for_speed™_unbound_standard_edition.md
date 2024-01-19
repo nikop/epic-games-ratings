@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 84.00% | ~47,412 |
-| Fashion Killa | 81.00% | ~45,719 |
-| Cool Whip | 74.00% | ~41,768 |
-| Drop the Beat | 65.00% | ~36,688 |
-| Hey Lakeshore | 61.00% | ~34,430 |
+| Throwing up Tags | 84.00% | ~47,413 |
+| Fashion Killa | 81.00% | ~45,720 |
+| Cool Whip | 74.00% | ~41,769 |
+| Drop the Beat | 65.00% | ~36,689 |
+| Hey Lakeshore | 61.00% | ~34,431 |
 | Public Enemy | 60.00% | ~33,866 |
-| 100 Miles and Runnin' | 59.00% | ~33,301 |
-| Rebel Without a Pause | 38.00% | ~21,448 |
-| Hey Speedie! | 38.00% | ~21,448 |
+| 100 Miles and Runnin' | 59.00% | ~33,302 |
+| Rebel Without a Pause | 38.00% | ~21,449 |
+| Hey Speedie! | 38.00% | ~21,449 |
 | Most Wanted | 34.00% | ~19,191 |
 | New Crew | 32.00% | ~18,062 |
 | Serious Guap | 27.00% | ~15,240 |
@@ -30,7 +30,7 @@
 | In the Flow | 11.00% | ~6,209 |
 | The Collector | 11.00% | ~6,209 |
 | Top Billin' | 9.00% | ~5,080 |
-| Teacher's Pet | 8.00% | ~4,515 |
+| Teacher's Pet | 8.00% | ~4,516 |
 | Full House | 7.00% | ~3,951 |
 | Superstar | 7.00% | ~3,951 |
 | B for My Name | 6.00% | ~3,387 |
@@ -46,7 +46,7 @@
 | Cleaning Up | 0.60% | ~339 |
 | Frequent Flyer | 0.50% | ~282 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 56,443 (Ranked 122)  
+Progressed: 56,444 (Ranked 122)  
 Completed: 60 (0.11%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,3 +172,4 @@ Completed: 60 (0.11%) (Ranked 312)
 | 2024-01-16 | 56,052 | 59 |
 | 2024-01-17 | 56,263 | 60 |
 | 2024-01-18 | 56,443 | 60 |
+| 2024-01-19 | 56,444 | 60 |

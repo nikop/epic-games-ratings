@@ -5,20 +5,20 @@ Rating: 4.19 (Ranked 977)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,126 |
-| Battlefields Have Memories | 82.00% | ~2,880 |
-| Enlisted | 75.00% | ~2,634 |
-| Maybe Engage a Little | 70.00% | ~2,458 |
-| No More Names | 54.00% | ~1,896 |
+| Unforeseen | 89.00% | ~3,127 |
+| Battlefields Have Memories | 82.00% | ~2,881 |
+| Enlisted | 75.00% | ~2,635 |
+| Maybe Engage a Little | 70.00% | ~2,459 |
+| No More Names | 54.00% | ~1,897 |
 | Initiate | 41.00% | ~1,440 |
-| Thrada-Kul | 37.00% | ~1,299 |
+| Thrada-Kul | 37.00% | ~1,300 |
 | Gravity-Challenged Rocks | 31.00% | ~1,089 |
-| Soldier | 27.00% | ~948 |
+| Soldier | 27.00% | ~949 |
 | All the Major Food Groups | 26.00% | ~913 |
 | Socialite | 25.00% | ~878 |
 | Beggars Would Ride | 24.00% | ~843 |
 | Control is an Illusion | 23.00% | ~808 |
-| The Means to Save It | 20.00% | ~702 |
+| The Means to Save It | 20.00% | ~703 |
 | Resilience to Sin | 18.00% | ~632 |
 | A Familiar Nest | 18.00% | ~632 |
 | Geas Aristeya | 17.00% | ~597 |
@@ -35,8 +35,8 @@ Rating: 4.19 (Ranked 977)
 | Kitted Out | 5.00% | ~176 |
 | Armaments Azure | 5.00% | ~176 |
 | Armaments Gules | 5.00% | ~176 |
-| Scholar | 4.00% | ~140 |
-| Armaments Vert | 4.00% | ~140 |
+| Scholar | 4.00% | ~141 |
+| Armaments Vert | 4.00% | ~141 |
 | Veteran | 3.00% | ~105 |
 | Grand Magnus | 2.00% | ~70 |
 | Master of Carmine | 1.00% | ~35 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 977)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,512 (Ranked 229)  
+Progressed: 3,513 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 301)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,6 +166,7 @@ Completed: 5 (0.14%) (Ranked 301)
 | 2024-01-16 | 3,478 | 5 |
 | 2024-01-17 | 3,496 | 5 |
 | 2024-01-18 | 3,512 | 5 |
+| 2024-01-19 | 3,513 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 21  (Ranked 575)  
 Sum: 21 (Ranked 577)  

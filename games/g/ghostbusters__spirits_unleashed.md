@@ -6,8 +6,8 @@ Rating: 4.50 (Ranked 618)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,716 |
-| Meticulously Efficient | 9.00% | ~3,040 |
-| Advancement | 8.00% | ~2,702 |
+| Meticulously Efficient | 9.00% | ~3,041 |
+| Advancement | 8.00% | ~2,703 |
 | Swift Rift Removers | 7.00% | ~2,365 |
 | I collect Spores, Molds, and Fungi | 6.00% | ~2,027 |
 | Discovery | 6.00% | ~2,027 |
@@ -22,18 +22,18 @@ Rating: 4.50 (Ranked 618)
 | Daily Dose | 4.00% | ~1,351 |
 | Ghostbuster In Training | 4.00% | ~1,351 |
 | Right back at ya | 4.00% | ~1,351 |
-| Animated | 3.00% | ~1,013 |
-| Back Off | 3.00% | ~1,013 |
-| We have the best insurance | 3.00% | ~1,013 |
-| Ectoplasmic Entity | 3.00% | ~1,013 |
-| Icing on the Cake | 3.00% | ~1,013 |
-| Legions | 3.00% | ~1,013 |
-| Pesky Jerks | 3.00% | ~1,013 |
-| Rift Destroyer | 3.00% | ~1,013 |
-| Seasoned | 3.00% | ~1,013 |
-| Side Hustle | 3.00% | ~1,013 |
-| Summoner | 3.00% | ~1,013 |
-| Welcome to the Crew | 3.00% | ~1,013 |
+| Animated | 3.00% | ~1,014 |
+| Back Off | 3.00% | ~1,014 |
+| We have the best insurance | 3.00% | ~1,014 |
+| Ectoplasmic Entity | 3.00% | ~1,014 |
+| Icing on the Cake | 3.00% | ~1,014 |
+| Legions | 3.00% | ~1,014 |
+| Pesky Jerks | 3.00% | ~1,014 |
+| Rift Destroyer | 3.00% | ~1,014 |
+| Seasoned | 3.00% | ~1,014 |
+| Side Hustle | 3.00% | ~1,014 |
+| Summoner | 3.00% | ~1,014 |
+| Welcome to the Crew | 3.00% | ~1,014 |
 | Collector | 2.00% | ~676 |
 | Escape Artist | 2.00% | ~676 |
 | Reckless | 2.00% | ~676 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 618)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,781 (Ranked 140)  
+Progressed: 33,784 (Ranked 140)  
 Completed: 71 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,6 +331,7 @@ Completed: 71 (0.21%) (Ranked 283)
 | 2024-01-16 | 33,725 | 71 |
 | 2024-01-17 | 33,760 | 71 |
 | 2024-01-18 | 33,781 | 71 |
+| 2024-01-19 | 33,784 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 328  (Ranked 258)  
 Sum: 2,972 (Ranked 188)  

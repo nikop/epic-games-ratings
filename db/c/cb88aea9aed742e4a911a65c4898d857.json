@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -413,9 +413,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11797,
+  "EOS_Progressed": 11801,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 693,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5403,6 +5403,11 @@
       "Time": "2024-01-18T22:11:24.8443193+00:00",
       "NumProgressed": 11797,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T00:11:33.2775105+00:00",
+      "NumProgressed": 11801,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5415,7 +5420,7 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2595
+      "UsersEstimate": 2596
     },
     {
       "ID": "03_TheStolenStar",
@@ -5733,9 +5738,9 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1298
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5934,7 +5939,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11797,
+      "Progressed": 11801,
       "Completed": 1
     }
   ],
@@ -5942,8 +5947,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-18T13:59:36.0341699+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:10:43.16186+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:11:33.2775103+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:00:02.0325175+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:10:43.1619161+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:01:04.8374496+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:11:33.277587+00:00"
 }

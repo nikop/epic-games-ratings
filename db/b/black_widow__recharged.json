@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25105,
+  "EOS_Progressed": 25107,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 299,
   "EOS_NewCompleters": 1,
@@ -23804,6 +23804,11 @@
       "Time": "2024-01-18T23:04:31.9377893+00:00",
       "NumProgressed": 25105,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-19T00:05:18.9302428+00:00",
+      "NumProgressed": 25107,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -23815,7 +23820,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19331
+      "UsersEstimate": 19332
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -23831,7 +23836,7 @@
       "Name": "Caught in a Trap",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 2510
+      "UsersEstimate": 2511
     },
     {
       "ID": "ACH_DANGER_AHEAD",
@@ -23839,7 +23844,7 @@
       "Name": "Danger Ahead",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 6276
+      "UsersEstimate": 6277
     },
     {
       "ID": "ACH_DONT_BRING_ME_DOWN",
@@ -23871,7 +23876,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12804
+      "UsersEstimate": 12805
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -23895,7 +23900,7 @@
       "Name": "Look at Me Now",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "ACH_THE_FALL",
@@ -23926,15 +23931,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25105,
+      "Progressed": 25107,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:04:31.937789+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:05:18.9302424+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.2562135+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:02:39.238286+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:04:31.9379057+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:02:06.3855909+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:05:18.9303805+00:00"
 }

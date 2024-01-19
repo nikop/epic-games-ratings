@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 10.00% | ~2,087 |
+| Overgrown Library | 10.00% | ~2,088 |
 | First Real Expedition | 9.00% | ~1,879 |
 | Taking Action | 9.00% | ~1,879 |
 | No Deaths | 9.00% | ~1,879 |
@@ -17,9 +17,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Coral Forest | 7.00% | ~1,461 |
 | The Scarlet Orchard | 7.00% | ~1,461 |
 | Gathering Storm | 7.00% | ~1,461 |
-| Frosts | 6.00% | ~1,252 |
-| Land of Greed | 6.00% | ~1,252 |
-| Ominous Presence | 6.00% | ~1,252 |
+| Frosts | 6.00% | ~1,253 |
+| Land of Greed | 6.00% | ~1,253 |
+| Ominous Presence | 6.00% | ~1,253 |
 | Royal Outpost | 5.00% | ~1,044 |
 | Watchtower | 5.00% | ~1,044 |
 | A Real Challenge | 5.00% | ~1,044 |
@@ -41,22 +41,22 @@ Number of Ratings: 1,845  (23.09.2022)
 | Statue of the Forefathers | 3.00% | ~626 |
 | Corrosive Torrent | 3.00% | ~626 |
 | Cursed Lands | 3.00% | ~626 |
-| Serving Ale | 2.00% | ~417 |
-| Efficient Explorer | 2.00% | ~417 |
-| Refinery | 2.00% | ~417 |
-| Dangerous Lands | 2.00% | ~417 |
-| Fishmen Ritual Site | 2.00% | ~417 |
-| Forsaken Gods Temple | 2.00% | ~417 |
-| Victory Through Prosperity | 2.00% | ~417 |
-| Defying the Crown | 2.00% | ~417 |
-| Into the Forest | 2.00% | ~417 |
+| Serving Ale | 2.00% | ~418 |
+| Efficient Explorer | 2.00% | ~418 |
+| Refinery | 2.00% | ~418 |
+| Dangerous Lands | 2.00% | ~418 |
+| Fishmen Ritual Site | 2.00% | ~418 |
+| Forsaken Gods Temple | 2.00% | ~418 |
+| Victory Through Prosperity | 2.00% | ~418 |
+| Defying the Crown | 2.00% | ~418 |
+| Into the Forest | 2.00% | ~418 |
 | Forbidden Lands | 1.00% | ~209 |
 | Like a Machine | 1.00% | ~209 |
 | Feeding The People | 0.90% | ~188 |
 | Prestigious Expedition | 0.60% | ~125 |
 | Blood Flower Farmer | 0.60% | ~125 |
 | Fox Utopia | 0.50% | ~104 |
-| Human Utopia | 0.40% | ~83 |
+| Human Utopia | 0.40% | ~84 |
 | Beaver Utopia | 0.30% | ~63 |
 | Lizard Utopia | 0.30% | ~63 |
 | Higher Needs | 0.20% | ~42 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,874 (Ranked 156)  
-Completed: 35 (0.17%) (Ranked 293)  
+Progressed: 20,877 (Ranked 156)  
+Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -340,6 +340,7 @@ Completed: 35 (0.17%) (Ranked 293)
 | 2024-01-16 | 20,829 | 35 |
 | 2024-01-17 | 20,854 | 35 |
 | 2024-01-18 | 20,874 | 35 |
+| 2024-01-19 | 20,877 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 234)  
 Sum: 3,393 (Ranked 179)  

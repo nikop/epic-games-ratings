@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2016,
+  "EOS_Progressed": 2017,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -3794,6 +3794,11 @@
       "Time": "2024-01-18T23:05:17.7900377+00:00",
       "NumProgressed": 2016,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-19T00:06:17.4527619+00:00",
+      "NumProgressed": 2017,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3821,7 +3826,7 @@
       "Name": "Strike!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "12",
@@ -3869,7 +3874,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "18",
@@ -3885,7 +3890,7 @@
       "Name": "Second thoughts",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "2",
@@ -3909,7 +3914,7 @@
       "Name": "Mooning the moon",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "22",
@@ -3925,7 +3930,7 @@
       "Name": "Pearls before Birble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "24",
@@ -3949,7 +3954,7 @@
       "Name": "Strip-a-bobble",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "29",
@@ -3957,7 +3962,7 @@
       "Name": "A love supreme",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 302
+      "UsersEstimate": 303
     },
     {
       "ID": "3",
@@ -4029,7 +4034,7 @@
       "Name": "Over my dead body",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "9",
@@ -4037,22 +4042,22 @@
       "Name": "Last minute",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2016,
+      "Progressed": 2017,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:05:17.7900374+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:06:17.4527615+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:00:27.4637514+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:05:17.7900771+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:01:38.7141099+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:06:17.4527987+00:00"
 }

@@ -1577,7 +1577,7 @@
       "Count": 155
     }
   ],
-  "EOS_Progressed": 14850,
+  "EOS_Progressed": 14851,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 257,
   "EOS_NewCompleters": 1,
@@ -10337,6 +10337,11 @@
       "Time": "2024-01-18T22:10:23.9154066+00:00",
       "NumProgressed": 14850,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-19T00:10:32.3201787+00:00",
+      "NumProgressed": 14851,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -10356,7 +10361,7 @@
       "Name": "Too Much of a Talker",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ColdBlood",
@@ -10372,7 +10377,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8910
+      "UsersEstimate": 8911
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10380,7 +10385,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "DwarfChandelier",
@@ -10434,9 +10439,9 @@
       "ID": "HeroSlayer",
       "SetID": "97dk767",
       "Name": "The Hero Killer",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 3861
+      "UsersEstimate": 3713
     },
     {
       "ID": "LeoniasFall",
@@ -10476,7 +10481,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8910
+      "UsersEstimate": 8911
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10492,7 +10497,7 @@
       "Name": "The Skeleton King",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "StockManagement",
@@ -10508,7 +10513,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13810
+      "UsersEstimate": 13811
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10524,7 +10529,7 @@
       "Name": "Master of Speed",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 1336
+      "UsersEstimate": 1337
     },
     {
       "ID": "WhattoBuy",
@@ -10532,22 +10537,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11880
+      "UsersEstimate": 11881
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14850,
+      "Progressed": 14851,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-18T14:57:31.8456825+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:09:55.4695184+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:10:32.3201786+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:57:53.9939339+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:09:55.4695686+00:00"
+  "LastUpdate_Ratings": "2024-01-18T23:58:09.1825526+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:10:32.3202202+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1637,9 +1637,9 @@
       "ID": "100000ITEMS",
       "SetID": "a1angca",
       "Name": "Pack Rat",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "10000ELEXIT",
@@ -2045,8 +2045,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:04:21.2149533+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:05:05.4733696+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:58:03.422615+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:04:21.2149831+00:00"
+  "LastUpdate_Ratings": "2024-01-18T23:58:22.6254137+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:05:05.4734055+00:00"
 }

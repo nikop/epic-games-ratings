@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47464,
+  "EOS_Progressed": 47465,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19263,6 +19263,11 @@
       "Time": "2024-01-18T23:05:44.8202028+00:00",
       "NumProgressed": 47464,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T00:06:52.4287226+00:00",
+      "NumProgressed": 47465,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19626,7 +19631,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3322
+      "UsersEstimate": 3323
     },
     {
       "ID": "STAYING_AIR",
@@ -19697,22 +19702,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47464,
+      "Progressed": 47465,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12301,
-      "Completed": 12301
+      "Progressed": 12302,
+      "Completed": 12302
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:05:44.8202026+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:06:52.4287221+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:03:26.7024606+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:05:44.8203165+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:03:57.6379214+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:06:52.4288414+00:00"
 }

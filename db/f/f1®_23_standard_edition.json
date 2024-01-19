@@ -4,10 +4,10 @@
   "ProductSlug": "f1-23",
   "Ranking_Rating": 346,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 349,
+  "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -1489,10 +1489,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 460,
       "NumberOfAwardsMax": 68
+    },
+    {
+      "Time": "2024-01-18T23:58:36.1257531+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 461,
+      "NumberOfAwardsMax": 68
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 460,
+  "NumberOfAwards": 461,
   "NumberOfAwardsMax": 68,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1548,7 +1554,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 40
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1569,9 +1575,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18404,
+  "EOS_Progressed": 18405,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12149,6 +12155,11 @@
       "Time": "2024-01-18T22:08:10.6310001+00:00",
       "NumProgressed": 18404,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T00:08:21.9277841+00:00",
+      "NumProgressed": 18405,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12169,7 +12180,7 @@
       "Name": "Gathering Dust",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "achievement_0003",
@@ -12201,7 +12212,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12883
+      "UsersEstimate": 12884
     },
     {
       "ID": "achievement_0007",
@@ -12209,7 +12220,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16748
+      "UsersEstimate": 16749
     },
     {
       "ID": "achievement_0008",
@@ -12217,7 +12228,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15275
+      "UsersEstimate": 15276
     },
     {
       "ID": "achievement_0009",
@@ -12337,7 +12348,7 @@
       "Name": "Sharing the Love",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6073
+      "UsersEstimate": 6074
     },
     {
       "ID": "achievement_0024",
@@ -12393,7 +12404,7 @@
       "Name": "Reuse",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2208
+      "UsersEstimate": 2209
     },
     {
       "ID": "achievement_0031",
@@ -12473,7 +12484,7 @@
       "Name": "One for the Book",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2024
+      "UsersEstimate": 2025
     },
     {
       "ID": "achievement_0041",
@@ -12505,7 +12516,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6625
+      "UsersEstimate": 6626
     },
     {
       "ID": "achievement_0045",
@@ -12519,9 +12530,9 @@
       "ID": "achievement_0046",
       "SetID": "9123ogc",
       "Name": "Writing a new Chapter",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3497
+      "UsersEstimate": 3681
     },
     {
       "ID": "achievement_0047",
@@ -12552,16 +12563,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18404,
+      "Progressed": 18405,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-01-18T07:57:31.5210033+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:06:54.0683149+00:00",
+  "LastChanged": "2024-01-18T23:58:36.1257529+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:08:21.9277838+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:58:13.7956956+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:06:54.0684174+00:00"
+  "LastUpdate_Ratings": "2024-01-18T23:58:36.1257534+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:08:21.9278819+00:00"
 }

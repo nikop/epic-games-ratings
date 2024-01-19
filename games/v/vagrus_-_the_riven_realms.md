@@ -8,7 +8,7 @@
 | Press-ganged | 43.00% | ~133 |
 | The Package | 28.00% | ~87 |
 | Randomized | 19.00% | ~59 |
-| Conquered | 18.00% | ~56 |
+| Conquered | 19.00% | ~59 |
 | Scribe | 12.00% | ~37 |
 | Breached | 11.00% | ~34 |
 | Tactician | 10.00% | ~31 |

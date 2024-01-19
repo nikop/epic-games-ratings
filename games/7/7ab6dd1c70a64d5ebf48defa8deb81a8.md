@@ -31,9 +31,9 @@ Rating: 4.17 (Ranked 991)
 | Clear Sight | 5.00% | ~119 |
 | Shatterer | 5.00% | ~119 |
 | Fine Feathers Make Fine Birds | 5.00% | ~119 |
+| A Queen's Tale | 4.00% | ~95 |
 | Slayer | 3.00% | ~71 |
 | Flawless Victory | 3.00% | ~71 |
-| A Queen's Tale | 3.00% | ~71 |
 | Forgemaster | 2.00% | ~48 |
 | Shardbearer | 2.00% | ~48 |
 | All There Is | 2.00% | ~48 |

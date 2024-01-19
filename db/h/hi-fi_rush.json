@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17389,
+  "EOS_Progressed": 17390,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 584,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12659,6 +12659,11 @@
       "Time": "2024-01-18T22:04:51.5698727+00:00",
       "NumProgressed": 17389,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T00:05:03.6035592+00:00",
+      "NumProgressed": 17390,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12686,7 +12691,7 @@
       "Name": "This will cost you big time",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 3999
+      "UsersEstimate": 4000
     },
     {
       "ID": "Ach004",
@@ -12702,7 +12707,7 @@
       "Name": "Headliner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "Ach006",
@@ -12790,7 +12795,7 @@
       "Name": "Chip-tuned",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "Ach017",
@@ -12798,7 +12803,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4347
+      "UsersEstimate": 4348
     },
     {
       "ID": "Ach018",
@@ -12894,7 +12899,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2434
+      "UsersEstimate": 2435
     },
     {
       "ID": "Ach030",
@@ -12926,7 +12931,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 3999
+      "UsersEstimate": 4000
     },
     {
       "ID": "Ach034",
@@ -13038,7 +13043,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7303
+      "UsersEstimate": 7304
     },
     {
       "ID": "Ach048",
@@ -13070,7 +13075,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8694
+      "UsersEstimate": 8695
     },
     {
       "ID": "Ach052",
@@ -13094,7 +13099,7 @@
       "Name": "I told you I\u0027d be fine, Peppermint!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "Ach055",
@@ -13237,13 +13242,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17389,
+      "Progressed": 17390,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15910,
+      "Progressed": 15911,
       "Completed": 1931
     }
   ],
@@ -13251,8 +13256,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:04:19.624632+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:05:03.6035586+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:57:57.116866+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:04:19.6247239+00:00"
+  "LastUpdate_Ratings": "2024-01-18T23:58:13.5215512+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:05:03.6036794+00:00"
 }

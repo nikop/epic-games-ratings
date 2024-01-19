@@ -5,28 +5,28 @@ Rating: 4.64 (Ranked 346)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,748 |
-| On the Top Step | 83.00% | ~15,275 |
-| Setting up for Success | 70.00% | ~12,883 |
+| Getting on the Step | 91.00% | ~16,749 |
+| On the Top Step | 83.00% | ~15,276 |
+| Setting up for Success | 70.00% | ~12,884 |
 | Team Orders | 68.00% | ~12,515 |
 | Engineer | 45.00% | ~8,282 |
 | Familiar Faces | 42.00% | ~7,730 |
-| Going the Extra Mile | 36.00% | ~6,625 |
-| Sharing the Love | 33.00% | ~6,073 |
+| Going the Extra Mile | 36.00% | ~6,626 |
+| Sharing the Love | 33.00% | ~6,074 |
 | Hitting a Season | 28.00% | ~5,153 |
 | A Dozen Pieces | 25.00% | ~4,601 |
 | Making History | 25.00% | ~4,601 |
 | Challenge Yourself | 24.00% | ~4,417 |
 | Network Success | 23.00% | ~4,233 |
-| Writing a new Chapter | 19.00% | ~3,497 |
+| Writing a new Chapter | 20.00% | ~3,681 |
 | Spring Cleaning | 18.00% | ~3,313 |
 | Reduce | 15.00% | ~2,761 |
 | Ups and Downs | 15.00% | ~2,761 |
 | Crucial Combo | 13.00% | ~2,393 |
 | Proving Them Wrong | 13.00% | ~2,393 |
-| Reuse | 12.00% | ~2,208 |
-| Gathering Dust | 11.00% | ~2,024 |
-| One for the Book | 11.00% | ~2,024 |
+| Reuse | 12.00% | ~2,209 |
+| Gathering Dust | 11.00% | ~2,025 |
+| One for the Book | 11.00% | ~2,025 |
 | Eagle Eye | 10.00% | ~1,840 |
 | All in a Weekend's Work | 10.00% | ~1,840 |
 | Oil and Water | 10.00% | ~1,840 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 346)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,404 (Ranked 163)  
+Progressed: 18,405 (Ranked 163)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,10 +183,11 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 18,312 | 0 |
 | 2024-01-17 | 18,358 | 0 |
 | 2024-01-18 | 18,404 | 0 |
+| 2024-01-19 | 18,405 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 424)  
-Sum: 460 (Ranked 349)  
-Diff (max vs sum): 75  
+Sum: 461 (Ranked 348)  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 68 |
@@ -195,7 +196,7 @@ Diff (max vs sum): 75
 | This game is Highly Recommended | 49 |
 | This game is Extremely Fun | 45 |
 | This game has Quickly Understood Controls | 41 |
-| This game has Challenging Combat | 40 |
+| This game has Challenging Combat | 41 |
 | This game has Competitive Players | 39 |
 | This game is Educational | 37 |
 | This game is Great for Beginners | 36 |
@@ -331,4 +332,4 @@ Diff (max vs sum): 75
 | 2024-01-15 | 4.64 | 67 | 444 |
 | 2024-01-16 | 4.64 | 68 | 448 |
 | 2024-01-17 | 4.64 | 68 | 458 |
-| 2024-01-18 | 4.64 | 68 | 460 |
+| 2024-01-18 | 4.64 | 68 | 461 |

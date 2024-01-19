@@ -21,8 +21,8 @@ Rating: 4.58 (Ranked 474)
 | Beast slayer | 21.00% | ~43 |
 | Ogre friend | 21.00% | ~43 |
 | Death of a legend | 20.00% | ~41 |
+| Family man | 19.00% | ~39 |
 | Archaeologist | 19.00% | ~39 |
-| Family man | 18.00% | ~37 |
 | Little hero | 18.00% | ~37 |
 | The fourth triplet | 18.00% | ~37 |
 | Sidelined | 18.00% | ~37 |

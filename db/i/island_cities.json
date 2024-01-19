@@ -4,8 +4,8 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -32,10 +32,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 884,
-  "EOS_Completed": 148,
+  "EOS_Completed": 149,
   "EOS_NewPlayers": 23,
-  "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 16.74,
+  "EOS_NewCompleters": 3,
+  "EOS_Completed_Percentage": 16.86,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3831,6 +3831,11 @@
       "Time": "2024-01-18T23:06:38.623094+00:00",
       "NumProgressed": 884,
       "NumCompleted": 148
+    },
+    {
+      "Time": "2024-01-19T00:08:02.0180652+00:00",
+      "NumProgressed": 884,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 22,
@@ -4018,15 +4023,15 @@
       "ID": "3khpmem",
       "IsBase": true,
       "Progressed": 884,
-      "Completed": 148
+      "Completed": 149
     }
   ],
   "FirstSeen": "2023-04-28T06:58:06.5817191+00:00",
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:06:38.6230937+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:08:02.0180649+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:59:50.7266454+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:06:38.6231229+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:00:50.8202429+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:08:02.0180989+00:00"
 }

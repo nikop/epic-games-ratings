@@ -4,7 +4,7 @@
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 371,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
@@ -500,9 +500,9 @@
       "ID": "LupusNephretis",
       "SetID": "aaidab7",
       "Name": "It\u0027s Never Lupus",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "MedStudent",
@@ -627,8 +627,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:05:59.5860315+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:07:11.3997007+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:15.4045018+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:00:09.6262762+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:05:59.586056+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:01:13.2300789+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:07:11.3997322+00:00"
 }

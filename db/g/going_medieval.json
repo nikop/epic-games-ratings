@@ -6,8 +6,8 @@
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 272,
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_Completed": 292,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1709,11 +1709,11 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 7999,
+  "EOS_Progressed": 8001,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.18,
+  "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:10.2850531+00:00",
@@ -17014,6 +17014,11 @@
       "Time": "2024-01-18T22:04:21.1948354+00:00",
       "NumProgressed": 7999,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-19T00:04:33.6070403+00:00",
+      "NumProgressed": 8001,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17025,7 +17030,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6079
+      "UsersEstimate": 6081
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -17033,7 +17038,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4241
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -17057,7 +17062,7 @@
       "Name": "Green Thumb",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 5439
+      "UsersEstimate": 5441
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -17065,7 +17070,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6159
+      "UsersEstimate": 6161
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17073,7 +17078,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5839
+      "UsersEstimate": 5841
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17103,9 +17108,9 @@
       "ID": "HUNT_RABBIT_20",
       "SetID": "5349c2e",
       "Name": "Wabbit Season",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 32
     },
     {
       "ID": "HUNT_RABBIT_5",
@@ -17145,7 +17150,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5039
+      "UsersEstimate": 5041
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -17185,7 +17190,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5599
+      "UsersEstimate": 5601
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17225,7 +17230,7 @@
       "Name": "The First Week",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4479
+      "UsersEstimate": 4481
     },
     {
       "ID": "UNLOCK_RESEARCH",
@@ -17233,7 +17238,7 @@
       "Name": "Novice Researcher",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 5519
+      "UsersEstimate": 5521
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17257,7 +17262,7 @@
       "Name": "Onward",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 4639
+      "UsersEstimate": 4641
     },
     {
       "ID": "UNLOCK_RESEARCH_5",
@@ -17265,22 +17270,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4239
+      "UsersEstimate": 4241
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 7999,
+      "Progressed": 8001,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-17T08:58:35.4041927+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:03:56.641425+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:04:33.60704+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:59:54.5834602+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:03:56.6421272+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:00:55.7683423+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:04:33.6071279+00:00"
 }

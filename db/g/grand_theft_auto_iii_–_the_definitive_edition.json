@@ -5,9 +5,9 @@
   "Ranking_Rating": 956,
   "Ranking_Popularity": 587,
   "Ranking_PopularitySum": 587,
-  "Ranking_EOS_Progress": 179,
+  "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 44,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12414,
+  "EOS_Progressed": 12415,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 186,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -16091,6 +16091,11 @@
       "Time": "2024-01-18T23:04:52.1149321+00:00",
       "NumProgressed": 12414,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-19T00:05:44.3583919+00:00",
+      "NumProgressed": 12415,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 29,
@@ -16126,7 +16131,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4841
+      "UsersEstimate": 4842
     },
     {
       "ID": "ACH05",
@@ -16166,7 +16171,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "ACH10",
@@ -16294,7 +16299,7 @@
       "Name": "Right-hand Man",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1241
+      "UsersEstimate": 1242
     },
     {
       "ID": "ACH26",
@@ -16333,7 +16338,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12414,
+      "Progressed": 12415,
       "Completed": 93
     }
   ],
@@ -16341,8 +16346,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:04:52.1149283+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:05:44.3583914+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-18T22:59:02.6747942+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:04:52.1149973+00:00"
+  "LastUpdate_Ratings": "2024-01-18T23:59:44.0749347+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:05:44.3584924+00:00"
 }

@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19145,
+  "EOS_Progressed": 19146,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 279,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17754,6 +17754,11 @@
       "Time": "2024-01-18T22:04:33.0843752+00:00",
       "NumProgressed": 19145,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-19T00:04:45.3120694+00:00",
+      "NumProgressed": 19146,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17814,7 +17819,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "16",
@@ -17830,7 +17835,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2297
+      "UsersEstimate": 2298
     },
     {
       "ID": "18",
@@ -17910,7 +17915,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1914
+      "UsersEstimate": 1915
     },
     {
       "ID": "27",
@@ -18045,13 +18050,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19145,
+      "Progressed": 19146,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5099,
+      "Progressed": 5100,
       "Completed": 1347
     }
   ],
@@ -18059,8 +18064,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-18T23:04:05.5114274+00:00",
+  "LastChanged_Achievements": "2024-01-19T00:04:45.312069+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:02:45.4429414+00:00",
-  "LastUpdate_Achievements": "2024-01-18T23:04:05.5115322+00:00"
+  "LastUpdate_Ratings": "2024-01-19T00:02:14.945385+00:00",
+  "LastUpdate_Achievements": "2024-01-19T00:04:45.3121908+00:00"
 }

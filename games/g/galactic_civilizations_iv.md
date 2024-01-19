@@ -6,16 +6,16 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,823 |
-| Worker Specialization | 76.00% | ~5,747 |
-| First Contact | 72.00% | ~5,445 |
-| Win a Battle | 65.00% | ~4,915 |
-| Anomaly Researcher | 60.00% | ~4,537 |
-| Unleash My Power | 60.00% | ~4,537 |
+| Colonize a Planet | 77.00% | ~5,824 |
+| Worker Specialization | 76.00% | ~5,749 |
+| First Contact | 72.00% | ~5,446 |
+| Win a Battle | 65.00% | ~4,917 |
+| Anomaly Researcher | 60.00% | ~4,538 |
+| Unleash My Power | 60.00% | ~4,538 |
 | Own 30 Planets | 32.00% | ~2,420 |
-| Xenocide | 31.00% | ~2,344 |
-| Design a Civilization | 31.00% | ~2,344 |
-| Commodity Trader | 29.00% | ~2,193 |
+| Xenocide | 31.00% | ~2,345 |
+| Design a Civilization | 31.00% | ~2,345 |
+| Commodity Trader | 29.00% | ~2,194 |
 | Design a Ship | 27.00% | ~2,042 |
 | Commodity Seller | 24.00% | ~1,815 |
 | Prestige Victory! | 13.00% | ~983 |
@@ -26,8 +26,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Terrans | 6.00% | ~454 |
 | Win with a Custom Faction | 6.00% | ~454 |
 | War with the Unknown | 5.00% | ~378 |
-| Conquest Victory! | 4.00% | ~302 |
-| Win Quickly | 4.00% | ~302 |
+| Conquest Victory! | 4.00% | ~303 |
+| Win Quickly | 4.00% | ~303 |
 | Pirate Cleansing | 3.00% | ~227 |
 | Win an Immense Game | 3.00% | ~227 |
 | Artifact Mastery | 2.00% | ~151 |
@@ -39,7 +39,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
-| Win as Torians | 0.80% | ~60 |
+| Win as Torians | 0.80% | ~61 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as the Krynn | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
@@ -49,7 +49,7 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
 | Win as the Iconians | 0.50% | ~38 |
-| Recruit a Leader | 0.30% | ~23 |
+| Recruit a Leader | 0.40% | ~30 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Ask Not What Your Empire Can Do For You | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Rebuild the Retribution | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,562 (Ranked 198)  
+Progressed: 7,564 (Ranked 198)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,6 +352,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 7,557 | 0 |
 | 2024-01-17 | 7,558 | 0 |
 | 2024-01-18 | 7,562 | 0 |
+| 2024-01-19 | 7,564 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 384)  
 Sum: 702 (Ranked 313)  
