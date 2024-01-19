@@ -8,6 +8,7 @@
 | [Take The Throne](games/8/8dc19fa4313c42a497f638648541243e.md) | 2024-01-20 | - |  | - | - |
 | [Image](games/a/ad111036e70f4cf59259c6976a9b7173.md) | 2024-01-20 | 5 (1,000 XP) | 1 | - | - |
 | [NINJA KATO 2](games/1/1690366171dd46809de64fdb4169d17c.md) | 2024-01-21 | 6 (1,000 XP) | 3 | - | - |
+| [Psychiatrist Simulator](games/4/4b562eb9baa5482ea14bdff1af498af1.md) | 2024-01-22 | - |  | - | - |
 | [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 2024-01-22 | 22 (1,000 XP) | 2 | - | - |
 | [Howl](games/h/howl.md) | 2024-01-23 | - |  | - | - |
 | [Stargate: Timekeepers](games/b/baba9fd324fb471caaab77ce2a3b28af.md) | 2024-01-23 | - |  | - | - |
