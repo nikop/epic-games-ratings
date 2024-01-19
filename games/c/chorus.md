@@ -6,7 +6,7 @@ Number of Ratings: 58  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Another Life | 83.00% | ~1,186 |
+| Another Life | 84.00% | ~1,200 |
 | Voices from the Past | 76.00% | ~1,086 |
 | Space Traveler | 76.00% | ~1,086 |
 | Demigod | 73.00% | ~1,043 |
@@ -277,8 +277,8 @@ Completed: 19 (1.33%) (Ranked 158)
 | 2024-01-19 | 1,429 | 19 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 508)  
-Sum: 35 (Ranked 539)  
-Diff (max vs sum): -31  
+Sum: 35 (Ranked 540)  
+Diff (max vs sum): -32  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

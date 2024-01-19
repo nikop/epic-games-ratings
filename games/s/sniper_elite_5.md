@@ -5,16 +5,16 @@ Rating: 4.48 (Ranked 660)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,023 |
-| Confirming Suspicions | 42.00% | ~1,808 |
+| Meeting Resistance | 47.00% | ~2,024 |
+| Confirming Suspicions | 42.00% | ~1,809 |
 | The Kraken Wakes | 38.00% | ~1,636 |
-| It's Starting to Crack | 35.00% | ~1,506 |
-| Change the Channel | 32.00% | ~1,377 |
-| Lord of War | 31.00% | ~1,334 |
-| Taking it back | 30.00% | ~1,291 |
-| Resourceful | 28.00% | ~1,205 |
-| Target America | 28.00% | ~1,205 |
-| The Kraken Sleeps | 26.00% | ~1,119 |
+| It's Starting to Crack | 35.00% | ~1,507 |
+| Change the Channel | 32.00% | ~1,378 |
+| Lord of War | 31.00% | ~1,335 |
+| Taking it back | 30.00% | ~1,292 |
+| Resourceful | 28.00% | ~1,206 |
+| Target America | 28.00% | ~1,206 |
+| The Kraken Sleeps | 26.00% | ~1,120 |
 | Liberté | 24.00% | ~1,033 |
 | Organ Grinder | 24.00% | ~1,033 |
 | As Quiet as a Mouse | 24.00% | ~1,033 |
@@ -34,9 +34,9 @@ Rating: 4.48 (Ranked 660)
 | Enemy at the Gates | 14.00% | ~603 |
 | Fields of Glory | 14.00% | ~603 |
 | Set Europe Ablaze | 14.00% | ~603 |
-| Precision Is Key | 10.00% | ~430 |
-| My Little Friend | 10.00% | ~430 |
-| Rigged to Blow | 9.00% | ~387 |
+| Precision Is Key | 10.00% | ~431 |
+| My Little Friend | 10.00% | ~431 |
+| Rigged to Blow | 9.00% | ~388 |
 | Herr Today, Gone Tomorrow | 7.00% | ~298 |
 | The Long Game | 6.00% | ~258 |
 | Operation Foxley | 6.00% | ~255 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 660)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,304 (Ranked 215)  
+Progressed: 4,306 (Ranked 215)  
 Completed: 11 (0.26%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,11 +349,11 @@ Completed: 11 (0.26%) (Ranked 272)
 | 2024-01-16 | 4,292 | 11 |
 | 2024-01-17 | 4,295 | 11 |
 | 2024-01-18 | 4,301 | 11 |
-| 2024-01-19 | 4,304 | 11 |
+| 2024-01-19 | 4,306 | 11 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 527)  
-Sum: 30 (Ranked 549)  
-Diff (max vs sum): -22  
+Sum: 30 (Ranked 550)  
+Diff (max vs sum): -23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 30 |

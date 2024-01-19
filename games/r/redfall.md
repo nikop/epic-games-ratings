@@ -49,11 +49,11 @@ Rating: 3.67 (Ranked 1,101)
 | Bloody Initiate | 1.00% | ~24 |
 | Good Samaritan | 1.00% | ~24 |
 | Sisterhood | 0.90% | ~22 |
+| Monster Hunters Club | 0.80% | ~19 |
 | Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
-| Monster Hunters Club | 0.70% | ~17 |
+| Friendgineering | 0.70% | ~17 |
 | Under a Bushel | 0.70% | ~17 |
-| Friendgineering | 0.60% | ~14 |
 | Enemy of My Enemy | 0.50% | ~12 |
 | So Anyway I Started Blasting | 0.40% | ~10 |
 | Bob’s Final Hour | 0.40% | ~10 |
@@ -226,8 +226,8 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-19 | 2,407 | 0 |
 ## Awards
 Max (Great Boss Battles): 26  (Ranked 549)  
-Sum: 26 (Ranked 560)  
-Diff (max vs sum): -11  
+Sum: 26 (Ranked 561)  
+Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 26 |

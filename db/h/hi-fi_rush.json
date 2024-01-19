@@ -4,10 +4,10 @@
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 34,
   "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 536,
+  "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 123,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17440,
+  "EOS_Progressed": 17441,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12764,6 +12764,11 @@
       "Time": "2024-01-19T22:04:29.1999581+00:00",
       "NumProgressed": 17440,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T23:04:26.6731141+00:00",
+      "NumProgressed": 17441,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12775,7 +12780,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9592
+      "UsersEstimate": 9593
     },
     {
       "ID": "Ach002",
@@ -12887,7 +12892,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6278
+      "UsersEstimate": 6279
     },
     {
       "ID": "Ach016",
@@ -12951,7 +12956,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9766
+      "UsersEstimate": 9767
     },
     {
       "ID": "Ach024",
@@ -12967,7 +12972,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5406
+      "UsersEstimate": 5407
     },
     {
       "ID": "Ach026",
@@ -12983,7 +12988,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "Ach028",
@@ -13055,7 +13060,7 @@
       "Name": "Kissing the sky!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 3662
+      "UsersEstimate": 3663
     },
     {
       "ID": "Ach037",
@@ -13263,7 +13268,7 @@
       "Name": "NOW we got a kickass hideout!",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "Ach063",
@@ -13342,13 +13347,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17440,
+      "Progressed": 17441,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15961,
+      "Progressed": 15962,
       "Completed": 1931
     }
   ],
@@ -13356,8 +13361,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:04:29.1999578+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:04:26.6731137+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:58:20.1706705+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:04:29.2000624+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:58:03.2533339+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:04:26.6732515+00:00"
 }

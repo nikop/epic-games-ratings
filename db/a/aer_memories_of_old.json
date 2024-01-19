@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29046,
+  "EOS_Progressed": 29053,
   "EOS_Completed": 534,
-  "EOS_NewPlayers": 511,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30036,6 +30036,11 @@
       "Time": "2024-01-19T22:05:20.7419843+00:00",
       "NumProgressed": 29046,
       "NumCompleted": 534
+    },
+    {
+      "Time": "2024-01-19T23:05:14.6753569+00:00",
+      "NumProgressed": 29053,
+      "NumCompleted": 534
     }
   ],
   "TotalAchievements": 20,
@@ -30047,7 +30052,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4647
+      "UsersEstimate": 4648
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -30055,7 +30060,7 @@
       "Name": "Ripples on the surface",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "EAST_FINISHED",
@@ -30063,7 +30068,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -30071,7 +30076,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -30079,7 +30084,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3195
+      "UsersEstimate": 3196
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -30095,7 +30100,7 @@
       "Name": "An uninvited guest",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2033
+      "UsersEstimate": 2034
     },
     {
       "ID": "FOUND_CRANE_STATUE",
@@ -30111,7 +30116,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "FOUND_ERIN",
@@ -30143,7 +30148,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3777
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -30167,7 +30172,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22075
+      "UsersEstimate": 22080
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30175,7 +30180,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7842
+      "UsersEstimate": 7844
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30183,7 +30188,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3776
+      "UsersEstimate": 3777
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -30199,22 +30204,22 @@
       "Name": "People\u0027s Haven",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 5228
+      "UsersEstimate": 5230
     }
   ],
   "AchievementSets": [
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29046,
+      "Progressed": 29053,
       "Completed": 534
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:05:20.7419839+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:05:14.6753567+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:58:40.5429449+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:05:20.742141+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:58:21.6619893+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:05:14.6755308+00:00"
 }

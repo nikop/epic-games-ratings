@@ -1916,9 +1916,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 69
     },
     {
       "ID": "FINDBILLY",
@@ -2060,8 +2060,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:04:29.6458684+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:04:27.2092421+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:58:27.5761532+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:04:29.6459053+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:58:10.1740915+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:04:27.2092728+00:00"
 }

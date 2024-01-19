@@ -4,15 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Attention Peasant! | 100.00% | ~3 |
+| The Trial Begins | 100.00% | ~3 |
 | An Old Friend | 67.00% | ~2 |
-| Attention Peasant! | 67.00% | ~2 |
 | Meet THE Harbormaster | 67.00% | ~2 |
 | Now You Knew | 67.00% | ~2 |
 | The Red Flower | 67.00% | ~2 |
 | Shipping Ships | 67.00% | ~2 |
+| The Combatant | 67.00% | ~2 |
 | The Industrialist | 67.00% | ~2 |
 | The Mother Ocean | 67.00% | ~2 |
-| The Trial Begins | 67.00% | ~2 |
 | Wise Decision | 67.00% | ~2 |
 | An Old Hero | 33.00% | ~1 |
 | Damsel in Distress? | 33.00% | ~1 |
@@ -50,7 +51,6 @@
 | The Amber Flower | 33.00% | ~1 |
 | The Blue Flower | 33.00% | ~1 |
 | The Coil Fanatic | 33.00% | ~1 |
-| The Combatant | 33.00% | ~1 |
 | The First Princess | 33.00% | ~1 |
 | The Green Flower | 33.00% | ~1 |
 | The Himmelhaart far from Home | 33.00% | ~1 |
@@ -58,6 +58,7 @@
 | The Tree Fanatic | 33.00% | ~1 |
 | Torpedoes! | 33.00% | ~1 |
 | Tuck the Tail | 33.00% | ~1 |
+| United We Stand! | 33.00% | ~1 |
 | Whoops | 33.00% | ~1 |
 | Are We Baddies? | 0.00% | ~0 |
 | A lone and Lonely Engineer | 0.00% | ~0 |
@@ -150,7 +151,6 @@
 | Totally Redhanded | 0.00% | ~0 |
 | To Whom Belong The Sky | 0.00% | ~0 |
 | Trouble in Aberdonia | 0.00% | ~0 |
-| United We Stand! | 0.00% | ~0 |
 | We need Space! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3 (Ranked 734)  

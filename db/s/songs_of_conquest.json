@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 204,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1243,
+  "EOS_Progressed": 1244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4302,6 +4302,11 @@
       "Time": "2024-01-19T21:10:27.0581345+00:00",
       "NumProgressed": 1243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T23:09:54.2758772+00:00",
+      "NumProgressed": 1244,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4338,7 +4343,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "AttackCount",
@@ -4642,7 +4647,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "WielderLevel2",
@@ -4745,15 +4750,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:09:46.5215583+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:09:54.275877+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:03:09.584025+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:09:46.5216204+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:57:03.3629488+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:09:54.2759502+00:00"
 }

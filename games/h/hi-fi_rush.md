@@ -5,20 +5,20 @@ Rating: 4.86 (Ranked 34)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,766 |
-| Start with a bang! | 55.00% | ~9,592 |
+| Feeling the beat! | 56.00% | ~9,767 |
+| Start with a bang! | 55.00% | ~9,593 |
 | You can pet the cat! | 50.00% | ~8,720 |
 | Who put gears in there? | 42.00% | ~7,325 |
 | Cream of the Crop | 37.00% | ~6,453 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,278 |
-| You got this, Peppermint? | 31.00% | ~5,406 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,279 |
+| You got this, Peppermint? | 31.00% | ~5,407 |
 | Perfect Parry | 29.00% | ~5,058 |
 | Alright, that felt AWESOME! | 29.00% | ~5,058 |
 | I play my own way! | 25.00% | ~4,360 |
 | This will cost you big time | 23.00% | ~4,011 |
 | Uh, they were broken when I got here | 23.00% | ~4,011 |
-| Z-shielding's got nothing on us! | 21.00% | ~3,662 |
-| Kissing the sky! | 21.00% | ~3,662 |
+| Z-shielding's got nothing on us! | 21.00% | ~3,663 |
+| Kissing the sky! | 21.00% | ~3,663 |
 | Whoa! There's ANOTHER health bar!? | 18.00% | ~3,139 |
 | The Negotiator | 17.00% | ~2,965 |
 | Does that say weakpoint? | 17.00% | ~2,965 |
@@ -31,7 +31,7 @@ Rating: 4.86 (Ranked 34)
 | I look cool. But I can look COOLER. | 13.00% | ~2,267 |
 | I have to read these things? | 12.00% | ~2,093 |
 | There's such a thing as TOO helpful | 9.00% | ~1,570 |
-| NOW we got a kickass hideout! | 9.00% | ~1,436 |
+| NOW we got a kickass hideout! | 9.00% | ~1,437 |
 | Well that was a rush! | 8.00% | ~1,395 |
 | That's a lot of junk metal… | 8.00% | ~1,395 |
 | Beat-hit mania | 7.00% | ~1,221 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,440 (Ranked 169)  
+Progressed: 17,441 (Ranked 169)  
 Completed: 8 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,11 +341,11 @@ Completed: 8 (0.05%) (Ranked 344)
 | 2024-01-16 | 17,286 | 8 |
 | 2024-01-17 | 17,341 | 8 |
 | 2024-01-18 | 17,389 | 8 |
-| 2024-01-19 | 17,440 | 8 |
+| 2024-01-19 | 17,441 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
-Sum: 36 (Ranked 536)  
-Diff (max vs sum): -34  
+Sum: 36 (Ranked 537)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

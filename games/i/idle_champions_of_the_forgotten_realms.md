@@ -47,6 +47,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mind Spike | 0.40% | ~884 |
 | The Silken Swamp | 0.30% | ~764 |
 | Supply Run | 0.30% | ~764 |
+| Street War | 0.30% | ~764 |
 | March of the Undead | 0.30% | ~764 |
 | No Time To Rest | 0.30% | ~764 |
 | Invisible Shadows | 0.30% | ~764 |
@@ -72,7 +73,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.20% | ~510 |
 | The Forbidden City | 0.20% | ~510 |
 | Captured! | 0.20% | ~510 |
-| Street War | 0.20% | ~510 |
 | Wisdom Check | 0.20% | ~510 |
 | A Grand Puzzle | 0.20% | ~510 |
 | Tomb of the Nine Gods | 0.20% | ~510 |
@@ -97,6 +97,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~510 |
 | Resolve Amongst Chaos | 0.20% | ~510 |
 | Market Fluctuations | 0.20% | ~510 |
+| Into The Fire | 0.20% | ~442 |
 | The Giant's Bane Tavern | 0.20% | ~442 |
 | The Long Haul | 0.20% | ~510 |
 | Lost in the Deep | 0.20% | ~510 |
@@ -385,7 +386,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Wait, What? | 0.10% | ~221 |
 | Ireena von Zarovich | 0.10% | ~221 |
 | Déjà Vu All Over Again | 0.10% | ~221 |
-| Into The Fire | 0.10% | ~221 |
 | A Difficult Descent | 0.10% | ~221 |
 | The Devil Arrives | 0.10% | ~221 |
 | Hearts Aflame | 0.10% | ~221 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,778 (Ranked 71)  
-Completed: 2,624 (1.03%) (Ranked 179)  
+Progressed: 254,785 (Ranked 71)  
+Completed: 2,625 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -827,17 +827,17 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,778 | 2,624 |
+| 2024-01-19 | 254,785 | 2,625 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
-Sum: 33,568 (Ranked 41)  
+Sum: 33,572 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,801 |
 | This game has Diverse Characters | 5,731 |
 | This game has Quickly Understood Controls | 4,918 |
-| This game is Relaxing | 4,789 |
+| This game is Relaxing | 4,793 |
 | This game is Highly Recommended | 4,339 |
 | This game has Amazing Characters | 4,339 |
 | This game has Playful Visuals | 3,651 |
@@ -1202,4 +1202,4 @@ Diff (max vs sum): 33
 | 2024-01-16 | 4.07 | - | 5,786 | 33,532 |
 | 2024-01-17 | 4.07 | - | 5,786 | 33,533 |
 | 2024-01-18 | 4.07 | - | 5,792 | 33,543 |
-| 2024-01-19 | 4.07 | - | 5,801 | 33,568 |
+| 2024-01-19 | 4.07 | - | 5,801 | 33,572 |

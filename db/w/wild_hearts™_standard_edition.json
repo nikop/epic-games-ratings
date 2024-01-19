@@ -4713,9 +4713,9 @@
       "ID": "achievement_28",
       "SetID": "2cpn27e",
       "Name": "Flawless Crystal",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 526
+      "UsersEstimate": 540
     },
     {
       "ID": "achievement_29",
@@ -4943,8 +4943,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:09:59.3747311+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:10:06.1489536+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:58:54.2679192+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:09:59.374787+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:58:34.18027+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:10:06.1490267+00:00"
 }

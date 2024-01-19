@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 298,
   "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 258,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -313,7 +313,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1049,
+  "EOS_Progressed": 1050,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -3773,6 +3773,11 @@
       "Time": "2024-01-19T21:06:27.7295288+00:00",
       "NumProgressed": 1049,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T23:05:22.5416976+00:00",
+      "NumProgressed": 1050,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3800,7 +3805,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "dont-miss-calls",
@@ -3832,7 +3837,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "kill-lieutenants",
@@ -3848,7 +3853,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 703
+      "UsersEstimate": 704
     },
     {
       "ID": "play-at-night",
@@ -3864,7 +3869,7 @@
       "Name": "Follow the Money",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "rage-quit",
@@ -3904,7 +3909,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 545
+      "UsersEstimate": 546
     },
     {
       "ID": "unlock-residences",
@@ -3920,7 +3925,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 839
+      "UsersEstimate": 840
     },
     {
       "ID": "use-submarine",
@@ -3935,15 +3940,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1049,
+      "Progressed": 1050,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-17T04:03:24.3401457+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:05:29.1580424+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:05:22.5416974+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:03:13.6079119+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:05:29.1580722+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:03:13.4370949+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:05:22.5417299+00:00"
 }

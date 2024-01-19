@@ -8997,9 +8997,9 @@
       "Count": 694
     }
   ],
-  "EOS_Progressed": 806470,
+  "EOS_Progressed": 806486,
   "EOS_Completed": 2606,
-  "EOS_NewPlayers": 4774,
+  "EOS_NewPlayers": 4749,
   "EOS_NewCompleters": 32,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -40667,6 +40667,11 @@
       "Time": "2024-01-19T22:10:06.7676049+00:00",
       "NumProgressed": 806470,
       "NumCompleted": 2606
+    },
+    {
+      "Time": "2024-01-19T23:10:13.0768635+00:00",
+      "NumProgressed": 806486,
+      "NumCompleted": 2606
     }
   ],
   "TotalAchievements": 51,
@@ -40678,7 +40683,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48388
+      "UsersEstimate": 48389
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -40694,7 +40699,7 @@
       "Name": "Git Gutte!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56453
+      "UsersEstimate": 56454
     },
     {
       "ID": "ach_anger_management",
@@ -40734,7 +40739,7 @@
       "Name": "Bookworm",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 48388
+      "UsersEstimate": 48389
     },
     {
       "ID": "ach_break_a_leg",
@@ -40742,7 +40747,7 @@
       "Name": "Break A Leg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72582
+      "UsersEstimate": 72584
     },
     {
       "ID": "ach_contender",
@@ -40782,7 +40787,7 @@
       "Name": "Smorgasbord",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 16129
+      "UsersEstimate": 16130
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -40798,7 +40803,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64518
+      "UsersEstimate": 64519
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -40814,7 +40819,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16129
+      "UsersEstimate": 16130
     },
     {
       "ID": "ach_hazardous_materials",
@@ -40822,7 +40827,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64518
+      "UsersEstimate": 64519
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -40830,7 +40835,7 @@
       "Name": "Friends Like These",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48388
+      "UsersEstimate": 48389
     },
     {
       "ID": "ach_hotel_california",
@@ -40838,7 +40843,7 @@
       "Name": "Hotel California",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72582
+      "UsersEstimate": 72584
     },
     {
       "ID": "ach_impressive_aim",
@@ -40854,7 +40859,7 @@
       "Name": "Internet Famous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16129
+      "UsersEstimate": 16130
     },
     {
       "ID": "ach_investigator",
@@ -40870,7 +40875,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 16129
+      "UsersEstimate": 16130
     },
     {
       "ID": "ach_knock_down",
@@ -40878,7 +40883,7 @@
       "Name": "Apex Predator",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48388
+      "UsersEstimate": 48389
     },
     {
       "ID": "ach_knowledgeable",
@@ -40918,7 +40923,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24194
+      "UsersEstimate": 24195
     },
     {
       "ID": "ach_revival_tour",
@@ -40934,7 +40939,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24194
+      "UsersEstimate": 24195
     },
     {
       "ID": "ach_secrets_of_la",
@@ -40950,7 +40955,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48388
+      "UsersEstimate": 48389
     },
     {
       "ID": "ach_star_performance",
@@ -40958,7 +40963,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56453
+      "UsersEstimate": 56454
     },
     {
       "ID": "ach_survival_expert",
@@ -40974,7 +40979,7 @@
       "Name": "Max Headroom",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 16129
+      "UsersEstimate": 16130
     },
     {
       "ID": "ach_the_vcla",
@@ -40982,7 +40987,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16129
+      "UsersEstimate": 16130
     },
     {
       "ID": "ach_thesacrifice",
@@ -41014,7 +41019,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88712
+      "UsersEstimate": 88713
     },
     {
       "ID": "ach_well_known_survivor",
@@ -41022,7 +41027,7 @@
       "Name": "Rising Star",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 16129
+      "UsersEstimate": 16130
     },
     {
       "ID": "ach_well_trained",
@@ -41038,7 +41043,7 @@
       "Name": "One of Us",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "ach_dark_magic",
@@ -41085,13 +41090,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 806470,
+      "Progressed": 806486,
       "Completed": 2606
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 132014,
+      "Progressed": 132030,
       "Completed": 36786
     }
   ],
@@ -41099,8 +41104,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-19T22:00:14.9874727+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:10:06.7676045+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:10:13.0768633+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:06.2072313+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:00:14.9874733+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:10:06.7677842+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:59:44.8580438+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:10:13.0770513+00:00"
 }

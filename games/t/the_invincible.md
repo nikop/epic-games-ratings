@@ -13,7 +13,7 @@ Rating: 4.56 (Ranked 511)
 | Survivors | 42.00% | ~736 |
 | The Condor | 40.00% | ~701 |
 | The End | 40.00% | ~701 |
-| The Necroevolution | 31.00% | ~543 |
+| The Necroevolution | 32.00% | ~561 |
 | Krauta is alive | 30.00% | ~526 |
 | Peacemaker | 24.00% | ~421 |
 | On her own | 23.00% | ~403 |

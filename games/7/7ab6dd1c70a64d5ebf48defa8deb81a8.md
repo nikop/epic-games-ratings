@@ -5,23 +5,23 @@ Rating: 4.17 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,553 |
-| Trinity | 35.00% | ~836 |
+| Break Out | 65.00% | ~1,554 |
+| Trinity | 35.00% | ~837 |
 | The Collector | 29.00% | ~693 |
-| Find Allies | 27.00% | ~645 |
-| A Taste of Wrath | 27.00% | ~645 |
-| Adventurer | 26.00% | ~621 |
-| Shatter Them All | 26.00% | ~621 |
-| Geared Up | 26.00% | ~621 |
-| Scholar | 25.00% | ~597 |
-| I Found It | 25.00% | ~597 |
-| Fashion Victim | 24.00% | ~573 |
-| Stone Collection | 24.00% | ~573 |
-| Tributes of Caladrias | 23.00% | ~549 |
+| Find Allies | 27.00% | ~646 |
+| A Taste of Wrath | 27.00% | ~646 |
+| Adventurer | 26.00% | ~622 |
+| Shatter Them All | 26.00% | ~622 |
+| Geared Up | 26.00% | ~622 |
+| Scholar | 25.00% | ~598 |
+| I Found It | 25.00% | ~598 |
+| Fashion Victim | 24.00% | ~574 |
+| Stone Collection | 24.00% | ~574 |
+| Tributes of Caladrias | 23.00% | ~550 |
 | Powerful Allies | 22.00% | ~526 |
-| Big Bazar | 16.00% | ~382 |
-| Essence Blow | 15.00% | ~358 |
-| Alchemist | 15.00% | ~358 |
+| Big Bazar | 16.00% | ~383 |
+| Essence Blow | 15.00% | ~359 |
+| Alchemist | 15.00% | ~359 |
 | The Mentor | 12.00% | ~287 |
 | Calm before the Storm | 11.00% | ~263 |
 | To Battle | 10.00% | ~239 |
@@ -29,8 +29,8 @@ Rating: 4.17 (Ranked 991)
 | Airborne | 9.00% | ~215 |
 | Miner | 9.00% | ~215 |
 | Fine Feathers Make Fine Birds | 6.00% | ~143 |
-| Clear Sight | 5.00% | ~119 |
-| Shatterer | 5.00% | ~119 |
+| Clear Sight | 5.00% | ~120 |
+| Shatterer | 5.00% | ~120 |
 | A Queen's Tale | 4.00% | ~96 |
 | Slayer | 3.00% | ~72 |
 | Flawless Victory | 3.00% | ~72 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 991)
 | All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,389 (Ranked 247)  
+Progressed: 2,391 (Ranked 247)  
 Completed: 5 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-16 | 2,358 | 4 |
 | 2024-01-17 | 2,374 | 5 |
 | 2024-01-18 | 2,380 | 5 |
-| 2024-01-19 | 2,389 | 5 |
+| 2024-01-19 | 2,391 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

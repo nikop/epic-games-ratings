@@ -4,10 +4,10 @@
   "ProductSlug": "sniper-elite-5",
   "Ranking_Rating": 660,
   "Ranking_Popularity": 527,
-  "Ranking_PopularitySum": 549,
+  "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 215,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 4304,
+  "EOS_Progressed": 4306,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -9824,6 +9824,11 @@
       "Time": "2024-01-19T18:09:48.6943373+00:00",
       "NumProgressed": 4304,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-19T23:10:11.4181373+00:00",
+      "NumProgressed": 4306,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9915,7 +9920,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2023
+      "UsersEstimate": 2024
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -9995,7 +10000,7 @@
       "Name": "Precision Is Key",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "REWARD_2_GATHERING_INTEL",
@@ -10003,7 +10008,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1808
+      "UsersEstimate": 1809
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -10019,7 +10024,7 @@
       "Name": "Rigged to Blow",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "REWARD_33_MY_LITTLE_FRIEND",
@@ -10027,7 +10032,7 @@
       "Name": "My Little Friend",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "REWARD_34_TRIPLE_KILL",
@@ -10043,7 +10048,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -10059,7 +10064,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -10147,7 +10152,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1506
+      "UsersEstimate": 1507
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -10171,7 +10176,7 @@
       "Name": "Change the Channel",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1378
     },
     {
       "ID": "REWARD_64_KNIFE_ELITE",
@@ -10203,7 +10208,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1291
+      "UsersEstimate": 1292
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10227,7 +10232,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1205
+      "UsersEstimate": 1206
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -10243,7 +10248,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10402,13 +10407,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4255,
+      "Progressed": 4257,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4304,
+      "Progressed": 4306,
       "Completed": 11
     }
   ],
@@ -10416,8 +10421,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-19T17:00:44.3296249+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:10:04.9116489+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:10:11.4181371+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:00:09.129098+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:10:04.9117306+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:59:40.0425386+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:10:11.4182526+00:00"
 }

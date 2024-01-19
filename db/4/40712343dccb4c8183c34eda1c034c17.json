@@ -4,7 +4,7 @@
   "ProductSlug": "gameroom-962862",
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-16T17:57:01.6065459+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:57:48.8908557+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:05:09.1306953+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:57:36.7937146+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:05:03.6900097+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "airship-kingdoms-adrift-cc8448",
   "Ranking_EOS_Progress": 734,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 452,
+  "Ranking_EOS_NewPlayers": 454,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-19T19:26:23.12+00:00",
@@ -76,9 +76,9 @@
       "ID": "ACH_ATTENTION_PEA",
       "SetID": "9i65mgf",
       "Name": "Attention Peasant!",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_A_LONE_AND_LONESLY_ENGINEER",
@@ -900,9 +900,9 @@
       "ID": "ACH_THE_COMBATANT",
       "SetID": "9i65mgf",
       "Name": "The Combatant",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_THE_FINAL_HUNT_BEGINS",
@@ -1132,9 +1132,9 @@
       "ID": "ACH_THE_TRIAL_BEGINS",
       "SetID": "9i65mgf",
       "Name": "The Trial Begins",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_THE_WAR_IN_THE_SHADOW",
@@ -1204,9 +1204,9 @@
       "ID": "ACH_UNITED_WE_STAND",
       "SetID": "9i65mgf",
       "Name": "United We Stand!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_WE_NEED_SPACE",
@@ -1242,8 +1242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:04:57.2444158+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:04:52.6046453+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.8624889+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:57:36.0789248+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:04:57.2445965+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:57:25.063748+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:04:52.6048084+00:00"
 }

@@ -169,11 +169,12 @@ Completed: 5 (0.14%) (Ranked 300)
 | 2024-01-19 | 3,533 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 568)  
-Sum: 22 (Ranked 573)  
-Diff (max vs sum): -5  
+Sum: 42 (Ranked 524)  
+Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 22 |
+| This game is Relaxing | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -230,4 +231,4 @@ Diff (max vs sum): -5
 | 2024-01-14 | 4.21 | 21 | 21 |
 | 2024-01-15 | 4.18 | 21 | 21 |
 | 2024-01-16 | 4.19 | 21 | 21 |
-| 2024-01-19 | 4.19 | 22 | 22 |
+| 2024-01-19 | 4.19 | 22 | 42 |

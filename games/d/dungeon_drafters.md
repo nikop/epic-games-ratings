@@ -26,8 +26,8 @@
 | Ancient Nemesis | 5.00% | ~8 |
 | Traveler Mastery | 5.00% | ~8 |
 | The Plot Thickens | 5.00% | ~8 |
+| Raider Mastery | 4.00% | ~6 |
 | Warden Mastery | 4.00% | ~6 |
-| Raider Mastery | 3.00% | ~5 |
 | Best Pupil | 2.00% | ~3 |
 | FOR JUSTICE! | 2.00% | ~3 |
 | Journey’s End | 2.00% | ~3 |

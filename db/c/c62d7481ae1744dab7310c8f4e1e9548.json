@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 83,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 245,
+  "EOS_Progressed": 246,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.49,
+  "EOS_Completed_Percentage": 4.47,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1194,6 +1194,11 @@
       "Time": "2024-01-19T12:05:21.2316493+00:00",
       "NumProgressed": 245,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-19T23:05:15.6284219+00:00",
+      "NumProgressed": 246,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1212,9 +1217,9 @@
       "ID": "Cikady",
       "SetID": "ag48e8e",
       "Name": "Cicadas",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "Destilat",
@@ -1262,7 +1267,7 @@
       "Name": "Chamois",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "Kour",
@@ -1284,17 +1289,17 @@
       "ID": "Kudla",
       "SetID": "ag48e8e",
       "Name": "Knife",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 142
+      "UsersEstimate": 140
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "MluviciPapouch",
@@ -1310,7 +1315,7 @@
       "Name": "Singing Mouse",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Netopyrci",
@@ -1350,7 +1355,7 @@
       "Name": "Cosmic Ring",
       "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Rybka",
@@ -1390,7 +1395,7 @@
       "Name": "Centipede",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "Strom",
@@ -1406,7 +1411,7 @@
       "Name": "Saint Termite",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Truhlice",
@@ -1414,7 +1419,7 @@
       "Name": "Shem Is Home",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "Xicht",
@@ -1445,14 +1450,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 245,
+      "Progressed": 246,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:05:21.6119097+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:05:15.6284216+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:18.1043039+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:03:16.5283746+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:05:21.6119534+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:03:15.8490444+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:05:15.6284424+00:00"
 }

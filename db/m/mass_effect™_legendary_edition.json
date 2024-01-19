@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4496,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 262,
+  "EOS_NewPlayers": 259,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9163,9 +9163,9 @@
       "ID": "achievement_43",
       "SetID": "d252ncf",
       "Name": "Friend or Foe",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 899
+      "UsersEstimate": 944
     },
     {
       "ID": "achievement_44",
@@ -9671,8 +9671,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:10:30.6710377+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:10:35.8608126+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:03:34.7135487+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:10:30.6712068+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:03:34.7940021+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:10:35.8610009+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,712 |
-| Break A Leg | 9.00% | ~72,582 |
-| Hotel California | 9.00% | ~72,582 |
-| Coup de Grâce | 8.00% | ~64,518 |
-| Hazardous Materials | 8.00% | ~64,518 |
-| Git Gutte! | 7.00% | ~56,453 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,453 |
-| Dr. Reed, I Presume? | 6.00% | ~48,388 |
-| Bookworm | 6.00% | ~48,388 |
-| Friends Like These | 6.00% | ~48,388 |
-| Apex Predator | 6.00% | ~48,388 |
-| Stacking the Deck | 6.00% | ~48,388 |
+| Welcome To Hell-A | 11.00% | ~88,713 |
+| Break A Leg | 9.00% | ~72,584 |
+| Hotel California | 9.00% | ~72,584 |
+| Coup de Grâce | 8.00% | ~64,519 |
+| Hazardous Materials | 8.00% | ~64,519 |
+| Git Gutte! | 7.00% | ~56,454 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,454 |
+| Dr. Reed, I Presume? | 6.00% | ~48,389 |
+| Bookworm | 6.00% | ~48,389 |
+| Friends Like These | 6.00% | ~48,389 |
+| Apex Predator | 6.00% | ~48,389 |
+| Stacking the Deck | 6.00% | ~48,389 |
 | Anger Management | 5.00% | ~40,324 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,324 |
 | But Doctor, I am Butcho | 5.00% | ~40,324 |
@@ -33,16 +33,16 @@ Rating: 4.54 (Ranked 551)
 | Our True Nature | 4.00% | ~32,259 |
 | Whatever It Takes | 4.00% | ~5,281 |
 | Pork Chopped | 4.00% | ~5,281 |
-| Humanity Distilled | 3.00% | ~24,194 |
-| Down with the Sickness | 3.00% | ~24,194 |
-| One of Us | 3.00% | ~3,960 |
-| Smorgasbord | 2.00% | ~16,129 |
-| Not Even My Final Form | 2.00% | ~16,129 |
-| Internet Famous | 2.00% | ~16,129 |
-| Jumbo Keyring | 2.00% | ~16,129 |
-| Max Headroom | 2.00% | ~16,129 |
-| Go, Bobcats! | 2.00% | ~16,129 |
-| Rising Star | 2.00% | ~16,129 |
+| Humanity Distilled | 3.00% | ~24,195 |
+| Down with the Sickness | 3.00% | ~24,195 |
+| One of Us | 3.00% | ~3,961 |
+| Smorgasbord | 2.00% | ~16,130 |
+| Not Even My Final Form | 2.00% | ~16,130 |
+| Internet Famous | 2.00% | ~16,130 |
+| Jumbo Keyring | 2.00% | ~16,130 |
+| Max Headroom | 2.00% | ~16,130 |
+| Go, Bobcats! | 2.00% | ~16,130 |
+| Rising Star | 2.00% | ~16,130 |
 | Make it So | 1.00% | ~8,065 |
 | LA Influential | 1.00% | ~8,065 |
 | On Safari | 1.00% | ~8,065 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~806 |
 | Wilhelm | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806,470 (Ranked 23)  
+Progressed: 806,486 (Ranked 23)  
 Completed: 2,606 (0.32%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 2,606 (0.32%) (Ranked 259)
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
 | 2024-01-18 | 805,908 | 2,599 |
-| 2024-01-19 | 806,470 | 2,606 |
+| 2024-01-19 | 806,486 | 2,606 |
 ## Awards
 Max (Great Boss Battles): 10,659  (Ranked 40)  
 Sum: 16,370 (Ranked 71)  

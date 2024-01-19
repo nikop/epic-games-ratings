@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,136 |
-| Lost and Found | 9.00% | ~730 |
-| Autodidact | 8.00% | ~10,659 |
-| This Belongs in a Museum | 7.00% | ~9,327 |
-| Creep and Sleep | 7.00% | ~9,327 |
-| Overdue Notice | 7.00% | ~9,327 |
+| Malpractice Assurance | 14.00% | ~1,137 |
+| Lost and Found | 9.00% | ~731 |
+| Autodidact | 8.00% | ~10,660 |
+| This Belongs in a Museum | 7.00% | ~9,328 |
+| Creep and Sleep | 7.00% | ~9,328 |
+| Overdue Notice | 7.00% | ~9,328 |
 | This guy... again? | 7.00% | ~568 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~7,995 |
 | Serenity Now! | 6.00% | ~7,995 |
@@ -22,15 +22,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~7,995 |
 | Ploughshares to Swords | 6.00% | ~487 |
 | Bloody Graduation | 6.00% | ~487 |
-| It Rings a Bell | 5.00% | ~6,662 |
-| Not Today! | 5.00% | ~6,662 |
-| It Happens | 5.00% | ~6,662 |
-| Merry Time | 5.00% | ~6,662 |
-| Harvest Festival | 5.00% | ~6,662 |
-| Whale | 5.00% | ~6,662 |
-| A Place to Lay Your Head | 5.00% | ~6,662 |
-| FNG | 5.00% | ~6,662 |
-| Nope | 5.00% | ~6,662 |
+| It Rings a Bell | 5.00% | ~6,663 |
+| Not Today! | 5.00% | ~6,663 |
+| It Happens | 5.00% | ~6,663 |
+| Merry Time | 5.00% | ~6,663 |
+| Harvest Festival | 5.00% | ~6,663 |
+| Whale | 5.00% | ~6,663 |
+| A Place to Lay Your Head | 5.00% | ~6,663 |
+| FNG | 5.00% | ~6,663 |
+| Nope | 5.00% | ~6,663 |
 | Friends 'Til the End | 5.00% | ~406 |
 | Resurrection | 4.00% | ~5,330 |
 | Unleash Hell | 4.00% | ~5,330 |
@@ -46,14 +46,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,330 |
 | A Clear Conscience | 4.00% | ~5,330 |
 | Unshackled | 4.00% | ~5,330 |
-| Hope Rekindled | 3.00% | ~3,997 |
-| Predator | 3.00% | ~3,997 |
-| Deprogramming | 3.00% | ~3,997 |
-| Reverse Banditry | 3.00% | ~3,997 |
-| When You Want Something Done Right | 3.00% | ~3,997 |
-| Utopia | 3.00% | ~3,997 |
-| Hot Air | 3.00% | ~3,997 |
-| Road Trip | 3.00% | ~3,997 |
+| Hope Rekindled | 3.00% | ~3,998 |
+| Predator | 3.00% | ~3,998 |
+| Deprogramming | 3.00% | ~3,998 |
+| Reverse Banditry | 3.00% | ~3,998 |
+| When You Want Something Done Right | 3.00% | ~3,998 |
+| Utopia | 3.00% | ~3,998 |
+| Hot Air | 3.00% | ~3,998 |
+| Road Trip | 3.00% | ~3,998 |
 | This Looks Familiar | 2.00% | ~2,665 |
 | Ichthyophobic | 2.00% | ~2,665 |
 | No More Mouths to Feed | 2.00% | ~2,665 |
@@ -61,10 +61,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 2.00% | ~2,665 |
 | Handled | 2.00% | ~2,665 |
 | Body of Work | 2.00% | ~2,665 |
-| Clearing the Ledger | 1.00% | ~1,332 |
-| Hat Trick | 1.00% | ~1,332 |
-| Shrine of Reflection | 1.00% | ~1,332 |
-| Triage | 1.00% | ~1,332 |
+| Clearing the Ledger | 1.00% | ~1,333 |
+| Hat Trick | 1.00% | ~1,333 |
+| Shrine of Reflection | 1.00% | ~1,333 |
+| Triage | 1.00% | ~1,333 |
 | No Mercy | 1.00% | ~81 |
 | Slap on the Wrist | 1.00% | ~81 |
 | For Old Time' Sake | 1.00% | ~81 |
@@ -72,21 +72,21 @@ Number of Ratings: 7,767  (23.09.2022)
 | The World As It Was | 0.80% | ~1,066 |
 | A Life Well Lived | 0.70% | ~933 |
 | Bacon Bits | 0.70% | ~933 |
-| Eidetic | 0.60% | ~799 |
+| Eidetic | 0.60% | ~800 |
 | On This Long Road, We Found Redemption | 0.60% | ~49 |
 | Battle Hardened | 0.50% | ~41 |
 | Tears in the Rain | 0.40% | ~533 |
 | Maître De La Lame | 0.40% | ~32 |
 | Circle of Life | 0.30% | ~400 |
 | Grand Slam | 0.30% | ~400 |
-| 20,000 Leagues Above the Sea | 0.20% | ~266 |
+| 20,000 Leagues Above the Sea | 0.20% | ~267 |
 | These Boots Are Made For Kickin' | 0.20% | ~16 |
 | Loop Year | 0.10% | ~133 |
 | No Gravestone Left Unturned | 0.10% | ~133 |
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,242 (Ranked 92)  
+Progressed: 133,251 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,242 | 5 |
+| 2024-01-19 | 133,251 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,756 (Ranked 58)  

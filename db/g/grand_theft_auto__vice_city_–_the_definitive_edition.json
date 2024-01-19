@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 39,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16562,
+  "EOS_Progressed": 16563,
   "EOS_Completed": 106,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -18594,6 +18594,11 @@
       "Time": "2024-01-19T21:10:59.59531+00:00",
       "NumProgressed": 16562,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2024-01-19T23:10:18.0140405+00:00",
+      "NumProgressed": 16563,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 34,
@@ -18661,7 +18666,7 @@
       "Name": "Pie Guy",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "ACH09",
@@ -18685,7 +18690,7 @@
       "Name": "Salutations My Little Friend",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "ACH12",
@@ -18765,7 +18770,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7784
+      "UsersEstimate": 7785
     },
     {
       "ID": "ACH22",
@@ -18827,9 +18832,9 @@
       "ID": "ACH29",
       "SetID": "9llo822",
       "Name": "Take the Cannoli",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 331
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH30",
@@ -18876,7 +18881,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16562,
+      "Progressed": 16563,
       "Completed": 106
     }
   ],
@@ -18884,8 +18889,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:10:12.0924586+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:10:18.0140403+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:59:31.8385575+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:10:12.0925641+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:59:06.5378383+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:10:18.014129+00:00"
 }

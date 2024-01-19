@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 369,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139659,
+  "EOS_Progressed": 139662,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 731,
+  "EOS_NewPlayers": 729,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29166,6 +29166,11 @@
       "Time": "2024-01-19T22:09:04.6069144+00:00",
       "NumProgressed": 139659,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-19T23:09:14.9026298+00:00",
+      "NumProgressed": 139662,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29225,7 +29230,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12569
+      "UsersEstimate": 12570
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -29281,7 +29286,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22345
+      "UsersEstimate": 22346
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -29321,7 +29326,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15362
+      "UsersEstimate": 15363
     },
     {
       "ID": "ACH_CUNO",
@@ -29337,7 +29342,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12569
+      "UsersEstimate": 12570
     },
     {
       "ID": "ACH_GLUTEN",
@@ -29393,7 +29398,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19552
+      "UsersEstimate": 19553
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -29457,7 +29462,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19552
+      "UsersEstimate": 19553
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -29496,15 +29501,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139659,
+      "Progressed": 139662,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:09:04.6069141+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:09:14.9026296+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:00:55.2628638+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:09:04.607061+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:00:19.8985384+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:09:14.902788+00:00"
 }

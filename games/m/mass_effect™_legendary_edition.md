@@ -62,6 +62,7 @@
 | Bringer of War | 22.00% | ~989 |
 | Focused | 21.00% | ~944 |
 | Archivist | 21.00% | ~944 |
+| Friend or Foe | 21.00% | ~944 |
 | Treason | 21.00% | ~944 |
 | Digital Exorcist | 21.00% | ~944 |
 | Mobilizer | 21.00% | ~944 |
@@ -69,7 +70,6 @@
 | Mission Accomplished | 20.00% | ~899 |
 | Suicide Mission | 20.00% | ~899 |
 | Against All Odds | 20.00% | ~899 |
-| Friend or Foe | 20.00% | ~899 |
 | Cat's in the Cradle | 20.00% | ~899 |
 | Doppelganger | 20.00% | ~899 |
 | Agent | 20.00% | ~899 |

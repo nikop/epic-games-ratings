@@ -4,7 +4,7 @@
   "ProductSlug": "the-story-goes-on-f8a65a",
   "Ranking_EOS_Progress": 771,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -280,8 +280,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-14T22:03:27.0098018+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:06:10.659781+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:06:00.48555+00:00",
   "LastUpdate_AppInfo": "2024-01-14T21:56:59.3286112+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:00:10.737772+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:06:10.6597991+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:59:41.4524487+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:06:00.4855653+00:00"
 }

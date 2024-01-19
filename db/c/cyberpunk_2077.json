@@ -18666,10 +18666,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 506552,
       "NumberOfAwardsMax": 142615
+    },
+    {
+      "Time": "2024-01-19T23:03:26.1166838+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 506646,
+      "NumberOfAwardsMax": 142615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 506552,
+  "NumberOfAwards": 506646,
   "NumberOfAwardsMax": 142615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18743,12 +18749,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 19515
+      "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055178,
+  "EOS_Progressed": 1055199,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6880,
+  "EOS_NewPlayers": 6861,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50191,6 +50197,11 @@
       "Time": "2024-01-19T22:09:07.7884858+00:00",
       "NumProgressed": 1055178,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-19T23:09:18.3781694+00:00",
+      "NumProgressed": 1055199,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50249,9 +50260,9 @@
       "ID": "Fortuneteller",
       "SetID": "47clieb",
       "Name": "The Wandering Fool",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 1055
+      "UsersEstimate": 2110
     },
     {
       "ID": "Gearhead",
@@ -50545,9 +50556,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3166
+      "UsersEstimate": 4221
     },
     {
       "ID": "All the President\u0027s Men",
@@ -50738,21 +50749,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055178,
+      "Progressed": 1055199,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183801,
+      "Progressed": 183822,
       "Completed": 10662
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-19T21:03:46.8709827+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:09:07.7884855+00:00",
+  "LastChanged": "2024-01-19T23:03:26.1166836+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:09:18.3781692+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:03:25.2320796+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:09:07.7886509+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:03:26.1166842+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:09:18.3784151+00:00"
 }

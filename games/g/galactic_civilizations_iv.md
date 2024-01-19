@@ -6,15 +6,15 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,826 |
-| Worker Specialization | 76.00% | ~5,750 |
+| Colonize a Planet | 77.00% | ~5,827 |
+| Worker Specialization | 76.00% | ~5,751 |
 | First Contact | 72.00% | ~5,448 |
-| Win a Battle | 65.00% | ~4,918 |
+| Win a Battle | 65.00% | ~4,919 |
 | Anomaly Researcher | 60.00% | ~4,540 |
 | Unleash My Power | 60.00% | ~4,540 |
 | Own 30 Planets | 32.00% | ~2,421 |
-| Xenocide | 31.00% | ~2,345 |
-| Design a Civilization | 31.00% | ~2,345 |
+| Xenocide | 31.00% | ~2,346 |
+| Design a Civilization | 31.00% | ~2,346 |
 | Commodity Trader | 29.00% | ~2,194 |
 | Design a Ship | 27.00% | ~2,043 |
 | Commodity Seller | 24.00% | ~1,816 |
@@ -36,10 +36,10 @@ Number of Ratings: 429  (23.09.2022)
 | Influence Victory! | 2.00% | ~151 |
 | Win as the Baratak | 1.00% | ~76 |
 | Win as the Mimot | 1.00% | ~76 |
+| Recruit a Leader | 0.90% | ~68 |
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
-| Recruit a Leader | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as the Krynn | 0.70% | ~53 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,566 (Ranked 199)  
+Progressed: 7,567 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 7,557 | 0 |
 | 2024-01-17 | 7,558 | 0 |
 | 2024-01-18 | 7,562 | 0 |
-| 2024-01-19 | 7,566 | 0 |
+| 2024-01-19 | 7,567 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 385)  
 Sum: 702 (Ranked 313)  

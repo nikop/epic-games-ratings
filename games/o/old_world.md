@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,007 (Ranked 170)  
+Progressed: 17,008 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,16 +639,16 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 17,007 | 5 |
+| 2024-01-19 | 17,008 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,939 (Ranked 224)  
-Diff (max vs sum): 63  
+Sum: 1,942 (Ranked 223)  
+Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |
+| This game is Extremely Fun | 228 |
 | This game has Diverse Characters | 227 |
-| This game is Extremely Fun | 225 |
 | This game is Highly Recommended | 223 |
 | This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
@@ -856,4 +856,4 @@ Diff (max vs sum): 63
 | 2024-01-16 | 4.65 | - | 230 | 1,933 |
 | 2024-01-17 | 4.65 | - | 230 | 1,936 |
 | 2024-01-18 | 4.65 | - | 230 | 1,937 |
-| 2024-01-19 | 4.65 | - | 230 | 1,939 |
+| 2024-01-19 | 4.65 | - | 230 | 1,942 |

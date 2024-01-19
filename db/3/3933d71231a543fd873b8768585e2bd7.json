@@ -393,9 +393,9 @@
       "ID": "achievements.completemission.master.01",
       "SetID": "1kd1942",
       "Name": "Another Brick in the Node",
-      "Percentage": 72,
+      "Percentage": 74,
       "XP": 40,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "achievements.completemission.master.02",
@@ -504,8 +504,8 @@
   ],
   "FirstSeen": "2023-09-03T14:57:43.5916063+00:00",
   "FirstSeenAchievements": "2023-09-01T09:03:14.0251978+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:06:38.7153335+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:06:26.8147957+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:11.8602693+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:01:06.9570829+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:06:38.7153743+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:02:50.4340328+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:06:26.8148068+00:00"
 }

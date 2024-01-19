@@ -23,9 +23,9 @@ Rating: 4.78 (Ranked 113)
 | Old friend | 33.00% | ~1,151 |
 | Devineur | 33.00% | ~1,151 |
 | Hijack | 32.00% | ~1,116 |
+| I chose my shackles | 29.00% | ~1,012 |
 | Ancient power | 29.00% | ~1,012 |
 | Whispers in the Woods I | 28.00% | ~977 |
-| I chose my shackles | 28.00% | ~977 |
 | Sacred Woods | 27.00% | ~942 |
 | Little light | 25.00% | ~872 |
 | Glyndemere | 24.00% | ~837 |

@@ -4,10 +4,10 @@
   "ProductSlug": "chorus",
   "Ranking_Rating": 665,
   "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 539,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -333,7 +333,7 @@
   ],
   "EOS_Progressed": 1429,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -3374,9 +3374,9 @@
       "ID": "MissionScavengingJob",
       "SetID": "a6c395p",
       "Name": "Another Life",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1186
+      "UsersEstimate": 1200
     },
     {
       "ID": "MissionShipyard",
@@ -3502,8 +3502,8 @@
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2024-01-04T18:59:52.3353425+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:10:11.8184087+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:10:17.8025551+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:39.6396666+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:00:13.4027381+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:10:11.8184399+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:59:43.5606704+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:10:17.8025923+00:00"
 }

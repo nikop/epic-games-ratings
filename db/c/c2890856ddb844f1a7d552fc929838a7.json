@@ -4,10 +4,10 @@
   "ProductSlug": "blasphemous-2",
   "Ranking_Rating": 49,
   "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 539,
+  "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 196,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -6420,9 +6420,9 @@
       "ID": "AC15",
       "SetID": "l4abp0",
       "Name": "Full Devotion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 465
     },
     {
       "ID": "AC16",
@@ -6677,8 +6677,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-19T17:02:47.5666369+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:05:50.6219395+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:05:42.461473+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:57:13.6312054+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:05:50.6219911+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:57:05.2677465+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:05:42.4615336+00:00"
 }

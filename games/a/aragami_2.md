@@ -6,23 +6,23 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,107 |
-| First Steps | 80.00% | ~36,221 |
-| Control the Shadows | 67.00% | ~30,335 |
-| Tools of the Trade | 63.00% | ~28,524 |
-| Apprentice | 60.00% | ~27,166 |
-| Secret Seeker | 57.00% | ~25,807 |
-| Forge of Assassins | 55.00% | ~24,902 |
-| Revenant | 52.00% | ~23,544 |
-| I don’t Care! | 46.00% | ~20,827 |
-| Bird of Prey | 37.00% | ~16,752 |
-| Engraved with Power | 32.00% | ~14,488 |
+| Awakening | 93.00% | ~42,109 |
+| First Steps | 80.00% | ~36,222 |
+| Control the Shadows | 67.00% | ~30,336 |
+| Tools of the Trade | 63.00% | ~28,525 |
+| Apprentice | 60.00% | ~27,167 |
+| Secret Seeker | 57.00% | ~25,808 |
+| Forge of Assassins | 55.00% | ~24,903 |
+| Revenant | 52.00% | ~23,545 |
+| I don’t Care! | 46.00% | ~20,828 |
+| Bird of Prey | 37.00% | ~16,753 |
+| Engraved with Power | 32.00% | ~14,489 |
 | Lady | 31.00% | ~14,036 |
 | Fashionable Assassin | 27.00% | ~12,225 |
-| Apex Predator | 24.00% | ~10,866 |
-| Soul Reaver | 23.00% | ~10,413 |
+| Apex Predator | 24.00% | ~10,867 |
+| Soul Reaver | 23.00% | ~10,414 |
 | Embers | 22.00% | ~9,961 |
-| Wall Lizard | 20.00% | ~9,055 |
+| Wall Lizard | 20.00% | ~9,056 |
 | Clinging to Life | 18.00% | ~8,150 |
 | Burning | 17.00% | ~7,697 |
 | Look Behind You | 17.00% | ~7,697 |
@@ -31,7 +31,7 @@ Number of Ratings: 88  (23.09.2022)
 | War Engines | 14.00% | ~6,339 |
 | Signature Move | 14.00% | ~6,339 |
 | Ruse | 12.00% | ~5,433 |
-| Master Ninja | 11.00% | ~4,980 |
+| Master Ninja | 11.00% | ~4,981 |
 | Hatching | 10.00% | ~4,528 |
 | Bonds | 9.00% | ~4,075 |
 | Get Over Here | 9.00% | ~4,075 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~906 |
 | Legacy | 2.00% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,276 (Ranked 129)  
+Progressed: 45,278 (Ranked 129)  
 Completed: 250 (0.55%) (Ranked 222)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 250 (0.55%) (Ranked 222)
 | 2024-01-16 | 45,204 | 250 |
 | 2024-01-17 | 45,225 | 250 |
 | 2024-01-18 | 45,248 | 250 |
-| 2024-01-19 | 45,276 | 250 |
+| 2024-01-19 | 45,278 | 250 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,9 +5,9 @@
   "Ranking_Rating": 1007,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
-  "Ranking_EOS_Progress": 316,
+  "Ranking_EOS_Progress": 308,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 103,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-02T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 838,
+  "EOS_Progressed": 935,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 720,
+  "EOS_NewPlayers": 817,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -338,6 +338,11 @@
       "Time": "2024-01-19T22:03:39.8094851+00:00",
       "NumProgressed": 838,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T23:03:40.5720584+00:00",
+      "NumProgressed": 935,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -349,7 +354,7 @@
       "Name": "When ACE met AYLA",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_BIRDSPEAKER",
@@ -365,7 +370,7 @@
       "Name": "Kats always land on their feet",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_CHALLENGE_ODUM",
@@ -381,7 +386,7 @@
       "Name": "Kat-like reflexes",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_CHALLENGE_ZEPHYR",
@@ -389,23 +394,23 @@
       "Name": "Stellar extra-vehicular activities score",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_CLIMB_FIRST",
       "SetID": "1f0d2e2",
       "Name": "Getting the hang of it",
-      "Percentage": 11,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 92
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_COLLECT_ASTROCHAT",
       "SetID": "1f0d2e2",
       "Name": "Reading is fundamental",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 327
     },
     {
       "ID": "ACH_COLLECT_ASTROCHAT_ALL",
@@ -419,9 +424,9 @@
       "ID": "ACH_COLLECT_COMIC",
       "SetID": "1f0d2e2",
       "Name": "The beginning of a beautiful collection",
-      "Percentage": 35,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_COLLECT_COMIC_ALL",
@@ -435,9 +440,9 @@
       "ID": "ACH_COLLECT_HOLOGRAM",
       "SetID": "1f0d2e2",
       "Name": "Take a look",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 302
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_COLLECT_HOLOGRAM_ALL",
@@ -445,7 +450,7 @@
       "Name": "Cinephile",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 42
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_COLLECT_PROFILE",
@@ -453,7 +458,7 @@
       "Name": "Piecing the story together",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 59
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_COLLECT_PROFILE_ALL",
@@ -467,7 +472,7 @@
       "ID": "ACH_COLLECT_PROFILE_FOUR",
       "SetID": "1f0d2e2",
       "Name": "As the story unfolds...",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 50,
       "UsersEstimate": 5
     },
@@ -483,9 +488,9 @@
       "ID": "ACH_COLLECT_SCANNABLE",
       "SetID": "1f0d2e2",
       "Name": "Better jot that down",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_COLLECT_SCANNABLE_ALL",
@@ -501,39 +506,39 @@
       "Name": "On the Precipice",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 75
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_FINISH_EARTHCAMPUS",
       "SetID": "1f0d2e2",
       "Name": "Moonbear",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 117
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_FINISH_EPILOGUE",
       "SetID": "1f0d2e2",
       "Name": "Delivered Us Mars",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_FINISH_HABITAS1",
       "SetID": "1f0d2e2",
       "Name": "The Dream for These Folks",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_FINISH_HABITAS2",
       "SetID": "1f0d2e2",
       "Name": "Like Animals",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_FINISH_HERSCHEL",
@@ -541,23 +546,23 @@
       "Name": "A Nice Place to Live",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_FINISH_ODUM",
       "SetID": "1f0d2e2",
       "Name": "Not the Rabbits, Not the Bees",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 75
     },
     {
       "ID": "ACH_FINISH_PROLOGUE",
       "SetID": "1f0d2e2",
       "Name": "Home Is...",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_FINISH_UNISON",
@@ -565,23 +570,23 @@
       "Name": "Wants and Needs",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_FINISH_WRECKAGE",
       "SetID": "1f0d2e2",
       "Name": "Desperate Times",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 50
+      "UsersEstimate": 65
     },
     {
       "ID": "ACH_FINISH_ZEPHYR",
       "SetID": "1f0d2e2",
       "Name": "Want to Go to Space?",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_MARSWORM",
@@ -595,9 +600,9 @@
       "ID": "ACH_PRISONROOM",
       "SetID": "1f0d2e2",
       "Name": "The Gang",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_RYAN_WAIT",
@@ -612,7 +617,7 @@
     {
       "ID": "1f0d2e2",
       "IsBase": true,
-      "Progressed": 838,
+      "Progressed": 935,
       "Completed": 0
     }
   ],
@@ -620,8 +625,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.8750622+00:00",
   "LastChanged": "2024-01-18T16:57:45.6706577+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:03:39.8094841+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:03:40.5720577+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:36.992041+00:00",
-  "LastUpdate_Ratings": "2024-01-19T21:58:14.7157177+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:03:39.811188+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:57:58.7883746+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:03:40.5721034+00:00"
 }

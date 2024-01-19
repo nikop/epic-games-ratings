@@ -5,18 +5,18 @@ Rating: 4.10 (Ranked 1,026)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,337 |
-| World Map | 78.00% | ~3,637 |
-| Temple of Eternals | 56.00% | ~2,611 |
-| Prestigious | 52.00% | ~2,425 |
-| Fellowship Power | 42.00% | ~1,958 |
-| Full Party | 30.00% | ~1,399 |
+| Victor | 93.00% | ~4,338 |
+| World Map | 78.00% | ~3,639 |
+| Temple of Eternals | 56.00% | ~2,612 |
+| Prestigious | 52.00% | ~2,426 |
+| Fellowship Power | 42.00% | ~1,959 |
+| Full Party | 30.00% | ~1,400 |
 | Guild Power | 22.00% | ~1,026 |
 | Prestigious x10 | 20.00% | ~933 |
-| The game is on | 18.00% | ~839 |
+| The game is on | 18.00% | ~840 |
 | Exotic Merchant | 16.00% | ~746 |
-| Dragon Clicker | 15.00% | ~699 |
-| Miner Clicker | 15.00% | ~699 |
+| Dragon Clicker | 15.00% | ~700 |
+| Miner Clicker | 15.00% | ~700 |
 | Dragon Master | 13.00% | ~606 |
 | Enlightenment | 13.00% | ~606 |
 | Hero inspection | 13.00% | ~606 |
@@ -38,11 +38,11 @@ Rating: 4.10 (Ranked 1,026)
 | Moving Up The Ladder | 8.00% | ~373 |
 | Relic Of The Past | 8.00% | ~373 |
 | Scroll Master | 8.00% | ~373 |
-| Four Leaf Clover | 7.00% | ~326 |
-| Here We Go Again | 7.00% | ~326 |
-| Master Enchanter | 7.00% | ~326 |
-| The father of Dragons | 7.00% | ~326 |
-| Trader | 7.00% | ~326 |
+| Four Leaf Clover | 7.00% | ~327 |
+| Here We Go Again | 7.00% | ~327 |
+| Master Enchanter | 7.00% | ~327 |
+| The father of Dragons | 7.00% | ~327 |
+| Trader | 7.00% | ~327 |
 | Dragon Slayer | 6.00% | ~280 |
 | Enchanting skill | 6.00% | ~280 |
 | The Expeditioner | 6.00% | ~280 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 1,026)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,663 (Ranked 210)  
+Progressed: 4,665 (Ranked 210)  
 Completed: 2 (0.04%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,11 +350,11 @@ Completed: 2 (0.04%) (Ranked 356)
 | 2024-01-16 | 4,558 | 2 |
 | 2024-01-17 | 4,598 | 2 |
 | 2024-01-18 | 4,623 | 2 |
-| 2024-01-19 | 4,663 | 2 |
+| 2024-01-19 | 4,665 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
-Sum: 162 (Ranked 443)  
-Diff (max vs sum): 39  
+Sum: 162 (Ranked 444)  
+Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |

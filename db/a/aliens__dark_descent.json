@@ -10237,9 +10237,9 @@
       "ID": "ACH_KILL_QUEENS",
       "SetID": "816efe",
       "Name": "Regicide",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 846
+      "UsersEstimate": 911
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -10502,8 +10502,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:04:01.0289179+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:04:00.4042139+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:00:41.331664+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:04:01.0289996+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:00:08.7828631+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:04:00.4042992+00:00"
 }

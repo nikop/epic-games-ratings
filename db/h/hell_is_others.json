@@ -2,12 +2,12 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 788,
+  "Ranking_Rating": 789,
   "Ranking_Popularity": 448,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewPlayers": 157,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1549,9 +1549,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 260848,
+  "EOS_Progressed": 260851,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27744,6 +27744,11 @@
       "Time": "2024-01-19T22:04:14.8258832+00:00",
       "NumProgressed": 260848,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T23:04:13.2391622+00:00",
+      "NumProgressed": 260851,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27755,7 +27760,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18259
+      "UsersEstimate": 18260
     },
     {
       "ID": "Act2",
@@ -27771,7 +27776,7 @@
       "Name": "The Strengthening",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "Act4",
@@ -27803,7 +27808,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80863
+      "UsersEstimate": 80864
     },
     {
       "ID": "BackHomeNTimes",
@@ -27811,7 +27816,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13042
+      "UsersEstimate": 13043
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -27867,7 +27872,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7825
+      "UsersEstimate": 7826
     },
     {
       "ID": "CreditLevel3",
@@ -27883,7 +27888,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13042
+      "UsersEstimate": 13043
     },
     {
       "ID": "CreedsInBank2",
@@ -27891,7 +27896,7 @@
       "Name": "Saver II",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "CreedsInBank3",
@@ -27923,7 +27928,7 @@
       "Name": "It\u0027s the last one, I swear",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "FullHomeExpansion",
@@ -27947,7 +27952,7 @@
       "Name": "Botanist",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "GrowPlants1",
@@ -27963,7 +27968,7 @@
       "Name": "Green thumb II",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "GrowPlants3",
@@ -27995,7 +28000,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7825
+      "UsersEstimate": 7826
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -28027,7 +28032,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7825
+      "UsersEstimate": 7826
     },
     {
       "ID": "KillOtherWithMine",
@@ -28043,7 +28048,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 59995
+      "UsersEstimate": 59996
     },
     {
       "ID": "KillOthers2",
@@ -28051,7 +28056,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7825
+      "UsersEstimate": 7826
     },
     {
       "ID": "KillOthers3",
@@ -28107,7 +28112,7 @@
       "Name": "Bricklayer",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     },
     {
       "ID": "OldCoinCollected",
@@ -28195,14 +28200,14 @@
       "Name": "Run the Economy",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2608
+      "UsersEstimate": 2609
     }
   ],
   "AchievementSets": [
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260848,
+      "Progressed": 260851,
       "Completed": 3
     }
   ],
@@ -28210,8 +28215,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-19T18:59:33.0505202+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:04:14.8258829+00:00",
+  "LastChanged_Achievements": "2024-01-19T23:04:13.2391619+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:00:03.4569033+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:04:14.8260306+00:00"
+  "LastUpdate_Ratings": "2024-01-19T22:59:35.1408416+00:00",
+  "LastUpdate_Achievements": "2024-01-19T23:04:13.2393292+00:00"
 }
