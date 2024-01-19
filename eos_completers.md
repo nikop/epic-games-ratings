@@ -52,15 +52,15 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.66% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
-| 57 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.27% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.20% |
+| 57 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.23% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.19% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
-| 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.12% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.12% |
+| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.11% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.86% |
 | 63 | [Scorn](games/s/scorn.md) | 6.84% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.74% |
@@ -105,8 +105,8 @@
 | 103 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.49% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.23% |
-| 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.22% |
+| 106 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.22% |
+| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.22% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
 | 110 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.12% |
@@ -194,7 +194,7 @@
 | 191 | [The Shapeshifting Detective](games/t/the_shapeshifting_detective.md) | 0.88% |
 | 191 | [The Uncertain: Light at the End](games/t/the_uncertain__light_at_the_end.md) | 0.88% |
 | 194 | [Pixel Art Coloring Book](games/0/0ecc6e3c452d42af84e78012db31bad9.md) | 0.87% |
-| 195 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.82% |
+| 195 | [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated](games/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.md) | 0.81% |
 | 196 | [Dungeons 3](games/d/dungeons_3.md) | 0.79% |
 | 197 | [The Caligula Effect 2](games/t/the_caligula_effect_2.md) | 0.78% |
 | 197 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.78% |
@@ -289,8 +289,8 @@
 | 286 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
 | 286 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
 | 289 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
+| 289 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.19% |
 | 289 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
-| 291 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
 | 292 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
 | 292 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.17% |
 | 292 | [Going Medieval](games/g/going_medieval.md) | 0.17% |
