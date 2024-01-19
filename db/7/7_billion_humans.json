@@ -2,9 +2,9 @@
   "ID": "holly",
   "Name": "7 Billion Humans",
   "ProductSlug": "7-billion-humans",
-  "Ranking_Rating": 382,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Rating": 381,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 546,
@@ -59,6 +59,6 @@
   "FirstSeenRating": "2023-03-31T05:57:40.3862176+00:00",
   "LastChanged": "2023-12-18T16:01:15.5830016+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:36.8275743+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:01:47.0823238+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:09:18.6510499+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:00:30.3717498+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:08:59.7385818+00:00"
 }

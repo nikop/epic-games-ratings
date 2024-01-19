@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17405,
+  "EOS_Progressed": 17406,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 577,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12699,6 +12699,11 @@
       "Time": "2024-01-19T08:04:50.2074761+00:00",
       "NumProgressed": 17405,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T09:03:59.8822382+00:00",
+      "NumProgressed": 17406,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12838,7 +12843,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4351
+      "UsersEstimate": 4352
     },
     {
       "ID": "Ach018",
@@ -12950,7 +12955,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5047
+      "UsersEstimate": 5048
     },
     {
       "ID": "Ach032",
@@ -13062,7 +13067,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1567
     },
     {
       "ID": "Ach046",
@@ -13078,7 +13083,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7310
+      "UsersEstimate": 7311
     },
     {
       "ID": "Ach048",
@@ -13086,7 +13091,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "Ach049",
@@ -13110,7 +13115,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8702
+      "UsersEstimate": 8703
     },
     {
       "ID": "Ach052",
@@ -13277,13 +13282,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17405,
+      "Progressed": 17406,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15926,
+      "Progressed": 15927,
       "Completed": 1931
     }
   ],
@@ -13291,8 +13296,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:04:50.2074756+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:03:59.8822379+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:58:13.329755+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:04:50.2076089+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:57:48.2874469+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:03:59.8823505+00:00"
 }

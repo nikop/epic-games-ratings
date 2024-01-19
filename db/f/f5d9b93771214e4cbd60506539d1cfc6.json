@@ -3,8 +3,8 @@
   "Name": "Guacamelee! Super Turbo Championship Edition",
   "ProductSlug": "guacamelee-stce-7cdbc8",
   "Ranking_Rating": 532,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 98,
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161830,
+  "EOS_Progressed": 161831,
   "EOS_Completed": 395,
   "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 6,
@@ -25758,6 +25758,11 @@
       "Time": "2024-01-19T08:05:46.7220558+00:00",
       "NumProgressed": 161830,
       "NumCompleted": 395
+    },
+    {
+      "Time": "2024-01-19T09:04:44.074412+00:00",
+      "NumProgressed": 161831,
+      "NumCompleted": 395
     }
   ],
   "TotalAchievements": 31,
@@ -25777,7 +25782,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113281
+      "UsersEstimate": 113282
     },
     {
       "ID": "EAwards_10",
@@ -25793,7 +25798,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 33984
+      "UsersEstimate": 33985
     },
     {
       "ID": "EAwards_12",
@@ -25865,7 +25870,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 45312
+      "UsersEstimate": 45313
     },
     {
       "ID": "EAwards_20",
@@ -25969,7 +25974,7 @@
       "Name": "Snuffed Out",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 24274
+      "UsersEstimate": 24275
     },
     {
       "ID": "EAwards_5",
@@ -26001,7 +26006,7 @@
       "Name": "Flawless",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 61495
+      "UsersEstimate": 61496
     },
     {
       "ID": "EAwards_9",
@@ -26016,7 +26021,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 161830,
+      "Progressed": 161831,
       "Completed": 395
     }
   ],
@@ -26024,8 +26029,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:05:46.7220554+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:04:44.0744116+00:00",
   "LastUpdate_AppInfo": "2024-01-12T09:57:07.503551+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:59:23.0316842+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:05:46.7221859+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:58:40.4924339+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:44.0745436+00:00"
 }

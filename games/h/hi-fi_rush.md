@@ -7,14 +7,14 @@ Rating: 4.86 (Ranked 34)
 | ---- | ---------- | ----- |
 | Feeling the beat! | 56.00% | ~9,747 |
 | Start with a bang! | 55.00% | ~9,573 |
-| You can pet the cat! | 50.00% | ~8,702 |
-| Who put gears in there? | 42.00% | ~7,310 |
+| You can pet the cat! | 50.00% | ~8,703 |
+| Who put gears in there? | 42.00% | ~7,311 |
 | Cream of the Crop | 37.00% | ~6,440 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,266 |
 | You got this, Peppermint? | 31.00% | ~5,396 |
-| Perfect Parry | 29.00% | ~5,047 |
-| Alright, that felt AWESOME! | 28.00% | ~4,873 |
-| I play my own way! | 25.00% | ~4,351 |
+| Perfect Parry | 29.00% | ~5,048 |
+| Alright, that felt AWESOME! | 28.00% | ~4,874 |
+| I play my own way! | 25.00% | ~4,352 |
 | This will cost you big time | 23.00% | ~4,003 |
 | Uh, they were broken when I got here | 23.00% | ~4,003 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,655 |
@@ -30,7 +30,7 @@ Rating: 4.86 (Ranked 34)
 | I look cool. But I can look COOLER. | 13.00% | ~2,263 |
 | Who's the boss now? | 12.00% | ~2,089 |
 | I have to read these things? | 12.00% | ~2,089 |
-| There's such a thing as TOO helpful | 9.00% | ~1,566 |
+| There's such a thing as TOO helpful | 9.00% | ~1,567 |
 | NOW we got a kickass hideout! | 9.00% | ~1,433 |
 | Well that was a rush! | 8.00% | ~1,392 |
 | That's a lot of junk metal… | 8.00% | ~1,392 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,405 (Ranked 169)  
+Progressed: 17,406 (Ranked 169)  
 Completed: 8 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 8 (0.05%) (Ranked 344)
 | 2024-01-16 | 17,286 | 8 |
 | 2024-01-17 | 17,341 | 8 |
 | 2024-01-18 | 17,389 | 8 |
-| 2024-01-19 | 17,405 | 8 |
+| 2024-01-19 | 17,406 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

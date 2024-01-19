@@ -13,7 +13,7 @@ Number of Ratings: 90  (23.09.2022)
 | Shop Til They Drop | 40.00% | ~179 |
 | Bodied Sattva | 38.00% | ~170 |
 | Cult Following | 36.00% | ~161 |
-| Earthly Pleasures | 34.00% | ~152 |
+| Earthly Pleasures | 35.00% | ~157 |
 | Lie Back and Think of Albion | 29.00% | ~130 |
 | Upgreatest | 28.00% | ~125 |
 | Pimp My Raid | 26.00% | ~116 |

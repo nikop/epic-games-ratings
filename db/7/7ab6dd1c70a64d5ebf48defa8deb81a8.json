@@ -3,12 +3,12 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 991,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2383,
+  "EOS_Progressed": 2384,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4790,6 +4790,11 @@
       "Time": "2024-01-19T04:10:21.9836649+00:00",
       "NumProgressed": 2383,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T09:10:23.4600135+00:00",
+      "NumProgressed": 2384,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4801,7 +4806,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1549
+      "UsersEstimate": 1550
     },
     {
       "ID": "ACH_02",
@@ -4809,7 +4814,7 @@
       "Name": "Find Allies",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_03",
@@ -4833,7 +4838,7 @@
       "Name": "To Battle",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_06",
@@ -4841,7 +4846,7 @@
       "Name": "Godslayer",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_07",
@@ -4857,7 +4862,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 643
+      "UsersEstimate": 644
     },
     {
       "ID": "ACH_09",
@@ -4905,7 +4910,7 @@
       "Name": "Airborne",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_15",
@@ -4921,7 +4926,7 @@
       "Name": "Essence Blow",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_17",
@@ -4945,7 +4950,7 @@
       "Name": "Slayer",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_20",
@@ -4953,7 +4958,7 @@
       "Name": "Flawless Victory",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "ACH_21",
@@ -5033,7 +5038,7 @@
       "Name": "Alchemist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_31",
@@ -5057,7 +5062,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "ACH_35",
@@ -5088,7 +5093,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2383,
+      "Progressed": 2384,
       "Completed": 5
     }
   ],
@@ -5096,8 +5101,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:11:06.1178558+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:10:23.4600131+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:58:08.1652964+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:11:06.1179069+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:57:44.3885533+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:10:23.4600611+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~219,753 |
-| 50 HEADSHOTS | 31.00% | ~200,363 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,900 |
-| FINISHED CHAPTER 1 | 29.00% | ~187,436 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,730 |
-| 200 HEADSHOTS | 19.00% | ~122,803 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,340 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,950 |
-| FINISH CHAPTER 5 | 13.00% | ~84,023 |
-| FINISH CHAPTER 6 | 11.00% | ~71,097 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,097 |
-| 1000 KILLS | 10.00% | ~64,633 |
+| 100 KILLS | 34.00% | ~219,748 |
+| 50 HEADSHOTS | 31.00% | ~200,359 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,896 |
+| FINISHED CHAPTER 1 | 29.00% | ~187,433 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,727 |
+| 200 HEADSHOTS | 19.00% | ~122,801 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,337 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,948 |
+| FINISH CHAPTER 5 | 13.00% | ~84,021 |
+| FINISH CHAPTER 6 | 11.00% | ~71,095 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,095 |
+| 1000 KILLS | 10.00% | ~64,632 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~25,853 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~12,927 |
-| FIRST BLOOD | 2.00% | ~12,927 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~12,926 |
+| FIRST BLOOD | 2.00% | ~12,926 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,463 |
 | OUT OF ORDER | 1.00% | ~6,463 |
 | PACEMAKER | 1.00% | ~6,463 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 242)
 | THE GAMBLER | 0.10% | ~646 |
 | WARRIOR IN A GARDEN | 0.10% | ~646 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646,332 (Ranked 32)  
+Progressed: 646,319 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,12 +334,12 @@ Completed: 58 (0.01%) (Ranked 379)
 | 2024-01-18 | 646,762 | 58 |
 | 2024-01-19 | 646,429 | 58 |
 ## Awards
-Max (Great Boss Battles): 508  (Ranked 223)  
-Sum: 615 (Ranked 323)  
+Max (Great Boss Battles): 509  (Ranked 223)  
+Sum: 616 (Ranked 323)  
 Diff (max vs sum): -100  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 508 |
+| This game has Great Boss Battles | 509 |
 | This game is Great for Quick Sessions | 26 |
 | This game is Great for Beginners | 24 |
 | This game has Competitive Players | 21 |
@@ -513,3 +513,4 @@ Diff (max vs sum): -100
 | 2024-01-14 | 4.69 | 503 | 590 |
 | 2024-01-15 | 4.69 | 506 | 613 |
 | 2024-01-17 | 4.69 | 508 | 615 |
+| 2024-01-19 | 4.69 | 509 | 616 |

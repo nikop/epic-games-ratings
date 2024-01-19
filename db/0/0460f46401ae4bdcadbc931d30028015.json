@@ -1785,9 +1785,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11078,
+  "EOS_Progressed": 11079,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 818,
+  "EOS_NewPlayers": 813,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12015,6 +12015,11 @@
       "Time": "2024-01-19T08:05:17.3370185+00:00",
       "NumProgressed": 11078,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T09:04:21.1530023+00:00",
+      "NumProgressed": 11079,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12123,7 +12128,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6536
+      "UsersEstimate": 6537
     },
     {
       "ID": "achievement_21",
@@ -12155,7 +12160,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1772
+      "UsersEstimate": 1773
     },
     {
       "ID": "achievement_6",
@@ -12179,7 +12184,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 2880
+      "UsersEstimate": 2881
     },
     {
       "ID": "achievement_9",
@@ -12194,7 +12199,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11078,
+      "Progressed": 11079,
       "Completed": 0
     }
   ],
@@ -12202,8 +12207,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-19T05:03:02.6226655+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:05:17.3370182+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:04:21.1530021+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:03:09.9806321+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:05:17.3370827+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:02:42.5354094+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:21.1530786+00:00"
 }

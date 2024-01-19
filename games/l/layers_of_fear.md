@@ -15,7 +15,7 @@
 | Refuse to look | 38.00% | ~127 |
 | Face your fears | 33.00% | ~110 |
 | Finished it | 27.00% | ~90 |
-| Whispers long forgotten | 18.00% | ~60 |
+| Whispers long forgotten | 19.00% | ~63 |
 | Sound Bite | 15.00% | ~50 |
 | The art of movement | 14.00% | ~47 |
 | Another perspective | 13.00% | ~43 |

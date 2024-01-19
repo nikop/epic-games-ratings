@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7586,
+  "EOS_Progressed": 7589,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1297,
+  "EOS_NewPlayers": 1298,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2919,6 +2919,11 @@
       "Time": "2024-01-19T08:09:07.9092634+00:00",
       "NumProgressed": 7586,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-19T09:08:50.9013162+00:00",
+      "NumProgressed": 7589,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -2962,7 +2967,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -2994,7 +2999,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 3490
+      "UsersEstimate": 3491
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3010,7 +3015,7 @@
       "Name": "Rock It",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 303
+      "UsersEstimate": 304
     },
     {
       "ID": "ACH_THE_HERO",
@@ -3018,7 +3023,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 3869
+      "UsersEstimate": 3870
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3026,7 +3031,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 2048
+      "UsersEstimate": 2049
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3057,7 +3062,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 7586,
+      "Progressed": 7589,
       "Completed": 7
     }
   ],
@@ -3065,8 +3070,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:09:07.909263+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:08:50.9013158+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:38.5651471+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:00:59.0191069+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:09:07.9092847+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:59:53.6183537+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:08:50.9013398+00:00"
 }

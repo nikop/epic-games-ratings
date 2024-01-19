@@ -2,7 +2,7 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 426,
+  "Ranking_Rating": 425,
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 195,
@@ -17176,9 +17176,9 @@
       "ID": "STORE_NUTRITION_10000",
       "SetID": "5349c2e",
       "Name": "Feast or Famine",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 2722
+      "UsersEstimate": 2802
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -17304,8 +17304,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-17T08:58:35.4041927+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:04:19.8909298+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:03:35.8879269+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:00:54.6766732+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:04:19.8910512+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:59:50.5146812+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:03:35.8880551+00:00"
 }

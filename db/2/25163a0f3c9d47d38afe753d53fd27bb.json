@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 1797,
   "EOS_Completed": 130,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 7.23,
   "EosHistory": [
@@ -4825,8 +4825,8 @@
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:11:00.6330972+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:10:19.0671732+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:57:43.6902722+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:11:00.6331385+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:57:26.1912377+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:10:19.0672095+00:00"
 }

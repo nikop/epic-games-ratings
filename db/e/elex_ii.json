@@ -3,8 +3,8 @@
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
   "Ranking_Rating": 901,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 267,
@@ -1994,9 +1994,9 @@
       "ID": "KILL20SKYANDS",
       "SetID": "a1angca",
       "Name": "Defender",
-      "Percentage": 0,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "KILL30AMBIENT",
@@ -2050,8 +2050,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:04:51.5416164+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:04:00.9410138+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:58:22.6557428+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:04:51.5416767+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:57:54.8659613+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:00.9410662+00:00"
 }

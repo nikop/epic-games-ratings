@@ -3,8 +3,8 @@
   "Name": "King\u0027s Bounty: Dark Side",
   "ProductSlug": "kings-bounty-dark-side-c3066f",
   "Ranking_Rating": 812,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 546,
@@ -137,12 +137,26 @@
       "Rating": 4.37,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-19T08:57:28.6319832+00:00",
+      "Rating": 4.37,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 0,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
@@ -154,8 +168,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:44.5387804+00:00",
-  "LastChanged": "2023-11-18T23:57:51.6602043+00:00",
+  "LastChanged": "2024-01-19T08:57:28.631983+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:19.0938004+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:57:46.6034222+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:05:34.3679387+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:57:28.6319835+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:34.5320897+00:00"
 }

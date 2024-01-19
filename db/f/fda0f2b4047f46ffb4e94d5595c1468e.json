@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 150,
@@ -5361,9 +5361,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 23988,
+  "EOS_Progressed": 23989,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17051,6 +17051,11 @@
       "Time": "2024-01-19T08:09:24.5479748+00:00",
       "NumProgressed": 23988,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T09:09:03.2799548+00:00",
+      "NumProgressed": 23989,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17087,7 +17092,7 @@
       "Name": "What Just Happened??",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 7436
+      "UsersEstimate": 7437
     },
     {
       "ID": "ach05",
@@ -17103,7 +17108,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 16072
+      "UsersEstimate": 16073
     },
     {
       "ID": "ach07",
@@ -17111,7 +17116,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11034
+      "UsersEstimate": 11035
     },
     {
       "ID": "ach08",
@@ -17127,7 +17132,7 @@
       "Name": "Kontender",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3118
+      "UsersEstimate": 3119
     },
     {
       "ID": "ach10",
@@ -17239,7 +17244,7 @@
       "Name": "Take And Deny",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5037
+      "UsersEstimate": 5038
     },
     {
       "ID": "ach24",
@@ -17351,7 +17356,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11274
+      "UsersEstimate": 11275
     },
     {
       "ID": "ach38",
@@ -17455,14 +17460,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7436
+      "UsersEstimate": 7437
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23988,
+      "Progressed": 23989,
       "Completed": 2
     }
   ],
@@ -17470,8 +17475,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-19T08:03:23.2666658+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:09:24.5479744+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:09:03.2799544+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:03:23.2666665+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:09:24.5480624+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:02:52.7942252+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:09:03.280062+00:00"
 }

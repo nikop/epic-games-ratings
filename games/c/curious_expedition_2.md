@@ -25,7 +25,7 @@ Number of Ratings: 20  (23.09.2022)
 | Roll to Save | 23.00% | ~99 |
 | Nahua Seeker | 23.00% | ~99 |
 | Veteran Explorer | 22.00% | ~95 |
-| Red Flag Pirate | 20.00% | ~86 |
+| Red Flag Pirate | 21.00% | ~91 |
 | Iron Man | 17.00% | ~73 |
 | A Gentle Beast | 17.00% | ~73 |
 | Practical Palaeontology | 17.00% | ~73 |

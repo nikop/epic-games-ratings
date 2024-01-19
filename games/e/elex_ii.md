@@ -48,13 +48,13 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 2.00% | ~5 |
 | Ruthless | 0.80% | ~2 |
 | Fire in the Hole | 0.80% | ~2 |
+| Defender | 0.40% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
 | Computer Scientist | 0.00% | ~0 |
 | Treasurer | 0.00% | ~0 |
 | Warrior | 0.00% | ~0 |
-| Defender | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 264 (Ranked 419)  

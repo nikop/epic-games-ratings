@@ -18710,10 +18710,10 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1054702,
+  "EOS_Progressed": 1054735,
   "EOS_Completed": 3124,
-  "EOS_NewPlayers": 7534,
-  "EOS_NewCompleters": 51,
+  "EOS_NewPlayers": 7489,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50085,6 +50085,11 @@
       "Time": "2024-01-19T08:09:31.0580741+00:00",
       "NumProgressed": 1054702,
       "NumCompleted": 3124
+    },
+    {
+      "Time": "2024-01-19T09:09:08.2492212+00:00",
+      "NumProgressed": 1054735,
+      "NumCompleted": 3124
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50311,9 +50316,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 3164
     },
     {
       "ID": "TheHermit",
@@ -50632,21 +50637,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054702,
+      "Progressed": 1054735,
       "Completed": 3124
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183325,
+      "Progressed": 183358,
       "Completed": 10654
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-19T06:03:20.2493981+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:09:31.0580737+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:09:08.2492209+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:03:46.8194523+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:09:31.0583064+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:03:10.1233363+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:09:08.2494355+00:00"
 }

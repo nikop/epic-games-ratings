@@ -3,8 +3,8 @@
   "Name": "Rise of Industry",
   "ProductSlug": "rise-of-industry-0af838",
   "Ranking_Rating": 928,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 64,
@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769751,
+  "EOS_Progressed": 769753,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1877,
+  "EOS_NewPlayers": 1879,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31931,6 +31931,11 @@
       "Time": "2024-01-19T08:04:31.2294149+00:00",
       "NumProgressed": 769751,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-19T09:03:45.364715+00:00",
+      "NumProgressed": 769753,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -32006,7 +32011,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 284808
+      "UsersEstimate": 284809
     },
     {
       "ID": "ach_demolish_trees",
@@ -32070,7 +32075,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 369480
+      "UsersEstimate": 369481
     },
     {
       "ID": "ach_produced",
@@ -32157,7 +32162,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 769751,
+      "Progressed": 769753,
       "Completed": 4
     }
   ],
@@ -32165,8 +32170,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2024-01-07T11:01:40.5660673+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:04:31.2294144+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:03:45.3647146+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:03.25845+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:59:34.2643896+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:04:31.2295403+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:58:49.4087578+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:03:45.3648947+00:00"
 }

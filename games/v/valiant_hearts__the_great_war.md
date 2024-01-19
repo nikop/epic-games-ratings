@@ -1,7 +1,7 @@
 # Valiant Hearts: The Great War
 [Store](https://store.epicgames.com/en-US/p/valiant-hearts)  
 [View Rawdata](../../db/v/valiant_hearts__the_great_war.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.88 (Ranked 17)  
 Number of Ratings: 30  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -38,3 +38,4 @@ Number of Ratings: 30  (23.09.2022)
 | 2023-12-21 | 4.88 | - | 0 | 0 |
 | 2023-12-24 | 4.86 | - | 0 | 0 |
 | 2023-12-27 | 4.87 | - | 0 | 0 |
+| 2024-01-19 | 4.88 | - | 0 | 0 |

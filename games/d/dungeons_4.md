@@ -42,12 +42,12 @@ Rating: 4.74 (Ranked 166)
 | Doom Hill | 32.00% | ~248 |
 | Forbidden Knowledge | 30.00% | ~233 |
 | Brimstone Shaken, Not Stirred | 30.00% | ~233 |
+| Hungry, Hungry Gorgu! | 29.00% | ~225 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~225 |
 | Stop Tanos! | 29.00% | ~225 |
 | Sabotage! | 29.00% | ~225 |
 | Raiders of the Lost Stone | 29.00% | ~225 |
 | The Rune Sockets of Finitude (Part 1) | 29.00% | ~225 |
-| Hungry, Hungry Gorgu! | 28.00% | ~217 |
 | Bonus Evilness | 27.00% | ~210 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~210 |
 | The Last Stand - This Time For Real! | 26.00% | ~202 |

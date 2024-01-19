@@ -2,9 +2,9 @@
   "ID": "38d778eab1134c7f9bc4e0e5747b3ea4",
   "Name": "Time Loader",
   "ProductSlug": "time-loader",
-  "Ranking_EOS_Progress": 472,
+  "Ranking_EOS_Progress": 468,
   "Ranking_EOS_Completed": 69,
-  "Ranking_EOS_NewPlayers": 488,
+  "Ranking_EOS_NewPlayers": 449,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-11-03T16:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 145,
+  "EOS_Progressed": 146,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.21,
+  "EOS_Completed_Percentage": 6.16,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:23.4088376+00:00",
@@ -294,6 +294,11 @@
       "Time": "2024-01-14T14:09:28.5797763+00:00",
       "NumProgressed": 145,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-19T09:04:10.0183975+00:00",
+      "NumProgressed": 146,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 29,
@@ -327,9 +332,9 @@
       "ID": "04_Mug",
       "SetID": "681m9fa",
       "Name": "Mug",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "05_TimeCapsule",
@@ -345,7 +350,7 @@
       "Name": "Photo",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "07_Contract",
@@ -369,7 +374,7 @@
       "Name": "Ticket",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "10_Flyer",
@@ -391,9 +396,9 @@
       "ID": "12_Purrfect",
       "SetID": "681m9fa",
       "Name": "Purr-fect",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "13_DrAntivirus",
@@ -415,17 +420,17 @@
       "ID": "15_Screwdriver",
       "SetID": "681m9fa",
       "Name": "Screwdriver",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "16_Springs",
       "SetID": "681m9fa",
       "Name": "Springs",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 80
     },
     {
       "ID": "17_Capacitors",
@@ -465,7 +470,7 @@
       "Name": "Robot Bros",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "22_OutOfTheLoop",
@@ -521,22 +526,22 @@
       "Name": "Act 2",
       "Percentage": 21,
       "XP": 70,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "29_Act3",
       "SetID": "681m9fa",
       "Name": "Act 3",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 28
+      "UsersEstimate": 26
     }
   ],
   "AchievementSets": [
     {
       "ID": "681m9fa",
       "IsBase": true,
-      "Progressed": 145,
+      "Progressed": 146,
       "Completed": 9
     }
   ],
@@ -544,8 +549,8 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0272628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.4088384+00:00",
   "LastChanged": "2023-03-31T05:58:23.0272628+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:05:03.1490275+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:04:10.0183973+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:26.8987472+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:03:09.5993336+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:05:03.1490503+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:02:42.2435921+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:10.0184228+00:00"
 }

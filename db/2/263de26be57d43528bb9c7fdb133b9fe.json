@@ -222,9 +222,9 @@
       "ID": "MONEY_1M",
       "SetID": "89ki2f0",
       "Name": "Please stop asking me for money",
-      "Percentage": 3,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "PHOTOS_ALL",
@@ -292,8 +292,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:05:23.6847119+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:04:26.1134623+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:58:58.9248404+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:05:23.6847306+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:58:22.3386998+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:26.1134927+00:00"
 }

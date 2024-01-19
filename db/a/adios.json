@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1102,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 123,
@@ -147,7 +147,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83889,
+  "EOS_Progressed": 83891,
   "EOS_Completed": 946,
   "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 17,
@@ -30717,6 +30717,11 @@
       "Time": "2024-01-19T08:05:22.2965251+00:00",
       "NumProgressed": 83889,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-19T09:04:25.0837662+00:00",
+      "NumProgressed": 83891,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30824,7 +30829,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4194
+      "UsersEstimate": 4195
     },
     {
       "ID": "Master, Commander",
@@ -30880,7 +30885,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11744
+      "UsersEstimate": 11745
     },
     {
       "ID": "Sniper",
@@ -30927,7 +30932,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83889,
+      "Progressed": 83891,
       "Completed": 946
     }
   ],
@@ -30935,8 +30940,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:05:22.2965248+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:04:25.083766+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:01:47.9150597+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:05:22.2966905+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:00:31.057968+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:25.0839156+00:00"
 }

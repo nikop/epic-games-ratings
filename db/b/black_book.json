@@ -3,12 +3,12 @@
   "Name": "Black Book",
   "ProductSlug": "black-book",
   "Ranking_Rating": 323,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 50,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67800,
+  "EOS_Progressed": 67801,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1283,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17441,6 +17441,11 @@
       "Time": "2024-01-19T08:05:25.5276741+00:00",
       "NumProgressed": 67800,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-19T09:04:27.6387019+00:00",
+      "NumProgressed": 67801,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17852,15 +17857,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67800,
+      "Progressed": 67801,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:05:25.5276736+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:04:27.6387017+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:59:09.5768788+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:05:25.5277906+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:58:30.2087541+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:27.6388205+00:00"
 }

@@ -12,14 +12,14 @@ Rating: 3.53 (Ranked 1,102)
 | Mechanic | 19.00% | ~15,939 |
 | Bottom's Up | 18.00% | ~15,100 |
 | Nice Try | 17.00% | ~14,261 |
-| Right On Target | 14.00% | ~11,744 |
+| Right On Target | 14.00% | ~11,745 |
 | Piano Man | 11.00% | ~9,228 |
 | Lazy Bones | 9.00% | ~7,550 |
 | Vinyl Vibes | 8.00% | ~6,711 |
 | Nothing Left to Say | 7.00% | ~5,872 |
 | Sniper | 7.00% | ~5,872 |
 | Cut Call | 6.00% | ~5,033 |
-| Magnetic Miracles | 5.00% | ~4,194 |
+| Magnetic Miracles | 5.00% | ~4,195 |
 | Butcher | 4.00% | ~3,356 |
 | Fair's Fair | 4.00% | ~3,356 |
 | Spicy | 4.00% | ~3,356 |
@@ -31,7 +31,7 @@ Rating: 3.53 (Ranked 1,102)
 | Audiophile | 2.00% | ~1,678 |
 | Tape Head | 2.00% | ~1,678 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,889 (Ranked 109)  
+Progressed: 83,891 (Ranked 109)  
 Completed: 946 (1.13%) (Ranked 170)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 946 (1.13%) (Ranked 170)
 | 2024-01-16 | 83,736 | 944 |
 | 2024-01-17 | 83,802 | 945 |
 | 2024-01-18 | 83,874 | 946 |
-| 2024-01-19 | 83,889 | 946 |
+| 2024-01-19 | 83,891 | 946 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

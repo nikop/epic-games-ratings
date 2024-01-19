@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 956,
-  "Ranking_Popularity": 588,
-  "Ranking_PopularitySum": 588,
+  "Ranking_Popularity": 589,
+  "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 173,
@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12426,
+  "EOS_Progressed": 12427,
   "EOS_Completed": 93,
-  "EOS_NewPlayers": 194,
+  "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -16121,6 +16121,11 @@
       "Time": "2024-01-19T07:05:00.4561838+00:00",
       "NumProgressed": 12426,
       "NumCompleted": 93
+    },
+    {
+      "Time": "2024-01-19T09:04:30.8781574+00:00",
+      "NumProgressed": 12427,
+      "NumCompleted": 93
     }
   ],
   "TotalAchievements": 29,
@@ -16156,7 +16161,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4846
+      "UsersEstimate": 4847
     },
     {
       "ID": "ACH05",
@@ -16316,7 +16321,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1615
+      "UsersEstimate": 1616
     },
     {
       "ID": "ACH25",
@@ -16363,7 +16368,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12426,
+      "Progressed": 12427,
       "Completed": 93
     }
   ],
@@ -16371,8 +16376,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:05:29.5856192+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:04:30.8781572+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:59:43.0021442+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:05:29.5856995+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:58:55.7438673+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:04:30.8782372+00:00"
 }

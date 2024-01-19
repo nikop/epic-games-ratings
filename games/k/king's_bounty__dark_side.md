@@ -3,6 +3,13 @@
 [View Rawdata](../../db/k/king's_bounty__dark_side.json)  
 Rating: 4.37 (Ranked 812)  
 Number of Ratings: 40  (23.09.2022)  
+## Awards
+Max (Character Customization): 20  (Ranked 581)  
+Sum: 20 (Ranked 582)  
+Diff (max vs sum): -1  
+| Award | Count |
+| ----- | ----- |
+| This game has Inclusive Character Customization | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -30,3 +37,4 @@ Number of Ratings: 40  (23.09.2022)
 | 2023-03-31 | 4.35 | - | 0 | 0 |
 | 2023-09-26 | 4.36 | - | 0 | 0 |
 | 2023-11-18 | 4.37 | - | 0 | 0 |
+| 2024-01-19 | 4.37 | - | 20 | 20 |

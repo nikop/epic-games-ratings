@@ -5363,9 +5363,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82988,
+  "EOS_Progressed": 82989,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 445,
+  "EOS_NewPlayers": 443,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30768,6 +30768,11 @@
       "Time": "2024-01-19T07:06:45.894319+00:00",
       "NumProgressed": 82988,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-19T09:05:57.4810141+00:00",
+      "NumProgressed": 82989,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30827,7 +30832,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18257
+      "UsersEstimate": 18258
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -30987,7 +30992,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10788
+      "UsersEstimate": 10789
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -31187,7 +31192,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18257
+      "UsersEstimate": 18258
     },
     {
       "ID": "MYSTERY_04",
@@ -31219,7 +31224,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10788
+      "UsersEstimate": 10789
     },
     {
       "ID": "MYSTERY_08",
@@ -31266,13 +31271,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82988,
+      "Progressed": 82989,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53268,
+      "Progressed": 53269,
       "Completed": 2680
     }
   ],
@@ -31280,8 +31285,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-18T21:57:46.9193765+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:07:20.7556673+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:05:57.4810139+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:57:54.432656+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:07:20.7559098+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:57:34.3351708+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:05:57.4811585+00:00"
 }

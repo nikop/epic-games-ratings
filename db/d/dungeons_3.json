@@ -3631,9 +3631,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47289,
+  "EOS_Progressed": 47290,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -34146,6 +34146,11 @@
       "Time": "2024-01-19T07:04:14.9899263+00:00",
       "NumProgressed": 47289,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2024-01-19T09:03:53.5378856+00:00",
+      "NumProgressed": 47290,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 60,
@@ -34245,7 +34250,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16078
+      "UsersEstimate": 16079
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -34301,7 +34306,7 @@
       "Name": "MASS-O-BOT",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11349
+      "UsersEstimate": 11350
     },
     {
       "ID": "ACH_D3_Campaign_FancyFoods_2",
@@ -34325,7 +34330,7 @@
       "Name": "Prepare the grave",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11349
+      "UsersEstimate": 11350
     },
     {
       "ID": "ACH_D3_Campaign_Fire_2",
@@ -34341,7 +34346,7 @@
       "Name": "Angel of Fire",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 11349
+      "UsersEstimate": 11350
     },
     {
       "ID": "ACH_D3_Campaign_Graves_1",
@@ -34365,7 +34370,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 20334
+      "UsersEstimate": 20335
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -34389,7 +34394,7 @@
       "Name": "Rusty Steel",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 19388
+      "UsersEstimate": 19389
     },
     {
       "ID": "ACH_D3_Campaign_Hungry_1",
@@ -34461,7 +34466,7 @@
       "Name": "Where there is Light, there is Shadow",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10876
+      "UsersEstimate": 10877
     },
     {
       "ID": "ACH_D3_Campaign_Renegade_1",
@@ -34493,7 +34498,7 @@
       "Name": "Can\u2019t stand the sight of Dark Elf blood",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 7093
+      "UsersEstimate": 7094
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_2",
@@ -34533,7 +34538,7 @@
       "Name": "Damned good",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 15132
+      "UsersEstimate": 15133
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -34557,7 +34562,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 33102
+      "UsersEstimate": 33103
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -34636,15 +34641,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47289,
+      "Progressed": 47290,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-16T23:57:36.8848841+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:04:42.1724063+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:03:53.5378854+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:00:01.4659513+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:04:42.1725852+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:59:09.4103615+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:03:53.5380633+00:00"
 }

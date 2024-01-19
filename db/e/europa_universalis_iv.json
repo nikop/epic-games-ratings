@@ -14485,10 +14485,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65057,
       "NumberOfAwardsMax": 7890
+    },
+    {
+      "Time": "2024-01-19T08:58:30.7760791+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65075,
+      "NumberOfAwardsMax": 7890
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65057,
+  "NumberOfAwards": 65075,
   "NumberOfAwardsMax": 7890,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14496,7 +14502,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 7565
+      "Count": 7583
     },
     {
       "Text": "This game has Challenging Combat",
@@ -14559,9 +14565,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 501459,
+  "EOS_Progressed": 501474,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4410,
+  "EOS_NewPlayers": 4402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46189,6 +46195,11 @@
       "Time": "2024-01-19T08:11:17.4551007+00:00",
       "NumProgressed": 501459,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T09:10:34.0981742+00:00",
+      "NumProgressed": 501474,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 363,
@@ -47766,9 +47777,9 @@
       "ID": "achievement_my_armies_are_invincible",
       "SetID": "8p2n7he",
       "Name": "My armies are invincible!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 501
+      "UsersEstimate": 1003
     },
     {
       "ID": "achievement_my_true_friend",
@@ -49103,21 +49114,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 501459,
+      "Progressed": 501474,
       "Completed": 1
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 501459,
+      "Progressed": 501474,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-18T19:58:44.1387049+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:11:17.4551004+00:00",
+  "LastChanged": "2024-01-19T08:58:30.776079+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:10:34.0981741+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-19T07:59:10.32421+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:11:17.4562002+00:00"
+  "LastUpdate_Ratings": "2024-01-19T08:58:30.7760796+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:10:34.0991946+00:00"
 }

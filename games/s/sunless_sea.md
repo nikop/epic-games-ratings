@@ -1,7 +1,7 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 475)  
+Rating: 4.58 (Ranked 474)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,8 +9,8 @@ Number of Ratings: 401  (23.09.2022)
 | Sink Beneath the Waves | 36.00% | ~16,024 |
 | Sweet Sorrow | 18.00% | ~8,012 |
 | Rules the Waves | 17.00% | ~7,567 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,676 |
-| Rival | 14.00% | ~6,231 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,677 |
+| Rival | 14.00% | ~6,232 |
 | Correspondent | 12.00% | ~5,341 |
 | Lose Your Mind | 12.00% | ~5,341 |
 | Sound Mind? | 12.00% | ~5,341 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,510 (Ranked 133)  
+Progressed: 44,511 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 4 (0.01%) (Ranked 379)
 | 2024-01-16 | 44,372 | 4 |
 | 2024-01-17 | 44,437 | 4 |
 | 2024-01-18 | 44,492 | 4 |
-| 2024-01-19 | 44,510 | 4 |
+| 2024-01-19 | 44,511 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 292)  
 Sum: 315 (Ranked 378)  

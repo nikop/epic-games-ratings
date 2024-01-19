@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,127 |
+| Malpractice Assurance | 14.00% | ~1,128 |
 | Lost and Found | 9.00% | ~725 |
 | Autodidact | 8.00% | ~10,655 |
 | This Belongs in a Museum | 7.00% | ~9,323 |
@@ -46,14 +46,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,327 |
 | A Clear Conscience | 4.00% | ~5,327 |
 | Unshackled | 4.00% | ~5,327 |
-| Hope Rekindled | 3.00% | ~3,995 |
-| Predator | 3.00% | ~3,995 |
-| Deprogramming | 3.00% | ~3,995 |
-| Reverse Banditry | 3.00% | ~3,995 |
-| When You Want Something Done Right | 3.00% | ~3,995 |
-| Utopia | 3.00% | ~3,995 |
-| Hot Air | 3.00% | ~3,995 |
-| Road Trip | 3.00% | ~3,995 |
+| Hope Rekindled | 3.00% | ~3,996 |
+| Predator | 3.00% | ~3,996 |
+| Deprogramming | 3.00% | ~3,996 |
+| Reverse Banditry | 3.00% | ~3,996 |
+| When You Want Something Done Right | 3.00% | ~3,996 |
+| Utopia | 3.00% | ~3,996 |
+| Hot Air | 3.00% | ~3,996 |
+| Road Trip | 3.00% | ~3,996 |
 | This Looks Familiar | 2.00% | ~2,664 |
 | Ichthyophobic | 2.00% | ~2,664 |
 | No More Mouths to Feed | 2.00% | ~2,664 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,183 (Ranked 92)  
+Progressed: 133,185 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,183 | 5 |
+| 2024-01-19 | 133,185 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,750 (Ranked 58)  

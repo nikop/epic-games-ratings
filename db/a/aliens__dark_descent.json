@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 186,
+  "Ranking_EOS_NewPlayers": 185,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -579,7 +579,7 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6494,
+  "EOS_Progressed": 6495,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
@@ -10079,6 +10079,11 @@
       "Time": "2024-01-19T06:03:36.4577445+00:00",
       "NumProgressed": 6494,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T09:03:32.0683216+00:00",
+      "NumProgressed": 6495,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10122,7 +10127,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2922
+      "UsersEstimate": 2923
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10130,7 +10135,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2792
+      "UsersEstimate": 2793
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10138,7 +10143,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -10186,7 +10191,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10290,7 +10295,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2922
+      "UsersEstimate": 2923
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10322,7 +10327,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "ACH_MISSION_07",
@@ -10330,7 +10335,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "ACH_MISSION_08",
@@ -10386,7 +10391,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10394,7 +10399,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5000
+      "UsersEstimate": 5001
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10410,7 +10415,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10434,7 +10439,7 @@
       "Name": "The More The Merrier",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1883
+      "UsersEstimate": 1884
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10442,14 +10447,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 3117
+      "UsersEstimate": 3118
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6494,
+      "Progressed": 6495,
       "Completed": 3
     }
   ],
@@ -10457,8 +10462,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-19T08:04:14.93907+00:00",
+  "LastChanged_Achievements": "2024-01-19T09:03:32.0683213+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:01:20.1387187+00:00",
-  "LastUpdate_Achievements": "2024-01-19T08:04:14.9391792+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:00:09.2296678+00:00",
+  "LastUpdate_Achievements": "2024-01-19T09:03:32.0684514+00:00"
 }

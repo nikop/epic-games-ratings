@@ -1,15 +1,15 @@
 # The Walking Dead : The Definitive Series
 [Store](https://store.epicgames.com/en-US/p/walking-dead-definitive-series)  
 [View Rawdata](../../db/t/the_walking_dead___the_definitive_series.json)  
-Rating: 4.87 (Ranked 24)  
+Rating: 4.87 (Ranked 25)  
 Number of Ratings: 663  (23.09.2022)  
 ## Awards
-Max (Impact the Story): 608  (Ranked 210)  
-Sum: 948 (Ranked 284)  
+Max (Impact the Story): 610  (Ranked 210)  
+Sum: 950 (Ranked 284)  
 Diff (max vs sum): -74  
 | Award | Count |
 | ----- | ----- |
-| In this game, your choices Impact the Story | 608 |
+| In this game, your choices Impact the Story | 610 |
 | This game has Diverse Characters | 43 |
 | This game has Amazing Storytelling | 41 |
 | This game is Highly Recommended | 37 |
@@ -235,3 +235,4 @@ Diff (max vs sum): -74
 | 2024-01-14 | 4.87 | - | 602 | 940 |
 | 2024-01-15 | 4.87 | - | 605 | 943 |
 | 2024-01-17 | 4.87 | - | 608 | 948 |
+| 2024-01-19 | 4.87 | - | 610 | 950 |
