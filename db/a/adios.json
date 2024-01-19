@@ -3,8 +3,8 @@
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
   "Ranking_Rating": 1102,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 588,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 123,
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83879,
+  "EOS_Progressed": 83880,
   "EOS_Completed": 946,
-  "EOS_NewPlayers": 572,
+  "EOS_NewPlayers": 570,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30687,6 +30687,11 @@
       "Time": "2024-01-19T02:31:12.8753924+00:00",
       "NumProgressed": 83879,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-19T03:05:27.8382107+00:00",
+      "NumProgressed": 83880,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30730,7 +30735,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18453
+      "UsersEstimate": 18454
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -30826,7 +30831,7 @@
       "Name": "Nice Try",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14259
+      "UsersEstimate": 14260
     },
     {
       "ID": "Nothing Left to Say",
@@ -30897,7 +30902,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83879,
+      "Progressed": 83880,
       "Completed": 946
     }
   ],
@@ -30905,8 +30910,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:31:12.8753916+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:05:27.83821+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:27:27.3397024+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:31:12.8755857+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:01:43.4455875+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:05:27.8383653+00:00"
 }

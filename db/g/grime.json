@@ -1915,9 +1915,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 168833,
+  "EOS_Progressed": 168834,
   "EOS_Completed": 461,
-  "EOS_NewPlayers": 1099,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23620,6 +23620,11 @@
       "Time": "2024-01-19T02:32:35.0369533+00:00",
       "NumProgressed": 168833,
       "NumCompleted": 461
+    },
+    {
+      "Time": "2024-01-19T03:06:51.4045464+00:00",
+      "NumProgressed": 168834,
+      "NumCompleted": 461
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23688,7 +23693,7 @@
       "Name": "Breath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -23776,7 +23781,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -23808,7 +23813,7 @@
       "Name": "Feast",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1519
+      "UsersEstimate": 1520
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -23920,7 +23925,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "QUEST_CHILD",
@@ -23960,7 +23965,7 @@
       "Name": "Proportions",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 506
+      "UsersEstimate": 507
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -23999,21 +24004,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168416,
+      "Progressed": 168417,
       "Completed": 1267
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 168833,
+      "Progressed": 168834,
       "Completed": 461
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-18T13:07:11.4279492+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:32:35.0369527+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:06:51.404546+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:28:43.4918024+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:32:35.0370766+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:02:39.3564675+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:06:51.4046778+00:00"
 }

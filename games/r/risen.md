@@ -36,11 +36,11 @@ Rating: 4.58 (Ranked 474)
 | Peacekeeper | 13.00% | ~27 |
 | Showdown | 12.00% | ~24 |
 | Workaholic | 12.00% | ~24 |
+| Titan Lord | 10.00% | ~20 |
 | Freedom fighter | 9.00% | ~18 |
-| Titan Lord | 9.00% | ~18 |
 | Safecracker | 9.00% | ~18 |
 | Master thief | 9.00% | ~18 |
-| Expert | 7.00% | ~14 |
+| Expert | 8.00% | ~16 |
 | King of the handymen | 7.00% | ~14 |
 | Terror of the hens | 6.00% | ~12 |
 | The traveler | 5.00% | ~10 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8227,9 +8227,9 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 151892,
+  "EOS_Progressed": 151893,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1107,
+  "EOS_NewPlayers": 1102,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37267,6 +37267,11 @@
       "Time": "2024-01-19T02:35:41.6856821+00:00",
       "NumProgressed": 151892,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-19T03:09:59.6709596+00:00",
+      "NumProgressed": 151893,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 112,
@@ -37654,7 +37659,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10632
+      "UsersEstimate": 10633
     },
     {
       "ID": "expansion02",
@@ -37862,7 +37867,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10632
+      "UsersEstimate": 10633
     },
     {
       "ID": "level02",
@@ -38173,15 +38178,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151892,
+      "Progressed": 151893,
       "Completed": 359
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-19T02:29:53.2230377+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:35:41.6856816+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:09:59.6709593+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:29:53.2230381+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:35:41.6859137+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:03:47.0388198+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:09:59.6712353+00:00"
 }

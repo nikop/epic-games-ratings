@@ -6,8 +6,8 @@ Rating: 4.19 (Ranked 977)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,490 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,213 |
-| Loose Ends | 33.00% | ~27,383 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,214 |
+| Loose Ends | 33.00% | ~27,384 |
 | To the Victor Go the Spoils | 27.00% | ~22,405 |
 | Knighthood | 26.00% | ~21,575 |
 | Get ReQ'd | 24.00% | ~19,915 |
@@ -28,8 +28,8 @@ Rating: 4.19 (Ranked 977)
 | Rock and a Hard Place | 14.00% | ~11,617 |
 | Cooldown | 14.00% | ~11,617 |
 | Voiceless | 14.00% | ~11,617 |
-| Shock Til They Drop | 13.00% | ~10,787 |
-| Seeking Asylum | 13.00% | ~10,787 |
+| Shock Til They Drop | 13.00% | ~10,788 |
+| Seeking Asylum | 13.00% | ~10,788 |
 | End of an Era | 12.00% | ~9,958 |
 | Not On My Watch | 12.00% | ~9,958 |
 | Bulldozed | 12.00% | ~9,958 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 977)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,980 (Ranked 110)  
+Progressed: 82,981 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
-| 2024-01-19 | 82,980 | 135 |
+| 2024-01-19 | 82,981 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,223  (Ranked 102)  
 Sum: 5,508 (Ranked 144)  

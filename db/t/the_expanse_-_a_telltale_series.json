@@ -3,11 +3,11 @@
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
   "Ranking_Rating": 551,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 588,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19150,
+  "EOS_Progressed": 19151,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 273,
+  "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17769,6 +17769,11 @@
       "Time": "2024-01-19T02:30:20.8501903+00:00",
       "NumProgressed": 19150,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-19T03:04:36.4838407+00:00",
+      "NumProgressed": 19151,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17813,7 +17818,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3638
+      "UsersEstimate": 3639
     },
     {
       "ID": "14",
@@ -17965,7 +17970,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "4",
@@ -17989,7 +17994,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2872
+      "UsersEstimate": 2873
     },
     {
       "ID": "7",
@@ -18037,7 +18042,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 561
+      "UsersEstimate": 562
     },
     {
       "ID": "34",
@@ -18060,13 +18065,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19150,
+      "Progressed": 19151,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5104,
+      "Progressed": 5105,
       "Completed": 1347
     }
   ],
@@ -18074,8 +18079,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:30:20.8501899+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:04:36.4838402+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:28:42.2830784+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:30:20.8503274+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:02:38.196717+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:04:36.4840383+00:00"
 }

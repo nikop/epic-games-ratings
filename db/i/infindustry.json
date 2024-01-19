@@ -2,7 +2,7 @@
   "ID": "3e8745caaecf4adb9e358de5df7b8a41",
   "Name": "Infindustry",
   "ProductSlug": "infindustry-cccc40",
-  "Ranking_EOS_Progress": 480,
+  "Ranking_EOS_Progress": 481,
   "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 488,
   "Ranking_EOS_NewCompleters": 153,
@@ -811,8 +811,8 @@
   ],
   "FirstSeen": "2023-05-14T11:57:16.2628162+00:00",
   "FirstSeenAchievements": "2023-04-26T07:04:01.8730756+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:30:25.4137948+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:04:41.1146559+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:51.0423583+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:29:32.0629613+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:30:25.4138046+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:03:26.3506473+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:04:41.1146706+00:00"
 }

@@ -3,8 +3,8 @@
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
   "Ranking_Rating": 567,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 588,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 210,
   "Ranking_EOS_NewPlayers": 158,
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16540,
+  "EOS_Progressed": 16541,
   "EOS_Completed": 105,
-  "EOS_NewPlayers": 275,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.63,
   "EosHistory": [
@@ -18524,6 +18524,11 @@
       "Time": "2024-01-19T02:36:47.2401051+00:00",
       "NumProgressed": 16540,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-19T03:11:05.8494074+00:00",
+      "NumProgressed": 16541,
+      "NumCompleted": 105
     }
   ],
   "TotalAchievements": 34,
@@ -18639,7 +18644,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7112
+      "UsersEstimate": 7113
     },
     {
       "ID": "ACH15",
@@ -18703,7 +18708,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3473
+      "UsersEstimate": 3474
     },
     {
       "ID": "ACH23",
@@ -18719,7 +18724,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "ACH25",
@@ -18727,7 +18732,7 @@
       "Name": "Chauffeur",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "ACH26",
@@ -18735,7 +18740,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2646
+      "UsersEstimate": 2647
     },
     {
       "ID": "ACH27",
@@ -18806,7 +18811,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16540,
+      "Progressed": 16541,
       "Completed": 105
     }
   ],
@@ -18814,8 +18819,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:36:47.2401045+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:11:05.8494069+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:25:28.0454158+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:36:47.2401952+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:59:44.0328936+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:11:05.8495029+00:00"
 }

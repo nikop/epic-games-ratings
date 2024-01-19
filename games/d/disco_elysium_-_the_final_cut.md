@@ -6,24 +6,24 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~39,083 |
-| Biggest Communism Builder | 23.00% | ~32,104 |
+| Goodest Of The Good Cops | 28.00% | ~39,084 |
+| Biggest Communism Builder | 23.00% | ~32,105 |
 | The World's Most Laughable Centrist | 20.00% | ~27,917 |
 | Il Coppo Del'Arte! | 18.00% | ~25,125 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,333 |
-| Hyperstellar Law Official | 15.00% | ~20,937 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,334 |
+| Hyperstellar Law Official | 15.00% | ~20,938 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~19,542 |
 | Gurdi-Ball Is Lit | 14.00% | ~19,542 |
 | Literally The Sorriest Cop On Earth | 13.00% | ~18,146 |
 | Truly Rabid *Traditionalist* | 11.00% | ~15,354 |
-| Unbelievably Boring **** | 9.00% | ~12,562 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,562 |
+| Unbelievably Boring **** | 9.00% | ~12,563 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,563 |
 | Enemy Of The Physical Realm | 8.00% | ~11,167 |
 | Hardie's Heroes | 6.00% | ~8,375 |
 | The Lawbringer | 4.00% | ~5,583 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,583 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,187 |
-| Bother Kim After Hours | 3.00% | ~4,187 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,188 |
+| Bother Kim After Hours | 3.00% | ~4,188 |
 | Baddest Of the Bad Cops | 2.00% | ~2,792 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,792 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,792 |
@@ -35,7 +35,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Baddest Brow in Town | 0.80% | ~1,117 |
 | Committee of la Responsabilité | 0.80% | ~1,117 |
 | Networthy Individual | 0.70% | ~977 |
-| Leopard Mindset | 0.60% | ~837 |
+| Leopard Mindset | 0.60% | ~838 |
 | Modus: Mullen | 0.30% | ~419 |
 | Palerunner | 0.30% | ~419 |
 | Cause a ****storm | 0.20% | ~279 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~140 |
 | What body? | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,583 (Ranked 91)  
+Progressed: 139,585 (Ranked 91)  
 Completed: 29 (0.02%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 29 (0.02%) (Ranked 369)
 | 2024-01-16 | 139,425 | 29 |
 | 2024-01-17 | 139,506 | 29 |
 | 2024-01-18 | 139,576 | 29 |
-| 2024-01-19 | 139,583 | 29 |
+| 2024-01-19 | 139,585 | 29 |
 ## Awards
 Max (Character Customization): 769  (Ranked 192)  
 Sum: 1,174 (Ranked 266)  

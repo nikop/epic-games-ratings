@@ -3,8 +3,8 @@
   "Name": "EARTHLOCK",
   "ProductSlug": "earthlock-e7d979",
   "Ranking_Rating": 991,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 588,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 113,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 76,
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75914,
+  "EOS_Progressed": 75916,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1300,
+  "EOS_NewPlayers": 1299,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7827,6 +7827,11 @@
       "Time": "2024-01-19T02:35:09.0988077+00:00",
       "NumProgressed": 75914,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-19T03:09:26.6161877+00:00",
+      "NumProgressed": 75916,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7839,7 +7844,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28088
+      "UsersEstimate": 28089
     },
     {
       "ID": "Achievement_10",
@@ -8110,7 +8115,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75914,
+      "Progressed": 75916,
       "Completed": 128
     }
   ],
@@ -8118,8 +8123,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:35:09.0988075+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:09:26.6161875+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:27:07.1923825+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:35:09.0988536+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:01:23.6186211+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:09:26.6162385+00:00"
 }

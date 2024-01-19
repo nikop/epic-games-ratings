@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 2.00% | ~5,092 |
 | The Ring of Regeneration | 1.00% | ~2,546 |
 | Are Ya Chicken? | 1.00% | ~2,546 |
-| Were-verpowered | 0.90% | ~2,291 |
+| Were-verpowered | 0.90% | ~2,292 |
 | Seeking Allies | 0.80% | ~2,037 |
 | Mad Cow Disease | 0.80% | ~2,037 |
 | Friendly Imps | 0.80% | ~2,037 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,609 (Ranked 71)  
+Progressed: 254,612 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,609 | 2,624 |
+| 2024-01-19 | 254,612 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
 Sum: 33,552 (Ranked 41)  

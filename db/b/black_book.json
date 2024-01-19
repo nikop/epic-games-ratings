@@ -3,8 +3,8 @@
   "Name": "Black Book",
   "ProductSlug": "black-book",
   "Ranking_Rating": 323,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 588,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 312,
   "Ranking_EOS_NewPlayers": 79,
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 67775,
+  "EOS_Progressed": 67777,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1287,
+  "EOS_NewPlayers": 1286,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17411,6 +17411,11 @@
       "Time": "2024-01-19T02:31:16.065835+00:00",
       "NumProgressed": 67775,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-19T03:05:30.9913248+00:00",
+      "NumProgressed": 67777,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17447,7 +17452,7 @@
       "Name": "Aspen Tree",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9488
+      "UsersEstimate": 9489
     },
     {
       "ID": "BAD_END",
@@ -17535,7 +17540,7 @@
       "Name": "Student",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 14910
+      "UsersEstimate": 14911
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -17551,7 +17556,7 @@
       "Name": "Encyclopedist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "FERN",
@@ -17599,7 +17604,7 @@
       "Name": "Healer",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 9488
+      "UsersEstimate": 9489
     },
     {
       "ID": "HERBS_2",
@@ -17615,7 +17620,7 @@
       "Name": "Witch",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "INITIATION",
@@ -17631,7 +17636,7 @@
       "Name": "Vorsa",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "MERMAID_FREE",
@@ -17687,7 +17692,7 @@
       "Name": "Old Spirits",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "ONOMASTIKON_ITEMS",
@@ -17727,7 +17732,7 @@
       "Name": "Sinner",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "SUSANIN",
@@ -17743,7 +17748,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10166
+      "UsersEstimate": 10167
     },
     {
       "ID": "TALES_2",
@@ -17759,7 +17764,7 @@
       "Name": "Folklorist",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "TRAVELLER",
@@ -17815,22 +17820,22 @@
       "Name": "Keeper of Knowledge",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     }
   ],
   "AchievementSets": [
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 67775,
+      "Progressed": 67777,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:31:16.0658346+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:05:30.9913245+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:49.3995716+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:24:50.9960148+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:31:16.065988+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:59:06.0377032+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:05:30.9914412+00:00"
 }

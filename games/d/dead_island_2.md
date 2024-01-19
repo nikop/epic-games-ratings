@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,595 |
-| Break A Leg | 9.00% | ~72,536 |
-| Hotel California | 9.00% | ~72,536 |
-| Coup de Grâce | 8.00% | ~64,476 |
-| Hazardous Materials | 8.00% | ~64,476 |
+| Welcome To Hell-A | 10.00% | ~80,596 |
+| Break A Leg | 9.00% | ~72,537 |
+| Hotel California | 9.00% | ~72,537 |
+| Coup de Grâce | 8.00% | ~64,477 |
+| Hazardous Materials | 8.00% | ~64,477 |
 | Git Gutte! | 7.00% | ~56,417 |
 | Personal Assistant Personally Assisted | 7.00% | ~56,417 |
-| Dr. Reed, I Presume? | 6.00% | ~48,357 |
-| Bookworm | 6.00% | ~48,357 |
-| Friends Like These | 6.00% | ~48,357 |
-| Apex Predator | 6.00% | ~48,357 |
-| Stacking the Deck | 6.00% | ~48,357 |
+| Dr. Reed, I Presume? | 6.00% | ~48,358 |
+| Bookworm | 6.00% | ~48,358 |
+| Friends Like These | 6.00% | ~48,358 |
+| Apex Predator | 6.00% | ~48,358 |
+| Stacking the Deck | 6.00% | ~48,358 |
 | Anger Management | 5.00% | ~40,298 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,298 |
 | But Doctor, I am Butcho | 5.00% | ~40,298 |
 | Can't Handle the Truth | 5.00% | ~40,298 |
 | This is My Weapon | 5.00% | ~40,298 |
-| Making Your Mark | 4.00% | ~32,238 |
-| Perks of the Job | 4.00% | ~32,238 |
-| Slayer Squad | 4.00% | ~32,238 |
-| Like Riding a Bike | 4.00% | ~32,238 |
-| Zombologist | 4.00% | ~32,238 |
-| Ooh, Shiny! | 4.00% | ~32,238 |
-| A Patton Emerges | 4.00% | ~32,238 |
-| I Am the Resurrection | 4.00% | ~32,238 |
-| Our True Nature | 4.00% | ~32,238 |
+| Making Your Mark | 4.00% | ~32,239 |
+| Perks of the Job | 4.00% | ~32,239 |
+| Slayer Squad | 4.00% | ~32,239 |
+| Like Riding a Bike | 4.00% | ~32,239 |
+| Zombologist | 4.00% | ~32,239 |
+| Ooh, Shiny! | 4.00% | ~32,239 |
+| A Patton Emerges | 4.00% | ~32,239 |
+| I Am the Resurrection | 4.00% | ~32,239 |
+| Our True Nature | 4.00% | ~32,239 |
 | Whatever It Takes | 4.00% | ~5,260 |
 | Pork Chopped | 4.00% | ~5,260 |
 | Humanity Distilled | 3.00% | ~24,179 |
@@ -53,11 +53,11 @@ Rating: 4.54 (Ranked 551)
 | Top That, Tisha! | 0.60% | ~789 |
 | Survival Skills | 0.50% | ~4,030 |
 | Donk! | 0.30% | ~2,418 |
-| Lawn and Order | 0.30% | ~394 |
+| Lawn and Order | 0.30% | ~395 |
 | Bucket List | 0.10% | ~806 |
-| Wilhelm | 0.10% | ~131 |
+| Wilhelm | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,952 (Ranked 23)  
+Progressed: 805,964 (Ranked 23)  
 Completed: 2,599 (0.32%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,10 +331,10 @@ Completed: 2,599 (0.32%) (Ranked 258)
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
 | 2024-01-18 | 805,908 | 2,599 |
-| 2024-01-19 | 805,952 | 2,599 |
+| 2024-01-19 | 805,964 | 2,599 |
 ## Awards
 Max (Great Boss Battles): 10,604  (Ranked 40)  
-Sum: 16,279 (Ranked 71)  
+Sum: 16,284 (Ranked 71)  
 Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
@@ -342,8 +342,8 @@ Diff (max vs sum): -31
 | This game is Great for Beginners | 827 |
 | This game has Diverse Characters | 781 |
 | This game has Quickly Understood Controls | 741 |
+| This game has Amazing Storytelling | 694 |
 | This game is Relaxing | 693 |
-| This game has Amazing Storytelling | 689 |
 | This game is Highly Recommended | 675 |
 | This game is Extremely Fun | 654 |
 | This game has Amazing Characters | 615 |
@@ -623,3 +623,4 @@ Diff (max vs sum): -31
 | 2024-01-16 | 4.54 | 10,503 | 16,101 |
 | 2024-01-17 | 4.54 | 10,564 | 16,204 |
 | 2024-01-18 | 4.54 | 10,604 | 16,279 |
+| 2024-01-19 | 4.54 | 10,604 | 16,284 |

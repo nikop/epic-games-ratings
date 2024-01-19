@@ -1045,9 +1045,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4477,
+  "EOS_Progressed": 4478,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 100,
+  "EOS_NewPlayers": 101,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8910,6 +8910,11 @@
       "Time": "2024-01-19T00:09:35.5340638+00:00",
       "NumProgressed": 4477,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T03:09:22.4502888+00:00",
+      "NumProgressed": 4478,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8930,7 +8935,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2507
+      "UsersEstimate": 2508
     },
     {
       "ID": "achievement_11",
@@ -8962,7 +8967,7 @@
       "Name": "Dealmaker",
       "Percentage": 38,
       "XP": 60,
-      "UsersEstimate": 1701
+      "UsersEstimate": 1702
     },
     {
       "ID": "achievement_15",
@@ -9089,7 +9094,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4477,
+      "Progressed": 4478,
       "Completed": 0
     }
   ],
@@ -9097,8 +9102,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-18T17:02:25.388699+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:35:04.994224+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:09:22.4502883+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:28:52.3192029+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:35:04.9942795+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:02:48.0446873+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:09:22.4503457+00:00"
 }

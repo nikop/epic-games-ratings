@@ -5363,9 +5363,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82980,
+  "EOS_Progressed": 82981,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 455,
+  "EOS_NewPlayers": 453,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30743,6 +30743,11 @@
       "Time": "2024-01-19T01:55:18.8873466+00:00",
       "NumProgressed": 82980,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-19T03:07:26.1394019+00:00",
+      "NumProgressed": 82981,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30962,7 +30967,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -31058,7 +31063,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28213
+      "UsersEstimate": 28214
     },
     {
       "ID": "HARLEY_2",
@@ -31146,7 +31151,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27383
+      "UsersEstimate": 27384
     },
     {
       "ID": "MYSTERY_02",
@@ -31194,7 +31199,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10787
+      "UsersEstimate": 10788
     },
     {
       "ID": "MYSTERY_08",
@@ -31241,13 +31246,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82980,
+      "Progressed": 82981,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53260,
+      "Progressed": 53261,
       "Completed": 2680
     }
   ],
@@ -31255,8 +31260,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-18T21:57:46.9193765+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:33:09.067352+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:07:26.1394014+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:23:34.67319+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:33:09.0675028+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:57:50.8883649+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:07:26.1395609+00:00"
 }

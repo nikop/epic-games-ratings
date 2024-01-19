@@ -6,24 +6,24 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 74.00% | ~320,979 |
-| Full garage | 61.00% | ~264,591 |
-| To the eyeballs! | 51.00% | ~221,215 |
-| Individual delivery | 47.00% | ~203,865 |
-| Non-Stop | 45.00% | ~195,190 |
-| Juggler | 36.00% | ~156,152 |
-| Forgot something | 35.00% | ~151,814 |
-| Close call! | 31.00% | ~134,464 |
-| Get out my way | 28.00% | ~121,451 |
-| Common cause | 26.00% | ~112,776 |
-| Critical care | 26.00% | ~112,776 |
+| Dealmaker | 74.00% | ~320,980 |
+| Full garage | 61.00% | ~264,592 |
+| To the eyeballs! | 51.00% | ~221,216 |
+| Individual delivery | 47.00% | ~203,866 |
+| Non-Stop | 45.00% | ~195,191 |
+| Juggler | 36.00% | ~156,153 |
+| Forgot something | 35.00% | ~151,815 |
+| Close call! | 31.00% | ~134,465 |
+| Get out my way | 28.00% | ~121,452 |
+| Common cause | 26.00% | ~112,777 |
+| Critical care | 26.00% | ~112,777 |
 | Mega-railroad | 23.00% | ~99,764 |
 | Upgrade complete | 23.00% | ~99,764 |
 | Just in time! | 18.00% | ~78,076 |
-| Builder | 17.00% | ~73,738 |
-| Long Haul | 17.00% | ~73,626 |
+| Builder | 17.00% | ~73,739 |
+| Long Haul | 17.00% | ~73,627 |
 | Steam Age | 16.00% | ~69,401 |
-| Multilevel road | 15.00% | ~65,063 |
+| Multilevel road | 15.00% | ~65,064 |
 | Bridgemania | 14.00% | ~60,726 |
 | Need to think | 14.00% | ~60,726 |
 | The Tortoise | 12.00% | ~52,051 |
@@ -33,7 +33,7 @@ Number of Ratings: 87  (23.09.2022)
 | Relocation | 10.00% | ~43,376 |
 | Industrial Age | 9.00% | ~39,038 |
 | Just One More Valley | 9.00% | ~38,979 |
-| Prick of conscience | 8.00% | ~34,700 |
+| Prick of conscience | 8.00% | ~34,701 |
 | Missed it! | 7.00% | ~30,363 |
 | At the last moment! | 6.00% | ~26,025 |
 | Overseer | 6.00% | ~26,025 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~433 |
 | World Zapper | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,755 (Ranked 46)  
+Progressed: 433,757 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 24 (0.01%) (Ranked 379)
 | 2024-01-16 | 433,332 | 24 |
 | 2024-01-17 | 433,553 | 24 |
 | 2024-01-18 | 433,732 | 24 |
-| 2024-01-19 | 433,755 | 24 |
+| 2024-01-19 | 433,757 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,060  (Ranked 159)  
 Sum: 2,195 (Ranked 215)  

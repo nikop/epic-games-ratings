@@ -2,13 +2,13 @@
   "ID": "277e364d24ec43069f4ee3c4414d5096",
   "Name": "Guacamelee! 2",
   "ProductSlug": "guacamelee-2-ac4977",
-  "Ranking_Rating": 402,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Rating": 401,
+  "Ranking_Popularity": 588,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120371,
+  "EOS_Progressed": 120374,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 612,
+  "EOS_NewPlayers": 613,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25352,6 +25352,11 @@
       "Time": "2024-01-19T02:37:02.1136195+00:00",
       "NumProgressed": 120371,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-19T03:11:19.971382+00:00",
+      "NumProgressed": 120374,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -25371,7 +25376,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92686
+      "UsersEstimate": 92688
     },
     {
       "ID": "EAwards_10",
@@ -25387,7 +25392,7 @@
       "Name": "I Was Told There\u0027d Be Candy",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 32500
+      "UsersEstimate": 32501
     },
     {
       "ID": "EAwards_12",
@@ -25435,7 +25440,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44537
+      "UsersEstimate": 44538
     },
     {
       "ID": "EAwards_18",
@@ -25459,7 +25464,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 58982
+      "UsersEstimate": 58983
     },
     {
       "ID": "EAwards_20",
@@ -25507,7 +25512,7 @@
       "Name": "y cant guacamelee crawl",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 24074
+      "UsersEstimate": 24075
     },
     {
       "ID": "EAwards_26",
@@ -25547,7 +25552,7 @@
       "Name": "Show\u0027s Over, Go Home",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 24074
+      "UsersEstimate": 24075
     },
     {
       "ID": "EAwards_30",
@@ -25595,7 +25600,7 @@
       "Name": "Nacho Libre",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 10833
+      "UsersEstimate": 10834
     },
     {
       "ID": "EAwards_36",
@@ -25635,7 +25640,7 @@
       "Name": "Severed",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 15648
+      "UsersEstimate": 15649
     },
     {
       "ID": "EAwards_40",
@@ -25723,7 +25728,7 @@
       "Name": "Severed 2",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 10833
+      "UsersEstimate": 10834
     },
     {
       "ID": "EAwards_7",
@@ -25754,7 +25759,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120371,
+      "Progressed": 120374,
       "Completed": 61
     }
   ],
@@ -25762,8 +25767,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:37:02.1136191+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:11:19.9713817+00:00",
   "LastUpdate_AppInfo": "2024-01-12T10:57:07.3126662+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:26:32.1902889+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:37:02.1137526+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:00:48.9359745+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:11:19.9715547+00:00"
 }

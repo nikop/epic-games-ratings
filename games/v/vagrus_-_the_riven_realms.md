@@ -31,13 +31,13 @@
 | Despised | 4.00% | ~12 |
 | Been There | 4.00% | ~12 |
 | Spiritual Journey | 4.00% | ~12 |
+| Supercargo | 3.00% | ~9 |
 | Xevarian Gambit | 3.00% | ~9 |
 | The Voice of Hereafter | 3.00% | ~9 |
 | A Terrible Will | 3.00% | ~9 |
 | Inquisitions of Discord | 3.00% | ~9 |
 | Unseen Patterns | 3.00% | ~9 |
 | Bounty Hunter | 2.00% | ~6 |
-| Supercargo | 2.00% | ~6 |
 | Huntress Unbound | 2.00% | ~6 |
 | Business As Usual | 2.00% | ~6 |
 | Legacy of a Mercenary | 2.00% | ~6 |

@@ -3042,9 +3042,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544727,
+  "EOS_Progressed": 544728,
   "EOS_Completed": 1689,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -33447,6 +33447,11 @@
       "Time": "2024-01-19T02:32:27.4388289+00:00",
       "NumProgressed": 544727,
       "NumCompleted": 1689
+    },
+    {
+      "Time": "2024-01-19T03:06:43.8205099+00:00",
+      "NumProgressed": 544728,
+      "NumCompleted": 1689
     }
   ],
   "TotalAchievements": 37,
@@ -33474,7 +33479,7 @@
       "Name": "Devara\u0027s Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 168865
+      "UsersEstimate": 168866
     },
     {
       "ID": "DEVOTED",
@@ -33514,7 +33519,7 @@
       "Name": "Find Sanctuary",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 452123
+      "UsersEstimate": 452124
     },
     {
       "ID": "HONED",
@@ -33610,7 +33615,7 @@
       "Name": "The Dome",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 49025
+      "UsersEstimate": 49026
     },
     {
       "ID": "THE_FOREST",
@@ -33682,7 +33687,7 @@
       "Name": "The Red Hall",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 49025
+      "UsersEstimate": 49026
     },
     {
       "ID": "THE_RUINS",
@@ -33698,7 +33703,7 @@
       "Name": "The Sacrifice",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 49025
+      "UsersEstimate": 49026
     },
     {
       "ID": "THE_STONE_ROOTS",
@@ -33714,7 +33719,7 @@
       "Name": "The Three",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 348625
+      "UsersEstimate": 348626
     },
     {
       "ID": "THE_UNSPEAKABLE_DEEP",
@@ -33753,15 +33758,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544727,
+      "Progressed": 544728,
       "Completed": 1689
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-17T19:00:06.7804227+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:32:27.4388285+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:06:43.8205094+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.9396789+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:28:44.785156+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:32:27.4389806+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:02:40.6636764+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:06:43.8206916+00:00"
 }

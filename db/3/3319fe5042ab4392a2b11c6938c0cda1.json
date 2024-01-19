@@ -4,7 +4,7 @@
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 296,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 182,
+  "EOS_Progressed": 183,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -814,6 +814,11 @@
       "Time": "2024-01-18T21:06:21.6309787+00:00",
       "NumProgressed": 182,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T03:06:19.4716268+00:00",
+      "NumProgressed": 183,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -984,17 +989,17 @@
       "ID": "NEW_ACHIEVEMENT_1_27",
       "SetID": "ae95dh3",
       "Name": "The Drop",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 82
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -1002,7 +1007,7 @@
       "Name": "Dust to Dust",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1121,14 +1126,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 182,
+      "Progressed": 183,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:32:03.6196742+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:06:19.4716266+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:24:02.3918445+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:32:03.6196973+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:58:18.1680794+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:06:19.471652+00:00"
 }

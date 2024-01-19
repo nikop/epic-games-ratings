@@ -5,26 +5,26 @@ Rating: 4.43 (Ranked 731)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~316,823 |
-| Delving Onward | 69.00% | ~266,595 |
-| Miner's Helper | 59.00% | ~227,958 |
-| Suit Up | 54.00% | ~208,639 |
-| To the Mountain's Roots | 49.00% | ~189,321 |
-| Remains To Be Seen | 35.00% | ~135,229 |
-| Covered Head to Toe | 33.00% | ~127,502 |
-| Line of Azog, Ended | 32.00% | ~123,638 |
-| Risk a Little Real Light | 31.00% | ~119,774 |
-| Caradhras The Cruel | 18.00% | ~69,546 |
-| A Memory of this Place | 18.00% | ~69,546 |
-| False King, Deposed | 14.00% | ~54,092 |
-| Baruk Khazâd! | 13.00% | ~50,228 |
-| Battering Ram | 13.00% | ~50,228 |
-| Shadow's Bane | 10.00% | ~38,637 |
-| Westgate Weaponcraft | 9.00% | ~34,773 |
-| Deeps Weaponcraft | 8.00% | ~30,910 |
-| Darkness Is Passing | 7.00% | ~27,046 |
-| Decked Out | 5.00% | ~19,318 |
-| Guarded from Despair | 5.00% | ~19,318 |
+| Speak Friend | 82.00% | ~316,834 |
+| Delving Onward | 69.00% | ~266,604 |
+| Miner's Helper | 59.00% | ~227,966 |
+| Suit Up | 54.00% | ~208,647 |
+| To the Mountain's Roots | 49.00% | ~189,328 |
+| Remains To Be Seen | 35.00% | ~135,234 |
+| Covered Head to Toe | 33.00% | ~127,506 |
+| Line of Azog, Ended | 32.00% | ~123,643 |
+| Risk a Little Real Light | 31.00% | ~119,779 |
+| Caradhras The Cruel | 18.00% | ~69,549 |
+| A Memory of this Place | 18.00% | ~69,549 |
+| False King, Deposed | 14.00% | ~54,094 |
+| Baruk Khazâd! | 13.00% | ~50,230 |
+| Battering Ram | 13.00% | ~50,230 |
+| Shadow's Bane | 10.00% | ~38,638 |
+| Westgate Weaponcraft | 9.00% | ~34,774 |
+| Deeps Weaponcraft | 8.00% | ~30,911 |
+| Darkness Is Passing | 7.00% | ~27,047 |
+| Decked Out | 5.00% | ~19,319 |
+| Guarded from Despair | 5.00% | ~19,319 |
 | Master of All Trades | 4.00% | ~15,455 |
 | Eregion Weaponcraft | 3.00% | ~11,591 |
 | True-silver | 3.00% | ~11,591 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 731)
 | Shielded | 1.00% | ~3,864 |
 | We're Gonna Need More Mugs | 0.20% | ~773 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,369 (Ranked 54)  
+Progressed: 386,383 (Ranked 54)  
 Completed: 369 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 369 (0.10%) (Ranked 317)
 | 2024-01-16 | 385,383 | 356 |
 | 2024-01-17 | 385,849 | 363 |
 | 2024-01-18 | 386,311 | 369 |
-| 2024-01-19 | 386,369 | 369 |
+| 2024-01-19 | 386,383 | 369 |
 ## Awards
 Max (Great for Beginners): 964  (Ranked 169)  
 Sum: 5,552 (Ranked 143)  

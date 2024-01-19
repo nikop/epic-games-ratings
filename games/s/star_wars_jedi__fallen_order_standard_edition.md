@@ -5,28 +5,28 @@ Rating: 4.68 (Ranked 264)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Mantis | 100.00% | ~35,847 |
-| A Long Time Ago | 91.00% | ~32,621 |
-| Sabersmith | 79.00% | ~28,319 |
-| The Obstacle is the Way | 75.00% | ~26,885 |
-| Back At You | 70.00% | ~25,093 |
-| Happy Go Wookiee | 66.00% | ~23,659 |
+| The Mantis | 100.00% | ~35,848 |
+| A Long Time Ago | 91.00% | ~32,622 |
+| Sabersmith | 79.00% | ~28,320 |
+| The Obstacle is the Way | 75.00% | ~26,886 |
+| Back At You | 70.00% | ~25,094 |
+| Happy Go Wookiee | 66.00% | ~23,660 |
 | Everything is Connected | 57.00% | ~20,433 |
-| Her Name Was Masana Tide | 52.00% | ~18,640 |
+| Her Name Was Masana Tide | 52.00% | ~18,641 |
 | Bank Shot | 51.00% | ~18,282 |
 | Perfect Timing | 50.00% | ~17,924 |
 | Gorgara Falls | 48.00% | ~17,207 |
 | The Full Glow-Up | 48.00% | ~17,207 |
-| For A More Civilized Age | 47.00% | ~16,848 |
-| I Knew He Was No Good | 45.00% | ~16,131 |
+| For A More Civilized Age | 47.00% | ~16,849 |
+| I Knew He Was No Good | 45.00% | ~16,132 |
 | The Holocron Awaits | 44.00% | ~15,773 |
 | Trust Only In The Force | 42.00% | ~15,056 |
-| Look Out Below | 41.00% | ~14,697 |
-| Scum and Villainy | 41.00% | ~14,697 |
-| Don't Mess with BD-1 | 39.00% | ~13,980 |
+| Look Out Below | 41.00% | ~14,698 |
+| Scum and Villainy | 41.00% | ~14,698 |
+| Don't Mess with BD-1 | 39.00% | ~13,981 |
 | Blade Master | 36.00% | ~12,905 |
 | Full House | 34.00% | ~12,188 |
-| Legendary Beasts | 20.00% | ~7,169 |
+| Legendary Beasts | 20.00% | ~7,170 |
 | Echo Location | 19.00% | ~6,811 |
 | Visiting Alderaan Places | 16.00% | ~5,736 |
 | Triple Take | 13.00% | ~4,660 |
@@ -45,7 +45,7 @@ Rating: 4.68 (Ranked 264)
 | What Goes Around... | 2.00% | ~717 |
 | Not So Fast | 1.00% | ~358 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,847 (Ranked 137)  
+Progressed: 35,848 (Ranked 137)  
 Completed: 346 (0.97%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 346 (0.97%) (Ranked 183)
 | 2024-01-16 | 35,502 | 344 |
 | 2024-01-17 | 35,671 | 344 |
 | 2024-01-18 | 35,825 | 346 |
-| 2024-01-19 | 35,847 | 346 |
+| 2024-01-19 | 35,848 | 346 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

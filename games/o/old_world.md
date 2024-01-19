@@ -131,6 +131,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.60% | ~102 |
 | Revelation | 0.60% | ~102 |
 | Kushite Cavalry | 0.60% | ~102 |
+| All Nations | 0.60% | ~102 |
 | Royal Library | 0.60% | ~102 |
 | Yazilikaya | 0.60% | ~102 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
@@ -140,7 +141,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
 | Turreted Elephant | 0.50% | ~85 |
-| All Nations | 0.50% | ~85 |
 | Deposed Tribe | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,982 (Ranked 169)  
+Progressed: 16,983 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 16,982 | 5 |
+| 2024-01-19 | 16,983 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

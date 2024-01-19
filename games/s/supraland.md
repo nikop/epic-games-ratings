@@ -1,32 +1,32 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 402)  
+Rating: 4.61 (Ranked 401)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~733,337 |
-| The Blues | 85.00% | ~629,632 |
-| Fast | 66.00% | ~488,891 |
-| Healthbar | 55.00% | ~407,409 |
-| Force Cube | 53.00% | ~392,594 |
-| Double Jump | 48.00% | ~355,557 |
+| Out of bed | 99.00% | ~733,338 |
+| The Blues | 85.00% | ~629,633 |
+| Fast | 66.00% | ~488,892 |
+| Healthbar | 55.00% | ~407,410 |
+| Force Cube | 53.00% | ~392,595 |
+| Double Jump | 48.00% | ~355,558 |
 | Regeneration | 47.00% | ~348,150 |
 | Triple Jump | 43.00% | ~318,520 |
-| Climb the hill | 42.00% | ~311,112 |
-| Through the fire pipe | 39.00% | ~288,890 |
+| Climb the hill | 42.00% | ~311,113 |
+| Through the fire pipe | 39.00% | ~288,891 |
 | MacGuffin | 38.00% | ~281,483 |
-| Just once | 37.00% | ~274,075 |
-| Armor | 30.00% | ~222,223 |
-| True holy spirit | 28.00% | ~207,408 |
+| Just once | 37.00% | ~274,076 |
+| Armor | 30.00% | ~222,224 |
+| True holy spirit | 28.00% | ~207,409 |
 | That's how electronics work obviously | 27.00% | ~200,001 |
 | Force Cube Catapult | 25.00% | ~185,186 |
 | Holy Sword | 23.00% | ~170,371 |
 | Telefrag | 23.00% | ~170,371 |
 | Freed from prison | 22.00% | ~162,964 |
 | Stomp | 21.00% | ~155,556 |
-| Double Health | 19.00% | ~140,741 |
+| Double Health | 19.00% | ~140,742 |
 | Buckle | 18.00% | ~133,334 |
 | Green Keycard | 18.00% | ~133,334 |
 | Rattle Hag | 16.00% | ~118,519 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,744 (Ranked 27)  
+Progressed: 740,745 (Ranked 27)  
 Completed: 783 (0.11%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -379,7 +379,7 @@ Completed: 783 (0.11%) (Ranked 312)
 | 2024-01-16 | 740,521 | 782 |
 | 2024-01-17 | 740,619 | 783 |
 | 2024-01-18 | 740,733 | 783 |
-| 2024-01-19 | 740,744 | 783 |
+| 2024-01-19 | 740,745 | 783 |
 ## Awards
 Max (Challenging Puzzles): 7,781  (Ranked 55)  
 Sum: 10,167 (Ranked 95)  

@@ -17,13 +17,13 @@ Rating: 4.74 (Ranked 167)
 | Heroes’ Gorge | 65.00% | ~504 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~489 |
 | Master of Magic | 62.00% | ~481 |
-| The Ascent | 60.00% | ~466 |
-| It's Warm and Cozy at Home | 60.00% | ~466 |
+| The Ascent | 61.00% | ~473 |
+| It's Warm and Cozy at Home | 61.00% | ~473 |
 | Magic Accidents | 58.00% | ~450 |
 | Trap Master | 56.00% | ~435 |
+| Hard Work | 56.00% | ~435 |
 | The Big Eaty | 56.00% | ~435 |
 | Minions, Minions! | 55.00% | ~427 |
-| Hard Work | 55.00% | ~427 |
 | “… like son” | 54.00% | ~419 |
 | YOU SHALL NOT PASS! | 50.00% | ~388 |
 | The Cathedral of Light | 50.00% | ~388 |

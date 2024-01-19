@@ -3,12 +3,12 @@
   "Name": "STAR WARS Jedi: Fallen Order Standard Edition",
   "ProductSlug": "star-wars-jedi-fallen-order",
   "Ranking_Rating": 264,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 588,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2019-11-14T05:00:00+00:00",
     "PcReleaseDate": "2019-11-14T05:00:00+00:00",
@@ -223,7 +223,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35847,
+  "EOS_Progressed": 35848,
   "EOS_Completed": 346,
   "EOS_NewPlayers": 1583,
   "EOS_NewCompleters": 16,
@@ -16643,6 +16643,11 @@
       "Time": "2024-01-19T02:34:17.2361195+00:00",
       "NumProgressed": 35847,
       "NumCompleted": 346
+    },
+    {
+      "Time": "2024-01-19T03:08:34.8538385+00:00",
+      "NumProgressed": 35848,
+      "NumCompleted": 346
     }
   ],
   "AchievementsAdded": "2023-07-27T17:07:04.2576498+00:00",
@@ -16679,7 +16684,7 @@
       "Name": "Happy Go Wookiee",
       "Percentage": 66,
       "XP": 25,
-      "UsersEstimate": 23659
+      "UsersEstimate": 23660
     },
     {
       "ID": "achievement_13",
@@ -16687,7 +16692,7 @@
       "Name": "Her Name Was Masana Tide",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 18640
+      "UsersEstimate": 18641
     },
     {
       "ID": "achievement_14",
@@ -16711,7 +16716,7 @@
       "Name": "For A More Civilized Age",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 16848
+      "UsersEstimate": 16849
     },
     {
       "ID": "achievement_17",
@@ -16719,7 +16724,7 @@
       "Name": "I Knew He Was No Good",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 16131
+      "UsersEstimate": 16132
     },
     {
       "ID": "achievement_18",
@@ -16727,7 +16732,7 @@
       "Name": "Back At You",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 25093
+      "UsersEstimate": 25094
     },
     {
       "ID": "achievement_19",
@@ -16783,7 +16788,7 @@
       "Name": "Don\u0027t Mess with BD-1",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 13980
+      "UsersEstimate": 13981
     },
     {
       "ID": "achievement_25",
@@ -16799,7 +16804,7 @@
       "Name": "Look Out Below",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 14697
+      "UsersEstimate": 14698
     },
     {
       "ID": "achievement_27",
@@ -16831,7 +16836,7 @@
       "Name": "Legendary Beasts",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 7169
+      "UsersEstimate": 7170
     },
     {
       "ID": "achievement_30",
@@ -16879,7 +16884,7 @@
       "Name": "Sabersmith",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 28319
+      "UsersEstimate": 28320
     },
     {
       "ID": "achievement_36",
@@ -16903,7 +16908,7 @@
       "Name": "Scum and Villainy",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 14697
+      "UsersEstimate": 14698
     },
     {
       "ID": "achievement_39",
@@ -16943,7 +16948,7 @@
       "Name": "The Mantis",
       "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 35847
+      "UsersEstimate": 35848
     },
     {
       "ID": "achievement_8",
@@ -16951,7 +16956,7 @@
       "Name": "A Long Time Ago",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 32621
+      "UsersEstimate": 32622
     },
     {
       "ID": "achievement_9",
@@ -16959,14 +16964,14 @@
       "Name": "The Obstacle is the Way",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 26885
+      "UsersEstimate": 26886
     }
   ],
   "AchievementSets": [
     {
       "ID": "nk00bp",
       "IsBase": true,
-      "Progressed": 35847,
+      "Progressed": 35848,
       "Completed": 346
     }
   ],
@@ -16974,8 +16979,8 @@
   "FirstSeenRating": "2023-01-19T17:57:21.8503862+00:00",
   "FirstSeenAchievements": "2023-07-10T16:05:56.566265+00:00",
   "LastChanged": "2024-01-01T22:59:19.1576337+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:34:17.2361189+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:08:34.8538381+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:12.1681771+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:27:18.6951937+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:34:17.2362264+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:01:34.9163699+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:08:34.8539615+00:00"
 }

@@ -6,24 +6,24 @@ Rating: 4.75 (Ranked 151)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Sort Who Makes an Entrance | 32.00% | ~123,372 |
-| First Class Student | 28.00% | ~107,950 |
-| Troll with the Punches | 26.00% | ~100,239 |
-| A Keen Sense of Spell | 23.00% | ~88,673 |
+| First Class Student | 28.00% | ~107,951 |
+| Troll with the Punches | 26.00% | ~100,240 |
+| A Keen Sense of Spell | 23.00% | ~88,674 |
 | A Talent for Spending | 19.00% | ~73,252 |
 | That's a Keeper | 19.00% | ~73,252 |
 | Loom for Improvement | 16.00% | ~61,686 |
-| Followed the Butterflies | 15.00% | ~57,830 |
+| Followed the Butterflies | 15.00% | ~57,831 |
 | The Defender of Dragons | 14.00% | ~53,975 |
 | The Hallowed Hero | 13.00% | ~50,120 |
 | Challenge Accepted | 13.00% | ~50,120 |
 | Coasting Along | 13.00% | ~50,120 |
-| Grappling with a Graphorn | 12.00% | ~46,264 |
-| The One Who Mastered Memories | 12.00% | ~46,264 |
+| Grappling with a Graphorn | 12.00% | ~46,265 |
+| The One Who Mastered Memories | 12.00% | ~46,265 |
 | The Hero of Hogwarts | 11.00% | ~42,409 |
 | The Spell Master | 11.00% | ~42,409 |
-| Rising From the Ashes | 10.00% | ~38,554 |
-| A Sallow Grave | 9.00% | ~34,698 |
-| Flight the Good Flight | 9.00% | ~34,698 |
+| Rising From the Ashes | 11.00% | ~42,409 |
+| A Sallow Grave | 9.00% | ~34,699 |
+| Flight the Good Flight | 9.00% | ~34,699 |
 | The Avenging Gazelle | 8.00% | ~30,843 |
 | Beast Friends | 8.00% | ~30,843 |
 | Raising Expectations | 8.00% | ~30,843 |
@@ -35,10 +35,10 @@ Rating: 4.75 (Ranked 151)
 | The Ends Petrify the Means | 6.00% | ~23,132 |
 | The Wise Owl | 6.00% | ~23,132 |
 | Going Through the Potions | 5.00% | ~19,277 |
-| Put Down Roots | 4.00% | ~15,421 |
-| The Auror's Apprentice | 4.00% | ~15,421 |
-| Room with a View | 4.00% | ~15,421 |
-| The Intrepid Explorer | 4.00% | ~15,421 |
+| Put Down Roots | 4.00% | ~15,422 |
+| The Auror's Apprentice | 4.00% | ~15,422 |
+| Room with a View | 4.00% | ~15,422 |
+| The Intrepid Explorer | 4.00% | ~15,422 |
 | Floo Around the World | 3.00% | ~11,566 |
 | The Good Samaritan | 2.00% | ~7,711 |
 | Savvy Spender | 2.00% | ~7,711 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 151)
 | The Nature of the Beast | 0.70% | ~2,699 |
 | Collector's Edition | 0.30% | ~1,157 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 385,536 (Ranked 55)  
+Progressed: 385,539 (Ranked 55)  
 Completed: 575 (0.15%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,10 +325,10 @@ Completed: 575 (0.15%) (Ranked 297)
 | 2024-01-16 | 384,865 | 567 |
 | 2024-01-17 | 385,198 | 573 |
 | 2024-01-18 | 385,505 | 575 |
-| 2024-01-19 | 385,536 | 575 |
+| 2024-01-19 | 385,539 | 575 |
 ## Awards
 Max (Character Customization): 31,580  (Ranked 16)  
-Sum: 64,434 (Ranked 25)  
+Sum: 64,457 (Ranked 25)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -337,8 +337,8 @@ Diff (max vs sum): -9
 | This game is Great for Beginners | 1,843 |
 | This game is Extremely Fun | 1,758 |
 | This game has Amazing Storytelling | 1,756 |
+| This game is Relaxing | 1,710 |
 | This game has Diverse Characters | 1,709 |
-| This game is Relaxing | 1,687 |
 | This game has Amazing Characters | 1,675 |
 | This game is Highly Recommended | 1,666 |
 | This game has Quickly Understood Controls | 1,586 |
@@ -648,4 +648,4 @@ Diff (max vs sum): -9
 | 2024-01-16 | 4.75 | 31,250 | 63,502 |
 | 2024-01-17 | 4.75 | 31,416 | 63,913 |
 | 2024-01-18 | 4.75 | 31,580 | 64,319 |
-| 2024-01-19 | 4.75 | 31,580 | 64,434 |
+| 2024-01-19 | 4.75 | 31,580 | 64,457 |

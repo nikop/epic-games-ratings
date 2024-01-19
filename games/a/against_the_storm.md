@@ -29,6 +29,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Levitating Monument | 4.00% | ~835 |
 | Monastery of the Holy Flame | 4.00% | ~835 |
 | Lost Colonies | 4.00% | ~835 |
+| Corrosive Torrent | 4.00% | ~835 |
 | Trade Baron | 4.00% | ~835 |
 | Untamed Wilds | 4.00% | ~835 |
 | Against All Odds | 3.00% | ~626 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 3.00% | ~626 |
 | Flooded Mines | 3.00% | ~626 |
 | Statue of the Forefathers | 3.00% | ~626 |
-| Corrosive Torrent | 3.00% | ~626 |
 | Cursed Lands | 3.00% | ~626 |
 | Serving Ale | 2.00% | ~418 |
 | Efficient Explorer | 2.00% | ~418 |
@@ -343,12 +343,12 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-19 | 20,880 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 234)  
-Sum: 3,395 (Ranked 179)  
+Sum: 3,396 (Ranked 179)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 454 |
-| This game is Relaxing | 451 |
+| This game is Relaxing | 452 |
 | This game is Great for Beginners | 450 |
 | This game is Extremely Fun | 423 |
 | This game is Highly Recommended | 410 |
@@ -648,4 +648,4 @@ Diff (max vs sum): 55
 | 2024-01-15 | 4.82 | - | 453 | 3,386 |
 | 2024-01-16 | 4.82 | - | 453 | 3,387 |
 | 2024-01-17 | 4.82 | - | 454 | 3,393 |
-| 2024-01-19 | 4.82 | - | 454 | 3,395 |
+| 2024-01-19 | 4.82 | - | 454 | 3,396 |

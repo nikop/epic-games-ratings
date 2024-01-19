@@ -6,14 +6,14 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,106 |
+| I'm not dead yet | 38.00% | ~13,107 |
 | Overkill | 33.00% | ~11,382 |
-| Vaccine Incoming | 31.00% | ~10,692 |
-| A normal day in Gloomhaven | 29.00% | ~10,002 |
-| Spread the plague | 26.00% | ~8,967 |
+| Vaccine Incoming | 31.00% | ~10,693 |
+| A normal day in Gloomhaven | 29.00% | ~10,003 |
+| Spread the plague | 26.00% | ~8,968 |
 | Get over here! | 24.00% | ~8,278 |
 | Just when I thought I was out... | 19.00% | ~6,553 |
-| Mine... All Mine... | 16.00% | ~5,518 |
+| Mine... All Mine... | 16.00% | ~5,519 |
 | Precious! | 15.00% | ~5,174 |
 | Grizzled veteran | 15.00% | ~5,174 |
 | Anatomy Lesson | 14.00% | ~4,829 |
@@ -28,11 +28,11 @@ Number of Ratings: 68  (23.09.2022)
 | Pack leader | 7.00% | ~2,414 |
 | Black death | 7.00% | ~2,414 |
 | Play it again, Sam | 7.00% | ~2,414 |
-| Caught off guard | 6.00% | ~2,069 |
-| Quad damage | 6.00% | ~2,069 |
-| Power Up! | 5.00% | ~1,724 |
-| Merchant of doom | 5.00% | ~1,724 |
-| Now you see me... | 5.00% | ~1,724 |
+| Caught off guard | 6.00% | ~2,070 |
+| Quad damage | 6.00% | ~2,070 |
+| Power Up! | 5.00% | ~1,725 |
+| Merchant of doom | 5.00% | ~1,725 |
+| Now you see me... | 5.00% | ~1,725 |
 | The Pro from Dover | 4.00% | ~1,380 |
 | Pretty lights! | 4.00% | ~1,380 |
 | I hate portals | 3.00% | ~1,035 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~34 |
 | Murder Death Kill | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,490 (Ranked 139)  
+Progressed: 34,492 (Ranked 139)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-16 | 34,076 | 1 |
 | 2024-01-17 | 34,284 | 1 |
 | 2024-01-18 | 34,462 | 1 |
-| 2024-01-19 | 34,490 | 1 |
+| 2024-01-19 | 34,492 | 1 |
 ## Awards
 Max (Character Customization): 3,621  (Ranked 96)  
 Sum: 8,492 (Ranked 110)  

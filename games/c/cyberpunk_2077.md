@@ -18,6 +18,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.30% | ~3,164 |
 | Legend of The Afterlife | 0.30% | ~3,164 |
 | All the President's Men | 0.30% | ~550 |
+| Arachnophobia | 0.30% | ~550 |
 | Bushido and Chill | 0.20% | ~2,109 |
 | To Protect and Serve | 0.20% | ~2,109 |
 | Gun Fu | 0.20% | ~2,109 |
@@ -29,7 +30,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.20% | ~2,109 |
 | Two Heads, One Bullet | 0.20% | ~2,109 |
 | Judy vs Night City | 0.20% | ~2,109 |
-| Arachnophobia | 0.20% | ~366 |
 | City Lights | 0.10% | ~1,055 |
 | To Bad Decisions! | 0.10% | ~1,055 |
 | The Wandering Fool | 0.10% | ~1,055 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,559 (Ranked 17)  
+Progressed: 1,054,567 (Ranked 17)  
 Completed: 3,124 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,10 +348,10 @@ Completed: 3,124 (0.30%) (Ranked 263)
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
-| 2024-01-19 | 1,054,559 | 3,124 |
+| 2024-01-19 | 1,054,567 | 3,124 |
 ## Awards
 Max (Character Customization): 142,143  (Ranked 8)  
-Sum: 504,401 (Ranked 8)  
+Sum: 504,557 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -363,7 +363,7 @@ Diff (max vs sum): 0
 | This game has Amazing Storytelling | 29,428 |
 | This game is Extremely Fun | 29,160 |
 | This game has Amazing Characters | 29,024 |
-| This game is Relaxing | 27,967 |
+| This game is Relaxing | 28,123 |
 | This game has Quickly Understood Controls | 27,856 |
 | This game has a Creative Community | 19,515 |
 | This game has Obsessive Gameplay | 3,165 |
@@ -734,4 +734,4 @@ Diff (max vs sum): 0
 | 2024-01-16 | 4.67 | - | 141,060 | 499,146 |
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
 | 2024-01-18 | 4.67 | - | 142,143 | 504,220 |
-| 2024-01-19 | 4.67 | - | 142,143 | 504,401 |
+| 2024-01-19 | 4.67 | - | 142,143 | 504,557 |

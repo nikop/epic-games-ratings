@@ -3,8 +3,8 @@
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
   "Ranking_Rating": 772,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 581,
+  "Ranking_PopularitySum": 582,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 125,
@@ -95,15 +95,29 @@
       "Rating": 4.4,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-19T03:00:58.6272945+00:00",
+      "Rating": 4.4,
+      "NumberOfAwards": 20,
+      "NumberOfAwardsMax": 20
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 0,
-  "NumberOfAwardsMax": 0,
-  "Tags": [],
+  "NumberOfAwards": 20,
+  "NumberOfAwardsMax": 20,
+  "MaxAwardTitle": "Character Customization",
+  "Tags": [
+    {
+      "Text": "This game has Inclusive Character Customization",
+      "Prefix": "This game has Inclusive",
+      "Type": "Character Customization",
+      "Count": 20
+    }
+  ],
   "EOS_Progressed": 4207,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2904,9 +2918,9 @@
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-01-19T01:49:04.8593804+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:33:54.7032084+00:00",
+  "LastChanged": "2024-01-19T03:00:58.6272943+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:08:12.3871631+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:34.8274974+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:26:42.0273448+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:33:54.7032263+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:00:58.6272947+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:08:12.3871833+00:00"
 }

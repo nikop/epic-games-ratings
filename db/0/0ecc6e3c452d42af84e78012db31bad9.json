@@ -3,11 +3,11 @@
   "Name": "Pixel Art Coloring Book",
   "ProductSlug": "pixel-art-coloring-book-a485ef",
   "Ranking_Rating": 1075,
-  "Ranking_Popularity": 587,
-  "Ranking_PopularitySum": 587,
+  "Ranking_Popularity": 588,
+  "Ranking_PopularitySum": 588,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 194,
-  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5054,
+  "EOS_Progressed": 5055,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 94,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -13535,6 +13535,11 @@
       "Time": "2024-01-19T02:33:07.186771+00:00",
       "NumProgressed": 5054,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-19T03:07:24.122554+00:00",
+      "NumProgressed": 5055,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13618,7 +13623,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4095
     },
     {
       "ID": "ach_food_completed",
@@ -13634,7 +13639,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1819
+      "UsersEstimate": 1820
     },
     {
       "ID": "ach_game_opened",
@@ -13642,7 +13647,7 @@
       "Name": "Game opened",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 3790
+      "UsersEstimate": 3791
     },
     {
       "ID": "ach_magic_wand",
@@ -13673,7 +13678,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5054,
+      "Progressed": 5055,
       "Completed": 44
     }
   ],
@@ -13681,8 +13686,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:33:07.1867705+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:07:24.1225536+00:00",
   "LastUpdate_AppInfo": "2024-01-12T23:57:12.5110716+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:27:18.3019427+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:33:07.1868459+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:01:34.4881917+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:07:24.1226483+00:00"
 }

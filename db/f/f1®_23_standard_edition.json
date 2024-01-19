@@ -1575,9 +1575,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18406,
+  "EOS_Progressed": 18407,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 606,
+  "EOS_NewPlayers": 604,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12165,6 +12165,11 @@
       "Time": "2024-01-19T01:55:49.9070215+00:00",
       "NumProgressed": 18406,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T03:08:11.7569334+00:00",
+      "NumProgressed": 18407,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12217,7 +12222,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12884
+      "UsersEstimate": 12885
     },
     {
       "ID": "achievement_0007",
@@ -12225,7 +12230,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16749
+      "UsersEstimate": 16750
     },
     {
       "ID": "achievement_0008",
@@ -12233,7 +12238,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15277
+      "UsersEstimate": 15278
     },
     {
       "ID": "achievement_0009",
@@ -12249,7 +12254,7 @@
       "Name": "Network Success",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4233
+      "UsersEstimate": 4234
     },
     {
       "ID": "achievement_0011",
@@ -12337,7 +12342,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12516
+      "UsersEstimate": 12517
     },
     {
       "ID": "achievement_0022",
@@ -12441,7 +12446,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4417
+      "UsersEstimate": 4418
     },
     {
       "ID": "achievement_0035",
@@ -12521,7 +12526,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6626
+      "UsersEstimate": 6627
     },
     {
       "ID": "achievement_0045",
@@ -12568,7 +12573,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18406,
+      "Progressed": 18407,
       "Completed": 0
     }
   ],
@@ -12576,8 +12581,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-18T23:58:36.1257529+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:33:54.0925822+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:08:11.7569331+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:24:16.7563059+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:33:54.0926698+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:58:31.3468327+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:08:11.7570317+00:00"
 }

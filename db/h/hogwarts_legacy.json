@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 55,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 40,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-02-10T18:00:00+00:00",
     "PcReleaseDate": "2023-02-10T18:00:00+00:00",
@@ -13723,10 +13723,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 64434,
       "NumberOfAwardsMax": 31580
+    },
+    {
+      "Time": "2024-01-19T03:01:15.9904697+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 64457,
+      "NumberOfAwardsMax": 31580
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 64434,
+  "NumberOfAwards": 64457,
   "NumberOfAwardsMax": 31580,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13776,7 +13782,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1687
+      "Count": 1710
     },
     {
       "Text": "This game is Highly Recommended",
@@ -13803,10 +13809,10 @@
       "Count": 1089
     }
   ],
-  "EOS_Progressed": 385536,
+  "EOS_Progressed": 385539,
   "EOS_Completed": 575,
-  "EOS_NewPlayers": 3744,
-  "EOS_NewCompleters": 17,
+  "EOS_NewPlayers": 3729,
+  "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
@@ -43523,6 +43529,11 @@
       "Time": "2024-01-19T02:35:52.3261519+00:00",
       "NumProgressed": 385536,
       "NumCompleted": 575
+    },
+    {
+      "Time": "2024-01-19T03:10:10.0547784+00:00",
+      "NumProgressed": 385539,
+      "NumCompleted": 575
     }
   ],
   "TotalAchievements": 45,
@@ -43542,7 +43553,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 46264
+      "UsersEstimate": 46265
     },
     {
       "ID": "PFA_11",
@@ -43550,7 +43561,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 46264
+      "UsersEstimate": 46265
     },
     {
       "ID": "PFA_12",
@@ -43606,7 +43617,7 @@
       "Name": "A Sallow Grave",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 34698
+      "UsersEstimate": 34699
     },
     {
       "ID": "PFA_19",
@@ -43614,7 +43625,7 @@
       "Name": "Flight the Good Flight",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 34698
+      "UsersEstimate": 34699
     },
     {
       "ID": "PFA_2",
@@ -43654,7 +43665,7 @@
       "Name": "A Keen Sense of Spell",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 88673
+      "UsersEstimate": 88674
     },
     {
       "ID": "PFA_24",
@@ -43694,7 +43705,7 @@
       "Name": "Put Down Roots",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 15421
+      "UsersEstimate": 15422
     },
     {
       "ID": "PFA_29",
@@ -43710,7 +43721,7 @@
       "Name": "The Auror\u0027s Apprentice",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 15421
+      "UsersEstimate": 15422
     },
     {
       "ID": "PFA_30",
@@ -43734,7 +43745,7 @@
       "Name": "Room with a View",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 15421
+      "UsersEstimate": 15422
     },
     {
       "ID": "PFA_33",
@@ -43758,7 +43769,7 @@
       "Name": "Followed the Butterflies",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 57830
+      "UsersEstimate": 57831
     },
     {
       "ID": "PFA_36",
@@ -43782,7 +43793,7 @@
       "Name": "The Intrepid Explorer",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 15421
+      "UsersEstimate": 15422
     },
     {
       "ID": "PFA_39",
@@ -43862,7 +43873,7 @@
       "Name": "First Class Student",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 107950
+      "UsersEstimate": 107951
     },
     {
       "ID": "PFA_7",
@@ -43870,7 +43881,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 100239
+      "UsersEstimate": 100240
     },
     {
       "ID": "PFA_8",
@@ -43884,25 +43895,25 @@
       "ID": "PFA_9",
       "SetID": "1hf4dep",
       "Name": "Rising From the Ashes",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 38554
+      "UsersEstimate": 42409
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 385536,
+      "Progressed": 385539,
       "Completed": 575
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-01-19T02:27:00.1876825+00:00",
-  "LastChanged_Achievements": "2024-01-19T02:35:52.3261513+00:00",
+  "LastChanged": "2024-01-19T03:01:15.9904695+00:00",
+  "LastChanged_Achievements": "2024-01-19T03:10:10.0547781+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:16.1628845+00:00",
-  "LastUpdate_Ratings": "2024-01-19T02:27:00.1876831+00:00",
-  "LastUpdate_Achievements": "2024-01-19T02:35:52.3263092+00:00"
+  "LastUpdate_Ratings": "2024-01-19T03:01:15.9904702+00:00",
+  "LastUpdate_Achievements": "2024-01-19T03:10:10.0549412+00:00"
 }

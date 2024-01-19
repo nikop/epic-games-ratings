@@ -5,16 +5,16 @@ Rating: 4.48 (Ranked 658)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,021 |
-| Confirming Suspicions | 42.00% | ~1,806 |
-| The Kraken Wakes | 38.00% | ~1,634 |
-| It's Starting to Crack | 35.00% | ~1,505 |
-| Change the Channel | 32.00% | ~1,376 |
-| Lord of War | 31.00% | ~1,333 |
-| Taking it back | 30.00% | ~1,290 |
-| Resourceful | 28.00% | ~1,204 |
-| Target America | 28.00% | ~1,204 |
-| The Kraken Sleeps | 26.00% | ~1,118 |
+| Meeting Resistance | 47.00% | ~2,022 |
+| Confirming Suspicions | 42.00% | ~1,807 |
+| The Kraken Wakes | 38.00% | ~1,635 |
+| It's Starting to Crack | 35.00% | ~1,506 |
+| Change the Channel | 32.00% | ~1,377 |
+| Lord of War | 31.00% | ~1,334 |
+| Taking it back | 30.00% | ~1,291 |
+| Resourceful | 28.00% | ~1,205 |
+| Target America | 28.00% | ~1,205 |
+| The Kraken Sleeps | 25.00% | ~1,076 |
 | Liberté | 24.00% | ~1,032 |
 | Organ Grinder | 24.00% | ~1,032 |
 | As Quiet as a Mouse | 24.00% | ~1,032 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 658)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,301 (Ranked 215)  
+Progressed: 4,302 (Ranked 215)  
 Completed: 11 (0.26%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,6 +349,7 @@ Completed: 11 (0.26%) (Ranked 272)
 | 2024-01-16 | 4,292 | 11 |
 | 2024-01-17 | 4,295 | 11 |
 | 2024-01-18 | 4,301 | 11 |
+| 2024-01-19 | 4,302 | 11 |
 ## Awards
 Max (Great for Beginners): 29  (Ranked 532)  
 Sum: 29 (Ranked 551)  
