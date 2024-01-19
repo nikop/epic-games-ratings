@@ -28,7 +28,7 @@
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.07% |
 | 27 | [Island Cities](games/i/island_cities.md) | 16.76% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.99% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.98% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
 | 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -37,7 +37,7 @@
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
 | 36 | [Remains](games/r/remains.md) | 12.70% |
 | 37 | [Hanoi Puzzles - Solid Match](games/c/ce2d3e78efd046928db9e0f18612c6d7.md) | 12.37% |
-| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.07% |
+| 38 | [Supraland Six Inches Under](games/s/supraland_six_inches_under.md) | 12.06% |
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 10.06% |
@@ -46,8 +46,8 @@
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.29% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
-| 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.52% |
-| 48 | [Smelter](games/s/smelter.md) | 8.51% |
+| 47 | [Smelter](games/s/smelter.md) | 8.51% |
+| 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.49% |
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.79% |
@@ -57,7 +57,7 @@
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
 | 57 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.27% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.23% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.03% |
 | 61 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.00% |
@@ -85,7 +85,7 @@
 | 83 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 84 | [JARS](games/j/jars.md) | 4.42% |
 | 85 | [Dungeons 4](games/d/dungeons_4.md) | 4.38% |
-| 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.36% |
+| 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.35% |
 | 87 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 4.29% |
 | 88 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 89 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.24% |
@@ -97,15 +97,15 @@
 | 95 | [The Bunker](games/t/the_bunker.md) | 3.85% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
-| 98 | [Doodle God](games/d/doodle_god.md) | 3.60% |
-| 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.60% |
+| 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.62% |
+| 99 | [Doodle God](games/d/doodle_god.md) | 3.60% |
 | 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 102 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.50% |
 | 103 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.49% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
-| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.25% |
+| 106 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.24% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.22% |
 | 108 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 109 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
@@ -130,7 +130,7 @@
 | 128 | [Destiny 2](games/d/destiny_2.md) | 2.46% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.39% |
-| 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.33% |
+| 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.30% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
 | 132 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
 | 134 | [Night Book](games/n/night_book.md) | 2.20% |
@@ -215,9 +215,9 @@
 | 212 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.61% |
 | 212 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.61% |
 | 215 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
-| 215 | [Scrapnaut](games/s/scrapnaut.md) | 0.60% |
-| 217 | [Grindstone](games/g/grindstone.md) | 0.59% |
-| 217 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
+| 216 | [Grindstone](games/g/grindstone.md) | 0.59% |
+| 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.59% |
+| 216 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
 | 219 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.58% |
 | 220 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.56% |
 | 220 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
