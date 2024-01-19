@@ -791,7 +791,7 @@
   ],
   "EOS_Progressed": 7270,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11398,9 +11398,9 @@
       "ID": "14",
       "SetID": "3aa2279",
       "Name": "Full Ascension",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 654
+      "UsersEstimate": 727
     },
     {
       "ID": "15",
@@ -11853,8 +11853,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:04:11.831237+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:04:13.4472555+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:58:50.6405378+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:04:11.8313381+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:58:42.692401+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:04:13.4473736+00:00"
 }

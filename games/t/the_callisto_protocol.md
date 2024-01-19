@@ -39,7 +39,7 @@ Rating: 4.22 (Ranked 956)
 | Instigator | 1.00% | ~105 |
 | Information Overload | 1.00% | ~105 |
 | Parole Denied | 0.90% | ~94 |
-| Quick Pick | 0.80% | ~84 |
+| Quick Pick | 0.90% | ~94 |
 | Subject Alpha | 0.70% | ~73 |
 | The Protocol is About Life | 0.40% | ~90 |
 | Hoard Mode | 0.40% | ~42 |

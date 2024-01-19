@@ -19,10 +19,10 @@
 | The Steed | 9.00% | ~14 |
 | The Bodyguard | 7.00% | ~11 |
 | The Apprentice | 7.00% | ~11 |
+| No Stone Unturned | 7.00% | ~11 |
 | Braving Miasma | 6.00% | ~9 |
 | The Familiar | 6.00% | ~9 |
 | Oracle Mastery | 6.00% | ~9 |
-| No Stone Unturned | 6.00% | ~9 |
 | Ancient Nemesis | 5.00% | ~8 |
 | Traveler Mastery | 5.00% | ~8 |
 | Warden Mastery | 4.00% | ~6 |

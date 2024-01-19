@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -229,10 +229,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8647,
+  "EOS_Progressed": 8648,
   "EOS_Completed": 55,
   "EOS_NewPlayers": 95,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
@@ -10164,6 +10164,11 @@
       "Time": "2024-01-19T14:03:50.9358942+00:00",
       "NumProgressed": 8647,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2024-01-19T15:03:52.1441317+00:00",
+      "NumProgressed": 8648,
+      "NumCompleted": 55
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -10176,7 +10181,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7609
+      "UsersEstimate": 7610
     },
     {
       "ID": "achievement_01_02",
@@ -10184,7 +10189,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1729
+      "UsersEstimate": 1730
     },
     {
       "ID": "achievement_01_03",
@@ -10192,7 +10197,7 @@
       "Name": "Brand New Ride",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 5707
+      "UsersEstimate": 5708
     },
     {
       "ID": "achievement_01_04",
@@ -10200,7 +10205,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6485
+      "UsersEstimate": 6486
     },
     {
       "ID": "achievement_01_05",
@@ -10224,7 +10229,7 @@
       "Name": "Car Workshop",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 3718
+      "UsersEstimate": 3719
     },
     {
       "ID": "achievement_01_08",
@@ -10248,7 +10253,7 @@
       "Name": "Beat the Clock",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 4842
+      "UsersEstimate": 4843
     },
     {
       "ID": "achievement_02_01",
@@ -10424,7 +10429,7 @@
       "Name": "Consolation Trophy",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 4669
+      "UsersEstimate": 4670
     },
     {
       "ID": "achievement_04_04",
@@ -10440,7 +10445,7 @@
       "Name": "That was a Close Call!",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 3026
+      "UsersEstimate": 3027
     },
     {
       "ID": "achievement_04_06",
@@ -10464,7 +10469,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7523
+      "UsersEstimate": 7524
     },
     {
       "ID": "achievement_04_09",
@@ -10479,7 +10484,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8647,
+      "Progressed": 8648,
       "Completed": 55
     }
   ],
@@ -10487,8 +10492,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-18T22:57:32.938139+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:03:50.9358938+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:03:52.1441312+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.3396943+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:57:38.4542405+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:03:50.9359576+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:57:31.1854211+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:03:52.1442374+00:00"
 }

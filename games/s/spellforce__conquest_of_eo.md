@@ -5,8 +5,8 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Home Sweet Home | 88.00% | ~134 |
+| Enough rooms to swing a cat | 79.00% | ~120 |
 | First to the post | 79.00% | ~120 |
-| Enough rooms to swing a cat | 78.00% | ~119 |
 | A kind of Magic | 68.00% | ~103 |
 | Connected | 57.00% | ~87 |
 | Expansion | 55.00% | ~84 |

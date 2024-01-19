@@ -5,21 +5,21 @@ Rating: 4.52 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~24,952 |
-| I've Had Enough! | 15.00% | ~18,714 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,723 |
-| Seasoned Fighter | 9.00% | ~11,228 |
-| All For One and One For All | 8.00% | ~9,981 |
-| Home Sweet Home? | 6.00% | ~7,485 |
-| A New Age | 5.00% | ~6,238 |
+| All Grown Up! | 20.00% | ~24,957 |
+| I've Had Enough! | 15.00% | ~18,717 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,726 |
+| Seasoned Fighter | 9.00% | ~11,230 |
+| All For One and One For All | 8.00% | ~9,983 |
+| Home Sweet Home? | 6.00% | ~7,487 |
+| A New Age | 5.00% | ~6,239 |
 | Oh Baby, A Triple | 3.00% | ~3,743 |
 | Master of Disguise | 3.00% | ~3,743 |
 | Symbiotic | 3.00% | ~3,743 |
-| Battle Hardened | 2.00% | ~2,495 |
-| Double Punch! | 2.00% | ~2,495 |
-| It's Mayhem! | 2.00% | ~2,495 |
-| Right back at'cha | 2.00% | ~2,495 |
-| Spectacular Finisher | 2.00% | ~2,495 |
+| Battle Hardened | 2.00% | ~2,496 |
+| Double Punch! | 2.00% | ~2,496 |
+| It's Mayhem! | 2.00% | ~2,496 |
+| Right back at'cha | 2.00% | ~2,496 |
+| Spectacular Finisher | 2.00% | ~2,496 |
 | Cautious Veteran | 1.00% | ~1,248 |
 | Katamari | 1.00% | ~1,248 |
 | Martyrdom | 1.00% | ~1,248 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 581)
 | What's Mine is Yours | 0.10% | ~125 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,758 (Ranked 93)  
+Progressed: 124,783 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -86,10 +86,10 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 123,753 | 0 |
 | 2024-01-17 | 124,143 | 0 |
 | 2024-01-18 | 124,518 | 0 |
-| 2024-01-19 | 124,758 | 0 |
+| 2024-01-19 | 124,783 | 0 |
 ## Awards
-Max (Great Boss Battles): 57  (Ranked 441)  
-Sum: 57 (Ranked 505)  
+Max (Great Boss Battles): 57  (Ranked 442)  
+Sum: 57 (Ranked 506)  
 Diff (max vs sum): -64  
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3484,
+  "EOS_Progressed": 3485,
   "EOS_Completed": 33,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.95,
   "EosHistory": [
@@ -6677,6 +6677,11 @@
       "Time": "2024-01-19T12:04:27.794907+00:00",
       "NumProgressed": 3484,
       "NumCompleted": 33
+    },
+    {
+      "Time": "2024-01-19T15:04:03.6158232+00:00",
+      "NumProgressed": 3485,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 53,
@@ -6752,7 +6757,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3310
+      "UsersEstimate": 3311
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6768,7 +6773,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6792,7 +6797,7 @@
       "Name": "Big Helmet Bro",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1463
+      "UsersEstimate": 1464
     },
     {
       "ID": "STB_DEFEAT_MORGANA",
@@ -6864,7 +6869,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2613
+      "UsersEstimate": 2614
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6904,7 +6909,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2648
+      "UsersEstimate": 2649
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6920,7 +6925,7 @@
       "Name": "Clarion Cove",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -6992,7 +6997,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "STB_PET_HORSE",
@@ -7032,7 +7037,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1219
+      "UsersEstimate": 1220
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -7040,7 +7045,7 @@
       "Name": "Iffighain Headquarters",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_IV",
@@ -7064,7 +7069,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2543
+      "UsersEstimate": 2544
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -7096,7 +7101,7 @@
       "Name": "Ancient power",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1010
+      "UsersEstimate": 1011
     },
     {
       "ID": "STB_WHIRL_ENEMIES",
@@ -7111,7 +7116,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3484,
+      "Progressed": 3485,
       "Completed": 33
     }
   ],
@@ -7119,8 +7124,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:04:01.8877794+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:04:03.6158228+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:59:27.1668459+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:04:01.8878384+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:59:15.4907239+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:04:03.6158973+00:00"
 }

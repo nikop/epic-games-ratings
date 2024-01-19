@@ -384,9 +384,9 @@
       "ID": "36",
       "SetID": "7095412",
       "Name": "X Marks The Spot",
-      "Percentage": 19,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "37",
@@ -487,8 +487,8 @@
   ],
   "FirstSeen": "2023-08-25T14:00:23.6094208+00:00",
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:05:57.5012624+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:06:01.2089093+00:00",
   "LastUpdate_AppInfo": "2024-01-13T02:19:47.629483+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:57:37.7064168+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:05:57.5012894+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:57:30.4746526+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:06:01.2089385+00:00"
 }

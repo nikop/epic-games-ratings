@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 158,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 309,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 527,
+  "EOS_Progressed": 528,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.33,
   "EosHistory": [
@@ -1591,6 +1591,11 @@
       "Time": "2024-01-19T14:09:56.6858833+00:00",
       "NumProgressed": 527,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-19T15:09:59.9149299+00:00",
+      "NumProgressed": 528,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -1634,7 +1639,7 @@
       "Name": "Let it begin",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "profile_ryan",
@@ -1642,7 +1647,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "ryan_date2_all",
@@ -1674,7 +1679,7 @@
       "Name": "The lad",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "success_brandy",
@@ -1690,7 +1695,7 @@
       "Name": "The debonair",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "success_hazel",
@@ -1753,7 +1758,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 527,
+      "Progressed": 528,
       "Completed": 7
     }
   ],
@@ -1761,8 +1766,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:09:56.6858829+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:09:59.9149295+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:18.7829189+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:00:30.6704553+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:09:56.6859005+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:00:21.0940998+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:09:59.9149529+00:00"
 }

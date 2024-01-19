@@ -1,48 +1,48 @@
 # Zombie Army 4: Dead War
 [Store](https://store.epicgames.com/en-US/p/zombie-army-4-dead-war)  
 [View Rawdata](../../db/z/zombie_army_4__dead_war.json)  
-Rating: 4.69 (Ranked 243)  
+Rating: 4.69 (Ranked 244)  
 Number of Ratings: 743  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Shoot it, man! Shoot it in the head! | 70.00% | ~31,165 |
-| Say goodbye, creep! | 67.00% | ~29,830 |
-| Blood splattered | 66.00% | ~29,385 |
-| Choo choo! | 63.00% | ~28,049 |
-| Groovy | 62.00% | ~27,604 |
-| Cleanup on aisle 4! | 57.00% | ~25,378 |
-| Gold | 51.00% | ~22,706 |
-| The boat can leave now...tell the crew | 49.00% | ~21,816 |
-| Give me something to shoot! | 47.00% | ~20,925 |
-| Stand back boy! | 47.00% | ~20,925 |
-| Chain reaction | 45.00% | ~20,035 |
-| Weird science | 44.00% | ~19,590 |
-| Look mummy! A shark! | 42.00% | ~18,699 |
-| What did you say, Blain? | 42.00% | ~18,699 |
+| Shoot it, man! Shoot it in the head! | 70.00% | ~31,167 |
+| Say goodbye, creep! | 67.00% | ~29,831 |
+| Blood splattered | 66.00% | ~29,386 |
+| Choo choo! | 63.00% | ~28,050 |
+| Groovy | 62.00% | ~27,605 |
+| Cleanup on aisle 4! | 57.00% | ~25,379 |
+| Gold | 51.00% | ~22,707 |
+| The boat can leave now...tell the crew | 49.00% | ~21,817 |
+| Give me something to shoot! | 47.00% | ~20,926 |
+| Stand back boy! | 47.00% | ~20,926 |
+| Chain reaction | 45.00% | ~20,036 |
+| Weird science | 44.00% | ~19,591 |
+| Look mummy! A shark! | 42.00% | ~18,700 |
+| What did you say, Blain? | 42.00% | ~18,700 |
 | In the dark dark woods... | 39.00% | ~17,364 |
-| Come and get it! It's a running buffet! | 38.00% | ~16,918 |
-| Double tap | 37.00% | ~16,473 |
-| Cranial blowout! | 37.00% | ~16,473 |
-| All of this has happened before… | 36.00% | ~16,028 |
-| Zombie killin' machine | 36.00% | ~16,028 |
-| Every bullet counts | 36.00% | ~16,028 |
-| All roads lead to Rome | 34.00% | ~15,137 |
-| You've got red on you | 34.00% | ~15,137 |
-| You're all going to die down here | 32.00% | ~14,247 |
-| He did Nazi that coming | 32.00% | ~14,247 |
+| Come and get it! It's a running buffet! | 38.00% | ~16,919 |
+| Double tap | 37.00% | ~16,474 |
+| Cranial blowout! | 37.00% | ~16,474 |
+| All of this has happened before… | 36.00% | ~16,029 |
+| Zombie killin' machine | 36.00% | ~16,029 |
+| Every bullet counts | 36.00% | ~16,029 |
+| All roads lead to Rome | 34.00% | ~15,138 |
+| You've got red on you | 34.00% | ~15,138 |
+| You're all going to die down here | 32.00% | ~14,248 |
+| He did Nazi that coming | 32.00% | ~14,248 |
 | Kill of the week | 31.00% | ~13,802 |
 | I never liked them anyway | 31.00% | ~13,802 |
-| Is it over? | 28.00% | ~12,466 |
+| Is it over? | 28.00% | ~12,467 |
 | Got your back | 27.00% | ~12,021 |
-| Gore soaked | 24.00% | ~10,685 |
-| Shock therapy | 23.00% | ~10,240 |
-| Leave the limbs you've lost | 23.00% | ~10,240 |
-| Everyone's a mad scientist, life is the lab | 19.00% | ~8,459 |
+| Gore soaked | 24.00% | ~10,686 |
+| Shock therapy | 23.00% | ~10,241 |
+| Leave the limbs you've lost | 23.00% | ~10,241 |
+| Everyone's a mad scientist, life is the lab | 19.00% | ~8,460 |
 | Take them down screaming | 18.00% | ~8,014 |
 | Bad Blood | 17.00% | ~7,569 |
 | Weapons expert | 17.00% | ~7,569 |
-| The bigger they are... | 15.00% | ~6,678 |
+| The bigger they are... | 15.00% | ~6,679 |
 | I'm going deeper underground | 14.00% | ~6,233 |
 | Well equipped | 13.00% | ~5,788 |
 | Into the deep | 12.00% | ~5,343 |
@@ -73,7 +73,7 @@ Number of Ratings: 743  (23.09.2022)
 | Just me and my trusty sidearm | 1.00% | ~445 |
 | None more hard | 0.60% | ~267 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,522 (Ranked 132)  
+Progressed: 44,524 (Ranked 132)  
 Completed: 25 (0.06%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,7 +347,7 @@ Completed: 25 (0.06%) (Ranked 337)
 | 2024-01-16 | 44,500 | 25 |
 | 2024-01-17 | 44,509 | 25 |
 | 2024-01-18 | 44,518 | 25 |
-| 2024-01-19 | 44,522 | 25 |
+| 2024-01-19 | 44,524 | 25 |
 ## Awards
 Max (Great Boss Battles): 877  (Ranked 178)  
 Sum: 2,640 (Ranked 200)  

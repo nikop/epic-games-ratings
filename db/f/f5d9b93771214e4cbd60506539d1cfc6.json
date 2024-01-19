@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewCompleters": 48,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2015-10-16T01:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161844,
+  "EOS_Progressed": 161845,
   "EOS_Completed": 395,
-  "EOS_NewPlayers": 901,
+  "EOS_NewPlayers": 895,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -25783,6 +25783,11 @@
       "Time": "2024-01-19T14:04:50.2847797+00:00",
       "NumProgressed": 161844,
       "NumCompleted": 395
+    },
+    {
+      "Time": "2024-01-19T15:04:52.3111963+00:00",
+      "NumProgressed": 161845,
+      "NumCompleted": 395
     }
   ],
   "TotalAchievements": 31,
@@ -25802,7 +25807,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113291
+      "UsersEstimate": 113292
     },
     {
       "ID": "EAwards_10",
@@ -25826,7 +25831,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27513
+      "UsersEstimate": 27514
     },
     {
       "ID": "EAwards_13",
@@ -25890,7 +25895,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 45316
+      "UsersEstimate": 45317
     },
     {
       "ID": "EAwards_20",
@@ -25978,7 +25983,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 30750
+      "UsersEstimate": 30751
     },
     {
       "ID": "EAwards_30",
@@ -26041,7 +26046,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 161844,
+      "Progressed": 161845,
       "Completed": 395
     }
   ],
@@ -26049,8 +26054,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:04:50.2847794+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:04:52.3111959+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.0746018+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:58:49.1086443+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:04:50.2848891+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:58:41.0477294+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:04:52.3113712+00:00"
 }

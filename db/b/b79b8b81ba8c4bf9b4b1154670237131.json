@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16794,
+  "EOS_Progressed": 16795,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7002,6 +7002,11 @@
       "Time": "2024-01-19T14:09:48.268502+00:00",
       "NumProgressed": 16794,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-19T15:09:51.8944731+00:00",
+      "NumProgressed": 16795,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7022,7 +7027,7 @@
       "Name": "Together We Fight",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "ACH_AE_11",
@@ -7110,7 +7115,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH_AE_21",
@@ -7150,7 +7155,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH_AE_26",
@@ -7262,7 +7267,7 @@
       "Name": "Betrayal",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "ACH_AE_7",
@@ -7270,7 +7275,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH_AE_8",
@@ -7278,7 +7283,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACH_AE_9",
@@ -7286,14 +7291,14 @@
       "Name": "Paradise Lost",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     }
   ],
   "AchievementSets": [
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16794,
+      "Progressed": 16795,
       "Completed": 16
     }
   ],
@@ -7301,8 +7306,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:09:48.2685015+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:09:51.8944727+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:00:15.5578626+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:09:48.2685739+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:00:06.3297369+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:09:51.8945377+00:00"
 }

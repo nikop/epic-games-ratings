@@ -1,11 +1,11 @@
 # Wreckfest
 [Store](https://store.epicgames.com/en-US/p/wreckfest)  
 [View Rawdata](../../db/w/wreckfest.json)  
-Rating: 4.25 (Ranked 929)  
+Rating: 4.25 (Ranked 930)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 71.00% | ~856 |
+| Storm Warning | 72.00% | ~868 |
 | Highballer | 61.00% | ~736 |
 | Dirty Roller | 34.00% | ~410 |
 | Regional Juniors Champion | 32.00% | ~386 |

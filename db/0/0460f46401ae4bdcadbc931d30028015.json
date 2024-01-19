@@ -1717,10 +1717,16 @@
       "Rating": 4.15,
       "NumberOfAwards": 423,
       "NumberOfAwardsMax": 104
+    },
+    {
+      "Time": "2024-01-19T15:02:53.0758914+00:00",
+      "Rating": 4.15,
+      "NumberOfAwards": 424,
+      "NumberOfAwardsMax": 104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 423,
+  "NumberOfAwards": 424,
   "NumberOfAwardsMax": 104,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1770,7 +1776,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 47
+      "Count": 48
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1785,9 +1791,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11080,
+  "EOS_Progressed": 11082,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 805,
+  "EOS_NewPlayers": 804,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12025,6 +12031,11 @@
       "Time": "2024-01-19T13:10:21.4290739+00:00",
       "NumProgressed": 11080,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T15:04:31.1195913+00:00",
+      "NumProgressed": 11082,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12045,7 +12056,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "achievement_11",
@@ -12069,7 +12080,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 3213
+      "UsersEstimate": 3214
     },
     {
       "ID": "achievement_14",
@@ -12077,7 +12088,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "achievement_15",
@@ -12125,7 +12136,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "achievement_20",
@@ -12133,7 +12144,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6537
+      "UsersEstimate": 6538
     },
     {
       "ID": "achievement_21",
@@ -12197,23 +12208,23 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1441
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11080,
+      "Progressed": 11082,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-01-19T05:03:02.6226655+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:04:28.9283945+00:00",
+  "LastChanged": "2024-01-19T15:02:53.0758912+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:04:31.119591+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:02:52.7845085+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:04:28.9284507+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:02:53.0758917+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:04:31.1196387+00:00"
 }

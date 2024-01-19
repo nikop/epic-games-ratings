@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 27,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 264,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 889,
+  "EOS_Progressed": 890,
   "EOS_Completed": 149,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 16.76,
+  "EOS_Completed_Percentage": 16.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3861,6 +3861,11 @@
       "Time": "2024-01-19T09:06:16.6058839+00:00",
       "NumProgressed": 889,
       "NumCompleted": 149
+    },
+    {
+      "Time": "2024-01-19T15:06:19.6880662+00:00",
+      "NumProgressed": 890,
+      "NumCompleted": 149
     }
   ],
   "TotalAchievements": 22,
@@ -3872,7 +3877,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "LEVEL_002",
@@ -3880,7 +3885,7 @@
       "Name": "A tiny town",
       "Percentage": 87,
       "XP": 35,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "LEVEL_003",
@@ -3904,7 +3909,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "LEVEL_006",
@@ -3912,7 +3917,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "LEVEL_007",
@@ -3928,7 +3933,7 @@
       "Name": "Passion for sports",
       "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "LEVEL_009",
@@ -3960,7 +3965,7 @@
       "Name": "Calm neighborhood",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "LEVEL_013",
@@ -3968,7 +3973,7 @@
       "Name": "Elevated ring",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "LEVEL_014",
@@ -4047,7 +4052,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 889,
+      "Progressed": 890,
       "Completed": 149
     }
   ],
@@ -4055,8 +4060,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:06:15.3338782+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:06:19.6880659+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:59:51.4853809+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:06:15.3339064+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:59:39.8385979+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:06:19.6881001+00:00"
 }

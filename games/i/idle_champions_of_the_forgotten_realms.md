@@ -6,16 +6,16 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,187 |
+| A Brief Tour of the Realms | 4.00% | ~10,188 |
 | Beast Intentions | 2.00% | ~5,094 |
 | The Cursed Farmer | 2.00% | ~5,094 |
 | The Mad Wizard | 2.00% | ~5,094 |
 | The Ring of Regeneration | 1.00% | ~2,547 |
 | Are Ya Chicken? | 1.00% | ~2,547 |
 | Were-verpowered | 0.90% | ~2,292 |
-| Seeking Allies | 0.80% | ~2,037 |
-| Mad Cow Disease | 0.80% | ~2,037 |
-| Friendly Imps | 0.80% | ~2,037 |
+| Seeking Allies | 0.80% | ~2,038 |
+| Mad Cow Disease | 0.80% | ~2,038 |
+| Friendly Imps | 0.80% | ~2,038 |
 | Welcome to Sigil | 0.80% | ~1,768 |
 | A Persistent Buzzing | 0.70% | ~1,783 |
 | Pure Energy | 0.70% | ~1,783 |
@@ -72,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Street War | 0.20% | ~509 |
 | Wisdom Check | 0.20% | ~509 |
 | A Grand Puzzle | 0.20% | ~509 |
+| Tomb of the Nine Gods | 0.20% | ~509 |
 | The Mists of Ravenloft | 0.20% | ~509 |
 | Family Entanglements | 0.20% | ~509 |
 | The Botched Kidnapping | 0.20% | ~509 |
@@ -240,7 +241,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Never Split the Party | 0.10% | ~255 |
 | Azaka's Procession - Part 1 | 0.10% | ~255 |
 | Snakes on our Plane | 0.10% | ~221 |
-| Tomb of the Nine Gods | 0.10% | ~255 |
 | The Soulmonger Calls | 0.10% | ~255 |
 | Azaka's Procession - Part 2 | 0.10% | ~255 |
 | Acererak's Puzzle | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,678 (Ranked 71)  
+Progressed: 254,689 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,7 +827,7 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,678 | 2,624 |
+| 2024-01-19 | 254,689 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,563 (Ranked 41)  

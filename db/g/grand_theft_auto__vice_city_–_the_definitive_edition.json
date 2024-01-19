@@ -6,9 +6,9 @@
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 208,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,11 +1074,11 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16550,
-  "EOS_Completed": 105,
+  "EOS_Progressed": 16552,
+  "EOS_Completed": 106,
   "EOS_NewPlayers": 265,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.63,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -18559,6 +18559,11 @@
       "Time": "2024-01-19T14:10:05.4056906+00:00",
       "NumProgressed": 16550,
       "NumCompleted": 105
+    },
+    {
+      "Time": "2024-01-19T15:10:09.2308367+00:00",
+      "NumProgressed": 16552,
+      "NumCompleted": 106
     }
   ],
   "TotalAchievements": 34,
@@ -18578,7 +18583,7 @@
       "Name": "Running Rampant",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH03",
@@ -18610,7 +18615,7 @@
       "Name": "Point A to Point B",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH07",
@@ -18618,7 +18623,7 @@
       "Name": "High Quality H2O",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH08",
@@ -18634,7 +18639,7 @@
       "Name": "Bull in a China Shop",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH10",
@@ -18642,7 +18647,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH11",
@@ -18666,7 +18671,7 @@
       "Name": "Somebody Call the Wambulance?",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH14",
@@ -18674,7 +18679,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7116
+      "UsersEstimate": 7117
     },
     {
       "ID": "ACH15",
@@ -18682,7 +18687,7 @@
       "Name": "Just Like the Real Thing",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH16",
@@ -18714,7 +18719,7 @@
       "Name": "Don\u0027t Need Roads",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH20",
@@ -18730,7 +18735,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7778
+      "UsersEstimate": 7779
     },
     {
       "ID": "ACH22",
@@ -18746,7 +18751,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4468
+      "UsersEstimate": 4469
     },
     {
       "ID": "ACH24",
@@ -18818,7 +18823,7 @@
       "Name": "City Sleuth",
       "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "ACH33",
@@ -18841,16 +18846,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16550,
-      "Completed": 105
+      "Progressed": 16552,
+      "Completed": 106
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:10:05.4056902+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:10:09.2308361+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:59:07.6647095+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:10:05.4057845+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:58:58.0758532+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:10:09.2309546+00:00"
 }

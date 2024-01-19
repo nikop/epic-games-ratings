@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5058,
+  "EOS_Progressed": 5059,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -13555,6 +13555,11 @@
       "Time": "2024-01-19T12:06:17.8424636+00:00",
       "NumProgressed": 5058,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-19T15:06:00.1468747+00:00",
+      "NumProgressed": 5059,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13638,7 +13643,7 @@
       "Name": "Coloring Rookie",
       "Percentage": 81,
       "XP": 25,
-      "UsersEstimate": 4097
+      "UsersEstimate": 4098
     },
     {
       "ID": "ach_food_completed",
@@ -13670,7 +13675,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1517
+      "UsersEstimate": 1518
     },
     {
       "ID": "ach_no_boosters",
@@ -13686,14 +13691,14 @@
       "Name": "Aeolus",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 1416
+      "UsersEstimate": 1417
     }
   ],
   "AchievementSets": [
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5058,
+      "Progressed": 5059,
       "Completed": 44
     }
   ],
@@ -13701,8 +13706,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:05:56.336812+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:06:00.1468743+00:00",
   "LastUpdate_AppInfo": "2024-01-12T23:57:12.5110716+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:00:23.4906244+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:05:56.3368815+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:00:14.1176227+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:06:00.1469668+00:00"
 }

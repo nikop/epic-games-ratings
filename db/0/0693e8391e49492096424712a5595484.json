@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 61,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 800,
   "EOS_Completed": 56,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7,
   "EosHistory": [
@@ -3370,9 +3370,9 @@
       "ID": "BeggarWomanFishGrilled",
       "SetID": "db30heh",
       "Name": "Tasty Alms",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 88
+      "UsersEstimate": 96
     },
     {
       "ID": "BeggarWomanHut",
@@ -3665,8 +3665,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:04:14.8570191+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:04:16.5011521+00:00",
   "LastUpdate_AppInfo": "2024-01-17T03:57:20.2875868+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:58:56.1650912+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:04:14.8570621+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:58:47.3685068+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:04:16.5011939+00:00"
 }

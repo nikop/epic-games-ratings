@@ -702,9 +702,9 @@
       "ID": "ach_39_mtTopView",
       "SetID": "16n29hg",
       "Name": "View from the Mountaintop",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_40_towerDestroyer",
@@ -750,9 +750,9 @@
       "ID": "ach_45_fullExploreRate",
       "SetID": "16n29hg",
       "Name": "Grand Explorer",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_46_intellectual",
@@ -838,7 +838,7 @@
       "ID": "ach_56_BlackNWhite",
       "SetID": "9je3g3a",
       "Name": "Black \u0026 White",
-      "Percentage": 1,
+      "Percentage": 3,
       "XP": 100,
       "UsersEstimate": 0
     },
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:09:53.0753579+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:09:56.3111383+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.3762964+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:00:23.2561868+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:09:53.07541+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:00:13.9847052+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:09:56.311204+00:00"
 }

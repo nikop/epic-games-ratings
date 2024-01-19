@@ -2,9 +2,9 @@
   "ID": "0eb6d6e85bfe442b87cb1172415d35fb",
   "Name": "Airport CEO",
   "ProductSlug": "airport-ceo-442ecc",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewPlayers": 450,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-01T10:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73,
+  "EOS_Progressed": 74,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -394,6 +394,11 @@
       "Time": "2024-01-19T12:08:40.4841504+00:00",
       "NumProgressed": 73,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T15:06:43.0666573+00:00",
+      "NumProgressed": 74,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-30T08:04:15.025911+00:00",
@@ -420,7 +425,7 @@
       "ID": "AvianVeterinarian",
       "SetID": "d11cl5p",
       "Name": "Avian veterinarian",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
       "UsersEstimate": 15
     },
@@ -524,7 +529,7 @@
       "ID": "NoviceCEO",
       "SetID": "d11cl5p",
       "Name": "Novice CEO",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
       "UsersEstimate": 18
     },
@@ -556,7 +561,7 @@
       "ID": "RegionalAirport",
       "SetID": "d11cl5p",
       "Name": "Regional airport",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 25,
       "UsersEstimate": 18
     },
@@ -677,14 +682,14 @@
     {
       "ID": "d11cl5p",
       "IsBase": true,
-      "Progressed": 73,
+      "Progressed": 74,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-02T13:02:28.4911547+00:00",
   "FirstSeenAchievements": "2023-07-27T10:02:52.8790419+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:08:19.153099+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:06:43.0666568+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:11.4106099+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:59:26.0154166+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:08:19.1531262+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:59:14.2360415+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:06:43.0666799+00:00"
 }

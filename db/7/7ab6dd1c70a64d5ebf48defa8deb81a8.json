@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2387,
+  "EOS_Progressed": 2388,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4805,6 +4805,11 @@
       "Time": "2024-01-19T13:16:26.7639828+00:00",
       "NumProgressed": 2387,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T15:10:19.7931119+00:00",
+      "NumProgressed": 2388,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4824,7 +4829,7 @@
       "Name": "Find Allies",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_03",
@@ -4872,7 +4877,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "ACH_09",
@@ -4880,7 +4885,7 @@
       "Name": "The Mentor",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_10",
@@ -4888,7 +4893,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 835
+      "UsersEstimate": 836
     },
     {
       "ID": "ACH_11",
@@ -5072,7 +5077,7 @@
       "Name": "The Collector",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACH_35",
@@ -5088,7 +5093,7 @@
       "Name": "A Queen\u0027s Tale",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACH_38",
@@ -5103,7 +5108,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2387,
+      "Progressed": 2388,
       "Completed": 5
     }
   ],
@@ -5111,8 +5116,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:10:15.6064252+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:10:19.7931116+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:57:57.293314+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:10:15.6064742+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:57:50.1740133+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:10:19.7931564+00:00"
 }

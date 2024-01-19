@@ -1,27 +1,27 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 243)  
+Rating: 4.69 (Ranked 244)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,130 |
-| Lost and Found | 9.00% | ~726 |
-| Autodidact | 8.00% | ~10,656 |
-| This Belongs in a Museum | 7.00% | ~9,324 |
-| Overdue Notice | 7.00% | ~9,324 |
-| This guy... again? | 7.00% | ~565 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~7,992 |
-| Serenity Now! | 6.00% | ~7,992 |
-| Creep and Sleep | 6.00% | ~7,992 |
-| Meat and Greet | 6.00% | ~7,992 |
-| Catch and Decease | 6.00% | ~7,992 |
-| Escape from the Black Hole | 6.00% | ~7,992 |
-| Rush Hour | 6.00% | ~7,992 |
-| To Grandmother's House | 6.00% | ~7,992 |
-| Ploughshares to Swords | 6.00% | ~484 |
-| Bloody Graduation | 6.00% | ~484 |
+| Malpractice Assurance | 14.00% | ~1,131 |
+| Lost and Found | 9.00% | ~727 |
+| Autodidact | 8.00% | ~10,657 |
+| This Belongs in a Museum | 7.00% | ~9,325 |
+| Overdue Notice | 7.00% | ~9,325 |
+| This guy... again? | 7.00% | ~566 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~7,993 |
+| Serenity Now! | 6.00% | ~7,993 |
+| Creep and Sleep | 6.00% | ~7,993 |
+| Meat and Greet | 6.00% | ~7,993 |
+| Catch and Decease | 6.00% | ~7,993 |
+| Escape from the Black Hole | 6.00% | ~7,993 |
+| Rush Hour | 6.00% | ~7,993 |
+| To Grandmother's House | 6.00% | ~7,993 |
+| Ploughshares to Swords | 6.00% | ~485 |
+| Bloody Graduation | 6.00% | ~485 |
 | It Rings a Bell | 5.00% | ~6,660 |
 | Not Today! | 5.00% | ~6,660 |
 | It Happens | 5.00% | ~6,660 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,203 (Ranked 92)  
+Progressed: 133,210 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,203 | 5 |
+| 2024-01-19 | 133,210 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,752 (Ranked 58)  

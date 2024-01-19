@@ -149,6 +149,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old World Order | 0.40% | ~68 |
 | Pantheon of Gods | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
+| Siege Tower | 0.40% | ~68 |
 | No Undo | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
 | Cothon | 0.40% | ~68 |
@@ -157,7 +158,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
-| Siege Tower | 0.30% | ~51 |
 | Beja Archer | 0.30% | ~51 |
 | Al Khazneh | 0.30% | ~51 |
 | Colosseum | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,990 (Ranked 170)  
+Progressed: 16,991 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 16,990 | 5 |
+| 2024-01-19 | 16,991 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,939 (Ranked 223)  

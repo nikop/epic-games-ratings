@@ -15,8 +15,8 @@ Rating: 4.60 (Ranked 426)
 | Permanent Redesigns | 17.00% | ~718 |
 | Fully Recycled | 16.00% | ~676 |
 | The Ship of Theseus | 16.00% | ~676 |
-| Guy de Borderlands | 15.00% | ~633 |
-| Ain't Nobody Got Time for That | 15.00% | ~633 |
+| Guy de Borderlands | 15.00% | ~634 |
+| Ain't Nobody Got Time for That | 15.00% | ~634 |
 | Hope Seeker | 14.00% | ~591 |
 | A Hunk of Junk | 13.00% | ~549 |
 | Exceeding Capacity | 13.00% | ~549 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 426)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,223 (Ranked 217)  
+Progressed: 4,224 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 4,203 | 0 |
 | 2024-01-17 | 4,209 | 0 |
 | 2024-01-18 | 4,219 | 0 |
-| 2024-01-19 | 4,223 | 0 |
+| 2024-01-19 | 4,224 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3939,10 +3939,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3396,
       "NumberOfAwardsMax": 454
+    },
+    {
+      "Time": "2024-01-19T14:59:34.2231575+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3397,
+      "NumberOfAwardsMax": 454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3396,
+  "NumberOfAwards": 3397,
   "NumberOfAwardsMax": 454,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3986,7 +3992,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 298
+      "Count": 299
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4007,7 +4013,7 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20888,
+  "EOS_Progressed": 20890,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
@@ -20032,6 +20038,11 @@
       "Time": "2024-01-19T14:08:40.246871+00:00",
       "NumProgressed": 20888,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-19T15:08:43.7148938+00:00",
+      "NumProgressed": 20890,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20515,15 +20526,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20888,
+      "Progressed": 20890,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-19T03:00:38.4221467+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:08:40.2468707+00:00",
+  "LastChanged": "2024-01-19T14:59:34.2231574+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:08:43.7148934+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:59:45.8747184+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:08:40.2469853+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:59:34.223158+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:08:43.7150423+00:00"
 }

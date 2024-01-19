@@ -1575,9 +1575,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18427,
+  "EOS_Progressed": 18429,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12220,6 +12220,11 @@
       "Time": "2024-01-19T14:06:26.3648247+00:00",
       "NumProgressed": 18427,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T15:06:31.058644+00:00",
+      "NumProgressed": 18429,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12272,7 +12277,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 12899
+      "UsersEstimate": 12900
     },
     {
       "ID": "achievement_0007",
@@ -12280,7 +12285,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16769
+      "UsersEstimate": 16770
     },
     {
       "ID": "achievement_0008",
@@ -12288,7 +12293,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15294
+      "UsersEstimate": 15296
     },
     {
       "ID": "achievement_0009",
@@ -12304,7 +12309,7 @@
       "Name": "Network Success",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4238
+      "UsersEstimate": 4239
     },
     {
       "ID": "achievement_0011",
@@ -12344,7 +12349,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "achievement_0016",
@@ -12360,7 +12365,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "achievement_0018",
@@ -12392,7 +12397,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12530
+      "UsersEstimate": 12532
     },
     {
       "ID": "achievement_0022",
@@ -12408,7 +12413,7 @@
       "Name": "Sharing the Love",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 6081
+      "UsersEstimate": 6082
     },
     {
       "ID": "achievement_0024",
@@ -12448,7 +12453,7 @@
       "Name": "Spinning Around",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1658
+      "UsersEstimate": 1659
     },
     {
       "ID": "achievement_0029",
@@ -12488,7 +12493,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8476
+      "UsersEstimate": 8477
     },
     {
       "ID": "achievement_0034",
@@ -12496,7 +12501,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4422
+      "UsersEstimate": 4423
     },
     {
       "ID": "achievement_0035",
@@ -12568,7 +12573,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7739
+      "UsersEstimate": 7740
     },
     {
       "ID": "achievement_0044",
@@ -12592,7 +12597,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3685
+      "UsersEstimate": 3686
     },
     {
       "ID": "achievement_0047",
@@ -12623,7 +12628,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18427,
+      "Progressed": 18429,
       "Completed": 0
     }
   ],
@@ -12631,8 +12636,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-18T23:58:36.1257529+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:06:26.3648243+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:06:31.0586436+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:58:16.5851176+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:06:26.3649277+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:58:09.5469222+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:06:31.0587575+00:00"
 }

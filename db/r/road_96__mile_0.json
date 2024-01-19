@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 745,
+  "EOS_Progressed": 747,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2757,6 +2757,11 @@
       "Time": "2024-01-19T12:10:26.8719107+00:00",
       "NumProgressed": 745,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T15:10:12.8469245+00:00",
+      "NumProgressed": 747,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2768,7 +2773,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "completeact2",
@@ -2784,7 +2789,7 @@
       "Name": "On the Road",
       "Percentage": 36,
       "XP": 100,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "findalltapes",
@@ -2840,7 +2845,7 @@
       "Name": "Souvenirs",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "scoreminrankrp1",
@@ -2887,7 +2892,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 745,
+      "Progressed": 747,
       "Completed": 3
     }
   ],
@@ -2895,8 +2900,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:10:09.1419596+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:10:12.8469231+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.9292611+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:02:38.0130465+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:10:09.1419856+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:00:26.4841189+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:10:12.8469503+00:00"
 }

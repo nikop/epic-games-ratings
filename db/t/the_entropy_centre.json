@@ -4,7 +4,7 @@
   "ProductSlug": "the-entropy-centre-40bccd",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewPlayers": 492,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -31,7 +31,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
@@ -1031,6 +1031,11 @@
       "Time": "2024-01-15T09:04:46.8570179+00:00",
       "NumProgressed": 287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T15:04:01.1241811+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 27,
@@ -1082,7 +1087,7 @@
       "Name": "Final Charge",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "ACH_ACT15",
@@ -1112,17 +1117,17 @@
       "ID": "ACH_ACT3",
       "SetID": "2310cb1",
       "Name": "Command Centre",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 146
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_ACT4",
       "SetID": "2310cb1",
       "Name": "This is a Wall",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 126
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ACT5",
@@ -1130,7 +1135,7 @@
       "Name": "Extendable Bridges",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_ACT6",
@@ -1154,15 +1159,15 @@
       "Name": "Bad Robots",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ACH_ACT9",
       "SetID": "2310cb1",
       "Name": "Running Boots",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_ARCHIVIST",
@@ -1232,9 +1237,9 @@
       "ID": "ACH_REWINDTIME",
       "SetID": "2310cb1",
       "Name": "It\u0027s Rewind Time",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 253
     },
     {
       "ID": "ACH_SUMMERLOVE",
@@ -1257,7 +1262,7 @@
     {
       "ID": "2310cb1",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 0
     }
   ],
@@ -1265,8 +1270,8 @@
   "FirstSeenRating": "2023-03-31T13:57:59.7998558+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:41.5023755+00:00",
   "LastChanged": "2023-03-31T13:57:59.7998559+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:03:59.4539699+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:04:01.1241807+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:33.4911212+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:59:23.7437653+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:03:59.4539888+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:59:13.0695809+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:04:01.1242194+00:00"
 }

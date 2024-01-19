@@ -10017,9 +10017,9 @@
       "ID": "REWARD_34_TRIPLE_KILL",
       "SetID": "bm6el81",
       "Name": "Explosive Efficiency",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 817
+      "UsersEstimate": 860
     },
     {
       "ID": "REWARD_35_LORD_OF_WAR",
@@ -10400,8 +10400,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-14T22:57:09.406703+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:09:58.9958328+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:10:02.5047705+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:59:43.0726124+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:09:58.9959226+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:59:31.4451123+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:10:02.550104+00:00"
 }

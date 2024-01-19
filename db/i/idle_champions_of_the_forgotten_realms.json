@@ -9673,9 +9673,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254678,
+  "EOS_Progressed": 254689,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1147,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40788,6 +40788,11 @@
       "Time": "2024-01-19T14:10:25.9986276+00:00",
       "NumProgressed": 254678,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-19T15:10:30.3558594+00:00",
+      "NumProgressed": 254689,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -40799,7 +40804,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10187
+      "UsersEstimate": 10188
     },
     {
       "ID": "objective_completed_10",
@@ -42093,9 +42098,9 @@
       "ID": "objective_completed_184",
       "SetID": "cc37lbc",
       "Name": "Tomb of the Nine Gods",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_185",
@@ -42591,7 +42596,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "objective_completed_390",
@@ -42935,7 +42940,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "objective_completed_54",
@@ -44015,7 +44020,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2037
+      "UsersEstimate": 2038
     },
     {
       "ID": "objective_completed_80",
@@ -45166,21 +45171,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220952,
+      "Progressed": 220963,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254678,
+      "Progressed": 254689,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T11:01:14.5748225+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:10:25.9986272+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:10:30.355859+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:59:52.1118193+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:10:26.0008769+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:59:40.4790968+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:10:30.3582555+00:00"
 }

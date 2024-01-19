@@ -5361,7 +5361,7 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 23999,
+  "EOS_Progressed": 24001,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
@@ -17081,6 +17081,11 @@
       "Time": "2024-01-19T14:09:00.9979161+00:00",
       "NumProgressed": 23999,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T15:09:04.6625466+00:00",
+      "NumProgressed": 24001,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17133,7 +17138,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 16079
+      "UsersEstimate": 16081
     },
     {
       "ID": "ach07",
@@ -17492,7 +17497,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 23999,
+      "Progressed": 24001,
       "Completed": 2
     }
   ],
@@ -17500,8 +17505,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-19T08:03:23.2666658+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:09:00.9979156+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:09:04.6625462+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-19T14:03:00.9372201+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:09:00.9980169+00:00"
+  "LastUpdate_Ratings": "2024-01-19T15:03:01.4764602+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:09:04.6626146+00:00"
 }

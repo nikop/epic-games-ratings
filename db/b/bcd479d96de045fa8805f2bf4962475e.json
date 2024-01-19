@@ -99,9 +99,9 @@
       "ID": "Chapter_Shaman",
       "SetID": "9onb7g0",
       "Name": "Being Alone",
-      "Percentage": 25,
+      "Percentage": 50,
       "XP": 60,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "Chapter_Wanderer",
@@ -202,8 +202,8 @@
   ],
   "FirstSeen": "2023-12-06T11:00:07.1470992+00:00",
   "FirstSeenAchievements": "2023-08-27T17:02:13.4628733+00:00",
-  "LastChanged_Achievements": "2024-01-19T14:10:00.9064949+00:00",
+  "LastChanged_Achievements": "2024-01-19T15:10:04.4847686+00:00",
   "LastUpdate_AppInfo": "2024-01-15T03:57:15.9408478+00:00",
-  "LastUpdate_Ratings": "2024-01-19T13:57:36.8228171+00:00",
-  "LastUpdate_Achievements": "2024-01-19T14:10:00.9065064+00:00"
+  "LastUpdate_Ratings": "2024-01-19T14:57:29.6004313+00:00",
+  "LastUpdate_Achievements": "2024-01-19T15:10:04.4847804+00:00"
 }
