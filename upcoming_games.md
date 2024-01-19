@@ -71,6 +71,7 @@
 | [Expeditions - A MudRunner Game](games/e/ee94837a81864970b189e1031dfcf6fa.md) | 2024-03-05 | - |  | - | - |
 | [Life by You](games/l/life_by_you.md) | 2024-03-05 | - |  | - | - |
 | [Suicide Squad: Kill the Justice League](games/s/suicide_squad__kill_the_justice_league.md) | 2024-03-05 | - |  | - | - |
+| [Return Alive](games/8/8928cedecc5d49e392c61bc44a14b436.md) | 2024-03-06 | - |  | - | - |
 | [Total Reload](games/t/total_reload.md) | 2024-03-07 | - |  | - | - |
 | [Homeworld 3](games/h/homeworld_3.md) | 2024-03-08 | - |  | - | - |
 | [My Sweet Floating in the Void](games/8/8a33892627f0470faf7a76965e29a197.md) | 2024-03-14 | 5 (1,000 XP) | 0 | - | - |
