@@ -26,7 +26,7 @@
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.07% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.82% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.80% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [The Riflemen](games/t/the_riflemen.md) | 16.01% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
@@ -60,10 +60,10 @@
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.23% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.02% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.95% |
+| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 6.93% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.87% |
 | 63 | [Scorn](games/s/scorn.md) | 6.85% |
-| 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.82% |
+| 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.74% |
 | 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.45% |
 | 67 | [Anna's Quest](games/a/anna's_quest.md) | 6.32% |
@@ -76,9 +76,9 @@
 | 73 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
 | 75 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.96% |
 | 76 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
-| 77 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.76% |
-| 78 | [ZZT!](games/z/zzt!.md) | 4.75% |
-| 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.74% |
+| 77 | [ZZT!](games/z/zzt!.md) | 4.75% |
+| 78 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.74% |
+| 79 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
 | 80 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
 | 81 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.51% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.50% |
@@ -143,11 +143,11 @@
 | 141 | [Somerville](games/s/somerville.md) | 1.94% |
 | 142 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.92% |
 | 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.90% |
-| 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
+| 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.83% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 145 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.82% |
-| 147 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.79% |
-| 148 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.78% |
+| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.78% |
+| 147 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
 | 149 | [Sifu](games/s/sifu.md) | 1.71% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 151 | [Frogun](games/f/frogun.md) | 1.66% |
@@ -223,13 +223,13 @@
 | 220 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 222 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
 | 223 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
-| 224 | [Five Dates](games/f/five_dates.md) | 0.51% |
 | 224 | [I Am Future - Cozy Apocalypse Survival](games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 0.51% |
 | 224 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.51% |
 | 224 | [Tails of Iron](games/t/tails_of_iron.md) | 0.51% |
-| 228 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.50% |
-| 228 | [Haven](games/h/haven.md) | 0.50% |
-| 228 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
+| 227 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.50% |
+| 227 | [Five Dates](games/f/five_dates.md) | 0.50% |
+| 227 | [Haven](games/h/haven.md) | 0.50% |
+| 227 | [The Surge 2](games/t/the_surge_2.md) | 0.50% |
 | 231 | [Endling - Extinction is Forever](games/e/endling_-_extinction_is_forever.md) | 0.49% |
 | 232 | [Gigapocalypse](games/g/gigapocalypse.md) | 0.48% |
 | 233 | [Centipede: Recharged](games/c/centipede__recharged.md) | 0.47% |
