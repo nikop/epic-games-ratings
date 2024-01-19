@@ -7,7 +7,7 @@ Rating: 4.56 (Ranked 512)
 | ---- | ---------- | ----- |
 | The Camp | 71.00% | ~1,239 |
 | The Teleprobe | 58.00% | ~1,012 |
-| The City | 52.00% | ~907 |
+| The City | 53.00% | ~925 |
 | The field base | 48.00% | ~838 |
 | The Alliance | 45.00% | ~785 |
 | Survivors | 42.00% | ~733 |
@@ -27,8 +27,8 @@ Rating: 4.56 (Ranked 512)
 | Violent solution | 10.00% | ~174 |
 | I leave no man behind | 10.00% | ~174 |
 | Innate curiosity | 8.00% | ~140 |
+| Ubiquitous holes | 7.00% | ~122 |
 | Strong objection | 7.00% | ~122 |
-| Ubiquitous holes | 6.00% | ~105 |
 | The Invincible | 6.00% | ~105 |
 | Got lost again | 6.00% | ~105 |
 | I leave no man behind (no exceptions) | 2.00% | ~35 |

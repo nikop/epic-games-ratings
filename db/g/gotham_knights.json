@@ -2,7 +2,7 @@
   "ID": "05057ec2d5ea43c3b0701cc1518e0577",
   "Name": "Gotham Knights",
   "ProductSlug": "gotham-knights",
-  "Ranking_Rating": 977,
+  "Ranking_Rating": 978,
   "Ranking_Popularity": 102,
   "Ranking_PopularitySum": 144,
   "Ranking_EOS_Progress": 110,
@@ -5363,9 +5363,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 82989,
+  "EOS_Progressed": 82990,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 443,
+  "EOS_NewPlayers": 442,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30773,6 +30773,11 @@
       "Time": "2024-01-19T09:05:57.4810141+00:00",
       "NumProgressed": 82989,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-19T10:05:57.3493893+00:00",
+      "NumProgressed": 82990,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30904,7 +30909,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11618
+      "UsersEstimate": 11619
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -30936,7 +30941,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4149
+      "UsersEstimate": 4150
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -30998,9 +31003,9 @@
       "ID": "DEFEAT_OC_3",
       "SetID": "4eo5ebm",
       "Name": "Drone You Out",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 8299
+      "UsersEstimate": 7469
     },
     {
       "ID": "FREEZE_1",
@@ -31032,7 +31037,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11618
+      "UsersEstimate": 11619
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -31088,7 +31093,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28216
+      "UsersEstimate": 28217
     },
     {
       "ID": "HARLEY_2",
@@ -31096,7 +31101,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19917
+      "UsersEstimate": 19918
     },
     {
       "ID": "HARLEY_3",
@@ -31128,7 +31133,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41494
+      "UsersEstimate": 41495
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31176,7 +31181,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27386
+      "UsersEstimate": 27387
     },
     {
       "ID": "MYSTERY_02",
@@ -31184,7 +31189,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19917
+      "UsersEstimate": 19918
     },
     {
       "ID": "MYSTERY_03",
@@ -31216,7 +31221,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11618
+      "UsersEstimate": 11619
     },
     {
       "ID": "MYSTERY_07",
@@ -31271,13 +31276,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 82989,
+      "Progressed": 82990,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53269,
+      "Progressed": 53270,
       "Completed": 2680
     }
   ],
@@ -31285,8 +31290,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-18T21:57:46.9193765+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:05:57.4810139+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:05:57.3493889+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:57:34.3351708+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:05:57.4811585+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:57:36.8401883+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:05:57.3495429+00:00"
 }

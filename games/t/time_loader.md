@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Screwdriver | 58.00% | ~85 |
-| Springs | 55.00% | ~80 |
-| Soap | 37.00% | ~54 |
+| Screwdriver | 59.00% | ~86 |
+| Springs | 56.00% | ~82 |
+| Soap | 38.00% | ~55 |
 | Purr-fect | 34.00% | ~50 |
+| Wrench | 31.00% | ~45 |
 | Act 1 | 31.00% | ~45 |
-| Wrench | 30.00% | ~44 |
 | Capacitors | 30.00% | ~44 |
 | Mug | 27.00% | ~39 |
 | Soldering iron | 27.00% | ~39 |

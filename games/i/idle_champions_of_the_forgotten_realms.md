@@ -17,8 +17,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.80% | ~2,037 |
 | Friendly Imps | 0.80% | ~2,037 |
 | Welcome to Sigil | 0.80% | ~1,767 |
-| A Persistent Buzzing | 0.70% | ~1,782 |
-| Pure Energy | 0.70% | ~1,782 |
+| A Persistent Buzzing | 0.70% | ~1,783 |
+| Pure Energy | 0.70% | ~1,783 |
 | Fast Food | 0.70% | ~1,546 |
 | Terror in the Dark | 0.60% | ~1,528 |
 | Maddening | 0.50% | ~1,273 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,639 (Ranked 71)  
+Progressed: 254,644 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,10 +827,10 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,639 | 2,624 |
+| 2024-01-19 | 254,644 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
-Sum: 33,552 (Ranked 41)  
+Sum: 33,554 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -838,8 +838,8 @@ Diff (max vs sum): 33
 | This game has Diverse Characters | 5,731 |
 | This game has Quickly Understood Controls | 4,916 |
 | This game is Relaxing | 4,789 |
+| This game is Highly Recommended | 4,339 |
 | This game has Amazing Characters | 4,339 |
-| This game is Highly Recommended | 4,337 |
 | This game has Playful Visuals | 3,648 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1202,4 +1202,4 @@ Diff (max vs sum): 33
 | 2024-01-16 | 4.07 | - | 5,786 | 33,532 |
 | 2024-01-17 | 4.07 | - | 5,786 | 33,533 |
 | 2024-01-18 | 4.07 | - | 5,792 | 33,543 |
-| 2024-01-19 | 4.07 | - | 5,792 | 33,552 |
+| 2024-01-19 | 4.07 | - | 5,792 | 33,554 |

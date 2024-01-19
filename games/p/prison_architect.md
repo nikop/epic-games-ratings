@@ -6,15 +6,15 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 25.00% | ~54,629 |
-| Get Busy Living | 15.00% | ~32,778 |
-| Samuel Norton | 9.00% | ~19,667 |
+| Stone Walls | 25.00% | ~54,634 |
+| Get Busy Living | 15.00% | ~32,780 |
+| Samuel Norton | 9.00% | ~19,668 |
 | Spare The Rod | 4.00% | ~8,741 |
 | Don't Put Me In The Dark | 3.00% | ~6,556 |
 | Wait and Hope | 3.00% | ~6,556 |
 | I May Have Found A Way Out Of Here | 3.00% | ~6,556 |
-| Throw The Book At Them | 2.00% | ~4,370 |
-| Iron Bars | 2.00% | ~4,370 |
+| Throw The Book At Them | 2.00% | ~4,371 |
+| Iron Bars | 2.00% | ~4,371 |
 | D.B. Cooper | 1.00% | ~2,185 |
 | Reformation | 0.60% | ~1,311 |
 | Crowd Control | 0.50% | ~1,093 |
@@ -23,7 +23,7 @@ Number of Ratings: 4,491  (23.09.2022)
 | It's Not What You Know... | 0.10% | ~219 |
 | ... It's What You Can Prove | 0.10% | ~219 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 218,517 (Ranked 81)  
+Progressed: 218,534 (Ranked 81)  
 Completed: 13 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -297,10 +297,10 @@ Completed: 13 (0.01%) (Ranked 379)
 | 2024-01-16 | 217,461 | 13 |
 | 2024-01-17 | 217,984 | 13 |
 | 2024-01-18 | 218,404 | 13 |
-| 2024-01-19 | 218,517 | 13 |
+| 2024-01-19 | 218,534 | 13 |
 ## Awards
 Max (Great for Beginners): 645  (Ranked 202)  
-Sum: 4,941 (Ranked 155)  
+Sum: 4,942 (Ranked 155)  
 Diff (max vs sum): 47  
 | Award | Count |
 | ----- | ----- |
@@ -310,7 +310,7 @@ Diff (max vs sum): 47
 | This game has Quickly Understood Controls | 583 |
 | This game is Relaxing | 576 |
 | This game has Diverse Characters | 548 |
-| This game has Amazing Storytelling | 521 |
+| This game has Amazing Storytelling | 522 |
 | This game has Amazing Characters | 481 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 379 |
@@ -679,4 +679,4 @@ Diff (max vs sum): 47
 | 2024-01-16 | 4.61 | - | 640 | 4,919 |
 | 2024-01-17 | 4.61 | - | 642 | 4,930 |
 | 2024-01-18 | 4.61 | - | 645 | 4,940 |
-| 2024-01-19 | 4.61 | - | 645 | 4,941 |
+| 2024-01-19 | 4.61 | - | 645 | 4,942 |

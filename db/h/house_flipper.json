@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-08-05T17:00:00+00:00",
     "PcReleaseDate": "2018-05-17T15:00:00+00:00",
@@ -2319,9 +2319,9 @@
       "Count": 225
     }
   ],
-  "EOS_Progressed": 22183,
+  "EOS_Progressed": 22184,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13564,6 +13564,11 @@
       "Time": "2024-01-19T08:06:29.6070491+00:00",
       "NumProgressed": 22183,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-19T10:05:20.0043593+00:00",
+      "NumProgressed": 22184,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 23,
@@ -13623,7 +13628,7 @@
       "Name": "First money",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 21074
+      "UsersEstimate": 21075
     },
     {
       "ID": "GameOver",
@@ -13639,7 +13644,7 @@
       "Name": "I\u0027m Belieber",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "JackTarinton",
@@ -13758,15 +13763,15 @@
     {
       "ID": "d0jo315",
       "IsBase": true,
-      "Progressed": 22183,
+      "Progressed": 22184,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:22:51.6478792+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:55.5141968+00:00",
   "LastChanged": "2024-01-17T13:04:23.3855034+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:05:17.2957551+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:05:20.0043589+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.8721647+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:59:47.430011+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:05:17.2958347+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:59:37.0673279+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:05:20.0044338+00:00"
 }

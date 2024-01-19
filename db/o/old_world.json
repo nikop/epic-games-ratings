@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 127,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2254,10 +2254,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1938,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-19T10:02:54.9677398+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1939,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1938,
+  "NumberOfAwards": 1939,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2313,7 +2319,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 199
+      "Count": 200
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2336,7 +2342,7 @@
   ],
   "EOS_Progressed": 16989,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 502,
+  "EOS_NewPlayers": 500,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21800,9 +21806,9 @@
       "ID": "ACHIEVEMENT_HITTITE_IRON",
       "SetID": "9201eeb",
       "Name": "Hittite Iron",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ACROPOLIS",
@@ -22128,9 +22134,9 @@
       "ID": "ACHIEVEMENT_NATION_HITTITE",
       "SetID": "9201eeb",
       "Name": "Hatti",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_NATION_PERSIA",
@@ -22624,9 +22630,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -23264,9 +23270,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_COTHON",
       "SetID": "9201eeb",
       "Name": "Cothon",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HELIOPOLIS",
@@ -23365,9 +23371,9 @@
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-19T05:03:01.2557251+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:10:33.4645922+00:00",
+  "LastChanged": "2024-01-19T10:02:54.9677394+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:10:38.3753571+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:02:41.4196005+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:10:33.4656741+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:02:54.9677401+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:10:38.3762926+00:00"
 }

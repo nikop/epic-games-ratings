@@ -42,12 +42,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stone Touch | 0.80% | ~1,946 |
 | Shadow Walker | 0.80% | ~1,946 |
 | Flesh Wound | 0.80% | ~1,946 |
+| Shapeshifting | 0.80% | ~1,946 |
 | Consecutive Curses | 0.70% | ~1,702 |
 | Just Chilling | 0.70% | ~1,702 |
 | Save Our Souls | 0.70% | ~1,702 |
 | Acid Bath | 0.70% | ~1,702 |
 | New Perspectives | 0.70% | ~1,702 |
-| Shapeshifting | 0.70% | ~1,702 |
 | Expensive Look | 0.70% | ~33 |
 | What Doesn't Kill You | 0.70% | ~33 |
 | To The Death! | 0.60% | ~1,459 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,193 (Ranked 75)  
+Progressed: 243,194 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -419,7 +419,7 @@ Completed: 309 (0.13%) (Ranked 306)
 | 2024-01-16 | 243,080 | 307 |
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
-| 2024-01-19 | 243,193 | 309 |
+| 2024-01-19 | 243,194 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  

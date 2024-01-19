@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75946,
+  "EOS_Progressed": 75949,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1296,
+  "EOS_NewPlayers": 1292,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -7862,6 +7862,11 @@
       "Time": "2024-01-19T09:08:55.3629934+00:00",
       "NumProgressed": 75946,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-19T10:09:07.0963388+00:00",
+      "NumProgressed": 75949,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -7874,7 +7879,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28100
+      "UsersEstimate": 28101
     },
     {
       "ID": "Achievement_10",
@@ -7962,7 +7967,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21265
+      "UsersEstimate": 21266
     },
     {
       "ID": "Achievement_20",
@@ -8145,7 +8150,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 75946,
+      "Progressed": 75949,
       "Completed": 128
     }
   ],
@@ -8153,8 +8158,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:08:55.3629932+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:09:07.0963386+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:00:15.5303519+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:08:55.3630605+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:00:03.6480817+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:09:07.0963852+00:00"
 }

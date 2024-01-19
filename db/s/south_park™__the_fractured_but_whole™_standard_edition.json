@@ -4,11 +4,11 @@
   "ProductSlug": "south-park-the-fractured-but-whole",
   "Ranking_Rating": 40,
   "Ranking_Popularity": 304,
-  "Ranking_PopularitySum": 420,
+  "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2017-10-16T10:00:00+00:00",
     "PcReleaseDate": null,
@@ -901,6 +901,6 @@
   "FirstSeen": "2022-07-22T20:17:01.7638488+00:00",
   "LastChanged": "2024-01-19T07:01:48.3420142+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.8372454+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:00:45.9065083+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:04:50.8258782+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:02:42.5309036+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:04:55.0607785+00:00"
 }

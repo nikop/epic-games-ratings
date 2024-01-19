@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 221,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -387,10 +387,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 218,
       "NumberOfAwardsMax": 155
+    },
+    {
+      "Time": "2024-01-19T09:59:46.9537954+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 220,
+      "NumberOfAwardsMax": 155
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 218,
+  "NumberOfAwards": 220,
   "NumberOfAwardsMax": 155,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -404,7 +410,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 22
+      "Count": 24
     },
     {
       "Text": "This game is Extremely Fun",
@@ -419,7 +425,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11814,
+  "EOS_Progressed": 11816,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 683,
   "EOS_NewCompleters": 0,
@@ -5439,6 +5445,11 @@
       "Time": "2024-01-19T07:11:03.4071099+00:00",
       "NumProgressed": 11814,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T10:10:29.4498139+00:00",
+      "NumProgressed": 11816,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5451,7 +5462,7 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2599
+      "UsersEstimate": 2600
     },
     {
       "ID": "03_TheStolenStar",
@@ -5459,7 +5470,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5779,7 +5790,7 @@
       "Name": "No Place Like Home",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1181
+      "UsersEstimate": 1182
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -5803,7 +5814,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "47_AFlame",
@@ -5970,16 +5981,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11814,
+      "Progressed": 11816,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-19T07:00:46.3361651+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:10:23.7105948+00:00",
+  "LastChanged": "2024-01-19T09:59:46.9537952+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:10:29.4498137+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:59:57.6808754+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:10:23.7106721+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:59:46.9537956+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:10:29.4498874+00:00"
 }

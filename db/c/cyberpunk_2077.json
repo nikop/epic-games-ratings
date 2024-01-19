@@ -18710,10 +18710,10 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1054735,
-  "EOS_Completed": 3124,
-  "EOS_NewPlayers": 7489,
-  "EOS_NewCompleters": 50,
+  "EOS_Progressed": 1054764,
+  "EOS_Completed": 3125,
+  "EOS_NewPlayers": 7461,
+  "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50090,6 +50090,11 @@
       "Time": "2024-01-19T09:09:08.2492212+00:00",
       "NumProgressed": 1054735,
       "NumCompleted": 3124
+    },
+    {
+      "Time": "2024-01-19T10:09:18.9267502+00:00",
+      "NumProgressed": 1054764,
+      "NumCompleted": 3125
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50118,7 +50123,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "Cyberjunkie",
@@ -50142,7 +50147,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "Fortuneteller",
@@ -50174,7 +50179,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "Gunslinger",
@@ -50190,7 +50195,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "IAmMaxTac",
@@ -50198,7 +50203,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -50230,7 +50235,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "MustBeTheRats",
@@ -50374,7 +50379,7 @@
       "Name": "The World",
       "Percentage": 0.2,
       "XP": 90,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "ThisIsPacifica",
@@ -50396,9 +50401,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3164
+      "UsersEstimate": 4219
     },
     {
       "ID": "TrueWarrior",
@@ -50406,7 +50411,7 @@
       "Name": "True Warrior",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -50414,7 +50419,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "UnderPressure",
@@ -50422,7 +50427,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2109
+      "UsersEstimate": 2110
     },
     {
       "ID": "VForVendetta",
@@ -50637,21 +50642,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054735,
-      "Completed": 3124
+      "Progressed": 1054764,
+      "Completed": 3125
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183358,
+      "Progressed": 183387,
       "Completed": 10654
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-19T06:03:20.2493981+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:09:08.2492209+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:09:18.92675+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:03:10.1233363+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:09:08.2494355+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:03:20.8314918+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:09:18.9269225+00:00"
 }

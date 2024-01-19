@@ -6,8 +6,8 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 28.00% | ~3,727 |
-| A Spark | 20.00% | ~2,662 |
+| Devoured by Darkness | 28.00% | ~3,728 |
+| A Spark | 20.00% | ~2,663 |
 | Burning City | 19.00% | ~2,529 |
 | Mythic Choices | 16.00% | ~2,130 |
 | Defender's Heart | 16.00% | ~2,130 |
@@ -26,10 +26,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | A Flame | 5.00% | ~666 |
 | Next-Door Play | 5.00% | ~666 |
 | Get the Toad | 5.00% | ~666 |
-| Heart of the Fallen Land | 4.00% | ~532 |
-| Divide and Rule | 4.00% | ~532 |
-| Mythic Reinforcements | 4.00% | ~532 |
-| Hey, I Know You! | 4.00% | ~532 |
+| Heart of the Fallen Land | 4.00% | ~533 |
+| Divide and Rule | 4.00% | ~533 |
+| Mythic Reinforcements | 4.00% | ~533 |
+| Hey, I Know You! | 4.00% | ~533 |
 | Path of the Trickster | 3.00% | ~399 |
 | Path of the Lich | 3.00% | ~399 |
 | Heroic Victory | 3.00% | ~399 |
@@ -53,7 +53,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | This Wall Won't Fall | 1.00% | ~121 |
 | Not the Last Sarkorian | 1.00% | ~121 |
 | End of Eternal Guard | 0.90% | ~120 |
-| Playful Mood | 0.80% | ~106 |
+| Playful Mood | 0.80% | ~107 |
 | Masterful Charge | 0.70% | ~93 |
 | Dreadful Dragon | 0.70% | ~93 |
 | Prelate's Nemesis | 0.50% | ~67 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,312 (Ranked 179)  
+Progressed: 13,313 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 13,298 | 0 |
 | 2024-01-17 | 13,303 | 0 |
 | 2024-01-18 | 13,311 | 0 |
-| 2024-01-19 | 13,312 | 0 |
+| 2024-01-19 | 13,313 | 0 |
 ## Awards
 Max (Character Customization): 1,785  (Ranked 133)  
 Sum: 7,237 (Ranked 127)  

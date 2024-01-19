@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 414,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1033,9 +1033,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8367,
+  "EOS_Progressed": 8368,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14233,6 +14233,11 @@
       "Time": "2024-01-19T03:09:26.503735+00:00",
       "NumProgressed": 8367,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T10:09:06.581624+00:00",
+      "NumProgressed": 8368,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14260,7 +14265,7 @@
       "Name": "Hey Good Hookin",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "ACHIEVEMENT_004",
@@ -14284,7 +14289,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1171
+      "UsersEstimate": 1172
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -14563,13 +14568,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8367,
+      "Progressed": 8368,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7739,
+      "Progressed": 7740,
       "Completed": 113
     }
   ],
@@ -14577,8 +14582,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-17T10:59:19.7573316+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:08:54.9006469+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:09:06.5816234+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:00:40.7778313+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:08:54.9007532+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:02:37.9421415+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:09:06.5817298+00:00"
 }

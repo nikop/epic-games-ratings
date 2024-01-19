@@ -68,7 +68,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | No Mercy | 1.00% | ~81 |
 | Slap on the Wrist | 1.00% | ~81 |
 | For Old Time' Sake | 1.00% | ~81 |
-| Et Tu, Riposte? | 0.90% | ~72 |
+| Et Tu, Riposte? | 0.90% | ~73 |
 | The World As It Was | 0.80% | ~1,065 |
 | A Life Well Lived | 0.70% | ~932 |
 | Bacon Bits | 0.70% | ~932 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,185 (Ranked 92)  
+Progressed: 133,187 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,10 +350,10 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,185 | 5 |
+| 2024-01-19 | 133,187 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
-Sum: 21,750 (Ranked 58)  
+Sum: 21,752 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +362,7 @@ Diff (max vs sum): -6
 | This game has Challenging Combat | 1,686 |
 | This game is Highly Recommended | 1,610 |
 | This game has Amazing Characters | 1,539 |
-| This game is Extremely Fun | 1,530 |
+| This game is Extremely Fun | 1,532 |
 | This game has Unique Visuals | 1,478 |
 | This game has Amazing Storytelling | 1,458 |
 | This game has Quickly Understood Controls | 1,427 |
@@ -728,3 +728,4 @@ Diff (max vs sum): -6
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
+| 2024-01-19 | 4.69 | - | 8,044 | 21,752 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 90,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243193,
+  "EOS_Progressed": 243194,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 385,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32314,6 +32314,11 @@
       "Time": "2024-01-19T09:10:32.306128+00:00",
       "NumProgressed": 243193,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-19T10:10:37.3533955+00:00",
+      "NumProgressed": 243194,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33123,9 +33128,9 @@
       "ID": "TRANSFORM20TIMES",
       "SetID": "5l8oe0h",
       "Name": "Shapeshifting",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1702
+      "UsersEstimate": 1946
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -33428,13 +33433,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243193,
+      "Progressed": 243194,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4673,
+      "Progressed": 4674,
       "Completed": 429
     }
   ],
@@ -33442,8 +33447,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:10:32.3061278+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:10:37.3533953+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:59:19.94008+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:10:32.3064067+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:59:13.0715671+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:10:37.3536459+00:00"
 }

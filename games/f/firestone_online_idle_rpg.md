@@ -27,8 +27,8 @@ Rating: 4.10 (Ranked 1,025)
 | Superior | 11.00% | ~510 |
 | The Unstoppable | 11.00% | ~510 |
 | Milestone collector | 10.00% | ~463 |
+| Scientist | 10.00% | ~463 |
 | Doing My Part | 9.00% | ~417 |
-| Scientist | 9.00% | ~417 |
 | The power of Awakening | 9.00% | ~417 |
 | Challenger | 8.00% | ~371 |
 | Daily Quest Completionist | 8.00% | ~371 |

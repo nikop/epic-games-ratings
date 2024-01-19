@@ -10966,10 +10966,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21750,
       "NumberOfAwardsMax": 8044
+    },
+    {
+      "Time": "2024-01-19T09:57:17.221153+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21752,
+      "NumberOfAwardsMax": 8044
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21750,
+  "NumberOfAwards": 21752,
   "NumberOfAwardsMax": 8044,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10995,7 +11001,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1530
+      "Count": 1532
     },
     {
       "Text": "This game has Challenging Combat",
@@ -11046,9 +11052,9 @@
       "Count": 1104
     }
   ],
-  "EOS_Progressed": 133185,
+  "EOS_Progressed": 133187,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 662,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40566,6 +40572,11 @@
       "Time": "2024-01-19T09:10:19.5141709+00:00",
       "NumProgressed": 133185,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T10:10:25.5313505+00:00",
+      "NumProgressed": 133187,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41153,7 +41164,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -41208,21 +41219,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133185,
+      "Progressed": 133187,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8054,
+      "Progressed": 8056,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-18T22:57:22.7656101+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:10:19.5141708+00:00",
+  "LastChanged": "2024-01-19T09:57:17.2211529+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:10:25.5313502+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:57:12.706958+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:10:19.5143269+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:57:17.2211535+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:10:25.5315584+00:00"
 }

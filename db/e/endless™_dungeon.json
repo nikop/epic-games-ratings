@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1573,
+  "EOS_Progressed": 1574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3585,6 +3585,11 @@
       "Time": "2024-01-19T08:08:16.2165883+00:00",
       "NumProgressed": 1573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T10:08:25.5584521+00:00",
+      "NumProgressed": 1574,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3651,9 +3656,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 440
+      "UsersEstimate": 456
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3773,7 +3778,7 @@
       "Name": "Long Live Rock",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 267
+      "UsersEstimate": 268
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -3836,14 +3841,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1573,
+      "Progressed": 1574,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:08:10.0127481+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:08:25.5584518+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.5515902+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:59:49.2223102+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:08:10.0127938+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:59:39.0070197+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:08:25.5585038+00:00"
 }

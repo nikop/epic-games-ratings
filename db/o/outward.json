@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4808,
+  "EOS_Progressed": 4809,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8509,6 +8509,11 @@
       "Time": "2024-01-19T08:06:38.0178379+00:00",
       "NumProgressed": 4808,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T10:05:26.1806515+00:00",
+      "NumProgressed": 4809,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8560,7 +8565,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "CrowdPleaser",
@@ -8576,7 +8581,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "Eureka_23",
@@ -8584,7 +8589,7 @@
       "Name": "Eureka",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8616,7 +8621,7 @@
       "Name": "Hold my Mead and Watch This",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "HomeSweetHome_25",
@@ -8632,7 +8637,7 @@
       "Name": "House of Cards",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "LegacyOfaMasterHunter_55",
@@ -8648,7 +8653,7 @@
       "Name": "Let \u2018em eat magma!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "LightofLevant_18",
@@ -8768,7 +8773,7 @@
       "Name": "The power of ambition",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "ThePowerofFaith_4",
@@ -8855,15 +8860,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4808,
+      "Progressed": 4809,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:05:23.975895+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:05:26.1806512+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:03:03.6441516+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:05:23.9759684+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:03:14.8069143+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:05:26.1807223+00:00"
 }

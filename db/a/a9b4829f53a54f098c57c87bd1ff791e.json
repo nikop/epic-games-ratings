@@ -2,10 +2,10 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 768,
+  "Ranking_EOS_Progress": 745,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
     "PcReleaseDate": "2022-09-27T20:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-01-18T15:05:24.3810568+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T10:05:45.0096496+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -82,9 +87,9 @@
       "ID": "DEMO_END",
       "SetID": "39bcm6",
       "Name": "The End...?",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 40,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "END_IS_NEVER",
@@ -92,7 +97,7 @@
       "Name": "Playtest Report",
       "Percentage": 100,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "FALL_DEATH",
@@ -114,9 +119,9 @@
       "ID": "HAMMER_ACQUIRE",
       "SetID": "39bcm6",
       "Name": "J-MC Hammer",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "IMMOVABLE",
@@ -138,25 +143,25 @@
       "ID": "LEVEL_2_ENTER",
       "SetID": "39bcm6",
       "Name": "Not Out of the Metaphorical Woods",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "LEVEL_3_ENTER",
       "SetID": "39bcm6",
       "Name": "Just a Slight Detour",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MICROWAVE",
       "SetID": "39bcm6",
       "Name": "BRRRRRRRRRRRRRRRRRRRRRR",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 45,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "MMM_SODER",
@@ -170,7 +175,7 @@
       "ID": "OAT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "What a Triumph",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 25,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "SPEED",
       "SetID": "39bcm6",
       "Name": "game SUCK i go to BED",
-      "Percentage": 100,
+      "Percentage": 50,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -210,9 +215,9 @@
       "ID": "VENT_ENDING",
       "SetID": "39bcm6",
       "Name": "Take a Break",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "VENT_TRIUMPH",
@@ -235,13 +240,13 @@
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:05:44.4552507+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:05:45.0096492+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:59:43.487779+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:05:44.4552764+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:59:33.637962+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:05:45.0096639+00:00"
 }

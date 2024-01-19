@@ -2,12 +2,12 @@
   "ID": "67eb392889234b4d99a6562c5e60c825",
   "Name": "The Suicide of Rachel Foster",
   "ProductSlug": "the-suicide-of-rachel-foster-1dc01b",
-  "Ranking_Rating": 977,
+  "Ranking_Rating": 978,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -265,7 +265,7 @@
   "Tags": [],
   "EOS_Progressed": 1851,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.21,
   "EosHistory": [
@@ -4438,8 +4438,8 @@
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:04:51.1804913+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:04:55.3892048+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:38.1764581+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:02:53.831197+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:04:51.1805327+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:03:05.7821175+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:04:55.3892316+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "33fcce6151b249118a2b7d79c1dfe6b1",
   "Name": "Lil\u0027 Guardsman",
   "ProductSlug": "lil-guardsman-3cf46c",
-  "Ranking_EOS_Progress": 768,
+  "Ranking_EOS_Progress": 769,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2024-01-23T18:00:00+00:00",
     "PcReleaseDate": "2024-01-23T18:00:00+00:00",
@@ -432,8 +432,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:05:11.4417158+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:05:14.6422958+00:00",
   "LastUpdate_AppInfo": "2024-01-15T21:56:57.6094315+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:59:03.1536287+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:05:11.4417474+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:58:57.7945429+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:05:14.6423237+00:00"
 }

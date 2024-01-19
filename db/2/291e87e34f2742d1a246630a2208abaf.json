@@ -2,13 +2,13 @@
   "ID": "291e87e34f2742d1a246630a2208abaf",
   "Name": "Dragonheir: Silent Gods",
   "ProductSlug": "dragonheir-silent-gods-559a4c",
-  "Ranking_Rating": 977,
+  "Ranking_Rating": 970,
   "Ranking_Popularity": 462,
-  "Ranking_PopularitySum": 399,
+  "Ranking_PopularitySum": 398,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 546,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 547,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-18T00:00:00+00:00",
     "PcReleaseDate": "2023-09-18T00:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.19,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-09-23T08:59:11.6504535+00:00",
@@ -1067,10 +1067,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 263,
       "NumberOfAwardsMax": 51
+    },
+    {
+      "Time": "2024-01-19T09:59:22.1555547+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 265,
+      "NumberOfAwardsMax": 51
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 263,
+  "NumberOfAwards": 265,
   "NumberOfAwardsMax": 51,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1096,7 +1102,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 28
+      "Count": 30
     },
     {
       "Text": "This game has Amazing Characters",
@@ -1135,8 +1141,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-18T10:02:38.3470906+00:00",
   "FirstSeenRating": "2023-09-23T08:59:11.6504531+00:00",
-  "LastChanged": "2024-01-18T22:00:22.9193986+00:00",
+  "LastChanged": "2024-01-19T09:59:22.1555545+00:00",
   "LastUpdate_AppInfo": "2024-01-15T13:02:50.3859972+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:59:30.1571672+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:04:23.4658419+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:59:22.155555+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:04:29.3998492+00:00"
 }

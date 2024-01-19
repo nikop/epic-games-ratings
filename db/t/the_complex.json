@@ -2,10 +2,10 @@
   "ID": "e462ded8eeed40d7b81015ca87cdb5d8",
   "Name": "The Complex",
   "ProductSlug": "the-complex-0ca5bb",
-  "Ranking_EOS_Progress": 314,
+  "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 122,
-  "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 854,
+  "EOS_Progressed": 855,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.58,
+  "EOS_Completed_Percentage": 2.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:48.1616312+00:00",
@@ -1955,6 +1955,11 @@
       "Time": "2024-01-19T05:10:04.9586868+00:00",
       "NumProgressed": 854,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-19T10:10:08.5838238+00:00",
+      "NumProgressed": 855,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -1974,7 +1979,7 @@
       "Name": "Blast From The Past",
       "Percentage": 82,
       "XP": 25,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "deadly_secret",
@@ -1982,7 +1987,7 @@
       "Name": "Deadly Secret",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "ending_1",
@@ -2030,7 +2035,7 @@
       "Name": "Stalemate",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 179
+      "UsersEstimate": 180
     },
     {
       "ID": "ending_7",
@@ -2068,17 +2073,17 @@
       "ID": "kamikaze",
       "SetID": "d4f4pll",
       "Name": "Kamikaze",
-      "Percentage": 63,
+      "Percentage": 62,
       "XP": 100,
-      "UsersEstimate": 538
+      "UsersEstimate": 530
     },
     {
       "ID": "kindar_surprise",
       "SetID": "d4f4pll",
       "Name": "Kindar Surprise",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 137
     },
     {
       "ID": "not_a_people_person",
@@ -2102,15 +2107,15 @@
       "Name": "Storage Hunter",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "the_rebel_and_the_doctor",
       "SetID": "d4f4pll",
       "Name": "The Rebel And The Doctor",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 478
+      "UsersEstimate": 470
     },
     {
       "ID": "tough_decision",
@@ -2118,14 +2123,14 @@
       "Name": "Tough Decision",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 854,
+      "Progressed": 855,
       "Completed": 22
     }
   ],
@@ -2133,8 +2138,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:10:01.2142549+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:10:08.5838235+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.2781267+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:02:53.9718748+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:10:01.2142776+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:03:05.927114+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:10:08.5838417+00:00"
 }

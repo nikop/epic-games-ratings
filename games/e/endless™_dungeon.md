@@ -7,12 +7,12 @@
 | Leap Before You Look | 68.00% | ~1,070 |
 | Getting the Hang of It | 42.00% | ~661 |
 | Hoarder | 33.00% | ~519 |
-| Pest Control | 28.00% | ~440 |
+| Pest Control | 29.00% | ~456 |
 | Exhaustive Explorer | 27.00% | ~425 |
 | Blobmeister | 26.00% | ~409 |
 | How Low Can We Go? | 24.00% | ~378 |
 | Team Builder | 20.00% | ~315 |
-| Long Live Rock | 17.00% | ~267 |
+| Long Live Rock | 17.00% | ~268 |
 | Aggressive Antivirus | 15.00% | ~236 |
 | Unblurred Lines | 12.00% | ~189 |
 | Obsessively Thorough | 12.00% | ~189 |
@@ -35,7 +35,7 @@
 | Cruising Speed | 0.00% | ~0 |
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,573 (Ranked 268)  
+Progressed: 1,574 (Ranked 268)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -131,4 +131,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 1,555 | 0 |
 | 2024-01-17 | 1,561 | 0 |
 | 2024-01-18 | 1,565 | 0 |
-| 2024-01-19 | 1,573 | 0 |
+| 2024-01-19 | 1,574 | 0 |

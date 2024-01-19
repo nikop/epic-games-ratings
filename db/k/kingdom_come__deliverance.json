@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10179,9 +10179,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818136,
+  "EOS_Progressed": 818137,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1103,
+  "EOS_NewPlayers": 1098,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41184,6 +41184,11 @@
       "Time": "2024-01-19T09:10:28.3015265+00:00",
       "NumProgressed": 818136,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-19T10:10:33.9487432+00:00",
+      "NumProgressed": 818137,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41283,7 +41288,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122720
+      "UsersEstimate": 122721
     },
     {
       "ID": "Buddy",
@@ -41307,7 +41312,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212715
+      "UsersEstimate": 212716
     },
     {
       "ID": "Chivalrous",
@@ -41395,7 +41400,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 188171
+      "UsersEstimate": 188172
     },
     {
       "ID": "Fighter",
@@ -41850,15 +41855,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818136,
+      "Progressed": 818137,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-19T03:01:22.325709+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:10:28.3015264+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:10:33.9487427+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-19T09:00:14.1253085+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:10:28.3017254+00:00"
+  "LastUpdate_Ratings": "2024-01-19T10:00:02.7644882+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:10:33.9489087+00:00"
 }

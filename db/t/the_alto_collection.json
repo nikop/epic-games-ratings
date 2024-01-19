@@ -2,13 +2,13 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 221,
+  "Ranking_Rating": 220,
   "Ranking_Popularity": 462,
   "Ranking_PopularitySum": 361,
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -988,9 +988,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55369,
+  "EOS_Progressed": 55371,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 867,
+  "EOS_NewPlayers": 865,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32183,6 +32183,11 @@
       "Time": "2024-01-19T09:04:22.4699842+00:00",
       "NumProgressed": 55369,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T10:04:28.5245117+00:00",
+      "NumProgressed": 55371,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32218,7 +32223,7 @@
       "Name": "Scout",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6644
+      "UsersEstimate": 6645
     },
     {
       "ID": "distance500000",
@@ -32234,7 +32239,7 @@
       "Name": "Rookie",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15503
+      "UsersEstimate": 15504
     },
     {
       "ID": "goals180",
@@ -32274,7 +32279,7 @@
       "Name": "Aviator",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "journeyer",
@@ -32306,7 +32311,7 @@
       "Name": "My Little Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "nomad",
@@ -32322,7 +32327,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8305
+      "UsersEstimate": 8306
     },
     {
       "ID": "playerFelipe",
@@ -32386,7 +32391,7 @@
       "Name": "One With The Board",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 2768
+      "UsersEstimate": 2769
     },
     {
       "ID": "proximityFly1000",
@@ -32402,7 +32407,7 @@
       "Name": "Finding Your Footing",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 13842
+      "UsersEstimate": 13843
     },
     {
       "ID": "sandboarder",
@@ -32505,15 +32510,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55369,
+      "Progressed": 55371,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-16T19:59:32.4683523+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:04:22.4699838+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:04:28.5245114+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:24.1789264+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:57:07.6605082+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:04:22.470221+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:57:12.7700588+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:04:28.5246458+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.60 (Ranked 425)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 34.00% | ~1,435 |
+| Wakey Wakey | 34.00% | ~1,436 |
 | Sputnik 2049 | 30.00% | ~1,267 |
-| Infinite Growth... | 29.00% | ~1,224 |
+| Infinite Growth... | 29.00% | ~1,225 |
 | Without Breaking Some Eggs... | 27.00% | ~1,140 |
-| Space Society | 20.00% | ~844 |
-| A Thousand Strong | 20.00% | ~844 |
-| Ready for a New World | 20.00% | ~844 |
+| Space Society | 20.00% | ~845 |
+| A Thousand Strong | 20.00% | ~845 |
+| Ready for a New World | 20.00% | ~845 |
 | Permanent Redesigns | 17.00% | ~718 |
 | Fully Recycled | 16.00% | ~676 |
 | The Ship of Theseus | 16.00% | ~676 |
@@ -55,7 +55,7 @@ Rating: 4.60 (Ranked 425)
 | Gregor Spinoza | 1.00% | ~42 |
 | Work Harder | 0.70% | ~30 |
 | Soylent Green | 0.60% | ~25 |
-| Crunch Culture | 0.50% | ~21 |
+| Crunch Culture | 0.40% | ~17 |
 | A Junker's Dream | 0.30% | ~13 |
 | Scenic View | 0.20% | ~8 |
 | I Give You the Stars | 0.20% | ~5 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 425)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,222 (Ranked 216)  
+Progressed: 4,223 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 4,203 | 0 |
 | 2024-01-17 | 4,209 | 0 |
 | 2024-01-18 | 4,219 | 0 |
-| 2024-01-19 | 4,222 | 0 |
+| 2024-01-19 | 4,223 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

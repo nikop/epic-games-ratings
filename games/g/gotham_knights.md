@@ -1,17 +1,17 @@
 # Gotham Knights
 [Store](https://store.epicgames.com/en-US/p/gotham-knights)  
 [View Rawdata](../../db/g/gotham_knights.json)  
-Rating: 4.19 (Ranked 977)  
+Rating: 4.19 (Ranked 978)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,494 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,216 |
-| Loose Ends | 33.00% | ~27,386 |
+| First Step Into the Knight | 50.00% | ~41,495 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,217 |
+| Loose Ends | 33.00% | ~27,387 |
 | To the Victor Go the Spoils | 27.00% | ~22,407 |
 | Knighthood | 26.00% | ~21,577 |
-| Get ReQ'd | 24.00% | ~19,917 |
-| Whispered Words | 24.00% | ~19,917 |
+| Get ReQ'd | 24.00% | ~19,918 |
+| Whispered Words | 24.00% | ~19,918 |
 | The Batman Family | 22.00% | ~18,258 |
 | Lock and Key | 22.00% | ~18,258 |
 | Something in the Clay | 20.00% | ~16,598 |
@@ -25,9 +25,9 @@ Rating: 4.19 (Ranked 977)
 | Protector of Gotham | 16.00% | ~13,278 |
 | In Your Element | 15.00% | ~12,448 |
 | Universal Health Scare | 15.00% | ~12,448 |
-| Rock and a Hard Place | 14.00% | ~11,618 |
-| Cooldown | 14.00% | ~11,618 |
-| Voiceless | 14.00% | ~11,618 |
+| Rock and a Hard Place | 14.00% | ~11,619 |
+| Cooldown | 14.00% | ~11,619 |
+| Voiceless | 14.00% | ~11,619 |
 | Shock Til They Drop | 13.00% | ~10,789 |
 | Seeking Asylum | 13.00% | ~10,789 |
 | End of an Era | 12.00% | ~9,959 |
@@ -35,13 +35,13 @@ Rating: 4.19 (Ranked 977)
 | Bulldozed | 12.00% | ~9,959 |
 | Gotham Knight | 12.00% | ~9,959 |
 | Gotham City Confidential | 11.00% | ~9,129 |
-| Drone You Out | 10.00% | ~8,299 |
 | Out of Their League | 9.00% | ~7,469 |
+| Drone You Out | 9.00% | ~7,469 |
 | Solid Alibi | 8.00% | ~6,639 |
 | Fusion Expert | 7.00% | ~5,809 |
 | Family Meeting | 6.00% | ~4,979 |
 | A Worthy Successor | 6.00% | ~4,979 |
-| Expert Crime Fighter | 5.00% | ~4,149 |
+| Expert Crime Fighter | 5.00% | ~4,150 |
 | Dressed to Impress | 4.00% | ~3,320 |
 | A Momentum Occasion | 3.00% | ~2,490 |
 | Bat Out of Hell | 3.00% | ~2,490 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 977)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82,989 (Ranked 110)  
+Progressed: 82,990 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-16 | 82,888 | 135 |
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
-| 2024-01-19 | 82,989 | 135 |
+| 2024-01-19 | 82,990 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,223  (Ranked 102)  
 Sum: 5,508 (Ranked 144)  

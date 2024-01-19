@@ -6,52 +6,52 @@ Number of Ratings: 13,393  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Immovable Object | 89.00% | ~129,798 |
-| Comeback | 82.00% | ~119,590 |
-| Information is Key | 80.00% | ~116,673 |
-| Unlucky | 70.00% | ~102,089 |
-| Anarchist | 68.00% | ~99,172 |
-| Wallhack | 65.00% | ~94,797 |
-| Steady Supply | 60.00% | ~87,505 |
-| Lucky Shot | 53.00% | ~77,296 |
-| Ring Ring! | 52.00% | ~75,837 |
-| Forward Observer | 51.00% | ~74,379 |
-| Bossing Around | 45.00% | ~65,628 |
-| Frostbite | 45.00% | ~65,628 |
-| Night Owl | 44.00% | ~64,170 |
-| Strength in Numbers | 44.00% | ~64,170 |
-| Fog of War | 41.00% | ~59,795 |
-| Stronghold Denied | 39.00% | ~56,878 |
-| Anyone Else? | 38.00% | ~55,420 |
-| Rasputin | 38.00% | ~55,420 |
-| Hydra | 36.00% | ~52,503 |
-| This Belongs to Us Now | 36.00% | ~52,503 |
-| Stronghold | 35.00% | ~51,044 |
-| Leeroy | 33.00% | ~48,128 |
-| Lost Batallion | 33.00% | ~48,128 |
-| This is MY Machine Gun! | 31.00% | ~45,211 |
-| Together As One | 31.00% | ~45,211 |
-| Gavrilo Princip | 27.00% | ~39,377 |
-| Lead Harvest | 25.00% | ~36,460 |
-| Skynet Confirmed | 23.00% | ~33,543 |
-| Kesselschlacht | 22.00% | ~32,085 |
-| Democracy Works! | 20.00% | ~29,168 |
-| Switch, Please! | 19.00% | ~27,710 |
-| At Least This Way I Can Win... | 18.00% | ~26,251 |
-| Tourist | 18.00% | ~26,251 |
-| I've Seen It All | 17.00% | ~24,793 |
-| Oops! | 17.00% | ~24,793 |
+| Immovable Object | 89.00% | ~129,802 |
+| Comeback | 82.00% | ~119,593 |
+| Information is Key | 80.00% | ~116,676 |
+| Unlucky | 70.00% | ~102,092 |
+| Anarchist | 68.00% | ~99,175 |
+| Wallhack | 65.00% | ~94,799 |
+| Steady Supply | 60.00% | ~87,507 |
+| Lucky Shot | 53.00% | ~77,298 |
+| Ring Ring! | 52.00% | ~75,839 |
+| Forward Observer | 51.00% | ~74,381 |
+| Bossing Around | 45.00% | ~65,630 |
+| Frostbite | 45.00% | ~65,630 |
+| Night Owl | 44.00% | ~64,172 |
+| Strength in Numbers | 44.00% | ~64,172 |
+| Fog of War | 41.00% | ~59,796 |
+| Stronghold Denied | 39.00% | ~56,880 |
+| Anyone Else? | 38.00% | ~55,421 |
+| Rasputin | 38.00% | ~55,421 |
+| Hydra | 36.00% | ~52,504 |
+| This Belongs to Us Now | 36.00% | ~52,504 |
+| Stronghold | 35.00% | ~51,046 |
+| Leeroy | 33.00% | ~48,129 |
+| Lost Batallion | 33.00% | ~48,129 |
+| This is MY Machine Gun! | 31.00% | ~45,212 |
+| Together As One | 31.00% | ~45,212 |
+| Gavrilo Princip | 27.00% | ~39,378 |
+| Lead Harvest | 25.00% | ~36,461 |
+| Skynet Confirmed | 23.00% | ~33,544 |
+| Kesselschlacht | 22.00% | ~32,086 |
+| Democracy Works! | 20.00% | ~29,169 |
+| Switch, Please! | 19.00% | ~27,711 |
+| At Least This Way I Can Win... | 18.00% | ~26,252 |
+| Tourist | 18.00% | ~26,252 |
+| I've Seen It All | 17.00% | ~24,794 |
+| Oops! | 17.00% | ~24,794 |
 | Developers, Developers, Developers, Developers! | 16.00% | ~23,335 |
 | Butcher | 12.00% | ~17,501 |
 | Before the Leaves Fall | 10.00% | ~14,584 |
 | Close Call | 10.00% | ~14,584 |
 | Pinpoint | 10.00% | ~14,584 |
 | Tannenberg | 9.00% | ~13,126 |
-| For the Emperor | 8.00% | ~11,667 |
-| Hawk Eye | 8.00% | ~11,667 |
+| For the Emperor | 8.00% | ~11,668 |
+| Hawk Eye | 8.00% | ~11,668 |
 | Equality For All | 7.00% | ~10,209 |
 | Hötzendorf | 7.00% | ~10,209 |
-| Crack Shot | 6.00% | ~8,750 |
+| Crack Shot | 6.00% | ~8,751 |
 | From Russia with Love | 5.00% | ~7,292 |
 | Overachiever | 5.00% | ~7,292 |
 | Your Family Will Be Proud... | 5.00% | ~7,292 |
@@ -74,7 +74,7 @@ Number of Ratings: 13,393  (23.09.2022)
 | Seeing is Believing | 0.90% | ~1,313 |
 | Road to Berlin | 0.60% | ~875 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 145,841 (Ranked 88)  
+Progressed: 145,845 (Ranked 88)  
 Completed: 35 (0.02%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -348,7 +348,7 @@ Completed: 35 (0.02%) (Ranked 369)
 | 2024-01-16 | 145,575 | 35 |
 | 2024-01-17 | 145,678 | 35 |
 | 2024-01-18 | 145,813 | 35 |
-| 2024-01-19 | 145,841 | 35 |
+| 2024-01-19 | 145,845 | 35 |
 ## Awards
 Max (Competitive Players): 336  (Ranked 254)  
 Sum: 3,304 (Ranked 181)  

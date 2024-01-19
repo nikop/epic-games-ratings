@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 250,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2276,
+  "EOS_Progressed": 2277,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8796,6 +8796,11 @@
       "Time": "2024-01-18T20:08:27.974116+00:00",
       "NumProgressed": 2276,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T10:03:38.2702284+00:00",
+      "NumProgressed": 2277,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8919,7 +8924,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 341
+      "UsersEstimate": 342
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -8973,9 +8978,9 @@
       "ID": "objective_key_alliance_help_2",
       "SetID": "bm61c2p",
       "Name": "Brothers in Arms",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 137
     },
     {
       "ID": "objective_key_alliance_join_1",
@@ -8983,7 +8988,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 637
+      "UsersEstimate": 638
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -9110,7 +9115,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2276,
+      "Progressed": 2277,
       "Completed": 1
     }
   ],
@@ -9118,8 +9123,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:03:27.9712711+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:03:38.2702279+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:59:11.3107318+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:03:27.9713562+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:59:05.6300176+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:03:38.2702872+00:00"
 }

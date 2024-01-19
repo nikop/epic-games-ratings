@@ -71,6 +71,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Champions | 1.00% | ~170 |
 | Sages | 1.00% | ~170 |
 | Statesmen | 1.00% | ~170 |
+| Hittite Iron | 1.00% | ~170 |
 | Colossus | 1.00% | ~170 |
 | Temple of Solomon | 1.00% | ~170 |
 | Mausoleum | 1.00% | ~170 |
@@ -85,10 +86,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Victorious | 0.90% | ~153 |
 | Landowners | 0.90% | ~153 |
 | Patrons | 0.90% | ~153 |
-| Hittite Iron | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
 | Dualism | 0.90% | ~153 |
 | Legalism | 0.90% | ~153 |
+| Double Victory | 0.90% | ~153 |
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
 | Capable | 0.80% | ~136 |
@@ -104,7 +105,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 4 | 0.80% | ~136 |
 | Military Prestige | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
-| Double Victory | 0.80% | ~136 |
 | Invincible | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
@@ -150,6 +150,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.40% | ~68 |
 | No Undo | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
+| Cothon | 0.40% | ~68 |
 | Jebel Barkal | 0.40% | ~68 |
 | The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
@@ -158,7 +159,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.30% | ~51 |
 | Siege Tower | 0.30% | ~51 |
 | Al Khazneh | 0.30% | ~51 |
-| Cothon | 0.30% | ~51 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
 | Silver Victory (Carthage 1) | 0.20% | ~34 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
@@ -174,6 +174,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | A Good Start | 0.20% | ~34 |
 | Tell the Spartans | 0.20% | ~34 |
 | Assyria | 0.20% | ~34 |
+| Hatti | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Free-For-All Game (>2 Players) | 0.20% | ~34 |
 | Circus Maximus in Roma | 0.20% | ~34 |
@@ -264,7 +265,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Medo-Babylonian Conquest | 0.10% | ~17 |
 | Merchants of the Levant | 0.10% | ~17 |
 | Realistic Mortality | 0.10% | ~17 |
-| Hatti | 0.10% | ~17 |
 | Play a 1-v-1 Game | 0.10% | ~17 |
 | Play a Hotseat Game | 0.10% | ~17 |
 | Play a LAN Game | 0.10% | ~17 |
@@ -642,7 +642,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-19 | 16,989 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,938 (Ranked 223)  
+Sum: 1,939 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
@@ -653,7 +653,7 @@ Diff (max vs sum): 64
 | This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
 | This game has Amazing Characters | 204 |
-| This game has Amazing Storytelling | 199 |
+| This game has Amazing Storytelling | 200 |
 | This game has Quickly Understood Controls | 198 |
 | This game has Obsessive Gameplay | 155 |
 | This game has a Creative Community | 101 |
@@ -856,4 +856,4 @@ Diff (max vs sum): 64
 | 2024-01-16 | 4.65 | - | 230 | 1,933 |
 | 2024-01-17 | 4.65 | - | 230 | 1,936 |
 | 2024-01-18 | 4.65 | - | 230 | 1,937 |
-| 2024-01-19 | 4.65 | - | 230 | 1,938 |
+| 2024-01-19 | 4.65 | - | 230 | 1,939 |

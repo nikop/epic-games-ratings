@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 511,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 291,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -461,9 +461,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15062,
+  "EOS_Progressed": 15064,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 394,
+  "EOS_NewPlayers": 388,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10876,6 +10876,11 @@
       "Time": "2024-01-19T09:10:20.4976749+00:00",
       "NumProgressed": 15062,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-19T10:10:26.3472519+00:00",
+      "NumProgressed": 15064,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10896,7 +10901,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6175
+      "UsersEstimate": 6176
     },
     {
       "ID": "BeLikeWater",
@@ -10920,7 +10925,7 @@
       "Name": "Chewing The Scenery",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "ConnectionLost",
@@ -10960,7 +10965,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8284
+      "UsersEstimate": 8285
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11032,7 +11037,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4368
+      "UsersEstimate": 4369
     },
     {
       "ID": "NoMoreTotems",
@@ -11080,7 +11085,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3916
+      "UsersEstimate": 3917
     },
     {
       "ID": "TheQuarterback",
@@ -11088,7 +11093,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6477
+      "UsersEstimate": 6478
     },
     {
       "ID": "ThisIsDharma",
@@ -11159,7 +11164,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15062,
+      "Progressed": 15064,
       "Completed": 27
     }
   ],
@@ -11167,8 +11172,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-18T17:57:24.8025675+00:00",
-  "LastChanged_Achievements": "2024-01-19T09:10:20.4976747+00:00",
+  "LastChanged_Achievements": "2024-01-19T10:10:26.3472517+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-19T08:57:25.0611802+00:00",
-  "LastUpdate_Achievements": "2024-01-19T09:10:20.497763+00:00"
+  "LastUpdate_Ratings": "2024-01-19T09:57:28.3396585+00:00",
+  "LastUpdate_Achievements": "2024-01-19T10:10:26.3473058+00:00"
 }
