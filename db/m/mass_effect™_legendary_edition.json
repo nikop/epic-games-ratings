@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4474,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -9048,9 +9048,9 @@
       "ID": "achievement_39",
       "SetID": "b9pe172",
       "Name": "Ghost Ship",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1074
     },
     {
       "ID": "achievement_4",
@@ -9596,8 +9596,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:59:57.9094393+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:37:10.9450247+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:53:09.9290338+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:59:57.9096027+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:29:58.2614516+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:37:10.945189+00:00"
 }

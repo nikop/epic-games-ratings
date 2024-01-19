@@ -2,7 +2,7 @@
   "ID": "2b96380a243e4883bb007b67b78b18c1",
   "Name": "SPIRITUS",
   "ProductSlug": "spiritus-b0efa2",
-  "Ranking_EOS_Progress": 684,
+  "Ranking_EOS_Progress": 685,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 550,
   "Ranking_EOS_NewCompleters": 153,
@@ -166,8 +166,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-04T09:03:31.3588011+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:54:58.9010919+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:32:40.6985502+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:16.1014394+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:48:31.536897+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:54:58.9011002+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:25:50.5269027+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:32:40.6985577+00:00"
 }

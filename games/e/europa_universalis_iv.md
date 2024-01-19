@@ -6,7 +6,7 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.70% | ~3,509 |
+| Until death do us apart | 0.70% | ~3,510 |
 | That's a Grand Army | 0.60% | ~3,008 |
 | Victorious! | 0.60% | ~3,008 |
 | That is mine! | 0.50% | ~2,507 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Raja of the Rajput Reich | 0.00% | ~0 |
 | Foremost Servitor of Jagannath | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 501,354 (Ranked 42)  
+Progressed: 501,362 (Ranked 42)  
 Completed: 1 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -644,7 +644,7 @@ Completed: 1 (0.00%) (Ranked 405)
 | 2024-01-16 | 500,203 | 1 |
 | 2024-01-17 | 500,790 | 1 |
 | 2024-01-18 | 501,312 | 1 |
-| 2024-01-19 | 501,354 | 1 |
+| 2024-01-19 | 501,362 | 1 |
 ## Awards
 Max (Educational): 7,890  (Ranked 53)  
 Sum: 65,057 (Ranked 24)  

@@ -43,8 +43,8 @@
 | Broke, Blind, and Bedlam | 26.00% | ~1,163 |
 | Veteran | 25.00% | ~1,118 |
 | Driven | 25.00% | ~1,118 |
+| Ghost Ship | 24.00% | ~1,074 |
 | The Assassin | 24.00% | ~1,074 |
-| Ghost Ship | 23.00% | ~1,029 |
 | The Justicar | 23.00% | ~1,029 |
 | The Quarian | 23.00% | ~1,029 |
 | The Prodigal | 23.00% | ~1,029 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2386,
+  "EOS_Progressed": 2387,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3274,6 +3274,11 @@
       "Time": "2024-01-19T01:59:06.8851904+00:00",
       "NumProgressed": 2386,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T02:35:59.0663605+00:00",
+      "NumProgressed": 2387,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -3310,7 +3315,7 @@
       "Name": "Fastest lap",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "FASTEST_LAP_10",
@@ -3334,7 +3339,7 @@
       "Name": "Greener",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "FINISHED_10",
@@ -3390,7 +3395,7 @@
       "Name": "Podium finisher",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "PODIUM_10",
@@ -3406,7 +3411,7 @@
       "Name": "Good driver",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "REGISTER",
@@ -3414,7 +3419,7 @@
       "Name": "On the starting grid",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "RESEARCHED_2",
@@ -3422,7 +3427,7 @@
       "Name": "Generation 2",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "RESEARCHED_3",
@@ -3526,7 +3531,7 @@
       "Name": "Newcomer",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "XP_1000",
@@ -3565,14 +3570,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2386,
+      "Progressed": 2387,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:59:06.88519+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:35:59.06636+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:36.1155547+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:49:41.0349128+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:59:06.8852236+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:27:37.7604618+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:35:59.0664023+00:00"
 }

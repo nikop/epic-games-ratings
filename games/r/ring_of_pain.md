@@ -48,6 +48,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Acid Bath | 0.70% | ~1,702 |
 | New Perspectives | 0.70% | ~1,702 |
 | Shapeshifting | 0.70% | ~1,702 |
+| Expensive Look | 0.70% | ~33 |
 | What Doesn't Kill You | 0.70% | ~33 |
 | To The Death! | 0.60% | ~1,459 |
 | Well Prepared | 0.60% | ~1,459 |
@@ -56,7 +57,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stop Hitting Yourself | 0.60% | ~1,459 |
 | Doing Time | 0.60% | ~1,459 |
 | Spreading Plague | 0.60% | ~1,459 |
-| Expensive Look | 0.60% | ~28 |
 | Thank You, Friend | 0.50% | ~1,216 |
 | Shadow Spreads | 0.50% | ~1,216 |
 | Max Damage! | 0.50% | ~1,216 |

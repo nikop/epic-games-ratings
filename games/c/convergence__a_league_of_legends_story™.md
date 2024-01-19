@@ -5,11 +5,11 @@ Rating: 4.66 (Ranked 304)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~629 |
+| Time Heals All Wounds | 47.00% | ~630 |
 | Rail Rat | 36.00% | ~482 |
 | The Mysterious Stranger | 35.00% | ~469 |
 | Immaculate Aim | 30.00% | ~402 |
-| The Brass Boss | 29.00% | ~388 |
+| The Brass Boss | 29.00% | ~389 |
 | Time Flies | 28.00% | ~375 |
 | Make Up For Lost Time | 27.00% | ~362 |
 | No, Thanks! | 27.00% | ~362 |
@@ -19,21 +19,21 @@ Rating: 4.66 (Ranked 304)
 | The Harder They Fall | 26.00% | ~348 |
 | Fast Learner | 26.00% | ~348 |
 | The Steel Shadow | 25.00% | ~335 |
-| Breaking Down Barriers | 24.00% | ~321 |
-| The Wicked Twins | 24.00% | ~321 |
+| Breaking Down Barriers | 24.00% | ~322 |
+| The Wicked Twins | 24.00% | ~322 |
 | Right On Time | 23.00% | ~308 |
 | Golem Chaser | 23.00% | ~308 |
 | Like Clockwork | 22.00% | ~295 |
 | The Betrayer | 22.00% | ~295 |
 | Check Your Pulse | 21.00% | ~281 |
 | The Loose Cannon | 20.00% | ~268 |
-| Street Style | 19.00% | ~254 |
-| The Man Who Shattered Time | 19.00% | ~254 |
-| The Family Fortune | 19.00% | ~254 |
+| Street Style | 19.00% | ~255 |
+| The Man Who Shattered Time | 19.00% | ~255 |
+| The Family Fortune | 19.00% | ~255 |
 | Whiz Kid | 16.00% | ~214 |
 | Good Neighbor | 16.00% | ~214 |
-| Family Memories | 14.00% | ~187 |
-| Ask Questions Later | 14.00% | ~187 |
+| Family Memories | 14.00% | ~188 |
+| Ask Questions Later | 14.00% | ~188 |
 | Chaincrawler Explorer | 13.00% | ~174 |
 | Syron for Hope | 13.00% | ~174 |
 | Treasure Trove | 12.00% | ~161 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 304)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,339 (Ranked 282)  
+Progressed: 1,340 (Ranked 282)  
 Completed: 8 (0.60%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -239,6 +239,7 @@ Completed: 8 (0.60%) (Ranked 215)
 | 2024-01-16 | 1,333 | 8 |
 | 2024-01-17 | 1,335 | 8 |
 | 2024-01-18 | 1,339 | 8 |
+| 2024-01-19 | 1,340 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

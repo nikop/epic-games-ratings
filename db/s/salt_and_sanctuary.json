@@ -3042,9 +3042,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 544726,
+  "EOS_Progressed": 544727,
   "EOS_Completed": 1689,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 663,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -33442,6 +33442,11 @@
       "Time": "2024-01-19T01:54:49.732867+00:00",
       "NumProgressed": 544726,
       "NumCompleted": 1689
+    },
+    {
+      "Time": "2024-01-19T02:32:27.4388289+00:00",
+      "NumProgressed": 544727,
+      "NumCompleted": 1689
     }
   ],
   "TotalAchievements": 37,
@@ -33565,7 +33570,7 @@
       "Name": "The Banquet",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 217890
+      "UsersEstimate": 217891
     },
     {
       "ID": "THE_CASTLE",
@@ -33725,7 +33730,7 @@
       "Name": "The Village",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 92603
+      "UsersEstimate": 92604
     },
     {
       "ID": "THE_ZIGGURAT",
@@ -33748,15 +33753,15 @@
     {
       "ID": "7f6ck5n",
       "IsBase": true,
-      "Progressed": 544726,
+      "Progressed": 544727,
       "Completed": 1689
     }
   ],
   "FirstSeen": "2022-07-22T20:30:22.0983018+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:33.582631+00:00",
   "LastChanged": "2024-01-17T19:00:06.7804227+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:54:49.7328665+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:32:27.4388285+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:31.9396789+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:49:52.3855032+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:54:49.7330019+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:28:44.785156+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:32:27.4389806+00:00"
 }

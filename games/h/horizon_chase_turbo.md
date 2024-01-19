@@ -6,13 +6,13 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~995,941 |
-| I Need a Bigger Garage | 63.00% | ~697,159 |
-| Pump my Ride | 47.00% | ~520,102 |
-| Ghostbuster | 34.00% | ~376,244 |
-| Call Roadside Assistance | 18.00% | ~199,188 |
-| That Was Close | 18.00% | ~199,188 |
-| Quickie | 11.00% | ~121,726 |
+| The First of Many | 90.00% | ~995,945 |
+| I Need a Bigger Garage | 63.00% | ~697,162 |
+| Pump my Ride | 47.00% | ~520,105 |
+| Ghostbuster | 34.00% | ~376,246 |
+| Call Roadside Assistance | 18.00% | ~199,189 |
+| That Was Close | 18.00% | ~199,189 |
+| Quickie | 11.00% | ~121,727 |
 | California Dreamer | 7.00% | ~77,462 |
 | Can't Touch This | 5.00% | ~55,330 |
 | Carménère Taster | 4.00% | ~44,264 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,213 |
 | Transporter | 0.10% | ~1,107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,106,601 (Ranked 15)  
+Progressed: 1,106,606 (Ranked 15)  
 Completed: 537 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,17 +318,17 @@ Completed: 537 (0.05%) (Ranked 344)
 | 2024-01-16 | 1,105,837 | 535 |
 | 2024-01-17 | 1,106,202 | 535 |
 | 2024-01-18 | 1,106,557 | 536 |
-| 2024-01-19 | 1,106,601 | 537 |
+| 2024-01-19 | 1,106,606 | 537 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 312)  
-Sum: 1,654 (Ranked 237)  
+Sum: 1,655 (Ranked 237)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 187 |
 | This game is Great for Quick Sessions | 159 |
 | This game has Diverse Characters | 157 |
-| This game has Quickly Understood Controls | 151 |
+| This game has Quickly Understood Controls | 152 |
 | This game is Relaxing | 146 |
 | This game is Highly Recommended | 142 |
 | This game has Competitive Players | 135 |
@@ -638,4 +638,4 @@ Diff (max vs sum): 75
 | 2024-01-15 | 4.54 | - | 187 | 1,652 |
 | 2024-01-16 | 4.54 | - | 187 | 1,653 |
 | 2024-01-18 | 4.55 | - | 187 | 1,653 |
-| 2024-01-19 | 4.55 | - | 187 | 1,654 |
+| 2024-01-19 | 4.55 | - | 187 | 1,655 |

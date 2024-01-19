@@ -537,7 +537,7 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258210,
+  "EOS_Progressed": 258211,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 627,
   "EOS_NewCompleters": 0,
@@ -31222,6 +31222,11 @@
       "Time": "2024-01-19T01:53:41.7610359+00:00",
       "NumProgressed": 258210,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T02:30:47.9043536+00:00",
+      "NumProgressed": 258211,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31449,7 +31454,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64552
+      "UsersEstimate": 64553
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31465,7 +31470,7 @@
       "Name": "Good listener",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 12910
+      "UsersEstimate": 12911
     },
     {
       "ID": "ACH_LETSOTHERTHINKING",
@@ -31553,7 +31558,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64552
+      "UsersEstimate": 64553
     },
     {
       "ID": "ACH_SOREAD",
@@ -31648,7 +31653,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258210,
+      "Progressed": 258211,
       "Completed": 8
     }
   ],
@@ -31656,8 +31661,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:53:41.7610355+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:30:47.9043528+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:52:39.9295874+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:53:41.7611941+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:29:11.4440762+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:30:47.9045164+00:00"
 }

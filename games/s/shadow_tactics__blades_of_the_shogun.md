@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~227 |
 | Release the Kraken | 0.10% | ~227 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 226,747 (Ranked 80)  
+Progressed: 226,748 (Ranked 80)  
 Completed: 108 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 108 (0.05%) (Ranked 344)
 | 2024-01-16 | 226,388 | 107 |
 | 2024-01-17 | 226,537 | 108 |
 | 2024-01-18 | 226,722 | 108 |
-| 2024-01-19 | 226,747 | 108 |
+| 2024-01-19 | 226,748 | 108 |
 ## Awards
 Max (Great for Beginners): 595  (Ranked 213)  
 Sum: 4,963 (Ranked 154)  

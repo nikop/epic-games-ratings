@@ -2,9 +2,9 @@
   "ID": "173d783680df4fba92423e189f6df67d",
   "Name": "Kids Learn",
   "ProductSlug": "kids-learn-e4a163",
-  "Ranking_EOS_Progress": 684,
-  "Ranking_EOS_Completed": 8,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_Progress": 680,
+  "Ranking_EOS_Completed": 11,
+  "Ranking_EOS_NewPlayers": 435,
   "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-12-01T18:30:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 42.86,
+  "EOS_Completed_Percentage": 37.5,
   "EosHistory": [
     {
       "Time": "2023-11-28T18:03:15.3881622+00:00",
@@ -72,6 +72,11 @@
       "Time": "2024-01-18T12:06:21.1984367+00:00",
       "NumProgressed": 7,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-19T02:33:57.5937236+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-28T18:03:15.3892997+00:00",
@@ -82,7 +87,7 @@
       "ID": "KIDS_LEARN_1",
       "SetID": "68ndjm7",
       "Name": "Beginner Winner",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -90,15 +95,15 @@
       "ID": "KIDS_LEARN_2",
       "SetID": "68ndjm7",
       "Name": "Expert Winner",
-      "Percentage": 57,
+      "Percentage": 63,
       "XP": 200,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "KIDS_LEARN_3",
       "SetID": "68ndjm7",
       "Name": "Champion Winner",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -106,7 +111,7 @@
       "ID": "KIDS_LEARN_4",
       "SetID": "68ndjm7",
       "Name": "Alphabets Hard Winner",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -114,7 +119,7 @@
       "ID": "KIDS_LEARN_5",
       "SetID": "68ndjm7",
       "Name": "Recognize Numbers Level Winner",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 200,
       "UsersEstimate": 3
     }
@@ -123,13 +128,13 @@
     {
       "ID": "68ndjm7",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 3
     }
   ],
   "FirstSeenAchievements": "2023-11-28T18:03:15.3892997+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:55:52.3681251+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:33:57.5937232+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:02.870259+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:49:17.5349588+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:55:52.368163+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:27:02.2479229+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:33:57.5937303+00:00"
 }

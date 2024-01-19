@@ -12,36 +12,36 @@ Rating: 4.54 (Ranked 551)
 | Martian Music | 14.00% | ~2,681 |
 | Bosmang | 14.00% | ~2,681 |
 | Impossible Objects | 14.00% | ~2,681 |
-| Drone Dodger | 13.00% | ~2,489 |
+| Drone Dodger | 13.00% | ~2,490 |
 | Stogie for Fogey | 12.00% | ~2,298 |
 | Spore Taste | 12.00% | ~2,298 |
 | Zen Master | 11.00% | ~561 |
 | Call it Even | 10.00% | ~1,915 |
 | Safe Cracker | 10.00% | ~510 |
 | Madame Undersecretary | 10.00% | ~510 |
-| Heal Thy Medic | 9.00% | ~1,723 |
+| Heal Thy Medic | 9.00% | ~1,724 |
 | Data Archivist | 8.00% | ~1,532 |
 | Drug Gifter | 8.00% | ~1,532 |
 | Thorston Mayer | 8.00% | ~1,532 |
 | Khan's Revenge | 8.00% | ~1,532 |
 | Keep Arjun in Check | 8.00% | ~408 |
-| Doctor Approved | 7.00% | ~1,340 |
-| Bottoms up! | 7.00% | ~1,340 |
+| Doctor Approved | 7.00% | ~1,341 |
+| Bottoms up! | 7.00% | ~1,341 |
 | Master Negotiator | 6.00% | ~306 |
-| Data Logger | 5.00% | ~957 |
-| Miraculous Maya | 5.00% | ~957 |
+| Data Logger | 5.00% | ~958 |
+| Miraculous Maya | 5.00% | ~958 |
 | Data Master | 4.00% | ~766 |
 | No Belter Left Behind | 3.00% | ~574 |
 | Brother's Reaper | 2.00% | ~383 |
 | Debris Spree | 2.00% | ~383 |
 | Data Recoverer | 2.00% | ~383 |
-| Urshanabi Hoarder | 1.00% | ~191 |
+| Urshanabi Hoarder | 1.00% | ~192 |
 | Grave Robber | 0.80% | ~153 |
 | Data Miner | 0.70% | ~134 |
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,148 (Ranked 159)  
+Progressed: 19,150 (Ranked 159)  
 Completed: 66 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -222,7 +222,7 @@ Completed: 66 (0.34%) (Ranked 254)
 | 2024-01-16 | 19,084 | 66 |
 | 2024-01-17 | 19,116 | 66 |
 | 2024-01-18 | 19,145 | 66 |
-| 2024-01-19 | 19,148 | 66 |
+| 2024-01-19 | 19,150 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -19,14 +19,14 @@ Number of Ratings: 76  (23.09.2022)
 | Uptown and Downtown | 11.00% | ~119 |
 | Squirrel Smasher | 11.00% | ~119 |
 | Toxic Terror | 10.00% | ~108 |
-| Life's as extreme as you wanna make it! | 9.00% | ~97 |
-| Hit Rock Bottom | 9.00% | ~97 |
+| Life's as extreme as you wanna make it! | 9.00% | ~98 |
+| Hit Rock Bottom | 9.00% | ~98 |
 | Keep it Rolling | 8.00% | ~87 |
 | Shrimp Catcher | 8.00% | ~87 |
 | Ultra Spatula Seeker | 8.00% | ~87 |
+| Robot encyclopedia | 7.00% | ~76 |
 | Are you ready now? | 7.00% | ~76 |
 | Hello, Bikini Bottom | 7.00% | ~76 |
-| Robot encyclopedia | 6.00% | ~65 |
 | The Small Does Not Rule | 5.00% | ~54 |
 | Ship Shape | 5.00% | ~54 |
 | Shanghaied | 5.00% | ~54 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~11 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,083 (Ranked 296)  
+Progressed: 1,084 (Ranked 295)  
 Completed: 9 (0.83%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 9 (0.83%) (Ranked 195)
 | 2024-01-16 | 1,056 | 9 |
 | 2024-01-17 | 1,070 | 9 |
 | 2024-01-18 | 1,081 | 9 |
-| 2024-01-19 | 1,083 | 9 |
+| 2024-01-19 | 1,084 | 9 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

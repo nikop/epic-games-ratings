@@ -33373,9 +33373,9 @@
       "ID": "SPEND200SOULSONREROLLANDDISCARD",
       "SetID": "1peahb6",
       "Name": "Expensive Look",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 33
     },
     {
       "ID": "SURVIVE60DAMAGESWAMPNEST",
@@ -33412,8 +33412,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:59:58.6108723+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:37:11.8555817+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:48:34.8575729+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:59:58.6111184+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:25:55.0774198+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:37:11.8558442+00:00"
 }

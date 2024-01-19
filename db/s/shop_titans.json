@@ -8165,11 +8165,17 @@
       "Rating": 4,
       "NumberOfAwards": 28013,
       "NumberOfAwardsMax": 4964
+    },
+    {
+      "Time": "2024-01-19T02:29:53.2230379+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28015,
+      "NumberOfAwardsMax": 4966
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28013,
-  "NumberOfAwardsMax": 4964,
+  "NumberOfAwards": 28015,
+  "NumberOfAwardsMax": 4966,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8188,7 +8194,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4964
+      "Count": 4966
     },
     {
       "Text": "This game has Easy Combat",
@@ -8221,9 +8227,9 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 151888,
+  "EOS_Progressed": 151892,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1105,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37256,6 +37262,11 @@
       "Time": "2024-01-19T01:58:54.83122+00:00",
       "NumProgressed": 151888,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-19T02:35:41.6856821+00:00",
+      "NumProgressed": 151892,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 112,
@@ -37267,7 +37278,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     },
     {
       "ID": "advlevel02",
@@ -37347,7 +37358,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9113
+      "UsersEstimate": 9114
     },
     {
       "ID": "bigsale02",
@@ -37371,7 +37382,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9113
+      "UsersEstimate": 9114
     },
     {
       "ID": "blueprint02",
@@ -37403,7 +37414,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     },
     {
       "ID": "boss02",
@@ -37619,7 +37630,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9113
+      "UsersEstimate": 9114
     },
     {
       "ID": "energy02",
@@ -37747,7 +37758,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9113
+      "UsersEstimate": 9114
     },
     {
       "ID": "gold03",
@@ -37819,7 +37830,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     },
     {
       "ID": "jackslot02",
@@ -37923,7 +37934,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7594
+      "UsersEstimate": 7595
     },
     {
       "ID": "master02",
@@ -38131,7 +38142,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9113
+      "UsersEstimate": 9114
     },
     {
       "ID": "workers02",
@@ -38162,15 +38173,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 151888,
+      "Progressed": 151892,
       "Completed": 359
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-18T17:08:52.8665089+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:58:54.8312193+00:00",
+  "LastChanged": "2024-01-19T02:29:53.2230377+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:35:41.6856816+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:53:06.5301664+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:58:54.831462+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:29:53.2230381+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:35:41.6859137+00:00"
 }

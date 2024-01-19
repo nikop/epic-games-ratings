@@ -5,24 +5,24 @@ Rating: 4.72 (Ranked 196)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,502 |
-| First of Many | 12.00% | ~35,502 |
-| Not Your Average Trait | 10.00% | ~29,585 |
-| Expanding Horizons | 9.00% | ~26,627 |
-| Gleaming the Cube | 8.00% | ~23,668 |
-| Quest for Survival | 8.00% | ~23,668 |
-| Familiar Face | 8.00% | ~23,668 |
-| Boss'n Up | 8.00% | ~23,668 |
-| Trait Chaser | 8.00% | ~23,668 |
+| The Killing Jar | 12.00% | ~35,504 |
+| First of Many | 12.00% | ~35,504 |
+| Not Your Average Trait | 10.00% | ~29,586 |
+| Expanding Horizons | 9.00% | ~26,628 |
+| Gleaming the Cube | 8.00% | ~23,669 |
+| Quest for Survival | 8.00% | ~23,669 |
+| Familiar Face | 8.00% | ~23,669 |
+| Boss'n Up | 8.00% | ~23,669 |
+| Trait Chaser | 8.00% | ~23,669 |
 | Not So Special Now | 7.00% | ~20,710 |
 | Not a Janitor | 7.00% | ~20,710 |
 | Duality | 7.00% | ~20,710 |
-| Equal Measures | 6.00% | ~17,751 |
-| Blue Goddess | 6.00% | ~17,751 |
-| Top Performer | 6.00% | ~17,751 |
-| Almost There | 6.00% | ~17,751 |
-| Make Some Room | 6.00% | ~17,751 |
-| Good, But Could Be Better! | 6.00% | ~17,751 |
+| Equal Measures | 6.00% | ~17,752 |
+| Blue Goddess | 6.00% | ~17,752 |
+| Top Performer | 6.00% | ~17,752 |
+| Almost There | 6.00% | ~17,752 |
+| Make Some Room | 6.00% | ~17,752 |
+| Good, But Could Be Better! | 6.00% | ~17,752 |
 | Am I Seeing This? | 5.00% | ~14,793 |
 | Chaos | 5.00% | ~14,793 |
 | Power Surge | 5.00% | ~14,793 |
@@ -31,14 +31,14 @@ Rating: 4.72 (Ranked 196)
 | Shhh...It's a Secret | 5.00% | ~14,793 |
 | Was This Supposed To Happen? | 5.00% | ~14,793 |
 | The Web | 5.00% | ~14,793 |
-| Traitor | 4.00% | ~11,834 |
-| Forever is a Long Time Coming | 4.00% | ~11,834 |
-| Madman's Paradise | 4.00% | ~11,834 |
-| The Agenda | 4.00% | ~11,834 |
-| Bad Moon Rising | 4.00% | ~11,834 |
-| Strapped | 4.00% | ~11,834 |
-| Scrap Collector | 4.00% | ~11,834 |
-| All These Traits� | 4.00% | ~11,834 |
+| Traitor | 4.00% | ~11,835 |
+| Forever is a Long Time Coming | 4.00% | ~11,835 |
+| Madman's Paradise | 4.00% | ~11,835 |
+| The Agenda | 4.00% | ~11,835 |
+| Bad Moon Rising | 4.00% | ~11,835 |
+| Strapped | 4.00% | ~11,835 |
+| Scrap Collector | 4.00% | ~11,835 |
+| All These Traits� | 4.00% | ~11,835 |
 | Tall Tales | 3.00% | ~8,876 |
 | Edgelord | 3.00% | ~8,876 |
 | Scrap Hoarder | 3.00% | ~8,876 |
@@ -54,14 +54,14 @@ Rating: 4.72 (Ranked 196)
 | The Trigger | 2.00% | ~5,917 |
 | The Collector | 2.00% | ~5,917 |
 | Maxed Out! | 2.00% | ~5,917 |
-| Master of the Dark Arts | 2.00% | ~1,500 |
+| Master of the Dark Arts | 2.00% | ~1,501 |
 | Cutting Edge | 1.00% | ~2,959 |
 | Proving Grounds | 1.00% | ~2,959 |
 | Succession | 0.80% | ~600 |
 | You Shall Pass | 0.80% | ~600 |
 | A Foul Feast | 0.50% | ~375 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 295,852 (Ranked 66)  
+Progressed: 295,864 (Ranked 66)  
 Completed: 1,140 (0.39%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,14 +248,14 @@ Completed: 1,140 (0.39%) (Ranked 249)
 | 2024-01-16 | 294,750 | 1,101 |
 | 2024-01-17 | 295,280 | 1,119 |
 | 2024-01-18 | 295,787 | 1,138 |
-| 2024-01-19 | 295,852 | 1,140 |
+| 2024-01-19 | 295,864 | 1,140 |
 ## Awards
-Max (Great Boss Battles): 7,166  (Ranked 58)  
-Sum: 16,280 (Ranked 70)  
+Max (Great Boss Battles): 7,224  (Ranked 58)  
+Sum: 16,338 (Ranked 70)  
 Diff (max vs sum): -12  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,166 |
+| This game has Great Boss Battles | 7,224 |
 | This game is Highly Recommended | 1,033 |
 | This game has Diverse Characters | 996 |
 | This game is Extremely Fun | 950 |
@@ -446,3 +446,4 @@ Diff (max vs sum): -12
 | 2024-01-16 | 4.72 | 6,998 | 15,811 |
 | 2024-01-17 | 4.72 | 7,080 | 16,044 |
 | 2024-01-18 | 4.72 | 7,166 | 16,280 |
+| 2024-01-19 | 4.72 | 7,224 | 16,338 |

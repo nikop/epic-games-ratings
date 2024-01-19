@@ -5,13 +5,13 @@ Rating: 4.86 (Ranked 34)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,741 |
-| Start with a bang! | 55.00% | ~9,567 |
+| Feeling the beat! | 56.00% | ~9,742 |
+| Start with a bang! | 55.00% | ~9,568 |
 | You can pet the cat! | 50.00% | ~8,698 |
 | Who put gears in there? | 42.00% | ~7,306 |
-| Cream of the Crop | 37.00% | ~6,436 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,262 |
-| You got this, Peppermint? | 31.00% | ~5,392 |
+| Cream of the Crop | 37.00% | ~6,437 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,263 |
+| You got this, Peppermint? | 31.00% | ~5,393 |
 | Perfect Parry | 29.00% | ~5,045 |
 | Alright, that felt AWESOME! | 28.00% | ~4,871 |
 | I play my own way! | 25.00% | ~4,349 |
@@ -28,10 +28,10 @@ Rating: 4.86 (Ranked 34)
 | Time to pay up! | 13.00% | ~2,261 |
 | Perfecter Parry-er! | 13.00% | ~2,261 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,261 |
-| Who's the boss now? | 12.00% | ~2,087 |
-| I have to read these things? | 12.00% | ~2,087 |
+| Who's the boss now? | 12.00% | ~2,088 |
+| I have to read these things? | 12.00% | ~2,088 |
 | There's such a thing as TOO helpful | 9.00% | ~1,566 |
-| NOW we got a kickass hideout! | 9.00% | ~1,432 |
+| NOW we got a kickass hideout! | 9.00% | ~1,433 |
 | Well that was a rush! | 8.00% | ~1,392 |
 | That's a lot of junk metal… | 8.00% | ~1,392 |
 | Beat-hit mania | 7.00% | ~1,218 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,395 (Ranked 168)  
+Progressed: 17,396 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 8 (0.05%) (Ranked 344)
 | 2024-01-16 | 17,286 | 8 |
 | 2024-01-17 | 17,341 | 8 |
 | 2024-01-18 | 17,389 | 8 |
-| 2024-01-19 | 17,395 | 8 |
+| 2024-01-19 | 17,396 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

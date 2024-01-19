@@ -793,9 +793,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4628,
+  "EOS_Progressed": 4629,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -12953,6 +12953,11 @@
       "Time": "2024-01-19T01:53:26.5805643+00:00",
       "NumProgressed": 4628,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T02:30:25.1840248+00:00",
+      "NumProgressed": 4629,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13140,7 +13145,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "fellowshippower",
@@ -13172,7 +13177,7 @@
       "Name": "Full Party",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1388
+      "UsersEstimate": 1389
     },
     {
       "ID": "gearenchanting",
@@ -13524,7 +13529,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "warmachinesarmy",
@@ -13556,14 +13561,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4628,
+      "Progressed": 4629,
       "Completed": 2
     }
   ],
@@ -13571,8 +13576,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-17T22:58:46.2405409+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:53:26.5805637+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:30:25.1840244+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:48:11.8218753+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:53:26.5807834+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:25:19.7808732+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:30:25.1841549+00:00"
 }

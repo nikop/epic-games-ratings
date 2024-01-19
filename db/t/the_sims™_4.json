@@ -12089,10 +12089,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 15778,
       "NumberOfAwardsMax": 3082
+    },
+    {
+      "Time": "2024-01-19T02:29:34.5100137+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 15802,
+      "NumberOfAwardsMax": 3082
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15778,
+  "NumberOfAwards": 15802,
   "NumberOfAwardsMax": 3082,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12118,7 +12124,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1538
+      "Count": 1550
     },
     {
       "Text": "This game is Educational",
@@ -12160,7 +12166,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 1072
+      "Count": 1084
     }
   ],
   "EOS_Progressed": 0,
@@ -12183,9 +12189,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-01-19T01:52:54.3818854+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:58:25.7177013+00:00",
+  "LastChanged": "2024-01-19T02:29:34.5100137+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:34:59.6350432+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:18.7759444+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:52:54.381886+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:58:25.7177042+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:29:34.5100141+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:34:59.635046+00:00"
 }

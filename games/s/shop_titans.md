@@ -14,15 +14,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Capitalism Ho! | 8.00% | ~12,151 |
 | It's Free Real Estate | 7.00% | ~10,632 |
 | Budding Merchant | 7.00% | ~10,632 |
-| One Easy Payment | 6.00% | ~9,113 |
-| Some Assembly Required | 6.00% | ~9,113 |
-| Another Satisfied Customer | 6.00% | ~9,113 |
-| Pretty Penny | 6.00% | ~9,113 |
-| Own the Means of Production | 6.00% | ~9,113 |
-| The Daily Grind | 5.00% | ~7,594 |
-| Bounty Hunters | 5.00% | ~7,594 |
-| One-Armed Bandit | 5.00% | ~7,594 |
-| Through Repetition, Perfection | 5.00% | ~7,594 |
+| One Easy Payment | 6.00% | ~9,114 |
+| Some Assembly Required | 6.00% | ~9,114 |
+| Another Satisfied Customer | 6.00% | ~9,114 |
+| Pretty Penny | 6.00% | ~9,114 |
+| Own the Means of Production | 6.00% | ~9,114 |
+| The Daily Grind | 5.00% | ~7,595 |
+| Bounty Hunters | 5.00% | ~7,595 |
+| One-Armed Bandit | 5.00% | ~7,595 |
+| Through Repetition, Perfection | 5.00% | ~7,595 |
 | Demand for Supplies | 4.00% | ~6,076 |
 | Flooding the Market | 4.00% | ~6,076 |
 | Where it Hurts | 4.00% | ~6,076 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~608 |
 | Capitalist Camaraderie | 0.30% | ~456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 151,888 (Ranked 87)  
+Progressed: 151,892 (Ranked 87)  
 Completed: 359 (0.24%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -393,14 +393,14 @@ Completed: 359 (0.24%) (Ranked 275)
 | 2024-01-16 | 151,517 | 355 |
 | 2024-01-17 | 151,701 | 359 |
 | 2024-01-18 | 151,873 | 359 |
-| 2024-01-19 | 151,888 | 359 |
+| 2024-01-19 | 151,892 | 359 |
 ## Awards
-Max (Great for Beginners): 4,964  (Ranked 81)  
-Sum: 28,013 (Ranked 52)  
+Max (Great for Beginners): 4,966  (Ranked 81)  
+Sum: 28,015 (Ranked 52)  
 Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 4,964 |
+| This game is Great for Beginners | 4,966 |
 | This game is Relaxing | 4,080 |
 | This game has Quickly Understood Controls | 4,075 |
 | This game has Diverse Characters | 4,042 |
@@ -764,3 +764,4 @@ Diff (max vs sum): 29
 | 2024-01-16 | 4.00 | - | 4,964 | 28,006 |
 | 2024-01-17 | 4.00 | - | 4,964 | 28,010 |
 | 2024-01-18 | 4.00 | - | 4,964 | 28,013 |
+| 2024-01-19 | 4.00 | - | 4,966 | 28,015 |

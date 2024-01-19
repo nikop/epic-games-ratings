@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1339,
+  "EOS_Progressed": 1340,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.6,
   "EosHistory": [
@@ -4101,6 +4101,11 @@
       "Time": "2024-01-18T22:11:31.2369389+00:00",
       "NumProgressed": 1339,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T02:37:08.3402766+00:00",
+      "NumProgressed": 1340,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4184,7 +4189,7 @@
       "Name": "Street Style",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "CultivairChests1",
@@ -4208,7 +4213,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "FactorywoodChests1",
@@ -4248,7 +4253,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "GadgetCompletion1",
@@ -4376,7 +4381,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4384,7 +4389,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "PidgeDefeated",
@@ -4400,7 +4405,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "RewindParry",
@@ -4504,7 +4509,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "WatcherSpared",
@@ -4520,7 +4525,7 @@
       "Name": "The Brass Boss",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4528,14 +4533,14 @@
       "Name": "The Family Fortune",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1339,
+      "Progressed": 1340,
       "Completed": 8
     }
   ],
@@ -4543,8 +4548,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:59:55.8641816+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:37:08.3402762+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:47:00.4014787+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:59:55.8642389+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:23:27.4992398+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:37:08.3403233+00:00"
 }

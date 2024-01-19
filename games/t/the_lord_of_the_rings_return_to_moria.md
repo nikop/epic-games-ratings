@@ -1,28 +1,28 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.43 (Ranked 730)  
+Rating: 4.43 (Ranked 731)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~316,818 |
-| Delving Onward | 69.00% | ~266,591 |
-| Miner's Helper | 59.00% | ~227,955 |
-| Suit Up | 54.00% | ~208,637 |
-| To the Mountain's Roots | 49.00% | ~189,318 |
-| Remains To Be Seen | 35.00% | ~135,227 |
-| Covered Head to Toe | 33.00% | ~127,500 |
-| Line of Azog, Ended | 32.00% | ~123,636 |
-| Risk a Little Real Light | 31.00% | ~119,773 |
+| Speak Friend | 82.00% | ~316,823 |
+| Delving Onward | 69.00% | ~266,595 |
+| Miner's Helper | 59.00% | ~227,958 |
+| Suit Up | 54.00% | ~208,639 |
+| To the Mountain's Roots | 49.00% | ~189,321 |
+| Remains To Be Seen | 35.00% | ~135,229 |
+| Covered Head to Toe | 33.00% | ~127,502 |
+| Line of Azog, Ended | 32.00% | ~123,638 |
+| Risk a Little Real Light | 31.00% | ~119,774 |
 | Caradhras The Cruel | 18.00% | ~69,546 |
 | A Memory of this Place | 18.00% | ~69,546 |
-| False King, Deposed | 14.00% | ~54,091 |
-| Baruk Khazâd! | 13.00% | ~50,227 |
-| Battering Ram | 13.00% | ~50,227 |
-| Shadow's Bane | 10.00% | ~38,636 |
+| False King, Deposed | 14.00% | ~54,092 |
+| Baruk Khazâd! | 13.00% | ~50,228 |
+| Battering Ram | 13.00% | ~50,228 |
+| Shadow's Bane | 10.00% | ~38,637 |
 | Westgate Weaponcraft | 9.00% | ~34,773 |
-| Deeps Weaponcraft | 8.00% | ~30,909 |
-| Darkness Is Passing | 7.00% | ~27,045 |
+| Deeps Weaponcraft | 8.00% | ~30,910 |
+| Darkness Is Passing | 7.00% | ~27,046 |
 | Decked Out | 5.00% | ~19,318 |
 | Guarded from Despair | 5.00% | ~19,318 |
 | Master of All Trades | 4.00% | ~15,455 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 730)
 | Shielded | 1.00% | ~3,864 |
 | We're Gonna Need More Mugs | 0.20% | ~773 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,364 (Ranked 54)  
+Progressed: 386,369 (Ranked 54)  
 Completed: 369 (0.10%) (Ranked 317)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -125,7 +125,7 @@ Completed: 369 (0.10%) (Ranked 317)
 | 2024-01-16 | 385,383 | 356 |
 | 2024-01-17 | 385,849 | 363 |
 | 2024-01-18 | 386,311 | 369 |
-| 2024-01-19 | 386,364 | 369 |
+| 2024-01-19 | 386,369 | 369 |
 ## Awards
 Max (Great for Beginners): 964  (Ranked 169)  
 Sum: 5,552 (Ranked 143)  

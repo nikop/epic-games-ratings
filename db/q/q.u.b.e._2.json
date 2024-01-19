@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 126,
   "Ranking_EOS_Completed": 225,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47781,
+  "EOS_Progressed": 47782,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 650,
+  "EOS_NewPlayers": 649,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -14691,6 +14691,11 @@
       "Time": "2024-01-19T01:59:15.8349921+00:00",
       "NumProgressed": 47781,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2024-01-19T02:36:12.0525401+00:00",
+      "NumProgressed": 47782,
+      "NumCompleted": 243
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14701,9 +14706,9 @@
       "ID": "ACH_ABYSS",
       "SetID": "232494e",
       "Name": "Descendants",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 7167
+      "UsersEstimate": 7645
     },
     {
       "ID": "ACH_BLUEEND",
@@ -14863,7 +14868,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24846
+      "UsersEstimate": 24847
     },
     {
       "ID": "ACH_PEAK",
@@ -14895,7 +14900,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32491
+      "UsersEstimate": 32492
     },
     {
       "ID": "ACH_S4",
@@ -14903,7 +14908,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 23890
+      "UsersEstimate": 23891
     },
     {
       "ID": "ACH_S5",
@@ -14934,15 +14939,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47781,
+      "Progressed": 47782,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-19T01:59:15.8349916+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:36:12.0525397+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:20.0193731+00:00",
-  "LastUpdate_Ratings": "2024-01-19T01:49:42.6409187+00:00",
-  "LastUpdate_Achievements": "2024-01-19T01:59:15.8350588+00:00"
+  "LastUpdate_Ratings": "2024-01-19T02:27:40.1602225+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:36:12.0526175+00:00"
 }
