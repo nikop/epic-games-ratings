@@ -25,14 +25,14 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.70% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.69% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.92% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.91% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 31 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 15.38% |
-| 32 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
-| 33 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
+| 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
+| 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
+| 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
 | 34 | [Argol - Kronoss' Castle](games/f/f0bf1f8d40074c41bf35e4fc88aa0ea5.md) | 13.33% |
 | 34 | [Seven Doors](games/s/seven_doors.md) | 13.33% |
 | 36 | [Remains](games/r/remains.md) | 12.70% |
@@ -52,15 +52,15 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.68% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
-| 57 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.23% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.19% |
-| 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
-| 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.12% |
-| 61 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.08% |
+| 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.25% |
+| 58 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.23% |
+| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.20% |
+| 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
+| 61 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.12% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.86% |
 | 63 | [Scorn](games/s/scorn.md) | 6.84% |
 | 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.74% |
@@ -82,7 +82,7 @@
 | 80 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.56% |
 | 82 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
-| 83 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.49% |
+| 83 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.47% |
 | 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 85 | [JARS](games/j/jars.md) | 4.42% |
 | 86 | [Dungeons 4](games/d/dungeons_4.md) | 4.38% |
@@ -95,7 +95,7 @@
 | 93 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 94 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
 | 95 | [The Bunker](games/t/the_bunker.md) | 3.85% |
-| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.71% |
+| 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
 | 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.62% |
 | 99 | [Doodle God](games/d/doodle_god.md) | 3.60% |
