@@ -26,7 +26,7 @@
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
 | 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 17.07% |
-| 27 | [Island Cities](games/i/island_cities.md) | 16.74% |
+| 27 | [Island Cities](games/i/island_cities.md) | 16.86% |
 | 28 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 29 | [The Riflemen](games/t/the_riflemen.md) | 16.04% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
@@ -52,7 +52,7 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.68% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.67% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.65% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
@@ -121,7 +121,7 @@
 | 118 | [Without Escape](games/w/without_escape.md) | 2.86% |
 | 120 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 121 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
-| 122 | [The Complex](games/t/the_complex.md) | 2.59% |
+| 122 | [The Complex](games/t/the_complex.md) | 2.58% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.57% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
@@ -155,7 +155,7 @@
 | 153 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 154 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
 | 155 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.44% |
-| 156 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.41% |
+| 156 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.40% |
 | 157 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 158 | [Chorus](games/c/chorus.md) | 1.33% |
 | 158 | [Ten Dates](games/t/ten_dates.md) | 1.33% |
@@ -248,7 +248,7 @@
 | 245 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
 | 245 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.40% |
 | 245 | [Tchia](games/t/tchia.md) | 0.40% |
-| 249 | [Remnant 2](games/r/remnant_2.md) | 0.38% |
+| 249 | [Remnant 2](games/r/remnant_2.md) | 0.39% |
 | 250 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
 | 251 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.36% |
 | 251 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
@@ -291,9 +291,9 @@
 | 289 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
 | 289 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
 | 291 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
-| 291 | [Going Medieval](games/g/going_medieval.md) | 0.18% |
-| 293 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
-| 293 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.17% |
+| 292 | [Against the Storm](games/a/against_the_storm.md) | 0.17% |
+| 292 | [EARTHLOCK](games/5/5c82c05d2978489090d30c05e17e6e12.md) | 0.17% |
+| 292 | [Going Medieval](games/g/going_medieval.md) | 0.17% |
 | 295 | [Gotham Knights](games/g/gotham_knights.md) | 0.16% |
 | 295 | [HITMAN World of Assassination](games/h/hitman_3.md) | 0.16% |
 | 297 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
