@@ -4,8 +4,8 @@
   "ProductSlug": "this-is-the-president",
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 552,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-12-06T18:00:00+00:00",
     "PcReleaseDate": "2021-12-06T18:00:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:57:51.6907074+00:00",
   "LastChanged": "2023-03-31T05:57:51.6907075+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:31.0128415+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:00:33.2030784+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:04:37.3506739+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:48:45.2637391+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:53:17.844173+00:00"
 }

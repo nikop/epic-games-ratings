@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 158,
+  "EOS_Progressed": 159,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
@@ -639,6 +639,11 @@
       "Time": "2024-01-18T19:09:03.3889359+00:00",
       "NumProgressed": 158,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T01:56:07.034829+00:00",
+      "NumProgressed": 159,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -659,7 +664,7 @@
       "Name": "The Artifact",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "A_AVATAR",
@@ -737,9 +742,9 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 73
+      "UsersEstimate": 72
     },
     {
       "ID": "A_HIVE_RESS hiveRes (0-100)",
@@ -747,7 +752,7 @@
       "Name": "Hivespital",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "A_HUNT hunt (0-1)",
@@ -755,7 +760,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -769,9 +774,9 @@
       "ID": "A_ITEM_DROPS",
       "SetID": "324h56e",
       "Name": "Scavenger",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "A_KILLS kills_1 (0-100)",
@@ -779,7 +784,7 @@
       "Name": "Slaughter",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -787,7 +792,7 @@
       "Name": "Massacre",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "A_LEGENDARY",
@@ -809,9 +814,9 @@
       "ID": "A_LEVEL",
       "SetID": "324h56e",
       "Name": "Ding!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "A_MEAT meat (0-10000)",
@@ -835,7 +840,7 @@
       "Name": "Miner",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "A_NOFISH",
@@ -849,7 +854,7 @@
       "ID": "A_ORB",
       "SetID": "324h56e",
       "Name": "Orb of Wisdom",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 107
     },
@@ -867,7 +872,7 @@
       "Name": "Mother of Insectoids",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "A_RESS",
@@ -921,9 +926,9 @@
       "ID": "A_TURRET",
       "SetID": "324h56e",
       "Name": "All About That Base",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "A_TURTLES",
@@ -939,15 +944,15 @@
       "Name": "Splat",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "A_WRAITH",
@@ -962,14 +967,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 158,
+      "Progressed": 159,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:08:47.4782024+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:56:07.0348285+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:15.0895709+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:01:42.0365515+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:08:47.4782331+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:49:29.6164172+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:56:07.0348614+00:00"
 }

@@ -9605,10 +9605,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33543,
       "NumberOfAwardsMax": 5792
+    },
+    {
+      "Time": "2024-01-19T01:48:57.755196+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33552,
+      "NumberOfAwardsMax": 5792
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33543,
+  "NumberOfAwards": 33552,
   "NumberOfAwardsMax": 5792,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9622,7 +9628,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5728
+      "Count": 5731
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9646,7 +9652,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 4333
+      "Count": 4339
     },
     {
       "Text": "This game has Playful Visuals",
@@ -9655,9 +9661,9 @@
       "Count": 3648
     }
   ],
-  "EOS_Progressed": 254598,
+  "EOS_Progressed": 254606,
   "EOS_Completed": 2624,
-  "EOS_NewPlayers": 1171,
+  "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40700,6 +40706,11 @@
       "Time": "2024-01-19T00:11:46.9728675+00:00",
       "NumProgressed": 254598,
       "NumCompleted": 2624
+    },
+    {
+      "Time": "2024-01-19T02:00:00.7958901+00:00",
+      "NumProgressed": 254606,
+      "NumCompleted": 2624
     }
   ],
   "TotalAchievements": 546,
@@ -42405,9 +42416,9 @@
       "ID": "objective_completed_36",
       "SetID": "cc37lbc",
       "Name": "The Death Curse",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 764
     },
     {
       "ID": "objective_completed_37",
@@ -43301,9 +43312,9 @@
       "ID": "objective_completed_605",
       "SetID": "cc37lbc",
       "Name": "Resolve Amongst Chaos",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 509
     },
     {
       "ID": "objective_completed_606",
@@ -44983,7 +44994,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "objective_completed_1352",
@@ -44991,7 +45002,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "objective_completed_1557",
@@ -45007,7 +45018,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "objective_completed_1562",
@@ -45023,7 +45034,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "objective_completed_598",
@@ -45071,28 +45082,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 220872,
+      "Progressed": 220880,
       "Completed": 4152
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254598,
+      "Progressed": 254606,
       "Completed": 2624
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-18T07:59:00.741304+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:46.9728674+00:00",
+  "LastChanged": "2024-01-19T01:48:57.7551958+00:00",
+  "LastChanged_Achievements": "2024-01-19T02:00:00.7958897+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:00:51.4381847+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:46.9751497+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:48:57.7551965+00:00",
+  "LastUpdate_Achievements": "2024-01-19T02:00:00.7982384+00:00"
 }

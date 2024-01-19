@@ -5,23 +5,23 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 10.00% | ~80,593 |
-| Break A Leg | 9.00% | ~72,533 |
-| Hotel California | 9.00% | ~72,533 |
-| Coup de Grâce | 8.00% | ~64,474 |
-| Hazardous Materials | 8.00% | ~64,474 |
-| Git Gutte! | 7.00% | ~56,415 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,415 |
+| Welcome To Hell-A | 10.00% | ~80,594 |
+| Break A Leg | 9.00% | ~72,534 |
+| Hotel California | 9.00% | ~72,534 |
+| Coup de Grâce | 8.00% | ~64,475 |
+| Hazardous Materials | 8.00% | ~64,475 |
+| Git Gutte! | 7.00% | ~56,416 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,416 |
 | Dr. Reed, I Presume? | 6.00% | ~48,356 |
 | Bookworm | 6.00% | ~48,356 |
 | Friends Like These | 6.00% | ~48,356 |
 | Apex Predator | 6.00% | ~48,356 |
 | Stacking the Deck | 6.00% | ~48,356 |
-| Anger Management | 5.00% | ~40,296 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,296 |
-| But Doctor, I am Butcho | 5.00% | ~40,296 |
-| Can't Handle the Truth | 5.00% | ~40,296 |
-| This is My Weapon | 5.00% | ~40,296 |
+| Anger Management | 5.00% | ~40,297 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,297 |
+| But Doctor, I am Butcho | 5.00% | ~40,297 |
+| Can't Handle the Truth | 5.00% | ~40,297 |
+| This is My Weapon | 5.00% | ~40,297 |
 | Making Your Mark | 4.00% | ~32,237 |
 | Perks of the Job | 4.00% | ~32,237 |
 | Slayer Squad | 4.00% | ~32,237 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~806 |
 | Wilhelm | 0.10% | ~131 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 805,926 (Ranked 23)  
+Progressed: 805,937 (Ranked 23)  
 Completed: 2,599 (0.32%) (Ranked 258)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 2,599 (0.32%) (Ranked 258)
 | 2024-01-16 | 804,860 | 2,591 |
 | 2024-01-17 | 805,399 | 2,596 |
 | 2024-01-18 | 805,908 | 2,599 |
-| 2024-01-19 | 805,926 | 2,599 |
+| 2024-01-19 | 805,937 | 2,599 |
 ## Awards
 Max (Great Boss Battles): 10,604  (Ranked 40)  
 Sum: 16,279 (Ranked 71)  

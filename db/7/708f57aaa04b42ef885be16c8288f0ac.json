@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -461,9 +461,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15050,
+  "EOS_Progressed": 15052,
   "EOS_Completed": 27,
-  "EOS_NewPlayers": 411,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -10846,6 +10846,11 @@
       "Time": "2024-01-19T00:11:29.3489434+00:00",
       "NumProgressed": 15050,
       "NumCompleted": 27
+    },
+    {
+      "Time": "2024-01-19T01:59:47.8319257+00:00",
+      "NumProgressed": 15052,
+      "NumCompleted": 27
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10858,7 +10863,7 @@
       "Name": "All Jacked Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "BabySteps",
@@ -10866,7 +10871,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6170
+      "UsersEstimate": 6171
     },
     {
       "ID": "BeLikeWater",
@@ -10914,7 +10919,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3161
     },
     {
       "ID": "FasterThanLight",
@@ -10930,7 +10935,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8278
+      "UsersEstimate": 8279
     },
     {
       "ID": "FuneralForTheDeath",
@@ -10946,7 +10951,7 @@
       "Name": "Garbage Man",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Godrunner",
@@ -10962,7 +10967,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3160
+      "UsersEstimate": 3161
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -10986,7 +10991,7 @@
       "Name": "Live By The Sword",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "MasterManipulator",
@@ -11002,7 +11007,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4364
+      "UsersEstimate": 4365
     },
     {
       "ID": "NoMoreTotems",
@@ -11010,7 +11015,7 @@
       "Name": "No More Totems",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1956
+      "UsersEstimate": 1957
     },
     {
       "ID": "NotLikeTheOthers",
@@ -11050,7 +11055,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3913
+      "UsersEstimate": 3914
     },
     {
       "ID": "TheQuarterback",
@@ -11066,7 +11071,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2558
+      "UsersEstimate": 2559
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -11129,7 +11134,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15050,
+      "Progressed": 15052,
       "Completed": 27
     }
   ],
@@ -11137,8 +11142,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-18T17:57:24.8025675+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:29.3489433+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:47.8319252+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:57:40.0505973+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:29.3489995+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:46:56.9458631+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:47.8319983+00:00"
 }

@@ -6,16 +6,16 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,131 |
+| On My Own Two Feet | 94.00% | ~5,132 |
 | I'll Be Back | 84.00% | ~4,586 |
-| Sorry, I Dropped This | 76.00% | ~4,149 |
-| First Day on the Job | 76.00% | ~4,149 |
+| Sorry, I Dropped This | 76.00% | ~4,150 |
+| First Day on the Job | 75.00% | ~4,095 |
 | Butcher's Bill | 54.00% | ~2,948 |
-| P.A.X | 36.00% | ~1,965 |
-| Hey Listen | 35.00% | ~1,911 |
+| P.A.X | 36.00% | ~1,966 |
+| Hey Listen | 36.00% | ~1,966 |
 | OPERATOR | 35.00% | ~1,911 |
-| It's Blue Light | 33.00% | ~1,801 |
-| Most Wanted | 26.00% | ~1,419 |
+| It's Blue Light | 33.00% | ~1,802 |
+| Most Wanted | 26.00% | ~1,420 |
 | Infidel | 23.00% | ~1,256 |
 | Firebug | 20.00% | ~1,092 |
 | GOLIATH | 20.00% | ~1,092 |
@@ -27,9 +27,9 @@ Number of Ratings: 62  (23.09.2022)
 | The Black Cerberus | 12.00% | ~655 |
 | Watchman | 12.00% | ~655 |
 | Core Power | 12.00% | ~655 |
-| CREO Killed the Video Star | 11.00% | ~600 |
-| Who's in Charge Here? | 11.00% | ~600 |
-| Shall Not Pass | 11.00% | ~600 |
+| CREO Killed the Video Star | 11.00% | ~601 |
+| Who's in Charge Here? | 11.00% | ~601 |
+| Shall Not Pass | 11.00% | ~601 |
 | Right Tool for the Job | 10.00% | ~546 |
 | Raging Drones | 9.00% | ~491 |
 | Overconfident | 9.00% | ~491 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,459 (Ranked 206)  
+Progressed: 5,460 (Ranked 206)  
 Completed: 18 (0.33%) (Ranked 257)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,10 +305,11 @@ Completed: 18 (0.33%) (Ranked 257)
 | 2024-01-16 | 5,439 | 18 |
 | 2024-01-17 | 5,445 | 18 |
 | 2024-01-18 | 5,459 | 18 |
+| 2024-01-19 | 5,460 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 527)  
-Sum: 30 (Ranked 548)  
-Diff (max vs sum): -21  
+Sum: 30 (Ranked 549)  
+Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 30 |

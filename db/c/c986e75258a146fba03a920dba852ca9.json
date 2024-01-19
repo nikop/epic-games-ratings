@@ -193,10 +193,10 @@
       "Count": 188
     }
   ],
-  "EOS_Progressed": 271399,
+  "EOS_Progressed": 271474,
   "EOS_Completed": 537,
-  "EOS_NewPlayers": 15031,
-  "EOS_NewCompleters": 97,
+  "EOS_NewPlayers": 14983,
+  "EOS_NewCompleters": 96,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
     {
@@ -2728,6 +2728,11 @@
       "Time": "2024-01-19T00:07:22.4013946+00:00",
       "NumProgressed": 271399,
       "NumCompleted": 537
+    },
+    {
+      "Time": "2024-01-19T01:55:09.6444549+00:00",
+      "NumProgressed": 271474,
+      "NumCompleted": 537
     }
   ],
   "AchievementsAdded": "2023-12-28T17:03:50.5211758+00:00",
@@ -2740,7 +2745,7 @@
       "Name": "Dungeon Master",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 10856
+      "UsersEstimate": 10859
     },
     {
       "ID": "com.thegentlebros.catquest.equipment_01",
@@ -2748,7 +2753,7 @@
       "Name": "Fashionista Lion",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 21712
+      "UsersEstimate": 21718
     },
     {
       "ID": "com.thegentlebros.catquest.level_03",
@@ -2756,7 +2761,7 @@
       "Name": "Super Catventurer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 8142
+      "UsersEstimate": 8144
     },
     {
       "ID": "com.thegentlebros.catquest.mainquest_02",
@@ -2764,7 +2769,7 @@
       "Name": "Felingard Loremaster",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 70564
+      "UsersEstimate": 70583
     },
     {
       "ID": "com.thegentlebros.catquest.mew_00",
@@ -2772,7 +2777,7 @@
       "Name": "Furry Armored",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "com.thegentlebros.catquest.mew_01",
@@ -2796,7 +2801,7 @@
       "Name": "Nine Lives",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 1628
+      "UsersEstimate": 1629
     },
     {
       "ID": "com.thegentlebros.catquest.mew_04",
@@ -2820,7 +2825,7 @@
       "Name": "Saviour of the Cats",
       "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 37996
+      "UsersEstimate": 38006
     },
     {
       "ID": "com.thegentlebros.catquest.skill_01",
@@ -2828,14 +2833,14 @@
       "Name": "Power of the Arcane",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 59708
+      "UsersEstimate": 59724
     }
   ],
   "AchievementSets": [
     {
       "ID": "8g22406",
       "IsBase": true,
-      "Progressed": 271399,
+      "Progressed": 271474,
       "Completed": 537
     }
   ],
@@ -2843,8 +2848,8 @@
   "FirstSeenRating": "2023-12-29T10:57:23.2583361+00:00",
   "FirstSeenAchievements": "2023-12-28T17:03:50.5211757+00:00",
   "LastChanged": "2024-01-18T02:23:25.0133648+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:07:22.4013942+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:55:09.6444544+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.6106853+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:01:15.1144848+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:07:22.401418+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:49:12.7674041+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:55:09.644481+00:00"
 }

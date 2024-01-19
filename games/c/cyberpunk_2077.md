@@ -17,7 +17,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.30% | ~3,164 |
 | True Soldier | 0.30% | ~3,164 |
 | Legend of The Afterlife | 0.30% | ~3,164 |
-| All the President's Men | 0.30% | ~549 |
+| All the President's Men | 0.30% | ~550 |
 | Bushido and Chill | 0.20% | ~2,109 |
 | To Protect and Serve | 0.20% | ~2,109 |
 | Gun Fu | 0.20% | ~2,109 |
@@ -27,6 +27,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.20% | ~2,109 |
 | The World | 0.20% | ~2,109 |
 | True Warrior | 0.20% | ~2,109 |
+| Two Heads, One Bullet | 0.20% | ~2,109 |
 | Judy vs Night City | 0.20% | ~2,109 |
 | Arachnophobia | 0.20% | ~366 |
 | City Lights | 0.10% | ~1,055 |
@@ -49,7 +50,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.10% | ~1,055 |
 | Greetings from Pacifica! | 0.10% | ~1,055 |
 | The Jungle | 0.10% | ~1,055 |
-| Two Heads, One Bullet | 0.10% | ~1,055 |
 | V for Vendetta | 0.10% | ~1,055 |
 | It's Elementary | 0.10% | ~1,055 |
 | The APB is Not Enough | 0.10% | ~183 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,054,528 (Ranked 17)  
-Completed: 3,123 (0.30%) (Ranked 263)  
+Progressed: 1,054,549 (Ranked 17)  
+Completed: 3,124 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -348,7 +348,7 @@ Completed: 3,123 (0.30%) (Ranked 263)
 | 2024-01-16 | 1,053,067 | 3,109 |
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
-| 2024-01-19 | 1,054,528 | 3,123 |
+| 2024-01-19 | 1,054,549 | 3,124 |
 ## Awards
 Max (Character Customization): 142,143  (Ranked 8)  
 Sum: 504,220 (Ranked 8)  

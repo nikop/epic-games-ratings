@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83876,
+  "EOS_Progressed": 83878,
   "EOS_Completed": 946,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 573,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30677,6 +30677,11 @@
       "Time": "2024-01-19T00:05:36.6149631+00:00",
       "NumProgressed": 83876,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-19T01:53:58.3906103+00:00",
+      "NumProgressed": 83878,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30704,7 +30709,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15936
+      "UsersEstimate": 15937
     },
     {
       "ID": "Audiophile",
@@ -30760,7 +30765,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16775
+      "UsersEstimate": 16776
     },
     {
       "ID": "Hearty",
@@ -30808,7 +30813,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15936
+      "UsersEstimate": 15937
     },
     {
       "ID": "Nice Try",
@@ -30832,7 +30837,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9226
+      "UsersEstimate": 9227
     },
     {
       "ID": "Right On Target",
@@ -30887,7 +30892,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83876,
+      "Progressed": 83878,
       "Completed": 946
     }
   ],
@@ -30895,8 +30900,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:05:36.6149628+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:53:58.3906098+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:01:48.6403763+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:05:36.6150829+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:49:34.0064404+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:53:58.3907763+00:00"
 }

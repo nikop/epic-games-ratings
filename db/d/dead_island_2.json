@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 30,
+  "Ranking_EOS_NewPlayers": 31,
   "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -8949,9 +8949,9 @@
       "Count": 689
     }
   ],
-  "EOS_Progressed": 805926,
+  "EOS_Progressed": 805937,
   "EOS_Completed": 2599,
-  "EOS_NewPlayers": 4980,
+  "EOS_NewPlayers": 4937,
   "EOS_NewCompleters": 28,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -40509,6 +40509,11 @@
       "Time": "2024-01-19T00:11:11.7386632+00:00",
       "NumProgressed": 805926,
       "NumCompleted": 2599
+    },
+    {
+      "Time": "2024-01-19T01:59:35.3104697+00:00",
+      "NumProgressed": 805937,
+      "NumCompleted": 2599
     }
   ],
   "TotalAchievements": 51,
@@ -40536,7 +40541,7 @@
       "Name": "Git Gutte!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56415
+      "UsersEstimate": 56416
     },
     {
       "ID": "ach_anger_management",
@@ -40544,7 +40549,7 @@
       "Name": "Anger Management",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40296
+      "UsersEstimate": 40297
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -40584,7 +40589,7 @@
       "Name": "Break A Leg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72533
+      "UsersEstimate": 72534
     },
     {
       "ID": "ach_contender",
@@ -40600,7 +40605,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40296
+      "UsersEstimate": 40297
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -40608,7 +40613,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40296
+      "UsersEstimate": 40297
     },
     {
       "ID": "ach_doom_buddies",
@@ -40632,7 +40637,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40296
+      "UsersEstimate": 40297
     },
     {
       "ID": "ach_finisher",
@@ -40640,7 +40645,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64474
+      "UsersEstimate": 64475
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -40664,7 +40669,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64474
+      "UsersEstimate": 64475
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -40680,7 +40685,7 @@
       "Name": "Hotel California",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72533
+      "UsersEstimate": 72534
     },
     {
       "ID": "ach_impressive_aim",
@@ -40800,7 +40805,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56415
+      "UsersEstimate": 56416
     },
     {
       "ID": "ach_survival_expert",
@@ -40840,7 +40845,7 @@
       "Name": "This is My Weapon",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40296
+      "UsersEstimate": 40297
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -40856,7 +40861,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80593
+      "UsersEstimate": 80594
     },
     {
       "ID": "ach_well_known_survivor",
@@ -40927,13 +40932,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 805926,
+      "Progressed": 805937,
       "Completed": 2599
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 131470,
+      "Progressed": 131481,
       "Completed": 36784
     }
   ],
@@ -40941,8 +40946,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-18T17:59:25.7165146+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:11.7386625+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:35.3104693+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:06.2072313+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:00:46.2310941+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:11.7388155+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:48:53.8465719+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:35.3106313+00:00"
 }

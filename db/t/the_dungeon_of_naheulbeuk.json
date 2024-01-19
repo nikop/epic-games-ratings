@@ -1773,9 +1773,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248684,
+  "EOS_Progressed": 248689,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 1005,
+  "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26708,6 +26708,11 @@
       "Time": "2024-01-19T00:11:42.3552657+00:00",
       "NumProgressed": 248684,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-19T01:59:56.8696035+00:00",
+      "NumProgressed": 248689,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26751,7 +26756,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9947
+      "UsersEstimate": 9948
     },
     {
       "ID": "BookCollection",
@@ -26783,7 +26788,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9947
+      "UsersEstimate": 9948
     },
     {
       "ID": "Chapter4",
@@ -27167,7 +27172,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92013
+      "UsersEstimate": 92015
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27215,7 +27220,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27355
+      "UsersEstimate": 27356
     },
     {
       "ID": "FollowBraztok",
@@ -27231,7 +27236,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "InsultLoose",
@@ -27422,21 +27427,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248684,
+      "Progressed": 248689,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248684,
+      "Progressed": 248689,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-18T04:02:39.050202+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:42.3552655+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:56.869603+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:57:49.2380021+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:42.3554328+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:47:02.0411662+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:56.8697685+00:00"
 }

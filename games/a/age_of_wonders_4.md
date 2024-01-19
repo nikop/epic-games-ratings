@@ -41,6 +41,7 @@ Rating: 4.63 (Ranked 357)
 | The Goddess of Nature | 2.00% | ~145 |
 | Eternal Lord | 2.00% | ~145 |
 | The Eternal Court | 2.00% | ~145 |
+| Grexolis | 2.00% | ~145 |
 | Blood of the Dragon | 2.00% | ~145 |
 | Sehiran Oasis | 2.00% | ~145 |
 | Chaos Surge | 2.00% | ~145 |
@@ -48,7 +49,6 @@ Rating: 4.63 (Ranked 357)
 | Dawn of the Dread | 2.00% | ~145 |
 | Manufactured War | 1.00% | ~73 |
 | Pruning for Progress | 1.00% | ~73 |
-| Grexolis | 1.00% | ~73 |
 | One for All, All for One | 1.00% | ~73 |
 | Betrayal Most Foul | 1.00% | ~73 |
 | Duality | 1.00% | ~73 |

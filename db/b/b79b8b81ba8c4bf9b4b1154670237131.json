@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16782,
+  "EOS_Progressed": 16783,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 1,
@@ -6967,6 +6967,11 @@
       "Time": "2024-01-18T23:10:13.4443279+00:00",
       "NumProgressed": 16782,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-19T01:59:24.3027631+00:00",
+      "NumProgressed": 16783,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -6979,7 +6984,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6377
+      "UsersEstimate": 6378
     },
     {
       "ID": "ACH_AE_10",
@@ -7011,7 +7016,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12586
+      "UsersEstimate": 12587
     },
     {
       "ID": "ACH_AE_14",
@@ -7019,7 +7024,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3356
+      "UsersEstimate": 3357
     },
     {
       "ID": "ACH_AE_15",
@@ -7258,7 +7263,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16782,
+      "Progressed": 16783,
       "Completed": 16
     }
   ],
@@ -7266,8 +7271,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:10:55.8486906+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:24.3027626+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:01:28.44515+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:10:55.8487541+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:49:20.5955671+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:24.3028223+00:00"
 }

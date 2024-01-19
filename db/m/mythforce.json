@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 384,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 331,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -866,9 +866,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6406,
+  "EOS_Progressed": 6408,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13461,6 +13461,11 @@
       "Time": "2024-01-18T23:04:21.8973967+00:00",
       "NumProgressed": 6406,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-19T01:53:37.9099333+00:00",
+      "NumProgressed": 6408,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13497,7 +13502,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -13529,7 +13534,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1409
+      "UsersEstimate": 1410
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13585,7 +13590,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13601,7 +13606,7 @@
       "Name": "On this Episode!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -13625,7 +13630,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13656,15 +13661,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6406,
+      "Progressed": 6408,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-14T18:00:39.1099013+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:05:06.3751644+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:53:37.9099325+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:59:01.3380722+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:05:06.3752515+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:47:46.7097046+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:53:37.9100501+00:00"
 }

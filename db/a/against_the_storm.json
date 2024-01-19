@@ -3927,10 +3927,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3393,
       "NumberOfAwardsMax": 454
+    },
+    {
+      "Time": "2024-01-19T01:48:51.8726192+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3395,
+      "NumberOfAwardsMax": 454
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3393,
+  "NumberOfAwards": 3395,
   "NumberOfAwardsMax": 454,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3968,7 +3974,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 448
+      "Count": 450
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3995,9 +4001,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20877,
+  "EOS_Progressed": 20879,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -19985,6 +19991,11 @@
       "Time": "2024-01-19T00:09:21.3450087+00:00",
       "NumProgressed": 20877,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-19T01:58:19.8268064+00:00",
+      "NumProgressed": 20879,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20093,7 +20104,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "WinImpossible",
@@ -20261,7 +20272,7 @@
       "Name": "Coral Forest",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "WinOnCursed",
@@ -20285,7 +20296,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "WinPrestige10",
@@ -20445,7 +20456,7 @@
       "Name": "Gathering Storm",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1461
+      "UsersEstimate": 1462
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20468,15 +20479,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20877,
+      "Progressed": 20879,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-17T20:58:38.9052798+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:09:21.3450084+00:00",
+  "LastChanged": "2024-01-19T01:48:51.8726191+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:58:19.8268061+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:00:43.1053249+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:09:21.3451813+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:48:51.8726197+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:58:19.8269126+00:00"
 }

@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~219,786 |
-| 50 HEADSHOTS | 31.00% | ~200,393 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,929 |
-| FINISHED CHAPTER 1 | 29.00% | ~187,464 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,750 |
-| 200 HEADSHOTS | 19.00% | ~122,822 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,357 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,964 |
-| FINISH CHAPTER 5 | 13.00% | ~84,036 |
-| FINISH CHAPTER 6 | 11.00% | ~71,107 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,107 |
-| 1000 KILLS | 10.00% | ~64,643 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,857 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~12,929 |
-| FIRST BLOOD | 2.00% | ~12,929 |
+| 100 KILLS | 34.00% | ~219,777 |
+| 50 HEADSHOTS | 31.00% | ~200,385 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,921 |
+| FINISHED CHAPTER 1 | 29.00% | ~187,457 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,745 |
+| 200 HEADSHOTS | 19.00% | ~122,817 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,353 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,961 |
+| FINISH CHAPTER 5 | 13.00% | ~84,033 |
+| FINISH CHAPTER 6 | 11.00% | ~71,104 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,104 |
+| 1000 KILLS | 10.00% | ~64,640 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,856 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~12,928 |
+| FIRST BLOOD | 2.00% | ~12,928 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,464 |
 | OUT OF ORDER | 1.00% | ~6,464 |
 | PACEMAKER | 1.00% | ~6,464 |
 | TIME PARADOX | 1.00% | ~6,464 |
 | PARTYHARD | 0.80% | ~5,171 |
 | NEW GAME PLUS | 0.70% | ~4,525 |
-| FIREFIGHT LEVEL 40 | 0.60% | ~3,879 |
+| FIREFIGHT LEVEL 40 | 0.60% | ~3,878 |
 | CHURCH | 0.40% | ~2,586 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,939 |
 | REMEMBER THE ARMORY | 0.30% | ~1,939 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 242)
 | THE GAMBLER | 0.10% | ~646 |
 | WARRIOR IN A GARDEN | 0.10% | ~646 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646,429 (Ranked 32)  
+Progressed: 646,404 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |

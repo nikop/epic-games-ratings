@@ -4,11 +4,11 @@
   "ProductSlug": "redfall",
   "Ranking_Rating": 1100,
   "Ranking_Popularity": 549,
-  "Ranking_PopularitySum": 559,
+  "Ranking_PopularitySum": 560,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -401,7 +401,7 @@
   ],
   "EOS_Progressed": 2404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5145,8 +5145,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-18T03:57:45.3223066+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:08:33.131872+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:55:57.4122156+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:58:41.813264+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:08:33.131945+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:47:34.3646088+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:55:57.412305+00:00"
 }

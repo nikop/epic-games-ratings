@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,125 |
-| Lost and Found | 9.00% | ~723 |
-| Autodidact | 8.00% | ~10,653 |
-| This Belongs in a Museum | 7.00% | ~9,321 |
-| Overdue Notice | 7.00% | ~9,321 |
-| This guy... again? | 7.00% | ~562 |
+| Malpractice Assurance | 14.00% | ~1,126 |
+| Lost and Found | 9.00% | ~724 |
+| Autodidact | 8.00% | ~10,654 |
+| This Belongs in a Museum | 7.00% | ~9,322 |
+| Overdue Notice | 7.00% | ~9,322 |
+| This guy... again? | 7.00% | ~563 |
 | Serenity Now! | 6.00% | ~7,990 |
 | Creep and Sleep | 6.00% | ~7,990 |
 | Meat and Greet | 6.00% | ~7,990 |
@@ -21,16 +21,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~7,990 |
 | Ploughshares to Swords | 6.00% | ~482 |
 | Bloody Graduation | 6.00% | ~482 |
-| Don't Make Me Turn This Coach Around | 5.00% | ~6,658 |
-| It Rings a Bell | 5.00% | ~6,658 |
-| Not Today! | 5.00% | ~6,658 |
-| It Happens | 5.00% | ~6,658 |
-| Merry Time | 5.00% | ~6,658 |
-| Harvest Festival | 5.00% | ~6,658 |
-| Whale | 5.00% | ~6,658 |
-| A Place to Lay Your Head | 5.00% | ~6,658 |
-| FNG | 5.00% | ~6,658 |
-| Nope | 5.00% | ~6,658 |
+| Don't Make Me Turn This Coach Around | 5.00% | ~6,659 |
+| It Rings a Bell | 5.00% | ~6,659 |
+| Not Today! | 5.00% | ~6,659 |
+| It Happens | 5.00% | ~6,659 |
+| Merry Time | 5.00% | ~6,659 |
+| Harvest Festival | 5.00% | ~6,659 |
+| Whale | 5.00% | ~6,659 |
+| A Place to Lay Your Head | 5.00% | ~6,659 |
+| FNG | 5.00% | ~6,659 |
+| Nope | 5.00% | ~6,659 |
 | Friends 'Til the End | 5.00% | ~402 |
 | Resurrection | 4.00% | ~5,327 |
 | Unleash Hell | 4.00% | ~5,327 |
@@ -77,8 +77,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Battle Hardened | 0.50% | ~40 |
 | Tears in the Rain | 0.40% | ~533 |
 | Maître De La Lame | 0.40% | ~32 |
-| Circle of Life | 0.30% | ~399 |
-| Grand Slam | 0.30% | ~399 |
+| Circle of Life | 0.30% | ~400 |
+| Grand Slam | 0.30% | ~400 |
 | 20,000 Leagues Above the Sea | 0.20% | ~266 |
 | These Boots Are Made For Kickin' | 0.20% | ~16 |
 | Loop Year | 0.10% | ~133 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,164 (Ranked 92)  
+Progressed: 133,171 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 5 (0.00%) (Ranked 405)
 | 2024-01-16 | 133,014 | 5 |
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
-| 2024-01-19 | 133,164 | 5 |
+| 2024-01-19 | 133,171 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
 Sum: 21,750 (Ranked 58)  

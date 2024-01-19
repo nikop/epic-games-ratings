@@ -6,11 +6,11 @@
 | ---- | ---------- | ----- |
 | Taking Notes | 5.00% | ~11 |
 | A Greener Day | 4.00% | ~9 |
+| A Sad Moment | 4.00% | ~9 |
 | Dry No More | 4.00% | ~9 |
 | Leave My Baby Alone! | 4.00% | ~9 |
 | The Mendel Experiment | 4.00% | ~9 |
 | Time for Renovations | 4.00% | ~9 |
-| A Sad Moment | 3.00% | ~7 |
 | Research Complete | 3.00% | ~7 |
 | Room Revealer | 3.00% | ~7 |
 | Seed of Love | 3.00% | ~7 |

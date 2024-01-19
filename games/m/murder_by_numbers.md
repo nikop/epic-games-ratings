@@ -4,11 +4,12 @@
 Rating: 4.27 (Ranked 911)  
 ## Awards
 Max (Extremely Fun): 20  (Ranked 581)  
-Sum: 20 (Ranked 581)  
-Diff (max vs sum): 0  
+Sum: 40 (Ranked 528)  
+Diff (max vs sum): 53  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 20 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -60,3 +61,4 @@ Diff (max vs sum): 0
 | 2024-01-01 | 4.27 | 20 | 20 |
 | 2024-01-04 | 4.28 | 20 | 20 |
 | 2024-01-06 | 4.27 | 20 | 20 |
+| 2024-01-19 | 4.27 | 20 | 40 |

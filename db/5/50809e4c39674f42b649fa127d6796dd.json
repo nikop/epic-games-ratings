@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 536,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -1648,9 +1648,9 @@
       "ID": "FIRST_ACCEL_COMBO",
       "SetID": "apihg0e",
       "Name": "Combo Convert",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 188
+      "UsersEstimate": 193
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1704,9 +1704,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 252
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1919,8 +1919,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:09:38.0918542+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:58:31.2771628+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:59:40.9557685+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:09:38.0918855+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:48:12.3242283+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:58:31.2771945+00:00"
 }

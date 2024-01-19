@@ -39,17 +39,18 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~1,018 |
 | Escort to Waterdeep | 0.40% | ~1,018 |
 | Waterdeep Detours | 0.40% | ~1,018 |
-| Arcane Suppression | 0.40% | ~883 |
-| Welcome to the Vrocks | 0.40% | ~883 |
-| Misaligned in Sigil | 0.40% | ~883 |
-| Chaos Theory | 0.40% | ~883 |
-| Mind Spike | 0.40% | ~883 |
+| Arcane Suppression | 0.40% | ~884 |
+| Welcome to the Vrocks | 0.40% | ~884 |
+| Misaligned in Sigil | 0.40% | ~884 |
+| Chaos Theory | 0.40% | ~884 |
+| Mind Spike | 0.40% | ~884 |
 | The Silken Swamp | 0.30% | ~764 |
 | Supply Run | 0.30% | ~764 |
 | March of the Undead | 0.30% | ~764 |
 | No Time To Rest | 0.30% | ~764 |
 | Invisible Shadows | 0.30% | ~764 |
 | The Dinner Party | 0.30% | ~764 |
+| The Death Curse | 0.30% | ~764 |
 | A Tale of Two Cities | 0.30% | ~764 |
 | Flying Monkey Skulls of Doom | 0.30% | ~764 |
 | Close Escort | 0.30% | ~764 |
@@ -78,7 +79,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.20% | ~509 |
 | Trollskull Manor | 0.20% | ~509 |
 | Attack on the Manor | 0.20% | ~509 |
-| The Death Curse | 0.20% | ~509 |
 | Treasure Hunters | 0.20% | ~509 |
 | Flies on the Wall | 0.20% | ~509 |
 | Nimble Escape | 0.20% | ~509 |
@@ -91,6 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Difficult Terrain | 0.20% | ~509 |
 | Dinosaur Racing | 0.20% | ~509 |
 | Elturel Has Fallen | 0.20% | ~509 |
+| Resolve Amongst Chaos | 0.20% | ~509 |
 | Market Fluctuations | 0.20% | ~509 |
 | The Giant's Bane Tavern | 0.20% | ~442 |
 | The Long Haul | 0.20% | ~509 |
@@ -364,7 +365,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Everything is Awful | 0.10% | ~255 |
 | Earthquake! | 0.10% | ~221 |
 | Hailstorm! | 0.10% | ~221 |
-| Resolve Amongst Chaos | 0.10% | ~255 |
 | All You Know Is Wrong | 0.10% | ~255 |
 | Shadow Stalkers | 0.10% | ~221 |
 | Avernus Frozen Over | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,598 (Ranked 71)  
+Progressed: 254,606 (Ranked 71)  
 Completed: 2,624 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -827,19 +827,19 @@ Completed: 2,624 (1.03%) (Ranked 179)
 | 2024-01-16 | 254,278 | 2,621 |
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
-| 2024-01-19 | 254,598 | 2,624 |
+| 2024-01-19 | 254,606 | 2,624 |
 ## Awards
 Max (Great for Beginners): 5,792  (Ranked 74)  
-Sum: 33,543 (Ranked 41)  
+Sum: 33,552 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,792 |
-| This game has Diverse Characters | 5,728 |
+| This game has Diverse Characters | 5,731 |
 | This game has Quickly Understood Controls | 4,916 |
 | This game is Relaxing | 4,789 |
+| This game has Amazing Characters | 4,339 |
 | This game is Highly Recommended | 4,337 |
-| This game has Amazing Characters | 4,333 |
 | This game has Playful Visuals | 3,648 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1202,3 +1202,4 @@ Diff (max vs sum): 33
 | 2024-01-16 | 4.07 | - | 5,786 | 33,532 |
 | 2024-01-17 | 4.07 | - | 5,786 | 33,533 |
 | 2024-01-18 | 4.07 | - | 5,792 | 33,543 |
+| 2024-01-19 | 4.07 | - | 5,792 | 33,552 |

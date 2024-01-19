@@ -2,13 +2,13 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 1006,
+  "Ranking_Rating": 1013,
   "Ranking_Popularity": 380,
   "Ranking_PopularitySum": 355,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 100,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 101,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.15,
+  "Rating": 4.14,
   "RatingHistory": [
     {
       "Time": "2023-08-25T11:00:17.1063519+00:00",
@@ -1699,6 +1699,12 @@
       "Rating": 4.15,
       "NumberOfAwards": 415,
       "NumberOfAwardsMax": 101
+    },
+    {
+      "Time": "2024-01-19T01:52:39.0058431+00:00",
+      "Rating": 4.14,
+      "NumberOfAwards": 415,
+      "NumberOfAwardsMax": 101
     }
   ],
   "ReviewsDisabled": false,
@@ -1767,9 +1773,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11033,
+  "EOS_Progressed": 11044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 859,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11957,6 +11963,11 @@
       "Time": "2024-01-19T00:05:31.5248691+00:00",
       "NumProgressed": 11033,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T01:53:54.9652988+00:00",
+      "NumProgressed": 11044,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -11977,7 +11988,7 @@
       "Name": "Stud Finder",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3645
     },
     {
       "ID": "achievement_11",
@@ -11985,7 +11996,7 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1876
+      "UsersEstimate": 1877
     },
     {
       "ID": "achievement_12",
@@ -11993,7 +12004,7 @@
       "Name": "Dealmaker",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2761
     },
     {
       "ID": "achievement_13",
@@ -12001,7 +12012,7 @@
       "Name": "MVP",
       "Percentage": 29,
       "XP": 90,
-      "UsersEstimate": 3200
+      "UsersEstimate": 3203
     },
     {
       "ID": "achievement_14",
@@ -12009,7 +12020,7 @@
       "Name": "ROTY",
       "Percentage": 33,
       "XP": 100,
-      "UsersEstimate": 3641
+      "UsersEstimate": 3645
     },
     {
       "ID": "achievement_15",
@@ -12057,7 +12068,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "achievement_20",
@@ -12065,7 +12076,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6509
+      "UsersEstimate": 6516
     },
     {
       "ID": "achievement_21",
@@ -12073,7 +12084,7 @@
       "Name": "Clean The Pile",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "achievement_3",
@@ -12081,7 +12092,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 662
+      "UsersEstimate": 663
     },
     {
       "ID": "achievement_4",
@@ -12097,7 +12108,7 @@
       "Name": "Change of Scenery",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 1765
+      "UsersEstimate": 1767
     },
     {
       "ID": "achievement_6",
@@ -12105,7 +12116,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 2758
+      "UsersEstimate": 2761
     },
     {
       "ID": "achievement_7",
@@ -12121,7 +12132,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 2869
+      "UsersEstimate": 2871
     },
     {
       "ID": "achievement_9",
@@ -12129,23 +12140,23 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1434
+      "UsersEstimate": 1436
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11033,
+      "Progressed": 11044,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-01-19T00:03:34.8665451+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:05:31.5248687+00:00",
+  "LastChanged": "2024-01-19T01:52:39.0058429+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:53:54.9652984+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:03:34.8665455+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:05:31.5249238+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:52:39.0058435+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:53:54.965344+00:00"
 }

@@ -5,10 +5,10 @@
   "Ranking_Rating": 134,
   "Ranking_Popularity": 133,
   "Ranking_PopularitySum": 127,
-  "Ranking_EOS_Progress": 178,
+  "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 405,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4979,7 +4979,7 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13311,
+  "EOS_Progressed": 13312,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
@@ -19944,6 +19944,11 @@
       "Time": "2024-01-18T18:10:11.7698264+00:00",
       "NumProgressed": 13311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T01:59:57.4463425+00:00",
+      "NumProgressed": 13312,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20155,7 +20160,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1730
+      "UsersEstimate": 1731
     },
     {
       "ID": "28_GreatUpstart",
@@ -20882,21 +20887,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12093,
+      "Progressed": 12094,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13311,
+      "Progressed": 13312,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-18T15:58:21.1198388+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:43.0714254+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:57.4463421+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:58:54.8502431+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:43.0716211+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:47:42.5663446+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:57.4465136+00:00"
 }

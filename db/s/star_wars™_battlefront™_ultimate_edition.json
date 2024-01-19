@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 233,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3027,
+  "EOS_Progressed": 3028,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 143,
+  "EOS_NewPlayers": 141,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8244,6 +8244,11 @@
       "Time": "2024-01-18T21:11:53.5640049+00:00",
       "NumProgressed": 3027,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T01:59:56.1378825+00:00",
+      "NumProgressed": 3028,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8480,7 +8485,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2603
+      "UsersEstimate": 2604
     },
     {
       "ID": "achievement_36",
@@ -8496,7 +8501,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "achievement_38",
@@ -8528,7 +8533,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "achievement_41",
@@ -8542,9 +8547,9 @@
       "ID": "achievement_42",
       "SetID": "271ol84",
       "Name": "Not bad for a little furball",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 121
     },
     {
       "ID": "achievement_43",
@@ -8560,7 +8565,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "achievement_45",
@@ -8759,13 +8764,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3027,
+      "Progressed": 3028,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3027,
+      "Progressed": 3028,
       "Completed": 1
     }
   ],
@@ -8773,8 +8778,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:41.3416289+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:56.137882+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:01:00.7941009+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:41.3417009+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:49:03.0861769+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:56.1379734+00:00"
 }

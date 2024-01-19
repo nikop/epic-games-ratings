@@ -6,8 +6,8 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,013 |
-| Alt+F4 | 11.00% | ~27,355 |
+| Sowwy! | 37.00% | ~92,015 |
+| Alt+F4 | 11.00% | ~27,356 |
 | Where's that freaking Dwarf? | 9.00% | ~22,382 |
 | Déjà vu | 8.00% | ~19,895 |
 | Sock! SOCK! | 6.00% | ~14,921 |
@@ -16,8 +16,8 @@ Number of Ratings: 118  (23.09.2022)
 | GG EZ | 5.00% | ~12,434 |
 | DM intervention | 5.00% | ~12,434 |
 | Fireproof Wizardess | 5.00% | ~12,434 |
-| Way of the Wimp | 4.00% | ~9,947 |
-| The plot thickens... At the tavern | 4.00% | ~9,947 |
+| Way of the Wimp | 4.00% | ~9,948 |
+| The plot thickens... At the tavern | 4.00% | ~9,948 |
 | Livin' in a dwarven paradise | 3.00% | ~7,461 |
 | The demons' feast | 3.00% | ~7,461 |
 | The Great Library | 3.00% | ~7,461 |
@@ -47,7 +47,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 1.00% | ~2,487 |
 | Material Girl | 1.00% | ~2,487 |
 | We come in peace | 0.90% | ~2,238 |
-| An old poacher makes the best gamekeeper | 0.80% | ~1,989 |
+| An old poacher makes the best gamekeeper | 0.80% | ~1,990 |
 | Holistic Adventuring Party | 0.70% | ~1,741 |
 | Law and Order | 0.70% | ~1,741 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,492 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,684 (Ranked 73)  
+Progressed: 248,689 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 9 (0.00%) (Ranked 405)
 | 2024-01-16 | 248,418 | 9 |
 | 2024-01-17 | 248,553 | 9 |
 | 2024-01-18 | 248,677 | 9 |
-| 2024-01-19 | 248,684 | 9 |
+| 2024-01-19 | 248,689 | 9 |
 ## Awards
 Max (Character Customization): 272  (Ranked 278)  
 Sum: 575 (Ranked 331)  

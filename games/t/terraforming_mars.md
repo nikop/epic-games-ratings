@@ -6,28 +6,28 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~33,692 |
-| Final touch | 34.00% | ~30,960 |
-| Prop-M Rover | 32.00% | ~29,139 |
+| It's a steal! | 37.00% | ~33,693 |
+| Final touch | 34.00% | ~30,961 |
+| Prop-M Rover | 32.00% | ~29,140 |
 | Changing the Planet | 28.00% | ~25,497 |
-| Sojourner | 26.00% | ~23,675 |
+| Sojourner | 26.00% | ~23,676 |
 | New Home | 23.00% | ~20,944 |
 | Beagle 2 | 23.00% | ~20,944 |
 | Winner Winner Terraformer | 20.00% | ~18,212 |
-| Project Manager | 19.00% | ~17,301 |
-| Collector | 19.00% | ~17,301 |
+| Project Manager | 19.00% | ~17,302 |
+| Collector | 19.00% | ~17,302 |
 | Curiosity | 18.00% | ~16,391 |
 | Master | 18.00% | ~16,391 |
 | No Longer Red | 17.00% | ~15,480 |
 | Self-sufficient | 17.00% | ~15,480 |
 | Money money | 15.00% | ~13,659 |
-| First Journey | 14.00% | ~12,748 |
+| First Journey | 14.00% | ~12,749 |
 | Biggest Reward | 13.00% | ~11,838 |
 | Acquired knowledge | 12.00% | ~10,927 |
-| Landlord | 11.00% | ~10,016 |
-| Most Achievements | 11.00% | ~10,016 |
-| Hellenic Elysium | 11.00% | ~10,016 |
-| Grand champion | 11.00% | ~10,016 |
+| Landlord | 11.00% | ~10,017 |
+| Most Achievements | 11.00% | ~10,017 |
+| Hellenic Elysium | 11.00% | ~10,017 |
+| Grand champion | 11.00% | ~10,017 |
 | Spirit | 10.00% | ~9,106 |
 | Variety Expert | 9.00% | ~8,195 |
 | Ultimate success | 9.00% | ~8,195 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Opportunity | 3.00% | ~2,732 |
 | Team Effort | 2.00% | ~1,821 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,059 (Ranked 107)  
+Progressed: 91,061 (Ranked 107)  
 Completed: 185 (0.20%) (Ranked 286)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,10 +311,10 @@ Completed: 185 (0.20%) (Ranked 286)
 | 2024-01-16 | 90,830 | 184 |
 | 2024-01-17 | 90,943 | 184 |
 | 2024-01-18 | 91,055 | 185 |
-| 2024-01-19 | 91,059 | 185 |
+| 2024-01-19 | 91,061 | 185 |
 ## Awards
 Max (Relaxing): 545  (Ranked 219)  
-Sum: 3,352 (Ranked 180)  
+Sum: 3,353 (Ranked 180)  
 Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
@@ -323,7 +323,7 @@ Diff (max vs sum): 39
 | This game has Quickly Understood Controls | 482 |
 | This game is Extremely Fun | 479 |
 | This game has Competitive Players | 473 |
-| This game has Amazing Storytelling | 379 |
+| This game has Amazing Storytelling | 380 |
 | This game has Obsessive Gameplay | 334 |
 | This game has a Competitive Community | 265 |
 | This game has Amazing Characters | 207 |
@@ -591,3 +591,4 @@ Diff (max vs sum): 39
 | 2024-01-15 | 4.53 | - | 543 | 3,345 |
 | 2024-01-17 | 4.53 | - | 544 | 3,348 |
 | 2024-01-18 | 4.53 | - | 545 | 3,352 |
+| 2024-01-19 | 4.53 | - | 545 | 3,353 |

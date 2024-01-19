@@ -4,8 +4,8 @@
   "ProductSlug": "the-case-of-the-golden-idol-ce58f7",
   "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 109,
-  "Ranking_EOS_NewPlayers": 416,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-03-23T16:00:00+00:00",
     "PcReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253,
+  "EOS_Progressed": 254,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.16,
+  "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:11.7250837+00:00",
@@ -1066,6 +1066,11 @@
       "Time": "2024-01-17T14:07:21.3922834+00:00",
       "NumProgressed": 253,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-19T01:53:30.4331575+00:00",
+      "NumProgressed": 254,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 17,
@@ -1099,9 +1104,9 @@
       "ID": "2",
       "SetID": "acl54ke",
       "Name": "Solved third case",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "3",
@@ -1109,7 +1114,7 @@
       "Name": "Solved fourth case",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "4",
@@ -1212,13 +1217,13 @@
     {
       "ID": "acl54ke",
       "IsBase": true,
-      "Progressed": 253,
+      "Progressed": 254,
       "Completed": 8
     },
     {
       "ID": "a3epimb",
       "IsBase": false,
-      "Progressed": 200,
+      "Progressed": 201,
       "Completed": 109
     }
   ],
@@ -1226,8 +1231,8 @@
   "FirstSeenRating": "2023-03-31T05:57:12.5416632+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.7250844+00:00",
   "LastChanged": "2023-03-31T05:57:12.5416633+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:04:55.5141027+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:53:30.4331568+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.2288572+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:59:58.8714656+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:04:55.5141189+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:48:23.311327+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:53:30.4331741+00:00"
 }

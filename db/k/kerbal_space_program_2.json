@@ -4,11 +4,11 @@
   "ProductSlug": "kerbal-space-program-2",
   "Ranking_Rating": 921,
   "Ranking_Popularity": 452,
-  "Ranking_PopularitySum": 370,
+  "Ranking_PopularitySum": 380,
   "Ranking_EOS_Progress": 842,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 552,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-24T14:00:00+00:00",
     "PcReleaseDate": "2023-02-24T14:00:00+00:00",
@@ -1325,10 +1325,16 @@
       "Rating": 4.26,
       "NumberOfAwards": 351,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-01-19T01:53:13.113269+00:00",
+      "Rating": 4.26,
+      "NumberOfAwards": 307,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 351,
+  "NumberOfAwards": 307,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -1405,8 +1411,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-02-24T16:58:34.691796+00:00",
   "FirstSeenRating": "2023-02-27T02:15:09.7091148+00:00",
-  "LastChanged": "2024-01-18T10:04:20.0951027+00:00",
+  "LastChanged": "2024-01-19T01:53:13.1132688+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:54:01.3504148+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:04:29.9521702+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:06:06.4006825+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:53:13.1132693+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:54:18.227975+00:00"
 }

@@ -30,6 +30,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids | 3.00% | ~509 |
 | Learn to Play 1 | 3.00% | ~509 |
 | Judaism | 3.00% | ~509 |
+| Babylonian Paganism | 3.00% | ~509 |
 | Greek Paganism | 3.00% | ~509 |
 | Naming Landmarks | 3.00% | ~509 |
 | Trade Caravan | 3.00% | ~509 |
@@ -54,7 +55,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 2 | 2.00% | ~340 |
 | Christianity | 2.00% | ~340 |
 | Manichaeism | 2.00% | ~340 |
-| Babylonian Paganism | 2.00% | ~340 |
 | Carthaginian Paganism | 2.00% | ~340 |
 | Egyptian Paganism | 2.00% | ~340 |
 | Roman Paganism | 2.00% | ~340 |
@@ -160,6 +160,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh | 0.30% | ~51 |
 | Cothon | 0.30% | ~51 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
+| Silver Victory (Carthage 1) | 0.20% | ~34 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Cleopatra's Love | 0.20% | ~34 |
 | Ancient | 0.20% | ~34 |
@@ -199,7 +200,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia in Byzantion | 0.10% | ~17 |
 | Epic Victory (Carthage 1) | 0.10% | ~17 |
 | Gold Victory (Carthage 1) | 0.10% | ~17 |
-| Silver Victory (Carthage 1) | 0.10% | ~17 |
 | Bronze Victory (Carthage 2) | 0.10% | ~17 |
 | Epic Victory (Carthage 2) | 0.10% | ~17 |
 | Gold Victory (Carthage 2) | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,976 (Ranked 169)  
+Progressed: 16,980 (Ranked 169)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -639,7 +639,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-16 | 16,928 | 5 |
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
-| 2024-01-19 | 16,976 | 5 |
+| 2024-01-19 | 16,980 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,937 (Ranked 223)  

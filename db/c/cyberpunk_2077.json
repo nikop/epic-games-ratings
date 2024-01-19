@@ -18686,10 +18686,10 @@
       "Count": 19515
     }
   ],
-  "EOS_Progressed": 1054528,
-  "EOS_Completed": 3123,
-  "EOS_NewPlayers": 7793,
-  "EOS_NewCompleters": 52,
+  "EOS_Progressed": 1054549,
+  "EOS_Completed": 3124,
+  "EOS_NewPlayers": 7727,
+  "EOS_NewCompleters": 53,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50021,6 +50021,11 @@
       "Time": "2024-01-19T00:09:56.6183424+00:00",
       "NumProgressed": 1054528,
       "NumCompleted": 3123
+    },
+    {
+      "Time": "2024-01-19T01:58:43.8109366+00:00",
+      "NumProgressed": 1054549,
+      "NumCompleted": 3124
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50343,9 +50348,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1055
+      "UsersEstimate": 2109
     },
     {
       "ID": "UnderPressure",
@@ -50489,7 +50494,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 549
+      "UsersEstimate": 550
     },
     {
       "ID": "HydraIsDead",
@@ -50568,21 +50573,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1054528,
-      "Completed": 3123
+      "Progressed": 1054549,
+      "Completed": 3124
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183151,
+      "Progressed": 183172,
       "Completed": 10653
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-18T23:03:37.0710674+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:09:56.6183422+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:58:43.8109362+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:04:12.1497242+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:09:56.6185184+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:53:01.880542+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:58:43.8111089+00:00"
 }

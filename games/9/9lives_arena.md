@@ -1,7 +1,7 @@
 # 9Lives Arena
 [Store](https://store.epicgames.com/en-US/p/9lives-arena-fb6229)  
 [View Rawdata](../../db/9/9lives_arena.json)  
-Rating: 4.38 (Ranked 798)  
+Rating: 4.40 (Ranked 772)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.38 (Ranked 798)
 | Epic Angler Trophy | 0.00% | ~0 |
 | Silver Angler Trophy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,203 (Ranked 217)  
+Progressed: 4,207 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 405)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -46,7 +46,7 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-16 | 4,075 | 0 |
 | 2024-01-17 | 4,139 | 0 |
 | 2024-01-18 | 4,202 | 0 |
-| 2024-01-19 | 4,203 | 0 |
+| 2024-01-19 | 4,207 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -59,3 +59,4 @@ Completed: 0 (0.00%) (Ranked 405)
 | 2024-01-13 | 4.41 | 0 | 0 |
 | 2024-01-15 | 4.36 | 0 | 0 |
 | 2024-01-16 | 4.38 | 0 | 0 |
+| 2024-01-19 | 4.40 | 0 | 0 |

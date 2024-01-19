@@ -4,11 +4,11 @@
   "ProductSlug": "destroy-all-humans-2-reprobed",
   "Ranking_Rating": 551,
   "Ranking_Popularity": 502,
-  "Ranking_PopularitySum": 535,
-  "Ranking_EOS_Progress": 366,
+  "Ranking_PopularitySum": 536,
+  "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 236,
-  "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 447,
+  "EOS_Progressed": 448,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -2036,6 +2036,11 @@
       "Time": "2024-01-19T00:10:42.7639087+00:00",
       "NumProgressed": 447,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-19T01:59:15.3482849+00:00",
+      "NumProgressed": 448,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2048,7 +2053,7 @@
       "Name": "Mash Machine",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2078,9 +2083,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 215
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2182,9 +2187,9 @@
       "ID": "ACH_ENTER_BAYCITY",
       "SetID": "4n84pon",
       "Name": "Rock of the Bay",
-      "Percentage": 84,
+      "Percentage": 83,
       "XP": 25,
-      "UsersEstimate": 375
+      "UsersEstimate": 372
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2200,7 +2205,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2399,7 +2404,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 447,
+      "Progressed": 448,
       "Completed": 2
     }
   ],
@@ -2407,8 +2412,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:10:42.7639085+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:15.3482845+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:00:51.5773715+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:10:42.7639463+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:48:57.1869506+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:15.3483209+00:00"
 }

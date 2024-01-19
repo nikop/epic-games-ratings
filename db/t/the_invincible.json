@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1742,
+  "EOS_Progressed": 1743,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4660,6 +4660,11 @@
       "Time": "2024-01-18T21:11:17.973902+00:00",
       "NumProgressed": 1742,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-19T01:59:29.3602762+00:00",
+      "NumProgressed": 1743,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4670,9 +4675,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1010
+      "UsersEstimate": 994
     },
     {
       "ID": "AchvAllMemories",
@@ -4800,7 +4805,7 @@
       "Name": "The Necroevolution",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "AchvNest",
@@ -4840,7 +4845,7 @@
       "Name": "The field base",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 836
+      "UsersEstimate": 837
     },
     {
       "ID": "AchvReachCamp",
@@ -4848,7 +4853,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "AchvReachCity",
@@ -4903,7 +4908,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1742,
+      "Progressed": 1743,
       "Completed": 1
     }
   ],
@@ -4911,8 +4916,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:03.1796488+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:29.3602756+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:59:55.7531897+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:03.1797207+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:48:21.3574525+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:29.360329+00:00"
 }

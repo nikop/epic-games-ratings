@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 587,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 360,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 648,
+  "EOS_Progressed": 649,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.93,
   "EosHistory": [
@@ -1169,6 +1169,11 @@
       "Time": "2024-01-17T21:10:04.5316071+00:00",
       "NumProgressed": 648,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-19T01:59:48.4505136+00:00",
+      "NumProgressed": 649,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 32,
@@ -1186,9 +1191,9 @@
       "ID": "ANNOYING",
       "SetID": "2iigf77",
       "Name": "Annoying",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 123
+      "UsersEstimate": 117
     },
     {
       "ID": "BLADE_RUNNER",
@@ -1202,9 +1207,9 @@
       "ID": "BUCKLE_UP",
       "SetID": "2iigf77",
       "Name": "Buckle up",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 376
+      "UsersEstimate": 383
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1220,7 +1225,7 @@
       "Name": "Curious",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "EVERYBODY_LIES",
@@ -1228,15 +1233,15 @@
       "Name": "Everybody lies",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "EVERY_LITTLE_HELPS",
       "SetID": "2iigf77",
       "Name": "Every little helps",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 136
+      "UsersEstimate": 130
     },
     {
       "ID": "FOUND_IT",
@@ -1370,9 +1375,9 @@
       "ID": "QUICK_CHARGE",
       "SetID": "2iigf77",
       "Name": "Quick charge",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 376
+      "UsersEstimate": 383
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1435,7 +1440,7 @@
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 648,
+      "Progressed": 649,
       "Completed": 19
     }
   ],
@@ -1443,8 +1448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:30.1462085+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:48.4505132+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:30.6529404+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:01:23.1131215+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:30.1462303+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:49:17.3846734+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:48.4505338+00:00"
 }

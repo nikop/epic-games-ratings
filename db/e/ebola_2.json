@@ -4,8 +4,8 @@
   "ProductSlug": "ebola-2-b61221",
   "Ranking_EOS_Progress": 393,
   "Ranking_EOS_Completed": 405,
-  "Ranking_EOS_NewPlayers": 435,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 415,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-09T17:00:00+00:00",
     "PcReleaseDate": "2020-12-20T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 330,
+  "EOS_Progressed": 331,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1349,6 +1349,11 @@
       "Time": "2024-01-16T18:10:50.3355286+00:00",
       "NumProgressed": 330,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-19T01:59:42.1585658+00:00",
+      "NumProgressed": 331,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -1448,7 +1453,7 @@
       "Name": "Recluse \u2714",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "achMeat",
@@ -1480,7 +1485,7 @@
       "Name": "Statue \u2714",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "achVirus",
@@ -1503,14 +1508,14 @@
     {
       "ID": "1al1mjg",
       "IsBase": true,
-      "Progressed": 330,
+      "Progressed": 331,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-09T21:58:44.2938175+00:00",
   "FirstSeenAchievements": "2023-05-03T13:06:50.6971729+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:11:21.6074522+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:42.1585655+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:34.6745785+00:00",
-  "LastUpdate_Ratings": "2024-01-19T00:03:53.8229013+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:11:21.6074661+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:52:50.2935005+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:42.1585835+00:00"
 }

@@ -1577,9 +1577,9 @@
       "Count": 155
     }
   ],
-  "EOS_Progressed": 14851,
+  "EOS_Progressed": 14852,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10342,6 +10342,11 @@
       "Time": "2024-01-19T00:10:32.3201787+00:00",
       "NumProgressed": 14851,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-19T01:59:07.9492318+00:00",
+      "NumProgressed": 14852,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -10401,7 +10406,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5940
+      "UsersEstimate": 5941
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -10433,7 +10438,7 @@
       "Name": "Go Home...",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4158
+      "UsersEstimate": 4159
     },
     {
       "ID": "HeroSlayer",
@@ -10465,7 +10470,7 @@
       "Name": "Rules of Etiquette",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 5643
+      "UsersEstimate": 5644
     },
     {
       "ID": "RookieWelcome",
@@ -10489,7 +10494,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "SkeletonKing",
@@ -10505,7 +10510,7 @@
       "Name": "Inventory Management",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 4752
+      "UsersEstimate": 4753
     },
     {
       "ID": "TheLegendBegins",
@@ -10513,7 +10518,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13811
+      "UsersEstimate": 13812
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10521,7 +10526,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 7128
+      "UsersEstimate": 7129
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -10537,22 +10542,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11881
+      "UsersEstimate": 11882
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14851,
+      "Progressed": 14852,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-18T14:57:31.8456825+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:10:32.3201786+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:59:07.9492315+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:58:09.1825526+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:10:32.3202202+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:47:13.8062959+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:59:07.9492899+00:00"
 }

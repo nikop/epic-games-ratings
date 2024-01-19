@@ -5,9 +5,9 @@ Rating: 4.73 (Ranked 182)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You and what Army? | 87.00% | ~3,523 |
-| Flanked! | 75.00% | ~3,037 |
-| Economics 101 | 59.00% | ~2,389 |
+| You and what Army? | 87.00% | ~3,524 |
+| Flanked! | 75.00% | ~3,038 |
+| Economics 101 | 59.00% | ~2,390 |
 | Get Rich Quick | 41.00% | ~1,660 |
 | Do the Splits | 37.00% | ~1,498 |
 | Maestro | 25.00% | ~1,012 |
@@ -16,13 +16,13 @@ Rating: 4.73 (Ranked 182)
 | Nowhere left to Hide | 13.00% | ~526 |
 | All Ovens Blazing | 12.00% | ~486 |
 | Boulder Clash | 12.00% | ~486 |
-| Held Back by the Roots | 11.00% | ~445 |
+| Held Back by the Roots | 11.00% | ~446 |
 | Well Supplied | 10.00% | ~405 |
-| Sniped | 7.00% | ~283 |
-| Leave Them no Cake | 7.00% | ~283 |
-| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~283 |
-| Damage Control | 7.00% | ~283 |
-| Master of the Brawl | 7.00% | ~283 |
+| Sniped | 7.00% | ~284 |
+| Leave Them no Cake | 7.00% | ~284 |
+| Would be a Shame if Someone Would Waste Those Units | 7.00% | ~284 |
+| Damage Control | 7.00% | ~284 |
+| Master of the Brawl | 7.00% | ~284 |
 | Your Biggest Fans | 6.00% | ~243 |
 | A Secret Recipe | 6.00% | ~243 |
 | An Ally in Need | 5.00% | ~202 |
@@ -32,14 +32,14 @@ Rating: 4.73 (Ranked 182)
 | Sweet Revenge | 4.00% | ~162 |
 | We Have the Technology | 4.00% | ~162 |
 | Figure of Breach | 4.00% | ~162 |
-| Work It | 3.00% | ~121 |
-| The Handyman Can! | 3.00% | ~121 |
-| A Brief Moment of Respite | 3.00% | ~121 |
+| Work It | 3.00% | ~122 |
+| The Handyman Can! | 3.00% | ~122 |
+| A Brief Moment of Respite | 3.00% | ~122 |
 | Almost Like Winning | 2.00% | ~81 |
 | Untouchable | 1.00% | ~40 |
 | All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,049 (Ranked 220)  
+Progressed: 4,050 (Ranked 220)  
 Completed: 11 (0.27%) (Ranked 268)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -283,6 +283,7 @@ Completed: 11 (0.27%) (Ranked 268)
 | 2024-01-16 | 4,043 | 11 |
 | 2024-01-17 | 4,045 | 11 |
 | 2024-01-18 | 4,049 | 11 |
+| 2024-01-19 | 4,050 | 11 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

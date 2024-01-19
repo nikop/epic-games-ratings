@@ -3563,10 +3563,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 3352,
       "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2024-01-19T01:47:30.5225107+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 3353,
+      "NumberOfAwardsMax": 545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3352,
+  "NumberOfAwards": 3353,
   "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -3610,7 +3616,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 379
+      "Count": 380
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3625,9 +3631,9 @@
       "Count": 265
     }
   ],
-  "EOS_Progressed": 91059,
+  "EOS_Progressed": 91061,
   "EOS_Completed": 185,
-  "EOS_NewPlayers": 885,
+  "EOS_NewPlayers": 881,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -34265,6 +34271,11 @@
       "Time": "2024-01-19T00:07:39.0724274+00:00",
       "NumProgressed": 91059,
       "NumCompleted": 185
+    },
+    {
+      "Time": "2024-01-19T01:55:21.0510625+00:00",
+      "NumProgressed": 91061,
+      "NumCompleted": 185
     }
   ],
   "TotalAchievements": 30,
@@ -34276,7 +34287,7 @@
       "Name": "First Journey",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 12748
+      "UsersEstimate": 12749
     },
     {
       "ID": "ACHIEVEMENT_01",
@@ -34316,7 +34327,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10016
+      "UsersEstimate": 10017
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -34332,7 +34343,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10016
+      "UsersEstimate": 10017
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -34348,7 +34359,7 @@
       "Name": "Project Manager",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 17301
+      "UsersEstimate": 17302
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -34356,7 +34367,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33692
+      "UsersEstimate": 33693
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -34372,7 +34383,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 29139
+      "UsersEstimate": 29140
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -34412,7 +34423,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 23675
+      "UsersEstimate": 23676
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -34420,7 +34431,7 @@
       "Name": "Collector",
       "Percentage": 19,
       "XP": 100,
-      "UsersEstimate": 17301
+      "UsersEstimate": 17302
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -34452,7 +34463,7 @@
       "Name": "Final touch",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 30960
+      "UsersEstimate": 30961
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -34476,7 +34487,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10016
+      "UsersEstimate": 10017
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -34492,7 +34503,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10016
+      "UsersEstimate": 10017
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -34515,15 +34526,15 @@
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 91059,
+      "Progressed": 91061,
       "Completed": 185
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2024-01-18T20:58:19.4383097+00:00",
-  "LastChanged_Achievements": "2024-01-19T00:07:39.072427+00:00",
+  "LastChanged": "2024-01-19T01:47:30.5225105+00:00",
+  "LastChanged_Achievements": "2024-01-19T01:55:21.051062+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.5201903+00:00",
-  "LastUpdate_Ratings": "2024-01-18T23:58:35.3523247+00:00",
-  "LastUpdate_Achievements": "2024-01-19T00:07:39.0726136+00:00"
+  "LastUpdate_Ratings": "2024-01-19T01:47:30.5225111+00:00",
+  "LastUpdate_Achievements": "2024-01-19T01:55:21.0512377+00:00"
 }
