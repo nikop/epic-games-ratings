@@ -9,7 +9,7 @@
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.63% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
-| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.49% |
+| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.33% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 13 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
@@ -44,7 +44,7 @@
 | 42 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.64% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.29% |
+| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.28% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 47 | [Smelter](games/s/smelter.md) | 8.51% |
 | 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.49% |
@@ -126,7 +126,7 @@
 | 123 | [The Complex](games/t/the_complex.md) | 2.56% |
 | 125 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 126 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
-| 127 | [Destiny 2](games/d/destiny_2.md) | 2.46% |
+| 127 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
 | 128 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.45% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.39% |
@@ -214,10 +214,10 @@
 | 212 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.61% |
 | 212 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.61% |
 | 212 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.61% |
-| 215 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.60% |
-| 216 | [Grindstone](games/g/grindstone.md) | 0.59% |
-| 216 | [Scrapnaut](games/s/scrapnaut.md) | 0.59% |
-| 216 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
+| 215 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
+| 215 | [Grindstone](games/g/grindstone.md) | 0.59% |
+| 215 | [Scrapnaut](games/s/scrapnaut.md) | 0.59% |
+| 215 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
 | 219 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.58% |
 | 220 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.56% |
 | 220 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
@@ -242,8 +242,8 @@
 | 238 | [LEGO® Star Wars™: The Skywalker Saga](games/l/lego®_star_wars™__the_skywalker_saga.md) | 0.44% |
 | 238 | [Wildermyth](games/w/wildermyth.md) | 0.44% |
 | 242 | [Shoulders of Giants](games/s/shoulders_of_giants.md) | 0.43% |
-| 243 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.41% |
-| 243 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.41% |
+| 243 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 0.42% |
+| 244 | [Grand Theft Auto: San Andreas – The Definitive Edition](games/g/grand_theft_auto__san_andreas_–_the_definitive_edition.md) | 0.41% |
 | 245 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 0.40% |
 | 245 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.40% |
 | 245 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.40% |
