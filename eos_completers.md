@@ -9,7 +9,7 @@
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.63% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
-| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.33% |
+| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.75% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 13 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
@@ -52,7 +52,7 @@
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
 | 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.65% |
+| 53 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.68% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
@@ -136,8 +136,8 @@
 | 134 | [Night Book](games/n/night_book.md) | 2.19% |
 | 135 | [tERRORbane](games/t/terrorbane.md) | 2.17% |
 | 136 | [Bloodshore](games/b/bloodshore.md) | 2.05% |
-| 136 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.05% |
-| 138 | [Strange House](games/s/strange_house.md) | 2.04% |
+| 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.04% |
+| 137 | [Strange House](games/s/strange_house.md) | 2.04% |
 | 139 | [Time on Frog Island](games/t/time_on_frog_island.md) | 2.00% |
 | 140 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.95% |
 | 141 | [Somerville](games/s/somerville.md) | 1.94% |
@@ -145,8 +145,8 @@
 | 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
 | 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
-| 145 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.82% |
-| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.79% |
+| 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.79% |
+| 146 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.79% |
 | 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
 | 149 | [Sifu](games/s/sifu.md) | 1.71% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
