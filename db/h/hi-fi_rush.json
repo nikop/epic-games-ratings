@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17453,
+  "EOS_Progressed": 17454,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 497,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12794,6 +12794,11 @@
       "Time": "2024-01-20T06:04:04.1965919+00:00",
       "NumProgressed": 17453,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T08:04:18.5169261+00:00",
+      "NumProgressed": 17454,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12805,7 +12810,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9599
+      "UsersEstimate": 9600
     },
     {
       "ID": "Ach002",
@@ -12837,7 +12842,7 @@
       "Name": "Headliner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "Ach006",
@@ -12933,7 +12938,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "Ach018",
@@ -12997,7 +13002,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5410
+      "UsersEstimate": 5411
     },
     {
       "ID": "Ach026",
@@ -13029,7 +13034,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2443
+      "UsersEstimate": 2444
     },
     {
       "ID": "Ach030",
@@ -13045,7 +13050,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5062
     },
     {
       "ID": "Ach032",
@@ -13173,7 +13178,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7330
+      "UsersEstimate": 7331
     },
     {
       "ID": "Ach048",
@@ -13181,7 +13186,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5061
+      "UsersEstimate": 5062
     },
     {
       "ID": "Ach049",
@@ -13205,7 +13210,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8726
+      "UsersEstimate": 8727
     },
     {
       "ID": "Ach052",
@@ -13301,7 +13306,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 319
+      "UsersEstimate": 320
     },
     {
       "ID": "Ach064",
@@ -13372,13 +13377,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17453,
+      "Progressed": 17454,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15974,
+      "Progressed": 15975,
       "Completed": 1931
     }
   ],
@@ -13386,8 +13391,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:05:12.7204079+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:04:18.516926+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:58:46.006729+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:05:12.7205541+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:58:12.9383641+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:04:18.51702+00:00"
 }

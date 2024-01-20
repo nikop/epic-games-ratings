@@ -28,11 +28,11 @@ Rating: 4.00 (Ranked 1,054)
 | Hard Landing | 3.00% | ~57 |
 | Driver's License | 2.00% | ~38 |
 | Explosive Miner | 2.00% | ~38 |
+| Caveman | 2.00% | ~38 |
 | Planetary Defence | 2.00% | ~38 |
 | Rocket Jump | 2.00% | ~38 |
-| Caveman | 1.00% | ~19 |
+| One does not simply... | 1.00% | ~19 |
 | Thunderstruck | 1.00% | ~19 |
-| One does not simply... | 0.90% | ~17 |
 | 5G Network | 0.80% | ~15 |
 | Rover Mechanic | 0.50% | ~10 |
 | Bull’s eye | 0.40% | ~8 |

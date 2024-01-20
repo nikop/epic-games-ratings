@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 289,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -5285,9 +5285,9 @@
       "ID": "NEW_ACHIEVEMENT_CAVEMAN",
       "SetID": "l546gc",
       "Name": "Caveman",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 38
     },
     {
       "ID": "NEW_ACHIEVEMENT_DEFENCE",
@@ -5429,9 +5429,9 @@
       "ID": "NEW_ACHIEVEMENT_ONE_DOES_NOT_SIMPLY",
       "SetID": "l546gc",
       "Name": "One does not simply...",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 19
     },
     {
       "ID": "NEW_ACHIEVEMENT_PARTY_TIME",
@@ -5542,8 +5542,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-16T15:59:32.5251341+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:10:43.6093274+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:09:42.3471759+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:13.4882555+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:57:54.5474254+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:10:43.6093971+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:57:39.8670247+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:09:42.3472402+00:00"
 }

@@ -254,6 +254,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Queen of War | 0.10% | ~17 |
 | Mighty Bucephalus | 0.10% | ~17 |
 | Knot So Hard | 0.10% | ~17 |
+| Gate to Victory | 0.10% | ~17 |
 | Pharaoh | 0.10% | ~17 |
 | A Tyresome Siege | 0.10% | ~17 |
 | The Eastern Empire | 0.10% | ~17 |
@@ -333,7 +334,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
-| Gate to Victory | 0.00% | ~0 |
 | Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the Alright | 0.00% | ~0 |

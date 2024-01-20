@@ -5,22 +5,22 @@ Rating: 4.10 (Ranked 1,026)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,346 |
-| World Map | 78.00% | ~3,645 |
-| Temple of Eternals | 56.00% | ~2,617 |
-| Prestigious | 52.00% | ~2,430 |
-| Fellowship Power | 42.00% | ~1,963 |
+| Victor | 93.00% | ~4,348 |
+| World Map | 78.00% | ~3,646 |
+| Temple of Eternals | 56.00% | ~2,618 |
+| Prestigious | 52.00% | ~2,431 |
+| Fellowship Power | 42.00% | ~1,964 |
 | Full Party | 30.00% | ~1,402 |
 | Guild Power | 22.00% | ~1,028 |
 | Prestigious x10 | 20.00% | ~935 |
-| The game is on | 18.00% | ~841 |
+| The game is on | 18.00% | ~842 |
 | Exotic Merchant | 16.00% | ~748 |
 | Dragon Clicker | 15.00% | ~701 |
 | Miner Clicker | 15.00% | ~701 |
-| Dragon Master | 13.00% | ~607 |
-| Enlightenment | 13.00% | ~607 |
-| Hero inspection | 13.00% | ~607 |
-| Inspection | 13.00% | ~607 |
+| Dragon Master | 13.00% | ~608 |
+| Enlightenment | 13.00% | ~608 |
+| Hero inspection | 13.00% | ~608 |
+| Inspection | 13.00% | ~608 |
 | Lieutenant | 12.00% | ~561 |
 | Milestone collector | 11.00% | ~514 |
 | Mysterious Rock | 11.00% | ~514 |
@@ -61,13 +61,13 @@ Rating: 4.10 (Ranked 1,026)
 | The Alchemist | 4.00% | ~187 |
 | Arena Challenger | 3.00% | ~140 |
 | Ebony Jungle Liberator | 3.00% | ~140 |
-| Cauldron Liberator | 2.00% | ~93 |
-| Enchanting skill x5 | 2.00% | ~93 |
-| Gear Enchanting | 2.00% | ~93 |
-| Guardian Master | 2.00% | ~93 |
-| Mythic Power | 2.00% | ~93 |
-| Pokerface | 2.00% | ~93 |
-| What lies behind the bush | 2.00% | ~93 |
+| Cauldron Liberator | 2.00% | ~94 |
+| Enchanting skill x5 | 2.00% | ~94 |
+| Gear Enchanting | 2.00% | ~94 |
+| Guardian Master | 2.00% | ~94 |
+| Mythic Power | 2.00% | ~94 |
+| Pokerface | 2.00% | ~94 |
+| What lies behind the bush | 2.00% | ~94 |
 | Conqueror | 1.00% | ~47 |
 | Titan Power | 1.00% | ~47 |
 | Transmute | 1.00% | ~47 |
@@ -81,7 +81,7 @@ Rating: 4.10 (Ranked 1,026)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,673 (Ranked 210)  
+Progressed: 4,675 (Ranked 210)  
 Completed: 2 (0.04%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 2 (0.04%) (Ranked 356)
 | 2024-01-17 | 4,598 | 2 |
 | 2024-01-18 | 4,623 | 2 |
 | 2024-01-19 | 4,665 | 2 |
-| 2024-01-20 | 4,673 | 2 |
+| 2024-01-20 | 4,675 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 162 (Ranked 444)  

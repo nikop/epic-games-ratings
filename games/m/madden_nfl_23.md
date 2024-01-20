@@ -5,9 +5,9 @@ Rating: 4.30 (Ranked 883)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bragging Rights | 56.00% | ~2,519 |
-| MVP | 54.00% | ~2,429 |
-| Big Spender | 53.00% | ~2,384 |
+| Bragging Rights | 56.00% | ~2,521 |
+| MVP | 54.00% | ~2,431 |
+| Big Spender | 53.00% | ~2,386 |
 | Stud Finder | 40.00% | ~1,800 |
 | Dealmaker | 38.00% | ~1,710 |
 | ROTY | 32.00% | ~1,440 |
@@ -22,12 +22,12 @@ Rating: 4.30 (Ranked 883)
 | Pocket Ace | 5.00% | ~225 |
 | Lockdown Corner | 5.00% | ~225 |
 | Head-to-Head | 5.00% | ~225 |
-| Gain Train | 0.90% | ~40 |
-| Ol' Reliable | 0.70% | ~31 |
-| Lockdown Leader | 0.50% | ~22 |
-| The Fortress | 0.30% | ~13 |
+| Gain Train | 0.90% | ~41 |
+| Ol' Reliable | 0.70% | ~32 |
+| Lockdown Leader | 0.50% | ~23 |
+| The Fortress | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,499 (Ranked 212)  
+Progressed: 4,501 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 4,466 | 0 |
 | 2024-01-18 | 4,476 | 0 |
 | 2024-01-19 | 4,488 | 0 |
-| 2024-01-20 | 4,499 | 0 |
+| 2024-01-20 | 4,501 | 0 |
 ## Awards
 Max (Diverse Characters): 48  (Ranked 470)  
 Sum: 179 (Ranked 430)  

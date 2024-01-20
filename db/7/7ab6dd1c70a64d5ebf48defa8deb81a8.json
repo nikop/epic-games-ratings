@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2396,
+  "EOS_Progressed": 2397,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 2,
@@ -4840,6 +4840,11 @@
       "Time": "2024-01-20T07:11:16.4420431+00:00",
       "NumProgressed": 2396,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T08:10:07.0461295+00:00",
+      "NumProgressed": 2397,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4851,7 +4856,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1557
+      "UsersEstimate": 1558
     },
     {
       "ID": "ACH_02",
@@ -4971,7 +4976,7 @@
       "Name": "Essence Blow",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_17",
@@ -5011,7 +5016,7 @@
       "Name": "Big Bazar",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "ACH_22",
@@ -5083,7 +5088,7 @@
       "Name": "Alchemist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     },
     {
       "ID": "ACH_31",
@@ -5138,7 +5143,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2396,
+      "Progressed": 2397,
       "Completed": 5
     }
   ],
@@ -5146,8 +5151,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:11:16.442043+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:10:07.0461292+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:58:40.2519829+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:11:16.4420842+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:58:09.5653672+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:10:07.0461731+00:00"
 }

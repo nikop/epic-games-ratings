@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,193 |
+| A Brief Tour of the Realms | 4.00% | ~10,194 |
 | Beast Intentions | 2.00% | ~5,097 |
 | The Cursed Farmer | 2.00% | ~5,097 |
 | The Mad Wizard | 2.00% | ~5,097 |
@@ -69,6 +69,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Heavy Burden | 0.20% | ~510 |
 | Vecna Lives! | 0.20% | ~442 |
 | Vecna Loots! | 0.20% | ~442 |
+| Return to the Tomb | 0.20% | ~442 |
 | Homecoming | 0.20% | ~510 |
 | The Lost Heir of Omu | 0.20% | ~510 |
 | The Forbidden City | 0.20% | ~510 |
@@ -190,7 +191,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Well Equipped | 0.10% | ~221 |
 | Friends of the Forest | 0.10% | ~255 |
 | More Than Well Equipped | 0.10% | ~221 |
-| Return to the Tomb | 0.10% | ~221 |
 | Arcane Efforts | 0.10% | ~221 |
 | Keep Your Distance | 0.10% | ~221 |
 | Heatwave | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,836 (Ranked 71)  
+Progressed: 254,840 (Ranked 71)  
 Completed: 2,627 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,7 +828,7 @@ Completed: 2,627 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,836 | 2,627 |
+| 2024-01-20 | 254,840 | 2,627 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,576 (Ranked 41)  

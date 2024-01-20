@@ -26,12 +26,12 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Love | 0.40% | ~114 |
 | K.O. | 0.40% | ~114 |
 | Just the Beginning | 0.40% | ~114 |
+| Wasted Betrayal | 0.40% | ~114 |
 | Jack of all Trades | 0.40% | ~114 |
 | Color Coordination | 0.40% | ~114 |
 | For Wrath | 0.30% | ~85 |
 | For Pride | 0.30% | ~85 |
 | Maybe Wax Doesn't Melt | 0.30% | ~85 |
-| Wasted Betrayal | 0.30% | ~85 |
 | Black-shoppe | 0.20% | ~57 |
 | For Greed | 0.20% | ~57 |
 | For Penance | 0.20% | ~57 |

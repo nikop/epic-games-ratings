@@ -9697,9 +9697,9 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254836,
+  "EOS_Progressed": 254840,
   "EOS_Completed": 2627,
-  "EOS_NewPlayers": 1193,
+  "EOS_NewPlayers": 1191,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40897,6 +40897,11 @@
       "Time": "2024-01-20T07:11:28.7601186+00:00",
       "NumProgressed": 254836,
       "NumCompleted": 2627
+    },
+    {
+      "Time": "2024-01-20T08:10:17.5602665+00:00",
+      "NumProgressed": 254840,
+      "NumCompleted": 2627
     }
   ],
   "TotalAchievements": 546,
@@ -40908,7 +40913,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10193
+      "UsersEstimate": 10194
     },
     {
       "ID": "objective_completed_10",
@@ -41642,9 +41647,9 @@
       "ID": "objective_completed_1173",
       "SetID": "415jc5c",
       "Name": "Return to the Tomb",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 442
     },
     {
       "ID": "objective_completed_1174",
@@ -45275,21 +45280,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221110,
+      "Progressed": 221114,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254836,
+      "Progressed": 254840,
       "Completed": 2627
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-20T04:59:58.4029693+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:11:28.7601183+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:10:17.5602663+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:01:22.4063892+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:11:28.7623903+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:59:58.1758484+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:10:17.5624884+00:00"
 }

@@ -18770,9 +18770,9 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055413,
+  "EOS_Progressed": 1055441,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6573,
+  "EOS_NewPlayers": 6534,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50260,6 +50260,11 @@
       "Time": "2024-01-20T07:09:14.6299449+00:00",
       "NumProgressed": 1055413,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-20T08:08:59.9125556+00:00",
+      "NumProgressed": 1055441,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50574,9 +50579,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 2111
+      "UsersEstimate": 3166
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -50807,21 +50812,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055413,
+      "Progressed": 1055441,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184036,
+      "Progressed": 184064,
       "Completed": 10663
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-20T06:02:58.5382342+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:09:14.6299445+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:08:59.912555+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:03:14.7872491+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:09:14.6301215+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:03:10.025297+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:08:59.9127014+00:00"
 }

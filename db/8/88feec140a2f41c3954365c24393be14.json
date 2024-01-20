@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 97,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 5,
+  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewCompleters": 6,
   "Store": {
     "ReleaseDate": "2023-09-14T12:00:00+00:00",
     "PcReleaseDate": "2023-09-14T12:00:00+00:00",
@@ -203,10 +203,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 114877,
+  "EOS_Progressed": 114878,
   "EOS_Completed": 5698,
-  "EOS_NewPlayers": 1258,
-  "EOS_NewCompleters": 101,
+  "EOS_NewPlayers": 1253,
+  "EOS_NewCompleters": 99,
   "EOS_Completed_Percentage": 4.96,
   "EosHistory": [
     {
@@ -14973,6 +14973,11 @@
       "Time": "2024-01-20T07:08:39.9098385+00:00",
       "NumProgressed": 114877,
       "NumCompleted": 5698
+    },
+    {
+      "Time": "2024-01-20T08:08:35.2374184+00:00",
+      "NumProgressed": 114878,
+      "NumCompleted": 5698
     }
   ],
   "AchievementsAdded": "2023-09-14T13:08:14.9328162+00:00",
@@ -15033,7 +15038,7 @@
       "Name": "The Art of Parley",
       "Percentage": 77,
       "XP": 75,
-      "UsersEstimate": 88455
+      "UsersEstimate": 88456
     },
     {
       "ID": "TheGoldenRatio",
@@ -15049,7 +15054,7 @@
       "Name": "Tiles, Trails, Treasure!",
       "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 70075
+      "UsersEstimate": 70076
     },
     {
       "ID": "WeCanDoBetter",
@@ -15057,7 +15062,7 @@
       "Name": "We Can Do Better!",
       "Percentage": 78,
       "XP": 25,
-      "UsersEstimate": 89604
+      "UsersEstimate": 89605
     },
     {
       "ID": "WeighAnchorSetSail",
@@ -15073,14 +15078,14 @@
       "Name": "Welcome Aboard!",
       "Percentage": 79,
       "XP": 25,
-      "UsersEstimate": 90753
+      "UsersEstimate": 90754
     }
   ],
   "AchievementSets": [
     {
       "ID": "bcl47p5",
       "IsBase": true,
-      "Progressed": 114877,
+      "Progressed": 114878,
       "Completed": 5698
     }
   ],
@@ -15088,8 +15093,8 @@
   "FirstSeenRating": "2023-09-22T19:59:25.5945535+00:00",
   "FirstSeenAchievements": "2023-09-14T13:08:14.9328161+00:00",
   "LastChanged": "2024-01-12T23:58:14.6562948+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:08:39.9098382+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:08:35.2374181+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:12.4175443+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:58:44.9673177+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:08:39.9099423+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:58:12.3082804+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:08:35.2374883+00:00"
 }

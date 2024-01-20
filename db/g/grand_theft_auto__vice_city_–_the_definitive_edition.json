@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16572,
+  "EOS_Progressed": 16573,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -18624,6 +18624,11 @@
       "Time": "2024-01-20T07:11:03.7058765+00:00",
       "NumProgressed": 16572,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-20T08:09:57.066338+00:00",
+      "NumProgressed": 16573,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 34,
@@ -18811,7 +18816,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4474
+      "UsersEstimate": 4475
     },
     {
       "ID": "ACH24",
@@ -18867,7 +18872,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1491
+      "UsersEstimate": 1492
     },
     {
       "ID": "ACH31",
@@ -18906,7 +18911,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16572,
+      "Progressed": 16573,
       "Completed": 107
     }
   ],
@@ -18914,8 +18919,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:11:03.7058762+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:09:57.0663372+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:00:18.1316531+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:11:03.7059781+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:59:16.0810327+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:09:57.0664386+00:00"
 }

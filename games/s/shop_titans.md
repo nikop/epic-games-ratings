@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,258 |
+| Sponsored by Argon | 12.00% | ~18,259 |
 | Basic in Bulk | 11.00% | ~16,737 |
 | Titan's First Steps | 11.00% | ~16,737 |
-| Tinkle of Coins | 10.00% | ~15,215 |
-| Disintermediation | 8.00% | ~12,172 |
-| Capitalism Ho! | 8.00% | ~12,172 |
+| Tinkle of Coins | 10.00% | ~15,216 |
+| Disintermediation | 8.00% | ~12,173 |
+| Capitalism Ho! | 8.00% | ~12,173 |
 | It's Free Real Estate | 7.00% | ~10,651 |
 | Budding Merchant | 7.00% | ~10,651 |
 | One Easy Payment | 6.00% | ~9,129 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~609 |
 | Capitalist Camaraderie | 0.30% | ~456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,151 (Ranked 87)  
+Progressed: 152,157 (Ranked 87)  
 Completed: 359 (0.24%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,10 +394,10 @@ Completed: 359 (0.24%) (Ranked 276)
 | 2024-01-17 | 151,701 | 359 |
 | 2024-01-18 | 151,873 | 359 |
 | 2024-01-19 | 152,097 | 359 |
-| 2024-01-20 | 152,151 | 359 |
+| 2024-01-20 | 152,157 | 359 |
 ## Awards
 Max (Great for Beginners): 4,966  (Ranked 82)  
-Sum: 28,017 (Ranked 52)  
+Sum: 28,018 (Ranked 52)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -407,7 +407,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 4,042 |
 | This game is Highly Recommended | 3,826 |
 | This game has Easy Combat | 3,778 |
-| This game has Playful Visuals | 3,249 |
+| This game has Playful Visuals | 3,250 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -766,3 +766,4 @@ Diff (max vs sum): 30
 | 2024-01-17 | 4.00 | - | 4,964 | 28,010 |
 | 2024-01-18 | 4.00 | - | 4,964 | 28,013 |
 | 2024-01-19 | 4.00 | - | 4,966 | 28,017 |
+| 2024-01-20 | 4.00 | - | 4,966 | 28,018 |

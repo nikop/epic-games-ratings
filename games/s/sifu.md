@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,715 |
+| The Old Grandmaster | 6.00% | ~45,716 |
 | The Assault | 5.00% | ~38,096 |
 | Life is your teacher | 5.00% | ~38,096 |
 | Lightning Hands | 5.00% | ~38,096 |
@@ -16,17 +16,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 3.00% | ~22,858 |
 | Qi Gong: Essence | 3.00% | ~22,858 |
 | Old Child | 3.00% | ~22,858 |
-| A Lady's Blood in the Snow | 2.00% | ~15,238 |
-| Lady Wing Chun | 2.00% | ~15,238 |
-| Furious Fists | 2.00% | ~15,238 |
-| Kill Nil | 2.00% | ~15,238 |
-| Qi Gong: Mind | 2.00% | ~15,238 |
-| Qi Gong: Breath | 2.00% | ~15,238 |
-| I know Kung-Fu | 2.00% | ~15,238 |
-| Path of the Prospect | 2.00% | ~15,238 |
-| Rumble in the Hangar | 2.00% | ~15,238 |
-| Take damage to save time | 2.00% | ~15,238 |
-| Diligence as a goal | 2.00% | ~1,424 |
+| A Lady's Blood in the Snow | 2.00% | ~15,239 |
+| Lady Wing Chun | 2.00% | ~15,239 |
+| Furious Fists | 2.00% | ~15,239 |
+| Kill Nil | 2.00% | ~15,239 |
+| Qi Gong: Mind | 2.00% | ~15,239 |
+| Qi Gong: Breath | 2.00% | ~15,239 |
+| I know Kung-Fu | 2.00% | ~15,239 |
+| Path of the Prospect | 2.00% | ~15,239 |
+| Rumble in the Hangar | 2.00% | ~15,239 |
+| Take damage to save time | 2.00% | ~15,239 |
+| Diligence as a goal | 2.00% | ~1,425 |
 | Scareless | 1.00% | ~7,619 |
 | Dance of the Praying Mantis | 1.00% | ~7,619 |
 | Kung-Fu Tussle | 1.00% | ~7,619 |
@@ -39,10 +39,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Hub | 0.70% | ~499 |
 | Iron Money | 0.60% | ~4,572 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,572 |
+| The 36th Chamber of Kung-Fu | 0.60% | ~4,572 |
 | Sword Stained With Blood | 0.60% | ~4,572 |
 | Bloody Sport | 0.60% | ~427 |
 | Prodigal Child | 0.50% | ~3,810 |
-| The 36th Chamber of Kung-Fu | 0.50% | ~3,810 |
 | The best strikes are the ones we avoid | 0.50% | ~356 |
 | Knowledge Greed | 0.40% | ~3,048 |
 | The Pit Protector | 0.40% | ~3,048 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,917 (Ranked 26)  
+Progressed: 761,926 (Ranked 26)  
 Completed: 12,997 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,10 +342,10 @@ Completed: 12,997 (1.71%) (Ranked 149)
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
-| 2024-01-20 | 761,917 | 12,997 |
+| 2024-01-20 | 761,926 | 12,997 |
 ## Awards
 Max (Great Boss Battles): 7,245  (Ranked 58)  
-Sum: 12,820 (Ranked 87)  
+Sum: 12,822 (Ranked 87)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): -29
 | This game has Diverse Characters | 709 |
 | This game has Challenging Combat | 651 |
 | This game has Amazing Storytelling | 626 |
-| This game has Amazing Characters | 620 |
+| This game has Amazing Characters | 622 |
 | This game is Highly Recommended | 613 |
 | This game has Quickly Understood Controls | 601 |
 | This game has Unique Visuals | 595 |
@@ -731,4 +731,4 @@ Diff (max vs sum): -29
 | 2024-01-17 | 4.82 | - | 7,227 | 12,784 |
 | 2024-01-18 | 4.82 | - | 7,227 | 12,798 |
 | 2024-01-19 | 4.82 | - | 7,237 | 12,812 |
-| 2024-01-20 | 4.82 | - | 7,245 | 12,820 |
+| 2024-01-20 | 4.82 | - | 7,245 | 12,822 |

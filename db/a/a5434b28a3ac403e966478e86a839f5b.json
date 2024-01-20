@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 162,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,11 +20,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 979,
+  "EOS_Progressed": 980,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.23,
+  "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -3460,6 +3460,11 @@
       "Time": "2024-01-19T23:09:20.6358238+00:00",
       "NumProgressed": 979,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-20T08:03:23.72833+00:00",
+      "NumProgressed": 980,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3488,7 +3493,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ACH_eou3",
@@ -3536,7 +3541,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_mg2",
@@ -3575,14 +3580,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 979,
+      "Progressed": 980,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:08:48.6857594+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:03:23.7283295+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:57:55.5610556+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:08:48.6857848+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:57:40.5108614+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:03:23.7298689+00:00"
 }

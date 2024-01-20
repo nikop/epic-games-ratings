@@ -8183,10 +8183,16 @@
       "Rating": 4,
       "NumberOfAwards": 28017,
       "NumberOfAwardsMax": 4966
+    },
+    {
+      "Time": "2024-01-20T08:03:15.6453393+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28018,
+      "NumberOfAwardsMax": 4966
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28017,
+  "NumberOfAwards": 28018,
   "NumberOfAwardsMax": 4966,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8230,7 +8236,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 3249
+      "Count": 3250
     },
     {
       "Text": "This game is Highly Recommended",
@@ -8239,9 +8245,9 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 152151,
+  "EOS_Progressed": 152157,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1206,
+  "EOS_NewPlayers": 1211,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37424,6 +37430,11 @@
       "Time": "2024-01-20T07:10:02.3364482+00:00",
       "NumProgressed": 152151,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-20T08:09:12.6428771+00:00",
+      "NumProgressed": 152157,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 112,
@@ -37603,7 +37614,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18258
+      "UsersEstimate": 18259
     },
     {
       "ID": "chest02",
@@ -37699,7 +37710,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12172
+      "UsersEstimate": 12173
     },
     {
       "ID": "craft02",
@@ -37907,7 +37918,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15215
+      "UsersEstimate": 15216
     },
     {
       "ID": "gold02",
@@ -38211,7 +38222,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12172
+      "UsersEstimate": 12173
     },
     {
       "ID": "sell02",
@@ -38330,15 +38341,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152151,
+      "Progressed": 152157,
       "Completed": 359
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-19T18:03:11.8654886+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:10:02.336448+00:00",
+  "LastChanged": "2024-01-20T08:03:15.6453392+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:09:12.6428768+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:03:23.6033771+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:10:02.336739+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:03:15.6453397+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:09:12.6430821+00:00"
 }

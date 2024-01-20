@@ -229,7 +229,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8657,
+  "EOS_Progressed": 8658,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 3,
@@ -10204,6 +10204,11 @@
       "Time": "2024-01-20T03:03:40.732888+00:00",
       "NumProgressed": 8657,
       "NumCompleted": 56
+    },
+    {
+      "Time": "2024-01-20T08:04:00.77539+00:00",
+      "NumProgressed": 8658,
+      "NumCompleted": 56
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -10216,7 +10221,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7618
+      "UsersEstimate": 7619
     },
     {
       "ID": "achievement_01_02",
@@ -10224,7 +10229,7 @@
       "Name": "Tournament Star",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 1731
+      "UsersEstimate": 1732
     },
     {
       "ID": "achievement_01_03",
@@ -10240,7 +10245,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6493
+      "UsersEstimate": 6494
     },
     {
       "ID": "achievement_01_05",
@@ -10248,7 +10253,7 @@
       "Name": "Automotive Stylist",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "achievement_01_06",
@@ -10272,7 +10277,7 @@
       "Name": "Trophy Collector",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 6579
+      "UsersEstimate": 6580
     },
     {
       "ID": "achievement_01_09",
@@ -10280,7 +10285,7 @@
       "Name": "Right Foot",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "achievement_01_10",
@@ -10344,7 +10349,7 @@
       "Name": "Whale of a Time",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "achievement_02_08",
@@ -10456,7 +10461,7 @@
       "Name": "Gotta go Fast",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 4328
+      "UsersEstimate": 4329
     },
     {
       "ID": "achievement_04_03",
@@ -10496,7 +10501,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "achievement_04_08",
@@ -10519,7 +10524,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8657,
+      "Progressed": 8658,
       "Completed": 56
     }
   ],
@@ -10527,8 +10532,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-18T22:57:32.938139+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:04:48.079612+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:04:00.7753897+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.3396943+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:58:12.2879861+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:04:48.0796936+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:57:51.733544+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:04:00.7754814+00:00"
 }

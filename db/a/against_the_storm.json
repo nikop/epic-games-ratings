@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4025,9 +4025,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20905,
+  "EOS_Progressed": 20906,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20105,6 +20105,11 @@
       "Time": "2024-01-20T07:08:40.4253917+00:00",
       "NumProgressed": 20905,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-20T08:08:35.596229+00:00",
+      "NumProgressed": 20906,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20205,7 +20210,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "WinHard",
@@ -20453,7 +20458,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "WinWithResolve",
@@ -20493,7 +20498,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "WinWithoutOrders",
@@ -20517,7 +20522,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "WinNearFrosts",
@@ -20541,7 +20546,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2090
+      "UsersEstimate": 2091
     },
     {
       "ID": "WinNearPetrified",
@@ -20549,7 +20554,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1881
+      "UsersEstimate": 1882
     },
     {
       "ID": "WinNearPresence",
@@ -20588,15 +20593,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20905,
+      "Progressed": 20906,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-20T05:59:40.4490186+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:08:40.4253914+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:08:35.5962288+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:01:13.3810049+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:08:40.4255406+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:59:52.5857407+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:08:35.5963173+00:00"
 }

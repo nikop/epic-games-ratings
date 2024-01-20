@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4499,
+  "EOS_Progressed": 4501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8975,6 +8975,11 @@
       "Time": "2024-01-20T07:08:52.7692403+00:00",
       "NumProgressed": 4499,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T08:08:44.1156657+00:00",
+      "NumProgressed": 4501,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8995,7 +9000,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2521
     },
     {
       "ID": "achievement_11",
@@ -9019,7 +9024,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2384
+      "UsersEstimate": 2386
     },
     {
       "ID": "achievement_14",
@@ -9035,7 +9040,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2429
+      "UsersEstimate": 2431
     },
     {
       "ID": "achievement_16",
@@ -9059,7 +9064,7 @@
       "Name": "Gain Train",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "achievement_19",
@@ -9067,7 +9072,7 @@
       "Name": "Ol\u0027 Reliable",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_2",
@@ -9083,7 +9088,7 @@
       "Name": "Lockdown Leader",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "achievement_21",
@@ -9091,7 +9096,7 @@
       "Name": "The Fortress",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "achievement_3",
@@ -9154,7 +9159,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4499,
+      "Progressed": 4501,
       "Completed": 0
     }
   ],
@@ -9162,8 +9167,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-18T17:02:25.388699+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:08:52.7692402+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:08:44.1156655+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:57:40.7132716+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:08:52.7692917+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:57:30.3832598+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:08:44.1157146+00:00"
 }

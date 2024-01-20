@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 113,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -431,7 +431,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11884,
+  "EOS_Progressed": 11886,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
@@ -5561,6 +5561,11 @@
       "Time": "2024-01-20T07:11:16.7468804+00:00",
       "NumProgressed": 11884,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T08:10:07.3004452+00:00",
+      "NumProgressed": 11886,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5573,7 +5578,7 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2614
+      "UsersEstimate": 2615
     },
     {
       "ID": "03_TheStolenStar",
@@ -5581,7 +5586,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5589,7 +5594,7 @@
       "Name": "Trade Empire",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -5701,7 +5706,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5741,7 +5746,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "24_TheHighrise",
@@ -5901,7 +5906,7 @@
       "Name": "No Place Like Home",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -5925,7 +5930,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1901
+      "UsersEstimate": 1902
     },
     {
       "ID": "47_AFlame",
@@ -6092,7 +6097,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11884,
+      "Progressed": 11886,
       "Completed": 1
     }
   ],
@@ -6100,8 +6105,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-19T17:59:53.1997648+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:11:16.7468802+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:10:07.3004451+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:01:35.3477411+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:11:16.7469694+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:00:06.4785032+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:10:07.3005014+00:00"
 }

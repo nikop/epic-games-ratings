@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1755,
+  "EOS_Progressed": 1756,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
@@ -4710,6 +4710,11 @@
       "Time": "2024-01-20T01:57:36.8224967+00:00",
       "NumProgressed": 1755,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T08:09:45.4809922+00:00",
+      "NumProgressed": 1756,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4786,7 +4791,7 @@
       "Name": "The Alliance",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "AchvDoom",
@@ -4818,7 +4823,7 @@
       "Name": "Krauta is alive",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "AchvLava",
@@ -4848,9 +4853,9 @@
       "ID": "AchvNecro",
       "SetID": "1hj060c",
       "Name": "The Necroevolution",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 562
+      "UsersEstimate": 544
     },
     {
       "ID": "AchvNest",
@@ -4890,7 +4895,7 @@
       "Name": "The field base",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "AchvReachCamp",
@@ -4898,7 +4903,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1246
+      "UsersEstimate": 1247
     },
     {
       "ID": "AchvReachCity",
@@ -4906,7 +4911,7 @@
       "Name": "The City",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "AchvReachCondor",
@@ -4922,7 +4927,7 @@
       "Name": "Survivors",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -4946,14 +4951,14 @@
       "Name": "Beyond divisions",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1755,
+      "Progressed": 1756,
       "Completed": 1
     }
   ],
@@ -4961,8 +4966,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-14T17:00:08.6227329+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:10:47.8118277+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:09:45.4809918+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.0708374+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:00:24.8375337+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:10:47.811914+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:59:20.1587425+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:09:45.4810357+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-30T00:00:00+00:00",
     "PcReleaseDate": "2023-08-07T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2463,
+  "EOS_Progressed": 2464,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 433,
   "EOS_NewCompleters": 0,
@@ -3384,6 +3384,11 @@
       "Time": "2024-01-20T07:10:17.0019765+00:00",
       "NumProgressed": 2463,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T08:09:23.1447547+00:00",
+      "NumProgressed": 2464,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -3420,7 +3425,7 @@
       "Name": "Fastest lap",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "FASTEST_LAP_10",
@@ -3500,7 +3505,7 @@
       "Name": "Podium finisher",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "PODIUM_10",
@@ -3516,7 +3521,7 @@
       "Name": "Good driver",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "REGISTER",
@@ -3524,7 +3529,7 @@
       "Name": "On the starting grid",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2291
+      "UsersEstimate": 2292
     },
     {
       "ID": "RESEARCHED_2",
@@ -3675,14 +3680,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2463,
+      "Progressed": 2464,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:10:17.0019764+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:09:23.1447544+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:36.1155547+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:57:30.1975507+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:10:17.0020141+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:57:23.2647727+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:09:23.1447926+00:00"
 }

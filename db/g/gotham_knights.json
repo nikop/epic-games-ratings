@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 295,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5393,9 +5393,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83051,
+  "EOS_Progressed": 83052,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 418,
+  "EOS_NewPlayers": 419,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30913,6 +30913,11 @@
       "Time": "2024-01-20T07:07:40.7902186+00:00",
       "NumProgressed": 83051,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-20T08:06:03.3045525+00:00",
+      "NumProgressed": 83052,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31228,7 +31233,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28237
+      "UsersEstimate": 28238
     },
     {
       "ID": "HARLEY_2",
@@ -31300,7 +31305,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21593
+      "UsersEstimate": 21594
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31411,13 +31416,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83051,
+      "Progressed": 83052,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53331,
+      "Progressed": 53332,
       "Completed": 2680
     }
   ],
@@ -31425,8 +31430,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-19T22:57:50.8336783+00:00",
-  "LastChanged_Achievements": "2024-01-20T07:07:40.7902182+00:00",
+  "LastChanged_Achievements": "2024-01-20T08:06:03.304552+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:58:27.2730898+00:00",
-  "LastUpdate_Achievements": "2024-01-20T07:07:40.7904511+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:58:01.2919006+00:00",
+  "LastUpdate_Achievements": "2024-01-20T08:06:03.3047203+00:00"
 }

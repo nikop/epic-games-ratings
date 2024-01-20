@@ -6,10 +6,10 @@ Rating: 4.19 (Ranked 978)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step Into the Knight | 50.00% | ~41,526 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,237 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,238 |
 | Loose Ends | 33.00% | ~27,407 |
 | To the Victor Go the Spoils | 27.00% | ~22,424 |
-| Knighthood | 26.00% | ~21,593 |
+| Knighthood | 26.00% | ~21,594 |
 | Get ReQ'd | 24.00% | ~19,932 |
 | Whispered Words | 24.00% | ~19,932 |
 | The Batman Family | 22.00% | ~18,271 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 978)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,051 (Ranked 110)  
+Progressed: 83,052 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
-| 2024-01-20 | 83,051 | 135 |
+| 2024-01-20 | 83,052 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,232  (Ranked 102)  
 Sum: 5,523 (Ranked 145)  

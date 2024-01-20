@@ -4,43 +4,43 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,054 |
-| Spectre Inductee | 66.00% | ~2,973 |
-| Medal of Exploration I | 56.00% | ~2,522 |
-| Recruit | 53.00% | ~2,387 |
-| Search and Rescue | 51.00% | ~2,297 |
-| Quarian Ally | 49.00% | ~2,207 |
-| Medal of Heroism | 44.00% | ~1,982 |
-| Honorarium of Corporate Service | 44.00% | ~1,982 |
+| Distinguished Service Medal | 90.00% | ~4,055 |
+| Spectre Inductee | 66.00% | ~2,974 |
+| Medal of Exploration I | 56.00% | ~2,523 |
+| Recruit | 53.00% | ~2,388 |
+| Search and Rescue | 51.00% | ~2,298 |
+| Quarian Ally | 49.00% | ~2,208 |
+| Medal of Heroism | 44.00% | ~1,983 |
+| Honorarium of Corporate Service | 44.00% | ~1,983 |
 | Turian Ally | 40.00% | ~1,802 |
 | Medal of Exploration II | 39.00% | ~1,757 |
 | Council Legion of Merit | 39.00% | ~1,757 |
-| Missing in Action | 37.00% | ~1,666 |
-| Medal of Honor | 36.00% | ~1,621 |
-| Meritorious Service Medal | 36.00% | ~1,621 |
-| Soldier Ally | 36.00% | ~1,621 |
-| Soldier | 35.00% | ~1,576 |
-| Charismatic | 35.00% | ~1,576 |
-| Asari Ally | 34.00% | ~1,531 |
-| Very Elusive | 34.00% | ~1,531 |
-| Medal of Exploration III | 32.00% | ~1,441 |
-| Principled | 32.00% | ~1,441 |
-| Colonial Savior | 32.00% | ~1,441 |
-| Scientist | 32.00% | ~1,441 |
-| Merciless | 31.00% | ~1,396 |
-| Paramour I | 30.00% | ~1,351 |
-| Sentinel Ally | 30.00% | ~1,351 |
-| Krogan Ally | 30.00% | ~1,351 |
-| The Archangel | 30.00% | ~1,351 |
-| The Professor | 30.00% | ~1,351 |
-| Head Hunter | 30.00% | ~1,351 |
-| Scholar | 30.00% | ~1,351 |
-| Operative | 28.00% | ~1,261 |
-| The Convict | 27.00% | ~1,216 |
-| Power Full | 27.00% | ~1,216 |
-| Colony Defense | 26.00% | ~1,171 |
-| The Krogan | 26.00% | ~1,171 |
-| Broke, Blind, and Bedlam | 26.00% | ~1,171 |
+| Missing in Action | 37.00% | ~1,667 |
+| Medal of Honor | 36.00% | ~1,622 |
+| Meritorious Service Medal | 36.00% | ~1,622 |
+| Soldier Ally | 36.00% | ~1,622 |
+| Soldier | 35.00% | ~1,577 |
+| Charismatic | 35.00% | ~1,577 |
+| Asari Ally | 34.00% | ~1,532 |
+| Very Elusive | 34.00% | ~1,532 |
+| Medal of Exploration III | 32.00% | ~1,442 |
+| Principled | 32.00% | ~1,442 |
+| Colonial Savior | 32.00% | ~1,442 |
+| Scientist | 32.00% | ~1,442 |
+| Merciless | 31.00% | ~1,397 |
+| Paramour I | 30.00% | ~1,352 |
+| Sentinel Ally | 30.00% | ~1,352 |
+| Krogan Ally | 30.00% | ~1,352 |
+| The Archangel | 30.00% | ~1,352 |
+| The Professor | 30.00% | ~1,352 |
+| Head Hunter | 30.00% | ~1,352 |
+| Scholar | 30.00% | ~1,352 |
+| Operative | 28.00% | ~1,262 |
+| The Convict | 27.00% | ~1,217 |
+| Power Full | 27.00% | ~1,217 |
+| Colony Defense | 26.00% | ~1,172 |
+| The Krogan | 26.00% | ~1,172 |
+| Broke, Blind, and Bedlam | 26.00% | ~1,172 |
 | Veteran | 25.00% | ~1,126 |
 | Driven | 25.00% | ~1,126 |
 | Ghost Ship | 24.00% | ~1,081 |
@@ -99,15 +99,15 @@
 | Well Connected | 14.00% | ~631 |
 | Pyromaniac | 13.00% | ~586 |
 | Executioner | 13.00% | ~586 |
-| Master and Commander | 13.00% | ~586 |
-| Patriot | 12.00% | ~540 |
-| Legend | 12.00% | ~540 |
-| Long Service Medal | 11.00% | ~495 |
-| Sabotage Specialist | 11.00% | ~495 |
-| Throw Mastery | 11.00% | ~495 |
-| Mail Slot | 10.00% | ~450 |
-| Electronics Specialist | 10.00% | ~450 |
-| Combined Arms | 9.00% | ~405 |
+| Patriot | 12.00% | ~541 |
+| Legend | 12.00% | ~541 |
+| Master and Commander | 12.00% | ~541 |
+| Long Service Medal | 11.00% | ~496 |
+| Sabotage Specialist | 11.00% | ~496 |
+| Throw Mastery | 11.00% | ~496 |
+| Mail Slot | 10.00% | ~451 |
+| Electronics Specialist | 10.00% | ~451 |
+| Combined Arms | 9.00% | ~406 |
 | Warp Mastery | 8.00% | ~360 |
 | Barrier Mastery | 7.00% | ~315 |
 | Sky High | 7.00% | ~315 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~41 |
 | The One and Only | 0.60% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,504 (Ranked 211)  
+Progressed: 4,506 (Ranked 211)  
 Completed: 14 (0.31%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -259,4 +259,4 @@ Completed: 14 (0.31%) (Ranked 260)
 | 2024-01-17 | 4,449 | 13 |
 | 2024-01-18 | 4,472 | 13 |
 | 2024-01-19 | 4,496 | 13 |
-| 2024-01-20 | 4,504 | 14 |
+| 2024-01-20 | 4,506 | 14 |
