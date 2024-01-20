@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 407,
   "Ranking_EOS_NewPlayers": 22,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-18T08:00:00+00:00",
     "PcReleaseDate": "2022-06-28T07:00:00+00:00",
@@ -385,9 +385,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 426594,
+  "EOS_Progressed": 426642,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 8188,
+  "EOS_NewPlayers": 8155,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4170,6 +4170,11 @@
       "Time": "2024-01-20T18:03:43.2648662+00:00",
       "NumProgressed": 426594,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T19:04:24.9353942+00:00",
+      "NumProgressed": 426642,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4190,7 +4195,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29862
+      "UsersEstimate": 29865
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4214,7 +4219,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98117
+      "UsersEstimate": 98128
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4238,7 +4243,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110914
+      "UsersEstimate": 110927
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4246,7 +4251,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 93851
+      "UsersEstimate": 93861
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4278,7 +4283,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17064
+      "UsersEstimate": 17066
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -4326,7 +4331,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8532
+      "UsersEstimate": 8533
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -4342,7 +4347,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38393
+      "UsersEstimate": 38398
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4350,7 +4355,7 @@
       "Name": "The Strength to Fight",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12798
+      "UsersEstimate": 12799
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -4358,7 +4363,7 @@
       "Name": "Performance Examination",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1706
+      "UsersEstimate": 1707
     },
     {
       "ID": "ACHIEVEMENT_024",
@@ -4374,7 +4379,7 @@
       "Name": "My Best Battle",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -4382,7 +4387,7 @@
       "Name": "One Step at a Time",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 12798
+      "UsersEstimate": 12799
     },
     {
       "ID": "ACHIEVEMENT_027",
@@ -4390,7 +4395,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34128
+      "UsersEstimate": 34131
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -4398,7 +4403,7 @@
       "Name": "A Raging Madness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8532
+      "UsersEstimate": 8533
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -4406,7 +4411,7 @@
       "Name": "Training Shall Proceed!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12798
+      "UsersEstimate": 12799
     },
     {
       "ID": "ACHIEVEMENT_030",
@@ -4422,7 +4427,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8532
+      "UsersEstimate": 8533
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -4430,7 +4435,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8532
+      "UsersEstimate": 8533
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -4446,7 +4451,7 @@
       "Name": "No Regrets",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "ACHIEVEMENT_035",
@@ -4470,7 +4475,7 @@
       "Name": "Unrelenting Spear",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 3839
+      "UsersEstimate": 3840
     },
     {
       "ID": "ACHIEVEMENT_038",
@@ -4486,7 +4491,7 @@
       "Name": "Two Swords One Soul",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 12798
+      "UsersEstimate": 12799
     },
     {
       "ID": "ACHIEVEMENT_040",
@@ -4525,7 +4530,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 426594,
+      "Progressed": 426642,
       "Completed": 3
     }
   ],
@@ -4533,8 +4538,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-20T18:03:13.5002646+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:03:43.2648655+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:04:24.935394+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:02:24.2404261+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:03:13.5002651+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:03:43.2649202+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:03:41.0873578+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:04:24.9354494+00:00"
 }

@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Story Begins... | 83.00% | ~24 |
-| These Blades Are Made For Swinging | 83.00% | ~24 |
-| First Blood | 83.00% | ~24 |
-| Unearth A Qanat | 76.00% | ~22 |
-| It Feels Better Than It Sounds | 69.00% | ~20 |
+| The Story Begins... | 86.00% | ~25 |
+| These Blades Are Made For Swinging | 86.00% | ~25 |
+| First Blood | 86.00% | ~25 |
+| Unearth A Qanat | 79.00% | ~23 |
+| It Feels Better Than It Sounds | 72.00% | ~21 |
+| A Friend In Need | 69.00% | ~20 |
+| A Stranger's Diary | 69.00% | ~20 |
 | Carving A Memory | 69.00% | ~20 |
-| A Friend In Need | 66.00% | ~19 |
-| A Stranger's Diary | 66.00% | ~19 |
-| Stand By Nature | 62.00% | ~18 |
+| Stand By Nature | 66.00% | ~19 |
+| The Milk Canal | 62.00% | ~18 |
 | Skilled Hands | 59.00% | ~17 |
-| The Milk Canal | 59.00% | ~17 |
 | Fledgling Smithy | 59.00% | ~17 |
 | Close Encounter | 55.00% | ~16 |
 | Master Smithy | 55.00% | ~16 |

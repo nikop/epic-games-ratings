@@ -1,12 +1,12 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 500)  
+Rating: 4.57 (Ranked 499)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Complete Guard Faction | 4.00% | ~94 |
 | Become King | 3.00% | ~70 |
+| Complete Guard Faction | 3.00% | ~70 |
 | Collect Gold | 2.00% | ~47 |
 | Collect Iron Ore | 2.00% | ~47 |
 | Collect Monster Parts | 2.00% | ~47 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 500)
 | King of Kings | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,342 (Ranked 249)  
+Progressed: 2,343 (Ranked 249)  
 Completed: 12 (0.51%) (Ranked 226)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -270,7 +270,7 @@ Completed: 12 (0.51%) (Ranked 226)
 | 2024-01-17 | 2,335 | 12 |
 | 2024-01-18 | 2,338 | 12 |
 | 2024-01-19 | 2,340 | 12 |
-| 2024-01-20 | 2,342 | 12 |
+| 2024-01-20 | 2,343 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

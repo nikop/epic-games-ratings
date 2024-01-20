@@ -6,21 +6,22 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.50% | ~5,279 |
-| Right Back At Ya | 0.50% | ~5,279 |
-| The Hermit | 0.50% | ~5,279 |
-| The Wheel of Fortune | 0.50% | ~5,279 |
-| True Soldier | 0.50% | ~5,279 |
-| Christmas Tree Attack | 0.40% | ~4,223 |
-| Life of the Road | 0.40% | ~4,223 |
-| Stanislavski's Method | 0.40% | ~4,223 |
-| The Fool | 0.40% | ~4,223 |
-| The High Priestess | 0.40% | ~4,223 |
-| The Lovers | 0.40% | ~4,223 |
-| Legend of The Afterlife | 0.40% | ~4,223 |
+| Full Body Conversion | 0.50% | ~5,280 |
+| Right Back At Ya | 0.50% | ~5,280 |
+| The Hermit | 0.50% | ~5,280 |
+| The Wheel of Fortune | 0.50% | ~5,280 |
+| True Soldier | 0.50% | ~5,280 |
+| Christmas Tree Attack | 0.40% | ~4,224 |
+| Life of the Road | 0.40% | ~4,224 |
+| Stanislavski's Method | 0.40% | ~4,224 |
+| The Fool | 0.40% | ~4,224 |
+| The High Priestess | 0.40% | ~4,224 |
+| The Lovers | 0.40% | ~4,224 |
+| Legend of The Afterlife | 0.40% | ~4,224 |
 | All the President's Men | 0.40% | ~738 |
 | Arachnophobia | 0.40% | ~738 |
 | Bushido and Chill | 0.30% | ~3,168 |
+| To Protect and Serve | 0.30% | ~3,168 |
 | Gun Fu | 0.30% | ~3,168 |
 | Master Crafter | 0.30% | ~3,168 |
 | I Am The Law | 0.30% | ~3,168 |
@@ -28,7 +29,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.30% | ~3,168 |
 | True Warrior | 0.30% | ~3,168 |
 | Judy vs Night City | 0.30% | ~3,168 |
-| To Protect and Serve | 0.20% | ~2,112 |
 | The Wandering Fool | 0.20% | ~2,112 |
 | The Sun | 0.20% | ~2,112 |
 | Two Heads, One Bullet | 0.20% | ~2,112 |
@@ -54,15 +54,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.10% | ~1,056 |
 | V for Vendetta | 0.10% | ~1,056 |
 | It's Elementary | 0.10% | ~1,056 |
-| The APB is Not Enough | 0.10% | ~184 |
-| Relic Ruler | 0.10% | ~184 |
-| Judgement Day | 0.10% | ~184 |
-| King of Cups | 0.10% | ~184 |
-| King of Pentacles | 0.10% | ~184 |
-| King of Swords | 0.10% | ~184 |
-| King of Wands | 0.10% | ~184 |
-| The Tower | 0.10% | ~184 |
-| Dirty Deeds | 0.10% | ~184 |
+| The APB is Not Enough | 0.10% | ~185 |
+| Relic Ruler | 0.10% | ~185 |
+| Judgement Day | 0.10% | ~185 |
+| King of Cups | 0.10% | ~185 |
+| King of Pentacles | 0.10% | ~185 |
+| King of Swords | 0.10% | ~185 |
+| King of Wands | 0.10% | ~185 |
+| The Tower | 0.10% | ~185 |
+| Dirty Deeds | 0.10% | ~185 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,870 (Ranked 17)  
-Completed: 3,135 (0.30%) (Ranked 264)  
+Progressed: 1,055,906 (Ranked 17)  
+Completed: 3,136 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,7 +349,7 @@ Completed: 3,135 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,870 | 3,135 |
+| 2024-01-20 | 1,055,906 | 3,136 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
 Sum: 508,327 (Ranked 8)  

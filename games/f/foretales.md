@@ -21,8 +21,8 @@
 | Double trouble | 16.00% | ~48 |
 | It's not cheating | 16.00% | ~48 |
 | Stronk | 15.00% | ~45 |
+| Welcome to Forte Ailes | 14.00% | ~42 |
 | Super Moth Boy | 13.00% | ~39 |
-| Welcome to Forte Ailes | 13.00% | ~39 |
 | The Bad Place | 10.00% | ~30 |
 | Meet your maker | 9.00% | ~27 |
 | Pacifist fanatic | 9.00% | ~27 |

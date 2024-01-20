@@ -5,13 +5,13 @@ Rating: 4.48 (Ranked 660)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,026 |
+| Meeting Resistance | 47.00% | ~2,027 |
 | Confirming Suspicions | 42.00% | ~1,811 |
-| The Kraken Wakes | 38.00% | ~1,638 |
+| The Kraken Wakes | 38.00% | ~1,639 |
 | It's Starting to Crack | 35.00% | ~1,509 |
 | Change the Channel | 32.00% | ~1,380 |
-| Lord of War | 31.00% | ~1,336 |
-| Taking it back | 30.00% | ~1,293 |
+| Lord of War | 31.00% | ~1,337 |
+| Taking it back | 30.00% | ~1,294 |
 | Resourceful | 28.00% | ~1,207 |
 | Target America | 28.00% | ~1,207 |
 | The Kraken Sleeps | 26.00% | ~1,121 |
@@ -50,7 +50,7 @@ Rating: 4.48 (Ranked 660)
 | Ghost of Falaise | 5.00% | ~213 |
 | Burn after reading | 4.00% | ~172 |
 | Locomotion Commotion | 4.00% | ~172 |
-| If You Go Down To The Woods Today | 4.00% | ~170 |
+| If You Go Down To The Woods Today | 4.00% | ~171 |
 | From Paris with Love | 3.00% | ~129 |
 | Souvenir hunter | 3.00% | ~129 |
 | Shoot for the Moon | 3.00% | ~129 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 660)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,311 (Ranked 216)  
+Progressed: 4,312 (Ranked 216)  
 Completed: 11 (0.26%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 11 (0.26%) (Ranked 273)
 | 2024-01-17 | 4,295 | 11 |
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,306 | 11 |
-| 2024-01-20 | 4,311 | 11 |
+| 2024-01-20 | 4,312 | 11 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 528)  
 Sum: 30 (Ranked 550)  

@@ -19,9 +19,9 @@
 | At least everyone still had fun | 35.00% | ~37 |
 | Kick It | 34.00% | ~36 |
 | Classroom Secret Spot | 29.00% | ~31 |
-| Spooky | 26.00% | ~28 |
-| Grand Slam! | 25.00% | ~27 |
-| Living Room Secret Spot | 23.00% | ~25 |
+| Spooky | 27.00% | ~29 |
+| Grand Slam! | 26.00% | ~28 |
+| Living Room Secret Spot | 24.00% | ~26 |
 | Angry Dad | 23.00% | ~25 |
 | Save some water for the fishies | 22.00% | ~24 |
 | Bathroom Secret Spot | 22.00% | ~24 |

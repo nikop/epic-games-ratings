@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,229 |
-| Lost and Found | 9.00% | ~737 |
+| Malpractice Assurance | 15.00% | ~1,230 |
+| Lost and Found | 9.00% | ~738 |
 | Autodidact | 8.00% | ~10,666 |
 | This Belongs in a Museum | 7.00% | ~9,333 |
 | Creep and Sleep | 7.00% | ~9,333 |
@@ -22,15 +22,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~8,000 |
 | Ploughshares to Swords | 6.00% | ~492 |
 | Bloody Graduation | 6.00% | ~492 |
-| It Rings a Bell | 5.00% | ~6,666 |
-| Not Today! | 5.00% | ~6,666 |
-| It Happens | 5.00% | ~6,666 |
-| Merry Time | 5.00% | ~6,666 |
-| Harvest Festival | 5.00% | ~6,666 |
-| Whale | 5.00% | ~6,666 |
-| A Place to Lay Your Head | 5.00% | ~6,666 |
-| FNG | 5.00% | ~6,666 |
-| Nope | 5.00% | ~6,666 |
+| It Rings a Bell | 5.00% | ~6,667 |
+| Not Today! | 5.00% | ~6,667 |
+| It Happens | 5.00% | ~6,667 |
+| Merry Time | 5.00% | ~6,667 |
+| Harvest Festival | 5.00% | ~6,667 |
+| Whale | 5.00% | ~6,667 |
+| A Place to Lay Your Head | 5.00% | ~6,667 |
+| FNG | 5.00% | ~6,667 |
+| Nope | 5.00% | ~6,667 |
 | Friends 'Til the End | 5.00% | ~410 |
 | Resurrection | 4.00% | ~5,333 |
 | Unleash Hell | 4.00% | ~5,333 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~4,000 |
 | Hot Air | 3.00% | ~4,000 |
 | Road Trip | 3.00% | ~4,000 |
-| This Looks Familiar | 2.00% | ~2,666 |
-| Ichthyophobic | 2.00% | ~2,666 |
-| No More Mouths to Feed | 2.00% | ~2,666 |
-| Worldly Traveller | 2.00% | ~2,666 |
-| Eyes Up | 2.00% | ~2,666 |
-| Handled | 2.00% | ~2,666 |
-| Body of Work | 2.00% | ~2,666 |
+| This Looks Familiar | 2.00% | ~2,667 |
+| Ichthyophobic | 2.00% | ~2,667 |
+| No More Mouths to Feed | 2.00% | ~2,667 |
+| Worldly Traveller | 2.00% | ~2,667 |
+| Eyes Up | 2.00% | ~2,667 |
+| Handled | 2.00% | ~2,667 |
+| Body of Work | 2.00% | ~2,667 |
 | Clearing the Ledger | 1.00% | ~1,333 |
 | Hat Trick | 1.00% | ~1,333 |
 | Shrine of Reflection | 1.00% | ~1,333 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,325 (Ranked 92)  
+Progressed: 133,331 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,10 +351,10 @@ Completed: 5 (0.00%) (Ranked 407)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,325 | 5 |
+| 2024-01-20 | 133,331 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
-Sum: 21,778 (Ranked 58)  
+Sum: 21,780 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -364,7 +364,7 @@ Diff (max vs sum): -6
 | This game is Highly Recommended | 1,613 |
 | This game has Amazing Characters | 1,539 |
 | This game is Extremely Fun | 1,536 |
-| This game has Unique Visuals | 1,480 |
+| This game has Unique Visuals | 1,482 |
 | This game has Amazing Storytelling | 1,459 |
 | This game has Quickly Understood Controls | 1,429 |
 | This game has a Creative Community | 1,106 |
@@ -730,4 +730,4 @@ Diff (max vs sum): -6
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
-| 2024-01-20 | 4.69 | - | 8,048 | 21,778 |
+| 2024-01-20 | 4.69 | - | 8,048 | 21,780 |

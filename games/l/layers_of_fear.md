@@ -4,27 +4,27 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~292 |
-| A piece of the story | 66.00% | ~224 |
-| It's covered up for a reason | 59.00% | ~201 |
-| Wanderer | 55.00% | ~187 |
+| Something important | 86.00% | ~293 |
+| A piece of the story | 66.00% | ~225 |
+| It's covered up for a reason | 60.00% | ~205 |
+| Wanderer | 55.00% | ~188 |
 | Scraps of love | 52.00% | ~177 |
-| The artist’s impression | 51.00% | ~173 |
+| The artist’s impression | 50.00% | ~170 |
 | Do what you have to | 45.00% | ~153 |
-| Sign of weakness | 43.00% | ~146 |
-| Refuse to look | 38.00% | ~129 |
-| Face your fears | 33.00% | ~112 |
+| Sign of weakness | 43.00% | ~147 |
+| Refuse to look | 38.00% | ~130 |
+| Face your fears | 33.00% | ~113 |
 | Finished it | 27.00% | ~92 |
-| Whispers long forgotten | 19.00% | ~65 |
+| Whispers long forgotten | 18.00% | ~61 |
 | Sound Bite | 14.00% | ~48 |
-| The art of movement | 14.00% | ~48 |
 | A Slice of Life | 13.00% | ~44 |
 | Debut | 13.00% | ~44 |
 | Lights! Camera! Action! | 13.00% | ~44 |
+| The art of movement | 13.00% | ~44 |
 | Another perspective | 12.00% | ~41 |
-| First steps | 11.00% | ~37 |
-| Playtime | 11.00% | ~37 |
-| Tough conversation | 11.00% | ~37 |
+| First steps | 11.00% | ~38 |
+| Playtime | 11.00% | ~38 |
+| Tough conversation | 11.00% | ~38 |
 | A new way | 10.00% | ~34 |
 | The tragedy unfolds | 10.00% | ~34 |
 | Breaking free | 9.00% | ~31 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 340 (Ranked 391)  
+Progressed: 341 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,4 +145,4 @@ Completed: 0 (0.00%) (Ranked 407)
 | 2024-01-17 | 331 | 0 |
 | 2024-01-18 | 334 | 0 |
 | 2024-01-19 | 337 | 0 |
-| 2024-01-20 | 340 | 0 |
+| 2024-01-20 | 341 | 0 |

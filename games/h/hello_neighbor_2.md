@@ -11,7 +11,7 @@ Rating: 4.44 (Ranked 709)
 | Easy As Pie | 33.00% | ~1,363 |
 | Family Lost | 31.00% | ~1,280 |
 | Treasure Hunt | 29.00% | ~1,197 |
-| Ancient Curse | 26.00% | ~1,074 |
+| Ancient Curse | 27.00% | ~1,115 |
 | Hidden Secrets | 24.00% | ~991 |
 | Cat Person | 23.00% | ~950 |
 | Climber | 23.00% | ~950 |

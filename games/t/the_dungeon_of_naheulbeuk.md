@@ -1,23 +1,23 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.58 (Ranked 474)  
+Rating: 4.58 (Ranked 472)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,105 |
-| Alt+F4 | 11.00% | ~27,383 |
-| Where's that freaking Dwarf? | 9.00% | ~22,404 |
-| Déjà vu | 8.00% | ~19,915 |
-| Sock! SOCK! | 6.00% | ~14,936 |
-| Speedrun | 6.00% | ~14,936 |
+| Sowwy! | 37.00% | ~92,109 |
+| Alt+F4 | 11.00% | ~27,384 |
+| Where's that freaking Dwarf? | 9.00% | ~22,405 |
+| Déjà vu | 8.00% | ~19,916 |
+| Sock! SOCK! | 6.00% | ~14,937 |
+| Speedrun | 6.00% | ~14,937 |
 | A beer, two curses, three companions | 5.00% | ~12,447 |
 | GG EZ | 5.00% | ~12,447 |
 | DM intervention | 5.00% | ~12,447 |
 | Fireproof Wizardess | 5.00% | ~12,447 |
-| Way of the Wimp | 4.00% | ~9,957 |
-| The plot thickens... At the tavern | 4.00% | ~9,957 |
+| Way of the Wimp | 4.00% | ~9,958 |
+| The plot thickens... At the tavern | 4.00% | ~9,958 |
 | Livin' in a dwarven paradise | 3.00% | ~7,468 |
 | The demons' feast | 3.00% | ~7,468 |
 | The Great Library | 3.00% | ~7,468 |
@@ -47,7 +47,7 @@ Number of Ratings: 118  (23.09.2022)
 | Lëgal Legend | 1.00% | ~2,489 |
 | Material Girl | 1.00% | ~2,489 |
 | We come in peace | 0.90% | ~2,240 |
-| An old poacher makes the best gamekeeper | 0.80% | ~1,991 |
+| An old poacher makes the best gamekeeper | 0.80% | ~1,992 |
 | Holistic Adventuring Party | 0.70% | ~1,743 |
 | Law and Order | 0.70% | ~1,743 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,494 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,932 (Ranked 73)  
+Progressed: 248,944 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 9 (0.00%) (Ranked 407)
 | 2024-01-17 | 248,553 | 9 |
 | 2024-01-18 | 248,677 | 9 |
 | 2024-01-19 | 248,799 | 9 |
-| 2024-01-20 | 248,932 | 9 |
+| 2024-01-20 | 248,944 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 577 (Ranked 330)  

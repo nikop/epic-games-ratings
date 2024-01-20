@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9659,10 +9659,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33581,
       "NumberOfAwardsMax": 5804
+    },
+    {
+      "Time": "2024-01-20T19:01:53.0752473+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33584,
+      "NumberOfAwardsMax": 5804
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33581,
+  "NumberOfAwards": 33584,
   "NumberOfAwardsMax": 5804,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9694,7 +9700,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4339
+      "Count": 4342
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9709,10 +9715,10 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254914,
-  "EOS_Completed": 2628,
-  "EOS_NewPlayers": 1170,
-  "EOS_NewCompleters": 12,
+  "EOS_Progressed": 254924,
+  "EOS_Completed": 2629,
+  "EOS_NewPlayers": 1172,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -40964,6 +40970,11 @@
       "Time": "2024-01-20T18:10:26.3012257+00:00",
       "NumProgressed": 254914,
       "NumCompleted": 2628
+    },
+    {
+      "Time": "2024-01-20T19:10:57.5467504+00:00",
+      "NumProgressed": 254924,
+      "NumCompleted": 2629
     }
   ],
   "TotalAchievements": 546,
@@ -42095,7 +42106,7 @@
       "Name": "Terror in the Dark",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1529
+      "UsersEstimate": 1530
     },
     {
       "ID": "objective_completed_150",
@@ -45342,21 +45353,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221188,
+      "Progressed": 221198,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254914,
-      "Completed": 2628
+      "Progressed": 254924,
+      "Completed": 2629
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-20T14:00:19.3555764+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:10:26.3012252+00:00",
+  "LastChanged": "2024-01-20T19:01:53.0752471+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:10:57.54675+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:02:29.4830222+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:10:26.3034517+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:01:53.0752478+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:10:57.5489265+00:00"
 }

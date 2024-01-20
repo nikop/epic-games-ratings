@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 530)  
+Rating: 4.55 (Ranked 529)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,8 +13,8 @@ Rating: 4.55 (Ranked 530)
 | Bosmang | 14.00% | ~2,686 |
 | Impossible Objects | 14.00% | ~2,686 |
 | Drone Dodger | 13.00% | ~2,494 |
-| Stogie for Fogey | 12.00% | ~2,302 |
-| Spore Taste | 12.00% | ~2,302 |
+| Stogie for Fogey | 12.00% | ~2,303 |
+| Spore Taste | 12.00% | ~2,303 |
 | Zen Master | 11.00% | ~566 |
 | Call it Even | 10.00% | ~1,919 |
 | Safe Cracker | 10.00% | ~514 |
@@ -27,21 +27,21 @@ Rating: 4.55 (Ranked 530)
 | Keep Arjun in Check | 8.00% | ~411 |
 | Doctor Approved | 7.00% | ~1,343 |
 | Bottoms up! | 7.00% | ~1,343 |
-| Master Negotiator | 6.00% | ~308 |
+| Master Negotiator | 6.00% | ~309 |
 | Data Logger | 5.00% | ~959 |
 | Miraculous Maya | 5.00% | ~959 |
-| Data Master | 4.00% | ~767 |
+| Data Master | 4.00% | ~768 |
 | No Belter Left Behind | 3.00% | ~576 |
 | Brother's Reaper | 2.00% | ~384 |
 | Debris Spree | 2.00% | ~384 |
 | Data Recoverer | 2.00% | ~384 |
 | Urshanabi Hoarder | 1.00% | ~192 |
-| Grave Robber | 0.80% | ~153 |
+| Grave Robber | 0.80% | ~154 |
 | Data Miner | 0.70% | ~134 |
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,187 (Ranked 160)  
+Progressed: 19,188 (Ranked 160)  
 Completed: 66 (0.34%) (Ranked 255)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 66 (0.34%) (Ranked 255)
 | 2024-01-17 | 19,116 | 66 |
 | 2024-01-18 | 19,145 | 66 |
 | 2024-01-19 | 19,168 | 66 |
-| 2024-01-20 | 19,187 | 66 |
+| 2024-01-20 | 19,188 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

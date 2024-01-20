@@ -3,9 +3,9 @@
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 286,
-  "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 311,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_Completed": 86,
+  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
     "PcReleaseDate": "2023-04-26T16:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 1314,
-  "EOS_Completed": 57,
+  "EOS_Completed": 58,
   "EOS_NewPlayers": 14,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.34,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 4.41,
   "EosHistory": [
     {
       "Time": "2023-09-09T22:06:11.6454215+00:00",
@@ -3219,6 +3219,11 @@
       "Time": "2024-01-20T14:10:07.3914863+00:00",
       "NumProgressed": 1314,
       "NumCompleted": 57
+    },
+    {
+      "Time": "2024-01-20T19:10:27.6832307+00:00",
+      "NumProgressed": 1314,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -3261,9 +3266,9 @@
       "ID": "ACH_GET_BACK_TO_WORK",
       "SetID": "6f5dahd",
       "Name": "Get back to work",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 185,
-      "UsersEstimate": 66
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_PENTAGRAM",
@@ -3311,13 +3316,13 @@
       "ID": "6f5dahd",
       "IsBase": true,
       "Progressed": 1314,
-      "Completed": 57
+      "Completed": 58
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:10:01.6056705+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:10:27.6832304+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:10.3938259+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:57:25.3440185+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:10:01.6056914+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:58:05.4276999+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:10:27.683254+00:00"
 }

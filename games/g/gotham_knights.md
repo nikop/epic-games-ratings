@@ -8,23 +8,23 @@ Rating: 4.19 (Ranked 979)
 | First Step Into the Knight | 50.00% | ~41,538 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,246 |
 | Loose Ends | 33.00% | ~27,415 |
-| To the Victor Go the Spoils | 27.00% | ~22,430 |
+| To the Victor Go the Spoils | 27.00% | ~22,431 |
 | Knighthood | 26.00% | ~21,600 |
 | Get ReQ'd | 24.00% | ~19,938 |
 | Whispered Words | 24.00% | ~19,938 |
-| The Batman Family | 22.00% | ~18,276 |
-| Lock and Key | 22.00% | ~18,276 |
+| The Batman Family | 22.00% | ~18,277 |
+| Lock and Key | 22.00% | ~18,277 |
 | Something in the Clay | 20.00% | ~16,615 |
 | Quartzer Life Crisis | 20.00% | ~16,615 |
 | Working Hard or Harley Working? | 20.00% | ~16,615 |
 | Unstoppable Force | 20.00% | ~16,615 |
 | Bad Apples in Every Orchard | 20.00% | ~16,615 |
-| Snow Problem | 19.00% | ~15,784 |
+| Snow Problem | 19.00% | ~15,785 |
 | The Show Mud Go On | 17.00% | ~14,123 |
 | From Inside Gotham's Walls | 17.00% | ~14,123 |
 | Protector of Gotham | 16.00% | ~13,292 |
-| In Your Element | 15.00% | ~12,461 |
-| Universal Health Scare | 15.00% | ~12,461 |
+| In Your Element | 15.00% | ~12,462 |
+| Universal Health Scare | 15.00% | ~12,462 |
 | Rock and a Hard Place | 14.00% | ~11,631 |
 | Cooldown | 14.00% | ~11,631 |
 | Voiceless | 14.00% | ~11,631 |
@@ -39,8 +39,8 @@ Rating: 4.19 (Ranked 979)
 | Out of Their League | 9.00% | ~7,477 |
 | Solid Alibi | 8.00% | ~6,646 |
 | Fusion Expert | 7.00% | ~5,815 |
-| Family Meeting | 6.00% | ~4,984 |
-| A Worthy Successor | 6.00% | ~4,984 |
+| Family Meeting | 6.00% | ~4,985 |
+| A Worthy Successor | 6.00% | ~4,985 |
 | Expert Crime Fighter | 5.00% | ~4,154 |
 | Dressed to Impress | 4.00% | ~3,323 |
 | A Momentum Occasion | 3.00% | ~2,492 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 979)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,075 (Ranked 110)  
+Progressed: 83,077 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,22 +342,22 @@ Completed: 135 (0.16%) (Ranked 296)
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
-| 2024-01-20 | 83,075 | 135 |
+| 2024-01-20 | 83,077 | 135 |
 ## Awards
-Max (Great Boss Battles): 3,232  (Ranked 102)  
-Sum: 5,523 (Ranked 145)  
+Max (Great Boss Battles): 3,237  (Ranked 102)  
+Sum: 5,530 (Ranked 145)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 3,232 |
+| This game has Great Boss Battles | 3,237 |
 | This game is Great for Beginners | 293 |
 | This game has Diverse Characters | 293 |
-| This game is Relaxing | 291 |
+| This game is Relaxing | 292 |
 | This game is Extremely Fun | 290 |
 | This game has Quickly Understood Controls | 289 |
 | This game has Amazing Characters | 281 |
 | This game has Amazing Storytelling | 279 |
-| This game is Highly Recommended | 275 |
+| This game is Highly Recommended | 276 |
 | This game is Great for Quick Sessions | 60 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -690,3 +690,4 @@ Diff (max vs sum): -43
 | 2024-01-17 | 4.19 | 3,216 | 5,497 |
 | 2024-01-18 | 4.19 | 3,223 | 5,508 |
 | 2024-01-19 | 4.19 | 3,232 | 5,523 |
+| 2024-01-20 | 4.19 | 3,237 | 5,530 |

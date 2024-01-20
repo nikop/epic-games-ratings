@@ -33,8 +33,8 @@ Number of Ratings: 76  (23.09.2022)
 | Kelp Forest of Fear | 5.00% | ~57 |
 | SpongeBob vs SpongeBob! | 5.00% | ~57 |
 | Sock Concert | 5.00% | ~57 |
+| Mega Spatula Seeker | 5.00% | ~57 |
 | Sleepy Time | 4.00% | ~45 |
-| Mega Spatula Seeker | 4.00% | ~45 |
 | 100% SpongeBob | 1.00% | ~11 |
 | Sock Opera | 1.00% | ~11 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~11 |

@@ -5325,18 +5325,24 @@
       "Rating": 4.19,
       "NumberOfAwards": 5523,
       "NumberOfAwardsMax": 3232
+    },
+    {
+      "Time": "2024-01-20T18:59:09.3793409+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5530,
+      "NumberOfAwardsMax": 3237
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5523,
-  "NumberOfAwardsMax": 3232,
+  "NumberOfAwards": 5530,
+  "NumberOfAwardsMax": 3237,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 3232
+      "Count": 3237
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5366,13 +5372,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 275
+      "Count": 276
     },
     {
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 291
+      "Count": 292
     },
     {
       "Text": "This game is Extremely Fun",
@@ -5393,9 +5399,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83075,
+  "EOS_Progressed": 83077,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 405,
+  "EOS_NewPlayers": 404,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30958,6 +30964,11 @@
       "Time": "2024-01-20T18:07:53.3664281+00:00",
       "NumProgressed": 83075,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-20T19:08:02.5232344+00:00",
+      "NumProgressed": 83077,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31017,7 +31028,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18276
+      "UsersEstimate": 18277
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -31057,7 +31068,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12461
+      "UsersEstimate": 12462
     },
     {
       "ID": "CHALLENGES_1",
@@ -31169,7 +31180,7 @@
       "Name": "Family Meeting",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "DEFEAT_OC_2",
@@ -31193,7 +31204,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22430
+      "UsersEstimate": 22431
     },
     {
       "ID": "FREEZE_1_5",
@@ -31209,7 +31220,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15784
+      "UsersEstimate": 15785
     },
     {
       "ID": "FREEZE_3",
@@ -31297,7 +31308,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12461
+      "UsersEstimate": 12462
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31353,7 +31364,7 @@
       "Name": "A Worthy Successor",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "MYSTERY_01",
@@ -31377,7 +31388,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18276
+      "UsersEstimate": 18277
     },
     {
       "ID": "MYSTERY_04",
@@ -31456,22 +31467,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83075,
+      "Progressed": 83077,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53355,
+      "Progressed": 53357,
       "Completed": 2680
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-19T22:57:50.8336783+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:07:53.3664276+00:00",
+  "LastChanged": "2024-01-20T18:59:09.3793407+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:08:02.523234+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:58:11.0842551+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:07:53.3665876+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:59:09.3793415+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:08:02.5234087+00:00"
 }

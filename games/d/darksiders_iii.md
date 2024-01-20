@@ -6,7 +6,7 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 76.00% | ~499 |
+| Green with Envy | 77.00% | ~506 |
 | First of many… | 68.00% | ~447 |
 | Helping Hand | 64.00% | ~420 |
 | Increased Vigor | 61.00% | ~401 |

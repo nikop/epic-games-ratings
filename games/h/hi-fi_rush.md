@@ -5,13 +5,13 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,797 |
-| Start with a bang! | 55.00% | ~9,622 |
+| Feeling the beat! | 56.00% | ~9,798 |
+| Start with a bang! | 55.00% | ~9,623 |
 | You can pet the cat! | 50.00% | ~8,748 |
 | Who put gears in there? | 42.00% | ~7,348 |
-| Cream of the Crop | 37.00% | ~6,473 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,298 |
-| You got this, Peppermint? | 31.00% | ~5,423 |
+| Cream of the Crop | 37.00% | ~6,474 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,299 |
+| You got this, Peppermint? | 31.00% | ~5,424 |
 | Perfect Parry | 29.00% | ~5,074 |
 | Alright, that felt AWESOME! | 29.00% | ~5,074 |
 | I play my own way! | 25.00% | ~4,374 |
@@ -29,9 +29,9 @@ Rating: 4.86 (Ranked 33)
 | Who's the boss now? | 13.00% | ~2,274 |
 | Perfecter Parry-er! | 13.00% | ~2,274 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,274 |
-| I have to read these things? | 12.00% | ~2,099 |
+| I have to read these things? | 12.00% | ~2,100 |
 | There's such a thing as TOO helpful | 9.00% | ~1,575 |
-| NOW we got a kickass hideout! | 9.00% | ~1,441 |
+| NOW we got a kickass hideout! | 9.00% | ~1,442 |
 | Well that was a rush! | 8.00% | ~1,400 |
 | That's a lot of junk metal… | 8.00% | ~1,400 |
 | Beat-hit mania | 7.00% | ~1,225 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,495 (Ranked 169)  
+Progressed: 17,496 (Ranked 169)  
 Completed: 8 (0.05%) (Ranked 345)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 8 (0.05%) (Ranked 345)
 | 2024-01-17 | 17,341 | 8 |
 | 2024-01-18 | 17,389 | 8 |
 | 2024-01-19 | 17,441 | 8 |
-| 2024-01-20 | 17,495 | 8 |
+| 2024-01-20 | 17,496 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

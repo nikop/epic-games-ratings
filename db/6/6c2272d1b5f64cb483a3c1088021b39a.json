@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4874,6 +4874,11 @@
       "Time": "2024-01-20T13:14:31.8705703+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T19:10:50.9435717+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4989,7 +4994,7 @@
       "Name": "Collector 2",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "collector_3",
@@ -5053,7 +5058,7 @@
       "Name": "Elemental stones 1",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 688
+      "UsersEstimate": 689
     },
     {
       "ID": "elemental_stones_2",
@@ -5197,7 +5202,7 @@
       "Name": "Lord of the Tower 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "lord_of_the_tower_2",
@@ -5245,7 +5250,7 @@
       "Name": "Obsessed Carver 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "obsessed_carver_2",
@@ -5301,7 +5306,7 @@
       "Name": "Sophisticated Alchemist 2",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "sophisticated_alchemist_3",
@@ -5389,7 +5394,7 @@
       "Name": "Tomb Raider 1",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "tomb_raider_2",
@@ -5397,7 +5402,7 @@
       "Name": "Tomb Raider 2",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "tomb_raider_3",
@@ -5412,14 +5417,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:10:19.5958156+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:10:50.9435715+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.5682133+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:59:36.5970378+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:10:19.5958906+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:01:08.7033109+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:10:50.9436289+00:00"
 }

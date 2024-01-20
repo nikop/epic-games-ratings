@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,722 |
+| The Old Grandmaster | 6.00% | ~45,723 |
 | The Assault | 5.00% | ~38,102 |
 | Life is your teacher | 5.00% | ~38,102 |
 | Lightning Hands | 5.00% | ~38,102 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,040 (Ranked 26)  
-Completed: 12,999 (1.71%) (Ranked 150)  
+Progressed: 762,048 (Ranked 26)  
+Completed: 13,000 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,15 +342,15 @@ Completed: 12,999 (1.71%) (Ranked 150)
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
-| 2024-01-20 | 762,040 | 12,999 |
+| 2024-01-20 | 762,048 | 13,000 |
 ## Awards
 Max (Great Boss Battles): 7,245  (Ranked 58)  
-Sum: 12,824 (Ranked 87)  
+Sum: 12,828 (Ranked 87)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,245 |
-| This game has Diverse Characters | 709 |
+| This game has Diverse Characters | 713 |
 | This game has Challenging Combat | 651 |
 | This game has Amazing Storytelling | 626 |
 | This game has Amazing Characters | 622 |
@@ -731,4 +731,4 @@ Diff (max vs sum): -29
 | 2024-01-17 | 4.82 | - | 7,227 | 12,784 |
 | 2024-01-18 | 4.82 | - | 7,227 | 12,798 |
 | 2024-01-19 | 4.82 | - | 7,237 | 12,812 |
-| 2024-01-20 | 4.82 | - | 7,245 | 12,824 |
+| 2024-01-20 | 4.82 | - | 7,245 | 12,828 |

@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2913,
+  "EOS_Progressed": 2914,
   "EOS_Completed": 224,
-  "EOS_NewPlayers": 179,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 7.69,
   "EosHistory": [
@@ -7769,6 +7769,11 @@
       "Time": "2024-01-20T18:05:22.1219574+00:00",
       "NumProgressed": 2913,
       "NumCompleted": 224
+    },
+    {
+      "Time": "2024-01-20T19:06:40.2351983+00:00",
+      "NumProgressed": 2914,
+      "NumCompleted": 224
     }
   ],
   "TotalAchievements": 25,
@@ -7868,7 +7873,7 @@
       "Name": "A Link to the Past",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -7932,7 +7937,7 @@
       "Name": "Scholar",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "PROGRESS_N1",
@@ -7940,7 +7945,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "PROGRESS_N2",
@@ -7948,7 +7953,7 @@
       "Name": "The great escape",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "PROGRESS_N3",
@@ -7964,7 +7969,7 @@
       "Name": "The darkness",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 961
+      "UsersEstimate": 962
     },
     {
       "ID": "PROGRESS_N5",
@@ -7979,7 +7984,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2913,
+      "Progressed": 2914,
       "Completed": 224
     }
   ],
@@ -7987,8 +7992,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:05:22.1219569+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:06:40.235198+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:58:12.9986148+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:05:22.1220045+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:59:12.1919495+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:06:40.2352575+00:00"
 }

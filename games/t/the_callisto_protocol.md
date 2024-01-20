@@ -20,10 +20,10 @@ Rating: 4.22 (Ranked 957)
 | Crash Site | 14.00% | ~3,163 |
 | Two Heads Are Better Than One | 13.00% | ~2,937 |
 | Power Up | 13.00% | ~2,937 |
-| Terminated | 12.00% | ~2,711 |
-| Giving Back | 11.00% | ~2,485 |
-| What Lies Beneath | 11.00% | ~2,485 |
-| Full Circle | 11.00% | ~2,485 |
+| Terminated | 12.00% | ~2,712 |
+| Giving Back | 11.00% | ~2,486 |
+| What Lies Beneath | 11.00% | ~2,486 |
+| Full Circle | 11.00% | ~2,486 |
 | You Need a Gun | 10.00% | ~2,260 |
 | I Do Belong Here | 9.00% | ~2,034 |
 | Keep Fighting | 8.00% | ~842 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 957)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,595 (Ranked 153)  
+Progressed: 22,596 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 253)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 82 (0.36%) (Ranked 253)
 | 2024-01-17 | 22,513 | 82 |
 | 2024-01-18 | 22,544 | 82 |
 | 2024-01-19 | 22,569 | 82 |
-| 2024-01-20 | 22,595 | 82 |
+| 2024-01-20 | 22,596 | 82 |
 ## Awards
 Max (Amazing Characters): 139  (Ranked 346)  
 Sum: 674 (Ranked 318)  

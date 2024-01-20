@@ -18794,10 +18794,10 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055870,
-  "EOS_Completed": 3135,
-  "EOS_NewPlayers": 6100,
-  "EOS_NewCompleters": 49,
+  "EOS_Progressed": 1055906,
+  "EOS_Completed": 3136,
+  "EOS_NewPlayers": 6080,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50339,6 +50339,11 @@
       "Time": "2024-01-20T18:09:09.3637714+00:00",
       "NumProgressed": 1055870,
       "NumCompleted": 3135
+    },
+    {
+      "Time": "2024-01-20T19:09:17.6915079+00:00",
+      "NumProgressed": 1055906,
+      "NumCompleted": 3136
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50375,7 +50380,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5279
+      "UsersEstimate": 5280
     },
     {
       "ID": "Denied",
@@ -50383,15 +50388,15 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5279
+      "UsersEstimate": 5280
     },
     {
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2112
+      "UsersEstimate": 3168
     },
     {
       "ID": "Fortuneteller",
@@ -50471,7 +50476,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "MaxPain",
@@ -50519,7 +50524,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "Roleplayer",
@@ -50527,7 +50532,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "Specialist",
@@ -50567,7 +50572,7 @@
       "Name": "The Fool",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "TheHermit",
@@ -50575,7 +50580,7 @@
       "Name": "The Hermit",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5279
+      "UsersEstimate": 5280
     },
     {
       "ID": "TheHightPriestess",
@@ -50583,7 +50588,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "TheLovers",
@@ -50591,7 +50596,7 @@
       "Name": "The Lovers",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "TheStar",
@@ -50615,7 +50620,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5279
+      "UsersEstimate": 5280
     },
     {
       "ID": "TheWorld",
@@ -50647,7 +50652,7 @@
       "Name": "True Soldier",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5279
+      "UsersEstimate": 5280
     },
     {
       "ID": "TrueWarrior",
@@ -50695,7 +50700,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4223
+      "UsersEstimate": 4224
     },
     {
       "ID": "All the President\u0027s Men",
@@ -50727,7 +50732,7 @@
       "Name": "The APB is Not Enough",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "Easycomeeasygo",
@@ -50791,7 +50796,7 @@
       "Name": "Relic Ruler",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "UltimateSurvivor",
@@ -50815,7 +50820,7 @@
       "Name": "Judgement Day",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "IHateSpider",
@@ -50831,7 +50836,7 @@
       "Name": "King of Cups",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "KingOfThePentacles",
@@ -50839,7 +50844,7 @@
       "Name": "King of Pentacles",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "KingOfTheSwords",
@@ -50847,7 +50852,7 @@
       "Name": "King of Swords",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "KingOfTheWands",
@@ -50855,7 +50860,7 @@
       "Name": "King of Wands",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "TheTower",
@@ -50863,7 +50868,7 @@
       "Name": "The Tower",
       "Percentage": 0.1,
       "XP": 35,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "DirtyWork",
@@ -50871,7 +50876,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "EasyComeEasyGo",
@@ -50886,21 +50891,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055870,
-      "Completed": 3135
+      "Progressed": 1055906,
+      "Completed": 3136
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184493,
-      "Completed": 10666
+      "Progressed": 184529,
+      "Completed": 10667
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-20T18:03:18.5593605+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:09:09.3637709+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:09:17.6915074+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:03:18.5593611+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:09:09.3639495+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:03:47.7797233+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:09:17.6917203+00:00"
 }

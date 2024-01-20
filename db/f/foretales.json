@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 428,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 446,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 302,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -621,9 +621,9 @@
       "ID": "welcomeToForteAiles",
       "SetID": "5bkacmp",
       "Name": "Welcome to Forte Ailes",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 39
+      "UsersEstimate": 42
     },
     {
       "ID": "youSssavedMe",
@@ -646,8 +646,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:07:38.8489315+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:07:42.692649+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.1478942+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:59:20.7023292+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:07:38.8489737+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:00:47.462286+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:07:42.692673+00:00"
 }

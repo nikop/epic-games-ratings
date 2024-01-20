@@ -3,12 +3,12 @@
   "Name": "DEATHLOOP",
   "ProductSlug": "deathloop",
   "Ranking_Rating": 678,
-  "Ranking_Popularity": 434,
+  "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 354,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-24T15:00:00+00:00",
     "PcReleaseDate": "2021-09-14T15:00:00+00:00",
@@ -1567,11 +1567,17 @@
       "Rating": 4.46,
       "NumberOfAwards": 422,
       "NumberOfAwardsMax": 62
+    },
+    {
+      "Time": "2024-01-20T19:03:09.8048339+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 423,
+      "NumberOfAwardsMax": 63
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 422,
-  "NumberOfAwardsMax": 62,
+  "NumberOfAwards": 423,
+  "NumberOfAwardsMax": 63,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -1614,7 +1620,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1640,8 +1646,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:46.7837121+00:00",
-  "LastChanged": "2024-01-19T20:02:33.0165638+00:00",
+  "LastChanged": "2024-01-20T19:03:09.8048337+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:26.0100765+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:02:54.5880086+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:09:19.9599363+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:03:09.8048342+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:09:31.8201429+00:00"
 }

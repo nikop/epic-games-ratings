@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 529,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 160,
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19187,
+  "EOS_Progressed": 19188,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 232,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17890,6 +17890,11 @@
       "Time": "2024-01-20T18:04:23.5288938+00:00",
       "NumProgressed": 19187,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-20T19:05:20.6218987+00:00",
+      "NumProgressed": 19188,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17950,7 +17955,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "16",
@@ -17966,7 +17971,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2302
+      "UsersEstimate": 2303
     },
     {
       "ID": "18",
@@ -18102,7 +18107,7 @@
       "Name": "Data Master",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 767
+      "UsersEstimate": 768
     },
     {
       "ID": "6",
@@ -18118,7 +18123,7 @@
       "Name": "Grave Robber",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "8",
@@ -18166,7 +18171,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "35",
@@ -18181,13 +18186,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19187,
+      "Progressed": 19188,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5141,
+      "Progressed": 5142,
       "Completed": 1360
     }
   ],
@@ -18195,8 +18200,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-20T06:57:37.968972+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:04:23.5288933+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:05:20.6218984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:57:37.1924371+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:04:23.5290139+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:58:21.3528378+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:05:20.6219846+00:00"
 }

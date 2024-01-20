@@ -15,9 +15,9 @@
 | Survivor | 37.00% | ~11 |
 | Master of Riddles | 33.00% | ~10 |
 | The Witch’s Haunt | 30.00% | ~9 |
+| A Cabin Boy with Potential | 27.00% | ~8 |
 | A Cautious Man Is Worth Two of His Kind | 27.00% | ~8 |
 | Trapped in Time | 23.00% | ~7 |
-| A Cabin Boy with Potential | 23.00% | ~7 |
 | Thanksgiving Day | 13.00% | ~4 |
 | Don’t Touch the Rum! | 13.00% | ~4 |
 | Oh... You didn't think to bring it? | 13.00% | ~4 |

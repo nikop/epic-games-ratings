@@ -7,7 +7,7 @@ Number of Ratings: 281  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Fish Just Got Reel | 21.00% | ~1,759 |
-| More Fish in the Sea | 18.00% | ~1,507 |
+| More Fish in the Sea | 18.00% | ~1,508 |
 | Hey Good Hookin | 17.00% | ~1,424 |
 | Can you smell what the Rod is Hooking | 16.00% | ~1,340 |
 | Scaling up | 15.00% | ~1,256 |
@@ -20,7 +20,7 @@ Number of Ratings: 281  (23.09.2022)
 | School's Out for Summer | 5.00% | ~419 |
 | License to Gill | 4.00% | ~335 |
 | I'm Hooked! | 4.00% | ~335 |
-| Diamond in the Rough | 2.00% | ~167 |
+| Diamond in the Rough | 2.00% | ~168 |
 | More than a Tourist | 1.00% | ~84 |
 | I'm the Captain Now | 1.00% | ~84 |
 | Hook, Line and Sinker | 1.00% | ~84 |
@@ -29,8 +29,8 @@ Number of Ratings: 281  (23.09.2022)
 | No Fin left to give | 0.60% | ~50 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~39 |
 | Aguas Claras Conquistador | 0.50% | ~39 |
-| The Beetles | 0.40% | ~33 |
-| Taylor Made | 0.40% | ~33 |
+| The Beetles | 0.40% | ~34 |
+| Taylor Made | 0.40% | ~34 |
 | Rod and Troll | 0.40% | ~31 |
 | All Good Kings Must Come to an End | 0.40% | ~31 |
 | Lake Me up Before You Go Go | 0.30% | ~25 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,374 (Ranked 194)  
+Progressed: 8,375 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,15 +322,16 @@ Completed: 0 (0.00%) (Ranked 407)
 | 2024-01-17 | 8,358 | 0 |
 | 2024-01-18 | 8,364 | 0 |
 | 2024-01-19 | 8,374 | 0 |
+| 2024-01-20 | 8,375 | 0 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
-Sum: 214 (Ranked 414)  
+Sum: 215 (Ranked 414)  
 Diff (max vs sum): 68  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |
 | This game is Relaxing | 39 |
-| This game has Amazing Storytelling | 38 |
+| This game has Amazing Storytelling | 39 |
 | This game is Highly Recommended | 38 |
 | This game is Extremely Fun | 32 |
 | This game has Quickly Understood Controls | 25 |
@@ -444,3 +445,4 @@ Diff (max vs sum): 68
 | 2024-01-03 | 4.21 | - | 41 | 212 |
 | 2024-01-08 | 4.21 | - | 41 | 213 |
 | 2024-01-17 | 4.22 | - | 42 | 214 |
+| 2024-01-20 | 4.22 | - | 42 | 215 |

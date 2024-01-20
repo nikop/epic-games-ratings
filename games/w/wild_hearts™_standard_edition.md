@@ -35,9 +35,9 @@
 | Reincarnation Cycle Stopper | 20.00% | ~277 |
 | Left Arm Leverager | 17.00% | ~236 |
 | Human Believer | 17.00% | ~236 |
+| Style Seeker | 16.00% | ~222 |
 | Quintessence of Form | 16.00% | ~222 |
 | Threaded Harmony | 16.00% | ~222 |
-| Style Seeker | 15.00% | ~208 |
 | Unrivaled in Arms | 15.00% | ~208 |
 | Karakuri Minato | 15.00% | ~208 |
 | Jack of All Trades | 14.00% | ~194 |

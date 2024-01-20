@@ -1,20 +1,20 @@
 # Aragami 2
 [Store](https://store.epicgames.com/en-US/p/aragami-2)  
 [View Rawdata](../../db/a/aragami_2.json)  
-Rating: 4.55 (Ranked 530)  
+Rating: 4.55 (Ranked 529)  
 Number of Ratings: 88  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,132 |
-| First Steps | 80.00% | ~36,242 |
-| Control the Shadows | 67.00% | ~30,353 |
-| Tools of the Trade | 63.00% | ~28,541 |
+| Awakening | 93.00% | ~42,133 |
+| First Steps | 80.00% | ~36,243 |
+| Control the Shadows | 67.00% | ~30,354 |
+| Tools of the Trade | 63.00% | ~28,542 |
 | Apprentice | 60.00% | ~27,182 |
 | Secret Seeker | 57.00% | ~25,823 |
 | Forge of Assassins | 55.00% | ~24,917 |
 | Revenant | 52.00% | ~23,558 |
-| I don’t Care! | 46.00% | ~20,839 |
+| I don’t Care! | 46.00% | ~20,840 |
 | Bird of Prey | 37.00% | ~16,762 |
 | Engraved with Power | 32.00% | ~14,497 |
 | Lady | 31.00% | ~14,044 |
@@ -26,10 +26,10 @@ Number of Ratings: 88  (23.09.2022)
 | Clinging to Life | 18.00% | ~8,155 |
 | Burning | 17.00% | ~7,702 |
 | Look Behind You | 17.00% | ~7,702 |
-| Sleeping on the Job | 16.00% | ~7,248 |
-| Family | 14.00% | ~6,342 |
-| War Engines | 14.00% | ~6,342 |
-| Signature Move | 14.00% | ~6,342 |
+| Sleeping on the Job | 16.00% | ~7,249 |
+| Family | 14.00% | ~6,343 |
+| War Engines | 14.00% | ~6,343 |
+| Signature Move | 14.00% | ~6,343 |
 | Ruse | 12.00% | ~5,436 |
 | Master Ninja | 11.00% | ~4,983 |
 | Hatching | 10.00% | ~4,530 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~906 |
 | Legacy | 2.00% | ~906 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,303 (Ranked 131)  
+Progressed: 45,304 (Ranked 131)  
 Completed: 250 (0.55%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 250 (0.55%) (Ranked 223)
 | 2024-01-17 | 45,225 | 250 |
 | 2024-01-18 | 45,248 | 250 |
 | 2024-01-19 | 45,278 | 250 |
-| 2024-01-20 | 45,303 | 250 |
+| 2024-01-20 | 45,304 | 250 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

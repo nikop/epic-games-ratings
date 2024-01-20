@@ -6,12 +6,12 @@ Rating: 4.87 (Ranked 25)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | That's the spirit | 60.00% | ~1,748 |
-| Welcome to the Tower | 54.00% | ~1,573 |
-| The great escape | 47.00% | ~1,369 |
+| Welcome to the Tower | 54.00% | ~1,574 |
+| The great escape | 47.00% | ~1,370 |
 | The Preacher's fate | 45.00% | ~1,311 |
 | A new dawn | 39.00% | ~1,136 |
-| Scholar | 34.00% | ~990 |
-| The darkness | 33.00% | ~961 |
+| Scholar | 34.00% | ~991 |
+| The darkness | 33.00% | ~962 |
 | A good beginning | 32.00% | ~932 |
 | True G3M4R | 32.00% | ~932 |
 | One last step | 30.00% | ~874 |
@@ -26,12 +26,12 @@ Rating: 4.87 (Ranked 25)
 | Feels like springtime | 23.00% | ~670 |
 | Alchemists Express | 23.00% | ~670 |
 | Free at last | 20.00% | ~583 |
-| A Link to the Past | 18.00% | ~524 |
+| A Link to the Past | 18.00% | ~525 |
 | A great audience | 15.00% | ~437 |
 | For its own good | 15.00% | ~437 |
 | Fashion victim | 10.00% | ~291 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,913 (Ranked 236)  
+Progressed: 2,914 (Ranked 236)  
 Completed: 224 (7.69%) (Ranked 52)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 224 (7.69%) (Ranked 52)
 | 2024-01-17 | 2,841 | 218 |
 | 2024-01-18 | 2,866 | 220 |
 | 2024-01-19 | 2,890 | 222 |
-| 2024-01-20 | 2,913 | 224 |
+| 2024-01-20 | 2,914 | 224 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

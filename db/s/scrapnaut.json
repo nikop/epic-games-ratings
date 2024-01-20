@@ -5,10 +5,10 @@
   "Ranking_Rating": 887,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
-  "Ranking_EOS_Progress": 339,
+  "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 216,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 674,
+  "EOS_Progressed": 675,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2361,6 +2361,11 @@
       "Time": "2024-01-19T19:09:33.8004374+00:00",
       "NumProgressed": 674,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T19:09:57.8990636+00:00",
+      "NumProgressed": 675,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2460,7 +2465,7 @@
       "Name": "Scrap Gatherer",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_COOK",
@@ -2468,7 +2473,7 @@
       "Name": "Cook",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2476,7 +2481,7 @@
       "Name": "Forest Killer",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "ACH_CUT_20_TREES",
@@ -2492,7 +2497,7 @@
       "Name": "Forest Lord",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_FIND_10_TREASURES",
@@ -2548,7 +2553,7 @@
       "Name": "Fuel",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_METEORITE_SMELTER",
@@ -2556,7 +2561,7 @@
       "Name": "Smelting Master",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "ACH_MYTHRIL_SMELTER",
@@ -2564,7 +2569,7 @@
       "Name": "Mythical Smelter",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ACH_PERMADEATH",
@@ -2580,7 +2585,7 @@
       "Name": "Smelter",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -2596,7 +2601,7 @@
       "Name": "Advanced Survivalist",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "ACH_SURVIVE_40_DAYS",
@@ -2619,7 +2624,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 674,
+      "Progressed": 675,
       "Completed": 4
     }
   ],
@@ -2627,8 +2632,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:09:39.5149632+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:09:57.8990633+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.454985+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:59:03.0131514+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:09:39.5149958+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:00:20.1714805+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:09:57.8990948+00:00"
 }

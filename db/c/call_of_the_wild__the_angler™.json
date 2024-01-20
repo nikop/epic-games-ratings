@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 407,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -989,10 +989,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 214,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-01-20T18:58:13.8900867+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 215,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 214,
+  "NumberOfAwards": 215,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1006,7 +1012,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 38
+      "Count": 39
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1033,7 +1039,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8374,
+  "EOS_Progressed": 8375,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -14263,6 +14269,11 @@
       "Time": "2024-01-19T23:09:04.8107377+00:00",
       "NumProgressed": 8374,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T19:08:59.6945385+00:00",
+      "NumProgressed": 8375,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14322,7 +14333,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1507
+      "UsersEstimate": 1508
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14410,7 +14421,7 @@
       "Name": "The Beetles",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_019",
@@ -14442,7 +14453,7 @@
       "Name": "Diamond in the Rough",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "ACHIEVEMENT_023",
@@ -14466,7 +14477,7 @@
       "Name": "Taylor Made",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_026",
@@ -14593,22 +14604,22 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8374,
+      "Progressed": 8375,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7746,
+      "Progressed": 7747,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2024-01-17T10:59:19.7573316+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:08:55.5789492+00:00",
+  "LastChanged": "2024-01-20T18:58:13.8900862+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:08:59.6945382+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:57:32.0944096+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:08:55.5790222+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:58:13.8900871+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:08:59.6946118+00:00"
 }

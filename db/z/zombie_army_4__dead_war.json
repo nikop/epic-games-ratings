@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 338,
-  "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2760,7 +2760,7 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44538,
+  "EOS_Progressed": 44539,
   "EOS_Completed": 25,
   "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
@@ -11540,6 +11540,11 @@
       "Time": "2024-01-20T17:04:39.6327884+00:00",
       "NumProgressed": 44538,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-20T19:05:13.853276+00:00",
+      "NumProgressed": 44539,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11591,7 +11596,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -11631,7 +11636,7 @@
       "Name": "Damnedbusters",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 4008
+      "UsersEstimate": 4009
     },
     {
       "ID": "SE_COMPLETE_DEAD_ZEPPELIN",
@@ -11743,7 +11748,7 @@
       "Name": "Choo choo!",
       "Percentage": 63,
       "XP": 5,
-      "UsersEstimate": 28059
+      "UsersEstimate": 28060
     },
     {
       "ID": "SE_COMPLETE_RETURN_TO_HELL",
@@ -11855,7 +11860,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22714
+      "UsersEstimate": 22715
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -11863,7 +11868,7 @@
       "Name": "Come and get it! It\u0027s a running buffet!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 16924
+      "UsersEstimate": 16925
     },
     {
       "ID": "SE_GET_X_HEADSHOT_STREAK",
@@ -11935,7 +11940,7 @@
       "Name": "Got your back",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 12025
+      "UsersEstimate": 12026
     },
     {
       "ID": "SE_KILL_X_ZOMBIES_WITHOUT_MISS",
@@ -11943,7 +11948,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20042
+      "UsersEstimate": 20043
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -11951,7 +11956,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29840
+      "UsersEstimate": 29841
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11967,7 +11972,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7571
+      "UsersEstimate": 7572
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -12007,7 +12012,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29395
+      "UsersEstimate": 29396
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -12078,15 +12083,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44538,
+      "Progressed": 44539,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-20T00:02:26.1067887+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:04:18.8085767+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:05:13.8532754+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:16.2416499+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:02:53.0940382+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:04:18.808651+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:03:07.8511391+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:05:13.8533519+00:00"
 }

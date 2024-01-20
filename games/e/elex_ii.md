@@ -6,36 +6,36 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 46.00% | ~123 |
-| Best Buddy | 39.00% | ~104 |
-| Civilian | 37.00% | ~99 |
-| Role Model | 35.00% | ~93 |
-| Creator | 33.00% | ~88 |
-| Military Leader | 30.00% | ~80 |
-| Festival-goer | 30.00% | ~80 |
-| Peddler | 26.00% | ~69 |
-| Commander | 26.00% | ~69 |
+| Entrepreneur | 46.00% | ~124 |
+| Best Buddy | 38.00% | ~103 |
+| Civilian | 37.00% | ~100 |
+| Role Model | 34.00% | ~92 |
+| Creator | 32.00% | ~86 |
+| Military Leader | 30.00% | ~81 |
+| Festival-goer | 30.00% | ~81 |
+| Peddler | 26.00% | ~70 |
+| Commander | 26.00% | ~70 |
 | Irissa's Fate | 22.00% | ~59 |
-| Long-Haul Flyer | 20.00% | ~53 |
-| Family Reunion | 19.00% | ~51 |
-| Pass A38 | 18.00% | ~48 |
-| Eternal Oblivion | 18.00% | ~48 |
+| Long-Haul Flyer | 20.00% | ~54 |
+| Family Reunion | 20.00% | ~54 |
+| Pass A38 | 19.00% | ~51 |
+| Eternal Oblivion | 17.00% | ~46 |
 | Banker | 16.00% | ~43 |
 | Storyteller | 15.00% | ~40 |
 | Globetrotter | 15.00% | ~40 |
 | Berserker | 15.00% | ~40 |
-| Beam Me Up | 12.00% | ~32 |
 | Alb | 12.00% | ~32 |
 | Hunter | 12.00% | ~32 |
-| Lover | 12.00% | ~32 |
-| Perfectionist | 11.00% | ~29 |
+| Beam Me Up | 11.00% | ~30 |
+| Perfectionist | 11.00% | ~30 |
+| Lover | 11.00% | ~30 |
 | Free as a Bird | 10.00% | ~27 |
 | Detective | 9.00% | ~24 |
-| Treasure Hunter | 8.00% | ~21 |
+| Treasure Hunter | 8.00% | ~22 |
 | Weaponsmith | 7.00% | ~19 |
 | Hotshot | 7.00% | ~19 |
 | Cleric | 7.00% | ~19 |
-| Alchemist | 5.00% | ~13 |
+| Alchemist | 5.00% | ~14 |
 | Self-Sufficient | 4.00% | ~11 |
 | Unbreakable | 4.00% | ~11 |
 | Idealist | 3.00% | ~8 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 267 (Ranked 420)  
+Progressed: 270 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 407)
 | 2024-01-17 | 261 | 0 |
 | 2024-01-18 | 263 | 0 |
 | 2024-01-19 | 266 | 0 |
-| 2024-01-20 | 267 | 0 |
+| 2024-01-20 | 270 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 277,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 42,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8245,9 +8245,9 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 152232,
+  "EOS_Progressed": 152240,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 1207,
+  "EOS_NewPlayers": 1202,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37480,6 +37480,11 @@
       "Time": "2024-01-20T18:09:22.9935019+00:00",
       "NumProgressed": 152232,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-20T19:09:35.4555437+00:00",
+      "NumProgressed": 152240,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -37659,7 +37664,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18268
+      "UsersEstimate": 18269
     },
     {
       "ID": "chest02",
@@ -37731,7 +37736,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "commonres03",
@@ -37763,7 +37768,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "craft03",
@@ -37795,7 +37800,7 @@
       "Name": "Where it Hurts",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "damage02",
@@ -37867,7 +37872,7 @@
       "Name": "It\u0027s Free Real Estate",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 10656
+      "UsersEstimate": 10657
     },
     {
       "ID": "expansion02",
@@ -37955,7 +37960,7 @@
       "Name": "Gem Expert",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "gold01",
@@ -37963,7 +37968,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15223
+      "UsersEstimate": 15224
     },
     {
       "ID": "gold02",
@@ -37979,7 +37984,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "gold04",
@@ -38075,7 +38080,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10656
+      "UsersEstimate": 10657
     },
     {
       "ID": "level02",
@@ -38083,7 +38088,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "level03",
@@ -38115,7 +38120,7 @@
       "Name": "Dungeon Imports",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "loot02",
@@ -38203,7 +38208,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "quest02",
@@ -38363,7 +38368,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6089
+      "UsersEstimate": 6090
     },
     {
       "ID": "workers03",
@@ -38386,15 +38391,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152232,
+      "Progressed": 152240,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-20T08:03:15.6453392+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:09:22.9935013+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:09:35.4555435+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:03:24.6512192+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:09:22.9937104+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:03:56.4027697+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:09:35.455762+00:00"
 }

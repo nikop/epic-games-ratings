@@ -18,7 +18,7 @@
 | The Colossus | 8.00% | ~54 |
 | Floor is Lava | 6.00% | ~40 |
 | Pim Pam Pum | 6.00% | ~40 |
-| Dash Crash - Hero Edition | 4.00% | ~27 |
+| Dash Crash - Hero Edition | 5.00% | ~34 |
 | Ambush | 4.00% | ~27 |
 | Black Belt | 3.00% | ~20 |
 | Snake Eyes - Hero Edition | 2.00% | ~14 |

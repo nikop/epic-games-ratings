@@ -2,13 +2,13 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 500,
+  "Ranking_Rating": 499,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2342,
+  "EOS_Progressed": 2343,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4462,6 +4462,11 @@
       "Time": "2024-01-20T18:03:38.4119285+00:00",
       "NumProgressed": 2342,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-20T19:04:18.5045542+00:00",
+      "NumProgressed": 2343,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4551,9 +4556,9 @@
       "ID": "CompleteGuardFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Guard Faction",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 70
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4760,13 +4765,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2342,
+      "Progressed": 2343,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 983,
+      "Progressed": 984,
       "Completed": 926
     }
   ],
@@ -4774,8 +4779,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-20T18:03:38.4119279+00:00",
+  "LastChanged_Achievements": "2024-01-20T19:04:18.5045538+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:57:46.1515007+00:00",
-  "LastUpdate_Achievements": "2024-01-20T18:03:38.4119809+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:58:34.743332+00:00",
+  "LastUpdate_Achievements": "2024-01-20T19:04:18.5045991+00:00"
 }

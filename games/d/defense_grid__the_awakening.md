@@ -6,18 +6,18 @@ Number of Ratings: 1,225  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~400,545 |
-| Happy Returns | 78.00% | ~385,710 |
-| Hey! That's mine! | 78.00% | ~385,710 |
-| Field Promotion | 74.00% | ~365,930 |
-| Leadhead | 71.00% | ~351,095 |
-| Eradicator | 68.00% | ~336,260 |
-| Surplus | 66.00% | ~326,370 |
-| I Spy | 64.00% | ~316,480 |
-| Burn Baby Burn | 59.00% | ~291,755 |
-| Yellow Beats Green | 56.00% | ~276,920 |
-| Salvage Rights | 53.00% | ~262,085 |
-| What IS that? | 51.00% | ~252,195 |
+| First Blood | 81.00% | ~400,546 |
+| Happy Returns | 78.00% | ~385,711 |
+| Hey! That's mine! | 78.00% | ~385,711 |
+| Field Promotion | 74.00% | ~365,931 |
+| Leadhead | 71.00% | ~351,096 |
+| Eradicator | 68.00% | ~336,261 |
+| Surplus | 66.00% | ~326,371 |
+| I Spy | 64.00% | ~316,481 |
+| Burn Baby Burn | 59.00% | ~291,756 |
+| Yellow Beats Green | 56.00% | ~276,921 |
+| Salvage Rights | 53.00% | ~262,086 |
+| What IS that? | 51.00% | ~252,196 |
 | Close Call | 50.00% | ~247,250 |
 | Pew Pew | 50.00% | ~247,250 |
 | Penny Pincher | 49.00% | ~242,305 |
@@ -62,39 +62,39 @@ Number of Ratings: 1,225  (23.09.2022)
 | Planet Defender | 0.90% | ~4,451 |
 | Master Siege Breaker | 0.80% | ~3,956 |
 | Few and Proud | 0.80% | ~3,956 |
-| Shell-shocked | 0.70% | ~3,461 |
-| Alien Tears | 0.50% | ~2,472 |
-| Full House | 0.50% | ~2,472 |
+| Shell-shocked | 0.70% | ~3,462 |
+| Alien Tears | 0.50% | ~2,473 |
+| Full House | 0.50% | ~2,473 |
 | Kickstarter | 0.30% | ~1,484 |
 | Out of Bullets | 0.30% | ~1,484 |
 | The Container | 0.30% | ~1,484 |
 | Foresight is 20/20 | 0.20% | ~989 |
 | Majestic Pony | 0.20% | ~989 |
 | Savant Genius | 0.20% | ~989 |
-| Beating A Dead Potato | 0.10% | ~494 |
-| Best Friends Forever | 0.10% | ~494 |
-| Top of the Class | 0.10% | ~494 |
-| Circular Hazard | 0.10% | ~494 |
-| Civil Divergence | 0.10% | ~494 |
-| Clean Getaway | 0.10% | ~494 |
-| Combat Turmoil | 0.10% | ~494 |
-| Core Container | 0.10% | ~494 |
-| Faithful Companion | 0.10% | ~494 |
-| Firebug | 0.10% | ~494 |
-| Fully Contained | 0.10% | ~494 |
-| Master Strategist | 0.10% | ~494 |
-| Mostly Dead | 0.10% | ~494 |
-| Clear Skies | 0.10% | ~494 |
-| Overflowing | 0.10% | ~494 |
-| Regional Deluge | 0.10% | ~494 |
-| So Many Spaces to Build On, So Little Time | 0.10% | ~494 |
-| Supreme Strategist | 0.10% | ~494 |
-| A Temporal Would've Been Nice | 0.10% | ~494 |
-| This is…spartan. | 0.10% | ~494 |
-| Contains Trace Amounts of Gold | 0.10% | ~494 |
-| You Monster | 0.10% | ~494 |
+| Beating A Dead Potato | 0.10% | ~495 |
+| Best Friends Forever | 0.10% | ~495 |
+| Top of the Class | 0.10% | ~495 |
+| Circular Hazard | 0.10% | ~495 |
+| Civil Divergence | 0.10% | ~495 |
+| Clean Getaway | 0.10% | ~495 |
+| Combat Turmoil | 0.10% | ~495 |
+| Core Container | 0.10% | ~495 |
+| Faithful Companion | 0.10% | ~495 |
+| Firebug | 0.10% | ~495 |
+| Fully Contained | 0.10% | ~495 |
+| Master Strategist | 0.10% | ~495 |
+| Mostly Dead | 0.10% | ~495 |
+| Clear Skies | 0.10% | ~495 |
+| Overflowing | 0.10% | ~495 |
+| Regional Deluge | 0.10% | ~495 |
+| So Many Spaces to Build On, So Little Time | 0.10% | ~495 |
+| Supreme Strategist | 0.10% | ~495 |
+| A Temporal Would've Been Nice | 0.10% | ~495 |
+| This is…spartan. | 0.10% | ~495 |
+| Contains Trace Amounts of Gold | 0.10% | ~495 |
+| You Monster | 0.10% | ~495 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,500 (Ranked 43)  
+Progressed: 494,501 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -369,7 +369,7 @@ Completed: 5 (0.00%) (Ranked 407)
 | 2024-01-17 | 494,292 | 5 |
 | 2024-01-18 | 494,357 | 5 |
 | 2024-01-19 | 494,428 | 5 |
-| 2024-01-20 | 494,500 | 5 |
+| 2024-01-20 | 494,501 | 5 |
 ## Awards
 Max (Great for Beginners): 265  (Ranked 280)  
 Sum: 1,752 (Ranked 229)  
