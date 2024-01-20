@@ -25,9 +25,9 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.67% |
-| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
+| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
 | 29 | [The Riflemen](games/t/the_riflemen.md) | 15.85% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -165,13 +165,13 @@
 | 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.22% |
 | 162 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
 | 165 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
-| 166 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.14% |
 | 166 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
 | 166 | [Late Shift](games/l/late_shift.md) | 1.14% |
 | 166 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.14% |
-| 170 | [Adios](games/a/adios.md) | 1.13% |
-| 171 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.12% |
+| 169 | [Adios](games/a/adios.md) | 1.13% |
+| 169 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.13% |
 | 171 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
+| 172 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.11% |
 | 173 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.09% |
 | 174 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 174 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
