@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 330,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.05,
   "EosHistory": [
@@ -800,6 +800,11 @@
       "Time": "2024-01-19T20:04:31.0402344+00:00",
       "NumProgressed": 292,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-20T16:05:49.1264059+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -819,7 +824,7 @@
       "Name": "Comedy Killer",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "congratulations_you_are_a_sadist",
@@ -827,7 +832,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "deathlooper",
@@ -843,15 +848,15 @@
       "Name": "Good job, nerd",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "leader_you_are_not",
       "SetID": "84ad177",
       "Name": "A leader, you are not",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 97
     },
     {
       "ID": "lootaphilia",
@@ -873,17 +878,17 @@
       "ID": "mikey_lizard",
       "SetID": "84ad177",
       "Name": "Mikey Lizard",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "super_seducer",
@@ -946,7 +951,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 6
     }
   ],
@@ -954,8 +959,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:05:02.4579585+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:05:49.1264056+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.7913402+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:03:32.7330958+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:05:02.4579733+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:03:38.6449952+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:05:49.1264187+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 167,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
     "PcReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4095,9 +4095,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33825,
+  "EOS_Progressed": 33826,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -26060,6 +26060,11 @@
       "Time": "2024-01-20T15:09:24.0898673+00:00",
       "NumProgressed": 33825,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-20T16:09:36.1198384+00:00",
+      "NumProgressed": 33826,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26127,7 +26132,7 @@
       "Name": "Collector",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Cultured",
@@ -26191,7 +26196,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Fragile_Panes",
@@ -26295,7 +26300,7 @@
       "Name": "Reckless",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Rift_Destroyer",
@@ -26351,7 +26356,7 @@
       "Name": "Skilled",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Solo_Capture",
@@ -26367,7 +26372,7 @@
       "Name": "Stunner",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Stylish",
@@ -26439,7 +26444,7 @@
       "Name": "Tobin\u0027s Prodigy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "Ultimate_Defense",
@@ -26478,7 +26483,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33825,
+      "Progressed": 33826,
       "Completed": 71
     }
   ],
@@ -26486,8 +26491,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-20T07:00:07.0825358+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:09:24.0898668+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:09:36.1198381+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:59:19.9453314+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:09:24.0899965+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:00:31.271149+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:09:36.1199413+00:00"
 }

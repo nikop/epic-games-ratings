@@ -1,14 +1,14 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.54 (Ranked 551)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Rock of the Bay | 84.00% | ~380 |
 | Mash Machine | 75.00% | ~339 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~249 |
+| Ducks in a Row, Fish in a Barrel | 56.00% | ~253 |
 | Furon Fashion | 49.00% | ~221 |
 | Shop Til They Drop | 40.00% | ~181 |
 | Bodied Sattva | 39.00% | ~176 |
@@ -27,8 +27,8 @@ Number of Ratings: 90  (23.09.2022)
 | Fly Me to the Moon Base | 11.00% | ~50 |
 | Dusted | 11.00% | ~50 |
 | Scuttled | 10.00% | ~45 |
+| Re-Return of the Clone of the Invasion II-2 | 8.00% | ~36 |
 | Lobster Blisque | 7.00% | ~32 |
-| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~32 |
 | Yettisoned | 6.00% | ~27 |
 | Ultimate Smoothie | 5.00% | ~23 |
 | Arkvoodle Doodle | 5.00% | ~23 |

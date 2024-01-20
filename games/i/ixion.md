@@ -7,7 +7,7 @@ Rating: 4.60 (Ranked 425)
 | ---- | ---------- | ----- |
 | Wakey Wakey | 34.00% | ~1,438 |
 | Sputnik 2049 | 30.00% | ~1,269 |
-| Infinite Growth... | 29.00% | ~1,226 |
+| Infinite Growth... | 29.00% | ~1,227 |
 | Without Breaking Some Eggs... | 27.00% | ~1,142 |
 | Space Society | 20.00% | ~846 |
 | A Thousand Strong | 20.00% | ~846 |
@@ -32,11 +32,11 @@ Rating: 4.60 (Ranked 425)
 | From the Past | 7.00% | ~296 |
 | Oats | 6.00% | ~254 |
 | All in Good Health | 6.00% | ~254 |
-| What They Hide From Us | 5.00% | ~211 |
-| ...  in a finite world | 5.00% | ~211 |
-| In Dolos We Trust | 5.00% | ~211 |
-| BRAWL! | 5.00% | ~211 |
-| What the Ruins Teach Us | 5.00% | ~211 |
+| What They Hide From Us | 5.00% | ~212 |
+| ...  in a finite world | 5.00% | ~212 |
+| In Dolos We Trust | 5.00% | ~212 |
+| BRAWL! | 5.00% | ~212 |
+| What the Ruins Teach Us | 5.00% | ~212 |
 | Sustainable Energy | 4.00% | ~169 |
 | Pedal to the Metal | 4.00% | ~169 |
 | Praise the Hull! | 3.00% | ~127 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 425)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,229 (Ranked 217)  
+Progressed: 4,230 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 4,209 | 0 |
 | 2024-01-18 | 4,219 | 0 |
 | 2024-01-19 | 4,224 | 0 |
-| 2024-01-20 | 4,229 | 0 |
+| 2024-01-20 | 4,230 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

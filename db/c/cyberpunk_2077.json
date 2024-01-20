@@ -18702,10 +18702,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 507983,
       "NumberOfAwardsMax": 142615
+    },
+    {
+      "Time": "2024-01-20T16:03:26.7245567+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 508153,
+      "NumberOfAwardsMax": 142615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507983,
+  "NumberOfAwards": 508153,
   "NumberOfAwardsMax": 142615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18761,7 +18767,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 28042
+      "Count": 28212
     },
     {
       "Text": "This game has Amazing Characters",
@@ -18782,10 +18788,10 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055744,
+  "EOS_Progressed": 1055782,
   "EOS_Completed": 3135,
-  "EOS_NewPlayers": 6208,
-  "EOS_NewCompleters": 51,
+  "EOS_NewPlayers": 6144,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50312,6 +50318,11 @@
       "Time": "2024-01-20T15:09:11.4224757+00:00",
       "NumProgressed": 1055744,
       "NumCompleted": 3135
+    },
+    {
+      "Time": "2024-01-20T16:09:18.3179537+00:00",
+      "NumProgressed": 1055782,
+      "NumCompleted": 3135
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50364,7 +50375,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "Fortuneteller",
@@ -50372,7 +50383,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "Gearhead",
@@ -50636,7 +50647,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "UnderPressure",
@@ -50780,7 +50791,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "HydraIsDead",
@@ -50796,7 +50807,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "KingOfTheCups",
@@ -50859,21 +50870,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055744,
+      "Progressed": 1055782,
       "Completed": 3135
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184367,
+      "Progressed": 184405,
       "Completed": 10666
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-20T15:03:25.0166519+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:09:11.4224753+00:00",
+  "LastChanged": "2024-01-20T16:03:26.7245566+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:09:18.3179534+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:03:25.0166526+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:09:11.4226603+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:03:26.7245571+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:09:18.3181024+00:00"
 }

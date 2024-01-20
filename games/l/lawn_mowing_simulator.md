@@ -6,17 +6,17 @@ Number of Ratings: 5,086  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~552,124 |
-| Every story has a beginning | 36.00% | ~251,601 |
-| The first of many | 31.00% | ~216,656 |
-| Positive word of mouth | 18.00% | ~125,800 |
-| Lawn in the U.S.A. | 15.00% | ~104,834 |
-| Blade Runner | 9.00% | ~62,900 |
-| Credible | 7.00% | ~48,922 |
-| Teamwork makes the dream work | 6.00% | ~41,933 |
-| Where there's muck there's brass | 4.00% | ~27,956 |
-| Bigger and better | 4.00% | ~27,956 |
-| Aggressive expansion | 4.00% | ~27,956 |
+| The dream begins | 79.00% | ~552,143 |
+| Every story has a beginning | 36.00% | ~251,609 |
+| The first of many | 31.00% | ~216,664 |
+| Positive word of mouth | 18.00% | ~125,805 |
+| Lawn in the U.S.A. | 15.00% | ~104,837 |
+| Blade Runner | 9.00% | ~62,902 |
+| Credible | 7.00% | ~48,924 |
+| Teamwork makes the dream work | 6.00% | ~41,935 |
+| Where there's muck there's brass | 4.00% | ~27,957 |
+| Bigger and better | 4.00% | ~27,957 |
+| Aggressive expansion | 4.00% | ~27,957 |
 | Size isn't everything | 3.00% | ~20,967 |
 | Close shave | 3.00% | ~20,967 |
 | Established | 3.00% | ~20,967 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~699 |
 | Mo mowers, mo problems | 0.10% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 698,891 (Ranked 29)  
+Progressed: 698,915 (Ranked 29)  
 Completed: 19 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 19 (0.00%) (Ranked 406)
 | 2024-01-17 | 698,277 | 19 |
 | 2024-01-18 | 698,496 | 19 |
 | 2024-01-19 | 698,716 | 19 |
-| 2024-01-20 | 698,891 | 19 |
+| 2024-01-20 | 698,915 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 315)  
 Sum: 992 (Ranked 278)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -2803,9 +2803,9 @@
       "ID": "Kill_Demon_Abraxis",
       "SetID": "7a5k76n",
       "Name": "Demon Meddler",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 157
+      "UsersEstimate": 164
     },
     {
       "ID": "Kill_Demon_Kraken",
@@ -2907,9 +2907,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 426
     },
     {
       "ID": "Save_Humans_10",
@@ -3019,8 +3019,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-19T19:59:04.9154437+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:06:28.5676957+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:07:51.3755183+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:59:17.8036362+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:06:28.5677535+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:00:28.2007483+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:07:51.375577+00:00"
 }

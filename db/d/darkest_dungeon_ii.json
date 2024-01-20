@@ -11100,9 +11100,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133301,
+  "EOS_Progressed": 133305,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 637,
+  "EOS_NewPlayers": 635,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40765,6 +40765,11 @@
       "Time": "2024-01-20T15:10:15.9816814+00:00",
       "NumProgressed": 133301,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T16:10:48.2001303+00:00",
+      "NumProgressed": 133305,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41376,7 +41381,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41384,7 +41389,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41407,21 +41412,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133301,
+      "Progressed": 133305,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8170,
+      "Progressed": 8174,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-20T13:57:59.7588616+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:10:15.9816807+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:10:48.20013+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:57:53.4598749+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:10:15.981986+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:58:20.1949138+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:10:48.2002847+00:00"
 }

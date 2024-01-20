@@ -6,25 +6,25 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~7,012 |
-| Man of politics | 34.00% | ~6,113 |
-| Friends of sorts | 32.00% | ~5,753 |
-| Yet another secret | 32.00% | ~5,753 |
-| Let there be darkness | 31.00% | ~5,573 |
+| Tattletale | 39.00% | ~7,013 |
+| Man of politics | 34.00% | ~6,114 |
+| Friends of sorts | 32.00% | ~5,754 |
+| Yet another secret | 32.00% | ~5,754 |
+| Let there be darkness | 31.00% | ~5,574 |
 | End of Book One | 29.00% | ~5,214 |
-| Wannabe knight | 23.00% | ~4,135 |
-| Garden of Eden | 23.00% | ~4,135 |
-| Full house | 23.00% | ~4,135 |
+| Wannabe knight | 23.00% | ~4,136 |
+| Garden of Eden | 23.00% | ~4,136 |
+| Full house | 23.00% | ~4,136 |
 | Help an old friend | 21.00% | ~3,776 |
 | Two of us | 20.00% | ~3,596 |
-| Negotiation skills | 18.00% | ~3,236 |
-| Workers' union | 18.00% | ~3,236 |
-| End of Book Two | 18.00% | ~3,236 |
+| Negotiation skills | 18.00% | ~3,237 |
+| Workers' union | 18.00% | ~3,237 |
+| End of Book Two | 18.00% | ~3,237 |
 | Everything's in order | 16.00% | ~2,877 |
 | Twist of Fate | 14.00% | ~2,517 |
 | Jack was here! | 14.00% | ~2,517 |
-| Exterminator | 13.00% | ~2,337 |
-| Whodunnit | 12.00% | ~2,157 |
+| Exterminator | 13.00% | ~2,338 |
+| Whodunnit | 12.00% | ~2,158 |
 | Good midwife | 10.00% | ~1,798 |
 | Friar Tuck | 10.00% | ~1,798 |
 | First profit | 10.00% | ~1,798 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~539 |
 | Boy of mystery | 2.00% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,979 (Ranked 166)  
+Progressed: 17,981 (Ranked 166)  
 Completed: 125 (0.70%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 125 (0.70%) (Ranked 205)
 | 2024-01-17 | 17,923 | 125 |
 | 2024-01-18 | 17,936 | 125 |
 | 2024-01-19 | 17,964 | 125 |
-| 2024-01-20 | 17,979 | 125 |
+| 2024-01-20 | 17,981 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 333)  
 Sum: 200 (Ranked 419)  

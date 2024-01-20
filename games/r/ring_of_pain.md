@@ -29,7 +29,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Explorer | 1.00% | ~2,433 |
 | Sneaky | 1.00% | ~2,433 |
 | An Offering | 1.00% | ~2,433 |
-| Not Touching You | 1.00% | ~47 |
+| Not Touching You | 1.00% | ~48 |
 | R.I.P | 0.90% | ~2,189 |
 | Dig Your Own Grave | 0.90% | ~2,189 |
 | Cold Hearted | 0.90% | ~2,189 |
@@ -83,6 +83,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Become The Nightmare | 0.30% | ~730 |
 | Clearing The Room | 0.30% | ~730 |
 | Path To Enlightenment | 0.30% | ~730 |
+| Just Looking Around | 0.30% | ~730 |
 | Fire Away! | 0.30% | ~730 |
 | Defuser | 0.30% | ~730 |
 | Obsessed | 0.30% | ~730 |
@@ -104,13 +105,12 @@ Number of Ratings: 15,086  (23.09.2022)
 | Overthrown | 0.20% | ~487 |
 | Illuminate, Annihilate | 0.20% | ~487 |
 | No Mercy | 0.20% | ~487 |
-| Just Looking Around | 0.20% | ~487 |
 | Champion of the Day | 0.20% | ~487 |
-| Explosives Expert | 0.20% | ~9 |
-| Diviner | 0.20% | ~9 |
-| Soul Kin | 0.20% | ~9 |
-| Brute | 0.20% | ~9 |
-| Nuclear | 0.20% | ~9 |
+| Explosives Expert | 0.20% | ~10 |
+| Diviner | 0.20% | ~10 |
+| Soul Kin | 0.20% | ~10 |
+| Brute | 0.20% | ~10 |
+| Nuclear | 0.20% | ~10 |
 | Disposal | 0.10% | ~243 |
 | Hanging On | 0.10% | ~243 |
 | A Hard Carry | 0.10% | ~243 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,268 (Ranked 75)  
+Progressed: 243,274 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,11 +420,11 @@ Completed: 309 (0.13%) (Ranked 306)
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
 | 2024-01-19 | 243,229 | 309 |
-| 2024-01-20 | 243,268 | 309 |
+| 2024-01-20 | 243,274 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
-Sum: 11,799 (Ranked 91)  
-Diff (max vs sum): 49  
+Sum: 11,799 (Ranked 92)  
+Diff (max vs sum): 48  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,534 |

@@ -60,6 +60,7 @@
 | My Friends! | 6.00% | ~9 |
 | Balanced | 6.00% | ~9 |
 | Friend of Grey Dusk Vale | 6.00% | ~9 |
+| Defeat Isgrimm | 5.00% | ~8 |
 | Defeat Rohen | 5.00% | ~8 |
 | Defeat Yria | 5.00% | ~8 |
 | Lore's Tale | 5.00% | ~8 |
@@ -68,7 +69,6 @@
 | Master Alchemist | 5.00% | ~8 |
 | Breaking the circle | 5.00% | ~8 |
 | Master Necromancer | 5.00% | ~8 |
-| Defeat Isgrimm | 4.00% | ~6 |
 | Hard Life | 2.00% | ~3 |
 | Impossible Mission | 1.00% | ~2 |
 | Potion Master | 0.00% | ~0 |

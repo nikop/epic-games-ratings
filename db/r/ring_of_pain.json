@@ -4,7 +4,7 @@
   "ProductSlug": "ring-of-pain",
   "Ranking_Rating": 474,
   "Ranking_Popularity": 140,
-  "Ranking_PopularitySum": 91,
+  "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 139,
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243268,
+  "EOS_Progressed": 243274,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 386,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32449,6 +32449,11 @@
       "Time": "2024-01-20T15:10:26.6414834+00:00",
       "NumProgressed": 243268,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-20T16:11:01.5290233+00:00",
+      "NumProgressed": 243274,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33098,9 +33103,9 @@
       "ID": "PASSIVEDEPTH6",
       "SetID": "5l8oe0h",
       "Name": "Just Looking Around",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 487
+      "UsersEstimate": 730
     },
     {
       "ID": "PASSIVEROOM",
@@ -33452,7 +33457,7 @@
       "Name": "Explosives Expert",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FINISHGAMENOSTATS",
@@ -33468,7 +33473,7 @@
       "Name": "Diviner",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FINISHRUNALLMAGE",
@@ -33476,7 +33481,7 @@
       "Name": "Soul Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "FINISHRUNALLONLYEQUIPMULTICLASS",
@@ -33500,7 +33505,7 @@
       "Name": "Brute",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "KILLALLCREATURESINONETURN",
@@ -33508,7 +33513,7 @@
       "Name": "Nuclear",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "KILLBOSSINDIRECTLY",
@@ -33516,7 +33521,7 @@
       "Name": "Not Touching You",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "KILLBOSSWITHNOITEMS",
@@ -33563,13 +33568,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243268,
+      "Progressed": 243274,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4748,
+      "Progressed": 4754,
       "Completed": 429
     }
   ],
@@ -33577,8 +33582,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:10:26.6414831+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:11:01.529023+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:59:46.2817284+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:10:26.6417521+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:01:12.2244822+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:11:01.5292713+00:00"
 }

@@ -2617,17 +2617,17 @@
       "ID": "CgkIgaGB2J0LEAIQAw",
       "SetID": "4ocea6d",
       "Name": "Scythed Chariot",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 165,
-      "UsersEstimate": 170
+      "UsersEstimate": 176
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBA",
       "SetID": "4ocea6d",
       "Name": "Revolving Bridge",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 165,
-      "UsersEstimate": 165
+      "UsersEstimate": 170
     },
     {
       "ID": "CgkIgaGB2J0LEAIQBQ",
@@ -2648,8 +2648,8 @@
   ],
   "FirstSeen": "2023-06-04T19:57:01.1136715+00:00",
   "FirstSeenAchievements": "2023-06-01T10:00:07.8379494+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:09:22.1659633+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:09:33.2681501+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.2964285+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:02:53.2766298+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:09:22.1659951+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:02:39.5285136+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:09:33.2681694+00:00"
 }

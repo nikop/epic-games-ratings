@@ -6,22 +6,22 @@ Number of Ratings: 1,003  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~312,973 |
-| Jeef Skeejj | 44.00% | ~208,648 |
-| Careful planning | 39.00% | ~184,938 |
-| Second Coming | 34.00% | ~161,228 |
-| Jeef Skagg | 30.00% | ~142,260 |
-| Mother | 25.00% | ~118,550 |
-| In space, no one can hear you scream | 24.00% | ~113,808 |
-| Chapter I: Echoes | 22.00% | ~104,324 |
-| Excelsior Rule | 22.00% | ~104,324 |
-| Things persisted in not being what they seemed | 20.00% | ~94,840 |
-| Knightmare Frames | 15.00% | ~71,130 |
-| May His passing cleanse the world | 15.00% | ~71,130 |
-| Chapter II: Fallible Flesh | 15.00% | ~71,130 |
-| Pope Zenon | 15.00% | ~71,130 |
-| Plan for the worst | 12.00% | ~56,904 |
-| Tetsuo | 11.00% | ~52,162 |
+| The Shutdown | 66.00% | ~312,975 |
+| Jeef Skeejj | 44.00% | ~208,650 |
+| Careful planning | 39.00% | ~184,940 |
+| Second Coming | 34.00% | ~161,230 |
+| Jeef Skagg | 30.00% | ~142,262 |
+| Mother | 25.00% | ~118,551 |
+| In space, no one can hear you scream | 24.00% | ~113,809 |
+| Chapter I: Echoes | 22.00% | ~104,325 |
+| Excelsior Rule | 22.00% | ~104,325 |
+| Things persisted in not being what they seemed | 20.00% | ~94,841 |
+| Knightmare Frames | 15.00% | ~71,131 |
+| May His passing cleanse the world | 15.00% | ~71,131 |
+| Chapter II: Fallible Flesh | 15.00% | ~71,131 |
+| Pope Zenon | 15.00% | ~71,131 |
+| Plan for the worst | 12.00% | ~56,905 |
+| Tetsuo | 11.00% | ~52,163 |
 | Chapter III: The Man Who Sold the World | 10.00% | ~47,420 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,936 |
 | Through the mirror | 8.00% | ~37,936 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,201 (Ranked 45)  
+Progressed: 474,205 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -361,7 +361,7 @@ Completed: 21 (0.00%) (Ranked 406)
 | 2024-01-17 | 474,055 | 21 |
 | 2024-01-18 | 474,108 | 21 |
 | 2024-01-19 | 474,167 | 21 |
-| 2024-01-20 | 474,201 | 21 |
+| 2024-01-20 | 474,205 | 21 |
 ## Awards
 Max (Character Customization): 230  (Ranked 287)  
 Sum: 254 (Ranked 400)  

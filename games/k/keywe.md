@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | You're Hired | 97.00% | ~186 |
 | Learn the Ropes | 64.00% | ~123 |
-| Working for the Kiweekend | 39.00% | ~75 |
+| Working for the Kiweekend | 40.00% | ~77 |
 | Fun in the Bungalow Basin Sun | 38.00% | ~73 |
 | Practice Makes Postmasters | 35.00% | ~67 |
 | A Startling Discovery | 31.00% | ~60 |

@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~504 |
 | First of many… | 68.00% | ~445 |
-| Helping Hand | 64.00% | ~419 |
+| Helping Hand | 65.00% | ~426 |
 | Increased Vigor | 61.00% | ~400 |
 | Fight Fire with Fire | 59.00% | ~386 |
 | Increased Capacity | 56.00% | ~367 |
@@ -37,7 +37,7 @@ Number of Ratings: 116  (23.09.2022)
 | Big Spender | 27.00% | ~177 |
 | Cleanup Crew | 26.00% | ~170 |
 | Seeing Red | 26.00% | ~170 |
-| Demon Meddler | 24.00% | ~157 |
+| Demon Meddler | 25.00% | ~164 |
 | Egomaniac | 24.00% | ~157 |
 | Maximum Capacity | 23.00% | ~151 |
 | Protector of Humanity | 22.00% | ~144 |

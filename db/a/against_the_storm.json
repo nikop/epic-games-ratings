@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4025,7 +4025,7 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20915,
+  "EOS_Progressed": 20916,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 0,
@@ -20135,6 +20135,11 @@
       "Time": "2024-01-20T15:08:47.0539904+00:00",
       "NumProgressed": 20915,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-20T16:08:42.9375748+00:00",
+      "NumProgressed": 20916,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20377,9 +20382,9 @@
       "ID": "WinNearStatue",
       "SetID": "cfbk359",
       "Name": "Statue of the Forefathers",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 627
+      "UsersEstimate": 837
     },
     {
       "ID": "WinNearTemple",
@@ -20618,15 +20623,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20915,
+      "Progressed": 20916,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-20T05:59:40.4490186+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:08:47.0539902+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:08:42.9375745+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:00:04.2104528+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:08:47.0540991+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:01:39.0691703+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:08:42.9376643+00:00"
 }

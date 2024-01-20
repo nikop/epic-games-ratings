@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3539,
+  "EOS_Progressed": 3540,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 144,
+  "EOS_NewPlayers": 145,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5950,6 +5950,11 @@
       "Time": "2024-01-20T15:10:16.5251398+00:00",
       "NumProgressed": 3539,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T16:10:48.7660836+00:00",
+      "NumProgressed": 3540,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5962,7 +5967,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "achievement_10",
@@ -5986,7 +5991,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_13",
@@ -6050,7 +6055,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2903
     },
     {
       "ID": "achievement_20",
@@ -6106,7 +6111,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2477
+      "UsersEstimate": 2478
     },
     {
       "ID": "achievement_36",
@@ -6138,7 +6143,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "achievement_41",
@@ -6258,7 +6263,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "achievement_60",
@@ -6337,7 +6342,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3539,
+      "Progressed": 3540,
       "Completed": 5
     }
   ],
@@ -6345,8 +6350,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T22:59:42.5800513+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:10:16.5251394+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:10:48.7660829+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:00:03.8337673+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:10:16.5252036+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:01:38.5052981+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:10:48.7661418+00:00"
 }

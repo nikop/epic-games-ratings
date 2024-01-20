@@ -6,30 +6,30 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~71,312 |
-| Initial Capital | 61.00% | ~58,000 |
-| Junior Supply Officer | 39.00% | ~37,082 |
-| Moneybags | 38.00% | ~36,131 |
-| Naval Warfare. Arson | 29.00% | ~27,574 |
-| Naval Warfare. Ramming | 28.00% | ~26,623 |
-| Amateur | 26.00% | ~24,721 |
-| Naval Warfare. Tactics | 26.00% | ~24,721 |
-| Naval Constructor | 25.00% | ~23,770 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~18,066 |
-| Naval Warfare. Flooding | 16.00% | ~15,213 |
-| Naval Warfare. Lucky Shot | 16.00% | ~15,213 |
-| Business Magnate | 13.00% | ~12,361 |
-| Battle Hero | 12.00% | ~11,410 |
-| Warrior | 10.00% | ~9,508 |
-| Supply Officer | 10.00% | ~9,508 |
-| Smooth Supply | 10.00% | ~9,508 |
-| Veteran | 5.00% | ~4,754 |
-| Legend of the Seas | 3.00% | ~2,852 |
-| Shield | 3.00% | ~2,852 |
-| Chief Naval Architect | 2.00% | ~1,902 |
-| Weather Beaten | 2.00% | ~1,902 |
-| Important Missions | 2.00% | ~1,902 |
-| Guardian | 2.00% | ~1,902 |
+| Junior Naval Designer | 75.00% | ~71,352 |
+| Initial Capital | 61.00% | ~58,033 |
+| Junior Supply Officer | 39.00% | ~37,103 |
+| Moneybags | 38.00% | ~36,152 |
+| Naval Warfare. Arson | 29.00% | ~27,589 |
+| Naval Warfare. Ramming | 28.00% | ~26,638 |
+| Amateur | 26.00% | ~24,735 |
+| Naval Warfare. Tactics | 26.00% | ~24,735 |
+| Naval Constructor | 25.00% | ~23,784 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~18,076 |
+| Naval Warfare. Flooding | 16.00% | ~15,222 |
+| Naval Warfare. Lucky Shot | 16.00% | ~15,222 |
+| Business Magnate | 13.00% | ~12,368 |
+| Battle Hero | 12.00% | ~11,416 |
+| Warrior | 10.00% | ~9,514 |
+| Supply Officer | 10.00% | ~9,514 |
+| Smooth Supply | 10.00% | ~9,514 |
+| Veteran | 5.00% | ~4,757 |
+| Legend of the Seas | 3.00% | ~2,854 |
+| Shield | 3.00% | ~2,854 |
+| Chief Naval Architect | 2.00% | ~1,903 |
+| Weather Beaten | 2.00% | ~1,903 |
+| Important Missions | 2.00% | ~1,903 |
+| Guardian | 2.00% | ~1,903 |
 | Bane of the Oceans | 1.00% | ~951 |
 | Senior Supply Officer | 1.00% | ~951 |
 | "Science of Victory" | 1.00% | ~951 |
@@ -38,9 +38,9 @@ Number of Ratings: 4,733  (23.09.2022)
 | Exterminator | 1.00% | ~951 |
 | American Cruisers | 1.00% | ~951 |
 | Old-Timer | 0.80% | ~761 |
-| Secret Instructions | 0.50% | ~475 |
-| Raider | 0.50% | ~475 |
-| Experienced One | 0.40% | ~380 |
+| Secret Instructions | 0.50% | ~476 |
+| Raider | 0.50% | ~476 |
+| Experienced One | 0.40% | ~381 |
 | Ravager | 0.30% | ~285 |
 | "Yamamoto Isoroku" | 0.30% | ~285 |
 | "Honorable Service" | 0.20% | ~190 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~95 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95,082 (Ranked 104)  
+Progressed: 95,136 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,18 +211,18 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 93,477 | 0 |
 | 2024-01-18 | 93,977 | 0 |
 | 2024-01-19 | 94,639 | 0 |
-| 2024-01-20 | 95,082 | 0 |
+| 2024-01-20 | 95,136 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,739  (Ranked 134)  
-Sum: 14,567 (Ranked 80)  
+Sum: 14,575 (Ranked 80)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,739 |
 | This game is Relaxing | 1,729 |
 | This game has Challenging Combat | 1,716 |
+| This game is Highly Recommended | 1,688 |
 | This game is Extremely Fun | 1,686 |
-| This game is Highly Recommended | 1,680 |
 | This game has Competitive Players | 1,662 |
 | This game has Realistic Visuals | 1,530 |
 | This game has Amazing Storytelling | 1,447 |
@@ -604,4 +604,4 @@ Diff (max vs sum): 54
 | 2024-01-17 | 4.41 | - | 1,729 | 15,773 |
 | 2024-01-18 | 4.41 | - | 1,734 | 14,520 |
 | 2024-01-19 | 4.41 | - | 1,734 | 14,545 |
-| 2024-01-20 | 4.41 | - | 1,739 | 14,567 |
+| 2024-01-20 | 4.41 | - | 1,739 | 14,575 |

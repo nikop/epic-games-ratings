@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 201,
-  "Ranking_EOS_NewPlayers": 340,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 333,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -1587,6 +1587,11 @@
       "Time": "2024-01-20T14:09:00.6047997+00:00",
       "NumProgressed": 537,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T16:08:59.4704673+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1655,7 +1660,7 @@
       "Name": "Combo Convert",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1663,7 +1668,7 @@
       "Name": "Perfect Run",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "FIRST_FISHING_TUTORIAL",
@@ -1679,7 +1684,7 @@
       "Name": "Elder Koco Encounter",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "FIRST_KODAMA_HERMIT_TALK",
@@ -1703,7 +1708,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1711,7 +1716,7 @@
       "Name": "Speed Demon",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1887,7 +1892,7 @@
       "Name": "Ares Island Expert",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "SUB_CLEAR_ISLAND3",
@@ -1918,14 +1923,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:08:58.3775724+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:08:59.470467+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:59:22.890809+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:08:58.3776076+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:00:35.0507237+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:08:59.4704935+00:00"
 }

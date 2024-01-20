@@ -23,13 +23,13 @@ Number of Ratings: 124  (23.09.2022)
 | Banker | 16.00% | ~43 |
 | Storyteller | 15.00% | ~40 |
 | Globetrotter | 15.00% | ~40 |
-| Berserker | 14.00% | ~37 |
+| Berserker | 15.00% | ~40 |
 | Beam Me Up | 12.00% | ~32 |
 | Alb | 12.00% | ~32 |
 | Hunter | 12.00% | ~32 |
 | Lover | 12.00% | ~32 |
+| Perfectionist | 11.00% | ~29 |
 | Free as a Bird | 10.00% | ~27 |
-| Perfectionist | 10.00% | ~27 |
 | Treasure Hunter | 8.00% | ~21 |
 | Detective | 8.00% | ~21 |
 | Weaponsmith | 7.00% | ~19 |

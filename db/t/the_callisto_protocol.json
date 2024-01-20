@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2321,9 +2321,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22589,
+  "EOS_Progressed": 22592,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 311,
+  "EOS_NewPlayers": 309,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14506,6 +14506,11 @@
       "Time": "2024-01-20T15:10:01.0909507+00:00",
       "NumProgressed": 22589,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-20T16:10:28.3531073+00:00",
+      "NumProgressed": 22592,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14549,7 +14554,7 @@
       "Name": "Flesh Wound",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 6099
+      "UsersEstimate": 6100
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14621,7 +14626,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5195
+      "UsersEstimate": 5196
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14629,7 +14634,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "KILL_2HEAD",
@@ -14661,7 +14666,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14669,7 +14674,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14693,7 +14698,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5421
+      "UsersEstimate": 5422
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14709,7 +14714,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14717,7 +14722,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4066
+      "UsersEstimate": 4067
     },
     {
       "ID": "STORY_HABITAT",
@@ -14725,7 +14730,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3614
+      "UsersEstimate": 3615
     },
     {
       "ID": "STORY_HANGAR",
@@ -14733,7 +14738,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14749,7 +14754,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5873
+      "UsersEstimate": 5874
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14757,7 +14762,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3162
+      "UsersEstimate": 3163
     },
     {
       "ID": "STORY_TOWER",
@@ -14861,7 +14866,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "KILL_BIOBOT",
@@ -14892,13 +14897,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22589,
+      "Progressed": 22592,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10515,
+      "Progressed": 10518,
       "Completed": 29
     }
   ],
@@ -14906,8 +14911,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-20T01:50:40.5262185+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:10:01.0909505+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:10:28.353107+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:03:32.3600759+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:10:01.0910172+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:03:38.0842278+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:10:28.3531828+00:00"
 }

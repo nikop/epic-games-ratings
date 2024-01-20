@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
     "PcReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4054,
+  "EOS_Progressed": 4055,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5774,6 +5774,11 @@
       "Time": "2024-01-20T10:04:03.1869443+00:00",
       "NumProgressed": 4054,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-20T16:05:18.111589+00:00",
+      "NumProgressed": 4055,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5785,7 +5790,7 @@
       "Name": "All Ovens Blazing",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "bonus2",
@@ -5833,7 +5838,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "campaign10",
@@ -5873,7 +5878,7 @@
       "Name": "Well Supplied",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "campaign15",
@@ -5921,7 +5926,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3040
+      "UsersEstimate": 3041
     },
     {
       "ID": "campaign20",
@@ -5935,9 +5940,9 @@
       "ID": "campaign3",
       "SetID": "2h56gn1",
       "Name": "Economics 101",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 2392
+      "UsersEstimate": 2352
     },
     {
       "ID": "campaign4",
@@ -5945,7 +5950,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "campaign5",
@@ -5985,7 +5990,7 @@
       "Name": "Boulder Clash",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "scenario1",
@@ -6048,7 +6053,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4054,
+      "Progressed": 4055,
       "Completed": 11
     }
   ],
@@ -6056,8 +6061,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-16T03:01:32.4269328+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:04:40.2505773+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:05:18.1115885+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:46.778469+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:58:26.2165718+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:04:40.2506342+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:59:10.2844866+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:05:18.1116387+00:00"
 }

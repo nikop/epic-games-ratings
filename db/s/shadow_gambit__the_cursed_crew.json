@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1549,
+  "EOS_Progressed": 1550,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.39,
   "EosHistory": [
@@ -5392,6 +5392,11 @@
       "Time": "2024-01-20T15:03:49.8980915+00:00",
       "NumProgressed": 1549,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-20T16:04:06.468767+00:00",
+      "NumProgressed": 1550,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5412,7 +5417,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "_03_FinishAct1",
@@ -5420,7 +5425,7 @@
       "Name": "The Adventure Begins",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "_04_CollectAllRelics",
@@ -5476,7 +5481,7 @@
       "Name": "Buccaneer",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "_11_Completion_40",
@@ -5492,7 +5497,7 @@
       "Name": "Privateer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "_13_Completion_60",
@@ -5500,7 +5505,7 @@
       "Name": "Corsair",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "_14_Completion_70",
@@ -5532,7 +5537,7 @@
       "Name": "With Great Power\u2026",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "_18_UpgradeAllCharacters",
@@ -5540,7 +5545,7 @@
       "Name": "Fully Decked",
       "Percentage": 7,
       "XP": 125,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "_19_CrewTale_BSP",
@@ -5548,7 +5553,7 @@
       "Name": "Persistent Parasite",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "_20_CrewTale_TPB",
@@ -5556,7 +5561,7 @@
       "Name": "Fishy Fish",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 325
+      "UsersEstimate": 326
     },
     {
       "ID": "_21_CrewTale_OVT",
@@ -5580,7 +5585,7 @@
       "Name": "Lyrical Longing",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 139
+      "UsersEstimate": 140
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5611,7 +5616,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1549,
+      "Progressed": 1550,
       "Completed": 37
     }
   ],
@@ -5619,8 +5624,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:03:49.8980911+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:04:06.4687666+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5086793+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:57:41.9441391+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:03:49.8981465+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:58:02.4558698+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:04:06.4688033+00:00"
 }

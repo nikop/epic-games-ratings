@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 492,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 449,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 514,
+  "EOS_Progressed": 515,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -697,6 +697,11 @@
       "Time": "2024-01-17T20:05:37.6904829+00:00",
       "NumProgressed": 514,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T16:04:33.6336938+00:00",
+      "NumProgressed": 515,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -716,7 +721,7 @@
       "Name": "Perfect Illusion",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -756,7 +761,7 @@
       "Name": "Circus Electrique Proudly Presents...",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -812,7 +817,7 @@
       "Name": "More Brain Than Brawn",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -860,7 +865,7 @@
       "Name": "Hundred Percent First",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -940,7 +945,7 @@
       "Name": "King of District 1",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -970,9 +975,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "631ndc2",
       "Name": "King of District 5",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 21
+      "UsersEstimate": 15
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -1044,7 +1049,7 @@
       "Name": "Amazing!",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -1107,7 +1112,7 @@
     {
       "ID": "631ndc2",
       "IsBase": true,
-      "Progressed": 514,
+      "Progressed": 515,
       "Completed": 1
     }
   ],
@@ -1115,8 +1120,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:04:08.8281768+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:04:33.6336935+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:26.5624787+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:57:28.5021878+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:04:08.8282179+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:57:42.1334002+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:04:33.633751+00:00"
 }

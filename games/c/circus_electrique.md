@@ -7,18 +7,18 @@ Number of Ratings: 22  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Self Defense | 49.00% | ~252 |
-| Circus Electrique Proudly Presents... | 44.00% | ~226 |
+| Circus Electrique Proudly Presents... | 44.00% | ~227 |
 | Grand Opening | 43.00% | ~221 |
 | Path of Learning | 43.00% | ~221 |
 | Built in a Day | 35.00% | ~180 |
-| More Brain Than Brawn | 31.00% | ~159 |
-| Perfect Illusion | 25.00% | ~128 |
-| Hundred Percent First | 25.00% | ~128 |
+| More Brain Than Brawn | 31.00% | ~160 |
+| Perfect Illusion | 25.00% | ~129 |
+| Hundred Percent First | 25.00% | ~129 |
 | Dirty Dozen | 21.00% | ~108 |
 | Fan Service | 19.00% | ~98 |
 | Lion Tamer | 18.00% | ~93 |
-| King of District 1 | 17.00% | ~87 |
-| Amazing! | 17.00% | ~87 |
+| King of District 1 | 17.00% | ~88 |
+| Amazing! | 17.00% | ~88 |
 | Lucky Day | 15.00% | ~77 |
 | Bar Brawler | 15.00% | ~77 |
 | Flawless Presentation | 15.00% | ~77 |
@@ -36,11 +36,11 @@ Number of Ratings: 22  (23.09.2022)
 | Around the Clock | 5.00% | ~26 |
 | King of District 4 | 5.00% | ~26 |
 | City Savior | 4.00% | ~21 |
-| King of District 5 | 4.00% | ~21 |
 | Hundred Percent Third | 3.00% | ~15 |
 | Hundred Percent Fourth | 3.00% | ~15 |
 | Circus Maximus | 3.00% | ~15 |
 | Victorian Victor | 3.00% | ~15 |
+| King of District 5 | 3.00% | ~15 |
 | Perfect Chemistry | 3.00% | ~15 |
 | Last Man Standing | 3.00% | ~15 |
 | Accomplished Veteran | 2.00% | ~10 |
@@ -57,7 +57,7 @@ Number of Ratings: 22  (23.09.2022)
 | Guest Stars | 0.40% | ~2 |
 | Versatile Tactics | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 514 (Ranked 359)  
+Progressed: 515 (Ranked 359)  
 Completed: 1 (0.19%) (Ranked 289)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 1 (0.19%) (Ranked 289)
 | 2024-01-12 | 512 | 1 |
 | 2024-01-13 | 513 | 1 |
 | 2024-01-17 | 514 | 1 |
+| 2024-01-20 | 515 | 1 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

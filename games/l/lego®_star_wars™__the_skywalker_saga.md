@@ -1,26 +1,26 @@
 # LEGO® Star Wars™: The Skywalker Saga
 [Store](https://store.epicgames.com/en-US/p/lego-star-wars-the-skywalker-saga)  
 [View Rawdata](../../db/l/lego®_star_wars™__the_skywalker_saga.json)  
-Rating: 4.77 (Ranked 123)  
+Rating: 4.77 (Ranked 124)  
 Number of Ratings: 2,536  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,256 |
-| ''I don't like you either!'' | 77.00% | ~45,924 |
-| ''Impressive, most impressive'' | 69.00% | ~41,153 |
-| ''You think you're some kind of Jedi?'' | 69.00% | ~41,153 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,257 |
+| ''I don't like you either!'' | 77.00% | ~45,925 |
+| ''Impressive, most impressive'' | 69.00% | ~41,154 |
+| ''You think you're some kind of Jedi?'' | 69.00% | ~41,154 |
 | The Phantom Menace | 56.00% | ~33,400 |
 | ''Aggressive Negotiations'' | 56.00% | ~33,400 |
 | ''I can fly anything'' | 54.00% | ~32,207 |
-| ''And who gave you permission...?'' | 51.00% | ~30,417 |
+| ''And who gave you permission...?'' | 51.00% | ~30,418 |
 | A New Hope | 45.00% | ~26,839 |
-| Attack of the Clones | 44.00% | ~26,242 |
+| Attack of the Clones | 44.00% | ~26,243 |
 | Revenge of the Sith | 38.00% | ~22,664 |
 | The Empire Strikes Back | 35.00% | ~20,875 |
 | ''A fine addition to my collection'' | 35.00% | ~20,875 |
 | Return of the Jedi | 30.00% | ~17,893 |
-| The Force Awakens | 25.00% | ~14,910 |
+| The Force Awakens | 25.00% | ~14,911 |
 | The Last Jedi | 21.00% | ~12,525 |
 | The Rise of Skywalker | 19.00% | ~11,332 |
 | ''It's true... all of it'' | 18.00% | ~10,736 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~596 |
 | ''I've never seen a real one!'' | 0.90% | ~537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,642 (Ranked 120)  
+Progressed: 59,643 (Ranked 120)  
 Completed: 263 (0.44%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -326,7 +326,7 @@ Completed: 263 (0.44%) (Ranked 238)
 | 2024-01-17 | 59,553 | 262 |
 | 2024-01-18 | 59,589 | 262 |
 | 2024-01-19 | 59,618 | 263 |
-| 2024-01-20 | 59,642 | 263 |
+| 2024-01-20 | 59,643 | 263 |
 ## Awards
 Max (Great Boss Battles): 2,506  (Ranked 111)  
 Sum: 6,873 (Ranked 131)  

@@ -86,6 +86,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Economic Reform | 1.00% | ~170 |
 | Points Victory | 1.00% | ~170 |
 | Win a Single Player Game | 1.00% | ~170 |
+| Conqueror | 0.90% | ~153 |
 | Landowners | 0.90% | ~153 |
 | Traders | 0.90% | ~153 |
 | Circus Maximus | 0.90% | ~153 |
@@ -100,7 +101,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
 | Capable | 0.80% | ~136 |
-| Conqueror | 0.80% | ~136 |
 | Invincible | 0.80% | ~136 |
 | Ready | 0.80% | ~136 |
 | Subjugator | 0.80% | ~136 |
@@ -170,6 +170,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cleopatra's Love | 0.20% | ~34 |
 | Holy | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
+| Great Difficulty | 0.20% | ~34 |
 | Magnificent Difficulty | 0.20% | ~34 |
 | Event Level High | 0.20% | ~34 |
 | Five Routs | 0.20% | ~34 |
@@ -224,7 +225,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Restorer | 0.10% | ~17 |
 | White Death | 0.10% | ~17 |
 | Via Recta Souk in Damascus | 0.10% | ~17 |
-| Great Difficulty | 0.10% | ~17 |
 | Elephant in Elephantine | 0.10% | ~17 |
 | Et tu Brutus? | 0.10% | ~17 |
 | Battle of the Fertile Crescent | 0.10% | ~17 |
@@ -328,6 +328,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cothon in Carthago | 0.10% | ~17 |
 | Yazilikaya in Hattusa | 0.10% | ~17 |
 | Heliopolis | 0.10% | ~17 |
+| Royal Library in Nineveh | 0.10% | ~17 |
 | Colosseum in Roma | 0.10% | ~17 |
 | The Great Raging Horde | 0.00% | ~0 |
 | Liberator | 0.00% | ~0 |
@@ -362,10 +363,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Heliopolis in Heliopolis | 0.00% | ~0 |
 | Jerwan Aqueduct in Jerwan | 0.00% | ~0 |
 | Jebel Barkal in Napata | 0.00% | ~0 |
-| Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,020 (Ranked 170)  
+Progressed: 17,021 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,020 | 5 |
+| 2024-01-20 | 17,021 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,943 (Ranked 224)  

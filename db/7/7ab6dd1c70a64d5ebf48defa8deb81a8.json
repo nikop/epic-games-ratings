@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2401,
+  "EOS_Progressed": 2402,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4865,6 +4865,11 @@
       "Time": "2024-01-20T15:10:19.0628981+00:00",
       "NumProgressed": 2401,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T16:10:52.1954143+00:00",
+      "NumProgressed": 2402,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4884,7 +4889,7 @@
       "Name": "Find Allies",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_03",
@@ -4932,7 +4937,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "ACH_09",
@@ -4948,7 +4953,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "ACH_11",
@@ -4972,7 +4977,7 @@
       "Name": "Adventurer",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_14",
@@ -5012,7 +5017,7 @@
       "Name": "Shatter Them All",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_19",
@@ -5052,7 +5057,7 @@
       "Name": "Geared Up",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "ACH_24",
@@ -5132,7 +5137,7 @@
       "Name": "The Collector",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 696
+      "UsersEstimate": 697
     },
     {
       "ID": "ACH_35",
@@ -5163,7 +5168,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2401,
+      "Progressed": 2402,
       "Completed": 5
     }
   ],
@@ -5171,8 +5176,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-20T15:10:19.0628975+00:00",
+  "LastChanged_Achievements": "2024-01-20T16:10:52.1954137+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:58:21.5305971+00:00",
-  "LastUpdate_Achievements": "2024-01-20T15:10:19.0629432+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:59:03.1077058+00:00",
+  "LastUpdate_Achievements": "2024-01-20T16:10:52.1954531+00:00"
 }
