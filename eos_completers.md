@@ -4,7 +4,7 @@
 | 1 | [Probo Rush](games/p/probo_rush.md) | 100.00% |
 | 1 | [The InVincible Iron Ivy - Enter the Pretty Pretty Princess](games/6/6416a7e47acb440da6f7fc0eff798318.md) | 100.00% |
 | 1 | [The Repair House: Restoration Sim](games/7/76c6650b9d624427aab1c0f1ff3defb6.md) | 100.00% |
-| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 47.07% |
+| 5 | [Dark Fantasy Jigsaw Puzzle](games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 46.95% |
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.63% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
@@ -56,9 +56,9 @@
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.47% |
 | 56 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
-| 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.25% |
-| 58 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.23% |
-| 59 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.20% |
+| 57 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.24% |
+| 58 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.19% |
+| 58 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.19% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.12% |
 | 62 | [Scorn](games/s/scorn.md) | 6.87% |
@@ -146,15 +146,15 @@
 | 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 145 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.82% |
-| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.78% |
-| 147 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
+| 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.79% |
+| 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
 | 149 | [Sifu](games/s/sifu.md) | 1.71% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 151 | [Frogun](games/f/frogun.md) | 1.66% |
 | 152 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.52% |
 | 153 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 154 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
-| 155 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.44% |
+| 155 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.43% |
 | 156 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.39% |
 | 157 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 158 | [Chorus](games/c/chorus.md) | 1.33% |
@@ -260,13 +260,13 @@
 | 257 | [The Surge](games/t/the_surge.md) | 0.33% |
 | 259 | [Dead Island 2](games/d/dead_island_2.md) | 0.32% |
 | 260 | [Darksiders III](games/d/darksiders_iii.md) | 0.31% |
+| 260 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.31% |
 | 260 | [Salt and Sanctuary](games/s/salt_and_sanctuary.md) | 0.31% |
 | 260 | [The First Tree](games/t/the_first_tree.md) | 0.31% |
-| 263 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
-| 263 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
-| 263 | [Train Valley](games/t/train_valley.md) | 0.30% |
-| 266 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
-| 266 | [Mass Effect™ Legendary Edition](games/m/mass_effect™_legendary_edition.md) | 0.29% |
+| 264 | [Cyberpunk 2077](games/c/cyberpunk_2077.md) | 0.30% |
+| 264 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
+| 264 | [Train Valley](games/t/train_valley.md) | 0.30% |
+| 267 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
 | 268 | [Dead Space](games/d/dead_space.md) | 0.27% |
 | 268 | [Filament](games/f/filament.md) | 0.27% |
 | 268 | [GRIME](games/g/grime.md) | 0.27% |
