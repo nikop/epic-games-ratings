@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.85% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.84% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -47,7 +47,7 @@
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.28% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 47 | [Smelter](games/s/smelter.md) | 8.51% |
-| 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.49% |
+| 48 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.47% |
 | 49 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
 | 49 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.78% |
@@ -94,7 +94,7 @@
 | 92 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 93 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 94 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
-| 95 | [The Bunker](games/t/the_bunker.md) | 3.85% |
+| 95 | [The Bunker](games/t/the_bunker.md) | 3.83% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
 | 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.61% |
@@ -130,9 +130,9 @@
 | 128 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.45% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.39% |
-| 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.30% |
-| 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
-| 132 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
+| 131 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
+| 131 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.27% |
+| 131 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
 | 134 | [Night Book](games/n/night_book.md) | 2.19% |
 | 135 | [tERRORbane](games/t/terrorbane.md) | 2.17% |
 | 136 | [Bloodshore](games/b/bloodshore.md) | 2.05% |
@@ -146,8 +146,8 @@
 | 144 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 145 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 146 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.79% |
-| 146 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.79% |
-| 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
+| 147 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
+| 148 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.75% |
 | 149 | [Sifu](games/s/sifu.md) | 1.71% |
 | 150 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
 | 151 | [Frogun](games/f/frogun.md) | 1.66% |
@@ -267,10 +267,10 @@
 | 264 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.30% |
 | 264 | [Train Valley](games/t/train_valley.md) | 0.30% |
 | 267 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.29% |
-| 268 | [Dead Space](games/d/dead_space.md) | 0.27% |
-| 268 | [Filament](games/f/filament.md) | 0.27% |
-| 268 | [GRIME](games/g/grime.md) | 0.27% |
-| 268 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
+| 268 | [Dead Space](games/d/dead_space.md) | 0.28% |
+| 269 | [Filament](games/f/filament.md) | 0.27% |
+| 269 | [GRIME](games/g/grime.md) | 0.27% |
+| 269 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
 | 272 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 272 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 274 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
