@@ -4,8 +4,8 @@
   "ProductSlug": "hades-ii",
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2099-02-01T00:00:00+00:00",
     "PcReleaseDate": null,
@@ -29,6 +29,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.4711587+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:59:34.80987+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:04:00.4941898+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:59:30.6843408+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:04:06.0392111+00:00"
 }

@@ -32,7 +32,7 @@ Rating: 3.75 (Ranked 1,097)
 | Hipster | 15.00% | ~97 |
 | Not as clumsy or random | 13.00% | ~84 |
 | Blade Runner | 10.00% | ~65 |
-| Perfect hearing | 8.00% | ~52 |
+| Perfect hearing | 9.00% | ~58 |
 | Meticulous | 7.00% | ~45 |
 | Accurate | 5.00% | ~32 |
 | Lucky dog | 4.00% | ~26 |

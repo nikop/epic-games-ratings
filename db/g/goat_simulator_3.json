@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 98,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -6715,10 +6715,10 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 268056,
-  "EOS_Completed": 957,
-  "EOS_NewPlayers": 972,
-  "EOS_NewCompleters": 9,
+  "EOS_Progressed": 268057,
+  "EOS_Completed": 959,
+  "EOS_NewPlayers": 967,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
     {
@@ -36970,6 +36970,11 @@
       "Time": "2024-01-20T04:09:59.5225962+00:00",
       "NumProgressed": 268056,
       "NumCompleted": 957
+    },
+    {
+      "Time": "2024-01-20T05:09:59.9673221+00:00",
+      "NumProgressed": 268057,
+      "NumCompleted": 959
     }
   ],
   "TotalAchievements": 39,
@@ -37045,7 +37050,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 243931
+      "UsersEstimate": 243932
     },
     {
       "ID": "AchievementClownID",
@@ -37061,7 +37066,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 21444
+      "UsersEstimate": 21445
     },
     {
       "ID": "AchievementCrashGameID",
@@ -37093,7 +37098,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 88458
+      "UsersEstimate": 88459
     },
     {
       "ID": "AchievementGoatID",
@@ -37109,7 +37114,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139389
+      "UsersEstimate": 139390
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -37125,7 +37130,7 @@
       "Name": "Beauty, Mindfulness and Meditation",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 40208
+      "UsersEstimate": 40209
     },
     {
       "ID": "AchievementInstinctID",
@@ -37213,7 +37218,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 195681
+      "UsersEstimate": 195682
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -37221,7 +37226,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 21444
+      "UsersEstimate": 21445
     },
     {
       "ID": "AchievementStratosphereID",
@@ -37245,7 +37250,7 @@
       "Name": "401(K.O.)",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 40208
+      "UsersEstimate": 40209
     },
     {
       "ID": "AchievementThroneID",
@@ -37253,7 +37258,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 144750
+      "UsersEstimate": 144751
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -37261,7 +37266,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 125986
+      "UsersEstimate": 125987
     },
     {
       "ID": "AchievementTrinketID",
@@ -37292,16 +37297,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268056,
-      "Completed": 957
+      "Progressed": 268057,
+      "Completed": 959
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-19T17:01:00.6885698+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:09:59.522596+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:09:59.9673218+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.7490682+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:00:02.1945516+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:09:59.5227512+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:00:00.4106033+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:09:59.9674705+00:00"
 }

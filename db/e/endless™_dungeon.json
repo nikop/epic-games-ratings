@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 238,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1580,
+  "EOS_Progressed": 1581,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
@@ -3615,6 +3615,11 @@
       "Time": "2024-01-20T02:30:49.3736821+00:00",
       "NumProgressed": 1580,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T05:06:30.6501162+00:00",
+      "NumProgressed": 1581,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3683,7 +3688,7 @@
       "Name": "Pest Control",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3707,7 +3712,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1074
+      "UsersEstimate": 1075
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3771,7 +3776,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3866,14 +3871,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1580,
+      "Progressed": 1581,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:06:26.1499181+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:06:30.6501158+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.5515902+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:00:01.4588181+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:06:26.1499557+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:59:59.6599267+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:06:30.6501482+00:00"
 }

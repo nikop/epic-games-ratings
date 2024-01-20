@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2348,7 +2348,7 @@
   ],
   "EOS_Progressed": 17012,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 432,
+  "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -23365,9 +23365,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_JERWAN_AQUEDUCT",
       "SetID": "9201eeb",
       "Name": "Jerwan Aqueduct",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ROYAL_LIBRARY",
@@ -23443,8 +23443,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-19T22:57:03.6128315+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:10:10.4703732+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:10:10.2135589+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:57:14.2121533+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:10:10.4713481+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:57:15.0303741+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:10:10.2144938+00:00"
 }

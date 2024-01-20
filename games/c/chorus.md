@@ -50,7 +50,7 @@ Number of Ratings: 58  (23.09.2022)
 | Radiation Area | 10.00% | ~143 |
 | At Least You Tried | 2.00% | ~29 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,430 (Ranked 276)  
+Progressed: 1,430 (Ranked 277)  
 Completed: 19 (1.33%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,8 +278,8 @@ Completed: 19 (1.33%) (Ranked 158)
 | 2024-01-20 | 1,430 | 19 |
 ## Awards
 Max (Great Boss Battles): 35  (Ranked 508)  
-Sum: 35 (Ranked 540)  
-Diff (max vs sum): -32  
+Sum: 35 (Ranked 539)  
+Diff (max vs sum): -31  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 35 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 356,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -793,7 +793,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4670,
+  "EOS_Progressed": 4671,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 0,
@@ -13038,6 +13038,11 @@
       "Time": "2024-01-20T01:51:40.553926+00:00",
       "NumProgressed": 4670,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T05:04:07.9690962+00:00",
+      "NumProgressed": 4671,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13153,7 +13158,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "dragonmaster",
@@ -13233,7 +13238,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "fourleafclover",
@@ -13281,7 +13286,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1027
+      "UsersEstimate": 1028
     },
     {
       "ID": "herewegoagain",
@@ -13345,7 +13350,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "lockandload",
@@ -13385,7 +13390,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 700
+      "UsersEstimate": 701
     },
     {
       "ID": "missionsdedication",
@@ -13441,7 +13446,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "prestigiousx10",
@@ -13505,7 +13510,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2615
+      "UsersEstimate": 2616
     },
     {
       "ID": "thealchemist",
@@ -13609,7 +13614,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4343
+      "UsersEstimate": 4344
     },
     {
       "ID": "warmachinesarmy",
@@ -13648,7 +13653,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4670,
+      "Progressed": 4671,
       "Completed": 2
     }
   ],
@@ -13656,8 +13661,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-17T22:58:46.2405409+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:04:02.5483003+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:04:07.9690957+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:59:13.0612268+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:04:02.5483995+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:59:08.726073+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:04:07.9692222+00:00"
 }

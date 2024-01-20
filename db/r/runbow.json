@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253644,
+  "EOS_Progressed": 253645,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24542,6 +24542,11 @@
       "Time": "2024-01-20T04:09:54.4958473+00:00",
       "NumProgressed": 253644,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-20T05:09:55.0608574+00:00",
+      "NumProgressed": 253645,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24609,7 +24614,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43119
+      "UsersEstimate": 43120
     },
     {
       "ID": "cantBeKeptDown",
@@ -24729,7 +24734,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134431
+      "UsersEstimate": 134432
     },
     {
       "ID": "indegestible",
@@ -24753,7 +24758,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65947
+      "UsersEstimate": 65948
     },
     {
       "ID": "justABit",
@@ -24920,7 +24925,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253644,
+      "Progressed": 253645,
       "Completed": 6
     }
   ],
@@ -24928,8 +24933,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:09:54.4958471+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:09:55.0608571+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:59:35.8779683+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:09:54.4959574+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:59:31.8090741+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:09:55.0609788+00:00"
 }

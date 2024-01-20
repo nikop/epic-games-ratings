@@ -18678,10 +18678,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 506958,
       "NumberOfAwardsMax": 142615
+    },
+    {
+      "Time": "2024-01-20T05:03:13.4199626+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 507121,
+      "NumberOfAwardsMax": 142615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 506958,
+  "NumberOfAwards": 507121,
   "NumberOfAwardsMax": 142615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18749,7 +18755,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 29322
+      "Count": 29485
     },
     {
       "Text": "This game has a Creative Community",
@@ -18758,9 +18764,9 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055315,
+  "EOS_Progressed": 1055354,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6676,
+  "EOS_NewPlayers": 6643,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50233,6 +50239,11 @@
       "Time": "2024-01-20T04:08:52.1863252+00:00",
       "NumProgressed": 1055315,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-20T05:08:54.210495+00:00",
+      "NumProgressed": 1055354,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50371,9 +50382,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2111
+      "UsersEstimate": 3166
     },
     {
       "ID": "MustBeTheRats",
@@ -50419,9 +50430,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3166
+      "UsersEstimate": 4221
     },
     {
       "ID": "Specialist",
@@ -50780,21 +50791,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055315,
+      "Progressed": 1055354,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183938,
+      "Progressed": 183977,
       "Completed": 10662
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-20T03:02:55.7510112+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:08:52.1863247+00:00",
+  "LastChanged": "2024-01-20T05:03:13.4199625+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:08:54.2104945+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:03:08.7459254+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:08:52.1864801+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:03:13.4199631+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:08:54.2106459+00:00"
 }

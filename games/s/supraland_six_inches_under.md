@@ -42,7 +42,7 @@ Number of Ratings: 209  (23.09.2022)
 | Killed them all | 76.00% | ~1,869 |
 | Trickle Down Economy | 76.00% | ~1,869 |
 | Win | 76.00% | ~1,869 |
-| Greenhouse | 71.00% | ~1,746 |
+| Greenhouse | 72.00% | ~1,770 |
 | Played with fire | 70.00% | ~1,721 |
 | You feel very sorry | 70.00% | ~1,721 |
 | No Match for you | 65.00% | ~1,598 |
@@ -60,7 +60,7 @@ Number of Ratings: 209  (23.09.2022)
 | Too hot | 20.00% | ~492 |
 | All the chests | 13.00% | ~320 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,459 (Ranked 243)  
+Progressed: 2,459 (Ranked 244)  
 Completed: 296 (12.04%) (Ranked 38)  
 ## EOS Players History
 | Date | Progressed | Completed |

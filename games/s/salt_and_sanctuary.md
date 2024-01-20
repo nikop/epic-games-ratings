@@ -6,16 +6,16 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~452,203 |
-| The Three | 64.00% | ~348,687 |
-| The Banquet | 40.00% | ~217,929 |
-| Devara's Light | 31.00% | ~168,895 |
-| The Iron Ones | 19.00% | ~103,516 |
+| Find Sanctuary | 83.00% | ~452,205 |
+| The Three | 64.00% | ~348,688 |
+| The Banquet | 40.00% | ~217,930 |
+| Devara's Light | 31.00% | ~168,896 |
+| The Iron Ones | 19.00% | ~103,517 |
 | The Village | 17.00% | ~92,620 |
-| The Forest | 15.00% | ~81,723 |
-| Branded | 14.00% | ~76,275 |
-| The Imposter | 14.00% | ~76,275 |
-| The Keep | 14.00% | ~76,275 |
+| The Forest | 15.00% | ~81,724 |
+| Branded | 14.00% | ~76,276 |
+| The Imposter | 14.00% | ~76,276 |
+| The Keep | 14.00% | ~76,276 |
 | The Castle | 11.00% | ~59,931 |
 | The Dome | 9.00% | ~49,034 |
 | The Red Hall | 9.00% | ~49,034 |
@@ -24,10 +24,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ziggurat | 8.00% | ~43,586 |
 | The Mire | 7.00% | ~38,138 |
 | The Stone Roots | 7.00% | ~38,138 |
-| Storied | 6.00% | ~32,689 |
-| The Construct | 6.00% | ~32,689 |
-| The Lake | 6.00% | ~32,689 |
-| The Ruins | 6.00% | ~32,689 |
+| Storied | 6.00% | ~32,690 |
+| The Construct | 6.00% | ~32,690 |
+| The Lake | 6.00% | ~32,690 |
+| The Ruins | 6.00% | ~32,690 |
 | The Alkymancery | 5.00% | ~27,241 |
 | The Pitchwoods | 5.00% | ~27,241 |
 | Honed | 4.00% | ~21,793 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,896 |
 | Fading Fast | 1.00% | ~5,448 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 544,823 (Ranked 36)  
+Progressed: 544,825 (Ranked 36)  
 Completed: 1,692 (0.31%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 1,692 (0.31%) (Ranked 260)
 | 2024-01-17 | 544,647 | 1,688 |
 | 2024-01-18 | 544,715 | 1,689 |
 | 2024-01-19 | 544,797 | 1,692 |
-| 2024-01-20 | 544,823 | 1,692 |
+| 2024-01-20 | 544,825 | 1,692 |
 ## Awards
 Max (Challenging Combat): 299  (Ranked 266)  
 Sum: 2,044 (Ranked 220)  

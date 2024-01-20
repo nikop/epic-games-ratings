@@ -4,11 +4,11 @@
   "ProductSlug": "ghostrunner-2",
   "Ranking_Rating": 167,
   "Ranking_Popularity": 453,
-  "Ranking_PopularitySum": 511,
+  "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 289,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -461,7 +461,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15105,
+  "EOS_Progressed": 15107,
   "EOS_Completed": 28,
   "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 1,
@@ -10961,6 +10961,11 @@
       "Time": "2024-01-20T04:09:58.048504+00:00",
       "NumProgressed": 15105,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-20T05:09:58.5339003+00:00",
+      "NumProgressed": 15107,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -10981,7 +10986,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6193
+      "UsersEstimate": 6194
     },
     {
       "ID": "BeLikeWater",
@@ -10997,7 +11002,7 @@
       "Name": "Bikemaggedon",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1208
+      "UsersEstimate": 1209
     },
     {
       "ID": "ChewingTheScenery",
@@ -11013,7 +11018,7 @@
       "Name": "Connection Lost",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "Eavesdropper",
@@ -11045,7 +11050,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8308
+      "UsersEstimate": 8309
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11117,7 +11122,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4380
+      "UsersEstimate": 4381
     },
     {
       "ID": "NoMoreTotems",
@@ -11165,7 +11170,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3927
+      "UsersEstimate": 3928
     },
     {
       "ID": "TheQuarterback",
@@ -11173,7 +11178,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6495
+      "UsersEstimate": 6496
     },
     {
       "ID": "ThisIsDharma",
@@ -11189,7 +11194,7 @@
       "Name": "Time For Your Ninja Rope To Shine",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3324
     },
     {
       "ID": "UnResurrected",
@@ -11205,7 +11210,7 @@
       "Name": "We\u0027re Not In Kansas Anymore",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 3323
+      "UsersEstimate": 3324
     },
     {
       "ID": "WhatsWithAllTheReferences",
@@ -11229,7 +11234,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     },
     {
       "ID": "k01101110",
@@ -11237,14 +11242,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1510
+      "UsersEstimate": 1511
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15105,
+      "Progressed": 15107,
       "Completed": 28
     }
   ],
@@ -11252,8 +11257,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-18T17:57:24.8025675+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:09:58.0485038+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:09:58.5339002+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:57:54.957043+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:09:58.0485556+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:57:53.5237243+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:09:58.5339545+00:00"
 }

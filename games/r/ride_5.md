@@ -5,27 +5,27 @@ Rating: 4.59 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,825 |
+| Eat My Dust | 50.00% | ~1,826 |
 | First Love | 46.00% | ~1,679 |
-| Clean Race | 45.00% | ~1,642 |
+| Clean Race | 45.00% | ~1,643 |
 | Hear That Roar! | 43.00% | ~1,570 |
 | Bitter Rivalry | 31.00% | ~1,132 |
 | Rivals to the End | 31.00% | ~1,132 |
 | Champagne Spray | 30.00% | ~1,095 |
 | We're Going to Need a Bigger Garage | 28.00% | ~1,022 |
 | Quick Pit Stop | 23.00% | ~840 |
-| Restored and Ready | 21.00% | ~766 |
-| I Want One Too! | 21.00% | ~766 |
+| Restored and Ready | 21.00% | ~767 |
+| I Want One Too! | 21.00% | ~767 |
 | Legendary!!! | 20.00% | ~730 |
 | Go-Faster Stripes | 18.00% | ~657 |
 | I'm Here Too! | 15.00% | ~548 |
 | We've Just Begun | 15.00% | ~548 |
 | Is It the Right Size? | 10.00% | ~365 |
-| Stamina Star | 9.00% | ~328 |
+| Stamina Star | 9.00% | ~329 |
 | Evangelist | 7.00% | ~256 |
-| Make It Your Own! | 5.00% | ~182 |
-| Cherry Blossom and Temples | 5.00% | ~182 |
-| The Road to Liberty | 5.00% | ~182 |
+| Make It Your Own! | 5.00% | ~183 |
+| Cherry Blossom and Temples | 5.00% | ~183 |
+| The Road to Liberty | 5.00% | ~183 |
 | Romantic Races | 4.00% | ~146 |
 | I Make the Rules! | 4.00% | ~146 |
 | My Work Here Is Done | 4.00% | ~146 |
@@ -37,8 +37,8 @@ Rating: 4.59 (Ranked 453)
 | I'll Be the Best! | 2.00% | ~73 |
 | Back in Blighty | 2.00% | ~73 |
 | Still Here | 2.00% | ~73 |
-| Next Level | 1.00% | ~36 |
-| I Don't Stop | 1.00% | ~36 |
+| Next Level | 1.00% | ~37 |
+| I Don't Stop | 1.00% | ~37 |
 | Exhausted but Happy | 0.70% | ~26 |
 | In Search of Perfection | 0.70% | ~26 |
 | Globe-trotter | 0.40% | ~15 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 453)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,650 (Ranked 227)  
+Progressed: 3,651 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 3,636 | 0 |
 | 2024-01-18 | 3,645 | 0 |
 | 2024-01-19 | 3,649 | 0 |
-| 2024-01-20 | 3,650 | 0 |
+| 2024-01-20 | 3,651 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

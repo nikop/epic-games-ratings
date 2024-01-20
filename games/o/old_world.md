@@ -109,6 +109,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
+| Jerwan Aqueduct | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
@@ -122,7 +123,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.70% | ~119 |
 | Ambition Victory | 0.70% | ~119 |
 | Kushite Pyramids | 0.70% | ~119 |
-| Jerwan Aqueduct | 0.70% | ~119 |
 | Royal Library | 0.70% | ~119 |
 | Yazilikaya | 0.70% | ~119 |
 | Devout | 0.60% | ~102 |

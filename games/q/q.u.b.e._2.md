@@ -6,28 +6,28 @@ Number of Ratings: 94  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lost in Space | 75.00% | ~35,906 |
-| Quick Understanding of Block Extrusion | 68.00% | ~32,554 |
-| Nature or Nurture | 52.00% | ~24,894 |
-| Power Glove | 50.00% | ~23,937 |
-| Forgotten Memories | 43.00% | ~20,586 |
-| Cogs in the Machine | 37.00% | ~17,713 |
+| Lost in Space | 75.00% | ~35,907 |
+| Quick Understanding of Block Extrusion | 68.00% | ~32,556 |
+| Nature or Nurture | 52.00% | ~24,896 |
+| Power Glove | 50.00% | ~23,938 |
+| Forgotten Memories | 43.00% | ~20,587 |
+| Cogs in the Machine | 37.00% | ~17,714 |
 | Mission Success | 23.00% | ~11,011 |
 | There's No Place Like Home | 23.00% | ~11,011 |
 | Green Cube Killer | 20.00% | ~9,575 |
-| Path to Salvation | 18.00% | ~8,617 |
+| Path to Salvation | 18.00% | ~8,618 |
 | Infinity Loop | 17.00% | ~8,139 |
 | Descendants | 15.00% | ~7,181 |
 | The Flawed Teacher | 13.00% | ~6,224 |
-| To Infinity and Beyond | 6.00% | ~2,872 |
+| To Infinity and Beyond | 6.00% | ~2,873 |
 | The Truthful Enemy | 5.00% | ~2,394 |
 | Laser Sharp | 3.00% | ~1,436 |
-| True collector | 2.00% | ~957 |
-| Bronze collector | 2.00% | ~957 |
-| Home Stretch | 2.00% | ~957 |
-| Gold collector | 2.00% | ~957 |
-| Silver collector | 2.00% | ~957 |
-| Get me out of here | 2.00% | ~957 |
+| True collector | 2.00% | ~958 |
+| Bronze collector | 2.00% | ~958 |
+| Home Stretch | 2.00% | ~958 |
+| Gold collector | 2.00% | ~958 |
+| Silver collector | 2.00% | ~958 |
+| Get me out of here | 2.00% | ~958 |
 | King of the Collectables | 1.00% | ~479 |
 | Competent Collector | 1.00% | ~479 |
 | Puzzle Master | 1.00% | ~479 |
@@ -36,7 +36,7 @@ Number of Ratings: 94  (23.09.2022)
 | QUBE Master | 1.00% | ~479 |
 | Expert Collector | 1.00% | ~479 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,874 (Ranked 126)  
+Progressed: 47,876 (Ranked 126)  
 Completed: 244 (0.51%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 244 (0.51%) (Ranked 225)
 | 2024-01-17 | 47,695 | 241 |
 | 2024-01-18 | 47,771 | 243 |
 | 2024-01-19 | 47,857 | 243 |
-| 2024-01-20 | 47,874 | 244 |
+| 2024-01-20 | 47,876 | 244 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

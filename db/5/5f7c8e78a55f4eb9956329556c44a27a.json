@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 294,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -1283,9 +1283,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 234
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1395,9 +1395,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 86,
+      "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 254
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1498,8 +1498,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:05:47.8603698+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:05:52.9980701+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:48.2261697+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:02:48.7177824+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:05:47.8604142+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:02:53.8363474+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:05:52.9980951+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3650,
+  "EOS_Progressed": 3651,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9095,6 +9095,11 @@
       "Time": "2024-01-20T04:05:08.1513454+00:00",
       "NumProgressed": 3650,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T05:05:13.1154112+00:00",
+      "NumProgressed": 3651,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9131,7 +9136,7 @@
       "Name": "Stamina Star",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ML_ACHIEVEMENT_05",
@@ -9139,7 +9144,7 @@
       "Name": "Restored and Ready",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9147,7 +9152,7 @@
       "Name": "Make It Your Own!",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ML_ACHIEVEMENT_07",
@@ -9163,7 +9168,7 @@
       "Name": "I Want One Too!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 766
+      "UsersEstimate": 767
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9235,7 +9240,7 @@
       "Name": "Cherry Blossom and Temples",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ML_ACHIEVEMENT_18",
@@ -9259,7 +9264,7 @@
       "Name": "The Road to Liberty",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "ML_ACHIEVEMENT_21",
@@ -9315,7 +9320,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1642
+      "UsersEstimate": 1643
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9371,7 +9376,7 @@
       "Name": "Next Level",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_35",
@@ -9403,7 +9408,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1825
+      "UsersEstimate": 1826
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9443,7 +9448,7 @@
       "Name": "I Don\u0027t Stop",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "ML_ACHIEVEMENT_44",
@@ -9498,7 +9503,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3650,
+      "Progressed": 3651,
       "Completed": 0
     }
   ],
@@ -9506,8 +9511,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:05:08.1513447+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:05:13.115411+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.360421+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:59:23.9094855+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:05:08.1514168+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:59:19.5094885+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:05:13.1154796+00:00"
 }

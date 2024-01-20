@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,193 |
-| Beast Intentions | 2.00% | ~5,096 |
-| The Cursed Farmer | 2.00% | ~5,096 |
-| The Mad Wizard | 2.00% | ~5,096 |
+| Beast Intentions | 2.00% | ~5,097 |
+| The Cursed Farmer | 2.00% | ~5,097 |
+| The Mad Wizard | 2.00% | ~5,097 |
 | The Ring of Regeneration | 1.00% | ~2,548 |
 | Are Ya Chicken? | 1.00% | ~2,548 |
 | Were-verpowered | 0.90% | ~2,293 |
@@ -28,11 +28,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.50% | ~1,274 |
 | Exploring Port Nyanzaru | 0.50% | ~1,274 |
 | The Contagious Curse | 0.50% | ~1,274 |
-| The Overgrown Grove | 0.50% | ~1,105 |
-| When Tentacles Attack | 0.50% | ~1,105 |
-| Flames of Avernus | 0.50% | ~1,105 |
-| Mental Gymnastics | 0.50% | ~1,105 |
-| Don't Lose Your Head | 0.50% | ~1,105 |
+| The Overgrown Grove | 0.50% | ~1,106 |
+| When Tentacles Attack | 0.50% | ~1,106 |
+| Flames of Avernus | 0.50% | ~1,106 |
+| Mental Gymnastics | 0.50% | ~1,106 |
+| Don't Lose Your Head | 0.50% | ~1,106 |
 | Low Initiative | 0.40% | ~1,019 |
 | Building Trust | 0.40% | ~1,019 |
 | Useless Allies | 0.40% | ~1,019 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,816 (Ranked 71)  
+Progressed: 254,826 (Ranked 71)  
 Completed: 2,626 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,15 +828,15 @@ Completed: 2,626 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,816 | 2,626 |
+| 2024-01-20 | 254,826 | 2,626 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
-Sum: 33,572 (Ranked 41)  
+Sum: 33,576 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,801 |
-| This game has Diverse Characters | 5,731 |
+| This game has Diverse Characters | 5,735 |
 | This game has Quickly Understood Controls | 4,918 |
 | This game is Relaxing | 4,793 |
 | This game is Highly Recommended | 4,339 |
@@ -1204,3 +1204,4 @@ Diff (max vs sum): 33
 | 2024-01-17 | 4.07 | - | 5,786 | 33,533 |
 | 2024-01-18 | 4.07 | - | 5,792 | 33,543 |
 | 2024-01-19 | 4.07 | - | 5,801 | 33,572 |
+| 2024-01-20 | 4.07 | - | 5,801 | 33,576 |

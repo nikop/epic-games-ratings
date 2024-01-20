@@ -12,7 +12,7 @@ Rating: 4.69 (Ranked 242)
 | Body and Soul | 0.70% | ~63 |
 | Soul-Canon | 0.70% | ~63 |
 | Ahem Ahem | 0.60% | ~54 |
-| Audiophile | 0.50% | ~45 |
+| Audiophile | 0.60% | ~54 |
 | Clay Pigeon | 0.40% | ~36 |
 | Shredder | 0.40% | ~36 |
 | Historian | 0.30% | ~27 |
@@ -27,7 +27,7 @@ Rating: 4.69 (Ranked 242)
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,950 (Ranked 191)  
+Progressed: 8,951 (Ranked 191)  
 Completed: 36 (0.40%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,7 +300,7 @@ Completed: 36 (0.40%) (Ranked 245)
 | 2024-01-17 | 8,932 | 36 |
 | 2024-01-18 | 8,942 | 36 |
 | 2024-01-19 | 8,946 | 36 |
-| 2024-01-20 | 8,950 | 36 |
+| 2024-01-20 | 8,951 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

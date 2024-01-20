@@ -8,7 +8,7 @@ Number of Ratings: 116  (23.09.2022)
 | ---- | ---------- | ----- |
 | Green with Envy | 76.00% | ~495 |
 | First of many… | 68.00% | ~443 |
-| Helping Hand | 64.00% | ~417 |
+| Helping Hand | 65.00% | ~423 |
 | Increased Vigor | 61.00% | ~397 |
 | Fight Fire with Fire | 59.00% | ~384 |
 | Increased Capacity | 56.00% | ~365 |
@@ -38,8 +38,8 @@ Number of Ratings: 116  (23.09.2022)
 | Cleanup Crew | 26.00% | ~169 |
 | Seeing Red | 25.00% | ~163 |
 | Demon Meddler | 24.00% | ~156 |
+| Egomaniac | 24.00% | ~156 |
 | Maximum Capacity | 23.00% | ~150 |
-| Egomaniac | 23.00% | ~150 |
 | Protector of Humanity | 22.00% | ~143 |
 | Everybody Wants to Rule the World | 22.00% | ~143 |
 | Community Outreach | 17.00% | ~111 |

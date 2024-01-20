@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 35,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 93753,
+  "EOS_Progressed": 93754,
   "EOS_Completed": 347,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18532,6 +18532,11 @@
       "Time": "2024-01-20T04:03:55.2002407+00:00",
       "NumProgressed": 93753,
       "NumCompleted": 347
+    },
+    {
+      "Time": "2024-01-20T05:04:00.2382783+00:00",
+      "NumProgressed": 93754,
+      "NumCompleted": 347
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -18544,7 +18549,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 75002
+      "UsersEstimate": 75003
     },
     {
       "ID": "grp_beet",
@@ -18560,7 +18565,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 72190
+      "UsersEstimate": 72191
     },
     {
       "ID": "grp_endless",
@@ -18590,9 +18595,9 @@
       "ID": "grp_level10",
       "SetID": "2gd32f",
       "Name": "Level 10!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 4688
+      "UsersEstimate": 5625
     },
     {
       "ID": "grp_level20",
@@ -18640,7 +18645,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 69377
+      "UsersEstimate": 69378
     },
     {
       "ID": "grp_speed",
@@ -18648,7 +18653,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 45001
+      "UsersEstimate": 45002
     },
     {
       "ID": "grp_stone",
@@ -18679,7 +18684,7 @@
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 93753,
+      "Progressed": 93754,
       "Completed": 347
     }
   ],
@@ -18687,8 +18692,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-19T08:00:20.8069262+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:03:55.2002403+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:04:00.238277+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:11.6108268+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:59:40.2741654+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:03:55.2003281+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:59:36.89113+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:04:00.2383701+00:00"
 }

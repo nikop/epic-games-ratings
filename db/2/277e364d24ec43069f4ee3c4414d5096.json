@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 96,
   "Ranking_EOS_Completed": 344,
   "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
     "PcReleaseDate": "2018-08-21T21:00:00+00:00",
@@ -377,9 +377,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120454,
+  "EOS_Progressed": 120456,
   "EOS_Completed": 61,
-  "EOS_NewPlayers": 602,
+  "EOS_NewPlayers": 603,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -25477,6 +25477,11 @@
       "Time": "2024-01-20T04:10:01.2358859+00:00",
       "NumProgressed": 120454,
       "NumCompleted": 61
+    },
+    {
+      "Time": "2024-01-20T05:10:01.5013723+00:00",
+      "NumProgressed": 120456,
+      "NumCompleted": 61
     }
   ],
   "TotalAchievements": 49,
@@ -25496,7 +25501,7 @@
       "Name": "I Remember That Being Harder",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 92750
+      "UsersEstimate": 92751
     },
     {
       "ID": "EAwards_10",
@@ -25504,7 +25509,7 @@
       "Name": "Juan Punch Man",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14454
+      "UsersEstimate": 14455
     },
     {
       "ID": "EAwards_11",
@@ -25560,7 +25565,7 @@
       "Name": "Talented Player",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 44568
+      "UsersEstimate": 44569
     },
     {
       "ID": "EAwards_18",
@@ -25568,7 +25573,7 @@
       "Name": "You Survived",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12045
+      "UsersEstimate": 12046
     },
     {
       "ID": "EAwards_19",
@@ -25584,7 +25589,7 @@
       "Name": "Re-resurrecci\u00F3n",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 59022
+      "UsersEstimate": 59023
     },
     {
       "ID": "EAwards_20",
@@ -25640,7 +25645,7 @@
       "Name": "I have nothing left to teach you",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 14454
+      "UsersEstimate": 14455
     },
     {
       "ID": "EAwards_27",
@@ -25648,7 +25653,7 @@
       "Name": "One down...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 12045
+      "UsersEstimate": 12046
     },
     {
       "ID": "EAwards_28",
@@ -25840,7 +25845,7 @@
       "Name": "Prickly Pair",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 12045
+      "UsersEstimate": 12046
     },
     {
       "ID": "EAwards_6",
@@ -25856,7 +25861,7 @@
       "Name": "Questionable Plumbing",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14454
+      "UsersEstimate": 14455
     },
     {
       "ID": "EAwards_8",
@@ -25864,7 +25869,7 @@
       "Name": "Santa Golpiza!",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 14454
+      "UsersEstimate": 14455
     },
     {
       "ID": "EAwards_9",
@@ -25879,7 +25884,7 @@
     {
       "ID": "69kac5j",
       "IsBase": true,
-      "Progressed": 120454,
+      "Progressed": 120456,
       "Completed": 61
     }
   ],
@@ -25887,8 +25892,8 @@
   "FirstSeenRating": "2023-06-18T22:56:59.3875763+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.8622791+00:00",
   "LastChanged": "2024-01-07T23:57:01.9676007+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:10:01.2358853+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:10:01.5013718+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:12.1684277+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:00:01.101786+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:10:01.2360021+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:59:59.3748008+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:10:01.5015244+00:00"
 }

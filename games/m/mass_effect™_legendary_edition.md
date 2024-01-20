@@ -80,11 +80,11 @@
 | World Shaker | 19.00% | ~855 |
 | First Aid Specialist | 18.00% | ~810 |
 | Liberator | 18.00% | ~810 |
+| Weapon Specialist | 17.00% | ~765 |
 | Pathfinder | 17.00% | ~765 |
 | Tunnel Rat | 17.00% | ~765 |
 | Arbiter | 17.00% | ~765 |
 | Savior | 16.00% | ~720 |
-| Weapon Specialist | 16.00% | ~720 |
 | Lost and Found | 16.00% | ~720 |
 | Paramour II | 15.00% | ~675 |
 | Party Crasher | 15.00% | ~675 |

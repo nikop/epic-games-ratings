@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2760,9 +2760,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44533,
+  "EOS_Progressed": 44534,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11520,6 +11520,11 @@
       "Time": "2024-01-20T04:03:53.0881937+00:00",
       "NumProgressed": 44533,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-20T05:03:58.3338032+00:00",
+      "NumProgressed": 44534,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11531,7 +11536,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27610
+      "UsersEstimate": 27611
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11587,7 +11592,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12469
+      "UsersEstimate": 12470
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -11739,7 +11744,7 @@
       "Name": "All roads lead to Rome",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 15141
+      "UsersEstimate": 15142
     },
     {
       "ID": "SE_COMPLETE_SARDINIA",
@@ -11779,7 +11784,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21821
+      "UsersEstimate": 21822
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11795,7 +11800,7 @@
       "Name": "Kill of the week",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "SE_ELECTROCUTE_X_ZOMBIES_WITH_ONE_SPECIAL_MELEE",
@@ -11819,7 +11824,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16477
+      "UsersEstimate": 16478
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11851,7 +11856,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16477
+      "UsersEstimate": 16478
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11859,7 +11864,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31173
+      "UsersEstimate": 31174
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11875,7 +11880,7 @@
       "Name": "I never liked them anyway",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 13805
+      "UsersEstimate": 13806
     },
     {
       "ID": "SE_KILL_SNIPER_MID_AIR",
@@ -11931,7 +11936,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29837
+      "UsersEstimate": 29838
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -11971,7 +11976,7 @@
       "Name": "You\u0027ve got red on you",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 15141
+      "UsersEstimate": 15142
     },
     {
       "ID": "SE_REACH_RANK_100",
@@ -12058,15 +12063,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44533,
+      "Progressed": 44534,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-20T00:02:26.1067887+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:03:53.0881933+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:03:58.3338029+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:16.2416499+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:02:39.8583814+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:03:53.0882868+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:00:36.2669495+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:03:58.3338916+00:00"
 }

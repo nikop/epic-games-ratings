@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7569,
+  "EOS_Progressed": 7570,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9887,6 +9887,11 @@
       "Time": "2024-01-20T04:10:02.4857896+00:00",
       "NumProgressed": 7569,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T05:10:02.7389824+00:00",
+      "NumProgressed": 7570,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9938,7 +9943,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4541
+      "UsersEstimate": 4542
     },
     {
       "ID": "Control_All_Relics",
@@ -9962,7 +9967,7 @@
       "Name": "Xenocide",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "Destroy_Iconians_As_Yor",
@@ -9978,7 +9983,7 @@
       "Name": "Design a Civilization",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "First_Major_Ally",
@@ -10002,7 +10007,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5828
+      "UsersEstimate": 5829
     },
     {
       "ID": "First_Race_Met",
@@ -10034,7 +10039,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5752
+      "UsersEstimate": 5753
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10218,7 +10223,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4541
+      "UsersEstimate": 4542
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10473,15 +10478,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7569,
+      "Progressed": 7570,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:10:02.4857893+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:10:02.7389819+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:57:45.8672513+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:10:02.4858723+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:57:45.204938+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:10:02.7390737+00:00"
 }

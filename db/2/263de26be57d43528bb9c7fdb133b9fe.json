@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 574,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -224,9 +224,9 @@
       "ID": "DARKWEB_FIRST",
       "SetID": "89ki2f0",
       "Name": "Illegal goods",
-      "Percentage": 68,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "HATS_ALL",
@@ -256,9 +256,9 @@
       "ID": "MONEY_1K",
       "SetID": "89ki2f0",
       "Name": "Buy yourself something nice",
-      "Percentage": 66,
+      "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "MONEY_1M",
@@ -288,9 +288,9 @@
       "ID": "RESEARCH_FIRST",
       "SetID": "89ki2f0",
       "Name": "For science!",
-      "Percentage": 62,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "TASKS_ALL",
@@ -312,17 +312,17 @@
       "ID": "UPGRADES_FIRST",
       "SetID": "89ki2f0",
       "Name": "Better, faster, stronger",
-      "Percentage": 64,
+      "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "WEAPONRACK_FIRST",
       "SetID": "89ki2f0",
       "Name": "Woah! Guns!",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     }
   ],
   "AchievementSets": [
@@ -335,8 +335,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-20T04:04:36.1214009+00:00",
+  "LastChanged_Achievements": "2024-01-20T05:04:41.4392805+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:58:45.5118106+00:00",
-  "LastUpdate_Achievements": "2024-01-20T04:04:36.1214118+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:58:42.3221578+00:00",
+  "LastUpdate_Achievements": "2024-01-20T05:04:41.4393+00:00"
 }
