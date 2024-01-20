@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,232 |
-| Lost and Found | 9.00% | ~739 |
+| Malpractice Assurance | 15.00% | ~1,233 |
+| Lost and Found | 9.00% | ~740 |
 | Autodidact | 8.00% | ~10,668 |
 | This Belongs in a Museum | 7.00% | ~9,334 |
 | Creep and Sleep | 7.00% | ~9,334 |
@@ -22,15 +22,15 @@ Number of Ratings: 7,767  (23.09.2022)
 | To Grandmother's House | 6.00% | ~8,001 |
 | Ploughshares to Swords | 6.00% | ~493 |
 | Bloody Graduation | 6.00% | ~493 |
-| It Rings a Bell | 5.00% | ~6,667 |
-| Not Today! | 5.00% | ~6,667 |
-| It Happens | 5.00% | ~6,667 |
-| Merry Time | 5.00% | ~6,667 |
-| Harvest Festival | 5.00% | ~6,667 |
-| Whale | 5.00% | ~6,667 |
-| A Place to Lay Your Head | 5.00% | ~6,667 |
-| FNG | 5.00% | ~6,667 |
-| Nope | 5.00% | ~6,667 |
+| It Rings a Bell | 5.00% | ~6,668 |
+| Not Today! | 5.00% | ~6,668 |
+| It Happens | 5.00% | ~6,668 |
+| Merry Time | 5.00% | ~6,668 |
+| Harvest Festival | 5.00% | ~6,668 |
+| Whale | 5.00% | ~6,668 |
+| A Place to Lay Your Head | 5.00% | ~6,668 |
+| FNG | 5.00% | ~6,668 |
+| Nope | 5.00% | ~6,668 |
 | Friends 'Til the End | 5.00% | ~411 |
 | Resurrection | 4.00% | ~5,334 |
 | Unleash Hell | 4.00% | ~5,334 |
@@ -61,10 +61,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 2.00% | ~2,667 |
 | Handled | 2.00% | ~2,667 |
 | Body of Work | 2.00% | ~2,667 |
-| Clearing the Ledger | 1.00% | ~1,333 |
-| Hat Trick | 1.00% | ~1,333 |
-| Shrine of Reflection | 1.00% | ~1,333 |
-| Triage | 1.00% | ~1,333 |
+| Clearing the Ledger | 1.00% | ~1,334 |
+| Hat Trick | 1.00% | ~1,334 |
+| Shrine of Reflection | 1.00% | ~1,334 |
+| Triage | 1.00% | ~1,334 |
 | No Mercy | 1.00% | ~82 |
 | Slap on the Wrist | 1.00% | ~82 |
 | Et Tu, Riposte? | 1.00% | ~82 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,347 (Ranked 92)  
+Progressed: 133,350 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 5 (0.00%) (Ranked 408)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,347 | 5 |
+| 2024-01-20 | 133,350 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
 Sum: 21,780 (Ranked 58)  

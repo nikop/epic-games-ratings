@@ -4,7 +4,7 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1480,9 +1480,9 @@
       "ID": "SG_SAYINGGOODBYE",
       "SetID": "bj5g0n4",
       "Name": "Saying Goodbye",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_SHARETHISDANCE",
@@ -1607,8 +1607,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:09:12.0120204+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:09:33.0975436+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.9220606+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:58:18.2872897+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:09:12.012062+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:58:32.9151807+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:09:33.0975936+00:00"
 }

@@ -11,11 +11,11 @@ Rating: 4.66 (Ranked 306)
 | Immaculate Aim | 30.00% | ~404 |
 | The Brass Boss | 29.00% | ~391 |
 | Time Flies | 28.00% | ~377 |
+| Make Up For Lost Time | 27.00% | ~364 |
 | No, Thanks! | 27.00% | ~364 |
 | The Prince in Heels | 27.00% | ~364 |
 | Honest Mistake | 27.00% | ~364 |
 | Immaculate Aim | 27.00% | ~364 |
-| Make Up For Lost Time | 26.00% | ~350 |
 | The Harder They Fall | 26.00% | ~350 |
 | Fast Learner | 26.00% | ~350 |
 | The Steel Shadow | 25.00% | ~337 |
@@ -25,8 +25,8 @@ Rating: 4.66 (Ranked 306)
 | Like Clockwork | 23.00% | ~310 |
 | Golem Chaser | 23.00% | ~310 |
 | The Betrayer | 22.00% | ~296 |
+| The Loose Cannon | 21.00% | ~283 |
 | Check Your Pulse | 21.00% | ~283 |
-| The Loose Cannon | 20.00% | ~269 |
 | Street Style | 19.00% | ~256 |
 | The Man Who Shattered Time | 19.00% | ~256 |
 | The Family Fortune | 19.00% | ~256 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
@@ -715,9 +715,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474221,
+  "EOS_Progressed": 474223,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 419,
+  "EOS_NewPlayers": 418,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29180,6 +29180,11 @@
       "Time": "2024-01-20T22:10:08.5319151+00:00",
       "NumProgressed": 474221,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-20T23:10:35.5926494+00:00",
+      "NumProgressed": 474223,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29207,7 +29212,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113813
+      "UsersEstimate": 113814
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -29279,7 +29284,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312986
+      "UsersEstimate": 312987
     },
     {
       "ID": "achievement_story_landa",
@@ -29311,7 +29316,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118555
+      "UsersEstimate": 118556
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -29327,7 +29332,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33195
+      "UsersEstimate": 33196
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -29335,7 +29340,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33195
+      "UsersEstimate": 33196
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -29343,7 +29348,7 @@
       "Name": "Tetsuo",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 52164
+      "UsersEstimate": 52165
     },
     {
       "ID": "achievement_story_meet_vivar",
@@ -29367,7 +29372,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94844
+      "UsersEstimate": 94845
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -29375,7 +29380,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161235
+      "UsersEstimate": 161236
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -29431,7 +29436,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33195
+      "UsersEstimate": 33196
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -29455,7 +29460,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33195
+      "UsersEstimate": 33196
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -29615,7 +29620,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208657
+      "UsersEstimate": 208658
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -29623,7 +29628,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 142266
+      "UsersEstimate": 142267
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -29647,7 +29652,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184946
+      "UsersEstimate": 184947
     },
     {
       "ID": "achievement_win_run_hard",
@@ -29822,21 +29827,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18155,
+      "Progressed": 18157,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474221,
+      "Progressed": 474223,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-19T06:58:34.3477894+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:10:08.5319147+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:10:35.5926491+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:58:53.5528084+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:10:08.5321581+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:59:14.7430785+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:10:35.5928648+00:00"
 }

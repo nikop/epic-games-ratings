@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11112,9 +11112,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133347,
+  "EOS_Progressed": 133350,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 636,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40812,6 +40812,11 @@
       "Time": "2024-01-20T22:10:00.9961763+00:00",
       "NumProgressed": 133347,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T23:10:27.3403764+00:00",
+      "NumProgressed": 133350,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40839,7 +40844,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -40975,7 +40980,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41031,7 +41036,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "combat_kill_leviathan",
@@ -41095,7 +41100,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41103,7 +41108,7 @@
       "Name": "Hat Trick",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -41127,7 +41132,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41135,7 +41140,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41183,7 +41188,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "hero_story_complete_any",
@@ -41199,7 +41204,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "hospital_full_service",
@@ -41207,7 +41212,7 @@
       "Name": "Triage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "inn_first_time",
@@ -41215,7 +41220,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41231,7 +41236,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "inn_visit_all_variants",
@@ -41271,7 +41276,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6667
+      "UsersEstimate": 6668
     },
     {
       "ID": "run_victory_act01",
@@ -41359,7 +41364,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     },
     {
       "ID": "combat_kill_collector",
@@ -41423,7 +41428,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41454,21 +41459,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133347,
+      "Progressed": 133350,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8216,
+      "Progressed": 8219,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-20T18:58:42.4359534+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:10:00.9961761+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:10:27.3403762+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:58:02.9476473+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:10:00.9964464+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:58:15.1551091+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:10:27.3405511+00:00"
 }

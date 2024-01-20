@@ -18806,9 +18806,9 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055993,
+  "EOS_Progressed": 1056015,
   "EOS_Completed": 3136,
-  "EOS_NewPlayers": 6012,
+  "EOS_NewPlayers": 5986,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50371,6 +50371,11 @@
       "Time": "2024-01-20T22:08:57.0070915+00:00",
       "NumProgressed": 1055993,
       "NumCompleted": 3136
+    },
+    {
+      "Time": "2024-01-20T23:09:16.4814153+00:00",
+      "NumProgressed": 1056015,
+      "NumCompleted": 3136
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50397,9 +50402,9 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3168
+      "UsersEstimate": 4224
     },
     {
       "ID": "Cyberjunkie",
@@ -50613,9 +50618,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4224
+      "UsersEstimate": 5280
     },
     {
       "ID": "TheLovers",
@@ -50653,9 +50658,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 3168
+      "UsersEstimate": 4224
     },
     {
       "ID": "ThisIsPacifica",
@@ -50839,7 +50844,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "HydraIsDead",
@@ -50855,7 +50860,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 738
+      "UsersEstimate": 739
     },
     {
       "ID": "KingOfTheCups",
@@ -50918,21 +50923,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055993,
+      "Progressed": 1056015,
       "Completed": 3136
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184616,
+      "Progressed": 184638,
       "Completed": 10667
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-20T22:03:12.5280919+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:08:57.0070909+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:09:16.481415+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:03:12.5280927+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:08:57.0073875+00:00"
+  "LastUpdate_Ratings": "2024-01-20T23:03:26.420576+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:09:16.4815771+00:00"
 }

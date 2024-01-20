@@ -2,9 +2,9 @@
   "ID": "deca76ccbe584df395bc785c61653e50",
   "Name": "Booze Masters: Freezing Moonshine",
   "ProductSlug": "booze-masters-freezing-moonshine-f0449d",
-  "Ranking_EOS_Progress": 844,
+  "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-13T15:00:00+00:00",
@@ -43,8 +43,8 @@
   ],
   "FirstSeen": "2023-12-13T22:58:26.9708912+00:00",
   "FirstSeenAchievements": "2024-01-05T10:03:27.7941703+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:04:15.386458+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:04:39.380749+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:16.2146658+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:02:54.2624657+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:04:15.386462+00:00"
+  "LastUpdate_Ratings": "2024-01-20T23:03:05.0965423+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:04:39.3807509+00:00"
 }

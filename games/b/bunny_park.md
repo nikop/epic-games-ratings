@@ -10,8 +10,8 @@
 | Beginner Decorator | 50.00% | ~157 |
 | Helpful Bot-terfly | 46.00% | ~144 |
 | Cozy Autumn | 38.00% | ~119 |
-| Bunny Party | 35.00% | ~110 |
-| Stylish Decorator | 31.00% | ~97 |
+| Bunny Party | 36.00% | ~113 |
+| Stylish Decorator | 32.00% | ~100 |
 | Ace Decorator | 23.00% | ~72 |
 | Debris Collector | 19.00% | ~60 |
 | Bunny Cuddles | 15.00% | ~47 |
@@ -24,7 +24,7 @@
 | Quack quack | 5.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 314 (Ranked 400)  
-Completed: 10 (3.18%) (Ranked 107)  
+Completed: 10 (3.18%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

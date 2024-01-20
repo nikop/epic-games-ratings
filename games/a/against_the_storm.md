@@ -344,7 +344,7 @@ Completed: 34 (0.16%) (Ranked 296)
 | 2024-01-20 | 20,926 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 455  (Ranked 234)  
-Sum: 3,400 (Ranked 180)  
+Sum: 3,401 (Ranked 180)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): 54
 | This game is Great for Beginners | 450 |
 | This game is Extremely Fun | 424 |
 | This game is Highly Recommended | 410 |
-| This game has Unique Visuals | 351 |
+| This game has Unique Visuals | 352 |
 | This game has Amazing Storytelling | 337 |
 | This game has Amazing Characters | 299 |
 | This game has Obsessive Gameplay | 254 |
@@ -650,4 +650,4 @@ Diff (max vs sum): 54
 | 2024-01-16 | 4.82 | - | 453 | 3,387 |
 | 2024-01-17 | 4.82 | - | 454 | 3,393 |
 | 2024-01-19 | 4.82 | - | 454 | 3,398 |
-| 2024-01-20 | 4.82 | - | 455 | 3,400 |
+| 2024-01-20 | 4.82 | - | 455 | 3,401 |

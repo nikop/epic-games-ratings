@@ -2,9 +2,9 @@
   "ID": "2ff9b80a92ef4a3fbc506a62f1bc3c59",
   "Name": "POPUCOM",
   "ProductSlug": "popucom-3b79ee",
-  "Ranking_EOS_Progress": 844,
+  "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-20T02:56:56.6608025+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:57:46.0222137+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:06:23.3654576+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:57:56.7168768+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:08:19.1991869+00:00"
 }

@@ -9,11 +9,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 6.00% | ~1,022 |
 | Explorer | 5.00% | ~852 |
 | Settler | 5.00% | ~852 |
-| Able | 4.00% | ~681 |
-| Architect | 4.00% | ~681 |
-| Intrepid | 4.00% | ~681 |
-| Friendly Family | 4.00% | ~681 |
-| Hanging Gardens | 4.00% | ~681 |
+| Able | 4.00% | ~682 |
+| Architect | 4.00% | ~682 |
+| Intrepid | 4.00% | ~682 |
+| Friendly Family | 4.00% | ~682 |
+| Hanging Gardens | 4.00% | ~682 |
 | Ambitious | 3.00% | ~511 |
 | Enlightened | 3.00% | ~511 |
 | Glorious | 3.00% | ~511 |
@@ -152,6 +152,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.40% | ~68 |
 | Siege Tower | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
+| Al Khazneh | 0.40% | ~68 |
 | Cothon | 0.40% | ~68 |
 | Ancient | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
@@ -163,7 +164,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ten Crowns | 0.30% | ~51 |
 | Three Man Chariot | 0.30% | ~51 |
 | Beja Archer | 0.30% | ~51 |
-| Al Khazneh | 0.30% | ~51 |
 | Colosseum | 0.30% | ~51 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
 | Silver Victory (Carthage 1) | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,037 (Ranked 170)  
+Progressed: 17,039 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,037 | 5 |
+| 2024-01-20 | 17,039 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,944 (Ranked 224)  

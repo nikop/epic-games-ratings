@@ -2,9 +2,9 @@
   "ID": "b4bab670a8e64cf08f56e56d6fd3af7e",
   "Name": "Kingsgrave",
   "ProductSlug": "kingsgrave-b84468",
-  "Ranking_EOS_Progress": 844,
+  "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T13:57:19.7257534+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:57:53.8078319+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:08:36.7674855+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:58:05.0110847+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:08:54.5597784+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "8ff186a4415d4ce6b5a287ccfd11cf04",
   "Name": "Core",
   "ProductSlug": "core",
-  "Ranking_Rating": 824,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 190,
   "Ranking_PopularitySum": 214,
-  "Ranking_EOS_Progress": 844,
+  "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR, CN"
     }
   },
-  "Rating": 4.36,
+  "Rating": 4.35,
   "NumberOfRatings": 1439,
   "RatingHistory": [
     {
@@ -2718,10 +2718,16 @@
       "Rating": 4.36,
       "NumberOfAwards": 2203,
       "NumberOfAwardsMax": 782
+    },
+    {
+      "Time": "2024-01-20T22:57:30.1048481+00:00",
+      "Rating": 4.35,
+      "NumberOfAwards": 2204,
+      "NumberOfAwardsMax": 782
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2203,
+  "NumberOfAwards": 2204,
   "NumberOfAwardsMax": 782,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2789,7 +2795,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 127
+      "Count": 128
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -2815,8 +2821,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:10.3468578+00:00",
-  "LastChanged": "2024-01-19T00:01:20.8358267+00:00",
+  "LastChanged": "2024-01-20T22:57:30.104848+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:10.3644443+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:57:22.7339451+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:04:11.664084+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:57:30.1048483+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:04:35.6041242+00:00"
 }

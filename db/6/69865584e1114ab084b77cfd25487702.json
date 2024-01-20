@@ -2,9 +2,9 @@
   "ID": "69865584e1114ab084b77cfd25487702",
   "Name": "Beneath",
   "ProductSlug": "beneath-469388",
-  "Ranking_EOS_Progress": 844,
+  "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T10:57:12.9250207+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:57:24.1707447+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:03:54.1013165+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:57:32.0655819+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:04:16.2255562+00:00"
 }

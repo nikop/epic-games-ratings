@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22876,
+  "EOS_Progressed": 22882,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 1071,
+  "EOS_NewPlayers": 1072,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -8777,6 +8777,11 @@
       "Time": "2024-01-20T22:03:29.1060035+00:00",
       "NumProgressed": 22876,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-20T23:03:48.7615476+00:00",
+      "NumProgressed": 22882,
+      "NumCompleted": 119
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8797,7 +8802,7 @@
       "Name": "Beam Me Up Scotty",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "LISTEN_TO_ALL_6_VOICEMAILS_1_4",
@@ -8837,7 +8842,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2974
+      "UsersEstimate": 2975
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8845,7 +8850,7 @@
       "Name": "Secrets Out",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 1601
+      "UsersEstimate": 1602
     },
     {
       "ID": "UNLOCK_ALL_4_DOORS_1_3",
@@ -8868,7 +8873,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22876,
+      "Progressed": 22882,
       "Completed": 119
     }
   ],
@@ -8876,8 +8881,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:03:29.1060031+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:03:48.7615473+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:02:39.6638227+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:03:29.1060851+00:00"
+  "LastUpdate_Ratings": "2024-01-20T23:02:49.1369585+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:03:48.761601+00:00"
 }

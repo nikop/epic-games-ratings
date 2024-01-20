@@ -40,8 +40,8 @@ Rating: 4.39 (Ranked 790)
 | The Gamble | 0.60% | ~1,565 |
 | A major purchase | 0.60% | ~1,565 |
 | Interior designer | 0.60% | ~1,565 |
-| The Descent | 0.50% | ~1,304 |
-| Predator III | 0.50% | ~1,304 |
+| The Descent | 0.50% | ~1,305 |
+| Predator III | 0.50% | ~1,305 |
 | Expert Hunter | 0.40% | ~1,044 |
 | Fungi hunter | 0.40% | ~1,044 |
 | Arms dealer | 0.30% | ~783 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 790)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,899 (Ranked 69)  
+Progressed: 260,901 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 408)
 | 2024-01-17 | 260,770 | 3 |
 | 2024-01-18 | 260,810 | 3 |
 | 2024-01-19 | 260,851 | 3 |
-| 2024-01-20 | 260,899 | 3 |
+| 2024-01-20 | 260,901 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 450)  
 Sum: 388 (Ranked 365)  

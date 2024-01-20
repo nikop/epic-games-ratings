@@ -25,9 +25,9 @@
 | Jantine: the Misfortunes of Evil | 5.00% | ~15 |
 | Overpopulation | 5.00% | ~15 |
 | Medicine Tycoon | 5.00% | ~15 |
+| Tear Down the Wall! | 4.00% | ~12 |
 | Outdoor Decorator | 4.00% | ~12 |
 | Property Bro | 4.00% | ~12 |
-| Tear Down the Wall! | 3.00% | ~9 |
 | Supersoldier | 3.00% | ~9 |
 | Vive le Résistance | 3.00% | ~9 |
 | No News is Good News | 3.00% | ~9 |

@@ -30,7 +30,7 @@
 | That’s One Big Pile | 0.30% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 308 (Ranked 404)  
-Completed: 6 (1.95%) (Ranked 140)  
+Completed: 6 (1.95%) (Ranked 141)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

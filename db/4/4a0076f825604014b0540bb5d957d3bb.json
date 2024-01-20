@@ -4,8 +4,8 @@
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 466,
   "Ranking_EOS_Completed": 209,
-  "Ranking_EOS_NewPlayers": 412,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -813,9 +813,9 @@
       "ID": "CgkInO_K3eIdEAIQCA",
       "SetID": "6bj96in",
       "Name": "GIFTED LIBRARIAN",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 40,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "CgkInO_K3eIdEAIQCQ",
@@ -909,9 +909,9 @@
       "ID": "CgkInO_K3eIdEAIQFA",
       "SetID": "6bj96in",
       "Name": "WALKER",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 54
     },
     {
       "ID": "CgkInO_K3eIdEAIQFQ",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:09:56.934029+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:10:22.8291698+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:12.6071198+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:58:46.9792589+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:09:56.9340533+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:59:07.337861+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:10:22.829187+00:00"
 }

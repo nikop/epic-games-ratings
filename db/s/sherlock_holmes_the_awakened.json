@@ -6,7 +6,7 @@
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 272,
-  "Ranking_EOS_Completed": 108,
+  "Ranking_EOS_Completed": 109,
   "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 80,
   "Store": {
@@ -195,7 +195,7 @@
   "Tags": [],
   "EOS_Progressed": 1557,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.15,
   "EosHistory": [
@@ -5540,9 +5540,9 @@
       "ID": "MQ01_2",
       "SetID": "bbing49",
       "Name": "To Hell In A Handcart",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 934
+      "UsersEstimate": 950
     },
     {
       "ID": "MQ02_1",
@@ -5572,9 +5572,9 @@
       "ID": "MQ02_4",
       "SetID": "bbing49",
       "Name": "Whispers In The Dark",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 778
+      "UsersEstimate": 794
     },
     {
       "ID": "MQ03_1",
@@ -5692,9 +5692,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 638
+      "UsersEstimate": 654
     },
     {
       "ID": "MQ06_4",
@@ -5708,9 +5708,9 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 296
+      "UsersEstimate": 311
     },
     {
       "ID": "MQ07_2",
@@ -5765,8 +5765,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:03:52.0755313+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:04:14.0325889+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:03:14.7005878+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:03:52.0755791+00:00"
+  "LastUpdate_Ratings": "2024-01-20T23:03:28.7509382+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:04:14.0326323+00:00"
 }

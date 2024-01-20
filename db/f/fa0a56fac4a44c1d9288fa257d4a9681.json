@@ -2,9 +2,9 @@
   "ID": "fa0a56fac4a44c1d9288fa257d4a9681",
   "Name": "John Mambo",
   "ProductSlug": "john-mambo-f4d187",
-  "Ranking_EOS_Progress": 844,
+  "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T11:57:21.8330748+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:57:46.1269437+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:04:02.6461595+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:57:56.7793565+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:04:25.4077885+00:00"
 }

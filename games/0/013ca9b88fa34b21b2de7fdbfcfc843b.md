@@ -49,7 +49,7 @@ Rating: 4.65 (Ranked 323)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,138 (Ranked 190)  
+Progressed: 9,139 (Ranked 190)  
 Completed: 1 (0.01%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 1 (0.01%) (Ranked 382)
 | 2024-01-17 | 9,112 | 1 |
 | 2024-01-18 | 9,124 | 1 |
 | 2024-01-19 | 9,134 | 1 |
-| 2024-01-20 | 9,138 | 1 |
+| 2024-01-20 | 9,139 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

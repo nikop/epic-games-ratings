@@ -2,9 +2,9 @@
   "ID": "8e8c6752bd704123adc71241c92e7bce",
   "Name": "Nyan Heroes",
   "ProductSlug": "nyan-heroes-dev-aacbbd",
-  "Ranking_EOS_Progress": 844,
+  "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 554,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683292+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:58:40.3914034+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:03:58.5994934+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:58:59.9198559+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:04:20.9981729+00:00"
 }

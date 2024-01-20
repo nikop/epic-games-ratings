@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 274,
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 299,
-  "Ranking_EOS_NewPlayers": 169,
+  "Ranking_EOS_NewPlayers": 168,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
@@ -1595,7 +1595,7 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 14892,
+  "EOS_Progressed": 14893,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 202,
   "EOS_NewCompleters": 0,
@@ -10485,6 +10485,11 @@
       "Time": "2024-01-20T21:09:37.9716638+00:00",
       "NumProgressed": 14892,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-20T23:09:42.3350537+00:00",
+      "NumProgressed": 14893,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -10496,7 +10501,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2978
+      "UsersEstimate": 2979
     },
     {
       "ID": "Chatterbox",
@@ -10520,7 +10525,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8935
+      "UsersEstimate": 8936
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10624,7 +10629,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 9084
+      "UsersEstimate": 9085
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10648,7 +10653,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4914
+      "UsersEstimate": 4915
     },
     {
       "ID": "TheLegendBegins",
@@ -10664,7 +10669,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 7148
+      "UsersEstimate": 7149
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -10687,15 +10692,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14892,
+      "Progressed": 14893,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-20T11:58:19.5730064+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:09:20.1815786+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:09:42.3350535+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:58:30.7310973+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:09:20.1816934+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:58:48.4039811+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:09:42.3351135+00:00"
 }

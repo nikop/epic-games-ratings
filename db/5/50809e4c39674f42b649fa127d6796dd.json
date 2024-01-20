@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 322,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -1592,6 +1592,11 @@
       "Time": "2024-01-20T16:08:59.4704673+00:00",
       "NumProgressed": 538,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T23:09:01.9936484+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1692,7 +1697,7 @@
       "Name": "Hermit Koco Encounter",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "FIRST_METEOR_SHOWER",
@@ -1708,7 +1713,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1724,7 +1729,7 @@
       "Name": "Superior Ranking",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1772,15 +1777,15 @@
       "Name": "Futile Resistance",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "MAIN_CLEAR_ISLAND4",
       "SetID": "apihg0e",
       "Name": "Hope Across Ages",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1794,9 +1799,9 @@
       "ID": "MAIN_CLEAR_TUTORIAL",
       "SetID": "apihg0e",
       "Name": "The Journey Begins",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 301
+      "UsersEstimate": 296
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1866,9 +1871,9 @@
       "ID": "SPEED_STATUS_REACH_NUM",
       "SetID": "apihg0e",
       "Name": "Hypersonic Hedgehog",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1923,14 +1928,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:08:43.3890467+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:09:01.9936481+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:59:30.6285796+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:08:43.3891146+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:59:56.7843576+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:09:01.9936812+00:00"
 }

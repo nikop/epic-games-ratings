@@ -4991,9 +4991,9 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13324,
+  "EOS_Progressed": 13325,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20016,6 +20016,11 @@
       "Time": "2024-01-20T14:10:28.4758919+00:00",
       "NumProgressed": 13324,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T23:10:37.3222515+00:00",
+      "NumProgressed": 13325,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20043,7 +20048,7 @@
       "Name": "Banner over the Citadel",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1865
+      "UsersEstimate": 1866
     },
     {
       "ID": "04_FithCrusade",
@@ -20235,7 +20240,7 @@
       "Name": "Great Upstart",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "29_StrategicVictory",
@@ -20371,7 +20376,7 @@
       "Name": "Voice from Your Dreams",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "46_AllPathsOpen",
@@ -20379,7 +20384,7 @@
       "Name": "All Paths Open",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 799
+      "UsersEstimate": 800
     },
     {
       "ID": "47_ MemoriesFrozenInTime",
@@ -20954,21 +20959,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12106,
+      "Progressed": 12107,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13324,
+      "Progressed": 13325,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-20T21:59:01.876184+00:00",
-  "LastChanged_Achievements": "2024-01-20T22:10:10.0539709+00:00",
+  "LastChanged_Achievements": "2024-01-20T23:10:37.3222511+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:59:01.876185+00:00",
-  "LastUpdate_Achievements": "2024-01-20T22:10:10.054135+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:59:22.9855451+00:00",
+  "LastUpdate_Achievements": "2024-01-20T23:10:37.3224136+00:00"
 }

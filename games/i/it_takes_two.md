@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~103,413 |
-| Struck A Pose | 82.00% | ~102,167 |
-| Look At Him Go | 70.00% | ~87,216 |
-| On Rails Experience | 45.00% | ~56,067 |
-| A Daring Devil | 44.00% | ~54,821 |
-| Break the Bank | 34.00% | ~42,362 |
-| It Took Two | 32.00% | ~39,870 |
-| Bug Sized Relaxation | 14.00% | ~17,443 |
-| Plastic Prison Breakers | 13.00% | ~16,197 |
-| Terror Of The Seven Seas | 10.00% | ~12,459 |
-| Realize Your Art | 8.00% | ~9,968 |
-| Force Triangulated | 8.00% | ~9,968 |
-| Meditation Maestro | 8.00% | ~9,968 |
-| Something Fishy | 7.00% | ~8,722 |
-| Snackosaurus | 6.00% | ~7,476 |
-| Platforming Prodigy | 6.00% | ~7,476 |
-| Lost And Found | 6.00% | ~7,476 |
-| Mood Swing | 5.00% | ~6,230 |
+| Fried Friendship | 83.00% | ~103,430 |
+| Struck A Pose | 82.00% | ~102,183 |
+| Look At Him Go | 70.00% | ~87,230 |
+| On Rails Experience | 45.00% | ~56,076 |
+| A Daring Devil | 44.00% | ~54,830 |
+| Break the Bank | 34.00% | ~42,369 |
+| It Took Two | 32.00% | ~39,876 |
+| Bug Sized Relaxation | 14.00% | ~17,446 |
+| Plastic Prison Breakers | 13.00% | ~16,200 |
+| Terror Of The Seven Seas | 10.00% | ~12,461 |
+| Realize Your Art | 8.00% | ~9,969 |
+| Force Triangulated | 8.00% | ~9,969 |
+| Meditation Maestro | 8.00% | ~9,969 |
+| Something Fishy | 7.00% | ~8,723 |
+| Snackosaurus | 6.00% | ~7,477 |
+| Platforming Prodigy | 6.00% | ~7,477 |
+| Lost And Found | 6.00% | ~7,477 |
+| Mood Swing | 5.00% | ~6,231 |
 | Faraway Frequencies | 3.00% | ~3,738 |
 | Minigame Megalomania | 2.00% | ~2,492 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,594 (Ranked 95)  
+Progressed: 124,614 (Ranked 95)  
 Completed: 297 (0.24%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -152,4 +152,4 @@ Completed: 297 (0.24%) (Ranked 278)
 | 2024-01-17 | 120,843 | 286 |
 | 2024-01-18 | 121,920 | 289 |
 | 2024-01-19 | 123,093 | 292 |
-| 2024-01-20 | 124,594 | 297 |
+| 2024-01-20 | 124,614 | 297 |

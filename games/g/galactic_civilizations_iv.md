@@ -41,9 +41,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
+| Hyperspace! | 0.80% | ~61 |
+| Veteran Crew | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
-| Hyperspace! | 0.70% | ~53 |
-| Veteran Crew | 0.70% | ~53 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as the Krynn | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
@@ -54,9 +54,9 @@ Number of Ratings: 429  (23.09.2022)
 | Diplomatic Victory! | 0.60% | ~45 |
 | Win as the Iconians | 0.50% | ~38 |
 | Commodity Seller, Level 2 | 0.40% | ~30 |
+| Commodity Trader - Level 2 | 0.30% | ~23 |
 | Recruit a Dozen Leaders | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
-| Commodity Trader - Level 2 | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
 | Commodity Selling Guru | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |

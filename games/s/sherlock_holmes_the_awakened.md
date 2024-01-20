@@ -6,9 +6,9 @@ Rating: 4.50 (Ranked 619)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Read Between The Lines | 62.00% | ~965 |
-| To Hell In A Handcart | 60.00% | ~934 |
+| To Hell In A Handcart | 61.00% | ~950 |
 | High Profile | 54.00% | ~841 |
-| Whispers In The Dark | 50.00% | ~778 |
+| Whispers In The Dark | 51.00% | ~794 |
 | Fond Memories | 49.00% | ~763 |
 | A Method To His Madness | 47.00% | ~732 |
 | History Check | 46.00% | ~716 |
@@ -18,8 +18,8 @@ Rating: 4.50 (Ranked 619)
 | Lock, Stock, And Barrel | 42.00% | ~654 |
 | Sticky Fingers | 42.00% | ~654 |
 | Knives Out | 42.00% | ~654 |
+| Land, Ho! | 42.00% | ~654 |
 | Back In The Saddle | 41.00% | ~638 |
-| Land, Ho! | 41.00% | ~638 |
 | No Man Is An Island | 40.00% | ~623 |
 | At Wits' End | 39.00% | ~607 |
 | Up In Flames | 38.00% | ~592 |
@@ -29,13 +29,13 @@ Rating: 4.50 (Ranked 619)
 | Let Me Be Frank | 33.00% | ~514 |
 | No Stone Unturned | 31.00% | ~483 |
 | Brain Food | 30.00% | ~467 |
-| Read It And Weep | 19.00% | ~296 |
+| Read It And Weep | 20.00% | ~311 |
 | Curiosity Killed The Cat | 18.00% | ~280 |
 | Big Breakthrough | 12.00% | ~187 |
 | Reawakened | 3.00% | ~47 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,557 (Ranked 272)  
-Completed: 49 (3.15%) (Ranked 108)  
+Completed: 49 (3.15%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
