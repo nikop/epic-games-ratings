@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7567,
+  "EOS_Progressed": 7568,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9877,6 +9877,11 @@
       "Time": "2024-01-19T23:10:29.7237619+00:00",
       "NumProgressed": 7567,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T02:32:44.4075764+00:00",
+      "NumProgressed": 7568,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9894,9 +9899,9 @@
       "ID": "30_Citizens",
       "SetID": "4h07amh",
       "Name": "Ask Not What Your Empire Can Do For You",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 53
     },
     {
       "ID": "Buy_10_Resource",
@@ -9920,7 +9925,7 @@
       "Name": "Commodity Trader",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 2194
+      "UsersEstimate": 2195
     },
     {
       "ID": "Collect_15_Anomalies",
@@ -9928,7 +9933,7 @@
       "Name": "Anomaly Researcher",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "Control_All_Relics",
@@ -10000,7 +10005,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5448
+      "UsersEstimate": 5449
     },
     {
       "ID": "First_Ship_Designed",
@@ -10024,7 +10029,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5751
+      "UsersEstimate": 5752
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10104,7 +10109,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2421
+      "UsersEstimate": 2422
     },
     {
       "ID": "Play_1000_Hours",
@@ -10208,7 +10213,7 @@
       "Name": "Unleash My Power",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4541
     },
     {
       "ID": "Use_X_Artifact_Powers",
@@ -10463,15 +10468,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7567,
+      "Progressed": 7568,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:58:07.9299979+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:44.4075761+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:44:53.3659716+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:58:07.9300982+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:20:11.3515026+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:44.407684+00:00"
 }

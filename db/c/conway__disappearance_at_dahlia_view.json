@@ -4,8 +4,8 @@
   "ProductSlug": "conway-disappearance-5d6354",
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-11-02T10:00:00+00:00",
     "PcReleaseDate": "2021-11-02T00:00:00+00:00",
@@ -45,6 +45,6 @@
   "FirstSeenRating": "2023-03-31T05:58:16.2831841+00:00",
   "LastChanged": "2023-03-31T05:58:16.2831842+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:07.0034885+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:49:23.2255939+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:54:25.7028737+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:25:31.6308604+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:28:41.0033905+00:00"
 }

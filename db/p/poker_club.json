@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
     "PcReleaseDate": "2020-11-20T00:00:00+00:00",
@@ -1159,9 +1159,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 552541,
+  "EOS_Progressed": 552543,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1483,
+  "EOS_NewPlayers": 1481,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32564,6 +32564,11 @@
       "Time": "2024-01-20T01:54:17.5235573+00:00",
       "NumProgressed": 552541,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T02:28:35.307378+00:00",
+      "NumProgressed": 552543,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -32575,7 +32580,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 149186
+      "UsersEstimate": 149187
     },
     {
       "ID": "Backdoor",
@@ -32671,7 +32676,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 221016
+      "UsersEstimate": 221017
     },
     {
       "ID": "DeadlyAssassin",
@@ -32703,7 +32708,7 @@
       "Name": "Give Your Regards To Broadway",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 33152
+      "UsersEstimate": 33153
     },
     {
       "ID": "GoForIt",
@@ -32727,7 +32732,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232067
+      "UsersEstimate": 232068
     },
     {
       "ID": "HoldingYourOwn",
@@ -32823,7 +32828,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 419931
+      "UsersEstimate": 419933
     },
     {
       "ID": "ProPlayer",
@@ -32887,7 +32892,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71830
+      "UsersEstimate": 71831
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -32934,7 +32939,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 552541,
+      "Progressed": 552543,
       "Completed": 2
     }
   ],
@@ -32942,8 +32947,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-17T02:24:16.8558489+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:54:17.5235571+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:28:35.3073778+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:20.9152089+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:45:07.4019517+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:54:17.5237235+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:20:20.7611202+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:28:35.3075133+00:00"
 }

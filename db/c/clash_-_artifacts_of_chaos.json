@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 451,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 494,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 164,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -578,9 +578,9 @@
       "ID": "Achievement10",
       "SetID": "jf6ho5",
       "Name": "The Pride of Moozhaw",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement11",
@@ -690,9 +690,9 @@
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "Achievement5",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:58:01.7910482+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:39.6609386+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.8235037+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:46:16.3041961+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:58:01.7910627+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:21:06.9403673+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:39.660953+00:00"
 }

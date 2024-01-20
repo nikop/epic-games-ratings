@@ -3,9 +3,9 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 266,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Completed": 260,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4496,
-  "EOS_Completed": 13,
-  "EOS_NewPlayers": 256,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.29,
+  "EOS_Progressed": 4497,
+  "EOS_Completed": 14,
+  "EOS_NewPlayers": 254,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
     {
       "Time": "2023-09-20T19:07:08.0577536+00:00",
@@ -8633,6 +8633,11 @@
       "Time": "2024-01-19T22:10:30.671038+00:00",
       "NumProgressed": 4496,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-20T02:32:50.1238609+00:00",
+      "NumProgressed": 4497,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -8709,7 +8714,7 @@
       "Name": "Pyromaniac",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "achievement_107",
@@ -8773,7 +8778,7 @@
       "Name": "Under Pressure",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_114",
@@ -8781,7 +8786,7 @@
       "Name": "Savior",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "achievement_115",
@@ -8789,7 +8794,7 @@
       "Name": "Last Resort",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_116",
@@ -8845,7 +8850,7 @@
       "Name": "Paramour II",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_122",
@@ -8957,7 +8962,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "achievement_20",
@@ -8981,7 +8986,7 @@
       "Name": "Medal of Exploration II",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "achievement_23",
@@ -9021,7 +9026,7 @@
       "Name": "Turian Ally",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 1798
+      "UsersEstimate": 1799
     },
     {
       "ID": "achievement_28",
@@ -9029,7 +9034,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2203
+      "UsersEstimate": 2204
     },
     {
       "ID": "achievement_29",
@@ -9045,7 +9050,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4046
+      "UsersEstimate": 4047
     },
     {
       "ID": "achievement_30",
@@ -9061,7 +9066,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 2967
+      "UsersEstimate": 2968
     },
     {
       "ID": "achievement_32",
@@ -9133,7 +9138,7 @@
       "Name": "Council Legion of Merit",
       "Percentage": 39,
       "XP": 25,
-      "UsersEstimate": 1753
+      "UsersEstimate": 1754
     },
     {
       "ID": "achievement_40",
@@ -9157,7 +9162,7 @@
       "Name": "No One Left Behind",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_43",
@@ -9221,7 +9226,7 @@
       "Name": "Honorarium of Corporate Service",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 1978
+      "UsersEstimate": 1979
     },
     {
       "ID": "achievement_50",
@@ -9421,7 +9426,7 @@
       "Name": "Weapon Specialist",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "achievement_73",
@@ -9533,7 +9538,7 @@
       "Name": "Party Crasher",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_86",
@@ -9541,7 +9546,7 @@
       "Name": "Hard Target",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_87",
@@ -9549,7 +9554,7 @@
       "Name": "Saboteur",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_88",
@@ -9565,7 +9570,7 @@
       "Name": "Last Witness",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_9",
@@ -9581,7 +9586,7 @@
       "Name": "Executioner",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "achievement_91",
@@ -9589,7 +9594,7 @@
       "Name": "Well Connected",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "achievement_92",
@@ -9597,7 +9602,7 @@
       "Name": "Fact Finder",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_93",
@@ -9613,7 +9618,7 @@
       "Name": "Problem Solver",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "achievement_95",
@@ -9653,26 +9658,26 @@
       "Name": "Lost and Found",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     }
   ],
   "AchievementSets": [
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4496,
-      "Completed": 13
+      "Progressed": 4497,
+      "Completed": 14
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4496,
+      "Progressed": 4497,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:58:14.8284425+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:50.1238607+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:50:42.0805434+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:58:14.8286277+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:26:04.194941+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:50.1240419+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -1668,9 +1668,9 @@
       "ID": "Achievement_AcrossTheStars",
       "SetID": "c01p6e5",
       "Name": "Across The Stars",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 545
+      "UsersEstimate": 558
     },
     {
       "ID": "Achievement_AirlockExit",
@@ -1956,9 +1956,9 @@
       "ID": "Achievement_SpaceEngineer",
       "SetID": "c01p6e5",
       "Name": "Space Engineer",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 743
+      "UsersEstimate": 756
     },
     {
       "ID": "Achievement_SpaceExplorer",
@@ -2021,8 +2021,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:56:14.042394+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:31:23.1401663+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:13.8191647+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:45:18.7885767+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:56:14.0424227+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:20:27.8892952+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:31:23.1402018+00:00"
 }

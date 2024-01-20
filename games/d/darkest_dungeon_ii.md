@@ -32,20 +32,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 5.00% | ~6,663 |
 | Nope | 5.00% | ~6,663 |
 | Friends 'Til the End | 5.00% | ~407 |
-| Resurrection | 4.00% | ~5,330 |
-| Unleash Hell | 4.00% | ~5,330 |
-| Funny Guy | 4.00% | ~5,330 |
-| Long Live the King | 4.00% | ~5,330 |
-| Wyrdly Reconstructed | 4.00% | ~5,330 |
-| Boxcar Kid | 4.00% | ~5,330 |
-| Unfulfilled Desires | 4.00% | ~5,330 |
-| Dissector | 4.00% | ~5,330 |
-| Banishment | 4.00% | ~5,330 |
-| Now Stay Dead | 4.00% | ~5,330 |
-| Spelunker | 4.00% | ~5,330 |
-| Ramble On | 4.00% | ~5,330 |
-| A Clear Conscience | 4.00% | ~5,330 |
-| Unshackled | 4.00% | ~5,330 |
+| Resurrection | 4.00% | ~5,331 |
+| Unleash Hell | 4.00% | ~5,331 |
+| Funny Guy | 4.00% | ~5,331 |
+| Long Live the King | 4.00% | ~5,331 |
+| Wyrdly Reconstructed | 4.00% | ~5,331 |
+| Boxcar Kid | 4.00% | ~5,331 |
+| Unfulfilled Desires | 4.00% | ~5,331 |
+| Dissector | 4.00% | ~5,331 |
+| Banishment | 4.00% | ~5,331 |
+| Now Stay Dead | 4.00% | ~5,331 |
+| Spelunker | 4.00% | ~5,331 |
+| Ramble On | 4.00% | ~5,331 |
+| A Clear Conscience | 4.00% | ~5,331 |
+| Unshackled | 4.00% | ~5,331 |
 | Hope Rekindled | 3.00% | ~3,998 |
 | Predator | 3.00% | ~3,998 |
 | Deprogramming | 3.00% | ~3,998 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,262 (Ranked 92)  
+Progressed: 133,263 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,262 | 5 |
+| 2024-01-20 | 133,263 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
 Sum: 21,765 (Ranked 58)  

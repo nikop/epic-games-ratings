@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140439,
+  "EOS_Progressed": 140440,
   "EOS_Completed": 1273,
-  "EOS_NewPlayers": 1060,
+  "EOS_NewPlayers": 1059,
   "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -31770,6 +31770,11 @@
       "Time": "2024-01-20T01:52:18.3340284+00:00",
       "NumProgressed": 140439,
       "NumCompleted": 1273
+    },
+    {
+      "Time": "2024-01-20T02:27:11.3381532+00:00",
+      "NumProgressed": 140440,
+      "NumCompleted": 1273
     }
   ],
   "TotalAchievements": 34,
@@ -31797,7 +31802,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 58984
+      "UsersEstimate": 58985
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -31837,7 +31842,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 112351
+      "UsersEstimate": 112352
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -32052,7 +32057,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140439,
+      "Progressed": 140440,
       "Completed": 1273
     }
   ],
@@ -32060,8 +32065,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:52:18.3340282+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:27:11.3381516+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.7177495+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:48:09.7988265+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:52:18.3341829+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:22:23.7246455+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:27:11.3383965+00:00"
 }

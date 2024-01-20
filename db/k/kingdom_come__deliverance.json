@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 21,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 89,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10191,9 +10191,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818255,
+  "EOS_Progressed": 818256,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1108,
+  "EOS_NewPlayers": 1109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41276,6 +41276,11 @@
       "Time": "2024-01-20T01:58:11.6636831+00:00",
       "NumProgressed": 818255,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-20T02:32:47.4729588+00:00",
+      "NumProgressed": 818256,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41399,7 +41404,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212746
+      "UsersEstimate": 212747
     },
     {
       "ID": "Chivalrous",
@@ -41942,15 +41947,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818255,
+      "Progressed": 818256,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-19T23:00:13.1829374+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:58:11.6636828+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:47.4729585+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:48:48.2026097+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:58:11.6638865+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:22:49.5532338+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:47.4731724+00:00"
 }

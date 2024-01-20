@@ -4,8 +4,8 @@
   "ProductSlug": "summum-aeterna-6e9374",
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-18T14:00:00+00:00",
     "PcReleaseDate": "2022-06-16T10:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:21.4341368+00:00",
   "LastChanged": "2023-03-31T05:58:21.4341369+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:50.0237308+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:47:01.9095553+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:54:38.8236944+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:21:38.1296231+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:28:50.2218559+00:00"
 }

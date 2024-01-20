@@ -6,13 +6,13 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 74.00% | ~321,146 |
-| Full garage | 61.00% | ~264,728 |
-| To the eyeballs! | 51.00% | ~221,330 |
-| Individual delivery | 47.00% | ~203,971 |
-| Non-Stop | 45.00% | ~195,291 |
-| Juggler | 36.00% | ~156,233 |
-| Forgot something | 35.00% | ~151,893 |
+| Dealmaker | 74.00% | ~321,147 |
+| Full garage | 61.00% | ~264,729 |
+| To the eyeballs! | 51.00% | ~221,331 |
+| Individual delivery | 47.00% | ~203,972 |
+| Non-Stop | 45.00% | ~195,292 |
+| Juggler | 36.00% | ~156,234 |
+| Forgot something | 35.00% | ~151,894 |
 | Close call! | 31.00% | ~134,534 |
 | Get out my way | 28.00% | ~121,515 |
 | Common cause | 26.00% | ~112,835 |
@@ -33,7 +33,7 @@ Number of Ratings: 87  (23.09.2022)
 | Relocation | 10.00% | ~43,398 |
 | Industrial Age | 9.00% | ~39,058 |
 | Just One More Valley | 9.00% | ~38,999 |
-| Prick of conscience | 8.00% | ~34,718 |
+| Prick of conscience | 8.00% | ~34,719 |
 | Missed it! | 7.00% | ~30,379 |
 | At the last moment! | 6.00% | ~26,039 |
 | Overseer | 6.00% | ~26,039 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~433 |
 | World Zapper | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,981 (Ranked 46)  
+Progressed: 433,982 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 24 (0.01%) (Ranked 379)
 | 2024-01-17 | 433,553 | 24 |
 | 2024-01-18 | 433,732 | 24 |
 | 2024-01-19 | 433,960 | 24 |
-| 2024-01-20 | 433,981 | 24 |
+| 2024-01-20 | 433,982 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,060  (Ranked 159)  
 Sum: 2,197 (Ranked 215)  

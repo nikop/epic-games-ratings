@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,046 |
-| Spectre Inductee | 66.00% | ~2,967 |
+| Distinguished Service Medal | 90.00% | ~4,047 |
+| Spectre Inductee | 66.00% | ~2,968 |
 | Medal of Exploration I | 56.00% | ~2,518 |
 | Recruit | 53.00% | ~2,383 |
 | Search and Rescue | 51.00% | ~2,293 |
-| Quarian Ally | 49.00% | ~2,203 |
-| Medal of Heroism | 44.00% | ~1,978 |
-| Honorarium of Corporate Service | 44.00% | ~1,978 |
-| Turian Ally | 40.00% | ~1,798 |
-| Medal of Exploration II | 39.00% | ~1,753 |
-| Council Legion of Merit | 39.00% | ~1,753 |
+| Quarian Ally | 49.00% | ~2,204 |
+| Medal of Heroism | 44.00% | ~1,979 |
+| Honorarium of Corporate Service | 44.00% | ~1,979 |
+| Turian Ally | 40.00% | ~1,799 |
+| Medal of Exploration II | 39.00% | ~1,754 |
+| Council Legion of Merit | 39.00% | ~1,754 |
 | Missing in Action | 37.00% | ~1,664 |
 | Medal of Honor | 36.00% | ~1,619 |
 | Meritorious Service Medal | 36.00% | ~1,619 |
@@ -83,22 +83,22 @@
 | Pathfinder | 17.00% | ~764 |
 | Tunnel Rat | 17.00% | ~764 |
 | Arbiter | 17.00% | ~764 |
-| Savior | 16.00% | ~719 |
-| Weapon Specialist | 16.00% | ~719 |
-| Lost and Found | 16.00% | ~719 |
-| Paramour II | 15.00% | ~674 |
-| Party Crasher | 15.00% | ~674 |
-| Hard Target | 15.00% | ~674 |
-| Fact Finder | 15.00% | ~674 |
-| Problem Solver | 15.00% | ~674 |
-| Under Pressure | 14.00% | ~629 |
-| Last Resort | 14.00% | ~629 |
-| No One Left Behind | 14.00% | ~629 |
-| Saboteur | 14.00% | ~629 |
-| Last Witness | 14.00% | ~629 |
-| Well Connected | 14.00% | ~629 |
-| Pyromaniac | 13.00% | ~584 |
-| Executioner | 13.00% | ~584 |
+| Savior | 16.00% | ~720 |
+| Weapon Specialist | 16.00% | ~720 |
+| Lost and Found | 16.00% | ~720 |
+| Paramour II | 15.00% | ~675 |
+| Party Crasher | 15.00% | ~675 |
+| Hard Target | 15.00% | ~675 |
+| Fact Finder | 15.00% | ~675 |
+| Problem Solver | 15.00% | ~675 |
+| Under Pressure | 14.00% | ~630 |
+| Last Resort | 14.00% | ~630 |
+| No One Left Behind | 14.00% | ~630 |
+| Saboteur | 14.00% | ~630 |
+| Last Witness | 14.00% | ~630 |
+| Well Connected | 14.00% | ~630 |
+| Pyromaniac | 13.00% | ~585 |
+| Executioner | 13.00% | ~585 |
 | Patriot | 12.00% | ~540 |
 | Legend | 12.00% | ~540 |
 | Master and Commander | 12.00% | ~540 |
@@ -132,8 +132,8 @@
 | Insanity III | 0.90% | ~40 |
 | The One and Only | 0.60% | ~27 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,496 (Ranked 211)  
-Completed: 13 (0.29%) (Ranked 266)  
+Progressed: 4,497 (Ranked 211)  
+Completed: 14 (0.31%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -259,3 +259,4 @@ Completed: 13 (0.29%) (Ranked 266)
 | 2024-01-17 | 4,449 | 13 |
 | 2024-01-18 | 4,472 | 13 |
 | 2024-01-19 | 4,496 | 13 |
+| 2024-01-20 | 4,497 | 14 |

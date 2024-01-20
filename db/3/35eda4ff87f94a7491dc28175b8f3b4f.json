@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 224,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewCompleters": 39,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22716,
+  "EOS_Progressed": 22719,
   "EOS_Completed": 116,
-  "EOS_NewPlayers": 1088,
+  "EOS_NewPlayers": 1086,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -8677,6 +8677,11 @@
       "Time": "2024-01-20T01:53:48.0763435+00:00",
       "NumProgressed": 22716,
       "NumCompleted": 116
+    },
+    {
+      "Time": "2024-01-20T02:28:14.7472504+00:00",
+      "NumProgressed": 22719,
+      "NumCompleted": 116
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8721,7 +8726,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -8753,7 +8758,7 @@
       "Name": "Locksmith",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -8768,7 +8773,7 @@
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22716,
+      "Progressed": 22719,
       "Completed": 116
     }
   ],
@@ -8776,8 +8781,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:53:48.0763432+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:28:14.7472498+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:48:36.786539+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:53:48.0764043+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:22:42.0678508+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:28:14.7473082+00:00"
 }

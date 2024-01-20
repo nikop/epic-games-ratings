@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8239,10 +8239,10 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 152117,
+  "EOS_Progressed": 152121,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1202,
-  "EOS_NewCompleters": 8,
+  "EOS_NewPlayers": 1204,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -37394,6 +37394,11 @@
       "Time": "2024-01-20T01:56:49.3404005+00:00",
       "NumProgressed": 152117,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-20T02:31:48.6265364+00:00",
+      "NumProgressed": 152121,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 112,
@@ -37573,7 +37578,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18254
+      "UsersEstimate": 18255
     },
     {
       "ID": "chest02",
@@ -37669,7 +37674,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12169
+      "UsersEstimate": 12170
     },
     {
       "ID": "craft02",
@@ -38181,7 +38186,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12169
+      "UsersEstimate": 12170
     },
     {
       "ID": "sell02",
@@ -38300,15 +38305,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152117,
+      "Progressed": 152121,
       "Completed": 359
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-19T18:03:11.8654886+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:56:49.3404002+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:31:48.6265362+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:50:37.3664849+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:56:49.3406361+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:26:01.1358364+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:31:48.6267564+00:00"
 }

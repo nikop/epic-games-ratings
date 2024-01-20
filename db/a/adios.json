@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83961,
+  "EOS_Progressed": 83962,
   "EOS_Completed": 946,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 580,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30797,6 +30797,11 @@
       "Time": "2024-01-20T01:52:26.1480946+00:00",
       "NumProgressed": 83961,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-20T02:27:16.9055424+00:00",
+      "NumProgressed": 83962,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30840,7 +30845,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18471
+      "UsersEstimate": 18472
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -30896,7 +30901,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7556
+      "UsersEstimate": 7557
     },
     {
       "ID": "Magnetic Miracles",
@@ -30936,7 +30941,7 @@
       "Name": "Nice Try",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14273
+      "UsersEstimate": 14274
     },
     {
       "ID": "Nothing Left to Say",
@@ -31007,7 +31012,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83961,
+      "Progressed": 83962,
       "Completed": 946
     }
   ],
@@ -31015,8 +31020,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:52:26.1480944+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:27:16.9055422+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:49:07.882091+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:52:26.1482937+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:25:21.8276781+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:27:16.9056912+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 25,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2019-05-01T23:00:00+00:00",
@@ -336,9 +336,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 769946,
+  "EOS_Progressed": 769948,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1884,
+  "EOS_NewPlayers": 1879,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32016,6 +32016,11 @@
       "Time": "2024-01-20T01:51:35.3603981+00:00",
       "NumProgressed": 769946,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T02:26:40.9941259+00:00",
+      "NumProgressed": 769948,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 27,
@@ -32091,7 +32096,7 @@
       "Name": "Well educated",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 284880
+      "UsersEstimate": 284881
     },
     {
       "ID": "ach_demolish_trees",
@@ -32155,7 +32160,7 @@
       "Name": "Entrepreneur",
       "Percentage": 48,
       "XP": 20,
-      "UsersEstimate": 369574
+      "UsersEstimate": 369575
     },
     {
       "ID": "ach_produced",
@@ -32171,7 +32176,7 @@
       "Name": "Big Hauling",
       "Percentage": 16,
       "XP": 35,
-      "UsersEstimate": 123191
+      "UsersEstimate": 123192
     },
     {
       "ID": "ach_raise_money",
@@ -32242,7 +32247,7 @@
     {
       "ID": "c29op2e",
       "IsBase": true,
-      "Progressed": 769946,
+      "Progressed": 769948,
       "Completed": 4
     }
   ],
@@ -32250,8 +32255,8 @@
   "FirstSeenRating": "2023-03-03T20:57:50.7322233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1437733+00:00",
   "LastChanged": "2024-01-07T11:01:40.5660673+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:51:35.3603978+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:26:40.9941257+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:03.25845+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:46:55.7947628+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:51:35.3605545+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:21:34.2946338+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:26:40.9942766+00:00"
 }

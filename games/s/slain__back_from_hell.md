@@ -5,7 +5,7 @@ Rating: 4.29 (Ranked 887)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Man 'O War | 21.00% | ~9,345 |
+| Man 'O War | 21.00% | ~9,346 |
 | A Good Day To Die | 15.00% | ~6,675 |
 | Guard! Turn! Parry! Dodge! Spin! Ha! | 6.00% | ~2,670 |
 | Right Back Atcha | 6.00% | ~2,670 |
@@ -14,28 +14,28 @@ Rating: 4.29 (Ranked 887)
 | Down Boy! | 2.00% | ~890 |
 | A Snowball's Chance in Hell | 2.00% | ~890 |
 | Enjoy The Silence | 1.00% | ~445 |
-| Sure Footed As A Goat | 0.90% | ~400 |
-| Backdoor Man | 0.90% | ~400 |
+| Sure Footed As A Goat | 0.90% | ~401 |
+| Backdoor Man | 0.90% | ~401 |
 | Thorn in My Herbicide | 0.80% | ~356 |
 | Red In Tooth And Claw | 0.80% | ~356 |
 | Death Becomes Her | 0.80% | ~356 |
 | The Sky Is Falling | 0.80% | ~356 |
 | Schadenfreude | 0.80% | ~356 |
-| Start As You Mean To Go On | 0.70% | ~311 |
-| Hail the Great Horned Metal God! | 0.70% | ~311 |
-| That'll Come In Handy... | 0.70% | ~311 |
-| Four Legged Friend | 0.50% | ~222 |
-| Oh God, Mother! Blood! Blood! | 0.50% | ~222 |
-| Ice To See You | 0.50% | ~222 |
-| Smack My Imp Up | 0.50% | ~222 |
-| Vroll With It | 0.30% | ~133 |
-| Swift of Foot, Keen of Blade | 0.30% | ~133 |
+| Start As You Mean To Go On | 0.70% | ~312 |
+| Hail the Great Horned Metal God! | 0.70% | ~312 |
+| That'll Come In Handy... | 0.70% | ~312 |
+| Four Legged Friend | 0.50% | ~223 |
+| Oh God, Mother! Blood! Blood! | 0.50% | ~223 |
+| Ice To See You | 0.50% | ~223 |
+| Smack My Imp Up | 0.50% | ~223 |
+| Vroll With It | 0.30% | ~134 |
+| Swift of Foot, Keen of Blade | 0.30% | ~134 |
 | Flame Retardant | 0.20% | ~89 |
-| Too Metal For Magic | 0.10% | ~44 |
-| Heart Of Steel | 0.10% | ~44 |
-| Death or Glory | 0.10% | ~44 |
+| Too Metal For Magic | 0.10% | ~45 |
+| Heart Of Steel | 0.10% | ~45 |
+| Death or Glory | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,499 (Ranked 134)  
+Progressed: 44,503 (Ranked 134)  
 Completed: 30 (0.07%) (Ranked 336)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,7 +310,7 @@ Completed: 30 (0.07%) (Ranked 336)
 | 2024-01-17 | 44,365 | 30 |
 | 2024-01-18 | 44,415 | 30 |
 | 2024-01-19 | 44,488 | 30 |
-| 2024-01-20 | 44,499 | 30 |
+| 2024-01-20 | 44,503 | 30 |
 ## Awards
 Max (Great Boss Battles): 129  (Ranked 354)  
 Sum: 129 (Ranked 458)  

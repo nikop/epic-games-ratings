@@ -13,8 +13,8 @@ Rating: 4.54 (Ranked 552)
 | Bosmang | 14.00% | ~2,684 |
 | Impossible Objects | 14.00% | ~2,684 |
 | Drone Dodger | 13.00% | ~2,492 |
-| Stogie for Fogey | 12.00% | ~2,300 |
-| Spore Taste | 12.00% | ~2,300 |
+| Stogie for Fogey | 12.00% | ~2,301 |
+| Spore Taste | 12.00% | ~2,301 |
 | Zen Master | 11.00% | ~564 |
 | Call it Even | 10.00% | ~1,917 |
 | Safe Cracker | 10.00% | ~512 |
@@ -27,9 +27,9 @@ Rating: 4.54 (Ranked 552)
 | Keep Arjun in Check | 8.00% | ~410 |
 | Doctor Approved | 7.00% | ~1,342 |
 | Bottoms up! | 7.00% | ~1,342 |
-| Master Negotiator | 6.00% | ~307 |
-| Data Logger | 5.00% | ~958 |
-| Miraculous Maya | 5.00% | ~958 |
+| Master Negotiator | 6.00% | ~308 |
+| Data Logger | 5.00% | ~959 |
+| Miraculous Maya | 5.00% | ~959 |
 | Data Master | 4.00% | ~767 |
 | No Belter Left Behind | 3.00% | ~575 |
 | Brother's Reaper | 2.00% | ~383 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 552)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,170 (Ranked 160)  
+Progressed: 19,171 (Ranked 160)  
 Completed: 66 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 66 (0.34%) (Ranked 254)
 | 2024-01-17 | 19,116 | 66 |
 | 2024-01-18 | 19,145 | 66 |
 | 2024-01-19 | 19,168 | 66 |
-| 2024-01-20 | 19,170 | 66 |
+| 2024-01-20 | 19,171 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

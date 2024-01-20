@@ -91,6 +91,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Hopelessly Lost | 0.20% | ~510 |
 | Enter the Sargauth | 0.20% | ~510 |
 | The Dead Three | 0.20% | ~510 |
+| Lair of the Xanathar | 0.20% | ~510 |
 | Crowded Streets | 0.20% | ~510 |
 | The Darkness Runs Deeper | 0.20% | ~510 |
 | Difficult Terrain | 0.20% | ~510 |
@@ -327,7 +328,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Slow and Steady | 0.10% | ~255 |
 | A Hero's Entourage | 0.10% | ~255 |
 | Sneak Attack | 0.10% | ~221 |
-| Lair of the Xanathar | 0.10% | ~255 |
 | Dreams of Beholders | 0.10% | ~255 |
 | Feigned Weakness | 0.10% | ~255 |
 | DPS in the Deeps | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,805 (Ranked 71)  
+Progressed: 254,811 (Ranked 71)  
 Completed: 2,626 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,7 +828,7 @@ Completed: 2,626 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,805 | 2,626 |
+| 2024-01-20 | 254,811 | 2,626 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,572 (Ranked 41)  

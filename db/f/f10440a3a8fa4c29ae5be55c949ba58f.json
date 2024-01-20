@@ -2,10 +2,10 @@
   "ID": "f10440a3a8fa4c29ae5be55c949ba58f",
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
-  "Ranking_EOS_Progress": 187,
+  "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 87,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9727,
+  "EOS_Progressed": 9728,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1133,
+  "EOS_NewPlayers": 1131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3524,6 +3524,11 @@
       "Time": "2024-01-20T01:57:10.0223478+00:00",
       "NumProgressed": 9727,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-20T02:32:03.0500055+00:00",
+      "NumProgressed": 9728,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3536,7 +3541,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4766
+      "UsersEstimate": 4767
     },
     {
       "ID": "Document1",
@@ -3599,14 +3604,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9727,
+      "Progressed": 9728,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:57:10.0223476+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:03.0500052+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:45:27.8880116+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:57:10.0223805+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:20:34.0405867+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:03.0500384+00:00"
 }

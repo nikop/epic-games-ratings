@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1523,
+  "EOS_Progressed": 1524,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 79,
+  "EOS_NewPlayers": 80,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.22,
   "EosHistory": [
@@ -5432,6 +5432,11 @@
       "Time": "2024-01-20T01:50:49.6469289+00:00",
       "NumProgressed": 1523,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-20T02:26:09.5454196+00:00",
+      "NumProgressed": 1524,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5443,7 +5448,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 944
+      "UsersEstimate": 945
     },
     {
       "ID": "MQ01_2",
@@ -5451,7 +5456,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "MQ02_1",
@@ -5459,7 +5464,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 822
+      "UsersEstimate": 823
     },
     {
       "ID": "MQ02_2",
@@ -5547,7 +5552,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "MQ05_1",
@@ -5563,7 +5568,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MQ05_3",
@@ -5611,7 +5616,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 624
+      "UsersEstimate": 625
     },
     {
       "ID": "MQ07_1",
@@ -5627,7 +5632,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 609
+      "UsersEstimate": 610
     },
     {
       "ID": "MQ08_1",
@@ -5635,7 +5640,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 487
+      "UsersEstimate": 488
     },
     {
       "ID": "MQ08_2",
@@ -5666,7 +5671,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1523,
+      "Progressed": 1524,
       "Completed": 49
     }
   ],
@@ -5674,8 +5679,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-19T12:03:49.5981342+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:50:49.6469287+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:26:09.5454194+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:50:32.7277191+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:50:49.6469973+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:25:57.6799182+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:26:09.545482+00:00"
 }

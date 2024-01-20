@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 183,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3490,
+  "EOS_Progressed": 3491,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.97,
   "EosHistory": [
@@ -6707,6 +6707,11 @@
       "Time": "2024-01-20T00:04:59.2887895+00:00",
       "NumProgressed": 3490,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-20T02:26:48.3258489+00:00",
+      "NumProgressed": 3491,
+      "NumCompleted": 34
     }
   ],
   "TotalAchievements": 53,
@@ -6766,7 +6771,7 @@
       "Name": "Elemental master",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "STB_DEFEAT_ARMADILLO",
@@ -6798,7 +6803,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6838,7 +6843,7 @@
       "Name": "Past trauma",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1326
+      "UsersEstimate": 1327
     },
     {
       "ID": "STB_DEFEAT_NIGHTMARE_II",
@@ -6846,7 +6851,7 @@
       "Name": "Little light",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 872
+      "UsersEstimate": 873
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_I",
@@ -6902,7 +6907,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6934,7 +6939,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2652
+      "UsersEstimate": 2653
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6966,7 +6971,7 @@
       "Name": "Sacred Woods",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 942
+      "UsersEstimate": 943
     },
     {
       "ID": "STB_MISSION5A_COMPLETED",
@@ -7022,7 +7027,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2094
+      "UsersEstimate": 2095
     },
     {
       "ID": "STB_PET_HORSE",
@@ -7052,9 +7057,9 @@
       "ID": "STB_SECONDARY_ASSAULT_I",
       "SetID": "3pe2bac",
       "Name": "Ternmoat Headquarters",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 1361
+      "UsersEstimate": 1396
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_II",
@@ -7141,7 +7146,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3490,
+      "Progressed": 3491,
       "Completed": 34
     }
   ],
@@ -7149,8 +7154,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:51:45.7814275+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:26:48.3258486+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:47:36.5519711+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:51:45.7815106+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:22:00.8226288+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:26:48.3259168+00:00"
 }

@@ -29,8 +29,8 @@ Rating: 4.64 (Ranked 347)
 | Fae Farmer | 0.90% | ~82 |
 | Got to Catch Them All | 0.90% | ~82 |
 | Rumble in the Jumble | 0.90% | ~82 |
+| Fanatical Farmer | 0.90% | ~82 |
 | Scattered Scroll Scrounger | 0.80% | ~73 |
-| Fanatical Farmer | 0.80% | ~73 |
 | Azorian Hat Dance | 0.70% | ~12 |
 | Chatty Neighbor | 0.60% | ~55 |
 | I Now Pronounce You... | 0.50% | ~46 |

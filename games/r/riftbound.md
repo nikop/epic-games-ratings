@@ -14,13 +14,13 @@
 | Hold The Line | 9.00% | ~4 |
 | Ender Ender | 6.00% | ~3 |
 | Full House | 4.00% | ~2 |
+| Over 9000 | 4.00% | ~2 |
 | Tactical Spectacular | 4.00% | ~2 |
 | Worker Wisp | 4.00% | ~2 |
 | Adept Summoner | 2.00% | ~1 |
 | Apprentice Summoner | 2.00% | ~1 |
 | Catch 'em All | 2.00% | ~1 |
 | Challenger, Ready! | 2.00% | ~1 |
-| Over 9000 | 2.00% | ~1 |
 | Undead Slayer | 2.00% | ~1 |
 | Brave Younglings | 0.00% | ~0 |
 | Expert Summoner | 0.00% | ~0 |

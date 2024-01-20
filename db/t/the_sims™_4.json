@@ -2,13 +2,13 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 380,
+  "Ranking_Rating": 381,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -12131,10 +12131,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 15878,
       "NumberOfAwardsMax": 3104
+    },
+    {
+      "Time": "2024-01-20T02:25:48.291354+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 15930,
+      "NumberOfAwardsMax": 3104
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15878,
+  "NumberOfAwards": 15930,
   "NumberOfAwardsMax": 3104,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12154,7 +12160,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2355
+      "Count": 2386
     },
     {
       "Text": "This game has a Creative Community",
@@ -12196,13 +12202,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 977
+      "Count": 988
     },
     {
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 1084
+      "Count": 1094
     }
   ],
   "EOS_Progressed": 0,
@@ -12225,9 +12231,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-01-20T01:50:18.31369+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:56:04.1886538+00:00",
+  "LastChanged": "2024-01-20T02:25:48.2913538+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:31:16.0927198+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:18.7759444+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:50:18.3136906+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:56:04.1886556+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:25:48.2913545+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:31:16.0927217+00:00"
 }

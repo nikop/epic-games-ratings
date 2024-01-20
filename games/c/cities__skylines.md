@@ -6,24 +6,24 @@ Number of Ratings: 25,248  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pioneer | 71.00% | ~902,501 |
-| Green Energy | 59.00% | ~749,966 |
-| Foggy Weather | 58.00% | ~737,254 |
-| Singing In The- | 58.00% | ~737,254 |
-| Unpopular Mayor | 40.00% | ~508,451 |
-| Power at Your Fingertips | 33.00% | ~419,472 |
-| City Planner | 22.00% | ~279,648 |
-| Rolling in Dough | 20.00% | ~254,226 |
-| Does My Bum Look Big In This? | 17.00% | ~216,092 |
-| Climbing the Social Ladder | 16.00% | ~203,380 |
-| Safe City | 13.00% | ~165,247 |
-| Quay-King | 11.00% | ~139,824 |
-| With Canals You Can! | 10.00% | ~127,113 |
-| Lawmaker | 9.00% | ~114,402 |
-| Nomen Est Omen | 7.00% | ~88,979 |
-| Well Informed | 6.00% | ~76,268 |
-| Fire Watch | 5.00% | ~63,556 |
-| Greenest City | 4.00% | ~50,845 |
+| Pioneer | 71.00% | ~902,514 |
+| Green Energy | 59.00% | ~749,976 |
+| Foggy Weather | 58.00% | ~737,265 |
+| Singing In The- | 58.00% | ~737,265 |
+| Unpopular Mayor | 40.00% | ~508,458 |
+| Power at Your Fingertips | 33.00% | ~419,478 |
+| City Planner | 22.00% | ~279,652 |
+| Rolling in Dough | 20.00% | ~254,229 |
+| Does My Bum Look Big In This? | 17.00% | ~216,095 |
+| Climbing the Social Ladder | 16.00% | ~203,383 |
+| Safe City | 13.00% | ~165,249 |
+| Quay-King | 11.00% | ~139,826 |
+| With Canals You Can! | 10.00% | ~127,115 |
+| Lawmaker | 9.00% | ~114,403 |
+| Nomen Est Omen | 7.00% | ~88,980 |
+| Well Informed | 6.00% | ~76,269 |
+| Fire Watch | 5.00% | ~63,557 |
+| Greenest City | 4.00% | ~50,846 |
 | Heavenly City | 3.00% | ~38,134 |
 | Reporting! | 3.00% | ~38,134 |
 | SIMulated City | 3.00% | ~38,134 |
@@ -126,7 +126,7 @@ Number of Ratings: 25,248  (23.09.2022)
 | World of Rotorcraft | 0.10% | ~1,271 |
 | Z00 | 0.10% | ~1,271 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,271,128 (Ranked 12)  
+Progressed: 1,271,146 (Ranked 12)  
 Completed: 11 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,14 +401,14 @@ Completed: 11 (0.00%) (Ranked 406)
 | 2024-01-17 | 1,269,037 | 11 |
 | 2024-01-18 | 1,270,003 | 11 |
 | 2024-01-19 | 1,271,039 | 11 |
-| 2024-01-20 | 1,271,128 | 11 |
+| 2024-01-20 | 1,271,146 | 11 |
 ## Awards
-Max (Great for Beginners): 6,744  (Ranked 60)  
-Sum: 49,595 (Ranked 32)  
+Max (Great for Beginners): 6,757  (Ranked 60)  
+Sum: 49,608 (Ranked 32)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 6,744 |
+| This game is Great for Beginners | 6,757 |
 | This game is Relaxing | 6,552 |
 | This game is Educational | 6,255 |
 | This game has Quickly Understood Controls | 6,074 |
@@ -780,4 +780,4 @@ Diff (max vs sum): 28
 | 2024-01-17 | 4.66 | - | 6,736 | 49,497 |
 | 2024-01-18 | 4.66 | - | 6,744 | 49,552 |
 | 2024-01-19 | 4.66 | - | 6,744 | 49,577 |
-| 2024-01-20 | 4.66 | - | 6,744 | 49,595 |
+| 2024-01-20 | 4.66 | - | 6,757 | 49,608 |

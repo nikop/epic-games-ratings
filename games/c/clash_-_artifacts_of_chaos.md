@@ -14,8 +14,8 @@
 | Amokuali Tower | 27.00% | ~44 |
 | Freedom | 26.00% | ~43 |
 | Winner | 24.00% | ~39 |
-| Omnia Vincit Amor | 22.00% | ~36 |
-| The Pride of Moozhaw | 21.00% | ~34 |
+| Omnia Vincit Amor | 23.00% | ~38 |
+| The Pride of Moozhaw | 22.00% | ~36 |
 | Stilt House | 15.00% | ~25 |
 | Armor Collector | 13.00% | ~21 |
 | Corwid Hill | 12.00% | ~20 |

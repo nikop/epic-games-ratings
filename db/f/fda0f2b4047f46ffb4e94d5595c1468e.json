@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5397,7 +5397,7 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 24022,
+  "EOS_Progressed": 24023,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 0,
@@ -17172,6 +17172,11 @@
       "Time": "2024-01-20T01:56:25.0937391+00:00",
       "NumProgressed": 24022,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T02:31:31.0369422+00:00",
+      "NumProgressed": 24023,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17184,7 +17189,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8167
+      "UsersEstimate": 8168
     },
     {
       "ID": "ach02",
@@ -17232,7 +17237,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11050
+      "UsersEstimate": 11051
     },
     {
       "ID": "ach08",
@@ -17352,7 +17357,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4804
+      "UsersEstimate": 4805
     },
     {
       "ID": "ach23",
@@ -17368,7 +17373,7 @@
       "Name": "Ultimate Power",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 6966
+      "UsersEstimate": 6967
     },
     {
       "ID": "ach25",
@@ -17400,7 +17405,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "ach29",
@@ -17448,7 +17453,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "ach35",
@@ -17472,7 +17477,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11290
+      "UsersEstimate": 11291
     },
     {
       "ID": "ach38",
@@ -17480,7 +17485,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8167
+      "UsersEstimate": 8168
     },
     {
       "ID": "ach39",
@@ -17504,7 +17509,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5765
+      "UsersEstimate": 5766
     },
     {
       "ID": "ach42",
@@ -17583,7 +17588,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24022,
+      "Progressed": 24023,
       "Completed": 2
     }
   ],
@@ -17591,8 +17596,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-20T01:50:06.9659122+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:56:25.0937389+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:31:31.0369419+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:50:06.9659126+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:56:25.0938179+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:25:40.8421136+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:31:31.0370592+00:00"
 }

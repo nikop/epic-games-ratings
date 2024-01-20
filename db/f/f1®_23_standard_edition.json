@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 126,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1581,9 +1581,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18461,
+  "EOS_Progressed": 18462,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12276,6 +12276,11 @@
       "Time": "2024-01-20T01:55:22.4478224+00:00",
       "NumProgressed": 18461,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T02:30:46.2959138+00:00",
+      "NumProgressed": 18462,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12400,7 +12405,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "achievement_0016",
@@ -12416,7 +12421,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "achievement_0018",
@@ -12448,7 +12453,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12553
+      "UsersEstimate": 12554
     },
     {
       "ID": "achievement_0022",
@@ -12456,7 +12461,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4615
+      "UsersEstimate": 4616
     },
     {
       "ID": "achievement_0023",
@@ -12504,7 +12509,7 @@
       "Name": "Spinning Around",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "achievement_0029",
@@ -12544,7 +12549,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8492
+      "UsersEstimate": 8493
     },
     {
       "ID": "achievement_0034",
@@ -12640,7 +12645,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4615
+      "UsersEstimate": 4616
     },
     {
       "ID": "achievement_0046",
@@ -12679,7 +12684,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18461,
+      "Progressed": 18462,
       "Completed": 0
     }
   ],
@@ -12687,8 +12692,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-19T20:59:01.8213662+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:55:22.4478223+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:30:46.2959135+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:45:58.7900942+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:55:22.4478951+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:20:55.4666408+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:30:46.2960152+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2321,9 +2321,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22570,
+  "EOS_Progressed": 22572,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14456,6 +14456,11 @@
       "Time": "2024-01-20T00:10:44.6989366+00:00",
       "NumProgressed": 22570,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-20T02:32:25.824314+00:00",
+      "NumProgressed": 22572,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14571,7 +14576,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5191
+      "UsersEstimate": 5192
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14579,7 +14584,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1128
+      "UsersEstimate": 1129
     },
     {
       "ID": "KILL_2HEAD",
@@ -14595,7 +14600,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4965
+      "UsersEstimate": 4966
     },
     {
       "ID": "KILL_ROBOT",
@@ -14603,7 +14608,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2708
+      "UsersEstimate": 2709
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14627,7 +14632,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4288
+      "UsersEstimate": 4289
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14675,7 +14680,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3611
+      "UsersEstimate": 3612
     },
     {
       "ID": "STORY_HANGAR",
@@ -14699,7 +14704,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5868
+      "UsersEstimate": 5869
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14842,13 +14847,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22570,
+      "Progressed": 22572,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10496,
+      "Progressed": 10498,
       "Completed": 29
     }
   ],
@@ -14856,8 +14861,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-20T01:50:40.5262185+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:57:42.8149866+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:25.8243137+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:50:40.5262192+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:57:42.8151269+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:26:03.1586106+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:25.8243973+00:00"
 }

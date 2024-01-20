@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 28,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9691,10 +9691,10 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254805,
+  "EOS_Progressed": 254811,
   "EOS_Completed": 2626,
-  "EOS_NewPlayers": 1190,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 1192,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -40861,6 +40861,11 @@
       "Time": "2024-01-20T01:58:18.3466015+00:00",
       "NumProgressed": 254805,
       "NumCompleted": 2626
+    },
+    {
+      "Time": "2024-01-20T02:32:53.5464156+00:00",
+      "NumProgressed": 254811,
+      "NumCompleted": 2626
     }
   ],
   "TotalAchievements": 546,
@@ -43094,9 +43099,9 @@
       "ID": "objective_completed_550",
       "SetID": "cc37lbc",
       "Name": "Lair of the Xanathar",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_551",
@@ -45239,21 +45244,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221079,
+      "Progressed": 221085,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254805,
+      "Progressed": 254811,
       "Completed": 2626
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T22:59:49.4282437+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:58:18.3466014+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:53.5464154+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:48:12.8724836+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:58:18.3488323+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:22:25.7263784+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:53.5487375+00:00"
 }

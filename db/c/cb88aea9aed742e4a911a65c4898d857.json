@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 112,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11875,
+  "EOS_Progressed": 11876,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 657,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5531,6 +5531,11 @@
       "Time": "2024-01-20T01:58:06.262117+00:00",
       "NumProgressed": 11875,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T02:32:43.1265344+00:00",
+      "NumProgressed": 11876,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5543,7 +5548,7 @@
       "Name": "Conspiracy",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 2612
+      "UsersEstimate": 2613
     },
     {
       "ID": "03_TheStolenStar",
@@ -5719,7 +5724,7 @@
       "Name": "Highrise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 712
+      "UsersEstimate": 713
     },
     {
       "ID": "25_DynastyProspers",
@@ -6062,7 +6067,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11875,
+      "Progressed": 11876,
       "Completed": 1
     }
   ],
@@ -6070,8 +6075,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-19T17:59:53.1997648+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:58:06.2621168+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:43.1265341+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:48:25.7765612+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:58:06.2621795+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:22:34.0455446+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:43.126612+00:00"
 }

@@ -185,9 +185,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107456,
+  "EOS_Progressed": 107457,
   "EOS_Completed": 365,
-  "EOS_NewPlayers": 1140,
+  "EOS_NewPlayers": 1139,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -14460,6 +14460,11 @@
       "Time": "2024-01-20T01:53:07.1925541+00:00",
       "NumProgressed": 107456,
       "NumCompleted": 365
+    },
+    {
+      "Time": "2024-01-20T02:27:45.8959188+00:00",
+      "NumProgressed": 107457,
+      "NumCompleted": 365
     }
   ],
   "AchievementsAdded": "2023-09-15T07:03:16.7096023+00:00",
@@ -14472,7 +14477,7 @@
       "Name": "Forest Stage Discovered",
       "Percentage": 90,
       "XP": 100,
-      "UsersEstimate": 96710
+      "UsersEstimate": 96711
     },
     {
       "ID": "JB_is_Playing",
@@ -14512,7 +14517,7 @@
       "Name": "Lamp Post Illuminated",
       "Percentage": 91,
       "XP": 100,
-      "UsersEstimate": 97785
+      "UsersEstimate": 97786
     },
     {
       "ID": "Lights_On",
@@ -14543,7 +14548,7 @@
     {
       "ID": "8a67465",
       "IsBase": true,
-      "Progressed": 107456,
+      "Progressed": 107457,
       "Completed": 365
     }
   ],
@@ -14551,8 +14556,8 @@
   "FirstSeenRating": "2023-09-27T18:00:22.5093748+00:00",
   "FirstSeenAchievements": "2023-09-14T15:02:30.0133191+00:00",
   "LastChanged": "2024-01-16T03:01:30.073733+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:53:07.1925539+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:27:45.8959186+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.3194312+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:45:40.6590256+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:53:07.1926466+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:20:42.7443308+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:27:45.8960012+00:00"
 }

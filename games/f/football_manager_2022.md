@@ -13,21 +13,21 @@ Number of Ratings: 19,160  (23.09.2022)
 | I'm The Boss! | 42.00% | ~201,395 |
 | Hat-trick | 41.00% | ~196,600 |
 | Scoring Streak | 38.00% | ~182,215 |
-| Unbeatable! | 37.00% | ~177,419 |
-| Thumping | 37.00% | ~177,419 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,829 |
+| Unbeatable! | 37.00% | ~177,420 |
+| Thumping | 37.00% | ~177,420 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,830 |
 | Total Support | 32.00% | ~153,444 |
 | Record Signing | 32.00% | ~153,444 |
 | He's a Natural | 31.00% | ~148,649 |
 | Millionaire's Club | 31.00% | ~148,649 |
 | Team Performance | 30.00% | ~143,854 |
-| Parked The Bus | 29.00% | ~139,058 |
-| Shrewd Spender | 29.00% | ~139,058 |
-| Star Man | 29.00% | ~139,058 |
-| Attack! | 28.00% | ~134,263 |
-| You're On Fire | 27.00% | ~129,468 |
-| Tremendous Trio | 27.00% | ~129,468 |
-| Record Sale | 27.00% | ~129,468 |
+| Parked The Bus | 29.00% | ~139,059 |
+| Shrewd Spender | 29.00% | ~139,059 |
+| Star Man | 29.00% | ~139,059 |
+| Attack! | 28.00% | ~134,264 |
+| You're On Fire | 27.00% | ~129,469 |
+| Tremendous Trio | 27.00% | ~129,469 |
+| Record Sale | 27.00% | ~129,469 |
 | On A Roll | 26.00% | ~124,673 |
 | Unstoppable Force | 26.00% | ~124,673 |
 | Armchair Expert | 25.00% | ~119,878 |
@@ -41,8 +41,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~105,493 |
 | What A Goal! | 22.00% | ~105,493 |
 | Cup Glory! | 22.00% | ~105,493 |
-| Irresistible Force | 20.00% | ~95,902 |
-| Excellent Match Cohesion | 20.00% | ~95,902 |
+| Irresistible Force | 20.00% | ~95,903 |
+| Excellent Match Cohesion | 20.00% | ~95,903 |
 | Do The Double | 19.00% | ~91,107 |
 | Top Form | 17.00% | ~81,517 |
 | Cash To Burn | 17.00% | ~81,517 |
@@ -53,7 +53,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Window Shopping | 15.00% | ~71,927 |
 | Comeback King! | 14.00% | ~67,132 |
 | You're Up! | 13.00% | ~62,337 |
-| Money, Money, Money | 12.00% | ~57,541 |
+| Money, Money, Money | 12.00% | ~57,542 |
 | Invincible! | 11.00% | ~52,746 |
 | Superb Strike | 10.00% | ~47,951 |
 | International Superstar | 10.00% | ~47,951 |
@@ -70,7 +70,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Head-to-Head | 6.00% | ~28,771 |
 | Going Places | 5.00% | ~23,976 |
 | We Trust You | 5.00% | ~23,976 |
-| Trophy Hoarder | 4.00% | ~19,180 |
+| Trophy Hoarder | 4.00% | ~19,181 |
 | National Hero | 3.00% | ~14,385 |
 | Golden Boot | 3.00% | ~14,385 |
 | Freedom Of The Country | 3.00% | ~14,385 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~480 |
 | Shoestring Budget | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,512 (Ranked 44)  
+Progressed: 479,513 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 22 (0.00%) (Ranked 406)
 | 2024-01-17 | 479,426 | 22 |
 | 2024-01-18 | 479,467 | 22 |
 | 2024-01-19 | 479,507 | 22 |
-| 2024-01-20 | 479,512 | 22 |
+| 2024-01-20 | 479,513 | 22 |
 ## Awards
 Max (Relaxing): 6,498  (Ranked 64)  
 Sum: 51,276 (Ranked 31)  

@@ -49,8 +49,8 @@ Rating: 3.67 (Ranked 1,101)
 | Bloody Initiate | 1.00% | ~24 |
 | Good Samaritan | 1.00% | ~24 |
 | Sisterhood | 0.90% | ~22 |
+| Dexterity Save | 0.90% | ~22 |
 | Monster Hunters Club | 0.80% | ~19 |
-| Dexterity Save | 0.80% | ~19 |
 | Scream Team | 0.70% | ~17 |
 | Friendgineering | 0.70% | ~17 |
 | Under a Bushel | 0.70% | ~17 |

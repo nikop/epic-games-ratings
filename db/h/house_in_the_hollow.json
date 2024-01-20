@@ -4,8 +4,8 @@
   "ProductSlug": "house-in-the-hollow-2167d5",
   "Ranking_EOS_Progress": 772,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
     "PcReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -199,8 +199,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:53:29.3401151+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:51:19.4574891+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:26:29.9918921+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:12.2559943+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:49:05.500515+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:51:19.4574963+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:25:20.2253899+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:26:29.9919015+00:00"
 }

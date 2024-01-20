@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 114,
   "Ranking_EOS_Completed": 29,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 73992,
+  "EOS_Progressed": 74014,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4485,
+  "EOS_NewPlayers": 4493,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 15.89,
   "EosHistory": [
@@ -17255,6 +17255,11 @@
       "Time": "2024-01-20T01:57:14.0474355+00:00",
       "NumProgressed": 73992,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-20T02:32:05.8730727+00:00",
+      "NumProgressed": 74014,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -17275,7 +17280,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 55494
+      "UsersEstimate": 55510
     },
     {
       "ID": "grenadeKills",
@@ -17291,7 +17296,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2960
+      "UsersEstimate": 2961
     },
     {
       "ID": "headshots1000",
@@ -17378,7 +17383,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 73992,
+      "Progressed": 74014,
       "Completed": 11760
     }
   ],
@@ -17386,8 +17391,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:57:14.0474352+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:32:05.8730723+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.4134759+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:44:18.3511705+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:57:14.0475446+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:19:46.4997775+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:32:05.8731822+00:00"
 }

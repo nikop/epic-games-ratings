@@ -4,8 +4,8 @@
   "ProductSlug": "riox-31753b",
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T17:56:56.2861002+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:44:16.5439818+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:52:19.9416403+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:19:45.2158523+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:27:12.4100675+00:00"
 }

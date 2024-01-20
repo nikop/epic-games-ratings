@@ -4,8 +4,8 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1579,
+  "EOS_Progressed": 1580,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3610,6 +3610,11 @@
       "Time": "2024-01-20T01:55:26.8040038+00:00",
       "NumProgressed": 1579,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T02:30:49.3736821+00:00",
+      "NumProgressed": 1580,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3662,7 +3667,7 @@
       "Name": "Unblurred Lines",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_BOT_BOSS",
@@ -3710,7 +3715,7 @@
       "Name": "Exhaustive Explorer",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
@@ -3718,7 +3723,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 647
+      "UsersEstimate": 648
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3726,7 +3731,7 @@
       "Name": "Obsessively Thorough",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR",
@@ -3798,7 +3803,7 @@
       "Name": "Long Live Rock",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -3822,7 +3827,7 @@
       "Name": "Effective Efficiency",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "ACHIEVEMENT_SCORE_WIN2WIN",
@@ -3861,14 +3866,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1579,
+      "Progressed": 1580,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-20T01:55:26.8040036+00:00",
+  "LastChanged_Achievements": "2024-01-20T02:30:49.3736817+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.5515902+00:00",
-  "LastUpdate_Ratings": "2024-01-20T01:48:14.7937177+00:00",
-  "LastUpdate_Achievements": "2024-01-20T01:55:26.8040431+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:22:26.9568451+00:00",
+  "LastUpdate_Achievements": "2024-01-20T02:30:49.3737212+00:00"
 }
