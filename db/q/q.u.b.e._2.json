@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47870,
+  "EOS_Progressed": 47871,
   "EOS_Completed": 243,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 634,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -14811,6 +14811,11 @@
       "Time": "2024-01-20T02:32:07.8068101+00:00",
       "NumProgressed": 47870,
       "NumCompleted": 243
+    },
+    {
+      "Time": "2024-01-20T03:09:09.796392+00:00",
+      "NumProgressed": 47871,
+      "NumCompleted": 243
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14823,7 +14828,7 @@
       "Name": "Descendants",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 7180
+      "UsersEstimate": 7181
     },
     {
       "ID": "ACH_BLUEEND",
@@ -14983,7 +14988,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24892
+      "UsersEstimate": 24893
     },
     {
       "ID": "ACH_PEAK",
@@ -15023,7 +15028,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 23935
+      "UsersEstimate": 23936
     },
     {
       "ID": "ACH_S5",
@@ -15039,7 +15044,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35902
+      "UsersEstimate": 35903
     },
     {
       "ID": "ACH_STATUE",
@@ -15047,22 +15052,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20584
+      "UsersEstimate": 20585
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47870,
+      "Progressed": 47871,
       "Completed": 243
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:07.8068098+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:09.7963918+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:20.0193731+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:19:54.7411287+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:07.8069015+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:57:16.5213832+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:09.7964555+00:00"
 }

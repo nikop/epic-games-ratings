@@ -1,11 +1,11 @@
 # Detroit: Become Human
 [Store](https://store.epicgames.com/en-US/p/detroit-become-human)  
 [View Rawdata](../../db/d/detroit__become_human.json)  
-Rating: 4.87 (Ranked 25)  
+Rating: 4.86 (Ranked 33)  
 Number of Ratings: 3,910  (23.09.2022)  
 ## Awards
 Max (Impact the Story): 1,581  (Ranked 139)  
-Sum: 1,768 (Ranked 228)  
+Sum: 1,769 (Ranked 228)  
 Diff (max vs sum): -89  
 | Award | Count |
 | ----- | ----- |
@@ -15,9 +15,9 @@ Diff (max vs sum): -89
 | This game has Amazing Characters | 24 |
 | This game is Educational | 24 |
 | This game is Great for Beginners | 23 |
+| This game has Amazing Storytelling | 22 |
 | This game has a Creative Community | 22 |
 | This game is Highly Recommended | 21 |
-| This game has Amazing Storytelling | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -224,3 +224,4 @@ Diff (max vs sum): -89
 | 2024-01-17 | 4.87 | - | 1,575 | 1,762 |
 | 2024-01-18 | 4.87 | - | 1,576 | 1,763 |
 | 2024-01-19 | 4.87 | - | 1,581 | 1,768 |
+| 2024-01-20 | 4.86 | - | 1,581 | 1,769 |

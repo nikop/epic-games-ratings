@@ -9691,9 +9691,9 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254811,
+  "EOS_Progressed": 254815,
   "EOS_Completed": 2626,
-  "EOS_NewPlayers": 1192,
+  "EOS_NewPlayers": 1186,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40866,6 +40866,11 @@
       "Time": "2024-01-20T02:32:53.5464156+00:00",
       "NumProgressed": 254811,
       "NumCompleted": 2626
+    },
+    {
+      "Time": "2024-01-20T03:09:56.2000858+00:00",
+      "NumProgressed": 254815,
+      "NumCompleted": 2626
     }
   ],
   "TotalAchievements": 546,
@@ -40877,7 +40882,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10192
+      "UsersEstimate": 10193
     },
     {
       "ID": "objective_completed_10",
@@ -42669,7 +42674,7 @@
       "Name": "Seeking Allies",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "objective_completed_390",
@@ -43013,7 +43018,7 @@
       "Name": "Mad Cow Disease",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "objective_completed_54",
@@ -44093,7 +44098,7 @@
       "Name": "Friendly Imps",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "objective_completed_80",
@@ -45244,21 +45249,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221085,
+      "Progressed": 221089,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254811,
+      "Progressed": 254815,
       "Completed": 2626
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T22:59:49.4282437+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:53.5464154+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:56.2000856+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:22:25.7263784+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:53.5487375+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:59:48.1265632+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:56.2022873+00:00"
 }

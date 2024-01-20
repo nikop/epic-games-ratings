@@ -4,7 +4,7 @@
   "ProductSlug": "batman-arkham-city",
   "Ranking_Rating": 100,
   "Ranking_Popularity": 137,
-  "Ranking_PopularitySum": 213,
+  "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 550,
@@ -2326,10 +2326,16 @@
       "Rating": 4.79,
       "NumberOfAwards": 2232,
       "NumberOfAwardsMax": 1647
+    },
+    {
+      "Time": "2024-01-20T03:00:06.5053307+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 2233,
+      "NumberOfAwardsMax": 1647
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2232,
+  "NumberOfAwards": 2233,
   "NumberOfAwardsMax": 1647,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2355,7 +2361,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 80
+      "Count": 81
     },
     {
       "Text": "This game is Relaxing",
@@ -2399,8 +2405,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:15.6256322+00:00",
-  "LastChanged": "2024-01-19T21:01:51.8430456+00:00",
+  "LastChanged": "2024-01-20T03:00:06.5053306+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:16.19037+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:22:44.6733972+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:30:56.2027051+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:00:06.505331+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:07:58.2364091+00:00"
 }

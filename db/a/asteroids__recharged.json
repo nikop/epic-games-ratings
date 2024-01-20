@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 324,
   "Ranking_EOS_NewPlayers": 80,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7710,
+  "EOS_Progressed": 7712,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1217,
+  "EOS_NewPlayers": 1216,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3009,6 +3009,11 @@
       "Time": "2024-01-20T02:31:19.7818321+00:00",
       "NumProgressed": 7710,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-20T03:08:21.8299752+00:00",
+      "NumProgressed": 7712,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -3084,7 +3089,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 3547
+      "UsersEstimate": 3548
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3108,7 +3113,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 3932
+      "UsersEstimate": 3933
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3147,7 +3152,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 7710,
+      "Progressed": 7712,
       "Completed": 7
     }
   ],
@@ -3155,8 +3160,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:31:19.7818319+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:08:21.8299749+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:38.5651471+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:22:30.7422275+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:31:19.781866+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:59:53.3183223+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:08:21.8299966+00:00"
 }

@@ -30,7 +30,7 @@ Rating: 3.87 (Ranked 1,080)
 | Ablutomaniac | 12.00% | ~236 |
 | Production Sorter | 11.00% | ~217 |
 | Good Samaritan | 10.00% | ~197 |
-| Acrobatic Adventurer | 9.00% | ~177 |
+| Acrobatic Adventurer | 10.00% | ~197 |
 | Animal Exterminator | 9.00% | ~177 |
 | Adolescent Love | 6.00% | ~118 |
 | Mail Carrier | 6.00% | ~118 |

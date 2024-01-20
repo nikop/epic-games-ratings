@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1809,
+  "EOS_Progressed": 1810,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.24,
   "EosHistory": [
@@ -4619,6 +4619,11 @@
       "Time": "2024-01-20T02:32:38.5106775+00:00",
       "NumProgressed": 1809,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2024-01-20T03:09:41.1129539+00:00",
+      "NumProgressed": 1810,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 30,
@@ -4630,7 +4635,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "LEVEL_002",
@@ -4638,7 +4643,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "LEVEL_003",
@@ -4646,7 +4651,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "LEVEL_004",
@@ -4670,7 +4675,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "LEVEL_007",
@@ -4694,7 +4699,7 @@
       "Name": "Going zig zag",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 470
+      "UsersEstimate": 471
     },
     {
       "ID": "LEVEL_010",
@@ -4742,7 +4747,7 @@
       "Name": "Flatland",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "LEVEL_016",
@@ -4750,7 +4755,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 272
     },
     {
       "ID": "LEVEL_017",
@@ -4869,14 +4874,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1809,
+      "Progressed": 1810,
       "Completed": 131
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:38.5106772+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:41.1129538+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:20:20.5218687+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:38.5107131+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:57:43.4473853+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:41.1129828+00:00"
 }

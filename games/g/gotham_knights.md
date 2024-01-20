@@ -9,7 +9,7 @@ Rating: 4.19 (Ranked 978)
 | Har, Har, Har, Very Funny | 34.00% | ~28,235 |
 | Loose Ends | 33.00% | ~27,405 |
 | To the Victor Go the Spoils | 27.00% | ~22,422 |
-| Knighthood | 26.00% | ~21,591 |
+| Knighthood | 26.00% | ~21,592 |
 | Get ReQ'd | 24.00% | ~19,931 |
 | Whispered Words | 24.00% | ~19,931 |
 | The Batman Family | 22.00% | ~18,270 |
@@ -19,9 +19,9 @@ Rating: 4.19 (Ranked 978)
 | Working Hard or Harley Working? | 20.00% | ~16,609 |
 | Unstoppable Force | 20.00% | ~16,609 |
 | Bad Apples in Every Orchard | 20.00% | ~16,609 |
-| Snow Problem | 19.00% | ~15,778 |
-| The Show Mud Go On | 17.00% | ~14,117 |
-| From Inside Gotham's Walls | 17.00% | ~14,117 |
+| Snow Problem | 19.00% | ~15,779 |
+| The Show Mud Go On | 17.00% | ~14,118 |
+| From Inside Gotham's Walls | 17.00% | ~14,118 |
 | Protector of Gotham | 16.00% | ~13,287 |
 | In Your Element | 15.00% | ~12,457 |
 | Universal Health Scare | 15.00% | ~12,457 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 978)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,044 (Ranked 110)  
+Progressed: 83,045 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
-| 2024-01-20 | 83,044 | 135 |
+| 2024-01-20 | 83,045 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,232  (Ranked 102)  
 Sum: 5,523 (Ranked 145)  

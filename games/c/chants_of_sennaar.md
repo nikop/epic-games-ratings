@@ -5,23 +5,23 @@ Rating: 4.87 (Ranked 25)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 60.00% | ~1,736 |
-| Welcome to the Tower | 54.00% | ~1,563 |
-| The great escape | 47.00% | ~1,360 |
-| The Preacher's fate | 44.00% | ~1,273 |
+| That's the spirit | 60.00% | ~1,738 |
+| Welcome to the Tower | 54.00% | ~1,564 |
+| The great escape | 47.00% | ~1,361 |
+| The Preacher's fate | 44.00% | ~1,274 |
 | A new dawn | 38.00% | ~1,100 |
-| Scholar | 34.00% | ~984 |
-| The darkness | 33.00% | ~955 |
-| A good beginning | 32.00% | ~926 |
-| True G3M4R | 32.00% | ~926 |
-| One last step | 30.00% | ~868 |
-| Cable guy | 29.00% | ~839 |
-| Half the way | 29.00% | ~839 |
-| I did it | 28.00% | ~810 |
-| In this together | 27.00% | ~781 |
-| Peace walker | 27.00% | ~781 |
-| Rascal | 27.00% | ~781 |
-| Champollion | 27.00% | ~781 |
+| Scholar | 34.00% | ~985 |
+| The darkness | 33.00% | ~956 |
+| A good beginning | 32.00% | ~927 |
+| True G3M4R | 32.00% | ~927 |
+| One last step | 30.00% | ~869 |
+| Cable guy | 29.00% | ~840 |
+| Half the way | 29.00% | ~840 |
+| I did it | 28.00% | ~811 |
+| In this together | 27.00% | ~782 |
+| Peace walker | 27.00% | ~782 |
+| Rascal | 27.00% | ~782 |
+| Champollion | 27.00% | ~782 |
 | Open door | 23.00% | ~666 |
 | Feels like springtime | 23.00% | ~666 |
 | Alchemists Express | 22.00% | ~637 |
@@ -29,9 +29,9 @@ Rating: 4.87 (Ranked 25)
 | A Link to the Past | 18.00% | ~521 |
 | A great audience | 15.00% | ~434 |
 | For its own good | 15.00% | ~434 |
-| Fashion victim | 10.00% | ~289 |
+| Fashion victim | 10.00% | ~290 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,894 (Ranked 236)  
+Progressed: 2,896 (Ranked 236)  
 Completed: 222 (7.67%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -213,7 +213,7 @@ Completed: 222 (7.67%) (Ranked 53)
 | 2024-01-17 | 2,841 | 218 |
 | 2024-01-18 | 2,866 | 220 |
 | 2024-01-19 | 2,890 | 222 |
-| 2024-01-20 | 2,894 | 222 |
+| 2024-01-20 | 2,896 | 222 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

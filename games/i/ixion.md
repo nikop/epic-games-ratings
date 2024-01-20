@@ -5,14 +5,14 @@ Rating: 4.60 (Ranked 425)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Wakey Wakey | 34.00% | ~1,436 |
+| Wakey Wakey | 34.00% | ~1,437 |
 | Sputnik 2049 | 30.00% | ~1,268 |
-| Infinite Growth... | 29.00% | ~1,225 |
+| Infinite Growth... | 29.00% | ~1,226 |
 | Without Breaking Some Eggs... | 27.00% | ~1,141 |
 | Space Society | 20.00% | ~845 |
 | A Thousand Strong | 20.00% | ~845 |
 | Ready for a New World | 20.00% | ~845 |
-| Permanent Redesigns | 18.00% | ~760 |
+| Permanent Redesigns | 18.00% | ~761 |
 | Fully Recycled | 16.00% | ~676 |
 | The Ship of Theseus | 16.00% | ~676 |
 | Guy de Borderlands | 15.00% | ~634 |
@@ -44,13 +44,13 @@ Rating: 4.60 (Ranked 425)
 | Delivery! | 3.00% | ~127 |
 | Help of the Forgotten Member | 3.00% | ~127 |
 | Pulsar Disciple | 3.00% | ~127 |
-| Mutual Loyalty | 2.00% | ~84 |
-| Better Him Than Me | 2.00% | ~84 |
-| Tiqqun Contender | 2.00% | ~84 |
-| Catastrophe Avoided | 2.00% | ~84 |
-| You Had One Job... | 2.00% | ~84 |
-| Tiqqun Unchained | 2.00% | ~84 |
-| Scientifically Accurate | 2.00% | ~84 |
+| Mutual Loyalty | 2.00% | ~85 |
+| Better Him Than Me | 2.00% | ~85 |
+| Tiqqun Contender | 2.00% | ~85 |
+| Catastrophe Avoided | 2.00% | ~85 |
+| You Had One Job... | 2.00% | ~85 |
+| Tiqqun Unchained | 2.00% | ~85 |
+| Scientifically Accurate | 2.00% | ~85 |
 | Remember the Dead | 1.00% | ~42 |
 | Gregor Spinoza | 1.00% | ~42 |
 | Work Harder | 0.70% | ~30 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 425)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,225 (Ranked 217)  
+Progressed: 4,226 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 4,209 | 0 |
 | 2024-01-18 | 4,219 | 0 |
 | 2024-01-19 | 4,224 | 0 |
-| 2024-01-20 | 4,225 | 0 |
+| 2024-01-20 | 4,226 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -58,6 +58,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Trader - Level 2 | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
 | Recruit a Dozen Leaders | 0.20% | ~15 |
+| Commodity Selling Guru | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |
 | Commodity Guru | 0.10% | ~8 |
 | Yor Dead Iconians | 0.10% | ~8 |
@@ -68,7 +69,6 @@ Number of Ratings: 429  (23.09.2022)
 | Play a Multiplayer Game | 0.10% | ~8 |
 | Rebuild the Retribution | 0.10% | ~8 |
 | It's OUR Homeworld | 0.10% | ~8 |
-| Commodity Selling Guru | 0.10% | ~8 |
 | Win a Multiplayer Game | 0.10% | ~8 |
 | Against the Tide | 0.00% | ~0 |
 | Breeding Season | 0.00% | ~0 |

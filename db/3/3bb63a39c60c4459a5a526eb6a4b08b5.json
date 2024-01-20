@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1159,
+  "EOS_Progressed": 1160,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -4534,6 +4534,11 @@
       "Time": "2024-01-19T20:10:18.1750711+00:00",
       "NumProgressed": 1159,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T03:09:46.9283972+00:00",
+      "NumProgressed": 1160,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4729,7 +4734,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "Millionaire",
@@ -4761,7 +4766,7 @@
       "Name": "No Way Back",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "NotPlanned",
@@ -4865,7 +4870,7 @@
       "Name": "Time for Management",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "TransportHub",
@@ -4873,21 +4878,21 @@
       "Name": "Transport Hub",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 359
+      "UsersEstimate": 360
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1159,
+      "Progressed": 1160,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:44.0225449+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:46.928397+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.7241323+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:20:38.9632183+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:44.0225845+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:58:01.6965332+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:46.9284339+00:00"
 }

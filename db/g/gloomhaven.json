@@ -3023,9 +3023,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 34696,
+  "EOS_Progressed": 34701,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1616,
+  "EOS_NewPlayers": 1615,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17693,6 +17693,11 @@
       "Time": "2024-01-20T02:32:20.5690111+00:00",
       "NumProgressed": 34696,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T03:09:22.8444811+00:00",
+      "NumProgressed": 34701,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -17873,7 +17878,7 @@
       "Name": "Precious!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5204
+      "UsersEstimate": 5205
     },
     {
       "ID": "Achievement_Trophy23",
@@ -17881,7 +17886,7 @@
       "Name": "Grizzled veteran",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "Achievement_Trophy24",
@@ -17889,7 +17894,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 13184
+      "UsersEstimate": 13186
     },
     {
       "ID": "Achievement_Trophy25",
@@ -17905,7 +17910,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 11450
+      "UsersEstimate": 11451
     },
     {
       "ID": "Achievement_Trophy27",
@@ -17921,7 +17926,7 @@
       "Name": "Vaccine Incoming",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 10756
+      "UsersEstimate": 10757
     },
     {
       "ID": "Achievement_Trophy29",
@@ -17937,7 +17942,7 @@
       "Name": "Spread the plague",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 9021
+      "UsersEstimate": 9022
     },
     {
       "ID": "Achievement_Trophy31",
@@ -17945,7 +17950,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 10062
+      "UsersEstimate": 10063
     },
     {
       "ID": "Achievement_Trophy32",
@@ -17993,7 +17998,7 @@
       "Name": "Get over here!",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 8327
+      "UsersEstimate": 8328
     },
     {
       "ID": "Achievement_Trophy38",
@@ -18001,7 +18006,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5551
+      "UsersEstimate": 5552
     },
     {
       "ID": "Achievement_Trophy39",
@@ -18009,7 +18014,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6592
+      "UsersEstimate": 6593
     },
     {
       "ID": "Achievement_Trophy40",
@@ -18089,7 +18094,7 @@
       "Name": "Anatomy Lesson",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 4857
+      "UsersEstimate": 4858
     },
     {
       "ID": "Achievement_Trophy50",
@@ -18097,7 +18102,7 @@
       "Name": "The Pacifist",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Achievement_Trophy_JOTL_01",
@@ -18105,7 +18110,7 @@
       "Name": "The evil that men do",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     },
     {
       "ID": "Achievement_Trophy_JOTL_02",
@@ -18185,14 +18190,14 @@
       "Name": "Born Support",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 173
+      "UsersEstimate": 174
     }
   ],
   "AchievementSets": [
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 34696,
+      "Progressed": 34701,
       "Completed": 1
     }
   ],
@@ -18200,8 +18205,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-19T14:02:42.9034577+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:20.5690108+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:22.8444809+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.646849+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:25:28.4017779+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:20.569147+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:02:28.6682841+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:22.8445977+00:00"
 }

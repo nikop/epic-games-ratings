@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2454,
+  "EOS_Progressed": 2455,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 429,
   "EOS_NewCompleters": 0,
@@ -3359,6 +3359,11 @@
       "Time": "2024-01-20T01:57:05.0074288+00:00",
       "NumProgressed": 2454,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T03:09:01.3989785+00:00",
+      "NumProgressed": 2455,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -3409,9 +3414,9 @@
       "ID": "FASTEST_LAP_3",
       "SetID": "4nk2039",
       "Name": "Good pace",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 172
+      "UsersEstimate": 196
     },
     {
       "ID": "FINISHED_1",
@@ -3419,7 +3424,7 @@
       "Name": "Greener",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "FINISHED_10",
@@ -3499,7 +3504,7 @@
       "Name": "On the starting grid",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "RESEARCHED_2",
@@ -3611,7 +3616,7 @@
       "Name": "Newcomer",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "XP_1000",
@@ -3650,14 +3655,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2454,
+      "Progressed": 2455,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:31:59.4046323+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:01.3989783+00:00",
   "LastUpdate_AppInfo": "2024-01-15T02:24:36.1155547+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:19:49.2408584+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:31:59.4046794+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:57:11.302722+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:01.3990227+00:00"
 }

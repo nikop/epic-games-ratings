@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 229,
+  "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4225,
+  "EOS_Progressed": 4226,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8724,6 +8724,11 @@
       "Time": "2024-01-20T00:08:38.0751706+00:00",
       "NumProgressed": 4225,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T03:07:59.3968226+00:00",
+      "NumProgressed": 4226,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8751,7 +8756,7 @@
       "Name": "Mutual Loyalty",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_12",
@@ -8759,7 +8764,7 @@
       "Name": "Better Him Than Me",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_14",
@@ -8783,7 +8788,7 @@
       "Name": "Tiqqun Contender",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_17",
@@ -8799,7 +8804,7 @@
       "Name": "Infinite Growth...",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 1225
+      "UsersEstimate": 1226
     },
     {
       "ID": "ACH_BASE_19",
@@ -8823,7 +8828,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACH_BASE_22",
@@ -8895,7 +8900,7 @@
       "Name": "Catastrophe Avoided",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_30",
@@ -8967,7 +8972,7 @@
       "Name": "You Had One Job...",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_4",
@@ -9031,7 +9036,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "ACH_BASE_49",
@@ -9047,7 +9052,7 @@
       "Name": "Tiqqun Unchained",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_50",
@@ -9135,7 +9140,7 @@
       "Name": "Scientifically Accurate",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "ACH_BASE_62",
@@ -9190,13 +9195,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2409,
+      "Progressed": 2410,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4225,
+      "Progressed": 4226,
       "Completed": 0
     }
   ],
@@ -9204,8 +9209,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-17T19:57:40.7931209+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:30:57.1957873+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:07:59.3968223+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.7673694+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:21:16.0171243+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:30:57.195863+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:58:39.9805443+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:07:59.396902+00:00"
 }

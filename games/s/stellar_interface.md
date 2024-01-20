@@ -20,9 +20,9 @@
 | Omicron Alpha | 14.00% | ~11 |
 | Bronze Prince of Ball-air | 11.00% | ~9 |
 | Pacifist | 11.00% | ~9 |
+| 25Gb HDD | 11.00% | ~9 |
 | Collateral Damage I | 11.00% | ~9 |
 | Defrosted | 10.00% | ~8 |
-| 25Gb HDD | 10.00% | ~8 |
 | Sectoral Ensign | 9.00% | ~7 |
 | Rambo II | 9.00% | ~7 |
 | Unstoppable | 9.00% | ~7 |

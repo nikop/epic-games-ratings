@@ -2,12 +2,12 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 34,
+  "Ranking_Rating": 33,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 124,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17443,
+  "EOS_Progressed": 17444,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 522,
+  "EOS_NewPlayers": 520,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12774,6 +12774,11 @@
       "Time": "2024-01-20T01:51:55.9155023+00:00",
       "NumProgressed": 17443,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T03:03:58.4641822+00:00",
+      "NumProgressed": 17444,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12849,7 +12854,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "Ach010",
@@ -12897,7 +12902,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6279
+      "UsersEstimate": 6280
     },
     {
       "ID": "Ach016",
@@ -12961,7 +12966,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9768
+      "UsersEstimate": 9769
     },
     {
       "ID": "Ach024",
@@ -12977,7 +12982,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5407
+      "UsersEstimate": 5408
     },
     {
       "ID": "Ach026",
@@ -12985,7 +12990,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2616
+      "UsersEstimate": 2617
     },
     {
       "ID": "Ach027",
@@ -13025,7 +13030,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5058
+      "UsersEstimate": 5059
     },
     {
       "ID": "Ach032",
@@ -13049,7 +13054,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "Ach035",
@@ -13161,7 +13166,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5058
+      "UsersEstimate": 5059
     },
     {
       "ID": "Ach049",
@@ -13352,13 +13357,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17443,
+      "Progressed": 17444,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15964,
+      "Progressed": 15965,
       "Completed": 1931
     }
   ],
@@ -13366,8 +13371,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:26:55.7656394+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:03:58.4641819+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:20:39.511636+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:26:55.7657512+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:58:02.2455323+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:03:58.4642821+00:00"
 }

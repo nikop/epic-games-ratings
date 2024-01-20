@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29065,
+  "EOS_Progressed": 29068,
   "EOS_Completed": 535,
-  "EOS_NewPlayers": 503,
+  "EOS_NewPlayers": 504,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30056,6 +30056,11 @@
       "Time": "2024-01-20T02:27:40.6525413+00:00",
       "NumProgressed": 29065,
       "NumCompleted": 535
+    },
+    {
+      "Time": "2024-01-20T03:04:43.6442882+00:00",
+      "NumProgressed": 29068,
+      "NumCompleted": 535
     }
   ],
   "TotalAchievements": 20,
@@ -30067,7 +30072,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4650
+      "UsersEstimate": 4651
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -30083,7 +30088,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4070
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -30107,7 +30112,7 @@
       "Name": "Condor condo",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 2906
+      "UsersEstimate": 2907
     },
     {
       "ID": "FOUND_CRAB_ISLAND",
@@ -30131,7 +30136,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4070
     },
     {
       "ID": "FOUND_ERIN",
@@ -30163,7 +30168,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -30187,7 +30192,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22089
+      "UsersEstimate": 22092
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30203,7 +30208,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -30226,15 +30231,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29065,
+      "Progressed": 29068,
       "Completed": 535
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:27:40.6525408+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:04:43.644288+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:20:58.4306292+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:27:40.652751+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:58:21.1237868+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:04:43.6444309+00:00"
 }

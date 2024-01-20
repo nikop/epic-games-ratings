@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 245,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -305,7 +305,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8949,
+  "EOS_Progressed": 8950,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 1,
@@ -11735,6 +11735,11 @@
       "Time": "2024-01-20T01:51:07.6511664+00:00",
       "NumProgressed": 8949,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-20T03:03:25.0452688+00:00",
+      "NumProgressed": 8950,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 21,
@@ -11794,7 +11799,7 @@
       "Name": "Energy Saver",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "FASHION_FAUX_PAS",
@@ -11816,9 +11821,9 @@
       "ID": "GLOBE_TROTTER",
       "SetID": "3cck1g6",
       "Name": "Globe Trotter",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 63
+      "UsersEstimate": 72
     },
     {
       "ID": "HAPPY_CAMPER",
@@ -11898,7 +11903,7 @@
       "Name": "The Journey Onwards",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "THING",
@@ -11913,7 +11918,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8949,
+      "Progressed": 8950,
       "Completed": 36
     }
   ],
@@ -11921,8 +11926,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-16T21:59:20.6458805+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:26:22.1867635+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:03:25.0452685+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.9281715+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:22:38.8536358+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:26:22.1868283+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:00:00.9231013+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:03:25.0453338+00:00"
 }

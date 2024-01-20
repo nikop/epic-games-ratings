@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 111,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11076,9 +11076,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133263,
+  "EOS_Progressed": 133265,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40681,6 +40681,11 @@
       "Time": "2024-01-20T02:32:39.7522479+00:00",
       "NumProgressed": 133263,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T03:09:42.4691306+00:00",
+      "NumProgressed": 133265,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40820,7 +40825,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9329
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40852,7 +40857,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9329
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40916,7 +40921,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9328
+      "UsersEstimate": 9329
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41228,7 +41233,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1138
+      "UsersEstimate": 1139
     },
     {
       "ID": "combat_kill_collector",
@@ -41323,21 +41328,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133263,
+      "Progressed": 133265,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8132,
+      "Progressed": 8134,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-20T01:44:49.9484343+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:39.7522477+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:42.4691303+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:20:09.052891+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:39.7524605+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:57:31.8168578+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:42.4693093+00:00"
 }

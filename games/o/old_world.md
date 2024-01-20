@@ -60,6 +60,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egyptian Paganism | 2.00% | ~340 |
 | Roman Paganism | 2.00% | ~340 |
 | Zoroastrianism | 2.00% | ~340 |
+| Mythology | 2.00% | ~340 |
 | Hanging Gardens in Babylon | 1.00% | ~170 |
 | Beloved | 1.00% | ~170 |
 | Intercessor | 1.00% | ~170 |
@@ -81,7 +82,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 1.00% | ~170 |
 | Persian Paganism | 1.00% | ~170 |
 | Building Wonders | 1.00% | ~170 |
-| Mythology | 1.00% | ~170 |
 | Points Victory | 1.00% | ~170 |
 | Win a Single Player Game | 1.00% | ~170 |
 | Victorious | 0.90% | ~153 |
@@ -106,6 +106,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Assyrian Paganism | 0.80% | ~136 |
+| Industrial Progress | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
@@ -114,7 +115,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.70% | ~119 |
 | Babylonia | 0.70% | ~119 |
 | Hittite Paganism | 0.70% | ~119 |
-| Industrial Progress | 0.70% | ~119 |
 | Enlightenment | 0.70% | ~119 |
 | Gnosticism | 0.70% | ~119 |
 | Redemption | 0.70% | ~119 |
@@ -136,12 +136,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Cavalry | 0.60% | ~102 |
 | Turreted Elephant | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
+| Deposed Tribe | 0.60% | ~102 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
 | Old | 0.50% | ~85 |
 | Learn to Play 5 | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
-| Deposed Tribe | 0.50% | ~85 |
 | Jebel Barkal | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |

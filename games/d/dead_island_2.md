@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,721 |
-| Break A Leg | 9.00% | ~72,590 |
-| Hotel California | 9.00% | ~72,590 |
-| Coup de Grâce | 8.00% | ~64,524 |
-| Hazardous Materials | 8.00% | ~64,524 |
-| Git Gutte! | 7.00% | ~56,459 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,459 |
-| Dr. Reed, I Presume? | 6.00% | ~48,393 |
-| Bookworm | 6.00% | ~48,393 |
-| Friends Like These | 6.00% | ~48,393 |
-| Apex Predator | 6.00% | ~48,393 |
-| Stacking the Deck | 6.00% | ~48,393 |
+| Welcome To Hell-A | 11.00% | ~88,722 |
+| Break A Leg | 9.00% | ~72,591 |
+| Hotel California | 9.00% | ~72,591 |
+| Coup de Grâce | 8.00% | ~64,525 |
+| Hazardous Materials | 8.00% | ~64,525 |
+| Git Gutte! | 7.00% | ~56,460 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,460 |
+| Dr. Reed, I Presume? | 6.00% | ~48,394 |
+| Bookworm | 6.00% | ~48,394 |
+| Friends Like These | 6.00% | ~48,394 |
+| Apex Predator | 6.00% | ~48,394 |
+| Stacking the Deck | 6.00% | ~48,394 |
 | Anger Management | 5.00% | ~40,328 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,328 |
 | But Doctor, I am Butcho | 5.00% | ~40,328 |
 | Can't Handle the Truth | 5.00% | ~40,328 |
 | This is My Weapon | 5.00% | ~40,328 |
-| Making Your Mark | 4.00% | ~32,262 |
-| Perks of the Job | 4.00% | ~32,262 |
-| Slayer Squad | 4.00% | ~32,262 |
-| Like Riding a Bike | 4.00% | ~32,262 |
-| Zombologist | 4.00% | ~32,262 |
-| Ooh, Shiny! | 4.00% | ~32,262 |
-| A Patton Emerges | 4.00% | ~32,262 |
-| I Am the Resurrection | 4.00% | ~32,262 |
-| Our True Nature | 4.00% | ~32,262 |
+| Making Your Mark | 4.00% | ~32,263 |
+| Perks of the Job | 4.00% | ~32,263 |
+| Slayer Squad | 4.00% | ~32,263 |
+| Like Riding a Bike | 4.00% | ~32,263 |
+| Zombologist | 4.00% | ~32,263 |
+| Ooh, Shiny! | 4.00% | ~32,263 |
+| A Patton Emerges | 4.00% | ~32,263 |
+| I Am the Resurrection | 4.00% | ~32,263 |
+| Our True Nature | 4.00% | ~32,263 |
 | Whatever It Takes | 4.00% | ~5,284 |
 | Pork Chopped | 4.00% | ~5,284 |
 | Humanity Distilled | 3.00% | ~24,197 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 552)
 | Bucket List | 0.10% | ~807 |
 | Wilhelm | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806,551 (Ranked 23)  
+Progressed: 806,568 (Ranked 23)  
 Completed: 2,607 (0.32%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 2,607 (0.32%) (Ranked 259)
 | 2024-01-17 | 805,399 | 2,596 |
 | 2024-01-18 | 805,908 | 2,599 |
 | 2024-01-19 | 806,486 | 2,606 |
-| 2024-01-20 | 806,551 | 2,607 |
+| 2024-01-20 | 806,568 | 2,607 |
 ## Awards
 Max (Great Boss Battles): 10,659  (Ranked 40)  
 Sum: 16,370 (Ranked 71)  

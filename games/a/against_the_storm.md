@@ -55,7 +55,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Like a Machine | 1.00% | ~209 |
 | Prestigious Expedition | 0.60% | ~125 |
 | Blood Flower Farmer | 0.60% | ~125 |
-| Fox Utopia | 0.50% | ~104 |
+| Fox Utopia | 0.50% | ~105 |
 | Human Utopia | 0.40% | ~84 |
 | Beaver Utopia | 0.30% | ~63 |
 | Lizard Utopia | 0.30% | ~63 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,900 (Ranked 157)  
+Progressed: 20,901 (Ranked 157)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-17 | 20,854 | 35 |
 | 2024-01-18 | 20,874 | 35 |
 | 2024-01-19 | 20,898 | 35 |
-| 2024-01-20 | 20,900 | 35 |
+| 2024-01-20 | 20,901 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 454  (Ranked 234)  
 Sum: 3,398 (Ranked 179)  

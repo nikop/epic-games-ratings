@@ -426,9 +426,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 209414,
+  "EOS_Progressed": 209417,
   "EOS_Completed": 566,
-  "EOS_NewPlayers": 380,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -29766,6 +29766,11 @@
       "Time": "2024-01-20T02:26:25.1525975+00:00",
       "NumProgressed": 209414,
       "NumCompleted": 566
+    },
+    {
+      "Time": "2024-01-20T03:03:28.0891814+00:00",
+      "NumProgressed": 209417,
+      "NumCompleted": 566
     }
   ],
   "TotalAchievements": 29,
@@ -29801,7 +29806,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196849
+      "UsersEstimate": 196852
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -29825,7 +29830,7 @@
       "Name": "A full deck.",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACHIEVEMENT_COCKPIT",
@@ -29849,7 +29854,7 @@
       "Name": "Answers can be found amongst the stars",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTED",
@@ -29945,7 +29950,7 @@
       "Name": "Bend to the will of the arrows.",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 6282
+      "UsersEstimate": 6283
     },
     {
       "ID": "ACHIEVEMENT_SECRET",
@@ -29953,7 +29958,7 @@
       "Name": "14237b6509eafd8c",
       "Percentage": 0.6,
       "XP": 80,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "ACHIEVEMENT_SNOOPER",
@@ -29961,7 +29966,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20941
+      "UsersEstimate": 20942
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -30008,7 +30013,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209414,
+      "Progressed": 209417,
       "Completed": 566
     }
   ],
@@ -30016,8 +30021,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-15T08:03:08.7905455+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:26:25.1525972+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:03:28.0891813+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2678831+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:21:49.3330502+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:26:25.1527427+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:59:12.2680983+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:03:28.0892973+00:00"
 }

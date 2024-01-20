@@ -7311,10 +7311,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7521,
       "NumberOfAwardsMax": 865
+    },
+    {
+      "Time": "2024-01-20T02:59:03.2550521+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7522,
+      "NumberOfAwardsMax": 865
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7521,
+  "NumberOfAwards": 7522,
   "NumberOfAwardsMax": 865,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -7358,7 +7364,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 861
+      "Count": 862
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7404,9 +7410,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-01-20T02:21:40.3629578+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:31:46.1449273+00:00",
+  "LastChanged": "2024-01-20T02:59:03.255052+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:08:48.1013071+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.4449208+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:21:40.3629584+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:31:46.1449291+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:59:03.2550527+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:08:48.1013088+00:00"
 }

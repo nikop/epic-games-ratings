@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3044,
+  "EOS_Progressed": 3045,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8304,6 +8304,11 @@
       "Time": "2024-01-20T01:58:13.2572819+00:00",
       "NumProgressed": 3044,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T03:09:51.7162626+00:00",
+      "NumProgressed": 3045,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8540,7 +8545,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2619
     },
     {
       "ID": "achievement_36",
@@ -8556,7 +8561,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1826
+      "UsersEstimate": 1827
     },
     {
       "ID": "achievement_38",
@@ -8580,7 +8585,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 517
+      "UsersEstimate": 518
     },
     {
       "ID": "achievement_40",
@@ -8819,13 +8824,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3044,
+      "Progressed": 3045,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3044,
+      "Progressed": 3045,
       "Completed": 1
     }
   ],
@@ -8833,8 +8838,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:48.8354325+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:51.7162624+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:22:31.2452076+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:48.8355302+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:59:53.888981+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:51.7163644+00:00"
 }

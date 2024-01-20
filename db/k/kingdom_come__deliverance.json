@@ -10191,9 +10191,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818256,
+  "EOS_Progressed": 818259,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1109,
+  "EOS_NewPlayers": 1111,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41281,6 +41281,11 @@
       "Time": "2024-01-20T02:32:47.4729588+00:00",
       "NumProgressed": 818256,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-20T03:09:50.3309362+00:00",
+      "NumProgressed": 818259,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41372,7 +41377,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261842
+      "UsersEstimate": 261843
     },
     {
       "ID": "Bookworm",
@@ -41380,7 +41385,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122738
+      "UsersEstimate": 122739
     },
     {
       "ID": "Buddy",
@@ -41396,7 +41401,7 @@
       "Name": "Casanova",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 49095
+      "UsersEstimate": 49096
     },
     {
       "ID": "Cavalier",
@@ -41492,7 +41497,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 188199
+      "UsersEstimate": 188200
     },
     {
       "ID": "Fighter",
@@ -41612,7 +41617,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106373
+      "UsersEstimate": 106374
     },
     {
       "ID": "Judas",
@@ -41772,7 +41777,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163651
+      "UsersEstimate": 163652
     },
     {
       "ID": "RevenantOfLedechko",
@@ -41812,7 +41817,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163651
+      "UsersEstimate": 163652
     },
     {
       "ID": "SerialKiller",
@@ -41947,15 +41952,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818256,
+      "Progressed": 818259,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-19T23:00:13.1829374+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:47.4729585+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:50.3309361+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:32.0311933+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:22:49.5532338+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:47.4731724+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:00:11.3646766+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:50.331096+00:00"
 }

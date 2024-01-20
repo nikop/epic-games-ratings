@@ -4,7 +4,7 @@
   "ProductSlug": "title_pending-2d8df9",
   "Ranking_EOS_Progress": 671,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
@@ -275,8 +275,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:28:28.6174364+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:05:31.5275713+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:22:22.1199141+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:28:28.6174499+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:59:44.5054249+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:05:31.5275866+00:00"
 }

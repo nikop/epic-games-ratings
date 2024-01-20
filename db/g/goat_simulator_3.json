@@ -6715,9 +6715,9 @@
       "Count": 380
     }
   ],
-  "EOS_Progressed": 268053,
+  "EOS_Progressed": 268054,
   "EOS_Completed": 957,
-  "EOS_NewPlayers": 974,
+  "EOS_NewPlayers": 975,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -36960,6 +36960,11 @@
       "Time": "2024-01-20T02:32:41.7195319+00:00",
       "NumProgressed": 268053,
       "NumCompleted": 957
+    },
+    {
+      "Time": "2024-01-20T03:09:44.493+00:00",
+      "NumProgressed": 268054,
+      "NumCompleted": 957
     }
   ],
   "TotalAchievements": 39,
@@ -36971,7 +36976,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 67013
+      "UsersEstimate": 67014
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -37035,7 +37040,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 243928
+      "UsersEstimate": 243929
     },
     {
       "ID": "AchievementClownID",
@@ -37083,7 +37088,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 88457
+      "UsersEstimate": 88458
     },
     {
       "ID": "AchievementGoatID",
@@ -37131,7 +37136,7 @@
       "Name": "Secret Society",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 117943
+      "UsersEstimate": 117944
     },
     {
       "ID": "AchievementIntroID",
@@ -37139,7 +37144,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 152790
+      "UsersEstimate": 152791
     },
     {
       "ID": "AchievementLootBoxID",
@@ -37147,7 +37152,7 @@
       "Name": "Black Market",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 37527
+      "UsersEstimate": 37528
     },
     {
       "ID": "AchievementMascotPoopID",
@@ -37219,7 +37224,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 134026
+      "UsersEstimate": 134027
     },
     {
       "ID": "AchievementStreakingID",
@@ -37267,7 +37272,7 @@
       "Name": "Rogue Guild",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 171554
+      "UsersEstimate": 171555
     },
     {
       "ID": "AchievementWhaleID",
@@ -37275,14 +37280,14 @@
       "Name": "Real Buoy",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 72374
+      "UsersEstimate": 72375
     }
   ],
   "AchievementSets": [
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268053,
+      "Progressed": 268054,
       "Completed": 957
     }
   ],
@@ -37290,8 +37295,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-19T17:01:00.6885698+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:32:41.7195316+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:09:44.4929997+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.7490682+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:22:27.8192844+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:32:41.719683+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:59:50.2349161+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:09:44.4931236+00:00"
 }

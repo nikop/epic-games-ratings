@@ -1395,9 +1395,9 @@
       "ID": "ACH_HANG",
       "SetID": "c2kf3nm",
       "Name": "GET THE HANG OF IT",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 165
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH_HOUND",
@@ -1474,8 +1474,8 @@
   ],
   "FirstSeen": "2023-06-01T17:57:00.4013591+00:00",
   "FirstSeenAchievements": "2023-05-25T20:00:56.667869+00:00",
-  "LastChanged_Achievements": "2024-01-20T02:31:36.5986239+00:00",
+  "LastChanged_Achievements": "2024-01-20T03:08:38.6854693+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:08.927205+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:21:49.9925185+00:00",
-  "LastUpdate_Achievements": "2024-01-20T02:31:36.5986414+00:00"
+  "LastUpdate_Ratings": "2024-01-20T02:59:12.9190668+00:00",
+  "LastUpdate_Achievements": "2024-01-20T03:08:38.6854809+00:00"
 }
