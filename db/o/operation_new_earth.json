@@ -2,13 +2,13 @@
   "ID": "fa9a00f7f82846b4b820e6152b69aa55",
   "Name": "Operation New Earth",
   "ProductSlug": "operation-new-earth-1d27c4",
-  "Ranking_Rating": 1107,
+  "Ranking_Rating": 1108,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 251,
-  "Ranking_EOS_Completed": 357,
+  "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -101,7 +101,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2289,
+  "EOS_Progressed": 2290,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -8856,6 +8856,11 @@
       "Time": "2024-01-20T18:04:09.7448957+00:00",
       "NumProgressed": 2289,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T21:04:15.0260969+00:00",
+      "NumProgressed": 2290,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8979,7 +8984,7 @@
       "Name": "Corporal",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "objective_hero_level_up_2",
@@ -9170,7 +9175,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2289,
+      "Progressed": 2290,
       "Completed": 1
     }
   ],
@@ -9178,8 +9183,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:04:01.2320252+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:04:15.0260966+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:59:47.3197401+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:04:01.2320852+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:00:09.0848992+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:04:15.0261642+00:00"
 }

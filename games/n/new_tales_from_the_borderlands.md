@@ -1,12 +1,12 @@
 # New Tales from the Borderlands
 [Store](https://store.epicgames.com/en-US/p/new-tales-from-the-borderlands)  
 [View Rawdata](../../db/n/new_tales_from_the_borderlands.json)  
-Rating: 4.08 (Ranked 1,032)  
+Rating: 4.08 (Ranked 1,033)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Who Needs Keys? | 51.00% | ~1,955 |
-| Totally Intentional | 46.00% | ~1,763 |
+| Totally Intentional | 46.00% | ~1,764 |
 | Each Sold Separately | 38.00% | ~1,457 |
 | We're In | 33.00% | ~1,265 |
 | You're Not Naked | 30.00% | ~1,150 |
@@ -27,13 +27,13 @@ Rating: 4.08 (Ranked 1,032)
 | Bring back the butt! | 4.00% | ~153 |
 | Hey, thanks! | 4.00% | ~153 |
 | Murderous Mascot Mayhem | 3.00% | ~115 |
-| New Business | 0.90% | ~34 |
+| New Business | 0.90% | ~35 |
 | Okay, Vain Much? | 0.50% | ~19 |
 | Not Dolls. Action Figures! | 0.20% | ~8 |
 | You Played This Before? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,833 (Ranked 223)  
-Completed: 0 (0.00%) (Ranked 407)  
+Progressed: 3,834 (Ranked 223)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -235,7 +235,7 @@ Completed: 0 (0.00%) (Ranked 407)
 | 2024-01-16 | 3,830 | 0 |
 | 2024-01-17 | 3,831 | 0 |
 | 2024-01-18 | 3,832 | 0 |
-| 2024-01-20 | 3,833 | 0 |
+| 2024-01-20 | 3,834 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

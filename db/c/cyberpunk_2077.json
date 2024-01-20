@@ -2,11 +2,11 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 284,
+  "Ranking_Rating": 285,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 264,
+  "Ranking_EOS_Completed": 265,
   "Ranking_EOS_NewPlayers": 26,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -18800,9 +18800,9 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055933,
+  "EOS_Progressed": 1055958,
   "EOS_Completed": 3136,
-  "EOS_NewPlayers": 6045,
+  "EOS_NewPlayers": 6022,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50355,6 +50355,11 @@
       "Time": "2024-01-20T20:09:02.0072464+00:00",
       "NumProgressed": 1055933,
       "NumCompleted": 3136
+    },
+    {
+      "Time": "2024-01-20T21:09:12.4394945+00:00",
+      "NumProgressed": 1055958,
+      "NumCompleted": 3136
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50869,9 +50874,9 @@
       "ID": "KingOfTheWands",
       "SetID": "23nboa5",
       "Name": "King of Wands",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 185
+      "UsersEstimate": 369
     },
     {
       "ID": "TheTower",
@@ -50902,21 +50907,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055933,
+      "Progressed": 1055958,
       "Completed": 3136
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184556,
+      "Progressed": 184581,
       "Completed": 10667
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-20T20:03:07.3224099+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:09:02.0072461+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:09:12.4394943+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:03:07.3224105+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:09:02.0073931+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:03:13.6627898+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:09:12.4397192+00:00"
 }

@@ -1,27 +1,27 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 240)  
+Rating: 4.69 (Ranked 241)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,230 |
-| Lost and Found | 9.00% | ~738 |
+| Malpractice Assurance | 15.00% | ~1,232 |
+| Lost and Found | 9.00% | ~739 |
 | Autodidact | 8.00% | ~10,667 |
-| This Belongs in a Museum | 7.00% | ~9,333 |
-| Creep and Sleep | 7.00% | ~9,333 |
-| Overdue Notice | 7.00% | ~9,333 |
-| This guy... again? | 7.00% | ~574 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,000 |
-| Serenity Now! | 6.00% | ~8,000 |
-| Meat and Greet | 6.00% | ~8,000 |
-| Catch and Decease | 6.00% | ~8,000 |
-| Escape from the Black Hole | 6.00% | ~8,000 |
-| Rush Hour | 6.00% | ~8,000 |
-| To Grandmother's House | 6.00% | ~8,000 |
-| Ploughshares to Swords | 6.00% | ~492 |
-| Bloody Graduation | 6.00% | ~492 |
+| This Belongs in a Museum | 7.00% | ~9,334 |
+| Creep and Sleep | 7.00% | ~9,334 |
+| Overdue Notice | 7.00% | ~9,334 |
+| This guy... again? | 7.00% | ~575 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,001 |
+| Serenity Now! | 6.00% | ~8,001 |
+| Meat and Greet | 6.00% | ~8,001 |
+| Catch and Decease | 6.00% | ~8,001 |
+| Escape from the Black Hole | 6.00% | ~8,001 |
+| Rush Hour | 6.00% | ~8,001 |
+| To Grandmother's House | 6.00% | ~8,001 |
+| Ploughshares to Swords | 6.00% | ~493 |
+| Bloody Graduation | 6.00% | ~493 |
 | It Rings a Bell | 5.00% | ~6,667 |
 | Not Today! | 5.00% | ~6,667 |
 | It Happens | 5.00% | ~6,667 |
@@ -31,22 +31,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,667 |
 | FNG | 5.00% | ~6,667 |
 | Nope | 5.00% | ~6,667 |
-| Friends 'Til the End | 5.00% | ~410 |
-| Resurrection | 4.00% | ~5,333 |
-| Unleash Hell | 4.00% | ~5,333 |
-| Funny Guy | 4.00% | ~5,333 |
-| Long Live the King | 4.00% | ~5,333 |
-| Wyrdly Reconstructed | 4.00% | ~5,333 |
-| Boxcar Kid | 4.00% | ~5,333 |
-| Unfulfilled Desires | 4.00% | ~5,333 |
-| Dissector | 4.00% | ~5,333 |
-| Banishment | 4.00% | ~5,333 |
-| Now Stay Dead | 4.00% | ~5,333 |
-| Spelunker | 4.00% | ~5,333 |
-| Ramble On | 4.00% | ~5,333 |
-| A Clear Conscience | 4.00% | ~5,333 |
-| Unshackled | 4.00% | ~5,333 |
-| Road Trip | 4.00% | ~5,333 |
+| Friends 'Til the End | 5.00% | ~411 |
+| Resurrection | 4.00% | ~5,334 |
+| Unleash Hell | 4.00% | ~5,334 |
+| Funny Guy | 4.00% | ~5,334 |
+| Long Live the King | 4.00% | ~5,334 |
+| Wyrdly Reconstructed | 4.00% | ~5,334 |
+| Boxcar Kid | 4.00% | ~5,334 |
+| Unfulfilled Desires | 4.00% | ~5,334 |
+| Dissector | 4.00% | ~5,334 |
+| Banishment | 4.00% | ~5,334 |
+| Now Stay Dead | 4.00% | ~5,334 |
+| Spelunker | 4.00% | ~5,334 |
+| Ramble On | 4.00% | ~5,334 |
+| A Clear Conscience | 4.00% | ~5,334 |
+| Unshackled | 4.00% | ~5,334 |
+| Road Trip | 4.00% | ~5,334 |
 | Hope Rekindled | 3.00% | ~4,000 |
 | Predator | 3.00% | ~4,000 |
 | Deprogramming | 3.00% | ~4,000 |
@@ -86,8 +86,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,334 (Ranked 92)  
-Completed: 5 (0.00%) (Ranked 407)  
+Progressed: 133,342 (Ranked 92)  
+Completed: 5 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,7 +351,7 @@ Completed: 5 (0.00%) (Ranked 407)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,334 | 5 |
+| 2024-01-20 | 133,342 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
 Sum: 21,780 (Ranked 58)  

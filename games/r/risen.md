@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 473)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,8 +9,8 @@ Rating: 4.58 (Ranked 472)
 | Map reader | 65.00% | ~136 |
 | Adventurer | 64.00% | ~134 |
 | Philanthropist | 61.00% | ~128 |
+| The brave little tailor | 42.00% | ~88 |
 | Archer | 42.00% | ~88 |
-| The brave little tailor | 41.00% | ~86 |
 | Field hand | 39.00% | ~82 |
 | Well-to-do | 33.00% | ~69 |
 | Samaritan | 30.00% | ~63 |
@@ -57,7 +57,7 @@ Rating: 4.58 (Ranked 472)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 210 (Ranked 433)  
-Completed: 0 (0.00%) (Ranked 407)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

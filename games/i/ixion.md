@@ -1,7 +1,7 @@
 # IXION
 [Store](https://store.epicgames.com/en-US/p/ixion-88cda4)  
 [View Rawdata](../../db/i/ixion.json)  
-Rating: 4.60 (Ranked 425)  
+Rating: 4.60 (Ranked 427)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -55,7 +55,7 @@ Rating: 4.60 (Ranked 425)
 | Gregor Spinoza | 1.00% | ~42 |
 | Work Harder | 0.70% | ~30 |
 | Soylent Green | 0.60% | ~25 |
-| Crunch Culture | 0.40% | ~17 |
+| Crunch Culture | 0.50% | ~21 |
 | A Junker's Dream | 0.30% | ~13 |
 | Scenic View | 0.20% | ~8 |
 | I Give You the Stars | 0.20% | ~5 |
@@ -64,7 +64,7 @@ Rating: 4.60 (Ranked 425)
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,231 (Ranked 217)  
-Completed: 0 (0.00%) (Ranked 407)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

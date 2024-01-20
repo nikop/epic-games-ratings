@@ -1,7 +1,7 @@
 # Lost Eidolons
 [Store](https://store.epicgames.com/en-US/p/lost-eidolons)  
 [View Rawdata](../../db/l/lost_eidolons.json)  
-Rating: 4.35 (Ranked 834)  
+Rating: 4.35 (Ranked 835)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -16,7 +16,7 @@ Rating: 4.35 (Ranked 834)
 | Complete the sidequest 'Malice and Greed' | 20.00% | ~223 |
 | House Vulisica's Heirloom | 16.00% | ~179 |
 | Digging Deep | 15.00% | ~168 |
-| Broken Oath | 9.00% | ~101 |
+| Broken Oath | 10.00% | ~112 |
 | Way of the King | 8.00% | ~89 |
 | Til We Meet Again | 5.00% | ~56 |
 | Way of the Warlord | 4.00% | ~45 |
@@ -30,7 +30,7 @@ Rating: 4.35 (Ranked 834)
 | Lean on Me | 0.70% | ~8 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,117 (Ranked 296)  
-Completed: 1 (0.09%) (Ranked 325)  
+Completed: 1 (0.09%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

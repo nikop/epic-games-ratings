@@ -1,19 +1,19 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 901)  
+Rating: 4.28 (Ranked 903)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 45.00% | ~122 |
-| Best Buddy | 38.00% | ~103 |
+| Best Buddy | 39.00% | ~106 |
 | Civilian | 37.00% | ~100 |
-| Role Model | 34.00% | ~92 |
+| Role Model | 35.00% | ~95 |
 | Creator | 32.00% | ~87 |
 | Military Leader | 30.00% | ~81 |
 | Festival-goer | 30.00% | ~81 |
-| Peddler | 26.00% | ~70 |
+| Peddler | 27.00% | ~73 |
 | Commander | 26.00% | ~70 |
 | Irissa's Fate | 22.00% | ~60 |
 | Long-Haul Flyer | 20.00% | ~54 |
@@ -58,7 +58,7 @@ Number of Ratings: 124  (23.09.2022)
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 271 (Ranked 420)  
-Completed: 0 (0.00%) (Ranked 407)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

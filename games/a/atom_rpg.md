@@ -1,26 +1,26 @@
 # ATOM RPG
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-3adb54)  
 [View Rawdata](../../db/a/atom_rpg.json)  
-Rating: 4.50 (Ranked 618)  
+Rating: 4.50 (Ranked 619)  
 Number of Ratings: 54  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,737 |
+| Atom Agent | 99.00% | ~1,739 |
 | One HIT wonder | 34.00% | ~597 |
 | Wanderer | 32.00% | ~562 |
 | One shot, one kill | 25.00% | ~439 |
-| Traveler | 23.00% | ~404 |
-| Grave Robber | 17.00% | ~298 |
+| Traveler | 22.00% | ~387 |
+| Grave Robber | 17.00% | ~299 |
 | Explorer | 16.00% | ~281 |
 | Head Burst | 16.00% | ~281 |
-| Double agent | 15.00% | ~263 |
-| Paranoia | 15.00% | ~263 |
+| Double agent | 15.00% | ~264 |
+| Paranoia | 15.00% | ~264 |
 | Savant | 10.00% | ~176 |
 | Kraina Grzybow | 9.00% | ~158 |
 | Love Guru | 9.00% | ~158 |
-| Bustin' nuts | 8.00% | ~140 |
-| Superhuman | 8.00% | ~140 |
+| Bustin' nuts | 8.00% | ~141 |
+| Superhuman | 8.00% | ~141 |
 | Not-so-private Eye | 7.00% | ~123 |
 | The Vitinsky Rifle | 6.00% | ~105 |
 | Protection racket | 5.00% | ~88 |
@@ -43,8 +43,8 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,755 (Ranked 263)  
-Completed: 1 (0.06%) (Ranked 338)  
+Progressed: 1,757 (Ranked 263)  
+Completed: 1 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -270,7 +270,7 @@ Completed: 1 (0.06%) (Ranked 338)
 | 2024-01-17 | 1,744 | 1 |
 | 2024-01-18 | 1,749 | 1 |
 | 2024-01-19 | 1,752 | 1 |
-| 2024-01-20 | 1,755 | 1 |
+| 2024-01-20 | 1,757 | 1 |
 ## Awards
 Max (Character Customization): 53  (Ranked 453)  
 Sum: 53 (Ranked 510)  

@@ -3,9 +3,9 @@
   "Name": "WILD HEARTS\u2122 Standard Edition",
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 279,
-  "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 221,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -4864,9 +4864,9 @@
       "ID": "achievement_43",
       "SetID": "2cpn27e",
       "Name": "Team Hunter",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 305
     },
     {
       "ID": "achievement_44",
@@ -4958,8 +4958,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:09:48.5299148+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:10:02.6297664+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:59:03.3649679+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:09:48.5299722+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:59:19.6243313+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:02.6298083+00:00"
 }

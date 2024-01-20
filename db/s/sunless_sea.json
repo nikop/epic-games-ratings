@@ -2,13 +2,13 @@
   "ID": "f672c20984f04f69936e6057feefe3d1",
   "Name": "Sunless Sea",
   "ProductSlug": "sunless-sea",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 378,
+  "Ranking_PopularitySum": 379,
   "Ranking_EOS_Progress": 133,
-  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -814,9 +814,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44614,
+  "EOS_Progressed": 44617,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 437,
+  "EOS_NewPlayers": 436,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29054,6 +29054,11 @@
       "Time": "2024-01-20T20:05:01.3890624+00:00",
       "NumProgressed": 44614,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T21:05:21.4167139+00:00",
+      "NumProgressed": 44617,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29081,7 +29086,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7584
+      "UsersEstimate": 7585
     },
     {
       "ID": "ach_antiquarian10",
@@ -29145,7 +29150,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ach_dawnmachine",
@@ -29185,7 +29190,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16061
+      "UsersEstimate": 16062
     },
     {
       "ID": "ach_die10",
@@ -29217,7 +29222,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ach_eye",
@@ -29249,7 +29254,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1338
+      "UsersEstimate": 1339
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -29263,9 +29268,9 @@
       "ID": "ach_legacypupil",
       "SetID": "ammcm",
       "Name": "Pupil",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3123
+      "UsersEstimate": 2677
     },
     {
       "ID": "ach_legacyrival",
@@ -29433,7 +29438,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6693
     },
     {
       "ID": "ach_undercurrent",
@@ -29496,15 +29501,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44614,
+      "Progressed": 44617,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-20T12:00:22.8425348+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:05:01.3890621+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:05:21.4167135+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
   "LastUpdate_Ratings": "2024-01-20T20:00:31.3680957+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:05:01.3892105+00:00"
+  "LastUpdate_Achievements": "2024-01-20T21:05:21.4168766+00:00"
 }

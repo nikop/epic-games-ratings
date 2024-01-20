@@ -1,7 +1,7 @@
 # Ring of Pain
 [Store](https://store.epicgames.com/en-US/p/ring-of-pain)  
 [View Rawdata](../../db/r/ring_of_pain.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 473)  
 Number of Ratings: 15,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -56,13 +56,13 @@ Number of Ratings: 15,086  (23.09.2022)
 | Don't Ignore Me! | 0.60% | ~1,460 |
 | All Consuming | 0.60% | ~1,460 |
 | Stop Hitting Yourself | 0.60% | ~1,460 |
+| Illuminate, Eliminate | 0.60% | ~1,460 |
 | Doing Time | 0.60% | ~1,460 |
 | Spreading Plague | 0.60% | ~1,460 |
 | Thank You, Friend | 0.50% | ~1,216 |
 | Max Damage! | 0.50% | ~1,216 |
 | A Rough Road | 0.50% | ~1,216 |
 | Berzerker | 0.50% | ~1,216 |
-| Illuminate, Eliminate | 0.50% | ~1,216 |
 | Chain Reaction | 0.50% | ~1,216 |
 | Antivenom | 0.50% | ~1,216 |
 | The Long Run | 0.50% | ~1,216 |
@@ -145,8 +145,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,280 (Ranked 75)  
-Completed: 309 (0.13%) (Ranked 307)  
+Progressed: 243,286 (Ranked 75)  
+Completed: 309 (0.13%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -420,7 +420,7 @@ Completed: 309 (0.13%) (Ranked 307)
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
 | 2024-01-19 | 243,229 | 309 |
-| 2024-01-20 | 243,280 | 309 |
+| 2024-01-20 | 243,286 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 92)  

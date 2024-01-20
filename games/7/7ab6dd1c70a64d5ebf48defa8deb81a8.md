@@ -1,7 +1,7 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.19 (Ranked 979)  
+Rating: 4.19 (Ranked 980)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,8 +20,8 @@ Rating: 4.19 (Ranked 979)
 | Tributes of Caladrias | 23.00% | ~553 |
 | Powerful Allies | 22.00% | ~529 |
 | Big Bazar | 16.00% | ~385 |
+| Alchemist | 16.00% | ~385 |
 | Essence Blow | 15.00% | ~361 |
-| Alchemist | 15.00% | ~361 |
 | The Mentor | 13.00% | ~313 |
 | Calm before the Storm | 11.00% | ~265 |
 | To Battle | 10.00% | ~241 |
@@ -43,7 +43,7 @@ Rating: 4.19 (Ranked 979)
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,406 (Ranked 248)  
-Completed: 5 (0.21%) (Ranked 284)  
+Completed: 5 (0.21%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

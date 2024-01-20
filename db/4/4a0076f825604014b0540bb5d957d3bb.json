@@ -3,9 +3,9 @@
   "Name": "The House of Da Vinci 2",
   "ProductSlug": "the-house-of-da-vinci-2-970dc3",
   "Ranking_EOS_Progress": 466,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 411,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2019-12-04T00:00:00+00:00",
@@ -829,9 +829,9 @@
       "ID": "CgkInO_K3eIdEAIQCg",
       "SetID": "6bj96in",
       "Name": "ADVANCED CRAFTSMAN",
-      "Percentage": 65,
+      "Percentage": 66,
       "XP": 40,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "CgkInO_K3eIdEAIQCw",
@@ -972,8 +972,8 @@
   ],
   "FirstSeen": "2023-06-26T17:57:02.9830224+00:00",
   "FirstSeenAchievements": "2023-06-14T09:00:06.5284555+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:10:02.9927514+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:10:18.39011+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:12.6071198+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:58:45.7134172+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:10:02.9927643+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:59:01.6195096+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:18.3901267+00:00"
 }

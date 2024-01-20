@@ -34,8 +34,8 @@
 | Pacifist | 0.00% | ~0 |
 | Worst. Investigator. Ever. | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 48 (Ranked 572)  
-Completed: 0 (0.00%) (Ranked 407)  
+Progressed: 48 (Ranked 573)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

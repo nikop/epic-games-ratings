@@ -1,7 +1,7 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 359)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,8 +25,8 @@ Rating: 4.63 (Ranked 358)
 | A Tragic Reminder | 45.00% | ~710 |
 | 3000 Year Blackout | 44.00% | ~694 |
 | So Close | 42.00% | ~663 |
+| You Get Used To It | 42.00% | ~663 |
 | The Finisher | 42.00% | ~663 |
-| You Get Used To It | 41.00% | ~647 |
 | Family | 40.00% | ~631 |
 | Boosted! | 40.00% | ~631 |
 | Biggest Snowball Ever | 39.00% | ~615 |
@@ -51,7 +51,7 @@ Rating: 4.63 (Ranked 358)
 | Sneaky Notai | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,578 (Ranked 270)  
-Completed: 10 (0.63%) (Ranked 211)  
+Completed: 10 (0.63%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -1,12 +1,12 @@
 # Age of Wonders 4
 [Store](https://store.epicgames.com/en-US/p/age-of-wonders-4)  
 [View Rawdata](../../db/a/age_of_wonders_4.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 359)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Secret Technique | 18.00% | ~1,310 |
-| Realm Estate | 16.00% | ~1,164 |
+| Realm Estate | 16.00% | ~1,165 |
 | A Wonderful Discovery | 15.00% | ~1,092 |
 | Walls Cannot Stop Us | 15.00% | ~1,092 |
 | From Friends to Family | 13.00% | ~946 |
@@ -16,9 +16,9 @@ Rating: 4.63 (Ranked 358)
 | There Can Only Be One! | 9.00% | ~655 |
 | Stronger Together | 9.00% | ~655 |
 | Seat of Power | 9.00% | ~655 |
-| Valley of Wonders | 7.00% | ~509 |
-| In a Liege of Your Own | 7.00% | ~509 |
-| Intimidation Tactics | 7.00% | ~509 |
+| Valley of Wonders | 7.00% | ~510 |
+| In a Liege of Your Own | 7.00% | ~510 |
+| Intimidation Tactics | 7.00% | ~510 |
 | My Final Form | 6.00% | ~437 |
 | But this one is mine | 6.00% | ~437 |
 | Return of the Wizard King | 5.00% | ~364 |
@@ -66,8 +66,8 @@ Rating: 4.63 (Ranked 358)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,278 (Ranked 201)  
-Completed: 8 (0.11%) (Ranked 313)  
+Progressed: 7,279 (Ranked 201)  
+Completed: 8 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -308,7 +308,7 @@ Completed: 8 (0.11%) (Ranked 313)
 | 2024-01-16 | 7,262 | 8 |
 | 2024-01-17 | 7,267 | 8 |
 | 2024-01-19 | 7,273 | 8 |
-| 2024-01-20 | 7,278 | 8 |
+| 2024-01-20 | 7,279 | 8 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 240 (Ranked 407)  

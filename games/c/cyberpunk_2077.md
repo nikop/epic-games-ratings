@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.67 (Ranked 284)  
+Rating: 4.67 (Ranked 285)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,6 +34,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.20% | ~2,112 |
 | Two Heads, One Bullet | 0.20% | ~2,112 |
 | Spin Doctor | 0.20% | ~369 |
+| King of Wands | 0.20% | ~369 |
 | Easy Come, Easy Go | 0.20% | ~369 |
 | City Lights | 0.10% | ~1,056 |
 | Autojock | 0.10% | ~1,056 |
@@ -60,7 +61,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Cups | 0.10% | ~185 |
 | King of Pentacles | 0.10% | ~185 |
 | King of Swords | 0.10% | ~185 |
-| King of Wands | 0.10% | ~185 |
 | The Tower | 0.10% | ~185 |
 | Dirty Deeds | 0.10% | ~185 |
 | All the President's Men | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,933 (Ranked 17)  
-Completed: 3,136 (0.30%) (Ranked 264)  
+Progressed: 1,055,958 (Ranked 17)  
+Completed: 3,136 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,7 +349,7 @@ Completed: 3,136 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,933 | 3,136 |
+| 2024-01-20 | 1,055,958 | 3,136 |
 ## Awards
 Max (Character Customization): 143,148  (Ranked 8)  
 Sum: 508,860 (Ranked 8)  

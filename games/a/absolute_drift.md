@@ -1,23 +1,23 @@
 # Absolute Drift
 [Store](https://store.epicgames.com/en-US/p/absolute-drift)  
 [View Rawdata](../../db/a/absolute_drift.json)  
-Rating: 4.44 (Ranked 709)  
+Rating: 4.44 (Ranked 710)  
 Number of Ratings: 216  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~156,481 |
-| Good Skills | 9.00% | ~140,833 |
-| Multiplier Master | 9.00% | ~140,833 |
-| Maverick | 7.00% | ~109,537 |
-| The Long Drift | 5.00% | ~78,241 |
-| Drift Line Apprentice | 3.00% | ~46,944 |
-| Mad Skills | 3.00% | ~46,944 |
-| Bring the Cubic Ruckus | 2.00% | ~31,296 |
-| Jelly Donuts | 2.00% | ~31,296 |
-| Master Drifter | 2.00% | ~31,296 |
-| Midnight Master | 2.00% | ~31,296 |
-| Spin Doctor | 2.00% | ~31,296 |
+| Midnight Drifter | 10.00% | ~156,484 |
+| Good Skills | 9.00% | ~140,835 |
+| Multiplier Master | 9.00% | ~140,835 |
+| Maverick | 7.00% | ~109,538 |
+| The Long Drift | 5.00% | ~78,242 |
+| Drift Line Apprentice | 3.00% | ~46,945 |
+| Mad Skills | 3.00% | ~46,945 |
+| Bring the Cubic Ruckus | 2.00% | ~31,297 |
+| Jelly Donuts | 2.00% | ~31,297 |
+| Master Drifter | 2.00% | ~31,297 |
+| Midnight Master | 2.00% | ~31,297 |
+| Spin Doctor | 2.00% | ~31,297 |
 | Hoon Airlines | 1.00% | ~15,648 |
 | Sake Bombs | 1.00% | ~15,648 |
 | Drift Line Master | 0.80% | ~12,519 |
@@ -27,8 +27,8 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,259 |
 | The Completionist | 0.10% | ~1,565 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,564,814 (Ranked 8)  
-Completed: 771 (0.05%) (Ranked 345)  
+Progressed: 1,564,835 (Ranked 8)  
+Completed: 771 (0.05%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,7 +302,7 @@ Completed: 771 (0.05%) (Ranked 345)
 | 2024-01-17 | 1,564,294 | 769 |
 | 2024-01-18 | 1,564,473 | 769 |
 | 2024-01-19 | 1,564,643 | 771 |
-| 2024-01-20 | 1,564,814 | 771 |
+| 2024-01-20 | 1,564,835 | 771 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

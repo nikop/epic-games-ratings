@@ -1,7 +1,7 @@
 # Eximius: Seize the Frontline
 [Store](https://store.epicgames.com/en-US/p/eximius-seize-the-frontline)  
 [View Rawdata](../../db/e/eximius__seize_the_frontline.json)  
-Rating: 4.18 (Ranked 987)  
+Rating: 4.18 (Ranked 988)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.18 (Ranked 987)
 | Baby Steps | 5.00% | ~10,171 |
 | First Co-Op Win | 4.00% | ~8,137 |
 | Gated Community | 3.00% | ~6,103 |
-| Tag Team Champions | 2.00% | ~4,068 |
+| Tag Team Champions | 2.00% | ~4,069 |
 | Total Destruction | 1.00% | ~2,034 |
 | Getting There | 1.00% | ~2,034 |
 | Untouchable | 1.00% | ~2,034 |
@@ -22,8 +22,8 @@ Rating: 4.18 (Ranked 987)
 | Not Afraid of the Big Bad Wolf | 0.10% | ~203 |
 | Many More to Come | 0.10% | ~203 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 203,425 (Ranked 84)  
-Completed: 4 (0.00%) (Ranked 407)  
+Progressed: 203,426 (Ranked 84)  
+Completed: 4 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -297,7 +297,7 @@ Completed: 4 (0.00%) (Ranked 407)
 | 2024-01-17 | 203,295 | 4 |
 | 2024-01-18 | 203,341 | 4 |
 | 2024-01-19 | 203,377 | 4 |
-| 2024-01-20 | 203,425 | 4 |
+| 2024-01-20 | 203,426 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

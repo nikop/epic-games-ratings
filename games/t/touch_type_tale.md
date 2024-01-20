@@ -1,13 +1,13 @@
 # Touch Type Tale
 [Store](https://store.epicgames.com/en-US/p/touch-type-tale)  
 [View Rawdata](../../db/t/touch_type_tale.json)  
-Rating: 4.73 (Ranked 182)  
+Rating: 4.73 (Ranked 183)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You and what Army? | 87.00% | ~3,528 |
 | Flanked! | 75.00% | ~3,041 |
-| Economics 101 | 58.00% | ~2,352 |
+| Economics 101 | 59.00% | ~2,392 |
 | Get Rich Quick | 41.00% | ~1,663 |
 | Do the Splits | 37.00% | ~1,500 |
 | Maestro | 25.00% | ~1,014 |
@@ -40,7 +40,7 @@ Rating: 4.73 (Ranked 182)
 | All Geared Up | 0.80% | ~32 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,055 (Ranked 220)  
-Completed: 11 (0.27%) (Ranked 270)  
+Completed: 11 (0.27%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

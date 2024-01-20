@@ -3,9 +3,9 @@
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 301,
+  "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9845,
+  "EOS_Progressed": 9856,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1093,
+  "EOS_NewPlayers": 1092,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3619,6 +3619,11 @@
       "Time": "2024-01-20T20:09:28.5781884+00:00",
       "NumProgressed": 9845,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-20T21:09:40.7813846+00:00",
+      "NumProgressed": 9856,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3631,7 +3636,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4824
+      "UsersEstimate": 4829
     },
     {
       "ID": "Document1",
@@ -3647,7 +3652,7 @@
       "Name": "Document Discoverer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Document3",
@@ -3663,7 +3668,7 @@
       "Name": "Truth Seeker",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Document5",
@@ -3694,14 +3699,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9845,
+      "Progressed": 9856,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:09:28.578187+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:09:40.7813843+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:58:25.6910875+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:09:28.5782139+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:58:38.4054642+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:09:40.7814088+00:00"
 }

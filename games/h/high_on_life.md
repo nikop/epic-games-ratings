@@ -1,13 +1,13 @@
 # High On Life
 [Store](https://store.epicgames.com/en-US/p/high-on-life-3a855b)  
 [View Rawdata](../../db/h/high_on_life.json)  
-Rating: 4.65 (Ranked 322)  
+Rating: 4.65 (Ranked 323)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Satisfied Gus-tomer | 6.00% | ~1,510 |
-| First Bounty Down | 6.00% | ~1,510 |
-| Cold-Blooded Driller | 6.00% | ~1,510 |
+| Satisfied Gus-tomer | 6.00% | ~1,511 |
+| First Bounty Down | 6.00% | ~1,511 |
+| Cold-Blooded Driller | 6.00% | ~1,511 |
 | Are You Packin'? | 5.00% | ~1,259 |
 | Bring A Knife to a Gun Fight | 5.00% | ~1,259 |
 | Sweezy Like Sunday Morning | 5.00% | ~1,259 |
@@ -50,8 +50,8 @@ Rating: 4.65 (Ranked 322)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,175 (Ranked 150)  
-Completed: 14 (0.06%) (Ranked 338)  
+Progressed: 25,176 (Ranked 150)  
+Completed: 14 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -324,7 +324,7 @@ Completed: 14 (0.06%) (Ranked 338)
 | 2024-01-17 | 25,161 | 14 |
 | 2024-01-18 | 25,166 | 14 |
 | 2024-01-19 | 25,169 | 14 |
-| 2024-01-20 | 25,175 | 14 |
+| 2024-01-20 | 25,176 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

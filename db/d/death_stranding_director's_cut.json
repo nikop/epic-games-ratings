@@ -6,7 +6,7 @@
   "Ranking_Popularity": 43,
   "Ranking_PopularitySum": 71,
   "Ranking_EOS_Progress": 34,
-  "Ranking_EOS_Completed": 246,
+  "Ranking_EOS_Completed": 247,
   "Ranking_EOS_NewPlayers": 72,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
@@ -10315,9 +10315,9 @@
       "Count": 725
     }
   ],
-  "EOS_Progressed": 565212,
+  "EOS_Progressed": 565213,
   "EOS_Completed": 2282,
-  "EOS_NewPlayers": 1469,
+  "EOS_NewPlayers": 1462,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -42035,6 +42035,11 @@
       "Time": "2024-01-20T20:10:14.5562154+00:00",
       "NumProgressed": 565212,
       "NumCompleted": 2282
+    },
+    {
+      "Time": "2024-01-20T21:10:31.329161+00:00",
+      "NumProgressed": 565213,
+      "NumCompleted": 2282
     }
   ],
   "TotalAchievements": 63,
@@ -42054,7 +42059,7 @@
       "Name": "Delivering Is What I Do",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 519995
+      "UsersEstimate": 519996
     },
     {
       "ID": "10",
@@ -42102,7 +42107,7 @@
       "Name": "Thanks for Everything",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 113042
+      "UsersEstimate": 113043
     },
     {
       "ID": "16",
@@ -42110,7 +42115,7 @@
       "Name": "Everyday Delivery",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 293910
+      "UsersEstimate": 293911
     },
     {
       "ID": "17",
@@ -42158,7 +42163,7 @@
       "Name": "The Automation Revolution",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 209128
+      "UsersEstimate": 209129
     },
     {
       "ID": "22",
@@ -42198,7 +42203,7 @@
       "Name": "Well Connected",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 350431
+      "UsersEstimate": 350432
     },
     {
       "ID": "27",
@@ -42214,7 +42219,7 @@
       "Name": "Like and Be Liked",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 435213
+      "UsersEstimate": 435214
     },
     {
       "ID": "29",
@@ -42230,7 +42235,7 @@
       "Name": "We Need You",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 254345
+      "UsersEstimate": 254346
     },
     {
       "ID": "30",
@@ -42246,7 +42251,7 @@
       "Name": "Good Samaritan",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 508691
+      "UsersEstimate": 508692
     },
     {
       "ID": "32",
@@ -42262,7 +42267,7 @@
       "Name": "Chiral Crafter",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 333475
+      "UsersEstimate": 333476
     },
     {
       "ID": "34",
@@ -42286,7 +42291,7 @@
       "Name": "The Custom Kid",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 344779
+      "UsersEstimate": 344780
     },
     {
       "ID": "37",
@@ -42326,7 +42331,7 @@
       "Name": "Pathfinder",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 203476
+      "UsersEstimate": 203477
     },
     {
       "ID": "41",
@@ -42382,7 +42387,7 @@
       "Name": "Boots Are a Porter\u0027s Best Friend",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 333475
+      "UsersEstimate": 333476
     },
     {
       "ID": "48",
@@ -42398,7 +42403,7 @@
       "Name": "Pumped Porter",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 158259
+      "UsersEstimate": 158260
     },
     {
       "ID": "5",
@@ -42414,7 +42419,7 @@
       "Name": "Well-Traveled",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 209128
+      "UsersEstimate": 209129
     },
     {
       "ID": "51",
@@ -42446,7 +42451,7 @@
       "Name": "Sleep Tight, Little BB",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 248693
+      "UsersEstimate": 248694
     },
     {
       "ID": "55",
@@ -42454,7 +42459,7 @@
       "Name": "A Shout in the Dark",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 288258
+      "UsersEstimate": 288259
     },
     {
       "ID": "56",
@@ -42462,7 +42467,7 @@
       "Name": "Public Service Porter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 67825
+      "UsersEstimate": 67826
     },
     {
       "ID": "57",
@@ -42494,7 +42499,7 @@
       "Name": "We\u0027re Whole Again",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 163911
+      "UsersEstimate": 163912
     },
     {
       "ID": "60",
@@ -42549,15 +42554,15 @@
     {
       "ID": "aho6p5h",
       "IsBase": true,
-      "Progressed": 565212,
+      "Progressed": 565213,
       "Completed": 2282
     }
   ],
   "FirstSeen": "2022-07-22T20:27:07.1002044+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.0381621+00:00",
   "LastChanged": "2024-01-20T19:59:08.0141743+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:10:14.5562152+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:10:31.3291608+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.0180018+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:59:08.014175+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:10:14.5563951+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:59:24.5407375+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:31.3293376+00:00"
 }

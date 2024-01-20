@@ -21,11 +21,11 @@
 | Scholar | 6.00% | ~19 |
 | The More the Merrier | 6.00% | ~19 |
 | Pilgrimage's End | 6.00% | ~19 |
+| Merchant | 6.00% | ~19 |
 | Quartermaster | 5.00% | ~16 |
 | Strategist | 5.00% | ~16 |
 | Deputized | 5.00% | ~16 |
 | Courier | 5.00% | ~16 |
-| Merchant | 5.00% | ~16 |
 | Trouble at Fort Larius | 5.00% | ~16 |
 | Potential Unlocked | 4.00% | ~12 |
 | Despised | 4.00% | ~12 |
@@ -41,6 +41,7 @@
 | Huntress Unbound | 2.00% | ~6 |
 | Business As Usual | 2.00% | ~6 |
 | Legacy of a Mercenary | 2.00% | ~6 |
+| Moving At Odd Angles | 2.00% | ~6 |
 | Delayed | 2.00% | ~6 |
 | A Real Battle | 2.00% | ~6 |
 | Life... Finds a Way | 2.00% | ~6 |
@@ -57,7 +58,6 @@
 | Ever After | 1.00% | ~3 |
 | Trailblazer | 1.00% | ~3 |
 | Loader | 1.00% | ~3 |
-| Moving At Odd Angles | 1.00% | ~3 |
 | The Darkness Within | 1.00% | ~3 |
 | Wyrmslayer | 1.00% | ~3 |
 | Voracity Confronted | 1.00% | ~3 |
@@ -104,8 +104,8 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 311 (Ranked 401)  
-Completed: 0 (0.00%) (Ranked 407)  
+Progressed: 311 (Ranked 402)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -2,13 +2,13 @@
   "ID": "caca23a0954f4c1aba1fdd7e277b81e2",
   "Name": "Tomb Raider GAME OF THE YEAR EDITION",
   "ProductSlug": "tomb-raider",
-  "Ranking_Rating": 305,
+  "Ranking_Rating": 306,
   "Ranking_Popularity": 68,
   "Ranking_PopularitySum": 129,
   "Ranking_EOS_Progress": 844,
-  "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-12-30T16:00:00+00:00",
     "PcReleaseDate": "2013-03-05T16:00:00+00:00",
@@ -3340,10 +3340,16 @@
       "Rating": 4.66,
       "NumberOfAwards": 7187,
       "NumberOfAwardsMax": 6091
+    },
+    {
+      "Time": "2024-01-20T21:00:43.7840365+00:00",
+      "Rating": 4.66,
+      "NumberOfAwards": 7188,
+      "NumberOfAwardsMax": 6091
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7187,
+  "NumberOfAwards": 7188,
   "NumberOfAwardsMax": 6091,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -3399,7 +3405,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 112
+      "Count": 113
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -3425,8 +3431,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:04.7609195+00:00",
-  "LastChanged": "2024-01-19T21:01:24.0307634+00:00",
+  "LastChanged": "2024-01-20T21:00:43.7840363+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:07.5264101+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:00:19.0434947+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:06:12.447531+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:00:43.7840367+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:06:39.22814+00:00"
 }

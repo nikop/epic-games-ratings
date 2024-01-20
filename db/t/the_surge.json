@@ -2,13 +2,13 @@
   "ID": "08f38e25e11f4c1e977cb75aae5e4535",
   "Name": "The Surge",
   "ProductSlug": "the-surge",
-  "Ranking_Rating": 709,
+  "Ranking_Rating": 710,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 206,
-  "Ranking_EOS_Completed": 258,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 259,
+  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
     "PcReleaseDate": "2017-05-15T09:25:08+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5472,
+  "EOS_Progressed": 5473,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 58,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5485,6 +5485,11 @@
       "Time": "2024-01-20T17:06:16.5910644+00:00",
       "NumProgressed": 5472,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-20T21:03:30.2334711+00:00",
+      "NumProgressed": 5473,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5504,7 +5509,7 @@
       "Name": "Firebug",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ID_ACHIEV_03",
@@ -5544,7 +5549,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4596
+      "UsersEstimate": 4597
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5552,7 +5557,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5568,7 +5573,7 @@
       "Name": "Hey Listen",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5640,7 +5645,7 @@
       "Name": "Melting Down",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ID_ACHIEV_20",
@@ -5712,7 +5717,7 @@
       "Name": "First Day on the Job",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4104
+      "UsersEstimate": 4105
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5728,7 +5733,7 @@
       "Name": "Raging Drones",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ID_ACHIEV_31",
@@ -5824,7 +5829,7 @@
       "Name": "Overconfident",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "ID_ACHIEV_44",
@@ -5832,7 +5837,7 @@
       "Name": "GOLIATH",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 1094
+      "UsersEstimate": 1095
     },
     {
       "ID": "ID_ACHIEV_45",
@@ -5840,7 +5845,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -6031,15 +6036,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5472,
+      "Progressed": 5473,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:03:20.015755+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:03:30.2334707+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:00:05.2181752+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:03:20.0175166+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:00:28.616709+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:03:30.2335516+00:00"
 }

@@ -2,11 +2,11 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 472,
+  "Ranking_Rating": 473,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 75,
-  "Ranking_EOS_Completed": 307,
+  "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243280,
+  "EOS_Progressed": 243286,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 381,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32474,6 +32474,11 @@
       "Time": "2024-01-20T20:10:17.2460414+00:00",
       "NumProgressed": 243280,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-20T21:10:33.7879175+00:00",
+      "NumProgressed": 243286,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33035,9 +33040,9 @@
       "ID": "LIGHTENDING",
       "SetID": "5l8oe0h",
       "Name": "Illuminate, Eliminate",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1460
     },
     {
       "ID": "LIGHTENDINGHARD",
@@ -33588,13 +33593,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243280,
+      "Progressed": 243286,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4760,
+      "Progressed": 4766,
       "Completed": 429
     }
   ],
@@ -33602,8 +33607,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:10:17.2460412+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:10:33.7879174+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:59:54.3346388+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:10:17.2462829+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:00:16.5993434+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:33.7881768+00:00"
 }

@@ -3,9 +3,9 @@
   "Name": "Snowmen",
   "ProductSlug": "snowmen-5987b9",
   "Ranking_EOS_Progress": 392,
-  "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 426,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 268,
+  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-05T12:00:00+00:00",
     "PcReleaseDate": "2023-12-05T12:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 339,
+  "EOS_Progressed": 340,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -1579,6 +1579,11 @@
       "Time": "2024-01-20T18:08:16.8125865+00:00",
       "NumProgressed": 339,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T21:06:45.9856021+00:00",
+      "NumProgressed": 340,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-17T19:06:21.6274083+00:00",
@@ -1615,7 +1620,7 @@
       "Name": "Lost forever",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "ACHIEVEMENT_ENDING_GOOD_HOME",
@@ -1734,14 +1739,14 @@
     {
       "ID": "5lffoo5",
       "IsBase": true,
-      "Progressed": 339,
+      "Progressed": 340,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-08T01:45:34.789391+00:00",
   "FirstSeenAchievements": "2023-09-17T19:06:21.6274083+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:06:18.4746541+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:06:45.9856017+00:00",
   "LastUpdate_AppInfo": "2024-01-15T03:57:16.9350256+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:02:52.0701012+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:06:18.4746715+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:02:57.5863818+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:06:45.9856251+00:00"
 }

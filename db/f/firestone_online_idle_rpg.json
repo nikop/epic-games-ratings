@@ -2,13 +2,13 @@
   "ID": "bda8d2133655435982b9118972792328",
   "Name": "Firestone Online Idle RPG",
   "ProductSlug": "firestone-online-idle-rpg-bfd04b",
-  "Ranking_Rating": 1026,
+  "Ranking_Rating": 1027,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 210,
-  "Ranking_EOS_Completed": 357,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 358,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4691,
+  "EOS_Progressed": 4692,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13104,6 +13104,11 @@
       "Time": "2024-01-20T17:04:48.0889683+00:00",
       "NumProgressed": 4691,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T21:04:34.9620705+00:00",
+      "NumProgressed": 4692,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13235,7 +13240,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ebonyjungleliberator",
@@ -13251,7 +13256,7 @@
       "Name": "Enchanting skill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "enchantingskillx5",
@@ -13299,7 +13304,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1971
     },
     {
       "ID": "fourleafclover",
@@ -13323,7 +13328,7 @@
       "Name": "Full Party",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1407
+      "UsersEstimate": 1408
     },
     {
       "ID": "gearenchanting",
@@ -13507,7 +13512,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2439
+      "UsersEstimate": 2440
     },
     {
       "ID": "prestigiousx10",
@@ -13571,7 +13576,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2627
+      "UsersEstimate": 2628
     },
     {
       "ID": "thealchemist",
@@ -13587,7 +13592,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "thefatherofdragons",
@@ -13603,7 +13608,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "thepowerofawakening",
@@ -13675,7 +13680,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4363
+      "UsersEstimate": 4364
     },
     {
       "ID": "warmachinesarmy",
@@ -13691,7 +13696,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "whatliesbehindthebush",
@@ -13707,14 +13712,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3659
+      "UsersEstimate": 3660
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4691,
+      "Progressed": 4692,
       "Completed": 2
     }
   ],
@@ -13722,8 +13727,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:04:19.0212737+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:04:34.96207+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:59:29.5942112+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:04:19.0214059+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:59:50.6470478+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:04:34.9621888+00:00"
 }

@@ -1,32 +1,32 @@
 # Runbow
 [Store](https://store.epicgames.com/en-US/p/runbow-fc9fa4)  
 [View Rawdata](../../db/r/runbow.json)  
-Rating: 4.46 (Ranked 678)  
+Rating: 4.46 (Ranked 679)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,447 |
-| My First Runbow | 50.00% | ~126,836 |
-| It's The Fall | 26.00% | ~65,955 |
+| In The Zone | 53.00% | ~134,448 |
+| My First Runbow | 50.00% | ~126,838 |
+| It's The Fall | 26.00% | ~65,956 |
 | The Stunner | 23.00% | ~58,345 |
-| Be Aggressive | 21.00% | ~53,271 |
+| Be Aggressive | 21.00% | ~53,272 |
 | Curator | 20.00% | ~50,735 |
-| Crowning Around | 18.00% | ~45,661 |
-| Can You Dig It? | 17.00% | ~43,124 |
+| Crowning Around | 18.00% | ~45,662 |
+| Can You Dig It? | 17.00% | ~43,125 |
 | You Juan-A-Go? | 16.00% | ~40,588 |
 | Chan-tastic | 15.00% | ~38,051 |
-| Muddy Waters | 14.00% | ~35,514 |
-| Toasty! | 13.00% | ~32,977 |
+| Muddy Waters | 14.00% | ~35,515 |
+| Toasty! | 13.00% | ~32,978 |
 | Lazy Laser | 8.00% | ~20,294 |
 | Ready? Fight! | 8.00% | ~20,294 |
 | Just A Phaze | 7.00% | ~17,757 |
 | Into The Drift | 7.00% | ~17,757 |
-| Butt Butt | 6.00% | ~15,220 |
+| Butt Butt | 6.00% | ~15,221 |
 | He Who Laughs Last | 3.00% | ~7,610 |
 | Shoo, Cat! | 3.00% | ~7,610 |
-| And You're Okay | 2.00% | ~5,073 |
-| Blotbuster | 2.00% | ~5,073 |
-| Thunderstruck | 2.00% | ~5,073 |
+| And You're Okay | 2.00% | ~5,074 |
+| Blotbuster | 2.00% | ~5,074 |
+| Thunderstruck | 2.00% | ~5,074 |
 | Just A Bit | 1.00% | ~2,537 |
 | Tubular, Dude | 1.00% | ~2,537 |
 | What A Trip | 1.00% | ~2,537 |
@@ -52,8 +52,8 @@ Rating: 4.46 (Ranked 678)
 | Talent Scout | 0.10% | ~254 |
 | True Completionist | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,673 (Ranked 72)  
-Completed: 6 (0.00%) (Ranked 407)  
+Progressed: 253,676 (Ranked 72)  
+Completed: 6 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -327,7 +327,7 @@ Completed: 6 (0.00%) (Ranked 407)
 | 2024-01-17 | 253,564 | 6 |
 | 2024-01-18 | 253,593 | 6 |
 | 2024-01-19 | 253,631 | 6 |
-| 2024-01-20 | 253,673 | 6 |
+| 2024-01-20 | 253,676 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

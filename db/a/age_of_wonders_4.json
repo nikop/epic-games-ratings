@@ -2,13 +2,13 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 358,
+  "Ranking_Rating": 359,
   "Ranking_Popularity": 482,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 201,
-  "Ranking_EOS_Completed": 313,
+  "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7278,
+  "EOS_Progressed": 7279,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11389,6 +11389,11 @@
       "Time": "2024-01-20T20:04:32.6325845+00:00",
       "NumProgressed": 7278,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T21:04:49.9786136+00:00",
+      "NumProgressed": 7279,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11400,7 +11405,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "10",
@@ -11512,7 +11517,7 @@
       "Name": "Realm Estate",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1164
+      "UsersEstimate": 1165
     },
     {
       "ID": "23",
@@ -11616,7 +11621,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "35",
@@ -11672,7 +11677,7 @@
       "Name": "Intimidation Tactics",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 509
+      "UsersEstimate": 510
     },
     {
       "ID": "41",
@@ -11879,13 +11884,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7278,
+      "Progressed": 7279,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7278,
+      "Progressed": 7279,
       "Completed": 8
     }
   ],
@@ -11893,8 +11898,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:04:32.6325844+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:04:49.978613+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:59:21.3173375+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:04:32.6326938+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:59:40.9751842+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:04:49.978693+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "bdbfb29cbd004978acad9ca4eaf9ec82",
   "Name": "Way of the Hunter",
   "ProductSlug": "way-of-the-hunter",
-  "Ranking_Rating": 760,
+  "Ranking_Rating": 761,
   "Ranking_Popularity": 429,
   "Ranking_PopularitySum": 366,
   "Ranking_EOS_Progress": 240,
-  "Ranking_EOS_Completed": 407,
+  "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-08-22T17:00:00+00:00",
     "PcReleaseDate": "2022-08-16T17:00:00+00:00",
@@ -1735,9 +1735,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 2625,
+  "EOS_Progressed": 2627,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 193,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5605,6 +5605,11 @@
       "Time": "2024-01-20T19:10:40.46619+00:00",
       "NumProgressed": 2625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T21:10:20.6517752+00:00",
+      "NumProgressed": 2627,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T12:10:13.2139946+00:00",
@@ -5832,7 +5837,7 @@
     {
       "ID": "d5e5a3e",
       "IsBase": true,
-      "Progressed": 2625,
+      "Progressed": 2627,
       "Completed": 0
     }
   ],
@@ -5840,8 +5845,8 @@
   "FirstSeenRating": "2022-08-25T19:31:36.42786+00:00",
   "FirstSeenAchievements": "2023-11-30T10:10:08.8604761+00:00",
   "LastChanged": "2024-01-20T19:03:28.2733013+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:10:05.1723278+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:10:20.651775+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:12.6048414+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:02:54.7166798+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:10:05.1723559+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:02:59.9148396+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:20.6518202+00:00"
 }

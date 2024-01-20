@@ -6,8 +6,8 @@
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 121,
-  "Ranking_EOS_Completed": 239,
-  "Ranking_EOS_NewPlayers": 149,
+  "Ranking_EOS_Completed": 240,
+  "Ranking_EOS_NewPlayers": 150,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4307,9 +4307,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59654,
+  "EOS_Progressed": 59655,
   "EOS_Completed": 263,
-  "EOS_NewPlayers": 312,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19287,6 +19287,11 @@
       "Time": "2024-01-20T20:08:32.919634+00:00",
       "NumProgressed": 59654,
       "NumCompleted": 263
+    },
+    {
+      "Time": "2024-01-20T21:08:40.6454987+00:00",
+      "NumProgressed": 59655,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 45,
@@ -19410,7 +19415,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 33406
+      "UsersEstimate": 33407
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -19434,7 +19439,7 @@
       "Name": "A New Hope",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 26844
+      "UsersEstimate": 26845
     },
     {
       "ID": "COMPLETE_EPISODE_5",
@@ -19466,7 +19471,7 @@
       "Name": "The Last Jedi",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 12527
+      "UsersEstimate": 12528
     },
     {
       "ID": "COMPLETE_EPISODE_9",
@@ -19490,7 +19495,7 @@
       "Name": "\u0027\u0027I can fly anything\u0027\u0027",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 32213
+      "UsersEstimate": 32214
     },
     {
       "ID": "COMPLETE_GEONOSIS_TATOOINE",
@@ -19538,7 +19543,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33406
+      "UsersEstimate": 33407
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -19562,7 +19567,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57268
+      "UsersEstimate": 57269
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19602,7 +19607,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41161
+      "UsersEstimate": 41162
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -19650,22 +19655,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41161
+      "UsersEstimate": 41162
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59654,
+      "Progressed": 59655,
       "Completed": 263
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-20T17:03:16.5017518+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:08:32.9196338+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:08:40.6454985+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.2426522+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:02:41.0594119+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:08:32.9197132+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:02:45.5782296+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:08:40.6455904+00:00"
 }

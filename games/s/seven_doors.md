@@ -22,7 +22,7 @@
 | Thanksgiving Day | 13.00% | ~4 |
 | Don’t Touch the Rum! | 13.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30 (Ranked 608)  
+Progressed: 30 (Ranked 609)  
 Completed: 4 (13.33%) (Ranked 34)  
 ## EOS Players History
 | Date | Progressed | Completed |

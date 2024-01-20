@@ -1,13 +1,13 @@
 # Pinball FX
 [Store](https://store.epicgames.com/en-US/p/pinball-fx)  
 [View Rawdata](../../db/p/pinball_fx.json)  
-Rating: 4.07 (Ranked 1,040)  
+Rating: 4.07 (Ranked 1,041)  
 Number of Ratings: 756  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Ball Launched | 4.00% | ~11,889 |
-| I Found it! | 2.00% | ~5,944 |
+| I Found it! | 2.00% | ~5,945 |
 | Ready Steady Score | 0.60% | ~1,783 |
 | First but not Last | 0.40% | ~1,189 |
 | Full Loot Madness | 0.30% | ~892 |
@@ -46,8 +46,8 @@ Number of Ratings: 756  (23.09.2022)
 | The most beautiful Christmas | 0.00% | ~0 |
 | End of Gloom | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 297,219 (Ranked 65)  
-Completed: 0 (0.00%) (Ranked 407)  
+Progressed: 297,237 (Ranked 65)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -321,17 +321,17 @@ Completed: 0 (0.00%) (Ranked 407)
 | 2024-01-17 | 296,167 | 0 |
 | 2024-01-18 | 296,491 | 0 |
 | 2024-01-19 | 296,890 | 0 |
-| 2024-01-20 | 297,219 | 0 |
+| 2024-01-20 | 297,237 | 0 |
 ## Awards
 Max (Great for Beginners): 215  (Ranked 294)  
-Sum: 1,654 (Ranked 238)  
+Sum: 1,655 (Ranked 238)  
 Diff (max vs sum): 56  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 215 |
 | This game is Great for Quick Sessions | 199 |
 | This game is Relaxing | 170 |
-| This game has Quickly Understood Controls | 168 |
+| This game has Quickly Understood Controls | 169 |
 | This game is Highly Recommended | 163 |
 | This game is Extremely Fun | 160 |
 | This game has Competitive Players | 158 |
@@ -562,3 +562,4 @@ Diff (max vs sum): 56
 | 2024-01-15 | 4.07 | - | 215 | 1,652 |
 | 2024-01-16 | 4.07 | - | 215 | 1,653 |
 | 2024-01-19 | 4.07 | - | 215 | 1,654 |
+| 2024-01-20 | 4.07 | - | 215 | 1,655 |

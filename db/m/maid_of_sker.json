@@ -3,9 +3,9 @@
   "Name": "Maid of Sker",
   "ProductSlug": "maid-of-sker-2ae24e",
   "Ranking_EOS_Progress": 401,
-  "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_NewPlayers": 315,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 311,
+  "EOS_Progressed": 312,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -905,6 +905,11 @@
       "Time": "2024-01-20T19:04:07.0510698+00:00",
       "NumProgressed": 311,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T21:03:30.4763774+00:00",
+      "NumProgressed": 312,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 30,
@@ -916,7 +921,7 @@
       "Name": "Animal Lover",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "axe_of_kindness",
@@ -1100,7 +1105,7 @@
       "Name": "Rapturous Applause!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "scholar",
@@ -1114,9 +1119,9 @@
       "ID": "sker_explorer",
       "SetID": "3j2phem",
       "Name": "Sker Explorer",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "smooth_operator",
@@ -1155,7 +1160,7 @@
     {
       "ID": "3j2phem",
       "IsBase": true,
-      "Progressed": 311,
+      "Progressed": 312,
       "Completed": 0
     }
   ],
@@ -1163,8 +1168,8 @@
   "FirstSeenRating": "2023-03-31T05:57:39.4211116+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:59.387654+00:00",
   "LastChanged": "2023-03-31T05:57:39.4211118+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:03:20.2608283+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:03:30.4763769+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:33.033911+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:57:07.8442408+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:03:20.2608767+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:57:17.6705406+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:03:30.4764142+00:00"
 }

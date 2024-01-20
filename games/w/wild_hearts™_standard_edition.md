@@ -29,8 +29,8 @@
 | Single Minded | 27.00% | ~375 |
 | Snare Specialist | 25.00% | ~347 |
 | Karakuri Trail | 24.00% | ~333 |
+| Team Hunter | 22.00% | ~305 |
 | Karakuri Isle | 21.00% | ~291 |
-| Team Hunter | 21.00% | ~291 |
 | Artful Assister | 21.00% | ~291 |
 | Reincarnation Cycle Stopper | 20.00% | ~278 |
 | Left Arm Leverager | 17.00% | ~236 |
@@ -54,7 +54,7 @@
 | Tsukumo Whisperer | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,388 (Ranked 279)  
-Completed: 8 (0.58%) (Ranked 220)  
+Completed: 8 (0.58%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

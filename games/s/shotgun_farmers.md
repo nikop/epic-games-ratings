@@ -48,10 +48,10 @@
 | Pro Shotgunner | 1.00% | ~4 |
 | Tomassacred | 1.00% | ~3 |
 | Pro Carrocketeer | 0.80% | ~3 |
+| Pro Sniperagus | 0.80% | ~3 |
 | King of the Crow | 0.80% | ~3 |
 | Forestside Survivor | 0.50% | ~2 |
 | Pro Pyromancer | 0.50% | ~2 |
-| Pro Sniperagus | 0.50% | ~2 |
 | Unstoppable | 0.50% | ~2 |
 | Death From Above | 0.50% | ~2 |
 | 30 Days | 0.30% | ~1 |
@@ -80,7 +80,7 @@
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 384 (Ranked 379)  
-Completed: 0 (0.00%) (Ranked 407)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

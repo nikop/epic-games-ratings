@@ -1,12 +1,12 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.48 (Ranked 661)  
+Rating: 4.48 (Ranked 662)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,027 |
-| Confirming Suspicions | 42.00% | ~1,811 |
+| Meeting Resistance | 47.00% | ~2,028 |
+| Confirming Suspicions | 42.00% | ~1,812 |
 | The Kraken Wakes | 38.00% | ~1,639 |
 | It's Starting to Crack | 35.00% | ~1,510 |
 | Change the Channel | 32.00% | ~1,380 |
@@ -14,7 +14,7 @@ Rating: 4.48 (Ranked 661)
 | Taking it back | 30.00% | ~1,294 |
 | Resourceful | 28.00% | ~1,208 |
 | Target America | 28.00% | ~1,208 |
-| The Kraken Sleeps | 26.00% | ~1,121 |
+| The Kraken Sleeps | 26.00% | ~1,122 |
 | Liberté | 24.00% | ~1,035 |
 | Organ Grinder | 24.00% | ~1,035 |
 | As Quiet as a Mouse | 24.00% | ~1,035 |
@@ -37,7 +37,7 @@ Rating: 4.48 (Ranked 661)
 | Precision Is Key | 10.00% | ~431 |
 | My Little Friend | 10.00% | ~431 |
 | Rigged to Blow | 9.00% | ~388 |
-| Herr Today, Gone Tomorrow | 7.00% | ~298 |
+| Herr Today, Gone Tomorrow | 7.00% | ~299 |
 | The Long Game | 6.00% | ~259 |
 | Operation Foxley | 6.00% | ~256 |
 | Strategist | 5.00% | ~216 |
@@ -77,8 +77,8 @@ Rating: 4.48 (Ranked 661)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,313 (Ranked 216)  
-Completed: 11 (0.26%) (Ranked 273)  
+Progressed: 4,314 (Ranked 216)  
+Completed: 11 (0.25%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -350,7 +350,7 @@ Completed: 11 (0.26%) (Ranked 273)
 | 2024-01-17 | 4,295 | 11 |
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,306 | 11 |
-| 2024-01-20 | 4,313 | 11 |
+| 2024-01-20 | 4,314 | 11 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 528)  
 Sum: 30 (Ranked 550)  

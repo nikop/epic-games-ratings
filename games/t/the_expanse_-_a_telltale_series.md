@@ -1,11 +1,11 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.55 (Ranked 529)  
+Rating: 4.55 (Ranked 530)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 19.00% | ~3,646 |
+| Oyedang, Kopengs | 19.00% | ~3,647 |
 | Captain Drummer | 16.00% | ~3,071 |
 | Celebrations are in Order | 15.00% | ~2,879 |
 | The Pit and the Pirates | 14.00% | ~2,687 |
@@ -13,20 +13,20 @@ Rating: 4.55 (Ranked 529)
 | Bosmang | 14.00% | ~2,687 |
 | Impossible Objects | 14.00% | ~2,687 |
 | Drone Dodger | 13.00% | ~2,495 |
-| Stogie for Fogey | 12.00% | ~2,303 |
-| Spore Taste | 12.00% | ~2,303 |
+| Stogie for Fogey | 12.00% | ~2,304 |
+| Spore Taste | 12.00% | ~2,304 |
 | Zen Master | 11.00% | ~566 |
-| Call it Even | 10.00% | ~1,919 |
-| Safe Cracker | 10.00% | ~514 |
-| Madame Undersecretary | 10.00% | ~514 |
-| Heal Thy Medic | 9.00% | ~1,727 |
-| Data Archivist | 8.00% | ~1,535 |
-| Drug Gifter | 8.00% | ~1,535 |
-| Thorston Mayer | 8.00% | ~1,535 |
-| Khan's Revenge | 8.00% | ~1,535 |
+| Call it Even | 10.00% | ~1,920 |
+| Safe Cracker | 10.00% | ~515 |
+| Madame Undersecretary | 10.00% | ~515 |
+| Heal Thy Medic | 9.00% | ~1,728 |
+| Data Archivist | 8.00% | ~1,536 |
+| Drug Gifter | 8.00% | ~1,536 |
+| Thorston Mayer | 8.00% | ~1,536 |
+| Khan's Revenge | 8.00% | ~1,536 |
 | Keep Arjun in Check | 8.00% | ~412 |
-| Doctor Approved | 7.00% | ~1,343 |
-| Bottoms up! | 7.00% | ~1,343 |
+| Doctor Approved | 7.00% | ~1,344 |
+| Bottoms up! | 7.00% | ~1,344 |
 | Master Negotiator | 6.00% | ~309 |
 | Data Logger | 5.00% | ~960 |
 | Miraculous Maya | 5.00% | ~960 |
@@ -41,8 +41,8 @@ Rating: 4.55 (Ranked 529)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,191 (Ranked 160)  
-Completed: 66 (0.34%) (Ranked 255)  
+Progressed: 19,196 (Ranked 160)  
+Completed: 66 (0.34%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -223,7 +223,7 @@ Completed: 66 (0.34%) (Ranked 255)
 | 2024-01-17 | 19,116 | 66 |
 | 2024-01-18 | 19,145 | 66 |
 | 2024-01-19 | 19,168 | 66 |
-| 2024-01-20 | 19,191 | 66 |
+| 2024-01-20 | 19,196 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

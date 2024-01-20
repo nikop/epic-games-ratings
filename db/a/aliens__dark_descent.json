@@ -2,13 +2,13 @@
   "ID": "87b7ded137594cbbbe7b772826ec3289",
   "Name": "Aliens: Dark Descent",
   "ProductSlug": "aliens-dark-descent",
-  "Ranking_Rating": 569,
+  "Ranking_Rating": 570,
   "Ranking_Popularity": 426,
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 203,
-  "Ranking_EOS_Completed": 345,
+  "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -579,9 +579,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6518,
+  "EOS_Progressed": 6519,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 109,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10174,6 +10174,11 @@
       "Time": "2024-01-20T20:04:04.97146+00:00",
       "NumProgressed": 6518,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T21:04:19.0917023+00:00",
+      "NumProgressed": 6519,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10209,7 +10214,7 @@
       "Name": "Perfect Enhancements",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "ACH_APC_RUN_OVER",
@@ -10217,7 +10222,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10241,7 +10246,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10305,7 +10310,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3780
+      "UsersEstimate": 3781
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10385,7 +10390,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2933
+      "UsersEstimate": 2934
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10433,7 +10438,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10441,7 +10446,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1564
+      "UsersEstimate": 1565
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10457,7 +10462,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10465,7 +10470,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1238
+      "UsersEstimate": 1239
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10489,7 +10494,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5019
+      "UsersEstimate": 5020
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10497,7 +10502,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3324
+      "UsersEstimate": 3325
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10513,15 +10518,15 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2346
+      "UsersEstimate": 2347
     },
     {
       "ID": "ACH_SENTRY_KILLS",
       "SetID": "816efe",
       "Name": "Recouped Investment",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2086
+      "UsersEstimate": 2151
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10529,7 +10534,7 @@
       "Name": "The More The Merrier",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1890
+      "UsersEstimate": 1891
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10544,7 +10549,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6518,
+      "Progressed": 6519,
       "Completed": 3
     }
   ],
@@ -10552,8 +10557,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:04:04.9714599+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:04:19.0917019+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:57:15.2302905+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:04:04.9715397+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:57:24.8046137+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:04:19.0917689+00:00"
 }

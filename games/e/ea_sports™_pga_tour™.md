@@ -24,7 +24,7 @@
 | Victory Lap | 6.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 999 (Ranked 302)  
-Completed: 10 (1.00%) (Ranked 183)  
+Completed: 10 (1.00%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

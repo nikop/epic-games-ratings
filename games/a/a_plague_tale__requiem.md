@@ -1,31 +1,31 @@
 # A Plague Tale: Requiem
 [Store](https://store.epicgames.com/en-US/p/a-plague-tale-requiem)  
 [View Rawdata](../../db/a/a_plague_tale__requiem.json)  
-Rating: 4.73 (Ranked 182)  
+Rating: 4.73 (Ranked 183)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~16,916 |
+| Under a New Sun | 91.00% | ~16,917 |
 | Newcomers | 76.00% | ~14,128 |
-| A Burden of Blood | 70.00% | ~13,012 |
+| A Burden of Blood | 70.00% | ~13,013 |
 | Protector's Duty | 67.00% | ~12,455 |
-| In our Wake | 65.00% | ~12,083 |
-| Alchemist | 65.00% | ~12,083 |
-| Leaving all Behind | 62.00% | ~11,525 |
+| In our Wake | 65.00% | ~12,084 |
+| Alchemist | 65.00% | ~12,084 |
+| Leaving all Behind | 62.00% | ~11,526 |
 | Felons | 59.00% | ~10,968 |
 | A Sea of Promises | 57.00% | ~10,596 |
-| Tales and Revelations | 54.00% | ~10,038 |
+| Tales and Revelations | 54.00% | ~10,039 |
 | Bloodline | 49.00% | ~9,109 |
-| The Cradle of Centuries | 45.00% | ~8,365 |
-| The Life We Deserve | 43.00% | ~7,993 |
-| Night guard | 41.00% | ~7,621 |
+| The Cradle of Centuries | 45.00% | ~8,366 |
+| The Life We Deserve | 43.00% | ~7,994 |
+| Night guard | 41.00% | ~7,622 |
 | Nothing Left | 37.00% | ~6,878 |
 | Healing our Wounds | 35.00% | ~6,506 |
 | Dying Sun | 31.00% | ~5,763 |
-| Improved crossbow | 25.00% | ~4,647 |
-| King Hugo | 23.00% | ~4,275 |
-| Perfect shot | 23.00% | ~4,275 |
-| Mercy | 23.00% | ~4,275 |
+| Improved crossbow | 25.00% | ~4,648 |
+| King Hugo | 23.00% | ~4,276 |
+| Perfect shot | 23.00% | ~4,276 |
+| Mercy | 23.00% | ~4,276 |
 | Effective instruments | 20.00% | ~3,718 |
 | Perfect throw | 20.00% | ~3,718 |
 | Knights! | 19.00% | ~3,532 |
@@ -34,15 +34,15 @@ Rating: 4.73 (Ranked 182)
 | Pocket laboratory | 11.00% | ~2,045 |
 | Herbalist | 7.00% | ~1,301 |
 | Fighter | 7.00% | ~1,301 |
-| Ornithologist | 5.00% | ~929 |
+| Ornithologist | 5.00% | ~930 |
 | Sneaky | 4.00% | ~744 |
 | Immortal memories | 3.00% | ~558 |
 | Old protector | 2.00% | ~372 |
 | Explorer | 1.00% | ~186 |
 | Malignant | 1.00% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,589 (Ranked 163)  
-Completed: 68 (0.37%) (Ranked 251)  
+Progressed: 18,590 (Ranked 163)  
+Completed: 68 (0.37%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -315,7 +315,7 @@ Completed: 68 (0.37%) (Ranked 251)
 | 2024-01-17 | 18,446 | 66 |
 | 2024-01-18 | 18,490 | 66 |
 | 2024-01-19 | 18,544 | 68 |
-| 2024-01-20 | 18,589 | 68 |
+| 2024-01-20 | 18,590 | 68 |
 ## Awards
 Max (Great Boss Battles): 469  (Ranked 229)  
 Sum: 735 (Ranked 309)  

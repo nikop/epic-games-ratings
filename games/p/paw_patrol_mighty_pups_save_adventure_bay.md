@@ -21,7 +21,7 @@
 | Master of the Rope | 34.00% | ~22 |
 | Training Day | 34.00% | ~22 |
 | Animal Sighting | 28.00% | ~18 |
-| The Fastest | 25.00% | ~16 |
+| The Fastest | 26.00% | ~17 |
 | Adventure Bay’s Citizen | 25.00% | ~16 |
 | Don’t Miss Any | 23.00% | ~15 |
 | Mountain and Ice | 22.00% | ~14 |
@@ -36,7 +36,7 @@
 | Pup Treat Master | 2.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 65 (Ranked 545)  
-Completed: 0 (0.00%) (Ranked 407)  
+Completed: 1 (1.54%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 407)
 | 2024-01-10 | 62 | 0 |
 | 2024-01-13 | 63 | 0 |
 | 2024-01-19 | 64 | 0 |
-| 2024-01-20 | 65 | 0 |
+| 2024-01-20 | 65 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

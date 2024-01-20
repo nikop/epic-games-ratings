@@ -2,10 +2,13 @@
   "ID": "a5434b28a3ac403e966478e86a839f5b",
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
+  "Ranking_Rating": 150,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 264,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -15,12 +18,20 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "RatingHistory": [],
+  "Rating": 4.75,
+  "RatingHistory": [
+    {
+      "Time": "2024-01-20T20:58:07.638153+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    }
+  ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 984,
+  "EOS_Progressed": 985,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
@@ -3485,6 +3496,11 @@
       "Time": "2024-01-20T20:03:33.8476519+00:00",
       "NumProgressed": 984,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-20T21:03:46.258203+00:00",
+      "NumProgressed": 985,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3521,7 +3537,7 @@
       "Name": "Destroy Security Grid",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "ACH_eou4",
@@ -3561,7 +3577,7 @@
       "Name": "Destroy Black Hole Generator",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACH_mg2",
@@ -3600,14 +3616,16 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 984,
+      "Progressed": 985,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
+  "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:03:33.8476517+00:00",
+  "LastChanged": "2024-01-20T20:58:07.6381528+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:03:46.2582029+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:57:55.0559342+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:03:33.8476884+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:58:07.638154+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:03:46.2582234+00:00"
 }

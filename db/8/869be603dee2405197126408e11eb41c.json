@@ -2,13 +2,13 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 888,
   "Ranking_Popularity": 453,
-  "Ranking_PopularitySum": 429,
+  "Ranking_PopularitySum": 428,
   "Ranking_EOS_Progress": 844,
-  "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-15T06:00:00+00:00",
     "PcReleaseDate": "2023-09-15T06:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.28,
+  "Rating": 4.29,
   "RatingHistory": [
     {
       "Time": "2023-09-27T08:01:20.8251438+00:00",
@@ -695,10 +695,16 @@
       "Rating": 4.28,
       "NumberOfAwards": 181,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-01-20T20:59:34.0566086+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 185,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 181,
+  "NumberOfAwards": 185,
   "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -712,7 +718,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 37
+      "Count": 41
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -751,8 +757,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-01-20T13:59:15.8307394+00:00",
+  "LastChanged": "2024-01-20T20:59:34.0566084+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:05.330693+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:59:15.5910014+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:08:33.7361107+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:59:34.0566088+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:08:41.5061817+00:00"
 }

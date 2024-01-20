@@ -2,13 +2,13 @@
   "ID": "244aaaa06bfa49d088205b13b9d2d115",
   "Name": "Warframe",
   "ProductSlug": "warframe",
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 23,
   "Ranking_PopularitySum": 27,
   "Ranking_EOS_Progress": 844,
-  "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-12-11T00:55:00+00:00",
     "PcReleaseDate": "2020-03-25T18:34:00+00:00",
@@ -14876,10 +14876,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 56978,
       "NumberOfAwardsMax": 20483
+    },
+    {
+      "Time": "2024-01-20T20:57:46.5513296+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 56997,
+      "NumberOfAwardsMax": 20483
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 56978,
+  "NumberOfAwards": 56997,
   "NumberOfAwardsMax": 20483,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -14911,7 +14917,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 4648
+      "Count": 4657
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14929,7 +14935,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 4437
+      "Count": 4447
     },
     {
       "Text": "This game has Unique Visuals",
@@ -14961,8 +14967,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:28.1019022+00:00",
-  "LastChanged": "2024-01-20T18:58:11.3621375+00:00",
-  "LastUpdate_AppInfo": "2024-01-13T19:57:13.9745316+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:57:35.7870735+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:04:31.3460387+00:00"
+  "LastChanged": "2024-01-20T20:57:46.5513294+00:00",
+  "LastUpdate_AppInfo": "2024-01-20T20:57:00.1004701+00:00",
+  "LastUpdate_Ratings": "2024-01-20T20:57:46.55133+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:04:48.5179835+00:00"
 }

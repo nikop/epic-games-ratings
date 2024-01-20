@@ -5,16 +5,16 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,799 |
-| Start with a bang! | 55.00% | ~9,624 |
-| You can pet the cat! | 51.00% | ~8,924 |
-| Who put gears in there? | 42.00% | ~7,349 |
-| Cream of the Crop | 37.00% | ~6,474 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,299 |
-| You got this, Peppermint? | 31.00% | ~5,424 |
-| Perfect Parry | 29.00% | ~5,074 |
-| Alright, that felt AWESOME! | 29.00% | ~5,074 |
-| I play my own way! | 25.00% | ~4,374 |
+| Feeling the beat! | 56.00% | ~9,801 |
+| Start with a bang! | 55.00% | ~9,626 |
+| You can pet the cat! | 50.00% | ~8,750 |
+| Who put gears in there? | 42.00% | ~7,350 |
+| Cream of the Crop | 37.00% | ~6,475 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,300 |
+| You got this, Peppermint? | 31.00% | ~5,425 |
+| Perfect Parry | 29.00% | ~5,075 |
+| Alright, that felt AWESOME! | 29.00% | ~5,075 |
+| I play my own way! | 25.00% | ~4,375 |
 | This will cost you big time | 23.00% | ~4,025 |
 | Uh, they were broken when I got here | 23.00% | ~4,025 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,675 |
@@ -49,36 +49,36 @@ Rating: 4.86 (Ranked 33)
 | I hit things with a guitar really well. | 2.00% | ~350 |
 | Call me Turbo Chai | 2.00% | ~320 |
 | Easy Listening | 1.00% | ~175 |
-| OK, well THEY came after ME! | 0.90% | ~157 |
+| OK, well THEY came after ME! | 0.90% | ~158 |
 | New bad guys? No problem! | 0.70% | ~112 |
-| Now this is how you fight like a team! | 0.50% | ~87 |
+| Now this is how you fight like a team! | 0.50% | ~88 |
 | Problem solved... wait, what? | 0.40% | ~70 |
 | Fully Powered Up! | 0.40% | ~70 |
 | I am a good person who likes to help | 0.40% | ~70 |
 | Choose your own adventure | 0.40% | ~64 |
-| And the crowd goes wild! | 0.30% | ~52 |
-| With our powers combined…and to the rhythm… | 0.30% | ~52 |
+| And the crowd goes wild! | 0.30% | ~53 |
+| With our powers combined…and to the rhythm… | 0.30% | ~53 |
 | I can't see this ever being a problem again | 0.20% | ~35 |
 | I think that's enough health for now | 0.20% | ~35 |
 | Have we met before? | 0.20% | ~35 |
 | I saw all those hits coming a measure away! | 0.20% | ~35 |
 | OK, I THINK I know what I'm doing now | 0.20% | ~35 |
 | It'll do, CNMN | 0.20% | ~32 |
-| Didn't skip a beat! | 0.10% | ~17 |
-| I have to read ALL of these things? | 0.10% | ~17 |
-| My Ultimate Setlist | 0.10% | ~17 |
-| What a journey it was... | 0.10% | ~17 |
-| This was... not what I expected. | 0.10% | ~17 |
-| I'm untouchable! | 0.10% | ~17 |
-| I'm trying to FOCUS HERE! | 0.10% | ~17 |
+| Didn't skip a beat! | 0.10% | ~18 |
+| I have to read ALL of these things? | 0.10% | ~18 |
+| My Ultimate Setlist | 0.10% | ~18 |
+| What a journey it was... | 0.10% | ~18 |
+| This was... not what I expected. | 0.10% | ~18 |
+| I'm untouchable! | 0.10% | ~18 |
+| I'm trying to FOCUS HERE! | 0.10% | ~18 |
 | Please don't make this awkward | 0.10% | ~16 |
 | That was just EVIL | 0.10% | ~16 |
 | It was all for this | 0.10% | ~16 |
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,498 (Ranked 169)  
-Completed: 8 (0.05%) (Ranked 345)  
+Progressed: 17,501 (Ranked 169)  
+Completed: 8 (0.05%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -342,7 +342,7 @@ Completed: 8 (0.05%) (Ranked 345)
 | 2024-01-17 | 17,341 | 8 |
 | 2024-01-18 | 17,389 | 8 |
 | 2024-01-19 | 17,441 | 8 |
-| 2024-01-20 | 17,498 | 8 |
+| 2024-01-20 | 17,501 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

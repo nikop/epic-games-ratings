@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.72 (Ranked 196)  
+Rating: 4.72 (Ranked 197)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -40,8 +40,8 @@ Rating: 4.72 (Ranked 196)
 | The Finitude Drill | 36.00% | ~280 |
 | Doom Hill | 33.00% | ~257 |
 | Ghost Pirates? Ghost Heroes! | 32.00% | ~249 |
+| Brimstone Shaken, Not Stirred | 31.00% | ~241 |
 | Forbidden Knowledge | 30.00% | ~234 |
-| Brimstone Shaken, Not Stirred | 30.00% | ~234 |
 | Hungry, Hungry Gorgu! | 29.00% | ~226 |
 | Not Even a Tiny Thin Mint Wafer, Thanks! | 29.00% | ~226 |
 | Stop Tanos! | 29.00% | ~226 |

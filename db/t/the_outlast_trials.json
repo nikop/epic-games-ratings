@@ -2,13 +2,13 @@
   "ID": "6504cc61472e498796e0b4963a201438",
   "Name": "The Outlast Trials",
   "ProductSlug": "the-outlast-trials",
-  "Ranking_Rating": 322,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 260,
   "Ranking_PopularitySum": 232,
   "Ranking_EOS_Progress": 844,
-  "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-18T17:00:00+00:00",
     "PcReleaseDate": "2023-05-18T17:00:00+00:00",
@@ -4453,10 +4453,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1688,
       "NumberOfAwardsMax": 310
+    },
+    {
+      "Time": "2024-01-20T20:58:16.481072+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1689,
+      "NumberOfAwardsMax": 310
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1688,
+  "NumberOfAwards": 1689,
   "NumberOfAwardsMax": 310,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4476,7 +4482,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game is Highly Recommended",
@@ -4541,9 +4547,9 @@
   "FirstSeen": "2023-05-18T20:02:29.2906541+00:00",
   "FirstSeenRating": "2023-05-20T18:00:30.4536484+00:00",
   "FirstSeenAchievements": "2024-01-11T18:08:26.6528361+00:00",
-  "LastChanged": "2024-01-20T19:58:03.7642929+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:05:19.7778196+00:00",
-  "LastUpdate_AppInfo": "2024-01-13T19:57:14.2660492+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:58:03.7642934+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:05:19.777822+00:00"
+  "LastChanged": "2024-01-20T20:58:16.4810718+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:05:41.7443858+00:00",
+  "LastUpdate_AppInfo": "2024-01-20T20:57:01.2434038+00:00",
+  "LastUpdate_Ratings": "2024-01-20T20:58:16.4810723+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:05:41.7443879+00:00"
 }

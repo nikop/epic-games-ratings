@@ -2,13 +2,13 @@
   "ID": "5a2108f4db804040aaf44d139bd21bd1",
   "Name": "Hood: Outlaws \u0026 Legends",
   "ProductSlug": "hood-outlaws-and-legends",
-  "Ranking_Rating": 1059,
+  "Ranking_Rating": 1060,
   "Ranking_Popularity": 247,
   "Ranking_PopularitySum": 194,
   "Ranking_EOS_Progress": 844,
-  "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-05-10T15:00:00+00:00",
     "PcReleaseDate": "2021-05-10T15:00:00+00:00",
@@ -2711,12 +2711,18 @@
       "Rating": 3.99,
       "NumberOfAwards": 2799,
       "NumberOfAwardsMax": 379
+    },
+    {
+      "Time": "2024-01-20T20:58:59.7687873+00:00",
+      "Rating": 3.99,
+      "NumberOfAwards": 2800,
+      "NumberOfAwardsMax": 379
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2799,
+  "NumberOfAwards": 2800,
   "NumberOfAwardsMax": 379,
-  "MaxAwardTitle": "Diverse Characters",
+  "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
       "Text": "This game has Diverse Characters",
@@ -2764,7 +2770,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 378
+      "Count": 379
     }
   ],
   "EOS_Progressed": 0,
@@ -2778,8 +2784,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:31.7735861+00:00",
-  "LastChanged": "2024-01-11T11:58:02.5025675+00:00",
+  "LastChanged": "2024-01-20T20:58:59.7687871+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.5508218+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:58:43.9677706+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:05:34.7149481+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:58:59.7687876+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:05:58.0634839+00:00"
 }

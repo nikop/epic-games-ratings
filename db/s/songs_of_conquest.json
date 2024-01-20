@@ -2,13 +2,13 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 264,
+  "Ranking_Rating": 265,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 288,
-  "Ranking_EOS_Completed": 407,
+  "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1257,
+  "EOS_Progressed": 1258,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -4347,6 +4347,11 @@
       "Time": "2024-01-20T20:09:37.1046358+00:00",
       "NumProgressed": 1257,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T21:09:50.4380713+00:00",
+      "NumProgressed": 1258,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4503,7 +4508,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4790,15 +4795,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1257,
+      "Progressed": 1258,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:09:37.1046356+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:09:50.438071+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:57:28.802909+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:09:37.1046934+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:57:39.0037532+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:09:50.4381383+00:00"
 }

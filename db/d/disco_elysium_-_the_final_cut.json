@@ -6,9 +6,9 @@
   "Ranking_Popularity": 192,
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
-  "Ranking_EOS_Completed": 370,
+  "Ranking_EOS_Completed": 371,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139749,
+  "EOS_Progressed": 139752,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 689,
+  "EOS_NewPlayers": 687,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29276,6 +29276,11 @@
       "Time": "2024-01-20T20:08:58.7639356+00:00",
       "NumProgressed": 139749,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-20T21:09:08.6727648+00:00",
+      "NumProgressed": 139752,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29295,7 +29300,7 @@
       "Name": "Cause a ****storm",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_COMMITTEE",
@@ -29311,7 +29316,7 @@
       "Name": "The Opener Of The Eighth Seal",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "ACH_COP_ART",
@@ -29335,7 +29340,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12577
+      "UsersEstimate": 12578
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -29343,7 +29348,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32142
+      "UsersEstimate": 32143
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -29359,7 +29364,7 @@
       "Name": "Massive Torque Dork",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH_COP_GOOD",
@@ -29367,7 +29372,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39130
+      "UsersEstimate": 39131
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -29415,7 +29420,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18167
+      "UsersEstimate": 18168
     },
     {
       "ID": "ACH_COP_STAR",
@@ -29423,7 +29428,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20962
+      "UsersEstimate": 20963
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -29431,7 +29436,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15372
+      "UsersEstimate": 15373
     },
     {
       "ID": "ACH_CUNO",
@@ -29447,7 +29452,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12577
+      "UsersEstimate": 12578
     },
     {
       "ID": "ACH_GLUTEN",
@@ -29463,7 +29468,7 @@
       "Name": "True Detective",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_HARDCORE_TASK",
@@ -29487,7 +29492,7 @@
       "Name": "The Icebreaker",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "ACH_INFRAMATERIALIST",
@@ -29495,7 +29500,7 @@
       "Name": "Avowed Inframaterialist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 1397
+      "UsersEstimate": 1398
     },
     {
       "ID": "ACH_KIM",
@@ -29511,7 +29516,7 @@
       "Name": "Bother Kim After Hours",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4192
+      "UsersEstimate": 4193
     },
     {
       "ID": "ACH_KIM_JACKET",
@@ -29527,7 +29532,7 @@
       "Name": "Leopard Mindset",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 839
     },
     {
       "ID": "ACH_MEDAL",
@@ -29606,15 +29611,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139749,
+      "Progressed": 139752,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:08:58.7639354+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:09:08.6727645+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:57:23.9271843+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:08:58.7640734+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:57:33.6278675+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:09:08.6728986+00:00"
 }

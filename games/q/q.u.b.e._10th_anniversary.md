@@ -1,25 +1,25 @@
 # Q.U.B.E. 10th Anniversary
 [Store](https://store.epicgames.com/en-US/p/qube-10th-anniversary-59e999)  
 [View Rawdata](../../db/q/q.u.b.e._10th_anniversary.json)  
-Rating: 4.43 (Ranked 731)  
+Rating: 4.43 (Ranked 732)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 33.00% | ~9,950 |
-| Sector 2 | 30.00% | ~9,045 |
-| Crush That Cube! | 25.00% | ~7,538 |
-| Sector 3 | 25.00% | ~7,538 |
-| Sector 4 | 21.00% | ~6,332 |
-| Crush That Ball! | 19.00% | ~5,728 |
-| Sector 5 | 13.00% | ~3,920 |
-| Sector 6 | 11.00% | ~3,316 |
-| Feeling the Blues | 9.00% | ~2,714 |
-| Squished | 8.00% | ~2,412 |
-| Finale | 8.00% | ~2,412 |
-| Sector 7 | 8.00% | ~2,412 |
-| Did That Work? -- No! | 7.00% | ~2,110 |
+| Sector 1 | 33.00% | ~9,953 |
+| Sector 2 | 30.00% | ~9,049 |
+| Crush That Cube! | 25.00% | ~7,540 |
+| Sector 3 | 25.00% | ~7,540 |
+| Sector 4 | 21.00% | ~6,334 |
+| Crush That Ball! | 19.00% | ~5,731 |
+| Sector 5 | 13.00% | ~3,921 |
+| Sector 6 | 11.00% | ~3,318 |
+| Feeling the Blues | 9.00% | ~2,715 |
+| Squished | 8.00% | ~2,413 |
+| Finale | 8.00% | ~2,413 |
+| Sector 7 | 8.00% | ~2,413 |
+| Did That Work? -- No! | 7.00% | ~2,111 |
 | Master Room | 4.00% | ~1,206 |
-| The Puzzle Master | 3.00% | ~904 |
+| The Puzzle Master | 3.00% | ~905 |
 | The Collector | 2.00% | ~603 |
 | Bronze Trophy | 2.00% | ~603 |
 | Master Of The Collectables | 2.00% | ~603 |
@@ -30,8 +30,8 @@ Rating: 4.43 (Ranked 731)
 | Completed It. | 2.00% | ~603 |
 | Maxed Out | 2.00% | ~603 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,150 (Ranked 143)  
-Completed: 224 (0.74%) (Ranked 202)  
+Progressed: 30,162 (Ranked 143)  
+Completed: 225 (0.75%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -128,7 +128,7 @@ Completed: 224 (0.74%) (Ranked 202)
 | 2024-01-17 | 29,861 | 216 |
 | 2024-01-18 | 29,948 | 217 |
 | 2024-01-19 | 30,055 | 220 |
-| 2024-01-20 | 30,150 | 224 |
+| 2024-01-20 | 30,162 | 225 |
 ## Awards
 Max (Challenging Puzzles): 26  (Ranked 550)  
 Sum: 26 (Ranked 562)  

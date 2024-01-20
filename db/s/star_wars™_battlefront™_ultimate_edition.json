@@ -3,9 +3,9 @@
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
-  "Ranking_EOS_Completed": 362,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 363,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3062,
+  "EOS_Progressed": 3064,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8364,6 +8364,11 @@
       "Time": "2024-01-20T20:10:15.4224417+00:00",
       "NumProgressed": 3062,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T21:10:31.8402814+00:00",
+      "NumProgressed": 3064,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8406,9 +8411,9 @@
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 153
+      "UsersEstimate": 184
     },
     {
       "ID": "achievement_14",
@@ -8416,7 +8421,7 @@
       "Name": "Playing the objective",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_15",
@@ -8448,7 +8453,7 @@
       "Name": "The power of the Force",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_19",
@@ -8488,7 +8493,7 @@
       "Name": "Distinguished",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_23",
@@ -8520,7 +8525,7 @@
       "Name": "Together we can rule the galaxy",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_27",
@@ -8600,7 +8605,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2635
     },
     {
       "ID": "achievement_36",
@@ -8608,7 +8613,7 @@
       "Name": "Impressive. Most impressive.",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_37",
@@ -8616,7 +8621,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "achievement_38",
@@ -8648,7 +8653,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "achievement_41",
@@ -8672,7 +8677,7 @@
       "Name": "Walker defender",
       "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_44",
@@ -8728,7 +8733,7 @@
       "Name": "Shoot first",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "achievement_50",
@@ -8784,7 +8789,7 @@
       "Name": "Support the troops",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "achievement_57",
@@ -8879,13 +8884,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3062,
+      "Progressed": 3064,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3062,
+      "Progressed": 3064,
       "Completed": 1
     }
   ],
@@ -8893,8 +8898,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:10:15.4224415+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:10:31.8402811+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:00:23.2240833+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:10:15.4225284+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:00:47.9407252+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:31.8403603+00:00"
 }

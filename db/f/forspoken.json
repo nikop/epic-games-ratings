@@ -2,13 +2,13 @@
   "ID": "a472b0f2f2a5493d960a941f01cf3393",
   "Name": "Forspoken",
   "ProductSlug": "forspoken",
-  "Ranking_Rating": 999,
+  "Ranking_Rating": 1000,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47562,
+  "EOS_Progressed": 47566,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 356,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19448,6 +19448,11 @@
       "Time": "2024-01-20T20:05:45.8468468+00:00",
       "NumProgressed": 47562,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T21:06:10.3413735+00:00",
+      "NumProgressed": 47566,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19507,7 +19512,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6183
+      "UsersEstimate": 6184
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19523,7 +19528,7 @@
       "Name": "The Interloper",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "CHAPTER_04_CLEAR",
@@ -19723,7 +19728,7 @@
       "Name": "Wildfire",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "MAGIC_TANTA",
@@ -19795,7 +19800,7 @@
       "Name": "Unlocked Potential",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5707
+      "UsersEstimate": 5708
     },
     {
       "ID": "SPRING_ALL",
@@ -19811,7 +19816,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3329
+      "UsersEstimate": 3330
     },
     {
       "ID": "STAYING_AIR",
@@ -19882,22 +19887,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47562,
+      "Progressed": 47566,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12399,
-      "Completed": 12399
+      "Progressed": 12403,
+      "Completed": 12403
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:05:45.8468466+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:06:10.3413728+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:02:57.7293674+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:05:45.8469524+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:03:02.9298816+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:06:10.3415332+00:00"
 }

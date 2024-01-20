@@ -2,13 +2,13 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 596,
+  "Ranking_Rating": 597,
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 166,
-  "Ranking_EOS_Completed": 206,
+  "Ranking_EOS_Completed": 207,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17991,
+  "EOS_Progressed": 17994,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 158,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -18800,6 +18800,11 @@
       "Time": "2024-01-20T20:04:21.3089118+00:00",
       "NumProgressed": 17991,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-20T21:04:37.4232399+00:00",
+      "NumProgressed": 17994,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18819,7 +18824,7 @@
       "Name": "Rebel without a cause",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "tpote_achievement_11",
@@ -18827,7 +18832,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "tpote_achievement_12",
@@ -18851,7 +18856,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5757
+      "UsersEstimate": 5758
     },
     {
       "ID": "tpote_achievement_15",
@@ -18891,7 +18896,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "tpote_achievement_2",
@@ -18899,7 +18904,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5757
+      "UsersEstimate": 5758
     },
     {
       "ID": "tpote_achievement_20",
@@ -18915,7 +18920,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5217
+      "UsersEstimate": 5218
     },
     {
       "ID": "tpote_achievement_22",
@@ -18923,7 +18928,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3598
+      "UsersEstimate": 3599
     },
     {
       "ID": "tpote_achievement_23",
@@ -18963,7 +18968,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "tpote_achievement_28",
@@ -18987,7 +18992,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5577
+      "UsersEstimate": 5578
     },
     {
       "ID": "tpote_achievement_30",
@@ -19003,7 +19008,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3238
+      "UsersEstimate": 3239
     },
     {
       "ID": "tpote_achievement_32",
@@ -19019,7 +19024,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1439
+      "UsersEstimate": 1440
     },
     {
       "ID": "tpote_achievement_34",
@@ -19027,7 +19032,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "tpote_achievement_35",
@@ -19075,7 +19080,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7016
+      "UsersEstimate": 7018
     },
     {
       "ID": "tpote_achievement_40",
@@ -19099,7 +19104,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "tpote_achievement_6",
@@ -19107,7 +19112,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4138
+      "UsersEstimate": 4139
     },
     {
       "ID": "tpote_achievement_7",
@@ -19115,7 +19120,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1259
+      "UsersEstimate": 1260
     },
     {
       "ID": "tpote_achievement_8",
@@ -19123,7 +19128,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3778
+      "UsersEstimate": 3779
     },
     {
       "ID": "tpote_achievement_9",
@@ -19131,22 +19136,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6117
+      "UsersEstimate": 6118
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17991,
+      "Progressed": 17994,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:04:21.3089116+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:04:37.4232397+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:02:55.9057656+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:04:21.3090033+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:03:01.1503986+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:04:37.4233373+00:00"
 }

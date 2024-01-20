@@ -1,7 +1,7 @@
 # Destroy All Humans!
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans)  
 [View Rawdata](../../db/d/destroy_all_humans!.json)  
-Rating: 4.63 (Ranked 358)  
+Rating: 4.63 (Ranked 359)  
 Number of Ratings: 85  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -14,8 +14,8 @@ Number of Ratings: 85  (23.09.2022)
 | Yettisoned | 61.00% | ~325 |
 | Pimp My Raid | 59.00% | ~314 |
 | Perfect Probulator | 59.00% | ~314 |
+| Fly Me to the Moon Base | 53.00% | ~282 |
 | Lobster Blisque | 53.00% | ~282 |
-| Fly Me to the Moon Base | 52.00% | ~277 |
 | Earthly Pleasures | 49.00% | ~261 |
 | Ducks in a Row, Fish in a Barrel | 48.00% | ~255 |
 | Bodied Sattva | 38.00% | ~202 |
@@ -48,7 +48,7 @@ Number of Ratings: 85  (23.09.2022)
 | Against All Odds | 2.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 532 (Ranked 356)  
-Completed: 6 (1.13%) (Ranked 170)  
+Completed: 6 (1.13%) (Ranked 171)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

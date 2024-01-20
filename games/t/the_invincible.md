@@ -1,7 +1,7 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.58 (Ranked 472)  
+Rating: 4.58 (Ranked 473)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.58 (Ranked 472)
 | The Teleprobe | 58.00% | ~1,024 |
 | The City | 53.00% | ~935 |
 | The field base | 48.00% | ~847 |
-| The Alliance | 45.00% | ~794 |
+| The Alliance | 46.00% | ~812 |
 | Survivors | 42.00% | ~741 |
 | The Condor | 40.00% | ~706 |
 | The End | 40.00% | ~706 |
@@ -36,7 +36,7 @@ Rating: 4.58 (Ranked 472)
 | No more mistakes | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,765 (Ranked 262)  
-Completed: 1 (0.06%) (Ranked 338)  
+Completed: 1 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

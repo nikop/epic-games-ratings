@@ -3,9 +3,9 @@
   "Name": "The Jackbox Party Pack 10",
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 323,
-  "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 284,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
     "PcReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 766,
+  "EOS_Progressed": 768,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2479,6 +2479,11 @@
       "Time": "2024-01-20T05:09:52.365802+00:00",
       "NumProgressed": 766,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T21:10:15.5061087+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2523,7 +2528,7 @@
       "Name": "Hypnotorious: Brainiacs",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "HYPNO_OUTLIER_ID",
@@ -2563,7 +2568,7 @@
       "Name": "FixyText: Bestseller",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "RISKYTEXT_PLAY_ALL_CATEGORIES",
@@ -2587,7 +2592,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "TIME_ORWELL",
@@ -2603,7 +2608,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 283
+      "UsersEstimate": 284
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2650,14 +2655,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 766,
+      "Progressed": 768,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:10:00.0511942+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:10:15.5061085+00:00",
   "LastUpdate_AppInfo": "2024-01-20T02:56:57.3928045+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:00:26.5826094+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:10:00.0512134+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:00:51.3160248+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:15.5061361+00:00"
 }

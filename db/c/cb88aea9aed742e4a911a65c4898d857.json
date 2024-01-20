@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 222,
+  "Ranking_Rating": 224,
   "Ranking_Popularity": 332,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 381,
+  "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11942,
+  "EOS_Progressed": 11948,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 619,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5638,6 +5638,11 @@
       "Time": "2024-01-20T20:10:10.1007066+00:00",
       "NumProgressed": 11942,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T21:10:25.9526332+00:00",
+      "NumProgressed": 11948,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5650,7 +5655,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2747
+      "UsersEstimate": 2748
     },
     {
       "ID": "03_TheStolenStar",
@@ -5658,7 +5663,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5666,7 +5671,7 @@
       "Name": "Trade Empire",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -5674,7 +5679,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5762,7 +5767,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "17_TheExemplar",
@@ -5778,7 +5783,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5786,7 +5791,7 @@
       "Name": "Void Wolf",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -5810,7 +5815,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "23_DynastyRestored",
@@ -5818,7 +5823,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "24_TheHighrise",
@@ -5858,7 +5863,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5898,7 +5903,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1433
+      "UsersEstimate": 1434
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5962,7 +5967,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1552
+      "UsersEstimate": 1553
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5978,7 +5983,7 @@
       "Name": "No Place Like Home",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1194
+      "UsersEstimate": 1195
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6002,7 +6007,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "47_AFlame",
@@ -6024,9 +6029,9 @@
       "ID": "49_HowDidItAllEnd",
       "SetID": "37a94m8",
       "Name": "How Did It All End?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 60
     },
     {
       "ID": "50_Whodunit",
@@ -6169,7 +6174,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11942,
+      "Progressed": 11948,
       "Completed": 1
     }
   ],
@@ -6177,8 +6182,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-20T14:00:29.182554+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:10:10.1007064+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:10:25.9526329+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:00:26.7178651+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:10:10.1007639+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:00:51.4449932+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:25.9527143+00:00"
 }

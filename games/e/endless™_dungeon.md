@@ -22,7 +22,7 @@
 | No Stone Unturned | 5.00% | ~79 |
 | Turret Syndrome | 2.00% | ~32 |
 | Endless Biographer | 1.00% | ~16 |
-| All Your Secrets Are Belong to Us | 0.90% | ~14 |
+| All Your Secrets Are Belong to Us | 1.00% | ~16 |
 | Grab 'Em All | 0.30% | ~5 |
 | Unnaturally Curious | 0.00% | ~0 |
 | Starting an Endless Story | 0.00% | ~0 |
@@ -36,7 +36,7 @@
 | Full Throttle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,587 (Ranked 269)  
-Completed: 0 (0.00%) (Ranked 407)  
+Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

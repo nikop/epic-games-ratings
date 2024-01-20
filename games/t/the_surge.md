@@ -1,24 +1,24 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 709)  
+Rating: 4.44 (Ranked 710)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,144 |
-| I'll Be Back | 84.00% | ~4,596 |
+| On My Own Two Feet | 94.00% | ~5,145 |
+| I'll Be Back | 84.00% | ~4,597 |
 | Sorry, I Dropped This | 76.00% | ~4,159 |
-| First Day on the Job | 75.00% | ~4,104 |
+| First Day on the Job | 75.00% | ~4,105 |
 | Butcher's Bill | 54.00% | ~2,955 |
 | P.A.X | 36.00% | ~1,970 |
-| Hey Listen | 35.00% | ~1,915 |
-| OPERATOR | 35.00% | ~1,915 |
+| Hey Listen | 35.00% | ~1,916 |
+| OPERATOR | 35.00% | ~1,916 |
 | It's Blue Light | 33.00% | ~1,806 |
 | Most Wanted | 26.00% | ~1,423 |
 | Infidel | 23.00% | ~1,259 |
-| Firebug | 20.00% | ~1,094 |
-| GOLIATH | 20.00% | ~1,094 |
+| Firebug | 20.00% | ~1,095 |
+| GOLIATH | 20.00% | ~1,095 |
 | I Choose You | 17.00% | ~930 |
 | Nothing to Lose | 17.00% | ~930 |
 | Big Sister | 15.00% | ~821 |
@@ -31,9 +31,9 @@ Number of Ratings: 62  (23.09.2022)
 | Who's in Charge Here? | 11.00% | ~602 |
 | Shall Not Pass | 11.00% | ~602 |
 | Right Tool for the Job | 10.00% | ~547 |
-| Melting Down | 9.00% | ~492 |
-| Raging Drones | 9.00% | ~492 |
-| Overconfident | 9.00% | ~492 |
+| Melting Down | 9.00% | ~493 |
+| Raging Drones | 9.00% | ~493 |
+| Overconfident | 9.00% | ~493 |
 | Pusher Man | 8.00% | ~438 |
 | Squad Chief Helvig | 8.00% | ~438 |
 | No More Marching | 8.00% | ~438 |
@@ -74,8 +74,8 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,472 (Ranked 206)  
-Completed: 18 (0.33%) (Ranked 258)  
+Progressed: 5,473 (Ranked 206)  
+Completed: 18 (0.33%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,7 +306,7 @@ Completed: 18 (0.33%) (Ranked 258)
 | 2024-01-17 | 5,445 | 18 |
 | 2024-01-18 | 5,459 | 18 |
 | 2024-01-19 | 5,467 | 18 |
-| 2024-01-20 | 5,472 | 18 |
+| 2024-01-20 | 5,473 | 18 |
 ## Awards
 Max (Great Boss Battles): 30  (Ranked 528)  
 Sum: 30 (Ranked 550)  

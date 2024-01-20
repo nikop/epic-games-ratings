@@ -2,13 +2,13 @@
   "ID": "18ad196e381b4331bf856e71a85ee0df",
   "Name": "Sniper Elite 5",
   "ProductSlug": "sniper-elite-5",
-  "Ranking_Rating": 661,
+  "Ranking_Rating": 662,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 550,
   "Ranking_EOS_Progress": 216,
-  "Ranking_EOS_Completed": 273,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 275,
+  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -679,11 +679,11 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 4313,
+  "EOS_Progressed": 4314,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.26,
+  "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:23.1376838+00:00",
@@ -9854,6 +9854,11 @@
       "Time": "2024-01-20T20:09:53.1290009+00:00",
       "NumProgressed": 4313,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-20T21:10:07.8108408+00:00",
+      "NumProgressed": 4314,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9945,7 +9950,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2028
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -10033,7 +10038,7 @@
       "Name": "Confirming Suspicions",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1811
+      "UsersEstimate": 1812
     },
     {
       "ID": "REWARD_30_OUT_OF_SCOPE",
@@ -10273,7 +10278,7 @@
       "Name": "The Kraken Sleeps",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 1121
+      "UsersEstimate": 1122
     },
     {
       "ID": "REWARD_9_NO_LOOSE_ENDS",
@@ -10329,7 +10334,7 @@
       "Name": "Herr Today, Gone Tomorrow",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "REWARD_DLC01_07_OPERATION_FOXLEY",
@@ -10432,13 +10437,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4264,
+      "Progressed": 4265,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4313,
+      "Progressed": 4314,
       "Completed": 11
     }
   ],
@@ -10446,8 +10451,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-19T17:00:44.3296249+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:09:53.1290007+00:00",
-  "LastUpdate_AppInfo": "2024-01-13T19:57:17.6293358+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:00:09.7504614+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:09:53.1290787+00:00"
+  "LastChanged_Achievements": "2024-01-20T21:10:07.8108406+00:00",
+  "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
+  "LastUpdate_Ratings": "2024-01-20T21:00:33.3409001+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:10:07.8109234+00:00"
 }

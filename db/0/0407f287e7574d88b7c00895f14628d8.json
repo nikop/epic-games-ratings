@@ -3,9 +3,9 @@
   "Name": "Settlement Survival",
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
-  "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -1083,9 +1083,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 122
     },
     {
       "ID": "g2",
@@ -1291,9 +1291,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "w2",
@@ -1394,8 +1394,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:06:00.7210878+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:06:26.3030613+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:02:59.2532933+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:06:00.7211262+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:03:04.6243603+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:06:26.3030951+00:00"
 }

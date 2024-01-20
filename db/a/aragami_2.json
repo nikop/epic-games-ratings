@@ -2,11 +2,11 @@
   "ID": "e8bab5eae849405890fca0cd2d1f808e",
   "Name": "Aragami 2",
   "ProductSlug": "aragami-2",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 131,
-  "Ranking_EOS_Completed": 223,
+  "Ranking_EOS_Completed": 224,
   "Ranking_EOS_NewPlayers": 170,
   "Ranking_EOS_NewCompleters": 67,
   "Store": {
@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45307,
+  "EOS_Progressed": 45308,
   "EOS_Completed": 251,
-  "EOS_NewPlayers": 200,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -21547,6 +21547,11 @@
       "Time": "2024-01-20T20:05:44.065606+00:00",
       "NumProgressed": 45307,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2024-01-20T21:06:08.4590422+00:00",
+      "NumProgressed": 45308,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 44,
@@ -21558,7 +21563,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25825
+      "UsersEstimate": 25826
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21766,7 +21771,7 @@
       "Name": "Wall Lizard",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 9061
+      "UsersEstimate": 9062
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -21790,7 +21795,7 @@
       "Name": "Engraved with Power",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 14498
+      "UsersEstimate": 14499
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -21798,7 +21803,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28543
+      "UsersEstimate": 28544
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -21822,7 +21827,7 @@
       "Name": "Apprentice",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 27184
+      "UsersEstimate": 27185
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -21862,7 +21867,7 @@
       "Name": "I don\u2019t Care!",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 20841
+      "UsersEstimate": 20842
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -21878,7 +21883,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -21909,7 +21914,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45307,
+      "Progressed": 45308,
       "Completed": 251
     }
   ],
@@ -21917,8 +21922,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-20T20:05:44.0656057+00:00",
+  "LastChanged_Achievements": "2024-01-20T21:06:08.4590418+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.4342341+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:03:08.2601652+00:00",
-  "LastUpdate_Achievements": "2024-01-20T20:05:44.0657094+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:03:14.7353799+00:00",
+  "LastUpdate_Achievements": "2024-01-20T21:06:08.4591449+00:00"
 }

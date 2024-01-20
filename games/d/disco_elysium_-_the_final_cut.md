@@ -6,49 +6,49 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~39,130 |
-| Biggest Communism Builder | 23.00% | ~32,142 |
+| Goodest Of The Good Cops | 28.00% | ~39,131 |
+| Biggest Communism Builder | 23.00% | ~32,143 |
 | The World's Most Laughable Centrist | 20.00% | ~27,950 |
 | Il Coppo Del'Arte! | 18.00% | ~25,155 |
 | Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,360 |
-| Hyperstellar Law Official | 15.00% | ~20,962 |
+| Hyperstellar Law Official | 15.00% | ~20,963 |
 | Recruit Detective Kim Kitsuragi | 14.00% | ~19,565 |
 | Gurdi-Ball Is Lit | 14.00% | ~19,565 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,167 |
-| Truly Rabid *Traditionalist* | 11.00% | ~15,372 |
-| Unbelievably Boring **** | 9.00% | ~12,577 |
-| The Figurines Won't Win Her Back | 9.00% | ~12,577 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~18,168 |
+| Truly Rabid *Traditionalist* | 11.00% | ~15,373 |
+| Unbelievably Boring **** | 9.00% | ~12,578 |
+| The Figurines Won't Win Her Back | 9.00% | ~12,578 |
 | Enemy Of The Physical Realm | 8.00% | ~11,180 |
 | Hardie's Heroes | 6.00% | ~8,385 |
 | The Lawbringer | 4.00% | ~5,590 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,590 |
-| The Opener Of The Eighth Seal | 3.00% | ~4,192 |
-| Bother Kim After Hours | 3.00% | ~4,192 |
+| The Opener Of The Eighth Seal | 3.00% | ~4,193 |
+| Bother Kim After Hours | 3.00% | ~4,193 |
 | Baddest Of the Bad Cops | 2.00% | ~2,795 |
 | Expert Advanced Remote Viewer | 2.00% | ~2,795 |
 | Recruit Detective Kuuno de Ruyter | 2.00% | ~2,795 |
 | Wheel of Pleasure and Light | 2.00% | ~2,795 |
-| Massive Torque Dork | 1.00% | ~1,397 |
-| Avowed Inframaterialist | 1.00% | ~1,397 |
+| Massive Torque Dork | 1.00% | ~1,398 |
+| Avowed Inframaterialist | 1.00% | ~1,398 |
 | Venture into the HARDCORE | 0.90% | ~1,258 |
 | Real Musor | 0.90% | ~1,258 |
 | Baddest Brow in Town | 0.80% | ~1,118 |
 | Committee of la Responsabilité | 0.80% | ~1,118 |
 | Networthy Individual | 0.70% | ~978 |
-| Leopard Mindset | 0.60% | ~838 |
+| Leopard Mindset | 0.60% | ~839 |
 | Modus: Mullen | 0.30% | ~419 |
 | Palerunner | 0.30% | ~419 |
-| Cause a ****storm | 0.20% | ~279 |
-| True Detective | 0.20% | ~279 |
-| The Icebreaker | 0.20% | ~279 |
+| Cause a ****storm | 0.20% | ~280 |
+| True Detective | 0.20% | ~280 |
+| The Icebreaker | 0.20% | ~280 |
 | The Most Honourable Cop in The Land | 0.10% | ~140 |
 | Gluten-Free Topping Pie | 0.10% | ~140 |
 | Get Kim to Wear *The Jacket* | 0.10% | ~140 |
 | Medal dispenser | 0.10% | ~140 |
 | What body? | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,749 (Ranked 91)  
-Completed: 29 (0.02%) (Ranked 370)  
+Progressed: 139,752 (Ranked 91)  
+Completed: 29 (0.02%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -322,7 +322,7 @@ Completed: 29 (0.02%) (Ranked 370)
 | 2024-01-17 | 139,506 | 29 |
 | 2024-01-18 | 139,576 | 29 |
 | 2024-01-19 | 139,662 | 29 |
-| 2024-01-20 | 139,749 | 29 |
+| 2024-01-20 | 139,752 | 29 |
 ## Awards
 Max (Character Customization): 769  (Ranked 192)  
 Sum: 1,174 (Ranked 266)  
