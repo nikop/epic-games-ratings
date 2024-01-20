@@ -9,12 +9,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 5.00% | ~851 |
 | Settler | 5.00% | ~851 |
 | Play a Single Player Game | 5.00% | ~851 |
+| Architect | 4.00% | ~681 |
 | Intrepid | 4.00% | ~681 |
 | Friendly Family | 4.00% | ~681 |
 | Hanging Gardens | 4.00% | ~681 |
 | Able | 3.00% | ~511 |
 | Ambitious | 3.00% | ~511 |
-| Architect | 3.00% | ~511 |
 | Enlightened | 3.00% | ~511 |
 | Glorious | 3.00% | ~511 |
 | Good | 3.00% | ~511 |
@@ -83,17 +83,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Power to the People | 1.00% | ~170 |
 | Persian Paganism | 1.00% | ~170 |
 | Building Wonders | 1.00% | ~170 |
+| Economic Reform | 1.00% | ~170 |
 | Points Victory | 1.00% | ~170 |
 | Win a Single Player Game | 1.00% | ~170 |
 | Landowners | 0.90% | ~153 |
 | Traders | 0.90% | ~153 |
+| Circus Maximus | 0.90% | ~153 |
 | Hagia Sophia | 0.90% | ~153 |
 | Pantheon | 0.90% | ~153 |
 | Via Recta Souk | 0.90% | ~153 |
-| Economic Reform | 0.90% | ~153 |
 | Military Prestige | 0.90% | ~153 |
 | Dualism | 0.90% | ~153 |
 | Legalism | 0.90% | ~153 |
+| Legionary | 0.90% | ~153 |
 | Double Victory | 0.90% | ~153 |
 | The Clergy | 0.90% | ~153 |
 | Kushite Paganism | 0.90% | ~153 |
@@ -103,12 +105,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.80% | ~136 |
 | Subjugator | 0.80% | ~136 |
 | Riders | 0.80% | ~136 |
-| Circus Maximus | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Assyrian Paganism | 0.80% | ~136 |
 | Industrial Progress | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
-| Legionary | 0.80% | ~136 |
 | Jerwan Aqueduct | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
@@ -265,6 +265,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn By Playing 1 - Able | 0.10% | ~17 |
 | Learn By Playing 2 - Just | 0.10% | ~17 |
 | Learn By Playing 3 - Good | 0.10% | ~17 |
+| Learn By Playing 4 - Strong | 0.10% | ~17 |
 | Macedonian Wars | 0.10% | ~17 |
 | Medo-Babylonian Conquest | 0.10% | ~17 |
 | Merchants of the Levant | 0.10% | ~17 |
@@ -340,7 +341,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Youth Prevails | 0.00% | ~0 |
 | Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
-| Learn By Playing 4 - Strong | 0.00% | ~0 |
 | Win a LAN Game | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,018 (Ranked 170)  
+Progressed: 17,020 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,11 +640,11 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,018 | 5 |
+| 2024-01-20 | 17,020 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,943 (Ranked 223)  
-Diff (max vs sum): 64  
+Sum: 1,943 (Ranked 224)  
+Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |

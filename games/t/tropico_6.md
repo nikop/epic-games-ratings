@@ -1,16 +1,16 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.64 (Ranked 347)  
+Rating: 4.64 (Ranked 348)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,263 |
-| Un-Lonely Island | 44.00% | ~3,172 |
-| The Beginning of a Servantship | 43.00% | ~3,100 |
+| Just One...More...Term... | 73.00% | ~5,264 |
+| Un-Lonely Island | 44.00% | ~3,173 |
+| The Beginning of a Servantship | 43.00% | ~3,101 |
 | Trade Is My Trait | 35.00% | ~2,524 |
-| Number 18 | 23.00% | ~1,658 |
+| Number 18 | 23.00% | ~1,659 |
 | We Don't Have Time For That | 18.00% | ~1,298 |
 | The Legend of Langostino | 16.00% | ~1,154 |
 | The Governator | 16.00% | ~1,154 |
@@ -27,11 +27,11 @@ Number of Ratings: 398  (23.09.2022)
 | French Connection | 7.00% | ~505 |
 | Don't Panic! | 6.00% | ~433 |
 | I Owe You Nothing | 6.00% | ~433 |
-| Viva Tropico! | 5.00% | ~360 |
-| Computer Says "No" | 5.00% | ~360 |
-| Beware The Betman | 5.00% | ~360 |
-| Watch The World Burn | 5.00% | ~360 |
-| Fairy Tale Come True | 5.00% | ~360 |
+| Viva Tropico! | 5.00% | ~361 |
+| Computer Says "No" | 5.00% | ~361 |
+| Beware The Betman | 5.00% | ~361 |
+| Watch The World Burn | 5.00% | ~361 |
+| Fairy Tale Come True | 5.00% | ~361 |
 | Been there, Done That | 3.00% | ~216 |
 | Apocalypso | 3.00% | ~216 |
 | Narcissist | 3.00% | ~216 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~58 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,210 (Ranked 202)  
+Progressed: 7,211 (Ranked 202)  
 Completed: 2 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 2 (0.03%) (Ranked 361)
 | 2024-01-17 | 7,183 | 2 |
 | 2024-01-18 | 7,193 | 2 |
 | 2024-01-19 | 7,203 | 2 |
-| 2024-01-20 | 7,210 | 2 |
+| 2024-01-20 | 7,211 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 373)  
 Sum: 769 (Ranked 303)  

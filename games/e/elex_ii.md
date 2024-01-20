@@ -6,9 +6,9 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 45.00% | ~120 |
+| Entrepreneur | 46.00% | ~123 |
 | Best Buddy | 39.00% | ~104 |
-| Civilian | 36.00% | ~96 |
+| Civilian | 37.00% | ~99 |
 | Role Model | 35.00% | ~93 |
 | Creator | 33.00% | ~88 |
 | Military Leader | 30.00% | ~80 |
@@ -16,7 +16,7 @@ Number of Ratings: 124  (23.09.2022)
 | Peddler | 26.00% | ~69 |
 | Commander | 25.00% | ~67 |
 | Irissa's Fate | 22.00% | ~59 |
-| Long-Haul Flyer | 19.00% | ~51 |
+| Long-Haul Flyer | 20.00% | ~53 |
 | Family Reunion | 19.00% | ~51 |
 | Pass A38 | 18.00% | ~48 |
 | Eternal Oblivion | 17.00% | ~45 |
@@ -28,8 +28,8 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 12.00% | ~32 |
 | Hunter | 12.00% | ~32 |
 | Lover | 12.00% | ~32 |
+| Free as a Bird | 10.00% | ~27 |
 | Perfectionist | 10.00% | ~27 |
-| Free as a Bird | 9.00% | ~24 |
 | Treasure Hunter | 8.00% | ~21 |
 | Detective | 8.00% | ~21 |
 | Weaponsmith | 7.00% | ~19 |

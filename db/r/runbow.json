@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253649,
+  "EOS_Progressed": 253653,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 235,
+  "EOS_NewPlayers": 234,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24562,6 +24562,11 @@
       "Time": "2024-01-20T08:10:00.6686298+00:00",
       "NumProgressed": 253649,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-20T14:10:15.0713119+00:00",
+      "NumProgressed": 253653,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24573,7 +24578,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17755
+      "UsersEstimate": 17756
     },
     {
       "ID": "aWinnerIsYou",
@@ -24597,7 +24602,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53266
+      "UsersEstimate": 53267
     },
     {
       "ID": "blotbuster",
@@ -24629,7 +24634,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43120
+      "UsersEstimate": 43121
     },
     {
       "ID": "cantBeKeptDown",
@@ -24645,7 +24650,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38047
+      "UsersEstimate": 38048
     },
     {
       "ID": "clearCut",
@@ -24669,7 +24674,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45657
+      "UsersEstimate": 45658
     },
     {
       "ID": "curator",
@@ -24677,7 +24682,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50730
+      "UsersEstimate": 50731
     },
     {
       "ID": "didYourTime",
@@ -24725,7 +24730,7 @@
       "Name": "He Who Laughs Last",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7609
+      "UsersEstimate": 7610
     },
     {
       "ID": "hereWeGo",
@@ -24749,7 +24754,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134434
+      "UsersEstimate": 134436
     },
     {
       "ID": "indegestible",
@@ -24765,7 +24770,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17755
+      "UsersEstimate": 17756
     },
     {
       "ID": "itsTheFall",
@@ -24773,7 +24778,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65949
+      "UsersEstimate": 65950
     },
     {
       "ID": "justABit",
@@ -24781,7 +24786,7 @@
       "Name": "Just A Bit",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "lazyLaser",
@@ -24813,7 +24818,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126824
+      "UsersEstimate": 126826
     },
     {
       "ID": "notScared",
@@ -24861,7 +24866,7 @@
       "Name": "Shoo, Cat!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7609
+      "UsersEstimate": 7610
     },
     {
       "ID": "talentScout",
@@ -24877,7 +24882,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58339
+      "UsersEstimate": 58340
     },
     {
       "ID": "thunderstruck",
@@ -24893,7 +24898,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32974
+      "UsersEstimate": 32975
     },
     {
       "ID": "treeMedalist",
@@ -24917,7 +24922,7 @@
       "Name": "Tubular, Dude",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "whatATrip",
@@ -24925,7 +24930,7 @@
       "Name": "What A Trip",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 2536
+      "UsersEstimate": 2537
     },
     {
       "ID": "youJuanAGo",
@@ -24940,7 +24945,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253649,
+      "Progressed": 253653,
       "Completed": 6
     }
   ],
@@ -24948,8 +24953,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:18.0683469+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:15.0713116+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:03:52.5512985+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:18.0685025+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:59:55.3402546+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:15.0714666+00:00"
 }

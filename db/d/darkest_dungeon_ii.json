@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 116,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11014,10 +11014,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21773,
       "NumberOfAwardsMax": 8048
+    },
+    {
+      "Time": "2024-01-20T13:57:59.7588618+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21774,
+      "NumberOfAwardsMax": 8048
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21773,
+  "NumberOfAwards": 21774,
   "NumberOfAwardsMax": 8048,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11085,7 +11091,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1458
+      "Count": 1459
     },
     {
       "Text": "This game has a Creative Community",
@@ -11094,9 +11100,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133297,
+  "EOS_Progressed": 133298,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 638,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40749,6 +40755,11 @@
       "Time": "2024-01-20T13:14:22.5749979+00:00",
       "NumProgressed": 133297,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T14:10:18.5987449+00:00",
+      "NumProgressed": 133298,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41336,7 +41347,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -41391,21 +41402,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133297,
+      "Progressed": 133298,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8166,
+      "Progressed": 8167,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-20T08:58:06.7268001+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:22.5749974+00:00",
+  "LastChanged": "2024-01-20T13:57:59.7588616+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:18.5987446+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:01:03.463658+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:22.5752651+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:57:59.7588623+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:18.5989186+00:00"
 }

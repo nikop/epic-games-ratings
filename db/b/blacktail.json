@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 921,
+  "EOS_Progressed": 922,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2986,6 +2986,11 @@
       "Time": "2024-01-18T20:11:14.4420384+00:00",
       "NumProgressed": 921,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T14:10:19.8751219+00:00",
+      "NumProgressed": 922,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -3109,7 +3114,7 @@
       "Name": "Spirit animal",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "LiarLiar",
@@ -3117,7 +3122,7 @@
       "Name": "Liar Liar",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "LittleHelper",
@@ -3252,7 +3257,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 921,
+      "Progressed": 922,
       "Completed": 1
     }
   ],
@@ -3260,8 +3265,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:24.279849+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:19.8751217+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:23.9247795+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:00:42.0334592+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:24.2798928+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:57:45.6431474+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:19.8751508+00:00"
 }

@@ -18,6 +18,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.40% | ~4,223 |
 | Legend of The Afterlife | 0.40% | ~4,223 |
 | All the President's Men | 0.40% | ~737 |
+| Arachnophobia | 0.40% | ~737 |
 | Bushido and Chill | 0.30% | ~3,167 |
 | Gun Fu | 0.30% | ~3,167 |
 | Master Crafter | 0.30% | ~3,167 |
@@ -27,7 +28,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.30% | ~3,167 |
 | True Warrior | 0.30% | ~3,167 |
 | Judy vs Night City | 0.30% | ~3,167 |
-| Arachnophobia | 0.30% | ~553 |
 | To Protect and Serve | 0.20% | ~2,111 |
 | The Wandering Fool | 0.20% | ~2,111 |
 | Two Heads, One Bullet | 0.20% | ~2,111 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,662 (Ranked 17)  
-Completed: 3,133 (0.30%) (Ranked 264)  
+Progressed: 1,055,700 (Ranked 17)  
+Completed: 3,134 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,7 +349,7 @@ Completed: 3,133 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,662 | 3,133 |
+| 2024-01-20 | 1,055,700 | 3,134 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
 Sum: 507,789 (Ranked 8)  

@@ -4,7 +4,7 @@
   "ProductSlug": "fly-corp-398021",
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 324,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
@@ -4812,9 +4812,9 @@
       "ID": "ReliableTransporter",
       "SetID": "1e89b4i",
       "Name": "Reliable Transporter",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 139
+      "UsersEstimate": 151
     },
     {
       "ID": "ResourceEconomy",
@@ -4891,8 +4891,8 @@
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:28.0864884+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:22.7872855+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.7241323+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:01:50.0671662+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:28.0865345+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:58:30.6028994+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:22.7873214+00:00"
 }

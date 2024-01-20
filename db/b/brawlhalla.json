@@ -4,7 +4,7 @@
   "ProductSlug": "brawlhalla",
   "Ranking_Rating": 425,
   "Ranking_Popularity": 197,
-  "Ranking_PopularitySum": 140,
+  "Ranking_PopularitySum": 139,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 554,
@@ -11031,10 +11031,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 5683,
       "NumberOfAwardsMax": 710
+    },
+    {
+      "Time": "2024-01-20T13:58:13.565996+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 5694,
+      "NumberOfAwardsMax": 710
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5683,
+  "NumberOfAwards": 5694,
   "NumberOfAwardsMax": 710,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -11042,7 +11048,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 571
+      "Count": 576
     },
     {
       "Text": "This game has Competitive Players",
@@ -11054,7 +11060,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 668
+      "Count": 670
     },
     {
       "Text": "This game is Great for Quick Sessions",
@@ -11096,7 +11102,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 600
+      "Count": 604
     },
     {
       "Text": "This game has a Competitive Community",
@@ -11123,8 +11129,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-11-16T19:56:53.7213253+00:00",
   "FirstSeenRating": "2022-11-21T06:57:02.0735408+00:00",
-  "LastChanged": "2024-01-20T02:57:45.6932912+00:00",
+  "LastChanged": "2024-01-20T13:58:13.5659958+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.9549384+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:01:24.460464+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:13:45.5866359+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:58:13.5659967+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:09:51.5399388+00:00"
 }

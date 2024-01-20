@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7275,
+  "EOS_Progressed": 7276,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11374,6 +11374,11 @@
       "Time": "2024-01-20T12:04:32.4592267+00:00",
       "NumProgressed": 7275,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T14:04:38.3115586+00:00",
+      "NumProgressed": 7276,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11585,7 +11590,7 @@
       "Name": "My Final Form",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "33",
@@ -11849,7 +11854,7 @@
       "Name": "But this one is mine",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "60",
@@ -11864,13 +11869,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7275,
+      "Progressed": 7276,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7275,
+      "Progressed": 7276,
       "Completed": 8
     }
   ],
@@ -11878,8 +11883,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:08:28.9889917+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:04:38.3115582+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:03:02.8347938+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:08:28.9890849+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:59:21.0498686+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:04:38.3116519+00:00"
 }

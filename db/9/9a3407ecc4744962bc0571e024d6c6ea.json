@@ -4027,9 +4027,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 831
+      "UsersEstimate": 844
     },
     {
       "ID": "BoxingClever",
@@ -4186,8 +4186,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:15.950332+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:13.4472154+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.0988435+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:00:11.5297754+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:15.9503723+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:57:24.8822831+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:13.4472373+00:00"
 }

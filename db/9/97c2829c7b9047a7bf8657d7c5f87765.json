@@ -4,7 +4,7 @@
   "ProductSlug": "elemental-war-2-d7db6e",
   "Ranking_EOS_Progress": 625,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewPlayers": 490,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-20T15:00:00+00:00",
@@ -269,9 +269,9 @@
       "ID": "22",
       "SetID": "7095412",
       "Name": "Bronze Rank",
-      "Percentage": 23,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "23",
@@ -317,9 +317,9 @@
       "ID": "28",
       "SetID": "7095412",
       "Name": "Invincible",
-      "Percentage": 18,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "29",
@@ -492,8 +492,8 @@
   ],
   "FirstSeen": "2023-08-25T14:00:23.6094208+00:00",
   "FirstSeenAchievements": "2023-06-30T11:02:07.8457996+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:10:55.0522464+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:06:22.0593306+00:00",
   "LastUpdate_AppInfo": "2024-01-20T02:56:56.9676388+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:01:15.3252698+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:10:55.052274+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:58:07.4939751+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:06:22.0593601+00:00"
 }

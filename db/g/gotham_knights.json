@@ -5393,7 +5393,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83059,
+  "EOS_Progressed": 83061,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 2,
@@ -30933,6 +30933,11 @@
       "Time": "2024-01-20T13:11:27.2140186+00:00",
       "NumProgressed": 83059,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-20T14:06:23.3167666+00:00",
+      "NumProgressed": 83061,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31040,7 +31045,7 @@
       "Name": "Protector of Gotham",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 13289
+      "UsersEstimate": 13290
     },
     {
       "ID": "CLAYFACE_1",
@@ -31064,7 +31069,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11628
+      "UsersEstimate": 11629
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -31184,7 +31189,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15781
+      "UsersEstimate": 15782
     },
     {
       "ID": "FREEZE_3",
@@ -31192,7 +31197,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11628
+      "UsersEstimate": 11629
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -31248,7 +31253,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28240
+      "UsersEstimate": 28241
     },
     {
       "ID": "HARLEY_2",
@@ -31256,7 +31261,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19934
+      "UsersEstimate": 19935
     },
     {
       "ID": "HARLEY_3",
@@ -31320,7 +31325,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21595
+      "UsersEstimate": 21596
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31336,7 +31341,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27409
+      "UsersEstimate": 27410
     },
     {
       "ID": "MYSTERY_02",
@@ -31344,7 +31349,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19934
+      "UsersEstimate": 19935
     },
     {
       "ID": "MYSTERY_03",
@@ -31376,7 +31381,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11628
+      "UsersEstimate": 11629
     },
     {
       "ID": "MYSTERY_07",
@@ -31400,7 +31405,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9136
+      "UsersEstimate": 9137
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -31431,13 +31436,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83059,
+      "Progressed": 83061,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53339,
+      "Progressed": 53341,
       "Completed": 2680
     }
   ],
@@ -31445,8 +31450,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-19T22:57:50.8336783+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:11:27.2140183+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:06:23.3167662+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:01:31.6340455+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:11:27.2142174+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:58:18.1563576+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:06:23.3169005+00:00"
 }

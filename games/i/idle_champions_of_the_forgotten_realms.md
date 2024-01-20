@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 4.00% | ~10,195 |
-| Beast Intentions | 2.00% | ~5,097 |
-| The Cursed Farmer | 2.00% | ~5,097 |
-| The Mad Wizard | 2.00% | ~5,097 |
+| Beast Intentions | 2.00% | ~5,098 |
+| The Cursed Farmer | 2.00% | ~5,098 |
+| The Mad Wizard | 2.00% | ~5,098 |
 | The Ring of Regeneration | 1.00% | ~2,549 |
 | Are Ya Chicken? | 1.00% | ~2,549 |
 | Were-verpowered | 0.90% | ~2,294 |
@@ -34,12 +34,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.50% | ~1,106 |
 | Mental Gymnastics | 0.50% | ~1,106 |
 | Don't Lose Your Head | 0.50% | ~1,106 |
-| Low Initiative | 0.40% | ~1,019 |
-| Building Trust | 0.40% | ~1,019 |
-| Useless Allies | 0.40% | ~1,019 |
-| Running of the Saurs | 0.40% | ~1,019 |
-| Waterdeep Detours | 0.40% | ~1,019 |
-| Underdeep Cartography | 0.40% | ~1,019 |
+| Low Initiative | 0.40% | ~1,020 |
+| Building Trust | 0.40% | ~1,020 |
+| Useless Allies | 0.40% | ~1,020 |
+| Running of the Saurs | 0.40% | ~1,020 |
+| Waterdeep Detours | 0.40% | ~1,020 |
+| Underdeep Cartography | 0.40% | ~1,020 |
 | Arcane Suppression | 0.40% | ~885 |
 | Welcome to the Vrocks | 0.40% | ~885 |
 | Misaligned in Sigil | 0.40% | ~885 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,873 (Ranked 71)  
+Progressed: 254,880 (Ranked 71)  
 Completed: 2,627 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,14 +828,14 @@ Completed: 2,627 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,873 | 2,627 |
+| 2024-01-20 | 254,880 | 2,627 |
 ## Awards
-Max (Great for Beginners): 5,801  (Ranked 74)  
-Sum: 33,578 (Ranked 41)  
+Max (Great for Beginners): 5,804  (Ranked 74)  
+Sum: 33,581 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,801 |
+| This game is Great for Beginners | 5,804 |
 | This game has Diverse Characters | 5,735 |
 | This game has Quickly Understood Controls | 4,918 |
 | This game is Relaxing | 4,793 |
@@ -1204,4 +1204,4 @@ Diff (max vs sum): 33
 | 2024-01-17 | 4.07 | - | 5,786 | 33,533 |
 | 2024-01-18 | 4.07 | - | 5,792 | 33,543 |
 | 2024-01-19 | 4.07 | - | 5,801 | 33,572 |
-| 2024-01-20 | 4.07 | - | 5,801 | 33,578 |
+| 2024-01-20 | 4.07 | - | 5,804 | 33,581 |

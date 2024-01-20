@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 553,
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -172,9 +172,9 @@
       "Count": 29
     }
   ],
-  "EOS_Progressed": 1608,
+  "EOS_Progressed": 1609,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2492,6 +2492,11 @@
       "Time": "2024-01-19T19:10:15.0995708+00:00",
       "NumProgressed": 1608,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-20T14:10:24.8567588+00:00",
+      "NumProgressed": 1609,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2567,7 +2572,7 @@
       "Name": "Gotta Ca... Must Collect All of Them",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_endTurnInGrayplane5Times",
@@ -2575,7 +2580,7 @@
       "Name": "Passing Shadow",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_friendsBlock20Times",
@@ -2671,7 +2676,7 @@
       "Name": "How Romantic!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "achievement_maimedHero",
@@ -2775,7 +2780,7 @@
       "Name": "Daybreak",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2950,15 +2955,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1608,
+      "Progressed": 1609,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-03T23:58:17.6931046+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:30.6042925+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:24.8567584+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:18.1596234+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:02:51.9342556+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:30.6043459+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:59:13.011291+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:24.8568111+00:00"
 }

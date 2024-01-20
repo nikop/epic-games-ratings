@@ -5,9 +5,9 @@
   "Ranking_Rating": 1107,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
-  "Ranking_EOS_Progress": 250,
+  "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 356,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2286,
+  "EOS_Progressed": 2287,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8841,6 +8841,11 @@
       "Time": "2024-01-20T13:07:44.1315078+00:00",
       "NumProgressed": 2286,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T14:04:05.638624+00:00",
+      "NumProgressed": 2287,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8954,9 +8959,9 @@
       "ID": "objective_headquarters_5",
       "SetID": "bm61c2p",
       "Name": "Facility Online",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 480
     },
     {
       "ID": "objective_hero_level_up_1",
@@ -8970,9 +8975,9 @@
       "ID": "objective_hero_level_up_2",
       "SetID": "bm61c2p",
       "Name": "Sergeant",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 274
+      "UsersEstimate": 252
     },
     {
       "ID": "objective_hero_level_up_3",
@@ -9155,7 +9160,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2286,
+      "Progressed": 2287,
       "Completed": 1
     }
   ],
@@ -9163,8 +9168,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:07:44.1315074+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:04:05.6386237+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.7081128+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:03:41.4686794+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:07:44.1315809+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:59:48.2409671+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:04:05.6386919+00:00"
 }

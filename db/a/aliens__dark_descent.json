@@ -579,9 +579,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6512,
+  "EOS_Progressed": 6513,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 114,
+  "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10154,6 +10154,11 @@
       "Time": "2024-01-20T11:03:56.6624876+00:00",
       "NumProgressed": 6512,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T14:04:09.5090519+00:00",
+      "NumProgressed": 6513,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10197,7 +10202,7 @@
       "Name": "Use The Bumper, That\u0027s What It\u0027s For",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "ACH_BARREL_KILL",
@@ -10205,7 +10210,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2800
+      "UsersEstimate": 2801
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10213,7 +10218,7 @@
       "Name": "Omelette Du Fromage",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 1758
+      "UsersEstimate": 1759
     },
     {
       "ID": "ACH_EMBRAYO_EXTRACTION",
@@ -10245,7 +10250,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -10277,7 +10282,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10285,7 +10290,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3777
+      "UsersEstimate": 3778
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10347,9 +10352,9 @@
       "ID": "ACH_MAX_TECKER",
       "SetID": "816efe",
       "Name": "The Cable Guy",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1107
+      "UsersEstimate": 1172
     },
     {
       "ID": "ACH_MISSION_01",
@@ -10357,7 +10362,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3451
+      "UsersEstimate": 3452
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10365,7 +10370,7 @@
       "Name": "First Steps Into Madness",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 2930
+      "UsersEstimate": 2931
     },
     {
       "ID": "ACH_MISSION_03",
@@ -10397,7 +10402,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1823
+      "UsersEstimate": 1824
     },
     {
       "ID": "ACH_MISSION_07",
@@ -10469,7 +10474,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5014
+      "UsersEstimate": 5015
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10477,7 +10482,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3321
+      "UsersEstimate": 3322
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10493,7 +10498,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2344
+      "UsersEstimate": 2345
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10509,7 +10514,7 @@
       "Name": "The More The Merrier",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1888
+      "UsersEstimate": 1889
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10524,7 +10529,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6512,
+      "Progressed": 6513,
       "Completed": 3
     }
   ],
@@ -10532,8 +10537,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:07:49.3947416+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:04:09.5090514+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:00:00.08531+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:07:49.3948111+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:57:17.613114+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:04:09.5091539+00:00"
 }

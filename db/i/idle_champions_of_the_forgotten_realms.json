@@ -9653,18 +9653,24 @@
       "Rating": 4.07,
       "NumberOfAwards": 33578,
       "NumberOfAwardsMax": 5801
+    },
+    {
+      "Time": "2024-01-20T14:00:19.3555766+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33581,
+      "NumberOfAwardsMax": 5804
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33578,
-  "NumberOfAwardsMax": 5801,
+  "NumberOfAwards": 33581,
+  "NumberOfAwardsMax": 5804,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5801
+      "Count": 5804
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9703,9 +9709,9 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254873,
+  "EOS_Progressed": 254880,
   "EOS_Completed": 2627,
-  "EOS_NewPlayers": 1182,
+  "EOS_NewPlayers": 1184,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40933,6 +40939,11 @@
       "Time": "2024-01-20T13:14:38.8527412+00:00",
       "NumProgressed": 254873,
       "NumCompleted": 2627
+    },
+    {
+      "Time": "2024-01-20T14:10:31.9728737+00:00",
+      "NumProgressed": 254880,
+      "NumCompleted": 2627
     }
   ],
   "TotalAchievements": 546,
@@ -41312,7 +41323,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5097
+      "UsersEstimate": 5098
     },
     {
       "ID": "objective_completed_110",
@@ -42128,7 +42139,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "objective_completed_164",
@@ -42168,7 +42179,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "objective_completed_17",
@@ -42616,7 +42627,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5097
+      "UsersEstimate": 5098
     },
     {
       "ID": "objective_completed_34",
@@ -42816,7 +42827,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "objective_completed_400",
@@ -43432,7 +43443,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "objective_completed_590",
@@ -44088,7 +44099,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5097
+      "UsersEstimate": 5098
     },
     {
       "ID": "objective_completed_70",
@@ -44120,7 +44131,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "objective_completed_75",
@@ -44152,7 +44163,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1019
+      "UsersEstimate": 1020
     },
     {
       "ID": "objective_completed_8",
@@ -45311,21 +45322,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221147,
+      "Progressed": 221154,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254873,
+      "Progressed": 254880,
       "Completed": 2627
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-20T13:04:30.6760142+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:38.8527408+00:00",
+  "LastChanged": "2024-01-20T14:00:19.3555764+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:31.9728733+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:04:30.6760148+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:38.8549875+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:00:19.3555771+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:31.9750938+00:00"
 }

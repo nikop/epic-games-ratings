@@ -9,9 +9,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Sponsored by Argon | 12.00% | ~18,262 |
 | Basic in Bulk | 11.00% | ~16,740 |
 | Titan's First Steps | 11.00% | ~16,740 |
-| Tinkle of Coins | 10.00% | ~15,218 |
-| Disintermediation | 8.00% | ~12,174 |
-| Capitalism Ho! | 8.00% | ~12,174 |
+| Tinkle of Coins | 10.00% | ~15,219 |
+| Disintermediation | 8.00% | ~12,175 |
+| Capitalism Ho! | 8.00% | ~12,175 |
 | It's Free Real Estate | 7.00% | ~10,653 |
 | Budding Merchant | 7.00% | ~10,653 |
 | One Easy Payment | 6.00% | ~9,131 |
@@ -32,31 +32,31 @@ Number of Ratings: 12,664  (23.09.2022)
 | Dungeon Imports | 4.00% | ~6,087 |
 | Did we pack lunch? | 4.00% | ~6,087 |
 | Arcane Industries | 4.00% | ~6,087 |
-| On the Path to Greatness | 3.00% | ~4,565 |
-| A Notch Above the Rest | 3.00% | ~4,565 |
-| Ascended | 3.00% | ~4,565 |
-| Tax not Included | 3.00% | ~4,565 |
-| Research & Development | 3.00% | ~4,565 |
-| Vanity, Verily | 3.00% | ~4,565 |
-| Fated Encounters | 3.00% | ~4,565 |
-| For the Hoard! | 3.00% | ~4,565 |
-| Blank Page Syndrome | 3.00% | ~4,565 |
-| Scrapbooker | 3.00% | ~4,565 |
-| Flying off the Shelves | 3.00% | ~4,565 |
-| This Power Level...! | 3.00% | ~4,565 |
-| Power of Love | 3.00% | ~4,565 |
-| Expansion in Session | 3.00% | ~4,565 |
-| Efficient Floor Space | 3.00% | ~4,565 |
-| Flawless Fusion | 3.00% | ~4,565 |
-| Trash to Treasure | 3.00% | ~4,565 |
-| Royal Ransom | 3.00% | ~4,565 |
-| Helping Hand | 3.00% | ~4,565 |
-| Natural 20 | 3.00% | ~4,565 |
-| Seasoned Journeyman | 3.00% | ~4,565 |
-| Black Friday Special | 3.00% | ~4,565 |
-| Magical Harmony | 3.00% | ~4,565 |
-| Special Ingredient | 3.00% | ~4,565 |
-| Complete Monopoly | 3.00% | ~4,565 |
+| On the Path to Greatness | 3.00% | ~4,566 |
+| A Notch Above the Rest | 3.00% | ~4,566 |
+| Ascended | 3.00% | ~4,566 |
+| Tax not Included | 3.00% | ~4,566 |
+| Research & Development | 3.00% | ~4,566 |
+| Vanity, Verily | 3.00% | ~4,566 |
+| Fated Encounters | 3.00% | ~4,566 |
+| For the Hoard! | 3.00% | ~4,566 |
+| Blank Page Syndrome | 3.00% | ~4,566 |
+| Scrapbooker | 3.00% | ~4,566 |
+| Flying off the Shelves | 3.00% | ~4,566 |
+| This Power Level...! | 3.00% | ~4,566 |
+| Power of Love | 3.00% | ~4,566 |
+| Expansion in Session | 3.00% | ~4,566 |
+| Efficient Floor Space | 3.00% | ~4,566 |
+| Flawless Fusion | 3.00% | ~4,566 |
+| Trash to Treasure | 3.00% | ~4,566 |
+| Royal Ransom | 3.00% | ~4,566 |
+| Helping Hand | 3.00% | ~4,566 |
+| Natural 20 | 3.00% | ~4,566 |
+| Seasoned Journeyman | 3.00% | ~4,566 |
+| Black Friday Special | 3.00% | ~4,566 |
+| Magical Harmony | 3.00% | ~4,566 |
+| Special Ingredient | 3.00% | ~4,566 |
+| Complete Monopoly | 3.00% | ~4,566 |
 | Cream of the Crop | 2.00% | ~3,044 |
 | Top of the World | 2.00% | ~3,044 |
 | Proud Paladin | 2.00% | ~3,044 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~609 |
 | Capitalist Camaraderie | 0.30% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,181 (Ranked 87)  
+Progressed: 152,186 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 360 (0.24%) (Ranked 276)
 | 2024-01-17 | 151,701 | 359 |
 | 2024-01-18 | 151,873 | 359 |
 | 2024-01-19 | 152,097 | 359 |
-| 2024-01-20 | 152,181 | 360 |
+| 2024-01-20 | 152,186 | 360 |
 ## Awards
 Max (Great for Beginners): 4,966  (Ranked 82)  
 Sum: 28,018 (Ranked 52)  

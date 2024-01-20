@@ -12,17 +12,17 @@ Number of Ratings: 1,396  (23.09.2022)
 | Constructor | 50.00% | ~7,120 |
 | Renovator | 50.00% | ~7,120 |
 | Bestest Friend | 44.00% | ~6,266 |
-| Banker | 38.00% | ~5,411 |
+| Banker | 38.00% | ~5,412 |
 | Gardener | 30.00% | ~4,272 |
 | Generous | 25.00% | ~3,560 |
 | Chef Cook | 19.00% | ~2,706 |
-| Miner | 11.00% | ~1,566 |
+| Miner | 11.00% | ~1,567 |
 | Duty Bound | 8.00% | ~1,139 |
 | Angler | 6.00% | ~854 |
 | Thorn Cleaner | 6.00% | ~854 |
 | Chit Chatter | 3.00% | ~427 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,240 (Ranked 177)  
+Progressed: 14,241 (Ranked 177)  
 Completed: 353 (2.48%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,16 +248,16 @@ Completed: 353 (2.48%) (Ranked 126)
 | 2024-01-17 | 14,198 | 352 |
 | 2024-01-18 | 14,214 | 352 |
 | 2024-01-19 | 14,231 | 352 |
-| 2024-01-20 | 14,240 | 353 |
+| 2024-01-20 | 14,241 | 353 |
 ## Awards
 Max (Great for Beginners): 1,193  (Ranked 151)  
-Sum: 8,439 (Ranked 113)  
+Sum: 8,440 (Ranked 113)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 1,193 |
 | This game has Diverse Characters | 1,005 |
-| This game is Highly Recommended | 874 |
+| This game is Highly Recommended | 875 |
 | This game has Amazing Characters | 849 |
 | This game is Relaxing | 831 |
 | This game has Amazing Storytelling | 807 |
@@ -580,3 +580,4 @@ Diff (max vs sum): 38
 | 2024-01-17 | 4.76 | - | 1,187 | 8,423 |
 | 2024-01-18 | 4.76 | - | 1,190 | 8,433 |
 | 2024-01-19 | 4.76 | - | 1,193 | 8,439 |
+| 2024-01-20 | 4.76 | - | 1,193 | 8,440 |

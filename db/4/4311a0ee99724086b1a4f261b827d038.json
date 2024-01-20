@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 78,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
@@ -831,10 +831,16 @@
       "Rating": 4.55,
       "NumberOfAwards": 232,
       "NumberOfAwardsMax": 37
+    },
+    {
+      "Time": "2024-01-20T14:02:38.8696495+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 234,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 232,
+  "NumberOfAwards": 234,
   "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -896,7 +902,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 26
+      "Count": 28
     },
     {
       "Text": "This game has Unique Visuals",
@@ -905,9 +911,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244308,
+  "EOS_Progressed": 244314,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1310,
+  "EOS_NewPlayers": 1292,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -21950,6 +21956,11 @@
       "Time": "2024-01-20T13:14:20.8164999+00:00",
       "NumProgressed": 244308,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T14:10:17.1025563+00:00",
+      "NumProgressed": 244314,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -21994,7 +22005,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1954
+      "UsersEstimate": 1955
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -22018,7 +22029,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51305
+      "UsersEstimate": 51306
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22034,7 +22045,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12215
+      "UsersEstimate": 12216
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -22042,7 +22053,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9772
+      "UsersEstimate": 9773
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -22146,7 +22157,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34203
+      "UsersEstimate": 34204
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -22218,7 +22229,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61077
+      "UsersEstimate": 61078
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22233,16 +22244,16 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244308,
+      "Progressed": 244314,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-27T17:57:09.4627104+00:00",
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
-  "LastChanged": "2024-01-16T11:59:06.7396953+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:20.8164995+00:00",
+  "LastChanged": "2024-01-20T14:02:38.8696493+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:17.102556+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:05:41.3999514+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:20.8166814+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:02:38.8696498+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:17.1026487+00:00"
 }

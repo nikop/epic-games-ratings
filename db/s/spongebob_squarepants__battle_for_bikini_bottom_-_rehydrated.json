@@ -2,13 +2,13 @@
   "ID": "b3d490d845c040ee82fd02f400ab0efc",
   "Name": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
   "ProductSlug": "spongebob-squarepants-battle-for-bikini-bottom-rehydrated",
-  "Ranking_Rating": 347,
+  "Ranking_Rating": 348,
   "Ranking_Popularity": 502,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 195,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1120,
+  "EOS_Progressed": 1123,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 139,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.8,
   "EosHistory": [
@@ -3128,6 +3128,11 @@
       "Time": "2024-01-20T13:08:40.0166787+00:00",
       "NumProgressed": 1120,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-20T14:04:45.8262174+00:00",
+      "NumProgressed": 1123,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3148,7 +3153,7 @@
       "Name": "Are you ready now?",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -3180,7 +3185,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -3196,7 +3201,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -3212,7 +3217,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3220,7 +3225,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3316,7 +3321,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -3324,7 +3329,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -3356,7 +3361,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3364,7 +3369,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -3380,7 +3385,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -3395,15 +3400,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1120,
+      "Progressed": 1123,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:08:40.016678+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:04:45.8262168+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:02:47.1058845+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:08:40.0167328+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:59:09.6246572+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:04:45.8262463+00:00"
 }

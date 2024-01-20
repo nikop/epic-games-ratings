@@ -4,8 +4,8 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 89,
-  "Ranking_EOS_NewCompleters": 101,
+  "Ranking_EOS_NewPlayers": 88,
+  "Ranking_EOS_NewCompleters": 99,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9772,
+  "EOS_Progressed": 9785,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1101,
+  "EOS_NewPlayers": 1107,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3584,6 +3584,11 @@
       "Time": "2024-01-20T13:13:31.0516835+00:00",
       "NumProgressed": 9772,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-20T14:09:40.4672193+00:00",
+      "NumProgressed": 9785,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3596,7 +3601,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4788
+      "UsersEstimate": 4795
     },
     {
       "ID": "Document1",
@@ -3604,7 +3609,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 782
+      "UsersEstimate": 783
     },
     {
       "ID": "Document2",
@@ -3612,7 +3617,7 @@
       "Name": "Document Discoverer",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Document3",
@@ -3620,7 +3625,7 @@
       "Name": "Secrets Revealer",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Document4",
@@ -3644,7 +3649,7 @@
       "Name": "Perseverant",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "Untraceable2",
@@ -3652,21 +3657,21 @@
       "Name": "Untraceable",
       "Percentage": 2,
       "XP": 150,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     }
   ],
   "AchievementSets": [
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9772,
+      "Progressed": 9785,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:13:31.0516832+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:09:40.4672187+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:01:42.3493275+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:13:31.0517099+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:58:25.3172432+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:09:40.4672418+00:00"
 }

@@ -504,9 +504,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 654,
+  "EOS_Progressed": 655,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -2484,6 +2484,11 @@
       "Time": "2024-01-20T12:06:14.6425683+00:00",
       "NumProgressed": 654,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T14:06:20.1697578+00:00",
+      "NumProgressed": 655,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2528,7 +2533,7 @@
       "Name": "Holy Keeper",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Collect_Artifact_Demon_50",
@@ -2536,7 +2541,7 @@
       "Name": "Demon Keeper",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Collect_Artifact_EpicShard",
@@ -2544,7 +2549,7 @@
       "Name": "One Of the Chosen",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2552,7 +2557,7 @@
       "Name": "Increased Capacity",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -2560,7 +2565,7 @@
       "Name": "Maximum Capacity",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2568,7 +2573,7 @@
       "Name": "Increased Vigor",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_4",
@@ -2608,15 +2613,15 @@
       "Name": "Perfect Storm",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 307
+      "UsersEstimate": 308
     },
     {
       "ID": "Collect_Lurchers_100000",
       "SetID": "7a5k76n",
       "Name": "Soul Harvester",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 236
     },
     {
       "ID": "Collect_Lurchers_1000000",
@@ -2806,9 +2811,9 @@
       "ID": "Kill_Demon_Kraken",
       "SetID": "7a5k76n",
       "Name": "Love Tap",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 229
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2816,7 +2821,7 @@
       "Name": "Devil\u0027s in the Details",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Kill_Enemies_HavocForm_666",
@@ -2848,7 +2853,7 @@
       "Name": "Green with Envy",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2864,7 +2869,7 @@
       "Name": "Delusions of Grandeur",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -2880,15 +2885,15 @@
       "Name": "Throne Potato",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Kill_Sin_Wrath",
       "SetID": "7a5k76n",
       "Name": "Seeing Red",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 164
     },
     {
       "ID": "Level_Up_100",
@@ -2902,9 +2907,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 425
+      "UsersEstimate": 419
     },
     {
       "ID": "Save_Humans_10",
@@ -2918,9 +2923,9 @@
       "ID": "Save_Humans_15",
       "SetID": "7a5k76n",
       "Name": "Community Outreach",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 105
     },
     {
       "ID": "Save_Humans_20",
@@ -2928,7 +2933,7 @@
       "Name": "Humanitarian",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "Save_Humans_5",
@@ -2936,7 +2941,7 @@
       "Name": "Five\u0027s a Crowd",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "Save_Usiel_No_Kill",
@@ -2992,7 +2997,7 @@
       "Name": "Just the start",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -3007,15 +3012,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 654,
+      "Progressed": 655,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-19T19:59:04.9154437+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:10:52.2311224+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:06:20.1697573+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:03:10.1705617+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:10:52.2311881+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:59:25.5627455+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:06:20.1698208+00:00"
 }

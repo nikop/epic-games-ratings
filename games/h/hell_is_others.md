@@ -1,15 +1,15 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 789)  
+Rating: 4.39 (Ranked 788)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,872 |
-| Predator I | 23.00% | ~60,002 |
+| Survivor | 31.00% | ~80,873 |
+| Predator I | 23.00% | ~60,003 |
 | Fixer I | 10.00% | ~26,088 |
 | A week in Century City | 10.00% | ~26,088 |
-| The Wait | 7.00% | ~18,261 |
+| The Wait | 7.00% | ~18,262 |
 | Green thumb I | 6.00% | ~15,653 |
 | Cleaning Company | 6.00% | ~15,653 |
 | Well-oiled machine | 5.00% | ~13,044 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 789)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,877 (Ranked 69)  
+Progressed: 260,882 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 3 (0.00%) (Ranked 406)
 | 2024-01-17 | 260,770 | 3 |
 | 2024-01-18 | 260,810 | 3 |
 | 2024-01-19 | 260,851 | 3 |
-| 2024-01-20 | 260,877 | 3 |
+| 2024-01-20 | 260,882 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 449)  
 Sum: 387 (Ranked 365)  

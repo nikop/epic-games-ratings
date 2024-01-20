@@ -5,26 +5,26 @@ Rating: 4.51 (Ranked 596)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,033 |
-| I've Had Enough! | 15.00% | ~18,774 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,768 |
-| Seasoned Fighter | 9.00% | ~11,265 |
-| All For One and One For All | 8.00% | ~10,013 |
-| Home Sweet Home? | 6.00% | ~7,510 |
-| A New Age | 5.00% | ~6,258 |
+| All Grown Up! | 20.00% | ~25,036 |
+| I've Had Enough! | 15.00% | ~18,777 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,770 |
+| Seasoned Fighter | 9.00% | ~11,266 |
+| All For One and One For All | 8.00% | ~10,014 |
+| Home Sweet Home? | 6.00% | ~7,511 |
+| A New Age | 5.00% | ~6,259 |
 | Oh Baby, A Triple | 3.00% | ~3,755 |
 | Master of Disguise | 3.00% | ~3,755 |
 | Symbiotic | 3.00% | ~3,755 |
-| Battle Hardened | 2.00% | ~2,503 |
-| Double Punch! | 2.00% | ~2,503 |
-| It's Mayhem! | 2.00% | ~2,503 |
-| Right back at'cha | 2.00% | ~2,503 |
-| Spectacular Finisher | 2.00% | ~2,503 |
+| Battle Hardened | 2.00% | ~2,504 |
+| Double Punch! | 2.00% | ~2,504 |
+| It's Mayhem! | 2.00% | ~2,504 |
+| Right back at'cha | 2.00% | ~2,504 |
+| Spectacular Finisher | 2.00% | ~2,504 |
 | Cautious Veteran | 1.00% | ~1,252 |
 | Katamari | 1.00% | ~1,252 |
 | Martyrdom | 1.00% | ~1,252 |
-| Ninja Reflex | 0.90% | ~1,126 |
-| Zero-sum Game | 0.90% | ~1,126 |
+| Ninja Reflex | 0.90% | ~1,127 |
+| Zero-sum Game | 0.90% | ~1,127 |
 | Taste Your Own Medicine | 0.70% | ~876 |
 | This is GigaBash! | 0.50% | ~626 |
 | Sidetracked... | 0.50% | ~626 |
@@ -41,7 +41,7 @@ Rating: 4.51 (Ranked 596)
 | What's Mine is Yours | 0.10% | ~125 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,163 (Ranked 93)  
+Progressed: 125,181 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,7 +87,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 124,143 | 0 |
 | 2024-01-18 | 124,518 | 0 |
 | 2024-01-19 | 124,900 | 0 |
-| 2024-01-20 | 125,163 | 0 |
+| 2024-01-20 | 125,181 | 0 |
 ## Awards
 Max (Great Boss Battles): 57  (Ranked 443)  
 Sum: 57 (Ranked 505)  

@@ -224,9 +224,9 @@
       "ID": "ACH_12",
       "SetID": "15cie2",
       "Name": "The Witch\u2019s Haunt",
-      "Percentage": 27,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_13",
@@ -345,8 +345,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:14:13.4913824+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:10:11.454074+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:36.9860479+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:00:57.3795556+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:14:13.4913967+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:57:55.7695131+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:10:11.4540829+00:00"
 }

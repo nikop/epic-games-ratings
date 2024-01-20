@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 464,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewPlayers": 218,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -349,9 +349,9 @@
       "Count": 118
     }
   ],
-  "EOS_Progressed": 1451,
+  "EOS_Progressed": 1452,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 64,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4284,6 +4284,11 @@
       "Time": "2024-01-20T10:07:54.9814802+00:00",
       "NumProgressed": 1451,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T14:08:34.6217909+00:00",
+      "NumProgressed": 1452,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4336,7 +4341,7 @@
       "Name": "Becoming Smarter",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "BreakTheLoop",
@@ -4352,7 +4357,7 @@
       "Name": "Bridge Builder",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ChasingTheLight",
@@ -4464,7 +4469,7 @@
       "Name": "Into the Machine",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "JustOneLap",
@@ -4688,7 +4693,7 @@
       "Name": "The Spark",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "TheThiefOfFire",
@@ -4696,7 +4701,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "TheWordEndures",
@@ -4704,7 +4709,7 @@
       "Name": "The Word Endures",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "TouchGrass",
@@ -4767,7 +4772,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1451,
+      "Progressed": 1452,
       "Completed": 2
     }
   ],
@@ -4775,8 +4780,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-18T22:01:32.7392384+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:11:57.5780598+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:08:34.6217905+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:00:14.6126993+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:11:57.5781714+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:57:26.8996855+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:08:34.6218585+00:00"
 }

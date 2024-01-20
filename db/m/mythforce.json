@@ -872,7 +872,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6420,
+  "EOS_Progressed": 6421,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
@@ -13522,6 +13522,11 @@
       "Time": "2024-01-20T11:04:21.8478115+00:00",
       "NumProgressed": 6420,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T14:04:35.0033673+00:00",
+      "NumProgressed": 6421,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13582,7 +13587,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13590,7 +13595,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1412
+      "UsersEstimate": 1413
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13622,7 +13627,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13717,15 +13722,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6420,
+      "Progressed": 6421,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-19T17:58:27.7315829+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:08:24.8699726+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:04:35.0033671+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:02:38.5730903+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:08:24.8700499+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:59:03.9525353+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:04:35.0034391+00:00"
 }

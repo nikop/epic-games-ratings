@@ -9,15 +9,17 @@
 | Meet THE Harbormaster | 100.00% | ~3 |
 | Now You Knew | 100.00% | ~3 |
 | The Trial Begins | 100.00% | ~3 |
+| Damsel in Distress? | 67.00% | ~2 |
+| Not a Good Decoy | 67.00% | ~2 |
 | The Pink Flower | 67.00% | ~2 |
 | The Red Flower | 67.00% | ~2 |
 | Shipping Ships | 67.00% | ~2 |
 | The Combatant | 67.00% | ~2 |
 | The Industrialist | 67.00% | ~2 |
 | The Mother Ocean | 67.00% | ~2 |
+| Whoops | 67.00% | ~2 |
 | Wise Decision | 67.00% | ~2 |
 | An Old Hero | 33.00% | ~1 |
-| Damsel in Distress? | 33.00% | ~1 |
 | Dream of Flight | 33.00% | ~1 |
 | Flight Check | 33.00% | ~1 |
 | For the Republic! | 33.00% | ~1 |
@@ -39,7 +41,6 @@
 | Let’s get Rich | 33.00% | ~1 |
 | Living off the Land | 33.00% | ~1 |
 | Not Again | 33.00% | ~1 |
-| Not a Good Decoy | 33.00% | ~1 |
 | Our Own Path | 33.00% | ~1 |
 | Our Tiny Little Fleet | 33.00% | ~1 |
 | Safe Delivery | 33.00% | ~1 |
@@ -59,7 +60,6 @@
 | Torpedoes! | 33.00% | ~1 |
 | Tuck the Tail | 33.00% | ~1 |
 | United We Stand! | 33.00% | ~1 |
-| Whoops | 33.00% | ~1 |
 | Are We Baddies? | 0.00% | ~0 |
 | A lone and Lonely Engineer | 0.00% | ~0 |
 | A Patience Admiral | 0.00% | ~0 |

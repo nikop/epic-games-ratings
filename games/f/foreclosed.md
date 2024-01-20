@@ -14,12 +14,12 @@
 | Sapper | 21.00% | ~33 |
 | Tough Decision | 19.00% | ~30 |
 | The Neuro-connector | 18.00% | ~28 |
+| Full and Final Settlement | 17.00% | ~27 |
 | Unstoppable | 17.00% | ~27 |
 | Veteran Sniper | 17.00% | ~27 |
 | Flatline | 17.00% | ~27 |
+| One Click Away | 17.00% | ~27 |
 | Mind Over Matter | 17.00% | ~27 |
-| Full and Final Settlement | 16.00% | ~25 |
-| One Click Away | 16.00% | ~25 |
 | Cyborg | 11.00% | ~17 |
 | Lifter | 8.00% | ~12 |
 | Brain-hacker | 8.00% | ~12 |

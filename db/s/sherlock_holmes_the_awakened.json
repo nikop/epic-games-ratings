@@ -193,11 +193,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1533,
+  "EOS_Progressed": 1534,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 3.2,
+  "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5478,6 +5478,11 @@
       "Time": "2024-01-20T13:07:18.5968239+00:00",
       "NumProgressed": 1533,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-20T14:03:48.4282774+00:00",
+      "NumProgressed": 1534,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5489,7 +5494,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "MQ01_2",
@@ -5497,7 +5502,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "MQ02_1",
@@ -5535,9 +5540,9 @@
       "ID": "MQ03_1",
       "SetID": "bbing49",
       "Name": "Fond Memories",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 766
+      "UsersEstimate": 752
     },
     {
       "ID": "MQ03_2",
@@ -5553,7 +5558,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "MQ03_4",
@@ -5561,7 +5566,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "MQ03_5",
@@ -5585,7 +5590,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 521
+      "UsersEstimate": 522
     },
     {
       "ID": "MQ04_3",
@@ -5601,7 +5606,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "MQ05_2",
@@ -5617,7 +5622,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 659
+      "UsersEstimate": 660
     },
     {
       "ID": "MQ05_4",
@@ -5641,7 +5646,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "MQ06_3",
@@ -5673,7 +5678,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "MQ08_1",
@@ -5712,7 +5717,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1533,
+      "Progressed": 1534,
       "Completed": 49
     }
   ],
@@ -5720,8 +5725,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:07:18.5968235+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:03:48.4282771+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:06:38.3136671+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:07:18.5968716+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:03:19.2339154+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:03:48.4283129+00:00"
 }

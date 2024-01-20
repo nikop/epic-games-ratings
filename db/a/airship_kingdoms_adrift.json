@@ -4,7 +4,7 @@
   "ProductSlug": "airship-kingdoms-adrift-cc8448",
   "Ranking_EOS_Progress": 734,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 448,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-01-19T19:26:23.12+00:00",
@@ -132,9 +132,9 @@
       "ID": "ACH_DAMSEL_IN_DISTRESS",
       "SetID": "9i65mgf",
       "Name": "Damsel in Distress?",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_DISRUPTION_OF_PEACE",
@@ -588,9 +588,9 @@
       "ID": "ACH_NOT_A_GOOD_DECOY",
       "SetID": "9i65mgf",
       "Name": "Not a Good Decoy",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_NOW_YOU_KNEW",
@@ -1220,9 +1220,9 @@
       "ID": "ACH_WHOOPS",
       "SetID": "9i65mgf",
       "Name": "Whoops",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_WISE_DECISION",
@@ -1242,8 +1242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-20T13:09:01.6737153+00:00",
+  "LastChanged_Achievements": "2024-01-20T14:05:01.2715547+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.8624889+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:00:53.1414841+00:00",
-  "LastUpdate_Achievements": "2024-01-20T13:09:01.6739055+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:57:52.8997192+00:00",
+  "LastUpdate_Achievements": "2024-01-20T14:05:01.2717318+00:00"
 }
