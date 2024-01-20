@@ -8,7 +8,7 @@
 | 6 | [greensheen Production](games/g/greensheen_production.md) | 43.75% |
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.63% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
-| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.49% |
+| 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
 | 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.49% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
@@ -25,9 +25,9 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.75% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.86% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.69% |
-| 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
-| 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
+| 26 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.67% |
+| 26 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
 | 29 | [The Riflemen](games/t/the_riflemen.md) | 15.89% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
@@ -207,9 +207,9 @@
 | 205 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.70% |
 | 206 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.68% |
 | 207 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.65% |
+| 207 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.65% |
 | 207 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.65% |
-| 209 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.64% |
-| 209 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.64% |
+| 210 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.64% |
 | 211 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.62% |
 | 212 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.61% |
 | 212 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.61% |
@@ -274,11 +274,11 @@
 | 272 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 272 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.26% |
 | 274 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
-| 275 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.24% |
-| 275 | [It Takes Two](games/i/it_takes_two.md) | 0.24% |
-| 275 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.24% |
-| 275 | [Shop Titans](games/s/shop_titans.md) | 0.24% |
-| 275 | [Them and Us](games/t/them_and_us.md) | 0.24% |
+| 274 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.25% |
+| 276 | [It Takes Two](games/i/it_takes_two.md) | 0.24% |
+| 276 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.24% |
+| 276 | [Shop Titans](games/s/shop_titans.md) | 0.24% |
+| 276 | [Them and Us](games/t/them_and_us.md) | 0.24% |
 | 280 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
 | 281 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
 | 281 | [Eternights](games/e/eternights.md) | 0.22% |
