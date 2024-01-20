@@ -6,31 +6,31 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,139 |
-| Lost and Found | 9.00% | ~732 |
+| Malpractice Assurance | 14.00% | ~1,140 |
+| Lost and Found | 9.00% | ~733 |
 | Autodidact | 8.00% | ~10,662 |
 | This Belongs in a Museum | 7.00% | ~9,329 |
 | Creep and Sleep | 7.00% | ~9,329 |
 | Overdue Notice | 7.00% | ~9,329 |
 | This guy... again? | 7.00% | ~570 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~7,996 |
-| Serenity Now! | 6.00% | ~7,996 |
-| Meat and Greet | 6.00% | ~7,996 |
-| Catch and Decease | 6.00% | ~7,996 |
-| Escape from the Black Hole | 6.00% | ~7,996 |
-| Rush Hour | 6.00% | ~7,996 |
-| To Grandmother's House | 6.00% | ~7,996 |
-| Ploughshares to Swords | 6.00% | ~488 |
-| Bloody Graduation | 6.00% | ~488 |
-| It Rings a Bell | 5.00% | ~6,663 |
-| Not Today! | 5.00% | ~6,663 |
-| It Happens | 5.00% | ~6,663 |
-| Merry Time | 5.00% | ~6,663 |
-| Harvest Festival | 5.00% | ~6,663 |
-| Whale | 5.00% | ~6,663 |
-| A Place to Lay Your Head | 5.00% | ~6,663 |
-| FNG | 5.00% | ~6,663 |
-| Nope | 5.00% | ~6,663 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~7,997 |
+| Serenity Now! | 6.00% | ~7,997 |
+| Meat and Greet | 6.00% | ~7,997 |
+| Catch and Decease | 6.00% | ~7,997 |
+| Escape from the Black Hole | 6.00% | ~7,997 |
+| Rush Hour | 6.00% | ~7,997 |
+| To Grandmother's House | 6.00% | ~7,997 |
+| Ploughshares to Swords | 6.00% | ~489 |
+| Bloody Graduation | 6.00% | ~489 |
+| It Rings a Bell | 5.00% | ~6,664 |
+| Not Today! | 5.00% | ~6,664 |
+| It Happens | 5.00% | ~6,664 |
+| Merry Time | 5.00% | ~6,664 |
+| Harvest Festival | 5.00% | ~6,664 |
+| Whale | 5.00% | ~6,664 |
+| A Place to Lay Your Head | 5.00% | ~6,664 |
+| FNG | 5.00% | ~6,664 |
+| Nope | 5.00% | ~6,664 |
 | Friends 'Til the End | 5.00% | ~407 |
 | Resurrection | 4.00% | ~5,331 |
 | Unleash Hell | 4.00% | ~5,331 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | Utopia | 3.00% | ~3,998 |
 | Hot Air | 3.00% | ~3,998 |
 | Road Trip | 3.00% | ~3,998 |
-| This Looks Familiar | 2.00% | ~2,665 |
-| Ichthyophobic | 2.00% | ~2,665 |
-| No More Mouths to Feed | 2.00% | ~2,665 |
-| Worldly Traveller | 2.00% | ~2,665 |
-| Eyes Up | 2.00% | ~2,665 |
-| Handled | 2.00% | ~2,665 |
-| Body of Work | 2.00% | ~2,665 |
+| This Looks Familiar | 2.00% | ~2,666 |
+| Ichthyophobic | 2.00% | ~2,666 |
+| No More Mouths to Feed | 2.00% | ~2,666 |
+| Worldly Traveller | 2.00% | ~2,666 |
+| Eyes Up | 2.00% | ~2,666 |
+| Handled | 2.00% | ~2,666 |
+| Body of Work | 2.00% | ~2,666 |
 | Clearing the Ledger | 1.00% | ~1,333 |
 | Hat Trick | 1.00% | ~1,333 |
 | Shrine of Reflection | 1.00% | ~1,333 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,269 (Ranked 92)  
+Progressed: 133,276 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,10 +351,10 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,269 | 5 |
+| 2024-01-20 | 133,276 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
-Sum: 21,768 (Ranked 58)  
+Sum: 21,770 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -366,7 +366,7 @@ Diff (max vs sum): -6
 | This game is Extremely Fun | 1,532 |
 | This game has Unique Visuals | 1,480 |
 | This game has Amazing Storytelling | 1,458 |
-| This game has Quickly Understood Controls | 1,427 |
+| This game has Quickly Understood Controls | 1,429 |
 | This game has a Creative Community | 1,106 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -730,4 +730,4 @@ Diff (max vs sum): -6
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
-| 2024-01-20 | 4.69 | - | 8,048 | 21,768 |
+| 2024-01-20 | 4.69 | - | 8,048 | 21,770 |

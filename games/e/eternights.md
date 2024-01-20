@@ -17,14 +17,14 @@ Rating: 4.73 (Ranked 183)
 | Their Rock | 27.00% | ~249 |
 | Yuna's Promise | 26.00% | ~239 |
 | Stone Retriever | 26.00% | ~239 |
-| Find myself | 24.00% | ~221 |
+| Find myself | 25.00% | ~230 |
 | Min's Promise | 18.00% | ~166 |
 | Sia's Promise | 17.00% | ~157 |
 | Truebro | 17.00% | ~157 |
 | Romantic | 13.00% | ~120 |
 | TentacleMAN | 9.00% | ~83 |
+| Yohan's Promise | 5.00% | ~46 |
 | Flawless | 5.00% | ~46 |
-| Yohan's Promise | 4.00% | ~37 |
 | Plushyboy | 4.00% | ~37 |
 | LOVEassistant | 3.00% | ~28 |
 | True Player | 1.00% | ~9 |

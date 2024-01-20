@@ -5,11 +5,11 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,773 |
+| Feeling the beat! | 56.00% | ~9,774 |
 | Start with a bang! | 55.00% | ~9,599 |
 | You can pet the cat! | 50.00% | ~8,726 |
 | Who put gears in there? | 42.00% | ~7,330 |
-| Cream of the Crop | 37.00% | ~6,457 |
+| Cream of the Crop | 37.00% | ~6,458 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,283 |
 | You got this, Peppermint? | 31.00% | ~5,410 |
 | Perfect Parry | 29.00% | ~5,061 |
@@ -19,7 +19,7 @@ Rating: 4.86 (Ranked 33)
 | Uh, they were broken when I got here | 23.00% | ~4,014 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,665 |
 | Kissing the sky! | 21.00% | ~3,665 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,141 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,142 |
 | The Negotiator | 17.00% | ~2,967 |
 | Does that say weakpoint? | 17.00% | ~2,967 |
 | You must like calling me in, Chai | 15.00% | ~2,618 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,452 (Ranked 169)  
+Progressed: 17,453 (Ranked 169)  
 Completed: 8 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 8 (0.05%) (Ranked 344)
 | 2024-01-17 | 17,341 | 8 |
 | 2024-01-18 | 17,389 | 8 |
 | 2024-01-19 | 17,441 | 8 |
-| 2024-01-20 | 17,452 | 8 |
+| 2024-01-20 | 17,453 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

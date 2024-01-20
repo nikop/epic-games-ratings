@@ -6,7 +6,7 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,068 |
+| Sowwy! | 37.00% | ~92,069 |
 | Alt+F4 | 11.00% | ~27,372 |
 | Where's that freaking Dwarf? | 9.00% | ~22,395 |
 | Déjà vu | 8.00% | ~19,907 |
@@ -46,7 +46,7 @@ Number of Ratings: 118  (23.09.2022)
 | In Navalu's footsteps | 1.00% | ~2,488 |
 | Lëgal Legend | 1.00% | ~2,488 |
 | Material Girl | 1.00% | ~2,488 |
-| We come in peace | 0.90% | ~2,239 |
+| We come in peace | 0.90% | ~2,240 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,991 |
 | Holistic Adventuring Party | 0.70% | ~1,742 |
 | Law and Order | 0.70% | ~1,742 |
@@ -56,8 +56,8 @@ Number of Ratings: 118  (23.09.2022)
 | Friendly fire | 0.40% | ~995 |
 | The number of the counting shalt be 7 | 0.40% | ~995 |
 | Inception | 0.40% | ~995 |
-| 100% satisfaction guarantee | 0.30% | ~746 |
-| Death is for wimps | 0.30% | ~746 |
+| 100% satisfaction guarantee | 0.30% | ~747 |
+| Death is for wimps | 0.30% | ~747 |
 | Cursed die | 0.20% | ~498 |
 | The Blood Countess | 0.20% | ~498 |
 | He’s alive! Aliiiive! | 0.20% | ~498 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,833 (Ranked 73)  
+Progressed: 248,836 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 9 (0.00%) (Ranked 406)
 | 2024-01-17 | 248,553 | 9 |
 | 2024-01-18 | 248,677 | 9 |
 | 2024-01-19 | 248,799 | 9 |
-| 2024-01-20 | 248,833 | 9 |
+| 2024-01-20 | 248,836 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 576 (Ranked 331)  

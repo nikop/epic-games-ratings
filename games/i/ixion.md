@@ -18,9 +18,9 @@ Rating: 4.60 (Ranked 425)
 | Guy de Borderlands | 15.00% | ~634 |
 | Ain't Nobody Got Time for That | 15.00% | ~634 |
 | Hope Seeker | 14.00% | ~592 |
-| A Hunk of Junk | 13.00% | ~549 |
-| Exceeding Capacity | 13.00% | ~549 |
-| Breaking Protocol | 13.00% | ~549 |
+| A Hunk of Junk | 13.00% | ~550 |
+| Exceeding Capacity | 13.00% | ~550 |
+| Breaking Protocol | 13.00% | ~550 |
 | Man's Best Friend | 9.00% | ~380 |
 | Power Outage | 9.00% | ~380 |
 | Please Make it Stop! | 9.00% | ~380 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 425)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,226 (Ranked 217)  
+Progressed: 4,227 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 4,209 | 0 |
 | 2024-01-18 | 4,219 | 0 |
 | 2024-01-19 | 4,224 | 0 |
-| 2024-01-20 | 4,226 | 0 |
+| 2024-01-20 | 4,227 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

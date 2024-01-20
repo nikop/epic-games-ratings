@@ -215,9 +215,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 74082,
+  "EOS_Progressed": 74108,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4507,
+  "EOS_NewPlayers": 4509,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 15.87,
   "EosHistory": [
@@ -17275,6 +17275,11 @@
       "Time": "2024-01-20T05:09:24.2167625+00:00",
       "NumProgressed": 74082,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-20T06:09:16.2128364+00:00",
+      "NumProgressed": 74108,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -17295,7 +17300,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 55562
+      "UsersEstimate": 55581
     },
     {
       "ID": "grenadeKills",
@@ -17311,7 +17316,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2963
+      "UsersEstimate": 2964
     },
     {
       "ID": "headshots1000",
@@ -17343,7 +17348,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "matchesWon",
@@ -17367,7 +17372,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "shotgunKills",
@@ -17398,7 +17403,7 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 74082,
+      "Progressed": 74108,
       "Completed": 11760
     }
   ],
@@ -17406,8 +17411,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:09:24.2167619+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:09:16.2128358+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:14.4134759+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:57:21.5315314+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:09:24.2168572+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:57:13.805318+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:09:16.2129259+00:00"
 }

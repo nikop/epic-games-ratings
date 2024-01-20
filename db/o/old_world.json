@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2346,9 +2346,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17012,
+  "EOS_Progressed": 17014,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 429,
+  "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20556,6 +20556,11 @@
       "Time": "2024-01-20T04:10:10.4703736+00:00",
       "NumProgressed": 17012,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T06:10:02.3575206+00:00",
+      "NumProgressed": 17014,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21055,7 +21060,7 @@
       "Name": "Intrepid",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -21479,7 +21484,7 @@
       "Name": "Friendly Family",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -21935,7 +21940,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -21989,9 +21994,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_MAUSOLEUM",
       "SetID": "9201eeb",
       "Name": "Mausoleum",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 170
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_MUSAEUM",
@@ -23430,21 +23435,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17012,
+      "Progressed": 17014,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17012,
+      "Progressed": 17014,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-19T22:57:03.6128315+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:10:10.2135589+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:10:02.3575201+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:57:15.0303741+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:10:10.2144938+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:57:07.7126828+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:10:02.358491+00:00"
 }

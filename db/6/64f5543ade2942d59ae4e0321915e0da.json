@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 268,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2079,6 +2079,11 @@
       "Time": "2024-01-19T16:06:36.2546896+00:00",
       "NumProgressed": 533,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T06:05:08.1481755+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2121,9 +2126,9 @@
       "ID": "AC_ALL_TOYS",
       "SetID": "16i2akc",
       "Name": "Gift",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 21
     },
     {
       "ID": "AC_ALL_WEAPONS",
@@ -2163,7 +2168,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "AC_BOSS_01",
@@ -2171,7 +2176,7 @@
       "Name": "Misery",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "AC_BOSS_02",
@@ -2203,7 +2208,7 @@
       "Name": "Pack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "AC_COMBO_2",
@@ -2217,9 +2222,9 @@
       "ID": "AC_COMBO_3",
       "SetID": "16i2akc",
       "Name": "Herd",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 11
+      "UsersEstimate": 5
     },
     {
       "ID": "AC_CROSSBOW_MAX",
@@ -2257,9 +2262,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 266
+      "UsersEstimate": 272
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2283,7 +2288,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2307,7 +2312,7 @@
       "Name": "Player",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 165
+      "UsersEstimate": 166
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2395,7 +2400,7 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2426,14 +2431,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:05:23.7538761+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:05:08.148175+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:57:16.9914963+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:05:23.7539112+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:57:09.5701744+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:05:08.1482512+00:00"
 }

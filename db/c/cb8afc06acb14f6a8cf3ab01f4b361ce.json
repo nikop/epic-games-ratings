@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 347564,
+  "EOS_Progressed": 347574,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2853,
+  "EOS_NewPlayers": 2845,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14044,6 +14044,11 @@
       "Time": "2024-01-20T05:08:59.5032793+00:00",
       "NumProgressed": 347564,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-20T06:08:52.119247+00:00",
+      "NumProgressed": 347574,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14056,7 +14061,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17378
+      "UsersEstimate": 17379
     },
     {
       "ID": "S02_BRDA",
@@ -14192,7 +14197,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17378
+      "UsersEstimate": 17379
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14375,7 +14380,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 347564,
+      "Progressed": 347574,
       "Completed": 7
     }
   ],
@@ -14383,8 +14388,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:08:59.5032788+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:08:52.1192461+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:57:49.0349888+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:08:59.503352+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:57:40.2490075+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:08:52.1193289+00:00"
 }

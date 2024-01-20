@@ -16,11 +16,11 @@ Rating: 4.64 (Ranked 347)
 | Humble Collector | 3.00% | ~274 |
 | Mist Walker | 3.00% | ~274 |
 | Clear the Air | 2.00% | ~183 |
+| Search for the Hairy Grell | 2.00% | ~183 |
 | Lumberjack | 2.00% | ~183 |
 | Oui, Chef! | 2.00% | ~183 |
 | Botanical Breakthrough | 2.00% | ~183 |
 | Exit Through The Gift Shop | 2.00% | ~35 |
-| Search for the Hairy Grell | 1.00% | ~91 |
 | Flaming Hot Completos | 1.00% | ~91 |
 | Beach Comber | 1.00% | ~91 |
 | Higher Tax Bracket | 1.00% | ~91 |

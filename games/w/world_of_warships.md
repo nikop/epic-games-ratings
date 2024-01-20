@@ -6,26 +6,26 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~71,093 |
-| Initial Capital | 61.00% | ~57,823 |
-| Junior Supply Officer | 39.00% | ~36,968 |
-| Moneybags | 38.00% | ~36,021 |
-| Naval Warfare. Arson | 29.00% | ~27,489 |
-| Naval Warfare. Ramming | 28.00% | ~26,541 |
-| Amateur | 26.00% | ~24,646 |
-| Naval Warfare. Tactics | 26.00% | ~24,646 |
-| Naval Constructor | 25.00% | ~23,698 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~18,010 |
-| Naval Warfare. Flooding | 16.00% | ~15,167 |
-| Naval Warfare. Lucky Shot | 16.00% | ~15,167 |
-| Business Magnate | 13.00% | ~12,323 |
-| Battle Hero | 12.00% | ~11,375 |
-| Warrior | 10.00% | ~9,479 |
-| Supply Officer | 10.00% | ~9,479 |
-| Smooth Supply | 10.00% | ~9,479 |
-| Veteran | 5.00% | ~4,740 |
-| Legend of the Seas | 3.00% | ~2,844 |
-| Shield | 3.00% | ~2,844 |
+| Junior Naval Designer | 75.00% | ~71,113 |
+| Initial Capital | 61.00% | ~57,838 |
+| Junior Supply Officer | 39.00% | ~36,979 |
+| Moneybags | 38.00% | ~36,030 |
+| Naval Warfare. Arson | 29.00% | ~27,497 |
+| Naval Warfare. Ramming | 28.00% | ~26,549 |
+| Amateur | 26.00% | ~24,652 |
+| Naval Warfare. Tactics | 26.00% | ~24,652 |
+| Naval Constructor | 25.00% | ~23,704 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~18,015 |
+| Naval Warfare. Flooding | 16.00% | ~15,171 |
+| Naval Warfare. Lucky Shot | 16.00% | ~15,171 |
+| Business Magnate | 13.00% | ~12,326 |
+| Battle Hero | 12.00% | ~11,378 |
+| Warrior | 10.00% | ~9,482 |
+| Supply Officer | 10.00% | ~9,482 |
+| Smooth Supply | 10.00% | ~9,482 |
+| Veteran | 5.00% | ~4,741 |
+| Legend of the Seas | 3.00% | ~2,845 |
+| Shield | 3.00% | ~2,845 |
 | Chief Naval Architect | 2.00% | ~1,896 |
 | Weather Beaten | 2.00% | ~1,896 |
 | Important Missions | 2.00% | ~1,896 |
@@ -37,7 +37,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | Protector | 1.00% | ~948 |
 | Exterminator | 1.00% | ~948 |
 | American Cruisers | 1.00% | ~948 |
-| Old-Timer | 0.80% | ~758 |
+| Old-Timer | 0.80% | ~759 |
 | Secret Instructions | 0.50% | ~474 |
 | Raider | 0.50% | ~474 |
 | Experienced One | 0.40% | ~379 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~95 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~95 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 94,791 (Ranked 104)  
+Progressed: 94,817 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -211,7 +211,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 93,477 | 0 |
 | 2024-01-18 | 93,977 | 0 |
 | 2024-01-19 | 94,639 | 0 |
-| 2024-01-20 | 94,791 | 0 |
+| 2024-01-20 | 94,817 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,734  (Ranked 134)  
 Sum: 14,549 (Ranked 80)  

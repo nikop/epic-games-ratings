@@ -6,24 +6,24 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,192 |
-| Overkill | 33.00% | ~11,456 |
-| Vaccine Incoming | 31.00% | ~10,762 |
-| A normal day in Gloomhaven | 29.00% | ~10,067 |
-| Spread the plague | 26.00% | ~9,026 |
-| Get over here! | 24.00% | ~8,332 |
-| Just when I thought I was out... | 19.00% | ~6,596 |
-| Mine... All Mine... | 16.00% | ~5,554 |
-| Precious! | 15.00% | ~5,207 |
-| Grizzled veteran | 14.00% | ~4,860 |
-| Anatomy Lesson | 14.00% | ~4,860 |
+| I'm not dead yet | 38.00% | ~13,193 |
+| Overkill | 33.00% | ~11,457 |
+| Vaccine Incoming | 31.00% | ~10,763 |
+| A normal day in Gloomhaven | 29.00% | ~10,069 |
+| Spread the plague | 26.00% | ~9,027 |
+| Get over here! | 24.00% | ~8,333 |
+| Just when I thought I was out... | 19.00% | ~6,597 |
+| Mine... All Mine... | 16.00% | ~5,555 |
+| Precious! | 15.00% | ~5,208 |
+| Grizzled veteran | 14.00% | ~4,861 |
+| Anatomy Lesson | 14.00% | ~4,861 |
 | Who's the Boss? | 12.00% | ~4,166 |
 | You activated my trap card! | 12.00% | ~4,166 |
 | Obstacle race | 12.00% | ~4,166 |
 | Light of my life | 12.00% | ~4,166 |
 | Augmented rat | 10.00% | ~3,472 |
-| Doom and gloom | 9.00% | ~3,124 |
-| Dungeon Veteran | 8.00% | ~2,777 |
+| Doom and gloom | 9.00% | ~3,125 |
+| Dungeon Veteran | 8.00% | ~2,778 |
 | Pack leader | 7.00% | ~2,430 |
 | Pain is your friend | 7.00% | ~2,430 |
 | Black death | 7.00% | ~2,430 |
@@ -35,10 +35,10 @@ Number of Ratings: 68  (23.09.2022)
 | Now you see me... | 5.00% | ~1,736 |
 | The Pro from Dover | 4.00% | ~1,389 |
 | Pretty lights! | 4.00% | ~1,389 |
-| I hate portals | 3.00% | ~1,041 |
-| Down the hatch | 3.00% | ~1,041 |
-| An eye for an eye | 3.00% | ~1,041 |
-| The Cephalophore | 3.00% | ~1,041 |
+| I hate portals | 3.00% | ~1,042 |
+| Down the hatch | 3.00% | ~1,042 |
+| An eye for an eye | 3.00% | ~1,042 |
+| The Cephalophore | 3.00% | ~1,042 |
 | From Gloom, only greed and death emerges | 2.00% | ~694 |
 | The Rat King | 2.00% | ~694 |
 | How to train your Drake | 2.00% | ~694 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,715 (Ranked 140)  
+Progressed: 34,719 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 1 (0.00%) (Ranked 406)
 | 2024-01-17 | 34,284 | 1 |
 | 2024-01-18 | 34,462 | 1 |
 | 2024-01-19 | 34,657 | 1 |
-| 2024-01-20 | 34,715 | 1 |
+| 2024-01-20 | 34,719 | 1 |
 ## Awards
 Max (Character Customization): 3,622  (Ranked 96)  
 Sum: 8,494 (Ranked 110)  

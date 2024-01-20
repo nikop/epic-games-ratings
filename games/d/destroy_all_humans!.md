@@ -12,8 +12,8 @@ Number of Ratings: 85  (23.09.2022)
 | The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~337 |
 | I Look Up As I Walk to Takoshima | 62.00% | ~326 |
 | Yettisoned | 60.00% | ~316 |
+| Pimp My Raid | 59.00% | ~310 |
 | Perfect Probulator | 59.00% | ~310 |
-| Pimp My Raid | 58.00% | ~305 |
 | Lobster Blisque | 53.00% | ~279 |
 | Fly Me to the Moon Base | 52.00% | ~274 |
 | Earthly Pleasures | 49.00% | ~258 |
@@ -27,7 +27,7 @@ Number of Ratings: 85  (23.09.2022)
 | Rock of the Bay | 28.00% | ~147 |
 | Trans-Siberian Express | 26.00% | ~137 |
 | Re-Return of the Clone of the Invasion II-2 | 21.00% | ~110 |
-| Arkvoodle Doodle | 19.00% | ~100 |
+| Arkvoodle Doodle | 20.00% | ~105 |
 | Die Nasty | 18.00% | ~95 |
 | Ouch of Body Experience | 17.00% | ~89 |
 | If You Know What I Mean | 17.00% | ~89 |

@@ -2,9 +2,9 @@
   "ID": "869be603dee2405197126408e11eb41c",
   "Name": "BLOCKLORDS",
   "ProductSlug": "blocklords-2a2ccd",
-  "Ranking_Rating": 887,
-  "Ranking_Popularity": 455,
-  "Ranking_PopularitySum": 430,
+  "Ranking_Rating": 883,
+  "Ranking_Popularity": 453,
+  "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 551,
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.29,
+  "Rating": 4.3,
   "RatingHistory": [
     {
       "Time": "2023-09-27T08:01:20.8251438+00:00",
@@ -683,18 +683,24 @@
       "Rating": 4.29,
       "NumberOfAwards": 178,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-01-20T05:58:46.1596996+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 181,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 178,
-  "NumberOfAwardsMax": 52,
+  "NumberOfAwards": 181,
+  "NumberOfAwardsMax": 53,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 52
+      "Count": 53
     },
     {
       "Text": "This game has Diverse Characters",
@@ -724,7 +730,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 20
+      "Count": 22
     }
   ],
   "EOS_Progressed": 0,
@@ -739,8 +745,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-09-08T14:02:05.3768968+00:00",
   "FirstSeenRating": "2023-09-27T08:01:20.8251435+00:00",
-  "LastChanged": "2024-01-20T04:58:54.6442359+00:00",
+  "LastChanged": "2024-01-20T05:58:46.1596995+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:05.330693+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:58:54.6442364+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:08:28.0699206+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:58:46.1597001+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:08:20.926426+00:00"
 }

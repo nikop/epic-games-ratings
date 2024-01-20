@@ -9,9 +9,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Explorer | 5.00% | ~851 |
 | Settler | 5.00% | ~851 |
 | Play a Single Player Game | 5.00% | ~851 |
-| Intrepid | 4.00% | ~680 |
-| Friendly Family | 4.00% | ~680 |
-| Hanging Gardens | 4.00% | ~680 |
+| Intrepid | 4.00% | ~681 |
+| Friendly Family | 4.00% | ~681 |
+| Hanging Gardens | 4.00% | ~681 |
 | Able | 3.00% | ~510 |
 | Ambitious | 3.00% | ~510 |
 | Architect | 3.00% | ~510 |
@@ -51,6 +51,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Great Ziggurat | 2.00% | ~340 |
 | Ishtar Gate | 2.00% | ~340 |
 | Lighthouse | 2.00% | ~340 |
+| Mausoleum | 2.00% | ~340 |
 | Musaeum | 2.00% | ~340 |
 | Necropolis | 2.00% | ~340 |
 | Learn to Play 2 | 2.00% | ~340 |
@@ -77,7 +78,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 1.00% | ~170 |
 | Hittite Iron | 1.00% | ~170 |
 | Temple of Solomon | 1.00% | ~170 |
-| Mausoleum | 1.00% | ~170 |
 | Learn to Play 3 | 1.00% | ~170 |
 | Greece | 1.00% | ~170 |
 | Power to the People | 1.00% | ~170 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,012 (Ranked 170)  
+Progressed: 17,014 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,012 | 5 |
+| 2024-01-20 | 17,014 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,942 (Ranked 223)  

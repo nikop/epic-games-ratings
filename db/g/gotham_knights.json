@@ -5393,9 +5393,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83048,
+  "EOS_Progressed": 83049,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 423,
+  "EOS_NewPlayers": 422,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30903,6 +30903,11 @@
       "Time": "2024-01-20T05:06:04.6785039+00:00",
       "NumProgressed": 83048,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-20T06:05:47.8151587+00:00",
+      "NumProgressed": 83049,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31218,7 +31223,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28236
+      "UsersEstimate": 28237
     },
     {
       "ID": "HARLEY_2",
@@ -31290,7 +31295,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21592
+      "UsersEstimate": 21593
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31401,13 +31406,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83048,
+      "Progressed": 83049,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53328,
+      "Progressed": 53329,
       "Completed": 2680
     }
   ],
@@ -31415,8 +31420,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-19T22:57:50.8336783+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:06:04.6785035+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:05:47.8151582+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:58:01.6119687+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:06:04.678651+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:57:52.5893259+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:05:47.8153058+00:00"
 }

@@ -14,7 +14,7 @@ Number of Ratings: 177  (23.09.2022)
 | Life Found a Way | 3.00% | ~132 |
 | Relentless | 3.00% | ~221 |
 | If at First You Don't Succeed... | 3.00% | ~221 |
-| Drunk and Disorderly: Stephanie | 2.00% | ~147 |
+| Drunk and Disorderly: Stephanie | 2.00% | ~148 |
 | Amy | 1.00% | ~74 |
 | Drunk and Disorderly: Ashley | 1.00% | ~74 |
 | IRL Let's Player | 1.00% | ~74 |
@@ -37,12 +37,12 @@ Number of Ratings: 177  (23.09.2022)
 | Benedict Brahrnold | 0.60% | ~44 |
 | I'll Be Back | 0.60% | ~44 |
 | Love Conquers All | 0.50% | ~37 |
-| The Bride | 0.40% | ~29 |
-| Rule 34 | 0.40% | ~29 |
-| Rachael | 0.40% | ~29 |
-| The Muse: Derek | 0.40% | ~29 |
-| The Elder Brahs | 0.40% | ~29 |
-| Good Ol' Days | 0.40% | ~29 |
+| The Bride | 0.40% | ~30 |
+| Rule 34 | 0.40% | ~30 |
+| Rachael | 0.40% | ~30 |
+| The Muse: Derek | 0.40% | ~30 |
+| The Elder Brahs | 0.40% | ~30 |
+| Good Ol' Days | 0.40% | ~30 |
 | Drunk and Disorderly: Madison | 0.30% | ~22 |
 | Do Not Burn | 0.30% | ~22 |
 | First Impressions | 0.30% | ~22 |
@@ -76,7 +76,7 @@ Number of Ratings: 177  (23.09.2022)
 | La Coochadora | 0.10% | ~7 |
 | Simple Geometry | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,374 (Ranked 200)  
+Progressed: 7,375 (Ranked 200)  
 Completed: 3 (0.04%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 3 (0.04%) (Ranked 356)
 | 2024-01-17 | 7,356 | 3 |
 | 2024-01-18 | 7,362 | 3 |
 | 2024-01-19 | 7,371 | 3 |
-| 2024-01-20 | 7,374 | 3 |
+| 2024-01-20 | 7,375 | 3 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -6,37 +6,37 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 74.00% | ~321,163 |
-| Full garage | 61.00% | ~264,742 |
-| To the eyeballs! | 51.00% | ~221,342 |
-| Individual delivery | 47.00% | ~203,982 |
-| Non-Stop | 45.00% | ~195,302 |
-| Juggler | 36.00% | ~156,241 |
-| Forgot something | 35.00% | ~151,901 |
-| Close call! | 31.00% | ~134,541 |
-| Get out my way | 28.00% | ~121,521 |
-| Common cause | 26.00% | ~112,841 |
-| Critical care | 26.00% | ~112,841 |
-| Mega-railroad | 23.00% | ~99,821 |
-| Upgrade complete | 23.00% | ~99,821 |
-| Just in time! | 18.00% | ~78,121 |
-| Builder | 17.00% | ~73,781 |
-| Long Haul | 17.00% | ~73,669 |
-| Steam Age | 16.00% | ~69,441 |
-| Multilevel road | 15.00% | ~65,101 |
+| Dealmaker | 74.00% | ~321,167 |
+| Full garage | 61.00% | ~264,746 |
+| To the eyeballs! | 51.00% | ~221,345 |
+| Individual delivery | 47.00% | ~203,985 |
+| Non-Stop | 45.00% | ~195,304 |
+| Juggler | 36.00% | ~156,244 |
+| Forgot something | 35.00% | ~151,904 |
+| Close call! | 31.00% | ~134,543 |
+| Get out my way | 28.00% | ~121,523 |
+| Common cause | 26.00% | ~112,843 |
+| Critical care | 26.00% | ~112,843 |
+| Mega-railroad | 23.00% | ~99,822 |
+| Upgrade complete | 23.00% | ~99,822 |
+| Just in time! | 18.00% | ~78,122 |
+| Builder | 17.00% | ~73,782 |
+| Long Haul | 17.00% | ~73,670 |
+| Steam Age | 16.00% | ~69,442 |
+| Multilevel road | 15.00% | ~65,102 |
 | Bridgemania | 14.00% | ~60,761 |
 | Need to think | 14.00% | ~60,761 |
-| The Tortoise | 12.00% | ~52,080 |
-| Beginner | 11.00% | ~47,740 |
-| Without a lunch break | 11.00% | ~47,740 |
-| One way | 10.00% | ~43,400 |
-| Relocation | 10.00% | ~43,400 |
-| Industrial Age | 9.00% | ~39,060 |
-| Just One More Valley | 9.00% | ~39,001 |
-| Prick of conscience | 8.00% | ~34,720 |
-| Missed it! | 7.00% | ~30,380 |
-| At the last moment! | 6.00% | ~26,040 |
-| Overseer | 6.00% | ~26,040 |
+| The Tortoise | 12.00% | ~52,081 |
+| Beginner | 11.00% | ~47,741 |
+| Without a lunch break | 11.00% | ~47,741 |
+| One way | 10.00% | ~43,401 |
+| Relocation | 10.00% | ~43,401 |
+| Industrial Age | 9.00% | ~39,061 |
+| Just One More Valley | 9.00% | ~39,002 |
+| Prick of conscience | 8.00% | ~34,721 |
+| Missed it! | 7.00% | ~30,381 |
+| At the last moment! | 6.00% | ~26,041 |
+| Overseer | 6.00% | ~26,041 |
 | Highlander | 5.00% | ~21,700 |
 | Jewelry accuracy | 5.00% | ~21,700 |
 | Stargazer | 5.00% | ~21,700 |
@@ -48,7 +48,7 @@ Number of Ratings: 87  (23.09.2022)
 | Globalisation Age | 3.00% | ~13,020 |
 | Living it large | 3.00% | ~13,020 |
 | Sabotage | 3.00% | ~13,020 |
-| Test Batch | 3.00% | ~13,000 |
+| Test Batch | 3.00% | ~13,001 |
 | Astronomer | 2.00% | ~8,680 |
 | Innovator | 2.00% | ~8,680 |
 | Lucky vandal | 2.00% | ~8,680 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~433 |
 | World Zapper | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,004 (Ranked 46)  
+Progressed: 434,010 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 24 (0.01%) (Ranked 379)
 | 2024-01-17 | 433,553 | 24 |
 | 2024-01-18 | 433,732 | 24 |
 | 2024-01-19 | 433,960 | 24 |
-| 2024-01-20 | 434,004 | 24 |
+| 2024-01-20 | 434,010 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,060  (Ranked 159)  
 Sum: 2,197 (Ranked 215)  

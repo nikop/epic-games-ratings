@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17452,
+  "EOS_Progressed": 17453,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 513,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12789,6 +12789,11 @@
       "Time": "2024-01-20T05:04:18.8668912+00:00",
       "NumProgressed": 17452,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T06:04:04.1965919+00:00",
+      "NumProgressed": 17453,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12808,7 +12813,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6457
+      "UsersEstimate": 6458
     },
     {
       "ID": "Ach003",
@@ -12936,7 +12941,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3141
+      "UsersEstimate": 3142
     },
     {
       "ID": "Ach019",
@@ -12976,7 +12981,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9773
+      "UsersEstimate": 9774
     },
     {
       "ID": "Ach024",
@@ -13367,13 +13372,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17452,
+      "Progressed": 17453,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15973,
+      "Progressed": 15974,
       "Completed": 1931
     }
   ],
@@ -13381,8 +13386,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:04:18.8668904+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:04:04.1965913+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:58:13.2716002+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:04:18.8669899+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:58:04.3856385+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:04:04.1967329+00:00"
 }

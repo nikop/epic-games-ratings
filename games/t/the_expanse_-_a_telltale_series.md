@@ -5,8 +5,8 @@ Rating: 4.54 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Oyedang, Kopengs | 19.00% | ~3,642 |
-| Captain Drummer | 16.00% | ~3,067 |
+| Oyedang, Kopengs | 19.00% | ~3,643 |
+| Captain Drummer | 16.00% | ~3,068 |
 | Celebrations are in Order | 15.00% | ~2,876 |
 | The Pit and the Pirates | 14.00% | ~2,684 |
 | Martian Music | 14.00% | ~2,684 |
@@ -17,8 +17,8 @@ Rating: 4.54 (Ranked 552)
 | Spore Taste | 12.00% | ~2,301 |
 | Zen Master | 11.00% | ~564 |
 | Call it Even | 10.00% | ~1,917 |
-| Safe Cracker | 10.00% | ~512 |
-| Madame Undersecretary | 10.00% | ~512 |
+| Safe Cracker | 10.00% | ~513 |
+| Madame Undersecretary | 10.00% | ~513 |
 | Heal Thy Medic | 9.00% | ~1,725 |
 | Data Archivist | 8.00% | ~1,534 |
 | Drug Gifter | 8.00% | ~1,534 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 552)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,171 (Ranked 160)  
+Progressed: 19,172 (Ranked 160)  
 Completed: 66 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 66 (0.34%) (Ranked 254)
 | 2024-01-17 | 19,116 | 66 |
 | 2024-01-18 | 19,145 | 66 |
 | 2024-01-19 | 19,168 | 66 |
-| 2024-01-20 | 19,171 | 66 |
+| 2024-01-20 | 19,172 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

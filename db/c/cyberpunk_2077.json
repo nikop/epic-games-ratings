@@ -18684,10 +18684,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 507121,
       "NumberOfAwardsMax": 142615
+    },
+    {
+      "Time": "2024-01-20T06:02:58.5382344+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 507294,
+      "NumberOfAwardsMax": 142615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507121,
+  "NumberOfAwards": 507294,
   "NumberOfAwardsMax": 142615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18707,7 +18713,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31578
+      "Count": 31751
     },
     {
       "Text": "This game is Relaxing",
@@ -18764,9 +18770,9 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055354,
+  "EOS_Progressed": 1055386,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6643,
+  "EOS_NewPlayers": 6614,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50244,6 +50250,11 @@
       "Time": "2024-01-20T05:08:54.210495+00:00",
       "NumProgressed": 1055354,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-20T06:08:46.9599125+00:00",
+      "NumProgressed": 1055386,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50280,15 +50291,15 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 5277
     },
     {
       "ID": "FollowingTheRiver",
@@ -50376,7 +50387,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "MaxPain",
@@ -50424,7 +50435,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "Roleplayer",
@@ -50432,7 +50443,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "Specialist",
@@ -50480,7 +50491,7 @@
       "Name": "The Hermit",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "TheHightPriestess",
@@ -50488,7 +50499,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "TheLovers",
@@ -50496,7 +50507,7 @@
       "Name": "The Lovers",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "TheStar",
@@ -50520,7 +50531,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "TheWorld",
@@ -50552,7 +50563,7 @@
       "Name": "True Soldier",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "TrueWarrior",
@@ -50600,7 +50611,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4221
+      "UsersEstimate": 4222
     },
     {
       "ID": "All the President\u0027s Men",
@@ -50791,21 +50802,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055354,
+      "Progressed": 1055386,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183977,
+      "Progressed": 184009,
       "Completed": 10662
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-20T05:03:13.4199625+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:08:54.2104945+00:00",
+  "LastChanged": "2024-01-20T06:02:58.5382342+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:08:46.9599117+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:03:13.4199631+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:08:54.2106459+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:02:58.5382347+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:08:46.9601074+00:00"
 }

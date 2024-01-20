@@ -5397,9 +5397,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 24027,
+  "EOS_Progressed": 24028,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 332,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17192,6 +17192,11 @@
       "Time": "2024-01-20T05:08:49.6979527+00:00",
       "NumProgressed": 24027,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T06:08:42.4939492+00:00",
+      "NumProgressed": 24028,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17204,7 +17209,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8169
+      "UsersEstimate": 8170
     },
     {
       "ID": "ach02",
@@ -17220,7 +17225,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10812
+      "UsersEstimate": 10813
     },
     {
       "ID": "ach04",
@@ -17228,7 +17233,7 @@
       "Name": "What Just Happened??",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 7448
+      "UsersEstimate": 7449
     },
     {
       "ID": "ach05",
@@ -17244,7 +17249,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 16098
+      "UsersEstimate": 16099
     },
     {
       "ID": "ach07",
@@ -17252,7 +17257,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11052
+      "UsersEstimate": 11053
     },
     {
       "ID": "ach08",
@@ -17324,7 +17329,7 @@
       "Name": "Test Your Might",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ach17",
@@ -17372,7 +17377,7 @@
       "Name": "Where\u0027s Blanche",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4805
+      "UsersEstimate": 4806
     },
     {
       "ID": "ach23",
@@ -17420,7 +17425,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "ach29",
@@ -17436,7 +17441,7 @@
       "Name": "Juggernaut",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ach31",
@@ -17468,7 +17473,7 @@
       "Name": "Always Accessorize",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "ach35",
@@ -17500,7 +17505,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8169
+      "UsersEstimate": 8170
     },
     {
       "ID": "ach39",
@@ -17524,7 +17529,7 @@
       "Name": "Stop Hiding",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 5766
+      "UsersEstimate": 5767
     },
     {
       "ID": "ach42",
@@ -17556,7 +17561,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2162
+      "UsersEstimate": 2163
     },
     {
       "ID": "ach46",
@@ -17596,14 +17601,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7448
+      "UsersEstimate": 7449
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24027,
+      "Progressed": 24028,
       "Completed": 2
     }
   ],
@@ -17611,8 +17616,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-20T01:50:06.9659122+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:08:49.6979522+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:08:42.4939487+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:02:58.2070379+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:08:49.6980324+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:02:43.4285751+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:08:42.4940721+00:00"
 }

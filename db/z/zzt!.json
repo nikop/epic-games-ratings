@@ -4,7 +4,7 @@
   "ProductSlug": "zzt",
   "Ranking_EOS_Progress": 228,
   "Ranking_EOS_Completed": 78,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 291,
   "Ranking_EOS_NewCompleters": 100,
   "Store": {
     "ReleaseDate": "2023-03-31T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3607,
+  "EOS_Progressed": 3608,
   "EOS_Completed": 172,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.77,
   "EosHistory": [
@@ -6644,6 +6644,11 @@
       "Time": "2024-01-20T01:56:31.8132952+00:00",
       "NumProgressed": 3607,
       "NumCompleted": 172
+    },
+    {
+      "Time": "2024-01-20T06:08:46.9101882+00:00",
+      "NumProgressed": 3608,
+      "NumCompleted": 172
     }
   ],
   "TotalAchievements": 5,
@@ -6655,7 +6660,7 @@
       "Name": "Potomac Computer Systems",
       "Percentage": 100,
       "XP": 200,
-      "UsersEstimate": 3607
+      "UsersEstimate": 3608
     },
     {
       "ID": "2",
@@ -6663,7 +6668,7 @@
       "Name": "Traveler",
       "Percentage": 7,
       "XP": 200,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "3",
@@ -6694,7 +6699,7 @@
     {
       "ID": "dm385hd",
       "IsBase": true,
-      "Progressed": 3607,
+      "Progressed": 3608,
       "Completed": 172
     }
   ],
@@ -6702,8 +6707,8 @@
   "FirstSeenRating": "2023-03-31T21:57:04.3858764+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6096499+00:00",
   "LastChanged": "2023-03-31T21:57:04.3858765+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:08:54.2692702+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:08:46.9101877+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1839426+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:57:14.1954071+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:08:54.2693076+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:57:06.9238028+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:08:46.9102367+00:00"
 }

@@ -8,16 +8,16 @@ Rating: 4.30 (Ranked 883)
 | Bragging Rights | 56.00% | ~2,518 |
 | MVP | 54.00% | ~2,428 |
 | Big Spender | 53.00% | ~2,383 |
-| Stud Finder | 40.00% | ~1,798 |
-| Dealmaker | 38.00% | ~1,708 |
+| Stud Finder | 40.00% | ~1,799 |
+| Dealmaker | 38.00% | ~1,709 |
 | ROTY | 32.00% | ~1,439 |
 | Roster Reshuffle | 31.00% | ~1,394 |
 | Future of the Franchise | 19.00% | ~854 |
 | Throwin’ Dots | 18.00% | ~809 |
 | Already in Progress | 17.00% | ~764 |
-| Primetime | 16.00% | ~719 |
-| Change of Scenery | 16.00% | ~719 |
-| Pro Bowler | 16.00% | ~719 |
+| Primetime | 16.00% | ~720 |
+| Change of Scenery | 16.00% | ~720 |
+| Pro Bowler | 16.00% | ~720 |
 | Unblockable | 9.00% | ~405 |
 | Pocket Ace | 5.00% | ~225 |
 | Lockdown Corner | 5.00% | ~225 |
@@ -27,7 +27,7 @@ Rating: 4.30 (Ranked 883)
 | Lockdown Leader | 0.50% | ~22 |
 | The Fortress | 0.30% | ~13 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,496 (Ranked 212)  
+Progressed: 4,497 (Ranked 212)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,11 +154,11 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 4,466 | 0 |
 | 2024-01-18 | 4,476 | 0 |
 | 2024-01-19 | 4,488 | 0 |
-| 2024-01-20 | 4,496 | 0 |
+| 2024-01-20 | 4,497 | 0 |
 ## Awards
 Max (Diverse Characters): 48  (Ranked 470)  
-Sum: 179 (Ranked 429)  
-Diff (max vs sum): 41  
+Sum: 179 (Ranked 430)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 48 |

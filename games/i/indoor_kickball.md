@@ -11,7 +11,7 @@
 | Have a good trip! | 72.00% | ~77 |
 | Character Unlocked | 71.00% | ~76 |
 | Kickball Unlocked | 67.00% | ~72 |
-| Settle Down | 66.00% | ~71 |
+| Settle Down | 67.00% | ~72 |
 | Stay Hydrated | 64.00% | ~68 |
 | First Win | 62.00% | ~66 |
 | True Story! | 44.00% | ~47 |

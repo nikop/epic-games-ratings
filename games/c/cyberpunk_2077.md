@@ -6,17 +6,17 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.40% | ~4,221 |
-| Right Back At Ya | 0.40% | ~4,221 |
-| Christmas Tree Attack | 0.40% | ~4,221 |
-| Life of the Road | 0.40% | ~4,221 |
-| Stanislavski's Method | 0.40% | ~4,221 |
-| The Hermit | 0.40% | ~4,221 |
-| The High Priestess | 0.40% | ~4,221 |
-| The Lovers | 0.40% | ~4,221 |
-| The Wheel of Fortune | 0.40% | ~4,221 |
-| True Soldier | 0.40% | ~4,221 |
-| Legend of The Afterlife | 0.40% | ~4,221 |
+| Right Back At Ya | 0.50% | ~5,277 |
+| Full Body Conversion | 0.40% | ~4,222 |
+| Christmas Tree Attack | 0.40% | ~4,222 |
+| Life of the Road | 0.40% | ~4,222 |
+| Stanislavski's Method | 0.40% | ~4,222 |
+| The Hermit | 0.40% | ~4,222 |
+| The High Priestess | 0.40% | ~4,222 |
+| The Lovers | 0.40% | ~4,222 |
+| The Wheel of Fortune | 0.40% | ~4,222 |
+| True Soldier | 0.40% | ~4,222 |
+| Legend of The Afterlife | 0.40% | ~4,222 |
 | Bushido and Chill | 0.30% | ~3,166 |
 | Gun Fu | 0.30% | ~3,166 |
 | Master Crafter | 0.30% | ~3,166 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,354 (Ranked 17)  
+Progressed: 1,055,386 (Ranked 17)  
 Completed: 3,129 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,17 +349,17 @@ Completed: 3,129 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,354 | 3,129 |
+| 2024-01-20 | 1,055,386 | 3,129 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
-Sum: 507,121 (Ranked 8)  
+Sum: 507,294 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 142,615 |
 | This game has Great Boss Battles | 106,097 |
 | This game is Great for Beginners | 32,432 |
-| This game has Diverse Characters | 31,578 |
+| This game has Diverse Characters | 31,751 |
 | This game is Highly Recommended | 30,190 |
 | This game has Amazing Storytelling | 29,614 |
 | This game is Extremely Fun | 29,485 |
@@ -736,4 +736,4 @@ Diff (max vs sum): 0
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
 | 2024-01-18 | 4.67 | - | 142,143 | 504,220 |
 | 2024-01-19 | 4.67 | - | 142,615 | 506,646 |
-| 2024-01-20 | 4.67 | - | 142,615 | 507,121 |
+| 2024-01-20 | 4.67 | - | 142,615 | 507,294 |

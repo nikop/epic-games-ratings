@@ -5,22 +5,22 @@ Rating: 4.38 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~780,449 |
-| The ABCs | 43.00% | ~684,884 |
-| Home Run | 41.00% | ~653,029 |
-| Keeps Coming Off | 41.00% | ~653,029 |
-| Guts | 19.00% | ~302,623 |
-| Meat Grinder | 19.00% | ~302,623 |
-| Burning Man | 16.00% | ~254,840 |
-| Lived to Tell the Tale | 12.00% | ~191,130 |
-| Highlander | 10.00% | ~159,275 |
-| Unstoppable | 10.00% | ~159,275 |
-| Just a Scratch | 9.00% | ~143,348 |
-| Tough Nut to Crack | 6.00% | ~95,565 |
-| Yoink | 6.00% | ~95,565 |
-| Long List of Names | 4.00% | ~63,710 |
-| Pyromaniac | 4.00% | ~63,710 |
-| The Queen of Weapons | 4.00% | ~63,710 |
+| Justice from the Grave | 49.00% | ~780,456 |
+| The ABCs | 43.00% | ~684,890 |
+| Home Run | 41.00% | ~653,034 |
+| Keeps Coming Off | 41.00% | ~653,034 |
+| Guts | 19.00% | ~302,626 |
+| Meat Grinder | 19.00% | ~302,626 |
+| Burning Man | 16.00% | ~254,843 |
+| Lived to Tell the Tale | 12.00% | ~191,132 |
+| Highlander | 10.00% | ~159,277 |
+| Unstoppable | 10.00% | ~159,277 |
+| Just a Scratch | 9.00% | ~143,349 |
+| Tough Nut to Crack | 6.00% | ~95,566 |
+| Yoink | 6.00% | ~95,566 |
+| Long List of Names | 4.00% | ~63,711 |
+| Pyromaniac | 4.00% | ~63,711 |
+| The Queen of Weapons | 4.00% | ~63,711 |
 | This isn’t Sparta | 3.00% | ~47,783 |
 | Put That Away | 3.00% | ~47,783 |
 | Crybaby | 2.00% | ~31,855 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 799)
 | That’s No Ordinary Cold | 0.10% | ~1,593 |
 | Stairway to Hell | 0.10% | ~1,593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,592,753 (Ranked 7)  
+Progressed: 1,592,767 (Ranked 7)  
 Completed: 81 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 81 (0.01%) (Ranked 379)
 | 2024-01-17 | 1,591,750 | 80 |
 | 2024-01-18 | 1,592,180 | 81 |
 | 2024-01-19 | 1,592,653 | 81 |
-| 2024-01-20 | 1,592,753 | 81 |
+| 2024-01-20 | 1,592,767 | 81 |
 ## Awards
 Max (Diverse Characters): 1,248  (Ranked 149)  
 Sum: 6,419 (Ranked 137)  

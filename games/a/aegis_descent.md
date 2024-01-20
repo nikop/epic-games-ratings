@@ -31,13 +31,13 @@
 | Thirty Birds... | 4.00% | ~18 |
 | Early Bird | 3.00% | ~14 |
 | Swiss Cheese | 3.00% | ~14 |
+| Heavy Metal | 2.00% | ~9 |
 | Mister Fix It | 2.00% | ~9 |
 | Shell Shock | 2.00% | ~9 |
 | Hornet Lock On | 2.00% | ~9 |
 | Specialized | 2.00% | ~9 |
 | The First Step | 2.00% | ~9 |
 | Having a Blast | 1.00% | ~5 |
-| Heavy Metal | 1.00% | ~5 |
 | Power Up | 1.00% | ~5 |
 | The Cannoneer | 1.00% | ~5 |
 | Demolition Derby | 0.70% | ~3 |

@@ -3519,9 +3519,9 @@
       "ID": "ACHIEVEMENT_16_PromiseYohan",
       "SetID": "9bke6f1",
       "Name": "Yohan\u0027s Promise",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 46
     },
     {
       "ID": "ACHIEVEMENT_17_PromiseSia",
@@ -3535,9 +3535,9 @@
       "ID": "ACHIEVEMENT_18_FindMyself",
       "SetID": "9bke6f1",
       "Name": "Find myself",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 230
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3680,8 +3680,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-18T15:59:14.6603524+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:09:14.685406+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:09:06.9865403+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:59:12.9202122+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:09:14.6854368+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:59:03.3566363+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:09:06.9865712+00:00"
 }

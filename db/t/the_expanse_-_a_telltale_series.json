@@ -349,9 +349,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19171,
+  "EOS_Progressed": 19172,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 251,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17839,6 +17839,11 @@
       "Time": "2024-01-20T02:26:40.9315823+00:00",
       "NumProgressed": 19171,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-20T06:03:49.0532417+00:00",
+      "NumProgressed": 19172,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17883,7 +17888,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3642
+      "UsersEstimate": 3643
     },
     {
       "ID": "14",
@@ -18027,7 +18032,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3067
+      "UsersEstimate": 3068
     },
     {
       "ID": "30",
@@ -18099,7 +18104,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "33",
@@ -18123,20 +18128,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19171,
+      "Progressed": 19172,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5125,
+      "Progressed": 5126,
       "Completed": 1357
     }
   ],
@@ -18144,8 +18149,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-20T05:04:04.1175988+00:00",
+  "LastChanged_Achievements": "2024-01-20T06:03:49.0532411+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-20T04:57:28.7688406+00:00",
-  "LastUpdate_Achievements": "2024-01-20T05:04:04.1176989+00:00"
+  "LastUpdate_Ratings": "2024-01-20T05:57:20.5436698+00:00",
+  "LastUpdate_Achievements": "2024-01-20T06:03:49.0533699+00:00"
 }

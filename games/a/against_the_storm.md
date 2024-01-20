@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,903 (Ranked 157)  
+Progressed: 20,904 (Ranked 157)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,14 +341,14 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-17 | 20,854 | 35 |
 | 2024-01-18 | 20,874 | 35 |
 | 2024-01-19 | 20,898 | 35 |
-| 2024-01-20 | 20,903 | 35 |
+| 2024-01-20 | 20,904 | 35 |
 ## Awards
-Max (Quickly Understood Controls): 454  (Ranked 234)  
-Sum: 3,398 (Ranked 179)  
+Max (Quickly Understood Controls): 455  (Ranked 234)  
+Sum: 3,399 (Ranked 179)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
-| This game has Quickly Understood Controls | 454 |
+| This game has Quickly Understood Controls | 455 |
 | This game is Relaxing | 452 |
 | This game is Great for Beginners | 450 |
 | This game is Extremely Fun | 423 |
@@ -650,3 +650,4 @@ Diff (max vs sum): 55
 | 2024-01-16 | 4.82 | - | 453 | 3,387 |
 | 2024-01-17 | 4.82 | - | 454 | 3,393 |
 | 2024-01-19 | 4.82 | - | 454 | 3,398 |
+| 2024-01-20 | 4.82 | - | 455 | 3,399 |

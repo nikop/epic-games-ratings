@@ -5,21 +5,21 @@ Rating: 4.31 (Ranked 876)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~162,307 |
-| Doubled Pawn | 57.00% | ~130,303 |
-| Check | 56.00% | ~128,017 |
-| Absolute pin | 47.00% | ~107,442 |
-| Promotion | 31.00% | ~70,866 |
-| Checkmate | 30.00% | ~68,580 |
-| O-O | 24.00% | ~54,864 |
-| Spanish Bishop | 21.00% | ~48,006 |
-| Queen Sacrifice | 20.00% | ~45,720 |
-| Stalemate | 18.00% | ~41,148 |
-| O-O-O | 13.00% | ~29,718 |
-| Octopus | 13.00% | ~29,718 |
-| Stranger Danger | 12.00% | ~27,432 |
-| En Passant | 9.00% | ~20,574 |
-| Double Check | 7.00% | ~16,002 |
+| Chop Wood | 71.00% | ~162,312 |
+| Doubled Pawn | 57.00% | ~130,307 |
+| Check | 56.00% | ~128,020 |
+| Absolute pin | 47.00% | ~107,446 |
+| Promotion | 31.00% | ~70,868 |
+| Checkmate | 30.00% | ~68,582 |
+| O-O | 24.00% | ~54,866 |
+| Spanish Bishop | 21.00% | ~48,008 |
+| Queen Sacrifice | 20.00% | ~45,722 |
+| Stalemate | 18.00% | ~41,149 |
+| O-O-O | 13.00% | ~29,719 |
+| Octopus | 13.00% | ~29,719 |
+| Stranger Danger | 12.00% | ~27,433 |
+| En Passant | 9.00% | ~20,575 |
+| Double Check | 7.00% | ~16,003 |
 | Family Fork | 6.00% | ~13,716 |
 | Piece Collector | 6.00% | ~13,716 |
 | ELO | 5.00% | ~11,430 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 876)
 | Tournament Master | 0.10% | ~229 |
 | Tournament Pro | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 228,601 (Ranked 79)  
+Progressed: 228,608 (Ranked 79)  
 Completed: 2 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 2 (0.00%) (Ranked 406)
 | 2024-01-17 | 228,259 | 2 |
 | 2024-01-18 | 228,398 | 2 |
 | 2024-01-19 | 228,561 | 2 |
-| 2024-01-20 | 228,601 | 2 |
+| 2024-01-20 | 228,608 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

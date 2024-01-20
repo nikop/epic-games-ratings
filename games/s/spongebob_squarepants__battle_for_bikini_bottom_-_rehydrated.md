@@ -27,19 +27,19 @@ Number of Ratings: 76  (23.09.2022)
 | Hello, Bikini Bottom | 7.00% | ~78 |
 | Ultra Spatula Seeker | 7.00% | ~78 |
 | Robot encyclopedia | 6.00% | ~67 |
-| The Small Does Not Rule | 5.00% | ~55 |
-| Ship Shape | 5.00% | ~55 |
-| Shanghaied | 5.00% | ~55 |
-| Kelp Forest of Fear | 5.00% | ~55 |
-| SpongeBob vs SpongeBob! | 5.00% | ~55 |
-| Sock Concert | 5.00% | ~55 |
-| Mega Spatula Seeker | 5.00% | ~55 |
+| The Small Does Not Rule | 5.00% | ~56 |
+| Ship Shape | 5.00% | ~56 |
+| Shanghaied | 5.00% | ~56 |
+| Kelp Forest of Fear | 5.00% | ~56 |
+| SpongeBob vs SpongeBob! | 5.00% | ~56 |
+| Sock Concert | 5.00% | ~56 |
+| Mega Spatula Seeker | 5.00% | ~56 |
 | Sleepy Time | 4.00% | ~44 |
 | 100% SpongeBob | 1.00% | ~11 |
 | Sock Opera | 1.00% | ~11 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,109 (Ranked 296)  
+Progressed: 1,110 (Ranked 296)  
 Completed: 9 (0.81%) (Ranked 195)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 9 (0.81%) (Ranked 195)
 | 2024-01-17 | 1,070 | 9 |
 | 2024-01-18 | 1,081 | 9 |
 | 2024-01-19 | 1,105 | 9 |
-| 2024-01-20 | 1,109 | 9 |
+| 2024-01-20 | 1,110 | 9 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

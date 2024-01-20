@@ -6,35 +6,35 @@ Number of Ratings: 34  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Explorer | 68.00% | ~534 |
-| Cowardice | 61.00% | ~479 |
+| Explorer | 68.00% | ~535 |
+| Cowardice | 61.00% | ~480 |
 | The Breaking Point | 44.00% | ~346 |
 | NO LIFE IS WORTH SAVING... | 44.00% | ~346 |
-| Eat Lead! | 42.00% | ~330 |
-| Here Comes the Boom | 40.00% | ~314 |
+| Eat Lead! | 42.00% | ~331 |
+| Here Comes the Boom | 40.00% | ~315 |
 | Prospector | 38.00% | ~299 |
-| Sniper Wolf | 38.00% | ~299 |
-| The Motivation | 37.00% | ~291 |
+| Sniper Wolf | 37.00% | ~291 |
+| The Motivation | 36.00% | ~283 |
 | Treasure Hunter | 35.00% | ~275 |
-| Heroism | 34.00% | ~267 |
+| Heroism | 34.00% | ~268 |
 | Collectibles of Chapter I | 32.00% | ~252 |
 | Missing in Action | 32.00% | ~252 |
 | Consequences | 31.00% | ~244 |
 | Opportunities | 30.00% | ~236 |
 | King of Knives | 30.00% | ~236 |
 | The Horror | 28.00% | ~220 |
-| The Difference | 25.00% | ~196 |
-| It's Just an Accident | 25.00% | ~196 |
+| The Difference | 25.00% | ~197 |
+| It's Just an Accident | 25.00% | ~197 |
 | Vengeance | 24.00% | ~189 |
 | Collectibles of Chapter II | 22.00% | ~173 |
 | Broken Hopes | 21.00% | ~165 |
 | Bullseye! | 21.00% | ~165 |
-| Sorrow | 19.00% | ~149 |
+| Sorrow | 19.00% | ~150 |
 | Atonement | 17.00% | ~134 |
 | Helping Hand | 17.00% | ~134 |
 | Food Massacre | 17.00% | ~134 |
-| Without a Second Thought | 15.00% | ~118 |
 | Collectibles of Chapter III | 14.00% | ~110 |
+| Without a Second Thought | 14.00% | ~110 |
 | Collectibles of Chapter IV | 13.00% | ~102 |
 | Collectibles of Chapter V | 10.00% | ~79 |
 | Tiptoe Around | 10.00% | ~79 |
@@ -66,7 +66,7 @@ Number of Ratings: 34  (23.09.2022)
 | Challenges of Chapter XI | 0.10% | ~1 |
 | Challenges of Chapter XII | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 786 (Ranked 320)  
+Progressed: 787 (Ranked 320)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,7 +280,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 782 | 0 |
 | 2024-01-18 | 783 | 0 |
 | 2024-01-19 | 784 | 0 |
-| 2024-01-20 | 786 | 0 |
+| 2024-01-20 | 787 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
