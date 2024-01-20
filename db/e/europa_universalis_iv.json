@@ -14643,9 +14643,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 502681,
+  "EOS_Progressed": 502710,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4383,
+  "EOS_NewPlayers": 4377,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46458,6 +46458,11 @@
       "Time": "2024-01-20T21:10:35.6343481+00:00",
       "NumProgressed": 502681,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T22:10:12.9301697+00:00",
+      "NumProgressed": 502710,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -48469,7 +48474,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2513
+      "UsersEstimate": 2514
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -49372,21 +49377,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 502681,
+      "Progressed": 502710,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 502681,
+      "Progressed": 502710,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-20T19:59:11.0855153+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:10:35.6343479+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:10:12.9301692+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:59:28.0085359+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:10:35.6353464+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:59:11.6392892+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:10:12.931182+00:00"
 }

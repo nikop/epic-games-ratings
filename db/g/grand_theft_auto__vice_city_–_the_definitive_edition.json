@@ -2,13 +2,13 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 570,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 211,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16591,
+  "EOS_Progressed": 16595,
   "EOS_Completed": 107,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 230,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -18679,6 +18679,11 @@
       "Time": "2024-01-20T21:10:14.9890253+00:00",
       "NumProgressed": 16591,
       "NumCompleted": 107
+    },
+    {
+      "Time": "2024-01-20T22:09:53.7347885+00:00",
+      "NumProgressed": 16595,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 34,
@@ -18706,7 +18711,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACH04",
@@ -18762,7 +18767,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1161
+      "UsersEstimate": 1162
     },
     {
       "ID": "ACH11",
@@ -18778,7 +18783,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH13",
@@ -18794,7 +18799,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7134
+      "UsersEstimate": 7136
     },
     {
       "ID": "ACH15",
@@ -18818,7 +18823,7 @@
       "Name": "Gun for Hire",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACH18",
@@ -18850,7 +18855,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7798
+      "UsersEstimate": 7800
     },
     {
       "ID": "ACH22",
@@ -18858,7 +18863,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3484
+      "UsersEstimate": 3485
     },
     {
       "ID": "ACH23",
@@ -18866,7 +18871,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4480
+      "UsersEstimate": 4481
     },
     {
       "ID": "ACH24",
@@ -18906,7 +18911,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 995
+      "UsersEstimate": 996
     },
     {
       "ID": "ACH29",
@@ -18922,7 +18927,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1493
+      "UsersEstimate": 1494
     },
     {
       "ID": "ACH31",
@@ -18961,7 +18966,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16591,
+      "Progressed": 16595,
       "Completed": 107
     }
   ],
@@ -18969,8 +18974,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:10:14.989025+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:09:53.7347883+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:59:56.9925203+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:10:14.9891289+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:59:35.8140548+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:09:53.7349138+00:00"
 }

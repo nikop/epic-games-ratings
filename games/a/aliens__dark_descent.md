@@ -1,7 +1,7 @@
 # Aliens: Dark Descent
 [Store](https://store.epicgames.com/en-US/p/aliens-dark-descent)  
 [View Rawdata](../../db/a/aliens__dark_descent.json)  
-Rating: 4.53 (Ranked 570)  
+Rating: 4.53 (Ranked 571)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,8 +12,8 @@ Rating: 4.53 (Ranked 570)
 | Call Me Snake | 54.00% | ~3,520 |
 | Something Lurks Under The Hills | 53.00% | ~3,455 |
 | This Was No Papercut | 51.00% | ~3,325 |
+| The Shrink Hates Me | 49.00% | ~3,194 |
 | People Person | 48.00% | ~3,129 |
-| The Shrink Hates Me | 48.00% | ~3,129 |
 | Use The Bumper, That's What It's For | 45.00% | ~2,934 |
 | First Steps Into Madness | 45.00% | ~2,934 |
 | Colonial Barrels | 43.00% | ~2,803 |

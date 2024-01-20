@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17501,
+  "EOS_Progressed": 17502,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 457,
+  "EOS_NewPlayers": 456,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12864,6 +12864,11 @@
       "Time": "2024-01-20T21:04:48.1279223+00:00",
       "NumProgressed": 17501,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T22:04:39.5792317+00:00",
+      "NumProgressed": 17502,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12883,7 +12888,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6475
+      "UsersEstimate": 6476
     },
     {
       "ID": "Ach003",
@@ -12987,7 +12992,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6300
+      "UsersEstimate": 6301
     },
     {
       "ID": "Ach016",
@@ -13003,7 +13008,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4375
+      "UsersEstimate": 4376
     },
     {
       "ID": "Ach018",
@@ -13067,7 +13072,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 5425
+      "UsersEstimate": 5426
     },
     {
       "ID": "Ach026",
@@ -13115,7 +13120,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5075
+      "UsersEstimate": 5076
     },
     {
       "ID": "Ach032",
@@ -13243,7 +13248,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7350
+      "UsersEstimate": 7351
     },
     {
       "ID": "Ach048",
@@ -13251,7 +13256,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5075
+      "UsersEstimate": 5076
     },
     {
       "ID": "Ach049",
@@ -13273,9 +13278,9 @@
       "ID": "Ach051",
       "SetID": "12n4k20",
       "Name": "You can pet the cat!",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8750
+      "UsersEstimate": 8926
     },
     {
       "ID": "Ach052",
@@ -13442,13 +13447,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17501,
+      "Progressed": 17502,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16022,
+      "Progressed": 16023,
       "Completed": 1931
     }
   ],
@@ -13456,8 +13461,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:04:48.1279219+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:04:39.5792313+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:58:45.0350544+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:04:48.1280275+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:58:33.0783702+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:04:39.5793333+00:00"
 }

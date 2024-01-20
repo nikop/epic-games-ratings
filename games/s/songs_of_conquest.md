@@ -15,7 +15,7 @@ Number of Ratings: 292  (23.09.2022)
 | Humiliation | 10.00% | ~126 |
 | Multi Kill | 9.00% | ~113 |
 | Sorcerous Spree | 9.00% | ~113 |
-| Landlord Extraordinaire | 7.00% | ~88 |
+| Landlord Extraordinaire | 8.00% | ~101 |
 | Master | 7.00% | ~88 |
 | The Song of Stoutheart | 6.00% | ~75 |
 | Whoops! | 6.00% | ~75 |
@@ -30,9 +30,9 @@ Number of Ratings: 292  (23.09.2022)
 | Venisti, Vidisti, Perdidisti | 2.00% | ~25 |
 | Deepstrike | 1.00% | ~13 |
 | In The Thick of It | 1.00% | ~13 |
+| Together For Her | 1.00% | ~13 |
 | Such A Fungi | 1.00% | ~13 |
 | Grand Master | 1.00% | ~13 |
-| Together For Her | 0.90% | ~11 |
 | Versatile Wielder | 0.80% | ~10 |
 | Unlimited Power! | 0.70% | ~9 |
 | Death To Diplomacy | 0.60% | ~8 |

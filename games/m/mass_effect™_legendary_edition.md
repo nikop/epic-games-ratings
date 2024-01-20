@@ -12,10 +12,10 @@
 | Quarian Ally | 49.00% | ~2,220 |
 | Honorarium of Corporate Service | 45.00% | ~2,038 |
 | Medal of Heroism | 44.00% | ~1,993 |
-| Turian Ally | 40.00% | ~1,812 |
+| Turian Ally | 41.00% | ~1,857 |
 | Medal of Exploration II | 39.00% | ~1,767 |
 | Council Legion of Merit | 39.00% | ~1,767 |
-| Missing in Action | 37.00% | ~1,676 |
+| Missing in Action | 38.00% | ~1,721 |
 | Medal of Honor | 36.00% | ~1,631 |
 | Meritorious Service Medal | 36.00% | ~1,631 |
 | Soldier Ally | 36.00% | ~1,631 |
@@ -26,11 +26,11 @@
 | Medal of Exploration III | 32.00% | ~1,450 |
 | Principled | 32.00% | ~1,450 |
 | Colonial Savior | 32.00% | ~1,450 |
+| Merciless | 32.00% | ~1,450 |
 | Scientist | 32.00% | ~1,450 |
 | Paramour I | 31.00% | ~1,404 |
-| Merciless | 31.00% | ~1,404 |
+| Krogan Ally | 31.00% | ~1,404 |
 | Sentinel Ally | 30.00% | ~1,359 |
-| Krogan Ally | 30.00% | ~1,359 |
 | The Archangel | 30.00% | ~1,359 |
 | The Professor | 30.00% | ~1,359 |
 | Head Hunter | 30.00% | ~1,359 |
@@ -50,6 +50,7 @@
 | Ghost of the Father | 23.00% | ~1,042 |
 | The Prodigal | 23.00% | ~1,042 |
 | Galactic Explorer | 23.00% | ~1,042 |
+| Bringer of War | 23.00% | ~1,042 |
 | Shopaholic | 23.00% | ~1,042 |
 | A Personal Touch | 22.00% | ~997 |
 | Battlemaster | 22.00% | ~997 |
@@ -58,14 +59,13 @@
 | The Cure | 22.00% | ~997 |
 | Big Game Hunter | 22.00% | ~997 |
 | Revenge! | 22.00% | ~997 |
+| Digital Exorcist | 22.00% | ~997 |
 | Heart of Darkness | 22.00% | ~997 |
-| Bringer of War | 22.00% | ~997 |
 | Focused | 21.00% | ~951 |
 | Archivist | 21.00% | ~951 |
 | Friend or Foe | 21.00% | ~951 |
 | Cat's in the Cradle | 21.00% | ~951 |
 | Treason | 21.00% | ~951 |
-| Digital Exorcist | 21.00% | ~951 |
 | Mobilizer | 21.00% | ~951 |
 | Completionist | 20.00% | ~906 |
 | Mission Accomplished | 20.00% | ~906 |
@@ -79,11 +79,11 @@
 | A House Divided | 19.00% | ~861 |
 | World Shaker | 19.00% | ~861 |
 | First Aid Specialist | 18.00% | ~815 |
+| Pathfinder | 18.00% | ~815 |
 | Tunnel Rat | 18.00% | ~815 |
 | Liberator | 18.00% | ~815 |
 | Savior | 17.00% | ~770 |
 | Weapon Specialist | 17.00% | ~770 |
-| Pathfinder | 17.00% | ~770 |
 | Arbiter | 17.00% | ~770 |
 | Lost and Found | 16.00% | ~725 |
 | Under Pressure | 15.00% | ~680 |

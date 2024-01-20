@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 30,
+  "Ranking_EOS_NewCompleters": 31,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 22870,
+  "EOS_Progressed": 22876,
   "EOS_Completed": 119,
-  "EOS_NewPlayers": 1079,
+  "EOS_NewPlayers": 1071,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -8772,6 +8772,11 @@
       "Time": "2024-01-20T21:03:30.72481+00:00",
       "NumProgressed": 22870,
       "NumCompleted": 119
+    },
+    {
+      "Time": "2024-01-20T22:03:29.1060035+00:00",
+      "NumProgressed": 22876,
+      "NumCompleted": 119
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -8808,7 +8813,7 @@
       "Name": "Morbidly Curious",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "SAVE_EVERYONE_1_1",
@@ -8816,7 +8821,7 @@
       "Name": "Savior",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "SAVE_EVERYONE_PERFECT_1_2",
@@ -8824,7 +8829,7 @@
       "Name": "Righter of Wrongs",
       "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "SAVE_ONE_PERSON_1_0",
@@ -8832,7 +8837,7 @@
       "Name": "Rescuer",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2973
+      "UsersEstimate": 2974
     },
     {
       "ID": "SECRETS_OUT_1_9",
@@ -8848,7 +8853,7 @@
       "Name": "Locksmith",
       "Percentage": 9,
       "XP": 90,
-      "UsersEstimate": 2058
+      "UsersEstimate": 2059
     },
     {
       "ID": "WATCH_ALL_SCENES_1_5",
@@ -8856,14 +8861,14 @@
       "Name": "Investigator",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     }
   ],
   "AchievementSets": [
     {
       "ID": "24fdn9j",
       "IsBase": true,
-      "Progressed": 22870,
+      "Progressed": 22876,
       "Completed": 119
     }
   ],
@@ -8871,8 +8876,8 @@
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:03:30.7248098+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:03:29.1060031+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:02:38.1023786+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:03:30.7248649+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:02:39.6638227+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:03:29.1060851+00:00"
 }

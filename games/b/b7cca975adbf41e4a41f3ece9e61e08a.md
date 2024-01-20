@@ -5,15 +5,15 @@ Rating: 4.69 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,640 |
-| I Challenge You To Save More Money! | 81.00% | ~15,316 |
-| I Love How Tough You Are | 66.00% | ~12,480 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~11,156 |
+| Last Night...Did We... | 88.00% | ~16,641 |
+| I Challenge You To Save More Money! | 81.00% | ~15,317 |
+| I Love How Tough You Are | 66.00% | ~12,481 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~11,157 |
 | What I Want Is You | 54.00% | ~10,211 |
 | To Be Or Not To Be | 51.00% | ~9,644 |
-| Are You Alright? | 47.00% | ~8,887 |
+| Are You Alright? | 47.00% | ~8,888 |
 | Love Actually | 42.00% | ~7,942 |
-| Drama King | 36.00% | ~6,807 |
+| Drama King | 36.00% | ~6,808 |
 | Go Clean up In Your Own Way | 33.00% | ~6,240 |
 | Drama CP: Reel to Real | 32.00% | ~6,051 |
 | You're Really Something Else | 32.00% | ~6,051 |
@@ -23,9 +23,9 @@ Rating: 4.69 (Ranked 241)
 | Absolutely Elegant | 29.00% | ~5,484 |
 | Still Single | 28.00% | ~5,295 |
 | ONE PUNCH | 28.00% | ~5,295 |
-| Days Of Innocence | 26.00% | ~4,916 |
-| David | 26.00% | ~4,916 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,727 |
+| Days Of Innocence | 26.00% | ~4,917 |
+| David | 26.00% | ~4,917 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,728 |
 | All I Have Is Money | 22.00% | ~4,160 |
 | A Slap In The Face! | 22.00% | ~4,160 |
 | That's So You | 22.00% | ~4,160 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 241)
 | Tall; Grande; Venti | 2.00% | ~378 |
 | Limerence | 2.00% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,909 (Ranked 162)  
+Progressed: 18,910 (Ranked 162)  
 Completed: 336 (1.78%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 336 (1.78%) (Ranked 148)
 | 2024-01-17 | 18,760 | 336 |
 | 2024-01-18 | 18,810 | 336 |
 | 2024-01-19 | 18,859 | 336 |
-| 2024-01-20 | 18,909 | 336 |
+| 2024-01-20 | 18,910 | 336 |
 ## Awards
 Max (Impact the Story): 40  (Ranked 488)  
 Sum: 40 (Ranked 528)  

@@ -5,45 +5,45 @@ Rating: 4.71 (Ranked 207)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 97.00% | ~17,982 |
-| Welcome Aboard | 83.00% | ~15,387 |
-| Lab Rat | 67.00% | ~12,420 |
-| All Systems Go | 56.00% | ~10,381 |
-| Brute Force | 55.00% | ~10,196 |
-| Cannon Fodder | 51.00% | ~9,454 |
-| Raise the Stakes | 50.00% | ~9,269 |
-| Autofire | 47.00% | ~8,713 |
-| True Believer | 47.00% | ~8,713 |
-| Story Teller | 46.00% | ~8,527 |
-| Surgeon | 44.00% | ~8,157 |
-| Freeze | 43.00% | ~7,971 |
-| Exterminator | 43.00% | ~7,971 |
-| Greenhouse Effect | 43.00% | ~7,971 |
-| S.O.S. | 38.00% | ~7,044 |
-| Full Arsenal | 36.00% | ~6,674 |
-| Live with the Hot Ones | 36.00% | ~6,674 |
-| Get Off My Ship! | 36.00% | ~6,674 |
-| Strange Transmissions | 36.00% | ~6,674 |
-| Wreckage | 35.00% | ~6,488 |
-| Keeper of the Faith | 33.00% | ~6,118 |
-| Betrayed | 32.00% | ~5,932 |
-| Legend Teller | 31.00% | ~5,747 |
-| Mindless Prey | 31.00% | ~5,747 |
-| Exodus | 30.00% | ~5,561 |
-| There's Always Peng! | 30.00% | ~5,561 |
-| A Cut Above | 28.00% | ~5,191 |
-| Front Toward Enemy | 27.00% | ~5,005 |
-| Set A Benchmark | 24.00% | ~4,449 |
-| Whole Again | 23.00% | ~4,264 |
-| Final Regeneration | 20.00% | ~3,708 |
-| Full Contact | 20.00% | ~3,708 |
-| Full Clearance | 19.00% | ~3,522 |
-| Z-Baller | 18.00% | ~3,337 |
-| Pusher | 17.00% | ~3,151 |
-| Pack Rat | 16.00% | ~2,966 |
-| Eviscerator | 13.00% | ~2,410 |
-| Backbreaker | 11.00% | ~2,039 |
-| Marked | 11.00% | ~2,039 |
+| Marksman | 97.00% | ~17,987 |
+| Welcome Aboard | 83.00% | ~15,391 |
+| Lab Rat | 67.00% | ~12,424 |
+| All Systems Go | 56.00% | ~10,384 |
+| Brute Force | 55.00% | ~10,199 |
+| Cannon Fodder | 51.00% | ~9,457 |
+| Raise the Stakes | 50.00% | ~9,272 |
+| Autofire | 47.00% | ~8,715 |
+| True Believer | 47.00% | ~8,715 |
+| Story Teller | 46.00% | ~8,530 |
+| Surgeon | 44.00% | ~8,159 |
+| Freeze | 43.00% | ~7,973 |
+| Exterminator | 43.00% | ~7,973 |
+| Greenhouse Effect | 43.00% | ~7,973 |
+| S.O.S. | 38.00% | ~7,046 |
+| Full Arsenal | 36.00% | ~6,675 |
+| Live with the Hot Ones | 36.00% | ~6,675 |
+| Get Off My Ship! | 36.00% | ~6,675 |
+| Strange Transmissions | 36.00% | ~6,675 |
+| Wreckage | 35.00% | ~6,490 |
+| Keeper of the Faith | 33.00% | ~6,119 |
+| Betrayed | 32.00% | ~5,934 |
+| Exodus | 31.00% | ~5,748 |
+| Legend Teller | 31.00% | ~5,748 |
+| Mindless Prey | 31.00% | ~5,748 |
+| There's Always Peng! | 30.00% | ~5,563 |
+| A Cut Above | 28.00% | ~5,192 |
+| Front Toward Enemy | 27.00% | ~5,007 |
+| Set A Benchmark | 24.00% | ~4,450 |
+| Whole Again | 23.00% | ~4,265 |
+| Final Regeneration | 20.00% | ~3,709 |
+| Full Contact | 20.00% | ~3,709 |
+| Full Clearance | 19.00% | ~3,523 |
+| Z-Baller | 18.00% | ~3,338 |
+| Pusher | 17.00% | ~3,152 |
+| Pack Rat | 16.00% | ~2,967 |
+| Eviscerator | 13.00% | ~2,411 |
+| Backbreaker | 11.00% | ~2,040 |
+| Marked | 11.00% | ~2,040 |
 | Wishbone | 7.00% | ~1,298 |
 | Built To Order | 4.00% | ~742 |
 | Trusted Contractor | 3.00% | ~556 |
@@ -53,7 +53,7 @@ Rating: 4.71 (Ranked 207)
 | One Gun | 1.00% | ~185 |
 | Reunion | 1.00% | ~185 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,538 (Ranked 164)  
+Progressed: 18,543 (Ranked 164)  
 Completed: 51 (0.28%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,14 +181,14 @@ Completed: 51 (0.28%) (Ranked 269)
 | 2024-01-17 | 18,173 | 45 |
 | 2024-01-18 | 18,282 | 49 |
 | 2024-01-19 | 18,386 | 49 |
-| 2024-01-20 | 18,538 | 51 |
+| 2024-01-20 | 18,543 | 51 |
 ## Awards
-Max (Great Boss Battles): 301  (Ranked 263)  
-Sum: 301 (Ranked 383)  
-Diff (max vs sum): -120  
+Max (Great Boss Battles): 306  (Ranked 261)  
+Sum: 306 (Ranked 383)  
+Diff (max vs sum): -122  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 301 |
+| This game has Great Boss Battles | 306 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -341,3 +341,4 @@ Diff (max vs sum): -120
 | 2024-01-17 | 4.71 | 294 | 294 |
 | 2024-01-18 | 4.71 | 298 | 298 |
 | 2024-01-19 | 4.71 | 301 | 301 |
+| 2024-01-20 | 4.71 | 306 | 306 |

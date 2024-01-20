@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2358,9 +2358,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17035,
+  "EOS_Progressed": 17037,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 335,
+  "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20628,6 +20628,11 @@
       "Time": "2024-01-20T21:10:35.1682742+00:00",
       "NumProgressed": 17035,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T22:10:12.3887901+00:00",
+      "NumProgressed": 17037,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22917,9 +22922,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_CLERGY_COURT",
       "SetID": "9201eeb",
       "Name": "The Clergy",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 170
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_DEPOSE_TRIBE",
@@ -23502,21 +23507,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17035,
+      "Progressed": 17037,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17035,
+      "Progressed": 17037,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-20T16:57:48.9495407+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:10:35.168274+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:10:12.3887896+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:57:39.2508492+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:10:35.169211+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:57:35.2857496+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:10:12.3899469+00:00"
 }

@@ -37,10 +37,10 @@ Number of Ratings: 429  (23.09.2022)
 | Recruit a Leader | 1.00% | ~76 |
 | Win as the Baratak | 1.00% | ~76 |
 | Win as the Mimot | 1.00% | ~76 |
+| Ask Not What Your Empire Can Do For You | 0.90% | ~68 |
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
-| Ask Not What Your Empire Can Do For You | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
 | Hyperspace! | 0.70% | ~53 |
 | Veteran Crew | 0.70% | ~53 |

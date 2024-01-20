@@ -4,8 +4,8 @@
   "ProductSlug": "iron-heart-7b7727",
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-14T21:00:00+00:00",
     "PcReleaseDate": "2019-06-02T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-18T11:58:09.250681+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:05.9185654+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:58:11.8573982+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:06:09.7099167+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:58:04.3245963+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:05:53.6535623+00:00"
 }

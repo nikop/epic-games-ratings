@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 10.00% | ~2,092 |
+| Overgrown Library | 10.00% | ~2,093 |
 | First Real Expedition | 9.00% | ~1,883 |
 | Taking Action | 9.00% | ~1,883 |
 | No Deaths | 9.00% | ~1,883 |
@@ -18,8 +18,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | The Scarlet Orchard | 7.00% | ~1,465 |
 | Ominous Presence | 7.00% | ~1,465 |
 | Gathering Storm | 7.00% | ~1,465 |
-| Frosts | 6.00% | ~1,255 |
-| Land of Greed | 6.00% | ~1,255 |
+| Frosts | 6.00% | ~1,256 |
+| Land of Greed | 6.00% | ~1,256 |
 | Fertile Meadows | 5.00% | ~1,046 |
 | Royal Outpost | 5.00% | ~1,046 |
 | Watchtower | 5.00% | ~1,046 |
@@ -41,16 +41,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Haunted Forest | 3.00% | ~628 |
 | Flooded Mines | 3.00% | ~628 |
 | Cursed Lands | 3.00% | ~628 |
-| Serving Ale | 2.00% | ~418 |
-| Efficient Explorer | 2.00% | ~418 |
-| Refinery | 2.00% | ~418 |
-| Dangerous Lands | 2.00% | ~418 |
-| Fishmen Ritual Site | 2.00% | ~418 |
-| Forbidden Lands | 2.00% | ~418 |
-| Forsaken Gods Temple | 2.00% | ~418 |
-| Victory Through Prosperity | 2.00% | ~418 |
-| Defying the Crown | 2.00% | ~418 |
-| Into the Forest | 2.00% | ~418 |
+| Serving Ale | 2.00% | ~419 |
+| Efficient Explorer | 2.00% | ~419 |
+| Refinery | 2.00% | ~419 |
+| Dangerous Lands | 2.00% | ~419 |
+| Fishmen Ritual Site | 2.00% | ~419 |
+| Forbidden Lands | 2.00% | ~419 |
+| Forsaken Gods Temple | 2.00% | ~419 |
+| Victory Through Prosperity | 2.00% | ~419 |
+| Defying the Crown | 2.00% | ~419 |
+| Into the Forest | 2.00% | ~419 |
 | Feeding The People | 1.00% | ~209 |
 | Like a Machine | 1.00% | ~209 |
 | Prestigious Expedition | 0.60% | ~126 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,924 (Ranked 157)  
+Progressed: 20,926 (Ranked 157)  
 Completed: 34 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 34 (0.16%) (Ranked 296)
 | 2024-01-17 | 20,854 | 35 |
 | 2024-01-18 | 20,874 | 35 |
 | 2024-01-19 | 20,898 | 35 |
-| 2024-01-20 | 20,924 | 35 |
+| 2024-01-20 | 20,926 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 455  (Ranked 234)  
 Sum: 3,400 (Ranked 180)  

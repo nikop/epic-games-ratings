@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 158,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.55,
+  "Rating": 4.56,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -2525,18 +2525,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 1134,
       "NumberOfAwardsMax": 695
+    },
+    {
+      "Time": "2024-01-20T21:59:52.5172188+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 1143,
+      "NumberOfAwardsMax": 704
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1134,
-  "NumberOfAwardsMax": 695,
+  "NumberOfAwards": 1143,
+  "NumberOfAwardsMax": 704,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 695
+      "Count": 704
     },
     {
       "Text": "This game is Relaxing",
@@ -2593,9 +2599,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19752,
+  "EOS_Progressed": 19753,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21078,6 +21084,11 @@
       "Time": "2024-01-20T21:10:21.7770637+00:00",
       "NumProgressed": 19752,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-20T22:10:00.2297072+00:00",
+      "NumProgressed": 19753,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21089,7 +21100,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15999
+      "UsersEstimate": 16000
     },
     {
       "ID": "ACH02",
@@ -21185,7 +21196,7 @@
       "Name": "School\u0027s Out",
       "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 3555
+      "UsersEstimate": 3556
     },
     {
       "ID": "ACH14",
@@ -21368,16 +21379,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19752,
+      "Progressed": 19753,
       "Completed": 81
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-20T17:00:03.5642871+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:10:21.7770634+00:00",
+  "LastChanged": "2024-01-20T21:59:52.5172185+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:10:00.2297066+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:00:13.4246208+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:10:21.7771835+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:59:52.5172194+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:10:00.2298393+00:00"
 }

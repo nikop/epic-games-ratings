@@ -16,8 +16,8 @@ Rating: 4.63 (Ranked 359)
 | There Can Only Be One! | 9.00% | ~655 |
 | Stronger Together | 9.00% | ~655 |
 | Seat of Power | 9.00% | ~655 |
+| In a Liege of Your Own | 8.00% | ~582 |
 | Valley of Wonders | 7.00% | ~510 |
-| In a Liege of Your Own | 7.00% | ~510 |
 | Intimidation Tactics | 7.00% | ~510 |
 | My Final Form | 6.00% | ~437 |
 | But this one is mine | 6.00% | ~437 |
@@ -42,6 +42,7 @@ Rating: 4.63 (Ranked 359)
 | Eternal Lord | 2.00% | ~146 |
 | The Eternal Court | 2.00% | ~146 |
 | Grexolis | 2.00% | ~146 |
+| One for All, All for One | 2.00% | ~146 |
 | Blood of the Dragon | 2.00% | ~146 |
 | Sehiran Oasis | 2.00% | ~146 |
 | Chaos Surge | 2.00% | ~146 |
@@ -49,7 +50,6 @@ Rating: 4.63 (Ranked 359)
 | Dawn of the Dread | 2.00% | ~146 |
 | Manufactured War | 1.00% | ~73 |
 | Pruning for Progress | 1.00% | ~73 |
-| One for All, All for One | 1.00% | ~73 |
 | Betrayal Most Foul | 1.00% | ~73 |
 | Duality | 1.00% | ~73 |
 | Prometheus Avenged | 1.00% | ~73 |

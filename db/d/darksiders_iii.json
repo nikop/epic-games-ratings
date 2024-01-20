@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -506,7 +506,7 @@
   ],
   "EOS_Progressed": 658,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 77,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2690,9 +2690,9 @@
       "ID": "Craft_Enhancement_First",
       "SetID": "7a5k76n",
       "Name": "Enhance!",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 276
+      "UsersEstimate": 283
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -3034,8 +3034,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-19T19:59:04.9154437+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:06:38.7847639+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:06:20.7677359+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:59:46.3904482+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:06:38.7848211+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:59:25.8566524+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:06:20.7678278+00:00"
 }

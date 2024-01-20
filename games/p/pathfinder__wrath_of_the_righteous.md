@@ -44,13 +44,13 @@ Number of Ratings: 1,354  (23.09.2022)
 | Your First Big Enemy | 2.00% | ~266 |
 | Truly Important Deed | 2.00% | ~266 |
 | Stay Underground | 2.00% | ~242 |
+| This Wall Won't Fall | 2.00% | ~242 |
 | The Final Threshold | 1.00% | ~133 |
 | Path of the Dragon | 1.00% | ~133 |
 | Path of the Legend | 1.00% | ~133 |
 | Strategic Victory | 1.00% | ~133 |
 | Abyssal Conspiracy | 1.00% | ~133 |
 | Truly Profane Gift | 1.00% | ~133 |
-| This Wall Won't Fall | 1.00% | ~121 |
 | Not the Last Sarkorian | 1.00% | ~121 |
 | End of Eternal Guard | 0.90% | ~120 |
 | Playful Mood | 0.80% | ~107 |
@@ -401,13 +401,13 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-20 | 13,324 | 0 |
 ## Awards
 Max (Character Customization): 1,785  (Ranked 133)  
-Sum: 7,238 (Ranked 128)  
+Sum: 7,239 (Ranked 128)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,785 |
 | This game is Extremely Fun | 667 |
-| This game has Diverse Characters | 665 |
+| This game has Diverse Characters | 666 |
 | This game is Highly Recommended | 658 |
 | This game has Amazing Characters | 655 |
 | This game has Amazing Storytelling | 637 |
@@ -742,3 +742,4 @@ Diff (max vs sum): 5
 | 2024-01-17 | 4.76 | - | 1,785 | 7,236 |
 | 2024-01-18 | 4.76 | - | 1,785 | 7,237 |
 | 2024-01-19 | 4.76 | - | 1,785 | 7,238 |
+| 2024-01-20 | 4.76 | - | 1,785 | 7,239 |

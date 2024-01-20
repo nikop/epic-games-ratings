@@ -32,8 +32,8 @@ Rating: 4.22 (Ranked 958)
 | In Striking Distance | 5.00% | ~1,130 |
 | One Last Job | 3.00% | ~316 |
 | Mugshot | 2.00% | ~452 |
-| Big Spender | 2.00% | ~210 |
-| This Isn't About Escape | 2.00% | ~210 |
+| Big Spender | 2.00% | ~211 |
+| This Isn't About Escape | 2.00% | ~211 |
 | Armed to the Teeth | 1.00% | ~105 |
 | Grim Reaper | 1.00% | ~226 |
 | Instigator | 1.00% | ~105 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 958)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,599 (Ranked 153)  
+Progressed: 22,600 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,18 +320,18 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-17 | 22,513 | 82 |
 | 2024-01-18 | 22,544 | 82 |
 | 2024-01-19 | 22,569 | 82 |
-| 2024-01-20 | 22,599 | 82 |
+| 2024-01-20 | 22,600 | 82 |
 ## Awards
 Max (Amazing Characters): 139  (Ranked 346)  
-Sum: 674 (Ranked 318)  
-Diff (max vs sum): 28  
+Sum: 678 (Ranked 317)  
+Diff (max vs sum): 29  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 139 |
 | This game is Highly Recommended | 123 |
 | This game is Extremely Fun | 122 |
+| This game has Amazing Storytelling | 120 |
 | This game has Quickly Understood Controls | 116 |
-| This game has Amazing Storytelling | 116 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 58 |
 ## Ratings History
@@ -544,4 +544,4 @@ Diff (max vs sum): 28
 | 2024-01-17 | 4.22 | 136 | 665 |
 | 2024-01-18 | 4.22 | 136 | 666 |
 | 2024-01-19 | 4.22 | 139 | 673 |
-| 2024-01-20 | 4.22 | 139 | 674 |
+| 2024-01-20 | 4.22 | 139 | 678 |

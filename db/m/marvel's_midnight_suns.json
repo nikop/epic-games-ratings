@@ -2,13 +2,13 @@
   "ID": "ea73c08ac633414584e281f838b3a78c",
   "Name": "Marvel\u0027s Midnight Suns",
   "ProductSlug": "marvels-midnight-suns",
-  "Ranking_Rating": 530,
-  "Ranking_Popularity": 121,
+  "Ranking_Rating": 531,
+  "Ranking_Popularity": 120,
   "Ranking_PopularitySum": 158,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-12-02T05:00:00+00:00",
     "PcReleaseDate": "2022-12-02T05:00:00+00:00",
@@ -6159,18 +6159,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 4606,
       "NumberOfAwardsMax": 2030
+    },
+    {
+      "Time": "2024-01-20T22:02:54.5430431+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 4630,
+      "NumberOfAwardsMax": 2048
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4606,
-  "NumberOfAwardsMax": 2030,
+  "NumberOfAwards": 4630,
+  "NumberOfAwardsMax": 2048,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 2030
+      "Count": 2048
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6200,7 +6206,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 292
+      "Count": 298
     },
     {
       "Text": "This game has Challenging Combat",
@@ -6245,8 +6251,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-12-02T09:57:07.4463087+00:00",
   "FirstSeenRating": "2022-12-03T17:57:10.4344427+00:00",
-  "LastChanged": "2024-01-20T18:03:01.2480456+00:00",
+  "LastChanged": "2024-01-20T22:02:54.543043+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:46.2074565+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:02:54.1698198+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:08:50.5770766+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:02:54.5430435+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:08:36.9229108+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 286,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
     "PcReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -3760,9 +3760,9 @@
       "ID": "achievement_7",
       "SetID": "7ldgi7j",
       "Name": "Makin\u0027 the Cut",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 529
+      "UsersEstimate": 539
     },
     {
       "ID": "achievement_8",
@@ -3790,8 +3790,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:05:45.1593788+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:05:31.0314041+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.0492343+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:59:37.8740787+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:05:45.1593981+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:59:18.7136985+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:05:31.0314315+00:00"
 }

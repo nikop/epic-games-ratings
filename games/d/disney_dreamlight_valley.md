@@ -6,8 +6,8 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,545 |
-| Photographer | 67.00% | ~9,545 |
+| Goofy's Investor | 67.00% | ~9,546 |
+| Photographer | 67.00% | ~9,546 |
 | Valley's Helper | 59.00% | ~8,406 |
 | Constructor | 50.00% | ~7,124 |
 | Renovator | 50.00% | ~7,124 |
@@ -22,7 +22,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Thorn Cleaner | 6.00% | ~855 |
 | Chit Chatter | 3.00% | ~427 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,247 (Ranked 177)  
+Progressed: 14,248 (Ranked 177)  
 Completed: 353 (2.48%) (Ranked 126)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -248,10 +248,10 @@ Completed: 353 (2.48%) (Ranked 126)
 | 2024-01-17 | 14,198 | 352 |
 | 2024-01-18 | 14,214 | 352 |
 | 2024-01-19 | 14,231 | 352 |
-| 2024-01-20 | 14,247 | 353 |
+| 2024-01-20 | 14,248 | 353 |
 ## Awards
 Max (Great for Beginners): 1,193  (Ranked 151)  
-Sum: 8,444 (Ranked 113)  
+Sum: 8,445 (Ranked 113)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -264,7 +264,7 @@ Diff (max vs sum): 38
 | This game is Extremely Fun | 795 |
 | This game has Quickly Understood Controls | 784 |
 | This game has a Creative Community | 741 |
-| This game has Easy Combat | 560 |
+| This game has Easy Combat | 561 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -580,4 +580,4 @@ Diff (max vs sum): 38
 | 2024-01-17 | 4.76 | - | 1,187 | 8,423 |
 | 2024-01-18 | 4.76 | - | 1,190 | 8,433 |
 | 2024-01-19 | 4.76 | - | 1,193 | 8,439 |
-| 2024-01-20 | 4.76 | - | 1,193 | 8,444 |
+| 2024-01-20 | 4.76 | - | 1,193 | 8,445 |

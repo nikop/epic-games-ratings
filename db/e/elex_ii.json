@@ -5,10 +5,10 @@
   "Ranking_Rating": 903,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
-  "Ranking_EOS_Progress": 420,
+  "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 271,
+  "EOS_Progressed": 272,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1657,6 +1657,11 @@
       "Time": "2024-01-20T20:04:31.0990332+00:00",
       "NumProgressed": 271,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T22:04:39.9176133+00:00",
+      "NumProgressed": 272,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1677,7 +1682,7 @@
       "Name": "Banker",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "1000ELEXIT",
@@ -1731,9 +1736,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 71
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1755,9 +1760,9 @@
       "ID": "30FUEL",
       "SetID": "a1angca",
       "Name": "Long-Haul Flyer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "30POTIONS",
@@ -1797,15 +1802,15 @@
       "Name": "Military Leader",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "ALLCOMBAT",
       "SetID": "a1angca",
       "Name": "Hotshot",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "ALLCRAFT",
@@ -1819,17 +1824,17 @@
       "ID": "ALLJETPACK",
       "SetID": "a1angca",
       "Name": "Free as a Bird",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 27
+      "UsersEstimate": 30
     },
     {
       "ID": "ALLPERSONALITY",
       "SetID": "a1angca",
       "Name": "Idealist",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 11
     },
     {
       "ID": "ALLSURVIVAL",
@@ -1933,23 +1938,23 @@
       "Name": "Commander",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "FINDBILLY",
       "SetID": "a1angca",
       "Name": "Festival-goer",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "FINDCITY",
       "SetID": "a1angca",
       "Name": "Civilian",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "FINDCRONY",
@@ -1971,9 +1976,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 54
+      "UsersEstimate": 52
     },
     {
       "ID": "FUTUREIRISSA",
@@ -1997,7 +2002,7 @@
       "Name": "Pass A38",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "KILL200MONSTER",
@@ -2068,15 +2073,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 271,
+      "Progressed": 272,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:04:48.3832411+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:04:39.9176127+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:58:52.2825287+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:04:48.3832758+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:58:39.7681179+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:04:39.9176669+00:00"
 }

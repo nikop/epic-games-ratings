@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 921,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3487,9 +3487,9 @@
       "ID": "ACHIEVEMENT_12_TheirRock",
       "SetID": "9bke6f1",
       "Name": "Their Rock",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 258
     },
     {
       "ID": "ACHIEVEMENT_13_ExpertScavenger",
@@ -3615,9 +3615,9 @@
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
       "SetID": "9bke6f1",
       "Name": "Novice Scavenger",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 525
+      "UsersEstimate": 534
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3680,8 +3680,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-18T15:59:14.6603524+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:09:34.0545188+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:09:16.5695821+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:59:54.945785+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:09:34.0545521+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:59:33.969601+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:09:16.5696183+00:00"
 }

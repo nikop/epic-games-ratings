@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 204,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
     "PcReleaseDate": "2021-04-01T07:00:00+00:00",
@@ -37,7 +37,7 @@
   "Tags": [],
   "EOS_Progressed": 5080,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -13735,9 +13735,9 @@
       "ID": "ach_game_opened",
       "SetID": "3h4khpo",
       "Name": "Game opened",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 3810
+      "UsersEstimate": 3861
     },
     {
       "ID": "ach_magic_wand",
@@ -13776,8 +13776,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:06:39.2050402+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:06:21.0874927+00:00",
   "LastUpdate_AppInfo": "2024-01-20T01:44:02.1944043+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:57:34.3520799+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:06:39.2051287+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:57:30.8972345+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:06:21.0876141+00:00"
 }

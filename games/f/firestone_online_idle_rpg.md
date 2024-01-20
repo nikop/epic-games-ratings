@@ -5,14 +5,14 @@ Rating: 4.11 (Ranked 1,027)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,364 |
-| World Map | 78.00% | ~3,660 |
-| Temple of Eternals | 56.00% | ~2,628 |
-| Prestigious | 52.00% | ~2,440 |
-| Fellowship Power | 42.00% | ~1,971 |
+| Victor | 93.00% | ~4,366 |
+| World Map | 78.00% | ~3,662 |
+| Temple of Eternals | 56.00% | ~2,629 |
+| Prestigious | 52.00% | ~2,441 |
+| Fellowship Power | 42.00% | ~1,972 |
 | Full Party | 30.00% | ~1,408 |
-| Guild Power | 22.00% | ~1,032 |
-| Prestigious x10 | 20.00% | ~938 |
+| Guild Power | 22.00% | ~1,033 |
+| Prestigious x10 | 20.00% | ~939 |
 | The game is on | 18.00% | ~845 |
 | Exotic Merchant | 16.00% | ~751 |
 | Dragon Clicker | 15.00% | ~704 |
@@ -27,22 +27,22 @@ Rating: 4.11 (Ranked 1,027)
 | Natural Talent | 11.00% | ~516 |
 | Superior | 11.00% | ~516 |
 | The Unstoppable | 11.00% | ~516 |
-| Doing My Part | 9.00% | ~422 |
-| Scientist | 9.00% | ~422 |
-| The power of Awakening | 9.00% | ~422 |
-| Challenger | 8.00% | ~375 |
-| Daily Quest Completionist | 8.00% | ~375 |
-| Frostfire Liberator | 8.00% | ~375 |
-| Hunter | 8.00% | ~375 |
-| Mastery | 8.00% | ~375 |
-| Moving Up The Ladder | 8.00% | ~375 |
-| Relic Of The Past | 8.00% | ~375 |
-| Scroll Master | 8.00% | ~375 |
-| Four Leaf Clover | 7.00% | ~328 |
-| Here We Go Again | 7.00% | ~328 |
-| Master Enchanter | 7.00% | ~328 |
-| The father of Dragons | 7.00% | ~328 |
-| Trader | 7.00% | ~328 |
+| Doing My Part | 9.00% | ~423 |
+| Scientist | 9.00% | ~423 |
+| The power of Awakening | 9.00% | ~423 |
+| Challenger | 8.00% | ~376 |
+| Daily Quest Completionist | 8.00% | ~376 |
+| Frostfire Liberator | 8.00% | ~376 |
+| Hunter | 8.00% | ~376 |
+| Mastery | 8.00% | ~376 |
+| Moving Up The Ladder | 8.00% | ~376 |
+| Relic Of The Past | 8.00% | ~376 |
+| Scroll Master | 8.00% | ~376 |
+| Four Leaf Clover | 7.00% | ~329 |
+| Here We Go Again | 7.00% | ~329 |
+| Master Enchanter | 7.00% | ~329 |
+| The father of Dragons | 7.00% | ~329 |
+| Trader | 7.00% | ~329 |
 | Dragon Slayer | 6.00% | ~282 |
 | Enchanting skill | 6.00% | ~282 |
 | The Expeditioner | 6.00% | ~282 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,027)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,692 (Ranked 210)  
+Progressed: 4,695 (Ranked 210)  
 Completed: 2 (0.04%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 2 (0.04%) (Ranked 358)
 | 2024-01-17 | 4,598 | 2 |
 | 2024-01-18 | 4,623 | 2 |
 | 2024-01-19 | 4,665 | 2 |
-| 2024-01-20 | 4,692 | 2 |
+| 2024-01-20 | 4,695 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 162 (Ranked 444)  

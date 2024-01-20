@@ -4,8 +4,8 @@
   "ProductSlug": "war-hospital",
   "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-11T09:00:00+00:00",
     "PcReleaseDate": "2024-01-11T09:00:00+00:00",
@@ -279,8 +279,8 @@
   ],
   "FirstSeen": "2024-01-11T17:57:13.0873241+00:00",
   "FirstSeenAchievements": "2024-01-11T10:03:10.9591765+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:05:06.0160215+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:04:55.8247309+00:00",
   "LastUpdate_AppInfo": "2024-01-18T09:57:57.5540975+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:58:20.4588364+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:05:06.0160552+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:58:12.1649018+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:04:55.8247499+00:00"
 }

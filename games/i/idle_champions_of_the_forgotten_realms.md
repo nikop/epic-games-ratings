@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 2.00% | ~5,099 |
 | The Ring of Regeneration | 1.00% | ~2,549 |
 | Are Ya Chicken? | 1.00% | ~2,549 |
-| Were-verpowered | 0.90% | ~2,294 |
+| Were-verpowered | 0.90% | ~2,295 |
 | Seeking Allies | 0.80% | ~2,040 |
 | Mad Cow Disease | 0.80% | ~2,040 |
 | Friendly Imps | 0.80% | ~2,040 |
@@ -92,6 +92,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~510 |
 | Fugitives | 0.20% | ~510 |
 | Excavating History | 0.20% | ~510 |
+| Towering Expectations | 0.20% | ~510 |
 | Hopelessly Lost | 0.20% | ~510 |
 | Enter the Sargauth | 0.20% | ~510 |
 | The Dead Three | 0.20% | ~510 |
@@ -305,7 +306,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Screams of the Dead | 0.10% | ~255 |
 | Frantic Excavation | 0.10% | ~255 |
 | Birds of a Feather | 0.10% | ~221 |
-| Towering Expectations | 0.10% | ~255 |
 | Guests of the Groom | 0.10% | ~255 |
 | Careful Consideration | 0.10% | ~255 |
 | Tanking Expectations | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,941 (Ranked 71)  
+Progressed: 254,949 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,7 +828,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,941 | 2,629 |
+| 2024-01-20 | 254,949 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,584 (Ranked 41)  

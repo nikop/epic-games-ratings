@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2610,
+  "EOS_Progressed": 2611,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4856,6 +4856,11 @@
       "Time": "2024-01-20T17:06:37.3497975+00:00",
       "NumProgressed": 2610,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-20T22:06:17.4311925+00:00",
+      "NumProgressed": 2611,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4875,7 +4880,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1670
+      "UsersEstimate": 1671
     },
     {
       "ID": "ACHV_03",
@@ -4899,7 +4904,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACHV_06",
@@ -4907,7 +4912,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACHV_07",
@@ -4971,7 +4976,7 @@
       "Name": "Reborn",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHV_15",
@@ -4979,7 +4984,7 @@
       "Name": "Hello Darkness My Old Friend",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHV_16",
@@ -5067,7 +5072,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2036
+      "UsersEstimate": 2037
     },
     {
       "ID": "ACHV_27",
@@ -5139,7 +5144,7 @@
       "Name": "Sleeping With The Fishes",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 887
+      "UsersEstimate": 888
     },
     {
       "ID": "ACHV_36",
@@ -5169,9 +5174,9 @@
       "ID": "ACHV_39",
       "SetID": "8p5mlmc",
       "Name": "Don\u0027t I Know You...?",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1932
     },
     {
       "ID": "ACHV_40",
@@ -5211,7 +5216,7 @@
       "Name": "Counter-Sniper",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHV_45",
@@ -5259,7 +5264,7 @@
       "Name": "Shrimp Cocktail",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACHV_51",
@@ -5322,7 +5327,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2610,
+      "Progressed": 2611,
       "Completed": 13
     }
   ],
@@ -5330,8 +5335,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:06:35.0117328+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:06:17.431192+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:02:57.0995967+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:06:35.0118509+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:02:57.777352+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:06:17.431301+00:00"
 }

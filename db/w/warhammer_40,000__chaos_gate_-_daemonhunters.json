@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 473,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -811,10 +811,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 479,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2024-01-20T22:03:15.3366238+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 480,
+      "NumberOfAwardsMax": 236
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 479,
+  "NumberOfAwards": 480,
   "NumberOfAwardsMax": 236,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -834,7 +840,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 33
+      "Count": 34
     },
     {
       "Text": "This game has Amazing Characters",
@@ -6690,9 +6696,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2024-01-20T16:03:30.4834115+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:04:14.1410851+00:00",
+  "LastChanged": "2024-01-20T22:03:15.3366235+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:04:08.7075884+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:03:16.5511148+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:04:14.1411795+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:03:15.3366242+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:04:08.7077023+00:00"
 }

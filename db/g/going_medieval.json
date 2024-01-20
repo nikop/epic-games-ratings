@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1717,7 +1717,7 @@
   ],
   "EOS_Progressed": 8026,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17268,9 +17268,9 @@
       "ID": "STORE_NUTRITION_5000",
       "SetID": "5349c2e",
       "Name": "Putting Food on the Table",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3451
+      "UsersEstimate": 3531
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -17380,8 +17380,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-20T17:00:34.4365504+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:04:21.8706713+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:04:16.0420785+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:57:08.9831328+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:04:21.8707913+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:57:07.7699189+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:04:16.0422215+00:00"
 }

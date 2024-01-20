@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 3859,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4031,9 +4031,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20924,
+  "EOS_Progressed": 20926,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20166,6 +20166,11 @@
       "Time": "2024-01-20T21:08:44.829565+00:00",
       "NumProgressed": 20924,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-20T22:08:32.0084841+00:00",
+      "NumProgressed": 20926,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20178,7 +20183,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "AllFood",
@@ -20242,7 +20247,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "MetalChain",
@@ -20250,7 +20255,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Win5Years",
@@ -20330,7 +20335,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "WinNearFertile",
@@ -20346,7 +20351,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "WinNearForbidden",
@@ -20354,7 +20359,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "WinNearHaunted",
@@ -20418,7 +20423,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "WinNearTorrent",
@@ -20522,7 +20527,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "WinWithRuins",
@@ -20562,7 +20567,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "Year1Dangerous",
@@ -20570,7 +20575,7 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "WinNearAbandoned",
@@ -20586,7 +20591,7 @@
       "Name": "Frosts",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "WinNearGreed",
@@ -20594,7 +20599,7 @@
       "Name": "Land of Greed",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "WinNearLibrary",
@@ -20602,7 +20607,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "WinNearPetrified",
@@ -20649,15 +20654,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20924,
+      "Progressed": 20926,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-20T18:00:04.2614734+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:08:44.8295647+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:08:32.0084837+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:00:36.441006+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:08:44.8296612+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:00:13.2285798+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:08:32.0086956+00:00"
 }

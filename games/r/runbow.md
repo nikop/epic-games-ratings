@@ -5,22 +5,22 @@ Rating: 4.46 (Ranked 679)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,448 |
-| My First Runbow | 50.00% | ~126,838 |
-| It's The Fall | 26.00% | ~65,956 |
-| The Stunner | 23.00% | ~58,345 |
-| Be Aggressive | 21.00% | ~53,272 |
-| Curator | 20.00% | ~50,735 |
-| Crowning Around | 18.00% | ~45,662 |
-| Can You Dig It? | 17.00% | ~43,125 |
-| You Juan-A-Go? | 16.00% | ~40,588 |
-| Chan-tastic | 15.00% | ~38,051 |
-| Muddy Waters | 14.00% | ~35,515 |
-| Toasty! | 13.00% | ~32,978 |
-| Lazy Laser | 8.00% | ~20,294 |
-| Ready? Fight! | 8.00% | ~20,294 |
-| Just A Phaze | 7.00% | ~17,757 |
-| Into The Drift | 7.00% | ~17,757 |
+| In The Zone | 53.00% | ~134,452 |
+| My First Runbow | 50.00% | ~126,842 |
+| It's The Fall | 26.00% | ~65,958 |
+| The Stunner | 23.00% | ~58,347 |
+| Be Aggressive | 21.00% | ~53,273 |
+| Curator | 20.00% | ~50,737 |
+| Crowning Around | 18.00% | ~45,663 |
+| Can You Dig It? | 17.00% | ~43,126 |
+| You Juan-A-Go? | 16.00% | ~40,589 |
+| Chan-tastic | 15.00% | ~38,052 |
+| Muddy Waters | 14.00% | ~35,516 |
+| Toasty! | 13.00% | ~32,979 |
+| Lazy Laser | 8.00% | ~20,295 |
+| Ready? Fight! | 8.00% | ~20,295 |
+| Just A Phaze | 7.00% | ~17,758 |
+| Into The Drift | 7.00% | ~17,758 |
 | Butt Butt | 6.00% | ~15,221 |
 | He Who Laughs Last | 3.00% | ~7,610 |
 | Shoo, Cat! | 3.00% | ~7,610 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 679)
 | Talent Scout | 0.10% | ~254 |
 | True Completionist | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,676 (Ranked 72)  
+Progressed: 253,683 (Ranked 72)  
 Completed: 6 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 6 (0.00%) (Ranked 408)
 | 2024-01-17 | 253,564 | 6 |
 | 2024-01-18 | 253,593 | 6 |
 | 2024-01-19 | 253,631 | 6 |
-| 2024-01-20 | 253,676 | 6 |
+| 2024-01-20 | 253,683 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

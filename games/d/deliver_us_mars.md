@@ -5,29 +5,29 @@ Rating: 4.15 (Ranked 1,009)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 58.00% | ~1,913 |
-| The beginning of a beautiful collection | 42.00% | ~1,386 |
-| Reading is fundamental | 38.00% | ~1,254 |
-| Take a look | 38.00% | ~1,254 |
-| Home Is... | 33.00% | ~1,089 |
-| Moonbear | 21.00% | ~693 |
-| Getting the hang of it | 18.00% | ~594 |
-| Want to Go to Space? | 18.00% | ~594 |
-| On the Precipice | 14.00% | ~462 |
-| A Nice Place to Live | 12.00% | ~396 |
-| The Dream for These Folks | 10.00% | ~330 |
-| Not the Rabbits, Not the Bees | 10.00% | ~330 |
-| Piecing the story together | 9.00% | ~297 |
-| Delivered Us Mars | 9.00% | ~297 |
-| Like Animals | 9.00% | ~297 |
-| Wants and Needs | 9.00% | ~297 |
-| Desperate Times | 9.00% | ~297 |
-| Stellar extra-vehicular activities score | 7.00% | ~231 |
-| Cinephile | 6.00% | ~198 |
-| When ACE met AYLA | 3.00% | ~99 |
-| Kat-like reflexes | 3.00% | ~99 |
-| Kats always land on their feet | 1.00% | ~33 |
-| The Gang | 0.90% | ~30 |
+| Better jot that down | 58.00% | ~1,981 |
+| The beginning of a beautiful collection | 43.00% | ~1,469 |
+| Reading is fundamental | 38.00% | ~1,298 |
+| Take a look | 38.00% | ~1,298 |
+| Home Is... | 34.00% | ~1,161 |
+| Moonbear | 21.00% | ~717 |
+| Getting the hang of it | 19.00% | ~649 |
+| Want to Go to Space? | 18.00% | ~615 |
+| On the Precipice | 14.00% | ~478 |
+| A Nice Place to Live | 12.00% | ~410 |
+| The Dream for These Folks | 11.00% | ~376 |
+| Not the Rabbits, Not the Bees | 11.00% | ~376 |
+| Like Animals | 10.00% | ~342 |
+| Desperate Times | 10.00% | ~342 |
+| Piecing the story together | 9.00% | ~307 |
+| Delivered Us Mars | 9.00% | ~307 |
+| Wants and Needs | 9.00% | ~307 |
+| Stellar extra-vehicular activities score | 7.00% | ~239 |
+| Cinephile | 7.00% | ~239 |
+| When ACE met AYLA | 4.00% | ~137 |
+| Kat-like reflexes | 3.00% | ~102 |
+| Kats always land on their feet | 1.00% | ~34 |
+| The Gang | 0.90% | ~31 |
 | As the story unfolds... | 0.60% | ~20 |
 | Who waits five minutes, seriously? | 0.30% | ~10 |
 | Simulacrum | 0.10% | ~3 |
@@ -39,7 +39,7 @@ Rating: 4.15 (Ranked 1,009)
 | Their batteries were low and it got dark | 0.00% | ~0 |
 | Shai-Hulud? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,299 (Ranked 231)  
+Progressed: 3,416 (Ranked 231)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -51,7 +51,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2023-11-21 | 9 | 0 |
 | 2023-11-22 | 11 | 0 |
 | 2024-01-19 | 935 | 0 |
-| 2024-01-20 | 3,299 | 0 |
+| 2024-01-20 | 3,416 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

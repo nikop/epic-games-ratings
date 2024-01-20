@@ -8,13 +8,13 @@ Rating: 4.73 (Ranked 183)
 | New arm | 77.00% | ~709 |
 | Shelter Escape | 75.00% | ~691 |
 | The First Bond | 65.00% | ~599 |
-| Novice Scavenger | 57.00% | ~525 |
+| Novice Scavenger | 58.00% | ~534 |
 | Master Craftsman | 44.00% | ~405 |
 | First wall | 43.00% | ~396 |
 | Piggyback Expert | 42.00% | ~387 |
 | Second wall | 33.00% | ~304 |
 | Expert Scavenger | 32.00% | ~295 |
-| Their Rock | 27.00% | ~249 |
+| Their Rock | 28.00% | ~258 |
 | Yuna's Promise | 26.00% | ~239 |
 | Stone Retriever | 26.00% | ~239 |
 | Find myself | 25.00% | ~230 |

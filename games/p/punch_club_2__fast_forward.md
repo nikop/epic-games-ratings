@@ -50,9 +50,9 @@
 | The die is cast | 33.00% | ~197 |
 | Poisoned fighter | 32.00% | ~191 |
 | Get out of my apartment! | 31.00% | ~185 |
+| Undercover robot | 31.00% | ~185 |
 | Gang wrangler | 30.00% | ~179 |
 | Seashell hunter | 30.00% | ~179 |
-| Undercover robot | 30.00% | ~179 |
 | Problems of cyborgs | 29.00% | ~173 |
 | Absolute Champion! | 29.00% | ~173 |
 | Another world | 28.00% | ~167 |

@@ -4,10 +4,10 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What is this? | 72.00% | ~76 |
-| Complete Level 1-1 | 64.00% | ~67 |
+| What is this? | 73.00% | ~77 |
+| Complete Level 1-1 | 63.00% | ~67 |
 | Immortal | 55.00% | ~58 |
-| Complete Level 1-2 | 47.00% | ~49 |
+| Complete Level 1-2 | 46.00% | ~49 |
 | Scraping by | 34.00% | ~36 |
 | Engineer-mage hybrid | 33.00% | ~35 |
 | Complete Level 1-3 | 32.00% | ~34 |
@@ -27,10 +27,10 @@
 | Baby steps | 11.00% | ~12 |
 | Complete Level 3-2 | 11.00% | ~12 |
 | Party popper | 11.00% | ~12 |
-| Should have left me alone | 10.00% | ~10 |
-| Drink up | 10.00% | ~10 |
-| Mage-warrior hybrid | 10.00% | ~10 |
-| Complete Level 3-3 | 9.00% | ~9 |
+| Should have left me alone | 9.00% | ~10 |
+| Drink up | 9.00% | ~10 |
+| Mage-warrior hybrid | 9.00% | ~10 |
+| Complete Level 3-3 | 8.00% | ~8 |
 | Mage specialist | 8.00% | ~8 |
 | Defeat the mage boss | 7.00% | ~7 |
 | Remote retrieved | 6.00% | ~6 |
@@ -45,14 +45,14 @@
 | Master of destruction | 3.00% | ~3 |
 | Halfway | 3.00% | ~3 |
 | Bye bye Wilson | 2.00% | ~2 |
-| Completionist | 1.00% | ~1 |
-| Angel of death | 1.00% | ~1 |
-| Found them all! | 1.00% | ~1 |
-| Almost there | 1.00% | ~1 |
-| Go go go | 1.00% | ~1 |
+| Completionist | 0.90% | ~1 |
+| Angel of death | 0.90% | ~1 |
+| Found them all! | 0.90% | ~1 |
+| Almost there | 0.90% | ~1 |
+| Go go go | 0.90% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 105 (Ranked 497)  
-Completed: 1 (0.95%) (Ranked 187)  
+Progressed: 106 (Ranked 496)  
+Completed: 1 (0.94%) (Ranked 187)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,6 +79,7 @@ Completed: 1 (0.95%) (Ranked 187)
 | 2023-11-12 | 103 | 1 |
 | 2023-11-15 | 104 | 1 |
 | 2024-01-04 | 105 | 1 |
+| 2024-01-20 | 106 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

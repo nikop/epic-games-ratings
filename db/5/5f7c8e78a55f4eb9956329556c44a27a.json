@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -1435,17 +1435,17 @@
       "ID": "TINGWD_RAIDERS",
       "SetID": "c0imaa6",
       "Name": "Raiders of the lost game",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "TINGWD_RANDOM",
       "SetID": "c0imaa6",
       "Name": "Random luck!",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "TINGWD_SHIFUMI_LOSE",
@@ -1498,8 +1498,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:06:30.2236552+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:06:12.9567095+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:48.2261697+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:02:51.6901998+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:06:30.2236797+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:02:52.0965044+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:06:12.9567406+00:00"
 }

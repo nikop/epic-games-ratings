@@ -1,44 +1,44 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.53 (Ranked 570)  
+Rating: 4.53 (Ranked 571)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~37,981 |
-| Just The Two of Us | 32.00% | ~35,747 |
-| Up On High | 25.00% | ~27,928 |
-| Under The Hood | 25.00% | ~27,928 |
-| Got Your Nose | 24.00% | ~26,810 |
-| The Gift of Gab | 24.00% | ~26,810 |
-| Wrapping Up | 22.00% | ~24,576 |
-| More Than A Box Of Sand | 18.00% | ~20,108 |
-| The Dunboyne | 17.00% | ~18,991 |
-| Badge Hobbyist | 17.00% | ~18,991 |
-| Chum Novice | 16.00% | ~17,874 |
-| Silver-Tongued Sable | 16.00% | ~17,874 |
-| Sticky Paws | 16.00% | ~17,874 |
-| Bubble Up | 16.00% | ~17,874 |
-| Thread The Needle | 15.00% | ~16,756 |
-| Power to the People | 14.00% | ~15,639 |
-| Nesting Giant | 14.00% | ~15,639 |
-| Take That! | 13.00% | ~14,522 |
-| Treasure Tracker | 13.00% | ~14,522 |
-| Big Spender | 13.00% | ~14,522 |
-| Badge Collector | 12.00% | ~13,405 |
-| Quite The Catch | 12.00% | ~13,405 |
-| Rowleys Way | 11.00% | ~12,288 |
-| The Machinist Mask | 10.00% | ~11,171 |
-| The Cartographer Mask | 10.00% | ~11,171 |
-| Balfron Connection | 10.00% | ~11,171 |
-| Ceiling Of Stars | 10.00% | ~11,171 |
-| Playing Dress Up | 10.00% | ~11,171 |
-| Many Different Faces | 9.00% | ~10,054 |
-| Trellick's Pillar | 9.00% | ~10,054 |
-| Centre Of Brunswick | 9.00% | ~10,054 |
-| Bike Collector | 9.00% | ~10,054 |
-| Not That Kind Of Gliding | 9.00% | ~10,054 |
+| Simoon | 34.00% | ~37,984 |
+| Just The Two of Us | 32.00% | ~35,750 |
+| Up On High | 25.00% | ~27,930 |
+| Under The Hood | 25.00% | ~27,930 |
+| Got Your Nose | 24.00% | ~26,812 |
+| The Gift of Gab | 24.00% | ~26,812 |
+| Wrapping Up | 22.00% | ~24,578 |
+| More Than A Box Of Sand | 18.00% | ~20,109 |
+| The Dunboyne | 17.00% | ~18,992 |
+| Badge Hobbyist | 17.00% | ~18,992 |
+| Chum Novice | 16.00% | ~17,875 |
+| Silver-Tongued Sable | 16.00% | ~17,875 |
+| Sticky Paws | 16.00% | ~17,875 |
+| Bubble Up | 16.00% | ~17,875 |
+| Thread The Needle | 15.00% | ~16,758 |
+| Power to the People | 14.00% | ~15,641 |
+| Nesting Giant | 14.00% | ~15,641 |
+| Take That! | 13.00% | ~14,523 |
+| Treasure Tracker | 13.00% | ~14,523 |
+| Big Spender | 13.00% | ~14,523 |
+| Badge Collector | 12.00% | ~13,406 |
+| Quite The Catch | 12.00% | ~13,406 |
+| Rowleys Way | 11.00% | ~12,289 |
+| The Machinist Mask | 10.00% | ~11,172 |
+| The Cartographer Mask | 10.00% | ~11,172 |
+| Balfron Connection | 10.00% | ~11,172 |
+| Ceiling Of Stars | 10.00% | ~11,172 |
+| Playing Dress Up | 10.00% | ~11,172 |
+| Many Different Faces | 9.00% | ~10,055 |
+| Trellick's Pillar | 9.00% | ~10,055 |
+| Centre Of Brunswick | 9.00% | ~10,055 |
+| Bike Collector | 9.00% | ~10,055 |
+| Not That Kind Of Gliding | 9.00% | ~10,055 |
 | The Scrapper Mask | 8.00% | ~8,937 |
 | Shadow Of Neave | 8.00% | ~8,937 |
 | Fragile Goods | 8.00% | ~8,937 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~6,703 |
 | The Gliding | 5.00% | ~5,586 |
 | The Entertainer Mask | 5.00% | ~5,586 |
-| The Quick and the Curious | 4.00% | ~4,468 |
-| Bike Aficionado | 4.00% | ~4,468 |
-| Chum Expert | 3.00% | ~3,351 |
-| Gastric Bypass | 3.00% | ~3,351 |
-| The Angler Mask | 3.00% | ~3,351 |
+| The Quick and the Curious | 4.00% | ~4,469 |
+| Bike Aficionado | 4.00% | ~4,469 |
+| Chum Expert | 3.00% | ~3,352 |
+| Gastric Bypass | 3.00% | ~3,352 |
+| The Angler Mask | 3.00% | ~3,352 |
 | Vivacious Vivarium | 2.00% | ~2,234 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,710 (Ranked 98)  
+Progressed: 111,718 (Ranked 98)  
 Completed: 1,142 (1.02%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 1,142 (1.02%) (Ranked 182)
 | 2024-01-17 | 111,277 | 1,138 |
 | 2024-01-18 | 111,418 | 1,141 |
 | 2024-01-19 | 111,563 | 1,141 |
-| 2024-01-20 | 111,710 | 1,142 |
+| 2024-01-20 | 111,718 | 1,142 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 528)  
 Sum: 155 (Ranked 447)  

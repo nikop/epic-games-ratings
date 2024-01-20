@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1623,9 +1623,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7215,
+  "EOS_Progressed": 7216,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17083,6 +17083,11 @@
       "Time": "2024-01-20T20:04:13.6773492+00:00",
       "NumProgressed": 7215,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T22:04:22.2501929+00:00",
+      "NumProgressed": 7216,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17190,7 +17195,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3102
+      "UsersEstimate": 3103
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17198,7 +17203,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -17214,7 +17219,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1659
+      "UsersEstimate": 1660
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -17246,7 +17251,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1154
+      "UsersEstimate": 1155
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -17254,7 +17259,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5267
+      "UsersEstimate": 5268
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17284,9 +17289,9 @@
       "ID": "ACH_MISSION_SWISSBANK",
       "SetID": "1p8ab95",
       "Name": "I Owe You Nothing",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 505
+      "UsersEstimate": 433
     },
     {
       "ID": "ACH_MYWAYS",
@@ -17366,7 +17371,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17413,15 +17418,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7215,
+      "Progressed": 7216,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-20T17:57:28.6485145+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:04:28.9888043+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:04:22.2501925+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:57:46.1045862+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:04:28.9889033+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:57:41.1852037+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:04:22.2502941+00:00"
 }

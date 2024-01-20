@@ -5983,10 +5983,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8444,
       "NumberOfAwardsMax": 1193
+    },
+    {
+      "Time": "2024-01-20T21:58:03.9536955+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8445,
+      "NumberOfAwardsMax": 1193
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8444,
+  "NumberOfAwards": 8445,
   "NumberOfAwardsMax": 1193,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6054,10 +6060,10 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 560
+      "Count": 561
     }
   ],
-  "EOS_Progressed": 14247,
+  "EOS_Progressed": 14248,
   "EOS_Completed": 353,
   "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 2,
@@ -25797,6 +25803,11 @@
       "Time": "2024-01-20T20:09:18.4056563+00:00",
       "NumProgressed": 14247,
       "NumCompleted": 353
+    },
+    {
+      "Time": "2024-01-20T22:09:12.711006+00:00",
+      "NumProgressed": 14248,
+      "NumCompleted": 353
     }
   ],
   "TotalAchievements": 15,
@@ -25880,7 +25891,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 67,
       "XP": 75,
-      "UsersEstimate": 9545
+      "UsersEstimate": 9546
     },
     {
       "ID": "Miner",
@@ -25896,7 +25907,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9545
+      "UsersEstimate": 9546
     },
     {
       "ID": "Renovator",
@@ -25927,16 +25938,16 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14247,
+      "Progressed": 14248,
       "Completed": 353
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-20T20:58:11.4022138+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:09:29.9304085+00:00",
+  "LastChanged": "2024-01-20T21:58:03.9536953+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:09:12.7110056+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:35.1172032+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:58:11.4022142+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:09:29.9305165+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:58:03.9536959+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:09:12.7111446+00:00"
 }

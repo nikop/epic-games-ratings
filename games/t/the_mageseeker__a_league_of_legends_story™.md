@@ -5,19 +5,19 @@ Rating: 4.78 (Ranked 111)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,318 |
-| No more cages! | 90.00% | ~3,144 |
+| For Demacia | 95.00% | ~3,319 |
+| No more cages! | 90.00% | ~3,145 |
 | Everfrost | 76.00% | ~2,655 |
 | Dark Forest | 76.00% | ~2,655 |
 | Pentakill | 75.00% | ~2,620 |
-| The use of petricite | 73.00% | ~2,550 |
+| The use of petricite | 73.00% | ~2,551 |
 | You can pet the dog | 60.00% | ~2,096 |
 | Thornbarrow | 44.00% | ~1,537 |
 | Big Helmet Bro | 42.00% | ~1,467 |
-| Clarion Cove | 41.00% | ~1,432 |
-| Ternmoat Headquarters | 40.00% | ~1,397 |
-| Elemental master | 38.00% | ~1,327 |
-| Past trauma | 38.00% | ~1,327 |
+| Clarion Cove | 41.00% | ~1,433 |
+| Ternmoat Headquarters | 40.00% | ~1,398 |
+| Elemental master | 38.00% | ~1,328 |
+| Past trauma | 38.00% | ~1,328 |
 | Cypress Glen Headquarters | 35.00% | ~1,223 |
 | Petricite Burst | 34.00% | ~1,188 |
 | Old friend | 33.00% | ~1,153 |
@@ -27,11 +27,11 @@ Rating: 4.78 (Ranked 111)
 | Ancient power | 29.00% | ~1,013 |
 | Whispers in the Woods I | 28.00% | ~978 |
 | Sacred Woods | 27.00% | ~943 |
-| Little light | 25.00% | ~873 |
-| Capelworth | 25.00% | ~873 |
-| Glyndemere | 24.00% | ~838 |
-| Full equipped | 24.00% | ~838 |
-| Iffighain Headquarters | 23.00% | ~803 |
+| Little light | 25.00% | ~874 |
+| Capelworth | 25.00% | ~874 |
+| Glyndemere | 24.00% | ~839 |
+| Full equipped | 24.00% | ~839 |
+| Iffighain Headquarters | 23.00% | ~804 |
 | No more holding back | 20.00% | ~699 |
 | Terbisia | 20.00% | ~699 |
 | Quickmoore Headquarters | 20.00% | ~699 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 111)
 | Silverwing nest | 3.00% | ~105 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,493 (Ranked 230)  
+Progressed: 3,494 (Ranked 230)  
 Completed: 35 (1.00%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,7 +281,7 @@ Completed: 35 (1.00%) (Ranked 184)
 | 2024-01-17 | 3,474 | 30 |
 | 2024-01-18 | 3,480 | 33 |
 | 2024-01-19 | 3,489 | 33 |
-| 2024-01-20 | 3,493 | 35 |
+| 2024-01-20 | 3,494 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

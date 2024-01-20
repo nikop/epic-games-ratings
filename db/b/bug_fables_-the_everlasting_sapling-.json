@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 489,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-08T00:00:00+00:00",
     "PcReleaseDate": "2022-04-08T00:00:00+00:00",
@@ -387,9 +387,9 @@
       "ID": "BFT_CH4",
       "SetID": "7o7kd30",
       "Name": "Chapter 4 Complete",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "BFT_CH4HB",
@@ -572,8 +572,8 @@
   "FirstSeenRating": "2023-03-31T05:58:05.5070215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:45.7911439+00:00",
   "LastChanged": "2023-03-31T05:58:05.5070216+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:10:18.1837347+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:09:56.7461385+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:17.1798878+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:57:18.6362404+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:10:18.1837487+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:57:16.5136034+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:09:56.7461637+00:00"
 }

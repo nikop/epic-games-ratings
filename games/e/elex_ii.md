@@ -8,37 +8,37 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 45.00% | ~122 |
 | Best Buddy | 39.00% | ~106 |
-| Civilian | 37.00% | ~100 |
+| Civilian | 36.00% | ~98 |
 | Role Model | 35.00% | ~95 |
 | Creator | 32.00% | ~87 |
-| Military Leader | 30.00% | ~81 |
-| Festival-goer | 30.00% | ~81 |
-| Peddler | 27.00% | ~73 |
-| Commander | 26.00% | ~70 |
+| Military Leader | 30.00% | ~82 |
+| Festival-goer | 29.00% | ~79 |
+| Peddler | 26.00% | ~71 |
+| Commander | 26.00% | ~71 |
 | Irissa's Fate | 22.00% | ~60 |
-| Long-Haul Flyer | 20.00% | ~54 |
-| Family Reunion | 20.00% | ~54 |
-| Pass A38 | 19.00% | ~51 |
+| Long-Haul Flyer | 19.00% | ~52 |
+| Family Reunion | 19.00% | ~52 |
+| Pass A38 | 19.00% | ~52 |
 | Eternal Oblivion | 18.00% | ~49 |
-| Banker | 16.00% | ~43 |
+| Banker | 16.00% | ~44 |
 | Storyteller | 15.00% | ~41 |
 | Globetrotter | 15.00% | ~41 |
 | Berserker | 15.00% | ~41 |
 | Alb | 12.00% | ~33 |
 | Hunter | 12.00% | ~33 |
 | Beam Me Up | 11.00% | ~30 |
+| Free as a Bird | 11.00% | ~30 |
 | Perfectionist | 11.00% | ~30 |
 | Lover | 11.00% | ~30 |
-| Free as a Bird | 10.00% | ~27 |
 | Treasure Hunter | 8.00% | ~22 |
+| Hotshot | 8.00% | ~22 |
 | Detective | 8.00% | ~22 |
 | Weaponsmith | 7.00% | ~19 |
-| Hotshot | 7.00% | ~19 |
 | Cleric | 7.00% | ~19 |
 | Alchemist | 5.00% | ~14 |
 | Self-Sufficient | 4.00% | ~11 |
+| Idealist | 4.00% | ~11 |
 | Unbreakable | 4.00% | ~11 |
-| Idealist | 3.00% | ~8 |
 | Morkon | 3.00% | ~8 |
 | Legendary | 3.00% | ~8 |
 | Toy Time | 2.00% | ~5 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 271 (Ranked 420)  
+Progressed: 272 (Ranked 418)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,7 +95,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-17 | 261 | 0 |
 | 2024-01-18 | 263 | 0 |
 | 2024-01-19 | 266 | 0 |
-| 2024-01-20 | 271 | 0 |
+| 2024-01-20 | 272 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

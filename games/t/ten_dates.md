@@ -8,8 +8,8 @@
 | Let it begin | 45.00% | ~239 |
 | The athlete | 28.00% | ~149 |
 | The intellectual | 25.00% | ~133 |
+| The boss | 22.00% | ~117 |
 | The activist | 21.00% | ~112 |
-| The boss | 21.00% | ~112 |
 | The individualist | 17.00% | ~90 |
 | Picky, Picky! | 11.00% | ~59 |
 | The nice guy | 11.00% | ~59 |
@@ -25,7 +25,7 @@
 | Muggy Misha | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 532 (Ranked 356)  
-Completed: 7 (1.32%) (Ranked 161)  
+Completed: 7 (1.32%) (Ranked 160)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

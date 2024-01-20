@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 904,
+  "EOS_Progressed": 905,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2864,6 +2864,11 @@
       "Time": "2024-01-20T21:05:49.0423661+00:00",
       "NumProgressed": 904,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T22:05:34.6390358+00:00",
+      "NumProgressed": 905,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2940,7 +2945,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "REMAKE_004",
@@ -2948,7 +2953,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 58,
       "XP": 25,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "Remake_005",
@@ -3004,7 +3009,7 @@
       "Name": "Imma Powder Out",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Remake_12",
@@ -3099,14 +3104,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 904,
+      "Progressed": 905,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:05:49.0423656+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:05:34.6390354+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:57:09.8940437+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:05:49.0424055+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:57:08.5237445+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:05:34.6390709+00:00"
 }

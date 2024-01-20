@@ -6,30 +6,30 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,586 |
-| Battering Crew | 19.00% | ~6,453 |
-| The Kingsroad | 17.00% | ~5,774 |
-| Well Stocked | 13.00% | ~4,415 |
-| Royal Fleet | 12.00% | ~4,076 |
+| Conqueror | 40.00% | ~13,588 |
+| Battering Crew | 19.00% | ~6,454 |
+| The Kingsroad | 17.00% | ~5,775 |
+| Well Stocked | 13.00% | ~4,416 |
+| Royal Fleet | 12.00% | ~4,077 |
 | The Kraken’s Grasp | 9.00% | ~3,057 |
-| Alliance | 8.00% | ~2,717 |
-| Daggers in the Dark | 7.00% | ~2,377 |
-| Oathkeeper | 7.00% | ~2,377 |
-| Influential | 7.00% | ~2,377 |
-| A Long Journey | 7.00% | ~2,377 |
+| Alliance | 8.00% | ~2,718 |
+| Daggers in the Dark | 7.00% | ~2,378 |
+| Oathkeeper | 7.00% | ~2,378 |
+| Influential | 7.00% | ~2,378 |
+| A Long Journey | 7.00% | ~2,378 |
 | Ours is the Fury | 6.00% | ~2,038 |
 | We Do Not Sow | 6.00% | ~2,038 |
 | Winter is Coming | 6.00% | ~2,038 |
 | Defender of the Wall | 6.00% | ~2,038 |
-| Unbowed, Unbent, Unbroken | 5.00% | ~1,698 |
-| Growing Strong | 5.00% | ~1,698 |
-| Hear me Roar! | 5.00% | ~1,698 |
+| Unbowed, Unbent, Unbroken | 5.00% | ~1,699 |
+| Growing Strong | 5.00% | ~1,699 |
+| Hear me Roar! | 5.00% | ~1,699 |
 | What is Dead may Never Die | 3.00% | ~1,019 |
 | King in the North | 2.00% | ~679 |
 | The Swift | 2.00% | ~679 |
 | War of the Five Kings | 1.00% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,964 (Ranked 141)  
+Progressed: 33,971 (Ranked 141)  
 Completed: 88 (0.26%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,10 +304,10 @@ Completed: 88 (0.26%) (Ranked 274)
 | 2024-01-17 | 33,694 | 88 |
 | 2024-01-18 | 33,780 | 88 |
 | 2024-01-19 | 33,866 | 88 |
-| 2024-01-20 | 33,964 | 88 |
+| 2024-01-20 | 33,971 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 354)  
-Sum: 816 (Ranked 294)  
+Sum: 817 (Ranked 294)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 60
 | This game is Relaxing | 99 |
 | This game has Amazing Storytelling | 95 |
 | This game has Amazing Characters | 88 |
-| This game has a Competitive Community | 76 |
+| This game has a Competitive Community | 77 |
 | This game has Playful Visuals | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -432,3 +432,4 @@ Diff (max vs sum): 60
 | 2024-01-16 | 4.21 | - | 129 | 814 |
 | 2024-01-17 | 4.21 | - | 129 | 815 |
 | 2024-01-19 | 4.21 | - | 129 | 816 |
+| 2024-01-20 | 4.21 | - | 129 | 817 |

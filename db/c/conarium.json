@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2017-06-06T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "{}"
     }
   },
-  "Rating": 3.94,
+  "Rating": 3.93,
   "NumberOfRatings": 53,
   "RatingHistory": [
     {
@@ -233,6 +233,12 @@
       "Rating": 3.94,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-20T21:57:05.2548663+00:00",
+      "Rating": 3.93,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -250,8 +256,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:30.4733415+00:00",
-  "LastChanged": "2023-12-17T19:59:13.0553621+00:00",
+  "LastChanged": "2024-01-20T21:57:05.2548661+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:38.6346189+00:00",
-  "LastUpdate_Ratings": "2024-01-20T20:00:31.7636531+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:04:07.6675714+00:00"
+  "LastUpdate_Ratings": "2024-01-20T21:57:05.2548672+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:04:02.507129+00:00"
 }

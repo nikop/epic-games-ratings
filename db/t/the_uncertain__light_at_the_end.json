@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T15:22:24+00:00",
@@ -1492,9 +1492,9 @@
       "ID": "Caring_Soul",
       "SetID": "ek310c",
       "Name": "Bosom Buddies",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 205
     },
     {
       "ID": "Doors_Closing",
@@ -1684,9 +1684,9 @@
       "ID": "Strike",
       "SetID": "ek310c",
       "Name": "Beat the Heat",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 157
     },
     {
       "ID": "Unforeseen_Consequences",
@@ -1709,8 +1709,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:05:05.0400628+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:04:55.0205388+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:07.0579048+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:03:24.651777+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:05:05.0401068+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:03:22.6783515+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:04:55.0205715+00:00"
 }

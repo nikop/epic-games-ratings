@@ -4,8 +4,8 @@
   "ProductSlug": "steamworld-build-71ee6c",
   "Ranking_EOS_Progress": 418,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 380,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1195,9 +1195,9 @@
       "ID": "GoingPlaces",
       "SetID": "4bd750m",
       "Name": "Going Places",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 182
     },
     {
       "ID": "GottaGoFast",
@@ -1331,9 +1331,9 @@
       "ID": "TuttiFrutti",
       "SetID": "4bd750m",
       "Name": "Tutti Frutti",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 160
+      "UsersEstimate": 163
     },
     {
       "ID": "UpUpAndAway",
@@ -1370,8 +1370,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:05:35.3710195+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:05:22.4662287+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.8775637+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:03:17.7687688+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:05:35.3710395+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:03:16.3500212+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:05:22.4662576+00:00"
 }

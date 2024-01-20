@@ -9147,9 +9147,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762058,
+  "EOS_Progressed": 762067,
   "EOS_Completed": 13000,
-  "EOS_NewPlayers": 1659,
+  "EOS_NewPlayers": 1653,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34652,6 +34652,11 @@
       "Time": "2024-01-20T21:09:55.3042552+00:00",
       "NumProgressed": 762058,
       "NumCompleted": 13000
+    },
+    {
+      "Time": "2024-01-20T22:09:36.2781482+00:00",
+      "NumProgressed": 762067,
+      "NumCompleted": 13000
     }
   ],
   "TotalAchievements": 60,
@@ -34663,7 +34668,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45723
+      "UsersEstimate": 45724
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34711,7 +34716,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 6096
+      "UsersEstimate": 6097
     },
     {
       "ID": "08_Wude_H2",
@@ -35142,21 +35147,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71359,
+      "Progressed": 71368,
       "Completed": 10815
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762058,
+      "Progressed": 762067,
       "Completed": 13000
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-20T19:03:42.6437291+00:00",
-  "LastChanged_Achievements": "2024-01-20T21:09:55.304255+00:00",
+  "LastChanged_Achievements": "2024-01-20T22:09:36.2781479+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.7119069+00:00",
-  "LastUpdate_Ratings": "2024-01-20T21:03:09.9023107+00:00",
-  "LastUpdate_Achievements": "2024-01-20T21:09:55.3044017+00:00"
+  "LastUpdate_Ratings": "2024-01-20T22:03:09.0806688+00:00",
+  "LastUpdate_Achievements": "2024-01-20T22:09:36.2783343+00:00"
 }
