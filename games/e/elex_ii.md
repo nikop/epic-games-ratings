@@ -14,12 +14,12 @@ Number of Ratings: 124  (23.09.2022)
 | Military Leader | 30.00% | ~80 |
 | Festival-goer | 30.00% | ~80 |
 | Peddler | 26.00% | ~69 |
-| Commander | 25.00% | ~67 |
+| Commander | 26.00% | ~69 |
 | Irissa's Fate | 22.00% | ~59 |
 | Long-Haul Flyer | 20.00% | ~53 |
 | Family Reunion | 19.00% | ~51 |
 | Pass A38 | 18.00% | ~48 |
-| Eternal Oblivion | 17.00% | ~45 |
+| Eternal Oblivion | 18.00% | ~48 |
 | Banker | 16.00% | ~43 |
 | Storyteller | 15.00% | ~40 |
 | Globetrotter | 15.00% | ~40 |
@@ -30,8 +30,8 @@ Number of Ratings: 124  (23.09.2022)
 | Lover | 12.00% | ~32 |
 | Perfectionist | 11.00% | ~29 |
 | Free as a Bird | 10.00% | ~27 |
+| Detective | 9.00% | ~24 |
 | Treasure Hunter | 8.00% | ~21 |
-| Detective | 8.00% | ~21 |
 | Weaponsmith | 7.00% | ~19 |
 | Hotshot | 7.00% | ~19 |
 | Cleric | 7.00% | ~19 |

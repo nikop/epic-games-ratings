@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1481,10 +1481,16 @@
       "Rating": 4.39,
       "NumberOfAwards": 387,
       "NumberOfAwardsMax": 55
+    },
+    {
+      "Time": "2024-01-20T17:00:16.7484115+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 388,
+      "NumberOfAwardsMax": 55
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 387,
+  "NumberOfAwards": 388,
   "NumberOfAwardsMax": 55,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1540,7 +1546,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 26
+      "Count": 27
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1549,9 +1555,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 260890,
+  "EOS_Progressed": 260893,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 281,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27819,6 +27825,11 @@
       "Time": "2024-01-20T16:05:03.4883987+00:00",
       "NumProgressed": 260890,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T17:04:46.3327727+00:00",
+      "NumProgressed": 260893,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27830,7 +27841,7 @@
       "Name": "The Wait",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 18262
+      "UsersEstimate": 18263
     },
     {
       "ID": "Act2",
@@ -27878,7 +27889,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80876
+      "UsersEstimate": 80877
     },
     {
       "ID": "BackHomeNTimes",
@@ -27886,7 +27897,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13044
+      "UsersEstimate": 13045
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -27958,7 +27969,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13044
+      "UsersEstimate": 13045
     },
     {
       "ID": "CreedsInBank2",
@@ -28030,7 +28041,7 @@
       "Name": "Green thumb I",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15653
+      "UsersEstimate": 15654
     },
     {
       "ID": "GrowPlants2",
@@ -28086,7 +28097,7 @@
       "Name": "Cleaning Company",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 15653
+      "UsersEstimate": 15654
     },
     {
       "ID": "KillOtherWithKatana",
@@ -28277,16 +28288,16 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260890,
+      "Progressed": 260893,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-01-26T21:58:12.7547207+00:00",
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
-  "LastChanged": "2024-01-19T18:59:33.0505202+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:05:03.4883984+00:00",
+  "LastChanged": "2024-01-20T17:00:16.7484113+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:04:46.3327725+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:01:27.4622203+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:05:03.4885226+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:00:16.7484119+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:04:46.3329096+00:00"
 }

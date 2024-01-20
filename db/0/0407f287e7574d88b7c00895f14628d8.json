@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 229,
+  "EOS_Progressed": 230,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -964,6 +964,11 @@
       "Time": "2024-01-20T07:07:20.0453315+00:00",
       "NumProgressed": 229,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T17:06:29.3493642+00:00",
+      "NumProgressed": 230,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -1006,9 +1011,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 135
+      "UsersEstimate": 138
     },
     {
       "ID": "dl2",
@@ -1054,9 +1059,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 112
+      "UsersEstimate": 115
     },
     {
       "ID": "fw2",
@@ -1080,7 +1085,7 @@
       "Name": "Skilled Workers",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "g2",
@@ -1120,7 +1125,7 @@
       "Name": "Knowledge is Infinite",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "jg1",
@@ -1128,7 +1133,7 @@
       "Name": "Infrastructure",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "jg2",
@@ -1150,9 +1155,9 @@
       "ID": "jk1",
       "SetID": "b1ggf28",
       "Name": "Treatment of plague",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 78
+      "UsersEstimate": 76
     },
     {
       "ID": "jk2",
@@ -1182,9 +1187,9 @@
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "jz3",
@@ -1256,7 +1261,7 @@
       "Name": "A Welcoming Settlement",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "r3",
@@ -1374,23 +1379,23 @@
       "ID": "zn3",
       "SetID": "b1ggf28",
       "Name": "Weather-Beaten",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 229,
+      "Progressed": 230,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:07:34.7394139+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:06:29.3493638+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:03:14.2761959+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:07:34.7394494+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:03:33.1527272+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:06:29.349413+00:00"
 }

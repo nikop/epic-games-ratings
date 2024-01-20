@@ -4,7 +4,7 @@
   "ProductSlug": "buddy-and-friends-in-halloween-192190",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 492,
+  "Ranking_EOS_NewPlayers": 490,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-10-24T15:00:00+00:00",
@@ -501,33 +501,33 @@
       "ID": "LEVEL_060_004",
       "SetID": "5g7b0mb",
       "Name": "Alley - 60 pieces",
-      "Percentage": 49,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "LEVEL_060_005",
       "SetID": "5g7b0mb",
       "Name": "Grass - 60 pieces",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_060_006",
       "SetID": "5g7b0mb",
       "Name": "Warmth - 60 pieces",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "LEVEL_135_001",
       "SetID": "5g7b0mb",
       "Name": "Mirror - 135 pieces",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "LEVEL_135_002",
@@ -724,8 +724,8 @@
   ],
   "FirstSeen": "2023-10-25T11:59:09.0555301+00:00",
   "FirstSeenAchievements": "2023-09-22T13:08:37.9195504+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:06:54.8500168+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:06:02.3469374+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:15.5062558+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:02:44.839785+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:06:54.8500375+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:03:15.0862718+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:06:02.3469609+00:00"
 }

@@ -6,27 +6,27 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,721 |
-| The Assault | 5.00% | ~38,101 |
-| Life is your teacher | 5.00% | ~38,101 |
-| Lightning Hands | 5.00% | ~38,101 |
+| The Old Grandmaster | 6.00% | ~45,722 |
+| The Assault | 5.00% | ~38,102 |
+| Life is your teacher | 5.00% | ~38,102 |
+| Lightning Hands | 5.00% | ~38,102 |
 | The Hateful Pole Fighter | 3.00% | ~22,861 |
 | Stuntmaster | 3.00% | ~22,861 |
 | Street Fighting | 3.00% | ~22,861 |
 | State of constant learning | 3.00% | ~22,861 |
 | Qi Gong: Essence | 3.00% | ~22,861 |
 | Old Child | 3.00% | ~22,861 |
-| A Lady's Blood in the Snow | 2.00% | ~15,240 |
-| Lady Wing Chun | 2.00% | ~15,240 |
-| Furious Fists | 2.00% | ~15,240 |
-| Kill Nil | 2.00% | ~15,240 |
-| Qi Gong: Mind | 2.00% | ~15,240 |
-| Qi Gong: Breath | 2.00% | ~15,240 |
-| I know Kung-Fu | 2.00% | ~15,240 |
-| Path of the Prospect | 2.00% | ~15,240 |
-| Rumble in the Hangar | 2.00% | ~15,240 |
-| Take damage to save time | 2.00% | ~15,240 |
-| Diligence as a goal | 2.00% | ~1,426 |
+| A Lady's Blood in the Snow | 2.00% | ~15,241 |
+| Lady Wing Chun | 2.00% | ~15,241 |
+| Furious Fists | 2.00% | ~15,241 |
+| Kill Nil | 2.00% | ~15,241 |
+| Qi Gong: Mind | 2.00% | ~15,241 |
+| Qi Gong: Breath | 2.00% | ~15,241 |
+| I know Kung-Fu | 2.00% | ~15,241 |
+| Path of the Prospect | 2.00% | ~15,241 |
+| Rumble in the Hangar | 2.00% | ~15,241 |
+| Take damage to save time | 2.00% | ~15,241 |
+| Diligence as a goal | 2.00% | ~1,427 |
 | Scareless | 1.00% | ~7,620 |
 | Dance of the Praying Mantis | 1.00% | ~7,620 |
 | Kung-Fu Tussle | 1.00% | ~7,620 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,022 (Ranked 26)  
+Progressed: 762,030 (Ranked 26)  
 Completed: 12,998 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 12,998 (1.71%) (Ranked 149)
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
-| 2024-01-20 | 762,022 | 12,998 |
+| 2024-01-20 | 762,030 | 12,998 |
 ## Awards
 Max (Great Boss Battles): 7,245  (Ranked 58)  
 Sum: 12,824 (Ranked 87)  

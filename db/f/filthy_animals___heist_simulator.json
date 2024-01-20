@@ -4,8 +4,8 @@
   "ProductSlug": "filthy-animals-f6c65c",
   "Ranking_EOS_Progress": 192,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-04T17:30:00+00:00",
     "PcReleaseDate": "2023-04-04T17:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 8876,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -7867,9 +7867,9 @@
       "ID": "monkeyMax",
       "SetID": "10d14j0",
       "Name": "Monkey Maxed Out",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 18
     },
     {
       "ID": "mooseMax",
@@ -7988,8 +7988,8 @@
   "FirstSeenRating": "2023-04-05T14:58:37.7953176+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.1467348+00:00",
   "LastChanged": "2023-04-05T14:58:37.7953178+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:04:36.3010951+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:04:27.3992542+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:24.8129283+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:00:04.8445668+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:04:36.3011438+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:59:22.9532897+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:04:27.3993076+00:00"
 }

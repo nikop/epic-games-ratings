@@ -1,11 +1,11 @@
 # Them's Fightin' Herds
 [Store](https://store.epicgames.com/en-US/p/thems-fightin-herds)  
 [View Rawdata](../../db/t/them's_fightin'_herds.json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.59 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Once upon a time... | 36.00% | ~84,822 |
+| Once upon a time... | 36.00% | ~84,823 |
 | ... in the magical land of Foenum... | 34.00% | ~80,110 |
 | Be Gentle... | 21.00% | ~49,480 |
 | A Worthy Opponent | 17.00% | ~40,055 |
@@ -34,7 +34,7 @@ Rating: 4.59 (Ranked 452)
 | Alpaca Space Program | 0.10% | ~236 |
 | High Priestess | 0.10% | ~236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 235,618 (Ranked 77)  
+Progressed: 235,619 (Ranked 77)  
 Completed: 6 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,14 +309,14 @@ Completed: 6 (0.00%) (Ranked 406)
 | 2024-01-17 | 235,513 | 6 |
 | 2024-01-18 | 235,553 | 6 |
 | 2024-01-19 | 235,590 | 6 |
-| 2024-01-20 | 235,618 | 6 |
+| 2024-01-20 | 235,619 | 6 |
 ## Awards
-Max (Great for Beginners): 28  (Ranked 540)  
-Sum: 51 (Ranked 516)  
-Diff (max vs sum): 24  
+Max (Great for Beginners): 29  (Ranked 535)  
+Sum: 52 (Ranked 512)  
+Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 28 |
+| This game is Great for Beginners | 29 |
 | This game has Diverse Characters | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -382,3 +382,4 @@ Diff (max vs sum): 24
 | 2024-01-02 | 4.59 | 28 | 49 |
 | 2024-01-05 | 4.59 | 28 | 50 |
 | 2024-01-07 | 4.59 | 28 | 51 |
+| 2024-01-20 | 4.59 | 29 | 52 |

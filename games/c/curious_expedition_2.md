@@ -8,7 +8,7 @@ Number of Ratings: 20  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Adventure Begins | 65.00% | ~281 |
 | Cartographer | 58.00% | ~251 |
-| A Strange Artefact | 53.00% | ~229 |
+| A Strange Artefact | 54.00% | ~233 |
 | Insomnia | 49.00% | ~212 |
 | Lost & Found & Lost Again | 43.00% | ~186 |
 | From Whence we Came | 43.00% | ~186 |
@@ -67,7 +67,7 @@ Number of Ratings: 20  (23.09.2022)
 | Pacifism Ain't Easy | 0.70% | ~3 |
 | Now I've Seen It All | 0.50% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432 (Ranked 370)  
+Progressed: 432 (Ranked 371)  
 Completed: 1 (0.23%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |

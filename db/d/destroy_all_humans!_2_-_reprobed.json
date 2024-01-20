@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -2061,6 +2061,11 @@
       "Time": "2024-01-20T13:13:38.3686254+00:00",
       "NumProgressed": 452,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T17:09:42.105696+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2071,9 +2076,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2087,9 +2092,9 @@
       "ID": "ACH_ANAL_PROBE_TRIPPLE_CRIT",
       "SetID": "4n84pon",
       "Name": "Perfect Probulator",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 86
     },
     {
       "ID": "ACH_BASKETBALL_SLAM",
@@ -2105,7 +2110,7 @@
       "Name": "Furon Fashion",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2183,9 +2188,9 @@
       "ID": "ACH_DISLOCATOR_BOWLING",
       "SetID": "4n84pon",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 253
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2209,7 +2214,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2225,7 +2230,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2241,7 +2246,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 177
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2295,9 +2300,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -2321,7 +2326,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH_PURCHASE_CAPSTONE",
@@ -2424,7 +2429,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 2
     }
   ],
@@ -2432,8 +2437,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:10:03.1958993+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:09:42.1056957+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:01:47.4835987+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:10:03.1959316+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:00:31.1136378+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:09:42.1057354+00:00"
 }

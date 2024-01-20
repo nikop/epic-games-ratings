@@ -11,8 +11,8 @@ Rating: 4.22 (Ranked 957)
 | Paper Jams | 24.00% | ~5,422 |
 | Get a Grip | 23.00% | ~5,196 |
 | Chew 'Em Up | 22.00% | ~4,970 |
-| Reforged | 20.00% | ~4,518 |
-| Float Like A Butterfly | 19.00% | ~4,292 |
+| Reforged | 20.00% | ~4,519 |
+| Float Like A Butterfly | 19.00% | ~4,293 |
 | Workplace Hazard | 18.00% | ~4,067 |
 | If the SHU Fits... | 18.00% | ~4,067 |
 | Without A Paddle | 16.00% | ~3,615 |
@@ -26,7 +26,7 @@ Rating: 4.22 (Ranked 957)
 | Full Circle | 11.00% | ~2,485 |
 | You Need a Gun | 10.00% | ~2,259 |
 | I Do Belong Here | 9.00% | ~2,033 |
-| Keep Fighting | 8.00% | ~841 |
+| Keep Fighting | 8.00% | ~842 |
 | The Commonality | 6.00% | ~1,356 |
 | It's Time | 6.00% | ~631 |
 | In Striking Distance | 5.00% | ~1,130 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 957)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,592 (Ranked 153)  
+Progressed: 22,593 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 82 (0.36%) (Ranked 252)
 | 2024-01-17 | 22,513 | 82 |
 | 2024-01-18 | 22,544 | 82 |
 | 2024-01-19 | 22,569 | 82 |
-| 2024-01-20 | 22,592 | 82 |
+| 2024-01-20 | 22,593 | 82 |
 ## Awards
 Max (Amazing Characters): 139  (Ranked 346)  
 Sum: 674 (Ranked 318)  

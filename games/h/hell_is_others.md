@@ -5,15 +5,15 @@ Rating: 4.39 (Ranked 789)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,876 |
+| Survivor | 31.00% | ~80,877 |
 | Predator I | 23.00% | ~60,005 |
 | Fixer I | 10.00% | ~26,089 |
 | A week in Century City | 10.00% | ~26,089 |
-| The Wait | 7.00% | ~18,262 |
-| Green thumb I | 6.00% | ~15,653 |
-| Cleaning Company | 6.00% | ~15,653 |
-| Well-oiled machine | 5.00% | ~13,044 |
-| Saver I | 5.00% | ~13,044 |
+| The Wait | 7.00% | ~18,263 |
+| Green thumb I | 6.00% | ~15,654 |
+| Cleaning Company | 6.00% | ~15,654 |
+| Well-oiled machine | 5.00% | ~13,045 |
+| Saver I | 5.00% | ~13,045 |
 | The Ascent | 4.00% | ~10,436 |
 | Pacifist | 4.00% | ~10,436 |
 | Vandalism | 4.00% | ~10,436 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 789)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,890 (Ranked 69)  
+Progressed: 260,893 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,10 +337,10 @@ Completed: 3 (0.00%) (Ranked 406)
 | 2024-01-17 | 260,770 | 3 |
 | 2024-01-18 | 260,810 | 3 |
 | 2024-01-19 | 260,851 | 3 |
-| 2024-01-20 | 260,890 | 3 |
+| 2024-01-20 | 260,893 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 450)  
-Sum: 387 (Ranked 365)  
+Sum: 388 (Ranked 365)  
 Diff (max vs sum): 85  
 | Award | Count |
 | ----- | ----- |
@@ -353,7 +353,7 @@ Diff (max vs sum): 85
 | This game has a Competitive Community | 36 |
 | This game has Quickly Understood Controls | 35 |
 | This game has Competitive Players | 33 |
-| This game is Extremely Fun | 26 |
+| This game is Extremely Fun | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -559,3 +559,4 @@ Diff (max vs sum): 85
 | 2024-01-17 | 4.39 | 55 | 382 |
 | 2024-01-18 | 4.40 | 55 | 383 |
 | 2024-01-19 | 4.39 | 55 | 387 |
+| 2024-01-20 | 4.39 | 55 | 388 |

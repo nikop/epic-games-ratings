@@ -9709,9 +9709,9 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254897,
+  "EOS_Progressed": 254905,
   "EOS_Completed": 2628,
-  "EOS_NewPlayers": 1177,
+  "EOS_NewPlayers": 1176,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40954,6 +40954,11 @@
       "Time": "2024-01-20T16:11:04.1735785+00:00",
       "NumProgressed": 254897,
       "NumCompleted": 2628
+    },
+    {
+      "Time": "2024-01-20T17:10:26.368323+00:00",
+      "NumProgressed": 254905,
+      "NumCompleted": 2628
     }
   ],
   "TotalAchievements": 546,
@@ -40973,7 +40978,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_100",
@@ -42069,7 +42074,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_149",
@@ -42157,7 +42162,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_165",
@@ -42293,7 +42298,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_20",
@@ -42443,9 +42448,9 @@
       "ID": "objective_completed_246",
       "SetID": "cc37lbc",
       "Name": "The Immortal Warrior",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_247",
@@ -42475,9 +42480,9 @@
       "ID": "objective_completed_251",
       "SetID": "cc37lbc",
       "Name": "The Wyrmheart Mine",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_252",
@@ -42653,7 +42658,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_36",
@@ -42907,9 +42912,9 @@
       "ID": "objective_completed_41",
       "SetID": "cc37lbc",
       "Name": "Premature Betrayal",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 765
     },
     {
       "ID": "objective_completed_410",
@@ -43109,7 +43114,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_540",
@@ -43509,7 +43514,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_60",
@@ -44037,7 +44042,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1274
+      "UsersEstimate": 1275
     },
     {
       "ID": "objective_completed_690",
@@ -45332,21 +45337,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221171,
+      "Progressed": 221179,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254897,
+      "Progressed": 254905,
       "Completed": 2628
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-20T14:00:19.3555764+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:11:04.173578+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:10:26.3683227+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:01:47.8600566+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:11:04.1758127+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:00:31.7040427+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:10:26.3705578+00:00"
 }

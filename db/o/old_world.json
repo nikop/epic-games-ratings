@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2272,11 +2272,17 @@
       "Rating": 4.65,
       "NumberOfAwards": 1943,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-20T16:57:48.9495409+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1944,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1943,
-  "NumberOfAwardsMax": 230,
+  "NumberOfAwards": 1944,
+  "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
     {
@@ -2325,7 +2331,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 230
+      "Count": 231
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2352,9 +2358,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17021,
+  "EOS_Progressed": 17025,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 367,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20597,6 +20603,11 @@
       "Time": "2024-01-20T16:11:03.0386555+00:00",
       "NumProgressed": 17021,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T17:10:25.2156903+00:00",
+      "NumProgressed": 17025,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21318,9 +21329,9 @@
       "ID": "ACHIEVEMENT_CULTURE_STRONG",
       "SetID": "9201eeb",
       "Name": "Strong Cities",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 340
+      "UsersEstimate": 511
     },
     {
       "ID": "ACHIEVEMENT_DAMASCUS_VIA_RECTA_SOUK",
@@ -22358,9 +22369,9 @@
       "ID": "ACHIEVEMENT_PLAY_SINGLEPLAYER",
       "SetID": "9201eeb",
       "Name": "Play a Single Player Game",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 851
+      "UsersEstimate": 1022
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -23471,21 +23482,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17021,
+      "Progressed": 17025,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17021,
+      "Progressed": 17025,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-20T06:57:18.3616453+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:11:03.0386552+00:00",
+  "LastChanged": "2024-01-20T16:57:48.9495407+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:10:25.2156901+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:57:37.9055748+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:11:03.0396307+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:57:48.9495413+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:10:25.2166489+00:00"
 }

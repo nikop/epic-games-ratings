@@ -4,7 +4,7 @@
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 981,
+  "EOS_Progressed": 982,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -3470,6 +3470,11 @@
       "Time": "2024-01-20T12:03:34.5466635+00:00",
       "NumProgressed": 981,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-20T17:04:04.1997784+00:00",
+      "NumProgressed": 982,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3544,9 +3549,9 @@
       "ID": "ACH_eou8",
       "SetID": "51of0eo",
       "Name": "Destroy Black Hole Generator",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 167
+      "UsersEstimate": 157
     },
     {
       "ID": "ACH_mg2",
@@ -3578,21 +3583,21 @@
       "Name": "Destroy the Moon Base",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     }
   ],
   "AchievementSets": [
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 981,
+      "Progressed": 982,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:04:03.0050601+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:04:04.1997779+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:58:16.551378+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:04:03.0050814+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:58:13.3501877+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:04:04.1998041+00:00"
 }

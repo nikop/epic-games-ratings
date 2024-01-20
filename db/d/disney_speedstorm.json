@@ -3009,8 +3009,8 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 403372,
-  "EOS_Completed": 1681,
+  "EOS_Progressed": 403434,
+  "EOS_Completed": 1682,
   "EOS_NewPlayers": 6935,
   "EOS_NewCompleters": 87,
   "EOS_Completed_Percentage": 0.42,
@@ -21824,6 +21824,11 @@
       "Time": "2024-01-20T16:08:57.207181+00:00",
       "NumProgressed": 403372,
       "NumCompleted": 1681
+    },
+    {
+      "Time": "2024-01-20T17:08:55.6105238+00:00",
+      "NumProgressed": 403434,
+      "NumCompleted": 1682
     }
   ],
   "TotalAchievements": 24,
@@ -21835,7 +21840,7 @@
       "Name": "IT\u0027S A LONG WAY TO THE TOP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "10",
@@ -21843,7 +21848,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24202
+      "UsersEstimate": 24206
     },
     {
       "ID": "11",
@@ -21851,7 +21856,7 @@
       "Name": "PERFECTLY POISED",
       "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 2420
+      "UsersEstimate": 2421
     },
     {
       "ID": "12",
@@ -21859,7 +21864,7 @@
       "Name": "TRAINING HARD",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "13",
@@ -21867,7 +21872,7 @@
       "Name": "EXPERIENCED CREW",
       "Percentage": 0.9,
       "XP": 70,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     },
     {
       "ID": "14",
@@ -21875,7 +21880,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36303
+      "UsersEstimate": 36309
     },
     {
       "ID": "15",
@@ -21899,7 +21904,7 @@
       "Name": "BE OUR GUEST",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "18",
@@ -21923,7 +21928,7 @@
       "Name": "ACE SPEEDSTER",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "20",
@@ -21931,7 +21936,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20172
     },
     {
       "ID": "21",
@@ -21955,7 +21960,7 @@
       "Name": "A TIGER\u0027S FEAR",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "24",
@@ -21963,7 +21968,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16135
+      "UsersEstimate": 16137
     },
     {
       "ID": "3",
@@ -21979,7 +21984,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 12101
+      "UsersEstimate": 12103
     },
     {
       "ID": "5",
@@ -21987,7 +21992,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 52438
+      "UsersEstimate": 52446
     },
     {
       "ID": "6",
@@ -21995,7 +22000,7 @@
       "Name": "PRO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20169
+      "UsersEstimate": 20172
     },
     {
       "ID": "7",
@@ -22026,16 +22031,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 403372,
-      "Completed": 1681
+      "Progressed": 403434,
+      "Completed": 1682
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-20T15:00:06.23987+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:08:57.2071804+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:08:55.6105235+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.8696408+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:01:42.0828037+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:08:57.2073147+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:00:26.9303893+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:08:55.6106175+00:00"
 }

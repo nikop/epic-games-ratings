@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 75,
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243274,
+  "EOS_Progressed": 243275,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 381,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32454,6 +32454,11 @@
       "Time": "2024-01-20T16:11:01.5290233+00:00",
       "NumProgressed": 243274,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-20T17:10:24.09843+00:00",
+      "NumProgressed": 243275,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32497,7 +32502,7 @@
       "Name": "First Steps",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "CURSE1HP",
@@ -32615,9 +32620,9 @@
       "ID": "DIE25TIMES",
       "SetID": "5l8oe0h",
       "Name": "R.I.P",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2433
     },
     {
       "ID": "DIEBOSS",
@@ -33209,7 +33214,7 @@
       "Name": "Uncharted Territory",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4865
+      "UsersEstimate": 4866
     },
     {
       "ID": "SPECIALROOMS10",
@@ -33568,13 +33573,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243274,
+      "Progressed": 243275,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4754,
+      "Progressed": 4755,
       "Completed": 429
     }
   ],
@@ -33582,8 +33587,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:11:01.529023+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:10:24.0984298+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:01:12.2244822+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:11:01.5292713+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:00:06.5570483+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:10:24.0986712+00:00"
 }

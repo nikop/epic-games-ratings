@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1400,9 +1400,9 @@
       "ID": "SG_GODOFTHESUN",
       "SetID": "bj5g0n4",
       "Name": "God Of The Sun",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 29
     },
     {
       "ID": "SG_HEARTBREAKER",
@@ -1528,9 +1528,9 @@
       "ID": "SG_THEDEEPEND",
       "SetID": "bj5g0n4",
       "Name": "The Deep End",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 60
     },
     {
       "ID": "SG_THEHIGHROAD",
@@ -1607,8 +1607,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:09:39.8449631+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:09:25.6100834+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.9220606+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:58:44.4405234+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:09:39.8449877+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:58:31.1849918+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:09:25.6101309+00:00"
 }

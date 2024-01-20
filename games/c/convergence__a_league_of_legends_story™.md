@@ -14,10 +14,10 @@ Rating: 4.66 (Ranked 305)
 | No, Thanks! | 27.00% | ~364 |
 | The Prince in Heels | 27.00% | ~364 |
 | Honest Mistake | 27.00% | ~364 |
+| Immaculate Aim | 27.00% | ~364 |
 | Make Up For Lost Time | 26.00% | ~350 |
 | The Harder They Fall | 26.00% | ~350 |
 | Fast Learner | 26.00% | ~350 |
-| Immaculate Aim | 26.00% | ~350 |
 | The Steel Shadow | 25.00% | ~337 |
 | Breaking Down Barriers | 24.00% | ~323 |
 | The Wicked Twins | 24.00% | ~323 |

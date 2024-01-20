@@ -5,10 +5,10 @@
   "Ranking_Rating": 323,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
-  "Ranking_EOS_Progress": 197,
+  "Ranking_EOS_Progress": 198,
   "Ranking_EOS_Completed": 199,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,11 +328,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7814,
+  "EOS_Progressed": 7815,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.76,
+  "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:43.6429949+00:00",
@@ -7088,6 +7088,11 @@
       "Time": "2024-01-20T05:04:03.0193991+00:00",
       "NumProgressed": 7814,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-20T17:04:43.3951841+00:00",
+      "NumProgressed": 7815,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -7131,7 +7136,7 @@
       "Name": "A Grove Replanted",
       "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 4141
+      "UsersEstimate": 4142
     },
     {
       "ID": "AK_HARP_TUNED",
@@ -7233,9 +7238,9 @@
       "ID": "AK_SEEKERS_FOUND",
       "SetID": "dfmb89",
       "Name": "Seekers Found",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3126
     },
     {
       "ID": "AK_SETTLING_SKIES",
@@ -7314,15 +7319,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7814,
+      "Progressed": 7815,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:04:59.1470864+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:04:43.3951838+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:59.4578631+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:03:39.6392247+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:04:59.1471264+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:03:48.5560695+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:04:43.3952312+00:00"
 }

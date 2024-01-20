@@ -1,11 +1,11 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.17 (Ranked 992)  
+Rating: 4.19 (Ranked 979)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,561 |
+| Break Out | 65.00% | ~1,563 |
 | Trinity | 35.00% | ~841 |
 | The Collector | 29.00% | ~697 |
 | Find Allies | 27.00% | ~649 |
@@ -13,15 +13,15 @@ Rating: 4.17 (Ranked 992)
 | Adventurer | 26.00% | ~625 |
 | Shatter Them All | 26.00% | ~625 |
 | Geared Up | 26.00% | ~625 |
-| Scholar | 25.00% | ~600 |
-| I Found It | 25.00% | ~600 |
-| Fashion Victim | 24.00% | ~576 |
-| Stone Collection | 24.00% | ~576 |
-| Tributes of Caladrias | 23.00% | ~552 |
-| Powerful Allies | 22.00% | ~528 |
-| Big Bazar | 16.00% | ~384 |
-| Essence Blow | 15.00% | ~360 |
-| Alchemist | 15.00% | ~360 |
+| Scholar | 25.00% | ~601 |
+| I Found It | 25.00% | ~601 |
+| Fashion Victim | 24.00% | ~577 |
+| Stone Collection | 24.00% | ~577 |
+| Tributes of Caladrias | 23.00% | ~553 |
+| Powerful Allies | 22.00% | ~529 |
+| Big Bazar | 16.00% | ~385 |
+| Essence Blow | 15.00% | ~361 |
+| Alchemist | 15.00% | ~361 |
 | The Mentor | 12.00% | ~288 |
 | Calm before the Storm | 11.00% | ~264 |
 | To Battle | 10.00% | ~240 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 992)
 | All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,402 (Ranked 248)  
+Progressed: 2,404 (Ranked 247)  
 Completed: 5 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-17 | 2,374 | 5 |
 | 2024-01-18 | 2,380 | 5 |
 | 2024-01-19 | 2,391 | 5 |
-| 2024-01-20 | 2,402 | 5 |
+| 2024-01-20 | 2,404 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -159,3 +159,4 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-13 | 4.17 | 0 | 0 |
 | 2024-01-14 | 4.13 | 0 | 0 |
 | 2024-01-17 | 4.18 | 0 | 0 |
+| 2024-01-20 | 4.19 | 0 | 0 |

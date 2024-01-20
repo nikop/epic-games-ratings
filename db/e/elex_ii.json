@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 274,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1921,9 +1921,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 69
     },
     {
       "ID": "FINDBILLY",
@@ -1977,9 +1977,9 @@
       "ID": "HELPCHILDREN",
       "SetID": "a1angca",
       "Name": "Detective",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "HELPTHORHILD",
@@ -2041,9 +2041,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "LOVECAJA",
@@ -2065,8 +2065,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:05:23.9657831+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:04:59.6348347+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:59:18.3917917+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:05:23.9658135+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:58:51.9324457+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:04:59.634891+00:00"
 }

@@ -1,7 +1,7 @@
 # Isonzo
 [Store](https://store.epicgames.com/en-US/p/isonzo)  
 [View Rawdata](../../db/i/isonzo.json)  
-Rating: 4.58 (Ranked 474)  
+Rating: 4.58 (Ranked 475)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,8 +11,8 @@ Number of Ratings: 98  (23.09.2022)
 | Peak Performance | 45.00% | ~4,503 |
 | Avanti Savoia! | 44.00% | ~4,403 |
 | Mamma Mia! | 35.00% | ~3,502 |
+| Conrad von Hotzensocks | 32.00% | ~3,202 |
 | Gabriele D'Annunzio | 32.00% | ~3,202 |
-| Conrad von Hotzensocks | 31.00% | ~3,102 |
 | Silver Lining | 27.00% | ~2,702 |
 | Aurelio Baruzzi | 20.00% | ~2,001 |
 | Decimation | 20.00% | ~2,001 |

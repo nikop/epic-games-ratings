@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 300,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4675,9 +4675,9 @@
       "ID": "TheFuture",
       "SetID": "1n308hc",
       "Name": "The Future",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 73
+      "UsersEstimate": 87
     },
     {
       "ID": "TheHardWay",
@@ -4699,9 +4699,9 @@
       "ID": "TheThiefOfFire",
       "SetID": "1n308hc",
       "Name": "The Thief of Fire",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 378
+      "UsersEstimate": 392
     },
     {
       "ID": "TheWordEndures",
@@ -4780,8 +4780,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-18T22:01:32.7392384+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:08:21.9670038+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:08:31.2269746+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:57:32.1837469+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:08:21.9670542+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:57:45.0980544+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:08:31.2270259+00:00"
 }

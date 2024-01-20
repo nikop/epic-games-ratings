@@ -34,7 +34,7 @@ Number of Ratings: 209  (23.09.2022)
 | Ripped | 84.00% | ~2,068 |
 | Beat the big arena | 82.00% | ~2,019 |
 | Force Cube | 82.00% | ~2,019 |
-| Got Battery | 80.00% | ~1,970 |
+| Got Battery | 81.00% | ~1,994 |
 | Guard Distracted | 80.00% | ~1,970 |
 | Translocator | 80.00% | ~1,970 |
 | Inner Peace | 77.00% | ~1,896 |
@@ -42,7 +42,7 @@ Number of Ratings: 209  (23.09.2022)
 | Killed them all | 76.00% | ~1,871 |
 | Trickle Down Economy | 76.00% | ~1,871 |
 | Win | 76.00% | ~1,871 |
-| Greenhouse | 71.00% | ~1,748 |
+| Greenhouse | 72.00% | ~1,773 |
 | Played with fire | 70.00% | ~1,723 |
 | You feel very sorry | 70.00% | ~1,723 |
 | No Match for you | 65.00% | ~1,600 |

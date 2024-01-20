@@ -4,8 +4,8 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4414,
+  "EOS_Progressed": 4419,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5584,6 +5584,11 @@
       "Time": "2024-01-20T16:06:29.6398762+00:00",
       "NumProgressed": 4414,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T17:05:45.203378+00:00",
+      "NumProgressed": 4419,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5620,7 +5625,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5660,7 +5665,7 @@
       "Name": "Terrible Journey",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -5700,7 +5705,7 @@
       "Name": "Worthy Badge",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 971
+      "UsersEstimate": 972
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -5708,7 +5713,7 @@
       "Name": "High Level Mastery",
       "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -5780,7 +5785,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1812
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5794,9 +5799,9 @@
       "ID": "ACHIEVEMENT_34",
       "SetID": "c167foo",
       "Name": "Unlocked Relic",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2077
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5971,20 +5976,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4414,
+      "Progressed": 4419,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 192,
-      "Completed": 192
+      "Progressed": 197,
+      "Completed": 197
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:06:29.6398759+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:05:45.2033778+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.8664152+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:59:02.7386342+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:06:29.6399197+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:58:42.4589574+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:05:45.2034261+00:00"
 }

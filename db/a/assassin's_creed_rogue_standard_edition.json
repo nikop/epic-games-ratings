@@ -2,13 +2,13 @@
   "ID": "34f7e1e275924bb6a90074920f9c1696",
   "Name": "Assassin\u0027s Creed Rogue Standard Edition",
   "ProductSlug": "assassins-creed-rogue",
-  "Ranking_Rating": 474,
-  "Ranking_Popularity": 299,
+  "Ranking_Rating": 451,
+  "Ranking_Popularity": 298,
   "Ranking_PopularitySum": 391,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-03-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "CN"
     }
   },
-  "Rating": 4.58,
+  "Rating": 4.59,
   "NumberOfRatings": 305,
   "RatingHistory": [
     {
@@ -1003,18 +1003,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 287,
       "NumberOfAwardsMax": 207
+    },
+    {
+      "Time": "2024-01-20T16:59:09.0099877+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 289,
+      "NumberOfAwardsMax": 209
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 287,
-  "NumberOfAwardsMax": 207,
+  "NumberOfAwards": 289,
+  "NumberOfAwardsMax": 209,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 207
+      "Count": 209
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -1034,8 +1040,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:01.0113458+00:00",
-  "LastChanged": "2024-01-19T08:58:15.7661173+00:00",
+  "LastChanged": "2024-01-20T16:59:09.0099875+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.4268631+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:59:44.7896034+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:05:20.0884296+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:59:09.009988+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:04:57.1048484+00:00"
 }

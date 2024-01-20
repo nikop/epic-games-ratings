@@ -2,13 +2,13 @@
   "ID": "0c321ac6d5fe49139c153253b60702f4",
   "Name": "Total War: WARHAMMER",
   "ProductSlug": "total-war-warhammer",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 61,
   "Ranking_PopularitySum": 74,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-11-22T15:00:00+00:00",
     "PcReleaseDate": "2016-05-24T11:08:48+00:00",
@@ -7873,10 +7873,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 15396,
       "NumberOfAwardsMax": 6719
+    },
+    {
+      "Time": "2024-01-20T16:57:26.1498433+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 15398,
+      "NumberOfAwardsMax": 6719
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 15396,
+  "NumberOfAwards": 15398,
   "NumberOfAwardsMax": 6719,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7914,7 +7920,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 905
+      "Count": 906
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7926,7 +7932,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 921
+      "Count": 922
     },
     {
       "Text": "This game has Competitive Players",
@@ -7970,8 +7976,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:32.4449837+00:00",
-  "LastChanged": "2024-01-20T15:00:22.7212355+00:00",
+  "LastChanged": "2024-01-20T16:57:26.1498431+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:32.3011865+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:00:22.7212366+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:06:01.1863552+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:57:26.1498438+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:05:25.1687503+00:00"
 }

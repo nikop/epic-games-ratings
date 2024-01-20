@@ -14,22 +14,23 @@ Number of Ratings: 32,700  (23.09.2022)
 | Christmas Tree Attack | 0.40% | ~4,223 |
 | Life of the Road | 0.40% | ~4,223 |
 | Stanislavski's Method | 0.40% | ~4,223 |
+| The Fool | 0.40% | ~4,223 |
 | The High Priestess | 0.40% | ~4,223 |
 | The Lovers | 0.40% | ~4,223 |
 | Legend of The Afterlife | 0.40% | ~4,223 |
 | All the President's Men | 0.40% | ~738 |
 | Arachnophobia | 0.40% | ~738 |
-| Bushido and Chill | 0.30% | ~3,167 |
-| Gun Fu | 0.30% | ~3,167 |
-| Master Crafter | 0.30% | ~3,167 |
-| I Am The Law | 0.30% | ~3,167 |
-| The Quick and the Dead | 0.30% | ~3,167 |
-| The Fool | 0.30% | ~3,167 |
-| The World | 0.30% | ~3,167 |
-| True Warrior | 0.30% | ~3,167 |
-| Judy vs Night City | 0.30% | ~3,167 |
+| Bushido and Chill | 0.30% | ~3,168 |
+| Gun Fu | 0.30% | ~3,168 |
+| Master Crafter | 0.30% | ~3,168 |
+| I Am The Law | 0.30% | ~3,168 |
+| The Quick and the Dead | 0.30% | ~3,168 |
+| The World | 0.30% | ~3,168 |
+| True Warrior | 0.30% | ~3,168 |
+| Judy vs Night City | 0.30% | ~3,168 |
 | To Protect and Serve | 0.20% | ~2,112 |
 | The Wandering Fool | 0.20% | ~2,112 |
+| The Sun | 0.20% | ~2,112 |
 | Two Heads, One Bullet | 0.20% | ~2,112 |
 | Spin Doctor | 0.20% | ~369 |
 | Easy Come, Easy Go | 0.20% | ~369 |
@@ -49,7 +50,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Rough Landing | 0.10% | ~1,056 |
 | The Devil | 0.10% | ~1,056 |
 | The Star | 0.10% | ~1,056 |
-| The Sun | 0.10% | ~1,056 |
 | Greetings from Pacifica! | 0.10% | ~1,056 |
 | The Jungle | 0.10% | ~1,056 |
 | V for Vendetta | 0.10% | ~1,056 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,782 (Ranked 17)  
-Completed: 3,135 (0.30%) (Ranked 264)  
+Progressed: 1,055,838 (Ranked 17)  
+Completed: 3,135 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,7 +349,7 @@ Completed: 3,135 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,782 | 3,135 |
+| 2024-01-20 | 1,055,838 | 3,135 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
 Sum: 508,153 (Ranked 8)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11921,
+  "EOS_Progressed": 11924,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5618,6 +5618,11 @@
       "Time": "2024-01-20T16:10:52.57379+00:00",
       "NumProgressed": 11921,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T17:10:16.9304637+00:00",
+      "NumProgressed": 11924,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5630,7 +5635,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2742
+      "UsersEstimate": 2743
     },
     {
       "ID": "03_TheStolenStar",
@@ -5638,7 +5643,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5734,7 +5739,7 @@
       "Name": "Pentakill",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "16_TheRise",
@@ -5742,7 +5747,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1788
+      "UsersEstimate": 1789
     },
     {
       "ID": "17_TheExemplar",
@@ -5750,7 +5755,7 @@
       "Name": "Exemplar",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -5758,7 +5763,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5766,7 +5771,7 @@
       "Name": "Void Wolf",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -5886,7 +5891,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5940,9 +5945,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1550
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5950,7 +5955,7 @@
       "Name": "Iron Judgement",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1312
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5982,7 +5987,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "47_AFlame",
@@ -6014,7 +6019,7 @@
       "Name": "Whodunit?",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6044,9 +6049,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 358
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -6149,7 +6154,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11921,
+      "Progressed": 11924,
       "Completed": 1
     }
   ],
@@ -6157,8 +6162,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-20T14:00:29.182554+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:10:52.5737898+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:10:16.9304635+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:02:00.855019+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:10:52.5738479+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:00:40.205765+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:10:16.9305202+00:00"
 }

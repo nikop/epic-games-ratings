@@ -2,13 +2,13 @@
   "ID": "e4ac2f8cd49b42f18821f3fc3b6fc1b6",
   "Name": "Creature in the Well",
   "ProductSlug": "creature-in-the-well",
-  "Ranking_Rating": 951,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 575,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-03-25T15:00:00+00:00",
     "PcReleaseDate": "2019-09-06T15:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.23,
+  "Rating": 4.24,
   "NumberOfRatings": 113,
   "RatingHistory": [
     {
@@ -392,6 +392,12 @@
       "Rating": 4.23,
       "NumberOfAwards": 22,
       "NumberOfAwardsMax": 22
+    },
+    {
+      "Time": "2024-01-20T16:59:19.2586117+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 22,
+      "NumberOfAwardsMax": 22
     }
   ],
   "ReviewsDisabled": false,
@@ -417,8 +423,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:44.5779838+00:00",
-  "LastChanged": "2024-01-18T16:58:44.9832746+00:00",
+  "LastChanged": "2024-01-20T16:59:19.2586114+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:43.6410284+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:59:59.0810859+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:04:17.00475+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:59:19.2586119+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:04:13.9698749+00:00"
 }

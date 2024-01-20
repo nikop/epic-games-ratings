@@ -2,13 +2,13 @@
   "ID": "89b9c510e8d74b9da34c447915b1ffb1",
   "Name": "Arcade Paradise",
   "ProductSlug": "arcade-paradise",
-  "Ranking_Rating": 452,
+  "Ranking_Rating": 451,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 760,
+  "EOS_Progressed": 761,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -999,6 +999,11 @@
       "Time": "2024-01-18T12:08:53.8129288+00:00",
       "NumProgressed": 760,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T17:08:43.7529546+00:00",
+      "NumProgressed": 761,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -1058,7 +1063,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 684
+      "UsersEstimate": 685
     },
     {
       "ID": "AhoyTrophy",
@@ -1072,9 +1077,9 @@
       "ID": "AlienTrophy",
       "SetID": "32aeje8",
       "Name": "We come in peace",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 23
+      "UsersEstimate": 15
     },
     {
       "ID": "AllGoalTrophy",
@@ -1152,9 +1157,9 @@
       "ID": "EntryTrophy",
       "SetID": "32aeje8",
       "Name": "Pushing a pull door",
-      "Percentage": 97,
+      "Percentage": 96,
       "XP": 5,
-      "UsersEstimate": 737
+      "UsersEstimate": 731
     },
     {
       "ID": "Ext4Trophy",
@@ -1186,7 +1191,7 @@
       "Name": "Machine Maxed",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "GoldGuyTrophy",
@@ -1290,7 +1295,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 623
+      "UsersEstimate": 624
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1410,7 +1415,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1418,7 +1423,7 @@
       "Name": "Gerald of Riviera",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "YouthTrophy",
@@ -1441,7 +1446,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 760,
+      "Progressed": 761,
       "Completed": 0
     }
   ],
@@ -1449,8 +1454,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:08:39.4347876+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:08:43.7529542+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:12.4446622+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:57:19.0578212+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:08:39.4348216+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:57:37.8732893+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:08:43.7529937+00:00"
 }

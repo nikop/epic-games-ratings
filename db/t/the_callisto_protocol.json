@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2321,9 +2321,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22592,
+  "EOS_Progressed": 22593,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 309,
+  "EOS_NewPlayers": 305,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14511,6 +14511,11 @@
       "Time": "2024-01-20T16:10:28.3531073+00:00",
       "NumProgressed": 22592,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-20T17:09:59.358331+00:00",
+      "NumProgressed": 22593,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14682,7 +14687,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14690,7 +14695,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4518
+      "UsersEstimate": 4519
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14874,7 +14879,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14897,13 +14902,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22592,
+      "Progressed": 22593,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10518,
+      "Progressed": 10519,
       "Completed": 29
     }
   ],
@@ -14911,8 +14916,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-20T01:50:40.5262185+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:10:28.353107+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:09:59.3583307+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:03:38.0842278+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:10:28.3531828+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:03:47.6271204+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:09:59.3584204+00:00"
 }

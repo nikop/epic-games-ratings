@@ -4,8 +4,8 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1362,
+  "EOS_Progressed": 1363,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4009,6 +4009,11 @@
       "Time": "2024-01-20T11:10:03.0245285+00:00",
       "NumProgressed": 1362,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-20T17:10:08.2820393+00:00",
+      "NumProgressed": 1363,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -4021,15 +4026,15 @@
       "Name": "A Better Tomorrow",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 844
+      "UsersEstimate": 831
     },
     {
       "ID": "BoxingClever",
@@ -4045,7 +4050,7 @@
       "Name": "Cartographer",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "Causality",
@@ -4109,7 +4114,7 @@
       "Name": "Mi Casa Su Casa",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "OnceMoreIntoTheBreach",
@@ -4117,7 +4122,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     },
     {
       "ID": "Outpatient",
@@ -4125,7 +4130,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 858
+      "UsersEstimate": 859
     },
     {
       "ID": "Relic",
@@ -4133,7 +4138,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1076
+      "UsersEstimate": 1077
     },
     {
       "ID": "SkeletonCrew",
@@ -4141,7 +4146,7 @@
       "Name": "Skeleton Crew",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "TerraTourGuide",
@@ -4180,14 +4185,14 @@
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1362,
+      "Progressed": 1363,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:10:41.1962432+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:10:08.282039+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.0988435+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:57:28.7764446+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:10:41.1962696+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:57:43.1972155+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:10:08.2820668+00:00"
 }

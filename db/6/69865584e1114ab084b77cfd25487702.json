@@ -4,8 +4,8 @@
   "ProductSlug": "beneath-469388",
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T10:57:12.9250207+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:57:19.4346699+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:04:18.9815301+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:57:38.1016438+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:04:15.2931949+00:00"
 }

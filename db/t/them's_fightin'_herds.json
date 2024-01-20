@@ -2,13 +2,13 @@
   "ID": "a567c32599bf4d4fb609e424f3691b39",
   "Name": "Them\u0027s Fightin\u0027 Herds",
   "ProductSlug": "thems-fightin-herds",
-  "Ranking_Rating": 452,
-  "Ranking_Popularity": 540,
-  "Ranking_PopularitySum": 516,
+  "Ranking_Rating": 451,
+  "Ranking_Popularity": 535,
+  "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 77,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-19T16:00:00+00:00",
     "PcReleaseDate": "2020-04-30T15:00:00+00:00",
@@ -335,18 +335,24 @@
       "Rating": 4.59,
       "NumberOfAwards": 51,
       "NumberOfAwardsMax": 28
+    },
+    {
+      "Time": "2024-01-20T16:57:43.919465+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 52,
+      "NumberOfAwardsMax": 29
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51,
-  "NumberOfAwardsMax": 28,
+  "NumberOfAwards": 52,
+  "NumberOfAwardsMax": 29,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 28
+      "Count": 29
     },
     {
       "Text": "This game has Diverse Characters",
@@ -355,7 +361,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 235618,
+  "EOS_Progressed": 235619,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 0,
@@ -28315,6 +28321,11 @@
       "Time": "2024-01-20T16:06:14.4645959+00:00",
       "NumProgressed": 235618,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-20T17:05:34.8612451+00:00",
+      "NumProgressed": 235619,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 28,
@@ -28390,7 +28401,7 @@
       "Name": "Once upon a time...",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 84822
+      "UsersEstimate": 84823
     },
     {
       "ID": "COMPLETE_ARCADE_ARIZONA_GREENHORN",
@@ -28549,16 +28560,16 @@
     {
       "ID": "4dbk7kc",
       "IsBase": true,
-      "Progressed": 235618,
+      "Progressed": 235619,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-12-19T18:57:06.8658934+00:00",
   "FirstSeenRating": "2022-12-20T18:57:15.4745629+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7405868+00:00",
-  "LastChanged": "2024-01-07T19:57:29.8230192+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:06:14.4645956+00:00",
+  "LastChanged": "2024-01-20T16:57:43.9194648+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:05:34.8612446+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:21.0272233+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:57:29.8971681+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:06:14.4647116+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:57:43.9194654+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:05:34.8613585+00:00"
 }

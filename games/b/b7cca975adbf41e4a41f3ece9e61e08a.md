@@ -5,15 +5,15 @@ Rating: 4.69 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,637 |
-| I Challenge You To Save More Money! | 81.00% | ~15,314 |
-| I Love How Tough You Are | 66.00% | ~12,478 |
+| Last Night...Did We... | 88.00% | ~16,638 |
+| I Challenge You To Save More Money! | 81.00% | ~15,315 |
+| I Love How Tough You Are | 66.00% | ~12,479 |
 | Wanna Come To My Place For Dinner? | 59.00% | ~11,155 |
-| What I Want Is You | 54.00% | ~10,209 |
-| To Be Or Not To Be | 50.00% | ~9,453 |
+| What I Want Is You | 54.00% | ~10,210 |
+| To Be Or Not To Be | 51.00% | ~9,643 |
 | Are You Alright? | 47.00% | ~8,886 |
 | Love Actually | 42.00% | ~7,941 |
-| Drama King | 36.00% | ~6,806 |
+| Drama King | 36.00% | ~6,807 |
 | Go Clean up In Your Own Way | 33.00% | ~6,239 |
 | Drama CP: Reel to Real | 32.00% | ~6,050 |
 | You're Really Something Else | 32.00% | ~6,050 |
@@ -25,11 +25,11 @@ Rating: 4.69 (Ranked 240)
 | ONE PUNCH | 28.00% | ~5,294 |
 | Days Of Innocence | 26.00% | ~4,916 |
 | David | 26.00% | ~4,916 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,726 |
-| All I Have Is Money | 22.00% | ~4,159 |
-| A Slap In The Face! | 22.00% | ~4,159 |
-| That's So You | 22.00% | ~4,159 |
-| SALUTE | 22.00% | ~4,159 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,727 |
+| All I Have Is Money | 22.00% | ~4,160 |
+| A Slap In The Face! | 22.00% | ~4,160 |
+| That's So You | 22.00% | ~4,160 |
+| SALUTE | 22.00% | ~4,160 |
 | Lover In Dark Alley | 21.00% | ~3,970 |
 | Let Me Be Your Toy Boy | 21.00% | ~3,970 |
 | Off We Sail Tonight | 15.00% | ~2,836 |
@@ -38,9 +38,9 @@ Rating: 4.69 (Ranked 240)
 | Doesn't Matter I'll Handle It | 12.00% | ~2,269 |
 | The Flash | 11.00% | ~2,080 |
 | New Yoga Pose Unlocked | 10.00% | ~1,891 |
-| My Dear Love! | 8.00% | ~1,512 |
-| Counting Sheep? | 8.00% | ~1,512 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,512 |
+| My Dear Love! | 8.00% | ~1,513 |
+| Counting Sheep? | 8.00% | ~1,513 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,513 |
 | Life Is A Rollercoaster | 7.00% | ~1,323 |
 | Boys Need To Protect Themselves | 7.00% | ~1,323 |
 | Stubborn Noob | 7.00% | ~1,323 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 240)
 | Tall; Grande; Venti | 2.00% | ~378 |
 | Limerence | 2.00% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,906 (Ranked 162)  
+Progressed: 18,907 (Ranked 162)  
 Completed: 336 (1.78%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 336 (1.78%) (Ranked 147)
 | 2024-01-17 | 18,760 | 336 |
 | 2024-01-18 | 18,810 | 336 |
 | 2024-01-19 | 18,859 | 336 |
-| 2024-01-20 | 18,906 | 336 |
+| 2024-01-20 | 18,907 | 336 |
 ## Awards
 Max (Impact the Story): 40  (Ranked 488)  
 Sum: 40 (Ranked 528)  

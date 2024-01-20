@@ -4,8 +4,8 @@
   "ProductSlug": "clash-artifacts-of-chaos-53e881",
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 492,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 164,
+  "EOS_Progressed": 165,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.61,
   "EosHistory": [
@@ -561,6 +561,11 @@
       "Time": "2024-01-15T06:09:46.431661+00:00",
       "NumProgressed": 164,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T17:10:12.5674614+00:00",
+      "NumProgressed": 165,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 21,
@@ -588,7 +593,7 @@
       "Name": "Your Training Continues",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Achievement12",
@@ -596,7 +601,7 @@
       "Name": "Your Training Is Complete",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Achievement13",
@@ -620,7 +625,7 @@
       "Name": "Target Practice",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 75
+      "UsersEstimate": 76
     },
     {
       "ID": "Achievement16",
@@ -634,9 +639,9 @@
       "ID": "Achievement17",
       "SetID": "jf6ho5",
       "Name": "Declawing",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 35,
-      "UsersEstimate": 108
+      "UsersEstimate": 107
     },
     {
       "ID": "Achievement18",
@@ -644,7 +649,7 @@
       "Name": "Over the Moon",
       "Percentage": 32,
       "XP": 90,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Achievement19",
@@ -660,7 +665,7 @@
       "Name": "Winner",
       "Percentage": 24,
       "XP": 35,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Achievement20",
@@ -668,7 +673,7 @@
       "Name": "Amokuali Tower",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "Achievement21",
@@ -684,15 +689,15 @@
       "Name": "Enemies of Fate",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "Achievement4",
       "SetID": "jf6ho5",
       "Name": "Omnia Vincit Amor",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "Achievement5",
@@ -739,7 +744,7 @@
     {
       "ID": "jf6ho5",
       "IsBase": true,
-      "Progressed": 164,
+      "Progressed": 165,
       "Completed": 1
     }
   ],
@@ -747,8 +752,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:10:47.1050601+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:10:12.5674611+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.8235037+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:59:48.5811768+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:10:47.1050775+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:59:12.0917765+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:10:12.5674739+00:00"
 }

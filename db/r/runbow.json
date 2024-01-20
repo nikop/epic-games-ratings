@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 677,
+  "Ranking_Rating": 678,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253661,
+  "EOS_Progressed": 253665,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 241,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24577,6 +24577,11 @@
       "Time": "2024-01-20T16:10:43.3565852+00:00",
       "NumProgressed": 253661,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-20T17:10:09.8156333+00:00",
+      "NumProgressed": 253665,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24588,7 +24593,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17756
+      "UsersEstimate": 17757
     },
     {
       "ID": "aWinnerIsYou",
@@ -24612,7 +24617,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53269
+      "UsersEstimate": 53270
     },
     {
       "ID": "blotbuster",
@@ -24644,7 +24649,7 @@
       "Name": "Can You Dig It?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 43122
+      "UsersEstimate": 43123
     },
     {
       "ID": "cantBeKeptDown",
@@ -24660,7 +24665,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38049
+      "UsersEstimate": 38050
     },
     {
       "ID": "clearCut",
@@ -24684,7 +24689,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45659
+      "UsersEstimate": 45660
     },
     {
       "ID": "curator",
@@ -24692,7 +24697,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50732
+      "UsersEstimate": 50733
     },
     {
       "ID": "didYourTime",
@@ -24764,7 +24769,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134440
+      "UsersEstimate": 134442
     },
     {
       "ID": "indegestible",
@@ -24780,7 +24785,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17756
+      "UsersEstimate": 17757
     },
     {
       "ID": "itsTheFall",
@@ -24788,7 +24793,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65952
+      "UsersEstimate": 65953
     },
     {
       "ID": "justABit",
@@ -24828,7 +24833,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126830
+      "UsersEstimate": 126832
     },
     {
       "ID": "notScared",
@@ -24892,7 +24897,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58342
+      "UsersEstimate": 58343
     },
     {
       "ID": "thunderstruck",
@@ -24955,7 +24960,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253661,
+      "Progressed": 253665,
       "Completed": 6
     }
   ],
@@ -24963,8 +24968,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:10:43.3565848+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:10:09.8156331+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.0059916+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:01:11.8696282+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:10:43.3567004+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:00:06.384678+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:10:09.8157403+00:00"
 }

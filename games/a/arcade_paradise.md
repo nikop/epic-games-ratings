@@ -1,19 +1,19 @@
 # Arcade Paradise
 [Store](https://store.epicgames.com/en-US/p/arcade-paradise)  
 [View Rawdata](../../db/a/arcade_paradise.json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.59 (Ranked 451)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pushing a pull door | 97.00% | ~737 |
-| Fetch Quest Complete | 90.00% | ~684 |
-| I can't wait! | 82.00% | ~623 |
+| Pushing a pull door | 96.00% | ~731 |
+| Fetch Quest Complete | 90.00% | ~685 |
+| I can't wait! | 82.00% | ~624 |
 | Swish | 56.00% | ~426 |
-| Clean up on Aisle 9 | 39.00% | ~296 |
-| Machine Maxed | 29.00% | ~220 |
+| Clean up on Aisle 9 | 39.00% | ~297 |
+| Machine Maxed | 29.00% | ~221 |
 | Existential dread | 26.00% | ~198 |
 | Bug Fixer | 25.00% | ~190 |
-| Gerald of Riviera | 24.00% | ~182 |
+| Gerald of Riviera | 24.00% | ~183 |
 | Goal | 21.00% | ~160 |
 | I ran the numbers | 15.00% | ~114 |
 | Taking the plunge | 13.00% | ~99 |
@@ -31,10 +31,10 @@ Rating: 4.59 (Ranked 452)
 | Nose to the Grindstone | 4.00% | ~30 |
 | Waking nightmare | 4.00% | ~30 |
 | To do. Done! | 3.00% | ~23 |
-| We come in peace | 3.00% | ~23 |
 | Hammer time | 3.00% | ~23 |
 | 1CC | 2.00% | ~15 |
 | GOOOOOOAAAAAAALLLL!!!! | 2.00% | ~15 |
+| We come in peace | 2.00% | ~15 |
 | Modern Gorefare | 2.00% | ~15 |
 | GTA: Crime City | 2.00% | ~15 |
 | Slacker | 2.00% | ~15 |
@@ -60,7 +60,7 @@ Rating: 4.59 (Ranked 452)
 | Another all nighter? | 0.10% | ~1 |
 | Video killed the radio star | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760 (Ranked 324)  
+Progressed: 761 (Ranked 324)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-14 | 758 | 0 |
 | 2024-01-17 | 759 | 0 |
 | 2024-01-18 | 760 | 0 |
+| 2024-01-20 | 761 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

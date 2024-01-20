@@ -4,8 +4,8 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 410,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 411,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -793,9 +793,9 @@
       "ID": "Ach_DarkPoulpeConstellation",
       "SetID": "4o5gjp0",
       "Name": "The beast within",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 47
     },
     {
       "ID": "Ach_DeathXTime",
@@ -825,9 +825,9 @@
       "ID": "Ach_DiscoveryCelestialIsland",
       "SetID": "4o5gjp0",
       "Name": "Rooftop",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Ach_DiscoveryFinalTower",
@@ -992,8 +992,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:09:44.7742188+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:09:29.2294851+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.9507506+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:00:49.95805+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:09:44.7742371+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:59:51.5841538+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:09:29.2295117+00:00"
 }

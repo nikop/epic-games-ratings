@@ -31,8 +31,8 @@
 | Aquarian Champion | 9.00% | ~35 |
 | Heart Gate | 8.00% | ~31 |
 | Stellar Haste | 8.00% | ~31 |
+| The Goddes Avatar | 8.00% | ~31 |
 | The Corruption Goddess | 7.00% | ~27 |
-| The Goddes Avatar | 7.00% | ~27 |
 | Can't touch this | 6.00% | ~23 |
 | Favored by the Cosmos | 6.00% | ~23 |
 | Anomaly Control | 5.00% | ~20 |

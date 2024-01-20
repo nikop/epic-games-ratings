@@ -21,14 +21,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.70% | ~1,784 |
 | Fast Food | 0.70% | ~1,548 |
 | Terror in the Dark | 0.60% | ~1,529 |
-| Maddening | 0.50% | ~1,274 |
-| Beast Mode | 0.50% | ~1,274 |
-| A Mysterious Summons | 0.50% | ~1,274 |
-| Unearthed Evil | 0.50% | ~1,274 |
-| The Crumbling Temple | 0.50% | ~1,274 |
-| Exploring Port Nyanzaru | 0.50% | ~1,274 |
-| The Contagious Curse | 0.50% | ~1,274 |
-| Escort to Waterdeep | 0.50% | ~1,274 |
+| Maddening | 0.50% | ~1,275 |
+| Beast Mode | 0.50% | ~1,275 |
+| A Mysterious Summons | 0.50% | ~1,275 |
+| Unearthed Evil | 0.50% | ~1,275 |
+| The Crumbling Temple | 0.50% | ~1,275 |
+| Exploring Port Nyanzaru | 0.50% | ~1,275 |
+| The Contagious Curse | 0.50% | ~1,275 |
+| Escort to Waterdeep | 0.50% | ~1,275 |
 | The Overgrown Grove | 0.50% | ~1,106 |
 | When Tentacles Attack | 0.50% | ~1,106 |
 | Flames of Avernus | 0.50% | ~1,106 |
@@ -54,6 +54,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Dinner Party | 0.30% | ~765 |
 | The Botched Kidnapping | 0.30% | ~765 |
 | The Death Curse | 0.30% | ~765 |
+| Premature Betrayal | 0.30% | ~765 |
 | A Tale of Two Cities | 0.30% | ~765 |
 | Flying Monkey Skulls of Doom | 0.30% | ~765 |
 | Close Escort | 0.30% | ~765 |
@@ -79,6 +80,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of the Nine Gods | 0.20% | ~510 |
 | The Mists of Ravenloft | 0.20% | ~510 |
 | Family Entanglements | 0.20% | ~510 |
+| The Immortal Warrior | 0.20% | ~510 |
+| The Wyrmheart Mine | 0.20% | ~510 |
 | Tower on the Lake | 0.20% | ~510 |
 | Seeds of Deceit | 0.20% | ~510 |
 | Trollskull Manor | 0.20% | ~510 |
@@ -89,7 +92,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Nimble Escape | 0.20% | ~510 |
 | Fugitives | 0.20% | ~510 |
 | Excavating History | 0.20% | ~510 |
-| Premature Betrayal | 0.20% | ~510 |
 | Hopelessly Lost | 0.20% | ~510 |
 | Enter the Sargauth | 0.20% | ~510 |
 | The Dead Three | 0.20% | ~510 |
@@ -260,11 +262,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Haaave You Met Asmodeus? | 0.10% | ~255 |
 | Domesticated Owlbears | 0.10% | ~255 |
 | This Quest Stinks! | 0.10% | ~221 |
-| The Immortal Warrior | 0.10% | ~255 |
 | Hold for the Red Wizards | 0.10% | ~255 |
 | Form Ranks | 0.10% | ~255 |
 | Drop of Time | 0.10% | ~221 |
-| The Wyrmheart Mine | 0.10% | ~255 |
 | They Who Smelt It | 0.10% | ~255 |
 | Distribute Your Weight | 0.10% | ~255 |
 | Mongrelfolk Incursion | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,897 (Ranked 71)  
+Progressed: 254,905 (Ranked 71)  
 Completed: 2,628 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,7 +828,7 @@ Completed: 2,628 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,897 | 2,628 |
+| 2024-01-20 | 254,905 | 2,628 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,581 (Ranked 41)  

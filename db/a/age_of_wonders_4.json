@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7276,
+  "EOS_Progressed": 7277,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11379,6 +11379,11 @@
       "Time": "2024-01-20T14:04:38.3115586+00:00",
       "NumProgressed": 7276,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T17:05:01.2973684+00:00",
+      "NumProgressed": 7277,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11510,7 +11515,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "24",
@@ -11526,7 +11531,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "26",
@@ -11869,13 +11874,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7276,
+      "Progressed": 7277,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7276,
+      "Progressed": 7277,
       "Completed": 8
     }
   ],
@@ -11883,8 +11888,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:05:26.4297113+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:05:01.297368+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:00:20.6142278+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:05:26.4297868+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:59:34.2806694+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:05:01.2974681+00:00"
 }

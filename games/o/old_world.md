@@ -6,9 +6,9 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Play a Single Player Game | 6.00% | ~1,022 |
 | Explorer | 5.00% | ~851 |
 | Settler | 5.00% | ~851 |
-| Play a Single Player Game | 5.00% | ~851 |
 | Architect | 4.00% | ~681 |
 | Intrepid | 4.00% | ~681 |
 | Friendly Family | 4.00% | ~681 |
@@ -27,6 +27,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Strong | 3.00% | ~511 |
 | Warrior | 3.00% | ~511 |
 | Developing Cities | 3.00% | ~511 |
+| Strong Cities | 3.00% | ~511 |
 | Oracle | 3.00% | ~511 |
 | Pyramids | 3.00% | ~511 |
 | Learn to Play 1 | 3.00% | ~511 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Magnificent | 2.00% | ~340 |
 | Wise | 2.00% | ~340 |
 | Legendary Cities | 2.00% | ~340 |
-| Strong Cities | 2.00% | ~340 |
 | Able Difficulty | 2.00% | ~340 |
 | Furious Family | 2.00% | ~340 |
 | Acropolis | 2.00% | ~340 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,021 (Ranked 170)  
+Progressed: 17,025 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,14 +640,14 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,021 | 5 |
+| 2024-01-20 | 17,025 | 5 |
 ## Awards
-Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,943 (Ranked 224)  
+Max (Relaxing): 231  (Ranked 287)  
+Sum: 1,944 (Ranked 224)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
-| This game is Relaxing | 230 |
+| This game is Relaxing | 231 |
 | This game is Extremely Fun | 228 |
 | This game has Diverse Characters | 227 |
 | This game is Highly Recommended | 224 |
@@ -858,4 +858,4 @@ Diff (max vs sum): 63
 | 2024-01-17 | 4.65 | - | 230 | 1,936 |
 | 2024-01-18 | 4.65 | - | 230 | 1,937 |
 | 2024-01-19 | 4.65 | - | 230 | 1,942 |
-| 2024-01-20 | 4.65 | - | 230 | 1,943 |
+| 2024-01-20 | 4.65 | - | 231 | 1,944 |

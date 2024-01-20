@@ -2,13 +2,13 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 992,
+  "Ranking_Rating": 979,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 80,
+  "Ranking_EOS_NewCompleters": 79,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.17,
+  "Rating": 4.19,
   "RatingHistory": [
     {
       "Time": "2023-12-25T23:59:59.8062735+00:00",
@@ -109,15 +109,21 @@
       "Rating": 4.17,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-20T16:58:42.6858179+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2402,
+  "EOS_Progressed": 2404,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4870,6 +4876,11 @@
       "Time": "2024-01-20T16:10:52.1954143+00:00",
       "NumProgressed": 2402,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T17:10:16.6850124+00:00",
+      "NumProgressed": 2404,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4881,7 +4892,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1561
+      "UsersEstimate": 1563
     },
     {
       "ID": "ACH_02",
@@ -4897,7 +4908,7 @@
       "Name": "Powerful Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 528
+      "UsersEstimate": 529
     },
     {
       "ID": "ACH_04",
@@ -4993,7 +5004,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 552
+      "UsersEstimate": 553
     },
     {
       "ID": "ACH_16",
@@ -5001,7 +5012,7 @@
       "Name": "Essence Blow",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_17",
@@ -5041,7 +5052,7 @@
       "Name": "Big Bazar",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "ACH_22",
@@ -5073,7 +5084,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_26",
@@ -5081,7 +5092,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH_27",
@@ -5097,7 +5108,7 @@
       "Name": "I Found It",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "ACH_29",
@@ -5113,7 +5124,7 @@
       "Name": "Alchemist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ACH_31",
@@ -5121,7 +5132,7 @@
       "Name": "Stone Collection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 576
+      "UsersEstimate": 577
     },
     {
       "ID": "ACH_33",
@@ -5168,16 +5179,16 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2402,
+      "Progressed": 2404,
       "Completed": 5
     }
   ],
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-20T16:10:52.1954137+00:00",
+  "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
+  "LastChanged_Achievements": "2024-01-20T17:10:16.6850123+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-20T15:59:03.1077058+00:00",
-  "LastUpdate_Achievements": "2024-01-20T16:10:52.1954531+00:00"
+  "LastUpdate_Ratings": "2024-01-20T16:58:42.6858183+00:00",
+  "LastUpdate_Achievements": "2024-01-20T17:10:16.6850449+00:00"
 }
