@@ -12,36 +12,37 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~681 |
 | Friendly Family | 4.00% | ~681 |
 | Hanging Gardens | 4.00% | ~681 |
-| Able | 3.00% | ~510 |
-| Ambitious | 3.00% | ~510 |
-| Architect | 3.00% | ~510 |
-| Enlightened | 3.00% | ~510 |
-| Glorious | 3.00% | ~510 |
-| Good | 3.00% | ~510 |
-| Just | 3.00% | ~510 |
-| Keystone | 3.00% | ~510 |
-| Learned | 3.00% | ~510 |
-| Mason | 3.00% | ~510 |
-| Noble | 3.00% | ~510 |
-| Pioneer | 3.00% | ~510 |
-| Strong | 3.00% | ~510 |
-| Developing Cities | 3.00% | ~510 |
-| Oracle | 3.00% | ~510 |
-| Pyramids | 3.00% | ~510 |
-| Learn to Play 1 | 3.00% | ~510 |
-| Judaism | 3.00% | ~510 |
-| Babylonian Paganism | 3.00% | ~510 |
-| Greek Paganism | 3.00% | ~510 |
-| Naming Landmarks | 3.00% | ~510 |
-| Trade Caravan | 3.00% | ~510 |
+| Able | 3.00% | ~511 |
+| Ambitious | 3.00% | ~511 |
+| Architect | 3.00% | ~511 |
+| Enlightened | 3.00% | ~511 |
+| Glorious | 3.00% | ~511 |
+| Good | 3.00% | ~511 |
+| Just | 3.00% | ~511 |
+| Keystone | 3.00% | ~511 |
+| Learned | 3.00% | ~511 |
+| Mason | 3.00% | ~511 |
+| Noble | 3.00% | ~511 |
+| Pioneer | 3.00% | ~511 |
+| Strong | 3.00% | ~511 |
+| Warrior | 3.00% | ~511 |
+| Developing Cities | 3.00% | ~511 |
+| Oracle | 3.00% | ~511 |
+| Pyramids | 3.00% | ~511 |
+| Learn to Play 1 | 3.00% | ~511 |
+| Judaism | 3.00% | ~511 |
+| Babylonian Paganism | 3.00% | ~511 |
+| Greek Paganism | 3.00% | ~511 |
+| Naming Landmarks | 3.00% | ~511 |
+| Trade Caravan | 3.00% | ~511 |
 | Regicide | 2.00% | ~340 |
 | Drillmaster | 2.00% | ~340 |
 | Brilliant | 2.00% | ~340 |
 | Fountainhead | 2.00% | ~340 |
 | Great | 2.00% | ~340 |
 | Magnificent | 2.00% | ~340 |
-| Warrior | 2.00% | ~340 |
 | Wise | 2.00% | ~340 |
+| Legendary Cities | 2.00% | ~340 |
 | Strong Cities | 2.00% | ~340 |
 | Able Difficulty | 2.00% | ~340 |
 | Furious Family | 2.00% | ~340 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 1.00% | ~170 |
 | Valiant | 1.00% | ~170 |
 | Victorious | 1.00% | ~170 |
-| Legendary Cities | 1.00% | ~170 |
 | Good Difficulty | 1.00% | ~170 |
 | Just Difficulty | 1.00% | ~170 |
 | Artisans | 1.00% | ~170 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,016 (Ranked 170)  
+Progressed: 17,017 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,016 | 5 |
+| 2024-01-20 | 17,017 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,943 (Ranked 223)  

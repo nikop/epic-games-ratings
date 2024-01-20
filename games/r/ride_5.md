@@ -1,16 +1,16 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.59 (Ranked 453)  
+Rating: 4.59 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,826 |
-| First Love | 46.00% | ~1,680 |
+| Eat My Dust | 50.00% | ~1,827 |
+| First Love | 46.00% | ~1,681 |
 | Clean Race | 45.00% | ~1,644 |
 | Hear That Roar! | 43.00% | ~1,571 |
-| Bitter Rivalry | 31.00% | ~1,132 |
-| Rivals to the End | 31.00% | ~1,132 |
+| Bitter Rivalry | 31.00% | ~1,133 |
+| Rivals to the End | 31.00% | ~1,133 |
 | Champagne Spray | 30.00% | ~1,096 |
 | We're Going to Need a Bigger Garage | 28.00% | ~1,023 |
 | Quick Pit Stop | 23.00% | ~840 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 453)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,653 (Ranked 227)  
+Progressed: 3,654 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 3,636 | 0 |
 | 2024-01-18 | 3,645 | 0 |
 | 2024-01-19 | 3,649 | 0 |
-| 2024-01-20 | 3,653 | 0 |
+| 2024-01-20 | 3,654 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

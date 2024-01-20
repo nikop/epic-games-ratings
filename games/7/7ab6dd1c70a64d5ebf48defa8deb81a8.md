@@ -6,13 +6,13 @@ Rating: 4.17 (Ranked 991)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Break Out | 65.00% | ~1,559 |
-| Trinity | 35.00% | ~839 |
-| The Collector | 29.00% | ~695 |
-| Find Allies | 27.00% | ~647 |
-| A Taste of Wrath | 27.00% | ~647 |
-| Adventurer | 26.00% | ~623 |
-| Shatter Them All | 26.00% | ~623 |
-| Geared Up | 26.00% | ~623 |
+| Trinity | 35.00% | ~840 |
+| The Collector | 29.00% | ~696 |
+| Find Allies | 27.00% | ~648 |
+| A Taste of Wrath | 27.00% | ~648 |
+| Adventurer | 26.00% | ~624 |
+| Shatter Them All | 26.00% | ~624 |
+| Geared Up | 26.00% | ~624 |
 | Scholar | 25.00% | ~600 |
 | I Found It | 25.00% | ~600 |
 | Fashion Victim | 24.00% | ~576 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 991)
 | All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,398 (Ranked 247)  
+Progressed: 2,399 (Ranked 247)  
 Completed: 5 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-17 | 2,374 | 5 |
 | 2024-01-18 | 2,380 | 5 |
 | 2024-01-19 | 2,391 | 5 |
-| 2024-01-20 | 2,398 | 5 |
+| 2024-01-20 | 2,399 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

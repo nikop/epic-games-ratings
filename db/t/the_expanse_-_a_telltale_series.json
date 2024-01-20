@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19175,
+  "EOS_Progressed": 19177,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 244,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17860,6 +17860,11 @@
       "Time": "2024-01-20T08:04:03.7098847+00:00",
       "NumProgressed": 19175,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-20T11:04:07.171228+00:00",
+      "NumProgressed": 19177,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17904,7 +17909,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3643
+      "UsersEstimate": 3644
     },
     {
       "ID": "14",
@@ -18080,7 +18085,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2876
+      "UsersEstimate": 2877
     },
     {
       "ID": "7",
@@ -18151,22 +18156,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19175,
+      "Progressed": 19177,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5129,
-      "Completed": 1357
+      "Progressed": 5131,
+      "Completed": 1358
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-20T06:57:37.968972+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:03:51.8340933+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:04:07.1712278+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:57:22.2443924+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:03:51.8341747+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:57:25.7090778+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:04:07.1713566+00:00"
 }

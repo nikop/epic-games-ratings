@@ -4598,9 +4598,9 @@
       "ID": "ScientiaVincereTenebras",
       "SetID": "1n308hc",
       "Name": "Scientia Vincere Tenebras",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 174
+      "UsersEstimate": 189
     },
     {
       "ID": "Signatory",
@@ -4775,8 +4775,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-18T22:01:32.7392384+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:07:54.98148+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:08:24.1018569+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:57:05.288261+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:07:54.9815345+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:57:08.3620877+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:08:24.1019164+00:00"
 }

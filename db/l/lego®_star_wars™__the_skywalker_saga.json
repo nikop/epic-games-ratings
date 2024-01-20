@@ -2,13 +2,13 @@
   "ID": "9c59efaabb6a48f19b3485d5d9416032",
   "Name": "LEGO\u00AE Star Wars\u2122: The Skywalker Saga",
   "ProductSlug": "lego-star-wars-the-skywalker-saga",
-  "Ranking_Rating": 122,
+  "Ranking_Rating": 123,
   "Ranking_Popularity": 111,
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 238,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4301,9 +4301,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59631,
+  "EOS_Progressed": 59632,
   "EOS_Completed": 263,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 342,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19231,6 +19231,11 @@
       "Time": "2024-01-20T09:09:09.475917+00:00",
       "NumProgressed": 59631,
       "NumCompleted": 263
+    },
+    {
+      "Time": "2024-01-20T11:08:35.4892461+00:00",
+      "NumProgressed": 59632,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 45,
@@ -19266,7 +19271,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45916
+      "UsersEstimate": 45917
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19354,7 +19359,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 33393
+      "UsersEstimate": 33394
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -19394,7 +19399,7 @@
       "Name": "Return of the Jedi",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 17889
+      "UsersEstimate": 17890
     },
     {
       "ID": "COMPLETE_EPISODE_7",
@@ -19482,7 +19487,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33393
+      "UsersEstimate": 33394
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -19506,7 +19511,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57246
+      "UsersEstimate": 57247
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19522,7 +19527,7 @@
       "Name": "\u0027\u0027Raw, untamed power\u0027\u0027",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 4770
+      "UsersEstimate": 4771
     },
     {
       "ID": "JEDI_MIND_TRICKS_CANTINA",
@@ -19546,7 +19551,7 @@
       "Name": "\u0027\u0027Impressive, most impressive\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41145
+      "UsersEstimate": 41146
     },
     {
       "ID": "MINIKITS_ALL_LEVELS",
@@ -19594,22 +19599,22 @@
       "Name": "\u0027\u0027You think you\u0027re some kind of Jedi?\u0027\u0027",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 41145
+      "UsersEstimate": 41146
     }
   ],
   "AchievementSets": [
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59631,
+      "Progressed": 59632,
       "Completed": 263
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-19T23:02:54.9802416+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:08:05.4123527+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:08:35.4892457+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.2426522+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:02:31.4419515+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:08:05.4124354+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:02:41.204597+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:08:35.4893348+00:00"
 }

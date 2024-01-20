@@ -3,8 +3,8 @@
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
   "Ranking_EOS_Progress": 344,
-  "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_Completed": 172,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 627,
+  "EOS_Progressed": 628,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.12,
+  "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
     {
       "Time": "2023-11-01T08:06:18.9626896+00:00",
@@ -2094,6 +2094,11 @@
       "Time": "2024-01-20T01:55:38.877605+00:00",
       "NumProgressed": 627,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-20T11:08:27.1187774+00:00",
+      "NumProgressed": 628,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -2161,14 +2166,14 @@
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 627,
+      "Progressed": 628,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:07:57.8327594+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:08:27.1187771+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:20.6983457+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:00:16.3298581+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:07:57.8327825+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:02:36.9232109+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:08:27.1188015+00:00"
 }

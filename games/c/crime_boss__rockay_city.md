@@ -31,7 +31,7 @@ Rating: 3.96 (Ranked 1,066)
 | Moneybags | 0.60% | ~561 |
 | Olympus Ascended | 0.60% | ~561 |
 | Ding Dong | 0.60% | ~561 |
-| All that Glitters | 0.50% | ~109 |
+| All that Glitters | 0.50% | ~110 |
 | Rockay Raider | 0.40% | ~374 |
 | Groundhog Days | 0.40% | ~374 |
 | Cracked the Jack | 0.40% | ~374 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,066)
 | Full House | 0.10% | ~94 |
 | Geek Out | 0.10% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,551 (Ranked 106)  
+Progressed: 93,553 (Ranked 106)  
 Completed: 59 (0.06%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 59 (0.06%) (Ranked 337)
 | 2024-01-17 | 93,513 | 59 |
 | 2024-01-18 | 93,528 | 59 |
 | 2024-01-19 | 93,545 | 59 |
-| 2024-01-20 | 93,551 | 59 |
+| 2024-01-20 | 93,553 | 59 |
 ## Awards
 Max (Diverse Characters): 604  (Ranked 211)  
 Sum: 2,858 (Ranked 191)  

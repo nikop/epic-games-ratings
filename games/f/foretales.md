@@ -17,7 +17,7 @@
 | You sssaved me | 23.00% | ~69 |
 | Say hello to my little friends | 20.00% | ~60 |
 | Heal thyself | 20.00% | ~60 |
-| Gotcha | 18.00% | ~54 |
+| Gotcha | 19.00% | ~57 |
 | Double trouble | 16.00% | ~48 |
 | It's not cheating | 16.00% | ~48 |
 | Stronk | 15.00% | ~45 |

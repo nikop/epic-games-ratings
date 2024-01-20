@@ -4,7 +4,7 @@
   "ProductSlug": "haak-1401cb",
   "Ranking_EOS_Progress": 530,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -742,9 +742,9 @@
       "ID": "ach_44_braveHaak",
       "SetID": "16n29hg",
       "Name": "Brave Haak",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ach_45_fullExploreRate",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:09:16.4955604+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:09:49.5341956+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.3762964+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:57:05.302153+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:09:16.495596+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:57:06.7989009+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:09:49.5342445+00:00"
 }

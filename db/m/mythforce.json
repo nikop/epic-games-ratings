@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewPlayers": 188,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -872,9 +872,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6419,
+  "EOS_Progressed": 6420,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13517,6 +13517,11 @@
       "Time": "2024-01-20T09:05:24.1493374+00:00",
       "NumProgressed": 6419,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T11:04:21.8478115+00:00",
+      "NumProgressed": 6420,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13625,7 +13630,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1155
+      "UsersEstimate": 1156
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13639,9 +13644,9 @@
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1476
+      "UsersEstimate": 1541
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13712,15 +13717,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6419,
+      "Progressed": 6420,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-19T17:58:27.7315829+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:04:05.9083541+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:04:21.8478114+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:58:36.6514582+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:04:05.9084245+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:58:45.2610655+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:04:21.8478812+00:00"
 }

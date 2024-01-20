@@ -4,10 +4,10 @@
   "ProductSlug": "tropico-6",
   "Ranking_Rating": 347,
   "Ranking_Popularity": 373,
-  "Ranking_PopularitySum": 302,
+  "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1619,7 +1619,7 @@
   ],
   "EOS_Progressed": 7208,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17355,9 +17355,9 @@
       "ID": "ACH_WONDER_FRENCHCONNECTION",
       "SetID": "1p8ab95",
       "Name": "French Connection",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 432
+      "UsersEstimate": 505
     },
     {
       "ID": "ACH_WONDER_MUMMY",
@@ -17379,8 +17379,8 @@
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-20T06:57:27.4315868+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:03:50.5682685+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:04:05.8136271+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:57:15.5742375+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:03:50.5683438+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:57:18.6897973+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:04:05.8137324+00:00"
 }

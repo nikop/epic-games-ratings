@@ -53,9 +53,9 @@ Rating: 4.27 (Ranked 913)
 | Geronimo! | 4.00% | ~104 |
 | Homewrecker | 4.00% | ~104 |
 | Plank of Wood | 4.00% | ~104 |
+| Gotta Craft 'em All | 3.00% | ~78 |
 | Own Medicine | 2.00% | ~52 |
 | It Lives! It Sniffs! It Conquers! | 2.00% | ~52 |
-| Gotta Craft 'em All | 2.00% | ~52 |
 | Box Office Smash | 2.00% | ~52 |
 | Going Postal | 2.00% | ~52 |
 | Loot, Pillage & Craft | 2.00% | ~52 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 913)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,607 (Ranked 239)  
+Progressed: 2,607 (Ranked 240)  
 Completed: 13 (0.50%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |

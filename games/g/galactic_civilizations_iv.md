@@ -53,8 +53,8 @@ Number of Ratings: 429  (23.09.2022)
 | Diplomatic Victory! | 0.60% | ~45 |
 | Veteran Crew | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
+| Commodity Seller, Level 2 | 0.40% | ~30 |
 | Recruit a Dozen Leaders | 0.30% | ~23 |
-| Commodity Seller, Level 2 | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Commodity Trader - Level 2 | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
@@ -356,8 +356,8 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-20 | 7,570 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 385)  
-Sum: 702 (Ranked 313)  
-Diff (max vs sum): 72  
+Sum: 702 (Ranked 314)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 99 |

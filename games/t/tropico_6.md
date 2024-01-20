@@ -24,9 +24,9 @@ Number of Ratings: 398  (23.09.2022)
 | Double Trouble | 7.00% | ~505 |
 | Firestarter | 7.00% | ~505 |
 | Make Tropico Great Again! | 7.00% | ~505 |
+| French Connection | 7.00% | ~505 |
 | Don't Panic! | 6.00% | ~432 |
 | I Owe You Nothing | 6.00% | ~432 |
-| French Connection | 6.00% | ~432 |
 | Viva Tropico! | 5.00% | ~360 |
 | Computer Says "No" | 5.00% | ~360 |
 | Beware The Betman | 5.00% | ~360 |
@@ -325,8 +325,8 @@ Completed: 2 (0.03%) (Ranked 361)
 | 2024-01-20 | 7,208 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 373)  
-Sum: 769 (Ranked 302)  
-Diff (max vs sum): 71  
+Sum: 769 (Ranked 303)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 107 |

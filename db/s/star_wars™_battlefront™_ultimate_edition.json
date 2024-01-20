@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3050,
+  "EOS_Progressed": 3051,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 130,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8324,6 +8324,11 @@
       "Time": "2024-01-20T09:11:31.984128+00:00",
       "NumProgressed": 3050,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T11:10:16.9075202+00:00",
+      "NumProgressed": 3051,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8352,7 +8357,7 @@
       "Name": "Hold the line!",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_12",
@@ -8400,7 +8405,7 @@
       "Name": "\u0022Gonk? Gonk!\u0022",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_18",
@@ -8560,7 +8565,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2623
+      "UsersEstimate": 2624
     },
     {
       "ID": "achievement_36",
@@ -8576,7 +8581,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "achievement_38",
@@ -8592,7 +8597,7 @@
       "Name": "Ackbar\u0027s Elite",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_4",
@@ -8600,7 +8605,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "achievement_40",
@@ -8608,7 +8613,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1586
+      "UsersEstimate": 1587
     },
     {
       "ID": "achievement_41",
@@ -8616,7 +8621,7 @@
       "Name": "Judge me by my size, do you?",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "achievement_42",
@@ -8648,7 +8653,7 @@
       "Name": "This is a new day, a new beginning",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_46",
@@ -8696,7 +8701,7 @@
       "Name": "City in the Clouds",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_51",
@@ -8760,7 +8765,7 @@
       "Name": "Alternative solution",
       "Percentage": 1,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_59",
@@ -8784,7 +8789,7 @@
       "Name": "What will you become?",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_61",
@@ -8808,7 +8813,7 @@
       "Name": "Disturbed tranquility",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "achievement_7",
@@ -8839,13 +8844,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3050,
+      "Progressed": 3051,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3050,
+      "Progressed": 3051,
       "Completed": 1
     }
   ],
@@ -8853,8 +8858,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:09:43.0818055+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:10:16.9075198+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:59:53.6049372+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:09:43.0818963+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:00:04.2305337+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:10:16.9076137+00:00"
 }

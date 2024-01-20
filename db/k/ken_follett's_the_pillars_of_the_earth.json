@@ -3,7 +3,7 @@
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
   "Ranking_Rating": 596,
-  "Ranking_Popularity": 332,
+  "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 419,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 205,
@@ -572,7 +572,7 @@
   ],
   "EOS_Progressed": 17969,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 147,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -19105,8 +19105,8 @@
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:03:58.0479984+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:04:13.4593186+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:02:45.5969969+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:03:58.0480912+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:02:58.4121294+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:04:13.4594117+00:00"
 }

@@ -4985,9 +4985,9 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13321,
+  "EOS_Progressed": 13322,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20000,6 +20000,11 @@
       "Time": "2024-01-20T10:09:43.9434645+00:00",
       "NumProgressed": 13321,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T11:10:17.8014606+00:00",
+      "NumProgressed": 13322,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20043,7 +20048,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -20067,7 +20072,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "09_PathOfDemon",
@@ -20147,7 +20152,7 @@
       "Name": "Mythic Choices",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2131
+      "UsersEstimate": 2132
     },
     {
       "ID": "19_EqualToAroden",
@@ -20403,7 +20408,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -20938,21 +20943,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12103,
+      "Progressed": 12104,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13321,
+      "Progressed": 13322,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-19T23:59:19.3316718+00:00",
-  "LastChanged_Achievements": "2024-01-20T10:09:43.9434642+00:00",
+  "LastChanged_Achievements": "2024-01-20T11:10:17.8014604+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:58:32.3590479+00:00",
-  "LastUpdate_Achievements": "2024-01-20T10:09:43.9436262+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:58:39.7362274+00:00",
+  "LastUpdate_Achievements": "2024-01-20T11:10:17.8016308+00:00"
 }

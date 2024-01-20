@@ -9,13 +9,13 @@
 | Pigeon | 77.00% | ~108 |
 | Baited | 66.00% | ~92 |
 | "Swoosh" | 59.00% | ~83 |
-| The light at the end of the tunnel | 58.00% | ~81 |
-| Masochistic | 53.00% | ~74 |
-| Soft skin | 49.00% | ~69 |
+| The light at the end of the tunnel | 59.00% | ~83 |
+| Masochistic | 54.00% | ~76 |
+| Soft skin | 50.00% | ~70 |
 | Splash! | 49.00% | ~69 |
 | Squid game | 41.00% | ~57 |
 | Rock Solid | 34.00% | ~48 |
-| Sensitive soul | 33.00% | ~46 |
+| Sensitive soul | 34.00% | ~48 |
 | The beast within | 32.00% | ~45 |
 | It's getting dark | 32.00% | ~45 |
 | Rooftop | 29.00% | ~41 |

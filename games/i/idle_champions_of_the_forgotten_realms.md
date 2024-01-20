@@ -28,6 +28,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Crumbling Temple | 0.50% | ~1,274 |
 | Exploring Port Nyanzaru | 0.50% | ~1,274 |
 | The Contagious Curse | 0.50% | ~1,274 |
+| Escort to Waterdeep | 0.50% | ~1,274 |
 | The Overgrown Grove | 0.50% | ~1,106 |
 | When Tentacles Attack | 0.50% | ~1,106 |
 | Flames of Avernus | 0.50% | ~1,106 |
@@ -37,7 +38,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Building Trust | 0.40% | ~1,019 |
 | Useless Allies | 0.40% | ~1,019 |
 | Running of the Saurs | 0.40% | ~1,019 |
-| Escort to Waterdeep | 0.40% | ~1,019 |
 | Waterdeep Detours | 0.40% | ~1,019 |
 | Underdeep Cartography | 0.40% | ~1,019 |
 | Arcane Suppression | 0.40% | ~885 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,855 (Ranked 71)  
+Progressed: 254,862 (Ranked 71)  
 Completed: 2,627 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,7 +828,7 @@ Completed: 2,627 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,855 | 2,627 |
+| 2024-01-20 | 254,862 | 2,627 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,576 (Ranked 41)  

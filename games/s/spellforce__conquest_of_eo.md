@@ -36,8 +36,8 @@
 | Magic Academy | 12.00% | ~18 |
 | Break Free | 12.00% | ~18 |
 | Philo's Tale | 11.00% | ~17 |
+| Mage Teacher | 11.00% | ~17 |
 | A Master of Magic | 11.00% | ~17 |
-| Mage Teacher | 10.00% | ~15 |
 | Friend of Windholme | 10.00% | ~15 |
 | A Monopoly of Might | 9.00% | ~14 |
 | A Joke | 9.00% | ~14 |

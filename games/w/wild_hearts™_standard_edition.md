@@ -40,8 +40,8 @@
 | Style Seeker | 15.00% | ~208 |
 | Unrivaled in Arms | 15.00% | ~208 |
 | Karakuri Minato | 15.00% | ~208 |
+| Jack of All Trades | 14.00% | ~194 |
 | Canyon of Karakuri | 13.00% | ~180 |
-| Jack of All Trades | 13.00% | ~180 |
 | Karakuri Fortress | 11.00% | ~152 |
 | Tender Touch | 10.00% | ~139 |
 | Haven Hunter | 10.00% | ~139 |
