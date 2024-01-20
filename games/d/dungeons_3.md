@@ -1,7 +1,7 @@
 # Dungeons 3
 [Store](https://store.epicgames.com/en-US/p/dungeons-3)  
 [View Rawdata](../../db/d/dungeons_3.json)  
-Rating: 4.66 (Ranked 306)  
+Rating: 4.66 (Ranked 305)  
 Number of Ratings: 1,635  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -49,11 +49,11 @@ Number of Ratings: 1,635  (23.09.2022)
 | Please, no interruptions! | 10.00% | ~4,738 |
 | Use the terrain | 9.00% | ~4,264 |
 | Prison Break | 9.00% | ~4,264 |
+| Hearts of Iron | 8.00% | ~3,790 |
 | Master of Traps | 8.00% | ~3,790 |
 | Ignore The Level Designer’s Plan | 8.00% | ~3,790 |
 | Can’t stand to see an Ogre bleed | 8.00% | ~3,790 |
 | Lifesaver | 8.00% | ~3,790 |
-| Hearts of Iron | 7.00% | ~3,317 |
 | Hearts are trump | 7.00% | ~3,317 |
 | Spawner Killer | 6.00% | ~2,843 |
 | A little something extra | 6.00% | ~2,843 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~948 |
 | Sacrifices! | 2.00% | ~948 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,380 (Ranked 128)  
+Progressed: 47,380 (Ranked 129)  
 Completed: 373 (0.79%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |

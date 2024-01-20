@@ -2,12 +2,12 @@
   "ID": "213259527d2f41baa90cbe0ae5555271",
   "Name": "Dungeons 3",
   "ProductSlug": "dungeons-3",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 305,
   "Ranking_Popularity": 243,
   "Ranking_PopularitySum": 192,
-  "Ranking_EOS_Progress": 128,
+  "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 111,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3633,7 +3633,7 @@
   ],
   "EOS_Progressed": 47380,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 656,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -34321,9 +34321,9 @@
       "ID": "ACH_D3_Campaign_Darksword_2",
       "SetID": "cda475f",
       "Name": "Hearts of Iron",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3790
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_Completed",
@@ -34753,8 +34753,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-16T23:57:36.8848841+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:03:58.131537+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:05:04.2157207+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:59:13.8524962+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:03:58.1317236+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:00:34.8246592+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:05:04.2159394+00:00"
 }

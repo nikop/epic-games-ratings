@@ -5,29 +5,29 @@ Rating: 4.38 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~780,456 |
-| The ABCs | 43.00% | ~684,890 |
-| Home Run | 41.00% | ~653,034 |
-| Keeps Coming Off | 41.00% | ~653,034 |
-| Guts | 19.00% | ~302,626 |
-| Meat Grinder | 19.00% | ~302,626 |
-| Burning Man | 16.00% | ~254,843 |
-| Lived to Tell the Tale | 12.00% | ~191,132 |
-| Highlander | 10.00% | ~159,277 |
-| Unstoppable | 10.00% | ~159,277 |
-| Just a Scratch | 9.00% | ~143,349 |
-| Tough Nut to Crack | 6.00% | ~95,566 |
-| Yoink | 6.00% | ~95,566 |
+| Justice from the Grave | 49.00% | ~780,463 |
+| The ABCs | 43.00% | ~684,896 |
+| Home Run | 41.00% | ~653,041 |
+| Keeps Coming Off | 41.00% | ~653,041 |
+| Guts | 19.00% | ~302,629 |
+| Meat Grinder | 19.00% | ~302,629 |
+| Burning Man | 16.00% | ~254,845 |
+| Lived to Tell the Tale | 12.00% | ~191,134 |
+| Highlander | 10.00% | ~159,278 |
+| Unstoppable | 10.00% | ~159,278 |
+| Just a Scratch | 9.00% | ~143,350 |
+| Tough Nut to Crack | 6.00% | ~95,567 |
+| Yoink | 6.00% | ~95,567 |
 | Long List of Names | 4.00% | ~63,711 |
 | Pyromaniac | 4.00% | ~63,711 |
 | The Queen of Weapons | 4.00% | ~63,711 |
 | This isn’t Sparta | 3.00% | ~47,783 |
 | Put That Away | 3.00% | ~47,783 |
-| Crybaby | 2.00% | ~31,855 |
-| Eagle Eye | 2.00% | ~31,855 |
-| I Know Kung Fu | 2.00% | ~31,855 |
-| Poacher | 2.00% | ~31,855 |
-| You’re Welcome | 2.00% | ~31,855 |
+| Crybaby | 2.00% | ~31,856 |
+| Eagle Eye | 2.00% | ~31,856 |
+| I Know Kung Fu | 2.00% | ~31,856 |
+| Poacher | 2.00% | ~31,856 |
+| You’re Welcome | 2.00% | ~31,856 |
 | Chambermaid | 1.00% | ~15,928 |
 | Coming Through | 1.00% | ~15,928 |
 | Boxer | 0.90% | ~14,335 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 799)
 | That’s No Ordinary Cold | 0.10% | ~1,593 |
 | Stairway to Hell | 0.10% | ~1,593 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,592,767 (Ranked 7)  
+Progressed: 1,592,782 (Ranked 7)  
 Completed: 81 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,19 +319,19 @@ Completed: 81 (0.01%) (Ranked 379)
 | 2024-01-17 | 1,591,750 | 80 |
 | 2024-01-18 | 1,592,180 | 81 |
 | 2024-01-19 | 1,592,653 | 81 |
-| 2024-01-20 | 1,592,767 | 81 |
+| 2024-01-20 | 1,592,782 | 81 |
 ## Awards
 Max (Diverse Characters): 1,248  (Ranked 149)  
-Sum: 6,419 (Ranked 137)  
+Sum: 6,425 (Ranked 137)  
 Diff (max vs sum): 12  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 1,248 |
 | This game has Challenging Combat | 1,065 |
-| This game is Highly Recommended | 978 |
+| This game is Highly Recommended | 982 |
 | This game has Amazing Characters | 830 |
 | This game is Extremely Fun | 820 |
-| This game has Competitive Players | 793 |
+| This game has Competitive Players | 795 |
 | This game has Amazing Storytelling | 685 |
 | This game has Quickly Understood Controls | 132 |
 | This game is Great for Quick Sessions | 28 |
@@ -618,3 +618,4 @@ Diff (max vs sum): 12
 | 2024-01-17 | 4.38 | 1,236 | 6,370 |
 | 2024-01-18 | 4.38 | 1,243 | 6,396 |
 | 2024-01-19 | 4.38 | 1,248 | 6,419 |
+| 2024-01-20 | 4.38 | 1,248 | 6,425 |

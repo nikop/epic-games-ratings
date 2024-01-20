@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7848,
+  "EOS_Progressed": 7849,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 374,
+  "EOS_NewPlayers": 373,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -8764,6 +8764,11 @@
       "Time": "2024-01-20T05:04:16.7167229+00:00",
       "NumProgressed": 7848,
       "NumCompleted": 73
+    },
+    {
+      "Time": "2024-01-20T07:05:09.6937469+00:00",
+      "NumProgressed": 7849,
+      "NumCompleted": 73
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -8800,7 +8805,7 @@
       "Name": "Unlock the gate",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 2511
+      "UsersEstimate": 2512
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -8822,9 +8827,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_TV",
       "SetID": "4d50jip",
       "Name": "Turn on the TV",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 4552
+      "UsersEstimate": 4474
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -8832,7 +8837,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6200
+      "UsersEstimate": 6201
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -8903,14 +8908,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7848,
+      "Progressed": 7849,
       "Completed": 73
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:04:02.0491217+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:05:09.6937466+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:17.0248408+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:00:10.8000421+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:04:02.049174+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:02:00.1016778+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:05:09.6938443+00:00"
 }

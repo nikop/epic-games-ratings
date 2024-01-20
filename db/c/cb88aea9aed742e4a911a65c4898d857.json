@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -431,9 +431,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11882,
+  "EOS_Progressed": 11884,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 653,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5556,6 +5556,11 @@
       "Time": "2024-01-20T06:09:53.3320722+00:00",
       "NumProgressed": 11882,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T07:11:16.7468804+00:00",
+      "NumProgressed": 11884,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5664,7 +5669,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1069
+      "UsersEstimate": 1070
     },
     {
       "ID": "15_Pentakill",
@@ -5680,7 +5685,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1782
+      "UsersEstimate": 1783
     },
     {
       "ID": "17_TheExemplar",
@@ -5712,7 +5717,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "21_PreciseDefense",
@@ -5728,7 +5733,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "23_DynastyRestored",
@@ -5768,7 +5773,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -5784,7 +5789,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "30_The GreatestExploration",
@@ -5792,7 +5797,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 356
+      "UsersEstimate": 357
     },
     {
       "ID": "31_DontTouchThis",
@@ -6087,7 +6092,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11882,
+      "Progressed": 11884,
       "Completed": 1
     }
   ],
@@ -6095,8 +6100,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-19T17:59:53.1997648+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:09:53.3320716+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:11:16.7468802+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:59:54.1165629+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:09:53.3321314+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:01:35.3477411+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:11:16.7469694+00:00"
 }

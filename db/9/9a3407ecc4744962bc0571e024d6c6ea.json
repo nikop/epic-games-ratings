@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -4014,9 +4014,9 @@
       "ID": "ABetterTomorrow",
       "SetID": "3ai6ml8",
       "Name": "A Better Tomorrow",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 667
+      "UsersEstimate": 680
     },
     {
       "ID": "BostonHayDay",
@@ -4181,8 +4181,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:09:45.0695728+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:11:06.0895621+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.0988435+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:02.0667235+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:09:45.0696031+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:57:09.7512602+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:11:06.0895939+00:00"
 }

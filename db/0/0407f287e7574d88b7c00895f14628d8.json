@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 228,
+  "EOS_Progressed": 229,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -959,6 +959,11 @@
       "Time": "2024-01-20T06:05:33.3688402+00:00",
       "NumProgressed": 228,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T07:07:20.0453315+00:00",
+      "NumProgressed": 229,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -1001,9 +1006,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 135
     },
     {
       "ID": "dl2",
@@ -1049,9 +1054,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "fw2",
@@ -1099,7 +1104,7 @@
       "Name": "Civilized Land",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "j2",
@@ -1139,7 +1144,7 @@
       "Name": "Full Load",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "jk1",
@@ -1169,9 +1174,9 @@
       "ID": "jz1",
       "SetID": "b1ggf28",
       "Name": "Builder",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 55
     },
     {
       "ID": "jz2",
@@ -1195,7 +1200,7 @@
       "Name": "Advanced Technology",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "k2",
@@ -1209,9 +1214,9 @@
       "ID": "k3",
       "SetID": "b1ggf28",
       "Name": "Technology Town",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 7
     },
     {
       "ID": "m1",
@@ -1283,7 +1288,7 @@
       "Name": "Against the Cold",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "w2",
@@ -1315,7 +1320,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "x3",
@@ -1378,14 +1383,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 228,
+      "Progressed": 229,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:05:33.3688395+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:07:20.0453311+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:02:50.7633937+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:05:33.3689142+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:03:03.1596017+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:07:20.0453708+00:00"
 }

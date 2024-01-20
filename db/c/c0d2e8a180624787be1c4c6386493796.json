@@ -2,12 +2,12 @@
   "ID": "c0d2e8a180624787be1c4c6386493796",
   "Name": "Kingdom Rush Vengeance",
   "ProductSlug": "kingdom-rush-vengeance-4bd969",
-  "Ranking_Rating": 7,
+  "Ranking_Rating": 6,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 212,
-  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -22,11 +22,17 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.9,
+  "Rating": 4.91,
   "RatingHistory": [
     {
       "Time": "2024-01-11T05:00:16.5712266+00:00",
       "Rating": 4.9,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-20T06:58:13.5555457+00:00",
+      "Rating": 4.91,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -1782,9 +1788,9 @@
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
       "SetID": "caeik3h",
       "Name": "Nothing is beneath me!",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 79
     },
     {
       "ID": "KR4_ACHIEVEMENT_INFERNALDEN",
@@ -2140,9 +2146,9 @@
   "FirstSeen": "2023-09-30T07:59:56.3493009+00:00",
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
-  "LastChanged": "2024-01-11T05:00:16.5712265+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:04:21.598139+00:00",
+  "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:05:38.3111487+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:43.6149261+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:04:21.5982436+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:58:13.5555462+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:05:38.3112479+00:00"
 }

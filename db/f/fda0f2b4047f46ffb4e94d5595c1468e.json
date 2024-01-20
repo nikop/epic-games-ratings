@@ -2,7 +2,7 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 107,
   "Ranking_EOS_Progress": 151,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.57,
+  "Rating": 4.58,
   "RatingHistory": [
     {
       "Time": "2023-09-20T09:57:46.6053491+00:00",
@@ -5317,10 +5317,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 8969,
       "NumberOfAwardsMax": 2999
+    },
+    {
+      "Time": "2024-01-20T07:02:52.677024+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 8976,
+      "NumberOfAwardsMax": 2999
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8969,
+  "NumberOfAwards": 8976,
   "NumberOfAwardsMax": 2999,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5382,7 +5388,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 574
+      "Count": 581
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -5399,7 +5405,7 @@
   ],
   "EOS_Progressed": 24028,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17615,9 +17621,9 @@
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-20T01:50:06.9659122+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:08:42.4939487+00:00",
+  "LastChanged": "2024-01-20T07:02:52.6770239+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:09:08.0784049+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:02:43.4285751+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:08:42.4940721+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:02:52.6770247+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:09:08.0784888+00:00"
 }

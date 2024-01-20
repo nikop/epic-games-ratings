@@ -4,7 +4,7 @@
   "ProductSlug": "battle-ram-d001fd",
   "Ranking_EOS_Progress": 406,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 494,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-04T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 305,
+  "EOS_Progressed": 306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1319,6 +1319,11 @@
       "Time": "2024-01-12T02:28:48.5570777+00:00",
       "NumProgressed": 305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T07:05:36.3596787+00:00",
+      "NumProgressed": 306,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 22,
@@ -1330,15 +1335,15 @@
       "Name": "START",
       "Percentage": 92,
       "XP": 45,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "ach_10",
       "SetID": "392n4e7",
       "Name": "Senior warrant officer Baran 3rd class",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_11",
@@ -1394,15 +1399,15 @@
       "Name": "Lieutenant Colonel Baran",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ach_18",
       "SetID": "392n4e7",
       "Name": "Colonel Baran",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 24
     },
     {
       "ID": "ach_19",
@@ -1418,7 +1423,7 @@
       "Name": "Ram Corporal",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "ach_20",
@@ -1450,7 +1455,7 @@
       "Name": "Ram Sergeant",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ach_4",
@@ -1458,31 +1463,31 @@
       "Name": "Ram Staff Sergeant",
       "Percentage": 69,
       "XP": 30,
-      "UsersEstimate": 210
+      "UsersEstimate": 211
     },
     {
       "ID": "ach_5",
       "SetID": "392n4e7",
       "Name": "Ram First Sergeant",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 30,
-      "UsersEstimate": 189
+      "UsersEstimate": 187
     },
     {
       "ID": "ach_6",
       "SetID": "392n4e7",
       "Name": "Senior Sergeant Baran",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_7",
       "SetID": "392n4e7",
       "Name": "Sergeant Major Baran",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_8",
@@ -1490,7 +1495,7 @@
       "Name": "Senior warrant officer Baran 1st class",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "ach_9",
@@ -1498,21 +1503,21 @@
       "Name": "Senior warrant officer Baran 2nd class",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     }
   ],
   "AchievementSets": [
     {
       "ID": "392n4e7",
       "IsBase": true,
-      "Progressed": 305,
+      "Progressed": 306,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-10T14:58:14.6297429+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:08.6528344+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:04:20.186718+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:05:36.3596785+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.8361257+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:59:04.5207309+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:04:20.1867394+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:00:17.5985558+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:05:36.3596992+00:00"
 }

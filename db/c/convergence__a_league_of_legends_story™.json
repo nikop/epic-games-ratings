@@ -2,12 +2,12 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 305,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
-  "Ranking_EOS_Progress": 283,
+  "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1345,
+  "EOS_Progressed": 1346,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4131,6 +4131,11 @@
       "Time": "2024-01-20T06:09:58.842257+00:00",
       "NumProgressed": 1345,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T07:11:23.3384689+00:00",
+      "NumProgressed": 1346,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4166,7 +4171,7 @@
       "Name": "Treasure Trove",
       "Percentage": 12,
       "XP": 75,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ChronobreakMultiKill1",
@@ -4174,7 +4179,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4190,7 +4195,7 @@
       "Name": "Like Clockwork",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "ClovemaryGift",
@@ -4222,7 +4227,7 @@
       "Name": "Cultivair Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "EntresolChests1",
@@ -4254,7 +4259,7 @@
       "Name": "Fairgrounds Explorer",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "FutureEkko1Defeated",
@@ -4302,7 +4307,7 @@
       "Name": "Rail Rat",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 484
+      "UsersEstimate": 485
     },
     {
       "ID": "HexlockGift",
@@ -4342,7 +4347,7 @@
       "Name": "Cartographer",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "NoCritterSump",
@@ -4454,7 +4459,7 @@
       "Name": "Golem Chaser",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "SkillCompletion1",
@@ -4486,7 +4491,7 @@
       "Name": "Sump Explorer",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "SyronGift",
@@ -4502,7 +4507,7 @@
       "Name": "Check Your Pulse",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "TheaterChests1",
@@ -4565,7 +4570,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1345,
+      "Progressed": 1346,
       "Completed": 8
     }
   ],
@@ -4573,8 +4578,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:09:58.8422565+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:11:23.3384687+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:48.0631308+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:09:58.8423016+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:58:20.097231+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:11:23.3385169+00:00"
 }

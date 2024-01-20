@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 530,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 158,
@@ -21072,9 +21072,9 @@
       "ID": "ACH08",
       "SetID": "4ck5mbe",
       "Name": "Pay \u0027n\u0027 Spray",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 9863
+      "UsersEstimate": 10060
     },
     {
       "ID": "ACH09",
@@ -21305,8 +21305,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-19T13:59:24.1446177+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:09:50.016172+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:11:12.4948504+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:59:19.3707147+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:09:50.0162629+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:00:43.1600508+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:11:12.4949853+00:00"
 }

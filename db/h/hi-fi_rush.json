@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 128,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -281,7 +281,7 @@
   ],
   "EOS_Progressed": 17453,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 512,
+  "EOS_NewPlayers": 503,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13235,9 +13235,9 @@
       "ID": "Ach055",
       "SetID": "12n4k20",
       "Name": "You ever parry a volcano?",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 349
+      "UsersEstimate": 524
     },
     {
       "ID": "Ach056",
@@ -13386,8 +13386,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:04:04.1965913+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:05:12.7204079+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:58:04.3856385+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:04:04.1967329+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:58:46.006729+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:05:12.7205541+00:00"
 }

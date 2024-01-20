@@ -6,7 +6,7 @@ Rating: 4.50 (Ranked 618)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 11.00% | ~3,720 |
-| Meticulously Efficient | 9.00% | ~3,043 |
+| Meticulously Efficient | 9.00% | ~3,044 |
 | Advancement | 8.00% | ~2,705 |
 | Swift Rift Removers | 7.00% | ~2,367 |
 | I collect Spores, Molds, and Fungi | 6.00% | ~2,029 |
@@ -22,18 +22,18 @@ Rating: 4.50 (Ranked 618)
 | Daily Dose | 4.00% | ~1,353 |
 | Ghostbuster In Training | 4.00% | ~1,353 |
 | Right back at ya | 4.00% | ~1,353 |
-| Animated | 3.00% | ~1,014 |
-| Back Off | 3.00% | ~1,014 |
-| We have the best insurance | 3.00% | ~1,014 |
-| Ectoplasmic Entity | 3.00% | ~1,014 |
-| Icing on the Cake | 3.00% | ~1,014 |
-| Legions | 3.00% | ~1,014 |
-| Pesky Jerks | 3.00% | ~1,014 |
-| Rift Destroyer | 3.00% | ~1,014 |
-| Seasoned | 3.00% | ~1,014 |
-| Side Hustle | 3.00% | ~1,014 |
-| Summoner | 3.00% | ~1,014 |
-| Welcome to the Crew | 3.00% | ~1,014 |
+| Animated | 3.00% | ~1,015 |
+| Back Off | 3.00% | ~1,015 |
+| We have the best insurance | 3.00% | ~1,015 |
+| Ectoplasmic Entity | 3.00% | ~1,015 |
+| Icing on the Cake | 3.00% | ~1,015 |
+| Legions | 3.00% | ~1,015 |
+| Pesky Jerks | 3.00% | ~1,015 |
+| Rift Destroyer | 3.00% | ~1,015 |
+| Seasoned | 3.00% | ~1,015 |
+| Side Hustle | 3.00% | ~1,015 |
+| Summoner | 3.00% | ~1,015 |
+| Welcome to the Crew | 3.00% | ~1,015 |
 | Collector | 2.00% | ~676 |
 | Escape Artist | 2.00% | ~676 |
 | Reckless | 2.00% | ~676 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 618)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,816 (Ranked 142)  
+Progressed: 33,818 (Ranked 142)  
 Completed: 71 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,10 +332,10 @@ Completed: 71 (0.21%) (Ranked 283)
 | 2024-01-17 | 33,760 | 71 |
 | 2024-01-18 | 33,781 | 71 |
 | 2024-01-19 | 33,801 | 71 |
-| 2024-01-20 | 33,816 | 71 |
+| 2024-01-20 | 33,818 | 71 |
 ## Awards
 Max (Great for Beginners): 329  (Ranked 257)  
-Sum: 2,978 (Ranked 188)  
+Sum: 2,980 (Ranked 188)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
@@ -344,8 +344,8 @@ Diff (max vs sum): 69
 | This game has Diverse Characters | 314 |
 | This game has Amazing Storytelling | 298 |
 | This game is Highly Recommended | 296 |
+| This game has Competitive Players | 292 |
 | This game is Extremely Fun | 290 |
-| This game has Competitive Players | 290 |
 | This game is Relaxing | 284 |
 | This game has Amazing Characters | 276 |
 | This game has Quickly Understood Controls | 273 |
@@ -621,4 +621,4 @@ Diff (max vs sum): 69
 | 2024-01-16 | 4.50 | 328 | 2,967 |
 | 2024-01-18 | 4.50 | 328 | 2,972 |
 | 2024-01-19 | 4.50 | 329 | 2,975 |
-| 2024-01-20 | 4.50 | 329 | 2,978 |
+| 2024-01-20 | 4.50 | 329 | 2,980 |

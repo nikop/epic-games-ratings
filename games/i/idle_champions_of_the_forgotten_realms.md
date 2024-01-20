@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 2.00% | ~5,097 |
 | The Ring of Regeneration | 1.00% | ~2,548 |
 | Are Ya Chicken? | 1.00% | ~2,548 |
-| Were-verpowered | 0.90% | ~2,293 |
+| Were-verpowered | 0.90% | ~2,294 |
 | Seeking Allies | 0.80% | ~2,039 |
 | Mad Cow Disease | 0.80% | ~2,039 |
 | Friendly Imps | 0.80% | ~2,039 |
@@ -45,22 +45,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.40% | ~884 |
 | Chaos Theory | 0.40% | ~884 |
 | Mind Spike | 0.40% | ~884 |
-| The Silken Swamp | 0.30% | ~764 |
-| Supply Run | 0.30% | ~764 |
-| Street War | 0.30% | ~764 |
-| March of the Undead | 0.30% | ~764 |
-| No Time To Rest | 0.30% | ~764 |
-| Invisible Shadows | 0.30% | ~764 |
-| The Dinner Party | 0.30% | ~764 |
-| The Botched Kidnapping | 0.30% | ~764 |
-| The Death Curse | 0.30% | ~764 |
-| A Tale of Two Cities | 0.30% | ~764 |
-| Flying Monkey Skulls of Doom | 0.30% | ~764 |
-| Close Escort | 0.30% | ~764 |
-| Constant Banditry | 0.30% | ~764 |
-| Overdue Rendezvous | 0.30% | ~764 |
-| The Templar's Camp | 0.30% | ~764 |
-| Rescue in the Jungle | 0.30% | ~764 |
+| The Silken Swamp | 0.30% | ~765 |
+| Supply Run | 0.30% | ~765 |
+| Street War | 0.30% | ~765 |
+| March of the Undead | 0.30% | ~765 |
+| No Time To Rest | 0.30% | ~765 |
+| Invisible Shadows | 0.30% | ~765 |
+| The Dinner Party | 0.30% | ~765 |
+| The Botched Kidnapping | 0.30% | ~765 |
+| The Death Curse | 0.30% | ~765 |
+| A Tale of Two Cities | 0.30% | ~765 |
+| Flying Monkey Skulls of Doom | 0.30% | ~765 |
+| Close Escort | 0.30% | ~765 |
+| Constant Banditry | 0.30% | ~765 |
+| Overdue Rendezvous | 0.30% | ~765 |
+| The Templar's Camp | 0.30% | ~765 |
+| Rescue in the Jungle | 0.30% | ~765 |
 | Pros and CONs | 0.20% | ~510 |
 | Tall Tales | 0.20% | ~442 |
 | Wet Feet | 0.20% | ~510 |
@@ -87,6 +87,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Backtracking Through Barovia | 0.20% | ~510 |
 | Nimble Escape | 0.20% | ~510 |
 | Fugitives | 0.20% | ~510 |
+| Excavating History | 0.20% | ~510 |
 | Premature Betrayal | 0.20% | ~510 |
 | Hopelessly Lost | 0.20% | ~510 |
 | Enter the Sargauth | 0.20% | ~510 |
@@ -299,7 +300,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | From The Shadows | 0.10% | ~255 |
 | Spined Nuisances | 0.10% | ~255 |
 | Twilight Twist | 0.10% | ~221 |
-| Excavating History | 0.10% | ~255 |
 | Screams of the Dead | 0.10% | ~255 |
 | Frantic Excavation | 0.10% | ~255 |
 | Birds of a Feather | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,832 (Ranked 71)  
+Progressed: 254,836 (Ranked 71)  
 Completed: 2,627 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,7 +828,7 @@ Completed: 2,627 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,832 | 2,627 |
+| 2024-01-20 | 254,836 | 2,627 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,576 (Ranked 41)  

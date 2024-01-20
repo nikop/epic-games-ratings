@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 531,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 160,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.54,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-08-26T16:57:34.4680467+00:00",
@@ -343,15 +343,21 @@
       "Rating": 4.54,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-20T06:57:37.9689721+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19172,
+  "EOS_Progressed": 19173,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 251,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17844,6 +17850,11 @@
       "Time": "2024-01-20T06:03:49.0532417+00:00",
       "NumProgressed": 19172,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-20T07:04:52.1178867+00:00",
+      "NumProgressed": 19173,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17976,7 +17987,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1726
     },
     {
       "ID": "24",
@@ -18135,22 +18146,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19172,
+      "Progressed": 19173,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5126,
+      "Progressed": 5127,
       "Completed": 1357
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
-  "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:03:49.0532411+00:00",
+  "LastChanged": "2024-01-20T06:57:37.968972+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:04:52.1178864+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:20.5436698+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:03:49.0533699+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:57:37.9689724+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:04:52.1179948+00:00"
 }

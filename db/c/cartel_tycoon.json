@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 299,
   "Ranking_EOS_Completed": 267,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -313,9 +313,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1050,
+  "EOS_Progressed": 1051,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.29,
   "EosHistory": [
@@ -3778,6 +3778,11 @@
       "Time": "2024-01-19T23:05:22.5416976+00:00",
       "NumProgressed": 1050,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T07:06:26.1059598+00:00",
+      "NumProgressed": 1051,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3845,7 +3850,7 @@
       "Name": "Spreading Fear",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "pack-and-sell",
@@ -3861,7 +3866,7 @@
       "Name": "Don\u0027t Let Mom Know You\u0027re A Druglord",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "product-profit",
@@ -3909,7 +3914,7 @@
       "Name": "Camellos",
       "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "unlock-residences",
@@ -3917,7 +3922,7 @@
       "Name": "Pampered Life",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "upgrade-building",
@@ -3925,7 +3930,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 840
+      "UsersEstimate": 841
     },
     {
       "ID": "use-submarine",
@@ -3933,22 +3938,22 @@
       "Name": "Operation Odessa",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     }
   ],
   "AchievementSets": [
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1050,
+      "Progressed": 1051,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-17T04:03:24.3401457+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:04:55.9393975+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:06:26.1059594+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.7922983+00:00",
-  "LastUpdate_Ratings": "2024-01-20T06:02:48.8451216+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:04:55.9394334+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:03:00.4129865+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:06:26.1060023+00:00"
 }

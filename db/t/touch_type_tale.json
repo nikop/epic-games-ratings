@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 279,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4052,
+  "EOS_Progressed": 4053,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5764,6 +5764,11 @@
       "Time": "2024-01-20T06:04:00.7374733+00:00",
       "NumProgressed": 4052,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-20T07:05:07.9257374+00:00",
+      "NumProgressed": 4053,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5823,7 +5828,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3525
+      "UsersEstimate": 3526
     },
     {
       "ID": "campaign10",
@@ -5911,7 +5916,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3039
+      "UsersEstimate": 3040
     },
     {
       "ID": "campaign20",
@@ -5935,7 +5940,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "campaign5",
@@ -5983,7 +5988,7 @@
       "Name": "Do the Splits",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 1499
+      "UsersEstimate": 1500
     },
     {
       "ID": "scenario2",
@@ -5991,7 +5996,7 @@
       "Name": "Full Employment",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 729
+      "UsersEstimate": 730
     },
     {
       "ID": "scenario3",
@@ -6038,7 +6043,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4052,
+      "Progressed": 4053,
       "Completed": 11
     }
   ],
@@ -6046,8 +6051,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-16T03:01:32.4269328+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:04:00.7374728+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:05:07.9257372+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:46.778469+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:58:05.5429864+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:04:00.7375173+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:58:47.6833651+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:05:07.9258118+00:00"
 }

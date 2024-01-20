@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,140 |
-| Lost and Found | 9.00% | ~733 |
+| Malpractice Assurance | 14.00% | ~1,141 |
+| Lost and Found | 9.00% | ~734 |
 | Autodidact | 8.00% | ~10,662 |
-| This Belongs in a Museum | 7.00% | ~9,329 |
-| Creep and Sleep | 7.00% | ~9,329 |
-| Overdue Notice | 7.00% | ~9,329 |
+| This Belongs in a Museum | 7.00% | ~9,330 |
+| Creep and Sleep | 7.00% | ~9,330 |
+| Overdue Notice | 7.00% | ~9,330 |
 | This guy... again? | 7.00% | ~570 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~7,997 |
 | Serenity Now! | 6.00% | ~7,997 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,664 |
 | FNG | 5.00% | ~6,664 |
 | Nope | 5.00% | ~6,664 |
-| Friends 'Til the End | 5.00% | ~407 |
+| Friends 'Til the End | 5.00% | ~408 |
 | Resurrection | 4.00% | ~5,331 |
 | Unleash Hell | 4.00% | ~5,331 |
 | Funny Guy | 4.00% | ~5,331 |
@@ -65,9 +65,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 1.00% | ~1,333 |
 | Shrine of Reflection | 1.00% | ~1,333 |
 | Triage | 1.00% | ~1,333 |
-| No Mercy | 1.00% | ~81 |
-| Slap on the Wrist | 1.00% | ~81 |
-| For Old Time' Sake | 1.00% | ~81 |
+| No Mercy | 1.00% | ~82 |
+| Slap on the Wrist | 1.00% | ~82 |
+| For Old Time' Sake | 1.00% | ~82 |
 | Et Tu, Riposte? | 0.90% | ~73 |
 | The World As It Was | 0.80% | ~1,066 |
 | A Life Well Lived | 0.70% | ~933 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,276 (Ranked 92)  
+Progressed: 133,281 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,276 | 5 |
+| 2024-01-20 | 133,281 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
 Sum: 21,770 (Ranked 58)  

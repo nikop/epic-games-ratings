@@ -2,12 +2,12 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 324,
+  "Ranking_Rating": 323,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 223,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 137,
+  "Ranking_EOS_NewPlayers": 136,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2266,10 +2266,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1942,
       "NumberOfAwardsMax": 230
+    },
+    {
+      "Time": "2024-01-20T06:57:18.3616454+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1943,
+      "NumberOfAwardsMax": 230
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1942,
+  "NumberOfAwards": 1943,
   "NumberOfAwardsMax": 230,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2307,7 +2313,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 223
+      "Count": 224
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -2346,7 +2352,7 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17014,
+  "EOS_Progressed": 17015,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 421,
   "EOS_NewCompleters": 0,
@@ -20561,6 +20567,11 @@
       "Time": "2024-01-20T06:10:02.3575206+00:00",
       "NumProgressed": 17014,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T07:11:27.5993729+00:00",
+      "NumProgressed": 17015,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22722,9 +22733,9 @@
       "ID": "ACHIEVEMENT_VICTORY_NO_UNDO",
       "SetID": "9201eeb",
       "Name": "No Undo",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_ONE_CITY_CHALLENGE",
@@ -23435,21 +23446,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17014,
+      "Progressed": 17015,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17014,
+      "Progressed": 17015,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-19T22:57:03.6128315+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:10:02.3575201+00:00",
+  "LastChanged": "2024-01-20T06:57:18.3616453+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:11:27.5993727+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:07.7126828+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:10:02.358491+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:57:18.3616458+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:11:27.600325+00:00"
 }

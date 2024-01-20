@@ -8,8 +8,8 @@
 | Duet Desert | 5.00% | ~50 |
 | Fermata | 4.00% | ~40 |
 | Cadenza | 3.00% | ~30 |
+| Maestro Mountain | 3.00% | ~30 |
 | Staccato | 2.00% | ~20 |
-| Maestro Mountain | 2.00% | ~20 |
 | Fugue Forest | 2.00% | ~20 |
 | Tempo | 1.00% | ~10 |
 | Cadence | 1.00% | ~10 |

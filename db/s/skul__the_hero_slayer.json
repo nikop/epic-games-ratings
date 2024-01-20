@@ -1591,7 +1591,7 @@
   ],
   "EOS_Progressed": 14877,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10576,9 +10576,9 @@
       "ID": "SavedElderEnt",
       "SetID": "97dk767",
       "Name": "Rescued Elder Ent",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 8926
+      "UsersEstimate": 9075
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10648,8 +10648,8 @@
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-19T20:58:35.3265867+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:09:10.6096055+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:10:17.9073011+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:58:01.5711319+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:09:10.6096518+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:58:42.3781094+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:10:17.9073537+00:00"
 }

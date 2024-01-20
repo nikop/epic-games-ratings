@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.55 (Ranked 531)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,7 +19,7 @@ Rating: 4.54 (Ranked 552)
 | Call it Even | 10.00% | ~1,917 |
 | Safe Cracker | 10.00% | ~513 |
 | Madame Undersecretary | 10.00% | ~513 |
-| Heal Thy Medic | 9.00% | ~1,725 |
+| Heal Thy Medic | 9.00% | ~1,726 |
 | Data Archivist | 8.00% | ~1,534 |
 | Drug Gifter | 8.00% | ~1,534 |
 | Thorston Mayer | 8.00% | ~1,534 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 552)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,172 (Ranked 160)  
+Progressed: 19,173 (Ranked 160)  
 Completed: 66 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 66 (0.34%) (Ranked 254)
 | 2024-01-17 | 19,116 | 66 |
 | 2024-01-18 | 19,145 | 66 |
 | 2024-01-19 | 19,168 | 66 |
-| 2024-01-20 | 19,172 | 66 |
+| 2024-01-20 | 19,173 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -279,3 +279,4 @@ Completed: 66 (0.34%) (Ranked 254)
 | 2024-01-08 | 4.52 | 0 | 0 |
 | 2024-01-11 | 4.53 | 0 | 0 |
 | 2024-01-14 | 4.54 | 0 | 0 |
+| 2024-01-20 | 4.55 | 0 | 0 |

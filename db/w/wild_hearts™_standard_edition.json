@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1386,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4948,8 +4948,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:09:32.2449612+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:10:48.2742911+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:58:34.9886307+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:09:32.2450114+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:59:30.5789374+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:10:48.2743612+00:00"
 }

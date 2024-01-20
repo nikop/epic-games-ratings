@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139681,
+  "EOS_Progressed": 139682,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 727,
+  "EOS_NewPlayers": 720,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29206,6 +29206,11 @@
       "Time": "2024-01-20T06:08:43.9371603+00:00",
       "NumProgressed": 139681,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-20T07:09:10.0663645+00:00",
+      "NumProgressed": 139682,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29281,7 +29286,7 @@
       "Name": "Enemy Of The Physical Realm",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 11174
+      "UsersEstimate": 11175
     },
     {
       "ID": "ACH_COP_DORK",
@@ -29536,15 +29541,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139681,
+      "Progressed": 139682,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:08:43.9371597+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:09:10.0663641+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:02.650456+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:08:43.9373298+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:57:10.6799545+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:09:10.0665243+00:00"
 }

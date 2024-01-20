@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 347574,
+  "EOS_Progressed": 347591,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2845,
+  "EOS_NewPlayers": 2851,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14049,6 +14049,11 @@
       "Time": "2024-01-20T06:08:52.119247+00:00",
       "NumProgressed": 347574,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-20T07:09:51.90276+00:00",
+      "NumProgressed": 347591,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14061,7 +14066,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17379
+      "UsersEstimate": 17380
     },
     {
       "ID": "S02_BRDA",
@@ -14069,7 +14074,7 @@
       "Name": "A powerful aura was here",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 13903
+      "UsersEstimate": 13904
     },
     {
       "ID": "S03_OTWA",
@@ -14125,7 +14130,7 @@
       "Name": "Here to stay",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "S10_GRSB",
@@ -14133,7 +14138,7 @@
       "Name": "Counting on you",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "S11_MMR6",
@@ -14141,7 +14146,7 @@
       "Name": "This is the end",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "S12_ALL",
@@ -14149,7 +14154,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 2085
+      "UsersEstimate": 2086
     },
     {
       "ID": "S13_ALL_HARD",
@@ -14197,7 +14202,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17379
+      "UsersEstimate": 17380
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14373,14 +14378,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6951
+      "UsersEstimate": 6952
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 347574,
+      "Progressed": 347591,
       "Completed": 7
     }
   ],
@@ -14388,8 +14393,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:08:52.1192461+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:09:51.9027598+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:40.2490075+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:08:52.1193289+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:58:08.2100068+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:09:51.9028574+00:00"
 }

@@ -4009,10 +4009,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 2978,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2024-01-20T07:00:07.082536+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 2980,
+      "NumberOfAwardsMax": 329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2978,
+  "NumberOfAwards": 2980,
   "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -4080,7 +4086,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 290
+      "Count": 292
     },
     {
       "Text": "This game has Playful Visuals",
@@ -4089,9 +4095,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33816,
+  "EOS_Progressed": 33818,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -26024,6 +26030,11 @@
       "Time": "2024-01-20T06:09:00.0239536+00:00",
       "NumProgressed": 33816,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-20T07:10:02.6401847+00:00",
+      "NumProgressed": 33818,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26043,7 +26054,7 @@
       "Name": "Animated",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Back_Off",
@@ -26051,7 +26062,7 @@
       "Name": "Back Off",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Best_Insurance",
@@ -26059,7 +26070,7 @@
       "Name": "We have the best insurance",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Catostrophic_Destroyer",
@@ -26139,7 +26150,7 @@
       "Name": "Ectoplasmic Entity",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Efficient",
@@ -26147,7 +26158,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "Escape_Artist",
@@ -26195,7 +26206,7 @@
       "Name": "Icing on the Cake",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Legions",
@@ -26203,7 +26214,7 @@
       "Name": "Legions",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Liability",
@@ -26251,7 +26262,7 @@
       "Name": "Pesky Jerks",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Reckless",
@@ -26267,7 +26278,7 @@
       "Name": "Rift Destroyer",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Rift_Seeker",
@@ -26299,7 +26310,7 @@
       "Name": "Seasoned",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Side_Hustle",
@@ -26307,7 +26318,7 @@
       "Name": "Side Hustle",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Skilled",
@@ -26347,7 +26358,7 @@
       "Name": "Summoner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Surprise",
@@ -26427,7 +26438,7 @@
       "Name": "Welcome to the Crew",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1014
+      "UsersEstimate": 1015
     },
     {
       "ID": "Whoopsie",
@@ -26442,16 +26453,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33816,
+      "Progressed": 33818,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-20T03:59:10.7427993+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:09:00.0239529+00:00",
+  "LastChanged": "2024-01-20T07:00:07.0825358+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:10:02.6401845+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:58:57.7320488+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:09:00.0240783+00:00"
+  "LastUpdate_Ratings": "2024-01-20T07:00:07.0825367+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:10:02.6403099+00:00"
 }

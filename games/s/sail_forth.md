@@ -5,35 +5,35 @@ Rating: 4.40 (Ranked 774)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~210,665 |
-| Wind Master | 52.00% | ~165,978 |
-| Davy Jones | 17.00% | ~54,262 |
-| Hook, Line and Stinker | 16.00% | ~51,070 |
-| Gateway Slug | 6.00% | ~19,151 |
-| Nice Shootin' Duds | 5.00% | ~15,959 |
-| Great Balls Of Fire | 4.00% | ~12,768 |
-| Baby's First Thingamabob | 4.00% | ~12,768 |
-| Race In Yo Face | 4.00% | ~12,768 |
-| Boarding Party | 4.00% | ~12,768 |
-| Light Up the Night | 3.00% | ~9,576 |
-| I Don't Like The Slugs | 3.00% | ~9,576 |
-| By The Power Of Underskull | 2.00% | ~6,384 |
-| This Is Fine | 2.00% | ~6,384 |
-| Pengy Fun | 2.00% | ~6,384 |
-| Fish Kabob | 1.00% | ~3,192 |
-| Enter The Croakers | 1.00% | ~3,192 |
-| But The Slugs Like Me | 1.00% | ~3,192 |
-| Snapping Turtle | 0.90% | ~2,873 |
-| Polar Pontification | 0.80% | ~2,554 |
-| Aggro Kreb | 0.70% | ~2,234 |
-| No More Splosions | 0.70% | ~2,234 |
-| Crovert Ops | 0.70% | ~2,234 |
-| Tekk Savvy | 0.50% | ~1,596 |
+| Tootorial | 66.00% | ~210,829 |
+| Wind Master | 52.00% | ~166,108 |
+| Davy Jones | 17.00% | ~54,304 |
+| Hook, Line and Stinker | 16.00% | ~51,110 |
+| Gateway Slug | 6.00% | ~19,166 |
+| Nice Shootin' Duds | 5.00% | ~15,972 |
+| Great Balls Of Fire | 4.00% | ~12,778 |
+| Baby's First Thingamabob | 4.00% | ~12,778 |
+| Race In Yo Face | 4.00% | ~12,778 |
+| Boarding Party | 4.00% | ~12,778 |
+| Light Up the Night | 3.00% | ~9,583 |
+| I Don't Like The Slugs | 3.00% | ~9,583 |
+| By The Power Of Underskull | 2.00% | ~6,389 |
+| This Is Fine | 2.00% | ~6,389 |
+| Pengy Fun | 2.00% | ~6,389 |
+| Fish Kabob | 1.00% | ~3,194 |
+| Enter The Croakers | 1.00% | ~3,194 |
+| But The Slugs Like Me | 1.00% | ~3,194 |
+| Snapping Turtle | 0.90% | ~2,875 |
+| Polar Pontification | 0.80% | ~2,556 |
+| Aggro Kreb | 0.70% | ~2,236 |
+| No More Splosions | 0.70% | ~2,236 |
+| Crovert Ops | 0.70% | ~2,236 |
+| Tekk Savvy | 0.50% | ~1,597 |
 | Blowfish Me Down | 0.30% | ~958 |
 | Fish And Tips | 0.30% | ~958 |
 | This Magik Moment | 0.30% | ~958 |
-| Sweeter Than Honey | 0.20% | ~638 |
-| Getting Hooked | 0.20% | ~638 |
+| Sweeter Than Honey | 0.20% | ~639 |
+| Getting Hooked | 0.20% | ~639 |
 | What's Krakalackin? | 0.10% | ~319 |
 | Total Eclipse of the Eel | 0.10% | ~319 |
 | All Good Things... | 0.10% | ~319 |
@@ -53,7 +53,7 @@ Rating: 4.40 (Ranked 774)
 | For Whom The Bells Toll | 0.10% | ~319 |
 | Don't I Know You? | 0.10% | ~319 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 319,189 (Ranked 63)  
+Progressed: 319,438 (Ranked 63)  
 Completed: 1 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -68,7 +68,7 @@ Completed: 1 (0.00%) (Ranked 406)
 | 2024-01-17 | 286,420 | 0 |
 | 2024-01-18 | 307,354 | 0 |
 | 2024-01-19 | 317,184 | 1 |
-| 2024-01-20 | 319,189 | 1 |
+| 2024-01-20 | 319,438 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

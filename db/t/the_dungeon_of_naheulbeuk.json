@@ -1785,9 +1785,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248836,
+  "EOS_Progressed": 248843,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 984,
+  "EOS_NewPlayers": 987,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26860,6 +26860,11 @@
       "Time": "2024-01-20T06:09:59.3701389+00:00",
       "NumProgressed": 248836,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-20T07:11:24.0407177+00:00",
+      "NumProgressed": 248843,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -26903,7 +26908,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9953
+      "UsersEstimate": 9954
     },
     {
       "ID": "BookCollection",
@@ -26935,7 +26940,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9953
+      "UsersEstimate": 9954
     },
     {
       "ID": "Chapter4",
@@ -27271,7 +27276,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 22395
+      "UsersEstimate": 22396
     },
     {
       "ID": "DwarfElf15Support",
@@ -27303,7 +27308,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14930
+      "UsersEstimate": 14931
     },
     {
       "ID": "ElfEpic",
@@ -27319,7 +27324,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92069
+      "UsersEstimate": 92072
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27367,7 +27372,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27372
+      "UsersEstimate": 27373
     },
     {
       "ID": "FollowBraztok",
@@ -27519,7 +27524,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14930
+      "UsersEstimate": 14931
     },
     {
       "ID": "SupportCount4",
@@ -27574,21 +27579,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248836,
+      "Progressed": 248843,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248836,
+      "Progressed": 248843,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-19T18:57:42.8675176+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:09:59.3701384+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:11:24.0407175+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.7922141+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:49.8758943+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:09:59.3702909+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:58:22.8878445+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:11:24.0409829+00:00"
 }

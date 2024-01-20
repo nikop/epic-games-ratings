@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 324)  
+Rating: 4.65 (Ranked 323)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -142,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Learn to Play 5 | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
+| No Undo | 0.50% | ~85 |
 | Jebel Barkal | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
@@ -150,7 +151,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
 | Siege Tower | 0.40% | ~68 |
-| No Undo | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
 | Cothon | 0.40% | ~68 |
 | The Eternal Treaty | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,014 (Ranked 170)  
+Progressed: 17,015 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,17 +640,17 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,014 | 5 |
+| 2024-01-20 | 17,015 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
-Sum: 1,942 (Ranked 223)  
+Sum: 1,943 (Ranked 223)  
 Diff (max vs sum): 64  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 230 |
 | This game is Extremely Fun | 228 |
 | This game has Diverse Characters | 227 |
-| This game is Highly Recommended | 223 |
+| This game is Highly Recommended | 224 |
 | This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
 | This game has Amazing Characters | 204 |
@@ -858,3 +858,4 @@ Diff (max vs sum): 64
 | 2024-01-17 | 4.65 | - | 230 | 1,936 |
 | 2024-01-18 | 4.65 | - | 230 | 1,937 |
 | 2024-01-19 | 4.65 | - | 230 | 1,942 |
+| 2024-01-20 | 4.65 | - | 230 | 1,943 |

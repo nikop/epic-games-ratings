@@ -39,6 +39,7 @@ Rating: 4.86 (Ranked 33)
 | I told you I'd be fine, Peppermint! | 5.00% | ~873 |
 | Wanna hear my playlist? | 4.00% | ~698 |
 | Check out my moves! | 4.00% | ~698 |
+| You ever parry a volcano? | 3.00% | ~524 |
 | I think I deserve some praise, here! | 2.00% | ~349 |
 | I think I found your calling, Macaron | 2.00% | ~349 |
 | This is a breeze! | 2.00% | ~349 |
@@ -46,7 +47,6 @@ Rating: 4.86 (Ranked 33)
 | I'm not done with you yet | 2.00% | ~349 |
 | First we parry, then we counter | 2.00% | ~349 |
 | I hit things with a guitar really well. | 2.00% | ~349 |
-| You ever parry a volcano? | 2.00% | ~349 |
 | Call me Turbo Chai | 2.00% | ~319 |
 | Easy Listening | 1.00% | ~175 |
 | OK, well THEY came after ME! | 0.90% | ~157 |

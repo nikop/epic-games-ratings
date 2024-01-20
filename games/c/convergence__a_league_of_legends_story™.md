@@ -1,12 +1,12 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.66 (Ranked 306)  
+Rating: 4.66 (Ranked 305)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 48.00% | ~646 |
-| Rail Rat | 36.00% | ~484 |
+| Rail Rat | 36.00% | ~485 |
 | The Mysterious Stranger | 35.00% | ~471 |
 | Immaculate Aim | 30.00% | ~404 |
 | The Brass Boss | 29.00% | ~390 |
@@ -21,11 +21,11 @@ Rating: 4.66 (Ranked 306)
 | The Steel Shadow | 25.00% | ~336 |
 | Breaking Down Barriers | 24.00% | ~323 |
 | The Wicked Twins | 24.00% | ~323 |
-| Right On Time | 23.00% | ~309 |
-| Like Clockwork | 23.00% | ~309 |
-| Golem Chaser | 23.00% | ~309 |
+| Right On Time | 23.00% | ~310 |
+| Like Clockwork | 23.00% | ~310 |
+| Golem Chaser | 23.00% | ~310 |
 | The Betrayer | 22.00% | ~296 |
-| Check Your Pulse | 21.00% | ~282 |
+| Check Your Pulse | 21.00% | ~283 |
 | The Loose Cannon | 20.00% | ~269 |
 | Street Style | 19.00% | ~256 |
 | The Man Who Shattered Time | 19.00% | ~256 |
@@ -36,13 +36,13 @@ Rating: 4.66 (Ranked 306)
 | Ask Questions Later | 14.00% | ~188 |
 | Chaincrawler Explorer | 13.00% | ~175 |
 | Syron for Hope | 13.00% | ~175 |
-| Treasure Trove | 12.00% | ~161 |
-| Cartographer | 12.00% | ~161 |
-| Sump Explorer | 12.00% | ~161 |
+| Treasure Trove | 12.00% | ~162 |
+| Cartographer | 12.00% | ~162 |
+| Sump Explorer | 12.00% | ~162 |
 | Factorywood Explorer | 11.00% | ~148 |
 | Theater Explorer | 11.00% | ~148 |
-| Cultivair Explorer | 10.00% | ~134 |
-| Fairgrounds Explorer | 10.00% | ~134 |
+| Cultivair Explorer | 10.00% | ~135 |
+| Fairgrounds Explorer | 10.00% | ~135 |
 | Corin Goes Home | 9.00% | ~121 |
 | Entresol Explorer | 9.00% | ~121 |
 | Sartorialist | 8.00% | ~108 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 306)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,345 (Ranked 283)  
+Progressed: 1,346 (Ranked 282)  
 Completed: 8 (0.59%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 8 (0.59%) (Ranked 215)
 | 2024-01-17 | 1,335 | 8 |
 | 2024-01-18 | 1,339 | 8 |
 | 2024-01-19 | 1,343 | 8 |
-| 2024-01-20 | 1,345 | 8 |
+| 2024-01-20 | 1,346 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

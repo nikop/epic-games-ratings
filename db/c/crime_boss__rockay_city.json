@@ -5643,9 +5643,9 @@
       "Count": 545
     }
   ],
-  "EOS_Progressed": 93549,
+  "EOS_Progressed": 93550,
   "EOS_Completed": 59,
-  "EOS_NewPlayers": 122,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -31828,6 +31828,11 @@
       "Time": "2024-01-20T03:05:22.585287+00:00",
       "NumProgressed": 93549,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-20T07:07:10.6733135+00:00",
+      "NumProgressed": 93550,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31863,7 +31868,7 @@
       "Name": "Hidden Sonata",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_0014",
@@ -31871,7 +31876,7 @@
       "Name": "Track Star",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_0015",
@@ -31951,7 +31956,7 @@
       "Name": "Headhunter",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_0101",
@@ -32087,7 +32092,7 @@
       "Name": "True Player",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "ACH_0450",
@@ -32166,13 +32171,13 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93549,
+      "Progressed": 93550,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21896,
+      "Progressed": 21897,
       "Completed": 15603
     }
   ],
@@ -32180,8 +32185,8 @@
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-19T21:57:50.0790991+00:00",
-  "LastChanged_Achievements": "2024-01-20T06:05:26.7156422+00:00",
+  "LastChanged_Achievements": "2024-01-20T07:07:10.6733131+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.1525871+00:00",
-  "LastUpdate_Ratings": "2024-01-20T05:57:39.9807244+00:00",
-  "LastUpdate_Achievements": "2024-01-20T06:05:26.7157842+00:00"
+  "LastUpdate_Ratings": "2024-01-20T06:58:07.8435029+00:00",
+  "LastUpdate_Achievements": "2024-01-20T07:07:10.6734571+00:00"
 }
