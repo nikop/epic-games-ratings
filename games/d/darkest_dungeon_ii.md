@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,141 |
+| Malpractice Assurance | 14.00% | ~1,142 |
 | Lost and Found | 9.00% | ~734 |
 | Autodidact | 8.00% | ~10,663 |
 | This Belongs in a Museum | 7.00% | ~9,330 |
@@ -46,14 +46,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | Ramble On | 4.00% | ~5,331 |
 | A Clear Conscience | 4.00% | ~5,331 |
 | Unshackled | 4.00% | ~5,331 |
-| Hope Rekindled | 3.00% | ~3,998 |
-| Predator | 3.00% | ~3,998 |
-| Deprogramming | 3.00% | ~3,998 |
-| Reverse Banditry | 3.00% | ~3,998 |
-| When You Want Something Done Right | 3.00% | ~3,998 |
-| Utopia | 3.00% | ~3,998 |
-| Hot Air | 3.00% | ~3,998 |
-| Road Trip | 3.00% | ~3,998 |
+| Hope Rekindled | 3.00% | ~3,999 |
+| Predator | 3.00% | ~3,999 |
+| Deprogramming | 3.00% | ~3,999 |
+| Reverse Banditry | 3.00% | ~3,999 |
+| When You Want Something Done Right | 3.00% | ~3,999 |
+| Utopia | 3.00% | ~3,999 |
+| Hot Air | 3.00% | ~3,999 |
+| Road Trip | 3.00% | ~3,999 |
 | This Looks Familiar | 2.00% | ~2,666 |
 | Ichthyophobic | 2.00% | ~2,666 |
 | No More Mouths to Feed | 2.00% | ~2,666 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,282 (Ranked 92)  
+Progressed: 133,287 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,16 +351,16 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,282 | 5 |
+| 2024-01-20 | 133,287 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
-Sum: 21,770 (Ranked 58)  
+Sum: 21,773 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,048 |
 | This game has Diverse Characters | 1,879 |
-| This game has Challenging Combat | 1,686 |
+| This game has Challenging Combat | 1,689 |
 | This game is Highly Recommended | 1,613 |
 | This game has Amazing Characters | 1,539 |
 | This game is Extremely Fun | 1,532 |
@@ -730,4 +730,4 @@ Diff (max vs sum): -6
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
-| 2024-01-20 | 4.69 | - | 8,048 | 21,770 |
+| 2024-01-20 | 4.69 | - | 8,048 | 21,773 |

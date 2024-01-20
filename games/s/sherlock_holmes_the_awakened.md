@@ -5,36 +5,36 @@ Rating: 4.49 (Ranked 641)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~949 |
-| To Hell In A Handcart | 60.00% | ~918 |
-| High Profile | 54.00% | ~826 |
-| Whispers In The Dark | 51.00% | ~780 |
-| Fond Memories | 50.00% | ~765 |
-| A Method To His Madness | 47.00% | ~719 |
+| Read Between The Lines | 61.00% | ~934 |
+| To Hell In A Handcart | 60.00% | ~919 |
+| High Profile | 54.00% | ~827 |
+| Whispers In The Dark | 51.00% | ~781 |
+| Fond Memories | 50.00% | ~766 |
+| A Method To His Madness | 47.00% | ~720 |
 | History Check | 46.00% | ~704 |
-| The New World | 44.00% | ~673 |
+| The New World | 44.00% | ~674 |
 | Gaze Into The Abyss | 43.00% | ~658 |
 | Open Sesame | 43.00% | ~658 |
 | Sticky Fingers | 43.00% | ~658 |
 | Lock, Stock, And Barrel | 42.00% | ~643 |
 | Knives Out | 42.00% | ~643 |
 | Land, Ho! | 42.00% | ~643 |
-| Back In The Saddle | 41.00% | ~627 |
-| No Man Is An Island | 41.00% | ~627 |
+| Back In The Saddle | 41.00% | ~628 |
+| No Man Is An Island | 41.00% | ~628 |
 | At Wits' End | 40.00% | ~612 |
 | Fhtagn! | 39.00% | ~597 |
-| Up In Flames | 38.00% | ~581 |
+| Up In Flames | 38.00% | ~582 |
 | Bookworm | 37.00% | ~566 |
 | Going Once... | 35.00% | ~536 |
-| Let Me Be Frank | 34.00% | ~520 |
+| Let Me Be Frank | 34.00% | ~521 |
 | No Stone Unturned | 32.00% | ~490 |
 | Brain Food | 30.00% | ~459 |
 | Read It And Weep | 20.00% | ~306 |
-| Curiosity Killed The Cat | 18.00% | ~275 |
+| Curiosity Killed The Cat | 18.00% | ~276 |
 | Big Breakthrough | 12.00% | ~184 |
 | Reawakened | 4.00% | ~61 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,530 (Ranked 273)  
+Progressed: 1,531 (Ranked 273)  
 Completed: 49 (3.20%) (Ranked 107)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -265,7 +265,7 @@ Completed: 49 (3.20%) (Ranked 107)
 | 2024-01-17 | 1,482 | 49 |
 | 2024-01-18 | 1,502 | 49 |
 | 2024-01-19 | 1,521 | 49 |
-| 2024-01-20 | 1,530 | 49 |
+| 2024-01-20 | 1,531 | 49 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

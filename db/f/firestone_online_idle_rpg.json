@@ -793,9 +793,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4675,
+  "EOS_Progressed": 4678,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 222,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13053,6 +13053,11 @@
       "Time": "2024-01-20T08:04:07.5927691+00:00",
       "NumProgressed": 4675,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T09:05:08.8767411+00:00",
+      "NumProgressed": 4678,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13168,7 +13173,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "dragonmaster",
@@ -13184,7 +13189,7 @@
       "Name": "Dragon Slayer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "ebonyjungleliberator",
@@ -13200,7 +13205,7 @@
       "Name": "Enchanting skill",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "enchantingskillx5",
@@ -13248,7 +13253,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "fourleafclover",
@@ -13272,7 +13277,7 @@
       "Name": "Full Party",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "gearenchanting",
@@ -13296,7 +13301,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1028
+      "UsersEstimate": 1029
     },
     {
       "ID": "herewegoagain",
@@ -13390,9 +13395,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 468
     },
     {
       "ID": "minerclicker",
@@ -13400,7 +13405,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "missionsdedication",
@@ -13424,7 +13429,7 @@
       "Name": "Mysterious Rock",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "mythicpower",
@@ -13440,7 +13445,7 @@
       "Name": "Natural Talent",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "pokerface",
@@ -13456,7 +13461,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2431
+      "UsersEstimate": 2433
     },
     {
       "ID": "prestigiousx10",
@@ -13464,7 +13469,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 935
+      "UsersEstimate": 936
     },
     {
       "ID": "relicofthepast",
@@ -13512,7 +13517,7 @@
       "Name": "Superior",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "templeofeternals",
@@ -13520,7 +13525,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2620
     },
     {
       "ID": "thealchemist",
@@ -13536,7 +13541,7 @@
       "Name": "The Expeditioner",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "thefatherofdragons",
@@ -13568,7 +13573,7 @@
       "Name": "The Unstoppable",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 514
+      "UsersEstimate": 515
     },
     {
       "ID": "titanpower",
@@ -13624,7 +13629,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4348
+      "UsersEstimate": 4351
     },
     {
       "ID": "warmachinesarmy",
@@ -13640,7 +13645,7 @@
       "Name": "Weekly Quest Completionist",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "whatliesbehindthebush",
@@ -13656,14 +13661,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3646
+      "UsersEstimate": 3649
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4675,
+      "Progressed": 4678,
       "Completed": 2
     }
   ],
@@ -13671,8 +13676,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-17T22:58:46.2405409+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:04:07.5927689+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:05:08.8767408+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.9323679+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:59:10.422146+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:04:07.5928616+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:00:17.0207868+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:05:08.8768411+00:00"
 }

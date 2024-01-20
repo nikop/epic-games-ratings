@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 306,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1553,9 +1553,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430502,
+  "EOS_Progressed": 430503,
   "EOS_Completed": 557,
-  "EOS_NewPlayers": 124,
+  "EOS_NewPlayers": 125,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -19803,6 +19803,11 @@
       "Time": "2024-01-20T08:08:10.760927+00:00",
       "NumProgressed": 430502,
       "NumCompleted": 557
+    },
+    {
+      "Time": "2024-01-20T09:08:39.6721452+00:00",
+      "NumProgressed": 430503,
+      "NumCompleted": 557
     }
   ],
   "TotalAchievements": 41,
@@ -19830,7 +19835,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258301
+      "UsersEstimate": 258302
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -19894,7 +19899,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258301
+      "UsersEstimate": 258302
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -19982,7 +19987,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 408977
+      "UsersEstimate": 408978
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -19998,7 +20003,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309961
+      "UsersEstimate": 309962
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -20014,7 +20019,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 301351
+      "UsersEstimate": 301352
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -20094,7 +20099,7 @@
       "Name": "Taro\u0027s Fear",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 241081
+      "UsersEstimate": 241082
     },
     {
       "ID": "ACH_RELIC_LANTERN",
@@ -20141,15 +20146,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430502,
+      "Progressed": 430503,
       "Completed": 557
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-15T20:57:43.9440665+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:08:10.7609267+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:08:39.6721445+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:02.7074577+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:59:43.1200873+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:08:10.7610375+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:01:07.3455284+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:08:39.6722355+00:00"
 }

@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1117,
   "EOS_Completed": 1,
   "EOS_NewPlayers": -6,
   "EOS_NewCompleters": 0,
@@ -2982,6 +2982,11 @@
       "Time": "2024-01-19T16:05:39.9520994+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T09:06:01.6467257+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -3031,9 +3036,9 @@
       "ID": "06",
       "SetID": "73ikgfc",
       "Name": "First Blood",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 794
+      "UsersEstimate": 804
     },
     {
       "ID": "07",
@@ -3049,7 +3054,7 @@
       "Name": "Monster Slayer",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 357
     },
     {
       "ID": "09",
@@ -3057,7 +3062,7 @@
       "Name": "Awakening",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 279
     },
     {
       "ID": "10",
@@ -3169,14 +3174,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1117,
       "Completed": 1
     }
   ],
@@ -3184,8 +3189,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:04:44.0359697+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:06:01.6467251+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.3397253+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:02:58.4234204+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:04:44.0359927+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:03:24.9132817+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:06:01.6467535+00:00"
 }

@@ -20,6 +20,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Bushido and Chill | 0.30% | ~3,166 |
 | Gun Fu | 0.30% | ~3,166 |
 | Master Crafter | 0.30% | ~3,166 |
+| I Am The Law | 0.30% | ~3,166 |
 | The Quick and the Dead | 0.30% | ~3,166 |
 | The Fool | 0.30% | ~3,166 |
 | The World | 0.30% | ~3,166 |
@@ -29,7 +30,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Arachnophobia | 0.30% | ~552 |
 | To Protect and Serve | 0.20% | ~2,111 |
 | The Wandering Fool | 0.20% | ~2,111 |
-| I Am The Law | 0.20% | ~2,111 |
 | Two Heads, One Bullet | 0.20% | ~2,111 |
 | Spin Doctor | 0.20% | ~368 |
 | City Lights | 0.10% | ~1,055 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,441 (Ranked 17)  
+Progressed: 1,055,475 (Ranked 17)  
 Completed: 3,129 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 3,129 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,441 | 3,129 |
+| 2024-01-20 | 1,055,475 | 3,129 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
 Sum: 507,294 (Ranked 8)  

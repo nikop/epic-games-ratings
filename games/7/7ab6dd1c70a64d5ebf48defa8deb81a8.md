@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,558 |
+| Break Out | 65.00% | ~1,559 |
 | Trinity | 35.00% | ~839 |
 | The Collector | 29.00% | ~695 |
 | Find Allies | 27.00% | ~647 |
@@ -13,12 +13,12 @@ Rating: 4.17 (Ranked 991)
 | Adventurer | 26.00% | ~623 |
 | Shatter Them All | 26.00% | ~623 |
 | Geared Up | 26.00% | ~623 |
-| Scholar | 25.00% | ~599 |
-| I Found It | 25.00% | ~599 |
-| Fashion Victim | 24.00% | ~575 |
-| Stone Collection | 24.00% | ~575 |
-| Tributes of Caladrias | 23.00% | ~551 |
-| Powerful Allies | 22.00% | ~527 |
+| Scholar | 25.00% | ~600 |
+| I Found It | 25.00% | ~600 |
+| Fashion Victim | 24.00% | ~576 |
+| Stone Collection | 24.00% | ~576 |
+| Tributes of Caladrias | 23.00% | ~552 |
+| Powerful Allies | 22.00% | ~528 |
 | Big Bazar | 16.00% | ~384 |
 | Alchemist | 15.00% | ~360 |
 | Essence Blow | 14.00% | ~336 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 991)
 | All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,397 (Ranked 247)  
+Progressed: 2,398 (Ranked 247)  
 Completed: 5 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-17 | 2,374 | 5 |
 | 2024-01-18 | 2,380 | 5 |
 | 2024-01-19 | 2,391 | 5 |
-| 2024-01-20 | 2,397 | 5 |
+| 2024-01-20 | 2,398 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

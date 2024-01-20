@@ -7,9 +7,9 @@ Number of Ratings: 9,492  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Old Grandmaster | 6.00% | ~45,716 |
-| The Assault | 5.00% | ~38,096 |
-| Life is your teacher | 5.00% | ~38,096 |
-| Lightning Hands | 5.00% | ~38,096 |
+| The Assault | 5.00% | ~38,097 |
+| Life is your teacher | 5.00% | ~38,097 |
+| Lightning Hands | 5.00% | ~38,097 |
 | The Hateful Pole Fighter | 3.00% | ~22,858 |
 | Stuntmaster | 3.00% | ~22,858 |
 | Street Fighting | 3.00% | ~22,858 |
@@ -32,10 +32,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,619 |
 | Project Arena | 1.00% | ~712 |
 | Fight the way you practice | 0.90% | ~641 |
-| Muk Yan Master | 0.80% | ~6,095 |
-| Tiger on Fire | 0.70% | ~5,333 |
-| Source of Flying Daggers | 0.70% | ~5,333 |
-| Detective Story | 0.70% | ~5,333 |
+| Muk Yan Master | 0.80% | ~6,096 |
+| Tiger on Fire | 0.70% | ~5,334 |
+| Source of Flying Daggers | 0.70% | ~5,334 |
+| Detective Story | 0.70% | ~5,334 |
 | Martial Hub | 0.70% | ~499 |
 | Iron Money | 0.60% | ~4,572 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,572 |
@@ -44,10 +44,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bloody Sport | 0.60% | ~427 |
 | Prodigal Child | 0.50% | ~3,810 |
 | The best strikes are the ones we avoid | 0.50% | ~356 |
+| Drunken Fighter | 0.40% | ~3,048 |
 | Knowledge Greed | 0.40% | ~3,048 |
 | The Pit Protector | 0.40% | ~3,048 |
 | Come Snap With Me | 0.40% | ~3,048 |
-| Drunken Fighter | 0.30% | ~2,286 |
 | Martial Artist | 0.30% | ~2,286 |
 | Healing Memory | 0.30% | ~2,286 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,286 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,926 (Ranked 26)  
+Progressed: 761,940 (Ranked 26)  
 Completed: 12,997 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,10 +342,10 @@ Completed: 12,997 (1.71%) (Ranked 149)
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
-| 2024-01-20 | 761,926 | 12,997 |
+| 2024-01-20 | 761,940 | 12,997 |
 ## Awards
 Max (Great Boss Battles): 7,245  (Ranked 58)  
-Sum: 12,822 (Ranked 87)  
+Sum: 12,824 (Ranked 87)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -29
 | This game has Challenging Combat | 651 |
 | This game has Amazing Storytelling | 626 |
 | This game has Amazing Characters | 622 |
-| This game is Highly Recommended | 613 |
+| This game is Highly Recommended | 615 |
 | This game has Quickly Understood Controls | 601 |
 | This game has Unique Visuals | 595 |
 | This game is Extremely Fun | 593 |
@@ -731,4 +731,4 @@ Diff (max vs sum): -29
 | 2024-01-17 | 4.82 | - | 7,227 | 12,784 |
 | 2024-01-18 | 4.82 | - | 7,227 | 12,798 |
 | 2024-01-19 | 4.82 | - | 7,237 | 12,812 |
-| 2024-01-20 | 4.82 | - | 7,245 | 12,822 |
+| 2024-01-20 | 4.82 | - | 7,245 | 12,824 |

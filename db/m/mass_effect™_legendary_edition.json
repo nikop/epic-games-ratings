@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 260,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4506,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -9044,9 +9044,9 @@
       "ID": "achievement_27",
       "SetID": "b9pe172",
       "Name": "Turian Ally",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1802
+      "UsersEstimate": 1847
     },
     {
       "ID": "achievement_28",
@@ -9696,8 +9696,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:10:14.6306938+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:11:34.2114313+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:03:19.2200218+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:10:14.6308541+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:03:55.6953254+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:11:34.2116006+00:00"
 }

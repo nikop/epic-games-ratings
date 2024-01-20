@@ -14,8 +14,8 @@ Number of Ratings: 54  (23.09.2022)
 | Grave Robber | 17.00% | ~298 |
 | Explorer | 16.00% | ~280 |
 | Head Burst | 16.00% | ~280 |
+| Double agent | 15.00% | ~263 |
 | Paranoia | 15.00% | ~263 |
-| Double agent | 14.00% | ~245 |
 | Savant | 10.00% | ~175 |
 | Kraina Grzybow | 9.00% | ~158 |
 | Love Guru | 9.00% | ~158 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,752 (Ranked 262)  
+Progressed: 1,752 (Ranked 263)  
 Completed: 1 (0.06%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |

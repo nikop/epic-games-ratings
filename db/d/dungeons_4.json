@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 69,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2932,9 +2932,9 @@
       "ID": "ach_main16ring_completed",
       "SetID": "4hg22ll",
       "Name": "Doom Hill",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 249
+      "UsersEstimate": 257
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -3061,8 +3061,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-17T19:59:32.4500283+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:09:33.311618+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:10:37.2506438+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.4401714+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:02:41.3571964+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:09:33.311681+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:02:59.0648578+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:10:37.2506941+00:00"
 }

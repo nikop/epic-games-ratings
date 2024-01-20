@@ -18,12 +18,12 @@ Rating: 4.64 (Ranked 347)
 | Clear the Air | 2.00% | ~183 |
 | Search for the Hairy Grell | 2.00% | ~183 |
 | Lumberjack | 2.00% | ~183 |
+| Higher Tax Bracket | 2.00% | ~183 |
 | Oui, Chef! | 2.00% | ~183 |
 | Botanical Breakthrough | 2.00% | ~183 |
 | Exit Through The Gift Shop | 2.00% | ~35 |
 | Flaming Hot Completos | 1.00% | ~91 |
 | Beach Comber | 1.00% | ~91 |
-| Higher Tax Bracket | 1.00% | ~91 |
 | Azorian Anniversary | 1.00% | ~91 |
 | Skilled | 1.00% | ~91 |
 | Fae Farmer | 0.90% | ~82 |

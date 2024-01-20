@@ -6,11 +6,11 @@ Number of Ratings: 216  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Midnight Drifter | 10.00% | ~156,471 |
+| Midnight Drifter | 10.00% | ~156,472 |
 | Good Skills | 9.00% | ~140,824 |
 | Multiplier Master | 9.00% | ~140,824 |
-| Maverick | 7.00% | ~109,529 |
-| The Long Drift | 5.00% | ~78,235 |
+| Maverick | 7.00% | ~109,530 |
+| The Long Drift | 5.00% | ~78,236 |
 | Drift Line Apprentice | 3.00% | ~46,941 |
 | Mad Skills | 3.00% | ~46,941 |
 | Bring the Cubic Ruckus | 2.00% | ~31,294 |
@@ -27,7 +27,7 @@ Number of Ratings: 216  (23.09.2022)
 | Washing Machine | 0.40% | ~6,259 |
 | The Completionist | 0.10% | ~1,565 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,564,707 (Ranked 8)  
+Progressed: 1,564,715 (Ranked 8)  
 Completed: 771 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,7 +302,7 @@ Completed: 771 (0.05%) (Ranked 344)
 | 2024-01-17 | 1,564,294 | 769 |
 | 2024-01-18 | 1,564,473 | 769 |
 | 2024-01-19 | 1,564,643 | 771 |
-| 2024-01-20 | 1,564,707 | 771 |
+| 2024-01-20 | 1,564,715 | 771 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

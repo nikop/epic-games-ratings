@@ -70,10 +70,10 @@
 | Astral Tinkerer | 0.80% | ~3 |
 | Plague Doctor | 0.80% | ~3 |
 | Royal Choir | 0.80% | ~3 |
+| The world goes round... | 0.80% | ~3 |
 | Astrea's Saviors | 0.50% | ~2 |
 | Astrium Specialist | 0.50% | ~2 |
 | Six-Sided Mastery | 0.50% | ~2 |
-| The world goes round... | 0.50% | ~2 |
 | This is Fine | 0.50% | ~2 |
 | Arch-Oracle | 0.30% | ~1 |
 | Dice Specialist | 0.30% | ~1 |

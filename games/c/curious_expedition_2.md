@@ -22,8 +22,8 @@ Number of Ratings: 20  (23.09.2022)
 | Taxonomist | 27.00% | ~117 |
 | Traveller | 26.00% | ~112 |
 | Uncertain Loyalties | 25.00% | ~108 |
+| Nahua Seeker | 24.00% | ~104 |
 | Roll to Save | 23.00% | ~99 |
-| Nahua Seeker | 23.00% | ~99 |
 | Veteran Explorer | 22.00% | ~95 |
 | Red Flag Pirate | 21.00% | ~91 |
 | Iron Man | 17.00% | ~73 |
@@ -38,7 +38,7 @@ Number of Ratings: 20  (23.09.2022)
 | And Here Is Your Statue | 13.00% | ~56 |
 | Discovery | 13.00% | ~56 |
 | Plays Well With Others | 13.00% | ~56 |
-| Very Classy | 12.00% | ~52 |
+| Very Classy | 13.00% | ~56 |
 | Under the Table | 11.00% | ~48 |
 | It's Complicated | 10.00% | ~43 |
 | Cold Blood, Warm Heart | 9.00% | ~39 |

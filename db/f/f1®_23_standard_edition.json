@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 348,
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 125,
+  "Ranking_EOS_NewPlayers": 127,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -1581,9 +1581,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18468,
+  "EOS_Progressed": 18469,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 505,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12296,6 +12296,11 @@
       "Time": "2024-01-20T07:08:10.11565+00:00",
       "NumProgressed": 18468,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T09:08:44.122893+00:00",
+      "NumProgressed": 18469,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12316,7 +12321,7 @@
       "Name": "Gathering Dust",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "achievement_0003",
@@ -12356,7 +12361,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16806
+      "UsersEstimate": 16807
     },
     {
       "ID": "achievement_0008",
@@ -12364,7 +12369,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15328
+      "UsersEstimate": 15329
     },
     {
       "ID": "achievement_0009",
@@ -12468,7 +12473,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12558
+      "UsersEstimate": 12559
     },
     {
       "ID": "achievement_0022",
@@ -12564,7 +12569,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8495
+      "UsersEstimate": 8496
     },
     {
       "ID": "achievement_0034",
@@ -12572,7 +12577,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4432
+      "UsersEstimate": 4433
     },
     {
       "ID": "achievement_0035",
@@ -12620,7 +12625,7 @@
       "Name": "One for the Book",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2031
+      "UsersEstimate": 2032
     },
     {
       "ID": "achievement_0041",
@@ -12652,7 +12657,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6648
+      "UsersEstimate": 6649
     },
     {
       "ID": "achievement_0045",
@@ -12699,7 +12704,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18468,
+      "Progressed": 18469,
       "Completed": 0
     }
   ],
@@ -12707,8 +12712,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-19T20:59:01.8213662+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:08:13.9716416+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:08:44.1228925+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:00.1864121+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:58:27.5505958+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:08:13.9717064+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:59:15.0671082+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:08:44.1229692+00:00"
 }

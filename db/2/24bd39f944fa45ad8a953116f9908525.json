@@ -710,17 +710,17 @@
       "ID": "ach_40_towerDestroyer",
       "SetID": "16n29hg",
       "Name": "Toppler of Towers",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_41_gotGael",
       "SetID": "16n29hg",
       "Name": "Gotcha!",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "ach_42_inherit",
@@ -774,9 +774,9 @@
       "ID": "ach_48_moneySmell",
       "SetID": "16n29hg",
       "Name": "Greed is Good",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "ach_49_kindHaak",
@@ -867,8 +867,8 @@
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:09:45.1335195+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:10:53.8664646+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.3762964+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:57:09.8349452+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:09:45.1335732+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:57:18.8974139+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:10:53.8665076+00:00"
 }

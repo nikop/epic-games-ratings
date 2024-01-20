@@ -5,19 +5,19 @@ Rating: 4.69 (Ranked 242)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~219,612 |
-| 50 HEADSHOTS | 31.00% | ~200,235 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,775 |
-| FINISHED CHAPTER 1 | 29.00% | ~187,316 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,643 |
-| 200 HEADSHOTS | 19.00% | ~122,724 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,265 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,888 |
-| FINISH CHAPTER 5 | 13.00% | ~83,969 |
-| FINISH CHAPTER 6 | 11.00% | ~71,051 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,051 |
-| 1000 KILLS | 10.00% | ~64,592 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,837 |
+| 100 KILLS | 34.00% | ~219,606 |
+| 50 HEADSHOTS | 31.00% | ~200,229 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,770 |
+| FINISHED CHAPTER 1 | 29.00% | ~187,311 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,639 |
+| 200 HEADSHOTS | 19.00% | ~122,721 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,262 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,885 |
+| FINISH CHAPTER 5 | 13.00% | ~83,967 |
+| FINISH CHAPTER 6 | 11.00% | ~71,049 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,049 |
+| 1000 KILLS | 10.00% | ~64,590 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,836 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,918 |
 | FIRST BLOOD | 2.00% | ~12,918 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,459 |
@@ -26,7 +26,7 @@ Rating: 4.69 (Ranked 242)
 | TIME PARADOX | 1.00% | ~6,459 |
 | PARTYHARD | 0.90% | ~5,813 |
 | NEW GAME PLUS | 0.70% | ~4,521 |
-| FIREFIGHT LEVEL 40 | 0.60% | ~3,876 |
+| FIREFIGHT LEVEL 40 | 0.60% | ~3,875 |
 | CHURCH | 0.40% | ~2,584 |
 | FIREFIGHT LEVEL 50 | 0.30% | ~1,938 |
 | REMEMBER THE ARMORY | 0.30% | ~1,938 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 242)
 | THE GAMBLER | 0.10% | ~646 |
 | WARRIOR IN A GARDEN | 0.10% | ~646 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645,918 (Ranked 32)  
+Progressed: 645,900 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 58 (0.01%) (Ranked 379)
 | 2024-01-20 | 646,045 | 58 |
 ## Awards
 Max (Great Boss Battles): 509  (Ranked 223)  
-Sum: 616 (Ranked 323)  
+Sum: 617 (Ranked 323)  
 Diff (max vs sum): -100  
 | Award | Count |
 | ----- | ----- |
@@ -344,9 +344,9 @@ Diff (max vs sum): -100
 | This game is Great for Quick Sessions | 26 |
 | This game is Great for Beginners | 24 |
 | This game has Competitive Players | 21 |
+| This game has Amazing Characters | 21 |
 | This game is Highly Recommended | 20 |
 | This game is Extremely Fun | 20 |
-| This game has Amazing Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -515,3 +515,4 @@ Diff (max vs sum): -100
 | 2024-01-15 | 4.69 | 506 | 613 |
 | 2024-01-17 | 4.69 | 508 | 615 |
 | 2024-01-19 | 4.69 | 509 | 616 |
+| 2024-01-20 | 4.69 | 509 | 617 |

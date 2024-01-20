@@ -3,9 +3,9 @@
   "Name": "Jump Challenge!",
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 554,
-  "Ranking_EOS_Completed": 145,
-  "Ranking_EOS_NewPlayers": 398,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_Completed": 146,
+  "Ranking_EOS_NewPlayers": 387,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
     "PcReleaseDate": "2022-03-19T04:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 55,
+  "EOS_Progressed": 56,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.82,
+  "EOS_Completed_Percentage": 1.79,
   "EosHistory": [
     {
       "Time": "2023-11-23T23:03:27.3218044+00:00",
@@ -289,6 +289,11 @@
       "Time": "2024-01-18T15:08:54.6568294+00:00",
       "NumProgressed": 55,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T09:09:28.0443904+00:00",
+      "NumProgressed": 56,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-13T15:03:01.8003971+00:00",
@@ -307,7 +312,7 @@
       "ID": "DEATH_ACID",
       "SetID": "5629o35",
       "Name": "Be wary of acid",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 50,
       "UsersEstimate": 18
     },
@@ -349,7 +354,7 @@
       "Name": "The floor is lava. Literally.",
       "Percentage": 89,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "DEATH_LAVA_100",
@@ -373,7 +378,7 @@
       "Name": "Welcome to the jumping challenge!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "OWN_SKINS",
@@ -403,7 +408,7 @@
       "ID": "SCORE_100",
       "SetID": "5629o35",
       "Name": "Newbie jumper",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 25,
       "UsersEstimate": 31
     },
@@ -444,14 +449,14 @@
     {
       "ID": "5629o35",
       "IsBase": true,
-      "Progressed": 55,
+      "Progressed": 56,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:08:44.2731792+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:09:28.0443899+00:00",
   "LastUpdate_AppInfo": "2024-01-15T19:57:20.6907208+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:59:15.4825175+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:08:44.2731892+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:00:25.6691094+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:09:28.044401+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 340,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 709,
+  "EOS_Progressed": 711,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2044,6 +2044,11 @@
       "Time": "2024-01-20T08:10:06.2128234+00:00",
       "NumProgressed": 709,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T09:11:23.3638068+00:00",
+      "NumProgressed": 711,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -2095,7 +2100,7 @@
       "Name": "Bug Hunter",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "Cryomancer",
@@ -2111,7 +2116,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "GhostBuster",
@@ -2119,7 +2124,7 @@
       "Name": "Ghost Buster",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Gladiator",
@@ -2167,7 +2172,7 @@
       "Name": "Iconoclasm",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Inquisitor",
@@ -2175,7 +2180,7 @@
       "Name": "Inquisitor",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "Librarian",
@@ -2255,7 +2260,7 @@
       "Name": "Reincarnation",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "Roughneck",
@@ -2327,7 +2332,7 @@
       "Name": "Trio",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "TrapMaster",
@@ -2374,7 +2379,7 @@
     {
       "ID": "82505mn",
       "IsBase": true,
-      "Progressed": 709,
+      "Progressed": 711,
       "Completed": 1
     }
   ],
@@ -2382,8 +2387,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:10:06.2128232+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:11:23.3638062+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.8441104+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:58:23.5791161+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:10:06.2128493+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:59:09.1575602+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:11:23.3638406+00:00"
 }

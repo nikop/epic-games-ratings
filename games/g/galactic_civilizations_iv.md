@@ -45,12 +45,12 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Drengin | 0.70% | ~53 |
 | Win as the Krynn | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
+| Hyperspace! | 0.60% | ~45 |
 | Win as the Drath | 0.60% | ~45 |
 | Win as the Iridium | 0.60% | ~45 |
 | Win as the Manti | 0.60% | ~45 |
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
-| Hyperspace! | 0.50% | ~38 |
 | Veteran Crew | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
 | Recruit a Dozen Leaders | 0.30% | ~23 |

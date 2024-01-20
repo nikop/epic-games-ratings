@@ -5,7 +5,7 @@ Rating: 4.58 (Ranked 474)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 89.00% | ~187 |
+| Beginner | 90.00% | ~189 |
 | Map reader | 65.00% | ~136 |
 | Adventurer | 64.00% | ~134 |
 | Philanthropist | 61.00% | ~128 |
@@ -16,8 +16,8 @@ Rating: 4.58 (Ranked 474)
 | Samaritan | 30.00% | ~63 |
 | Ladies' man | 30.00% | ~63 |
 | The merciful one | 29.00% | ~61 |
+| Idiot | 25.00% | ~52 |
 | Ferocious wild boars | 24.00% | ~50 |
-| Idiot | 24.00% | ~50 |
 | Beast slayer | 22.00% | ~46 |
 | Ogre friend | 21.00% | ~44 |
 | Death of a legend | 20.00% | ~42 |
@@ -27,9 +27,9 @@ Rating: 4.58 (Ranked 474)
 | The fourth triplet | 18.00% | ~38 |
 | Sidelined | 18.00% | ~38 |
 | Wise man | 17.00% | ~36 |
+| Fence | 17.00% | ~36 |
 | Pandora's box | 16.00% | ~34 |
 | Hard worker | 16.00% | ~34 |
-| Fence | 16.00% | ~34 |
 | Ghost hunter | 15.00% | ~32 |
 | Master detective | 15.00% | ~32 |
 | Defender | 14.00% | ~29 |

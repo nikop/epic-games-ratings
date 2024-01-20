@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 53,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -140,10 +140,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2902,
-  "EOS_Completed": 222,
+  "EOS_Completed": 223,
   "EOS_NewPlayers": 179,
-  "EOS_NewCompleters": 20,
-  "EOS_Completed_Percentage": 7.65,
+  "EOS_NewCompleters": 21,
+  "EOS_Completed_Percentage": 7.68,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7734,6 +7734,11 @@
       "Time": "2024-01-20T08:05:02.0154153+00:00",
       "NumProgressed": 2902,
       "NumCompleted": 222
+    },
+    {
+      "Time": "2024-01-20T09:06:27.5998025+00:00",
+      "NumProgressed": 2902,
+      "NumCompleted": 223
     }
   ],
   "TotalAchievements": 25,
@@ -7919,9 +7924,9 @@
       "ID": "PROGRESS_N3",
       "SetID": "2gma9an",
       "Name": "A new dawn",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1103
+      "UsersEstimate": 1132
     },
     {
       "ID": "PROGRESS_N4",
@@ -7945,15 +7950,15 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 2902,
-      "Completed": 222
+      "Completed": 223
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:05:02.015415+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:06:27.5998018+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:58:03.3322137+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:05:02.0154609+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:58:37.3686248+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:06:27.5998479+00:00"
 }

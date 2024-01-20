@@ -579,9 +579,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6510,
+  "EOS_Progressed": 6511,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 119,
+  "EOS_NewPlayers": 118,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10144,6 +10144,11 @@
       "Time": "2024-01-20T07:04:37.7664058+00:00",
       "NumProgressed": 6510,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T09:04:48.230549+00:00",
+      "NumProgressed": 6511,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10195,7 +10200,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2799
+      "UsersEstimate": 2800
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10259,7 +10264,7 @@
       "Name": "Regicide",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 911
+      "UsersEstimate": 912
     },
     {
       "ID": "ACH_KILL_UNDETECTED",
@@ -10267,7 +10272,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3515
+      "UsersEstimate": 3516
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10331,7 +10336,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1497
+      "UsersEstimate": 1498
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10347,7 +10352,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3450
+      "UsersEstimate": 3451
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10379,7 +10384,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2213
+      "UsersEstimate": 2214
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10403,7 +10408,7 @@
       "Name": "Deep Into Insanity",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "ACH_MISSION_09",
@@ -10411,7 +10416,7 @@
       "Name": "The Passenger",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "ACH_MISSION_10",
@@ -10451,7 +10456,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4166
+      "UsersEstimate": 4167
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10467,7 +10472,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3321
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10491,7 +10496,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2083
+      "UsersEstimate": 2084
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10514,7 +10519,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6510,
+      "Progressed": 6511,
       "Completed": 3
     }
   ],
@@ -10522,8 +10527,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:03:53.4703502+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:04:48.2305483+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:01:50.9141217+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:03:53.4704215+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:57:06.4847314+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:04:48.2306194+00:00"
 }

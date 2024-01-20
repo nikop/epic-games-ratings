@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2397,
+  "EOS_Progressed": 2398,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 2,
@@ -4845,6 +4845,11 @@
       "Time": "2024-01-20T08:10:07.0461295+00:00",
       "NumProgressed": 2397,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T09:11:24.3532733+00:00",
+      "NumProgressed": 2398,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4856,7 +4861,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1558
+      "UsersEstimate": 1559
     },
     {
       "ID": "ACH_02",
@@ -4872,7 +4877,7 @@
       "Name": "Powerful Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "ACH_04",
@@ -4968,7 +4973,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ACH_16",
@@ -5048,7 +5053,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_26",
@@ -5056,7 +5061,7 @@
       "Name": "Scholar",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH_27",
@@ -5072,7 +5077,7 @@
       "Name": "I Found It",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACH_29",
@@ -5096,7 +5101,7 @@
       "Name": "Stone Collection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_33",
@@ -5143,7 +5148,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2397,
+      "Progressed": 2398,
       "Completed": 5
     }
   ],
@@ -5151,8 +5156,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:10:07.0461292+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:11:24.3532729+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:58:09.5653672+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:10:07.0461731+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:58:46.9622049+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:11:24.3533192+00:00"
 }

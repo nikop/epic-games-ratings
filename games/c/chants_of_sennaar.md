@@ -9,7 +9,7 @@ Rating: 4.87 (Ranked 25)
 | Welcome to the Tower | 54.00% | ~1,567 |
 | The great escape | 47.00% | ~1,364 |
 | The Preacher's fate | 44.00% | ~1,277 |
-| A new dawn | 38.00% | ~1,103 |
+| A new dawn | 39.00% | ~1,132 |
 | Scholar | 34.00% | ~987 |
 | The darkness | 33.00% | ~958 |
 | A good beginning | 32.00% | ~929 |
@@ -32,7 +32,7 @@ Rating: 4.87 (Ranked 25)
 | Fashion victim | 10.00% | ~290 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,902 (Ranked 236)  
-Completed: 222 (7.65%) (Ranked 53)  
+Completed: 223 (7.68%) (Ranked 53)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -213,7 +213,7 @@ Completed: 222 (7.65%) (Ranked 53)
 | 2024-01-17 | 2,841 | 218 |
 | 2024-01-18 | 2,866 | 220 |
 | 2024-01-19 | 2,890 | 222 |
-| 2024-01-20 | 2,902 | 222 |
+| 2024-01-20 | 2,902 | 223 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,37 +6,37 @@ Number of Ratings: 87  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 74.00% | ~321,171 |
-| Full garage | 61.00% | ~264,749 |
-| To the eyeballs! | 51.00% | ~221,348 |
-| Individual delivery | 47.00% | ~203,987 |
-| Non-Stop | 45.00% | ~195,307 |
-| Juggler | 36.00% | ~156,245 |
-| Forgot something | 35.00% | ~151,905 |
-| Close call! | 31.00% | ~134,545 |
-| Get out my way | 28.00% | ~121,524 |
-| Common cause | 26.00% | ~112,844 |
-| Critical care | 26.00% | ~112,844 |
-| Mega-railroad | 23.00% | ~99,823 |
-| Upgrade complete | 23.00% | ~99,823 |
-| Just in time! | 18.00% | ~78,123 |
-| Builder | 17.00% | ~73,783 |
-| Long Haul | 17.00% | ~73,671 |
-| Steam Age | 16.00% | ~69,442 |
-| Multilevel road | 15.00% | ~65,102 |
-| Bridgemania | 14.00% | ~60,762 |
-| Need to think | 14.00% | ~60,762 |
-| The Tortoise | 12.00% | ~52,082 |
-| Beginner | 11.00% | ~47,742 |
-| Without a lunch break | 11.00% | ~47,742 |
+| Dealmaker | 74.00% | ~321,178 |
+| Full garage | 61.00% | ~264,755 |
+| To the eyeballs! | 51.00% | ~221,353 |
+| Individual delivery | 47.00% | ~203,992 |
+| Non-Stop | 45.00% | ~195,311 |
+| Juggler | 36.00% | ~156,249 |
+| Forgot something | 35.00% | ~151,909 |
+| Close call! | 31.00% | ~134,548 |
+| Get out my way | 28.00% | ~121,527 |
+| Common cause | 26.00% | ~112,846 |
+| Critical care | 26.00% | ~112,846 |
+| Mega-railroad | 23.00% | ~99,826 |
+| Upgrade complete | 23.00% | ~99,826 |
+| Just in time! | 18.00% | ~78,124 |
+| Builder | 17.00% | ~73,784 |
+| Long Haul | 17.00% | ~73,672 |
+| Steam Age | 16.00% | ~69,444 |
+| Multilevel road | 15.00% | ~65,104 |
+| Bridgemania | 14.00% | ~60,764 |
+| Need to think | 14.00% | ~60,764 |
+| The Tortoise | 12.00% | ~52,083 |
+| Beginner | 11.00% | ~47,743 |
+| Without a lunch break | 11.00% | ~47,743 |
 | One way | 10.00% | ~43,402 |
 | Relocation | 10.00% | ~43,402 |
-| Industrial Age | 9.00% | ~39,061 |
-| Just One More Valley | 9.00% | ~39,002 |
-| Prick of conscience | 8.00% | ~34,721 |
-| Missed it! | 7.00% | ~30,381 |
-| At the last moment! | 6.00% | ~26,041 |
-| Overseer | 6.00% | ~26,041 |
+| Industrial Age | 9.00% | ~39,062 |
+| Just One More Valley | 9.00% | ~39,003 |
+| Prick of conscience | 8.00% | ~34,722 |
+| Missed it! | 7.00% | ~30,382 |
+| At the last moment! | 6.00% | ~26,042 |
+| Overseer | 6.00% | ~26,042 |
 | Highlander | 5.00% | ~21,701 |
 | Jewelry accuracy | 5.00% | ~21,701 |
 | Stargazer | 5.00% | ~21,701 |
@@ -45,9 +45,9 @@ Number of Ratings: 87  (23.09.2022)
 | Engineer | 4.00% | ~17,361 |
 | Large construction | 4.00% | ~17,361 |
 | Squander | 4.00% | ~17,361 |
-| Globalisation Age | 3.00% | ~13,020 |
-| Living it large | 3.00% | ~13,020 |
-| Sabotage | 3.00% | ~13,020 |
+| Globalisation Age | 3.00% | ~13,021 |
+| Living it large | 3.00% | ~13,021 |
+| Sabotage | 3.00% | ~13,021 |
 | Test Batch | 3.00% | ~13,001 |
 | Astronomer | 2.00% | ~8,680 |
 | Innovator | 2.00% | ~8,680 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~433 |
 | World Zapper | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,015 (Ranked 46)  
+Progressed: 434,025 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,10 +333,10 @@ Completed: 24 (0.01%) (Ranked 379)
 | 2024-01-17 | 433,553 | 24 |
 | 2024-01-18 | 433,732 | 24 |
 | 2024-01-19 | 433,960 | 24 |
-| 2024-01-20 | 434,015 | 24 |
+| 2024-01-20 | 434,025 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,060  (Ranked 159)  
-Sum: 2,197 (Ranked 215)  
+Sum: 2,198 (Ranked 215)  
 Diff (max vs sum): -56  
 | Award | Count |
 | ----- | ----- |
@@ -348,7 +348,7 @@ Diff (max vs sum): -56
 | This game has Quickly Understood Controls | 113 |
 | This game is Highly Recommended | 108 |
 | This game has Challenging Combat | 94 |
-| This game has a Creative Community | 87 |
+| This game has a Creative Community | 88 |
 | This game has Amazing Storytelling | 81 |
 | This game has Amazing Characters | 63 |
 ## Ratings History
@@ -595,3 +595,4 @@ Diff (max vs sum): -56
 | 2024-01-17 | 4.45 | - | 1,057 | 2,185 |
 | 2024-01-18 | 4.45 | - | 1,060 | 2,195 |
 | 2024-01-19 | 4.45 | - | 1,060 | 2,197 |
+| 2024-01-20 | 4.45 | - | 1,060 | 2,198 |

@@ -11,8 +11,8 @@
 | No Fear of the Dark | 40.00% | ~12 |
 | They’re Watching | 37.00% | ~11 |
 | Art Connoisseur | 37.00% | ~11 |
+| Survivor | 37.00% | ~11 |
 | The Last Skull | 37.00% | ~11 |
-| Survivor | 33.00% | ~10 |
 | Master of Riddles | 30.00% | ~9 |
 | The Witch’s Haunt | 27.00% | ~8 |
 | A Cautious Man Is Worth Two of His Kind | 27.00% | ~8 |

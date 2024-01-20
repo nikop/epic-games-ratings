@@ -4,7 +4,7 @@
   "ProductSlug": "against-the-storm",
   "Ranking_Rating": 70,
   "Ranking_Popularity": 234,
-  "Ranking_PopularitySum": 179,
+  "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 177,
@@ -4025,9 +4025,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20906,
+  "EOS_Progressed": 20907,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 171,
+  "EOS_NewPlayers": 169,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20110,6 +20110,11 @@
       "Time": "2024-01-20T08:08:35.596229+00:00",
       "NumProgressed": 20906,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-20T09:09:15.3390978+00:00",
+      "NumProgressed": 20907,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20402,7 +20407,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1672
+      "UsersEstimate": 1673
     },
     {
       "ID": "WinOnMoorlands",
@@ -20593,15 +20598,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20906,
+      "Progressed": 20907,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-20T05:59:40.4490186+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:08:35.5962288+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:09:15.3390971+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:59:52.5857407+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:08:35.5963173+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:01:21.6389223+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:09:15.3392289+00:00"
 }

@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 345,
+  "EOS_Progressed": 346,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -1479,6 +1479,11 @@
       "Time": "2024-01-20T04:04:45.4367641+00:00",
       "NumProgressed": 345,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T09:06:10.8791312+00:00",
+      "NumProgressed": 346,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1603,7 +1608,7 @@
       "Name": "I know kung fu",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "23",
@@ -1635,7 +1640,7 @@
       "Name": "The only useful pigeon is a stool pigeon",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "27",
@@ -1667,7 +1672,7 @@
       "Name": "The power of observation",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "6",
@@ -1675,7 +1680,7 @@
       "Name": "A true detective",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "7",
@@ -1691,7 +1696,7 @@
       "Name": "You\u0027re probably wondering how I got here...",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "9",
@@ -1706,14 +1711,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 345,
+      "Progressed": 346,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:04:50.2915221+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:06:10.8791306+00:00",
   "LastUpdate_AppInfo": "2024-01-18T06:57:12.8329669+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:03:08.5612366+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:04:50.2915402+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:03:40.3782036+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:06:10.8791541+00:00"
 }

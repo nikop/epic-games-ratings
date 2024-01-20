@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 444,
   "Ranking_EOS_Completed": 173,
   "Ranking_EOS_NewPlayers": 317,
-  "Ranking_EOS_NewCompleters": 100,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -1261,9 +1261,9 @@
       "ID": "ACH_TRASH_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Let me start over",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_TRUE_FAN",
@@ -1364,8 +1364,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:08:31.1032893+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:09:08.5084411+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:02.7129015+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:00:14.2416467+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:08:31.1033306+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:01:55.3833279+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:09:08.5084815+00:00"
 }

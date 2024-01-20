@@ -6,32 +6,32 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,259 |
-| Basic in Bulk | 11.00% | ~16,737 |
-| Titan's First Steps | 11.00% | ~16,737 |
+| Sponsored by Argon | 12.00% | ~18,260 |
+| Basic in Bulk | 11.00% | ~16,738 |
+| Titan's First Steps | 11.00% | ~16,738 |
 | Tinkle of Coins | 10.00% | ~15,216 |
 | Disintermediation | 8.00% | ~12,173 |
 | Capitalism Ho! | 8.00% | ~12,173 |
-| It's Free Real Estate | 7.00% | ~10,651 |
-| Budding Merchant | 7.00% | ~10,651 |
-| One Easy Payment | 6.00% | ~9,129 |
-| Some Assembly Required | 6.00% | ~9,129 |
-| Another Satisfied Customer | 6.00% | ~9,129 |
-| Pretty Penny | 6.00% | ~9,129 |
-| Own the Means of Production | 6.00% | ~9,129 |
+| It's Free Real Estate | 7.00% | ~10,652 |
+| Budding Merchant | 7.00% | ~10,652 |
+| One Easy Payment | 6.00% | ~9,130 |
+| Some Assembly Required | 6.00% | ~9,130 |
+| Another Satisfied Customer | 6.00% | ~9,130 |
+| Pretty Penny | 6.00% | ~9,130 |
+| Own the Means of Production | 6.00% | ~9,130 |
 | The Daily Grind | 5.00% | ~7,608 |
 | Bounty Hunters | 5.00% | ~7,608 |
 | One-Armed Bandit | 5.00% | ~7,608 |
 | Through Repetition, Perfection | 5.00% | ~7,608 |
-| Demand for Supplies | 4.00% | ~6,086 |
-| Flooding the Market | 4.00% | ~6,086 |
-| Where it Hurts | 4.00% | ~6,086 |
-| Gem Expert | 4.00% | ~6,086 |
-| Gild-Gotten Goods | 4.00% | ~6,086 |
-| Accomplished Merchant | 4.00% | ~6,086 |
-| Dungeon Imports | 4.00% | ~6,086 |
-| Did we pack lunch? | 4.00% | ~6,086 |
-| Arcane Industries | 4.00% | ~6,086 |
+| Demand for Supplies | 4.00% | ~6,087 |
+| Flooding the Market | 4.00% | ~6,087 |
+| Where it Hurts | 4.00% | ~6,087 |
+| Gem Expert | 4.00% | ~6,087 |
+| Gild-Gotten Goods | 4.00% | ~6,087 |
+| Accomplished Merchant | 4.00% | ~6,087 |
+| Dungeon Imports | 4.00% | ~6,087 |
+| Did we pack lunch? | 4.00% | ~6,087 |
+| Arcane Industries | 4.00% | ~6,087 |
 | On the Path to Greatness | 3.00% | ~4,565 |
 | A Notch Above the Rest | 3.00% | ~4,565 |
 | Ascended | 3.00% | ~4,565 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~609 |
 | Capitalist Camaraderie | 0.30% | ~456 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,157 (Ranked 87)  
+Progressed: 152,165 (Ranked 87)  
 Completed: 359 (0.24%) (Ranked 276)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 359 (0.24%) (Ranked 276)
 | 2024-01-17 | 151,701 | 359 |
 | 2024-01-18 | 151,873 | 359 |
 | 2024-01-19 | 152,097 | 359 |
-| 2024-01-20 | 152,157 | 359 |
+| 2024-01-20 | 152,165 | 359 |
 ## Awards
 Max (Great for Beginners): 4,966  (Ranked 82)  
 Sum: 28,018 (Ranked 52)  

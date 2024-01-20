@@ -153,6 +153,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Siege Tower | 0.40% | ~68 |
 | Poetic Leader | 0.40% | ~68 |
 | Cothon | 0.40% | ~68 |
+| Ancient | 0.30% | ~51 |
 | The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
@@ -167,7 +168,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Silver Victory (Carthage 1) | 0.20% | ~34 |
 | Carthage - Riches and Influence | 0.20% | ~34 |
 | Cleopatra's Love | 0.20% | ~34 |
-| Ancient | 0.20% | ~34 |
 | Holy | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
 | Magnificent Difficulty | 0.20% | ~34 |
@@ -257,6 +257,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gate to Victory | 0.10% | ~17 |
 | Pharaoh | 0.10% | ~17 |
 | A Tyresome Siege | 0.10% | ~17 |
+| Alexander the Mediocre | 0.10% | ~17 |
 | The Eastern Empire | 0.10% | ~17 |
 | Mausoleum in Halicarnassus | 0.10% | ~17 |
 | Hardcore | 0.10% | ~17 |
@@ -334,7 +335,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ethnic Diversity | 0.00% | ~0 |
 | That Also Works | 0.00% | ~0 |
 | Queen of Opportunity | 0.00% | ~0 |
-| Alexander the Mediocre | 0.00% | ~0 |
 | Alexander the Great | 0.00% | ~0 |
 | Alexander the Alright | 0.00% | ~0 |
 | Youth Prevails | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,015 (Ranked 170)  
+Progressed: 17,016 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,015 | 5 |
+| 2024-01-20 | 17,016 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,943 (Ranked 223)  

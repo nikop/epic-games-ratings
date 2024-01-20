@@ -2352,9 +2352,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17015,
+  "EOS_Progressed": 17016,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 412,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20572,6 +20572,11 @@
       "Time": "2024-01-20T07:11:27.5993729+00:00",
       "NumProgressed": 17015,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T09:11:36.4083473+00:00",
+      "NumProgressed": 17016,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20925,9 +20930,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_ANCIENT",
       "SetID": "9201eeb",
       "Name": "Ancient",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ARCHITECT",
@@ -21821,9 +21826,9 @@
       "ID": "ACHIEVEMENT_GREECE5_VICTORY",
       "SetID": "9201eeb",
       "Name": "Alexander the Mediocre",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_GREECE5_VICTORY_BEST",
@@ -23446,21 +23451,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17015,
+      "Progressed": 17016,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17015,
+      "Progressed": 17016,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-20T06:57:18.3616453+00:00",
-  "LastChanged_Achievements": "2024-01-20T08:10:16.1941308+00:00",
+  "LastChanged_Achievements": "2024-01-20T09:11:36.4083467+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-20T07:57:15.1430254+00:00",
-  "LastUpdate_Achievements": "2024-01-20T08:10:16.1950733+00:00"
+  "LastUpdate_Ratings": "2024-01-20T08:57:25.7408863+00:00",
+  "LastUpdate_Achievements": "2024-01-20T09:11:36.4093405+00:00"
 }

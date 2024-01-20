@@ -1,36 +1,36 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 553)  
+Rating: 4.54 (Ranked 552)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,732 |
-| Break A Leg | 9.00% | ~72,599 |
-| Hotel California | 9.00% | ~72,599 |
-| Coup de Grâce | 8.00% | ~64,532 |
-| Hazardous Materials | 8.00% | ~64,532 |
-| Git Gutte! | 7.00% | ~56,466 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,466 |
-| Dr. Reed, I Presume? | 6.00% | ~48,399 |
-| Bookworm | 6.00% | ~48,399 |
-| Friends Like These | 6.00% | ~48,399 |
-| Apex Predator | 6.00% | ~48,399 |
-| Stacking the Deck | 6.00% | ~48,399 |
+| Welcome To Hell-A | 11.00% | ~88,733 |
+| Break A Leg | 9.00% | ~72,600 |
+| Hotel California | 9.00% | ~72,600 |
+| Coup de Grâce | 8.00% | ~64,533 |
+| Hazardous Materials | 8.00% | ~64,533 |
+| Git Gutte! | 7.00% | ~56,467 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,467 |
+| Dr. Reed, I Presume? | 6.00% | ~48,400 |
+| Bookworm | 6.00% | ~48,400 |
+| Friends Like These | 6.00% | ~48,400 |
+| Apex Predator | 6.00% | ~48,400 |
+| Stacking the Deck | 6.00% | ~48,400 |
 | Anger Management | 5.00% | ~40,333 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,333 |
 | But Doctor, I am Butcho | 5.00% | ~40,333 |
 | Can't Handle the Truth | 5.00% | ~40,333 |
 | This is My Weapon | 5.00% | ~40,333 |
-| Making Your Mark | 4.00% | ~32,266 |
-| Perks of the Job | 4.00% | ~32,266 |
-| Slayer Squad | 4.00% | ~32,266 |
-| Like Riding a Bike | 4.00% | ~32,266 |
-| Zombologist | 4.00% | ~32,266 |
-| Ooh, Shiny! | 4.00% | ~32,266 |
-| A Patton Emerges | 4.00% | ~32,266 |
-| I Am the Resurrection | 4.00% | ~32,266 |
-| Our True Nature | 4.00% | ~32,266 |
+| Making Your Mark | 4.00% | ~32,267 |
+| Perks of the Job | 4.00% | ~32,267 |
+| Slayer Squad | 4.00% | ~32,267 |
+| Like Riding a Bike | 4.00% | ~32,267 |
+| Zombologist | 4.00% | ~32,267 |
+| Ooh, Shiny! | 4.00% | ~32,267 |
+| A Patton Emerges | 4.00% | ~32,267 |
+| I Am the Resurrection | 4.00% | ~32,267 |
+| Our True Nature | 4.00% | ~32,267 |
 | Whatever It Takes | 4.00% | ~5,288 |
 | Pork Chopped | 4.00% | ~5,288 |
 | Humanity Distilled | 3.00% | ~24,200 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 553)
 | Bucket List | 0.10% | ~807 |
 | Wilhelm | 0.10% | ~132 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 806,656 (Ranked 23)  
+Progressed: 806,665 (Ranked 23)  
 Completed: 2,607 (0.32%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 2,607 (0.32%) (Ranked 259)
 | 2024-01-17 | 805,399 | 2,596 |
 | 2024-01-18 | 805,908 | 2,599 |
 | 2024-01-19 | 806,486 | 2,606 |
-| 2024-01-20 | 806,656 | 2,607 |
+| 2024-01-20 | 806,665 | 2,607 |
 ## Awards
 Max (Great Boss Battles): 10,659  (Ranked 40)  
 Sum: 16,378 (Ranked 71)  
