@@ -2,9 +2,9 @@
   "ID": "109a4631336a475ca4e4a8a51cc6fe69",
   "Name": "Figment 2: Creed Valley",
   "ProductSlug": "figment2-creed-valley",
-  "Ranking_EOS_Progress": 532,
+  "Ranking_EOS_Progress": 531,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 448,
+  "Ranking_EOS_NewPlayers": 427,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 75,
+  "EOS_Progressed": 76,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -397,6 +397,11 @@
       "Time": "2024-01-19T17:10:52.5106129+00:00",
       "NumProgressed": 75,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T15:10:14.3395565+00:00",
+      "NumProgressed": 76,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 18,
@@ -486,7 +491,7 @@
       "ID": "shards_one_remembrane",
       "SetID": "7e96e7l",
       "Name": "Remembering of the past",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 50,
       "UsersEstimate": 35
     },
@@ -494,7 +499,7 @@
       "ID": "story_conviction_lane",
       "SetID": "7e96e7l",
       "Name": "Fight like an idiot",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 50,
       "UsersEstimate": 29
     },
@@ -502,7 +507,7 @@
       "ID": "story_dance_off",
       "SetID": "7e96e7l",
       "Name": "Dance like an idiot",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 11
     },
@@ -526,7 +531,7 @@
       "ID": "story_jester_land",
       "SetID": "7e96e7l",
       "Name": "Flee like an idiot",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 50,
       "UsersEstimate": 17
     },
@@ -534,7 +539,7 @@
       "ID": "story_outer_cerebrum",
       "SetID": "7e96e7l",
       "Name": "Black Hog Down",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 50,
       "UsersEstimate": 49
     },
@@ -551,7 +556,7 @@
     {
       "ID": "7e96e7l",
       "IsBase": true,
-      "Progressed": 75,
+      "Progressed": 76,
       "Completed": 0
     }
   ],
@@ -559,8 +564,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4324402+00:00",
   "FirstSeenAchievements": "2023-05-30T08:03:39.2504029+00:00",
   "LastChanged": "2023-03-31T05:57:26.4324404+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:17.055389+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:14.3395563+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.2509908+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:00:12.4360307+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:17.0554019+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:00:03.7212644+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:14.3395677+00:00"
 }

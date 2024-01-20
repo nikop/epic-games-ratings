@@ -3,8 +3,8 @@
   "Name": "Them and Us",
   "ProductSlug": "them-and-us-7c9c73",
   "Ranking_EOS_Progress": 372,
-  "Ranking_EOS_Completed": 276,
-  "Ranking_EOS_NewPlayers": 372,
+  "Ranking_EOS_Completed": 279,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-12T11:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 425,
+  "EOS_Progressed": 426,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.24,
+  "EOS_Completed_Percentage": 0.23,
   "EosHistory": [
     {
       "Time": "2023-04-30T13:59:34.488144+00:00",
@@ -1866,6 +1866,11 @@
       "Time": "2024-01-18T11:09:32.9368493+00:00",
       "NumProgressed": 425,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T15:03:47.4905161+00:00",
+      "NumProgressed": 426,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 40,
@@ -1909,7 +1914,7 @@
       "Name": "Back In Time",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_BeforeTheEclipse",
@@ -1941,7 +1946,7 @@
       "Name": "Retro Player",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_DieAnotherDay",
@@ -1965,7 +1970,7 @@
       "Name": "Spiritual essence well spent",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_ForcedtoKill",
@@ -1973,7 +1978,7 @@
       "Name": "Forced to Kill",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ETUA_IsThemAndUs",
@@ -1997,7 +2002,7 @@
       "Name": "Run and Gun",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_ModernPlayer",
@@ -2005,7 +2010,7 @@
       "Name": "Modern Player",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ETUA_NightmareOver",
@@ -2029,7 +2034,7 @@
       "Name": "Open Sesame",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ETUA_OutRage",
@@ -2109,7 +2114,7 @@
       "Name": "The 5th Element",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_TheBusStop",
@@ -2117,7 +2122,7 @@
       "Name": "The bus stop",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ETUA_TheCultists",
@@ -2133,7 +2138,7 @@
       "Name": "The Curse Is Real",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "ETUA_TheForgottenTower",
@@ -2196,7 +2201,7 @@
     {
       "ID": "65jc0ap",
       "IsBase": true,
-      "Progressed": 425,
+      "Progressed": 426,
       "Completed": 1
     }
   ],
@@ -2204,8 +2209,8 @@
   "FirstSeenRating": "2023-05-01T09:56:49.9565243+00:00",
   "FirstSeenAchievements": "2023-04-30T13:59:34.4882235+00:00",
   "LastChanged": "2023-05-01T09:56:49.9565244+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:03:38.8708621+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:03:47.4905157+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:31.2690065+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:42.1809371+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:03:38.8708953+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:33.7006172+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:03:47.4905761+00:00"
 }

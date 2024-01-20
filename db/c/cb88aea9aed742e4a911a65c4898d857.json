@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 380,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -443,9 +443,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11911,
+  "EOS_Progressed": 11914,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 651,
+  "EOS_NewPlayers": 640,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5608,6 +5608,11 @@
       "Time": "2024-01-20T14:10:22.113971+00:00",
       "NumProgressed": 11911,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T15:10:19.3261729+00:00",
+      "NumProgressed": 11914,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5652,7 +5657,7 @@
       "Name": "Expanse Calamity",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "07_TheGrandFinale",
@@ -5708,7 +5713,7 @@
       "Name": "Doom Trader",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "14_TheBreezeOfPain",
@@ -5724,7 +5729,7 @@
       "Name": "Pentakill",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "16_TheRise",
@@ -5756,7 +5761,7 @@
       "Name": "Void Wolf",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -5836,7 +5841,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "30_The GreatestExploration",
@@ -5868,7 +5873,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1430
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5876,7 +5881,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5930,9 +5935,9 @@
       "ID": "41_TheJungleHeat",
       "SetID": "37a94m8",
       "Name": "Jungle Heat",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1548
+      "UsersEstimate": 1430
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5940,7 +5945,7 @@
       "Name": "Iron Judgement",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6034,9 +6039,9 @@
       "ID": "54_ThisIsAJobForLordCaptain",
       "SetID": "37a94m8",
       "Name": "This Is a Job for the Lord Captain!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 357
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -6139,7 +6144,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11911,
+      "Progressed": 11914,
       "Completed": 1
     }
   ],
@@ -6147,8 +6152,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-20T14:00:29.182554+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:22.1139708+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:19.3261728+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:00:29.1825549+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:22.1140283+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:00:19.1093528+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:19.3262365+00:00"
 }

@@ -3,11 +3,11 @@
   "Name": "The Uncertain: Light at the End",
   "ProductSlug": "the-uncertain-light-at-the-end",
   "Ranking_Rating": 1083,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 337,
-  "Ranking_EOS_Completed": 191,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_Completed": 192,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 682,
+  "EOS_Progressed": 683,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1454,6 +1454,11 @@
       "Time": "2024-01-19T01:53:53.50762+00:00",
       "NumProgressed": 682,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-20T15:05:00.4676779+00:00",
+      "NumProgressed": 683,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1553,7 +1558,7 @@
       "Name": "Bundle of Joy",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 334
+      "UsersEstimate": 335
     },
     {
       "ID": "Hitman",
@@ -1585,7 +1590,7 @@
       "Name": "A Friend in Need...",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "Leisurely_Strol",
@@ -1696,7 +1701,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 682,
+      "Progressed": 683,
       "Completed": 6
     }
   ],
@@ -1704,8 +1709,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:04:52.0863432+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:05:00.4676777+00:00",
   "LastUpdate_AppInfo": "2024-01-13T19:57:19.1860135+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:03:27.5790386+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:04:52.0863843+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:03:34.9964094+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:05:00.4677021+00:00"
 }

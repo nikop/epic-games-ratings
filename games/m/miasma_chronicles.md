@@ -5,18 +5,18 @@ Rating: 4.38 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,586 |
-| Ranidaphobia | 77.00% | ~1,327 |
+| First Blood | 92.00% | ~1,587 |
+| Ranidaphobia | 77.00% | ~1,328 |
 | Aspiring Editor | 74.00% | ~1,276 |
 | Gun for Hire | 69.00% | ~1,190 |
-| I am the law! | 63.00% | ~1,086 |
+| I am the law! | 63.00% | ~1,087 |
 | Lumberjack | 53.00% | ~914 |
 | Croaked | 49.00% | ~845 |
 | Limp Richard | 48.00% | ~828 |
 | Editor Adept | 48.00% | ~828 |
 | Exorcist | 48.00% | ~828 |
 | From Darkness to Light | 48.00% | ~828 |
-| Giant Killer | 46.00% | ~793 |
+| Giant Killer | 46.00% | ~794 |
 | Sensei | 44.00% | ~759 |
 | Firestarter | 42.00% | ~724 |
 | The meaning of Kain | 42.00% | ~724 |
@@ -25,7 +25,7 @@ Rating: 4.38 (Ranked 799)
 | Are you not entertained? | 36.00% | ~621 |
 | Ganglord | 36.00% | ~621 |
 | Jarhead | 36.00% | ~621 |
-| Infiltrator | 35.00% | ~603 |
+| Infiltrator | 35.00% | ~604 |
 | Experienced | 33.00% | ~569 |
 | Hold The Line | 33.00% | ~569 |
 | Pushing Daisy | 33.00% | ~569 |
@@ -33,13 +33,13 @@ Rating: 4.38 (Ranked 799)
 | Savior | 28.00% | ~483 |
 | Silent but Violent | 28.00% | ~483 |
 | There Can Be Only One! | 26.00% | ~448 |
-| Chain Killer | 22.00% | ~379 |
-| The Watchers | 22.00% | ~379 |
+| Chain Killer | 22.00% | ~380 |
+| The Watchers | 22.00% | ~380 |
 | Commando | 17.00% | ~293 |
 | Chaos Theory | 16.00% | ~276 |
 | Dr Jones | 16.00% | ~276 |
 | Newtonian Knockout | 16.00% | ~276 |
-| Ruthless | 14.00% | ~241 |
+| Ruthless | 14.00% | ~242 |
 | Side Order | 11.00% | ~190 |
 | Bot Whisperer | 9.00% | ~155 |
 | Chain Reaction | 9.00% | ~155 |
@@ -47,7 +47,7 @@ Rating: 4.38 (Ranked 799)
 | Wipe Out | 8.00% | ~138 |
 | Dressed To Kill | 7.00% | ~121 |
 | Master Editor | 7.00% | ~121 |
-| Attenborough | 6.00% | ~103 |
+| Attenborough | 6.00% | ~104 |
 | Bookworm | 3.00% | ~52 |
 | Cruelty | 3.00% | ~52 |
 | Five Finger Deathcount | 1.00% | ~17 |
@@ -57,7 +57,7 @@ Rating: 4.38 (Ranked 799)
 | Alpha Editor | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,724 (Ranked 265)  
+Progressed: 1,725 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -237,6 +237,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-15 | 1,722 | 0 |
 | 2024-01-16 | 1,723 | 0 |
 | 2024-01-17 | 1,724 | 0 |
+| 2024-01-20 | 1,725 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

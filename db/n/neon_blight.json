@@ -4,7 +4,7 @@
   "ProductSlug": "neon-blight-6fe11b",
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-07-11T16:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:39.6080537+00:00",
   "LastChanged": "2023-03-31T05:58:39.6080538+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:42.3192946+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:57:41.2350898+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:04:30.7463748+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:57:34.6385181+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:04:38.8422055+00:00"
 }

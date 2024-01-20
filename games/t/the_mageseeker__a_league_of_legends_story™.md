@@ -1,7 +1,7 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 113)  
+Rating: 4.78 (Ranked 112)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -28,8 +28,8 @@ Rating: 4.78 (Ranked 113)
 | I chose my shackles | 28.00% | ~978 |
 | Sacred Woods | 27.00% | ~943 |
 | Little light | 25.00% | ~873 |
+| Capelworth | 25.00% | ~873 |
 | Glyndemere | 24.00% | ~838 |
-| Capelworth | 24.00% | ~838 |
 | Full equipped | 24.00% | ~838 |
 | Iffighain Headquarters | 23.00% | ~803 |
 | No more holding back | 20.00% | ~698 |

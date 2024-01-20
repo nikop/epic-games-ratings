@@ -3,11 +3,11 @@
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
   "Ranking_Rating": 823,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 237,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -8540,9 +8540,9 @@
       "ID": "A45",
       "SetID": "9b7p7eo",
       "Name": "Settler",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 441
+      "UsersEstimate": 469
     },
     {
       "ID": "A46",
@@ -8629,8 +8629,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-18T16:01:05.1728009+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:05:25.9325642+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:05:34.3130576+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:19.2704379+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:02:41.4133663+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:05:25.932653+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:02:50.2968261+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:05:34.3131402+00:00"
 }

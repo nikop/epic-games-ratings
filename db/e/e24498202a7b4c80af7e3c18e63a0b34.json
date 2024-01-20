@@ -3,12 +3,12 @@
   "Name": "Horizon Chase 2",
   "ProductSlug": "horizon-chase-2",
   "Ranking_Rating": 196,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 193,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 69,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-09-14T15:00:00+00:00",
     "PcReleaseDate": "2023-09-14T15:00:00+00:00",
@@ -232,7 +232,7 @@
   "EOS_Progressed": 8661,
   "EOS_Completed": 56,
   "EOS_NewPlayers": 85,
-  "EOS_NewCompleters": 3,
+  "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
@@ -10542,8 +10542,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-18T22:57:32.938139+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:04:17.1278417+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:04:25.8259381+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.3396943+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:58:08.2041351+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:04:17.1278994+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:58:02.6742066+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:04:25.826018+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 979,
-  "Ranking_Popularity": 568,
+  "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 229,
   "Ranking_EOS_Completed": 300,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3538,
+  "EOS_Progressed": 3539,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5945,6 +5945,11 @@
       "Time": "2024-01-20T10:09:34.9065992+00:00",
       "NumProgressed": 3538,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T15:10:16.5251398+00:00",
+      "NumProgressed": 3539,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5957,7 +5962,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3149
+      "UsersEstimate": 3150
     },
     {
       "ID": "achievement_10",
@@ -5997,7 +6002,7 @@
       "Name": "Geas Aristeya",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "achievement_15",
@@ -6037,7 +6042,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "achievement_2",
@@ -6045,7 +6050,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2901
+      "UsersEstimate": 2902
     },
     {
       "ID": "achievement_20",
@@ -6165,7 +6170,7 @@
       "Name": "Periapt Cerulean",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_45",
@@ -6189,7 +6194,7 @@
       "Name": "Enlisted",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "achievement_49",
@@ -6197,7 +6202,7 @@
       "Name": "Soldier",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "achievement_5",
@@ -6301,7 +6306,7 @@
       "Name": "Good Boy",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "achievement_7",
@@ -6317,7 +6322,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 955
+      "UsersEstimate": 956
     },
     {
       "ID": "achievement_9",
@@ -6325,14 +6330,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3538,
+      "Progressed": 3539,
       "Completed": 5
     }
   ],
@@ -6340,8 +6345,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T22:59:42.5800513+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:19.255765+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:16.5251394+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:00:12.4925464+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:19.2558098+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:00:03.8337673+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:16.5252036+00:00"
 }

@@ -40,18 +40,18 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
+| Ask Not What Your Empire Can Do For You | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
-| Ask Not What Your Empire Can Do For You | 0.70% | ~53 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as the Krynn | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
 | Hyperspace! | 0.60% | ~45 |
+| Veteran Crew | 0.60% | ~45 |
 | Win as the Drath | 0.60% | ~45 |
 | Win as the Iridium | 0.60% | ~45 |
 | Win as the Manti | 0.60% | ~45 |
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
-| Veteran Crew | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
 | Commodity Seller, Level 2 | 0.40% | ~30 |
 | Recruit a Dozen Leaders | 0.30% | ~23 |

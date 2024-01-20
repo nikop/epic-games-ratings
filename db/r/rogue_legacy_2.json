@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 246,
   "Ranking_EOS_Progress": 147,
   "Ranking_EOS_Completed": 311,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 177,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-08-18T17:00:00+00:00",
@@ -1570,10 +1570,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 1571,
       "NumberOfAwardsMax": 227
+    },
+    {
+      "Time": "2024-01-20T14:59:06.0031147+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 1572,
+      "NumberOfAwardsMax": 227
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1571,
+  "NumberOfAwards": 1572,
   "NumberOfAwardsMax": 227,
   "MaxAwardTitle": "Extremely Fun",
   "Tags": [
@@ -1605,7 +1611,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 200
+      "Count": 201
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1638,9 +1644,9 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28443,
+  "EOS_Progressed": 28445,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 157,
+  "EOS_NewPlayers": 156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.12,
   "EosHistory": [
@@ -14523,6 +14529,11 @@
       "Time": "2024-01-20T14:10:16.5495115+00:00",
       "NumProgressed": 28443,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-20T15:10:13.9507385+00:00",
+      "NumProgressed": 28445,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14845,21 +14856,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28443,
+      "Progressed": 28445,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7373,
+      "Progressed": 7375,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
-  "LastChanged": "2024-01-17T20:57:40.3892321+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:16.5495113+00:00",
+  "LastChanged": "2024-01-20T14:59:06.0031145+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:13.9507383+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:11.7611337+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:12.5311578+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:16.5495773+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:06.0031151+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:13.9508022+00:00"
 }

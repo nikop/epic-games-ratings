@@ -400,7 +400,7 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5469,
+  "EOS_Progressed": 5470,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
@@ -5470,6 +5470,11 @@
       "Time": "2024-01-20T14:05:56.0473084+00:00",
       "NumProgressed": 5469,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-20T15:06:04.1236063+00:00",
+      "NumProgressed": 5470,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5529,7 +5534,7 @@
       "Name": "I\u0027ll Be Back",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 4594
+      "UsersEstimate": 4595
     },
     {
       "ID": "ID_ACHIEV_08",
@@ -5537,7 +5542,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5141
+      "UsersEstimate": 5142
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5545,7 +5550,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4156
+      "UsersEstimate": 4157
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5601,7 +5606,7 @@
       "Name": "It Lives! It Sniffs! It Conquers!",
       "Percentage": 5,
       "XP": 45,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ID_ACHIEV_17",
@@ -5657,7 +5662,7 @@
       "Name": "Man of Steel",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ID_ACHIEV_24",
@@ -5729,7 +5734,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2953
+      "UsersEstimate": 2954
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5737,7 +5742,7 @@
       "Name": "Jack of All Trades",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ID_ACHIEV_35",
@@ -5921,7 +5926,7 @@
       "Name": "3-2-1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "ID_ACHIEV_58",
@@ -6016,15 +6021,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5469,
+      "Progressed": 5470,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:05:56.0473078+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:06:04.123606+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:30.8027078+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:00:05.7309084+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:05:56.047391+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:57.130786+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:06:04.1236755+00:00"
 }

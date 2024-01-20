@@ -3,8 +3,8 @@
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
   "Ranking_Rating": 861,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 197,
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58869,
+  "EOS_Progressed": 58870,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 99,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16181,6 +16181,11 @@
       "Time": "2024-01-20T14:04:50.8004357+00:00",
       "NumProgressed": 58869,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-20T15:04:59.1926669+00:00",
+      "NumProgressed": 58870,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16504,7 +16509,7 @@
       "Name": "Sunflower Master",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "Teamwork",
@@ -16583,7 +16588,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58869,
+      "Progressed": 58870,
       "Completed": 6
     }
   ],
@@ -16591,8 +16596,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:04:50.8004353+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:04:59.1926666+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:29.3003234+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:57:57.0933035+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:04:50.8005294+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:57:50.9322544+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:04:59.1927838+00:00"
 }

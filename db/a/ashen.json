@@ -3,11 +3,11 @@
   "Name": "Ashen",
   "ProductSlug": "ashen",
   "Ranking_Rating": 861,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2018-12-07T14:00:00+00:00",
@@ -428,6 +428,6 @@
   "FirstSeen": "2022-07-22T20:17:05.0881689+00:00",
   "LastChanged": "2024-01-16T14:59:24.8614511+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:36.0511981+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:58:02.1075033+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:08:41.6680522+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:57:55.8240033+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:08:39.4382633+00:00"
 }

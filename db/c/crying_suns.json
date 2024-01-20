@@ -715,9 +715,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474199,
+  "EOS_Progressed": 474201,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 417,
+  "EOS_NewPlayers": 415,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29140,6 +29140,11 @@
       "Time": "2024-01-20T14:10:27.3206949+00:00",
       "NumProgressed": 474199,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-20T15:10:24.285266+00:00",
+      "NumProgressed": 474201,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29239,7 +29244,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 312971
+      "UsersEstimate": 312973
     },
     {
       "ID": "achievement_story_landa",
@@ -29782,21 +29787,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18133,
+      "Progressed": 18135,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474199,
+      "Progressed": 474201,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-19T06:58:34.3477894+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:27.3206946+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:24.2852658+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.2782089+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:58:53.3982998+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:27.3208476+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:58:46.6558966+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:24.2854425+00:00"
 }

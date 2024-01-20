@@ -42,7 +42,7 @@
 | Karakuri Minato | 15.00% | ~208 |
 | Jack of All Trades | 14.00% | ~194 |
 | Canyon of Karakuri | 13.00% | ~180 |
-| Karakuri Fortress | 11.00% | ~153 |
+| Karakuri Fortress | 12.00% | ~166 |
 | Volatile Vocation | 10.00% | ~139 |
 | Tender Touch | 10.00% | ~139 |
 | Haven Hunter | 10.00% | ~139 |

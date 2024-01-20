@@ -865,9 +865,9 @@
       "ID": "Ach_DiveKillEnnemis",
       "SetID": "4o5gjp0",
       "Name": "Magnitude 5",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Ach_EnnemyDeathByEnnemy",
@@ -969,9 +969,9 @@
       "ID": "Ach_StunGolemFly",
       "SetID": "4o5gjp0",
       "Name": "Hard Rock",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Ach_TalkToLostSoul",
@@ -992,8 +992,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:09:32.8503186+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:09:30.2085929+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.9507506+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:40.6644292+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:09:32.8503456+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:32.1268951+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:09:30.2086209+00:00"
 }

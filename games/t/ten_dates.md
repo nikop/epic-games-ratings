@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That wasn't so bad | 88.00% | ~466 |
-| Let it begin | 45.00% | ~238 |
-| The athlete | 28.00% | ~148 |
-| The intellectual | 25.00% | ~132 |
-| The boss | 22.00% | ~117 |
-| The activist | 21.00% | ~111 |
+| That wasn't so bad | 89.00% | ~473 |
+| Let it begin | 45.00% | ~239 |
+| The athlete | 28.00% | ~149 |
+| The intellectual | 25.00% | ~133 |
+| The activist | 21.00% | ~112 |
+| The boss | 21.00% | ~112 |
 | The individualist | 17.00% | ~90 |
 | Picky, Picky! | 11.00% | ~58 |
 | The nice guy | 11.00% | ~58 |
@@ -17,14 +17,14 @@
 | The debonair | 9.00% | ~48 |
 | The techie | 7.00% | ~37 |
 | More than browsing | 6.00% | ~32 |
-| The bad boy | 5.00% | ~26 |
+| The bad boy | 5.00% | ~27 |
 | Picky! | 4.00% | ~21 |
 | Playing the field | 4.00% | ~21 |
 | Go well, lad | 4.00% | ~21 |
 | Keep the spark alive | 3.00% | ~16 |
 | Muggy Misha | 3.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 530 (Ranked 356)  
+Progressed: 531 (Ranked 356)  
 Completed: 7 (1.32%) (Ranked 159)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -150,6 +150,7 @@ Completed: 7 (1.32%) (Ranked 159)
 | 2024-01-16 | 525 | 7 |
 | 2024-01-18 | 526 | 7 |
 | 2024-01-19 | 530 | 7 |
+| 2024-01-20 | 531 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

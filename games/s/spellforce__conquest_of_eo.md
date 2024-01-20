@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 88.00% | ~135 |
-| Enough rooms to swing a cat | 79.00% | ~121 |
-| First to the post | 79.00% | ~121 |
-| A kind of Magic | 69.00% | ~106 |
-| Connected | 57.00% | ~87 |
-| Expansion | 54.00% | ~83 |
-| Mine! | 53.00% | ~81 |
-| Harvest Time | 52.00% | ~80 |
-| Artificer's Apprentice | 44.00% | ~67 |
-| Fly the friendly Sky | 41.00% | ~63 |
-| Get out of here! | 40.00% | ~61 |
-| Necromancer's Apprentice | 39.00% | ~60 |
-| Alchemist's Apprentice | 36.00% | ~55 |
-| Friend of Lyraine | 32.00% | ~49 |
-| Redecorating | 29.00% | ~44 |
-| The Circle | 29.00% | ~44 |
-| Bad JuJu | 25.00% | ~38 |
-| Friend of Sevenkeeps | 22.00% | ~34 |
-| Slave to the rhythm | 20.00% | ~31 |
-| Castle Meldec | 20.00% | ~31 |
+| Home Sweet Home | 88.00% | ~136 |
+| Enough rooms to swing a cat | 79.00% | ~122 |
+| First to the post | 79.00% | ~122 |
+| A kind of Magic | 68.00% | ~105 |
+| Connected | 56.00% | ~87 |
+| Expansion | 54.00% | ~84 |
+| Mine! | 52.00% | ~81 |
+| Harvest Time | 51.00% | ~79 |
+| Artificer's Apprentice | 44.00% | ~68 |
+| Fly the friendly Sky | 41.00% | ~64 |
+| Get out of here! | 39.00% | ~60 |
+| Necromancer's Apprentice | 38.00% | ~59 |
+| Alchemist's Apprentice | 35.00% | ~54 |
+| Friend of Lyraine | 32.00% | ~50 |
+| Redecorating | 29.00% | ~45 |
+| The Circle | 29.00% | ~45 |
+| Bad JuJu | 25.00% | ~39 |
+| Friend of Sevenkeeps | 21.00% | ~33 |
+| Slave to the rhythm | 19.00% | ~29 |
+| Castle Meldec | 19.00% | ~29 |
 | Sevenkeeps Seat of Kings | 18.00% | ~28 |
-| Friend of Alluvyan | 16.00% | ~24 |
-| Friend of Connach | 16.00% | ~24 |
+| Friend of Alluvyan | 15.00% | ~23 |
 | Friend of Gillyshire | 15.00% | ~23 |
-| Friend of Orgash | 14.00% | ~21 |
-| Friend of Silver Drift Hollow | 14.00% | ~21 |
-| Silver Drift Hollow Mine | 12.00% | ~18 |
-| Stormwatch Faste | 12.00% | ~18 |
-| Friend of Bastion | 12.00% | ~18 |
-| Magic Academy | 12.00% | ~18 |
-| Break Free | 12.00% | ~18 |
+| Friend of Connach | 15.00% | ~23 |
+| Friend of Orgash | 14.00% | ~22 |
+| Friend of Silver Drift Hollow | 14.00% | ~22 |
+| Silver Drift Hollow Mine | 12.00% | ~19 |
+| Stormwatch Faste | 12.00% | ~19 |
+| Friend of Bastion | 12.00% | ~19 |
+| Magic Academy | 12.00% | ~19 |
+| Break Free | 12.00% | ~19 |
 | Philo's Tale | 11.00% | ~17 |
 | Mage Teacher | 11.00% | ~17 |
 | A Master of Magic | 11.00% | ~17 |
@@ -49,16 +49,16 @@
 | Tuscari Sea Portal | 8.00% | ~12 |
 | Fireforge | 8.00% | ~12 |
 | Friend of Uram Gor | 8.00% | ~12 |
-| Defeat Ianna | 7.00% | ~11 |
-| Defeat Raith | 7.00% | ~11 |
 | Crypt of the Revenant | 7.00% | ~11 |
-| Master Artificer | 7.00% | ~11 |
-| Heroes | 7.00% | ~11 |
-| Balanced | 7.00% | ~11 |
 | Get to the Airship! | 6.00% | ~9 |
+| Defeat Ianna | 6.00% | ~9 |
+| Defeat Raith | 6.00% | ~9 |
 | Defeat Undergast | 6.00% | ~9 |
 | Elynn's Tale | 6.00% | ~9 |
+| Master Artificer | 6.00% | ~9 |
+| Heroes | 6.00% | ~9 |
 | My Friends! | 6.00% | ~9 |
+| Balanced | 6.00% | ~9 |
 | Friend of Grey Dusk Vale | 6.00% | ~9 |
 | Defeat Rohen | 5.00% | ~8 |
 | Defeat Yria | 5.00% | ~8 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 153 (Ranked 465)  
+Progressed: 155 (Ranked 464)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -141,7 +141,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 148 | 0 |
 | 2024-01-18 | 149 | 0 |
 | 2024-01-19 | 152 | 0 |
-| 2024-01-20 | 153 | 0 |
+| 2024-01-20 | 155 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

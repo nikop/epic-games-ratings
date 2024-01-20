@@ -3,12 +3,12 @@
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
   "Ranking_Rating": 992,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
-  "Ranking_EOS_Progress": 246,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
+  "Ranking_EOS_Progress": 248,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 80,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2400,
+  "EOS_Progressed": 2401,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 2,
@@ -4860,6 +4860,11 @@
       "Time": "2024-01-20T13:14:26.9386779+00:00",
       "NumProgressed": 2400,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T15:10:19.0628981+00:00",
+      "NumProgressed": 2401,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4871,7 +4876,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1560
+      "UsersEstimate": 1561
     },
     {
       "ID": "ACH_02",
@@ -4917,9 +4922,9 @@
       "ID": "ACH_07",
       "SetID": "efe2lj",
       "Name": "Clear Sight",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 120
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_08",
@@ -4933,9 +4938,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 312
+      "UsersEstimate": 288
     },
     {
       "ID": "ACH_10",
@@ -5158,7 +5163,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2400,
+      "Progressed": 2401,
       "Completed": 5
     }
   ],
@@ -5166,8 +5171,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:21.8865468+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:19.0628975+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:58:27.2193225+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:21.8865806+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:58:21.5305971+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:19.0629432+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 330,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 189,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -872,9 +872,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6421,
+  "EOS_Progressed": 6422,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 116,
+  "EOS_NewPlayers": 114,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13527,6 +13527,11 @@
       "Time": "2024-01-20T14:04:35.0033673+00:00",
       "NumProgressed": 6421,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T15:04:43.1978446+00:00",
+      "NumProgressed": 6422,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13571,7 +13576,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1605
+      "UsersEstimate": 1606
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13641,17 +13646,17 @@
       "ID": "MF_Ach_KaijuOnTheField",
       "SetID": "9b9n573",
       "Name": "We\u0027ve Got a Kaiju on the Field",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 257
     },
     {
       "ID": "MF_Ach_MushroomMadness",
       "SetID": "9b9n573",
       "Name": "Mushroom Madness!",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1541
+      "UsersEstimate": 1477
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13667,7 +13672,7 @@
       "Name": "On this Episode!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "MF_Ach_PerkShardPunchCard",
@@ -13675,7 +13680,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13707,7 +13712,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1669
+      "UsersEstimate": 1670
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13722,15 +13727,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6421,
+      "Progressed": 6422,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-19T17:58:27.7315829+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:04:35.0033671+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:04:43.1978443+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:03.9525353+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:04:35.0034391+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:58:57.4739855+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:04:43.19793+00:00"
 }

@@ -5,30 +5,30 @@ Rating: 4.19 (Ranked 979)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,149 |
-| Battlefields Have Memories | 82.00% | ~2,901 |
-| Enlisted | 76.00% | ~2,689 |
+| Unforeseen | 89.00% | ~3,150 |
+| Battlefields Have Memories | 82.00% | ~2,902 |
+| Enlisted | 76.00% | ~2,690 |
 | Maybe Engage a Little | 70.00% | ~2,477 |
 | No More Names | 54.00% | ~1,911 |
 | Initiate | 41.00% | ~1,451 |
 | Thrada-Kul | 37.00% | ~1,309 |
 | Gravity-Challenged Rocks | 31.00% | ~1,097 |
-| Soldier | 27.00% | ~955 |
-| All the Major Food Groups | 27.00% | ~955 |
-| Socialite | 25.00% | ~884 |
-| Beggars Would Ride | 25.00% | ~884 |
+| Soldier | 27.00% | ~956 |
+| All the Major Food Groups | 27.00% | ~956 |
+| Socialite | 25.00% | ~885 |
+| Beggars Would Ride | 25.00% | ~885 |
 | Control is an Illusion | 23.00% | ~814 |
 | The Means to Save It | 20.00% | ~708 |
 | Resilience to Sin | 19.00% | ~672 |
 | A Familiar Nest | 18.00% | ~637 |
 | Periapt Alizarin | 18.00% | ~637 |
-| Geas Aristeya | 17.00% | ~601 |
+| Geas Aristeya | 17.00% | ~602 |
 | A Perfect Cycle | 16.00% | ~566 |
 | Recruit | 16.00% | ~566 |
 | Armsman | 13.00% | ~460 |
 | Lights Army | 11.00% | ~389 |
-| Periapt Cerulean | 9.00% | ~318 |
-| Good Boy | 9.00% | ~318 |
+| Periapt Cerulean | 9.00% | ~319 |
+| Good Boy | 9.00% | ~319 |
 | Periapt Viridian | 8.00% | ~283 |
 | Best Dressed | 7.00% | ~248 |
 | Shroudfane Explorer | 7.00% | ~248 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 979)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,538 (Ranked 229)  
+Progressed: 3,539 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,11 +167,11 @@ Completed: 5 (0.14%) (Ranked 300)
 | 2024-01-17 | 3,496 | 5 |
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
-| 2024-01-20 | 3,538 | 5 |
+| 2024-01-20 | 3,539 | 5 |
 ## Awards
-Max (Quickly Understood Controls): 22  (Ranked 568)  
+Max (Quickly Understood Controls): 22  (Ranked 569)  
 Sum: 42 (Ranked 523)  
-Diff (max vs sum): 45  
+Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 22 |

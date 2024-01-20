@@ -9,6 +9,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 2.00% | ~4,865 |
 | Uncharted Territory | 2.00% | ~4,865 |
 | Matching | 2.00% | ~95 |
+| Ambitious Intent | 1.00% | ~2,433 |
 | Nothing To Lose | 1.00% | ~2,433 |
 | Heavy Hitter | 1.00% | ~2,433 |
 | Delving Deeper | 1.00% | ~2,433 |
@@ -29,7 +30,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Sneaky | 1.00% | ~2,433 |
 | An Offering | 1.00% | ~2,433 |
 | Not Touching You | 1.00% | ~47 |
-| Ambitious Intent | 0.90% | ~2,189 |
 | R.I.P | 0.90% | ~2,189 |
 | Dig Your Own Grave | 0.90% | ~2,189 |
 | Cold Hearted | 0.90% | ~2,189 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,264 (Ranked 75)  
+Progressed: 243,268 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 309 (0.13%) (Ranked 306)
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
 | 2024-01-19 | 243,229 | 309 |
-| 2024-01-20 | 243,264 | 309 |
+| 2024-01-20 | 243,268 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 91)  

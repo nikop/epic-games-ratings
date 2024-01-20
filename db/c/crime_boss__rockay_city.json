@@ -5649,7 +5649,7 @@
       "Count": 545
     }
   ],
-  "EOS_Progressed": 93554,
+  "EOS_Progressed": 93558,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
@@ -31854,6 +31854,11 @@
       "Time": "2024-01-20T14:06:01.745404+00:00",
       "NumProgressed": 93554,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-20T15:06:10.1679304+00:00",
+      "NumProgressed": 93558,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 41,
@@ -31959,9 +31964,9 @@
       "ID": "ACH_0060",
       "SetID": "3kam13l",
       "Name": "Freebooter",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_0061",
@@ -32192,22 +32197,22 @@
     {
       "ID": "3kam13l",
       "IsBase": true,
-      "Progressed": 93554,
+      "Progressed": 93558,
       "Completed": 59
     },
     {
       "ID": "8no7728",
       "IsBase": false,
-      "Progressed": 21901,
-      "Completed": 15603
+      "Progressed": 21905,
+      "Completed": 15604
     }
   ],
   "FirstSeen": "2023-03-28T16:00:05.3106757+00:00",
   "FirstSeenRating": "2023-03-29T02:58:45.3340123+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.3341263+00:00",
   "LastChanged": "2024-01-20T13:58:05.362457+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:06:01.7454038+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:06:10.1679302+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:33.1525871+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:58:05.3624576+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:06:01.7455244+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:57:59.1627123+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:06:10.1680668+00:00"
 }

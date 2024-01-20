@@ -3,11 +3,11 @@
   "Name": "Shadow Gambit: The Cursed Crew",
   "ProductSlug": "shadow-gambit-the-cursed-crew-0bca60",
   "Ranking_Rating": 70,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 130,
-  "Ranking_EOS_NewPlayers": 296,
+  "Ranking_EOS_NewPlayers": 295,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1548,
+  "EOS_Progressed": 1549,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -5387,6 +5387,11 @@
       "Time": "2024-01-20T13:07:09.4526854+00:00",
       "NumProgressed": 1548,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-20T15:03:49.8980915+00:00",
+      "NumProgressed": 1549,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5407,7 +5412,7 @@
       "Name": "A New Journey",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "_03_FinishAct1",
@@ -5423,7 +5428,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "_05_FinishAct2",
@@ -5431,7 +5436,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 464
+      "UsersEstimate": 465
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5439,7 +5444,7 @@
       "Name": "Mirror Mirror on the Wall",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "_07_FinishAct3",
@@ -5455,7 +5460,7 @@
       "Name": "Swabbie",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "_09_Completion_20",
@@ -5463,7 +5468,7 @@
       "Name": "Powder Monkey",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 402
+      "UsersEstimate": 403
     },
     {
       "ID": "_10_Completion_30",
@@ -5606,7 +5611,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1548,
+      "Progressed": 1549,
       "Completed": 37
     }
   ],
@@ -5614,8 +5619,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:03:41.63961+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:03:49.8980911+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5086793+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:57:48.2523782+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:03:41.6396536+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:57:41.9441391+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:03:49.8981465+00:00"
 }

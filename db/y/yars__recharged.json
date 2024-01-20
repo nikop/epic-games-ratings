@@ -4,7 +4,7 @@
   "ProductSlug": "yars-revenge-recharged-fbdc11",
   "Ranking_EOS_Progress": 747,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewPlayers": 492,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-23T07:00:00+00:00",
@@ -134,9 +134,9 @@
       "ID": "ACH_SOLILOQUY",
       "SetID": "kifj0l",
       "Name": "Soliloquy",
-      "Percentage": 50,
+      "Percentage": 100,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_SUBDIVISIONS",
@@ -158,9 +158,9 @@
       "ID": "ACH_THE_WEAPON",
       "SetID": "kifj0l",
       "Name": "The Weapon",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_XANADU",
@@ -183,8 +183,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.4639247+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.5855018+00:00",
   "LastChanged": "2023-03-31T05:58:40.4639249+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:09:17.0416592+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:09:14.4920292+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:16.0365668+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:48.2354458+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:09:17.0416708+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:39.3808871+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:09:14.4920439+00:00"
 }

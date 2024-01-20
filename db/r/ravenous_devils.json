@@ -3,11 +3,11 @@
   "Name": "Ravenous Devils",
   "ProductSlug": "ravenous-devils-7a89e1",
   "Ranking_Rating": 569,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-28T23:00:00+00:00",
@@ -177,6 +177,6 @@
   "FirstSeen": "2022-07-22T20:30:49.8744513+00:00",
   "LastChanged": "2023-09-11T21:58:27.2698501+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:53.7103819+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:57:30.1873076+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:03:44.0791093+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:57:25.2459331+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:03:52.2101951+00:00"
 }

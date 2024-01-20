@@ -6,16 +6,16 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.50% | ~5,278 |
-| Right Back At Ya | 0.50% | ~5,278 |
-| True Soldier | 0.50% | ~5,278 |
+| Full Body Conversion | 0.50% | ~5,279 |
+| Right Back At Ya | 0.50% | ~5,279 |
+| The Hermit | 0.50% | ~5,279 |
+| The Wheel of Fortune | 0.50% | ~5,279 |
+| True Soldier | 0.50% | ~5,279 |
 | Christmas Tree Attack | 0.40% | ~4,223 |
 | Life of the Road | 0.40% | ~4,223 |
 | Stanislavski's Method | 0.40% | ~4,223 |
-| The Hermit | 0.40% | ~4,223 |
 | The High Priestess | 0.40% | ~4,223 |
 | The Lovers | 0.40% | ~4,223 |
-| The Wheel of Fortune | 0.40% | ~4,223 |
 | Legend of The Afterlife | 0.40% | ~4,223 |
 | All the President's Men | 0.40% | ~737 |
 | Arachnophobia | 0.40% | ~737 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,700 (Ranked 17)  
-Completed: 3,134 (0.30%) (Ranked 264)  
+Progressed: 1,055,744 (Ranked 17)  
+Completed: 3,135 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,10 +349,10 @@ Completed: 3,134 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,700 | 3,134 |
+| 2024-01-20 | 1,055,744 | 3,135 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
-Sum: 507,789 (Ranked 8)  
+Sum: 507,983 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -361,7 +361,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 32,432 |
 | This game has Diverse Characters | 31,751 |
 | This game is Highly Recommended | 30,190 |
-| This game has Amazing Storytelling | 29,614 |
+| This game has Amazing Storytelling | 29,808 |
 | This game is Extremely Fun | 29,485 |
 | This game has Amazing Characters | 29,193 |
 | This game is Relaxing | 28,266 |
@@ -736,4 +736,4 @@ Diff (max vs sum): 0
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
 | 2024-01-18 | 4.67 | - | 142,143 | 504,220 |
 | 2024-01-19 | 4.67 | - | 142,615 | 506,646 |
-| 2024-01-20 | 4.67 | - | 142,615 | 507,789 |
+| 2024-01-20 | 4.67 | - | 142,615 | 507,983 |

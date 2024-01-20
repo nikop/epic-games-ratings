@@ -2587,9 +2587,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19733,
+  "EOS_Progressed": 19736,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21037,6 +21037,11 @@
       "Time": "2024-01-20T14:10:18.030594+00:00",
       "NumProgressed": 19733,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-20T15:10:15.3437572+00:00",
+      "NumProgressed": 19736,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21048,7 +21053,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 15984
+      "UsersEstimate": 15986
     },
     {
       "ID": "ACH02",
@@ -21056,7 +21061,7 @@
       "Name": "With Extra Dip",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 1381
+      "UsersEstimate": 1382
     },
     {
       "ID": "ACH03",
@@ -21096,7 +21101,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3749
+      "UsersEstimate": 3750
     },
     {
       "ID": "ACH08",
@@ -21104,7 +21109,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10064
+      "UsersEstimate": 10065
     },
     {
       "ID": "ACH09",
@@ -21128,7 +21133,7 @@
       "Name": "Liberty City State of Mind",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1973
+      "UsersEstimate": 1974
     },
     {
       "ID": "ACH12",
@@ -21327,7 +21332,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19733,
+      "Progressed": 19736,
       "Completed": 81
     }
   ],
@@ -21335,8 +21340,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-19T13:59:24.1446177+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:18.0305938+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:15.343757+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:52.6529775+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:18.0306819+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:43.3834714+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:15.3438366+00:00"
 }

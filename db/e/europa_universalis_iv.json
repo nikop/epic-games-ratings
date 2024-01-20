@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 24,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 35,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewPlayers": 34,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14539,10 +14539,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65240,
       "NumberOfAwardsMax": 7911
+    },
+    {
+      "Time": "2024-01-20T14:59:03.7461959+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65253,
+      "NumberOfAwardsMax": 7911
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65240,
+  "NumberOfAwards": 65253,
   "NumberOfAwardsMax": 7911,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14592,7 +14598,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7242
+      "Count": 7255
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14613,9 +14619,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 502357,
+  "EOS_Progressed": 502410,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4401,
+  "EOS_NewPlayers": 4402,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46393,6 +46399,11 @@
       "Time": "2024-01-20T14:10:31.4883961+00:00",
       "NumProgressed": 502357,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T15:10:28.3901053+00:00",
+      "NumProgressed": 502410,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -46844,7 +46855,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -47428,7 +47439,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2009
+      "UsersEstimate": 2010
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -49068,7 +49079,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3516
+      "UsersEstimate": 3517
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -49307,21 +49318,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 502357,
+      "Progressed": 502410,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 502357,
+      "Progressed": 502410,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-20T13:59:10.2321515+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:31.4883959+00:00",
+  "LastChanged": "2024-01-20T14:59:03.7461957+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:28.390105+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:10.2321522+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:31.4894139+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:03.7461964+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:28.3911342+00:00"
 }

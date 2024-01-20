@@ -5,8 +5,8 @@ Rating: 3.86 (Ranked 1,083)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 49.00% | ~334 |
-| A Friend in Need... | 44.00% | ~300 |
+| Bundle of Joy | 49.00% | ~335 |
+| A Friend in Need... | 44.00% | ~301 |
 | Bosom Buddies | 29.00% | ~198 |
 | Beat the Heat | 22.00% | ~150 |
 | A Familiar Face | 13.00% | ~89 |
@@ -35,8 +35,8 @@ Rating: 3.86 (Ranked 1,083)
 | Urban Scrawl | 1.00% | ~7 |
 | Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682 (Ranked 337)  
-Completed: 6 (0.88%) (Ranked 191)  
+Progressed: 683 (Ranked 337)  
+Completed: 6 (0.88%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -185,6 +185,7 @@ Completed: 6 (0.88%) (Ranked 191)
 | 2024-01-16 | 678 | 6 |
 | 2024-01-18 | 681 | 6 |
 | 2024-01-19 | 682 | 6 |
+| 2024-01-20 | 683 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 896,
+  "EOS_Progressed": 897,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.74,
+  "EOS_Completed_Percentage": 16.72,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3896,6 +3896,11 @@
       "Time": "2024-01-20T13:07:15.1816286+00:00",
       "NumProgressed": 896,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2024-01-20T15:03:54.009864+00:00",
+      "NumProgressed": 897,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 22,
@@ -3907,7 +3912,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 860
+      "UsersEstimate": 861
     },
     {
       "ID": "LEVEL_002",
@@ -3923,7 +3928,7 @@
       "Name": "Buildings, roads, cars, ...and people",
       "Percentage": 66,
       "XP": 35,
-      "UsersEstimate": 591
+      "UsersEstimate": 592
     },
     {
       "ID": "LEVEL_004",
@@ -3947,7 +3952,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "LEVEL_007",
@@ -4082,7 +4087,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 896,
+      "Progressed": 897,
       "Completed": 150
     }
   ],
@@ -4090,8 +4095,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:03:45.9631281+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:03:54.0098637+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.5282155+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:00:18.7623011+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:03:45.9631812+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:00:09.3946344+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:03:54.009892+00:00"
 }

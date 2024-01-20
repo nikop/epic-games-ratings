@@ -6,7 +6,7 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 76.00% | ~498 |
+| Green with Envy | 77.00% | ~504 |
 | First of many… | 68.00% | ~445 |
 | Helping Hand | 64.00% | ~419 |
 | Increased Vigor | 61.00% | ~400 |
@@ -36,13 +36,13 @@ Number of Ratings: 116  (23.09.2022)
 | Crowd Source | 27.00% | ~177 |
 | Big Spender | 27.00% | ~177 |
 | Cleanup Crew | 26.00% | ~170 |
-| Seeing Red | 25.00% | ~164 |
+| Seeing Red | 26.00% | ~170 |
 | Demon Meddler | 24.00% | ~157 |
 | Egomaniac | 24.00% | ~157 |
 | Maximum Capacity | 23.00% | ~151 |
 | Protector of Humanity | 22.00% | ~144 |
 | Everybody Wants to Rule the World | 22.00% | ~144 |
-| Community Outreach | 16.00% | ~105 |
+| Community Outreach | 17.00% | ~111 |
 | A Parting Gift | 15.00% | ~98 |
 | Path of the Horseman | 15.00% | ~98 |
 | Unbreakable Will | 14.00% | ~92 |

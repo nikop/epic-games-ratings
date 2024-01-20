@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 166,
+  "Ranking_EOS_NewPlayers": 167,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4095,9 +4095,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33823,
+  "EOS_Progressed": 33825,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -26055,6 +26055,11 @@
       "Time": "2024-01-20T14:09:26.7209668+00:00",
       "NumProgressed": 33823,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-20T15:09:24.0898673+00:00",
+      "NumProgressed": 33825,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26114,7 +26119,7 @@
       "Name": "I collect Spores, Molds, and Fungi",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "Collector",
@@ -26154,7 +26159,7 @@
       "Name": "Discovery",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "Dont_Need_These",
@@ -26354,7 +26359,7 @@
       "Name": "Solo Capture",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2029
+      "UsersEstimate": 2030
     },
     {
       "ID": "Stunner",
@@ -26473,7 +26478,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33823,
+      "Progressed": 33825,
       "Completed": 71
     }
   ],
@@ -26481,8 +26486,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-20T07:00:07.0825358+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:09:26.7209664+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:09:24.0898668+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:27.7337127+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:09:26.721087+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:19.9453314+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:09:24.0899965+00:00"
 }

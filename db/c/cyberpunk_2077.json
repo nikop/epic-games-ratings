@@ -18696,10 +18696,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 507789,
       "NumberOfAwardsMax": 142615
+    },
+    {
+      "Time": "2024-01-20T15:03:25.0166521+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 507983,
+      "NumberOfAwardsMax": 142615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507789,
+  "NumberOfAwards": 507983,
   "NumberOfAwardsMax": 142615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18731,7 +18737,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 29614
+      "Count": 29808
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18776,9 +18782,9 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055700,
-  "EOS_Completed": 3134,
-  "EOS_NewPlayers": 6276,
+  "EOS_Progressed": 1055744,
+  "EOS_Completed": 3135,
+  "EOS_NewPlayers": 6208,
   "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50301,6 +50307,11 @@
       "Time": "2024-01-20T14:09:13.7782544+00:00",
       "NumProgressed": 1055700,
       "NumCompleted": 3134
+    },
+    {
+      "Time": "2024-01-20T15:09:11.4224757+00:00",
+      "NumProgressed": 1055744,
+      "NumCompleted": 3135
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50337,7 +50348,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "Denied",
@@ -50345,7 +50356,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "FollowingTheRiver",
@@ -50535,9 +50546,9 @@
       "ID": "TheHermit",
       "SetID": "47clieb",
       "Name": "The Hermit",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 5279
     },
     {
       "ID": "TheHightPriestess",
@@ -50575,9 +50586,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4223
+      "UsersEstimate": 5279
     },
     {
       "ID": "TheWorld",
@@ -50609,7 +50620,7 @@
       "Name": "True Soldier",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5278
+      "UsersEstimate": 5279
     },
     {
       "ID": "TrueWarrior",
@@ -50848,21 +50859,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055700,
-      "Completed": 3134
+      "Progressed": 1055744,
+      "Completed": 3135
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184323,
+      "Progressed": 184367,
       "Completed": 10666
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-20T12:03:15.6650567+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:09:13.7782541+00:00",
+  "LastChanged": "2024-01-20T15:03:25.0166519+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:09:11.4224753+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:03:17.4685712+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:09:13.7784529+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:03:25.0166526+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:09:11.4226603+00:00"
 }

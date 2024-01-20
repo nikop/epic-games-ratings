@@ -1,46 +1,46 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.70 (Ranked 222)  
+Rating: 4.69 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,626 |
-| I Challenge You To Save More Money! | 81.00% | ~15,303 |
-| I Love How Tough You Are | 66.00% | ~12,469 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~11,147 |
-| What I Want Is You | 54.00% | ~10,202 |
-| To Be Or Not To Be | 50.00% | ~9,446 |
-| Are You Alright? | 47.00% | ~8,880 |
-| Love Actually | 42.00% | ~7,935 |
-| Drama King | 36.00% | ~6,801 |
-| Go Clean up In Your Own Way | 33.00% | ~6,235 |
-| You're Really Something Else | 32.00% | ~6,046 |
-| Drama CP: Reel to Real | 31.00% | ~5,857 |
-| Worthless Speech | 31.00% | ~5,857 |
-| Happy Family | 30.00% | ~5,668 |
-| FIRST LOVE | 30.00% | ~5,668 |
-| Absolutely Elegant | 29.00% | ~5,479 |
-| Still Single | 28.00% | ~5,290 |
-| ONE PUNCH | 28.00% | ~5,290 |
-| Days Of Innocence | 26.00% | ~4,912 |
-| David | 26.00% | ~4,912 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,723 |
-| All I Have Is Money | 22.00% | ~4,156 |
-| A Slap In The Face! | 22.00% | ~4,156 |
-| That's So You | 22.00% | ~4,156 |
-| SALUTE | 22.00% | ~4,156 |
+| Last Night...Did We... | 88.00% | ~16,629 |
+| I Challenge You To Save More Money! | 81.00% | ~15,307 |
+| I Love How Tough You Are | 66.00% | ~12,472 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~11,149 |
+| What I Want Is You | 54.00% | ~10,204 |
+| To Be Or Not To Be | 50.00% | ~9,448 |
+| Are You Alright? | 47.00% | ~8,882 |
+| Love Actually | 42.00% | ~7,937 |
+| Drama King | 36.00% | ~6,803 |
+| Go Clean up In Your Own Way | 33.00% | ~6,236 |
+| You're Really Something Else | 32.00% | ~6,047 |
+| Drama CP: Reel to Real | 31.00% | ~5,858 |
+| Worthless Speech | 31.00% | ~5,858 |
+| Happy Family | 30.00% | ~5,669 |
+| FIRST LOVE | 30.00% | ~5,669 |
+| Absolutely Elegant | 29.00% | ~5,480 |
+| Still Single | 28.00% | ~5,291 |
+| ONE PUNCH | 28.00% | ~5,291 |
+| Days Of Innocence | 26.00% | ~4,913 |
+| David | 26.00% | ~4,913 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,724 |
+| All I Have Is Money | 22.00% | ~4,157 |
+| A Slap In The Face! | 22.00% | ~4,157 |
+| That's So You | 22.00% | ~4,157 |
+| SALUTE | 22.00% | ~4,157 |
 | Lover In Dark Alley | 21.00% | ~3,968 |
 | Let Me Be Your Toy Boy | 21.00% | ~3,968 |
-| Off We Sail Tonight | 15.00% | ~2,834 |
-| Can You Do This Or Not? | 14.00% | ~2,645 |
-| Love You Three Thousand | 13.00% | ~2,456 |
-| Doesn't Matter I'll Handle It | 12.00% | ~2,267 |
-| The Flash | 11.00% | ~2,078 |
-| New Yoga Pose Unlocked | 10.00% | ~1,889 |
-| My Dear Love! | 8.00% | ~1,511 |
-| Counting Sheep? | 8.00% | ~1,511 |
-| This Ain't Right In Many Ways... | 8.00% | ~1,511 |
+| Off We Sail Tonight | 15.00% | ~2,835 |
+| Can You Do This Or Not? | 14.00% | ~2,646 |
+| Love You Three Thousand | 13.00% | ~2,457 |
+| Doesn't Matter I'll Handle It | 12.00% | ~2,268 |
+| The Flash | 11.00% | ~2,079 |
+| New Yoga Pose Unlocked | 10.00% | ~1,890 |
+| My Dear Love! | 8.00% | ~1,512 |
+| Counting Sheep? | 8.00% | ~1,512 |
+| This Ain't Right In Many Ways... | 8.00% | ~1,512 |
 | Life Is A Rollercoaster | 7.00% | ~1,323 |
 | Boys Need To Protect Themselves | 7.00% | ~1,323 |
 | Stubborn Noob | 7.00% | ~1,323 |
@@ -48,7 +48,7 @@ Rating: 4.70 (Ranked 222)
 | Tall; Grande; Venti | 2.00% | ~378 |
 | Limerence | 2.00% | ~378 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,893 (Ranked 162)  
+Progressed: 18,897 (Ranked 162)  
 Completed: 336 (1.78%) (Ranked 147)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -153,7 +153,7 @@ Completed: 336 (1.78%) (Ranked 147)
 | 2024-01-17 | 18,760 | 336 |
 | 2024-01-18 | 18,810 | 336 |
 | 2024-01-19 | 18,859 | 336 |
-| 2024-01-20 | 18,893 | 336 |
+| 2024-01-20 | 18,897 | 336 |
 ## Awards
 Max (Impact the Story): 40  (Ranked 488)  
 Sum: 40 (Ranked 528)  
@@ -211,3 +211,4 @@ Diff (max vs sum): -40
 | 2024-01-16 | 4.70 | 40 | 40 |
 | 2024-01-18 | 4.69 | 40 | 40 |
 | 2024-01-19 | 4.70 | 40 | 40 |
+| 2024-01-20 | 4.69 | 40 | 40 |

@@ -37,8 +37,8 @@ Number of Ratings: 292  (23.09.2022)
 | Unlimited Power! | 0.70% | ~9 |
 | Death To Diplomacy | 0.60% | ~8 |
 | Killing Spree | 0.60% | ~8 |
+| Get Over Here! | 0.60% | ~8 |
 | Cleave | 0.60% | ~8 |
-| Get Over Here! | 0.50% | ~6 |
 | Coming Through! | 0.40% | ~5 |
 | Attack Bonanza | 0.30% | ~4 |
 | Fully Charged | 0.30% | ~4 |

@@ -2,9 +2,9 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 657,
+  "Ranking_EOS_Progress": 651,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewPlayers": 316,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 13,
+  "EOS_Progressed": 14,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -82,6 +82,11 @@
       "Time": "2024-01-20T12:06:05.2997516+00:00",
       "NumProgressed": 13,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T15:06:19.3468828+00:00",
+      "NumProgressed": 14,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
@@ -92,7 +97,7 @@
       "ID": "233",
       "SetID": "39bcm6",
       "Name": "Powertrip",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -108,7 +113,7 @@
       "ID": "BREAK_CAM",
       "SetID": "39bcm6",
       "Name": "Process THIS!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 2
     },
@@ -116,7 +121,7 @@
       "ID": "CHAIR_HELL",
       "SetID": "39bcm6",
       "Name": "BEWARE THE CHAIR",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -124,7 +129,7 @@
       "ID": "DEBUG_GLASSES",
       "SetID": "39bcm6",
       "Name": "Nice Job Four-Eyes",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -132,7 +137,7 @@
       "ID": "DEMO_END",
       "SetID": "39bcm6",
       "Name": "The End...?",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -140,7 +145,7 @@
       "ID": "END_IS_NEVER",
       "SetID": "39bcm6",
       "Name": "Playtest Report",
-      "Percentage": 38,
+      "Percentage": 36,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -148,7 +153,7 @@
       "ID": "FALL_DEATH",
       "SetID": "39bcm6",
       "Name": "Slippin Stanton",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -164,7 +169,7 @@
       "ID": "HAMMER_ACQUIRE",
       "SetID": "39bcm6",
       "Name": "J-MC Hammer",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -188,7 +193,7 @@
       "ID": "LEVEL_2_ENTER",
       "SetID": "39bcm6",
       "Name": "Not Out of the Metaphorical Woods",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -196,7 +201,7 @@
       "ID": "LEVEL_3_ENTER",
       "SetID": "39bcm6",
       "Name": "Just a Slight Detour",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -204,7 +209,7 @@
       "ID": "MICROWAVE",
       "SetID": "39bcm6",
       "Name": "BRRRRRRRRRRRRRRRRRRRRRR",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 45,
       "UsersEstimate": 3
     },
@@ -220,7 +225,7 @@
       "ID": "OAT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "What a Triumph",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -228,7 +233,7 @@
       "ID": "OG_PENDING",
       "SetID": "39bcm6",
       "Name": "WE MUST TRAVEL BACK IN TIME",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -244,7 +249,7 @@
       "ID": "PLAYTEST_END",
       "SetID": "39bcm6",
       "Name": "Congratulations!",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 35,
       "UsersEstimate": 2
     },
@@ -252,7 +257,7 @@
       "ID": "SPEED",
       "SetID": "39bcm6",
       "Name": "game SUCK i go to BED",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -260,7 +265,7 @@
       "ID": "VENT_ENDING",
       "SetID": "39bcm6",
       "Name": "Take a Break",
-      "Percentage": 23,
+      "Percentage": 21,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -268,7 +273,7 @@
       "ID": "VENT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "Vent Ending",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -276,7 +281,7 @@
       "ID": "WPD_HAHA_FUNNE",
       "SetID": "39bcm6",
       "Name": "No.",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 35,
       "UsersEstimate": 1
     }
@@ -285,13 +290,13 @@
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 13,
+      "Progressed": 14,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:06:10.9852241+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:06:19.3468821+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:00:15.3648486+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:06:10.9852462+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:00:06.5577301+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:06:19.3469+00:00"
 }

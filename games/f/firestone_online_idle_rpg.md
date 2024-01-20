@@ -1,27 +1,27 @@
 # Firestone Online Idle RPG
 [Store](https://store.epicgames.com/en-US/p/firestone-online-idle-rpg-bfd04b)  
 [View Rawdata](../../db/f/firestone_online_idle_rpg.json)  
-Rating: 4.10 (Ranked 1,027)  
+Rating: 4.11 (Ranked 1,026)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,359 |
-| World Map | 78.00% | ~3,656 |
-| Temple of Eternals | 56.00% | ~2,625 |
-| Prestigious | 52.00% | ~2,437 |
+| Victor | 93.00% | ~4,361 |
+| World Map | 78.00% | ~3,657 |
+| Temple of Eternals | 56.00% | ~2,626 |
+| Prestigious | 52.00% | ~2,438 |
 | Fellowship Power | 42.00% | ~1,969 |
-| Full Party | 30.00% | ~1,406 |
-| Guild Power | 22.00% | ~1,031 |
-| Prestigious x10 | 20.00% | ~937 |
+| Full Party | 30.00% | ~1,407 |
+| Guild Power | 22.00% | ~1,032 |
+| Prestigious x10 | 20.00% | ~938 |
 | The game is on | 18.00% | ~844 |
 | Exotic Merchant | 16.00% | ~750 |
 | Dragon Clicker | 15.00% | ~703 |
 | Miner Clicker | 15.00% | ~703 |
-| Dragon Master | 13.00% | ~609 |
-| Enlightenment | 13.00% | ~609 |
-| Hero inspection | 13.00% | ~609 |
-| Inspection | 13.00% | ~609 |
-| Lieutenant | 12.00% | ~562 |
+| Dragon Master | 13.00% | ~610 |
+| Enlightenment | 13.00% | ~610 |
+| Hero inspection | 13.00% | ~610 |
+| Inspection | 13.00% | ~610 |
+| Lieutenant | 12.00% | ~563 |
 | Milestone collector | 11.00% | ~516 |
 | Mysterious Rock | 11.00% | ~516 |
 | Natural Talent | 11.00% | ~516 |
@@ -54,11 +54,11 @@ Rating: 4.10 (Ranked 1,027)
 | Lock And Load | 5.00% | ~234 |
 | Missions Dedication | 5.00% | ~234 |
 | Sailor | 5.00% | ~234 |
-| Active Member | 4.00% | ~187 |
-| Ancient Knowledge | 4.00% | ~187 |
-| Background Story | 4.00% | ~187 |
-| Legendary | 4.00% | ~187 |
-| The Alchemist | 4.00% | ~187 |
+| Active Member | 4.00% | ~188 |
+| Ancient Knowledge | 4.00% | ~188 |
+| Background Story | 4.00% | ~188 |
+| Legendary | 4.00% | ~188 |
+| The Alchemist | 4.00% | ~188 |
 | Arena Challenger | 3.00% | ~141 |
 | Ebony Jungle Liberator | 3.00% | ~141 |
 | Cauldron Liberator | 2.00% | ~94 |
@@ -74,14 +74,14 @@ Rating: 4.10 (Ranked 1,027)
 | Tree of Life | 1.00% | ~47 |
 | Angel Power | 0.90% | ~42 |
 | Enhanced War Machines | 0.90% | ~42 |
-| Silverwood liberator | 0.80% | ~37 |
-| Training makes a Pro player | 0.80% | ~37 |
+| Silverwood liberator | 0.80% | ~38 |
+| Training makes a Pro player | 0.80% | ~38 |
 | Beast War Machines | 0.70% | ~33 |
 | Ultimate War Machines | 0.50% | ~23 |
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,687 (Ranked 210)  
+Progressed: 4,689 (Ranked 210)  
 Completed: 2 (0.04%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 2 (0.04%) (Ranked 356)
 | 2024-01-17 | 4,598 | 2 |
 | 2024-01-18 | 4,623 | 2 |
 | 2024-01-19 | 4,665 | 2 |
-| 2024-01-20 | 4,687 | 2 |
+| 2024-01-20 | 4,689 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 162 (Ranked 444)  
@@ -464,3 +464,4 @@ Diff (max vs sum): 38
 | 2024-01-13 | 4.11 | 42 | 161 |
 | 2024-01-16 | 4.12 | 42 | 162 |
 | 2024-01-17 | 4.10 | 42 | 162 |
+| 2024-01-20 | 4.11 | 42 | 162 |

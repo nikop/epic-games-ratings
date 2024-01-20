@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 67.00% | ~285 |
-| Forced to Kill | 64.00% | ~272 |
+| Forced to Kill | 64.00% | ~273 |
 | A Night To Remember | 38.00% | ~162 |
 | Safe...For now? | 30.00% | ~128 |
-| Open Sesame | 26.00% | ~110 |
+| Open Sesame | 26.00% | ~111 |
 | Them and Us | 17.00% | ~72 |
 | OUTRAGE | 17.00% | ~72 |
 | What have I done!? | 17.00% | ~72 |
@@ -18,8 +18,8 @@
 | Parasite Exterminated | 12.00% | ~51 |
 | The Forgotten Tower | 12.00% | ~51 |
 | Trapped | 11.00% | ~47 |
-| Modern Player | 10.00% | ~42 |
-| The Curse Is Real | 10.00% | ~42 |
+| Modern Player | 10.00% | ~43 |
+| The Curse Is Real | 10.00% | ~43 |
 | Lover of classics | 9.00% | ~38 |
 | Rest In Peace | 9.00% | ~38 |
 | What A Mansion | 8.00% | ~34 |
@@ -27,12 +27,12 @@
 | I Am The Gate Keeper! | 6.00% | ~26 |
 | Armed To The Teeth | 4.00% | ~17 |
 | This Mansion Is Clean | 4.00% | ~17 |
-| Back In Time | 2.00% | ~8 |
-| Retro Player | 2.00% | ~8 |
-| Spiritual essence well spent | 2.00% | ~8 |
-| Run and Gun | 2.00% | ~8 |
-| The 5th Element | 2.00% | ~8 |
-| The bus stop | 2.00% | ~8 |
+| Back In Time | 2.00% | ~9 |
+| Retro Player | 2.00% | ~9 |
+| Spiritual essence well spent | 2.00% | ~9 |
+| Run and Gun | 2.00% | ~9 |
+| The 5th Element | 2.00% | ~9 |
+| The bus stop | 2.00% | ~9 |
 | Pet The Dog | 1.00% | ~4 |
 | Before The Eclipse | 0.70% | ~3 |
 | Box Of Ploutus | 0.50% | ~2 |
@@ -45,8 +45,8 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 425 (Ranked 372)  
-Completed: 1 (0.24%) (Ranked 276)  
+Progressed: 426 (Ranked 372)  
+Completed: 1 (0.23%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -180,6 +180,7 @@ Completed: 1 (0.24%) (Ranked 276)
 | 2024-01-16 | 423 | 1 |
 | 2024-01-17 | 424 | 1 |
 | 2024-01-18 | 425 | 1 |
+| 2024-01-20 | 426 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -3,9 +3,9 @@
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 261,
-  "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_Completed": 58,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
     "PcReleaseDate": "2021-04-30T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1813,
+  "EOS_Progressed": 1814,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.23,
+  "EOS_Completed_Percentage": 7.22,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4639,6 +4639,11 @@
       "Time": "2024-01-20T13:14:20.2917974+00:00",
       "NumProgressed": 1813,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2024-01-20T15:10:14.1157666+00:00",
+      "NumProgressed": 1814,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 30,
@@ -4650,7 +4655,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1722
+      "UsersEstimate": 1723
     },
     {
       "ID": "LEVEL_002",
@@ -4658,7 +4663,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1432
+      "UsersEstimate": 1433
     },
     {
       "ID": "LEVEL_003",
@@ -4698,7 +4703,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "LEVEL_008",
@@ -4712,9 +4717,9 @@
       "ID": "LEVEL_009",
       "SetID": "212bg48",
       "Name": "Going zig zag",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 471
+      "UsersEstimate": 490
     },
     {
       "ID": "LEVEL_010",
@@ -4738,7 +4743,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 344
+      "UsersEstimate": 345
     },
     {
       "ID": "LEVEL_013",
@@ -4746,7 +4751,7 @@
       "Name": "Higher ground",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "LEVEL_014",
@@ -4889,14 +4894,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1813,
+      "Progressed": 1814,
       "Completed": 131
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:16.7260555+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:14.1157662+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:58:11.0358605+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:16.7261205+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:58:05.5361257+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:14.1158131+00:00"
 }

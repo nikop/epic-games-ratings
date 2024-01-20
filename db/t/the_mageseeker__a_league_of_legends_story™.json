@@ -2,9 +2,9 @@
   "ID": "1e1d639f7fa045f08a1378885ec7080c",
   "Name": "The Mageseeker: A League of Legends Story\u2122",
   "ProductSlug": "the-mageseeker-a-league-of-legends-story",
-  "Ranking_Rating": 113,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Rating": 112,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 182,
   "Ranking_EOS_NewPlayers": 230,
@@ -189,7 +189,7 @@
   "Tags": [],
   "EOS_Progressed": 3492,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -6990,9 +6990,9 @@
       "ID": "STB_MISSION5B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Capelworth",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 838
+      "UsersEstimate": 873
     },
     {
       "ID": "STB_MISSION6_COMPLETED",
@@ -7159,8 +7159,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:04:28.5961513+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:04:36.7210114+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.2120407+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:54.6814603+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:04:28.5962191+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:45.3989455+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:04:36.7210815+00:00"
 }

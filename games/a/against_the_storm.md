@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 10.00% | ~2,091 |
+| Overgrown Library | 10.00% | ~2,092 |
 | First Real Expedition | 9.00% | ~1,882 |
 | Taking Action | 9.00% | ~1,882 |
 | No Deaths | 9.00% | ~1,882 |
@@ -23,15 +23,15 @@ Number of Ratings: 1,845  (23.09.2022)
 | Royal Outpost | 5.00% | ~1,046 |
 | Watchtower | 5.00% | ~1,046 |
 | A Real Challenge | 5.00% | ~1,046 |
-| Homesick | 4.00% | ~836 |
-| Ruined Armory | 4.00% | ~836 |
-| Fertile Meadows | 4.00% | ~836 |
-| Levitating Monument | 4.00% | ~836 |
-| Monastery of the Holy Flame | 4.00% | ~836 |
-| Lost Colonies | 4.00% | ~836 |
-| Corrosive Torrent | 4.00% | ~836 |
-| Trade Baron | 4.00% | ~836 |
-| Untamed Wilds | 4.00% | ~836 |
+| Homesick | 4.00% | ~837 |
+| Ruined Armory | 4.00% | ~837 |
+| Fertile Meadows | 4.00% | ~837 |
+| Levitating Monument | 4.00% | ~837 |
+| Monastery of the Holy Flame | 4.00% | ~837 |
+| Lost Colonies | 4.00% | ~837 |
+| Corrosive Torrent | 4.00% | ~837 |
+| Trade Baron | 4.00% | ~837 |
+| Untamed Wilds | 4.00% | ~837 |
 | Against All Odds | 3.00% | ~627 |
 | Bandit Camp | 3.00% | ~627 |
 | Barren Lands | 3.00% | ~627 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,912 (Ranked 157)  
+Progressed: 20,915 (Ranked 157)  
 Completed: 35 (0.17%) (Ranked 292)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-17 | 20,854 | 35 |
 | 2024-01-18 | 20,874 | 35 |
 | 2024-01-19 | 20,898 | 35 |
-| 2024-01-20 | 20,912 | 35 |
+| 2024-01-20 | 20,915 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 455  (Ranked 234)  
 Sum: 3,399 (Ranked 180)  

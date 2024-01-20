@@ -2,9 +2,9 @@
   "ID": "b1c68be50f37489ca95ff2b7ed616490",
   "Name": "Agatha Christie - Murder on the Orient Express",
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
-  "Ranking_EOS_Progress": 388,
+  "Ranking_EOS_Progress": 387,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1489,6 +1489,11 @@
       "Time": "2024-01-20T13:09:11.8455985+00:00",
       "NumProgressed": 347,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T15:05:16.4710104+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1501,7 +1506,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "10",
@@ -1587,9 +1592,9 @@
       "ID": "2",
       "SetID": "6bgoh8g",
       "Name": "I do not like your face, Mr Ratchett",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 94
+      "UsersEstimate": 90
     },
     {
       "ID": "20",
@@ -1651,9 +1656,9 @@
       "ID": "27",
       "SetID": "6bgoh8g",
       "Name": "Dessert Connoisseur!",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 69
+      "UsersEstimate": 73
     },
     {
       "ID": "3",
@@ -1716,14 +1721,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:05:08.1661269+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:05:16.4710101+00:00",
   "LastUpdate_AppInfo": "2024-01-18T06:57:12.8329669+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:03:16.0702008+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:05:08.1661442+00:00"
+  "LastUpdate_Ratings": "2024-01-20T15:03:23.5988449+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:05:16.4710544+00:00"
 }

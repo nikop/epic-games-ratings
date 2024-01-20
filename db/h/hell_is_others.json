@@ -2,8 +2,8 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 788,
-  "Ranking_Popularity": 449,
+  "Ranking_Rating": 789,
+  "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 406,
@@ -1549,7 +1549,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 260882,
+  "EOS_Progressed": 260885,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
@@ -27809,6 +27809,11 @@
       "Time": "2024-01-20T14:04:22.2241184+00:00",
       "NumProgressed": 260882,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T15:04:30.5618204+00:00",
+      "NumProgressed": 260885,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27868,7 +27873,7 @@
       "Name": "Survivor",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 80873
+      "UsersEstimate": 80874
     },
     {
       "ID": "BackHomeNTimes",
@@ -27932,7 +27937,7 @@
       "Name": "Fixer II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7826
+      "UsersEstimate": 7827
     },
     {
       "ID": "CreditLevel3",
@@ -28060,7 +28065,7 @@
       "Name": "It took a while",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7826
+      "UsersEstimate": 7827
     },
     {
       "ID": "KillHauntingThingsWithBaseballBat",
@@ -28092,7 +28097,7 @@
       "Name": "Adrenaline",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7826
+      "UsersEstimate": 7827
     },
     {
       "ID": "KillOtherWithMine",
@@ -28108,7 +28113,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60003
+      "UsersEstimate": 60004
     },
     {
       "ID": "KillOthers2",
@@ -28116,7 +28121,7 @@
       "Name": "Predator II",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 7826
+      "UsersEstimate": 7827
     },
     {
       "ID": "KillOthers3",
@@ -28267,7 +28272,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260882,
+      "Progressed": 260885,
       "Completed": 3
     }
   ],
@@ -28275,8 +28280,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-19T18:59:33.0505202+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:04:22.2241181+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:04:30.5618201+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:31.9335022+00:00",
-  "LastUpdate_Ratings": "2024-01-20T14:00:05.2774264+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:04:22.2242504+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:56.6765082+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:04:30.5619749+00:00"
 }

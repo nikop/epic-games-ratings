@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 99,
+  "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11100,9 +11100,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133298,
+  "EOS_Progressed": 133301,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 638,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40760,6 +40760,11 @@
       "Time": "2024-01-20T14:10:18.5987449+00:00",
       "NumProgressed": 133298,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T15:10:15.9816814+00:00",
+      "NumProgressed": 133301,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41307,7 +41312,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "combat_kill_collector",
@@ -41402,21 +41407,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133298,
+      "Progressed": 133301,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8167,
+      "Progressed": 8170,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-20T13:57:59.7588616+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:18.5987446+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:15.9816807+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:57:59.7588623+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:18.5989186+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:57:53.4598749+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:15.981986+00:00"
 }

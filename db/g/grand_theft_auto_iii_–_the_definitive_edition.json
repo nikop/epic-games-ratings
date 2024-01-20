@@ -3,12 +3,12 @@
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
   "Ranking_Rating": 957,
-  "Ranking_Popularity": 589,
-  "Ranking_PopularitySum": 589,
+  "Ranking_Popularity": 590,
+  "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -721,7 +721,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12458,
+  "EOS_Progressed": 12459,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 184,
   "EOS_NewCompleters": 5,
@@ -16201,6 +16201,11 @@
       "Time": "2024-01-20T14:05:02.6050138+00:00",
       "NumProgressed": 12458,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2024-01-20T15:05:10.7563772+00:00",
+      "NumProgressed": 12459,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 29,
@@ -16212,7 +16217,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10340
+      "UsersEstimate": 10341
     },
     {
       "ID": "ACH02",
@@ -16220,7 +16225,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4360
+      "UsersEstimate": 4361
     },
     {
       "ID": "ACH03",
@@ -16316,7 +16321,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "ACH15",
@@ -16443,7 +16448,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12458,
+      "Progressed": 12459,
       "Completed": 94
     }
   ],
@@ -16451,8 +16456,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:05:02.6050136+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:05:10.7563769+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:33.2965026+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:05:02.6051042+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:24.8281341+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:05:10.7564892+00:00"
 }

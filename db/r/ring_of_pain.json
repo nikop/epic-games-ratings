@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 91,
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 306,
-  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243264,
+  "EOS_Progressed": 243268,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32444,6 +32444,11 @@
       "Time": "2024-01-20T14:10:29.5529298+00:00",
       "NumProgressed": 243264,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-20T15:10:26.6414834+00:00",
+      "NumProgressed": 243268,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32469,9 +32474,9 @@
       "ID": "ATTACKOWL",
       "SetID": "5l8oe0h",
       "Name": "Ambitious Intent",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2189
+      "UsersEstimate": 2433
     },
     {
       "ID": "BOSSPIT",
@@ -33558,13 +33563,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243264,
+      "Progressed": 243268,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4744,
+      "Progressed": 4748,
       "Completed": 429
     }
   ],
@@ -33572,8 +33577,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-20T14:10:29.5529297+00:00",
+  "LastChanged_Achievements": "2024-01-20T15:10:26.6414831+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-20T13:59:55.530671+00:00",
-  "LastUpdate_Achievements": "2024-01-20T14:10:29.5531886+00:00"
+  "LastUpdate_Ratings": "2024-01-20T14:59:46.2817284+00:00",
+  "LastUpdate_Achievements": "2024-01-20T15:10:26.6417521+00:00"
 }

@@ -19,12 +19,13 @@ Rating: 3.66 (Ranked 1,102)
 | Welcome to the Neighborhood | 11.00% | ~265 |
 | Throw The First Stone | 11.00% | ~265 |
 | Heart Attack | 11.00% | ~265 |
+| Skin of Their Teeth | 10.00% | ~241 |
 | Grounded | 9.00% | ~217 |
-| Skin of Their Teeth | 9.00% | ~217 |
 | Neighborhood Revitalization | 7.00% | ~169 |
 | Bad Wiring | 7.00% | ~169 |
 | Radio Silence | 7.00% | ~169 |
 | I Spit On Your Grave | 5.00% | ~120 |
+| Sic Transit Umbra | 4.00% | ~96 |
 | Bell-ringer | 4.00% | ~96 |
 | You Clean It Up | 4.00% | ~96 |
 | From the Shadows | 4.00% | ~96 |
@@ -33,7 +34,6 @@ Rating: 3.66 (Ranked 1,102)
 | Revelations | 3.00% | ~72 |
 | Contingency Plans | 3.00% | ~72 |
 | Block Party | 3.00% | ~72 |
-| Sic Transit Umbra | 3.00% | ~72 |
 | Silence Is Golden | 3.00% | ~72 |
 | Good Morning | 3.00% | ~72 |
 | Check, Please! | 3.00% | ~72 |
@@ -72,7 +72,7 @@ Rating: 3.66 (Ranked 1,102)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,408 (Ranked 245)  
+Progressed: 2,408 (Ranked 246)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
