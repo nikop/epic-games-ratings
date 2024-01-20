@@ -6,9 +6,9 @@
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_Completed": 178,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9691,10 +9691,10 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254793,
-  "EOS_Completed": 2625,
-  "EOS_NewPlayers": 1185,
-  "EOS_NewCompleters": 11,
+  "EOS_Progressed": 254805,
+  "EOS_Completed": 2626,
+  "EOS_NewPlayers": 1190,
+  "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -40856,6 +40856,11 @@
       "Time": "2024-01-20T00:11:20.6318366+00:00",
       "NumProgressed": 254793,
       "NumCompleted": 2625
+    },
+    {
+      "Time": "2024-01-20T01:58:18.3466015+00:00",
+      "NumProgressed": 254805,
+      "NumCompleted": 2626
     }
   ],
   "TotalAchievements": 546,
@@ -42905,9 +42910,9 @@
       "ID": "objective_completed_423",
       "SetID": "cc37lbc",
       "Name": "Enter the Sargauth",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_424",
@@ -45171,7 +45176,7 @@
       "Name": "Fast Food",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "objective_completed_1563",
@@ -45234,21 +45239,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221067,
+      "Progressed": 221079,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254793,
-      "Completed": 2625
+      "Progressed": 254805,
+      "Completed": 2626
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T22:59:49.4282437+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:20.6318365+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:18.3466014+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:01:18.0963871+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:20.634097+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:48:12.8724836+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:18.3488323+00:00"
 }

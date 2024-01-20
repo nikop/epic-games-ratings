@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 147,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18859,
+  "EOS_Progressed": 18860,
   "EOS_Completed": 336,
-  "EOS_NewPlayers": 375,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -10382,6 +10382,11 @@
       "Time": "2024-01-19T18:09:44.7895631+00:00",
       "NumProgressed": 18859,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2024-01-20T01:57:38.8190953+00:00",
+      "NumProgressed": 18860,
+      "NumCompleted": 336
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10394,7 +10399,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16596
+      "UsersEstimate": 16597
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10402,7 +10407,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15276
+      "UsersEstimate": 15277
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10450,7 +10455,7 @@
       "Name": "Lover In Dark Alley",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -10474,7 +10479,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 4903
+      "UsersEstimate": 4904
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -10490,7 +10495,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12447
+      "UsersEstimate": 12448
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10506,7 +10511,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3960
+      "UsersEstimate": 3961
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -10562,7 +10567,7 @@
       "Name": "The Flash",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2074
+      "UsersEstimate": 2075
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -10658,7 +10663,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6223
+      "UsersEstimate": 6224
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -10666,7 +10671,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5846
+      "UsersEstimate": 5847
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -10674,7 +10679,7 @@
       "Name": "David",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4903
+      "UsersEstimate": 4904
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -10706,7 +10711,7 @@
       "Name": "Drama King",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6789
+      "UsersEstimate": 6790
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -10729,7 +10734,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18859,
+      "Progressed": 18860,
       "Completed": 336
     }
   ],
@@ -10737,8 +10742,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-19T14:59:09.6442904+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:10:40.7053791+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:57:38.819095+00:00",
   "LastUpdate_AppInfo": "2024-01-13T03:57:11.5171654+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:00:31.5213383+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:10:40.7054442+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:47:27.8427624+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:57:38.8191775+00:00"
 }

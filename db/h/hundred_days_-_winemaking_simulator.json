@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 95,
+  "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21403,
+  "EOS_Progressed": 21406,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 1020,
+  "EOS_NewPlayers": 1008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -17918,6 +17918,11 @@
       "Time": "2024-01-20T00:10:43.11872+00:00",
       "NumProgressed": 21403,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-20T01:57:41.0617437+00:00",
+      "NumProgressed": 21406,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -17930,7 +17935,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2140
+      "UsersEstimate": 2141
     },
     {
       "ID": "a_10",
@@ -17978,7 +17983,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9417
+      "UsersEstimate": 9419
     },
     {
       "ID": "a_19",
@@ -18177,7 +18182,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21403,
+      "Progressed": 21406,
       "Completed": 13
     }
   ],
@@ -18185,8 +18190,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:10:43.1187197+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:57:41.0617434+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9205684+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:58:16.2724382+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:10:43.1188107+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:45:14.3393606+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:57:41.0618683+00:00"
 }

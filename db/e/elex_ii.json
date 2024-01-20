@@ -2,12 +2,12 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 901,
+  "Ranking_Rating": 902,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 266,
+  "EOS_Progressed": 267,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1642,6 +1642,11 @@
       "Time": "2024-01-19T22:04:29.6458692+00:00",
       "NumProgressed": 266,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T01:51:56.8442457+00:00",
+      "NumProgressed": 267,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1652,9 +1657,9 @@
       "ID": "100000ITEMS",
       "SetID": "a1angca",
       "Name": "Pack Rat",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "10000ELEXIT",
@@ -1828,9 +1833,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 91
     },
     {
       "ID": "BRINGTOYS",
@@ -1892,17 +1897,17 @@
       "ID": "CONSTRUCTION",
       "SetID": "a1angca",
       "Name": "Creator",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "DESTRUCTION",
       "SetID": "a1angca",
       "Name": "Destroyer",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "ENDGAME",
@@ -1916,9 +1921,9 @@
       "ID": "FINDALLIES",
       "SetID": "a1angca",
       "Name": "Commander",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "FINDBILLY",
@@ -2012,7 +2017,7 @@
       "ID": "KILL30AMBIENT",
       "SetID": "a1angca",
       "Name": "Ruthless",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -2028,7 +2033,7 @@
       "ID": "KILLGRANADE",
       "SetID": "a1angca",
       "Name": "Fire in the Hole",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -2053,15 +2058,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 266,
+      "Progressed": 267,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:05:11.6898032+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:51:56.8442455+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:58:48.1444869+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:05:11.6898461+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:45:45.6377776+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:51:56.8442797+00:00"
 }

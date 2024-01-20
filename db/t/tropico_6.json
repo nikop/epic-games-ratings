@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewPlayers": 201,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1611,9 +1611,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7203,
+  "EOS_Progressed": 7204,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 102,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17016,6 +17016,11 @@
       "Time": "2024-01-19T23:04:10.038427+00:00",
       "NumProgressed": 7203,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T01:51:33.1199536+00:00",
+      "NumProgressed": 7204,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17083,7 +17088,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -17099,7 +17104,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -17123,7 +17128,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17131,7 +17136,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -17179,7 +17184,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1152
+      "UsersEstimate": 1153
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -17187,7 +17192,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5258
+      "UsersEstimate": 5259
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17283,7 +17288,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17346,15 +17351,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7203,
+      "Progressed": 7204,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-17T10:01:51.1088644+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:04:46.4681097+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:51:33.1199534+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:57:17.1658336+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:04:46.4682009+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:44:18.1631681+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:51:33.1200437+00:00"
 }

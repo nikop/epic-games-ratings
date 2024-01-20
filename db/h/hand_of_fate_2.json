@@ -967,7 +967,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667633,
+  "EOS_Progressed": 667638,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
@@ -27162,6 +27162,11 @@
       "Time": "2024-01-20T00:10:29.9165479+00:00",
       "NumProgressed": 667633,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-20T01:57:28.2528193+00:00",
+      "NumProgressed": 667638,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27173,7 +27178,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480696
+      "UsersEstimate": 480699
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27181,7 +27186,7 @@
       "Name": "Apprentice",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 387227
+      "UsersEstimate": 387230
     },
     {
       "ID": "Achievement_03_Mercenary",
@@ -27189,7 +27194,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153556
+      "UsersEstimate": 153557
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -27237,7 +27242,7 @@
       "Name": "Gambler",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66763
+      "UsersEstimate": 66764
     },
     {
       "ID": "Achievement_10_Long_Shot",
@@ -27245,7 +27250,7 @@
       "Name": "Long Shot",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46734
+      "UsersEstimate": 46735
     },
     {
       "ID": "Achievement_11_Grifter",
@@ -27269,7 +27274,7 @@
       "Name": "Dice Master",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 66763
+      "UsersEstimate": 66764
     },
     {
       "ID": "Achievement_14_Magician",
@@ -27309,7 +27314,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153556
+      "UsersEstimate": 153557
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -27405,7 +27410,7 @@
       "Name": "Devil Dice",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46734
+      "UsersEstimate": 46735
     },
     {
       "ID": "Achievement_31_Master_of_Arms",
@@ -27413,7 +27418,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80116
+      "UsersEstimate": 80117
     },
     {
       "ID": "Achievement_32_Karma",
@@ -27437,7 +27442,7 @@
       "Name": "Close Shave",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 166908
+      "UsersEstimate": 166910
     },
     {
       "ID": "Achievement_35_Cursed_Soul",
@@ -27485,7 +27490,7 @@
       "Name": "Broken Heart",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 46734
+      "UsersEstimate": 46735
     },
     {
       "ID": "Achievement_41_Draknars_Bane",
@@ -27556,15 +27561,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667633,
+      "Progressed": 667638,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:10:29.9165474+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:57:28.252819+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.071591+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:59:37.9616671+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:10:29.9167256+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:46:33.2545709+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:57:28.2529666+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -960,9 +960,9 @@
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 80
     },
     {
       "ID": "HeroStory_Elynn",
@@ -1353,8 +1353,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:10:46.3256506+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:57:44.2865953+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:57:07.1057108+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:10:46.32572+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:44:09.0691649+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:57:44.2866544+00:00"
 }

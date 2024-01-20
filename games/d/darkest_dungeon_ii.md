@@ -6,22 +6,22 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 14.00% | ~1,137 |
-| Lost and Found | 9.00% | ~731 |
-| Autodidact | 8.00% | ~10,660 |
+| Malpractice Assurance | 14.00% | ~1,138 |
+| Lost and Found | 9.00% | ~732 |
+| Autodidact | 8.00% | ~10,661 |
 | This Belongs in a Museum | 7.00% | ~9,328 |
 | Creep and Sleep | 7.00% | ~9,328 |
 | Overdue Notice | 7.00% | ~9,328 |
 | This guy... again? | 7.00% | ~569 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~7,995 |
-| Serenity Now! | 6.00% | ~7,995 |
-| Meat and Greet | 6.00% | ~7,995 |
-| Catch and Decease | 6.00% | ~7,995 |
-| Escape from the Black Hole | 6.00% | ~7,995 |
-| Rush Hour | 6.00% | ~7,995 |
-| To Grandmother's House | 6.00% | ~7,995 |
-| Ploughshares to Swords | 6.00% | ~487 |
-| Bloody Graduation | 6.00% | ~487 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~7,996 |
+| Serenity Now! | 6.00% | ~7,996 |
+| Meat and Greet | 6.00% | ~7,996 |
+| Catch and Decease | 6.00% | ~7,996 |
+| Escape from the Black Hole | 6.00% | ~7,996 |
+| Rush Hour | 6.00% | ~7,996 |
+| To Grandmother's House | 6.00% | ~7,996 |
+| Ploughshares to Swords | 6.00% | ~488 |
+| Bloody Graduation | 6.00% | ~488 |
 | It Rings a Bell | 5.00% | ~6,663 |
 | Not Today! | 5.00% | ~6,663 |
 | It Happens | 5.00% | ~6,663 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,663 |
 | FNG | 5.00% | ~6,663 |
 | Nope | 5.00% | ~6,663 |
-| Friends 'Til the End | 5.00% | ~406 |
+| Friends 'Til the End | 5.00% | ~407 |
 | Resurrection | 4.00% | ~5,330 |
 | Unleash Hell | 4.00% | ~5,330 |
 | Funny Guy | 4.00% | ~5,330 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.60% | ~49 |
 | Battle Hardened | 0.50% | ~41 |
 | Tears in the Rain | 0.40% | ~533 |
-| Maître De La Lame | 0.40% | ~32 |
+| Maître De La Lame | 0.40% | ~33 |
 | Circle of Life | 0.30% | ~400 |
 | Grand Slam | 0.30% | ~400 |
 | 20,000 Leagues Above the Sea | 0.20% | ~267 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,255 (Ranked 92)  
+Progressed: 133,262 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,14 +351,14 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,255 | 5 |
+| 2024-01-20 | 133,262 | 5 |
 ## Awards
-Max (Character Customization): 8,044  (Ranked 52)  
-Sum: 21,761 (Ranked 58)  
+Max (Character Customization): 8,048  (Ranked 52)  
+Sum: 21,765 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 8,044 |
+| This game has Inclusive Character Customization | 8,048 |
 | This game has Diverse Characters | 1,879 |
 | This game has Challenging Combat | 1,686 |
 | This game is Highly Recommended | 1,610 |
@@ -730,3 +730,4 @@ Diff (max vs sum): -6
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
+| 2024-01-20 | 4.69 | - | 8,048 | 21,765 |

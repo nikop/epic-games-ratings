@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243232,
+  "EOS_Progressed": 243239,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 389,
+  "EOS_NewPlayers": 394,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32389,6 +32389,11 @@
       "Time": "2024-01-20T00:11:18.1943467+00:00",
       "NumProgressed": 243232,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-20T01:58:15.6277968+00:00",
+      "NumProgressed": 243239,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33390,9 +33395,9 @@
       "ID": "FINISHGAMENOEXPLOSIONDAMAGE",
       "SetID": "1peahb6",
       "Name": "Explosives Expert",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "FINISHGAMENOSTATS",
@@ -33503,13 +33508,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243232,
+      "Progressed": 243239,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4712,
+      "Progressed": 4719,
       "Completed": 429
     }
   ],
@@ -33517,8 +33522,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:18.1943465+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:15.6277967+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:00:41.9405783+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:18.1946216+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:47:38.0367718+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:15.6280714+00:00"
 }

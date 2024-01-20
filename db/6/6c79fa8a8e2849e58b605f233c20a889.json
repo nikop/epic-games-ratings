@@ -4,7 +4,7 @@
   "ProductSlug": "feud-19b141",
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 244,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-05-22T14:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3258,
+  "EOS_Progressed": 3260,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8989,6 +8989,11 @@
       "Time": "2024-01-20T00:10:56.7410262+00:00",
       "NumProgressed": 3258,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T01:57:54.7145865+00:00",
+      "NumProgressed": 3260,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 22,
@@ -9032,7 +9037,7 @@
       "Name": "Harold Rex Interfectus Est",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 912
+      "UsersEstimate": 913
     },
     {
       "ID": "EXPRESS_YOURSELF",
@@ -9080,7 +9085,7 @@
       "Name": "Novice",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "GLOVE_SLAP",
@@ -9104,7 +9109,7 @@
       "Name": "Grasshopper",
       "Percentage": 60,
       "XP": 50,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "GUARD_MAKER",
@@ -9175,14 +9180,14 @@
     {
       "ID": "8lhbnh7",
       "IsBase": true,
-      "Progressed": 3258,
+      "Progressed": 3260,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-05-26T03:57:09.7840655+00:00",
   "FirstSeenAchievements": "2023-05-16T14:00:54.962829+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:10:56.741026+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:57:54.7145863+00:00",
   "LastUpdate_AppInfo": "2024-01-17T11:57:04.5235454+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:03:08.5444858+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:10:56.7410968+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:49:59.857125+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:57:54.7146597+00:00"
 }

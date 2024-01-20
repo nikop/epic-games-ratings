@@ -20,8 +20,8 @@ Rating: 4.62 (Ranked 380)
 | Boom Things | 53.00% | ~834 |
 | Tear of Freedom | 52.00% | ~818 |
 | My Darkest Day | 49.00% | ~771 |
+| Rhythm Of Willump | 47.00% | ~740 |
 | The Relentless Storm | 47.00% | ~740 |
-| Rhythm Of Willump | 46.00% | ~724 |
 | A Tragic Reminder | 45.00% | ~708 |
 | 3000 Year Blackout | 44.00% | ~693 |
 | So Close | 42.00% | ~661 |
@@ -51,7 +51,7 @@ Rating: 4.62 (Ranked 380)
 | Sneaky Notai | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,574 (Ranked 269)  
-Completed: 10 (0.64%) (Ranked 208)  
+Completed: 10 (0.64%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

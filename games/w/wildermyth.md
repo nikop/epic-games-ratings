@@ -9,10 +9,10 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 9.00% | ~145 |
 | Me and My Familiar | 8.00% | ~129 |
 | This Too Shall Pass | 7.00% | ~113 |
+| Cutthroat Competitors | 7.00% | ~113 |
 | Gotta Ca... Must Collect All of Them | 6.00% | ~96 |
 | Passing Shadow | 6.00% | ~96 |
 | How Romantic! | 6.00% | ~96 |
-| Cutthroat Competitors | 6.00% | ~96 |
 | Daybreak | 6.00% | ~96 |
 | War Endured | 4.00% | ~64 |
 | Core Failure | 4.00% | ~64 |
@@ -64,7 +64,7 @@ Number of Ratings: 45  (23.09.2022)
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,608 (Ranked 267)  
-Completed: 7 (0.44%) (Ranked 239)  
+Completed: 7 (0.44%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

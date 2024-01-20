@@ -1,38 +1,38 @@
 # Destroy All Humans! 2 - Reprobed
 [Store](https://store.epicgames.com/en-US/p/destroy-all-humans-2-reprobed)  
 [View Rawdata](../../db/d/destroy_all_humans!_2_-_reprobed.json)  
-Rating: 4.54 (Ranked 551)  
+Rating: 4.54 (Ranked 552)  
 Number of Ratings: 90  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~377 |
-| Mash Machine | 74.00% | ~332 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~247 |
+| Rock of the Bay | 84.00% | ~378 |
+| Mash Machine | 74.00% | ~333 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~248 |
 | Furon Fashion | 49.00% | ~220 |
 | Shop Til They Drop | 40.00% | ~180 |
-| Bodied Sattva | 39.00% | ~175 |
+| Bodied Sattva | 38.00% | ~171 |
 | Cult Following | 36.00% | ~162 |
-| Earthly Pleasures | 35.00% | ~157 |
+| Earthly Pleasures | 35.00% | ~158 |
 | Lie Back and Think of Albion | 29.00% | ~130 |
 | Upgreatest | 28.00% | ~126 |
 | Pimp My Raid | 26.00% | ~117 |
-| Freshly Squeezed | 23.00% | ~103 |
+| Freshly Squeezed | 23.00% | ~104 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~99 |
-| Die Nasty | 19.00% | ~85 |
+| Die Nasty | 19.00% | ~86 |
 | Perfect Probulator | 18.00% | ~81 |
 | Transmitting From Sol-3 | 17.00% | ~76 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~63 |
 | Kaijuiced | 12.00% | ~54 |
-| Fly Me to the Moon Base | 11.00% | ~49 |
-| Dusted | 11.00% | ~49 |
+| Fly Me to the Moon Base | 11.00% | ~50 |
+| Dusted | 11.00% | ~50 |
 | Scuttled | 10.00% | ~45 |
-| Lobster Blisque | 7.00% | ~31 |
-| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~31 |
+| Lobster Blisque | 7.00% | ~32 |
+| Re-Return of the Clone of the Invasion II-2 | 7.00% | ~32 |
 | Yettisoned | 6.00% | ~27 |
 | Ultimate Smoothie | 5.00% | ~22 |
 | Arkvoodle Doodle | 5.00% | ~22 |
-| Deincarnated | 3.00% | ~13 |
+| Deincarnated | 3.00% | ~14 |
 | Against All Odds | 2.00% | ~9 |
 | Forbidden Donut | 2.00% | ~9 |
 | The Optional Mandate | 2.00% | ~9 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~2 |
 | Trans-Siberian Express | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 449 (Ranked 367)  
-Completed: 2 (0.45%) (Ranked 236)  
+Progressed: 450 (Ranked 366)  
+Completed: 2 (0.44%) (Ranked 238)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -106,6 +106,7 @@ Completed: 2 (0.45%) (Ranked 236)
 | 2024-01-17 | 443 | 2 |
 | 2024-01-18 | 446 | 2 |
 | 2024-01-19 | 449 | 2 |
+| 2024-01-20 | 450 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 537)  

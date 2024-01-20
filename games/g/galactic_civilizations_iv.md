@@ -34,9 +34,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Altarians | 2.00% | ~151 |
 | Win as the Yor | 2.00% | ~151 |
 | Influence Victory! | 2.00% | ~151 |
+| Recruit a Leader | 1.00% | ~76 |
 | Win as the Baratak | 1.00% | ~76 |
 | Win as the Mimot | 1.00% | ~76 |
-| Recruit a Leader | 0.90% | ~68 |
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
@@ -50,8 +50,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Manti | 0.60% | ~45 |
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
+| Hyperspace! | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
-| Hyperspace! | 0.40% | ~30 |
 | Veteran Crew | 0.40% | ~30 |
 | Commodity Seller, Level 2 | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |

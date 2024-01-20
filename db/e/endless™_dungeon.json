@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1578,
+  "EOS_Progressed": 1579,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 43,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3605,6 +3605,11 @@
       "Time": "2024-01-19T22:07:04.8476421+00:00",
       "NumProgressed": 1578,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T01:55:26.8040038+00:00",
+      "NumProgressed": 1579,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3649,7 +3654,7 @@
       "Name": "Blobmeister",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "ACHIEVEMENT_BLUR_BOSS",
@@ -3671,9 +3676,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 442
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3697,7 +3702,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1073
+      "UsersEstimate": 1074
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3711,9 +3716,9 @@
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
       "SetID": "9991201",
       "Name": "Getting the Hang of It",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 663
+      "UsersEstimate": 647
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3831,9 +3836,9 @@
       "ID": "ACHIEVEMENT_SPECIAL_WIN",
       "SetID": "9991201",
       "Name": "All Your Secrets Are Belong to Us",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "ACHIEVEMENT_TIME_LIMIT1WIN",
@@ -3856,14 +3861,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1578,
+      "Progressed": 1579,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:08:26.8638464+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:55:26.8040036+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.5515902+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:01:20.2209326+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:08:26.863892+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:48:14.7937177+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:55:26.8040431+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.64 (Ranked 347)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,798 |
-| On the Top Step | 83.00% | ~15,321 |
-| Setting up for Success | 70.00% | ~12,921 |
-| Team Orders | 68.00% | ~12,552 |
-| Engineer | 46.00% | ~8,491 |
-| Familiar Faces | 42.00% | ~7,753 |
-| Going the Extra Mile | 36.00% | ~6,645 |
-| Sharing the Love | 33.00% | ~6,091 |
+| Getting on the Step | 91.00% | ~16,800 |
+| On the Top Step | 83.00% | ~15,323 |
+| Setting up for Success | 70.00% | ~12,923 |
+| Team Orders | 68.00% | ~12,553 |
+| Engineer | 46.00% | ~8,492 |
+| Familiar Faces | 42.00% | ~7,754 |
+| Going the Extra Mile | 36.00% | ~6,646 |
+| Sharing the Love | 34.00% | ~6,277 |
 | Hitting a Season | 28.00% | ~5,169 |
 | A Dozen Pieces | 25.00% | ~4,615 |
 | Making History | 25.00% | ~4,615 |
-| Challenge Yourself | 24.00% | ~4,430 |
+| Challenge Yourself | 24.00% | ~4,431 |
 | Network Success | 23.00% | ~4,246 |
 | Writing a new Chapter | 20.00% | ~3,692 |
 | Spring Cleaning | 18.00% | ~3,323 |
@@ -25,8 +25,8 @@ Rating: 4.64 (Ranked 347)
 | Crucial Combo | 13.00% | ~2,400 |
 | Proving Them Wrong | 13.00% | ~2,400 |
 | Reuse | 12.00% | ~2,215 |
-| Gathering Dust | 11.00% | ~2,030 |
-| One for the Book | 11.00% | ~2,030 |
+| Gathering Dust | 11.00% | ~2,031 |
+| One for the Book | 11.00% | ~2,031 |
 | Eagle Eye | 10.00% | ~1,846 |
 | All in a Weekend's Work | 10.00% | ~1,846 |
 | Oil and Water | 10.00% | ~1,846 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 347)
 | Shot in the Dark | 0.10% | ~18 |
 | Elite Racer | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,459 (Ranked 164)  
+Progressed: 18,461 (Ranked 164)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,7 +184,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 18,358 | 0 |
 | 2024-01-18 | 18,404 | 0 |
 | 2024-01-19 | 18,454 | 0 |
-| 2024-01-20 | 18,459 | 0 |
+| 2024-01-20 | 18,461 | 0 |
 ## Awards
 Max (Diverse Characters): 68  (Ranked 423)  
 Sum: 462 (Ranked 348)  

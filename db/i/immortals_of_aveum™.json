@@ -525,9 +525,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3533,
+  "EOS_Progressed": 3535,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5930,6 +5930,11 @@
       "Time": "2024-01-19T21:11:09.8060714+00:00",
       "NumProgressed": 3533,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T01:58:02.8738376+00:00",
+      "NumProgressed": 3535,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5942,7 +5947,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3144
+      "UsersEstimate": 3146
     },
     {
       "ID": "achievement_10",
@@ -5964,9 +5969,9 @@
       "ID": "achievement_12",
       "SetID": "18al4io",
       "Name": "Resilience to Sin",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 672
     },
     {
       "ID": "achievement_13",
@@ -5990,7 +5995,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "achievement_16",
@@ -5998,7 +6003,7 @@
       "Name": "Recruit",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 565
+      "UsersEstimate": 566
     },
     {
       "ID": "achievement_17",
@@ -6022,7 +6027,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     },
     {
       "ID": "achievement_2",
@@ -6030,7 +6035,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2897
+      "UsersEstimate": 2899
     },
     {
       "ID": "achievement_20",
@@ -6086,7 +6091,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2473
+      "UsersEstimate": 2474
     },
     {
       "ID": "achievement_36",
@@ -6094,7 +6099,7 @@
       "Name": "Armsman",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "achievement_37",
@@ -6118,7 +6123,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1908
+      "UsersEstimate": 1909
     },
     {
       "ID": "achievement_41",
@@ -6156,17 +6161,17 @@
       "ID": "achievement_45",
       "SetID": "18al4io",
       "Name": "Periapt Alizarin",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 601
+      "UsersEstimate": 636
     },
     {
       "ID": "achievement_46",
       "SetID": "18al4io",
       "Name": "Periapt Viridian",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 283
+      "UsersEstimate": 247
     },
     {
       "ID": "achievement_48",
@@ -6174,7 +6179,7 @@
       "Name": "Enlisted",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2687
     },
     {
       "ID": "achievement_49",
@@ -6238,7 +6243,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "achievement_60",
@@ -6294,15 +6299,15 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1095
+      "UsersEstimate": 1096
     },
     {
       "ID": "achievement_8",
       "SetID": "18al4io",
       "Name": "All the Major Food Groups",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 919
+      "UsersEstimate": 954
     },
     {
       "ID": "achievement_9",
@@ -6310,14 +6315,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 883
+      "UsersEstimate": 884
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3533,
+      "Progressed": 3535,
       "Completed": 5
     }
   ],
@@ -6325,8 +6330,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T22:59:42.5800513+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:04.9931992+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:02.8738374+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:01:08.8565534+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:04.9932585+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:48:03.7932707+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:02.8738891+00:00"
 }

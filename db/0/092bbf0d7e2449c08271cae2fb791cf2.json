@@ -2,9 +2,9 @@
   "ID": "092bbf0d7e2449c08271cae2fb791cf2",
   "Name": "CHUCHEL",
   "ProductSlug": "chuchel-203808",
-  "Ranking_EOS_Progress": 345,
+  "Ranking_EOS_Progress": 344,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 626,
+  "EOS_Progressed": 627,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -2089,6 +2089,11 @@
       "Time": "2024-01-19T23:08:39.1333489+00:00",
       "NumProgressed": 626,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-20T01:55:38.877605+00:00",
+      "NumProgressed": 627,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-10-25T16:03:36.3544132+00:00",
@@ -2101,15 +2106,15 @@
       "Name": "Good Morning",
       "Percentage": 17,
       "XP": 145,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "ach2",
       "SetID": "796kfpa",
       "Name": "Blabber",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 145,
-      "UsersEstimate": 313
+      "UsersEstimate": 307
     },
     {
       "ID": "ach3",
@@ -2123,9 +2128,9 @@
       "ID": "ach4",
       "SetID": "796kfpa",
       "Name": "Three Caps",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 140,
-      "UsersEstimate": 50
+      "UsersEstimate": 44
     },
     {
       "ID": "ach5",
@@ -2149,21 +2154,21 @@
       "Name": "Snail Racing Champion",
       "Percentage": 13,
       "XP": 145,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     }
   ],
   "AchievementSets": [
     {
       "ID": "796kfpa",
       "IsBase": true,
-      "Progressed": 626,
+      "Progressed": 627,
       "Completed": 7
     }
   ],
   "FirstSeen": "2023-11-18T20:00:27.3275116+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.3544131+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:08:39.0961988+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:55:38.8776047+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:20.6983457+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:02:15.4828971+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:08:39.0962175+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:49:08.0843475+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:55:38.8776223+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 157,
-  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewPlayers": 355,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -1240,9 +1240,9 @@
       "ID": "ACH_046",
       "SetID": "72imik0",
       "Name": "Zakariya Demir",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_05",
@@ -1297,8 +1297,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:09:16.0329779+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:56:14.8593991+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:15.8777109+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:03:35.677627+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:09:16.0330127+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:50:25.4335348+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:56:14.859435+00:00"
 }

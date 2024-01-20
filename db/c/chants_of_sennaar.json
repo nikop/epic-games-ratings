@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 14,
+  "Ranking_EOS_NewCompleters": 15,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2893,
+  "EOS_Progressed": 2894,
   "EOS_Completed": 222,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 175,
   "EOS_NewCompleters": 21,
   "EOS_Completed_Percentage": 7.67,
   "EosHistory": [
@@ -7704,6 +7704,11 @@
       "Time": "2024-01-20T00:06:14.4147598+00:00",
       "NumProgressed": 2893,
       "NumCompleted": 222
+    },
+    {
+      "Time": "2024-01-20T01:52:58.017038+00:00",
+      "NumProgressed": 2894,
+      "NumCompleted": 222
     }
   ],
   "TotalAchievements": 25,
@@ -7763,7 +7768,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7779,7 +7784,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 665
+      "UsersEstimate": 666
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7811,7 +7816,7 @@
       "Name": "Alchemists Express",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7875,7 +7880,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1562
+      "UsersEstimate": 1563
     },
     {
       "ID": "PROGRESS_N2",
@@ -7891,7 +7896,7 @@
       "Name": "A new dawn",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "PROGRESS_N4",
@@ -7914,7 +7919,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2893,
+      "Progressed": 2894,
       "Completed": 222
     }
   ],
@@ -7922,8 +7927,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:06:14.4147593+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:52:58.0170378+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:58:23.5118441+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:06:14.4148152+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:45:20.9924085+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:52:58.0170971+00:00"
 }

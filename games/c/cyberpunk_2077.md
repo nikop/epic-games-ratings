@@ -25,12 +25,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Judy vs Night City | 0.30% | ~3,166 |
 | All the President's Men | 0.30% | ~552 |
 | Arachnophobia | 0.30% | ~552 |
-| To Protect and Serve | 0.20% | ~2,110 |
-| The Wandering Fool | 0.20% | ~2,110 |
-| I Am The Law | 0.20% | ~2,110 |
-| The Quick and the Dead | 0.20% | ~2,110 |
-| True Warrior | 0.20% | ~2,110 |
-| Two Heads, One Bullet | 0.20% | ~2,110 |
+| To Protect and Serve | 0.20% | ~2,111 |
+| The Wandering Fool | 0.20% | ~2,111 |
+| I Am The Law | 0.20% | ~2,111 |
+| The Quick and the Dead | 0.20% | ~2,111 |
+| True Warrior | 0.20% | ~2,111 |
+| Two Heads, One Bullet | 0.20% | ~2,111 |
 | Spin Doctor | 0.20% | ~368 |
 | City Lights | 0.10% | ~1,055 |
 | To Bad Decisions! | 0.10% | ~1,055 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,222 (Ranked 17)  
+Progressed: 1,055,259 (Ranked 17)  
 Completed: 3,129 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 3,129 (0.30%) (Ranked 263)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,222 | 3,129 |
+| 2024-01-20 | 1,055,259 | 3,129 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
 Sum: 506,646 (Ranked 8)  

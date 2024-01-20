@@ -5,48 +5,48 @@ Rating: 4.21 (Ranked 965)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,374 |
-| The touch of Chaos | 5.00% | ~17,374 |
-| A powerful aura was here | 4.00% | ~13,900 |
+| May the Torchbearer light our way | 5.00% | ~17,376 |
+| The touch of Chaos | 5.00% | ~17,376 |
+| A powerful aura was here | 4.00% | ~13,901 |
 | Let's raise the stakes!! | 2.00% | ~6,950 |
 | Rumors are true | 1.00% | ~3,475 |
 | We'll be careful | 1.00% | ~3,475 |
 | Pride is a sin, young Knight | 1.00% | ~3,475 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,475 |
-| Back to your senses | 0.80% | ~2,780 |
+| Back to your senses | 0.90% | ~3,128 |
 | They tricked me | 0.80% | ~2,780 |
 | They won't last long | 0.80% | ~2,780 |
 | Bring it on! | 0.80% | ~2,780 |
-| We need to talk | 0.70% | ~2,432 |
-| I feel drawn to it | 0.60% | ~2,085 |
+| We need to talk | 0.70% | ~2,433 |
+| I feel drawn to it | 0.70% | ~2,433 |
 | Here to stay | 0.60% | ~2,085 |
 | Counting on you | 0.60% | ~2,085 |
 | This is the end | 0.60% | ~2,085 |
 | We can choose to fight | 0.60% | ~2,085 |
-| I took a risk | 0.50% | ~1,737 |
+| I took a risk | 0.50% | ~1,738 |
 | Their fate is sealed | 0.40% | ~1,390 |
-| Not even from this world | 0.30% | ~1,042 |
+| Not even from this world | 0.30% | ~1,043 |
 | No damsels in distress | 0.20% | ~695 |
 | Chaos be damned! | 0.20% | ~695 |
-| The immortal is bound to reborn | 0.10% | ~347 |
-| A legend among Chimeras | 0.10% | ~347 |
-| It's only pain | 0.10% | ~347 |
-| I know how to handle it | 0.10% | ~347 |
-| Settle this once and for all | 0.10% | ~347 |
-| The Ashen Knight | 0.10% | ~347 |
-| The Shade | 0.10% | ~347 |
-| Through the Veil | 0.10% | ~347 |
-| Call this the Judge's mercy | 0.10% | ~347 |
-| There's too many of them! | 0.10% | ~347 |
-| I've been waiting for this! | 0.10% | ~347 |
-| You want more? I've got more! | 0.10% | ~347 |
-| I'm just warming up | 0.10% | ~347 |
-| We learned it the hard way | 0.10% | ~347 |
-| They wanted yet another monster… | 0.10% | ~347 |
-| Something... unnatural | 0.10% | ~347 |
-| We strike as one | 0.10% | ~347 |
+| The immortal is bound to reborn | 0.10% | ~348 |
+| A legend among Chimeras | 0.10% | ~348 |
+| It's only pain | 0.10% | ~348 |
+| I know how to handle it | 0.10% | ~348 |
+| Settle this once and for all | 0.10% | ~348 |
+| The Ashen Knight | 0.10% | ~348 |
+| The Shade | 0.10% | ~348 |
+| Through the Veil | 0.10% | ~348 |
+| Call this the Judge's mercy | 0.10% | ~348 |
+| There's too many of them! | 0.10% | ~348 |
+| I've been waiting for this! | 0.10% | ~348 |
+| You want more? I've got more! | 0.10% | ~348 |
+| I'm just warming up | 0.10% | ~348 |
+| We learned it the hard way | 0.10% | ~348 |
+| They wanted yet another monster… | 0.10% | ~348 |
+| Something... unnatural | 0.10% | ~348 |
+| We strike as one | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,490 (Ranked 60)  
+Progressed: 347,515 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 7 (0.00%) (Ranked 406)
 | 2024-01-17 | 346,759 | 7 |
 | 2024-01-18 | 347,117 | 7 |
 | 2024-01-19 | 347,471 | 7 |
-| 2024-01-20 | 347,490 | 7 |
+| 2024-01-20 | 347,515 | 7 |
 ## Awards
 Max (Great Boss Battles): 82  (Ranked 404)  
 Sum: 82 (Ranked 487)  

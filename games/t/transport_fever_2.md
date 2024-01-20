@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,848 |
-| First cargo item waiting | 68.00% | ~1,698 |
-| First cargo item on board | 67.00% | ~1,673 |
-| First bus stop | 66.00% | ~1,648 |
-| First passenger on board | 63.00% | ~1,573 |
-| First passenger waiting | 63.00% | ~1,573 |
-| First bus arrived | 62.00% | ~1,548 |
-| First train station | 60.00% | ~1,498 |
-| First steam train arrived | 56.00% | ~1,398 |
-| Cadet | 53.00% | ~1,323 |
-| First industry upgraded | 53.00% | ~1,323 |
-| Transport millionaire | 51.00% | ~1,273 |
+| First line | 74.00% | ~1,849 |
+| First cargo item waiting | 68.00% | ~1,699 |
+| First cargo item on board | 67.00% | ~1,674 |
+| First bus stop | 66.00% | ~1,649 |
+| First passenger waiting | 63.00% | ~1,574 |
+| First bus arrived | 62.00% | ~1,549 |
+| First passenger on board | 62.00% | ~1,549 |
+| First train station | 59.00% | ~1,474 |
+| First steam train arrived | 56.00% | ~1,399 |
+| Cadet | 53.00% | ~1,324 |
+| First industry upgraded | 53.00% | ~1,324 |
+| Transport millionaire | 51.00% | ~1,274 |
 | Transport master | 49.00% | ~1,224 |
 | Cargo hub | 49.00% | ~1,224 |
 | Sculpturer | 46.00% | ~1,149 |
@@ -36,11 +36,11 @@ Number of Ratings: 180  (23.09.2022)
 | Not in my backyard | 27.00% | ~674 |
 | City | 26.00% | ~649 |
 | The king of the sea | 26.00% | ~649 |
-| Transport tycoon | 21.00% | ~524 |
-| Old timer | 21.00% | ~524 |
-| Climate change | 20.00% | ~499 |
-| The ugly smell of success | 20.00% | ~499 |
-| Heavily loaded | 19.00% | ~474 |
+| Transport tycoon | 21.00% | ~525 |
+| Old timer | 21.00% | ~525 |
+| Climate change | 20.00% | ~500 |
+| The ugly smell of success | 20.00% | ~500 |
+| Heavily loaded | 19.00% | ~475 |
 | Bob Ross | 14.00% | ~350 |
 | Campaign expert | 10.00% | ~250 |
 | Truck Fever | 10.00% | ~250 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,497 (Ranked 242)  
+Progressed: 2,498 (Ranked 242)  
 Completed: 1 (0.04%) (Ranked 356)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,6 +328,7 @@ Completed: 1 (0.04%) (Ranked 356)
 | 2024-01-17 | 2,489 | 1 |
 | 2024-01-18 | 2,490 | 1 |
 | 2024-01-19 | 2,497 | 1 |
+| 2024-01-20 | 2,498 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 465)  
 Sum: 333 (Ranked 374)  

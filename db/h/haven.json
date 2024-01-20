@@ -189,9 +189,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2022,
+  "EOS_Progressed": 2023,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 47,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3814,6 +3814,11 @@
       "Time": "2024-01-19T17:06:05.3111091+00:00",
       "NumProgressed": 2022,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-20T01:53:06.7675478+00:00",
+      "NumProgressed": 2023,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3889,7 +3894,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "18",
@@ -3961,7 +3966,7 @@
       "Name": "Heartstrings",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "27",
@@ -4033,7 +4038,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "7",
@@ -4049,7 +4054,7 @@
       "Name": "Over my dead body",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 667
+      "UsersEstimate": 668
     },
     {
       "ID": "9",
@@ -4064,15 +4069,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2022,
+      "Progressed": 2023,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-04T18:59:48.0906377+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:06:23.4506878+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:53:06.7675475+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:34.51078+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:02:06.8821541+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:06:23.4507317+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:48:59.5260582+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:53:06.7675781+00:00"
 }

@@ -6,8 +6,8 @@
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_Completed": 209,
+  "Ranking_EOS_NewPlayers": 249,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-01T16:00:00+00:00",
@@ -107,7 +107,7 @@
   "Tags": [],
   "EOS_Progressed": 1574,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -4522,9 +4522,9 @@
       "ID": "EV_ACH25",
       "SetID": "6jeac23",
       "Name": "Rhythm Of Willump",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 740
     },
     {
       "ID": "EV_ACH26",
@@ -4691,8 +4691,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-18T13:07:49.0507661+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:11.9891751+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:09.7009328+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:57:17.7405332+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:11.9892194+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:44:18.7325353+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:09.7009886+00:00"
 }

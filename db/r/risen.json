@@ -5,7 +5,7 @@
   "Ranking_Rating": 474,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
-  "Ranking_EOS_Progress": 434,
+  "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 154,
@@ -107,7 +107,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 208,
+  "EOS_Progressed": 209,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -1092,6 +1092,11 @@
       "Time": "2024-01-19T20:10:17.6421754+00:00",
       "NumProgressed": 208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T01:58:06.7507942+00:00",
+      "NumProgressed": 209,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1104,7 +1109,7 @@
       "Name": "The merciful one",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "id_11",
@@ -1112,7 +1117,7 @@
       "Name": "Wise man",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "id_12",
@@ -1144,7 +1149,7 @@
       "Name": "Little hero",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "id_17",
@@ -1176,7 +1181,7 @@
       "Name": "Field hand",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "id_20",
@@ -1200,7 +1205,7 @@
       "Name": "The traveler",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "id_25",
@@ -1232,23 +1237,23 @@
       "Name": "Beginner",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 185
+      "UsersEstimate": 186
     },
     {
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 88
     },
     {
       "ID": "id_33",
       "SetID": "bk9jib6",
       "Name": "Ferocious wild boars",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "id_34",
@@ -1262,9 +1267,9 @@
       "ID": "id_36",
       "SetID": "bk9jib6",
       "Name": "Beast slayer",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 46
     },
     {
       "ID": "id_37",
@@ -1280,7 +1285,7 @@
       "Name": "Samaritan",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "id_42",
@@ -1368,15 +1373,15 @@
       "Name": "The fourth triplet",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "id_52",
       "SetID": "bk9jib6",
       "Name": "Idiot",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 50
     },
     {
       "ID": "id_53",
@@ -1414,9 +1419,9 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 69
     },
     {
       "ID": "id_58",
@@ -1448,7 +1453,7 @@
       "Name": "Adventurer",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "id_61",
@@ -1456,7 +1461,7 @@
       "Name": "Map reader",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "id_62",
@@ -1464,7 +1469,7 @@
       "Name": "Archer",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "id_63",
@@ -1480,7 +1485,7 @@
       "Name": "Ladies\u0027 man",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "id_8",
@@ -1488,7 +1493,7 @@
       "Name": "Sidelined",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "id_9",
@@ -1503,7 +1508,7 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 208,
+      "Progressed": 209,
       "Completed": 0
     }
   ],
@@ -1511,8 +1516,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-15T06:57:50.024963+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:08.9514104+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:06.7507941+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:32.9157484+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:01:26.4159459+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:08.9514442+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:48:20.9255176+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:06.7508268+00:00"
 }

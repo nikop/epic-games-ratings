@@ -5,32 +5,32 @@ Rating: 4.19 (Ranked 978)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,144 |
-| Battlefields Have Memories | 82.00% | ~2,897 |
-| Enlisted | 76.00% | ~2,685 |
-| Maybe Engage a Little | 70.00% | ~2,473 |
-| No More Names | 54.00% | ~1,908 |
+| Unforeseen | 89.00% | ~3,146 |
+| Battlefields Have Memories | 82.00% | ~2,899 |
+| Enlisted | 76.00% | ~2,687 |
+| Maybe Engage a Little | 70.00% | ~2,474 |
+| No More Names | 54.00% | ~1,909 |
 | Initiate | 41.00% | ~1,449 |
-| Thrada-Kul | 37.00% | ~1,307 |
-| Gravity-Challenged Rocks | 31.00% | ~1,095 |
+| Thrada-Kul | 37.00% | ~1,308 |
+| Gravity-Challenged Rocks | 31.00% | ~1,096 |
 | Soldier | 27.00% | ~954 |
-| All the Major Food Groups | 26.00% | ~919 |
-| Socialite | 25.00% | ~883 |
-| Beggars Would Ride | 25.00% | ~883 |
+| All the Major Food Groups | 27.00% | ~954 |
+| Socialite | 25.00% | ~884 |
+| Beggars Would Ride | 25.00% | ~884 |
 | Control is an Illusion | 23.00% | ~813 |
 | The Means to Save It | 20.00% | ~707 |
-| Resilience to Sin | 18.00% | ~636 |
+| Resilience to Sin | 19.00% | ~672 |
 | A Familiar Nest | 18.00% | ~636 |
+| Periapt Alizarin | 18.00% | ~636 |
 | Geas Aristeya | 17.00% | ~601 |
-| Periapt Alizarin | 17.00% | ~601 |
-| A Perfect Cycle | 16.00% | ~565 |
-| Recruit | 16.00% | ~565 |
-| Armsman | 13.00% | ~459 |
+| A Perfect Cycle | 16.00% | ~566 |
+| Recruit | 16.00% | ~566 |
+| Armsman | 13.00% | ~460 |
 | Lights Army | 11.00% | ~389 |
 | Periapt Cerulean | 9.00% | ~318 |
 | Good Boy | 9.00% | ~318 |
-| Periapt Viridian | 8.00% | ~283 |
 | Best Dressed | 7.00% | ~247 |
+| Periapt Viridian | 7.00% | ~247 |
 | Shroudfane Explorer | 7.00% | ~247 |
 | Kitted Out | 5.00% | ~177 |
 | Armaments Azure | 5.00% | ~177 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 978)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,533 (Ranked 229)  
+Progressed: 3,535 (Ranked 229)  
 Completed: 5 (0.14%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -167,6 +167,7 @@ Completed: 5 (0.14%) (Ranked 300)
 | 2024-01-17 | 3,496 | 5 |
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
+| 2024-01-20 | 3,535 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 568)  
 Sum: 42 (Ranked 524)  

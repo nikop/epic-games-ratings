@@ -6,16 +6,16 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 76.00% | ~493 |
-| First of many… | 68.00% | ~441 |
-| Helping Hand | 64.00% | ~415 |
+| Green with Envy | 76.00% | ~494 |
+| First of many… | 68.00% | ~442 |
+| Helping Hand | 64.00% | ~416 |
 | Increased Vigor | 61.00% | ~396 |
-| Fight Fire with Fire | 59.00% | ~383 |
-| Increased Capacity | 56.00% | ~363 |
-| Just the start | 50.00% | ~324 |
-| Perfect Storm | 47.00% | ~305 |
-| All That Glitters | 47.00% | ~305 |
-| Enhance! | 43.00% | ~279 |
+| Fight Fire with Fire | 59.00% | ~384 |
+| Increased Capacity | 56.00% | ~364 |
+| Just the start | 50.00% | ~325 |
+| Perfect Storm | 47.00% | ~306 |
+| All That Glitters | 46.00% | ~299 |
+| Enhance! | 42.00% | ~273 |
 | One Of the Chosen | 41.00% | ~266 |
 | Devil's in the Details | 41.00% | ~266 |
 | Throne Potato | 41.00% | ~266 |
@@ -28,30 +28,30 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 35.00% | ~227 |
 | Love Tap | 35.00% | ~227 |
 | Maximum Vigor | 33.00% | ~214 |
-| Freeze Frame | 31.00% | ~201 |
-| Eat Your Heart Out | 31.00% | ~201 |
+| Freeze Frame | 31.00% | ~202 |
+| Eat Your Heart Out | 31.00% | ~202 |
 | For Whom the Bell Tolls | 30.00% | ~195 |
 | Unyielding Strength | 28.00% | ~182 |
-| Can you restore the Balance? | 27.00% | ~175 |
-| Crowd Source | 27.00% | ~175 |
-| Big Spender | 27.00% | ~175 |
+| Can you restore the Balance? | 27.00% | ~176 |
+| Crowd Source | 27.00% | ~176 |
+| Big Spender | 27.00% | ~176 |
 | Cleanup Crew | 26.00% | ~169 |
 | Seeing Red | 25.00% | ~162 |
 | Demon Meddler | 24.00% | ~156 |
-| Maximum Capacity | 23.00% | ~149 |
-| Egomaniac | 23.00% | ~149 |
+| Maximum Capacity | 23.00% | ~150 |
+| Egomaniac | 23.00% | ~150 |
 | Protector of Humanity | 22.00% | ~143 |
 | Everybody Wants to Rule the World | 22.00% | ~143 |
-| Community Outreach | 17.00% | ~110 |
-| A Parting Gift | 15.00% | ~97 |
-| Path of the Horseman | 15.00% | ~97 |
+| Community Outreach | 17.00% | ~111 |
+| A Parting Gift | 15.00% | ~98 |
+| Path of the Horseman | 15.00% | ~98 |
 | Unbreakable Will | 14.00% | ~91 |
 | Take it to the Limit | 14.00% | ~91 |
 | Holy Keeper | 12.00% | ~78 |
 | Demon Keeper | 12.00% | ~78 |
 | Humanitarian | 10.00% | ~65 |
 | Soul Reaper | 9.00% | ~58 |
-| Made of Sterner Stuff | 7.00% | ~45 |
+| Made of Sterner Stuff | 7.00% | ~46 |
 | My Evil Twin | 6.00% | ~39 |
 | Purity of Power | 5.00% | ~32 |
 | Balance in all things | 5.00% | ~32 |
@@ -61,17 +61,17 @@ Number of Ratings: 116  (23.09.2022)
 | Keeper of the Sky | 4.00% | ~26 |
 | Keep it 100! | 4.00% | ~26 |
 | BFA | 4.00% | ~26 |
-| "Incredible!" | 3.00% | ~19 |
-| Proceed on your way to Armageddon | 3.00% | ~19 |
-| Keeper of Colossal Automata | 3.00% | ~19 |
-| Keeper of the Tempo | 3.00% | ~19 |
+| "Incredible!" | 3.00% | ~20 |
+| Proceed on your way to Armageddon | 3.00% | ~20 |
+| Keeper of Colossal Automata | 3.00% | ~20 |
+| Keeper of the Tempo | 3.00% | ~20 |
 | "Apocalyptic!" | 2.00% | ~13 |
 | "Amazing!" | 2.00% | ~13 |
 | Death Incarnate | 2.00% | ~13 |
 | Beast Mode | 1.00% | ~6 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 342)  
+Progressed: 650 (Ranked 342)  
 Completed: 2 (0.31%) (Ranked 260)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -107,6 +107,7 @@ Completed: 2 (0.31%) (Ranked 260)
 | 2024-01-17 | 631 | 2 |
 | 2024-01-18 | 642 | 2 |
 | 2024-01-19 | 649 | 2 |
+| 2024-01-20 | 650 | 2 |
 ## Awards
 Max (Great Boss Battles): 100  (Ranked 383)  
 Sum: 100 (Ranked 473)  

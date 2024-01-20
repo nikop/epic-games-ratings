@@ -4,7 +4,7 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 391,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.78,
   "EosHistory": [
@@ -654,6 +654,11 @@
       "Time": "2024-01-18T09:10:21.4674792+00:00",
       "NumProgressed": 128,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T01:58:01.6408634+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-29T09:04:17.2869306+00:00",
@@ -674,7 +679,7 @@
       "Name": "Christ the Saviour",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "cold_feet",
@@ -704,9 +709,9 @@
       "ID": "good_cop_bad_cop",
       "SetID": "7i36ba9",
       "Name": "Good Cop, Bad Cop",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "if_the_suit_fits",
@@ -728,9 +733,9 @@
       "ID": "josh_the_saviour",
       "SetID": "7i36ba9",
       "Name": "Josh the Saviour",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "knock_knockout",
@@ -752,9 +757,9 @@
       "ID": "passive_fist",
       "SetID": "7i36ba9",
       "Name": "Passive Fist",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 28
     },
     {
       "ID": "poor_gracie_ray",
@@ -842,7 +847,7 @@
       "Name": "The Price is Right",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 89
     },
     {
       "ID": "the_swell_celebration",
@@ -873,14 +878,14 @@
     {
       "ID": "7i36ba9",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:03.7006191+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:01.6408632+00:00",
   "LastUpdate_AppInfo": "2024-01-13T08:57:17.9806702+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:00:58.2762133+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:03.7006389+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:47:52.9624655+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:01.6408807+00:00"
 }

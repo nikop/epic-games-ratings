@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12449,
+  "EOS_Progressed": 12450,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 188,
+  "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -16176,6 +16176,11 @@
       "Time": "2024-01-20T00:05:49.4917737+00:00",
       "NumProgressed": 12449,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2024-01-20T01:52:33.5769567+00:00",
+      "NumProgressed": 12450,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 29,
@@ -16187,7 +16192,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10333
+      "UsersEstimate": 10334
     },
     {
       "ID": "ACH02",
@@ -16195,7 +16200,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4357
+      "UsersEstimate": 4358
     },
     {
       "ID": "ACH03",
@@ -16211,7 +16216,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4855
+      "UsersEstimate": 4856
     },
     {
       "ID": "ACH05",
@@ -16219,7 +16224,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH06",
@@ -16315,7 +16320,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1867
+      "UsersEstimate": 1868
     },
     {
       "ID": "ACH18",
@@ -16323,7 +16328,7 @@
       "Name": "Not So Fast",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "ACH19",
@@ -16331,7 +16336,7 @@
       "Name": "A Gift from the King",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "ACH20",
@@ -16347,7 +16352,7 @@
       "Name": "Splish Splash",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH22",
@@ -16418,7 +16423,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12449,
+      "Progressed": 12450,
       "Completed": 94
     }
   ],
@@ -16426,8 +16431,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:05:49.4917732+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:52:33.5769566+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:00:09.9337915+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:05:49.4918667+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:47:04.7651259+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:52:33.5770592+00:00"
 }

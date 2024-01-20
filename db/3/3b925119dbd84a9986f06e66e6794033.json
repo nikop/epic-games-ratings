@@ -4,7 +4,7 @@
   "ProductSlug": "the-jackbox-party-pack-10-c6f152",
   "Ranking_EOS_Progress": 323,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 288,
+  "Ranking_EOS_NewPlayers": 287,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T06:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2464,6 +2464,11 @@
       "Time": "2024-01-20T00:10:56.4864577+00:00",
       "NumProgressed": 763,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T01:57:54.2990994+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-19T21:05:31.1931835+00:00",
@@ -2572,7 +2577,7 @@
       "Name": "Timejinx: Timejinx",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "TIME_ORWELL",
@@ -2588,7 +2593,7 @@
       "Name": "Timejinx: The Perfect Date",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "TIME_PERFECT_GUEST",
@@ -2635,14 +2640,14 @@
     {
       "ID": "9j9h72e",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T23:03:35.2707452+00:00",
   "FirstSeenAchievements": "2023-09-22T20:02:25.1560664+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:10:56.4864574+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:57:54.2990992+00:00",
   "LastUpdate_AppInfo": "2024-01-13T02:19:48.2425501+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:01:31.5021574+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:10:56.4864856+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:48:25.7332608+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:57:54.299131+00:00"
 }

@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3043,
+  "EOS_Progressed": 3044,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 0,
@@ -8299,6 +8299,11 @@
       "Time": "2024-01-20T00:11:15.604401+00:00",
       "NumProgressed": 3043,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T01:58:13.2572819+00:00",
+      "NumProgressed": 3044,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8415,7 +8420,7 @@
       "Name": "Tell Jabba that I\u0027ve got his money",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_22",
@@ -8527,7 +8532,7 @@
       "Name": "Best star-pilot in the galaxy",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "achievement_35",
@@ -8535,7 +8540,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2617
+      "UsersEstimate": 2618
     },
     {
       "ID": "achievement_36",
@@ -8583,7 +8588,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1582
+      "UsersEstimate": 1583
     },
     {
       "ID": "achievement_41",
@@ -8615,7 +8620,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "achievement_45",
@@ -8814,13 +8819,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3043,
+      "Progressed": 3044,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3043,
+      "Progressed": 3044,
       "Completed": 1
     }
   ],
@@ -8828,8 +8833,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:15.6044009+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:13.2572817+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:01:27.1126962+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:15.6044866+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:48:21.573136+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:13.2573846+00:00"
 }

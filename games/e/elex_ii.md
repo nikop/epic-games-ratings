@@ -1,7 +1,7 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 901)  
+Rating: 4.28 (Ranked 902)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,12 +9,12 @@ Number of Ratings: 124  (23.09.2022)
 | Entrepreneur | 45.00% | ~120 |
 | Best Buddy | 38.00% | ~101 |
 | Civilian | 36.00% | ~96 |
-| Role Model | 35.00% | ~93 |
-| Creator | 32.00% | ~85 |
+| Role Model | 34.00% | ~91 |
+| Creator | 33.00% | ~88 |
 | Military Leader | 30.00% | ~80 |
 | Festival-goer | 30.00% | ~80 |
 | Peddler | 26.00% | ~69 |
-| Commander | 26.00% | ~69 |
+| Commander | 25.00% | ~67 |
 | Irissa's Fate | 21.00% | ~56 |
 | Long-Haul Flyer | 19.00% | ~51 |
 | Family Reunion | 19.00% | ~51 |
@@ -41,13 +41,13 @@ Number of Ratings: 124  (23.09.2022)
 | Idealist | 3.00% | ~8 |
 | Morkon | 3.00% | ~8 |
 | Legendary | 3.00% | ~8 |
-| Pack Rat | 2.00% | ~5 |
 | Toy Time | 2.00% | ~5 |
 | Defector | 2.00% | ~5 |
 | Outlaw | 2.00% | ~5 |
-| Destroyer | 2.00% | ~5 |
-| Ruthless | 0.80% | ~2 |
-| Fire in the Hole | 0.80% | ~2 |
+| Pack Rat | 1.00% | ~3 |
+| Destroyer | 1.00% | ~3 |
+| Ruthless | 0.70% | ~2 |
+| Fire in the Hole | 0.70% | ~2 |
 | Defender | 0.40% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 266 (Ranked 420)  
+Progressed: 267 (Ranked 420)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -95,6 +95,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 261 | 0 |
 | 2024-01-18 | 263 | 0 |
 | 2024-01-19 | 266 | 0 |
+| 2024-01-20 | 267 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

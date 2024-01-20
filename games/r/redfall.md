@@ -29,6 +29,7 @@ Rating: 3.67 (Ranked 1,101)
 | You Clean It Up | 4.00% | ~96 |
 | From the Shadows | 4.00% | ~96 |
 | Helping Hand | 4.00% | ~96 |
+| Revelations | 3.00% | ~72 |
 | Contingency Plans | 3.00% | ~72 |
 | Block Party | 3.00% | ~72 |
 | Sic Transit Umbra | 3.00% | ~72 |
@@ -37,7 +38,6 @@ Rating: 3.67 (Ranked 1,101)
 | Check, Please! | 3.00% | ~72 |
 | Starve the Beast | 3.00% | ~72 |
 | Harvest’s End | 3.00% | ~72 |
-| Revelations | 2.00% | ~48 |
 | Right This Way | 2.00% | ~48 |
 | Nice Try | 2.00% | ~48 |
 | Blacklight Down | 2.00% | ~48 |

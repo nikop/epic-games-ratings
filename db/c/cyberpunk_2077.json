@@ -18752,10 +18752,10 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055222,
+  "EOS_Progressed": 1055259,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6828,
-  "EOS_NewCompleters": 49,
+  "EOS_NewPlayers": 6764,
+  "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50207,6 +50207,11 @@
       "Time": "2024-01-20T00:09:32.9065631+00:00",
       "NumProgressed": 1055222,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-20T01:56:31.601777+00:00",
+      "NumProgressed": 1055259,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50259,7 +50264,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "Fortuneteller",
@@ -50267,7 +50272,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "Gearhead",
@@ -50315,7 +50320,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -50347,7 +50352,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "MustBeTheRats",
@@ -50523,7 +50528,7 @@
       "Name": "True Warrior",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -50531,7 +50536,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2110
+      "UsersEstimate": 2111
     },
     {
       "ID": "UnderPressure",
@@ -50754,21 +50759,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055222,
+      "Progressed": 1055259,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183845,
+      "Progressed": 183882,
       "Completed": 10662
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-19T23:03:26.1166836+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:09:32.9065626+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:56:31.6017768+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:03:39.9227465+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:09:32.9067252+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:50:29.7303228+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:56:31.6020127+00:00"
 }

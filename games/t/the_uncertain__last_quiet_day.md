@@ -21,8 +21,8 @@ Rating: 3.75 (Ranked 1,097)
 | He is just a child | 19.00% | ~123 |
 | The Walking Robot Among Us | 19.00% | ~123 |
 | Annoying | 18.00% | ~117 |
+| Uncertain | 18.00% | ~117 |
 | Goody | 17.00% | ~110 |
-| Uncertain | 17.00% | ~110 |
 | Ace | 16.00% | ~104 |
 | Concrete painting | 16.00% | ~104 |
 | Found it! | 16.00% | ~104 |
@@ -38,7 +38,7 @@ Rating: 3.75 (Ranked 1,097)
 | Lucky dog | 4.00% | ~26 |
 | Silent | 4.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 342)  
+Progressed: 649 (Ranked 343)  
 Completed: 19 (2.93%) (Ranked 113)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 112,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3631,9 +3631,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47365,
+  "EOS_Progressed": 47366,
   "EOS_Completed": 373,
-  "EOS_NewPlayers": 660,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -34226,6 +34226,11 @@
       "Time": "2024-01-20T00:05:00.7256724+00:00",
       "NumProgressed": 47365,
       "NumCompleted": 373
+    },
+    {
+      "Time": "2024-01-20T01:51:47.1010701+00:00",
+      "NumProgressed": 47366,
+      "NumCompleted": 373
     }
   ],
   "TotalAchievements": 60,
@@ -34277,7 +34282,7 @@
       "Name": "At the foot of Mount Destiny",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 10420
+      "UsersEstimate": 10421
     },
     {
       "ID": "ACH_D3_Campaign_Darksword_1",
@@ -34301,7 +34306,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 11841
+      "UsersEstimate": 11842
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -34341,7 +34346,7 @@
       "Name": "The White Knight",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4737
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_Completed",
@@ -34461,7 +34466,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 17051
+      "UsersEstimate": 17052
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -34509,7 +34514,7 @@
       "Name": "Chorus of damnation",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8999
+      "UsersEstimate": 9000
     },
     {
       "ID": "ACH_D3_Campaign_Infested_Completed",
@@ -34669,7 +34674,7 @@
       "Name": "We don\u2019t have time!",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8999
+      "UsersEstimate": 9000
     },
     {
       "ID": "ACH_D3_Campaign_Warlock_2",
@@ -34701,7 +34706,7 @@
       "Name": "Please, no interruptions!",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 4736
+      "UsersEstimate": 4737
     },
     {
       "ID": "ACH_D3_Campaign_Water_Completed",
@@ -34716,15 +34721,15 @@
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47365,
+      "Progressed": 47366,
       "Completed": 373
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-16T23:57:36.8848841+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:05:00.7256719+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:51:47.1010699+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:12.7435275+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:00:28.4147367+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:05:00.7258644+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:47:24.8084298+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:51:47.101263+00:00"
 }

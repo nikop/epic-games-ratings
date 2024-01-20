@@ -6,63 +6,63 @@ Number of Ratings: 7,305  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You Never Forget Your First... | 32.00% | ~260,212 |
-| Into the Unknown | 30.00% | ~243,949 |
-| First Shot | 30.00% | ~243,949 |
-| Herzlich Wilkommen! | 28.00% | ~227,686 |
-| Good Night & Good Luck | 28.00% | ~227,686 |
-| Sancho Panza | 26.00% | ~211,422 |
-| Oh, So This Is How It Works! | 24.00% | ~195,159 |
-| Flag Burning | 22.00% | ~178,896 |
-| Under Pressure | 20.00% | ~162,633 |
-| On the Trail of the Enemy | 20.00% | ~162,633 |
-| Light in the Darkness | 20.00% | ~162,633 |
-| It Wasn't That Hard, Was It? | 20.00% | ~162,633 |
-| Can't Touch This! | 20.00% | ~162,633 |
-| Get Outta My House! | 19.00% | ~154,501 |
-| Night Hunter | 19.00% | ~154,501 |
-| Being All Social | 19.00% | ~154,501 |
-| After the Fall | 16.00% | ~130,106 |
-| We Will Be Heard! | 15.00% | ~121,974 |
-| Tunnel Entrance | 15.00% | ~121,974 |
-| Known Associate | 14.00% | ~113,843 |
-| Debris and Ashes | 13.00% | ~105,711 |
-| Brush with Death | 13.00% | ~105,711 |
-| Going Down | 12.00% | ~97,580 |
-| Family First | 12.00% | ~97,580 |
-| Your World, Your Rules | 12.00% | ~97,580 |
-| Death From Afar | 12.00% | ~97,580 |
-| Terminal Headache | 12.00% | ~97,580 |
-| Slowpoke! | 10.00% | ~81,316 |
-| Tickets, Please! | 6.00% | ~48,790 |
-| Parkour Master | 6.00% | ~48,790 |
-| Combat Master | 5.00% | ~40,658 |
-| Modder | 5.00% | ~40,658 |
-| Municipal Services | 4.00% | ~32,527 |
-| Ban Hammer | 4.00% | ~32,527 |
-| Boot Licker | 4.00% | ~32,527 |
-| Tube Map | 3.00% | ~24,395 |
-| Don Quixote | 3.00% | ~24,395 |
-| Can't You Read the Signs? | 3.00% | ~24,395 |
-| That's Teamwork! | 3.00% | ~24,395 |
-| Ironheart | 3.00% | ~24,395 |
-| You're Going Down! | 3.00% | ~24,395 |
-| Revenants | 2.00% | ~16,263 |
-| Who Wants To Be a... | 2.00% | ~16,263 |
-| Tanning Salon | 2.00% | ~16,263 |
-| Fit as a Fiddle | 2.00% | ~16,263 |
-| Nemesis | 2.00% | ~9,172 |
-| Find Anything Interesting? | 1.00% | ~8,132 |
-| Lightning Reflexes | 1.00% | ~8,132 |
-| Enter the Hall | 1.00% | ~4,586 |
-| Night of Terrors | 1.00% | ~4,586 |
-| My Friend, Ciro | 0.80% | ~3,669 |
-| Skullcrusher | 0.80% | ~3,669 |
-| A Friend in Need... | 0.70% | ~5,692 |
-| Man On a Mission | 0.70% | ~5,692 |
-| Get the Point? | 0.70% | ~5,692 |
-| Ultramarathon | 0.30% | ~2,439 |
-| Don't Look Up | 0.20% | ~1,626 |
+| You Never Forget Your First... | 32.00% | ~260,253 |
+| Into the Unknown | 30.00% | ~243,987 |
+| First Shot | 30.00% | ~243,987 |
+| Herzlich Wilkommen! | 28.00% | ~227,721 |
+| Good Night & Good Luck | 28.00% | ~227,721 |
+| Sancho Panza | 26.00% | ~211,455 |
+| Oh, So This Is How It Works! | 24.00% | ~195,190 |
+| Flag Burning | 22.00% | ~178,924 |
+| Under Pressure | 20.00% | ~162,658 |
+| On the Trail of the Enemy | 20.00% | ~162,658 |
+| Light in the Darkness | 20.00% | ~162,658 |
+| It Wasn't That Hard, Was It? | 20.00% | ~162,658 |
+| Can't Touch This! | 20.00% | ~162,658 |
+| Get Outta My House! | 19.00% | ~154,525 |
+| Night Hunter | 19.00% | ~154,525 |
+| Being All Social | 19.00% | ~154,525 |
+| After the Fall | 16.00% | ~130,126 |
+| We Will Be Heard! | 15.00% | ~121,994 |
+| Tunnel Entrance | 15.00% | ~121,994 |
+| Known Associate | 14.00% | ~113,861 |
+| Debris and Ashes | 13.00% | ~105,728 |
+| Brush with Death | 13.00% | ~105,728 |
+| Going Down | 12.00% | ~97,595 |
+| Family First | 12.00% | ~97,595 |
+| Your World, Your Rules | 12.00% | ~97,595 |
+| Death From Afar | 12.00% | ~97,595 |
+| Terminal Headache | 12.00% | ~97,595 |
+| Slowpoke! | 10.00% | ~81,329 |
+| Tickets, Please! | 6.00% | ~48,797 |
+| Parkour Master | 6.00% | ~48,797 |
+| Combat Master | 5.00% | ~40,664 |
+| Modder | 5.00% | ~40,664 |
+| Municipal Services | 4.00% | ~32,532 |
+| Ban Hammer | 4.00% | ~32,532 |
+| Boot Licker | 4.00% | ~32,532 |
+| Tube Map | 3.00% | ~24,399 |
+| Don Quixote | 3.00% | ~24,399 |
+| Can't You Read the Signs? | 3.00% | ~24,399 |
+| That's Teamwork! | 3.00% | ~24,399 |
+| Ironheart | 3.00% | ~24,399 |
+| You're Going Down! | 3.00% | ~24,399 |
+| Revenants | 2.00% | ~16,266 |
+| Who Wants To Be a... | 2.00% | ~16,266 |
+| Tanning Salon | 2.00% | ~16,266 |
+| Fit as a Fiddle | 2.00% | ~16,266 |
+| Nemesis | 2.00% | ~9,175 |
+| Find Anything Interesting? | 1.00% | ~8,133 |
+| Lightning Reflexes | 1.00% | ~8,133 |
+| Enter the Hall | 1.00% | ~4,587 |
+| Night of Terrors | 1.00% | ~4,587 |
+| My Friend, Ciro | 0.80% | ~3,670 |
+| Skullcrusher | 0.80% | ~3,670 |
+| A Friend in Need... | 0.70% | ~5,693 |
+| Man On a Mission | 0.70% | ~5,693 |
+| Get the Point? | 0.70% | ~5,693 |
+| Ultramarathon | 0.30% | ~2,440 |
+| Don't Look Up | 0.20% | ~1,627 |
 | The Madman of Villedor | 0.20% | ~917 |
 | True Nightrunner | 0.10% | ~813 |
 | Bing Bang Boom! | 0.10% | ~813 |
@@ -72,7 +72,7 @@ Number of Ratings: 7,305  (23.09.2022)
 | True Champion | 0.10% | ~459 |
 | Connoisseur | 0.10% | ~459 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 813,163 (Ranked 22)  
+Progressed: 813,290 (Ranked 22)  
 Completed: 70 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -347,10 +347,10 @@ Completed: 70 (0.01%) (Ranked 379)
 | 2024-01-17 | 808,867 | 70 |
 | 2024-01-18 | 810,900 | 70 |
 | 2024-01-19 | 813,097 | 70 |
-| 2024-01-20 | 813,163 | 70 |
+| 2024-01-20 | 813,290 | 70 |
 ## Awards
 Max (Character Customization): 12,487  (Ranked 35)  
-Sum: 33,036 (Ranked 42)  
+Sum: 33,043 (Ranked 42)  
 Diff (max vs sum): -7  
 | Award | Count |
 | ----- | ----- |
@@ -362,7 +362,7 @@ Diff (max vs sum): -7
 | This game has Amazing Characters | 1,413 |
 | This game has Amazing Storytelling | 1,390 |
 | This game is Extremely Fun | 1,362 |
-| This game has Quickly Understood Controls | 1,288 |
+| This game has Quickly Understood Controls | 1,295 |
 | This game is Relaxing | 1,287 |
 | This game has a Creative Community | 1,191 |
 | This game has Obsessive Gameplay | 230 |
@@ -742,3 +742,4 @@ Diff (max vs sum): -7
 | 2024-01-17 | 4.58 | - | 12,416 | 32,814 |
 | 2024-01-18 | 4.58 | - | 12,453 | 32,929 |
 | 2024-01-19 | 4.58 | - | 12,487 | 33,036 |
+| 2024-01-20 | 4.58 | - | 12,487 | 33,043 |

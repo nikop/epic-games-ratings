@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | My Papyrus! | 80.00% | ~112 |
 | A Loyal Friend | 44.00% | ~62 |
-| Abandon Ship! | 33.00% | ~46 |
+| Abandon Ship! | 34.00% | ~48 |
 | The Tomb of Kih-Oskh | 29.00% | ~41 |
 | The Weighing of the Soul | 26.00% | ~36 |
 | The Curse of Kih-Oskh | 20.00% | ~28 |

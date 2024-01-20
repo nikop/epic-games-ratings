@@ -19,7 +19,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.80% | ~1,769 |
 | A Persistent Buzzing | 0.70% | ~1,784 |
 | Pure Energy | 0.70% | ~1,784 |
-| Fast Food | 0.70% | ~1,547 |
+| Fast Food | 0.70% | ~1,548 |
 | Terror in the Dark | 0.60% | ~1,529 |
 | Maddening | 0.50% | ~1,274 |
 | Beast Mode | 0.50% | ~1,274 |
@@ -89,6 +89,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fugitives | 0.20% | ~510 |
 | Premature Betrayal | 0.20% | ~510 |
 | Hopelessly Lost | 0.20% | ~510 |
+| Enter the Sargauth | 0.20% | ~510 |
 | The Dead Three | 0.20% | ~510 |
 | Crowded Streets | 0.20% | ~510 |
 | The Darkness Runs Deeper | 0.20% | ~510 |
@@ -309,7 +310,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cramped Quarters | 0.10% | ~255 |
 | Flame(skull) War | 0.10% | ~255 |
 | Servants of the Demon Prince | 0.10% | ~221 |
-| Enter the Sargauth | 0.10% | ~255 |
 | Elder Rune Madness | 0.10% | ~255 |
 | The Madness Grows | 0.10% | ~255 |
 | The Madness Peaks | 0.10% | ~221 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,793 (Ranked 71)  
-Completed: 2,625 (1.03%) (Ranked 179)  
+Progressed: 254,805 (Ranked 71)  
+Completed: 2,626 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -828,7 +828,7 @@ Completed: 2,625 (1.03%) (Ranked 179)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,793 | 2,625 |
+| 2024-01-20 | 254,805 | 2,626 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,572 (Ranked 41)  

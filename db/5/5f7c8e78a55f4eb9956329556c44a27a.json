@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 289,
+  "EOS_Progressed": 290,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-11-10T21:13:00.589505+00:00",
@@ -1199,6 +1199,11 @@
       "Time": "2024-01-18T22:07:11.6771259+00:00",
       "NumProgressed": 289,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T01:54:10.177685+00:00",
+      "NumProgressed": 290,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1211,7 +1216,7 @@
       "Name": "Administrator",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 237
+      "UsersEstimate": 238
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1273,9 +1278,9 @@
       "ID": "TINGWD_CHAP_END_01",
       "SetID": "c0imaa6",
       "Name": "There\u0027s a bug in the soup",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 229
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1289,9 +1294,9 @@
       "ID": "TINGWD_CHAP_END_03",
       "SetID": "c0imaa6",
       "Name": "Princess saver",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 67
     },
     {
       "ID": "TINGWD_CHAP_END_04",
@@ -1315,7 +1320,7 @@
       "Name": "Home at last",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "TINGWD_CLICKER",
@@ -1323,7 +1328,7 @@
       "Name": "Serial Clicker",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "TINGWD_CONSPI",
@@ -1331,7 +1336,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1339,7 +1344,7 @@
       "Name": "Private Detective",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 260
+      "UsersEstimate": 261
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1387,7 +1392,7 @@
       "Name": "Have you no shame?",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1467,7 +1472,7 @@
       "Name": "It\u0027s a trap!",
       "Percentage": 41,
       "XP": 120,
-      "UsersEstimate": 118
+      "UsersEstimate": 119
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -1482,14 +1487,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 289,
+      "Progressed": 290,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:07:29.013903+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:54:10.1776847+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:48.2261697+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:03:09.1566415+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:07:29.0139305+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:50:00.4256797+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:54:10.1777124+00:00"
 }

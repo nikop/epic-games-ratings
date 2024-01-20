@@ -6,9 +6,9 @@
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 172,
-  "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_Completed": 207,
+  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,11 +1074,11 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16564,
-  "EOS_Completed": 106,
-  "EOS_NewPlayers": 244,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 0.64,
+  "EOS_Progressed": 16568,
+  "EOS_Completed": 107,
+  "EOS_NewPlayers": 247,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -18604,6 +18604,11 @@
       "Time": "2024-01-20T00:10:55.0451917+00:00",
       "NumProgressed": 16564,
       "NumCompleted": 106
+    },
+    {
+      "Time": "2024-01-20T01:57:53.0342854+00:00",
+      "NumProgressed": 16568,
+      "NumCompleted": 107
     }
   ],
   "TotalAchievements": 34,
@@ -18631,7 +18636,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACH04",
@@ -18687,7 +18692,7 @@
       "Name": "Vice City Mogul",
       "Percentage": 7,
       "XP": 35,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "ACH11",
@@ -18719,7 +18724,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7123
+      "UsersEstimate": 7124
     },
     {
       "ID": "ACH15",
@@ -18743,7 +18748,7 @@
       "Name": "Gun for Hire",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1656
+      "UsersEstimate": 1657
     },
     {
       "ID": "ACH18",
@@ -18775,7 +18780,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7785
+      "UsersEstimate": 7787
     },
     {
       "ID": "ACH22",
@@ -18783,7 +18788,7 @@
       "Name": "Life of the Party",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3478
+      "UsersEstimate": 3479
     },
     {
       "ID": "ACH23",
@@ -18791,7 +18796,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4472
+      "UsersEstimate": 4473
     },
     {
       "ID": "ACH24",
@@ -18799,7 +18804,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "ACH25",
@@ -18807,7 +18812,7 @@
       "Name": "Chauffeur",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "ACH26",
@@ -18815,7 +18820,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "ACH27",
@@ -18886,16 +18891,16 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16564,
-      "Completed": 106
+      "Progressed": 16568,
+      "Completed": 107
     }
   ],
   "FirstSeen": "2023-02-15T20:57:01.8191045+00:00",
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:10:55.0451916+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:57:53.0342852+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.5791933+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:00:14.580078+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:10:55.0452923+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:47:09.4306182+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:57:53.0344083+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -10014,9 +10014,9 @@
       "ID": "First_Stream_Travel",
       "SetID": "4h07amh",
       "Name": "Hyperspace!",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 38
     },
     {
       "ID": "First_Worker_Specialization",
@@ -10166,9 +10166,9 @@
       "ID": "Recruit_Leader",
       "SetID": "4h07amh",
       "Name": "Recruit a Leader",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     },
     {
       "ID": "Sell_10_Resource",
@@ -10470,8 +10470,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:10.179345+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:07.9299979+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:57:54.8199881+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:10.1794601+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:44:53.3659716+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:07.9300982+00:00"
 }

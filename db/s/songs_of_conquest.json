@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1244,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4307,6 +4307,11 @@
       "Time": "2024-01-19T23:09:54.2758772+00:00",
       "NumProgressed": 1244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T01:57:20.5315595+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4423,7 +4428,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "Deepstrike",
@@ -4463,7 +4468,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4647,7 +4652,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 585
+      "UsersEstimate": 586
     },
     {
       "ID": "WielderLevel2",
@@ -4655,7 +4660,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "WielderLevel3",
@@ -4679,7 +4684,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4750,15 +4755,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1244,
+      "Progressed": 1246,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:10:22.343505+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:57:20.5315592+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:57:06.2357712+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:10:22.3435509+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:44:08.313812+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:57:20.5316091+00:00"
 }

@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2393,
+  "EOS_Progressed": 2394,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 2,
@@ -4825,6 +4825,11 @@
       "Time": "2024-01-20T00:11:08.3802381+00:00",
       "NumProgressed": 2393,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T01:58:06.1739725+00:00",
+      "NumProgressed": 2394,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4834,9 +4839,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1532
+      "UsersEstimate": 1556
     },
     {
       "ID": "ACH_02",
@@ -4852,7 +4857,7 @@
       "Name": "Powerful Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "ACH_04",
@@ -4948,15 +4953,15 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_16",
       "SetID": "efe2lj",
       "Name": "Essence Blow",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 359
+      "UsersEstimate": 335
     },
     {
       "ID": "ACH_17",
@@ -5028,7 +5033,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACH_26",
@@ -5076,7 +5081,7 @@
       "Name": "Stone Collection",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ACH_33",
@@ -5123,7 +5128,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2393,
+      "Progressed": 2394,
       "Completed": 5
     }
   ],
@@ -5131,8 +5136,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:08.3802379+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:06.1739723+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:58:33.1862237+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:08.3802887+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:45:31.0250021+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:06.1740226+00:00"
 }

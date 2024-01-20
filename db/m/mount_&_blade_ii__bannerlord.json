@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 66,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 67,
+  "Ranking_EOS_NewPlayers": 69,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
@@ -10920,9 +10920,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 96233,
+  "EOS_Progressed": 96235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1628,
+  "EOS_NewPlayers": 1613,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40385,6 +40385,11 @@
       "Time": "2024-01-20T00:11:12.8707505+00:00",
       "NumProgressed": 96233,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T01:58:10.3525438+00:00",
+      "NumProgressed": 96235,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40412,7 +40417,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 24058
+      "UsersEstimate": 24059
     },
     {
       "ID": "Best served cold",
@@ -40476,7 +40481,7 @@
       "Name": "Duelist",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12510
+      "UsersEstimate": 12511
     },
     {
       "ID": "Dynasty",
@@ -40484,7 +40489,7 @@
       "Name": "Dynasty",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 9623
+      "UsersEstimate": 9624
     },
     {
       "ID": "Entrepreneur",
@@ -40572,7 +40577,7 @@
       "Name": "I spit on your grave",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9623
+      "UsersEstimate": 9624
     },
     {
       "ID": "Jack of All Trades",
@@ -40628,7 +40633,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41380
+      "UsersEstimate": 41381
     },
     {
       "ID": "Lawmaker",
@@ -40796,22 +40801,22 @@
       "Name": "What have the Romans ever done for us?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 9623
+      "UsersEstimate": 9624
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 96233,
+      "Progressed": 96235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-19T23:02:48.8287915+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:12.8707503+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:10.3525436+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:24.7254493+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:02:16.9793864+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:12.8709389+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:49:09.5688521+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:10.3527013+00:00"
 }

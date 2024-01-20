@@ -340,9 +340,9 @@
       "ID": "BOSS_KILL6",
       "SetID": "1icc7kd",
       "Name": "Rejected Parasite",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "BOSS_KILL7",
@@ -515,8 +515,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2024-01-20T00:11:05.8151721+00:00",
+  "LastChanged_Achievements": "2024-01-20T01:58:03.6512983+00:00",
   "LastUpdate_AppInfo": "2024-01-17T13:02:49.3539249+00:00",
-  "LastUpdate_Ratings": "2024-01-20T00:02:15.0974133+00:00",
-  "LastUpdate_Achievements": "2024-01-20T00:11:05.8151903+00:00"
+  "LastUpdate_Ratings": "2024-01-20T01:49:07.6955752+00:00",
+  "LastUpdate_Achievements": "2024-01-20T01:58:03.6513164+00:00"
 }
