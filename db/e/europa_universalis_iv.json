@@ -14563,10 +14563,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65320,
       "NumberOfAwardsMax": 7911
+    },
+    {
+      "Time": "2024-01-20T19:59:11.0855155+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65336,
+      "NumberOfAwardsMax": 7911
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65320,
+  "NumberOfAwards": 65336,
   "NumberOfAwardsMax": 7911,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14622,7 +14628,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6596
+      "Count": 6612
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14637,9 +14643,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 502585,
+  "EOS_Progressed": 502637,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4388,
+  "EOS_NewPlayers": 4398,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46442,6 +46448,11 @@
       "Time": "2024-01-20T19:10:56.9799711+00:00",
       "NumProgressed": 502585,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T20:10:19.0166382+00:00",
+      "NumProgressed": 502637,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -46893,7 +46904,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -47477,7 +47488,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 2010
+      "UsersEstimate": 2011
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -49356,21 +49367,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 502585,
+      "Progressed": 502637,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 502585,
+      "Progressed": 502637,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-20T17:59:02.8287375+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:10:56.9799708+00:00",
+  "LastChanged": "2024-01-20T19:59:11.0855153+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:10:19.016638+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:07.4710683+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:00:19.8419259+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:10:56.9809509+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:59:11.0855158+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:10:19.017706+00:00"
 }

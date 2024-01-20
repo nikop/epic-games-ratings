@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,919 (Ranked 222)  
+Progressed: 3,920 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 0 (0.00%) (Ranked 407)
 | 2024-01-17 | 3,912 | 0 |
 | 2024-01-18 | 3,914 | 0 |
 | 2024-01-19 | 3,916 | 0 |
-| 2024-01-20 | 3,919 | 0 |
+| 2024-01-20 | 3,920 | 0 |
 ## Awards
 Max (Character Customization): 236  (Ranked 284)  
 Sum: 479 (Ranked 342)  

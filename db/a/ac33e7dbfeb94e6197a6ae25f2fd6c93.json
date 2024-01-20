@@ -4,7 +4,7 @@
   "ProductSlug": "berlin09-3a4362",
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T15:57:07.7908873+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:57:51.1952246+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:05:03.5956252+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:22.0209722+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:04:02.7619299+00:00"
 }

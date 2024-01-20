@@ -2,12 +2,12 @@
   "ID": "c6e54ebd92da4ee8819c1c0956cebdc4",
   "Name": "OUTRIDERS",
   "ProductSlug": "outriders",
-  "Ranking_Rating": 747,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 142,
   "Ranking_PopularitySum": 185,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-15T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.42,
+  "Rating": 4.43,
   "NumberOfRatings": 1201,
   "RatingHistory": [
     {
@@ -3998,10 +3998,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 3136,
       "NumberOfAwardsMax": 1403
+    },
+    {
+      "Time": "2024-01-20T20:00:15.413071+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 3137,
+      "NumberOfAwardsMax": 1403
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3136,
+  "NumberOfAwards": 3137,
   "NumberOfAwardsMax": 1403,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4045,7 +4051,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 191
+      "Count": 192
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -4083,8 +4089,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:16.889814+00:00",
-  "LastChanged": "2024-01-20T09:59:46.2116079+00:00",
+  "LastChanged": "2024-01-20T20:00:15.4130709+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.8493719+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:01:51.0780908+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:07:50.6337646+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:00:15.4130715+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:06:06.6112668+00:00"
 }

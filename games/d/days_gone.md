@@ -1,15 +1,15 @@
 # Days Gone
 [Store](https://store.epicgames.com/en-US/p/days-gone)  
 [View Rawdata](../../db/d/days_gone.json)  
-Rating: 4.68 (Ranked 265)  
+Rating: 4.68 (Ranked 264)  
 Number of Ratings: 3,949  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 4,285  (Ranked 89)  
-Sum: 7,478 (Ranked 124)  
+Max (Great Boss Battles): 4,294  (Ranked 89)  
+Sum: 7,487 (Ranked 124)  
 Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 4,285 |
+| This game has Great Boss Battles | 4,294 |
 | This game is Great for Beginners | 396 |
 | This game is Extremely Fun | 390 |
 | This game has Amazing Storytelling | 387 |
@@ -342,4 +342,4 @@ Diff (max vs sum): -35
 | 2024-01-17 | 4.68 | - | 4,273 | 7,452 |
 | 2024-01-18 | 4.68 | - | 4,279 | 7,462 |
 | 2024-01-19 | 4.68 | - | 4,285 | 7,474 |
-| 2024-01-20 | 4.68 | - | 4,285 | 7,478 |
+| 2024-01-20 | 4.68 | - | 4,294 | 7,487 |

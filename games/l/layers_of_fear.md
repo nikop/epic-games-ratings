@@ -41,11 +41,11 @@
 | The Perfect Storm | 4.00% | ~14 |
 | Se7en Seas | 4.00% | ~14 |
 | Immortalized in my heart | 3.00% | ~10 |
+| Preferred Parent | 3.00% | ~10 |
 | A Mosaic of Misery | 3.00% | ~10 |
 | Body of Work | 2.00% | ~7 |
 | It was worth a try | 2.00% | ~7 |
 | In One Take | 2.00% | ~7 |
-| Preferred Parent | 2.00% | ~7 |
 | Rocket Science | 1.00% | ~3 |
 | The Big Picture | 0.90% | ~3 |
 | Sword of the Serpent | 0.90% | ~3 |

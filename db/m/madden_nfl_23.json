@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 430,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 192,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4507,
+  "EOS_Progressed": 4508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 108,
+  "EOS_NewPlayers": 107,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9005,6 +9005,11 @@
       "Time": "2024-01-20T17:08:54.1648022+00:00",
       "NumProgressed": 4507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T20:08:45.7861981+00:00",
+      "NumProgressed": 4508,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -9033,7 +9038,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "achievement_12",
@@ -9073,7 +9078,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "achievement_17",
@@ -9184,7 +9189,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4507,
+      "Progressed": 4508,
       "Completed": 0
     }
   ],
@@ -9192,8 +9197,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-18T17:02:25.388699+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:08:55.857191+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:08:45.7861979+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:24.421479+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:08:55.8572492+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:44.5549293+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:08:45.7862552+00:00"
 }

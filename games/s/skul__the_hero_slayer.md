@@ -1,27 +1,27 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.75 (Ranked 151)  
+Rating: 4.75 (Ranked 150)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,848 |
-| What should I buy? | 80.00% | ~11,912 |
-| Rescued Elder Ent | 61.00% | ~9,083 |
-| Focus! | 60.00% | ~8,934 |
-| The End of the Gold Mane Knights | 48.00% | ~7,147 |
+| The Legend Begins | 93.00% | ~13,849 |
+| What should I buy? | 80.00% | ~11,913 |
+| Rescued Elder Ent | 61.00% | ~9,084 |
+| Focus! | 60.00% | ~8,935 |
+| The End of the Gold Mane Knights | 48.00% | ~7,148 |
 | False Goddess, Disappear | 40.00% | ~5,956 |
-| Rules of Etiquette | 38.00% | ~5,658 |
+| Rules of Etiquette | 38.00% | ~5,659 |
 | Inventory Management | 33.00% | ~4,914 |
 | The Fall of the Leonia Order | 31.00% | ~4,616 |
 | Quick Movements | 30.00% | ~4,467 |
 | Go Home... | 28.00% | ~4,169 |
-| The Final Battle of the First Hero | 27.00% | ~4,020 |
-| The Hero Killer | 26.00% | ~3,871 |
+| The Final Battle of the First Hero | 27.00% | ~4,021 |
+| The Hero Killer | 26.00% | ~3,872 |
 | Brain at Full Throttle | 20.00% | ~2,978 |
 | Rookies Welcome | 18.00% | ~2,680 |
-| Deadly Power | 16.00% | ~2,382 |
+| Deadly Power | 16.00% | ~2,383 |
 | Castle Restoration Plans | 13.00% | ~1,936 |
 | The Dwarven Chandelier | 11.00% | ~1,638 |
 | Master of Speed | 9.00% | ~1,340 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~149 |
 | Cold-Blooded | 0.60% | ~89 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,890 (Ranked 176)  
+Progressed: 14,891 (Ranked 176)  
 Completed: 22 (0.15%) (Ranked 298)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -285,7 +285,7 @@ Completed: 22 (0.15%) (Ranked 298)
 | 2024-01-17 | 14,830 | 22 |
 | 2024-01-18 | 14,850 | 22 |
 | 2024-01-19 | 14,875 | 22 |
-| 2024-01-20 | 14,890 | 22 |
+| 2024-01-20 | 14,891 | 22 |
 ## Awards
 Max (Diverse Characters): 156  (Ranked 333)  
 Sum: 1,038 (Ranked 274)  

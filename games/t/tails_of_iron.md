@@ -1,12 +1,13 @@
 # Tails of Iron
 [Store](https://store.epicgames.com/en-US/p/tails-of-iron-587abd)  
 [View Rawdata](../../db/t/tails_of_iron.json)  
-Rating: 4.57 (Ranked 499)  
+Rating: 4.57 (Ranked 498)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Complete Guard Faction | 4.00% | ~94 |
 | Become King | 3.00% | ~70 |
-| Complete Guard Faction | 3.00% | ~70 |
+| The Bright Fir | 3.00% | ~30 |
 | Collect Gold | 2.00% | ~47 |
 | Collect Iron Ore | 2.00% | ~47 |
 | Collect Monster Parts | 2.00% | ~47 |
@@ -27,7 +28,6 @@ Rating: 4.57 (Ranked 499)
 | Defeat Croakhis Khan | 2.00% | ~20 |
 | Shield Maiden Yellow Tongue | 2.00% | ~20 |
 | I Remember My First Beer | 2.00% | ~20 |
-| The Bright Fir | 2.00% | ~20 |
 | Return the Statues | 1.00% | ~23 |
 | Complete the Chefs Book | 1.00% | ~23 |
 | Defeat Avor Warden of the Northern Wastes | 1.00% | ~23 |

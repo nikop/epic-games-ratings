@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -1822,9 +1822,9 @@
       "ID": "preferred_parent",
       "SetID": "f2im8d",
       "Name": "Preferred Parent",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "rocket_science",
@@ -1957,8 +1957,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:09:27.1012605+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:09:09.1425559+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:57:22.0764516+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:09:27.1013264+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:02.052474+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:09.1425966+00:00"
 }

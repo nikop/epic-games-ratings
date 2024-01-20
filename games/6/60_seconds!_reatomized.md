@@ -1,63 +1,63 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.47 (Ranked 665)  
+Rating: 4.49 (Ranked 642)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~8,781 |
-| All thumbs | 90.00% | ~8,590 |
-| I will survive! | 90.00% | ~8,590 |
-| Home, sweet home | 89.00% | ~8,495 |
-| Survivalist | 86.00% | ~8,209 |
-| One way ticket | 81.00% | ~7,731 |
-| Last man standing | 75.00% | ~7,159 |
-| Out of the Bag | 71.00% | ~6,777 |
-| Family guy | 70.00% | ~6,682 |
-| The Dark Side | 65.00% | ~6,204 |
-| Duck and cover! | 60.00% | ~5,727 |
-| Souper! | 58.00% | ~5,536 |
-| 2-1-6 | 52.00% | ~4,963 |
-| Pacifist | 52.00% | ~4,963 |
-| A gift | 48.00% | ~4,582 |
-| Girl Power | 42.00% | ~4,009 |
-| What goes around... | 39.00% | ~3,723 |
-| Be Prepared | 34.00% | ~3,245 |
-| Unbreakable | 31.00% | ~2,959 |
-| Atomic drill | 30.00% | ~2,864 |
-| Gotta get 'em all | 28.00% | ~2,673 |
-| This is the end | 28.00% | ~2,673 |
-| Disco Roach | 24.00% | ~2,291 |
-| Dawkins Residence | 19.00% | ~1,814 |
-| Rescue time! | 15.00% | ~1,432 |
-| New order | 14.00% | ~1,336 |
-| New species | 14.00% | ~1,336 |
-| Enigma | 13.00% | ~1,241 |
-| A New Hope | 12.00% | ~1,145 |
-| Men in Black | 11.00% | ~1,050 |
-| Challenger | 10.00% | ~954 |
-| No stone unturned | 10.00% | ~954 |
-| Unplugged | 7.00% | ~668 |
-| Mad Hatter | 6.00% | ~573 |
-| Holidays! | 5.00% | ~477 |
-| Lumbersexual | 5.00% | ~477 |
-| Yes Man | 5.00% | ~477 |
-| Feline Domination | 4.00% | ~382 |
-| Take that, Brundlefly! | 4.00% | ~382 |
-| Rogue One | 4.00% | ~382 |
-| Danger zone | 3.00% | ~286 |
-| Friend in need | 3.00% | ~286 |
-| Soup Can into Space | 2.00% | ~191 |
-| Stay frosty | 2.00% | ~191 |
-| Panzer | 2.00% | ~191 |
-| Liberation | 2.00% | ~191 |
-| Not Alone | 2.00% | ~191 |
-| Raining Cats and Dogs | 1.00% | ~95 |
-| Enola Gay | 1.00% | ~95 |
-| Konrad style! | 1.00% | ~95 |
-| Cuckoo's nest | 0.80% | ~76 |
-| Bughunter | 0.80% | ~76 |
-| Cat Lady | 0.80% | ~76 |
+| Prepper | 92.00% | ~8,843 |
+| All thumbs | 90.00% | ~8,651 |
+| I will survive! | 90.00% | ~8,651 |
+| Home, sweet home | 89.00% | ~8,555 |
+| Survivalist | 86.00% | ~8,266 |
+| One way ticket | 81.00% | ~7,786 |
+| Last man standing | 75.00% | ~7,209 |
+| Out of the Bag | 71.00% | ~6,825 |
+| Family guy | 70.00% | ~6,728 |
+| The Dark Side | 65.00% | ~6,248 |
+| Duck and cover! | 60.00% | ~5,767 |
+| Souper! | 58.00% | ~5,575 |
+| Pacifist | 52.00% | ~4,998 |
+| 2-1-6 | 51.00% | ~4,902 |
+| A gift | 48.00% | ~4,614 |
+| Girl Power | 42.00% | ~4,037 |
+| What goes around... | 39.00% | ~3,749 |
+| Be Prepared | 34.00% | ~3,268 |
+| Unbreakable | 31.00% | ~2,980 |
+| Atomic drill | 29.00% | ~2,787 |
+| Gotta get 'em all | 28.00% | ~2,691 |
+| This is the end | 28.00% | ~2,691 |
+| Disco Roach | 24.00% | ~2,307 |
+| Dawkins Residence | 19.00% | ~1,826 |
+| Rescue time! | 15.00% | ~1,442 |
+| New order | 14.00% | ~1,346 |
+| New species | 14.00% | ~1,346 |
+| Enigma | 13.00% | ~1,250 |
+| A New Hope | 12.00% | ~1,153 |
+| Men in Black | 11.00% | ~1,057 |
+| Challenger | 10.00% | ~961 |
+| No stone unturned | 10.00% | ~961 |
+| Unplugged | 7.00% | ~673 |
+| Mad Hatter | 6.00% | ~577 |
+| Holidays! | 5.00% | ~481 |
+| Lumbersexual | 5.00% | ~481 |
+| Yes Man | 5.00% | ~481 |
+| Feline Domination | 4.00% | ~384 |
+| Take that, Brundlefly! | 4.00% | ~384 |
+| Rogue One | 4.00% | ~384 |
+| Danger zone | 3.00% | ~288 |
+| Friend in need | 3.00% | ~288 |
+| Soup Can into Space | 2.00% | ~192 |
+| Stay frosty | 2.00% | ~192 |
+| Panzer | 2.00% | ~192 |
+| Liberation | 2.00% | ~192 |
+| Not Alone | 2.00% | ~192 |
+| Raining Cats and Dogs | 1.00% | ~96 |
+| Enola Gay | 1.00% | ~96 |
+| Konrad style! | 1.00% | ~96 |
+| Cuckoo's nest | 0.80% | ~77 |
+| Cat Lady | 0.80% | ~77 |
+| Bughunter | 0.70% | ~67 |
 | Pro gamer | 0.50% | ~48 |
 | Naysayer | 0.40% | ~38 |
 | Manhattan Project | 0.40% | ~38 |
@@ -66,7 +66,7 @@ Rating: 4.47 (Ranked 665)
 | Miracle | 0.20% | ~19 |
 | Dead Hand | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,545 (Ranked 189)  
+Progressed: 9,612 (Ranked 189)  
 Completed: 1 (0.01%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 1 (0.01%) (Ranked 381)
 | 2024-01-17 | 7,373 | 1 |
 | 2024-01-18 | 8,011 | 1 |
 | 2024-01-19 | 8,804 | 1 |
-| 2024-01-20 | 9,545 | 1 |
+| 2024-01-20 | 9,612 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -394,3 +394,4 @@ Completed: 1 (0.01%) (Ranked 381)
 | 2024-01-16 | 4.51 | 0 | 0 |
 | 2024-01-17 | 4.46 | 0 | 0 |
 | 2024-01-19 | 4.47 | 0 | 0 |
+| 2024-01-20 | 4.49 | 0 | 0 |

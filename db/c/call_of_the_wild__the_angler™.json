@@ -1039,7 +1039,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8375,
+  "EOS_Progressed": 8376,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -14274,6 +14274,11 @@
       "Time": "2024-01-20T19:08:59.6945385+00:00",
       "NumProgressed": 8375,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T20:08:48.7573703+00:00",
+      "NumProgressed": 8376,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14325,7 +14330,7 @@
       "Name": "I\u0027m on a Boat!",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1172
+      "UsersEstimate": 1173
     },
     {
       "ID": "ACHIEVEMENT_007",
@@ -14389,7 +14394,7 @@
       "Name": "Goldfish?",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACHIEVEMENT_015",
@@ -14397,7 +14402,7 @@
       "Name": "Going for Gold",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "ACHIEVEMENT_016",
@@ -14604,13 +14609,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8375,
+      "Progressed": 8376,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7747,
+      "Progressed": 7748,
       "Completed": 113
     }
   ],
@@ -14618,8 +14623,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-20T18:58:13.8900862+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:08:59.6945382+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:08:48.7573701+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:13.8900871+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:08:59.6946118+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:37.5330113+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:08:48.7574404+00:00"
 }

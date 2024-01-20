@@ -2,12 +2,12 @@
   "ID": "9f4875c1b0cf4cf19b28e203fc7aff07",
   "Name": "Days Gone",
   "ProductSlug": "days-gone",
-  "Ranking_Rating": 265,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 89,
   "Ranking_PopularitySum": 124,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-05-18T04:00:00+00:00",
@@ -4793,18 +4793,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 7478,
       "NumberOfAwardsMax": 4285
+    },
+    {
+      "Time": "2024-01-20T19:57:13.2528743+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 7487,
+      "NumberOfAwardsMax": 4294
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7478,
-  "NumberOfAwardsMax": 4285,
+  "NumberOfAwards": 7487,
+  "NumberOfAwardsMax": 4294,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 4285
+      "Count": 4294
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4884,8 +4890,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:29:37.7111961+00:00",
-  "LastChanged": "2024-01-20T17:57:07.7155817+00:00",
+  "LastChanged": "2024-01-20T19:57:13.2528742+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:19.2589048+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:57:40.2699347+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:09:51.3657258+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:13.2528747+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:27.5442527+00:00"
 }

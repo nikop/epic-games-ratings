@@ -6,7 +6,7 @@
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 236,
-  "Ranking_EOS_Completed": 52,
+  "Ranking_EOS_Completed": 53,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 17,
   "Store": {
@@ -139,11 +139,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2914,
+  "EOS_Progressed": 2915,
   "EOS_Completed": 224,
-  "EOS_NewPlayers": 178,
+  "EOS_NewPlayers": 179,
   "EOS_NewCompleters": 21,
-  "EOS_Completed_Percentage": 7.69,
+  "EOS_Completed_Percentage": 7.68,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7774,6 +7774,11 @@
       "Time": "2024-01-20T19:06:40.2351983+00:00",
       "NumProgressed": 2914,
       "NumCompleted": 224
+    },
+    {
+      "Time": "2024-01-20T20:05:14.6472929+00:00",
+      "NumProgressed": 2915,
+      "NumCompleted": 224
     }
   ],
   "TotalAchievements": 25,
@@ -7799,9 +7804,9 @@
       "ID": "META_ALL_LINK",
       "SetID": "2gma9an",
       "Name": "Peace walker",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 787
+      "UsersEstimate": 816
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7817,7 +7822,7 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 932
+      "UsersEstimate": 933
     },
     {
       "ID": "META_HALF_LINK",
@@ -7895,17 +7900,17 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 932
+      "UsersEstimate": 962
     },
     {
       "ID": "OPTIONNAL_PREACHER",
       "SetID": "2gma9an",
       "Name": "The Preacher\u0027s fate",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1311
+      "UsersEstimate": 1283
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -7913,7 +7918,7 @@
       "Name": "Fashion victim",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -7929,7 +7934,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1748
+      "UsersEstimate": 1749
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7961,7 +7966,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1136
+      "UsersEstimate": 1137
     },
     {
       "ID": "PROGRESS_N4",
@@ -7984,7 +7989,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2914,
+      "Progressed": 2915,
       "Completed": 224
     }
   ],
@@ -7992,8 +7997,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:06:40.235198+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:05:14.6472927+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:27.0999423+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:59:12.1919495+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:06:40.2352575+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:58:21.1297259+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:05:14.6473477+00:00"
 }

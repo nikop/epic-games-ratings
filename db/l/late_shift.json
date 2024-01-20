@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1144,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
@@ -3290,6 +3290,11 @@
       "Time": "2024-01-20T19:10:16.8189043+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-20T20:09:46.903679+00:00",
+      "NumProgressed": 1144,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -3301,7 +3306,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3357,7 +3362,7 @@
       "Name": "The Bribe",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "ENDING_7",
@@ -3365,7 +3370,7 @@
       "Name": "The Frenzy",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "EVEN_TEMPERED",
@@ -3373,7 +3378,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -3387,9 +3392,9 @@
       "ID": "FAIR_SHARE",
       "SetID": "8eejhlh",
       "Name": "Fair Share",
-      "Percentage": 68,
+      "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 777
+      "UsersEstimate": 766
     },
     {
       "ID": "GOOD_KARMA",
@@ -3397,7 +3402,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "INTERROGATION",
@@ -3405,7 +3410,7 @@
       "Name": "Interrogation",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 171
+      "UsersEstimate": 172
     },
     {
       "ID": "OFFICE_CLERK",
@@ -3453,14 +3458,14 @@
       "Name": "Star-Crossed Lovers",
       "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     }
   ],
   "AchievementSets": [
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1144,
       "Completed": 14
     }
   ],
@@ -3468,8 +3473,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:10:16.8189038+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:09:46.9036788+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.1573775+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:59:43.5174513+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:10:16.8189479+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:58:43.3990935+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:46.9037+00:00"
 }

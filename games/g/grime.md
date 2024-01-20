@@ -17,12 +17,12 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,691 |
 | Sharpened Vessel | 1.00% | ~1,691 |
 | Scion | 0.90% | ~1,518 |
-| Jawcrab | 0.90% | ~1,521 |
-| Jawstag | 0.90% | ~1,521 |
-| Feast | 0.90% | ~1,521 |
+| Jawcrab | 0.90% | ~1,522 |
+| Jawstag | 0.90% | ~1,522 |
+| Feast | 0.90% | ~1,522 |
 | Watcher | 0.80% | ~1,352 |
 | Shapely | 0.70% | ~1,183 |
-| Glare | 0.70% | ~1,180 |
+| Glare | 0.70% | ~1,181 |
 | Predator | 0.70% | ~1,183 |
 | Assimilation | 0.60% | ~1,014 |
 | Host | 0.60% | ~1,012 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~169 |
 | Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,052 (Ranked 85)  
+Progressed: 169,061 (Ranked 85)  
 Completed: 462 (0.27%) (Ranked 270)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,7 +305,7 @@ Completed: 462 (0.27%) (Ranked 270)
 | 2024-01-17 | 168,696 | 461 |
 | 2024-01-18 | 168,812 | 461 |
 | 2024-01-19 | 168,940 | 462 |
-| 2024-01-20 | 169,052 | 462 |
+| 2024-01-20 | 169,061 | 462 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 432)  
 Sum: 466 (Ranked 346)  

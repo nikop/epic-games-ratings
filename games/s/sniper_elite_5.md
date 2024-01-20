@@ -1,26 +1,26 @@
 # Sniper Elite 5
 [Store](https://store.epicgames.com/en-US/p/sniper-elite-5)  
 [View Rawdata](../../db/s/sniper_elite_5.json)  
-Rating: 4.48 (Ranked 660)  
+Rating: 4.48 (Ranked 661)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~2,027 |
 | Confirming Suspicions | 42.00% | ~1,811 |
 | The Kraken Wakes | 38.00% | ~1,639 |
-| It's Starting to Crack | 35.00% | ~1,509 |
+| It's Starting to Crack | 35.00% | ~1,510 |
 | Change the Channel | 32.00% | ~1,380 |
 | Lord of War | 31.00% | ~1,337 |
 | Taking it back | 30.00% | ~1,294 |
-| Resourceful | 28.00% | ~1,207 |
-| Target America | 28.00% | ~1,207 |
+| Resourceful | 28.00% | ~1,208 |
+| Target America | 28.00% | ~1,208 |
 | The Kraken Sleeps | 26.00% | ~1,121 |
 | Liberté | 24.00% | ~1,035 |
 | Organ Grinder | 24.00% | ~1,035 |
 | As Quiet as a Mouse | 24.00% | ~1,035 |
 | Sharpshooter | 23.00% | ~992 |
-| Gunslinger | 20.00% | ~862 |
-| Explosive Efficiency | 20.00% | ~862 |
+| Gunslinger | 20.00% | ~863 |
+| Explosive Efficiency | 20.00% | ~863 |
 | Climbing the Ladder | 17.00% | ~733 |
 | Just a Flesh Wound | 17.00% | ~733 |
 | Der Geist | 17.00% | ~733 |
@@ -48,8 +48,8 @@ Rating: 4.48 (Ranked 660)
 | Last Resort | 5.00% | ~213 |
 | Siegebreaker | 5.00% | ~213 |
 | Ghost of Falaise | 5.00% | ~213 |
-| Burn after reading | 4.00% | ~172 |
-| Locomotion Commotion | 4.00% | ~172 |
+| Burn after reading | 4.00% | ~173 |
+| Locomotion Commotion | 4.00% | ~173 |
 | If You Go Down To The Woods Today | 4.00% | ~171 |
 | From Paris with Love | 3.00% | ~129 |
 | Souvenir hunter | 3.00% | ~129 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 660)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,312 (Ranked 216)  
+Progressed: 4,313 (Ranked 216)  
 Completed: 11 (0.26%) (Ranked 273)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 11 (0.26%) (Ranked 273)
 | 2024-01-17 | 4,295 | 11 |
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,306 | 11 |
-| 2024-01-20 | 4,312 | 11 |
+| 2024-01-20 | 4,313 | 11 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 528)  
 Sum: 30 (Ranked 550)  

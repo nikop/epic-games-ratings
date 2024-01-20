@@ -31,8 +31,8 @@
 | Astral Seeker | 9.00% | ~35 |
 | Heart Gate | 8.00% | ~31 |
 | Stellar Haste | 8.00% | ~31 |
+| The Corruption Goddess | 8.00% | ~31 |
 | The Goddes Avatar | 8.00% | ~31 |
-| The Corruption Goddess | 7.00% | ~27 |
 | Can't touch this | 6.00% | ~23 |
 | Favored by the Cosmos | 6.00% | ~23 |
 | Anomaly Control | 5.00% | ~20 |
@@ -48,6 +48,7 @@
 | Noctuan Hero | 4.00% | ~16 |
 | Pocket Astrarium | 3.00% | ~12 |
 | Purification Avatar | 3.00% | ~12 |
+| The Abyssal Terror | 3.00% | ~12 |
 | The Ardent Prince | 3.00% | ~12 |
 | The Distorted Sage | 3.00% | ~12 |
 | The Raging Skies | 3.00% | ~12 |
@@ -57,7 +58,6 @@
 | Critical Twist | 2.00% | ~8 |
 | Reflexive Mind | 2.00% | ~8 |
 | Sentinelphobic | 2.00% | ~8 |
-| The Abyssal Terror | 2.00% | ~8 |
 | Aquarian Hero | 2.00% | ~8 |
 | Aquarian Mastery | 2.00% | ~8 |
 | Behenian Mastery | 2.00% | ~8 |

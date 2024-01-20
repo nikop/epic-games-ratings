@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewPlayers": 113,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258398,
+  "EOS_Progressed": 258399,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 652,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31422,6 +31422,11 @@
       "Time": "2024-01-20T19:05:47.2340799+00:00",
       "NumProgressed": 258398,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T20:04:35.0140108+00:00",
+      "NumProgressed": 258399,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31433,7 +31438,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69767
+      "UsersEstimate": 69768
     },
     {
       "ID": "ACH_AON",
@@ -31577,7 +31582,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74935
+      "UsersEstimate": 74936
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -31848,7 +31853,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258398,
+      "Progressed": 258399,
       "Completed": 8
     }
   ],
@@ -31856,8 +31861,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:05:47.2340795+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:04:35.0140107+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:15.0474764+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:03:14.9678689+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:05:47.2342564+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:02:45.1081348+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:04:35.0141568+00:00"
 }

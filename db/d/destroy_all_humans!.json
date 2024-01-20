@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewPlayers": 225,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -307,7 +307,7 @@
   ],
   "EOS_Progressed": 532,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -2472,9 +2472,9 @@
       "ID": "ACH_UPGRADE_TOPTIER",
       "SetID": "cefn62b",
       "Name": "Trans-Siberian Express",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 138
+      "UsersEstimate": 144
     }
   ],
   "AchievementSets": [
@@ -2488,8 +2488,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:07:26.2565161+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:05:48.6033226+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:03:09.4335542+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:07:26.2565486+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:02:41.9981198+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:05:48.6033624+00:00"
 }

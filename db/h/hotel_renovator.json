@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -3823,9 +3823,9 @@
       "ID": "ACH_GRANDPA_LETTER",
       "SetID": "7k95e4n",
       "Name": "No pressure",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1031
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3952,8 +3952,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-17T04:01:01.3944972+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:09:21.0654444+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:09:04.6951292+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:25.9171529+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:59:55.0753692+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:09:21.0655042+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:58:52.6288958+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:04.6951522+00:00"
 }

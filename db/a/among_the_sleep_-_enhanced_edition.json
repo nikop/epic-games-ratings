@@ -506,9 +506,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99782,
+  "EOS_Progressed": 99786,
   "EOS_Completed": 459,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -31261,6 +31261,11 @@
       "Time": "2024-01-20T19:09:39.3710746+00:00",
       "NumProgressed": 99782,
       "NumCompleted": 459
+    },
+    {
+      "Time": "2024-01-20T20:09:18.6239838+00:00",
+      "NumProgressed": 99786,
+      "NumCompleted": 459
     }
   ],
   "TotalAchievements": 10,
@@ -31296,7 +31301,7 @@
       "Name": "Forest Drawings",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 698
+      "UsersEstimate": 699
     },
     {
       "ID": "Drawings04",
@@ -31328,7 +31333,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9978
+      "UsersEstimate": 9979
     },
     {
       "ID": "Level00BowlingStrike",
@@ -31336,7 +31341,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34924
+      "UsersEstimate": 34925
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -31351,15 +31356,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 99782,
+      "Progressed": 99786,
       "Completed": 459
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-01-18T16:03:39.3756738+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:09:39.3710742+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:09:18.6239836+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.2995243+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:03:49.8745005+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:09:39.3712208+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:03:08.7559408+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:18.6241456+00:00"
 }

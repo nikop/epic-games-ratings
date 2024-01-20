@@ -4,7 +4,7 @@
   "ProductSlug": "the-sisters-2-road-to-fame-287bbe",
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-05T08:00:00+00:00",
@@ -386,8 +386,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-21T09:05:05.5743881+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:09:54.4985736+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:09:30.0483119+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.2637373+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:13.3622432+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:09:54.4985971+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:37.1664238+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:30.0483353+00:00"
 }

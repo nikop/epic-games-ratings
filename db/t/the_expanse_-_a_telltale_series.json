@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19188,
+  "EOS_Progressed": 19191,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 229,
+  "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17895,6 +17895,11 @@
       "Time": "2024-01-20T19:05:20.6218987+00:00",
       "NumProgressed": 19188,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-20T20:04:15.1129513+00:00",
+      "NumProgressed": 19191,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17923,7 +17928,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "12",
@@ -17987,7 +17992,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "2",
@@ -17995,7 +18000,7 @@
       "Name": "Data Logger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "20",
@@ -18011,7 +18016,7 @@
       "Name": "Drone Dodger",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "22",
@@ -18035,7 +18040,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "25",
@@ -18059,7 +18064,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "28",
@@ -18083,7 +18088,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3070
+      "UsersEstimate": 3071
     },
     {
       "ID": "30",
@@ -18115,7 +18120,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2878
+      "UsersEstimate": 2879
     },
     {
       "ID": "7",
@@ -18139,7 +18144,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2686
+      "UsersEstimate": 2687
     },
     {
       "ID": "31",
@@ -18147,7 +18152,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 411
+      "UsersEstimate": 412
     },
     {
       "ID": "32",
@@ -18186,13 +18191,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19188,
+      "Progressed": 19191,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5142,
+      "Progressed": 5145,
       "Completed": 1360
     }
   ],
@@ -18200,8 +18205,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-20T06:57:37.968972+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:05:20.6218984+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:04:15.1129511+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:21.3528378+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:05:20.6219846+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:42.8560854+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:04:15.113053+00:00"
 }

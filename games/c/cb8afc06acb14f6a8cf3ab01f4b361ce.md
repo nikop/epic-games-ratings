@@ -5,15 +5,15 @@ Rating: 4.21 (Ranked 966)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,392 |
-| The touch of Chaos | 5.00% | ~17,392 |
-| A powerful aura was here | 4.00% | ~13,913 |
+| May the Torchbearer light our way | 5.00% | ~17,393 |
+| The touch of Chaos | 5.00% | ~17,393 |
+| A powerful aura was here | 4.00% | ~13,914 |
 | Let's raise the stakes!! | 2.00% | ~6,957 |
-| Rumors are true | 1.00% | ~3,478 |
-| We'll be careful | 1.00% | ~3,478 |
-| Pride is a sin, young Knight | 1.00% | ~3,478 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,478 |
-| Back to your senses | 0.90% | ~3,130 |
+| Rumors are true | 1.00% | ~3,479 |
+| We'll be careful | 1.00% | ~3,479 |
+| Pride is a sin, young Knight | 1.00% | ~3,479 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,479 |
+| Back to your senses | 0.90% | ~3,131 |
 | They tricked me | 0.80% | ~2,783 |
 | They won't last long | 0.80% | ~2,783 |
 | Bring it on! | 0.80% | ~2,783 |
@@ -25,7 +25,7 @@ Rating: 4.21 (Ranked 966)
 | We can choose to fight | 0.60% | ~2,087 |
 | I took a risk | 0.50% | ~1,739 |
 | Their fate is sealed | 0.40% | ~1,391 |
-| Not even from this world | 0.30% | ~1,043 |
+| Not even from this world | 0.30% | ~1,044 |
 | No damsels in distress | 0.20% | ~696 |
 | Chaos be damned! | 0.20% | ~696 |
 | The immortal is bound to reborn | 0.10% | ~348 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 966)
 | Something... unnatural | 0.10% | ~348 |
 | We strike as one | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 347,832 (Ranked 60)  
+Progressed: 347,853 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -165,7 +165,7 @@ Completed: 7 (0.00%) (Ranked 407)
 | 2024-01-17 | 346,759 | 7 |
 | 2024-01-18 | 347,117 | 7 |
 | 2024-01-19 | 347,471 | 7 |
-| 2024-01-20 | 347,832 | 7 |
+| 2024-01-20 | 347,853 | 7 |
 ## Awards
 Max (Great Boss Battles): 82  (Ranked 404)  
 Sum: 82 (Ranked 487)  

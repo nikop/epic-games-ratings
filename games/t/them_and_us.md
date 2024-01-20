@@ -5,10 +5,10 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Alone with Them | 67.00% | ~287 |
-| Forced to Kill | 64.00% | ~274 |
+| Forced to Kill | 63.00% | ~270 |
 | A Night To Remember | 38.00% | ~163 |
-| Safe...For now? | 30.00% | ~128 |
-| Open Sesame | 26.00% | ~111 |
+| Safe...For now? | 30.00% | ~129 |
+| Open Sesame | 26.00% | ~112 |
 | Them and Us | 17.00% | ~73 |
 | OUTRAGE | 17.00% | ~73 |
 | What have I done!? | 17.00% | ~73 |
@@ -45,7 +45,7 @@
 | Nightmare Over | 0.20% | ~1 |
 | Survival Horror | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 428 (Ranked 372)  
+Progressed: 429 (Ranked 372)  
 Completed: 1 (0.23%) (Ranked 280)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -180,7 +180,7 @@ Completed: 1 (0.23%) (Ranked 280)
 | 2024-01-16 | 423 | 1 |
 | 2024-01-17 | 424 | 1 |
 | 2024-01-18 | 425 | 1 |
-| 2024-01-20 | 428 | 1 |
+| 2024-01-20 | 429 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

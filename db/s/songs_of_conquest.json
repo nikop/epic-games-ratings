@@ -2,7 +2,7 @@
   "ID": "3a18db06dff0465b8a58308aa29020a0",
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
-  "Ranking_Rating": 265,
+  "Ranking_Rating": 264,
   "Ranking_Popularity": 528,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 288,
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1256,
+  "EOS_Progressed": 1257,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4342,6 +4342,11 @@
       "Time": "2024-01-20T17:09:45.1650661+00:00",
       "NumProgressed": 1256,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T20:09:37.1046358+00:00",
+      "NumProgressed": 1257,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4378,7 +4383,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "AttackCount",
@@ -4408,9 +4413,9 @@
       "ID": "BurrowBlocked",
       "SetID": "71c0n9i",
       "Name": "This Spot\u0027s Taken",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 38
     },
     {
       "ID": "BurrowUp",
@@ -4682,7 +4687,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "WielderLevel2",
@@ -4785,15 +4790,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1256,
+      "Progressed": 1257,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:10:03.8433626+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:09:37.1046356+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:01.0088018+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:10:03.8434075+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:28.802909+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:37.1046934+00:00"
 }

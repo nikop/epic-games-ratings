@@ -4,7 +4,7 @@
   "ProductSlug": "crash-drive-3",
   "Ranking_EOS_Progress": 369,
   "Ranking_EOS_Completed": 237,
-  "Ranking_EOS_NewPlayers": 410,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-07-08T08:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 443,
+  "EOS_Progressed": 444,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.45,
   "EosHistory": [
@@ -774,6 +774,11 @@
       "Time": "2024-01-19T13:15:19.5938922+00:00",
       "NumProgressed": 443,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T20:09:23.0654964+00:00",
+      "NumProgressed": 444,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 55,
@@ -801,7 +806,7 @@
       "Name": "Fore!",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "CATAPULT_THROW",
@@ -817,7 +822,7 @@
       "Name": "The Collector",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "COLLECT_1_CAR",
@@ -873,7 +878,7 @@
       "Name": "Drift King!",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 66
+      "UsersEstimate": 67
     },
     {
       "ID": "FIND_40_M2H",
@@ -903,17 +908,17 @@
       "ID": "FRONT_AND_BACKFLIP",
       "SetID": "20koof9",
       "Name": "To and Fro",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 93
+      "UsersEstimate": 89
     },
     {
       "ID": "FRONT_OR_BACKFLIP",
       "SetID": "20koof9",
       "Name": "Disoriented",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "FULLY_LEVEL_20_CARS",
@@ -993,7 +998,7 @@
       "Name": "Insurance fraud",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "HIT_FLYING_UFO",
@@ -1023,9 +1028,9 @@
       "ID": "KING_CROWN",
       "SetID": "20koof9",
       "Name": "Your Highness",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 80
     },
     {
       "ID": "LEFT_LEVEL",
@@ -1041,7 +1046,7 @@
       "Name": "The Wild West",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LOADED_LVL_FOREST",
@@ -1049,7 +1054,7 @@
       "Name": "A Forest Walk",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "LOADED_LVL_SNOW",
@@ -1057,7 +1062,7 @@
       "Name": "Snow Fun!",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "LOADED_LVL_TANK",
@@ -1105,7 +1110,7 @@
       "Name": "Bag of Tricks",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "STUNT_SCORE_DOUBLE",
@@ -1209,7 +1214,7 @@
       "Name": "You\u0027re it",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "WIN_TANK_BATTLES",
@@ -1224,7 +1229,7 @@
     {
       "ID": "20koof9",
       "IsBase": true,
-      "Progressed": 443,
+      "Progressed": 444,
       "Completed": 2
     }
   ],
@@ -1232,8 +1237,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.1213616+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.806425+00:00",
   "LastChanged": "2023-03-31T05:58:32.1213617+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:09:45.0617397+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:09:23.0654962+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.3078107+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:01:46.3555521+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:09:45.0617903+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:00:11.8581651+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:23.0655346+00:00"
 }

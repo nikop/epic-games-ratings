@@ -11112,9 +11112,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133331,
+  "EOS_Progressed": 133334,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 643,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40797,6 +40797,11 @@
       "Time": "2024-01-20T19:10:42.7982084+00:00",
       "NumProgressed": 133331,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T20:10:06.9450754+00:00",
+      "NumProgressed": 133334,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41160,7 +41165,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10666
+      "UsersEstimate": 10667
     },
     {
       "ID": "hero_story_complete_all",
@@ -41318,9 +41323,9 @@
       "ID": "stagecoach_upgrade_equip_all",
       "SetID": "64l4lke",
       "Name": "Road Trip",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4000
+      "UsersEstimate": 5333
     },
     {
       "ID": "altar_of_hope_memory_equip_all_crusader",
@@ -41439,21 +41444,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133331,
+      "Progressed": 133334,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8200,
+      "Progressed": 8203,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-20T18:58:42.4359534+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:10:42.7982082+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:10:06.9450752+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:42.4359542+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:10:42.7983606+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:57.9854465+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:10:06.9452644+00:00"
 }

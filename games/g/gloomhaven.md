@@ -1,44 +1,44 @@
 # Gloomhaven
 [Store](https://store.epicgames.com/en-US/p/gloomhaven-92f741)  
 [View Rawdata](../../db/g/gloomhaven.json)  
-Rating: 4.47 (Ranked 665)  
+Rating: 4.47 (Ranked 667)  
 Number of Ratings: 68  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,241 |
-| Overkill | 33.00% | ~11,499 |
-| Vaccine Incoming | 31.00% | ~10,802 |
-| A normal day in Gloomhaven | 29.00% | ~10,105 |
-| Spread the plague | 26.00% | ~9,059 |
-| Get over here! | 24.00% | ~8,363 |
-| Just when I thought I was out... | 19.00% | ~6,620 |
-| Mine... All Mine... | 16.00% | ~5,575 |
-| Precious! | 15.00% | ~5,227 |
-| Grizzled veteran | 14.00% | ~4,878 |
-| Anatomy Lesson | 14.00% | ~4,878 |
-| Who's the Boss? | 12.00% | ~4,181 |
-| You activated my trap card! | 12.00% | ~4,181 |
-| Obstacle race | 12.00% | ~4,181 |
-| Light of my life | 12.00% | ~4,181 |
-| Augmented rat | 10.00% | ~3,484 |
-| Doom and gloom | 9.00% | ~3,136 |
+| I'm not dead yet | 38.00% | ~13,245 |
+| Overkill | 33.00% | ~11,502 |
+| Vaccine Incoming | 31.00% | ~10,805 |
+| A normal day in Gloomhaven | 29.00% | ~10,108 |
+| Spread the plague | 26.00% | ~9,062 |
+| Get over here! | 24.00% | ~8,365 |
+| Just when I thought I was out... | 19.00% | ~6,622 |
+| Mine... All Mine... | 16.00% | ~5,577 |
+| Precious! | 15.00% | ~5,228 |
+| Grizzled veteran | 14.00% | ~4,880 |
+| Anatomy Lesson | 14.00% | ~4,880 |
+| Who's the Boss? | 12.00% | ~4,183 |
+| You activated my trap card! | 12.00% | ~4,183 |
+| Obstacle race | 12.00% | ~4,183 |
+| Light of my life | 12.00% | ~4,183 |
+| Augmented rat | 10.00% | ~3,486 |
+| Doom and gloom | 9.00% | ~3,137 |
 | Dungeon Veteran | 8.00% | ~2,788 |
-| Pack leader | 7.00% | ~2,439 |
-| Pain is your friend | 7.00% | ~2,439 |
-| Black death | 7.00% | ~2,439 |
-| Play it again, Sam | 7.00% | ~2,439 |
+| Pack leader | 7.00% | ~2,440 |
+| Pain is your friend | 7.00% | ~2,440 |
+| Black death | 7.00% | ~2,440 |
+| Play it again, Sam | 7.00% | ~2,440 |
 | Caught off guard | 6.00% | ~2,091 |
 | Quad damage | 6.00% | ~2,091 |
-| Power Up! | 5.00% | ~1,742 |
-| Merchant of doom | 5.00% | ~1,742 |
-| Now you see me... | 5.00% | ~1,742 |
+| Power Up! | 5.00% | ~1,743 |
+| Merchant of doom | 5.00% | ~1,743 |
+| Now you see me... | 5.00% | ~1,743 |
 | The Pro from Dover | 4.00% | ~1,394 |
 | Pretty lights! | 4.00% | ~1,394 |
-| I hate portals | 3.00% | ~1,045 |
-| Down the hatch | 3.00% | ~1,045 |
-| An eye for an eye | 3.00% | ~1,045 |
-| The Cephalophore | 3.00% | ~1,045 |
+| I hate portals | 3.00% | ~1,046 |
+| Down the hatch | 3.00% | ~1,046 |
+| An eye for an eye | 3.00% | ~1,046 |
+| The Cephalophore | 3.00% | ~1,046 |
 | From Gloom, only greed and death emerges | 2.00% | ~697 |
 | The Rat King | 2.00% | ~697 |
 | How to train your Drake | 2.00% | ~697 |
@@ -46,11 +46,11 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~697 |
 | Grin and bear it | 2.00% | ~697 |
 | An axe to grind | 2.00% | ~697 |
-| Betray this | 1.00% | ~348 |
-| Add a bit of colour | 1.00% | ~348 |
-| Captain hooked | 1.00% | ~348 |
-| Spoiler police! | 1.00% | ~348 |
-| New Blood | 1.00% | ~348 |
+| Betray this | 1.00% | ~349 |
+| Add a bit of colour | 1.00% | ~349 |
+| Captain hooked | 1.00% | ~349 |
+| Spoiler police! | 1.00% | ~349 |
+| New Blood | 1.00% | ~349 |
 | The Pacifist | 0.50% | ~174 |
 | The evil that men do | 0.50% | ~174 |
 | Born Support | 0.50% | ~174 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,844 (Ranked 140)  
+Progressed: 34,855 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 1 (0.00%) (Ranked 407)
 | 2024-01-17 | 34,284 | 1 |
 | 2024-01-18 | 34,462 | 1 |
 | 2024-01-19 | 34,657 | 1 |
-| 2024-01-20 | 34,844 | 1 |
+| 2024-01-20 | 34,855 | 1 |
 ## Awards
 Max (Character Customization): 3,624  (Ranked 96)  
 Sum: 8,498 (Ranked 110)  

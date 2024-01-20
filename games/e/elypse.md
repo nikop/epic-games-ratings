@@ -27,8 +27,8 @@
 | Bookworm | 24.00% | ~34 |
 | Full power | 23.00% | ~32 |
 | "Ah sh*t... Here we go again!" | 23.00% | ~32 |
+| Compulsive hoarder | 22.00% | ~31 |
 | Magnitude 5 | 22.00% | ~31 |
-| Compulsive hoarder | 21.00% | ~30 |
 | GG EZ | 16.00% | ~23 |
 | Comeback | 16.00% | ~23 |
 | MayDay! MayDay! | 11.00% | ~16 |

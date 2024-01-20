@@ -2,7 +2,7 @@
   "ID": "fb76c816bb054fc8be57dc49f1600843",
   "Name": "Tails of Iron",
   "ProductSlug": "tails-of-iron-587abd",
-  "Ranking_Rating": 499,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 249,
@@ -4556,9 +4556,9 @@
       "ID": "CompleteGuardFaction",
       "SetID": "9lj35g4",
       "Name": "Complete Guard Faction",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 94
     },
     {
       "ID": "CompleteHunterFaction",
@@ -4756,9 +4756,9 @@
       "ID": "TravelToBrightFirForest",
       "SetID": "cbf1i0c",
       "Name": "The Bright Fir",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 30
     }
   ],
   "AchievementSets": [
@@ -4779,8 +4779,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:04:18.5045538+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:03:28.502737+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:46.4509362+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:34.743332+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:04:18.5045991+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:52.2454634+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:03:28.5027949+00:00"
 }

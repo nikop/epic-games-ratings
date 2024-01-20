@@ -6,19 +6,19 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,269 |
-| Basic in Bulk | 11.00% | ~16,746 |
-| Titan's First Steps | 11.00% | ~16,746 |
-| Tinkle of Coins | 10.00% | ~15,224 |
-| Disintermediation | 8.00% | ~12,179 |
-| Capitalism Ho! | 8.00% | ~12,179 |
+| Sponsored by Argon | 12.00% | ~18,270 |
+| Basic in Bulk | 11.00% | ~16,747 |
+| Titan's First Steps | 11.00% | ~16,747 |
+| Tinkle of Coins | 10.00% | ~15,225 |
+| Disintermediation | 8.00% | ~12,180 |
+| Capitalism Ho! | 8.00% | ~12,180 |
 | It's Free Real Estate | 7.00% | ~10,657 |
 | Budding Merchant | 7.00% | ~10,657 |
-| One Easy Payment | 6.00% | ~9,134 |
-| Some Assembly Required | 6.00% | ~9,134 |
-| Another Satisfied Customer | 6.00% | ~9,134 |
-| Pretty Penny | 6.00% | ~9,134 |
-| Own the Means of Production | 6.00% | ~9,134 |
+| One Easy Payment | 6.00% | ~9,135 |
+| Some Assembly Required | 6.00% | ~9,135 |
+| Another Satisfied Customer | 6.00% | ~9,135 |
+| Pretty Penny | 6.00% | ~9,135 |
+| Own the Means of Production | 6.00% | ~9,135 |
 | The Daily Grind | 5.00% | ~7,612 |
 | Bounty Hunters | 5.00% | ~7,612 |
 | One-Armed Bandit | 5.00% | ~7,612 |
@@ -38,7 +38,6 @@ Number of Ratings: 12,664  (23.09.2022)
 | Tax not Included | 3.00% | ~4,567 |
 | Research & Development | 3.00% | ~4,567 |
 | Vanity, Verily | 3.00% | ~4,567 |
-| Big Game Hunting | 3.00% | ~4,567 |
 | Fated Encounters | 3.00% | ~4,567 |
 | For the Hoard! | 3.00% | ~4,567 |
 | Blank Page Syndrome | 3.00% | ~4,567 |
@@ -66,6 +65,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | A Ronin Reborn | 2.00% | ~3,045 |
 | The King's Caprice | 2.00% | ~3,045 |
 | Thirst for Knowledge | 2.00% | ~3,045 |
+| Big Game Hunting | 2.00% | ~3,045 |
 | Booty by the Boatload | 2.00% | ~3,045 |
 | Archivist | 2.00% | ~3,045 |
 | Locally Sourced | 2.00% | ~3,045 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~609 |
 | Capitalist Camaraderie | 0.30% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,240 (Ranked 87)  
+Progressed: 152,249 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 277)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -394,7 +394,7 @@ Completed: 360 (0.24%) (Ranked 277)
 | 2024-01-17 | 151,701 | 359 |
 | 2024-01-18 | 151,873 | 359 |
 | 2024-01-19 | 152,097 | 359 |
-| 2024-01-20 | 152,240 | 360 |
+| 2024-01-20 | 152,249 | 360 |
 ## Awards
 Max (Great for Beginners): 4,966  (Ranked 82)  
 Sum: 28,018 (Ranked 52)  

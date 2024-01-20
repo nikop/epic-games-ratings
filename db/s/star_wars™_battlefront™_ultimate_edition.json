@@ -2,7 +2,7 @@
   "ID": "fefe1db11f534484987ef50ec1e25225",
   "Name": "STAR WARS\u2122 Battlefront\u2122 Ultimate Edition",
   "ProductSlug": "star-wars-battlefront",
-  "Ranking_EOS_Progress": 233,
+  "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 362,
   "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 152,
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3061,
+  "EOS_Progressed": 3062,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 129,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8359,6 +8359,11 @@
       "Time": "2024-01-20T19:10:53.1873962+00:00",
       "NumProgressed": 3061,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T20:10:15.4224417+00:00",
+      "NumProgressed": 3062,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8595,7 +8600,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2632
+      "UsersEstimate": 2633
     },
     {
       "ID": "achievement_36",
@@ -8635,7 +8640,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "achievement_40",
@@ -8874,13 +8879,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3061,
+      "Progressed": 3062,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3061,
+      "Progressed": 3062,
       "Completed": 1
     }
   ],
@@ -8888,8 +8893,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:10:53.187396+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:10:15.4224415+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:02:41.2768241+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:10:53.187476+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:00:23.2240833+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:10:15.4225284+00:00"
 }

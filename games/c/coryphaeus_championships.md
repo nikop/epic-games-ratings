@@ -10,7 +10,7 @@
 | You are the real Prodigy of the Next Millennia! | 7.00% | ~1 |
 | You are a CHAMPION! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14 (Ranked 651)  
+Progressed: 14 (Ranked 652)  
 Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |

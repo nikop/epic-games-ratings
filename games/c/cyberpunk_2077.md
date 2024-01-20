@@ -29,13 +29,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.30% | ~3,168 |
 | True Warrior | 0.30% | ~3,168 |
 | Judy vs Night City | 0.30% | ~3,168 |
+| To Bad Decisions! | 0.20% | ~2,112 |
 | The Wandering Fool | 0.20% | ~2,112 |
 | The Sun | 0.20% | ~2,112 |
 | Two Heads, One Bullet | 0.20% | ~2,112 |
 | Spin Doctor | 0.20% | ~369 |
 | Easy Come, Easy Go | 0.20% | ~369 |
 | City Lights | 0.10% | ~1,056 |
-| To Bad Decisions! | 0.10% | ~1,056 |
 | Autojock | 0.10% | ~1,056 |
 | Frequent Flyer | 0.10% | ~1,056 |
 | Gunslinger | 0.10% | ~1,056 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,906 (Ranked 17)  
+Progressed: 1,055,933 (Ranked 17)  
 Completed: 3,136 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,14 +349,14 @@ Completed: 3,136 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,906 | 3,136 |
+| 2024-01-20 | 1,055,933 | 3,136 |
 ## Awards
-Max (Character Customization): 142,615  (Ranked 8)  
-Sum: 508,327 (Ranked 8)  
+Max (Character Customization): 143,148  (Ranked 8)  
+Sum: 508,860 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 142,615 |
+| This game has Inclusive Character Customization | 143,148 |
 | This game has Great Boss Battles | 106,592 |
 | This game is Great for Beginners | 32,432 |
 | This game has Diverse Characters | 31,751 |
@@ -736,4 +736,4 @@ Diff (max vs sum): 0
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
 | 2024-01-18 | 4.67 | - | 142,143 | 504,220 |
 | 2024-01-19 | 4.67 | - | 142,615 | 506,646 |
-| 2024-01-20 | 4.67 | - | 142,615 | 508,327 |
+| 2024-01-20 | 4.67 | - | 143,148 | 508,860 |

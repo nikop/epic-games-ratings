@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 88.00% | ~525 |
+| Such a strange dream… | 89.00% | ~531 |
 | Your first fight | 84.00% | ~501 |
 | Good Person Chip | 82.00% | ~490 |
 | First winning | 80.00% | ~478 |
@@ -18,8 +18,8 @@
 | First defeat | 63.00% | ~376 |
 | Run K, run! | 63.00% | ~376 |
 | Hello, world! | 62.00% | ~370 |
+| Fighting is cool | 61.00% | ~364 |
 | No bullying more | 61.00% | ~364 |
-| Fighting is cool | 60.00% | ~358 |
 | Pal of your father? | 59.00% | ~352 |
 | Spirit of the past | 57.00% | ~340 |
 | Employee of the month | 56.00% | ~334 |

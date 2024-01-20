@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1927,7 +1927,7 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169052,
+  "EOS_Progressed": 169061,
   "EOS_Completed": 462,
   "EOS_NewPlayers": 1030,
   "EOS_NewCompleters": 5,
@@ -23837,6 +23837,11 @@
       "Time": "2024-01-20T19:07:27.9120406+00:00",
       "NumProgressed": 169052,
       "NumCompleted": 462
+    },
+    {
+      "Time": "2024-01-20T20:05:49.8343945+00:00",
+      "NumProgressed": 169061,
+      "NumCompleted": 462
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23961,7 +23966,7 @@
       "Name": "Glare",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1180
+      "UsersEstimate": 1181
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -23993,7 +23998,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -24001,7 +24006,7 @@
       "Name": "Jawstag",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -24025,7 +24030,7 @@
       "Name": "Feast",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1521
+      "UsersEstimate": 1522
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -24216,21 +24221,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168635,
+      "Progressed": 168644,
       "Completed": 1267
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169052,
+      "Progressed": 169061,
       "Completed": 462
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-20T11:57:35.7405474+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:07:27.9120402+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:05:49.8343943+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:44.5430182+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:22.7306189+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:07:27.9121858+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:43.5891913+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:05:49.8345062+00:00"
 }

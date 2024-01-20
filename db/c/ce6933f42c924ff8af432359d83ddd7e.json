@@ -4,7 +4,7 @@
   "ProductSlug": "mystery-in-the-office-f629ad",
   "Ranking_EOS_Progress": 286,
   "Ranking_EOS_Completed": 86,
-  "Ranking_EOS_NewPlayers": 313,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1314,
+  "EOS_Progressed": 1315,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.41,
   "EosHistory": [
@@ -3224,6 +3224,11 @@
       "Time": "2024-01-20T19:10:27.6832307+00:00",
       "NumProgressed": 1314,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-20T20:09:55.0017798+00:00",
+      "NumProgressed": 1315,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -3244,7 +3249,7 @@
       "Name": "Brain-teaser",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH_DONUTS",
@@ -3276,7 +3281,7 @@
       "Name": "Evil plan",
       "Percentage": 50,
       "XP": 85,
-      "UsersEstimate": 657
+      "UsersEstimate": 658
     },
     {
       "ID": "ACH_RADIO_TAPES",
@@ -3308,21 +3313,21 @@
       "Name": "Exit",
       "Percentage": 57,
       "XP": 65,
-      "UsersEstimate": 749
+      "UsersEstimate": 750
     }
   ],
   "AchievementSets": [
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1314,
+      "Progressed": 1315,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:10:27.6832304+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:09:55.0017795+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:10.3938259+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:58:05.4276999+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:10:27.683254+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:32.0365203+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:09:55.0018054+00:00"
 }

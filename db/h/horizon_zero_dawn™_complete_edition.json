@@ -2,12 +2,12 @@
   "ID": "3328b08ac1c14540aa265a1a85c07839",
   "Name": "Horizon Zero Dawn\u2122 Complete Edition",
   "ProductSlug": "horizon-zero-dawn-complete-edition",
-  "Ranking_Rating": 135,
+  "Ranking_Rating": 134,
   "Ranking_Popularity": 70,
   "Ranking_PopularitySum": 84,
   "Ranking_EOS_Progress": 844,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-08-07T15:00:00+00:00",
@@ -9776,10 +9776,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 13247,
       "NumberOfAwardsMax": 6023
+    },
+    {
+      "Time": "2024-01-20T19:57:19.3812825+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 13248,
+      "NumberOfAwardsMax": 6023
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 13247,
+  "NumberOfAwards": 13248,
   "NumberOfAwardsMax": 6023,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -9853,7 +9859,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 353
+      "Count": 354
     }
   ],
   "EOS_Progressed": 0,
@@ -9867,8 +9873,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:25:54.5867721+00:00",
-  "LastChanged": "2024-01-20T16:57:39.6758911+00:00",
+  "LastChanged": "2024-01-20T19:57:19.3812821+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.238231+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:57:47.5783921+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:04:56.7915064+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:57:19.3812829+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:03:57.6657681+00:00"
 }

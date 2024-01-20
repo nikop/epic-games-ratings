@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 420,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 270,
+  "EOS_Progressed": 271,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1652,6 +1652,11 @@
       "Time": "2024-01-20T19:05:42.0129197+00:00",
       "NumProgressed": 270,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T20:04:31.0990332+00:00",
+      "NumProgressed": 271,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1678,9 +1683,9 @@
       "ID": "1000ELEXIT",
       "SetID": "a1angca",
       "Name": "Entrepreneur",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 124
+      "UsersEstimate": 122
     },
     {
       "ID": "100HEALS",
@@ -1712,7 +1717,7 @@
       "Name": "Storyteller",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "20TELEPORTS",
@@ -1776,7 +1781,7 @@
       "Name": "Globetrotter",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "50000ELEXIT",
@@ -1864,7 +1869,7 @@
       "Name": "Alb",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "CHOSEBSK",
@@ -1872,7 +1877,7 @@
       "Name": "Berserker",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CHOSEKLE",
@@ -1904,7 +1909,7 @@
       "Name": "Creator",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "DESTRUCTION",
@@ -1976,15 +1981,15 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "HELPCHILDREN",
       "SetID": "a1angca",
       "Name": "Detective",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 24
+      "UsersEstimate": 22
     },
     {
       "ID": "HELPTHORHILD",
@@ -2008,7 +2013,7 @@
       "Name": "Hunter",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "KILL20SKYANDS",
@@ -2046,9 +2051,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 49
     },
     {
       "ID": "LOVECAJA",
@@ -2063,15 +2068,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 270,
+      "Progressed": 271,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:05:42.0129195+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:04:31.0990331+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:23.9279826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T18:59:35.6802755+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:05:42.0129586+00:00"
+  "LastUpdate_Ratings": "2024-01-20T19:58:38.5651039+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:04:31.099066+00:00"
 }

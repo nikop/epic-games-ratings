@@ -4,7 +4,7 @@
   "ProductSlug": "avi-35e86e",
   "Ranking_EOS_Progress": 773,
   "Ranking_EOS_Completed": 407,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 555,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-12T17:00:00+00:00",
@@ -91,8 +91,8 @@
   ],
   "FirstSeen": "2023-12-13T13:59:04.2427837+00:00",
   "FirstSeenAchievements": "2023-11-28T06:08:28.8985409+00:00",
-  "LastChanged_Achievements": "2024-01-20T19:08:36.1973342+00:00",
+  "LastChanged_Achievements": "2024-01-20T20:08:30.443365+00:00",
   "LastUpdate_AppInfo": "2024-01-14T11:57:00.6059961+00:00",
-  "LastUpdate_Ratings": "2024-01-20T19:01:36.1268806+00:00",
-  "LastUpdate_Achievements": "2024-01-20T19:08:36.1973368+00:00"
+  "LastUpdate_Ratings": "2024-01-20T20:00:04.3268399+00:00",
+  "LastUpdate_Achievements": "2024-01-20T20:08:30.4433676+00:00"
 }
