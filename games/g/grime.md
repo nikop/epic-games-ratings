@@ -25,7 +25,7 @@ Number of Ratings: 46  (23.09.2022)
 | Glare | 0.70% | ~1,180 |
 | Predator | 0.70% | ~1,183 |
 | Assimilation | 0.60% | ~1,014 |
-| Host | 0.60% | ~1,011 |
+| Host | 0.60% | ~1,012 |
 | Celebration | 0.60% | ~1,014 |
 | Hunt Down | 0.50% | ~845 |
 | Artisan | 0.40% | ~676 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~169 |
 | Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 168,996 (Ranked 85)  
-Completed: 462 (0.27%) (Ranked 268)  
+Progressed: 169,002 (Ranked 85)  
+Completed: 462 (0.27%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -305,17 +305,17 @@ Completed: 462 (0.27%) (Ranked 268)
 | 2024-01-17 | 168,696 | 461 |
 | 2024-01-18 | 168,812 | 461 |
 | 2024-01-19 | 168,940 | 462 |
-| 2024-01-20 | 168,996 | 462 |
+| 2024-01-20 | 169,002 | 462 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 432)  
-Sum: 465 (Ranked 346)  
+Sum: 466 (Ranked 346)  
 Diff (max vs sum): 86  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 63 |
 | This game has Challenging Combat | 63 |
 | This game has Unique Visuals | 63 |
-| This game is Extremely Fun | 61 |
+| This game is Extremely Fun | 62 |
 | This game has Quickly Understood Controls | 59 |
 | This game has Amazing Storytelling | 59 |
 | This game has Amazing Characters | 56 |
@@ -511,3 +511,4 @@ Diff (max vs sum): 86
 | 2024-01-17 | 4.60 | - | 63 | 464 |
 | 2024-01-18 | 4.60 | - | 63 | 465 |
 | 2024-01-19 | 4.59 | - | 63 | 465 |
+| 2024-01-20 | 4.59 | - | 63 | 466 |

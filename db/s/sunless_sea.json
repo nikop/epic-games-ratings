@@ -4,11 +4,11 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 474,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 379,
+  "Ranking_PopularitySum": 378,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -770,18 +770,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 315,
       "NumberOfAwardsMax": 221
+    },
+    {
+      "Time": "2024-01-20T12:00:22.842535+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 316,
+      "NumberOfAwardsMax": 222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 315,
-  "NumberOfAwardsMax": 221,
+  "NumberOfAwards": 316,
+  "NumberOfAwardsMax": 222,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 221
+      "Count": 222
     },
     {
       "Text": "This game has Unique Visuals",
@@ -808,7 +814,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44583,
+  "EOS_Progressed": 44585,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 435,
   "EOS_NewCompleters": 0,
@@ -29003,6 +29009,11 @@
       "Time": "2024-01-20T11:04:53.5106994+00:00",
       "NumProgressed": 44583,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T12:05:01.524914+00:00",
+      "NumProgressed": 44585,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29094,7 +29105,7 @@
       "Name": "Storm\u0027s Curse",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_dawnmachine",
@@ -29134,7 +29145,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16050
+      "UsersEstimate": 16051
     },
     {
       "ID": "ach_die10",
@@ -29166,7 +29177,7 @@
       "Name": "We\u0027re Gonna Need a Bigger Boat",
       "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_eye",
@@ -29198,7 +29209,7 @@
       "Name": "Come Closer",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1337
+      "UsersEstimate": 1338
     },
     {
       "ID": "ach_legacycorrespondent",
@@ -29382,7 +29393,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6687
+      "UsersEstimate": 6688
     },
     {
       "ID": "ach_undercurrent",
@@ -29445,15 +29456,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44583,
+      "Progressed": 44585,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2024-01-05T23:59:49.2303848+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:04:53.5106989+00:00",
+  "LastChanged": "2024-01-20T12:00:22.8425348+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:05:01.5249134+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:35.0089011+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:00:12.8714176+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:04:53.5108397+00:00"
+  "LastUpdate_Ratings": "2024-01-20T12:00:22.8425352+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:05:01.5250785+00:00"
 }

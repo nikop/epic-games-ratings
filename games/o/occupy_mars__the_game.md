@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 4.00 (Ranked 1,054)  
+Rating: 4.00 (Ranked 1,055)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.00 (Ranked 1,054)
 | Electrician | 33.00% | ~629 |
 | Fear my botany powers, Mars | 32.00% | ~610 |
 | Occupy Mars! | 31.00% | ~591 |
-| Zero Waste | 29.00% | ~553 |
+| Zero Waste | 30.00% | ~572 |
 | Bob The Builder | 29.00% | ~553 |
 | I am the greatest botanist on this planet. | 28.00% | ~534 |
 | Gardener | 25.00% | ~476 |

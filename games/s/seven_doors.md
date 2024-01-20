@@ -9,11 +9,11 @@
 | Diogenes Syndrome | 43.00% | ~13 |
 | Egyptologist | 43.00% | ~13 |
 | No Fear of the Dark | 40.00% | ~12 |
+| The Last Skull | 40.00% | ~12 |
 | They’re Watching | 37.00% | ~11 |
 | Art Connoisseur | 37.00% | ~11 |
 | Survivor | 37.00% | ~11 |
-| The Last Skull | 37.00% | ~11 |
-| Master of Riddles | 30.00% | ~9 |
+| Master of Riddles | 33.00% | ~10 |
 | The Witch’s Haunt | 27.00% | ~8 |
 | A Cautious Man Is Worth Two of His Kind | 27.00% | ~8 |
 | A Cabin Boy with Potential | 23.00% | ~7 |

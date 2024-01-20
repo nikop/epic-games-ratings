@@ -2,12 +2,12 @@
   "ID": "f9bc208b965c4fb7afd0c842d764fc37",
   "Name": "Sherlock Holmes The Awakened",
   "ProductSlug": "sherlock-holmes-the-awakened",
-  "Ranking_Rating": 641,
+  "Ranking_Rating": 618,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 205,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.49,
+  "Rating": 4.5,
   "RatingHistory": [
     {
       "Time": "2023-04-12T21:57:08.1785831+00:00",
@@ -181,15 +181,21 @@
       "Rating": 4.49,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-20T12:03:17.4232443+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1531,
+  "EOS_Progressed": 1532,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -5462,6 +5468,11 @@
       "Time": "2024-01-20T09:04:17.6564789+00:00",
       "NumProgressed": 1531,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-20T12:03:43.3519819+00:00",
+      "NumProgressed": 1532,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5473,7 +5484,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "MQ01_2",
@@ -5481,7 +5492,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "MQ02_1",
@@ -5537,7 +5548,7 @@
       "Name": "History Check",
       "Percentage": 46,
       "XP": 40,
-      "UsersEstimate": 704
+      "UsersEstimate": 705
     },
     {
       "ID": "MQ03_4",
@@ -5545,7 +5556,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "MQ03_5",
@@ -5585,7 +5596,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "MQ05_2",
@@ -5601,7 +5612,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 43,
       "XP": 40,
-      "UsersEstimate": 658
+      "UsersEstimate": 659
     },
     {
       "ID": "MQ05_4",
@@ -5617,7 +5628,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 459
+      "UsersEstimate": 460
     },
     {
       "ID": "MQ06_2",
@@ -5625,7 +5636,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "MQ06_3",
@@ -5657,7 +5668,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "MQ08_1",
@@ -5696,16 +5707,16 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1531,
+      "Progressed": 1532,
       "Completed": 49
     }
   ],
   "FirstSeen": "2023-04-12T21:57:08.1785727+00:00",
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
-  "LastChanged": "2024-01-19T12:03:49.5981342+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:03:35.7229923+00:00",
+  "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:03:43.3519815+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:03:11.6568539+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:03:35.7230264+00:00"
+  "LastUpdate_Ratings": "2024-01-20T12:03:17.4232448+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:03:43.3520253+00:00"
 }

@@ -8,6 +8,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.50% | ~5,278 |
 | Right Back At Ya | 0.50% | ~5,278 |
+| True Soldier | 0.50% | ~5,278 |
 | Christmas Tree Attack | 0.40% | ~4,222 |
 | Life of the Road | 0.40% | ~4,222 |
 | Stanislavski's Method | 0.40% | ~4,222 |
@@ -15,8 +16,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.40% | ~4,222 |
 | The Lovers | 0.40% | ~4,222 |
 | The Wheel of Fortune | 0.40% | ~4,222 |
-| True Soldier | 0.40% | ~4,222 |
 | Legend of The Afterlife | 0.40% | ~4,222 |
+| All the President's Men | 0.40% | ~737 |
 | Bushido and Chill | 0.30% | ~3,167 |
 | Gun Fu | 0.30% | ~3,167 |
 | Master Crafter | 0.30% | ~3,167 |
@@ -26,12 +27,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.30% | ~3,167 |
 | True Warrior | 0.30% | ~3,167 |
 | Judy vs Night City | 0.30% | ~3,167 |
-| All the President's Men | 0.30% | ~553 |
 | Arachnophobia | 0.30% | ~553 |
 | To Protect and Serve | 0.20% | ~2,111 |
 | The Wandering Fool | 0.20% | ~2,111 |
 | Two Heads, One Bullet | 0.20% | ~2,111 |
 | Spin Doctor | 0.20% | ~368 |
+| Easy Come, Easy Go | 0.20% | ~368 |
 | City Lights | 0.10% | ~1,056 |
 | To Bad Decisions! | 0.10% | ~1,056 |
 | Autojock | 0.10% | ~1,056 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.10% | ~184 |
 | The Tower | 0.10% | ~184 |
 | Dirty Deeds | 0.10% | ~184 |
-| Easy Come, Easy Go | 0.10% | ~184 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,569 (Ranked 17)  
-Completed: 3,131 (0.30%) (Ranked 264)  
+Progressed: 1,055,614 (Ranked 17)  
+Completed: 3,133 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -349,15 +349,15 @@ Completed: 3,131 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,569 | 3,131 |
+| 2024-01-20 | 1,055,614 | 3,133 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
-Sum: 507,294 (Ranked 8)  
+Sum: 507,789 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 142,615 |
-| This game has Great Boss Battles | 106,097 |
+| This game has Great Boss Battles | 106,592 |
 | This game is Great for Beginners | 32,432 |
 | This game has Diverse Characters | 31,751 |
 | This game is Highly Recommended | 30,190 |
@@ -736,4 +736,4 @@ Diff (max vs sum): 0
 | 2024-01-17 | 4.67 | - | 141,662 | 501,784 |
 | 2024-01-18 | 4.67 | - | 142,143 | 504,220 |
 | 2024-01-19 | 4.67 | - | 142,615 | 506,646 |
-| 2024-01-20 | 4.67 | - | 142,615 | 507,294 |
+| 2024-01-20 | 4.67 | - | 142,615 | 507,789 |

@@ -355,7 +355,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19177,
+  "EOS_Progressed": 19178,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 2,
@@ -17865,6 +17865,11 @@
       "Time": "2024-01-20T11:04:07.171228+00:00",
       "NumProgressed": 19177,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-20T12:04:14.9076127+00:00",
+      "NumProgressed": 19178,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18117,7 +18122,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "32",
@@ -18133,7 +18138,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 564
+      "UsersEstimate": 565
     },
     {
       "ID": "34",
@@ -18156,22 +18161,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19177,
+      "Progressed": 19178,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5131,
-      "Completed": 1358
+      "Progressed": 5132,
+      "Completed": 1359
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-20T06:57:37.968972+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:04:07.1712278+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:04:14.9076124+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:57:25.7090778+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:04:07.1713566+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:57:34.9848441+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:04:14.9077464+00:00"
 }

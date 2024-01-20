@@ -15,7 +15,7 @@ Rating: 4.55 (Ranked 531)
 | Drone Dodger | 13.00% | ~2,493 |
 | Stogie for Fogey | 12.00% | ~2,301 |
 | Spore Taste | 12.00% | ~2,301 |
-| Zen Master | 11.00% | ~564 |
+| Zen Master | 11.00% | ~565 |
 | Call it Even | 10.00% | ~1,918 |
 | Safe Cracker | 10.00% | ~513 |
 | Madame Undersecretary | 10.00% | ~513 |
@@ -24,7 +24,7 @@ Rating: 4.55 (Ranked 531)
 | Drug Gifter | 8.00% | ~1,534 |
 | Thorston Mayer | 8.00% | ~1,534 |
 | Khan's Revenge | 8.00% | ~1,534 |
-| Keep Arjun in Check | 8.00% | ~410 |
+| Keep Arjun in Check | 8.00% | ~411 |
 | Doctor Approved | 7.00% | ~1,342 |
 | Bottoms up! | 7.00% | ~1,342 |
 | Master Negotiator | 6.00% | ~308 |
@@ -41,7 +41,7 @@ Rating: 4.55 (Ranked 531)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,177 (Ranked 160)  
+Progressed: 19,178 (Ranked 160)  
 Completed: 66 (0.34%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 66 (0.34%) (Ranked 254)
 | 2024-01-17 | 19,116 | 66 |
 | 2024-01-18 | 19,145 | 66 |
 | 2024-01-19 | 19,168 | 66 |
-| 2024-01-20 | 19,177 | 66 |
+| 2024-01-20 | 19,178 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

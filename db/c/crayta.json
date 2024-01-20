@@ -2,13 +2,13 @@
   "ID": "bb9f87bb3d0042258bb1c97397bc60f2",
   "Name": "Crayta",
   "ProductSlug": "crayta",
-  "Ranking_Rating": 978,
+  "Ranking_Rating": 979,
   "Ranking_Popularity": 465,
   "Ranking_PopularitySum": 369,
   "Ranking_EOS_Progress": 99,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 302,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": null,
     "PcReleaseDate": null,
@@ -332,9 +332,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 109988,
+  "EOS_Progressed": 109989,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4007,6 +4007,11 @@
       "Time": "2024-01-20T09:06:18.7147078+00:00",
       "NumProgressed": 109988,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T12:05:08.0200371+00:00",
+      "NumProgressed": 109989,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -4146,7 +4151,7 @@
       "Name": "Variety Player - Bronze",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 14298
+      "UsersEstimate": 14299
     },
     {
       "ID": "25",
@@ -4289,15 +4294,15 @@
     {
       "ID": "4i9cj6f",
       "IsBase": true,
-      "Progressed": 109988,
+      "Progressed": 109989,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:23:35.732973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:02.9835227+00:00",
   "LastChanged": "2023-01-05T14:57:39.5556866+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:04:59.8373344+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:05:08.0200367+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:14.6177057+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:00:15.2727214+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:04:59.8373712+00:00"
+  "LastUpdate_Ratings": "2024-01-20T12:00:25.3144312+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:05:08.0200737+00:00"
 }

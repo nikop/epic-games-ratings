@@ -4,7 +4,7 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 48,
-  "Ranking_EOS_NewPlayers": 398,
+  "Ranking_EOS_NewPlayers": 385,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 365,
+  "EOS_Progressed": 366,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.49,
+  "EOS_Completed_Percentage": 8.47,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1624,6 +1624,11 @@
       "Time": "2024-01-19T14:05:50.6663912+00:00",
       "NumProgressed": 365,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-20T12:06:10.0220458+00:00",
+      "NumProgressed": 366,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 16,
@@ -1675,7 +1680,7 @@
       "Name": "High-rise",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1699,7 +1704,7 @@
       "Name": "Family pond",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1707,7 +1712,7 @@
       "Name": "Make a wish",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -1715,7 +1720,7 @@
       "Name": "Catch a flight",
       "Percentage": 42,
       "XP": 30,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1723,7 +1728,7 @@
       "Name": "Way to the shore",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_6",
@@ -1731,7 +1736,7 @@
       "Name": "Private pool",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -1739,7 +1744,7 @@
       "Name": "Abducktion",
       "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1755,21 +1760,21 @@
       "Name": "Watery help",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d3ci0",
       "IsBase": true,
-      "Progressed": 365,
+      "Progressed": 366,
       "Completed": 31
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:06:01.6147815+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:06:10.0220454+00:00",
   "LastUpdate_AppInfo": "2024-01-14T05:57:06.5888113+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:57:12.4971272+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:06:01.6147956+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:57:20.0835791+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:06:10.0220664+00:00"
 }

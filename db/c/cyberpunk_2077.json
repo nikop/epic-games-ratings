@@ -18690,10 +18690,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 507294,
       "NumberOfAwardsMax": 142615
+    },
+    {
+      "Time": "2024-01-20T12:03:15.6650569+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 507789,
+      "NumberOfAwardsMax": 142615
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 507294,
+  "NumberOfAwards": 507789,
   "NumberOfAwardsMax": 142615,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18707,7 +18713,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 106097
+      "Count": 106592
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18770,10 +18776,10 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055569,
-  "EOS_Completed": 3131,
-  "EOS_NewPlayers": 6444,
-  "EOS_NewCompleters": 48,
+  "EOS_Progressed": 1055614,
+  "EOS_Completed": 3133,
+  "EOS_NewPlayers": 6400,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50280,6 +50286,11 @@
       "Time": "2024-01-20T11:09:04.0671341+00:00",
       "NumProgressed": 1055569,
       "NumCompleted": 3131
+    },
+    {
+      "Time": "2024-01-20T12:09:11.1888906+00:00",
+      "NumProgressed": 1055614,
+      "NumCompleted": 3133
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50586,9 +50597,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 4222
+      "UsersEstimate": 5278
     },
     {
       "ID": "TrueWarrior",
@@ -50746,9 +50757,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 553
+      "UsersEstimate": 737
     },
     {
       "ID": "HydraIsDead",
@@ -50818,30 +50829,30 @@
       "ID": "EasyComeEasyGo",
       "SetID": "23nboa5",
       "Name": "Easy Come, Easy Go",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 184
+      "UsersEstimate": 368
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055569,
-      "Completed": 3131
+      "Progressed": 1055614,
+      "Completed": 3133
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184192,
+      "Progressed": 184237,
       "Completed": 10664
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-20T06:02:58.5382342+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:09:04.0671339+00:00",
+  "LastChanged": "2024-01-20T12:03:15.6650567+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:09:11.1888904+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:03:09.9667015+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:09:04.0673344+00:00"
+  "LastUpdate_Ratings": "2024-01-20T12:03:15.6650573+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:09:11.1890906+00:00"
 }

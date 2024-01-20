@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1249,
+  "EOS_Progressed": 1252,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4327,6 +4327,11 @@
       "Time": "2024-01-20T10:09:05.9408656+00:00",
       "NumProgressed": 1249,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T12:09:45.941814+00:00",
+      "NumProgressed": 1252,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4339,7 +4344,7 @@
       "Name": "Bringer of Ruin",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ArleonCampaign",
@@ -4355,7 +4360,7 @@
       "Name": "Death To Diplomacy",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ArtifactsEquipped",
@@ -4363,7 +4368,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 187
+      "UsersEstimate": 188
     },
     {
       "ID": "AttackCount",
@@ -4403,7 +4408,7 @@
       "Name": "Hello There",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "CastEachSpell",
@@ -4443,7 +4448,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "Deepstrike",
@@ -4451,7 +4456,7 @@
       "Name": "Deepstrike",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "DieByTheBow",
@@ -4483,7 +4488,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 513
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4499,7 +4504,7 @@
       "Name": "In The Thick of It",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "FullHouse",
@@ -4523,7 +4528,7 @@
       "Name": "Killing Spree",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "LothCampaign",
@@ -4539,7 +4544,7 @@
       "Name": "An Empress\u0027s Hope",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MultiKill",
@@ -4547,7 +4552,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "MultiplayerWins",
@@ -4563,7 +4568,7 @@
       "Name": "Oops!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "PhoenixKills",
@@ -4595,7 +4600,7 @@
       "Name": "The Marsh Expands",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ReclaimTown",
@@ -4611,7 +4616,7 @@
       "Name": "Such A Fungi",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "SorcerousSpree",
@@ -4619,7 +4624,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4635,7 +4640,7 @@
       "Name": "Cleave",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "TownCompletion",
@@ -4651,7 +4656,7 @@
       "Name": "Trojan Horse",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "UltraKill",
@@ -4659,7 +4664,7 @@
       "Name": "Ultra Kill",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "WielderLevel1",
@@ -4667,7 +4672,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "WielderLevel2",
@@ -4675,7 +4680,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 287
+      "UsersEstimate": 288
     },
     {
       "ID": "WielderLevel3",
@@ -4683,7 +4688,7 @@
       "Name": "Master",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "WielderLevel4",
@@ -4691,7 +4696,7 @@
       "Name": "Grand Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "WinBattleBeforeEnemyTurn",
@@ -4723,7 +4728,7 @@
       "Name": "Veni, Vidi, Vici",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "WinSiegeAsDefender",
@@ -4770,15 +4775,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1249,
+      "Progressed": 1252,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:09:38.6989348+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:09:45.9418137+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.3891932+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:57:12.0424823+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:09:38.6989798+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:57:19.7265773+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:09:45.9418884+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1346,
+  "EOS_Progressed": 1347,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
@@ -4136,6 +4136,11 @@
       "Time": "2024-01-20T07:11:23.3384689+00:00",
       "NumProgressed": 1346,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T12:10:23.6188474+00:00",
+      "NumProgressed": 1347,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4155,7 +4160,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -4193,9 +4198,9 @@
       "ID": "ClockworkProgress1",
       "SetID": "a9e499d",
       "Name": "Like Clockwork",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 296
     },
     {
       "ID": "ClovemaryGift",
@@ -4243,7 +4248,7 @@
       "Name": "Family Memories",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "FactorywoodChests1",
@@ -4299,7 +4304,7 @@
       "Name": "Whiz Kid",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "GrindingTime1",
@@ -4403,7 +4408,7 @@
       "Name": "No, Thanks!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4427,7 +4432,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "RewindDamage1",
@@ -4435,7 +4440,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "RewindParry",
@@ -4443,7 +4448,7 @@
       "Name": "Honest Mistake",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4539,7 +4544,7 @@
       "Name": "Ask Questions Later",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 188
+      "UsersEstimate": 189
     },
     {
       "ID": "WatcherSpared",
@@ -4547,7 +4552,7 @@
       "Name": "Good Neighbor",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "Zarkon1Defeated",
@@ -4555,7 +4560,7 @@
       "Name": "The Brass Boss",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "Zarkon2Defeated",
@@ -4570,7 +4575,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1346,
+      "Progressed": 1347,
       "Completed": 8
     }
   ],
@@ -4578,8 +4583,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:10:16.2240534+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:10:23.6188472+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:57:55.8655133+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:10:16.2241092+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:58:04.5258948+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:10:23.6189141+00:00"
 }

@@ -6,48 +6,48 @@ Number of Ratings: 292  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Adept | 47.00% | ~587 |
-| Double Kill | 41.00% | ~512 |
-| Critical Hit | 23.00% | ~287 |
-| Veteran | 23.00% | ~287 |
-| Dressed For Success | 15.00% | ~187 |
-| Veni, Vidi, Vici | 11.00% | ~137 |
+| Adept | 47.00% | ~588 |
+| Double Kill | 41.00% | ~513 |
+| Critical Hit | 23.00% | ~288 |
+| Veteran | 23.00% | ~288 |
+| Dressed For Success | 15.00% | ~188 |
+| Veni, Vidi, Vici | 11.00% | ~138 |
 | Humiliation | 10.00% | ~125 |
-| Multi Kill | 9.00% | ~112 |
-| Sorcerous Spree | 9.00% | ~112 |
+| Multi Kill | 9.00% | ~113 |
+| Sorcerous Spree | 9.00% | ~113 |
 | Landlord Extraordinaire | 8.00% | ~100 |
-| Master | 7.00% | ~87 |
+| Master | 7.00% | ~88 |
 | The Song of Stoutheart | 6.00% | ~75 |
 | Whoops! | 6.00% | ~75 |
 | Don't Touch My Stuff | 6.00% | ~75 |
-| Trojan Horse | 5.00% | ~62 |
+| Trojan Horse | 5.00% | ~63 |
 | Expert Essence Employment | 4.00% | ~50 |
-| Ultra Kill | 3.00% | ~37 |
+| Ultra Kill | 3.00% | ~38 |
 | This Spot's Taken | 2.00% | ~25 |
 | Infernal Influence | 2.00% | ~25 |
 | From the Ashes | 2.00% | ~25 |
 | Pyrrhic Victory | 2.00% | ~25 |
 | Venisti, Vidisti, Perdidisti | 2.00% | ~25 |
-| Deepstrike | 1.00% | ~12 |
-| In The Thick of It | 1.00% | ~12 |
-| Such A Fungi | 1.00% | ~12 |
-| Grand Master | 1.00% | ~12 |
+| Deepstrike | 1.00% | ~13 |
+| In The Thick of It | 1.00% | ~13 |
+| Such A Fungi | 1.00% | ~13 |
+| Grand Master | 1.00% | ~13 |
 | Together For Her | 0.90% | ~11 |
 | Versatile Wielder | 0.80% | ~10 |
 | Unlimited Power! | 0.70% | ~9 |
-| Death To Diplomacy | 0.60% | ~7 |
-| Killing Spree | 0.60% | ~7 |
-| Cleave | 0.60% | ~7 |
+| Death To Diplomacy | 0.60% | ~8 |
+| Killing Spree | 0.60% | ~8 |
+| Cleave | 0.60% | ~8 |
 | Get Over Here! | 0.50% | ~6 |
 | Coming Through! | 0.40% | ~5 |
 | Attack Bonanza | 0.30% | ~4 |
 | Fully Charged | 0.30% | ~4 |
 | Barbecue | 0.30% | ~4 |
-| Bringer of Ruin | 0.20% | ~2 |
-| Hello There | 0.20% | ~2 |
-| An Empress's Hope | 0.20% | ~2 |
-| Oops! | 0.20% | ~2 |
-| The Marsh Expands | 0.20% | ~2 |
+| Bringer of Ruin | 0.20% | ~3 |
+| Hello There | 0.20% | ~3 |
+| An Empress's Hope | 0.20% | ~3 |
+| Oops! | 0.20% | ~3 |
+| The Marsh Expands | 0.20% | ~3 |
 | Kneel, peasant! | 0.10% | ~1 |
 | The Price of Freedom | 0.00% | ~0 |
 | A Free Man | 0.00% | ~0 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,249 (Ranked 288)  
+Progressed: 1,252 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -132,7 +132,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 1,218 | 0 |
 | 2024-01-18 | 1,231 | 0 |
 | 2024-01-19 | 1,244 | 0 |
-| 2024-01-20 | 1,249 | 0 |
+| 2024-01-20 | 1,252 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 528)  
 Sum: 252 (Ranked 401)  

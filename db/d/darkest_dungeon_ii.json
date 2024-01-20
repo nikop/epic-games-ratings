@@ -11094,9 +11094,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133292,
+  "EOS_Progressed": 133293,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 644,
+  "EOS_NewPlayers": 641,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40739,6 +40739,11 @@
       "Time": "2024-01-20T11:10:08.1517767+00:00",
       "NumProgressed": 133292,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T12:10:15.5346089+00:00",
+      "NumProgressed": 133293,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40878,7 +40883,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9330
+      "UsersEstimate": 9331
     },
     {
       "ID": "combat_kill_cadavers",
@@ -40910,7 +40915,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9330
+      "UsersEstimate": 9331
     },
     {
       "ID": "combat_kill_fanatics",
@@ -40974,7 +40979,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9330
+      "UsersEstimate": 9331
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41350,7 +41355,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 734
+      "UsersEstimate": 735
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41381,21 +41386,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133292,
+      "Progressed": 133293,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8161,
+      "Progressed": 8162,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-20T08:58:06.7268001+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:10:08.1517765+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:10:15.5346087+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:57:41.3348973+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:10:08.15193+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:57:48.9503643+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:10:15.5348153+00:00"
 }

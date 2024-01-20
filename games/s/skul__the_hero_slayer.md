@@ -8,12 +8,12 @@ Number of Ratings: 546  (23.09.2022)
 | ---- | ---------- | ----- |
 | The Legend Begins | 93.00% | ~13,844 |
 | What should I buy? | 80.00% | ~11,909 |
+| Rescued Elder Ent | 61.00% | ~9,080 |
 | Focus! | 60.00% | ~8,932 |
-| Rescued Elder Ent | 60.00% | ~8,932 |
 | The End of the Gold Mane Knights | 48.00% | ~7,145 |
 | False Goddess, Disappear | 40.00% | ~5,954 |
 | Rules of Etiquette | 38.00% | ~5,657 |
-| Inventory Management | 32.00% | ~4,764 |
+| Inventory Management | 33.00% | ~4,912 |
 | The Fall of the Leonia Order | 31.00% | ~4,615 |
 | Quick Movements | 30.00% | ~4,466 |
 | Go Home... | 28.00% | ~4,168 |
@@ -287,13 +287,13 @@ Completed: 22 (0.15%) (Ranked 297)
 | 2024-01-19 | 14,875 | 22 |
 | 2024-01-20 | 14,886 | 22 |
 ## Awards
-Max (Great for Beginners): 156  (Ranked 333)  
-Sum: 1,037 (Ranked 274)  
+Max (Diverse Characters): 156  (Ranked 333)  
+Sum: 1,038 (Ranked 274)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
+| This game has Diverse Characters | 156 |
 | This game is Great for Beginners | 156 |
-| This game has Diverse Characters | 155 |
 | This game is Highly Recommended | 126 |
 | This game is Extremely Fun | 118 |
 | This game is Relaxing | 116 |
@@ -487,3 +487,4 @@ Diff (max vs sum): 59
 | 2024-01-17 | 4.75 | - | 155 | 1,032 |
 | 2024-01-18 | 4.75 | - | 155 | 1,035 |
 | 2024-01-19 | 4.75 | - | 156 | 1,037 |
+| 2024-01-20 | 4.75 | - | 156 | 1,038 |

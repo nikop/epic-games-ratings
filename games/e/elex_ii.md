@@ -22,7 +22,7 @@ Number of Ratings: 124  (23.09.2022)
 | Eternal Oblivion | 17.00% | ~45 |
 | Banker | 16.00% | ~43 |
 | Storyteller | 15.00% | ~40 |
-| Globetrotter | 14.00% | ~37 |
+| Globetrotter | 15.00% | ~40 |
 | Berserker | 14.00% | ~37 |
 | Beam Me Up | 12.00% | ~32 |
 | Alb | 12.00% | ~32 |

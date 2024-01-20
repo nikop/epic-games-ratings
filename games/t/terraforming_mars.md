@@ -6,38 +6,38 @@ Number of Ratings: 2,731  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~33,748 |
-| Final touch | 33.00% | ~30,100 |
+| It's a steal! | 37.00% | ~33,749 |
+| Final touch | 33.00% | ~30,101 |
 | Prop-M Rover | 32.00% | ~29,188 |
-| Changing the Planet | 28.00% | ~25,539 |
-| Sojourner | 26.00% | ~23,715 |
+| Changing the Planet | 28.00% | ~25,540 |
+| Sojourner | 26.00% | ~23,716 |
 | New Home | 23.00% | ~20,979 |
 | Beagle 2 | 23.00% | ~20,979 |
-| Winner Winner Terraformer | 20.00% | ~18,242 |
-| Project Manager | 19.00% | ~17,330 |
-| Collector | 19.00% | ~17,330 |
-| Curiosity | 18.00% | ~16,418 |
-| Master | 18.00% | ~16,418 |
+| Winner Winner Terraformer | 20.00% | ~18,243 |
+| Project Manager | 19.00% | ~17,331 |
+| Collector | 19.00% | ~17,331 |
+| Curiosity | 18.00% | ~16,419 |
+| Master | 18.00% | ~16,419 |
 | No Longer Red | 17.00% | ~15,506 |
 | Self-sufficient | 17.00% | ~15,506 |
 | Money money | 15.00% | ~13,682 |
 | First Journey | 14.00% | ~12,770 |
-| Biggest Reward | 13.00% | ~11,857 |
-| Acquired knowledge | 12.00% | ~10,945 |
-| Landlord | 11.00% | ~10,033 |
-| Most Achievements | 11.00% | ~10,033 |
-| Hellenic Elysium | 11.00% | ~10,033 |
-| Grand champion | 11.00% | ~10,033 |
+| Biggest Reward | 13.00% | ~11,858 |
+| Acquired knowledge | 12.00% | ~10,946 |
+| Landlord | 11.00% | ~10,034 |
+| Most Achievements | 11.00% | ~10,034 |
+| Hellenic Elysium | 11.00% | ~10,034 |
+| Grand champion | 11.00% | ~10,034 |
 | Spirit | 10.00% | ~9,121 |
 | Variety Expert | 9.00% | ~8,209 |
 | Ultimate success | 9.00% | ~8,209 |
 | Frequent tester | 8.00% | ~7,297 |
 | Determined | 7.00% | ~6,385 |
-| Terraformer | 4.00% | ~3,648 |
+| Terraformer | 4.00% | ~3,649 |
 | Opportunity | 3.00% | ~2,736 |
 | Team Effort | 2.00% | ~1,824 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,211 (Ranked 107)  
+Progressed: 91,214 (Ranked 107)  
 Completed: 185 (0.20%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -312,7 +312,7 @@ Completed: 185 (0.20%) (Ranked 285)
 | 2024-01-17 | 90,943 | 184 |
 | 2024-01-18 | 91,055 | 185 |
 | 2024-01-19 | 91,157 | 185 |
-| 2024-01-20 | 91,211 | 185 |
+| 2024-01-20 | 91,214 | 185 |
 ## Awards
 Max (Relaxing): 545  (Ranked 219)  
 Sum: 3,356 (Ranked 181)  

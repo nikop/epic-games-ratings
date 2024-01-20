@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5409,7 +5409,7 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 24033,
+  "EOS_Progressed": 24035,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 0,
@@ -17229,6 +17229,11 @@
       "Time": "2024-01-20T11:08:59.5578668+00:00",
       "NumProgressed": 24033,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T12:09:06.6559349+00:00",
+      "NumProgressed": 24035,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17241,7 +17246,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8171
+      "UsersEstimate": 8172
     },
     {
       "ID": "ach02",
@@ -17249,7 +17254,7 @@
       "Name": "Eye Of The TaiGore",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4566
+      "UsersEstimate": 4567
     },
     {
       "ID": "ach03",
@@ -17257,7 +17262,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10815
+      "UsersEstimate": 10816
     },
     {
       "ID": "ach04",
@@ -17265,7 +17270,7 @@
       "Name": "What Just Happened??",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 7450
+      "UsersEstimate": 7451
     },
     {
       "ID": "ach05",
@@ -17281,7 +17286,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 16102
+      "UsersEstimate": 16103
     },
     {
       "ID": "ach07",
@@ -17289,7 +17294,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11055
+      "UsersEstimate": 11056
     },
     {
       "ID": "ach08",
@@ -17305,7 +17310,7 @@
       "Name": "Kontender",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3124
+      "UsersEstimate": 3125
     },
     {
       "ID": "ach10",
@@ -17353,7 +17358,7 @@
       "Name": "Give A Koin",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 4566
+      "UsersEstimate": 4567
     },
     {
       "ID": "ach16",
@@ -17377,7 +17382,7 @@
       "Name": "Adventure Time",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6729
+      "UsersEstimate": 6730
     },
     {
       "ID": "ach19",
@@ -17433,7 +17438,7 @@
       "Name": "Talis-Mania",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3845
+      "UsersEstimate": 3846
     },
     {
       "ID": "ach26",
@@ -17449,7 +17454,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6008
+      "UsersEstimate": 6009
     },
     {
       "ID": "ach28",
@@ -17487,9 +17492,9 @@
       "ID": "ach32",
       "SetID": "47in8n6",
       "Name": "Who Da Boss??",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 4566
+      "UsersEstimate": 4807
     },
     {
       "ID": "ach33",
@@ -17537,7 +17542,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8171
+      "UsersEstimate": 8172
     },
     {
       "ID": "ach39",
@@ -17633,14 +17638,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7450
+      "UsersEstimate": 7451
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24033,
+      "Progressed": 24035,
       "Completed": 2
     }
   ],
@@ -17648,8 +17653,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-20T09:03:18.6030916+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:08:59.5578664+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:09:06.6559344+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:02:52.6147071+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:08:59.5579604+00:00"
+  "LastUpdate_Ratings": "2024-01-20T12:03:00.509026+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:09:06.6560756+00:00"
 }

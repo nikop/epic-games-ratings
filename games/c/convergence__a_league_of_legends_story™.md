@@ -5,35 +5,35 @@ Rating: 4.66 (Ranked 305)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 48.00% | ~646 |
+| Time Heals All Wounds | 48.00% | ~647 |
 | Rail Rat | 36.00% | ~485 |
 | The Mysterious Stranger | 35.00% | ~471 |
 | Immaculate Aim | 30.00% | ~404 |
-| The Brass Boss | 29.00% | ~390 |
+| The Brass Boss | 29.00% | ~391 |
 | Time Flies | 28.00% | ~377 |
-| No, Thanks! | 27.00% | ~363 |
-| The Prince in Heels | 27.00% | ~363 |
-| Honest Mistake | 27.00% | ~363 |
+| No, Thanks! | 27.00% | ~364 |
+| The Prince in Heels | 27.00% | ~364 |
+| Honest Mistake | 27.00% | ~364 |
 | Make Up For Lost Time | 26.00% | ~350 |
 | The Harder They Fall | 26.00% | ~350 |
 | Fast Learner | 26.00% | ~350 |
 | Immaculate Aim | 26.00% | ~350 |
-| The Steel Shadow | 25.00% | ~336 |
+| The Steel Shadow | 25.00% | ~337 |
 | Breaking Down Barriers | 24.00% | ~323 |
 | The Wicked Twins | 24.00% | ~323 |
 | Right On Time | 23.00% | ~310 |
-| Like Clockwork | 23.00% | ~310 |
 | Golem Chaser | 23.00% | ~310 |
+| Like Clockwork | 22.00% | ~296 |
 | The Betrayer | 22.00% | ~296 |
 | Check Your Pulse | 21.00% | ~283 |
 | The Loose Cannon | 20.00% | ~269 |
 | Street Style | 19.00% | ~256 |
 | The Man Who Shattered Time | 19.00% | ~256 |
 | The Family Fortune | 19.00% | ~256 |
-| Whiz Kid | 16.00% | ~215 |
-| Good Neighbor | 16.00% | ~215 |
-| Family Memories | 14.00% | ~188 |
-| Ask Questions Later | 14.00% | ~188 |
+| Whiz Kid | 16.00% | ~216 |
+| Good Neighbor | 16.00% | ~216 |
+| Family Memories | 14.00% | ~189 |
+| Ask Questions Later | 14.00% | ~189 |
 | Chaincrawler Explorer | 13.00% | ~175 |
 | Syron for Hope | 13.00% | ~175 |
 | Treasure Trove | 12.00% | ~162 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 305)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,346 (Ranked 282)  
+Progressed: 1,347 (Ranked 282)  
 Completed: 8 (0.59%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,7 +240,7 @@ Completed: 8 (0.59%) (Ranked 215)
 | 2024-01-17 | 1,335 | 8 |
 | 2024-01-18 | 1,339 | 8 |
 | 2024-01-19 | 1,343 | 8 |
-| 2024-01-20 | 1,346 | 8 |
+| 2024-01-20 | 1,347 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

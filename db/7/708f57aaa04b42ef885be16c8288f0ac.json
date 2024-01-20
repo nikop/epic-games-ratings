@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 167,
+  "Ranking_Rating": 166,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 175,
@@ -461,9 +461,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15126,
+  "EOS_Progressed": 15127,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 357,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.19,
   "EosHistory": [
@@ -10996,6 +10996,11 @@
       "Time": "2024-01-20T11:10:08.4130346+00:00",
       "NumProgressed": 15126,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-20T12:10:15.8425593+00:00",
+      "NumProgressed": 15127,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11064,7 +11069,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "FasterThanLight",
@@ -11080,7 +11085,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8319
+      "UsersEstimate": 8320
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11112,7 +11117,7 @@
       "Name": "Half Man, Half Machine",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3176
+      "UsersEstimate": 3177
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -11160,7 +11165,7 @@
       "Name": "No More Totems",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1966
+      "UsersEstimate": 1967
     },
     {
       "ID": "NotLikeTheOthers",
@@ -11208,7 +11213,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6504
+      "UsersEstimate": 6505
     },
     {
       "ID": "ThisIsDharma",
@@ -11216,7 +11221,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2571
+      "UsersEstimate": 2572
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -11279,7 +11284,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15126,
+      "Progressed": 15127,
       "Completed": 28
     }
   ],
@@ -11287,8 +11292,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-18T17:57:24.8025675+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:10:08.4130341+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:10:15.842559+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:57:52.5826385+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:10:08.413091+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:57:59.5602797+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:10:15.8426342+00:00"
 }

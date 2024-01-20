@@ -5,14 +5,14 @@ Rating: 4.63 (Ranked 358)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 18.00% | ~1,309 |
+| Secret Technique | 18.00% | ~1,310 |
 | Realm Estate | 16.00% | ~1,164 |
 | A Wonderful Discovery | 15.00% | ~1,091 |
 | Walls Cannot Stop Us | 15.00% | ~1,091 |
 | From Friends to Family | 13.00% | ~946 |
 | Bone Peddler | 11.00% | ~800 |
-| Full Ascension | 10.00% | ~727 |
-| Magical Synergy | 10.00% | ~727 |
+| Full Ascension | 10.00% | ~728 |
+| Magical Synergy | 10.00% | ~728 |
 | There Can Only Be One! | 9.00% | ~655 |
 | Stronger Together | 9.00% | ~655 |
 | Seat of Power | 9.00% | ~655 |
@@ -33,20 +33,20 @@ Rating: 4.63 (Ranked 358)
 | Tipping the Scales | 3.00% | ~218 |
 | Mighty Hoard | 3.00% | ~218 |
 | Freed Lands of Manuhari | 3.00% | ~218 |
-| I've Got Everything I Need Right Here | 2.00% | ~145 |
-| God Emperor | 2.00% | ~145 |
-| Lord of Chaos | 2.00% | ~145 |
-| Arch Mage | 2.00% | ~145 |
-| The Creator | 2.00% | ~145 |
-| The Goddess of Nature | 2.00% | ~145 |
-| Eternal Lord | 2.00% | ~145 |
-| The Eternal Court | 2.00% | ~145 |
-| Grexolis | 2.00% | ~145 |
-| Blood of the Dragon | 2.00% | ~145 |
-| Sehiran Oasis | 2.00% | ~145 |
-| Chaos Surge | 2.00% | ~145 |
-| Spoils of War | 2.00% | ~145 |
-| Dawn of the Dread | 2.00% | ~145 |
+| I've Got Everything I Need Right Here | 2.00% | ~146 |
+| God Emperor | 2.00% | ~146 |
+| Lord of Chaos | 2.00% | ~146 |
+| Arch Mage | 2.00% | ~146 |
+| The Creator | 2.00% | ~146 |
+| The Goddess of Nature | 2.00% | ~146 |
+| Eternal Lord | 2.00% | ~146 |
+| The Eternal Court | 2.00% | ~146 |
+| Grexolis | 2.00% | ~146 |
+| Blood of the Dragon | 2.00% | ~146 |
+| Sehiran Oasis | 2.00% | ~146 |
+| Chaos Surge | 2.00% | ~146 |
+| Spoils of War | 2.00% | ~146 |
+| Dawn of the Dread | 2.00% | ~146 |
 | Manufactured War | 1.00% | ~73 |
 | Pruning for Progress | 1.00% | ~73 |
 | One for All, All for One | 1.00% | ~73 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 358)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,274 (Ranked 201)  
+Progressed: 7,275 (Ranked 201)  
 Completed: 8 (0.11%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 8 (0.11%) (Ranked 312)
 | 2024-01-16 | 7,262 | 8 |
 | 2024-01-17 | 7,267 | 8 |
 | 2024-01-19 | 7,273 | 8 |
-| 2024-01-20 | 7,274 | 8 |
+| 2024-01-20 | 7,275 | 8 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 482)  
 Sum: 240 (Ranked 407)  

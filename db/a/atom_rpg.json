@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,9 +427,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1752,
+  "EOS_Progressed": 1753,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4747,6 +4747,11 @@
       "Time": "2024-01-19T21:11:07.8809545+00:00",
       "NumProgressed": 1752,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T12:10:14.5239079+00:00",
+      "NumProgressed": 1753,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4814,7 +4819,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "EXPERT_1",
@@ -4910,7 +4915,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -5045,15 +5050,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1752,
+      "Progressed": 1753,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:10:07.0832851+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:10:14.5239076+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:35.4928837+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:57:02.8436244+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:10:07.0833717+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:57:10.9791217+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:10:14.5239517+00:00"
 }

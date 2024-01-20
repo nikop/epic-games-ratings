@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 292,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4025,9 +4025,9 @@
       "Count": 351
     }
   ],
-  "EOS_Progressed": 20908,
+  "EOS_Progressed": 20911,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 168,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -20120,6 +20120,11 @@
       "Time": "2024-01-20T10:08:09.1729118+00:00",
       "NumProgressed": 20908,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-20T12:08:45.9758703+00:00",
+      "NumProgressed": 20911,
+      "NumCompleted": 35
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20348,7 +20353,7 @@
       "Name": "Royal Outpost",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "WinNearRuins",
@@ -20388,7 +20393,7 @@
       "Name": "Watchtower",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "WinOnCoral",
@@ -20444,7 +20449,7 @@
       "Name": "A Real Challenge",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1046
     },
     {
       "ID": "WinWIthCaches",
@@ -20540,7 +20545,7 @@
       "Name": "Frosts",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "WinNearGreed",
@@ -20548,7 +20553,7 @@
       "Name": "Land of Greed",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "WinNearLibrary",
@@ -20572,7 +20577,7 @@
       "Name": "Ominous Presence",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1254
+      "UsersEstimate": 1255
     },
     {
       "ID": "WinNearStorms",
@@ -20603,15 +20608,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20908,
+      "Progressed": 20911,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-20T05:59:40.4490186+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:08:39.7151713+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:08:45.9758701+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:28.6659696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:59:52.2550058+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:08:39.7152792+00:00"
+  "LastUpdate_Ratings": "2024-01-20T12:00:02.4291826+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:08:45.9760275+00:00"
 }

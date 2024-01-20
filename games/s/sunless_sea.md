@@ -6,10 +6,10 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,050 |
+| Sink Beneath the Waves | 36.00% | ~16,051 |
 | Sweet Sorrow | 18.00% | ~8,025 |
 | Rules the Waves | 17.00% | ~7,579 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,687 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,688 |
 | Rival | 14.00% | ~6,242 |
 | Correspondent | 12.00% | ~5,350 |
 | Lose Your Mind | 12.00% | ~5,350 |
@@ -26,9 +26,9 @@ Number of Ratings: 401  (23.09.2022)
 | Zee Fever | 5.00% | ~2,229 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,783 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,783 |
-| Storm's Curse | 3.00% | ~1,337 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,337 |
-| Come Closer | 3.00% | ~1,337 |
+| Storm's Curse | 3.00% | ~1,338 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,338 |
+| Come Closer | 3.00% | ~1,338 |
 | Roaring Rise | 2.00% | ~892 |
 | I am the Captain of my Soul | 2.00% | ~892 |
 | A buoyant escape | 1.00% | ~446 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,583 (Ranked 133)  
+Progressed: 44,585 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,14 +336,14 @@ Completed: 4 (0.01%) (Ranked 380)
 | 2024-01-17 | 44,437 | 4 |
 | 2024-01-18 | 44,492 | 4 |
 | 2024-01-19 | 44,547 | 4 |
-| 2024-01-20 | 44,583 | 4 |
+| 2024-01-20 | 44,585 | 4 |
 ## Awards
-Max (Character Customization): 221  (Ranked 292)  
-Sum: 315 (Ranked 379)  
-Diff (max vs sum): -87  
+Max (Character Customization): 222  (Ranked 292)  
+Sum: 316 (Ranked 378)  
+Diff (max vs sum): -86  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 221 |
+| This game has Inclusive Character Customization | 222 |
 | This game has Amazing Storytelling | 27 |
 | This game has Unique Visuals | 25 |
 | This game has Quickly Understood Controls | 22 |
@@ -460,3 +460,4 @@ Diff (max vs sum): -87
 | 2023-12-24 | 4.58 | - | 221 | 315 |
 | 2023-12-30 | 4.59 | - | 221 | 315 |
 | 2024-01-05 | 4.58 | - | 221 | 315 |
+| 2024-01-20 | 4.58 | - | 222 | 316 |

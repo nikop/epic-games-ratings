@@ -22,20 +22,20 @@
 | Armor Annihilator | 2.00% | ~1 |
 | A Twist of Fate | 2.00% | ~1 |
 | Strength | 2.00% | ~1 |
+| Elite Warrior | 2.00% | ~1 |
 | For Justice | 2.00% | ~1 |
 | Breach of Contract | 2.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Hermit | 0.00% | ~0 |
 | Tower | 0.00% | ~0 |
 | No Mercy | 0.00% | ~0 |
-| Elite Warrior | 0.00% | ~0 |
 | Criminal Investigator | 0.00% | ~0 |
 | Elite Scholar | 0.00% | ~0 |
 | Conqueror of the Devil Blade | 0.00% | ~0 |
 | Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 567)  
+Progressed: 49 (Ranked 568)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |

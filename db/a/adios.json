@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1103,
+  "Ranking_Rating": 1104,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 109,
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 83988,
+  "EOS_Progressed": 83990,
   "EOS_Completed": 946,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30847,6 +30847,11 @@
       "Time": "2024-01-20T11:04:43.3056794+00:00",
       "NumProgressed": 83988,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-20T12:04:51.533206+00:00",
+      "NumProgressed": 83990,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30890,7 +30895,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18477
+      "UsersEstimate": 18478
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -30954,7 +30959,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4199
+      "UsersEstimate": 4200
     },
     {
       "ID": "Master, Commander",
@@ -30962,7 +30967,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17637
+      "UsersEstimate": 17638
     },
     {
       "ID": "Meaty",
@@ -31010,7 +31015,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11758
+      "UsersEstimate": 11759
     },
     {
       "ID": "Sniper",
@@ -31057,7 +31062,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 83988,
+      "Progressed": 83990,
       "Completed": 946
     }
   ],
@@ -31065,8 +31070,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:04:43.3056788+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:04:51.5332054+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:02:36.6818199+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:04:43.3058417+00:00"
+  "LastUpdate_Ratings": "2024-01-20T12:02:45.1025399+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:04:51.5334488+00:00"
 }

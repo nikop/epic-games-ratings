@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 176,
   "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-12T14:00:00+00:00",
     "PcReleaseDate": "2021-01-20T16:19:00+00:00",
@@ -1515,12 +1515,18 @@
       "Rating": 4.75,
       "NumberOfAwards": 1037,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2024-01-20T11:58:19.5730066+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 1038,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1037,
+  "NumberOfAwards": 1038,
   "NumberOfAwardsMax": 156,
-  "MaxAwardTitle": "Great for Beginners",
+  "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
       "Text": "This game is Extremely Fun",
@@ -1538,7 +1544,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 155
+      "Count": 156
     },
     {
       "Text": "This game is Highly Recommended",
@@ -1591,7 +1597,7 @@
   ],
   "EOS_Progressed": 14886,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 223,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10591,9 +10597,9 @@
       "ID": "SavedElderEnt",
       "SetID": "97dk767",
       "Name": "Rescued Elder Ent",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 8932
+      "UsersEstimate": 9080
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10615,9 +10621,9 @@
       "ID": "StockManagement",
       "SetID": "97dk767",
       "Name": "Inventory Management",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4764
+      "UsersEstimate": 4912
     },
     {
       "ID": "TheLegendBegins",
@@ -10662,9 +10668,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-01-19T20:58:35.3265867+00:00",
-  "LastChanged_Achievements": "2024-01-20T11:09:27.8426341+00:00",
+  "LastChanged": "2024-01-20T11:58:19.5730064+00:00",
+  "LastChanged_Achievements": "2024-01-20T12:09:34.6853629+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:30.6604975+00:00",
-  "LastUpdate_Ratings": "2024-01-20T10:58:10.8220332+00:00",
-  "LastUpdate_Achievements": "2024-01-20T11:09:27.8426919+00:00"
+  "LastUpdate_Ratings": "2024-01-20T11:58:19.5730069+00:00",
+  "LastUpdate_Achievements": "2024-01-20T12:09:34.6854204+00:00"
 }
