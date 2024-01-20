@@ -1,7 +1,7 @@
 # Kill It With Fire
 [Store](https://store.epicgames.com/en-US/p/kill-it-with-fire)  
 [View Rawdata](../../db/k/kill_it_with_fire.json)  
-Rating: 4.61 (Ranked 400)  
+Rating: 4.62 (Ranked 380)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -19,3 +19,4 @@ Rating: 4.61 (Ranked 400)
 | 2023-12-16 | 4.60 | 0 | 0 |
 | 2023-12-27 | 4.59 | 0 | 0 |
 | 2024-01-07 | 4.61 | 0 | 0 |
+| 2024-01-20 | 4.62 | 0 | 0 |

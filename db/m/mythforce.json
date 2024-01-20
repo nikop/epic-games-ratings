@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 330,
   "Ranking_EOS_NewPlayers": 188,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -872,9 +872,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6416,
+  "EOS_Progressed": 6418,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13507,6 +13507,11 @@
       "Time": "2024-01-20T01:51:55.454713+00:00",
       "NumProgressed": 6416,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T04:04:12.991515+00:00",
+      "NumProgressed": 6418,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13559,7 +13564,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -13567,7 +13572,7 @@
       "Name": "Faceroll the Bones",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "MF_Ach_FirstStrike",
@@ -13607,7 +13612,7 @@
       "Name": "Hit \u0027Em Where It Hurts",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "MF_Ach_HorderBetterFasterStronger",
@@ -13623,7 +13628,7 @@
       "Name": "We\u0027ve Got a Kaiju on the Field",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -13639,7 +13644,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13655,7 +13660,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13679,7 +13684,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13687,7 +13692,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1668
+      "UsersEstimate": 1669
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13702,15 +13707,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6416,
+      "Progressed": 6418,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-19T17:58:27.7315829+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:03:58.0648628+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:04:12.9915146+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:58:35.3547918+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:03:58.0649374+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:58:46.891332+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:04:12.9915879+00:00"
 }

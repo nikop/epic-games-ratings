@@ -5,29 +5,29 @@ Rating: 4.17 (Ranked 991)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,556 |
+| Break Out | 65.00% | ~1,557 |
 | Trinity | 35.00% | ~838 |
-| The Collector | 29.00% | ~694 |
-| Find Allies | 27.00% | ~646 |
-| A Taste of Wrath | 27.00% | ~646 |
-| Adventurer | 26.00% | ~622 |
-| Shatter Them All | 26.00% | ~622 |
-| Geared Up | 26.00% | ~622 |
-| Scholar | 25.00% | ~598 |
-| I Found It | 25.00% | ~598 |
+| The Collector | 29.00% | ~695 |
+| Find Allies | 27.00% | ~647 |
+| A Taste of Wrath | 27.00% | ~647 |
+| Adventurer | 26.00% | ~623 |
+| Shatter Them All | 26.00% | ~623 |
+| Geared Up | 26.00% | ~623 |
+| Scholar | 25.00% | ~599 |
+| I Found It | 25.00% | ~599 |
 | Fashion Victim | 24.00% | ~575 |
+| Stone Collection | 24.00% | ~575 |
 | Tributes of Caladrias | 23.00% | ~551 |
-| Stone Collection | 23.00% | ~551 |
 | Powerful Allies | 22.00% | ~527 |
 | Big Bazar | 16.00% | ~383 |
 | Alchemist | 15.00% | ~359 |
 | Essence Blow | 14.00% | ~335 |
 | The Mentor | 12.00% | ~287 |
 | Calm before the Storm | 11.00% | ~263 |
-| To Battle | 10.00% | ~239 |
-| Godslayer | 9.00% | ~215 |
-| Airborne | 9.00% | ~215 |
-| Miner | 9.00% | ~215 |
+| To Battle | 10.00% | ~240 |
+| Godslayer | 9.00% | ~216 |
+| Airborne | 9.00% | ~216 |
+| Miner | 9.00% | ~216 |
 | Shatterer | 6.00% | ~144 |
 | Fine Feathers Make Fine Birds | 6.00% | ~144 |
 | Clear Sight | 5.00% | ~120 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 991)
 | All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,394 (Ranked 247)  
+Progressed: 2,395 (Ranked 247)  
 Completed: 5 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-17 | 2,374 | 5 |
 | 2024-01-18 | 2,380 | 5 |
 | 2024-01-19 | 2,391 | 5 |
-| 2024-01-20 | 2,394 | 5 |
+| 2024-01-20 | 2,395 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10996,10 +10996,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21765,
       "NumberOfAwardsMax": 8048
+    },
+    {
+      "Time": "2024-01-20T03:57:43.5395377+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21768,
+      "NumberOfAwardsMax": 8048
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21765,
+  "NumberOfAwards": 21768,
   "NumberOfAwardsMax": 8048,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11019,7 +11025,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1610
+      "Count": 1613
     },
     {
       "Text": "This game is Extremely Fun",
@@ -11076,9 +11082,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133265,
+  "EOS_Progressed": 133269,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 653,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40686,6 +40692,11 @@
       "Time": "2024-01-20T03:09:42.4691306+00:00",
       "NumProgressed": 133265,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T04:09:57.6123898+00:00",
+      "NumProgressed": 133269,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41049,7 +41060,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10661
+      "UsersEstimate": 10662
     },
     {
       "ID": "hero_story_complete_all",
@@ -41241,7 +41252,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41328,21 +41339,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133265,
+      "Progressed": 133269,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8134,
+      "Progressed": 8138,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-20T01:44:49.9484343+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:09:42.4691303+00:00",
+  "LastChanged": "2024-01-20T03:57:43.5395375+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:09:57.6123895+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:57:31.8168578+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:09:42.4693093+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:57:43.5395381+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:09:57.6125502+00:00"
 }

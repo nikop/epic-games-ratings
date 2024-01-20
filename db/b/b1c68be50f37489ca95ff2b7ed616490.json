@@ -4,8 +4,8 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 388,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
     "PcReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 345,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1474,6 +1474,11 @@
       "Time": "2024-01-19T16:05:48.0105861+00:00",
       "NumProgressed": 344,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T04:04:45.4367641+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1486,7 +1491,7 @@
       "Name": "A mystery? No! A trifle for Poirot!",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 220
+      "UsersEstimate": 221
     },
     {
       "ID": "10",
@@ -1701,14 +1706,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 345,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:04:30.4681304+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:04:45.4367637+00:00",
   "LastUpdate_AppInfo": "2024-01-18T06:57:12.8329669+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:02:54.6590312+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:04:30.4681791+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:03:07.6497015+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:04:45.4367907+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 465,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -872,9 +872,9 @@
       "ID": "Defeat_Hokan",
       "SetID": "7b9f97e",
       "Name": "Defeat Hokan",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "Defeat_Ianna",
@@ -1080,9 +1080,9 @@
       "ID": "MainCampaign_Alchemist",
       "SetID": "7b9f97e",
       "Name": "Master Alchemist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "MainCampaign_Artificer",
@@ -1104,9 +1104,9 @@
       "ID": "MainCampaign_CirclePage_AllfireNodes",
       "SetID": "7b9f97e",
       "Name": "A Monopoly of Might",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 14
     },
     {
       "ID": "MainCampaign_CirclePage_Apprentices",
@@ -1144,17 +1144,17 @@
       "ID": "MainCampaign_Hard",
       "SetID": "7b9f97e",
       "Name": "Hard Life",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "MainCampaign_Intended",
       "SetID": "7b9f97e",
       "Name": "Balanced",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9
+      "UsersEstimate": 11
     },
     {
       "ID": "MainCampaign_Necromancer",
@@ -1353,8 +1353,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:09:29.466165+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:09:44.6348146+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:30.0714163+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:57:02.9029399+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:09:29.4662109+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:57:14.7205016+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:09:44.6348636+00:00"
 }

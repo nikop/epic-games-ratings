@@ -39,37 +39,37 @@
 | A Master of Magic | 11.00% | ~17 |
 | Mage Teacher | 10.00% | ~15 |
 | Friend of Windholme | 10.00% | ~15 |
+| A Monopoly of Might | 9.00% | ~14 |
 | A Joke | 9.00% | ~14 |
 | Defeat Gor | 8.00% | ~12 |
+| Defeat Hokan | 8.00% | ~12 |
 | Defeat Uram | 8.00% | ~12 |
 | Yngrid's Tale | 8.00% | ~12 |
 | The Forge of Regan Gor | 8.00% | ~12 |
 | Tuscari Sea Portal | 8.00% | ~12 |
 | Fireforge | 8.00% | ~12 |
-| A Monopoly of Might | 8.00% | ~12 |
 | Friend of Uram Gor | 8.00% | ~12 |
-| Defeat Hokan | 7.00% | ~11 |
 | Defeat Ianna | 7.00% | ~11 |
 | Defeat Raith | 7.00% | ~11 |
 | Crypt of the Revenant | 7.00% | ~11 |
 | Master Artificer | 7.00% | ~11 |
 | Heroes | 7.00% | ~11 |
+| Balanced | 7.00% | ~11 |
 | Get to the Airship! | 6.00% | ~9 |
 | Defeat Undergast | 6.00% | ~9 |
 | Elynn's Tale | 6.00% | ~9 |
 | My Friends! | 6.00% | ~9 |
-| Balanced | 6.00% | ~9 |
 | Friend of Grey Dusk Vale | 6.00% | ~9 |
 | Defeat Rohen | 5.00% | ~8 |
 | Defeat Yria | 5.00% | ~8 |
 | Lore's Tale | 5.00% | ~8 |
 | Lytra's Tale | 5.00% | ~8 |
 | Misty Coast Dragonbones | 5.00% | ~8 |
+| Master Alchemist | 5.00% | ~8 |
 | Breaking the circle | 5.00% | ~8 |
 | Master Necromancer | 5.00% | ~8 |
 | Defeat Isgrimm | 4.00% | ~6 |
-| Master Alchemist | 4.00% | ~6 |
-| Hard Life | 1.00% | ~2 |
+| Hard Life | 2.00% | ~3 |
 | Impossible Mission | 1.00% | ~2 |
 | Potion Master | 0.00% | ~0 |
 | Master Smith | 0.00% | ~0 |

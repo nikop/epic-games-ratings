@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 295,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5393,9 +5393,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83045,
+  "EOS_Progressed": 83046,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 426,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -30893,6 +30893,11 @@
       "Time": "2024-01-20T03:05:44.0609253+00:00",
       "NumProgressed": 83045,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-20T04:05:59.7951694+00:00",
+      "NumProgressed": 83046,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -30984,7 +30989,7 @@
       "Name": "End of an Era",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9965
+      "UsersEstimate": 9966
     },
     {
       "ID": "APPLY_STATUS",
@@ -31064,7 +31069,7 @@
       "Name": "Not On My Watch",
       "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 9965
+      "UsersEstimate": 9966
     },
     {
       "ID": "DEFEAT_COO_1",
@@ -31080,7 +31085,7 @@
       "Name": "Bulldozed",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9965
+      "UsersEstimate": 9966
     },
     {
       "ID": "DEFEAT_LOS_1",
@@ -31120,7 +31125,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 8304
+      "UsersEstimate": 8305
     },
     {
       "ID": "FREEZE_1",
@@ -31208,7 +31213,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28235
+      "UsersEstimate": 28236
     },
     {
       "ID": "HARLEY_2",
@@ -31248,7 +31253,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41522
+      "UsersEstimate": 41523
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31352,7 +31357,7 @@
       "Name": "Gotham Knight",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 9965
+      "UsersEstimate": 9966
     },
     {
       "ID": "SECRET_CACHE",
@@ -31391,13 +31396,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83045,
+      "Progressed": 83046,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53325,
+      "Progressed": 53326,
       "Completed": 2680
     }
   ],
@@ -31405,8 +31410,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-19T22:57:50.8336783+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:05:44.0609248+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:05:59.7951689+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:48.9643696+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:57:50.399285+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:05:44.0610556+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:58:03.3600566+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:05:59.7953465+00:00"
 }

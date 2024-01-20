@@ -5,8 +5,8 @@ Rating: 4.19 (Ranked 978)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,522 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,235 |
+| First Step Into the Knight | 50.00% | ~41,523 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,236 |
 | Loose Ends | 33.00% | ~27,405 |
 | To the Victor Go the Spoils | 27.00% | ~22,422 |
 | Knighthood | 26.00% | ~21,592 |
@@ -30,12 +30,12 @@ Rating: 4.19 (Ranked 978)
 | Voiceless | 14.00% | ~11,626 |
 | Shock Til They Drop | 13.00% | ~10,796 |
 | Seeking Asylum | 13.00% | ~10,796 |
-| End of an Era | 12.00% | ~9,965 |
-| Not On My Watch | 12.00% | ~9,965 |
-| Bulldozed | 12.00% | ~9,965 |
-| Gotham Knight | 12.00% | ~9,965 |
+| End of an Era | 12.00% | ~9,966 |
+| Not On My Watch | 12.00% | ~9,966 |
+| Bulldozed | 12.00% | ~9,966 |
+| Gotham Knight | 12.00% | ~9,966 |
 | Gotham City Confidential | 11.00% | ~9,135 |
-| Drone You Out | 10.00% | ~8,304 |
+| Drone You Out | 10.00% | ~8,305 |
 | Out of Their League | 9.00% | ~7,474 |
 | Solid Alibi | 8.00% | ~6,644 |
 | Fusion Expert | 7.00% | ~5,813 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 978)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,045 (Ranked 110)  
+Progressed: 83,046 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
-| 2024-01-20 | 83,045 | 135 |
+| 2024-01-20 | 83,046 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,232  (Ranked 102)  
 Sum: 5,523 (Ranked 145)  

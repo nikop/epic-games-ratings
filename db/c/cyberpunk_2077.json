@@ -18758,9 +18758,9 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055283,
+  "EOS_Progressed": 1055315,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6715,
+  "EOS_NewPlayers": 6676,
   "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50228,6 +50228,11 @@
       "Time": "2024-01-20T03:08:37.8980951+00:00",
       "NumProgressed": 1055283,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-20T04:08:52.1863252+00:00",
+      "NumProgressed": 1055315,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50478,9 +50483,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3166
+      "UsersEstimate": 4221
     },
     {
       "ID": "TheStar",
@@ -50775,21 +50780,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055283,
+      "Progressed": 1055315,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183906,
+      "Progressed": 183938,
       "Completed": 10662
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-20T03:02:55.7510112+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:08:37.8980949+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:08:52.1863247+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:02:55.7510118+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:08:37.8982727+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:03:08.7459254+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:08:52.1864801+00:00"
 }

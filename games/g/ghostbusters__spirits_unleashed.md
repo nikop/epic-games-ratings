@@ -8,10 +8,10 @@ Rating: 4.50 (Ranked 618)
 | Stylish | 11.00% | ~3,719 |
 | Meticulously Efficient | 9.00% | ~3,043 |
 | Advancement | 8.00% | ~2,705 |
-| Swift Rift Removers | 7.00% | ~2,366 |
-| I collect Spores, Molds, and Fungi | 6.00% | ~2,028 |
-| Discovery | 6.00% | ~2,028 |
-| Solo Capture | 6.00% | ~2,028 |
+| Swift Rift Removers | 7.00% | ~2,367 |
+| I collect Spores, Molds, and Fungi | 6.00% | ~2,029 |
+| Discovery | 6.00% | ~2,029 |
+| Solo Capture | 6.00% | ~2,029 |
 | Clutch Capture | 5.00% | ~1,690 |
 | Cultured | 5.00% | ~1,690 |
 | Fully Upgraded | 5.00% | ~1,690 |
@@ -57,7 +57,7 @@ Rating: 4.50 (Ranked 618)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,807 (Ranked 142)  
+Progressed: 33,810 (Ranked 142)  
 Completed: 71 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,17 +332,17 @@ Completed: 71 (0.21%) (Ranked 283)
 | 2024-01-17 | 33,760 | 71 |
 | 2024-01-18 | 33,781 | 71 |
 | 2024-01-19 | 33,801 | 71 |
-| 2024-01-20 | 33,807 | 71 |
+| 2024-01-20 | 33,810 | 71 |
 ## Awards
 Max (Great for Beginners): 329  (Ranked 257)  
-Sum: 2,977 (Ranked 188)  
+Sum: 2,978 (Ranked 188)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 329 |
 | This game is Great for Quick Sessions | 328 |
 | This game has Diverse Characters | 314 |
-| This game has Amazing Storytelling | 297 |
+| This game has Amazing Storytelling | 298 |
 | This game is Highly Recommended | 296 |
 | This game is Extremely Fun | 290 |
 | This game has Competitive Players | 290 |
@@ -621,4 +621,4 @@ Diff (max vs sum): 69
 | 2024-01-16 | 4.50 | 328 | 2,967 |
 | 2024-01-18 | 4.50 | 328 | 2,972 |
 | 2024-01-19 | 4.50 | 329 | 2,975 |
-| 2024-01-20 | 4.50 | 329 | 2,977 |
+| 2024-01-20 | 4.50 | 329 | 2,978 |

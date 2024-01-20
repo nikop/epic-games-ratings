@@ -2,10 +2,10 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 412,
+  "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 303,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 290,
+  "EOS_Progressed": 292,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -1204,6 +1204,11 @@
       "Time": "2024-01-20T01:54:10.177685+00:00",
       "NumProgressed": 290,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T04:05:47.8603701+00:00",
+      "NumProgressed": 292,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1216,7 +1221,7 @@
       "Name": "Administrator",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1240,7 +1245,7 @@
       "Name": "Blue moon",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "TINGWD_BUTTON_PLAY",
@@ -1272,7 +1277,7 @@
       "Name": "Carmack junior",
       "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TINGWD_CHAP_END_01",
@@ -1280,7 +1285,7 @@
       "Name": "There\u0027s a bug in the soup",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 231
     },
     {
       "ID": "TINGWD_CHAP_END_02",
@@ -1288,7 +1293,7 @@
       "Name": "A soundly led quest",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "TINGWD_CHAP_END_03",
@@ -1312,7 +1317,7 @@
       "Name": "It\u0027s not over yet",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -1336,7 +1341,7 @@
       "Name": "Conspiracy theorist",
       "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 232
+      "UsersEstimate": 234
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1344,7 +1349,7 @@
       "Name": "Private Detective",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 263
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1390,9 +1395,9 @@
       "ID": "TINGWD_NOSHAME",
       "SetID": "c0imaa6",
       "Name": "Have you no shame?",
-      "Percentage": 87,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 252
+      "UsersEstimate": 251
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1432,7 +1437,7 @@
       "Name": "Raiders of the lost game",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "TINGWD_RANDOM",
@@ -1462,9 +1467,9 @@
       "ID": "TINGWD_SPAM",
       "SetID": "c0imaa6",
       "Name": "Spam",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 17
+      "UsersEstimate": 15
     },
     {
       "ID": "TINGWD_TRAP",
@@ -1472,7 +1477,7 @@
       "Name": "It\u0027s a trap!",
       "Percentage": 41,
       "XP": 120,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "TINGWD_WRONGDIMENSION",
@@ -1487,14 +1492,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 290,
+      "Progressed": 292,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:05:32.9123554+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:05:47.8603698+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:48.2261697+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:02:36.3276916+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:05:32.912379+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:02:48.7177824+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:05:47.8604142+00:00"
 }

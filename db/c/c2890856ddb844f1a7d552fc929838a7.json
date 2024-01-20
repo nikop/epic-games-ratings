@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -6393,9 +6393,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 879
+      "UsersEstimate": 904
     },
     {
       "ID": "AC12",
@@ -6682,8 +6682,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-19T17:02:47.5666369+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:05:09.6875661+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:05:25.0096895+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:57:04.2728086+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:05:09.6876319+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:57:16.4909754+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:05:25.0097381+00:00"
 }

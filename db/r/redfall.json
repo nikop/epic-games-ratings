@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 245,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 3.67,
+  "Rating": 3.66,
   "RatingHistory": [
     {
       "Time": "2023-05-02T02:57:49.0820146+00:00",
@@ -389,6 +389,12 @@
     {
       "Time": "2024-01-19T03:58:04.7867703+00:00",
       "Rating": 3.67,
+      "NumberOfAwards": 26,
+      "NumberOfAwardsMax": 26
+    },
+    {
+      "Time": "2024-01-20T03:58:34.3953385+00:00",
+      "Rating": 3.66,
       "NumberOfAwards": 26,
       "NumberOfAwardsMax": 26
     }
@@ -4861,9 +4867,9 @@
       "ID": "Achievement_031",
       "SetID": "6b34g18",
       "Name": "Sucks To Be You",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 289
+      "UsersEstimate": 313
     },
     {
       "ID": "Achievement_032",
@@ -5165,9 +5171,9 @@
   "FirstSeen": "2023-05-02T02:57:49.0820129+00:00",
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
-  "LastChanged": "2024-01-19T03:58:04.7867701+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:03:26.5401215+00:00",
+  "LastChanged": "2024-01-20T03:58:34.3953383+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:03:41.2724787+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:58:21.7355237+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:03:26.5402047+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:58:34.3953387+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:03:41.2725611+00:00"
 }

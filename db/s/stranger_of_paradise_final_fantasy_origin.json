@@ -14663,9 +14663,9 @@
       "ID": "031_TROPHY_COMPLETE_JOB_TREE",
       "SetID": "4ajkb4b",
       "Name": "Savant",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 60,
-      "UsersEstimate": 50366
+      "UsersEstimate": 51192
     },
     {
       "ID": "032_TROPHY_USED_MASTER_POINT",
@@ -14687,9 +14687,9 @@
       "ID": "034_TROPHY_UNLOCKED_ADVANCED_JOB",
       "SetID": "4ajkb4b",
       "Name": "Dark Crystal, Warrior\u0027s Heart",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 57797
+      "UsersEstimate": 58623
     },
     {
       "ID": "035_TROPHY_UNLOCKED_ALL_JOB",
@@ -14791,8 +14791,8 @@
   "FirstSeen": "2022-07-22T20:20:02.4554088+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.9238722+00:00",
   "LastChanged": "2024-01-20T02:22:44.5129191+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:05:49.4647185+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:06:04.9241653+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:29.2292241+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:00:06.3117616+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:05:49.4648096+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:00:18.1673842+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:06:04.924256+00:00"
 }

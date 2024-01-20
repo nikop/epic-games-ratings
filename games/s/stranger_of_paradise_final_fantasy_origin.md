@@ -12,11 +12,11 @@ Number of Ratings: 1,919  (23.09.2022)
 | Hopes and Dreams | 82.00% | ~67,705 |
 | Lantern Smasher | 78.00% | ~64,402 |
 | The Pirate's Way | 73.00% | ~60,274 |
-| Dark Crystal, Warrior's Heart | 70.00% | ~57,797 |
+| Dark Crystal, Warrior's Heart | 71.00% | ~58,623 |
 | The King of the Dark Elves | 68.00% | ~56,146 |
 | Memories of the Distant Past | 66.00% | ~54,494 |
 | Distortion's Progeny | 63.00% | ~52,017 |
-| Savant | 61.00% | ~50,366 |
+| Savant | 62.00% | ~51,192 |
 | A Landscape of Memory | 58.00% | ~47,889 |
 | The Wind's Light | 54.00% | ~44,586 |
 | Vague Remembrances | 49.00% | ~40,458 |

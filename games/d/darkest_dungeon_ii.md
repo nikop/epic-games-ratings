@@ -8,11 +8,11 @@ Number of Ratings: 7,767  (23.09.2022)
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 14.00% | ~1,139 |
 | Lost and Found | 9.00% | ~732 |
-| Autodidact | 8.00% | ~10,661 |
+| Autodidact | 8.00% | ~10,662 |
 | This Belongs in a Museum | 7.00% | ~9,329 |
 | Creep and Sleep | 7.00% | ~9,329 |
 | Overdue Notice | 7.00% | ~9,329 |
-| This guy... again? | 7.00% | ~569 |
+| This guy... again? | 7.00% | ~570 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~7,996 |
 | Serenity Now! | 6.00% | ~7,996 |
 | Meat and Greet | 6.00% | ~7,996 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,265 (Ranked 92)  
+Progressed: 133,269 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,17 +351,17 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
-| 2024-01-20 | 133,265 | 5 |
+| 2024-01-20 | 133,269 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
-Sum: 21,765 (Ranked 58)  
+Sum: 21,768 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,048 |
 | This game has Diverse Characters | 1,879 |
 | This game has Challenging Combat | 1,686 |
-| This game is Highly Recommended | 1,610 |
+| This game is Highly Recommended | 1,613 |
 | This game has Amazing Characters | 1,539 |
 | This game is Extremely Fun | 1,532 |
 | This game has Unique Visuals | 1,480 |
@@ -730,4 +730,4 @@ Diff (max vs sum): -6
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
-| 2024-01-20 | 4.69 | - | 8,048 | 21,765 |
+| 2024-01-20 | 4.69 | - | 8,048 | 21,768 |

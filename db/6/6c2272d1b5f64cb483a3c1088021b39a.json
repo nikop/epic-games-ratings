@@ -2,10 +2,10 @@
   "ID": "6c2272d1b5f64cb483a3c1088021b39a",
   "Name": "Blood of Titans",
   "ProductSlug": "blood-of-titans-49a2a8",
-  "Ranking_EOS_Progress": 280,
+  "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 304,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -5001,9 +5001,9 @@
       "ID": "conqueror_2",
       "SetID": "53c1p3k",
       "Name": "Conqueror 2",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 67
     },
     {
       "ID": "conqueror_3",
@@ -5408,8 +5408,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:09:49.9658939+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:10:05.5654009+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.5682133+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:59:13.6778608+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:09:49.9659679+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:59:26.6006856+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:10:05.565458+00:00"
 }

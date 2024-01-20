@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7568,
+  "EOS_Progressed": 7569,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9882,6 +9882,11 @@
       "Time": "2024-01-20T02:32:44.4075764+00:00",
       "NumProgressed": 7568,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T04:10:02.4857896+00:00",
+      "NumProgressed": 7569,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -9997,7 +10002,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5827
+      "UsersEstimate": 5828
     },
     {
       "ID": "First_Race_Met",
@@ -10005,7 +10010,7 @@
       "Name": "First Contact",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 5449
+      "UsersEstimate": 5450
     },
     {
       "ID": "First_Ship_Designed",
@@ -10013,7 +10018,7 @@
       "Name": "Design a Ship",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 2043
+      "UsersEstimate": 2044
     },
     {
       "ID": "First_Stream_Travel",
@@ -10085,15 +10090,15 @@
       "Name": "Trading Partner",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "Level_5_Ship",
       "SetID": "4h07amh",
       "Name": "Veteran Crew",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 30
+      "UsersEstimate": 38
     },
     {
       "ID": "Minor_Civ_Quest",
@@ -10163,9 +10168,9 @@
       "ID": "Recruit_12_Leaders",
       "SetID": "4h07amh",
       "Name": "Recruit a Dozen Leaders",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 15
+      "UsersEstimate": 23
     },
     {
       "ID": "Recruit_Leader",
@@ -10197,7 +10202,7 @@
       "Name": "Commodity Seller",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 1816
+      "UsersEstimate": 1817
     },
     {
       "ID": "Take_Iconia_From_Yor_As_Iconians",
@@ -10381,7 +10386,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4919
+      "UsersEstimate": 4920
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10389,7 +10394,7 @@
       "Name": "Fleet Victory",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "Win_Conquest",
@@ -10468,15 +10473,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7568,
+      "Progressed": 7569,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:09:47.3086998+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:10:02.4857893+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:50.5239159+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:57:34.0598266+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:09:47.3087792+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:57:45.8672513+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:10:02.4858723+00:00"
 }

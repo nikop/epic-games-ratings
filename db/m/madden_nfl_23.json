@@ -2,13 +2,13 @@
   "ID": "5f4daf40211246acaddd707f7b4e8f56",
   "Name": "Madden NFL 23",
   "ProductSlug": "madden-nfl-23",
-  "Ranking_Rating": 882,
+  "Ranking_Rating": 883,
   "Ranking_Popularity": 470,
   "Ranking_PopularitySum": 429,
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4495,
+  "EOS_Progressed": 4496,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 103,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8960,6 +8960,11 @@
       "Time": "2024-01-20T02:31:20.1479233+00:00",
       "NumProgressed": 4495,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T04:08:36.2569783+00:00",
+      "NumProgressed": 4496,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -8980,7 +8985,7 @@
       "Name": "Bragging Rights",
       "Percentage": 56,
       "XP": 90,
-      "UsersEstimate": 2517
+      "UsersEstimate": 2518
     },
     {
       "ID": "achievement_11",
@@ -9004,7 +9009,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2382
+      "UsersEstimate": 2383
     },
     {
       "ID": "achievement_14",
@@ -9020,7 +9025,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "achievement_16",
@@ -9028,7 +9033,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1438
+      "UsersEstimate": 1439
     },
     {
       "ID": "achievement_17",
@@ -9116,7 +9121,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 1393
+      "UsersEstimate": 1394
     },
     {
       "ID": "achievement_8",
@@ -9139,7 +9144,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4495,
+      "Progressed": 4496,
       "Completed": 0
     }
   ],
@@ -9147,8 +9152,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-18T17:02:25.388699+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:08:22.1268948+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:08:36.2569781+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:25.5166215+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:57:18.3624029+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:08:22.1269482+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:57:31.1814081+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:08:36.2570285+00:00"
 }

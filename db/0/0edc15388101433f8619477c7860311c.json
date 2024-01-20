@@ -2,10 +2,10 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 489,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 400,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 392,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 120,
+  "EOS_Progressed": 121,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -589,6 +589,11 @@
       "Time": "2024-01-18T08:05:39.177931+00:00",
       "NumProgressed": 120,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T04:06:16.2986454+00:00",
+      "NumProgressed": 121,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -631,9 +636,9 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "HideAndSeek",
@@ -719,7 +724,7 @@
       "ID": "ProtectedPower",
       "SetID": "7m88n8p",
       "Name": "Protected by Divine Power",
-      "Percentage": 91,
+      "Percentage": 90,
       "XP": 25,
       "UsersEstimate": 109
     },
@@ -735,7 +740,7 @@
       "ID": "SeeNoEvil",
       "SetID": "7m88n8p",
       "Name": "See No Evil",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 25,
       "UsersEstimate": 44
     },
@@ -743,9 +748,9 @@
       "ID": "SeeingThrough",
       "SetID": "7m88n8p",
       "Name": "Seeing through Vanity",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 65,
-      "UsersEstimate": 46
+      "UsersEstimate": 45
     },
     {
       "ID": "TimeManagement",
@@ -767,7 +772,7 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 25,
       "UsersEstimate": 56
     }
@@ -776,14 +781,14 @@
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 120,
+      "Progressed": 121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:06:00.4614317+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:06:16.2986449+00:00",
   "LastUpdate_AppInfo": "2024-01-15T15:57:24.3630829+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:00:01.3801063+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:06:00.4614453+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:00:13.4222469+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:06:16.2986604+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 146,
   "Ranking_EOS_Completed": 144,
   "Ranking_EOS_NewPlayers": 128,
-  "Ranking_EOS_NewCompleters": 34,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29068,
+  "EOS_Progressed": 29069,
   "EOS_Completed": 535,
-  "EOS_NewPlayers": 504,
+  "EOS_NewPlayers": 501,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30061,6 +30061,11 @@
       "Time": "2024-01-20T03:04:43.6442882+00:00",
       "NumProgressed": 29068,
       "NumCompleted": 535
+    },
+    {
+      "Time": "2024-01-20T04:04:58.7177066+00:00",
+      "NumProgressed": 29069,
+      "NumCompleted": 535
     }
   ],
   "TotalAchievements": 20,
@@ -30104,7 +30109,7 @@
       "Name": "In the belly of the beast",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 3197
+      "UsersEstimate": 3198
     },
     {
       "ID": "FOUND_BIRDSHRINE",
@@ -30200,7 +30205,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7848
+      "UsersEstimate": 7849
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30231,15 +30236,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29068,
+      "Progressed": 29069,
       "Completed": 535
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:04:43.644288+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:04:58.7177063+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:58:21.1237868+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:04:43.6444309+00:00"
+  "LastUpdate_Ratings": "2024-01-20T03:58:33.8660795+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:04:58.7178264+00:00"
 }

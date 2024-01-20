@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 449,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 452,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-20T14:00:00+00:00",
     "PcReleaseDate": "2021-04-07T13:00:00+00:00",
@@ -756,9 +756,9 @@
       "ID": "CULT",
       "SetID": "40o4f14",
       "Name": "Dragon Cult",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "DISCIPLE",
@@ -956,17 +956,17 @@
       "ID": "WITCH",
       "SetID": "40o4f14",
       "Name": "Resurrection",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "WYVERN",
       "SetID": "40o4f14",
       "Name": "Winged creature",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     }
   ],
   "AchievementSets": [
@@ -979,8 +979,8 @@
   ],
   "FirstSeen": "2023-11-20T22:57:48.2137481+00:00",
   "FirstSeenAchievements": "2023-10-25T20:03:47.3726006+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:07:52.0164316+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:06:26.6363686+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.8134228+00:00",
-  "LastUpdate_Ratings": "2024-01-20T03:00:15.8852313+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:07:52.0164569+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:00:28.1629634+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:06:26.6363927+00:00"
 }

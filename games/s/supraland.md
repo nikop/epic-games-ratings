@@ -1,22 +1,22 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 400)  
+Rating: 4.61 (Ranked 401)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~733,450 |
-| The Blues | 85.00% | ~629,730 |
-| Fast | 66.00% | ~488,967 |
-| Healthbar | 55.00% | ~407,472 |
-| Force Cube | 53.00% | ~392,655 |
-| Double Jump | 48.00% | ~355,612 |
+| Out of bed | 99.00% | ~733,451 |
+| The Blues | 85.00% | ~629,731 |
+| Fast | 66.00% | ~488,968 |
+| Healthbar | 55.00% | ~407,473 |
+| Force Cube | 53.00% | ~392,656 |
+| Double Jump | 48.00% | ~355,613 |
 | Regeneration | 47.00% | ~348,204 |
-| Triple Jump | 43.00% | ~318,569 |
+| Triple Jump | 43.00% | ~318,570 |
 | Climb the hill | 42.00% | ~311,161 |
 | Through the fire pipe | 39.00% | ~288,935 |
-| MacGuffin | 38.00% | ~281,526 |
+| MacGuffin | 38.00% | ~281,527 |
 | Just once | 37.00% | ~274,118 |
 | Armor | 30.00% | ~222,258 |
 | True holy spirit | 28.00% | ~207,441 |
@@ -25,11 +25,11 @@ Number of Ratings: 25,175  (23.09.2022)
 | Holy Sword | 23.00% | ~170,398 |
 | Telefrag | 23.00% | ~170,398 |
 | Freed from prison | 22.00% | ~162,989 |
-| Stomp | 21.00% | ~155,580 |
+| Stomp | 21.00% | ~155,581 |
 | Double Health | 19.00% | ~140,763 |
 | Buckle | 18.00% | ~133,355 |
 | Green Keycard | 18.00% | ~133,355 |
-| Rattle Hag | 16.00% | ~118,537 |
+| Rattle Hag | 16.00% | ~118,538 |
 | All Shells | 15.00% | ~111,129 |
 | Beam | 14.00% | ~103,720 |
 | 9 | 14.00% | ~103,720 |
@@ -38,12 +38,12 @@ Number of Ratings: 25,175  (23.09.2022)
 | Helped a star | 13.00% | ~96,312 |
 | Purple Cube | 13.00% | ~96,312 |
 | Strong | 12.00% | ~88,903 |
-| Blue King's lair | 11.00% | ~81,494 |
-| Payback | 11.00% | ~81,494 |
-| Got the coins back | 11.00% | ~81,494 |
-| Got the gun back | 11.00% | ~81,494 |
-| Infiltrated | 11.00% | ~81,494 |
-| Robbed | 11.00% | ~81,494 |
+| Blue King's lair | 11.00% | ~81,495 |
+| Payback | 11.00% | ~81,495 |
+| Got the coins back | 11.00% | ~81,495 |
+| Got the gun back | 11.00% | ~81,495 |
+| Infiltrated | 11.00% | ~81,495 |
+| Robbed | 11.00% | ~81,495 |
 | Fire Flies | 10.00% | ~74,086 |
 | Cave Flies | 10.00% | ~74,086 |
 | Gold Scam | 10.00% | ~74,086 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 740,859 (Ranked 27)  
+Progressed: 740,860 (Ranked 27)  
 Completed: 783 (0.11%) (Ranked 312)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -380,7 +380,7 @@ Completed: 783 (0.11%) (Ranked 312)
 | 2024-01-17 | 740,619 | 783 |
 | 2024-01-18 | 740,733 | 783 |
 | 2024-01-19 | 740,840 | 783 |
-| 2024-01-20 | 740,859 | 783 |
+| 2024-01-20 | 740,860 | 783 |
 ## Awards
 Max (Challenging Puzzles): 7,781  (Ranked 55)  
 Sum: 10,167 (Ranked 96)  

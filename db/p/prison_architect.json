@@ -2,13 +2,13 @@
   "ID": "3ffb410dab2d409aacd39a1abc6fcbba",
   "Name": "Prison Architect",
   "ProductSlug": "prison-architect",
-  "Ranking_Rating": 400,
+  "Ranking_Rating": 401,
   "Ranking_Popularity": 202,
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 43,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -8451,9 +8451,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 218918,
+  "EOS_Progressed": 218927,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3271,
+  "EOS_NewPlayers": 3265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40051,6 +40051,11 @@
       "Time": "2024-01-20T03:09:22.5912421+00:00",
       "NumProgressed": 218918,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-20T04:09:37.7163391+00:00",
+      "NumProgressed": 218927,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -40062,7 +40067,7 @@
       "Name": "Throw The Book At Them",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Achievement_1",
@@ -40094,7 +40099,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32838
+      "UsersEstimate": 32839
     },
     {
       "ID": "Achievement_13",
@@ -40142,7 +40147,7 @@
       "Name": "Stone Walls",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 54730
+      "UsersEstimate": 54732
     },
     {
       "ID": "Achievement_5",
@@ -40150,7 +40155,7 @@
       "Name": "Iron Bars",
       "Percentage": 2,
       "XP": 80,
-      "UsersEstimate": 4378
+      "UsersEstimate": 4379
     },
     {
       "ID": "Achievement_6",
@@ -40189,15 +40194,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 218918,
+      "Progressed": 218927,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-19T21:01:41.5801066+00:00",
-  "LastChanged_Achievements": "2024-01-20T03:09:22.5912416+00:00",
+  "LastChanged_Achievements": "2024-01-20T04:09:37.7163388+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:36.7759679+00:00",
-  "LastUpdate_Ratings": "2024-01-20T02:59:59.4017811+00:00",
-  "LastUpdate_Achievements": "2024-01-20T03:09:22.5913695+00:00"
+  "LastUpdate_Ratings": "2024-01-20T04:00:11.8397558+00:00",
+  "LastUpdate_Achievements": "2024-01-20T04:09:37.7165013+00:00"
 }

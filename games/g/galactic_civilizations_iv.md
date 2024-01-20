@@ -6,22 +6,22 @@ Number of Ratings: 429  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Colonize a Planet | 77.00% | ~5,827 |
+| Colonize a Planet | 77.00% | ~5,828 |
 | Worker Specialization | 76.00% | ~5,752 |
-| First Contact | 72.00% | ~5,449 |
-| Win a Battle | 65.00% | ~4,919 |
+| First Contact | 72.00% | ~5,450 |
+| Win a Battle | 65.00% | ~4,920 |
 | Anomaly Researcher | 60.00% | ~4,541 |
 | Unleash My Power | 60.00% | ~4,541 |
 | Own 30 Planets | 32.00% | ~2,422 |
 | Xenocide | 31.00% | ~2,346 |
 | Design a Civilization | 31.00% | ~2,346 |
 | Commodity Trader | 29.00% | ~2,195 |
-| Design a Ship | 27.00% | ~2,043 |
-| Commodity Seller | 24.00% | ~1,816 |
+| Design a Ship | 27.00% | ~2,044 |
+| Commodity Seller | 24.00% | ~1,817 |
 | Prestige Victory! | 13.00% | ~984 |
 | Galactic War | 10.00% | ~757 |
-| Trading Partner | 8.00% | ~605 |
-| Fleet Victory | 8.00% | ~605 |
+| Trading Partner | 8.00% | ~606 |
+| Fleet Victory | 8.00% | ~606 |
 | Gain an Ally | 6.00% | ~454 |
 | Win as Terrans | 6.00% | ~454 |
 | Win with a Custom Faction | 6.00% | ~454 |
@@ -51,13 +51,13 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
 | Hyperspace! | 0.50% | ~38 |
+| Veteran Crew | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
-| Veteran Crew | 0.40% | ~30 |
+| Recruit a Dozen Leaders | 0.30% | ~23 |
 | Commodity Seller, Level 2 | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
 | Commodity Trader - Level 2 | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
-| Recruit a Dozen Leaders | 0.20% | ~15 |
 | Commodity Selling Guru | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |
 | Commodity Guru | 0.10% | ~8 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,568 (Ranked 199)  
+Progressed: 7,569 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 7,558 | 0 |
 | 2024-01-18 | 7,562 | 0 |
 | 2024-01-19 | 7,567 | 0 |
-| 2024-01-20 | 7,568 | 0 |
+| 2024-01-20 | 7,569 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 385)  
 Sum: 702 (Ranked 313)  

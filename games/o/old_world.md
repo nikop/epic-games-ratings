@@ -66,6 +66,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intercessor | 1.00% | ~170 |
 | Mighty | 1.00% | ~170 |
 | Valiant | 1.00% | ~170 |
+| Victorious | 1.00% | ~170 |
 | Legendary Cities | 1.00% | ~170 |
 | Good Difficulty | 1.00% | ~170 |
 | Just Difficulty | 1.00% | ~170 |
@@ -84,7 +85,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 1.00% | ~170 |
 | Points Victory | 1.00% | ~170 |
 | Win a Single Player Game | 1.00% | ~170 |
-| Victorious | 0.90% | ~153 |
 | Landowners | 0.90% | ~153 |
 | Traders | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,011 (Ranked 170)  
+Progressed: 17,012 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,011 | 5 |
+| 2024-01-20 | 17,012 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,942 (Ranked 223)  

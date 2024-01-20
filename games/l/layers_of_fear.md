@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~290 |
-| A piece of the story | 66.00% | ~222 |
-| It's covered up for a reason | 60.00% | ~202 |
-| Wanderer | 55.00% | ~185 |
-| Scraps of love | 53.00% | ~179 |
+| Something important | 86.00% | ~291 |
+| A piece of the story | 66.00% | ~223 |
+| It's covered up for a reason | 60.00% | ~203 |
+| Wanderer | 55.00% | ~186 |
+| Scraps of love | 52.00% | ~176 |
 | The artist’s impression | 51.00% | ~172 |
 | Do what you have to | 46.00% | ~155 |
 | Sign of weakness | 43.00% | ~145 |
 | Refuse to look | 38.00% | ~128 |
-| Face your fears | 33.00% | ~111 |
+| Face your fears | 33.00% | ~112 |
 | Finished it | 27.00% | ~91 |
 | Whispers long forgotten | 18.00% | ~61 |
-| Sound Bite | 15.00% | ~51 |
+| Sound Bite | 14.00% | ~47 |
 | The art of movement | 14.00% | ~47 |
 | A Slice of Life | 13.00% | ~44 |
 | Debut | 13.00% | ~44 |
 | Lights! Camera! Action! | 13.00% | ~44 |
-| Another perspective | 12.00% | ~40 |
+| Another perspective | 12.00% | ~41 |
 | First steps | 11.00% | ~37 |
 | Playtime | 11.00% | ~37 |
 | Tough conversation | 11.00% | ~37 |
@@ -35,11 +35,11 @@
 | Fisherman | 7.00% | ~24 |
 | Something to think about | 5.00% | ~17 |
 | I remember It Like Was Yesterday | 5.00% | ~17 |
-| We Are Not Alone | 4.00% | ~13 |
-| Dark correspondence | 4.00% | ~13 |
-| Full Scoop | 4.00% | ~13 |
-| The Perfect Storm | 4.00% | ~13 |
-| Se7en Seas | 4.00% | ~13 |
+| We Are Not Alone | 4.00% | ~14 |
+| Dark correspondence | 4.00% | ~14 |
+| Full Scoop | 4.00% | ~14 |
+| The Perfect Storm | 4.00% | ~14 |
+| Se7en Seas | 4.00% | ~14 |
 | Immortalized in my heart | 3.00% | ~10 |
 | A Mosaic of Misery | 3.00% | ~10 |
 | Body of Work | 2.00% | ~7 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 337 (Ranked 392)  
+Progressed: 338 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,3 +145,4 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 331 | 0 |
 | 2024-01-18 | 334 | 0 |
 | 2024-01-19 | 337 | 0 |
+| 2024-01-20 | 338 | 0 |

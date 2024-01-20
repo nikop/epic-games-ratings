@@ -16,14 +16,14 @@
 | Mega Kill | 23.00% | ~18 |
 | Almost There I | 19.00% | ~15 |
 | Stoic | 18.00% | ~14 |
+| Omicron Alpha | 15.00% | ~12 |
 | Galactic Cadet | 15.00% | ~12 |
-| Omicron Alpha | 14.00% | ~11 |
 | Bronze Prince of Ball-air | 11.00% | ~9 |
 | Pacifist | 11.00% | ~9 |
 | 25Gb HDD | 11.00% | ~9 |
 | Collateral Damage I | 11.00% | ~9 |
+| Sectoral Ensign | 10.00% | ~8 |
 | Defrosted | 10.00% | ~8 |
-| Sectoral Ensign | 9.00% | ~7 |
 | Rambo II | 9.00% | ~7 |
 | Unstoppable | 9.00% | ~7 |
 | Silver Prince of Ball-air | 9.00% | ~7 |
