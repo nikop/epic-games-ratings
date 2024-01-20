@@ -4,8 +4,8 @@
   "ProductSlug": "mini-royale-ad1dca",
   "Ranking_EOS_Progress": 53,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2024-06-30T00:00:00+00:00",
     "PcReleaseDate": "2024-06-30T00:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 398279,
+  "EOS_Progressed": 398286,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12852,6 +12852,11 @@
       "Time": "2024-01-19T22:07:00.9189002+00:00",
       "NumProgressed": 398279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T00:04:01.3872996+00:00",
+      "NumProgressed": 398286,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-23T09:03:04.200541+00:00",
@@ -12960,7 +12965,7 @@
       "Name": "Rookie Rumble",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 227019
+      "UsersEstimate": 227023
     },
     {
       "ID": "kills_100",
@@ -13016,7 +13021,7 @@
       "Name": "Toy Surgeon",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 39828
+      "UsersEstimate": 39829
     },
     {
       "ID": "revives_25",
@@ -13111,13 +13116,13 @@
     {
       "ID": "413a09o",
       "IsBase": true,
-      "Progressed": 398279,
+      "Progressed": 398286,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-08-23T09:03:04.2005407+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:07:00.9188998+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:04:01.3872983+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:21.6191265+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:57:58.6116367+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:07:00.9189924+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:58:31.6958722+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:04:01.3891007+00:00"
 }

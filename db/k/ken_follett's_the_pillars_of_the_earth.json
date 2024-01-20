@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 205,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 17964,
+  "EOS_Progressed": 17966,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 148,
+  "EOS_NewPlayers": 150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.7,
   "EosHistory": [
@@ -18740,6 +18740,11 @@
       "Time": "2024-01-19T22:04:19.8205244+00:00",
       "NumProgressed": 17964,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-20T00:04:57.3787956+00:00",
+      "NumProgressed": 17966,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18751,7 +18756,7 @@
       "Name": "Good midwife",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "tpote_achievement_10",
@@ -18791,7 +18796,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5748
+      "UsersEstimate": 5749
     },
     {
       "ID": "tpote_achievement_15",
@@ -18815,7 +18820,7 @@
       "Name": "Everything\u0027s in order",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2874
+      "UsersEstimate": 2875
     },
     {
       "ID": "tpote_achievement_18",
@@ -18823,7 +18828,7 @@
       "Name": "Friar Tuck",
       "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "tpote_achievement_19",
@@ -18839,7 +18844,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5748
+      "UsersEstimate": 5749
     },
     {
       "ID": "tpote_achievement_20",
@@ -18879,7 +18884,7 @@
       "Name": "First profit",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "tpote_achievement_25",
@@ -18895,7 +18900,7 @@
       "Name": "Exterminator",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2335
+      "UsersEstimate": 2336
     },
     {
       "ID": "tpote_achievement_27",
@@ -18935,7 +18940,7 @@
       "Name": "Team player",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1796
+      "UsersEstimate": 1797
     },
     {
       "ID": "tpote_achievement_31",
@@ -18967,7 +18972,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "tpote_achievement_35",
@@ -19015,7 +19020,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7006
+      "UsersEstimate": 7007
     },
     {
       "ID": "tpote_achievement_40",
@@ -19055,7 +19060,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "tpote_achievement_8",
@@ -19063,7 +19068,7 @@
       "Name": "Help an old friend",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "tpote_achievement_9",
@@ -19078,15 +19083,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 17964,
+      "Progressed": 17966,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:04:17.9644237+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:04:57.3787951+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:39.261669+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:03:12.1305505+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:04:17.9645774+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:03:22.1359898+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:04:57.3789237+00:00"
 }

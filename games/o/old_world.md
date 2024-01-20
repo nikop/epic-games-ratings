@@ -70,6 +70,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just Difficulty | 1.00% | ~170 |
 | Artisans | 1.00% | ~170 |
 | Champions | 1.00% | ~170 |
+| Patrons | 1.00% | ~170 |
 | Sages | 1.00% | ~170 |
 | Statesmen | 1.00% | ~170 |
 | Hittite Iron | 1.00% | ~170 |
@@ -85,9 +86,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~170 |
 | Victorious | 0.90% | ~153 |
 | Landowners | 0.90% | ~153 |
-| Patrons | 0.90% | ~153 |
 | Traders | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
+| Military Prestige | 0.90% | ~153 |
 | Dualism | 0.90% | ~153 |
 | Legalism | 0.90% | ~153 |
 | Double Victory | 0.90% | ~153 |
@@ -105,7 +106,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Assyrian Paganism | 0.80% | ~136 |
-| Military Prestige | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
 | Legionary | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
@@ -159,6 +159,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
+| Three Man Chariot | 0.30% | ~51 |
 | Beja Archer | 0.30% | ~51 |
 | Al Khazneh | 0.30% | ~51 |
 | Colosseum | 0.30% | ~51 |
@@ -182,7 +183,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.20% | ~34 |
 | Circus Maximus in Roma | 0.20% | ~34 |
 | Capturing Cities | 0.20% | ~34 |
-| Three Man Chariot | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
 | The Great Mage | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,008 (Ranked 170)  
+Progressed: 17,010 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,6 +640,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
+| 2024-01-20 | 17,010 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,942 (Ranked 223)  

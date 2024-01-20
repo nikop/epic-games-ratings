@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1434,9 +1434,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33866,
+  "EOS_Progressed": 33868,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 615,
+  "EOS_NewPlayers": 614,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31024,6 +31024,11 @@
       "Time": "2024-01-19T23:10:16.0576041+00:00",
       "NumProgressed": 33866,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-20T00:10:52.4092807+00:00",
+      "NumProgressed": 33868,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31139,7 +31144,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5757
+      "UsersEstimate": 5758
     },
     {
       "ID": "1029",
@@ -31171,7 +31176,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13546
+      "UsersEstimate": 13547
     },
     {
       "ID": "1033",
@@ -31210,15 +31215,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33866,
+      "Progressed": 33868,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-19T02:25:01.4563573+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:10:16.0576038+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:10:52.4092805+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:06.8105052+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:58:48.2413021+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:10:16.0577658+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:59:46.9615917+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:10:52.4093916+00:00"
 }

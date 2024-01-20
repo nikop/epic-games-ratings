@@ -6,36 +6,36 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,037 |
-| Sweet Sorrow | 18.00% | ~8,018 |
-| Rules the Waves | 17.00% | ~7,573 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,682 |
+| Sink Beneath the Waves | 36.00% | ~16,039 |
+| Sweet Sorrow | 18.00% | ~8,020 |
+| Rules the Waves | 17.00% | ~7,574 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,683 |
 | Rival | 14.00% | ~6,237 |
 | Correspondent | 12.00% | ~5,346 |
 | Lose Your Mind | 12.00% | ~5,346 |
 | Sound Mind? | 12.00% | ~5,346 |
-| Salt's Curse | 11.00% | ~4,900 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,900 |
-| The Fall of the House | 11.00% | ~4,900 |
-| Shipmate | 11.00% | ~4,900 |
+| Salt's Curse | 11.00% | ~4,901 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,901 |
+| The Fall of the House | 11.00% | ~4,901 |
+| Shipmate | 11.00% | ~4,901 |
 | One Year at Zee | 8.00% | ~3,564 |
-| Pupil | 7.00% | ~3,118 |
-| The Ascent of Man | 7.00% | ~3,118 |
+| Pupil | 7.00% | ~3,119 |
+| The Ascent of Man | 7.00% | ~3,119 |
 | Salvager | 6.00% | ~2,673 |
 | Open Your Ears | 6.00% | ~2,673 |
-| Zee Fever | 5.00% | ~2,227 |
+| Zee Fever | 5.00% | ~2,228 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,782 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,782 |
-| Storm's Curse | 3.00% | ~1,336 |
-| We're Gonna Need a Bigger Boat | 3.00% | ~1,336 |
-| Come Closer | 3.00% | ~1,336 |
+| Storm's Curse | 3.00% | ~1,337 |
+| We're Gonna Need a Bigger Boat | 3.00% | ~1,337 |
+| Come Closer | 3.00% | ~1,337 |
 | Roaring Rise | 2.00% | ~891 |
 | I am the Captain of my Soul | 2.00% | ~891 |
-| A buoyant escape | 1.00% | ~445 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~445 |
-| The Bell Tolls | 1.00% | ~445 |
-| Knife, Cup and Bone | 1.00% | ~445 |
-| A current under zee | 1.00% | ~445 |
+| A buoyant escape | 1.00% | ~446 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~446 |
+| The Bell Tolls | 1.00% | ~446 |
+| Knife, Cup and Bone | 1.00% | ~446 |
+| A current under zee | 1.00% | ~446 |
 | Never Stop Sinking... | 0.90% | ~401 |
 | His bones in whispers | 0.90% | ~401 |
 | The beauty of the deep | 0.90% | ~401 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,547 (Ranked 132)  
+Progressed: 44,553 (Ranked 132)  
 Completed: 4 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,6 +336,7 @@ Completed: 4 (0.01%) (Ranked 379)
 | 2024-01-17 | 44,437 | 4 |
 | 2024-01-18 | 44,492 | 4 |
 | 2024-01-19 | 44,547 | 4 |
+| 2024-01-20 | 44,553 | 4 |
 ## Awards
 Max (Character Customization): 221  (Ranked 292)  
 Sum: 315 (Ranked 379)  

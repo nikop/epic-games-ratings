@@ -349,7 +349,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19168,
+  "EOS_Progressed": 19169,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 254,
   "EOS_NewCompleters": 2,
@@ -17824,6 +17824,11 @@
       "Time": "2024-01-19T23:04:11.5779249+00:00",
       "NumProgressed": 19168,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-20T00:04:48.6718063+00:00",
+      "NumProgressed": 19169,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17860,7 +17865,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "13",
@@ -17892,7 +17897,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "17",
@@ -17932,7 +17937,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "21",
@@ -17972,7 +17977,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1533
+      "UsersEstimate": 1534
     },
     {
       "ID": "26",
@@ -18092,7 +18097,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 563
+      "UsersEstimate": 564
     },
     {
       "ID": "34",
@@ -18115,13 +18120,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19168,
+      "Progressed": 19169,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5122,
+      "Progressed": 5123,
       "Completed": 1357
     }
   ],
@@ -18129,8 +18134,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-14T05:57:52.0906022+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:04:11.5779245+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:04:48.6718058+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:15.0738644+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:57:17.1884783+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:04:11.578031+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:57:28.7262479+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:04:48.6719507+00:00"
 }

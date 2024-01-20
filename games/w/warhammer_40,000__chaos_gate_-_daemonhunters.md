@@ -51,12 +51,12 @@ Number of Ratings: 371  (23.09.2022)
 | Abomination | 0.60% | ~23 |
 | Deadshot | 0.50% | ~20 |
 | Suffer Not the Mutant | 0.50% | ~20 |
+| Killing Rampage | 0.40% | ~16 |
 | Blood and Iron | 0.30% | ~12 |
 | Clean Slate | 0.30% | ~12 |
 | Unstable Immaterium | 0.30% | ~12 |
 | Warp Flickers | 0.30% | ~12 |
 | Phalanx | 0.30% | ~12 |
-| Killing Rampage | 0.30% | ~12 |
 | The Flesh is Weak | 0.20% | ~8 |
 | Opportunist | 0.20% | ~8 |
 | Brothers in Arms | 0.20% | ~8 |

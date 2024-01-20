@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 219,
-  "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1385,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.58,
   "EosHistory": [
@@ -4609,9 +4609,9 @@
       "ID": "achievement_16",
       "SetID": "2cpn27e",
       "Name": "Distance Devourer",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 512
+      "UsersEstimate": 526
     },
     {
       "ID": "achievement_17",
@@ -4665,9 +4665,9 @@
       "ID": "achievement_22",
       "SetID": "2cpn27e",
       "Name": "Kemono Hunter",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 609
+      "UsersEstimate": 623
     },
     {
       "ID": "achievement_23",
@@ -4943,8 +4943,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:10:06.1489536+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:10:38.8407713+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:26.1726972+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:58:34.18027+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:10:06.1490267+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:59:24.5051838+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:10:38.8408451+00:00"
 }

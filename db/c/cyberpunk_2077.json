@@ -18752,10 +18752,10 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055199,
+  "EOS_Progressed": 1055222,
   "EOS_Completed": 3129,
-  "EOS_NewPlayers": 6861,
-  "EOS_NewCompleters": 50,
+  "EOS_NewPlayers": 6828,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50202,6 +50202,11 @@
       "Time": "2024-01-19T23:09:18.3781694+00:00",
       "NumProgressed": 1055199,
       "NumCompleted": 3129
+    },
+    {
+      "Time": "2024-01-20T00:09:32.9065631+00:00",
+      "NumProgressed": 1055222,
+      "NumCompleted": 3129
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50332,9 +50337,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3166
+      "UsersEstimate": 4221
     },
     {
       "ID": "MaxPain",
@@ -50380,9 +50385,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3166
+      "UsersEstimate": 4221
     },
     {
       "ID": "Roleplayer",
@@ -50670,7 +50675,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "HydraIsDead",
@@ -50686,7 +50691,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "KingOfTheCups",
@@ -50749,21 +50754,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055199,
+      "Progressed": 1055222,
       "Completed": 3129
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 183822,
+      "Progressed": 183845,
       "Completed": 10662
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-19T23:03:26.1166836+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:09:18.3781692+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:09:32.9065626+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:03:26.1166842+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:09:18.3784151+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:03:39.9227465+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:09:32.9067252+00:00"
 }

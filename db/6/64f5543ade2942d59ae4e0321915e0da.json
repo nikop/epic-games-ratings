@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 271,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -2177,9 +2177,9 @@
       "ID": "AC_BOSS_02",
       "SetID": "16i2akc",
       "Name": "Downfall",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 91
     },
     {
       "ID": "AC_BOSS_03",
@@ -2329,9 +2329,9 @@
       "ID": "AC_FLASHBACK_03",
       "SetID": "16i2akc",
       "Name": "Schooling",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 85
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2432,8 +2432,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:05:35.8851063+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:06:45.1446021+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:57:05.6343354+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:05:35.8851384+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:57:09.7759994+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:06:45.1446365+00:00"
 }

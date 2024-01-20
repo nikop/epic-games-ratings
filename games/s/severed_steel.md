@@ -1,30 +1,30 @@
 # Severed Steel
 [Store](https://store.epicgames.com/en-US/p/severed-steel)  
 [View Rawdata](../../db/s/severed_steel.json)  
-Rating: 4.69 (Ranked 243)  
+Rating: 4.69 (Ranked 242)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~219,662 |
-| 50 HEADSHOTS | 31.00% | ~200,280 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,819 |
-| FINISHED CHAPTER 1 | 29.00% | ~187,359 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,673 |
-| 200 HEADSHOTS | 19.00% | ~122,752 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,292 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,910 |
-| FINISH CHAPTER 5 | 13.00% | ~83,988 |
-| FINISH CHAPTER 6 | 11.00% | ~71,067 |
-| CATHARTIC ESCAPISM | 11.00% | ~71,067 |
-| 1000 KILLS | 10.00% | ~64,606 |
-| FIREFIGHT LEVEL 10 | 4.00% | ~25,843 |
+| 100 KILLS | 34.00% | ~219,655 |
+| 50 HEADSHOTS | 31.00% | ~200,274 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,814 |
+| FINISHED CHAPTER 1 | 29.00% | ~187,353 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,669 |
+| 200 HEADSHOTS | 19.00% | ~122,749 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,288 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,907 |
+| FINISH CHAPTER 5 | 13.00% | ~83,986 |
+| FINISH CHAPTER 6 | 11.00% | ~71,065 |
+| CATHARTIC ESCAPISM | 11.00% | ~71,065 |
+| 1000 KILLS | 10.00% | ~64,604 |
+| FIREFIGHT LEVEL 10 | 4.00% | ~25,842 |
 | FIREFIGHT LEVEL 20 | 2.00% | ~12,921 |
 | FIRST BLOOD | 2.00% | ~12,921 |
-| FIREFIGHT LEVEL 30 | 1.00% | ~6,461 |
-| OUT OF ORDER | 1.00% | ~6,461 |
-| PACEMAKER | 1.00% | ~6,461 |
-| TIME PARADOX | 1.00% | ~6,461 |
-| PARTYHARD | 0.90% | ~5,815 |
+| FIREFIGHT LEVEL 30 | 1.00% | ~6,460 |
+| OUT OF ORDER | 1.00% | ~6,460 |
+| PACEMAKER | 1.00% | ~6,460 |
+| TIME PARADOX | 1.00% | ~6,460 |
+| PARTYHARD | 0.90% | ~5,814 |
 | NEW GAME PLUS | 0.70% | ~4,522 |
 | FIREFIGHT LEVEL 40 | 0.60% | ~3,876 |
 | CHURCH | 0.40% | ~2,584 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 243)
 | THE GAMBLER | 0.10% | ~646 |
 | WARRIOR IN A GARDEN | 0.10% | ~646 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 646,064 (Ranked 32)  
+Progressed: 646,045 (Ranked 32)  
 Completed: 58 (0.01%) (Ranked 379)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,6 +333,7 @@ Completed: 58 (0.01%) (Ranked 379)
 | 2024-01-17 | 647,051 | 58 |
 | 2024-01-18 | 646,762 | 58 |
 | 2024-01-19 | 646,429 | 58 |
+| 2024-01-20 | 646,045 | 58 |
 ## Awards
 Max (Great Boss Battles): 509  (Ranked 223)  
 Sum: 616 (Ranked 323)  

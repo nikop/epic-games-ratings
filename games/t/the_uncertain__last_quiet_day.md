@@ -28,8 +28,8 @@ Rating: 3.75 (Ranked 1,097)
 | Found it! | 16.00% | ~104 |
 | Not what it seems | 16.00% | ~104 |
 | Please oh pleeease! | 16.00% | ~104 |
+| That's much better! | 16.00% | ~104 |
 | Hipster | 15.00% | ~97 |
-| That's much better! | 15.00% | ~97 |
 | Not as clumsy or random | 13.00% | ~84 |
 | Blade Runner | 10.00% | ~65 |
 | Perfect hearing | 8.00% | ~52 |

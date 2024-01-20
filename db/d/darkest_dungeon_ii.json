@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 243,
+  "Ranking_Rating": 242,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -10984,10 +10984,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21756,
       "NumberOfAwardsMax": 8044
+    },
+    {
+      "Time": "2024-01-19T23:57:50.4202439+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21761,
+      "NumberOfAwardsMax": 8044
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21756,
+  "NumberOfAwards": 21761,
   "NumberOfAwardsMax": 8044,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11037,7 +11043,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1874
+      "Count": 1879
     },
     {
       "Text": "This game is Relaxing",
@@ -11064,7 +11070,7 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133251,
+  "EOS_Progressed": 133255,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 662,
   "EOS_NewCompleters": 1,
@@ -40654,6 +40660,11 @@
       "Time": "2024-01-19T23:10:24.9788854+00:00",
       "NumProgressed": 133251,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T00:11:04.0609988+00:00",
+      "NumProgressed": 133255,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41209,7 +41220,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 568
+      "UsersEstimate": 569
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41296,21 +41307,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133251,
+      "Progressed": 133255,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8120,
+      "Progressed": 8124,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-19T17:57:21.4312831+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:10:24.9788851+00:00",
+  "LastChanged": "2024-01-19T23:57:50.4202437+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:11:04.0609984+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:57:32.2029421+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:10:24.9790438+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:57:50.4202444+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:11:04.0611765+00:00"
 }

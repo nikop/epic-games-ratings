@@ -8,6 +8,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.40% | ~4,221 |
 | Right Back At Ya | 0.40% | ~4,221 |
+| Christmas Tree Attack | 0.40% | ~4,221 |
+| Life of the Road | 0.40% | ~4,221 |
 | The Hermit | 0.40% | ~4,221 |
 | The High Priestess | 0.40% | ~4,221 |
 | The Wheel of Fortune | 0.40% | ~4,221 |
@@ -16,15 +18,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Bushido and Chill | 0.30% | ~3,166 |
 | Gun Fu | 0.30% | ~3,166 |
 | Master Crafter | 0.30% | ~3,166 |
-| Christmas Tree Attack | 0.30% | ~3,166 |
-| Life of the Road | 0.30% | ~3,166 |
 | Stanislavski's Method | 0.30% | ~3,166 |
 | The Fool | 0.30% | ~3,166 |
 | The Lovers | 0.30% | ~3,166 |
 | The World | 0.30% | ~3,166 |
 | Judy vs Night City | 0.30% | ~3,166 |
-| All the President's Men | 0.30% | ~551 |
-| Arachnophobia | 0.30% | ~551 |
+| All the President's Men | 0.30% | ~552 |
+| Arachnophobia | 0.30% | ~552 |
 | To Protect and Serve | 0.20% | ~2,110 |
 | The Wandering Fool | 0.20% | ~2,110 |
 | I Am The Law | 0.20% | ~2,110 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,199 (Ranked 17)  
+Progressed: 1,055,222 (Ranked 17)  
 Completed: 3,129 (0.30%) (Ranked 263)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,6 +349,7 @@ Completed: 3,129 (0.30%) (Ranked 263)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
+| 2024-01-20 | 1,055,222 | 3,129 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
 Sum: 506,646 (Ranked 8)  

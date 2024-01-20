@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 326,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 285,
+  "EOS_Progressed": 286,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1284,6 +1284,11 @@
       "Time": "2024-01-19T06:09:31.5071676+00:00",
       "NumProgressed": 285,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T00:09:55.6326323+00:00",
+      "NumProgressed": 286,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1368,7 +1373,7 @@
       "Name": "End Of The Road",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "SG_EVERYTHINGHASCHANGED",
@@ -1502,9 +1507,9 @@
       "ID": "SG_THEANSWERISYOU",
       "SetID": "bj5g0n4",
       "Name": "The Answer Is You",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 11
+      "UsersEstimate": 9
     },
     {
       "ID": "SG_THECHOICEISYOURS",
@@ -1591,14 +1596,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 285,
+      "Progressed": 286,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:09:35.1166821+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:09:55.6326319+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.9220606+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:57:47.9690517+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:09:35.1167107+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:58:15.3361635+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:09:55.6326594+00:00"
 }

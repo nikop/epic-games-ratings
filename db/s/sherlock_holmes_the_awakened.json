@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 272,
   "Ranking_EOS_Completed": 106,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1521,
+  "EOS_Progressed": 1522,
   "EOS_Completed": 49,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 3.22,
   "EosHistory": [
@@ -5422,6 +5422,11 @@
       "Time": "2024-01-19T22:07:01.6528466+00:00",
       "NumProgressed": 1521,
       "NumCompleted": 49
+    },
+    {
+      "Time": "2024-01-20T00:04:02.8141918+00:00",
+      "NumProgressed": 1522,
+      "NumCompleted": 49
     }
   ],
   "TotalAchievements": 28,
@@ -5433,7 +5438,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "MQ01_2",
@@ -5449,7 +5454,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 821
+      "UsersEstimate": 822
     },
     {
       "ID": "MQ02_2",
@@ -5481,7 +5486,7 @@
       "Name": "Fond Memories",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "MQ03_2",
@@ -5521,7 +5526,7 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "MQ04_2",
@@ -5537,7 +5542,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "MQ05_1",
@@ -5575,9 +5580,9 @@
       "ID": "MQ06_1",
       "SetID": "bbing49",
       "Name": "Brain Food",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 472
+      "UsersEstimate": 457
     },
     {
       "ID": "MQ06_2",
@@ -5617,7 +5622,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 608
+      "UsersEstimate": 609
     },
     {
       "ID": "MQ08_1",
@@ -5641,7 +5646,7 @@
       "Name": "Fhtagn!",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 593
+      "UsersEstimate": 594
     },
     {
       "ID": "PLTN",
@@ -5656,7 +5661,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1521,
+      "Progressed": 1522,
       "Completed": 49
     }
   ],
@@ -5664,8 +5669,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-19T12:03:49.5981342+00:00",
-  "LastChanged_Achievements": "2024-01-19T22:07:01.6528461+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:04:02.8141913+00:00",
   "LastUpdate_AppInfo": "2024-01-13T22:57:35.2613449+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:03:28.2134189+00:00",
-  "LastUpdate_Achievements": "2024-01-19T22:07:01.6528926+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:03:43.4404755+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:04:02.8142459+00:00"
 }

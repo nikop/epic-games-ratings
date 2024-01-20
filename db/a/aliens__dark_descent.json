@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 500,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 344,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -579,9 +579,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6504,
+  "EOS_Progressed": 6505,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 120,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10124,6 +10124,11 @@
       "Time": "2024-01-19T21:04:34.4486164+00:00",
       "NumProgressed": 6504,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T00:04:33.0255763+00:00",
+      "NumProgressed": 6505,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10143,7 +10148,7 @@
       "Name": "Flawless Victory",
       "Percentage": 11,
       "XP": 90,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_ALL_WEAPONS",
@@ -10215,7 +10220,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -10247,7 +10252,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10255,7 +10260,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3772
+      "UsersEstimate": 3773
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10263,7 +10268,7 @@
       "Name": "Heavy Steps",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 715
+      "UsersEstimate": 716
     },
     {
       "ID": "ACH_MARINE_PROSTHESIS",
@@ -10327,7 +10332,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3447
+      "UsersEstimate": 3448
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10359,7 +10364,7 @@
       "Name": "Where It All Begun",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 2211
+      "UsersEstimate": 2212
     },
     {
       "ID": "ACH_MISSION_06",
@@ -10439,7 +10444,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5008
+      "UsersEstimate": 5009
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10447,7 +10452,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3317
+      "UsersEstimate": 3318
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10463,7 +10468,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2341
+      "UsersEstimate": 2342
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10471,7 +10476,7 @@
       "Name": "Recouped Investment",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2081
+      "UsersEstimate": 2082
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10494,7 +10499,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6504,
+      "Progressed": 6505,
       "Completed": 3
     }
   ],
@@ -10502,8 +10507,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:04:00.4042139+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:04:33.0255758+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:15.6831345+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:00:08.7828631+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:04:00.4042992+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:01:47.3415317+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:04:33.0256705+00:00"
 }

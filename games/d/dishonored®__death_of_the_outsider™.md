@@ -3,8 +3,8 @@
 [View Rawdata](../../db/d/dishonored®__death_of_the_outsider™.json)  
 Rating: 4.43 (Ranked 731)  
 ## Awards
-Max (Relaxing): 55  (Ranked 448)  
-Sum: 434 (Ranked 351)  
+Max (Diverse Characters): 55  (Ranked 448)  
+Sum: 435 (Ranked 351)  
 Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
@@ -16,7 +16,7 @@ Diff (max vs sum): 97
 | This game is Extremely Fun | 48 |
 | This game has Amazing Characters | 47 |
 | This game has Quickly Understood Controls | 39 |
-| This game has a Creative Community | 32 |
+| This game has a Creative Community | 33 |
 | This game has Great Boss Battles | 27 |
 | This game has Unique Visuals | 22 |
 ## Ratings History
@@ -215,3 +215,4 @@ Diff (max vs sum): 97
 | 2024-01-15 | 4.43 | 55 | 431 |
 | 2024-01-16 | 4.43 | 55 | 432 |
 | 2024-01-18 | 4.43 | 55 | 434 |
+| 2024-01-20 | 4.43 | 55 | 435 |

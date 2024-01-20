@@ -1,30 +1,30 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.66 (Ranked 305)  
+Rating: 4.66 (Ranked 306)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 47.00% | ~631 |
-| Rail Rat | 36.00% | ~483 |
+| Time Heals All Wounds | 47.00% | ~632 |
+| Rail Rat | 36.00% | ~484 |
 | The Mysterious Stranger | 35.00% | ~470 |
 | Immaculate Aim | 30.00% | ~403 |
-| The Brass Boss | 29.00% | ~389 |
+| The Brass Boss | 29.00% | ~390 |
 | Time Flies | 28.00% | ~376 |
-| Make Up For Lost Time | 27.00% | ~363 |
 | No, Thanks! | 27.00% | ~363 |
 | The Prince in Heels | 27.00% | ~363 |
 | Honest Mistake | 27.00% | ~363 |
-| Immaculate Aim | 27.00% | ~363 |
+| Make Up For Lost Time | 26.00% | ~349 |
 | The Harder They Fall | 26.00% | ~349 |
 | Fast Learner | 26.00% | ~349 |
+| Immaculate Aim | 26.00% | ~349 |
 | The Steel Shadow | 25.00% | ~336 |
-| Breaking Down Barriers | 24.00% | ~322 |
-| The Wicked Twins | 24.00% | ~322 |
+| Breaking Down Barriers | 24.00% | ~323 |
+| The Wicked Twins | 24.00% | ~323 |
 | Right On Time | 23.00% | ~309 |
 | Golem Chaser | 23.00% | ~309 |
-| Like Clockwork | 22.00% | ~295 |
-| The Betrayer | 22.00% | ~295 |
+| Like Clockwork | 22.00% | ~296 |
+| The Betrayer | 22.00% | ~296 |
 | Check Your Pulse | 21.00% | ~282 |
 | The Loose Cannon | 20.00% | ~269 |
 | Street Style | 19.00% | ~255 |
@@ -45,7 +45,7 @@ Rating: 4.66 (Ranked 305)
 | Fairgrounds Explorer | 10.00% | ~134 |
 | Corin Goes Home | 9.00% | ~121 |
 | Entresol Explorer | 9.00% | ~121 |
-| Sartorialist | 8.00% | ~107 |
+| Sartorialist | 8.00% | ~108 |
 | Golem Hunter | 7.00% | ~94 |
 | Clovemary for Remembering | 6.00% | ~81 |
 | Hexlock for Protection | 6.00% | ~81 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 305)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,343 (Ranked 282)  
+Progressed: 1,344 (Ranked 282)  
 Completed: 8 (0.60%) (Ranked 215)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -240,6 +240,7 @@ Completed: 8 (0.60%) (Ranked 215)
 | 2024-01-17 | 1,335 | 8 |
 | 2024-01-18 | 1,339 | 8 |
 | 2024-01-19 | 1,343 | 8 |
+| 2024-01-20 | 1,344 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

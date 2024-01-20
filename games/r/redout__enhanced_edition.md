@@ -8,10 +8,10 @@ Number of Ratings: 274  (23.09.2022)
 | ---- | ---------- | ----- |
 | VANGUARD | 41.00% | ~98,165 |
 | NATURAL BORN WINNER | 33.00% | ~79,011 |
-| CALLING HOUSTON | 28.00% | ~67,040 |
+| CALLING HOUSTON | 28.00% | ~67,039 |
 | SNEAKY SNEAKY | 22.00% | ~52,674 |
 | TRICK UP YOUR SLEEVE | 22.00% | ~52,674 |
-| GT9STRADALE | 20.00% | ~47,886 |
+| GT9STRADALE | 20.00% | ~47,885 |
 | CHALLENGER | 11.00% | ~26,337 |
 | ON A ROLL | 10.00% | ~23,943 |
 | CENTAUR | 8.00% | ~19,154 |
@@ -41,7 +41,7 @@ Number of Ratings: 274  (23.09.2022)
 | PILE UP TROPHIES | 0.20% | ~479 |
 | ENLIGHTENED | 0.10% | ~239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 239,428 (Ranked 76)  
+Progressed: 239,426 (Ranked 76)  
 Completed: 47 (0.02%) (Ranked 369)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,6 +316,7 @@ Completed: 47 (0.02%) (Ranked 369)
 | 2024-01-17 | 239,484 | 49 |
 | 2024-01-18 | 239,476 | 49 |
 | 2024-01-19 | 239,447 | 49 |
+| 2024-01-20 | 239,426 | 47 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

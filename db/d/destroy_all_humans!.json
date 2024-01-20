@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 166,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
     "PcReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -307,7 +307,7 @@
   ],
   "EOS_Progressed": 523,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 62,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.15,
   "EosHistory": [
@@ -2123,9 +2123,9 @@
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
       "SetID": "cefn62b",
       "Name": "Arkvoodle Doodle",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 105
     },
     {
       "ID": "ACH_ABILITY_DRAINVEHICLE",
@@ -2179,9 +2179,9 @@
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 319
+      "UsersEstimate": 324
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2411,17 +2411,17 @@
       "ID": "ACH_UPGRADE_CRYPTO",
       "SetID": "cefn62b",
       "Name": "Perfect Probulator",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 303
+      "UsersEstimate": 309
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 246
+      "UsersEstimate": 251
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2443,8 +2443,8 @@
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:05:48.3869264+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:07:02.8548868+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:02:57.8191969+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:05:48.3869559+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:02:30.4168809+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:07:02.8549175+00:00"
 }

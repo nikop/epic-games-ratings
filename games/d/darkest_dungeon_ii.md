@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 243)  
+Rating: 4.69 (Ranked 242)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 7.00% | ~9,328 |
 | Creep and Sleep | 7.00% | ~9,328 |
 | Overdue Notice | 7.00% | ~9,328 |
-| This guy... again? | 7.00% | ~568 |
+| This guy... again? | 7.00% | ~569 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~7,995 |
 | Serenity Now! | 6.00% | ~7,995 |
 | Meat and Greet | 6.00% | ~7,995 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,251 (Ranked 92)  
+Progressed: 133,255 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,14 +351,15 @@ Completed: 5 (0.00%) (Ranked 406)
 | 2024-01-17 | 133,087 | 5 |
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
+| 2024-01-20 | 133,255 | 5 |
 ## Awards
 Max (Character Customization): 8,044  (Ranked 52)  
-Sum: 21,756 (Ranked 58)  
+Sum: 21,761 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,044 |
-| This game has Diverse Characters | 1,874 |
+| This game has Diverse Characters | 1,879 |
 | This game has Challenging Combat | 1,686 |
 | This game is Highly Recommended | 1,610 |
 | This game has Amazing Characters | 1,539 |
@@ -728,4 +729,4 @@ Diff (max vs sum): -6
 | 2024-01-16 | 4.68 | - | 8,031 | 21,690 |
 | 2024-01-17 | 4.69 | - | 8,040 | 21,713 |
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
-| 2024-01-19 | 4.69 | - | 8,044 | 21,756 |
+| 2024-01-19 | 4.69 | - | 8,044 | 21,761 |

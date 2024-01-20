@@ -55,10 +55,10 @@ Number of Ratings: 429  (23.09.2022)
 | Veteran Crew | 0.40% | ~30 |
 | Commodity Seller, Level 2 | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
+| Commodity Trader - Level 2 | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
 | Recruit a Dozen Leaders | 0.20% | ~15 |
 | Solid Economy | 0.10% | ~8 |
-| Commodity Trader - Level 2 | 0.10% | ~8 |
 | Commodity Guru | 0.10% | ~8 |
 | Yor Dead Iconians | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |

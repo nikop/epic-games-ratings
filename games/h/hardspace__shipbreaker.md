@@ -1,14 +1,14 @@
 # Hardspace: Shipbreaker
 [Store](https://store.epicgames.com/en-US/p/hardspace-shipbreaker)  
 [View Rawdata](../../db/h/hardspace__shipbreaker.json)  
-Rating: 4.66 (Ranked 305)  
+Rating: 4.66 (Ranked 306)  
 Number of Ratings: 36  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breathe In… Breathe Out… | 72.00% | ~781 |
+| Breathe In… Breathe Out… | 72.00% | ~782 |
 | It’s Heating up! | 69.00% | ~749 |
-| Let’s patch things up | 64.00% | ~694 |
+| Let’s patch things up | 64.00% | ~695 |
 | I can fix it! | 62.00% | ~673 |
 | Post No Bills | 55.00% | ~597 |
 | Truly Shocking! | 48.00% | ~521 |
@@ -18,13 +18,13 @@ Number of Ratings: 36  (23.09.2022)
 | The Weight of the World | 29.00% | ~315 |
 | A drop in the Ocean | 28.00% | ~304 |
 | No Niños | 26.00% | ~282 |
-| I ain’t afraid of no Ghost | 24.00% | ~260 |
+| I ain’t afraid of no Ghost | 24.00% | ~261 |
 | Act II Complete | 20.00% | ~217 |
 | Bing Bang BOOM | 19.00% | ~206 |
 | A successful procedure! | 18.00% | ~195 |
 | Breaking the Ice | 18.00% | ~195 |
 | Solidarity Forever | 12.00% | ~130 |
-| A Tucked Tale | 10.00% | ~108 |
+| A Tucked Tale | 10.00% | ~109 |
 | The best thing money can buy | 9.00% | ~98 |
 | Act III Complete | 6.00% | ~65 |
 | See you Space Cowboy | 6.00% | ~65 |
@@ -34,7 +34,7 @@ Number of Ratings: 36  (23.09.2022)
 | Captured Killer of Caerbannog | 0.00% | ~0 |
 | Gecko Go(al) Getter | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,085 (Ranked 296)  
+Progressed: 1,086 (Ranked 296)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,6 +207,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 1,083 | 0 |
 | 2024-01-18 | 1,084 | 0 |
 | 2024-01-19 | 1,085 | 0 |
+| 2024-01-20 | 1,086 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -115,9 +115,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2391,
+  "EOS_Progressed": 2393,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 120,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4820,6 +4820,11 @@
       "Time": "2024-01-19T23:10:28.3674733+00:00",
       "NumProgressed": 2391,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T00:11:08.3802381+00:00",
+      "NumProgressed": 2393,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4829,9 +4834,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1532
     },
     {
       "ID": "ACH_02",
@@ -4903,7 +4908,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "ACH_11",
@@ -4999,7 +5004,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "ACH_23",
@@ -5069,9 +5074,9 @@
       "ID": "ACH_31",
       "SetID": "efe2lj",
       "Name": "Stone Collection",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 574
+      "UsersEstimate": 550
     },
     {
       "ID": "ACH_33",
@@ -5087,7 +5092,7 @@
       "Name": "The Collector",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACH_35",
@@ -5118,7 +5123,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2391,
+      "Progressed": 2393,
       "Completed": 5
     }
   ],
@@ -5126,8 +5131,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:10:28.3674731+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:11:08.3802379+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:57:59.643457+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:10:28.3675168+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:58:33.1862237+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:11:08.3802887+00:00"
 }

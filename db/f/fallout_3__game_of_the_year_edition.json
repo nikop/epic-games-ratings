@@ -2,13 +2,13 @@
   "ID": "fa702d34a37248ba98fb17f680c085e3",
   "Name": "Fallout 3: Game of the Year Edition",
   "ProductSlug": "fallout-3-game-of-the-year-edition",
-  "Ranking_Rating": 425,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 27,
   "Ranking_PopularitySum": 48,
   "Ranking_EOS_Progress": 843,
   "Ranking_EOS_Completed": 406,
   "Ranking_EOS_NewPlayers": 551,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-20T17:50:00+00:00",
     "PcReleaseDate": "2009-10-13T13:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.6,
+  "Rating": 4.59,
   "RatingHistory": [
     {
       "Time": "2022-10-21T00:33:04.5526799+00:00",
@@ -7373,10 +7373,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 30521,
       "NumberOfAwardsMax": 14848
+    },
+    {
+      "Time": "2024-01-19T23:58:30.3903709+00:00",
+      "Rating": 4.59,
+      "NumberOfAwards": 30522,
+      "NumberOfAwardsMax": 14848
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30521,
+  "NumberOfAwards": 30522,
   "NumberOfAwardsMax": 14848,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -7432,7 +7438,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1564
+      "Count": 1565
     },
     {
       "Text": "This game has Unique Visuals",
@@ -7465,8 +7471,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-10-20T18:02:29.378678+00:00",
   "FirstSeenRating": "2022-10-21T00:33:04.5526796+00:00",
-  "LastChanged": "2024-01-19T20:58:31.4186244+00:00",
+  "LastChanged": "2024-01-19T23:58:30.3903706+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:36.510145+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:57:57.6101148+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:05:31.3531494+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:58:30.3903714+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:06:38.9031639+00:00"
 }

@@ -10,14 +10,14 @@ Number of Ratings: 85  (23.09.2022)
 | Kaijuiced | 72.00% | ~377 |
 | Lie Back and Think of Albion | 66.00% | ~345 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 64.00% | ~335 |
-| I Look Up As I Walk to Takoshima | 61.00% | ~319 |
+| I Look Up As I Walk to Takoshima | 62.00% | ~324 |
 | Yettisoned | 60.00% | ~314 |
+| Perfect Probulator | 59.00% | ~309 |
 | Pimp My Raid | 58.00% | ~303 |
-| Perfect Probulator | 58.00% | ~303 |
 | Lobster Blisque | 53.00% | ~277 |
 | Fly Me to the Moon Base | 52.00% | ~272 |
 | Earthly Pleasures | 49.00% | ~256 |
-| Ducks in a Row, Fish in a Barrel | 47.00% | ~246 |
+| Ducks in a Row, Fish in a Barrel | 48.00% | ~251 |
 | Bodied Sattva | 38.00% | ~199 |
 | Forbidden Donut | 37.00% | ~194 |
 | Freshly Squeezed | 36.00% | ~188 |
@@ -27,7 +27,7 @@ Number of Ratings: 85  (23.09.2022)
 | Rock of the Bay | 28.00% | ~146 |
 | Trans-Siberian Express | 26.00% | ~136 |
 | Re-Return of the Clone of the Invasion II-2 | 22.00% | ~115 |
-| Arkvoodle Doodle | 19.00% | ~99 |
+| Arkvoodle Doodle | 20.00% | ~105 |
 | Die Nasty | 18.00% | ~94 |
 | Ouch of Body Experience | 17.00% | ~89 |
 | If You Know What I Mean | 17.00% | ~89 |

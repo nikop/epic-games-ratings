@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escape artist | 75.00% | ~71 |
+| Escape artist | 75.00% | ~72 |
 | Ooh, it's shiny! | 47.00% | ~45 |
 | Book Worm | 46.00% | ~44 |
-| Fussy eater | 35.00% | ~33 |
-| My lost nightingale | 34.00% | ~32 |
-| Through the woods | 33.00% | ~31 |
-| Back to the anvil | 31.00% | ~29 |
-| So soothing... | 31.00% | ~29 |
-| Kekekeke... | 31.00% | ~29 |
-| Sorry Grandpa | 31.00% | ~29 |
+| Fussy eater | 35.00% | ~34 |
+| My lost nightingale | 33.00% | ~32 |
+| Through the woods | 32.00% | ~31 |
+| Back to the anvil | 30.00% | ~29 |
+| So soothing... | 30.00% | ~29 |
+| Kekekeke... | 30.00% | ~29 |
+| Sorry Grandpa | 30.00% | ~29 |
 | Mystery solved | 29.00% | ~28 |
 | Honey, honey, honey… | 29.00% | ~28 |
 | A very special drink | 29.00% | ~28 |
@@ -44,8 +44,8 @@
 | What a mess | 9.00% | ~9 |
 | Posterboy! | 7.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 95 (Ranked 503)  
-Completed: 6 (6.32%) (Ranked 66)  
+Progressed: 96 (Ranked 503)  
+Completed: 6 (6.25%) (Ranked 66)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -104,6 +104,7 @@ Completed: 6 (6.32%) (Ranked 66)
 | 2023-12-31 | 92 | 6 |
 | 2024-01-01 | 93 | 6 |
 | 2024-01-12 | 95 | 6 |
+| 2024-01-20 | 96 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

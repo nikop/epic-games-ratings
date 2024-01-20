@@ -5,16 +5,16 @@ Rating: 4.52 (Ranked 581)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~24,980 |
-| I've Had Enough! | 15.00% | ~18,735 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,739 |
-| Seasoned Fighter | 9.00% | ~11,241 |
-| All For One and One For All | 8.00% | ~9,992 |
-| Home Sweet Home? | 6.00% | ~7,494 |
-| A New Age | 5.00% | ~6,245 |
-| Oh Baby, A Triple | 3.00% | ~3,747 |
-| Master of Disguise | 3.00% | ~3,747 |
-| Symbiotic | 3.00% | ~3,747 |
+| All Grown Up! | 20.00% | ~24,984 |
+| I've Had Enough! | 15.00% | ~18,738 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,741 |
+| Seasoned Fighter | 9.00% | ~11,243 |
+| All For One and One For All | 8.00% | ~9,994 |
+| Home Sweet Home? | 6.00% | ~7,495 |
+| A New Age | 5.00% | ~6,246 |
+| Oh Baby, A Triple | 3.00% | ~3,748 |
+| Master of Disguise | 3.00% | ~3,748 |
+| Symbiotic | 3.00% | ~3,748 |
 | Battle Hardened | 2.00% | ~2,498 |
 | Double Punch! | 2.00% | ~2,498 |
 | It's Mayhem! | 2.00% | ~2,498 |
@@ -26,8 +26,8 @@ Rating: 4.52 (Ranked 581)
 | Ninja Reflex | 0.90% | ~1,124 |
 | Zero-sum Game | 0.90% | ~1,124 |
 | Taste Your Own Medicine | 0.70% | ~874 |
-| This is GigaBash! | 0.50% | ~624 |
-| Sidetracked... | 0.50% | ~624 |
+| This is GigaBash! | 0.50% | ~625 |
+| Sidetracked... | 0.50% | ~625 |
 | Eye of the Titan | 0.40% | ~500 |
 | Just Getting Warmed Up | 0.40% | ~500 |
 | Top of the Food Chain | 0.40% | ~500 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 581)
 | What's Mine is Yours | 0.10% | ~125 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 124,900 (Ranked 93)  
+Progressed: 124,920 (Ranked 93)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -87,6 +87,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 124,143 | 0 |
 | 2024-01-18 | 124,518 | 0 |
 | 2024-01-19 | 124,900 | 0 |
+| 2024-01-20 | 124,920 | 0 |
 ## Awards
 Max (Great Boss Battles): 57  (Ranked 442)  
 Sum: 57 (Ranked 506)  

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2315,9 +2315,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22569,
+  "EOS_Progressed": 22570,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 334,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14445,6 +14445,11 @@
       "Time": "2024-01-19T22:10:04.0311236+00:00",
       "NumProgressed": 22569,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-20T00:10:44.6989366+00:00",
+      "NumProgressed": 22570,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14600,7 +14605,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4063
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14648,7 +14653,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6319
+      "UsersEstimate": 6320
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14656,7 +14661,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4062
+      "UsersEstimate": 4063
     },
     {
       "ID": "STORY_HABITAT",
@@ -14831,13 +14836,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22569,
+      "Progressed": 22570,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10495,
+      "Progressed": 10496,
       "Completed": 29
     }
   ],
@@ -14845,8 +14850,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-19T17:03:48.3111876+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:10:10.5185765+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:10:44.6989363+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:03:33.6644728+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:10:10.5186529+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:03:51.606523+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:10:44.6990089+00:00"
 }

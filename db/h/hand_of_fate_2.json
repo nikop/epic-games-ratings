@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 146,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,9 +967,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667632,
+  "EOS_Progressed": 667633,
   "EOS_Completed": 174,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 361,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -27157,6 +27157,11 @@
       "Time": "2024-01-19T23:09:59.7742317+00:00",
       "NumProgressed": 667632,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-20T00:10:29.9165479+00:00",
+      "NumProgressed": 667633,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27168,7 +27173,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480695
+      "UsersEstimate": 480696
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27184,7 +27189,7 @@
       "Name": "Mercenary",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 153555
+      "UsersEstimate": 153556
     },
     {
       "ID": "Achievement_04_Adventurer",
@@ -27304,7 +27309,7 @@
       "Name": "Ninja",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 153555
+      "UsersEstimate": 153556
     },
     {
       "ID": "Achievement_19_Thief_Bane",
@@ -27312,7 +27317,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93468
+      "UsersEstimate": 93469
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -27320,7 +27325,7 @@
       "Name": "Northern Scourge",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 113497
+      "UsersEstimate": 113498
     },
     {
       "ID": "Achievement_21_Empires_Bane",
@@ -27551,15 +27556,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667632,
+      "Progressed": 667633,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:09:59.7742313+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:10:29.9165474+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:10.071591+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:58:42.1140107+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:09:59.7743791+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:59:37.9616671+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:10:29.9167256+00:00"
 }

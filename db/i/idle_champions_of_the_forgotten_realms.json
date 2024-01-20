@@ -9691,9 +9691,9 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254785,
+  "EOS_Progressed": 254793,
   "EOS_Completed": 2625,
-  "EOS_NewPlayers": 1187,
+  "EOS_NewPlayers": 1185,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -40851,6 +40851,11 @@
       "Time": "2024-01-19T23:10:39.3208709+00:00",
       "NumProgressed": 254785,
       "NumCompleted": 2625
+    },
+    {
+      "Time": "2024-01-20T00:11:20.6318366+00:00",
+      "NumProgressed": 254793,
+      "NumCompleted": 2625
     }
   ],
   "TotalAchievements": 546,
@@ -40862,7 +40867,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10191
+      "UsersEstimate": 10192
     },
     {
       "ID": "objective_completed_10",
@@ -41838,7 +41843,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "objective_completed_130",
@@ -44606,7 +44611,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "objective_completed_902",
@@ -45150,7 +45155,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "objective_completed_1558",
@@ -45229,21 +45234,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221059,
+      "Progressed": 221067,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254785,
+      "Progressed": 254793,
       "Completed": 2625
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-19T22:59:49.4282437+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:10:39.3208706+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:11:20.6318365+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:59:49.4282444+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:10:39.3231646+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:01:18.0963871+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:11:20.634097+00:00"
 }

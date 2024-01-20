@@ -43,8 +43,8 @@ Rating: 4.36 (Ranked 823)
 | Bold and beautiful | 17.00% | ~469 |
 | Networker | 17.00% | ~469 |
 | Settler | 16.00% | ~441 |
+| Go West | 15.00% | ~414 |
 | Assimilated | 15.00% | ~414 |
-| Go West | 14.00% | ~386 |
 | Max Power | 14.00% | ~386 |
 | Locusts | 14.00% | ~386 |
 | A new Hope | 12.00% | ~331 |

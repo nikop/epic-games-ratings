@@ -6,9 +6,9 @@ Rating: 4.60 (Ranked 425)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 34.00% | ~1,436 |
-| Sputnik 2049 | 30.00% | ~1,267 |
+| Sputnik 2049 | 30.00% | ~1,268 |
 | Infinite Growth... | 29.00% | ~1,225 |
-| Without Breaking Some Eggs... | 27.00% | ~1,140 |
+| Without Breaking Some Eggs... | 27.00% | ~1,141 |
 | Space Society | 20.00% | ~845 |
 | A Thousand Strong | 20.00% | ~845 |
 | Ready for a New World | 20.00% | ~845 |
@@ -17,7 +17,7 @@ Rating: 4.60 (Ranked 425)
 | The Ship of Theseus | 16.00% | ~676 |
 | Guy de Borderlands | 15.00% | ~634 |
 | Ain't Nobody Got Time for That | 15.00% | ~634 |
-| Hope Seeker | 14.00% | ~591 |
+| Hope Seeker | 14.00% | ~592 |
 | A Hunk of Junk | 13.00% | ~549 |
 | Exceeding Capacity | 13.00% | ~549 |
 | Breaking Protocol | 13.00% | ~549 |
@@ -30,8 +30,8 @@ Rating: 4.60 (Ranked 425)
 | Access Granted | 7.00% | ~296 |
 | Drill-dozer | 7.00% | ~296 |
 | From the Past | 7.00% | ~296 |
-| Oats | 6.00% | ~253 |
-| All in Good Health | 6.00% | ~253 |
+| Oats | 6.00% | ~254 |
+| All in Good Health | 6.00% | ~254 |
 | What They Hide From Us | 5.00% | ~211 |
 | ...  in a finite world | 5.00% | ~211 |
 | In Dolos We Trust | 5.00% | ~211 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 425)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,224 (Ranked 217)  
+Progressed: 4,225 (Ranked 217)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,6 +328,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 4,209 | 0 |
 | 2024-01-18 | 4,219 | 0 |
 | 2024-01-19 | 4,224 | 0 |
+| 2024-01-20 | 4,225 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

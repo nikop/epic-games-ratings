@@ -8239,9 +8239,9 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 152097,
+  "EOS_Progressed": 152106,
   "EOS_Completed": 359,
-  "EOS_NewPlayers": 1201,
+  "EOS_NewPlayers": 1204,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37384,6 +37384,11 @@
       "Time": "2024-01-19T23:09:31.5698441+00:00",
       "NumProgressed": 152097,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-20T00:09:50.7478068+00:00",
+      "NumProgressed": 152106,
+      "NumCompleted": 359
     }
   ],
   "TotalAchievements": 112,
@@ -37563,7 +37568,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18252
+      "UsersEstimate": 18253
     },
     {
       "ID": "chest02",
@@ -37627,7 +37632,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15210
+      "UsersEstimate": 15211
     },
     {
       "ID": "commonres02",
@@ -37691,7 +37696,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "damage01",
@@ -37867,7 +37872,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15210
+      "UsersEstimate": 15211
     },
     {
       "ID": "gold02",
@@ -38003,7 +38008,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 760
+      "UsersEstimate": 761
     },
     {
       "ID": "lilu_a",
@@ -38211,7 +38216,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16731
+      "UsersEstimate": 16732
     },
     {
       "ID": "twinenchant01",
@@ -38290,15 +38295,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152097,
+      "Progressed": 152106,
       "Completed": 359
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-19T18:03:11.8654886+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:09:31.5698438+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:09:50.7478064+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:03:31.4139185+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:09:31.5700522+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:03:48.3121959+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:09:50.7480301+00:00"
 }

@@ -229,9 +229,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8655,
+  "EOS_Progressed": 8656,
   "EOS_Completed": 55,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.64,
   "EosHistory": [
@@ -10194,6 +10194,11 @@
       "Time": "2024-01-19T23:04:08.033347+00:00",
       "NumProgressed": 8655,
       "NumCompleted": 55
+    },
+    {
+      "Time": "2024-01-20T00:04:43.8130784+00:00",
+      "NumProgressed": 8656,
+      "NumCompleted": 55
     }
   ],
   "AchievementsAdded": "2023-09-14T16:03:29.9051935+00:00",
@@ -10206,7 +10211,7 @@
       "Name": "First of Many",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 7616
+      "UsersEstimate": 7617
     },
     {
       "ID": "achievement_01_02",
@@ -10222,7 +10227,7 @@
       "Name": "Brand New Ride",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 5712
+      "UsersEstimate": 5713
     },
     {
       "ID": "achievement_01_04",
@@ -10230,7 +10235,7 @@
       "Name": "Bzzzt",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 6491
+      "UsersEstimate": 6492
     },
     {
       "ID": "achievement_01_05",
@@ -10262,7 +10267,7 @@
       "Name": "Trophy Collector",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 6578
+      "UsersEstimate": 6579
     },
     {
       "ID": "achievement_01_09",
@@ -10270,7 +10275,7 @@
       "Name": "Right Foot",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 3981
+      "UsersEstimate": 3982
     },
     {
       "ID": "achievement_01_10",
@@ -10286,7 +10291,7 @@
       "Name": "Roll the Credits!",
       "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 1471
+      "UsersEstimate": 1472
     },
     {
       "ID": "achievement_02_02",
@@ -10318,7 +10323,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "achievement_02_06",
@@ -10350,7 +10355,7 @@
       "Name": "USA - Check!",
       "Percentage": 30,
       "XP": 50,
-      "UsersEstimate": 2596
+      "UsersEstimate": 2597
     },
     {
       "ID": "achievement_03_02",
@@ -10358,7 +10363,7 @@
       "Name": "Brazil - Check!",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "achievement_03_03",
@@ -10462,7 +10467,7 @@
       "Name": "Flawless Racer",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1644
+      "UsersEstimate": 1645
     },
     {
       "ID": "achievement_04_05",
@@ -10486,7 +10491,7 @@
       "Name": "Nitro Saver",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 4414
+      "UsersEstimate": 4415
     },
     {
       "ID": "achievement_04_08",
@@ -10494,7 +10499,7 @@
       "Name": "Trigger-Happy",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 7530
+      "UsersEstimate": 7531
     },
     {
       "ID": "achievement_04_09",
@@ -10509,7 +10514,7 @@
     {
       "ID": "4f1m94d",
       "IsBase": true,
-      "Progressed": 8655,
+      "Progressed": 8656,
       "Completed": 55
     }
   ],
@@ -10517,8 +10522,8 @@
   "FirstSeenRating": "2023-09-26T18:04:36.0445806+00:00",
   "FirstSeenAchievements": "2023-09-14T16:03:29.9051934+00:00",
   "LastChanged": "2024-01-18T22:57:32.938139+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:04:08.0333465+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:04:43.813078+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.3396943+00:00",
-  "LastUpdate_Ratings": "2024-01-19T22:57:40.8135349+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:04:08.0334152+00:00"
+  "LastUpdate_Ratings": "2024-01-19T23:58:04.3909015+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:04:43.8131461+00:00"
 }

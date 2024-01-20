@@ -80,6 +80,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Grave Digger | 0.30% | ~730 |
 | Soul Stash | 0.30% | ~730 |
 | Gigantic | 0.30% | ~730 |
+| Become The Nightmare | 0.30% | ~730 |
 | Clearing The Room | 0.30% | ~730 |
 | Path To Enlightenment | 0.30% | ~730 |
 | Fire Away! | 0.30% | ~730 |
@@ -98,7 +99,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Power Score | 0.20% | ~486 |
 | Predator | 0.20% | ~486 |
 | Resourceful | 0.20% | ~486 |
-| Become The Nightmare | 0.20% | ~486 |
 | Trail Of Death | 0.20% | ~486 |
 | The Boulder | 0.20% | ~486 |
 | Overthrown | 0.20% | ~486 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,229 (Ranked 75)  
+Progressed: 243,232 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,6 +420,7 @@ Completed: 309 (0.13%) (Ranked 306)
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
 | 2024-01-19 | 243,229 | 309 |
+| 2024-01-20 | 243,232 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  

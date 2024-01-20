@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47505,
+  "EOS_Progressed": 47506,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 354,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19353,6 +19353,11 @@
       "Time": "2024-01-19T21:07:00.0379896+00:00",
       "NumProgressed": 47505,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T00:06:59.0543306+00:00",
+      "NumProgressed": 47506,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19516,7 +19521,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4275
+      "UsersEstimate": 4276
     },
     {
       "ID": "CUFF_ATTACK",
@@ -19787,22 +19792,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47505,
+      "Progressed": 47506,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12342,
-      "Completed": 12342
+      "Progressed": 12343,
+      "Completed": 12343
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:05:45.6448957+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:06:59.0543302+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:03:13.9758276+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:05:45.645006+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:03:24.6622101+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:06:59.05444+00:00"
 }

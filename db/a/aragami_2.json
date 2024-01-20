@@ -257,9 +257,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45278,
+  "EOS_Progressed": 45279,
   "EOS_Completed": 250,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 197,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -21477,6 +21477,11 @@
       "Time": "2024-01-19T23:05:44.0243428+00:00",
       "NumProgressed": 45278,
       "NumCompleted": 250
+    },
+    {
+      "Time": "2024-01-20T00:06:56.7708583+00:00",
+      "NumProgressed": 45279,
+      "NumCompleted": 250
     }
   ],
   "TotalAchievements": 44,
@@ -21488,7 +21493,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25808
+      "UsersEstimate": 25809
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21608,7 +21613,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36222
+      "UsersEstimate": 36223
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -21672,7 +21677,7 @@
       "Name": "Sleeping on the Job",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 7244
+      "UsersEstimate": 7245
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -21728,7 +21733,7 @@
       "Name": "Tools of the Trade",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 28525
+      "UsersEstimate": 28526
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -21760,7 +21765,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30336
+      "UsersEstimate": 30337
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21808,7 +21813,7 @@
       "Name": "Pilgrimage",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -21839,7 +21844,7 @@
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45278,
+      "Progressed": 45279,
       "Completed": 250
     }
   ],
@@ -21847,8 +21852,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:05:44.0243424+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:06:56.7708578+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:18.4342341+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:03:27.3574996+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:05:44.0244935+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:03:42.2388129+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:06:56.7710006+00:00"
 }

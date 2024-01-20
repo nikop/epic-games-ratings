@@ -14,12 +14,12 @@
 | Memory Rouser | 49.00% | ~679 |
 | Subsistence Skills | 49.00% | ~679 |
 | Fusion Conjuror | 48.00% | ~665 |
-| Kemono Hunter | 44.00% | ~609 |
+| Kemono Hunter | 45.00% | ~623 |
 | Expert Conjuror | 42.00% | ~582 |
 | Helpful Heart | 41.00% | ~568 |
 | Bonds of Enmity | 40.00% | ~554 |
 | Flawless Crystal | 39.00% | ~540 |
-| Distance Devourer | 37.00% | ~512 |
+| Distance Devourer | 38.00% | ~526 |
 | Counter Specialist | 35.00% | ~485 |
 | Master of the Skies | 33.00% | ~457 |
 | Axer of Auspice | 30.00% | ~416 |

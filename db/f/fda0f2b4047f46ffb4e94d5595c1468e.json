@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 379,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5391,9 +5391,9 @@
       "Count": 647
     }
   ],
-  "EOS_Progressed": 24020,
+  "EOS_Progressed": 24021,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 349,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17156,6 +17156,11 @@
       "Time": "2024-01-19T23:09:13.2297864+00:00",
       "NumProgressed": 24020,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T00:09:26.4426797+00:00",
+      "NumProgressed": 24021,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17192,7 +17197,7 @@
       "Name": "What Just Happened??",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 7446
+      "UsersEstimate": 7447
     },
     {
       "ID": "ach05",
@@ -17208,7 +17213,7 @@
       "Name": "Titan",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 16093
+      "UsersEstimate": 16094
     },
     {
       "ID": "ach07",
@@ -17216,7 +17221,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11049
+      "UsersEstimate": 11050
     },
     {
       "ID": "ach08",
@@ -17224,7 +17229,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7686
+      "UsersEstimate": 7687
     },
     {
       "ID": "ach09",
@@ -17296,7 +17301,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 9848
+      "UsersEstimate": 9849
     },
     {
       "ID": "ach18",
@@ -17392,7 +17397,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "ach30",
@@ -17456,7 +17461,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11289
+      "UsersEstimate": 11290
     },
     {
       "ID": "ach38",
@@ -17472,7 +17477,7 @@
       "Name": "Make Way, I\u0027m Koming Through",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7686
+      "UsersEstimate": 7687
     },
     {
       "ID": "ach40",
@@ -17480,7 +17485,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "ach41",
@@ -17496,7 +17501,7 @@
       "Name": "Quest Master",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7686
+      "UsersEstimate": 7687
     },
     {
       "ID": "ach43",
@@ -17504,7 +17509,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7686
+      "UsersEstimate": 7687
     },
     {
       "ID": "ach44",
@@ -17544,7 +17549,7 @@
       "Name": "Total Disrespect",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4083
+      "UsersEstimate": 4084
     },
     {
       "ID": "ach49",
@@ -17560,14 +17565,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7446
+      "UsersEstimate": 7447
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24020,
+      "Progressed": 24021,
       "Completed": 2
     }
   ],
@@ -17575,8 +17580,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-19T22:03:07.47718+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:09:13.2297861+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:09:26.4426792+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:21.830641+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:03:07.6246806+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:09:13.22987+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:03:15.7020284+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:09:26.4427789+00:00"
 }

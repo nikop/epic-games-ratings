@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 344,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 343,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
     "PcReleaseDate": "2016-09-22T14:42:57+00:00",
@@ -1407,9 +1407,9 @@
       "ID": "THAT_IS_MUCH_BETTER",
       "SetID": "2iigf77",
       "Name": "That\u0027s much better!",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 104
     },
     {
       "ID": "THERE_IS_ANOTHER_WAY",
@@ -1448,8 +1448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-19T23:10:25.8294246+00:00",
+  "LastChanged_Achievements": "2024-01-20T00:11:05.1384745+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:30.6529404+00:00",
-  "LastUpdate_Ratings": "2024-01-19T23:00:10.6559286+00:00",
-  "LastUpdate_Achievements": "2024-01-19T23:10:25.8294532+00:00"
+  "LastUpdate_Ratings": "2024-01-20T00:01:50.3500419+00:00",
+  "LastUpdate_Achievements": "2024-01-20T00:11:05.1384921+00:00"
 }
