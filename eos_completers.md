@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.72% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.81% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.80% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -97,7 +97,7 @@
 | 95 | [The Bunker](games/t/the_bunker.md) | 3.83% |
 | 96 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.70% |
 | 97 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
-| 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.64% |
+| 98 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.63% |
 | 99 | [Doodle God](games/d/doodle_god.md) | 3.60% |
 | 100 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 100 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
@@ -161,13 +161,13 @@
 | 159 | [Ten Dates](games/t/ten_dates.md) | 1.32% |
 | 160 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.30% |
 | 161 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
-| 162 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
-| 162 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.22% |
-| 162 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
-| 165 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
-| 166 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
-| 166 | [Late Shift](games/l/late_shift.md) | 1.14% |
-| 166 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.14% |
+| 162 | [Late Shift](games/l/late_shift.md) | 1.23% |
+| 163 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
+| 163 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.22% |
+| 163 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
+| 166 | [Mokoko X](games/c/cace077f51674e66b937ba8d5646fff7.md) | 1.16% |
+| 167 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
+| 167 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.14% |
 | 169 | [Adios](games/a/adios.md) | 1.13% |
 | 169 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.13% |
 | 171 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
