@@ -4,7 +4,7 @@
   "ProductSlug": "one-hand-clapping",
   "Ranking_EOS_Progress": 302,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewPlayers": 286,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-12-14T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 994,
+  "EOS_Progressed": 997,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1049,6 +1049,11 @@
       "Time": "2024-01-20T09:08:57.1035613+00:00",
       "NumProgressed": 994,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T10:07:57.1025233+00:00",
+      "NumProgressed": 997,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 28,
@@ -1060,7 +1065,7 @@
       "Name": "Silent City",
       "Percentage": 28,
       "XP": 50,
-      "UsersEstimate": 278
+      "UsersEstimate": 279
     },
     {
       "ID": "10",
@@ -1283,7 +1288,7 @@
     {
       "ID": "7l2nmpm",
       "IsBase": true,
-      "Progressed": 994,
+      "Progressed": 997,
       "Completed": 0
     }
   ],
@@ -1291,8 +1296,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3848838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.9622538+00:00",
   "LastChanged": "2023-03-31T05:58:38.3848839+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:08:57.1035608+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:07:57.1025229+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:44.3783467+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:00:06.9614713+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:08:57.1035865+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:58:54.0125879+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:07:57.1025489+00:00"
 }

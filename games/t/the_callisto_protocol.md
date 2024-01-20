@@ -8,10 +8,10 @@ Rating: 4.22 (Ranked 956)
 | The Outer Way | 28.00% | ~6,322 |
 | Flesh Wound | 27.00% | ~6,096 |
 | Desperate Times | 26.00% | ~5,870 |
-| Paper Jams | 24.00% | ~5,418 |
+| Paper Jams | 24.00% | ~5,419 |
 | Get a Grip | 23.00% | ~5,193 |
 | Chew 'Em Up | 22.00% | ~4,967 |
-| Reforged | 20.00% | ~4,515 |
+| Reforged | 20.00% | ~4,516 |
 | Float Like A Butterfly | 19.00% | ~4,290 |
 | Workplace Hazard | 18.00% | ~4,064 |
 | If the SHU Fits... | 18.00% | ~4,064 |
@@ -21,9 +21,9 @@ Rating: 4.22 (Ranked 956)
 | Two Heads Are Better Than One | 13.00% | ~2,935 |
 | Power Up | 13.00% | ~2,935 |
 | Terminated | 12.00% | ~2,709 |
-| Giving Back | 11.00% | ~2,483 |
-| What Lies Beneath | 11.00% | ~2,483 |
-| Full Circle | 11.00% | ~2,483 |
+| Giving Back | 11.00% | ~2,484 |
+| What Lies Beneath | 11.00% | ~2,484 |
+| Full Circle | 11.00% | ~2,484 |
 | You Need a Gun | 10.00% | ~2,258 |
 | I Do Belong Here | 9.00% | ~2,032 |
 | Keep Fighting | 8.00% | ~840 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 956)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,577 (Ranked 153)  
+Progressed: 22,578 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,7 +320,7 @@ Completed: 82 (0.36%) (Ranked 252)
 | 2024-01-17 | 22,513 | 82 |
 | 2024-01-18 | 22,544 | 82 |
 | 2024-01-19 | 22,569 | 82 |
-| 2024-01-20 | 22,577 | 82 |
+| 2024-01-20 | 22,578 | 82 |
 ## Awards
 Max (Amazing Characters): 139  (Ranked 346)  
 Sum: 674 (Ranked 317)  

@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1115,
+  "EOS_Progressed": 1116,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.81,
   "EosHistory": [
@@ -3113,6 +3113,11 @@
       "Time": "2024-01-20T09:05:39.0761256+00:00",
       "NumProgressed": 1115,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-20T10:04:16.0974947+00:00",
+      "NumProgressed": 1116,
+      "NumCompleted": 9
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3205,7 +3210,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 245
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3333,15 +3338,15 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 246
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3380,15 +3385,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1115,
+      "Progressed": 1116,
       "Completed": 9
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:05:39.0761251+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:04:16.0974943+00:00",
   "LastUpdate_AppInfo": "2024-01-13T16:57:15.2754813+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:59:48.4869321+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:05:39.0761582+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:58:42.0653701+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:04:16.097531+00:00"
 }

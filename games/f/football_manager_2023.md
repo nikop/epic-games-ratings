@@ -5,33 +5,33 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Motivational Speaker | 69.00% | ~256,961 |
-| The Player Whisperer | 68.00% | ~253,237 |
-| One of Us, One of Us! | 62.00% | ~230,892 |
-| First Victory | 56.00% | ~208,548 |
-| Clean Sheet | 55.00% | ~204,824 |
-| #DoneDeal | 54.00% | ~201,100 |
-| Off the Books | 52.00% | ~193,652 |
-| Super-Sub | 52.00% | ~193,652 |
-| Hat-trick | 47.00% | ~175,031 |
-| Planned Signing | 45.00% | ~167,583 |
-| "I Would Love It If We Beat Them" | 44.00% | ~163,859 |
-| Scoring Streak | 41.00% | ~152,687 |
-| Wheeler Dealer | 41.00% | ~152,687 |
-| Thumping | 40.00% | ~148,963 |
-| People Pleaser | 40.00% | ~148,963 |
-| Unbeatable! | 39.00% | ~145,239 |
+| Motivational Speaker | 69.00% | ~256,962 |
+| The Player Whisperer | 68.00% | ~253,238 |
+| One of Us, One of Us! | 62.00% | ~230,894 |
+| First Victory | 56.00% | ~208,549 |
+| Clean Sheet | 55.00% | ~204,825 |
+| #DoneDeal | 54.00% | ~201,101 |
+| Off the Books | 52.00% | ~193,653 |
+| Super-Sub | 52.00% | ~193,653 |
+| Hat-trick | 47.00% | ~175,032 |
+| Planned Signing | 45.00% | ~167,584 |
+| "I Would Love It If We Beat Them" | 44.00% | ~163,860 |
+| Scoring Streak | 41.00% | ~152,688 |
+| Wheeler Dealer | 41.00% | ~152,688 |
+| Thumping | 40.00% | ~148,964 |
+| People Pleaser | 40.00% | ~148,964 |
+| Unbeatable! | 39.00% | ~145,240 |
 | One Of Our Own | 37.00% | ~137,791 |
-| They're a Natural | 33.00% | ~122,894 |
-| Record Signing | 33.00% | ~122,894 |
-| Team Performance | 31.00% | ~115,446 |
-| The Only Stat That Matters | 31.00% | ~115,446 |
-| Star Player | 30.00% | ~111,722 |
-| Parked The Bus | 28.00% | ~104,274 |
-| Full Faith | 28.00% | ~104,274 |
-| Goal Rush | 28.00% | ~104,274 |
-| Squad Goals | 28.00% | ~104,274 |
-| The People's Champion | 28.00% | ~104,274 |
+| They're a Natural | 33.00% | ~122,895 |
+| Record Signing | 33.00% | ~122,895 |
+| Team Performance | 31.00% | ~115,447 |
+| The Only Stat That Matters | 31.00% | ~115,447 |
+| Star Player | 30.00% | ~111,723 |
+| Parked The Bus | 28.00% | ~104,275 |
+| Full Faith | 28.00% | ~104,275 |
+| Goal Rush | 28.00% | ~104,275 |
+| Squad Goals | 28.00% | ~104,275 |
+| The People's Champion | 28.00% | ~104,275 |
 | Beating Expectations | 27.00% | ~100,550 |
 | You're on Fire | 26.00% | ~96,826 |
 | Tremendous Trio | 26.00% | ~96,826 |
@@ -44,12 +44,12 @@ Rating: 4.75 (Ranked 151)
 | The Special One | 24.00% | ~89,378 |
 | What A Goal! | 23.00% | ~85,654 |
 | Goal Machine | 22.00% | ~81,930 |
-| Immovable Object | 21.00% | ~78,205 |
-| Cup Glory! | 21.00% | ~78,205 |
-| Splashing the Cash | 20.00% | ~74,481 |
-| Irresistible Force | 19.00% | ~70,757 |
-| Do The Double | 17.00% | ~63,309 |
-| Cash to Burn | 17.00% | ~63,309 |
+| Immovable Object | 21.00% | ~78,206 |
+| Cup Glory! | 21.00% | ~78,206 |
+| Splashing the Cash | 20.00% | ~74,482 |
+| Irresistible Force | 19.00% | ~70,758 |
+| Do The Double | 17.00% | ~63,310 |
+| Cash to Burn | 17.00% | ~63,310 |
 | Window Shopping | 15.00% | ~55,861 |
 | Top Form | 14.00% | ~52,137 |
 | A Game of Two Halves | 14.00% | ~52,137 |
@@ -64,10 +64,10 @@ Rating: 4.75 (Ranked 151)
 | Tête-à-tête | 8.00% | ~29,793 |
 | Invincible! | 8.00% | ~29,793 |
 | Domination | 8.00% | ~29,793 |
-| Best in the Business | 7.00% | ~26,068 |
-| Total Support | 6.00% | ~22,344 |
-| Second Hand Signing | 6.00% | ~22,344 |
-| You Can Buy Happiness | 6.00% | ~22,344 |
+| Best in the Business | 7.00% | ~26,069 |
+| Total Support | 6.00% | ~22,345 |
+| Second Hand Signing | 6.00% | ~22,345 |
+| You Can Buy Happiness | 6.00% | ~22,345 |
 | Bragging Rights | 5.00% | ~18,620 |
 | World Beaters | 5.00% | ~18,620 |
 | World Renowned | 5.00% | ~18,620 |
@@ -106,8 +106,8 @@ Rating: 4.75 (Ranked 151)
 | 200 Club | 0.10% | ~372 |
 | Draft Value | 0.10% | ~372 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 372,407 (Ranked 57)  
-Completed: 30 (0.01%) (Ranked 379)  
+Progressed: 372,409 (Ranked 57)  
+Completed: 30 (0.01%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -381,7 +381,7 @@ Completed: 30 (0.01%) (Ranked 379)
 | 2024-01-17 | 372,072 | 30 |
 | 2024-01-18 | 372,220 | 30 |
 | 2024-01-19 | 372,369 | 30 |
-| 2024-01-20 | 372,407 | 30 |
+| 2024-01-20 | 372,409 | 30 |
 ## Awards
 Max (Diverse Characters): 1,389  (Ranked 143)  
 Sum: 9,482 (Ranked 100)  

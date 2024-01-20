@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,716 |
-| The Assault | 5.00% | ~38,097 |
-| Life is your teacher | 5.00% | ~38,097 |
-| Lightning Hands | 5.00% | ~38,097 |
-| The Hateful Pole Fighter | 3.00% | ~22,858 |
-| Stuntmaster | 3.00% | ~22,858 |
-| Street Fighting | 3.00% | ~22,858 |
-| State of constant learning | 3.00% | ~22,858 |
-| Qi Gong: Essence | 3.00% | ~22,858 |
-| Old Child | 3.00% | ~22,858 |
+| The Old Grandmaster | 6.00% | ~45,717 |
+| The Assault | 5.00% | ~38,098 |
+| Life is your teacher | 5.00% | ~38,098 |
+| Lightning Hands | 5.00% | ~38,098 |
+| The Hateful Pole Fighter | 3.00% | ~22,859 |
+| Stuntmaster | 3.00% | ~22,859 |
+| Street Fighting | 3.00% | ~22,859 |
+| State of constant learning | 3.00% | ~22,859 |
+| Qi Gong: Essence | 3.00% | ~22,859 |
+| Old Child | 3.00% | ~22,859 |
 | A Lady's Blood in the Snow | 2.00% | ~15,239 |
 | Lady Wing Chun | 2.00% | ~15,239 |
 | Furious Fists | 2.00% | ~15,239 |
@@ -27,10 +27,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~15,239 |
 | Take damage to save time | 2.00% | ~15,239 |
 | Diligence as a goal | 2.00% | ~1,425 |
-| Scareless | 1.00% | ~7,619 |
-| Dance of the Praying Mantis | 1.00% | ~7,619 |
-| Kung-Fu Tussle | 1.00% | ~7,619 |
-| Project Arena | 1.00% | ~712 |
+| Scareless | 1.00% | ~7,620 |
+| Dance of the Praying Mantis | 1.00% | ~7,620 |
+| Kung-Fu Tussle | 1.00% | ~7,620 |
+| Project Arena | 1.00% | ~713 |
 | Fight the way you practice | 0.90% | ~641 |
 | Muk Yan Master | 0.80% | ~6,096 |
 | Tiger on Fire | 0.70% | ~5,334 |
@@ -41,7 +41,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.60% | ~4,572 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,572 |
 | Sword Stained With Blood | 0.60% | ~4,572 |
-| Bloody Sport | 0.60% | ~427 |
+| Bloody Sport | 0.60% | ~428 |
 | Prodigal Child | 0.50% | ~3,810 |
 | The best strikes are the ones we avoid | 0.50% | ~356 |
 | Drunken Fighter | 0.40% | ~3,048 |
@@ -55,11 +55,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Be like water my friend | 0.30% | ~2,286 |
 | Deadly Venom | 0.30% | ~214 |
 | A Touch of Acumen | 0.30% | ~214 |
-| Secure, Protect, Leave | 0.20% | ~142 |
-| Crouching Tiger | 0.20% | ~142 |
-| Skill and an even stronger will | 0.20% | ~142 |
-| Master of the Flying Assassins | 0.20% | ~142 |
-| Beatmaker | 0.20% | ~142 |
+| Secure, Protect, Leave | 0.20% | ~143 |
+| Crouching Tiger | 0.20% | ~143 |
+| Skill and an even stronger will | 0.20% | ~143 |
+| Master of the Flying Assassins | 0.20% | ~143 |
+| Beatmaker | 0.20% | ~143 |
 | Warriors from the Mountain | 0.10% | ~762 |
 | Hidden Dragon | 0.10% | ~71 |
 | Here Cometh the Iceman | 0.10% | ~71 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761,940 (Ranked 26)  
+Progressed: 761,956 (Ranked 26)  
 Completed: 12,997 (1.71%) (Ranked 149)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 12,997 (1.71%) (Ranked 149)
 | 2024-01-17 | 761,470 | 12,991 |
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
-| 2024-01-20 | 761,940 | 12,997 |
+| 2024-01-20 | 761,956 | 12,997 |
 ## Awards
 Max (Great Boss Battles): 7,245  (Ranked 58)  
 Sum: 12,824 (Ranked 87)  

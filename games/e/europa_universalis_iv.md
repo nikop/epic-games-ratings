@@ -13,11 +13,12 @@ Number of Ratings: 8,414  (23.09.2022)
 | Seriously?! | 0.50% | ~2,511 |
 | Brothers in Arms | 0.40% | ~2,009 |
 | That's a Grand Navy | 0.40% | ~2,009 |
-| Cold War | 0.30% | ~1,506 |
-| Defender of the Faith | 0.30% | ~1,506 |
-| For the Glory | 0.30% | ~1,506 |
-| It's all about the money | 0.30% | ~1,506 |
-| True Catholic | 0.30% | ~1,506 |
+| Cold War | 0.30% | ~1,507 |
+| Defender of the Faith | 0.30% | ~1,507 |
+| For the Glory | 0.30% | ~1,507 |
+| It's all about the money | 0.30% | ~1,507 |
+| True Catholic | 0.30% | ~1,507 |
+| Aggressive Expander | 0.20% | ~1,004 |
 | Blockader | 0.20% | ~1,004 |
 | Combined Arms | 0.20% | ~1,004 |
 | Double the Love | 0.20% | ~1,004 |
@@ -44,7 +45,6 @@ Number of Ratings: 8,414  (23.09.2022)
 | Academical | 0.10% | ~502 |
 | AEIOU | 0.10% | ~502 |
 | African Power | 0.10% | ~502 |
-| Aggressive Expander | 0.10% | ~502 |
 | Albania or Iberia | 0.10% | ~502 |
 | All belongs to Mother Russia | 0.10% | ~502 |
 | All Blue | 0.10% | ~502 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~502 |
 | The Zoro-Austrians | 0.10% | ~502 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 502,148 (Ranked 42)  
+Progressed: 502,186 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -645,7 +645,7 @@ Completed: 2 (0.00%) (Ranked 406)
 | 2024-01-17 | 500,790 | 1 |
 | 2024-01-18 | 501,312 | 1 |
 | 2024-01-19 | 501,958 | 2 |
-| 2024-01-20 | 502,148 | 2 |
+| 2024-01-20 | 502,186 | 2 |
 ## Awards
 Max (Educational): 7,911  (Ranked 53)  
 Sum: 65,225 (Ranked 24)  

@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~170 |
 | Landowners | 0.90% | ~153 |
 | Traders | 0.90% | ~153 |
+| Via Recta Souk | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
 | Military Prestige | 0.90% | ~153 |
 | Dualism | 0.90% | ~153 |
@@ -103,7 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.80% | ~136 |
 | Hagia Sophia | 0.80% | ~136 |
 | Pantheon | 0.80% | ~136 |
-| Via Recta Souk | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Assyrian Paganism | 0.80% | ~136 |
 | Industrial Progress | 0.80% | ~136 |

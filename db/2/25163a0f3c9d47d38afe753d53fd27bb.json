@@ -2,9 +2,9 @@
   "ID": "25163a0f3c9d47d38afe753d53fd27bb",
   "Name": "Island Farmer",
   "ProductSlug": "island-farmer-ce8ee6",
-  "Ranking_EOS_Progress": 260,
+  "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1810,
+  "EOS_Progressed": 1811,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.24,
+  "EOS_Completed_Percentage": 7.23,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4624,6 +4624,11 @@
       "Time": "2024-01-20T03:09:41.1129539+00:00",
       "NumProgressed": 1810,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2024-01-20T10:09:32.5392373+00:00",
+      "NumProgressed": 1811,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 30,
@@ -4643,7 +4648,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1430
+      "UsersEstimate": 1431
     },
     {
       "ID": "LEVEL_003",
@@ -4659,7 +4664,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 959
+      "UsersEstimate": 960
     },
     {
       "ID": "LEVEL_005",
@@ -4667,7 +4672,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 778
+      "UsersEstimate": 779
     },
     {
       "ID": "LEVEL_006",
@@ -4683,7 +4688,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 597
+      "UsersEstimate": 598
     },
     {
       "ID": "LEVEL_008",
@@ -4707,7 +4712,7 @@
       "Name": "Rocks around the island",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "LEVEL_011",
@@ -4763,7 +4768,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "LEVEL_018",
@@ -4874,14 +4879,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1810,
+      "Progressed": 1811,
       "Completed": 131
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:11:17.7753049+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:09:32.5392371+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:58:23.5804706+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:11:17.7753452+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:57:47.5315484+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:09:32.539278+00:00"
 }

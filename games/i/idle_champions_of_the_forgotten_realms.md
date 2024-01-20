@@ -10,8 +10,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Beast Intentions | 2.00% | ~5,097 |
 | The Cursed Farmer | 2.00% | ~5,097 |
 | The Mad Wizard | 2.00% | ~5,097 |
-| The Ring of Regeneration | 1.00% | ~2,548 |
-| Are Ya Chicken? | 1.00% | ~2,548 |
+| The Ring of Regeneration | 1.00% | ~2,549 |
+| Are Ya Chicken? | 1.00% | ~2,549 |
 | Were-verpowered | 0.90% | ~2,294 |
 | Seeking Allies | 0.80% | ~2,039 |
 | Mad Cow Disease | 0.80% | ~2,039 |
@@ -40,11 +40,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Escort to Waterdeep | 0.40% | ~1,019 |
 | Waterdeep Detours | 0.40% | ~1,019 |
 | Underdeep Cartography | 0.40% | ~1,019 |
-| Arcane Suppression | 0.40% | ~884 |
-| Welcome to the Vrocks | 0.40% | ~884 |
-| Misaligned in Sigil | 0.40% | ~884 |
-| Chaos Theory | 0.40% | ~884 |
-| Mind Spike | 0.40% | ~884 |
+| Arcane Suppression | 0.40% | ~885 |
+| Welcome to the Vrocks | 0.40% | ~885 |
+| Misaligned in Sigil | 0.40% | ~885 |
+| Chaos Theory | 0.40% | ~885 |
+| Mind Spike | 0.40% | ~885 |
 | The Silken Swamp | 0.30% | ~765 |
 | Supply Run | 0.30% | ~765 |
 | Street War | 0.30% | ~765 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,847 (Ranked 71)  
+Progressed: 254,855 (Ranked 71)  
 Completed: 2,627 (1.03%) (Ranked 178)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -828,7 +828,7 @@ Completed: 2,627 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,847 | 2,627 |
+| 2024-01-20 | 254,855 | 2,627 |
 ## Awards
 Max (Great for Beginners): 5,801  (Ranked 74)  
 Sum: 33,576 (Ranked 41)  

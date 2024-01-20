@@ -15,7 +15,7 @@
 | This won't end well... | 31.00% | ~91 |
 | Bromance | 29.00% | ~85 |
 | Lootaphilia | 22.00% | ~64 |
-| Maybe you should give it another go | 10.00% | ~29 |
+| Maybe you should give it another go | 11.00% | ~32 |
 | Mikey Lizard | 7.00% | ~20 |
 | I used to think I was indecisive... | 6.00% | ~18 |
 | That's my boy! | 4.00% | ~12 |

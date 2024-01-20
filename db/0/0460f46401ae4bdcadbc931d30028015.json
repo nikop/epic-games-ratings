@@ -1797,9 +1797,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11160,
+  "EOS_Progressed": 11161,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 743,
+  "EOS_NewPlayers": 741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12132,6 +12132,11 @@
       "Time": "2024-01-20T09:05:49.9091358+00:00",
       "NumProgressed": 11160,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T10:04:23.5222154+00:00",
+      "NumProgressed": 11161,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12152,7 +12157,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "achievement_11",
@@ -12240,7 +12245,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6584
+      "UsersEstimate": 6585
     },
     {
       "ID": "achievement_21",
@@ -12311,7 +12316,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11160,
+      "Progressed": 11161,
       "Completed": 0
     }
   ],
@@ -12319,8 +12324,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-20T05:02:50.6969228+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:05:49.9091351+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:04:23.5222151+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:03:07.713646+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:05:49.9091981+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:02:34.131623+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:04:23.5222698+00:00"
 }

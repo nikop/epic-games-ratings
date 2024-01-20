@@ -6,8 +6,8 @@
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 128,
-  "Ranking_EOS_Completed": 379,
-  "Ranking_EOS_NewPlayers": 145,
+  "Ranking_EOS_Completed": 380,
+  "Ranking_EOS_NewPlayers": 147,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47525,
+  "EOS_Progressed": 47526,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19393,6 +19393,11 @@
       "Time": "2024-01-20T09:07:11.7651799+00:00",
       "NumProgressed": 47525,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T10:05:19.4641833+00:00",
+      "NumProgressed": 47526,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19476,7 +19481,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -19484,7 +19489,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -19500,7 +19505,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -19516,7 +19521,7 @@
       "Name": "Breaking Point",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -19604,7 +19609,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -19652,7 +19657,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -19676,7 +19681,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "MONUMENT_ALL",
@@ -19827,22 +19832,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47525,
+      "Progressed": 47526,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12362,
-      "Completed": 12362
+      "Progressed": 12363,
+      "Completed": 12363
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:07:11.7651794+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:05:19.4641829+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:50.5654066+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:03:27.1267375+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:07:11.7652951+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:02:47.0993869+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:05:19.4643214+00:00"
 }

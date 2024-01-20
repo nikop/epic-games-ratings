@@ -34,10 +34,10 @@ Number of Ratings: 281  (23.09.2022)
 | Rod and Troll | 0.40% | ~31 |
 | All Good Kings Must Come to an End | 0.40% | ~31 |
 | Lake Me up Before You Go Go | 0.30% | ~25 |
+| Golden Ridge Ranger | 0.30% | ~25 |
 | Three Square Meals | 0.30% | ~23 |
+| Head for Heights | 0.20% | ~17 |
 | Big Fish Small Pond | 0.20% | ~17 |
-| Golden Ridge Ranger | 0.20% | ~17 |
-| Head for Heights | 0.10% | ~8 |
 | Lost and Flounder | 0.10% | ~8 |
 | Buckaroo | 0.10% | ~8 |
 | Trollsporet Tale Teller | 0.10% | ~8 |

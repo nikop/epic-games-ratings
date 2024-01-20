@@ -2321,7 +2321,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22577,
+  "EOS_Progressed": 22578,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 318,
   "EOS_NewCompleters": 0,
@@ -14476,6 +14476,11 @@
       "Time": "2024-01-20T09:10:59.7544254+00:00",
       "NumProgressed": 22577,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-20T10:09:20.3865556+00:00",
+      "NumProgressed": 22578,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14503,7 +14508,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14655,7 +14660,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4515
+      "UsersEstimate": 4516
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14663,7 +14668,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5418
+      "UsersEstimate": 5419
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14711,7 +14716,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14735,7 +14740,7 @@
       "Name": "Full Circle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2483
+      "UsersEstimate": 2484
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14862,13 +14867,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22577,
+      "Progressed": 22578,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10503,
+      "Progressed": 10504,
       "Completed": 29
     }
   ],
@@ -14876,8 +14881,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-20T01:50:40.5262185+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:10:59.7544249+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:09:20.3865553+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:03:53.0498357+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:10:59.7545084+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:03:04.7992788+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:09:20.3866247+00:00"
 }

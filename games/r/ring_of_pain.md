@@ -9,25 +9,25 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 2.00% | ~4,865 |
 | Uncharted Territory | 2.00% | ~4,865 |
 | Matching | 2.00% | ~95 |
-| Nothing To Lose | 1.00% | ~2,432 |
-| Heavy Hitter | 1.00% | ~2,432 |
-| Delving Deeper | 1.00% | ~2,432 |
-| Getting A Glimpse | 1.00% | ~2,432 |
-| That Was Quick | 1.00% | ~2,432 |
-| Colorful Corpse | 1.00% | ~2,432 |
-| Defeat The Dark | 1.00% | ~2,432 |
-| The Bestiary | 1.00% | ~2,432 |
-| Goodbye, Frog Friend | 1.00% | ~2,432 |
-| Heartless | 1.00% | ~2,432 |
-| What's Yours Is Mine | 1.00% | ~2,432 |
-| Spine Breaker | 1.00% | ~2,432 |
-| A Donation | 1.00% | ~2,432 |
-| C-C-Combo | 1.00% | ~2,432 |
-| Deflection | 1.00% | ~2,432 |
-| A Quick Escape | 1.00% | ~2,432 |
-| Explorer | 1.00% | ~2,432 |
-| Sneaky | 1.00% | ~2,432 |
-| An Offering | 1.00% | ~2,432 |
+| Nothing To Lose | 1.00% | ~2,433 |
+| Heavy Hitter | 1.00% | ~2,433 |
+| Delving Deeper | 1.00% | ~2,433 |
+| Getting A Glimpse | 1.00% | ~2,433 |
+| That Was Quick | 1.00% | ~2,433 |
+| Colorful Corpse | 1.00% | ~2,433 |
+| Defeat The Dark | 1.00% | ~2,433 |
+| The Bestiary | 1.00% | ~2,433 |
+| Goodbye, Frog Friend | 1.00% | ~2,433 |
+| Heartless | 1.00% | ~2,433 |
+| What's Yours Is Mine | 1.00% | ~2,433 |
+| Spine Breaker | 1.00% | ~2,433 |
+| A Donation | 1.00% | ~2,433 |
+| C-C-Combo | 1.00% | ~2,433 |
+| Deflection | 1.00% | ~2,433 |
+| A Quick Escape | 1.00% | ~2,433 |
+| Explorer | 1.00% | ~2,433 |
+| Sneaky | 1.00% | ~2,433 |
+| An Offering | 1.00% | ~2,433 |
 | Not Touching You | 1.00% | ~47 |
 | Ambitious Intent | 0.90% | ~2,189 |
 | R.I.P | 0.90% | ~2,189 |
@@ -50,14 +50,14 @@ Number of Ratings: 15,086  (23.09.2022)
 | New Perspectives | 0.70% | ~1,703 |
 | Expensive Look | 0.70% | ~33 |
 | What Doesn't Kill You | 0.70% | ~33 |
-| Shadow Spreads | 0.60% | ~1,459 |
-| To The Death! | 0.60% | ~1,459 |
-| Well Prepared | 0.60% | ~1,459 |
-| Don't Ignore Me! | 0.60% | ~1,459 |
-| All Consuming | 0.60% | ~1,459 |
-| Stop Hitting Yourself | 0.60% | ~1,459 |
-| Doing Time | 0.60% | ~1,459 |
-| Spreading Plague | 0.60% | ~1,459 |
+| Shadow Spreads | 0.60% | ~1,460 |
+| To The Death! | 0.60% | ~1,460 |
+| Well Prepared | 0.60% | ~1,460 |
+| Don't Ignore Me! | 0.60% | ~1,460 |
+| All Consuming | 0.60% | ~1,460 |
+| Stop Hitting Yourself | 0.60% | ~1,460 |
+| Doing Time | 0.60% | ~1,460 |
+| Spreading Plague | 0.60% | ~1,460 |
 | Thank You, Friend | 0.50% | ~1,216 |
 | Max Damage! | 0.50% | ~1,216 |
 | A Rough Road | 0.50% | ~1,216 |
@@ -88,24 +88,24 @@ Number of Ratings: 15,086  (23.09.2022)
 | Obsessed | 0.30% | ~730 |
 | Sentimental Value | 0.30% | ~730 |
 | Raw Power | 0.30% | ~14 |
-| Quick Descent | 0.20% | ~486 |
-| A Week Attempt | 0.20% | ~486 |
-| Hydrophobe | 0.20% | ~486 |
-| Dead Revels | 0.20% | ~486 |
-| Friend of Vermin | 0.20% | ~486 |
-| Explosive Betrayal | 0.20% | ~486 |
-| Powerful Potion | 0.20% | ~486 |
-| Willing the World | 0.20% | ~486 |
-| Power Score | 0.20% | ~486 |
-| Predator | 0.20% | ~486 |
-| Resourceful | 0.20% | ~486 |
-| Trail Of Death | 0.20% | ~486 |
-| The Boulder | 0.20% | ~486 |
-| Overthrown | 0.20% | ~486 |
-| Illuminate, Annihilate | 0.20% | ~486 |
-| No Mercy | 0.20% | ~486 |
-| Just Looking Around | 0.20% | ~486 |
-| Champion of the Day | 0.20% | ~486 |
+| Quick Descent | 0.20% | ~487 |
+| A Week Attempt | 0.20% | ~487 |
+| Hydrophobe | 0.20% | ~487 |
+| Dead Revels | 0.20% | ~487 |
+| Friend of Vermin | 0.20% | ~487 |
+| Explosive Betrayal | 0.20% | ~487 |
+| Powerful Potion | 0.20% | ~487 |
+| Willing the World | 0.20% | ~487 |
+| Power Score | 0.20% | ~487 |
+| Predator | 0.20% | ~487 |
+| Resourceful | 0.20% | ~487 |
+| Trail Of Death | 0.20% | ~487 |
+| The Boulder | 0.20% | ~487 |
+| Overthrown | 0.20% | ~487 |
+| Illuminate, Annihilate | 0.20% | ~487 |
+| No Mercy | 0.20% | ~487 |
+| Just Looking Around | 0.20% | ~487 |
+| Champion of the Day | 0.20% | ~487 |
 | Explosives Expert | 0.20% | ~9 |
 | Diviner | 0.20% | ~9 |
 | Soul Kin | 0.20% | ~9 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,249 (Ranked 75)  
+Progressed: 243,251 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 306)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -420,7 +420,7 @@ Completed: 309 (0.13%) (Ranked 306)
 | 2024-01-17 | 243,123 | 308 |
 | 2024-01-18 | 243,175 | 309 |
 | 2024-01-19 | 243,229 | 309 |
-| 2024-01-20 | 243,249 | 309 |
+| 2024-01-20 | 243,251 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 90)  

@@ -4,7 +4,7 @@
   "ProductSlug": "outward",
   "Ranking_Rating": 552,
   "Ranking_Popularity": 508,
-  "Ranking_PopularitySum": 405,
+  "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 317,
   "Ranking_EOS_NewPlayers": 222,
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4820,
+  "EOS_Progressed": 4821,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 61,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8559,6 +8559,11 @@
       "Time": "2024-01-20T08:05:33.1513099+00:00",
       "NumProgressed": 4820,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T10:05:20.0554837+00:00",
+      "NumProgressed": 4821,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8762,7 +8767,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2940
+      "UsersEstimate": 2941
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8826,7 +8831,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -8890,7 +8895,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3470
+      "UsersEstimate": 3471
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8905,15 +8910,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4820,
+      "Progressed": 4821,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:07:12.6294946+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:05:20.055483+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:03:32.9908923+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:07:12.6296164+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:02:50.5155497+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:05:20.0555529+00:00"
 }

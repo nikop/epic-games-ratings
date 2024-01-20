@@ -6,7 +6,7 @@
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 180,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 52,
   "Store": {
@@ -721,11 +721,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12450,
+  "EOS_Progressed": 12452,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 184,
+  "EOS_NewPlayers": 185,
   "EOS_NewCompleters": 5,
-  "EOS_Completed_Percentage": 0.76,
+  "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:14:24.6451257+00:00",
@@ -16181,6 +16181,11 @@
       "Time": "2024-01-20T01:52:33.5769567+00:00",
       "NumProgressed": 12450,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2024-01-20T10:04:32.2022731+00:00",
+      "NumProgressed": 12452,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 29,
@@ -16192,7 +16197,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10334
+      "UsersEstimate": 10335
     },
     {
       "ID": "ACH02",
@@ -16240,7 +16245,7 @@
       "Name": "Planned Ahead",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH08",
@@ -16264,7 +16269,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "ACH11",
@@ -16272,7 +16277,7 @@
       "Name": "Wheels Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH12",
@@ -16312,7 +16317,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3237
+      "UsersEstimate": 3238
     },
     {
       "ID": "ACH17",
@@ -16344,7 +16349,7 @@
       "Name": "Man Toyz",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH21",
@@ -16368,7 +16373,7 @@
       "Name": "Going Rogue",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH24",
@@ -16376,7 +16381,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1618
+      "UsersEstimate": 1619
     },
     {
       "ID": "ACH25",
@@ -16392,7 +16397,7 @@
       "Name": "Furious First Responder",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH27",
@@ -16408,7 +16413,7 @@
       "Name": "Is That All You\u0027ve Got?",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH29",
@@ -16423,7 +16428,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12450,
+      "Progressed": 12452,
       "Completed": 94
     }
   ],
@@ -16431,8 +16436,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:06:03.055788+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:04:32.2022727+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:54.2015842+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:00:20.9325581+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:06:03.0559156+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:59:03.750523+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:04:32.2023484+00:00"
 }

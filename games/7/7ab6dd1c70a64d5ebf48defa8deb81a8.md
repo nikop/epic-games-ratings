@@ -20,8 +20,8 @@ Rating: 4.17 (Ranked 991)
 | Tributes of Caladrias | 23.00% | ~552 |
 | Powerful Allies | 22.00% | ~528 |
 | Big Bazar | 16.00% | ~384 |
+| Essence Blow | 15.00% | ~360 |
 | Alchemist | 15.00% | ~360 |
-| Essence Blow | 14.00% | ~336 |
 | The Mentor | 12.00% | ~288 |
 | Calm before the Storm | 11.00% | ~264 |
 | To Battle | 10.00% | ~240 |

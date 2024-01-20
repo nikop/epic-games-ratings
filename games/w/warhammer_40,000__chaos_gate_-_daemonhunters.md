@@ -6,13 +6,13 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 21.00% | ~822 |
+| Executioner | 21.00% | ~823 |
 | Look Over There! | 16.00% | ~627 |
 | Watch Where You Step... | 16.00% | ~627 |
-| Not So Fast... | 15.00% | ~587 |
-| An Ill Omen | 15.00% | ~587 |
+| Not So Fast... | 15.00% | ~588 |
+| An Ill Omen | 15.00% | ~588 |
 | Purging Spree | 11.00% | ~431 |
-| Blood for the Blood God! | 9.00% | ~352 |
+| Blood for the Blood God! | 9.00% | ~353 |
 | Bloodless | 8.00% | ~313 |
 | Friendly Fire | 7.00% | ~274 |
 | Surgical Excision | 6.00% | ~235 |
@@ -22,8 +22,8 @@ Number of Ratings: 371  (23.09.2022)
 | Nemesis Master | 4.00% | ~157 |
 | Gunmaster | 4.00% | ~157 |
 | Just a Scratch | 4.00% | ~157 |
-| Hold Your Ground | 3.00% | ~117 |
-| Hive Exterminator | 3.00% | ~117 |
+| Hold Your Ground | 3.00% | ~118 |
+| Hive Exterminator | 3.00% | ~118 |
 | Daemonkeeper | 2.00% | ~78 |
 | Corruption Cleanser | 2.00% | ~78 |
 | Exterminator | 2.00% | ~78 |
@@ -46,9 +46,9 @@ Number of Ratings: 371  (23.09.2022)
 | Harvest No More | 0.80% | ~31 |
 | True Mastery | 0.80% | ~31 |
 | Exercise in Restraint | 0.70% | ~27 |
-| Strike Force | 0.60% | ~23 |
-| Reign of Confusion | 0.60% | ~23 |
-| Abomination | 0.60% | ~23 |
+| Strike Force | 0.60% | ~24 |
+| Reign of Confusion | 0.60% | ~24 |
+| Abomination | 0.60% | ~24 |
 | Deadshot | 0.50% | ~20 |
 | Suffer Not the Mutant | 0.50% | ~20 |
 | Killing Rampage | 0.40% | ~16 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,916 (Ranked 222)  
+Progressed: 3,917 (Ranked 222)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,6 +319,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 3,912 | 0 |
 | 2024-01-18 | 3,914 | 0 |
 | 2024-01-19 | 3,916 | 0 |
+| 2024-01-20 | 3,917 | 0 |
 ## Awards
 Max (Character Customization): 236  (Ranked 284)  
 Sum: 508 (Ranked 338)  

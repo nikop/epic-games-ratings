@@ -9697,7 +9697,7 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254847,
+  "EOS_Progressed": 254855,
   "EOS_Completed": 2627,
   "EOS_NewPlayers": 1196,
   "EOS_NewCompleters": 11,
@@ -40907,6 +40907,11 @@
       "Time": "2024-01-20T09:11:38.0957248+00:00",
       "NumProgressed": 254847,
       "NumCompleted": 2627
+    },
+    {
+      "Time": "2024-01-20T10:09:47.1698977+00:00",
+      "NumProgressed": 254855,
+      "NumCompleted": 2627
     }
   ],
   "TotalAchievements": 546,
@@ -42598,7 +42603,7 @@
       "Name": "The Ring of Regeneration",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "objective_completed_35",
@@ -42782,7 +42787,7 @@
       "Name": "Are Ya Chicken?",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 2548
+      "UsersEstimate": 2549
     },
     {
       "ID": "objective_completed_40",
@@ -45190,7 +45195,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "objective_completed_1352",
@@ -45198,7 +45203,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "objective_completed_1557",
@@ -45214,7 +45219,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "objective_completed_1562",
@@ -45230,7 +45235,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     },
     {
       "ID": "objective_completed_598",
@@ -45278,28 +45283,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221121,
+      "Progressed": 221129,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254847,
+      "Progressed": 254855,
       "Completed": 2627
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-20T04:59:58.4029693+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:11:38.0957244+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:09:47.1698974+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:01:30.3538267+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:11:38.0980334+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:59:47.7685666+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:09:47.1721789+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 220,
-  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 534,
+  "EOS_Progressed": 535,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2084,6 +2084,11 @@
       "Time": "2024-01-20T06:05:08.1481755+00:00",
       "NumProgressed": 534,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-20T10:05:10.158848+00:00",
+      "NumProgressed": 535,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2192,7 +2197,7 @@
       "Name": "Sacrilege",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_BOSS_04",
@@ -2240,7 +2245,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "AC_DEATH_2",
@@ -2262,9 +2267,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 268
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2288,7 +2293,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2296,7 +2301,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2336,7 +2341,7 @@
       "Name": "Schooling",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "AC_FULL_MAP",
@@ -2366,9 +2371,9 @@
       "ID": "AC_PISTOL_MAX",
       "SetID": "16i2akc",
       "Name": "Gun",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 64
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -2431,14 +2436,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 534,
+      "Progressed": 535,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:06:58.183965+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:05:10.1588476+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:57:28.5193748+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:06:58.1840064+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:57:11.4881212+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:05:10.1588876+00:00"
 }

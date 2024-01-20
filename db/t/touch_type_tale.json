@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 268,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 274,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4053,
+  "EOS_Progressed": 4054,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5769,6 +5769,11 @@
       "Time": "2024-01-20T07:05:07.9257374+00:00",
       "NumProgressed": 4053,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-20T10:04:03.1869443+00:00",
+      "NumProgressed": 4054,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5828,7 +5833,7 @@
       "Name": "You and what Army?",
       "Percentage": 87,
       "XP": 30,
-      "UsersEstimate": 3526
+      "UsersEstimate": 3527
     },
     {
       "ID": "campaign10",
@@ -5932,7 +5937,7 @@
       "Name": "Economics 101",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 2391
+      "UsersEstimate": 2392
     },
     {
       "ID": "campaign4",
@@ -5948,7 +5953,7 @@
       "Name": "Clay Fighter",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "campaign6",
@@ -5964,7 +5969,7 @@
       "Name": "Maestro",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "campaign8",
@@ -6043,7 +6048,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4053,
+      "Progressed": 4054,
       "Completed": 11
     }
   ],
@@ -6051,8 +6056,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-16T03:01:32.4269328+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:05:20.0788647+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:04:03.1869438+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:46.778469+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:58:53.7764451+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:05:20.0789167+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:58:07.3379159+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:04:03.1869899+00:00"
 }

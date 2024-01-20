@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 312,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 226,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7273,
+  "EOS_Progressed": 7274,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11364,6 +11364,11 @@
       "Time": "2024-01-19T22:04:31.7954028+00:00",
       "NumProgressed": 7273,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T10:04:08.6317098+00:00",
+      "NumProgressed": 7274,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11535,7 +11540,7 @@
       "Name": "From Friends to Family",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 945
+      "UsersEstimate": 946
     },
     {
       "ID": "29",
@@ -11854,13 +11859,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7273,
+      "Progressed": 7274,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7273,
+      "Progressed": 7274,
       "Completed": 8
     }
   ],
@@ -11868,8 +11873,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:05:28.0582231+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:04:08.6317093+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:27.3154245+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:00:04.5572755+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:05:28.0583143+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:58:52.4656068+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:04:08.6318151+00:00"
 }

@@ -5,32 +5,32 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,778 |
-| Start with a bang! | 55.00% | ~9,603 |
-| You can pet the cat! | 50.00% | ~8,730 |
-| Who put gears in there? | 42.00% | ~7,333 |
-| Cream of the Crop | 37.00% | ~6,460 |
+| Feeling the beat! | 56.00% | ~9,779 |
+| Start with a bang! | 55.00% | ~9,604 |
+| You can pet the cat! | 50.00% | ~8,731 |
+| Who put gears in there? | 42.00% | ~7,334 |
+| Cream of the Crop | 37.00% | ~6,461 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,286 |
 | You got this, Peppermint? | 31.00% | ~5,413 |
-| Perfect Parry | 29.00% | ~5,063 |
-| Alright, that felt AWESOME! | 29.00% | ~5,063 |
-| I play my own way! | 25.00% | ~4,365 |
+| Perfect Parry | 29.00% | ~5,064 |
+| Alright, that felt AWESOME! | 29.00% | ~5,064 |
+| I play my own way! | 25.00% | ~4,366 |
 | This will cost you big time | 23.00% | ~4,016 |
 | Uh, they were broken when I got here | 23.00% | ~4,016 |
 | Z-shielding's got nothing on us! | 21.00% | ~3,667 |
 | Kissing the sky! | 21.00% | ~3,667 |
 | Whoa! There's ANOTHER health bar!? | 18.00% | ~3,143 |
-| The Negotiator | 17.00% | ~2,968 |
-| Does that say weakpoint? | 17.00% | ~2,968 |
+| The Negotiator | 17.00% | ~2,969 |
+| Does that say weakpoint? | 17.00% | ~2,969 |
 | You must like calling me in, Chai | 15.00% | ~2,619 |
-| Headliner | 14.00% | ~2,444 |
-| Out in a puff of smoke | 14.00% | ~2,444 |
+| Headliner | 14.00% | ~2,445 |
+| Out in a puff of smoke | 14.00% | ~2,445 |
 | Time to pay up! | 13.00% | ~2,270 |
 | Who's the boss now? | 13.00% | ~2,270 |
 | Perfecter Parry-er! | 13.00% | ~2,270 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,270 |
 | I have to read these things? | 12.00% | ~2,095 |
-| There's such a thing as TOO helpful | 9.00% | ~1,571 |
+| There's such a thing as TOO helpful | 9.00% | ~1,572 |
 | NOW we got a kickass hideout! | 9.00% | ~1,438 |
 | Well that was a rush! | 8.00% | ~1,397 |
 | That's a lot of junk metal… | 8.00% | ~1,397 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,460 (Ranked 169)  
+Progressed: 17,462 (Ranked 169)  
 Completed: 8 (0.05%) (Ranked 344)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 8 (0.05%) (Ranked 344)
 | 2024-01-17 | 17,341 | 8 |
 | 2024-01-18 | 17,389 | 8 |
 | 2024-01-19 | 17,441 | 8 |
-| 2024-01-20 | 17,460 | 8 |
+| 2024-01-20 | 17,462 | 8 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

@@ -4299,9 +4299,9 @@
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 478
+      "UsersEstimate": 493
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4323,9 +4323,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 523
+      "UsersEstimate": 537
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4538,8 +4538,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:11:32.5853855+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:09:43.5009493+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:03:02.1342439+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:11:32.5854435+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:02:30.4410527+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:09:43.5010092+00:00"
 }

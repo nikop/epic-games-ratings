@@ -6,7 +6,7 @@
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 413,
   "Ranking_EOS_Progress": 181,
-  "Ranking_EOS_Completed": 379,
+  "Ranking_EOS_Completed": 380,
   "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
@@ -437,9 +437,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11889,
+  "EOS_Progressed": 11892,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 652,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5577,6 +5577,11 @@
       "Time": "2024-01-20T09:11:24.667539+00:00",
       "NumProgressed": 11889,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T10:09:37.6536273+00:00",
+      "NumProgressed": 11892,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5597,7 +5602,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5701,7 +5706,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1783
+      "UsersEstimate": 1784
     },
     {
       "ID": "17_TheExemplar",
@@ -5717,7 +5722,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5749,7 +5754,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1664
+      "UsersEstimate": 1665
     },
     {
       "ID": "23_DynastyRestored",
@@ -5765,7 +5770,7 @@
       "Name": "Highrise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 713
+      "UsersEstimate": 714
     },
     {
       "ID": "25_DynastyProspers",
@@ -5941,7 +5946,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1902
+      "UsersEstimate": 1903
     },
     {
       "ID": "47_AFlame",
@@ -6108,7 +6113,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11889,
+      "Progressed": 11892,
       "Completed": 1
     }
   ],
@@ -6116,8 +6121,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-20T09:01:43.0304013+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:11:24.6675386+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:09:37.6536272+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:01:43.0304017+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:11:24.6675968+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:59:56.3018708+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:09:37.653684+00:00"
 }

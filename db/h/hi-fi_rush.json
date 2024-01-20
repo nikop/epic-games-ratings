@@ -279,9 +279,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 17460,
+  "EOS_Progressed": 17462,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 493,
+  "EOS_NewPlayers": 482,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12804,6 +12804,11 @@
       "Time": "2024-01-20T09:05:24.959035+00:00",
       "NumProgressed": 17460,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-20T10:04:06.4514603+00:00",
+      "NumProgressed": 17462,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12815,7 +12820,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9603
+      "UsersEstimate": 9604
     },
     {
       "ID": "Ach002",
@@ -12823,7 +12828,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6460
+      "UsersEstimate": 6461
     },
     {
       "ID": "Ach003",
@@ -12839,7 +12844,7 @@
       "Name": "The Negotiator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "Ach005",
@@ -12847,7 +12852,7 @@
       "Name": "Headliner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "Ach006",
@@ -12943,7 +12948,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "Ach018",
@@ -12991,7 +12996,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9778
+      "UsersEstimate": 9779
     },
     {
       "ID": "Ach024",
@@ -13039,7 +13044,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 2444
+      "UsersEstimate": 2445
     },
     {
       "ID": "Ach030",
@@ -13055,7 +13060,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "Ach032",
@@ -13167,7 +13172,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "Ach046",
@@ -13183,7 +13188,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7333
+      "UsersEstimate": 7334
     },
     {
       "ID": "Ach048",
@@ -13191,7 +13196,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5063
+      "UsersEstimate": 5064
     },
     {
       "ID": "Ach049",
@@ -13215,7 +13220,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8730
+      "UsersEstimate": 8731
     },
     {
       "ID": "Ach052",
@@ -13231,7 +13236,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2968
+      "UsersEstimate": 2969
     },
     {
       "ID": "Ach054",
@@ -13382,13 +13387,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17460,
+      "Progressed": 17462,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 15981,
+      "Progressed": 15983,
       "Completed": 1931
     }
   ],
@@ -13396,8 +13401,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:05:24.9590344+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:04:06.45146+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:40.7715331+00:00",
-  "LastUpdate_Ratings": "2024-01-20T08:58:52.1198914+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:05:24.9591739+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:58:06.2603363+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:04:06.4515618+00:00"
 }

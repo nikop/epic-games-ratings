@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 276,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 43,
+  "Ranking_EOS_NewCompleters": 40,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8245,10 +8245,10 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 152165,
-  "EOS_Completed": 359,
-  "EOS_NewPlayers": 1212,
-  "EOS_NewCompleters": 7,
+  "EOS_Progressed": 152168,
+  "EOS_Completed": 360,
+  "EOS_NewPlayers": 1211,
+  "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
     {
@@ -37440,6 +37440,11 @@
       "Time": "2024-01-20T09:10:07.8953632+00:00",
       "NumProgressed": 152165,
       "NumCompleted": 359
+    },
+    {
+      "Time": "2024-01-20T10:08:44.835279+00:00",
+      "NumProgressed": 152168,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -37603,7 +37608,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "champions01",
@@ -37923,7 +37928,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15216
+      "UsersEstimate": 15217
     },
     {
       "ID": "gold02",
@@ -37987,7 +37992,7 @@
       "Name": "Capitalist Camaraderie",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 456
+      "UsersEstimate": 457
     },
     {
       "ID": "hemma_a",
@@ -38139,7 +38144,7 @@
       "Name": "The Greatest Grind",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "masterpiece",
@@ -38211,7 +38216,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1369
+      "UsersEstimate": 1370
     },
     {
       "ID": "rudo_a",
@@ -38346,15 +38351,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152165,
-      "Completed": 359
+      "Progressed": 152168,
+      "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-20T08:03:15.6453392+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:10:07.8953628+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:08:44.8352788+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.9764492+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:03:50.1911586+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:10:07.8955943+00:00"
+  "LastUpdate_Ratings": "2024-01-20T10:03:02.2702333+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:08:44.8355035+00:00"
 }

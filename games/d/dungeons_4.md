@@ -21,9 +21,9 @@ Rating: 4.74 (Ranked 167)
 | It's Warm and Cozy at Home | 60.00% | ~467 |
 | Magic Accidents | 58.00% | ~451 |
 | Trap Master | 56.00% | ~436 |
+| Hard Work | 56.00% | ~436 |
 | The Big Eaty | 56.00% | ~436 |
 | Minions, Minions! | 55.00% | ~428 |
-| Hard Work | 55.00% | ~428 |
 | “… like son” | 54.00% | ~420 |
 | YOU SHALL NOT PASS! | 50.00% | ~389 |
 | The Cathedral of Light | 50.00% | ~389 |

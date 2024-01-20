@@ -1,7 +1,7 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 597)  
+Rating: 4.51 (Ranked 596)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -34,7 +34,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,617 |
 | The truth revealed | 9.00% | ~1,617 |
 | The End. | 9.00% | ~1,617 |
-| Nothing but make-believe | 8.00% | ~1,437 |
+| Nothing but make-believe | 8.00% | ~1,438 |
 | A cry for help | 7.00% | ~1,258 |
 | Silentium est aureum | 7.00% | ~1,258 |
 | Rebel without a cause | 6.00% | ~1,078 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~539 |
 | Boy of mystery | 2.00% | ~359 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,968 (Ranked 166)  
+Progressed: 17,969 (Ranked 166)  
 Completed: 125 (0.70%) (Ranked 205)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 125 (0.70%) (Ranked 205)
 | 2024-01-17 | 17,923 | 125 |
 | 2024-01-18 | 17,936 | 125 |
 | 2024-01-19 | 17,964 | 125 |
-| 2024-01-20 | 17,968 | 125 |
+| 2024-01-20 | 17,969 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 332)  
 Sum: 200 (Ranked 419)  

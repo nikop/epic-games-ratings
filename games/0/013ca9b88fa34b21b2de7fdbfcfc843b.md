@@ -24,11 +24,11 @@ Rating: 4.64 (Ranked 347)
 | Exit Through The Gift Shop | 2.00% | ~35 |
 | Flaming Hot Completos | 1.00% | ~91 |
 | Beach Comber | 1.00% | ~91 |
+| Rumble in the Jumble | 1.00% | ~91 |
 | Azorian Anniversary | 1.00% | ~91 |
 | Skilled | 1.00% | ~91 |
 | Fae Farmer | 0.90% | ~82 |
 | Got to Catch Them All | 0.90% | ~82 |
-| Rumble in the Jumble | 0.90% | ~82 |
 | Fanatical Farmer | 0.90% | ~82 |
 | Scattered Scroll Scrounger | 0.80% | ~73 |
 | Azorian Hat Dance | 0.70% | ~12 |
@@ -50,7 +50,7 @@ Rating: 4.64 (Ranked 347)
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 9,135 (Ranked 189)  
-Completed: 1 (0.01%) (Ranked 379)  
+Completed: 1 (0.01%) (Ranked 380)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

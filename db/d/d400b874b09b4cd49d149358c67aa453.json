@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 753,
+  "EOS_Progressed": 754,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -2769,6 +2769,11 @@
       "Time": "2024-01-20T09:04:44.6567048+00:00",
       "NumProgressed": 753,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T10:03:39.5643262+00:00",
+      "NumProgressed": 754,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-04T13:10:46.6045542+00:00",
@@ -2829,7 +2834,7 @@
       "Name": "I love customers",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_END_FIRST_TUTORIAL",
@@ -2837,7 +2842,7 @@
       "Name": "Ready to go",
       "Percentage": 89,
       "XP": 15,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACH_END_FIRST_WORKBENCH_MISSION",
@@ -2845,7 +2850,7 @@
       "Name": "I can fix that",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 580
+      "UsersEstimate": 581
     },
     {
       "ID": "ACH_END_MAIL_MISSION_FAST",
@@ -2909,7 +2914,7 @@
       "Name": "I like the risk",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "ACH_LISTEN_ALL_MUSIC",
@@ -2925,7 +2930,7 @@
       "Name": "Home sweet home",
       "Percentage": 99,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_PLACE_MANY_ITEMS_IN_OFFICE",
@@ -2949,7 +2954,7 @@
       "Name": "Unpacked",
       "Percentage": 97,
       "XP": 15,
-      "UsersEstimate": 730
+      "UsersEstimate": 731
     },
     {
       "ID": "ACH_SHOCK_ON_MISSION",
@@ -2988,14 +2993,14 @@
     {
       "ID": "al4k4nh",
       "IsBase": true,
-      "Progressed": 753,
+      "Progressed": 754,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-05T07:57:44.5240927+00:00",
   "FirstSeenAchievements": "2023-06-22T14:04:45.4212491+00:00",
-  "LastChanged_Achievements": "2024-01-20T09:04:44.6567043+00:00",
+  "LastChanged_Achievements": "2024-01-20T10:03:39.5643258+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.3210844+00:00",
-  "LastUpdate_Ratings": "2024-01-20T09:01:18.6718619+00:00",
-  "LastUpdate_Achievements": "2024-01-20T09:04:44.6567306+00:00"
+  "LastUpdate_Ratings": "2024-01-20T09:59:40.2429001+00:00",
+  "LastUpdate_Achievements": "2024-01-20T10:03:39.5643904+00:00"
 }
