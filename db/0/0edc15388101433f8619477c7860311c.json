@@ -4,7 +4,7 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 122,
+  "EOS_Progressed": 123,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -599,6 +599,11 @@
       "Time": "2024-01-20T07:08:03.1377001+00:00",
       "NumProgressed": 122,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:11:44.5285932+00:00",
+      "NumProgressed": 123,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -627,7 +632,7 @@
       "Name": "Getting It on the First Try",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "HauntingSpecter",
@@ -635,13 +640,13 @@
       "Name": "Haunting Specter",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 25,
       "UsersEstimate": 57
     },
@@ -651,7 +656,7 @@
       "Name": "Hide-and-Seek Expert",
       "Percentage": 34,
       "XP": 65,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "HonoraryAlumni",
@@ -683,13 +688,13 @@
       "Name": "Conveying Love through Letters",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "LoveCrawler",
       "SetID": "7m88n8p",
       "Name": "Love Crawler",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 25,
       "UsersEstimate": 41
     },
@@ -721,7 +726,7 @@
       "ID": "Professions",
       "SetID": "7m88n8p",
       "Name": "Different People Specialize in Different Professions",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 46
     },
@@ -731,7 +736,7 @@
       "Name": "Protected by Divine Power",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "RoadToSalvation",
@@ -755,13 +760,13 @@
       "Name": "Seeing through Vanity",
       "Percentage": 37,
       "XP": 65,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "TimeManagement",
       "SetID": "7m88n8p",
       "Name": "Master of Time Management",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 25,
       "UsersEstimate": 46
     },
@@ -779,21 +784,21 @@
       "Name": "Whose Child?",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 122,
+      "Progressed": 123,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:08:21.5803737+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:11:44.5285925+00:00",
   "LastUpdate_AppInfo": "2024-01-15T15:57:24.3630829+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:00:21.7361203+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:08:21.5803987+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:05:32.6843676+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:11:44.5286134+00:00"
 }

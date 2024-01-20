@@ -5,16 +5,16 @@ Rating: 4.48 (Ranked 660)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,025 |
+| Meeting Resistance | 47.00% | ~2,026 |
 | Confirming Suspicions | 42.00% | ~1,810 |
-| The Kraken Wakes | 38.00% | ~1,637 |
+| The Kraken Wakes | 38.00% | ~1,638 |
 | It's Starting to Crack | 35.00% | ~1,508 |
 | Change the Channel | 32.00% | ~1,379 |
 | Lord of War | 31.00% | ~1,336 |
 | Taking it back | 30.00% | ~1,293 |
 | Resourceful | 28.00% | ~1,207 |
 | Target America | 28.00% | ~1,207 |
-| The Kraken Sleeps | 26.00% | ~1,120 |
+| The Kraken Sleeps | 26.00% | ~1,121 |
 | Liberté | 24.00% | ~1,034 |
 | Organ Grinder | 24.00% | ~1,034 |
 | As Quiet as a Mouse | 24.00% | ~1,034 |
@@ -24,10 +24,10 @@ Rating: 4.48 (Ranked 660)
 | Climbing the Ladder | 17.00% | ~733 |
 | Just a Flesh Wound | 17.00% | ~733 |
 | Der Geist | 17.00% | ~733 |
-| Skirmisher | 16.00% | ~689 |
-| Close Quarters | 16.00% | ~689 |
-| Snake in the Grass | 16.00% | ~689 |
-| Brains of the Operation | 16.00% | ~689 |
+| Skirmisher | 16.00% | ~690 |
+| Close Quarters | 16.00% | ~690 |
+| Snake in the Grass | 16.00% | ~690 |
+| Brains of the Operation | 16.00% | ~690 |
 | No Stone Unturned | 15.00% | ~646 |
 | Die Nussknacker Sweet! | 15.00% | ~646 |
 | Opposing Force | 14.00% | ~603 |
@@ -40,11 +40,11 @@ Rating: 4.48 (Ranked 660)
 | Herr Today, Gone Tomorrow | 7.00% | ~298 |
 | The Long Game | 6.00% | ~259 |
 | Operation Foxley | 6.00% | ~256 |
-| Strategist | 5.00% | ~215 |
-| Tinkerer | 5.00% | ~215 |
-| It'll Buff Right Out | 5.00% | ~215 |
-| Road Rage | 5.00% | ~215 |
-| Don't hold your breath | 5.00% | ~215 |
+| Strategist | 5.00% | ~216 |
+| Tinkerer | 5.00% | ~216 |
+| It'll Buff Right Out | 5.00% | ~216 |
+| Road Rage | 5.00% | ~216 |
+| Don't hold your breath | 5.00% | ~216 |
 | Last Resort | 5.00% | ~213 |
 | Siegebreaker | 5.00% | ~213 |
 | Ghost of Falaise | 5.00% | ~213 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 660)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,309 (Ranked 215)  
+Progressed: 4,310 (Ranked 215)  
 Completed: 11 (0.26%) (Ranked 272)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 11 (0.26%) (Ranked 272)
 | 2024-01-17 | 4,295 | 11 |
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,306 | 11 |
-| 2024-01-20 | 4,309 | 11 |
+| 2024-01-20 | 4,310 | 11 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 528)  
 Sum: 30 (Ranked 550)  

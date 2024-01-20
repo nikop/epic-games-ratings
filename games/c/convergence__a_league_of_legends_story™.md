@@ -22,8 +22,8 @@ Rating: 4.66 (Ranked 305)
 | Breaking Down Barriers | 24.00% | ~323 |
 | The Wicked Twins | 24.00% | ~323 |
 | Right On Time | 23.00% | ~310 |
+| Like Clockwork | 23.00% | ~310 |
 | Golem Chaser | 23.00% | ~310 |
-| Like Clockwork | 22.00% | ~296 |
 | The Betrayer | 22.00% | ~296 |
 | Check Your Pulse | 21.00% | ~283 |
 | The Loose Cannon | 20.00% | ~269 |

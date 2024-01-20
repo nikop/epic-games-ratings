@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 358)
 Number of Ratings: 1,848  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 1,804  (Ranked 131)  
-Sum: 2,873 (Ranked 190)  
+Sum: 2,875 (Ranked 190)  
 Diff (max vs sum): -59  
 | Award | Count |
 | ----- | ----- |
@@ -13,8 +13,8 @@ Diff (max vs sum): -59
 | This game has Quickly Understood Controls | 136 |
 | This game is Relaxing | 132 |
 | This game has Amazing Storytelling | 125 |
+| This game is Great for Beginners | 125 |
 | This game has Amazing Characters | 124 |
-| This game is Great for Beginners | 123 |
 | This game is Highly Recommended | 119 |
 | This game is Extremely Fun | 111 |
 | This game has Diverse Characters | 108 |
@@ -375,4 +375,4 @@ Diff (max vs sum): -59
 | 2024-01-17 | 4.63 | - | 1,796 | 2,860 |
 | 2024-01-18 | 4.63 | - | 1,799 | 2,866 |
 | 2024-01-19 | 4.63 | - | 1,804 | 2,872 |
-| 2024-01-20 | 4.63 | - | 1,804 | 2,873 |
+| 2024-01-20 | 4.63 | - | 1,804 | 2,875 |

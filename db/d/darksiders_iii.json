@@ -2862,9 +2862,9 @@
       "ID": "Kill_Sin_Lust",
       "SetID": "7a5k76n",
       "Name": "Delusions of Grandeur",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 229
+      "UsersEstimate": 235
     },
     {
       "ID": "Kill_Sin_Pride",
@@ -3014,8 +3014,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-19T19:59:04.9154437+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:06:14.6425677+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:10:52.2311224+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:59:14.9142077+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:06:14.642641+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:03:10.1705617+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:10:52.2311881+00:00"
 }

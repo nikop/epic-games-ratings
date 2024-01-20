@@ -38,7 +38,7 @@
 | Philo's Tale | 11.00% | ~17 |
 | Mage Teacher | 11.00% | ~17 |
 | A Master of Magic | 11.00% | ~17 |
-| Friend of Windholme | 10.00% | ~15 |
+| Friend of Windholme | 11.00% | ~17 |
 | A Monopoly of Might | 9.00% | ~14 |
 | A Joke | 9.00% | ~14 |
 | Defeat Gor | 8.00% | ~12 |

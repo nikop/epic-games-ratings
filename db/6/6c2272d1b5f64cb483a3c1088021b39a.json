@@ -4,7 +4,7 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewPlayers": 303,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1349,
+  "EOS_Progressed": 1350,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4869,6 +4869,11 @@
       "Time": "2024-01-20T10:09:41.3861785+00:00",
       "NumProgressed": 1349,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:14:31.8705703+00:00",
+      "NumProgressed": 1350,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4880,7 +4885,7 @@
       "Name": "Adventurous 1",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "adventurous_2",
@@ -4904,7 +4909,7 @@
       "Name": "Archmage 1",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "archmage_2",
@@ -4912,7 +4917,7 @@
       "Name": "Archmage 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "archmage_3",
@@ -4960,7 +4965,7 @@
       "Name": "Catacombs Raid 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "catacombs_raid_3",
@@ -4976,7 +4981,7 @@
       "Name": "Collector 1",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "collector_2",
@@ -5008,7 +5013,7 @@
       "Name": "Conqueror 2",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "conqueror_3",
@@ -5056,7 +5061,7 @@
       "Name": "Elemental stones 2",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "elemental_stones_3",
@@ -5064,7 +5069,7 @@
       "Name": "Elemental stones 3",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "elite_deck_1",
@@ -5080,7 +5085,7 @@
       "Name": "Elite Deck 2",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "elite_deck_3",
@@ -5096,7 +5101,7 @@
       "Name": "From Day to Day 1",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "from_day_to_day_2",
@@ -5152,7 +5157,7 @@
       "Name": "Good Host 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "good_host_3",
@@ -5200,7 +5205,7 @@
       "Name": "Lord of the Tower 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "lord_of_the_tower_3",
@@ -5312,7 +5317,7 @@
       "Name": "Soul Shards 1",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "soul_shards_2",
@@ -5320,7 +5325,7 @@
       "Name": "Soul Shards 2",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "soul_shards_3",
@@ -5407,14 +5412,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1349,
+      "Progressed": 1350,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:10:22.5428203+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:14:31.87057+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.5682133+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:59:35.0151088+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:10:22.5428785+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:03:38.1610591+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:14:31.8706289+00:00"
 }

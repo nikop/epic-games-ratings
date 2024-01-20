@@ -2,7 +2,7 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 242,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
@@ -11094,9 +11094,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133293,
+  "EOS_Progressed": 133297,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 641,
+  "EOS_NewPlayers": 642,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40744,6 +40744,11 @@
       "Time": "2024-01-20T12:10:15.5346089+00:00",
       "NumProgressed": 133293,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T13:14:22.5749979+00:00",
+      "NumProgressed": 133297,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41107,7 +41112,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10663
+      "UsersEstimate": 10664
     },
     {
       "ID": "hero_story_complete_all",
@@ -41299,7 +41304,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41386,21 +41391,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133293,
+      "Progressed": 133297,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8162,
+      "Progressed": 8166,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-20T08:58:06.7268001+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:10:15.5346087+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:14:22.5749974+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:38.6683019+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:57:48.9503643+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:10:15.5348153+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:01:03.463658+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:14:22.5752651+00:00"
 }

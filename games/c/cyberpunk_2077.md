@@ -9,14 +9,14 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.50% | ~5,278 |
 | Right Back At Ya | 0.50% | ~5,278 |
 | True Soldier | 0.50% | ~5,278 |
-| Christmas Tree Attack | 0.40% | ~4,222 |
-| Life of the Road | 0.40% | ~4,222 |
-| Stanislavski's Method | 0.40% | ~4,222 |
-| The Hermit | 0.40% | ~4,222 |
-| The High Priestess | 0.40% | ~4,222 |
-| The Lovers | 0.40% | ~4,222 |
-| The Wheel of Fortune | 0.40% | ~4,222 |
-| Legend of The Afterlife | 0.40% | ~4,222 |
+| Christmas Tree Attack | 0.40% | ~4,223 |
+| Life of the Road | 0.40% | ~4,223 |
+| Stanislavski's Method | 0.40% | ~4,223 |
+| The Hermit | 0.40% | ~4,223 |
+| The High Priestess | 0.40% | ~4,223 |
+| The Lovers | 0.40% | ~4,223 |
+| The Wheel of Fortune | 0.40% | ~4,223 |
+| Legend of The Afterlife | 0.40% | ~4,223 |
 | All the President's Men | 0.40% | ~737 |
 | Bushido and Chill | 0.30% | ~3,167 |
 | Gun Fu | 0.30% | ~3,167 |
@@ -31,8 +31,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | To Protect and Serve | 0.20% | ~2,111 |
 | The Wandering Fool | 0.20% | ~2,111 |
 | Two Heads, One Bullet | 0.20% | ~2,111 |
-| Spin Doctor | 0.20% | ~368 |
-| Easy Come, Easy Go | 0.20% | ~368 |
+| Spin Doctor | 0.20% | ~369 |
+| Easy Come, Easy Go | 0.20% | ~369 |
 | City Lights | 0.10% | ~1,056 |
 | To Bad Decisions! | 0.10% | ~1,056 |
 | Autojock | 0.10% | ~1,056 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,055,614 (Ranked 17)  
+Progressed: 1,055,662 (Ranked 17)  
 Completed: 3,133 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -349,7 +349,7 @@ Completed: 3,133 (0.30%) (Ranked 264)
 | 2024-01-17 | 1,053,821 | 3,117 |
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
-| 2024-01-20 | 1,055,614 | 3,133 |
+| 2024-01-20 | 1,055,662 | 3,133 |
 ## Awards
 Max (Character Customization): 142,615  (Ranked 8)  
 Sum: 507,789 (Ranked 8)  

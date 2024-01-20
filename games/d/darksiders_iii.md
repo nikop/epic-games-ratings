@@ -24,8 +24,8 @@ Number of Ratings: 116  (23.09.2022)
 | 25 to Life | 40.00% | ~262 |
 | Unshakable Fortitude | 37.00% | ~242 |
 | Soul Harvester | 37.00% | ~242 |
+| Delusions of Grandeur | 36.00% | ~235 |
 | I Wanna Rock | 35.00% | ~229 |
-| Delusions of Grandeur | 35.00% | ~229 |
 | Love Tap | 34.00% | ~222 |
 | Maximum Vigor | 33.00% | ~216 |
 | Freeze Frame | 31.00% | ~203 |

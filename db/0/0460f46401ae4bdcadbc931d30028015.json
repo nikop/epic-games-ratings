@@ -1803,9 +1803,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11163,
+  "EOS_Progressed": 11164,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 739,
+  "EOS_NewPlayers": 737,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12148,6 +12148,11 @@
       "Time": "2024-01-20T11:04:39.7376069+00:00",
       "NumProgressed": 11163,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:08:50.5959797+00:00",
+      "NumProgressed": 11164,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12168,7 +12173,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3795
+      "UsersEstimate": 3796
     },
     {
       "ID": "achievement_11",
@@ -12256,7 +12261,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6586
+      "UsersEstimate": 6587
     },
     {
       "ID": "achievement_21",
@@ -12296,7 +12301,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2903
     },
     {
       "ID": "achievement_7",
@@ -12312,7 +12317,7 @@
       "Name": "Bragging Rights",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 2902
+      "UsersEstimate": 2903
     },
     {
       "ID": "achievement_9",
@@ -12327,7 +12332,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11163,
+      "Progressed": 11164,
       "Completed": 0
     }
   ],
@@ -12335,8 +12340,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-20T12:02:52.2439989+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:04:47.8149571+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:08:50.5959791+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:02:52.2439992+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:04:47.8150176+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:06:00.609622+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:08:50.596046+00:00"
 }

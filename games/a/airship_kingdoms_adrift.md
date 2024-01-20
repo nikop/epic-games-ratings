@@ -4,11 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| An Old Friend | 100.00% | ~3 |
 | Attention Peasant! | 100.00% | ~3 |
+| Meet THE Harbormaster | 100.00% | ~3 |
+| Now You Knew | 100.00% | ~3 |
 | The Trial Begins | 100.00% | ~3 |
-| An Old Friend | 67.00% | ~2 |
-| Meet THE Harbormaster | 67.00% | ~2 |
-| Now You Knew | 67.00% | ~2 |
+| The Pink Flower | 67.00% | ~2 |
 | The Red Flower | 67.00% | ~2 |
 | Shipping Ships | 67.00% | ~2 |
 | The Combatant | 67.00% | ~2 |
@@ -41,7 +42,6 @@
 | Not a Good Decoy | 33.00% | ~1 |
 | Our Own Path | 33.00% | ~1 |
 | Our Tiny Little Fleet | 33.00% | ~1 |
-| The Pink Flower | 33.00% | ~1 |
 | Safe Delivery | 33.00% | ~1 |
 | Shady Business | 33.00% | ~1 |
 | Shellshock | 33.00% | ~1 |

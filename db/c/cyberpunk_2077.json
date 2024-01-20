@@ -18776,9 +18776,9 @@
       "Count": 19609
     }
   ],
-  "EOS_Progressed": 1055614,
+  "EOS_Progressed": 1055662,
   "EOS_Completed": 3133,
-  "EOS_NewPlayers": 6400,
+  "EOS_NewPlayers": 6333,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50291,6 +50291,11 @@
       "Time": "2024-01-20T12:09:11.1888906+00:00",
       "NumProgressed": 1055614,
       "NumCompleted": 3133
+    },
+    {
+      "Time": "2024-01-20T13:12:53.5289648+00:00",
+      "NumProgressed": 1055662,
+      "NumCompleted": 3133
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50423,7 +50428,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "MaxPain",
@@ -50471,7 +50476,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "Roleplayer",
@@ -50479,7 +50484,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "Specialist",
@@ -50527,7 +50532,7 @@
       "Name": "The Hermit",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "TheHightPriestess",
@@ -50535,7 +50540,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "TheLovers",
@@ -50543,7 +50548,7 @@
       "Name": "The Lovers",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "TheStar",
@@ -50567,7 +50572,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "TheWorld",
@@ -50647,7 +50652,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4222
+      "UsersEstimate": 4223
     },
     {
       "ID": "All the President\u0027s Men",
@@ -50703,7 +50708,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     },
     {
       "ID": "Kingofcups",
@@ -50831,28 +50836,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 368
+      "UsersEstimate": 369
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1055614,
+      "Progressed": 1055662,
       "Completed": 3133
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184237,
-      "Completed": 10664
+      "Progressed": 184285,
+      "Completed": 10665
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-20T12:03:15.6650567+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:09:11.1888904+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:12:53.5289645+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:03:15.6650573+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:09:11.1890906+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:06:35.4366174+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:12:53.5291388+00:00"
 }

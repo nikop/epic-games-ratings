@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 238,
-  "Ranking_EOS_NewPlayers": 264,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,7 +306,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 451,
+  "EOS_Progressed": 452,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -2056,6 +2056,11 @@
       "Time": "2024-01-20T04:09:24.5486283+00:00",
       "NumProgressed": 451,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T13:13:38.3686254+00:00",
+      "NumProgressed": 452,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2066,9 +2071,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 334
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2098,9 +2103,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 217
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2140,7 +2145,7 @@
       "Name": "Cult Following",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_COMPLETE_OJ01",
@@ -2180,7 +2185,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2204,7 +2209,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2324,7 +2329,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2404,7 +2409,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2412,14 +2417,14 @@
       "Name": "Pimp My Raid",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     }
   ],
   "AchievementSets": [
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 451,
+      "Progressed": 452,
       "Completed": 2
     }
   ],
@@ -2427,8 +2432,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:09:42.9223759+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:13:38.3686249+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:00:08.037501+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:09:42.9224286+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:04:30.1879952+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:13:38.3686706+00:00"
 }

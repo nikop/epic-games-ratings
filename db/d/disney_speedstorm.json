@@ -2997,9 +2997,9 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 403176,
+  "EOS_Progressed": 403218,
   "EOS_Completed": 1677,
-  "EOS_NewPlayers": 6947,
+  "EOS_NewPlayers": 6944,
   "EOS_NewCompleters": 86,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
@@ -21792,6 +21792,11 @@
       "Time": "2024-01-20T12:08:55.9012651+00:00",
       "NumProgressed": 403176,
       "NumCompleted": 1677
+    },
+    {
+      "Time": "2024-01-20T13:12:32.5873866+00:00",
+      "NumProgressed": 403218,
+      "NumCompleted": 1677
     }
   ],
   "TotalAchievements": 24,
@@ -21811,7 +21816,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24191
+      "UsersEstimate": 24193
     },
     {
       "ID": "11",
@@ -21843,7 +21848,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36286
+      "UsersEstimate": 36290
     },
     {
       "ID": "15",
@@ -21851,7 +21856,7 @@
       "Name": "FRAMED!",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "16",
@@ -21899,7 +21904,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 20159
+      "UsersEstimate": 20161
     },
     {
       "ID": "21",
@@ -21931,7 +21936,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16127
+      "UsersEstimate": 16129
     },
     {
       "ID": "3",
@@ -21947,7 +21952,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 12095
+      "UsersEstimate": 12097
     },
     {
       "ID": "5",
@@ -21955,7 +21960,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 52413
+      "UsersEstimate": 52418
     },
     {
       "ID": "6",
@@ -21963,7 +21968,7 @@
       "Name": "PRO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20159
+      "UsersEstimate": 20161
     },
     {
       "ID": "7",
@@ -21979,7 +21984,7 @@
       "Name": "ACE TRICKSTER",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 2822
+      "UsersEstimate": 2823
     },
     {
       "ID": "9",
@@ -21994,7 +21999,7 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 403176,
+      "Progressed": 403218,
       "Completed": 1677
     }
   ],
@@ -22002,8 +22007,8 @@
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-19T18:59:42.4010077+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:08:55.9012648+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:12:32.5873862+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:20.8696408+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:00:04.5217855+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:08:55.9014016+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:04:25.0320317+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:12:32.5875221+00:00"
 }

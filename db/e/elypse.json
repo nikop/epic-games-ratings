@@ -4,7 +4,7 @@
   "ProductSlug": "elypse-b177a8",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 430,
+  "Ranking_EOS_NewPlayers": 410,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -699,6 +699,11 @@
       "Time": "2024-01-20T10:08:50.8858969+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:13:20.3978545+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 34,
@@ -734,15 +739,15 @@
       "Name": "GG EZ",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach_BossGolem",
       "SetID": "4o5gjp0",
       "Name": "Rock Solid",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "Ach_BossSlug",
@@ -766,7 +771,7 @@
       "Name": "Compulsive hoarder",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_BuyHut",
@@ -774,7 +779,7 @@
       "Name": "Pigeon",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "Ach_CallBeggarNothingToSell",
@@ -796,9 +801,9 @@
       "ID": "Ach_DeathXTime",
       "SetID": "4o5gjp0",
       "Name": "Masochistic",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 30,
-      "UsersEstimate": 76
+      "UsersEstimate": 75
     },
     {
       "ID": "Ach_DiscoveryCatacombes",
@@ -806,15 +811,15 @@
       "Name": "A bottomless pit",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "Ach_DiscoveryCaverns",
       "SetID": "4o5gjp0",
       "Name": "The light at the end of the tunnel",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 82
     },
     {
       "ID": "Ach_DiscoveryCelestialIsland",
@@ -846,7 +851,7 @@
       "Name": "A path of no return",
       "Percentage": 97,
       "XP": 10,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "Ach_DiveDeath",
@@ -862,7 +867,7 @@
       "Name": "Magnitude 5",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "Ach_EnnemyDeathByEnnemy",
@@ -870,7 +875,7 @@
       "Name": "Baited",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "Ach_FinalBossHand",
@@ -886,7 +891,7 @@
       "Name": "Comeback",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Ach_FirstGolem",
@@ -900,9 +905,9 @@
       "ID": "Ach_HutLay",
       "SetID": "4o5gjp0",
       "Name": "Homeless",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 39
     },
     {
       "ID": "Ach_IslandExplo",
@@ -972,23 +977,23 @@
       "ID": "Ach_TalkToLostSoul",
       "SetID": "4o5gjp0",
       "Name": "Sensitive soul",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     }
   ],
   "AchievementSets": [
     {
       "ID": "4o5gjp0",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:09:30.0443118+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:13:20.3978541+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:41.9507506+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:59:29.9041441+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:09:30.0443373+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:03:30.9534518+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:13:20.3978819+00:00"
 }

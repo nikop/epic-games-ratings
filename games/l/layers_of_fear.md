@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 86.00% | ~291 |
-| A piece of the story | 66.00% | ~223 |
+| Something important | 86.00% | ~292 |
+| A piece of the story | 66.00% | ~224 |
 | It's covered up for a reason | 60.00% | ~203 |
 | Wanderer | 55.00% | ~186 |
 | Scraps of love | 52.00% | ~176 |
-| The artist’s impression | 51.00% | ~172 |
-| Do what you have to | 46.00% | ~155 |
-| Sign of weakness | 43.00% | ~145 |
-| Refuse to look | 38.00% | ~128 |
+| The artist’s impression | 51.00% | ~173 |
+| Do what you have to | 45.00% | ~153 |
+| Sign of weakness | 43.00% | ~146 |
+| Refuse to look | 38.00% | ~129 |
 | Face your fears | 33.00% | ~112 |
-| Finished it | 27.00% | ~91 |
+| Finished it | 27.00% | ~92 |
 | Whispers long forgotten | 18.00% | ~61 |
 | Sound Bite | 14.00% | ~47 |
 | The art of movement | 14.00% | ~47 |
@@ -27,7 +27,7 @@
 | Tough conversation | 11.00% | ~37 |
 | A new way | 10.00% | ~34 |
 | The tragedy unfolds | 10.00% | ~34 |
-| Breaking free | 9.00% | ~30 |
+| Breaking free | 9.00% | ~31 |
 | Heavy Burden | 8.00% | ~27 |
 | True Reflection | 8.00% | ~27 |
 | Casting Finished | 7.00% | ~24 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338 (Ranked 391)  
+Progressed: 339 (Ranked 391)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -145,4 +145,4 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 331 | 0 |
 | 2024-01-18 | 334 | 0 |
 | 2024-01-19 | 337 | 0 |
-| 2024-01-20 | 338 | 0 |
+| 2024-01-20 | 339 | 0 |

@@ -2352,9 +2352,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17017,
+  "EOS_Progressed": 17018,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20582,6 +20582,11 @@
       "Time": "2024-01-20T11:10:19.9326221+00:00",
       "NumProgressed": 17017,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T13:14:37.8197852+00:00",
+      "NumProgressed": 17018,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21951,9 +21956,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HAGIA_SOPHIA",
       "SetID": "9201eeb",
       "Name": "Hagia Sophia",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -22047,9 +22052,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
       "SetID": "9201eeb",
       "Name": "Pantheon",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 153
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -23456,21 +23461,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17017,
+      "Progressed": 17018,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17017,
+      "Progressed": 17018,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-20T06:57:18.3616453+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:10:27.407391+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:14:37.8197848+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:57:19.965568+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:10:27.4083585+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:00:20.2414667+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:14:37.8207212+00:00"
 }

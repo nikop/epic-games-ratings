@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 361,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1617,7 +1617,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7209,
+  "EOS_Progressed": 7210,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -17047,6 +17047,11 @@
       "Time": "2024-01-20T12:04:13.5929265+00:00",
       "NumProgressed": 7209,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-20T13:08:02.3232854+00:00",
+      "NumProgressed": 7210,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17114,7 +17119,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -17130,7 +17135,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -17162,7 +17167,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -17210,7 +17215,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -17330,7 +17335,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17377,15 +17382,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7209,
+      "Progressed": 7210,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-20T06:57:27.4315868+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:04:13.5929263+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:08:02.3232851+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.6785948+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:57:27.6303638+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:04:13.5930315+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:00:31.0966566+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:08:02.3233932+00:00"
 }

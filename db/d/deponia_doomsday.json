@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -80,11 +80,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:31.6449061+00:00",
@@ -975,6 +975,11 @@
       "Time": "2024-01-18T22:04:47.0912682+00:00",
       "NumProgressed": 536,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-20T13:08:19.7662464+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 36,
@@ -984,9 +989,9 @@
       "ID": "dep4_achievement_1",
       "SetID": "5d32b60",
       "Name": "Huzza, he\u0027s back.",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 456
+      "UsersEstimate": 451
     },
     {
       "ID": "dep4_achievement_10",
@@ -1018,15 +1023,15 @@
       "Name": "Quickdraw",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "dep4_achievement_14",
       "SetID": "5d32b60",
       "Name": "Shall we play a game?",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 247
+      "UsersEstimate": 242
     },
     {
       "ID": "dep4_achievement_15",
@@ -1066,7 +1071,7 @@
       "Name": "FunScore",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "dep4_achievement_2",
@@ -1074,7 +1079,7 @@
       "Name": "And again, and again, and...",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 327
+      "UsersEstimate": 328
     },
     {
       "ID": "dep4_achievement_20",
@@ -1146,7 +1151,7 @@
       "Name": "Kuvaq Minigame-Master",
       "Percentage": 59,
       "XP": 30,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "dep4_achievement_29",
@@ -1242,7 +1247,7 @@
       "Name": "School\u0027s out",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 225
+      "UsersEstimate": 226
     },
     {
       "ID": "dep4_achievement_7",
@@ -1250,7 +1255,7 @@
       "Name": "Portals come in packs",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "dep4_achievement_8",
@@ -1273,7 +1278,7 @@
     {
       "ID": "5d32b60",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 7
     }
   ],
@@ -1281,8 +1286,8 @@
   "FirstSeenRating": "2022-10-15T13:33:12.9761109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.6449069+00:00",
   "LastChanged": "2023-09-28T09:59:33.6365228+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:04:26.0496022+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:08:19.766246+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.9256921+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:03:15.9973348+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:04:26.0496377+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:06:35.9057223+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:08:19.7662768+00:00"
 }

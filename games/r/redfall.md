@@ -28,6 +28,7 @@ Rating: 3.66 (Ranked 1,102)
 | Bell-ringer | 4.00% | ~96 |
 | You Clean It Up | 4.00% | ~96 |
 | From the Shadows | 4.00% | ~96 |
+| Starve the Beast | 4.00% | ~96 |
 | Helping Hand | 4.00% | ~96 |
 | Revelations | 3.00% | ~72 |
 | Contingency Plans | 3.00% | ~72 |
@@ -36,7 +37,6 @@ Rating: 3.66 (Ranked 1,102)
 | Silence Is Golden | 3.00% | ~72 |
 | Good Morning | 3.00% | ~72 |
 | Check, Please! | 3.00% | ~72 |
-| Starve the Beast | 3.00% | ~72 |
 | Harvest’s End | 3.00% | ~72 |
 | Right This Way | 2.00% | ~48 |
 | Nice Try | 2.00% | ~48 |

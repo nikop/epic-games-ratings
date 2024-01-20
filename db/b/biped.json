@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10631,
+  "EOS_Progressed": 10633,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 247,
+  "EOS_NewPlayers": 243,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17399,6 +17399,11 @@
       "Time": "2024-01-20T12:06:18.555571+00:00",
       "NumProgressed": 10631,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:11:27.6595745+00:00",
+      "NumProgressed": 10633,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17410,7 +17415,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3933
+      "UsersEstimate": 3934
     },
     {
       "ID": "10",
@@ -17426,7 +17431,7 @@
       "Name": "Telepathic",
       "Percentage": 8,
       "XP": 70,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "12",
@@ -17466,7 +17471,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3083
+      "UsersEstimate": 3084
     },
     {
       "ID": "3",
@@ -17490,7 +17495,7 @@
       "Name": "Snowy Peak",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "6",
@@ -17529,7 +17534,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10631,
+      "Progressed": 10633,
       "Completed": 0
     }
   ],
@@ -17537,8 +17542,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:06:18.5555706+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:11:27.659574+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:34.7653298+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:00:23.0751973+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:06:18.5556625+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:05:34.7587615+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:11:27.6596794+00:00"
 }

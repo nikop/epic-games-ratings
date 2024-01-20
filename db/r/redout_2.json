@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 589,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 385,
+  "Ranking_EOS_NewPlayers": 372,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1217,
+  "EOS_Progressed": 1218,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1366,6 +1366,11 @@
       "Time": "2024-01-19T21:07:47.9663685+00:00",
       "NumProgressed": 1217,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:11:28.9975382+00:00",
+      "NumProgressed": 1218,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1609,7 +1614,7 @@
       "Name": "Running at the speed of sound",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 170
+      "UsersEstimate": 171
     },
     {
       "ID": "FLYLONG",
@@ -1695,9 +1700,9 @@
       "ID": "ONEPAINT",
       "SetID": "3dh70f3",
       "Name": "It\u0027s like an haircut",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 207
     },
     {
       "ID": "ONEPLATINUM",
@@ -1792,7 +1797,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1217,
+      "Progressed": 1218,
       "Completed": 0
     }
   ],
@@ -1800,8 +1805,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2024-01-13T16:03:26.8950598+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:06:19.3806369+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:11:28.9975378+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.5377466+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:03:15.1614771+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:06:19.3806879+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:06:34.6798143+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:11:28.9975953+00:00"
 }

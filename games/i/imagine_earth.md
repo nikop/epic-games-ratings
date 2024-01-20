@@ -12,18 +12,18 @@ Number of Ratings: 22  (23.09.2022)
 | Lorian | 31.00% | ~140 |
 | Metropolis | 27.00% | ~122 |
 | Rounos | 24.00% | ~108 |
-| Campaign Silver | 21.00% | ~94 |
-| Magni | 21.00% | ~94 |
+| Campaign Silver | 21.00% | ~95 |
+| Magni | 21.00% | ~95 |
 | Bora | 18.00% | ~81 |
 | Scientist | 15.00% | ~68 |
 | Campaign Gold | 14.00% | ~63 |
 | Edora | 14.00% | ~63 |
 | Environmentalist | 12.00% | ~54 |
-| Iqunox | 9.00% | ~40 |
+| Iqunox | 9.00% | ~41 |
 | Udion Torix | 8.00% | ~36 |
 | Forester | 7.00% | ~32 |
 | Thera | 6.00% | ~27 |
-| Campaign Titanium | 5.00% | ~22 |
+| Campaign Titanium | 5.00% | ~23 |
 | Builder | 4.00% | ~18 |
 | World Creator | 4.00% | ~18 |
 | Multitalent | 3.00% | ~14 |
@@ -31,7 +31,7 @@ Number of Ratings: 22  (23.09.2022)
 | Competitor Silver | 0.20% | ~1 |
 | Competitor Gold | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 450 (Ranked 367)  
+Progressed: 451 (Ranked 366)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -104,6 +104,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-09 | 448 | 0 |
 | 2024-01-10 | 449 | 0 |
 | 2024-01-12 | 450 | 0 |
+| 2024-01-20 | 451 | 0 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -5,7 +5,7 @@
   "Ranking_Rating": 992,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
-  "Ranking_EOS_Progress": 247,
+  "Ranking_EOS_Progress": 246,
   "Ranking_EOS_Completed": 283,
   "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 81,
@@ -115,7 +115,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2399,
+  "EOS_Progressed": 2400,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 2,
@@ -4855,6 +4855,11 @@
       "Time": "2024-01-20T11:10:11.0253923+00:00",
       "NumProgressed": 2399,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T13:14:26.9386779+00:00",
+      "NumProgressed": 2400,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4866,7 +4871,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1559
+      "UsersEstimate": 1560
     },
     {
       "ID": "ACH_02",
@@ -4904,9 +4909,9 @@
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 216
+      "UsersEstimate": 240
     },
     {
       "ID": "ACH_07",
@@ -4928,9 +4933,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH_10",
@@ -5153,7 +5158,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2399,
+      "Progressed": 2400,
       "Completed": 5
     }
   ],
@@ -5161,8 +5166,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-17T13:05:56.6970147+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:10:18.5485995+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:14:26.9386777+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:58:18.5581168+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:10:18.5486562+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:01:45.1404469+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:14:26.9387119+00:00"
 }

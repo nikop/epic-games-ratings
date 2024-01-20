@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4407,
+  "EOS_Progressed": 4410,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 364,
   "EOS_NewCompleters": 0,
@@ -5564,6 +5564,11 @@
       "Time": "2024-01-20T12:05:17.1039889+00:00",
       "NumProgressed": 4407,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:09:32.256298+00:00",
+      "NumProgressed": 4410,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5600,7 +5605,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5760,7 +5765,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1807
+      "UsersEstimate": 1808
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -5776,7 +5781,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 2027
+      "UsersEstimate": 2029
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -5951,20 +5956,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4407,
+      "Progressed": 4410,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 185,
-      "Completed": 185
+      "Progressed": 188,
+      "Completed": 188
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:05:17.1039887+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:09:32.2562977+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.8664152+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:58:18.3547618+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:05:17.1040525+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:01:44.853902+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:09:32.2563725+00:00"
 }

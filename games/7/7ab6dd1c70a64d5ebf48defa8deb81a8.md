@@ -5,7 +5,7 @@ Rating: 4.17 (Ranked 992)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 65.00% | ~1,559 |
+| Break Out | 65.00% | ~1,560 |
 | Trinity | 35.00% | ~840 |
 | The Collector | 29.00% | ~696 |
 | Find Allies | 27.00% | ~648 |
@@ -22,10 +22,10 @@ Rating: 4.17 (Ranked 992)
 | Big Bazar | 16.00% | ~384 |
 | Essence Blow | 15.00% | ~360 |
 | Alchemist | 15.00% | ~360 |
-| The Mentor | 12.00% | ~288 |
+| The Mentor | 13.00% | ~312 |
 | Calm before the Storm | 11.00% | ~264 |
 | To Battle | 10.00% | ~240 |
-| Godslayer | 9.00% | ~216 |
+| Godslayer | 10.00% | ~240 |
 | Airborne | 9.00% | ~216 |
 | Miner | 9.00% | ~216 |
 | Shatterer | 6.00% | ~144 |
@@ -42,7 +42,7 @@ Rating: 4.17 (Ranked 992)
 | All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,399 (Ranked 247)  
+Progressed: 2,400 (Ranked 246)  
 Completed: 5 (0.21%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -142,7 +142,7 @@ Completed: 5 (0.21%) (Ranked 283)
 | 2024-01-17 | 2,374 | 5 |
 | 2024-01-18 | 2,380 | 5 |
 | 2024-01-19 | 2,391 | 5 |
-| 2024-01-20 | 2,399 | 5 |
+| 2024-01-20 | 2,400 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

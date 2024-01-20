@@ -10,12 +10,12 @@ Rating: 4.53 (Ranked 569)
 | Enter the Speed Gauntlet | 25.00% | ~304 |
 | I just can't choose | 25.00% | ~304 |
 | A Cheese Grater to the Face | 19.00% | ~231 |
-| It's like an haircut | 18.00% | ~219 |
 | Put it on a shelf | 18.00% | ~219 |
+| It's like an haircut | 17.00% | ~207 |
 | Ride in the rising sun | 16.00% | ~195 |
 | Suit up | 16.00% | ~195 |
 | Walked like an Egyptian | 15.00% | ~183 |
-| Running at the speed of sound | 14.00% | ~170 |
+| Running at the speed of sound | 14.00% | ~171 |
 | Rookie No-No More | 13.00% | ~158 |
 | Martian explorer | 11.00% | ~134 |
 | To the core | 8.00% | ~97 |
@@ -58,7 +58,7 @@ Rating: 4.53 (Ranked 569)
 | I, need, more, shelves! | 0.50% | ~6 |
 | New pro in town! | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,217 (Ranked 291)  
+Progressed: 1,218 (Ranked 291)  
 Completed: 0 (0.00%) (Ranked 406)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -217,6 +217,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-16 | 1,213 | 0 |
 | 2024-01-18 | 1,215 | 0 |
 | 2024-01-19 | 1,217 | 0 |
+| 2024-01-20 | 1,218 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

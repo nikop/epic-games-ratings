@@ -12,7 +12,7 @@
 | Endless Tricks | 52.00% | ~203 |
 | Wild's Keeper | 50.00% | ~196 |
 | Mind Illuminator | 45.00% | ~176 |
-| Stellar Dismantler | 40.00% | ~156 |
+| Stellar Dismantler | 41.00% | ~160 |
 | Astral Adventurer | 36.00% | ~141 |
 | Noctuan Champion | 36.00% | ~141 |
 | Anomaly Destroyer | 33.00% | ~129 |
@@ -59,13 +59,13 @@
 | Sentinelphobic | 2.00% | ~8 |
 | The Abyssal Terror | 2.00% | ~8 |
 | Aquarian Hero | 2.00% | ~8 |
+| Aquarian Mastery | 2.00% | ~8 |
 | Behenian Mastery | 2.00% | ~8 |
 | Lacertian Mastery | 2.00% | ~8 |
 | Noctuan Mastery | 2.00% | ~8 |
 | Anomaly Master | 1.00% | ~4 |
 | Unepic Hero | 1.00% | ~4 |
 | Apian Mastery | 1.00% | ~4 |
-| Aquarian Mastery | 1.00% | ~4 |
 | Eridanian Mastery | 1.00% | ~4 |
 | Astral Tinkerer | 0.80% | ~3 |
 | Plague Doctor | 0.80% | ~3 |

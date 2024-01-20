@@ -2,9 +2,9 @@
   "ID": "c609e63aa7f44e55835f51df979ee6b8",
   "Name": "Batora: Lost Haven",
   "ProductSlug": "batora-lost-haven-1773c3",
-  "Ranking_EOS_Progress": 596,
+  "Ranking_EOS_Progress": 595,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 450,
+  "Ranking_EOS_NewPlayers": 430,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-12T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 35,
+  "EOS_Progressed": 36,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -199,6 +199,11 @@
       "Time": "2024-01-16T09:09:46.85624+00:00",
       "NumProgressed": 35,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:14:20.9120344+00:00",
+      "NumProgressed": 36,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-12T17:03:09.6040716+00:00",
@@ -225,7 +230,7 @@
       "ID": "ACH_CHILDELIKE_SPIRIT",
       "SetID": "715gm5d",
       "Name": "Childelike Spirit",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -313,7 +318,7 @@
       "ID": "ACH_INNER_DIVA",
       "SetID": "715gm5d",
       "Name": "Inner Diva",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -337,7 +342,7 @@
       "ID": "ACH_KEEPER_OF_BALANCE",
       "SetID": "715gm5d",
       "Name": "Keeper of Balance",
-      "Percentage": 60,
+      "Percentage": 58,
       "XP": 15,
       "UsersEstimate": 21
     },
@@ -377,7 +382,7 @@
       "ID": "ACH_PRIDEFUL_SCARS",
       "SetID": "715gm5d",
       "Name": "Prideful Scars",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -409,7 +414,7 @@
       "ID": "ACH_TOGETHER_AT_LAST",
       "SetID": "715gm5d",
       "Name": "Together at last",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 15,
       "UsersEstimate": 3
     },
@@ -433,7 +438,7 @@
       "ID": "ACH_UNUSUAL_ENCOUNTER",
       "SetID": "715gm5d",
       "Name": "Unusual Encounter",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 15,
       "UsersEstimate": 8
     },
@@ -450,14 +455,14 @@
     {
       "ID": "715gm5d",
       "IsBase": true,
-      "Progressed": 35,
+      "Progressed": 36,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-26T15:57:45.8918317+00:00",
   "FirstSeenAchievements": "2023-09-12T17:03:09.6040714+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:10:14.2635651+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:14:20.9120339+00:00",
   "LastUpdate_AppInfo": "2024-01-17T01:46:11.4550021+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:58:45.7392504+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:10:14.2635843+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:02:25.3777408+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:14:20.9120547+00:00"
 }

@@ -5,20 +5,20 @@ Rating: 4.19 (Ranked 979)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,528 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,239 |
+| First Step Into the Knight | 50.00% | ~41,530 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,240 |
 | Loose Ends | 33.00% | ~27,409 |
-| To the Victor Go the Spoils | 27.00% | ~22,425 |
+| To the Victor Go the Spoils | 27.00% | ~22,426 |
 | Knighthood | 26.00% | ~21,595 |
 | Get ReQ'd | 24.00% | ~19,934 |
 | Whispered Words | 24.00% | ~19,934 |
 | The Batman Family | 22.00% | ~18,273 |
 | Lock and Key | 22.00% | ~18,273 |
-| Something in the Clay | 20.00% | ~16,611 |
-| Quartzer Life Crisis | 20.00% | ~16,611 |
-| Working Hard or Harley Working? | 20.00% | ~16,611 |
-| Unstoppable Force | 20.00% | ~16,611 |
-| Bad Apples in Every Orchard | 20.00% | ~16,611 |
+| Something in the Clay | 20.00% | ~16,612 |
+| Quartzer Life Crisis | 20.00% | ~16,612 |
+| Working Hard or Harley Working? | 20.00% | ~16,612 |
+| Unstoppable Force | 20.00% | ~16,612 |
+| Bad Apples in Every Orchard | 20.00% | ~16,612 |
 | Snow Problem | 19.00% | ~15,781 |
 | The Show Mud Go On | 17.00% | ~14,120 |
 | From Inside Gotham's Walls | 17.00% | ~14,120 |
@@ -28,8 +28,8 @@ Rating: 4.19 (Ranked 979)
 | Rock and a Hard Place | 14.00% | ~11,628 |
 | Cooldown | 14.00% | ~11,628 |
 | Voiceless | 14.00% | ~11,628 |
-| Shock Til They Drop | 13.00% | ~10,797 |
-| Seeking Asylum | 13.00% | ~10,797 |
+| Shock Til They Drop | 13.00% | ~10,798 |
+| Seeking Asylum | 13.00% | ~10,798 |
 | End of an Era | 12.00% | ~9,967 |
 | Not On My Watch | 12.00% | ~9,967 |
 | Bulldozed | 12.00% | ~9,967 |
@@ -39,8 +39,8 @@ Rating: 4.19 (Ranked 979)
 | Out of Their League | 9.00% | ~7,475 |
 | Solid Alibi | 8.00% | ~6,645 |
 | Fusion Expert | 7.00% | ~5,814 |
-| Family Meeting | 6.00% | ~4,983 |
-| A Worthy Successor | 6.00% | ~4,983 |
+| Family Meeting | 6.00% | ~4,984 |
+| A Worthy Successor | 6.00% | ~4,984 |
 | Expert Crime Fighter | 5.00% | ~4,153 |
 | Dressed to Impress | 4.00% | ~3,322 |
 | A Momentum Occasion | 3.00% | ~2,492 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 979)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,057 (Ranked 110)  
+Progressed: 83,059 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 295)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 135 (0.16%) (Ranked 295)
 | 2024-01-17 | 82,939 | 135 |
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
-| 2024-01-20 | 83,057 | 135 |
+| 2024-01-20 | 83,059 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,232  (Ranked 102)  
 Sum: 5,523 (Ranked 145)  

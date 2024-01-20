@@ -5,9 +5,9 @@
   "Ranking_Rating": 868,
   "Ranking_Popularity": 589,
   "Ranking_PopularitySum": 589,
-  "Ranking_EOS_Progress": 367,
+  "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 489,
   "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-04-28T13:00:00+00:00",
@@ -83,9 +83,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 450,
+  "EOS_Progressed": 451,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -528,6 +528,11 @@
       "Time": "2024-01-12T01:54:52.3136339+00:00",
       "NumProgressed": 450,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T13:11:32.3420913+00:00",
+      "NumProgressed": 451,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -555,7 +560,7 @@
       "Name": "Campaign Silver",
       "Percentage": 21,
       "XP": 40,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "CampaignStars3",
@@ -571,7 +576,7 @@
       "Name": "Campaign Titanium",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Competitor1",
@@ -651,7 +656,7 @@
       "Name": "Iqunox",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "PlanetJoma",
@@ -675,7 +680,7 @@
       "Name": "Magni",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "PlanetRounos",
@@ -730,7 +735,7 @@
     {
       "ID": "c2k469b",
       "IsBase": true,
-      "Progressed": 450,
+      "Progressed": 451,
       "Completed": 0
     }
   ],
@@ -738,8 +743,8 @@
   "FirstSeenRating": "2022-08-14T20:31:45.7096726+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:11.8112699+00:00",
   "LastChanged": "2023-11-02T00:00:47.6208108+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:06:21.9950432+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:11:32.3420909+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:53.1064849+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:57:59.2526143+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:06:21.9950594+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:01:18.7202762+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:11:32.3421124+00:00"
 }

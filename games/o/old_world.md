@@ -87,6 +87,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~170 |
 | Landowners | 0.90% | ~153 |
 | Traders | 0.90% | ~153 |
+| Hagia Sophia | 0.90% | ~153 |
+| Pantheon | 0.90% | ~153 |
 | Via Recta Souk | 0.90% | ~153 |
 | Economic Reform | 0.90% | ~153 |
 | Military Prestige | 0.90% | ~153 |
@@ -102,8 +104,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Subjugator | 0.80% | ~136 |
 | Riders | 0.80% | ~136 |
 | Circus Maximus | 0.80% | ~136 |
-| Hagia Sophia | 0.80% | ~136 |
-| Pantheon | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Assyrian Paganism | 0.80% | ~136 |
 | Industrial Progress | 0.80% | ~136 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library in Nineveh | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,017 (Ranked 170)  
+Progressed: 17,018 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 361)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -640,7 +640,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,017 | 5 |
+| 2024-01-20 | 17,018 | 5 |
 ## Awards
 Max (Relaxing): 230  (Ranked 287)  
 Sum: 1,943 (Ranked 223)  

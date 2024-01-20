@@ -437,9 +437,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11899,
+  "EOS_Progressed": 11905,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 649,
+  "EOS_NewPlayers": 647,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5592,6 +5592,11 @@
       "Time": "2024-01-20T12:10:18.8408413+00:00",
       "NumProgressed": 11899,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T13:14:27.2219113+00:00",
+      "NumProgressed": 11905,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5602,9 +5607,9 @@
       "ID": "02_TheIntrigue",
       "SetID": "37a94m8",
       "Name": "Conspiracy",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2618
+      "UsersEstimate": 2738
     },
     {
       "ID": "03_TheStolenStar",
@@ -5612,7 +5617,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5708,7 +5713,7 @@
       "Name": "Pentakill",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "16_TheRise",
@@ -5716,7 +5721,7 @@
       "Name": "The Rise",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "17_TheExemplar",
@@ -5732,7 +5737,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5740,7 +5745,7 @@
       "Name": "Void Wolf",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -5764,7 +5769,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "23_DynastyRestored",
@@ -5812,7 +5817,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1666
+      "UsersEstimate": 1667
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5852,7 +5857,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -5860,7 +5865,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5916,7 +5921,7 @@
       "Name": "Jungle Heat",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1428
+      "UsersEstimate": 1429
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5924,7 +5929,7 @@
       "Name": "Iron Judgement",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1309
+      "UsersEstimate": 1310
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -5956,7 +5961,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1904
+      "UsersEstimate": 1905
     },
     {
       "ID": "47_AFlame",
@@ -6123,7 +6128,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11899,
+      "Progressed": 11905,
       "Completed": 1
     }
   ],
@@ -6131,8 +6136,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-20T09:01:43.0304013+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:10:18.8408406+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:14:27.2219109+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T12:00:17.2787429+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:10:18.8409145+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:04:45.8173953+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:14:27.2220145+00:00"
 }

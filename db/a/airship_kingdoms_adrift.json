@@ -52,9 +52,9 @@
       "ID": "ACH_AN_OLD_FIREND",
       "SetID": "9i65mgf",
       "Name": "An Old Friend",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_AN_OLD_HERO",
@@ -556,9 +556,9 @@
       "ID": "ACH_MEET_HARBOURMASTER",
       "SetID": "9i65mgf",
       "Name": "Meet THE Harbormaster",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_MILLIONAIRE",
@@ -596,9 +596,9 @@
       "ID": "ACH_NOW_YOU_KNEW",
       "SetID": "9i65mgf",
       "Name": "Now You Knew",
-      "Percentage": 67,
+      "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_NO_FEAR_OF_INFLATION",
@@ -644,9 +644,9 @@
       "ID": "ACH_PINK_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Pink Flower",
-      "Percentage": 33,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PLAYED_US_LIKE_A_FIDDLE",
@@ -1242,8 +1242,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-20T12:04:55.4637478+00:00",
+  "LastChanged_Achievements": "2024-01-20T13:09:01.6737153+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:43.8624889+00:00",
-  "LastUpdate_Ratings": "2024-01-20T11:57:42.0762306+00:00",
-  "LastUpdate_Achievements": "2024-01-20T12:04:55.4639357+00:00"
+  "LastUpdate_Ratings": "2024-01-20T13:00:53.1414841+00:00",
+  "LastUpdate_Achievements": "2024-01-20T13:09:01.6739055+00:00"
 }
