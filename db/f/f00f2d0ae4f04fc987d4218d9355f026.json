@@ -3,9 +3,9 @@
   "Name": "Bio Inc. Redemption",
   "ProductSlug": "bio-inc-redemption-280fe5",
   "Ranking_EOS_Progress": 539,
-  "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 407,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-12T05:00:00+00:00",
     "PcReleaseDate": "2018-03-08T05:00:00+00:00",
@@ -632,8 +632,8 @@
   ],
   "FirstSeen": "2023-12-14T22:59:18.6956288+00:00",
   "FirstSeenAchievements": "2023-12-12T04:03:25.1214352+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:06:25.357582+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:07:34.9715946+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:15.4045018+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:00:44.4563382+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:06:25.3576049+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:02:43.6936731+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:07:34.9716201+00:00"
 }

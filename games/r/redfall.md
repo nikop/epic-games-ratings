@@ -73,7 +73,7 @@ Rating: 3.66 (Ranked 1,102)
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,408 (Ranked 246)  
-Completed: 0 (0.00%) (Ranked 406)  
+Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

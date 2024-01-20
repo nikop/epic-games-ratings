@@ -1,23 +1,23 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 475)  
+Rating: 4.58 (Ranked 474)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,056 |
-| Sweet Sorrow | 18.00% | ~8,028 |
-| Rules the Waves | 17.00% | ~7,582 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,690 |
-| Rival | 14.00% | ~6,244 |
-| Correspondent | 12.00% | ~5,352 |
-| Lose Your Mind | 12.00% | ~5,352 |
-| Sound Mind? | 12.00% | ~5,352 |
-| Salt's Curse | 11.00% | ~4,906 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,906 |
-| The Fall of the House | 11.00% | ~4,906 |
-| Shipmate | 11.00% | ~4,906 |
+| Sink Beneath the Waves | 36.00% | ~16,058 |
+| Sweet Sorrow | 18.00% | ~8,029 |
+| Rules the Waves | 17.00% | ~7,583 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,691 |
+| Rival | 14.00% | ~6,245 |
+| Correspondent | 12.00% | ~5,353 |
+| Lose Your Mind | 12.00% | ~5,353 |
+| Sound Mind? | 12.00% | ~5,353 |
+| Salt's Curse | 11.00% | ~4,907 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,907 |
+| The Fall of the House | 11.00% | ~4,907 |
+| Shipmate | 11.00% | ~4,907 |
 | One Year at Zee | 8.00% | ~3,568 |
 | The Ascent of Man | 7.00% | ~3,122 |
 | Pupil | 6.00% | ~2,676 |
@@ -61,8 +61,8 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,601 (Ranked 133)  
-Completed: 4 (0.01%) (Ranked 380)  
+Progressed: 44,605 (Ranked 133)  
+Completed: 4 (0.01%) (Ranked 381)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -336,7 +336,7 @@ Completed: 4 (0.01%) (Ranked 380)
 | 2024-01-17 | 44,437 | 4 |
 | 2024-01-18 | 44,492 | 4 |
 | 2024-01-19 | 44,547 | 4 |
-| 2024-01-20 | 44,601 | 4 |
+| 2024-01-20 | 44,605 | 4 |
 ## Awards
 Max (Character Customization): 222  (Ranked 292)  
 Sum: 316 (Ranked 378)  

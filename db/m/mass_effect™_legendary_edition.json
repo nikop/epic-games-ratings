@@ -3,8 +3,8 @@
   "Name": "Mass Effect\u2122 Legendary Edition",
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 211,
-  "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_Completed": 261,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4525,
+  "EOS_Progressed": 4526,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8698,6 +8698,11 @@
       "Time": "2024-01-20T17:10:23.8282669+00:00",
       "NumProgressed": 4525,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-20T18:10:23.7180887+00:00",
+      "NumProgressed": 4526,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -8790,7 +8795,7 @@
       "Name": "Mail Slot",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_109",
@@ -8830,7 +8835,7 @@
       "Name": "Gunsmith",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_113",
@@ -8878,7 +8883,7 @@
       "Name": "Insanity II",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_119",
@@ -8934,7 +8939,7 @@
       "Name": "Recruit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2398
+      "UsersEstimate": 2399
     },
     {
       "ID": "achievement_125",
@@ -8950,7 +8955,7 @@
       "Name": "Veteran",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "achievement_127",
@@ -8974,7 +8979,7 @@
       "Name": "Electronics Specialist",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_15",
@@ -8990,7 +8995,7 @@
       "Name": "First Aid Specialist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "achievement_17",
@@ -9038,7 +9043,7 @@
       "Name": "Medal of Exploration I",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 2534
+      "UsersEstimate": 2535
     },
     {
       "ID": "achievement_22",
@@ -9094,7 +9099,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2217
+      "UsersEstimate": 2218
     },
     {
       "ID": "achievement_29",
@@ -9102,7 +9107,7 @@
       "Name": "Asari Ally",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "achievement_3",
@@ -9110,7 +9115,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4072
+      "UsersEstimate": 4073
     },
     {
       "ID": "achievement_30",
@@ -9126,7 +9131,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "achievement_32",
@@ -9166,7 +9171,7 @@
       "Name": "Missing in Action",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "achievement_37",
@@ -9174,7 +9179,7 @@
       "Name": "Very Elusive",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "achievement_38",
@@ -9182,7 +9187,7 @@
       "Name": "Colony Defense",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "achievement_39",
@@ -9270,7 +9275,7 @@
       "Name": "The Krogan",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "achievement_49",
@@ -9348,9 +9353,9 @@
       "ID": "achievement_57",
       "SetID": "d252ncf",
       "Name": "Ghost of the Father",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 996
+      "UsersEstimate": 1041
     },
     {
       "ID": "achievement_58",
@@ -9430,7 +9435,7 @@
       "Name": "Tactician",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_67",
@@ -9518,7 +9523,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1176
+      "UsersEstimate": 1177
     },
     {
       "ID": "achievement_77",
@@ -9542,7 +9547,7 @@
       "Name": "Driven",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 1131
+      "UsersEstimate": 1132
     },
     {
       "ID": "achievement_8",
@@ -9670,7 +9675,7 @@
       "Name": "Liberator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "achievement_94",
@@ -9725,19 +9730,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4525,
+      "Progressed": 4526,
       "Completed": 14
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4525,
+      "Progressed": 4526,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:10:23.8282665+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:10:23.7180884+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.9197537+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:03:49.301999+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:10:23.8284302+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:03:27.653528+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:10:23.7182518+00:00"
 }

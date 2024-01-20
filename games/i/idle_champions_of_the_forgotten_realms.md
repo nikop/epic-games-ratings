@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,196 |
+| A Brief Tour of the Realms | 4.00% | ~10,197 |
 | Beast Intentions | 2.00% | ~5,098 |
 | The Cursed Farmer | 2.00% | ~5,098 |
 | The Mad Wizard | 2.00% | ~5,098 |
@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.80% | ~2,039 |
 | Mad Cow Disease | 0.80% | ~2,039 |
 | Friendly Imps | 0.80% | ~2,039 |
-| Welcome to Sigil | 0.80% | ~1,769 |
+| Welcome to Sigil | 0.80% | ~1,770 |
 | A Persistent Buzzing | 0.70% | ~1,784 |
 | Pure Energy | 0.70% | ~1,784 |
 | Fast Food | 0.70% | ~1,548 |
@@ -96,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Enter the Sargauth | 0.20% | ~510 |
 | The Dead Three | 0.20% | ~510 |
 | Lair of the Xanathar | 0.20% | ~510 |
+| Waterdeep Under Siege | 0.20% | ~510 |
 | Crowded Streets | 0.20% | ~510 |
 | The Darkness Runs Deeper | 0.20% | ~510 |
 | Difficult Terrain | 0.20% | ~510 |
@@ -331,7 +332,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Dreams of Beholders | 0.10% | ~255 |
 | Feigned Weakness | 0.10% | ~255 |
 | DPS in the Deeps | 0.10% | ~221 |
-| Waterdeep Under Siege | 0.10% | ~255 |
 | Bregan D'aerthe Comes to Call | 0.10% | ~255 |
 | Sober Up | 0.10% | ~255 |
 | In The Beginning | 0.10% | ~221 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,905 (Ranked 71)  
-Completed: 2,628 (1.03%) (Ranked 178)  
+Progressed: 254,914 (Ranked 71)  
+Completed: 2,628 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -828,7 +828,7 @@ Completed: 2,628 (1.03%) (Ranked 178)
 | 2024-01-17 | 254,469 | 2,623 |
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
-| 2024-01-20 | 254,905 | 2,628 |
+| 2024-01-20 | 254,914 | 2,628 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,581 (Ranked 41)  

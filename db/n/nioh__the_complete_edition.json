@@ -2,13 +2,13 @@
   "ID": "3622b6ddc5c849b1826085d5fe492eae",
   "Name": "Nioh: The Complete Edition",
   "ProductSlug": "nioh-the-complete-edition",
-  "Ranking_Rating": 513,
+  "Ranking_Rating": 514,
   "Ranking_Popularity": 48,
   "Ranking_PopularitySum": 61,
   "Ranking_EOS_Progress": 844,
-  "Ranking_EOS_Completed": 406,
+  "Ranking_EOS_Completed": 407,
   "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-09-09T15:00:00+00:00",
     "PcReleaseDate": "2017-11-07T00:00:00+00:00",
@@ -10319,10 +10319,16 @@
       "Rating": 4.56,
       "NumberOfAwards": 21255,
       "NumberOfAwardsMax": 8650
+    },
+    {
+      "Time": "2024-01-20T17:58:24.6274199+00:00",
+      "Rating": 4.56,
+      "NumberOfAwards": 21258,
+      "NumberOfAwardsMax": 8650
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21255,
+  "NumberOfAwards": 21258,
   "NumberOfAwardsMax": 8650,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10360,13 +10366,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 966
+      "Count": 967
     },
     {
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 941
+      "Count": 942
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10384,7 +10390,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 810
+      "Count": 811
     }
   ],
   "EOS_Progressed": 0,
@@ -10398,8 +10404,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:37.2904323+00:00",
-  "LastChanged": "2024-01-20T16:58:46.6900641+00:00",
+  "LastChanged": "2024-01-20T17:58:24.6274196+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:24.9327161+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:58:46.6900646+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:05:32.6351629+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:58:24.6274204+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:05:11.8254142+00:00"
 }

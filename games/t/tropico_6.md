@@ -23,10 +23,10 @@ Number of Ratings: 398  (23.09.2022)
 | Shackadelic | 9.00% | ~649 |
 | Double Trouble | 7.00% | ~505 |
 | Firestarter | 7.00% | ~505 |
+| I Owe You Nothing | 7.00% | ~505 |
 | Make Tropico Great Again! | 7.00% | ~505 |
 | French Connection | 7.00% | ~505 |
 | Don't Panic! | 6.00% | ~433 |
-| I Owe You Nothing | 6.00% | ~433 |
 | Viva Tropico! | 5.00% | ~361 |
 | Computer Says "No" | 5.00% | ~361 |
 | Beware The Betman | 5.00% | ~361 |
@@ -48,7 +48,7 @@ Number of Ratings: 398  (23.09.2022)
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 7,213 (Ranked 202)  
-Completed: 2 (0.03%) (Ranked 361)  
+Completed: 2 (0.03%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -325,13 +325,13 @@ Completed: 2 (0.03%) (Ranked 361)
 | 2024-01-20 | 7,213 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 373)  
-Sum: 769 (Ranked 303)  
+Sum: 770 (Ranked 303)  
 Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 107 |
+| This game is Relaxing | 106 |
 | This game is Great for Beginners | 106 |
-| This game is Relaxing | 105 |
 | This game has Quickly Understood Controls | 103 |
 | This game is Extremely Fun | 99 |
 | This game has Amazing Storytelling | 97 |
@@ -533,4 +533,4 @@ Diff (max vs sum): 70
 | 2024-01-14 | 4.64 | - | 107 | 766 |
 | 2024-01-16 | 4.64 | - | 107 | 767 |
 | 2024-01-17 | 4.64 | - | 107 | 768 |
-| 2024-01-20 | 4.64 | - | 107 | 769 |
+| 2024-01-20 | 4.64 | - | 107 | 770 |

@@ -14,7 +14,7 @@
 | Settle Down | 67.00% | ~72 |
 | Stay Hydrated | 64.00% | ~68 |
 | First Win | 62.00% | ~66 |
-| True Story! | 44.00% | ~47 |
+| True Story! | 45.00% | ~48 |
 | Bedroom Secret Spot | 40.00% | ~43 |
 | At least everyone still had fun | 35.00% | ~37 |
 | Kick It | 34.00% | ~36 |
@@ -45,8 +45,8 @@
 | The Champ | 0.00% | ~0 |
 | He's heating Up! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 493)  
-Completed: 0 (0.00%) (Ranked 406)  
+Progressed: 107 (Ranked 494)  
+Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

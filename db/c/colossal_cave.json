@@ -3,9 +3,9 @@
   "Name": "Colossal Cave",
   "ProductSlug": "colossal-cave-6f902f",
   "Ranking_EOS_Progress": 493,
-  "Ranking_EOS_Completed": 186,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 187,
+  "Ranking_EOS_NewPlayers": 490,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-19T05:00:00+00:00",
     "PcReleaseDate": "2023-01-19T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 107,
+  "EOS_Progressed": 108,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -201,6 +201,11 @@
       "Time": "2024-01-11T04:04:16.1777456+00:00",
       "NumProgressed": 107,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-20T18:07:33.2443897+00:00",
+      "NumProgressed": 108,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 24,
@@ -212,7 +217,7 @@
       "Name": "We\u0027ve only just begun",
       "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "02-YoureSpelunkinNow",
@@ -226,15 +231,15 @@
       "ID": "03-BirdmanOfTheCaves",
       "SetID": "5iij4gg",
       "Name": "The Birdman of The Caves",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 53
     },
     {
       "ID": "04-CharminTheSnake",
       "SetID": "5iij4gg",
       "Name": "Charmin\u0027 the Snake",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 36
     },
@@ -266,7 +271,7 @@
       "ID": "08-TreasureSeeker",
       "SetID": "5iij4gg",
       "Name": "Treasure Seeker",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 22
     },
@@ -274,7 +279,7 @@
       "ID": "09-IveFallenAndICantGetUp",
       "SetID": "5iij4gg",
       "Name": "I\u0027ve Fallen \u0026 I Can\u0027t Get Up",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 5,
       "UsersEstimate": 52
     },
@@ -316,7 +321,7 @@
       "Name": "Egg On His Face",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "15-BJAndTheBear",
@@ -338,9 +343,9 @@
       "ID": "17-BatteriesNotIncluded",
       "SetID": "5iij4gg",
       "Name": "Batteries not Included",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 6
     },
     {
       "ID": "18-GreenThumbGoliath",
@@ -356,7 +361,7 @@
       "Name": "Who dat?",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "20-SoftHands",
@@ -403,7 +408,7 @@
     {
       "ID": "5iij4gg",
       "IsBase": true,
-      "Progressed": 107,
+      "Progressed": 108,
       "Completed": 1
     }
   ],
@@ -411,8 +416,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.114987+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.1369826+00:00",
   "LastChanged": "2023-03-31T05:57:02.1149872+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:06:23.5688472+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:07:33.2443893+00:00",
   "LastUpdate_AppInfo": "2024-01-13T17:57:22.0143551+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:03:29.5697847+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:06:23.5688663+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:03:06.739303+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:07:33.2444087+00:00"
 }

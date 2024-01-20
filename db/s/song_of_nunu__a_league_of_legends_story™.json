@@ -6,7 +6,7 @@
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 270,
-  "Ranking_EOS_Completed": 210,
+  "Ranking_EOS_Completed": 211,
   "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
@@ -4443,9 +4443,9 @@
       "ID": "EV_ACH11",
       "SetID": "6jeac23",
       "Name": "Biggest Snowball Ever",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 615
+      "UsersEstimate": 631
     },
     {
       "ID": "EV_ACH12",
@@ -4724,8 +4724,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-20T13:57:40.0061992+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:10:19.0298479+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:10:18.1844333+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:57:56.8163089+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:10:19.0298937+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:57:31.5025836+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:10:18.1844736+00:00"
 }

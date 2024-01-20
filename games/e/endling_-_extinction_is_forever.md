@@ -17,7 +17,7 @@
 | Chicken Dinner | 21.00% | ~128 |
 | A Barking Fox Doesn't Bite | 20.00% | ~122 |
 | Peaceful Instinct | 18.00% | ~110 |
-| Maternity | 16.00% | ~98 |
+| Maternity | 17.00% | ~104 |
 | Barking in The Rain | 15.00% | ~92 |
 | Family Reunion | 14.00% | ~86 |
 | Beyond Words | 14.00% | ~86 |
@@ -34,7 +34,7 @@
 | Endling | 0.80% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 611 (Ranked 346)  
-Completed: 3 (0.49%) (Ranked 230)  
+Completed: 3 (0.49%) (Ranked 231)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

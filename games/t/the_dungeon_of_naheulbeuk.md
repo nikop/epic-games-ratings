@@ -1,21 +1,21 @@
 # The Dungeon of Naheulbeuk
 [Store](https://store.epicgames.com/en-US/p/the-dungeon-of-naheulbeuk)  
 [View Rawdata](../../db/t/the_dungeon_of_naheulbeuk.json)  
-Rating: 4.59 (Ranked 451)  
+Rating: 4.58 (Ranked 474)  
 Number of Ratings: 118  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,101 |
-| Alt+F4 | 11.00% | ~27,381 |
-| Where's that freaking Dwarf? | 9.00% | ~22,403 |
-| Déjà vu | 8.00% | ~19,914 |
-| Sock! SOCK! | 6.00% | ~14,935 |
-| Speedrun | 6.00% | ~14,935 |
-| A beer, two curses, three companions | 5.00% | ~12,446 |
-| GG EZ | 5.00% | ~12,446 |
-| DM intervention | 5.00% | ~12,446 |
-| Fireproof Wizardess | 5.00% | ~12,446 |
+| Sowwy! | 37.00% | ~92,105 |
+| Alt+F4 | 11.00% | ~27,383 |
+| Where's that freaking Dwarf? | 9.00% | ~22,404 |
+| Déjà vu | 8.00% | ~19,915 |
+| Sock! SOCK! | 6.00% | ~14,936 |
+| Speedrun | 6.00% | ~14,936 |
+| A beer, two curses, three companions | 5.00% | ~12,447 |
+| GG EZ | 5.00% | ~12,447 |
+| DM intervention | 5.00% | ~12,447 |
+| Fireproof Wizardess | 5.00% | ~12,447 |
 | Way of the Wimp | 4.00% | ~9,957 |
 | The plot thickens... At the tavern | 4.00% | ~9,957 |
 | Livin' in a dwarven paradise | 3.00% | ~7,468 |
@@ -27,19 +27,19 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 3.00% | ~7,468 |
 | Team Building Exercise | 3.00% | ~7,468 |
 | Oh, when I'll be level 10... | 3.00% | ~7,468 |
-| Shiny and Crôm | 2.00% | ~4,978 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,978 |
-| Res Judicata | 2.00% | ~4,978 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,978 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,978 |
-| Dwarf Fortress | 2.00% | ~4,978 |
-| Look but don't touch | 2.00% | ~4,978 |
-| The beards of change | 2.00% | ~4,978 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,978 |
-| Lust and Debauchery | 2.00% | ~4,978 |
-| The Ranger of Chaos | 2.00% | ~4,978 |
-| I am the night | 2.00% | ~4,978 |
-| Thieves' Guild Accreditation | 2.00% | ~4,978 |
+| Shiny and Crôm | 2.00% | ~4,979 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,979 |
+| Res Judicata | 2.00% | ~4,979 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,979 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,979 |
+| Dwarf Fortress | 2.00% | ~4,979 |
+| Look but don't touch | 2.00% | ~4,979 |
+| The beards of change | 2.00% | ~4,979 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,979 |
+| Lust and Debauchery | 2.00% | ~4,979 |
+| The Ranger of Chaos | 2.00% | ~4,979 |
+| I am the night | 2.00% | ~4,979 |
+| Thieves' Guild Accreditation | 2.00% | ~4,979 |
 | %#*!$*! | 1.00% | ~2,489 |
 | Dead for good | 1.00% | ~2,489 |
 | Gargantua | 1.00% | ~2,489 |
@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,489 |
 | We come in peace | 0.90% | ~2,240 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,991 |
-| Holistic Adventuring Party | 0.70% | ~1,742 |
-| Law and Order | 0.70% | ~1,742 |
+| Holistic Adventuring Party | 0.70% | ~1,743 |
+| Law and Order | 0.70% | ~1,743 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,494 |
 | I'd rather... Just... Sing! | 0.50% | ~1,245 |
 | It's been a hard day's night | 0.50% | ~1,245 |
@@ -95,8 +95,8 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,921 (Ranked 73)  
-Completed: 9 (0.00%) (Ranked 406)  
+Progressed: 248,932 (Ranked 73)  
+Completed: 9 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -329,7 +329,7 @@ Completed: 9 (0.00%) (Ranked 406)
 | 2024-01-17 | 248,553 | 9 |
 | 2024-01-18 | 248,677 | 9 |
 | 2024-01-19 | 248,799 | 9 |
-| 2024-01-20 | 248,921 | 9 |
+| 2024-01-20 | 248,932 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 577 (Ranked 330)  

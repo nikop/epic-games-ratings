@@ -4,7 +4,7 @@
   "ProductSlug": "island-farmer-ce8ee6",
   "Ranking_EOS_Progress": 261,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 219,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-05-18T11:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1816,
+  "EOS_Progressed": 1818,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 60,
+  "EOS_NewPlayers": 62,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 7.21,
   "EosHistory": [
@@ -4649,6 +4649,11 @@
       "Time": "2024-01-20T17:10:11.3804729+00:00",
       "NumProgressed": 1816,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2024-01-20T18:10:10.7653138+00:00",
+      "NumProgressed": 1818,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 30,
@@ -4660,7 +4665,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1725
+      "UsersEstimate": 1727
     },
     {
       "ID": "LEVEL_002",
@@ -4668,7 +4673,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1435
+      "UsersEstimate": 1436
     },
     {
       "ID": "LEVEL_003",
@@ -4676,7 +4681,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1217
+      "UsersEstimate": 1218
     },
     {
       "ID": "LEVEL_004",
@@ -4684,7 +4689,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 962
+      "UsersEstimate": 964
     },
     {
       "ID": "LEVEL_005",
@@ -4692,7 +4697,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "LEVEL_006",
@@ -4700,7 +4705,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "LEVEL_007",
@@ -4708,7 +4713,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "LEVEL_008",
@@ -4724,7 +4729,7 @@
       "Name": "Going zig zag",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "LEVEL_010",
@@ -4780,7 +4785,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "LEVEL_017",
@@ -4788,7 +4793,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "LEVEL_018",
@@ -4828,7 +4833,7 @@
       "Name": "Who likes bridges?",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_023",
@@ -4836,7 +4841,7 @@
       "Name": "Flowing from high ground",
       "Percentage": 9,
       "XP": 55,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "LEVEL_024",
@@ -4899,14 +4904,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1816,
+      "Progressed": 1818,
       "Completed": 131
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:10:11.3804727+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:10:10.7653135+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:58:26.9404522+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:10:11.3805092+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:58:03.4497001+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:10:10.765353+00:00"
 }

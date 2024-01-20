@@ -2,13 +2,13 @@
   "ID": "e1809e1742cb498080d8849b11a99c5a",
   "Name": "Airborne Kingdom",
   "ProductSlug": "airborne-kingdom",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 322,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 198,
-  "Ranking_EOS_Completed": 199,
+  "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-17T16:00:00+00:00",
@@ -328,7 +328,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7815,
+  "EOS_Progressed": 7816,
   "EOS_Completed": 59,
   "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 0,
@@ -7093,6 +7093,11 @@
       "Time": "2024-01-20T17:04:43.3951841+00:00",
       "NumProgressed": 7815,
       "NumCompleted": 59
+    },
+    {
+      "Time": "2024-01-20T18:04:22.5968917+00:00",
+      "NumProgressed": 7816,
+      "NumCompleted": 59
     }
   ],
   "TotalAchievements": 27,
@@ -7120,7 +7125,7 @@
       "Name": "Fields Watered",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "AK_GLOWING_WATERS",
@@ -7144,7 +7149,7 @@
       "Name": "Harp Tuned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "AK_HOPES_HOISTED",
@@ -7152,7 +7157,7 @@
       "Name": "Hopes Hoisted",
       "Percentage": 22,
       "XP": 25,
-      "UsersEstimate": 1719
+      "UsersEstimate": 1720
     },
     {
       "ID": "AK_IRONS_SCORCHED",
@@ -7224,7 +7229,7 @@
       "Name": "Pyre Ignited",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "AK_RELIC_FINDER",
@@ -7248,7 +7253,7 @@
       "Name": "Settling the Skies",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 3204
+      "UsersEstimate": 3205
     },
     {
       "ID": "AK_SMALL_COMMUNITY",
@@ -7256,7 +7261,7 @@
       "Name": "A Small Community",
       "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 4376
+      "UsersEstimate": 4377
     },
     {
       "ID": "AK_SPARKLING_ALLOYS",
@@ -7280,7 +7285,7 @@
       "Name": "Travelers Returned",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 1797
+      "UsersEstimate": 1798
     },
     {
       "ID": "AK_TRUE_CHALLENGE",
@@ -7319,15 +7324,15 @@
     {
       "ID": "dfmb89",
       "IsBase": true,
-      "Progressed": 7815,
+      "Progressed": 7816,
       "Completed": 59
     }
   ],
   "FirstSeen": "2022-07-22T20:21:55.4916403+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.6429955+00:00",
   "LastChanged": "2023-10-20T16:58:18.8590288+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:04:43.3951838+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:04:22.5968912+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:59.4578631+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:03:48.5560695+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:04:43.3952312+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:03:26.6612053+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:04:22.5969305+00:00"
 }

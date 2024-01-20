@@ -5,17 +5,17 @@ Rating: 4.64 (Ranked 348)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,835 |
-| On the Top Step | 83.00% | ~15,355 |
-| Setting up for Success | 70.00% | ~12,950 |
-| Team Orders | 68.00% | ~12,580 |
-| Engineer | 46.00% | ~8,510 |
-| Familiar Faces | 42.00% | ~7,770 |
-| Going the Extra Mile | 36.00% | ~6,660 |
-| Sharing the Love | 34.00% | ~6,290 |
-| Hitting a Season | 28.00% | ~5,180 |
-| A Dozen Pieces | 25.00% | ~4,625 |
-| Making History | 25.00% | ~4,625 |
+| Getting on the Step | 91.00% | ~16,837 |
+| On the Top Step | 83.00% | ~15,357 |
+| Setting up for Success | 70.00% | ~12,951 |
+| Team Orders | 68.00% | ~12,581 |
+| Engineer | 46.00% | ~8,511 |
+| Familiar Faces | 42.00% | ~7,771 |
+| Going the Extra Mile | 36.00% | ~6,661 |
+| Sharing the Love | 34.00% | ~6,291 |
+| Hitting a Season | 28.00% | ~5,181 |
+| A Dozen Pieces | 25.00% | ~4,626 |
+| Making History | 25.00% | ~4,626 |
 | Challenge Yourself | 24.00% | ~4,440 |
 | Network Success | 23.00% | ~4,255 |
 | Writing a new Chapter | 20.00% | ~3,700 |
@@ -52,11 +52,11 @@ Rating: 4.64 (Ranked 348)
 | Under the Microscope | 0.60% | ~111 |
 | Ultimate Collector | 0.30% | ~56 |
 | Golden Touch | 0.20% | ~37 |
-| Shot in the Dark | 0.10% | ~18 |
-| Elite Racer | 0.10% | ~18 |
+| Shot in the Dark | 0.10% | ~19 |
+| Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,500 (Ranked 165)  
-Completed: 0 (0.00%) (Ranked 406)  
+Progressed: 18,502 (Ranked 165)  
+Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -184,7 +184,7 @@ Completed: 0 (0.00%) (Ranked 406)
 | 2024-01-17 | 18,358 | 0 |
 | 2024-01-18 | 18,404 | 0 |
 | 2024-01-19 | 18,454 | 0 |
-| 2024-01-20 | 18,500 | 0 |
+| 2024-01-20 | 18,502 | 0 |
 ## Awards
 Max (Diverse Characters): 69  (Ranked 422)  
 Sum: 463 (Ranked 348)  

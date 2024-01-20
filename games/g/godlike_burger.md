@@ -5,22 +5,22 @@ Rating: 4.51 (Ranked 596)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~182,167 |
-| FIRST BLOOD | 40.00% | ~161,926 |
-| KEVIN! | 30.00% | ~121,444 |
-| JACK OF ALL TRADES | 23.00% | ~93,107 |
-| CRIMINAL | 20.00% | ~80,963 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,578 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,482 |
-| HONORS STUDENT | 8.00% | ~32,385 |
-| BUTCHER | 6.00% | ~24,289 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,241 |
-| RAMBO | 5.00% | ~20,241 |
+| MASTER CHEF | 45.00% | ~182,176 |
+| FIRST BLOOD | 40.00% | ~161,934 |
+| KEVIN! | 30.00% | ~121,451 |
+| JACK OF ALL TRADES | 23.00% | ~93,112 |
+| CRIMINAL | 20.00% | ~80,967 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,580 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,484 |
+| HONORS STUDENT | 8.00% | ~32,387 |
+| BUTCHER | 6.00% | ~24,290 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,242 |
+| RAMBO | 5.00% | ~20,242 |
 | HELL'S KITCHEN | 4.00% | ~16,193 |
-| CELEBRITY | 3.00% | ~12,144 |
-| MARTYR | 3.00% | ~12,144 |
-| GRATITUDE | 2.00% | ~8,096 |
-| PATTY-KILLER | 2.00% | ~8,096 |
+| CELEBRITY | 3.00% | ~12,145 |
+| MARTYR | 3.00% | ~12,145 |
+| GRATITUDE | 2.00% | ~8,097 |
+| PATTY-KILLER | 2.00% | ~8,097 |
 | EXPERIMENTALIST | 1.00% | ~4,048 |
 | GOURMET | 1.00% | ~4,048 |
 | LAW-ABIDING CITIZEN | 1.00% | ~4,048 |
@@ -34,8 +34,8 @@ Rating: 4.51 (Ranked 596)
 | MISTER ALL THUMBS | 0.10% | ~405 |
 | TRAVELER | 0.10% | ~405 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,815 (Ranked 50)  
-Completed: 62 (0.02%) (Ranked 369)  
+Progressed: 404,836 (Ranked 50)  
+Completed: 62 (0.02%) (Ranked 370)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -236,7 +236,7 @@ Completed: 62 (0.02%) (Ranked 369)
 | 2024-01-17 | 403,679 | 61 |
 | 2024-01-18 | 404,065 | 62 |
 | 2024-01-19 | 404,477 | 62 |
-| 2024-01-20 | 404,815 | 62 |
+| 2024-01-20 | 404,836 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

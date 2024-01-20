@@ -3,8 +3,8 @@
   "Name": "Quake II",
   "ProductSlug": "quake-ii",
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 163,
-  "Ranking_EOS_NewPlayers": 265,
+  "Ranking_EOS_Completed": 164,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 101,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 982,
+  "EOS_Progressed": 983,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
@@ -3475,6 +3475,11 @@
       "Time": "2024-01-20T17:04:04.1997784+00:00",
       "NumProgressed": 982,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-20T18:03:43.8293989+00:00",
+      "NumProgressed": 983,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3495,7 +3500,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "ACH_eou2",
@@ -3503,7 +3508,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "ACH_eou3",
@@ -3590,14 +3595,14 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 982,
+      "Progressed": 983,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-08-11T07:56:59.6077324+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:04:04.1997779+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:03:43.8293984+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:58:13.3501877+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:04:04.1998041+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:57:48.9934754+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:03:43.8294241+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 451,
+  "Ranking_Rating": 452,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 159,
-  "Ranking_EOS_Completed": 369,
+  "Ranking_EOS_Completed": 370,
   "Ranking_EOS_NewPlayers": 249,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19359,
+  "EOS_Progressed": 19360,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14835,6 +14835,11 @@
       "Time": "2024-01-20T15:06:13.8470718+00:00",
       "NumProgressed": 19359,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-20T18:07:35.616846+00:00",
+      "NumProgressed": 19360,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14934,7 +14939,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "0013",
@@ -14950,7 +14955,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "0015",
@@ -15054,7 +15059,7 @@
       "Name": "My Motto, My Creed",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "0028",
@@ -15086,7 +15091,7 @@
       "Name": "Private Collection",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "0032",
@@ -15094,7 +15099,7 @@
       "Name": "Killer Looks",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "0033",
@@ -15102,7 +15107,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2129
+      "UsersEstimate": 2130
     },
     {
       "ID": "0034",
@@ -15133,7 +15138,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19359,
+      "Progressed": 19360,
       "Completed": 4
     }
   ],
@@ -15141,8 +15146,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:06:25.8887176+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:07:35.6168456+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:43.1243695+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:59:18.7067422+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:06:25.8888067+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:58:56.4069717+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:07:35.6169186+00:00"
 }

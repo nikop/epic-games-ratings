@@ -4,31 +4,31 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome! | 96.00% | ~861 |
-| A tiny town | 86.00% | ~771 |
-| Buildings, roads, cars, ...and people | 66.00% | ~592 |
-| Great view from the beach and from the hill | 57.00% | ~511 |
-| Bridges to come and go | 50.00% | ~448 |
+| Welcome! | 96.00% | ~862 |
+| A tiny town | 86.00% | ~772 |
+| Buildings, roads, cars, ...and people | 66.00% | ~593 |
+| Great view from the beach and from the hill | 57.00% | ~512 |
+| Bridges to come and go | 50.00% | ~449 |
 | Found an oasis | 44.00% | ~395 |
 | Burger or pizza? | 37.00% | ~332 |
 | Passion for sports | 33.00% | ~296 |
 | Who loves trains? | 30.00% | ~269 |
 | Easy and steady climb | 28.00% | ~251 |
 | At the heart of the city | 26.00% | ~233 |
-| Calm neighborhood | 24.00% | ~215 |
-| Elevated ring | 23.00% | ~206 |
-| Not lonely anymore | 21.00% | ~188 |
-| Monumental tribute | 21.00% | ~188 |
-| The beach is right there | 20.00% | ~179 |
-| Commuting | 19.00% | ~170 |
-| Le jardin magnifique | 18.00% | ~161 |
-| Aiming for a living and human city | 18.00% | ~161 |
-| City of dreams | 17.00% | ~152 |
-| Happy Christmas night! | 17.00% | ~152 |
-| Night walk along the beach | 17.00% | ~152 |
+| Calm neighborhood | 24.00% | ~216 |
+| Elevated ring | 23.00% | ~207 |
+| Not lonely anymore | 21.00% | ~189 |
+| Monumental tribute | 21.00% | ~189 |
+| The beach is right there | 19.00% | ~171 |
+| Commuting | 19.00% | ~171 |
+| Le jardin magnifique | 18.00% | ~162 |
+| Aiming for a living and human city | 17.00% | ~153 |
+| City of dreams | 17.00% | ~153 |
+| Happy Christmas night! | 17.00% | ~153 |
+| Night walk along the beach | 17.00% | ~153 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 897 (Ranked 312)  
-Completed: 150 (16.72%) (Ranked 26)  
+Progressed: 898 (Ranked 312)  
+Completed: 150 (16.70%) (Ranked 26)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -227,7 +227,7 @@ Completed: 150 (16.72%) (Ranked 26)
 | 2024-01-17 | 877 | 147 |
 | 2024-01-18 | 884 | 148 |
 | 2024-01-19 | 893 | 149 |
-| 2024-01-20 | 897 | 150 |
+| 2024-01-20 | 898 | 150 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

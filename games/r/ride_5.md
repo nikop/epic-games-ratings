@@ -1,7 +1,7 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.59 (Ranked 451)  
+Rating: 4.59 (Ranked 452)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 451)
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,658 (Ranked 226)  
-Completed: 0 (0.00%) (Ranked 406)  
+Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -29,9 +29,9 @@ Rating: 4.29 (Ranked 887)
 | The Mad | 1.00% | ~13 |
 | Like the dream | 1.00% | ~13 |
 | Metropolis | 0.80% | ~11 |
+| Red Tape | 0.70% | ~9 |
 | Charismatic Leader | 0.70% | ~9 |
 | Knowledge is Power | 0.70% | ~9 |
-| Red Tape | 0.60% | ~8 |
 | Six Faces | 0.50% | ~7 |
 | The Great Winter | 0.50% | ~7 |
 | Ice and Fire | 0.30% | ~4 |
@@ -52,7 +52,7 @@ Rating: 4.29 (Ranked 887)
 | King of the Dice | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,347 (Ranked 282)  
-Completed: 0 (0.00%) (Ranked 406)  
+Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

@@ -37,7 +37,7 @@ Number of Ratings: 209  (23.09.2022)
 | Got Battery | 81.00% | ~1,994 |
 | Guard Distracted | 80.00% | ~1,970 |
 | Translocator | 80.00% | ~1,970 |
-| Inner Peace | 77.00% | ~1,896 |
+| Inner Peace | 78.00% | ~1,920 |
 | Diamond Pickaxe | 76.00% | ~1,871 |
 | Killed them all | 76.00% | ~1,871 |
 | Trickle Down Economy | 76.00% | ~1,871 |

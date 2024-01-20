@@ -27,8 +27,8 @@
 | Behenian Champion | 15.00% | ~59 |
 | Heavy Purger | 12.00% | ~47 |
 | Wave Bender | 11.00% | ~43 |
+| Aquarian Champion | 10.00% | ~39 |
 | Astral Seeker | 9.00% | ~35 |
-| Aquarian Champion | 9.00% | ~35 |
 | Heart Gate | 8.00% | ~31 |
 | Stellar Haste | 8.00% | ~31 |
 | The Goddes Avatar | 8.00% | ~31 |
@@ -104,7 +104,7 @@
 | Skeptical | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 391 (Ranked 378)  
-Completed: 0 (0.00%) (Ranked 406)  
+Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

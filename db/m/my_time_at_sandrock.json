@@ -6,9 +6,9 @@
   "Ranking_Popularity": 204,
   "Ranking_PopularitySum": 248,
   "Ranking_EOS_Progress": 311,
-  "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 407,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2366,7 +2366,7 @@
   ],
   "EOS_Progressed": 908,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11081,9 +11081,9 @@
       "ID": "M_ASSEMBLER_DIAGRAM",
       "SetID": "80dcan0",
       "Name": "Adept Assembler",
-      "Percentage": 217,
+      "Percentage": 218,
       "XP": 10,
-      "UsersEstimate": 1970
+      "UsersEstimate": 1979
     },
     {
       "ID": "M_BACKPACK",
@@ -11105,9 +11105,9 @@
       "ID": "M_DISH",
       "SetID": "80dcan0",
       "Name": "Iron Chef",
-      "Percentage": 151,
+      "Percentage": 152,
       "XP": 10,
-      "UsersEstimate": 1371
+      "UsersEstimate": 1380
     },
     {
       "ID": "M_EXPAND",
@@ -11265,9 +11265,9 @@
       "ID": "P_TUNNEL",
       "SetID": "80dcan0",
       "Name": "No Mountain Wide Enough",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 772
     },
     {
       "ID": "P_WATERPIPELINE",
@@ -11369,9 +11369,9 @@
       "ID": "S_LOVE",
       "SetID": "80dcan0",
       "Name": "First Love",
-      "Percentage": 85,
+      "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 772
+      "UsersEstimate": 781
     },
     {
       "ID": "S_MARRY",
@@ -11497,8 +11497,8 @@
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
   "LastChanged": "2024-01-20T06:57:07.2448955+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:09:20.7385932+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:09:19.6802105+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:30.134628+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:57:41.5319915+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:09:20.7387114+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:57:14.3366459+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:09:19.6802958+00:00"
 }

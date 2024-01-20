@@ -3,9 +3,9 @@
   "Name": "Punch Club 2: Fast Forward",
   "ProductSlug": "punch-club-2-fast-forward-46d985",
   "Ranking_EOS_Progress": 347,
-  "Ranking_EOS_Completed": 152,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 153,
+  "Ranking_EOS_NewPlayers": 311,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-07-20T17:00:00+00:00",
     "PcReleaseDate": "2023-07-20T17:00:00+00:00",
@@ -2755,9 +2755,9 @@
       "ID": "met_k",
       "SetID": "69co12a",
       "Name": "Depressed visitor",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 435
     },
     {
       "ID": "mick_house",
@@ -2915,9 +2915,9 @@
       "ID": "soft_install",
       "SetID": "69co12a",
       "Name": "Hello, world!",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 364
+      "UsersEstimate": 370
     },
     {
       "ID": "trainer_promotion_1",
@@ -2963,9 +2963,9 @@
       "ID": "work_promotion_1",
       "SetID": "69co12a",
       "Name": "Employee of the week",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 405
+      "UsersEstimate": 411
     },
     {
       "ID": "work_promotion_2",
@@ -2994,8 +2994,8 @@
   ],
   "FirstSeen": "2023-07-21T16:58:09.7860366+00:00",
   "FirstSeenAchievements": "2023-07-12T13:22:23.1195398+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:10:16.432669+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:10:15.6246988+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:03.3260875+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:59:12.3551607+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:10:16.4327345+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:58:50.8460497+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:10:15.6247469+00:00"
 }

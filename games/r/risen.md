@@ -1,7 +1,7 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.58 (Ranked 475)  
+Rating: 4.58 (Ranked 474)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -57,7 +57,7 @@ Rating: 4.58 (Ranked 475)
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 210 (Ranked 433)  
-Completed: 0 (0.00%) (Ranked 406)  
+Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

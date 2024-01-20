@@ -3,9 +3,9 @@
   "Name": "Thief",
   "ProductSlug": "thief-5bb95f",
   "Ranking_EOS_Progress": 441,
-  "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 297,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 407,
+  "Ranking_EOS_NewPlayers": 293,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 187,
+  "EOS_Progressed": 188,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -839,6 +839,11 @@
       "Time": "2024-01-20T15:05:42.9739462+00:00",
       "NumProgressed": 187,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T18:05:36.2203255+00:00",
+      "NumProgressed": 188,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.6694863+00:00",
@@ -987,7 +992,7 @@
       "Name": "All That Glitters",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -1011,7 +1016,7 @@
       "Name": "The Drop",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -1019,7 +1024,7 @@
       "Name": "Lockdown",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -1027,7 +1032,7 @@
       "Name": "Dust to Dust",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -1099,7 +1104,7 @@
       "Name": "One Step Ahead",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_0",
@@ -1107,7 +1112,7 @@
       "Name": "The Forsaken",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -1115,7 +1120,7 @@
       "Name": "A Man Apart",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -1123,7 +1128,7 @@
       "Name": "The Hidden City",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -1146,14 +1151,14 @@
     {
       "ID": "ae95dh3",
       "IsBase": true,
-      "Progressed": 187,
+      "Progressed": 188,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:05:56.432338+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:05:36.2203249+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:58:52.1623035+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:05:56.4323677+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:58:30.7931234+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:05:36.2203611+00:00"
 }

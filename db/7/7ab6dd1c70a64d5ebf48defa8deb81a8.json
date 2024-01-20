@@ -5,8 +5,8 @@
   "Ranking_Rating": 979,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
-  "Ranking_EOS_Progress": 247,
-  "Ranking_EOS_Completed": 283,
+  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 79,
   "Store": {
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2404,
+  "EOS_Progressed": 2405,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 104,
+  "EOS_NewPlayers": 102,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4881,6 +4881,11 @@
       "Time": "2024-01-20T17:10:16.6850124+00:00",
       "NumProgressed": 2404,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-20T18:10:15.8244921+00:00",
+      "NumProgressed": 2405,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4916,7 +4921,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_05",
@@ -4954,9 +4959,9 @@
       "ID": "ACH_09",
       "SetID": "efe2lj",
       "Name": "The Mentor",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 288
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_10",
@@ -4964,7 +4969,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_11",
@@ -5179,7 +5184,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2404,
+      "Progressed": 2405,
       "Completed": 5
     }
   ],
@@ -5187,8 +5192,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:10:16.6850123+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:10:15.8244918+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:58:42.6858183+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:10:16.6850449+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:58:19.6958817+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:10:15.824527+00:00"
 }

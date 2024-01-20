@@ -6,7 +6,7 @@
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 109,
-  "Ranking_EOS_Completed": 169,
+  "Ranking_EOS_Completed": 170,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84013,
+  "EOS_Progressed": 84016,
   "EOS_Completed": 946,
-  "EOS_NewPlayers": 580,
+  "EOS_NewPlayers": 575,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30877,6 +30877,11 @@
       "Time": "2024-01-20T17:05:19.5333501+00:00",
       "NumProgressed": 84013,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-20T18:04:58.9510397+00:00",
+      "NumProgressed": 84016,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30904,7 +30909,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "Audiophile",
@@ -30920,7 +30925,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18483
+      "UsersEstimate": 18484
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -30928,7 +30933,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15122
+      "UsersEstimate": 15123
     },
     {
       "ID": "Butcher",
@@ -31008,7 +31013,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15962
+      "UsersEstimate": 15963
     },
     {
       "ID": "Nice Try",
@@ -31016,7 +31021,7 @@
       "Name": "Nice Try",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14282
+      "UsersEstimate": 14283
     },
     {
       "ID": "Nothing Left to Say",
@@ -31032,7 +31037,7 @@
       "Name": "Piano Man",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 9241
+      "UsersEstimate": 9242
     },
     {
       "ID": "Right On Target",
@@ -31087,7 +31092,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84013,
+      "Progressed": 84016,
       "Completed": 946
     }
   ],
@@ -31095,8 +31100,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:05:19.5333498+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:04:58.9510394+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:23.0986754+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:03:11.8558851+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:05:19.5334715+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:02:49.6628251+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:04:58.9511581+00:00"
 }

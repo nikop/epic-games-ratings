@@ -16,7 +16,7 @@
 | Fly the friendly Sky | 41.00% | ~64 |
 | Get out of here! | 39.00% | ~60 |
 | Necromancer's Apprentice | 38.00% | ~59 |
-| Alchemist's Apprentice | 35.00% | ~54 |
+| Alchemist's Apprentice | 36.00% | ~56 |
 | Friend of Lyraine | 32.00% | ~50 |
 | Redecorating | 29.00% | ~45 |
 | The Circle | 29.00% | ~45 |
@@ -76,7 +76,7 @@
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 155 (Ranked 464)  
-Completed: 0 (0.00%) (Ranked 406)  
+Completed: 0 (0.00%) (Ranked 407)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

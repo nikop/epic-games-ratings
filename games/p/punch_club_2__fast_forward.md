@@ -9,17 +9,17 @@
 | Good Person Chip | 82.00% | ~489 |
 | First winning | 80.00% | ~477 |
 | Your first job | 78.00% | ~465 |
-| Depressed visitor | 72.00% | ~429 |
+| Depressed visitor | 73.00% | ~435 |
 | Neurotrainer – power gainer! | 71.00% | ~423 |
 | Old movies enjoyer | 70.00% | ~417 |
 | Fitness professional | 69.00% | ~411 |
-| Employee of the week | 68.00% | ~405 |
+| Employee of the week | 69.00% | ~411 |
 | Your own amateur gym | 65.00% | ~387 |
 | First defeat | 63.00% | ~375 |
 | Run K, run! | 63.00% | ~375 |
+| Hello, world! | 62.00% | ~370 |
 | Fighting is cool | 61.00% | ~364 |
 | No bullying more | 61.00% | ~364 |
-| Hello, world! | 61.00% | ~364 |
 | Pal of your father? | 59.00% | ~352 |
 | Spirit of the past | 57.00% | ~340 |
 | Employee of the month | 57.00% | ~340 |
@@ -72,7 +72,7 @@
 | Silver’s past | 24.00% | ~143 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 596 (Ranked 347)  
-Completed: 9 (1.51%) (Ranked 152)  
+Completed: 9 (1.51%) (Ranked 153)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

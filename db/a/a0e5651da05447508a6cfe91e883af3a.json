@@ -3,9 +3,9 @@
   "Name": "Dark Table CCG",
   "ProductSlug": "dark-table-ccg-abe8b6",
   "Ranking_EOS_Progress": 301,
-  "Ranking_EOS_Completed": 406,
+  "Ranking_EOS_Completed": 407,
   "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-18T02:00:00+00:00",
     "PcReleaseDate": "2023-11-18T02:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 998,
+  "EOS_Progressed": 1000,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 0,
@@ -3164,6 +3164,11 @@
       "Time": "2024-01-20T17:10:05.9447167+00:00",
       "NumProgressed": 998,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T18:10:05.2359913+00:00",
+      "NumProgressed": 1000,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -3280,7 +3285,7 @@
       "Name": "First Login",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 998
+      "UsersEstimate": 1000
     },
     {
       "ID": "Losses_100",
@@ -3374,9 +3379,9 @@
       "ID": "Wins_Void_17",
       "SetID": "2bonhb9",
       "Name": "Void Origin Player",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "Wins_Water_17",
@@ -3391,14 +3396,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 998,
+      "Progressed": 1000,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:10:05.9447164+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:10:05.235991+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.8880219+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:00:18.7170214+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:10:05.9447461+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:59:57.8871052+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:10:05.2360202+00:00"
 }

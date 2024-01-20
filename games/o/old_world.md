@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 323)  
+Rating: 4.65 (Ranked 322)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -9,11 +9,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 6.00% | ~1,022 |
 | Explorer | 5.00% | ~851 |
 | Settler | 5.00% | ~851 |
+| Able | 4.00% | ~681 |
 | Architect | 4.00% | ~681 |
 | Intrepid | 4.00% | ~681 |
 | Friendly Family | 4.00% | ~681 |
 | Hanging Gardens | 4.00% | ~681 |
-| Able | 3.00% | ~511 |
 | Ambitious | 3.00% | ~511 |
 | Enlightened | 3.00% | ~511 |
 | Glorious | 3.00% | ~511 |
@@ -36,33 +36,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~511 |
 | Naming Landmarks | 3.00% | ~511 |
 | Trade Caravan | 3.00% | ~511 |
-| Regicide | 2.00% | ~340 |
-| Drillmaster | 2.00% | ~340 |
-| Brilliant | 2.00% | ~340 |
-| Fountainhead | 2.00% | ~340 |
-| Great | 2.00% | ~340 |
-| Magnificent | 2.00% | ~340 |
-| Wise | 2.00% | ~340 |
-| Legendary Cities | 2.00% | ~340 |
-| Able Difficulty | 2.00% | ~340 |
-| Furious Family | 2.00% | ~340 |
-| Acropolis | 2.00% | ~340 |
-| Apadana | 2.00% | ~340 |
-| Colossus | 2.00% | ~340 |
-| Great Ziggurat | 2.00% | ~340 |
-| Ishtar Gate | 2.00% | ~340 |
-| Lighthouse | 2.00% | ~340 |
-| Mausoleum | 2.00% | ~340 |
-| Musaeum | 2.00% | ~340 |
-| Necropolis | 2.00% | ~340 |
-| Learn to Play 2 | 2.00% | ~340 |
-| Christianity | 2.00% | ~340 |
-| Manichaeism | 2.00% | ~340 |
-| Carthaginian Paganism | 2.00% | ~340 |
-| Egyptian Paganism | 2.00% | ~340 |
-| Roman Paganism | 2.00% | ~340 |
-| Zoroastrianism | 2.00% | ~340 |
-| Mythology | 2.00% | ~340 |
+| Regicide | 2.00% | ~341 |
+| Drillmaster | 2.00% | ~341 |
+| Brilliant | 2.00% | ~341 |
+| Fountainhead | 2.00% | ~341 |
+| Great | 2.00% | ~341 |
+| Magnificent | 2.00% | ~341 |
+| Wise | 2.00% | ~341 |
+| Legendary Cities | 2.00% | ~341 |
+| Able Difficulty | 2.00% | ~341 |
+| Furious Family | 2.00% | ~341 |
+| Acropolis | 2.00% | ~341 |
+| Apadana | 2.00% | ~341 |
+| Colossus | 2.00% | ~341 |
+| Great Ziggurat | 2.00% | ~341 |
+| Ishtar Gate | 2.00% | ~341 |
+| Lighthouse | 2.00% | ~341 |
+| Mausoleum | 2.00% | ~341 |
+| Musaeum | 2.00% | ~341 |
+| Necropolis | 2.00% | ~341 |
+| Learn to Play 2 | 2.00% | ~341 |
+| Christianity | 2.00% | ~341 |
+| Manichaeism | 2.00% | ~341 |
+| Carthaginian Paganism | 2.00% | ~341 |
+| Egyptian Paganism | 2.00% | ~341 |
+| Roman Paganism | 2.00% | ~341 |
+| Zoroastrianism | 2.00% | ~341 |
+| Mythology | 2.00% | ~341 |
 | Hanging Gardens in Babylon | 1.00% | ~170 |
 | Beloved | 1.00% | ~170 |
 | Intercessor | 1.00% | ~170 |
@@ -159,6 +159,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persia | 0.30% | ~51 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~51 |
 | Play a Network Game | 0.30% | ~51 |
+| Capturing Cities | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Three Man Chariot | 0.30% | ~51 |
 | Beja Archer | 0.30% | ~51 |
@@ -183,7 +184,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hatti | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
 | Circus Maximus in Roma | 0.20% | ~34 |
-| Capturing Cities | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
 | The Great Mage | 0.20% | ~34 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,025 (Ranked 170)  
-Completed: 5 (0.03%) (Ranked 361)  
+Progressed: 17,028 (Ranked 170)  
+Completed: 5 (0.03%) (Ranked 362)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -640,7 +640,7 @@ Completed: 5 (0.03%) (Ranked 361)
 | 2024-01-17 | 16,952 | 5 |
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
-| 2024-01-20 | 17,025 | 5 |
+| 2024-01-20 | 17,028 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,944 (Ranked 224)  

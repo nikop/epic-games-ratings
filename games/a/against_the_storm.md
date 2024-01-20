@@ -14,10 +14,10 @@ Number of Ratings: 1,845  (23.09.2022)
 | Petrified Necropolis | 9.00% | ~1,883 |
 | Overcoming Difficulty | 8.00% | ~1,674 |
 | The Marshlands | 8.00% | ~1,674 |
-| Coral Forest | 7.00% | ~1,464 |
-| The Scarlet Orchard | 7.00% | ~1,464 |
-| Ominous Presence | 7.00% | ~1,464 |
-| Gathering Storm | 7.00% | ~1,464 |
+| Coral Forest | 7.00% | ~1,465 |
+| The Scarlet Orchard | 7.00% | ~1,465 |
+| Ominous Presence | 7.00% | ~1,465 |
+| Gathering Storm | 7.00% | ~1,465 |
 | Frosts | 6.00% | ~1,255 |
 | Land of Greed | 6.00% | ~1,255 |
 | Fertile Meadows | 5.00% | ~1,046 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,920 (Ranked 157)  
-Completed: 35 (0.17%) (Ranked 292)  
+Progressed: 20,922 (Ranked 157)  
+Completed: 35 (0.17%) (Ranked 293)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -341,17 +341,17 @@ Completed: 35 (0.17%) (Ranked 292)
 | 2024-01-17 | 20,854 | 35 |
 | 2024-01-18 | 20,874 | 35 |
 | 2024-01-19 | 20,898 | 35 |
-| 2024-01-20 | 20,920 | 35 |
+| 2024-01-20 | 20,922 | 35 |
 ## Awards
 Max (Quickly Understood Controls): 455  (Ranked 234)  
-Sum: 3,399 (Ranked 180)  
+Sum: 3,400 (Ranked 180)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 455 |
 | This game is Relaxing | 452 |
 | This game is Great for Beginners | 450 |
-| This game is Extremely Fun | 423 |
+| This game is Extremely Fun | 424 |
 | This game is Highly Recommended | 410 |
 | This game has Unique Visuals | 351 |
 | This game has Amazing Storytelling | 337 |
@@ -650,4 +650,4 @@ Diff (max vs sum): 54
 | 2024-01-16 | 4.82 | - | 453 | 3,387 |
 | 2024-01-17 | 4.82 | - | 454 | 3,393 |
 | 2024-01-19 | 4.82 | - | 454 | 3,398 |
-| 2024-01-20 | 4.82 | - | 455 | 3,399 |
+| 2024-01-20 | 4.82 | - | 455 | 3,400 |

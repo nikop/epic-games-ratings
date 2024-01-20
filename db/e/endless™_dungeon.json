@@ -3,9 +3,9 @@
   "Name": "ENDLESS\u2122 Dungeon",
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 269,
-  "Ranking_EOS_Completed": 406,
-  "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 407,
+  "Ranking_EOS_NewPlayers": 232,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1585,
+  "EOS_Progressed": 1586,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 47,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3635,6 +3635,11 @@
       "Time": "2024-01-20T17:08:27.6802345+00:00",
       "NumProgressed": 1585,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-20T18:08:26.2248705+00:00",
+      "NumProgressed": 1586,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3701,9 +3706,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 460
+      "UsersEstimate": 444
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3759,7 +3764,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 380
+      "UsersEstimate": 381
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -3823,7 +3828,7 @@
       "Name": "Long Live Rock",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -3886,14 +3891,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1585,
+      "Progressed": 1586,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-20T17:08:27.6802339+00:00",
+  "LastChanged_Achievements": "2024-01-20T18:08:26.2248425+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.5515902+00:00",
-  "LastUpdate_Ratings": "2024-01-20T17:00:33.2447377+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:08:27.6802794+00:00"
+  "LastUpdate_Ratings": "2024-01-20T18:02:30.9278803+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:08:26.2248995+00:00"
 }

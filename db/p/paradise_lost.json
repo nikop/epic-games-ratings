@@ -3,9 +3,9 @@
   "Name": "Paradise Lost",
   "ProductSlug": "paradise-lost",
   "Ranking_EOS_Progress": 844,
-  "Ranking_EOS_Completed": 406,
+  "Ranking_EOS_Completed": 407,
   "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-29T11:00:00+00:00",
     "PcReleaseDate": "2021-03-24T14:35:00+00:00",
@@ -41,6 +41,6 @@
   "FirstSeenRating": "2023-03-31T05:56:57.4183392+00:00",
   "LastChanged": "2023-03-31T05:56:57.4183393+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:13.3393354+00:00",
-  "LastUpdate_Ratings": "2024-01-20T16:59:48.7421787+00:00",
-  "LastUpdate_Achievements": "2024-01-20T17:09:50.9538935+00:00"
+  "LastUpdate_Ratings": "2024-01-20T17:59:26.8104729+00:00",
+  "LastUpdate_Achievements": "2024-01-20T18:09:50.0721664+00:00"
 }

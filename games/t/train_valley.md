@@ -32,7 +32,7 @@ Number of Ratings: 28  (23.09.2022)
 | Tycoon | 9.00% | ~60 |
 | Woodcutter | 9.00% | ~60 |
 | Engineer | 9.00% | ~60 |
-| Germany | 6.00% | ~40 |
+| Germany | 7.00% | ~47 |
 | Supercrash! | 5.00% | ~33 |
 | Chuck Norris | 5.00% | ~33 |
 | Сhancellor | 4.00% | ~27 |
@@ -47,7 +47,7 @@ Number of Ratings: 28  (23.09.2022)
 | Vandal | 0.30% | ~2 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 669 (Ranked 340)  
-Completed: 2 (0.30%) (Ranked 263)  
+Completed: 2 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
