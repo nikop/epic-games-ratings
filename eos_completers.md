@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.70% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.67% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.66% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -102,12 +102,12 @@
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.60% |
 | 101 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 101 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
-| 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.49% |
+| 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.48% |
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 104 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.45% |
 | 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.21% |
-| 108 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.20% |
+| 108 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.19% |
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
 | 111 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
@@ -124,7 +124,7 @@
 | 122 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.57% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.56% |
-| 124 | [The Complex](games/t/the_complex.md) | 2.56% |
+| 125 | [The Complex](games/t/the_complex.md) | 2.55% |
 | 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 128 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
@@ -188,7 +188,7 @@
 | 186 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
 | 187 | [Trifox](games/t/trifox.md) | 0.94% |
 | 188 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
-| 188 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
+| 189 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
 | 190 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.91% |
 | 190 | [Hades](games/h/hades.md) | 0.91% |
 | 192 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
@@ -209,8 +209,8 @@
 | 207 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 208 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.67% |
 | 209 | [Horizon Chase 2](games/e/e24498202a7b4c80af7e3c18e63a0b34.md) | 0.66% |
+| 210 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.65% |
 | 210 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.65% |
-| 211 | [Grand Theft Auto: Vice City – The Definitive Edition](games/g/grand_theft_auto__vice_city_–_the_definitive_edition.md) | 0.64% |
 | 212 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.63% |
 | 213 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.62% |
 | 214 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.61% |
@@ -220,7 +220,7 @@
 | 217 | [Grindstone](games/g/grindstone.md) | 0.59% |
 | 217 | [Scrapnaut](games/s/scrapnaut.md) | 0.59% |
 | 217 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
-| 221 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.58% |
+| 221 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.57% |
 | 222 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.56% |
 | 222 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
 | 224 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
