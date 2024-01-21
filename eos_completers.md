@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.70% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 27 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.67% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.66% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.65% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -42,7 +42,7 @@
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
 | 42 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.97% |
-| 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.78% |
+| 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.76% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.30% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
@@ -51,11 +51,11 @@
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.75% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
-| 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.43% |
+| 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
 | 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.19% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.17% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
@@ -75,9 +75,9 @@
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.71% |
 | 74 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 76 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 5.00% |
-| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.97% |
-| 78 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.97% |
+| 77 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
+| 78 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.84% |
 | 79 | [ZZT!](games/z/zzt!.md) | 4.77% |
 | 80 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
 | 81 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
@@ -110,11 +110,11 @@
 | 108 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.19% |
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
-| 111 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
-| 111 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.03% |
-| 113 | [HordeCore](games/h/hordecore.md) | 3.02% |
-| 114 | [MultiVersus](games/m/multiversus.md) | 2.93% |
-| 114 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 2.93% |
+| 111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
+| 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
+| 112 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.03% |
+| 114 | [HordeCore](games/h/hordecore.md) | 3.02% |
+| 115 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.88% |
 | 117 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
 | 118 | [Lamentum](games/l/lamentum.md) | 2.86% |
@@ -213,9 +213,9 @@
 | 211 | [The House of Da Vinci 2](games/4/4a0076f825604014b0540bb5d957d3bb.md) | 0.65% |
 | 212 | [Song of Nunu: A League of Legends Story](games/s/song_of_nunu__a_league_of_legends_story™.md) | 0.63% |
 | 213 | [Super Alloy Ranger](games/s/super_alloy_ranger.md) | 0.62% |
-| 214 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.61% |
 | 214 | [Kingdom Rush Vengeance](games/c/c0d2e8a180624787be1c4c6386493796.md) | 0.61% |
 | 214 | [Oxide Room 104](games/o/oxide_room_104.md) | 0.61% |
+| 216 | [Clash - Artifacts of Chaos](games/c/clash_-_artifacts_of_chaos.md) | 0.60% |
 | 217 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 0.59% |
 | 217 | [Grindstone](games/g/grindstone.md) | 0.59% |
 | 217 | [Scrapnaut](games/s/scrapnaut.md) | 0.59% |
@@ -826,6 +826,7 @@
 | 408 | [Warhammer 40,000: Chaos Gate - Daemonhunters](games/w/warhammer_40,000__chaos_gate_-_daemonhunters.md) | 0.00% |
 | 408 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 0.00% |
 | 408 | [Watch Over Christmas](games/2/263f654a1236484397892332888256aa.md) | 0.00% |
+| 408 | [Wavecade](games/8/8e8e69a4f240487d89727df7761c5362.md) | 0.00% |
 | 408 | [Way of the Hunter](games/w/way_of_the_hunter.md) | 0.00% |
 | 408 | [We Are OFK](games/w/we_are_ofk.md) | 0.00% |
 | 408 | [What The Duck](games/0/087e76c9e4ba4fc8bacc75b794cc27b2.md) | 0.00% |
