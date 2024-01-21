@@ -284,6 +284,7 @@
 | [EBOLA 2](../games/e/ebola_2.md) | 18 | 1,000 |
 | [EBOLA 3](../games/e/ebola_3.md) | 50 | 1,000 |
 | [Echo Storm](../games/0/0b4313e25d17431b901edda54d678ab4.md) | 16 | 1,000 |
+| [Edward's Journey](../games/5/5714d34c31374f07ae1f8dce31168650.md) | 21 | 1,000 |
 | [Eigengrau](../games/d/d683ed3004f1479abdf2fc4bcfdc615d.md) | 62 | 1,000 |
 | [Eiyuden Chronicle: Rising](../games/e/eiyuden_chronicle__rising.md) | 50 | 1,000 |
 | [Electrician Simulator](../games/d/d400b874b09b4cd49d149358c67aa453.md) | 26 | 1,000 |

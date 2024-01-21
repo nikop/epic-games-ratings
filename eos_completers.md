@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.58% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.57% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -56,7 +56,7 @@
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.41% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
-| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.27% |
+| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.26% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
@@ -80,9 +80,9 @@
 | 78 | [ZZT!](games/z/zzt!.md) | 4.79% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
 | 80 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
-| 81 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.62% |
-| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.61% |
-| 83 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
+| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.61% |
+| 82 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
+| 82 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.55% |
 | 84 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.45% |
 | 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 86 | [JARS](games/j/jars.md) | 4.42% |
@@ -129,7 +129,7 @@
 | 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 128 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
 | 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
-| 130 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.41% |
+| 130 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
 | 131 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.38% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
 | 132 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.27% |
@@ -138,7 +138,7 @@
 | 136 | [tERRORbane](games/t/terrorbane.md) | 2.17% |
 | 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.04% |
 | 137 | [Strange House](games/s/strange_house.md) | 2.04% |
-| 139 | [Bloodshore](games/b/bloodshore.md) | 2.03% |
+| 139 | [Bloodshore](games/b/bloodshore.md) | 2.02% |
 | 140 | [Time on Frog Island](games/t/time_on_frog_island.md) | 1.96% |
 | 141 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.95% |
 | 142 | [Somerville](games/s/somerville.md) | 1.94% |
@@ -177,8 +177,8 @@
 | 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 175 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
 | 177 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.07% |
-| 178 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.05% |
 | 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
+| 179 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.04% |
 | 180 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 180 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.03% |
 | 182 | [Sable](games/s/sable.md) | 1.02% |
@@ -844,4 +844,4 @@
 | 409 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 409 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 409 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,865 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,866 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |

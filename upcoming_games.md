@@ -27,6 +27,7 @@
 | [Mahjong Valentine's Day](games/f/f6228e2659d24439b49d918618787b44.md) | 2024-02-07 | - |  | - | - |
 | [My Island](games/8/8b87d2245d254bfc83415d4001b42a92.md) | 2024-02-08 | - |  | - | - |
 | [The Inquisitor](games/f/f58503d7dbfe4aa5ab843e853b519901.md) | 2024-02-08 | - |  | - | - |
+| [Grieve](games/3/33d6300ac8394fd48337c934f52c71cc.md) | 2024-02-09 | - |  | - | - |
 | [Travel Cuisine 2: Sweet Life](games/d/d99b2443a1034447902438a935849b80.md) | 2024-02-10 | - |  | - | - |
 | [Banishers: Ghosts of New Eden](games/4/43d72bd8df464178bb223c5270303efe.md) | 2024-02-12 | - |  | - | - |
 | [Ultros](games/c/c6422f963ff84bcbb3b77539e77b6ef7.md) | 2024-02-13 | - |  | - | - |
@@ -300,7 +301,7 @@
 | [Dustborn](games/b/b42792c248724e988066e575f59c1df9.md) | 2099-01-01 | - |  | - | - |
 | [Dwarf Delve](games/c/cabbe55543164097b412696d626120af.md) | 2099-01-01 | - |  | - | - |
 | [Echoes of Plum Grove](games/e/echoes_of_plum_grove.md) | 2099-01-01 | - |  | - | - |
-| [Edward's Journey](games/5/5714d34c31374f07ae1f8dce31168650.md) | 2099-01-01 | - |  | - | - |
+| [Edward's Journey](games/5/5714d34c31374f07ae1f8dce31168650.md) | 2099-01-01 | 21 (1,000 XP) | 0 | - | - |
 | [Ekikoi: The Young Miss Falls for the Station Attendant - VAM](games/8/85436bad3f144d709d5c99b37867d060.md) | 2099-01-01 | - |  | - | - |
 | [ElectriX](games/e/electrix.md) | 2099-01-01 | - |  | - | - |
 | [Elite Comet](games/4/4843acbd9ca647e3ad3eecae110daa80.md) | 2099-01-01 | - |  | - | - |
