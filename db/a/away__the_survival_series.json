@@ -4,7 +4,7 @@
   "ProductSlug": "away-the-survival-series",
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 553,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-01-12T16:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:43.1114166+00:00",
   "LastChanged": "2023-03-31T05:58:43.1114167+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:00.4630601+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:58:52.0436727+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:05:56.9224336+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:58:10.1891771+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:04:41.0659909+00:00"
 }

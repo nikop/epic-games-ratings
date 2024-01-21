@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 320,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 231,
+  "EOS_Progressed": 232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -974,6 +974,11 @@
       "Time": "2024-01-21T02:06:19.81317+00:00",
       "NumProgressed": 231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T10:06:25.5810386+00:00",
+      "NumProgressed": 232,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -1002,7 +1007,7 @@
       "Name": "Mineral-Rich",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "c3",
@@ -1024,9 +1029,9 @@
       "ID": "dl2",
       "SetID": "b1ggf28",
       "Name": "Road Planning",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23
+      "UsersEstimate": 21
     },
     {
       "ID": "dl3",
@@ -1074,7 +1079,7 @@
       "Name": "Administrator",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "fw3",
@@ -1088,9 +1093,9 @@
       "ID": "g1",
       "SetID": "b1ggf28",
       "Name": "Skilled Workers",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 123
     },
     {
       "ID": "g2",
@@ -1162,7 +1167,7 @@
       "Name": "Treatment of plague",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "jk2",
@@ -1170,7 +1175,7 @@
       "Name": "Saving Lives",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "jk3",
@@ -1186,7 +1191,7 @@
       "Name": "Builder",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "jz2",
@@ -1194,7 +1199,7 @@
       "Name": "Architect",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "jz3",
@@ -1210,7 +1215,7 @@
       "Name": "Advanced Technology",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "k2",
@@ -1298,7 +1303,7 @@
       "Name": "Against the Cold",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 150
+      "UsersEstimate": 151
     },
     {
       "ID": "w2",
@@ -1393,14 +1398,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 231,
+      "Progressed": 232,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:08:22.2550846+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:06:25.5810384+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:03:51.3541822+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:08:22.2551195+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:03:11.5709755+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:06:25.5810756+00:00"
 }

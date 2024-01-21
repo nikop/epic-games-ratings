@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4541,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -9024,9 +9024,9 @@
       "ID": "achievement_13",
       "SetID": "b9pe172",
       "Name": "AI Hacking Specialist",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 91
     },
     {
       "ID": "achievement_14",
@@ -9796,8 +9796,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:11:35.526084+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:10:26.6614647+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:04:17.2856315+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:11:35.5262509+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:03:29.7240053+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:10:26.6616401+00:00"
 }

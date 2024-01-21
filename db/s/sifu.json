@@ -9153,9 +9153,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762138,
+  "EOS_Progressed": 762150,
   "EOS_Completed": 13001,
-  "EOS_NewPlayers": 1580,
+  "EOS_NewPlayers": 1575,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34713,6 +34713,11 @@
       "Time": "2024-01-21T09:10:49.2539719+00:00",
       "NumProgressed": 762138,
       "NumCompleted": 13001
+    },
+    {
+      "Time": "2024-01-21T10:09:52.0825304+00:00",
+      "NumProgressed": 762150,
+      "NumCompleted": 13001
     }
   ],
   "TotalAchievements": 60,
@@ -34724,7 +34729,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45728
+      "UsersEstimate": 45729
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34732,7 +34737,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38107
+      "UsersEstimate": 38108
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34812,7 +34817,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "13_LowAge",
@@ -34884,7 +34889,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -34900,7 +34905,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38107
+      "UsersEstimate": 38108
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -34988,7 +34993,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38107
+      "UsersEstimate": 38108
     },
     {
       "ID": "35_WideStrike",
@@ -34996,7 +35001,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -35060,7 +35065,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -35203,21 +35208,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71439,
-      "Completed": 10816
+      "Progressed": 71451,
+      "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762138,
+      "Progressed": 762150,
       "Completed": 13001
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-21T06:05:17.2420421+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:10:49.2539716+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:09:52.0825301+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:03:58.7403966+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:10:49.2541159+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:03:17.4498139+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:09:52.0826655+00:00"
 }

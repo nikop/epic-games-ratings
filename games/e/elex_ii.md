@@ -36,7 +36,7 @@ Number of Ratings: 124  (23.09.2022)
 | Weaponsmith | 7.00% | ~19 |
 | Cleric | 7.00% | ~19 |
 | Alchemist | 5.00% | ~14 |
-| Self-Sufficient | 4.00% | ~11 |
+| Self-Sufficient | 5.00% | ~14 |
 | Idealist | 4.00% | ~11 |
 | Unbreakable | 4.00% | ~11 |
 | Legendary | 4.00% | ~11 |

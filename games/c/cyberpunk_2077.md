@@ -8,19 +8,19 @@ Number of Ratings: 32,700  (23.09.2022)
 | ---- | ---------- | ----- |
 | Full Body Conversion | 0.60% | ~6,338 |
 | Right Back At Ya | 0.60% | ~6,338 |
-| Christmas Tree Attack | 0.50% | ~5,281 |
-| Life of the Road | 0.50% | ~5,281 |
-| The Hermit | 0.50% | ~5,281 |
-| The High Priestess | 0.50% | ~5,281 |
-| The Wheel of Fortune | 0.50% | ~5,281 |
-| True Soldier | 0.50% | ~5,281 |
-| Legend of The Afterlife | 0.50% | ~5,281 |
+| Christmas Tree Attack | 0.50% | ~5,282 |
+| Life of the Road | 0.50% | ~5,282 |
+| The Hermit | 0.50% | ~5,282 |
+| The High Priestess | 0.50% | ~5,282 |
+| The Lovers | 0.50% | ~5,282 |
+| The Wheel of Fortune | 0.50% | ~5,282 |
+| True Soldier | 0.50% | ~5,282 |
+| Legend of The Afterlife | 0.50% | ~5,282 |
 | Bushido and Chill | 0.40% | ~4,225 |
 | Gun Fu | 0.40% | ~4,225 |
 | Master Crafter | 0.40% | ~4,225 |
 | Stanislavski's Method | 0.40% | ~4,225 |
 | The Fool | 0.40% | ~4,225 |
-| The Lovers | 0.40% | ~4,225 |
 | The World | 0.40% | ~4,225 |
 | All the President's Men | 0.40% | ~740 |
 | Arachnophobia | 0.40% | ~740 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,275 (Ranked 17)  
-Completed: 3,139 (0.30%) (Ranked 265)  
+Progressed: 1,056,307 (Ranked 17)  
+Completed: 3,140 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -350,7 +350,7 @@ Completed: 3,139 (0.30%) (Ranked 265)
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
-| 2024-01-21 | 1,056,275 | 3,139 |
+| 2024-01-21 | 1,056,307 | 3,140 |
 ## Awards
 Max (Character Customization): 143,148  (Ranked 8)  
 Sum: 509,985 (Ranked 8)  

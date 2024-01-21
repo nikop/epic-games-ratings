@@ -6,7 +6,7 @@
   "Ranking_Popularity": 550,
   "Ranking_PopularitySum": 562,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 201,
+  "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 106,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
@@ -366,11 +366,11 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30199,
+  "EOS_Progressed": 30202,
   "EOS_Completed": 225,
-  "EOS_NewPlayers": 737,
+  "EOS_NewPlayers": 735,
   "EOS_NewCompleters": 15,
-  "EOS_Completed_Percentage": 0.75,
+  "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -11336,6 +11336,11 @@
       "Time": "2024-01-21T09:11:14.6202163+00:00",
       "NumProgressed": 30199,
       "NumCompleted": 225
+    },
+    {
+      "Time": "2024-01-21T10:10:10.3968532+00:00",
+      "NumProgressed": 30202,
+      "NumCompleted": 225
     }
   ],
   "TotalAchievements": 24,
@@ -11475,7 +11480,7 @@
       "Name": "Sector 1",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "ACH_Sector2",
@@ -11483,7 +11488,7 @@
       "Name": "Sector 2",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 9060
+      "UsersEstimate": 9061
     },
     {
       "ID": "ACH_Sector3",
@@ -11538,7 +11543,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30199,
+      "Progressed": 30202,
       "Completed": 225
     }
   ],
@@ -11546,8 +11551,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:11:14.620216+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:10:10.3968529+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:02:01.5797946+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:11:14.6202748+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:00:18.0908468+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:10:10.3968998+00:00"
 }

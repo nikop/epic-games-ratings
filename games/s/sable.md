@@ -6,14 +6,14 @@ Number of Ratings: 43  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~38,007 |
+| Simoon | 34.00% | ~38,008 |
 | Just The Two of Us | 32.00% | ~35,772 |
-| Up On High | 25.00% | ~27,946 |
-| Under The Hood | 25.00% | ~27,946 |
+| Up On High | 25.00% | ~27,947 |
+| Under The Hood | 25.00% | ~27,947 |
 | Got Your Nose | 24.00% | ~26,829 |
 | The Gift of Gab | 24.00% | ~26,829 |
 | Wrapping Up | 22.00% | ~24,593 |
-| More Than A Box Of Sand | 18.00% | ~20,121 |
+| More Than A Box Of Sand | 18.00% | ~20,122 |
 | The Dunboyne | 17.00% | ~19,004 |
 | Badge Hobbyist | 17.00% | ~19,004 |
 | Chum Novice | 16.00% | ~17,886 |
@@ -26,9 +26,9 @@ Number of Ratings: 43  (23.09.2022)
 | Take That! | 13.00% | ~14,532 |
 | Treasure Tracker | 13.00% | ~14,532 |
 | Big Spender | 13.00% | ~14,532 |
-| Badge Collector | 12.00% | ~13,414 |
-| Quite The Catch | 12.00% | ~13,414 |
-| Rowleys Way | 11.00% | ~12,296 |
+| Badge Collector | 12.00% | ~13,415 |
+| Quite The Catch | 12.00% | ~13,415 |
+| Rowleys Way | 11.00% | ~12,297 |
 | The Machinist Mask | 10.00% | ~11,179 |
 | The Cartographer Mask | 10.00% | ~11,179 |
 | Balfron Connection | 10.00% | ~11,179 |
@@ -56,14 +56,14 @@ Number of Ratings: 43  (23.09.2022)
 | Bikes Don't Fly | 6.00% | ~6,707 |
 | The Gliding | 5.00% | ~5,589 |
 | The Entertainer Mask | 5.00% | ~5,589 |
-| The Quick and the Curious | 4.00% | ~4,471 |
-| Bike Aficionado | 4.00% | ~4,471 |
+| The Quick and the Curious | 4.00% | ~4,472 |
+| Bike Aficionado | 4.00% | ~4,472 |
 | Chum Expert | 3.00% | ~3,354 |
 | Gastric Bypass | 3.00% | ~3,354 |
 | The Angler Mask | 3.00% | ~3,354 |
 | Vivacious Vivarium | 2.00% | ~2,236 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,786 (Ranked 98)  
+Progressed: 111,788 (Ranked 98)  
 Completed: 1,142 (1.02%) (Ranked 181)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -339,7 +339,7 @@ Completed: 1,142 (1.02%) (Ranked 181)
 | 2024-01-18 | 111,418 | 1,141 |
 | 2024-01-19 | 111,563 | 1,141 |
 | 2024-01-20 | 111,724 | 1,142 |
-| 2024-01-21 | 111,786 | 1,142 |
+| 2024-01-21 | 111,788 | 1,142 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 528)  
 Sum: 155 (Ranked 447)  

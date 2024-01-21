@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2339,9 +2339,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22612,
+  "EOS_Progressed": 22614,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 277,
+  "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14579,6 +14579,11 @@
       "Time": "2024-01-21T09:11:02.8337864+00:00",
       "NumProgressed": 22612,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-21T10:10:02.0648938+00:00",
+      "NumProgressed": 22614,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14606,7 +14611,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14622,7 +14627,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6331
+      "UsersEstimate": 6332
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14726,7 +14731,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2713
+      "UsersEstimate": 2714
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14734,7 +14739,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4071
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14750,15 +14755,15 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4296
+      "UsersEstimate": 4297
     },
     {
       "ID": "PRINT_UPGRADE",
       "SetID": "4hj6d86",
       "Name": "Reforged",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4522
+      "UsersEstimate": 4749
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14782,7 +14787,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6331
+      "UsersEstimate": 6332
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14790,7 +14795,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4070
+      "UsersEstimate": 4071
     },
     {
       "ID": "STORY_HABITAT",
@@ -14814,7 +14819,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14822,7 +14827,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5879
+      "UsersEstimate": 5880
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14838,7 +14843,7 @@
       "Name": "Full Circle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2487
+      "UsersEstimate": 2488
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14965,13 +14970,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22612,
+      "Progressed": 22614,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10538,
+      "Progressed": 10540,
       "Completed": 29
     }
   ],
@@ -14979,8 +14984,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:11:02.8337861+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:10:02.0648935+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:04:14.8987157+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:11:02.8338658+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:03:28.1439623+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:10:02.0650115+00:00"
 }

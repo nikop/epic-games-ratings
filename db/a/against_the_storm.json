@@ -4043,9 +4043,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20934,
+  "EOS_Progressed": 20936,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20213,6 +20213,11 @@
       "Time": "2024-01-21T09:09:20.0605393+00:00",
       "NumProgressed": 20934,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-21T10:08:48.7933678+00:00",
+      "NumProgressed": 20936,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20513,7 +20518,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "WinPrestige10",
@@ -20649,7 +20654,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2093
+      "UsersEstimate": 2094
     },
     {
       "ID": "WinNearPetrified",
@@ -20665,7 +20670,7 @@
       "Name": "Ominous Presence",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "WinNearStorms",
@@ -20673,7 +20678,7 @@
       "Name": "Gathering Storm",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1466
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20696,15 +20701,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20934,
+      "Progressed": 20936,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-21T04:03:34.3718503+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:09:20.060539+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:08:48.7933676+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:02:21.2175391+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:09:20.0606368+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:00:30.1118561+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:08:48.7935038+00:00"
 }

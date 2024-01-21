@@ -5,31 +5,31 @@ Rating: 4.38 (Ranked 799)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~708 |
+| Travel Streamer | 93.00% | ~709 |
 | Training Simulation | 78.00% | ~594 |
 | Kuku Bird Hunter | 65.00% | ~495 |
 | Storm Traveller | 60.00% | ~457 |
 | Wolf King Killer | 55.00% | ~419 |
-| Fashion Connoisseur | 53.00% | ~403 |
+| Fashion Connoisseur | 53.00% | ~404 |
 | Arms Mechanic | 49.00% | ~373 |
 | Flower Thief | 44.00% | ~335 |
-| Apostle of Flame | 40.00% | ~304 |
+| Apostle of Flame | 40.00% | ~305 |
 | Beginner Artificer | 39.00% | ~297 |
-| Beginner Cook | 38.00% | ~289 |
+| Beginner Cook | 38.00% | ~290 |
 | Seal Breaker | 32.00% | ~244 |
 | Handyman | 29.00% | ~221 |
-| Giant Lizard Killer | 27.00% | ~205 |
+| Giant Lizard Killer | 27.00% | ~206 |
 | Guardian | 26.00% | ~198 |
 | Nosebleeder | 26.00% | ~198 |
-| Trader | 22.00% | ~167 |
-| Weapon Boost | 22.00% | ~167 |
+| Trader | 22.00% | ~168 |
+| Weapon Boost | 22.00% | ~168 |
 | Flying Kobold Killer | 19.00% | ~145 |
 | Youth Magnet | 19.00% | ~145 |
-| Furious Scorpion Killer | 17.00% | ~129 |
-| Lethal Blade Mantis Killer | 17.00% | ~129 |
-| Squeaky Clean | 17.00% | ~129 |
-| Master Artificer | 17.00% | ~129 |
-| Kind Adventurer | 16.00% | ~122 |
+| Furious Scorpion Killer | 17.00% | ~130 |
+| Lethal Blade Mantis Killer | 17.00% | ~130 |
+| Squeaky Clean | 17.00% | ~130 |
+| Master Artificer | 17.00% | ~130 |
+| Kind Adventurer | 15.00% | ~114 |
 | Mermaid Killer | 15.00% | ~114 |
 | Cave Master | 15.00% | ~114 |
 | Face Slapper | 15.00% | ~114 |
@@ -37,7 +37,7 @@ Rating: 4.38 (Ranked 799)
 | Berserker Slayer | 11.00% | ~84 |
 | Giantess Slayer | 11.00% | ~84 |
 | Warden Slayer | 10.00% | ~76 |
-| Master Cook | 9.00% | ~68 |
+| Master Cook | 9.00% | ~69 |
 | Silver Moon Wolf King Challenge | 4.00% | ~30 |
 | Giant Lizard Challenge | 4.00% | ~30 |
 | Blade Mantis Challenge | 3.00% | ~23 |
@@ -51,7 +51,7 @@ Rating: 4.38 (Ranked 799)
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 761 (Ranked 325)  
+Progressed: 762 (Ranked 324)  
 Completed: 3 (0.39%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 3 (0.39%) (Ranked 251)
 | 2024-01-17 | 757 | 3 |
 | 2024-01-18 | 759 | 3 |
 | 2024-01-20 | 760 | 3 |
-| 2024-01-21 | 761 | 3 |
+| 2024-01-21 | 762 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

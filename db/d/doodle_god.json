@@ -2,9 +2,9 @@
   "ID": "49c0ed7b0cc94825a13c3c2ca21ed265",
   "Name": "Doodle God",
   "ProductSlug": "doodle-god-f6a7b6",
-  "Ranking_EOS_Progress": 416,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 485,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.6,
+  "EOS_Completed_Percentage": 3.58,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -474,6 +474,11 @@
       "Time": "2024-01-15T20:08:57.7684546+00:00",
       "NumProgressed": 278,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T10:09:01.7975116+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -485,7 +490,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 264
+      "UsersEstimate": 265
     },
     {
       "ID": "605742",
@@ -493,7 +498,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "605752",
@@ -501,7 +506,7 @@
       "Name": "Creator of Life",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "605762",
@@ -509,7 +514,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "605772",
@@ -517,7 +522,7 @@
       "Name": "Creator of Civilization",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 111
+      "UsersEstimate": 112
     },
     {
       "ID": "605782",
@@ -565,7 +570,7 @@
       "Name": "Deity of Darkness",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "605842",
@@ -605,7 +610,7 @@
       "Name": "Similar to Similar",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "605912",
@@ -629,7 +634,7 @@
       "Name": "Greatest inventor",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "610001",
@@ -660,7 +665,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 10
     }
   ],
@@ -668,8 +673,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:09:38.6262058+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:09:01.7975114+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4097153+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:01:22.1737292+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:09:38.6262186+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:59:52.5535603+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:09:01.7975494+00:00"
 }

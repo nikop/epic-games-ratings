@@ -5,37 +5,37 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,812 |
-| Break A Leg | 9.00% | ~72,664 |
-| Hotel California | 9.00% | ~72,664 |
-| Coup de Grâce | 8.00% | ~64,590 |
-| Hazardous Materials | 8.00% | ~64,590 |
-| Git Gutte! | 7.00% | ~56,517 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,517 |
-| Dr. Reed, I Presume? | 6.00% | ~48,443 |
-| Bookworm | 6.00% | ~48,443 |
-| Friends Like These | 6.00% | ~48,443 |
-| Apex Predator | 6.00% | ~48,443 |
-| Stacking the Deck | 6.00% | ~48,443 |
-| This is My Weapon | 6.00% | ~48,443 |
-| Anger Management | 5.00% | ~40,369 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,369 |
-| But Doctor, I am Butcho | 5.00% | ~40,369 |
-| Can't Handle the Truth | 5.00% | ~40,369 |
-| Making Your Mark | 4.00% | ~32,295 |
-| Perks of the Job | 4.00% | ~32,295 |
-| Slayer Squad | 4.00% | ~32,295 |
-| Like Riding a Bike | 4.00% | ~32,295 |
-| Zombologist | 4.00% | ~32,295 |
-| Ooh, Shiny! | 4.00% | ~32,295 |
-| A Patton Emerges | 4.00% | ~32,295 |
-| I Am the Resurrection | 4.00% | ~32,295 |
-| Our True Nature | 4.00% | ~32,295 |
-| Whatever It Takes | 4.00% | ~5,317 |
-| Pork Chopped | 4.00% | ~5,317 |
-| Humanity Distilled | 3.00% | ~24,221 |
-| Down with the Sickness | 3.00% | ~24,221 |
-| One of Us | 3.00% | ~3,988 |
+| Welcome To Hell-A | 11.00% | ~88,815 |
+| Break A Leg | 9.00% | ~72,667 |
+| Hotel California | 9.00% | ~72,667 |
+| Coup de Grâce | 8.00% | ~64,593 |
+| Hazardous Materials | 8.00% | ~64,593 |
+| Git Gutte! | 7.00% | ~56,519 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,519 |
+| Dr. Reed, I Presume? | 6.00% | ~48,445 |
+| Bookworm | 6.00% | ~48,445 |
+| Friends Like These | 6.00% | ~48,445 |
+| Apex Predator | 6.00% | ~48,445 |
+| Stacking the Deck | 6.00% | ~48,445 |
+| This is My Weapon | 6.00% | ~48,445 |
+| Anger Management | 5.00% | ~40,371 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,371 |
+| But Doctor, I am Butcho | 5.00% | ~40,371 |
+| Can't Handle the Truth | 5.00% | ~40,371 |
+| Making Your Mark | 4.00% | ~32,296 |
+| Perks of the Job | 4.00% | ~32,296 |
+| Slayer Squad | 4.00% | ~32,296 |
+| Like Riding a Bike | 4.00% | ~32,296 |
+| Zombologist | 4.00% | ~32,296 |
+| Ooh, Shiny! | 4.00% | ~32,296 |
+| A Patton Emerges | 4.00% | ~32,296 |
+| I Am the Resurrection | 4.00% | ~32,296 |
+| Our True Nature | 4.00% | ~32,296 |
+| Whatever It Takes | 4.00% | ~5,318 |
+| Pork Chopped | 4.00% | ~5,318 |
+| Humanity Distilled | 3.00% | ~24,222 |
+| Down with the Sickness | 3.00% | ~24,222 |
+| One of Us | 3.00% | ~3,989 |
 | Smorgasbord | 2.00% | ~16,148 |
 | Not Even My Final Form | 2.00% | ~16,148 |
 | Internet Famous | 2.00% | ~16,148 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~807 |
 | Wilhelm | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807,381 (Ranked 23)  
+Progressed: 807,411 (Ranked 23)  
 Completed: 2,614 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,19 +333,19 @@ Completed: 2,614 (0.32%) (Ranked 261)
 | 2024-01-18 | 805,908 | 2,599 |
 | 2024-01-19 | 806,486 | 2,606 |
 | 2024-01-20 | 807,210 | 2,613 |
-| 2024-01-21 | 807,381 | 2,614 |
+| 2024-01-21 | 807,411 | 2,614 |
 ## Awards
 Max (Great Boss Battles): 10,713  (Ranked 40)  
-Sum: 16,468 (Ranked 70)  
-Diff (max vs sum): -30  
+Sum: 16,483 (Ranked 69)  
+Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 10,713 |
-| This game is Great for Beginners | 835 |
+| This game is Great for Beginners | 844 |
 | This game has Diverse Characters | 790 |
 | This game has Quickly Understood Controls | 747 |
 | This game is Relaxing | 707 |
-| This game has Amazing Storytelling | 695 |
+| This game has Amazing Storytelling | 701 |
 | This game is Highly Recommended | 693 |
 | This game is Extremely Fun | 665 |
 | This game has Amazing Characters | 623 |
@@ -627,4 +627,4 @@ Diff (max vs sum): -30
 | 2024-01-18 | 4.54 | 10,604 | 16,279 |
 | 2024-01-19 | 4.54 | 10,659 | 16,370 |
 | 2024-01-20 | 4.54 | 10,713 | 16,454 |
-| 2024-01-21 | 4.54 | 10,713 | 16,468 |
+| 2024-01-21 | 4.54 | 10,713 | 16,483 |

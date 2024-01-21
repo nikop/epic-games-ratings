@@ -12,7 +12,7 @@ Number of Ratings: 62  (23.09.2022)
 | First Day on the Job | 75.00% | ~4,109 |
 | Butcher's Bill | 54.00% | ~2,959 |
 | P.A.X | 36.00% | ~1,972 |
-| Hey Listen | 35.00% | ~1,918 |
+| Hey Listen | 36.00% | ~1,972 |
 | OPERATOR | 35.00% | ~1,918 |
 | It's Blue Light | 33.00% | ~1,808 |
 | Most Wanted | 26.00% | ~1,425 |

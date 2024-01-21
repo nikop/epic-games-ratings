@@ -124,10 +124,10 @@
 | Incineration Specialist | 3.00% | ~136 |
 | Warp Specialist | 3.00% | ~136 |
 | Insanity II | 2.00% | ~91 |
+| AI Hacking Specialist | 2.00% | ~91 |
 | Tactician | 2.00% | ~91 |
 | Stasis Mastery | 1.00% | ~45 |
 | Gunsmith | 1.00% | ~45 |
-| AI Hacking Specialist | 1.00% | ~45 |
 | Neural Shock Specialist | 1.00% | ~45 |
 | Insanity III | 0.90% | ~41 |
 | The One and Only | 0.60% | ~27 |

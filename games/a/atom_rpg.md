@@ -34,8 +34,8 @@ Number of Ratings: 54  (23.09.2022)
 | It was worth a shot | 0.90% | ~16 |
 | Ghostbuster | 0.60% | ~11 |
 | Cheeki Breeki | 0.50% | ~9 |
+| It's a classic! | 0.50% | ~9 |
 | Comrade Yogi | 0.50% | ~9 |
-| It's a classic! | 0.40% | ~7 |
 | Tourist Korallov | 0.40% | ~7 |
 | Expert | 0.30% | ~5 |
 | Mystical relics | 0.20% | ~4 |

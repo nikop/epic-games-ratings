@@ -42,11 +42,11 @@
 | Johan Kristiansen | 22.00% | ~26 |
 | Mortimer Ailsworth | 22.00% | ~26 |
 | Well-travelled | 21.00% | ~25 |
-| Florence Farquhar | 19.00% | ~22 |
-| The Investigation Starts Anew | 19.00% | ~22 |
+| Florence Farquhar | 20.00% | ~24 |
+| The Investigation Starts Anew | 20.00% | ~24 |
+| The Penitent Magdalene | 18.00% | ~21 |
+| A true performance | 18.00% | ~21 |
 | A treasured heirloom | 17.00% | ~20 |
-| The Penitent Magdalene | 17.00% | ~20 |
-| A true performance | 17.00% | ~20 |
 | The Denouement | 15.00% | ~18 |
 | A perilous journey | 14.00% | ~17 |
 | Perkins | 8.00% | ~9 |

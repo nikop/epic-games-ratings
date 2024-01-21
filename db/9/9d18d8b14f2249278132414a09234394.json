@@ -5857,9 +5857,9 @@
       "ID": "ACH_NoPirateLifeForMe",
       "SetID": "ai9gp4m",
       "Name": "No Pirate Life For Me",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "ACH_PartOfTheHerd",
@@ -5944,8 +5944,8 @@
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:06:11.9544105+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:04:51.9953109+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:19.2052259+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:00:19.3860604+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:06:11.954451+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:59:07.8257203+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:04:51.9953637+00:00"
 }

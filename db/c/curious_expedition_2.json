@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 370,
   "Ranking_EOS_Completed": 281,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 425,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-19T12:00:00+00:00",
@@ -980,9 +980,9 @@
       "ID": "ach-environmentKill",
       "SetID": "17ih7ma",
       "Name": "Fire and Flood",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 178
+      "UsersEstimate": 182
     },
     {
       "ID": "ach-find-treasure",
@@ -1004,9 +1004,9 @@
       "ID": "ach-firstExpedition",
       "SetID": "17ih7ma",
       "Name": "The Adventure Begins",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 281
     },
     {
       "ID": "ach-hardExpeditions",
@@ -1269,8 +1269,8 @@
   "FirstSeenRating": "2022-09-21T17:31:43.7401168+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.9590474+00:00",
   "LastChanged": "2024-01-01T02:59:19.0992943+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:11:31.5119825+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:10:23.4878655+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:24.1101253+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:58:47.1972719+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:11:31.5120212+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:58:07.0374254+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:10:23.4879118+00:00"
 }

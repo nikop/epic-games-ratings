@@ -4,7 +4,7 @@
   "ProductSlug": "beku-6423fb",
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 552,
+  "Ranking_EOS_NewPlayers": 553,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-12T23:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:23.0212722+00:00",
   "LastChanged": "2023-03-31T05:58:23.0212723+00:00",
   "LastUpdate_AppInfo": "2024-01-21T02:57:10.91987+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:04:16.3564853+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:09:18.8266383+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:03:29.1086828+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:08:47.8947906+00:00"
 }

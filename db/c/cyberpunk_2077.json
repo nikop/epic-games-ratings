@@ -18830,10 +18830,10 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056275,
-  "EOS_Completed": 3139,
-  "EOS_NewPlayers": 5750,
-  "EOS_NewCompleters": 50,
+  "EOS_Progressed": 1056307,
+  "EOS_Completed": 3140,
+  "EOS_NewPlayers": 5714,
+  "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50445,6 +50445,11 @@
       "Time": "2024-01-21T09:09:54.7781211+00:00",
       "NumProgressed": 1056275,
       "NumCompleted": 3139
+    },
+    {
+      "Time": "2024-01-21T10:09:13.2946413+00:00",
+      "NumProgressed": 1056307,
+      "NumCompleted": 3140
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50577,7 +50582,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "MaxPain",
@@ -50625,7 +50630,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "Roleplayer",
@@ -50681,7 +50686,7 @@
       "Name": "The Hermit",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "TheHightPriestess",
@@ -50689,15 +50694,15 @@
       "Name": "The High Priestess",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4225
+      "UsersEstimate": 5282
     },
     {
       "ID": "TheStar",
@@ -50721,7 +50726,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "TheWorld",
@@ -50753,7 +50758,7 @@
       "Name": "True Soldier",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "TrueWarrior",
@@ -50801,7 +50806,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "All the President\u0027s Men",
@@ -50992,21 +50997,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056275,
-      "Completed": 3139
+      "Progressed": 1056307,
+      "Completed": 3140
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184898,
+      "Progressed": 184930,
       "Completed": 10672
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-21T06:05:22.0405826+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:09:54.7781209+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:09:13.294641+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:04:04.1635821+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:09:54.7782775+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:03:21.3639743+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:09:13.2947877+00:00"
 }

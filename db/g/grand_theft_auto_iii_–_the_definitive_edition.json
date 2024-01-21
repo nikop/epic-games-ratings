@@ -721,7 +721,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12472,
+  "EOS_Progressed": 12474,
   "EOS_Completed": 94,
   "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 3,
@@ -16231,6 +16231,11 @@
       "Time": "2024-01-21T06:07:59.2030948+00:00",
       "NumProgressed": 12472,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2024-01-21T10:05:21.6109594+00:00",
+      "NumProgressed": 12474,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 29,
@@ -16242,7 +16247,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10352
+      "UsersEstimate": 10353
     },
     {
       "ID": "ACH02",
@@ -16250,7 +16255,7 @@
       "Name": "Without a Scratch",
       "Percentage": 35,
       "XP": 40,
-      "UsersEstimate": 4365
+      "UsersEstimate": 4366
     },
     {
       "ID": "ACH03",
@@ -16266,7 +16271,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4864
+      "UsersEstimate": 4865
     },
     {
       "ID": "ACH05",
@@ -16282,7 +16287,7 @@
       "Name": "Street Sweeper",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "ACH07",
@@ -16426,7 +16431,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1621
+      "UsersEstimate": 1622
     },
     {
       "ID": "ACH25",
@@ -16473,7 +16478,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12472,
+      "Progressed": 12474,
       "Completed": 94
     }
   ],
@@ -16481,8 +16486,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:06:53.1284411+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:05:21.6109592+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:01:22.2889701+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:06:53.1285061+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:59:52.5638801+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:05:21.6110487+00:00"
 }

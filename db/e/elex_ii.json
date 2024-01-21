@@ -1821,9 +1821,9 @@
       "ID": "ALLCRAFT",
       "SetID": "a1angca",
       "Name": "Self-Sufficient",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ALLJETPACK",
@@ -2085,8 +2085,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:06:18.6471714+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:04:57.0194391+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:00:03.1054644+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:06:18.6472088+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:58:57.039905+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:04:57.0194779+00:00"
 }

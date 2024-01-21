@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139782,
+  "EOS_Progressed": 139783,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 665,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29331,6 +29331,11 @@
       "Time": "2024-01-21T09:09:49.5024164+00:00",
       "NumProgressed": 139782,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-21T10:09:09.5456095+00:00",
+      "NumProgressed": 139783,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29454,7 +29459,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27956
+      "UsersEstimate": 27957
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -29558,7 +29563,7 @@
       "Name": "Recruit Detective Kim Kitsuragi",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 19569
+      "UsersEstimate": 19570
     },
     {
       "ID": "ACH_KIM_AFTER_HOURS",
@@ -29622,7 +29627,7 @@
       "Name": "Gurdi-Ball Is Lit",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 19569
+      "UsersEstimate": 19570
     },
     {
       "ID": "ACH_PLEASURE_WHEEL",
@@ -29661,15 +29666,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139782,
+      "Progressed": 139783,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:09:49.5024162+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:09:09.5456092+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:58:15.8384628+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:09:49.5025374+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:57:47.273424+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:09:09.5457417+00:00"
 }

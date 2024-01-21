@@ -17,13 +17,14 @@
 | Danger | 6.00% | ~3 |
 | Column Crusher | 4.00% | ~2 |
 | Rebellious Servant | 4.00% | ~2 |
+| A Twist of Fate | 4.00% | ~2 |
+| Strength | 4.00% | ~2 |
 | Eviction | 4.00% | ~2 |
 | Rabbit Hunter | 4.00% | ~2 |
 | Armor Annihilator | 2.00% | ~1 |
-| A Twist of Fate | 2.00% | ~1 |
-| Strength | 2.00% | ~1 |
 | Elite Warrior | 2.00% | ~1 |
 | For Justice | 2.00% | ~1 |
+| Astral Envoy | 2.00% | ~1 |
 | Breach of Contract | 2.00% | ~1 |
 | My Turn | 0.00% | ~0 |
 | Hermit | 0.00% | ~0 |
@@ -32,7 +33,6 @@
 | Criminal Investigator | 0.00% | ~0 |
 | Elite Scholar | 0.00% | ~0 |
 | Conqueror of the Devil Blade | 0.00% | ~0 |
-| Astral Envoy | 0.00% | ~0 |
 | The End of Fate | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 49 (Ranked 568)  

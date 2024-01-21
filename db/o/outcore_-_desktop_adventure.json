@@ -2,9 +2,9 @@
   "ID": "da1f78693e5f4a6888297c9362b1144e",
   "Name": "Outcore - Desktop Adventure",
   "ProductSlug": "outcore-desktop-adventure-eb3aff",
-  "Ranking_EOS_Progress": 556,
+  "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewPlayers": 406,
   "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 56,
+  "EOS_Progressed": 57,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -289,6 +289,11 @@
       "Time": "2024-01-20T09:10:24.3691547+00:00",
       "NumProgressed": 56,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T10:09:36.2422524+00:00",
+      "NumProgressed": 57,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -306,7 +311,7 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 200,
       "UsersEstimate": 40
     },
@@ -314,7 +319,7 @@
       "ID": "CompletedChapter2",
       "SetID": "7ejh407",
       "Name": "Defeated Booty The Bootleg",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 200,
       "UsersEstimate": 20
     },
@@ -338,7 +343,7 @@
       "ID": "Creepy1",
       "SetID": "7ejh407",
       "Name": "H\u0334\u0344\u0358\u034A\u0344\u0341\u0303\u0344\u034A\u0302\u030F\u0305\u0344\u0306\u034A\u035B\u034B\u0360\u0303\u030D\u030A\u0313\u035B\u0314\u0306\u035DE\u0335\u031A\u0344\u030A\u034B\u0358\u0344\u0314\u030D\u0351\u0304\u031B\u0305\u0315\u0341\u0314\u035B\u0343\u0358\u033D\u030A\u0312\u0313\u0358\u031B\u0301\u035B\u0340\u0300\u0357\u035D\u0344\u0341\u0303\u0344\u0344\u0304\u0314\u0315\u0343\u0350\u0346\u0340\u0344\u0304\u0301\u0347\u0322\u032A\u031F\u0353\u031D\u033C\u0355\u031E\u0354\u033B\u034E\u0320\u0354\u0324\u0325\u033A\u0339\u0331\u033C\u0322\u032A\u0327\u033A\u032A\u0345\u033A\u0330\u0331L\u0338\u0360\u0340P\u0335\u0301\u030E\u0304\u033D\u031B\u0344\u0341\u034A\u0305\u035B\u0304 \u0336\u0303M\u0336\u030D\u030C\u034A\u0300\u0313\u0304\u030B\u034B\u0302\u034C\u030F\u0344\u033E\u035D\u0346\u030C\u0344\u0306\u0344\u035D\u0310\u0360\u033F\u0343\u0350\u0360\u033C\u032A\u031E\u0348\u032F\u032C\u0356\u0328\u0356\u034E\u031E\u034E\u033B\u0327\u0325E\u0335\u0352\u0313\u034A\u0358\u034B\u0304",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 5,
       "UsersEstimate": 21
     },
@@ -354,7 +359,7 @@
       "ID": "Creepy3",
       "SetID": "7ejh407",
       "Name": "K\u0338\u033F\u0300\u0301\u035B\u0300\u0343\u030E\u035D\u0307\u0310\u0340\u0351\u030E\u0352\u034C\u0350\u0308\u030F\u0301\u0308\u031B\u031AI\u0336\u033F\u0351\u0304\u0308\u0300\u0351\u035B\u033D\u030D\u0346\u0357\u0341\u031B\u0358\u0358\u0307\u0357\u0319\u032F\u032F\u0333\u032E\u031E\u033A\u032D\u0329\u032C\u035C\u0327\u031C\u032DL\u0335\u035D\u0301\u0311\u033E\u0310\u035B\u0350\u0306\u0310\u0302\u0344\u030C\u0300\u0351\u0351\u0302\u0309\u0307\u0301\u0340\u0352\u0342\u0341\u0351L\u0338\u034A\u0312\u0351\u034C\u033F\u0315\u0344\u0350\u0304\u0344\u0309\u0357\u030C\u0305\u0344\u0304\u0340\u035D\u0360\u0352\u0306\u0352\u0300\u0308\u0358\u0303\u0355\u0353\u035A\u0318\u0316\u033A\u0359\u032B\u0349\u0319\u031C\u0331\u0354\u032E\u033C\u0329\u031C\u0331\u032A\u033B\u034E\u0324\u0329\u0319\u032C\u0339\u031C\u031D\u032E\u0353\u0356\u0324\u0355\u0319 \u0334\u033F\u0312\u0300\u0344\u030F\u0341\u0358\u0304\u030F\u0352\u0300\u0311\u035B\u030A\u033F\u030C\u030F\u0309\u0304\u0343\u0344\u031B\u034B\u0352\u0342\u034A\u0343\u031B\u030B\u033F\u0305\u035B\u0308\u0300\u0344\u0358\u0350\u033E\u0314\u031B\u030B\u031B\u033B\u031E\u0316\u0339\u031F\u032CM\u0336\u0344\u034BE\u0334\u0351\u030A\u0303\u0302\u034A\u034E\u0318\u0331\u0325\u0355\u0347\u0356\u0320\u031C\u0324\u0355\u0318\u0328\u032D\u0339\u0326\u032A\u034D\u031C\u031F\u031C\u031C\u034D\u0332\u0329\u0321\u0328\u031D\u0332\u0320\u033B\u032B\u032C\u032A\u0330\u0348\u0323\u032B\u0332\u0332\u0321\u0329\u0321\u0328\u0353\u031F",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
       "UsersEstimate": 15
     },
@@ -402,7 +407,7 @@
       "ID": "ImerssionBreaking",
       "SetID": "7ejh407",
       "Name": "Immersion Breaking",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
       "UsersEstimate": 29
     },
@@ -410,7 +415,7 @@
       "ID": "InternetExplorer",
       "SetID": "7ejh407",
       "Name": "Internet Explorer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
       "UsersEstimate": 11
     },
@@ -442,7 +447,7 @@
       "ID": "LearnedToJump",
       "SetID": "7ejh407",
       "Name": "Learned how to jump!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -450,7 +455,7 @@
       "ID": "LearnedToWalk",
       "SetID": "7ejh407",
       "Name": "Learned how to walk!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 5,
       "UsersEstimate": 45
     },
@@ -507,14 +512,14 @@
     {
       "ID": "7ejh407",
       "IsBase": true,
-      "Progressed": 56,
+      "Progressed": 57,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:10:27.2585966+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:09:36.2422522+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:30.8864816+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:58:29.9990215+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:10:27.2586088+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:57:55.4357696+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:09:36.2422911+00:00"
 }

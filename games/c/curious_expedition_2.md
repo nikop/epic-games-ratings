@@ -6,13 +6,13 @@ Number of Ratings: 20  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Adventure Begins | 64.00% | ~277 |
+| The Adventure Begins | 65.00% | ~281 |
 | Cartographer | 58.00% | ~251 |
 | A Strange Artefact | 54.00% | ~234 |
 | Insomnia | 49.00% | ~212 |
 | Lost & Found & Lost Again | 43.00% | ~186 |
 | From Whence we Came | 43.00% | ~186 |
-| Fire and Flood | 41.00% | ~178 |
+| Fire and Flood | 42.00% | ~182 |
 | Spooky! | 38.00% | ~165 |
 | Treasure Hunt | 36.00% | ~156 |
 | Shennong Herbalist | 35.00% | ~152 |

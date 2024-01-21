@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,728 |
-| The Assault | 5.00% | ~38,107 |
-| Life is your teacher | 5.00% | ~38,107 |
-| Lightning Hands | 5.00% | ~38,107 |
+| The Old Grandmaster | 6.00% | ~45,729 |
+| The Assault | 5.00% | ~38,108 |
+| Life is your teacher | 5.00% | ~38,108 |
+| Lightning Hands | 5.00% | ~38,108 |
 | The Hateful Pole Fighter | 3.00% | ~22,864 |
 | Stuntmaster | 3.00% | ~22,864 |
 | Street Fighting | 3.00% | ~22,864 |
@@ -27,10 +27,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Rumble in the Hangar | 2.00% | ~15,243 |
 | Take damage to save time | 2.00% | ~15,243 |
 | Diligence as a goal | 2.00% | ~1,429 |
-| Scareless | 1.00% | ~7,621 |
-| Dance of the Praying Mantis | 1.00% | ~7,621 |
-| Kung-Fu Tussle | 1.00% | ~7,621 |
-| Project Arena | 1.00% | ~714 |
+| Scareless | 1.00% | ~7,622 |
+| Dance of the Praying Mantis | 1.00% | ~7,622 |
+| Kung-Fu Tussle | 1.00% | ~7,622 |
+| Project Arena | 1.00% | ~715 |
 | Fight the way you practice | 0.90% | ~643 |
 | Muk Yan Master | 0.80% | ~6,097 |
 | Tiger on Fire | 0.70% | ~5,335 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,138 (Ranked 26)  
+Progressed: 762,150 (Ranked 26)  
 Completed: 13,001 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 13,001 (1.71%) (Ranked 150)
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
 | 2024-01-20 | 762,069 | 13,000 |
-| 2024-01-21 | 762,138 | 13,001 |
+| 2024-01-21 | 762,150 | 13,001 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 58)  
 Sum: 12,832 (Ranked 87)  

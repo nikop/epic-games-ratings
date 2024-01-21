@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 183,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 37,
+  "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
     "PcReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3495,
+  "EOS_Progressed": 3496,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1,
   "EosHistory": [
@@ -6732,6 +6732,11 @@
       "Time": "2024-01-21T03:04:21.9402339+00:00",
       "NumProgressed": 3495,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-21T10:04:49.6305968+00:00",
+      "NumProgressed": 3496,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 53,
@@ -6783,7 +6788,7 @@
       "Name": "Hijack",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "STB_CRITICAL_HITS",
@@ -6807,7 +6812,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3320
+      "UsersEstimate": 3321
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6823,7 +6828,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6879,7 +6884,7 @@
       "Name": "Old friend",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     },
     {
       "ID": "STB_DEFEAT_WISTERIA_II",
@@ -6911,7 +6916,7 @@
       "Name": "Chains master",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "STB_KILL_5_ENEMIES_SAME_TIME",
@@ -6919,7 +6924,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2621
+      "UsersEstimate": 2622
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6951,7 +6956,7 @@
       "Name": "The great mage rebellion starts now",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "STB_MISSION1_COMPLETED",
@@ -6959,7 +6964,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2656
+      "UsersEstimate": 2657
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -6983,7 +6988,7 @@
       "Name": "Devineur",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1153
+      "UsersEstimate": 1154
     },
     {
       "ID": "STB_MISSION4_COMPLETED",
@@ -7047,7 +7052,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "STB_PET_HORSE",
@@ -7055,7 +7060,7 @@
       "Name": "You can pet the... horse",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "STB_PLATINUM",
@@ -7087,7 +7092,7 @@
       "Name": "Cypress Glen Headquarters",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "STB_SECONDARY_ASSAULT_III",
@@ -7119,7 +7124,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2551
+      "UsersEstimate": 2552
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -7127,7 +7132,7 @@
       "Name": "Spellcrafting",
       "Percentage": 11,
       "XP": 60,
-      "UsersEstimate": 384
+      "UsersEstimate": 385
     },
     {
       "ID": "STB_UNLOCK_ALL_SLOTS_IMPROVEMENTS",
@@ -7159,14 +7164,14 @@
       "Name": "Petricite Burst",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 1188
+      "UsersEstimate": 1189
     }
   ],
   "AchievementSets": [
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3495,
+      "Progressed": 3496,
       "Completed": 35
     }
   ],
@@ -7174,8 +7179,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:06:08.6656599+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:04:49.6305965+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.6014461+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:01:54.1341028+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:06:08.6657172+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:00:12.9646929+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:04:49.6306532+00:00"
 }

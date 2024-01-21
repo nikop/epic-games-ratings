@@ -5,36 +5,36 @@ Rating: 4.59 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~190 |
-| Map reader | 65.00% | ~137 |
-| Adventurer | 64.00% | ~135 |
+| Beginner | 90.00% | ~191 |
+| Map reader | 66.00% | ~140 |
+| Adventurer | 65.00% | ~138 |
 | Philanthropist | 62.00% | ~131 |
-| The brave little tailor | 43.00% | ~91 |
 | Archer | 43.00% | ~91 |
-| Field hand | 40.00% | ~84 |
+| The brave little tailor | 42.00% | ~89 |
+| Field hand | 40.00% | ~85 |
 | Well-to-do | 34.00% | ~72 |
-| Samaritan | 30.00% | ~63 |
-| Ladies' man | 30.00% | ~63 |
+| Samaritan | 30.00% | ~64 |
+| Ladies' man | 30.00% | ~64 |
 | The merciful one | 29.00% | ~61 |
 | Idiot | 25.00% | ~53 |
 | Ferocious wild boars | 24.00% | ~51 |
-| Beast slayer | 22.00% | ~46 |
-| Ogre friend | 21.00% | ~44 |
+| Beast slayer | 22.00% | ~47 |
+| Ogre friend | 21.00% | ~45 |
 | Death of a legend | 20.00% | ~42 |
 | Archaeologist | 20.00% | ~42 |
 | Family man | 19.00% | ~40 |
 | Little hero | 18.00% | ~38 |
-| The fourth triplet | 18.00% | ~38 |
 | Sidelined | 18.00% | ~38 |
 | Wise man | 17.00% | ~36 |
+| The fourth triplet | 17.00% | ~36 |
 | Fence | 17.00% | ~36 |
 | Pandora's box | 16.00% | ~34 |
 | Hard worker | 16.00% | ~34 |
 | Ghost hunter | 15.00% | ~32 |
 | Master detective | 15.00% | ~32 |
 | Defender | 14.00% | ~30 |
-| Showdown | 13.00% | ~27 |
-| Peacekeeper | 13.00% | ~27 |
+| Showdown | 13.00% | ~28 |
+| Peacekeeper | 13.00% | ~28 |
 | Workaholic | 12.00% | ~25 |
 | Titan Lord | 10.00% | ~21 |
 | Freedom fighter | 9.00% | ~19 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 453)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 211 (Ranked 433)  
+Progressed: 212 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,7 +137,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-17 | 204 | 0 |
 | 2024-01-19 | 208 | 0 |
 | 2024-01-20 | 210 | 0 |
-| 2024-01-21 | 211 | 0 |
+| 2024-01-21 | 212 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

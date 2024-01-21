@@ -5,31 +5,31 @@ Rating: 4.15 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 59.00% | ~2,407 |
-| The beginning of a beautiful collection | 43.00% | ~1,754 |
-| Reading is fundamental | 39.00% | ~1,591 |
-| Take a look | 39.00% | ~1,591 |
-| Home Is... | 35.00% | ~1,428 |
-| Moonbear | 23.00% | ~938 |
-| Getting the hang of it | 20.00% | ~816 |
-| Want to Go to Space? | 20.00% | ~816 |
-| On the Precipice | 15.00% | ~612 |
-| A Nice Place to Live | 14.00% | ~571 |
-| The Dream for These Folks | 12.00% | ~490 |
-| Not the Rabbits, Not the Bees | 12.00% | ~490 |
-| Like Animals | 11.00% | ~449 |
-| Piecing the story together | 10.00% | ~408 |
-| Delivered Us Mars | 10.00% | ~408 |
-| Wants and Needs | 10.00% | ~408 |
-| Desperate Times | 10.00% | ~408 |
-| Stellar extra-vehicular activities score | 8.00% | ~326 |
-| Cinephile | 7.00% | ~286 |
-| When ACE met AYLA | 4.00% | ~163 |
-| Kat-like reflexes | 3.00% | ~122 |
-| Kats always land on their feet | 1.00% | ~41 |
-| The Gang | 1.00% | ~41 |
+| Better jot that down | 59.00% | ~2,456 |
+| The beginning of a beautiful collection | 44.00% | ~1,832 |
+| Reading is fundamental | 39.00% | ~1,624 |
+| Take a look | 39.00% | ~1,624 |
+| Home Is... | 35.00% | ~1,457 |
+| Moonbear | 23.00% | ~957 |
+| Getting the hang of it | 20.00% | ~833 |
+| Want to Go to Space? | 20.00% | ~833 |
+| On the Precipice | 16.00% | ~666 |
+| A Nice Place to Live | 14.00% | ~583 |
+| The Dream for These Folks | 12.00% | ~500 |
+| Like Animals | 11.00% | ~458 |
+| Not the Rabbits, Not the Bees | 11.00% | ~458 |
+| Piecing the story together | 10.00% | ~416 |
+| Delivered Us Mars | 10.00% | ~416 |
+| Wants and Needs | 10.00% | ~416 |
+| Desperate Times | 10.00% | ~416 |
+| Stellar extra-vehicular activities score | 8.00% | ~333 |
+| Cinephile | 7.00% | ~291 |
+| When ACE met AYLA | 4.00% | ~167 |
+| Kat-like reflexes | 3.00% | ~125 |
+| Kats always land on their feet | 1.00% | ~42 |
+| The Gang | 1.00% | ~42 |
 | As the story unfolds... | 0.70% | ~29 |
-| Who waits five minutes, seriously? | 0.40% | ~16 |
+| Who waits five minutes, seriously? | 0.50% | ~21 |
 | Quick like a Kat | 0.20% | ~8 |
 | Simulacrum | 0.10% | ~4 |
 | Peruser | 0.10% | ~4 |
@@ -39,7 +39,7 @@ Rating: 4.15 (Ranked 1,008)
 | Their batteries were low and it got dark | 0.00% | ~0 |
 | Shai-Hulud? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,080 (Ranked 220)  
+Progressed: 4,163 (Ranked 219)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2023-11-22 | 11 | 0 |
 | 2024-01-19 | 935 | 0 |
 | 2024-01-20 | 3,496 | 0 |
-| 2024-01-21 | 4,080 | 0 |
+| 2024-01-21 | 4,163 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

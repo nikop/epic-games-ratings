@@ -24,7 +24,7 @@ Rating: 4.25 (Ranked 930)
 | Garden Variety | 1.00% | ~12 |
 | Glutton For Punishment | 0.60% | ~7 |
 | Human Lover | 0.50% | ~6 |
-| Rocketeer | 0.30% | ~4 |
+| Rocketeer | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,231 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 408)  

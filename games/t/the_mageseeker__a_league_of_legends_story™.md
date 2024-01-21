@@ -5,24 +5,24 @@ Rating: 4.78 (Ranked 112)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,320 |
+| For Demacia | 95.00% | ~3,321 |
 | No more cages! | 90.00% | ~3,146 |
-| Everfrost | 76.00% | ~2,656 |
-| Dark Forest | 76.00% | ~2,656 |
-| Pentakill | 75.00% | ~2,621 |
-| The use of petricite | 73.00% | ~2,551 |
-| You can pet the dog | 60.00% | ~2,097 |
+| Everfrost | 76.00% | ~2,657 |
+| Dark Forest | 76.00% | ~2,657 |
+| Pentakill | 75.00% | ~2,622 |
+| The use of petricite | 73.00% | ~2,552 |
+| You can pet the dog | 60.00% | ~2,098 |
 | Thornbarrow | 44.00% | ~1,538 |
 | Big Helmet Bro | 42.00% | ~1,468 |
 | Clarion Cove | 41.00% | ~1,433 |
 | Ternmoat Headquarters | 40.00% | ~1,398 |
 | Elemental master | 38.00% | ~1,328 |
 | Past trauma | 38.00% | ~1,328 |
-| Cypress Glen Headquarters | 35.00% | ~1,223 |
-| Old friend | 34.00% | ~1,188 |
-| Petricite Burst | 34.00% | ~1,188 |
-| Devineur | 33.00% | ~1,153 |
-| Hijack | 32.00% | ~1,118 |
+| Cypress Glen Headquarters | 35.00% | ~1,224 |
+| Old friend | 34.00% | ~1,189 |
+| Petricite Burst | 34.00% | ~1,189 |
+| Devineur | 33.00% | ~1,154 |
+| Hijack | 32.00% | ~1,119 |
 | I chose my shackles | 29.00% | ~1,014 |
 | Ancient power | 29.00% | ~1,014 |
 | Whispers in the Woods I | 28.00% | ~979 |
@@ -52,14 +52,14 @@ Rating: 4.78 (Ranked 112)
 | Truth is a dark mirror | 14.00% | ~489 |
 | Do you trust me? | 13.00% | ~454 |
 | Back to sleep, then... | 13.00% | ~454 |
-| The great mage rebellion starts now | 12.00% | ~419 |
-| Chains master | 11.00% | ~384 |
-| You can pet the... horse | 11.00% | ~384 |
-| Spellcrafting | 11.00% | ~384 |
+| The great mage rebellion starts now | 12.00% | ~420 |
+| Chains master | 11.00% | ~385 |
+| You can pet the... horse | 11.00% | ~385 |
+| Spellcrafting | 11.00% | ~385 |
 | Silverwing nest | 3.00% | ~105 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,495 (Ranked 231)  
+Progressed: 3,496 (Ranked 231)  
 Completed: 35 (1.00%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,7 +282,7 @@ Completed: 35 (1.00%) (Ranked 183)
 | 2024-01-18 | 3,480 | 33 |
 | 2024-01-19 | 3,489 | 33 |
 | 2024-01-20 | 3,494 | 35 |
-| 2024-01-21 | 3,495 | 35 |
+| 2024-01-21 | 3,496 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

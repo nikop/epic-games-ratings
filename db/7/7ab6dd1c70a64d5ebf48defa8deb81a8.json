@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 83,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2410,
+  "EOS_Progressed": 2412,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4906,6 +4906,11 @@
       "Time": "2024-01-21T04:12:16.5177753+00:00",
       "NumProgressed": 2410,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T10:10:19.4377471+00:00",
+      "NumProgressed": 2412,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4917,7 +4922,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1566
+      "UsersEstimate": 1568
     },
     {
       "ID": "ACH_02",
@@ -4933,7 +4938,7 @@
       "Name": "Powerful Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_04",
@@ -5029,7 +5034,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 554
+      "UsersEstimate": 555
     },
     {
       "ID": "ACH_16",
@@ -5109,7 +5114,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_26",
@@ -5133,7 +5138,7 @@
       "Name": "I Found It",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "ACH_29",
@@ -5157,7 +5162,7 @@
       "Name": "Stone Collection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "ACH_33",
@@ -5204,7 +5209,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2410,
+      "Progressed": 2412,
       "Completed": 5
     }
   ],
@@ -5212,8 +5217,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-21T09:11:26.3475677+00:00",
+  "LastChanged_Achievements": "2024-01-21T10:10:19.4377469+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:59:48.6489347+00:00",
-  "LastUpdate_Achievements": "2024-01-21T09:11:26.3476028+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:58:47.778889+00:00",
+  "LastUpdate_Achievements": "2024-01-21T10:10:19.4377941+00:00"
 }

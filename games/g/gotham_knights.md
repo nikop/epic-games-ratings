@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,554 |
+| First Step Into the Knight | 50.00% | ~41,555 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,257 |
 | Loose Ends | 33.00% | ~27,426 |
-| To the Victor Go the Spoils | 27.00% | ~22,439 |
-| Knighthood | 26.00% | ~21,608 |
+| To the Victor Go the Spoils | 27.00% | ~22,440 |
+| Knighthood | 26.00% | ~21,609 |
 | Get ReQ'd | 24.00% | ~19,946 |
 | Whispered Words | 24.00% | ~19,946 |
 | The Batman Family | 22.00% | ~18,284 |
@@ -20,9 +20,9 @@ Rating: 4.19 (Ranked 980)
 | Unstoppable Force | 20.00% | ~16,622 |
 | Bad Apples in Every Orchard | 20.00% | ~16,622 |
 | Snow Problem | 19.00% | ~15,791 |
-| The Show Mud Go On | 17.00% | ~14,128 |
-| From Inside Gotham's Walls | 17.00% | ~14,128 |
-| Protector of Gotham | 16.00% | ~13,297 |
+| The Show Mud Go On | 17.00% | ~14,129 |
+| From Inside Gotham's Walls | 17.00% | ~14,129 |
+| Protector of Gotham | 16.00% | ~13,298 |
 | In Your Element | 15.00% | ~12,466 |
 | Universal Health Scare | 15.00% | ~12,466 |
 | Rock and a Hard Place | 14.00% | ~11,635 |
@@ -39,9 +39,9 @@ Rating: 4.19 (Ranked 980)
 | Out of Their League | 9.00% | ~7,480 |
 | Solid Alibi | 8.00% | ~6,649 |
 | Fusion Expert | 7.00% | ~5,818 |
-| Family Meeting | 6.00% | ~4,986 |
-| A Worthy Successor | 6.00% | ~4,986 |
-| Expert Crime Fighter | 5.00% | ~4,155 |
+| Family Meeting | 6.00% | ~4,987 |
+| A Worthy Successor | 6.00% | ~4,987 |
+| Expert Crime Fighter | 5.00% | ~4,156 |
 | Dressed to Impress | 4.00% | ~3,324 |
 | A Momentum Occasion | 3.00% | ~2,493 |
 | Bat Out of Hell | 3.00% | ~2,493 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 980)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,108 (Ranked 110)  
+Progressed: 83,110 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 135 (0.16%) (Ranked 296)
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
 | 2024-01-20 | 83,086 | 135 |
-| 2024-01-21 | 83,108 | 135 |
+| 2024-01-21 | 83,110 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,237  (Ranked 102)  
 Sum: 5,532 (Ranked 145)  
