@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -891,9 +891,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3924,
+  "EOS_Progressed": 3925,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6151,6 +6151,11 @@
       "Time": "2024-01-21T22:04:45.470461+00:00",
       "NumProgressed": 3924,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T23:04:40.0146288+00:00",
+      "NumProgressed": 3925,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6258,7 +6263,7 @@
       "Name": "Surgical Excision",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "FinalMissionVictory_NoMasterCraft",
@@ -6705,21 +6710,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3924,
+      "Progressed": 3925,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3924,
+      "Progressed": 3925,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-21T02:01:56.8630375+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:04:45.4704607+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:04:40.0146285+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:03:22.1274783+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:04:45.4705389+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:03:22.1468124+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:04:40.0147206+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 419,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-01T14:00:00+00:00",
     "PcReleaseDate": "2023-12-01T14:00:00+00:00",
@@ -1192,9 +1192,9 @@
       "ID": "DopaMiner",
       "SetID": "4bd750m",
       "Name": "Dopa-Miner",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "GoingPlaces",
@@ -1375,8 +1375,8 @@
   ],
   "FirstSeen": "2023-12-01T22:02:49.1282846+00:00",
   "FirstSeenAchievements": "2023-05-31T12:04:05.454746+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:06:04.6553954+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:05:52.9139305+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:46.5924909+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:03:23.1007751+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:06:04.6554167+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:03:23.0030307+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:05:52.9139626+00:00"
 }

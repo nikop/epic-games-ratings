@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2543,18 +2543,24 @@
       "Rating": 4.55,
       "NumberOfAwards": 1144,
       "NumberOfAwardsMax": 704
+    },
+    {
+      "Time": "2024-01-21T23:00:24.3804597+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1149,
+      "NumberOfAwardsMax": 709
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1144,
-  "NumberOfAwardsMax": 704,
+  "NumberOfAwards": 1149,
+  "NumberOfAwardsMax": 709,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 704
+      "Count": 709
     },
     {
       "Text": "This game is Relaxing",
@@ -2611,7 +2617,7 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19777,
+  "EOS_Progressed": 19778,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 3,
@@ -21181,6 +21187,11 @@
       "Time": "2024-01-21T21:11:07.8861581+00:00",
       "NumProgressed": 19777,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-21T23:10:16.5199714+00:00",
+      "NumProgressed": 19778,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21192,7 +21203,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16019
+      "UsersEstimate": 16020
     },
     {
       "ID": "ACH02",
@@ -21248,7 +21259,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10086
+      "UsersEstimate": 10087
     },
     {
       "ID": "ACH09",
@@ -21296,7 +21307,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2175
+      "UsersEstimate": 2176
     },
     {
       "ID": "ACH15",
@@ -21471,16 +21482,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19777,
+      "Progressed": 19778,
       "Completed": 81
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-21T17:02:08.8430832+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:10:24.4310662+00:00",
+  "LastChanged": "2024-01-21T23:00:24.3804596+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:10:16.5199709+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:00:27.624959+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:10:24.4311721+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:00:24.3804601+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:10:16.5201043+00:00"
 }

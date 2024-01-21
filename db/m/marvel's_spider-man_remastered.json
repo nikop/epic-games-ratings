@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 56,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-08-12T15:00:00+00:00",
     "PcReleaseDate": "2022-08-12T15:00:00+00:00",
@@ -9521,10 +9521,16 @@
       "Rating": 4.85,
       "NumberOfAwards": 24010,
       "NumberOfAwardsMax": 14238
+    },
+    {
+      "Time": "2024-01-21T22:59:38.6333916+00:00",
+      "Rating": 4.85,
+      "NumberOfAwards": 24013,
+      "NumberOfAwardsMax": 14238
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 24010,
+  "NumberOfAwards": 24013,
   "NumberOfAwardsMax": 14238,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9538,7 +9544,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1132
+      "Count": 1133
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -9568,13 +9574,13 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 1081
+      "Count": 1082
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1112
+      "Count": 1113
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9613,8 +9619,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-12T18:01:31.1852692+00:00",
   "FirstSeenRating": "2022-08-12T21:01:33.6251933+00:00",
-  "LastChanged": "2024-01-21T13:59:26.4777033+00:00",
+  "LastChanged": "2024-01-21T22:59:38.6333914+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.745126+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:59:38.1139332+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:03:52.5971082+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:59:38.6333921+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:03:51.0705614+00:00"
 }

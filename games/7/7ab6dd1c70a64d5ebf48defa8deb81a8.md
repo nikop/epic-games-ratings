@@ -5,15 +5,15 @@ Rating: 4.19 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 64.00% | ~1,552 |
+| Break Out | 64.00% | ~1,553 |
 | Trinity | 35.00% | ~849 |
-| The Collector | 29.00% | ~703 |
+| The Collector | 29.00% | ~704 |
 | Find Allies | 28.00% | ~679 |
 | A Taste of Wrath | 27.00% | ~655 |
-| Adventurer | 26.00% | ~630 |
-| Shatter Them All | 26.00% | ~630 |
-| Geared Up | 26.00% | ~630 |
-| Scholar | 26.00% | ~630 |
+| Adventurer | 26.00% | ~631 |
+| Shatter Them All | 26.00% | ~631 |
+| Geared Up | 26.00% | ~631 |
+| Scholar | 26.00% | ~631 |
 | I Found It | 25.00% | ~606 |
 | Fashion Victim | 24.00% | ~582 |
 | Stone Collection | 24.00% | ~582 |
@@ -24,8 +24,8 @@ Rating: 4.19 (Ranked 980)
 | Essence Blow | 15.00% | ~364 |
 | The Mentor | 13.00% | ~315 |
 | Calm before the Storm | 12.00% | ~291 |
-| To Battle | 10.00% | ~242 |
-| Godslayer | 10.00% | ~242 |
+| To Battle | 10.00% | ~243 |
+| Godslayer | 10.00% | ~243 |
 | Airborne | 9.00% | ~218 |
 | Miner | 9.00% | ~218 |
 | Clear Sight | 6.00% | ~146 |
@@ -36,13 +36,13 @@ Rating: 4.19 (Ranked 980)
 | Flawless Victory | 3.00% | ~73 |
 | All There Is | 3.00% | ~73 |
 | False God | 3.00% | ~73 |
-| Forgemaster | 2.00% | ~48 |
-| Shardbearer | 2.00% | ~48 |
-| Summiter | 2.00% | ~48 |
+| Forgemaster | 2.00% | ~49 |
+| Shardbearer | 2.00% | ~49 |
+| Summiter | 2.00% | ~49 |
 | All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,425 (Ranked 247)  
+Progressed: 2,426 (Ranked 247)  
 Completed: 5 (0.21%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 5 (0.21%) (Ranked 285)
 | 2024-01-18 | 2,380 | 5 |
 | 2024-01-19 | 2,391 | 5 |
 | 2024-01-20 | 2,408 | 5 |
-| 2024-01-21 | 2,425 | 5 |
+| 2024-01-21 | 2,426 | 5 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

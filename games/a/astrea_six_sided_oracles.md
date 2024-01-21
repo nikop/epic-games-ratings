@@ -15,7 +15,7 @@
 | Stellar Dismantler | 41.00% | ~160 |
 | Astral Adventurer | 36.00% | ~141 |
 | Noctuan Champion | 36.00% | ~141 |
-| Anomaly Destroyer | 33.00% | ~129 |
+| Anomaly Destroyer | 34.00% | ~133 |
 | Star Killer | 31.00% | ~121 |
 | Eridanian Champion | 27.00% | ~106 |
 | Loyal Partner | 23.00% | ~90 |

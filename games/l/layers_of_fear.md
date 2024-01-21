@@ -15,7 +15,7 @@
 | Refuse to look | 38.00% | ~130 |
 | Face your fears | 33.00% | ~113 |
 | Finished it | 27.00% | ~92 |
-| Whispers long forgotten | 18.00% | ~62 |
+| Whispers long forgotten | 19.00% | ~65 |
 | Sound Bite | 14.00% | ~48 |
 | A Slice of Life | 13.00% | ~44 |
 | Debut | 13.00% | ~44 |

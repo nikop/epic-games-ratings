@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1947,9 +1947,9 @@
       "ID": "whispers_long_forgotten",
       "SetID": "f2im8d",
       "Name": "Whispers long forgotten",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 62
+      "UsersEstimate": 65
     }
   ],
   "AchievementSets": [
@@ -1962,8 +1962,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:09:23.0893948+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:09:20.2663552+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:57:28.9631761+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:09:23.0894311+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:57:41.3301877+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:09:20.266422+00:00"
 }

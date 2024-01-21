@@ -4,10 +4,10 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 862,
   "Ranking_Popularity": 216,
-  "Ranking_PopularitySum": 313,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 133,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -370,10 +370,16 @@
       "Rating": 4.33,
       "NumberOfAwards": 705,
       "NumberOfAwardsMax": 586
+    },
+    {
+      "Time": "2024-01-21T23:00:15.216982+00:00",
+      "Rating": 4.33,
+      "NumberOfAwards": 727,
+      "NumberOfAwardsMax": 586
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 705,
+  "NumberOfAwards": 727,
   "NumberOfAwardsMax": 586,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
@@ -424,9 +430,15 @@
       "Prefix": "This game is",
       "Type": "Extremely Fun",
       "Count": 20
+    },
+    {
+      "Text": "This game has Playful Visuals",
+      "Prefix": "This game has",
+      "Type": "Playful Visuals",
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 209569,
+  "EOS_Progressed": 209572,
   "EOS_Completed": 567,
   "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 3,
@@ -29966,6 +29978,11 @@
       "Time": "2024-01-21T22:04:42.7339009+00:00",
       "NumProgressed": 209569,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2024-01-21T23:04:37.4524759+00:00",
+      "NumProgressed": 209572,
+      "NumCompleted": 567
     }
   ],
   "TotalAchievements": 29,
@@ -30001,7 +30018,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196995
+      "UsersEstimate": 196998
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30057,7 +30074,7 @@
       "Name": "Corrupted.",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 10478
+      "UsersEstimate": 10479
     },
     {
       "ID": "ACHIEVEMENT_CORRUPTEDCOMPLETE",
@@ -30137,7 +30154,7 @@
       "Name": "Good things come in pairs... Coloured Pairs.",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 10478
+      "UsersEstimate": 10479
     },
     {
       "ID": "ACHIEVEMENT_REQUISITE",
@@ -30208,16 +30225,16 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209569,
+      "Progressed": 209572,
       "Completed": 567
     }
   ],
   "FirstSeen": "2022-08-17T12:30:54.1950593+00:00",
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
-  "LastChanged": "2024-01-15T08:03:08.7905455+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:04:42.7339007+00:00",
+  "LastChanged": "2024-01-21T23:00:15.2169818+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:04:37.4524755+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:00:18.2921827+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:04:42.7340524+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:00:15.2169823+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:04:37.452678+00:00"
 }

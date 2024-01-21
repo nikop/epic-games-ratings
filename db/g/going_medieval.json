@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 294,
-  "Ranking_EOS_NewPlayers": 194,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1715,9 +1715,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 8046,
+  "EOS_Progressed": 8047,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17180,6 +17180,11 @@
       "Time": "2024-01-21T22:04:52.4340846+00:00",
       "NumProgressed": 8046,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-21T23:04:46.9639219+00:00",
+      "NumProgressed": 8047,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17191,7 +17196,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6115
+      "UsersEstimate": 6116
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -17199,7 +17204,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -17223,7 +17228,7 @@
       "Name": "Green Thumb",
       "Percentage": 68,
       "XP": 50,
-      "UsersEstimate": 5471
+      "UsersEstimate": 5472
     },
     {
       "ID": "HARVEST_CROP_5",
@@ -17231,7 +17236,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6195
+      "UsersEstimate": 6196
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17295,7 +17300,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1126
+      "UsersEstimate": 1127
     },
     {
       "ID": "KILL_RAIDER",
@@ -17311,7 +17316,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5069
+      "UsersEstimate": 5070
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -17335,7 +17340,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3540
+      "UsersEstimate": 3541
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -17351,7 +17356,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5632
+      "UsersEstimate": 5633
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17367,7 +17372,7 @@
       "Name": "Heating Up",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 2655
+      "UsersEstimate": 2656
     },
     {
       "ID": "SURVIVE_FIRST_WINTER",
@@ -17431,22 +17436,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4264
+      "UsersEstimate": 4265
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 8046,
+      "Progressed": 8047,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-20T17:00:34.4365504+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:04:52.4340843+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:04:46.9639215+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:27.945305+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:57:27.2385026+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:04:52.4341771+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:57:39.8276957+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:04:46.9639939+00:00"
 }

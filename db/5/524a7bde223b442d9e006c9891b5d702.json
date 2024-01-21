@@ -2,10 +2,10 @@
   "ID": "524a7bde223b442d9e006c9891b5d702",
   "Name": "Balloon Strike",
   "ProductSlug": "balloon-strike-c9a1ac",
-  "Ranking_EOS_Progress": 689,
+  "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-01T18:30:00+00:00",
     "PcReleaseDate": "2014-07-11T18:30:00+00:00",
@@ -118,8 +118,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-01T04:03:09.498948+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:04:58.3095229+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:04:52.491709+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.0825161+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:57:14.4579628+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:04:58.309527+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:57:28.8741409+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:04:52.4917157+00:00"
 }

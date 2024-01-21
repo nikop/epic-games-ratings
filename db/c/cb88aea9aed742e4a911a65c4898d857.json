@@ -4,11 +4,11 @@
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 223,
   "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 410,
+  "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -417,10 +417,16 @@
       "Rating": 4.7,
       "NumberOfAwards": 233,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2024-01-21T22:57:25.0496171+00:00",
+      "Rating": 4.7,
+      "NumberOfAwards": 235,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 233,
+  "NumberOfAwards": 235,
   "NumberOfAwardsMax": 164,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -440,18 +446,18 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 21
+      "Count": 22
     }
   ],
-  "EOS_Progressed": 12041,
+  "EOS_Progressed": 12045,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 575,
+  "EOS_NewPlayers": 574,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5759,6 +5765,11 @@
       "Time": "2024-01-21T22:10:28.5976377+00:00",
       "NumProgressed": 12041,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T23:10:20.3148995+00:00",
+      "NumProgressed": 12045,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5771,7 +5782,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2769
+      "UsersEstimate": 2770
     },
     {
       "ID": "03_TheStolenStar",
@@ -5779,7 +5790,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2047
+      "UsersEstimate": 2048
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5795,7 +5806,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5891,7 +5902,7 @@
       "Name": "Exemplar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 963
+      "UsersEstimate": 964
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6083,7 +6094,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1565
+      "UsersEstimate": 1566
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6290,16 +6301,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12041,
+      "Progressed": 12045,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-21T14:57:11.8782486+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:10:28.5976375+00:00",
+  "LastChanged": "2024-01-21T22:57:25.0496169+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:10:20.3148991+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:57:10.4850304+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:10:28.5976992+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:57:25.0496174+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:10:20.3149789+00:00"
 }

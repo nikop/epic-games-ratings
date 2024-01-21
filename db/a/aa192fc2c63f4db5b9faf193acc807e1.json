@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewPlayers": 340,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 318,
+  "EOS_Progressed": 319,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.46,
+  "EOS_Completed_Percentage": 3.45,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1389,6 +1389,11 @@
       "Time": "2024-01-21T20:11:27.0118207+00:00",
       "NumProgressed": 318,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-21T23:10:09.9163845+00:00",
+      "NumProgressed": 319,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1415,9 +1420,9 @@
       "ID": "creepytaleach11",
       "SetID": "bnif31p",
       "Name": "Alchemist",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 75,
-      "UsersEstimate": 197
+      "UsersEstimate": 195
     },
     {
       "ID": "creepytaleach12",
@@ -1457,7 +1462,7 @@
       "Name": "Dominance",
       "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "creepytaleach5",
@@ -1487,9 +1492,9 @@
       "ID": "creepytaleach8",
       "SetID": "bnif31p",
       "Name": "Fake tune",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 146
+      "UsersEstimate": 144
     },
     {
       "ID": "creepytaleach9",
@@ -1504,14 +1509,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 318,
+      "Progressed": 319,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:10:17.2324662+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:10:09.9163841+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:06.1201806+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:58:44.9240455+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:10:17.2324774+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:58:49.9711921+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:10:09.9164014+00:00"
 }

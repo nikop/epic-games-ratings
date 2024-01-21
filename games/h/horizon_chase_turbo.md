@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~997,135 |
-| I Need a Bigger Garage | 63.00% | ~697,995 |
-| Pump my Ride | 47.00% | ~520,726 |
-| Ghostbuster | 34.00% | ~376,696 |
-| Call Roadside Assistance | 18.00% | ~199,427 |
-| That Was Close | 18.00% | ~199,427 |
-| Quickie | 11.00% | ~121,872 |
-| California Dreamer | 7.00% | ~77,555 |
-| Can't Touch This | 5.00% | ~55,396 |
-| Carménère Taster | 4.00% | ~44,317 |
-| Comeback | 4.00% | ~44,317 |
+| The First of Many | 90.00% | ~997,147 |
+| I Need a Bigger Garage | 63.00% | ~698,003 |
+| Pump my Ride | 47.00% | ~520,732 |
+| Ghostbuster | 34.00% | ~376,700 |
+| Call Roadside Assistance | 18.00% | ~199,429 |
+| That Was Close | 18.00% | ~199,429 |
+| Quickie | 11.00% | ~121,874 |
+| California Dreamer | 7.00% | ~77,556 |
+| Can't Touch This | 5.00% | ~55,397 |
+| Carménère Taster | 4.00% | ~44,318 |
+| Comeback | 4.00% | ~44,318 |
 | Driver from Ipanema | 3.00% | ~33,238 |
 | Supersonic | 3.00% | ~33,238 |
 | Marathonist | 3.00% | ~33,238 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,216 |
 | Transporter | 0.10% | ~1,108 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,107,928 (Ranked 15)  
+Progressed: 1,107,941 (Ranked 15)  
 Completed: 538 (0.05%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -320,10 +320,10 @@ Completed: 538 (0.05%) (Ranked 346)
 | 2024-01-18 | 1,106,557 | 536 |
 | 2024-01-19 | 1,106,965 | 537 |
 | 2024-01-20 | 1,107,465 | 538 |
-| 2024-01-21 | 1,107,928 | 538 |
+| 2024-01-21 | 1,107,941 | 538 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 313)  
-Sum: 1,656 (Ranked 237)  
+Sum: 1,657 (Ranked 237)  
 Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
@@ -332,7 +332,7 @@ Diff (max vs sum): 76
 | This game has Diverse Characters | 157 |
 | This game has Quickly Understood Controls | 152 |
 | This game is Relaxing | 146 |
-| This game is Highly Recommended | 142 |
+| This game is Highly Recommended | 143 |
 | This game has Competitive Players | 136 |
 | This game has Playful Visuals | 134 |
 | This game is Extremely Fun | 131 |
@@ -642,3 +642,4 @@ Diff (max vs sum): 76
 | 2024-01-18 | 4.55 | - | 187 | 1,653 |
 | 2024-01-19 | 4.55 | - | 187 | 1,655 |
 | 2024-01-20 | 4.55 | - | 187 | 1,656 |
+| 2024-01-21 | 4.55 | - | 187 | 1,657 |

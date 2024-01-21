@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,7 +967,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667729,
+  "EOS_Progressed": 667730,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
@@ -27362,6 +27362,11 @@
       "Time": "2024-01-21T22:09:58.8113264+00:00",
       "NumProgressed": 667729,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-21T23:09:53.2218976+00:00",
+      "NumProgressed": 667730,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27373,7 +27378,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480765
+      "UsersEstimate": 480766
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27613,7 +27618,7 @@
       "Name": "Master of Arms",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 80127
+      "UsersEstimate": 80128
     },
     {
       "ID": "Achievement_32_Karma",
@@ -27756,15 +27761,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667729,
+      "Progressed": 667730,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:09:58.8113262+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:09:53.2218971+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:59:46.0634019+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:09:58.8114778+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:59:45.1781878+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:09:53.2221377+00:00"
 }

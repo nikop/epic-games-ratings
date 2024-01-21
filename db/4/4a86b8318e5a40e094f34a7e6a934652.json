@@ -4,8 +4,8 @@
   "ProductSlug": "i-am-future-cozy-apocalypse-survival-6b452c",
   "Ranking_EOS_Progress": 348,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 288,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-29T20:00:00+00:00",
     "PcReleaseDate": "2023-08-29T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 590,
+  "EOS_Progressed": 591,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -2449,6 +2449,11 @@
       "Time": "2024-01-21T22:05:51.7435054+00:00",
       "NumProgressed": 590,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T23:05:40.9275985+00:00",
+      "NumProgressed": 591,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2461,7 +2466,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2501,7 +2506,7 @@
       "Name": "Fisherman",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2555,9 +2560,9 @@
       "ID": "NOT_FAINT_HOUSEWARMING",
       "SetID": "aniflfk",
       "Name": "Tough Guy",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 118
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2597,7 +2602,7 @@
       "Name": "Crypto Bro",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "TAKE_LEECH",
@@ -2613,21 +2618,21 @@
       "Name": "Strong Signal",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 289
+      "UsersEstimate": 290
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 590,
+      "Progressed": 591,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:05:51.7435052+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:05:40.9275983+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.7224824+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:58:55.10521+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:05:51.7435323+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:58:59.4591437+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:05:40.9276255+00:00"
 }

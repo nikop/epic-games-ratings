@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 453,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-24T09:30:00+00:00",
     "PcReleaseDate": "2022-11-04T00:00:00+00:00",
@@ -734,9 +734,9 @@
       "ID": "12",
       "SetID": "41h3j82",
       "Name": "Stilesville Hidden Style",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 58
+      "UsersEstimate": 60
     },
     {
       "ID": "13",
@@ -798,9 +798,9 @@
       "ID": "2",
       "SetID": "41h3j82",
       "Name": "Welcome to Barcelona",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 99
+      "UsersEstimate": 101
     },
     {
       "ID": "3",
@@ -854,9 +854,9 @@
       "ID": "9",
       "SetID": "41h3j82",
       "Name": "Talented Performer",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 70,
-      "UsersEstimate": 103
+      "UsersEstimate": 104
     }
   ],
   "AchievementSets": [
@@ -871,8 +871,8 @@
   "FirstSeenRating": "2023-03-31T05:58:31.8996546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:19.5108841+00:00",
   "LastChanged": "2023-03-31T05:58:31.8996547+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:06:13.051705+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:06:00.7394713+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:35.6207829+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:58:40.7996175+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:06:13.0517235+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:58:46.1372038+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:06:00.7394942+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "1903efa2b18040089ecbd796f9ec3a16",
   "Name": "Extreme Formula Championship",
   "ProductSlug": "extreme-formula-championship-a8271d",
-  "Ranking_EOS_Progress": 689,
+  "Ranking_EOS_Progress": 683,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 425,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
     "PcReleaseDate": "2015-05-03T18:30:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7,
+  "EOS_Progressed": 8,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
       "Time": "2024-01-21T15:07:44.6725887+00:00",
       "NumProgressed": 7,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T23:06:11.6549329+00:00",
+      "NumProgressed": 8,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-30T19:03:25.6411728+00:00",
@@ -69,7 +74,7 @@
       "ID": "EXTREME_LEVEL2",
       "SetID": "3d99g70",
       "Name": "Contender",
-      "Percentage": 43,
+      "Percentage": 38,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -110,14 +115,14 @@
     {
       "ID": "3d99g70",
       "IsBase": true,
-      "Progressed": 7,
+      "Progressed": 8,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-22T19:57:40.0065945+00:00",
   "FirstSeenAchievements": "2023-11-30T19:03:25.6411727+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:06:25.0113223+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:06:11.6549318+00:00",
   "LastUpdate_AppInfo": "2024-01-18T22:57:20.8556428+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:58:32.8420091+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:06:25.0113265+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:58:39.210367+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:06:11.6549417+00:00"
 }

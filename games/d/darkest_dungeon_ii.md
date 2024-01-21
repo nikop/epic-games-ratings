@@ -21,8 +21,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 6.00% | ~8,006 |
 | To Grandmother's House | 6.00% | ~8,006 |
 | FNG | 6.00% | ~8,006 |
-| Ploughshares to Swords | 6.00% | ~498 |
-| Bloody Graduation | 6.00% | ~498 |
+| Ploughshares to Swords | 6.00% | ~499 |
+| Bloody Graduation | 6.00% | ~499 |
 | It Rings a Bell | 5.00% | ~6,672 |
 | Not Today! | 5.00% | ~6,672 |
 | It Happens | 5.00% | ~6,672 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,439 (Ranked 92)  
+Progressed: 133,440 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,10 +352,10 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,439 | 5 |
+| 2024-01-21 | 133,440 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
-Sum: 21,804 (Ranked 58)  
+Sum: 21,807 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -365,7 +365,7 @@ Diff (max vs sum): -6
 | This game is Highly Recommended | 1,613 |
 | This game has Amazing Characters | 1,542 |
 | This game is Extremely Fun | 1,536 |
-| This game has Unique Visuals | 1,482 |
+| This game has Unique Visuals | 1,485 |
 | This game has Amazing Storytelling | 1,459 |
 | This game has Quickly Understood Controls | 1,432 |
 | This game has a Creative Community | 1,110 |
@@ -732,4 +732,4 @@ Diff (max vs sum): -6
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
 | 2024-01-20 | 4.69 | - | 8,048 | 21,780 |
-| 2024-01-21 | 4.69 | - | 8,057 | 21,804 |
+| 2024-01-21 | 4.69 | - | 8,057 | 21,807 |

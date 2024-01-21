@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -1000,9 +1000,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55734,
+  "EOS_Progressed": 55738,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 872,
+  "EOS_NewPlayers": 869,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32495,6 +32495,11 @@
       "Time": "2024-01-21T22:05:38.1470685+00:00",
       "NumProgressed": 55734,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T23:05:28.108666+00:00",
+      "NumProgressed": 55738,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32530,7 +32535,7 @@
       "Name": "Scout",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6688
+      "UsersEstimate": 6689
     },
     {
       "ID": "distance500000",
@@ -32546,7 +32551,7 @@
       "Name": "Rookie",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 15606
+      "UsersEstimate": 15607
     },
     {
       "ID": "goals180",
@@ -32562,7 +32567,7 @@
       "Name": "Amateur",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 5573
+      "UsersEstimate": 5574
     },
     {
       "ID": "goals75",
@@ -32626,7 +32631,7 @@
       "Name": "Nomad",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8917
+      "UsersEstimate": 8918
     },
     {
       "ID": "novice",
@@ -32634,7 +32639,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8360
+      "UsersEstimate": 8361
     },
     {
       "ID": "playerFelipe",
@@ -32778,7 +32783,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3901
+      "UsersEstimate": 3902
     },
     {
       "ID": "vandal",
@@ -32794,7 +32799,7 @@
       "Name": "Voyager",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 2229
+      "UsersEstimate": 2230
     },
     {
       "ID": "wanderer",
@@ -32817,15 +32822,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55734,
+      "Progressed": 55738,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-20T03:57:39.1090707+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:05:38.1470683+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:05:28.1086658+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.3868724+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:58:24.1318599+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:05:38.1472378+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:58:30.2103842+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:05:28.1088967+00:00"
 }

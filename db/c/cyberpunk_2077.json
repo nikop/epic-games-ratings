@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 286,
+  "Ranking_Rating": 287,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
@@ -18866,10 +18866,10 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056752,
+  "EOS_Progressed": 1056765,
   "EOS_Completed": 3144,
-  "EOS_NewPlayers": 5401,
-  "EOS_NewCompleters": 49,
+  "EOS_NewPlayers": 5384,
+  "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50546,6 +50546,11 @@
       "Time": "2024-01-21T22:09:16.1886175+00:00",
       "NumProgressed": 1056752,
       "NumCompleted": 3144
+    },
+    {
+      "Time": "2024-01-21T23:09:14.0539239+00:00",
+      "NumProgressed": 1056765,
+      "NumCompleted": 3144
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50652,9 +50657,9 @@
       "ID": "IAmMaxTac",
       "SetID": "47clieb",
       "Name": "I Am The Law",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 3170
+      "UsersEstimate": 4227
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -51093,21 +51098,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056752,
+      "Progressed": 1056765,
       "Completed": 3144
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185375,
+      "Progressed": 185388,
       "Completed": 10677
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-21T22:03:19.4402891+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:09:16.1886173+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:09:14.0539234+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:03:19.4402909+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:09:16.1887693+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:03:19.621258+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:09:14.0541734+00:00"
 }

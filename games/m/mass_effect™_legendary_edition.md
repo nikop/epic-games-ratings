@@ -50,6 +50,7 @@
 | The Prodigal | 24.00% | ~1,095 |
 | A Personal Touch | 23.00% | ~1,050 |
 | Catharsis | 23.00% | ~1,050 |
+| Fade Away | 23.00% | ~1,050 |
 | Ghost of the Father | 23.00% | ~1,050 |
 | The Cure | 23.00% | ~1,050 |
 | Galactic Explorer | 23.00% | ~1,050 |
@@ -58,7 +59,6 @@
 | Bringer of War | 23.00% | ~1,050 |
 | Shopaholic | 23.00% | ~1,050 |
 | Battlemaster | 22.00% | ~1,004 |
-| Fade Away | 22.00% | ~1,004 |
 | Treason | 22.00% | ~1,004 |
 | Big Game Hunter | 22.00% | ~1,004 |
 | Digital Exorcist | 22.00% | ~1,004 |

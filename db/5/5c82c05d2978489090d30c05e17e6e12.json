@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76453,
+  "EOS_Progressed": 76458,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1193,
+  "EOS_NewPlayers": 1185,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8162,6 +8162,11 @@
       "Time": "2024-01-21T22:09:00.9573434+00:00",
       "NumProgressed": 76453,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-21T23:09:00.1265186+00:00",
+      "NumProgressed": 76458,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8174,7 +8179,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28288
+      "UsersEstimate": 28289
     },
     {
       "ID": "Achievement_10",
@@ -8262,7 +8267,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21407
+      "UsersEstimate": 21408
     },
     {
       "ID": "Achievement_20",
@@ -8350,7 +8355,7 @@
       "Name": "Gersween\u0027s Nest",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 9174
+      "UsersEstimate": 9175
     },
     {
       "ID": "Achievement_30",
@@ -8445,7 +8450,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76453,
+      "Progressed": 76458,
       "Completed": 128
     }
   ],
@@ -8453,8 +8458,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:09:00.9573432+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:09:00.1265181+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:57:32.4577751+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:09:00.9574099+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:57:44.4738321+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:09:00.126585+00:00"
 }

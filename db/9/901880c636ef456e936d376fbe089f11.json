@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 442,
   "Ranking_EOS_Completed": 177,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-06-21T11:00:00+00:00",
     "PcReleaseDate": "2023-04-20T13:00:00+00:00",
@@ -1119,9 +1119,9 @@
       "ID": "ACH_GUEST_OF_HONOR",
       "SetID": "8h8m55b",
       "Name": "Guest of Honor",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_HARDBOILED_ADVICE",
@@ -1359,9 +1359,9 @@
       "ID": "ACH_WRONG_BREW_FIRST_TIME",
       "SetID": "8h8m55b",
       "Name": "Is this it?",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
@@ -1374,8 +1374,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:08:43.7607499+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:08:44.7417891+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:02.7129015+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:57:31.9934919+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:08:43.7607989+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:57:44.0975737+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:08:44.7418334+00:00"
 }

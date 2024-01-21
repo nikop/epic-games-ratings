@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 91,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10010,
+  "EOS_Progressed": 10016,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1044,
+  "EOS_NewPlayers": 1043,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3744,6 +3744,11 @@
       "Time": "2024-01-21T22:09:43.4205555+00:00",
       "NumProgressed": 10010,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-21T23:09:39.1908612+00:00",
+      "NumProgressed": 10016,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3756,7 +3761,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4905
+      "UsersEstimate": 4908
     },
     {
       "ID": "Document1",
@@ -3819,14 +3824,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 10010,
+      "Progressed": 10016,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:09:43.4205553+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:58:57.2291752+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:09:43.4205804+00:00"
+  "LastChanged_Achievements": "2024-01-21T23:09:39.1908607+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T22:57:09.6072792+00:00",
+  "LastUpdate_Ratings": "2024-01-21T22:59:01.4273573+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:09:39.1908886+00:00"
 }

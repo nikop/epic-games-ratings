@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 457,
   "Ranking_EOS_Completed": 215,
   "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-09T09:00:00+00:00",
     "PcReleaseDate": "2023-03-09T09:00:00+00:00",
@@ -596,9 +596,9 @@
       "ID": "Achievement11",
       "SetID": "jf6ho5",
       "Name": "Your Training Continues",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Achievement12",
@@ -757,8 +757,8 @@
   "FirstSeenRating": "2023-03-31T05:57:52.059973+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:21.1984638+00:00",
   "LastChanged": "2023-03-31T05:57:52.0599731+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:10:23.5432386+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:10:15.6475405+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:59.0832627+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:59:33.0810497+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:10:23.5432519+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:59:34.1832188+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:10:15.6475612+00:00"
 }

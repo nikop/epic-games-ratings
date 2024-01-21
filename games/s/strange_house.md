@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Nice Glass | 22.00% | ~11 |
+| Nice Glass | 24.00% | ~12 |
 | Alcoholic | 20.00% | ~10 |
 | Underground | 20.00% | ~10 |
 | Chapter 1 | 18.00% | ~9 |

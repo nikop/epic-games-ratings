@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1769,9 +1769,9 @@
       "ID": "20WEAPONSCRAFTED",
       "SetID": "a1angca",
       "Name": "Weaponsmith",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 22
     },
     {
       "ID": "300QUESTS",
@@ -2001,9 +2001,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "FUTUREIRISSA",
@@ -2105,8 +2105,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:05:18.9738753+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:05:10.609425+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:59:09.7469156+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:05:18.9739285+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:59:13.7085301+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:05:10.6094666+00:00"
 }

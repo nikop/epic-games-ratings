@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,755 |
+| A Brief Tour of the Realms | 5.00% | ~12,756 |
 | Beast Intentions | 2.00% | ~5,102 |
 | The Cursed Farmer | 2.00% | ~5,102 |
 | The Mad Wizard | 2.00% | ~5,102 |
@@ -75,6 +75,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Lost Heir of Omu | 0.20% | ~510 |
 | The Forbidden City | 0.20% | ~510 |
 | Captured! | 0.20% | ~510 |
+| Force Grey Unleashed | 0.20% | ~510 |
 | Wisdom Check | 0.20% | ~510 |
 | Sleuth It Out | 0.20% | ~510 |
 | A Grand Puzzle | 0.20% | ~510 |
@@ -248,7 +249,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Home Field Advantage | 0.10% | ~255 |
 | Double Vision | 0.10% | ~255 |
 | Underground Railroad | 0.10% | ~255 |
-| Force Grey Unleashed | 0.10% | ~255 |
 | Vajra's Guards | 0.10% | ~255 |
 | The Newcomers of Notoriety | 0.10% | ~221 |
 | Never Split the Party | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,102 (Ranked 71)  
+Progressed: 255,112 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,14 +829,14 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 255,102 | 2,629 |
+| 2024-01-21 | 255,112 | 2,629 |
 ## Awards
-Max (Great for Beginners): 5,804  (Ranked 74)  
-Sum: 33,596 (Ranked 41)  
+Max (Great for Beginners): 5,810  (Ranked 74)  
+Sum: 33,602 (Ranked 41)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 5,804 |
+| This game is Great for Beginners | 5,810 |
 | This game has Diverse Characters | 5,740 |
 | This game has Quickly Understood Controls | 4,918 |
 | This game is Relaxing | 4,796 |
@@ -1206,4 +1206,4 @@ Diff (max vs sum): 33
 | 2024-01-18 | 4.07 | - | 5,792 | 33,543 |
 | 2024-01-19 | 4.07 | - | 5,801 | 33,572 |
 | 2024-01-20 | 4.07 | - | 5,804 | 33,584 |
-| 2024-01-21 | 4.07 | - | 5,804 | 33,596 |
+| 2024-01-21 | 4.07 | - | 5,810 | 33,602 |

@@ -39,10 +39,10 @@ Rating: 4.20 (Ranked 971)
 | Armaments Vert | 4.00% | ~143 |
 | Veteran | 3.00% | ~107 |
 | Grand Magnus | 2.00% | ~71 |
+| Witch-Taker | 1.00% | ~36 |
 | Master of Carmine | 1.00% | ~36 |
 | Shroudfane Surveyor | 1.00% | ~36 |
 | Tip of the Spear | 1.00% | ~36 |
-| Witch-Taker | 0.90% | ~32 |
 | Master of Ultramarine | 0.90% | ~32 |
 | Backtracker | 0.90% | ~32 |
 | Diplomat | 0.70% | ~25 |

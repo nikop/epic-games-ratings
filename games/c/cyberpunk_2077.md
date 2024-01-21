@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.67 (Ranked 286)  
+Rating: 4.67 (Ranked 287)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -22,12 +22,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Bushido and Chill | 0.40% | ~4,227 |
 | Gun Fu | 0.40% | ~4,227 |
 | Master Crafter | 0.40% | ~4,227 |
+| I Am The Law | 0.40% | ~4,227 |
 | The Quick and the Dead | 0.40% | ~4,227 |
 | The Fool | 0.40% | ~4,227 |
 | The World | 0.40% | ~4,227 |
 | Judy vs Night City | 0.40% | ~4,227 |
 | To Protect and Serve | 0.30% | ~3,170 |
-| I Am The Law | 0.30% | ~3,170 |
 | True Warrior | 0.30% | ~3,170 |
 | Two Heads, One Bullet | 0.30% | ~3,170 |
 | To Bad Decisions! | 0.20% | ~2,114 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,752 (Ranked 17)  
+Progressed: 1,056,765 (Ranked 17)  
 Completed: 3,144 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 3,144 (0.30%) (Ranked 265)
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
-| 2024-01-21 | 1,056,752 | 3,144 |
+| 2024-01-21 | 1,056,765 | 3,144 |
 ## Awards
 Max (Character Customization): 143,675  (Ranked 8)  
 Sum: 511,877 (Ranked 8)  

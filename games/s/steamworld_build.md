@@ -17,7 +17,7 @@
 | Mine Sweeper | 45.00% | ~123 |
 | Roll Out | 38.00% | ~104 |
 | Up, Up And Away! | 36.00% | ~98 |
-| Dopa-Miner | 33.00% | ~90 |
+| Dopa-Miner | 34.00% | ~93 |
 | Whoa! | 31.00% | ~85 |
 | Botropolis | 29.00% | ~79 |
 | Steam Powered | 22.00% | ~60 |

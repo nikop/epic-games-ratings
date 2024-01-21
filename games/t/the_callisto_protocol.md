@@ -1,20 +1,20 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 957)  
+Rating: 4.22 (Ranked 958)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,341 |
-| The Outer Way | 28.00% | ~6,341 |
-| Desperate Times | 26.00% | ~5,888 |
-| Paper Jams | 24.00% | ~5,435 |
+| Flesh Wound | 28.00% | ~6,342 |
+| The Outer Way | 28.00% | ~6,342 |
+| Desperate Times | 26.00% | ~5,889 |
+| Paper Jams | 24.00% | ~5,436 |
 | Get a Grip | 23.00% | ~5,209 |
-| Chew 'Em Up | 22.00% | ~4,982 |
+| Chew 'Em Up | 22.00% | ~4,983 |
 | Reforged | 21.00% | ~4,756 |
 | Float Like A Butterfly | 19.00% | ~4,303 |
-| Workplace Hazard | 18.00% | ~4,076 |
-| If the SHU Fits... | 18.00% | ~4,076 |
+| Workplace Hazard | 18.00% | ~4,077 |
+| If the SHU Fits... | 18.00% | ~4,077 |
 | Without A Paddle | 16.00% | ~3,624 |
 | In the Pipe, Five by Five | 14.00% | ~3,171 |
 | Crash Site | 14.00% | ~3,171 |
@@ -31,10 +31,10 @@ Rating: 4.22 (Ranked 957)
 | It's Time | 6.00% | ~634 |
 | In Striking Distance | 5.00% | ~1,132 |
 | One Last Job | 3.00% | ~317 |
-| Armed to the Teeth | 2.00% | ~211 |
+| Armed to the Teeth | 2.00% | ~212 |
 | Mugshot | 2.00% | ~453 |
-| Big Spender | 2.00% | ~211 |
-| This Isn't About Escape | 2.00% | ~211 |
+| Big Spender | 2.00% | ~212 |
+| This Isn't About Escape | 2.00% | ~212 |
 | Grim Reaper | 1.00% | ~226 |
 | Instigator | 1.00% | ~106 |
 | Information Overload | 1.00% | ~106 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 957)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,647 (Ranked 153)  
+Progressed: 22,649 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-18 | 22,544 | 82 |
 | 2024-01-19 | 22,569 | 82 |
 | 2024-01-20 | 22,600 | 82 |
-| 2024-01-21 | 22,647 | 82 |
+| 2024-01-21 | 22,649 | 82 |
 ## Awards
 Max (Amazing Characters): 141  (Ranked 342)  
 Sum: 681 (Ranked 317)  

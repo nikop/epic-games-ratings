@@ -26,11 +26,11 @@
 | #NewFilter | 2.00% | ~4 |
 | Pet Pet Pet | 2.00% | ~4 |
 | Pottery Connoisseur | 2.00% | ~4 |
+| Say Cheese! | 2.00% | ~4 |
 | Spray Spray Spray | 2.00% | ~4 |
 | Water Water Water | 2.00% | ~4 |
 | Balcony Optimizer | 1.00% | ~2 |
 | Food for Insects | 1.00% | ~2 |
-| Say Cheese! | 1.00% | ~2 |
 | The Best One | 1.00% | ~2 |
 | Weeds Have Feelings Too | 1.00% | ~2 |
 | Love and Science | 0.90% | ~2 |

@@ -4,8 +4,8 @@
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 487,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 486,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
     "PcReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -332,9 +332,9 @@
       "ID": "VisorGlass1",
       "SetID": "a2ci5mh",
       "Name": "Nice Glass",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 150,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     }
   ],
   "AchievementSets": [
@@ -346,8 +346,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2024-01-21T22:09:32.5101304+00:00",
+  "LastChanged_Achievements": "2024-01-21T23:09:29.0348383+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.9265749+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:03:21.1998447+00:00",
-  "LastUpdate_Achievements": "2024-01-21T22:09:32.510136+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:03:21.2901314+00:00",
+  "LastUpdate_Achievements": "2024-01-21T23:09:29.0348467+00:00"
 }

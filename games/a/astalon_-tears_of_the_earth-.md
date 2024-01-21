@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Horn prize! | 49.00% | ~44 |
+| Horn prize! | 50.00% | ~45 |
 | Beast Quest | 36.00% | ~32 |
 | Space worm! | 34.00% | ~31 |
 | Orb Gatherer | 33.00% | ~30 |
