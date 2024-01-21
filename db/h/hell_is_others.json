@@ -2,13 +2,13 @@
   "ID": "bd75186521ab40b5840774b78bb287e3",
   "Name": "Hell is Others",
   "ProductSlug": "hell-is-others-789262",
-  "Ranking_Rating": 789,
+  "Ranking_Rating": 788,
   "Ranking_Popularity": 450,
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
     "PcReleaseDate": "2022-10-20T15:00:00+00:00",
@@ -1555,9 +1555,9 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 260928,
+  "EOS_Progressed": 260929,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27930,6 +27930,11 @@
       "Time": "2024-01-21T15:05:55.1238321+00:00",
       "NumProgressed": 260928,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T16:04:53.8087665+00:00",
+      "NumProgressed": 260929,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -28229,7 +28234,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60013
+      "UsersEstimate": 60014
     },
     {
       "ID": "KillOthers2",
@@ -28388,7 +28393,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260928,
+      "Progressed": 260929,
       "Completed": 3
     }
   ],
@@ -28396,8 +28401,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-20T17:00:16.7484113+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:05:55.1238318+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:04:53.8087663+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:02:40.7789046+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:05:55.1239845+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:02:39.0108745+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:04:53.808906+00:00"
 }

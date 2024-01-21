@@ -2,10 +2,10 @@
   "ID": "9a3d3cc7c85f4664943bfe6fca977d03",
   "Name": "My Friend Peppa Pig",
   "ProductSlug": "my-friend-peppa-pig-2de0dc",
-  "Ranking_EOS_Progress": 504,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 556,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Completed": 92,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2021-10-21T23:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.21,
+  "EOS_Completed_Percentage": 4.17,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:28.924727+00:00",
@@ -191,6 +191,11 @@
       "Time": "2024-01-13T15:09:42.0556086+00:00",
       "NumProgressed": 95,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T16:10:12.3113845+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 11,
@@ -200,7 +205,7 @@
       "ID": "1",
       "SetID": "5jd5jfm",
       "Name": "Daddy\u2019s Glasses",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 80,
       "UsersEstimate": 48
     },
@@ -216,7 +221,7 @@
       "ID": "11",
       "SetID": "5jd5jfm",
       "Name": "Rocket to the Moon!",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 80,
       "UsersEstimate": 54
     },
@@ -264,15 +269,15 @@
       "ID": "7",
       "SetID": "5jd5jfm",
       "Name": "Helping Tiddles the Tortoise.",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 80,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "8",
       "SetID": "5jd5jfm",
       "Name": "The View From Windy Castle.",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 80,
       "UsersEstimate": 55
     },
@@ -280,7 +285,7 @@
       "ID": "9",
       "SetID": "5jd5jfm",
       "Name": "Always Remember To Eat Your Five!",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 200,
       "UsersEstimate": 10
     }
@@ -289,7 +294,7 @@
     {
       "ID": "5jd5jfm",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 4
     }
   ],
@@ -297,8 +302,8 @@
   "FirstSeenRating": "2023-03-31T05:57:56.0490903+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:28.9247276+00:00",
   "LastChanged": "2023-03-31T05:57:56.0490904+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:10:36.0409489+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:10:12.3113843+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.208025+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:59:04.7671553+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:10:36.0409568+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:58:24.9059611+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:10:12.3113941+00:00"
 }

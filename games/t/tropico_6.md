@@ -6,9 +6,9 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,275 |
-| Un-Lonely Island | 44.00% | ~3,179 |
-| The Beginning of a Servantship | 43.00% | ~3,107 |
+| Just One...More...Term... | 73.00% | ~5,276 |
+| Un-Lonely Island | 44.00% | ~3,180 |
+| The Beginning of a Servantship | 43.00% | ~3,108 |
 | Trade Is My Trait | 35.00% | ~2,529 |
 | Number 18 | 23.00% | ~1,662 |
 | We Don't Have Time For That | 18.00% | ~1,301 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~58 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,226 (Ranked 202)  
+Progressed: 7,227 (Ranked 202)  
 Completed: 2 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,10 +323,10 @@ Completed: 2 (0.03%) (Ranked 363)
 | 2024-01-18 | 7,193 | 2 |
 | 2024-01-19 | 7,203 | 2 |
 | 2024-01-20 | 7,216 | 2 |
-| 2024-01-21 | 7,226 | 2 |
+| 2024-01-21 | 7,227 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 374)  
-Sum: 773 (Ranked 303)  
+Sum: 775 (Ranked 303)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): 71
 | This game has Amazing Storytelling | 98 |
 | This game is Educational | 95 |
 | This game has Amazing Characters | 92 |
-| This game has a Creative Community | 72 |
+| This game has a Creative Community | 74 |
 | This game has Obsessive Gameplay | 52 |
 | This game has Diverse Characters | 46 |
 ## Ratings History
@@ -535,4 +535,4 @@ Diff (max vs sum): 71
 | 2024-01-16 | 4.64 | - | 107 | 767 |
 | 2024-01-17 | 4.64 | - | 107 | 768 |
 | 2024-01-20 | 4.64 | - | 107 | 770 |
-| 2024-01-21 | 4.64 | - | 107 | 773 |
+| 2024-01-21 | 4.64 | - | 107 | 775 |

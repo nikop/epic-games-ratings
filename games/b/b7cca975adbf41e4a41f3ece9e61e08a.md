@@ -5,26 +5,26 @@ Rating: 4.69 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,677 |
-| I Challenge You To Save More Money! | 81.00% | ~15,350 |
+| Last Night...Did We... | 88.00% | ~16,678 |
+| I Challenge You To Save More Money! | 81.00% | ~15,351 |
 | I Love How Tough You Are | 66.00% | ~12,508 |
-| Wanna Come To My Place For Dinner? | 59.00% | ~11,181 |
+| Wanna Come To My Place For Dinner? | 59.00% | ~11,182 |
 | What I Want Is You | 54.00% | ~10,234 |
-| To Be Or Not To Be | 51.00% | ~9,665 |
+| To Be Or Not To Be | 51.00% | ~9,666 |
 | Are You Alright? | 47.00% | ~8,907 |
-| Love Actually | 42.00% | ~7,959 |
-| Drama King | 36.00% | ~6,822 |
+| Love Actually | 42.00% | ~7,960 |
+| Drama King | 36.00% | ~6,823 |
 | Go Clean up In Your Own Way | 33.00% | ~6,254 |
-| Drama CP: Reel to Real | 32.00% | ~6,064 |
-| You're Really Something Else | 32.00% | ~6,064 |
+| Drama CP: Reel to Real | 32.00% | ~6,065 |
+| You're Really Something Else | 32.00% | ~6,065 |
 | FIRST LOVE | 31.00% | ~5,875 |
 | Worthless Speech | 31.00% | ~5,875 |
-| Happy Family | 30.00% | ~5,685 |
+| Happy Family | 30.00% | ~5,686 |
 | Absolutely Elegant | 29.00% | ~5,496 |
-| Still Single | 28.00% | ~5,306 |
-| ONE PUNCH | 28.00% | ~5,306 |
-| Days Of Innocence | 26.00% | ~4,927 |
-| David | 26.00% | ~4,927 |
+| Still Single | 28.00% | ~5,307 |
+| ONE PUNCH | 28.00% | ~5,307 |
+| Days Of Innocence | 26.00% | ~4,928 |
+| David | 26.00% | ~4,928 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,738 |
 | All I Have Is Money | 22.00% | ~4,169 |
 | A Slap In The Face! | 22.00% | ~4,169 |
@@ -48,7 +48,7 @@ Rating: 4.69 (Ranked 241)
 | Tall; Grande; Venti | 2.00% | ~379 |
 | Limerence | 2.00% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,951 (Ranked 162)  
+Progressed: 18,952 (Ranked 162)  
 Completed: 336 (1.77%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,10 +154,10 @@ Completed: 336 (1.77%) (Ranked 148)
 | 2024-01-18 | 18,810 | 336 |
 | 2024-01-19 | 18,859 | 336 |
 | 2024-01-20 | 18,910 | 336 |
-| 2024-01-21 | 18,951 | 336 |
+| 2024-01-21 | 18,952 | 336 |
 ## Awards
-Max (Impact the Story): 40  (Ranked 488)  
-Sum: 40 (Ranked 529)  
+Max (Impact the Story): 40  (Ranked 489)  
+Sum: 40 (Ranked 530)  
 Diff (max vs sum): -41  
 | Award | Count |
 | ----- | ----- |

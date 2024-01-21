@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,7 +18,7 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1395,
+  "EOS_Progressed": 1396,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -4593,6 +4593,11 @@
       "Time": "2024-01-21T15:10:40.2505294+00:00",
       "NumProgressed": 1395,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T16:10:15.4715164+00:00",
+      "NumProgressed": 1396,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4605,7 +4610,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "achievement_10",
@@ -4637,7 +4642,7 @@
       "Name": "Karakuri Fortress",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 168
     },
     {
       "ID": "achievement_14",
@@ -4669,7 +4674,7 @@
       "Name": "Master of the Skies",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 460
+      "UsersEstimate": 461
     },
     {
       "ID": "achievement_18",
@@ -4677,7 +4682,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "achievement_19",
@@ -4685,7 +4690,7 @@
       "Name": "Counter Specialist",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 488
+      "UsersEstimate": 489
     },
     {
       "ID": "achievement_2",
@@ -4747,9 +4752,9 @@
       "ID": "achievement_26",
       "SetID": "2cpn27e",
       "Name": "Vanquisher of the Volatile",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 80,
-      "UsersEstimate": 84
+      "UsersEstimate": 98
     },
     {
       "ID": "achievement_27",
@@ -4845,7 +4850,7 @@
       "Name": "Hidden History",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1004
+      "UsersEstimate": 1005
     },
     {
       "ID": "achievement_38",
@@ -4869,7 +4874,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "achievement_40",
@@ -4957,7 +4962,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "achievement_7",
@@ -4965,7 +4970,7 @@
       "Name": "Budding Conjuror",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "achievement_8",
@@ -4988,13 +4993,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1395,
+      "Progressed": 1396,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:10:40.2505292+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:10:15.4715162+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:00:40.3858059+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:10:40.2505892+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:59:29.3246836+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:10:15.4715607+00:00"
 }

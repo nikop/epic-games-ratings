@@ -3,12 +3,12 @@
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
   "Ranking_Rating": 551,
-  "Ranking_Popularity": 510,
+  "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4829,
+  "EOS_Progressed": 4830,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8604,6 +8604,11 @@
       "Time": "2024-01-21T11:06:22.8171358+00:00",
       "NumProgressed": 4829,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T16:08:23.4335414+00:00",
+      "NumProgressed": 4830,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8647,7 +8652,7 @@
       "Name": "Blood and justice",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "CordonBleu_28",
@@ -8815,7 +8820,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8871,7 +8876,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -8885,9 +8890,9 @@
       "ID": "ThePowerofFreedom_3",
       "SetID": "c4hee28",
       "Name": "The Power of Freedom",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 386
+      "UsersEstimate": 435
     },
     {
       "ID": "TheStuffOfLegends",
@@ -8895,7 +8900,7 @@
       "Name": "The stuff of legends.",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "TheyllTellStoriesAboutThis_35",
@@ -8935,7 +8940,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3477
+      "UsersEstimate": 3478
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8950,15 +8955,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4829,
+      "Progressed": 4830,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:08:03.1887415+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:08:23.4335411+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:03:34.7321451+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:08:03.1888131+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:03:15.6910818+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:08:23.4335973+00:00"
 }

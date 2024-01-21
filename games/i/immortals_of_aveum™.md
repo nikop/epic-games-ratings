@@ -25,7 +25,7 @@ Rating: 4.20 (Ranked 971)
 | Geas Aristeya | 17.00% | ~605 |
 | A Perfect Cycle | 16.00% | ~569 |
 | Recruit | 16.00% | ~569 |
-| Armsman | 13.00% | ~463 |
+| Armsman | 14.00% | ~498 |
 | Lights Army | 12.00% | ~427 |
 | Periapt Cerulean | 9.00% | ~320 |
 | Good Boy | 9.00% | ~320 |
@@ -170,8 +170,8 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-20 | 3,546 | 5 |
 | 2024-01-21 | 3,559 | 5 |
 ## Awards
-Max (Quickly Understood Controls): 23  (Ranked 564)  
-Sum: 43 (Ranked 524)  
+Max (Quickly Understood Controls): 23  (Ranked 565)  
+Sum: 43 (Ranked 525)  
 Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |

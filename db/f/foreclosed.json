@@ -4,8 +4,8 @@
   "ProductSlug": "foreclosed",
   "Ranking_EOS_Progress": 462,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 556,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 489,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
     "PcReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 156,
+  "EOS_Progressed": 157,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.56,
+  "EOS_Completed_Percentage": 2.55,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -474,6 +474,11 @@
       "Time": "2024-01-14T21:03:55.4145874+00:00",
       "NumProgressed": 156,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T16:08:43.3341549+00:00",
+      "NumProgressed": 157,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -507,9 +512,9 @@
       "ID": "ClubTurretsHack",
       "SetID": "9e3d06k",
       "Name": "Sapper",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "EnemyDefeat_0",
@@ -549,15 +554,15 @@
       "Name": "A.I. Training",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GunUnlock",
       "SetID": "9e3d06k",
       "Name": "Symbiotic Weapon",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 80
+      "UsersEstimate": 82
     },
     {
       "ID": "Headshots_0",
@@ -579,9 +584,9 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "LiftEnemies_0",
@@ -589,7 +594,7 @@
       "Name": "Lifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "LiftEnemies_1",
@@ -611,9 +616,9 @@
       "ID": "SecondAutoSkillUnlock",
       "SetID": "9e3d06k",
       "Name": "Silent Overload",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 90
+      "UsersEstimate": 93
     },
     {
       "ID": "SecretEnding",
@@ -637,7 +642,7 @@
       "Name": "Brain-hacker",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "StoryEnd",
@@ -676,7 +681,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 156,
+      "Progressed": 157,
       "Completed": 4
     }
   ],
@@ -684,8 +689,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:08:31.7134976+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:08:43.3341545+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:20.1319416+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:57:45.3565585+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:08:31.7135173+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:57:33.9396305+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:08:43.3341745+00:00"
 }

@@ -1,30 +1,30 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 903)  
+Rating: 4.28 (Ranked 905)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 45.00% | ~123 |
+| Entrepreneur | 45.00% | ~124 |
 | Best Buddy | 39.00% | ~107 |
 | Role Model | 36.00% | ~99 |
 | Civilian | 36.00% | ~99 |
-| Creator | 33.00% | ~90 |
+| Creator | 33.00% | ~91 |
 | Military Leader | 31.00% | ~85 |
-| Festival-goer | 29.00% | ~79 |
-| Peddler | 26.00% | ~71 |
-| Commander | 26.00% | ~71 |
+| Festival-goer | 29.00% | ~80 |
+| Peddler | 26.00% | ~72 |
+| Commander | 26.00% | ~72 |
 | Irissa's Fate | 22.00% | ~60 |
 | Long-Haul Flyer | 21.00% | ~58 |
 | Family Reunion | 20.00% | ~55 |
 | Pass A38 | 19.00% | ~52 |
-| Eternal Oblivion | 18.00% | ~49 |
+| Eternal Oblivion | 18.00% | ~50 |
 | Banker | 17.00% | ~47 |
 | Globetrotter | 16.00% | ~44 |
 | Berserker | 16.00% | ~44 |
 | Storyteller | 15.00% | ~41 |
-| Alb | 12.00% | ~33 |
+| Alb | 13.00% | ~36 |
 | Hunter | 12.00% | ~33 |
 | Beam Me Up | 11.00% | ~30 |
 | Free as a Bird | 11.00% | ~30 |
@@ -41,9 +41,9 @@ Number of Ratings: 124  (23.09.2022)
 | Idealist | 4.00% | ~11 |
 | Legendary | 4.00% | ~11 |
 | Morkon | 3.00% | ~8 |
-| Toy Time | 2.00% | ~5 |
-| Defector | 2.00% | ~5 |
-| Outlaw | 2.00% | ~5 |
+| Toy Time | 2.00% | ~6 |
+| Defector | 2.00% | ~6 |
+| Outlaw | 2.00% | ~6 |
 | Pack Rat | 1.00% | ~3 |
 | Destroyer | 1.00% | ~3 |
 | Ruthless | 0.70% | ~2 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 274 (Ranked 418)  
+Progressed: 275 (Ranked 417)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 263 | 0 |
 | 2024-01-19 | 266 | 0 |
 | 2024-01-20 | 272 | 0 |
-| 2024-01-21 | 274 | 0 |
+| 2024-01-21 | 275 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

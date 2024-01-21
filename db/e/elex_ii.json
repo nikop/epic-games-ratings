@@ -2,13 +2,13 @@
   "ID": "75c06d52a99942e9884a47deced106bb",
   "Name": "ELEX II",
   "ProductSlug": "elex-ii",
-  "Ranking_Rating": 903,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 418,
+  "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,7 +577,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 274,
+  "EOS_Progressed": 275,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 0,
@@ -1672,6 +1672,11 @@
       "Time": "2024-01-21T14:04:53.6405778+00:00",
       "NumProgressed": 274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T16:05:08.6405348+00:00",
+      "NumProgressed": 275,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1700,7 +1705,7 @@
       "Name": "Entrepreneur",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "100HEALS",
@@ -1748,7 +1753,7 @@
       "Name": "Peddler",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1868,7 +1873,7 @@
       "Name": "Toy Time",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHOSEABT",
@@ -1876,15 +1881,15 @@
       "Name": "Defector",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CHOSEALB",
       "SetID": "a1angca",
       "Name": "Alb",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "CHOSEBSK",
@@ -1916,7 +1921,7 @@
       "Name": "Outlaw",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "CONSTRUCTION",
@@ -1924,7 +1929,7 @@
       "Name": "Creator",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 90
+      "UsersEstimate": 91
     },
     {
       "ID": "DESTRUCTION",
@@ -1948,7 +1953,7 @@
       "Name": "Commander",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 71
+      "UsersEstimate": 72
     },
     {
       "ID": "FINDBILLY",
@@ -1956,7 +1961,7 @@
       "Name": "Festival-goer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "FINDCITY",
@@ -2068,7 +2073,7 @@
       "Name": "Eternal Oblivion",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "LOVECAJA",
@@ -2083,15 +2088,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 274,
+      "Progressed": 275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:06:16.4227594+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:05:08.6405345+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:00:03.0837616+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:06:16.4228379+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:59:04.4244778+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:05:08.6405703+00:00"
 }

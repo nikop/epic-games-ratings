@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11056,10 +11056,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21798,
       "NumberOfAwardsMax": 8057
+    },
+    {
+      "Time": "2024-01-21T15:58:26.0019046+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21801,
+      "NumberOfAwardsMax": 8057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21798,
+  "NumberOfAwards": 21801,
   "NumberOfAwardsMax": 8057,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11103,7 +11109,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1539
+      "Count": 1542
     },
     {
       "Text": "This game has Diverse Characters",
@@ -11136,9 +11142,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133398,
+  "EOS_Progressed": 133405,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 614,
+  "EOS_NewPlayers": 615,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40916,6 +40922,11 @@
       "Time": "2024-01-21T15:11:04.1884309+00:00",
       "NumProgressed": 133398,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T16:10:33.2770887+00:00",
+      "NumProgressed": 133405,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41463,7 +41474,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "combat_kill_collector",
@@ -41527,7 +41538,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 744
+      "UsersEstimate": 745
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41535,7 +41546,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 413
+      "UsersEstimate": 414
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41558,21 +41569,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133398,
+      "Progressed": 133405,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8267,
+      "Progressed": 8274,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-21T08:59:07.4501183+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:11:04.1884306+00:00",
+  "LastChanged": "2024-01-21T15:58:26.0019044+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:10:33.2770886+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:59:06.2583715+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:11:04.1886531+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:58:26.001905+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:10:33.277256+00:00"
 }

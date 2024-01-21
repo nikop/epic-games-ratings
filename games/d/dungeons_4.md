@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.73 (Ranked 184)  
+Rating: 4.73 (Ranked 185)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.73 (Ranked 184)
 | Thalya – Simply Immortal | 88.00% | ~687 |
 | For the Horde! | 82.00% | ~640 |
 | Hammer Time, Round Two | 81.00% | ~633 |
-| The Hellwoods | 76.00% | ~594 |
+| The Hellwoods | 77.00% | ~601 |
 | The Plains of Strothalm | 72.00% | ~562 |
 | Experienced Thalya | 72.00% | ~562 |
 | Bad Elves Go Everywhere | 70.00% | ~547 |
@@ -57,10 +57,10 @@ Rating: 4.73 (Ranked 184)
 | To the Max! | 20.00% | ~156 |
 | Evilification | 20.00% | ~156 |
 | My Little Torture Chamber | 19.00% | ~148 |
+| Heal Heal Blessing | 19.00% | ~148 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~141 |
 | Mirror, Mirror | 18.00% | ~141 |
 | Untouchable | 18.00% | ~141 |
-| Heal Heal Blessing | 18.00% | ~141 |
 | Laser Eyes Are So Useless | 15.00% | ~117 |
 | Hands Off My Stones | 15.00% | ~117 |
 | Gorgu is in the Best of Health | 13.00% | ~102 |

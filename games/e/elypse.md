@@ -13,7 +13,7 @@
 | Masochistic | 54.00% | ~76 |
 | Soft skin | 50.00% | ~70 |
 | Splash! | 49.00% | ~69 |
-| Squid game | 42.00% | ~59 |
+| Squid game | 43.00% | ~61 |
 | Rock Solid | 34.00% | ~48 |
 | Sensitive soul | 34.00% | ~48 |
 | The beast within | 33.00% | ~47 |

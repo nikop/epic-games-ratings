@@ -2,10 +2,10 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Progress": 507,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 382,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 369,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 92,
+  "EOS_Progressed": 93,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.52,
+  "EOS_Completed_Percentage": 6.45,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -510,6 +510,11 @@
       "Time": "2024-01-21T08:04:15.4596728+00:00",
       "NumProgressed": 92,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T16:04:23.3794907+00:00",
+      "NumProgressed": 93,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -536,7 +541,7 @@
       "ID": "BeatBossNaka",
       "SetID": "123m9l1",
       "Name": "Killing Machine",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 100,
       "UsersEstimate": 43
     },
@@ -544,7 +549,7 @@
       "ID": "BeatBossShimada",
       "SetID": "123m9l1",
       "Name": "Final Showdown",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 100,
       "UsersEstimate": 33
     },
@@ -560,7 +565,7 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 100,
       "UsersEstimate": 56
     },
@@ -576,7 +581,7 @@
       "ID": "ClarifyRumors",
       "SetID": "123m9l1",
       "Name": "Dispel Rumors",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
       "UsersEstimate": 31
     },
@@ -600,7 +605,7 @@
       "ID": "FanOfYang",
       "SetID": "123m9l1",
       "Name": "The Real O.G.",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 5,
       "UsersEstimate": 19
     },
@@ -608,7 +613,7 @@
       "ID": "FinishTheGame",
       "SetID": "123m9l1",
       "Name": "The End of an Outlaw",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
       "UsersEstimate": 33
     },
@@ -618,7 +623,7 @@
       "Name": "Hero Arrives",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "HardcorePlayer",
@@ -632,7 +637,7 @@
       "ID": "Legendary",
       "SetID": "123m9l1",
       "Name": "The Legend",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 110,
       "UsersEstimate": 6
     },
@@ -729,7 +734,7 @@
     {
       "ID": "123m9l1",
       "IsBase": true,
-      "Progressed": 92,
+      "Progressed": 93,
       "Completed": 6
     }
   ],
@@ -737,8 +742,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:05:12.1402348+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:04:23.3794904+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.1588271+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:02:45.3613781+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:05:12.1402564+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:02:42.4518132+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:04:23.379511+00:00"
 }

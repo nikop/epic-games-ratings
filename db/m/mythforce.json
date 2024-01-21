@@ -3,7 +3,7 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 669,
-  "Ranking_Popularity": 504,
+  "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 326,
@@ -872,9 +872,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6440,
+  "EOS_Progressed": 6441,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13587,6 +13587,11 @@
       "Time": "2024-01-21T15:06:13.7645903+00:00",
       "NumProgressed": 6440,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T16:05:06.7386932+00:00",
+      "NumProgressed": 6441,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13599,7 +13604,7 @@
       "Name": "Cold-Blooded Critters",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 708
+      "UsersEstimate": 709
     },
     {
       "ID": "MF_Ach_DeadalusAndLovingIt",
@@ -13735,7 +13740,7 @@
       "Name": "Perk Shard Punch Card",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "MF_Ach_SeasonFinale",
@@ -13767,7 +13772,7 @@
       "Name": "That\u0027ll Leave a Mark",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "MF_Ach_VexedHer",
@@ -13782,15 +13787,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6440,
+      "Progressed": 6441,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-19T17:58:27.7315829+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:06:13.76459+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:05:06.7386929+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:00:42.8050241+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:06:13.7646696+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:59:31.0506574+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:05:06.7387672+00:00"
 }

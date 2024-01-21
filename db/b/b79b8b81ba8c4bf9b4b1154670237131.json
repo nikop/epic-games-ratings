@@ -197,7 +197,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16836,
+  "EOS_Progressed": 16837,
   "EOS_Completed": 16,
   "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
@@ -7137,6 +7137,11 @@
       "Time": "2024-01-21T14:09:35.6504553+00:00",
       "NumProgressed": 16836,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-21T16:10:09.1955028+00:00",
+      "NumProgressed": 16837,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7181,7 +7186,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12627
+      "UsersEstimate": 12628
     },
     {
       "ID": "ACH_AE_14",
@@ -7229,7 +7234,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2525
+      "UsersEstimate": 2526
     },
     {
       "ID": "ACH_AE_2",
@@ -7428,7 +7433,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16836,
+      "Progressed": 16837,
       "Completed": 16
     }
   ],
@@ -7436,8 +7441,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:10:31.6915473+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:10:09.1955027+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:57:52.7847419+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:10:31.6916096+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:57:38.7030574+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:10:09.1955681+00:00"
 }

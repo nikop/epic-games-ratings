@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend | 58.00% | ~49 |
+| The Legend | 57.00% | ~49 |
 | The Remains of Fleed | 56.00% | ~48 |
 | Life of Pi | 56.00% | ~48 |
 | Strength in Defeat | 49.00% | ~42 |
@@ -23,9 +23,9 @@
 | A Land of Peace | 6.00% | ~5 |
 | A Good Paint Job | 6.00% | ~5 |
 | You can't fool me! | 6.00% | ~5 |
-| Iron Fist | 4.00% | ~3 |
-| The Completionist | 4.00% | ~3 |
-| The Space Hydra | 4.00% | ~3 |
+| Iron Fist | 3.00% | ~3 |
+| The Completionist | 3.00% | ~3 |
+| The Space Hydra | 3.00% | ~3 |
 | The Royal Guard | 2.00% | ~2 |
 | The Power of Friendship | 1.00% | ~1 |
 | Saucer Beast Unchained | 1.00% | ~1 |
@@ -35,7 +35,7 @@
 | Vengeance of the Wolf | 1.00% | ~1 |
 | The Fire Cannons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 85 (Ranked 520)  
+Progressed: 86 (Ranked 518)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -73,3 +73,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-14 | 83 | 0 |
 | 2024-01-17 | 84 | 0 |
 | 2024-01-20 | 85 | 0 |
+| 2024-01-21 | 86 | 0 |

@@ -1,7 +1,7 @@
 # 9Lives Arena
 [Store](https://store.epicgames.com/en-US/p/9lives-arena-fb6229)  
 [View Rawdata](../../db/9/9lives_arena.json)  
-Rating: 4.43 (Ranked 730)  
+Rating: 4.36 (Ranked 823)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -11,7 +11,7 @@ Rating: 4.43 (Ranked 730)
 | Epic Angler Trophy | 0.00% | ~0 |
 | Silver Angler Trophy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,375 (Ranked 216)  
+Progressed: 4,378 (Ranked 216)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -48,14 +48,14 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 4,202 | 0 |
 | 2024-01-19 | 4,268 | 0 |
 | 2024-01-20 | 4,339 | 0 |
-| 2024-01-21 | 4,375 | 0 |
+| 2024-01-21 | 4,378 | 0 |
 ## Awards
-Max (Character Customization): 20  (Ranked 583)  
-Sum: 20 (Ranked 584)  
-Diff (max vs sum): -1  
+Max (Character Customization): 21  (Ranked 578)  
+Sum: 21 (Ranked 581)  
+Diff (max vs sum): -3  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 20 |
+| This game has Inclusive Character Customization | 21 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -70,3 +70,4 @@ Diff (max vs sum): -1
 | 2024-01-16 | 4.38 | 0 | 0 |
 | 2024-01-19 | 4.42 | 20 | 20 |
 | 2024-01-20 | 4.43 | 20 | 20 |
+| 2024-01-21 | 4.36 | 21 | 21 |

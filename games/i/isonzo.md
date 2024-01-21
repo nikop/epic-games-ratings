@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 19.00% | ~1,904 |
 | The Italian Job | 19.00% | ~1,904 |
 | Veni Vidi Vici | 19.00% | ~1,904 |
-| Ragazzi del '99 | 17.00% | ~1,704 |
+| Ragazzi del '99 | 18.00% | ~1,804 |
 | Luigi Cadorna | 16.00% | ~1,603 |
 | The Lion of the Isonzo | 14.00% | ~1,403 |
 | Shaken, Not Stirred | 13.00% | ~1,303 |
@@ -324,9 +324,9 @@ Completed: 10 (0.10%) (Ranked 319)
 | 2024-01-20 | 10,011 | 10 |
 | 2024-01-21 | 10,021 | 10 |
 ## Awards
-Max (Diverse Characters): 44  (Ranked 481)  
+Max (Diverse Characters): 44  (Ranked 482)  
 Sum: 344 (Ranked 371)  
-Diff (max vs sum): 110  
+Diff (max vs sum): 111  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 44 |

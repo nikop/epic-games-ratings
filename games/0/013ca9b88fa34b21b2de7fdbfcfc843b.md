@@ -7,7 +7,7 @@ Rating: 4.65 (Ranked 324)
 | ---- | ---------- | ----- |
 | Azoria Beckons | 6.00% | ~549 |
 | A Thorny Situation | 6.00% | ~549 |
-| ... And Spit Back Out | 5.00% | ~457 |
+| ... And Spit Back Out | 5.00% | ~458 |
 | Miner 49er | 4.00% | ~366 |
 | Break-Net Speed | 4.00% | ~366 |
 | Bramble Breaker | 4.00% | ~366 |
@@ -22,11 +22,11 @@ Rating: 4.65 (Ranked 324)
 | Oui, Chef! | 2.00% | ~183 |
 | Botanical Breakthrough | 2.00% | ~183 |
 | Exit Through The Gift Shop | 2.00% | ~35 |
-| Flaming Hot Completos | 1.00% | ~91 |
-| Beach Comber | 1.00% | ~91 |
-| Rumble in the Jumble | 1.00% | ~91 |
-| Azorian Anniversary | 1.00% | ~91 |
-| Skilled | 1.00% | ~91 |
+| Flaming Hot Completos | 1.00% | ~92 |
+| Beach Comber | 1.00% | ~92 |
+| Rumble in the Jumble | 1.00% | ~92 |
+| Azorian Anniversary | 1.00% | ~92 |
+| Skilled | 1.00% | ~92 |
 | Fae Farmer | 0.90% | ~82 |
 | Got to Catch Them All | 0.90% | ~82 |
 | Scattered Scroll Scrounger | 0.90% | ~82 |
@@ -49,7 +49,7 @@ Rating: 4.65 (Ranked 324)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,149 (Ranked 190)  
+Progressed: 9,150 (Ranked 190)  
 Completed: 1 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 1 (0.01%) (Ranked 383)
 | 2024-01-18 | 9,124 | 1 |
 | 2024-01-19 | 9,134 | 1 |
 | 2024-01-20 | 9,139 | 1 |
-| 2024-01-21 | 9,149 | 1 |
+| 2024-01-21 | 9,150 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

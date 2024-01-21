@@ -3,12 +3,12 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 34,
-  "Ranking_Popularity": 501,
-  "Ranking_PopularitySum": 537,
+  "Ranking_Popularity": 503,
+  "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -285,9 +285,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17553,
+  "EOS_Progressed": 17554,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 416,
+  "EOS_NewPlayers": 413,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12945,6 +12945,11 @@
       "Time": "2024-01-21T15:06:16.3879604+00:00",
       "NumProgressed": 17553,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T16:05:08.6875008+00:00",
+      "NumProgressed": 17554,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12956,7 +12961,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9654
+      "UsersEstimate": 9655
     },
     {
       "ID": "Ach002",
@@ -12988,7 +12993,7 @@
       "Name": "Headliner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2457
+      "UsersEstimate": 2458
     },
     {
       "ID": "Ach006",
@@ -13196,7 +13201,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "Ach032",
@@ -13324,7 +13329,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7372
+      "UsersEstimate": 7373
     },
     {
       "ID": "Ach048",
@@ -13332,7 +13337,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5090
+      "UsersEstimate": 5091
     },
     {
       "ID": "Ach049",
@@ -13356,7 +13361,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8952
+      "UsersEstimate": 8953
     },
     {
       "ID": "Ach052",
@@ -13452,7 +13457,7 @@
       "Name": "Call me Turbo Chai",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "Ach064",
@@ -13523,13 +13528,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17553,
+      "Progressed": 17554,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16074,
+      "Progressed": 16075,
       "Completed": 1931
     }
   ],
@@ -13537,8 +13542,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:06:16.3879602+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:05:08.6875007+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:59:52.8326038+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:06:16.388075+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:58:58.2693198+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:05:08.6876047+00:00"
 }

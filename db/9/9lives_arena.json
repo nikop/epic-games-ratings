@@ -2,13 +2,13 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 730,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Rating": 823,
+  "Ranking_Popularity": 578,
+  "Ranking_PopularitySum": 581,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-27T15:00:00+00:00",
     "PcReleaseDate": "2023-12-27T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "false"
     }
   },
-  "Rating": 4.43,
+  "Rating": 4.36,
   "RatingHistory": [
     {
       "Time": "2024-01-06T12:01:38.2851424+00:00",
@@ -113,23 +113,29 @@
       "Rating": 4.43,
       "NumberOfAwards": 20,
       "NumberOfAwardsMax": 20
+    },
+    {
+      "Time": "2024-01-21T16:02:49.6533073+00:00",
+      "Rating": 4.36,
+      "NumberOfAwards": 21,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 20,
-  "NumberOfAwardsMax": 20,
+  "NumberOfAwards": 21,
+  "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 20
+      "Count": 21
     }
   ],
-  "EOS_Progressed": 4375,
+  "EOS_Progressed": 4378,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 463,
+  "EOS_NewPlayers": 458,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3137,6 +3143,11 @@
       "Time": "2024-01-21T15:05:02.8989559+00:00",
       "NumProgressed": 4375,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T16:04:16.7384663+00:00",
+      "NumProgressed": 4378,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -3188,16 +3199,16 @@
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 4375,
+      "Progressed": 4378,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-27T16:00:11.4368103+00:00",
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
-  "LastChanged": "2024-01-20T04:00:07.5089007+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:05:02.8989553+00:00",
+  "LastChanged": "2024-01-21T16:02:49.6533072+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:04:16.738466+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:49.9220174+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:02:57.1045639+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:05:02.8989784+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:02:49.6533076+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:04:16.7384859+00:00"
 }

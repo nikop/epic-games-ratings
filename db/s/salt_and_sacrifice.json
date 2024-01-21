@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 221,
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 143,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 86,
+  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -2059,9 +2059,9 @@
       "Count": 51
     }
   ],
-  "EOS_Progressed": 68370,
+  "EOS_Progressed": 68371,
   "EOS_Completed": 1295,
-  "EOS_NewPlayers": 106,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 1.89,
   "EosHistory": [
@@ -17434,6 +17434,11 @@
       "Time": "2024-01-21T12:05:42.8615098+00:00",
       "NumProgressed": 68370,
       "NumCompleted": 1295
+    },
+    {
+      "Time": "2024-01-21T16:05:56.2125885+00:00",
+      "NumProgressed": 68371,
+      "NumCompleted": 1295
     }
   ],
   "TotalAchievements": 53,
@@ -17445,7 +17450,7 @@
       "Name": "The Aeromancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44440
+      "UsersEstimate": 44441
     },
     {
       "ID": "area_copse",
@@ -17469,7 +17474,7 @@
       "Name": "The Swamp",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 34185
+      "UsersEstimate": 34186
     },
     {
       "ID": "area_wastes",
@@ -17477,7 +17482,7 @@
       "Name": "The Wastes",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 56747
+      "UsersEstimate": 56748
     },
     {
       "ID": "bibliomancer",
@@ -17485,7 +17490,7 @@
       "Name": "The Bibliomancer",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 17092
+      "UsersEstimate": 17093
     },
     {
       "ID": "bluedragon",
@@ -17501,7 +17506,7 @@
       "Name": "The Chronomancer",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 21878
+      "UsersEstimate": 21879
     },
     {
       "ID": "corpumancer",
@@ -17509,7 +17514,7 @@
       "Name": "The Corpumancer",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 28715
+      "UsersEstimate": 28716
     },
     {
       "ID": "crafting_all_replenish_found",
@@ -17525,7 +17530,7 @@
       "Name": "Top Shelf",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 3418
+      "UsersEstimate": 3419
     },
     {
       "ID": "crafting_first_craft",
@@ -17533,7 +17538,7 @@
       "Name": "Waste Not",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 54696
+      "UsersEstimate": 54697
     },
     {
       "ID": "crafting_first_replenish",
@@ -17549,7 +17554,7 @@
       "Name": "Want Not",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 15041
+      "UsersEstimate": 15042
     },
     {
       "ID": "cryomancer",
@@ -17557,7 +17562,7 @@
       "Name": "The Cryomancer",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 51961
+      "UsersEstimate": 51962
     },
     {
       "ID": "diablomancer",
@@ -17565,7 +17570,7 @@
       "Name": "The Diablomancer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 15041
+      "UsersEstimate": 15042
     },
     {
       "ID": "dracomancer",
@@ -17589,7 +17594,7 @@
       "Name": "The Champion",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 61533
+      "UsersEstimate": 61534
     },
     {
       "ID": "end_climb",
@@ -17653,7 +17658,7 @@
       "Name": "Shroud Alliance",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 26664
+      "UsersEstimate": 26665
     },
     {
       "ID": "firelord",
@@ -17677,7 +17682,7 @@
       "Name": "The Hag",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 30766
+      "UsersEstimate": 30767
     },
     {
       "ID": "huntsman",
@@ -17685,7 +17690,7 @@
       "Name": "The Huntsman",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 44440
+      "UsersEstimate": 44441
     },
     {
       "ID": "hydromancer",
@@ -17693,7 +17698,7 @@
       "Name": "The Hydromancer",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 49910
+      "UsersEstimate": 49911
     },
     {
       "ID": "kinetomancer",
@@ -17741,7 +17746,7 @@
       "Name": "The Necromancer",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 35552
+      "UsersEstimate": 35553
     },
     {
       "ID": "neuromancer",
@@ -17789,7 +17794,7 @@
       "Name": "The Pyromancer",
       "Percentage": 86,
       "XP": 10,
-      "UsersEstimate": 58798
+      "UsersEstimate": 58799
     },
     {
       "ID": "queen",
@@ -17797,7 +17802,7 @@
       "Name": "The Matriarch",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 47859
+      "UsersEstimate": 47860
     },
     {
       "ID": "sanguimancer",
@@ -17813,7 +17818,7 @@
       "Name": "The Skylord",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17092
+      "UsersEstimate": 17093
     },
     {
       "ID": "terramancer",
@@ -17821,7 +17826,7 @@
       "Name": "The Terramancer",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 40338
+      "UsersEstimate": 40339
     },
     {
       "ID": "thaumamancer",
@@ -17861,22 +17866,22 @@
       "Name": "The Venomancer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 44440
+      "UsersEstimate": 44441
     }
   ],
   "AchievementSets": [
     {
       "ID": "2jelldm",
       "IsBase": true,
-      "Progressed": 68370,
+      "Progressed": 68371,
       "Completed": 1295
     }
   ],
   "FirstSeen": "2022-07-22T20:23:45.0965926+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:04.986715+00:00",
   "LastChanged": "2024-01-20T23:58:20.1528856+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:07:23.9592379+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:05:56.2125883+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:28.2553492+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:58:23.2254331+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:07:23.9593588+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:57:58.233018+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:05:56.2126808+00:00"
 }

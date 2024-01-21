@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 307,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 303,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -3016,6 +3016,11 @@
       "Time": "2024-01-21T11:10:38.1215773+00:00",
       "NumProgressed": 927,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T16:10:33.698581+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -3075,7 +3080,7 @@
       "Name": "Devoted",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "EyeSpy",
@@ -3282,7 +3287,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 1
     }
   ],
@@ -3290,8 +3295,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:11:04.7049203+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:10:33.6985806+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:34.434764+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:58:42.6262447+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:11:04.7049538+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:58:11.3220646+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:10:33.6986063+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
   "Ranking_Rating": 358,
-  "Ranking_Popularity": 483,
+  "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 232,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7281,
+  "EOS_Progressed": 7282,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11404,6 +11404,11 @@
       "Time": "2024-01-21T11:05:08.9506304+00:00",
       "NumProgressed": 7281,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T16:05:10.0183891+00:00",
+      "NumProgressed": 7282,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11631,7 +11636,7 @@
       "Name": "In a Liege of Your Own",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "35",
@@ -11894,13 +11899,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7281,
+      "Progressed": 7282,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7281,
+      "Progressed": 7282,
       "Completed": 8
     }
   ],
@@ -11908,8 +11913,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:06:18.2146736+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:05:10.0183889+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:01:08.4079264+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:06:18.2147534+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:59:47.9603093+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:05:10.0184774+00:00"
 }

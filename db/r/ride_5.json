@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 213,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 211,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3664,
+  "EOS_Progressed": 3666,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 69,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9155,6 +9155,11 @@
       "Time": "2024-01-21T15:07:33.1980767+00:00",
       "NumProgressed": 3664,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T16:06:02.6306611+00:00",
+      "NumProgressed": 3666,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9167,7 +9172,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1685
+      "UsersEstimate": 1686
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9199,7 +9204,7 @@
       "Name": "Restored and Ready",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ML_ACHIEVEMENT_06",
@@ -9223,7 +9228,7 @@
       "Name": "I Want One Too!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 806
+      "UsersEstimate": 807
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9231,7 +9236,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 366
+      "UsersEstimate": 367
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -9255,7 +9260,7 @@
       "Name": "Legendary!!!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 769
+      "UsersEstimate": 770
     },
     {
       "ID": "ML_ACHIEVEMENT_13",
@@ -9367,7 +9372,7 @@
       "Name": "Evangelist",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ML_ACHIEVEMENT_27",
@@ -9375,7 +9380,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1649
+      "UsersEstimate": 1650
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9463,7 +9468,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1832
+      "UsersEstimate": 1833
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9471,7 +9476,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9558,7 +9563,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3664,
+      "Progressed": 3666,
       "Completed": 0
     }
   ],
@@ -9566,8 +9571,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:07:33.1980764+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:06:02.6306608+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:01:38.3074226+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:07:33.1981639+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:00:07.5180038+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:06:02.6307528+00:00"
 }

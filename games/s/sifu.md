@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,733 |
+| The Old Grandmaster | 6.00% | ~45,734 |
 | The Assault | 5.00% | ~38,111 |
 | Life is your teacher | 5.00% | ~38,111 |
 | Lightning Hands | 5.00% | ~38,111 |
@@ -16,17 +16,17 @@ Number of Ratings: 9,492  (23.09.2022)
 | State of constant learning | 3.00% | ~22,867 |
 | Qi Gong: Essence | 3.00% | ~22,867 |
 | Old Child | 3.00% | ~22,867 |
-| A Lady's Blood in the Snow | 2.00% | ~15,244 |
-| Lady Wing Chun | 2.00% | ~15,244 |
-| Furious Fists | 2.00% | ~15,244 |
-| Kill Nil | 2.00% | ~15,244 |
-| Qi Gong: Mind | 2.00% | ~15,244 |
-| Qi Gong: Breath | 2.00% | ~15,244 |
-| I know Kung-Fu | 2.00% | ~15,244 |
-| Path of the Prospect | 2.00% | ~15,244 |
-| Rumble in the Hangar | 2.00% | ~15,244 |
-| Take damage to save time | 2.00% | ~15,244 |
-| Diligence as a goal | 2.00% | ~1,430 |
+| A Lady's Blood in the Snow | 2.00% | ~15,245 |
+| Lady Wing Chun | 2.00% | ~15,245 |
+| Furious Fists | 2.00% | ~15,245 |
+| Kill Nil | 2.00% | ~15,245 |
+| Qi Gong: Mind | 2.00% | ~15,245 |
+| Qi Gong: Breath | 2.00% | ~15,245 |
+| I know Kung-Fu | 2.00% | ~15,245 |
+| Path of the Prospect | 2.00% | ~15,245 |
+| Rumble in the Hangar | 2.00% | ~15,245 |
+| Take damage to save time | 2.00% | ~15,245 |
+| Diligence as a goal | 2.00% | ~1,431 |
 | Scareless | 1.00% | ~7,622 |
 | Dance of the Praying Mantis | 1.00% | ~7,622 |
 | Kung-Fu Tussle | 1.00% | ~7,622 |
@@ -39,16 +39,16 @@ Number of Ratings: 9,492  (23.09.2022)
 | Martial Hub | 0.70% | ~501 |
 | Iron Money | 0.60% | ~4,573 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,573 |
+| Prodigal Child | 0.60% | ~4,573 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,573 |
 | Sword Stained With Blood | 0.60% | ~4,573 |
 | Bloody Sport | 0.60% | ~429 |
-| Prodigal Child | 0.50% | ~3,811 |
 | The best strikes are the ones we avoid | 0.50% | ~358 |
 | Drunken Fighter | 0.40% | ~3,049 |
+| Martial Artist | 0.40% | ~3,049 |
 | Knowledge Greed | 0.40% | ~3,049 |
 | The Pit Protector | 0.40% | ~3,049 |
 | Come Snap With Me | 0.40% | ~3,049 |
-| Martial Artist | 0.30% | ~2,287 |
 | Healing Memory | 0.30% | ~2,287 |
 | Master of the Phoenix Eye Fist | 0.30% | ~2,287 |
 | Ferocity, speed, strength, accuracy | 0.30% | ~2,287 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,219 (Ranked 26)  
+Progressed: 762,227 (Ranked 26)  
 Completed: 13,002 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 13,002 (1.71%) (Ranked 150)
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
 | 2024-01-20 | 762,069 | 13,000 |
-| 2024-01-21 | 762,219 | 13,002 |
+| 2024-01-21 | 762,227 | 13,002 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 58)  
 Sum: 12,833 (Ranked 87)  

@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1498,
+  "EOS_Progressed": 1500,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4009,6 +4009,11 @@
       "Time": "2024-01-21T15:11:15.5384419+00:00",
       "NumProgressed": 1498,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T16:10:42.0345149+00:00",
+      "NumProgressed": 1500,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4020,7 +4025,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1079
+      "UsersEstimate": 1080
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -4028,7 +4033,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4060,7 +4065,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4092,7 +4097,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4140,7 +4145,7 @@
       "Name": "Burnt Smell",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -4172,7 +4177,7 @@
       "Name": "Toss A Cent To The Spirit",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "BURN_ACHIEVEMENT_6",
@@ -4204,7 +4209,7 @@
       "Name": "Together We Win",
       "Percentage": 0.1,
       "XP": 80,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "COOP_ACHIEVEMENT_3",
@@ -4212,15 +4217,15 @@
       "Name": "Team of Champions",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 554
+      "UsersEstimate": 540
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -4300,7 +4305,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 869
+      "UsersEstimate": 870
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4308,15 +4313,15 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
       "SetID": "9lcahn0",
       "Name": "Decakill!",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 480
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4338,9 +4343,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 539
+      "UsersEstimate": 525
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4380,7 +4385,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 449
+      "UsersEstimate": 450
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4396,7 +4401,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4412,7 +4417,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 434
+      "UsersEstimate": 435
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4452,7 +4457,7 @@
       "Name": "The Last of Us",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4468,7 +4473,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4484,7 +4489,7 @@
       "Name": "Heavy Burden",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_4",
@@ -4508,7 +4513,7 @@
       "Name": "I Can Do This",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "SING_ACHIEVEMENT_2",
@@ -4532,7 +4537,7 @@
       "Name": "Guardian Angel",
       "Percentage": 0.5,
       "XP": 80,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "WINS_ACHIEVEMENT_1",
@@ -4547,14 +4552,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1498,
+      "Progressed": 1500,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:11:15.5384414+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:10:42.0345147+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:03:05.6426954+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:11:15.5385135+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:02:54.8433334+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:10:42.0345728+00:00"
 }

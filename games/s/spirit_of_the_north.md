@@ -1,28 +1,28 @@
 # Spirit of the North
 [Store](https://store.epicgames.com/en-US/p/spirit-of-the-north-f58a66)  
 [View Rawdata](../../db/s/spirit_of_the_north.json)  
-Rating: 4.36 (Ranked 824)  
+Rating: 4.36 (Ranked 823)  
 Number of Ratings: 1,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A GUARDIAN FORGOTTEN | 69.00% | ~55,648 |
-| INFUSED WITH LIGHT | 53.00% | ~42,744 |
-| FOXIN' AROUND | 29.00% | ~23,388 |
-| FETCH | 28.00% | ~22,582 |
-| BLOOMS OF LIGHT | 26.00% | ~20,969 |
-| AWAKEN | 22.00% | ~17,743 |
-| BEST FRIENDS | 22.00% | ~17,743 |
-| SPIRIT BARK | 22.00% | ~17,743 |
-| ERADICATE | 21.00% | ~16,936 |
-| GARDEN OF LIGHT | 18.00% | ~14,517 |
+| A GUARDIAN FORGOTTEN | 69.00% | ~55,652 |
+| INFUSED WITH LIGHT | 53.00% | ~42,747 |
+| FOXIN' AROUND | 29.00% | ~23,390 |
+| FETCH | 28.00% | ~22,583 |
+| BLOOMS OF LIGHT | 26.00% | ~20,970 |
+| AWAKEN | 22.00% | ~17,744 |
+| BEST FRIENDS | 22.00% | ~17,744 |
+| SPIRIT BARK | 22.00% | ~17,744 |
+| ERADICATE | 21.00% | ~16,938 |
+| GARDEN OF LIGHT | 18.00% | ~14,518 |
 | SPIRIT FORM | 17.00% | ~13,711 |
-| UPROOTING DARKNESS | 16.00% | ~12,904 |
-| WRITTEN IN STONE | 16.00% | ~12,904 |
-| WEIGHTLESS | 12.00% | ~9,678 |
+| UPROOTING DARKNESS | 16.00% | ~12,905 |
+| WRITTEN IN STONE | 16.00% | ~12,905 |
+| WEIGHTLESS | 12.00% | ~9,679 |
 | SPIRIT DASH | 11.00% | ~8,872 |
-| OLD COMPANION | 9.00% | ~7,258 |
-| PLAGUE DOCTOR | 9.00% | ~7,258 |
+| OLD COMPANION | 9.00% | ~7,259 |
+| PLAGUE DOCTOR | 9.00% | ~7,259 |
 | MATCH MAKER | 8.00% | ~6,452 |
 | NORTHERN LIGHTS | 8.00% | ~6,452 |
 | SPIRITED AWAY | 8.00% | ~6,452 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,175  (23.09.2022)
 | NONE FORGOTTEN | 2.00% | ~1,613 |
 | KINDRED SPIRITS | 0.60% | ~484 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 80,650 (Ranked 112)  
+Progressed: 80,655 (Ranked 112)  
 Completed: 439 (0.54%) (Ranked 225)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 439 (0.54%) (Ranked 225)
 | 2024-01-18 | 80,377 | 436 |
 | 2024-01-19 | 80,469 | 437 |
 | 2024-01-20 | 80,587 | 439 |
-| 2024-01-21 | 80,650 | 439 |
+| 2024-01-21 | 80,655 | 439 |
 ## Awards
-Max (Extremely Fun): 27  (Ranked 544)  
+Max (Extremely Fun): 27  (Ranked 546)  
 Sum: 116 (Ranked 465)  
-Diff (max vs sum): 79  
+Diff (max vs sum): 81  
 | Award | Count |
 | ----- | ----- |
 | This game is Extremely Fun | 27 |

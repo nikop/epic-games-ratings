@@ -17,6 +17,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Oracle | 4.00% | ~683 |
 | Ambitious | 3.00% | ~512 |
 | Enlightened | 3.00% | ~512 |
+| Fountainhead | 3.00% | ~512 |
 | Glorious | 3.00% | ~512 |
 | Good | 3.00% | ~512 |
 | Just | 3.00% | ~512 |
@@ -39,7 +40,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Regicide | 2.00% | ~341 |
 | Drillmaster | 2.00% | ~341 |
 | Brilliant | 2.00% | ~341 |
-| Fountainhead | 2.00% | ~341 |
 | Great | 2.00% | ~341 |
 | Magnificent | 2.00% | ~341 |
 | Wise | 2.00% | ~341 |
@@ -147,6 +147,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Poetic Leader | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
+| The Eternal Treaty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
 | Old World Order | 0.40% | ~68 |
 | Pantheon of Gods | 0.40% | ~68 |
@@ -155,7 +156,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Al Khazneh | 0.40% | ~68 |
 | Cothon | 0.40% | ~68 |
 | Ancient | 0.30% | ~51 |
-| The Eternal Treaty | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,065 (Ranked 170)  
+Progressed: 17,069 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,065 | 5 |
+| 2024-01-21 | 17,069 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

@@ -2,10 +2,10 @@
   "ID": "7f0be7eaee1f40039da74dd9591ed049",
   "Name": "Quick Race",
   "ProductSlug": "quick-race-293d39",
-  "Ranking_EOS_Progress": 516,
-  "Ranking_EOS_Completed": 104,
-  "Ranking_EOS_NewPlayers": 356,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 514,
+  "Ranking_EOS_Completed": 105,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-29T17:00:00+00:00",
     "PcReleaseDate": "2021-02-20T01:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 87,
+  "EOS_Progressed": 88,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.45,
+  "EOS_Completed_Percentage": 3.41,
   "EosHistory": [
     {
       "Time": "2023-12-23T19:03:08.1103933+00:00",
@@ -404,6 +404,11 @@
       "Time": "2024-01-21T03:05:43.1900528+00:00",
       "NumProgressed": 87,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T16:08:24.6146659+00:00",
+      "NumProgressed": 88,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-12-23T19:03:08.11154+00:00",
@@ -438,7 +443,7 @@
       "ID": "1_RACE",
       "SetID": "2g288ag",
       "Name": "Rookie Racer",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 25,
       "UsersEstimate": 81
     },
@@ -470,7 +475,7 @@
       "ID": "2_MAPS",
       "SetID": "2g288ag",
       "Name": "Twice on the Track, Twice to win",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 25,
       "UsersEstimate": 54
     },
@@ -478,7 +483,7 @@
       "ID": "2_RACES",
       "SetID": "2g288ag",
       "Name": "Double Trouble",
-      "Percentage": 86,
+      "Percentage": 85,
       "XP": 50,
       "UsersEstimate": 75
     },
@@ -494,7 +499,7 @@
       "ID": "3_RACES",
       "SetID": "2g288ag",
       "Name": "Triple Threat",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 20,
       "UsersEstimate": 62
     },
@@ -518,7 +523,7 @@
       "ID": "NO_CRASH",
       "SetID": "2g288ag",
       "Name": "Zen Racer on Map Number 1",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 100,
       "UsersEstimate": 46
     },
@@ -535,14 +540,14 @@
     {
       "ID": "2g288ag",
       "IsBase": true,
-      "Progressed": 87,
+      "Progressed": 88,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-01-16T20:58:00.8579865+00:00",
   "FirstSeenAchievements": "2023-12-23T19:03:08.11154+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:08:04.8985017+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:08:24.6146657+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.0843674+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:02:05.0540579+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:08:04.8985179+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:00:25.8893085+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:08:24.6146779+00:00"
 }

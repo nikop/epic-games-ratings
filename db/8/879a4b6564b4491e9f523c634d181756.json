@@ -4,8 +4,8 @@
   "ProductSlug": "awaken-257d0f",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 556,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-17T03:57:19.7632006+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:00:39.25508+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:08:39.3251937+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:59:28.6307415+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:08:48.5970085+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "KINGDOM HEARTS Melody of Memory",
   "ProductSlug": "kingdom-hearts-melody-of-memory",
   "Ranking_Rating": 324,
-  "Ranking_Popularity": 583,
-  "Ranking_PopularitySum": 584,
+  "Ranking_Popularity": 584,
+  "Ranking_PopularitySum": 585,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 556,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-03-30T13:00:00+00:00",
     "PcReleaseDate": "2021-03-30T13:00:00+00:00",
@@ -433,6 +433,6 @@
   "FirstSeen": "2022-07-22T20:24:47.7088275+00:00",
   "LastChanged": "2024-01-17T09:59:57.5984949+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:07.7885839+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:57:44.8886328+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:06:40.743757+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:57:33.6768127+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:05:25.8640138+00:00"
 }

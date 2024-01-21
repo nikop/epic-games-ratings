@@ -4,8 +4,8 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 335,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -1340,9 +1340,9 @@
       "ID": "Ach-02-dzin",
       "SetID": "2pjo9pi",
       "Name": "Dzin",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 134
     },
     {
       "ID": "Ach-02-hopik",
@@ -1715,8 +1715,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:10:02.9159402+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:09:48.3047591+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683371+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:00:07.3904603+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:10:02.9159795+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:59:07.2658344+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:09:48.3047977+00:00"
 }

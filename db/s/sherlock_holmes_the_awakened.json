@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1573,
+  "EOS_Progressed": 1574,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.18,
   "EosHistory": [
@@ -5563,6 +5563,11 @@
       "Time": "2024-01-21T15:05:08.2649691+00:00",
       "NumProgressed": 1573,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2024-01-21T16:04:20.637284+00:00",
+      "NumProgressed": 1574,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 28,
@@ -5574,7 +5579,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 975
+      "UsersEstimate": 976
     },
     {
       "ID": "MQ01_2",
@@ -5590,7 +5595,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "MQ02_2",
@@ -5598,7 +5603,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "MQ02_3",
@@ -5614,7 +5619,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "MQ03_1",
@@ -5646,7 +5651,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "MQ03_5",
@@ -5654,7 +5659,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "MQ04_1",
@@ -5668,9 +5673,9 @@
       "ID": "MQ04_2",
       "SetID": "bbing49",
       "Name": "Let Me Be Frank",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 519
+      "UsersEstimate": 535
     },
     {
       "ID": "MQ04_3",
@@ -5678,7 +5683,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 692
+      "UsersEstimate": 693
     },
     {
       "ID": "MQ05_1",
@@ -5686,7 +5691,7 @@
       "Name": "Open Sesame",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "MQ05_2",
@@ -5742,7 +5747,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 629
+      "UsersEstimate": 630
     },
     {
       "ID": "MQ07_1",
@@ -5756,9 +5761,9 @@
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 613
+      "UsersEstimate": 630
     },
     {
       "ID": "MQ08_1",
@@ -5797,7 +5802,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1573,
+      "Progressed": 1574,
       "Completed": 50
     }
   ],
@@ -5805,8 +5810,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:05:08.2649688+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:04:20.6372838+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:03:47.2078855+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:05:08.2650044+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:03:23.4199696+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:04:20.6373314+00:00"
 }

@@ -19,7 +19,7 @@ Rating: 4.55 (Ranked 531)
 | Scaffolding Expert | 35.00% | ~189 |
 | Elysian Minigame-Master | 35.00% | ~189 |
 | Portals come in packs | 29.00% | ~157 |
-| No man left behind! | 27.00% | ~146 |
+| No man left behind! | 28.00% | ~151 |
 | Photo Friend | 25.00% | ~135 |
 | Masseltov | 19.00% | ~103 |
 | Brainfreeze | 19.00% | ~103 |

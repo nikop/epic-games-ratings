@@ -2,10 +2,10 @@
   "ID": "e1d9c285b5214c09b1bd096b63d2d28c",
   "Name": "Bloodshore",
   "ProductSlug": "bloodshore-939cb0",
-  "Ranking_EOS_Progress": 411,
-  "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 324,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_Progress": 410,
+  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_NewPlayers": 323,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 294,
+  "EOS_Progressed": 295,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.04,
+  "EOS_Completed_Percentage": 2.03,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -810,6 +810,11 @@
       "Time": "2024-01-21T13:09:21.6072703+00:00",
       "NumProgressed": 294,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T16:05:25.3334814+00:00",
+      "NumProgressed": 295,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -821,7 +826,7 @@
       "Name": "Bromance",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "comedy_killer",
@@ -837,7 +842,7 @@
       "Name": "Congratulations, you are a sadist",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "deathlooper",
@@ -956,7 +961,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 294,
+      "Progressed": 295,
       "Completed": 6
     }
   ],
@@ -964,8 +969,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:06:39.983419+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:05:25.3334812+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.7012056+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:03:56.6851291+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:06:39.9834334+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:03:30.4005065+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:05:25.3334911+00:00"
 }

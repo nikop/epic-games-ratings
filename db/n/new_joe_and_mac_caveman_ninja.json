@@ -4,8 +4,8 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 488,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 308,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -939,8 +939,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:05:44.0510333+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:04:46.211343+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:25.3828236+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:59:54.7003516+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:05:44.0510502+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:58:59.4127919+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:04:46.2113556+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 276,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 538,
+  "EOS_Progressed": 539,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2104,6 +2104,11 @@
       "Time": "2024-01-21T03:05:32.3059452+00:00",
       "NumProgressed": 538,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T16:06:13.995263+00:00",
+      "NumProgressed": 539,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2114,9 +2119,9 @@
       "ID": "AC_ALL_CASSETTES",
       "SetID": "16i2akc",
       "Name": "Sound",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 38
+      "UsersEstimate": 32
     },
     {
       "ID": "AC_ALL_COLUMNS",
@@ -2196,7 +2201,7 @@
       "Name": "Misery",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "AC_BOSS_02",
@@ -2204,7 +2209,7 @@
       "Name": "Downfall",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC_BOSS_03",
@@ -2228,7 +2233,7 @@
       "Name": "Pack",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "AC_COMBO_2",
@@ -2284,7 +2289,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2292,7 +2297,7 @@
       "Name": "Psycopath",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2308,7 +2313,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2316,7 +2321,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2324,7 +2329,7 @@
       "Name": "Voyage",
       "Percentage": 30,
       "XP": 45,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "AC_FIRST_BLACKJACK",
@@ -2340,7 +2345,7 @@
       "Name": "Creation",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "AC_FLASHBACK_02",
@@ -2364,7 +2369,7 @@
       "Name": "Vision",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "AC_MONEY_BLACKJACK",
@@ -2418,9 +2423,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 221
+      "UsersEstimate": 216
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2451,14 +2456,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 538,
+      "Progressed": 539,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:07:49.1575181+00:00",
+  "LastChanged_Achievements": "2024-01-21T16:06:13.9952627+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:58:24.1833254+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:07:49.1575512+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:57:59.1429947+00:00",
+  "LastUpdate_Achievements": "2024-01-21T16:06:13.9952966+00:00"
 }

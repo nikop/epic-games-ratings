@@ -6,14 +6,14 @@ Rating: 4.86 (Ranked 34)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Feeling the beat! | 56.00% | ~9,830 |
-| Start with a bang! | 55.00% | ~9,654 |
-| You can pet the cat! | 51.00% | ~8,952 |
-| Who put gears in there? | 42.00% | ~7,372 |
+| Start with a bang! | 55.00% | ~9,655 |
+| You can pet the cat! | 51.00% | ~8,953 |
+| Who put gears in there? | 42.00% | ~7,373 |
 | Cream of the Crop | 37.00% | ~6,495 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,319 |
 | You got this, Peppermint? | 32.00% | ~5,617 |
-| Perfect Parry | 29.00% | ~5,090 |
-| Alright, that felt AWESOME! | 29.00% | ~5,090 |
+| Perfect Parry | 29.00% | ~5,091 |
+| Alright, that felt AWESOME! | 29.00% | ~5,091 |
 | I play my own way! | 25.00% | ~4,388 |
 | This will cost you big time | 23.00% | ~4,037 |
 | Uh, they were broken when I got here | 23.00% | ~4,037 |
@@ -24,7 +24,7 @@ Rating: 4.86 (Ranked 34)
 | The Negotiator | 17.00% | ~2,984 |
 | You must like calling me in, Chai | 15.00% | ~2,633 |
 | Out in a puff of smoke | 15.00% | ~2,633 |
-| Headliner | 14.00% | ~2,457 |
+| Headliner | 14.00% | ~2,458 |
 | Time to pay up! | 13.00% | ~2,282 |
 | Who's the boss now? | 13.00% | ~2,282 |
 | Perfecter Parry-er! | 13.00% | ~2,282 |
@@ -47,7 +47,7 @@ Rating: 4.86 (Ranked 34)
 | I'm not done with you yet | 2.00% | ~351 |
 | First we parry, then we counter | 2.00% | ~351 |
 | I hit things with a guitar really well. | 2.00% | ~351 |
-| Call me Turbo Chai | 2.00% | ~321 |
+| Call me Turbo Chai | 2.00% | ~322 |
 | Easy Listening | 1.00% | ~176 |
 | OK, well THEY came after ME! | 0.90% | ~158 |
 | New bad guys? No problem! | 0.70% | ~113 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,553 (Ranked 168)  
+Progressed: 17,554 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,11 +343,11 @@ Completed: 8 (0.05%) (Ranked 346)
 | 2024-01-18 | 17,389 | 8 |
 | 2024-01-19 | 17,441 | 8 |
 | 2024-01-20 | 17,503 | 8 |
-| 2024-01-21 | 17,553 | 8 |
+| 2024-01-21 | 17,554 | 8 |
 ## Awards
-Max (Great Boss Battles): 37  (Ranked 501)  
-Sum: 37 (Ranked 537)  
-Diff (max vs sum): -36  
+Max (Great Boss Battles): 37  (Ranked 503)  
+Sum: 37 (Ranked 538)  
+Diff (max vs sum): -35  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 37 |
