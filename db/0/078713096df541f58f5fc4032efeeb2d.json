@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewPlayers": 441,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -641,9 +641,9 @@
       "ID": "creepytale3_ach_24",
       "SetID": "7idcjbn",
       "Name": "Boring book!",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "creepytale3_ach_26",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:05:59.5012058+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:04:54.2413154+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:05.8667817+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:58:57.3068953+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:05:59.5012307+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:58:21.837549+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:04:54.2413462+00:00"
 }

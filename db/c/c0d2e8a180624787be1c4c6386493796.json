@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 396,
   "Ranking_EOS_Completed": 214,
-  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewPlayers": 327,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1630,9 +1630,9 @@
       "ID": "KR4_ACHIEVEMENT_DEFEAT_DWARF_KING",
       "SetID": "caeik3h",
       "Name": "I am Iron Man",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 261
+      "UsersEstimate": 264
     },
     {
       "ID": "KR4_ACHIEVEMENT_DEMOGORGON",
@@ -1774,9 +1774,9 @@
       "ID": "KR4_ACHIEVEMENT_HORN",
       "SetID": "caeik3h",
       "Name": "Not My Tempo",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 158
+      "UsersEstimate": 162
     },
     {
       "ID": "KR4_ACHIEVEMENT_HYPNOTOAD",
@@ -1942,9 +1942,9 @@
       "ID": "KR4_ACHIEVEMENT_OLAF",
       "SetID": "caeik3h",
       "Name": "Let It Go!",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 132
+      "UsersEstimate": 135
     },
     {
       "ID": "KR4_ACHIEVEMENT_OLOCH_MAX",
@@ -2157,8 +2157,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:06:32.8944452+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:05:17.8936861+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:59:10.8714977+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:06:32.8945062+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:58:31.1625125+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:05:17.8937694+00:00"
 }

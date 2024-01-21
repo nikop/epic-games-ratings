@@ -38,11 +38,11 @@ Number of Ratings: 429  (23.09.2022)
 | Recruit a Leader | 1.00% | ~76 |
 | Win as the Baratak | 1.00% | ~76 |
 | Win as the Mimot | 1.00% | ~76 |
+| Hyperspace! | 0.90% | ~68 |
+| Veteran Crew | 0.90% | ~68 |
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
-| Hyperspace! | 0.80% | ~61 |
-| Veteran Crew | 0.80% | ~61 |
 | Win as the Krynn | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
 | Win as the Drengin | 0.70% | ~53 |

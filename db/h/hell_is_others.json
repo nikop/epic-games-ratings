@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 365,
   "Ranking_EOS_Progress": 69,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 157,
+  "Ranking_EOS_NewPlayers": 156,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-26T16:00:00+00:00",
@@ -1555,7 +1555,7 @@
       "Count": 41
     }
   ],
-  "EOS_Progressed": 260909,
+  "EOS_Progressed": 260911,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 270,
   "EOS_NewCompleters": 0,
@@ -27890,6 +27890,11 @@
       "Time": "2024-01-21T06:07:07.8402054+00:00",
       "NumProgressed": 260909,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T08:04:45.5581927+00:00",
+      "NumProgressed": 260911,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 56,
@@ -27957,7 +27962,7 @@
       "Name": "Well-oiled machine",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13045
+      "UsersEstimate": 13046
     },
     {
       "ID": "BackHomeWithNoDamageCaused",
@@ -28029,7 +28034,7 @@
       "Name": "Saver I",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 13045
+      "UsersEstimate": 13046
     },
     {
       "ID": "CreedsInBank2",
@@ -28189,7 +28194,7 @@
       "Name": "Predator I",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 60009
+      "UsersEstimate": 60010
     },
     {
       "ID": "KillOthers2",
@@ -28348,7 +28353,7 @@
     {
       "ID": "3l9dm1h",
       "IsBase": true,
-      "Progressed": 260909,
+      "Progressed": 260911,
       "Completed": 3
     }
   ],
@@ -28356,8 +28361,8 @@
   "FirstSeenRating": "2023-02-05T15:57:56.011416+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:43.4709581+00:00",
   "LastChanged": "2024-01-20T17:00:16.7484113+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:05:46.9973071+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:04:45.5581924+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.3411119+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:01:58.4534497+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:05:46.9974305+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:00:24.9040136+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:04:45.5583278+00:00"
 }

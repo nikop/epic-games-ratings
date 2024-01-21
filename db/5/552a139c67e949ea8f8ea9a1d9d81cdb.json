@@ -5271,9 +5271,9 @@
       "ID": "ML_ACHIEVEMENT_14",
       "SetID": "5k00jcd",
       "Name": "Shapeshifter",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 60
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -5548,8 +5548,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:05:14.6461374+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:04:22.7924882+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.7946639+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:01:03.8652644+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:05:14.6462186+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:59:47.8531467+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:04:22.7925487+00:00"
 }

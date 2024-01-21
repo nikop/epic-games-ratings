@@ -2,9 +2,9 @@
   "ID": "2015d187216e4b33b88edee66282e4a1",
   "Name": "The Legend of Tianding",
   "ProductSlug": "the-legend-of-tianding",
-  "Ranking_EOS_Progress": 510,
-  "Ranking_EOS_Completed": 64,
-  "Ranking_EOS_NewPlayers": 409,
+  "Ranking_EOS_Progress": 509,
+  "Ranking_EOS_Completed": 65,
+  "Ranking_EOS_NewPlayers": 388,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 91,
+  "EOS_Progressed": 92,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 6.59,
+  "EOS_Completed_Percentage": 6.52,
   "EosHistory": [
     {
       "Time": "2023-09-28T09:07:03.7102413+00:00",
@@ -505,6 +505,11 @@
       "Time": "2024-01-20T17:04:16.4617153+00:00",
       "NumProgressed": 91,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T08:04:15.4596728+00:00",
+      "NumProgressed": 92,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-09-28T03:06:31.4397832+00:00",
@@ -515,7 +520,7 @@
       "ID": "BeatBossChen",
       "SetID": "123m9l1",
       "Name": "Death Battle",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
       "UsersEstimate": 39
     },
@@ -523,7 +528,7 @@
       "ID": "BeatBossKawa",
       "SetID": "123m9l1",
       "Name": "Phantom Kunoichi",
-      "Percentage": 43,
+      "Percentage": 42,
       "XP": 100,
       "UsersEstimate": 39
     },
@@ -547,7 +552,7 @@
       "ID": "BeatBossTing",
       "SetID": "123m9l1",
       "Name": "Divine Retribution",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 100,
       "UsersEstimate": 37
     },
@@ -555,7 +560,7 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 100,
       "UsersEstimate": 56
     },
@@ -613,7 +618,7 @@
       "Name": "Hero Arrives",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "HardcorePlayer",
@@ -635,7 +640,7 @@
       "ID": "MightySword",
       "SetID": "123m9l1",
       "Name": "Demon Slayer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
       "UsersEstimate": 28
     },
@@ -659,7 +664,7 @@
       "ID": "RescueAKuai",
       "SetID": "123m9l1",
       "Name": "Steal Her Away",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 26
     },
@@ -715,7 +720,7 @@
       "ID": "TrickLiHong",
       "SetID": "123m9l1",
       "Name": "Fight Fire With Fire",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
       "UsersEstimate": 26
     }
@@ -724,7 +729,7 @@
     {
       "ID": "123m9l1",
       "IsBase": true,
-      "Progressed": 91,
+      "Progressed": 92,
       "Completed": 6
     }
   ],
@@ -732,8 +737,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:05:04.331305+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:04:15.4596723+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.1588271+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:02:05.6316457+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:05:04.3313267+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:00:29.7393791+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:04:15.4596899+00:00"
 }

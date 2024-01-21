@@ -11130,7 +11130,7 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133374,
+  "EOS_Progressed": 133376,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 1,
@@ -40870,6 +40870,11 @@
       "Time": "2024-01-21T07:11:05.7847883+00:00",
       "NumProgressed": 133374,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T08:10:21.0416334+00:00",
+      "NumProgressed": 133376,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40881,7 +40886,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -40889,7 +40894,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40977,7 +40982,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -41057,7 +41062,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "combat_kill_gaunts",
@@ -41073,7 +41078,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -41081,7 +41086,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41097,7 +41102,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "combat_kill_librarian",
@@ -41121,7 +41126,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41177,7 +41182,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41201,7 +41206,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8002
+      "UsersEstimate": 8003
     },
     {
       "ID": "driving_distance_easy",
@@ -41225,7 +41230,7 @@
       "Name": "Tears in the Rain",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 533
+      "UsersEstimate": 534
     },
     {
       "ID": "hero_skill_mastery_five",
@@ -41297,7 +41302,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -41353,7 +41358,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "run_victory_act04",
@@ -41361,7 +41366,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "run_victory_act05",
@@ -41369,7 +41374,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2667
+      "UsersEstimate": 2668
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -41417,7 +41422,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1236
+      "UsersEstimate": 1237
     },
     {
       "ID": "combat_kill_collector",
@@ -41512,21 +41517,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133374,
+      "Progressed": 133376,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8243,
+      "Progressed": 8245,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-21T06:58:56.5641006+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:11:05.7847878+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:10:21.0416329+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:58:56.5641013+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:11:05.7850255+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:58:21.3583454+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:10:21.0418026+00:00"
 }

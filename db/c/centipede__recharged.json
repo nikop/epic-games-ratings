@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 235,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
     "PcReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25493,
+  "EOS_Progressed": 25494,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 307,
+  "EOS_NewPlayers": 308,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -23780,6 +23780,11 @@
       "Time": "2024-01-21T07:05:45.2824629+00:00",
       "NumProgressed": 25493,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-21T08:04:44.3148505+00:00",
+      "NumProgressed": 25494,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 16,
@@ -23791,7 +23796,7 @@
       "Name": "Beat \u0027em Up",
       "Percentage": 23,
       "XP": 90,
-      "UsersEstimate": 5863
+      "UsersEstimate": 5864
     },
     {
       "ID": "Burning_For_You",
@@ -23863,7 +23868,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9687
+      "UsersEstimate": 9688
     },
     {
       "ID": "Mirrors",
@@ -23918,15 +23923,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25493,
+      "Progressed": 25494,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:05:45.2824622+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:04:44.3148501+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.7056201+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:01:21.3219891+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:05:45.2825908+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:59:59.7865689+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:04:44.3149425+00:00"
 }

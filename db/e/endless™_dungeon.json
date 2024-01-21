@@ -4,7 +4,7 @@
   "ProductSlug": "endless-dungeon",
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewPlayers": 230,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1589,
+  "EOS_Progressed": 1590,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3655,6 +3655,11 @@
       "Time": "2024-01-21T02:02:21.4445918+00:00",
       "NumProgressed": 1589,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T08:03:49.2508325+00:00",
+      "NumProgressed": 1590,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3721,9 +3726,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3763,7 +3768,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 651
+      "UsersEstimate": 652
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3779,7 +3784,7 @@
       "Name": "How Low Can We Go?",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 381
+      "UsersEstimate": 382
     },
     {
       "ID": "ACHIEVEMENT_FINISH_THIRD_FLOOR_ALL_DISTRICTS",
@@ -3787,7 +3792,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACHIEVEMENT_FIRST_RELOAD",
@@ -3811,7 +3816,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 524
+      "UsersEstimate": 525
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3906,14 +3911,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1589,
+      "Progressed": 1590,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:04:27.3288307+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:03:49.250832+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.4867882+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:02:15.093941+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:04:27.3289041+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:00:35.4578169+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:03:49.2509354+00:00"
 }

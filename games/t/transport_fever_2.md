@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,850 |
-| First cargo item waiting | 68.00% | ~1,700 |
-| First cargo item on board | 67.00% | ~1,675 |
-| First bus stop | 66.00% | ~1,650 |
-| First passenger on board | 63.00% | ~1,575 |
-| First passenger waiting | 63.00% | ~1,575 |
-| First bus arrived | 62.00% | ~1,550 |
-| First train station | 60.00% | ~1,500 |
-| First steam train arrived | 57.00% | ~1,425 |
-| Cadet | 53.00% | ~1,325 |
-| First industry upgraded | 53.00% | ~1,325 |
-| Transport millionaire | 52.00% | ~1,300 |
+| First line | 74.00% | ~1,851 |
+| First cargo item waiting | 68.00% | ~1,701 |
+| First cargo item on board | 67.00% | ~1,676 |
+| First bus stop | 66.00% | ~1,651 |
+| First passenger on board | 63.00% | ~1,576 |
+| First passenger waiting | 63.00% | ~1,576 |
+| First bus arrived | 62.00% | ~1,551 |
+| First train station | 59.00% | ~1,476 |
+| First steam train arrived | 56.00% | ~1,401 |
+| Cadet | 53.00% | ~1,326 |
+| First industry upgraded | 53.00% | ~1,326 |
+| Transport millionaire | 51.00% | ~1,276 |
 | Transport master | 49.00% | ~1,225 |
 | Cargo hub | 49.00% | ~1,225 |
 | Sculpturer | 46.00% | ~1,150 |
@@ -63,12 +63,12 @@ Number of Ratings: 180  (23.09.2022)
 | Campaign tycoon | 1.00% | ~25 |
 | Trans-Siberian Railway | 1.00% | ~25 |
 | Louis Favre | 0.80% | ~20 |
-| Train Fever | 0.70% | ~17 |
+| Train Fever | 0.70% | ~18 |
 | Big spender | 0.60% | ~15 |
 | Glacier express | 0.20% | ~5 |
-| Museum line | 0.10% | ~2 |
+| Museum line | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,500 (Ranked 244)  
+Progressed: 2,501 (Ranked 244)  
 Completed: 1 (0.04%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,6 +329,7 @@ Completed: 1 (0.04%) (Ranked 358)
 | 2024-01-18 | 2,490 | 1 |
 | 2024-01-19 | 2,497 | 1 |
 | 2024-01-20 | 2,500 | 1 |
+| 2024-01-21 | 2,501 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 465)  
 Sum: 333 (Ranked 374)  

@@ -5,18 +5,18 @@ Rating: 4.37 (Ranked 814)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Country Bumpkin | 77.00% | ~2,126 |
-| A new Journey | 76.00% | ~2,098 |
-| Departure | 75.00% | ~2,071 |
-| From X to Y | 74.00% | ~2,043 |
-| Way of Iron | 72.00% | ~1,988 |
+| Country Bumpkin | 77.00% | ~2,127 |
+| A new Journey | 76.00% | ~2,099 |
+| Departure | 75.00% | ~2,072 |
+| From X to Y | 74.00% | ~2,044 |
+| Way of Iron | 72.00% | ~1,989 |
 | Mystery Tour | 70.00% | ~1,933 |
-| We brake for nobody | 69.00% | ~1,905 |
-| Brainstorm | 67.00% | ~1,850 |
-| Mind the Gap | 66.00% | ~1,822 |
-| Travel Company | 66.00% | ~1,822 |
-| All around the World | 64.00% | ~1,767 |
-| Right through the middle | 59.00% | ~1,629 |
+| We brake for nobody | 69.00% | ~1,906 |
+| Brainstorm | 67.00% | ~1,851 |
+| Mind the Gap | 66.00% | ~1,823 |
+| Travel Company | 66.00% | ~1,823 |
+| All around the World | 64.00% | ~1,768 |
+| Right through the middle | 59.00% | ~1,630 |
 | Facility Manager | 55.00% | ~1,519 |
 | Poor Devil | 55.00% | ~1,519 |
 | Producer | 52.00% | ~1,436 |
@@ -36,13 +36,13 @@ Rating: 4.37 (Ranked 814)
 | Hostile Takeover | 26.00% | ~718 |
 | Seven at one stroke | 25.00% | ~690 |
 | Breaking Ground | 24.00% | ~663 |
-| Trailblazer | 22.00% | ~607 |
-| Traffic Junction | 22.00% | ~607 |
+| Trailblazer | 22.00% | ~608 |
+| Traffic Junction | 22.00% | ~608 |
 | Traffic Jam | 20.00% | ~552 |
 | Resistance is futile | 18.00% | ~497 |
-| Bold and beautiful | 17.00% | ~469 |
-| Settler | 17.00% | ~469 |
-| Networker | 17.00% | ~469 |
+| Bold and beautiful | 17.00% | ~470 |
+| Settler | 17.00% | ~470 |
+| Networker | 17.00% | ~470 |
 | Go West | 15.00% | ~414 |
 | Assimilated | 15.00% | ~414 |
 | Max Power | 14.00% | ~387 |
@@ -50,8 +50,8 @@ Rating: 4.37 (Ranked 814)
 | A new Hope | 12.00% | ~331 |
 | Tycoon | 12.00% | ~331 |
 | Call of Duty | 11.00% | ~304 |
-| Unstoppable | 9.00% | ~248 |
-| Track to the Future | 9.00% | ~248 |
+| Unstoppable | 9.00% | ~249 |
+| Track to the Future | 9.00% | ~249 |
 | Conductor | 8.00% | ~221 |
 | Let off some steam | 5.00% | ~138 |
 | Engineer | 4.00% | ~110 |
@@ -61,7 +61,7 @@ Rating: 4.37 (Ranked 814)
 | European Union | 0.60% | ~17 |
 | Together we stand | 0.50% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,761 (Ranked 238)  
+Progressed: 2,762 (Ranked 238)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,6 +309,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 2,753 | 0 |
 | 2024-01-19 | 2,758 | 0 |
 | 2024-01-20 | 2,761 | 0 |
+| 2024-01-21 | 2,762 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

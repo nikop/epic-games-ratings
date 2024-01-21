@@ -32,7 +32,7 @@ Number of Ratings: 892  (23.09.2022)
 | No Mountain Wide Enough | 86.00% | ~771 |
 | I Do! | 85.00% | ~762 |
 | Builder of the Month | 83.00% | ~745 |
-| Can We Keep It? | 81.00% | ~727 |
+| Can We Keep It? | 82.00% | ~736 |
 | Bridging the Gap | 81.00% | ~727 |
 | Waste Not Want Not | 78.00% | ~700 |
 | Commissions, commissions...! | 77.00% | ~691 |
@@ -64,7 +64,7 @@ Number of Ratings: 892  (23.09.2022)
 | Strong Arms | 21.00% | ~188 |
 | Got the Receipt? | 21.00% | ~188 |
 | It's High Noon... | 20.00% | ~179 |
-| Jack of All Trades | 8.00% | ~72 |
+| Jack of All Trades | 9.00% | ~81 |
 | Sandrock's Hottest Club | 5.00% | ~45 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 897 (Ranked 313)  

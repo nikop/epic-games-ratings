@@ -10,12 +10,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 5.00% | ~38,106 |
 | Life is your teacher | 5.00% | ~38,106 |
 | Lightning Hands | 5.00% | ~38,106 |
-| The Hateful Pole Fighter | 3.00% | ~22,863 |
-| Stuntmaster | 3.00% | ~22,863 |
-| Street Fighting | 3.00% | ~22,863 |
-| State of constant learning | 3.00% | ~22,863 |
-| Qi Gong: Essence | 3.00% | ~22,863 |
-| Old Child | 3.00% | ~22,863 |
+| The Hateful Pole Fighter | 3.00% | ~22,864 |
+| Stuntmaster | 3.00% | ~22,864 |
+| Street Fighting | 3.00% | ~22,864 |
+| State of constant learning | 3.00% | ~22,864 |
+| Qi Gong: Essence | 3.00% | ~22,864 |
+| Old Child | 3.00% | ~22,864 |
 | A Lady's Blood in the Snow | 2.00% | ~15,242 |
 | Lady Wing Chun | 2.00% | ~15,242 |
 | Furious Fists | 2.00% | ~15,242 |
@@ -41,7 +41,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Legendary Talismans of Wuxing | 0.60% | ~4,573 |
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,573 |
 | Sword Stained With Blood | 0.60% | ~4,573 |
-| Bloody Sport | 0.60% | ~428 |
+| Bloody Sport | 0.60% | ~429 |
 | Prodigal Child | 0.50% | ~3,811 |
 | The best strikes are the ones we avoid | 0.50% | ~357 |
 | Drunken Fighter | 0.40% | ~3,048 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,115 (Ranked 26)  
+Progressed: 762,124 (Ranked 26)  
 Completed: 13,001 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 13,001 (1.71%) (Ranked 150)
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
 | 2024-01-20 | 762,069 | 13,000 |
-| 2024-01-21 | 762,115 | 13,001 |
+| 2024-01-21 | 762,124 | 13,001 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 58)  
 Sum: 12,832 (Ranked 87)  

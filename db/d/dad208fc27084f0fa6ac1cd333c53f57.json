@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 7891,
   "EOS_Completed": 73,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -9019,8 +9019,8 @@
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:06:02.8640386+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:04:56.5929497+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:02:26.3942043+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:06:02.8641298+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:02:53.0483128+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:04:56.592999+00:00"
 }

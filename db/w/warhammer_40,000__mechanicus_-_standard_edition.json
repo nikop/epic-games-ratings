@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1116,9 +1116,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232738,
+  "EOS_Progressed": 232740,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31436,6 +31436,11 @@
       "Time": "2024-01-21T07:11:02.2764263+00:00",
       "NumProgressed": 232738,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T08:10:18.1054341+00:00",
+      "NumProgressed": 232740,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31503,7 +31508,7 @@
       "Name": "Taser Goad",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20946
+      "UsersEstimate": 20947
     },
     {
       "ID": "ACH_BASE_18",
@@ -31711,14 +31716,14 @@
       "Name": "Half a cog",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 20946
+      "UsersEstimate": 20947
     }
   ],
   "AchievementSets": [
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232738,
+      "Progressed": 232740,
       "Completed": 5
     }
   ],
@@ -31726,8 +31731,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-15T19:00:01.7583563+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:11:02.2764261+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:10:18.1054339+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:00:49.6633781+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:11:02.2765859+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:59:37.6079886+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:10:18.1055741+00:00"
 }

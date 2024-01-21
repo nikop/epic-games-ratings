@@ -2,7 +2,7 @@
   "ID": "e209b2d1d5384f639335f64e3e6c4bb8",
   "Name": "Homeworld: Deserts of Kharak",
   "ProductSlug": "homeworld-deserts-of-kharak",
-  "Ranking_Rating": 777,
+  "Ranking_Rating": 761,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 482,
   "Ranking_EOS_Progress": 61,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.4,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2023-08-25T17:58:52.6937379+00:00",
@@ -315,6 +315,12 @@
       "Rating": 4.4,
       "NumberOfAwards": 88,
       "NumberOfAwardsMax": 27
+    },
+    {
+      "Time": "2024-01-21T08:03:14.5032454+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 88,
+      "NumberOfAwardsMax": 27
     }
   ],
   "ReviewsDisabled": false,
@@ -347,9 +353,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 343417,
+  "EOS_Progressed": 343420,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1896,
+  "EOS_NewPlayers": 1889,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18252,6 +18258,11 @@
       "Time": "2024-01-21T07:08:20.3058094+00:00",
       "NumProgressed": 343417,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T08:06:33.7902498+00:00",
+      "NumProgressed": 343420,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -18288,7 +18299,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 151103
+      "UsersEstimate": 151105
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -18296,7 +18307,7 @@
       "Name": "The Boneyard",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 109893
+      "UsersEstimate": 109894
     },
     {
       "ID": "ACHV_M03_COMPLETE",
@@ -18352,7 +18363,7 @@
       "Name": "The Whispering Gallery",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27473
+      "UsersEstimate": 27474
     },
     {
       "ID": "ACHV_M10_COMPLETE",
@@ -18360,7 +18371,7 @@
       "Name": "Khashar Approach",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27473
+      "UsersEstimate": 27474
     },
     {
       "ID": "ACHV_M11_COMPLETE",
@@ -18640,29 +18651,29 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 175143
+      "UsersEstimate": 175144
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 343417,
+      "Progressed": 343420,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 343406,
+      "Progressed": 343409,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-08-24T17:59:08.2089952+00:00",
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
-  "LastChanged": "2024-01-18T23:03:27.0331438+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:08:20.3058091+00:00",
+  "LastChanged": "2024-01-21T08:03:14.5032449+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:06:33.7902495+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:14.2029782+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:03:39.2419089+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:08:20.3059443+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:03:14.5032457+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:06:33.7903742+00:00"
 }

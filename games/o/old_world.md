@@ -7,8 +7,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Play a Single Player Game | 6.00% | ~1,023 |
-| Explorer | 5.00% | ~852 |
-| Settler | 5.00% | ~852 |
+| Explorer | 5.00% | ~853 |
+| Settler | 5.00% | ~853 |
 | Able | 4.00% | ~682 |
 | Architect | 4.00% | ~682 |
 | Intrepid | 4.00% | ~682 |
@@ -63,31 +63,30 @@ Number of Ratings: 1,307  (23.09.2022)
 | Roman Paganism | 2.00% | ~341 |
 | Zoroastrianism | 2.00% | ~341 |
 | Mythology | 2.00% | ~341 |
-| Hanging Gardens in Babylon | 1.00% | ~170 |
-| Beloved | 1.00% | ~170 |
-| Intercessor | 1.00% | ~170 |
-| Mighty | 1.00% | ~170 |
-| Valiant | 1.00% | ~170 |
-| Victorious | 1.00% | ~170 |
-| Good Difficulty | 1.00% | ~170 |
-| Just Difficulty | 1.00% | ~170 |
-| Artisans | 1.00% | ~170 |
-| Champions | 1.00% | ~170 |
-| Patrons | 1.00% | ~170 |
-| Sages | 1.00% | ~170 |
-| Statesmen | 1.00% | ~170 |
-| Hittite Iron | 1.00% | ~170 |
-| Temple of Solomon | 1.00% | ~170 |
-| Learn to Play 3 | 1.00% | ~170 |
-| Greece | 1.00% | ~170 |
-| Power to the People | 1.00% | ~170 |
-| Persian Paganism | 1.00% | ~170 |
-| Building Wonders | 1.00% | ~170 |
-| Economic Reform | 1.00% | ~170 |
-| Dualism | 1.00% | ~170 |
-| Points Victory | 1.00% | ~170 |
-| Win a Single Player Game | 1.00% | ~170 |
-| The Clergy | 1.00% | ~170 |
+| Hanging Gardens in Babylon | 1.00% | ~171 |
+| Beloved | 1.00% | ~171 |
+| Intercessor | 1.00% | ~171 |
+| Mighty | 1.00% | ~171 |
+| Valiant | 1.00% | ~171 |
+| Victorious | 1.00% | ~171 |
+| Good Difficulty | 1.00% | ~171 |
+| Just Difficulty | 1.00% | ~171 |
+| Artisans | 1.00% | ~171 |
+| Champions | 1.00% | ~171 |
+| Patrons | 1.00% | ~171 |
+| Sages | 1.00% | ~171 |
+| Statesmen | 1.00% | ~171 |
+| Hittite Iron | 1.00% | ~171 |
+| Temple of Solomon | 1.00% | ~171 |
+| Learn to Play 3 | 1.00% | ~171 |
+| Greece | 1.00% | ~171 |
+| Power to the People | 1.00% | ~171 |
+| Persian Paganism | 1.00% | ~171 |
+| Building Wonders | 1.00% | ~171 |
+| Economic Reform | 1.00% | ~171 |
+| Points Victory | 1.00% | ~171 |
+| Win a Single Player Game | 1.00% | ~171 |
+| The Clergy | 1.00% | ~171 |
 | Conqueror | 0.90% | ~153 |
 | Landowners | 0.90% | ~153 |
 | Traders | 0.90% | ~153 |
@@ -96,6 +95,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.90% | ~153 |
 | Via Recta Souk | 0.90% | ~153 |
 | Military Prestige | 0.90% | ~153 |
+| Dualism | 0.90% | ~153 |
 | Legalism | 0.90% | ~153 |
 | Legionary | 0.90% | ~153 |
 | Double Victory | 0.90% | ~153 |
@@ -116,6 +116,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Bad Heir Day | 0.70% | ~119 |
 | Devout | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
+| Peacemaker | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
 | Hunters | 0.70% | ~119 |
 | Babylonia | 0.70% | ~119 |
@@ -124,16 +125,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.70% | ~119 |
 | Redemption | 0.70% | ~119 |
 | Veneration | 0.70% | ~119 |
+| Kushite Cavalry | 0.70% | ~119 |
 | Ambition Victory | 0.70% | ~119 |
 | Yazilikaya | 0.70% | ~119 |
-| Peacemaker | 0.60% | ~102 |
 | Clerics | 0.60% | ~102 |
 | Church of the Holy Sepulchre | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
 | Revelation | 0.60% | ~102 |
-| Kushite Cavalry | 0.60% | ~102 |
 | Turreted Elephant | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
 | Deposed Tribe | 0.60% | ~102 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,050 (Ranked 170)  
+Progressed: 17,053 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,050 | 5 |
+| 2024-01-21 | 17,053 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

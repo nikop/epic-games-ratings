@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 57,
   "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-12-07T14:52:25.231+00:00",
     "PcReleaseDate": "2023-12-07T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 833,
+  "EOS_Progressed": 834,
   "EOS_Completed": 60,
   "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.2,
+  "EOS_Completed_Percentage": 7.19,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -2759,6 +2759,11 @@
       "Time": "2024-01-21T00:06:47.5182555+00:00",
       "NumProgressed": 833,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-21T08:05:30.5242991+00:00",
+      "NumProgressed": 834,
+      "NumCompleted": 60
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -2787,7 +2792,7 @@
       "Name": "1000 Score",
       "Percentage": 46,
       "XP": 200,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "100_XP",
@@ -2803,21 +2808,21 @@
       "Name": "200 Score",
       "Percentage": 76,
       "XP": 200,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 833,
+      "Progressed": 834,
       "Completed": 60
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:06:50.8073959+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:05:30.5242988+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.29709+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:00:40.3021794+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:06:50.8074171+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:59:31.2260715+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:05:30.5243174+00:00"
 }

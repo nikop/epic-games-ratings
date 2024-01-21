@@ -90,6 +90,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Trollskull Manor | 0.20% | ~510 |
 | Attack on the Manor | 0.20% | ~510 |
 | Treasure Hunters | 0.20% | ~510 |
+| The Guardian of Orolunga | 0.20% | ~510 |
 | Flies on the Wall | 0.20% | ~510 |
 | Backtracking Through Barovia | 0.20% | ~510 |
 | Nimble Escape | 0.20% | ~510 |
@@ -283,7 +284,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Trepidatious Trio | 0.10% | ~255 |
 | Our Time To Shine | 0.10% | ~255 |
 | Review by the Blackstaff | 0.10% | ~221 |
-| The Guardian of Orolunga | 0.10% | ~255 |
 | Think Your Way Out Of It | 0.10% | ~255 |
 | Air's Getting Pretty Thin | 0.10% | ~255 |
 | Red Wizard 'Escort' | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,001 (Ranked 71)  
+Progressed: 255,008 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 255,001 | 2,629 |
+| 2024-01-21 | 255,008 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,587 (Ranked 41)  

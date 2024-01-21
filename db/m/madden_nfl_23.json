@@ -1051,9 +1051,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4523,
+  "EOS_Progressed": 4524,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 115,
+  "EOS_NewPlayers": 116,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9056,6 +9056,11 @@
       "Time": "2024-01-21T07:09:14.3369607+00:00",
       "NumProgressed": 4523,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T08:09:01.3184583+00:00",
+      "NumProgressed": 4524,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -9084,7 +9089,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 859
+      "UsersEstimate": 860
     },
     {
       "ID": "achievement_12",
@@ -9092,7 +9097,7 @@
       "Name": "Stud Finder",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 1809
+      "UsersEstimate": 1810
     },
     {
       "ID": "achievement_13",
@@ -9100,7 +9105,7 @@
       "Name": "Big Spender",
       "Percentage": 53,
       "XP": 60,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "achievement_14",
@@ -9116,7 +9121,7 @@
       "Name": "MVP",
       "Percentage": 54,
       "XP": 90,
-      "UsersEstimate": 2442
+      "UsersEstimate": 2443
     },
     {
       "ID": "achievement_16",
@@ -9124,7 +9129,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1447
+      "UsersEstimate": 1448
     },
     {
       "ID": "achievement_17",
@@ -9235,7 +9240,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4523,
+      "Progressed": 4524,
       "Completed": 0
     }
   ],
@@ -9243,8 +9248,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-21T01:56:27.488858+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:09:14.3369604+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:09:01.3184579+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.6554152+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:58:38.1500202+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:09:14.3370151+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:58:08.2117279+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:09:01.3185103+00:00"
 }

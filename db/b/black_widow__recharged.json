@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25203,
+  "EOS_Progressed": 25204,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 286,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -24039,6 +24039,11 @@
       "Time": "2024-01-21T07:06:17.7126705+00:00",
       "NumProgressed": 25203,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-21T08:05:07.0434511+00:00",
+      "NumProgressed": 25204,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24050,7 +24055,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19406
+      "UsersEstimate": 19407
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -24090,7 +24095,7 @@
       "Name": "Everyone\u0027s Born to Die",
       "Percentage": 14,
       "XP": 90,
-      "UsersEstimate": 3528
+      "UsersEstimate": 3529
     },
     {
       "ID": "ACH_HELLO_MY_OLD_FRIEND",
@@ -24138,7 +24143,7 @@
       "Name": "The Fall",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 4032
+      "UsersEstimate": 4033
     },
     {
       "ID": "ACH_TIME_OF_OUR_LIFE",
@@ -24154,22 +24159,22 @@
       "Name": "Wild West Hero",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 3276
+      "UsersEstimate": 3277
     }
   ],
   "AchievementSets": [
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25203,
+      "Progressed": 25204,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:06:17.7126697+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:05:07.0434507+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:58:31.5077998+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:06:17.7128088+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:58:04.3958941+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:05:07.0435591+00:00"
 }

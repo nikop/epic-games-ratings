@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 475,
+  "Ranking_Rating": 474,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 75,
@@ -3940,9 +3940,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243310,
+  "EOS_Progressed": 243313,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 387,
+  "EOS_NewPlayers": 389,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32530,6 +32530,11 @@
       "Time": "2024-01-21T07:11:18.2881356+00:00",
       "NumProgressed": 243310,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-21T08:10:31.0517439+00:00",
+      "NumProgressed": 243313,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32757,7 +32762,7 @@
       "Name": "Who To Trust?",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "ENDWOUNDED",
@@ -32949,7 +32954,7 @@
       "Name": "Destroy Your Fears",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "KILL10000",
@@ -33197,7 +33202,7 @@
       "Name": "Stone Touch",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "PLAY10HOURS",
@@ -33317,7 +33322,7 @@
       "Name": "Shadow Walker",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "SURVIVEON1",
@@ -33325,7 +33330,7 @@
       "Name": "Flesh Wound",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -33341,7 +33346,7 @@
       "Name": "Shapeshifting",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1946
+      "UsersEstimate": 1947
     },
     {
       "ID": "TRANSFORMFIREBEAD",
@@ -33644,13 +33649,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243310,
+      "Progressed": 243313,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4790,
+      "Progressed": 4793,
       "Completed": 430
     }
   ],
@@ -33658,8 +33663,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-21T04:02:18.4772606+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:11:18.2881352+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:10:31.0517435+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:01:43.5590037+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:11:18.2884232+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:00:13.868696+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:10:31.05199+00:00"
 }

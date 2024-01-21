@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4826,
+  "EOS_Progressed": 4827,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8589,6 +8589,11 @@
       "Time": "2024-01-21T04:08:43.9503377+00:00",
       "NumProgressed": 4826,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T08:06:13.8110759+00:00",
+      "NumProgressed": 4827,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8640,7 +8645,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1930
+      "UsersEstimate": 1931
     },
     {
       "ID": "CrowdPleaser",
@@ -8672,7 +8677,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1013
+      "UsersEstimate": 1014
     },
     {
       "ID": "ForAllAurai_8",
@@ -8784,7 +8789,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2316
+      "UsersEstimate": 2317
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8935,15 +8940,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4826,
+      "Progressed": 4827,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:07:52.6728575+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:06:13.811055+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:03:44.1197219+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:07:52.6729133+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:03:17.7511869+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:06:13.8111342+00:00"
 }

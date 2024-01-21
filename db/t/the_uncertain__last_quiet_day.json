@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 114,
-  "Ranking_EOS_NewPlayers": 376,
+  "Ranking_EOS_NewPlayers": 373,
   "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -1311,9 +1311,9 @@
       "ID": "LUCKY_DOG",
       "SetID": "2iigf77",
       "Name": "Lucky dog",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 26
+      "UsersEstimate": 32
     },
     {
       "ID": "METICULOUS",
@@ -1448,8 +1448,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:11:05.3616913+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:10:20.6321255+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.552059+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:57:49.2824295+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:11:05.3617171+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:57:35.0515817+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:10:20.6321446+00:00"
 }

@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1563,
+  "EOS_Progressed": 1564,
   "EOS_Completed": 50,
-  "EOS_NewPlayers": 112,
+  "EOS_NewPlayers": 113,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -5538,6 +5538,11 @@
       "Time": "2024-01-21T05:05:07.684597+00:00",
       "NumProgressed": 1563,
       "NumCompleted": 50
+    },
+    {
+      "Time": "2024-01-21T08:04:12.7468363+00:00",
+      "NumProgressed": 1564,
+      "NumCompleted": 50
     }
   ],
   "TotalAchievements": 28,
@@ -5549,7 +5554,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "MQ01_2",
@@ -5557,7 +5562,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "MQ02_1",
@@ -5565,7 +5570,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "MQ02_2",
@@ -5581,7 +5586,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "MQ02_4",
@@ -5589,7 +5594,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 797
+      "UsersEstimate": 798
     },
     {
       "ID": "MQ03_1",
@@ -5605,7 +5610,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MQ03_3",
@@ -5621,7 +5626,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MQ03_5",
@@ -5661,7 +5666,7 @@
       "Name": "Open Sesame",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MQ05_2",
@@ -5677,7 +5682,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MQ05_4",
@@ -5685,7 +5690,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 656
+      "UsersEstimate": 657
     },
     {
       "ID": "MQ06_1",
@@ -5701,7 +5706,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 579
     },
     {
       "ID": "MQ06_3",
@@ -5717,7 +5722,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "MQ07_1",
@@ -5733,7 +5738,7 @@
       "Name": "At Wits\u0027 End",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "MQ08_1",
@@ -5772,7 +5777,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1563,
+      "Progressed": 1564,
       "Completed": 50
     }
   ],
@@ -5780,8 +5785,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:05:00.3985095+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:04:12.7468357+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:03:56.3030873+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:05:00.398573+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:03:26.4071296+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:04:12.7468853+00:00"
 }

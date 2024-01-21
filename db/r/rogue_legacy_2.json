@@ -1644,7 +1644,7 @@
       "Count": 123
     }
   ],
-  "EOS_Progressed": 28449,
+  "EOS_Progressed": 28451,
   "EOS_Completed": 35,
   "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
@@ -14554,6 +14554,11 @@
       "Time": "2024-01-21T06:12:39.0099412+00:00",
       "NumProgressed": 28449,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-21T08:10:18.5970173+00:00",
+      "NumProgressed": 28451,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 39,
@@ -14629,7 +14634,7 @@
       "Name": "Captain and Crew",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "BossCastleAdvancedDefeated",
@@ -14637,7 +14642,7 @@
       "Name": "For Glory",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "BossCastleDefeated",
@@ -14645,7 +14650,7 @@
       "Name": "Spells and Swords",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1991
+      "UsersEstimate": 1992
     },
     {
       "ID": "BossCaveAdvancedDefeated",
@@ -14725,7 +14730,7 @@
       "Name": "Poise and Poisons",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "BossTowerAdvancedDefeated",
@@ -14757,7 +14762,7 @@
       "Name": "No Harm in Looking",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1422
+      "UsersEstimate": 1423
     },
     {
       "ID": "EndTimerFail",
@@ -14876,21 +14881,21 @@
     {
       "ID": "3ojhj46",
       "IsBase": true,
-      "Progressed": 28449,
+      "Progressed": 28451,
       "Completed": 35
     },
     {
       "ID": "a0a5h9b",
       "IsBase": false,
-      "Progressed": 7379,
+      "Progressed": 7381,
       "Completed": 203
     }
   ],
   "FirstSeen": "2022-07-22T20:32:06.6124893+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.4921009+00:00",
   "LastChanged": "2024-01-20T14:59:06.0031145+00:00",
-  "LastChanged_Achievements": "2024-01-21T07:11:02.8238439+00:00",
+  "LastChanged_Achievements": "2024-01-21T08:10:18.597017+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.0687635+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:00:42.2145437+00:00",
-  "LastUpdate_Achievements": "2024-01-21T07:11:02.8239188+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:59:32.4419495+00:00",
+  "LastUpdate_Achievements": "2024-01-21T08:10:18.597102+00:00"
 }
