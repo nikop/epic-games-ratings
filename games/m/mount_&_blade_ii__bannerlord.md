@@ -6,26 +6,26 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,475 |
-| Landlord | 35.00% | ~33,759 |
-| Trained | 30.00% | ~28,936 |
+| Lawbringer | 43.00% | ~41,477 |
+| Landlord | 35.00% | ~33,760 |
+| Trained | 30.00% | ~28,937 |
 | Bannerlord | 25.00% | ~24,114 |
-| Lawmaker | 24.00% | ~23,149 |
-| Horde breaker | 22.00% | ~21,220 |
+| Lawmaker | 24.00% | ~23,150 |
+| Horde breaker | 22.00% | ~21,221 |
 | The king is pleased | 20.00% | ~19,291 |
 | King Solomon | 18.00% | ~17,362 |
-| Apple of my eye | 17.00% | ~16,397 |
-| This Is Our Land | 17.00% | ~16,397 |
+| Apple of my eye | 17.00% | ~16,398 |
+| This Is Our Land | 17.00% | ~16,398 |
 | I can do it | 16.00% | ~15,433 |
-| Against all odds | 15.00% | ~14,468 |
+| Against all odds | 15.00% | ~14,469 |
 | Duelist | 13.00% | ~12,539 |
-| God of the Arena | 12.00% | ~11,574 |
+| God of the Arena | 12.00% | ~11,575 |
 | Swordbearer | 11.00% | ~10,610 |
-| Dynasty | 10.00% | ~9,645 |
-| I spit on your grave | 10.00% | ~9,645 |
-| What have the Romans ever done for us? | 10.00% | ~9,645 |
+| Dynasty | 10.00% | ~9,646 |
+| I spit on your grave | 10.00% | ~9,646 |
+| What have the Romans ever done for us? | 10.00% | ~9,646 |
 | Butterlord | 9.00% | ~8,681 |
-| Mastery | 8.00% | ~7,716 |
+| Mastery | 8.00% | ~7,717 |
 | Know your enemy | 7.00% | ~6,752 |
 | My way | 5.00% | ~4,823 |
 | Crowdfunded | 4.00% | ~3,858 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,454 (Ranked 103)  
+Progressed: 96,457 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 96,054 | 0 |
 | 2024-01-19 | 96,231 | 0 |
 | 2024-01-20 | 96,440 | 0 |
-| 2024-01-21 | 96,454 | 0 |
+| 2024-01-21 | 96,457 | 0 |
 ## Awards
 Max (Character Customization): 8,171  (Ranked 51)  
 Sum: 16,918 (Ranked 66)  

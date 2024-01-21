@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 376,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1218,
+  "EOS_Progressed": 1219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1371,6 +1371,11 @@
       "Time": "2024-01-20T13:11:28.9975382+00:00",
       "NumProgressed": 1218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T04:09:34.4861959+00:00",
+      "NumProgressed": 1219,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1486,7 +1491,7 @@
       "Name": "To the core",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "ALLTRACKSTOKYO",
@@ -1534,7 +1539,7 @@
       "Name": "Enter the Speed Gauntlet",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "CAREERCLASSMASTERS",
@@ -1606,7 +1611,7 @@
       "Name": "Blurred photofinish",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "FINISHSOUND",
@@ -1678,7 +1683,7 @@
       "Name": "I just can\u0027t choose",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ONELIVERY",
@@ -1734,7 +1739,7 @@
       "Name": "A Cheese Grater to the Face",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "TENPLATINUM",
@@ -1797,7 +1802,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1218,
+      "Progressed": 1219,
       "Completed": 0
     }
   ],
@@ -1805,8 +1810,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2024-01-13T16:03:26.8950598+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:06:10.1349521+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:09:34.4861953+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:17.5377466+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:03:01.7572486+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:06:10.1349999+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:04:43.3754991+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:09:34.4862551+00:00"
 }

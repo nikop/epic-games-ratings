@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4825,
+  "EOS_Progressed": 4826,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 54,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8584,6 +8584,11 @@
       "Time": "2024-01-21T03:05:42.5018861+00:00",
       "NumProgressed": 4825,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T04:08:43.9503377+00:00",
+      "NumProgressed": 4826,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8643,7 +8648,7 @@
       "Name": "Crowd Pleaser.",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "Encyclopedic_30",
@@ -8651,7 +8656,7 @@
       "Name": "Encyclopedic!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 868
+      "UsersEstimate": 869
     },
     {
       "ID": "Eureka_23",
@@ -8763,7 +8768,7 @@
       "Name": "Perfect Defense",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "PowerToThePeople",
@@ -8771,7 +8776,7 @@
       "Name": "Power! To! The People!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ReadyforSummer_41",
@@ -8787,7 +8792,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2943
+      "UsersEstimate": 2944
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8891,7 +8896,7 @@
       "Name": "This was a mistake...",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ThroughFireAndFlame",
@@ -8915,7 +8920,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3474
+      "UsersEstimate": 3475
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8923,22 +8928,22 @@
       "Name": "Your actions define you",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4825,
+      "Progressed": 4826,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:05:42.5018856+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:08:43.9503299+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.9191506+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:02:55.7317182+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:05:42.50196+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:04:34.2180163+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:08:43.9503982+00:00"
 }

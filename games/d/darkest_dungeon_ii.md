@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,234 |
+| Malpractice Assurance | 15.00% | ~1,235 |
 | Lost and Found | 9.00% | ~741 |
 | Autodidact | 8.00% | ~10,669 |
-| This Belongs in a Museum | 7.00% | ~9,335 |
-| Creep and Sleep | 7.00% | ~9,335 |
-| Overdue Notice | 7.00% | ~9,335 |
-| This guy... again? | 7.00% | ~576 |
+| This Belongs in a Museum | 7.00% | ~9,336 |
+| Creep and Sleep | 7.00% | ~9,336 |
+| Overdue Notice | 7.00% | ~9,336 |
+| This guy... again? | 7.00% | ~577 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,002 |
 | Serenity Now! | 6.00% | ~8,002 |
 | Meat and Greet | 6.00% | ~8,002 |
@@ -31,22 +31,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,668 |
 | FNG | 5.00% | ~6,668 |
 | Nope | 5.00% | ~6,668 |
-| Friends 'Til the End | 5.00% | ~411 |
-| Resurrection | 4.00% | ~5,334 |
-| Unleash Hell | 4.00% | ~5,334 |
-| Funny Guy | 4.00% | ~5,334 |
-| Long Live the King | 4.00% | ~5,334 |
-| Wyrdly Reconstructed | 4.00% | ~5,334 |
-| Boxcar Kid | 4.00% | ~5,334 |
-| Unfulfilled Desires | 4.00% | ~5,334 |
-| Dissector | 4.00% | ~5,334 |
-| Banishment | 4.00% | ~5,334 |
-| Now Stay Dead | 4.00% | ~5,334 |
-| Spelunker | 4.00% | ~5,334 |
-| Ramble On | 4.00% | ~5,334 |
-| A Clear Conscience | 4.00% | ~5,334 |
-| Unshackled | 4.00% | ~5,334 |
-| Road Trip | 4.00% | ~5,334 |
+| Friends 'Til the End | 5.00% | ~412 |
+| Resurrection | 4.00% | ~5,335 |
+| Unleash Hell | 4.00% | ~5,335 |
+| Funny Guy | 4.00% | ~5,335 |
+| Long Live the King | 4.00% | ~5,335 |
+| Wyrdly Reconstructed | 4.00% | ~5,335 |
+| Boxcar Kid | 4.00% | ~5,335 |
+| Unfulfilled Desires | 4.00% | ~5,335 |
+| Dissector | 4.00% | ~5,335 |
+| Banishment | 4.00% | ~5,335 |
+| Now Stay Dead | 4.00% | ~5,335 |
+| Spelunker | 4.00% | ~5,335 |
+| Ramble On | 4.00% | ~5,335 |
+| A Clear Conscience | 4.00% | ~5,335 |
+| Unshackled | 4.00% | ~5,335 |
+| Road Trip | 4.00% | ~5,335 |
 | Hope Rekindled | 3.00% | ~4,001 |
 | Predator | 3.00% | ~4,001 |
 | Deprogramming | 3.00% | ~4,001 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,359 (Ranked 92)  
+Progressed: 133,367 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 5 (0.00%) (Ranked 408)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,359 | 5 |
+| 2024-01-21 | 133,367 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
 Sum: 21,782 (Ranked 58)  

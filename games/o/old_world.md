@@ -14,28 +14,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~682 |
 | Friendly Family | 4.00% | ~682 |
 | Hanging Gardens | 4.00% | ~682 |
-| Ambitious | 3.00% | ~511 |
-| Enlightened | 3.00% | ~511 |
-| Glorious | 3.00% | ~511 |
-| Good | 3.00% | ~511 |
-| Just | 3.00% | ~511 |
-| Keystone | 3.00% | ~511 |
-| Learned | 3.00% | ~511 |
-| Mason | 3.00% | ~511 |
-| Noble | 3.00% | ~511 |
-| Pioneer | 3.00% | ~511 |
-| Strong | 3.00% | ~511 |
-| Warrior | 3.00% | ~511 |
-| Developing Cities | 3.00% | ~511 |
-| Strong Cities | 3.00% | ~511 |
-| Oracle | 3.00% | ~511 |
-| Pyramids | 3.00% | ~511 |
-| Learn to Play 1 | 3.00% | ~511 |
-| Judaism | 3.00% | ~511 |
-| Babylonian Paganism | 3.00% | ~511 |
-| Greek Paganism | 3.00% | ~511 |
-| Naming Landmarks | 3.00% | ~511 |
-| Trade Caravan | 3.00% | ~511 |
+| Ambitious | 3.00% | ~512 |
+| Enlightened | 3.00% | ~512 |
+| Glorious | 3.00% | ~512 |
+| Good | 3.00% | ~512 |
+| Just | 3.00% | ~512 |
+| Keystone | 3.00% | ~512 |
+| Learned | 3.00% | ~512 |
+| Mason | 3.00% | ~512 |
+| Noble | 3.00% | ~512 |
+| Pioneer | 3.00% | ~512 |
+| Strong | 3.00% | ~512 |
+| Warrior | 3.00% | ~512 |
+| Developing Cities | 3.00% | ~512 |
+| Strong Cities | 3.00% | ~512 |
+| Oracle | 3.00% | ~512 |
+| Pyramids | 3.00% | ~512 |
+| Learn to Play 1 | 3.00% | ~512 |
+| Judaism | 3.00% | ~512 |
+| Babylonian Paganism | 3.00% | ~512 |
+| Greek Paganism | 3.00% | ~512 |
+| Naming Landmarks | 3.00% | ~512 |
+| Trade Caravan | 3.00% | ~512 |
 | Regicide | 2.00% | ~341 |
 | Drillmaster | 2.00% | ~341 |
 | Brilliant | 2.00% | ~341 |
@@ -137,13 +137,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Turreted Elephant | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
 | Deposed Tribe | 0.60% | ~102 |
+| Jebel Barkal | 0.60% | ~102 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
 | Old | 0.50% | ~85 |
 | Learn to Play 5 | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
 | No Undo | 0.50% | ~85 |
-| Jebel Barkal | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,046 (Ranked 170)  
+Progressed: 17,050 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,046 | 5 |
+| 2024-01-21 | 17,050 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

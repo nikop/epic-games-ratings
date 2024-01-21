@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1440,9 +1440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33989,
+  "EOS_Progressed": 33990,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 623,
+  "EOS_NewPlayers": 617,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31165,6 +31165,11 @@
       "Time": "2024-01-21T03:09:41.3873836+00:00",
       "NumProgressed": 33989,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-21T04:12:00.7597051+00:00",
+      "NumProgressed": 33990,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31200,15 +31205,15 @@
       "Name": "Unbowed, Unbent, Unbroken",
       "Percentage": 5,
       "XP": 60,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "1019",
       "SetID": "9l3d3cl",
       "Name": "Winter is Coming",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2379
     },
     {
       "ID": "1020",
@@ -31216,7 +31221,7 @@
       "Name": "Growing Strong",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "1021",
@@ -31224,7 +31229,7 @@
       "Name": "Hear me Roar!",
       "Percentage": 5,
       "XP": 65,
-      "UsersEstimate": 1699
+      "UsersEstimate": 1700
     },
     {
       "ID": "1022",
@@ -31351,15 +31356,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33989,
+      "Progressed": 33990,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-20T21:59:17.8417734+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:09:41.3873832+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:12:00.7597046+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:59:29.2394626+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:09:41.3875134+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:01:22.2851026+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:12:00.7598735+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "goldorak-d90cf1",
   "Ranking_EOS_Progress": 519,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-14T16:00:00+00:00",
     "PcReleaseDate": "2023-11-14T16:00:00+00:00",
@@ -545,9 +545,9 @@
       "ID": "ACH_GREENEARTH",
       "SetID": "ch874lb",
       "Name": "Earth\u0027s Savior",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "ACH_IRONFIST",
@@ -577,9 +577,9 @@
       "ID": "ACH_PERFECTDODGE",
       "SetID": "ch874lb",
       "Name": "You can\u0027t fool me!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_RESOURCES",
@@ -696,8 +696,8 @@
   ],
   "FirstSeen": "2023-11-15T14:59:58.3542509+00:00",
   "FirstSeenAchievements": "2023-10-23T10:08:08.2725119+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:04:48.2209439+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:07:24.8837913+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.7083921+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:00:00.2970845+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:04:48.2209637+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:02:07.670619+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:07:24.8838134+00:00"
 }

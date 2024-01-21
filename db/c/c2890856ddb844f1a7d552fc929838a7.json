@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -323,7 +323,7 @@
   ],
   "EOS_Progressed": 2594,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6687,9 +6687,9 @@
       "ID": "AC42",
       "SetID": "l4abp0",
       "Name": "Two Old Ones Eating Soup",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 415
+      "UsersEstimate": 441
     },
     {
       "ID": "AC43",
@@ -6728,8 +6728,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:05:38.7340896+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:08:38.5124878+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:57:49.233835+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:05:38.7341525+00:00"
+  "LastUpdate_Ratings": "2024-01-21T03:58:47.7373095+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:08:38.5125618+00:00"
 }

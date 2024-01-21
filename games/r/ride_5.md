@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 453)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,660 (Ranked 227)  
+Progressed: 3,661 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,6 +197,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 3,645 | 0 |
 | 2024-01-19 | 3,649 | 0 |
 | 2024-01-20 | 3,660 | 0 |
+| 2024-01-21 | 3,661 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

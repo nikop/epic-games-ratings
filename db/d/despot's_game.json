@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -38,9 +38,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 503,
+  "EOS_Progressed": 504,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -783,6 +783,11 @@
       "Time": "2024-01-18T08:08:52.8492084+00:00",
       "NumProgressed": 503,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T04:10:03.9855191+00:00",
+      "NumProgressed": 504,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 35,
@@ -842,7 +847,7 @@
       "Name": "No Mercy",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "different-items1",
@@ -874,7 +879,7 @@
       "Name": "Impossible Cube",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "finished-quest-flight",
@@ -914,7 +919,7 @@
       "Name": "The Return of a Rat",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "finished-quest-reaper",
@@ -930,7 +935,7 @@
       "Name": "Knowledge is Power",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "finished-quest-secret",
@@ -1010,7 +1015,7 @@
       "Name": "Vanquisher of Robots",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "win-first-level",
@@ -1018,7 +1023,7 @@
       "Name": "Good start!",
       "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 443
+      "UsersEstimate": 444
     },
     {
       "ID": "win-koth-fights1",
@@ -1050,7 +1055,7 @@
       "Name": "Through the Darkness",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 221
+      "UsersEstimate": 222
     },
     {
       "ID": "win-with-3-cultists",
@@ -1058,7 +1063,7 @@
       "Name": "Honorary Cultist",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "win-with-mrakus",
@@ -1073,7 +1078,7 @@
     {
       "ID": "799afm0",
       "IsBase": true,
-      "Progressed": 503,
+      "Progressed": 504,
       "Completed": 1
     }
   ],
@@ -1081,8 +1086,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:08:21.1673533+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:10:03.9855187+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:11.1690349+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:02:42.8099549+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:08:21.1673831+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:04:14.2891815+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:10:03.9855473+00:00"
 }

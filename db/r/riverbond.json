@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 38,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 126,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2022-04-21T15:00:00+00:00",
     "PcReleaseDate": "2019-06-09T00:00:00+00:00",
@@ -515,9 +515,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 536071,
+  "EOS_Progressed": 536072,
   "EOS_Completed": 524,
-  "EOS_NewPlayers": 514,
+  "EOS_NewPlayers": 512,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -29895,6 +29895,11 @@
       "Time": "2024-01-21T03:08:34.9286256+00:00",
       "NumProgressed": 536071,
       "NumCompleted": 524
+    },
+    {
+      "Time": "2024-01-21T04:10:24.6107246+00:00",
+      "NumProgressed": 536072,
+      "NumCompleted": 524
     }
   ],
   "TotalAchievements": 57,
@@ -29906,7 +29911,7 @@
       "Name": "AAARR!",
       "Percentage": 23,
       "XP": 25,
-      "UsersEstimate": 123296
+      "UsersEstimate": 123297
     },
     {
       "ID": "10",
@@ -29986,7 +29991,7 @@
       "Name": "Now You\u0027re Talking",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 332364
+      "UsersEstimate": 332365
     },
     {
       "ID": "2",
@@ -30138,7 +30143,7 @@
       "Name": "Sunday Best",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 85771
+      "UsersEstimate": 85772
     },
     {
       "ID": "37",
@@ -30234,7 +30239,7 @@
       "Name": "Steel Yourself",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 332364
+      "UsersEstimate": 332365
     },
     {
       "ID": "48",
@@ -30290,7 +30295,7 @@
       "Name": "Hello Darkness",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 123296
+      "UsersEstimate": 123297
     },
     {
       "ID": "54",
@@ -30361,15 +30366,15 @@
     {
       "ID": "1mk7d95",
       "IsBase": true,
-      "Progressed": 536071,
+      "Progressed": 536072,
       "Completed": 524
     }
   ],
   "FirstSeen": "2022-07-22T20:31:42.5443228+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:28.3793476+00:00",
   "LastChanged": "2024-01-20T03:59:27.4592532+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:08:34.9286253+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:10:24.610724+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:23.3858975+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:59:58.2780403+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:08:34.9287849+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:02:03.929636+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:10:24.6108658+00:00"
 }

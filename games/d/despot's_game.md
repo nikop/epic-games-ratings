@@ -5,14 +5,14 @@ Rating: 4.50 (Ranked 619)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Good start! | 88.00% | ~443 |
-| Vanquisher of Robots | 79.00% | ~397 |
+| Good start! | 88.00% | ~444 |
+| Vanquisher of Robots | 79.00% | ~398 |
 | Party | 50.00% | ~252 |
-| Impossible Cube | 45.00% | ~226 |
-| Knowledge is Power | 44.00% | ~221 |
-| Through the Darkness | 44.00% | ~221 |
-| No Mercy | 43.00% | ~216 |
-| The Return of a Rat | 40.00% | ~201 |
+| Impossible Cube | 45.00% | ~227 |
+| Knowledge is Power | 44.00% | ~222 |
+| Through the Darkness | 44.00% | ~222 |
+| No Mercy | 43.00% | ~217 |
+| The Return of a Rat | 40.00% | ~202 |
 | Fat of the Earth | 36.00% | ~181 |
 | Last Man Standing | 31.00% | ~156 |
 | He's Seen It All | 28.00% | ~141 |
@@ -26,7 +26,7 @@ Rating: 4.50 (Ranked 619)
 | Great Flight | 19.00% | ~96 |
 | To the Moon and Back | 19.00% | ~96 |
 | Holy Vengeance | 17.00% | ~86 |
-| Honorary Cultist | 13.00% | ~65 |
+| Honorary Cultist | 13.00% | ~66 |
 | Strength and Sorcery | 11.00% | ~55 |
 | Brain and Brawn | 11.00% | ~55 |
 | Omae Wa Mou Shindeiru | 8.00% | ~40 |
@@ -41,7 +41,7 @@ Rating: 4.50 (Ranked 619)
 | Vet | 0.80% | ~4 |
 | Real Achiever | 0.20% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503 (Ranked 361)  
+Progressed: 504 (Ranked 361)  
 Completed: 1 (0.20%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,6 +135,7 @@ Completed: 1 (0.20%) (Ranked 288)
 | 2024-01-15 | 501 | 1 |
 | 2024-01-16 | 502 | 1 |
 | 2024-01-18 | 503 | 1 |
+| 2024-01-21 | 504 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

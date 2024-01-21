@@ -7,7 +7,6 @@
 | To Suffer is to Learn | 6.00% | ~241 |
 | Initiate's Resolve | 6.00% | ~241 |
 | Missilis | 5.00% | ~201 |
-| Modest Earnings | 5.00% | ~201 |
 | Armaments of the Pantheon | 5.00% | ~201 |
 | Persephone's Guidance | 5.00% | ~201 |
 | Lochos | 5.00% | ~201 |
@@ -16,6 +15,7 @@
 | Immolator | 4.00% | ~161 |
 | Go For the Head | 4.00% | ~161 |
 | Spartan Sandal | 4.00% | ~161 |
+| Modest Earnings | 4.00% | ~161 |
 | Symbols of Heresy | 4.00% | ~161 |
 | The Sons of Minos | 4.00% | ~161 |
 | Eidola | 4.00% | ~161 |
@@ -68,7 +68,7 @@
 | Nectar of Eternity | 0.00% | ~0 |
 | Oblivion | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,022 (Ranked 221)  
+Progressed: 4,023 (Ranked 221)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,6 +324,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 4,009 | 0 |
 | 2024-01-19 | 4,017 | 0 |
 | 2024-01-20 | 4,022 | 0 |
+| 2024-01-21 | 4,023 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

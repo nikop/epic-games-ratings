@@ -4,32 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 95.00% | ~1,320 |
-| Space Colonization | 78.00% | ~1,084 |
-| Friendzone | 76.00% | ~1,056 |
-| Hello World | 71.00% | ~987 |
-| Tinkerer | 60.00% | ~834 |
-| Space Engineer | 59.00% | ~820 |
-| Dust to Dust | 55.00% | ~765 |
-| Across The Stars | 44.00% | ~612 |
-| Crafty | 41.00% | ~570 |
-| All Seats Taken | 34.00% | ~473 |
-| For Science! | 30.00% | ~417 |
-| Meet the Petersons | 29.00% | ~403 |
+| Don't Panic! | 95.00% | ~1,323 |
+| Space Colonization | 78.00% | ~1,087 |
+| Friendzone | 76.00% | ~1,059 |
+| Hello World | 71.00% | ~989 |
+| Space Engineer | 60.00% | ~836 |
+| Tinkerer | 60.00% | ~836 |
+| Dust to Dust | 55.00% | ~766 |
+| Across The Stars | 44.00% | ~613 |
+| Crafty | 41.00% | ~571 |
+| All Seats Taken | 34.00% | ~474 |
+| For Science! | 30.00% | ~418 |
+| Meet the Petersons | 29.00% | ~404 |
 | KIA | 25.00% | ~348 |
 | Stay Cool | 25.00% | ~348 |
-| Mutiny in making | 21.00% | ~292 |
-| Et tu, Astrocitizen? | 17.00% | ~236 |
-| Eco-Shuttle | 16.00% | ~222 |
+| Mutiny in making | 21.00% | ~293 |
+| Et tu, Astrocitizen? | 17.00% | ~237 |
+| Eco-Shuttle | 16.00% | ~223 |
 | Space Explorer | 13.00% | ~181 |
 | Gold Medalist | 10.00% | ~139 |
 | Hands Full | 10.00% | ~139 |
 | Non-Fiction | 9.00% | ~125 |
 | No Man Left Behind | 8.00% | ~111 |
-| Intergalactic Breakup | 7.00% | ~97 |
-| First of April | 6.00% | ~83 |
-| Fix-It Felix | 6.00% | ~83 |
-| Second Life | 6.00% | ~83 |
+| Intergalactic Breakup | 7.00% | ~98 |
+| First of April | 6.00% | ~84 |
+| Fix-It Felix | 6.00% | ~84 |
+| Second Life | 6.00% | ~84 |
 | Axel jump in space! | 5.00% | ~70 |
 | Flawless Maegangement | 5.00% | ~70 |
 | Extreme Makeover | 4.00% | ~56 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,390 (Ranked 279)  
+Progressed: 1,393 (Ranked 279)  
 Completed: 1 (0.07%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 1 (0.07%) (Ranked 337)
 | 2024-01-18 | 1,088 | 1 |
 | 2024-01-19 | 1,224 | 1 |
 | 2024-01-20 | 1,362 | 1 |
-| 2024-01-21 | 1,390 | 1 |
+| 2024-01-21 | 1,393 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

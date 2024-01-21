@@ -4,11 +4,11 @@
   "ProductSlug": "red-dead-redemption-2",
   "Ranking_Rating": 17,
   "Ranking_Popularity": 5,
-  "Ranking_PopularitySum": 7,
+  "Ranking_PopularitySum": 6,
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2019-11-05T13:00:00+00:00",
     "PcReleaseDate": null,
@@ -20369,10 +20369,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 672696,
       "NumberOfAwardsMax": 257682
+    },
+    {
+      "Time": "2024-01-21T03:59:12.0984097+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 672865,
+      "NumberOfAwardsMax": 257682
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 672696,
+  "NumberOfAwards": 672865,
   "NumberOfAwardsMax": 257682,
   "MaxAwardTitle": "Impact the Story",
   "Tags": [
@@ -20428,7 +20434,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 28037
+      "Count": 28206
     },
     {
       "Text": "This game is Great for Beginners",
@@ -20472,8 +20478,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:23:15.0342451+00:00",
-  "LastChanged": "2024-01-21T02:58:04.2679414+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T02:57:32.7071137+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:58:04.267942+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:08:19.1748788+00:00"
+  "LastChanged": "2024-01-21T03:59:12.0984095+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T03:57:34.4515014+00:00",
+  "LastUpdate_Ratings": "2024-01-21T03:59:12.0984101+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:10:01.263633+00:00"
 }

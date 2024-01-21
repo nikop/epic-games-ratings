@@ -6,8 +6,8 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,474 |
-| Ready for Winter | 61.00% | ~2,943 |
+| Venture Outward | 72.00% | ~3,475 |
+| Ready for Winter | 61.00% | ~2,944 |
 | Ready for Summer | 48.00% | ~2,316 |
 | Cordon Bleu | 40.00% | ~1,930 |
 | Tapped! | 34.00% | ~1,641 |
@@ -16,7 +16,7 @@ Number of Ratings: 266  (23.09.2022)
 | Exceptional Skill | 21.00% | ~1,013 |
 | Science, Troglodyte! | 21.00% | ~1,013 |
 | Home Sweet Home | 20.00% | ~965 |
-| Encyclopedic! | 18.00% | ~868 |
+| Encyclopedic! | 18.00% | ~869 |
 | The Power of Family | 15.00% | ~724 |
 | A Fortress Toppled! | 14.00% | ~676 |
 | Apex Predator | 14.00% | ~676 |
@@ -36,11 +36,11 @@ Number of Ratings: 266  (23.09.2022)
 | For All Aurai | 4.00% | ~193 |
 | Memory of a legend | 4.00% | ~193 |
 | Light of Levant | 3.00% | ~145 |
-| Crowd Pleaser. | 2.00% | ~96 |
-| Perfect Defense | 2.00% | ~96 |
-| Power! To! The People! | 2.00% | ~96 |
-| This was a mistake... | 2.00% | ~96 |
-| Your actions define you | 2.00% | ~96 |
+| Crowd Pleaser. | 2.00% | ~97 |
+| Perfect Defense | 2.00% | ~97 |
+| Power! To! The People! | 2.00% | ~97 |
+| This was a mistake... | 2.00% | ~97 |
+| Your actions define you | 2.00% | ~97 |
 | The blood is life | 1.00% | ~48 |
 | Vanquisher of nightmares | 1.00% | ~48 |
 | They'll Tell Stories About This | 0.80% | ~39 |
@@ -49,7 +49,7 @@ Number of Ratings: 266  (23.09.2022)
 | Master of Aurai | 0.30% | ~14 |
 | The Absolute Pinnacle. | 0.30% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,825 (Ranked 209)  
+Progressed: 4,826 (Ranked 209)  
 Completed: 5 (0.10%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 5 (0.10%) (Ranked 319)
 | 2024-01-18 | 4,806 | 5 |
 | 2024-01-19 | 4,815 | 5 |
 | 2024-01-20 | 4,823 | 5 |
-| 2024-01-21 | 4,825 | 5 |
+| 2024-01-21 | 4,826 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 509)  
 Sum: 246 (Ranked 406)  

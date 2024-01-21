@@ -11,7 +11,7 @@
 | Escape from Fleed | 42.00% | ~36 |
 | First Contact | 40.00% | ~34 |
 | The Exterminator | 26.00% | ~22 |
-| Earth's Savior | 21.00% | ~18 |
+| Earth's Savior | 22.00% | ~19 |
 | Technology first! | 20.00% | ~17 |
 | The Collector | 12.00% | ~10 |
 | The Keeper of Fleed | 9.00% | ~8 |
@@ -22,7 +22,7 @@
 | The Vega Turtle | 7.00% | ~6 |
 | A Land of Peace | 6.00% | ~5 |
 | A Good Paint Job | 6.00% | ~5 |
-| You can't fool me! | 5.00% | ~4 |
+| You can't fool me! | 6.00% | ~5 |
 | Iron Fist | 4.00% | ~3 |
 | The Completionist | 4.00% | ~3 |
 | The Space Hydra | 4.00% | ~3 |

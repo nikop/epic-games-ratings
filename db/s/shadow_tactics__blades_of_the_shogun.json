@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 155,
   "Ranking_EOS_Progress": 80,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2018-12-06T12:00:00+00:00",
     "PcReleaseDate": null,
@@ -2504,11 +2504,17 @@
       "Rating": 4.67,
       "NumberOfAwards": 4965,
       "NumberOfAwardsMax": 595
+    },
+    {
+      "Time": "2024-01-21T04:01:42.7747493+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 4966,
+      "NumberOfAwardsMax": 596
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4965,
-  "NumberOfAwardsMax": 595,
+  "NumberOfAwards": 4966,
+  "NumberOfAwardsMax": 596,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2545,7 +2551,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 595
+      "Count": 596
     },
     {
       "Text": "This game has Diverse Characters",
@@ -2578,9 +2584,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 227280,
+  "EOS_Progressed": 227284,
   "EOS_Completed": 108,
-  "EOS_NewPlayers": 1456,
+  "EOS_NewPlayers": 1458,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34338,6 +34344,11 @@
       "Time": "2024-01-21T03:05:24.4535795+00:00",
       "NumProgressed": 227280,
       "NumCompleted": 108
+    },
+    {
+      "Time": "2024-01-21T04:08:17.9993491+00:00",
+      "NumProgressed": 227284,
+      "NumCompleted": 108
     }
   ],
   "TotalAchievements": 44,
@@ -34389,7 +34400,7 @@
       "Name": "Disguised",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20455
+      "UsersEstimate": 20456
     },
     {
       "ID": "FiveShadows",
@@ -34453,7 +34464,7 @@
       "Name": "Ice Ice Yuki",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18182
+      "UsersEstimate": 18183
     },
     {
       "ID": "ItsRainingMen",
@@ -34461,7 +34472,7 @@
       "Name": "It\u0027s raining men",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6818
+      "UsersEstimate": 6819
     },
     {
       "ID": "Jonin",
@@ -34469,7 +34480,7 @@
       "Name": "Jonin",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 18182
+      "UsersEstimate": 18183
     },
     {
       "ID": "Mercyful",
@@ -34565,7 +34576,7 @@
       "Name": "Rescue Takuma",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20455
+      "UsersEstimate": 20456
     },
     {
       "ID": "Rollin",
@@ -34573,7 +34584,7 @@
       "Name": "Rollin\u0027",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 20455
+      "UsersEstimate": 20456
     },
     {
       "ID": "StillRollin",
@@ -34597,7 +34608,7 @@
       "Name": "Stoned Ox",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 18182
+      "UsersEstimate": 18183
     },
     {
       "ID": "TanukiTime",
@@ -34605,7 +34616,7 @@
       "Name": "Tanuki Time",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 20455
+      "UsersEstimate": 20456
     },
     {
       "ID": "TheCave",
@@ -34629,7 +34640,7 @@
       "Name": "The Old Way",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6818
+      "UsersEstimate": 6819
     },
     {
       "ID": "Thorough",
@@ -34693,22 +34704,22 @@
       "Name": "Yabu",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 18182
+      "UsersEstimate": 18183
     }
   ],
   "AchievementSets": [
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 227280,
+      "Progressed": 227284,
       "Completed": 108
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
-  "LastChanged": "2024-01-20T09:59:02.2361544+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:05:24.4535789+00:00",
+  "LastChanged": "2024-01-21T04:01:42.7747491+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:08:17.9993487+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:25.194557+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:59:43.2971184+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:05:24.4537359+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:01:42.7747495+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:08:17.9995356+00:00"
 }

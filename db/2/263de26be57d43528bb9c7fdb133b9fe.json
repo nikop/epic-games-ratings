@@ -229,9 +229,9 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 35,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "BOSS_3",
@@ -380,8 +380,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:04:50.0317073+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:07:27.477448+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:59:14.5401281+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:04:50.0317267+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:01:00.1428324+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:07:27.4774908+00:00"
 }

@@ -3860,10 +3860,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 11799,
       "NumberOfAwardsMax": 1516
+    },
+    {
+      "Time": "2024-01-21T04:02:18.4772608+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 11800,
+      "NumberOfAwardsMax": 1516
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11799,
+  "NumberOfAwards": 11800,
   "NumberOfAwardsMax": 1516,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -3919,7 +3925,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 1334
+      "Count": 1335
     },
     {
       "Text": "This game is Relaxing",
@@ -3934,7 +3940,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243298,
+  "EOS_Progressed": 243301,
   "EOS_Completed": 309,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 3,
@@ -32504,6 +32510,11 @@
       "Time": "2024-01-21T03:10:00.6516803+00:00",
       "NumProgressed": 243298,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-21T04:12:26.7519567+00:00",
+      "NumProgressed": 243301,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32515,7 +32526,7 @@
       "Name": "Thank You, Friend",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "ALLACHIEVEMENTS",
@@ -32603,7 +32614,7 @@
       "Name": "Max Damage!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "DEPTH12",
@@ -32627,7 +32638,7 @@
       "Name": "A Rough Road",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "DEPTH6",
@@ -32835,7 +32846,7 @@
       "Name": "Berzerker",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "HIGHCLARITY",
@@ -33107,7 +33118,7 @@
       "Name": "Chain Reaction",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "MULTIKILL30",
@@ -33219,7 +33230,7 @@
       "Name": "Antivenom",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "REROLL30TIMES",
@@ -33339,7 +33350,7 @@
       "Name": "The Long Run",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 1216
+      "UsersEstimate": 1217
     },
     {
       "ID": "WIN0ATTACK",
@@ -33618,22 +33629,22 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243298,
+      "Progressed": 243301,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4778,
+      "Progressed": 4781,
       "Completed": 429
     }
   ],
   "FirstSeen": "2022-08-25T18:32:17.6282407+00:00",
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
-  "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:10:00.65168+00:00",
+  "LastChanged": "2024-01-21T04:02:18.4772606+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:12:26.7519561+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:00:07.9189864+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:10:00.6519585+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:02:18.4772612+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:12:26.7523629+00:00"
 }

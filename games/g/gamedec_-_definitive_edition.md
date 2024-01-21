@@ -6,11 +6,11 @@ Number of Ratings: 33  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I will finish what you started | 29.00% | ~74,943 |
+| I will finish what you started | 29.00% | ~74,944 |
 | Powergamer | 27.00% | ~69,775 |
-| Write that down | 25.00% | ~64,606 |
-| Barely scratched the surface | 25.00% | ~64,606 |
-| Guns, lots of guns | 13.00% | ~33,595 |
+| Write that down | 25.00% | ~64,607 |
+| Barely scratched the surface | 25.00% | ~64,607 |
+| Guns, lots of guns | 13.00% | ~33,596 |
 | Collector | 12.00% | ~31,011 |
 | Elementary! | 9.00% | ~23,258 |
 | Griever | 8.00% | ~20,674 |
@@ -27,14 +27,14 @@ Number of Ratings: 33  (23.09.2022)
 | Hoarder | 3.00% | ~7,753 |
 | I like to sniff around | 3.00% | ~7,753 |
 | Mind reader | 3.00% | ~7,753 |
-| Catnip | 2.00% | ~5,168 |
-| Gentleman's classic | 2.00% | ~5,168 |
-| Is that a rift? | 2.00% | ~5,168 |
-| It's alive! | 2.00% | ~5,168 |
-| Enjoy the beach | 2.00% | ~5,168 |
-| Rinse and repeat | 2.00% | ~5,168 |
-| Mama, I'm a criminal | 2.00% | ~5,168 |
-| Never gonna give you up | 2.00% | ~5,168 |
+| Catnip | 2.00% | ~5,169 |
+| Gentleman's classic | 2.00% | ~5,169 |
+| Is that a rift? | 2.00% | ~5,169 |
+| It's alive! | 2.00% | ~5,169 |
+| Enjoy the beach | 2.00% | ~5,169 |
+| Rinse and repeat | 2.00% | ~5,169 |
+| Mama, I'm a criminal | 2.00% | ~5,169 |
+| Never gonna give you up | 2.00% | ~5,169 |
 | A muscle to rely on | 1.00% | ~2,584 |
 | A true blacksmith | 1.00% | ~2,584 |
 | I am in great pain, please help me | 1.00% | ~2,584 |
@@ -59,7 +59,7 @@ Number of Ratings: 33  (23.09.2022)
 | This is the way | 0.20% | ~517 |
 | Memory 5 | 0.10% | ~258 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 258,425 (Ranked 70)  
+Progressed: 258,427 (Ranked 70)  
 Completed: 8 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 8 (0.00%) (Ranked 408)
 | 2024-01-18 | 258,201 | 8 |
 | 2024-01-19 | 258,303 | 8 |
 | 2024-01-20 | 258,413 | 8 |
-| 2024-01-21 | 258,425 | 8 |
+| 2024-01-21 | 258,427 | 8 |
 ## Awards
 Max (Character Customization): 99  (Ranked 385)  
 Sum: 99 (Ranked 474)  

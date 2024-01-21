@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15783,
+  "EOS_Progressed": 15786,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 239,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19586,6 +19586,11 @@
       "Time": "2024-01-21T02:04:50.3298851+00:00",
       "NumProgressed": 15783,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T04:07:44.1587356+00:00",
+      "NumProgressed": 15786,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19637,7 +19642,7 @@
       "Name": "Dal\u00ED",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_WITHIN_20_SECONDS_4_PLAYERS",
@@ -19669,7 +19674,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6945
+      "UsersEstimate": 6946
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -19796,7 +19801,7 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15783,
+      "Progressed": 15786,
       "Completed": 0
     }
   ],
@@ -19804,8 +19809,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:05:01.1434173+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:07:44.1587351+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8491193+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:01:16.6538291+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:05:01.1435189+00:00"
+  "LastUpdate_Ratings": "2024-01-21T03:57:52.4241405+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:07:44.1588695+00:00"
 }

@@ -43,9 +43,9 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Navigators | 0.90% | ~68 |
 | Hyperspace! | 0.80% | ~61 |
 | Veteran Crew | 0.80% | ~61 |
+| Win as the Krynn | 0.80% | ~61 |
 | Win as Torians | 0.80% | ~61 |
 | Win as the Drengin | 0.70% | ~53 |
-| Win as the Krynn | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
 | Win as the Drath | 0.60% | ~45 |
 | Win as the Iridium | 0.60% | ~45 |

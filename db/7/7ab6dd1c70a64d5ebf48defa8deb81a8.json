@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 82,
+  "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2409,
+  "EOS_Progressed": 2410,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 2,
@@ -4901,6 +4901,11 @@
       "Time": "2024-01-21T00:11:23.8604501+00:00",
       "NumProgressed": 2409,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T04:12:16.5177753+00:00",
+      "NumProgressed": 2410,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4920,7 +4925,7 @@
       "Name": "Find Allies",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_03",
@@ -4968,7 +4973,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_09",
@@ -4984,7 +4989,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "ACH_11",
@@ -5008,7 +5013,7 @@
       "Name": "Adventurer",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_14",
@@ -5032,7 +5037,7 @@
       "Name": "Essence Blow",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_17",
@@ -5048,7 +5053,7 @@
       "Name": "Shatter Them All",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_19",
@@ -5072,7 +5077,7 @@
       "Name": "Big Bazar",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "ACH_22",
@@ -5088,7 +5093,7 @@
       "Name": "Geared Up",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 626
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_24",
@@ -5144,7 +5149,7 @@
       "Name": "Alchemist",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "ACH_31",
@@ -5199,7 +5204,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2409,
+      "Progressed": 2410,
       "Completed": 5
     }
   ],
@@ -5207,8 +5212,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:09:53.002396+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:12:16.5177746+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:58:41.9029605+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:09:53.0024433+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:00:09.2678664+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:12:16.5178335+00:00"
 }

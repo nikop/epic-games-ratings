@@ -3969,10 +3969,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3401,
       "NumberOfAwardsMax": 455
+    },
+    {
+      "Time": "2024-01-21T04:03:34.3718505+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3405,
+      "NumberOfAwardsMax": 455
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3401,
+  "NumberOfAwards": 3405,
   "NumberOfAwardsMax": 455,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4010,7 +4016,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 450
+      "Count": 454
     },
     {
       "Text": "This game has Amazing Characters",
@@ -4037,9 +4043,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20929,
+  "EOS_Progressed": 20930,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20187,6 +20193,11 @@
       "Time": "2024-01-21T03:08:24.4222215+00:00",
       "NumProgressed": 20929,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-21T04:10:09.0053468+00:00",
+      "NumProgressed": 20930,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20461,9 +20472,9 @@
       "ID": "WinOnCoral",
       "SetID": "cfbk359",
       "Name": "Coral Forest",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1674
     },
     {
       "ID": "WinOnCursed",
@@ -20670,15 +20681,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20929,
+      "Progressed": 20930,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-20T23:00:42.9378244+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:08:24.4222211+00:00",
+  "LastChanged": "2024-01-21T04:03:34.3718503+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:10:09.0053465+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:00:25.7119033+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:08:24.4223508+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:03:34.3718509+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:10:09.0054764+00:00"
 }

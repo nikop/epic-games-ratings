@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 27,
+  "Ranking_EOS_NewPlayers": 28,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -18818,9 +18818,9 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056089,
+  "EOS_Progressed": 1056116,
   "EOS_Completed": 3137,
-  "EOS_NewPlayers": 5908,
+  "EOS_NewPlayers": 5887,
   "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50403,6 +50403,11 @@
       "Time": "2024-01-21T03:08:48.3191738+00:00",
       "NumProgressed": 1056089,
       "NumCompleted": 3137
+    },
+    {
+      "Time": "2024-01-21T04:10:44.0171256+00:00",
+      "NumProgressed": 1056116,
+      "NumCompleted": 3137
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50439,7 +50444,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "Denied",
@@ -50447,7 +50452,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "FollowingTheRiver",
@@ -50639,7 +50644,7 @@
       "Name": "The Hermit",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "TheHightPriestess",
@@ -50647,7 +50652,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "TheLovers",
@@ -50679,7 +50684,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "TheWorld",
@@ -50711,7 +50716,7 @@
       "Name": "True Soldier",
       "Percentage": 0.5,
       "XP": 30,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "TrueWarrior",
@@ -50950,21 +50955,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056089,
+      "Progressed": 1056116,
       "Completed": 3137
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184712,
+      "Progressed": 184739,
       "Completed": 10668
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-21T03:03:02.2275691+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:08:48.3191735+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:10:44.0171252+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:03:02.2275696+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:08:48.3193697+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:04:44.1255267+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:10:44.0173276+00:00"
 }

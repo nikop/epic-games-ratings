@@ -4,8 +4,8 @@
   "ProductSlug": "toweroffantasy",
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2099-06-26T16:00:00+00:00",
     "PcReleaseDate": "2099-06-26T16:00:00+00:00",
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-14T04:57:28.6969338+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:58:43.1238588+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:07:05.9033318+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:00:11.1691841+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:05:06.9517279+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,7 +22,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -1597,6 +1597,11 @@
       "Time": "2024-01-20T23:09:01.9936484+00:00",
       "NumProgressed": 539,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T04:10:25.1764758+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1681,7 +1686,7 @@
       "Name": "Big Encounter",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "FIRST_KODAMA_ELDER_TALK",
@@ -1705,7 +1710,7 @@
       "Name": "Celestial Rain",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "FIRST_MINIBOSS_DEFEATED",
@@ -1719,9 +1724,9 @@
       "ID": "FIRST_POWER_BOOST",
       "SetID": "apihg0e",
       "Name": "Speed Demon",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 253
+      "UsersEstimate": 248
     },
     {
       "ID": "FIRST_S_RANK",
@@ -1753,7 +1758,7 @@
       "Name": "Koco Leader",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "MAIN_CLEAR_ISLAND1",
@@ -1761,7 +1766,7 @@
       "Name": "The Beginning",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1801,7 +1806,7 @@
       "Name": "The Journey Begins",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "MINIBOSS_DEFEATED_ALL",
@@ -1919,23 +1924,23 @@
       "ID": "TOTAL_DESTROYED_OBJECT",
       "SetID": "apihg0e",
       "Name": "Swath of Destruction",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 172
+      "UsersEstimate": 167
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:08:35.3297376+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:10:25.1764753+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:59:42.7389525+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:08:35.3297936+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:01:41.8825601+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:10:25.176516+00:00"
 }

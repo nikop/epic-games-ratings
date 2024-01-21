@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 84,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-06-01T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2457,9 +2457,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 1302032,
+  "EOS_Progressed": 1302037,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1153,
+  "EOS_NewPlayers": 1150,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29817,6 +29817,11 @@
       "Time": "2024-01-21T03:05:56.0009919+00:00",
       "NumProgressed": 1302032,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T04:09:03.7766012+00:00",
+      "NumProgressed": 1302037,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -29964,7 +29969,7 @@
       "Name": "10 Kills as a Hunter!",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 208325
+      "UsersEstimate": 208326
     },
     {
       "ID": "10_hunter_wins",
@@ -30116,7 +30121,7 @@
       "Name": "ACE!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 130203
+      "UsersEstimate": 130204
     },
     {
       "ID": "ghost_win",
@@ -30124,7 +30129,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 768199
+      "UsersEstimate": 768202
     },
     {
       "ID": "hunter_win",
@@ -30132,7 +30137,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 703097
+      "UsersEstimate": 703100
     },
     {
       "ID": "master_of_loadouts",
@@ -30156,14 +30161,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 286447
+      "UsersEstimate": 286448
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1302032,
+      "Progressed": 1302037,
       "Completed": 0
     }
   ],
@@ -30171,8 +30176,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-19T23:59:53.9181208+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:05:56.0009916+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:09:03.7766007+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:08.3458382+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:59:35.1229863+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:05:56.0011599+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:01:30.40111+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:09:03.7767342+00:00"
 }

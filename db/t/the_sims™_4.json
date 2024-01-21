@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -12161,10 +12161,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 16024,
       "NumberOfAwardsMax": 3142
+    },
+    {
+      "Time": "2024-01-21T04:04:31.5816122+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 16047,
+      "NumberOfAwardsMax": 3142
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16024,
+  "NumberOfAwards": 16047,
   "NumberOfAwardsMax": 3142,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12214,7 +12220,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 1180
+      "Count": 1190
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -12232,7 +12238,7 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 1094
+      "Count": 1107
     }
   ],
   "EOS_Progressed": 0,
@@ -12255,9 +12261,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-01-20T23:03:16.1531458+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:08:28.1091176+00:00",
+  "LastChanged": "2024-01-21T04:04:31.581612+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:10:14.4260749+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.5249412+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:02:53.8990337+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:08:28.1091209+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:04:31.5816126+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:10:14.4260947+00:00"
 }

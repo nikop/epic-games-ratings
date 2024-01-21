@@ -15,12 +15,12 @@
 | Indebted | 10.00% | ~30 |
 | Perfect Soldier | 8.00% | ~24 |
 | Desert Rat | 8.00% | ~24 |
+| Pathfinder | 7.00% | ~21 |
 | Food Tycoon | 7.00% | ~21 |
 | Fuel Tycoon | 7.00% | ~21 |
 | Ammo Tycoon | 7.00% | ~21 |
 | Healing | 6.00% | ~18 |
 | Good payer | 6.00% | ~18 |
-| Pathfinder | 6.00% | ~18 |
 | Self-sufficient | 6.00% | ~18 |
 | Jantine: the Misfortunes of Evil | 5.00% | ~15 |
 | Overpopulation | 5.00% | ~15 |

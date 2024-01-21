@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 186,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 155,
+  "Ranking_EOS_NewPlayers": 205,
+  "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1099,7 +1099,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10015,
+  "EOS_Progressed": 10016,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
@@ -11424,6 +11424,11 @@
       "Time": "2024-01-21T03:09:24.6529745+00:00",
       "NumProgressed": 10015,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T04:11:36.2126234+00:00",
+      "NumProgressed": 10016,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11579,7 +11584,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1602
+      "UsersEstimate": 1603
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11603,7 +11608,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3505
+      "UsersEstimate": 3506
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11794,7 +11799,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10015,
+      "Progressed": 10016,
       "Completed": 10
     }
   ],
@@ -11802,8 +11807,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-20T21:57:37.7605938+00:00",
-  "LastChanged_Achievements": "2024-01-21T03:09:24.6529742+00:00",
+  "LastChanged_Achievements": "2024-01-21T04:11:36.212623+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:57:49.9383778+00:00",
-  "LastUpdate_Achievements": "2024-01-21T03:09:24.6530513+00:00"
+  "LastUpdate_Ratings": "2024-01-21T03:58:48.860904+00:00",
+  "LastUpdate_Achievements": "2024-01-21T04:11:36.2127262+00:00"
 }
