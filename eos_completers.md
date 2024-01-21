@@ -44,7 +44,7 @@
 | 42 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.97% |
 | 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.80% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
-| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.31% |
+| 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.30% |
 | 46 | [Ugly](games/9/9fce794446ac40aea4c4e3c4cf07c162.md) | 9.09% |
 | 47 | [Placid Plastic Duck Simulator](games/f/fc3184cec5eb463ea33412294a05fca2.md) | 8.42% |
 | 48 | [Kaichu - The Kaiju Dating Sim](games/k/kaichu_-_the_kaiju_dating_sim.md) | 8.33% |
@@ -103,8 +103,8 @@
 | 101 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 101 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
 | 103 | [Creepy Tale](games/a/aa192fc2c63f4db5b9faf193acc807e1.md) | 3.49% |
-| 103 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.49% |
-| 105 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
+| 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
+| 104 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.45% |
 | 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.21% |
 | 108 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.20% |
@@ -171,14 +171,14 @@
 | 169 | [Iron Danger](games/i/iron_danger.md) | 1.14% |
 | 170 | [Adios](games/a/adios.md) | 1.13% |
 | 170 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.13% |
-| 172 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.12% |
 | 172 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
-| 174 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.11% |
+| 173 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.11% |
+| 173 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.11% |
 | 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
 | 175 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
 | 177 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.07% |
-| 178 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.06% |
-| 179 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
+| 178 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.05% |
+| 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 180 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 180 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.03% |
 | 182 | [Sable](games/s/sable.md) | 1.02% |
@@ -285,11 +285,11 @@
 | 283 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
 | 283 | [Eternights](games/e/eternights.md) | 0.22% |
 | 285 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 0.21% |
+| 285 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.21% |
 | 285 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 0.21% |
-| 287 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 0.20% |
-| 287 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
-| 287 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
-| 287 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.20% |
+| 288 | [Despot's Game](games/d/despot's_game.md) | 0.20% |
+| 288 | [Terraforming Mars](games/t/terraforming_mars.md) | 0.20% |
+| 288 | [Warhammer 40,000: Boltgun](games/a/ace01fe38cfb4479b1009cf49478ff18.md) | 0.20% |
 | 291 | [Circus Electrique](games/c/circus_electrique.md) | 0.19% |
 | 291 | [Pillars of Eternity - Definitive Edition](games/p/pillars_of_eternity_-_definitive_edition.md) | 0.19% |
 | 293 | [Ghostrunner 2](games/7/708f57aaa04b42ef885be16c8288f0ac.md) | 0.18% |
