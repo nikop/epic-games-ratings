@@ -75,9 +75,9 @@
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.71% |
 | 74 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 76 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 5.08% |
+| 76 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 5.00% |
 | 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.97% |
-| 78 | [Bugsnax](games/b/bugsnax.md) | 4.90% |
+| 78 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
 | 79 | [ZZT!](games/z/zzt!.md) | 4.77% |
 | 80 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
 | 81 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
@@ -182,9 +182,9 @@
 | 180 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 1.03% |
 | 181 | [Sable](games/s/sable.md) | 1.02% |
 | 181 | [There Is No Game - Wrong Dimension](games/5/5f7c8e78a55f4eb9956329556c44a27a.md) | 1.02% |
-| 183 | [Lemon Cake](games/l/lemon_cake.md) | 1.01% |
-| 184 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.00% |
-| 184 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.00% |
+| 183 | [EA SPORTS™ PGA TOUR™](games/e/ea_sports™_pga_tour™.md) | 1.00% |
+| 183 | [Lemon Cake](games/l/lemon_cake.md) | 1.00% |
+| 183 | [The Mageseeker: A League of Legends Story™](games/t/the_mageseeker__a_league_of_legends_story™.md) | 1.00% |
 | 186 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
 | 187 | [Trifox](games/t/trifox.md) | 0.94% |
 | 188 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |

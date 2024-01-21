@@ -527,6 +527,7 @@
 | [The Isle Tide Hotel](../games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 26 | 1,000 |
 | [The Legend of Tianding](../games/t/the_legend_of_tianding.md) | 26 | 1,000 |
 | [Tortuga - A Pirate's Tale](../games/t/tortuga_-_a_pirate's_tale.md) | 26 | 1,000 |
+| [Wavecade](../games/8/8e8e69a4f240487d89727df7761c5362.md) | 26 | 1,000 |
 | [12 orbits](../games/1/12_orbits.md) | 25 | 1,000 |
 | [Adios](../games/a/adios.md) | 25 | 1,000 |
 | [Astronite](../games/a/a6f0804f960a472c95e3bae2e0543bb0.md) | 25 | 1,000 |

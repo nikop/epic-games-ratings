@@ -870,6 +870,7 @@
 | [Warhammer Age of Sigmar: Realms of Ruin](../games/0/0f4a57443f904107818acfc2068704f9.md) | 37 | 1,000 |
 | [Warstone TD](../games/4/4470ce6748c74c708af72cf4535efca6.md) | 68 | 1,000 |
 | [Watch Over Christmas](../games/2/263f654a1236484397892332888256aa.md) | 43 | 1,000 |
+| [Wavecade](../games/8/8e8e69a4f240487d89727df7761c5362.md) | 26 | 1,000 |
 | [Way of the Hunter](../games/w/way_of_the_hunter.md) | 27 | 1,000 |
 | [We Are OFK](../games/w/we_are_ofk.md) | 28 | 1,000 |
 | [We Were Here Expeditions: The FriendShip](../games/8/88feec140a2f41c3954365c24393be14.md) | 12 | 1,000 |
