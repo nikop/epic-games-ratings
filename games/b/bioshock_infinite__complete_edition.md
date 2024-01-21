@@ -1,12 +1,12 @@
 # BioShock Infinite: Complete Edition
 [Store](https://store.epicgames.com/en-US/p/bioshock-infinite-complete-edition)  
 [View Rawdata](../../db/b/bioshock_infinite__complete_edition.json)  
-Rating: 4.70 (Ranked 224)  
+Rating: 4.70 (Ranked 223)  
 Number of Ratings: 18,329  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 4,643  (Ranked 86)  
+Max (Great Boss Battles): 4,643  (Ranked 87)  
 Sum: 5,594 (Ranked 144)  
-Diff (max vs sum): -58  
+Diff (max vs sum): -57  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 4,643 |

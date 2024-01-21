@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Black Cat's Warning | 114.00% | ~122 |
-| Break no Sweat | 109.00% | ~117 |
-| Every little bit counts | 103.00% | ~110 |
-| Growth | 86.00% | ~92 |
-| Targeting the Enemy | 71.00% | ~76 |
-| Unavoidable | 67.00% | ~72 |
+| Black Cat's Warning | 115.00% | ~122 |
+| Break no Sweat | 110.00% | ~117 |
+| Every little bit counts | 104.00% | ~110 |
+| Growth | 87.00% | ~92 |
+| Targeting the Enemy | 72.00% | ~76 |
+| Unavoidable | 68.00% | ~72 |
 | Revenge | 64.00% | ~68 |
-| Reunion | 41.00% | ~44 |
-| Fluke | 36.00% | ~39 |
+| Reunion | 42.00% | ~45 |
+| Fluke | 36.00% | ~38 |
 | Elimination | 34.00% | ~36 |
 | Victor's Prejudice | 33.00% | ~35 |
 | Excellent Driving Skills | 32.00% | ~34 |
@@ -21,21 +21,21 @@
 | Fleet-footed | 28.00% | ~30 |
 | Defeat the AI | 27.00% | ~29 |
 | Invincible | 27.00% | ~29 |
-| Walking into a Trap | 23.00% | ~25 |
-| Best in Dragon City | 22.00% | ~24 |
-| Unsalvageable | 22.00% | ~24 |
-| Neutralize | 22.00% | ~24 |
-| Disdain | 21.00% | ~22 |
+| Walking into a Trap | 24.00% | ~25 |
+| Best in Dragon City | 23.00% | ~24 |
+| Unsalvageable | 23.00% | ~24 |
+| Neutralize | 23.00% | ~24 |
+| Disdain | 22.00% | ~23 |
 | Brain in a Vat | 19.00% | ~20 |
 | Final Battle | 18.00% | ~19 |
 | Outsider's Profit | 18.00% | ~19 |
 | Reappearance | 16.00% | ~17 |
 | King of the Streets | 9.00% | ~10 |
 | Survival Expert | 9.00% | ~10 |
-| Calamity | 8.00% | ~9 |
+| Calamity | 8.00% | ~8 |
+| Achieving Excellence | 8.00% | ~8 |
+| Rest in peace | 8.00% | ~8 |
 | Still A Chance | 7.00% | ~7 |
-| Achieving Excellence | 7.00% | ~7 |
-| Rest in peace | 7.00% | ~7 |
 | Fashionista | 7.00% | ~7 |
 | Intel Expert | 5.00% | ~5 |
 | Unexpected Crisis | 4.00% | ~4 |
@@ -62,7 +62,7 @@
 | Extreme Challenge | 0.00% | ~0 |
 | Smooth-Sailing | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 107 (Ranked 494)  
+Progressed: 106 (Ranked 495)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -133,6 +133,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-15 | 106 | 0 |
 | 2024-01-16 | 105 | 0 |
 | 2024-01-17 | 107 | 0 |
+| 2024-01-21 | 106 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -1,28 +1,28 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 241)  
+Rating: 4.69 (Ranked 240)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,244 |
-| Lost and Found | 9.00% | ~746 |
+| Lost and Found | 9.00% | ~747 |
 | Autodidact | 8.00% | ~10,674 |
-| This Belongs in a Museum | 7.00% | ~9,339 |
-| Creep and Sleep | 7.00% | ~9,339 |
-| Overdue Notice | 7.00% | ~9,339 |
-| This guy... again? | 7.00% | ~580 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,005 |
-| Serenity Now! | 6.00% | ~8,005 |
-| Meat and Greet | 6.00% | ~8,005 |
-| Catch and Decease | 6.00% | ~8,005 |
-| Escape from the Black Hole | 6.00% | ~8,005 |
-| Rush Hour | 6.00% | ~8,005 |
-| To Grandmother's House | 6.00% | ~8,005 |
-| FNG | 6.00% | ~8,005 |
-| Ploughshares to Swords | 6.00% | ~497 |
-| Bloody Graduation | 6.00% | ~497 |
+| This Belongs in a Museum | 7.00% | ~9,340 |
+| Creep and Sleep | 7.00% | ~9,340 |
+| Overdue Notice | 7.00% | ~9,340 |
+| This guy... again? | 7.00% | ~581 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,006 |
+| Serenity Now! | 6.00% | ~8,006 |
+| Meat and Greet | 6.00% | ~8,006 |
+| Catch and Decease | 6.00% | ~8,006 |
+| Escape from the Black Hole | 6.00% | ~8,006 |
+| Rush Hour | 6.00% | ~8,006 |
+| To Grandmother's House | 6.00% | ~8,006 |
+| FNG | 6.00% | ~8,006 |
+| Ploughshares to Swords | 6.00% | ~498 |
+| Bloody Graduation | 6.00% | ~498 |
 | It Rings a Bell | 5.00% | ~6,671 |
 | Not Today! | 5.00% | ~6,671 |
 | It Happens | 5.00% | ~6,671 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 5.00% | ~6,671 |
 | A Place to Lay Your Head | 5.00% | ~6,671 |
 | Nope | 5.00% | ~6,671 |
-| Friends 'Til the End | 5.00% | ~414 |
+| Friends 'Til the End | 5.00% | ~415 |
 | Resurrection | 4.00% | ~5,337 |
 | Unleash Hell | 4.00% | ~5,337 |
 | Funny Guy | 4.00% | ~5,337 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~4,003 |
 | Utopia | 3.00% | ~4,003 |
 | Hot Air | 3.00% | ~4,003 |
-| This Looks Familiar | 2.00% | ~2,668 |
-| Ichthyophobic | 2.00% | ~2,668 |
-| No More Mouths to Feed | 2.00% | ~2,668 |
-| Worldly Traveller | 2.00% | ~2,668 |
-| Eyes Up | 2.00% | ~2,668 |
-| Handled | 2.00% | ~2,668 |
-| Body of Work | 2.00% | ~2,668 |
+| This Looks Familiar | 2.00% | ~2,669 |
+| Ichthyophobic | 2.00% | ~2,669 |
+| No More Mouths to Feed | 2.00% | ~2,669 |
+| Worldly Traveller | 2.00% | ~2,669 |
+| Eyes Up | 2.00% | ~2,669 |
+| Handled | 2.00% | ~2,669 |
+| Body of Work | 2.00% | ~2,669 |
 | Clearing the Ledger | 1.00% | ~1,334 |
 | Hat Trick | 1.00% | ~1,334 |
 | Shrine of Reflection | 1.00% | ~1,334 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,421 (Ranked 92)  
+Progressed: 133,427 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,421 | 5 |
+| 2024-01-21 | 133,427 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
 Sum: 21,801 (Ranked 58)  

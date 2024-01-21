@@ -2,13 +2,13 @@
   "ID": "b7cca975adbf41e4a41f3ece9e61e08a",
   "Name": "Love Is All Around",
   "ProductSlug": "love-is-all-around-3a8046",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 489,
   "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 148,
-  "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 142,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -345,7 +345,7 @@
   ],
   "EOS_Progressed": 18953,
   "EOS_Completed": 337,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -10890,9 +10890,9 @@
       "ID": "NEW_ACHIEVEMENT_2_7",
       "SetID": "7opfcp",
       "Name": "Drama King",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 6823
+      "UsersEstimate": 7013
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -10923,8 +10923,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-20T14:59:39.7389406+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:20.7268535+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:14.1350451+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:02:21.6258877+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:20.7269374+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:02:03.465587+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:14.1351072+00:00"
 }

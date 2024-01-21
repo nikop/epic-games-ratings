@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -426,7 +426,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 209560,
+  "EOS_Progressed": 209565,
   "EOS_Completed": 567,
   "EOS_NewPlayers": 414,
   "EOS_NewCompleters": 3,
@@ -29951,6 +29951,11 @@
       "Time": "2024-01-21T19:06:11.1764568+00:00",
       "NumProgressed": 209560,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2024-01-21T20:05:47.4716394+00:00",
+      "NumProgressed": 209565,
+      "NumCompleted": 567
     }
   ],
   "TotalAchievements": 29,
@@ -29986,7 +29991,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196986
+      "UsersEstimate": 196991
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30018,7 +30023,7 @@
       "Name": "Cockpit",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHIEVEMENT_COLMIX",
@@ -30058,7 +30063,7 @@
       "Name": "Names to faces.",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHIEVEMENT_CRYOSLEEP",
@@ -30170,7 +30175,7 @@
       "Name": "Witness it.",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1676
+      "UsersEstimate": 1677
     },
     {
       "ID": "ACHIEVEMENT_WRAP",
@@ -30193,7 +30198,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209560,
+      "Progressed": 209565,
       "Completed": 567
     }
   ],
@@ -30201,8 +30206,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-15T08:03:08.7905455+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:06:11.1764562+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:05:47.471639+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:02:13.441639+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:06:11.1766112+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:01:55.183724+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:05:47.4717576+00:00"
 }

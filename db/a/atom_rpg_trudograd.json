@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 279,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 342,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-07T12:00:00+00:00",
@@ -258,9 +258,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 1416,
+  "EOS_Progressed": 1417,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2293,6 +2293,11 @@
       "Time": "2024-01-21T12:09:55.6579627+00:00",
       "NumProgressed": 1416,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T20:11:12.1816876+00:00",
+      "NumProgressed": 1417,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 32,
@@ -2344,7 +2349,7 @@
       "Name": "Baby Eater",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "COMMANDO",
@@ -2384,7 +2389,7 @@
       "Name": "Freelance Police",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "HOLY_MOUNTAIN",
@@ -2456,7 +2461,7 @@
       "Name": "Mysterious Knife",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "OLD_FRIEND",
@@ -2472,7 +2477,7 @@
       "Name": "The Great and Powerful",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "POWER_SIMPLICITY",
@@ -2520,7 +2525,7 @@
       "Name": "Sixth Sense",
       "Percentage": 0.6,
       "XP": 20,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "TERRORIST",
@@ -2552,14 +2557,14 @@
       "Name": "Fresh Prince of Trudograd",
       "Percentage": 87,
       "XP": 5,
-      "UsersEstimate": 1232
+      "UsersEstimate": 1233
     }
   ],
   "AchievementSets": [
     {
       "ID": "62d2oh4",
       "IsBase": true,
-      "Progressed": 1416,
+      "Progressed": 1417,
       "Completed": 0
     }
   ],
@@ -2567,8 +2572,8 @@
   "FirstSeenRating": "2022-11-18T14:57:38.1372527+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.1456736+00:00",
   "LastChanged": "2024-01-20T05:59:38.2083102+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:18.5915462+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:12.1816874+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.777095+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:02:43.4742398+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:18.591577+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:02:55.9020735+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:12.1817136+00:00"
 }

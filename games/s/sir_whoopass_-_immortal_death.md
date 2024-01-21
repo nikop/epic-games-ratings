@@ -87,7 +87,7 @@
 | Catch me if you can | 0.00% | ~0 |
 | Better safe than sorry - use protection | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 155 (Ranked 465)  
+Progressed: 155 (Ranked 466)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |

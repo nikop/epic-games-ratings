@@ -6,17 +6,17 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,299 |
-| A thief's beginning | 11.00% | ~25,024 |
-| Thorough | 11.00% | ~25,024 |
-| Disguised | 9.00% | ~20,474 |
-| Rescue Takuma | 9.00% | ~20,474 |
-| Rollin' | 9.00% | ~20,474 |
-| Tanuki Time | 9.00% | ~20,474 |
-| Ice Ice Yuki | 8.00% | ~18,199 |
-| Jonin | 8.00% | ~18,199 |
-| Stoned Ox | 8.00% | ~18,199 |
-| Yabu | 8.00% | ~18,199 |
+| Genin | 12.00% | ~27,300 |
+| A thief's beginning | 11.00% | ~25,025 |
+| Thorough | 11.00% | ~25,025 |
+| Disguised | 9.00% | ~20,475 |
+| Rescue Takuma | 9.00% | ~20,475 |
+| Rollin' | 9.00% | ~20,475 |
+| Tanuki Time | 9.00% | ~20,475 |
+| Ice Ice Yuki | 8.00% | ~18,200 |
+| Jonin | 8.00% | ~18,200 |
+| Stoned Ox | 8.00% | ~18,200 |
+| Yabu | 8.00% | ~18,200 |
 | Happy Planning | 7.00% | ~15,925 |
 | Mugen Unchained | 7.00% | ~15,925 |
 | Chunin | 6.00% | ~13,650 |
@@ -40,18 +40,18 @@ Number of Ratings: 495  (23.09.2022)
 | Meticulous | 1.00% | ~2,275 |
 | Undeserved Honor | 1.00% | ~2,275 |
 | When Cut Across the Neck | 1.00% | ~2,275 |
-| High Five the Moon | 0.90% | ~2,047 |
-| The Cave | 0.90% | ~2,047 |
+| High Five the Moon | 0.90% | ~2,048 |
+| The Cave | 0.90% | ~2,048 |
 | Time Paradox | 0.60% | ~1,365 |
-| Merciful | 0.50% | ~1,137 |
+| Merciful | 0.50% | ~1,138 |
 | Five Shadows | 0.40% | ~910 |
 | Complete Mastery | 0.20% | ~455 |
 | Praise the Shogun | 0.20% | ~455 |
-| Chicken Dinner | 0.10% | ~227 |
-| Mimimi | 0.10% | ~227 |
-| Release the Kraken | 0.10% | ~227 |
+| Chicken Dinner | 0.10% | ~228 |
+| Mimimi | 0.10% | ~228 |
+| Release the Kraken | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,493 (Ranked 80)  
+Progressed: 227,501 (Ranked 80)  
 Completed: 110 (0.05%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,16 +327,16 @@ Completed: 110 (0.05%) (Ranked 346)
 | 2024-01-18 | 226,722 | 108 |
 | 2024-01-19 | 226,961 | 108 |
 | 2024-01-20 | 227,247 | 108 |
-| 2024-01-21 | 227,493 | 110 |
+| 2024-01-21 | 227,501 | 110 |
 ## Awards
 Max (Great for Beginners): 596  (Ranked 213)  
-Sum: 4,966 (Ranked 155)  
+Sum: 4,968 (Ranked 155)  
 Diff (max vs sum): 58  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 596 |
 | This game has Diverse Characters | 552 |
-| This game is Extremely Fun | 545 |
+| This game is Extremely Fun | 547 |
 | This game has Amazing Storytelling | 525 |
 | This game has Amazing Characters | 510 |
 | This game is Highly Recommended | 505 |
@@ -607,4 +607,4 @@ Diff (max vs sum): 58
 | 2024-01-16 | 4.67 | - | 594 | 4,962 |
 | 2024-01-17 | 4.67 | - | 595 | 4,963 |
 | 2024-01-20 | 4.67 | - | 595 | 4,965 |
-| 2024-01-21 | 4.67 | - | 596 | 4,966 |
+| 2024-01-21 | 4.67 | - | 596 | 4,968 |

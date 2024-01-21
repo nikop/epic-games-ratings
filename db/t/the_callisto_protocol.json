@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 957,
   "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 156,
@@ -2339,7 +2339,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22637,
+  "EOS_Progressed": 22638,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
@@ -14629,6 +14629,11 @@
       "Time": "2024-01-21T19:11:23.5099886+00:00",
       "NumProgressed": 22637,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-21T20:11:16.9593562+00:00",
+      "NumProgressed": 22638,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14672,7 +14677,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14776,7 +14781,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14832,7 +14837,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14864,7 +14869,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14888,7 +14893,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2716
+      "UsersEstimate": 2717
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15015,13 +15020,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22637,
+      "Progressed": 22638,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10563,
+      "Progressed": 10564,
       "Completed": 29
     }
   ],
@@ -15029,8 +15034,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:23.5099881+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:16.9593559+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:04:33.066562+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:23.5100939+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:04:07.8730862+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:16.9594262+00:00"
 }

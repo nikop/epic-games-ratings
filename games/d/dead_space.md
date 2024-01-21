@@ -1,59 +1,59 @@
 # Dead Space
 [Store](https://store.epicgames.com/en-US/p/dead-space)  
 [View Rawdata](../../db/d/dead_space.json)  
-Rating: 4.71 (Ranked 207)  
+Rating: 4.71 (Ranked 206)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 97.00% | ~18,122 |
-| Welcome Aboard | 83.00% | ~15,506 |
-| Lab Rat | 67.00% | ~12,517 |
-| All Systems Go | 56.00% | ~10,462 |
-| Brute Force | 55.00% | ~10,275 |
-| Cannon Fodder | 52.00% | ~9,715 |
-| Raise the Stakes | 50.00% | ~9,341 |
-| Autofire | 47.00% | ~8,781 |
-| True Believer | 47.00% | ~8,781 |
-| Story Teller | 46.00% | ~8,594 |
-| Surgeon | 44.00% | ~8,220 |
-| Freeze | 43.00% | ~8,033 |
-| Exterminator | 43.00% | ~8,033 |
-| Greenhouse Effect | 43.00% | ~8,033 |
-| S.O.S. | 38.00% | ~7,099 |
-| Full Arsenal | 36.00% | ~6,726 |
-| Live with the Hot Ones | 36.00% | ~6,726 |
-| Get Off My Ship! | 36.00% | ~6,726 |
-| Strange Transmissions | 36.00% | ~6,726 |
-| Wreckage | 35.00% | ~6,539 |
-| Keeper of the Faith | 33.00% | ~6,165 |
-| Betrayed | 32.00% | ~5,978 |
-| Exodus | 31.00% | ~5,791 |
-| Legend Teller | 31.00% | ~5,791 |
-| Mindless Prey | 31.00% | ~5,791 |
-| There's Always Peng! | 30.00% | ~5,605 |
-| A Cut Above | 28.00% | ~5,231 |
-| Front Toward Enemy | 27.00% | ~5,044 |
-| Set A Benchmark | 24.00% | ~4,484 |
-| Whole Again | 23.00% | ~4,297 |
-| Final Regeneration | 20.00% | ~3,736 |
-| Full Contact | 20.00% | ~3,736 |
-| Full Clearance | 19.00% | ~3,550 |
-| Z-Baller | 18.00% | ~3,363 |
-| Pusher | 17.00% | ~3,176 |
-| Pack Rat | 16.00% | ~2,989 |
+| Marksman | 97.00% | ~18,127 |
+| Welcome Aboard | 83.00% | ~15,511 |
+| Lab Rat | 67.00% | ~12,521 |
+| All Systems Go | 56.00% | ~10,465 |
+| Brute Force | 55.00% | ~10,278 |
+| Cannon Fodder | 52.00% | ~9,718 |
+| Raise the Stakes | 50.00% | ~9,344 |
+| Autofire | 47.00% | ~8,783 |
+| True Believer | 47.00% | ~8,783 |
+| Story Teller | 46.00% | ~8,596 |
+| Surgeon | 44.00% | ~8,223 |
+| Freeze | 43.00% | ~8,036 |
+| Exterminator | 43.00% | ~8,036 |
+| Greenhouse Effect | 43.00% | ~8,036 |
+| S.O.S. | 38.00% | ~7,101 |
+| Full Arsenal | 36.00% | ~6,728 |
+| Live with the Hot Ones | 36.00% | ~6,728 |
+| Get Off My Ship! | 36.00% | ~6,728 |
+| Strange Transmissions | 36.00% | ~6,728 |
+| Wreckage | 35.00% | ~6,541 |
+| Keeper of the Faith | 33.00% | ~6,167 |
+| Betrayed | 32.00% | ~5,980 |
+| Exodus | 31.00% | ~5,793 |
+| Legend Teller | 31.00% | ~5,793 |
+| Mindless Prey | 31.00% | ~5,793 |
+| There's Always Peng! | 30.00% | ~5,606 |
+| A Cut Above | 28.00% | ~5,233 |
+| Front Toward Enemy | 27.00% | ~5,046 |
+| Set A Benchmark | 24.00% | ~4,485 |
+| Whole Again | 23.00% | ~4,298 |
+| Final Regeneration | 20.00% | ~3,738 |
+| Full Contact | 20.00% | ~3,738 |
+| Full Clearance | 19.00% | ~3,551 |
+| Z-Baller | 18.00% | ~3,364 |
+| Pusher | 17.00% | ~3,177 |
+| Pack Rat | 16.00% | ~2,990 |
 | Eviscerator | 13.00% | ~2,429 |
-| Backbreaker | 11.00% | ~2,055 |
-| Marked | 11.00% | ~2,055 |
+| Backbreaker | 11.00% | ~2,056 |
+| Marked | 11.00% | ~2,056 |
 | Wishbone | 7.00% | ~1,308 |
-| Built To Order | 4.00% | ~747 |
-| Trusted Contractor | 3.00% | ~560 |
-| Merchant | 3.00% | ~560 |
+| Built To Order | 4.00% | ~748 |
+| Trusted Contractor | 3.00% | ~561 |
+| Merchant | 3.00% | ~561 |
 | Maxed Out | 2.00% | ~374 |
 | Untouchable | 1.00% | ~187 |
 | One Gun | 1.00% | ~187 |
 | Reunion | 1.00% | ~187 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,682 (Ranked 163)  
+Progressed: 18,688 (Ranked 163)  
 Completed: 52 (0.28%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,11 +182,11 @@ Completed: 52 (0.28%) (Ranked 269)
 | 2024-01-18 | 18,282 | 49 |
 | 2024-01-19 | 18,386 | 49 |
 | 2024-01-20 | 18,549 | 51 |
-| 2024-01-21 | 18,682 | 52 |
+| 2024-01-21 | 18,688 | 52 |
 ## Awards
-Max (Great Boss Battles): 306  (Ranked 261)  
+Max (Great Boss Battles): 306  (Ranked 262)  
 Sum: 306 (Ranked 383)  
-Diff (max vs sum): -122  
+Diff (max vs sum): -121  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 306 |

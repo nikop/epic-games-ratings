@@ -2,10 +2,10 @@
   "ID": "263de26be57d43528bb9c7fdb133b9fe",
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
-  "Ranking_EOS_Progress": 546,
+  "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 219,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 64,
+  "EOS_Progressed": 65,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 57,
+  "EOS_NewPlayers": 58,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.69,
+  "EOS_Completed_Percentage": 4.62,
   "EosHistory": [
     {
       "Time": "2024-01-18T17:10:07.9287814+00:00",
@@ -199,6 +199,11 @@
       "Time": "2024-01-21T16:05:29.7481204+00:00",
       "NumProgressed": 64,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T20:07:03.6825509+00:00",
+      "NumProgressed": 65,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-01-18T17:10:07.9287841+00:00",
@@ -209,7 +214,7 @@
       "ID": "BANK_DAD",
       "SetID": "89ki2f0",
       "Name": "Found dad\u0027s old stuff",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 35,
       "UsersEstimate": 8
     },
@@ -219,13 +224,13 @@
       "Name": "Broke into the Botanical Bank",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "BANK_MOTHERLODE",
       "SetID": "89ki2f0",
       "Name": "JACKPOT!!!",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 45,
       "UsersEstimate": 8
     },
@@ -241,7 +246,7 @@
       "ID": "BOSS_1",
       "SetID": "89ki2f0",
       "Name": "Down the rabbit hole",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
       "UsersEstimate": 36
     },
@@ -249,7 +254,7 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 35,
       "UsersEstimate": 21
     },
@@ -257,9 +262,9 @@
       "ID": "BOSS_3",
       "SetID": "89ki2f0",
       "Name": "Thiccc \u0026 snatched",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "BOSS_4",
@@ -291,7 +296,7 @@
       "Name": "Illegal goods",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "HATS_ALL",
@@ -313,7 +318,7 @@
       "ID": "MONEY_10K",
       "SetID": "89ki2f0",
       "Name": "Rolling in it",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 35,
       "UsersEstimate": 36
     },
@@ -321,15 +326,15 @@
       "ID": "MONEY_1K",
       "SetID": "89ki2f0",
       "Name": "Buy yourself something nice",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "MONEY_1M",
       "SetID": "89ki2f0",
       "Name": "Please stop asking me for money",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -345,7 +350,7 @@
       "ID": "RESEARCH_ALL",
       "SetID": "89ki2f0",
       "Name": "Five head",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 75,
       "UsersEstimate": 12
     },
@@ -355,7 +360,7 @@
       "Name": "For science!",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "TASKS_ALL",
@@ -369,7 +374,7 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 50,
       "UsersEstimate": 8
     },
@@ -377,7 +382,7 @@
       "ID": "UPGRADES_FIRST",
       "SetID": "89ki2f0",
       "Name": "Better, faster, stronger",
-      "Percentage": 70,
+      "Percentage": 69,
       "XP": 20,
       "UsersEstimate": 45
     },
@@ -387,21 +392,21 @@
       "Name": "Woah! Guns!",
       "Percentage": 69,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     }
   ],
   "AchievementSets": [
     {
       "ID": "89ki2f0",
       "IsBase": true,
-      "Progressed": 64,
+      "Progressed": 65,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:07:28.3209667+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:07:03.6825507+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:01:12.7260555+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:07:28.3209787+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:00:53.4617734+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:07:03.6825671+00:00"
 }

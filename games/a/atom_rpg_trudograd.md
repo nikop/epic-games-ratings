@@ -5,7 +5,7 @@ Rating: 4.57 (Ranked 497)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fresh Prince of Trudograd | 87.00% | ~1,232 |
+| Fresh Prince of Trudograd | 87.00% | ~1,233 |
 | Household | 7.00% | ~99 |
 | An Old Friend | 6.00% | ~85 |
 | Lot 49 | 5.00% | ~71 |
@@ -13,9 +13,9 @@ Rating: 4.57 (Ranked 497)
 | Shadow over Trudograd | 4.00% | ~57 |
 | Viva La Revolution | 4.00% | ~57 |
 | Walking Fortress | 4.00% | ~57 |
-| Freelance Police | 3.00% | ~42 |
-| Mysterious Knife | 3.00% | ~42 |
-| The Great and Powerful | 3.00% | ~42 |
+| Freelance Police | 3.00% | ~43 |
+| Mysterious Knife | 3.00% | ~43 |
+| The Great and Powerful | 3.00% | ~43 |
 | Albino Bloodsucker | 2.00% | ~28 |
 | Fight Club | 2.00% | ~28 |
 | Human Antidote | 2.00% | ~28 |
@@ -23,8 +23,8 @@ Rating: 4.57 (Ranked 497)
 | Memoirs of a Nibbler | 0.90% | ~13 |
 | Rising Star | 0.80% | ~11 |
 | KGB Bunker | 0.70% | ~10 |
-| Baby Eater | 0.60% | ~8 |
-| Sixth Sense | 0.60% | ~8 |
+| Baby Eater | 0.60% | ~9 |
+| Sixth Sense | 0.60% | ~9 |
 | Admiral | 0.40% | ~6 |
 | Incompetence | 0.40% | ~6 |
 | Goose Sacrifice | 0.40% | ~6 |
@@ -38,7 +38,7 @@ Rating: 4.57 (Ranked 497)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,416 (Ranked 279)  
+Progressed: 1,417 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -232,7 +232,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-17 | 1,412 | 0 |
 | 2024-01-18 | 1,414 | 0 |
 | 2024-01-19 | 1,415 | 0 |
-| 2024-01-21 | 1,416 | 0 |
+| 2024-01-21 | 1,417 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 551)  
 Sum: 26 (Ranked 563)  

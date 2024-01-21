@@ -1,18 +1,18 @@
 # Europa Universalis IV
 [Store](https://store.epicgames.com/en-US/p/europa-universalis-iv)  
 [View Rawdata](../../db/e/europa_universalis_iv.json)  
-Rating: 4.69 (Ranked 241)  
+Rating: 4.69 (Ranked 240)  
 Number of Ratings: 8,414  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.70% | ~3,523 |
+| Until death do us apart | 0.70% | ~3,524 |
 | That's a Grand Army | 0.60% | ~3,020 |
 | That is mine! | 0.60% | ~3,020 |
 | Victorious! | 0.60% | ~3,020 |
 | That's a Grand Navy | 0.50% | ~2,517 |
 | Seriously?! | 0.50% | ~2,517 |
-| Brothers in Arms | 0.40% | ~2,013 |
+| Brothers in Arms | 0.40% | ~2,014 |
 | Cold War | 0.30% | ~1,510 |
 | Defender of the Faith | 0.30% | ~1,510 |
 | For the Glory | 0.30% | ~1,510 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~503 |
 | The Zoro-Austrians | 0.10% | ~503 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503,350 (Ranked 42)  
+Progressed: 503,394 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -646,10 +646,10 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-18 | 501,312 | 1 |
 | 2024-01-19 | 501,958 | 2 |
 | 2024-01-20 | 502,741 | 2 |
-| 2024-01-21 | 503,350 | 2 |
+| 2024-01-21 | 503,394 | 2 |
 ## Awards
 Max (Educational): 7,925  (Ranked 53)  
-Sum: 65,403 (Ranked 25)  
+Sum: 65,414 (Ranked 25)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
@@ -660,7 +660,7 @@ Diff (max vs sum): 28
 | This game is Extremely Fun | 7,427 |
 | This game is Relaxing | 7,255 |
 | This game has Competitive Players | 7,108 |
-| This game has Amazing Storytelling | 6,612 |
+| This game has Amazing Storytelling | 6,623 |
 | This game has Amazing Characters | 6,117 |
 | This game has Obsessive Gameplay | 3,351 |
 | This game has Unique Visuals | 2,994 |
@@ -1035,4 +1035,4 @@ Diff (max vs sum): 28
 | 2024-01-18 | 4.69 | - | 7,890 | 65,057 |
 | 2024-01-19 | 4.69 | - | 7,911 | 65,212 |
 | 2024-01-20 | 4.69 | - | 7,911 | 65,336 |
-| 2024-01-21 | 4.69 | - | 7,925 | 65,403 |
+| 2024-01-21 | 4.69 | - | 7,925 | 65,414 |

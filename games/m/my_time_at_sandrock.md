@@ -24,18 +24,18 @@ Number of Ratings: 892  (23.09.2022)
 | Mole Masher | 99.00% | ~894 |
 | Big Game Hunter | 95.00% | ~858 |
 | Unboxing | 93.00% | ~840 |
-| What Plants Crave | 91.00% | ~822 |
+| What Plants Crave | 92.00% | ~831 |
 | Yakmel Whisperer | 90.00% | ~813 |
 | Panda-kin | 89.00% | ~804 |
+| First Love | 88.00% | ~795 |
 | Chatterbox | 87.00% | ~786 |
-| First Love | 87.00% | ~786 |
 | No Mountain Wide Enough | 86.00% | ~777 |
 | I Do! | 85.00% | ~768 |
 | Builder of the Month | 83.00% | ~749 |
 | Can We Keep It? | 82.00% | ~740 |
 | Bridging the Gap | 81.00% | ~731 |
+| Got the Flow Back | 78.00% | ~704 |
 | Waste Not Want Not | 78.00% | ~704 |
-| Got the Flow Back | 77.00% | ~695 |
 | Commissions, commissions...! | 76.00% | ~686 |
 | Elementary, My Dear | 75.00% | ~677 |
 | Lifeline Pipeline | 70.00% | ~632 |
@@ -47,7 +47,7 @@ Number of Ratings: 892  (23.09.2022)
 | Time Flies | 63.00% | ~569 |
 | Happier-est Place on Earth | 62.00% | ~560 |
 | Finishing Touches | 60.00% | ~542 |
-| Call Me Fishmael | 59.00% | ~533 |
+| Call Me Fishmael | 60.00% | ~542 |
 | Kind of a Big Deal | 57.00% | ~515 |
 | Just What I Always Wanted! | 56.00% | ~506 |
 | Jewel of the Eufaula | 50.00% | ~452 |

@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -2109,6 +2109,11 @@
       "Time": "2024-01-21T16:06:13.995263+00:00",
       "NumProgressed": 539,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T20:08:05.0429866+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2193,7 +2198,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "AC_BOSS_01",
@@ -2231,9 +2236,9 @@
       "ID": "AC_COMBO_1",
       "SetID": "16i2akc",
       "Name": "Pack",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 135
+      "UsersEstimate": 140
     },
     {
       "ID": "AC_COMBO_2",
@@ -2313,7 +2318,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2456,14 +2461,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:08:30.9742891+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:08:05.0429863+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:58:54.3982746+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:08:30.9743372+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:58:42.1951463+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:08:05.0430285+00:00"
 }

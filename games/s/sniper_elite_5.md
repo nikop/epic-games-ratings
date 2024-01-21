@@ -5,13 +5,13 @@ Rating: 4.48 (Ranked 662)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,032 |
+| Meeting Resistance | 47.00% | ~2,033 |
 | Confirming Suspicions | 42.00% | ~1,816 |
-| The Kraken Wakes | 38.00% | ~1,643 |
-| It's Starting to Crack | 35.00% | ~1,513 |
+| The Kraken Wakes | 38.00% | ~1,644 |
+| It's Starting to Crack | 35.00% | ~1,514 |
 | Change the Channel | 32.00% | ~1,384 |
-| Lord of War | 31.00% | ~1,340 |
-| Taking it back | 30.00% | ~1,297 |
+| Lord of War | 31.00% | ~1,341 |
+| Taking it back | 30.00% | ~1,298 |
 | Resourceful | 28.00% | ~1,211 |
 | Target America | 28.00% | ~1,211 |
 | The Kraken Sleeps | 26.00% | ~1,124 |
@@ -31,15 +31,15 @@ Rating: 4.48 (Ranked 662)
 | No Stone Unturned | 15.00% | ~649 |
 | Fields of Glory | 15.00% | ~649 |
 | Die Nussknacker Sweet! | 15.00% | ~649 |
-| Opposing Force | 14.00% | ~605 |
-| Enemy at the Gates | 14.00% | ~605 |
-| Set Europe Ablaze | 14.00% | ~605 |
+| Opposing Force | 14.00% | ~606 |
+| Enemy at the Gates | 14.00% | ~606 |
+| Set Europe Ablaze | 14.00% | ~606 |
 | Precision Is Key | 10.00% | ~432 |
 | My Little Friend | 10.00% | ~432 |
 | Rigged to Blow | 9.00% | ~389 |
 | Herr Today, Gone Tomorrow | 7.00% | ~299 |
-| The Long Game | 6.00% | ~259 |
-| Operation Foxley | 6.00% | ~256 |
+| The Long Game | 6.00% | ~260 |
+| Operation Foxley | 6.00% | ~257 |
 | Strategist | 5.00% | ~216 |
 | Tinkerer | 5.00% | ~216 |
 | It'll Buff Right Out | 5.00% | ~216 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,324 (Ranked 217)  
+Progressed: 4,325 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 11 (0.25%) (Ranked 275)
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,306 | 11 |
 | 2024-01-20 | 4,317 | 11 |
-| 2024-01-21 | 4,324 | 11 |
+| 2024-01-21 | 4,325 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 525)  
 Sum: 31 (Ranked 548)  

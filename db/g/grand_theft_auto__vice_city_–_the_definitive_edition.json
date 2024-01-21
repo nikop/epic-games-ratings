@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 165,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16622,
+  "EOS_Progressed": 16623,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -18769,6 +18769,11 @@
       "Time": "2024-01-21T19:11:33.2197905+00:00",
       "NumProgressed": 16622,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-21T20:11:26.7903521+00:00",
+      "NumProgressed": 16623,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18884,7 +18889,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7147
+      "UsersEstimate": 7148
     },
     {
       "ID": "ACH15",
@@ -18940,7 +18945,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7812
+      "UsersEstimate": 7813
     },
     {
       "ID": "ACH22",
@@ -19051,7 +19056,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16622,
+      "Progressed": 16623,
       "Completed": 109
     }
   ],
@@ -19059,8 +19064,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:33.21979+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:26.7903515+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:02:03.9156548+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:33.2199046+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:01:45.718761+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:26.7904489+00:00"
 }

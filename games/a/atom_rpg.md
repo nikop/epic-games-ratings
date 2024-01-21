@@ -6,7 +6,7 @@ Number of Ratings: 54  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Atom Agent | 99.00% | ~1,740 |
+| Atom Agent | 99.00% | ~1,741 |
 | One HIT wonder | 34.00% | ~598 |
 | Wanderer | 32.00% | ~563 |
 | One shot, one kill | 25.00% | ~440 |
@@ -14,15 +14,15 @@ Number of Ratings: 54  (23.09.2022)
 | Grave Robber | 17.00% | ~299 |
 | Explorer | 16.00% | ~281 |
 | Head Burst | 16.00% | ~281 |
-| Double agent | 15.00% | ~264 |
 | Paranoia | 15.00% | ~264 |
+| Double agent | 14.00% | ~246 |
 | Savant | 10.00% | ~176 |
 | Kraina Grzybow | 9.00% | ~158 |
 | Love Guru | 9.00% | ~158 |
 | Bustin' nuts | 8.00% | ~141 |
 | Superhuman | 8.00% | ~141 |
 | Not-so-private Eye | 7.00% | ~123 |
-| The Vitinsky Rifle | 6.00% | ~105 |
+| The Vitinsky Rifle | 6.00% | ~106 |
 | Protection racket | 5.00% | ~88 |
 | Sacrifice | 4.00% | ~70 |
 | Secret room | 4.00% | ~70 |
@@ -43,7 +43,7 @@ Number of Ratings: 54  (23.09.2022)
 | No Name, No Slogan | 0.10% | ~2 |
 | Pacifist | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,758 (Ranked 263)  
+Progressed: 1,759 (Ranked 263)  
 Completed: 1 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -271,7 +271,7 @@ Completed: 1 (0.06%) (Ranked 339)
 | 2024-01-18 | 1,749 | 1 |
 | 2024-01-19 | 1,752 | 1 |
 | 2024-01-20 | 1,757 | 1 |
-| 2024-01-21 | 1,758 | 1 |
+| 2024-01-21 | 1,759 | 1 |
 ## Awards
 Max (Character Customization): 53  (Ranked 454)  
 Sum: 53 (Ranked 511)  

@@ -91,7 +91,9 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Clergy | 1.00% | ~171 |
 | Kushite Paganism | 1.00% | ~171 |
 | Conqueror | 0.90% | ~154 |
+| Subjugator | 0.90% | ~154 |
 | Landowners | 0.90% | ~154 |
+| Riders | 0.90% | ~154 |
 | Traders | 0.90% | ~154 |
 | Circus Maximus | 0.90% | ~154 |
 | Hagia Sophia | 0.90% | ~154 |
@@ -105,8 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Invincible | 0.80% | ~137 |
 | Lion | 0.80% | ~137 |
 | Ready | 0.80% | ~137 |
-| Subjugator | 0.80% | ~137 |
-| Riders | 0.80% | ~137 |
 | Assyrian Paganism | 0.80% | ~137 |
 | Industrial Progress | 0.80% | ~137 |
 | Gnosticism | 0.80% | ~137 |
@@ -127,6 +127,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.70% | ~120 |
 | Revelation | 0.70% | ~120 |
 | Veneration | 0.70% | ~120 |
+| Kushite Cavalry | 0.70% | ~120 |
 | Ambition Victory | 0.70% | ~120 |
 | Clerics | 0.60% | ~102 |
 | Church of the Holy Sepulchre | 0.60% | ~102 |
@@ -134,7 +135,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
 | One True Faith | 0.60% | ~102 |
-| Kushite Cavalry | 0.60% | ~102 |
 | Turreted Elephant | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
 | Deposed Tribe | 0.60% | ~102 |
@@ -151,6 +151,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cao'an | 0.40% | ~68 |
 | Old World Order | 0.40% | ~68 |
 | Pantheon of Gods | 0.40% | ~68 |
+| Play a Network Game | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
 | Siege Tower | 0.40% | ~68 |
 | Al Khazneh | 0.40% | ~68 |
@@ -159,7 +160,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
 | Play a Free-For-All Game (>2 Players) | 0.30% | ~51 |
-| Play a Network Game | 0.30% | ~51 |
 | Capturing Cities | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Three Man Chariot | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,080 (Ranked 170)  
+Progressed: 17,083 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,080 | 5 |
+| 2024-01-21 | 17,083 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

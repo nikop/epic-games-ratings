@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 80.00% | ~112 |
-| A Loyal Friend | 44.00% | ~62 |
-| Abandon Ship! | 34.00% | ~48 |
+| My Papyrus! | 79.00% | ~111 |
+| A Loyal Friend | 43.00% | ~61 |
+| Abandon Ship! | 33.00% | ~47 |
 | The Tomb of Kih-Oskh | 29.00% | ~41 |
-| The Weighing of the Soul | 26.00% | ~36 |
+| The Weighing of the Soul | 26.00% | ~37 |
 | The Curse of Kih-Oskh | 20.00% | ~28 |
 | It's a Deal! | 17.00% | ~24 |
 | Cat Lover | 15.00% | ~21 |
@@ -16,11 +16,11 @@
 | Save a Friend | 14.00% | ~20 |
 | In the Name of the Law | 13.00% | ~18 |
 | Au Revoir, Abudin | 12.00% | ~17 |
-| Mysterious Bungalow | 11.00% | ~15 |
-| The Eyes! | 11.00% | ~15 |
-| Keep the Doctor Away | 11.00% | ~15 |
-| Just a Palm Tree | 11.00% | ~15 |
-| Punctual | 11.00% | ~15 |
+| Mysterious Bungalow | 11.00% | ~16 |
+| The Eyes! | 11.00% | ~16 |
+| Keep the Doctor Away | 11.00% | ~16 |
+| Just a Palm Tree | 11.00% | ~16 |
+| Punctual | 11.00% | ~16 |
 | Under the Hood | 10.00% | ~14 |
 | Long Live Gaipajama! | 10.00% | ~14 |
 | Eyes Shut | 9.00% | ~13 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140 (Ranked 479)  
+Progressed: 141 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -100,3 +100,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-15 | 138 | 0 |
 | 2024-01-16 | 139 | 0 |
 | 2024-01-20 | 140 | 0 |
+| 2024-01-21 | 141 | 0 |

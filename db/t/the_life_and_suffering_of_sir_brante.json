@@ -2,7 +2,7 @@
   "ID": "45bd0f6fc2704e22a3c1933f7bb972bf",
   "Name": "The Life and Suffering of Sir Brante",
   "ProductSlug": "the-life-and-suffering-of-sir-brante",
-  "Ranking_Rating": 207,
+  "Ranking_Rating": 206,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 846,
@@ -141,6 +141,6 @@
   "FirstSeenRating": "2022-08-01T11:01:07.2774148+00:00",
   "LastChanged": "2023-12-18T19:59:24.0895862+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:15.2156364+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:59:50.7458736+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:06:40.0696982+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:59:36.3765999+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:06:15.4447053+00:00"
 }

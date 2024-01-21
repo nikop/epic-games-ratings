@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 548,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 237,
+  "Ranking_EOS_NewPlayers": 234,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 4324,
+  "EOS_Progressed": 4325,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -9900,6 +9900,11 @@
       "Time": "2024-01-21T15:10:46.6428791+00:00",
       "NumProgressed": 4324,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-21T20:11:19.2735002+00:00",
+      "NumProgressed": 4325,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -9943,7 +9948,7 @@
       "Name": "Opposing Force",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "REWARD_15_ENEMY_AT_THE_GATES",
@@ -9951,7 +9956,7 @@
       "Name": "Enemy at the Gates",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "REWARD_16_FIELDS_OF_GLORY",
@@ -9991,7 +9996,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2032
+      "UsersEstimate": 2033
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -10055,7 +10060,7 @@
       "Name": "The Long Game",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "REWARD_28_AMBUSH_KING",
@@ -10063,7 +10068,7 @@
       "Name": "Set Europe Ablaze",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "REWARD_29_PRECISION_IS_KEY",
@@ -10119,7 +10124,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1340
+      "UsersEstimate": 1341
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -10159,7 +10164,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -10223,7 +10228,7 @@
       "Name": "It\u0027s Starting to Crack",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 1513
+      "UsersEstimate": 1514
     },
     {
       "ID": "REWARD_53_ITLL_BUFF_RIGHT_OUT",
@@ -10279,7 +10284,7 @@
       "Name": "Taking it back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "REWARD_73A_FOR_YOUR_EYES_ONLY",
@@ -10383,7 +10388,7 @@
       "Name": "Operation Foxley",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "REWARD_DLC01_08_DAS_FAMILIENJUWEL",
@@ -10478,13 +10483,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4275,
+      "Progressed": 4276,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4324,
+      "Progressed": 4325,
       "Completed": 11
     }
   ],
@@ -10492,8 +10497,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:25.4859556+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:19.2734997+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:57:40.555028+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:25.4860587+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:57:30.0452437+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:19.2736274+00:00"
 }

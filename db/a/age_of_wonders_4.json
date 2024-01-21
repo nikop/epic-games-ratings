@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -791,7 +791,7 @@
   ],
   "EOS_Progressed": 7285,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11761,9 +11761,9 @@
       "ID": "7",
       "SetID": "3aa2279",
       "Name": "Returning Circle",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "8",
@@ -11928,8 +11928,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:07:00.7033473+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:06:35.9782491+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:01:41.560869+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:07:00.7034506+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:01:23.0971054+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:06:35.9783333+00:00"
 }

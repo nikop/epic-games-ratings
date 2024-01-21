@@ -6,32 +6,32 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,286 |
-| Titan's First Steps | 12.00% | ~18,286 |
+| Sponsored by Argon | 12.00% | ~18,287 |
+| Titan's First Steps | 12.00% | ~18,287 |
 | Basic in Bulk | 11.00% | ~16,763 |
 | Tinkle of Coins | 10.00% | ~15,239 |
-| Disintermediation | 8.00% | ~12,191 |
-| Capitalism Ho! | 8.00% | ~12,191 |
-| It's Free Real Estate | 7.00% | ~10,667 |
-| Budding Merchant | 7.00% | ~10,667 |
-| One Easy Payment | 6.00% | ~9,143 |
-| Some Assembly Required | 6.00% | ~9,143 |
-| Another Satisfied Customer | 6.00% | ~9,143 |
-| Pretty Penny | 6.00% | ~9,143 |
-| Own the Means of Production | 6.00% | ~9,143 |
-| The Daily Grind | 5.00% | ~7,619 |
-| Bounty Hunters | 5.00% | ~7,619 |
-| Where it Hurts | 5.00% | ~7,619 |
-| One-Armed Bandit | 5.00% | ~7,619 |
-| Through Repetition, Perfection | 5.00% | ~7,619 |
-| Demand for Supplies | 4.00% | ~6,095 |
-| Flooding the Market | 4.00% | ~6,095 |
-| Gem Expert | 4.00% | ~6,095 |
-| Gild-Gotten Goods | 4.00% | ~6,095 |
-| Accomplished Merchant | 4.00% | ~6,095 |
-| Dungeon Imports | 4.00% | ~6,095 |
-| Did we pack lunch? | 4.00% | ~6,095 |
-| Arcane Industries | 4.00% | ~6,095 |
+| Disintermediation | 8.00% | ~12,192 |
+| Capitalism Ho! | 8.00% | ~12,192 |
+| It's Free Real Estate | 7.00% | ~10,668 |
+| Budding Merchant | 7.00% | ~10,668 |
+| One Easy Payment | 6.00% | ~9,144 |
+| Some Assembly Required | 6.00% | ~9,144 |
+| Another Satisfied Customer | 6.00% | ~9,144 |
+| Pretty Penny | 6.00% | ~9,144 |
+| Own the Means of Production | 6.00% | ~9,144 |
+| The Daily Grind | 5.00% | ~7,620 |
+| Bounty Hunters | 5.00% | ~7,620 |
+| Where it Hurts | 5.00% | ~7,620 |
+| One-Armed Bandit | 5.00% | ~7,620 |
+| Through Repetition, Perfection | 5.00% | ~7,620 |
+| Demand for Supplies | 4.00% | ~6,096 |
+| Flooding the Market | 4.00% | ~6,096 |
+| Gem Expert | 4.00% | ~6,096 |
+| Gild-Gotten Goods | 4.00% | ~6,096 |
+| Accomplished Merchant | 4.00% | ~6,096 |
+| Dungeon Imports | 4.00% | ~6,096 |
+| Did we pack lunch? | 4.00% | ~6,096 |
+| Arcane Industries | 4.00% | ~6,096 |
 | On the Path to Greatness | 3.00% | ~4,572 |
 | A Notch Above the Rest | 3.00% | ~4,572 |
 | Ascended | 3.00% | ~4,572 |
@@ -107,8 +107,8 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 1.00% | ~1,524 |
 | All or Nothing! | 1.00% | ~1,524 |
 | Eternal Crusade | 1.00% | ~1,524 |
-| Bane of Legends | 0.90% | ~1,371 |
-| Marvels from the World Over | 0.90% | ~1,371 |
+| Bane of Legends | 0.90% | ~1,372 |
+| Marvels from the World Over | 0.90% | ~1,372 |
 | Anything not Nailed Down | 0.80% | ~1,219 |
 | Ultimate Collector | 0.70% | ~1,067 |
 | Unleashed Potential | 0.70% | ~1,067 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~610 |
 | Capitalist Camaraderie | 0.30% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,387 (Ranked 87)  
+Progressed: 152,394 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,10 +395,10 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-18 | 151,873 | 359 |
 | 2024-01-19 | 152,097 | 359 |
 | 2024-01-20 | 152,267 | 360 |
-| 2024-01-21 | 152,387 | 360 |
+| 2024-01-21 | 152,394 | 360 |
 ## Awards
 Max (Great for Beginners): 4,969  (Ranked 82)  
-Sum: 28,028 (Ranked 52)  
+Sum: 28,030 (Ranked 52)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
@@ -408,7 +408,7 @@ Diff (max vs sum): 30
 | This game has Diverse Characters | 4,044 |
 | This game is Highly Recommended | 3,826 |
 | This game has Easy Combat | 3,779 |
-| This game has Playful Visuals | 3,250 |
+| This game has Playful Visuals | 3,252 |
 | This game has Inclusive Character Customization | 22 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -768,4 +768,4 @@ Diff (max vs sum): 30
 | 2024-01-18 | 4.00 | - | 4,964 | 28,013 |
 | 2024-01-19 | 4.00 | - | 4,966 | 28,017 |
 | 2024-01-20 | 4.00 | - | 4,966 | 28,018 |
-| 2024-01-21 | 4.00 | - | 4,969 | 28,028 |
+| 2024-01-21 | 4.00 | - | 4,969 | 28,030 |

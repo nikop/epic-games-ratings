@@ -4119,9 +4119,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33862,
+  "EOS_Progressed": 33864,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 214,
+  "EOS_NewPlayers": 216,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -26189,6 +26189,11 @@
       "Time": "2024-01-21T18:10:13.3264603+00:00",
       "NumProgressed": 33862,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-21T20:10:25.339818+00:00",
+      "NumProgressed": 33864,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26272,7 +26277,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "Diabolical",
@@ -26344,7 +26349,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "Ghost_Expert",
@@ -26448,7 +26453,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1354
+      "UsersEstimate": 1355
     },
     {
       "ID": "Rivalry",
@@ -26504,7 +26509,7 @@
       "Name": "Stylish",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4063
+      "UsersEstimate": 4064
     },
     {
       "ID": "Summoner",
@@ -26607,7 +26612,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33862,
+      "Progressed": 33864,
       "Completed": 71
     }
   ],
@@ -26615,8 +26620,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-21T19:01:52.7855466+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:10:31.7769508+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:10:25.3398178+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:41.0805246+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:01:52.7855474+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:10:31.7771114+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:01:33.7382013+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:10:25.3399347+00:00"
 }

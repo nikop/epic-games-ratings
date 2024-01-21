@@ -2,7 +2,7 @@
   "ID": "b4e95103463b491ab34b29e616404325",
   "Name": "The Alto Collection",
   "ProductSlug": "the-alto-collection",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 223,
   "Ranking_Popularity": 456,
   "Ranking_PopularitySum": 360,
   "Ranking_EOS_Progress": 124,
@@ -1000,9 +1000,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55720,
+  "EOS_Progressed": 55722,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 879,
+  "EOS_NewPlayers": 872,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32480,6 +32480,11 @@
       "Time": "2024-01-21T19:07:23.7931073+00:00",
       "NumProgressed": 55720,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T20:06:59.2559885+00:00",
+      "NumProgressed": 55722,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32515,7 +32520,7 @@
       "Name": "Scout",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6686
+      "UsersEstimate": 6687
     },
     {
       "ID": "distance500000",
@@ -32611,7 +32616,7 @@
       "Name": "Nomad",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8915
+      "UsersEstimate": 8916
     },
     {
       "ID": "novice",
@@ -32763,7 +32768,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3900
+      "UsersEstimate": 3901
     },
     {
       "ID": "vandal",
@@ -32802,15 +32807,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55720,
+      "Progressed": 55722,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-20T03:57:39.1090707+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:07:23.7931068+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:06:59.2559881+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.3868724+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:59:28.2196782+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:07:23.7933097+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:59:15.0895669+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:06:59.2561447+00:00"
 }

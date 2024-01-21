@@ -59,7 +59,7 @@ Rating: 4.63 (Ranked 358)
 | The Magic That Empowers Me! | 0.70% | ~51 |
 | Jack of All Tomes | 0.50% | ~36 |
 | A Very Special Ring | 0.50% | ~36 |
-| Returning Circle | 0.20% | ~15 |
+| Returning Circle | 0.30% | ~22 |
 | I'll Fight You All | 0.20% | ~15 |
 | I Want to Break Free | 0.10% | ~7 |
 | Master of Evilness | 0.10% | ~7 |

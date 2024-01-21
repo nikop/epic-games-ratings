@@ -2,13 +2,13 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14599,10 +14599,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65403,
       "NumberOfAwardsMax": 7925
+    },
+    {
+      "Time": "2024-01-21T20:01:06.4354644+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65414,
+      "NumberOfAwardsMax": 7925
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65403,
+  "NumberOfAwards": 65414,
   "NumberOfAwardsMax": 7925,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14658,7 +14664,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 6612
+      "Count": 6623
     },
     {
       "Text": "This game has Amazing Characters",
@@ -14673,9 +14679,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 503350,
+  "EOS_Progressed": 503394,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4338,
+  "EOS_NewPlayers": 4351,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46593,6 +46599,11 @@
       "Time": "2024-01-21T19:11:58.0232337+00:00",
       "NumProgressed": 503350,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T20:11:52.095526+00:00",
+      "NumProgressed": 503394,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47044,7 +47055,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2013
+      "UsersEstimate": 2014
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -49268,7 +49279,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3523
+      "UsersEstimate": 3524
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -49507,21 +49518,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 503350,
+      "Progressed": 503394,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 503350,
+      "Progressed": 503394,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-21T19:01:25.6119863+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:58.0232329+00:00",
+  "LastChanged": "2024-01-21T20:01:06.4354642+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:52.0955257+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:01:25.6119869+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:58.0243681+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:01:06.4354648+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:52.0966647+00:00"
 }

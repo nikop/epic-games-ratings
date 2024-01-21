@@ -1045,9 +1045,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8393,
+  "EOS_Progressed": 8394,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14340,6 +14340,11 @@
       "Time": "2024-01-21T19:09:54.5721523+00:00",
       "NumProgressed": 8393,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T20:09:47.5107106+00:00",
+      "NumProgressed": 8394,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14383,7 +14388,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -14415,7 +14420,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 671
+      "UsersEstimate": 672
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -14670,13 +14675,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8393,
+      "Progressed": 8394,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7765,
+      "Progressed": 7766,
       "Completed": 113
     }
   ],
@@ -14684,8 +14689,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-21T01:56:17.1656944+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:09:54.5721519+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:09:47.5107104+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:59:04.0428176+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:09:54.5722399+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:58:51.4657292+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:09:47.5107958+00:00"
 }

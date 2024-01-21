@@ -2,9 +2,9 @@
   "ID": "506c2b96b8e3483d9fa335d37ebe9d6b",
   "Name": "Tintin Reporter - Cigars of the Pharaoh",
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
-  "Ranking_EOS_Progress": 479,
+  "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140,
+  "EOS_Progressed": 141,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -659,6 +659,11 @@
       "Time": "2024-01-20T00:04:09.8996715+00:00",
       "NumProgressed": 140,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T20:05:34.1064029+00:00",
+      "NumProgressed": 141,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -669,9 +674,9 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 80,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 112
+      "UsersEstimate": 111
     },
     {
       "ID": "Achievement10",
@@ -695,7 +700,7 @@
       "Name": "Mysterious Bungalow",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement13",
@@ -703,7 +708,7 @@
       "Name": "The Eyes!",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement14",
@@ -711,7 +716,7 @@
       "Name": "Keep the Doctor Away",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement15",
@@ -719,7 +724,7 @@
       "Name": "Just a Palm Tree",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement16",
@@ -757,9 +762,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement20",
@@ -791,7 +796,7 @@
       "Name": "Punctual",
       "Percentage": 11,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "Achievement24",
@@ -845,9 +850,9 @@
       "ID": "Achievement3",
       "SetID": "9fa3l5n",
       "Name": "Abandon Ship!",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "Achievement30",
@@ -927,7 +932,7 @@
       "Name": "The Weighing of the Soul",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "Achievement6",
@@ -966,14 +971,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 140,
+      "Progressed": 141,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:05:57.4859546+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:05:34.1064025+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:47.9162613+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:00:39.0735585+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:05:57.4859807+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:00:20.5227473+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:05:34.106433+00:00"
 }

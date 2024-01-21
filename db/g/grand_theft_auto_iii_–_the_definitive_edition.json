@@ -721,7 +721,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12482,
+  "EOS_Progressed": 12484,
   "EOS_Completed": 95,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 4,
@@ -16266,6 +16266,11 @@
       "Time": "2024-01-21T18:06:56.2535269+00:00",
       "NumProgressed": 12482,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2024-01-21T20:07:09.4603061+00:00",
+      "NumProgressed": 12484,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 29,
@@ -16277,7 +16282,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10360
+      "UsersEstimate": 10362
     },
     {
       "ID": "ACH02",
@@ -16301,7 +16306,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4868
+      "UsersEstimate": 4869
     },
     {
       "ID": "ACH05",
@@ -16309,7 +16314,7 @@
       "Name": "Mob Boss",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH06",
@@ -16317,7 +16322,7 @@
       "Name": "Street Sweeper",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 2496
+      "UsersEstimate": 2497
     },
     {
       "ID": "ACH07",
@@ -16397,7 +16402,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3245
+      "UsersEstimate": 3246
     },
     {
       "ID": "ACH17",
@@ -16405,7 +16410,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1872
+      "UsersEstimate": 1873
     },
     {
       "ID": "ACH18",
@@ -16437,7 +16442,7 @@
       "Name": "Splish Splash",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACH22",
@@ -16508,7 +16513,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12482,
+      "Progressed": 12484,
       "Completed": 95
     }
   ],
@@ -16516,8 +16521,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:07:34.2218991+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:07:09.4603058+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:01:58.747021+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:07:34.2219985+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:01:40.9180242+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:07:09.460377+00:00"
 }

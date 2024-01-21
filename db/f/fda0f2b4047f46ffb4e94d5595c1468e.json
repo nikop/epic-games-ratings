@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 151,
+  "Ranking_EOS_NewPlayers": 152,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5395,10 +5395,16 @@
       "Rating": 4.57,
       "NumberOfAwards": 9097,
       "NumberOfAwardsMax": 3025
+    },
+    {
+      "Time": "2024-01-21T20:03:30.2035447+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 9106,
+      "NumberOfAwardsMax": 3025
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9097,
+  "NumberOfAwards": 9106,
   "NumberOfAwardsMax": 3025,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5442,7 +5448,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 588
+      "Count": 597
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5475,9 +5481,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 24103,
+  "EOS_Progressed": 24104,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 276,
+  "EOS_NewPlayers": 272,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17430,6 +17436,11 @@
       "Time": "2024-01-21T19:10:07.5095665+00:00",
       "NumProgressed": 24103,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T20:10:00.8502863+00:00",
+      "NumProgressed": 24104,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17458,7 +17469,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10846
+      "UsersEstimate": 10847
     },
     {
       "ID": "ach04",
@@ -17482,7 +17493,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16390
+      "UsersEstimate": 16391
     },
     {
       "ID": "ach07",
@@ -17490,7 +17501,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11087
+      "UsersEstimate": 11088
     },
     {
       "ID": "ach08",
@@ -17506,7 +17517,7 @@
       "Name": "Kontender",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "ach10",
@@ -17570,7 +17581,7 @@
       "Name": "So I Just Kill Stuff??",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 9882
+      "UsersEstimate": 9883
     },
     {
       "ID": "ach18",
@@ -17634,7 +17645,7 @@
       "Name": "Talis-Mania",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3856
+      "UsersEstimate": 3857
     },
     {
       "ID": "ach26",
@@ -17730,7 +17741,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11328
+      "UsersEstimate": 11329
     },
     {
       "ID": "ach38",
@@ -17810,7 +17821,7 @@
       "Name": "Big Spender",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 3374
+      "UsersEstimate": 3375
     },
     {
       "ID": "ach48",
@@ -17841,16 +17852,16 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24103,
+      "Progressed": 24104,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-09-19T20:58:11.8825985+00:00",
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
-  "LastChanged": "2024-01-21T16:03:06.6835277+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:10:07.5095662+00:00",
+  "LastChanged": "2024-01-21T20:03:30.2035445+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:10:00.8502856+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:03:59.0397265+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:10:07.5096452+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:03:30.2035451+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:10:00.8503772+00:00"
 }

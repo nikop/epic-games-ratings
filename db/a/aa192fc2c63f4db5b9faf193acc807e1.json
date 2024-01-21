@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 359,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 317,
+  "EOS_Progressed": 318,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.47,
+  "EOS_Completed_Percentage": 3.46,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1384,6 +1384,11 @@
       "Time": "2024-01-21T17:11:14.4371614+00:00",
       "NumProgressed": 317,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-21T20:11:27.0118207+00:00",
+      "NumProgressed": 318,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1404,7 +1409,7 @@
       "Name": "Intuition",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "creepytaleach11",
@@ -1428,7 +1433,7 @@
       "Name": "True fisherman",
       "Percentage": 14,
       "XP": 80,
-      "UsersEstimate": 44
+      "UsersEstimate": 45
     },
     {
       "ID": "creepytaleach2",
@@ -1442,17 +1447,17 @@
       "ID": "creepytaleach3",
       "SetID": "bnif31p",
       "Name": "Happy end",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 75,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "creepytaleach4",
       "SetID": "bnif31p",
       "Name": "Dominance",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 80,
-      "UsersEstimate": 63
+      "UsersEstimate": 60
     },
     {
       "ID": "creepytaleach5",
@@ -1474,9 +1479,9 @@
       "ID": "creepytaleach7",
       "SetID": "bnif31p",
       "Name": "Crazy chef",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 80,
-      "UsersEstimate": 67
+      "UsersEstimate": 64
     },
     {
       "ID": "creepytaleach8",
@@ -1499,14 +1504,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 317,
+      "Progressed": 318,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:33.4565502+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:27.0118203+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:06.1201806+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:59:58.3683768+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:33.4565682+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:59:43.2917011+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:27.0118356+00:00"
 }

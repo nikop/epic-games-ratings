@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 287,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1367,
+  "EOS_Progressed": 1368,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -4029,6 +4029,11 @@
       "Time": "2024-01-21T12:10:08.0462618+00:00",
       "NumProgressed": 1367,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T20:11:29.1507265+00:00",
+      "NumProgressed": 1368,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -4047,9 +4052,9 @@
       "ID": "BostonHayDay",
       "SetID": "3ai6ml8",
       "Name": "Boston Hay Day",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
-      "UsersEstimate": 848
+      "UsersEstimate": 834
     },
     {
       "ID": "BoxingClever",
@@ -4063,9 +4068,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 670
     },
     {
       "ID": "Causality",
@@ -4089,7 +4094,7 @@
       "Name": "Darkest Before the Dawn",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 615
+      "UsersEstimate": 616
     },
     {
       "ID": "DrinkingOnTheJob",
@@ -4113,7 +4118,7 @@
       "Name": "Everything is Dust",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "LightsOut",
@@ -4145,7 +4150,7 @@
       "Name": "Outpatient",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "Relic",
@@ -4153,7 +4158,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "SkeletonCrew",
@@ -4193,21 +4198,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1203
+      "UsersEstimate": 1204
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1367,
+      "Progressed": 1368,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:35.7006255+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:29.150726+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.0988435+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:58:42.2962018+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:35.700663+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:58:29.701175+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:29.150756+00:00"
 }

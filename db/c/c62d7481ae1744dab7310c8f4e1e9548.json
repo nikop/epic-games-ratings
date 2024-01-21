@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 84,
-  "Ranking_EOS_NewPlayers": 404,
+  "Ranking_EOS_NewPlayers": 383,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 246,
+  "EOS_Progressed": 247,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.47,
+  "EOS_Completed_Percentage": 4.45,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1199,6 +1199,11 @@
       "Time": "2024-01-19T23:05:15.6284219+00:00",
       "NumProgressed": 246,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-21T20:07:38.6287129+00:00",
+      "NumProgressed": 247,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1273,9 +1278,9 @@
       "ID": "Kour",
       "SetID": "ag48e8e",
       "Name": "Spiral Smoke",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "KrabiPyramida",
@@ -1291,15 +1296,15 @@
       "Name": "Knife",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "Kvitky",
       "SetID": "ag48e8e",
       "Name": "Blossoms",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 101
+      "UsersEstimate": 99
     },
     {
       "ID": "MluviciPapouch",
@@ -1363,7 +1368,7 @@
       "Name": "Goldfish",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "Sova",
@@ -1385,9 +1390,9 @@
       "ID": "Sputnik2",
       "SetID": "ag48e8e",
       "Name": "Sputnik",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 57
     },
     {
       "ID": "Stonozka",
@@ -1450,14 +1455,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 246,
+      "Progressed": 247,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:08:03.8914862+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:07:38.6287127+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8617172+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:04:10.0647812+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:08:03.8915106+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:03:42.4855641+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:07:38.628735+00:00"
 }

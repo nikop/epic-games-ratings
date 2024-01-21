@@ -1,34 +1,34 @@
 # Deliver Us Mars
 [Store](https://store.epicgames.com/en-US/p/deliver-us-mars)  
 [View Rawdata](../../db/d/deliver_us_mars.json)  
-Rating: 4.15 (Ranked 1,008)  
+Rating: 4.15 (Ranked 1,009)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 59.00% | ~3,028 |
-| The beginning of a beautiful collection | 45.00% | ~2,309 |
-| Reading is fundamental | 39.00% | ~2,001 |
-| Take a look | 39.00% | ~2,001 |
-| Home Is... | 36.00% | ~1,848 |
-| Moonbear | 25.00% | ~1,283 |
-| Getting the hang of it | 21.00% | ~1,078 |
-| Want to Go to Space? | 21.00% | ~1,078 |
-| On the Precipice | 16.00% | ~821 |
-| A Nice Place to Live | 15.00% | ~770 |
-| The Dream for These Folks | 13.00% | ~667 |
-| Like Animals | 12.00% | ~616 |
-| Not the Rabbits, Not the Bees | 12.00% | ~616 |
-| Piecing the story together | 11.00% | ~565 |
-| Delivered Us Mars | 11.00% | ~565 |
-| Wants and Needs | 11.00% | ~565 |
-| Desperate Times | 11.00% | ~565 |
-| Stellar extra-vehicular activities score | 8.00% | ~411 |
-| Cinephile | 8.00% | ~411 |
-| When ACE met AYLA | 4.00% | ~205 |
-| Kat-like reflexes | 4.00% | ~205 |
-| Kats always land on their feet | 1.00% | ~51 |
-| The Gang | 1.00% | ~51 |
-| As the story unfolds... | 0.70% | ~36 |
+| Better jot that down | 59.00% | ~3,081 |
+| The beginning of a beautiful collection | 45.00% | ~2,350 |
+| Take a look | 40.00% | ~2,089 |
+| Reading is fundamental | 39.00% | ~2,037 |
+| Home Is... | 36.00% | ~1,880 |
+| Moonbear | 25.00% | ~1,306 |
+| Getting the hang of it | 21.00% | ~1,097 |
+| Want to Go to Space? | 21.00% | ~1,097 |
+| On the Precipice | 17.00% | ~888 |
+| A Nice Place to Live | 16.00% | ~836 |
+| The Dream for These Folks | 14.00% | ~731 |
+| Not the Rabbits, Not the Bees | 13.00% | ~679 |
+| Like Animals | 12.00% | ~627 |
+| Piecing the story together | 11.00% | ~574 |
+| Delivered Us Mars | 11.00% | ~574 |
+| Wants and Needs | 11.00% | ~574 |
+| Desperate Times | 11.00% | ~574 |
+| Stellar extra-vehicular activities score | 8.00% | ~418 |
+| Cinephile | 8.00% | ~418 |
+| When ACE met AYLA | 4.00% | ~209 |
+| Kat-like reflexes | 4.00% | ~209 |
+| Kats always land on their feet | 1.00% | ~52 |
+| The Gang | 1.00% | ~52 |
+| As the story unfolds... | 0.70% | ~37 |
 | Who waits five minutes, seriously? | 0.40% | ~21 |
 | Quick like a Kat | 0.20% | ~10 |
 | Peruser | 0.20% | ~10 |
@@ -39,7 +39,7 @@ Rating: 4.15 (Ranked 1,008)
 | Their batteries were low and it got dark | 0.10% | ~5 |
 | Shai-Hulud? | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,132 (Ranked 208)  
+Progressed: 5,222 (Ranked 208)  
 Completed: 2 (0.04%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 2 (0.04%) (Ranked 358)
 | 2023-11-22 | 11 | 0 |
 | 2024-01-19 | 935 | 0 |
 | 2024-01-20 | 3,496 | 0 |
-| 2024-01-21 | 5,132 | 2 |
+| 2024-01-21 | 5,222 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -10,7 +10,7 @@ Number of Ratings: 116  (23.09.2022)
 | First of many… | 68.00% | ~452 |
 | Helping Hand | 65.00% | ~432 |
 | Increased Vigor | 61.00% | ~406 |
-| Fight Fire with Fire | 58.00% | ~386 |
+| Fight Fire with Fire | 59.00% | ~392 |
 | Increased Capacity | 56.00% | ~372 |
 | Just the start | 50.00% | ~332 |
 | Perfect Storm | 47.00% | ~313 |

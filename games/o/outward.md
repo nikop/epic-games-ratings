@@ -6,20 +6,20 @@ Number of Ratings: 266  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Venture Outward | 72.00% | ~3,479 |
-| Ready for Winter | 61.00% | ~2,948 |
-| Ready for Summer | 48.00% | ~2,319 |
-| Cordon Bleu | 40.00% | ~1,933 |
-| Tapped! | 34.00% | ~1,643 |
-| Eureka | 30.00% | ~1,450 |
-| Scourge Slayer | 23.00% | ~1,111 |
-| Science, Troglodyte! | 22.00% | ~1,063 |
+| Venture Outward | 72.00% | ~3,480 |
+| Ready for Winter | 61.00% | ~2,949 |
+| Ready for Summer | 48.00% | ~2,320 |
+| Cordon Bleu | 40.00% | ~1,934 |
+| Tapped! | 34.00% | ~1,644 |
+| Eureka | 29.00% | ~1,402 |
+| Scourge Slayer | 23.00% | ~1,112 |
 | Exceptional Skill | 21.00% | ~1,015 |
-| Home Sweet Home | 20.00% | ~966 |
+| Science, Troglodyte! | 21.00% | ~1,015 |
+| Home Sweet Home | 20.00% | ~967 |
 | Encyclopedic! | 18.00% | ~870 |
 | The Power of Family | 15.00% | ~725 |
-| A Fortress Toppled! | 14.00% | ~676 |
-| Apex Predator | 14.00% | ~676 |
+| A Fortress Toppled! | 14.00% | ~677 |
+| Apex Predator | 14.00% | ~677 |
 | The Power of Faith | 12.00% | ~580 |
 | Strange amalgams | 11.00% | ~532 |
 | The Power of Freedom | 9.00% | ~435 |
@@ -46,10 +46,10 @@ Number of Ratings: 266  (23.09.2022)
 | They'll Tell Stories About This | 0.80% | ~39 |
 | Through fire and flame. | 0.60% | ~29 |
 | Legacy of a master hunter | 0.40% | ~19 |
-| Master of Aurai | 0.30% | ~14 |
-| The Absolute Pinnacle. | 0.30% | ~14 |
+| Master of Aurai | 0.30% | ~15 |
+| The Absolute Pinnacle. | 0.30% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,832 (Ranked 210)  
+Progressed: 4,834 (Ranked 210)  
 Completed: 5 (0.10%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 5 (0.10%) (Ranked 319)
 | 2024-01-18 | 4,806 | 5 |
 | 2024-01-19 | 4,815 | 5 |
 | 2024-01-20 | 4,823 | 5 |
-| 2024-01-21 | 4,832 | 5 |
+| 2024-01-21 | 4,834 | 5 |
 ## Awards
 Max (Highly Recommended): 35  (Ranked 511)  
 Sum: 246 (Ranked 406)  

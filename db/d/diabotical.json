@@ -2,7 +2,7 @@
   "ID": "36336ee97ec543bbae85abaca618182b",
   "Name": "Diabotical",
   "ProductSlug": "diabotical",
-  "Ranking_Rating": 198,
+  "Ranking_Rating": 185,
   "Ranking_Popularity": 264,
   "Ranking_PopularitySum": 197,
   "Ranking_EOS_Progress": 846,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.72,
+  "Rating": 4.73,
   "NumberOfRatings": 572,
   "RatingHistory": [
     {
@@ -1845,10 +1845,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 2725,
       "NumberOfAwardsMax": 301
+    },
+    {
+      "Time": "2024-01-21T20:03:22.7565336+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 2726,
+      "NumberOfAwardsMax": 301
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2725,
+  "NumberOfAwards": 2726,
   "NumberOfAwardsMax": 301,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -1892,7 +1898,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 259
+      "Count": 260
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1936,8 +1942,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:10.7191906+00:00",
-  "LastChanged": "2024-01-21T00:03:42.769114+00:00",
+  "LastChanged": "2024-01-21T20:03:22.7565334+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.3044196+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:03:52.6882146+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:06:43.1750654+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:03:22.756534+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:06:18.4396839+00:00"
 }

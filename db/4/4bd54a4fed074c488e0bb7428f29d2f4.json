@@ -376,9 +376,9 @@
       "ID": "SOS_BURN_HENNERSDORF",
       "SetID": "6ci4lm2",
       "Name": "Red rooster",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "SOS_DEAD_END",
@@ -536,9 +536,9 @@
       "ID": "SOS_HE_WILL_REMEMBER",
       "SetID": "6ci4lm2",
       "Name": "He will remember that",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "SOS_INFERNAL_TONES",
@@ -807,8 +807,8 @@
   ],
   "FirstSeen": "2023-12-02T04:57:46.0113451+00:00",
   "FirstSeenAchievements": "2023-10-30T14:03:47.4515139+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:07:59.2358899+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:07:33.8449091+00:00",
   "LastUpdate_AppInfo": "2024-01-15T19:57:20.3901279+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:02:38.8438404+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:07:59.2359301+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:02:51.3232841+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:07:33.8449685+00:00"
 }

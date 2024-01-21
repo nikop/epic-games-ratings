@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -10123,9 +10123,9 @@
       "ID": "Have_Many_TradeRoutes",
       "SetID": "4h07amh",
       "Name": "Trading Partner",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 606
+      "UsersEstimate": 682
     },
     {
       "ID": "Level_5_Ship",
@@ -10515,8 +10515,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:48.3845725+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:42.538681+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:59:39.7206306+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:48.3846638+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:59:25.3352139+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:42.538759+00:00"
 }

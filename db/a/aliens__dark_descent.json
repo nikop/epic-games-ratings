@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 203,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 194,
+  "Ranking_EOS_NewPlayers": 193,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -579,9 +579,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6529,
+  "EOS_Progressed": 6530,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 98,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10214,6 +10214,11 @@
       "Time": "2024-01-21T19:06:21.3726865+00:00",
       "NumProgressed": 6529,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T20:05:57.4408156+00:00",
+      "NumProgressed": 6530,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10239,9 +10244,9 @@
       "ID": "ACH_ALL_WEAPONS",
       "SetID": "816efe",
       "Name": "One For Every Occasion",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 1110
+      "UsersEstimate": 1175
     },
     {
       "ID": "ACH_ALL_XENO_TECHS",
@@ -10265,7 +10270,7 @@
       "Name": "Colonial Barrels",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 2807
+      "UsersEstimate": 2808
     },
     {
       "ID": "ACH_DESTROY_EGGS_WITH_GRENADE",
@@ -10305,7 +10310,7 @@
       "Name": "This Went Smoothly",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACH_FINISH_NIGHTMARE",
@@ -10321,7 +10326,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4309
+      "UsersEstimate": 4310
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10383,9 +10388,9 @@
       "ID": "ACH_MAX_MEDIC",
       "SetID": "816efe",
       "Name": "Bandage Lover",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 1045
+      "UsersEstimate": 1110
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -10417,7 +10422,7 @@
       "Name": "Something Lurks Under The Hills",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 3460
+      "UsersEstimate": 3461
     },
     {
       "ID": "ACH_MISSION_02",
@@ -10433,7 +10438,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2546
+      "UsersEstimate": 2547
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10489,7 +10494,7 @@
       "Name": "The Spire",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "ACH_MISSION_11",
@@ -10529,7 +10534,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5027
+      "UsersEstimate": 5028
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10553,7 +10558,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2350
+      "UsersEstimate": 2351
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10569,7 +10574,7 @@
       "Name": "The More The Merrier",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1893
+      "UsersEstimate": 1894
     },
     {
       "ID": "ACH_USE_REDEMPTION",
@@ -10577,14 +10582,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3199
+      "UsersEstimate": 3200
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6529,
+      "Progressed": 6530,
       "Completed": 3
     }
   ],
@@ -10592,8 +10597,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:06:21.3726859+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:05:57.4408153+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:58:30.0595203+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:06:21.3727678+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:58:18.9874413+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:05:57.4409151+00:00"
 }

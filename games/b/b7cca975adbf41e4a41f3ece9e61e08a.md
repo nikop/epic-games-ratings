@@ -1,7 +1,7 @@
 # Love Is All Around
 [Store](https://store.epicgames.com/en-US/p/love-is-all-around-3a8046)  
 [View Rawdata](../../db/b/b7cca975adbf41e4a41f3ece9e61e08a.json)  
-Rating: 4.69 (Ranked 241)  
+Rating: 4.69 (Ranked 240)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -13,7 +13,7 @@ Rating: 4.69 (Ranked 241)
 | To Be Or Not To Be | 51.00% | ~9,666 |
 | Are You Alright? | 47.00% | ~8,908 |
 | Love Actually | 42.00% | ~7,960 |
-| Drama King | 36.00% | ~6,823 |
+| Drama King | 37.00% | ~7,013 |
 | Go Clean up In Your Own Way | 33.00% | ~6,254 |
 | Drama CP: Reel to Real | 32.00% | ~6,065 |
 | You're Really Something Else | 32.00% | ~6,065 |

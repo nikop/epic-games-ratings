@@ -1,7 +1,7 @@
 # Evil Nun: The Broken Mask
 [Store](https://store.epicgames.com/en-US/p/evil-nun-the-broken-mask-372461)  
 [View Rawdata](../../db/e/evil_nun__the_broken_mask.json)  
-Rating: 4.73 (Ranked 185)  
+Rating: 4.69 (Ranked 240)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -17,3 +17,4 @@ Rating: 4.73 (Ranked 185)
 | 2023-10-10 | 4.76 | 0 | 0 |
 | 2023-10-14 | 4.76 | 0 | 0 |
 | 2023-11-19 | 4.73 | 0 | 0 |
+| 2024-01-21 | 4.69 | 0 | 0 |

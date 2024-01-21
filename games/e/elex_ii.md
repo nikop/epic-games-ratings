@@ -8,8 +8,8 @@ Number of Ratings: 124  (23.09.2022)
 | ---- | ---------- | ----- |
 | Entrepreneur | 45.00% | ~125 |
 | Best Buddy | 39.00% | ~108 |
+| Role Model | 36.00% | ~100 |
 | Civilian | 36.00% | ~100 |
-| Role Model | 35.00% | ~97 |
 | Creator | 33.00% | ~91 |
 | Military Leader | 30.00% | ~83 |
 | Festival-goer | 29.00% | ~80 |
@@ -18,7 +18,7 @@ Number of Ratings: 124  (23.09.2022)
 | Irissa's Fate | 22.00% | ~61 |
 | Long-Haul Flyer | 21.00% | ~58 |
 | Family Reunion | 19.00% | ~53 |
-| Pass A38 | 18.00% | ~50 |
+| Pass A38 | 19.00% | ~53 |
 | Eternal Oblivion | 18.00% | ~50 |
 | Banker | 17.00% | ~47 |
 | Globetrotter | 16.00% | ~44 |

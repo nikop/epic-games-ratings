@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 223,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4832,
+  "EOS_Progressed": 4834,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8614,6 +8614,11 @@
       "Time": "2024-01-21T19:08:42.7479668+00:00",
       "NumProgressed": 4832,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T20:08:16.7323346+00:00",
+      "NumProgressed": 4834,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8625,7 +8630,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "AceDetective_9",
@@ -8649,7 +8654,7 @@
       "Name": "Apex Predator",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "BloodAndJustice_50",
@@ -8665,7 +8670,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "CrowdPleaser",
@@ -8687,9 +8692,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 1450
+      "UsersEstimate": 1402
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8729,7 +8734,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "HouseofCards_19",
@@ -8777,7 +8782,7 @@
       "Name": "Master of Aurai",
       "Percentage": 0.3,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "MemoryOfALegend_51",
@@ -8809,7 +8814,7 @@
       "Name": "Ready for Summer",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "ReadyforWinter_42",
@@ -8817,15 +8822,15 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2948
+      "UsersEstimate": 2949
     },
     {
       "ID": "ScienceTroglodyte_29",
       "SetID": "c4hee28",
       "Name": "Science, Troglodyte!",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1063
+      "UsersEstimate": 1015
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8833,7 +8838,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1111
+      "UsersEstimate": 1112
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -8849,7 +8854,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1643
+      "UsersEstimate": 1644
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8857,7 +8862,7 @@
       "Name": "The Absolute Pinnacle.",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "TheBloodIsLife_54",
@@ -8945,7 +8950,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3479
+      "UsersEstimate": 3480
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8960,15 +8965,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4832,
+      "Progressed": 4834,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:08:42.7479665+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:08:16.7323341+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:04:12.8557889+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:08:42.7480296+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:03:45.2097211+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:08:16.732399+00:00"
 }

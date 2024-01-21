@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Welcome to Seven Doors | 55.00% | ~17 |
 | Kill the Dead Man | 45.00% | ~14 |
-| Diogenes Syndrome | 42.00% | ~13 |
+| Diogenes Syndrome | 45.00% | ~14 |
 | Egyptologist | 42.00% | ~13 |
 | No Fear of the Dark | 39.00% | ~12 |
 | The Last Skull | 39.00% | ~12 |

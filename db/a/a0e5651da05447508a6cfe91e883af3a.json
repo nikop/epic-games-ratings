@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1025,
+  "EOS_Progressed": 1026,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 182,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3254,6 +3254,11 @@
       "Time": "2024-01-21T19:11:32.4203402+00:00",
       "NumProgressed": 1025,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T20:11:26.0130939+00:00",
+      "NumProgressed": 1026,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-03T19:09:22.7139112+00:00",
@@ -3370,7 +3375,7 @@
       "Name": "First Login",
       "Percentage": 100,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "Losses_100",
@@ -3481,14 +3486,14 @@
     {
       "ID": "2bonhb9",
       "IsBase": true,
-      "Progressed": 1025,
+      "Progressed": 1026,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-18T15:00:14.9921948+00:00",
   "FirstSeenAchievements": "2023-08-03T14:01:50.784469+00:00",
-  "LastChanged_Achievements": "2024-01-21T19:11:32.4203398+00:00",
+  "LastChanged_Achievements": "2024-01-21T20:11:26.0130936+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.8880219+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:02:41.7508681+00:00",
-  "LastUpdate_Achievements": "2024-01-21T19:11:32.4203696+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:02:54.2333164+00:00",
+  "LastUpdate_Achievements": "2024-01-21T20:11:26.013122+00:00"
 }

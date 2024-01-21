@@ -14,10 +14,10 @@ Number of Ratings: 45  (23.09.2022)
 | Passing Shadow | 6.00% | ~97 |
 | How Romantic! | 6.00% | ~97 |
 | Daybreak | 6.00% | ~97 |
+| Completing the Look | 4.00% | ~64 |
 | War Endured | 4.00% | ~64 |
 | Core Failure | 4.00% | ~64 |
 | A Mythic Menagerie | 3.00% | ~48 |
-| Completing the Look | 3.00% | ~48 |
 | Who's Counting? | 3.00% | ~48 |
 | Let Me Get My Chisel | 2.00% | ~32 |
 | Thematic Divergence | 2.00% | ~32 |
