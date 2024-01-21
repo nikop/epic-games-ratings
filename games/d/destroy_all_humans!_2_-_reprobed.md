@@ -26,7 +26,7 @@ Number of Ratings: 90  (23.09.2022)
 | Kaijuiced | 12.00% | ~55 |
 | Dusted | 12.00% | ~55 |
 | Fly Me to the Moon Base | 11.00% | ~50 |
-| Scuttled | 9.00% | ~41 |
+| Scuttled | 10.00% | ~46 |
 | Lobster Blisque | 7.00% | ~32 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~32 |
 | Yettisoned | 6.00% | ~27 |

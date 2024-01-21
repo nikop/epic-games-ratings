@@ -39,10 +39,10 @@ Number of Ratings: 1,354  (23.09.2022)
 | Sarkoris Will Be Green | 3.00% | ~363 |
 | The Lady of the Forest | 3.00% | ~363 |
 | Beware Still Water | 3.00% | ~363 |
-| Path of the Demon | 2.00% | ~266 |
-| Path of the Aeon | 2.00% | ~266 |
-| Your First Big Enemy | 2.00% | ~266 |
-| Truly Important Deed | 2.00% | ~266 |
+| Path of the Demon | 2.00% | ~267 |
+| Path of the Aeon | 2.00% | ~267 |
+| Your First Big Enemy | 2.00% | ~267 |
+| Truly Important Deed | 2.00% | ~267 |
 | Stay Underground | 2.00% | ~242 |
 | This Wall Won't Fall | 2.00% | ~242 |
 | The Final Threshold | 1.00% | ~133 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,325 (Ranked 179)  
+Progressed: 13,326 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -399,6 +399,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 13,311 | 0 |
 | 2024-01-19 | 13,317 | 0 |
 | 2024-01-20 | 13,325 | 0 |
+| 2024-01-21 | 13,326 | 0 |
 ## Awards
 Max (Character Customization): 1,787  (Ranked 133)  
 Sum: 7,244 (Ranked 128)  

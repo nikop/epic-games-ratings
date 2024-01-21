@@ -3,12 +3,12 @@
   "Name": "Black Widow: Recharged",
   "ProductSlug": "black-widow-recharged",
   "Ranking_Rating": 958,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -179,9 +179,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25199,
+  "EOS_Progressed": 25201,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 284,
+  "EOS_NewPlayers": 286,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -24029,6 +24029,11 @@
       "Time": "2024-01-21T03:04:36.7294706+00:00",
       "NumProgressed": 25199,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-21T06:07:36.5236431+00:00",
+      "NumProgressed": 25201,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24040,7 +24045,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19403
+      "UsersEstimate": 19405
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -24096,7 +24101,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12851
+      "UsersEstimate": 12853
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -24151,15 +24156,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25199,
+      "Progressed": 25201,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:06:07.1160049+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:07:36.5236427+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:58:51.9110665+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:06:07.11619+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:00:01.8128195+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:07:36.5237553+00:00"
 }

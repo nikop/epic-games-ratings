@@ -3,12 +3,12 @@
   "Name": "Nexomon: Extinction",
   "ProductSlug": "nexomon-extinction",
   "Ranking_Rating": 514,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-11-30T14:00:00+00:00",
     "PcReleaseDate": "2020-08-08T14:20:22+00:00",
@@ -116,7 +116,7 @@
   "FirstSeen": "2022-07-22T20:24:15.9296917+00:00",
   "FirstSeenRating": "2022-09-04T23:01:28.4182016+00:00",
   "LastChanged": "2024-01-11T05:58:09.5924888+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T04:57:47.0413851+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:00:37.1127107+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:05:19.8215064+00:00"
+  "LastUpdate_AppInfo": "2024-01-21T05:58:08.5545898+00:00",
+  "LastUpdate_Ratings": "2024-01-21T06:02:08.0201083+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:06:38.6054701+00:00"
 }

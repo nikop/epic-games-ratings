@@ -31,8 +31,8 @@ Rating: 4.55 (Ranked 531)
 | Blast from the Past | 12.00% | ~65 |
 | Play it again, Ronny | 10.00% | ~54 |
 | Paradox! | 10.00% | ~54 |
+| Weapons 101 | 9.00% | ~48 |
 | Goat Team | 9.00% | ~48 |
-| Weapons 101 | 8.00% | ~43 |
 | Sadist | 7.00% | ~38 |
 | The customer is always right | 6.00% | ~32 |
 | Pacifist | 6.00% | ~32 |

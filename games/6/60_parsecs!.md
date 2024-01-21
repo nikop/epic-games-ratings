@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 95.00% | ~1,325 |
-| Space Colonization | 78.00% | ~1,088 |
-| Friendzone | 76.00% | ~1,060 |
-| Hello World | 71.00% | ~990 |
-| Tinkerer | 60.00% | ~837 |
-| Space Engineer | 59.00% | ~823 |
-| Dust to Dust | 55.00% | ~767 |
+| Don't Panic! | 95.00% | ~1,326 |
+| Space Colonization | 78.00% | ~1,089 |
+| Friendzone | 76.00% | ~1,061 |
+| Hello World | 71.00% | ~991 |
+| Space Engineer | 60.00% | ~838 |
+| Tinkerer | 60.00% | ~838 |
+| Dust to Dust | 55.00% | ~768 |
 | Across The Stars | 44.00% | ~614 |
 | Crafty | 41.00% | ~572 |
-| All Seats Taken | 34.00% | ~474 |
-| For Science! | 30.00% | ~418 |
+| All Seats Taken | 34.00% | ~475 |
+| For Science! | 30.00% | ~419 |
 | Meet the Petersons | 29.00% | ~405 |
-| KIA | 25.00% | ~349 |
+| KIA | 26.00% | ~363 |
 | Stay Cool | 25.00% | ~349 |
 | Mutiny in making | 22.00% | ~307 |
 | Et tu, Astrocitizen? | 17.00% | ~237 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,395 (Ranked 279)  
+Progressed: 1,396 (Ranked 279)  
 Completed: 1 (0.07%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 1 (0.07%) (Ranked 337)
 | 2024-01-18 | 1,088 | 1 |
 | 2024-01-19 | 1,224 | 1 |
 | 2024-01-20 | 1,362 | 1 |
-| 2024-01-21 | 1,395 | 1 |
+| 2024-01-21 | 1,396 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

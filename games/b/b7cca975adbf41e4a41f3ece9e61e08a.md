@@ -5,27 +5,27 @@ Rating: 4.69 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,654 |
-| I Challenge You To Save More Money! | 81.00% | ~15,329 |
-| I Love How Tough You Are | 66.00% | ~12,490 |
+| Last Night...Did We... | 88.00% | ~16,655 |
+| I Challenge You To Save More Money! | 81.00% | ~15,330 |
+| I Love How Tough You Are | 66.00% | ~12,491 |
 | Wanna Come To My Place For Dinner? | 59.00% | ~11,166 |
 | What I Want Is You | 54.00% | ~10,220 |
 | To Be Or Not To Be | 51.00% | ~9,652 |
 | Are You Alright? | 47.00% | ~8,895 |
-| Love Actually | 42.00% | ~7,948 |
+| Love Actually | 42.00% | ~7,949 |
 | Drama King | 36.00% | ~6,813 |
-| Go Clean up In Your Own Way | 33.00% | ~6,245 |
+| Go Clean up In Your Own Way | 33.00% | ~6,246 |
 | Drama CP: Reel to Real | 32.00% | ~6,056 |
 | You're Really Something Else | 32.00% | ~6,056 |
 | FIRST LOVE | 31.00% | ~5,867 |
 | Worthless Speech | 31.00% | ~5,867 |
 | Happy Family | 30.00% | ~5,678 |
-| Absolutely Elegant | 29.00% | ~5,488 |
+| Absolutely Elegant | 29.00% | ~5,489 |
 | Still Single | 28.00% | ~5,299 |
 | ONE PUNCH | 28.00% | ~5,299 |
-| Days Of Innocence | 26.00% | ~4,920 |
-| David | 26.00% | ~4,920 |
-| Go Get Some Fries On The Pier | 25.00% | ~4,731 |
+| Days Of Innocence | 26.00% | ~4,921 |
+| David | 26.00% | ~4,921 |
+| Go Get Some Fries On The Pier | 25.00% | ~4,732 |
 | All I Have Is Money | 22.00% | ~4,164 |
 | A Slap In The Face! | 22.00% | ~4,164 |
 | That's So You | 22.00% | ~4,164 |
@@ -37,18 +37,18 @@ Rating: 4.69 (Ranked 241)
 | Can You Do This Or Not? | 14.00% | ~2,650 |
 | Doesn't Matter I'll Handle It | 12.00% | ~2,271 |
 | The Flash | 11.00% | ~2,082 |
-| New Yoga Pose Unlocked | 10.00% | ~1,892 |
+| New Yoga Pose Unlocked | 10.00% | ~1,893 |
 | My Dear Love! | 8.00% | ~1,514 |
 | Counting Sheep? | 8.00% | ~1,514 |
 | This Ain't Right In Many Ways... | 8.00% | ~1,514 |
 | Life Is A Rollercoaster | 7.00% | ~1,325 |
 | Boys Need To Protect Themselves | 7.00% | ~1,325 |
 | Stubborn Noob | 7.00% | ~1,325 |
-| Hurrah! | 2.00% | ~378 |
-| Tall; Grande; Venti | 2.00% | ~378 |
-| Limerence | 2.00% | ~378 |
+| Hurrah! | 2.00% | ~379 |
+| Tall; Grande; Venti | 2.00% | ~379 |
+| Limerence | 2.00% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,925 (Ranked 162)  
+Progressed: 18,926 (Ranked 162)  
 Completed: 336 (1.78%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -154,7 +154,7 @@ Completed: 336 (1.78%) (Ranked 148)
 | 2024-01-18 | 18,810 | 336 |
 | 2024-01-19 | 18,859 | 336 |
 | 2024-01-20 | 18,910 | 336 |
-| 2024-01-21 | 18,925 | 336 |
+| 2024-01-21 | 18,926 | 336 |
 ## Awards
 Max (Impact the Story): 40  (Ranked 488)  
 Sum: 40 (Ranked 528)  

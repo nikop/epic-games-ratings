@@ -3,12 +3,12 @@
   "Name": "The Lion\u0027s Song",
   "ProductSlug": "the-lions-song",
   "Ranking_Rating": 761,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-05-13T15:00:00+00:00",
     "PcReleaseDate": "2021-05-13T15:00:00+00:00",
@@ -299,6 +299,6 @@
   "FirstSeen": "2022-07-22T20:23:33.7126844+00:00",
   "LastChanged": "2023-12-04T00:00:15.1874117+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:25.2275049+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:59:47.7533504+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:10:23.8006216+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:01:07.2614485+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:11:22.3631339+00:00"
 }

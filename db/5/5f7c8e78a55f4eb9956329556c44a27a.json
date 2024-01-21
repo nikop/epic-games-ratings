@@ -2,10 +2,10 @@
   "ID": "5f7c8e78a55f4eb9956329556c44a27a",
   "Name": "There Is No Game - Wrong Dimension",
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
-  "Ranking_EOS_Progress": 412,
-  "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_Progress": 411,
+  "Ranking_EOS_Completed": 181,
+  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
     "PcReleaseDate": "2020-08-06T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 292,
+  "EOS_Progressed": 293,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.03,
+  "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
     {
       "Time": "2023-11-10T21:13:00.589505+00:00",
@@ -1209,6 +1209,11 @@
       "Time": "2024-01-20T04:05:47.8603701+00:00",
       "NumProgressed": 292,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T06:09:24.0276288+00:00",
+      "NumProgressed": 293,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-06T19:03:25.5191161+00:00",
@@ -1221,7 +1226,7 @@
       "Name": "Administrator",
       "Percentage": 83,
       "XP": 10,
-      "UsersEstimate": 242
+      "UsersEstimate": 243
     },
     {
       "ID": "TINGWD_ANIMAL",
@@ -1269,7 +1274,7 @@
       "Name": "To infinity and beyond!",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "TINGWD_CARMACK",
@@ -1309,7 +1314,7 @@
       "Name": "The end of the ordeal",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "TINGWD_CHAP_END_05",
@@ -1339,9 +1344,9 @@
       "ID": "TINGWD_CONSPI",
       "SetID": "c0imaa6",
       "Name": "Conspiracy theorist",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 234
+      "UsersEstimate": 237
     },
     {
       "ID": "TINGWD_DETECTIVE",
@@ -1349,7 +1354,7 @@
       "Name": "Private Detective",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "TINGWD_GHOSTBUSTERS",
@@ -1373,7 +1378,7 @@
       "Name": "Headshot",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "TINGWD_HONEY",
@@ -1397,7 +1402,7 @@
       "Name": "Have you no shame?",
       "Percentage": 87,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "TINGWD_OUTBOX",
@@ -1405,15 +1410,15 @@
       "Name": "Outside the box",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "TINGWD_PERPETUITY",
       "SetID": "c0imaa6",
       "Name": "Life sentence",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 20
+      "UsersEstimate": 18
     },
     {
       "ID": "TINGWD_PUNCHMAN",
@@ -1421,7 +1426,7 @@
       "Name": "One Punch Man",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "TINGWD_RADAR",
@@ -1492,14 +1497,14 @@
     {
       "ID": "c0imaa6",
       "IsBase": true,
-      "Progressed": 292,
+      "Progressed": 293,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:09:18.1761655+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:09:24.0276284+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:48.2261697+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:03:55.9459766+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:09:18.1762008+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:04:53.3738593+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:09:24.0276584+00:00"
 }

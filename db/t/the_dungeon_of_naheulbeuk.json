@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1797,9 +1797,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 248995,
+  "EOS_Progressed": 249001,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 968,
+  "EOS_NewPlayers": 965,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26982,6 +26982,11 @@
       "Time": "2024-01-21T05:11:39.726127+00:00",
       "NumProgressed": 248995,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-21T06:12:51.7912458+00:00",
+      "NumProgressed": 249001,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27441,7 +27446,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92128
+      "UsersEstimate": 92130
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27489,7 +27494,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27389
+      "UsersEstimate": 27390
     },
     {
       "ID": "FollowBraztok",
@@ -27696,21 +27701,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 248995,
+      "Progressed": 249001,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 248995,
+      "Progressed": 249001,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-20T17:58:07.6277477+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:39.7261267+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:12:51.7912453+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:59:29.0006165+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:39.7262782+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:00:45.7778696+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:51.7914031+00:00"
 }

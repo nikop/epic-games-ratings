@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 552,
   "Ranking_EOS_Completed": 76,
-  "Ranking_EOS_NewPlayers": 226,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -205,9 +205,9 @@
       "ID": "BANK_MOTHERLODE",
       "SetID": "89ki2f0",
       "Name": "JACKPOT!!!",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 45,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "BANK_STEAL",
@@ -245,9 +245,9 @@
       "ID": "BOSS_4",
       "SetID": "89ki2f0",
       "Name": "Killed another human...?",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 35,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "BOSS_FINAL",
@@ -309,9 +309,9 @@
       "ID": "MONEY_1M",
       "SetID": "89ki2f0",
       "Name": "Please stop asking me for money",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "PHOTOS_ALL",
@@ -349,9 +349,9 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "UPGRADES_FIRST",
@@ -380,8 +380,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:06:21.9601179+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:07:54.5502258+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:00:22.6560046+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:06:21.960135+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:01:49.5323349+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:07:54.5502708+00:00"
 }

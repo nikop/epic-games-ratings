@@ -2,13 +2,13 @@
   "ID": "325bbb62ea0d490793fd3d274ea74818",
   "Name": "Othercide",
   "ProductSlug": "othercide-19bfa0",
-  "Ranking_Rating": 710,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Rating": 711,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-04-14T13:00:00+00:00",
     "PcReleaseDate": "2020-07-28T00:00:00+00:00",
@@ -246,8 +246,8 @@
   "FirstSeen": "2022-07-22T20:25:43.6994898+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:30.6694223+00:00",
   "LastChanged": "2024-01-07T15:58:51.1429989+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:10:27.045346+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T04:57:38.5309015+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:00:11.8208111+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:10:27.0453544+00:00"
+  "LastChanged_Achievements": "2024-01-21T06:11:26.0808254+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T05:57:55.0704426+00:00",
+  "LastUpdate_Ratings": "2024-01-21T06:01:33.7194033+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:11:26.0808291+00:00"
 }

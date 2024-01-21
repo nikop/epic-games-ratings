@@ -4,8 +4,8 @@
   "ProductSlug": "shrapnel-e59542",
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.10894+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:58:11.3583347+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:10:10.9480337+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:59:15.02566+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:11:06.8434453+00:00"
 }

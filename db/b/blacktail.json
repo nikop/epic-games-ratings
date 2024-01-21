@@ -3,12 +3,12 @@
   "Name": "BLACKTAIL",
   "ProductSlug": "blacktail",
   "Ranking_Rating": 265,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 315,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
     "PcReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 924,
+  "EOS_Progressed": 925,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
@@ -3001,6 +3001,11 @@
       "Time": "2024-01-21T05:11:31.5472554+00:00",
       "NumProgressed": 924,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T06:12:42.4436933+00:00",
+      "NumProgressed": 925,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -3044,7 +3049,7 @@
       "Name": "Devil\u0027s in the details",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "Devoted",
@@ -3100,7 +3105,7 @@
       "Name": "Gold rush",
       "Percentage": 6,
       "XP": 35,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "GossipGirl",
@@ -3267,7 +3272,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 924,
+      "Progressed": 925,
       "Completed": 1
     }
   ],
@@ -3275,8 +3280,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:31.5472551+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:12:42.4436927+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:34.434764+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:58:54.13471+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:31.5472991+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:00:04.6566715+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:42.4437188+00:00"
 }

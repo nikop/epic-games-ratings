@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3072,
+  "EOS_Progressed": 3073,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8394,6 +8394,11 @@
       "Time": "2024-01-21T04:12:24.0764479+00:00",
       "NumProgressed": 3072,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T06:12:51.7001118+00:00",
+      "NumProgressed": 3073,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8630,7 +8635,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2643
     },
     {
       "ID": "achievement_36",
@@ -8646,7 +8651,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1843
+      "UsersEstimate": 1844
     },
     {
       "ID": "achievement_38",
@@ -8678,7 +8683,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1597
+      "UsersEstimate": 1598
     },
     {
       "ID": "achievement_41",
@@ -8710,7 +8715,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 737
+      "UsersEstimate": 738
     },
     {
       "ID": "achievement_45",
@@ -8909,13 +8914,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3072,
+      "Progressed": 3073,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3072,
+      "Progressed": 3073,
       "Completed": 1
     }
   ],
@@ -8923,8 +8928,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:39.5107908+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T04:58:08.7012465+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:03:38.365483+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:39.5108973+00:00"
+  "LastChanged_Achievements": "2024-01-21T06:12:51.7001113+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
+  "LastUpdate_Ratings": "2024-01-21T06:04:31.1480456+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:51.7001864+00:00"
 }

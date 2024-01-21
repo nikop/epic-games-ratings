@@ -42,7 +42,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | The 36th Chamber of Kung-Fu | 0.60% | ~4,573 |
 | Sword Stained With Blood | 0.60% | ~4,573 |
 | Bloody Sport | 0.60% | ~428 |
-| Prodigal Child | 0.50% | ~3,810 |
+| Prodigal Child | 0.50% | ~3,811 |
 | The best strikes are the ones we avoid | 0.50% | ~357 |
 | Drunken Fighter | 0.40% | ~3,048 |
 | Knowledge Greed | 0.40% | ~3,048 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,099 (Ranked 26)  
+Progressed: 762,105 (Ranked 26)  
 Completed: 13,001 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,14 +343,14 @@ Completed: 13,001 (1.71%) (Ranked 150)
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
 | 2024-01-20 | 762,069 | 13,000 |
-| 2024-01-21 | 762,099 | 13,001 |
+| 2024-01-21 | 762,105 | 13,001 |
 ## Awards
-Max (Great Boss Battles): 7,245  (Ranked 58)  
-Sum: 12,828 (Ranked 87)  
+Max (Great Boss Battles): 7,249  (Ranked 58)  
+Sum: 12,832 (Ranked 87)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,245 |
+| This game has Great Boss Battles | 7,249 |
 | This game has Diverse Characters | 713 |
 | This game has Challenging Combat | 651 |
 | This game has Amazing Storytelling | 626 |
@@ -733,3 +733,4 @@ Diff (max vs sum): -29
 | 2024-01-18 | 4.82 | - | 7,227 | 12,798 |
 | 2024-01-19 | 4.82 | - | 7,237 | 12,812 |
 | 2024-01-20 | 4.82 | - | 7,245 | 12,828 |
+| 2024-01-21 | 4.82 | - | 7,249 | 12,832 |

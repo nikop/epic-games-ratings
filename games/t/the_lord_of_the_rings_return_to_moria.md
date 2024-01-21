@@ -5,24 +5,24 @@ Rating: 4.43 (Ranked 731)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~317,699 |
-| Delving Onward | 69.00% | ~267,332 |
-| Miner's Helper | 59.00% | ~228,588 |
-| Suit Up | 54.00% | ~209,217 |
-| To the Mountain's Roots | 50.00% | ~193,719 |
-| Remains To Be Seen | 35.00% | ~135,603 |
-| Covered Head to Toe | 33.00% | ~127,855 |
-| Line of Azog, Ended | 32.00% | ~123,980 |
-| Risk a Little Real Light | 31.00% | ~120,106 |
-| Caradhras The Cruel | 18.00% | ~69,739 |
-| A Memory of this Place | 18.00% | ~69,739 |
-| False King, Deposed | 14.00% | ~54,241 |
-| Baruk Khazâd! | 13.00% | ~50,367 |
-| Battering Ram | 13.00% | ~50,367 |
+| Speak Friend | 82.00% | ~317,705 |
+| Delving Onward | 69.00% | ~267,337 |
+| Miner's Helper | 59.00% | ~228,593 |
+| Suit Up | 54.00% | ~209,220 |
+| To the Mountain's Roots | 50.00% | ~193,722 |
+| Remains To Be Seen | 35.00% | ~135,606 |
+| Covered Head to Toe | 33.00% | ~127,857 |
+| Line of Azog, Ended | 32.00% | ~123,982 |
+| Risk a Little Real Light | 31.00% | ~120,108 |
+| Caradhras The Cruel | 18.00% | ~69,740 |
+| A Memory of this Place | 18.00% | ~69,740 |
+| False King, Deposed | 14.00% | ~54,242 |
+| Baruk Khazâd! | 13.00% | ~50,368 |
+| Battering Ram | 13.00% | ~50,368 |
 | Shadow's Bane | 10.00% | ~38,744 |
-| Westgate Weaponcraft | 9.00% | ~34,869 |
-| Deeps Weaponcraft | 8.00% | ~30,995 |
-| Darkness Is Passing | 8.00% | ~30,995 |
+| Westgate Weaponcraft | 9.00% | ~34,870 |
+| Deeps Weaponcraft | 8.00% | ~30,996 |
+| Darkness Is Passing | 8.00% | ~30,996 |
 | Decked Out | 5.00% | ~19,372 |
 | Guarded from Despair | 5.00% | ~19,372 |
 | Master of All Trades | 4.00% | ~15,498 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 731)
 | Shielded | 1.00% | ~3,874 |
 | We're Gonna Need More Mugs | 0.20% | ~775 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,438 (Ranked 54)  
+Progressed: 387,445 (Ranked 54)  
 Completed: 382 (0.10%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -127,7 +127,7 @@ Completed: 382 (0.10%) (Ranked 319)
 | 2024-01-18 | 386,311 | 369 |
 | 2024-01-19 | 386,746 | 375 |
 | 2024-01-20 | 387,317 | 381 |
-| 2024-01-21 | 387,438 | 382 |
+| 2024-01-21 | 387,445 | 382 |
 ## Awards
 Max (Great for Beginners): 979  (Ranked 168)  
 Sum: 5,626 (Ranked 143)  

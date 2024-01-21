@@ -48,8 +48,8 @@ Number of Ratings: 15,086  (23.09.2022)
 | Save Our Souls | 0.70% | ~1,703 |
 | Acid Bath | 0.70% | ~1,703 |
 | New Perspectives | 0.70% | ~1,703 |
-| Expensive Look | 0.70% | ~33 |
-| What Doesn't Kill You | 0.70% | ~33 |
+| Expensive Look | 0.70% | ~34 |
+| What Doesn't Kill You | 0.70% | ~34 |
 | Shadow Spreads | 0.60% | ~1,460 |
 | To The Death! | 0.60% | ~1,460 |
 | Well Prepared | 0.60% | ~1,460 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,304 (Ranked 75)  
+Progressed: 243,309 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,7 +421,7 @@ Completed: 309 (0.13%) (Ranked 308)
 | 2024-01-18 | 243,175 | 309 |
 | 2024-01-19 | 243,229 | 309 |
 | 2024-01-20 | 243,288 | 309 |
-| 2024-01-21 | 243,304 | 309 |
+| 2024-01-21 | 243,309 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,800 (Ranked 92)  

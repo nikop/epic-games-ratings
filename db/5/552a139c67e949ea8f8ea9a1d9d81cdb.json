@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5447,9 +5447,9 @@
       "ID": "ML_ACHIEVEMENT_36",
       "SetID": "5k00jcd",
       "Name": "Perfectionist",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 119
+      "UsersEstimate": 139
     },
     {
       "ID": "ML_ACHIEVEMENT_37",
@@ -5548,8 +5548,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:05:18.7149425+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:06:37.2364009+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.7946639+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:00:50.8825125+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:05:18.7149978+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:02:24.2523357+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:06:37.2364525+00:00"
 }

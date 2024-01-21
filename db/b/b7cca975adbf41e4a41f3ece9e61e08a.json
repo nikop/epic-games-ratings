@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 140,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -343,9 +343,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18925,
+  "EOS_Progressed": 18926,
   "EOS_Completed": 336,
-  "EOS_NewPlayers": 370,
+  "EOS_NewPlayers": 369,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -10508,6 +10508,11 @@
       "Time": "2024-01-21T05:11:13.2444631+00:00",
       "NumProgressed": 18925,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2024-01-21T06:12:20.7615534+00:00",
+      "NumProgressed": 18926,
+      "NumCompleted": 336
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10520,7 +10525,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16654
+      "UsersEstimate": 16655
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10528,7 +10533,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15329
+      "UsersEstimate": 15330
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10592,7 +10597,7 @@
       "Name": "Go Get Some Fries On The Pier",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 4731
+      "UsersEstimate": 4732
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
@@ -10600,7 +10605,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 4920
+      "UsersEstimate": 4921
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -10616,7 +10621,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12490
+      "UsersEstimate": 12491
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10648,7 +10653,7 @@
       "Name": "Hurrah!",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
@@ -10656,7 +10661,7 @@
       "Name": "Love Actually",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7948
+      "UsersEstimate": 7949
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
@@ -10664,7 +10669,7 @@
       "Name": "Absolutely Elegant",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 5488
+      "UsersEstimate": 5489
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -10712,7 +10717,7 @@
       "Name": "New Yoga Pose Unlocked",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1892
+      "UsersEstimate": 1893
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_31",
@@ -10744,7 +10749,7 @@
       "Name": "Tall; Grande; Venti",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_7",
@@ -10752,7 +10757,7 @@
       "Name": "Limerence",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -10784,7 +10789,7 @@
       "Name": "Go Clean up In Your Own Way",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 6245
+      "UsersEstimate": 6246
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -10800,7 +10805,7 @@
       "Name": "David",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4920
+      "UsersEstimate": 4921
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -10855,7 +10860,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18925,
+      "Progressed": 18926,
       "Completed": 336
     }
   ],
@@ -10863,8 +10868,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-20T14:59:39.7389406+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:13.2444627+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:12:20.7615526+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:01:12.5005631+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:13.2445731+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:02:50.4377402+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:20.761613+00:00"
 }

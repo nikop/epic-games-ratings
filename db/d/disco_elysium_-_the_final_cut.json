@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 107,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139777,
+  "EOS_Progressed": 139778,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 679,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29316,6 +29316,11 @@
       "Time": "2024-01-21T05:10:18.121441+00:00",
       "NumProgressed": 139777,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-21T06:11:15.5217581+00:00",
+      "NumProgressed": 139778,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29439,7 +29444,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27955
+      "UsersEstimate": 27956
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -29471,7 +29476,7 @@
       "Name": "Truly Rabid *Traditionalist*",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 15375
+      "UsersEstimate": 15376
     },
     {
       "ID": "ACH_CUNO",
@@ -29646,15 +29651,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139777,
+      "Progressed": 139778,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:10:18.1214407+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:11:15.5217577+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:58:31.2133196+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:10:18.1216653+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:59:39.645816+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:11:15.5218744+00:00"
 }

@@ -21,11 +21,11 @@ Number of Ratings: 12,664  (23.09.2022)
 | Own the Means of Production | 6.00% | ~9,138 |
 | The Daily Grind | 5.00% | ~7,615 |
 | Bounty Hunters | 5.00% | ~7,615 |
+| Where it Hurts | 5.00% | ~7,615 |
 | One-Armed Bandit | 5.00% | ~7,615 |
 | Through Repetition, Perfection | 5.00% | ~7,615 |
 | Demand for Supplies | 4.00% | ~6,092 |
 | Flooding the Market | 4.00% | ~6,092 |
-| Where it Hurts | 4.00% | ~6,092 |
 | Gem Expert | 4.00% | ~6,092 |
 | Gild-Gotten Goods | 4.00% | ~6,092 |
 | Accomplished Merchant | 4.00% | ~6,092 |
@@ -113,13 +113,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | Ultimate Collector | 0.70% | ~1,066 |
 | Unleashed Potential | 0.70% | ~1,066 |
 | JACKPOT!!! | 0.70% | ~1,066 |
-| Oligarch Monarch | 0.50% | ~761 |
-| Merchant Extraordinaire | 0.50% | ~761 |
+| Oligarch Monarch | 0.50% | ~762 |
+| Merchant Extraordinaire | 0.50% | ~762 |
 | To Hell and Back | 0.40% | ~609 |
 | Cash Only Please | 0.40% | ~609 |
 | Capitalist Camaraderie | 0.30% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,296 (Ranked 87)  
+Progressed: 152,302 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 278)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 360 (0.24%) (Ranked 278)
 | 2024-01-18 | 151,873 | 359 |
 | 2024-01-19 | 152,097 | 359 |
 | 2024-01-20 | 152,267 | 360 |
-| 2024-01-21 | 152,296 | 360 |
+| 2024-01-21 | 152,302 | 360 |
 ## Awards
 Max (Great for Beginners): 4,969  (Ranked 82)  
 Sum: 28,024 (Ranked 52)  

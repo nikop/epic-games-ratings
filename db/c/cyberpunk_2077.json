@@ -18744,10 +18744,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 509788,
       "NumberOfAwardsMax": 143148
+    },
+    {
+      "Time": "2024-01-21T06:05:22.0405827+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 509985,
+      "NumberOfAwardsMax": 143148
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 509788,
+  "NumberOfAwards": 509985,
   "NumberOfAwardsMax": 143148,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18767,7 +18773,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31751
+      "Count": 31948
     },
     {
       "Text": "This game is Relaxing",
@@ -18824,10 +18830,10 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056147,
+  "EOS_Progressed": 1056179,
   "EOS_Completed": 3137,
-  "EOS_NewPlayers": 5855,
-  "EOS_NewCompleters": 51,
+  "EOS_NewPlayers": 5837,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50419,6 +50425,11 @@
       "Time": "2024-01-21T05:10:22.2896941+00:00",
       "NumProgressed": 1056147,
       "NumCompleted": 3137
+    },
+    {
+      "Time": "2024-01-21T06:11:20.5344722+00:00",
+      "NumProgressed": 1056179,
+      "NumCompleted": 3137
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50471,7 +50482,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "Fortuneteller",
@@ -50519,7 +50530,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "IAmMaxTac",
@@ -50527,7 +50538,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -50559,7 +50570,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "MustBeTheRats",
@@ -50597,9 +50608,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4225
+      "UsersEstimate": 5281
     },
     {
       "ID": "Roleplayer",
@@ -50735,7 +50746,7 @@
       "Name": "True Warrior",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -50751,7 +50762,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3168
+      "UsersEstimate": 3169
     },
     {
       "ID": "VForVendetta",
@@ -50966,21 +50977,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056147,
+      "Progressed": 1056179,
       "Completed": 3137
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184770,
+      "Progressed": 184802,
       "Completed": 10668
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-21T05:04:18.9677455+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:10:22.28969+00:00",
+  "LastChanged": "2024-01-21T06:05:22.0405826+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:11:20.5344719+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:04:18.9677462+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:10:22.289857+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:05:22.0405831+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:11:20.5346496+00:00"
 }

@@ -3,12 +3,12 @@
   "Name": "AER Memories of Old",
   "ProductSlug": "aer-memories-of-old",
   "Ranking_Rating": 696,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 33,
+  "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29188,
+  "EOS_Progressed": 29189,
   "EOS_Completed": 537,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30186,6 +30186,11 @@
       "Time": "2024-01-21T05:06:45.9632126+00:00",
       "NumProgressed": 29188,
       "NumCompleted": 537
+    },
+    {
+      "Time": "2024-01-21T06:08:22.9688792+00:00",
+      "NumProgressed": 29189,
+      "NumCompleted": 537
     }
   ],
   "TotalAchievements": 20,
@@ -30293,7 +30298,7 @@
       "Name": "Gaze into the abyss",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "FOUND_STONE_MAP",
@@ -30317,7 +30322,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22183
+      "UsersEstimate": 22184
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30333,7 +30338,7 @@
       "Name": "Mausoleum of Ice",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 3794
+      "UsersEstimate": 3795
     },
     {
       "ID": "TALK_TO_SPIRIT_ANIMALS",
@@ -30356,15 +30361,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29188,
+      "Progressed": 29189,
       "Completed": 537
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:06:45.963212+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T04:57:37.7771842+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:00:08.7084495+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:06:45.9634018+00:00"
+  "LastChanged_Achievements": "2024-01-21T06:08:22.9688788+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
+  "LastUpdate_Ratings": "2024-01-21T06:01:30.3273619+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:08:22.9689981+00:00"
 }

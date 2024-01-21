@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2315,9 +2315,9 @@
       "ID": "ACH_KILL_WARSHIP",
       "SetID": "4n84pon",
       "Name": "Scuttled",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 46
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -2452,8 +2452,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:10:56.0984202+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:12:00.9589513+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:57:58.6012726+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:10:56.0984632+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:58:59.6858654+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:00.9589879+00:00"
 }

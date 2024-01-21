@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13824,9 +13824,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63353,
+  "EOS_Progressed": 63354,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 797,
+  "EOS_NewPlayers": 795,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40194,6 +40194,11 @@
       "Time": "2024-01-21T05:09:49.4904519+00:00",
       "NumProgressed": 63353,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T06:10:41.2630462+00:00",
+      "NumProgressed": 63354,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -40205,7 +40210,7 @@
       "Name": "Clucky Streak",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8869
+      "UsersEstimate": 8870
     },
     {
       "ID": "BreedCows",
@@ -40285,7 +40290,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 37378
+      "UsersEstimate": 37379
     },
     {
       "ID": "CutTree",
@@ -40333,7 +40338,7 @@
       "Name": "The plot thickens",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8869
+      "UsersEstimate": 8870
     },
     {
       "ID": "FertilizeFirst",
@@ -40349,7 +40354,7 @@
       "Name": "Large-scale supplier",
       "Percentage": 14,
       "XP": 55,
-      "UsersEstimate": 8869
+      "UsersEstimate": 8870
     },
     {
       "ID": "HarvestedFirst",
@@ -40509,7 +40514,7 @@
       "Name": "Field Trip",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 25341
+      "UsersEstimate": 25342
     },
     {
       "ID": "TruckDriving",
@@ -40517,7 +40522,7 @@
       "Name": "Long haul",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 8869
+      "UsersEstimate": 8870
     },
     {
       "ID": "VehicleRepaint",
@@ -40548,15 +40553,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63353,
+      "Progressed": 63354,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-20T21:00:15.7870005+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:09:49.4904516+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:10:41.2630459+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:01:18.6893699+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:09:49.4906187+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:02:57.8274463+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:10:41.2631874+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 81,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5405,10 +5405,10 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83098,
+  "EOS_Progressed": 83099,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 388,
-  "EOS_NewCompleters": 2,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
     {
@@ -31015,6 +31015,11 @@
       "Time": "2024-01-21T04:09:32.8862662+00:00",
       "NumProgressed": 83098,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-21T06:10:16.4679818+00:00",
+      "NumProgressed": 83099,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31250,7 +31255,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22436
+      "UsersEstimate": 22437
     },
     {
       "ID": "FREEZE_1_5",
@@ -31330,7 +31335,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28253
+      "UsersEstimate": 28254
     },
     {
       "ID": "HARLEY_2",
@@ -31370,7 +31375,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41549
+      "UsersEstimate": 41550
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31402,7 +31407,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21605
+      "UsersEstimate": 21606
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31418,7 +31423,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27422
+      "UsersEstimate": 27423
     },
     {
       "ID": "MYSTERY_02",
@@ -31513,13 +31518,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83098,
+      "Progressed": 83099,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53378,
+      "Progressed": 53379,
       "Completed": 2680
     }
   ],
@@ -31527,8 +31532,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-21T04:59:32.4156327+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:09:28.9914133+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:10:16.4679773+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:59:32.4156332+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:09:28.9915452+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:00:49.8536072+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:10:16.4681421+00:00"
 }

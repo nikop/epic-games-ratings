@@ -3,12 +3,12 @@
   "Name": "Eximius: Seize the Frontline",
   "ProductSlug": "eximius-seize-the-frontline",
   "Ranking_Rating": 988,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 84,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-22T11:18:36+00:00",
     "PcReleaseDate": "2022-10-22T11:18:36+00:00",
@@ -347,7 +347,7 @@
   "Tags": [],
   "EOS_Progressed": 203446,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 357,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29461,8 +29461,8 @@
   "FirstSeenRating": "2022-12-31T16:58:21.8302485+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:42.4732286+00:00",
   "LastChanged": "2024-01-20T19:58:36.3203452+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:07:20.0780322+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T04:57:40.0694277+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:59:51.8788609+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:07:20.0782565+00:00"
+  "LastChanged_Achievements": "2024-01-21T06:09:03.8583887+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T05:57:45.5124519+00:00",
+  "LastUpdate_Ratings": "2024-01-21T06:01:11.8405405+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:09:03.8585215+00:00"
 }

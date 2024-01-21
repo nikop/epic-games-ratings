@@ -3,12 +3,12 @@
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
   "Ranking_Rating": 323,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -259,7 +259,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9141,
+  "EOS_Progressed": 9142,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
@@ -10489,6 +10489,11 @@
       "Time": "2024-01-21T05:11:35.6077012+00:00",
       "NumProgressed": 9141,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T06:12:47.1299815+00:00",
+      "NumProgressed": 9142,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10501,7 +10506,7 @@
       "Name": "Azoria Beckons",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "CHAPTER_2_COMPLETE",
@@ -10844,13 +10849,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9141,
+      "Progressed": 9142,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1758,
+      "Progressed": 1759,
       "Completed": 1050
     }
   ],
@@ -10858,8 +10863,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-20T14:03:24.888989+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:35.6077009+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:12:47.1299811+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:04:27.2411839+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:35.6077611+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:05:32.4032656+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:47.1300541+00:00"
 }

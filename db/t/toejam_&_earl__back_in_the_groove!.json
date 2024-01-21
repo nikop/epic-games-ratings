@@ -3,12 +3,12 @@
   "Name": "ToeJam \u0026 Earl: Back in the Groove!",
   "ProductSlug": "toejam-and-earl-back-in-the-groove-cddc16",
   "Ranking_Rating": 862,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
     "PcReleaseDate": "2019-03-01T05:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58884,
+  "EOS_Progressed": 58886,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16231,6 +16231,11 @@
       "Time": "2024-01-21T05:06:14.1406549+00:00",
       "NumProgressed": 58884,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T06:07:44.987043+00:00",
+      "NumProgressed": 58886,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16330,7 +16335,7 @@
       "Name": "Food Taster",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 5888
+      "UsersEstimate": 5889
     },
     {
       "ID": "FoolMeTwice",
@@ -16633,7 +16638,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58884,
+      "Progressed": 58886,
       "Completed": 6
     }
   ],
@@ -16641,8 +16646,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:06:14.1406543+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:07:44.9870426+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:38.1607038+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:59:07.2962163+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:06:14.1407782+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:00:20.5832524+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:07:44.9871438+00:00"
 }

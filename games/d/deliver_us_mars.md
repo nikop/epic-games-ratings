@@ -1,45 +1,45 @@
 # Deliver Us Mars
 [Store](https://store.epicgames.com/en-US/p/deliver-us-mars)  
 [View Rawdata](../../db/d/deliver_us_mars.json)  
-Rating: 4.15 (Ranked 1,009)  
+Rating: 4.15 (Ranked 1,008)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 59.00% | ~2,255 |
-| The beginning of a beautiful collection | 44.00% | ~1,682 |
-| Reading is fundamental | 39.00% | ~1,491 |
-| Take a look | 39.00% | ~1,491 |
-| Home Is... | 35.00% | ~1,338 |
-| Moonbear | 23.00% | ~879 |
-| Getting the hang of it | 20.00% | ~764 |
-| Want to Go to Space? | 20.00% | ~764 |
-| On the Precipice | 15.00% | ~573 |
-| A Nice Place to Live | 14.00% | ~535 |
-| The Dream for These Folks | 12.00% | ~459 |
-| Not the Rabbits, Not the Bees | 11.00% | ~420 |
-| Piecing the story together | 10.00% | ~382 |
-| Delivered Us Mars | 10.00% | ~382 |
-| Like Animals | 10.00% | ~382 |
-| Wants and Needs | 10.00% | ~382 |
-| Desperate Times | 10.00% | ~382 |
-| Stellar extra-vehicular activities score | 8.00% | ~306 |
-| Cinephile | 7.00% | ~268 |
-| When ACE met AYLA | 4.00% | ~153 |
-| Kat-like reflexes | 3.00% | ~115 |
-| Kats always land on their feet | 1.00% | ~38 |
-| The Gang | 1.00% | ~38 |
+| Better jot that down | 59.00% | ~2,286 |
+| The beginning of a beautiful collection | 44.00% | ~1,705 |
+| Reading is fundamental | 39.00% | ~1,511 |
+| Take a look | 39.00% | ~1,511 |
+| Home Is... | 35.00% | ~1,356 |
+| Moonbear | 23.00% | ~891 |
+| Getting the hang of it | 20.00% | ~775 |
+| Want to Go to Space? | 20.00% | ~775 |
+| On the Precipice | 15.00% | ~581 |
+| A Nice Place to Live | 14.00% | ~542 |
+| The Dream for These Folks | 12.00% | ~465 |
+| Not the Rabbits, Not the Bees | 11.00% | ~426 |
+| Piecing the story together | 10.00% | ~388 |
+| Delivered Us Mars | 10.00% | ~388 |
+| Like Animals | 10.00% | ~388 |
+| Wants and Needs | 10.00% | ~388 |
+| Desperate Times | 10.00% | ~388 |
+| Stellar extra-vehicular activities score | 8.00% | ~310 |
+| Cinephile | 7.00% | ~271 |
+| When ACE met AYLA | 4.00% | ~155 |
+| Kat-like reflexes | 3.00% | ~116 |
+| Kats always land on their feet | 1.00% | ~39 |
+| The Gang | 1.00% | ~39 |
 | As the story unfolds... | 0.70% | ~27 |
-| Who waits five minutes, seriously? | 0.40% | ~15 |
+| Who waits five minutes, seriously? | 0.40% | ~16 |
 | Quick like a Kat | 0.20% | ~8 |
+| Curiosity didn't kill the Kat | 0.20% | ~8 |
+| Chronicler | 0.20% | ~8 |
 | Simulacrum | 0.10% | ~4 |
 | Peruser | 0.10% | ~4 |
 | Pannapictagraphist | 0.10% | ~4 |
-| Curiosity didn't kill the Kat | 0.10% | ~4 |
-| Chronicler | 0.10% | ~4 |
 | Their batteries were low and it got dark | 0.00% | ~0 |
 | Shai-Hulud? | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,822 (Ranked 224)  
+Progressed: 3,875 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2023-11-22 | 11 | 0 |
 | 2024-01-19 | 935 | 0 |
 | 2024-01-20 | 3,496 | 0 |
-| 2024-01-21 | 3,822 | 0 |
+| 2024-01-21 | 3,875 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

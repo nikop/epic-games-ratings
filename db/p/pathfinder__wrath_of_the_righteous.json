@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 220,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5009,9 +5009,9 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13325,
+  "EOS_Progressed": 13326,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20039,6 +20039,11 @@
       "Time": "2024-01-20T23:10:37.3222515+00:00",
       "NumProgressed": 13325,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T06:12:52.4703563+00:00",
+      "NumProgressed": 13326,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20114,7 +20119,7 @@
       "Name": "Path of the Demon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "10_PathOfAzata",
@@ -20130,7 +20135,7 @@
       "Name": "Path of the Aeon",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "12_PathOfTrickster",
@@ -20330,7 +20335,7 @@
       "Name": "Your First Big Enemy",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "38_PrelatesNemesis",
@@ -20450,7 +20455,7 @@
       "Name": "Truly Important Deed",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "53_TrulyProfaneGift",
@@ -20977,21 +20982,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12107,
+      "Progressed": 12108,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13325,
+      "Progressed": 13326,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-21T05:00:20.592995+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:40.3409089+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T04:57:44.9389375+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:00:20.5929956+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:40.3410725+00:00"
+  "LastChanged_Achievements": "2024-01-21T06:12:52.4703559+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
+  "LastUpdate_Ratings": "2024-01-21T06:01:46.1844873+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:52.4705174+00:00"
 }

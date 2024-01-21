@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -445,7 +445,7 @@
   ],
   "EOS_Progressed": 11970,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 604,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -6027,9 +6027,9 @@
       "ID": "45_ThePolygloth",
       "SetID": "37a94m8",
       "Name": "Polyglot",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 108
     },
     {
       "ID": "46_ASpark",
@@ -6212,8 +6212,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-20T14:00:29.182554+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:34.4633174+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:12:45.8283387+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:03:41.986003+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:34.4633927+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:04:35.6376541+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:45.8283956+00:00"
 }

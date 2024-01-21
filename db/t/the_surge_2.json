@@ -3,12 +3,12 @@
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
   "Ranking_Rating": 914,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 230,
   "Ranking_EOS_NewPlayers": 265,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -306,7 +306,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2611,
+  "EOS_Progressed": 2612,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -4861,6 +4861,11 @@
       "Time": "2024-01-20T22:06:17.4311925+00:00",
       "NumProgressed": 2611,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-21T06:10:09.7382789+00:00",
+      "NumProgressed": 2612,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4880,7 +4885,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1671
+      "UsersEstimate": 1672
     },
     {
       "ID": "ACHV_03",
@@ -4928,7 +4933,7 @@
       "Name": "Mommy Dearest",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_09",
@@ -4936,7 +4941,7 @@
       "Name": "Bad Dog",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_10",
@@ -5008,7 +5013,7 @@
       "Name": "True Survivor",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ACHV_19",
@@ -5080,7 +5085,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "ACHV_28",
@@ -5112,7 +5117,7 @@
       "Name": "Where It All Began",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_32",
@@ -5160,7 +5165,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACHV_38",
@@ -5168,7 +5173,7 @@
       "Name": "Risk Tolerant",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_39",
@@ -5176,7 +5181,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1958
+      "UsersEstimate": 1959
     },
     {
       "ID": "ACHV_40",
@@ -5208,7 +5213,7 @@
       "Name": "What A Catchy Song",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACHV_44",
@@ -5224,7 +5229,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 574
+      "UsersEstimate": 575
     },
     {
       "ID": "ACHV_46",
@@ -5327,7 +5332,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2611,
+      "Progressed": 2612,
       "Completed": 13
     }
   ],
@@ -5335,8 +5340,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:09:22.8879845+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:10:09.7382786+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:04:02.2231376+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:09:22.8880799+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:05:01.926917+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:10:09.7383333+00:00"
 }

@@ -1,7 +1,7 @@
 # The Surge
 [Store](https://store.epicgames.com/en-US/p/the-surge)  
 [View Rawdata](../../db/t/the_surge.json)  
-Rating: 4.44 (Ranked 710)  
+Rating: 4.44 (Ranked 711)  
 Number of Ratings: 62  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,7 +12,7 @@ Number of Ratings: 62  (23.09.2022)
 | First Day on the Job | 75.00% | ~4,107 |
 | Butcher's Bill | 54.00% | ~2,957 |
 | P.A.X | 36.00% | ~1,971 |
-| Hey Listen | 35.00% | ~1,917 |
+| Hey Listen | 36.00% | ~1,971 |
 | OPERATOR | 35.00% | ~1,917 |
 | It's Blue Light | 33.00% | ~1,807 |
 | Most Wanted | 26.00% | ~1,424 |

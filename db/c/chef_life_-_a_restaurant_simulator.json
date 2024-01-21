@@ -3,12 +3,12 @@
   "Name": "Chef Life - A Restaurant Simulator",
   "ProductSlug": "chef-life-a-restaurant-simulator",
   "Ranking_Rating": 696,
-  "Ranking_Popularity": 590,
-  "Ranking_PopularitySum": 590,
+  "Ranking_Popularity": 591,
+  "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 328,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -4688,9 +4688,9 @@
       "ID": "RecipeDifferent10",
       "SetID": "d1bm05f",
       "Name": "Home Cook",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 249
+      "UsersEstimate": 259
     },
     {
       "ID": "RecipeDifferent30",
@@ -4817,8 +4817,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:23.1032107+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T04:57:50.839172+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:59:59.6766619+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:23.1032738+00:00"
+  "LastChanged_Achievements": "2024-01-21T06:12:32.6664746+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T05:57:49.8599474+00:00",
+  "LastUpdate_Ratings": "2024-01-21T06:01:20.2792493+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:32.6665129+00:00"
 }

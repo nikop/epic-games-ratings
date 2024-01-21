@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10652,
+  "EOS_Progressed": 10653,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 221,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17444,6 +17444,11 @@
       "Time": "2024-01-21T04:09:33.1422707+00:00",
       "NumProgressed": 10652,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T06:10:16.8794516+00:00",
+      "NumProgressed": 10653,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17455,7 +17460,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3941
+      "UsersEstimate": 3942
     },
     {
       "ID": "10",
@@ -17574,7 +17579,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10652,
+      "Progressed": 10653,
       "Completed": 0
     }
   ],
@@ -17582,8 +17587,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:09:29.1647788+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:10:16.8794511+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.2707916+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:58:03.0781126+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:09:29.1649179+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:59:05.2585484+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:10:16.8795518+00:00"
 }

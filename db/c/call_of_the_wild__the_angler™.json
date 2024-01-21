@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 194,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 154,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-08-31T13:00:00+00:00",
     "PcReleaseDate": "2022-08-31T13:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8383,
+  "EOS_Progressed": 8384,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14305,6 +14305,11 @@
       "Time": "2024-01-21T03:08:35.1415671+00:00",
       "NumProgressed": 8383,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T06:11:02.8647003+00:00",
+      "NumProgressed": 8384,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14316,7 +14321,7 @@
       "Name": "Fish Just Got Reel",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "ACHIEVEMENT_002",
@@ -14372,7 +14377,7 @@
       "Name": "Scaling up",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1257
+      "UsersEstimate": 1258
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -14635,13 +14640,13 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8383,
+      "Progressed": 8384,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7755,
+      "Progressed": 7756,
       "Completed": 113
     }
   ],
@@ -14649,8 +14654,8 @@
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
   "LastChanged": "2024-01-21T01:56:17.1656944+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:10:07.3537793+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:11:02.8646998+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:30.6806984+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:58:47.9475088+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:10:07.3539029+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:59:57.6690954+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:11:02.8647712+00:00"
 }

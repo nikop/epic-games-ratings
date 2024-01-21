@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11038,18 +11038,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 21782,
       "NumberOfAwardsMax": 8048
+    },
+    {
+      "Time": "2024-01-21T06:00:23.9873189+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21791,
+      "NumberOfAwardsMax": 8057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21782,
-  "NumberOfAwardsMax": 8048,
+  "NumberOfAwards": 21791,
+  "NumberOfAwardsMax": 8057,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 8048
+      "Count": 8057
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -11118,9 +11124,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133370,
+  "EOS_Progressed": 133371,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 625,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40848,6 +40854,11 @@
       "Time": "2024-01-21T05:11:31.0719103+00:00",
       "NumProgressed": 133370,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T06:12:41.800953+00:00",
+      "NumProgressed": 133371,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40875,7 +40886,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41011,7 +41022,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41131,7 +41142,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41163,7 +41174,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41171,7 +41182,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41235,7 +41246,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "hospital_full_service",
@@ -41251,7 +41262,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41267,7 +41278,7 @@
       "Name": "FNG",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "inn_visit_all_variants",
@@ -41307,7 +41318,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6668
+      "UsersEstimate": 6669
     },
     {
       "ID": "run_victory_act01",
@@ -41490,21 +41501,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133370,
+      "Progressed": 133371,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8239,
+      "Progressed": 8240,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-21T01:56:47.4743365+00:00",
-  "LastChanged_Achievements": "2024-01-21T05:11:31.0719096+00:00",
+  "LastChanged": "2024-01-21T06:00:23.9873187+00:00",
+  "LastChanged_Achievements": "2024-01-21T06:12:41.8009525+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:59:10.0407513+00:00",
-  "LastUpdate_Achievements": "2024-01-21T05:11:31.0720668+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:00:23.9873193+00:00",
+  "LastUpdate_Achievements": "2024-01-21T06:12:41.8011398+00:00"
 }
