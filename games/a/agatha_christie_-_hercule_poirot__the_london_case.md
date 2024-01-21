@@ -18,30 +18,30 @@
 | Everything matters | 47.00% | ~55 |
 | DI Hardwicke | 46.00% | ~54 |
 | An expert mediator | 45.00% | ~53 |
-| Betty Allen | 40.00% | ~47 |
-| Order and method | 38.00% | ~45 |
-| The Investigation Begins | 38.00% | ~45 |
+| Betty Allen | 41.00% | ~48 |
+| Order and method | 39.00% | ~46 |
+| The Investigation Begins | 39.00% | ~46 |
+| Ms. Camilla B. Culsham | 36.00% | ~42 |
 | Irene Court-Smyth | 36.00% | ~42 |
-| Ms. Camilla B. Culsham | 35.00% | ~41 |
-| An odd series of events | 34.00% | ~40 |
-| The Apartment | 34.00% | ~40 |
+| An odd series of events | 35.00% | ~41 |
+| The Apartment | 35.00% | ~41 |
 | Nathaniel Dryden | 32.00% | ~38 |
 | Bartholomew | 32.00% | ~38 |
+| Well-acquainted | 31.00% | ~37 |
 | A rude awakening | 31.00% | ~37 |
-| Well-acquainted | 30.00% | ~35 |
-| Anastasia Babanin | 30.00% | ~35 |
-| The Scheme | 30.00% | ~35 |
-| Zakariya Demir | 29.00% | ~34 |
-| Truth from within | 27.00% | ~32 |
+| Anastasia Babanin | 31.00% | ~37 |
+| The Scheme | 31.00% | ~37 |
+| Zakariya Demir | 30.00% | ~35 |
+| Truth from within | 28.00% | ~33 |
+| A curious phrase | 25.00% | ~30 |
 | Evelyn Lakshmi Warbeck | 25.00% | ~30 |
 | The Suspects | 25.00% | ~30 |
-| A curious phrase | 24.00% | ~28 |
-| Horace Mountjoy | 23.00% | ~27 |
-| The Secrets | 23.00% | ~27 |
-| A peculiar fellow | 21.00% | ~25 |
-| Johan Kristiansen | 21.00% | ~25 |
-| Mortimer Ailsworth | 21.00% | ~25 |
-| Well-travelled | 20.00% | ~24 |
+| Horace Mountjoy | 24.00% | ~28 |
+| The Secrets | 24.00% | ~28 |
+| A peculiar fellow | 22.00% | ~26 |
+| Johan Kristiansen | 22.00% | ~26 |
+| Mortimer Ailsworth | 22.00% | ~26 |
+| Well-travelled | 21.00% | ~25 |
 | Florence Farquhar | 19.00% | ~22 |
 | The Investigation Starts Anew | 19.00% | ~22 |
 | A treasured heirloom | 17.00% | ~20 |

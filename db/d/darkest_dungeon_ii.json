@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11050,10 +11050,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21795,
       "NumberOfAwardsMax": 8057
+    },
+    {
+      "Time": "2024-01-21T08:59:07.4501188+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21798,
+      "NumberOfAwardsMax": 8057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21795,
+  "NumberOfAwards": 21798,
   "NumberOfAwardsMax": 8057,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11091,7 +11097,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 1429
+      "Count": 1432
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11130,9 +11136,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133376,
+  "EOS_Progressed": 133378,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 620,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40875,6 +40881,11 @@
       "Time": "2024-01-21T08:10:21.0416334+00:00",
       "NumProgressed": 133376,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T09:11:22.8625433+00:00",
+      "NumProgressed": 133378,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41052,9 +41063,9 @@
       "ID": "combat_kill_fanatics",
       "SetID": "64l4lke",
       "Name": "Deprogramming",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 4001
+      "UsersEstimate": 5335
     },
     {
       "ID": "combat_kill_fisherfolk",
@@ -41517,21 +41528,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133376,
+      "Progressed": 133378,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8245,
+      "Progressed": 8247,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-21T06:58:56.5641006+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:21.0416329+00:00",
+  "LastChanged": "2024-01-21T08:59:07.4501183+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:22.862543+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:58:21.3583454+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:21.0418026+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:59:07.4501192+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:22.8627033+00:00"
 }

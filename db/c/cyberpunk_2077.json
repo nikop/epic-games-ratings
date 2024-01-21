@@ -18830,9 +18830,9 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056236,
-  "EOS_Completed": 3138,
-  "EOS_NewPlayers": 5772,
+  "EOS_Progressed": 1056275,
+  "EOS_Completed": 3139,
+  "EOS_NewPlayers": 5750,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50440,6 +50440,11 @@
       "Time": "2024-01-21T08:09:18.2345431+00:00",
       "NumProgressed": 1056236,
       "NumCompleted": 3138
+    },
+    {
+      "Time": "2024-01-21T09:09:54.7781211+00:00",
+      "NumProgressed": 1056275,
+      "NumCompleted": 3139
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50460,7 +50465,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "BushidoAndChill",
@@ -50474,9 +50479,9 @@
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5281
+      "UsersEstimate": 6338
     },
     {
       "ID": "Denied",
@@ -50484,7 +50489,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "FollowingTheRiver",
@@ -50500,7 +50505,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "Gearhead",
@@ -50708,7 +50713,7 @@
       "Name": "The Sun",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "TheWheelOfFortune",
@@ -50764,7 +50769,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2112
+      "UsersEstimate": 2113
     },
     {
       "ID": "UnderPressure",
@@ -50908,7 +50913,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "HydraIsDead",
@@ -50924,7 +50929,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.4,
       "XP": 35,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "KingOfTheCups",
@@ -50987,21 +50992,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056236,
-      "Completed": 3138
+      "Progressed": 1056275,
+      "Completed": 3139
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184859,
-      "Completed": 10670
+      "Progressed": 184898,
+      "Completed": 10672
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-21T06:05:22.0405826+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:09:18.2345427+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:09:54.7781209+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:03:24.3870022+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:09:18.2346951+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:04:04.1635821+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:09:54.7782775+00:00"
 }

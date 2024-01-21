@@ -5,40 +5,40 @@ Rating: 4.19 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,552 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,255 |
-| Loose Ends | 33.00% | ~27,424 |
-| To the Victor Go the Spoils | 27.00% | ~22,438 |
-| Knighthood | 26.00% | ~21,607 |
-| Get ReQ'd | 24.00% | ~19,945 |
-| Whispered Words | 24.00% | ~19,945 |
-| The Batman Family | 22.00% | ~18,283 |
-| Lock and Key | 22.00% | ~18,283 |
-| Something in the Clay | 20.00% | ~16,621 |
-| Quartzer Life Crisis | 20.00% | ~16,621 |
-| Working Hard or Harley Working? | 20.00% | ~16,621 |
-| Unstoppable Force | 20.00% | ~16,621 |
-| Bad Apples in Every Orchard | 20.00% | ~16,621 |
-| Snow Problem | 19.00% | ~15,790 |
+| First Step Into the Knight | 50.00% | ~41,554 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,257 |
+| Loose Ends | 33.00% | ~27,426 |
+| To the Victor Go the Spoils | 27.00% | ~22,439 |
+| Knighthood | 26.00% | ~21,608 |
+| Get ReQ'd | 24.00% | ~19,946 |
+| Whispered Words | 24.00% | ~19,946 |
+| The Batman Family | 22.00% | ~18,284 |
+| Lock and Key | 22.00% | ~18,284 |
+| Something in the Clay | 20.00% | ~16,622 |
+| Quartzer Life Crisis | 20.00% | ~16,622 |
+| Working Hard or Harley Working? | 20.00% | ~16,622 |
+| Unstoppable Force | 20.00% | ~16,622 |
+| Bad Apples in Every Orchard | 20.00% | ~16,622 |
+| Snow Problem | 19.00% | ~15,791 |
 | The Show Mud Go On | 17.00% | ~14,128 |
 | From Inside Gotham's Walls | 17.00% | ~14,128 |
-| Protector of Gotham | 16.00% | ~13,296 |
-| In Your Element | 15.00% | ~12,465 |
-| Universal Health Scare | 15.00% | ~12,465 |
-| Rock and a Hard Place | 14.00% | ~11,634 |
-| Cooldown | 14.00% | ~11,634 |
-| Voiceless | 14.00% | ~11,634 |
-| Shock Til They Drop | 13.00% | ~10,803 |
-| Seeking Asylum | 13.00% | ~10,803 |
-| End of an Era | 12.00% | ~9,972 |
-| Not On My Watch | 12.00% | ~9,972 |
-| Bulldozed | 12.00% | ~9,972 |
-| Gotham Knight | 12.00% | ~9,972 |
-| Gotham City Confidential | 11.00% | ~9,141 |
-| Drone You Out | 10.00% | ~8,310 |
-| Out of Their League | 9.00% | ~7,479 |
-| Solid Alibi | 8.00% | ~6,648 |
-| Fusion Expert | 7.00% | ~5,817 |
+| Protector of Gotham | 16.00% | ~13,297 |
+| In Your Element | 15.00% | ~12,466 |
+| Universal Health Scare | 15.00% | ~12,466 |
+| Rock and a Hard Place | 14.00% | ~11,635 |
+| Cooldown | 14.00% | ~11,635 |
+| Voiceless | 14.00% | ~11,635 |
+| Shock Til They Drop | 13.00% | ~10,804 |
+| Seeking Asylum | 13.00% | ~10,804 |
+| End of an Era | 12.00% | ~9,973 |
+| Not On My Watch | 12.00% | ~9,973 |
+| Bulldozed | 12.00% | ~9,973 |
+| Gotham Knight | 12.00% | ~9,973 |
+| Gotham City Confidential | 11.00% | ~9,142 |
+| Drone You Out | 10.00% | ~8,311 |
+| Out of Their League | 9.00% | ~7,480 |
+| Solid Alibi | 8.00% | ~6,649 |
+| Fusion Expert | 7.00% | ~5,818 |
 | Family Meeting | 6.00% | ~4,986 |
 | A Worthy Successor | 6.00% | ~4,986 |
 | Expert Crime Fighter | 5.00% | ~4,155 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 980)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,103 (Ranked 110)  
+Progressed: 83,108 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,10 +343,10 @@ Completed: 135 (0.16%) (Ranked 296)
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
 | 2024-01-20 | 83,086 | 135 |
-| 2024-01-21 | 83,103 | 135 |
+| 2024-01-21 | 83,108 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,237  (Ranked 102)  
-Sum: 5,531 (Ranked 145)  
+Sum: 5,532 (Ranked 145)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -354,7 +354,7 @@ Diff (max vs sum): -43
 | This game has Diverse Characters | 294 |
 | This game is Great for Beginners | 293 |
 | This game is Relaxing | 292 |
-| This game is Extremely Fun | 290 |
+| This game is Extremely Fun | 291 |
 | This game has Quickly Understood Controls | 289 |
 | This game has Amazing Characters | 281 |
 | This game has Amazing Storytelling | 279 |
@@ -692,4 +692,4 @@ Diff (max vs sum): -43
 | 2024-01-18 | 4.19 | 3,223 | 5,508 |
 | 2024-01-19 | 4.19 | 3,232 | 5,523 |
 | 2024-01-20 | 4.19 | 3,237 | 5,530 |
-| 2024-01-21 | 4.19 | 3,237 | 5,531 |
+| 2024-01-21 | 4.19 | 3,237 | 5,532 |

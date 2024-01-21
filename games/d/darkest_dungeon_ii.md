@@ -41,6 +41,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Unfulfilled Desires | 4.00% | ~5,335 |
 | Dissector | 4.00% | ~5,335 |
 | Banishment | 4.00% | ~5,335 |
+| Deprogramming | 4.00% | ~5,335 |
 | Now Stay Dead | 4.00% | ~5,335 |
 | Spelunker | 4.00% | ~5,335 |
 | Ramble On | 4.00% | ~5,335 |
@@ -49,7 +50,6 @@ Number of Ratings: 7,767  (23.09.2022)
 | Road Trip | 4.00% | ~5,335 |
 | Hope Rekindled | 3.00% | ~4,001 |
 | Predator | 3.00% | ~4,001 |
-| Deprogramming | 3.00% | ~4,001 |
 | Reverse Banditry | 3.00% | ~4,001 |
 | When You Want Something Done Right | 3.00% | ~4,001 |
 | Utopia | 3.00% | ~4,001 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,376 (Ranked 92)  
+Progressed: 133,378 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,10 +352,10 @@ Completed: 5 (0.00%) (Ranked 408)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,376 | 5 |
+| 2024-01-21 | 133,378 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
-Sum: 21,795 (Ranked 58)  
+Sum: 21,798 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -367,7 +367,7 @@ Diff (max vs sum): -6
 | This game is Extremely Fun | 1,536 |
 | This game has Unique Visuals | 1,482 |
 | This game has Amazing Storytelling | 1,459 |
-| This game has Quickly Understood Controls | 1,429 |
+| This game has Quickly Understood Controls | 1,432 |
 | This game has a Creative Community | 1,110 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -732,4 +732,4 @@ Diff (max vs sum): -6
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
 | 2024-01-20 | 4.69 | - | 8,048 | 21,780 |
-| 2024-01-21 | 4.69 | - | 8,057 | 21,795 |
+| 2024-01-21 | 4.69 | - | 8,057 | 21,798 |

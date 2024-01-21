@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 209,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 224,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,9 +559,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4827,
+  "EOS_Progressed": 4828,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -8594,6 +8594,11 @@
       "Time": "2024-01-21T08:06:13.8110759+00:00",
       "NumProgressed": 4827,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T09:08:02.3269796+00:00",
+      "NumProgressed": 4828,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8709,7 +8714,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "HouseofCards_19",
@@ -8797,7 +8802,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8829,7 +8834,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8925,7 +8930,7 @@
       "Name": "Venture Outward",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 3475
+      "UsersEstimate": 3476
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -8940,15 +8945,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4827,
+      "Progressed": 4828,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:06:13.811055+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:08:02.3269795+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:03:17.7511869+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:06:13.8111342+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:03:53.9882825+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:08:02.3270364+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 440,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2023-03-09T17:00:00+00:00",
@@ -529,9 +529,9 @@
       "ID": "creepytale3_ach_1",
       "SetID": "7idcjbn",
       "Name": "On the good path",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "creepytale3_ach_10",
@@ -593,9 +593,9 @@
       "ID": "creepytale3_ach_19",
       "SetID": "7idcjbn",
       "Name": "A deal, there is a deal.",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 16
     },
     {
       "ID": "creepytale3_ach_2",
@@ -665,17 +665,17 @@
       "ID": "creepytale3_ach_3",
       "SetID": "7idcjbn",
       "Name": "Goodness",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "creepytale3_ach_31",
       "SetID": "7idcjbn",
       "Name": "An insidious ritual",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "creepytale3_ach_32",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:04:54.2413154+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:06:11.0754448+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:05.8667817+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:58:21.837549+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:04:54.2413462+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:59:08.2228906+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:06:11.0754713+00:00"
 }

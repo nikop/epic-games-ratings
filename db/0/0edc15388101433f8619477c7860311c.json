@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -619,9 +619,9 @@
       "ID": "CarryingDoll",
       "SetID": "7m88n8p",
       "Name": "Girl Carrying A Doll",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "DatingAttraction",
@@ -635,9 +635,9 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "HauntingSpecter",
@@ -802,8 +802,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:08:35.8105776+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:08:44.8972007+00:00",
   "LastUpdate_AppInfo": "2024-01-15T15:57:24.3630829+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:02:51.4373076+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:08:35.8105929+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:02:33.0311885+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:08:44.8972192+00:00"
 }

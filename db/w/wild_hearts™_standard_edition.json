@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 257,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -18,11 +18,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1391,
+  "EOS_Progressed": 1392,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.58,
+  "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
     {
       "Time": "2023-09-19T03:08:38.9448107+00:00",
@@ -4573,6 +4573,11 @@
       "Time": "2024-01-21T07:10:41.932681+00:00",
       "NumProgressed": 1391,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T09:10:58.6125943+00:00",
+      "NumProgressed": 1392,
+      "NumCompleted": 8
     }
   ],
   "AchievementsAdded": "2023-09-18T23:09:36.7664506+00:00",
@@ -4585,7 +4590,7 @@
       "Name": "Land of the Rising Sun",
       "Percentage": 100,
       "XP": 15,
-      "UsersEstimate": 1391
+      "UsersEstimate": 1392
     },
     {
       "ID": "achievement_10",
@@ -4657,7 +4662,7 @@
       "Name": "Man-Machine Master",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 709
+      "UsersEstimate": 710
     },
     {
       "ID": "achievement_19",
@@ -4689,7 +4694,7 @@
       "Name": "Left Arm Leverager",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_22",
@@ -4729,7 +4734,7 @@
       "Name": "Vanquisher of the Volatile",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_27",
@@ -4737,7 +4742,7 @@
       "Name": "Mighty Marmelizer",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_28",
@@ -4745,7 +4750,7 @@
       "Name": "Flawless Crystal",
       "Percentage": 39,
       "XP": 30,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "achievement_29",
@@ -4753,7 +4758,7 @@
       "Name": "Fair Means or Foul",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_3",
@@ -4761,7 +4766,7 @@
       "Name": "Bonds of Enmity",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "achievement_30",
@@ -4793,7 +4798,7 @@
       "Name": "Human Believer",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "achievement_34",
@@ -4801,7 +4806,7 @@
       "Name": "Kemono at Heart",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 403
+      "UsersEstimate": 404
     },
     {
       "ID": "achievement_35",
@@ -4841,7 +4846,7 @@
       "Name": "Big Spender",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "achievement_4",
@@ -4849,7 +4854,7 @@
       "Name": "Axer of Auspice",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "achievement_40",
@@ -4897,7 +4902,7 @@
       "Name": "Helpful Heart",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "achievement_46",
@@ -4937,7 +4942,7 @@
       "Name": "Commencing of Quests",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "achievement_7",
@@ -4953,7 +4958,7 @@
       "Name": "Expert Conjuror",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "achievement_9",
@@ -4968,13 +4973,13 @@
     {
       "ID": "2cpn27e",
       "IsBase": true,
-      "Progressed": 1391,
+      "Progressed": 1392,
       "Completed": 8
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:03.21366+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:10:58.612594+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:59:22.4756129+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:03.2137202+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:00:39.3164302+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:10:58.6126369+00:00"
 }

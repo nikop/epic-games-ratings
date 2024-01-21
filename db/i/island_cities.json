@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 26,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
     "PcReleaseDate": "2022-08-30T23:00:00+00:00",
@@ -4059,9 +4059,9 @@
       "ID": "LEVEL_019",
       "SetID": "3khpmem",
       "Name": "Aiming for a living and human city",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 162
     },
     {
       "ID": "LEVEL_020",
@@ -4100,8 +4100,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:04:10.2518297+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:05:09.5090296+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:26.5155519+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:57:17.7314233+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:04:10.2518693+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:57:32.4893317+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:05:09.5090692+00:00"
 }

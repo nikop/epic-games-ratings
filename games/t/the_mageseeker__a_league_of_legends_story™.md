@@ -43,11 +43,11 @@ Rating: 4.78 (Ranked 112)
 | True power | 17.00% | ~594 |
 | Meltridge | 17.00% | ~594 |
 | Cloven Dell Headquarters | 17.00% | ~594 |
+| Whispers in the Woods IV | 15.00% | ~524 |
 | I smell fear | 15.00% | ~524 |
 | The Great City of Demacia | 15.00% | ~524 |
 | Call it 'redistribution of magic | 15.00% | ~524 |
 | Embrace the darkness | 14.00% | ~489 |
-| Whispers in the Woods IV | 14.00% | ~489 |
 | The end of the experiments | 14.00% | ~489 |
 | Truth is a dark mirror | 14.00% | ~489 |
 | Do you trust me? | 13.00% | ~454 |

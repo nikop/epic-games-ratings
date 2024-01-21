@@ -4,8 +4,8 @@
   "ProductSlug": "creepy-tale-058ebd",
   "Ranking_EOS_Progress": 399,
   "Ranking_EOS_Completed": 103,
-  "Ranking_EOS_NewPlayers": 373,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 357,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
     "PcReleaseDate": "2021-02-21T17:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 315,
+  "EOS_Progressed": 316,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 3.49,
+  "EOS_Completed_Percentage": 3.48,
   "EosHistory": [
     {
       "Time": "2023-10-22T10:08:20.3379882+00:00",
@@ -1374,6 +1374,11 @@
       "Time": "2024-01-20T22:09:54.3578585+00:00",
       "NumProgressed": 315,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-21T09:11:13.5974712+00:00",
+      "NumProgressed": 316,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-10-22T10:08:20.3379913+00:00",
@@ -1386,7 +1391,7 @@
       "Name": "Follow to the brother",
       "Percentage": 16,
       "XP": 75,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "creepytaleach10",
@@ -1402,7 +1407,7 @@
       "Name": "Alchemist",
       "Percentage": 62,
       "XP": 75,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     },
     {
       "ID": "creepytaleach12",
@@ -1434,7 +1439,7 @@
       "Name": "Happy end",
       "Percentage": 49,
       "XP": 75,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     },
     {
       "ID": "creepytaleach4",
@@ -1448,9 +1453,9 @@
       "ID": "creepytaleach5",
       "SetID": "bnif31p",
       "Name": "Incorrigible researcher",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 75,
-      "UsersEstimate": 91
+      "UsersEstimate": 88
     },
     {
       "ID": "creepytaleach6",
@@ -1489,14 +1494,14 @@
     {
       "ID": "bnif31p",
       "IsBase": true,
-      "Progressed": 315,
+      "Progressed": 316,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-10-29T23:02:10.2555546+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697065+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:14.0942494+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:13.5974709+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:06.1201806+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:58:35.1920917+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:14.0942663+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:59:27.6999685+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:13.5974853+00:00"
 }

@@ -6,10 +6,10 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,277 |
-| Titan's First Steps | 12.00% | ~18,277 |
-| Basic in Bulk | 11.00% | ~16,754 |
-| Tinkle of Coins | 10.00% | ~15,231 |
+| Sponsored by Argon | 12.00% | ~18,278 |
+| Titan's First Steps | 12.00% | ~18,278 |
+| Basic in Bulk | 11.00% | ~16,755 |
+| Tinkle of Coins | 10.00% | ~15,232 |
 | Disintermediation | 8.00% | ~12,185 |
 | Capitalism Ho! | 8.00% | ~12,185 |
 | It's Free Real Estate | 7.00% | ~10,662 |
@@ -24,14 +24,14 @@ Number of Ratings: 12,664  (23.09.2022)
 | Where it Hurts | 5.00% | ~7,616 |
 | One-Armed Bandit | 5.00% | ~7,616 |
 | Through Repetition, Perfection | 5.00% | ~7,616 |
-| Demand for Supplies | 4.00% | ~6,092 |
-| Flooding the Market | 4.00% | ~6,092 |
-| Gem Expert | 4.00% | ~6,092 |
-| Gild-Gotten Goods | 4.00% | ~6,092 |
-| Accomplished Merchant | 4.00% | ~6,092 |
-| Dungeon Imports | 4.00% | ~6,092 |
-| Did we pack lunch? | 4.00% | ~6,092 |
-| Arcane Industries | 4.00% | ~6,092 |
+| Demand for Supplies | 4.00% | ~6,093 |
+| Flooding the Market | 4.00% | ~6,093 |
+| Gem Expert | 4.00% | ~6,093 |
+| Gild-Gotten Goods | 4.00% | ~6,093 |
+| Accomplished Merchant | 4.00% | ~6,093 |
+| Dungeon Imports | 4.00% | ~6,093 |
+| Did we pack lunch? | 4.00% | ~6,093 |
+| Arcane Industries | 4.00% | ~6,093 |
 | On the Path to Greatness | 3.00% | ~4,569 |
 | A Notch Above the Rest | 3.00% | ~4,569 |
 | Ascended | 3.00% | ~4,569 |
@@ -109,7 +109,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,523 |
 | Bane of Legends | 0.90% | ~1,371 |
 | Marvels from the World Over | 0.90% | ~1,371 |
-| Anything not Nailed Down | 0.80% | ~1,218 |
+| Anything not Nailed Down | 0.80% | ~1,219 |
 | Ultimate Collector | 0.70% | ~1,066 |
 | Unleashed Potential | 0.70% | ~1,066 |
 | JACKPOT!!! | 0.70% | ~1,066 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~609 |
 | Capitalist Camaraderie | 0.30% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,311 (Ranked 87)  
+Progressed: 152,315 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,7 +395,7 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-18 | 151,873 | 359 |
 | 2024-01-19 | 152,097 | 359 |
 | 2024-01-20 | 152,267 | 360 |
-| 2024-01-21 | 152,311 | 360 |
+| 2024-01-21 | 152,315 | 360 |
 ## Awards
 Max (Great for Beginners): 4,969  (Ranked 82)  
 Sum: 28,024 (Ranked 52)  

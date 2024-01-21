@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1770,
+  "EOS_Progressed": 1771,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4771,6 +4771,11 @@
       "Time": "2024-01-21T05:11:11.0950112+00:00",
       "NumProgressed": 1770,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T09:10:56.8972625+00:00",
+      "NumProgressed": 1771,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4847,7 +4852,7 @@
       "Name": "The Alliance",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 796
+      "UsersEstimate": 797
     },
     {
       "ID": "AchvDoom",
@@ -4863,7 +4868,7 @@
       "Name": "Evacuation",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "AchvInvShip",
@@ -4911,7 +4916,7 @@
       "Name": "The Necroevolution",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "AchvNest",
@@ -4967,7 +4972,7 @@
       "Name": "The City",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 938
+      "UsersEstimate": 939
     },
     {
       "ID": "AchvReachCondor",
@@ -4983,7 +4988,7 @@
       "Name": "Survivors",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -5014,7 +5019,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1770,
+      "Progressed": 1771,
       "Completed": 1
     }
   ],
@@ -5022,8 +5027,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-20T17:59:31.7226659+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:02.1196857+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:10:56.8972623+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:59:59.6692218+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:02.1197417+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:01:33.5880321+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:10:56.8973098+00:00"
 }

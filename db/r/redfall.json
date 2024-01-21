@@ -5,10 +5,10 @@
   "Ranking_Rating": 1103,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 560,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 275,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 271,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
     "PcReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -423,9 +423,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2409,
+  "EOS_Progressed": 2410,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4643,6 +4643,11 @@
       "Time": "2024-01-21T03:03:57.9325982+00:00",
       "NumProgressed": 2409,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T09:05:33.8499171+00:00",
+      "NumProgressed": 2410,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4878,7 +4883,7 @@
       "Name": "ICU",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "Achievement_031",
@@ -4902,7 +4907,7 @@
       "Name": "Wounded Whispers",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 385
+      "UsersEstimate": 386
     },
     {
       "ID": "Achievement_034",
@@ -5181,7 +5186,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2409,
+      "Progressed": 2410,
       "Completed": 0
     }
   ],
@@ -5189,8 +5194,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-21T07:59:10.7940438+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:04:27.639623+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:05:33.8499169+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.1116766+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:59:10.7940451+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:04:27.639691+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:00:22.0045949+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:05:33.8500015+00:00"
 }

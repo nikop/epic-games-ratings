@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 154,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2339,9 +2339,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22607,
+  "EOS_Progressed": 22612,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 274,
+  "EOS_NewPlayers": 277,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14574,6 +14574,11 @@
       "Time": "2024-01-21T08:10:06.1592355+00:00",
       "NumProgressed": 22607,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-21T09:11:02.8337864+00:00",
+      "NumProgressed": 22612,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14617,7 +14622,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6330
+      "UsersEstimate": 6331
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14689,7 +14694,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5200
+      "UsersEstimate": 5201
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14697,7 +14702,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1130
+      "UsersEstimate": 1131
     },
     {
       "ID": "KILL_2HEAD",
@@ -14705,7 +14710,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2939
+      "UsersEstimate": 2940
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14713,7 +14718,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4974
+      "UsersEstimate": 4975
     },
     {
       "ID": "KILL_ROBOT",
@@ -14729,7 +14734,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4070
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14737,7 +14742,7 @@
       "Name": "The Commonality",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "PERFECT_DODGE_MULTIPLE",
@@ -14745,7 +14750,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4295
+      "UsersEstimate": 4296
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14753,7 +14758,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4521
+      "UsersEstimate": 4522
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14761,7 +14766,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5426
+      "UsersEstimate": 5427
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14777,7 +14782,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6330
+      "UsersEstimate": 6331
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14785,7 +14790,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4069
+      "UsersEstimate": 4070
     },
     {
       "ID": "STORY_HABITAT",
@@ -14793,7 +14798,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3617
+      "UsersEstimate": 3618
     },
     {
       "ID": "STORY_HANGAR",
@@ -14801,7 +14806,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14817,7 +14822,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5878
+      "UsersEstimate": 5879
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14825,7 +14830,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3165
+      "UsersEstimate": 3166
     },
     {
       "ID": "STORY_TOWER",
@@ -14841,7 +14846,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2939
+      "UsersEstimate": 2940
     },
     {
       "ID": "DISMEMBER_100",
@@ -14960,13 +14965,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22607,
+      "Progressed": 22612,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10533,
+      "Progressed": 10538,
       "Completed": 29
     }
   ],
@@ -14974,8 +14979,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:06.1592353+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:02.8337861+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:03:31.7453991+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:06.1593117+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:04:14.8987157+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:02.8338658+00:00"
 }

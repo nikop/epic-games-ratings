@@ -8,8 +8,8 @@
 | Let it begin | 45.00% | ~241 |
 | The athlete | 28.00% | ~150 |
 | The intellectual | 25.00% | ~134 |
+| The boss | 22.00% | ~118 |
 | The activist | 21.00% | ~112 |
-| The boss | 21.00% | ~112 |
 | The individualist | 17.00% | ~91 |
 | Picky, Picky! | 11.00% | ~59 |
 | The nice guy | 10.00% | ~54 |

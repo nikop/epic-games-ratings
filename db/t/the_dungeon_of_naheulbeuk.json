@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 95,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1797,9 +1797,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 249008,
+  "EOS_Progressed": 249016,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 961,
+  "EOS_NewPlayers": 962,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -26997,6 +26997,11 @@
       "Time": "2024-01-21T08:10:29.3283918+00:00",
       "NumProgressed": 249008,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-21T09:11:33.4822642+00:00",
+      "NumProgressed": 249016,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27040,7 +27045,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9960
+      "UsersEstimate": 9961
     },
     {
       "ID": "BookCollection",
@@ -27064,7 +27069,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12450
+      "UsersEstimate": 12451
     },
     {
       "ID": "Chapter3",
@@ -27072,7 +27077,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9960
+      "UsersEstimate": 9961
     },
     {
       "ID": "Chapter4",
@@ -27406,9 +27411,9 @@
       "ID": "DwarfCover",
       "SetID": "50chcgj",
       "Name": "Where\u0027s that freaking Dwarf?",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 22411
+      "UsersEstimate": 24902
     },
     {
       "ID": "DwarfElf15Support",
@@ -27440,7 +27445,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14940
+      "UsersEstimate": 14941
     },
     {
       "ID": "ElfEpic",
@@ -27456,7 +27461,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92133
+      "UsersEstimate": 92136
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27472,7 +27477,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12450
+      "UsersEstimate": 12451
     },
     {
       "ID": "EndCombatOneHp",
@@ -27480,7 +27485,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12450
+      "UsersEstimate": 12451
     },
     {
       "ID": "EndGameCursed",
@@ -27504,7 +27509,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27391
+      "UsersEstimate": 27392
     },
     {
       "ID": "FollowBraztok",
@@ -27656,7 +27661,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14940
+      "UsersEstimate": 14941
     },
     {
       "ID": "SupportCount4",
@@ -27704,28 +27709,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12450
+      "UsersEstimate": 12451
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249008,
+      "Progressed": 249016,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249008,
+      "Progressed": 249016,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-20T17:58:07.6277477+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:29.3283916+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:33.482264+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:58:37.3211928+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:29.3285455+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:59:31.2063492+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:33.4824453+00:00"
 }

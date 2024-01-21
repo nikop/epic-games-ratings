@@ -17,19 +17,19 @@
 | Council Legion of Merit | 39.00% | ~1,771 |
 | Missing in Action | 38.00% | ~1,726 |
 | Medal of Honor | 36.00% | ~1,635 |
+| Soldier | 36.00% | ~1,635 |
 | Meritorious Service Medal | 36.00% | ~1,635 |
 | Soldier Ally | 36.00% | ~1,635 |
-| Soldier | 35.00% | ~1,589 |
 | Charismatic | 35.00% | ~1,589 |
 | Very Elusive | 35.00% | ~1,589 |
 | Asari Ally | 34.00% | ~1,544 |
 | Medal of Exploration III | 32.00% | ~1,453 |
 | Principled | 32.00% | ~1,453 |
 | Colonial Savior | 32.00% | ~1,453 |
+| Merciless | 32.00% | ~1,453 |
 | Scientist | 32.00% | ~1,453 |
 | Paramour I | 31.00% | ~1,408 |
 | Krogan Ally | 31.00% | ~1,408 |
-| Merciless | 31.00% | ~1,408 |
 | Sentinel Ally | 30.00% | ~1,362 |
 | The Archangel | 30.00% | ~1,362 |
 | The Professor | 30.00% | ~1,362 |
@@ -58,6 +58,7 @@
 | A Personal Touch | 22.00% | ~999 |
 | Battlemaster | 22.00% | ~999 |
 | Fade Away | 22.00% | ~999 |
+| Treason | 22.00% | ~999 |
 | Big Game Hunter | 22.00% | ~999 |
 | Digital Exorcist | 22.00% | ~999 |
 | Heart of Darkness | 22.00% | ~999 |
@@ -65,7 +66,6 @@
 | Archivist | 21.00% | ~954 |
 | Friend or Foe | 21.00% | ~954 |
 | Cat's in the Cradle | 21.00% | ~954 |
-| Treason | 21.00% | ~954 |
 | Mobilizer | 21.00% | ~954 |
 | Completionist | 20.00% | ~908 |
 | Mission Accomplished | 20.00% | ~908 |

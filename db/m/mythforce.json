@@ -3,12 +3,12 @@
   "Name": "MythForce",
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 669,
-  "Ranking_Popularity": 502,
+  "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 190,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 189,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -872,9 +872,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6433,
+  "EOS_Progressed": 6435,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 110,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13567,6 +13567,11 @@
       "Time": "2024-01-21T08:04:58.1701878+00:00",
       "NumProgressed": 6433,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T09:06:16.4309469+00:00",
+      "NumProgressed": 6435,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13611,7 +13616,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1608
+      "UsersEstimate": 1609
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13635,7 +13640,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1416
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13681,9 +13686,9 @@
       "ID": "MF_Ach_KaijuOnTheField",
       "SetID": "9b9n573",
       "Name": "We\u0027ve Got a Kaiju on the Field",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 193
+      "UsersEstimate": 257
     },
     {
       "ID": "MF_Ach_MushroomMadness",
@@ -13731,7 +13736,7 @@
       "Name": "Spending Spree",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 1222
+      "UsersEstimate": 1223
     },
     {
       "ID": "MF_Ach_TenStepsFromTheGrave",
@@ -13762,15 +13767,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6433,
+      "Progressed": 6435,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-19T17:58:27.7315829+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:04:58.1701876+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:06:16.4309466+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:59:23.9792805+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:04:58.1702538+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:00:41.598719+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:06:16.431021+00:00"
 }

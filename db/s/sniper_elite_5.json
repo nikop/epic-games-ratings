@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 239,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 4319,
+  "EOS_Progressed": 4320,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -9874,6 +9874,11 @@
       "Time": "2024-01-21T02:09:01.8108638+00:00",
       "NumProgressed": 4319,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-21T09:11:04.6305999+00:00",
+      "NumProgressed": 4320,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -10021,7 +10026,7 @@
       "Name": "Sharpshooter",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 993
+      "UsersEstimate": 994
     },
     {
       "ID": "REWARD_27_THE_LONG_GAME",
@@ -10109,7 +10114,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -10133,7 +10138,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1642
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -10277,7 +10282,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1209
+      "UsersEstimate": 1210
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -10452,13 +10457,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4270,
+      "Progressed": 4271,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4319,
+      "Progressed": 4320,
       "Completed": 11
     }
   ],
@@ -10466,8 +10471,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-19T17:00:44.3296249+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:07.4620886+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:04.6305996+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:00:28.7279326+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:07.462201+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:02:15.7774675+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:04.6306807+00:00"
 }

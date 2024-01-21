@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 30,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 60,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-04-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-23T00:00:00+00:00",
@@ -3041,9 +3041,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 682566,
+  "EOS_Progressed": 682569,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2013,
+  "EOS_NewPlayers": 2008,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34791,6 +34791,11 @@
       "Time": "2024-01-21T08:10:25.6014896+00:00",
       "NumProgressed": 682566,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-21T09:11:28.7432733+00:00",
+      "NumProgressed": 682569,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -34850,7 +34855,7 @@
       "Name": "Advanced Hiker",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95559
+      "UsersEstimate": 95560
     },
     {
       "ID": "_01_07_DISTANCE_500_MEDIUM",
@@ -34922,7 +34927,7 @@
       "Name": "Toy Train",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 95559
+      "UsersEstimate": 95560
     },
     {
       "ID": "_01_21_TRACKS_1000",
@@ -35122,7 +35127,7 @@
       "Name": "Climate Change",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 116036
+      "UsersEstimate": 116037
     },
     {
       "ID": "_11_00_FIRE_FIGHTER",
@@ -35217,15 +35222,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 682566,
+      "Progressed": 682569,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-16T20:03:08.9121736+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:25.6014894+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:28.7432731+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.1246588+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:03:05.5893572+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:25.6016286+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:03:32.5610302+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:28.743466+00:00"
 }

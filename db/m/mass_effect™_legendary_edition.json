@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 163,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4541,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -9000,9 +9000,9 @@
       "ID": "achievement_125",
       "SetID": "d252ncf",
       "Name": "Soldier",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1635
     },
     {
       "ID": "achievement_126",
@@ -9440,9 +9440,9 @@
       "ID": "achievement_60",
       "SetID": "d252ncf",
       "Name": "Treason",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 954
+      "UsersEstimate": 999
     },
     {
       "ID": "achievement_61",
@@ -9472,9 +9472,9 @@
       "ID": "achievement_64",
       "SetID": "d252ncf",
       "Name": "Merciless",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1453
     },
     {
       "ID": "achievement_65",
@@ -9796,8 +9796,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:31.238421+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:35.526084+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:03:33.3968416+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:31.2386067+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:04:17.2856315+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:35.5262509+00:00"
 }

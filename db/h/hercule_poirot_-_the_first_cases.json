@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 388,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 371,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -61,9 +61,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 507,
+  "EOS_Progressed": 508,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.38,
   "EosHistory": [
@@ -911,6 +911,11 @@
       "Time": "2024-01-19T06:09:03.4885682+00:00",
       "NumProgressed": 507,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-21T09:09:37.2452671+00:00",
+      "NumProgressed": 508,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 46,
@@ -970,7 +975,7 @@
       "Name": "Truth from Within",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_016",
@@ -984,9 +989,9 @@
       "ID": "ACH_017",
       "SetID": "72imik0",
       "Name": "Instinct is Marvellous",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_018",
@@ -1034,7 +1039,7 @@
       "Name": "Room with a View",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_023",
@@ -1058,7 +1063,7 @@
       "Name": "What Else Did I Miss?",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_026",
@@ -1082,7 +1087,7 @@
       "Name": "It Wasn\u2019t a Burglary",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 446
+      "UsersEstimate": 447
     },
     {
       "ID": "ACH_029",
@@ -1090,7 +1095,7 @@
       "Name": "I Like an Audience",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_03",
@@ -1098,7 +1103,7 @@
       "Name": "The Altercation",
       "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "ACH_030",
@@ -1114,7 +1119,7 @@
       "Name": "Angeline Van den Bosch",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 365
+      "UsersEstimate": 366
     },
     {
       "ID": "ACH_032",
@@ -1138,7 +1143,7 @@
       "Name": "Comtesse Margaux de Vos",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_035",
@@ -1146,7 +1151,7 @@
       "Name": "Elizabeth Padget",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 350
+      "UsersEstimate": 351
     },
     {
       "ID": "ACH_036",
@@ -1154,7 +1159,7 @@
       "Name": "Ernesto da Silva",
       "Percentage": 32,
       "XP": 25,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_037",
@@ -1170,7 +1175,7 @@
       "Name": "Gedeon Demir",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_039",
@@ -1186,7 +1191,7 @@
       "Name": "The Major",
       "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "ACH_040",
@@ -1210,7 +1215,7 @@
       "Name": "Luc Piette",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 375
+      "UsersEstimate": 376
     },
     {
       "ID": "ACH_043",
@@ -1226,7 +1231,7 @@
       "Name": "Rehana Piette",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ACH_045",
@@ -1282,14 +1287,14 @@
       "Name": "The Truth",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     }
   ],
   "AchievementSets": [
     {
       "ID": "72imik0",
       "IsBase": true,
-      "Progressed": 507,
+      "Progressed": 508,
       "Completed": 7
     }
   ],
@@ -1297,8 +1302,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:09:05.8082704+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:09:37.2452669+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.6494504+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:03:21.4666997+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:09:05.8083037+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:03:59.8235792+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:09:37.2453007+00:00"
 }

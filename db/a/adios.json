@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 170,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84072,
+  "EOS_Progressed": 84077,
   "EOS_Completed": 946,
-  "EOS_NewPlayers": 576,
+  "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -30947,6 +30947,11 @@
       "Time": "2024-01-21T08:05:19.2643579+00:00",
       "NumProgressed": 84072,
       "NumCompleted": 946
+    },
+    {
+      "Time": "2024-01-21T09:06:45.891817+00:00",
+      "NumProgressed": 84077,
+      "NumCompleted": 946
     }
   ],
   "TotalAchievements": 25,
@@ -30974,7 +30979,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15974
+      "UsersEstimate": 15975
     },
     {
       "ID": "Audiophile",
@@ -30982,7 +30987,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "Be Seeing You",
@@ -30990,7 +30995,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18496
+      "UsersEstimate": 18497
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -30998,7 +31003,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15133
+      "UsersEstimate": 15134
     },
     {
       "ID": "Butcher",
@@ -31014,7 +31019,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5044
+      "UsersEstimate": 5045
     },
     {
       "ID": "Fair\u0027sFair",
@@ -31030,7 +31035,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16814
+      "UsersEstimate": 16815
     },
     {
       "ID": "Hearty",
@@ -31046,7 +31051,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7566
+      "UsersEstimate": 7567
     },
     {
       "ID": "Magnetic Miracles",
@@ -31062,7 +31067,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17655
+      "UsersEstimate": 17656
     },
     {
       "ID": "Meaty",
@@ -31078,7 +31083,7 @@
       "Name": "Mechanic",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 15974
+      "UsersEstimate": 15975
     },
     {
       "ID": "Nice Try",
@@ -31086,7 +31091,7 @@
       "Name": "Nice Try",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 14292
+      "UsersEstimate": 14293
     },
     {
       "ID": "Nothing Left to Say",
@@ -31110,7 +31115,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11770
+      "UsersEstimate": 11771
     },
     {
       "ID": "Sniper",
@@ -31142,7 +31147,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1681
+      "UsersEstimate": 1682
     },
     {
       "ID": "Vinyl Vibes",
@@ -31157,7 +31162,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84072,
+      "Progressed": 84077,
       "Completed": 946
     }
   ],
@@ -31165,8 +31170,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:05:19.2643577+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:06:45.8918168+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-21T07:57:24.1040499+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:05:19.2644994+00:00"
+  "LastUpdate_Ratings": "2024-01-21T08:57:41.441731+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:06:45.891956+00:00"
 }

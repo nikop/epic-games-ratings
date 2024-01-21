@@ -2,13 +2,13 @@
   "ID": "013ca9b88fa34b21b2de7fdbfcfc843b",
   "Name": "Fae Farm",
   "ProductSlug": "fae-farm",
-  "Ranking_Rating": 323,
+  "Ranking_Rating": 324,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 382,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9143,
+  "EOS_Progressed": 9144,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10499,6 +10499,11 @@
       "Time": "2024-01-21T07:11:11.3106192+00:00",
       "NumProgressed": 9143,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T09:11:28.2900229+00:00",
+      "NumProgressed": 9144,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10517,9 +10522,9 @@
       "ID": "CHAPTER_2_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "A Thorny Situation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 457
+      "UsersEstimate": 549
     },
     {
       "ID": "CHAPTER_3_COMPLETE",
@@ -10854,13 +10859,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9143,
+      "Progressed": 9144,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1760,
+      "Progressed": 1761,
       "Completed": 1050
     }
   ],
@@ -10868,8 +10873,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-20T14:03:24.888989+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:25.1315077+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:28.2900226+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:03:31.9809089+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:25.1315845+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:04:15.2696237+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:28.2901014+00:00"
 }

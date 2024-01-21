@@ -6,24 +6,24 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,297 |
-| Overkill | 33.00% | ~11,548 |
-| Vaccine Incoming | 31.00% | ~10,848 |
-| A normal day in Gloomhaven | 29.00% | ~10,148 |
-| Spread the plague | 26.00% | ~9,098 |
-| Get over here! | 24.00% | ~8,398 |
-| Just when I thought I was out... | 19.00% | ~6,649 |
-| Mine... All Mine... | 16.00% | ~5,599 |
-| Precious! | 15.00% | ~5,249 |
-| Grizzled veteran | 14.00% | ~4,899 |
-| Anatomy Lesson | 14.00% | ~4,899 |
-| Who's the Boss? | 12.00% | ~4,199 |
-| You activated my trap card! | 12.00% | ~4,199 |
-| Obstacle race | 12.00% | ~4,199 |
-| Light of my life | 12.00% | ~4,199 |
-| Augmented rat | 10.00% | ~3,499 |
-| Doom and gloom | 9.00% | ~3,149 |
-| Dungeon Veteran | 8.00% | ~2,799 |
+| I'm not dead yet | 38.00% | ~13,300 |
+| Overkill | 33.00% | ~11,550 |
+| Vaccine Incoming | 31.00% | ~10,850 |
+| A normal day in Gloomhaven | 29.00% | ~10,150 |
+| Spread the plague | 26.00% | ~9,100 |
+| Get over here! | 24.00% | ~8,400 |
+| Just when I thought I was out... | 19.00% | ~6,650 |
+| Mine... All Mine... | 16.00% | ~5,600 |
+| Precious! | 15.00% | ~5,250 |
+| Grizzled veteran | 14.00% | ~4,900 |
+| Anatomy Lesson | 14.00% | ~4,900 |
+| Who's the Boss? | 12.00% | ~4,200 |
+| You activated my trap card! | 12.00% | ~4,200 |
+| Obstacle race | 12.00% | ~4,200 |
+| Light of my life | 12.00% | ~4,200 |
+| Augmented rat | 10.00% | ~3,500 |
+| Doom and gloom | 9.00% | ~3,150 |
+| Dungeon Veteran | 8.00% | ~2,800 |
 | Pack leader | 7.00% | ~2,450 |
 | Pain is your friend | 7.00% | ~2,450 |
 | Black death | 7.00% | ~2,450 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,993 (Ranked 140)  
+Progressed: 34,999 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 1 (0.00%) (Ranked 408)
 | 2024-01-18 | 34,462 | 1 |
 | 2024-01-19 | 34,657 | 1 |
 | 2024-01-20 | 34,921 | 1 |
-| 2024-01-21 | 34,993 | 1 |
+| 2024-01-21 | 34,999 | 1 |
 ## Awards
 Max (Character Customization): 3,624  (Ranked 96)  
 Sum: 8,500 (Ranked 110)  

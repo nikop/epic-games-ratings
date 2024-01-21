@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3554,
+  "EOS_Progressed": 3555,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6005,6 +6005,11 @@
       "Time": "2024-01-21T07:11:06.3803017+00:00",
       "NumProgressed": 3554,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T09:11:23.3234793+00:00",
+      "NumProgressed": 3555,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6017,7 +6022,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3163
+      "UsersEstimate": 3164
     },
     {
       "ID": "achievement_10",
@@ -6033,7 +6038,7 @@
       "Name": "The Means to Save It",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 746
+      "UsersEstimate": 747
     },
     {
       "ID": "achievement_12",
@@ -6081,7 +6086,7 @@
       "Name": "Lights Army",
       "Percentage": 12,
       "XP": 60,
-      "UsersEstimate": 426
+      "UsersEstimate": 427
     },
     {
       "ID": "achievement_18",
@@ -6097,7 +6102,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "achievement_2",
@@ -6105,7 +6110,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "achievement_20",
@@ -6161,7 +6166,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 2523
+      "UsersEstimate": 2524
     },
     {
       "ID": "achievement_36",
@@ -6249,7 +6254,7 @@
       "Name": "Enlisted",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2701
+      "UsersEstimate": 2702
     },
     {
       "ID": "achievement_49",
@@ -6265,7 +6270,7 @@
       "Name": "Initiate",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     },
     {
       "ID": "achievement_50",
@@ -6385,14 +6390,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3554,
+      "Progressed": 3555,
       "Completed": 5
     }
   ],
@@ -6400,8 +6405,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T22:59:42.5800513+00:00",
-  "LastChanged_Achievements": "2024-01-21T08:10:21.4563751+00:00",
+  "LastChanged_Achievements": "2024-01-21T09:11:23.3234791+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-21T08:00:31.2369862+00:00",
-  "LastUpdate_Achievements": "2024-01-21T08:10:21.4564356+00:00"
+  "LastUpdate_Ratings": "2024-01-21T09:02:20.5765957+00:00",
+  "LastUpdate_Achievements": "2024-01-21T09:11:23.323526+00:00"
 }

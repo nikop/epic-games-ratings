@@ -30,12 +30,12 @@ Number of Ratings: 429  (23.09.2022)
 | Win Quickly | 4.00% | ~303 |
 | Pirate Cleansing | 3.00% | ~227 |
 | Win an Immense Game | 3.00% | ~227 |
+| Recruit a Leader | 2.00% | ~151 |
 | Artifact Mastery | 2.00% | ~151 |
 | Win as Altarians | 2.00% | ~151 |
 | Win as the Yor | 2.00% | ~151 |
 | Influence Victory! | 2.00% | ~151 |
 | Ask Not What Your Empire Can Do For You | 1.00% | ~76 |
-| Recruit a Leader | 1.00% | ~76 |
 | Win as the Baratak | 1.00% | ~76 |
 | Win as the Mimot | 1.00% | ~76 |
 | Hyperspace! | 0.90% | ~68 |
