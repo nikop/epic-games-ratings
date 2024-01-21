@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~170 |
 | Building Wonders | 1.00% | ~170 |
 | Economic Reform | 1.00% | ~170 |
+| Dualism | 1.00% | ~170 |
 | Points Victory | 1.00% | ~170 |
 | Win a Single Player Game | 1.00% | ~170 |
 | The Clergy | 1.00% | ~170 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.90% | ~153 |
 | Via Recta Souk | 0.90% | ~153 |
 | Military Prestige | 0.90% | ~153 |
-| Dualism | 0.90% | ~153 |
 | Legalism | 0.90% | ~153 |
 | Legionary | 0.90% | ~153 |
 | Double Victory | 0.90% | ~153 |

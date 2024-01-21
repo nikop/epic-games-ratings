@@ -82,6 +82,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mists of Ravenloft | 0.20% | ~510 |
 | Family Entanglements | 0.20% | ~510 |
 | Chatty Nobles | 0.20% | ~510 |
+| Haaave You Met Asmodeus? | 0.20% | ~510 |
 | The Immortal Warrior | 0.20% | ~510 |
 | The Wyrmheart Mine | 0.20% | ~510 |
 | Tower on the Lake | 0.20% | ~510 |
@@ -262,7 +263,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Misfortune | 0.10% | ~255 |
 | Modron Assistance | 0.10% | ~255 |
 | Thine Bounty is Mine! | 0.10% | ~221 |
-| Haaave You Met Asmodeus? | 0.10% | ~255 |
 | Domesticated Owlbears | 0.10% | ~255 |
 | This Quest Stinks! | 0.10% | ~221 |
 | Hold for the Red Wizards | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,998 (Ranked 71)  
+Progressed: 255,001 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 254,998 | 2,629 |
+| 2024-01-21 | 255,001 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,587 (Ranked 41)  

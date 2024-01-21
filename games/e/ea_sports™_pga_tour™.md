@@ -7,7 +7,7 @@
 | Star Power | 84.00% | ~842 |
 | From Way Downtown | 56.00% | ~561 |
 | Makin' the Cut | 54.00% | ~541 |
-| Clean Sheet | 51.00% | ~511 |
+| Clean Sheet | 52.00% | ~521 |
 | Winner's Circle | 45.00% | ~451 |
 | Holey Moley | 43.00% | ~431 |
 | Bomb's Away | 39.00% | ~391 |
@@ -24,7 +24,7 @@
 | Victory Lap | 6.00% | ~60 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,002 (Ranked 302)  
-Completed: 10 (1.00%) (Ranked 184)  
+Completed: 10 (1.00%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

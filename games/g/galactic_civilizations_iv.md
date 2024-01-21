@@ -63,6 +63,7 @@ Number of Ratings: 429  (23.09.2022)
 | Commodity Guru | 0.10% | ~8 |
 | Yor Dead Iconians | 0.10% | ~8 |
 | Discover a Nebula | 0.10% | ~8 |
+| The Plague | 0.10% | ~8 |
 | Play for 1000 Hours | 0.10% | ~8 |
 | Play for 100 Hours | 0.10% | ~8 |
 | Play for 5 Hours | 0.10% | ~8 |
@@ -75,7 +76,6 @@ Number of Ratings: 429  (23.09.2022)
 | The Orb of Draginol | 0.00% | ~0 |
 | Shard of the Mithrilar | 0.00% | ~0 |
 | The Everwar | 0.00% | ~0 |
-| The Plague | 0.00% | ~0 |
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)

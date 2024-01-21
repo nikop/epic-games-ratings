@@ -1,16 +1,16 @@
 # Sunless Sea
 [Store](https://store.epicgames.com/en-US/p/sunless-sea)  
 [View Rawdata](../../db/s/sunless_sea.json)  
-Rating: 4.58 (Ranked 474)  
+Rating: 4.58 (Ranked 475)  
 Number of Ratings: 401  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,074 |
-| Sweet Sorrow | 18.00% | ~8,037 |
+| Sink Beneath the Waves | 36.00% | ~16,075 |
+| Sweet Sorrow | 18.00% | ~8,038 |
 | Rules the Waves | 17.00% | ~7,591 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,698 |
-| Rival | 14.00% | ~6,251 |
+| Rival | 14.00% | ~6,252 |
 | Correspondent | 12.00% | ~5,358 |
 | Lose Your Mind | 12.00% | ~5,358 |
 | Sound Mind? | 12.00% | ~5,358 |
@@ -23,7 +23,7 @@ Number of Ratings: 401  (23.09.2022)
 | The Ascent of Man | 7.00% | ~3,126 |
 | Salvager | 6.00% | ~2,679 |
 | Open Your Ears | 6.00% | ~2,679 |
-| Zee Fever | 5.00% | ~2,232 |
+| Zee Fever | 5.00% | ~2,233 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,786 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,786 |
 | Storm's Curse | 3.00% | ~1,340 |
@@ -31,11 +31,11 @@ Number of Ratings: 401  (23.09.2022)
 | Come Closer | 3.00% | ~1,340 |
 | Roaring Rise | 2.00% | ~893 |
 | I am the Captain of my Soul | 2.00% | ~893 |
-| A buoyant escape | 1.00% | ~446 |
-| Frightful, sheer, no-man-fathomed | 1.00% | ~446 |
-| The Bell Tolls | 1.00% | ~446 |
-| Knife, Cup and Bone | 1.00% | ~446 |
-| A current under zee | 1.00% | ~446 |
+| A buoyant escape | 1.00% | ~447 |
+| Frightful, sheer, no-man-fathomed | 1.00% | ~447 |
+| The Bell Tolls | 1.00% | ~447 |
+| Knife, Cup and Bone | 1.00% | ~447 |
+| A current under zee | 1.00% | ~447 |
 | Never Stop Sinking... | 0.90% | ~402 |
 | His bones in whispers | 0.90% | ~402 |
 | The beauty of the deep | 0.90% | ~402 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,650 (Ranked 133)  
+Progressed: 44,654 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 4 (0.01%) (Ranked 382)
 | 2024-01-18 | 44,492 | 4 |
 | 2024-01-19 | 44,547 | 4 |
 | 2024-01-20 | 44,623 | 4 |
-| 2024-01-21 | 44,650 | 4 |
+| 2024-01-21 | 44,654 | 4 |
 ## Awards
 Max (Character Customization): 222  (Ranked 292)  
 Sum: 316 (Ranked 380)  

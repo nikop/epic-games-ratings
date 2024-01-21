@@ -24,7 +24,7 @@ Number of Ratings: 67  (23.09.2022)
 | Walking Armory | 1.00% | ~7 |
 | Why'd It Have to Be Snakes? | 1.00% | ~7 |
 | Gatekeeper | 0.70% | ~5 |
-| Wicked Killington | 0.60% | ~4 |
+| Wicked Killington | 0.50% | ~4 |
 | Are You Not Entertained? | 0.40% | ~3 |
 | Collector | 0.40% | ~3 |
 | Full of Hell | 0.40% | ~3 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 727 (Ranked 328)  
+Progressed: 728 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -76,7 +76,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 698 | 0 |
 | 2024-01-19 | 710 | 0 |
 | 2024-01-20 | 724 | 0 |
-| 2024-01-21 | 727 | 0 |
+| 2024-01-21 | 728 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 477)  
 Sum: 45 (Ranked 522)  

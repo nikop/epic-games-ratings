@@ -5,9 +5,9 @@ Rating: 4.22 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,329 |
-| The Outer Way | 28.00% | ~6,329 |
-| Desperate Times | 26.00% | ~5,877 |
+| Flesh Wound | 28.00% | ~6,330 |
+| The Outer Way | 28.00% | ~6,330 |
+| Desperate Times | 26.00% | ~5,878 |
 | Paper Jams | 24.00% | ~5,425 |
 | Get a Grip | 23.00% | ~5,199 |
 | Chew 'Em Up | 22.00% | ~4,973 |
@@ -24,9 +24,9 @@ Rating: 4.22 (Ranked 958)
 | Giving Back | 11.00% | ~2,487 |
 | What Lies Beneath | 11.00% | ~2,487 |
 | Full Circle | 11.00% | ~2,487 |
-| You Need a Gun | 10.00% | ~2,260 |
-| I Do Belong Here | 9.00% | ~2,034 |
-| Keep Fighting | 8.00% | ~842 |
+| You Need a Gun | 10.00% | ~2,261 |
+| I Do Belong Here | 9.00% | ~2,035 |
+| Keep Fighting | 8.00% | ~843 |
 | The Commonality | 6.00% | ~1,356 |
 | It's Time | 6.00% | ~632 |
 | In Striking Distance | 5.00% | ~1,130 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 958)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,605 (Ranked 153)  
+Progressed: 22,606 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-18 | 22,544 | 82 |
 | 2024-01-19 | 22,569 | 82 |
 | 2024-01-20 | 22,600 | 82 |
-| 2024-01-21 | 22,605 | 82 |
+| 2024-01-21 | 22,606 | 82 |
 ## Awards
 Max (Amazing Characters): 141  (Ranked 342)  
 Sum: 681 (Ranked 316)  

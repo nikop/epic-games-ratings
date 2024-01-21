@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
     "PcReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4231,
+  "EOS_Progressed": 4232,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 48,
+  "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8754,6 +8754,11 @@
       "Time": "2024-01-20T19:08:27.953042+00:00",
       "NumProgressed": 4231,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T07:08:48.1975825+00:00",
+      "NumProgressed": 4232,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8765,7 +8770,7 @@
       "Name": "Without Breaking Some Eggs...",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "ACH_BASE_10",
@@ -8877,7 +8882,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1269
+      "UsersEstimate": 1270
     },
     {
       "ID": "ACH_BASE_25",
@@ -8893,7 +8898,7 @@
       "Name": "Sightseeing",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_BASE_27",
@@ -8989,7 +8994,7 @@
       "Name": "Necessary Enhancement",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "ACH_BASE_38",
@@ -9220,13 +9225,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2415,
+      "Progressed": 2416,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4231,
+      "Progressed": 4232,
       "Completed": 0
     }
   ],
@@ -9234,8 +9239,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-17T19:57:40.7931209+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:10:34.5993089+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:08:48.1975821+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:01:57.6176779+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:10:34.5993749+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:00:35.6016968+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:08:48.1976838+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2339,7 +2339,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22605,
+  "EOS_Progressed": 22606,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 0,
@@ -14564,6 +14564,11 @@
       "Time": "2024-01-21T05:11:15.2852072+00:00",
       "NumProgressed": 22605,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-21T07:10:46.064871+00:00",
+      "NumProgressed": 22606,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14599,7 +14604,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2260
+      "UsersEstimate": 2261
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14607,7 +14612,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6329
+      "UsersEstimate": 6330
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14639,7 +14644,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2034
+      "UsersEstimate": 2035
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14767,7 +14772,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6329
+      "UsersEstimate": 6330
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14807,7 +14812,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5877
+      "UsersEstimate": 5878
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14927,7 +14932,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 842
+      "UsersEstimate": 843
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -14950,13 +14955,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22605,
+      "Progressed": 22606,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10531,
+      "Progressed": 10532,
       "Completed": 29
     }
   ],
@@ -14964,8 +14969,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:12:23.2937703+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:10:46.0648706+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:05:32.0600605+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:12:23.2938556+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:04:04.248434+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:10:46.0649697+00:00"
 }

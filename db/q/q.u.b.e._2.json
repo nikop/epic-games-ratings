@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 47984,
+  "EOS_Progressed": 47985,
   "EOS_Completed": 246,
-  "EOS_NewPlayers": 610,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -14936,6 +14936,11 @@
       "Time": "2024-01-21T06:12:00.3669122+00:00",
       "NumProgressed": 47984,
       "NumCompleted": 246
+    },
+    {
+      "Time": "2024-01-21T07:10:21.1307667+00:00",
+      "NumProgressed": 47985,
+      "NumCompleted": 246
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -14948,7 +14953,7 @@
       "Name": "Descendants",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 7677
+      "UsersEstimate": 7678
     },
     {
       "ID": "ACH_BLUEEND",
@@ -15092,7 +15097,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 11036
+      "UsersEstimate": 11037
     },
     {
       "ID": "ACH_HUB2",
@@ -15116,7 +15121,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11036
+      "UsersEstimate": 11037
     },
     {
       "ID": "ACH_PROPELL",
@@ -15140,7 +15145,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32629
+      "UsersEstimate": 32630
     },
     {
       "ID": "ACH_S4",
@@ -15164,7 +15169,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 35988
+      "UsersEstimate": 35989
     },
     {
       "ID": "ACH_STATUE",
@@ -15172,22 +15177,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20633
+      "UsersEstimate": 20634
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 47984,
+      "Progressed": 47985,
       "Completed": 246
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:12:00.3669114+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:10:21.1307665+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:00:04.9900823+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:12:00.3669839+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:58:35.0650121+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:10:21.1308349+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 140,
   "Ranking_EOS_NewPlayers": 487,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
     "PcReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -407,9 +407,9 @@
       "ID": "a22",
       "SetID": "cdg65ol",
       "Name": "No Evil",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a23",
@@ -439,9 +439,9 @@
       "ID": "a26",
       "SetID": "cdg65ol",
       "Name": "Bank of Me",
-      "Percentage": 8,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "a27",
@@ -559,9 +559,9 @@
       "ID": "a8",
       "SetID": "cdg65ol",
       "Name": "Replace the Rudder",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "a9",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:07:25.0013022+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:06:05.8873726+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.13331+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:05:12.2583768+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:07:25.0013255+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:03:42.3202044+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:06:05.8873925+00:00"
 }

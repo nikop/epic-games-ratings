@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 115,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11044,10 +11044,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21791,
       "NumberOfAwardsMax": 8057
+    },
+    {
+      "Time": "2024-01-21T06:58:56.5641009+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21795,
+      "NumberOfAwardsMax": 8057
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21791,
+  "NumberOfAwards": 21795,
   "NumberOfAwardsMax": 8057,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11121,12 +11127,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1106
+      "Count": 1110
     }
   ],
-  "EOS_Progressed": 133371,
+  "EOS_Progressed": 133374,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 620,
+  "EOS_NewPlayers": 622,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40859,6 +40865,11 @@
       "Time": "2024-01-21T06:12:41.800953+00:00",
       "NumProgressed": 133371,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T07:11:05.7847883+00:00",
+      "NumProgressed": 133374,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41454,7 +41465,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -41462,7 +41473,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "quest_complete_crusader",
@@ -41501,21 +41512,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133371,
+      "Progressed": 133374,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8240,
+      "Progressed": 8243,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-21T06:00:23.9873187+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:12:41.8009525+00:00",
+  "LastChanged": "2024-01-21T06:58:56.5641006+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:11:05.7847878+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:00:23.9873193+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:12:41.8011398+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:58:56.5641013+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:11:05.7850255+00:00"
 }

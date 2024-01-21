@@ -16,7 +16,7 @@ Number of Ratings: 124  (23.09.2022)
 | Peddler | 26.00% | ~71 |
 | Commander | 26.00% | ~71 |
 | Irissa's Fate | 22.00% | ~60 |
-| Long-Haul Flyer | 20.00% | ~55 |
+| Long-Haul Flyer | 21.00% | ~57 |
 | Family Reunion | 20.00% | ~55 |
 | Pass A38 | 19.00% | ~52 |
 | Eternal Oblivion | 18.00% | ~49 |

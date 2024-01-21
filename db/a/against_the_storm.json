@@ -4043,9 +4043,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20931,
+  "EOS_Progressed": 20933,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 163,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20203,6 +20203,11 @@
       "Time": "2024-01-21T06:10:48.5186188+00:00",
       "NumProgressed": 20931,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-21T07:09:03.2429834+00:00",
+      "NumProgressed": 20933,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20311,7 +20316,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "WinImpossible",
@@ -20479,7 +20484,7 @@
       "Name": "Coral Forest",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "WinOnCursed",
@@ -20495,7 +20500,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "WinOnMoorlands",
@@ -20686,15 +20691,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20931,
+      "Progressed": 20933,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-21T04:03:34.3718503+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:10:48.5186184+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:09:03.2429831+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:03:21.8216638+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:10:48.5187099+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:02:09.5441873+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:09:03.2431022+00:00"
 }

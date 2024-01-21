@@ -4,8 +4,8 @@
   "ProductSlug": "astalon-tears-of-the-earth-1b2279",
   "Ranking_EOS_Progress": 513,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -432,9 +432,9 @@
       "ID": "Defeat_Volantis",
       "SetID": "4f0g260",
       "Name": "Space worm!",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "Find_Secret_Ending1",
@@ -497,8 +497,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6585967+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.3708214+00:00",
   "LastChanged": "2023-03-31T05:57:06.6585968+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:06:20.6792992+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:04:56.7013924+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:36.9783971+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:00:27.3556859+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:06:20.6793223+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:59:00.682459+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:04:56.7014138+00:00"
 }

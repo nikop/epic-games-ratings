@@ -4,8 +4,8 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -24,7 +24,7 @@
   "Tags": [],
   "EOS_Progressed": 1987,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5399,9 +5399,9 @@
       "ID": "ML_ACHIEVEMENT_30",
       "SetID": "5k00jcd",
       "Name": "Eagle eye",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "ML_ACHIEVEMENT_31",
@@ -5548,8 +5548,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:06:37.2364009+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:05:14.6461374+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.7946639+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:02:24.2523357+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:06:37.2364525+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:01:03.8652644+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:05:14.6462186+00:00"
 }

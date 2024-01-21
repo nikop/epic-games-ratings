@@ -1,25 +1,25 @@
 # Song of Nunu: A League of Legends Story
 [Store](https://store.epicgames.com/en-US/p/song-of-nunu-a-league-of-legends-story)  
 [View Rawdata](../../db/s/song_of_nunu__a_league_of_legends_story™.json)  
-Rating: 4.63 (Ranked 359)  
+Rating: 4.63 (Ranked 358)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,169 |
-| I Broke It | 73.00% | ~1,153 |
-| Better On Ice | 69.00% | ~1,090 |
+| Feels Familiar | 74.00% | ~1,170 |
+| I Broke It | 73.00% | ~1,154 |
+| Better On Ice | 69.00% | ~1,091 |
 | Notai Notes | 67.00% | ~1,059 |
 | Blue Dreams | 66.00% | ~1,043 |
 | He's Famous! | 66.00% | ~1,043 |
 | Cutie Poro | 66.00% | ~1,043 |
-| Krugmazing | 65.00% | ~1,027 |
+| Krugmazing | 65.00% | ~1,028 |
 | Moneyball | 61.00% | ~964 |
 | The Fire Below the Mountain | 61.00% | ~964 |
 | Iceborn | 56.00% | ~885 |
-| No Bites | 55.00% | ~869 |
-| Boom Things | 53.00% | ~837 |
+| No Bites | 55.00% | ~870 |
+| Boom Things | 53.00% | ~838 |
 | Tear of Freedom | 52.00% | ~822 |
-| My Darkest Day | 49.00% | ~774 |
+| My Darkest Day | 49.00% | ~775 |
 | Rhythm Of Willump | 47.00% | ~743 |
 | The Relentless Storm | 47.00% | ~743 |
 | A Tragic Reminder | 45.00% | ~711 |
@@ -29,14 +29,14 @@ Rating: 4.63 (Ranked 359)
 | The Finisher | 42.00% | ~664 |
 | Family | 40.00% | ~632 |
 | Boosted! | 40.00% | ~632 |
-| Biggest Snowball Ever | 39.00% | ~616 |
-| Freeze The Ice Witch | 39.00% | ~616 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~616 |
-| True Legends | 38.00% | ~600 |
+| Biggest Snowball Ever | 39.00% | ~617 |
+| Freeze The Ice Witch | 39.00% | ~617 |
+| Deadliest and Biggest Snowball Ever! | 39.00% | ~617 |
+| True Legends | 38.00% | ~601 |
 | It Is Not Over | 36.00% | ~569 |
 | Bullseye | 36.00% | ~569 |
-| On The Rocks | 34.00% | ~537 |
-| Snowy Poro | 33.00% | ~521 |
+| On The Rocks | 34.00% | ~538 |
+| Snowy Poro | 33.00% | ~522 |
 | Never Gets Old | 32.00% | ~506 |
 | Vertical Power | 26.00% | ~411 |
 | One From The Heart | 14.00% | ~221 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 359)
 | We Are Speed | 2.00% | ~32 |
 | Sneaky Notai | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,580 (Ranked 270)  
+Progressed: 1,581 (Ranked 270)  
 Completed: 10 (0.63%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 10 (0.63%) (Ranked 212)
 | 2024-01-18 | 1,572 | 10 |
 | 2024-01-19 | 1,574 | 10 |
 | 2024-01-20 | 1,580 | 10 |
+| 2024-01-21 | 1,581 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

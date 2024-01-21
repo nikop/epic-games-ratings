@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewPlayers": 84,
   "Ranking_EOS_NewCompleters": 27,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9721,9 +9721,9 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254998,
+  "EOS_Progressed": 255001,
   "EOS_Completed": 2629,
-  "EOS_NewPlayers": 1154,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41031,6 +41031,11 @@
       "Time": "2024-01-21T06:12:56.5639437+00:00",
       "NumProgressed": 254998,
       "NumCompleted": 2629
+    },
+    {
+      "Time": "2024-01-21T07:11:21.172466+00:00",
+      "NumProgressed": 255001,
+      "NumCompleted": 2629
     }
   ],
   "TotalAchievements": 546,
@@ -42496,9 +42501,9 @@
       "ID": "objective_completed_236",
       "SetID": "cc37lbc",
       "Name": "Haaave You Met Asmodeus?",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_237",
@@ -45409,21 +45414,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221272,
+      "Progressed": 221275,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254998,
+      "Progressed": 255001,
       "Completed": 2629
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-21T03:57:54.314579+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:12:56.5639433+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:11:21.1724442+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-21T05:59:00.19507+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:12:56.5662505+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:57:24.8732629+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:11:21.1747203+00:00"
 }

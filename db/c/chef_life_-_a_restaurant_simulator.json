@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1037,
+  "EOS_Progressed": 1038,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4479,6 +4479,11 @@
       "Time": "2024-01-20T11:10:00.6694448+00:00",
       "NumProgressed": 1037,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T07:10:56.2341531+00:00",
+      "NumProgressed": 1038,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4568,9 +4573,9 @@
       "ID": "DilemasResponsibility10",
       "SetID": "d1bm05f",
       "Name": "Eco Warrior",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "FirstArrabbiataPasta",
@@ -4626,7 +4631,7 @@
       "Name": "Sous-Chef",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "Level20",
@@ -4658,7 +4663,7 @@
       "Name": "Rolling in Dough",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "OpenRestaurant",
@@ -4690,7 +4695,7 @@
       "Name": "Home Cook",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "RecipeDifferent30",
@@ -4802,14 +4807,14 @@
       "Name": "Well-Stocked Kitchen",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     }
   ],
   "AchievementSets": [
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1037,
+      "Progressed": 1038,
       "Completed": 0
     }
   ],
@@ -4817,8 +4822,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:12:32.6664746+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:10:56.2341528+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.8599474+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:01:20.2792493+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:12:32.6665129+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:59:58.2161922+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:10:56.2341974+00:00"
 }

@@ -6,29 +6,29 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~22,184 |
-| Mama? | 27.00% | ~7,881 |
-| People's Haven | 18.00% | ~5,254 |
-| Cartographer | 16.00% | ~4,670 |
-| Knowledge for Power | 14.00% | ~4,086 |
-| Antlers of Stone | 14.00% | ~4,086 |
+| Light at the end of the tunnel | 76.00% | ~22,188 |
+| Mama? | 27.00% | ~7,883 |
+| People's Haven | 18.00% | ~5,255 |
+| Cartographer | 16.00% | ~4,671 |
+| Knowledge for Power | 14.00% | ~4,087 |
+| Antlers of Stone | 14.00% | ~4,087 |
 | Gaze into the abyss | 13.00% | ~3,795 |
 | Mausoleum of Ice | 13.00% | ~3,795 |
 | Wings of Stone | 12.00% | ~3,503 |
 | Equilibrium | 12.00% | ~3,503 |
 | In the belly of the beast | 11.00% | ~3,211 |
-| Condor condo | 10.00% | ~2,919 |
-| Memorial | 9.00% | ~2,627 |
-| An uninvited guest | 7.00% | ~2,043 |
-| Tails of Stone | 6.00% | ~1,751 |
-| Baa from the past | 6.00% | ~1,751 |
-| Written in stone | 6.00% | ~1,751 |
-| Talk to all the spirit animals | 6.00% | ~1,751 |
-| Ripples on the surface | 5.00% | ~1,459 |
+| Condor condo | 10.00% | ~2,920 |
+| Memorial | 9.00% | ~2,628 |
+| An uninvited guest | 7.00% | ~2,044 |
+| Tails of Stone | 6.00% | ~1,752 |
+| Baa from the past | 6.00% | ~1,752 |
+| Written in stone | 6.00% | ~1,752 |
+| Talk to all the spirit animals | 6.00% | ~1,752 |
+| Ripples on the surface | 5.00% | ~1,460 |
 | Hide and Seek | 4.00% | ~1,168 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,189 (Ranked 145)  
-Completed: 537 (1.84%) (Ranked 145)  
+Progressed: 29,195 (Ranked 145)  
+Completed: 538 (1.84%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -303,7 +303,7 @@ Completed: 537 (1.84%) (Ranked 145)
 | 2024-01-18 | 28,969 | 532 |
 | 2024-01-19 | 29,053 | 534 |
 | 2024-01-20 | 29,163 | 536 |
-| 2024-01-21 | 29,189 | 537 |
+| 2024-01-21 | 29,195 | 538 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

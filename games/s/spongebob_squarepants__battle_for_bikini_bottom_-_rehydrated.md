@@ -1,14 +1,14 @@
 # SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated
 [Store](https://store.epicgames.com/en-US/p/spongebob-squarepants-battle-for-bikini-bottom-rehydrated)  
 [View Rawdata](../../db/s/spongebob_squarepants__battle_for_bikini_bottom_-_rehydrated.json)  
-Rating: 4.64 (Ranked 349)  
+Rating: 4.64 (Ranked 347)  
 Number of Ratings: 76  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Spatula Seeker | 23.00% | ~262 |
+| Sponge Smasher | 23.00% | ~262 |
 | Jellyfish Jam | 22.00% | ~251 |
-| Sponge Smasher | 22.00% | ~251 |
 | Jellyfishing | 17.00% | ~194 |
 | Sock Getter | 14.00% | ~159 |
 | Sweet Victory | 13.00% | ~148 |

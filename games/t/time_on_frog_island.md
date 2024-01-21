@@ -13,15 +13,15 @@
 | Mad Scientist | 16.00% | ~8 |
 | Secure the Sheets | 16.00% | ~8 |
 | Hands on the Helm | 12.00% | ~6 |
+| Replace the Rudder | 12.00% | ~6 |
 | Couch-surfing | 10.00% | ~5 |
 | Sailor Swift | 10.00% | ~5 |
-| Replace the Rudder | 10.00% | ~5 |
+| No Evil | 10.00% | ~5 |
+| Bank of Me | 10.00% | ~5 |
 | Who Even Needs Keys | 8.00% | ~4 |
 | Shrub-Seeing: Townlife | 8.00% | ~4 |
 | Shrub-Seeing: Silly Birbs | 8.00% | ~4 |
-| No Evil | 8.00% | ~4 |
 | Safe Investment | 8.00% | ~4 |
-| Bank of Me | 8.00% | ~4 |
 | The Journey Continues | 8.00% | ~4 |
 | Shrub-Seeing: Ruins of old | 6.00% | ~3 |
 | Yeet! | 6.00% | ~3 |

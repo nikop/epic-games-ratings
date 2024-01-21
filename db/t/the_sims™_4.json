@@ -2,13 +2,13 @@
   "ID": "2a14cf8a83b149919a2399504e5686a6",
   "Name": "The Sims\u2122 4",
   "ProductSlug": "the-sims-4",
-  "Ranking_Rating": 383,
+  "Ranking_Rating": 382,
   "Ranking_Popularity": 103,
   "Ranking_PopularitySum": 72,
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-02-02T18:00:00+00:00",
     "PcReleaseDate": "2014-09-02T15:00:00+00:00",
@@ -12167,10 +12167,16 @@
       "Rating": 4.62,
       "NumberOfAwards": 16047,
       "NumberOfAwardsMax": 3142
+    },
+    {
+      "Time": "2024-01-21T07:03:41.58105+00:00",
+      "Rating": 4.62,
+      "NumberOfAwards": 16079,
+      "NumberOfAwardsMax": 3142
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16047,
+  "NumberOfAwards": 16079,
   "NumberOfAwardsMax": 3142,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -12190,7 +12196,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 2386
+      "Count": 2418
     },
     {
       "Text": "This game has a Creative Community",
@@ -12261,9 +12267,9 @@
   "FirstSeen": "2023-02-02T18:57:09.7775269+00:00",
   "FirstSeenRating": "2023-02-05T14:56:53.5654685+00:00",
   "FirstSeenAchievements": "2023-07-31T02:02:04.5176736+00:00",
-  "LastChanged": "2024-01-21T04:04:31.581612+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:10:53.4171297+00:00",
+  "LastChanged": "2024-01-21T07:03:41.5810498+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:09:08.4619256+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.5249412+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:05:11.571802+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:10:53.4171328+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:03:41.5810503+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:09:08.4619293+00:00"
 }

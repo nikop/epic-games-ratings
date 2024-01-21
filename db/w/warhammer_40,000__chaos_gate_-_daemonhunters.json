@@ -2,13 +2,13 @@
   "ID": "ab7e605d8d734d3ab48a243c51ca5b8e",
   "Name": "Warhammer 40,000: Chaos Gate - Daemonhunters",
   "ProductSlug": "warhammer-40000-chaos-gate-daemonhunters",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 284,
   "Ranking_PopularitySum": 342,
-  "Ranking_EOS_Progress": 222,
+  "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 262,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -891,9 +891,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3920,
+  "EOS_Progressed": 3921,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 28,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6136,6 +6136,11 @@
       "Time": "2024-01-20T20:04:00.3387648+00:00",
       "NumProgressed": 3920,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T07:05:23.7790653+00:00",
+      "NumProgressed": 3921,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6690,21 +6695,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3920,
+      "Progressed": 3921,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3920,
+      "Progressed": 3921,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-21T02:01:56.8630375+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:06:46.2978915+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:05:23.7790649+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:05:25.5024258+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:06:46.297977+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:03:57.2264926+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:05:23.7791288+00:00"
 }

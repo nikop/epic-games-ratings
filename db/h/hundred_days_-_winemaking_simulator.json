@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 833,
+  "Ranking_Rating": 834,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 230,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 153,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21573,
+  "EOS_Progressed": 21575,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 956,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18058,6 +18058,11 @@
       "Time": "2024-01-21T06:12:21.7594957+00:00",
       "NumProgressed": 21573,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-21T07:10:44.4482867+00:00",
+      "NumProgressed": 21575,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18070,7 +18075,7 @@
       "Name": "It\u0027s a good start",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "a_10",
@@ -18078,7 +18083,7 @@
       "Name": "What is that? A castle?",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "a_11",
@@ -18086,7 +18091,7 @@
       "Name": "A lot of space",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "a_12",
@@ -18094,7 +18099,7 @@
       "Name": "A big garage",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "a_15",
@@ -18110,7 +18115,7 @@
       "Name": "Millionaire",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "a_18",
@@ -18118,7 +18123,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9492
+      "UsersEstimate": 9493
     },
     {
       "ID": "a_19",
@@ -18182,7 +18187,7 @@
       "Name": "Exotic",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "a_27",
@@ -18198,7 +18203,7 @@
       "Name": "Pastry Chef",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "a_3",
@@ -18254,7 +18259,7 @@
       "Name": "Welcome to the club",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "a_36",
@@ -18310,14 +18315,14 @@
       "Name": "Very Important Winemaker",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     }
   ],
   "AchievementSets": [
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21573,
+      "Progressed": 21575,
       "Completed": 13
     }
   ],
@@ -18325,8 +18330,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:12:21.7594953+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:10:44.448286+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:00:46.377038+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:12:21.7595689+00:00"
+  "LastUpdate_Ratings": "2024-01-21T06:59:21.0155638+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:10:44.4483768+00:00"
 }

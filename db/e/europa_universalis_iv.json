@@ -14649,9 +14649,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 502885,
+  "EOS_Progressed": 502903,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4372,
+  "EOS_NewPlayers": 4374,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46504,6 +46504,11 @@
       "Time": "2024-01-21T06:12:55.8385831+00:00",
       "NumProgressed": 502885,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T07:11:20.6145766+00:00",
+      "NumProgressed": 502903,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47539,7 +47544,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -48515,7 +48520,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2514
+      "UsersEstimate": 2515
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -49418,21 +49423,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 502885,
+      "Progressed": 502903,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 502885,
+      "Progressed": 502903,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-21T00:00:33.7579165+00:00",
-  "LastChanged_Achievements": "2024-01-21T06:12:55.8385827+00:00",
+  "LastChanged_Achievements": "2024-01-21T07:11:20.6145761+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-21T06:02:00.0411603+00:00",
-  "LastUpdate_Achievements": "2024-01-21T06:12:55.8396587+00:00"
+  "LastUpdate_Ratings": "2024-01-21T07:00:38.2140237+00:00",
+  "LastUpdate_Achievements": "2024-01-21T07:11:20.6156036+00:00"
 }

@@ -23,13 +23,13 @@ Rating: 4.16 (Ranked 1,000)
 | Damned If You Do... | 3.00% | ~1,427 |
 | Hop, Step, Jump | 3.00% | ~1,427 |
 | Endless Runner | 3.00% | ~1,427 |
-| What Must Be Done | 2.00% | ~951 |
-| Might and Main | 2.00% | ~951 |
-| The Hue of Blue | 2.00% | ~951 |
-| Breaking Point | 2.00% | ~951 |
-| Explorer: Pathfinder | 2.00% | ~951 |
-| Shocker | 2.00% | ~951 |
-| From Every Angle | 2.00% | ~951 |
+| What Must Be Done | 2.00% | ~952 |
+| Might and Main | 2.00% | ~952 |
+| The Hue of Blue | 2.00% | ~952 |
+| Breaking Point | 2.00% | ~952 |
+| Explorer: Pathfinder | 2.00% | ~952 |
+| Shocker | 2.00% | ~952 |
+| From Every Angle | 2.00% | ~952 |
 | The Truth Will Out | 1.00% | ~476 |
 | None the Wiser | 1.00% | ~476 |
 | Forspoken | 1.00% | ~476 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 1,000)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,574 (Ranked 128)  
+Progressed: 47,575 (Ranked 128)  
 Completed: 4 (0.01%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 4 (0.01%) (Ranked 382)
 | 2024-01-18 | 47,464 | 4 |
 | 2024-01-19 | 47,505 | 4 |
 | 2024-01-20 | 47,566 | 4 |
-| 2024-01-21 | 47,574 | 4 |
+| 2024-01-21 | 47,575 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 456)  
 Sum: 78 (Ranked 489)  
