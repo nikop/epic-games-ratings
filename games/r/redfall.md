@@ -5,26 +5,26 @@ Rating: 3.67 (Ranked 1,103)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I Like My Stakes Rare! | 24.00% | ~578 |
+| I Like My Stakes Rare! | 24.00% | ~579 |
 | Catch and Release | 18.00% | ~434 |
 | Home Is Where the Heart Is | 17.00% | ~410 |
 | ICU | 16.00% | ~386 |
 | Wounded Whispers | 16.00% | ~386 |
-| Blood Will Have Blood | 14.00% | ~337 |
-| Ne Plus Ultra | 14.00% | ~337 |
-| Peek-a-boo | 14.00% | ~337 |
+| Blood Will Have Blood | 14.00% | ~338 |
+| Ne Plus Ultra | 14.00% | ~338 |
+| Peek-a-boo | 14.00% | ~338 |
 | Fly Fisher | 13.00% | ~313 |
 | Sucks To Be You | 13.00% | ~313 |
 | Enter of Your Own Free Will | 11.00% | ~265 |
 | Welcome to the Neighborhood | 11.00% | ~265 |
 | Throw The First Stone | 11.00% | ~265 |
 | Heart Attack | 11.00% | ~265 |
-| Skin of Their Teeth | 10.00% | ~241 |
 | Grounded | 9.00% | ~217 |
+| Skin of Their Teeth | 9.00% | ~217 |
 | Neighborhood Revitalization | 7.00% | ~169 |
 | Bad Wiring | 7.00% | ~169 |
 | Radio Silence | 7.00% | ~169 |
-| I Spit On Your Grave | 5.00% | ~120 |
+| I Spit On Your Grave | 5.00% | ~121 |
 | Sic Transit Umbra | 4.00% | ~96 |
 | Bell-ringer | 4.00% | ~96 |
 | You Clean It Up | 4.00% | ~96 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,103)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,410 (Ranked 248)  
+Progressed: 2,411 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 2,402 | 0 |
 | 2024-01-19 | 2,407 | 0 |
 | 2024-01-20 | 2,408 | 0 |
-| 2024-01-21 | 2,410 | 0 |
+| 2024-01-21 | 2,411 | 0 |
 ## Awards
 Max (Great Boss Battles): 27  (Ranked 544)  
 Sum: 27 (Ranked 560)  

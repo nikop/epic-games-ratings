@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 114,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1440,9 +1440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34005,
+  "EOS_Progressed": 34007,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 621,
+  "EOS_NewPlayers": 619,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31190,6 +31190,11 @@
       "Time": "2024-01-21T11:10:28.0827237+00:00",
       "NumProgressed": 34005,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-21T12:10:04.2171547+00:00",
+      "NumProgressed": 34007,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31297,7 +31302,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3060
+      "UsersEstimate": 3061
     },
     {
       "ID": "1028",
@@ -31313,7 +31318,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2720
+      "UsersEstimate": 2721
     },
     {
       "ID": "1030",
@@ -31337,7 +31342,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13602
+      "UsersEstimate": 13603
     },
     {
       "ID": "1033",
@@ -31376,15 +31381,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34005,
+      "Progressed": 34007,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-20T21:59:17.8417734+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:10:28.0827234+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:10:04.2171539+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:59:53.3866274+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:10:28.0829266+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:59:42.3536773+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:10:04.2173186+00:00"
 }

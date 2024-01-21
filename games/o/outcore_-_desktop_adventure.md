@@ -6,7 +6,7 @@
 | ---- | ---------- | ----- |
 | Learned how to jump! | 81.00% | ~46 |
 | Learned how to walk! | 81.00% | ~46 |
-| Defeated Captain Tutorial | 70.00% | ~40 |
+| Defeated Captain Tutorial | 72.00% | ~41 |
 | Immersion Breaking | 51.00% | ~29 |
 | Ḧ̴́͊̈́́̃̈́͊̂̏̅̈́̆͊͛͋̃̍̊̓͛̔̆͘͠͝Ë̵̢̢̧̛̛͇̪̟͓̝̼͕̞͔̻͎̠͔̤̥̺̹̱̼̪̺̪̺̰̱́̊͋̈́̔̍͑̄̅́̔͛̓̽̊̒̓́͛̀̀͗̈́́̃̈́̈́̄̔̓͐͆̀̈́̄́̚͘̕͘͘̕͝ͅL̸̀͠Ṕ̵̛̎̄̽̈́́͊̅͛̄ ̶̃M̶̨̧̼̪̞͈̯̬͖͖͎̞͎̻̥̍̌͊̀̓̄̋͋̂͌̏̈́̾͆̌̈́̆̈́̐̿̓͐͝͝͠͠E̵͒̓͊͋̄͘ | 37.00% | ~21 |
 | Defeated Booty The Bootleg | 35.00% | ~20 |
@@ -17,7 +17,7 @@
 | Defeated the core of the outside world | 23.00% | ~13 |
 | Internet Explorer | 19.00% | ~11 |
 | LOVE | 18.00% | ~10 |
-| Good boy | 14.00% | ~8 |
+| Good boy | 16.00% | ~9 |
 | Pure hearted | 9.00% | ~5 |
 | Murder | 9.00% | ~5 |
 | HIGH striker | 7.00% | ~4 |

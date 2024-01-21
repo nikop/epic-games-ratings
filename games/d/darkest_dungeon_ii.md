@@ -48,12 +48,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,335 |
 | Unshackled | 4.00% | ~5,335 |
 | Road Trip | 4.00% | ~5,335 |
-| Hope Rekindled | 3.00% | ~4,001 |
-| Predator | 3.00% | ~4,001 |
-| Reverse Banditry | 3.00% | ~4,001 |
-| When You Want Something Done Right | 3.00% | ~4,001 |
-| Utopia | 3.00% | ~4,001 |
-| Hot Air | 3.00% | ~4,001 |
+| Hope Rekindled | 3.00% | ~4,002 |
+| Predator | 3.00% | ~4,002 |
+| Reverse Banditry | 3.00% | ~4,002 |
+| When You Want Something Done Right | 3.00% | ~4,002 |
+| Utopia | 3.00% | ~4,002 |
+| Hot Air | 3.00% | ~4,002 |
 | This Looks Familiar | 2.00% | ~2,668 |
 | Ichthyophobic | 2.00% | ~2,668 |
 | No More Mouths to Feed | 2.00% | ~2,668 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,382 (Ranked 92)  
+Progressed: 133,385 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 5 (0.00%) (Ranked 408)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,382 | 5 |
+| 2024-01-21 | 133,385 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
 Sum: 21,798 (Ranked 58)  

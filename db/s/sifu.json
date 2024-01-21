@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
   "Ranking_EOS_NewPlayers": 69,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9153,10 +9153,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762158,
-  "EOS_Completed": 13001,
-  "EOS_NewPlayers": 1563,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 762173,
+  "EOS_Completed": 13002,
+  "EOS_NewPlayers": 1554,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -34723,6 +34723,11 @@
       "Time": "2024-01-21T11:10:13.0586598+00:00",
       "NumProgressed": 762158,
       "NumCompleted": 13001
+    },
+    {
+      "Time": "2024-01-21T12:09:49.4546823+00:00",
+      "NumProgressed": 762173,
+      "NumCompleted": 13002
     }
   ],
   "TotalAchievements": 60,
@@ -34734,7 +34739,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45729
+      "UsersEstimate": 45730
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34742,7 +34747,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38108
+      "UsersEstimate": 38109
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34862,7 +34867,7 @@
       "Name": "Martial Artist",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "18_Detective_H4",
@@ -34878,7 +34883,7 @@
       "Name": "Healing Memory",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "20_Traversal_Trophy",
@@ -34910,7 +34915,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38108
+      "UsersEstimate": 38109
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -34958,7 +34963,7 @@
       "Name": "Master of the Phoenix Eye Fist",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "30_ComboMid",
@@ -34974,7 +34979,7 @@
       "Name": "Ferocity, speed, strength, accuracy",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "32_ReachMaxAge",
@@ -34998,7 +35003,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38108
+      "UsersEstimate": 38109
     },
     {
       "ID": "35_WideStrike",
@@ -35038,7 +35043,7 @@
       "Name": "Be like water my friend",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 2286
+      "UsersEstimate": 2287
     },
     {
       "ID": "40_CustomTrophy_H4",
@@ -35213,21 +35218,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71459,
+      "Progressed": 71474,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762158,
-      "Completed": 13001
+      "Progressed": 762173,
+      "Completed": 13002
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-21T06:05:17.2420421+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:10:13.0586594+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:09:49.4546818+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:03:25.0798476+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:10:13.0588107+00:00"
+  "LastUpdate_Ratings": "2024-01-21T12:03:11.6316056+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:09:49.4548351+00:00"
 }

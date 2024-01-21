@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
     "PcReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16832,
+  "EOS_Progressed": 16835,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 163,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7127,6 +7127,11 @@
       "Time": "2024-01-21T10:09:52.5464952+00:00",
       "NumProgressed": 16832,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-21T12:09:49.9173903+00:00",
+      "NumProgressed": 16835,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7139,7 +7144,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6396
+      "UsersEstimate": 6397
     },
     {
       "ID": "ACH_AE_10",
@@ -7171,7 +7176,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12624
+      "UsersEstimate": 12626
     },
     {
       "ID": "ACH_AE_14",
@@ -7179,7 +7184,7 @@
       "Name": "Sticky Situation",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3366
+      "UsersEstimate": 3367
     },
     {
       "ID": "ACH_AE_15",
@@ -7187,7 +7192,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3703
+      "UsersEstimate": 3704
     },
     {
       "ID": "ACH_AE_16",
@@ -7195,7 +7200,7 @@
       "Name": "Energy Efficient",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 2188
+      "UsersEstimate": 2189
     },
     {
       "ID": "ACH_AE_17",
@@ -7235,7 +7240,7 @@
       "Name": "Let It Out",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "ACH_AE_21",
@@ -7275,7 +7280,7 @@
       "Name": "Family History",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "ACH_AE_26",
@@ -7315,7 +7320,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2693
+      "UsersEstimate": 2694
     },
     {
       "ID": "ACH_AE_30",
@@ -7395,7 +7400,7 @@
       "Name": "Renewal",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "ACH_AE_8",
@@ -7403,7 +7408,7 @@
       "Name": "Prisoner Dilemma",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "ACH_AE_9",
@@ -7418,7 +7423,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16832,
+      "Progressed": 16835,
       "Completed": 16
     }
   ],
@@ -7426,8 +7431,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:10:13.5216993+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:09:49.9173894+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:57:48.853082+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:10:13.5217534+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:57:36.4854868+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:09:49.917448+00:00"
 }

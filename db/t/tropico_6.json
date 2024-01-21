@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1635,7 +1635,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7223,
+  "EOS_Progressed": 7224,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -17120,6 +17120,11 @@
       "Time": "2024-01-21T11:04:50.3508924+00:00",
       "NumProgressed": 7223,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T12:04:37.861253+00:00",
+      "NumProgressed": 7224,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17187,7 +17192,7 @@
       "Name": "Caribbean Comrade",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACH_EP_BUREAUCRAZY",
@@ -17203,7 +17208,7 @@
       "Name": "The Dreamer of Dreams",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "ACH_EP_CONCRETEBEACH",
@@ -17251,7 +17256,7 @@
       "Name": "Number 18",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1661
+      "UsersEstimate": 1662
     },
     {
       "ID": "ACH_EP_SUPERPOWERDEFENCE",
@@ -17291,7 +17296,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5273
+      "UsersEstimate": 5274
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17387,7 +17392,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17450,15 +17455,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7223,
+      "Progressed": 7224,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-21T09:57:59.0761327+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:04:50.3508919+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:04:37.8612524+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:58:12.903622+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:04:50.3509878+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:58:00.4181303+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:04:37.8613599+00:00"
 }

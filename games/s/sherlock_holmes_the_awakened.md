@@ -18,8 +18,8 @@ Rating: 4.50 (Ranked 619)
 | Gaze Into The Abyss | 42.00% | ~658 |
 | Sticky Fingers | 42.00% | ~658 |
 | Knives Out | 42.00% | ~658 |
+| Land, Ho! | 42.00% | ~658 |
 | Back In The Saddle | 41.00% | ~642 |
-| Land, Ho! | 41.00% | ~642 |
 | No Man Is An Island | 40.00% | ~626 |
 | At Wits' End | 40.00% | ~626 |
 | Up In Flames | 38.00% | ~595 |

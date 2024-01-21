@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.07 (Ranked 1,040)  
+Rating: 4.07 (Ranked 1,041)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -29,11 +29,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Exploring Port Nyanzaru | 0.50% | ~1,275 |
 | The Contagious Curse | 0.50% | ~1,275 |
 | Escort to Waterdeep | 0.50% | ~1,275 |
-| The Overgrown Grove | 0.50% | ~1,106 |
-| When Tentacles Attack | 0.50% | ~1,106 |
-| Flames of Avernus | 0.50% | ~1,106 |
-| Mental Gymnastics | 0.50% | ~1,106 |
-| Don't Lose Your Head | 0.50% | ~1,106 |
+| The Overgrown Grove | 0.50% | ~1,107 |
+| When Tentacles Attack | 0.50% | ~1,107 |
+| Flames of Avernus | 0.50% | ~1,107 |
+| Mental Gymnastics | 0.50% | ~1,107 |
+| Don't Lose Your Head | 0.50% | ~1,107 |
 | Low Initiative | 0.40% | ~1,020 |
 | Building Trust | 0.40% | ~1,020 |
 | Useless Allies | 0.40% | ~1,020 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,026 (Ranked 71)  
+Progressed: 255,028 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 255,026 | 2,629 |
+| 2024-01-21 | 255,028 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,593 (Ranked 41)  

@@ -2,13 +2,13 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface: Clutch",
   "ProductSlug": "warface",
-  "Ranking_Rating": 1080,
+  "Ranking_Rating": 1077,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
     "PcReleaseDate": "2013-10-21T09:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 3.89,
+  "Rating": 3.9,
   "NumberOfRatings": 3179,
   "RatingHistory": [
     {
@@ -4552,10 +4552,16 @@
       "Rating": 3.89,
       "NumberOfAwards": 3502,
       "NumberOfAwardsMax": 482
+    },
+    {
+      "Time": "2024-01-21T11:57:37.9843291+00:00",
+      "Rating": 3.9,
+      "NumberOfAwards": 3503,
+      "NumberOfAwardsMax": 482
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3502,
+  "NumberOfAwards": 3503,
   "NumberOfAwardsMax": 482,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -4563,7 +4569,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 367
+      "Count": 368
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4637,8 +4643,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
-  "LastChanged": "2024-01-21T09:57:36.5798401+00:00",
+  "LastChanged": "2024-01-21T11:57:37.9843289+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:22.9532091+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:57:50.3506906+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:06:07.4964806+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:57:37.9843297+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:05:54.9983992+00:00"
 }

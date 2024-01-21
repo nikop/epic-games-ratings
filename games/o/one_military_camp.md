@@ -34,11 +34,11 @@
 | Human Resources | 3.00% | ~9 |
 | Training Camp | 3.00% | ~9 |
 | Snowman | 2.00% | ~6 |
+| Reconquest | 2.00% | ~6 |
 | Winter Soldier | 2.00% | ~6 |
 | Economist | 1.00% | ~3 |
 | Counter-espionage | 1.00% | ~3 |
 | Crisis Committee | 1.00% | ~3 |
-| Reconquest | 1.00% | ~3 |
 | Against Adversity | 1.00% | ~3 |
 | Researcher | 1.00% | ~3 |
 | Self-management | 0.30% | ~1 |

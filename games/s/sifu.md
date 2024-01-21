@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,729 |
-| The Assault | 5.00% | ~38,108 |
-| Life is your teacher | 5.00% | ~38,108 |
-| Lightning Hands | 5.00% | ~38,108 |
+| The Old Grandmaster | 6.00% | ~45,730 |
+| The Assault | 5.00% | ~38,109 |
+| Life is your teacher | 5.00% | ~38,109 |
+| Lightning Hands | 5.00% | ~38,109 |
 | The Hateful Pole Fighter | 3.00% | ~22,865 |
 | Stuntmaster | 3.00% | ~22,865 |
 | Street Fighting | 3.00% | ~22,865 |
@@ -48,11 +48,11 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.40% | ~3,049 |
 | The Pit Protector | 0.40% | ~3,049 |
 | Come Snap With Me | 0.40% | ~3,049 |
-| Martial Artist | 0.30% | ~2,286 |
-| Healing Memory | 0.30% | ~2,286 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,286 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,286 |
-| Be like water my friend | 0.30% | ~2,286 |
+| Martial Artist | 0.30% | ~2,287 |
+| Healing Memory | 0.30% | ~2,287 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,287 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,287 |
+| Be like water my friend | 0.30% | ~2,287 |
 | Deadly Venom | 0.30% | ~214 |
 | A Touch of Acumen | 0.30% | ~214 |
 | Secure, Protect, Leave | 0.20% | ~143 |
@@ -67,8 +67,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~71 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~71 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,158 (Ranked 26)  
-Completed: 13,001 (1.71%) (Ranked 150)  
+Progressed: 762,173 (Ranked 26)  
+Completed: 13,002 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,7 +343,7 @@ Completed: 13,001 (1.71%) (Ranked 150)
 | 2024-01-18 | 761,674 | 12,992 |
 | 2024-01-19 | 761,872 | 12,994 |
 | 2024-01-20 | 762,069 | 13,000 |
-| 2024-01-21 | 762,158 | 13,001 |
+| 2024-01-21 | 762,173 | 13,002 |
 ## Awards
 Max (Great Boss Battles): 7,249  (Ranked 58)  
 Sum: 12,832 (Ranked 87)  

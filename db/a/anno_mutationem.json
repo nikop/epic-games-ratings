@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 316,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 422,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 423,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-09-22T09:00:00+00:00",
     "PcReleaseDate": "2022-03-17T09:00:00+00:00",
@@ -1538,9 +1538,9 @@
       "ID": "Supreme_Bartender_Ann",
       "SetID": "gl7plp",
       "Name": "Supreme Bartender Ann",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 60
+      "UsersEstimate": 68
     },
     {
       "ID": "Tell_me_your_story",
@@ -1675,8 +1675,8 @@
   "FirstSeenRating": "2022-11-06T22:57:11.9823154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:07.7470229+00:00",
   "LastChanged": "2023-12-25T11:02:42.8909676+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:05:58.1836028+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:05:46.5764105+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.7602461+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:03:19.3230913+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:05:58.1836518+00:00"
+  "LastUpdate_Ratings": "2024-01-21T12:03:05.0507589+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:05:46.5764453+00:00"
 }

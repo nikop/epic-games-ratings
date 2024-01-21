@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17056,
+  "EOS_Progressed": 17057,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20679,6 +20679,11 @@
       "Time": "2024-01-21T11:10:48.9047235+00:00",
       "NumProgressed": 17056,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T12:10:24.7215417+00:00",
+      "NumProgressed": 17057,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22696,9 +22701,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_REVELATION",
       "SetID": "7l38kb8",
       "Name": "Revelation",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_VENERATION",
@@ -23472,9 +23477,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_HELIOPOLIS",
       "SetID": "9201eeb",
       "Name": "Heliopolis",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_JEBEL_BARKAL",
@@ -23504,9 +23509,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
       "SetID": "9201eeb",
       "Name": "Yazilikaya",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_JERWAN_JERWAN_AQUEDUCT",
@@ -23553,21 +23558,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17056,
+      "Progressed": 17057,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17056,
+      "Progressed": 17057,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:10:48.9047233+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:10:24.7215411+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:58:06.9141256+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:10:48.9056674+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:57:54.336601+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:10:24.722526+00:00"
 }

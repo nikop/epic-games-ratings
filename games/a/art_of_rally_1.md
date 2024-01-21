@@ -6,32 +6,32 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~343,841 |
-| good drivers have dead flies on the side windows | 32.00% | ~137,536 |
-| keep it tidy | 26.00% | ~111,748 |
-| brail | 26.00% | ~111,748 |
-| car wash | 23.00% | ~98,854 |
-| the artist | 23.00% | ~98,854 |
-| podium | 20.00% | ~85,960 |
-| medium attack | 17.00% | ~73,066 |
-| bicycle race | 6.00% | ~25,788 |
-| grocery-getter | 5.00% | ~21,490 |
-| autopilot | 4.00% | ~17,192 |
-| rwd only | 3.00% | ~12,894 |
-| where is the stage? | 3.00% | ~12,894 |
-| night ride | 3.00% | ~12,894 |
-| snorkel | 3.00% | ~12,894 |
-| food tour: pasta | 3.00% | ~12,894 |
-| to finish first, first you must finish | 2.00% | ~8,596 |
-| perkele | 2.00% | ~8,596 |
-| turbo | 2.00% | ~8,596 |
-| if in doubt, flat out! | 2.00% | ~8,596 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,596 |
-| mittens | 2.00% | ~8,596 |
-| food tour: pretzel | 2.00% | ~8,596 |
-| espresso | 1.00% | ~4,298 |
-| monster | 1.00% | ~4,298 |
-| in like a lamb, out like a lion | 1.00% | ~4,298 |
+| light attack | 80.00% | ~343,911 |
+| good drivers have dead flies on the side windows | 32.00% | ~137,564 |
+| keep it tidy | 26.00% | ~111,771 |
+| brail | 26.00% | ~111,771 |
+| car wash | 23.00% | ~98,874 |
+| the artist | 23.00% | ~98,874 |
+| podium | 20.00% | ~85,978 |
+| medium attack | 17.00% | ~73,081 |
+| bicycle race | 6.00% | ~25,793 |
+| grocery-getter | 5.00% | ~21,494 |
+| autopilot | 4.00% | ~17,196 |
+| rwd only | 3.00% | ~12,897 |
+| where is the stage? | 3.00% | ~12,897 |
+| night ride | 3.00% | ~12,897 |
+| snorkel | 3.00% | ~12,897 |
+| food tour: pasta | 3.00% | ~12,897 |
+| to finish first, first you must finish | 2.00% | ~8,598 |
+| perkele | 2.00% | ~8,598 |
+| turbo | 2.00% | ~8,598 |
+| if in doubt, flat out! | 2.00% | ~8,598 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,598 |
+| mittens | 2.00% | ~8,598 |
+| food tour: pretzel | 2.00% | ~8,598 |
+| espresso | 1.00% | ~4,299 |
+| monster | 1.00% | ~4,299 |
+| in like a lamb, out like a lion | 1.00% | ~4,299 |
 | eurobeat | 0.70% | ~3,009 |
 | parallel universe | 0.70% | ~3,009 |
 | viking | 0.60% | ~2,579 |
@@ -39,18 +39,18 @@ Number of Ratings: 56  (23.09.2022)
 | group b | 0.50% | ~2,149 |
 | maximum attack | 0.50% | ~2,149 |
 | samir | 0.50% | ~2,149 |
-| master of rally | 0.40% | ~1,719 |
-| antilag | 0.40% | ~1,719 |
-| real roads, real fast | 0.40% | ~1,719 |
-| parking lot | 0.30% | ~1,289 |
-| comfy seats | 0.30% | ~1,289 |
+| master of rally | 0.40% | ~1,720 |
+| antilag | 0.40% | ~1,720 |
+| real roads, real fast | 0.40% | ~1,720 |
+| parking lot | 0.30% | ~1,290 |
+| comfy seats | 0.30% | ~1,290 |
 | simulator | 0.20% | ~860 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~430 |
 | absolute drift | 0.10% | ~430 |
 | barely keeping it together | 0.10% | ~430 |
 | you're here for a good time, not a long time | 0.10% | ~430 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 429,801 (Ranked 48)  
+Progressed: 429,889 (Ranked 48)  
 Completed: 26 (0.01%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,21 +256,21 @@ Completed: 26 (0.01%) (Ranked 382)
 | 2024-01-18 | 425,601 | 25 |
 | 2024-01-19 | 427,221 | 26 |
 | 2024-01-20 | 429,113 | 26 |
-| 2024-01-21 | 429,801 | 26 |
+| 2024-01-21 | 429,889 | 26 |
 ## Awards
 Max (Quickly Understood Controls): 45  (Ranked 477)  
-Sum: 291 (Ranked 389)  
-Diff (max vs sum): 88  
+Sum: 294 (Ranked 388)  
+Diff (max vs sum): 89  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 45 |
 | This game is Great for Quick Sessions | 39 |
 | This game is Highly Recommended | 38 |
+| This game is Extremely Fun | 35 |
 | This game is Relaxing | 34 |
-| This game is Extremely Fun | 33 |
 | This game has Amazing Storytelling | 33 |
 | This game is Great for Beginners | 28 |
-| This game has Amazing Characters | 26 |
+| This game has Amazing Characters | 27 |
 | This game has Competitive Players | 23 |
 | This game has a Competitive Community | 20 |
 ## Ratings History
@@ -342,3 +342,4 @@ Diff (max vs sum): 88
 | 2024-01-18 | 4.63 | - | 45 | 267 |
 | 2024-01-19 | 4.64 | - | 45 | 271 |
 | 2024-01-20 | 4.64 | - | 45 | 291 |
+| 2024-01-21 | 4.64 | - | 45 | 294 |

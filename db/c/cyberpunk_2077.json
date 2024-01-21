@@ -18750,10 +18750,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 509985,
       "NumberOfAwardsMax": 143148
+    },
+    {
+      "Time": "2024-01-21T12:03:15.2311024+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 510483,
+      "NumberOfAwardsMax": 143148
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 509985,
+  "NumberOfAwards": 510483,
   "NumberOfAwardsMax": 143148,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18767,7 +18773,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 106592
+      "Count": 107090
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18830,9 +18836,9 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056346,
-  "EOS_Completed": 3140,
-  "EOS_NewPlayers": 5680,
+  "EOS_Progressed": 1056386,
+  "EOS_Completed": 3141,
+  "EOS_NewPlayers": 5650,
   "EOS_NewCompleters": 51,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50455,6 +50461,11 @@
       "Time": "2024-01-21T11:09:34.1313367+00:00",
       "NumProgressed": 1056346,
       "NumCompleted": 3140
+    },
+    {
+      "Time": "2024-01-21T12:09:10.4985157+00:00",
+      "NumProgressed": 1056386,
+      "NumCompleted": 3141
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50483,7 +50494,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "Cyberjunkie",
@@ -50539,7 +50550,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "Gunslinger",
@@ -50555,7 +50566,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "IAmMaxTac",
@@ -50641,9 +50652,9 @@
       "ID": "Roleplayer",
       "SetID": "47clieb",
       "Name": "Stanislavski\u0027s Method",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4225
+      "UsersEstimate": 5282
     },
     {
       "ID": "Specialist",
@@ -50683,7 +50694,7 @@
       "Name": "The Fool",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "TheHermit",
@@ -50739,7 +50750,7 @@
       "Name": "The World",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "ThisIsPacifica",
@@ -50777,9 +50788,9 @@
       "ID": "TwoHeadsOneBullet",
       "SetID": "47clieb",
       "Name": "Two Heads, One Bullet",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 2113
+      "UsersEstimate": 3169
     },
     {
       "ID": "UnderPressure",
@@ -51002,21 +51013,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056346,
-      "Completed": 3140
+      "Progressed": 1056386,
+      "Completed": 3141
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184969,
+      "Progressed": 185009,
       "Completed": 10672
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-21T06:05:22.0405826+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:09:34.1313361+00:00",
+  "LastChanged": "2024-01-21T12:03:15.2311022+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:09:10.4985153+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:03:28.7507519+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:09:34.1315387+00:00"
+  "LastUpdate_Ratings": "2024-01-21T12:03:15.2311029+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:09:10.4987471+00:00"
 }

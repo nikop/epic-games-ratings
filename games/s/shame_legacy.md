@@ -20,7 +20,7 @@
 | Unpleasant visit | 0.00% | ~0 |
 | Well informed | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1 (Ranked 773)  
+Progressed: 1 (Ranked 774)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |

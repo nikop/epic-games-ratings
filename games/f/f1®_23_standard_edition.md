@@ -5,21 +5,21 @@ Rating: 4.64 (Ranked 347)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,877 |
-| On the Top Step | 83.00% | ~15,393 |
-| Setting up for Success | 70.00% | ~12,982 |
-| Team Orders | 68.00% | ~12,611 |
-| Engineer | 46.00% | ~8,531 |
-| Familiar Faces | 42.00% | ~7,789 |
-| Going the Extra Mile | 36.00% | ~6,677 |
-| Sharing the Love | 34.00% | ~6,306 |
-| Hitting a Season | 28.00% | ~5,193 |
-| A Dozen Pieces | 25.00% | ~4,636 |
-| Making History | 25.00% | ~4,636 |
-| Challenge Yourself | 24.00% | ~4,451 |
+| Getting on the Step | 91.00% | ~16,880 |
+| On the Top Step | 83.00% | ~15,396 |
+| Setting up for Success | 70.00% | ~12,984 |
+| Team Orders | 68.00% | ~12,613 |
+| Engineer | 46.00% | ~8,533 |
+| Familiar Faces | 42.00% | ~7,791 |
+| Going the Extra Mile | 36.00% | ~6,678 |
+| Sharing the Love | 34.00% | ~6,307 |
+| Hitting a Season | 28.00% | ~5,194 |
+| A Dozen Pieces | 25.00% | ~4,637 |
+| Making History | 25.00% | ~4,637 |
+| Challenge Yourself | 24.00% | ~4,452 |
 | Network Success | 23.00% | ~4,266 |
-| Writing a new Chapter | 20.00% | ~3,709 |
-| Spring Cleaning | 18.00% | ~3,338 |
+| Writing a new Chapter | 20.00% | ~3,710 |
+| Spring Cleaning | 18.00% | ~3,339 |
 | Reduce | 15.00% | ~2,782 |
 | Ups and Downs | 15.00% | ~2,782 |
 | Crucial Combo | 13.00% | ~2,411 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 347)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,546 (Ranked 165)  
+Progressed: 18,549 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -185,7 +185,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 18,404 | 0 |
 | 2024-01-19 | 18,454 | 0 |
 | 2024-01-20 | 18,524 | 0 |
-| 2024-01-21 | 18,546 | 0 |
+| 2024-01-21 | 18,549 | 0 |
 ## Awards
 Max (Diverse Characters): 69  (Ranked 423)  
 Sum: 467 (Ranked 346)  

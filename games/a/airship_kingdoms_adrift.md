@@ -4,62 +4,62 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Trial Begins | 100.00% | ~4 |
-| An Old Friend | 75.00% | ~3 |
-| Attention Peasant! | 75.00% | ~3 |
-| Meet THE Harbormaster | 75.00% | ~3 |
-| Now You Knew | 75.00% | ~3 |
-| The Red Flower | 75.00% | ~3 |
-| The Industrialist | 75.00% | ~3 |
-| Wise Decision | 75.00% | ~3 |
-| Damsel in Distress? | 50.00% | ~2 |
-| Flight Check | 50.00% | ~2 |
-| Not a Good Decoy | 50.00% | ~2 |
-| The Pink Flower | 50.00% | ~2 |
-| Shipping Ships | 50.00% | ~2 |
-| The Combatant | 50.00% | ~2 |
-| The Mother Ocean | 50.00% | ~2 |
-| Whoops | 50.00% | ~2 |
-| An Old Hero | 25.00% | ~1 |
-| Dream of Flight | 25.00% | ~1 |
-| For the Republic! | 25.00% | ~1 |
-| Friendly Neighborhood Commander | 25.00% | ~1 |
-| Gentlemen Pirates | 25.00% | ~1 |
-| Good Butcher | 25.00% | ~1 |
-| Good Carpenter | 25.00% | ~1 |
-| Good Cook | 25.00% | ~1 |
-| Good Fabricator | 25.00% | ~1 |
-| Good Farmer | 25.00% | ~1 |
-| Good Forester | 25.00% | ~1 |
-| Good Founder | 25.00% | ~1 |
-| Good Grinder | 25.00% | ~1 |
-| Good Mason | 25.00% | ~1 |
-| Home Made | 25.00% | ~1 |
-| It is Unsafe Out Here | 25.00% | ~1 |
-| It’s Commandeering | 25.00% | ~1 |
-| It’s Smarter to Pay the Toll | 25.00% | ~1 |
-| Let’s get Rich | 25.00% | ~1 |
-| Living off the Land | 25.00% | ~1 |
-| Not Again | 25.00% | ~1 |
-| Our Own Path | 25.00% | ~1 |
-| Our Tiny Little Fleet | 25.00% | ~1 |
-| Safe Delivery | 25.00% | ~1 |
-| Shady Business | 25.00% | ~1 |
-| Shellshock | 25.00% | ~1 |
-| Small Business | 25.00% | ~1 |
-| Starting Up | 25.00% | ~1 |
-| There She Blows! | 25.00% | ~1 |
-| The Amber Flower | 25.00% | ~1 |
-| The Blue Flower | 25.00% | ~1 |
-| The Coil Fanatic | 25.00% | ~1 |
-| The First Princess | 25.00% | ~1 |
-| The Green Flower | 25.00% | ~1 |
-| The Himmelhaart far from Home | 25.00% | ~1 |
-| The Impossible Dream | 25.00% | ~1 |
-| The Tree Fanatic | 25.00% | ~1 |
-| Torpedoes! | 25.00% | ~1 |
-| Tuck the Tail | 25.00% | ~1 |
-| United We Stand! | 25.00% | ~1 |
+| The Industrialist | 80.00% | ~4 |
+| The Trial Begins | 80.00% | ~4 |
+| Wise Decision | 80.00% | ~4 |
+| An Old Friend | 60.00% | ~3 |
+| Attention Peasant! | 60.00% | ~3 |
+| Flight Check | 60.00% | ~3 |
+| Meet THE Harbormaster | 60.00% | ~3 |
+| Now You Knew | 60.00% | ~3 |
+| The Red Flower | 60.00% | ~3 |
+| Damsel in Distress? | 40.00% | ~2 |
+| Not a Good Decoy | 40.00% | ~2 |
+| The Pink Flower | 40.00% | ~2 |
+| Shipping Ships | 40.00% | ~2 |
+| The Combatant | 40.00% | ~2 |
+| The Mother Ocean | 40.00% | ~2 |
+| Tuck the Tail | 40.00% | ~2 |
+| Whoops | 40.00% | ~2 |
+| An Old Hero | 20.00% | ~1 |
+| Dream of Flight | 20.00% | ~1 |
+| For the Republic! | 20.00% | ~1 |
+| Friendly Neighborhood Commander | 20.00% | ~1 |
+| Gentlemen Pirates | 20.00% | ~1 |
+| Good Butcher | 20.00% | ~1 |
+| Good Carpenter | 20.00% | ~1 |
+| Good Cook | 20.00% | ~1 |
+| Good Fabricator | 20.00% | ~1 |
+| Good Farmer | 20.00% | ~1 |
+| Good Forester | 20.00% | ~1 |
+| Good Founder | 20.00% | ~1 |
+| Good Grinder | 20.00% | ~1 |
+| Good Mason | 20.00% | ~1 |
+| Home Made | 20.00% | ~1 |
+| It is Unsafe Out Here | 20.00% | ~1 |
+| It’s Commandeering | 20.00% | ~1 |
+| It’s Smarter to Pay the Toll | 20.00% | ~1 |
+| Let’s get Rich | 20.00% | ~1 |
+| Living off the Land | 20.00% | ~1 |
+| Not Again | 20.00% | ~1 |
+| Our Own Path | 20.00% | ~1 |
+| Our Tiny Little Fleet | 20.00% | ~1 |
+| Safe Delivery | 20.00% | ~1 |
+| Shady Business | 20.00% | ~1 |
+| Shellshock | 20.00% | ~1 |
+| Small Business | 20.00% | ~1 |
+| Starting Up | 20.00% | ~1 |
+| There She Blows! | 20.00% | ~1 |
+| The Amber Flower | 20.00% | ~1 |
+| The Blue Flower | 20.00% | ~1 |
+| The Coil Fanatic | 20.00% | ~1 |
+| The First Princess | 20.00% | ~1 |
+| The Green Flower | 20.00% | ~1 |
+| The Himmelhaart far from Home | 20.00% | ~1 |
+| The Impossible Dream | 20.00% | ~1 |
+| The Tree Fanatic | 20.00% | ~1 |
+| Torpedoes! | 20.00% | ~1 |
+| United We Stand! | 20.00% | ~1 |
 | Are We Baddies? | 0.00% | ~0 |
 | A lone and Lonely Engineer | 0.00% | ~0 |
 | A Patience Admiral | 0.00% | ~0 |
@@ -153,10 +153,10 @@
 | Trouble in Aberdonia | 0.00% | ~0 |
 | We need Space! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 717)  
+Progressed: 5 (Ranked 709)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2024-01-19 | 3 | 0 |
-| 2024-01-21 | 4 | 0 |
+| 2024-01-21 | 5 | 0 |

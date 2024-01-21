@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-07T07:00:00+00:00",
     "PcReleaseDate": "2022-09-25T21:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "CompletedChapter1",
       "SetID": "7ejh407",
       "Name": "Defeated Captain Tutorial",
-      "Percentage": 70,
+      "Percentage": 72,
       "XP": 200,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "CompletedChapter2",
@@ -383,9 +383,9 @@
       "ID": "GoodBoy",
       "SetID": "7ejh407",
       "Name": "Good boy",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "HighStriker",
@@ -518,8 +518,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:09:57.1117113+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:09:33.7493698+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:30.8864816+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:58:10.1414606+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:09:57.1117288+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:57:57.6844186+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:09:33.7493871+00:00"
 }

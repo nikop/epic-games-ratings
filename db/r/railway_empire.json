@@ -2,13 +2,13 @@
   "ID": "93b333eb973b45b582f3bdf68dfc1dc9",
   "Name": "Railway Empire",
   "ProductSlug": "railway-empire",
-  "Ranking_Rating": 597,
+  "Ranking_Rating": 598,
   "Ranking_Popularity": 251,
   "Ranking_PopularitySum": 211,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-09-10T15:00:00+00:00",
     "PcReleaseDate": "2018-01-26T15:00:00+00:00",
@@ -4111,8 +4111,8 @@
   "FirstSeen": "2022-07-22T20:18:36.383576+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.8826483+00:00",
   "LastChanged": "2024-01-18T17:58:25.0086173+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:04:21.0846971+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:04:09.0173822+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.6958083+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:59:47.6255828+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:04:21.0846987+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:59:36.7265071+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:04:09.0173851+00:00"
 }

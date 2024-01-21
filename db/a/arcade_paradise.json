@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 383,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T13:00:00+00:00",
     "PcReleaseDate": "2022-08-11T13:00:00+00:00",
@@ -99,9 +99,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 762,
+  "EOS_Progressed": 763,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2024-01-20T18:08:41.9862492+00:00",
       "NumProgressed": 762,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T12:08:42.7906114+00:00",
+      "NumProgressed": 763,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 54,
@@ -1068,7 +1073,7 @@
       "Name": "Fetch Quest Complete",
       "Percentage": 90,
       "XP": 15,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "AhoyTrophy",
@@ -1124,7 +1129,7 @@
       "Name": "Crowning achievement",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "DancerTrophy",
@@ -1140,7 +1145,7 @@
       "Name": "Bug Fixer",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "DreadTrophy",
@@ -1164,7 +1169,7 @@
       "Name": "Pushing a pull door",
       "Percentage": 97,
       "XP": 5,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     },
     {
       "ID": "Ext4Trophy",
@@ -1188,7 +1193,7 @@
       "Name": "Your Bloody Valentine",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "GoalMachineTrophy",
@@ -1196,7 +1201,7 @@
       "Name": "Machine Maxed",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 213
+      "UsersEstimate": 214
     },
     {
       "ID": "GoldGuyTrophy",
@@ -1204,7 +1209,7 @@
       "Name": "GoldGuy Jr",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "GoreTrophy",
@@ -1220,7 +1225,7 @@
       "Name": "Nose to the Grindstone",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "GumTrophy",
@@ -1292,7 +1297,7 @@
       "Name": "Waking nightmare",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "MachineTrophy",
@@ -1300,7 +1305,7 @@
       "Name": "I can\u0027t wait!",
       "Percentage": 82,
       "XP": 5,
-      "UsersEstimate": 625
+      "UsersEstimate": 626
     },
     {
       "ID": "MaxPriceTrophy",
@@ -1420,7 +1425,7 @@
       "Name": "Clean up on Aisle 9",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 297
+      "UsersEstimate": 298
     },
     {
       "ID": "WhiteWolfTrophy",
@@ -1451,7 +1456,7 @@
     {
       "ID": "32aeje8",
       "IsBase": true,
-      "Progressed": 762,
+      "Progressed": 763,
       "Completed": 0
     }
   ],
@@ -1459,8 +1464,8 @@
   "FirstSeenRating": "2022-10-03T03:02:52.8117424+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.572024+00:00",
   "LastChanged": "2023-12-23T15:58:00.3414014+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:09:06.4379969+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:08:42.7906109+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.7451184+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:57:55.0047188+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:09:06.4380373+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:57:42.4387704+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:08:42.7906585+00:00"
 }

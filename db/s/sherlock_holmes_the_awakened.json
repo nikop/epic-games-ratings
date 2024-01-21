@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 186,
-  "Ranking_EOS_NewCompleters": 64,
+  "Ranking_EOS_NewPlayers": 187,
+  "Ranking_EOS_NewCompleters": 66,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -5717,9 +5717,9 @@
       "ID": "MQ06_3",
       "SetID": "bbing49",
       "Name": "Land, Ho!",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 642
+      "UsersEstimate": 658
     },
     {
       "ID": "MQ06_4",
@@ -5790,8 +5790,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:04:19.8298822+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:04:07.7069112+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:03:30.5816473+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:04:19.8299304+00:00"
+  "LastUpdate_Ratings": "2024-01-21T12:03:16.9793055+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:04:07.7069594+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 164,
   "Ranking_EOS_NewPlayers": 218,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2017-04-18T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1148,
+  "EOS_Progressed": 1150,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 63,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -3305,6 +3305,11 @@
       "Time": "2024-01-20T23:10:06.1879529+00:00",
       "NumProgressed": 1148,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-21T12:09:54.0569385+00:00",
+      "NumProgressed": 1150,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 20,
@@ -3316,7 +3321,7 @@
       "Name": "Cause and Effect",
       "Percentage": 95,
       "XP": 25,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "CHOICES_MATTER",
@@ -3340,7 +3345,7 @@
       "Name": "The Lion\u0027s Den",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "ENDING_3",
@@ -3364,7 +3369,7 @@
       "Name": "The Delivery",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 505
+      "UsersEstimate": 506
     },
     {
       "ID": "ENDING_6",
@@ -3388,7 +3393,7 @@
       "Name": "Even Tempered",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 620
+      "UsersEstimate": 621
     },
     {
       "ID": "EXPERT_STORYTELLER",
@@ -3396,7 +3401,7 @@
       "Name": "Expert Storyteller",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "FAIR_SHARE",
@@ -3404,7 +3409,7 @@
       "Name": "Fair Share",
       "Percentage": 68,
       "XP": 25,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "GOOD_KARMA",
@@ -3412,7 +3417,7 @@
       "Name": "Good Karma",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "INTERROGATION",
@@ -3428,7 +3433,7 @@
       "Name": "Office Clerk",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "PROFICIENT_STORYTELLER",
@@ -3460,7 +3465,7 @@
       "Name": "Shill Bidder",
       "Percentage": 41,
       "XP": 25,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "STAR_CROSSED_LOVERS",
@@ -3475,7 +3480,7 @@
     {
       "ID": "8eejhlh",
       "IsBase": true,
-      "Progressed": 1148,
+      "Progressed": 1150,
       "Completed": 14
     }
   ],
@@ -3483,8 +3488,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:10:17.7133445+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:09:54.0569383+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.6031874+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:59:20.616173+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:10:17.7133743+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:59:06.3635246+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:09:54.0569615+00:00"
 }

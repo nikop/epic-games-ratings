@@ -115,6 +115,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Pyramids | 0.80% | ~136 |
 | Jerwan Aqueduct | 0.80% | ~136 |
 | Royal Library | 0.80% | ~136 |
+| Yazilikaya | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
 | Devout | 0.70% | ~119 |
 | Peacemaker | 0.70% | ~119 |
@@ -124,16 +125,15 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hittite Paganism | 0.70% | ~119 |
 | Enlightenment | 0.70% | ~119 |
 | Redemption | 0.70% | ~119 |
+| Revelation | 0.70% | ~119 |
 | Veneration | 0.70% | ~119 |
 | Kushite Cavalry | 0.70% | ~119 |
 | Ambition Victory | 0.70% | ~119 |
-| Yazilikaya | 0.70% | ~119 |
 | Clerics | 0.60% | ~102 |
 | Church of the Holy Sepulchre | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
-| Revelation | 0.60% | ~102 |
 | Turreted Elephant | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
 | Deposed Tribe | 0.60% | ~102 |
@@ -189,6 +189,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Necropolis in Waset | 0.20% | ~34 |
 | The Great Mage | 0.20% | ~34 |
 | Kush | 0.20% | ~34 |
+| Heliopolis | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
 | Alexander the Great | 0.10% | ~17 |
 | Alexander the who? | 0.10% | ~17 |
@@ -327,7 +328,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt Campaign | 0.10% | ~17 |
 | Cothon in Carthago | 0.10% | ~17 |
 | Yazilikaya in Hattusa | 0.10% | ~17 |
-| Heliopolis | 0.10% | ~17 |
 | Royal Library in Nineveh | 0.10% | ~17 |
 | Colosseum in Roma | 0.10% | ~17 |
 | The Great Raging Horde | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,056 (Ranked 170)  
+Progressed: 17,057 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,056 | 5 |
+| 2024-01-21 | 17,057 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

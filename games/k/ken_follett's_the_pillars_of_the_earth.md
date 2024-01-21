@@ -1,20 +1,20 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 597)  
+Rating: 4.51 (Ranked 598)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~7,022 |
+| Tattletale | 39.00% | ~7,023 |
 | Man of politics | 34.00% | ~6,122 |
 | Friends of sorts | 32.00% | ~5,762 |
 | Yet another secret | 32.00% | ~5,762 |
 | Let there be darkness | 31.00% | ~5,582 |
 | End of Book One | 29.00% | ~5,222 |
-| Wannabe knight | 23.00% | ~4,141 |
-| Garden of Eden | 23.00% | ~4,141 |
-| Full house | 23.00% | ~4,141 |
+| Wannabe knight | 23.00% | ~4,142 |
+| Garden of Eden | 23.00% | ~4,142 |
+| Full house | 23.00% | ~4,142 |
 | Help an old friend | 21.00% | ~3,781 |
 | Two of us | 20.00% | ~3,601 |
 | Negotiation skills | 18.00% | ~3,241 |
@@ -34,7 +34,7 @@ Number of Ratings: 368  (23.09.2022)
 | The oath | 9.00% | ~1,621 |
 | The truth revealed | 9.00% | ~1,621 |
 | The End. | 9.00% | ~1,621 |
-| Nothing but make-believe | 8.00% | ~1,440 |
+| Nothing but make-believe | 8.00% | ~1,441 |
 | A cry for help | 7.00% | ~1,260 |
 | Silentium est aureum | 7.00% | ~1,260 |
 | Rebel without a cause | 6.00% | ~1,080 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~540 |
 | Boy of mystery | 2.00% | ~360 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,006 (Ranked 166)  
+Progressed: 18,007 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 125 (0.69%) (Ranked 207)
 | 2024-01-18 | 17,936 | 125 |
 | 2024-01-19 | 17,964 | 125 |
 | 2024-01-20 | 17,997 | 125 |
-| 2024-01-21 | 18,006 | 125 |
+| 2024-01-21 | 18,007 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 333)  
 Sum: 200 (Ranked 419)  

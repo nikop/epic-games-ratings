@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 192,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 83,
+  "Ranking_EOS_NewCompleters": 84,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -355,7 +355,7 @@
   ],
   "EOS_Progressed": 1142,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -3260,9 +3260,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3452,8 +3452,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-21T11:05:15.8679765+00:00",
+  "LastChanged_Achievements": "2024-01-21T12:05:03.9991187+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:59:46.1158685+00:00",
-  "LastUpdate_Achievements": "2024-01-21T11:05:15.8680072+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:59:35.3078396+00:00",
+  "LastUpdate_Achievements": "2024-01-21T12:05:03.9991566+00:00"
 }

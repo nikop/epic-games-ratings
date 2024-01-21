@@ -6,18 +6,18 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,796 |
-| He's Signed! | 50.00% | ~239,796 |
-| First Victory | 50.00% | ~239,796 |
-| He's Sold! | 48.00% | ~230,204 |
+| Clean Sheet | 50.00% | ~239,797 |
+| He's Signed! | 50.00% | ~239,797 |
+| First Victory | 50.00% | ~239,797 |
+| He's Sold! | 48.00% | ~230,205 |
 | I'm The Boss! | 42.00% | ~201,429 |
-| Hat-trick | 41.00% | ~196,633 |
-| Scoring Streak | 38.00% | ~182,245 |
-| Unbeatable! | 37.00% | ~177,449 |
-| Thumping | 37.00% | ~177,449 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,857 |
-| Total Support | 32.00% | ~153,469 |
-| Record Signing | 32.00% | ~153,469 |
+| Hat-trick | 41.00% | ~196,634 |
+| Scoring Streak | 38.00% | ~182,246 |
+| Unbeatable! | 37.00% | ~177,450 |
+| Thumping | 37.00% | ~177,450 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,858 |
+| Total Support | 32.00% | ~153,470 |
+| Record Signing | 32.00% | ~153,470 |
 | He's a Natural | 31.00% | ~148,674 |
 | Millionaire's Club | 31.00% | ~148,674 |
 | Team Performance | 30.00% | ~143,878 |
@@ -31,19 +31,19 @@ Number of Ratings: 19,160  (23.09.2022)
 | On A Roll | 26.00% | ~124,694 |
 | Unstoppable Force | 26.00% | ~124,694 |
 | Armchair Expert | 25.00% | ~119,898 |
-| Fantastic Five | 24.00% | ~115,102 |
-| Full Faith | 24.00% | ~115,102 |
-| Iron Curtain | 24.00% | ~115,102 |
-| The Boss | 24.00% | ~115,102 |
-| Top Of The Class | 23.00% | ~110,306 |
-| Goal Machine | 23.00% | ~110,306 |
-| Splashing The Cash | 22.00% | ~105,510 |
-| Clean Bill of Health | 22.00% | ~105,510 |
-| What A Goal! | 22.00% | ~105,510 |
-| Cup Glory! | 22.00% | ~105,510 |
-| Irresistible Force | 20.00% | ~95,918 |
-| Excellent Match Cohesion | 20.00% | ~95,918 |
-| Do The Double | 19.00% | ~91,122 |
+| Fantastic Five | 24.00% | ~115,103 |
+| Full Faith | 24.00% | ~115,103 |
+| Iron Curtain | 24.00% | ~115,103 |
+| The Boss | 24.00% | ~115,103 |
+| Top Of The Class | 23.00% | ~110,307 |
+| Goal Machine | 23.00% | ~110,307 |
+| Splashing The Cash | 22.00% | ~105,511 |
+| Clean Bill of Health | 22.00% | ~105,511 |
+| What A Goal! | 22.00% | ~105,511 |
+| Cup Glory! | 22.00% | ~105,511 |
+| Irresistible Force | 20.00% | ~95,919 |
+| Excellent Match Cohesion | 20.00% | ~95,919 |
+| Do The Double | 19.00% | ~91,123 |
 | Top Form | 17.00% | ~81,531 |
 | Cash To Burn | 17.00% | ~81,531 |
 | Beating Expectations | 16.00% | ~76,735 |
@@ -62,7 +62,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | National Service | 9.00% | ~43,163 |
 | Headhunted | 9.00% | ~43,163 |
 | Domination | 9.00% | ~43,163 |
-| Best In The Business | 8.00% | ~38,367 |
+| Best In The Business | 8.00% | ~38,368 |
 | Legend | 6.00% | ~28,776 |
 | Win the Club World Cup | 6.00% | ~28,776 |
 | Parked The Tank | 6.00% | ~28,776 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~480 |
 | Shoestring Budget | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,592 (Ranked 44)  
+Progressed: 479,594 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -381,17 +381,17 @@ Completed: 22 (0.00%) (Ranked 408)
 | 2024-01-18 | 479,467 | 22 |
 | 2024-01-19 | 479,507 | 22 |
 | 2024-01-20 | 479,582 | 22 |
-| 2024-01-21 | 479,592 | 22 |
+| 2024-01-21 | 479,594 | 22 |
 ## Awards
 Max (Relaxing): 6,498  (Ranked 64)  
-Sum: 51,280 (Ranked 31)  
+Sum: 51,281 (Ranked 31)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 6,498 |
 | This game is Extremely Fun | 6,092 |
 | This game has Competitive Players | 5,939 |
-| This game is Highly Recommended | 5,934 |
+| This game is Highly Recommended | 5,935 |
 | This game has Quickly Understood Controls | 5,917 |
 | This game is Educational | 5,906 |
 | This game has Diverse Characters | 5,641 |
@@ -755,4 +755,4 @@ Diff (max vs sum): 33
 | 2024-01-18 | 4.80 | - | 6,498 | 51,275 |
 | 2024-01-19 | 4.80 | - | 6,498 | 51,276 |
 | 2024-01-20 | 4.80 | - | 6,498 | 51,279 |
-| 2024-01-21 | 4.80 | - | 6,498 | 51,280 |
+| 2024-01-21 | 4.80 | - | 6,498 | 51,281 |
