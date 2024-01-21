@@ -43,8 +43,8 @@
 | 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 10,574 | 4.58 | 474 |
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 9,784 | 4.77 | 123 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,439 | 4.89 | 12 |
-| 44 | [DEATH STRANDING](games/d/death_stranding.md) | 9,150 | 4.78 | 112 |
-| 45 | [Control](games/c/control.md) | 9,144 | 4.61 | 400 |
+| 44 | [Control](games/c/control.md) | 9,153 | 4.61 | 400 |
+| 45 | [DEATH STRANDING](games/d/death_stranding.md) | 9,150 | 4.78 | 112 |
 | 46 | [The Division 2 Standard Edition](games/t/the_division_2_standard_edition.md) | 9,097 | 4.50 | 619 |
 | 47 | [Farming Simulator 19](games/f/farming_simulator_19.md) | 8,669 | 4.69 | 241 |
 | 48 | [Nioh: The Complete Edition](games/n/nioh__the_complete_edition.md) | 8,657 | 4.56 | 514 |
@@ -90,7 +90,7 @@
 | 88 | [Trackmania Starter Access](games/t/trackmania.md) | 4,398 | 4.66 | 306 |
 | 89 | [Days Gone](games/d/days_gone.md) | 4,294 | 4.68 | 265 |
 | 90 | [Assassin's Creed Origins Standard Edition](games/a/assassin's_creed_origins_standard_edition.md) | 4,252 | 4.68 | 265 |
-| 91 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,169 | 4.51 | 597 |
+| 91 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4,170 | 4.51 | 597 |
 | 92 | [Back 4 Blood: Standard Edition](games/b/back_4_blood__standard_edition.md) | 4,115 | 4.46 | 679 |
 | 93 | [The Elder Scrolls Online](games/2/27aa2ebdcda14b3bb8a669aab73ca55f.md) | 4,087 | 4.35 | 834 |
 | 94 | [Paladins](games/p/paladins.md) | 4,031 | 4.32 | 871 |
@@ -100,7 +100,7 @@
 | 98 | [A Plague Tale: Innocence](games/a/a_plague_tale__innocence.md) | 3,547 | 4.67 | 285 |
 | 99 | [Darkest Dungeon®](games/d/darkest_dungeon®.md) | 3,467 | 4.76 | 134 |
 | 100 | [Pathfinder: Kingmaker - Enhanced Plus Edition](games/p/pathfinder__kingmaker_-_enhanced_plus_edition.md) | 3,458 | 4.57 | 498 |
-| 101 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,354 | 4.50 | 619 |
+| 101 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 3,360 | 4.50 | 619 |
 | 102 | [Gotham Knights](games/g/gotham_knights.md) | 3,237 | 4.19 | 980 |
 | 103 | [The Sims™ 4](games/t/the_sims™_4.md) | 3,142 | 4.62 | 382 |
 | 104 | [Among Us](games/a/among_us.md) | 3,048 | 4.56 | 514 |
@@ -259,7 +259,7 @@
 | 257 | [Darkwood](games/d/darkwood.md) | 329 | 4.61 | 400 |
 | 257 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 329 | 4.50 | 619 |
 | 259 | [Predecessor](games/p/predecessor.md) | 323 | 4.30 | 883 |
-| 260 | [The Outlast Trials](games/t/the_outlast_trials.md) | 310 | 4.65 | 324 |
+| 260 | [The Outlast Trials](games/t/the_outlast_trials.md) | 313 | 4.65 | 324 |
 | 261 | [Dead Space](games/d/dead_space.md) | 306 | 4.71 | 207 |
 | 262 | [MudRunner](games/m/mudrunner.md) | 305 | 4.60 | 427 |
 | 262 | [Spellbreak](games/s/spellbreak.md) | 305 | 4.63 | 358 |
@@ -278,7 +278,7 @@
 | 276 | [Surviving the Aftermath](games/s/surviving_the_aftermath__founder's_edition.md) | 277 | 4.39 | 789 |
 | 277 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 273 | 4.58 | 474 |
 | 277 | [The Dungeon of Naheulbeuk](games/t/the_dungeon_of_naheulbeuk.md) | 273 | 4.58 | 474 |
-| 279 | [Roller Champions™](games/r/roller_champions™.md) | 270 | 4.34 | 849 |
+| 279 | [Roller Champions™](games/r/roller_champions™.md) | 272 | 4.34 | 849 |
 | 280 | [Assassin's Creed® Mirage](games/a/assassin's_creed®_mirage.md) | 269 | 4.45 | 696 |
 | 281 | [Defense Grid: The Awakening](games/d/defense_grid__the_awakening.md) | 265 | 4.45 | 696 |
 | 282 | [Might & Magic Heroes 3](games/m/might_&_magic_heroes_3.md) | 264 | 4.83 | 56 |

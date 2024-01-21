@@ -111,7 +111,7 @@
 | 100 | [Scott Pilgrim vs. The World: The Game – Complete Edition](games/s/scott_pilgrim_vs._the_world__the_game_–_complete_edition.md) | 4.79 | 58 | 441 |
 | 100 | [Star Atlas](games/s/star_atlas.md) | 4.79 | 30 | 528 |
 | 100 | [Wildermyth](games/w/wildermyth.md) | 4.79 | 29 | 536 |
-| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,150 | 44 |
+| 112 | [DEATH STRANDING](games/d/death_stranding.md) | 4.78 | 9,150 | 45 |
 | 112 | [Dishonored 2](games/d/dishonored_2.md) | 4.78 | 822 | 183 |
 | 112 | [Football Manager 2024](games/6/610a546d4e204215a0b9a1c8a382bacb.md) | 4.78 | 177 | 317 |
 | 112 | [Metro Exodus Standard Edition](games/m/metro_exodus_standard_edition.md) | 4.78 | 6,259 | 66 |
@@ -344,7 +344,7 @@
 | 324 | [The Banner Saga Epic Trilogy](games/t/the_banner_saga_epic_trilogy.md) | 4.65 | 0 | 591 |
 | 324 | [The Crew™ Motorfest Standard Edition](games/t/the_crew_motorfest.md) | 4.65 | 791 | 187 |
 | 324 | [THE KING OF FIGHTERS XV](games/t/the_king_of_fighters_xv.md) | 4.65 | 78 | 406 |
-| 324 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 310 | 260 |
+| 324 | [The Outlast Trials](games/t/the_outlast_trials.md) | 4.65 | 313 | 260 |
 | 324 | [Warhammer 40,000: Battlesector](games/w/warhammer_40000__battlesector.md) | 4.65 | 0 | 591 |
 | 347 | [APE OUT](games/a/ape_out.md) | 4.64 | 0 | 591 |
 | 347 | [Art of Rally](games/a/art_of_rally_1.md) | 4.64 | 45 | 477 |
@@ -402,7 +402,7 @@
 | 400 | [20XX](games/2/20xx.md) | 4.61 | 38 | 495 |
 | 400 | [Aeterna Noctis](games/a/aeterna_noctis.md) | 4.61 | 0 | 591 |
 | 400 | [Alien: Isolation](games/a/alien__isolation.md) | 4.61 | 141 | 342 |
-| 400 | [Control](games/c/control.md) | 4.61 | 9,144 | 45 |
+| 400 | [Control](games/c/control.md) | 4.61 | 9,153 | 44 |
 | 400 | [Darksiders II Deathinitive Edition](games/d/darksiders_ii_deathinitive_edition.md) | 4.61 | 401 | 242 |
 | 400 | [Darksiders Warmastered Edition](games/d/darksiders_warmastered_edition.md) | 4.61 | 81 | 405 |
 | 400 | [Darkwood](games/d/darkwood.md) | 4.61 | 329 | 257 |
@@ -598,7 +598,7 @@
 | 582 | [Yes, Your Grace](games/y/yes,_your_grace.md) | 4.52 | 0 | 591 |
 | 597 | [Assassin's Creed Syndicate Standard Edition](games/a/assassin's_creed_syndicate_standard_edition.md) | 4.51 | 146 | 339 |
 | 597 | [Auto Chess](games/a/auto_chess.md) | 4.51 | 885 | 177 |
-| 597 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,169 | 91 |
+| 597 | [BioShock 2 Remastered](games/b/bioshock_2_remastered.md) | 4.51 | 4,170 | 91 |
 | 597 | [Crying Suns](games/c/crying_suns.md) | 4.51 | 230 | 288 |
 | 597 | [CryoFall](games/c/cryofall.md) | 4.51 | 0 | 591 |
 | 597 | [Dead by Daylight](games/d/dead_by_daylight.md) | 4.51 | 39,992 | 15 |
@@ -627,7 +627,7 @@
 | 619 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 4.50 | 0 | 591 |
 | 619 | [Ghostbusters: Spirits Unleashed](games/g/ghostbusters__spirits_unleashed.md) | 4.50 | 329 | 257 |
 | 619 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 4.50 | 5,731 | 75 |
-| 619 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 3,354 | 101 |
+| 619 | [Honkai Impact 3rd](games/h/honkai_impact_3rd.md) | 4.50 | 3,360 | 101 |
 | 619 | [HUMANKIND™ Standard Edition](games/h/humankind™_digital_deluxe_edition.md) | 4.50 | 117 | 364 |
 | 619 | [Industries of Titan](games/i/industries_of_titan.md) | 4.50 | 0 | 591 |
 | 619 | [LEGO® Brawls](games/l/lego®_brawls.md) | 4.50 | 0 | 591 |
@@ -857,7 +857,7 @@
 | 849 | [Life Makeover](games/6/606d6845a902419ebe7b073d81676369.md) | 4.34 | 0 | 591 |
 | 849 | [Lords Mobile](games/c/cc356954a6d54c719a86d215b566520f.md) | 4.34 | 28 | 541 |
 | 849 | [Midnight Ghost Hunt](games/9/964f58c4c2074404bf9c359483ab1a48.md) | 4.34 | 98 | 388 |
-| 849 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 270 | 279 |
+| 849 | [Roller Champions™](games/r/roller_champions™.md) | 4.34 | 272 | 279 |
 | 849 | [Startup Panic](games/s/startup_panic.md) | 4.34 | 0 | 591 |
 | 849 | [Tails Noir](games/b/backbone.md) | 4.34 | 0 | 591 |
 | 849 | [Tower of Fantasy](games/t/tower_of_fantasy.md) | 4.34 | 414 | 241 |
