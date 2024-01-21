@@ -1,12 +1,12 @@
 # Hell is Others
 [Store](https://store.epicgames.com/en-US/p/hell-is-others-789262)  
 [View Rawdata](../../db/h/hell_is_others.json)  
-Rating: 4.39 (Ranked 788)  
+Rating: 4.39 (Ranked 789)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,890 |
-| Predator I | 23.00% | ~60,015 |
+| Survivor | 31.00% | ~80,891 |
+| Predator I | 23.00% | ~60,016 |
 | Fixer I | 10.00% | ~26,094 |
 | A week in Century City | 10.00% | ~26,094 |
 | The Wait | 7.00% | ~18,266 |
@@ -14,10 +14,10 @@ Rating: 4.39 (Ranked 788)
 | Cleaning Company | 6.00% | ~15,656 |
 | Well-oiled machine | 5.00% | ~13,047 |
 | Saver I | 5.00% | ~13,047 |
-| The Ascent | 4.00% | ~10,437 |
-| Pacifist | 4.00% | ~10,437 |
-| Vandalism | 4.00% | ~10,437 |
-| Capitalist I | 4.00% | ~10,437 |
+| The Ascent | 4.00% | ~10,438 |
+| Pacifist | 4.00% | ~10,438 |
+| Vandalism | 4.00% | ~10,438 |
+| Capitalist I | 4.00% | ~10,438 |
 | Fixer II | 3.00% | ~7,828 |
 | It took a while | 3.00% | ~7,828 |
 | Adrenaline | 3.00% | ~7,828 |
@@ -35,8 +35,8 @@ Rating: 4.39 (Ranked 788)
 | Green thumb II | 1.00% | ~2,609 |
 | Bricklayer | 1.00% | ~2,609 |
 | Run the Economy | 1.00% | ~2,609 |
-| Committed Relationship | 0.80% | ~2,087 |
-| Number 1 | 0.80% | ~2,087 |
+| Committed Relationship | 0.80% | ~2,088 |
+| Number 1 | 0.80% | ~2,088 |
 | The Gamble | 0.60% | ~1,566 |
 | A major purchase | 0.60% | ~1,566 |
 | Interior designer | 0.60% | ~1,566 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 788)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,936 (Ranked 69)  
+Progressed: 260,938 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 409)
 | 2024-01-18 | 260,810 | 3 |
 | 2024-01-19 | 260,851 | 3 |
 | 2024-01-20 | 260,901 | 3 |
-| 2024-01-21 | 260,936 | 3 |
+| 2024-01-21 | 260,938 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 450)  
 Sum: 388 (Ranked 365)  

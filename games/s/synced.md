@@ -5,24 +5,24 @@ Rating: 4.13 (Ranked 1,024)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 47.00% | ~42,158 |
-| More Power to You | 26.00% | ~23,321 |
-| As Far Away As Possible | 21.00% | ~18,836 |
-| A Most Unstable Organism | 14.00% | ~12,558 |
-| No Time to Follow Protocol | 9.00% | ~8,073 |
-| Nano Connoisseur | 8.00% | ~7,176 |
-| Float Like a Butterfly... | 7.00% | ~6,279 |
-| In Two Places At Once | 6.00% | ~5,382 |
-| Pulling Your Weight | 3.00% | ~2,691 |
-| Reaping Rivals | 3.00% | ~2,691 |
+| Your Lucky Day | 47.00% | ~42,168 |
+| More Power to You | 26.00% | ~23,327 |
+| As Far Away As Possible | 21.00% | ~18,841 |
+| A Most Unstable Organism | 14.00% | ~12,561 |
+| No Time to Follow Protocol | 9.00% | ~8,075 |
+| Nano Connoisseur | 8.00% | ~7,178 |
+| Float Like a Butterfly... | 7.00% | ~6,280 |
+| In Two Places At Once | 6.00% | ~5,383 |
+| Pulling Your Weight | 3.00% | ~2,692 |
+| Reaping Rivals | 3.00% | ~2,692 |
 | fifteenth Time's the Charm | 1.00% | ~897 |
 | Gone Rogue | 1.00% | ~897 |
-| Completely Customizable | 0.50% | ~448 |
+| Completely Customizable | 0.50% | ~449 |
 | Memory Keeper | 0.40% | ~359 |
 | Runs for Your Money | 0.30% | ~269 |
 | Past Master | 0.30% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,697 (Ranked 108)  
+Progressed: 89,719 (Ranked 108)  
 Completed: 75 (0.08%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,15 +169,15 @@ Completed: 75 (0.08%) (Ranked 333)
 | 2024-01-18 | 88,720 | 73 |
 | 2024-01-19 | 89,019 | 73 |
 | 2024-01-20 | 89,385 | 73 |
-| 2024-01-21 | 89,697 | 75 |
+| 2024-01-21 | 89,719 | 75 |
 ## Awards
 Max (Great for Beginners): 140  (Ranked 345)  
-Sum: 605 (Ranked 327)  
+Sum: 606 (Ranked 327)  
 Diff (max vs sum): 18  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 140 |
-| This game has Diverse Characters | 97 |
+| This game has Diverse Characters | 98 |
 | This game is Highly Recommended | 69 |
 | This game has Amazing Characters | 68 |
 | This game is Extremely Fun | 67 |
@@ -312,4 +312,4 @@ Diff (max vs sum): 18
 | 2024-01-18 | 4.13 | 138 | 596 |
 | 2024-01-19 | 4.12 | 138 | 598 |
 | 2024-01-20 | 4.13 | 140 | 603 |
-| 2024-01-21 | 4.13 | 140 | 605 |
+| 2024-01-21 | 4.13 | 140 | 606 |

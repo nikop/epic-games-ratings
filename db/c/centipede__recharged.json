@@ -2,7 +2,7 @@
   "ID": "a1edd0d2e28d4d298152c001e7c47e22",
   "Name": "Centipede: Recharged",
   "ProductSlug": "centipede-recharged",
-  "Ranking_Rating": 877,
+  "Ranking_Rating": 878,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 148,
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25513,
+  "EOS_Progressed": 25514,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 301,
+  "EOS_NewPlayers": 302,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -23835,6 +23835,11 @@
       "Time": "2024-01-21T20:06:11.2859432+00:00",
       "NumProgressed": 25513,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-21T21:05:36.8082152+00:00",
+      "NumProgressed": 25514,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 16,
@@ -23854,7 +23859,7 @@
       "Name": "Burning For You",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 6633
+      "UsersEstimate": 6634
     },
     {
       "ID": "Deadline",
@@ -23878,7 +23883,7 @@
       "Name": "Eyes On Fire",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 2806
+      "UsersEstimate": 2807
     },
     {
       "ID": "Feel_The_Thunder",
@@ -23942,7 +23947,7 @@
       "Name": "Shooting Shark",
       "Percentage": 47,
       "XP": 90,
-      "UsersEstimate": 11991
+      "UsersEstimate": 11992
     },
     {
       "ID": "Sole_Survivor",
@@ -23950,7 +23955,7 @@
       "Name": "Sole Survivor",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 8674
+      "UsersEstimate": 8675
     },
     {
       "ID": "Still_Burning",
@@ -23973,15 +23978,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25513,
+      "Progressed": 25514,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:06:11.2859427+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:05:36.8082148+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.7056201+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:01:52.0225605+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:06:11.2860597+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:01:20.5836113+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:05:36.808332+00:00"
 }

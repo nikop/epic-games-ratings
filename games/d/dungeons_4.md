@@ -5,11 +5,11 @@ Rating: 4.73 (Ranked 185)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~689 |
+| The Last Stand | 89.00% | ~697 |
 | Thalya – Simply Immortal | 88.00% | ~689 |
 | For the Horde! | 82.00% | ~642 |
 | Hammer Time, Round Two | 81.00% | ~634 |
-| The Hellwoods | 76.00% | ~595 |
+| The Hellwoods | 77.00% | ~603 |
 | The Plains of Strothalm | 72.00% | ~564 |
 | Experienced Thalya | 72.00% | ~564 |
 | Bad Elves Go Everywhere | 69.00% | ~540 |
@@ -51,7 +51,7 @@ Rating: 4.73 (Ranked 185)
 | Bonus Evilness | 27.00% | ~211 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~211 |
 | The Last Stand - This Time For Real! | 26.00% | ~204 |
-| Rubble and Ashes | 23.00% | ~180 |
+| Rubble and Ashes | 24.00% | ~188 |
 | Lavalumps on Ice! | 22.00% | ~172 |
 | To Infinity And Beyond! | 21.00% | ~164 |
 | To the Max! | 20.00% | ~157 |

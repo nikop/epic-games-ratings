@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5009,9 +5009,9 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13328,
+  "EOS_Progressed": 13329,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20049,6 +20049,11 @@
       "Time": "2024-01-21T17:11:35.3037611+00:00",
       "NumProgressed": 13328,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T21:11:19.5664987+00:00",
+      "NumProgressed": 13329,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20068,7 +20073,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2532
+      "UsersEstimate": 2533
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -20196,7 +20201,7 @@
       "Name": "Mythic Choices",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2132
+      "UsersEstimate": 2133
     },
     {
       "ID": "19_EqualToAroden",
@@ -20987,21 +20992,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12110,
+      "Progressed": 12111,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13328,
+      "Progressed": 13329,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-21T05:00:20.592995+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:11:48.7806432+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:11:19.5664983+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:00:50.1608448+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:11:48.7808051+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:00:24.5094378+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:11:19.5666602+00:00"
 }

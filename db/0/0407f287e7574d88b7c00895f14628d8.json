@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 314,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 309,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 234,
+  "EOS_Progressed": 235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -989,6 +989,11 @@
       "Time": "2024-01-21T15:04:07.2216947+00:00",
       "NumProgressed": 234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T21:03:58.1181368+00:00",
+      "NumProgressed": 235,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -1031,9 +1036,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 141
     },
     {
       "ID": "dl2",
@@ -1079,9 +1084,9 @@
       "ID": "fw1",
       "SetID": "b1ggf28",
       "Name": "City Center",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 115
     },
     {
       "ID": "fw2",
@@ -1105,7 +1110,7 @@
       "Name": "Skilled Workers",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "g2",
@@ -1113,7 +1118,7 @@
       "Name": "Efficient Tools",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "g3",
@@ -1129,7 +1134,7 @@
       "Name": "Civilized Land",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "j2",
@@ -1161,7 +1166,7 @@
       "Name": "Waterpower",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "jg3",
@@ -1177,7 +1182,7 @@
       "Name": "Treatment of plague",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "jk2",
@@ -1233,7 +1238,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "k3",
@@ -1271,9 +1276,9 @@
       "ID": "r1",
       "SetID": "b1ggf28",
       "Name": "Prosperity",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "r2",
@@ -1281,7 +1286,7 @@
       "Name": "A Welcoming Settlement",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "r3",
@@ -1313,7 +1318,7 @@
       "Name": "Against the Cold",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "w2",
@@ -1337,7 +1342,7 @@
       "Name": "Happiness Maintainer",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "x2",
@@ -1345,7 +1350,7 @@
       "Name": "Hard-Drinking",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "x3",
@@ -1408,14 +1413,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 234,
+      "Progressed": 235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:04:25.1160037+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:03:58.1181363+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:03:42.2122057+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:04:25.1160533+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:03:21.1294601+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:03:58.1181761+00:00"
 }

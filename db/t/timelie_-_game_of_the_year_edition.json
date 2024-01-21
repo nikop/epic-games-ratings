@@ -4,8 +4,8 @@
   "ProductSlug": "timelie",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-05-28T15:00:00+00:00",
     "PcReleaseDate": "2021-05-28T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:14.5450662+00:00",
   "LastChanged": "2023-03-31T05:58:14.5450663+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.4583338+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:02:11.8586821+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:09:07.5888327+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:01:38.9349772+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:08:50.8880972+00:00"
 }

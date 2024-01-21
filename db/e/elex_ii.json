@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,7 +577,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 277,
+  "EOS_Progressed": 278,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
@@ -1682,6 +1682,11 @@
       "Time": "2024-01-21T19:06:58.5448883+00:00",
       "NumProgressed": 277,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T21:05:57.5044764+00:00",
+      "NumProgressed": 278,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1732,9 +1737,9 @@
       "ID": "10MAPPARTS",
       "SetID": "a1angca",
       "Name": "Treasure Hunter",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "20AUDIOLOGS",
@@ -1750,7 +1755,7 @@
       "Name": "Beam Me Up",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "20TRADER",
@@ -1804,9 +1809,9 @@
       "ID": "35TELEPORTS",
       "SetID": "a1angca",
       "Name": "Globetrotter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "50000ELEXIT",
@@ -1846,7 +1851,7 @@
       "Name": "Free as a Bird",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "ALLPERSONALITY",
@@ -1900,9 +1905,9 @@
       "ID": "CHOSEBSK",
       "SetID": "a1angca",
       "Name": "Berserker",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "CHOSEKLE",
@@ -1934,7 +1939,7 @@
       "Name": "Creator",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "DESTRUCTION",
@@ -1950,7 +1955,7 @@
       "Name": "Perfectionist",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "FINDALLIES",
@@ -1966,7 +1971,7 @@
       "Name": "Festival-goer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "FINDCITY",
@@ -2084,24 +2089,24 @@
       "ID": "LOVECAJA",
       "SetID": "a1angca",
       "Name": "Lover",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 30
+      "UsersEstimate": 33
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 277,
+      "Progressed": 278,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:06:33.8200914+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:05:57.5044759+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:00:17.9635113+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:06:33.8201432+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:59:53.7678891+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:05:57.5045198+00:00"
 }

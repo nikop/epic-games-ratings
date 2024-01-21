@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 165,
-  "Ranking_EOS_NewCompleters": 36,
+  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2002-10-29T12:21:00+00:00",
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16623,
+  "EOS_Progressed": 16627,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 212,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -18774,6 +18774,11 @@
       "Time": "2024-01-21T20:11:26.7903521+00:00",
       "NumProgressed": 16623,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-21T21:10:59.5183642+00:00",
+      "NumProgressed": 16627,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18801,7 +18806,7 @@
       "Name": "Iron-y",
       "Percentage": 10,
       "XP": 35,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH04",
@@ -18817,7 +18822,7 @@
       "Name": "One is Better Than Two",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH06",
@@ -18873,7 +18878,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH13",
@@ -18889,7 +18894,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7148
+      "UsersEstimate": 7150
     },
     {
       "ID": "ACH15",
@@ -18913,7 +18918,7 @@
       "Name": "Gun for Hire",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 1662
+      "UsersEstimate": 1663
     },
     {
       "ID": "ACH18",
@@ -18945,7 +18950,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7813
+      "UsersEstimate": 7815
     },
     {
       "ID": "ACH22",
@@ -18953,7 +18958,7 @@
       "Name": "Life of the Party",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "ACH23",
@@ -18961,7 +18966,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4488
+      "UsersEstimate": 4489
     },
     {
       "ID": "ACH24",
@@ -19001,7 +19006,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH29",
@@ -19025,7 +19030,7 @@
       "Name": "Chopper\u2019d Up",
       "Percentage": 2,
       "XP": 55,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "ACH32",
@@ -19056,7 +19061,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16623,
+      "Progressed": 16627,
       "Completed": 109
     }
   ],
@@ -19064,8 +19069,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:11:26.7903515+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:10:59.5183636+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:01:45.718761+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:11:26.7904489+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:01:14.7809826+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:10:59.5184829+00:00"
 }

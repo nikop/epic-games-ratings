@@ -34,6 +34,7 @@ Number of Ratings: 45  (23.09.2022)
 | All My Birds, Safely Home | 0.90% | ~15 |
 | No Time for Clawmonsters | 0.90% | ~15 |
 | Bears are Scary | 0.80% | ~13 |
+| Fight Like a Bird | 0.80% | ~13 |
 | Tempest | 0.80% | ~13 |
 | Storied Past | 0.70% | ~11 |
 | Worldwalker | 0.70% | ~11 |
@@ -41,7 +42,6 @@ Number of Ratings: 45  (23.09.2022)
 | Plague Doctor | 0.70% | ~11 |
 | A Hunger, Sated | 0.70% | ~11 |
 | Wingknight's Prowess | 0.70% | ~11 |
-| Fight Like a Bird | 0.70% | ~11 |
 | Grillmaster | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | We Emerge Changed | 0.60% | ~10 |

@@ -18860,10 +18860,10 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056709,
+  "EOS_Progressed": 1056730,
   "EOS_Completed": 3144,
-  "EOS_NewPlayers": 5455,
-  "EOS_NewCompleters": 50,
+  "EOS_NewPlayers": 5422,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50530,6 +50530,11 @@
       "Time": "2024-01-21T20:10:07.7799306+00:00",
       "NumProgressed": 1056709,
       "NumCompleted": 3144
+    },
+    {
+      "Time": "2024-01-21T21:09:45.6960628+00:00",
+      "NumProgressed": 1056730,
+      "NumCompleted": 3144
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51060,9 +51065,9 @@
       "ID": "DirtyWork",
       "SetID": "23nboa5",
       "Name": "Dirty Deeds",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 185
+      "UsersEstimate": 371
     },
     {
       "ID": "EasyComeEasyGo",
@@ -51077,21 +51082,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056709,
+      "Progressed": 1056730,
       "Completed": 3144
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185332,
-      "Completed": 10674
+      "Progressed": 185353,
+      "Completed": 10676
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-21T20:03:55.6309858+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:10:07.7799304+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:09:45.6960623+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:03:55.6309864+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:10:07.7800849+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:03:33.1099548+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:09:45.6962735+00:00"
 }

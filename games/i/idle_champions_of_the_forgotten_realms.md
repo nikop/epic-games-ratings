@@ -19,8 +19,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Welcome to Sigil | 0.80% | ~1,771 |
 | A Persistent Buzzing | 0.70% | ~1,786 |
 | Pure Energy | 0.70% | ~1,786 |
-| Fast Food | 0.70% | ~1,549 |
-| Terror in the Dark | 0.60% | ~1,530 |
+| Fast Food | 0.70% | ~1,550 |
+| Terror in the Dark | 0.60% | ~1,531 |
 | Maddening | 0.50% | ~1,275 |
 | Beast Mode | 0.50% | ~1,275 |
 | A Mysterious Summons | 0.50% | ~1,275 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,081 (Ranked 71)  
+Progressed: 255,090 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 255,081 | 2,629 |
+| 2024-01-21 | 255,090 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,596 (Ranked 41)  

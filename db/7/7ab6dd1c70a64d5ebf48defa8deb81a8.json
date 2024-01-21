@@ -2,7 +2,7 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 981,
+  "Ranking_Rating": 980,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2422,
+  "EOS_Progressed": 2423,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 93,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4941,6 +4941,11 @@
       "Time": "2024-01-21T20:11:40.0856646+00:00",
       "NumProgressed": 2422,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T21:11:11.8233826+00:00",
+      "NumProgressed": 2423,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4952,7 +4957,7 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1574
+      "UsersEstimate": 1575
     },
     {
       "ID": "ACH_02",
@@ -4966,9 +4971,9 @@
       "ID": "ACH_03",
       "SetID": "efe2lj",
       "Name": "Powerful Allies",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 533
+      "UsersEstimate": 557
     },
     {
       "ID": "ACH_04",
@@ -5144,7 +5149,7 @@
       "Name": "Fashion Victim",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH_26",
@@ -5192,7 +5197,7 @@
       "Name": "Stone Collection",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ACH_33",
@@ -5208,7 +5213,7 @@
       "Name": "The Collector",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 702
+      "UsersEstimate": 703
     },
     {
       "ID": "ACH_35",
@@ -5239,7 +5244,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2422,
+      "Progressed": 2423,
       "Completed": 5
     }
   ],
@@ -5247,8 +5252,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:11:40.0856644+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:11:11.8233818+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:00:03.6557211+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:11:40.0856985+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:59:40.7318047+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:11:11.8234201+00:00"
 }

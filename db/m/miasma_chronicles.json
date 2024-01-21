@@ -2,13 +2,13 @@
   "ID": "632b8c18774d480d978cb116518cd06b",
   "Name": "Miasma Chronicles",
   "ProductSlug": "miasma-chronicles",
-  "Ranking_Rating": 798,
+  "Ranking_Rating": 799,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -4678,9 +4678,9 @@
       "ID": "ENDGAME",
       "SetID": "9a4jnji",
       "Name": "Endgame",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 484
+      "UsersEstimate": 501
     },
     {
       "ID": "EXORCIST",
@@ -4943,8 +4943,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-19T05:03:25.8789879+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:11:44.0592979+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:11:15.0467097+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:42.9692583+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:03:54.3640102+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:11:44.0593424+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:03:32.0537074+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:11:15.046755+00:00"
 }

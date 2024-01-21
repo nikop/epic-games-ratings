@@ -4,11 +4,11 @@
   "ProductSlug": "god-of-war",
   "Ranking_Rating": 17,
   "Ranking_Popularity": 80,
-  "Ranking_PopularitySum": 102,
+  "Ranking_PopularitySum": 100,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 561,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-01-14T16:00:00+00:00",
     "PcReleaseDate": "2022-01-14T16:00:00+00:00",
@@ -5115,10 +5115,16 @@
       "Rating": 4.88,
       "NumberOfAwards": 9452,
       "NumberOfAwardsMax": 5034
+    },
+    {
+      "Time": "2024-01-21T21:03:25.2453917+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 9571,
+      "NumberOfAwardsMax": 5034
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 9452,
+  "NumberOfAwards": 9571,
   "NumberOfAwardsMax": 5034,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -5210,7 +5216,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 115
+      "Count": 119
     }
   ],
   "EOS_Progressed": 0,
@@ -5224,8 +5230,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:26:02.7260883+00:00",
-  "LastChanged": "2024-01-21T18:03:50.5233606+00:00",
+  "LastChanged": "2024-01-21T21:03:25.2453914+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:38.5141756+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:03:47.6499751+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:04:49.8741213+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:03:25.2453932+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:04:21.0797039+00:00"
 }

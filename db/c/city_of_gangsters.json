@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1084,9 +1084,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363137,
+  "EOS_Progressed": 363140,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 994,
+  "EOS_NewPlayers": 992,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32679,6 +32679,11 @@
       "Time": "2024-01-21T20:05:15.3251564+00:00",
       "NumProgressed": 363137,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-21T21:04:45.0165421+00:00",
+      "NumProgressed": 363140,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -32706,7 +32711,7 @@
       "Name": "Cleaning House",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43576
+      "UsersEstimate": 43577
     },
     {
       "ID": "ach004",
@@ -32746,7 +32751,7 @@
       "Name": "Room in the Back",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 43576
+      "UsersEstimate": 43577
     },
     {
       "ID": "ach009",
@@ -32834,7 +32839,7 @@
       "Name": "Considerable Clams",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 14525
+      "UsersEstimate": 14526
     },
     {
       "ID": "ach020",
@@ -32898,7 +32903,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167043
+      "UsersEstimate": 167044
     },
     {
       "ID": "ach028",
@@ -32906,7 +32911,7 @@
       "Name": "Gin Joint",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14525
+      "UsersEstimate": 14526
     },
     {
       "ID": "ach029",
@@ -32938,7 +32943,7 @@
       "Name": "An Affront to the Enemy",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14525
+      "UsersEstimate": 14526
     },
     {
       "ID": "ach033",
@@ -33034,7 +33039,7 @@
       "Name": "Friends from Back Home",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 14525
+      "UsersEstimate": 14526
     },
     {
       "ID": "ach045",
@@ -33114,7 +33119,7 @@
       "Name": "Bees Knees Bootlegger",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 14525
+      "UsersEstimate": 14526
     },
     {
       "ID": "ach055",
@@ -33202,7 +33207,7 @@
       "Name": "The Dawn of Automation",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50839
+      "UsersEstimate": 50840
     },
     {
       "ID": "ach067",
@@ -33226,7 +33231,7 @@
       "Name": "Extraordinary Logistics",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 50839
+      "UsersEstimate": 50840
     },
     {
       "ID": "ach070",
@@ -33266,7 +33271,7 @@
       "Name": "Half Century Mark",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 14525
+      "UsersEstimate": 14526
     },
     {
       "ID": "ach075",
@@ -33329,7 +33334,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363137,
+      "Progressed": 363140,
       "Completed": 7
     }
   ],
@@ -33337,8 +33342,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-21T15:58:48.6350263+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:05:15.3251559+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:04:45.0165412+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:59:54.2675589+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:05:15.3253362+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:59:32.1018053+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:04:45.0167875+00:00"
 }

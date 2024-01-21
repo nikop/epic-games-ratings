@@ -1,27 +1,27 @@
 # The Riflemen
 [Store](https://store.epicgames.com/en-US/p/the-riflemen-8be608)  
 [View Rawdata](../../db/t/the_riflemen.json)  
-Rating: 4.38 (Ranked 798)  
+Rating: 4.38 (Ranked 799)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First blood | 75.00% | ~56,620 |
-| Head popping I | 4.00% | ~3,020 |
+| First blood | 75.00% | ~56,660 |
+| Head popping I | 4.00% | ~3,022 |
 | It's a piece of cake | 1.00% | ~755 |
-| Rifle Master | 0.70% | ~528 |
-| Hang in there | 0.50% | ~377 |
-| Head popping II | 0.30% | ~226 |
-| Bazooka Master | 0.10% | ~75 |
-| Grenade Master | 0.10% | ~75 |
-| Head popping III | 0.10% | ~75 |
-| Knife Master | 0.10% | ~75 |
-| He who laughs last laughs best | 0.10% | ~75 |
-| Shotgun Master | 0.10% | ~75 |
-| Sniper Master | 0.10% | ~75 |
-| Sword Master | 0.10% | ~75 |
+| Rifle Master | 0.70% | ~529 |
+| Hang in there | 0.50% | ~378 |
+| Head popping II | 0.30% | ~227 |
+| Bazooka Master | 0.10% | ~76 |
+| Grenade Master | 0.10% | ~76 |
+| Head popping III | 0.10% | ~76 |
+| Knife Master | 0.10% | ~76 |
+| He who laughs last laughs best | 0.10% | ~76 |
+| Shotgun Master | 0.10% | ~76 |
+| Sniper Master | 0.10% | ~76 |
+| Sword Master | 0.10% | ~76 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 75,493 (Ranked 115)  
-Completed: 11,760 (15.58%) (Ranked 29)  
+Progressed: 75,546 (Ranked 115)  
+Completed: 11,760 (15.57%) (Ranked 29)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -182,7 +182,7 @@ Completed: 11,760 (15.58%) (Ranked 29)
 | 2024-01-18 | 73,310 | 11,760 |
 | 2024-01-19 | 73,904 | 11,760 |
 | 2024-01-20 | 74,814 | 11,760 |
-| 2024-01-21 | 75,493 | 11,760 |
+| 2024-01-21 | 75,546 | 11,760 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

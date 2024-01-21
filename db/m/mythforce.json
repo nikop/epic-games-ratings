@@ -4,7 +4,7 @@
   "ProductSlug": "mythforce-d2710b",
   "Ranking_Rating": 662,
   "Ranking_Popularity": 506,
-  "Ranking_PopularitySum": 385,
+  "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 190,
@@ -878,9 +878,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6443,
+  "EOS_Progressed": 6444,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 104,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13608,6 +13608,11 @@
       "Time": "2024-01-21T18:06:20.4994453+00:00",
       "NumProgressed": 6443,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T21:05:55.4499309+00:00",
+      "NumProgressed": 6444,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13644,7 +13649,7 @@
       "Name": "Death Becomes You",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 516
     },
     {
       "ID": "MF_Ach_DebuffDogpile",
@@ -13660,7 +13665,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "MF_Ach_FacerollTheBones",
@@ -13676,7 +13681,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1417
+      "UsersEstimate": 1418
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13732,7 +13737,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1546
+      "UsersEstimate": 1547
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13740,7 +13745,7 @@
       "Name": "Next Time on MythForce...",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "MF_Ach_OnThisEpisode",
@@ -13780,7 +13785,7 @@
       "Name": "Ten Steps from the Grave",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "MF_Ach_ThatllLeaveAMark",
@@ -13803,15 +13808,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6443,
+      "Progressed": 6444,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-21T18:00:55.1150058+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:06:31.5091133+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:05:55.4499306+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:00:56.3037046+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:06:31.5091964+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:00:30.8906203+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:05:55.4499856+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 292,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -103,7 +103,7 @@
   "Tags": [],
   "EOS_Progressed": 783,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 17,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.34,
   "EosHistory": [
@@ -2601,9 +2601,9 @@
       "ID": "ach_main01begin_completed",
       "SetID": "4hg22ll",
       "Name": "The Last Stand",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 689
+      "UsersEstimate": 697
     },
     {
       "ID": "ach_main01begin_die",
@@ -2649,9 +2649,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 76,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 595
+      "UsersEstimate": 603
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2985,9 +2985,9 @@
       "ID": "ach_main16ring_spawners",
       "SetID": "4hg22ll",
       "Name": "Rubble and Ashes",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 180
+      "UsersEstimate": 188
     },
     {
       "ID": "ach_main17stone_completed",
@@ -3098,8 +3098,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:10:55.4887166+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:10:31.0622407+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:57:55.5685753+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:10:55.4887666+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:57:43.3902036+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:10:31.0623136+00:00"
 }

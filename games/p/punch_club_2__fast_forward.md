@@ -4,34 +4,34 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Such a strange dream… | 89.00% | ~533 |
-| Your first fight | 84.00% | ~503 |
-| Good Person Chip | 82.00% | ~491 |
-| First winning | 79.00% | ~473 |
-| Your first job | 78.00% | ~467 |
-| Depressed visitor | 72.00% | ~431 |
-| Neurotrainer – power gainer! | 71.00% | ~425 |
-| Old movies enjoyer | 70.00% | ~419 |
-| Fitness professional | 69.00% | ~413 |
-| Employee of the week | 68.00% | ~407 |
-| Your own amateur gym | 65.00% | ~389 |
-| First defeat | 63.00% | ~377 |
-| Run K, run! | 63.00% | ~377 |
-| No bullying more | 61.00% | ~365 |
-| Hello, world! | 61.00% | ~365 |
-| Fighting is cool | 60.00% | ~359 |
-| Pal of your father? | 59.00% | ~353 |
-| Spirit of the past | 57.00% | ~341 |
-| Employee of the month | 56.00% | ~335 |
-| Law student | 55.00% | ~329 |
-| Workout professional | 52.00% | ~311 |
-| Little hacker | 52.00% | ~311 |
-| Handyman | 52.00% | ~311 |
-| Champion – starter pack | 52.00% | ~311 |
-| It's good to be alive | 52.00% | ~311 |
-| Fight for life | 51.00% | ~305 |
-| Own four walls | 51.00% | ~305 |
-| Intriguing candies | 51.00% | ~305 |
+| Such a strange dream… | 89.00% | ~534 |
+| Your first fight | 84.00% | ~504 |
+| Good Person Chip | 82.00% | ~492 |
+| First winning | 79.00% | ~474 |
+| Your first job | 78.00% | ~468 |
+| Depressed visitor | 72.00% | ~432 |
+| Neurotrainer – power gainer! | 71.00% | ~426 |
+| Old movies enjoyer | 70.00% | ~420 |
+| Fitness professional | 69.00% | ~414 |
+| Employee of the week | 68.00% | ~408 |
+| Your own amateur gym | 65.00% | ~390 |
+| First defeat | 63.00% | ~378 |
+| Run K, run! | 63.00% | ~378 |
+| No bullying more | 61.00% | ~366 |
+| Hello, world! | 61.00% | ~366 |
+| Fighting is cool | 60.00% | ~360 |
+| Pal of your father? | 59.00% | ~354 |
+| Spirit of the past | 57.00% | ~342 |
+| Employee of the month | 56.00% | ~336 |
+| Law student | 55.00% | ~330 |
+| Workout professional | 52.00% | ~312 |
+| Little hacker | 52.00% | ~312 |
+| Handyman | 52.00% | ~312 |
+| Champion – starter pack | 52.00% | ~312 |
+| It's good to be alive | 52.00% | ~312 |
+| Fight for life | 51.00% | ~306 |
+| Own four walls | 51.00% | ~306 |
+| Intriguing candies | 51.00% | ~306 |
 | Employee of the year | 50.00% | ~300 |
 | Extreme neuropower! | 47.00% | ~282 |
 | Legal courier | 46.00% | ~276 |
@@ -54,7 +54,7 @@
 | Gang wrangler | 30.00% | ~180 |
 | Absolute Champion! | 30.00% | ~180 |
 | Seashell hunter | 30.00% | ~180 |
-| Problems of cyborgs | 29.00% | ~174 |
+| Problems of cyborgs | 28.00% | ~168 |
 | Another world | 28.00% | ~168 |
 | The lonesome road | 28.00% | ~168 |
 | Family comes first | 28.00% | ~168 |
@@ -71,7 +71,7 @@
 | Your own way | 25.00% | ~150 |
 | Silver’s past | 24.00% | ~144 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 599 (Ranked 347)  
+Progressed: 600 (Ranked 347)  
 Completed: 9 (1.50%) (Ranked 154)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -202,4 +202,4 @@ Completed: 9 (1.50%) (Ranked 154)
 | 2024-01-18 | 592 | 9 |
 | 2024-01-19 | 593 | 9 |
 | 2024-01-20 | 597 | 9 |
-| 2024-01-21 | 599 | 9 |
+| 2024-01-21 | 600 | 9 |

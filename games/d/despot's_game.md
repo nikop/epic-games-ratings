@@ -14,7 +14,7 @@ Rating: 4.50 (Ranked 619)
 | No Mercy | 43.00% | ~217 |
 | The Return of a Rat | 40.00% | ~202 |
 | Fat of the Earth | 36.00% | ~181 |
-| Last Man Standing | 31.00% | ~156 |
+| Last Man Standing | 32.00% | ~161 |
 | He's Seen It All | 28.00% | ~141 |
 | Great Hero | 28.00% | ~141 |
 | Campaigning | 27.00% | ~136 |

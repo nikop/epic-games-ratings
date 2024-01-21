@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 306,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 280,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-03-30T16:00:00+00:00",
     "PcReleaseDate": "2023-03-30T16:00:00+00:00",
@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 975,
+  "EOS_Progressed": 976,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -4237,6 +4237,11 @@
       "Time": "2024-01-21T19:05:24.8489467+00:00",
       "NumProgressed": 975,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T21:04:31.6524491+00:00",
+      "NumProgressed": 976,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4302,9 +4307,9 @@
       "ID": "REACH_DECEMBER_1919",
       "SetID": "6kcl14p",
       "Name": "That\u0027s Not What Happened",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 70,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "USE_UNDERMINE",
@@ -4328,7 +4333,7 @@
       "Name": "Das Ist Endg\u00FCltig!",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "WIN_CAMPAIGN_MILITARY_VICTORY",
@@ -4343,7 +4348,7 @@
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 975,
+      "Progressed": 976,
       "Completed": 0
     }
   ],
@@ -4351,8 +4356,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-01-12T11:00:14.7563806+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:05:00.896445+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:04:31.6524487+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.3888971+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:57:59.6675811+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:05:00.8964736+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:57:47.2317664+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:04:31.652479+00:00"
 }

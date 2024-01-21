@@ -5,8 +5,8 @@ Rating: 4.24 (Ranked 938)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Storm Warning | 72.00% | ~891 |
-| Highballer | 61.00% | ~755 |
+| Storm Warning | 72.00% | ~892 |
+| Highballer | 61.00% | ~756 |
 | Dirty Roller | 34.00% | ~421 |
 | Regional Juniors Champion | 32.00% | ~396 |
 | Wheeler Dealer | 26.00% | ~322 |
@@ -26,7 +26,7 @@ Rating: 4.24 (Ranked 938)
 | Human Lover | 0.50% | ~6 |
 | Rocketeer | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,238 (Ranked 290)  
+Progressed: 1,239 (Ranked 290)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -65,7 +65,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 1,203 | 0 |
 | 2024-01-19 | 1,215 | 0 |
 | 2024-01-20 | 1,230 | 0 |
-| 2024-01-21 | 1,238 | 0 |
+| 2024-01-21 | 1,239 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

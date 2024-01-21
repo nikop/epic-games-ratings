@@ -15,28 +15,28 @@ Number of Ratings: 1,307  (23.09.2022)
 | Intrepid | 4.00% | ~683 |
 | Hanging Gardens | 4.00% | ~683 |
 | Oracle | 4.00% | ~683 |
-| Ambitious | 3.00% | ~512 |
-| Enlightened | 3.00% | ~512 |
-| Fountainhead | 3.00% | ~512 |
-| Glorious | 3.00% | ~512 |
-| Good | 3.00% | ~512 |
-| Just | 3.00% | ~512 |
-| Keystone | 3.00% | ~512 |
-| Learned | 3.00% | ~512 |
-| Mason | 3.00% | ~512 |
-| Noble | 3.00% | ~512 |
-| Pioneer | 3.00% | ~512 |
-| Strong | 3.00% | ~512 |
-| Warrior | 3.00% | ~512 |
-| Developing Cities | 3.00% | ~512 |
-| Strong Cities | 3.00% | ~512 |
-| Pyramids | 3.00% | ~512 |
-| Learn to Play 1 | 3.00% | ~512 |
-| Judaism | 3.00% | ~512 |
-| Babylonian Paganism | 3.00% | ~512 |
-| Greek Paganism | 3.00% | ~512 |
-| Naming Landmarks | 3.00% | ~512 |
-| Trade Caravan | 3.00% | ~512 |
+| Ambitious | 3.00% | ~513 |
+| Enlightened | 3.00% | ~513 |
+| Fountainhead | 3.00% | ~513 |
+| Glorious | 3.00% | ~513 |
+| Good | 3.00% | ~513 |
+| Just | 3.00% | ~513 |
+| Keystone | 3.00% | ~513 |
+| Learned | 3.00% | ~513 |
+| Mason | 3.00% | ~513 |
+| Noble | 3.00% | ~513 |
+| Pioneer | 3.00% | ~513 |
+| Strong | 3.00% | ~513 |
+| Warrior | 3.00% | ~513 |
+| Developing Cities | 3.00% | ~513 |
+| Strong Cities | 3.00% | ~513 |
+| Pyramids | 3.00% | ~513 |
+| Learn to Play 1 | 3.00% | ~513 |
+| Judaism | 3.00% | ~513 |
+| Babylonian Paganism | 3.00% | ~513 |
+| Greek Paganism | 3.00% | ~513 |
+| Naming Landmarks | 3.00% | ~513 |
+| Trade Caravan | 3.00% | ~513 |
 | Regicide | 2.00% | ~342 |
 | Drillmaster | 2.00% | ~342 |
 | Brilliant | 2.00% | ~342 |
@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a Single Player Game | 1.00% | ~171 |
 | The Clergy | 1.00% | ~171 |
 | Kushite Paganism | 1.00% | ~171 |
+| Capable | 0.90% | ~154 |
 | Conqueror | 0.90% | ~154 |
 | Subjugator | 0.90% | ~154 |
 | Landowners | 0.90% | ~154 |
@@ -103,13 +104,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 0.90% | ~154 |
 | Legionary | 0.90% | ~154 |
 | Double Victory | 0.90% | ~154 |
-| Capable | 0.80% | ~137 |
 | Invincible | 0.80% | ~137 |
 | Lion | 0.80% | ~137 |
 | Ready | 0.80% | ~137 |
 | Assyrian Paganism | 0.80% | ~137 |
 | Industrial Progress | 0.80% | ~137 |
 | Gnosticism | 0.80% | ~137 |
+| Redemption | 0.80% | ~137 |
 | Cimmerian Archer | 0.80% | ~137 |
 | Phalangite | 0.80% | ~137 |
 | Kushite Pyramids | 0.80% | ~137 |
@@ -124,21 +125,20 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.70% | ~120 |
 | Hittite Paganism | 0.70% | ~120 |
 | Enlightenment | 0.70% | ~120 |
-| Redemption | 0.70% | ~120 |
 | Revelation | 0.70% | ~120 |
 | Veneration | 0.70% | ~120 |
 | Kushite Cavalry | 0.70% | ~120 |
 | Ambition Victory | 0.70% | ~120 |
-| Clerics | 0.60% | ~102 |
-| Church of the Holy Sepulchre | 0.60% | ~102 |
-| Adur Burzen-Mihr | 0.60% | ~102 |
-| Carthage | 0.60% | ~102 |
-| Rome | 0.60% | ~102 |
-| One True Faith | 0.60% | ~102 |
-| Turreted Elephant | 0.60% | ~102 |
-| All Nations | 0.60% | ~102 |
-| Deposed Tribe | 0.60% | ~102 |
-| Jebel Barkal | 0.60% | ~102 |
+| Clerics | 0.60% | ~103 |
+| Church of the Holy Sepulchre | 0.60% | ~103 |
+| Adur Burzen-Mihr | 0.60% | ~103 |
+| Carthage | 0.60% | ~103 |
+| Rome | 0.60% | ~103 |
+| One True Faith | 0.60% | ~103 |
+| Turreted Elephant | 0.60% | ~103 |
+| All Nations | 0.60% | ~103 |
+| Deposed Tribe | 0.60% | ~103 |
+| Jebel Barkal | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~85 |
 | Old | 0.50% | ~85 |
 | Learn to Play 5 | 0.50% | ~85 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,083 (Ranked 170)  
+Progressed: 17,086 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,083 | 5 |
+| 2024-01-21 | 17,086 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

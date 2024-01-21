@@ -6,20 +6,20 @@ Number of Ratings: 1,316  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,399 |
-| Wallbanger | 5.00% | ~26,399 |
-| Exploitative | 4.00% | ~21,119 |
-| High Speed Low Drag | 4.00% | ~21,119 |
-| Wet Feet | 4.00% | ~21,119 |
-| Checkpoint Victory | 3.00% | ~15,839 |
-| Lucky | 3.00% | ~15,839 |
-| Stylin' | 3.00% | ~15,839 |
-| Turf War | 3.00% | ~15,839 |
-| Banged | 2.00% | ~10,559 |
-| First Blood | 2.00% | ~10,559 |
-| Flaccid Paralysis | 2.00% | ~10,559 |
-| Push Victory | 2.00% | ~10,559 |
-| Self-destructive | 2.00% | ~10,559 |
+| Point Shooting | 5.00% | ~26,400 |
+| Wallbanger | 5.00% | ~26,400 |
+| Exploitative | 4.00% | ~21,120 |
+| High Speed Low Drag | 4.00% | ~21,120 |
+| Wet Feet | 4.00% | ~21,120 |
+| Checkpoint Victory | 3.00% | ~15,840 |
+| Lucky | 3.00% | ~15,840 |
+| Stylin' | 3.00% | ~15,840 |
+| Turf War | 3.00% | ~15,840 |
+| Banged | 2.00% | ~10,560 |
+| First Blood | 2.00% | ~10,560 |
+| Flaccid Paralysis | 2.00% | ~10,560 |
+| Push Victory | 2.00% | ~10,560 |
+| Self-destructive | 2.00% | ~10,560 |
 | Blindfire | 1.00% | ~5,280 |
 | Ruthless | 1.00% | ~5,280 |
 | Semper Paratus | 1.00% | ~5,280 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~528 |
 | Road Hazard | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 527,971 (Ranked 40)  
+Progressed: 528,001 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,11 +318,11 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-18 | 526,642 | 2 |
 | 2024-01-19 | 527,024 | 2 |
 | 2024-01-20 | 527,542 | 2 |
-| 2024-01-21 | 527,971 | 2 |
+| 2024-01-21 | 528,001 | 2 |
 ## Awards
-Max (Quickly Understood Controls): 426  (Ranked 238)  
+Max (Quickly Understood Controls): 426  (Ranked 239)  
 Sum: 3,431 (Ranked 178)  
-Diff (max vs sum): 60  
+Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 426 |

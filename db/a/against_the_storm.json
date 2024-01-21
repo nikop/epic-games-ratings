@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 173,
-  "Ranking_EOS_NewCompleters": 3863,
+  "Ranking_EOS_NewCompleters": 3864,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4049,9 +4049,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20953,
+  "EOS_Progressed": 20956,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20264,6 +20264,11 @@
       "Time": "2024-01-21T20:09:32.1575828+00:00",
       "NumProgressed": 20953,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-21T21:09:13.6613024+00:00",
+      "NumProgressed": 20956,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20330,9 +20335,9 @@
       "ID": "LizardUtopia",
       "SetID": "cfbk359",
       "Name": "Lizard Utopia",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 63
+      "UsersEstimate": 84
     },
     {
       "ID": "ManyEvents",
@@ -20700,7 +20705,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2095
+      "UsersEstimate": 2096
     },
     {
       "ID": "WinNearPetrified",
@@ -20747,15 +20752,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20953,
+      "Progressed": 20956,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-21T18:57:36.4745823+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:09:32.1575823+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:09:13.6613019+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:57:25.9645882+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:09:32.1576968+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:57:16.0256335+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:09:13.6614022+00:00"
 }

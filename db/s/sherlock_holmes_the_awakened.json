@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 271,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 184,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 55,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1580,
+  "EOS_Progressed": 1581,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.23,
   "EosHistory": [
@@ -5588,6 +5588,11 @@
       "Time": "2024-01-21T20:05:26.619272+00:00",
       "NumProgressed": 1580,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-21T21:04:55.2246884+00:00",
+      "NumProgressed": 1581,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5615,7 +5620,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 853
+      "UsersEstimate": 854
     },
     {
       "ID": "MQ02_2",
@@ -5623,7 +5628,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "MQ02_3",
@@ -5631,7 +5636,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "MQ02_4",
@@ -5647,7 +5652,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 774
+      "UsersEstimate": 775
     },
     {
       "ID": "MQ03_2",
@@ -5671,7 +5676,7 @@
       "Name": "Gaze Into The Abyss",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "MQ03_5",
@@ -5695,7 +5700,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "MQ04_3",
@@ -5703,7 +5708,7 @@
       "Name": "The New World",
       "Percentage": 44,
       "XP": 40,
-      "UsersEstimate": 695
+      "UsersEstimate": 696
     },
     {
       "ID": "MQ05_1",
@@ -5799,7 +5804,7 @@
       "Name": "Up In Flames",
       "Percentage": 38,
       "XP": 40,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "MQ08_3",
@@ -5807,7 +5812,7 @@
       "Name": "Fhtagn!",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "PLTN",
@@ -5822,7 +5827,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1580,
+      "Progressed": 1581,
       "Completed": 51
     }
   ],
@@ -5830,8 +5835,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:05:26.6192716+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:04:55.2246879+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:03:58.8162431+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:05:26.6193404+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:03:35.4890799+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:04:55.2247303+00:00"
 }

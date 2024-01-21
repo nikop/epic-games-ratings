@@ -5,20 +5,20 @@ Rating: 4.53 (Ranked 571)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,813 |
-| Greasy Palms | 43.00% | ~7,148 |
-| South American Connection | 27.00% | ~4,488 |
-| Life of the Party | 22.00% | ~3,657 |
+| Legal Counsel | 47.00% | ~7,815 |
+| Greasy Palms | 43.00% | ~7,150 |
+| South American Connection | 27.00% | ~4,489 |
+| Life of the Party | 22.00% | ~3,658 |
 | Big Heat from Little Havana | 16.00% | ~2,660 |
 | Chauffeur | 16.00% | ~2,660 |
 | Tommy Two-Wheels | 16.00% | ~2,660 |
 | Salutations My Little Friend | 12.00% | ~1,995 |
-| Iron-y | 10.00% | ~1,662 |
-| Gun for Hire | 10.00% | ~1,662 |
+| Iron-y | 10.00% | ~1,663 |
+| Gun for Hire | 10.00% | ~1,663 |
 | Mischief Managed | 9.00% | ~1,496 |
 | Vice City Mogul | 7.00% | ~1,164 |
-| Catch Me if You Can | 6.00% | ~997 |
-| Bloodstained Hands | 6.00% | ~997 |
+| Catch Me if You Can | 6.00% | ~998 |
+| Bloodstained Hands | 6.00% | ~998 |
 | Not my First Time | 5.00% | ~831 |
 | Grand Theft Auto | 5.00% | ~831 |
 | High Quality H2O | 4.00% | ~665 |
@@ -31,8 +31,8 @@ Rating: 4.53 (Ranked 571)
 | Don't Need Roads | 3.00% | ~499 |
 | Take the Cannoli | 3.00% | ~499 |
 | City Sleuth | 3.00% | ~499 |
-| One is Better Than Two | 2.00% | ~332 |
-| Chopper’d Up | 2.00% | ~332 |
+| One is Better Than Two | 2.00% | ~333 |
+| Chopper’d Up | 2.00% | ~333 |
 | Born in the 80’s | 1.00% | ~166 |
 | Keepie-Uppy Okie Dokie | 1.00% | ~166 |
 | I'm Famous! | 1.00% | ~166 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 571)
 | Done it All | 1.00% | ~166 |
 | Kingpin | 0.70% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,623 (Ranked 172)  
+Progressed: 16,627 (Ranked 172)  
 Completed: 109 (0.66%) (Ranked 210)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 109 (0.66%) (Ranked 210)
 | 2024-01-18 | 16,538 | 104 |
 | 2024-01-19 | 16,563 | 106 |
 | 2024-01-20 | 16,599 | 107 |
-| 2024-01-21 | 16,623 | 109 |
+| 2024-01-21 | 16,627 | 109 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11142,9 +11142,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133427,
+  "EOS_Progressed": 133433,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 609,
+  "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40947,6 +40947,11 @@
       "Time": "2024-01-21T20:11:36.9561578+00:00",
       "NumProgressed": 133427,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T21:11:08.6229667+00:00",
+      "NumProgressed": 133433,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40974,7 +40979,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41110,7 +41115,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41230,7 +41235,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41262,7 +41267,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41270,7 +41275,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41310,7 +41315,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10674
+      "UsersEstimate": 10675
     },
     {
       "ID": "hero_story_complete_all",
@@ -41334,7 +41339,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "hospital_full_service",
@@ -41350,7 +41355,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41406,7 +41411,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "run_victory_act01",
@@ -41478,7 +41483,7 @@
       "Name": "Battle Hardened",
       "Percentage": 0.5,
       "XP": 20,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "altar_of_hope_memory_equip_all_duelist",
@@ -41494,7 +41499,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1244
+      "UsersEstimate": 1245
     },
     {
       "ID": "combat_kill_collector",
@@ -41589,21 +41594,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133427,
+      "Progressed": 133433,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8296,
+      "Progressed": 8302,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-21T15:58:26.0019044+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:11:36.9561573+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:11:08.6229662+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:59:21.9518989+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:11:36.9563171+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:59:02.4256128+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:11:08.6231575+00:00"
 }

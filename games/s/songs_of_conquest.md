@@ -32,8 +32,8 @@ Number of Ratings: 292  (23.09.2022)
 | In The Thick of It | 1.00% | ~13 |
 | Such A Fungi | 1.00% | ~13 |
 | Grand Master | 1.00% | ~13 |
+| Versatile Wielder | 0.90% | ~11 |
 | Together For Her | 0.90% | ~11 |
-| Versatile Wielder | 0.80% | ~10 |
 | Unlimited Power! | 0.70% | ~9 |
 | Death To Diplomacy | 0.60% | ~8 |
 | Killing Spree | 0.60% | ~8 |

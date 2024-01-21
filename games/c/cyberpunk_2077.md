@@ -37,6 +37,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Sun | 0.20% | ~2,113 |
 | Spin Doctor | 0.20% | ~371 |
 | King of Wands | 0.20% | ~371 |
+| Dirty Deeds | 0.20% | ~371 |
 | Easy Come, Easy Go | 0.20% | ~371 |
 | City Lights | 0.10% | ~1,057 |
 | Autojock | 0.10% | ~1,057 |
@@ -62,7 +63,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Pentacles | 0.10% | ~185 |
 | King of Swords | 0.10% | ~185 |
 | The Tower | 0.10% | ~185 |
-| Dirty Deeds | 0.10% | ~185 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,709 (Ranked 17)  
+Progressed: 1,056,730 (Ranked 17)  
 Completed: 3,144 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 3,144 (0.30%) (Ranked 265)
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
-| 2024-01-21 | 1,056,709 | 3,144 |
+| 2024-01-21 | 1,056,730 | 3,144 |
 ## Awards
 Max (Character Customization): 143,675  (Ranked 8)  
 Sum: 511,644 (Ranked 8)  

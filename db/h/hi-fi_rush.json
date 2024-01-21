@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -285,9 +285,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17556,
+  "EOS_Progressed": 17557,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 403,
+  "EOS_NewPlayers": 402,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12960,6 +12960,11 @@
       "Time": "2024-01-21T20:06:34.1739816+00:00",
       "NumProgressed": 17556,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T21:05:57.8385287+00:00",
+      "NumProgressed": 17557,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13035,7 +13040,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "Ach010",
@@ -13083,7 +13088,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6320
+      "UsersEstimate": 6321
     },
     {
       "ID": "Ach016",
@@ -13147,7 +13152,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9831
+      "UsersEstimate": 9832
     },
     {
       "ID": "Ach024",
@@ -13179,7 +13184,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3862
+      "UsersEstimate": 3863
     },
     {
       "ID": "Ach028",
@@ -13195,7 +13200,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2633
+      "UsersEstimate": 2634
     },
     {
       "ID": "Ach030",
@@ -13211,7 +13216,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5092
     },
     {
       "ID": "Ach032",
@@ -13235,7 +13240,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "Ach035",
@@ -13347,7 +13352,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5091
+      "UsersEstimate": 5092
     },
     {
       "ID": "Ach049",
@@ -13538,13 +13543,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17556,
+      "Progressed": 17557,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16077,
+      "Progressed": 16078,
       "Completed": 1931
     }
   ],
@@ -13552,8 +13557,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:06:34.1739813+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:05:57.8385282+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:00:08.6175095+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:06:34.1740897+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:59:45.3844236+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:05:57.8386565+00:00"
 }

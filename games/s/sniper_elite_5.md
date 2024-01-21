@@ -6,7 +6,7 @@ Rating: 4.48 (Ranked 662)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~2,033 |
-| Confirming Suspicions | 42.00% | ~1,816 |
+| Confirming Suspicions | 42.00% | ~1,817 |
 | The Kraken Wakes | 38.00% | ~1,644 |
 | It's Starting to Crack | 35.00% | ~1,514 |
 | Change the Channel | 32.00% | ~1,384 |
@@ -14,7 +14,7 @@ Rating: 4.48 (Ranked 662)
 | Taking it back | 30.00% | ~1,298 |
 | Resourceful | 28.00% | ~1,211 |
 | Target America | 28.00% | ~1,211 |
-| The Kraken Sleeps | 26.00% | ~1,124 |
+| The Kraken Sleeps | 26.00% | ~1,125 |
 | Liberté | 24.00% | ~1,038 |
 | Organ Grinder | 24.00% | ~1,038 |
 | As Quiet as a Mouse | 24.00% | ~1,038 |
@@ -34,8 +34,8 @@ Rating: 4.48 (Ranked 662)
 | Opposing Force | 14.00% | ~606 |
 | Enemy at the Gates | 14.00% | ~606 |
 | Set Europe Ablaze | 14.00% | ~606 |
-| Precision Is Key | 10.00% | ~432 |
-| My Little Friend | 10.00% | ~432 |
+| Precision Is Key | 10.00% | ~433 |
+| My Little Friend | 10.00% | ~433 |
 | Rigged to Blow | 9.00% | ~389 |
 | Herr Today, Gone Tomorrow | 7.00% | ~299 |
 | The Long Game | 6.00% | ~260 |
@@ -56,10 +56,10 @@ Rating: 4.48 (Ranked 662)
 | Shoot for the Moon | 3.00% | ~130 |
 | Fight Another Day | 3.00% | ~128 |
 | Shipbreaker | 3.00% | ~128 |
-| Out of Scope | 2.00% | ~86 |
-| Eagle Eyed | 2.00% | ~86 |
-| Up close and personal | 2.00% | ~86 |
-| Can't Outrun A Bullet | 2.00% | ~86 |
+| Out of Scope | 2.00% | ~87 |
+| Eagle Eyed | 2.00% | ~87 |
+| Up close and personal | 2.00% | ~87 |
+| Can't Outrun A Bullet | 2.00% | ~87 |
 | Führerious Repetition | 2.00% | ~86 |
 | Reich To The Point | 2.00% | ~86 |
 | Covert Elimination | 2.00% | ~86 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,325 (Ranked 217)  
+Progressed: 4,326 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 11 (0.25%) (Ranked 275)
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,306 | 11 |
 | 2024-01-20 | 4,317 | 11 |
-| 2024-01-21 | 4,325 | 11 |
+| 2024-01-21 | 4,326 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 525)  
 Sum: 31 (Ranked 548)  

@@ -6,9 +6,9 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,244 |
+| Malpractice Assurance | 15.00% | ~1,245 |
 | Lost and Found | 9.00% | ~747 |
-| Autodidact | 8.00% | ~10,674 |
+| Autodidact | 8.00% | ~10,675 |
 | This Belongs in a Museum | 7.00% | ~9,340 |
 | Creep and Sleep | 7.00% | ~9,340 |
 | Overdue Notice | 7.00% | ~9,340 |
@@ -23,14 +23,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 6.00% | ~8,006 |
 | Ploughshares to Swords | 6.00% | ~498 |
 | Bloody Graduation | 6.00% | ~498 |
-| It Rings a Bell | 5.00% | ~6,671 |
-| Not Today! | 5.00% | ~6,671 |
-| It Happens | 5.00% | ~6,671 |
-| Merry Time | 5.00% | ~6,671 |
-| Harvest Festival | 5.00% | ~6,671 |
-| Whale | 5.00% | ~6,671 |
-| A Place to Lay Your Head | 5.00% | ~6,671 |
-| Nope | 5.00% | ~6,671 |
+| It Rings a Bell | 5.00% | ~6,672 |
+| Not Today! | 5.00% | ~6,672 |
+| It Happens | 5.00% | ~6,672 |
+| Merry Time | 5.00% | ~6,672 |
+| Harvest Festival | 5.00% | ~6,672 |
+| Whale | 5.00% | ~6,672 |
+| A Place to Lay Your Head | 5.00% | ~6,672 |
+| Nope | 5.00% | ~6,672 |
 | Friends 'Til the End | 5.00% | ~415 |
 | Resurrection | 4.00% | ~5,337 |
 | Unleash Hell | 4.00% | ~5,337 |
@@ -74,7 +74,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Bacon Bits | 0.70% | ~934 |
 | Eidetic | 0.60% | ~801 |
 | On This Long Road, We Found Redemption | 0.60% | ~50 |
-| Battle Hardened | 0.50% | ~41 |
+| Battle Hardened | 0.50% | ~42 |
 | Tears in the Rain | 0.40% | ~534 |
 | Maître De La Lame | 0.40% | ~33 |
 | Circle of Life | 0.30% | ~400 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,427 (Ranked 92)  
+Progressed: 133,433 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,427 | 5 |
+| 2024-01-21 | 133,433 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
 Sum: 21,801 (Ranked 58)  

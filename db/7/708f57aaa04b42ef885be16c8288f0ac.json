@@ -467,9 +467,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15173,
+  "EOS_Progressed": 15174,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 298,
+  "EOS_NewPlayers": 297,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11107,6 +11107,11 @@
       "Time": "2024-01-21T19:11:41.9342559+00:00",
       "NumProgressed": 15173,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-21T21:11:07.5282504+00:00",
+      "NumProgressed": 15174,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11175,7 +11180,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3186
+      "UsersEstimate": 3187
     },
     {
       "ID": "FasterThanLight",
@@ -11191,7 +11196,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8345
+      "UsersEstimate": 8346
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11271,7 +11276,7 @@
       "Name": "No More Totems",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1972
+      "UsersEstimate": 1973
     },
     {
       "ID": "NotLikeTheOthers",
@@ -11319,7 +11324,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6524
+      "UsersEstimate": 6525
     },
     {
       "ID": "ThisIsDharma",
@@ -11327,7 +11332,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -11359,7 +11364,7 @@
       "Name": "Digestive Issues",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2579
+      "UsersEstimate": 2580
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -11390,7 +11395,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15173,
+      "Progressed": 15174,
       "Completed": 28
     }
   ],
@@ -11398,8 +11403,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-21T01:57:02.9385793+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:11:35.838999+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:11:07.5282499+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:59:37.8843494+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:11:35.8390551+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:59:17.4832382+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:11:07.5283225+00:00"
 }

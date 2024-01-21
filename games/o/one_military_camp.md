@@ -33,11 +33,11 @@
 | No News is Good News | 3.00% | ~9 |
 | Human Resources | 3.00% | ~9 |
 | Training Camp | 3.00% | ~9 |
+| Counter-espionage | 2.00% | ~6 |
 | Snowman | 2.00% | ~6 |
 | Reconquest | 2.00% | ~6 |
 | Winter Soldier | 2.00% | ~6 |
 | Economist | 1.00% | ~3 |
-| Counter-espionage | 1.00% | ~3 |
 | Crisis Committee | 1.00% | ~3 |
 | Against Adversity | 1.00% | ~3 |
 | Researcher | 1.00% | ~3 |

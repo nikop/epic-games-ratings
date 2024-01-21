@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 505,
-  "Ranking_EOS_Completed": 178,
-  "Ranking_EOS_NewPlayers": 405,
+  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Completed": 179,
+  "Ranking_EOS_NewPlayers": 382,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 95,
+  "EOS_Progressed": 96,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.05,
+  "EOS_Completed_Percentage": 1.04,
   "EosHistory": [
     {
       "Time": "2023-12-13T17:03:37.7075338+00:00",
@@ -499,6 +499,11 @@
       "Time": "2024-01-21T03:04:06.9181006+00:00",
       "NumProgressed": 95,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T21:05:28.1364807+00:00",
+      "NumProgressed": 96,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -509,7 +514,7 @@
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "7on801h",
       "Name": "We Are Human Beings",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 30,
       "UsersEstimate": 11
     },
@@ -525,7 +530,7 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 33
     },
@@ -533,7 +538,7 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "7on801h",
       "Name": "Between Technology and the Divine",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -549,7 +554,7 @@
       "ID": "NEW_ACHIEVEMENT_1_14",
       "SetID": "7on801h",
       "Name": "God Killer",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
       "UsersEstimate": 10
     },
@@ -749,7 +754,7 @@
       "ID": "NEW_ACHIEVEMENT_1_9",
       "SetID": "7on801h",
       "Name": "A Heated Combination",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -781,7 +786,7 @@
       "ID": "NEW_ACHIEVEMENT_2_11",
       "SetID": "7on801h",
       "Name": "Neon Nights",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -805,7 +810,7 @@
       "ID": "NEW_ACHIEVEMENT_2_14",
       "SetID": "7on801h",
       "Name": "Fresh Out of the Package",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -853,7 +858,7 @@
       "ID": "NEW_ACHIEVEMENT_2_2",
       "SetID": "7on801h",
       "Name": "Samizdat",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 10,
       "UsersEstimate": 10
     },
@@ -1158,20 +1163,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 1
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 95,
+      "Progressed": 96,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:06:02.4403916+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:05:28.1364801+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:32.5337791+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:00:37.0185309+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:06:02.440458+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:00:12.1343527+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:05:28.1365691+00:00"
 }

@@ -10,9 +10,9 @@ Number of Ratings: 124  (23.09.2022)
 | Best Buddy | 39.00% | ~108 |
 | Role Model | 36.00% | ~100 |
 | Civilian | 36.00% | ~100 |
-| Creator | 33.00% | ~91 |
+| Creator | 33.00% | ~92 |
 | Military Leader | 30.00% | ~83 |
-| Festival-goer | 29.00% | ~80 |
+| Festival-goer | 29.00% | ~81 |
 | Peddler | 26.00% | ~72 |
 | Commander | 26.00% | ~72 |
 | Irissa's Fate | 22.00% | ~61 |
@@ -21,16 +21,16 @@ Number of Ratings: 124  (23.09.2022)
 | Pass A38 | 19.00% | ~53 |
 | Eternal Oblivion | 18.00% | ~50 |
 | Banker | 17.00% | ~47 |
-| Globetrotter | 16.00% | ~44 |
-| Berserker | 16.00% | ~44 |
 | Storyteller | 15.00% | ~42 |
+| Globetrotter | 15.00% | ~42 |
+| Berserker | 15.00% | ~42 |
 | Alb | 13.00% | ~36 |
 | Hunter | 13.00% | ~36 |
-| Beam Me Up | 11.00% | ~30 |
-| Free as a Bird | 11.00% | ~30 |
-| Perfectionist | 11.00% | ~30 |
-| Lover | 11.00% | ~30 |
-| Treasure Hunter | 8.00% | ~22 |
+| Lover | 12.00% | ~33 |
+| Beam Me Up | 11.00% | ~31 |
+| Free as a Bird | 11.00% | ~31 |
+| Perfectionist | 11.00% | ~31 |
+| Treasure Hunter | 9.00% | ~25 |
 | Hotshot | 8.00% | ~22 |
 | Detective | 8.00% | ~22 |
 | Weaponsmith | 7.00% | ~19 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 277 (Ranked 417)  
+Progressed: 278 (Ranked 417)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 263 | 0 |
 | 2024-01-19 | 266 | 0 |
 | 2024-01-20 | 272 | 0 |
-| 2024-01-21 | 277 | 0 |
+| 2024-01-21 | 278 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

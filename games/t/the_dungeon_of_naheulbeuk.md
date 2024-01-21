@@ -6,10 +6,10 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,165 |
-| Alt+F4 | 11.00% | ~27,400 |
-| Where's that freaking Dwarf? | 10.00% | ~24,910 |
-| Déjà vu | 8.00% | ~19,928 |
+| Sowwy! | 37.00% | ~92,170 |
+| Alt+F4 | 11.00% | ~27,402 |
+| Where's that freaking Dwarf? | 10.00% | ~24,911 |
+| Déjà vu | 8.00% | ~19,929 |
 | Sock! SOCK! | 6.00% | ~14,946 |
 | Speedrun | 6.00% | ~14,946 |
 | A beer, two curses, three companions | 5.00% | ~12,455 |
@@ -51,8 +51,8 @@ Number of Ratings: 118  (23.09.2022)
 | Holistic Adventuring Party | 0.70% | ~1,744 |
 | Law and Order | 0.70% | ~1,744 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,495 |
-| I'd rather... Just... Sing! | 0.50% | ~1,245 |
-| It's been a hard day's night | 0.50% | ~1,245 |
+| I'd rather... Just... Sing! | 0.50% | ~1,246 |
+| It's been a hard day's night | 0.50% | ~1,246 |
 | Friendly fire | 0.40% | ~996 |
 | The number of the counting shalt be 7 | 0.40% | ~996 |
 | Inception | 0.40% | ~996 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,095 (Ranked 73)  
+Progressed: 249,107 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 9 (0.00%) (Ranked 409)
 | 2024-01-18 | 248,677 | 9 |
 | 2024-01-19 | 248,799 | 9 |
 | 2024-01-20 | 248,966 | 9 |
-| 2024-01-21 | 249,095 | 9 |
+| 2024-01-21 | 249,107 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 577 (Ranked 331)  

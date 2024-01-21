@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 290,
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -2009,9 +2009,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 70125,
+  "EOS_Progressed": 70127,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32534,6 +32534,11 @@
       "Time": "2024-01-21T20:06:42.2462928+00:00",
       "NumProgressed": 70125,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T21:06:05.2843789+00:00",
+      "NumProgressed": 70127,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -32545,7 +32550,7 @@
       "Name": "Eagle Eye",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 37868
+      "UsersEstimate": 37869
     },
     {
       "ID": "VERDUN_ACH_ALLGOLD1",
@@ -32609,7 +32614,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -32737,7 +32742,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1402
+      "UsersEstimate": 1403
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -32777,7 +32782,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 18232
+      "UsersEstimate": 18233
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -32801,7 +32806,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 22440
+      "UsersEstimate": 22441
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -32809,7 +32814,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 27349
+      "UsersEstimate": 27350
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -32833,7 +32838,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 44179
+      "UsersEstimate": 44180
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -32913,7 +32918,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 54698
+      "UsersEstimate": 54699
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -32961,7 +32966,7 @@
       "Name": "Furchtlos und Treu",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 9116
+      "UsersEstimate": 9117
     },
     {
       "ID": "VERDUN_ACH_SCOTTISH",
@@ -33009,22 +33014,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25946
+      "UsersEstimate": 25947
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 70125,
+      "Progressed": 70127,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-20T20:58:52.9716987+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:06:42.2462925+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:06:05.2843783+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:26.9198992+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:00:18.908502+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:06:42.2464471+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:59:54.74386+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:06:05.2845397+00:00"
 }

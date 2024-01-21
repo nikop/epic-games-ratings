@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2611,9 +2611,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19776,
+  "EOS_Progressed": 19777,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 212,
+  "EOS_NewPlayers": 211,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21176,6 +21176,11 @@
       "Time": "2024-01-21T19:11:42.41044+00:00",
       "NumProgressed": 19776,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-21T21:11:07.8861581+00:00",
+      "NumProgressed": 19777,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21235,7 +21240,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3757
+      "UsersEstimate": 3758
     },
     {
       "ID": "ACH08",
@@ -21355,7 +21360,7 @@
       "Name": "What happens in Las Venturas...",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "ACH23",
@@ -21411,7 +21416,7 @@
       "Name": "Today Was a Good Day",
       "Percentage": 15,
       "XP": 45,
-      "UsersEstimate": 2966
+      "UsersEstimate": 2967
     },
     {
       "ID": "ACH30",
@@ -21466,7 +21471,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19776,
+      "Progressed": 19777,
       "Completed": 81
     }
   ],
@@ -21474,8 +21479,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-21T17:02:08.8430832+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:11:36.172148+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:11:07.8861569+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:02:08.5723708+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:11:36.1722535+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:01:35.6439795+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:11:07.8863086+00:00"
 }

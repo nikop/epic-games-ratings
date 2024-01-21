@@ -1,7 +1,7 @@
 # Miasma Chronicles
 [Store](https://store.epicgames.com/en-US/p/miasma-chronicles)  
 [View Rawdata](../../db/m/miasma_chronicles.json)  
-Rating: 4.38 (Ranked 798)  
+Rating: 4.38 (Ranked 799)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,7 +29,7 @@ Rating: 4.38 (Ranked 798)
 | Pushing Daisy | 34.00% | ~588 |
 | Experienced | 33.00% | ~570 |
 | Hold The Line | 33.00% | ~570 |
-| Endgame | 28.00% | ~484 |
+| Endgame | 29.00% | ~501 |
 | Savior | 28.00% | ~484 |
 | Silent but Violent | 28.00% | ~484 |
 | There Can Be Only One! | 26.00% | ~449 |

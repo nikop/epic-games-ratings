@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 203,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -1915,9 +1915,9 @@
       "ID": "SUB_CLEAR_ISLAND2",
       "SetID": "apihg0e",
       "Name": "Ares Island Expert",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 22
     },
     {
       "ID": "SUB_CLEAR_ISLAND3",
@@ -1954,8 +1954,8 @@
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:09:48.4091878+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:09:28.3875949+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:01:36.9062393+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:09:48.4092236+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:01:07.785458+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:09:28.3876359+00:00"
 }

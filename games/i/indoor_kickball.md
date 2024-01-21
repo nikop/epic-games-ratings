@@ -28,7 +28,7 @@
 | Hi Hungry, I'm Dad | 21.00% | ~22 |
 | Have Mercy | 21.00% | ~22 |
 | Angry Mom | 21.00% | ~22 |
-| Just how we drew it up | 12.00% | ~13 |
+| Just how we drew it up | 13.00% | ~14 |
 | Interference | 8.00% | ~9 |
 | Kitchen Secret Spot | 7.00% | ~7 |
 | You broke it, you bought it | 7.00% | ~7 |

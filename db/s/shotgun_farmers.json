@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 367,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1768,9 +1768,9 @@
       "ID": "ach_first_first_blood",
       "SetID": "cmg602e",
       "Name": "First Blood",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 247
+      "UsersEstimate": 251
     },
     {
       "ID": "ach_first_harvest",
@@ -2008,9 +2008,9 @@
       "ID": "ach_sniperKillNoScope",
       "SetID": "cmg602e",
       "Name": "No Asperascope",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -2224,9 +2224,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 198
+      "UsersEstimate": 202
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -2327,8 +2327,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:09:46.3238132+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:09:26.561944+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:04.3355436+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:03:07.9396146+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:09:46.3238771+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:02:52.2522658+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:09:26.5620072+00:00"
 }

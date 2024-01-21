@@ -6,7 +6,7 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Overgrown Library | 10.00% | ~2,095 |
+| Overgrown Library | 10.00% | ~2,096 |
 | First Real Expedition | 9.00% | ~1,886 |
 | Taking Action | 9.00% | ~1,886 |
 | No Deaths | 9.00% | ~1,886 |
@@ -57,8 +57,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Blood Flower Farmer | 0.60% | ~126 |
 | Fox Utopia | 0.50% | ~105 |
 | Human Utopia | 0.40% | ~84 |
+| Lizard Utopia | 0.40% | ~84 |
 | Beaver Utopia | 0.30% | ~63 |
-| Lizard Utopia | 0.30% | ~63 |
 | Higher Needs | 0.20% | ~42 |
 | Harpy Utopia | 0.20% | ~42 |
 | The Queen's Chosen | 0.20% | ~42 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,953 (Ranked 157)  
+Progressed: 20,956 (Ranked 157)  
 Completed: 34 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 34 (0.16%) (Ranked 296)
 | 2024-01-18 | 20,874 | 35 |
 | 2024-01-19 | 20,898 | 35 |
 | 2024-01-20 | 20,926 | 35 |
-| 2024-01-21 | 20,953 | 34 |
+| 2024-01-21 | 20,956 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 455  (Ranked 235)  
 Sum: 3,406 (Ranked 180)  

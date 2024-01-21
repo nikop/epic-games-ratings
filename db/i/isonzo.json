@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 148,
+  "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1099,9 +1099,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10024,
+  "EOS_Progressed": 10025,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11464,6 +11464,11 @@
       "Time": "2024-01-21T18:10:46.133802+00:00",
       "NumProgressed": 10024,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T21:10:35.3550987+00:00",
+      "NumProgressed": 10025,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11475,7 +11480,7 @@
       "Name": "12th Bottle of the Isonzo",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ISONZO_ACH_AURELIO_BARUZZI",
@@ -11507,7 +11512,7 @@
       "Name": "Cercatore d\u0027Oro",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ISONZO_ACH_COMPAGNIA_DELLA_MORTE",
@@ -11643,7 +11648,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3508
+      "UsersEstimate": 3509
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11681,9 +11686,9 @@
       "ID": "ISONZO_ACH_RAGAZZI_DEL_99",
       "SetID": "akchbl3",
       "Name": "Ragazzi del \u002799",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1804
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11723,7 +11728,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2706
+      "UsersEstimate": 2707
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11755,7 +11760,7 @@
       "Name": "The Enlightment",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ISONZO_ACH_THE_ITALIAN_JOB",
@@ -11771,7 +11776,7 @@
       "Name": "The Lion of the Isonzo",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 1403
+      "UsersEstimate": 1404
     },
     {
       "ID": "ISONZO_ACH_THE_SHOW_MUST_GO_ON",
@@ -11827,14 +11832,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5112
+      "UsersEstimate": 5113
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10024,
+      "Progressed": 10025,
       "Completed": 10
     }
   ],
@@ -11842,8 +11847,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-20T21:57:37.7605938+00:00",
-  "LastChanged_Achievements": "2024-01-21T20:11:00.4945276+00:00",
+  "LastChanged_Achievements": "2024-01-21T21:10:35.3550978+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-21T19:58:42.9453157+00:00",
-  "LastUpdate_Achievements": "2024-01-21T20:11:00.494623+00:00"
+  "LastUpdate_Ratings": "2024-01-21T20:58:26.7095007+00:00",
+  "LastUpdate_Achievements": "2024-01-21T21:10:35.3551866+00:00"
 }
