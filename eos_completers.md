@@ -51,25 +51,25 @@
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.82% |
-| 52 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.69% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.72% |
+| 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.43% |
-| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.20% |
+| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.19% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.17% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.11% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
 | 62 | [Scorn](games/s/scorn.md) | 6.86% |
 | 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.86% |
-| 64 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.59% |
-| 65 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
+| 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
+| 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.52% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
-| 66 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.25% |
-| 69 | [Time Loader](games/t/time_loader.md) | 6.16% |
-| 70 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
+| 68 | [Time Loader](games/t/time_loader.md) | 6.16% |
+| 69 | [Luna's Fishing Garden](games/l/luna's_fishing_garden.md) | 6.14% |
+| 70 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
 | 71 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.76% |
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.71% |
@@ -147,7 +147,7 @@
 | 145 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 146 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
 | 147 | [Alan Wake 2](games/a/alan_wake_2.md) | 1.80% |
-| 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.78% |
+| 148 | [Love Is All Around](games/b/b7cca975adbf41e4a41f3ece9e61e08a.md) | 1.77% |
 | 149 | [Jump Challenge!](games/8/812112fd7449435ab8aa1ff41f01fe92.md) | 1.75% |
 | 150 | [Sifu](games/s/sifu.md) | 1.71% |
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.70% |
@@ -276,10 +276,10 @@
 | 274 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 275 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 275 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.25% |
+| 275 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.25% |
 | 275 | [Sniper Elite 5](games/s/sniper_elite_5.md) | 0.25% |
-| 278 | [It Takes Two](games/i/it_takes_two.md) | 0.24% |
-| 278 | [Roboquest](games/c/c981760ff69f4586aedb60a6db191705.md) | 0.24% |
-| 278 | [Shop Titans](games/s/shop_titans.md) | 0.24% |
+| 279 | [It Takes Two](games/i/it_takes_two.md) | 0.24% |
+| 279 | [Shop Titans](games/s/shop_titans.md) | 0.24% |
 | 281 | [Curious Expedition 2](games/c/curious_expedition_2.md) | 0.23% |
 | 281 | [Them and Us](games/t/them_and_us.md) | 0.23% |
 | 283 | [Aegis Descent](games/a/aegis_descent.md) | 0.22% |
