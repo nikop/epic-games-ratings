@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
     "PcReleaseDate": "2020-10-20T10:00:00+00:00",
@@ -41,7 +41,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15806,
+  "EOS_Progressed": 15809,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
@@ -19631,6 +19631,11 @@
       "Time": "2024-01-21T17:07:25.4827897+00:00",
       "NumProgressed": 15806,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T18:07:06.7358199+00:00",
+      "NumProgressed": 15809,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19714,7 +19719,7 @@
       "Name": "You tried your best!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 6955
+      "UsersEstimate": 6956
     },
     {
       "ID": "ACH_ONE_WORD_PACKAGE",
@@ -19730,7 +19735,7 @@
       "Name": "Facepalm",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     },
     {
       "ID": "ACH_TEN_WORD_PACKAGES",
@@ -19810,7 +19815,7 @@
       "Name": "Art Intern",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 3161
+      "UsersEstimate": 3162
     },
     {
       "ID": "ACH_WIN_A_GAME_GUESS_IT",
@@ -19834,14 +19839,14 @@
       "Name": "First Sketch",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 2845
+      "UsersEstimate": 2846
     }
   ],
   "AchievementSets": [
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15806,
+      "Progressed": 15809,
       "Completed": 0
     }
   ],
@@ -19849,8 +19854,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:07:25.4827894+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:07:06.7358194+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8491193+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:57:44.5230061+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:07:25.482893+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:57:47.6686208+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:07:06.7359164+00:00"
 }

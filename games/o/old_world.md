@@ -116,19 +116,19 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jerwan Aqueduct | 0.80% | ~137 |
 | Royal Library | 0.80% | ~137 |
 | Yazilikaya | 0.80% | ~137 |
-| Bad Heir Day | 0.70% | ~119 |
-| Devout | 0.70% | ~119 |
-| Peacemaker | 0.70% | ~119 |
-| Strong Difficulty | 0.70% | ~119 |
-| Hunters | 0.70% | ~119 |
-| Babylonia | 0.70% | ~119 |
-| Hittite Paganism | 0.70% | ~119 |
-| Enlightenment | 0.70% | ~119 |
-| Redemption | 0.70% | ~119 |
-| Revelation | 0.70% | ~119 |
-| Veneration | 0.70% | ~119 |
-| Kushite Cavalry | 0.70% | ~119 |
-| Ambition Victory | 0.70% | ~119 |
+| Bad Heir Day | 0.70% | ~120 |
+| Devout | 0.70% | ~120 |
+| Peacemaker | 0.70% | ~120 |
+| Strong Difficulty | 0.70% | ~120 |
+| Hunters | 0.70% | ~120 |
+| Babylonia | 0.70% | ~120 |
+| Hittite Paganism | 0.70% | ~120 |
+| Enlightenment | 0.70% | ~120 |
+| Redemption | 0.70% | ~120 |
+| Revelation | 0.70% | ~120 |
+| Veneration | 0.70% | ~120 |
+| Kushite Cavalry | 0.70% | ~120 |
+| Ambition Victory | 0.70% | ~120 |
 | Clerics | 0.60% | ~102 |
 | Church of the Holy Sepulchre | 0.60% | ~102 |
 | Adur Burzen-Mihr | 0.60% | ~102 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,070 (Ranked 170)  
+Progressed: 17,073 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,070 | 5 |
+| 2024-01-21 | 17,073 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

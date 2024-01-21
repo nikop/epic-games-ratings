@@ -4,11 +4,11 @@
   "ProductSlug": "sunless-sea",
   "Ranking_Rating": 474,
   "Ranking_Popularity": 292,
-  "Ranking_PopularitySum": 380,
+  "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 129,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -776,10 +776,16 @@
       "Rating": 4.58,
       "NumberOfAwards": 316,
       "NumberOfAwardsMax": 222
+    },
+    {
+      "Time": "2024-01-21T17:57:56.615047+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 337,
+      "NumberOfAwardsMax": 222
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 316,
+  "NumberOfAwards": 337,
   "NumberOfAwardsMax": 222,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -811,12 +817,18 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
+      "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44695,
+  "EOS_Progressed": 44698,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 452,
+  "EOS_NewPlayers": 449,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29139,6 +29151,11 @@
       "Time": "2024-01-21T17:07:22.0772509+00:00",
       "NumProgressed": 44695,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T18:07:03.5608164+00:00",
+      "NumProgressed": 44698,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29166,7 +29183,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7598
+      "UsersEstimate": 7599
     },
     {
       "ID": "ach_antiquarian10",
@@ -29214,7 +29231,7 @@
       "Name": "Salt\u0027s Curse",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4916
+      "UsersEstimate": 4917
     },
     {
       "ID": "ach_cursestone",
@@ -29238,7 +29255,7 @@
       "Name": "HE SUN THE SUN THE SUN T",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4916
+      "UsersEstimate": 4917
     },
     {
       "ID": "ach_deathofermod",
@@ -29270,7 +29287,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16090
+      "UsersEstimate": 16091
     },
     {
       "ID": "ach_die10",
@@ -29318,7 +29335,7 @@
       "Name": "The Fall of the House",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 4916
+      "UsersEstimate": 4917
     },
     {
       "ID": "ach_invictus",
@@ -29342,7 +29359,7 @@
       "Name": "Correspondent",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5363
+      "UsersEstimate": 5364
     },
     {
       "ID": "ach_legacypupil",
@@ -29358,7 +29375,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6257
+      "UsersEstimate": 6258
     },
     {
       "ID": "ach_legacysalvager",
@@ -29374,7 +29391,7 @@
       "Name": "Shipmate",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 4916
+      "UsersEstimate": 4917
     },
     {
       "ID": "ach_newstories",
@@ -29502,7 +29519,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8045
+      "UsersEstimate": 8046
     },
     {
       "ID": "ach_terror100",
@@ -29510,7 +29527,7 @@
       "Name": "Lose Your Mind",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 5363
+      "UsersEstimate": 5364
     },
     {
       "ID": "ach_terror90",
@@ -29518,7 +29535,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6704
+      "UsersEstimate": 6705
     },
     {
       "ID": "ach_undercurrent",
@@ -29550,7 +29567,7 @@
       "Name": "Sound Mind?",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 5363
+      "UsersEstimate": 5364
     },
     {
       "ID": "ach_year1",
@@ -29581,15 +29598,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44695,
+      "Progressed": 44698,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
-  "LastChanged": "2024-01-20T12:00:22.8425348+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:07:22.0772506+00:00",
+  "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:07:03.5608159+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:57:51.893685+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:07:22.0774055+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:57:56.6150472+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:07:03.5609848+00:00"
 }

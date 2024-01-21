@@ -4,8 +4,8 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 192,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
     "PcReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4205,
+  "EOS_Progressed": 4207,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7371,6 +7371,11 @@
       "Time": "2024-01-21T17:05:54.5908678+00:00",
       "NumProgressed": 4205,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T18:05:41.3554236+00:00",
+      "NumProgressed": 4207,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7390,7 +7395,7 @@
       "Name": "A big leap for wolfkind",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "FALLEN_TREE",
@@ -7470,7 +7475,7 @@
       "Name": "Transmission",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "UNEXPECTED_ENCOUNTER",
@@ -7485,7 +7490,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4205,
+      "Progressed": 4207,
       "Completed": 6
     }
   ],
@@ -7493,8 +7498,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:05:54.5908676+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:05:41.3554231+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:35.0592598+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:59:07.6662548+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:05:54.5909113+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:59:09.8692446+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:05:41.3554679+00:00"
 }

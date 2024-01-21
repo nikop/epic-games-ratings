@@ -4,8 +4,8 @@
   "ProductSlug": "paw-patrol-mighty-pups-save-adventure-bay-aaad37",
   "Ranking_EOS_Progress": 545,
   "Ranking_EOS_Completed": 153,
-  "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-12-13T19:30:00+00:00",
     "PcReleaseDate": "2020-11-06T07:30:00+00:00",
@@ -517,9 +517,9 @@
       "ID": "26",
       "SetID": "38ide56",
       "Name": "Animal Sighting",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "27",
@@ -614,8 +614,8 @@
   "FirstSeenRating": "2023-03-31T05:58:40.084051+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:34.1994696+00:00",
   "LastChanged": "2023-03-31T05:58:40.0840511+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:06:09.7098464+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:05:55.6141159+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.1262179+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:00:40.6517028+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:06:09.7098658+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:00:37.0664901+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:05:55.6141407+00:00"
 }

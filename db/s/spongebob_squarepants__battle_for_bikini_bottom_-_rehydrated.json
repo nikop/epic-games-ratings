@@ -353,7 +353,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1148,
+  "EOS_Progressed": 1149,
   "EOS_Completed": 10,
   "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 2,
@@ -3193,6 +3193,11 @@
       "Time": "2024-01-21T17:06:50.5795717+00:00",
       "NumProgressed": 1148,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T18:06:33.858118+00:00",
+      "NumProgressed": 1149,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3323,9 +3328,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 161
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -3460,15 +3465,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1148,
+      "Progressed": 1149,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:06:50.5795714+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:06:33.8581129+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:01:07.7625065+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:06:50.5796046+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:01:02.8350393+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:06:33.8581503+00:00"
 }

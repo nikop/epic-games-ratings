@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-06-22T03:00:00+00:00",
     "PcReleaseDate": "2023-05-18T10:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
@@ -4564,6 +4564,11 @@
       "Time": "2024-01-21T12:10:16.8985343+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T18:11:24.1621073+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 42,
@@ -4591,7 +4596,7 @@
       "Name": "Basic Controls",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "BigPlane",
@@ -4639,7 +4644,7 @@
       "Name": "Debtor",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "EdgeOfTheWorld",
@@ -4703,7 +4708,7 @@
       "Name": "Lack of Time",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "LargeAirport",
@@ -4759,7 +4764,7 @@
       "Name": "Maximum Upgrade",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "Millionaire",
@@ -4775,7 +4780,7 @@
       "Name": "New Record",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 489
+      "UsersEstimate": 490
     },
     {
       "ID": "NoTimeForModernization",
@@ -4855,7 +4860,7 @@
       "Name": "Restructuring",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Reviewer",
@@ -4895,29 +4900,29 @@
       "Name": "Time for Management",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "TransportHub",
       "SetID": "1e89b4i",
       "Name": "Transport Hub",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 373
+      "UsersEstimate": 361
     }
   ],
   "AchievementSets": [
     {
       "ID": "1e89b4i",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-06-23T15:57:05.2472061+00:00",
   "FirstSeenAchievements": "2023-06-13T06:00:06.9833588+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:11:28.2409455+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:11:24.162107+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.7241323+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:00:09.0101789+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:11:28.2409914+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:00:05.4182229+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:11:24.1621595+00:00"
 }

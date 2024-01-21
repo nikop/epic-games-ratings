@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 47,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-21T04:00:00+00:00",
     "PcReleaseDate": "2021-09-21T04:00:00+00:00",
@@ -1553,7 +1553,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430542,
+  "EOS_Progressed": 430543,
   "EOS_Completed": 557,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 1,
@@ -19933,6 +19933,11 @@
       "Time": "2024-01-21T17:08:57.2770563+00:00",
       "NumProgressed": 430542,
       "NumCompleted": 557
+    },
+    {
+      "Time": "2024-01-21T18:09:03.6434677+00:00",
+      "NumProgressed": 430543,
+      "NumCompleted": 557
     }
   ],
   "TotalAchievements": 41,
@@ -19952,7 +19957,7 @@
       "Name": "Harness Your Power",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 167911
+      "UsersEstimate": 167912
     },
     {
       "ID": "ACH_ABILITY_BOW",
@@ -19960,7 +19965,7 @@
       "Name": "Hunter in the Forest",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258325
+      "UsersEstimate": 258326
     },
     {
       "ID": "ACH_ABILITY_DASH",
@@ -20024,7 +20029,7 @@
       "Name": "Rot Commander",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 258325
+      "UsersEstimate": 258326
     },
     {
       "ID": "ACH_CHALLENGE_CRIT",
@@ -20056,7 +20061,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 137773
+      "UsersEstimate": 137774
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -20112,7 +20117,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 409015
+      "UsersEstimate": 409016
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -20128,7 +20133,7 @@
       "Name": "Good as New",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 309990
+      "UsersEstimate": 309991
     },
     {
       "ID": "ACH_LOCATION_FARM",
@@ -20144,7 +20149,7 @@
       "Name": "Into the Woods",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 301379
+      "UsersEstimate": 301380
     },
     {
       "ID": "ACH_LOCATION_MOUNTAIN",
@@ -20192,7 +20197,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 198049
+      "UsersEstimate": 198050
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -20208,7 +20213,7 @@
       "Name": "Toshi\u0027s Regret",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 116246
+      "UsersEstimate": 116247
     },
     {
       "ID": "ACH_RELIC_INCENSE",
@@ -20232,7 +20237,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189438
+      "UsersEstimate": 189439
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -20240,7 +20245,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146384
+      "UsersEstimate": 146385
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -20248,7 +20253,7 @@
       "Name": "Toshi\u0027s Love",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 116246
+      "UsersEstimate": 116247
     },
     {
       "ID": "ACH_RELIC_VILLAGE_HEART",
@@ -20271,15 +20276,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430542,
+      "Progressed": 430543,
       "Completed": 557
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-15T20:57:43.9440665+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:08:57.2770559+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:09:03.6434673+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:27.3802595+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:57:21.1622528+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:08:57.2771507+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:57:24.74002+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:09:03.643578+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1501,
+  "EOS_Progressed": 1502,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4019,6 +4019,11 @@
       "Time": "2024-01-21T17:11:34.8304343+00:00",
       "NumProgressed": 1501,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T18:11:30.4302943+00:00",
+      "NumProgressed": 1502,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4070,7 +4075,7 @@
       "Name": "Beware of the Goat",
       "Percentage": 45,
       "XP": 5,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "ATK_ACHIEVEMENT_2",
@@ -4150,7 +4155,7 @@
       "Name": "Burnt Smell",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "BURN_ACHIEVEMENT_2",
@@ -4228,9 +4233,9 @@
       "ID": "DUCHESS_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "Greetings from Royalty",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 540
+      "UsersEstimate": 556
     },
     {
       "ID": "EXTINV_ACHIEVEMENT_1",
@@ -4318,7 +4323,7 @@
       "Name": "Who You Gonna Call?",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 600
+      "UsersEstimate": 601
     },
     {
       "ID": "KILLR_ACHIEVEMENT_3",
@@ -4326,7 +4331,7 @@
       "Name": "Decakill!",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "KILLR_ACHIEVEMENT_4",
@@ -4350,7 +4355,7 @@
       "Name": "And There We Go",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4390,7 +4395,7 @@
       "Name": "Don\u0027t Turn Your Back",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "MARYH_ACHIEVEMENT_1",
@@ -4406,7 +4411,7 @@
       "Name": "Hostage of the Elderly",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "MARY_ACHIEVEMENT_2",
@@ -4422,7 +4427,7 @@
       "Name": "Night Snack",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 435
+      "UsersEstimate": 436
     },
     {
       "ID": "MEAT_ACHIEVEMENT_2",
@@ -4462,7 +4467,7 @@
       "Name": "The Last of Us",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "PASS_ACHIEVEMENT_1",
@@ -4557,14 +4562,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1501,
+      "Progressed": 1502,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:11:34.8304339+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:11:30.4302938+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:03:26.4406087+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:11:34.8305048+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:03:21.3184432+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:11:30.4303514+00:00"
 }

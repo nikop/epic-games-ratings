@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-17T15:00:00+00:00",
     "PcReleaseDate": "2023-05-17T15:00:00+00:00",
@@ -737,9 +737,9 @@
       "ID": "Ach_BossFinal",
       "SetID": "4o5gjp0",
       "Name": "GG EZ",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach_BossGolem",
@@ -889,9 +889,9 @@
       "ID": "Ach_FinishElypse",
       "SetID": "4o5gjp0",
       "Name": "Comeback",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach_FirstGolem",
@@ -992,8 +992,8 @@
   ],
   "FirstSeen": "2023-05-18T13:03:09.3018954+00:00",
   "FirstSeenAchievements": "2023-04-25T20:46:46.7883307+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:10:20.664847+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:10:20.7553099+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.1381651+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:01:52.1558197+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:10:20.6648777+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:01:50.8653046+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:10:20.7553362+00:00"
 }

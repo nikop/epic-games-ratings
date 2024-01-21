@@ -6,18 +6,18 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,090 |
-| Sweet Sorrow | 18.00% | ~8,045 |
-| Rules the Waves | 17.00% | ~7,598 |
-| Thou, All-Shaking Thunder | 15.00% | ~6,704 |
-| Rival | 14.00% | ~6,257 |
-| Correspondent | 12.00% | ~5,363 |
-| Lose Your Mind | 12.00% | ~5,363 |
-| Sound Mind? | 12.00% | ~5,363 |
-| Salt's Curse | 11.00% | ~4,916 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,916 |
-| The Fall of the House | 11.00% | ~4,916 |
-| Shipmate | 11.00% | ~4,916 |
+| Sink Beneath the Waves | 36.00% | ~16,091 |
+| Sweet Sorrow | 18.00% | ~8,046 |
+| Rules the Waves | 17.00% | ~7,599 |
+| Thou, All-Shaking Thunder | 15.00% | ~6,705 |
+| Rival | 14.00% | ~6,258 |
+| Correspondent | 12.00% | ~5,364 |
+| Lose Your Mind | 12.00% | ~5,364 |
+| Sound Mind? | 12.00% | ~5,364 |
+| Salt's Curse | 11.00% | ~4,917 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,917 |
+| The Fall of the House | 11.00% | ~4,917 |
+| Shipmate | 11.00% | ~4,917 |
 | One Year at Zee | 8.00% | ~3,576 |
 | Pupil | 7.00% | ~3,129 |
 | The Ascent of Man | 7.00% | ~3,129 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,695 (Ranked 133)  
+Progressed: 44,698 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,18 +337,19 @@ Completed: 4 (0.01%) (Ranked 383)
 | 2024-01-18 | 44,492 | 4 |
 | 2024-01-19 | 44,547 | 4 |
 | 2024-01-20 | 44,623 | 4 |
-| 2024-01-21 | 44,695 | 4 |
+| 2024-01-21 | 44,698 | 4 |
 ## Awards
 Max (Character Customization): 222  (Ranked 292)  
-Sum: 316 (Ranked 380)  
-Diff (max vs sum): -88  
+Sum: 337 (Ranked 373)  
+Diff (max vs sum): -81  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 222 |
 | This game has Amazing Storytelling | 27 |
 | This game has Unique Visuals | 25 |
 | This game has Quickly Understood Controls | 22 |
-| This game is Relaxing | 20 |
+| This game is Relaxing | 21 |
+| This game has Diverse Characters | 20 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -462,3 +463,4 @@ Diff (max vs sum): -88
 | 2023-12-30 | 4.59 | - | 221 | 315 |
 | 2024-01-05 | 4.58 | - | 221 | 315 |
 | 2024-01-20 | 4.58 | - | 222 | 316 |
+| 2024-01-21 | 4.58 | - | 222 | 337 |

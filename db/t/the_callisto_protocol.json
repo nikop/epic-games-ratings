@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2339,9 +2339,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22633,
+  "EOS_Progressed": 22636,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 270,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14619,6 +14619,11 @@
       "Time": "2024-01-21T17:11:04.3066689+00:00",
       "NumProgressed": 22633,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-21T18:11:01.2630224+00:00",
+      "NumProgressed": 22636,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14654,7 +14659,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2263
+      "UsersEstimate": 2264
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14662,7 +14667,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14750,7 +14755,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14758,7 +14763,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4979
+      "UsersEstimate": 4980
     },
     {
       "ID": "KILL_ROBOT",
@@ -14790,7 +14795,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4300
+      "UsersEstimate": 4301
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14798,7 +14803,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4753
+      "UsersEstimate": 4754
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14806,7 +14811,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5432
+      "UsersEstimate": 5433
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14822,7 +14827,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6337
+      "UsersEstimate": 6338
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14838,7 +14843,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3621
+      "UsersEstimate": 3622
     },
     {
       "ID": "STORY_HANGAR",
@@ -14886,7 +14891,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2942
+      "UsersEstimate": 2943
     },
     {
       "ID": "DISMEMBER_100",
@@ -15005,13 +15010,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22633,
+      "Progressed": 22636,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10559,
+      "Progressed": 10562,
       "Completed": 29
     }
   ],
@@ -15019,8 +15024,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:11:04.3066684+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:11:01.263022+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:04:15.6799374+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:11:04.3067578+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:04:07.9095103+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:11:01.2630956+00:00"
 }

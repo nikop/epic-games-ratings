@@ -7,15 +7,15 @@ Rating: 4.63 (Ranked 358)
 | ---- | ---------- | ----- |
 | Secret Technique | 18.00% | ~1,311 |
 | Realm Estate | 16.00% | ~1,165 |
-| A Wonderful Discovery | 15.00% | ~1,092 |
-| Walls Cannot Stop Us | 15.00% | ~1,092 |
+| A Wonderful Discovery | 15.00% | ~1,093 |
+| Walls Cannot Stop Us | 15.00% | ~1,093 |
 | From Friends to Family | 13.00% | ~947 |
 | Bone Peddler | 11.00% | ~801 |
 | Full Ascension | 10.00% | ~728 |
 | Magical Synergy | 10.00% | ~728 |
-| There Can Only Be One! | 9.00% | ~655 |
-| Stronger Together | 9.00% | ~655 |
-| Seat of Power | 9.00% | ~655 |
+| There Can Only Be One! | 9.00% | ~656 |
+| Stronger Together | 9.00% | ~656 |
+| Seat of Power | 9.00% | ~656 |
 | In a Liege of Your Own | 8.00% | ~583 |
 | Valley of Wonders | 7.00% | ~510 |
 | Intimidation Tactics | 7.00% | ~510 |
@@ -28,13 +28,13 @@ Rating: 4.63 (Ranked 358)
 | Impenetrable Fortress | 5.00% | ~364 |
 | Preparation Is Everything | 4.00% | ~291 |
 | Fiery Friend | 4.00% | ~291 |
-| Arch Mage | 3.00% | ~218 |
-| The Creator | 3.00% | ~218 |
-| Crimson Caldera | 3.00% | ~218 |
-| Here be Dragons | 3.00% | ~218 |
-| Tipping the Scales | 3.00% | ~218 |
-| Mighty Hoard | 3.00% | ~218 |
-| Freed Lands of Manuhari | 3.00% | ~218 |
+| Arch Mage | 3.00% | ~219 |
+| The Creator | 3.00% | ~219 |
+| Crimson Caldera | 3.00% | ~219 |
+| Here be Dragons | 3.00% | ~219 |
+| Tipping the Scales | 3.00% | ~219 |
+| Mighty Hoard | 3.00% | ~219 |
+| Freed Lands of Manuhari | 3.00% | ~219 |
 | I've Got Everything I Need Right Here | 2.00% | ~146 |
 | God Emperor | 2.00% | ~146 |
 | Lord of Chaos | 2.00% | ~146 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 358)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,283 (Ranked 201)  
+Progressed: 7,284 (Ranked 201)  
 Completed: 8 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,7 +309,7 @@ Completed: 8 (0.11%) (Ranked 314)
 | 2024-01-17 | 7,267 | 8 |
 | 2024-01-19 | 7,273 | 8 |
 | 2024-01-20 | 7,279 | 8 |
-| 2024-01-21 | 7,283 | 8 |
+| 2024-01-21 | 7,284 | 8 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 484)  
 Sum: 240 (Ranked 407)  

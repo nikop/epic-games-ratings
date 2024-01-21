@@ -4,8 +4,8 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -1452,9 +1452,9 @@
       "ID": "Ach-04-cap",
       "SetID": "2pjo9pi",
       "Name": "Cap",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 24
     },
     {
       "ID": "Ach-04-krabicka",
@@ -1492,9 +1492,9 @@
       "ID": "Ach-04-skritci",
       "SetID": "2pjo9pi",
       "Name": "Skritci",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18
+      "UsersEstimate": 21
     },
     {
       "ID": "Ach-04-snek",
@@ -1715,8 +1715,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:10:22.7486033+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:10:22.6158896+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683371+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:00:23.8880072+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:10:22.7486489+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:00:19.2454447+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:10:22.6159381+00:00"
 }

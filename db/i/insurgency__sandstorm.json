@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 40,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 44,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-02-10T17:00:00+00:00",
     "PcReleaseDate": "2018-12-12T12:21:00+00:00",
@@ -4996,7 +4996,7 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 527886,
+  "EOS_Progressed": 527914,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 3149,
   "EOS_NewCompleters": 0,
@@ -36801,6 +36801,11 @@
       "Time": "2024-01-21T17:04:39.2495117+00:00",
       "NumProgressed": 527886,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T18:04:29.816371+00:00",
+      "NumProgressed": 527914,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -36844,7 +36849,7 @@
       "Name": "Cinematic",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 2639
+      "UsersEstimate": 2640
     },
     {
       "ID": "ACH_DESIGNATED_DRIVER",
@@ -36868,7 +36873,7 @@
       "Name": "Exploitative",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21115
+      "UsersEstimate": 21117
     },
     {
       "ID": "ACH_FIREFIGHT_VICTORY",
@@ -36916,7 +36921,7 @@
       "Name": "High Speed Low Drag",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21115
+      "UsersEstimate": 21117
     },
     {
       "ID": "ACH_JR_50",
@@ -36980,7 +36985,7 @@
       "Name": "Point Shooting",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26394
+      "UsersEstimate": 26396
     },
     {
       "ID": "ACH_PUSH_VICTORY",
@@ -37076,7 +37081,7 @@
       "Name": "Wallbanger",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 26394
+      "UsersEstimate": 26396
     },
     {
       "ID": "ACH_WET_FEET",
@@ -37084,22 +37089,22 @@
       "Name": "Wet Feet",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 21115
+      "UsersEstimate": 21117
     }
   ],
   "AchievementSets": [
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 527886,
+      "Progressed": 527914,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2024-01-21T15:57:10.7502004+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:04:39.2495114+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:04:29.8163705+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:03.317896+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:57:33.4235321+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:04:39.2496427+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:57:36.7947332+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:04:29.8165231+00:00"
 }

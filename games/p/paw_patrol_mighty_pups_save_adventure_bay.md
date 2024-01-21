@@ -20,7 +20,7 @@
 | In the Air | 35.00% | ~23 |
 | Master of the Rope | 34.00% | ~22 |
 | Training Day | 34.00% | ~22 |
-| Animal Sighting | 28.00% | ~18 |
+| Animal Sighting | 29.00% | ~19 |
 | The Fastest | 26.00% | ~17 |
 | Adventure Bay’s Citizen | 25.00% | ~16 |
 | Don’t Miss Any | 23.00% | ~15 |

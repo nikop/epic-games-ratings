@@ -5,15 +5,15 @@ Rating: 4.19 (Ranked 981)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,562 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,262 |
-| Loose Ends | 33.00% | ~27,431 |
-| To the Victor Go the Spoils | 27.00% | ~22,443 |
-| Knighthood | 26.00% | ~21,612 |
+| First Step Into the Knight | 50.00% | ~41,563 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,263 |
+| Loose Ends | 33.00% | ~27,432 |
+| To the Victor Go the Spoils | 27.00% | ~22,444 |
+| Knighthood | 26.00% | ~21,613 |
 | Get ReQ'd | 24.00% | ~19,950 |
 | Whispered Words | 24.00% | ~19,950 |
-| The Batman Family | 22.00% | ~18,287 |
-| Lock and Key | 22.00% | ~18,287 |
+| The Batman Family | 22.00% | ~18,288 |
+| Lock and Key | 22.00% | ~18,288 |
 | Something in the Clay | 20.00% | ~16,625 |
 | Quartzer Life Crisis | 20.00% | ~16,625 |
 | Working Hard or Harley Working? | 20.00% | ~16,625 |
@@ -25,9 +25,9 @@ Rating: 4.19 (Ranked 981)
 | Protector of Gotham | 16.00% | ~13,300 |
 | In Your Element | 15.00% | ~12,469 |
 | Universal Health Scare | 15.00% | ~12,469 |
-| Rock and a Hard Place | 14.00% | ~11,637 |
-| Cooldown | 14.00% | ~11,637 |
-| Voiceless | 14.00% | ~11,637 |
+| Rock and a Hard Place | 14.00% | ~11,638 |
+| Cooldown | 14.00% | ~11,638 |
+| Voiceless | 14.00% | ~11,638 |
 | Shock Til They Drop | 13.00% | ~10,806 |
 | Seeking Asylum | 13.00% | ~10,806 |
 | End of an Era | 12.00% | ~9,975 |
@@ -35,18 +35,18 @@ Rating: 4.19 (Ranked 981)
 | Bulldozed | 12.00% | ~9,975 |
 | Gotham Knight | 12.00% | ~9,975 |
 | Gotham City Confidential | 11.00% | ~9,144 |
-| Drone You Out | 10.00% | ~8,312 |
+| Drone You Out | 10.00% | ~8,313 |
 | Out of Their League | 9.00% | ~7,481 |
 | Solid Alibi | 8.00% | ~6,650 |
 | Fusion Expert | 7.00% | ~5,819 |
-| Family Meeting | 6.00% | ~4,987 |
-| A Worthy Successor | 6.00% | ~4,987 |
+| Family Meeting | 6.00% | ~4,988 |
+| A Worthy Successor | 6.00% | ~4,988 |
 | Expert Crime Fighter | 5.00% | ~4,156 |
 | Dressed to Impress | 4.00% | ~3,325 |
 | A Momentum Occasion | 3.00% | ~2,494 |
 | Bat Out of Hell | 3.00% | ~2,494 |
-| Practice Makes Perfect | 2.00% | ~1,662 |
-| He'd Be So Proud of You | 2.00% | ~1,662 |
+| Practice Makes Perfect | 2.00% | ~1,663 |
+| He'd Be So Proud of You | 2.00% | ~1,663 |
 | Talonted | 1.00% | ~831 |
 | The Man-Bat Family | 1.00% | ~831 |
 | Batarang Collector | 1.00% | ~831 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 981)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,124 (Ranked 110)  
+Progressed: 83,126 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 135 (0.16%) (Ranked 296)
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
 | 2024-01-20 | 83,086 | 135 |
-| 2024-01-21 | 83,124 | 135 |
+| 2024-01-21 | 83,126 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,237  (Ranked 102)  
 Sum: 5,534 (Ranked 145)  

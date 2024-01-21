@@ -29,7 +29,7 @@
 | Friend of Gillyshire | 15.00% | ~23 |
 | Friend of Connach | 15.00% | ~23 |
 | Friend of Orgash | 14.00% | ~22 |
-| Friend of Silver Drift Hollow | 13.00% | ~20 |
+| Friend of Silver Drift Hollow | 14.00% | ~22 |
 | Silver Drift Hollow Mine | 12.00% | ~19 |
 | Stormwatch Faste | 12.00% | ~19 |
 | Friend of Bastion | 12.00% | ~19 |

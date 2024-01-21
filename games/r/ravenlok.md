@@ -30,9 +30,9 @@
 | Ancient Wisdom | 38.00% | ~453 |
 | Frog Facts! | 38.00% | ~453 |
 | All That Glistens | 38.00% | ~453 |
+| Spellbound | 37.00% | ~441 |
 | All Skilled Up! | 37.00% | ~441 |
 | It's Pointy! | 37.00% | ~441 |
-| Spellbound | 36.00% | ~429 |
 | Extinct Again! | 36.00% | ~429 |
 | Bird of Prey | 36.00% | ~429 |
 | Stardust | 36.00% | ~429 |

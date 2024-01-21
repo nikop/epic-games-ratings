@@ -1795,10 +1795,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 603,
       "NumberOfAwardsMax": 140
+    },
+    {
+      "Time": "2024-01-21T18:02:13.9518587+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 605,
+      "NumberOfAwardsMax": 140
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 603,
+  "NumberOfAwards": 605,
   "NumberOfAwardsMax": 140,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1842,7 +1848,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 56
+      "Count": 58
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1863,9 +1869,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 89638,
+  "EOS_Progressed": 89653,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 2267,
+  "EOS_NewPlayers": 2253,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -17628,6 +17634,11 @@
       "Time": "2024-01-21T17:06:44.4895204+00:00",
       "NumProgressed": 89638,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-21T18:06:28.0623006+00:00",
+      "NumProgressed": 89653,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -17640,7 +17651,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42130
+      "UsersEstimate": 42137
     },
     {
       "ID": "10",
@@ -17648,7 +17659,7 @@
       "Name": "fifteenth Time\u0027s the Charm",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "11",
@@ -17656,7 +17667,7 @@
       "Name": "Pulling Your Weight",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "12",
@@ -17664,7 +17675,7 @@
       "Name": "Reaping Rivals",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2689
+      "UsersEstimate": 2690
     },
     {
       "ID": "13",
@@ -17680,7 +17691,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 7171
+      "UsersEstimate": 7172
     },
     {
       "ID": "15",
@@ -17688,7 +17699,7 @@
       "Name": "Gone Rogue",
       "Percentage": 1,
       "XP": 80,
-      "UsersEstimate": 896
+      "UsersEstimate": 897
     },
     {
       "ID": "16",
@@ -17704,7 +17715,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18824
+      "UsersEstimate": 18827
     },
     {
       "ID": "3",
@@ -17712,7 +17723,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12549
+      "UsersEstimate": 12551
     },
     {
       "ID": "4",
@@ -17720,7 +17731,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8067
+      "UsersEstimate": 8069
     },
     {
       "ID": "5",
@@ -17728,7 +17739,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6275
+      "UsersEstimate": 6276
     },
     {
       "ID": "6",
@@ -17736,7 +17747,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5378
+      "UsersEstimate": 5379
     },
     {
       "ID": "7",
@@ -17744,7 +17755,7 @@
       "Name": "More Power to You",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23306
+      "UsersEstimate": 23310
     },
     {
       "ID": "8",
@@ -17767,16 +17778,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 89638,
+      "Progressed": 89653,
       "Completed": 75
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-21T13:04:25.8188801+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:06:44.489519+00:00",
+  "LastChanged": "2024-01-21T18:02:13.9518586+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:06:28.0623001+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:02:57.4701694+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:06:44.489616+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:02:13.951859+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:06:28.0624043+00:00"
 }

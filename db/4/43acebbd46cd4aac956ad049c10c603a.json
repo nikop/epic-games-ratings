@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -357,7 +357,7 @@
   ],
   "EOS_Progressed": 1458,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 56,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4546,9 +4546,9 @@
       "ID": "MuseumExplorer",
       "SetID": "1n308hc",
       "Name": "Museum Explorer",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 262
+      "UsersEstimate": 277
     },
     {
       "ID": "MuseumVisitor",
@@ -4811,8 +4811,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-21T13:57:48.8610503+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:04:53.4899826+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:04:43.0411696+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:58:32.6247714+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:04:53.4900539+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:58:36.6683229+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:04:43.0412272+00:00"
 }

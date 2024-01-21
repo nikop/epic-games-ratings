@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2420,
+  "EOS_Progressed": 2421,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 96,
+  "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4931,6 +4931,11 @@
       "Time": "2024-01-21T17:11:27.2707378+00:00",
       "NumProgressed": 2420,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T18:11:23.1229218+00:00",
+      "NumProgressed": 2421,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4942,15 +4947,15 @@
       "Name": "Break Out",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "ACH_02",
       "SetID": "efe2lj",
       "Name": "Find Allies",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 653
+      "UsersEstimate": 678
     },
     {
       "ID": "ACH_03",
@@ -4958,7 +4963,7 @@
       "Name": "Powerful Allies",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "ACH_04",
@@ -4966,7 +4971,7 @@
       "Name": "Calm before the Storm",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "ACH_05",
@@ -4998,7 +5003,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 653
+      "UsersEstimate": 654
     },
     {
       "ID": "ACH_09",
@@ -5229,7 +5234,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2420,
+      "Progressed": 2421,
       "Completed": 5
     }
   ],
@@ -5237,8 +5242,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:11:27.2707373+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:11:23.1229216+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:00:03.4562767+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:11:27.2707834+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:00:01.8382921+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:11:23.1229583+00:00"
 }

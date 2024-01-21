@@ -4,8 +4,8 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,10 +24,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9977,
+  "EOS_Progressed": 9980,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1055,
-  "EOS_NewCompleters": 1,
+  "EOS_NewPlayers": 1051,
+  "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
     {
@@ -3719,6 +3719,11 @@
       "Time": "2024-01-21T17:10:30.7536865+00:00",
       "NumProgressed": 9977,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-21T18:10:29.8852437+00:00",
+      "NumProgressed": 9980,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3731,7 +3736,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4889
+      "UsersEstimate": 4890
     },
     {
       "ID": "Document1",
@@ -3794,14 +3799,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9977,
+      "Progressed": 9980,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:10:30.753686+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:10:29.8852432+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:00:00.1842226+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:10:30.7537145+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:59:58.8900662+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:10:29.8852683+00:00"
 }

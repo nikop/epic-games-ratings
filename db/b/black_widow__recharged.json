@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 149,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 152,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-10-28T07:00:00+00:00",
     "PcReleaseDate": "2021-10-28T07:00:00+00:00",
@@ -179,7 +179,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25216,
+  "EOS_Progressed": 25217,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 274,
   "EOS_NewCompleters": 0,
@@ -24079,6 +24079,11 @@
       "Time": "2024-01-21T17:06:48.8332164+00:00",
       "NumProgressed": 25216,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-21T18:06:32.0846442+00:00",
+      "NumProgressed": 25217,
+      "NumCompleted": 63
     }
   ],
   "TotalAchievements": 14,
@@ -24090,7 +24095,7 @@
       "Name": "Across The Border",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 19416
+      "UsersEstimate": 19417
     },
     {
       "ID": "ACH_AFTER_ALL",
@@ -24146,7 +24151,7 @@
       "Name": "I\u0027m Alive",
       "Percentage": 51,
       "XP": 90,
-      "UsersEstimate": 12860
+      "UsersEstimate": 12861
     },
     {
       "ID": "ACH_IN_FOR_THE_KILL",
@@ -24201,15 +24206,15 @@
     {
       "ID": "1blkama",
       "IsBase": true,
-      "Progressed": 25216,
+      "Progressed": 25217,
       "Completed": 63
     }
   ],
   "FirstSeen": "2022-07-22T20:22:32.7044802+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:51.3852983+00:00",
   "LastChanged": "2024-01-18T00:00:04.9338378+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:06:48.8332159+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:06:32.0846437+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.4392361+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:58:55.6316811+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:06:48.8333374+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:58:59.5227357+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:06:32.084797+00:00"
 }

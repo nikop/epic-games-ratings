@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7283,
+  "EOS_Progressed": 7284,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 45,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11414,6 +11414,11 @@
       "Time": "2024-01-21T17:06:41.0036128+00:00",
       "NumProgressed": 7283,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T18:06:24.6678462+00:00",
+      "NumProgressed": 7284,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11441,7 +11446,7 @@
       "Name": "There Can Only Be One!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "12",
@@ -11497,7 +11502,7 @@
       "Name": "Arch Mage",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "19",
@@ -11505,7 +11510,7 @@
       "Name": "The Creator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "2",
@@ -11545,7 +11550,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "24",
@@ -11561,7 +11566,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1092
+      "UsersEstimate": 1093
     },
     {
       "ID": "26",
@@ -11593,7 +11598,7 @@
       "Name": "Stronger Together",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "3",
@@ -11601,7 +11606,7 @@
       "Name": "Crimson Caldera",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "30",
@@ -11633,7 +11638,7 @@
       "Name": "Seat of Power",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     },
     {
       "ID": "34",
@@ -11777,7 +11782,7 @@
       "Name": "Here be Dragons",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "46",
@@ -11785,7 +11790,7 @@
       "Name": "Tipping the Scales",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "47",
@@ -11809,7 +11814,7 @@
       "Name": "Mighty Hoard",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "50",
@@ -11825,7 +11830,7 @@
       "Name": "Freed Lands of Manuhari",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 218
+      "UsersEstimate": 219
     },
     {
       "ID": "52",
@@ -11904,13 +11909,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7283,
+      "Progressed": 7284,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7283,
+      "Progressed": 7284,
       "Completed": 8
     }
   ],
@@ -11918,8 +11923,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:06:41.0036124+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:06:24.6678458+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:01:23.1838331+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:06:41.003687+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:01:20.2290516+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:06:24.6679388+00:00"
 }

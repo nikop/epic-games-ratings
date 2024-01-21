@@ -20,7 +20,7 @@
 | Bonds of Enmity | 40.00% | ~558 |
 | Flawless Crystal | 39.00% | ~544 |
 | Distance Devourer | 38.00% | ~530 |
-| Counter Specialist | 35.00% | ~489 |
+| Counter Specialist | 36.00% | ~503 |
 | Master of the Skies | 33.00% | ~461 |
 | Axer of Auspice | 30.00% | ~419 |
 | Mighty Marmelizer | 29.00% | ~405 |

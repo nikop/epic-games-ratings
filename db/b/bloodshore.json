@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 410,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 334,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -840,9 +840,9 @@
       "ID": "congratulations_you_are_a_sadist",
       "SetID": "84ad177",
       "Name": "Congratulations, you are a sadist",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 100,
-      "UsersEstimate": 139
+      "UsersEstimate": 142
     },
     {
       "ID": "deathlooper",
@@ -896,9 +896,9 @@
       "ID": "mission_complete",
       "SetID": "84ad177",
       "Name": "Mission Complete",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "super_seducer",
@@ -928,9 +928,9 @@
       "ID": "this_wont_end_well",
       "SetID": "84ad177",
       "Name": "This won\u0027t end well...",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "tried_to_warn_you",
@@ -944,9 +944,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 52,
+      "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 153
+      "UsersEstimate": 156
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -969,8 +969,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:07:02.4565944+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:06:45.1474797+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.7012056+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:04:16.4252327+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:07:02.4566086+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:04:08.5881332+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:06:45.1474978+00:00"
 }

@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~161,412 |
-| Dead-ball specialist | 61.00% | ~131,282 |
-| European Legend | 52.00% | ~111,912 |
-| Multitasking | 51.00% | ~109,760 |
-| Balanced Path | 49.00% | ~105,456 |
-| High Grades | 48.00% | ~103,304 |
-| A Moment of Your Time | 46.00% | ~98,999 |
-| Let the Games Begin | 46.00% | ~98,999 |
-| Aiming High | 46.00% | ~98,999 |
-| Tactical Tinkerer | 40.00% | ~86,086 |
-| Intuition and Execution | 39.00% | ~83,934 |
-| Squad Building Connoisseur | 38.00% | ~81,782 |
-| The Winning Formula | 36.00% | ~77,478 |
-| Parking the Bus | 27.00% | ~58,108 |
-| Safe House | 26.00% | ~55,956 |
-| Best of Five | 26.00% | ~55,956 |
-| Football is Everything | 24.00% | ~51,652 |
-| The Chosen One | 21.00% | ~45,195 |
-| Fresh Fit | 20.00% | ~43,043 |
-| Bring it on | 17.00% | ~36,587 |
-| Life-Like | 14.00% | ~30,130 |
-| Make the Grade | 12.00% | ~25,826 |
-| I Played Them All | 10.00% | ~21,522 |
-| Specialist | 10.00% | ~21,522 |
-| Teamwork works | 9.00% | ~19,369 |
-| First of Many | 9.00% | ~19,369 |
-| Momentous Achievement | 6.00% | ~12,913 |
-| Becoming Unplayable | 5.00% | ~10,761 |
-| Shop till you drop | 5.00% | ~10,761 |
-| On the way up | 5.00% | ~10,761 |
+| Power Shot | 75.00% | ~161,424 |
+| Dead-ball specialist | 61.00% | ~131,292 |
+| European Legend | 52.00% | ~111,921 |
+| Multitasking | 51.00% | ~109,768 |
+| Balanced Path | 49.00% | ~105,464 |
+| High Grades | 48.00% | ~103,311 |
+| A Moment of Your Time | 46.00% | ~99,007 |
+| Let the Games Begin | 46.00% | ~99,007 |
+| Aiming High | 46.00% | ~99,007 |
+| Tactical Tinkerer | 40.00% | ~86,093 |
+| Intuition and Execution | 39.00% | ~83,940 |
+| Squad Building Connoisseur | 38.00% | ~81,788 |
+| The Winning Formula | 36.00% | ~77,484 |
+| Parking the Bus | 27.00% | ~58,113 |
+| Safe House | 26.00% | ~55,960 |
+| Best of Five | 26.00% | ~55,960 |
+| Football is Everything | 24.00% | ~51,656 |
+| The Chosen One | 21.00% | ~45,199 |
+| Fresh Fit | 20.00% | ~43,046 |
+| Bring it on | 17.00% | ~36,589 |
+| Life-Like | 14.00% | ~30,132 |
+| Make the Grade | 12.00% | ~25,828 |
+| I Played Them All | 10.00% | ~21,523 |
+| Specialist | 10.00% | ~21,523 |
+| Teamwork works | 9.00% | ~19,371 |
+| First of Many | 9.00% | ~19,371 |
+| Momentous Achievement | 6.00% | ~12,914 |
+| Becoming Unplayable | 5.00% | ~10,762 |
+| Shop till you drop | 5.00% | ~10,762 |
+| On the way up | 5.00% | ~10,762 |
 | Volta's best | 4.00% | ~8,609 |
 | In Cahoots | 4.00% | ~8,609 |
 | Tune Your Club | 4.00% | ~8,609 |
 | Full-House | 4.00% | ~8,609 |
-| Sharing is Caring | 3.00% | ~6,456 |
+| Sharing is Caring | 3.00% | ~6,457 |
 | Full wardrobe | 0.50% | ~1,076 |
 | Girl Power | 0.40% | ~861 |
 | Training Addict | 0.10% | ~215 |
 | Dazzling Personality | 0.10% | ~215 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,216 (Ranked 82)  
+Progressed: 215,232 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -174,21 +174,21 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 214,334 | 0 |
 | 2024-01-19 | 214,630 | 0 |
 | 2024-01-20 | 214,955 | 0 |
-| 2024-01-21 | 215,216 | 0 |
+| 2024-01-21 | 215,232 | 0 |
 ## Awards
-Max (Diverse Characters): 22,329  (Ranked 21)  
-Sum: 110,760 (Ranked 17)  
+Max (Diverse Characters): 22,339  (Ranked 21)  
+Sum: 110,780 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 22,329 |
+| This game has Diverse Characters | 22,339 |
 | This game is Highly Recommended | 15,148 |
 | This game has a Competitive Community | 14,497 |
 | This game has Amazing Characters | 12,464 |
 | This game is Extremely Fun | 11,947 |
 | This game has Competitive Players | 11,885 |
-| This game has Amazing Storytelling | 11,703 |
-| This game has Quickly Understood Controls | 10,787 |
+| This game has Amazing Storytelling | 11,708 |
+| This game has Quickly Understood Controls | 10,792 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -574,4 +574,4 @@ Diff (max vs sum): 4
 | 2024-01-18 | 4.26 | 22,303 | 110,604 |
 | 2024-01-19 | 4.26 | 22,316 | 110,663 |
 | 2024-01-20 | 4.26 | 22,329 | 110,734 |
-| 2024-01-21 | 4.26 | 22,329 | 110,760 |
+| 2024-01-21 | 4.26 | 22,339 | 110,780 |

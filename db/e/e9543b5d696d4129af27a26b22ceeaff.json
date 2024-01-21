@@ -2,10 +2,10 @@
   "ID": "e9543b5d696d4129af27a26b22ceeaff",
   "Name": "International Basketball Manager 23",
   "ProductSlug": "international-basketball-manager-23-561576",
-  "Ranking_EOS_Progress": 536,
+  "Ranking_EOS_Progress": 535,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 368,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 356,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-29T07:30:00+00:00",
     "PcReleaseDate": "2022-12-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 71,
+  "EOS_Progressed": 72,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -374,6 +374,11 @@
       "Time": "2024-01-19T21:09:34.4262928+00:00",
       "NumProgressed": 71,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T18:09:52.3058168+00:00",
+      "NumProgressed": 72,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-23T13:12:02.8509977+00:00",
@@ -464,7 +469,7 @@
       "ID": "ACH_FIRST_WIN",
       "SetID": "1lnhagg",
       "Name": "The First of Many to Come",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
       "UsersEstimate": 47
     },
@@ -592,7 +597,7 @@
       "ID": "ACH_WELCOME",
       "SetID": "1lnhagg",
       "Name": "Welcome to IBM 23!",
-      "Percentage": 94,
+      "Percentage": 93,
       "XP": 5,
       "UsersEstimate": 67
     },
@@ -600,9 +605,9 @@
       "ID": "ACH_WINNER_STREAK",
       "SetID": "1lnhagg",
       "Name": "Keep the Streak Up!",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "ACH_WIN_BY_40",
@@ -641,14 +646,14 @@
     {
       "ID": "1lnhagg",
       "IsBase": true,
-      "Progressed": 71,
+      "Progressed": 72,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:09:49.8692339+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:09:52.3058164+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:00:16.354113+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:09:49.8692501+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:00:12.316538+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:09:52.305838+00:00"
 }

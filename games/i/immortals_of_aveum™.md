@@ -5,16 +5,16 @@ Rating: 4.20 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,169 |
-| Battlefields Have Memories | 82.00% | ~2,920 |
-| Enlisted | 76.00% | ~2,706 |
-| Maybe Engage a Little | 71.00% | ~2,528 |
+| Unforeseen | 89.00% | ~3,170 |
+| Battlefields Have Memories | 82.00% | ~2,921 |
+| Enlisted | 76.00% | ~2,707 |
+| Maybe Engage a Little | 71.00% | ~2,529 |
 | No More Names | 55.00% | ~1,959 |
 | Initiate | 41.00% | ~1,460 |
-| Thrada-Kul | 38.00% | ~1,353 |
+| Thrada-Kul | 38.00% | ~1,354 |
 | Gravity-Challenged Rocks | 31.00% | ~1,104 |
-| Soldier | 27.00% | ~961 |
-| All the Major Food Groups | 27.00% | ~961 |
+| Soldier | 27.00% | ~962 |
+| All the Major Food Groups | 27.00% | ~962 |
 | Socialite | 25.00% | ~890 |
 | Beggars Would Ride | 25.00% | ~890 |
 | Control is an Illusion | 24.00% | ~855 |
@@ -22,13 +22,13 @@ Rating: 4.20 (Ranked 971)
 | Resilience to Sin | 19.00% | ~677 |
 | A Familiar Nest | 18.00% | ~641 |
 | Periapt Alizarin | 18.00% | ~641 |
-| Geas Aristeya | 17.00% | ~605 |
-| A Perfect Cycle | 17.00% | ~605 |
+| Geas Aristeya | 17.00% | ~606 |
+| A Perfect Cycle | 17.00% | ~606 |
 | Recruit | 16.00% | ~570 |
 | Armsman | 14.00% | ~499 |
 | Lights Army | 12.00% | ~427 |
-| Periapt Cerulean | 9.00% | ~320 |
-| Good Boy | 9.00% | ~320 |
+| Periapt Cerulean | 9.00% | ~321 |
+| Good Boy | 9.00% | ~321 |
 | Periapt Viridian | 8.00% | ~285 |
 | Best Dressed | 7.00% | ~249 |
 | Shroudfane Explorer | 7.00% | ~249 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 971)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,561 (Ranked 230)  
+Progressed: 3,562 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
-| 2024-01-21 | 3,561 | 5 |
+| 2024-01-21 | 3,562 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 565)  
 Sum: 43 (Ranked 525)  

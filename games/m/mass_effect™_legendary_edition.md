@@ -53,6 +53,7 @@
 | The Cure | 23.00% | ~1,048 |
 | Galactic Explorer | 23.00% | ~1,048 |
 | Revenge! | 23.00% | ~1,048 |
+| Heart of Darkness | 23.00% | ~1,048 |
 | Bringer of War | 23.00% | ~1,048 |
 | Shopaholic | 23.00% | ~1,048 |
 | A Personal Touch | 22.00% | ~1,002 |
@@ -61,7 +62,6 @@
 | Treason | 22.00% | ~1,002 |
 | Big Game Hunter | 22.00% | ~1,002 |
 | Digital Exorcist | 22.00% | ~1,002 |
-| Heart of Darkness | 22.00% | ~1,002 |
 | Focused | 21.00% | ~957 |
 | Archivist | 21.00% | ~957 |
 | Friend or Foe | 21.00% | ~957 |
@@ -117,10 +117,10 @@
 | Lift Mastery | 7.00% | ~319 |
 | Overload Specialist | 7.00% | ~319 |
 | Hijacker | 6.00% | ~273 |
+| Insanity I | 4.00% | ~182 |
 | Damping Specialist | 4.00% | ~182 |
 | Singularity Mastery | 4.00% | ~182 |
 | Shield Breaker | 3.00% | ~137 |
-| Insanity I | 3.00% | ~137 |
 | Incineration Specialist | 3.00% | ~137 |
 | Warp Specialist | 3.00% | ~137 |
 | Insanity II | 2.00% | ~91 |
@@ -130,7 +130,7 @@
 | Gunsmith | 1.00% | ~46 |
 | Neural Shock Specialist | 1.00% | ~46 |
 | Insanity III | 0.90% | ~41 |
-| The One and Only | 0.50% | ~23 |
+| The One and Only | 0.60% | ~27 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,556 (Ranked 212)  
 Completed: 14 (0.31%) (Ranked 262)  

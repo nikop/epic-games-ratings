@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 313,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2020-04-23T00:00:00+00:00",
@@ -426,9 +426,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 209552,
+  "EOS_Progressed": 209556,
   "EOS_Completed": 567,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 411,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -29941,6 +29941,11 @@
       "Time": "2024-01-21T17:05:52.2997061+00:00",
       "NumProgressed": 209552,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2024-01-21T18:05:39.1617771+00:00",
+      "NumProgressed": 209556,
+      "NumCompleted": 567
     }
   ],
   "TotalAchievements": 29,
@@ -29976,7 +29981,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 196979
+      "UsersEstimate": 196983
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30136,7 +30141,7 @@
       "Name": "Snooper.",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 20955
+      "UsersEstimate": 20956
     },
     {
       "ID": "ACHIEVEMENT_SNOOPERCOMPLETE",
@@ -30183,7 +30188,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209552,
+      "Progressed": 209556,
       "Completed": 567
     }
   ],
@@ -30191,8 +30196,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-15T08:03:08.7905455+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:05:52.2997058+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:05:39.1617766+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:01:56.005536+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:05:52.2998279+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:01:54.0340114+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:05:39.1619378+00:00"
 }

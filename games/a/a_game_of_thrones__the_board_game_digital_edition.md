@@ -6,21 +6,21 @@ Number of Ratings: 2,500  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Conqueror | 40.00% | ~13,616 |
-| Battering Crew | 19.00% | ~6,468 |
-| The Kingsroad | 17.00% | ~5,787 |
-| Well Stocked | 13.00% | ~4,425 |
+| Conqueror | 40.00% | ~13,618 |
+| Battering Crew | 19.00% | ~6,469 |
+| The Kingsroad | 17.00% | ~5,788 |
+| Well Stocked | 13.00% | ~4,426 |
 | Royal Fleet | 12.00% | ~4,085 |
-| The Kraken’s Grasp | 8.00% | ~2,723 |
-| Alliance | 8.00% | ~2,723 |
+| The Kraken’s Grasp | 9.00% | ~3,064 |
+| Alliance | 8.00% | ~2,724 |
 | Daggers in the Dark | 7.00% | ~2,383 |
 | Oathkeeper | 7.00% | ~2,383 |
 | Influential | 7.00% | ~2,383 |
 | A Long Journey | 7.00% | ~2,383 |
-| Ours is the Fury | 6.00% | ~2,042 |
-| We Do Not Sow | 6.00% | ~2,042 |
-| Winter is Coming | 6.00% | ~2,042 |
-| Defender of the Wall | 6.00% | ~2,042 |
+| Ours is the Fury | 6.00% | ~2,043 |
+| We Do Not Sow | 6.00% | ~2,043 |
+| Winter is Coming | 6.00% | ~2,043 |
+| Defender of the Wall | 6.00% | ~2,043 |
 | Unbowed, Unbent, Unbroken | 5.00% | ~1,702 |
 | Growing Strong | 5.00% | ~1,702 |
 | Hear me Roar! | 5.00% | ~1,702 |
@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~681 |
 | War of the Five Kings | 1.00% | ~340 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,040 (Ranked 141)  
+Progressed: 34,045 (Ranked 141)  
 Completed: 88 (0.26%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -305,17 +305,17 @@ Completed: 88 (0.26%) (Ranked 274)
 | 2024-01-18 | 33,780 | 88 |
 | 2024-01-19 | 33,866 | 88 |
 | 2024-01-20 | 33,975 | 88 |
-| 2024-01-21 | 34,040 | 88 |
+| 2024-01-21 | 34,045 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 354)  
-Sum: 817 (Ranked 294)  
+Sum: 818 (Ranked 294)  
 Diff (max vs sum): 60  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 129 |
 | This game is Extremely Fun | 114 |
 | This game is Highly Recommended | 114 |
-| This game has Competitive Players | 101 |
+| This game has Competitive Players | 102 |
 | This game is Relaxing | 99 |
 | This game has Amazing Storytelling | 95 |
 | This game has Amazing Characters | 88 |
@@ -434,3 +434,4 @@ Diff (max vs sum): 60
 | 2024-01-17 | 4.21 | - | 129 | 815 |
 | 2024-01-19 | 4.21 | - | 129 | 816 |
 | 2024-01-20 | 4.21 | - | 129 | 817 |
+| 2024-01-21 | 4.21 | - | 129 | 818 |

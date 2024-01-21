@@ -46,7 +46,7 @@
 | Relic Hunter | 0.00% | ~0 |
 | Maxed out | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 632)  
+Progressed: 19 (Ranked 633)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -4,8 +4,8 @@
   "ProductSlug": "spellforce-conquest-of-eo",
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 323,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 321,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -1234,9 +1234,9 @@
       "ID": "Max_Reputation_SilverDriftHollow",
       "SetID": "7b9f97e",
       "Name": "Friend of Silver Drift Hollow",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "Max_Reputation_Southwatch",
@@ -1363,8 +1363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:11:06.8261121+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:11:03.7060624+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.6757583+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:58:38.6706356+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:11:06.8261603+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:58:42.2883078+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:11:03.7061266+00:00"
 }

@@ -21,7 +21,7 @@
 | Pop Mode | 0.00% | ~0 |
 | Swap Mode | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19 (Ranked 632)  
+Progressed: 19 (Ranked 633)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |

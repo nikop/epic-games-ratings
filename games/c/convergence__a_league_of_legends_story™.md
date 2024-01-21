@@ -6,10 +6,10 @@ Rating: 4.66 (Ranked 306)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Time Heals All Wounds | 48.00% | ~648 |
-| The Mysterious Stranger | 36.00% | ~486 |
 | Rail Rat | 36.00% | ~486 |
+| The Mysterious Stranger | 35.00% | ~472 |
 | Immaculate Aim | 30.00% | ~405 |
-| The Brass Boss | 29.00% | ~391 |
+| The Brass Boss | 29.00% | ~392 |
 | Time Flies | 28.00% | ~378 |
 | Make Up For Lost Time | 27.00% | ~364 |
 | No, Thanks! | 27.00% | ~364 |
@@ -18,15 +18,15 @@ Rating: 4.66 (Ranked 306)
 | Immaculate Aim | 27.00% | ~364 |
 | The Harder They Fall | 26.00% | ~351 |
 | Fast Learner | 26.00% | ~351 |
-| The Steel Shadow | 25.00% | ~337 |
+| The Steel Shadow | 25.00% | ~338 |
 | Breaking Down Barriers | 24.00% | ~324 |
 | The Wicked Twins | 24.00% | ~324 |
 | Right On Time | 23.00% | ~310 |
 | Like Clockwork | 23.00% | ~310 |
+| The Betrayer | 23.00% | ~310 |
 | Golem Chaser | 23.00% | ~310 |
-| The Betrayer | 22.00% | ~297 |
-| The Loose Cannon | 21.00% | ~283 |
-| Check Your Pulse | 21.00% | ~283 |
+| The Loose Cannon | 21.00% | ~284 |
+| Check Your Pulse | 21.00% | ~284 |
 | Street Style | 19.00% | ~256 |
 | The Man Who Shattered Time | 19.00% | ~256 |
 | The Family Fortune | 19.00% | ~256 |
@@ -34,32 +34,32 @@ Rating: 4.66 (Ranked 306)
 | Good Neighbor | 16.00% | ~216 |
 | Family Memories | 14.00% | ~189 |
 | Ask Questions Later | 14.00% | ~189 |
-| Chaincrawler Explorer | 13.00% | ~175 |
-| Cartographer | 13.00% | ~175 |
-| Sump Explorer | 13.00% | ~175 |
-| Syron for Hope | 13.00% | ~175 |
+| Chaincrawler Explorer | 13.00% | ~176 |
+| Cartographer | 13.00% | ~176 |
+| Sump Explorer | 13.00% | ~176 |
+| Syron for Hope | 13.00% | ~176 |
 | Treasure Trove | 12.00% | ~162 |
 | Factorywood Explorer | 11.00% | ~148 |
 | Theater Explorer | 11.00% | ~148 |
 | Cultivair Explorer | 10.00% | ~135 |
 | Fairgrounds Explorer | 10.00% | ~135 |
-| Corin Goes Home | 9.00% | ~121 |
-| Entresol Explorer | 9.00% | ~121 |
+| Corin Goes Home | 9.00% | ~122 |
+| Entresol Explorer | 9.00% | ~122 |
 | Sartorialist | 8.00% | ~108 |
-| Golem Hunter | 7.00% | ~94 |
+| Golem Hunter | 7.00% | ~95 |
 | Clovemary for Remembering | 6.00% | ~81 |
 | Hexlock for Protection | 6.00% | ~81 |
 | Rungs Was Right | 6.00% | ~81 |
 | Wunderkind | 3.00% | ~40 |
 | Thinking Two Steps Ahead | 2.00% | ~27 |
 | Fitting In | 2.00% | ~27 |
-| No Time to Waste | 1.00% | ~13 |
+| No Time to Waste | 1.00% | ~14 |
 | A Lesson in Precision | 0.90% | ~12 |
 | Wildlife Protection | 0.70% | ~9 |
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,349 (Ranked 283)  
+Progressed: 1,350 (Ranked 283)  
 Completed: 8 (0.59%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -241,7 +241,7 @@ Completed: 8 (0.59%) (Ranked 217)
 | 2024-01-18 | 1,339 | 8 |
 | 2024-01-19 | 1,343 | 8 |
 | 2024-01-20 | 1,347 | 8 |
-| 2024-01-21 | 1,349 | 8 |
+| 2024-01-21 | 1,350 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

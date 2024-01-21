@@ -6,19 +6,19 @@ Number of Ratings: 1,611  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goodest Of The Good Cops | 28.00% | ~39,149 |
-| Biggest Communism Builder | 23.00% | ~32,158 |
-| The World's Most Laughable Centrist | 20.00% | ~27,963 |
-| Il Coppo Del'Arte! | 18.00% | ~25,167 |
-| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,371 |
+| Goodest Of The Good Cops | 28.00% | ~39,150 |
+| Biggest Communism Builder | 23.00% | ~32,159 |
+| The World's Most Laughable Centrist | 20.00% | ~27,964 |
+| Il Coppo Del'Arte! | 18.00% | ~25,168 |
+| Baddest Hustler In The Neoliberal Hood | 16.00% | ~22,372 |
 | Hyperstellar Law Official | 15.00% | ~20,973 |
-| Recruit Detective Kim Kitsuragi | 14.00% | ~19,574 |
-| Gurdi-Ball Is Lit | 14.00% | ~19,574 |
-| Literally The Sorriest Cop On Earth | 13.00% | ~18,176 |
+| Recruit Detective Kim Kitsuragi | 14.00% | ~19,575 |
+| Gurdi-Ball Is Lit | 14.00% | ~19,575 |
+| Literally The Sorriest Cop On Earth | 13.00% | ~18,177 |
 | Truly Rabid *Traditionalist* | 11.00% | ~15,380 |
 | Unbelievably Boring **** | 9.00% | ~12,584 |
 | The Figurines Won't Win Her Back | 9.00% | ~12,584 |
-| Enemy Of The Physical Realm | 8.00% | ~11,185 |
+| Enemy Of The Physical Realm | 8.00% | ~11,186 |
 | Hardie's Heroes | 6.00% | ~8,389 |
 | The Lawbringer | 4.00% | ~5,593 |
 | Fairweather t-500 Vitreous Enamel | 4.00% | ~5,593 |
@@ -47,7 +47,7 @@ Number of Ratings: 1,611  (23.09.2022)
 | Medal dispenser | 0.10% | ~140 |
 | What body? | 0.10% | ~140 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 139,817 (Ranked 91)  
+Progressed: 139,822 (Ranked 91)  
 Completed: 29 (0.02%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 29 (0.02%) (Ranked 371)
 | 2024-01-18 | 139,576 | 29 |
 | 2024-01-19 | 139,662 | 29 |
 | 2024-01-20 | 139,765 | 29 |
-| 2024-01-21 | 139,817 | 29 |
+| 2024-01-21 | 139,822 | 29 |
 ## Awards
 Max (Character Customization): 769  (Ranked 192)  
 Sum: 1,174 (Ranked 266)  

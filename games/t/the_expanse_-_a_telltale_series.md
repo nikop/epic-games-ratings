@@ -1,7 +1,7 @@
 # The Expanse - A Telltale Series
 [Store](https://store.epicgames.com/en-US/p/the-expanse-a-telltale-series)  
 [View Rawdata](../../db/t/the_expanse_-_a_telltale_series.json)  
-Rating: 4.54 (Ranked 551)  
+Rating: 4.54 (Ranked 550)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -15,8 +15,8 @@ Rating: 4.54 (Ranked 551)
 | Spore Taste | 13.00% | ~2,498 |
 | Drone Dodger | 13.00% | ~2,498 |
 | Stogie for Fogey | 12.00% | ~2,306 |
-| Zen Master | 11.00% | ~568 |
-| Call it Even | 10.00% | ~1,921 |
+| Zen Master | 11.00% | ~569 |
+| Call it Even | 10.00% | ~1,922 |
 | Safe Cracker | 10.00% | ~517 |
 | Madame Undersecretary | 10.00% | ~517 |
 | Heal Thy Medic | 9.00% | ~1,729 |
@@ -24,7 +24,7 @@ Rating: 4.54 (Ranked 551)
 | Drug Gifter | 8.00% | ~1,537 |
 | Thorston Mayer | 8.00% | ~1,537 |
 | Khan's Revenge | 8.00% | ~1,537 |
-| Keep Arjun in Check | 8.00% | ~413 |
+| Keep Arjun in Check | 8.00% | ~414 |
 | Doctor Approved | 7.00% | ~1,345 |
 | Bottoms up! | 7.00% | ~1,345 |
 | Master Negotiator | 7.00% | ~362 |
@@ -37,11 +37,11 @@ Rating: 4.54 (Ranked 551)
 | Data Recoverer | 2.00% | ~384 |
 | Urshanabi Hoarder | 1.00% | ~192 |
 | Grave Robber | 0.80% | ~154 |
-| Data Miner | 0.70% | ~134 |
+| Data Miner | 0.70% | ~135 |
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,214 (Ranked 160)  
+Progressed: 19,215 (Ranked 160)  
 Completed: 66 (0.34%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -224,7 +224,7 @@ Completed: 66 (0.34%) (Ranked 256)
 | 2024-01-18 | 19,145 | 66 |
 | 2024-01-19 | 19,168 | 66 |
 | 2024-01-20 | 19,199 | 66 |
-| 2024-01-21 | 19,214 | 66 |
+| 2024-01-21 | 19,215 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

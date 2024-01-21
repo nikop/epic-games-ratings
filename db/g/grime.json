@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 271,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 46,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1933,10 +1933,10 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169171,
-  "EOS_Completed": 464,
-  "EOS_NewPlayers": 985,
-  "EOS_NewCompleters": 6,
+  "EOS_Progressed": 169176,
+  "EOS_Completed": 465,
+  "EOS_NewPlayers": 983,
+  "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -23948,6 +23948,11 @@
       "Time": "2024-01-21T17:08:26.8569009+00:00",
       "NumProgressed": 169171,
       "NumCompleted": 464
+    },
+    {
+      "Time": "2024-01-21T18:08:05.0700939+00:00",
+      "NumProgressed": 169176,
+      "NumCompleted": 465
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24032,7 +24037,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3383
+      "UsersEstimate": 3384
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -24327,21 +24332,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168754,
-      "Completed": 1267
+      "Progressed": 168759,
+      "Completed": 1268
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169171,
-      "Completed": 464
+      "Progressed": 169176,
+      "Completed": 465
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-21T01:56:25.9231055+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:08:26.8569004+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:08:05.0700934+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:59:00.228595+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:08:26.8570064+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:59:04.230227+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:08:05.0702402+00:00"
 }

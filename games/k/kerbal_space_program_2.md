@@ -4,8 +4,8 @@
 Rating: 4.27 (Ranked 914)  
 ## Awards
 Max (Relaxing): 55  (Ranked 450)  
-Sum: 318 (Ranked 379)  
-Diff (max vs sum): 71  
+Sum: 318 (Ranked 380)  
+Diff (max vs sum): 70  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 55 |

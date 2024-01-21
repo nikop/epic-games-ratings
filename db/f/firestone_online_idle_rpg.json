@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4718,
+  "EOS_Progressed": 4721,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13179,6 +13179,11 @@
       "Time": "2024-01-21T17:06:22.2512153+00:00",
       "NumProgressed": 4718,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T18:06:07.2939772+00:00",
+      "NumProgressed": 4721,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13254,7 +13259,7 @@
       "Name": "Challenger",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "conqueror",
@@ -13278,7 +13283,7 @@
       "Name": "Daily Quest Completionist",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "doingmypart",
@@ -13302,7 +13307,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "dragonslayer",
@@ -13324,9 +13329,9 @@
       "ID": "enchantingskill",
       "SetID": "3nl4bcg",
       "Name": "Enchanting skill",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 236
+      "UsersEstimate": 283
     },
     {
       "ID": "enchantingskillx5",
@@ -13358,7 +13363,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "exoticmerchant",
@@ -13374,7 +13379,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1982
+      "UsersEstimate": 1983
     },
     {
       "ID": "fourleafclover",
@@ -13390,15 +13395,15 @@
       "Name": "Frostfire Liberator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "fullparty",
       "SetID": "3nl4bcg",
       "Name": "Full Party",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1415
+      "UsersEstimate": 1464
     },
     {
       "ID": "gearenchanting",
@@ -13422,7 +13427,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1038
+      "UsersEstimate": 1039
     },
     {
       "ID": "herewegoagain",
@@ -13438,7 +13443,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "howdoyouturnthison",
@@ -13454,7 +13459,7 @@
       "Name": "Hunter",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "inspection",
@@ -13462,7 +13467,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 613
+      "UsersEstimate": 614
     },
     {
       "ID": "jewelenchanting",
@@ -13486,7 +13491,7 @@
       "Name": "Lieutenant",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 567
     },
     {
       "ID": "lockandload",
@@ -13510,7 +13515,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "milestonecollector",
@@ -13542,7 +13547,7 @@
       "Name": "Moving Up The Ladder",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "mysteriousrock",
@@ -13582,7 +13587,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2453
+      "UsersEstimate": 2455
     },
     {
       "ID": "prestigiousx10",
@@ -13598,7 +13603,7 @@
       "Name": "Relic Of The Past",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "sailor",
@@ -13622,7 +13627,7 @@
       "Name": "Scroll Master",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 377
+      "UsersEstimate": 378
     },
     {
       "ID": "silverwoodliberator",
@@ -13646,7 +13651,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2642
+      "UsersEstimate": 2644
     },
     {
       "ID": "thealchemist",
@@ -13678,7 +13683,7 @@
       "Name": "The game is on",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "thepowerofawakening",
@@ -13750,7 +13755,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4388
+      "UsersEstimate": 4391
     },
     {
       "ID": "warmachinesarmy",
@@ -13782,14 +13787,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3680
+      "UsersEstimate": 3682
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4718,
+      "Progressed": 4721,
       "Completed": 2
     }
   ],
@@ -13797,8 +13802,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:06:22.251215+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:06:07.2939768+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:01:37.0385736+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:06:22.2513206+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:01:32.5362421+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:06:07.29409+00:00"
 }

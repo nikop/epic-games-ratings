@@ -2,10 +2,10 @@
   "ID": "030b8c8affd342dcb3bd37eecfd2c143",
   "Name": "Airship Kingdoms Adrift",
   "ProductSlug": "airship-kingdoms-adrift-cc8448",
-  "Ranking_EOS_Progress": 709,
+  "Ranking_EOS_Progress": 698,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 382,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2024-01-19T19:26:23.12+00:00",
     "PcReleaseDate": "2024-01-19T14:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -52,6 +52,11 @@
       "Time": "2024-01-21T12:05:21.4644266+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T18:06:57.1763888+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T08:06:37.4089564+00:00",
@@ -62,7 +67,7 @@
       "ID": "ACH_AN_OLD_FIREND",
       "SetID": "9i65mgf",
       "Name": "An Old Friend",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -70,7 +75,7 @@
       "ID": "ACH_AN_OLD_HERO",
       "SetID": "9i65mgf",
       "Name": "An Old Hero",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -86,7 +91,7 @@
       "ID": "ACH_ATTENTION_PEA",
       "SetID": "9i65mgf",
       "Name": "Attention Peasant!",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -142,7 +147,7 @@
       "ID": "ACH_DAMSEL_IN_DISTRESS",
       "SetID": "9i65mgf",
       "Name": "Damsel in Distress?",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -166,7 +171,7 @@
       "ID": "ACH_DREAM_OF_FLIGHT",
       "SetID": "9i65mgf",
       "Name": "Dream of Flight",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -174,7 +179,7 @@
       "ID": "ACH_FLIGHT_CHECK",
       "SetID": "9i65mgf",
       "Name": "Flight Check",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -190,7 +195,7 @@
       "ID": "ACH_FOR_THE_REPUBLIC",
       "SetID": "9i65mgf",
       "Name": "For the Republic!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -206,7 +211,7 @@
       "ID": "ACH_FRIENDLY_NEIGHBORHOOD_COMMANDER",
       "SetID": "9i65mgf",
       "Name": "Friendly Neighborhood Commander",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -230,7 +235,7 @@
       "ID": "ACH_GENTLEMEN_PIRATES",
       "SetID": "9i65mgf",
       "Name": "Gentlemen Pirates",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -254,7 +259,7 @@
       "ID": "ACH_GOOD_BUTCHER",
       "SetID": "9i65mgf",
       "Name": "Good Butcher",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -270,7 +275,7 @@
       "ID": "ACH_GOOD_CARPENTER",
       "SetID": "9i65mgf",
       "Name": "Good Carpenter",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -278,7 +283,7 @@
       "ID": "ACH_GOOD_COOK",
       "SetID": "9i65mgf",
       "Name": "Good Cook",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -310,7 +315,7 @@
       "ID": "ACH_GOOD_FABRICATOR",
       "SetID": "9i65mgf",
       "Name": "Good Fabricator",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -318,7 +323,7 @@
       "ID": "ACH_GOOD_FARMER",
       "SetID": "9i65mgf",
       "Name": "Good Farmer",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -342,7 +347,7 @@
       "ID": "ACH_GOOD_FORESTER",
       "SetID": "9i65mgf",
       "Name": "Good Forester",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -350,7 +355,7 @@
       "ID": "ACH_GOOD_FOUNDER",
       "SetID": "9i65mgf",
       "Name": "Good Founder",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -358,7 +363,7 @@
       "ID": "ACH_GOOD_GRINDER",
       "SetID": "9i65mgf",
       "Name": "Good Grinder",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -398,7 +403,7 @@
       "ID": "ACH_GOOD_MASON",
       "SetID": "9i65mgf",
       "Name": "Good Mason",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -462,7 +467,7 @@
       "ID": "ACH_HOME_MADE",
       "SetID": "9i65mgf",
       "Name": "Home Made",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -494,9 +499,9 @@
       "ID": "ACH_IN_HIS_MAJESTY_SERVICE",
       "SetID": "9i65mgf",
       "Name": "In His Majesty\u0027s Service!",
-      "Percentage": 20,
+      "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_IN_THE_NAME_OF_THE_PEOPLE",
@@ -510,7 +515,7 @@
       "ID": "ACH_IT_IS_UNSAFE_OUT_HERE",
       "SetID": "9i65mgf",
       "Name": "It is Unsafe Out Here",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -518,7 +523,7 @@
       "ID": "ACH_IT_S_COMMANDEERING",
       "SetID": "9i65mgf",
       "Name": "It\u2019s Commandeering",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -526,7 +531,7 @@
       "ID": "ACH_IT_S_SMARTER_TO_PAY_THE_TOLL",
       "SetID": "9i65mgf",
       "Name": "It\u2019s Smarter to Pay the Toll",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -542,7 +547,7 @@
       "ID": "ACH_LET_S_GET_RICH",
       "SetID": "9i65mgf",
       "Name": "Let\u2019s get Rich",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -550,7 +555,7 @@
       "ID": "ACH_LIVING_OFF_THE_LAND",
       "SetID": "9i65mgf",
       "Name": "Living off the Land",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -566,7 +571,7 @@
       "ID": "ACH_MEET_HARBOURMASTER",
       "SetID": "9i65mgf",
       "Name": "Meet THE Harbormaster",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -590,7 +595,7 @@
       "ID": "ACH_NOT_AGAIN",
       "SetID": "9i65mgf",
       "Name": "Not Again",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -598,7 +603,7 @@
       "ID": "ACH_NOT_A_GOOD_DECOY",
       "SetID": "9i65mgf",
       "Name": "Not a Good Decoy",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -606,7 +611,7 @@
       "ID": "ACH_NOW_YOU_KNEW",
       "SetID": "9i65mgf",
       "Name": "Now You Knew",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -622,7 +627,7 @@
       "ID": "ACH_OUR_OWN_PATH",
       "SetID": "9i65mgf",
       "Name": "Our Own Path",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -638,7 +643,7 @@
       "ID": "ACH_OUR_TINY_LITTLE",
       "SetID": "9i65mgf",
       "Name": "Our Tiny Little Fleet",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -654,7 +659,7 @@
       "ID": "ACH_PINK_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Pink Flower",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -686,7 +691,7 @@
       "ID": "ACH_RED_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Red Flower",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -702,7 +707,7 @@
       "ID": "ACH_SAFE_DELIVERY",
       "SetID": "9i65mgf",
       "Name": "Safe Delivery",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -726,7 +731,7 @@
       "ID": "ACH_SHADY_BUSINESS",
       "SetID": "9i65mgf",
       "Name": "Shady Business",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -734,7 +739,7 @@
       "ID": "ACH_SHELLSHOCK",
       "SetID": "9i65mgf",
       "Name": "Shellshock",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -742,7 +747,7 @@
       "ID": "ACH_SHIPPING_SHIPS",
       "SetID": "9i65mgf",
       "Name": "Shipping Ships",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -766,7 +771,7 @@
       "ID": "ACH_SMALL_BUSINESS",
       "SetID": "9i65mgf",
       "Name": "Small Business",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -782,7 +787,7 @@
       "ID": "ACH_STARTING_UP",
       "SetID": "9i65mgf",
       "Name": "Starting Up",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -830,7 +835,7 @@
       "ID": "ACH_THERE_SHE_BLOWS",
       "SetID": "9i65mgf",
       "Name": "There She Blows!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -854,7 +859,7 @@
       "ID": "ACH_THE_AMBER_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Amber Flower",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -886,7 +891,7 @@
       "ID": "ACH_THE_BLUE_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Blue Flower",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -902,7 +907,7 @@
       "ID": "ACH_THE_COIL_FANATIC",
       "SetID": "9i65mgf",
       "Name": "The Coil Fanatic",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -910,7 +915,7 @@
       "ID": "ACH_THE_COMBATANT",
       "SetID": "9i65mgf",
       "Name": "The Combatant",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -926,7 +931,7 @@
       "ID": "ACH_THE_FIRST_PRINCESS",
       "SetID": "9i65mgf",
       "Name": "The First Princess",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -950,7 +955,7 @@
       "ID": "ACH_THE_GREEN_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Green Flower",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -958,7 +963,7 @@
       "ID": "ACH_THE_HIMMELHAART_FAR_FROM_HOME",
       "SetID": "9i65mgf",
       "Name": "The Himmelhaart far from Home",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -974,7 +979,7 @@
       "ID": "ACH_THE_IMPOSSIBLE_DREAM",
       "SetID": "9i65mgf",
       "Name": "The Impossible Dream",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -982,9 +987,9 @@
       "ID": "ACH_THE_INDUSTRIALIST",
       "SetID": "9i65mgf",
       "Name": "The Industrialist",
-      "Percentage": 80,
+      "Percentage": 83,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_THE_LOGISTICIAN",
@@ -1014,7 +1019,7 @@
       "ID": "ACH_THE_MOTHER_OCEAN",
       "SetID": "9i65mgf",
       "Name": "The Mother Ocean",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1134,7 +1139,7 @@
       "ID": "ACH_THE_TREE_FANATIC",
       "SetID": "9i65mgf",
       "Name": "The Tree Fanatic",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1142,7 +1147,7 @@
       "ID": "ACH_THE_TRIAL_BEGINS",
       "SetID": "9i65mgf",
       "Name": "The Trial Begins",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 4
     },
@@ -1174,7 +1179,7 @@
       "ID": "ACH_TORPEDOES",
       "SetID": "9i65mgf",
       "Name": "Torpedoes!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1206,7 +1211,7 @@
       "ID": "ACH_TUCK_THE_TAIL",
       "SetID": "9i65mgf",
       "Name": "Tuck the Tail",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -1214,7 +1219,7 @@
       "ID": "ACH_UNITED_WE_STAND",
       "SetID": "9i65mgf",
       "Name": "United We Stand!",
-      "Percentage": 20,
+      "Percentage": 17,
       "XP": 5,
       "UsersEstimate": 1
     },
@@ -1230,7 +1235,7 @@
       "ID": "ACH_WHOOPS",
       "SetID": "9i65mgf",
       "Name": "Whoops",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1238,7 +1243,7 @@
       "ID": "ACH_WISE_DECISION",
       "SetID": "9i65mgf",
       "Name": "Wise Decision",
-      "Percentage": 80,
+      "Percentage": 67,
       "XP": 5,
       "UsersEstimate": 4
     }
@@ -1247,13 +1252,13 @@
     {
       "ID": "9i65mgf",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:07:15.2739098+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:06:57.1763883+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.652208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:59:11.0846878+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:07:15.2740732+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:59:13.083029+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:06:57.1766257+00:00"
 }

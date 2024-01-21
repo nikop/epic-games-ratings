@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 70,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3942,7 +3942,7 @@
   ],
   "EOS_Progressed": 243335,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 374,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32824,9 +32824,9 @@
       "ID": "FIREBEAD20EXPLOSIONS",
       "SetID": "5l8oe0h",
       "Name": "Barbecue",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 730
+      "UsersEstimate": 973
     },
     {
       "ID": "FIREBREEDEXPLOSION",
@@ -33703,8 +33703,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-21T04:02:18.4772606+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:11:36.5156576+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:11:32.2698766+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:02:13.332753+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:11:36.5159009+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:02:10.7232696+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:11:32.2701233+00:00"
 }

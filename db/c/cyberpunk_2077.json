@@ -2,7 +2,7 @@
   "ID": "77f2b98e2cef40c8a7437518bf420e47",
   "Name": "Cyberpunk 2077",
   "ProductSlug": "cyberpunk-2077",
-  "Ranking_Rating": 285,
+  "Ranking_Rating": 286,
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
@@ -18768,10 +18768,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 510867,
       "NumberOfAwardsMax": 143148
+    },
+    {
+      "Time": "2024-01-21T18:03:57.7995562+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 511117,
+      "NumberOfAwardsMax": 143148
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 510867,
+  "NumberOfAwards": 511117,
   "NumberOfAwardsMax": 143148,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18815,7 +18821,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 30364
+      "Count": 30614
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18848,10 +18854,10 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056607,
-  "EOS_Completed": 3143,
-  "EOS_NewPlayers": 5505,
-  "EOS_NewCompleters": 49,
+  "EOS_Progressed": 1056643,
+  "EOS_Completed": 3144,
+  "EOS_NewPlayers": 5495,
+  "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50503,6 +50509,11 @@
       "Time": "2024-01-21T17:09:54.9374675+00:00",
       "NumProgressed": 1056607,
       "NumCompleted": 3143
+    },
+    {
+      "Time": "2024-01-21T18:09:56.9493381+00:00",
+      "NumProgressed": 1056643,
+      "NumCompleted": 3144
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50531,7 +50542,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "Cyberjunkie",
@@ -50587,7 +50598,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "Gunslinger",
@@ -50603,7 +50614,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "IAmMaxTac",
@@ -50641,9 +50652,9 @@
       "ID": "MaxPain",
       "SetID": "47clieb",
       "Name": "The Quick and the Dead",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3170
+      "UsersEstimate": 4227
     },
     {
       "ID": "MustBeTheRats",
@@ -50731,7 +50742,7 @@
       "Name": "The Fool",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "TheHermit",
@@ -50787,7 +50798,7 @@
       "Name": "The World",
       "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "ThisIsPacifica",
@@ -50835,7 +50846,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4226
+      "UsersEstimate": 4227
     },
     {
       "ID": "VForVendetta",
@@ -50915,7 +50926,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "Kingofcups",
@@ -50969,9 +50980,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 741
+      "UsersEstimate": 926
     },
     {
       "ID": "HydraIsDead",
@@ -51019,7 +51030,7 @@
       "Name": "King of Wands",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "TheTower",
@@ -51043,28 +51054,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056607,
-      "Completed": 3143
+      "Progressed": 1056643,
+      "Completed": 3144
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185230,
-      "Completed": 10672
+      "Progressed": 185266,
+      "Completed": 10673
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-21T16:03:21.5834512+00:00",
-  "LastChanged_Achievements": "2024-01-21T17:09:54.937467+00:00",
+  "LastChanged": "2024-01-21T18:03:57.799556+00:00",
+  "LastChanged_Achievements": "2024-01-21T18:09:56.9493376+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:04:05.1342871+00:00",
-  "LastUpdate_Achievements": "2024-01-21T17:09:54.9376547+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:03:57.7995566+00:00",
+  "LastUpdate_Achievements": "2024-01-21T18:09:56.9494906+00:00"
 }

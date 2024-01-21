@@ -67,6 +67,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Antivenom | 0.50% | ~1,217 |
 | The Long Run | 0.50% | ~1,217 |
 | New Game+ | 0.40% | ~973 |
+| Barbecue | 0.40% | ~973 |
 | Juggernaut | 0.40% | ~973 |
 | Decisions, Decisions | 0.40% | ~973 |
 | Fragile Mortality | 0.40% | ~973 |
@@ -76,7 +77,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Achievement Hunter | 0.30% | ~730 |
 | Challenge Increases | 0.30% | ~730 |
 | A Long Climb | 0.30% | ~730 |
-| Barbecue | 0.30% | ~730 |
 | Grave Digger | 0.30% | ~730 |
 | Soul Stash | 0.30% | ~730 |
 | Gigantic | 0.30% | ~730 |
