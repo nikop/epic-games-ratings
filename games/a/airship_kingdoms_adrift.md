@@ -4,6 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Now You Knew | 80.00% | ~4 |
+| The Red Flower | 80.00% | ~4 |
 | The Industrialist | 80.00% | ~4 |
 | The Trial Begins | 80.00% | ~4 |
 | Wise Decision | 80.00% | ~4 |
@@ -11,8 +13,6 @@
 | Attention Peasant! | 60.00% | ~3 |
 | Flight Check | 60.00% | ~3 |
 | Meet THE Harbormaster | 60.00% | ~3 |
-| Now You Knew | 60.00% | ~3 |
-| The Red Flower | 60.00% | ~3 |
 | Damsel in Distress? | 40.00% | ~2 |
 | Not a Good Decoy | 40.00% | ~2 |
 | The Pink Flower | 40.00% | ~2 |
@@ -36,6 +36,7 @@
 | Good Grinder | 20.00% | ~1 |
 | Good Mason | 20.00% | ~1 |
 | Home Made | 20.00% | ~1 |
+| In His Majesty's Service! | 20.00% | ~1 |
 | It is Unsafe Out Here | 20.00% | ~1 |
 | It’s Commandeering | 20.00% | ~1 |
 | It’s Smarter to Pay the Toll | 20.00% | ~1 |
@@ -95,7 +96,6 @@
 | Honor Among Thieves | 0.00% | ~0 |
 | Honor and Duty | 0.00% | ~0 |
 | Hunting the Shadow | 0.00% | ~0 |
-| In His Majesty's Service! | 0.00% | ~0 |
 | In the name of the People | 0.00% | ~0 |
 | Learning to Trust | 0.00% | ~0 |
 | Making it Big | 0.00% | ~0 |

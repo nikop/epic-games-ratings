@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3082,
+  "EOS_Progressed": 3085,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 135,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8419,6 +8419,11 @@
       "Time": "2024-01-21T10:10:24.8360926+00:00",
       "NumProgressed": 3082,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T13:14:27.6857314+00:00",
+      "NumProgressed": 3085,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8431,7 +8436,7 @@
       "Name": "A New Hope",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_10",
@@ -8567,7 +8572,7 @@
       "Name": "A tremor in the Force",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_26",
@@ -8623,7 +8628,7 @@
       "Name": "Scrap collector",
       "Percentage": 14,
       "XP": 40,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_32",
@@ -8631,7 +8636,7 @@
       "Name": "All right, I\u0027ll give it a try",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 431
+      "UsersEstimate": 432
     },
     {
       "ID": "achievement_33",
@@ -8639,7 +8644,7 @@
       "Name": "Safety ain\u0027t the point of a joyride",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_34",
@@ -8655,7 +8660,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2651
+      "UsersEstimate": 2653
     },
     {
       "ID": "achievement_36",
@@ -8671,7 +8676,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1849
+      "UsersEstimate": 1851
     },
     {
       "ID": "achievement_38",
@@ -8703,7 +8708,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "achievement_41",
@@ -8719,7 +8724,7 @@
       "Name": "Not bad for a little furball",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_43",
@@ -8807,7 +8812,7 @@
       "Name": "When surrounded by war...",
       "Percentage": 0.6,
       "XP": 60,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_53",
@@ -8831,7 +8836,7 @@
       "Name": "Stop that Droid",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "achievement_56",
@@ -8871,7 +8876,7 @@
       "Name": "Great shot, kid!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 462
+      "UsersEstimate": 463
     },
     {
       "ID": "achievement_60",
@@ -8934,13 +8939,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3082,
+      "Progressed": 3085,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3082,
+      "Progressed": 3085,
       "Completed": 1
     }
   ],
@@ -8948,8 +8953,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:10:21.6030065+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:14:27.6857312+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:57:13.8793632+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:10:21.6030788+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:00:45.3414015+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:14:27.6858551+00:00"
 }

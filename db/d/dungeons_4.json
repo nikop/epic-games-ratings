@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -101,11 +101,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 780,
+  "EOS_Progressed": 781,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 4.36,
+  "EOS_Completed_Percentage": 4.35,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2576,6 +2576,11 @@
       "Time": "2024-01-21T05:10:58.5626853+00:00",
       "NumProgressed": 780,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-21T13:13:46.8635962+00:00",
+      "NumProgressed": 781,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2588,7 +2593,7 @@
       "Name": "The Last Stand",
       "Percentage": 88,
       "XP": 10,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ach_main01begin_die",
@@ -2596,7 +2601,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2612,7 +2617,7 @@
       "Name": "Hammer Time, Round Two",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 632
+      "UsersEstimate": 633
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2634,9 +2639,9 @@
       "ID": "ach_main03demon_completed",
       "SetID": "4hg22ll",
       "Name": "The Hellwoods",
-      "Percentage": 77,
+      "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 601
+      "UsersEstimate": 594
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2652,7 +2657,7 @@
       "Name": "Magic Accidents",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2668,7 +2673,7 @@
       "Name": "Minions, Minions!",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "ach_main04undead_sacrifice",
@@ -2676,7 +2681,7 @@
       "Name": "Sacrificial Pit = Garbage Disposal?",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_main05evil_completed",
@@ -2684,7 +2689,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 546
+      "UsersEstimate": 547
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2706,9 +2711,9 @@
       "ID": "ach_main06transporter_completed",
       "SetID": "4hg22ll",
       "Name": "Heroes\u2019 Gorge",
-      "Percentage": 66,
+      "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 515
+      "UsersEstimate": 508
     },
     {
       "ID": "ach_main06transporter_towers",
@@ -2722,17 +2727,17 @@
       "ID": "ach_main06transporter_transport",
       "SetID": "4hg22ll",
       "Name": "YOU SHALL NOT PASS!",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 398
+      "UsersEstimate": 390
     },
     {
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 430
     },
     {
       "ID": "ach_main07storm_completed",
@@ -2740,7 +2745,7 @@
       "Name": "The Ascent",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ach_main07storm_dynamite",
@@ -2756,7 +2761,7 @@
       "Name": "It\u0027s Warm and Cozy at Home",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 468
+      "UsersEstimate": 469
     },
     {
       "ID": "ach_main08sacrifice_completed",
@@ -2788,7 +2793,7 @@
       "Name": "\u201C\u2026 like son\u201D",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 421
+      "UsersEstimate": 422
     },
     {
       "ID": "ach_main09journey_killheroes",
@@ -2836,7 +2841,7 @@
       "Name": "Tanos\u0027 Crusade Against Thalya",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -2860,7 +2865,7 @@
       "Name": "All\u2019s Well That Ends Evil",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 343
+      "UsersEstimate": 344
     },
     {
       "ID": "ach_main12race_tanosevilness",
@@ -2892,7 +2897,7 @@
       "Name": "Gorgu is in the Best of Health",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "ach_main13tanos_evilbosses",
@@ -2908,7 +2913,7 @@
       "Name": "If Looks Could Kill",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -2916,7 +2921,7 @@
       "Name": "Mirror, Mirror",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_main14run_roomdamage",
@@ -2948,7 +2953,7 @@
       "Name": "Untouchable",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_main16ring_completed",
@@ -2956,7 +2961,7 @@
       "Name": "Doom Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 257
+      "UsersEstimate": 258
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -2986,9 +2991,9 @@
       "ID": "ach_main17stone_explosions",
       "SetID": "4hg22ll",
       "Name": "Brimstone Shaken, Not Stirred",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 242
+      "UsersEstimate": 234
     },
     {
       "ID": "ach_main17stone_transporter",
@@ -3036,7 +3041,7 @@
       "Name": "Heal Heal Blessing",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_main19war_stonedamage",
@@ -3075,7 +3080,7 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 780,
+      "Progressed": 781,
       "Completed": 34
     }
   ],
@@ -3083,8 +3088,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:09:44.0224779+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:13:46.8635959+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:57:26.2456529+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:09:44.022526+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:01:00.695447+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:13:46.8636411+00:00"
 }

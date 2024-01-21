@@ -12,9 +12,9 @@ Rating: 4.54 (Ranked 551)
 | Martian Music | 14.00% | ~2,689 |
 | Bosmang | 14.00% | ~2,689 |
 | Impossible Objects | 14.00% | ~2,689 |
+| Spore Taste | 13.00% | ~2,497 |
 | Drone Dodger | 13.00% | ~2,497 |
 | Stogie for Fogey | 12.00% | ~2,305 |
-| Spore Taste | 12.00% | ~2,305 |
 | Zen Master | 11.00% | ~568 |
 | Call it Even | 10.00% | ~1,921 |
 | Safe Cracker | 10.00% | ~516 |

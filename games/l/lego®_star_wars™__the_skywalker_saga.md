@@ -6,14 +6,14 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,292 |
-| ''I don't like you either!'' | 77.00% | ~45,953 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,293 |
+| ''I don't like you either!'' | 77.00% | ~45,954 |
 | ''Impressive, most impressive'' | 69.00% | ~41,179 |
 | ''You think you're some kind of Jedi?'' | 69.00% | ~41,179 |
-| The Phantom Menace | 56.00% | ~33,420 |
-| ''Aggressive Negotiations'' | 56.00% | ~33,420 |
+| The Phantom Menace | 56.00% | ~33,421 |
+| ''Aggressive Negotiations'' | 56.00% | ~33,421 |
 | ''I can fly anything'' | 54.00% | ~32,227 |
-| ''And who gave you permission...?'' | 51.00% | ~30,436 |
+| ''And who gave you permission...?'' | 51.00% | ~30,437 |
 | A New Hope | 45.00% | ~26,856 |
 | Attack of the Clones | 44.00% | ~26,259 |
 | Revenge of the Sith | 38.00% | ~22,678 |
@@ -24,7 +24,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | The Last Jedi | 21.00% | ~12,533 |
 | The Rise of Skywalker | 19.00% | ~11,339 |
 | ''It's true... all of it'' | 18.00% | ~10,742 |
-| ''Get the crews to their fighters'' | 17.00% | ~10,145 |
+| ''Get the crews to their fighters'' | 17.00% | ~10,146 |
 | ''Raw, untamed power'' | 8.00% | ~4,774 |
 | Rishi Maze | 4.00% | ~2,387 |
 | ''Only one business in the Galaxy...'' | 4.00% | ~2,387 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~597 |
 | ''I've never seen a real one!'' | 0.90% | ~537 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,679 (Ranked 121)  
+Progressed: 59,680 (Ranked 121)  
 Completed: 263 (0.44%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 263 (0.44%) (Ranked 240)
 | 2024-01-18 | 59,589 | 262 |
 | 2024-01-19 | 59,618 | 263 |
 | 2024-01-20 | 59,658 | 263 |
-| 2024-01-21 | 59,679 | 263 |
+| 2024-01-21 | 59,680 | 263 |
 ## Awards
 Max (Great Boss Battles): 2,509  (Ranked 111)  
 Sum: 6,877 (Ranked 131)  

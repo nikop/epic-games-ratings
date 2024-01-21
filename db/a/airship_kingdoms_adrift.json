@@ -4,8 +4,8 @@
   "ProductSlug": "airship-kingdoms-adrift-cc8448",
   "Ranking_EOS_Progress": 709,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 404,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-01-19T19:26:23.12+00:00",
     "PcReleaseDate": "2024-01-19T14:00:00+00:00",
@@ -494,9 +494,9 @@
       "ID": "ACH_IN_HIS_MAJESTY_SERVICE",
       "SetID": "9i65mgf",
       "Name": "In His Majesty\u0027s Service!",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_IN_THE_NAME_OF_THE_PEOPLE",
@@ -606,9 +606,9 @@
       "ID": "ACH_NOW_YOU_KNEW",
       "SetID": "9i65mgf",
       "Name": "Now You Knew",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_NO_FEAR_OF_INFLATION",
@@ -686,9 +686,9 @@
       "ID": "ACH_RED_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Red Flower",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_REVENGE",
@@ -1252,8 +1252,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:05:21.4644262+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:09:31.2728768+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.652208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:58:15.3942617+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:05:21.4646045+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:01:59.5025486+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:09:31.2730694+00:00"
 }

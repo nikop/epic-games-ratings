@@ -4043,9 +4043,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20938,
+  "EOS_Progressed": 20940,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20223,6 +20223,11 @@
       "Time": "2024-01-21T11:09:09.3014801+00:00",
       "NumProgressed": 20938,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-21T13:12:42.098834+00:00",
+      "NumProgressed": 20940,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20323,7 +20328,7 @@
       "Name": "First Real Expedition",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "WinHard",
@@ -20571,7 +20576,7 @@
       "Name": "Taking Action",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "WinWithResolve",
@@ -20611,7 +20616,7 @@
       "Name": "No Deaths",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "WinWithoutOrders",
@@ -20635,7 +20640,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "WinNearFrosts",
@@ -20667,7 +20672,7 @@
       "Name": "Petrified Necropolis",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1884
+      "UsersEstimate": 1885
     },
     {
       "ID": "WinNearPresence",
@@ -20706,15 +20711,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20938,
+      "Progressed": 20940,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-21T04:03:34.3718503+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:08:45.5751345+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:12:42.0988337+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
   "LastUpdate_Ratings": "2024-01-21T12:02:36.0491718+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:08:45.5753049+00:00"
+  "LastUpdate_Achievements": "2024-01-21T13:12:42.0989472+00:00"
 }

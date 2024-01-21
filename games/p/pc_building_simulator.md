@@ -6,41 +6,41 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,769,745 |
-| Easy to forget | 46.00% | ~1,661,394 |
-| Back in the black | 39.00% | ~1,408,573 |
-| That's what I'm talking about | 29.00% | ~1,047,400 |
-| The Best of Both Worlds | 25.00% | ~902,931 |
-| Get your wings | 20.00% | ~722,345 |
-| Double trouble | 16.00% | ~577,876 |
-| Smashing it | 11.00% | ~397,290 |
-| But can it run Crysis? | 9.00% | ~325,055 |
-| My favourite feature... | 9.00% | ~325,055 |
-| Customer satisfaction | 8.00% | ~288,938 |
-| From humble beginnings... | 7.00% | ~252,821 |
-| Keeping things neat | 4.00% | ~144,469 |
-| Seems you're pretty good at this | 4.00% | ~144,469 |
-| Bending over backwards | 4.00% | ~144,469 |
-| I'm broke, Uncle! | 3.00% | ~108,352 |
-| Triple threat | 3.00% | ~108,352 |
-| You rock at this! | 3.00% | ~108,352 |
-| Perfection | 3.00% | ~108,352 |
-| Your music sucks | 3.00% | ~108,352 |
-| Maybe you should try something else? | 2.00% | ~72,234 |
-| Taking care of business | 2.00% | ~72,234 |
-| Things are under control | 2.00% | ~72,234 |
-| Calling in Sick | 2.00% | ~72,234 |
-| Overvolted | 1.00% | ~36,117 |
-| If you fail the first time... | 1.00% | ~36,117 |
-| Amazonian | 1.00% | ~36,117 |
-| Show off | 1.00% | ~36,117 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,117 |
-| Building isn't cheap! | 1.00% | ~36,117 |
-| Majority Shareholder | 1.00% | ~36,117 |
-| Owner | 1.00% | ~36,117 |
+| You need to plug it in... | 49.00% | ~1,769,758 |
+| Easy to forget | 46.00% | ~1,661,405 |
+| Back in the black | 39.00% | ~1,408,583 |
+| That's what I'm talking about | 29.00% | ~1,047,408 |
+| The Best of Both Worlds | 25.00% | ~902,938 |
+| Get your wings | 20.00% | ~722,350 |
+| Double trouble | 16.00% | ~577,880 |
+| Smashing it | 11.00% | ~397,293 |
+| But can it run Crysis? | 9.00% | ~325,058 |
+| My favourite feature... | 9.00% | ~325,058 |
+| Customer satisfaction | 8.00% | ~288,940 |
+| From humble beginnings... | 7.00% | ~252,823 |
+| Keeping things neat | 4.00% | ~144,470 |
+| Seems you're pretty good at this | 4.00% | ~144,470 |
+| Bending over backwards | 4.00% | ~144,470 |
+| I'm broke, Uncle! | 3.00% | ~108,353 |
+| Triple threat | 3.00% | ~108,353 |
+| You rock at this! | 3.00% | ~108,353 |
+| Perfection | 3.00% | ~108,353 |
+| Your music sucks | 3.00% | ~108,353 |
+| Maybe you should try something else? | 2.00% | ~72,235 |
+| Taking care of business | 2.00% | ~72,235 |
+| Things are under control | 2.00% | ~72,235 |
+| Calling in Sick | 2.00% | ~72,235 |
+| Overvolted | 1.00% | ~36,118 |
+| If you fail the first time... | 1.00% | ~36,118 |
+| Amazonian | 1.00% | ~36,118 |
+| Show off | 1.00% | ~36,118 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,118 |
+| Building isn't cheap! | 1.00% | ~36,118 |
+| Majority Shareholder | 1.00% | ~36,118 |
+| Owner | 1.00% | ~36,118 |
 | Work ethic 101 | 0.70% | ~25,282 |
-| Building momentum | 0.60% | ~21,670 |
-| Lead by example | 0.60% | ~21,670 |
+| Building momentum | 0.60% | ~21,671 |
+| Lead by example | 0.60% | ~21,671 |
 | Treat yourself - RAM | 0.50% | ~18,059 |
 | Mr big business | 0.40% | ~14,447 |
 | So you're the reason why the prices are so high? | 0.30% | ~10,835 |
@@ -48,8 +48,8 @@ Number of Ratings: 12,155  (23.09.2022)
 | Getting your feet wet | 0.30% | ~10,835 |
 | Customer's ALWAYS right. | 0.30% | ~10,835 |
 | Treat yourself - CPU | 0.30% | ~10,835 |
-| 1920x1080 | 0.20% | ~7,223 |
-| Blow 'em away | 0.20% | ~7,223 |
+| 1920x1080 | 0.20% | ~7,224 |
+| Blow 'em away | 0.20% | ~7,224 |
 | Hasta La Vista, Baby. | 0.10% | ~3,612 |
 | Wow to build a PC! | 0.10% | ~3,612 |
 | Hoarder | 0.10% | ~3,612 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,612 |
 | Treat yourself - GPU | 0.10% | ~3,612 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,611,725 (Ranked 5)  
+Progressed: 3,611,751 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 41 (0.00%) (Ranked 408)
 | 2024-01-18 | 3,610,598 | 41 |
 | 2024-01-19 | 3,611,057 | 41 |
 | 2024-01-20 | 3,611,519 | 41 |
-| 2024-01-21 | 3,611,725 | 41 |
+| 2024-01-21 | 3,611,751 | 41 |
 ## Awards
 Max (Great for Beginners): 1,147  (Ranked 153)  
 Sum: 8,322 (Ranked 116)  

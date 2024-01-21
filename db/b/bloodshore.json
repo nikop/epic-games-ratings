@@ -4,8 +4,8 @@
   "ProductSlug": "bloodshore-939cb0",
   "Ranking_EOS_Progress": 411,
   "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-11-11T06:00:00+00:00",
     "PcReleaseDate": "2021-11-03T17:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 293,
+  "EOS_Progressed": 294,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.05,
+  "EOS_Completed_Percentage": 2.04,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:37.2601776+00:00",
@@ -805,6 +805,11 @@
       "Time": "2024-01-20T16:05:49.1264059+00:00",
       "NumProgressed": 293,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T13:09:21.6072703+00:00",
+      "NumProgressed": 294,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 17,
@@ -864,7 +869,7 @@
       "Name": "Lootaphilia",
       "Percentage": 22,
       "XP": 100,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "maybe_you_should_give_it_another_go",
@@ -896,7 +901,7 @@
       "Name": "Super Seducer",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "superstar_crossed_lovers",
@@ -904,7 +909,7 @@
       "Name": "Superstar-crossed lovers",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "thats_my_boy",
@@ -934,9 +939,9 @@
       "ID": "um_ok",
       "SetID": "84ad177",
       "Name": "Um, ok...",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "used_to_think_i_was_indecisive",
@@ -951,7 +956,7 @@
     {
       "ID": "84ad177",
       "IsBase": true,
-      "Progressed": 293,
+      "Progressed": 294,
       "Completed": 6
     }
   ],
@@ -959,8 +964,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.6955691+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.260179+00:00",
   "LastChanged": "2023-03-31T05:57:26.6955692+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:05:12.7028373+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:09:21.6072698+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.7012056+00:00",
-  "LastUpdate_Ratings": "2024-01-21T12:03:22.9341377+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:05:12.7028541+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:07:19.9427594+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:09:21.6072907+00:00"
 }

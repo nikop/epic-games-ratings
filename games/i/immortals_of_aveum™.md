@@ -5,19 +5,19 @@ Rating: 4.20 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,165 |
-| Battlefields Have Memories | 82.00% | ~2,916 |
+| Unforeseen | 89.00% | ~3,166 |
+| Battlefields Have Memories | 82.00% | ~2,917 |
 | Enlisted | 76.00% | ~2,703 |
 | Maybe Engage a Little | 71.00% | ~2,525 |
 | No More Names | 55.00% | ~1,956 |
 | Initiate | 41.00% | ~1,458 |
-| Thrada-Kul | 38.00% | ~1,351 |
-| Gravity-Challenged Rocks | 31.00% | ~1,102 |
+| Thrada-Kul | 38.00% | ~1,352 |
+| Gravity-Challenged Rocks | 31.00% | ~1,103 |
 | Soldier | 27.00% | ~960 |
 | All the Major Food Groups | 27.00% | ~960 |
 | Socialite | 25.00% | ~889 |
 | Beggars Would Ride | 25.00% | ~889 |
-| Control is an Illusion | 24.00% | ~853 |
+| Control is an Illusion | 24.00% | ~854 |
 | The Means to Save It | 21.00% | ~747 |
 | Resilience to Sin | 19.00% | ~676 |
 | A Familiar Nest | 18.00% | ~640 |
@@ -29,7 +29,7 @@ Rating: 4.20 (Ranked 971)
 | Lights Army | 12.00% | ~427 |
 | Periapt Cerulean | 9.00% | ~320 |
 | Good Boy | 9.00% | ~320 |
-| Periapt Viridian | 8.00% | ~284 |
+| Periapt Viridian | 8.00% | ~285 |
 | Best Dressed | 7.00% | ~249 |
 | Shroudfane Explorer | 7.00% | ~249 |
 | Kitted Out | 6.00% | ~213 |
@@ -45,15 +45,15 @@ Rating: 4.20 (Ranked 971)
 | Witch-Taker | 0.90% | ~32 |
 | Backtracker | 0.90% | ~32 |
 | Master of Ultramarine | 0.80% | ~28 |
+| Diplomat | 0.70% | ~25 |
 | Petite Bourgeoisie | 0.70% | ~25 |
 | Family Business | 0.60% | ~21 |
-| Diplomat | 0.60% | ~21 |
 | Master of Malachite | 0.60% | ~21 |
 | Out of Time | 0.50% | ~18 |
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,556 (Ranked 230)  
+Progressed: 3,557 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
-| 2024-01-21 | 3,556 | 5 |
+| 2024-01-21 | 3,557 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 564)  
 Sum: 43 (Ranked 523)  

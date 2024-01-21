@@ -4,11 +4,11 @@
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 696,
   "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 216,
+  "Ranking_PopularitySum": 214,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -3577,10 +3577,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 2195,
       "NumberOfAwardsMax": 269
+    },
+    {
+      "Time": "2024-01-21T13:04:08.5584239+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2205,
+      "NumberOfAwardsMax": 269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2195,
+  "NumberOfAwards": 2205,
   "NumberOfAwardsMax": 269,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3588,7 +3594,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 253
+      "Count": 257
     },
     {
       "Text": "This game is Great for Beginners",
@@ -3612,7 +3618,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 218
+      "Count": 222
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3630,7 +3636,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 202
+      "Count": 204
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3663,8 +3669,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-01-21T10:00:02.2965746+00:00",
+  "LastChanged": "2024-01-21T13:04:08.5584237+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.8542176+00:00",
-  "LastUpdate_Ratings": "2024-01-21T12:00:06.6959654+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:03:52.6785039+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:04:08.5584242+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:07:54.3864229+00:00"
 }

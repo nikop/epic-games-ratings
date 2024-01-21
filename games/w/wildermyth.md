@@ -31,8 +31,8 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
 | Some Say I'm Too Flashy | 1.00% | ~16 |
-| All My Birds, Safely Home | 0.90% | ~14 |
-| No Time for Clawmonsters | 0.90% | ~14 |
+| All My Birds, Safely Home | 0.90% | ~15 |
+| No Time for Clawmonsters | 0.90% | ~15 |
 | Bears are Scary | 0.80% | ~13 |
 | Tempest | 0.80% | ~13 |
 | Storied Past | 0.70% | ~11 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,611 (Ranked 268)  
+Progressed: 1,612 (Ranked 268)  
 Completed: 7 (0.43%) (Ranked 243)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -279,7 +279,7 @@ Completed: 7 (0.43%) (Ranked 243)
 | 2024-01-18 | 1,607 | 7 |
 | 2024-01-19 | 1,608 | 7 |
 | 2024-01-20 | 1,610 | 7 |
-| 2024-01-21 | 1,611 | 7 |
+| 2024-01-21 | 1,612 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 536)  
 Sum: 29 (Ranked 553)  

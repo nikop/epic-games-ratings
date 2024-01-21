@@ -8,7 +8,7 @@ Number of Ratings: 36  (23.09.2022)
 | ---- | ---------- | ----- |
 | Breathe In… Breathe Out… | 72.00% | ~782 |
 | It’s Heating up! | 69.00% | ~749 |
-| Let’s patch things up | 64.00% | ~695 |
+| Let’s patch things up | 65.00% | ~706 |
 | I can fix it! | 62.00% | ~673 |
 | Post No Bills | 55.00% | ~597 |
 | Truly Shocking! | 48.00% | ~521 |
@@ -19,7 +19,7 @@ Number of Ratings: 36  (23.09.2022)
 | A drop in the Ocean | 28.00% | ~304 |
 | No Niños | 26.00% | ~282 |
 | I ain’t afraid of no Ghost | 24.00% | ~261 |
-| Act II Complete | 20.00% | ~217 |
+| Act II Complete | 21.00% | ~228 |
 | Bing Bang BOOM | 19.00% | ~206 |
 | A successful procedure! | 18.00% | ~195 |
 | Breaking the Ice | 18.00% | ~195 |

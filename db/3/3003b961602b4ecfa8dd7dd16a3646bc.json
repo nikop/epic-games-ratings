@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 518,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-06-28T22:00:00+00:00",
     "PcReleaseDate": "2021-05-26T11:00:00+00:00",
@@ -431,9 +431,9 @@
       "ID": "ACH_02_FIRSTRACE",
       "SetID": "9dl0ei6",
       "Name": "First Race",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "ACH_03_TRAININGRACE2",
@@ -615,9 +615,9 @@
       "ID": "ACH_25_BEACH",
       "SetID": "9dl0ei6",
       "Name": "Surfer",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_26_SIDEQUEST",
@@ -646,8 +646,8 @@
   ],
   "FirstSeen": "2023-07-12T17:57:50.452035+00:00",
   "FirstSeenAchievements": "2023-06-18T14:01:38.8947903+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:10:12.0467991+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:14:17.2028501+00:00",
   "LastUpdate_AppInfo": "2024-01-15T03:57:15.1247525+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:57:11.0350788+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:10:12.0468185+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:00:41.9727424+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:14:17.2028625+00:00"
 }

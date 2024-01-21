@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2339,7 +2339,7 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22620,
+  "EOS_Progressed": 22622,
   "EOS_Completed": 82,
   "EOS_NewPlayers": 275,
   "EOS_NewCompleters": 0,
@@ -14594,6 +14594,11 @@
       "Time": "2024-01-21T12:09:59.1386343+00:00",
       "NumProgressed": 22620,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-21T13:14:03.1778184+00:00",
+      "NumProgressed": 22622,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14733,7 +14738,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4976
+      "UsersEstimate": 4977
     },
     {
       "ID": "KILL_ROBOT",
@@ -14741,7 +14746,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14773,7 +14778,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4750
+      "UsersEstimate": 4751
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14813,7 +14818,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3619
+      "UsersEstimate": 3620
     },
     {
       "ID": "STORY_HANGAR",
@@ -14827,9 +14832,9 @@
       "ID": "STORY_MINETOWN",
       "SetID": "4hj6d86",
       "Name": "What Lies Beneath",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2488
+      "UsersEstimate": 2715
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14837,7 +14842,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5881
+      "UsersEstimate": 5882
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14980,13 +14985,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22620,
+      "Progressed": 22622,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10546,
+      "Progressed": 10548,
       "Completed": 29
     }
   ],
@@ -14994,8 +14999,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:09:59.1386341+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:14:03.1778182+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-21T12:03:22.4591815+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:09:59.1387052+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:07:19.3984505+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:14:03.1779015+00:00"
 }

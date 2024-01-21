@@ -6,8 +6,9 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.60% | ~6,338 |
-| Right Back At Ya | 0.60% | ~6,338 |
+| Full Body Conversion | 0.60% | ~6,339 |
+| Right Back At Ya | 0.60% | ~6,339 |
+| True Soldier | 0.60% | ~6,339 |
 | Christmas Tree Attack | 0.50% | ~5,282 |
 | Life of the Road | 0.50% | ~5,282 |
 | Stanislavski's Method | 0.50% | ~5,282 |
@@ -15,13 +16,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.50% | ~5,282 |
 | The Lovers | 0.50% | ~5,282 |
 | The Wheel of Fortune | 0.50% | ~5,282 |
-| True Soldier | 0.50% | ~5,282 |
 | Legend of The Afterlife | 0.50% | ~5,282 |
 | Bushido and Chill | 0.40% | ~4,226 |
 | Gun Fu | 0.40% | ~4,226 |
 | Master Crafter | 0.40% | ~4,226 |
 | The Fool | 0.40% | ~4,226 |
 | The World | 0.40% | ~4,226 |
+| Judy vs Night City | 0.40% | ~4,226 |
 | All the President's Men | 0.40% | ~740 |
 | Arachnophobia | 0.40% | ~740 |
 | To Protect and Serve | 0.30% | ~3,169 |
@@ -29,7 +30,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Quick and the Dead | 0.30% | ~3,169 |
 | True Warrior | 0.30% | ~3,169 |
 | Two Heads, One Bullet | 0.30% | ~3,169 |
-| Judy vs Night City | 0.30% | ~3,169 |
 | To Bad Decisions! | 0.20% | ~2,113 |
 | The Wandering Fool | 0.20% | ~2,113 |
 | The Sun | 0.20% | ~2,113 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,386 (Ranked 17)  
+Progressed: 1,056,432 (Ranked 17)  
 Completed: 3,141 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 3,141 (0.30%) (Ranked 265)
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
-| 2024-01-21 | 1,056,386 | 3,141 |
+| 2024-01-21 | 1,056,432 | 3,141 |
 ## Awards
 Max (Character Customization): 143,148  (Ranked 8)  
 Sum: 510,483 (Ranked 8)  

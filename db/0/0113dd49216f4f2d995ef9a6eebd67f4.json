@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 325,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 327,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1320,9 +1320,9 @@
       "ID": "SG_AGAINSTALLODDS",
       "SetID": "bj5g0n4",
       "Name": "Against All Odds",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "SG_ALLTHEHELPYOUNEED",
@@ -1344,9 +1344,9 @@
       "ID": "SG_BRANDNEWCHORUS",
       "SetID": "bj5g0n4",
       "Name": "Brand New Chorus",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "SG_BRAVEONTIME",
@@ -1607,8 +1607,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:09:25.0973458+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:13:25.7371131+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.9220606+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:58:39.0269566+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:09:25.0973752+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:02:26.1768143+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:13:25.7371457+00:00"
 }

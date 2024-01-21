@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1099,9 +1099,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10019,
+  "EOS_Progressed": 10020,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11444,6 +11444,11 @@
       "Time": "2024-01-21T12:09:47.4633461+00:00",
       "NumProgressed": 10019,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T13:13:50.3929659+00:00",
+      "NumProgressed": 10020,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11471,7 +11476,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4408
+      "UsersEstimate": 4409
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11695,7 +11700,7 @@
       "Name": "Shaken, Not Stirred",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "ISONZO_ACH_SILVER_LINING",
@@ -11791,7 +11796,7 @@
       "Name": "Uomo Universale",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1302
+      "UsersEstimate": 1303
     },
     {
       "ID": "ISONZO_ACH_VENI_VIDI_VICI",
@@ -11814,7 +11819,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10019,
+      "Progressed": 10020,
       "Completed": 10
     }
   ],
@@ -11822,8 +11827,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-20T21:57:37.7605938+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:09:47.4633456+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:13:50.3929655+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:57:56.9513226+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:09:47.4634235+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:01:36.4999841+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:13:50.3930409+00:00"
 }

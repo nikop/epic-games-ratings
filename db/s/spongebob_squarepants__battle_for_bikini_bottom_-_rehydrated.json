@@ -6,9 +6,9 @@
   "Ranking_Popularity": 504,
   "Ranking_PopularitySum": 537,
   "Ranking_EOS_Progress": 295,
-  "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_Completed": 196,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,11 +353,11 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1142,
+  "EOS_Progressed": 1143,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 2,
-  "EOS_Completed_Percentage": 0.88,
+  "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
     {
       "Time": "2023-12-18T11:05:17.4237079+00:00",
@@ -3178,6 +3178,11 @@
       "Time": "2024-01-21T11:05:15.8679769+00:00",
       "NumProgressed": 1142,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T13:09:12.3303186+00:00",
+      "NumProgressed": 1143,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3260,9 +3265,9 @@
       "ID": "ACH_JELLYFISHING",
       "SetID": "biiejkc",
       "Name": "Jellyfishing",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 194
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3308,9 +3313,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 148
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -3422,15 +3427,15 @@
       "Name": "Star Smasher",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "ACH_SURFS_UP",
       "SetID": "biiejkc",
       "Name": "Surf\u0027s Up!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 137
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -3438,22 +3443,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1142,
+      "Progressed": 1143,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:05:03.9991187+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:09:12.3303179+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:59:35.3078396+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:05:03.9991566+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:03:32.2025502+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:09:12.3303567+00:00"
 }

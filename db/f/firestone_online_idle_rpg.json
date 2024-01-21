@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 444,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 358,
-  "Ranking_EOS_NewPlayers": 162,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -799,7 +799,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4711,
+  "EOS_Progressed": 4712,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
@@ -13154,6 +13154,11 @@
       "Time": "2024-01-21T12:04:43.6523479+00:00",
       "NumProgressed": 4711,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T13:08:50.4502131+00:00",
+      "NumProgressed": 4712,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13277,7 +13282,7 @@
       "Name": "Dragon Master",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "dragonslayer",
@@ -13333,7 +13338,7 @@
       "Name": "Enlightenment",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "exoticmerchant",
@@ -13373,7 +13378,7 @@
       "Name": "Full Party",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 1413
+      "UsersEstimate": 1414
     },
     {
       "ID": "gearenchanting",
@@ -13397,7 +13402,7 @@
       "Name": "Guild Power",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1036
+      "UsersEstimate": 1037
     },
     {
       "ID": "herewegoagain",
@@ -13413,7 +13418,7 @@
       "Name": "Hero inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "howdoyouturnthison",
@@ -13437,7 +13442,7 @@
       "Name": "Inspection",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 612
+      "UsersEstimate": 613
     },
     {
       "ID": "jewelenchanting",
@@ -13621,7 +13626,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "thealchemist",
@@ -13725,7 +13730,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4381
+      "UsersEstimate": 4382
     },
     {
       "ID": "warmachinesarmy",
@@ -13764,7 +13769,7 @@
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4711,
+      "Progressed": 4712,
       "Completed": 2
     }
   ],
@@ -13772,8 +13777,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:04:43.6523475+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:08:50.4502127+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:59:54.3764544+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:04:43.6524556+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:03:54.8841493+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:08:50.4503137+00:00"
 }

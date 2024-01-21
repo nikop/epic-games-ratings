@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 474,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 212,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -506,7 +506,7 @@
   ],
   "EOS_Progressed": 662,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2577,9 +2577,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 271
+      "UsersEstimate": 278
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -3049,8 +3049,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-19T19:59:04.9154437+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:03:38.9654576+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:07:39.4247449+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:59:50.6424308+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:03:38.965509+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:03:49.4072452+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:07:39.4248106+00:00"
 }

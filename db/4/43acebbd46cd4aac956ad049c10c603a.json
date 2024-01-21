@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 219,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -351,7 +351,7 @@
   ],
   "EOS_Progressed": 1458,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 61,
+  "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4412,9 +4412,9 @@
       "ID": "DesolateIsland",
       "SetID": "1n308hc",
       "Name": "Desolate Island",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 190
+      "UsersEstimate": 204
     },
     {
       "ID": "Discovery",
@@ -4805,8 +4805,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-18T22:01:32.7392384+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:03:41.1152692+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:07:41.9127606+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:57:50.2015334+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:03:41.1153509+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:01:27.9234004+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:07:41.9128955+00:00"
 }

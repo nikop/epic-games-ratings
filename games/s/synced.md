@@ -1,28 +1,28 @@
 # SYNCED
 [Store](https://store.epicgames.com/en-US/p/synced)  
 [View Rawdata](../../db/s/synced.json)  
-Rating: 4.12 (Ranked 1,026)  
+Rating: 4.13 (Ranked 1,024)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 47.00% | ~42,087 |
-| More Power to You | 26.00% | ~23,282 |
-| As Far Away As Possible | 21.00% | ~18,805 |
-| A Most Unstable Organism | 14.00% | ~12,537 |
-| No Time to Follow Protocol | 9.00% | ~8,059 |
-| Nano Connoisseur | 8.00% | ~7,164 |
-| Float Like a Butterfly... | 7.00% | ~6,268 |
-| In Two Places At Once | 6.00% | ~5,373 |
-| Pulling Your Weight | 3.00% | ~2,686 |
-| Reaping Rivals | 3.00% | ~2,686 |
-| fifteenth Time's the Charm | 1.00% | ~895 |
-| Gone Rogue | 1.00% | ~895 |
+| Your Lucky Day | 47.00% | ~42,095 |
+| More Power to You | 26.00% | ~23,287 |
+| As Far Away As Possible | 21.00% | ~18,808 |
+| A Most Unstable Organism | 14.00% | ~12,539 |
+| No Time to Follow Protocol | 9.00% | ~8,061 |
+| Nano Connoisseur | 8.00% | ~7,165 |
+| Float Like a Butterfly... | 7.00% | ~6,269 |
+| In Two Places At Once | 6.00% | ~5,374 |
+| Pulling Your Weight | 3.00% | ~2,687 |
+| Reaping Rivals | 3.00% | ~2,687 |
+| fifteenth Time's the Charm | 1.00% | ~896 |
+| Gone Rogue | 1.00% | ~896 |
 | Completely Customizable | 0.50% | ~448 |
 | Memory Keeper | 0.40% | ~358 |
 | Runs for Your Money | 0.30% | ~269 |
 | Past Master | 0.30% | ~269 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 89,547 (Ranked 108)  
+Progressed: 89,564 (Ranked 108)  
 Completed: 73 (0.08%) (Ranked 332)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 73 (0.08%) (Ranked 332)
 | 2024-01-18 | 88,720 | 73 |
 | 2024-01-19 | 89,019 | 73 |
 | 2024-01-20 | 89,385 | 73 |
-| 2024-01-21 | 89,547 | 73 |
+| 2024-01-21 | 89,564 | 73 |
 ## Awards
 Max (Great for Beginners): 140  (Ranked 345)  
 Sum: 603 (Ranked 327)  
@@ -312,3 +312,4 @@ Diff (max vs sum): 18
 | 2024-01-18 | 4.13 | 138 | 596 |
 | 2024-01-19 | 4.12 | 138 | 598 |
 | 2024-01-20 | 4.13 | 140 | 603 |
+| 2024-01-21 | 4.13 | 140 | 603 |

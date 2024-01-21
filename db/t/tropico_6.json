@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 303,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1635,9 +1635,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7224,
+  "EOS_Progressed": 7226,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17125,6 +17125,11 @@
       "Time": "2024-01-21T12:04:37.861253+00:00",
       "NumProgressed": 7224,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T13:08:44.1020742+00:00",
+      "NumProgressed": 7226,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17144,7 +17149,7 @@
       "Name": "Don\u0027t Panic!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "ACH_DOUBLEESCALATION",
@@ -17160,7 +17165,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -17176,7 +17181,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -17232,7 +17237,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3106
+      "UsersEstimate": 3107
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17280,7 +17285,7 @@
       "Name": "For Science!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 722
+      "UsersEstimate": 723
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -17296,7 +17301,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5274
+      "UsersEstimate": 5275
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17312,7 +17317,7 @@
       "Name": "One Does Not Simply Stage A Coup",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_MISSION_NOELECTION",
@@ -17320,7 +17325,7 @@
       "Name": "We Don\u0027t Have Time For That",
       "Percentage": 18,
       "XP": 35,
-      "UsersEstimate": 1300
+      "UsersEstimate": 1301
     },
     {
       "ID": "ACH_MISSION_SWISSBANK",
@@ -17352,7 +17357,7 @@
       "Name": "Promising Endeavors",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_SUBLIMESUBLIMINALSUPREME",
@@ -17360,7 +17365,7 @@
       "Name": "Sublime Subliminal Supreme",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_SURVIVOR",
@@ -17376,7 +17381,7 @@
       "Name": "Teamplayer",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_TERRAFORMER",
@@ -17384,7 +17389,7 @@
       "Name": "Terraformer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     },
     {
       "ID": "ACH_THOUSANDPOPULATION",
@@ -17408,7 +17413,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2528
+      "UsersEstimate": 2529
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17448,22 +17453,22 @@
       "Name": "Curse of the Mummy",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 144
+      "UsersEstimate": 145
     }
   ],
   "AchievementSets": [
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7224,
+      "Progressed": 7226,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-21T09:57:59.0761327+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:04:37.8612524+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:08:44.1020739+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:58:00.4181303+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:04:37.8613599+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:01:40.3519843+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:08:44.102156+00:00"
 }

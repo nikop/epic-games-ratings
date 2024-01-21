@@ -18836,10 +18836,10 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056386,
+  "EOS_Progressed": 1056432,
   "EOS_Completed": 3141,
-  "EOS_NewPlayers": 5650,
-  "EOS_NewCompleters": 51,
+  "EOS_NewPlayers": 5611,
+  "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50466,6 +50466,11 @@
       "Time": "2024-01-21T12:09:10.4985157+00:00",
       "NumProgressed": 1056386,
       "NumCompleted": 3141
+    },
+    {
+      "Time": "2024-01-21T13:13:09.4037722+00:00",
+      "NumProgressed": 1056432,
+      "NumCompleted": 3141
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50502,7 +50507,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "Denied",
@@ -50510,7 +50515,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "FollowingTheRiver",
@@ -50772,9 +50777,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5282
+      "UsersEstimate": 6339
     },
     {
       "ID": "TrueWarrior",
@@ -50796,9 +50801,9 @@
       "ID": "UnderPressure",
       "SetID": "47clieb",
       "Name": "Judy vs Night City",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3169
+      "UsersEstimate": 4226
     },
     {
       "ID": "VForVendetta",
@@ -51013,21 +51018,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056386,
+      "Progressed": 1056432,
       "Completed": 3141
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185009,
+      "Progressed": 185055,
       "Completed": 10672
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-21T12:03:15.2311022+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:09:10.4985153+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:13:09.4037719+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T12:03:15.2311029+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:09:10.4987471+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:07:11.0431656+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:13:09.4039618+00:00"
 }

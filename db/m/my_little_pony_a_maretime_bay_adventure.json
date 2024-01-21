@@ -4,8 +4,8 @@
   "ProductSlug": "my-little-pony-a-maretime-bay-adventure-6a2cce",
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 15,
-  "Ranking_EOS_NewPlayers": 554,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-12-15T18:00:00+00:00",
     "PcReleaseDate": "2022-05-26T23:00:00+00:00",
@@ -220,9 +220,9 @@
       "ID": "7",
       "SetID": "1kmik7f",
       "Name": "Sheriff\u0027s Apprentice",
-      "Percentage": 53,
+      "Percentage": 55,
       "XP": 75,
-      "UsersEstimate": 26
+      "UsersEstimate": 27
     },
     {
       "ID": "8",
@@ -253,8 +253,8 @@
   "FirstSeenRating": "2023-03-31T05:58:26.3358258+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:29.30737+00:00",
   "LastChanged": "2023-03-31T05:58:26.335826+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:05:57.2295688+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:10:10.6045235+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:04.4087727+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:59:32.4668385+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:05:57.2295783+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:03:29.1041206+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:10:10.6045311+00:00"
 }

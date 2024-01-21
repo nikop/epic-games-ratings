@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,651 |
-| Off to a good start | 60.00% | ~1,849 |
-| Do... or do not. There is no try | 52.00% | ~1,603 |
+| New Recruit | 86.00% | ~2,653 |
+| Off to a good start | 60.00% | ~1,851 |
+| Do... or do not. There is no try | 52.00% | ~1,604 |
 | A good blaster at your side | 24.00% | ~740 |
 | I suggest a new strategy | 17.00% | ~524 |
-| Great shot, kid! | 15.00% | ~462 |
-| Scrap collector | 14.00% | ~431 |
-| All right, I'll give it a try | 14.00% | ~431 |
+| Great shot, kid! | 15.00% | ~463 |
+| Scrap collector | 14.00% | ~432 |
+| All right, I'll give it a try | 14.00% | ~432 |
 | The power of the Force | 12.00% | ~370 |
 | Together we can rule the galaxy | 12.00% | ~370 |
 | Shoot first | 12.00% | ~370 |
@@ -27,9 +27,9 @@
 | Distinguished | 4.00% | ~123 |
 | Impressive. Most impressive. | 4.00% | ~123 |
 | Support the troops | 4.00% | ~123 |
-| A tremor in the Force | 3.00% | ~92 |
-| Safety ain't the point of a joyride | 3.00% | ~92 |
-| Not bad for a little furball | 3.00% | ~92 |
+| A tremor in the Force | 3.00% | ~93 |
+| Safety ain't the point of a joyride | 3.00% | ~93 |
+| Not bad for a little furball | 3.00% | ~93 |
 | The Force is strong with this one | 2.00% | ~62 |
 | I've been waiting for you | 2.00% | ~62 |
 | When 900 years old you reach... | 2.00% | ~62 |
@@ -52,9 +52,9 @@
 | Playing the objective | 0.80% | ~25 |
 | Walker defender | 0.80% | ~25 |
 | You have your moments | 0.70% | ~22 |
-| A New Hope | 0.60% | ~18 |
-| When surrounded by war... | 0.60% | ~18 |
-| Stop that Droid | 0.60% | ~18 |
+| A New Hope | 0.60% | ~19 |
+| When surrounded by war... | 0.60% | ~19 |
+| Stop that Droid | 0.60% | ~19 |
 | No such thing as luck | 0.50% | ~15 |
 | Do we take prisoners? | 0.50% | ~15 |
 | I’ll take that bet | 0.40% | ~12 |
@@ -68,7 +68,7 @@
 | I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,082 (Ranked 234)  
+Progressed: 3,085 (Ranked 234)  
 Completed: 1 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -195,7 +195,7 @@ Completed: 1 (0.03%) (Ranked 363)
 | 2024-01-18 | 3,027 | 1 |
 | 2024-01-19 | 3,042 | 1 |
 | 2024-01-20 | 3,065 | 1 |
-| 2024-01-21 | 3,082 | 1 |
+| 2024-01-21 | 3,085 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

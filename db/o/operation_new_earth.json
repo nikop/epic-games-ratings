@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 251,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-26T08:00:00+00:00",
     "PcReleaseDate": "2016-12-14T12:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2293,
+  "EOS_Progressed": 2295,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8876,6 +8876,11 @@
       "Time": "2024-01-21T12:04:25.3790656+00:00",
       "NumProgressed": 2293,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T13:08:30.27771+00:00",
+      "NumProgressed": 2295,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -8895,7 +8900,7 @@
       "Name": "Exterminator",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_defeat_players_10",
@@ -8903,7 +8908,7 @@
       "Name": "Fighting for Survival",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_defeat_players_100",
@@ -8951,7 +8956,7 @@
       "Name": "Silver Competitor",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "ach_silver_rewards_50",
@@ -8967,7 +8972,7 @@
       "Name": "Keeping Busy",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_headquarters_15",
@@ -9015,7 +9020,7 @@
       "Name": "Lieutenant",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_hero_level_up_4",
@@ -9023,7 +9028,7 @@
       "Name": "Captain",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "objective_hero_level_up_5",
@@ -9063,7 +9068,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -9079,7 +9084,7 @@
       "Name": "Getting Deployment",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_key_drone_missions_completed_3",
@@ -9093,9 +9098,9 @@
       "ID": "objective_key_gather_resources_from_tiles_3",
       "SetID": "bm61c2p",
       "Name": "Stocking Up",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_key_gather_resources_from_tiles_5",
@@ -9111,7 +9116,7 @@
       "Name": "On Target",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "objective_key_objectives_completed_4",
@@ -9127,7 +9132,7 @@
       "Name": "Infantry Reporting",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "objective_multiple_factory_1",
@@ -9135,7 +9140,7 @@
       "Name": "Factory Expansion",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 183
+      "UsersEstimate": 184
     },
     {
       "ID": "objective_multiple_turrets_2",
@@ -9143,7 +9148,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -9190,7 +9195,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2293,
+      "Progressed": 2295,
       "Completed": 1
     }
   ],
@@ -9198,8 +9203,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:04:25.379065+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:08:30.2777097+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.1428113+00:00",
-  "LastUpdate_Ratings": "2024-01-21T12:00:12.3190464+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:04:25.3791315+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:04:13.9795713+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:08:30.2777638+00:00"
 }

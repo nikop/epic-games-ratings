@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 47,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -513,7 +513,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4129,
+  "EOS_Progressed": 4130,
   "EOS_Completed": 150,
   "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 6,
@@ -7608,6 +7608,11 @@
       "Time": "2024-01-20T18:07:31.7542189+00:00",
       "NumProgressed": 4129,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2024-01-21T13:10:30.790131+00:00",
+      "NumProgressed": 4130,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 14,
@@ -7627,7 +7632,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -7683,7 +7688,7 @@
       "Name": "Imprisonment",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ACH_MAD_SCIENTIST",
@@ -7699,7 +7704,7 @@
       "Name": "Reunion",
       "Percentage": 22,
       "XP": 80,
-      "UsersEstimate": 908
+      "UsersEstimate": 909
     },
     {
       "ID": "ACH_SHOVEL_NIGHT",
@@ -7707,7 +7712,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1445
+      "UsersEstimate": 1446
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -7715,7 +7720,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1197
+      "UsersEstimate": 1198
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -7723,14 +7728,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3262
+      "UsersEstimate": 3263
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4129,
+      "Progressed": 4130,
       "Completed": 150
     }
   ],
@@ -7738,8 +7743,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-17T15:01:36.9556508+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:06:15.9312847+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:10:30.7901305+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:58:33.4447283+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:06:15.9313298+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:02:18.00403+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:10:30.79017+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 116  (23.09.2022)
 | Perfect Storm | 47.00% | ~311 |
 | All That Glitters | 47.00% | ~311 |
 | Enhance! | 43.00% | ~285 |
-| One Of the Chosen | 41.00% | ~271 |
+| One Of the Chosen | 42.00% | ~278 |
 | Devil's in the Details | 41.00% | ~271 |
 | Throne Potato | 41.00% | ~271 |
 | Five's a Crowd | 41.00% | ~271 |

@@ -6,13 +6,13 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 6.00% | ~1,023 |
+| Play a Single Player Game | 6.00% | ~1,024 |
 | Explorer | 5.00% | ~853 |
 | Settler | 5.00% | ~853 |
+| Friendly Family | 5.00% | ~853 |
 | Able | 4.00% | ~682 |
 | Architect | 4.00% | ~682 |
 | Intrepid | 4.00% | ~682 |
-| Friendly Family | 4.00% | ~682 |
 | Hanging Gardens | 4.00% | ~682 |
 | Ambitious | 3.00% | ~512 |
 | Enlightened | 3.00% | ~512 |
@@ -87,6 +87,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~171 |
 | Win a Single Player Game | 1.00% | ~171 |
 | The Clergy | 1.00% | ~171 |
+| Kushite Paganism | 1.00% | ~171 |
 | Conqueror | 0.90% | ~154 |
 | Landowners | 0.90% | ~154 |
 | Traders | 0.90% | ~154 |
@@ -99,7 +100,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Legalism | 0.90% | ~154 |
 | Legionary | 0.90% | ~154 |
 | Double Victory | 0.90% | ~154 |
-| Kushite Paganism | 0.90% | ~154 |
 | Capable | 0.80% | ~136 |
 | Invincible | 0.80% | ~136 |
 | Lion | 0.80% | ~136 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,057 (Ranked 170)  
+Progressed: 17,060 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,057 | 5 |
+| 2024-01-21 | 17,060 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

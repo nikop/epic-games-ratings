@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 346,
   "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5380,9 +5380,9 @@
       "ID": "ML_ACHIEVEMENT_27",
       "SetID": "5k00jcd",
       "Name": "Extreme conditions",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 18
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -5553,8 +5553,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-21T12:04:18.4687106+00:00",
+  "LastChanged_Achievements": "2024-01-21T13:08:22.4759888+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.7946639+00:00",
-  "LastUpdate_Ratings": "2024-01-21T11:59:52.9221941+00:00",
-  "LastUpdate_Achievements": "2024-01-21T12:04:18.4687602+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:03:52.3914992+00:00",
+  "LastUpdate_Achievements": "2024-01-21T13:08:22.4760569+00:00"
 }

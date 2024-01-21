@@ -6,32 +6,32 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,280 |
-| Titan's First Steps | 12.00% | ~18,280 |
-| Basic in Bulk | 11.00% | ~16,757 |
-| Tinkle of Coins | 10.00% | ~15,233 |
+| Sponsored by Argon | 12.00% | ~18,281 |
+| Titan's First Steps | 12.00% | ~18,281 |
+| Basic in Bulk | 11.00% | ~16,758 |
+| Tinkle of Coins | 10.00% | ~15,234 |
 | Disintermediation | 8.00% | ~12,187 |
 | Capitalism Ho! | 8.00% | ~12,187 |
-| It's Free Real Estate | 7.00% | ~10,663 |
-| Budding Merchant | 7.00% | ~10,663 |
-| One Easy Payment | 6.00% | ~9,140 |
-| Some Assembly Required | 6.00% | ~9,140 |
-| Another Satisfied Customer | 6.00% | ~9,140 |
-| Pretty Penny | 6.00% | ~9,140 |
-| Own the Means of Production | 6.00% | ~9,140 |
+| It's Free Real Estate | 7.00% | ~10,664 |
+| Budding Merchant | 7.00% | ~10,664 |
+| One Easy Payment | 6.00% | ~9,141 |
+| Some Assembly Required | 6.00% | ~9,141 |
+| Another Satisfied Customer | 6.00% | ~9,141 |
+| Pretty Penny | 6.00% | ~9,141 |
+| Own the Means of Production | 6.00% | ~9,141 |
 | The Daily Grind | 5.00% | ~7,617 |
 | Bounty Hunters | 5.00% | ~7,617 |
 | Where it Hurts | 5.00% | ~7,617 |
 | One-Armed Bandit | 5.00% | ~7,617 |
 | Through Repetition, Perfection | 5.00% | ~7,617 |
-| Demand for Supplies | 4.00% | ~6,093 |
-| Flooding the Market | 4.00% | ~6,093 |
-| Gem Expert | 4.00% | ~6,093 |
-| Gild-Gotten Goods | 4.00% | ~6,093 |
-| Accomplished Merchant | 4.00% | ~6,093 |
-| Dungeon Imports | 4.00% | ~6,093 |
-| Did we pack lunch? | 4.00% | ~6,093 |
-| Arcane Industries | 4.00% | ~6,093 |
+| Demand for Supplies | 4.00% | ~6,094 |
+| Flooding the Market | 4.00% | ~6,094 |
+| Gem Expert | 4.00% | ~6,094 |
+| Gild-Gotten Goods | 4.00% | ~6,094 |
+| Accomplished Merchant | 4.00% | ~6,094 |
+| Dungeon Imports | 4.00% | ~6,094 |
+| Did we pack lunch? | 4.00% | ~6,094 |
+| Arcane Industries | 4.00% | ~6,094 |
 | On the Path to Greatness | 3.00% | ~4,570 |
 | A Notch Above the Rest | 3.00% | ~4,570 |
 | Ascended | 3.00% | ~4,570 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~609 |
 | Capitalist Camaraderie | 0.30% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,333 (Ranked 87)  
+Progressed: 152,343 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -395,15 +395,15 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-18 | 151,873 | 359 |
 | 2024-01-19 | 152,097 | 359 |
 | 2024-01-20 | 152,267 | 360 |
-| 2024-01-21 | 152,333 | 360 |
+| 2024-01-21 | 152,343 | 360 |
 ## Awards
 Max (Great for Beginners): 4,969  (Ranked 82)  
-Sum: 28,024 (Ranked 52)  
+Sum: 28,028 (Ranked 52)  
 Diff (max vs sum): 30  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 4,969 |
-| This game is Relaxing | 4,080 |
+| This game is Relaxing | 4,084 |
 | This game has Quickly Understood Controls | 4,076 |
 | This game has Diverse Characters | 4,044 |
 | This game is Highly Recommended | 3,826 |
@@ -768,4 +768,4 @@ Diff (max vs sum): 30
 | 2024-01-18 | 4.00 | - | 4,964 | 28,013 |
 | 2024-01-19 | 4.00 | - | 4,966 | 28,017 |
 | 2024-01-20 | 4.00 | - | 4,966 | 28,018 |
-| 2024-01-21 | 4.00 | - | 4,969 | 28,024 |
+| 2024-01-21 | 4.00 | - | 4,969 | 28,028 |
