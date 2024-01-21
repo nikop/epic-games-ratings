@@ -57,7 +57,7 @@
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.43% |
 | 55 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.43% |
 | 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.20% |
-| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.18% |
+| 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.17% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.11% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
@@ -843,4 +843,4 @@
 | 408 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 408 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 408 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,861 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,862 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
