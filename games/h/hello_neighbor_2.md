@@ -1,7 +1,7 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.44 (Ranked 711)  
+Rating: 4.41 (Ranked 760)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -9,7 +9,7 @@ Rating: 4.44 (Ranked 711)
 | Case Closed | 35.00% | ~1,446 |
 | Shovel Night | 35.00% | ~1,446 |
 | Easy As Pie | 33.00% | ~1,363 |
-| Family Lost | 31.00% | ~1,280 |
+| Family Lost | 31.00% | ~1,281 |
 | Treasure Hunt | 29.00% | ~1,198 |
 | Ancient Curse | 27.00% | ~1,115 |
 | Climber | 24.00% | ~991 |
@@ -18,9 +18,9 @@ Rating: 4.44 (Ranked 711)
 | Mad Scientist | 23.00% | ~950 |
 | Imprisonment | 22.00% | ~909 |
 | Reunion | 22.00% | ~909 |
-| Dog Person | 18.00% | ~743 |
+| Dog Person | 18.00% | ~744 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,130 (Ranked 220)  
+Progressed: 4,131 (Ranked 220)  
 Completed: 150 (3.63%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -290,7 +290,7 @@ Completed: 150 (3.63%) (Ranked 99)
 | 2024-01-18 | 4,109 | 148 |
 | 2024-01-19 | 4,119 | 149 |
 | 2024-01-20 | 4,129 | 150 |
-| 2024-01-21 | 4,130 | 150 |
+| 2024-01-21 | 4,131 | 150 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -391,3 +391,4 @@ Completed: 150 (3.63%) (Ranked 99)
 | 2024-01-03 | 4.44 | 0 | 0 |
 | 2024-01-05 | 4.43 | 0 | 0 |
 | 2024-01-17 | 4.44 | 0 | 0 |
+| 2024-01-21 | 4.41 | 0 | 0 |

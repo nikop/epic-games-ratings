@@ -2605,9 +2605,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19768,
+  "EOS_Progressed": 19769,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 226,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21145,6 +21145,11 @@
       "Time": "2024-01-21T13:14:18.230904+00:00",
       "NumProgressed": 19768,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-21T14:09:58.8048563+00:00",
+      "NumProgressed": 19769,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21156,7 +21161,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16012
+      "UsersEstimate": 16013
     },
     {
       "ID": "ACH02",
@@ -21172,7 +21177,7 @@
       "Name": "The End of the Line",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACH04",
@@ -21260,7 +21265,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ACH15",
@@ -21372,7 +21377,7 @@
       "Name": "Original Gangster",
       "Percentage": 8,
       "XP": 35,
-      "UsersEstimate": 1581
+      "UsersEstimate": 1582
     },
     {
       "ID": "ACH29",
@@ -21435,7 +21440,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19768,
+      "Progressed": 19769,
       "Completed": 81
     }
   ],
@@ -21443,8 +21448,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-21T04:02:14.1294567+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:14:18.2309038+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:09:58.804856+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:04:18.4531271+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:14:18.2309843+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:00:14.6849986+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:09:58.80494+00:00"
 }

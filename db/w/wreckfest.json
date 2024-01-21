@@ -2,13 +2,13 @@
   "ID": "8a574ca3cbfc46c69ea8d3491932e973",
   "Name": "Wreckfest",
   "ProductSlug": "wreckfest",
-  "Ranking_Rating": 930,
+  "Ranking_Rating": 939,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 290,
-  "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.25,
+  "Rating": 4.24,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:07.236765+00:00",
@@ -361,15 +361,21 @@
       "Rating": 4.25,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-21T13:59:24.6790778+00:00",
+      "Rating": 4.24,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1234,
+  "EOS_Progressed": 1235,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 89,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3192,6 +3198,11 @@
       "Time": "2024-01-21T13:13:13.6399005+00:00",
       "NumProgressed": 1234,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T14:08:59.7458111+00:00",
+      "NumProgressed": 1235,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3204,7 +3215,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 308
+      "UsersEstimate": 309
     },
     {
       "ID": "CareerAllChallenges",
@@ -3228,7 +3239,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "CareerChamp3",
@@ -3260,7 +3271,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 888
+      "UsersEstimate": 889
     },
     {
       "ID": "CollectVehiclesA",
@@ -3348,7 +3359,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "WreckOpponentsBus",
@@ -3363,16 +3374,16 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1234,
+      "Progressed": 1235,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-03-11T06:58:06.4643937+00:00",
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
-  "LastChanged": "2024-01-16T19:01:42.2629777+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:13:13.6399003+00:00",
+  "LastChanged": "2024-01-21T13:59:24.6790776+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:08:59.7458107+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:03:21.6208809+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:13:13.6399385+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:59:24.6790781+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:08:59.745838+00:00"
 }

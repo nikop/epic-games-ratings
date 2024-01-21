@@ -2,13 +2,13 @@
   "ID": "ca0530b485754032be50cb6f27be0c2c",
   "Name": "Kerbal Space Program",
   "ProductSlug": "kerbal-space-program",
-  "Ranking_Rating": 100,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 146,
   "Ranking_PopularitySum": 119,
   "Ranking_EOS_Progress": 846,
-  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-01-05T16:00:00+00:00",
     "PcReleaseDate": "2015-04-27T15:00:00+00:00",
@@ -8627,6 +8627,6 @@
   "FirstSeenRating": "2023-01-06T04:57:07.6192793+00:00",
   "LastChanged": "2024-01-21T06:00:37.0931752+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:15.1153432+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:02:17.2891994+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:07:31.3070737+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:58:32.0825426+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:03:29.1581404+00:00"
 }

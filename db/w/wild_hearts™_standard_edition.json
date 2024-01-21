@@ -4,8 +4,8 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
     "PcReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -4958,9 +4958,9 @@
       "ID": "achievement_7",
       "SetID": "2cpn27e",
       "Name": "Budding Conjuror",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 850
+      "UsersEstimate": 864
     },
     {
       "ID": "achievement_8",
@@ -4988,8 +4988,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:13:59.6838903+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:09:41.6020822+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:03:21.9762632+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:13:59.683936+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:59:25.0522064+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:09:41.6021408+00:00"
 }

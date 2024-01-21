@@ -42,7 +42,7 @@ Number of Ratings: 94  (23.09.2022)
 | Featured Gamer - Gold | 0.10% | ~110 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 109,993 (Ranked 99)  
-Completed: 5 (0.00%) (Ranked 408)  
+Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

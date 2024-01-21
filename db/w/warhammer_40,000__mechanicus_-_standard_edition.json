@@ -2,13 +2,13 @@
   "ID": "144f9e231e2846d1a4381d9bb678f69d",
   "Name": "Warhammer 40,000: Mechanicus - Standard Edition",
   "ProductSlug": "warhammer-mechanicus-0e4b71",
-  "Ranking_Rating": 731,
+  "Ranking_Rating": 730,
   "Ranking_Popularity": 270,
   "Ranking_PopularitySum": 212,
   "Ranking_EOS_Progress": 78,
-  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2018-11-15T00:00:00+00:00",
@@ -1116,7 +1116,7 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232756,
+  "EOS_Progressed": 232760,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 535,
   "EOS_NewCompleters": 0,
@@ -31466,6 +31466,11 @@
       "Time": "2024-01-21T13:14:15.4497731+00:00",
       "NumProgressed": 232756,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T14:09:56.2610504+00:00",
+      "NumProgressed": 232760,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31477,7 +31482,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46551
+      "UsersEstimate": 46552
     },
     {
       "ID": "ACH_BASE_10",
@@ -31485,7 +31490,7 @@
       "Name": "No aid from the Omnissiah",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 60517
+      "UsersEstimate": 60518
     },
     {
       "ID": "ACH_BASE_11",
@@ -31557,7 +31562,7 @@
       "Name": "Watch them crumble",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 13965
+      "UsersEstimate": 13966
     },
     {
       "ID": "ACH_BASE_20",
@@ -31725,7 +31730,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30258
+      "UsersEstimate": 30259
     },
     {
       "ID": "ACH_BASE_8",
@@ -31748,7 +31753,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232756,
+      "Progressed": 232760,
       "Completed": 5
     }
   ],
@@ -31756,8 +31761,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-15T19:00:01.7583563+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:14:15.4497728+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:09:56.2610501+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:03:40.9373786+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:14:15.4499233+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:59:40.1545298+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:09:56.2612201+00:00"
 }

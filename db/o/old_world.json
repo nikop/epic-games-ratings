@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17060,
+  "EOS_Progressed": 17063,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 293,
+  "EOS_NewPlayers": 285,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20689,6 +20689,11 @@
       "Time": "2024-01-21T13:14:31.121233+00:00",
       "NumProgressed": 17060,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T14:10:11.3863645+00:00",
+      "NumProgressed": 17063,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21028,7 +21033,7 @@
       "Name": "Able",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AMBITIOUS",
@@ -21052,7 +21057,7 @@
       "Name": "Architect",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_AVENGER",
@@ -21092,7 +21097,7 @@
       "Name": "Capable",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_CONQUEROR",
@@ -21188,7 +21193,7 @@
       "Name": "Intrepid",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_INVINCIBLE",
@@ -21196,7 +21201,7 @@
       "Name": "Invincible",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_JUST",
@@ -21236,7 +21241,7 @@
       "Name": "Lion",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -21300,7 +21305,7 @@
       "Name": "Ready",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_REBUILDER",
@@ -21322,9 +21327,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_SETTLER",
       "SetID": "9201eeb",
       "Name": "Settler",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 853
+      "UsersEstimate": 1024
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
@@ -21340,7 +21345,7 @@
       "Name": "Subjugator",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_VALIANT",
@@ -21580,7 +21585,7 @@
       "Name": "Riders",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_SAGES",
@@ -22068,7 +22073,7 @@
       "Name": "Hanging Gardens",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 682
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HOLY_SITE_CHRISTIANITY",
@@ -22244,7 +22249,7 @@
       "Name": "Learn to Play 4",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -22500,7 +22505,7 @@
       "Name": "Assyrian Paganism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_RELIGION_PAGAN_BABYLONIA",
@@ -22644,7 +22649,7 @@
       "Name": "Industrial Progress",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
@@ -22658,9 +22663,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
       "SetID": "7l38kb8",
       "Name": "Dualism",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -22676,7 +22681,7 @@
       "Name": "Gnosticism",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -22748,7 +22753,7 @@
       "Name": "Cimmerian Archer",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_UNIT_HITTITE_CHARIOT",
@@ -22780,7 +22785,7 @@
       "Name": "Phalangite",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -22826,9 +22831,9 @@
       "ID": "ACHIEVEMENT_VICTORY_CONQUEST",
       "SetID": "7l38kb8",
       "Name": "Conquest Victory",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
@@ -23034,9 +23039,9 @@
       "ID": "ACHIEVEMENT_SACRED_PROFANE_POET_LEADER",
       "SetID": "9201eeb",
       "Name": "Poetic Leader",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_SACRED_PROFANE_ST_PAUL",
@@ -23404,7 +23409,7 @@
       "Name": "Kushite Pyramids",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_NATION_KUSH",
@@ -23500,7 +23505,7 @@
       "Name": "Jerwan Aqueduct",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_ROYAL_LIBRARY",
@@ -23508,7 +23513,7 @@
       "Name": "Royal Library",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_YAZILIKAYA",
@@ -23516,7 +23521,7 @@
       "Name": "Yazilikaya",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 136
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_JERWAN_JERWAN_AQUEDUCT",
@@ -23563,21 +23568,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17060,
+      "Progressed": 17063,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17060,
+      "Progressed": 17063,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:14:31.1212329+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:10:11.3863643+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:01:33.3644328+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:14:31.122208+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:57:53.4431309+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:10:11.3873884+00:00"
 }

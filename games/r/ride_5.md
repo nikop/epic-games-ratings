@@ -5,14 +5,14 @@ Rating: 4.59 (Ranked 453)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,831 |
+| Eat My Dust | 50.00% | ~1,832 |
 | First Love | 46.00% | ~1,685 |
 | Clean Race | 45.00% | ~1,648 |
 | Hear That Roar! | 43.00% | ~1,575 |
-| Bitter Rivalry | 31.00% | ~1,135 |
-| Rivals to the End | 31.00% | ~1,135 |
+| Bitter Rivalry | 31.00% | ~1,136 |
+| Rivals to the End | 31.00% | ~1,136 |
 | Champagne Spray | 30.00% | ~1,099 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,025 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,026 |
 | Quick Pit Stop | 23.00% | ~842 |
 | I Want One Too! | 22.00% | ~806 |
 | Restored and Ready | 21.00% | ~769 |
@@ -26,9 +26,9 @@ Rating: 4.59 (Ranked 453)
 | Make It Your Own! | 5.00% | ~183 |
 | Cherry Blossom and Temples | 5.00% | ~183 |
 | The Road to Liberty | 5.00% | ~183 |
-| Romantic Races | 4.00% | ~146 |
-| I Make the Rules! | 4.00% | ~146 |
-| My Work Here Is Done | 4.00% | ~146 |
+| Romantic Races | 4.00% | ~147 |
+| I Make the Rules! | 4.00% | ~147 |
+| My Work Here Is Done | 4.00% | ~147 |
 | Spoilt for Choice | 3.00% | ~110 |
 | La Dolce Vita | 3.00% | ~110 |
 | Rounding Off | 3.00% | ~110 |
@@ -55,8 +55,8 @@ Rating: 4.59 (Ranked 453)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,662 (Ranked 227)  
-Completed: 0 (0.00%) (Ranked 408)  
+Progressed: 3,663 (Ranked 227)  
+Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -197,7 +197,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 3,645 | 0 |
 | 2024-01-19 | 3,649 | 0 |
 | 2024-01-20 | 3,660 | 0 |
-| 2024-01-21 | 3,662 | 0 |
+| 2024-01-21 | 3,663 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

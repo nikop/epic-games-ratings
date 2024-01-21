@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 285,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -71,9 +71,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 922,
+  "EOS_Progressed": 923,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3466,6 +3466,11 @@
       "Time": "2024-01-21T06:11:45.2756804+00:00",
       "NumProgressed": 922,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T14:09:15.0519947+00:00",
+      "NumProgressed": 923,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3478,7 +3483,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 710
+      "UsersEstimate": 711
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3542,7 +3547,7 @@
       "Name": "Find myself",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACHIEVEMENT_19_Romantic",
@@ -3614,7 +3619,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3638,7 +3643,7 @@
       "Name": "First wall",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3646,15 +3651,15 @@
       "Name": "Piggyback Expert",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 313
+      "UsersEstimate": 305
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3677,7 +3682,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 922,
+      "Progressed": 923,
       "Completed": 2
     }
   ],
@@ -3685,8 +3690,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-18T15:59:14.6603524+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:13:30.2311636+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:09:15.0519945+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:03:59.3927055+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:13:30.231201+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:59:56.8094831+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:09:15.0520242+00:00"
 }

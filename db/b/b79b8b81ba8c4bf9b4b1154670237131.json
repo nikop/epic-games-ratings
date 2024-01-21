@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16835,
+  "EOS_Progressed": 16836,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7132,6 +7132,11 @@
       "Time": "2024-01-21T12:09:49.9173903+00:00",
       "NumProgressed": 16835,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-21T14:09:35.6504553+00:00",
+      "NumProgressed": 16836,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7144,7 +7149,7 @@
       "Name": "Revelations",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 6397
+      "UsersEstimate": 6398
     },
     {
       "ID": "ACH_AE_10",
@@ -7176,7 +7181,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12626
+      "UsersEstimate": 12627
     },
     {
       "ID": "ACH_AE_14",
@@ -7232,7 +7237,7 @@
       "Name": "Back to School",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "ACH_AE_20",
@@ -7256,7 +7261,7 @@
       "Name": "The High Road",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "ACH_AE_23",
@@ -7344,7 +7349,7 @@
       "Name": "Diplomat",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1178
+      "UsersEstimate": 1179
     },
     {
       "ID": "ACH_AE_33",
@@ -7423,7 +7428,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16835,
+      "Progressed": 16836,
       "Completed": 16
     }
   ],
@@ -7431,8 +7436,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:13:53.0448364+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:09:35.6504549+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:01:12.4959426+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:13:53.0448904+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:57:34.456851+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:09:35.6505417+00:00"
 }

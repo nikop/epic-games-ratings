@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Man Standing | 91.00% | ~92,043 |
-| Enemy Attrition | 67.00% | ~67,768 |
-| Grim Reaper | 66.00% | ~66,756 |
-| Heads Down | 63.00% | ~63,722 |
-| Not On My Watch | 60.00% | ~60,688 |
-| Combat Engineer | 41.00% | ~41,470 |
-| Eager Beaver | 32.00% | ~32,367 |
-| Call ’em in! | 30.00% | ~30,344 |
-| Lovely | 28.00% | ~28,321 |
-| Store fuglar fanga ingi flugor | 17.00% | ~17,195 |
-| Ou La Mort | 15.00% | ~15,172 |
-| Elite | 13.00% | ~13,149 |
-| Fender Bender | 8.00% | ~8,092 |
-| Globetrotter | 6.00% | ~6,069 |
-| Storyteller | 5.00% | ~5,057 |
-| Jack of All Trades | 5.00% | ~5,057 |
-| Off-hand | 3.00% | ~3,034 |
+| Last Man Standing | 91.00% | ~92,066 |
+| Enemy Attrition | 67.00% | ~67,785 |
+| Grim Reaper | 66.00% | ~66,773 |
+| Heads Down | 63.00% | ~63,738 |
+| Not On My Watch | 60.00% | ~60,703 |
+| Combat Engineer | 41.00% | ~41,480 |
+| Eager Beaver | 32.00% | ~32,375 |
+| Call ’em in! | 30.00% | ~30,351 |
+| Lovely | 28.00% | ~28,328 |
+| Store fuglar fanga ingi flugor | 17.00% | ~17,199 |
+| Ou La Mort | 15.00% | ~15,176 |
+| Elite | 13.00% | ~13,152 |
+| Fender Bender | 8.00% | ~8,094 |
+| Globetrotter | 6.00% | ~6,070 |
+| Storyteller | 5.00% | ~5,059 |
+| Jack of All Trades | 5.00% | ~5,059 |
+| Off-hand | 3.00% | ~3,035 |
 | Death from Above | 2.00% | ~2,023 |
-| Veteran | 0.90% | ~910 |
-| Hoist the Flag | 0.30% | ~303 |
+| Veteran | 0.90% | ~911 |
+| Hoist the Flag | 0.30% | ~304 |
 | Sins of the Fathers | 0.20% | ~202 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 101,146 (Ranked 101)  
-Completed: 1 (0.00%) (Ranked 408)  
+Progressed: 101,171 (Ranked 101)  
+Completed: 1 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -153,4 +153,4 @@ Completed: 1 (0.00%) (Ranked 408)
 | 2024-01-18 | 100,018 | 1 |
 | 2024-01-19 | 100,407 | 1 |
 | 2024-01-20 | 100,866 | 1 |
-| 2024-01-21 | 101,146 | 1 |
+| 2024-01-21 | 101,171 | 1 |

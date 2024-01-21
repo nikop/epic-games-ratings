@@ -6,30 +6,30 @@ Number of Ratings: 90  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rock of the Bay | 84.00% | ~385 |
-| Mash Machine | 75.00% | ~344 |
-| Ducks in a Row, Fish in a Barrel | 55.00% | ~252 |
-| Furon Fashion | 49.00% | ~224 |
-| Shop Til They Drop | 41.00% | ~188 |
+| Rock of the Bay | 84.00% | ~386 |
+| Mash Machine | 75.00% | ~345 |
+| Ducks in a Row, Fish in a Barrel | 55.00% | ~253 |
+| Furon Fashion | 49.00% | ~225 |
+| Shop Til They Drop | 40.00% | ~184 |
 | Bodied Sattva | 39.00% | ~179 |
-| Cult Following | 36.00% | ~165 |
-| Earthly Pleasures | 35.00% | ~160 |
-| Lie Back and Think of Albion | 29.00% | ~133 |
-| Upgreatest | 28.00% | ~128 |
-| Pimp My Raid | 26.00% | ~119 |
-| Freshly Squeezed | 23.00% | ~105 |
+| Cult Following | 35.00% | ~161 |
+| Earthly Pleasures | 35.00% | ~161 |
+| Lie Back and Think of Albion | 28.00% | ~129 |
+| Upgreatest | 28.00% | ~129 |
+| Pimp My Raid | 26.00% | ~120 |
+| Freshly Squeezed | 23.00% | ~106 |
 | I Look Up As I Walk to Takoshima | 22.00% | ~101 |
-| Perfect Probulator | 19.00% | ~87 |
-| Die Nasty | 19.00% | ~87 |
+| Perfect Probulator | 18.00% | ~83 |
+| Die Nasty | 18.00% | ~83 |
 | Transmitting From Sol-3 | 17.00% | ~78 |
 | The Irony of Fate, or Enjoy Your Tunguska! | 14.00% | ~64 |
 | Kaijuiced | 12.00% | ~55 |
 | Dusted | 12.00% | ~55 |
-| Fly Me to the Moon Base | 11.00% | ~50 |
+| Fly Me to the Moon Base | 11.00% | ~51 |
 | Scuttled | 10.00% | ~46 |
 | Lobster Blisque | 7.00% | ~32 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~32 |
-| Yettisoned | 6.00% | ~27 |
+| Yettisoned | 6.00% | ~28 |
 | Ultimate Smoothie | 5.00% | ~23 |
 | Arkvoodle Doodle | 5.00% | ~23 |
 | Deincarnated | 3.00% | ~14 |
@@ -51,8 +51,8 @@ Number of Ratings: 90  (23.09.2022)
 | Path of the Furon | 0.40% | ~2 |
 | Trans-Siberian Express | 0.40% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 458 (Ranked 363)  
-Completed: 2 (0.44%) (Ranked 240)  
+Progressed: 460 (Ranked 363)  
+Completed: 2 (0.43%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -107,11 +107,11 @@ Completed: 2 (0.44%) (Ranked 240)
 | 2024-01-18 | 446 | 2 |
 | 2024-01-19 | 449 | 2 |
 | 2024-01-20 | 457 | 2 |
-| 2024-01-21 | 458 | 2 |
+| 2024-01-21 | 460 | 2 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 504)  
-Sum: 36 (Ranked 537)  
-Diff (max vs sum): -33  
+Sum: 36 (Ranked 538)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 36 |

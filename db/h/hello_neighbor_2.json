@@ -2,13 +2,13 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 711,
+  "Ranking_Rating": 760,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 216,
-  "Ranking_EOS_NewCompleters": 47,
+  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.41,
   "RatingHistory": [
     {
       "Time": "2022-12-13T19:57:02.6250274+00:00",
@@ -507,15 +507,21 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-21T13:58:32.7616796+00:00",
+      "Rating": 4.41,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4130,
+  "EOS_Progressed": 4131,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 3.63,
   "EosHistory": [
@@ -7613,6 +7619,11 @@
       "Time": "2024-01-21T13:10:30.790131+00:00",
       "NumProgressed": 4130,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2024-01-21T14:06:14.6408582+00:00",
+      "NumProgressed": 4131,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 14,
@@ -7656,7 +7667,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -7672,7 +7683,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1281
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7735,16 +7746,16 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4130,
+      "Progressed": 4131,
       "Completed": 150
     }
   ],
   "FirstSeen": "2022-12-06T19:57:03.5315641+00:00",
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
-  "LastChanged": "2024-01-17T15:01:36.9556508+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:10:30.7901305+00:00",
+  "LastChanged": "2024-01-21T13:58:32.7616794+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:06:14.6408578+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:02:18.00403+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:10:30.79017+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:58:32.76168+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:06:14.6409028+00:00"
 }

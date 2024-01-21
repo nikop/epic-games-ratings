@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 890,
+  "Ranking_Rating": 891,
   "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44610,
+  "EOS_Progressed": 44611,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 431,
+  "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30232,6 +30232,11 @@
       "Time": "2024-01-21T13:07:36.2654131+00:00",
       "NumProgressed": 44610,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-21T14:03:34.0068977+00:00",
+      "NumProgressed": 44611,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30315,7 +30320,7 @@
       "Name": "Killed by Death",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 2230
+      "UsersEstimate": 2231
     },
     {
       "ID": "ACH_12_WOLF_RUN_NO_DAMAGE",
@@ -30474,7 +30479,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44610,
+      "Progressed": 44611,
       "Completed": 30
     }
   ],
@@ -30482,8 +30487,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:07:36.2654127+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:03:34.0068973+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.0073516+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:06:54.4619239+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:07:36.2655284+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:02:53.4660385+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:03:34.0070872+00:00"
 }

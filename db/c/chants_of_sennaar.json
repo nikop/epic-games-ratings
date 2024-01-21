@@ -139,9 +139,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2934,
+  "EOS_Progressed": 2935,
   "EOS_Completed": 228,
-  "EOS_NewPlayers": 174,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": 22,
   "EOS_Completed_Percentage": 7.77,
   "EosHistory": [
@@ -7829,6 +7829,11 @@
       "Time": "2024-01-21T13:09:50.2608686+00:00",
       "NumProgressed": 2934,
       "NumCompleted": 228
+    },
+    {
+      "Time": "2024-01-21T14:05:36.4068788+00:00",
+      "NumProgressed": 2935,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 25,
@@ -7950,9 +7955,9 @@
       "ID": "OPTIONNAL_GAMES",
       "SetID": "2gma9an",
       "Name": "True G3M4R",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 939
+      "UsersEstimate": 969
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -7968,7 +7973,7 @@
       "Name": "Fashion victim",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "PROGRESS_ALL_RUNES",
@@ -7984,7 +7989,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1760
+      "UsersEstimate": 1761
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8000,7 +8005,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1584
+      "UsersEstimate": 1585
     },
     {
       "ID": "PROGRESS_N2",
@@ -8016,7 +8021,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1144
+      "UsersEstimate": 1145
     },
     {
       "ID": "PROGRESS_N4",
@@ -8024,7 +8029,7 @@
       "Name": "The darkness",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "PROGRESS_N5",
@@ -8039,7 +8044,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2934,
+      "Progressed": 2935,
       "Completed": 228
     }
   ],
@@ -8047,8 +8052,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:09:50.2608683+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:05:36.4068785+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:02:31.9657568+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:09:50.2609262+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:58:44.9908146+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:05:36.4069169+00:00"
 }

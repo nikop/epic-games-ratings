@@ -4,11 +4,11 @@
   "ProductSlug": "darksiders-genesis",
   "Ranking_Rating": 643,
   "Ranking_Popularity": 477,
-  "Ranking_PopularitySum": 522,
+  "Ranking_PopularitySum": 523,
   "Ranking_EOS_Progress": 328,
-  "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 207,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_NewPlayers": 206,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-07-16T16:00:00+00:00",
     "PcReleaseDate": "2019-12-05T15:00:00+00:00",
@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 730,
+  "EOS_Progressed": 732,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2610,6 +2610,11 @@
       "Time": "2024-01-21T12:10:10.2409743+00:00",
       "NumProgressed": 730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T14:09:56.0296844+00:00",
+      "NumProgressed": 732,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2806,7 +2811,7 @@
       "Name": "Soul Cache",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "TheDeadCourt",
@@ -2861,15 +2866,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 730,
+      "Progressed": 732,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:14:15.2006829+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:09:56.029684+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:02.2099798+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:01:06.7019277+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:14:15.2007089+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:57:29.4188882+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:09:56.0297139+00:00"
 }

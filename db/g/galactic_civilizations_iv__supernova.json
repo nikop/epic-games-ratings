@@ -2,13 +2,13 @@
   "ID": "c9e2559572f64192b1e37049eee27783",
   "Name": "Galactic Civilizations IV: Supernova",
   "ProductSlug": "galactic-civilizations-iv-supernova",
-  "Ranking_Rating": 731,
+  "Ranking_Rating": 730,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 239,
-  "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-04-27T14:45:00+00:00",
     "PcReleaseDate": "2023-04-27T14:45:00+00:00",
@@ -297,9 +297,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2730,
+  "EOS_Progressed": 2731,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8992,6 +8992,11 @@
       "Time": "2024-01-21T13:13:04.6738099+00:00",
       "NumProgressed": 2730,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T14:08:51.3642944+00:00",
+      "NumProgressed": 2731,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 77,
@@ -9618,13 +9623,13 @@
     {
       "ID": "1b9olh7",
       "IsBase": true,
-      "Progressed": 2730,
+      "Progressed": 2731,
       "Completed": 0
     },
     {
       "ID": "8ce16g",
       "IsBase": false,
-      "Progressed": 2730,
+      "Progressed": 2731,
       "Completed": 0
     }
   ],
@@ -9632,8 +9637,8 @@
   "FirstSeenRating": "2023-04-27T21:57:06.0421025+00:00",
   "FirstSeenAchievements": "2023-04-27T15:02:34.6199843+00:00",
   "LastChanged": "2024-01-15T19:59:16.0715973+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:13:04.6738095+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:08:51.3642938+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:14.7592632+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:02:15.8714311+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:13:04.6738992+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:58:30.8544065+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:08:51.3643898+00:00"
 }

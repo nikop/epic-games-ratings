@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.80% | ~2,040 |
 | Mad Cow Disease | 0.80% | ~2,040 |
 | Friendly Imps | 0.80% | ~2,040 |
-| Welcome to Sigil | 0.80% | ~1,770 |
+| Welcome to Sigil | 0.80% | ~1,771 |
 | A Persistent Buzzing | 0.70% | ~1,785 |
 | Pure Energy | 0.70% | ~1,785 |
 | Fast Food | 0.70% | ~1,549 |
@@ -120,6 +120,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Expert Opinion | 0.20% | ~510 |
 | The Haunted Jungle | 0.20% | ~510 |
 | The Beginning is the End | 0.20% | ~443 |
+| A Wise Approach | 0.20% | ~443 |
 | The Brains of an Illithid's Desire | 0.20% | ~443 |
 | Upholding the Law | 0.10% | ~255 |
 | Starving in the Jungle | 0.10% | ~255 |
@@ -551,9 +552,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Tomb of Champions | 0.10% | ~221 |
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
-| A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,033 (Ranked 71)  
+Progressed: 255,039 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 255,033 | 2,629 |
+| 2024-01-21 | 255,039 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,593 (Ranked 41)  

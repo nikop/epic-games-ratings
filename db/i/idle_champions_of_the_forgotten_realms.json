@@ -9733,9 +9733,9 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255033,
+  "EOS_Progressed": 255039,
   "EOS_Completed": 2629,
-  "EOS_NewPlayers": 1144,
+  "EOS_NewPlayers": 1146,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41078,6 +41078,11 @@
       "Time": "2024-01-21T13:14:32.1886484+00:00",
       "NumProgressed": 255033,
       "NumCompleted": 2629
+    },
+    {
+      "Time": "2024-01-21T14:10:12.8115138+00:00",
+      "NumProgressed": 255039,
+      "NumCompleted": 2629
     }
   ],
   "TotalAchievements": 546,
@@ -45343,9 +45348,9 @@
       "ID": "objective_completed_1337",
       "SetID": "415jc5c",
       "Name": "A Wise Approach",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1342",
@@ -45377,7 +45382,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1770
+      "UsersEstimate": 1771
     },
     {
       "ID": "objective_completed_1558",
@@ -45456,21 +45461,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221307,
-      "Completed": 4153
+      "Progressed": 221313,
+      "Completed": 4154
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255033,
+      "Progressed": 255039,
       "Completed": 2629
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-21T09:57:19.570757+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:14:32.1886483+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:10:12.8115135+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:00:53.6607683+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:14:32.190924+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:57:18.6068523+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:10:12.8137696+00:00"
 }

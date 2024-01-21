@@ -2,13 +2,13 @@
   "ID": "2d2e05ea844c42dc80ef341d89542b16",
   "Name": "Railway Empire 2",
   "ProductSlug": "railway-empire-2-46840c",
-  "Ranking_Rating": 813,
+  "Ranking_Rating": 814,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 238,
-  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 244,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-05-25T17:00:00+00:00",
     "PcReleaseDate": "2023-05-25T17:00:00+00:00",
@@ -347,9 +347,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2763,
+  "EOS_Progressed": 2764,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8197,6 +8197,11 @@
       "Time": "2024-01-21T10:05:46.2720842+00:00",
       "NumProgressed": 2763,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T14:05:43.0235198+00:00",
+      "NumProgressed": 2764,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 55,
@@ -8208,7 +8213,7 @@
       "Name": "Apprentice",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "A01",
@@ -8216,7 +8221,7 @@
       "Name": "Stoker",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "A02",
@@ -8232,7 +8237,7 @@
       "Name": "Resistance is futile",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "A04",
@@ -8240,7 +8245,7 @@
       "Name": "Go West",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "A05",
@@ -8304,7 +8309,7 @@
       "Name": "Departure",
       "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 2072
+      "UsersEstimate": 2073
     },
     {
       "ID": "A13",
@@ -8320,7 +8325,7 @@
       "Name": "A new Journey",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "A15",
@@ -8328,7 +8333,7 @@
       "Name": "Full Steam ahead",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 939
+      "UsersEstimate": 940
     },
     {
       "ID": "A16",
@@ -8352,7 +8357,7 @@
       "Name": "General Manager",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "A19",
@@ -8376,7 +8381,7 @@
       "Name": "Country Life",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 801
+      "UsersEstimate": 802
     },
     {
       "ID": "A22",
@@ -8384,7 +8389,7 @@
       "Name": "Brainstorm",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1851
+      "UsersEstimate": 1852
     },
     {
       "ID": "A23",
@@ -8400,7 +8405,7 @@
       "Name": "Access granted",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "A25",
@@ -8432,7 +8437,7 @@
       "Name": "We brake for nobody",
       "Percentage": 69,
       "XP": 15,
-      "UsersEstimate": 1906
+      "UsersEstimate": 1907
     },
     {
       "ID": "A29",
@@ -8440,7 +8445,7 @@
       "Name": "Going once, going twice, sold",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "A30",
@@ -8456,7 +8461,7 @@
       "Name": "Hostile Takeover",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 718
+      "UsersEstimate": 719
     },
     {
       "ID": "A32",
@@ -8464,7 +8469,7 @@
       "Name": "Assimilated",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 414
+      "UsersEstimate": 415
     },
     {
       "ID": "A33",
@@ -8496,7 +8501,7 @@
       "Name": "Way of Iron",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1989
+      "UsersEstimate": 1990
     },
     {
       "ID": "A37",
@@ -8504,7 +8509,7 @@
       "Name": "All around the World",
       "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "A38",
@@ -8536,7 +8541,7 @@
       "Name": "Right through the middle",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 1630
+      "UsersEstimate": 1631
     },
     {
       "ID": "A42",
@@ -8576,7 +8581,7 @@
       "Name": "Mystery Tour",
       "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 1934
+      "UsersEstimate": 1935
     },
     {
       "ID": "A47",
@@ -8647,7 +8652,7 @@
     {
       "ID": "9b7p7eo",
       "IsBase": true,
-      "Progressed": 2763,
+      "Progressed": 2764,
       "Completed": 0
     }
   ],
@@ -8655,8 +8660,8 @@
   "FirstSeenRating": "2023-06-10T05:57:52.1300902+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:07.7623695+00:00",
   "LastChanged": "2024-01-20T23:02:50.0564657+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:09:57.6049418+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:05:43.0235195+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:46.2531385+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:00:46.163812+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:09:57.6050636+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:57:12.0509619+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:05:43.0235832+00:00"
 }

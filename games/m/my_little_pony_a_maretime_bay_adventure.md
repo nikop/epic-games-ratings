@@ -13,8 +13,8 @@
 | Sheriff's Apprentice | 55.00% | ~27 |
 | Pro Herder | 53.00% | ~26 |
 | The Neigh-gotiator | 53.00% | ~26 |
-| Where Did The Magic Go? | 45.00% | ~22 |
-| Friendship Is Still Magic | 45.00% | ~22 |
+| Where Did The Magic Go? | 47.00% | ~23 |
+| Friendship Is Still Magic | 47.00% | ~23 |
 | Starscout | 37.00% | ~18 |
 | W.I.N.G.S. Cadet | 29.00% | ~14 |
 ## Popularity (Based on EOS Achievements)

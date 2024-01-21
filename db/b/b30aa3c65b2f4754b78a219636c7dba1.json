@@ -3,9 +3,9 @@
   "Name": "Omega Ops",
   "ProductSlug": "urbanwars-dd735b",
   "Ranking_EOS_Progress": 846,
-  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-08T12:08:30.5067508+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:10:00.406959+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:05:45.5325019+00:00",
   "LastUpdate_AppInfo": "2024-01-17T11:57:04.1793968+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:02:46.5925252+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:10:00.406969+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:58:57.108137+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:05:45.5325047+00:00"
 }

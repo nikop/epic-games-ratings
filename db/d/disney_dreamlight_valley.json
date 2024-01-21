@@ -6077,7 +6077,7 @@
   ],
   "EOS_Progressed": 14259,
   "EOS_Completed": 353,
-  "EOS_NewPlayers": 137,
+  "EOS_NewPlayers": 135,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -25941,9 +25941,9 @@
       "ID": "Goofys_Investor",
       "SetID": "chapdi4",
       "Name": "Goofy\u0027s Investor",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9554
+      "UsersEstimate": 9696
     },
     {
       "ID": "Miner",
@@ -25998,8 +25998,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-21T13:02:08.3494976+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:13:26.0523634+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:09:10.9187943+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:02:08.3494983+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:13:26.0524617+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:58:22.7988804+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:09:10.9189109+00:00"
 }

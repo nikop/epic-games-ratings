@@ -3,9 +3,9 @@
   "Name": "Hero Battle Fantasy Arena",
   "ProductSlug": "hero-battle-fantasy-arena-f15594",
   "Ranking_EOS_Progress": 663,
-  "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_NewPlayers": 336,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
     "PcReleaseDate": "2024-01-18T23:00:00+00:00",
@@ -193,9 +193,9 @@
       "ID": "storm1",
       "SetID": "5p6eg8f",
       "Name": "Master of Thudara",
-      "Percentage": 8,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "storm2",
@@ -209,9 +209,9 @@
       "ID": "storm3",
       "SetID": "5p6eg8f",
       "Name": "Conqueror of Thunderstom",
-      "Percentage": 0,
+      "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -223,8 +223,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-16T08:05:18.2860146+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:12:25.7109093+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:08:15.7915582+00:00",
   "LastUpdate_AppInfo": "2024-01-14T14:57:09.17923+00:00",
-  "LastUpdate_Ratings": "2024-01-21T12:02:35.0725759+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:12:25.7109168+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:57:04.0697622+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:08:15.7915724+00:00"
 }

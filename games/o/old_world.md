@@ -6,14 +6,14 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Settler | 6.00% | ~1,024 |
 | Play a Single Player Game | 6.00% | ~1,024 |
 | Explorer | 5.00% | ~853 |
-| Settler | 5.00% | ~853 |
 | Friendly Family | 5.00% | ~853 |
-| Able | 4.00% | ~682 |
-| Architect | 4.00% | ~682 |
-| Intrepid | 4.00% | ~682 |
-| Hanging Gardens | 4.00% | ~682 |
+| Able | 4.00% | ~683 |
+| Architect | 4.00% | ~683 |
+| Intrepid | 4.00% | ~683 |
+| Hanging Gardens | 4.00% | ~683 |
 | Ambitious | 3.00% | ~512 |
 | Enlightened | 3.00% | ~512 |
 | Glorious | 3.00% | ~512 |
@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~171 |
 | Building Wonders | 1.00% | ~171 |
 | Economic Reform | 1.00% | ~171 |
+| Dualism | 1.00% | ~171 |
 | Points Victory | 1.00% | ~171 |
 | Win a Single Player Game | 1.00% | ~171 |
 | The Clergy | 1.00% | ~171 |
@@ -96,26 +97,25 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.90% | ~154 |
 | Via Recta Souk | 0.90% | ~154 |
 | Military Prestige | 0.90% | ~154 |
-| Dualism | 0.90% | ~154 |
 | Legalism | 0.90% | ~154 |
 | Legionary | 0.90% | ~154 |
 | Double Victory | 0.90% | ~154 |
-| Capable | 0.80% | ~136 |
-| Invincible | 0.80% | ~136 |
-| Lion | 0.80% | ~136 |
-| Ready | 0.80% | ~136 |
-| Subjugator | 0.80% | ~136 |
-| Riders | 0.80% | ~136 |
-| Learn to Play 4 | 0.80% | ~136 |
-| Assyrian Paganism | 0.80% | ~136 |
-| Industrial Progress | 0.80% | ~136 |
-| Gnosticism | 0.80% | ~136 |
-| Cimmerian Archer | 0.80% | ~136 |
-| Phalangite | 0.80% | ~136 |
-| Kushite Pyramids | 0.80% | ~136 |
-| Jerwan Aqueduct | 0.80% | ~136 |
-| Royal Library | 0.80% | ~136 |
-| Yazilikaya | 0.80% | ~136 |
+| Capable | 0.80% | ~137 |
+| Invincible | 0.80% | ~137 |
+| Lion | 0.80% | ~137 |
+| Ready | 0.80% | ~137 |
+| Subjugator | 0.80% | ~137 |
+| Riders | 0.80% | ~137 |
+| Learn to Play 4 | 0.80% | ~137 |
+| Assyrian Paganism | 0.80% | ~137 |
+| Industrial Progress | 0.80% | ~137 |
+| Gnosticism | 0.80% | ~137 |
+| Cimmerian Archer | 0.80% | ~137 |
+| Phalangite | 0.80% | ~137 |
+| Kushite Pyramids | 0.80% | ~137 |
+| Jerwan Aqueduct | 0.80% | ~137 |
+| Royal Library | 0.80% | ~137 |
+| Yazilikaya | 0.80% | ~137 |
 | Bad Heir Day | 0.70% | ~119 |
 | Devout | 0.70% | ~119 |
 | Peacemaker | 0.70% | ~119 |
@@ -144,6 +144,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Egypt | 0.50% | ~85 |
 | One True Faith | 0.50% | ~85 |
 | No Undo | 0.50% | ~85 |
+| Poetic Leader | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | Cao'an | 0.40% | ~68 |
@@ -151,7 +152,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon of Gods | 0.40% | ~68 |
 | Cataphract Archer | 0.40% | ~68 |
 | Siege Tower | 0.40% | ~68 |
-| Poetic Leader | 0.40% | ~68 |
 | Al Khazneh | 0.40% | ~68 |
 | Cothon | 0.40% | ~68 |
 | Ancient | 0.30% | ~51 |
@@ -163,6 +163,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Capturing Cities | 0.30% | ~51 |
 | Ten Crowns | 0.30% | ~51 |
 | Three Man Chariot | 0.30% | ~51 |
+| Conquest Victory | 0.30% | ~51 |
 | Beja Archer | 0.30% | ~51 |
 | Colosseum | 0.30% | ~51 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
@@ -185,7 +186,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Apadana in Parsa | 0.20% | ~34 |
 | Play a Hotseat Game | 0.20% | ~34 |
 | Circus Maximus in Roma | 0.20% | ~34 |
-| Conquest Victory | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
 | The Great Mage | 0.20% | ~34 |
 | Kush | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,060 (Ranked 170)  
+Progressed: 17,063 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,060 | 5 |
+| 2024-01-21 | 17,063 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

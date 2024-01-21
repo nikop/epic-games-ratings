@@ -66,7 +66,7 @@
 | Thunderstorm Master | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 33 (Ranked 598)  
-Completed: 0 (0.00%) (Ranked 408)  
+Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

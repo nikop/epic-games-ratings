@@ -506,9 +506,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99869,
+  "EOS_Progressed": 99876,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -31341,6 +31341,11 @@
       "Time": "2024-01-21T13:13:26.1081168+00:00",
       "NumProgressed": 99869,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2024-01-21T14:09:10.9979186+00:00",
+      "NumProgressed": 99876,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 10,
@@ -31352,7 +31357,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "Drawings01",
@@ -31408,7 +31413,7 @@
       "Name": "Completed Among the Sleep",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 9987
+      "UsersEstimate": 9988
     },
     {
       "ID": "Level00BowlingStrike",
@@ -31416,7 +31421,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34954
+      "UsersEstimate": 34957
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -31431,15 +31436,15 @@
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 99869,
+      "Progressed": 99876,
       "Completed": 460
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-01-18T16:03:39.3756738+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:13:26.1081166+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:09:10.9979183+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.554239+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:07:12.3355406+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:13:26.1082645+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:03:09.159034+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:09:10.9980914+00:00"
 }

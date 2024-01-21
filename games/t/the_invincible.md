@@ -9,7 +9,7 @@ Rating: 4.58 (Ranked 474)
 | The Teleprobe | 58.00% | ~1,028 |
 | The City | 53.00% | ~940 |
 | The field base | 48.00% | ~851 |
-| The Alliance | 45.00% | ~798 |
+| The Alliance | 46.00% | ~816 |
 | Survivors | 42.00% | ~745 |
 | The Condor | 40.00% | ~709 |
 | The End | 40.00% | ~709 |

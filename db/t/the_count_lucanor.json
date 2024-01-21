@@ -3,9 +3,9 @@
   "Name": "The Count Lucanor",
   "ProductSlug": "the-count-lucanor",
   "Ranking_EOS_Progress": 846,
-  "Ranking_EOS_Completed": 408,
+  "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2021-06-30T17:00:00+00:00",
     "PcReleaseDate": "2016-03-03T11:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:19.3646833+00:00",
   "LastChanged": "2023-03-31T05:58:19.3646835+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.0938238+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:03:07.7526702+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:08:20.3722876+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:59:13.3086136+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:04:14.3804687+00:00"
 }

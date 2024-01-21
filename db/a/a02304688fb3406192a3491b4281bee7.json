@@ -2,10 +2,10 @@
   "ID": "a02304688fb3406192a3491b4281bee7",
   "Name": "River City Girls",
   "ProductSlug": "river-city-girls-e6f608",
-  "Ranking_EOS_Progress": 747,
-  "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 150,
+  "Ranking_EOS_Progress": 748,
+  "Ranking_EOS_Completed": 409,
+  "Ranking_EOS_NewPlayers": 486,
+  "Ranking_EOS_NewCompleters": 151,
   "Store": {
     "ReleaseDate": "2024-01-10T01:45:51.684+00:00",
     "PcReleaseDate": "2019-09-05T17:00:00+00:00",
@@ -277,8 +277,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-10T02:27:31.2188456+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:09:38.7137385+00:00",
+  "LastChanged_Achievements": "2024-01-21T14:05:25.5947493+00:00",
   "LastUpdate_AppInfo": "2024-01-17T02:21:32.7622177+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:03:27.1792424+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:09:38.7137532+00:00"
+  "LastUpdate_Ratings": "2024-01-21T13:59:28.0875557+00:00",
+  "LastUpdate_Achievements": "2024-01-21T14:05:25.5947642+00:00"
 }

@@ -5,18 +5,18 @@ Rating: 4.20 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,166 |
-| Battlefields Have Memories | 82.00% | ~2,917 |
-| Enlisted | 76.00% | ~2,703 |
-| Maybe Engage a Little | 71.00% | ~2,525 |
-| No More Names | 55.00% | ~1,956 |
-| Initiate | 41.00% | ~1,458 |
+| Unforeseen | 89.00% | ~3,167 |
+| Battlefields Have Memories | 82.00% | ~2,918 |
+| Enlisted | 76.00% | ~2,704 |
+| Maybe Engage a Little | 71.00% | ~2,526 |
+| No More Names | 55.00% | ~1,957 |
+| Initiate | 41.00% | ~1,459 |
 | Thrada-Kul | 38.00% | ~1,352 |
 | Gravity-Challenged Rocks | 31.00% | ~1,103 |
-| Soldier | 27.00% | ~960 |
-| All the Major Food Groups | 27.00% | ~960 |
-| Socialite | 25.00% | ~889 |
-| Beggars Would Ride | 25.00% | ~889 |
+| Soldier | 27.00% | ~961 |
+| All the Major Food Groups | 27.00% | ~961 |
+| Socialite | 25.00% | ~890 |
+| Beggars Would Ride | 25.00% | ~890 |
 | Control is an Illusion | 24.00% | ~854 |
 | The Means to Save It | 21.00% | ~747 |
 | Resilience to Sin | 19.00% | ~676 |
@@ -25,7 +25,7 @@ Rating: 4.20 (Ranked 971)
 | Geas Aristeya | 17.00% | ~605 |
 | A Perfect Cycle | 16.00% | ~569 |
 | Recruit | 16.00% | ~569 |
-| Armsman | 13.00% | ~462 |
+| Armsman | 13.00% | ~463 |
 | Lights Army | 12.00% | ~427 |
 | Periapt Cerulean | 9.00% | ~320 |
 | Good Boy | 9.00% | ~320 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 971)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,557 (Ranked 230)  
+Progressed: 3,558 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,11 +168,11 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
-| 2024-01-21 | 3,557 | 5 |
+| 2024-01-21 | 3,558 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 564)  
-Sum: 43 (Ranked 523)  
-Diff (max vs sum): 41  
+Sum: 43 (Ranked 524)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 23 |
