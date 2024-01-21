@@ -10545,9 +10545,9 @@
       "ID": "ACH_USE_REDEMPTION",
       "SetID": "816efe",
       "Name": "The Shrink Hates Me",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3130
+      "UsersEstimate": 3195
     }
   ],
   "AchievementSets": [
@@ -10562,8 +10562,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:06:20.750278+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:05:30.718696+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:58:25.2485989+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:06:20.7503472+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:58:21.8582296+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:05:30.7187945+00:00"
 }

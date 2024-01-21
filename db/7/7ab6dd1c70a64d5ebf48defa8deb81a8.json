@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 196,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 81,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -123,7 +123,7 @@
   "Tags": [],
   "EOS_Progressed": 2410,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 97,
+  "EOS_NewPlayers": 96,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5115,9 +5115,9 @@
       "ID": "ACH_26",
       "SetID": "efe2lj",
       "Name": "Scholar",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 602
+      "UsersEstimate": 627
     },
     {
       "ID": "ACH_27",
@@ -5212,8 +5212,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:12:16.5177746+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:11:33.6612673+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:00:09.2678664+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:12:16.5178335+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:59:43.5084458+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:33.6613174+00:00"
 }

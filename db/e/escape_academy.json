@@ -2,7 +2,7 @@
   "ID": "040baa2d100d465caf428c688cc3cdba",
   "Name": "Escape Academy",
   "ProductSlug": "escape-academy-bfc2bf",
-  "Ranking_Rating": 710,
+  "Ranking_Rating": 731,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 845,
@@ -21,7 +21,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.43,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:57:28.0407296+00:00",
@@ -130,6 +130,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-21T05:01:31.4810704+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -148,8 +154,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:39.3995544+00:00",
   "FirstSeenRating": "2023-03-31T05:57:28.0407293+00:00",
-  "LastChanged": "2024-01-19T21:01:01.3922312+00:00",
+  "LastChanged": "2024-01-21T05:01:31.4810701+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:53.4767849+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:02:35.3483492+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:11:51.5353395+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:01:31.4810707+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:13.9937939+00:00"
 }

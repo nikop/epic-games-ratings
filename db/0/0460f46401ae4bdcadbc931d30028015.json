@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 108,
+  "Ranking_EOS_NewPlayers": 109,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1815,9 +1815,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11220,
+  "EOS_Progressed": 11221,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 681,
+  "EOS_NewPlayers": 676,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12220,6 +12220,11 @@
       "Time": "2024-01-21T04:07:19.8486489+00:00",
       "NumProgressed": 11220,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T05:06:16.1006535+00:00",
+      "NumProgressed": 11221,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12248,7 +12253,7 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "achievement_12",
@@ -12360,7 +12365,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1907
+      "UsersEstimate": 1908
     },
     {
       "ID": "achievement_6",
@@ -12384,7 +12389,7 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 3029
+      "UsersEstimate": 3030
     },
     {
       "ID": "achievement_9",
@@ -12399,7 +12404,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11220,
+      "Progressed": 11221,
       "Completed": 0
     }
   ],
@@ -12407,8 +12412,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-20T21:02:48.7269525+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:07:19.8486485+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:06:16.100653+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:04:08.0405093+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:07:19.8487145+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:03:52.8556879+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:06:16.1007268+00:00"
 }

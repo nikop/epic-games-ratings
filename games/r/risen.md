@@ -9,8 +9,8 @@ Rating: 4.58 (Ranked 474)
 | Map reader | 65.00% | ~137 |
 | Adventurer | 64.00% | ~135 |
 | Philanthropist | 62.00% | ~131 |
+| The brave little tailor | 43.00% | ~91 |
 | Archer | 43.00% | ~91 |
-| The brave little tailor | 42.00% | ~89 |
 | Field hand | 39.00% | ~82 |
 | Well-to-do | 34.00% | ~72 |
 | Samaritan | 30.00% | ~63 |

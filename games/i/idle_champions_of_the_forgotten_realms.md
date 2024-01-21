@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 4.00% | ~10,199 |
+| A Brief Tour of the Realms | 4.00% | ~10,200 |
 | Beast Intentions | 2.00% | ~5,100 |
 | The Cursed Farmer | 2.00% | ~5,100 |
 | The Mad Wizard | 2.00% | ~5,100 |
@@ -76,6 +76,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Forbidden City | 0.20% | ~510 |
 | Captured! | 0.20% | ~510 |
 | Wisdom Check | 0.20% | ~510 |
+| Sleuth It Out | 0.20% | ~510 |
 | A Grand Puzzle | 0.20% | ~510 |
 | Tomb of the Nine Gods | 0.20% | ~510 |
 | The Mists of Ravenloft | 0.20% | ~510 |
@@ -246,7 +247,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Underground Railroad | 0.10% | ~255 |
 | Force Grey Unleashed | 0.10% | ~255 |
 | Vajra's Guards | 0.10% | ~255 |
-| Sleuth It Out | 0.10% | ~255 |
 | The Newcomers of Notoriety | 0.10% | ~221 |
 | Never Split the Party | 0.10% | ~255 |
 | Azaka's Procession - Part 1 | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,983 (Ranked 71)  
+Progressed: 254,992 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 254,983 | 2,629 |
+| 2024-01-21 | 254,992 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,587 (Ranked 41)  

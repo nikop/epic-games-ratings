@@ -467,9 +467,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15154,
+  "EOS_Progressed": 15156,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 322,
+  "EOS_NewPlayers": 323,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11062,6 +11062,11 @@
       "Time": "2024-01-21T03:09:49.8342934+00:00",
       "NumProgressed": 15154,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-21T05:11:30.2087374+00:00",
+      "NumProgressed": 15156,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11082,7 +11087,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6213
+      "UsersEstimate": 6214
     },
     {
       "ID": "BeLikeWater",
@@ -11130,7 +11135,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3182
+      "UsersEstimate": 3183
     },
     {
       "ID": "FasterThanLight",
@@ -11146,7 +11151,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8335
+      "UsersEstimate": 8336
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11266,7 +11271,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3940
+      "UsersEstimate": 3941
     },
     {
       "ID": "TheQuarterback",
@@ -11274,7 +11279,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6516
+      "UsersEstimate": 6517
     },
     {
       "ID": "ThisIsDharma",
@@ -11282,7 +11287,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -11314,7 +11319,7 @@
       "Name": "Digestive Issues",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2576
+      "UsersEstimate": 2577
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -11330,7 +11335,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     },
     {
       "ID": "k01101110",
@@ -11338,14 +11343,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1515
+      "UsersEstimate": 1516
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15154,
+      "Progressed": 15156,
       "Completed": 28
     }
   ],
@@ -11353,8 +11358,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-21T01:57:02.9385793+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:12:12.2871373+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:11:30.2087372+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:59:42.3485165+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:12:12.2872127+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:59:23.0093988+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:30.2088274+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 361,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 427,
+  "Ranking_EOS_NewPlayers": 426,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-09-29T16:00:00+00:00",
@@ -925,9 +925,9 @@
       "ID": "finished-quest-reaper",
       "SetID": "799afm0",
       "Name": "Catch Jonathan_tostar",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 136
     },
     {
       "ID": "finished-quest-sci",
@@ -941,9 +941,9 @@
       "ID": "finished-quest-secret",
       "SetID": "799afm0",
       "Name": "To the Moon and Back",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 96
+      "UsersEstimate": 101
     },
     {
       "ID": "finished-quest-sword",
@@ -1086,8 +1086,8 @@
   "FirstSeenRating": "2023-02-13T17:57:58.755732+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.8924571+00:00",
   "LastChanged": "2023-03-31T05:58:00.2990225+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:10:03.9855187+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:09:51.7085289+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:11.1690349+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:04:14.2891815+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:10:03.9855473+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:03:57.3085344+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:09:51.7085518+00:00"
 }

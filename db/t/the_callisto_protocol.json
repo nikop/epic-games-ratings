@@ -2339,9 +2339,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22602,
+  "EOS_Progressed": 22605,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 282,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14559,6 +14559,11 @@
       "Time": "2024-01-21T00:11:02.0530225+00:00",
       "NumProgressed": 22602,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-21T05:11:15.2852072+00:00",
+      "NumProgressed": 22605,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14586,7 +14591,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14674,7 +14679,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5198
+      "UsersEstimate": 5199
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14690,7 +14695,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14698,7 +14703,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4972
+      "UsersEstimate": 4973
     },
     {
       "ID": "KILL_ROBOT",
@@ -14706,7 +14711,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2712
+      "UsersEstimate": 2713
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14714,7 +14719,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14730,7 +14735,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4294
+      "UsersEstimate": 4295
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14738,7 +14743,7 @@
       "Name": "Reforged",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 4520
+      "UsersEstimate": 4521
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14746,7 +14751,7 @@
       "Name": "Paper Jams",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 5424
+      "UsersEstimate": 5425
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14770,7 +14775,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4068
+      "UsersEstimate": 4069
     },
     {
       "ID": "STORY_HABITAT",
@@ -14778,7 +14783,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3616
+      "UsersEstimate": 3617
     },
     {
       "ID": "STORY_HANGAR",
@@ -14786,7 +14791,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14794,7 +14799,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14810,7 +14815,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3164
+      "UsersEstimate": 3165
     },
     {
       "ID": "STORY_TOWER",
@@ -14818,7 +14823,7 @@
       "Name": "Full Circle",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 2486
+      "UsersEstimate": 2487
     },
     {
       "ID": "STORY_TUNNELS",
@@ -14826,7 +14831,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2938
+      "UsersEstimate": 2939
     },
     {
       "ID": "DISMEMBER_100",
@@ -14945,13 +14950,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22602,
+      "Progressed": 22605,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10528,
+      "Progressed": 10531,
       "Completed": 29
     }
   ],
@@ -14959,8 +14964,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:11:53.1714841+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:11:15.2852069+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:21.3958081+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:04:55.5987543+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:11:53.1715722+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:04:26.8131519+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:15.2853054+00:00"
 }

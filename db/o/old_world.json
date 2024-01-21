@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 148,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2366,7 +2366,7 @@
   ],
   "EOS_Progressed": 17050,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 313,
+  "EOS_NewPlayers": 310,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22380,9 +22380,9 @@
       "ID": "ACHIEVEMENT_PLAY_HOTSEAT",
       "SetID": "9201eeb",
       "Name": "Play a Hotseat Game",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 17
+      "UsersEstimate": 34
     },
     {
       "ID": "ACHIEVEMENT_PLAY_LAN",
@@ -23546,8 +23546,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:12:28.2040069+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:11:42.9536534+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:58:44.9745522+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:12:28.2052268+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:58:37.5367394+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:42.954615+00:00"
 }

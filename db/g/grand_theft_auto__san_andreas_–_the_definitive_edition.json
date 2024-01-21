@@ -2605,9 +2605,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19762,
+  "EOS_Progressed": 19763,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 239,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21115,6 +21115,11 @@
       "Time": "2024-01-21T03:09:49.8107451+00:00",
       "NumProgressed": 19762,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-21T05:11:30.150823+00:00",
+      "NumProgressed": 19763,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21126,7 +21131,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16007
+      "UsersEstimate": 16008
     },
     {
       "ID": "ACH02",
@@ -21318,7 +21323,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "ACH26",
@@ -21405,7 +21410,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19762,
+      "Progressed": 19763,
       "Completed": 81
     }
   ],
@@ -21413,8 +21418,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-21T04:02:14.1294567+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:12:12.2781313+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:11:30.1508227+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:02:14.1294573+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:12:12.2782498+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:01:16.2035826+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:30.1509621+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "urbek-city-builder-17cf7d",
   "Ranking_EOS_Progress": 358,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 345,
+  "Ranking_EOS_NewPlayers": 346,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1962,9 +1962,9 @@
       "ID": "BANCO_1",
       "SetID": "44dlcg0",
       "Name": "Banking city",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BANCO_2",
@@ -2555,8 +2555,8 @@
   "FirstSeenRating": "2023-03-31T05:58:27.0656455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:30.7844383+00:00",
   "LastChanged": "2023-03-31T05:58:27.0656456+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:12:20.7670993+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:11:37.0847338+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.7500791+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:59:07.1643375+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:12:20.7671791+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:58:55.2271213+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:37.0848019+00:00"
 }

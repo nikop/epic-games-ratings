@@ -6,25 +6,25 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,477 |
-| Landlord | 35.00% | ~33,760 |
-| Trained | 30.00% | ~28,937 |
-| Bannerlord | 25.00% | ~24,114 |
-| Lawmaker | 24.00% | ~23,150 |
-| Horde breaker | 22.00% | ~21,221 |
-| The king is pleased | 20.00% | ~19,291 |
-| King Solomon | 18.00% | ~17,362 |
-| Apple of my eye | 17.00% | ~16,398 |
-| This Is Our Land | 17.00% | ~16,398 |
-| I can do it | 16.00% | ~15,433 |
+| Lawbringer | 43.00% | ~41,479 |
+| Landlord | 35.00% | ~33,762 |
+| Trained | 30.00% | ~28,939 |
+| Bannerlord | 25.00% | ~24,116 |
+| Lawmaker | 24.00% | ~23,151 |
+| Horde breaker | 22.00% | ~21,222 |
+| The king is pleased | 20.00% | ~19,292 |
+| King Solomon | 18.00% | ~17,363 |
+| Apple of my eye | 17.00% | ~16,399 |
+| This Is Our Land | 17.00% | ~16,399 |
+| I can do it | 16.00% | ~15,434 |
 | Against all odds | 15.00% | ~14,469 |
-| Duelist | 13.00% | ~12,539 |
+| Duelist | 13.00% | ~12,540 |
 | God of the Arena | 12.00% | ~11,575 |
-| Swordbearer | 11.00% | ~10,610 |
+| Swordbearer | 11.00% | ~10,611 |
 | Dynasty | 10.00% | ~9,646 |
 | I spit on your grave | 10.00% | ~9,646 |
 | What have the Romans ever done for us? | 10.00% | ~9,646 |
-| Butterlord | 9.00% | ~8,681 |
+| Butterlord | 9.00% | ~8,682 |
 | Mastery | 8.00% | ~7,717 |
 | Know your enemy | 7.00% | ~6,752 |
 | My way | 5.00% | ~4,823 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,457 (Ranked 103)  
+Progressed: 96,462 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-18 | 96,054 | 0 |
 | 2024-01-19 | 96,231 | 0 |
 | 2024-01-20 | 96,440 | 0 |
-| 2024-01-21 | 96,457 | 0 |
+| 2024-01-21 | 96,462 | 0 |
 ## Awards
 Max (Character Customization): 8,171  (Ranked 51)  
 Sum: 16,918 (Ranked 66)  

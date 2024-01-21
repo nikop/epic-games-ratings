@@ -29,8 +29,8 @@ Number of Ratings: 90  (23.09.2022)
 | Scuttled | 9.00% | ~41 |
 | Lobster Blisque | 7.00% | ~32 |
 | Re-Return of the Clone of the Invasion II-2 | 7.00% | ~32 |
+| Yettisoned | 6.00% | ~27 |
 | Ultimate Smoothie | 5.00% | ~23 |
-| Yettisoned | 5.00% | ~23 |
 | Arkvoodle Doodle | 5.00% | ~23 |
 | Deincarnated | 3.00% | ~14 |
 | Against All Odds | 2.00% | ~9 |

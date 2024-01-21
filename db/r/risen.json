@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 337,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -109,7 +109,7 @@
   "Tags": [],
   "EOS_Progressed": 211,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1253,9 +1253,9 @@
       "ID": "id_32",
       "SetID": "bk9jib6",
       "Name": "The brave little tailor",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 89
+      "UsersEstimate": 91
     },
     {
       "ID": "id_33",
@@ -1526,8 +1526,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-15T06:57:50.024963+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:12:16.3500891+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:11:33.4278168+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:03:46.8949904+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:12:16.3501292+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:03:38.163097+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:33.4278522+00:00"
 }

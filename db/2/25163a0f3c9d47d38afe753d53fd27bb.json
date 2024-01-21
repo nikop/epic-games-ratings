@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1825,
+  "EOS_Progressed": 1826,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 68,
+  "EOS_NewPlayers": 69,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.18,
+  "EOS_Completed_Percentage": 7.17,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4679,6 +4679,11 @@
       "Time": "2024-01-21T02:09:17.0201735+00:00",
       "NumProgressed": 1825,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2024-01-21T05:11:28.3353142+00:00",
+      "NumProgressed": 1826,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 30,
@@ -4690,7 +4695,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1734
+      "UsersEstimate": 1735
     },
     {
       "ID": "LEVEL_002",
@@ -4698,7 +4703,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1442
+      "UsersEstimate": 1443
     },
     {
       "ID": "LEVEL_003",
@@ -4714,7 +4719,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "LEVEL_005",
@@ -4730,7 +4735,7 @@
       "Name": "Nothing like fresh food",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     },
     {
       "ID": "LEVEL_007",
@@ -4738,7 +4743,7 @@
       "Name": "Animals in the farm",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "LEVEL_008",
@@ -4786,7 +4791,7 @@
       "Name": "Higher ground",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "LEVEL_014",
@@ -4929,14 +4934,14 @@
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1825,
+      "Progressed": 1826,
       "Completed": 131
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:12:09.9358291+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:11:28.335314+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:59:43.9244288+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:12:09.9358757+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:59:24.2220521+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:28.3353634+00:00"
 }

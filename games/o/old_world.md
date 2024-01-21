@@ -183,6 +183,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyria | 0.20% | ~34 |
 | Hatti | 0.20% | ~34 |
 | Apadana in Parsa | 0.20% | ~34 |
+| Play a Hotseat Game | 0.20% | ~34 |
 | Circus Maximus in Roma | 0.20% | ~34 |
 | Conquest Victory | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
@@ -271,7 +272,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Merchants of the Levant | 0.10% | ~17 |
 | Realistic Mortality | 0.10% | ~17 |
 | Play a 1-v-1 Game | 0.10% | ~17 |
-| Play a Hotseat Game | 0.10% | ~17 |
 | Play a LAN Game | 0.10% | ~17 |
 | Play a MP Teams Game | 0.10% | ~17 |
 | Play a Play-By-Cloud Game | 0.10% | ~17 |

@@ -6,7 +6,7 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 23.00% | ~261 |
+| Spatula Seeker | 23.00% | ~262 |
 | Jellyfish Jam | 22.00% | ~250 |
 | Sponge Smasher | 22.00% | ~250 |
 | Jellyfishing | 17.00% | ~193 |
@@ -24,9 +24,9 @@ Number of Ratings: 76  (23.09.2022)
 | Keep it Rolling | 8.00% | ~91 |
 | Shrimp Catcher | 8.00% | ~91 |
 | Hit Rock Bottom | 8.00% | ~91 |
-| Robot encyclopedia | 7.00% | ~79 |
-| Hello, Bikini Bottom | 7.00% | ~79 |
-| Ultra Spatula Seeker | 7.00% | ~79 |
+| Robot encyclopedia | 7.00% | ~80 |
+| Hello, Bikini Bottom | 7.00% | ~80 |
+| Ultra Spatula Seeker | 7.00% | ~80 |
 | The Small Does Not Rule | 5.00% | ~57 |
 | Ship Shape | 5.00% | ~57 |
 | Shanghaied | 5.00% | ~57 |
@@ -39,7 +39,7 @@ Number of Ratings: 76  (23.09.2022)
 | Sock Opera | 1.00% | ~11 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,135 (Ranked 295)  
+Progressed: 1,137 (Ranked 295)  
 Completed: 10 (0.88%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -78,6 +78,7 @@ Completed: 10 (0.88%) (Ranked 192)
 | 2024-01-18 | 1,081 | 9 |
 | 2024-01-19 | 1,105 | 9 |
 | 2024-01-20 | 1,135 | 10 |
+| 2024-01-21 | 1,137 | 10 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 502)  
 Sum: 36 (Ranked 536)  

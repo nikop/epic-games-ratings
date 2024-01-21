@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 315,
   "Ranking_EOS_NewCompleters": 154,
   "Store": {
     "ReleaseDate": "2022-12-15T09:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 923,
+  "EOS_Progressed": 924,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -2996,6 +2996,11 @@
       "Time": "2024-01-20T15:10:17.2141852+00:00",
       "NumProgressed": 923,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T05:11:31.5472554+00:00",
+      "NumProgressed": 924,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 32,
@@ -3021,7 +3026,7 @@
       "ID": "ChaoticNeutral",
       "SetID": "2aagp3d",
       "Name": "Mushrooming enthusiast",
-      "Percentage": 0.7,
+      "Percentage": 0.6,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -3031,7 +3036,7 @@
       "Name": "Dental maturity",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "DevilDetail",
@@ -3223,7 +3228,7 @@
       "Name": "Tooth fairy",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 212
+      "UsersEstimate": 213
     },
     {
       "ID": "Toxic",
@@ -3262,7 +3267,7 @@
     {
       "ID": "2aagp3d",
       "IsBase": true,
-      "Progressed": 923,
+      "Progressed": 924,
       "Completed": 1
     }
   ],
@@ -3270,8 +3275,8 @@
   "FirstSeenRating": "2023-02-16T16:57:44.5958533+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.2871771+00:00",
   "LastChanged": "2023-10-13T20:57:47.9412245+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:12:14.0375606+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T04:57:23.9247795+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:59:05.7260929+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:12:14.0376207+00:00"
+  "LastChanged_Achievements": "2024-01-21T05:11:31.5472551+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T04:57:34.434764+00:00",
+  "LastUpdate_Ratings": "2024-01-21T04:58:54.13471+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:11:31.5472991+00:00"
 }

@@ -19,8 +19,8 @@ Rating: 4.78 (Ranked 112)
 | Elemental master | 38.00% | ~1,328 |
 | Past trauma | 38.00% | ~1,328 |
 | Cypress Glen Headquarters | 35.00% | ~1,223 |
+| Old friend | 34.00% | ~1,188 |
 | Petricite Burst | 34.00% | ~1,188 |
-| Old friend | 33.00% | ~1,153 |
 | Devineur | 33.00% | ~1,153 |
 | Hijack | 32.00% | ~1,118 |
 | I chose my shackles | 29.00% | ~1,014 |

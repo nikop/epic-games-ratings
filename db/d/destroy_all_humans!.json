@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 540,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 173,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 540,
+  "EOS_Progressed": 541,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 59,
+  "EOS_NewPlayers": 60,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.11,
   "EosHistory": [
@@ -2175,6 +2175,11 @@
       "Time": "2024-01-21T04:08:47.1362522+00:00",
       "NumProgressed": 540,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T05:07:22.1138767+00:00",
+      "NumProgressed": 541,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2187,7 +2192,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 286
+      "UsersEstimate": 287
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -2203,7 +2208,7 @@
       "Name": "Scuttled",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_ABILITY_ECM",
@@ -2227,7 +2232,7 @@
       "Name": "Yettisoned",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 330
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2251,7 +2256,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 341
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2283,15 +2288,15 @@
       "Name": "Ouch of Body Experience",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_CHALLENGE_ANY",
       "SetID": "cefn62b",
       "Name": "Furon Fashion",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 167
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_CHALLENGE_ARMAGEDDONTHREESTAR",
@@ -2347,7 +2352,7 @@
       "Name": "Kaijuiced",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2355,7 +2360,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2411,7 +2416,7 @@
       "Name": "Hidden Human Hive Harvest",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_INVADE_ROCKWELL",
@@ -2419,7 +2424,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 324
+      "UsersEstimate": 325
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2443,7 +2448,7 @@
       "Name": "Mash Machine",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ACH_JETPACK_INTODONUT",
@@ -2459,7 +2464,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 205
+      "UsersEstimate": 206
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2491,7 +2496,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 259
+      "UsersEstimate": 260
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2499,22 +2504,22 @@
       "Name": "Trans-Siberian Express",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 140
+      "UsersEstimate": 141
     }
   ],
   "AchievementSets": [
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 540,
+      "Progressed": 541,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:08:47.1362516+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:07:22.1138762+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:39.6479019+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:57:51.2855747+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:08:47.1362926+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:57:56.0136741+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:07:22.1139322+00:00"
 }

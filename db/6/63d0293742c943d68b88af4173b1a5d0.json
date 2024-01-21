@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 907,
+  "EOS_Progressed": 909,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 0,
@@ -2874,6 +2874,11 @@
       "Time": "2024-01-21T04:08:15.4599741+00:00",
       "NumProgressed": 907,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T05:06:58.0507188+00:00",
+      "NumProgressed": 909,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2942,7 +2947,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "REMAKE_002",
@@ -2950,15 +2955,15 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "REMAKE_004",
       "SetID": "5pi96jj",
       "Name": "I\u0027m Your Daddy",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 526
+      "UsersEstimate": 536
     },
     {
       "ID": "Remake_005",
@@ -3102,21 +3107,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 154
+      "UsersEstimate": 155
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 907,
+      "Progressed": 909,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:08:15.4599737+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:06:58.0507183+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:58:04.488849+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:08:15.4600039+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:58:06.3903182+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:06:58.05076+00:00"
 }

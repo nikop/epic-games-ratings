@@ -5,13 +5,13 @@ Rating: 4.19 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,160 |
-| Battlefields Have Memories | 82.00% | ~2,912 |
-| Enlisted | 76.00% | ~2,699 |
-| Maybe Engage a Little | 71.00% | ~2,521 |
-| No More Names | 55.00% | ~1,953 |
+| Unforeseen | 89.00% | ~3,161 |
+| Battlefields Have Memories | 82.00% | ~2,913 |
+| Enlisted | 76.00% | ~2,700 |
+| Maybe Engage a Little | 71.00% | ~2,522 |
+| No More Names | 55.00% | ~1,954 |
 | Initiate | 41.00% | ~1,456 |
-| Thrada-Kul | 38.00% | ~1,349 |
+| Thrada-Kul | 38.00% | ~1,350 |
 | Gravity-Challenged Rocks | 31.00% | ~1,101 |
 | Soldier | 27.00% | ~959 |
 | All the Major Food Groups | 27.00% | ~959 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 980)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,551 (Ranked 230)  
+Progressed: 3,552 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
-| 2024-01-21 | 3,551 | 5 |
+| 2024-01-21 | 3,552 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 569)  
 Sum: 42 (Ranked 523)  

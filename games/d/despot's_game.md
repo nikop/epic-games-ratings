@@ -18,13 +18,13 @@ Rating: 4.50 (Ranked 619)
 | He's Seen It All | 28.00% | ~141 |
 | Great Hero | 28.00% | ~141 |
 | Campaigning | 27.00% | ~136 |
+| Catch Jonathan_tostar | 27.00% | ~136 |
 | Rookie | 27.00% | ~136 |
-| Catch Jonathan_tostar | 26.00% | ~131 |
 | Assemble a Meganewbie | 24.00% | ~121 |
 | Frugal | 21.00% | ~106 |
 | Feed a God | 20.00% | ~101 |
+| To the Moon and Back | 20.00% | ~101 |
 | Great Flight | 19.00% | ~96 |
-| To the Moon and Back | 19.00% | ~96 |
 | Holy Vengeance | 17.00% | ~86 |
 | Honorary Cultist | 13.00% | ~66 |
 | Strength and Sorcery | 11.00% | ~55 |

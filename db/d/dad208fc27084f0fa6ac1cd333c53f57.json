@@ -4,7 +4,7 @@
   "ProductSlug": "the-hidden-room-1a63ec",
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 188,
-  "Ranking_EOS_NewPlayers": 143,
+  "Ranking_EOS_NewPlayers": 144,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
@@ -8922,9 +8922,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_TV",
       "SetID": "4d50jip",
       "Name": "Turn on the TV",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 4496
+      "UsersEstimate": 4575
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -9009,8 +9009,8 @@
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:06:52.9453472+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:05:55.5185081+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:03:56.0284794+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:06:52.9453909+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:03:44.3099022+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:05:55.5185837+00:00"
 }

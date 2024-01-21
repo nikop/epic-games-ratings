@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19204,
+  "EOS_Progressed": 19205,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 224,
+  "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17920,6 +17920,11 @@
       "Time": "2024-01-21T02:03:40.4067119+00:00",
       "NumProgressed": 19204,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-21T05:05:41.7065349+00:00",
+      "NumProgressed": 19205,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -17980,7 +17985,7 @@
       "Name": "Stogie for Fogey",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "16",
@@ -17996,7 +18001,7 @@
       "Name": "Spore Taste",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2304
+      "UsersEstimate": 2305
     },
     {
       "ID": "18",
@@ -18196,7 +18201,7 @@
       "Name": "Master Negotiator",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 309
+      "UsersEstimate": 310
     },
     {
       "ID": "35",
@@ -18211,13 +18216,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19204,
+      "Progressed": 19205,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5158,
+      "Progressed": 5159,
       "Completed": 1364
     }
   ],
@@ -18225,8 +18230,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-20T06:57:37.968972+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:06:35.0647192+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:05:41.7065345+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-21T03:59:05.7940648+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:06:35.0648096+00:00"
+  "LastUpdate_Ratings": "2024-01-21T04:58:54.2552887+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:05:41.7066347+00:00"
 }

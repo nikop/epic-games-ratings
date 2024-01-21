@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 121,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 65,
+  "Ranking_EOS_NewCompleters": 64,
   "Store": {
     "ReleaseDate": "2022-04-05T17:00:00+00:00",
     "PcReleaseDate": "2022-04-05T17:00:00+00:00",
@@ -4307,9 +4307,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59666,
+  "EOS_Progressed": 59667,
   "EOS_Completed": 263,
-  "EOS_NewPlayers": 296,
+  "EOS_NewPlayers": 294,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19317,6 +19317,11 @@
       "Time": "2024-01-21T04:10:03.2633542+00:00",
       "NumProgressed": 59666,
       "NumCompleted": 263
+    },
+    {
+      "Time": "2024-01-21T05:09:51.2992191+00:00",
+      "NumProgressed": 59667,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 45,
@@ -19352,7 +19357,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45943
+      "UsersEstimate": 45944
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19440,7 +19445,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 33413
+      "UsersEstimate": 33414
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -19488,7 +19493,7 @@
       "Name": "The Force Awakens",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 14916
+      "UsersEstimate": 14917
     },
     {
       "ID": "COMPLETE_EPISODE_8",
@@ -19568,7 +19573,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33413
+      "UsersEstimate": 33414
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -19592,7 +19597,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57279
+      "UsersEstimate": 57280
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19687,15 +19692,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59666,
+      "Progressed": 59667,
       "Completed": 263
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-20T17:03:16.5017518+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:10:03.2633538+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:09:51.2992188+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.6764829+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:04:05.6465094+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:10:03.2634617+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:03:51.1999797+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:09:51.2993395+00:00"
 }

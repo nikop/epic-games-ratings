@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1135,
+  "EOS_Progressed": 1137,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 137,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -3163,6 +3163,11 @@
       "Time": "2024-01-20T23:05:15.2873968+00:00",
       "NumProgressed": 1135,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T05:06:08.3439678+00:00",
+      "NumProgressed": 1137,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3175,7 +3180,7 @@
       "Name": "Robot encyclopedia",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_ARE_YOU_READY_NOW",
@@ -3231,7 +3236,7 @@
       "Name": "Hello, Bikini Bottom",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_FLYING_DUTCHMAN_BOSS",
@@ -3359,7 +3364,7 @@
       "Name": "Ultra Spatula Seeker",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 79
+      "UsersEstimate": 80
     },
     {
       "ID": "ACH_STAT_75_SPATULA_SEEKER",
@@ -3383,7 +3388,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3430,15 +3435,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1135,
+      "Progressed": 1137,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-21T04:07:09.6348533+00:00",
+  "LastChanged_Achievements": "2024-01-21T05:06:08.3439672+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-21T04:01:11.5343461+00:00",
-  "LastUpdate_Achievements": "2024-01-21T04:07:09.634909+00:00"
+  "LastUpdate_Ratings": "2024-01-21T05:00:30.5495461+00:00",
+  "LastUpdate_Achievements": "2024-01-21T05:06:08.3440026+00:00"
 }

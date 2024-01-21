@@ -11,8 +11,8 @@
 | Chapter 3 | 38.00% | ~18 |
 | Chapter 4 | 35.00% | ~17 |
 | Your Days Are Numbered | 35.00% | ~17 |
+| Chapter 5 | 33.00% | ~16 |
 | All Materials | 33.00% | ~16 |
-| Chapter 5 | 31.00% | ~15 |
 | Chapter 6 | 25.00% | ~12 |
 | Best Student | 17.00% | ~8 |
 | Food Thief | 15.00% | ~7 |

@@ -13,7 +13,7 @@ Rating: 4.19 (Ranked 980)
 | Adventurer | 26.00% | ~627 |
 | Shatter Them All | 26.00% | ~627 |
 | Geared Up | 26.00% | ~627 |
-| Scholar | 25.00% | ~602 |
+| Scholar | 26.00% | ~627 |
 | I Found It | 25.00% | ~602 |
 | Fashion Victim | 24.00% | ~578 |
 | Stone Collection | 24.00% | ~578 |
