@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.57% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.56% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -51,18 +51,18 @@
 | 48 | [Mountain Racing](games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 8.33% |
 | 48 | [Smelter](games/s/smelter.md) | 8.33% |
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
-| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.79% |
+| 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.41% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
-| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.26% |
+| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.25% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
 | 61 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.07% |
 | 62 | [Scorn](games/s/scorn.md) | 6.85% |
-| 62 | [Sonic Origins](games/s/sonic_origins.md) | 6.85% |
+| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.84% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.45% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
@@ -82,7 +82,7 @@
 | 80 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
 | 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.61% |
 | 82 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
-| 82 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.55% |
+| 83 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.48% |
 | 84 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.45% |
 | 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 86 | [JARS](games/j/jars.md) | 4.42% |
@@ -106,7 +106,7 @@
 | 104 | [Charon's Staircase](games/c/charon's_staircase.md) | 3.45% |
 | 105 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
 | 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
-| 107 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.23% |
+| 107 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.22% |
 | 108 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.21% |
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
@@ -123,13 +123,13 @@
 | 121 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 122 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.56% |
+| 124 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.55% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.55% |
 | 124 | [The Complex](games/t/the_complex.md) | 2.55% |
-| 126 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 127 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
-| 128 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
-| 129 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
-| 130 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.40% |
+| 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
+| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
+| 129 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
+| 130 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 131 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.38% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
 | 132 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.27% |
@@ -137,8 +137,8 @@
 | 135 | [Night Book](games/n/night_book.md) | 2.19% |
 | 136 | [tERRORbane](games/t/terrorbane.md) | 2.17% |
 | 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.04% |
-| 137 | [Strange House](games/s/strange_house.md) | 2.04% |
-| 139 | [Bloodshore](games/b/bloodshore.md) | 2.02% |
+| 138 | [Bloodshore](games/b/bloodshore.md) | 2.02% |
+| 139 | [Strange House](games/s/strange_house.md) | 2.00% |
 | 140 | [Time on Frog Island](games/t/time_on_frog_island.md) | 1.96% |
 | 141 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.95% |
 | 142 | [Somerville](games/s/somerville.md) | 1.94% |
@@ -188,7 +188,7 @@
 | 186 | [STAR WARS Jedi: Fallen Order Standard Edition](games/s/star_wars_jedi__fallen_order_standard_edition.md) | 0.97% |
 | 187 | [Trifox](games/t/trifox.md) | 0.94% |
 | 188 | [Colossal Cave](games/c/colossal_cave.md) | 0.93% |
-| 189 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.92% |
+| 188 | [The Hidden Room](games/d/dad208fc27084f0fa6ac1cd333c53f57.md) | 0.93% |
 | 190 | [Call of the Sea](games/c/call_of_the_sea.md) | 0.91% |
 | 190 | [Hades](games/h/hades.md) | 0.91% |
 | 192 | [A Musical Story](games/a/a_musical_story.md) | 0.88% |
