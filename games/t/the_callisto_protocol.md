@@ -5,9 +5,9 @@ Rating: 4.22 (Ranked 958)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,328 |
-| The Outer Way | 28.00% | ~6,328 |
-| Desperate Times | 26.00% | ~5,876 |
+| Flesh Wound | 28.00% | ~6,329 |
+| The Outer Way | 28.00% | ~6,329 |
+| Desperate Times | 26.00% | ~5,877 |
 | Paper Jams | 24.00% | ~5,424 |
 | Get a Grip | 23.00% | ~5,198 |
 | Chew 'Em Up | 22.00% | ~4,972 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 958)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,600 (Ranked 153)  
+Progressed: 22,602 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,6 +321,7 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-18 | 22,544 | 82 |
 | 2024-01-19 | 22,569 | 82 |
 | 2024-01-20 | 22,600 | 82 |
+| 2024-01-21 | 22,602 | 82 |
 ## Awards
 Max (Amazing Characters): 139  (Ranked 346)  
 Sum: 678 (Ranked 317)  

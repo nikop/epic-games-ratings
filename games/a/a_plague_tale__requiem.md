@@ -5,27 +5,27 @@ Rating: 4.73 (Ranked 183)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Under a New Sun | 91.00% | ~16,920 |
+| Under a New Sun | 91.00% | ~16,921 |
 | Newcomers | 76.00% | ~14,131 |
-| A Burden of Blood | 70.00% | ~13,015 |
-| Protector's Duty | 67.00% | ~12,457 |
-| In our Wake | 65.00% | ~12,085 |
-| Alchemist | 65.00% | ~12,085 |
+| A Burden of Blood | 70.00% | ~13,016 |
+| Protector's Duty | 67.00% | ~12,458 |
+| In our Wake | 65.00% | ~12,086 |
+| Alchemist | 65.00% | ~12,086 |
 | Leaving all Behind | 62.00% | ~11,528 |
 | Felons | 59.00% | ~10,970 |
-| A Sea of Promises | 57.00% | ~10,598 |
-| Tales and Revelations | 54.00% | ~10,040 |
+| A Sea of Promises | 57.00% | ~10,599 |
+| Tales and Revelations | 54.00% | ~10,041 |
 | Bloodline | 49.00% | ~9,111 |
 | The Cradle of Centuries | 45.00% | ~8,367 |
 | The Life We Deserve | 43.00% | ~7,995 |
-| Night guard | 41.00% | ~7,623 |
-| Nothing Left | 37.00% | ~6,879 |
+| Night guard | 41.00% | ~7,624 |
+| Nothing Left | 37.00% | ~6,880 |
 | Healing our Wounds | 35.00% | ~6,508 |
 | Dying Sun | 31.00% | ~5,764 |
 | Improved crossbow | 25.00% | ~4,648 |
-| King Hugo | 23.00% | ~4,276 |
-| Perfect shot | 23.00% | ~4,276 |
-| Mercy | 23.00% | ~4,276 |
+| King Hugo | 23.00% | ~4,277 |
+| Perfect shot | 23.00% | ~4,277 |
+| Mercy | 23.00% | ~4,277 |
 | Effective instruments | 20.00% | ~3,719 |
 | Perfect throw | 20.00% | ~3,719 |
 | Knights! | 19.00% | ~3,533 |
@@ -41,7 +41,7 @@ Rating: 4.73 (Ranked 183)
 | Explorer | 1.00% | ~186 |
 | Malignant | 1.00% | ~186 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,593 (Ranked 163)  
+Progressed: 18,594 (Ranked 163)  
 Completed: 68 (0.37%) (Ranked 252)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,6 +316,7 @@ Completed: 68 (0.37%) (Ranked 252)
 | 2024-01-18 | 18,490 | 66 |
 | 2024-01-19 | 18,544 | 68 |
 | 2024-01-20 | 18,593 | 68 |
+| 2024-01-21 | 18,594 | 68 |
 ## Awards
 Max (Great Boss Battles): 469  (Ranked 229)  
 Sum: 735 (Ranked 309)  

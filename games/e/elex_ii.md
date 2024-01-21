@@ -16,8 +16,8 @@ Number of Ratings: 124  (23.09.2022)
 | Peddler | 26.00% | ~71 |
 | Commander | 26.00% | ~71 |
 | Irissa's Fate | 22.00% | ~60 |
-| Long-Haul Flyer | 19.00% | ~52 |
-| Family Reunion | 19.00% | ~52 |
+| Long-Haul Flyer | 20.00% | ~54 |
+| Family Reunion | 20.00% | ~54 |
 | Pass A38 | 19.00% | ~52 |
 | Eternal Oblivion | 18.00% | ~49 |
 | Banker | 16.00% | ~44 |
@@ -39,8 +39,8 @@ Number of Ratings: 124  (23.09.2022)
 | Self-Sufficient | 4.00% | ~11 |
 | Idealist | 4.00% | ~11 |
 | Unbreakable | 4.00% | ~11 |
+| Legendary | 4.00% | ~11 |
 | Morkon | 3.00% | ~8 |
-| Legendary | 3.00% | ~8 |
 | Toy Time | 2.00% | ~5 |
 | Defector | 2.00% | ~5 |
 | Outlaw | 2.00% | ~5 |

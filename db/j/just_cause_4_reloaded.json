@@ -2,12 +2,12 @@
   "ID": "ba8062bdcc1342c0b78743e3c6242575",
   "Name": "Just Cause 4 Reloaded",
   "ProductSlug": "just-cause-4",
-  "Ranking_Rating": 924,
+  "Ranking_Rating": 925,
   "Ranking_Popularity": 95,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 845,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-04-23T15:00:00+00:00",
@@ -5456,6 +5456,6 @@
   "FirstSeen": "2022-07-22T20:18:31.4925823+00:00",
   "LastChanged": "2024-01-20T17:58:19.4109278+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:56.9268893+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:58:45.6979049+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:04:16.2504458+00:00"
+  "LastUpdate_Ratings": "2024-01-20T23:59:33.4990972+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:05:07.0786782+00:00"
 }

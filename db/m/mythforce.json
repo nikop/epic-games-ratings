@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 385,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 190,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -872,9 +872,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6429,
+  "EOS_Progressed": 6430,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 107,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -13547,6 +13547,11 @@
       "Time": "2024-01-20T22:04:38.3059292+00:00",
       "NumProgressed": 6429,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T00:06:04.5179796+00:00",
+      "NumProgressed": 6430,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13575,7 +13580,7 @@
       "Name": "Deadication",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -13591,7 +13596,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1607
+      "UsersEstimate": 1608
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13615,7 +13620,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1414
+      "UsersEstimate": 1415
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13742,15 +13747,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6429,
+      "Progressed": 6430,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-19T17:58:27.7315829+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:05:04.074119+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:06:04.5179792+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:52:59.9808578+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:59:27.0111877+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:05:04.0741712+00:00"
+  "LastUpdate_Ratings": "2024-01-21T00:00:25.4817606+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:06:04.5180457+00:00"
 }

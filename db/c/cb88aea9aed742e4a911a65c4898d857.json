@@ -443,9 +443,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11956,
+  "EOS_Progressed": 11961,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 611,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5653,6 +5653,11 @@
       "Time": "2024-01-20T23:10:30.7320835+00:00",
       "NumProgressed": 11956,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T00:11:24.8684284+00:00",
+      "NumProgressed": 11961,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5665,7 +5670,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2750
+      "UsersEstimate": 2751
     },
     {
       "ID": "03_TheStolenStar",
@@ -5673,7 +5678,7 @@
       "Name": "Stolen Star",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5689,7 +5694,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 956
+      "UsersEstimate": 957
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5769,7 +5774,7 @@
       "Name": "Pentakill",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "16_TheRise",
@@ -5777,7 +5782,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "17_TheExemplar",
@@ -5793,7 +5798,7 @@
       "Name": "Rookie Skipper",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "19_TheVoidWolf",
@@ -5825,7 +5830,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "23_DynastyRestored",
@@ -5841,7 +5846,7 @@
       "Name": "Highrise",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "25_DynastyProspers",
@@ -5873,7 +5878,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1675
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5921,7 +5926,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5977,7 +5982,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1554
+      "UsersEstimate": 1555
     },
     {
       "ID": "42_TheIronJudgement",
@@ -5985,7 +5990,7 @@
       "Name": "Iron Judgement",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1315
+      "UsersEstimate": 1316
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6017,7 +6022,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1913
+      "UsersEstimate": 1914
     },
     {
       "ID": "47_AFlame",
@@ -6184,7 +6189,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11956,
+      "Progressed": 11961,
       "Completed": 1
     }
   ],
@@ -6192,8 +6197,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-20T14:00:29.182554+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:10:30.7320832+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:11:24.8684279+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:00:56.0111741+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:10:30.7321441+00:00"
+  "LastUpdate_Ratings": "2024-01-21T00:03:18.9317149+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:11:24.8685006+00:00"
 }

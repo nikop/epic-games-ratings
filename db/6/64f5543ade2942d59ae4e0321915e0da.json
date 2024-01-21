@@ -4,7 +4,7 @@
   "ProductSlug": "laika-3293ee",
   "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -2094,6 +2094,11 @@
       "Time": "2024-01-20T19:07:08.9870396+00:00",
       "NumProgressed": 536,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T00:07:31.2552895+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2272,9 +2277,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 51,
+      "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 268
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2298,7 +2303,7 @@
       "Name": "Excursion",
       "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "AC_DISTANCE_2",
@@ -2306,7 +2311,7 @@
       "Name": "Journey",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "AC_DISTANCE_3",
@@ -2386,7 +2391,7 @@
       "Name": "Cook",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "AC_RECIPES_DONE_2",
@@ -2410,15 +2415,15 @@
       "Name": "Loss",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 214
+      "UsersEstimate": 215
     },
     {
       "ID": "AC_SHOTGUN_MAX",
       "SetID": "16i2akc",
       "Name": "Shot",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 48
     },
     {
       "ID": "AC_SNIPER_MAX",
@@ -2441,14 +2446,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:06:16.0798776+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:07:31.2552892+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:57:46.4978764+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:06:16.0799163+00:00"
+  "LastUpdate_Ratings": "2024-01-20T23:58:20.8638619+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:07:31.2553423+00:00"
 }

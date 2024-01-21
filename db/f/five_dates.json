@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2415,
+  "EOS_Progressed": 2416,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 128,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4740,6 +4740,11 @@
       "Time": "2024-01-20T23:10:20.9797782+00:00",
       "NumProgressed": 2415,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-21T00:11:13.680306+00:00",
+      "NumProgressed": 2416,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4751,7 +4756,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2367
+      "UsersEstimate": 2368
     },
     {
       "ID": "booty_call",
@@ -4775,7 +4780,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2318
+      "UsersEstimate": 2319
     },
     {
       "ID": "hold_my_beer",
@@ -4783,7 +4788,7 @@
       "Name": "Hold my Beer",
       "Percentage": 61,
       "XP": 25,
-      "UsersEstimate": 1473
+      "UsersEstimate": 1474
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -4839,7 +4844,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "smooth_criminal",
@@ -4870,7 +4875,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2415,
+      "Progressed": 2416,
       "Completed": 12
     }
   ],
@@ -4878,8 +4883,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:10:20.979778+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:11:13.6803053+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:29.1751476+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:58:50.8630832+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:10:20.9798034+00:00"
+  "LastUpdate_Ratings": "2024-01-20T23:59:38.1769087+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:11:13.6803448+00:00"
 }

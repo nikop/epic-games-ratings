@@ -110,6 +110,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Industrial Progress | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
 | Jerwan Aqueduct | 0.80% | ~136 |
+| Royal Library | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
@@ -123,7 +124,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Phalangite | 0.70% | ~119 |
 | Ambition Victory | 0.70% | ~119 |
 | Kushite Pyramids | 0.70% | ~119 |
-| Royal Library | 0.70% | ~119 |
 | Yazilikaya | 0.70% | ~119 |
 | Devout | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,039 (Ranked 170)  
+Progressed: 17,041 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,6 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
+| 2024-01-21 | 17,041 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,944 (Ranked 224)  

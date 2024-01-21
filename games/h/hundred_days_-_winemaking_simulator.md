@@ -1,24 +1,24 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 834)  
+Rating: 4.35 (Ranked 833)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 44.00% | ~9,481 |
+| Bye Bye | 44.00% | ~9,482 |
 | It's a good start | 10.00% | ~2,155 |
 | Bonjour! | 8.00% | ~1,724 |
 | Quack | 8.00% | ~1,724 |
 | The Assistant | 6.00% | ~1,293 |
 | The Blue Marl | 6.00% | ~1,293 |
-| Ostinata | 5.00% | ~1,077 |
-| Better than nothing? | 5.00% | ~1,077 |
+| Ostinata | 5.00% | ~1,078 |
+| Better than nothing? | 5.00% | ~1,078 |
 | A long journey | 4.00% | ~862 |
-| Big Money | 3.00% | ~646 |
-| Keep the doctor away | 3.00% | ~646 |
-| Surprise of Langhe | 3.00% | ~646 |
-| Famous | 3.00% | ~646 |
+| Big Money | 3.00% | ~647 |
+| Keep the doctor away | 3.00% | ~647 |
+| Surprise of Langhe | 3.00% | ~647 |
+| Famous | 3.00% | ~647 |
 | What is that? A castle? | 2.00% | ~431 |
 | A lot of space | 2.00% | ~431 |
 | A big garage | 2.00% | ~431 |
@@ -27,8 +27,8 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 2.00% | ~431 |
 | Welcome to the club | 2.00% | ~431 |
 | Very Important Winemaker | 2.00% | ~431 |
-| King of Langhe | 1.00% | ~215 |
-| Gem of Monferrato | 1.00% | ~215 |
+| King of Langhe | 1.00% | ~216 |
+| Gem of Monferrato | 1.00% | ~216 |
 | Treasure of Roero | 0.70% | ~151 |
 | Knight of Langhe | 0.50% | ~108 |
 | King of red wines | 0.20% | ~43 |
@@ -38,7 +38,7 @@ Number of Ratings: 7,669  (23.09.2022)
 | Master Winemaker | 0.10% | ~22 |
 | Unsuitable Terroir | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,547 (Ranked 155)  
+Progressed: 21,551 (Ranked 155)  
 Completed: 13 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 13 (0.06%) (Ranked 339)
 | 2024-01-18 | 21,272 | 13 |
 | 2024-01-19 | 21,397 | 13 |
 | 2024-01-20 | 21,547 | 13 |
+| 2024-01-21 | 21,551 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 299)  
 Sum: 1,739 (Ranked 230)  

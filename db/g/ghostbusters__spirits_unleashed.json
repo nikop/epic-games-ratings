@@ -4095,7 +4095,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33837,
+  "EOS_Progressed": 33839,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
@@ -26095,6 +26095,11 @@
       "Time": "2024-01-20T23:09:30.1606733+00:00",
       "NumProgressed": 33837,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-21T00:10:14.1328359+00:00",
+      "NumProgressed": 33839,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26178,7 +26183,7 @@
       "Name": "Daily Dose",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "Diabolical",
@@ -26218,7 +26223,7 @@
       "Name": "Meticulously Efficient",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 3045
+      "UsersEstimate": 3046
     },
     {
       "ID": "Escape_Artist",
@@ -26250,7 +26255,7 @@
       "Name": "Ghostbuster In Training",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "Ghost_Expert",
@@ -26354,7 +26359,7 @@
       "Name": "Right back at ya",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1353
+      "UsersEstimate": 1354
     },
     {
       "ID": "Rivalry",
@@ -26513,7 +26518,7 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33837,
+      "Progressed": 33839,
       "Completed": 71
     }
   ],
@@ -26521,8 +26526,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-20T07:00:07.0825358+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:09:30.1606731+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:10:14.1328355+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:43.2024178+00:00",
-  "LastUpdate_Ratings": "2024-01-20T22:59:53.9795827+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:09:30.160792+00:00"
+  "LastUpdate_Ratings": "2024-01-21T00:00:58.4203589+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:10:14.1329448+00:00"
 }

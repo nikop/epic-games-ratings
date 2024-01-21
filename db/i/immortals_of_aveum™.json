@@ -5,10 +5,10 @@
   "Ranking_Rating": 980,
   "Ranking_Popularity": 569,
   "Ranking_PopularitySum": 523,
-  "Ranking_EOS_Progress": 229,
+  "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -525,9 +525,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3546,
+  "EOS_Progressed": 3548,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 136,
+  "EOS_NewPlayers": 138,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -5975,6 +5975,11 @@
       "Time": "2024-01-20T23:10:27.5554755+00:00",
       "NumProgressed": 3546,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T00:11:21.0183571+00:00",
+      "NumProgressed": 3548,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -5987,7 +5992,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3156
+      "UsersEstimate": 3158
     },
     {
       "ID": "achievement_10",
@@ -5995,7 +6000,7 @@
       "Name": "Control is an Illusion",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 851
+      "UsersEstimate": 852
     },
     {
       "ID": "achievement_11",
@@ -6019,7 +6024,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "achievement_14",
@@ -6035,7 +6040,7 @@
       "Name": "A Perfect Cycle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "achievement_16",
@@ -6043,7 +6048,7 @@
       "Name": "Recruit",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 567
+      "UsersEstimate": 568
     },
     {
       "ID": "achievement_17",
@@ -6067,7 +6072,7 @@
       "Name": "Socialite",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     },
     {
       "ID": "achievement_2",
@@ -6075,7 +6080,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2908
+      "UsersEstimate": 2909
     },
     {
       "ID": "achievement_20",
@@ -6129,9 +6134,9 @@
       "ID": "achievement_3",
       "SetID": "18al4io",
       "Name": "Maybe Engage a Little",
-      "Percentage": 71,
+      "Percentage": 70,
       "XP": 15,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2484
     },
     {
       "ID": "achievement_36",
@@ -6163,7 +6168,7 @@
       "Name": "No More Names",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1915
+      "UsersEstimate": 1916
     },
     {
       "ID": "achievement_41",
@@ -6203,7 +6208,7 @@
       "Name": "Periapt Alizarin",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 638
+      "UsersEstimate": 639
     },
     {
       "ID": "achievement_46",
@@ -6219,7 +6224,7 @@
       "Name": "Enlisted",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2695
+      "UsersEstimate": 2696
     },
     {
       "ID": "achievement_49",
@@ -6227,7 +6232,7 @@
       "Name": "Soldier",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "achievement_5",
@@ -6235,7 +6240,7 @@
       "Name": "Initiate",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1455
     },
     {
       "ID": "achievement_50",
@@ -6283,7 +6288,7 @@
       "Name": "Thrada-Kul",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "achievement_60",
@@ -6339,7 +6344,7 @@
       "Name": "Gravity-Challenged Rocks",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1099
+      "UsersEstimate": 1100
     },
     {
       "ID": "achievement_8",
@@ -6347,7 +6352,7 @@
       "Name": "All the Major Food Groups",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "achievement_9",
@@ -6355,14 +6360,14 @@
       "Name": "Beggars Would Ride",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 886
+      "UsersEstimate": 887
     }
   ],
   "AchievementSets": [
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3546,
+      "Progressed": 3548,
       "Completed": 5
     }
   ],
@@ -6370,8 +6375,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-19T22:59:42.5800513+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:10:27.5554752+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:11:21.0183568+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:26.9559373+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:00:42.2462963+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:10:27.5555202+00:00"
+  "LastUpdate_Ratings": "2024-01-21T00:02:01.0781493+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:11:21.0184089+00:00"
 }

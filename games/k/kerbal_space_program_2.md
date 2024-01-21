@@ -1,7 +1,7 @@
 # Kerbal Space Program 2
 [Store](https://store.epicgames.com/en-US/p/kerbal-space-program-2)  
 [View Rawdata](../../db/k/kerbal_space_program_2.json)  
-Rating: 4.26 (Ranked 924)  
+Rating: 4.27 (Ranked 914)  
 ## Awards
 Max (Relaxing): 55  (Ranked 450)  
 Sum: 316 (Ranked 379)  
@@ -158,3 +158,4 @@ Diff (max vs sum): 71
 | 2024-01-17 | 4.26 | 53 | 348 |
 | 2024-01-18 | 4.26 | 53 | 351 |
 | 2024-01-19 | 4.26 | 55 | 316 |
+| 2024-01-21 | 4.27 | 55 | 316 |

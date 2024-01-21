@@ -5,26 +5,26 @@ Rating: 4.19 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,156 |
-| Battlefields Have Memories | 82.00% | ~2,908 |
-| Enlisted | 76.00% | ~2,695 |
-| Maybe Engage a Little | 71.00% | ~2,518 |
-| No More Names | 54.00% | ~1,915 |
-| Initiate | 41.00% | ~1,454 |
-| Thrada-Kul | 38.00% | ~1,347 |
-| Gravity-Challenged Rocks | 31.00% | ~1,099 |
-| Soldier | 27.00% | ~957 |
-| All the Major Food Groups | 27.00% | ~957 |
-| Socialite | 25.00% | ~886 |
-| Beggars Would Ride | 25.00% | ~886 |
-| Control is an Illusion | 24.00% | ~851 |
+| Unforeseen | 89.00% | ~3,158 |
+| Battlefields Have Memories | 82.00% | ~2,909 |
+| Enlisted | 76.00% | ~2,696 |
+| Maybe Engage a Little | 70.00% | ~2,484 |
+| No More Names | 54.00% | ~1,916 |
+| Initiate | 41.00% | ~1,455 |
+| Thrada-Kul | 38.00% | ~1,348 |
+| Gravity-Challenged Rocks | 31.00% | ~1,100 |
+| Soldier | 27.00% | ~958 |
+| All the Major Food Groups | 27.00% | ~958 |
+| Socialite | 25.00% | ~887 |
+| Beggars Would Ride | 25.00% | ~887 |
+| Control is an Illusion | 24.00% | ~852 |
 | The Means to Save It | 21.00% | ~745 |
 | Resilience to Sin | 19.00% | ~674 |
-| A Familiar Nest | 18.00% | ~638 |
-| Periapt Alizarin | 18.00% | ~638 |
+| A Familiar Nest | 18.00% | ~639 |
+| Periapt Alizarin | 18.00% | ~639 |
 | Geas Aristeya | 17.00% | ~603 |
-| A Perfect Cycle | 16.00% | ~567 |
-| Recruit | 16.00% | ~567 |
+| A Perfect Cycle | 16.00% | ~568 |
+| Recruit | 16.00% | ~568 |
 | Armsman | 13.00% | ~461 |
 | Lights Army | 11.00% | ~390 |
 | Periapt Cerulean | 9.00% | ~319 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 980)
 | Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,546 (Ranked 229)  
+Progressed: 3,548 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,6 +168,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
+| 2024-01-21 | 3,548 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 569)  
 Sum: 42 (Ranked 523)  

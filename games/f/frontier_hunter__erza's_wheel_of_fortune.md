@@ -5,26 +5,26 @@ Rating: 4.38 (Ranked 800)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Travel Streamer | 93.00% | ~707 |
-| Training Simulation | 78.00% | ~593 |
-| Kuku Bird Hunter | 65.00% | ~494 |
-| Storm Traveller | 60.00% | ~456 |
-| Wolf King Killer | 55.00% | ~418 |
+| Travel Streamer | 93.00% | ~708 |
+| Training Simulation | 78.00% | ~594 |
+| Kuku Bird Hunter | 65.00% | ~495 |
+| Storm Traveller | 60.00% | ~457 |
+| Wolf King Killer | 55.00% | ~419 |
 | Fashion Connoisseur | 53.00% | ~403 |
-| Arms Mechanic | 49.00% | ~372 |
-| Flower Thief | 44.00% | ~334 |
+| Arms Mechanic | 49.00% | ~373 |
+| Flower Thief | 44.00% | ~335 |
 | Apostle of Flame | 40.00% | ~304 |
-| Beginner Artificer | 39.00% | ~296 |
-| Beginner Cook | 38.00% | ~289 |
-| Seal Breaker | 32.00% | ~243 |
-| Handyman | 29.00% | ~220 |
+| Beginner Artificer | 39.00% | ~297 |
+| Beginner Cook | 37.00% | ~282 |
+| Seal Breaker | 32.00% | ~244 |
+| Handyman | 29.00% | ~221 |
 | Giant Lizard Killer | 27.00% | ~205 |
 | Guardian | 26.00% | ~198 |
 | Nosebleeder | 26.00% | ~198 |
 | Trader | 22.00% | ~167 |
 | Weapon Boost | 22.00% | ~167 |
-| Flying Kobold Killer | 19.00% | ~144 |
-| Youth Magnet | 19.00% | ~144 |
+| Flying Kobold Killer | 19.00% | ~145 |
+| Youth Magnet | 19.00% | ~145 |
 | Furious Scorpion Killer | 17.00% | ~129 |
 | Lethal Blade Mantis Killer | 17.00% | ~129 |
 | Squeaky Clean | 17.00% | ~129 |
@@ -43,15 +43,15 @@ Rating: 4.38 (Ranked 800)
 | Blade Mantis Challenge | 3.00% | ~23 |
 | Flying Kobold Challenge | 3.00% | ~23 |
 | Furious Scorpion Challenge | 3.00% | ~23 |
-| Mermaid Challenge | 3.00% | ~23 |
 | Rebellious | 2.00% | ~15 |
 | Big Face Goalkeeper Challenge | 2.00% | ~15 |
 | Giant Claw Spider Challenge | 2.00% | ~15 |
+| Mermaid Challenge | 2.00% | ~15 |
 | Berserker Challenge | 2.00% | ~15 |
 | Giantess Challenge | 2.00% | ~15 |
 | Warden Challenge | 2.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 760 (Ranked 325)  
+Progressed: 761 (Ranked 325)  
 Completed: 3 (0.39%) (Ranked 251)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,6 +187,7 @@ Completed: 3 (0.39%) (Ranked 251)
 | 2024-01-17 | 757 | 3 |
 | 2024-01-18 | 759 | 3 |
 | 2024-01-20 | 760 | 3 |
+| 2024-01-21 | 761 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

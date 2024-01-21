@@ -2,9 +2,9 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 647,
+  "Ranking_EOS_Progress": 642,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -92,6 +92,11 @@
       "Time": "2024-01-20T20:06:02.9151611+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T00:08:06.3343055+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
@@ -134,7 +139,7 @@
       "ID": "DEBUG_GLASSES",
       "SetID": "39bcm6",
       "Name": "Nice Job Four-Eyes",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -142,7 +147,7 @@
       "ID": "DEMO_END",
       "SetID": "39bcm6",
       "Name": "The End...?",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -150,7 +155,7 @@
       "ID": "END_IS_NEVER",
       "SetID": "39bcm6",
       "Name": "Playtest Report",
-      "Percentage": 33,
+      "Percentage": 31,
       "XP": 30,
       "UsersEstimate": 5
     },
@@ -158,7 +163,7 @@
       "ID": "FALL_DEATH",
       "SetID": "39bcm6",
       "Name": "Slippin Stanton",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -174,7 +179,7 @@
       "ID": "HAMMER_ACQUIRE",
       "SetID": "39bcm6",
       "Name": "J-MC Hammer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -198,7 +203,7 @@
       "ID": "LEVEL_2_ENTER",
       "SetID": "39bcm6",
       "Name": "Not Out of the Metaphorical Woods",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -206,7 +211,7 @@
       "ID": "LEVEL_3_ENTER",
       "SetID": "39bcm6",
       "Name": "Just a Slight Detour",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -214,7 +219,7 @@
       "ID": "MICROWAVE",
       "SetID": "39bcm6",
       "Name": "BRRRRRRRRRRRRRRRRRRRRRR",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 45,
       "UsersEstimate": 3
     },
@@ -230,7 +235,7 @@
       "ID": "OAT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "What a Triumph",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -238,7 +243,7 @@
       "ID": "OG_PENDING",
       "SetID": "39bcm6",
       "Name": "WE MUST TRAVEL BACK IN TIME",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -262,7 +267,7 @@
       "ID": "SPEED",
       "SetID": "39bcm6",
       "Name": "game SUCK i go to BED",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -270,7 +275,7 @@
       "ID": "VENT_ENDING",
       "SetID": "39bcm6",
       "Name": "Take a Break",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -278,7 +283,7 @@
       "ID": "VENT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "Vent Ending",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -286,7 +291,7 @@
       "ID": "WPD_HAHA_FUNNE",
       "SetID": "39bcm6",
       "Name": "No.",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 35,
       "UsersEstimate": 1
     }
@@ -295,13 +300,13 @@
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:06:46.5201223+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:08:06.3343051+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:00:45.1868031+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:06:46.5201339+00:00"
+  "LastUpdate_Ratings": "2024-01-21T00:02:05.0980696+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:08:06.3343522+00:00"
 }

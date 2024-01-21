@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2091,9 +2091,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 338
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2123,9 +2123,9 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "4n84pon",
       "Name": "Furon Fashion",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2379,9 +2379,9 @@
       "ID": "ACH_SKATE_AWAY_FROM_SPORE",
       "SetID": "4n84pon",
       "Name": "Dusted",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 50
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2452,8 +2452,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:09:51.16744+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:10:39.0851088+00:00",
   "LastUpdate_AppInfo": "2024-01-14T01:53:23.7771362+00:00",
   "LastUpdate_Ratings": "2024-01-20T23:00:46.6851429+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:09:51.1674942+00:00"
+  "LastUpdate_Achievements": "2024-01-21T00:10:39.0851481+00:00"
 }

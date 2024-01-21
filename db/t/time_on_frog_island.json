@@ -4,7 +4,7 @@
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewPlayers": 491,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -30,11 +30,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 50,
+  "EOS_Progressed": 51,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2,
+  "EOS_Completed_Percentage": 1.96,
   "EosHistory": [
     {
       "Time": "2023-09-11T10:06:16.3667497+00:00",
@@ -280,6 +280,11 @@
       "Time": "2024-01-12T06:04:30.7687887+00:00",
       "NumProgressed": 50,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T00:06:05.4118781+00:00",
+      "NumProgressed": 51,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-11T10:06:16.366753+00:00",
@@ -450,7 +455,7 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 15,
       "UsersEstimate": 20
     },
@@ -466,7 +471,7 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 10,
       "UsersEstimate": 31
     },
@@ -522,9 +527,9 @@
       "ID": "a4",
       "SetID": "cdg65ol",
       "Name": "Shipwrecked!",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "a5",
@@ -571,7 +576,7 @@
     {
       "ID": "cdg65ol",
       "IsBase": true,
-      "Progressed": 50,
+      "Progressed": 51,
       "Completed": 1
     }
   ],
@@ -579,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-20T23:05:04.7963692+00:00",
+  "LastChanged_Achievements": "2024-01-21T00:06:05.4118777+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.4002798+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:03:16.8068289+00:00",
-  "LastUpdate_Achievements": "2024-01-20T23:05:04.7963914+00:00"
+  "LastUpdate_Ratings": "2024-01-21T00:03:58.4220099+00:00",
+  "LastUpdate_Achievements": "2024-01-21T00:06:05.4119064+00:00"
 }

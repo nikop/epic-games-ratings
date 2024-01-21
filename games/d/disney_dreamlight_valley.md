@@ -6,7 +6,7 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,547 |
+| Goofy's Investor | 68.00% | ~9,689 |
 | Photographer | 67.00% | ~9,547 |
 | Valley's Helper | 59.00% | ~8,407 |
 | Constructor | 50.00% | ~7,124 |
@@ -251,7 +251,7 @@ Completed: 353 (2.48%) (Ranked 127)
 | 2024-01-20 | 14,249 | 353 |
 ## Awards
 Max (Great for Beginners): 1,193  (Ranked 151)  
-Sum: 8,445 (Ranked 113)  
+Sum: 8,446 (Ranked 113)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -263,7 +263,7 @@ Diff (max vs sum): 38
 | This game has Amazing Storytelling | 807 |
 | This game is Extremely Fun | 795 |
 | This game has Quickly Understood Controls | 784 |
-| This game has a Creative Community | 741 |
+| This game has a Creative Community | 742 |
 | This game has Easy Combat | 561 |
 | This game has Obsessive Gameplay | 415 |
 ## Ratings History
@@ -580,4 +580,4 @@ Diff (max vs sum): 38
 | 2024-01-17 | 4.76 | - | 1,187 | 8,423 |
 | 2024-01-18 | 4.76 | - | 1,190 | 8,433 |
 | 2024-01-19 | 4.76 | - | 1,193 | 8,439 |
-| 2024-01-20 | 4.76 | - | 1,193 | 8,445 |
+| 2024-01-20 | 4.76 | - | 1,193 | 8,446 |
