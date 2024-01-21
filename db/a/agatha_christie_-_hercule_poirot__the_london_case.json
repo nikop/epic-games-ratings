@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-hercule-poirot-london-cases-c81a32",
   "Ranking_EOS_Progress": 490,
   "Ranking_EOS_Completed": 90,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 82,
   "Store": {
     "ReleaseDate": "2023-08-29T08:00:00+00:00",
@@ -800,9 +800,9 @@
       "ID": "ACH_03",
       "SetID": "7b646ck",
       "Name": "The Missing Magdalene",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "ACH_030",
@@ -999,8 +999,8 @@
   ],
   "FirstSeen": "2023-09-01T19:00:04.7737325+00:00",
   "FirstSeenAchievements": "2023-07-06T13:22:18.2956112+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:09:15.9061754+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:09:47.3212602+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:04.0301644+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:59:29.2619175+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:09:15.9062071+00:00"
+  "LastUpdate_Ratings": "2024-01-21T03:00:03.4081121+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:09:47.3212871+00:00"
 }

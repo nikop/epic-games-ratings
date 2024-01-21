@@ -5,19 +5,19 @@ Rating: 4.58 (Ranked 474)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~189 |
-| Map reader | 65.00% | ~136 |
-| Adventurer | 64.00% | ~134 |
-| Philanthropist | 61.00% | ~128 |
-| The brave little tailor | 42.00% | ~88 |
-| Archer | 42.00% | ~88 |
+| Beginner | 90.00% | ~190 |
+| Map reader | 65.00% | ~137 |
+| Adventurer | 64.00% | ~135 |
+| Philanthropist | 62.00% | ~131 |
+| Archer | 43.00% | ~91 |
+| The brave little tailor | 42.00% | ~89 |
 | Field hand | 39.00% | ~82 |
-| Well-to-do | 33.00% | ~69 |
+| Well-to-do | 34.00% | ~72 |
 | Samaritan | 30.00% | ~63 |
 | Ladies' man | 30.00% | ~63 |
 | The merciful one | 29.00% | ~61 |
-| Idiot | 25.00% | ~52 |
-| Ferocious wild boars | 24.00% | ~50 |
+| Idiot | 25.00% | ~53 |
+| Ferocious wild boars | 24.00% | ~51 |
 | Beast slayer | 22.00% | ~46 |
 | Ogre friend | 21.00% | ~44 |
 | Death of a legend | 20.00% | ~42 |
@@ -32,7 +32,7 @@ Rating: 4.58 (Ranked 474)
 | Hard worker | 16.00% | ~34 |
 | Ghost hunter | 15.00% | ~32 |
 | Master detective | 15.00% | ~32 |
-| Defender | 14.00% | ~29 |
+| Defender | 14.00% | ~30 |
 | Showdown | 13.00% | ~27 |
 | Peacekeeper | 13.00% | ~27 |
 | Workaholic | 12.00% | ~25 |
@@ -44,7 +44,7 @@ Rating: 4.58 (Ranked 474)
 | Terror of the hens | 7.00% | ~15 |
 | King of the handymen | 7.00% | ~15 |
 | The traveler | 6.00% | ~13 |
-| Moneybags | 5.00% | ~10 |
+| Moneybags | 5.00% | ~11 |
 | King Midas | 4.00% | ~8 |
 | Rune master | 3.00% | ~6 |
 | Fervent swimmer | 3.00% | ~6 |
@@ -56,7 +56,7 @@ Rating: 4.58 (Ranked 474)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 210 (Ranked 433)  
+Progressed: 211 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -137,6 +137,7 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-17 | 204 | 0 |
 | 2024-01-19 | 208 | 0 |
 | 2024-01-20 | 210 | 0 |
+| 2024-01-21 | 211 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

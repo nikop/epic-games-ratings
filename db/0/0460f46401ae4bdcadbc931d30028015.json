@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 353,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 107,
+  "Ranking_EOS_NewPlayers": 108,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1815,9 +1815,9 @@
       "Count": 38
     }
   ],
-  "EOS_Progressed": 11208,
+  "EOS_Progressed": 11212,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 690,
+  "EOS_NewPlayers": 681,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12210,6 +12210,11 @@
       "Time": "2024-01-21T02:04:26.1497716+00:00",
       "NumProgressed": 11208,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T03:04:44.5950109+00:00",
+      "NumProgressed": 11212,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12230,7 +12235,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3812
     },
     {
       "ID": "achievement_11",
@@ -12238,7 +12243,7 @@
       "Name": "Big Spender",
       "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "achievement_12",
@@ -12246,7 +12251,7 @@
       "Name": "Dealmaker",
       "Percentage": 25,
       "XP": 60,
-      "UsersEstimate": 2802
+      "UsersEstimate": 2803
     },
     {
       "ID": "achievement_13",
@@ -12254,7 +12259,7 @@
       "Name": "MVP",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3362
+      "UsersEstimate": 3364
     },
     {
       "ID": "achievement_14",
@@ -12262,7 +12267,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 3811
+      "UsersEstimate": 3812
     },
     {
       "ID": "achievement_15",
@@ -12318,7 +12323,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6613
+      "UsersEstimate": 6615
     },
     {
       "ID": "achievement_21",
@@ -12334,7 +12339,7 @@
       "Name": "Throwin\u2019 Dots",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "achievement_4",
@@ -12350,7 +12355,7 @@
       "Name": "Change of Scenery",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 1905
+      "UsersEstimate": 1906
     },
     {
       "ID": "achievement_6",
@@ -12358,7 +12363,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2914
+      "UsersEstimate": 2915
     },
     {
       "ID": "achievement_7",
@@ -12366,15 +12371,15 @@
       "Name": "Head-to-Head",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 560
+      "UsersEstimate": 561
     },
     {
       "ID": "achievement_8",
       "SetID": "aiin7da",
       "Name": "Bragging Rights",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 2914
+      "UsersEstimate": 3027
     },
     {
       "ID": "achievement_9",
@@ -12382,14 +12387,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 1457
+      "UsersEstimate": 1458
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11208,
+      "Progressed": 11212,
       "Completed": 0
     }
   ],
@@ -12397,8 +12402,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-20T21:02:48.7269525+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:04:26.1497711+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:04:44.5950102+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:01:18.3639582+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:04:26.1498286+00:00"
+  "LastUpdate_Ratings": "2024-01-21T03:02:39.3980188+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:04:44.5950763+00:00"
 }

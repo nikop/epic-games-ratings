@@ -5,9 +5,9 @@
   "Ranking_Rating": 1009,
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
-  "Ranking_EOS_Progress": 226,
+  "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 39,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-02-02T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3681,
+  "EOS_Progressed": 3745,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3563,
+  "EOS_NewPlayers": 3627,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -473,6 +473,11 @@
       "Time": "2024-01-21T02:02:58.0865228+00:00",
       "NumProgressed": 3681,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T03:03:45.0103472+00:00",
+      "NumProgressed": 3745,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 33,
@@ -484,7 +489,7 @@
       "Name": "When ACE met AYLA",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 147
+      "UsersEstimate": 150
     },
     {
       "ID": "ACH_BIRDSPEAKER",
@@ -516,7 +521,7 @@
       "Name": "Kat-like reflexes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 110
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_CHALLENGE_ZEPHYR",
@@ -524,7 +529,7 @@
       "Name": "Stellar extra-vehicular activities score",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 300
     },
     {
       "ID": "ACH_CLIMB_FIRST",
@@ -532,7 +537,7 @@
       "Name": "Getting the hang of it",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 736
+      "UsersEstimate": 749
     },
     {
       "ID": "ACH_COLLECT_ASTROCHAT",
@@ -540,7 +545,7 @@
       "Name": "Reading is fundamental",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_COLLECT_ASTROCHAT_ALL",
@@ -556,7 +561,7 @@
       "Name": "The beginning of a beautiful collection",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 1620
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACH_COLLECT_COMIC_ALL",
@@ -572,7 +577,7 @@
       "Name": "Take a look",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1461
     },
     {
       "ID": "ACH_COLLECT_HOLOGRAM_ALL",
@@ -580,7 +585,7 @@
       "Name": "Cinephile",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 258
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH_COLLECT_PROFILE",
@@ -588,7 +593,7 @@
       "Name": "Piecing the story together",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_COLLECT_PROFILE_ALL",
@@ -620,7 +625,7 @@
       "Name": "Better jot that down",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 2172
+      "UsersEstimate": 2210
     },
     {
       "ID": "ACH_COLLECT_SCANNABLE_ALL",
@@ -636,7 +641,7 @@
       "Name": "On the Precipice",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 552
+      "UsersEstimate": 562
     },
     {
       "ID": "ACH_FINISH_EARTHCAMPUS",
@@ -644,7 +649,7 @@
       "Name": "Moonbear",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 810
+      "UsersEstimate": 824
     },
     {
       "ID": "ACH_FINISH_EPILOGUE",
@@ -652,15 +657,15 @@
       "Name": "Delivered Us Mars",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_FINISH_HABITAS1",
       "SetID": "1f0d2e2",
       "Name": "The Dream for These Folks",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH_FINISH_HABITAS2",
@@ -668,7 +673,7 @@
       "Name": "Like Animals",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_FINISH_HERSCHEL",
@@ -676,7 +681,7 @@
       "Name": "A Nice Place to Live",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 479
+      "UsersEstimate": 487
     },
     {
       "ID": "ACH_FINISH_ODUM",
@@ -684,7 +689,7 @@
       "Name": "Not the Rabbits, Not the Bees",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 412
     },
     {
       "ID": "ACH_FINISH_PROLOGUE",
@@ -692,7 +697,7 @@
       "Name": "Home Is...",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1273
     },
     {
       "ID": "ACH_FINISH_UNISON",
@@ -700,7 +705,7 @@
       "Name": "Wants and Needs",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_FINISH_WRECKAGE",
@@ -708,7 +713,7 @@
       "Name": "Desperate Times",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 368
+      "UsersEstimate": 374
     },
     {
       "ID": "ACH_FINISH_ZEPHYR",
@@ -716,7 +721,7 @@
       "Name": "Want to Go to Space?",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 699
+      "UsersEstimate": 712
     },
     {
       "ID": "ACH_MARSWORM",
@@ -738,16 +743,16 @@
       "ID": "ACH_RYAN_WAIT",
       "SetID": "1f0d2e2",
       "Name": "Who waits five minutes, seriously?",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 15
+      "UsersEstimate": 19
     }
   ],
   "AchievementSets": [
     {
       "ID": "1f0d2e2",
       "IsBase": true,
-      "Progressed": 3681,
+      "Progressed": 3745,
       "Completed": 0
     }
   ],
@@ -755,8 +760,8 @@
   "FirstSeenRating": "2023-03-31T05:57:02.5059025+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.8750622+00:00",
   "LastChanged": "2024-01-18T16:57:45.6706577+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:02:58.0865223+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:03:45.0103468+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:36.992041+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:57:27.4137305+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:02:58.0865706+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:58:40.7992367+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:03:45.0103761+00:00"
 }

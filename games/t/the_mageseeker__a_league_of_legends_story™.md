@@ -1,19 +1,19 @@
 # The Mageseeker: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/the-mageseeker-a-league-of-legends-story)  
 [View Rawdata](../../db/t/the_mageseeker__a_league_of_legends_story™.json)  
-Rating: 4.78 (Ranked 111)  
+Rating: 4.78 (Ranked 112)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,319 |
-| No more cages! | 90.00% | ~3,145 |
-| Everfrost | 76.00% | ~2,655 |
-| Dark Forest | 76.00% | ~2,655 |
-| Pentakill | 75.00% | ~2,620 |
+| For Demacia | 95.00% | ~3,320 |
+| No more cages! | 90.00% | ~3,146 |
+| Everfrost | 76.00% | ~2,656 |
+| Dark Forest | 76.00% | ~2,656 |
+| Pentakill | 75.00% | ~2,621 |
 | The use of petricite | 73.00% | ~2,551 |
-| You can pet the dog | 60.00% | ~2,096 |
-| Thornbarrow | 44.00% | ~1,537 |
-| Big Helmet Bro | 42.00% | ~1,467 |
+| You can pet the dog | 60.00% | ~2,097 |
+| Thornbarrow | 44.00% | ~1,538 |
+| Big Helmet Bro | 42.00% | ~1,468 |
 | Clarion Cove | 41.00% | ~1,433 |
 | Ternmoat Headquarters | 40.00% | ~1,398 |
 | Elemental master | 38.00% | ~1,328 |
@@ -23,10 +23,10 @@ Rating: 4.78 (Ranked 111)
 | Old friend | 33.00% | ~1,153 |
 | Devineur | 33.00% | ~1,153 |
 | Hijack | 32.00% | ~1,118 |
-| I chose my shackles | 29.00% | ~1,013 |
-| Ancient power | 29.00% | ~1,013 |
-| Whispers in the Woods I | 28.00% | ~978 |
-| Sacred Woods | 27.00% | ~943 |
+| I chose my shackles | 29.00% | ~1,014 |
+| Ancient power | 29.00% | ~1,014 |
+| Whispers in the Woods I | 28.00% | ~979 |
+| Sacred Woods | 27.00% | ~944 |
 | Little light | 25.00% | ~874 |
 | Capelworth | 25.00% | ~874 |
 | Glyndemere | 24.00% | ~839 |
@@ -59,7 +59,7 @@ Rating: 4.78 (Ranked 111)
 | Silverwing nest | 3.00% | ~105 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,494 (Ranked 231)  
+Progressed: 3,495 (Ranked 231)  
 Completed: 35 (1.00%) (Ranked 184)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -282,6 +282,7 @@ Completed: 35 (1.00%) (Ranked 184)
 | 2024-01-18 | 3,480 | 33 |
 | 2024-01-19 | 3,489 | 33 |
 | 2024-01-20 | 3,494 | 35 |
+| 2024-01-21 | 3,495 | 35 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

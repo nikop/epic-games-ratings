@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,123 |
-| Alt+F4 | 11.00% | ~27,388 |
-| Where's that freaking Dwarf? | 9.00% | ~22,408 |
+| Sowwy! | 37.00% | ~92,125 |
+| Alt+F4 | 11.00% | ~27,389 |
+| Where's that freaking Dwarf? | 9.00% | ~22,409 |
 | Déjà vu | 8.00% | ~19,919 |
 | Sock! SOCK! | 6.00% | ~14,939 |
 | Speedrun | 6.00% | ~14,939 |
@@ -18,15 +18,15 @@ Number of Ratings: 118  (23.09.2022)
 | Fireproof Wizardess | 5.00% | ~12,449 |
 | Way of the Wimp | 4.00% | ~9,959 |
 | The plot thickens... At the tavern | 4.00% | ~9,959 |
-| Livin' in a dwarven paradise | 3.00% | ~7,469 |
-| The demons' feast | 3.00% | ~7,469 |
-| The Great Library | 3.00% | ~7,469 |
-| Torture and Sensibility | 3.00% | ~7,469 |
-| Urik's Depths | 3.00% | ~7,469 |
-| The Dungeon Master | 3.00% | ~7,469 |
-| The Woman in the High Castle | 3.00% | ~7,469 |
-| Team Building Exercise | 3.00% | ~7,469 |
-| Oh, when I'll be level 10... | 3.00% | ~7,469 |
+| Livin' in a dwarven paradise | 3.00% | ~7,470 |
+| The demons' feast | 3.00% | ~7,470 |
+| The Great Library | 3.00% | ~7,470 |
+| Torture and Sensibility | 3.00% | ~7,470 |
+| Urik's Depths | 3.00% | ~7,470 |
+| The Dungeon Master | 3.00% | ~7,470 |
+| The Woman in the High Castle | 3.00% | ~7,470 |
+| Team Building Exercise | 3.00% | ~7,470 |
+| Oh, when I'll be level 10... | 3.00% | ~7,470 |
 | Shiny and Crôm | 2.00% | ~4,980 |
 | The Statuette of Gladeulfeurah | 2.00% | ~4,980 |
 | Res Judicata | 2.00% | ~4,980 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 248,982 (Ranked 73)  
+Progressed: 248,987 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,7 +330,7 @@ Completed: 9 (0.00%) (Ranked 408)
 | 2024-01-18 | 248,677 | 9 |
 | 2024-01-19 | 248,799 | 9 |
 | 2024-01-20 | 248,966 | 9 |
-| 2024-01-21 | 248,982 | 9 |
+| 2024-01-21 | 248,987 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 577 (Ranked 330)  

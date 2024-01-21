@@ -5,9 +5,9 @@
   "Ranking_Rating": 1103,
   "Ranking_Popularity": 544,
   "Ranking_PopularitySum": 560,
-  "Ranking_EOS_Progress": 248,
+  "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 276,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-05-02T00:00:00+00:00",
@@ -417,9 +417,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 2408,
+  "EOS_Progressed": 2409,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 23,
+  "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4632,6 +4632,11 @@
       "Time": "2024-01-20T03:03:26.5401218+00:00",
       "NumProgressed": 2408,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T03:03:57.9325982+00:00",
+      "NumProgressed": 2409,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4659,7 +4664,7 @@
       "Name": "Home Is Where the Heart Is",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 409
+      "UsersEstimate": 410
     },
     {
       "ID": "Achievement_004",
@@ -4899,7 +4904,7 @@
       "Name": "Catch and Release",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "Achievement_035",
@@ -5170,7 +5175,7 @@
     {
       "ID": "6b34g18",
       "IsBase": true,
-      "Progressed": 2408,
+      "Progressed": 2409,
       "Completed": 0
     }
   ],
@@ -5178,8 +5183,8 @@
   "FirstSeenRating": "2023-05-02T02:57:49.0820143+00:00",
   "FirstSeenAchievements": "2023-05-01T14:00:30.9735234+00:00",
   "LastChanged": "2024-01-20T07:58:31.0041804+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:03:17.1589532+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:03:57.9325977+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:38.9194974+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:58:03.4836591+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:03:17.1590174+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:59:03.3023423+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:03:57.9326663+00:00"
 }

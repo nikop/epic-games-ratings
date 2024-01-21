@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1440,9 +1440,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 33986,
+  "EOS_Progressed": 33989,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 622,
+  "EOS_NewPlayers": 623,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31160,6 +31160,11 @@
       "Time": "2024-01-21T02:09:07.647656+00:00",
       "NumProgressed": 33986,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-21T03:09:41.3873836+00:00",
+      "NumProgressed": 33989,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31291,7 +31296,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6457
+      "UsersEstimate": 6458
     },
     {
       "ID": "1031",
@@ -31299,7 +31304,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4418
+      "UsersEstimate": 4419
     },
     {
       "ID": "1032",
@@ -31307,7 +31312,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13594
+      "UsersEstimate": 13596
     },
     {
       "ID": "1033",
@@ -31331,7 +31336,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4078
+      "UsersEstimate": 4079
     },
     {
       "ID": "1036",
@@ -31346,15 +31351,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 33986,
+      "Progressed": 33989,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-20T21:59:17.8417734+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:09:07.6476557+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:09:41.3873832+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:58:41.9101855+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:09:07.6478083+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:59:29.2394626+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:09:41.3875134+00:00"
 }

@@ -6,23 +6,23 @@ Number of Ratings: 401  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sink Beneath the Waves | 36.00% | ~16,070 |
-| Sweet Sorrow | 18.00% | ~8,035 |
+| Sink Beneath the Waves | 36.00% | ~16,071 |
+| Sweet Sorrow | 18.00% | ~8,036 |
 | Rules the Waves | 17.00% | ~7,589 |
 | Thou, All-Shaking Thunder | 15.00% | ~6,696 |
-| Rival | 14.00% | ~6,249 |
+| Rival | 14.00% | ~6,250 |
 | Correspondent | 12.00% | ~5,357 |
 | Lose Your Mind | 12.00% | ~5,357 |
 | Sound Mind? | 12.00% | ~5,357 |
-| Salt's Curse | 11.00% | ~4,910 |
-| HE SUN THE SUN THE SUN T | 11.00% | ~4,910 |
-| The Fall of the House | 11.00% | ~4,910 |
-| Shipmate | 11.00% | ~4,910 |
+| Salt's Curse | 11.00% | ~4,911 |
+| HE SUN THE SUN THE SUN T | 11.00% | ~4,911 |
+| The Fall of the House | 11.00% | ~4,911 |
+| Shipmate | 11.00% | ~4,911 |
 | One Year at Zee | 8.00% | ~3,571 |
 | Pupil | 7.00% | ~3,125 |
 | The Ascent of Man | 7.00% | ~3,125 |
-| Salvager | 6.00% | ~2,678 |
-| Open Your Ears | 6.00% | ~2,678 |
+| Salvager | 6.00% | ~2,679 |
+| Open Your Ears | 6.00% | ~2,679 |
 | Zee Fever | 5.00% | ~2,232 |
 | Old Unhappy Far-Off Things | 4.00% | ~1,786 |
 | Sink Beneath the Waves. Again. | 4.00% | ~1,786 |
@@ -48,8 +48,8 @@ Number of Ratings: 401  (23.09.2022)
 | Depth charge | 0.90% | ~402 |
 | A zee-change | 0.80% | ~357 |
 | Leviathan | 0.80% | ~357 |
-| What lies beneath | 0.70% | ~312 |
-| Stone's Curse | 0.70% | ~312 |
+| What lies beneath | 0.70% | ~313 |
+| Stone's Curse | 0.70% | ~313 |
 | Five Years at Zee | 0.50% | ~223 |
 | The Lady's Parlour | 0.20% | ~89 |
 | A Past Wreathed in Shadows | 0.20% | ~89 |
@@ -61,7 +61,7 @@ Number of Ratings: 401  (23.09.2022)
 | Death By Water | 0.10% | ~45 |
 | Ten Years at Zee | 0.10% | ~45 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44,639 (Ranked 133)  
+Progressed: 44,643 (Ranked 133)  
 Completed: 4 (0.01%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 4 (0.01%) (Ranked 382)
 | 2024-01-18 | 44,492 | 4 |
 | 2024-01-19 | 44,547 | 4 |
 | 2024-01-20 | 44,623 | 4 |
-| 2024-01-21 | 44,639 | 4 |
+| 2024-01-21 | 44,643 | 4 |
 ## Awards
 Max (Character Customization): 222  (Ranked 292)  
 Sum: 316 (Ranked 380)  

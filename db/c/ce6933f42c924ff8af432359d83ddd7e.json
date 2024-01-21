@@ -2,9 +2,9 @@
   "ID": "ce6933f42c924ff8af432359d83ddd7e",
   "Name": "Mystery in the Office",
   "ProductSlug": "mystery-in-the-office-f629ad",
-  "Ranking_EOS_Progress": 286,
+  "Ranking_EOS_Progress": 285,
   "Ranking_EOS_Completed": 87,
-  "Ranking_EOS_NewPlayers": 316,
+  "Ranking_EOS_NewPlayers": 307,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-09-28T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1315,
+  "EOS_Progressed": 1316,
   "EOS_Completed": 58,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.41,
   "EosHistory": [
@@ -3229,6 +3229,11 @@
       "Time": "2024-01-20T20:09:55.0017798+00:00",
       "NumProgressed": 1315,
       "NumCompleted": 58
+    },
+    {
+      "Time": "2024-01-21T03:09:39.3096148+00:00",
+      "NumProgressed": 1316,
+      "NumCompleted": 58
     }
   ],
   "AchievementsAdded": "2023-09-09T22:06:11.6454255+00:00",
@@ -3257,7 +3262,7 @@
       "Name": "Sweet tooth",
       "Percentage": 70,
       "XP": 45,
-      "UsersEstimate": 920
+      "UsersEstimate": 921
     },
     {
       "ID": "ACH_FRUIT_BOWLS",
@@ -3265,7 +3270,7 @@
       "Name": "An apple a day",
       "Percentage": 56,
       "XP": 75,
-      "UsersEstimate": 736
+      "UsersEstimate": 737
     },
     {
       "ID": "ACH_GET_BACK_TO_WORK",
@@ -3289,7 +3294,7 @@
       "Name": "Good listener",
       "Percentage": 61,
       "XP": 85,
-      "UsersEstimate": 802
+      "UsersEstimate": 803
     },
     {
       "ID": "ACH_SANDWICHES",
@@ -3297,7 +3302,7 @@
       "Name": "Food lover",
       "Percentage": 63,
       "XP": 55,
-      "UsersEstimate": 828
+      "UsersEstimate": 829
     },
     {
       "ID": "ACH_SPEEDRUN",
@@ -3320,14 +3325,14 @@
     {
       "ID": "6f5dahd",
       "IsBase": true,
-      "Progressed": 1315,
+      "Progressed": 1316,
       "Completed": 58
     }
   ],
   "FirstSeen": "2023-10-04T03:58:38.5824988+00:00",
   "FirstSeenAchievements": "2023-09-09T21:05:26.0865312+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:09:04.690864+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:09:39.3096142+00:00",
   "LastUpdate_AppInfo": "2024-01-19T21:57:10.3938259+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:56:09.1321675+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:09:04.6908886+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:57:50.3063232+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:09:39.3096405+00:00"
 }

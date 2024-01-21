@@ -9715,9 +9715,9 @@
       "Count": 3651
     }
   ],
-  "EOS_Progressed": 254975,
+  "EOS_Progressed": 254980,
   "EOS_Completed": 2629,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1155,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41005,6 +41005,11 @@
       "Time": "2024-01-21T02:09:35.8264291+00:00",
       "NumProgressed": 254975,
       "NumCompleted": 2629
+    },
+    {
+      "Time": "2024-01-21T03:10:03.0992101+00:00",
+      "NumProgressed": 254980,
+      "NumCompleted": 2629
     }
   ],
   "TotalAchievements": 546,
@@ -41088,7 +41093,7 @@
       "Name": "Tall Tales",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1051",
@@ -41696,7 +41701,7 @@
       "Name": "Vecna Lives!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1164",
@@ -41720,7 +41725,7 @@
       "Name": "Vecna Loots!",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1169",
@@ -41752,7 +41757,7 @@
       "Name": "Return to the Tomb",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1174",
@@ -43784,7 +43789,7 @@
       "Name": "Into The Fire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_631",
@@ -43816,7 +43821,7 @@
       "Name": "Dreamscape",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_636",
@@ -44096,7 +44101,7 @@
       "Name": "The Giant\u0027s Bane Tavern",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_691",
@@ -45240,7 +45245,7 @@
       "Name": "The Beginning is the End",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1548",
@@ -45280,7 +45285,7 @@
       "Name": "The Brains of an Illithid\u0027s Desire",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1347",
@@ -45383,21 +45388,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221249,
+      "Progressed": 221254,
       "Completed": 4153
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 254975,
+      "Progressed": 254980,
       "Completed": 2629
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-20T19:01:53.0752471+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:09:35.8264287+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:10:03.0992095+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.9626366+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:55:14.0629184+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:09:35.8286969+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:57:12.9998946+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:10:03.1014104+00:00"
 }

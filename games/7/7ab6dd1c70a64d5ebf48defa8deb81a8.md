@@ -17,8 +17,8 @@ Rating: 4.19 (Ranked 980)
 | I Found It | 25.00% | ~602 |
 | Fashion Victim | 24.00% | ~578 |
 | Stone Collection | 24.00% | ~578 |
+| Powerful Allies | 23.00% | ~554 |
 | Tributes of Caladrias | 23.00% | ~554 |
-| Powerful Allies | 22.00% | ~530 |
 | Big Bazar | 16.00% | ~385 |
 | Essence Blow | 15.00% | ~361 |
 | Alchemist | 15.00% | ~361 |

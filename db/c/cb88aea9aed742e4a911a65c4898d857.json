@@ -443,9 +443,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 11966,
+  "EOS_Progressed": 11969,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 606,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5663,6 +5663,11 @@
       "Time": "2024-01-21T02:09:24.4871591+00:00",
       "NumProgressed": 11966,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T03:09:53.8575181+00:00",
+      "NumProgressed": 11969,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5675,7 +5680,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2752
+      "UsersEstimate": 2753
     },
     {
       "ID": "03_TheStolenStar",
@@ -5699,7 +5704,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 957
+      "UsersEstimate": 958
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5779,7 +5784,7 @@
       "Name": "Pentakill",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "16_TheRise",
@@ -5835,7 +5840,7 @@
       "Name": "Perfect Timing",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "23_DynastyRestored",
@@ -5883,7 +5888,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -5931,7 +5936,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -5995,7 +6000,7 @@
       "Name": "Iron Judgement",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1316
+      "UsersEstimate": 1317
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6194,7 +6199,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 11966,
+      "Progressed": 11969,
       "Completed": 1
     }
   ],
@@ -6202,8 +6207,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-20T14:00:29.182554+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:09:24.4871587+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:09:53.8575176+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-21T02:01:01.3260488+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:09:24.48722+00:00"
+  "LastUpdate_Ratings": "2024-01-21T03:00:36.6840144+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:09:53.8575836+00:00"
 }

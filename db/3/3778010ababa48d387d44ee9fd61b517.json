@@ -2,7 +2,7 @@
   "ID": "3778010ababa48d387d44ee9fd61b517",
   "Name": "The Hive",
   "ProductSlug": "the-hive-f5c2c8",
-  "Ranking_EOS_Progress": 460,
+  "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 408,
   "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 155,
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 159,
+  "EOS_Progressed": 160,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
@@ -644,6 +644,11 @@
       "Time": "2024-01-19T01:56:07.034829+00:00",
       "NumProgressed": 159,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T03:06:20.1859458+00:00",
+      "NumProgressed": 160,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-06T09:06:36.8528794+00:00",
@@ -664,7 +669,7 @@
       "Name": "The Artifact",
       "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 65
+      "UsersEstimate": 66
     },
     {
       "ID": "A_AVATAR",
@@ -742,9 +747,9 @@
       "ID": "A_GOLD_PILES",
       "SetID": "324h56e",
       "Name": "Scrooge",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 75
+      "UsersEstimate": 74
     },
     {
       "ID": "A_HIVE_RESS hiveRes (0-100)",
@@ -760,7 +765,7 @@
       "Name": "Big Game Hunter",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "A_HUNT_2 hunt (0-5)",
@@ -776,7 +781,7 @@
       "Name": "Scavenger",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "A_KILLS kills_1 (0-100)",
@@ -784,7 +789,7 @@
       "Name": "Slaughter",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -800,7 +805,7 @@
       "Name": "Loot of Legends",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "A_LEGIONNAIRES",
@@ -824,7 +829,7 @@
       "Name": "Fresh Meat!",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "A_MEDIC_HEAL",
@@ -840,7 +845,7 @@
       "Name": "Miner",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "A_NOFISH",
@@ -856,7 +861,7 @@
       "Name": "Orb of Wisdom",
       "Percentage": 68,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "A_POPULATION",
@@ -904,7 +909,7 @@
       "Name": "Silencer",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 41
+      "UsersEstimate": 42
     },
     {
       "ID": "A_SUN",
@@ -950,9 +955,9 @@
       "ID": "A_WORKER",
       "SetID": "324h56e",
       "Name": "All-Star Worker",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 30
+      "UsersEstimate": 32
     },
     {
       "ID": "A_WRAITH",
@@ -967,14 +972,14 @@
     {
       "ID": "324h56e",
       "IsBase": true,
-      "Progressed": 159,
+      "Progressed": 160,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:06:54.4417607+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:06:20.1859454+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:15.0895709+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:56:12.9560093+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:06:54.4418022+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:57:52.8151038+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:06:20.1859768+00:00"
 }

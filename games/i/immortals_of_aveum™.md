@@ -49,8 +49,8 @@ Rating: 4.19 (Ranked 980)
 | Family Business | 0.60% | ~21 |
 | Diplomat | 0.60% | ~21 |
 | Master of Malachite | 0.60% | ~21 |
+| Out of Time | 0.50% | ~18 |
 | Treasure Hunter | 0.50% | ~18 |
-| Out of Time | 0.40% | ~14 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 3,550 (Ranked 230)  

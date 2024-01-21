@@ -29,8 +29,8 @@ Rating: 4.65 (Ranked 323)
 | Skilled | 1.00% | ~91 |
 | Fae Farmer | 0.90% | ~82 |
 | Got to Catch Them All | 0.90% | ~82 |
+| Scattered Scroll Scrounger | 0.90% | ~82 |
 | Fanatical Farmer | 0.90% | ~82 |
-| Scattered Scroll Scrounger | 0.80% | ~73 |
 | Azorian Hat Dance | 0.70% | ~12 |
 | Chatty Neighbor | 0.60% | ~55 |
 | I Now Pronounce You... | 0.50% | ~46 |

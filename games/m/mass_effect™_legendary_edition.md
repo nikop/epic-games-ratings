@@ -26,10 +26,10 @@
 | Medal of Exploration III | 32.00% | ~1,451 |
 | Principled | 32.00% | ~1,451 |
 | Colonial Savior | 32.00% | ~1,451 |
+| Merciless | 32.00% | ~1,451 |
 | Scientist | 32.00% | ~1,451 |
 | Paramour I | 31.00% | ~1,405 |
 | Krogan Ally | 31.00% | ~1,405 |
-| Merciless | 31.00% | ~1,405 |
 | Sentinel Ally | 30.00% | ~1,360 |
 | The Archangel | 30.00% | ~1,360 |
 | The Professor | 30.00% | ~1,360 |
@@ -37,9 +37,9 @@
 | Scholar | 30.00% | ~1,360 |
 | The Convict | 28.00% | ~1,269 |
 | Operative | 28.00% | ~1,269 |
+| Power Full | 28.00% | ~1,269 |
 | Colony Defense | 27.00% | ~1,224 |
 | The Krogan | 27.00% | ~1,224 |
-| Power Full | 27.00% | ~1,224 |
 | Broke, Blind, and Bedlam | 26.00% | ~1,179 |
 | Veteran | 25.00% | ~1,133 |
 | Driven | 25.00% | ~1,133 |

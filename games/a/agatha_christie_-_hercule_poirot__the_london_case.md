@@ -14,7 +14,7 @@
 | Little grey cells | 53.00% | ~63 |
 | Impossible is possible | 53.00% | ~63 |
 | Arthur Hastings | 53.00% | ~63 |
-| The Missing Magdalene | 50.00% | ~59 |
+| The Missing Magdalene | 51.00% | ~60 |
 | Everything matters | 46.00% | ~54 |
 | DI Hardwicke | 45.00% | ~53 |
 | An expert mediator | 44.00% | ~52 |

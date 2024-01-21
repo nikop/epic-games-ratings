@@ -5,26 +5,26 @@ Rating: 4.83 (Ranked 56)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Forgotten Sorority | 91.00% | ~244,069 |
-| Private Club | 73.00% | ~195,792 |
-| Rogue Guild | 64.00% | ~171,653 |
+| Forgotten Sorority | 91.00% | ~244,070 |
+| Private Club | 73.00% | ~195,793 |
+| Rogue Guild | 64.00% | ~171,654 |
 | I Watched the Intro | 57.00% | ~152,879 |
-| Covert Consortium | 54.00% | ~144,832 |
-| Goat Queen | 52.00% | ~139,468 |
+| Covert Consortium | 54.00% | ~144,833 |
+| Goat Queen | 52.00% | ~139,469 |
 | Reach the Stratosphere | 50.00% | ~134,104 |
 | Synchronization Complete | 47.00% | ~126,058 |
 | Secret Society | 44.00% | ~118,012 |
 | Shadow Syndicate | 37.00% | ~99,237 |
 | What a Waste of Money | 33.00% | ~88,509 |
-| New Goat Order | 30.00% | ~80,462 |
-| Don't touch the servers | 28.00% | ~75,098 |
+| New Goat Order | 30.00% | ~80,463 |
+| Don't touch the servers | 28.00% | ~75,099 |
 | Real Buoy | 27.00% | ~72,416 |
 | San Angora: Become Human | 26.00% | ~69,734 |
 | Raider of the Lost Parking Garage | 26.00% | ~69,734 |
 | Welcome to Earth | 25.00% | ~67,052 |
 | Egg Simulator | 19.00% | ~50,960 |
 | Into the Matrix | 19.00% | ~50,960 |
-| Where is It? | 17.00% | ~45,595 |
+| Where is It? | 17.00% | ~45,596 |
 | Beauty, Mindfulness and Meditation | 15.00% | ~40,231 |
 | 401(K.O.) | 15.00% | ~40,231 |
 | Black Market | 14.00% | ~37,549 |
@@ -45,7 +45,7 @@ Rating: 4.83 (Ranked 56)
 | Move! That! Bus! | 0.60% | ~1,609 |
 | G.O.A.T | 0.40% | ~1,073 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 268,208 (Ranked 68)  
+Progressed: 268,209 (Ranked 68)  
 Completed: 959 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 959 (0.36%) (Ranked 254)
 | 2024-01-18 | 267,888 | 955 |
 | 2024-01-19 | 268,041 | 956 |
 | 2024-01-20 | 268,194 | 959 |
-| 2024-01-21 | 268,208 | 959 |
+| 2024-01-21 | 268,209 | 959 |
 ## Awards
 Max (Great for Beginners): 552  (Ranked 218)  
 Sum: 4,425 (Ranked 161)  

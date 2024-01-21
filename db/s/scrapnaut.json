@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewPlayers": 321,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 677,
+  "EOS_Progressed": 678,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2371,6 +2371,11 @@
       "Time": "2024-01-20T20:09:32.5639887+00:00",
       "NumProgressed": 677,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T03:09:17.4293592+00:00",
+      "NumProgressed": 678,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2478,7 +2483,7 @@
       "Name": "Cook",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_CUT_100_TREES",
@@ -2508,9 +2513,9 @@
       "ID": "ACH_FIND_10_TREASURES",
       "SetID": "7c4cldc",
       "Name": "Treasure Hunter",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 108
+      "UsersEstimate": 102
     },
     {
       "ID": "ACH_FIRST_BASE",
@@ -2518,7 +2523,7 @@
       "Name": "My New Home",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ACH_KILL_100",
@@ -2526,7 +2531,7 @@
       "Name": "Robot Hunter",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "ACH_KILL_20",
@@ -2550,7 +2555,7 @@
       "Name": "Prepper",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -2590,7 +2595,7 @@
       "Name": "Smelter",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 230
+      "UsersEstimate": 231
     },
     {
       "ID": "ACH_SURVIVE_10_DAYS",
@@ -2622,14 +2627,14 @@
       "Name": "Teleport",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     }
   ],
   "AchievementSets": [
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 677,
+      "Progressed": 678,
       "Completed": 4
     }
   ],
@@ -2637,8 +2642,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:08:32.6325518+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:09:17.429359+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:51.454985+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:58:32.631635+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:08:32.6325771+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:59:22.6844887+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:09:17.4293863+00:00"
 }

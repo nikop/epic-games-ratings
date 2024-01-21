@@ -63,14 +63,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Templar's Camp | 0.30% | ~765 |
 | Rescue in the Jungle | 0.30% | ~765 |
 | Pros and CONs | 0.20% | ~510 |
-| Tall Tales | 0.20% | ~442 |
+| Tall Tales | 0.20% | ~443 |
 | Wet Feet | 0.20% | ~510 |
 | Hatchlings Underfoot | 0.20% | ~510 |
 | Don't Look Up! | 0.20% | ~510 |
 | Heavy Burden | 0.20% | ~510 |
-| Vecna Lives! | 0.20% | ~442 |
-| Vecna Loots! | 0.20% | ~442 |
-| Return to the Tomb | 0.20% | ~442 |
+| Vecna Lives! | 0.20% | ~443 |
+| Vecna Loots! | 0.20% | ~443 |
+| Return to the Tomb | 0.20% | ~443 |
 | Homecoming | 0.20% | ~510 |
 | The Lost Heir of Omu | 0.20% | ~510 |
 | The Forbidden City | 0.20% | ~510 |
@@ -106,9 +106,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Elturel Has Fallen | 0.20% | ~510 |
 | Resolve Amongst Chaos | 0.20% | ~510 |
 | Market Fluctuations | 0.20% | ~510 |
-| Into The Fire | 0.20% | ~442 |
-| Dreamscape | 0.20% | ~442 |
-| The Giant's Bane Tavern | 0.20% | ~442 |
+| Into The Fire | 0.20% | ~443 |
+| Dreamscape | 0.20% | ~443 |
+| The Giant's Bane Tavern | 0.20% | ~443 |
 | The Long Haul | 0.20% | ~510 |
 | Lost in the Deep | 0.20% | ~510 |
 | Easily Distracted | 0.20% | ~510 |
@@ -116,8 +116,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Durable Deep | 0.20% | ~510 |
 | Expert Opinion | 0.20% | ~510 |
 | The Haunted Jungle | 0.20% | ~510 |
-| The Beginning is the End | 0.20% | ~442 |
-| The Brains of an Illithid's Desire | 0.20% | ~442 |
+| The Beginning is the End | 0.20% | ~443 |
+| The Brains of an Illithid's Desire | 0.20% | ~443 |
 | Upholding the Law | 0.10% | ~255 |
 | Starving in the Jungle | 0.10% | ~255 |
 | Cold as Ice | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | See You on the Flipside | 0.10% | ~221 |
 | A Wise Approach | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 254,975 (Ranked 71)  
+Progressed: 254,980 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 254,975 | 2,629 |
+| 2024-01-21 | 254,980 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,584 (Ranked 41)  

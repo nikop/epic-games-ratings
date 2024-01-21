@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 115,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11118,9 +11118,9 @@
       "Count": 1106
     }
   ],
-  "EOS_Progressed": 133356,
+  "EOS_Progressed": 133359,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 633,
+  "EOS_NewPlayers": 626,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40833,6 +40833,11 @@
       "Time": "2024-01-21T02:09:20.4909902+00:00",
       "NumProgressed": 133356,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T03:09:50.7502726+00:00",
+      "NumProgressed": 133359,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -40844,7 +40849,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8002
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -40852,7 +40857,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8002
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -40868,7 +40873,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -41044,7 +41049,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8002
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41060,7 +41065,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8002
     },
     {
       "ID": "combat_kill_librarian",
@@ -41084,7 +41089,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8002
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41100,7 +41105,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -41140,7 +41145,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8002
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41164,7 +41169,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8001
+      "UsersEstimate": 8002
     },
     {
       "ID": "driving_distance_easy",
@@ -41196,7 +41201,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10668
+      "UsersEstimate": 10669
     },
     {
       "ID": "hero_story_complete_all",
@@ -41444,7 +41449,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 740
+      "UsersEstimate": 741
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41475,21 +41480,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133356,
+      "Progressed": 133359,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8225,
+      "Progressed": 8228,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-21T01:56:47.4743365+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:09:20.49099+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:09:50.7502722+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:56:47.4743372+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:09:20.4911634+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:58:13.5437624+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:09:50.7504382+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 473,
   "Ranking_EOS_Progress": 341,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 210,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2018-11-27T14:00:00+00:00",
@@ -506,7 +506,7 @@
   ],
   "EOS_Progressed": 660,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 76,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2932,9 +2932,9 @@
       "ID": "Save_Humans_1",
       "SetID": "7a5k76n",
       "Name": "Helping Hand",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 422
+      "UsersEstimate": 429
     },
     {
       "ID": "Save_Humans_10",
@@ -3044,8 +3044,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-19T19:59:04.9154437+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:02:14.1055943+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:03:15.2965056+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:01.8750258+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:58:53.8756024+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:02:14.1057452+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:59:38.1747265+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:03:15.2966285+00:00"
 }

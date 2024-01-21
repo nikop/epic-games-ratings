@@ -4,7 +4,7 @@
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 90,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9875,
+  "EOS_Progressed": 9882,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1072,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3644,6 +3644,11 @@
       "Time": "2024-01-21T02:08:27.0427819+00:00",
       "NumProgressed": 9875,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-21T03:09:13.4076838+00:00",
+      "NumProgressed": 9882,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3656,7 +3661,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4839
+      "UsersEstimate": 4842
     },
     {
       "ID": "Document1",
@@ -3664,7 +3669,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 790
+      "UsersEstimate": 791
     },
     {
       "ID": "Document2",
@@ -3719,14 +3724,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 9875,
+      "Progressed": 9882,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:08:27.0427817+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:09:13.4076833+00:00",
   "LastUpdate_AppInfo": "2024-01-14T22:57:08.362065+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:57:25.8670491+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:08:27.0428021+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:58:39.7233333+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:09:13.4077088+00:00"
 }

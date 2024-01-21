@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 355,
+  "Ranking_EOS_Progress": 354,
   "Ranking_EOS_Completed": 222,
-  "Ranking_EOS_NewPlayers": 266,
+  "Ranking_EOS_NewPlayers": 263,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 537,
+  "EOS_Progressed": 538,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.56,
   "EosHistory": [
@@ -2099,6 +2099,11 @@
       "Time": "2024-01-21T00:07:31.2552895+00:00",
       "NumProgressed": 537,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T03:05:32.3059452+00:00",
+      "NumProgressed": 538,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2135,7 +2140,7 @@
       "Name": "Cookbook",
       "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_ALL_TOYS",
@@ -2167,7 +2172,7 @@
       "Name": "Gambler",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -2183,7 +2188,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 279
+      "UsersEstimate": 280
     },
     {
       "ID": "AC_BOSS_01",
@@ -2215,7 +2220,7 @@
       "Name": "Heresy",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "AC_COMBO_1",
@@ -2231,7 +2236,7 @@
       "Name": "Flock",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_COMBO_3",
@@ -2255,7 +2260,7 @@
       "Name": "Corpse",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 194
     },
     {
       "ID": "AC_DEATH_2",
@@ -2263,7 +2268,7 @@
       "Name": "Carcass",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "AC_DEATH_3",
@@ -2295,7 +2300,7 @@
       "Name": "Genocide",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 107
+      "UsersEstimate": 108
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -2327,7 +2332,7 @@
       "Name": "Player",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "AC_FLASHBACK_01",
@@ -2383,7 +2388,7 @@
       "Name": "Gun",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "AC_RECIPES_DONE_1",
@@ -2431,7 +2436,7 @@
       "Name": "Crosshair",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "AC_UZI_MAX",
@@ -2446,14 +2451,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 537,
+      "Progressed": 538,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:05:35.1782414+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:05:32.3059445+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:56:07.8013835+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:05:35.1782852+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:57:49.4814598+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:05:32.3059813+00:00"
 }

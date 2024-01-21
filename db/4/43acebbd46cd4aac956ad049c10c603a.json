@@ -4722,9 +4722,9 @@
       "ID": "TheWordEndures",
       "SetID": "1n308hc",
       "Name": "The Word Endures",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 582
+      "UsersEstimate": 597
     },
     {
       "ID": "TouchGrass",
@@ -4795,8 +4795,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-18T22:01:32.7392384+00:00",
-  "LastChanged_Achievements": "2024-01-21T02:02:17.1268941+00:00",
+  "LastChanged_Achievements": "2024-01-21T03:03:17.429789+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:55:59.0249441+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:02:17.1269841+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:57:43.2635773+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:03:17.4298528+00:00"
 }

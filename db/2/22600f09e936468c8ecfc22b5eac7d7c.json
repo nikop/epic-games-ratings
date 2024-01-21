@@ -2,7 +2,7 @@
   "ID": "22600f09e936468c8ecfc22b5eac7d7c",
   "Name": "Prince of Persia The Lost Crown",
   "ProductSlug": "prince-of-persia-the-lost-crown",
-  "Ranking_Rating": 111,
+  "Ranking_Rating": 99,
   "Ranking_Popularity": 564,
   "Ranking_PopularitySum": 571,
   "Ranking_EOS_Progress": 845,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.78,
+  "Rating": 4.79,
   "RatingHistory": [
     {
       "Time": "2024-01-19T10:59:44.5935854+00:00",
@@ -61,6 +61,12 @@
       "Rating": 4.78,
       "NumberOfAwards": 23,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-01-21T02:59:33.5553662+00:00",
+      "Rating": 4.79,
+      "NumberOfAwards": 23,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
@@ -87,8 +93,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-18T05:58:12.1267938+00:00",
   "FirstSeenRating": "2024-01-19T10:59:44.5935852+00:00",
-  "LastChanged": "2024-01-20T16:59:33.5169247+00:00",
+  "LastChanged": "2024-01-21T02:59:33.5553661+00:00",
   "LastUpdate_AppInfo": "2024-01-16T10:56:56.7768068+00:00",
-  "LastUpdate_Ratings": "2024-01-21T01:58:46.8532022+00:00",
-  "LastUpdate_Achievements": "2024-01-21T02:04:11.2179339+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:59:33.555367+00:00",
+  "LastUpdate_Achievements": "2024-01-21T03:04:34.4981+00:00"
 }
