@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 196,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1143,
+  "EOS_Progressed": 1146,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 131,
+  "EOS_NewPlayers": 132,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -3183,6 +3183,11 @@
       "Time": "2024-01-21T13:09:12.3303186+00:00",
       "NumProgressed": 1143,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T15:06:28.1352273+00:00",
+      "NumProgressed": 1146,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3203,7 +3208,7 @@
       "Name": "Are you ready now?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_CHUM_BUCKET_BRAIN",
@@ -3267,7 +3272,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 194
+      "UsersEstimate": 195
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3275,7 +3280,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 251
+      "UsersEstimate": 252
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3291,7 +3296,7 @@
       "Name": "Keep it Rolling",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -3299,7 +3304,7 @@
       "Name": "Shrimp Catcher",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_ROBO_PATRICK_BOSS",
@@ -3331,7 +3336,7 @@
       "Name": "Hit Rock Bottom",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "ACH_SLEEPY_TIME",
@@ -3371,7 +3376,7 @@
       "Name": "Super Spatula Seeker",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_STAT_50_SPATULA_SEEKER",
@@ -3403,7 +3408,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3411,7 +3416,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 263
+      "UsersEstimate": 264
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3435,7 +3440,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 137
+      "UsersEstimate": 138
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -3450,15 +3455,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1143,
+      "Progressed": 1146,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:05:01.7127867+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:06:28.1352271+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:59:32.4031507+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:05:01.7128245+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:00:51.4255613+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:06:28.1352764+00:00"
 }

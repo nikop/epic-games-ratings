@@ -12,8 +12,8 @@
 | An old friend | 58.00% | ~68 |
 | A curious gathering | 55.00% | ~65 |
 | Little grey cells | 54.00% | ~64 |
-| Impossible is possible | 53.00% | ~63 |
-| Arthur Hastings | 53.00% | ~63 |
+| Impossible is possible | 54.00% | ~64 |
+| Arthur Hastings | 54.00% | ~64 |
 | The Missing Magdalene | 52.00% | ~61 |
 | Everything matters | 47.00% | ~55 |
 | DI Hardwicke | 47.00% | ~55 |

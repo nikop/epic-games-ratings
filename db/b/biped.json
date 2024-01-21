@@ -4,8 +4,8 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 166,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 167,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
     "PcReleaseDate": "2020-03-26T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10665,
+  "EOS_Progressed": 10668,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17479,6 +17479,11 @@
       "Time": "2024-01-21T13:12:15.4512564+00:00",
       "NumProgressed": 10665,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T15:04:04.7084821+00:00",
+      "NumProgressed": 10668,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17490,7 +17495,7 @@
       "Name": "First Step",
       "Percentage": 37,
       "XP": 45,
-      "UsersEstimate": 3946
+      "UsersEstimate": 3947
     },
     {
       "ID": "10",
@@ -17546,7 +17551,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3093
+      "UsersEstimate": 3094
     },
     {
       "ID": "3",
@@ -17609,7 +17614,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10665,
+      "Progressed": 10668,
       "Completed": 0
     }
   ],
@@ -17617,8 +17622,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:12:15.4512563+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:04:04.7084817+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.2707916+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:57:22.3836655+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:12:15.4513656+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:57:33.5944266+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:04:04.7086136+00:00"
 }

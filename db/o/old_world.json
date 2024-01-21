@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17063,
+  "EOS_Progressed": 17065,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 285,
+  "EOS_NewPlayers": 280,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20694,6 +20694,11 @@
       "Time": "2024-01-21T14:10:11.3863645+00:00",
       "NumProgressed": 17063,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T15:11:18.8240713+00:00",
+      "NumProgressed": 17065,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21471,9 +21476,9 @@
       "ID": "ACHIEVEMENT_DIFFICULTY_JUST",
       "SetID": "7l38kb8",
       "Name": "Just Difficulty",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 171
+      "UsersEstimate": 341
     },
     {
       "ID": "ACHIEVEMENT_DIFFICULTY_MAGNIFICENT",
@@ -22151,9 +22156,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_ORACLE",
       "SetID": "9201eeb",
       "Name": "Oracle",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 512
+      "UsersEstimate": 683
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PANTHEON",
@@ -22247,9 +22252,9 @@
       "ID": "ACHIEVEMENT_LEARNTOPLAY_4",
       "SetID": "7l38kb8",
       "Name": "Learn to Play 4",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_LEARNTOPLAY_5",
@@ -22375,9 +22380,9 @@
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 102
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -23263,17 +23268,17 @@
       "ID": "ACHIEVEMENT_EGYPT4_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Ramesses II The Great",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Qadesh Victory",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT4_RAMESSES_DEFEAT",
@@ -23568,21 +23573,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17063,
+      "Progressed": 17065,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17063,
+      "Progressed": 17065,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:10:11.3863643+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:11:18.8240711+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:57:53.4431309+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:10:11.3873884+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:58:20.9660722+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:11:18.8250901+00:00"
 }

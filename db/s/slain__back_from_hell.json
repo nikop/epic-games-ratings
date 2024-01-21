@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 337,
-  "Ranking_EOS_NewPlayers": 131,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 130,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,7 +262,7 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44611,
+  "EOS_Progressed": 44613,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 428,
   "EOS_NewCompleters": 0,
@@ -30237,6 +30237,11 @@
       "Time": "2024-01-21T14:03:34.0068977+00:00",
       "NumProgressed": 44611,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-21T15:04:22.7229213+00:00",
+      "NumProgressed": 44613,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30256,7 +30261,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9368
+      "UsersEstimate": 9369
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -30280,7 +30285,7 @@
       "Name": "Sure Footed As A Goat",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_07_BLOODTOWER_NO_HOUND_DAMAGE",
@@ -30296,7 +30301,7 @@
       "Name": "Backdoor Man",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "ACH_09_HIGHLANDS_NO_FLAME_KILLS",
@@ -30392,7 +30397,7 @@
       "Name": "Kill \u0027Em All",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 1784
+      "UsersEstimate": 1785
     },
     {
       "ID": "ACH_21_CRITICAL_STRIKES",
@@ -30479,7 +30484,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44611,
+      "Progressed": 44613,
       "Completed": 30
     }
   ],
@@ -30487,8 +30492,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:03:34.0068973+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:04:22.7229211+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.0073516+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:02:53.4660385+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:03:34.0070872+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:03:21.1217314+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:04:22.7230868+00:00"
 }

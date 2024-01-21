@@ -4,8 +4,8 @@
   "ProductSlug": "foretales-d6c5bd",
   "Ranking_EOS_Progress": 408,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 421,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2022-09-15T13:00:00+00:00",
     "PcReleaseDate": "2022-09-15T13:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 302,
+  "EOS_Progressed": 303,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -300,6 +300,11 @@
       "Time": "2024-01-19T22:06:13.4239915+00:00",
       "NumProgressed": 302,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T15:04:07.2412436+00:00",
+      "NumProgressed": 303,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 41,
@@ -349,9 +354,9 @@
       "ID": "chapter3",
       "SetID": "5bkacmp",
       "Name": "Is this the end?",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 73
     },
     {
       "ID": "darkAndStinky",
@@ -407,7 +412,7 @@
       "Name": "Gotcha",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "iDareYou",
@@ -503,15 +508,15 @@
       "Name": "Say hello to my little friends",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "sneakInSneakOut",
       "SetID": "5bkacmp",
       "Name": "Sneak in, sneak out",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 76
+      "UsersEstimate": 73
     },
     {
       "ID": "stronk",
@@ -557,9 +562,9 @@
       "ID": "theHealer",
       "SetID": "5bkacmp",
       "Name": "Heal thyself",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "theMediumPlace",
@@ -599,7 +604,7 @@
       "Name": "Caged tiger",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "theUnionLeader",
@@ -607,7 +612,7 @@
       "Name": "Gorilla warfare",
       "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 175
+      "UsersEstimate": 176
     },
     {
       "ID": "trialByCombat",
@@ -631,14 +636,14 @@
       "Name": "You sssaved me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     }
   ],
   "AchievementSets": [
     {
       "ID": "5bkacmp",
       "IsBase": true,
-      "Progressed": 302,
+      "Progressed": 303,
       "Completed": 0
     }
   ],
@@ -646,8 +651,8 @@
   "FirstSeenRating": "2023-03-31T05:57:28.0245429+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.9795214+00:00",
   "LastChanged": "2023-03-31T05:57:28.024543+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:03:22.9624752+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:04:07.2412435+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.0496671+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:59:53.1476887+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:03:22.9625735+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:01:21.4913631+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:04:07.2412718+00:00"
 }

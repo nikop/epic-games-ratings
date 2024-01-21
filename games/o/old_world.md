@@ -14,6 +14,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Architect | 4.00% | ~683 |
 | Intrepid | 4.00% | ~683 |
 | Hanging Gardens | 4.00% | ~683 |
+| Oracle | 4.00% | ~683 |
 | Ambitious | 3.00% | ~512 |
 | Enlightened | 3.00% | ~512 |
 | Glorious | 3.00% | ~512 |
@@ -28,7 +29,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Warrior | 3.00% | ~512 |
 | Developing Cities | 3.00% | ~512 |
 | Strong Cities | 3.00% | ~512 |
-| Oracle | 3.00% | ~512 |
 | Pyramids | 3.00% | ~512 |
 | Learn to Play 1 | 3.00% | ~512 |
 | Judaism | 3.00% | ~512 |
@@ -45,6 +45,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Wise | 2.00% | ~341 |
 | Legendary Cities | 2.00% | ~341 |
 | Able Difficulty | 2.00% | ~341 |
+| Just Difficulty | 2.00% | ~341 |
 | Furious Family | 2.00% | ~341 |
 | Acropolis | 2.00% | ~341 |
 | Apadana | 2.00% | ~341 |
@@ -70,7 +71,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Valiant | 1.00% | ~171 |
 | Victorious | 1.00% | ~171 |
 | Good Difficulty | 1.00% | ~171 |
-| Just Difficulty | 1.00% | ~171 |
 | Artisans | 1.00% | ~171 |
 | Champions | 1.00% | ~171 |
 | Patrons | 1.00% | ~171 |
@@ -96,6 +96,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.90% | ~154 |
 | Pantheon | 0.90% | ~154 |
 | Via Recta Souk | 0.90% | ~154 |
+| Learn to Play 4 | 0.90% | ~154 |
 | Military Prestige | 0.90% | ~154 |
 | Legalism | 0.90% | ~154 |
 | Legionary | 0.90% | ~154 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ready | 0.80% | ~137 |
 | Subjugator | 0.80% | ~137 |
 | Riders | 0.80% | ~137 |
-| Learn to Play 4 | 0.80% | ~137 |
 | Assyrian Paganism | 0.80% | ~137 |
 | Industrial Progress | 0.80% | ~137 |
 | Gnosticism | 0.80% | ~137 |
@@ -134,6 +134,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Adur Burzen-Mihr | 0.60% | ~102 |
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
+| One True Faith | 0.60% | ~102 |
 | Turreted Elephant | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
 | Deposed Tribe | 0.60% | ~102 |
@@ -142,7 +143,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.50% | ~85 |
 | Learn to Play 5 | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
-| One True Faith | 0.50% | ~85 |
 | No Undo | 0.50% | ~85 |
 | Poetic Leader | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
@@ -319,6 +319,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Destruction at Qadesh | 0.10% | ~17 |
 | Ramesses II The Great | 0.10% | ~17 |
 | Qadesh Victory | 0.10% | ~17 |
+| Pharaonic Ramesses II The Great | 0.10% | ~17 |
+| Pharaonic Qadesh Victory | 0.10% | ~17 |
 | Ramesses II KIA | 0.10% | ~17 |
 | Lost the Hearts of Kmt | 0.10% | ~17 |
 | Won the Hearts of Kmt | 0.10% | ~17 |
@@ -349,8 +351,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Worst Pharaoh Ever | 0.00% | ~0 |
 | Failed the Aten | 0.00% | ~0 |
 | Muwatalli II KIA | 0.00% | ~0 |
-| Pharaonic Ramesses II The Great | 0.00% | ~0 |
-| Pharaonic Qadesh Victory | 0.00% | ~0 |
 | Split the Army | 0.00% | ~0 |
 | The Neter Collapsed | 0.00% | ~0 |
 | Won the Pharaonic Hearts of Kmt | 0.00% | ~0 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,063 (Ranked 170)  
+Progressed: 17,065 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,063 | 5 |
+| 2024-01-21 | 17,065 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

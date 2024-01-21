@@ -1074,7 +1074,7 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16615,
+  "EOS_Progressed": 16616,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 218,
   "EOS_NewCompleters": 11,
@@ -18749,6 +18749,11 @@
       "Time": "2024-01-21T14:09:52.0153091+00:00",
       "NumProgressed": 16615,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-21T15:10:54.5428816+00:00",
+      "NumProgressed": 16616,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18806,9 +18811,9 @@
       "ID": "ACH07",
       "SetID": "9llo822",
       "Name": "High Quality H2O",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 45,
-      "UsersEstimate": 498
+      "UsersEstimate": 665
     },
     {
       "ID": "ACH08",
@@ -18864,7 +18869,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7144
+      "UsersEstimate": 7145
     },
     {
       "ID": "ACH15",
@@ -18920,7 +18925,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7809
+      "UsersEstimate": 7810
     },
     {
       "ID": "ACH22",
@@ -18944,7 +18949,7 @@
       "Name": "Big Heat from Little Havana",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACH25",
@@ -18952,7 +18957,7 @@
       "Name": "Chauffeur",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACH26",
@@ -18960,7 +18965,7 @@
       "Name": "Tommy Two-Wheels",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2658
+      "UsersEstimate": 2659
     },
     {
       "ID": "ACH27",
@@ -19031,7 +19036,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16615,
+      "Progressed": 16616,
       "Completed": 109
     }
   ],
@@ -19039,8 +19044,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:09:52.0153088+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:10:54.5428814+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:59:58.5466915+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:09:52.0154235+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:01:30.5025563+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:10:54.5429887+00:00"
 }

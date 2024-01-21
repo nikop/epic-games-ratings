@@ -28,8 +28,8 @@
 | Medicine Tycoon | 5.00% | ~15 |
 | Tear Down the Wall! | 4.00% | ~12 |
 | Outdoor Decorator | 4.00% | ~12 |
+| Vive le Résistance | 4.00% | ~12 |
 | Supersoldier | 3.00% | ~9 |
-| Vive le Résistance | 3.00% | ~9 |
 | No News is Good News | 3.00% | ~9 |
 | Human Resources | 3.00% | ~9 |
 | Training Camp | 3.00% | ~9 |

@@ -4,8 +4,8 @@
   "ProductSlug": "carsick-carventure-d216ba",
   "Ranking_EOS_Progress": 317,
   "Ranking_EOS_Completed": 57,
-  "Ranking_EOS_NewPlayers": 210,
-  "Ranking_EOS_NewCompleters": 38,
+  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-12-07T14:52:25.231+00:00",
     "PcReleaseDate": "2023-12-07T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 836,
-  "EOS_Completed": 60,
-  "EOS_NewPlayers": 73,
-  "EOS_NewCompleters": 8,
-  "EOS_Completed_Percentage": 7.18,
+  "EOS_Progressed": 837,
+  "EOS_Completed": 61,
+  "EOS_NewPlayers": 74,
+  "EOS_NewCompleters": 9,
+  "EOS_Completed_Percentage": 7.29,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -2774,6 +2774,11 @@
       "Time": "2024-01-21T13:09:37.1417591+00:00",
       "NumProgressed": 836,
       "NumCompleted": 60
+    },
+    {
+      "Time": "2024-01-21T15:07:00.560518+00:00",
+      "NumProgressed": 837,
+      "NumCompleted": 61
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -2818,21 +2823,21 @@
       "Name": "200 Score",
       "Percentage": 76,
       "XP": 200,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 836,
-      "Completed": 60
+      "Progressed": 837,
+      "Completed": 61
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:05:24.2091663+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:07:00.5605178+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.29709+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:59:33.624207+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:05:24.2091859+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:00:53.4852124+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:07:00.5605356+00:00"
 }

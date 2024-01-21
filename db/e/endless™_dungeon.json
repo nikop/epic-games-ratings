@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1591,
+  "EOS_Progressed": 1592,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -3665,6 +3665,11 @@
       "Time": "2024-01-21T14:03:42.1882599+00:00",
       "NumProgressed": 1591,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T15:04:34.7812695+00:00",
+      "NumProgressed": 1592,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3733,7 +3738,7 @@
       "Name": "Pest Control",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 461
+      "UsersEstimate": 462
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3749,7 +3754,7 @@
       "Name": "What\u0027s Behind Every Door?",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR",
@@ -3757,7 +3762,7 @@
       "Name": "Leap Before You Look",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 1082
+      "UsersEstimate": 1083
     },
     {
       "ID": "ACHIEVEMENT_FINISH_FIRST_FLOOR_ALL_DISTRICTS",
@@ -3773,7 +3778,7 @@
       "Name": "Getting the Hang of It",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 668
+      "UsersEstimate": 669
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3853,7 +3858,7 @@
       "Name": "Long Live Rock",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACHIEVEMENT_ROOKY_WIN",
@@ -3916,14 +3921,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1591,
+      "Progressed": 1592,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:03:42.1882596+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:04:34.7812691+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.4867882+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:00:33.284668+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:03:42.18829+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:02:53.2162705+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:04:34.7813103+00:00"
 }

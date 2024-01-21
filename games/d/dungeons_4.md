@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.73 (Ranked 183)  
+Rating: 4.73 (Ranked 184)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -19,11 +19,11 @@ Rating: 4.73 (Ranked 183)
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~484 |
 | The Ascent | 60.00% | ~469 |
 | It's Warm and Cozy at Home | 60.00% | ~469 |
-| Magic Accidents | 58.00% | ~453 |
+| Magic Accidents | 59.00% | ~461 |
 | Trap Master | 56.00% | ~437 |
+| Hard Work | 56.00% | ~437 |
 | The Big Eaty | 56.00% | ~437 |
 | Minions, Minions! | 55.00% | ~430 |
-| Hard Work | 55.00% | ~430 |
 | “… like son” | 54.00% | ~422 |
 | YOU SHALL NOT PASS! | 50.00% | ~390 |
 | The Cathedral of Light | 50.00% | ~390 |

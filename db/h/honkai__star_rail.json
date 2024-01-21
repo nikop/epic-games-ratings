@@ -2,13 +2,13 @@
   "ID": "a2dcbb9e34204bda9da8415f97b3f4ea",
   "Name": "Honkai: Star Rail",
   "ProductSlug": "honkai-star-rail",
-  "Ranking_Rating": 183,
+  "Ranking_Rating": 184,
   "Ranking_Popularity": 18,
   "Ranking_PopularitySum": 15,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2023-04-26T00:30:00+00:00",
     "PcReleaseDate": "2023-04-26T00:30:00+00:00",
@@ -10717,10 +10717,16 @@
       "Rating": 4.73,
       "NumberOfAwards": 121317,
       "NumberOfAwardsMax": 29468
+    },
+    {
+      "Time": "2024-01-21T14:58:14.9716504+00:00",
+      "Rating": 4.73,
+      "NumberOfAwards": 121417,
+      "NumberOfAwardsMax": 29468
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 121317,
+  "NumberOfAwards": 121417,
   "NumberOfAwardsMax": 29468,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10740,13 +10746,13 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 8224
+      "Count": 8259
     },
     {
       "Text": "This game is Great for Quick Sessions",
       "Prefix": "This game is",
       "Type": "Great for Quick Sessions",
-      "Count": 11996
+      "Count": 12061
     },
     {
       "Text": "This game has Diverse Characters",
@@ -10809,8 +10815,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-04-26T04:02:27.1386143+00:00",
   "FirstSeenRating": "2023-04-26T04:02:27.1386204+00:00",
-  "LastChanged": "2024-01-21T09:57:48.3019011+00:00",
+  "LastChanged": "2024-01-21T14:58:14.9716503+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.6719021+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:57:48.5985328+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:05:24.686556+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:58:14.9716508+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:07:01.2545625+00:00"
 }

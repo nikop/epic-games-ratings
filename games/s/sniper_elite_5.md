@@ -9,16 +9,16 @@ Rating: 4.48 (Ranked 662)
 | Confirming Suspicions | 42.00% | ~1,816 |
 | The Kraken Wakes | 38.00% | ~1,643 |
 | It's Starting to Crack | 35.00% | ~1,513 |
-| Change the Channel | 32.00% | ~1,383 |
+| Change the Channel | 32.00% | ~1,384 |
 | Lord of War | 31.00% | ~1,340 |
 | Taking it back | 30.00% | ~1,297 |
-| Resourceful | 28.00% | ~1,210 |
-| Target America | 28.00% | ~1,210 |
+| Resourceful | 28.00% | ~1,211 |
+| Target America | 28.00% | ~1,211 |
 | The Kraken Sleeps | 26.00% | ~1,124 |
 | Liberté | 24.00% | ~1,038 |
 | Organ Grinder | 24.00% | ~1,038 |
 | As Quiet as a Mouse | 24.00% | ~1,038 |
-| Sharpshooter | 23.00% | ~994 |
+| Sharpshooter | 23.00% | ~995 |
 | Gunslinger | 20.00% | ~865 |
 | Explosive Efficiency | 20.00% | ~865 |
 | Climbing the Ladder | 17.00% | ~735 |
@@ -28,9 +28,9 @@ Rating: 4.48 (Ranked 662)
 | Close Quarters | 16.00% | ~692 |
 | Snake in the Grass | 16.00% | ~692 |
 | Brains of the Operation | 16.00% | ~692 |
-| No Stone Unturned | 15.00% | ~648 |
-| Fields of Glory | 15.00% | ~648 |
-| Die Nussknacker Sweet! | 15.00% | ~648 |
+| No Stone Unturned | 15.00% | ~649 |
+| Fields of Glory | 15.00% | ~649 |
+| Die Nussknacker Sweet! | 15.00% | ~649 |
 | Opposing Force | 14.00% | ~605 |
 | Enemy at the Gates | 14.00% | ~605 |
 | Set Europe Ablaze | 14.00% | ~605 |
@@ -60,10 +60,10 @@ Rating: 4.48 (Ranked 662)
 | Eagle Eyed | 2.00% | ~86 |
 | Up close and personal | 2.00% | ~86 |
 | Can't Outrun A Bullet | 2.00% | ~86 |
-| Führerious Repetition | 2.00% | ~85 |
-| Reich To The Point | 2.00% | ~85 |
-| Covert Elimination | 2.00% | ~85 |
-| Sink or Swim | 2.00% | ~85 |
+| Führerious Repetition | 2.00% | ~86 |
+| Reich To The Point | 2.00% | ~86 |
+| Covert Elimination | 2.00% | ~86 |
+| Sink or Swim | 2.00% | ~86 |
 | Best of the Best | 1.00% | ~43 |
 | Sight Beyond Sights | 1.00% | ~43 |
 | From Führer Away | 1.00% | ~43 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,323 (Ranked 217)  
+Progressed: 4,324 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 11 (0.25%) (Ranked 275)
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,306 | 11 |
 | 2024-01-20 | 4,317 | 11 |
-| 2024-01-21 | 4,323 | 11 |
+| 2024-01-21 | 4,324 | 11 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 528)  
 Sum: 30 (Ranked 550)  

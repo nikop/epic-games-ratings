@@ -15,9 +15,9 @@ Rating: 4.66 (Ranked 306)
 | No, Thanks! | 27.00% | ~364 |
 | The Prince in Heels | 27.00% | ~364 |
 | Honest Mistake | 27.00% | ~364 |
+| Immaculate Aim | 27.00% | ~364 |
 | The Harder They Fall | 26.00% | ~351 |
 | Fast Learner | 26.00% | ~351 |
-| Immaculate Aim | 26.00% | ~351 |
 | The Steel Shadow | 25.00% | ~337 |
 | Breaking Down Barriers | 24.00% | ~324 |
 | The Wicked Twins | 24.00% | ~324 |
@@ -35,10 +35,10 @@ Rating: 4.66 (Ranked 306)
 | Family Memories | 14.00% | ~189 |
 | Ask Questions Later | 14.00% | ~189 |
 | Chaincrawler Explorer | 13.00% | ~175 |
+| Sump Explorer | 13.00% | ~175 |
 | Syron for Hope | 13.00% | ~175 |
 | Treasure Trove | 12.00% | ~162 |
 | Cartographer | 12.00% | ~162 |
-| Sump Explorer | 12.00% | ~162 |
 | Factorywood Explorer | 11.00% | ~148 |
 | Theater Explorer | 11.00% | ~148 |
 | Cultivair Explorer | 10.00% | ~135 |

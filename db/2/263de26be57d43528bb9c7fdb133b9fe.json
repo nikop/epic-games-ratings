@@ -4,8 +4,8 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 547,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 66,
+  "Ranking_EOS_NewPlayers": 224,
+  "Ranking_EOS_NewCompleters": 67,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
     "PcReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -244,9 +244,9 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 27,
+      "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BOSS_3",
@@ -395,8 +395,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:05:14.4727975+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:06:46.1769863+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:59:24.5615727+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:05:14.4728113+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:00:39.6308817+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:06:46.1770041+00:00"
 }

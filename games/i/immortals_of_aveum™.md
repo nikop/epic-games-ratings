@@ -5,10 +5,10 @@ Rating: 4.20 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,167 |
+| Unforeseen | 89.00% | ~3,168 |
 | Battlefields Have Memories | 82.00% | ~2,918 |
-| Enlisted | 76.00% | ~2,704 |
-| Maybe Engage a Little | 71.00% | ~2,526 |
+| Enlisted | 76.00% | ~2,705 |
+| Maybe Engage a Little | 71.00% | ~2,527 |
 | No More Names | 55.00% | ~1,957 |
 | Initiate | 41.00% | ~1,459 |
 | Thrada-Kul | 38.00% | ~1,352 |
@@ -20,8 +20,8 @@ Rating: 4.20 (Ranked 971)
 | Control is an Illusion | 24.00% | ~854 |
 | The Means to Save It | 21.00% | ~747 |
 | Resilience to Sin | 19.00% | ~676 |
-| A Familiar Nest | 18.00% | ~640 |
-| Periapt Alizarin | 18.00% | ~640 |
+| A Familiar Nest | 18.00% | ~641 |
+| Periapt Alizarin | 18.00% | ~641 |
 | Geas Aristeya | 17.00% | ~605 |
 | A Perfect Cycle | 16.00% | ~569 |
 | Recruit | 16.00% | ~569 |
@@ -32,7 +32,7 @@ Rating: 4.20 (Ranked 971)
 | Periapt Viridian | 8.00% | ~285 |
 | Best Dressed | 7.00% | ~249 |
 | Shroudfane Explorer | 7.00% | ~249 |
-| Kitted Out | 6.00% | ~213 |
+| Kitted Out | 6.00% | ~214 |
 | Armaments Azure | 5.00% | ~178 |
 | Armaments Gules | 5.00% | ~178 |
 | Scholar | 4.00% | ~142 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 971)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,558 (Ranked 230)  
+Progressed: 3,559 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
-| 2024-01-21 | 3,558 | 5 |
+| 2024-01-21 | 3,559 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 564)  
 Sum: 43 (Ranked 524)  

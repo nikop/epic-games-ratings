@@ -6,18 +6,18 @@ Number of Ratings: 180  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First line | 74.00% | ~1,853 |
+| First line | 74.00% | ~1,854 |
 | First cargo item waiting | 68.00% | ~1,703 |
 | First cargo item on board | 67.00% | ~1,678 |
 | First bus stop | 66.00% | ~1,653 |
 | First passenger on board | 63.00% | ~1,578 |
 | First passenger waiting | 63.00% | ~1,578 |
-| First bus arrived | 62.00% | ~1,552 |
-| First train station | 60.00% | ~1,502 |
-| First steam train arrived | 57.00% | ~1,427 |
-| Cadet | 53.00% | ~1,327 |
-| First industry upgraded | 53.00% | ~1,327 |
-| Transport millionaire | 51.00% | ~1,277 |
+| First bus arrived | 62.00% | ~1,553 |
+| First train station | 60.00% | ~1,503 |
+| First steam train arrived | 56.00% | ~1,403 |
+| Cadet | 53.00% | ~1,328 |
+| First industry upgraded | 53.00% | ~1,328 |
+| Transport millionaire | 51.00% | ~1,278 |
 | Transport master | 49.00% | ~1,227 |
 | Cargo hub | 49.00% | ~1,227 |
 | Sculpturer | 46.00% | ~1,152 |
@@ -29,8 +29,8 @@ Number of Ratings: 180  (23.09.2022)
 | High speed | 39.00% | ~977 |
 | Transport shark | 38.00% | ~952 |
 | First aircraft arrived | 38.00% | ~952 |
-| Mass production | 33.00% | ~826 |
-| Aircraft entrepreneur | 30.00% | ~751 |
+| Mass production | 33.00% | ~827 |
+| Aircraft entrepreneur | 30.00% | ~752 |
 | Crowd in a train | 28.00% | ~701 |
 | The future is now, old man | 28.00% | ~701 |
 | Not in my backyard | 27.00% | ~676 |
@@ -68,7 +68,7 @@ Number of Ratings: 180  (23.09.2022)
 | Glacier express | 0.20% | ~5 |
 | Museum line | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,504 (Ranked 244)  
+Progressed: 2,505 (Ranked 244)  
 Completed: 1 (0.04%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 1 (0.04%) (Ranked 358)
 | 2024-01-18 | 2,490 | 1 |
 | 2024-01-19 | 2,497 | 1 |
 | 2024-01-20 | 2,500 | 1 |
-| 2024-01-21 | 2,504 | 1 |
+| 2024-01-21 | 2,505 | 1 |
 ## Awards
 Max (Great for Beginners): 50  (Ranked 465)  
 Sum: 333 (Ranked 374)  

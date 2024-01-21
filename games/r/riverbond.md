@@ -7,8 +7,8 @@ Number of Ratings: 617  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First Step | 70.00% | ~375,276 |
-| Now You're Talking | 62.00% | ~332,387 |
-| Steel Yourself | 62.00% | ~332,387 |
+| Now You're Talking | 62.00% | ~332,388 |
+| Steel Yourself | 62.00% | ~332,388 |
 | Window Dressing | 50.00% | ~268,054 |
 | Trigger Happy | 46.00% | ~246,610 |
 | Riverborn | 45.00% | ~241,249 |
@@ -19,7 +19,7 @@ Number of Ratings: 617  (23.09.2022)
 | Hello Darkness | 23.00% | ~123,305 |
 | Wind At Our Backs | 22.00% | ~117,944 |
 | To the Beat | 20.00% | ~107,222 |
-| Sunny Shores | 17.00% | ~91,138 |
+| Sunny Shores | 17.00% | ~91,139 |
 | Sunday Best | 16.00% | ~85,777 |
 | To Victory! | 15.00% | ~80,416 |
 | Two of a Kind | 14.00% | ~75,055 |
@@ -33,13 +33,13 @@ Number of Ratings: 617  (23.09.2022)
 | Under the Radar | 8.00% | ~42,889 |
 | Partner in Crime | 7.00% | ~37,528 |
 | Hard to Hear | 7.00% | ~37,528 |
-| Moving On Up | 6.00% | ~32,166 |
-| Owl Knows Best | 6.00% | ~32,166 |
-| Mind the Moose | 6.00% | ~32,166 |
-| Oh, Romeo! | 6.00% | ~32,166 |
-| Dressed to Kill | 6.00% | ~32,166 |
-| Beast Mode | 6.00% | ~32,166 |
-| Slime Slayer | 6.00% | ~32,166 |
+| Moving On Up | 6.00% | ~32,167 |
+| Owl Knows Best | 6.00% | ~32,167 |
+| Mind the Moose | 6.00% | ~32,167 |
+| Oh, Romeo! | 6.00% | ~32,167 |
+| Dressed to Kill | 6.00% | ~32,167 |
+| Beast Mode | 6.00% | ~32,167 |
+| Slime Slayer | 6.00% | ~32,167 |
 | Noble Intentions | 5.00% | ~26,805 |
 | Rising Star | 5.00% | ~26,805 |
 | Privacy, Please! | 4.00% | ~21,444 |
@@ -64,7 +64,7 @@ Number of Ratings: 617  (23.09.2022)
 | Boss of All Bosses | 0.30% | ~1,608 |
 | Point Taken | 0.20% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,108 (Ranked 38)  
+Progressed: 536,109 (Ranked 38)  
 Completed: 525 (0.10%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 525 (0.10%) (Ranked 319)
 | 2024-01-18 | 535,876 | 523 |
 | 2024-01-19 | 535,952 | 524 |
 | 2024-01-20 | 536,055 | 524 |
-| 2024-01-21 | 536,108 | 525 |
+| 2024-01-21 | 536,109 | 525 |
 ## Awards
 Max (Relaxing): 22  (Ranked 570)  
 Sum: 22 (Ranked 575)  

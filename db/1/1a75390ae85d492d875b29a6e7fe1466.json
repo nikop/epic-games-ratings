@@ -4,8 +4,8 @@
   "ProductSlug": "intravenous-caf301",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 555,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewCompleters": 153,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2021-07-25T22:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-16T23:56:55.5725865+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:59:13.3267876+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:05:20.6141729+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:00:22.2447983+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:06:55.6352871+00:00"
 }

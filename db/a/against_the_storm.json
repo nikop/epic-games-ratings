@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 3860,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4043,9 +4043,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20943,
+  "EOS_Progressed": 20945,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20233,6 +20233,11 @@
       "Time": "2024-01-21T14:08:30.6208439+00:00",
       "NumProgressed": 20943,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-21T15:09:00.1358573+00:00",
+      "NumProgressed": 20945,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20341,7 +20346,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "WinImpossible",
@@ -20509,7 +20514,7 @@
       "Name": "Coral Forest",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "WinOnCursed",
@@ -20525,7 +20530,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1675
+      "UsersEstimate": 1676
     },
     {
       "ID": "WinOnMoorlands",
@@ -20716,15 +20721,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20943,
+      "Progressed": 20945,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-21T04:03:34.3718503+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:08:30.6208436+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:09:00.1358572+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:57:04.9400988+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:08:30.6209614+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:57:05.6866363+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:09:00.1359652+00:00"
 }

@@ -4,25 +4,25 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Proving Your Skills | 92.00% | ~184 |
+| Proving Your Skills | 92.00% | ~185 |
 | Bakery Startup | 44.00% | ~88 |
 | Apprentice Baker | 35.00% | ~70 |
 | The Kitchen Is On Fire | 33.00% | ~66 |
 | Perfect Server | 16.00% | ~32 |
 | Adept Baker | 13.00% | ~26 |
-| Verdant Greenhouse | 11.00% | ~22 |
-| Luxury Kitchen | 11.00% | ~22 |
-| Bustling Store | 11.00% | ~22 |
 | Expert Baker | 10.00% | ~20 |
+| Verdant Greenhouse | 10.00% | ~20 |
+| Luxury Kitchen | 10.00% | ~20 |
+| Bustling Store | 10.00% | ~20 |
 | Gotta Go Fast | 9.00% | ~18 |
-| Swing The Broom | 8.00% | ~16 |
 | Master Baker | 7.00% | ~14 |
-| The Famous Lemon Cake | 7.00% | ~14 |
+| Swing The Broom | 7.00% | ~14 |
 | Bakery Business | 6.00% | ~12 |
-| Bakery Empire | 6.00% | ~12 |
+| The Famous Lemon Cake | 6.00% | ~12 |
 | A Loving Home | 6.00% | ~12 |
+| Bakery Empire | 5.00% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 200 (Ranked 436)  
+Progressed: 201 (Ranked 436)  
 Completed: 2 (1.00%) (Ranked 183)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 2 (1.00%) (Ranked 183)
 | 2024-01-13 | 196 | 2 |
 | 2024-01-16 | 197 | 2 |
 | 2024-01-20 | 199 | 2 |
-| 2024-01-21 | 200 | 2 |
+| 2024-01-21 | 201 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

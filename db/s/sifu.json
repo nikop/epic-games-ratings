@@ -9159,9 +9159,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762201,
+  "EOS_Progressed": 762219,
   "EOS_Completed": 13002,
-  "EOS_NewPlayers": 1526,
+  "EOS_NewPlayers": 1513,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34744,6 +34744,11 @@
       "Time": "2024-01-21T14:09:35.1768095+00:00",
       "NumProgressed": 762201,
       "NumCompleted": 13002
+    },
+    {
+      "Time": "2024-01-21T15:10:31.0232739+00:00",
+      "NumProgressed": 762219,
+      "NumCompleted": 13002
     }
   ],
   "TotalAchievements": 60,
@@ -34755,7 +34760,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45732
+      "UsersEstimate": 45733
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34763,7 +34768,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38110
+      "UsersEstimate": 38111
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34771,7 +34776,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22866
+      "UsersEstimate": 22867
     },
     {
       "ID": "04_Vengeance_H3",
@@ -34811,7 +34816,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5335
+      "UsersEstimate": 5336
     },
     {
       "ID": "09_Wude_H3",
@@ -34819,7 +34824,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5335
+      "UsersEstimate": 5336
     },
     {
       "ID": "10_Wude_H4",
@@ -34867,7 +34872,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5335
+      "UsersEstimate": 5336
     },
     {
       "ID": "16_Detective_H2",
@@ -34907,7 +34912,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22866
+      "UsersEstimate": 22867
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -34923,7 +34928,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22866
+      "UsersEstimate": 22867
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -34931,7 +34936,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38110
+      "UsersEstimate": 38111
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -34939,7 +34944,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22866
+      "UsersEstimate": 22867
     },
     {
       "ID": "25_ShrineMind",
@@ -34963,7 +34968,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22866
+      "UsersEstimate": 22867
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -35003,7 +35008,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22866
+      "UsersEstimate": 22867
     },
     {
       "ID": "33_BladeOneShot",
@@ -35019,7 +35024,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38110
+      "UsersEstimate": 38111
     },
     {
       "ID": "35_WideStrike",
@@ -35234,21 +35239,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71502,
+      "Progressed": 71520,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762201,
+      "Progressed": 762219,
       "Completed": 13002
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-21T13:07:06.879194+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:09:35.1768093+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:10:31.0232737+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-21T14:03:04.4220673+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:09:35.1769321+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:03:38.9088262+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:10:31.0234534+00:00"
 }

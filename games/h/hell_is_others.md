@@ -5,13 +5,13 @@ Rating: 4.39 (Ranked 789)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Survivor | 31.00% | ~80,886 |
-| Predator I | 23.00% | ~60,012 |
-| Fixer I | 10.00% | ~26,092 |
-| A week in Century City | 10.00% | ~26,092 |
+| Survivor | 31.00% | ~80,888 |
+| Predator I | 23.00% | ~60,013 |
+| Fixer I | 10.00% | ~26,093 |
+| A week in Century City | 10.00% | ~26,093 |
 | The Wait | 7.00% | ~18,265 |
-| Green thumb I | 6.00% | ~15,655 |
-| Cleaning Company | 6.00% | ~15,655 |
+| Green thumb I | 6.00% | ~15,656 |
+| Cleaning Company | 6.00% | ~15,656 |
 | Well-oiled machine | 5.00% | ~13,046 |
 | Saver I | 5.00% | ~13,046 |
 | The Ascent | 4.00% | ~10,437 |
@@ -22,12 +22,12 @@ Rating: 4.39 (Ranked 789)
 | It took a while | 3.00% | ~7,828 |
 | Adrenaline | 3.00% | ~7,828 |
 | Predator II | 3.00% | ~7,828 |
-| By a hair | 2.00% | ~5,218 |
-| Samurai | 2.00% | ~5,218 |
-| I Left You a Present | 2.00% | ~5,218 |
-| Truffle Dog | 2.00% | ~5,218 |
-| Don't try this at home | 2.00% | ~5,218 |
-| A month in Century City | 2.00% | ~5,218 |
+| By a hair | 2.00% | ~5,219 |
+| Samurai | 2.00% | ~5,219 |
+| I Left You a Present | 2.00% | ~5,219 |
+| Truffle Dog | 2.00% | ~5,219 |
+| Don't try this at home | 2.00% | ~5,219 |
+| A month in Century City | 2.00% | ~5,219 |
 | The Strengthening | 1.00% | ~2,609 |
 | Saver II | 1.00% | ~2,609 |
 | It's the last one, I swear | 1.00% | ~2,609 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 789)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,922 (Ranked 69)  
+Progressed: 260,928 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 409)
 | 2024-01-18 | 260,810 | 3 |
 | 2024-01-19 | 260,851 | 3 |
 | 2024-01-20 | 260,901 | 3 |
-| 2024-01-21 | 260,922 | 3 |
+| 2024-01-21 | 260,928 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 450)  
 Sum: 388 (Ranked 365)  

@@ -14661,9 +14661,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 503139,
+  "EOS_Progressed": 503189,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4358,
+  "EOS_NewPlayers": 4366,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46556,6 +46556,11 @@
       "Time": "2024-01-21T14:10:11.9645038+00:00",
       "NumProgressed": 503139,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T15:11:19.4369538+00:00",
+      "NumProgressed": 503189,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47087,7 +47092,7 @@
       "Name": "Cold War",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "achievement_colonial_management",
@@ -47183,7 +47188,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -47399,7 +47404,7 @@
       "Name": "For the Glory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "achievement_forever_golden",
@@ -47783,7 +47788,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -49159,7 +49164,7 @@
       "Name": "True Catholic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1509
+      "UsersEstimate": 1510
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -49470,21 +49475,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 503139,
+      "Progressed": 503189,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 503139,
+      "Progressed": 503189,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-21T13:59:32.64755+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:10:11.9645035+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:11:19.4369536+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:59:32.6475507+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:10:11.9655681+00:00"
+  "LastUpdate_Ratings": "2024-01-21T15:00:51.7938337+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:11:19.43809+00:00"
 }

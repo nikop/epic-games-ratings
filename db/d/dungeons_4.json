@@ -2,13 +2,13 @@
   "ID": "63afbcc46a714796af53032c2b3ed4b3",
   "Name": "Dungeons 4",
   "ProductSlug": "dungeons-4-595454",
-  "Ranking_Rating": 183,
+  "Ranking_Rating": 184,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2655,9 +2655,9 @@
       "ID": "ach_main03demon_spells",
       "SetID": "4hg22ll",
       "Name": "Magic Accidents",
-      "Percentage": 58,
+      "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 453
+      "UsersEstimate": 461
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2735,9 +2735,9 @@
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 430
+      "UsersEstimate": 437
     },
     {
       "ID": "ach_main07storm_completed",
@@ -3088,8 +3088,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-21T14:09:29.760251+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:10:22.9800873+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:57:24.5118999+00:00",
-  "LastUpdate_Achievements": "2024-01-21T14:09:29.7603041+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:57:36.7075364+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:10:22.9801373+00:00"
 }

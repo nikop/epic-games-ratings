@@ -5,13 +5,13 @@ Rating: 4.53 (Ranked 571)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Legal Counsel | 47.00% | ~7,809 |
-| Greasy Palms | 43.00% | ~7,144 |
+| Legal Counsel | 47.00% | ~7,810 |
+| Greasy Palms | 43.00% | ~7,145 |
 | South American Connection | 27.00% | ~4,486 |
 | Life of the Party | 21.00% | ~3,489 |
-| Big Heat from Little Havana | 16.00% | ~2,658 |
-| Chauffeur | 16.00% | ~2,658 |
-| Tommy Two-Wheels | 16.00% | ~2,658 |
+| Big Heat from Little Havana | 16.00% | ~2,659 |
+| Chauffeur | 16.00% | ~2,659 |
+| Tommy Two-Wheels | 16.00% | ~2,659 |
 | Salutations My Little Friend | 12.00% | ~1,994 |
 | Iron-y | 10.00% | ~1,662 |
 | Gun for Hire | 10.00% | ~1,662 |
@@ -21,10 +21,10 @@ Rating: 4.53 (Ranked 571)
 | Bloodstained Hands | 6.00% | ~997 |
 | Not my First Time | 5.00% | ~831 |
 | Grand Theft Auto | 5.00% | ~831 |
+| High Quality H2O | 4.00% | ~665 |
 | Pie Guy | 4.00% | ~665 |
 | Running Rampant | 3.00% | ~498 |
 | Point A to Point B | 3.00% | ~498 |
-| High Quality H2O | 3.00% | ~498 |
 | Bull in a China Shop | 3.00% | ~498 |
 | Somebody Call the Wambulance? | 3.00% | ~498 |
 | Just Like the Real Thing | 3.00% | ~498 |
@@ -40,7 +40,7 @@ Rating: 4.53 (Ranked 571)
 | Done it All | 1.00% | ~166 |
 | Kingpin | 0.70% | ~116 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,615 (Ranked 172)  
+Progressed: 16,616 (Ranked 172)  
 Completed: 109 (0.66%) (Ranked 209)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -316,7 +316,7 @@ Completed: 109 (0.66%) (Ranked 209)
 | 2024-01-18 | 16,538 | 104 |
 | 2024-01-19 | 16,563 | 106 |
 | 2024-01-20 | 16,599 | 107 |
-| 2024-01-21 | 16,615 | 109 |
+| 2024-01-21 | 16,616 | 109 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

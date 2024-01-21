@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5411,9 +5411,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83118,
+  "EOS_Progressed": 83120,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 371,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31056,6 +31056,11 @@
       "Time": "2024-01-21T13:12:15.3972616+00:00",
       "NumProgressed": 83118,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-21T15:04:04.6958689+00:00",
+      "NumProgressed": 83120,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31275,7 +31280,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10805
+      "UsersEstimate": 10806
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -31307,7 +31312,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15792
+      "UsersEstimate": 15793
     },
     {
       "ID": "FREEZE_3",
@@ -31371,7 +31376,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28260
+      "UsersEstimate": 28261
     },
     {
       "ID": "HARLEY_2",
@@ -31379,7 +31384,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19948
+      "UsersEstimate": 19949
     },
     {
       "ID": "HARLEY_3",
@@ -31411,7 +31416,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41559
+      "UsersEstimate": 41560
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31459,7 +31464,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27429
+      "UsersEstimate": 27430
     },
     {
       "ID": "MYSTERY_02",
@@ -31467,7 +31472,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19948
+      "UsersEstimate": 19949
     },
     {
       "ID": "MYSTERY_03",
@@ -31507,7 +31512,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10805
+      "UsersEstimate": 10806
     },
     {
       "ID": "MYSTERY_08",
@@ -31531,7 +31536,7 @@
       "Name": "Solid Alibi",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 6649
+      "UsersEstimate": 6650
     },
     {
       "ID": "TALIA_SHOWDOWN_1",
@@ -31554,13 +31559,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83118,
+      "Progressed": 83120,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53398,
+      "Progressed": 53400,
       "Completed": 2680
     }
   ],
@@ -31568,8 +31573,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-21T08:59:35.3691328+00:00",
-  "LastChanged_Achievements": "2024-01-21T13:12:15.3972614+00:00",
+  "LastChanged_Achievements": "2024-01-21T15:04:04.695868+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-21T13:58:43.190905+00:00",
-  "LastUpdate_Achievements": "2024-01-21T13:12:15.3973938+00:00"
+  "LastUpdate_Ratings": "2024-01-21T14:59:34.9483772+00:00",
+  "LastUpdate_Achievements": "2024-01-21T15:04:04.6977917+00:00"
 }

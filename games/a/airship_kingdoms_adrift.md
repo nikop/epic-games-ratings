@@ -13,15 +13,16 @@
 | Attention Peasant! | 60.00% | ~3 |
 | Flight Check | 60.00% | ~3 |
 | Meet THE Harbormaster | 60.00% | ~3 |
+| Tuck the Tail | 60.00% | ~3 |
 | Damsel in Distress? | 40.00% | ~2 |
 | Dream of Flight | 40.00% | ~2 |
 | Not a Good Decoy | 40.00% | ~2 |
+| Our Tiny Little Fleet | 40.00% | ~2 |
 | The Pink Flower | 40.00% | ~2 |
 | Safe Delivery | 40.00% | ~2 |
 | Shipping Ships | 40.00% | ~2 |
 | The Combatant | 40.00% | ~2 |
 | The Mother Ocean | 40.00% | ~2 |
-| Tuck the Tail | 40.00% | ~2 |
 | Whoops | 40.00% | ~2 |
 | An Old Hero | 20.00% | ~1 |
 | For the Republic! | 20.00% | ~1 |
@@ -45,7 +46,6 @@
 | Living off the Land | 20.00% | ~1 |
 | Not Again | 20.00% | ~1 |
 | Our Own Path | 20.00% | ~1 |
-| Our Tiny Little Fleet | 20.00% | ~1 |
 | Shady Business | 20.00% | ~1 |
 | Shellshock | 20.00% | ~1 |
 | Small Business | 20.00% | ~1 |
