@@ -2,10 +2,10 @@
   "ID": "fc4b50158f6e4fa09d68afe5a0062c53",
   "Name": "GGDENMetaverse",
   "ProductSlug": "ggdenmetaverse-64f15a",
-  "Ranking_EOS_Progress": 845,
+  "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-06T00:00:00+00:00",
     "PcReleaseDate": "2023-12-19T15:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-20T11:00:33.7148059+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.5754055+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:59:55.5281065+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:04:19.8140424+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:00:12.5934014+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:04:30.0249853+00:00"
 }

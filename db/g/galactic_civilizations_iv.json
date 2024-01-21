@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 283,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 281,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
     "PcReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7573,
+  "EOS_Progressed": 7574,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9902,6 +9902,11 @@
       "Time": "2024-01-20T13:14:28.671893+00:00",
       "NumProgressed": 7573,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T11:10:41.4765703+00:00",
+      "NumProgressed": 7574,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -10017,7 +10022,7 @@
       "Name": "Colonize a Planet",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5831
+      "UsersEstimate": 5832
     },
     {
       "ID": "First_Race_Met",
@@ -10049,7 +10054,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5755
+      "UsersEstimate": 5756
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10129,7 +10134,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2423
+      "UsersEstimate": 2424
     },
     {
       "ID": "Play_1000_Hours",
@@ -10401,7 +10406,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4922
+      "UsersEstimate": 4923
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10465,7 +10470,7 @@
       "Name": "Prestige Victory!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 984
+      "UsersEstimate": 985
     },
     {
       "ID": "Win_Quickly",
@@ -10488,15 +10493,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7573,
+      "Progressed": 7574,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:10:20.5959629+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:10:41.4765699+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:58:22.4641886+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:10:20.5960498+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:37.8736271+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:10:41.4766522+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9144,
+  "EOS_Progressed": 9145,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 93,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10504,6 +10504,11 @@
       "Time": "2024-01-21T09:11:28.2900229+00:00",
       "NumProgressed": 9144,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T11:10:41.850646+00:00",
+      "NumProgressed": 9145,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10610,9 +10615,9 @@
       "ID": "COLLECT_MINERALS",
       "SetID": "9eia0f5",
       "Name": "Miner 49er",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 366
     },
     {
       "ID": "COLLECT_MULTIPLE_CRITTERS",
@@ -10859,13 +10864,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9144,
+      "Progressed": 9145,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1761,
+      "Progressed": 1762,
       "Completed": 1050
     }
   ],
@@ -10873,8 +10878,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-20T14:03:24.888989+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:10:20.8831474+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:10:41.8506458+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:03:28.3779568+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:10:20.8832162+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:03:36.4879897+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:10:41.8507392+00:00"
 }

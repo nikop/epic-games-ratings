@@ -2,10 +2,10 @@
   "ID": "7cc689908d9e4ec28716dc5b8fbd1ae0",
   "Name": "Ancient Battle Rome",
   "ProductSlug": "ancient-battle-rome-9b7099",
-  "Ranking_EOS_Progress": 845,
+  "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-10-13T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T12:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-15T21:03:17.8157431+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:19.7448578+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:59:57.2116859+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:08:59.1120377+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:00:14.2673188+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:09:19.6881837+00:00"
 }

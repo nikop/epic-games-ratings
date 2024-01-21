@@ -2,10 +2,10 @@
   "ID": "3623ba5530504da8a3f6e8d7f51177df",
   "Name": "Mediterranea Inferno",
   "ProductSlug": "mediterranea-inferno-6a1352",
-  "Ranking_EOS_Progress": 648,
+  "Ranking_EOS_Progress": 643,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 441,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 422,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-12-18T17:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2024-01-21T02:08:03.542017+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T11:09:42.5265414+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-21T12:05:49.4734668+00:00",
@@ -114,7 +119,7 @@
       "ID": "ACH_0",
       "SetID": "526kd3o",
       "Name": "The Tower",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -122,7 +127,7 @@
       "ID": "ACH_1",
       "SetID": "526kd3o",
       "Name": "Pump It Up",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "ACH_12",
       "SetID": "526kd3o",
       "Name": "Welcome to Puglia",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -203,14 +208,14 @@
     {
       "ID": "526kd3o",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-24T23:57:29.1604344+00:00",
   "FirstSeenAchievements": "2023-11-21T09:07:01.6731758+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:09:21.6421425+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:09:42.5265408+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:43.1061911+00:00",
   "LastUpdate_Ratings": "2024-01-21T10:00:26.5359093+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:09:21.6421498+00:00"
+  "LastUpdate_Achievements": "2024-01-21T11:09:42.5265487+00:00"
 }

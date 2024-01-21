@@ -4,8 +4,8 @@
   "ProductSlug": "cafe-owner-simulator-749e0f",
   "Ranking_EOS_Progress": 287,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 208,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-04-12T13:00:00+00:00",
     "PcReleaseDate": "2022-12-05T12:00:00+00:00",
@@ -3960,9 +3960,9 @@
       "ID": "FIREFIGHTER",
       "SetID": "64e5lgf",
       "Name": "FIREFIGHTER",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 684
+      "UsersEstimate": 696
     },
     {
       "ID": "FIRST_100K",
@@ -4041,8 +4041,8 @@
   "FirstSeenRating": "2023-04-13T01:55:49.9064105+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.5408639+00:00",
   "LastChanged": "2023-04-13T01:55:49.9064106+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:10:09.095044+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:10:30.0794472+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.6348808+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:58:40.0683839+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:10:09.0950712+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:56.4455087+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:10:30.0794799+00:00"
 }

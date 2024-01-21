@@ -6,7 +6,7 @@ Number of Ratings: 1,396  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Goofy's Investor | 67.00% | ~9,552 |
+| Goofy's Investor | 68.00% | ~9,695 |
 | Photographer | 67.00% | ~9,552 |
 | Valley's Helper | 59.00% | ~8,412 |
 | Constructor | 50.00% | ~7,128 |
@@ -18,7 +18,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Chef Cook | 19.00% | ~2,709 |
 | Miner | 11.00% | ~1,568 |
 | Duty Bound | 8.00% | ~1,141 |
-| Angler | 6.00% | ~855 |
+| Angler | 7.00% | ~998 |
 | Thorn Cleaner | 6.00% | ~855 |
 | Chit Chatter | 3.00% | ~428 |
 ## Popularity (Based on EOS Achievements)

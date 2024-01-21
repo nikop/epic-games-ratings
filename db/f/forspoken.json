@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 382,
-  "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -673,9 +673,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 47581,
+  "EOS_Progressed": 47585,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19493,6 +19493,11 @@
       "Time": "2024-01-21T09:08:01.7239265+00:00",
       "NumProgressed": 47581,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T11:06:22.3779365+00:00",
+      "NumProgressed": 47585,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19520,7 +19525,7 @@
       "Name": "Outdoorsperson",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "CHALLENGE_ALL",
@@ -19592,7 +19597,7 @@
       "Name": "Damned If You Do...",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "CHAPTER_07_CLEAR",
@@ -19656,7 +19661,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4282
+      "UsersEstimate": 4283
     },
     {
       "ID": "CUFF_ATTACK",
@@ -19680,7 +19685,7 @@
       "Name": "Hop, Step, Jump",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "JUSTCOUNTER",
@@ -19696,7 +19701,7 @@
       "Name": "Leapfrogger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -19712,7 +19717,7 @@
       "Name": "Explorer: Trailblazer",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "LOCATION_TEN",
@@ -19744,7 +19749,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -19792,7 +19797,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -19808,7 +19813,7 @@
       "Name": "Endless Runner",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 1427
+      "UsersEstimate": 1428
     },
     {
       "ID": "PARKOUR_TIME",
@@ -19816,7 +19821,7 @@
       "Name": "Hell of a Run",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3806
+      "UsersEstimate": 3807
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -19927,22 +19932,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47581,
+      "Progressed": 47585,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12418,
-      "Completed": 12418
+      "Progressed": 12422,
+      "Completed": 12422
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:06:10.9098752+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:06:22.377936+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:03:09.701916+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:06:10.9099884+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:03:18.9795391+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:06:22.378087+00:00"
 }

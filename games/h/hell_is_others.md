@@ -18,10 +18,10 @@ Rating: 4.39 (Ranked 789)
 | Pacifist | 4.00% | ~10,437 |
 | Vandalism | 4.00% | ~10,437 |
 | Capitalist I | 4.00% | ~10,437 |
-| Fixer II | 3.00% | ~7,827 |
-| It took a while | 3.00% | ~7,827 |
-| Adrenaline | 3.00% | ~7,827 |
-| Predator II | 3.00% | ~7,827 |
+| Fixer II | 3.00% | ~7,828 |
+| It took a while | 3.00% | ~7,828 |
+| Adrenaline | 3.00% | ~7,828 |
+| Predator II | 3.00% | ~7,828 |
 | By a hair | 2.00% | ~5,218 |
 | Samurai | 2.00% | ~5,218 |
 | I Left You a Present | 2.00% | ~5,218 |
@@ -37,9 +37,9 @@ Rating: 4.39 (Ranked 789)
 | Run the Economy | 1.00% | ~2,609 |
 | Committed Relationship | 0.80% | ~2,087 |
 | Number 1 | 0.80% | ~2,087 |
-| The Gamble | 0.60% | ~1,565 |
-| A major purchase | 0.60% | ~1,565 |
-| Interior designer | 0.60% | ~1,565 |
+| The Gamble | 0.60% | ~1,566 |
+| A major purchase | 0.60% | ~1,566 |
+| Interior designer | 0.60% | ~1,566 |
 | The Descent | 0.50% | ~1,305 |
 | Predator III | 0.50% | ~1,305 |
 | Expert Hunter | 0.40% | ~1,044 |
@@ -62,7 +62,7 @@ Rating: 4.39 (Ranked 789)
 | Capitalist III | 0.10% | ~261 |
 | Hell Is You | 0.10% | ~261 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 260,916 (Ranked 69)  
+Progressed: 260,917 (Ranked 69)  
 Completed: 3 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 3 (0.00%) (Ranked 408)
 | 2024-01-18 | 260,810 | 3 |
 | 2024-01-19 | 260,851 | 3 |
 | 2024-01-20 | 260,901 | 3 |
-| 2024-01-21 | 260,916 | 3 |
+| 2024-01-21 | 260,917 | 3 |
 ## Awards
 Max (Great for Quick Sessions): 55  (Ranked 450)  
 Sum: 388 (Ranked 365)  

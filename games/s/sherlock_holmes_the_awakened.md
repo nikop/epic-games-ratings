@@ -13,15 +13,15 @@ Rating: 4.50 (Ranked 619)
 | A Method To His Madness | 47.00% | ~736 |
 | History Check | 46.00% | ~720 |
 | The New World | 44.00% | ~689 |
+| Open Sesame | 43.00% | ~673 |
 | Lock, Stock, And Barrel | 42.00% | ~658 |
 | Gaze Into The Abyss | 42.00% | ~658 |
-| Open Sesame | 42.00% | ~658 |
 | Sticky Fingers | 42.00% | ~658 |
 | Knives Out | 42.00% | ~658 |
 | Back In The Saddle | 41.00% | ~642 |
 | Land, Ho! | 41.00% | ~642 |
 | No Man Is An Island | 40.00% | ~626 |
-| At Wits' End | 39.00% | ~611 |
+| At Wits' End | 40.00% | ~626 |
 | Up In Flames | 38.00% | ~595 |
 | Fhtagn! | 38.00% | ~595 |
 | Bookworm | 37.00% | ~579 |
@@ -29,7 +29,7 @@ Rating: 4.50 (Ranked 619)
 | Let Me Be Frank | 33.00% | ~517 |
 | No Stone Unturned | 31.00% | ~485 |
 | Brain Food | 30.00% | ~470 |
-| Read It And Weep | 19.00% | ~298 |
+| Read It And Weep | 20.00% | ~313 |
 | Curiosity Killed The Cat | 18.00% | ~282 |
 | Big Breakthrough | 13.00% | ~204 |
 | Reawakened | 4.00% | ~63 |

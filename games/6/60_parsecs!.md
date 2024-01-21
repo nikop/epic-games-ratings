@@ -4,35 +4,35 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,352 |
-| Space Colonization | 78.00% | ~1,098 |
-| Friendzone | 76.00% | ~1,070 |
-| Hello World | 71.00% | ~1,000 |
-| Space Engineer | 60.00% | ~845 |
-| Tinkerer | 60.00% | ~845 |
-| Dust to Dust | 55.00% | ~774 |
-| Across The Stars | 44.00% | ~620 |
-| Crafty | 41.00% | ~577 |
-| All Seats Taken | 33.00% | ~465 |
-| For Science! | 30.00% | ~422 |
-| Meet the Petersons | 29.00% | ~408 |
-| KIA | 25.00% | ~352 |
-| Stay Cool | 25.00% | ~352 |
-| Mutiny in making | 22.00% | ~310 |
-| Et tu, Astrocitizen? | 17.00% | ~239 |
-| Eco-Shuttle | 16.00% | ~225 |
-| Space Explorer | 13.00% | ~183 |
+| Don't Panic! | 95.00% | ~1,343 |
+| Space Colonization | 78.00% | ~1,103 |
+| Friendzone | 75.00% | ~1,060 |
+| Hello World | 71.00% | ~1,004 |
+| Space Engineer | 60.00% | ~848 |
+| Tinkerer | 60.00% | ~848 |
+| Dust to Dust | 55.00% | ~778 |
+| Across The Stars | 44.00% | ~622 |
+| Crafty | 41.00% | ~580 |
+| All Seats Taken | 34.00% | ~481 |
+| For Science! | 30.00% | ~424 |
+| Meet the Petersons | 30.00% | ~424 |
+| KIA | 25.00% | ~354 |
+| Stay Cool | 25.00% | ~354 |
+| Mutiny in making | 22.00% | ~311 |
+| Et tu, Astrocitizen? | 17.00% | ~240 |
+| Eco-Shuttle | 16.00% | ~226 |
+| Space Explorer | 13.00% | ~184 |
 | Gold Medalist | 10.00% | ~141 |
 | Hands Full | 10.00% | ~141 |
 | Non-Fiction | 9.00% | ~127 |
 | No Man Left Behind | 8.00% | ~113 |
 | Intergalactic Breakup | 7.00% | ~99 |
-| First of April | 6.00% | ~84 |
-| Fix-It Felix | 6.00% | ~84 |
-| Second Life | 6.00% | ~84 |
-| Axel jump in space! | 5.00% | ~70 |
-| Flawless Maegangement | 5.00% | ~70 |
-| Extreme Makeover | 4.00% | ~56 |
+| First of April | 6.00% | ~85 |
+| Fix-It Felix | 6.00% | ~85 |
+| Second Life | 6.00% | ~85 |
+| Axel jump in space! | 5.00% | ~71 |
+| Flawless Maegangement | 5.00% | ~71 |
+| Extreme Makeover | 4.00% | ~57 |
 | The Improvinator | 3.00% | ~42 |
 | The Last Supper | 3.00% | ~42 |
 | 2018: A Soup Odyssey | 2.00% | ~28 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~1 |
 | Man's best comrade | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,408 (Ranked 279)  
+Progressed: 1,414 (Ranked 279)  
 Completed: 1 (0.07%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -209,7 +209,7 @@ Completed: 1 (0.07%) (Ranked 337)
 | 2024-01-18 | 1,088 | 1 |
 | 2024-01-19 | 1,224 | 1 |
 | 2024-01-20 | 1,362 | 1 |
-| 2024-01-21 | 1,408 | 1 |
+| 2024-01-21 | 1,414 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

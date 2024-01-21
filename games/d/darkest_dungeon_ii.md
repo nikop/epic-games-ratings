@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,237 |
-| Lost and Found | 9.00% | ~742 |
-| Autodidact | 8.00% | ~10,670 |
+| Malpractice Assurance | 15.00% | ~1,238 |
+| Lost and Found | 9.00% | ~743 |
+| Autodidact | 8.00% | ~10,671 |
 | This Belongs in a Museum | 7.00% | ~9,337 |
 | Creep and Sleep | 7.00% | ~9,337 |
 | Overdue Notice | 7.00% | ~9,337 |
-| This guy... again? | 7.00% | ~577 |
+| This guy... again? | 7.00% | ~578 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,003 |
 | Serenity Now! | 6.00% | ~8,003 |
 | Meat and Greet | 6.00% | ~8,003 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,669 |
 | FNG | 5.00% | ~6,669 |
 | Nope | 5.00% | ~6,669 |
-| Friends 'Til the End | 5.00% | ~412 |
+| Friends 'Til the End | 5.00% | ~413 |
 | Resurrection | 4.00% | ~5,335 |
 | Unleash Hell | 4.00% | ~5,335 |
 | Funny Guy | 4.00% | ~5,335 |
@@ -65,28 +65,28 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 1.00% | ~1,334 |
 | Shrine of Reflection | 1.00% | ~1,334 |
 | Triage | 1.00% | ~1,334 |
-| No Mercy | 1.00% | ~82 |
-| Slap on the Wrist | 1.00% | ~82 |
-| Et Tu, Riposte? | 1.00% | ~82 |
-| For Old Time' Sake | 1.00% | ~82 |
+| No Mercy | 1.00% | ~83 |
+| Slap on the Wrist | 1.00% | ~83 |
+| Et Tu, Riposte? | 1.00% | ~83 |
+| For Old Time' Sake | 1.00% | ~83 |
 | The World As It Was | 0.80% | ~1,067 |
 | A Life Well Lived | 0.70% | ~934 |
 | Bacon Bits | 0.70% | ~934 |
 | Eidetic | 0.60% | ~800 |
-| On This Long Road, We Found Redemption | 0.60% | ~49 |
+| On This Long Road, We Found Redemption | 0.60% | ~50 |
 | Battle Hardened | 0.50% | ~41 |
 | Tears in the Rain | 0.40% | ~534 |
 | Maître De La Lame | 0.40% | ~33 |
 | Circle of Life | 0.30% | ~400 |
 | Grand Slam | 0.30% | ~400 |
 | 20,000 Leagues Above the Sea | 0.20% | ~267 |
-| These Boots Are Made For Kickin' | 0.20% | ~16 |
+| These Boots Are Made For Kickin' | 0.20% | ~17 |
 | Loop Year | 0.10% | ~133 |
 | No Gravestone Left Unturned | 0.10% | ~133 |
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,380 (Ranked 92)  
+Progressed: 133,382 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 5 (0.00%) (Ranked 408)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,380 | 5 |
+| 2024-01-21 | 133,382 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
 Sum: 21,798 (Ranked 58)  

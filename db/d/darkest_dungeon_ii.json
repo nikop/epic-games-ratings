@@ -11136,9 +11136,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133380,
+  "EOS_Progressed": 133382,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40891,6 +40891,11 @@
       "Time": "2024-01-21T10:10:16.5571084+00:00",
       "NumProgressed": 133380,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T11:10:37.6025808+00:00",
+      "NumProgressed": 133382,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41254,7 +41259,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10670
+      "UsersEstimate": 10671
     },
     {
       "ID": "hero_story_complete_all",
@@ -41438,7 +41443,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1237
+      "UsersEstimate": 1238
     },
     {
       "ID": "combat_kill_collector",
@@ -41446,7 +41451,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41454,7 +41459,7 @@
       "Name": "These Boots Are Made For Kickin\u0027",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "combat_kill_warlord_crusader",
@@ -41462,7 +41467,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -41470,7 +41475,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -41478,7 +41483,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -41502,7 +41507,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41510,7 +41515,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41518,7 +41523,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -41526,28 +41531,28 @@
       "Name": "On This Long Road, We Found Redemption",
       "Percentage": 0.6,
       "XP": 50,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133380,
+      "Progressed": 133382,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8249,
+      "Progressed": 8251,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-21T08:59:07.4501183+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:10:16.5571081+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:10:37.6025806+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:58:20.5122209+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:10:16.5572885+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:35.9431827+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:10:37.6027534+00:00"
 }

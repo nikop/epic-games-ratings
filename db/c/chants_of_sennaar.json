@@ -139,11 +139,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2929,
-  "EOS_Completed": 227,
-  "EOS_NewPlayers": 175,
-  "EOS_NewCompleters": 22,
-  "EOS_Completed_Percentage": 7.75,
+  "EOS_Progressed": 2930,
+  "EOS_Completed": 228,
+  "EOS_NewPlayers": 173,
+  "EOS_NewCompleters": 23,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7814,6 +7814,11 @@
       "Time": "2024-01-21T10:05:39.9582539+00:00",
       "NumProgressed": 2929,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2024-01-21T11:05:50.3854781+00:00",
+      "NumProgressed": 2930,
+      "NumCompleted": 228
     }
   ],
   "TotalAchievements": 25,
@@ -7825,7 +7830,7 @@
       "Name": "I did it",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "END_GOOD",
@@ -7849,7 +7854,7 @@
       "Name": "Cable guy",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "META_FIRST_LINK",
@@ -7857,7 +7862,7 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 937
+      "UsersEstimate": 938
     },
     {
       "ID": "META_HALF_LINK",
@@ -7865,7 +7870,7 @@
       "Name": "Half the way",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "META_RESULT_1-2",
@@ -7897,7 +7902,7 @@
       "Name": "A great audience",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "META_RESULT_2-4",
@@ -7905,7 +7910,7 @@
       "Name": "For its own good",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "META_RESULT_3-4",
@@ -7969,7 +7974,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1757
+      "UsersEstimate": 1758
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -7991,9 +7996,9 @@
       "ID": "PROGRESS_N2",
       "SetID": "2gma9an",
       "Name": "The great escape",
-      "Percentage": 47,
+      "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1377
+      "UsersEstimate": 1348
     },
     {
       "ID": "PROGRESS_N3",
@@ -8001,7 +8006,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1142
+      "UsersEstimate": 1143
     },
     {
       "ID": "PROGRESS_N4",
@@ -8024,16 +8029,16 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2929,
-      "Completed": 227
+      "Progressed": 2930,
+      "Completed": 228
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-17T17:01:29.6394159+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:05:39.9582536+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:05:50.3854777+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:58:41.2409406+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:05:39.9583082+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:57.7889993+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:05:50.3855308+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 958,
+  "Ranking_Rating": 957,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 180,
@@ -721,9 +721,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12474,
+  "EOS_Progressed": 12475,
   "EOS_Completed": 94,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 172,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
@@ -16236,6 +16236,11 @@
       "Time": "2024-01-21T10:05:21.6109594+00:00",
       "NumProgressed": 12474,
       "NumCompleted": 94
+    },
+    {
+      "Time": "2024-01-21T11:05:32.1199651+00:00",
+      "NumProgressed": 12475,
+      "NumCompleted": 94
     }
   ],
   "TotalAchievements": 29,
@@ -16247,7 +16252,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10353
+      "UsersEstimate": 10354
     },
     {
       "ID": "ACH02",
@@ -16263,7 +16268,7 @@
       "Name": "Escape Artist",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH04",
@@ -16303,7 +16308,7 @@
       "Name": "Got This Figured Out",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH09",
@@ -16311,7 +16316,7 @@
       "Name": "By a Mile",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "ACH10",
@@ -16319,7 +16324,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3617
+      "UsersEstimate": 3618
     },
     {
       "ID": "ACH11",
@@ -16335,7 +16340,7 @@
       "Name": "Come Out to Play-y-y-y",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH13",
@@ -16343,7 +16348,7 @@
       "Name": "Where To?",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH14",
@@ -16351,7 +16356,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "ACH15",
@@ -16367,7 +16372,7 @@
       "Name": "A Marked Man",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 3243
+      "UsersEstimate": 3244
     },
     {
       "ID": "ACH17",
@@ -16415,7 +16420,7 @@
       "Name": "Playing Doctor",
       "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH23",
@@ -16455,7 +16460,7 @@
       "Name": "Liberty City Secrets",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 249
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH28",
@@ -16478,7 +16483,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12474,
+      "Progressed": 12475,
       "Completed": 94
     }
   ],
@@ -16486,8 +16491,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-16T05:57:19.6472701+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:05:21.6109592+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:05:32.1199646+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:59:52.5638801+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:05:21.6110487+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:00:09.8279911+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:05:32.1200717+00:00"
 }

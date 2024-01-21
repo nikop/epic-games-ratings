@@ -2,10 +2,10 @@
   "ID": "053d5d8e846441cbb657f809a9456ade",
   "Name": "Mable \u0026 The Wood",
   "ProductSlug": "mable-and-the-wood-9bd697",
-  "Ranking_EOS_Progress": 845,
+  "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-08-26T14:00:00+00:00",
     "PcReleaseDate": "2019-08-23T14:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:41.0270841+00:00",
   "LastChanged": "2023-03-31T05:58:41.0270842+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.8597617+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:58:09.6508069+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:04:06.6598104+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:24.0342593+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:04:16.5710568+00:00"
 }

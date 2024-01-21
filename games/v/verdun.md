@@ -6,17 +6,17 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,657 |
-| Worth it | 63.00% | ~44,146 |
-| Eagle Eye | 54.00% | ~37,839 |
-| Corpseman I | 39.00% | ~27,328 |
-| Blast fishing | 37.00% | ~25,927 |
-| Not alone | 32.00% | ~22,423 |
-| Headhunter I | 26.00% | ~18,219 |
+| Setting an example | 78.00% | ~54,659 |
+| Worth it | 63.00% | ~44,148 |
+| Eagle Eye | 54.00% | ~37,841 |
+| Corpseman I | 39.00% | ~27,330 |
+| Blast fishing | 37.00% | ~25,928 |
+| Not alone | 32.00% | ~22,424 |
+| Headhunter I | 26.00% | ~18,220 |
 | Developers, Developers, Developers | 24.00% | ~16,818 |
 | Manual Labour I | 24.00% | ~16,818 |
 | Basic Training | 23.00% | ~16,117 |
-| Furchtlos und Treu | 13.00% | ~9,109 |
+| Furchtlos und Treu | 13.00% | ~9,110 |
 | Gott Mit Uns | 12.00% | ~8,409 |
 | This We'll Defend! | 9.00% | ~6,307 |
 | For King and Country | 9.00% | ~6,307 |
@@ -41,8 +41,8 @@ Number of Ratings: 1,999  (23.09.2022)
 | In My Defens God Me Defend | 3.00% | ~2,102 |
 | Silver x100 | 3.00% | ~2,102 |
 | Impavidum Ferient Bella! | 3.00% | ~2,102 |
-| Bronze x100 | 2.00% | ~1,401 |
-| Shoot, Cover, Reload, Repeat | 2.00% | ~1,401 |
+| Bronze x100 | 2.00% | ~1,402 |
+| Shoot, Cover, Reload, Repeat | 2.00% | ~1,402 |
 | Gold x100 | 1.00% | ~701 |
 | Hunting the Hun | 1.00% | ~701 |
 | #1 | 1.00% | ~701 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~70 |
 | Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,073 (Ranked 116)  
+Progressed: 70,076 (Ranked 117)  
 Completed: 4 (0.01%) (Ranked 382)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,7 +342,7 @@ Completed: 4 (0.01%) (Ranked 382)
 | 2024-01-18 | 69,850 | 4 |
 | 2024-01-19 | 69,945 | 4 |
 | 2024-01-20 | 70,042 | 4 |
-| 2024-01-21 | 70,073 | 4 |
+| 2024-01-21 | 70,076 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 376)  
 Sum: 842 (Ranked 290)  

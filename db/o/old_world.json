@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 150,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17055,
+  "EOS_Progressed": 17056,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 300,
+  "EOS_NewPlayers": 301,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20674,6 +20674,11 @@
       "Time": "2024-01-21T10:10:27.6510736+00:00",
       "NumProgressed": 17055,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T11:10:48.9047235+00:00",
+      "NumProgressed": 17056,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21085,7 +21090,7 @@
       "Name": "Conqueror",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_DESTROYER",
@@ -21219,9 +21224,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_LION",
       "SetID": "9201eeb",
       "Name": "Lion",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_MAGNIFICENT",
@@ -21549,7 +21554,7 @@
       "Name": "Landowners",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -21589,7 +21594,7 @@
       "Name": "Traders",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FRIENDLY",
@@ -22021,7 +22026,7 @@
       "Name": "Circus Maximus",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_COLOSSUS",
@@ -22045,7 +22050,7 @@
       "Name": "Hagia Sophia",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_HANGING_GARDENS",
@@ -22141,7 +22146,7 @@
       "Name": "Pantheon",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_IMPROVEMENT_PYRAMIDS",
@@ -22157,7 +22162,7 @@
       "Name": "Via Recta Souk",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -22637,7 +22642,7 @@
       "Name": "Military Prestige",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -22645,7 +22650,7 @@
       "Name": "Dualism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
@@ -22659,9 +22664,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
       "SetID": "7l38kb8",
       "Name": "Gnosticism",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_LEGALISM",
@@ -22669,7 +22674,7 @@
       "Name": "Legalism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_MYTHOLOGY",
@@ -22757,7 +22762,7 @@
       "Name": "Legionary",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
@@ -22821,7 +22826,7 @@
       "Name": "Double Victory",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -23405,7 +23410,7 @@
       "Name": "Kushite Paganism",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "ACHIEVEMENT_UNIT_BEJA_ARCHER",
@@ -23548,21 +23553,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17055,
+      "Progressed": 17056,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17055,
+      "Progressed": 17056,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:10:27.6510733+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:10:48.9047233+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:57:52.148458+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:10:27.651983+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:06.9141256+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:10:48.9056674+00:00"
 }

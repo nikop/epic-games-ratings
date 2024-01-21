@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 300,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 535,
+  "EOS_Progressed": 536,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 15,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
@@ -1631,6 +1631,11 @@
       "Time": "2024-01-21T08:10:05.1564585+00:00",
       "NumProgressed": 535,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-21T11:10:21.6310072+00:00",
+      "NumProgressed": 536,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -1682,7 +1687,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "ryan_date2_all",
@@ -1706,7 +1711,7 @@
       "Name": "The activist",
       "Percentage": 21,
       "XP": 90,
-      "UsersEstimate": 112
+      "UsersEstimate": 113
     },
     {
       "ID": "success_bash",
@@ -1762,7 +1767,7 @@
       "Name": "The techie",
       "Percentage": 7,
       "XP": 90,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "success_toni",
@@ -1793,7 +1798,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 535,
+      "Progressed": 536,
       "Completed": 7
     }
   ],
@@ -1801,8 +1806,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:10:00.9561047+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:10:21.6310068+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.3077577+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:57:50.5093343+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:10:00.9561201+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:05.050257+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:10:21.6310345+00:00"
 }

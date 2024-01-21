@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 68,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewPlayers": 69,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9153,10 +9153,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762150,
+  "EOS_Progressed": 762158,
   "EOS_Completed": 13001,
-  "EOS_NewPlayers": 1575,
-  "EOS_NewCompleters": 14,
+  "EOS_NewPlayers": 1563,
+  "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -34718,6 +34718,11 @@
       "Time": "2024-01-21T10:09:52.0825304+00:00",
       "NumProgressed": 762150,
       "NumCompleted": 13001
+    },
+    {
+      "Time": "2024-01-21T11:10:13.0586598+00:00",
+      "NumProgressed": 762158,
+      "NumCompleted": 13001
     }
   ],
   "TotalAchievements": 60,
@@ -34745,7 +34750,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22864
+      "UsersEstimate": 22865
     },
     {
       "ID": "04_Vengeance_H3",
@@ -34881,7 +34886,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22864
+      "UsersEstimate": 22865
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -34897,7 +34902,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22864
+      "UsersEstimate": 22865
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -34913,7 +34918,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22864
+      "UsersEstimate": 22865
     },
     {
       "ID": "25_ShrineMind",
@@ -34937,7 +34942,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22864
+      "UsersEstimate": 22865
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -34977,7 +34982,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22864
+      "UsersEstimate": 22865
     },
     {
       "ID": "33_BladeOneShot",
@@ -35208,21 +35213,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71451,
+      "Progressed": 71459,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762150,
+      "Progressed": 762158,
       "Completed": 13001
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-21T06:05:17.2420421+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:09:52.0825301+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:10:13.0586594+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:03:17.4498139+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:09:52.0826655+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:03:25.0798476+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:10:13.0588107+00:00"
 }

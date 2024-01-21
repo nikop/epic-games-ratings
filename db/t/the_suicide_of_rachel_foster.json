@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 320,
+  "Ranking_EOS_NewPlayers": 319,
   "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,7 +263,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1856,
+  "EOS_Progressed": 1857,
   "EOS_Completed": 78,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 1,
@@ -4353,6 +4353,11 @@
       "Time": "2024-01-20T16:06:26.9788808+00:00",
       "NumProgressed": 1856,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-21T11:05:50.4079428+00:00",
+      "NumProgressed": 1857,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 11,
@@ -4372,7 +4377,7 @@
       "Name": "Freeze to death",
       "Percentage": 56,
       "XP": 100,
-      "UsersEstimate": 1039
+      "UsersEstimate": 1040
     },
     {
       "ID": "ACH_Cacciavite",
@@ -4444,22 +4449,22 @@
       "Name": "Ghost Hunters",
       "Percentage": 40,
       "XP": 100,
-      "UsersEstimate": 742
+      "UsersEstimate": 743
     }
   ],
   "AchievementSets": [
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1856,
+      "Progressed": 1857,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:05:40.0831984+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:05:50.4079425+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:52.6871318+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:03:04.1323624+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:05:40.0832235+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:03:13.4673119+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:05:50.407972+00:00"
 }

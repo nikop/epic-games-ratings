@@ -26,7 +26,7 @@ Rating: 4.53 (Ranked 571)
 | Living Nightmare | 28.00% | ~1,826 |
 | Omelette Du Fromage | 27.00% | ~1,761 |
 | The Darwin Era Was Here | 26.00% | ~1,695 |
-| Deep Into Insanity | 24.00% | ~1,565 |
+| Deep Into Insanity | 25.00% | ~1,630 |
 | The Passenger | 24.00% | ~1,565 |
 | Come on, You Wanna Live Forever? | 23.00% | ~1,500 |
 | The Spire | 22.00% | ~1,435 |

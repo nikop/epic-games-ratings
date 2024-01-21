@@ -5669,9 +5669,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 658
+      "UsersEstimate": 673
     },
     {
       "ID": "MQ05_2",
@@ -5733,17 +5733,17 @@
       "ID": "MQ07_1",
       "SetID": "bbing49",
       "Name": "Read It And Weep",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 298
+      "UsersEstimate": 313
     },
     {
       "ID": "MQ07_2",
       "SetID": "bbing49",
       "Name": "At Wits\u0027 End",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 611
+      "UsersEstimate": 626
     },
     {
       "ID": "MQ08_1",
@@ -5790,8 +5790,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:04:09.8687565+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:04:19.8298822+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:03:23.1239363+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:04:09.8687931+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:03:30.5816473+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:04:19.8299304+00:00"
 }

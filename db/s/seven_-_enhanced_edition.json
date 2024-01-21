@@ -2,10 +2,10 @@
   "ID": "7bea1a7bb34d408e8ea30487237d2fe0",
   "Name": "Seven - Enhanced Edition",
   "ProductSlug": "seven-enhanced-edition-9ba7c7",
-  "Ranking_EOS_Progress": 845,
+  "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-05-26T14:00:00+00:00",
     "PcReleaseDate": "2017-12-01T00:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.1750575+00:00",
   "LastChanged": "2023-03-31T05:58:13.1750576+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.6388124+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:58:07.0789866+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:09:33.6339912+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:21.1853933+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:09:54.5272271+00:00"
 }

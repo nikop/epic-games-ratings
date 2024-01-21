@@ -33,8 +33,8 @@ Rating: 4.59 (Ranked 453)
 | Ghost hunter | 15.00% | ~32 |
 | Master detective | 15.00% | ~32 |
 | Defender | 14.00% | ~30 |
+| Peacekeeper | 14.00% | ~30 |
 | Showdown | 13.00% | ~28 |
-| Peacekeeper | 13.00% | ~28 |
 | Workaholic | 12.00% | ~25 |
 | Titan Lord | 10.00% | ~21 |
 | Freedom fighter | 9.00% | ~19 |

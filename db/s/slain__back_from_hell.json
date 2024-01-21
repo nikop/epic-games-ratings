@@ -2,13 +2,13 @@
   "ID": "5a85738bd9e74940ad8409ed8a2c680a",
   "Name": "Slain: Back From Hell",
   "ProductSlug": "slain-aea303",
-  "Ranking_Rating": 888,
+  "Ranking_Rating": 890,
   "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 458,
   "Ranking_EOS_Progress": 134,
   "Ranking_EOS_Completed": 337,
   "Ranking_EOS_NewPlayers": 133,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2022-10-06T15:00:00+00:00",
     "PcReleaseDate": "2022-10-06T15:00:00+00:00",
@@ -262,7 +262,7 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44600,
+  "EOS_Progressed": 44603,
   "EOS_Completed": 30,
   "EOS_NewPlayers": 431,
   "EOS_NewCompleters": 0,
@@ -30217,6 +30217,11 @@
       "Time": "2024-01-21T10:03:38.3477881+00:00",
       "NumProgressed": 44600,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-21T11:03:48.0569332+00:00",
+      "NumProgressed": 44603,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30236,7 +30241,7 @@
       "Name": "Man \u0027O War",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 9366
+      "UsersEstimate": 9367
     },
     {
       "ID": "ACH_04_BLOODGROUNDS_NO_DEATHS",
@@ -30459,7 +30464,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44600,
+      "Progressed": 44603,
       "Completed": 30
     }
   ],
@@ -30467,8 +30472,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:03:38.3477842+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:03:48.0569329+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.0073516+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:03:04.2517424+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:03:38.3479234+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:03:13.6915377+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:03:48.0570683+00:00"
 }

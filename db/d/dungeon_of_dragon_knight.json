@@ -2,10 +2,10 @@
   "ID": "f53b32ae10854ac980d2ac37cf98fd5b",
   "Name": "Dungeon Of Dragon Knight",
   "ProductSlug": "dungeon-of-dragon-knight-79cda5",
-  "Ranking_EOS_Progress": 845,
+  "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2019-07-10T03:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T02:57:11.6323461+00:00",
-  "LastUpdate_Ratings": "2024-01-21T10:03:32.0737111+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:04:01.2666618+00:00"
+  "LastUpdate_Ratings": "2024-01-21T11:03:40.31488+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:04:10.937328+00:00"
 }

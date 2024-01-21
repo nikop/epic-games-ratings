@@ -14,7 +14,7 @@ Rating: 4.72 (Ranked 197)
 | Experienced Thalya | 72.00% | ~562 |
 | Bad Elves Go Everywhere | 70.00% | ~546 |
 | Thalya's Concentrated Fury | 67.00% | ~523 |
-| Heroes’ Gorge | 65.00% | ~507 |
+| Heroes’ Gorge | 66.00% | ~515 |
 | Master of Magic | 62.00% | ~484 |
 | Unicorn steaks – fresh off the hoof! | 62.00% | ~484 |
 | The Ascent | 60.00% | ~468 |
@@ -25,7 +25,7 @@ Rating: 4.72 (Ranked 197)
 | The Big Eaty | 56.00% | ~437 |
 | Minions, Minions! | 55.00% | ~429 |
 | “… like son” | 54.00% | ~421 |
-| YOU SHALL NOT PASS! | 50.00% | ~390 |
+| YOU SHALL NOT PASS! | 51.00% | ~398 |
 | The Cathedral of Light | 50.00% | ~390 |
 | Shame! Shame! Shame! | 50.00% | ~390 |
 | Tanos' Crusade Against Thalya | 48.00% | ~374 |

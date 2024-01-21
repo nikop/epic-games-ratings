@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 233,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -789,9 +789,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7280,
+  "EOS_Progressed": 7281,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 44,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11399,6 +11399,11 @@
       "Time": "2024-01-21T02:04:05.4974841+00:00",
       "NumProgressed": 7280,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T11:05:08.9506304+00:00",
+      "NumProgressed": 7281,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11538,7 +11543,7 @@
       "Name": "Secret Technique",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1310
+      "UsersEstimate": 1311
     },
     {
       "ID": "25",
@@ -11570,7 +11575,7 @@
       "Name": "From Friends to Family",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "29",
@@ -11889,13 +11894,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7280,
+      "Progressed": 7281,
       "Completed": 4768
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7280,
+      "Progressed": 7281,
       "Completed": 8
     }
   ],
@@ -11903,8 +11908,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:04:58.2175217+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:05:08.9506299+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:59:41.3900641+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:04:58.2176014+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:59:57.7296151+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:05:08.9507356+00:00"
 }

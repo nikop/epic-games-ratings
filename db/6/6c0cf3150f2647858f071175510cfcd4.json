@@ -4,8 +4,8 @@
   "ProductSlug": "aircraft-carrier-survival-769456",
   "Ranking_EOS_Progress": 597,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-17T14:00:00+00:00",
     "PcReleaseDate": "2022-04-20T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 33,
+  "EOS_Progressed": 34,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -149,6 +149,11 @@
       "Time": "2024-01-21T00:07:15.2570813+00:00",
       "NumProgressed": 33,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T11:05:59.6371065+00:00",
+      "NumProgressed": 34,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-10T08:04:08.4002593+00:00",
@@ -161,13 +166,13 @@
       "Name": "Ensign",
       "Percentage": 88,
       "XP": 55,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "a48gbka",
       "Name": "Lieutenant Junior Grade",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 55,
       "UsersEstimate": 16
     },
@@ -231,7 +236,7 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "a48gbka",
       "Name": "Lieutenant",
-      "Percentage": 64,
+      "Percentage": 62,
       "XP": 55,
       "UsersEstimate": 21
     },
@@ -247,7 +252,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "a48gbka",
       "Name": "Lieutenant Commander",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 55,
       "UsersEstimate": 10
     },
@@ -304,14 +309,14 @@
     {
       "ID": "a48gbka",
       "IsBase": true,
-      "Progressed": 33,
+      "Progressed": 34,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-18T18:00:15.4077819+00:00",
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:05:49.0858257+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:05:59.637106+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.63618+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:57:57.0739116+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:05:49.0858406+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:58:11.6278059+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:05:59.6371167+00:00"
 }

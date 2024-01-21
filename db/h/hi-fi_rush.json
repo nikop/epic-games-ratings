@@ -3,12 +3,12 @@
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
   "Ranking_Rating": 34,
-  "Ranking_Popularity": 503,
+  "Ranking_Popularity": 501,
   "Ranking_PopularitySum": 536,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 130,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 131,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -265,23 +265,29 @@
       "Rating": 4.86,
       "NumberOfAwards": 36,
       "NumberOfAwardsMax": 36
+    },
+    {
+      "Time": "2024-01-21T10:59:08.3080773+00:00",
+      "Rating": 4.86,
+      "NumberOfAwards": 37,
+      "NumberOfAwardsMax": 37
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 36,
-  "NumberOfAwardsMax": 36,
+  "NumberOfAwards": 37,
+  "NumberOfAwardsMax": 37,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 36
+      "Count": 37
     }
   ],
-  "EOS_Progressed": 17537,
+  "EOS_Progressed": 17539,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 438,
+  "EOS_NewPlayers": 434,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12919,6 +12925,11 @@
       "Time": "2024-01-21T10:04:56.7795147+00:00",
       "NumProgressed": 17537,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T11:05:07.4743929+00:00",
+      "NumProgressed": 17539,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12930,7 +12941,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9645
+      "UsersEstimate": 9646
     },
     {
       "ID": "Ach002",
@@ -12954,7 +12965,7 @@
       "Name": "The Negotiator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2981
+      "UsersEstimate": 2982
     },
     {
       "ID": "Ach005",
@@ -13042,7 +13053,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6313
+      "UsersEstimate": 6314
     },
     {
       "ID": "Ach016",
@@ -13058,7 +13069,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4384
+      "UsersEstimate": 4385
     },
     {
       "ID": "Ach018",
@@ -13090,7 +13101,7 @@
       "Name": "I have to read these things?",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2104
+      "UsersEstimate": 2105
     },
     {
       "ID": "Ach022",
@@ -13106,7 +13117,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9821
+      "UsersEstimate": 9822
     },
     {
       "ID": "Ach024",
@@ -13138,7 +13149,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3858
+      "UsersEstimate": 3859
     },
     {
       "ID": "Ach028",
@@ -13282,7 +13293,7 @@
       "Name": "There\u0027s such a thing as TOO helpful",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "Ach046",
@@ -13330,7 +13341,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8944
+      "UsersEstimate": 8945
     },
     {
       "ID": "Ach052",
@@ -13338,7 +13349,7 @@
       "Name": "Wanna hear my playlist?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "Ach053",
@@ -13402,7 +13413,7 @@
       "Name": "Check out my moves!",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 701
+      "UsersEstimate": 702
     },
     {
       "ID": "Ach061",
@@ -13497,22 +13508,22 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17537,
+      "Progressed": 17539,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16058,
+      "Progressed": 16060,
       "Completed": 1931
     }
   ],
   "FirstSeen": "2023-01-26T02:08:08.7515496+00:00",
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
-  "LastChanged": "2024-01-17T05:00:21.6634023+00:00",
-  "LastChanged_Achievements": "2024-01-21T10:04:56.7795145+00:00",
+  "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
+  "LastChanged_Achievements": "2024-01-21T11:05:07.4743925+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:58:50.9626045+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:04:56.7796143+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:59:08.3080777+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:05:07.4744945+00:00"
 }

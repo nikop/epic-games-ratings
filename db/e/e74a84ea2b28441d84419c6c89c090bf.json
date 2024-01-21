@@ -2,10 +2,10 @@
   "ID": "e74a84ea2b28441d84419c6c89c090bf",
   "Name": "Spy 1 Lovecraftian",
   "ProductSlug": "spy-1-lovecraftian-5bbdbc",
-  "Ranking_EOS_Progress": 845,
+  "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 553,
-  "Ranking_EOS_NewCompleters": 151,
+  "Ranking_EOS_NewPlayers": 554,
+  "Ranking_EOS_NewCompleters": 152,
   "Store": {
     "ReleaseDate": "2024-01-18T00:00:00+00:00",
     "PcReleaseDate": "2024-02-29T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-16T18:57:21.6080416+00:00",
-  "LastUpdate_Ratings": "2024-01-21T09:59:31.8005551+00:00",
-  "LastUpdate_Achievements": "2024-01-21T10:05:30.3076845+00:00"
+  "LastUpdate_Ratings": "2024-01-21T10:59:48.1113405+00:00",
+  "LastUpdate_Achievements": "2024-01-21T11:05:40.6049102+00:00"
 }

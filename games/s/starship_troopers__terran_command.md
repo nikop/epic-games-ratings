@@ -1,7 +1,7 @@
 # Starship Troopers: Terran Command
 [Store](https://store.epicgames.com/en-US/p/starship-troopers-terran-command)  
 [View Rawdata](../../db/s/starship_troopers__terran_command.json)  
-Rating: 4.23 (Ranked 953)  
+Rating: 4.20 (Ranked 971)  
 Number of Ratings: 100  (23.09.2022)  
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -65,3 +65,4 @@ Number of Ratings: 100  (23.09.2022)
 | 2023-06-17 | 4.23 | - | 0 | 0 |
 | 2023-07-23 | 4.22 | - | 0 | 0 |
 | 2023-08-23 | 4.23 | - | 0 | 0 |
+| 2024-01-21 | 4.20 | - | 0 | 0 |

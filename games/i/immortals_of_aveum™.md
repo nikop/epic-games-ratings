@@ -5,11 +5,11 @@ Rating: 4.19 (Ranked 980)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,164 |
-| Battlefields Have Memories | 82.00% | ~2,915 |
-| Enlisted | 76.00% | ~2,702 |
-| Maybe Engage a Little | 71.00% | ~2,524 |
-| No More Names | 55.00% | ~1,955 |
+| Unforeseen | 89.00% | ~3,165 |
+| Battlefields Have Memories | 82.00% | ~2,916 |
+| Enlisted | 76.00% | ~2,703 |
+| Maybe Engage a Little | 71.00% | ~2,525 |
+| No More Names | 55.00% | ~1,956 |
 | Initiate | 41.00% | ~1,458 |
 | Thrada-Kul | 38.00% | ~1,351 |
 | Gravity-Challenged Rocks | 31.00% | ~1,102 |
@@ -19,10 +19,10 @@ Rating: 4.19 (Ranked 980)
 | Beggars Would Ride | 25.00% | ~889 |
 | Control is an Illusion | 24.00% | ~853 |
 | The Means to Save It | 21.00% | ~747 |
-| Resilience to Sin | 19.00% | ~675 |
+| Resilience to Sin | 19.00% | ~676 |
 | A Familiar Nest | 18.00% | ~640 |
 | Periapt Alizarin | 18.00% | ~640 |
-| Geas Aristeya | 17.00% | ~604 |
+| Geas Aristeya | 17.00% | ~605 |
 | A Perfect Cycle | 16.00% | ~569 |
 | Recruit | 16.00% | ~569 |
 | Armsman | 13.00% | ~462 |
@@ -53,7 +53,7 @@ Rating: 4.19 (Ranked 980)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,555 (Ranked 230)  
+Progressed: 3,556 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -168,7 +168,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-18 | 3,512 | 5 |
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
-| 2024-01-21 | 3,555 | 5 |
+| 2024-01-21 | 3,556 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 22  (Ranked 569)  
 Sum: 42 (Ranked 523)  

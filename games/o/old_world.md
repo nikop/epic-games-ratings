@@ -87,27 +87,29 @@ Number of Ratings: 1,307  (23.09.2022)
 | Points Victory | 1.00% | ~171 |
 | Win a Single Player Game | 1.00% | ~171 |
 | The Clergy | 1.00% | ~171 |
-| Conqueror | 0.90% | ~153 |
-| Landowners | 0.90% | ~153 |
-| Traders | 0.90% | ~153 |
-| Circus Maximus | 0.90% | ~153 |
-| Hagia Sophia | 0.90% | ~153 |
-| Pantheon | 0.90% | ~153 |
-| Via Recta Souk | 0.90% | ~153 |
-| Military Prestige | 0.90% | ~153 |
-| Dualism | 0.90% | ~153 |
-| Legalism | 0.90% | ~153 |
-| Legionary | 0.90% | ~153 |
-| Double Victory | 0.90% | ~153 |
-| Kushite Paganism | 0.90% | ~153 |
+| Conqueror | 0.90% | ~154 |
+| Landowners | 0.90% | ~154 |
+| Traders | 0.90% | ~154 |
+| Circus Maximus | 0.90% | ~154 |
+| Hagia Sophia | 0.90% | ~154 |
+| Pantheon | 0.90% | ~154 |
+| Via Recta Souk | 0.90% | ~154 |
+| Military Prestige | 0.90% | ~154 |
+| Dualism | 0.90% | ~154 |
+| Legalism | 0.90% | ~154 |
+| Legionary | 0.90% | ~154 |
+| Double Victory | 0.90% | ~154 |
+| Kushite Paganism | 0.90% | ~154 |
 | Capable | 0.80% | ~136 |
 | Invincible | 0.80% | ~136 |
+| Lion | 0.80% | ~136 |
 | Ready | 0.80% | ~136 |
 | Subjugator | 0.80% | ~136 |
 | Riders | 0.80% | ~136 |
 | Learn to Play 4 | 0.80% | ~136 |
 | Assyrian Paganism | 0.80% | ~136 |
 | Industrial Progress | 0.80% | ~136 |
+| Gnosticism | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
 | Phalangite | 0.80% | ~136 |
 | Kushite Pyramids | 0.80% | ~136 |
@@ -115,14 +117,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Royal Library | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
 | Devout | 0.70% | ~119 |
-| Lion | 0.70% | ~119 |
 | Peacemaker | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
 | Hunters | 0.70% | ~119 |
 | Babylonia | 0.70% | ~119 |
 | Hittite Paganism | 0.70% | ~119 |
 | Enlightenment | 0.70% | ~119 |
-| Gnosticism | 0.70% | ~119 |
 | Redemption | 0.70% | ~119 |
 | Veneration | 0.70% | ~119 |
 | Kushite Cavalry | 0.70% | ~119 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,055 (Ranked 170)  
+Progressed: 17,056 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,055 | 5 |
+| 2024-01-21 | 17,056 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

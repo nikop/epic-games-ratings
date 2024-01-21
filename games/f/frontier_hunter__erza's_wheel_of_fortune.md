@@ -25,7 +25,7 @@ Rating: 4.38 (Ranked 799)
 | Weapon Boost | 22.00% | ~168 |
 | Flying Kobold Killer | 19.00% | ~145 |
 | Youth Magnet | 19.00% | ~145 |
-| Furious Scorpion Killer | 17.00% | ~130 |
+| Furious Scorpion Killer | 18.00% | ~137 |
 | Lethal Blade Mantis Killer | 17.00% | ~130 |
 | Squeaky Clean | 17.00% | ~130 |
 | Master Artificer | 17.00% | ~130 |
