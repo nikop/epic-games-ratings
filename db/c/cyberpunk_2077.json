@@ -18780,10 +18780,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 511644,
       "NumberOfAwardsMax": 143675
+    },
+    {
+      "Time": "2024-01-21T22:03:19.4402892+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 511877,
+      "NumberOfAwardsMax": 143675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 511644,
+  "NumberOfAwards": 511877,
   "NumberOfAwardsMax": 143675,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18833,7 +18839,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 32654
+      "Count": 32887
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -18860,9 +18866,9 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056730,
+  "EOS_Progressed": 1056752,
   "EOS_Completed": 3144,
-  "EOS_NewPlayers": 5422,
+  "EOS_NewPlayers": 5401,
   "EOS_NewCompleters": 49,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50535,6 +50541,11 @@
       "Time": "2024-01-21T21:09:45.6960628+00:00",
       "NumProgressed": 1056730,
       "NumCompleted": 3144
+    },
+    {
+      "Time": "2024-01-21T22:09:16.1886175+00:00",
+      "NumProgressed": 1056752,
+      "NumCompleted": 3144
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50555,7 +50566,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "BushidoAndChill",
@@ -50571,7 +50582,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "Denied",
@@ -50579,7 +50590,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "FollowingTheRiver",
@@ -50595,7 +50606,7 @@
       "Name": "The Wandering Fool",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "Gearhead",
@@ -50731,7 +50742,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "Temperance",
@@ -50771,7 +50782,7 @@
       "Name": "The Hermit",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "TheHightPriestess",
@@ -50795,7 +50806,7 @@
       "Name": "The Star",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "TheSun",
@@ -50803,7 +50814,7 @@
       "Name": "The Sun",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2113
+      "UsersEstimate": 2114
     },
     {
       "ID": "TheWheelOfFortune",
@@ -50811,7 +50822,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "TheWorld",
@@ -50843,7 +50854,7 @@
       "Name": "True Soldier",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6340
+      "UsersEstimate": 6341
     },
     {
       "ID": "TrueWarrior",
@@ -51082,21 +51093,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056730,
+      "Progressed": 1056752,
       "Completed": 3144
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185353,
-      "Completed": 10676
+      "Progressed": 185375,
+      "Completed": 10677
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-21T20:03:55.6309858+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:09:45.6960623+00:00",
+  "LastChanged": "2024-01-21T22:03:19.4402891+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:09:16.1886173+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:03:33.1099548+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:09:45.6962735+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:03:19.4402909+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:09:16.1887693+00:00"
 }

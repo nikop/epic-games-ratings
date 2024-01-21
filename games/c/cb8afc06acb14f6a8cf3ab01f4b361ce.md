@@ -1,20 +1,20 @@
 # Soulstice
 [Store](https://store.epicgames.com/en-US/p/soulstice)  
 [View Rawdata](../../db/c/cb8afc06acb14f6a8cf3ab01f4b361ce.json)  
-Rating: 4.21 (Ranked 966)  
+Rating: 4.21 (Ranked 965)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,418 |
-| The touch of Chaos | 5.00% | ~17,418 |
-| A powerful aura was here | 4.00% | ~13,935 |
-| Let's raise the stakes!! | 2.00% | ~6,967 |
+| May the Torchbearer light our way | 5.00% | ~17,420 |
+| The touch of Chaos | 5.00% | ~17,420 |
+| A powerful aura was here | 4.00% | ~13,936 |
+| Let's raise the stakes!! | 2.00% | ~6,968 |
 | Rumors are true | 1.00% | ~3,484 |
 | We'll be careful | 1.00% | ~3,484 |
 | Pride is a sin, young Knight | 1.00% | ~3,484 |
 | Your wounds… They are healing so fast! | 1.00% | ~3,484 |
-| Back to your senses | 0.90% | ~3,135 |
-| Bring it on! | 0.90% | ~3,135 |
+| Back to your senses | 0.90% | ~3,136 |
+| Bring it on! | 0.90% | ~3,136 |
 | They tricked me | 0.80% | ~2,787 |
 | They won't last long | 0.80% | ~2,787 |
 | We need to talk | 0.70% | ~2,439 |
@@ -24,7 +24,7 @@ Rating: 4.21 (Ranked 966)
 | This is the end | 0.60% | ~2,090 |
 | We can choose to fight | 0.60% | ~2,090 |
 | I took a risk | 0.50% | ~1,742 |
-| Their fate is sealed | 0.40% | ~1,393 |
+| Their fate is sealed | 0.40% | ~1,394 |
 | Not even from this world | 0.30% | ~1,045 |
 | No damsels in distress | 0.20% | ~697 |
 | Chaos be damned! | 0.20% | ~697 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 966)
 | Something... unnatural | 0.10% | ~348 |
 | We strike as one | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,370 (Ranked 60)  
+Progressed: 348,394 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 7 (0.00%) (Ranked 409)
 | 2024-01-18 | 347,117 | 7 |
 | 2024-01-19 | 347,471 | 7 |
 | 2024-01-20 | 347,916 | 7 |
-| 2024-01-21 | 348,370 | 7 |
+| 2024-01-21 | 348,394 | 7 |
 ## Awards
 Max (Great Boss Battles): 82  (Ranked 404)  
 Sum: 82 (Ranked 487)  

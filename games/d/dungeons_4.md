@@ -12,11 +12,11 @@ Rating: 4.73 (Ranked 185)
 | The Hellwoods | 77.00% | ~603 |
 | The Plains of Strothalm | 72.00% | ~564 |
 | Experienced Thalya | 72.00% | ~564 |
-| Bad Elves Go Everywhere | 69.00% | ~540 |
+| Bad Elves Go Everywhere | 70.00% | ~548 |
 | Thalya's Concentrated Fury | 67.00% | ~525 |
 | Heroes’ Gorge | 65.00% | ~509 |
+| Unicorn steaks – fresh off the hoof! | 63.00% | ~493 |
 | Master of Magic | 62.00% | ~485 |
-| Unicorn steaks – fresh off the hoof! | 62.00% | ~485 |
 | The Ascent | 60.00% | ~470 |
 | It's Warm and Cozy at Home | 60.00% | ~470 |
 | Magic Accidents | 58.00% | ~454 |

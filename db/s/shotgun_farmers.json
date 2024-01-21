@@ -4,8 +4,8 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 366,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
     "PcReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1832,9 +1832,9 @@
       "ID": "ach_horde_graveside",
       "SetID": "cmg602e",
       "Name": "Graveside Survivor",
-      "Percentage": 0.3,
+      "Percentage": 0.5,
       "XP": 100,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ach_jumpOnCones",
@@ -2192,9 +2192,9 @@
       "ID": "ach_waves_20",
       "SetID": "bf10c8p",
       "Name": "Amateur Survivor",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 91
+      "UsersEstimate": 94
     },
     {
       "ID": "ach_waves_30",
@@ -2327,8 +2327,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:09:26.561944+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:08:59.9740607+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:04.3355436+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:02:52.2522658+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:09:26.5620072+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:02:47.4093806+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:08:59.9741243+00:00"
 }

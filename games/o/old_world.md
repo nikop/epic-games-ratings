@@ -10,11 +10,11 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 6.00% | ~1,025 |
 | Explorer | 5.00% | ~854 |
 | Friendly Family | 5.00% | ~854 |
-| Able | 4.00% | ~683 |
-| Architect | 4.00% | ~683 |
-| Intrepid | 4.00% | ~683 |
-| Hanging Gardens | 4.00% | ~683 |
-| Oracle | 4.00% | ~683 |
+| Able | 4.00% | ~684 |
+| Architect | 4.00% | ~684 |
+| Intrepid | 4.00% | ~684 |
+| Hanging Gardens | 4.00% | ~684 |
+| Oracle | 4.00% | ~684 |
 | Ambitious | 3.00% | ~513 |
 | Enlightened | 3.00% | ~513 |
 | Fountainhead | 3.00% | ~513 |
@@ -42,6 +42,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Brilliant | 2.00% | ~342 |
 | Great | 2.00% | ~342 |
 | Magnificent | 2.00% | ~342 |
+| Valiant | 2.00% | ~342 |
 | Wise | 2.00% | ~342 |
 | Legendary Cities | 2.00% | ~342 |
 | Able Difficulty | 2.00% | ~342 |
@@ -68,7 +69,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Beloved | 1.00% | ~171 |
 | Intercessor | 1.00% | ~171 |
 | Mighty | 1.00% | ~171 |
-| Valiant | 1.00% | ~171 |
 | Victorious | 1.00% | ~171 |
 | Good Difficulty | 1.00% | ~171 |
 | Artisans | 1.00% | ~171 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,086 (Ranked 170)  
+Progressed: 17,088 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,086 | 5 |
+| 2024-01-21 | 17,088 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

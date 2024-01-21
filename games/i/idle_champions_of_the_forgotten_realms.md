@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,754 |
+| A Brief Tour of the Realms | 5.00% | ~12,755 |
 | Beast Intentions | 2.00% | ~5,102 |
 | The Cursed Farmer | 2.00% | ~5,102 |
 | The Mad Wizard | 2.00% | ~5,102 |
@@ -21,14 +21,14 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.70% | ~1,786 |
 | Fast Food | 0.70% | ~1,550 |
 | Terror in the Dark | 0.60% | ~1,531 |
-| Maddening | 0.50% | ~1,275 |
-| Beast Mode | 0.50% | ~1,275 |
-| A Mysterious Summons | 0.50% | ~1,275 |
-| Unearthed Evil | 0.50% | ~1,275 |
-| The Crumbling Temple | 0.50% | ~1,275 |
-| Exploring Port Nyanzaru | 0.50% | ~1,275 |
-| The Contagious Curse | 0.50% | ~1,275 |
-| Escort to Waterdeep | 0.50% | ~1,275 |
+| Maddening | 0.50% | ~1,276 |
+| Beast Mode | 0.50% | ~1,276 |
+| A Mysterious Summons | 0.50% | ~1,276 |
+| Unearthed Evil | 0.50% | ~1,276 |
+| The Crumbling Temple | 0.50% | ~1,276 |
+| Exploring Port Nyanzaru | 0.50% | ~1,276 |
+| The Contagious Curse | 0.50% | ~1,276 |
+| Escort to Waterdeep | 0.50% | ~1,276 |
 | The Overgrown Grove | 0.50% | ~1,107 |
 | When Tentacles Attack | 0.50% | ~1,107 |
 | Flames of Avernus | 0.50% | ~1,107 |
@@ -41,11 +41,11 @@ Number of Ratings: 9,041  (23.09.2022)
 | Running of the Saurs | 0.40% | ~1,020 |
 | Waterdeep Detours | 0.40% | ~1,020 |
 | Underdeep Cartography | 0.40% | ~1,020 |
-| Arcane Suppression | 0.40% | ~885 |
-| Welcome to the Vrocks | 0.40% | ~885 |
-| Misaligned in Sigil | 0.40% | ~885 |
-| Chaos Theory | 0.40% | ~885 |
-| Mind Spike | 0.40% | ~885 |
+| Arcane Suppression | 0.40% | ~886 |
+| Welcome to the Vrocks | 0.40% | ~886 |
+| Misaligned in Sigil | 0.40% | ~886 |
+| Chaos Theory | 0.40% | ~886 |
+| Mind Spike | 0.40% | ~886 |
 | The Silken Swamp | 0.30% | ~765 |
 | Supply Run | 0.30% | ~765 |
 | Street War | 0.30% | ~765 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,090 (Ranked 71)  
+Progressed: 255,102 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 255,090 | 2,629 |
+| 2024-01-21 | 255,102 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,596 (Ranked 41)  

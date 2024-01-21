@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -121,9 +121,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2423,
+  "EOS_Progressed": 2425,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4946,6 +4946,11 @@
       "Time": "2024-01-21T21:11:11.8233826+00:00",
       "NumProgressed": 2423,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T22:10:27.7812288+00:00",
+      "NumProgressed": 2425,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4955,9 +4960,9 @@
       "ID": "ACH_01",
       "SetID": "efe2lj",
       "Name": "Break Out",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1552
     },
     {
       "ID": "ACH_02",
@@ -4965,7 +4970,7 @@
       "Name": "Find Allies",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_03",
@@ -4973,7 +4978,7 @@
       "Name": "Powerful Allies",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_04",
@@ -5005,7 +5010,7 @@
       "Name": "Clear Sight",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_08",
@@ -5013,7 +5018,7 @@
       "Name": "A Taste of Wrath",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 654
+      "UsersEstimate": 655
     },
     {
       "ID": "ACH_09",
@@ -5029,7 +5034,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 848
+      "UsersEstimate": 849
     },
     {
       "ID": "ACH_11",
@@ -5069,7 +5074,7 @@
       "Name": "Tributes of Caladrias",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "ACH_16",
@@ -5077,7 +5082,7 @@
       "Name": "Essence Blow",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "ACH_17",
@@ -5085,7 +5090,7 @@
       "Name": "Shatterer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_18",
@@ -5125,7 +5130,7 @@
       "Name": "Fine Feathers Make Fine Birds",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 145
+      "UsersEstimate": 146
     },
     {
       "ID": "ACH_23",
@@ -5244,7 +5249,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2423,
+      "Progressed": 2425,
       "Completed": 5
     }
   ],
@@ -5252,8 +5257,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:11:11.8233818+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:10:27.7812287+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:59:40.7318047+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:11:11.8234201+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:58:59.5999698+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:10:27.7812646+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,158 |
-| First Steps | 80.00% | ~36,265 |
+| Awakening | 93.00% | ~42,159 |
+| First Steps | 80.00% | ~36,266 |
 | Control the Shadows | 67.00% | ~30,372 |
 | Tools of the Trade | 63.00% | ~28,559 |
 | Apprentice | 60.00% | ~27,199 |
 | Secret Seeker | 57.00% | ~25,839 |
-| Forge of Assassins | 55.00% | ~24,932 |
-| Revenant | 52.00% | ~23,572 |
-| I don’t Care! | 46.00% | ~20,852 |
-| Bird of Prey | 37.00% | ~16,772 |
+| Forge of Assassins | 55.00% | ~24,933 |
+| Revenant | 52.00% | ~23,573 |
+| I don’t Care! | 46.00% | ~20,853 |
+| Bird of Prey | 37.00% | ~16,773 |
 | Engraved with Power | 32.00% | ~14,506 |
 | Lady | 31.00% | ~14,053 |
-| Fashionable Assassin | 27.00% | ~12,239 |
-| Apex Predator | 24.00% | ~10,879 |
+| Fashionable Assassin | 27.00% | ~12,240 |
+| Apex Predator | 24.00% | ~10,880 |
 | Soul Reaver | 23.00% | ~10,426 |
 | Embers | 22.00% | ~9,973 |
 | Wall Lizard | 20.00% | ~9,066 |
@@ -31,13 +31,13 @@ Number of Ratings: 88  (23.09.2022)
 | War Engines | 14.00% | ~6,346 |
 | Signature Move | 14.00% | ~6,346 |
 | Ruse | 12.00% | ~5,440 |
-| Master Ninja | 11.00% | ~4,986 |
+| Master Ninja | 11.00% | ~4,987 |
 | Hatching | 10.00% | ~4,533 |
 | Bonds | 9.00% | ~4,080 |
 | Get Over Here | 9.00% | ~4,080 |
 | The Hidden Village | 9.00% | ~4,080 |
-| Denouement | 8.00% | ~3,626 |
-| A Pleasant Stay | 8.00% | ~3,626 |
+| Denouement | 8.00% | ~3,627 |
+| A Pleasant Stay | 8.00% | ~3,627 |
 | Pilgrimage | 7.00% | ~3,173 |
 | The Lookout | 5.00% | ~2,267 |
 | The Spirit of Vengeance | 5.00% | ~2,267 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~907 |
 | Legacy | 2.00% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,331 (Ranked 132)  
+Progressed: 45,332 (Ranked 132)  
 Completed: 251 (0.55%) (Ranked 224)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 251 (0.55%) (Ranked 224)
 | 2024-01-18 | 45,248 | 250 |
 | 2024-01-19 | 45,278 | 250 |
 | 2024-01-20 | 45,311 | 251 |
-| 2024-01-21 | 45,331 | 251 |
+| 2024-01-21 | 45,332 | 251 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

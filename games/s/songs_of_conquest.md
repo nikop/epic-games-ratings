@@ -35,8 +35,8 @@ Number of Ratings: 292  (23.09.2022)
 | Versatile Wielder | 0.90% | ~11 |
 | Together For Her | 0.90% | ~11 |
 | Unlimited Power! | 0.70% | ~9 |
+| Killing Spree | 0.70% | ~9 |
 | Death To Diplomacy | 0.60% | ~8 |
-| Killing Spree | 0.60% | ~8 |
 | Get Over Here! | 0.60% | ~8 |
 | Cleave | 0.60% | ~8 |
 | Coming Through! | 0.40% | ~5 |

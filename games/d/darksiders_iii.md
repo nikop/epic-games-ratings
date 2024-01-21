@@ -6,40 +6,40 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~513 |
-| First of many… | 68.00% | ~453 |
-| Helping Hand | 65.00% | ~433 |
-| Increased Vigor | 61.00% | ~406 |
-| Fight Fire with Fire | 59.00% | ~393 |
-| Increased Capacity | 56.00% | ~373 |
-| Just the start | 50.00% | ~333 |
+| Green with Envy | 77.00% | ~514 |
+| First of many… | 68.00% | ~454 |
+| Helping Hand | 65.00% | ~434 |
+| Increased Vigor | 61.00% | ~407 |
+| Fight Fire with Fire | 58.00% | ~387 |
+| Increased Capacity | 56.00% | ~374 |
+| Just the start | 50.00% | ~334 |
 | Perfect Storm | 47.00% | ~313 |
 | All That Glitters | 47.00% | ~313 |
-| Enhance! | 43.00% | ~286 |
-| One Of the Chosen | 41.00% | ~273 |
+| Enhance! | 43.00% | ~287 |
+| One Of the Chosen | 42.00% | ~280 |
 | Devil's in the Details | 41.00% | ~273 |
 | Throne Potato | 41.00% | ~273 |
 | Five's a Crowd | 41.00% | ~273 |
-| Salvation | 40.00% | ~266 |
-| 25 to Life | 40.00% | ~266 |
-| Unshakable Fortitude | 37.00% | ~246 |
-| Soul Harvester | 37.00% | ~246 |
+| Salvation | 40.00% | ~267 |
+| 25 to Life | 40.00% | ~267 |
+| Unshakable Fortitude | 37.00% | ~247 |
+| Soul Harvester | 37.00% | ~247 |
 | I Wanna Rock | 36.00% | ~240 |
 | Delusions of Grandeur | 36.00% | ~240 |
 | Love Tap | 35.00% | ~233 |
 | Maximum Vigor | 33.00% | ~220 |
-| Freeze Frame | 31.00% | ~206 |
-| Eat Your Heart Out | 31.00% | ~206 |
+| Freeze Frame | 31.00% | ~207 |
+| Eat Your Heart Out | 31.00% | ~207 |
 | For Whom the Bell Tolls | 30.00% | ~200 |
-| Unyielding Strength | 28.00% | ~186 |
+| Unyielding Strength | 28.00% | ~187 |
 | Can you restore the Balance? | 27.00% | ~180 |
 | Crowd Source | 27.00% | ~180 |
 | Big Spender | 27.00% | ~180 |
 | Cleanup Crew | 26.00% | ~173 |
 | Seeing Red | 26.00% | ~173 |
-| Demon Meddler | 25.00% | ~166 |
+| Demon Meddler | 25.00% | ~167 |
+| Maximum Capacity | 24.00% | ~160 |
 | Egomaniac | 24.00% | ~160 |
-| Maximum Capacity | 23.00% | ~153 |
 | Protector of Humanity | 23.00% | ~153 |
 | Everybody Wants to Rule the World | 23.00% | ~153 |
 | Community Outreach | 17.00% | ~113 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 666 (Ranked 341)  
+Progressed: 667 (Ranked 341)  
 Completed: 2 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -108,7 +108,7 @@ Completed: 2 (0.30%) (Ranked 265)
 | 2024-01-18 | 642 | 2 |
 | 2024-01-19 | 649 | 2 |
 | 2024-01-20 | 658 | 2 |
-| 2024-01-21 | 666 | 2 |
+| 2024-01-21 | 667 | 2 |
 ## Awards
 Max (Great Boss Battles): 100  (Ranked 383)  
 Sum: 100 (Ranked 474)  

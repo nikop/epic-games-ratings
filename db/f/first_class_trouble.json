@@ -2,13 +2,13 @@
   "ID": "27834480410d4000a987b32801e9abba",
   "Name": "First Class Trouble",
   "ProductSlug": "first-class-trouble",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 669,
   "Ranking_Popularity": 336,
   "Ranking_PopularitySum": 295,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-22T15:00:00+00:00",
     "PcReleaseDate": "2022-09-22T15:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "KR"
     }
   },
-  "Rating": 4.48,
+  "Rating": 4.47,
   "RatingHistory": [
     {
       "Time": "2023-01-13T07:56:45.2170748+00:00",
@@ -1933,6 +1933,12 @@
       "Rating": 4.48,
       "NumberOfAwards": 814,
       "NumberOfAwardsMax": 148
+    },
+    {
+      "Time": "2024-01-21T22:03:26.0266965+00:00",
+      "Rating": 4.47,
+      "NumberOfAwards": 814,
+      "NumberOfAwardsMax": 148
     }
   ],
   "ReviewsDisabled": false,
@@ -2013,8 +2019,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-09-22T22:01:01.54229+00:00",
   "FirstSeenRating": "2023-01-13T07:56:45.2170746+00:00",
-  "LastChanged": "2024-01-20T22:03:18.9033776+00:00",
+  "LastChanged": "2024-01-21T22:03:26.0266964+00:00",
   "LastUpdate_AppInfo": "2024-01-21T02:57:10.3049737+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:03:42.1021385+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:09:10.8360923+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:03:26.0266969+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:08:46.3889707+00:00"
 }

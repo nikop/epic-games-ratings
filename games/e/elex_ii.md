@@ -11,7 +11,7 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 36.00% | ~100 |
 | Civilian | 36.00% | ~100 |
 | Creator | 33.00% | ~92 |
-| Military Leader | 30.00% | ~83 |
+| Military Leader | 31.00% | ~86 |
 | Festival-goer | 29.00% | ~81 |
 | Peddler | 26.00% | ~72 |
 | Commander | 26.00% | ~72 |
@@ -26,10 +26,10 @@ Number of Ratings: 124  (23.09.2022)
 | Berserker | 15.00% | ~42 |
 | Alb | 13.00% | ~36 |
 | Hunter | 13.00% | ~36 |
+| Perfectionist | 12.00% | ~33 |
 | Lover | 12.00% | ~33 |
 | Beam Me Up | 11.00% | ~31 |
 | Free as a Bird | 11.00% | ~31 |
-| Perfectionist | 11.00% | ~31 |
 | Treasure Hunter | 9.00% | ~25 |
 | Hotshot | 8.00% | ~22 |
 | Detective | 8.00% | ~22 |

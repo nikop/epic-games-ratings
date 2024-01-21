@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 333,
   "Ranking_EOS_NewPlayers": 309,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2020-09-25T16:00:00+00:00",
     "PcReleaseDate": "2020-09-25T16:00:00+00:00",
@@ -261,7 +261,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1245,
+  "EOS_Progressed": 1246,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
@@ -3646,6 +3646,11 @@
       "Time": "2024-01-21T15:06:51.1184934+00:00",
       "NumProgressed": 1245,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T22:05:45.3194508+00:00",
+      "NumProgressed": 1246,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -3665,7 +3670,7 @@
       "Name": "Seafarer",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 622
+      "UsersEstimate": 623
     },
     {
       "ID": "ACH002",
@@ -3713,7 +3718,7 @@
       "Name": "My little farm",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACH008",
@@ -3745,7 +3750,7 @@
       "Name": "Intangible",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH012",
@@ -3753,7 +3758,7 @@
       "Name": "3, 2, 1, mine",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH013",
@@ -3777,7 +3782,7 @@
       "Name": "Groundskeeper",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 312
     },
     {
       "ID": "ACH016",
@@ -3873,7 +3878,7 @@
       "Name": "I\u0027m out of here for a while",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "ACH028",
@@ -3889,7 +3894,7 @@
       "Name": "Licence to Kill",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 448
+      "UsersEstimate": 449
     },
     {
       "ID": "ACH030",
@@ -3897,7 +3902,7 @@
       "Name": "Walk the plank",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACH031",
@@ -3913,7 +3918,7 @@
       "Name": "Pirates!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "ACH033",
@@ -3945,7 +3950,7 @@
       "Name": "Every beginning is difficult",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ACH037",
@@ -3961,7 +3966,7 @@
       "Name": "O Captain! My Captain!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 672
+      "UsersEstimate": 673
     },
     {
       "ID": "ACH039",
@@ -4001,7 +4006,7 @@
       "Name": "Your vessel, my vessel",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "ACH044",
@@ -4056,15 +4061,15 @@
     {
       "ID": "69nfp41",
       "IsBase": true,
-      "Progressed": 1245,
+      "Progressed": 1246,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:21:17.2612999+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.2898824+00:00",
   "LastChanged": "2023-11-01T22:59:02.448108+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:06:29.2138786+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:05:45.3194505+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:10.9805556+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:00:57.5865972+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:06:29.2139327+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:59:58.3214734+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:05:45.3195063+00:00"
 }

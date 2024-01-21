@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 52,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 16,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -145,11 +145,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2940,
+  "EOS_Progressed": 2942,
   "EOS_Completed": 229,
-  "EOS_NewPlayers": 168,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 21,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed_Percentage": 7.78,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7855,6 +7855,11 @@
       "Time": "2024-01-21T18:07:20.175658+00:00",
       "NumProgressed": 2940,
       "NumCompleted": 229
+    },
+    {
+      "Time": "2024-01-21T22:06:04.800683+00:00",
+      "NumProgressed": 2942,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 25,
@@ -7882,7 +7887,7 @@
       "Name": "Peace walker",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 823
+      "UsersEstimate": 824
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7914,7 +7919,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "META_RESULT_1-3",
@@ -7930,7 +7935,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "META_RESULT_2-3",
@@ -7954,7 +7959,7 @@
       "Name": "A Link to the Past",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 529
+      "UsersEstimate": 530
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -7962,7 +7967,7 @@
       "Name": "Alchemists Express",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 676
+      "UsersEstimate": 677
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -7978,7 +7983,7 @@
       "Name": "True G3M4R",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -8010,7 +8015,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1764
+      "UsersEstimate": 1765
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8026,7 +8031,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1589
     },
     {
       "ID": "PROGRESS_N2",
@@ -8034,7 +8039,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1352
+      "UsersEstimate": 1353
     },
     {
       "ID": "PROGRESS_N3",
@@ -8050,7 +8055,7 @@
       "Name": "The darkness",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 970
+      "UsersEstimate": 971
     },
     {
       "ID": "PROGRESS_N5",
@@ -8058,14 +8063,14 @@
       "Name": "One last step",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 882
+      "UsersEstimate": 883
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2940,
+      "Progressed": 2942,
       "Completed": 229
     }
   ],
@@ -8073,8 +8078,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-21T16:59:53.3167431+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:06:53.5638472+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:06:04.8006828+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:59:31.5245253+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:06:53.5638983+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:58:52.3056373+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:06:04.8007386+00:00"
 }

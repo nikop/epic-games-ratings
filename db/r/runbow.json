@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253723,
+  "EOS_Progressed": 253724,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24692,6 +24692,11 @@
       "Time": "2024-01-21T21:11:03.2198798+00:00",
       "NumProgressed": 253723,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T22:10:20.4193769+00:00",
+      "NumProgressed": 253724,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24775,7 +24780,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38058
+      "UsersEstimate": 38059
     },
     {
       "ID": "clearCut",
@@ -24879,7 +24884,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134473
+      "UsersEstimate": 134474
     },
     {
       "ID": "indegestible",
@@ -25007,7 +25012,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58356
+      "UsersEstimate": 58357
     },
     {
       "ID": "thunderstruck",
@@ -25070,7 +25075,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253723,
+      "Progressed": 253724,
       "Completed": 6
     }
   ],
@@ -25078,8 +25083,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:11:03.2198794+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:10:20.4193768+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:01:40.2865246+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:11:03.2200447+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:00:30.3011621+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:10:20.4194848+00:00"
 }

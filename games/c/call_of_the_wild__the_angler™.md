@@ -27,9 +27,9 @@ Number of Ratings: 281  (23.09.2022)
 | Marathon | 1.00% | ~84 |
 | Gonna Need a Bigger Boat | 0.80% | ~67 |
 | No Fin left to give | 0.60% | ~50 |
+| The Beetles | 0.50% | ~42 |
 | Live by the Rod, Diez by the Rod! | 0.50% | ~39 |
 | Aguas Claras Conquistador | 0.50% | ~39 |
-| The Beetles | 0.40% | ~34 |
 | Taylor Made | 0.40% | ~34 |
 | Rod and Troll | 0.40% | ~31 |
 | All Good Kings Must Come to an End | 0.40% | ~31 |

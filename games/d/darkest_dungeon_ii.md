@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,245 |
-| Lost and Found | 9.00% | ~747 |
+| Malpractice Assurance | 15.00% | ~1,246 |
+| Lost and Found | 9.00% | ~748 |
 | Autodidact | 8.00% | ~10,675 |
-| This Belongs in a Museum | 7.00% | ~9,340 |
-| Creep and Sleep | 7.00% | ~9,340 |
-| Overdue Notice | 7.00% | ~9,340 |
-| This guy... again? | 7.00% | ~581 |
+| This Belongs in a Museum | 7.00% | ~9,341 |
+| Creep and Sleep | 7.00% | ~9,341 |
+| Overdue Notice | 7.00% | ~9,341 |
+| This guy... again? | 7.00% | ~582 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,006 |
 | Serenity Now! | 6.00% | ~8,006 |
 | Meat and Greet | 6.00% | ~8,006 |
@@ -32,22 +32,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,672 |
 | Nope | 5.00% | ~6,672 |
 | Friends 'Til the End | 5.00% | ~415 |
-| Resurrection | 4.00% | ~5,337 |
-| Unleash Hell | 4.00% | ~5,337 |
-| Funny Guy | 4.00% | ~5,337 |
-| Long Live the King | 4.00% | ~5,337 |
-| Wyrdly Reconstructed | 4.00% | ~5,337 |
-| Boxcar Kid | 4.00% | ~5,337 |
-| Unfulfilled Desires | 4.00% | ~5,337 |
-| Dissector | 4.00% | ~5,337 |
-| Banishment | 4.00% | ~5,337 |
-| Deprogramming | 4.00% | ~5,337 |
-| Now Stay Dead | 4.00% | ~5,337 |
-| Spelunker | 4.00% | ~5,337 |
-| Ramble On | 4.00% | ~5,337 |
-| A Clear Conscience | 4.00% | ~5,337 |
-| Unshackled | 4.00% | ~5,337 |
-| Road Trip | 4.00% | ~5,337 |
+| Resurrection | 4.00% | ~5,338 |
+| Unleash Hell | 4.00% | ~5,338 |
+| Funny Guy | 4.00% | ~5,338 |
+| Long Live the King | 4.00% | ~5,338 |
+| Wyrdly Reconstructed | 4.00% | ~5,338 |
+| Boxcar Kid | 4.00% | ~5,338 |
+| Unfulfilled Desires | 4.00% | ~5,338 |
+| Dissector | 4.00% | ~5,338 |
+| Banishment | 4.00% | ~5,338 |
+| Deprogramming | 4.00% | ~5,338 |
+| Now Stay Dead | 4.00% | ~5,338 |
+| Spelunker | 4.00% | ~5,338 |
+| Ramble On | 4.00% | ~5,338 |
+| A Clear Conscience | 4.00% | ~5,338 |
+| Unshackled | 4.00% | ~5,338 |
+| Road Trip | 4.00% | ~5,338 |
 | Hope Rekindled | 3.00% | ~4,003 |
 | Predator | 3.00% | ~4,003 |
 | Reverse Banditry | 3.00% | ~4,003 |
@@ -69,7 +69,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Slap on the Wrist | 1.00% | ~83 |
 | Et Tu, Riposte? | 1.00% | ~83 |
 | For Old Time' Sake | 1.00% | ~83 |
-| The World As It Was | 0.80% | ~1,067 |
+| The World As It Was | 0.80% | ~1,068 |
 | A Life Well Lived | 0.70% | ~934 |
 | Bacon Bits | 0.70% | ~934 |
 | Eidetic | 0.60% | ~801 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,433 (Ranked 92)  
+Progressed: 133,439 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,16 +352,16 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,433 | 5 |
+| 2024-01-21 | 133,439 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
-Sum: 21,801 (Ranked 58)  
+Sum: 21,804 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,057 |
 | This game has Diverse Characters | 1,881 |
-| This game has Challenging Combat | 1,689 |
+| This game has Challenging Combat | 1,692 |
 | This game is Highly Recommended | 1,613 |
 | This game has Amazing Characters | 1,542 |
 | This game is Extremely Fun | 1,536 |
@@ -732,4 +732,4 @@ Diff (max vs sum): -6
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
 | 2024-01-20 | 4.69 | - | 8,048 | 21,780 |
-| 2024-01-21 | 4.69 | - | 8,057 | 21,801 |
+| 2024-01-21 | 4.69 | - | 8,057 | 21,804 |

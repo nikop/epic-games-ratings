@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 263,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -891,7 +891,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3923,
+  "EOS_Progressed": 3924,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
@@ -6146,6 +6146,11 @@
       "Time": "2024-01-21T09:05:36.1039649+00:00",
       "NumProgressed": 3923,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T22:04:45.470461+00:00",
+      "NumProgressed": 3924,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6405,7 +6410,7 @@
       "Name": "An Ill Omen",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 588
+      "UsersEstimate": 589
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6700,21 +6705,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3923,
+      "Progressed": 3924,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3923,
+      "Progressed": 3924,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-21T02:01:56.8630375+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:05:17.3929199+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:04:45.4704607+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:03:36.5238133+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:05:17.3929935+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:03:22.1274783+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:04:45.4705389+00:00"
 }

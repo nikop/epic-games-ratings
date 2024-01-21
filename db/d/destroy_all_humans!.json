@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 352,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,7 +305,7 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 549,
+  "EOS_Progressed": 550,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 57,
   "EOS_NewCompleters": 1,
@@ -2210,6 +2210,11 @@
       "Time": "2024-01-21T21:08:25.7565258+00:00",
       "NumProgressed": 549,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T22:06:39.4269349+00:00",
+      "NumProgressed": 550,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2222,7 +2227,7 @@
       "Name": "Fly Me to the Moon Base",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ACH_ABILITY_ABDUCTOBEAMCOW",
@@ -2262,7 +2267,7 @@
       "Name": "Yettisoned",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 335
+      "UsersEstimate": 336
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2278,15 +2283,15 @@
       "Name": "Forbidden Donut",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
       "SetID": "cefn62b",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 340
+      "UsersEstimate": 346
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2294,7 +2299,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 159
+      "UsersEstimate": 160
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -2302,7 +2307,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -2342,7 +2347,7 @@
       "Name": "PK Slam Dunk",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "ACH_CHALLENGE_RAMPAGETHREESTAR",
@@ -2350,7 +2355,7 @@
       "Name": "If You Know What I Mean",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "ACH_CHALLENGE_THREESTARSEVERYWHERE",
@@ -2374,7 +2379,7 @@
       "Name": "Earthly Pleasures",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 269
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
@@ -2382,7 +2387,7 @@
       "Name": "Kaijuiced",
       "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 395
+      "UsersEstimate": 396
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2390,7 +2395,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 357
+      "UsersEstimate": 358
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2422,7 +2427,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2438,7 +2443,7 @@
       "Name": "Re-Return of the Clone of the Invasion II-2",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "ACH_INVADE_CAPITOL",
@@ -2462,7 +2467,7 @@
       "Name": "Upgreatest",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -2524,9 +2529,9 @@
       "ID": "ACH_UPGRADE_SAUCER",
       "SetID": "cefn62b",
       "Name": "Ducks in a Row, Fish in a Barrel",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 264
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2541,15 +2546,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 549,
+      "Progressed": 550,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:08:25.7565251+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:06:39.4269346+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:24.5329483+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:57:31.2463211+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:08:25.7565804+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:57:18.0277521+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:06:39.4269658+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "e65306b6830641a68e3b76e5b1bc2dfd",
   "Name": "Strange House",
   "ProductSlug": "strange-house-5fd1b5",
-  "Ranking_EOS_Progress": 568,
-  "Ranking_EOS_Completed": 137,
-  "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_Progress": 566,
+  "Ranking_EOS_Completed": 139,
+  "Ranking_EOS_NewPlayers": 487,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
     "PcReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -22,11 +22,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 50,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.04,
+  "EOS_Completed_Percentage": 2,
   "EosHistory": [
     {
       "Time": "2023-10-08T22:03:43.755749+00:00",
@@ -277,6 +277,11 @@
       "Time": "2024-01-12T00:08:53.7602611+00:00",
       "NumProgressed": 49,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T22:09:32.5101307+00:00",
+      "NumProgressed": 50,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-08T22:03:43.7557522+00:00",
@@ -336,13 +341,13 @@
     {
       "ID": "a2ci5mh",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 50,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:10:05.2170732+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:09:32.5101304+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.9265749+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:03:35.3220249+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:10:05.2171116+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:03:21.1998447+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:09:32.510136+00:00"
 }

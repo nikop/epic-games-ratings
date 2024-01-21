@@ -4,8 +4,8 @@
   "ProductSlug": "bus-world-5de29e",
   "Ranking_EOS_Progress": 349,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 331,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 322,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-10T16:00:00+00:00",
     "PcReleaseDate": "2022-09-29T03:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 558,
+  "EOS_Progressed": 559,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2199,6 +2199,11 @@
       "Time": "2024-01-20T13:11:49.2750628+00:00",
       "NumProgressed": 558,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T22:03:59.8217835+00:00",
+      "NumProgressed": 559,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2227,15 +2232,15 @@
       "Name": "Critical dissatisfaction",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 329
+      "UsersEstimate": 335
     },
     {
       "ID": "Island",
@@ -2322,14 +2327,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 558,
+      "Progressed": 559,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:04:21.9543829+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:03:59.8217832+00:00",
   "LastUpdate_AppInfo": "2024-01-16T05:57:15.8277407+00:00",
-  "LastUpdate_Ratings": "2024-01-21T21:01:09.4939255+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:04:21.9544067+00:00"
+  "LastUpdate_Ratings": "2024-01-21T22:00:07.2419946+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:03:59.8218085+00:00"
 }

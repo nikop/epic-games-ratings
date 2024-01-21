@@ -9739,9 +9739,9 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255090,
+  "EOS_Progressed": 255102,
   "EOS_Completed": 2629,
-  "EOS_NewPlayers": 1143,
+  "EOS_NewPlayers": 1150,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41124,6 +41124,11 @@
       "Time": "2024-01-21T21:11:23.0810017+00:00",
       "NumProgressed": 255090,
       "NumCompleted": 2629
+    },
+    {
+      "Time": "2024-01-21T22:10:38.1243375+00:00",
+      "NumProgressed": 255102,
+      "NumCompleted": 2629
     }
   ],
   "TotalAchievements": 546,
@@ -41135,7 +41140,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12754
+      "UsersEstimate": 12755
     },
     {
       "ID": "objective_completed_10",
@@ -41143,7 +41148,7 @@
       "Name": "Maddening",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_100",
@@ -42239,7 +42244,7 @@
       "Name": "Beast Mode",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_149",
@@ -42327,7 +42332,7 @@
       "Name": "A Mysterious Summons",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_165",
@@ -42463,7 +42468,7 @@
       "Name": "Unearthed Evil",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_20",
@@ -42823,7 +42828,7 @@
       "Name": "The Crumbling Temple",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_36",
@@ -43279,7 +43284,7 @@
       "Name": "Exploring Port Nyanzaru",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_540",
@@ -43679,7 +43684,7 @@
       "Name": "The Contagious Curse",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_60",
@@ -44207,7 +44212,7 @@
       "Name": "Escort to Waterdeep",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "objective_completed_690",
@@ -45407,7 +45412,7 @@
       "Name": "Arcane Suppression",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "objective_completed_1352",
@@ -45415,7 +45420,7 @@
       "Name": "Welcome to the Vrocks",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "objective_completed_1557",
@@ -45431,7 +45436,7 @@
       "Name": "Misaligned in Sigil",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "objective_completed_1562",
@@ -45447,7 +45452,7 @@
       "Name": "Chaos Theory",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     },
     {
       "ID": "objective_completed_598",
@@ -45495,28 +45500,28 @@
       "Name": "Mind Spike",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 885
+      "UsersEstimate": 886
     }
   ],
   "AchievementSets": [
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221364,
+      "Progressed": 221376,
       "Completed": 4156
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255090,
+      "Progressed": 255102,
       "Completed": 2629
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-21T15:57:21.4762295+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:11:23.0810012+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:10:38.1243372+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:57:33.7138115+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:11:23.0834911+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:57:19.9501456+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:10:38.126643+00:00"
 }

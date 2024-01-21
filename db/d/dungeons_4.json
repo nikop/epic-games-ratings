@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 88,
-  "Ranking_EOS_NewPlayers": 294,
+  "Ranking_EOS_NewPlayers": 298,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -103,7 +103,7 @@
   "Tags": [],
   "EOS_Progressed": 783,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 16,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 4.34,
   "EosHistory": [
@@ -2697,9 +2697,9 @@
       "ID": "ach_main05evil_completed",
       "SetID": "4hg22ll",
       "Name": "Bad Elves Go Everywhere",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 540
+      "UsersEstimate": 548
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2713,9 +2713,9 @@
       "ID": "ach_main05evil_unicorn",
       "SetID": "4hg22ll",
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 493
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -3098,8 +3098,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:10:31.0622407+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:09:53.4074671+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:57:43.3902036+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:10:31.0623136+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:57:26.6888516+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:09:53.4075112+00:00"
 }

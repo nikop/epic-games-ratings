@@ -7,11 +7,11 @@ Rating: 4.16 (Ranked 1,000)
 | ---- | ---------- | ----- |
 | Attachments | 13.00% | ~6,190 |
 | Unlocked Potential | 12.00% | ~5,714 |
-| Tinkerer | 9.00% | ~4,285 |
-| Leapfrogger | 8.00% | ~3,809 |
-| Knock 'Em Dead | 8.00% | ~3,809 |
-| Pilgrimage: Initiate | 8.00% | ~3,809 |
-| Hell of a Run | 8.00% | ~3,809 |
+| Tinkerer | 9.00% | ~4,286 |
+| Leapfrogger | 8.00% | ~3,810 |
+| Knock 'Em Dead | 8.00% | ~3,810 |
+| Pilgrimage: Initiate | 8.00% | ~3,810 |
+| Hell of a Run | 8.00% | ~3,810 |
 | Call of the Fount: Baptized | 7.00% | ~3,333 |
 | No Mercy | 6.00% | ~2,857 |
 | Explorer: Seeker | 6.00% | ~2,857 |
@@ -19,10 +19,10 @@ Rating: 4.16 (Ranked 1,000)
 | Through the Eyes of Another: Empath | 5.00% | ~2,381 |
 | Stuck | 5.00% | ~2,381 |
 | The Interloper | 4.00% | ~1,905 |
-| Outdoorsperson | 3.00% | ~1,428 |
-| Damned If You Do... | 3.00% | ~1,428 |
-| Hop, Step, Jump | 3.00% | ~1,428 |
-| Endless Runner | 3.00% | ~1,428 |
+| Outdoorsperson | 3.00% | ~1,429 |
+| Damned If You Do... | 3.00% | ~1,429 |
+| Hop, Step, Jump | 3.00% | ~1,429 |
+| Endless Runner | 3.00% | ~1,429 |
 | What Must Be Done | 2.00% | ~952 |
 | Might and Main | 2.00% | ~952 |
 | The Hue of Blue | 2.00% | ~952 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 1,000)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,615 (Ranked 128)  
+Progressed: 47,619 (Ranked 128)  
 Completed: 4 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 4 (0.01%) (Ranked 383)
 | 2024-01-18 | 47,464 | 4 |
 | 2024-01-19 | 47,505 | 4 |
 | 2024-01-20 | 47,566 | 4 |
-| 2024-01-21 | 47,615 | 4 |
+| 2024-01-21 | 47,619 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 456)  
 Sum: 79 (Ranked 489)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 417,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 257,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 258,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1825,9 +1825,9 @@
       "ID": "5CREWMEMBER",
       "SetID": "a1angca",
       "Name": "Military Leader",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 86
     },
     {
       "ID": "ALLCOMBAT",
@@ -1953,9 +1953,9 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 33
     },
     {
       "ID": "FINDALLIES",
@@ -2105,8 +2105,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:05:57.5044759+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:05:18.9738753+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:59:53.7678891+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:05:57.5045198+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:59:09.7469156+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:05:18.9739285+00:00"
 }

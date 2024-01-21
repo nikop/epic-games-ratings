@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 136,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -285,9 +285,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17557,
+  "EOS_Progressed": 17558,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 402,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12965,6 +12965,11 @@
       "Time": "2024-01-21T21:05:57.8385287+00:00",
       "NumProgressed": 17557,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T22:05:19.3583823+00:00",
+      "NumProgressed": 17558,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -12976,7 +12981,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9656
+      "UsersEstimate": 9657
     },
     {
       "ID": "Ach002",
@@ -13016,7 +13021,7 @@
       "Name": "Time to pay up!",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "Ach007",
@@ -13024,7 +13029,7 @@
       "Name": "Who\u0027s the boss now?",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "Ach008",
@@ -13104,7 +13109,7 @@
       "Name": "I play my own way!",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 4389
+      "UsersEstimate": 4390
     },
     {
       "ID": "Ach018",
@@ -13168,7 +13173,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5618
+      "UsersEstimate": 5619
     },
     {
       "ID": "Ach026",
@@ -13224,7 +13229,7 @@
       "Name": "Perfecter Parry-er!",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "Ach033",
@@ -13304,7 +13309,7 @@
       "Name": "I look cool. But I can look COOLER.",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2282
+      "UsersEstimate": 2283
     },
     {
       "ID": "Ach043",
@@ -13376,7 +13381,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8954
+      "UsersEstimate": 8955
     },
     {
       "ID": "Ach052",
@@ -13543,13 +13548,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17557,
+      "Progressed": 17558,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16078,
+      "Progressed": 16079,
       "Completed": 1931
     }
   ],
@@ -13557,8 +13562,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:05:57.8385282+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:05:19.358382+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:59:45.3844236+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:05:57.8386565+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:59:03.1561766+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:05:19.3585034+00:00"
 }

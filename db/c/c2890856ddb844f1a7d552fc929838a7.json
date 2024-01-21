@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 200,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -323,7 +323,7 @@
   ],
   "EOS_Progressed": 2605,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 88,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6508,9 +6508,9 @@
       "ID": "AC14",
       "SetID": "l4abp0",
       "Name": "Acta, Non Verba",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 495
     },
     {
       "ID": "AC15",
@@ -6740,9 +6740,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1120
+      "UsersEstimate": 1146
     },
     {
       "ID": "AC44",
@@ -6773,8 +6773,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:08:17.5338537+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:06:32.3654357+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:58:25.2991392+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:08:17.5339516+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:57:59.6347447+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:06:32.365483+00:00"
 }

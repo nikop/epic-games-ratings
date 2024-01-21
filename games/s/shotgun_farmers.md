@@ -16,7 +16,7 @@
 | Early Survivor | 39.00% | ~131 |
 | Bouncemato | 32.00% | ~108 |
 | 10K | 28.00% | ~108 |
-| Amateur Survivor | 27.00% | ~91 |
+| Amateur Survivor | 28.00% | ~94 |
 | 15K | 26.00% | ~100 |
 | Grave Digger | 24.00% | ~81 |
 | Drinking Problem | 22.00% | ~85 |
@@ -51,12 +51,12 @@
 | Pro Sniperagus | 0.80% | ~3 |
 | King of the Crow | 0.80% | ~3 |
 | Forestside Survivor | 0.50% | ~2 |
+| Graveside Survivor | 0.50% | ~2 |
 | Pro Pyromancer | 0.50% | ~2 |
 | Unstoppable | 0.50% | ~2 |
 | Death From Above | 0.50% | ~2 |
 | 30 Days | 0.30% | ~1 |
 | Darkside Survivor | 0.30% | ~1 |
-| Graveside Survivor | 0.30% | ~1 |
 | Berry Loved | 0.30% | ~1 |
 | Carrocket From Above | 0.30% | ~1 |
 | Heal Me Peas | 0.30% | ~1 |

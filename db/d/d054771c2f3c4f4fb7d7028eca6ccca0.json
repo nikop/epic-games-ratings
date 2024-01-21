@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
     "PcReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4493,
+  "EOS_Progressed": 4494,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 347,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5709,6 +5709,11 @@
       "Time": "2024-01-21T21:06:57.7429231+00:00",
       "NumProgressed": 4493,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T22:06:08.3043303+00:00",
+      "NumProgressed": 4494,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5825,7 +5830,7 @@
       "Name": "Worthy Badge",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 988
+      "UsersEstimate": 989
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -5905,7 +5910,7 @@
       "Name": "Personal Sanctuary",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1842
+      "UsersEstimate": 1843
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -6096,20 +6101,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4493,
+      "Progressed": 4494,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 271,
-      "Completed": 271
+      "Progressed": 272,
+      "Completed": 272
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:06:57.7429227+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:06:08.3043301+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.8664152+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:59:40.0427871+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:06:57.7430149+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:58:59.031882+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:06:08.3043811+00:00"
 }

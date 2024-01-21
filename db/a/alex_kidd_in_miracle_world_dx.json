@@ -4,8 +4,8 @@
   "ProductSlug": "alex-kidd-in-miracle-world-dx",
   "Ranking_EOS_Progress": 366,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 349,
+  "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2021-06-22T16:00:00+00:00",
     "PcReleaseDate": "2021-06-22T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 452,
+  "EOS_Progressed": 453,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1079,6 +1079,11 @@
       "Time": "2024-01-20T20:04:27.5467627+00:00",
       "NumProgressed": 452,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T22:05:15.2403606+00:00",
+      "NumProgressed": 453,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 16,
@@ -1130,7 +1135,7 @@
       "Name": "Prisoner",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "GOOSEKA_DEFEATED",
@@ -1146,15 +1151,15 @@
       "Name": "Assailants",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "JANKEN_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Janken The Great",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 45
+      "UsersEstimate": 41
     },
     {
       "ID": "LEVEL_04",
@@ -1184,9 +1189,9 @@
       "ID": "OX_DEFEATED",
       "SetID": "7im05fi",
       "Name": "Wild Ox",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 40,
-      "UsersEstimate": 181
+      "UsersEstimate": 186
     },
     {
       "ID": "PARPLIN_DEFEATED",
@@ -1217,7 +1222,7 @@
     {
       "ID": "7im05fi",
       "IsBase": true,
-      "Progressed": 452,
+      "Progressed": 453,
       "Completed": 4
     }
   ],
@@ -1225,8 +1230,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2511122+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.0192064+00:00",
   "LastChanged": "2023-03-31T05:58:14.2511123+00:00",
-  "LastChanged_Achievements": "2024-01-21T21:05:53.1406517+00:00",
+  "LastChanged_Achievements": "2024-01-21T22:05:15.2403604+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.9530266+00:00",
-  "LastUpdate_Ratings": "2024-01-21T20:58:25.6445197+00:00",
-  "LastUpdate_Achievements": "2024-01-21T21:05:53.1406666+00:00"
+  "LastUpdate_Ratings": "2024-01-21T21:57:59.8981975+00:00",
+  "LastUpdate_Achievements": "2024-01-21T22:05:15.2403742+00:00"
 }
