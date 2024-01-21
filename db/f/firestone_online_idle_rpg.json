@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 358,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4716,
+  "EOS_Progressed": 4718,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 225,
+  "EOS_NewPlayers": 224,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13174,6 +13174,11 @@
       "Time": "2024-01-21T16:04:56.5990787+00:00",
       "NumProgressed": 4716,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T17:06:22.2512153+00:00",
+      "NumProgressed": 4718,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13209,7 +13214,7 @@
       "Name": "Arena Challenger",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "backgroundstory",
@@ -13281,7 +13286,7 @@
       "Name": "Doing My Part",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "dragonclicker",
@@ -13289,7 +13294,7 @@
       "Name": "Dragon Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "dragonmaster",
@@ -13313,7 +13318,7 @@
       "Name": "Ebony Jungle Liberator",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 141
+      "UsersEstimate": 142
     },
     {
       "ID": "enchantingskill",
@@ -13369,7 +13374,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1981
+      "UsersEstimate": 1982
     },
     {
       "ID": "fourleafclover",
@@ -13521,7 +13526,7 @@
       "Name": "Miner Clicker",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 707
+      "UsersEstimate": 708
     },
     {
       "ID": "missionsdedication",
@@ -13577,7 +13582,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2452
+      "UsersEstimate": 2453
     },
     {
       "ID": "prestigiousx10",
@@ -13585,7 +13590,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "relicofthepast",
@@ -13609,7 +13614,7 @@
       "Name": "Scientist",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "scrollmaster",
@@ -13641,7 +13646,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2641
+      "UsersEstimate": 2642
     },
     {
       "ID": "thealchemist",
@@ -13681,7 +13686,7 @@
       "Name": "The power of Awakening",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 424
+      "UsersEstimate": 425
     },
     {
       "ID": "theunstoppable",
@@ -13745,7 +13750,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4386
+      "UsersEstimate": 4388
     },
     {
       "ID": "warmachinesarmy",
@@ -13777,14 +13782,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3680
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4716,
+      "Progressed": 4718,
       "Completed": 2
     }
   ],
@@ -13792,8 +13797,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:04:56.5990785+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:06:22.251215+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:59:56.0431868+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:04:56.5991832+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:01:37.0385736+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:06:22.2513206+00:00"
 }

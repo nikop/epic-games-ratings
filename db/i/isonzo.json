@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 187,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
     "PcReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1099,9 +1099,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10021,
+  "EOS_Progressed": 10022,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11454,6 +11454,11 @@
       "Time": "2024-01-21T15:10:27.7238894+00:00",
       "NumProgressed": 10021,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T17:10:48.0596324+00:00",
+      "NumProgressed": 10022,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11481,7 +11486,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4409
+      "UsersEstimate": 4410
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11609,7 +11614,7 @@
       "Name": "Luigi Cadorna",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 1603
+      "UsersEstimate": 1604
     },
     {
       "ID": "ISONZO_ACH_MACHIAVELLI",
@@ -11633,7 +11638,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3507
+      "UsersEstimate": 3508
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11657,7 +11662,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4509
+      "UsersEstimate": 4510
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11793,7 +11798,7 @@
       "Name": "Tutti Eroi!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 5010
+      "UsersEstimate": 5011
     },
     {
       "ID": "ISONZO_ACH_UOMO_UNIVERSALE",
@@ -11824,7 +11829,7 @@
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10021,
+      "Progressed": 10022,
       "Completed": 10
     }
   ],
@@ -11832,8 +11837,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-20T21:57:37.7605938+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:06.718707+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:10:48.059632+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:57:59.6576803+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:06.7188157+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:42.1532831+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:10:48.059702+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 189,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
     "PcReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -872,7 +872,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6441,
+  "EOS_Progressed": 6442,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 1,
@@ -13592,6 +13592,11 @@
       "Time": "2024-01-21T16:05:06.7386932+00:00",
       "NumProgressed": 6441,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-21T17:06:36.456856+00:00",
+      "NumProgressed": 6442,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13668,7 +13673,7 @@
       "Name": "Flawless Victory",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "MF_Ach_FourthGate",
@@ -13684,7 +13689,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 386
+      "UsersEstimate": 387
     },
     {
       "ID": "MF_Ach_HitEmWhereItHurts",
@@ -13700,7 +13705,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1159
+      "UsersEstimate": 1160
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13787,15 +13792,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6441,
+      "Progressed": 6442,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-19T17:58:27.7315829+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:05:06.7386929+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:06:36.4568555+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:59:31.0506574+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:05:06.7387672+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:00:58.843259+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:06:36.4569096+00:00"
 }

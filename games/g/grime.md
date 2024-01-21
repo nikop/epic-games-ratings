@@ -17,15 +17,15 @@ Number of Ratings: 46  (23.09.2022)
 | Yank | 1.00% | ~1,692 |
 | Sharpened Vessel | 1.00% | ~1,692 |
 | Scion | 0.90% | ~1,519 |
-| Jawcrab | 0.90% | ~1,522 |
-| Jawstag | 0.90% | ~1,522 |
-| Feast | 0.90% | ~1,522 |
+| Jawcrab | 0.90% | ~1,523 |
+| Jawstag | 0.90% | ~1,523 |
+| Feast | 0.90% | ~1,523 |
 | Watcher | 0.80% | ~1,353 |
 | Shapely | 0.70% | ~1,184 |
 | Glare | 0.70% | ~1,181 |
 | Predator | 0.70% | ~1,184 |
 | Assimilation | 0.60% | ~1,015 |
-| Host | 0.60% | ~1,012 |
+| Host | 0.60% | ~1,013 |
 | Celebration | 0.60% | ~1,015 |
 | Hunt Down | 0.50% | ~846 |
 | Artisan | 0.40% | ~677 |
@@ -35,14 +35,14 @@ Number of Ratings: 46  (23.09.2022)
 | Breathsmith | 0.40% | ~677 |
 | Unwrap the Gift | 0.40% | ~677 |
 | Dream | 0.40% | ~675 |
-| Breath | 0.30% | ~507 |
-| Passage | 0.30% | ~507 |
-| Proportions | 0.30% | ~507 |
+| Breath | 0.30% | ~508 |
+| Passage | 0.30% | ~508 |
+| Proportions | 0.30% | ~508 |
 | Bloodhunter | 0.20% | ~338 |
-| Zygote | 0.20% | ~337 |
+| Zygote | 0.20% | ~338 |
 | Kinship | 0.20% | ~338 |
-| Kin | 0.20% | ~337 |
-| Listen | 0.20% | ~337 |
+| Kin | 0.20% | ~338 |
+| Listen | 0.20% | ~338 |
 | Spiral Heart | 0.10% | ~161 |
 | Skinmaker | 0.10% | ~169 |
 | Instruments | 0.10% | ~169 |
@@ -53,8 +53,8 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~169 |
 | Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,165 (Ranked 85)  
-Completed: 463 (0.27%) (Ranked 271)  
+Progressed: 169,171 (Ranked 85)  
+Completed: 464 (0.27%) (Ranked 271)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -306,7 +306,7 @@ Completed: 463 (0.27%) (Ranked 271)
 | 2024-01-18 | 168,812 | 461 |
 | 2024-01-19 | 168,940 | 462 |
 | 2024-01-20 | 169,084 | 462 |
-| 2024-01-21 | 169,165 | 463 |
+| 2024-01-21 | 169,171 | 464 |
 ## Awards
 Max (Highly Recommended): 63  (Ranked 432)  
 Sum: 466 (Ranked 347)  

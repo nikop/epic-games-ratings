@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 203,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1775,
+  "EOS_Progressed": 1776,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 0,
@@ -4791,6 +4791,11 @@
       "Time": "2024-01-21T15:10:38.4934343+00:00",
       "NumProgressed": 1775,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T17:10:57.9759143+00:00",
+      "NumProgressed": 1776,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4867,7 +4872,7 @@
       "Name": "The Alliance",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "AchvDoom",
@@ -4875,7 +4880,7 @@
       "Name": "The Invincible",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AchvEvacuate",
@@ -4883,7 +4888,7 @@
       "Name": "Evacuation",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "AchvInvShip",
@@ -4899,7 +4904,7 @@
       "Name": "Krauta is alive",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 532
+      "UsersEstimate": 533
     },
     {
       "ID": "AchvLava",
@@ -4955,7 +4960,7 @@
       "Name": "Got lost again",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 106
+      "UsersEstimate": 107
     },
     {
       "ID": "AchvPutAsleep",
@@ -4979,7 +4984,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "AchvReachCity",
@@ -5034,7 +5039,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1775,
+      "Progressed": 1776,
       "Completed": 1
     }
   ],
@@ -5042,8 +5047,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-20T17:59:31.7226659+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:14.0315485+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:10:57.9759139+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:00:06.39624+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:14.0315895+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:01:52.3009402+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:10:57.9759543+00:00"
 }

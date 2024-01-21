@@ -2,10 +2,10 @@
   "ID": "6c0cf3150f2647858f071175510cfcd4",
   "Name": "Aircraft Carrier Survival",
   "ProductSlug": "aircraft-carrier-survival-769456",
-  "Ranking_EOS_Progress": 595,
+  "Ranking_EOS_Progress": 592,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 248,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-01-17T14:00:00+00:00",
     "PcReleaseDate": "2022-04-20T13:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 36,
+  "EOS_Progressed": 37,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
@@ -164,6 +164,11 @@
       "Time": "2024-01-21T14:05:45.6949452+00:00",
       "NumProgressed": 36,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T17:07:52.457656+00:00",
+      "NumProgressed": 37,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-10T08:04:08.4002593+00:00",
@@ -176,13 +181,13 @@
       "Name": "Ensign",
       "Percentage": 89,
       "XP": 55,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
       "SetID": "a48gbka",
       "Name": "Lieutenant Junior Grade",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 55,
       "UsersEstimate": 18
     },
@@ -246,9 +251,9 @@
       "ID": "NEW_ACHIEVEMENT_1_2",
       "SetID": "a48gbka",
       "Name": "Lieutenant",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 55,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_3",
@@ -262,7 +267,7 @@
       "ID": "NEW_ACHIEVEMENT_1_31",
       "SetID": "a48gbka",
       "Name": "Lieutenant Commander",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 55,
       "UsersEstimate": 12
     },
@@ -319,14 +324,14 @@
     {
       "ID": "a48gbka",
       "IsBase": true,
-      "Progressed": 36,
+      "Progressed": 37,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-18T18:00:15.4077819+00:00",
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:06:01.0159015+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:07:52.4576556+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.63618+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:58:01.9063842+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:06:01.0159092+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:46.0940969+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:07:52.4576658+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -344,9 +344,9 @@
       "ID": "ACH_BREAD-AND-BREAKFAST",
       "SetID": "6lg1p1e",
       "Name": "Bread and Breakfast",
-      "Percentage": 18,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_COSPLAY",
@@ -464,9 +464,9 @@
       "ID": "ACH_MYSTERY-SOLVED",
       "SetID": "6lg1p1e",
       "Name": "Mystery Solved",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_OPULENT",
@@ -480,9 +480,9 @@
       "ID": "ACH_PACK-RAT",
       "SetID": "6lg1p1e",
       "Name": "Pack Rat",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ACH_PARTNER",
@@ -599,8 +599,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:09:40.5037006+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:10:11.3855377+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.669194+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:58:09.9661929+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:09:40.5037218+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:56.9322949+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:10:11.3855736+00:00"
 }

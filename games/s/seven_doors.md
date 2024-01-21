@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Seven Doors | 55.00% | ~17 |
-| Kill the Dead Man | 42.00% | ~13 |
+| Kill the Dead Man | 45.00% | ~14 |
 | Diogenes Syndrome | 42.00% | ~13 |
 | Egyptologist | 42.00% | ~13 |
 | No Fear of the Dark | 39.00% | ~12 |

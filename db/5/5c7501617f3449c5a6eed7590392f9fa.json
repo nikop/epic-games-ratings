@@ -4,8 +4,8 @@
   "ProductSlug": "botanicula-50043d",
   "Ranking_EOS_Progress": 409,
   "Ranking_EOS_Completed": 208,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-31T12:00:00+00:00",
     "PcReleaseDate": "2012-04-19T11:00:00+00:00",
@@ -1468,9 +1468,9 @@
       "ID": "Ach-04-kukacka",
       "SetID": "2pjo9pi",
       "Name": "Kukacka",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "Ach-04-mesto",
@@ -1516,9 +1516,9 @@
       "ID": "Ach-04-zaba",
       "SetID": "2pjo9pi",
       "Name": "Zaba",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 33
+      "UsersEstimate": 36
     },
     {
       "ID": "Ach-04-zarovka",
@@ -1668,9 +1668,9 @@
       "ID": "Ach-level-3",
       "SetID": "2pjo9pi",
       "Name": "Level 3",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 57
     },
     {
       "ID": "Ach-level-4",
@@ -1715,8 +1715,8 @@
   ],
   "FirstSeen": "2023-11-12T01:47:24.2933047+00:00",
   "FirstSeenAchievements": "2023-10-25T16:03:36.6097562+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:09:48.3047591+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:10:22.7486033+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:18.5683371+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:59:07.2658344+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:09:48.3047977+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:00:23.8880072+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:10:22.7486489+00:00"
 }

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 240,
   "Ranking_EOS_NewPlayers": 287,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
     "PcReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -4063,9 +4063,9 @@
       "ID": "Cartographer",
       "SetID": "3ai6ml8",
       "Name": "Cartographer",
-      "Percentage": 49,
+      "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 670
+      "UsersEstimate": 684
     },
     {
       "ID": "Causality",
@@ -4206,8 +4206,8 @@
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:27.7476416+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:11:16.5046478+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.0988435+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:57:50.9095935+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:27.747674+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:29.7003785+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:11:16.5046801+00:00"
 }

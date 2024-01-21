@@ -3,12 +3,12 @@
   "Name": "Songs of Conquest",
   "ProductSlug": "songs-of-conquest",
   "Ranking_Rating": 265,
-  "Ranking_Popularity": 529,
+  "Ranking_Popularity": 530,
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 209,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1263,
+  "EOS_Progressed": 1264,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4367,6 +4367,11 @@
       "Time": "2024-01-21T15:10:23.3050861+00:00",
       "NumProgressed": 1263,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T17:10:43.351491+00:00",
+      "NumProgressed": 1264,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4403,7 +4408,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "AttackCount",
@@ -4483,7 +4488,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Deepstrike",
@@ -4569,9 +4574,9 @@
       "ID": "LothCampaign",
       "SetID": "71c0n9i",
       "Name": "Together For Her",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "LothCampaignFinaleOnHard",
@@ -4715,7 +4720,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "WielderLevel3",
@@ -4810,15 +4815,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1263,
+      "Progressed": 1264,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:03.5788155+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:10:43.3514904+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:57:56.4068603+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:03.5788712+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:37.9208188+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:10:43.3515513+00:00"
 }

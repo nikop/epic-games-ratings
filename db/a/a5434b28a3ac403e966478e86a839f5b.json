@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 266,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 26,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -3511,6 +3511,11 @@
       "Time": "2024-01-21T02:02:42.1215996+00:00",
       "NumProgressed": 988,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-21T17:05:17.6850638+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3555,7 +3560,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_eou5",
@@ -3579,7 +3584,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 207
+      "UsersEstimate": 208
     },
     {
       "ID": "ACH_eou8",
@@ -3626,7 +3631,7 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 12
     }
   ],
@@ -3634,8 +3639,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-20T20:58:07.6381528+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:04:10.4363838+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:05:17.6850633+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:58:23.2362435+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:04:10.4364148+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:59:17.4743794+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:05:17.6850885+00:00"
 }

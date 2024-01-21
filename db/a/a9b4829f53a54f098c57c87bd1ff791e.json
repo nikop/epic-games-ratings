@@ -2,10 +2,10 @@
   "ID": "a9b4829f53a54f098c57c87bd1ff791e",
   "Name": "Title_Pending",
   "ProductSlug": "title_pending-2d8df9",
-  "Ranking_EOS_Progress": 635,
+  "Ranking_EOS_Progress": 632,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 295,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2024-01-19T05:00:00+00:00",
     "PcReleaseDate": "2022-09-27T20:00:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 18,
+  "EOS_Progressed": 19,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -107,6 +107,11 @@
       "Time": "2024-01-21T15:04:20.6762565+00:00",
       "NumProgressed": 18,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T17:04:43.9377254+00:00",
+      "NumProgressed": 19,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-15T14:03:48.1978238+00:00",
@@ -149,7 +154,7 @@
       "ID": "DEBUG_GLASSES",
       "SetID": "39bcm6",
       "Name": "Nice Job Four-Eyes",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -157,7 +162,7 @@
       "ID": "DEMO_END",
       "SetID": "39bcm6",
       "Name": "The End...?",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 40,
       "UsersEstimate": 3
     },
@@ -165,7 +170,7 @@
       "ID": "END_IS_NEVER",
       "SetID": "39bcm6",
       "Name": "Playtest Report",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 30,
       "UsersEstimate": 6
     },
@@ -173,7 +178,7 @@
       "ID": "FALL_DEATH",
       "SetID": "39bcm6",
       "Name": "Slippin Stanton",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -189,7 +194,7 @@
       "ID": "HAMMER_ACQUIRE",
       "SetID": "39bcm6",
       "Name": "J-MC Hammer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -197,7 +202,7 @@
       "ID": "IMMOVABLE",
       "SetID": "39bcm6",
       "Name": "Immovable Object",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -213,7 +218,7 @@
       "ID": "LEVEL_2_ENTER",
       "SetID": "39bcm6",
       "Name": "Not Out of the Metaphorical Woods",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -221,7 +226,7 @@
       "ID": "LEVEL_3_ENTER",
       "SetID": "39bcm6",
       "Name": "Just a Slight Detour",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 30,
       "UsersEstimate": 3
     },
@@ -229,7 +234,7 @@
       "ID": "MICROWAVE",
       "SetID": "39bcm6",
       "Name": "BRRRRRRRRRRRRRRRRRRRRRR",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 45,
       "UsersEstimate": 3
     },
@@ -245,7 +250,7 @@
       "ID": "OAT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "What a Triumph",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
       "UsersEstimate": 3
     },
@@ -253,7 +258,7 @@
       "ID": "OG_PENDING",
       "SetID": "39bcm6",
       "Name": "WE MUST TRAVEL BACK IN TIME",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -277,7 +282,7 @@
       "ID": "SPEED",
       "SetID": "39bcm6",
       "Name": "game SUCK i go to BED",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -285,7 +290,7 @@
       "ID": "VENT_ENDING",
       "SetID": "39bcm6",
       "Name": "Take a Break",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 3
     },
@@ -293,7 +298,7 @@
       "ID": "VENT_TRIUMPH",
       "SetID": "39bcm6",
       "Name": "Vent Ending",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 1
     },
@@ -301,7 +306,7 @@
       "ID": "WPD_HAHA_FUNNE",
       "SetID": "39bcm6",
       "Name": "No.",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 35,
       "UsersEstimate": 1
     }
@@ -310,13 +315,13 @@
     {
       "ID": "39bcm6",
       "IsBase": true,
-      "Progressed": 18,
+      "Progressed": 19,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-14T18:04:48.0312735+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:03:46.9911994+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:04:43.9377251+00:00",
   "LastUpdate_AppInfo": "2024-01-14T17:57:36.4316658+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:02:45.2951137+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:03:46.9912132+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:03:11.7117039+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:04:43.937769+00:00"
 }

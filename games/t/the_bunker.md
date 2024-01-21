@@ -14,9 +14,9 @@
 | Broken | 59.00% | ~109 |
 | Radiation | 58.00% | ~107 |
 | Descent | 57.00% | ~105 |
+| Awakenings | 56.00% | ~103 |
 | Cold Storage | 56.00% | ~103 |
 | Sam | 56.00% | ~103 |
-| Awakenings | 55.00% | ~101 |
 | Soldier | 50.00% | ~92 |
 | Leave | 49.00% | ~90 |
 | Churchill | 48.00% | ~88 |

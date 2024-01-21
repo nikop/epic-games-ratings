@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5343,10 +5343,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5532,
       "NumberOfAwardsMax": 3237
+    },
+    {
+      "Time": "2024-01-21T16:59:50.6986253+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5534,
+      "NumberOfAwardsMax": 3237
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5532,
+  "NumberOfAwards": 5534,
   "NumberOfAwardsMax": 3237,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5360,7 +5366,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 289
+      "Count": 291
     },
     {
       "Text": "This game has Amazing Characters",
@@ -5411,9 +5417,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83122,
+  "EOS_Progressed": 83124,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 368,
+  "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31066,6 +31072,11 @@
       "Time": "2024-01-21T16:03:35.8317593+00:00",
       "NumProgressed": 83122,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-21T17:04:27.7263443+00:00",
+      "NumProgressed": 83124,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31165,7 +31176,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "CHALLENGES_1",
@@ -31181,7 +31192,7 @@
       "Name": "Something in the Clay",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16624
+      "UsersEstimate": 16625
     },
     {
       "ID": "CLAYFACE_2",
@@ -31309,7 +31320,7 @@
       "Name": "Quartzer Life Crisis",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16624
+      "UsersEstimate": 16625
     },
     {
       "ID": "FREEZE_2",
@@ -31317,7 +31328,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15793
+      "UsersEstimate": 15794
     },
     {
       "ID": "FREEZE_3",
@@ -31381,7 +31392,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28261
+      "UsersEstimate": 28262
     },
     {
       "ID": "HARLEY_2",
@@ -31389,7 +31400,7 @@
       "Name": "Get ReQ\u0027d",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19949
+      "UsersEstimate": 19950
     },
     {
       "ID": "HARLEY_3",
@@ -31397,7 +31408,7 @@
       "Name": "Working Hard or Harley Working?",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16624
+      "UsersEstimate": 16625
     },
     {
       "ID": "HARLEY_4",
@@ -31405,7 +31416,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12468
+      "UsersEstimate": 12469
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31421,7 +31432,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41561
+      "UsersEstimate": 41562
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31445,7 +31456,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16624
+      "UsersEstimate": 16625
     },
     {
       "ID": "KNIGHTHOOD_1",
@@ -31469,7 +31480,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27430
+      "UsersEstimate": 27431
     },
     {
       "ID": "MYSTERY_02",
@@ -31477,7 +31488,7 @@
       "Name": "Whispered Words",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 19949
+      "UsersEstimate": 19950
     },
     {
       "ID": "MYSTERY_03",
@@ -31493,7 +31504,7 @@
       "Name": "Bad Apples in Every Orchard",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 16624
+      "UsersEstimate": 16625
     },
     {
       "ID": "MYSTERY_05",
@@ -31533,7 +31544,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9143
+      "UsersEstimate": 9144
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -31564,22 +31575,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83122,
+      "Progressed": 83124,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53402,
+      "Progressed": 53404,
       "Completed": 2680
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-21T08:59:35.3691328+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:03:35.8317588+00:00",
+  "LastChanged": "2024-01-21T16:59:50.6986252+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:04:27.726344+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:58:46.4957048+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:03:35.8335602+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:59:50.6986256+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:04:27.7264955+00:00"
 }

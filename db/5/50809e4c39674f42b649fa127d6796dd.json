@@ -4,8 +4,8 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 203,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
     "PcReleaseDate": "2022-11-08T10:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 541,
+  "EOS_Progressed": 542,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.74,
   "EosHistory": [
@@ -1607,6 +1607,11 @@
       "Time": "2024-01-21T07:09:19.1045982+00:00",
       "NumProgressed": 541,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T17:09:35.3512137+00:00",
+      "NumProgressed": 542,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1667,7 +1672,7 @@
       "Name": "Easy Prey",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "FIRST_ACCEL_COMBO",
@@ -1675,7 +1680,7 @@
       "Name": "Combo Convert",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1723,7 +1728,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1737,9 +1742,9 @@
       "ID": "FIRST_S_RANK",
       "SetID": "apihg0e",
       "Name": "Superior Ranking",
-      "Percentage": 40,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 216
+      "UsersEstimate": 211
     },
     {
       "ID": "FISH_COIN_REACH_NUM",
@@ -1747,7 +1752,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1771,7 +1776,7 @@
       "Name": "The Beginning",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1795,7 +1800,7 @@
       "Name": "Hope Across Ages",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MAIN_CLEAR_LAST",
@@ -1803,7 +1808,7 @@
       "Name": "A Land at Peace",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "MAIN_CLEAR_TUTORIAL",
@@ -1867,7 +1872,7 @@
       "Name": "Hearty Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SKILL_ALL_OBTAINED",
@@ -1883,7 +1888,7 @@
       "Name": "Hypersonic Hedgehog",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 32
+      "UsersEstimate": 33
     },
     {
       "ID": "SUB_CLEAR_ALL",
@@ -1938,14 +1943,14 @@
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 541,
+      "Progressed": 542,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:09:14.370615+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:09:35.3512133+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:59:56.6623293+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:09:14.3706441+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:01:37.9841613+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:09:35.3512466+00:00"
 }

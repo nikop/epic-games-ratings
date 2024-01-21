@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 202,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1641,7 +1641,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7227,
+  "EOS_Progressed": 7228,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -17141,6 +17141,11 @@
       "Time": "2024-01-21T16:04:50.9422059+00:00",
       "NumProgressed": 7227,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-21T17:06:14.060371+00:00",
+      "NumProgressed": 7228,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17166,9 +17171,9 @@
       "ID": "ACH_DOUBLEESCALATION",
       "SetID": "1p8ab95",
       "Name": "Double Trouble",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 578
+      "UsersEstimate": 506
     },
     {
       "ID": "ACH_EP_ACTSOFGOD",
@@ -17232,7 +17237,7 @@
       "Name": "Of Seals And Men",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_EP_ONEPERCENTERS",
@@ -17264,7 +17269,7 @@
       "Name": "Shackadelic",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "ACH_EP_SPEAKEASY",
@@ -17424,7 +17429,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17471,15 +17476,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7227,
+      "Progressed": 7228,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-21T15:58:03.0831244+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:04:50.9422058+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:06:14.0603707+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:58:03.0831248+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:04:50.9422869+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:47.8949178+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:06:14.0604715+00:00"
 }

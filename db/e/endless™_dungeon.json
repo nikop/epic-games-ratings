@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 269,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 229,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-10-19T14:00:00+00:00",
     "PcReleaseDate": "2023-10-19T14:00:00+00:00",
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1592,
+  "EOS_Progressed": 1593,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 49,
   "EOS_NewCompleters": 0,
@@ -3670,6 +3670,11 @@
       "Time": "2024-01-21T15:04:34.7812695+00:00",
       "NumProgressed": 1592,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T17:04:58.1031182+00:00",
+      "NumProgressed": 1593,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T16:05:53.5448638+00:00",
@@ -3736,9 +3741,9 @@
       "ID": "ACHIEVEMENT_BUG_BOSS",
       "SetID": "9991201",
       "Name": "Pest Control",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 462
+      "UsersEstimate": 446
     },
     {
       "ID": "ACHIEVEMENT_COMPLETE_CAST",
@@ -3746,7 +3751,7 @@
       "Name": "Team Builder",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 318
+      "UsersEstimate": 319
     },
     {
       "ID": "ACHIEVEMENT_EXPLORATOR",
@@ -3776,9 +3781,9 @@
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR",
       "SetID": "9991201",
       "Name": "Getting the Hang of It",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 653
     },
     {
       "ID": "ACHIEVEMENT_FINISH_SECOND_FLOOR_ALL_DISTRICTS",
@@ -3826,7 +3831,7 @@
       "Name": "Hoarder",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "ACHIEVEMENT_NO_FAINTING_WIN",
@@ -3921,14 +3926,14 @@
     {
       "ID": "9991201",
       "IsBase": true,
-      "Progressed": 1592,
+      "Progressed": 1593,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-24T15:00:18.1526295+00:00",
   "FirstSeenAchievements": "2023-10-17T08:04:22.2296422+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:03:56.6785283+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:04:58.1031174+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.4867882+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:02:46.9965149+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:03:56.6785584+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:03:14.1745483+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:04:58.1031538+00:00"
 }

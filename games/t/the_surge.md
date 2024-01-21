@@ -6,14 +6,14 @@ Number of Ratings: 62  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On My Own Two Feet | 94.00% | ~5,152 |
-| I'll Be Back | 84.00% | ~4,604 |
+| On My Own Two Feet | 94.00% | ~5,153 |
+| I'll Be Back | 84.00% | ~4,605 |
 | Sorry, I Dropped This | 76.00% | ~4,166 |
-| First Day on the Job | 75.00% | ~4,111 |
+| First Day on the Job | 75.00% | ~4,112 |
 | Butcher's Bill | 54.00% | ~2,960 |
-| P.A.X | 36.00% | ~1,973 |
-| Hey Listen | 36.00% | ~1,973 |
-| OPERATOR | 35.00% | ~1,918 |
+| P.A.X | 36.00% | ~1,974 |
+| Hey Listen | 36.00% | ~1,974 |
+| OPERATOR | 35.00% | ~1,919 |
 | It's Blue Light | 33.00% | ~1,809 |
 | Most Wanted | 26.00% | ~1,425 |
 | Infidel | 22.00% | ~1,206 |
@@ -34,10 +34,10 @@ Number of Ratings: 62  (23.09.2022)
 | Melting Down | 9.00% | ~493 |
 | Raging Drones | 9.00% | ~493 |
 | Overconfident | 9.00% | ~493 |
-| Pusher Man | 8.00% | ~438 |
-| Squad Chief Helvig | 8.00% | ~438 |
-| No More Marching | 8.00% | ~438 |
-| Is This Real Life? | 8.00% | ~438 |
+| Pusher Man | 8.00% | ~439 |
+| Squad Chief Helvig | 8.00% | ~439 |
+| No More Marching | 8.00% | ~439 |
+| Is This Real Life? | 8.00% | ~439 |
 | Duty-Bound | 7.00% | ~384 |
 | Follow the White Rabbit | 7.00% | ~384 |
 | Liberation | 7.00% | ~384 |
@@ -74,7 +74,7 @@ Number of Ratings: 62  (23.09.2022)
 | Brave New World | 0.60% | ~33 |
 | The Surge | 0.40% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 5,481 (Ranked 206)  
+Progressed: 5,482 (Ranked 206)  
 Completed: 18 (0.33%) (Ranked 259)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,11 +307,11 @@ Completed: 18 (0.33%) (Ranked 259)
 | 2024-01-18 | 5,459 | 18 |
 | 2024-01-19 | 5,467 | 18 |
 | 2024-01-20 | 5,473 | 18 |
-| 2024-01-21 | 5,481 | 18 |
+| 2024-01-21 | 5,482 | 18 |
 ## Awards
-Max (Great Boss Battles): 30  (Ranked 529)  
+Max (Great Boss Battles): 30  (Ranked 530)  
 Sum: 30 (Ranked 551)  
-Diff (max vs sum): -22  
+Diff (max vs sum): -21  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 30 |

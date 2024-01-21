@@ -5,13 +5,13 @@ Rating: 4.69 (Ranked 241)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Night...Did We... | 88.00% | ~16,678 |
-| I Challenge You To Save More Money! | 81.00% | ~15,351 |
-| I Love How Tough You Are | 66.00% | ~12,508 |
+| Last Night...Did We... | 88.00% | ~16,679 |
+| I Challenge You To Save More Money! | 81.00% | ~15,352 |
+| I Love How Tough You Are | 66.00% | ~12,509 |
 | Wanna Come To My Place For Dinner? | 59.00% | ~11,182 |
-| What I Want Is You | 54.00% | ~10,234 |
+| What I Want Is You | 54.00% | ~10,235 |
 | To Be Or Not To Be | 51.00% | ~9,666 |
-| Are You Alright? | 47.00% | ~8,907 |
+| Are You Alright? | 47.00% | ~8,908 |
 | Love Actually | 42.00% | ~7,960 |
 | Drama King | 36.00% | ~6,823 |
 | Go Clean up In Your Own Way | 33.00% | ~6,254 |
@@ -26,10 +26,10 @@ Rating: 4.69 (Ranked 241)
 | Days Of Innocence | 26.00% | ~4,928 |
 | David | 26.00% | ~4,928 |
 | Go Get Some Fries On The Pier | 25.00% | ~4,738 |
-| All I Have Is Money | 22.00% | ~4,169 |
-| A Slap In The Face! | 22.00% | ~4,169 |
-| That's So You | 22.00% | ~4,169 |
-| SALUTE | 22.00% | ~4,169 |
+| All I Have Is Money | 22.00% | ~4,170 |
+| A Slap In The Face! | 22.00% | ~4,170 |
+| That's So You | 22.00% | ~4,170 |
+| SALUTE | 22.00% | ~4,170 |
 | Lover In Dark Alley | 21.00% | ~3,980 |
 | Let Me Be Your Toy Boy | 21.00% | ~3,980 |
 | Off We Sail Tonight | 15.00% | ~2,843 |
@@ -48,8 +48,8 @@ Rating: 4.69 (Ranked 241)
 | Tall; Grande; Venti | 2.00% | ~379 |
 | Limerence | 2.00% | ~379 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,952 (Ranked 162)  
-Completed: 336 (1.77%) (Ranked 148)  
+Progressed: 18,953 (Ranked 162)  
+Completed: 337 (1.78%) (Ranked 148)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -154,7 +154,7 @@ Completed: 336 (1.77%) (Ranked 148)
 | 2024-01-18 | 18,810 | 336 |
 | 2024-01-19 | 18,859 | 336 |
 | 2024-01-20 | 18,910 | 336 |
-| 2024-01-21 | 18,952 | 336 |
+| 2024-01-21 | 18,953 | 337 |
 ## Awards
 Max (Impact the Story): 40  (Ranked 489)  
 Sum: 40 (Ranked 530)  

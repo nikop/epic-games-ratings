@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5009,7 +5009,7 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13326,
+  "EOS_Progressed": 13328,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
@@ -20044,6 +20044,11 @@
       "Time": "2024-01-21T06:12:52.4703563+00:00",
       "NumProgressed": 13326,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T17:11:35.3037611+00:00",
+      "NumProgressed": 13328,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20055,7 +20060,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3731
+      "UsersEstimate": 3732
     },
     {
       "ID": "02_BurningCity",
@@ -20079,7 +20084,7 @@
       "Name": "Fifth Crusade",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 1199
+      "UsersEstimate": 1200
     },
     {
       "ID": "05_EmbraceOfAbyss",
@@ -20255,7 +20260,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "28_GreatUpstart",
@@ -20303,7 +20308,7 @@
       "Name": "Defender\u0027s Heart",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 2265
+      "UsersEstimate": 2266
     },
     {
       "ID": "34_CapitulationIsNowMoot",
@@ -20423,7 +20428,7 @@
       "Name": "A Spark",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2665
+      "UsersEstimate": 2666
     },
     {
       "ID": "49_Flame",
@@ -20982,21 +20987,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12108,
+      "Progressed": 12110,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13326,
+      "Progressed": 13328,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-21T05:00:20.592995+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:42.3526886+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:11:35.3037602+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:59:26.673907+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:42.352861+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:00:52.053231+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:11:35.3039773+00:00"
 }

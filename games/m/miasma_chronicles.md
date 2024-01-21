@@ -5,28 +5,28 @@ Rating: 4.38 (Ranked 798)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 92.00% | ~1,589 |
-| Ranidaphobia | 77.00% | ~1,330 |
-| Aspiring Editor | 74.00% | ~1,278 |
+| First Blood | 92.00% | ~1,590 |
+| Ranidaphobia | 77.00% | ~1,331 |
+| Aspiring Editor | 74.00% | ~1,279 |
 | Gun for Hire | 69.00% | ~1,192 |
-| I am the law! | 63.00% | ~1,088 |
-| Lumberjack | 53.00% | ~915 |
-| Croaked | 49.00% | ~846 |
-| Limp Richard | 49.00% | ~846 |
+| I am the law! | 63.00% | ~1,089 |
+| Lumberjack | 53.00% | ~916 |
+| Croaked | 49.00% | ~847 |
+| Limp Richard | 49.00% | ~847 |
 | Editor Adept | 48.00% | ~829 |
 | Exorcist | 48.00% | ~829 |
 | From Darkness to Light | 48.00% | ~829 |
-| Giant Killer | 46.00% | ~794 |
+| Giant Killer | 46.00% | ~795 |
 | Sensei | 44.00% | ~760 |
-| Firestarter | 42.00% | ~725 |
-| The meaning of Kain | 42.00% | ~725 |
+| Firestarter | 42.00% | ~726 |
+| The meaning of Kain | 42.00% | ~726 |
 | Recycler | 41.00% | ~708 |
 | Technophobe | 41.00% | ~708 |
 | Are you not entertained? | 36.00% | ~622 |
 | Ganglord | 36.00% | ~622 |
 | Jarhead | 36.00% | ~622 |
-| Infiltrator | 35.00% | ~604 |
-| Pushing Daisy | 34.00% | ~587 |
+| Infiltrator | 35.00% | ~605 |
+| Pushing Daisy | 34.00% | ~588 |
 | Experienced | 33.00% | ~570 |
 | Hold The Line | 33.00% | ~570 |
 | Endgame | 28.00% | ~484 |
@@ -41,8 +41,8 @@ Rating: 4.38 (Ranked 798)
 | Newtonian Knockout | 16.00% | ~276 |
 | Ruthless | 14.00% | ~242 |
 | Side Order | 11.00% | ~190 |
-| Bot Whisperer | 9.00% | ~155 |
-| Chain Reaction | 9.00% | ~155 |
+| Bot Whisperer | 9.00% | ~156 |
+| Chain Reaction | 9.00% | ~156 |
 | Curveball | 8.00% | ~138 |
 | Wipe Out | 8.00% | ~138 |
 | Dressed To Kill | 7.00% | ~121 |
@@ -57,7 +57,7 @@ Rating: 4.38 (Ranked 798)
 | Alpha Editor | 0.80% | ~14 |
 | QA Has Suffered! (Redux) | 0.80% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,727 (Ranked 265)  
+Progressed: 1,728 (Ranked 265)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-16 | 1,723 | 0 |
 | 2024-01-17 | 1,724 | 0 |
 | 2024-01-20 | 1,726 | 0 |
-| 2024-01-21 | 1,727 | 0 |
+| 2024-01-21 | 1,728 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

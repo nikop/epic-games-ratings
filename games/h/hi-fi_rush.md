@@ -1,24 +1,24 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.86 (Ranked 34)  
+Rating: 4.86 (Ranked 33)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,830 |
+| Feeling the beat! | 56.00% | ~9,831 |
 | Start with a bang! | 55.00% | ~9,655 |
 | You can pet the cat! | 51.00% | ~8,953 |
 | Who put gears in there? | 42.00% | ~7,373 |
 | Cream of the Crop | 37.00% | ~6,495 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,319 |
-| You got this, Peppermint? | 32.00% | ~5,617 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,320 |
+| You got this, Peppermint? | 32.00% | ~5,618 |
 | Perfect Parry | 29.00% | ~5,091 |
 | Alright, that felt AWESOME! | 29.00% | ~5,091 |
-| I play my own way! | 25.00% | ~4,388 |
-| This will cost you big time | 23.00% | ~4,037 |
-| Uh, they were broken when I got here | 23.00% | ~4,037 |
+| I play my own way! | 25.00% | ~4,389 |
+| This will cost you big time | 23.00% | ~4,038 |
+| Uh, they were broken when I got here | 23.00% | ~4,038 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,862 |
-| Kissing the sky! | 21.00% | ~3,686 |
+| Kissing the sky! | 21.00% | ~3,687 |
 | Whoa! There's ANOTHER health bar!? | 18.00% | ~3,160 |
 | Does that say weakpoint? | 18.00% | ~3,160 |
 | The Negotiator | 17.00% | ~2,984 |
@@ -29,7 +29,7 @@ Rating: 4.86 (Ranked 34)
 | Who's the boss now? | 13.00% | ~2,282 |
 | Perfecter Parry-er! | 13.00% | ~2,282 |
 | I look cool. But I can look COOLER. | 13.00% | ~2,282 |
-| I have to read these things? | 12.00% | ~2,106 |
+| I have to read these things? | 12.00% | ~2,107 |
 | There's such a thing as TOO helpful | 9.00% | ~1,580 |
 | NOW we got a kickass hideout! | 9.00% | ~1,447 |
 | Well that was a rush! | 8.00% | ~1,404 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 34)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,554 (Ranked 168)  
+Progressed: 17,555 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 346)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 8 (0.05%) (Ranked 346)
 | 2024-01-18 | 17,389 | 8 |
 | 2024-01-19 | 17,441 | 8 |
 | 2024-01-20 | 17,503 | 8 |
-| 2024-01-21 | 17,554 | 8 |
+| 2024-01-21 | 17,555 | 8 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 503)  
 Sum: 37 (Ranked 538)  

@@ -5,31 +5,31 @@ Rating: 4.15 (Ranked 1,008)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Better jot that down | 59.00% | ~2,837 |
-| The beginning of a beautiful collection | 44.00% | ~2,116 |
-| Reading is fundamental | 39.00% | ~1,876 |
-| Take a look | 39.00% | ~1,876 |
-| Home Is... | 35.00% | ~1,683 |
-| Moonbear | 24.00% | ~1,154 |
-| Getting the hang of it | 20.00% | ~962 |
-| Want to Go to Space? | 20.00% | ~962 |
-| On the Precipice | 16.00% | ~769 |
-| A Nice Place to Live | 15.00% | ~721 |
-| The Dream for These Folks | 13.00% | ~625 |
-| Not the Rabbits, Not the Bees | 12.00% | ~577 |
-| Delivered Us Mars | 11.00% | ~529 |
-| Like Animals | 11.00% | ~529 |
-| Wants and Needs | 11.00% | ~529 |
-| Desperate Times | 11.00% | ~529 |
-| Piecing the story together | 10.00% | ~481 |
-| Stellar extra-vehicular activities score | 8.00% | ~385 |
-| Cinephile | 7.00% | ~337 |
-| When ACE met AYLA | 4.00% | ~192 |
-| Kat-like reflexes | 3.00% | ~144 |
-| Kats always land on their feet | 1.00% | ~48 |
-| The Gang | 1.00% | ~48 |
+| Better jot that down | 59.00% | ~2,899 |
+| The beginning of a beautiful collection | 44.00% | ~2,162 |
+| Reading is fundamental | 39.00% | ~1,916 |
+| Take a look | 39.00% | ~1,916 |
+| Home Is... | 36.00% | ~1,769 |
+| Moonbear | 24.00% | ~1,179 |
+| Getting the hang of it | 21.00% | ~1,032 |
+| Want to Go to Space? | 20.00% | ~983 |
+| On the Precipice | 16.00% | ~786 |
+| A Nice Place to Live | 15.00% | ~737 |
+| The Dream for These Folks | 13.00% | ~639 |
+| Not the Rabbits, Not the Bees | 12.00% | ~590 |
+| Delivered Us Mars | 11.00% | ~541 |
+| Like Animals | 11.00% | ~541 |
+| Wants and Needs | 11.00% | ~541 |
+| Desperate Times | 11.00% | ~541 |
+| Piecing the story together | 10.00% | ~491 |
+| Stellar extra-vehicular activities score | 8.00% | ~393 |
+| Cinephile | 7.00% | ~344 |
+| When ACE met AYLA | 4.00% | ~197 |
+| Kat-like reflexes | 3.00% | ~147 |
+| Kats always land on their feet | 1.00% | ~49 |
+| The Gang | 1.00% | ~49 |
 | As the story unfolds... | 0.70% | ~34 |
-| Who waits five minutes, seriously? | 0.40% | ~19 |
+| Who waits five minutes, seriously? | 0.40% | ~20 |
 | Quick like a Kat | 0.20% | ~10 |
 | Curiosity didn't kill the Kat | 0.20% | ~10 |
 | Chronicler | 0.20% | ~10 |
@@ -39,7 +39,7 @@ Rating: 4.15 (Ranked 1,008)
 | Their batteries were low and it got dark | 0.10% | ~5 |
 | Shai-Hulud? | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,809 (Ranked 210)  
+Progressed: 4,914 (Ranked 209)  
 Completed: 1 (0.02%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -52,7 +52,7 @@ Completed: 1 (0.02%) (Ranked 371)
 | 2023-11-22 | 11 | 0 |
 | 2024-01-19 | 935 | 0 |
 | 2024-01-20 | 3,496 | 0 |
-| 2024-01-21 | 4,809 | 1 |
+| 2024-01-21 | 4,914 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

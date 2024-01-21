@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 363,
   "Ranking_EOS_NewPlayers": 157,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
     "PcReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70783,
+  "EOS_Progressed": 70789,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 259,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21048,6 +21048,11 @@
       "Time": "2024-01-21T15:07:52.8123953+00:00",
       "NumProgressed": 70783,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-21T17:04:24.3456734+00:00",
+      "NumProgressed": 70789,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -21067,7 +21072,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -21115,7 +21120,7 @@
       "Name": "Power of Friendship",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_LIGHTMINES",
@@ -21179,7 +21184,7 @@
       "Name": "Chain Breaker",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 495
+      "UsersEstimate": 496
     },
     {
       "ID": "ACH_SERGIOMISSION",
@@ -21195,7 +21200,7 @@
       "Name": "Out of Shape",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 2831
+      "UsersEstimate": 2832
     },
     {
       "ID": "ACH_TECLAMISSION",
@@ -21211,14 +21216,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2123
+      "UsersEstimate": 2124
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70783,
+      "Progressed": 70789,
       "Completed": 18
     }
   ],
@@ -21226,8 +21231,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-21T15:07:52.812395+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:04:24.3456725+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:21.4564232+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:59:38.5153078+00:00",
-  "LastUpdate_Achievements": "2024-01-21T15:07:52.8125191+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:01:09.6360357+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:04:24.3475272+00:00"
 }

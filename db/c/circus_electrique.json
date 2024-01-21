@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 359,
   "Ranking_EOS_Completed": 291,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-09-06T15:00:00+00:00",
     "PcReleaseDate": "2022-09-06T15:00:00+00:00",
@@ -783,9 +783,9 @@
       "ID": "ACHIEVEMENT_10",
       "SetID": "631ndc2",
       "Name": "Time Travel!",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 62
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -1120,8 +1120,8 @@
   "FirstSeenRating": "2022-09-16T21:31:49.7476009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:34.1721877+00:00",
   "LastChanged": "2023-03-31T05:57:59.411581+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:04:32.9272408+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:05:49.007065+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:30.503046+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:57:59.7603415+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:04:32.9272811+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:42.2425037+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:05:49.0070976+00:00"
 }

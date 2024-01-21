@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -653,10 +653,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 78,
       "NumberOfAwardsMax": 52
+    },
+    {
+      "Time": "2024-01-21T17:03:49.0869871+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 79,
+      "NumberOfAwardsMax": 52
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 78,
+  "NumberOfAwards": 79,
   "NumberOfAwardsMax": 52,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -670,12 +676,12 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 26
+      "Count": 27
     }
   ],
-  "EOS_Progressed": 47605,
+  "EOS_Progressed": 47609,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 352,
+  "EOS_NewPlayers": 353,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19523,6 +19529,11 @@
       "Time": "2024-01-21T16:08:23.0056872+00:00",
       "NumProgressed": 47605,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-21T17:08:21.8837888+00:00",
+      "NumProgressed": 47609,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19686,7 +19697,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4284
+      "UsersEstimate": 4285
     },
     {
       "ID": "CUFF_ATTACK",
@@ -19694,7 +19705,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -19726,7 +19737,7 @@
       "Name": "Leapfrogger",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3809
     },
     {
       "ID": "LOCATION_FIFTY",
@@ -19750,7 +19761,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -19774,7 +19785,7 @@
       "Name": "Knock \u0027Em Dead",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3809
     },
     {
       "ID": "MAGIC_ELECTRIC_SHOCK",
@@ -19790,7 +19801,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2856
+      "UsersEstimate": 2857
     },
     {
       "ID": "MAGIC_IVY",
@@ -19822,7 +19833,7 @@
       "Name": "Pilgrimage: Initiate",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3809
     },
     {
       "ID": "MONUMENT_TWENTY",
@@ -19846,7 +19857,7 @@
       "Name": "Hell of a Run",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3808
+      "UsersEstimate": 3809
     },
     {
       "ID": "PHOTOSPOT_ALL",
@@ -19886,7 +19897,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "STAYING_AIR",
@@ -19957,22 +19968,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47605,
+      "Progressed": 47609,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12442,
-      "Completed": 12442
+      "Progressed": 12446,
+      "Completed": 12446
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
-  "LastChanged": "2024-01-16T20:03:17.8782353+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:08:23.0056869+00:00",
+  "LastChanged": "2024-01-21T17:03:49.086987+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:08:21.8837884+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:03:12.1645216+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:08:23.0057907+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:03:49.0869874+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:08:21.8839248+00:00"
 }

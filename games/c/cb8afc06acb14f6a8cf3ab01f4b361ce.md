@@ -5,29 +5,29 @@ Rating: 4.21 (Ranked 966)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| May the Torchbearer light our way | 5.00% | ~17,412 |
-| The touch of Chaos | 5.00% | ~17,412 |
-| A powerful aura was here | 4.00% | ~13,930 |
-| Let's raise the stakes!! | 2.00% | ~6,965 |
-| Rumors are true | 1.00% | ~3,482 |
-| We'll be careful | 1.00% | ~3,482 |
-| Pride is a sin, young Knight | 1.00% | ~3,482 |
-| Your wounds… They are healing so fast! | 1.00% | ~3,482 |
-| Back to your senses | 0.90% | ~3,134 |
-| Bring it on! | 0.90% | ~3,134 |
+| May the Torchbearer light our way | 5.00% | ~17,414 |
+| The touch of Chaos | 5.00% | ~17,414 |
+| A powerful aura was here | 4.00% | ~13,931 |
+| Let's raise the stakes!! | 2.00% | ~6,966 |
+| Rumors are true | 1.00% | ~3,483 |
+| We'll be careful | 1.00% | ~3,483 |
+| Pride is a sin, young Knight | 1.00% | ~3,483 |
+| Your wounds… They are healing so fast! | 1.00% | ~3,483 |
+| Back to your senses | 0.90% | ~3,135 |
+| Bring it on! | 0.90% | ~3,135 |
 | They tricked me | 0.80% | ~2,786 |
 | They won't last long | 0.80% | ~2,786 |
 | We need to talk | 0.70% | ~2,438 |
 | I feel drawn to it | 0.70% | ~2,438 |
-| Here to stay | 0.60% | ~2,089 |
-| Counting on you | 0.60% | ~2,089 |
-| This is the end | 0.60% | ~2,089 |
-| We can choose to fight | 0.60% | ~2,089 |
+| Here to stay | 0.60% | ~2,090 |
+| Counting on you | 0.60% | ~2,090 |
+| This is the end | 0.60% | ~2,090 |
+| We can choose to fight | 0.60% | ~2,090 |
 | I took a risk | 0.50% | ~1,741 |
 | Their fate is sealed | 0.40% | ~1,393 |
 | Not even from this world | 0.30% | ~1,045 |
-| No damsels in distress | 0.20% | ~696 |
-| Chaos be damned! | 0.20% | ~696 |
+| No damsels in distress | 0.20% | ~697 |
+| Chaos be damned! | 0.20% | ~697 |
 | The immortal is bound to reborn | 0.10% | ~348 |
 | A legend among Chimeras | 0.10% | ~348 |
 | It's only pain | 0.10% | ~348 |
@@ -46,7 +46,7 @@ Rating: 4.21 (Ranked 966)
 | Something... unnatural | 0.10% | ~348 |
 | We strike as one | 0.10% | ~348 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 348,248 (Ranked 60)  
+Progressed: 348,278 (Ranked 60)  
 Completed: 7 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -166,7 +166,7 @@ Completed: 7 (0.00%) (Ranked 409)
 | 2024-01-18 | 347,117 | 7 |
 | 2024-01-19 | 347,471 | 7 |
 | 2024-01-20 | 347,916 | 7 |
-| 2024-01-21 | 348,248 | 7 |
+| 2024-01-21 | 348,278 | 7 |
 ## Awards
 Max (Great Boss Battles): 82  (Ranked 404)  
 Sum: 82 (Ranked 487)  

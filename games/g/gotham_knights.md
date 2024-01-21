@@ -5,26 +5,26 @@ Rating: 4.19 (Ranked 981)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,561 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,261 |
-| Loose Ends | 33.00% | ~27,430 |
+| First Step Into the Knight | 50.00% | ~41,562 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,262 |
+| Loose Ends | 33.00% | ~27,431 |
 | To the Victor Go the Spoils | 27.00% | ~22,443 |
 | Knighthood | 26.00% | ~21,612 |
-| Get ReQ'd | 24.00% | ~19,949 |
-| Whispered Words | 24.00% | ~19,949 |
+| Get ReQ'd | 24.00% | ~19,950 |
+| Whispered Words | 24.00% | ~19,950 |
 | The Batman Family | 22.00% | ~18,287 |
 | Lock and Key | 22.00% | ~18,287 |
-| Something in the Clay | 20.00% | ~16,624 |
-| Quartzer Life Crisis | 20.00% | ~16,624 |
-| Working Hard or Harley Working? | 20.00% | ~16,624 |
-| Unstoppable Force | 20.00% | ~16,624 |
-| Bad Apples in Every Orchard | 20.00% | ~16,624 |
-| Snow Problem | 19.00% | ~15,793 |
+| Something in the Clay | 20.00% | ~16,625 |
+| Quartzer Life Crisis | 20.00% | ~16,625 |
+| Working Hard or Harley Working? | 20.00% | ~16,625 |
+| Unstoppable Force | 20.00% | ~16,625 |
+| Bad Apples in Every Orchard | 20.00% | ~16,625 |
+| Snow Problem | 19.00% | ~15,794 |
 | The Show Mud Go On | 17.00% | ~14,131 |
 | From Inside Gotham's Walls | 17.00% | ~14,131 |
 | Protector of Gotham | 16.00% | ~13,300 |
-| In Your Element | 15.00% | ~12,468 |
-| Universal Health Scare | 15.00% | ~12,468 |
+| In Your Element | 15.00% | ~12,469 |
+| Universal Health Scare | 15.00% | ~12,469 |
 | Rock and a Hard Place | 14.00% | ~11,637 |
 | Cooldown | 14.00% | ~11,637 |
 | Voiceless | 14.00% | ~11,637 |
@@ -34,7 +34,7 @@ Rating: 4.19 (Ranked 981)
 | Not On My Watch | 12.00% | ~9,975 |
 | Bulldozed | 12.00% | ~9,975 |
 | Gotham Knight | 12.00% | ~9,975 |
-| Gotham City Confidential | 11.00% | ~9,143 |
+| Gotham City Confidential | 11.00% | ~9,144 |
 | Drone You Out | 10.00% | ~8,312 |
 | Out of Their League | 9.00% | ~7,481 |
 | Solid Alibi | 8.00% | ~6,650 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 981)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,122 (Ranked 110)  
+Progressed: 83,124 (Ranked 110)  
 Completed: 135 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,10 +343,10 @@ Completed: 135 (0.16%) (Ranked 296)
 | 2024-01-18 | 82,976 | 135 |
 | 2024-01-19 | 83,031 | 135 |
 | 2024-01-20 | 83,086 | 135 |
-| 2024-01-21 | 83,122 | 135 |
+| 2024-01-21 | 83,124 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,237  (Ranked 102)  
-Sum: 5,532 (Ranked 145)  
+Sum: 5,534 (Ranked 145)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
@@ -354,8 +354,8 @@ Diff (max vs sum): -43
 | This game has Diverse Characters | 294 |
 | This game is Great for Beginners | 293 |
 | This game is Relaxing | 292 |
+| This game has Quickly Understood Controls | 291 |
 | This game is Extremely Fun | 291 |
-| This game has Quickly Understood Controls | 289 |
 | This game has Amazing Characters | 281 |
 | This game has Amazing Storytelling | 279 |
 | This game is Highly Recommended | 276 |
@@ -692,4 +692,4 @@ Diff (max vs sum): -43
 | 2024-01-18 | 4.19 | 3,223 | 5,508 |
 | 2024-01-19 | 4.19 | 3,232 | 5,523 |
 | 2024-01-20 | 4.19 | 3,237 | 5,530 |
-| 2024-01-21 | 4.19 | 3,237 | 5,532 |
+| 2024-01-21 | 4.19 | 3,237 | 5,534 |

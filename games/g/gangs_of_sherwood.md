@@ -28,13 +28,13 @@
 | Take Action! | 16.00% | ~20 |
 | Ultra Combo | 15.00% | ~19 |
 | Ascending Will | 14.00% | ~18 |
+| Into the Lion's Den | 12.00% | ~15 |
 | Sky High Fighter | 10.00% | ~12 |
-| Into the Lion's Den | 10.00% | ~12 |
 | Haute Couture | 9.00% | ~11 |
-| The Gang prevails | 6.00% | ~8 |
+| The Gang prevails | 8.00% | ~10 |
+| Power of Friendship! | 6.00% | ~8 |
 | Brilliant Executioner | 5.00% | ~6 |
 | Bold and Bossy | 4.00% | ~5 |
-| Power of Friendship! | 4.00% | ~5 |
 | Out of the ring | 4.00% | ~5 |
 | No Mercy | 3.00% | ~4 |
 | King of the Iron Fist | 2.00% | ~2 |
@@ -58,7 +58,7 @@
 | The Armorer | 0.00% | ~0 |
 | Master of All | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125 (Ranked 487)  
+Progressed: 125 (Ranked 488)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |

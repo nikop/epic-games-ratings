@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 240,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 238,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2030,
+  "EOS_Progressed": 2031,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 39,
+  "EOS_NewPlayers": 40,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3855,6 +3855,11 @@
       "Time": "2024-01-21T15:07:26.9374302+00:00",
       "NumProgressed": 2030,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-21T17:07:48.7694225+00:00",
+      "NumProgressed": 2031,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3866,7 +3871,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "10",
@@ -3882,7 +3887,7 @@
       "Name": "Strike!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "12",
@@ -3930,7 +3935,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1421
+      "UsersEstimate": 1422
     },
     {
       "ID": "18",
@@ -4018,7 +4023,7 @@
       "Name": "A love supreme",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 304
+      "UsersEstimate": 305
     },
     {
       "ID": "3",
@@ -4105,15 +4110,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2030,
+      "Progressed": 2031,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:05:58.2071681+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:07:48.769422+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:57:51.677035+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:05:58.2071994+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:30.8853124+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:07:48.7694561+00:00"
 }

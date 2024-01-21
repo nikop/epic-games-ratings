@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 162,
   "Ranking_EOS_Completed": 148,
   "Ranking_EOS_NewPlayers": 141,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2023-10-18T04:00:00+00:00",
     "PcReleaseDate": "2023-10-18T04:00:00+00:00",
@@ -343,11 +343,11 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18952,
-  "EOS_Completed": 336,
+  "EOS_Progressed": 18953,
+  "EOS_Completed": 337,
   "EOS_NewPlayers": 355,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 1.77,
+  "EOS_NewCompleters": 14,
+  "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
     {
       "Time": "2023-07-27T01:53:04.8005716+00:00",
@@ -10563,6 +10563,11 @@
       "Time": "2024-01-21T16:10:16.5142648+00:00",
       "NumProgressed": 18952,
       "NumCompleted": 336
+    },
+    {
+      "Time": "2024-01-21T17:11:01.3699131+00:00",
+      "NumProgressed": 18953,
+      "NumCompleted": 337
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10575,7 +10580,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16678
+      "UsersEstimate": 16679
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10583,7 +10588,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15351
+      "UsersEstimate": 15352
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10615,7 +10620,7 @@
       "Name": "All I Have Is Money",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -10663,7 +10668,7 @@
       "Name": "A Slap In The Face!",
       "Percentage": 22,
       "XP": 30,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -10671,7 +10676,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12508
+      "UsersEstimate": 12509
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10783,7 +10788,7 @@
       "Name": "What I Want Is You",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 10234
+      "UsersEstimate": 10235
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -10831,7 +10836,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8907
+      "UsersEstimate": 8908
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -10863,7 +10868,7 @@
       "Name": "That\u0027s So You",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_5",
@@ -10903,23 +10908,23 @@
       "Name": "SALUTE",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4169
+      "UsersEstimate": 4170
     }
   ],
   "AchievementSets": [
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18952,
-      "Completed": 336
+      "Progressed": 18953,
+      "Completed": 337
     }
   ],
   "FirstSeen": "2023-10-18T10:00:20.8201425+00:00",
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-20T14:59:39.7389406+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:16.5142646+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:11:01.3699126+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:00:13.9688199+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:16.5143549+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:02:04.0473147+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:11:01.3699766+00:00"
 }

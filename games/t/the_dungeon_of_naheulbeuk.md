@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,154 |
-| Alt+F4 | 11.00% | ~27,397 |
-| Where's that freaking Dwarf? | 10.00% | ~24,907 |
-| Déjà vu | 8.00% | ~19,925 |
+| Sowwy! | 37.00% | ~92,158 |
+| Alt+F4 | 11.00% | ~27,398 |
+| Where's that freaking Dwarf? | 10.00% | ~24,908 |
+| Déjà vu | 8.00% | ~19,926 |
 | Sock! SOCK! | 6.00% | ~14,944 |
 | Speedrun | 6.00% | ~14,944 |
-| A beer, two curses, three companions | 5.00% | ~12,453 |
-| GG EZ | 5.00% | ~12,453 |
-| DM intervention | 5.00% | ~12,453 |
-| Fireproof Wizardess | 5.00% | ~12,453 |
+| A beer, two curses, three companions | 5.00% | ~12,454 |
+| GG EZ | 5.00% | ~12,454 |
+| DM intervention | 5.00% | ~12,454 |
+| Fireproof Wizardess | 5.00% | ~12,454 |
 | Way of the Wimp | 4.00% | ~9,963 |
 | The plot thickens... At the tavern | 4.00% | ~9,963 |
 | Livin' in a dwarven paradise | 3.00% | ~7,472 |
@@ -27,19 +27,19 @@ Number of Ratings: 118  (23.09.2022)
 | The Woman in the High Castle | 3.00% | ~7,472 |
 | Team Building Exercise | 3.00% | ~7,472 |
 | Oh, when I'll be level 10... | 3.00% | ~7,472 |
-| Shiny and Crôm | 2.00% | ~4,981 |
-| The Statuette of Gladeulfeurah | 2.00% | ~4,981 |
-| Res Judicata | 2.00% | ~4,981 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,981 |
-| A tale of adventurers not quite like the others... | 2.00% | ~4,981 |
-| Dwarf Fortress | 2.00% | ~4,981 |
-| Look but don't touch | 2.00% | ~4,981 |
-| The beards of change | 2.00% | ~4,981 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,981 |
-| Lust and Debauchery | 2.00% | ~4,981 |
-| The Ranger of Chaos | 2.00% | ~4,981 |
-| I am the night | 2.00% | ~4,981 |
-| Thieves' Guild Accreditation | 2.00% | ~4,981 |
+| Shiny and Crôm | 2.00% | ~4,982 |
+| The Statuette of Gladeulfeurah | 2.00% | ~4,982 |
+| Res Judicata | 2.00% | ~4,982 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,982 |
+| A tale of adventurers not quite like the others... | 2.00% | ~4,982 |
+| Dwarf Fortress | 2.00% | ~4,982 |
+| Look but don't touch | 2.00% | ~4,982 |
+| The beards of change | 2.00% | ~4,982 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,982 |
+| Lust and Debauchery | 2.00% | ~4,982 |
+| The Ranger of Chaos | 2.00% | ~4,982 |
+| I am the night | 2.00% | ~4,982 |
+| Thieves' Guild Accreditation | 2.00% | ~4,982 |
 | %#*!$*! | 1.00% | ~2,491 |
 | Dead for good | 1.00% | ~2,491 |
 | Gargantua | 1.00% | ~2,491 |
@@ -48,8 +48,8 @@ Number of Ratings: 118  (23.09.2022)
 | Material Girl | 1.00% | ~2,491 |
 | We come in peace | 0.90% | ~2,242 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,993 |
-| Holistic Adventuring Party | 0.70% | ~1,743 |
-| Law and Order | 0.70% | ~1,743 |
+| Holistic Adventuring Party | 0.70% | ~1,744 |
+| Law and Order | 0.70% | ~1,744 |
 | Scholar of the Lands of Fangh | 0.60% | ~1,494 |
 | I'd rather... Just... Sing! | 0.50% | ~1,245 |
 | It's been a hard day's night | 0.50% | ~1,245 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,066 (Ranked 73)  
+Progressed: 249,075 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -330,11 +330,11 @@ Completed: 9 (0.00%) (Ranked 409)
 | 2024-01-18 | 248,677 | 9 |
 | 2024-01-19 | 248,799 | 9 |
 | 2024-01-20 | 248,966 | 9 |
-| 2024-01-21 | 249,066 | 9 |
+| 2024-01-21 | 249,075 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
-Sum: 577 (Ranked 330)  
-Diff (max vs sum): -53  
+Sum: 577 (Ranked 331)  
+Diff (max vs sum): -54  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 273 |

@@ -7,15 +7,15 @@ Rating: 4.16 (Ranked 1,000)
 | ---- | ---------- | ----- |
 | Attachments | 13.00% | ~6,189 |
 | Unlocked Potential | 12.00% | ~5,713 |
-| Tinkerer | 9.00% | ~4,284 |
-| Leapfrogger | 8.00% | ~3,808 |
-| Knock 'Em Dead | 8.00% | ~3,808 |
-| Pilgrimage: Initiate | 8.00% | ~3,808 |
-| Hell of a Run | 8.00% | ~3,808 |
-| Call of the Fount: Baptized | 7.00% | ~3,332 |
-| No Mercy | 6.00% | ~2,856 |
-| Explorer: Seeker | 6.00% | ~2,856 |
-| Help Me Out Here | 6.00% | ~2,856 |
+| Tinkerer | 9.00% | ~4,285 |
+| Leapfrogger | 8.00% | ~3,809 |
+| Knock 'Em Dead | 8.00% | ~3,809 |
+| Pilgrimage: Initiate | 8.00% | ~3,809 |
+| Hell of a Run | 8.00% | ~3,809 |
+| Call of the Fount: Baptized | 7.00% | ~3,333 |
+| No Mercy | 6.00% | ~2,857 |
+| Explorer: Seeker | 6.00% | ~2,857 |
+| Help Me Out Here | 6.00% | ~2,857 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,380 |
 | Stuck | 5.00% | ~2,380 |
 | The Interloper | 4.00% | ~1,904 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 1,000)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,605 (Ranked 128)  
+Progressed: 47,609 (Ranked 128)  
 Completed: 4 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,15 +335,15 @@ Completed: 4 (0.01%) (Ranked 383)
 | 2024-01-18 | 47,464 | 4 |
 | 2024-01-19 | 47,505 | 4 |
 | 2024-01-20 | 47,566 | 4 |
-| 2024-01-21 | 47,605 | 4 |
+| 2024-01-21 | 47,609 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 456)  
-Sum: 78 (Ranked 489)  
+Sum: 79 (Ranked 489)  
 Diff (max vs sum): -33  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 52 |
-| This game has Great Boss Battles | 26 |
+| This game has Great Boss Battles | 27 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -452,3 +452,4 @@ Diff (max vs sum): -33
 | 2024-01-13 | 4.15 | 51 | 74 |
 | 2024-01-14 | 4.15 | 52 | 78 |
 | 2024-01-16 | 4.16 | 52 | 78 |
+| 2024-01-21 | 4.16 | 52 | 79 |

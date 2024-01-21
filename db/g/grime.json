@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 271,
-  "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 53,
+  "Ranking_EOS_NewPlayers": 94,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1933,10 +1933,10 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169165,
-  "EOS_Completed": 463,
-  "EOS_NewPlayers": 991,
-  "EOS_NewCompleters": 5,
+  "EOS_Progressed": 169171,
+  "EOS_Completed": 464,
+  "EOS_NewPlayers": 985,
+  "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
     {
@@ -23943,6 +23943,11 @@
       "Time": "2024-01-21T16:08:26.6224929+00:00",
       "NumProgressed": 169165,
       "NumCompleted": 463
+    },
+    {
+      "Time": "2024-01-21T17:08:26.8569009+00:00",
+      "NumProgressed": 169171,
+      "NumCompleted": 464
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -23995,7 +24000,7 @@
       "Name": "Zygote",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ACQUIRE_HUNTPOINT",
@@ -24011,7 +24016,7 @@
       "Name": "Breath",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -24075,7 +24080,7 @@
       "Name": "Host",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 1012
+      "UsersEstimate": 1013
     },
     {
       "ID": "DEFEAT_GRIEVINGROCKGIANT",
@@ -24099,7 +24104,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -24107,7 +24112,7 @@
       "Name": "Jawstag",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -24131,7 +24136,7 @@
       "Name": "Feast",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1522
+      "UsersEstimate": 1523
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -24243,7 +24248,7 @@
       "Name": "Passage",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "QUEST_CHILD",
@@ -24267,7 +24272,7 @@
       "Name": "Kin",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "QUEST_LISTENER",
@@ -24275,7 +24280,7 @@
       "Name": "Listen",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "QUEST_YON",
@@ -24283,7 +24288,7 @@
       "Name": "Proportions",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 507
+      "UsersEstimate": 508
     },
     {
       "ID": "DEFEAT_DREAMBORN",
@@ -24322,21 +24327,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168748,
+      "Progressed": 168754,
       "Completed": 1267
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169165,
-      "Completed": 463
+      "Progressed": 169171,
+      "Completed": 464
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-21T01:56:25.9231055+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:08:26.6224926+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:08:26.8569004+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:58:12.2917331+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:08:26.6226039+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:59:00.228595+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:08:26.8570064+00:00"
 }

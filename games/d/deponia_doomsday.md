@@ -1,7 +1,7 @@
 # Deponia Doomsday
 [Store](https://store.epicgames.com/en-US/p/deponia-doomsday-1848dd)  
 [View Rawdata](../../db/d/deponia_doomsday.json)  
-Rating: 4.55 (Ranked 531)  
+Rating: 4.55 (Ranked 530)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -14,7 +14,7 @@ Rating: 4.55 (Ranked 531)
 | Chunky | 47.00% | ~254 |
 | Shall we play a game? | 46.00% | ~248 |
 | Boat of love, boat of love | 46.00% | ~248 |
-| School's out | 41.00% | ~221 |
+| School's out | 42.00% | ~227 |
 | Sole Music | 36.00% | ~194 |
 | Scaffolding Expert | 35.00% | ~189 |
 | Elysian Minigame-Master | 35.00% | ~189 |

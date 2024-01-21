@@ -36,8 +36,8 @@ Number of Ratings: 34  (23.09.2022)
 | Collectibles of Chapter III | 14.00% | ~110 |
 | Without a Second Thought | 14.00% | ~110 |
 | Collectibles of Chapter IV | 13.00% | ~103 |
+| Tiptoe Around | 11.00% | ~87 |
 | Collectibles of Chapter V | 10.00% | ~79 |
-| Tiptoe Around | 10.00% | ~79 |
 | Such is War! | 8.00% | ~63 |
 | Collectibles of Chapter VII | 6.00% | ~47 |
 | Collectibles of Chapter XII | 6.00% | ~47 |

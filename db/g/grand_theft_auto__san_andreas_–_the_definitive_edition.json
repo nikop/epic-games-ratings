@@ -2,7 +2,7 @@
   "ID": "3262906d93334603b399e106492b1217",
   "Name": "Grand Theft Auto: San Andreas \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-san-andreas-the-definitive-edition",
-  "Ranking_Rating": 514,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 198,
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 158,
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.56,
+  "Rating": 4.55,
   "RatingHistory": [
     {
       "Time": "2023-02-21T07:58:25.3551608+00:00",
@@ -2537,6 +2537,12 @@
       "Rating": 4.56,
       "NumberOfAwards": 1144,
       "NumberOfAwardsMax": 704
+    },
+    {
+      "Time": "2024-01-21T17:02:08.8430833+00:00",
+      "Rating": 4.55,
+      "NumberOfAwards": 1144,
+      "NumberOfAwardsMax": 704
     }
   ],
   "ReviewsDisabled": false,
@@ -2605,7 +2611,7 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19772,
+  "EOS_Progressed": 19773,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 222,
   "EOS_NewCompleters": 4,
@@ -21160,6 +21166,11 @@
       "Time": "2024-01-21T16:10:32.7584591+00:00",
       "NumProgressed": 19772,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-21T17:11:23.0958407+00:00",
+      "NumProgressed": 19773,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21171,7 +21182,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16015
+      "UsersEstimate": 16016
     },
     {
       "ID": "ACH02",
@@ -21450,16 +21461,16 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19772,
+      "Progressed": 19773,
       "Completed": 81
     }
   ],
   "FirstSeen": "2023-02-16T02:13:57.9819704+00:00",
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
-  "LastChanged": "2024-01-21T04:02:14.1294567+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:32.7584589+00:00",
+  "LastChanged": "2024-01-21T17:02:08.8430832+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:11:23.0958404+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:00:17.1673865+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:32.7585659+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:02:08.8430836+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:11:23.0959378+00:00"
 }

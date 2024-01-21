@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Horn prize! | 49.00% | ~44 |
-| Beast Quest | 34.00% | ~31 |
+| Beast Quest | 36.00% | ~32 |
 | Space worm! | 34.00% | ~31 |
 | Orb Gatherer | 33.00% | ~30 |
 | Monster Hunt | 33.00% | ~30 |

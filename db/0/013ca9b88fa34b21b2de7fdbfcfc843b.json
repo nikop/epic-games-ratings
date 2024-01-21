@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9150,
+  "EOS_Progressed": 9151,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 91,
+  "EOS_NewPlayers": 92,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10524,6 +10524,11 @@
       "Time": "2024-01-21T16:10:37.7016994+00:00",
       "NumProgressed": 9150,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T17:11:29.3951966+00:00",
+      "NumProgressed": 9151,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10552,7 +10557,7 @@
       "Name": "Calm Sailing",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "CHAPTER_4_COMPLETE",
@@ -10560,7 +10565,7 @@
       "Name": "Open the Gate!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "CHAPTER_5_COMPLETE",
@@ -10672,7 +10677,7 @@
       "Name": "Humble Collector",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "DISCOVER_SCROLLS_2",
@@ -10696,7 +10701,7 @@
       "Name": "Mist Walker",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 274
+      "UsersEstimate": 275
     },
     {
       "ID": "DISPATCH_JUMBLES",
@@ -10879,13 +10884,13 @@
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9150,
+      "Progressed": 9151,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1767,
+      "Progressed": 1768,
       "Completed": 1050
     }
   ],
@@ -10893,8 +10898,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-20T14:03:24.888989+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:37.7016991+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:11:29.3951964+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:03:30.1636881+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:37.7017612+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:04:16.0522931+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:11:29.3952602+00:00"
 }

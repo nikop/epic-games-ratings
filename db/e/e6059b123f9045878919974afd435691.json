@@ -4,8 +4,8 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 242,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 241,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
     "PcReleaseDate": "2021-06-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1500,
+  "EOS_Progressed": 1501,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4014,6 +4014,11 @@
       "Time": "2024-01-21T16:10:42.0345149+00:00",
       "NumProgressed": 1500,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T17:11:34.8304343+00:00",
+      "NumProgressed": 1501,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4025,7 +4030,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1080
+      "UsersEstimate": 1081
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -4033,7 +4038,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 795
+      "UsersEstimate": 796
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4097,7 +4102,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 855
+      "UsersEstimate": 856
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4113,7 +4118,7 @@
       "Name": "Arrest Warrant",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "BARK_ACHIEVEMENT_4",
@@ -4289,7 +4294,7 @@
       "Name": "Fly Free",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "KALL_ACHIEVEMENT_1",
@@ -4305,7 +4310,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 870
+      "UsersEstimate": 871
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4473,7 +4478,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 780
+      "UsersEstimate": 781
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4552,14 +4557,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1500,
+      "Progressed": 1501,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:42.0345147+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:11:34.8304339+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:02:54.8433334+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:42.0345728+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:03:26.4406087+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:11:34.8305048+00:00"
 }

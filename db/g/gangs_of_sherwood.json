@@ -2,10 +2,10 @@
   "ID": "f76aab05872f4293bb5f46485cb2f16c",
   "Name": "Gangs of Sherwood",
   "ProductSlug": "gangs-of-sherwood",
-  "Ranking_EOS_Progress": 487,
+  "Ranking_EOS_Progress": 488,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 489,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 487,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-11-30T17:00:00+00:00",
     "PcReleaseDate": "2023-11-30T17:00:00+00:00",
@@ -652,17 +652,17 @@
       "ID": "ACH_COMPLETE_ACTS_REGULAR",
       "SetID": "5akmpni",
       "Name": "The Gang prevails",
-      "Percentage": 6,
+      "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 10
     },
     {
       "ID": "ACH_COMPLETE_LEVEL_COOP",
       "SetID": "5akmpni",
       "Name": "Power of Friendship!",
-      "Percentage": 4,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 5
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_COMPLETE_TUTO",
@@ -820,9 +820,9 @@
       "ID": "ACH_KILL_SHERIFF",
       "SetID": "5akmpni",
       "Name": "Into the Lion\u0027s Den",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "ACH_LAUNCH_ENEMY",
@@ -971,8 +971,8 @@
   ],
   "FirstSeen": "2023-12-01T02:59:33.2600004+00:00",
   "FirstSeenAchievements": "2023-09-13T13:10:15.2352319+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:09:16.898044+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:09:38.6354236+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.1099768+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:59:51.8702278+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:09:16.8980791+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:01:30.3415654+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:09:38.6354584+00:00"
 }

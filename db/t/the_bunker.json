@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 445,
   "Ranking_EOS_Completed": 96,
   "Ranking_EOS_NewPlayers": 403,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
     "PcReleaseDate": "2016-09-20T17:00:00+00:00",
@@ -646,9 +646,9 @@
       "ID": "CHAPTER_11_COMPLETE",
       "SetID": "bho0i1h",
       "Name": "Awakenings",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 25,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "CHAPTER_12_COMPLETE",
@@ -767,8 +767,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.332275+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:47.0734489+00:00",
   "LastChanged": "2023-03-31T05:58:47.3322751+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:06:05.5611417+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:07:58.7127595+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:40.8989821+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:58:52.8453816+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:06:05.561164+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:00:00.3646832+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:07:58.7127747+00:00"
 }

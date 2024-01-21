@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 199,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
     "PcReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -321,7 +321,7 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 2603,
+  "EOS_Progressed": 2604,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 91,
   "EOS_NewCompleters": 0,
@@ -6376,6 +6376,11 @@
       "Time": "2024-01-21T16:08:19.632364+00:00",
       "NumProgressed": 2603,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T17:08:16.9502016+00:00",
+      "NumProgressed": 2604,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6396,7 +6401,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2317
+      "UsersEstimate": 2318
     },
     {
       "ID": "AC02",
@@ -6404,7 +6409,7 @@
       "Name": "Blood and Dust",
       "Percentage": 65,
       "XP": 30,
-      "UsersEstimate": 1692
+      "UsersEstimate": 1693
     },
     {
       "ID": "AC03",
@@ -6452,7 +6457,7 @@
       "Name": "Forged in Fire",
       "Percentage": 49,
       "XP": 30,
-      "UsersEstimate": 1275
+      "UsersEstimate": 1276
     },
     {
       "ID": "AC09",
@@ -6460,7 +6465,7 @@
       "Name": "Fermosa Fembra",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 1223
+      "UsersEstimate": 1224
     },
     {
       "ID": "AC10",
@@ -6516,7 +6521,7 @@
       "Name": "Weight of Penance",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "AC17",
@@ -6524,7 +6529,7 @@
       "Name": "Second Pilgrimage",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 390
+      "UsersEstimate": 391
     },
     {
       "ID": "AC18",
@@ -6532,7 +6537,7 @@
       "Name": "Acquired Taste",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "AC19",
@@ -6540,7 +6545,7 @@
       "Name": "Soledad",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "AC20",
@@ -6548,7 +6553,7 @@
       "Name": "Still Among Us",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 338
+      "UsersEstimate": 339
     },
     {
       "ID": "AC21",
@@ -6588,7 +6593,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1041
+      "UsersEstimate": 1042
     },
     {
       "ID": "AC26",
@@ -6604,7 +6609,7 @@
       "Name": "Twisted is the Path of the Miracle",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "AC28",
@@ -6612,7 +6617,7 @@
       "Name": "The Punished One",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "AC29",
@@ -6708,7 +6713,7 @@
       "Name": "Welcome Back!",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2030
+      "UsersEstimate": 2031
     },
     {
       "ID": "AC41",
@@ -6730,9 +6735,9 @@
       "ID": "AC43",
       "SetID": "l4abp0",
       "Name": "The Finest Craftmanship",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1146
     },
     {
       "ID": "AC44",
@@ -6755,7 +6760,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2603,
+      "Progressed": 2604,
       "Completed": 0
     }
   ],
@@ -6763,8 +6768,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:08:19.6323636+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:08:16.9502011+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-21T15:57:58.3536521+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:08:19.6324166+00:00"
+  "LastUpdate_Ratings": "2024-01-21T16:58:40.6254351+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:08:16.9502605+00:00"
 }

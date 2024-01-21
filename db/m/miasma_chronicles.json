@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 265,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 355,
-  "Ranking_EOS_NewCompleters": 152,
+  "Ranking_EOS_NewPlayers": 352,
+  "Ranking_EOS_NewCompleters": 150,
   "Store": {
     "ReleaseDate": "2023-05-23T15:00:00+00:00",
     "PcReleaseDate": "2023-05-23T15:00:00+00:00",
@@ -277,9 +277,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1727,
+  "EOS_Progressed": 1728,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4512,6 +4512,11 @@
       "Time": "2024-01-21T15:11:10.9937457+00:00",
       "NumProgressed": 1727,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T17:11:30.5959606+00:00",
+      "NumProgressed": 1728,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -4539,7 +4544,7 @@
       "Name": "Aspiring Editor",
       "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 1278
+      "UsersEstimate": 1279
     },
     {
       "ID": "ATTENBOROUGH",
@@ -4563,7 +4568,7 @@
       "Name": "Bot Whisperer",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CHAIN_KILLER",
@@ -4579,7 +4584,7 @@
       "Name": "Chain Reaction",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "CHAOS_THEORY",
@@ -4603,7 +4608,7 @@
       "Name": "Croaked",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "CRUELTY",
@@ -4635,7 +4640,7 @@
       "Name": "Limp Richard",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "DIFFERENTLY_ABLED",
@@ -4699,7 +4704,7 @@
       "Name": "Firestarter",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "FIRST_BLOOD",
@@ -4707,7 +4712,7 @@
       "Name": "First Blood",
       "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     },
     {
       "ID": "FIVE_FINGER_DEATHCOUNT",
@@ -4739,7 +4744,7 @@
       "Name": "Giant Killer",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 794
+      "UsersEstimate": 795
     },
     {
       "ID": "GOAL",
@@ -4771,7 +4776,7 @@
       "Name": "I am the law!",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 1088
+      "UsersEstimate": 1089
     },
     {
       "ID": "INFILTRATOR",
@@ -4779,7 +4784,7 @@
       "Name": "Infiltrator",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 604
+      "UsersEstimate": 605
     },
     {
       "ID": "LUMBERJACK",
@@ -4787,7 +4792,7 @@
       "Name": "Lumberjack",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 915
+      "UsersEstimate": 916
     },
     {
       "ID": "MIASMA_EDITOR",
@@ -4811,7 +4816,7 @@
       "Name": "Pushing Daisy",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 587
+      "UsersEstimate": 588
     },
     {
       "ID": "QA_HAS_SUFFERED",
@@ -4827,7 +4832,7 @@
       "Name": "Ranidaphobia",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 1330
+      "UsersEstimate": 1331
     },
     {
       "ID": "RECYCLER",
@@ -4907,7 +4912,7 @@
       "Name": "The meaning of Kain",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 725
+      "UsersEstimate": 726
     },
     {
       "ID": "THE_WATCHERS",
@@ -4930,7 +4935,7 @@
     {
       "ID": "9a4jnji",
       "IsBase": true,
-      "Progressed": 1727,
+      "Progressed": 1728,
       "Completed": 0
     }
   ],
@@ -4938,8 +4943,8 @@
   "FirstSeenRating": "2023-05-29T20:58:20.2954546+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:59.0035647+00:00",
   "LastChanged": "2024-01-19T05:03:25.8789879+00:00",
-  "LastChanged_Achievements": "2024-01-21T16:10:38.627703+00:00",
+  "LastChanged_Achievements": "2024-01-21T17:11:30.5959602+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:42.9692583+00:00",
-  "LastUpdate_Ratings": "2024-01-21T16:03:20.7301223+00:00",
-  "LastUpdate_Achievements": "2024-01-21T16:10:38.6277477+00:00"
+  "LastUpdate_Ratings": "2024-01-21T17:04:03.8379512+00:00",
+  "LastUpdate_Achievements": "2024-01-21T17:11:30.5960278+00:00"
 }

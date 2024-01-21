@@ -11,10 +11,10 @@ Rating: 4.65 (Ranked 324)
 | Miner 49er | 4.00% | ~366 |
 | Break-Net Speed | 4.00% | ~366 |
 | Bramble Breaker | 4.00% | ~366 |
-| Calm Sailing | 3.00% | ~274 |
-| Open the Gate! | 3.00% | ~274 |
-| Humble Collector | 3.00% | ~274 |
-| Mist Walker | 3.00% | ~274 |
+| Calm Sailing | 3.00% | ~275 |
+| Open the Gate! | 3.00% | ~275 |
+| Humble Collector | 3.00% | ~275 |
+| Mist Walker | 3.00% | ~275 |
 | Clear the Air | 2.00% | ~183 |
 | Search for the Hairy Grell | 2.00% | ~183 |
 | Lumberjack | 2.00% | ~183 |
@@ -49,7 +49,7 @@ Rating: 4.65 (Ranked 324)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,150 (Ranked 190)  
+Progressed: 9,151 (Ranked 190)  
 Completed: 1 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 1 (0.01%) (Ranked 383)
 | 2024-01-18 | 9,124 | 1 |
 | 2024-01-19 | 9,134 | 1 |
 | 2024-01-20 | 9,139 | 1 |
-| 2024-01-21 | 9,150 | 1 |
+| 2024-01-21 | 9,151 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

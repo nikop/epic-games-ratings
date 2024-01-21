@@ -24,7 +24,7 @@ Number of Ratings: 22  (23.09.2022)
 | Flawless Presentation | 15.00% | ~77 |
 | One More Thing... | 14.00% | ~72 |
 | King of District 2 | 13.00% | ~67 |
-| Time Travel! | 11.00% | ~57 |
+| Time Travel! | 12.00% | ~62 |
 | Marketing Manager | 11.00% | ~57 |
 | Circus Versus Circus | 9.00% | ~46 |
 | King of District 3 | 8.00% | ~41 |

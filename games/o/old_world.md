@@ -8,8 +8,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | ---- | ---------- | ----- |
 | Settler | 6.00% | ~1,024 |
 | Play a Single Player Game | 6.00% | ~1,024 |
-| Explorer | 5.00% | ~853 |
-| Friendly Family | 5.00% | ~853 |
+| Explorer | 5.00% | ~854 |
+| Friendly Family | 5.00% | ~854 |
 | Able | 4.00% | ~683 |
 | Architect | 4.00% | ~683 |
 | Intrepid | 4.00% | ~683 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,069 (Ranked 170)  
+Progressed: 17,070 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,069 | 5 |
+| 2024-01-21 | 17,070 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

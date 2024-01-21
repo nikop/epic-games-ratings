@@ -6,11 +6,11 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.60% | ~6,339 |
-| Right Back At Ya | 0.60% | ~6,339 |
-| The Hermit | 0.60% | ~6,339 |
-| The Wheel of Fortune | 0.60% | ~6,339 |
-| True Soldier | 0.60% | ~6,339 |
+| Full Body Conversion | 0.60% | ~6,340 |
+| Right Back At Ya | 0.60% | ~6,340 |
+| The Hermit | 0.60% | ~6,340 |
+| The Wheel of Fortune | 0.60% | ~6,340 |
+| True Soldier | 0.60% | ~6,340 |
 | Christmas Tree Attack | 0.50% | ~5,283 |
 | Life of the Road | 0.50% | ~5,283 |
 | Stanislavski's Method | 0.50% | ~5,283 |
@@ -32,6 +32,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 0.30% | ~3,170 |
 | To Bad Decisions! | 0.20% | ~2,113 |
 | The Wandering Fool | 0.20% | ~2,113 |
+| Ten out of Ten | 0.20% | ~2,113 |
 | The Star | 0.20% | ~2,113 |
 | The Sun | 0.20% | ~2,113 |
 | Spin Doctor | 0.20% | ~370 |
@@ -47,7 +48,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Breathtaking | 0.10% | ~1,057 |
 | The Wasteland | 0.10% | ~1,057 |
 | Daemon In The Shell | 0.10% | ~1,057 |
-| Ten out of Ten | 0.10% | ~1,057 |
 | Temperance | 0.10% | ~1,057 |
 | Rough Landing | 0.10% | ~1,057 |
 | The Devil | 0.10% | ~1,057 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,565 (Ranked 17)  
-Completed: 3,142 (0.30%) (Ranked 265)  
+Progressed: 1,056,607 (Ranked 17)  
+Completed: 3,143 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -350,7 +350,7 @@ Completed: 3,142 (0.30%) (Ranked 265)
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
-| 2024-01-21 | 1,056,565 | 3,142 |
+| 2024-01-21 | 1,056,607 | 3,143 |
 ## Awards
 Max (Character Customization): 143,148  (Ranked 8)  
 Sum: 510,867 (Ranked 8)  

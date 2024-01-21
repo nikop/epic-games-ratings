@@ -6,43 +6,43 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~344,226 |
-| good drivers have dead flies on the side windows | 32.00% | ~137,691 |
-| keep it tidy | 26.00% | ~111,874 |
-| brail | 26.00% | ~111,874 |
-| car wash | 23.00% | ~98,965 |
-| the artist | 23.00% | ~98,965 |
-| podium | 20.00% | ~86,057 |
-| medium attack | 17.00% | ~73,148 |
-| bicycle race | 6.00% | ~25,817 |
-| grocery-getter | 5.00% | ~21,514 |
-| autopilot | 4.00% | ~17,211 |
-| night ride | 4.00% | ~17,211 |
-| rwd only | 3.00% | ~12,908 |
-| where is the stage? | 3.00% | ~12,908 |
-| snorkel | 3.00% | ~12,908 |
-| food tour: pasta | 3.00% | ~12,908 |
-| to finish first, first you must finish | 2.00% | ~8,606 |
-| perkele | 2.00% | ~8,606 |
-| turbo | 2.00% | ~8,606 |
-| if in doubt, flat out! | 2.00% | ~8,606 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,606 |
-| mittens | 2.00% | ~8,606 |
-| food tour: pretzel | 2.00% | ~8,606 |
-| espresso | 1.00% | ~4,303 |
-| monster | 1.00% | ~4,303 |
-| in like a lamb, out like a lion | 1.00% | ~4,303 |
-| eurobeat | 0.70% | ~3,012 |
-| parallel universe | 0.70% | ~3,012 |
+| light attack | 80.00% | ~344,313 |
+| good drivers have dead flies on the side windows | 32.00% | ~137,725 |
+| keep it tidy | 26.00% | ~111,902 |
+| brail | 26.00% | ~111,902 |
+| car wash | 23.00% | ~98,990 |
+| the artist | 23.00% | ~98,990 |
+| podium | 20.00% | ~86,078 |
+| medium attack | 17.00% | ~73,166 |
+| bicycle race | 6.00% | ~25,823 |
+| grocery-getter | 5.00% | ~21,520 |
+| autopilot | 4.00% | ~17,216 |
+| night ride | 4.00% | ~17,216 |
+| rwd only | 3.00% | ~12,912 |
+| where is the stage? | 3.00% | ~12,912 |
+| snorkel | 3.00% | ~12,912 |
+| food tour: pasta | 3.00% | ~12,912 |
+| to finish first, first you must finish | 2.00% | ~8,608 |
+| perkele | 2.00% | ~8,608 |
+| turbo | 2.00% | ~8,608 |
+| if in doubt, flat out! | 2.00% | ~8,608 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,608 |
+| mittens | 2.00% | ~8,608 |
+| food tour: pretzel | 2.00% | ~8,608 |
+| espresso | 1.00% | ~4,304 |
+| monster | 1.00% | ~4,304 |
+| in like a lamb, out like a lion | 1.00% | ~4,304 |
+| eurobeat | 0.70% | ~3,013 |
+| parallel universe | 0.70% | ~3,013 |
 | oktoberfest | 0.60% | ~2,582 |
 | viking | 0.60% | ~2,582 |
-| group b | 0.50% | ~2,151 |
-| maximum attack | 0.50% | ~2,151 |
-| samir | 0.50% | ~2,151 |
-| parking lot | 0.40% | ~1,721 |
-| master of rally | 0.40% | ~1,721 |
-| antilag | 0.40% | ~1,721 |
-| real roads, real fast | 0.40% | ~1,721 |
+| group b | 0.50% | ~2,152 |
+| maximum attack | 0.50% | ~2,152 |
+| samir | 0.50% | ~2,152 |
+| parking lot | 0.40% | ~1,722 |
+| master of rally | 0.40% | ~1,722 |
+| antilag | 0.40% | ~1,722 |
+| real roads, real fast | 0.40% | ~1,722 |
 | comfy seats | 0.30% | ~1,291 |
 | simulator | 0.20% | ~861 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~430 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~430 |
 | you're here for a good time, not a long time | 0.10% | ~430 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 430,283 (Ranked 48)  
+Progressed: 430,391 (Ranked 48)  
 Completed: 26 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -256,11 +256,11 @@ Completed: 26 (0.01%) (Ranked 383)
 | 2024-01-18 | 425,601 | 25 |
 | 2024-01-19 | 427,221 | 26 |
 | 2024-01-20 | 429,113 | 26 |
-| 2024-01-21 | 430,283 | 26 |
+| 2024-01-21 | 430,391 | 26 |
 ## Awards
 Max (Quickly Understood Controls): 45  (Ranked 478)  
-Sum: 294 (Ranked 388)  
-Diff (max vs sum): 90  
+Sum: 295 (Ranked 386)  
+Diff (max vs sum): 92  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 45 |
@@ -272,7 +272,7 @@ Diff (max vs sum): 90
 | This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 27 |
 | This game has Competitive Players | 23 |
-| This game has a Competitive Community | 20 |
+| This game has a Competitive Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -342,4 +342,4 @@ Diff (max vs sum): 90
 | 2024-01-18 | 4.63 | - | 45 | 267 |
 | 2024-01-19 | 4.64 | - | 45 | 271 |
 | 2024-01-20 | 4.64 | - | 45 | 291 |
-| 2024-01-21 | 4.64 | - | 45 | 294 |
+| 2024-01-21 | 4.64 | - | 45 | 295 |
