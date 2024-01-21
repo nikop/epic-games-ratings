@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 304,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -1563,9 +1563,9 @@
       "ID": "breaking_free",
       "SetID": "f2im8d",
       "Name": "Breaking free",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "casting_finished",
@@ -1962,8 +1962,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:10:07.0531571+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:08:00.4137857+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:05.6015686+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:57:41.6226446+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:10:07.0532407+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:55:25.8413734+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:08:00.4138219+00:00"
 }

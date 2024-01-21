@@ -22,8 +22,8 @@ Rating: 4.19 (Ranked 980)
 | Big Bazar | 16.00% | ~385 |
 | Essence Blow | 15.00% | ~361 |
 | Alchemist | 15.00% | ~361 |
+| Calm before the Storm | 12.00% | ~289 |
 | The Mentor | 12.00% | ~289 |
-| Calm before the Storm | 11.00% | ~265 |
 | To Battle | 10.00% | ~241 |
 | Godslayer | 10.00% | ~241 |
 | Airborne | 9.00% | ~217 |

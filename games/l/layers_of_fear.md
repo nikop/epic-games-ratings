@@ -26,8 +26,8 @@
 | Playtime | 11.00% | ~38 |
 | Tough conversation | 11.00% | ~38 |
 | A new way | 10.00% | ~34 |
+| Breaking free | 10.00% | ~34 |
 | The tragedy unfolds | 10.00% | ~34 |
-| Breaking free | 9.00% | ~31 |
 | Heavy Burden | 8.00% | ~27 |
 | True Reflection | 8.00% | ~27 |
 | Casting Finished | 7.00% | ~24 |

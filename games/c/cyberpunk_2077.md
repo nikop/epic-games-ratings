@@ -13,6 +13,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Wheel of Fortune | 0.50% | ~5,280 |
 | True Soldier | 0.50% | ~5,280 |
 | Bushido and Chill | 0.40% | ~4,224 |
+| Gun Fu | 0.40% | ~4,224 |
 | Christmas Tree Attack | 0.40% | ~4,224 |
 | Life of the Road | 0.40% | ~4,224 |
 | Stanislavski's Method | 0.40% | ~4,224 |
@@ -23,7 +24,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | All the President's Men | 0.40% | ~739 |
 | Arachnophobia | 0.40% | ~739 |
 | To Protect and Serve | 0.30% | ~3,168 |
-| Gun Fu | 0.30% | ~3,168 |
 | Master Crafter | 0.30% | ~3,168 |
 | I Am The Law | 0.30% | ~3,168 |
 | The Quick and the Dead | 0.30% | ~3,168 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,036 (Ranked 17)  
+Progressed: 1,056,068 (Ranked 17)  
 Completed: 3,136 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 3,136 (0.30%) (Ranked 265)
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
-| 2024-01-21 | 1,056,036 | 3,136 |
+| 2024-01-21 | 1,056,068 | 3,136 |
 ## Awards
 Max (Character Customization): 143,148  (Ranked 8)  
 Sum: 509,206 (Ranked 8)  

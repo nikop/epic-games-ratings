@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,233 |
+| Malpractice Assurance | 15.00% | ~1,234 |
 | Lost and Found | 9.00% | ~740 |
 | Autodidact | 8.00% | ~10,668 |
 | This Belongs in a Museum | 7.00% | ~9,335 |
 | Creep and Sleep | 7.00% | ~9,335 |
 | Overdue Notice | 7.00% | ~9,335 |
-| This guy... again? | 7.00% | ~575 |
+| This guy... again? | 7.00% | ~576 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,001 |
 | Serenity Now! | 6.00% | ~8,001 |
 | Meat and Greet | 6.00% | ~8,001 |
@@ -20,8 +20,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Escape from the Black Hole | 6.00% | ~8,001 |
 | Rush Hour | 6.00% | ~8,001 |
 | To Grandmother's House | 6.00% | ~8,001 |
-| Ploughshares to Swords | 6.00% | ~493 |
-| Bloody Graduation | 6.00% | ~493 |
+| Ploughshares to Swords | 6.00% | ~494 |
+| Bloody Graduation | 6.00% | ~494 |
 | It Rings a Bell | 5.00% | ~6,668 |
 | Not Today! | 5.00% | ~6,668 |
 | It Happens | 5.00% | ~6,668 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,352 (Ranked 92)  
+Progressed: 133,356 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 408)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,15 +352,15 @@ Completed: 5 (0.00%) (Ranked 408)
 | 2024-01-18 | 133,162 | 5 |
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
-| 2024-01-21 | 133,352 | 5 |
+| 2024-01-21 | 133,356 | 5 |
 ## Awards
 Max (Character Customization): 8,048  (Ranked 52)  
-Sum: 21,780 (Ranked 58)  
+Sum: 21,782 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,048 |
-| This game has Diverse Characters | 1,879 |
+| This game has Diverse Characters | 1,881 |
 | This game has Challenging Combat | 1,689 |
 | This game is Highly Recommended | 1,613 |
 | This game has Amazing Characters | 1,539 |
@@ -732,3 +732,4 @@ Diff (max vs sum): -6
 | 2024-01-18 | 4.69 | - | 8,044 | 21,750 |
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
 | 2024-01-20 | 4.69 | - | 8,048 | 21,780 |
+| 2024-01-21 | 4.69 | - | 8,048 | 21,782 |

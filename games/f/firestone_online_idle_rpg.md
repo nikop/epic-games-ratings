@@ -5,22 +5,22 @@ Rating: 4.11 (Ranked 1,027)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,367 |
-| World Map | 78.00% | ~3,663 |
-| Temple of Eternals | 56.00% | ~2,630 |
-| Prestigious | 52.00% | ~2,442 |
-| Fellowship Power | 42.00% | ~1,972 |
-| Full Party | 30.00% | ~1,409 |
-| Guild Power | 22.00% | ~1,033 |
-| Prestigious x10 | 20.00% | ~939 |
-| The game is on | 18.00% | ~845 |
-| Exotic Merchant | 16.00% | ~751 |
-| Dragon Clicker | 15.00% | ~704 |
-| Miner Clicker | 15.00% | ~704 |
-| Dragon Master | 13.00% | ~610 |
-| Enlightenment | 13.00% | ~610 |
-| Hero inspection | 13.00% | ~610 |
-| Inspection | 13.00% | ~610 |
+| Victor | 93.00% | ~4,371 |
+| World Map | 78.00% | ~3,666 |
+| Temple of Eternals | 56.00% | ~2,632 |
+| Prestigious | 52.00% | ~2,444 |
+| Fellowship Power | 42.00% | ~1,974 |
+| Full Party | 30.00% | ~1,410 |
+| Guild Power | 22.00% | ~1,034 |
+| Prestigious x10 | 20.00% | ~940 |
+| The game is on | 18.00% | ~846 |
+| Exotic Merchant | 16.00% | ~752 |
+| Dragon Clicker | 15.00% | ~705 |
+| Miner Clicker | 15.00% | ~705 |
+| Dragon Master | 13.00% | ~611 |
+| Enlightenment | 13.00% | ~611 |
+| Hero inspection | 13.00% | ~611 |
+| Inspection | 13.00% | ~611 |
 | Lieutenant | 12.00% | ~564 |
 | Milestone collector | 11.00% | ~517 |
 | Mysterious Rock | 11.00% | ~517 |
@@ -77,11 +77,11 @@ Rating: 4.11 (Ranked 1,027)
 | Silverwood liberator | 0.80% | ~38 |
 | Training makes a Pro player | 0.80% | ~38 |
 | Beast War Machines | 0.70% | ~33 |
-| Ultimate War Machines | 0.50% | ~23 |
+| Ultimate War Machines | 0.50% | ~24 |
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,696 (Ranked 210)  
+Progressed: 4,700 (Ranked 210)  
 Completed: 2 (0.04%) (Ranked 358)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,10 +352,11 @@ Completed: 2 (0.04%) (Ranked 358)
 | 2024-01-18 | 4,623 | 2 |
 | 2024-01-19 | 4,665 | 2 |
 | 2024-01-20 | 4,696 | 2 |
+| 2024-01-21 | 4,700 | 2 |
 ## Awards
-Max (Great for Beginners): 42  (Ranked 482)  
+Max (Great for Beginners): 42  (Ranked 483)  
 Sum: 162 (Ranked 444)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |

@@ -2,7 +2,7 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 167,
+  "Ranking_Rating": 150,
   "Ranking_Popularity": 453,
   "Ranking_PopularitySum": 510,
   "Ranking_EOS_Progress": 175,
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.74,
+  "Rating": 4.75,
   "RatingHistory": [
     {
       "Time": "2023-10-30T17:01:05.4334371+00:00",
@@ -447,6 +447,12 @@
       "Rating": 4.74,
       "NumberOfAwards": 53,
       "NumberOfAwardsMax": 53
+    },
+    {
+      "Time": "2024-01-21T01:57:02.9385795+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 53,
+      "NumberOfAwardsMax": 53
     }
   ],
   "ReviewsDisabled": false,
@@ -461,9 +467,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15148,
+  "EOS_Progressed": 15152,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 322,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11046,6 +11052,11 @@
       "Time": "2024-01-21T00:11:19.9501871+00:00",
       "NumProgressed": 15148,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-21T02:09:19.4351387+00:00",
+      "NumProgressed": 15152,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11058,7 +11069,7 @@
       "Name": "All Jacked Up",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "BabySteps",
@@ -11066,7 +11077,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6211
+      "UsersEstimate": 6212
     },
     {
       "ID": "BeLikeWater",
@@ -11114,7 +11125,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3181
+      "UsersEstimate": 3182
     },
     {
       "ID": "FasterThanLight",
@@ -11130,7 +11141,7 @@
       "Name": "First Time?",
       "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 8331
+      "UsersEstimate": 8334
     },
     {
       "ID": "FuneralForTheDeath",
@@ -11146,7 +11157,7 @@
       "Name": "Garbage Man",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "Godrunner",
@@ -11160,9 +11171,9 @@
       "ID": "HalfManHalfMachine",
       "SetID": "acc6ea0",
       "Name": "Half Man, Half Machine",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3333
+      "UsersEstimate": 3182
     },
     {
       "ID": "HeJustWantedToHelp",
@@ -11186,7 +11197,7 @@
       "Name": "Live By The Sword",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "MasterManipulator",
@@ -11202,7 +11213,7 @@
       "Name": "Nasty!",
       "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4393
+      "UsersEstimate": 4394
     },
     {
       "ID": "NoMoreTotems",
@@ -11210,7 +11221,7 @@
       "Name": "No More Totems",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 1969
+      "UsersEstimate": 1970
     },
     {
       "ID": "NotLikeTheOthers",
@@ -11226,7 +11237,7 @@
       "Name": "One-Star Man",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ScorchSquad",
@@ -11250,7 +11261,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3938
+      "UsersEstimate": 3940
     },
     {
       "ID": "TheQuarterback",
@@ -11258,7 +11269,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6514
+      "UsersEstimate": 6515
     },
     {
       "ID": "ThisIsDharma",
@@ -11266,7 +11277,7 @@
       "Name": "This... Is... Dharma!",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2576
     },
     {
       "ID": "TimeForYourNinjaRopeToshine",
@@ -11298,7 +11309,7 @@
       "Name": "Digestive Issues",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2575
+      "UsersEstimate": 2576
     },
     {
       "ID": "YoureStartingToGetIt",
@@ -11329,16 +11340,16 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15148,
+      "Progressed": 15152,
       "Completed": 28
     }
   ],
   "FirstSeen": "2023-10-26T15:59:55.7422761+00:00",
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
-  "LastChanged": "2024-01-18T17:57:24.8025675+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:19.9501868+00:00",
+  "LastChanged": "2024-01-21T01:57:02.9385793+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:09:19.4351386+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:59:11.3439813+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:19.9502662+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:57:02.9385799+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:09:19.4351963+00:00"
 }

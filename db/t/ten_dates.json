@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 357,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 308,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 533,
+  "EOS_Progressed": 534,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.31,
   "EosHistory": [
@@ -1621,6 +1621,11 @@
       "Time": "2024-01-21T00:11:00.8280652+00:00",
       "NumProgressed": 533,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-21T02:08:58.8472021+00:00",
+      "NumProgressed": 534,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -1670,9 +1675,9 @@
       "ID": "profile_ryan",
       "SetID": "6h5h9ho",
       "Name": "That wasn\u0027t so bad",
-      "Percentage": 88,
+      "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 469
+      "UsersEstimate": 475
     },
     {
       "ID": "ryan_date2_all",
@@ -1734,9 +1739,9 @@
       "ID": "success_jake",
       "SetID": "6h5h9ho",
       "Name": "The nice guy",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 59
+      "UsersEstimate": 53
     },
     {
       "ID": "success_kathleen",
@@ -1744,7 +1749,7 @@
       "Name": "The intellectual",
       "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "success_lucas",
@@ -1760,7 +1765,7 @@
       "Name": "The athlete",
       "Percentage": 28,
       "XP": 90,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "success_ty",
@@ -1783,7 +1788,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 533,
+      "Progressed": 534,
       "Completed": 7
     }
   ],
@@ -1791,8 +1796,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:00.8280649+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:08:58.8472009+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.3077577+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:58:15.6932918+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:00.8280847+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:56:02.2146301+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:08:58.8472208+00:00"
 }

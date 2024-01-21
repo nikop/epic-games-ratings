@@ -15,13 +15,13 @@ Rating: 4.73 (Ranked 183)
 | Second wall | 33.00% | ~304 |
 | Expert Scavenger | 32.00% | ~295 |
 | Their Rock | 28.00% | ~258 |
+| Stone Retriever | 27.00% | ~249 |
 | Yuna's Promise | 26.00% | ~239 |
-| Stone Retriever | 26.00% | ~239 |
 | Find myself | 25.00% | ~230 |
 | Min's Promise | 18.00% | ~166 |
 | Sia's Promise | 17.00% | ~157 |
 | Truebro | 17.00% | ~157 |
-| Romantic | 13.00% | ~120 |
+| Romantic | 14.00% | ~129 |
 | TentacleMAN | 9.00% | ~83 |
 | Yohan's Promise | 5.00% | ~46 |
 | Flawless | 5.00% | ~46 |

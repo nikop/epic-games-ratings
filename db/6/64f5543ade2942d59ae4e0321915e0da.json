@@ -2,7 +2,7 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 222,
   "Ranking_EOS_NewPlayers": 266,
   "Ranking_EOS_NewCompleters": 155,
@@ -2277,9 +2277,9 @@
       "ID": "AC_DEATH_ENEMIES_1",
       "SetID": "16i2akc",
       "Name": "Killer",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 268
+      "UsersEstimate": 274
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2452,8 +2452,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:07:31.2552892+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:05:35.1782414+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:58:20.8638619+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:07:31.2553423+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:56:07.8013835+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:05:35.1782852+00:00"
 }

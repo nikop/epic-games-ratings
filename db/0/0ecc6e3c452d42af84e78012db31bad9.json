@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewPlayers": 202,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-06-29T22:00:00+00:00",
@@ -35,7 +35,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5081,
+  "EOS_Progressed": 5082,
   "EOS_Completed": 44,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -13635,6 +13635,11 @@
       "Time": "2024-01-21T00:04:26.6104435+00:00",
       "NumProgressed": 5081,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-21T02:02:14.2556671+00:00",
+      "NumProgressed": 5082,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 16,
@@ -13678,7 +13683,7 @@
       "Name": "Animals - unlocked",
       "Percentage": 77,
       "XP": 30,
-      "UsersEstimate": 3912
+      "UsersEstimate": 3913
     },
     {
       "ID": "ach_architecture_completed",
@@ -13734,7 +13739,7 @@
       "Name": "Food - unlocked",
       "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 1829
+      "UsersEstimate": 1830
     },
     {
       "ID": "ach_game_opened",
@@ -13750,7 +13755,7 @@
       "Name": "Magic time",
       "Percentage": 30,
       "XP": 65,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "ach_no_boosters",
@@ -13773,7 +13778,7 @@
     {
       "ID": "3h4khpo",
       "IsBase": true,
-      "Progressed": 5081,
+      "Progressed": 5082,
       "Completed": 44
     }
   ],
@@ -13781,8 +13786,8 @@
   "FirstSeenRating": "2023-12-06T23:00:44.8965761+00:00",
   "FirstSeenAchievements": "2023-06-02T06:59:53.4406834+00:00",
   "LastChanged": "2023-12-06T23:00:44.8965762+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:04:26.6104431+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:02:14.2556667+00:00",
   "LastUpdate_AppInfo": "2024-01-20T01:44:02.1944043+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:58:11.8968181+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:04:26.6106222+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:55:58.0384537+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:02:14.2557479+00:00"
 }

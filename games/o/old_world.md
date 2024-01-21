@@ -6,7 +6,7 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Play a Single Player Game | 6.00% | ~1,022 |
+| Play a Single Player Game | 6.00% | ~1,023 |
 | Explorer | 5.00% | ~852 |
 | Settler | 5.00% | ~852 |
 | Able | 4.00% | ~682 |
@@ -109,9 +109,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Assyrian Paganism | 0.80% | ~136 |
 | Industrial Progress | 0.80% | ~136 |
 | Cimmerian Archer | 0.80% | ~136 |
+| Phalangite | 0.80% | ~136 |
+| Kushite Pyramids | 0.80% | ~136 |
 | Jerwan Aqueduct | 0.80% | ~136 |
 | Royal Library | 0.80% | ~136 |
 | Bad Heir Day | 0.70% | ~119 |
+| Devout | 0.70% | ~119 |
 | Lion | 0.70% | ~119 |
 | Strong Difficulty | 0.70% | ~119 |
 | Hunters | 0.70% | ~119 |
@@ -121,11 +124,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Gnosticism | 0.70% | ~119 |
 | Redemption | 0.70% | ~119 |
 | Veneration | 0.70% | ~119 |
-| Phalangite | 0.70% | ~119 |
 | Ambition Victory | 0.70% | ~119 |
-| Kushite Pyramids | 0.70% | ~119 |
 | Yazilikaya | 0.70% | ~119 |
-| Devout | 0.60% | ~102 |
 | Peacemaker | 0.60% | ~102 |
 | Clerics | 0.60% | ~102 |
 | Church of the Holy Sepulchre | 0.60% | ~102 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,041 (Ranked 170)  
+Progressed: 17,046 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -641,16 +641,16 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,041 | 5 |
+| 2024-01-21 | 17,046 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
-Sum: 1,944 (Ranked 224)  
+Sum: 1,945 (Ranked 224)  
 Diff (max vs sum): 63  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 231 |
+| This game has Diverse Characters | 228 |
 | This game is Extremely Fun | 228 |
-| This game has Diverse Characters | 227 |
 | This game is Highly Recommended | 224 |
 | This game is Educational | 221 |
 | This game has Challenging Combat | 211 |
@@ -860,3 +860,4 @@ Diff (max vs sum): 63
 | 2024-01-18 | 4.65 | - | 230 | 1,937 |
 | 2024-01-19 | 4.65 | - | 230 | 1,942 |
 | 2024-01-20 | 4.65 | - | 231 | 1,944 |
+| 2024-01-21 | 4.65 | - | 231 | 1,945 |

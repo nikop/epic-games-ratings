@@ -81,7 +81,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1347,
+  "EOS_Progressed": 1348,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
@@ -4141,6 +4141,11 @@
       "Time": "2024-01-20T12:10:23.6188474+00:00",
       "NumProgressed": 1347,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-21T02:09:30.3120613+00:00",
+      "NumProgressed": 1348,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4272,7 +4277,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 471
+      "UsersEstimate": 472
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4280,7 +4285,7 @@
       "Name": "The Betrayer",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 296
+      "UsersEstimate": 297
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4342,9 +4347,9 @@
       "ID": "LacunaCompleted",
       "SetID": "a9e499d",
       "Name": "Make Up For Lost Time",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 350
     },
     {
       "ID": "MapCompletion1",
@@ -4416,7 +4421,7 @@
       "Name": "Breaking Down Barriers",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "PidgeAlluraDefeated",
@@ -4424,7 +4429,7 @@
       "Name": "The Wicked Twins",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 324
     },
     {
       "ID": "PidgeDefeated",
@@ -4534,9 +4539,9 @@
       "ID": "WarwickDefeated",
       "SetID": "a9e499d",
       "Name": "Immaculate Aim",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 350
     },
     {
       "ID": "WatcherFought",
@@ -4575,7 +4580,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1347,
+      "Progressed": 1348,
       "Completed": 8
     }
   ],
@@ -4583,8 +4588,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:30.2070628+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:09:30.3120609+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:18.9650571+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:59:16.0952284+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:30.2071089+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:57:08.6335958+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:09:30.3121092+00:00"
 }

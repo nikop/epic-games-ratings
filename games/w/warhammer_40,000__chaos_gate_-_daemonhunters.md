@@ -42,8 +42,8 @@ Number of Ratings: 371  (23.09.2022)
 | Long Distance Call | 1.00% | ~39 |
 | Tactical Flexibility | 1.00% | ~39 |
 | Tactical Sabotage | 1.00% | ~39 |
+| Harvest No More | 0.90% | ~35 |
 | Hands-On Research | 0.80% | ~31 |
-| Harvest No More | 0.80% | ~31 |
 | True Mastery | 0.80% | ~31 |
 | Exercise in Restraint | 0.70% | ~27 |
 | Strike Force | 0.60% | ~24 |
@@ -321,12 +321,12 @@ Completed: 0 (0.00%) (Ranked 408)
 | 2024-01-19 | 3,916 | 0 |
 | 2024-01-20 | 3,920 | 0 |
 ## Awards
-Max (Character Customization): 236  (Ranked 284)  
-Sum: 480 (Ranked 342)  
+Max (Character Customization): 237  (Ranked 284)  
+Sum: 481 (Ranked 342)  
 Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 236 |
+| This game has Inclusive Character Customization | 237 |
 | This game is Extremely Fun | 36 |
 | This game has Amazing Storytelling | 34 |
 | This game is Highly Recommended | 33 |
@@ -464,3 +464,4 @@ Diff (max vs sum): -58
 | 2024-01-15 | 4.58 | - | 236 | 506 |
 | 2024-01-16 | 4.58 | - | 236 | 508 |
 | 2024-01-20 | 4.58 | - | 236 | 480 |
+| 2024-01-21 | 4.58 | - | 237 | 481 |

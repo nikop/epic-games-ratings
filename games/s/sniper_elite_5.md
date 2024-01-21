@@ -5,19 +5,19 @@ Rating: 4.48 (Ranked 662)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Meeting Resistance | 47.00% | ~2,029 |
+| Meeting Resistance | 47.00% | ~2,030 |
 | Confirming Suspicions | 42.00% | ~1,814 |
 | The Kraken Wakes | 38.00% | ~1,641 |
-| It's Starting to Crack | 35.00% | ~1,511 |
+| It's Starting to Crack | 35.00% | ~1,512 |
 | Change the Channel | 32.00% | ~1,382 |
 | Lord of War | 31.00% | ~1,339 |
-| Taking it back | 30.00% | ~1,295 |
+| Taking it back | 30.00% | ~1,296 |
 | Resourceful | 28.00% | ~1,209 |
 | Target America | 28.00% | ~1,209 |
 | The Kraken Sleeps | 26.00% | ~1,123 |
-| Liberté | 24.00% | ~1,036 |
-| Organ Grinder | 24.00% | ~1,036 |
-| As Quiet as a Mouse | 24.00% | ~1,036 |
+| Liberté | 24.00% | ~1,037 |
+| Organ Grinder | 24.00% | ~1,037 |
+| As Quiet as a Mouse | 24.00% | ~1,037 |
 | Sharpshooter | 23.00% | ~993 |
 | Gunslinger | 20.00% | ~864 |
 | Explosive Efficiency | 20.00% | ~864 |
@@ -45,9 +45,9 @@ Rating: 4.48 (Ranked 662)
 | It'll Buff Right Out | 5.00% | ~216 |
 | Road Rage | 5.00% | ~216 |
 | Don't hold your breath | 5.00% | ~216 |
-| Last Resort | 5.00% | ~213 |
-| Siegebreaker | 5.00% | ~213 |
-| Ghost of Falaise | 5.00% | ~213 |
+| Last Resort | 5.00% | ~214 |
+| Siegebreaker | 5.00% | ~214 |
+| Ghost of Falaise | 5.00% | ~214 |
 | Burn after reading | 4.00% | ~173 |
 | Locomotion Commotion | 4.00% | ~173 |
 | If You Go Down To The Woods Today | 4.00% | ~171 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 662)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,318 (Ranked 216)  
+Progressed: 4,319 (Ranked 216)  
 Completed: 11 (0.25%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 11 (0.25%) (Ranked 275)
 | 2024-01-18 | 4,301 | 11 |
 | 2024-01-19 | 4,306 | 11 |
 | 2024-01-20 | 4,317 | 11 |
-| 2024-01-21 | 4,318 | 11 |
+| 2024-01-21 | 4,319 | 11 |
 ## Awards
 Max (Great for Beginners): 30  (Ranked 528)  
 Sum: 30 (Ranked 550)  

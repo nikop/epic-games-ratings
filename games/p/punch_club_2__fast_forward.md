@@ -56,14 +56,14 @@
 | Seashell hunter | 30.00% | ~179 |
 | Problems of cyborgs | 29.00% | ~173 |
 | Another world | 28.00% | ~167 |
+| The lonesome road | 28.00% | ~167 |
+| Key memories | 28.00% | ~167 |
 | Not little hacker | 28.00% | ~167 |
+| The heart of the Resistance | 28.00% | ~167 |
 | Trap disarmed | 27.00% | ~161 |
-| The lonesome road | 27.00% | ~161 |
 | Keep nature safe | 27.00% | ~161 |
 | Family comes first | 27.00% | ~161 |
-| Key memories | 27.00% | ~161 |
 | Careerist | 27.00% | ~161 |
-| The heart of the Resistance | 27.00% | ~161 |
 | The only right decision | 26.00% | ~155 |
 | The last bell ring | 26.00% | ~155 |
 | Anyone can resist | 26.00% | ~155 |

@@ -28,7 +28,7 @@ Rating: 4.72 (Ranked 197)
 | YOU SHALL NOT PASS! | 50.00% | ~390 |
 | The Cathedral of Light | 50.00% | ~390 |
 | Shame! Shame! Shame! | 50.00% | ~390 |
-| Tanos' Crusade Against Thalya | 48.00% | ~374 |
+| Tanos' Crusade Against Thalya | 49.00% | ~382 |
 | Pure Dynamite! | 46.00% | ~358 |
 | Dungeonlord Gorgu | 46.00% | ~358 |
 | All’s Well That Ends Evil | 44.00% | ~343 |
@@ -51,7 +51,7 @@ Rating: 4.72 (Ranked 197)
 | Bonus Evilness | 27.00% | ~210 |
 | The Rune Sockets of Finitude (Part 2) | 27.00% | ~210 |
 | The Last Stand - This Time For Real! | 26.00% | ~203 |
-| Rubble and Ashes | 23.00% | ~179 |
+| Rubble and Ashes | 24.00% | ~187 |
 | Lavalumps on Ice! | 22.00% | ~171 |
 | To Infinity And Beyond! | 21.00% | ~164 |
 | To the Max! | 20.00% | ~156 |

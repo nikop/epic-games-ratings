@@ -17278,9 +17278,9 @@
       "ID": "STORE_NUTRITION_5000",
       "SetID": "5349c2e",
       "Name": "Putting Food on the Table",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3452
+      "UsersEstimate": 3532
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -17390,8 +17390,8 @@
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-20T17:00:34.4365504+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:05:35.8371572+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:03:29.4529982+00:00",
   "LastUpdate_AppInfo": "2024-01-14T03:57:30.9680464+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:57:39.2163312+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:05:35.8372473+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:55:23.5175464+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:03:29.453148+00:00"
 }

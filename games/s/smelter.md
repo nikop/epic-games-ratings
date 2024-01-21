@@ -4,16 +4,16 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| What took you so long? | 89.00% | ~42 |
-| Welcome to the Rumbly Lands! | 87.00% | ~41 |
-| Time to Bash Some Heads! | 81.00% | ~38 |
-| Shiny! | 72.00% | ~34 |
-| Deep in the Mounds | 68.00% | ~32 |
+| What took you so long? | 90.00% | ~43 |
+| Welcome to the Rumbly Lands! | 88.00% | ~42 |
+| Time to Bash Some Heads! | 79.00% | ~38 |
+| Shiny! | 71.00% | ~34 |
+| Deep in the Mounds | 67.00% | ~32 |
 | Smeltastic! | 40.00% | ~19 |
-| Locked Away | 36.00% | ~17 |
-| A Little Renovating | 34.00% | ~16 |
-| It's a Sign! | 32.00% | ~15 |
-| Deflect This! | 28.00% | ~13 |
+| Locked Away | 35.00% | ~17 |
+| A Little Renovating | 33.00% | ~16 |
+| It's a Sign! | 31.00% | ~15 |
+| Deflect This! | 27.00% | ~13 |
 | Just Some Improvements | 23.00% | ~11 |
 | My Precious Gems! | 21.00% | ~10 |
 | A Little Extra Love | 21.00% | ~10 |
@@ -35,29 +35,29 @@
 | How Do You Like Them Apples? | 13.00% | ~6 |
 | A Wingman Falls | 13.00% | ~6 |
 | With a Little Help from My Friends | 13.00% | ~6 |
-| Scheming Away | 11.00% | ~5 |
-| Fishing for Fissures | 11.00% | ~5 |
-| Gotta Collect Them All | 9.00% | ~4 |
-| Keeping Things Tidy | 9.00% | ~4 |
-| Eremagu Trial Extraordinaire | 9.00% | ~4 |
-| Scour the Eremagu Domain | 9.00% | ~4 |
-| An Electrifying Personality | 9.00% | ~4 |
-| Back for More? | 9.00% | ~4 |
-| Gurabi Trial Extraordinaire | 9.00% | ~4 |
-| Scour the Gurabi Domain | 9.00% | ~4 |
-| Isn't It Grand? | 9.00% | ~4 |
-| I am the Trial! | 9.00% | ~4 |
-| I Like Rocks! | 9.00% | ~4 |
-| Nutoro Trial Extraordinaire | 9.00% | ~4 |
-| Scour the Nutoro Domain | 9.00% | ~4 |
-| Let the Undershell Flow | 9.00% | ~4 |
-| He Who Smelt It Dealt It | 9.00% | ~4 |
-| Smelter's Got Your Back | 9.00% | ~4 |
-| In Her Prime | 9.00% | ~4 |
-| The More the Merrier | 9.00% | ~4 |
+| Scheming Away | 10.00% | ~5 |
+| Fishing for Fissures | 10.00% | ~5 |
+| Gotta Collect Them All | 8.00% | ~4 |
+| Keeping Things Tidy | 8.00% | ~4 |
+| Eremagu Trial Extraordinaire | 8.00% | ~4 |
+| Scour the Eremagu Domain | 8.00% | ~4 |
+| An Electrifying Personality | 8.00% | ~4 |
+| Back for More? | 8.00% | ~4 |
+| Gurabi Trial Extraordinaire | 8.00% | ~4 |
+| Scour the Gurabi Domain | 8.00% | ~4 |
+| Isn't It Grand? | 8.00% | ~4 |
+| I am the Trial! | 8.00% | ~4 |
+| I Like Rocks! | 8.00% | ~4 |
+| Nutoro Trial Extraordinaire | 8.00% | ~4 |
+| Scour the Nutoro Domain | 8.00% | ~4 |
+| Let the Undershell Flow | 8.00% | ~4 |
+| He Who Smelt It Dealt It | 8.00% | ~4 |
+| Smelter's Got Your Back | 8.00% | ~4 |
+| In Her Prime | 8.00% | ~4 |
+| The More the Merrier | 8.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47 (Ranked 575)  
-Completed: 4 (8.51%) (Ranked 47)  
+Progressed: 48 (Ranked 573)  
+Completed: 4 (8.33%) (Ranked 48)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -81,6 +81,7 @@ Completed: 4 (8.51%) (Ranked 47)
 | 2023-12-27 | 45 | 4 |
 | 2024-01-04 | 46 | 4 |
 | 2024-01-06 | 47 | 4 |
+| 2024-01-21 | 48 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

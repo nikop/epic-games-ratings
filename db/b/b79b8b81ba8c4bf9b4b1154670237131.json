@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 319,
-  "Ranking_EOS_NewPlayers": 176,
+  "Ranking_EOS_NewPlayers": 175,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16828,
+  "EOS_Progressed": 16830,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 166,
+  "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -7112,6 +7112,11 @@
       "Time": "2024-01-21T00:10:50.3394859+00:00",
       "NumProgressed": 16828,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-21T02:08:47.426701+00:00",
+      "NumProgressed": 16830,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7140,7 +7145,7 @@
       "Name": "One-Track Mind",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 841
+      "UsersEstimate": 842
     },
     {
       "ID": "ACH_AE_12",
@@ -7156,7 +7161,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12621
+      "UsersEstimate": 12622
     },
     {
       "ID": "ACH_AE_14",
@@ -7172,7 +7177,7 @@
       "Name": "Right Back At You",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3702
+      "UsersEstimate": 3703
     },
     {
       "ID": "ACH_AE_16",
@@ -7300,7 +7305,7 @@
       "Name": "Pajama Boy",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "ACH_AE_30",
@@ -7356,7 +7361,7 @@
       "Name": "The Bomb",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "ACH_AE_5",
@@ -7364,7 +7369,7 @@
       "Name": "Bad Chemistry",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2019
+      "UsersEstimate": 2020
     },
     {
       "ID": "ACH_AE_6",
@@ -7403,7 +7408,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16828,
+      "Progressed": 16830,
       "Completed": 16
     }
   ],
@@ -7411,8 +7416,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-16T20:58:45.8429284+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:10:50.3394854+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:08:47.4267007+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:57:53.129901+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:10:50.3395395+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:55:38.9392818+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:08:47.4267544+00:00"
 }

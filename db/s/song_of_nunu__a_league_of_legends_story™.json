@@ -4421,9 +4421,9 @@
       "ID": "EV_ACH07",
       "SetID": "6jeac23",
       "Name": "3000 Year Blackout",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 695
+      "UsersEstimate": 711
     },
     {
       "ID": "EV_ACH08",
@@ -4437,9 +4437,9 @@
       "ID": "EV_ACH09",
       "SetID": "6jeac23",
       "Name": "You Get Used To It",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 648
+      "UsersEstimate": 664
     },
     {
       "ID": "EV_ACH10",
@@ -4565,9 +4565,9 @@
       "ID": "EV_ACH25",
       "SetID": "6jeac23",
       "Name": "Rhythm Of Willump",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 727
+      "UsersEstimate": 743
     },
     {
       "ID": "EV_ACH26",
@@ -4734,8 +4734,8 @@
   "FirstSeenRating": "2023-12-07T18:57:06.0810634+00:00",
   "FirstSeenAchievements": "2023-09-20T10:03:22.440485+00:00",
   "LastChanged": "2024-01-20T13:57:40.0061992+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:26.865708+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:09:26.8137944+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:34.5515703+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:58:29.0826108+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:26.865765+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:56:16.4753765+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:09:26.8138429+00:00"
 }

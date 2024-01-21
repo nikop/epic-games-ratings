@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 222,
   "Ranking_EOS_Completed": 408,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 261,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -817,18 +817,24 @@
       "Rating": 4.58,
       "NumberOfAwards": 480,
       "NumberOfAwardsMax": 236
+    },
+    {
+      "Time": "2024-01-21T02:01:56.8630377+00:00",
+      "Rating": 4.58,
+      "NumberOfAwards": 481,
+      "NumberOfAwardsMax": 237
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 480,
-  "NumberOfAwardsMax": 236,
+  "NumberOfAwards": 481,
+  "NumberOfAwardsMax": 237,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 236
+      "Count": 237
     },
     {
       "Text": "This game is Extremely Fun",
@@ -6547,9 +6553,9 @@
       "ID": "ReaperDefeated_Mortus",
       "SetID": "3jha1np",
       "Name": "Harvest No More",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 35
     },
     {
       "ID": "ReaperDefeated_Necrosus",
@@ -6696,9 +6702,9 @@
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
-  "LastChanged": "2024-01-20T22:03:15.3366235+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:05:26.2634828+00:00",
+  "LastChanged": "2024-01-21T02:01:56.8630375+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:03:19.3071931+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:19.3323172+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:04:12.1200561+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:05:26.2635677+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:01:56.863038+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:03:19.3072793+00:00"
 }

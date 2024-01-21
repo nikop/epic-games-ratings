@@ -177,7 +177,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3834,
+  "EOS_Progressed": 3835,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -2422,6 +2422,11 @@
       "Time": "2024-01-20T21:03:58.423414+00:00",
       "NumProgressed": 3834,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T02:02:57.8829232+00:00",
+      "NumProgressed": 3835,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 26,
@@ -2489,7 +2494,7 @@
       "Name": "Shard Snatchers",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 958
+      "UsersEstimate": 959
     },
     {
       "ID": "FINISH_EPISODE_3",
@@ -2545,7 +2550,7 @@
       "Name": "We\u0027re In",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 1265
+      "UsersEstimate": 1266
     },
     {
       "ID": "HOTWIRE_FIRST_OBJECT",
@@ -2553,7 +2558,7 @@
       "Name": "Who Needs Keys?",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 1955
+      "UsersEstimate": 1956
     },
     {
       "ID": "LOOSE_MONEY_FROM_SINK_OR_SWIM",
@@ -2601,7 +2606,7 @@
       "Name": "Those Were the Days...",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 728
+      "UsersEstimate": 729
     },
     {
       "ID": "WIN_EVERY_VAULTLANDER_IN_MAIN",
@@ -2640,7 +2645,7 @@
     {
       "ID": "kakdpn",
       "IsBase": true,
-      "Progressed": 3834,
+      "Progressed": 3835,
       "Completed": 0
     }
   ],
@@ -2648,8 +2653,8 @@
   "FirstSeenRating": "2022-10-25T21:05:10.6531948+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:36.4059975+00:00",
   "LastChanged": "2023-09-14T02:57:55.0212194+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:05:06.6963641+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:02:57.882923+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:03.1321496+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:01:37.79883+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:05:06.6963885+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:59:38.6284181+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:02:57.8829511+00:00"
 }

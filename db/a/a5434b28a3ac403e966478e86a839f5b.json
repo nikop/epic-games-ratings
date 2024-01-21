@@ -6,8 +6,8 @@
   "Ranking_Popularity": 590,
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 304,
-  "Ranking_EOS_Completed": 164,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_Completed": 167,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 986,
+  "EOS_Progressed": 988,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.22,
+  "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
     {
       "Time": "2023-09-22T21:07:10.6425492+00:00",
@@ -3506,6 +3506,11 @@
       "Time": "2024-01-20T23:04:03.4794584+00:00",
       "NumProgressed": 986,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-21T02:02:42.1215996+00:00",
+      "NumProgressed": 988,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3526,7 +3531,7 @@
       "Name": "Establish Communications",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "ACH_eou2",
@@ -3558,7 +3563,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 197
+      "UsersEstimate": 198
     },
     {
       "ID": "ACH_eou6",
@@ -3566,7 +3571,7 @@
       "Name": "Destroy Strogg Main Reactor",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 177
+      "UsersEstimate": 178
     },
     {
       "ID": "ACH_eou7",
@@ -3621,7 +3626,7 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 986,
+      "Progressed": 988,
       "Completed": 12
     }
   ],
@@ -3629,8 +3634,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-20T20:58:07.6381528+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:04:52.0775533+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:02:42.1215994+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:58:53.2491752+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:04:52.0775866+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:56:43.5727567+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:02:42.1216484+00:00"
 }

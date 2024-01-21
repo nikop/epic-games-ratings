@@ -28,6 +28,7 @@ Rating: 4.63 (Ranked 359)
 | Impenetrable Fortress | 5.00% | ~364 |
 | Preparation Is Everything | 4.00% | ~291 |
 | Fiery Friend | 4.00% | ~291 |
+| The Creator | 3.00% | ~218 |
 | Crimson Caldera | 3.00% | ~218 |
 | Here be Dragons | 3.00% | ~218 |
 | Tipping the Scales | 3.00% | ~218 |
@@ -37,7 +38,6 @@ Rating: 4.63 (Ranked 359)
 | God Emperor | 2.00% | ~146 |
 | Lord of Chaos | 2.00% | ~146 |
 | Arch Mage | 2.00% | ~146 |
-| The Creator | 2.00% | ~146 |
 | The Goddess of Nature | 2.00% | ~146 |
 | Eternal Lord | 2.00% | ~146 |
 | The Eternal Court | 2.00% | ~146 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 359)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,279 (Ranked 201)  
+Progressed: 7,280 (Ranked 201)  
 Completed: 8 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -309,10 +309,11 @@ Completed: 8 (0.11%) (Ranked 314)
 | 2024-01-17 | 7,267 | 8 |
 | 2024-01-19 | 7,273 | 8 |
 | 2024-01-20 | 7,279 | 8 |
+| 2024-01-21 | 7,280 | 8 |
 ## Awards
-Max (Great for Beginners): 42  (Ranked 482)  
+Max (Great for Beginners): 42  (Ranked 483)  
 Sum: 240 (Ranked 407)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |

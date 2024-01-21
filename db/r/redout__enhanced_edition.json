@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 371,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 191,
   "Ranking_EOS_NewCompleters": 3861,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239395,
+  "EOS_Progressed": 239396,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 110,
+  "EOS_NewPlayers": 105,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29208,6 +29208,11 @@
       "Time": "2024-01-21T00:09:29.7156471+00:00",
       "NumProgressed": 239395,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-21T02:07:19.7681241+00:00",
+      "NumProgressed": 239396,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -29251,7 +29256,7 @@
       "Name": "CHALLENGER",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 26333
+      "UsersEstimate": 26334
     },
     {
       "ID": "CHALLENGETHEWORLD",
@@ -29355,7 +29360,7 @@
       "Name": "NATURAL BORN WINNER",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 79000
+      "UsersEstimate": 79001
     },
     {
       "ID": "NOBUNAGA",
@@ -29490,15 +29495,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239395,
+      "Progressed": 239396,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:09:29.7156467+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T01:53:30.5963338+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:57:32.6378896+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:09:29.7157977+00:00"
+  "LastChanged_Achievements": "2024-01-21T02:07:19.7681236+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T01:53:58.314098+00:00",
+  "LastUpdate_Ratings": "2024-01-21T01:55:16.179268+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:07:19.7682972+00:00"
 }

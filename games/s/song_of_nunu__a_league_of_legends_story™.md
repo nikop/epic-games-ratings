@@ -20,13 +20,13 @@ Rating: 4.63 (Ranked 359)
 | Boom Things | 53.00% | ~837 |
 | Tear of Freedom | 52.00% | ~822 |
 | My Darkest Day | 49.00% | ~774 |
+| Rhythm Of Willump | 47.00% | ~743 |
 | The Relentless Storm | 47.00% | ~743 |
-| Rhythm Of Willump | 46.00% | ~727 |
 | A Tragic Reminder | 45.00% | ~711 |
-| 3000 Year Blackout | 44.00% | ~695 |
+| 3000 Year Blackout | 45.00% | ~711 |
 | So Close | 42.00% | ~664 |
+| You Get Used To It | 42.00% | ~664 |
 | The Finisher | 42.00% | ~664 |
-| You Get Used To It | 41.00% | ~648 |
 | Family | 40.00% | ~632 |
 | Boosted! | 40.00% | ~632 |
 | Biggest Snowball Ever | 39.00% | ~616 |

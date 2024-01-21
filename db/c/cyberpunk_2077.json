@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
   "Ranking_EOS_Completed": 265,
-  "Ranking_EOS_NewPlayers": 26,
+  "Ranking_EOS_NewPlayers": 27,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
     "ReleaseDate": "2020-12-10T00:00:00+00:00",
@@ -18812,9 +18812,9 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056036,
+  "EOS_Progressed": 1056068,
   "EOS_Completed": 3136,
-  "EOS_NewPlayers": 5975,
+  "EOS_NewPlayers": 5941,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50387,6 +50387,11 @@
       "Time": "2024-01-21T00:09:58.1984312+00:00",
       "NumProgressed": 1056036,
       "NumCompleted": 3136
+    },
+    {
+      "Time": "2024-01-21T02:07:50.9160863+00:00",
+      "NumProgressed": 1056068,
+      "NumCompleted": 3136
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50469,9 +50474,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3168
+      "UsersEstimate": 4224
     },
     {
       "ID": "Gunslinger",
@@ -50934,21 +50939,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056036,
+      "Progressed": 1056068,
       "Completed": 3136
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 184659,
+      "Progressed": 184691,
       "Completed": 10667
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-21T00:04:08.1400414+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:09:58.1984307+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T01:53:55.3875826+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:04:08.140042+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:09:58.198656+00:00"
+  "LastChanged_Achievements": "2024-01-21T02:07:50.9160861+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
+  "LastUpdate_Ratings": "2024-01-21T02:01:52.7634389+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:07:50.9162382+00:00"
 }

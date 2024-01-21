@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 363,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 148,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2278,10 +2278,16 @@
       "Rating": 4.65,
       "NumberOfAwards": 1944,
       "NumberOfAwardsMax": 231
+    },
+    {
+      "Time": "2024-01-21T01:56:04.4514894+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 1945,
+      "NumberOfAwardsMax": 231
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1944,
+  "NumberOfAwards": 1945,
   "NumberOfAwardsMax": 231,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -2289,7 +2295,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 227
+      "Count": 228
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2358,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17041,
+  "EOS_Progressed": 17046,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 324,
+  "EOS_NewPlayers": 319,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20643,6 +20649,11 @@
       "Time": "2024-01-21T00:11:34.2976059+00:00",
       "NumProgressed": 17041,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-21T02:09:34.4763945+00:00",
+      "NumProgressed": 17046,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21068,9 +21079,9 @@
       "ID": "ACHIEVEMENT_COGNOMEN_DEVOUT",
       "SetID": "9201eeb",
       "Name": "Devout",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 102
+      "UsersEstimate": 119
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_ENLIGHTENED",
@@ -22406,7 +22417,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1022
+      "UsersEstimate": 1023
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -22732,9 +22743,9 @@
       "ID": "ACHIEVEMENT_UNIT_PHALANGITE",
       "SetID": "9201eeb",
       "Name": "Phalangite",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_UNIT_SIEGE_TOWER",
@@ -23356,9 +23367,9 @@
       "ID": "ACHIEVEMENT_KUSHITE_PYRAMIDS",
       "SetID": "9201eeb",
       "Name": "Kushite Pyramids",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 119
+      "UsersEstimate": 136
     },
     {
       "ID": "ACHIEVEMENT_NATION_KUSH",
@@ -23517,21 +23528,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17041,
+      "Progressed": 17046,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17041,
+      "Progressed": 17046,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
-  "LastChanged": "2024-01-20T16:57:48.9495407+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:34.2976054+00:00",
+  "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:09:34.4763942+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:57:52.2130968+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:58:17.8674685+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:34.2987577+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:56:04.4514897+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:09:34.4774517+00:00"
 }

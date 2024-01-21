@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 310,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 280,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -73,7 +73,7 @@
   "Tags": [],
   "EOS_Progressed": 921,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3543,9 +3543,9 @@
       "ID": "ACHIEVEMENT_19_Romantic",
       "SetID": "9bke6f1",
       "Name": "Romantic",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 120
+      "UsersEstimate": 129
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -3655,9 +3655,9 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 239
+      "UsersEstimate": 249
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3680,8 +3680,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-18T15:59:14.6603524+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:10:23.5345381+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T01:53:16.8460905+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:01:07.5553607+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:10:23.5345614+00:00"
+  "LastChanged_Achievements": "2024-01-21T02:08:18.1126378+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
+  "LastUpdate_Ratings": "2024-01-21T01:59:06.7463196+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:08:18.1126673+00:00"
 }

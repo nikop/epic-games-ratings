@@ -5,18 +5,18 @@ Rating: 4.41 (Ranked 761)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,503 |
-| IT MAKES BOOM! | 9.00% | ~36,348 |
-| EXTRA BOOST | 6.00% | ~24,232 |
-| PROTECTED | 5.00% | ~20,194 |
-| PRO | 5.00% | ~20,194 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,155 |
-| AGGRESSIVE RACER | 3.00% | ~12,116 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,077 |
-| TRAINING HARD | 2.00% | ~8,077 |
-| BE OUR GUEST | 2.00% | ~8,077 |
-| ACE SPEEDSTER | 2.00% | ~8,077 |
-| A TIGER'S FEAR | 2.00% | ~8,077 |
+| ROOKIE | 13.00% | ~52,512 |
+| IT MAKES BOOM! | 9.00% | ~36,355 |
+| EXTRA BOOST | 6.00% | ~24,237 |
+| PROTECTED | 5.00% | ~20,197 |
+| PRO | 5.00% | ~20,197 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,158 |
+| AGGRESSIVE RACER | 3.00% | ~12,118 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,079 |
+| TRAINING HARD | 2.00% | ~8,079 |
+| BE OUR GUEST | 2.00% | ~8,079 |
+| ACE SPEEDSTER | 2.00% | ~8,079 |
+| A TIGER'S FEAR | 2.00% | ~8,079 |
 | RELEASE THE KRAKEN | 1.00% | ~4,039 |
 | ACE BRAWLER | 1.00% | ~4,039 |
 | DEFEAT OUR CHAMPION | 1.00% | ~4,039 |
@@ -26,12 +26,12 @@ Rating: 4.41 (Ranked 761)
 | MASTER | 1.00% | ~4,039 |
 | LEGENDARY HERO | 1.00% | ~4,039 |
 | EXPERIENCED CREW | 0.90% | ~3,635 |
-| PERFECTLY POISED | 0.70% | ~2,827 |
-| FRAMED! | 0.70% | ~2,827 |
-| ACE TRICKSTER | 0.70% | ~2,827 |
+| PERFECTLY POISED | 0.70% | ~2,828 |
+| FRAMED! | 0.70% | ~2,828 |
+| ACE TRICKSTER | 0.70% | ~2,828 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 403,871 (Ranked 51)  
-Completed: 1,690 (0.42%) (Ranked 245)  
+Progressed: 403,942 (Ranked 51)  
+Completed: 1,691 (0.42%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -302,7 +302,7 @@ Completed: 1,690 (0.42%) (Ranked 245)
 | 2024-01-18 | 401,688 | 1,649 |
 | 2024-01-19 | 402,662 | 1,669 |
 | 2024-01-20 | 403,816 | 1,690 |
-| 2024-01-21 | 403,871 | 1,690 |
+| 2024-01-21 | 403,942 | 1,691 |
 ## Awards
 Max (Great for Beginners): 195  (Ranked 307)  
 Sum: 1,252 (Ranked 263)  

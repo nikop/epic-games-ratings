@@ -4,7 +4,7 @@
   "ProductSlug": "hot-wheels-unleashed-2",
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 346,
-  "Ranking_EOS_NewPlayers": 259,
+  "Ranking_EOS_NewPlayers": 256,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1985,
+  "EOS_Progressed": 1986,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -5147,6 +5147,11 @@
       "Time": "2024-01-20T21:04:07.3886856+00:00",
       "NumProgressed": 1985,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T02:03:10.1240661+00:00",
+      "NumProgressed": 1986,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-10-04T08:05:55.5813924+00:00",
@@ -5159,7 +5164,7 @@
       "Name": "Rookie",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -5175,7 +5180,7 @@
       "Name": "Out of control",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -5415,7 +5420,7 @@
       "Name": "Spin the wheel",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -5526,20 +5531,20 @@
     {
       "ID": "5k00jcd",
       "IsBase": true,
-      "Progressed": 1985,
+      "Progressed": 1986,
       "Completed": 1
     },
     {
       "ID": "8jfk4dl",
       "IsBase": false,
-      "Progressed": 1653,
+      "Progressed": 1654,
       "Completed": 1015
     }
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:05:17.8041399+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:03:10.1240658+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.7946639+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:00:59.3860477+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:05:17.804215+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:58:57.6864517+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:03:10.1241286+00:00"
 }

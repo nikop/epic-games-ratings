@@ -5,9 +5,9 @@ Rating: 3.96 (Ranked 1,068)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Neophyte Ninja | 4.00% | ~3,742 |
-| First One’s Free | 4.00% | ~3,742 |
-| Downed but Not Outed | 4.00% | ~3,742 |
+| Neophyte Ninja | 4.00% | ~3,743 |
+| First One’s Free | 4.00% | ~3,743 |
+| Downed but Not Outed | 4.00% | ~3,743 |
 | Too Old for This | 3.00% | ~2,807 |
 | Fancy Pants | 3.00% | ~2,807 |
 | Underworld Initiate | 2.00% | ~1,871 |
@@ -23,7 +23,7 @@ Rating: 3.96 (Ranked 1,068)
 | Headhunter | 1.00% | ~936 |
 | True Player | 1.00% | ~936 |
 | Freebooter | 0.90% | ~842 |
-| I Like Trains | 0.80% | ~748 |
+| I Like Trains | 0.80% | ~749 |
 | Foo Finder | 0.70% | ~655 |
 | Legend Looter | 0.60% | ~561 |
 | Imports and Exports | 0.60% | ~561 |
@@ -47,7 +47,7 @@ Rating: 3.96 (Ranked 1,068)
 | Full House | 0.10% | ~94 |
 | Geek Out | 0.10% | ~94 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 93,561 (Ranked 106)  
+Progressed: 93,563 (Ranked 106)  
 Completed: 59 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,9 +323,10 @@ Completed: 59 (0.06%) (Ranked 339)
 | 2024-01-18 | 93,528 | 59 |
 | 2024-01-19 | 93,545 | 59 |
 | 2024-01-20 | 93,561 | 59 |
+| 2024-01-21 | 93,563 | 59 |
 ## Awards
 Max (Diverse Characters): 606  (Ranked 211)  
-Sum: 2,867 (Ranked 191)  
+Sum: 2,869 (Ranked 191)  
 Diff (max vs sum): 20  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +334,7 @@ Diff (max vs sum): 20
 | This game is Highly Recommended | 587 |
 | This game has Amazing Characters | 565 |
 | This game has Quickly Understood Controls | 564 |
-| This game is Extremely Fun | 545 |
+| This game is Extremely Fun | 547 |
 | This game has Challenging Combat | 514 |
 | This game is Great for Quick Sessions | 70 |
 | This game has Amazing Storytelling | 52 |
@@ -633,3 +634,4 @@ Diff (max vs sum): 20
 | 2024-01-18 | 3.96 | 602 | 2,852 |
 | 2024-01-19 | 3.96 | 604 | 2,858 |
 | 2024-01-20 | 3.96 | 606 | 2,867 |
+| 2024-01-21 | 3.96 | 606 | 2,869 |

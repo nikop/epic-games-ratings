@@ -1,19 +1,19 @@
 # Deceive Inc.
 [Store](https://store.epicgames.com/en-US/p/deceive-inc)  
 [View Rawdata](../../db/d/deceive_inc..json)  
-Rating: 4.59 (Ranked 452)  
+Rating: 4.59 (Ranked 453)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| On Deceive Inc.'s Secret Service | 30.00% | ~5,808 |
+| On Deceive Inc.'s Secret Service | 30.00% | ~5,809 |
 | Mainframe Hacker | 23.00% | ~4,453 |
 | The Spy who eliminated me | 23.00% | ~4,453 |
-| Tomorrow Never Dyes | 22.00% | ~4,259 |
+| Tomorrow Never Dyes | 22.00% | ~4,260 |
 | From the Vault with Love | 18.00% | ~3,485 |
 | Never Say Loser Again | 18.00% | ~3,485 |
 | Tailor-Made | 18.00% | ~3,485 |
 | For your Eyes only | 18.00% | ~3,485 |
-| Assistant Accountant | 17.00% | ~3,291 |
+| Assistant Accountant | 17.00% | ~3,292 |
 | You Only Live Twice | 16.00% | ~3,098 |
 | Fully Decked Out | 16.00% | ~3,098 |
 | A view to Win | 13.00% | ~2,517 |
@@ -25,7 +25,7 @@ Rating: 4.59 (Ranked 452)
 | Hostile Takeover | 11.00% | ~2,130 |
 | Keycards Royale | 10.00% | ~1,936 |
 | Dr. No Kill | 10.00% | ~1,936 |
-| In It to Win It | 9.00% | ~1,742 |
+| In It to Win It | 9.00% | ~1,743 |
 | Security Supervisor | 6.00% | ~1,162 |
 | License to Thrill | 5.00% | ~968 |
 | Social of Solace | 4.00% | ~774 |
@@ -42,7 +42,7 @@ Rating: 4.59 (Ranked 452)
 | Extraction Confusion | 0.20% | ~39 |
 | Spyfall | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,361 (Ranked 159)  
+Progressed: 19,362 (Ranked 159)  
 Completed: 4 (0.02%) (Ranked 371)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,6 +318,7 @@ Completed: 4 (0.02%) (Ranked 371)
 | 2024-01-18 | 19,352 | 4 |
 | 2024-01-19 | 19,357 | 4 |
 | 2024-01-20 | 19,361 | 4 |
+| 2024-01-21 | 19,362 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

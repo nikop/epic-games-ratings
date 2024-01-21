@@ -14,8 +14,8 @@ Rating: 4.29 (Ranked 888)
 | Duscot Steamcity | 44.00% | ~97 |
 | The Penguin | 42.00% | ~92 |
 | The Shaman | 42.00% | ~92 |
+| The Tunneler | 38.00% | ~84 |
 | The Magician | 37.00% | ~81 |
-| The Tunneler | 37.00% | ~81 |
 | The Shield | 35.00% | ~77 |
 | Level Up!! | 34.00% | ~75 |
 | Kill-streak | 29.00% | ~64 |

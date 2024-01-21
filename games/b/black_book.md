@@ -6,26 +6,26 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,764 |
-| Student | 23.00% | ~15,675 |
-| Knower | 16.00% | ~10,904 |
-| Listener | 15.00% | ~10,223 |
-| Aspen Tree | 14.00% | ~9,541 |
-| Healer | 14.00% | ~9,541 |
-| Scientist | 12.00% | ~8,178 |
-| Soldier | 12.00% | ~8,178 |
+| Initiation | 29.00% | ~19,766 |
+| Student | 23.00% | ~15,676 |
+| Knower | 16.00% | ~10,905 |
+| Listener | 15.00% | ~10,224 |
+| Aspen Tree | 14.00% | ~9,542 |
+| Healer | 14.00% | ~9,542 |
+| Scientist | 12.00% | ~8,179 |
+| Soldier | 12.00% | ~8,179 |
 | Cow Level | 11.00% | ~7,497 |
-| Old Friend | 10.00% | ~6,815 |
-| Herbalist | 10.00% | ~6,815 |
-| Water | 10.00% | ~6,815 |
+| Old Friend | 10.00% | ~6,816 |
+| Herbalist | 10.00% | ~6,816 |
+| Water | 10.00% | ~6,816 |
 | New Spirits | 9.00% | ~6,134 |
 | Voipel | 9.00% | ~6,134 |
 | Collector | 9.00% | ~6,134 |
 | Wolf | 9.00% | ~6,134 |
 | Black Mage | 9.00% | ~6,134 |
-| Card Player | 8.00% | ~5,452 |
-| Dead Friend | 8.00% | ~5,452 |
-| Pine Tree | 8.00% | ~5,452 |
+| Card Player | 8.00% | ~5,453 |
+| Dead Friend | 8.00% | ~5,453 |
+| Pine Tree | 8.00% | ~5,453 |
 | Worthy | 7.00% | ~4,771 |
 | Black Book | 7.00% | ~4,771 |
 | Black Sorcerer | 7.00% | ~4,771 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,363 |
 | Word Master | 0.20% | ~136 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,153 (Ranked 118)  
+Progressed: 68,158 (Ranked 118)  
 Completed: 75 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -205,7 +205,7 @@ Completed: 75 (0.11%) (Ranked 314)
 | 2024-01-18 | 67,756 | 75 |
 | 2024-01-19 | 67,935 | 75 |
 | 2024-01-20 | 68,148 | 75 |
-| 2024-01-21 | 68,153 | 75 |
+| 2024-01-21 | 68,158 | 75 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

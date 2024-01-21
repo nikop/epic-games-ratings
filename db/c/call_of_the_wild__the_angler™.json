@@ -995,11 +995,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 215,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-01-21T01:56:17.1656946+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 216,
+      "NumberOfAwardsMax": 43
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 215,
-  "NumberOfAwardsMax": 42,
+  "NumberOfAwards": 216,
+  "NumberOfAwardsMax": 43,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -1030,7 +1036,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 42
+      "Count": 43
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1039,9 +1045,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 8380,
+  "EOS_Progressed": 8382,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14289,6 +14295,11 @@
       "Time": "2024-01-21T00:09:40.4736303+00:00",
       "NumProgressed": 8380,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T02:07:31.6115205+00:00",
+      "NumProgressed": 8382,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -14332,7 +14343,7 @@
       "Name": "Fish Out of Water",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -14348,7 +14359,7 @@
       "Name": "More Fish in the Sea",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1508
+      "UsersEstimate": 1509
     },
     {
       "ID": "ACHIEVEMENT_008",
@@ -14364,7 +14375,7 @@
       "Name": "Things that go Splash in the Night",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 670
+      "UsersEstimate": 671
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -14619,22 +14630,22 @@
     {
       "ID": "1a05lfd",
       "IsBase": true,
-      "Progressed": 8380,
+      "Progressed": 8382,
       "Completed": 0
     },
     {
       "ID": "6jk25od",
       "IsBase": false,
-      "Progressed": 7752,
+      "Progressed": 7754,
       "Completed": 113
     }
   ],
   "FirstSeen": "2022-08-31T13:30:37.244386+00:00",
   "FirstSeenRating": "2022-09-02T02:01:46.3061226+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.9545362+00:00",
-  "LastChanged": "2024-01-20T18:58:13.8900862+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:09:40.47363+00:00",
+  "LastChanged": "2024-01-21T01:56:17.1656944+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:07:31.6115203+00:00",
   "LastUpdate_AppInfo": "2024-01-14T02:57:28.5111627+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:58:29.6958432+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:09:40.4737191+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:56:17.1656949+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:07:31.6116071+00:00"
 }

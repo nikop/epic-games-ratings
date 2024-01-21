@@ -4,7 +4,7 @@
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 565,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 491,
+  "Ranking_EOS_NewPlayers": 492,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -311,9 +311,9 @@
       "ID": "a11",
       "SetID": "cdg65ol",
       "Name": "Socialite",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "a12",
@@ -455,9 +455,9 @@
       "ID": "a28",
       "SetID": "cdg65ol",
       "Name": "What?!",
-      "Percentage": 39,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "a29",
@@ -471,9 +471,9 @@
       "ID": "a3",
       "SetID": "cdg65ol",
       "Name": "Sea Legs",
-      "Percentage": 61,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "a30",
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:06:05.4118777+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:04:02.0981572+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:13.4002798+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:03:58.4220099+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:06:05.4119064+00:00"
+  "LastUpdate_Ratings": "2024-01-21T02:01:41.9991152+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:04:02.0981791+00:00"
 }

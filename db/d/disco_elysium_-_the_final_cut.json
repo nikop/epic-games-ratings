@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139769,
+  "EOS_Progressed": 139771,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 692,
+  "EOS_NewPlayers": 688,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29296,6 +29296,11 @@
       "Time": "2024-01-21T00:09:53.6214263+00:00",
       "NumProgressed": 139769,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-21T02:07:45.8784462+00:00",
+      "NumProgressed": 139771,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29339,7 +29344,7 @@
       "Name": "Il Coppo Del\u0027Arte!",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 25158
+      "UsersEstimate": 25159
     },
     {
       "ID": "ACH_COP_BAD",
@@ -29387,7 +29392,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39135
+      "UsersEstimate": 39136
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -29443,7 +29448,7 @@
       "Name": "Hyperstellar Law Official",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 20965
+      "UsersEstimate": 20966
     },
     {
       "ID": "ACH_COP_TRAD",
@@ -29626,15 +29631,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139769,
+      "Progressed": 139771,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:09:53.6214259+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T01:52:34.3068924+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:58:11.0966981+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:09:53.6215857+00:00"
+  "LastChanged_Achievements": "2024-01-21T02:07:45.878446+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
+  "LastUpdate_Ratings": "2024-01-21T01:55:57.1359417+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:07:45.8785677+00:00"
 }

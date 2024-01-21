@@ -6,21 +6,21 @@ Number of Ratings: 398  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Just One...More...Term... | 73.00% | ~5,268 |
-| Un-Lonely Island | 44.00% | ~3,175 |
-| The Beginning of a Servantship | 43.00% | ~3,103 |
+| Just One...More...Term... | 73.00% | ~5,269 |
+| Un-Lonely Island | 44.00% | ~3,176 |
+| The Beginning of a Servantship | 43.00% | ~3,104 |
 | Trade Is My Trait | 35.00% | ~2,526 |
 | Number 18 | 23.00% | ~1,660 |
 | We Don't Have Time For That | 18.00% | ~1,299 |
 | The Legend of Langostino | 16.00% | ~1,155 |
 | The Governator | 16.00% | ~1,155 |
-| Caribbean Comrade | 15.00% | ~1,082 |
-| The Dreamer of Dreams | 15.00% | ~1,082 |
+| Caribbean Comrade | 15.00% | ~1,083 |
+| The Dreamer of Dreams | 15.00% | ~1,083 |
 | Happy Ending? | 10.00% | ~722 |
 | Go Sovereigns! | 10.00% | ~722 |
 | For Science! | 10.00% | ~722 |
-| Of Seals And Men | 9.00% | ~649 |
-| Shackadelic | 9.00% | ~649 |
+| Of Seals And Men | 9.00% | ~650 |
+| Shackadelic | 9.00% | ~650 |
 | Double Trouble | 7.00% | ~505 |
 | Firestarter | 7.00% | ~505 |
 | Make Tropico Great Again! | 7.00% | ~505 |
@@ -32,10 +32,10 @@ Number of Ratings: 398  (23.09.2022)
 | Beware The Betman | 5.00% | ~361 |
 | Watch The World Burn | 5.00% | ~361 |
 | Fairy Tale Come True | 5.00% | ~361 |
-| Been there, Done That | 3.00% | ~216 |
-| Apocalypso | 3.00% | ~216 |
-| Narcissist | 3.00% | ~216 |
-| The Time For Wonders | 3.00% | ~216 |
+| Been there, Done That | 3.00% | ~217 |
+| Apocalypso | 3.00% | ~217 |
+| Narcissist | 3.00% | ~217 |
+| The Time For Wonders | 3.00% | ~217 |
 | One Does Not Simply Stage A Coup | 2.00% | ~144 |
 | Promising Endeavors | 2.00% | ~144 |
 | Sublime Subliminal Supreme | 2.00% | ~144 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~58 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,216 (Ranked 202)  
+Progressed: 7,218 (Ranked 202)  
 Completed: 2 (0.03%) (Ranked 363)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,9 +323,10 @@ Completed: 2 (0.03%) (Ranked 363)
 | 2024-01-18 | 7,193 | 2 |
 | 2024-01-19 | 7,203 | 2 |
 | 2024-01-20 | 7,216 | 2 |
+| 2024-01-21 | 7,218 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 374)  
-Sum: 770 (Ranked 303)  
+Sum: 771 (Ranked 303)  
 Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +335,7 @@ Diff (max vs sum): 71
 | This game is Great for Beginners | 106 |
 | This game has Quickly Understood Controls | 103 |
 | This game is Extremely Fun | 99 |
-| This game has Amazing Storytelling | 97 |
+| This game has Amazing Storytelling | 98 |
 | This game is Educational | 94 |
 | This game has Amazing Characters | 92 |
 | This game has a Creative Community | 72 |
@@ -534,3 +535,4 @@ Diff (max vs sum): 71
 | 2024-01-16 | 4.64 | - | 107 | 767 |
 | 2024-01-17 | 4.64 | - | 107 | 768 |
 | 2024-01-20 | 4.64 | - | 107 | 770 |
+| 2024-01-21 | 4.64 | - | 107 | 771 |

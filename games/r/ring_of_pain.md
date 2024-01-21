@@ -8,7 +8,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | ---- | ---------- | ----- |
 | First Steps | 2.00% | ~4,866 |
 | Uncharted Territory | 2.00% | ~4,866 |
-| Matching | 2.00% | ~95 |
+| Matching | 2.00% | ~96 |
 | Ambitious Intent | 1.00% | ~2,433 |
 | Nothing To Lose | 1.00% | ~2,433 |
 | Heavy Hitter | 1.00% | ~2,433 |
@@ -66,6 +66,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Chain Reaction | 0.50% | ~1,216 |
 | Antivenom | 0.50% | ~1,216 |
 | The Long Run | 0.50% | ~1,216 |
+| New Game+ | 0.40% | ~973 |
 | Juggernaut | 0.40% | ~973 |
 | Decisions, Decisions | 0.40% | ~973 |
 | Fragile Mortality | 0.40% | ~973 |
@@ -75,7 +76,6 @@ Number of Ratings: 15,086  (23.09.2022)
 | Achievement Hunter | 0.30% | ~730 |
 | Challenge Increases | 0.30% | ~730 |
 | A Long Climb | 0.30% | ~730 |
-| New Game+ | 0.30% | ~730 |
 | Barbecue | 0.30% | ~730 |
 | Grave Digger | 0.30% | ~730 |
 | Soul Stash | 0.30% | ~730 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,291 (Ranked 75)  
+Progressed: 243,296 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -421,7 +421,7 @@ Completed: 309 (0.13%) (Ranked 308)
 | 2024-01-18 | 243,175 | 309 |
 | 2024-01-19 | 243,229 | 309 |
 | 2024-01-20 | 243,288 | 309 |
-| 2024-01-21 | 243,291 | 309 |
+| 2024-01-21 | 243,296 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,799 (Ranked 92)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 268,
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
-  "Ranking_EOS_NewPlayers": 161,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -2599,9 +2599,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 19759,
+  "EOS_Progressed": 19761,
   "EOS_Completed": 81,
-  "EOS_NewPlayers": 243,
+  "EOS_NewPlayers": 241,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21099,6 +21099,11 @@
       "Time": "2024-01-21T00:11:19.8439357+00:00",
       "NumProgressed": 19759,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-21T02:09:19.2230217+00:00",
+      "NumProgressed": 19761,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 35,
@@ -21110,7 +21115,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16005
+      "UsersEstimate": 16006
     },
     {
       "ID": "ACH02",
@@ -21158,7 +21163,7 @@
       "Name": "The American Dream",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 3754
+      "UsersEstimate": 3755
     },
     {
       "ID": "ACH08",
@@ -21166,7 +21171,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10077
+      "UsersEstimate": 10078
     },
     {
       "ID": "ACH09",
@@ -21214,7 +21219,7 @@
       "Name": "Horror of the Santa Maria",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2173
+      "UsersEstimate": 2174
     },
     {
       "ID": "ACH15",
@@ -21286,7 +21291,7 @@
       "Name": "All Dressed Up for San Fierro",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 5137
+      "UsersEstimate": 5138
     },
     {
       "ID": "ACH24",
@@ -21389,7 +21394,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19759,
+      "Progressed": 19761,
       "Completed": 81
     }
   ],
@@ -21397,8 +21402,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-20T21:59:52.5172185+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:19.8439353+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:09:19.2230214+00:00",
   "LastUpdate_AppInfo": "2024-01-14T04:58:10.9067749+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:01:31.2982203+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:19.844071+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:59:31.8789948+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:09:19.2231323+00:00"
 }

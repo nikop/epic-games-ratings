@@ -3934,9 +3934,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243291,
+  "EOS_Progressed": 243296,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 379,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32494,6 +32494,11 @@
       "Time": "2024-01-21T00:11:32.7362668+00:00",
       "NumProgressed": 243291,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-21T02:09:32.8088935+00:00",
+      "NumProgressed": 243296,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32671,9 +32676,9 @@
       "ID": "DIEHARD",
       "SetID": "5l8oe0h",
       "Name": "New Game\u002B",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 973
     },
     {
       "ID": "DIEIN30SEC",
@@ -33601,20 +33606,20 @@
       "Name": "Matching",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243291,
+      "Progressed": 243296,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4771,
+      "Progressed": 4776,
       "Completed": 429
     }
   ],
@@ -33622,8 +33627,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-16T22:57:50.2839626+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:32.7362665+00:00",
-  "LastUpdate_AppInfo": "2024-01-14T01:53:20.210165+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:01:35.5713512+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:32.7365507+00:00"
+  "LastChanged_Achievements": "2024-01-21T02:09:32.8088933+00:00",
+  "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
+  "LastUpdate_Ratings": "2024-01-21T01:59:36.2034131+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:09:32.8091435+00:00"
 }

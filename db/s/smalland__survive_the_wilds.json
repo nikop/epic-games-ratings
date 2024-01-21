@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 590,
   "Ranking_EOS_Progress": 156,
   "Ranking_EOS_Completed": 332,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 155,
   "Store": {
     "ReleaseDate": "2023-03-29T13:00:00+00:00",
@@ -435,9 +435,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 21374,
+  "EOS_Progressed": 21375,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 24,
+  "EOS_NewPlayers": 25,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -10770,6 +10770,11 @@
       "Time": "2024-01-20T22:09:52.650116+00:00",
       "NumProgressed": 21374,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-21T02:09:09.1549963+00:00",
+      "NumProgressed": 21375,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 13,
@@ -10781,7 +10786,7 @@
       "Name": "Safe!",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     },
     {
       "ID": "FirstGlide",
@@ -10877,14 +10882,14 @@
       "Name": "Stone Age",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 427
+      "UsersEstimate": 428
     }
   ],
   "AchievementSets": [
     {
       "ID": "3c9im16",
       "IsBase": true,
-      "Progressed": 21374,
+      "Progressed": 21375,
       "Completed": 18
     }
   ],
@@ -10892,8 +10897,8 @@
   "FirstSeenRating": "2023-03-31T05:57:29.8298127+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:43.2502922+00:00",
   "LastChanged": "2024-01-17T21:58:13.7905007+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:10.4066329+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:09:09.154996+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:04.5351742+00:00",
-  "LastUpdate_Ratings": "2024-01-21T00:01:10.7852985+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:10.4066946+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:59:10.1969846+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:09:09.1550609+00:00"
 }

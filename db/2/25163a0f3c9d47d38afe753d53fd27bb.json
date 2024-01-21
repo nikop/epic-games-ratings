@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1823,
+  "EOS_Progressed": 1825,
   "EOS_Completed": 131,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 7.19,
+  "EOS_Completed_Percentage": 7.18,
   "EosHistory": [
     {
       "Time": "2023-05-15T17:01:19.4520906+00:00",
@@ -4674,6 +4674,11 @@
       "Time": "2024-01-20T23:10:24.4985586+00:00",
       "NumProgressed": 1823,
       "NumCompleted": 131
+    },
+    {
+      "Time": "2024-01-21T02:09:17.0201735+00:00",
+      "NumProgressed": 1825,
+      "NumCompleted": 131
     }
   ],
   "TotalAchievements": 30,
@@ -4685,7 +4690,7 @@
       "Name": "A fresh start",
       "Percentage": 95,
       "XP": 15,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1734
     },
     {
       "ID": "LEVEL_002",
@@ -4693,7 +4698,7 @@
       "Name": "Promising crop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1440
+      "UsersEstimate": 1442
     },
     {
       "ID": "LEVEL_003",
@@ -4701,7 +4706,7 @@
       "Name": "A horse in the country",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1223
     },
     {
       "ID": "LEVEL_004",
@@ -4709,7 +4714,7 @@
       "Name": "Life is better at the lake",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "LEVEL_005",
@@ -4717,7 +4722,7 @@
       "Name": "Small village",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "LEVEL_006",
@@ -4741,7 +4746,7 @@
       "Name": "Let\u0027s go to the market",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "LEVEL_009",
@@ -4749,7 +4754,7 @@
       "Name": "Going zig zag",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 492
+      "UsersEstimate": 493
     },
     {
       "ID": "LEVEL_010",
@@ -4765,7 +4770,7 @@
       "Name": "This island of mine",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "LEVEL_012",
@@ -4773,7 +4778,7 @@
       "Name": "Vegetables on rails",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 346
+      "UsersEstimate": 347
     },
     {
       "ID": "LEVEL_013",
@@ -4805,7 +4810,7 @@
       "Name": "Where\u0027s the toilet, sir?",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 273
+      "UsersEstimate": 274
     },
     {
       "ID": "LEVEL_017",
@@ -4813,7 +4818,7 @@
       "Name": "Windmill on a rocky cliff",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "LEVEL_018",
@@ -4909,7 +4914,7 @@
       "Name": "Bridges connect us",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     },
     {
       "ID": "LEVEL_030",
@@ -4917,21 +4922,21 @@
       "Name": "Celebration with Cake and Balloons",
       "Percentage": 6,
       "XP": 110,
-      "UsersEstimate": 109
+      "UsersEstimate": 110
     }
   ],
   "AchievementSets": [
     {
       "ID": "212bg48",
       "IsBase": true,
-      "Progressed": 1823,
+      "Progressed": 1825,
       "Completed": 131
     }
   ],
   "FirstSeen": "2023-05-19T20:56:47.922141+00:00",
   "FirstSeenAchievements": "2023-05-15T12:01:54.4698302+00:00",
-  "LastChanged_Achievements": "2024-01-21T00:11:17.7002284+00:00",
+  "LastChanged_Achievements": "2024-01-21T02:09:17.0201733+00:00",
   "LastUpdate_AppInfo": "2024-01-16T07:57:16.2466805+00:00",
-  "LastUpdate_Ratings": "2024-01-20T23:59:12.7434918+00:00",
-  "LastUpdate_Achievements": "2024-01-21T00:11:17.7002722+00:00"
+  "LastUpdate_Ratings": "2024-01-21T01:57:04.4275548+00:00",
+  "LastUpdate_Achievements": "2024-01-21T02:09:17.0202079+00:00"
 }

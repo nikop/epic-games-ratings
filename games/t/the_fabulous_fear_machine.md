@@ -15,9 +15,9 @@
 | A rival with no options | 27.00% | ~25 |
 | Pulp! Terror Tales in the Night | 27.00% | ~25 |
 | The artist | 25.00% | ~23 |
+| Diagnosis: fear | 25.00% | ~23 |
+| Ambition is... blind | 25.00% | ~23 |
 | Pulp! Out of this World | 24.00% | ~22 |
-| Diagnosis: fear | 24.00% | ~22 |
-| Ambition is... blind | 24.00% | ~22 |
 | Pulp! Adventures into the Unknown | 22.00% | ~20 |
 | You have two wishes left | 22.00% | ~20 |
 | Et in arcadia ego | 20.00% | ~19 |
