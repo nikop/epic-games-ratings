@@ -11,7 +11,7 @@
 | Chapter 3 Complete | 31.00% | ~38 |
 | Chapter 4 Complete | 24.00% | ~29 |
 | Heavy Duty | 21.00% | ~25 |
-| Chapter 5 Complete | 19.00% | ~23 |
+| Chapter 5 Complete | 20.00% | ~24 |
 | The Truth | 19.00% | ~23 |
 | Chapter 6 Complete | 18.00% | ~22 |
 | Plant Enchanter | 18.00% | ~22 |

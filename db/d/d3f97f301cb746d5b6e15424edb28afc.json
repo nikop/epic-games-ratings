@@ -5291,9 +5291,9 @@
       "ID": "GSS_ACH_14_FUEL_SERVE_02",
       "SetID": "5fn8ia4",
       "Name": "Growing importance",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 1527
+      "UsersEstimate": 1544
     },
     {
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
@@ -5844,8 +5844,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-19T11:59:35.8280694+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:05:18.0526181+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:05:49.4767257+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:07.7335688+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:02:09.3658962+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:05:18.0527198+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:02:29.2456183+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:05:49.4768383+00:00"
 }

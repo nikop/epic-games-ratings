@@ -1,19 +1,19 @@
 # Partisans 1941
 [Store](https://store.epicgames.com/en-US/p/partisans-1941)  
 [View Rawdata](../../db/p/partisans_1941.json)  
-Rating: 4.62 (Ranked 382)  
+Rating: 4.62 (Ranked 381)  
 Number of Ratings: 98  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| E1M1 | 46.00% | ~904 |
+| E1M1 | 46.00% | ~905 |
 | Grenadier | 45.00% | ~885 |
 | War Never Changes | 45.00% | ~885 |
 | Heroes Never Die | 41.00% | ~806 |
 | Mosquito bite | 38.00% | ~747 |
 | Spice It Up | 33.00% | ~649 |
-| Agent 47 | 28.00% | ~550 |
-| Bomberman | 28.00% | ~550 |
+| Agent 47 | 28.00% | ~551 |
+| Bomberman | 28.00% | ~551 |
 | You're Gonna Go Far, Kid | 27.00% | ~531 |
 | Death to the Oppressor! | 20.00% | ~393 |
 | The Gang's All Here | 17.00% | ~334 |
@@ -22,12 +22,12 @@ Number of Ratings: 98  (23.09.2022)
 | The Big Bertha | 13.00% | ~256 |
 | Game Over | 12.00% | ~236 |
 | Lock, Stock | 8.00% | ~157 |
-| Payback Time | 7.00% | ~138 |
+| Payback Time | 8.00% | ~157 |
 | No Witness | 6.00% | ~118 |
 | Strategist | 5.00% | ~98 |
 | Do a Barrel Roll! | 2.00% | ~39 |
 | Unbreakable Wall | 2.00% | ~39 |
-| Experienced Strategist | 1.00% | ~20 |
+| Experienced Strategist | 2.00% | ~39 |
 | How?! | 1.00% | ~20 |
 | Tough as Nails | 0.50% | ~10 |
 | Commandos | 0.40% | ~8 |
@@ -37,7 +37,7 @@ Number of Ratings: 98  (23.09.2022)
 | Defense of Steel | 0.10% | ~2 |
 | Scout | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,966 (Ranked 258)  
+Progressed: 1,967 (Ranked 258)  
 Completed: 2 (0.10%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -289,7 +289,7 @@ Completed: 2 (0.10%) (Ranked 319)
 | 2024-01-18 | 1,961 | 2 |
 | 2024-01-19 | 1,963 | 2 |
 | 2024-01-20 | 1,965 | 2 |
-| 2024-01-21 | 1,966 | 2 |
+| 2024-01-21 | 1,967 | 2 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

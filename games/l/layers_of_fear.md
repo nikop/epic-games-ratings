@@ -28,9 +28,9 @@
 | Tough conversation | 11.00% | ~38 |
 | A new way | 10.00% | ~34 |
 | Breaking free | 10.00% | ~34 |
+| Casting Finished | 8.00% | ~27 |
 | Heavy Burden | 8.00% | ~27 |
 | True Reflection | 8.00% | ~27 |
-| Casting Finished | 7.00% | ~24 |
 | Instinct of self-preservation | 7.00% | ~24 |
 | Fisherman | 7.00% | ~24 |
 | Something to think about | 5.00% | ~17 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 389)  
+Progressed: 342 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |

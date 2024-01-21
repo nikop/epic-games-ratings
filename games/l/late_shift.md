@@ -4,17 +4,17 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Cause and Effect | 95.00% | ~1,094 |
-| Fair Share | 68.00% | ~783 |
-| Even Tempered | 54.00% | ~622 |
-| Star-Crossed Lovers | 47.00% | ~541 |
+| Cause and Effect | 95.00% | ~1,095 |
+| Fair Share | 68.00% | ~784 |
+| Even Tempered | 54.00% | ~623 |
+| Star-Crossed Lovers | 47.00% | ~542 |
 | The Delivery | 44.00% | ~507 |
-| Shill Bidder | 41.00% | ~472 |
+| Shill Bidder | 41.00% | ~473 |
 | The Frenzy | 31.00% | ~357 |
 | Good Karma | 29.00% | ~334 |
 | Protector | 27.00% | ~311 |
 | Office Clerk | 26.00% | ~300 |
-| The Bribe | 24.00% | ~276 |
+| The Bribe | 24.00% | ~277 |
 | Interrogation | 15.00% | ~173 |
 | The Ploy | 14.00% | ~161 |
 | Sabotage | 10.00% | ~115 |
@@ -25,8 +25,8 @@
 | Proficient Storyteller | 3.00% | ~35 |
 | Expert Storyteller | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,152 (Ranked 294)  
-Completed: 14 (1.22%) (Ranked 165)  
+Progressed: 1,153 (Ranked 294)  
+Completed: 14 (1.21%) (Ranked 167)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -218,7 +218,7 @@ Completed: 14 (1.22%) (Ranked 165)
 | 2024-01-18 | 1,131 | 13 |
 | 2024-01-19 | 1,139 | 13 |
 | 2024-01-20 | 1,148 | 14 |
-| 2024-01-21 | 1,152 | 14 |
+| 2024-01-21 | 1,153 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

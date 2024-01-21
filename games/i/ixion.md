@@ -6,12 +6,12 @@ Rating: 4.60 (Ranked 427)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 34.00% | ~1,441 |
-| Sputnik 2049 | 30.00% | ~1,271 |
+| Sputnik 2049 | 30.00% | ~1,272 |
 | Infinite Growth... | 29.00% | ~1,229 |
-| Without Breaking Some Eggs... | 27.00% | ~1,144 |
-| Space Society | 20.00% | ~847 |
-| A Thousand Strong | 20.00% | ~847 |
-| Ready for a New World | 20.00% | ~847 |
+| Without Breaking Some Eggs... | 27.00% | ~1,145 |
+| Space Society | 20.00% | ~848 |
+| A Thousand Strong | 20.00% | ~848 |
+| Ready for a New World | 20.00% | ~848 |
 | Permanent Redesigns | 18.00% | ~763 |
 | Fully Recycled | 16.00% | ~678 |
 | The Ship of Theseus | 16.00% | ~678 |
@@ -21,10 +21,10 @@ Rating: 4.60 (Ranked 427)
 | A Hunk of Junk | 13.00% | ~551 |
 | Exceeding Capacity | 13.00% | ~551 |
 | Breaking Protocol | 13.00% | ~551 |
-| Man's Best Friend | 9.00% | ~381 |
-| Power Outage | 9.00% | ~381 |
-| Convenient Transport | 9.00% | ~381 |
-| Please Make it Stop! | 9.00% | ~381 |
+| Man's Best Friend | 9.00% | ~382 |
+| Power Outage | 9.00% | ~382 |
+| Convenient Transport | 9.00% | ~382 |
+| Please Make it Stop! | 9.00% | ~382 |
 | Sightseeing | 8.00% | ~339 |
 | Necessary Enhancement | 8.00% | ~339 |
 | Access Granted | 7.00% | ~297 |
@@ -37,8 +37,8 @@ Rating: 4.60 (Ranked 427)
 | In Dolos We Trust | 5.00% | ~212 |
 | BRAWL! | 5.00% | ~212 |
 | What the Ruins Teach Us | 5.00% | ~212 |
-| Sustainable Energy | 4.00% | ~169 |
-| Pedal to the Metal | 4.00% | ~169 |
+| Sustainable Energy | 4.00% | ~170 |
+| Pedal to the Metal | 4.00% | ~170 |
 | Praise the Hull! | 3.00% | ~127 |
 | Space Greenhouse | 3.00% | ~127 |
 | Delivery! | 3.00% | ~127 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 427)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,237 (Ranked 218)  
+Progressed: 4,239 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 4,219 | 0 |
 | 2024-01-19 | 4,224 | 0 |
 | 2024-01-20 | 4,231 | 0 |
-| 2024-01-21 | 4,237 | 0 |
+| 2024-01-21 | 4,239 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

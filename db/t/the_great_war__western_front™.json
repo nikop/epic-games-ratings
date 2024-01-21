@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 974,
+  "EOS_Progressed": 975,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
@@ -4232,6 +4232,11 @@
       "Time": "2024-01-21T16:04:02.3854877+00:00",
       "NumProgressed": 974,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T19:05:24.8489467+00:00",
+      "NumProgressed": 975,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 12,
@@ -4275,7 +4280,7 @@
       "Name": "War with Friends",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "DESTROY_100_EMPLACEMENTS_WITH_BOMBERS",
@@ -4331,14 +4336,14 @@
       "Name": "Nothing Can Stop Us!",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     }
   ],
   "AchievementSets": [
     {
       "ID": "6kcl14p",
       "IsBase": true,
-      "Progressed": 974,
+      "Progressed": 975,
       "Completed": 0
     }
   ],
@@ -4346,8 +4351,8 @@
   "FirstSeenRating": "2023-03-31T05:57:31.1456657+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.2336956+00:00",
   "LastChanged": "2024-01-12T11:00:14.7563806+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:04:55.0022874+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:05:24.8489462+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.3888971+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:58:06.1268473+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:04:55.0023191+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:58:12.2752499+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:05:24.8489887+00:00"
 }

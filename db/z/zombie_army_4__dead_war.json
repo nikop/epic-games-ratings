@@ -2686,18 +2686,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 2643,
       "NumberOfAwardsMax": 879
+    },
+    {
+      "Time": "2024-01-21T19:03:44.8461928+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 2645,
+      "NumberOfAwardsMax": 881
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2643,
-  "NumberOfAwardsMax": 879,
+  "NumberOfAwards": 2645,
+  "NumberOfAwardsMax": 881,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 879
+      "Count": 881
     },
     {
       "Text": "This game is Extremely Fun",
@@ -2766,9 +2772,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44555,
+  "EOS_Progressed": 44556,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11596,6 +11602,11 @@
       "Time": "2024-01-21T17:06:09.9908995+00:00",
       "NumProgressed": 44555,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-21T19:06:29.6805678+00:00",
+      "NumProgressed": 44556,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11607,7 +11618,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27624
+      "UsersEstimate": 27625
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11647,7 +11658,7 @@
       "Name": "Bad Blood",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 7574
+      "UsersEstimate": 7575
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_NIGHTMARE",
@@ -11663,7 +11674,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12475
+      "UsersEstimate": 12476
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -11679,7 +11690,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18713
+      "UsersEstimate": 18714
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11711,7 +11722,7 @@
       "Name": "In the dark dark woods...",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 17376
+      "UsersEstimate": 17377
     },
     {
       "ID": "SE_COMPLETE_GRAVEYARD_SHIFT",
@@ -11823,7 +11834,7 @@
       "Name": "Weird science",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 19604
+      "UsersEstimate": 19605
     },
     {
       "ID": "SE_COMPLETE_ST_PETERS",
@@ -11847,7 +11858,7 @@
       "Name": "Everyone\u0027s a mad scientist, life is the lab",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 8465
+      "UsersEstimate": 8466
     },
     {
       "ID": "SE_COMPLETE_VENICE",
@@ -11895,7 +11906,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16485
+      "UsersEstimate": 16486
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11903,7 +11914,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18713
+      "UsersEstimate": 18714
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11911,7 +11922,7 @@
       "Name": "Gold",
       "Percentage": 51,
       "XP": 100,
-      "UsersEstimate": 22723
+      "UsersEstimate": 22724
     },
     {
       "ID": "SE_GET_X_FOR_1_EXPLOSIVE_KILL",
@@ -11927,7 +11938,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16485
+      "UsersEstimate": 16486
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11935,7 +11946,7 @@
       "Name": "Shoot it, man! Shoot it in the head!",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 31188
+      "UsersEstimate": 31189
     },
     {
       "ID": "SE_KILL_ALL_ZOMBIE_HANDS",
@@ -11967,7 +11978,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25396
+      "UsersEstimate": 25397
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -12007,7 +12018,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29852
+      "UsersEstimate": 29853
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -12023,7 +12034,7 @@
       "Name": "Weapons expert",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7574
+      "UsersEstimate": 7575
     },
     {
       "ID": "SE_OPEN_EVERY_HIDDEN_CRATE_IN_HORDE",
@@ -12063,7 +12074,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29406
+      "UsersEstimate": 29407
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -12134,15 +12145,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44555,
+      "Progressed": 44556,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
-  "LastChanged": "2024-01-20T20:02:40.836537+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:05:55.9534608+00:00",
+  "LastChanged": "2024-01-21T19:03:44.8461925+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:06:29.6805673+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:50.2969677+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:03:22.3344866+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:05:55.9535551+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:03:44.8461931+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:06:29.680656+00:00"
 }

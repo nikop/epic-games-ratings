@@ -33,8 +33,8 @@
 | Rehab Expert | 15.00% | ~80 |
 | Established Fame | 15.00% | ~80 |
 | Under One Roof | 13.00% | ~70 |
+| Starred Dining | 13.00% | ~70 |
 | Cashflow Chief | 13.00% | ~70 |
-| Starred Dining | 12.00% | ~64 |
 | Smooth Operator | 11.00% | ~59 |
 | Boutique Benefits | 11.00% | ~59 |
 | Thrilled Tenants | 11.00% | ~59 |

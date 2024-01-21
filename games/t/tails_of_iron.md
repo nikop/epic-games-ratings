@@ -7,6 +7,7 @@ Rating: 4.57 (Ranked 497)
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 4.00% | ~94 |
 | Become King | 3.00% | ~70 |
+| Ranged Weapon | 3.00% | ~70 |
 | Defeat 25 Frogs | 3.00% | ~70 |
 | The Bright Fir | 3.00% | ~30 |
 | Collect Gold | 2.00% | ~47 |
@@ -15,7 +16,6 @@ Rating: 4.57 (Ranked 497)
 | Complete Elder Faction | 2.00% | ~47 |
 | End of the Mozis | 2.00% | ~47 |
 | Defeat Ratnor Rodentson | 2.00% | ~47 |
-| Ranged Weapon | 2.00% | ~47 |
 | Two Handed Weapon | 2.00% | ~47 |
 | Defeat 25 Grubs | 2.00% | ~47 |
 | Defeat 25 Mozis | 2.00% | ~47 |

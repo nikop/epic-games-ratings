@@ -12,7 +12,7 @@
 | The activist | 21.00% | ~113 |
 | The individualist | 17.00% | ~91 |
 | Picky, Picky! | 11.00% | ~59 |
-| The nice guy | 10.00% | ~54 |
+| The nice guy | 11.00% | ~59 |
 | The lad | 9.00% | ~48 |
 | The debonair | 9.00% | ~48 |
 | The techie | 7.00% | ~38 |

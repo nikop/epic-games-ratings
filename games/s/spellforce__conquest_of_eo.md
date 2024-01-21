@@ -25,7 +25,7 @@
 | Slave to the rhythm | 19.00% | ~30 |
 | Castle Meldec | 19.00% | ~30 |
 | Sevenkeeps Seat of Kings | 18.00% | ~28 |
-| Friend of Alluvyan | 15.00% | ~23 |
+| Friend of Alluvyan | 16.00% | ~25 |
 | Friend of Gillyshire | 15.00% | ~23 |
 | Friend of Connach | 15.00% | ~23 |
 | Friend of Orgash | 14.00% | ~22 |

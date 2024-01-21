@@ -449,9 +449,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 12026,
+  "EOS_Progressed": 12027,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 582,
+  "EOS_NewPlayers": 578,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5739,6 +5739,11 @@
       "Time": "2024-01-21T18:11:23.9698839+00:00",
       "NumProgressed": 12026,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-21T19:11:47.4406055+00:00",
+      "NumProgressed": 12027,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5759,7 +5764,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6063,7 +6068,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1563
+      "UsersEstimate": 1564
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6270,7 +6275,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12026,
+      "Progressed": 12027,
       "Completed": 1
     }
   ],
@@ -6278,8 +6283,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-21T14:57:11.8782486+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:11:23.9698837+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:11:47.4406052+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:57:36.3774617+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:11:23.9699635+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:57:42.7046976+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:11:47.4406656+00:00"
 }

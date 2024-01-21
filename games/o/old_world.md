@@ -6,8 +6,8 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 6.00% | ~1,024 |
-| Play a Single Player Game | 6.00% | ~1,024 |
+| Settler | 6.00% | ~1,025 |
+| Play a Single Player Game | 6.00% | ~1,025 |
 | Explorer | 5.00% | ~854 |
 | Friendly Family | 5.00% | ~854 |
 | Able | 4.00% | ~683 |
@@ -37,33 +37,33 @@ Number of Ratings: 1,307  (23.09.2022)
 | Greek Paganism | 3.00% | ~512 |
 | Naming Landmarks | 3.00% | ~512 |
 | Trade Caravan | 3.00% | ~512 |
-| Regicide | 2.00% | ~341 |
-| Drillmaster | 2.00% | ~341 |
-| Brilliant | 2.00% | ~341 |
-| Great | 2.00% | ~341 |
-| Magnificent | 2.00% | ~341 |
-| Wise | 2.00% | ~341 |
-| Legendary Cities | 2.00% | ~341 |
-| Able Difficulty | 2.00% | ~341 |
-| Just Difficulty | 2.00% | ~341 |
-| Furious Family | 2.00% | ~341 |
-| Acropolis | 2.00% | ~341 |
-| Apadana | 2.00% | ~341 |
-| Colossus | 2.00% | ~341 |
-| Great Ziggurat | 2.00% | ~341 |
-| Ishtar Gate | 2.00% | ~341 |
-| Lighthouse | 2.00% | ~341 |
-| Mausoleum | 2.00% | ~341 |
-| Musaeum | 2.00% | ~341 |
-| Necropolis | 2.00% | ~341 |
-| Learn to Play 2 | 2.00% | ~341 |
-| Christianity | 2.00% | ~341 |
-| Manichaeism | 2.00% | ~341 |
-| Carthaginian Paganism | 2.00% | ~341 |
-| Egyptian Paganism | 2.00% | ~341 |
-| Roman Paganism | 2.00% | ~341 |
-| Zoroastrianism | 2.00% | ~341 |
-| Mythology | 2.00% | ~341 |
+| Regicide | 2.00% | ~342 |
+| Drillmaster | 2.00% | ~342 |
+| Brilliant | 2.00% | ~342 |
+| Great | 2.00% | ~342 |
+| Magnificent | 2.00% | ~342 |
+| Wise | 2.00% | ~342 |
+| Legendary Cities | 2.00% | ~342 |
+| Able Difficulty | 2.00% | ~342 |
+| Just Difficulty | 2.00% | ~342 |
+| Furious Family | 2.00% | ~342 |
+| Acropolis | 2.00% | ~342 |
+| Apadana | 2.00% | ~342 |
+| Colossus | 2.00% | ~342 |
+| Great Ziggurat | 2.00% | ~342 |
+| Ishtar Gate | 2.00% | ~342 |
+| Lighthouse | 2.00% | ~342 |
+| Mausoleum | 2.00% | ~342 |
+| Musaeum | 2.00% | ~342 |
+| Necropolis | 2.00% | ~342 |
+| Learn to Play 2 | 2.00% | ~342 |
+| Christianity | 2.00% | ~342 |
+| Manichaeism | 2.00% | ~342 |
+| Carthaginian Paganism | 2.00% | ~342 |
+| Egyptian Paganism | 2.00% | ~342 |
+| Roman Paganism | 2.00% | ~342 |
+| Zoroastrianism | 2.00% | ~342 |
+| Mythology | 2.00% | ~342 |
 | Hanging Gardens in Babylon | 1.00% | ~171 |
 | Beloved | 1.00% | ~171 |
 | Intercessor | 1.00% | ~171 |
@@ -85,6 +85,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Building Wonders | 1.00% | ~171 |
 | Economic Reform | 1.00% | ~171 |
 | Dualism | 1.00% | ~171 |
+| Legalism | 1.00% | ~171 |
 | Points Victory | 1.00% | ~171 |
 | Win a Single Player Game | 1.00% | ~171 |
 | The Clergy | 1.00% | ~171 |
@@ -98,7 +99,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Via Recta Souk | 0.90% | ~154 |
 | Learn to Play 4 | 0.90% | ~154 |
 | Military Prestige | 0.90% | ~154 |
-| Legalism | 0.90% | ~154 |
 | Legionary | 0.90% | ~154 |
 | Double Victory | 0.90% | ~154 |
 | Capable | 0.80% | ~137 |
@@ -127,7 +127,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Redemption | 0.70% | ~120 |
 | Revelation | 0.70% | ~120 |
 | Veneration | 0.70% | ~120 |
-| Kushite Cavalry | 0.70% | ~120 |
 | Ambition Victory | 0.70% | ~120 |
 | Clerics | 0.60% | ~102 |
 | Church of the Holy Sepulchre | 0.60% | ~102 |
@@ -135,6 +134,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage | 0.60% | ~102 |
 | Rome | 0.60% | ~102 |
 | One True Faith | 0.60% | ~102 |
+| Kushite Cavalry | 0.60% | ~102 |
 | Turreted Elephant | 0.60% | ~102 |
 | All Nations | 0.60% | ~102 |
 | Deposed Tribe | 0.60% | ~102 |
@@ -291,6 +291,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Win a 1-v-1 Game | 0.10% | ~17 |
 | Win a Free-For-All Game (>2 Players) | 0.10% | ~17 |
 | Win a Hotseat Game | 0.10% | ~17 |
+| Win a LAN Game | 0.10% | ~17 |
 | Win a MP Teams Game | 0.10% | ~17 |
 | Win a Network Game | 0.10% | ~17 |
 | Win a Play-By-Cloud Game | 0.10% | ~17 |
@@ -344,7 +345,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Youth Prevails | 0.00% | ~0 |
 | Toppling the Giants | 0.00% | ~0 |
 | Rule of Pharaohs | 0.00% | ~0 |
-| Win a LAN Game | 0.00% | ~0 |
 | Religious Dissent | 0.00% | ~0 |
 | The Mythical Beast | 0.00% | ~0 |
 | The Royal Couple | 0.00% | ~0 |
@@ -365,8 +365,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,073 (Ranked 170)  
-Completed: 5 (0.03%) (Ranked 363)  
+Progressed: 17,080 (Ranked 170)  
+Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -641,7 +641,7 @@ Completed: 5 (0.03%) (Ranked 363)
 | 2024-01-18 | 16,975 | 5 |
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
-| 2024-01-21 | 17,073 | 5 |
+| 2024-01-21 | 17,080 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

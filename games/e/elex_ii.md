@@ -6,26 +6,26 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 45.00% | ~124 |
-| Best Buddy | 39.00% | ~107 |
-| Role Model | 36.00% | ~99 |
-| Civilian | 36.00% | ~99 |
+| Entrepreneur | 45.00% | ~125 |
+| Best Buddy | 39.00% | ~108 |
+| Civilian | 36.00% | ~100 |
+| Role Model | 35.00% | ~97 |
 | Creator | 33.00% | ~91 |
-| Military Leader | 31.00% | ~85 |
+| Military Leader | 30.00% | ~83 |
 | Festival-goer | 29.00% | ~80 |
 | Peddler | 26.00% | ~72 |
 | Commander | 26.00% | ~72 |
-| Irissa's Fate | 22.00% | ~60 |
+| Irissa's Fate | 22.00% | ~61 |
 | Long-Haul Flyer | 21.00% | ~58 |
-| Family Reunion | 20.00% | ~55 |
-| Pass A38 | 19.00% | ~52 |
+| Family Reunion | 19.00% | ~53 |
+| Pass A38 | 18.00% | ~50 |
 | Eternal Oblivion | 18.00% | ~50 |
 | Banker | 17.00% | ~47 |
 | Globetrotter | 16.00% | ~44 |
 | Berserker | 16.00% | ~44 |
-| Storyteller | 15.00% | ~41 |
+| Storyteller | 15.00% | ~42 |
 | Alb | 13.00% | ~36 |
-| Hunter | 12.00% | ~33 |
+| Hunter | 13.00% | ~36 |
 | Beam Me Up | 11.00% | ~30 |
 | Free as a Bird | 11.00% | ~30 |
 | Perfectionist | 11.00% | ~30 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 275 (Ranked 417)  
+Progressed: 277 (Ranked 417)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -96,7 +96,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 263 | 0 |
 | 2024-01-19 | 266 | 0 |
 | 2024-01-20 | 272 | 0 |
-| 2024-01-21 | 275 | 0 |
+| 2024-01-21 | 277 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

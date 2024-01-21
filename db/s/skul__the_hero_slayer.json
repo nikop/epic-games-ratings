@@ -1595,9 +1595,9 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 14918,
+  "EOS_Progressed": 14919,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 187,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10555,6 +10555,11 @@
       "Time": "2024-01-21T17:10:27.7434329+00:00",
       "NumProgressed": 14918,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-21T19:10:47.1802238+00:00",
+      "NumProgressed": 14919,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 24,
@@ -10614,7 +10619,7 @@
       "Name": "False Goddess, Disappear",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 5967
+      "UsersEstimate": 5968
     },
     {
       "ID": "FakeGoddessGone_2",
@@ -10670,7 +10675,7 @@
       "Name": "The Levitator",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 1193
+      "UsersEstimate": 1194
     },
     {
       "ID": "Manners",
@@ -10694,7 +10699,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 9100
+      "UsersEstimate": 9101
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10702,7 +10707,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 4475
+      "UsersEstimate": 4476
     },
     {
       "ID": "SkeletonKing",
@@ -10726,7 +10731,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13874
+      "UsersEstimate": 13875
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10750,22 +10755,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11934
+      "UsersEstimate": 11935
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14918,
+      "Progressed": 14919,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-20T11:58:19.5730064+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:10:27.1562522+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:10:47.1802233+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:00:02.7095254+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:10:27.1562989+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:00:21.3302533+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:10:47.1803026+00:00"
 }

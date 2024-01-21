@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 285,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 84,
+  "Ranking_EOS_NewCompleters": 85,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-08-09T16:00:00+00:00",
@@ -123,7 +123,7 @@
   "Tags": [],
   "EOS_Progressed": 2421,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 95,
+  "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5129,9 +5129,9 @@
       "ID": "ACH_24",
       "SetID": "efe2lj",
       "Name": "All There Is",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 48
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_25",
@@ -5242,8 +5242,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:11:23.1229216+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:11:46.565782+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:00:01.8382921+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:11:23.1229583+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:00:20.3768579+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:11:46.5658257+00:00"
 }

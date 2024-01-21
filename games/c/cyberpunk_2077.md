@@ -17,7 +17,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.50% | ~5,283 |
 | The Lovers | 0.50% | ~5,283 |
 | Legend of The Afterlife | 0.50% | ~5,283 |
-| All the President's Men | 0.50% | ~926 |
+| All the President's Men | 0.50% | ~927 |
+| Arachnophobia | 0.50% | ~927 |
 | Bushido and Chill | 0.40% | ~4,227 |
 | Gun Fu | 0.40% | ~4,227 |
 | Master Crafter | 0.40% | ~4,227 |
@@ -25,7 +26,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.40% | ~4,227 |
 | The World | 0.40% | ~4,227 |
 | Judy vs Night City | 0.40% | ~4,227 |
-| Arachnophobia | 0.40% | ~741 |
 | To Protect and Serve | 0.30% | ~3,170 |
 | I Am The Law | 0.30% | ~3,170 |
 | True Warrior | 0.30% | ~3,170 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,643 (Ranked 17)  
+Progressed: 1,056,679 (Ranked 17)  
 Completed: 3,144 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -350,7 +350,7 @@ Completed: 3,144 (0.30%) (Ranked 265)
 | 2024-01-18 | 1,054,519 | 3,123 |
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
-| 2024-01-21 | 1,056,643 | 3,144 |
+| 2024-01-21 | 1,056,679 | 3,144 |
 ## Awards
 Max (Character Customization): 143,148  (Ranked 8)  
 Sum: 511,117 (Ranked 8)  

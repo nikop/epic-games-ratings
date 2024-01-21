@@ -18,8 +18,8 @@
 | A Cabin Boy with Potential | 26.00% | ~8 |
 | A Cautious Man Is Worth Two of His Kind | 26.00% | ~8 |
 | Trapped in Time | 23.00% | ~7 |
+| Thanksgiving Day | 16.00% | ~5 |
 | Oh... You didn't think to bring it? | 16.00% | ~5 |
-| Thanksgiving Day | 13.00% | ~4 |
 | Don’t Touch the Rum! | 13.00% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 31 (Ranked 606)  

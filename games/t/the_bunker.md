@@ -4,37 +4,37 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Last Goodbye | 89.00% | ~164 |
-| The Routine | 79.00% | ~145 |
+| Last Goodbye | 89.00% | ~165 |
+| The Routine | 79.00% | ~146 |
 | Mother | 78.00% | ~144 |
-| Failure | 73.00% | ~134 |
-| Replace Fuse | 66.00% | ~121 |
-| Alarm | 65.00% | ~120 |
-| Air Filtration | 61.00% | ~112 |
+| Failure | 74.00% | ~137 |
+| Replace Fuse | 65.00% | ~120 |
+| Alarm | 64.00% | ~118 |
+| Air Filtration | 61.00% | ~113 |
 | Broken | 59.00% | ~109 |
 | Radiation | 58.00% | ~107 |
-| Descent | 57.00% | ~105 |
-| Awakenings | 56.00% | ~103 |
-| Cold Storage | 56.00% | ~103 |
-| Sam | 56.00% | ~103 |
+| Descent | 56.00% | ~104 |
+| Awakenings | 56.00% | ~104 |
+| Cold Storage | 56.00% | ~104 |
+| Sam | 56.00% | ~104 |
 | Soldier | 50.00% | ~92 |
-| Leave | 49.00% | ~90 |
-| Churchill | 48.00% | ~88 |
-| Engineer | 48.00% | ~88 |
-| Commissioner | 47.00% | ~86 |
-| Doctor | 43.00% | ~79 |
-| Press Play | 35.00% | ~64 |
+| Leave | 49.00% | ~91 |
+| Churchill | 48.00% | ~89 |
+| Engineer | 48.00% | ~89 |
+| Commissioner | 47.00% | ~87 |
+| Doctor | 43.00% | ~80 |
+| Press Play | 35.00% | ~65 |
 | General | 28.00% | ~52 |
-| Bookworm | 26.00% | ~48 |
-| Floppy Disk Finder | 16.00% | ~29 |
-| Stay | 13.00% | ~24 |
+| Bookworm | 25.00% | ~46 |
+| Floppy Disk Finder | 16.00% | ~30 |
+| Stay | 12.00% | ~22 |
 | Nurse | 11.00% | ~20 |
 | No Page Unturned | 5.00% | ~9 |
 | Friends | 5.00% | ~9 |
 | The Missing Piece | 5.00% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 184 (Ranked 445)  
-Completed: 7 (3.80%) (Ranked 96)  
+Progressed: 185 (Ranked 445)  
+Completed: 7 (3.78%) (Ranked 96)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -110,7 +110,7 @@ Completed: 7 (3.80%) (Ranked 96)
 | 2024-01-15 | 181 | 7 |
 | 2024-01-18 | 182 | 7 |
 | 2024-01-20 | 183 | 7 |
-| 2024-01-21 | 184 | 7 |
+| 2024-01-21 | 185 | 7 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

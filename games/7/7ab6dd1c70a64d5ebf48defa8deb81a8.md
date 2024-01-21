@@ -34,10 +34,10 @@ Rating: 4.19 (Ranked 981)
 | A Queen's Tale | 4.00% | ~97 |
 | Slayer | 3.00% | ~73 |
 | Flawless Victory | 3.00% | ~73 |
+| All There Is | 3.00% | ~73 |
 | False God | 3.00% | ~73 |
 | Forgemaster | 2.00% | ~48 |
 | Shardbearer | 2.00% | ~48 |
-| All There Is | 2.00% | ~48 |
 | Summiter | 2.00% | ~48 |
 | All That Gold | 0.90% | ~22 |
 | Feeling Fancy | 0.50% | ~12 |

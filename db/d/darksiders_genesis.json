@@ -445,9 +445,9 @@
       "Count": 45
     }
   ],
-  "EOS_Progressed": 736,
+  "EOS_Progressed": 737,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2625,6 +2625,11 @@
       "Time": "2024-01-21T17:11:19.4745266+00:00",
       "NumProgressed": 736,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T19:11:38.6875954+00:00",
+      "NumProgressed": 737,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:09:59.7070954+00:00",
@@ -2635,7 +2640,7 @@
       "ID": "ABulletforAllSeasons",
       "SetID": "329ak73",
       "Name": "A Bullet for All Seasons",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -2739,7 +2744,7 @@
       "ID": "Infested",
       "SetID": "329ak73",
       "Name": "Infested",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -2787,7 +2792,7 @@
       "ID": "MintIII",
       "SetID": "329ak73",
       "Name": "Mint III",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 50,
       "UsersEstimate": 7
     },
@@ -2851,7 +2856,7 @@
       "ID": "WalkingArmory",
       "SetID": "329ak73",
       "Name": "Walking Armory",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 25,
       "UsersEstimate": 7
     },
@@ -2859,7 +2864,7 @@
       "ID": "WhydItHavetoBeSnakes",
       "SetID": "329ak73",
       "Name": "Why\u0027d It Have to Be Snakes?",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 10,
       "UsersEstimate": 7
     },
@@ -2876,15 +2881,15 @@
     {
       "ID": "329ak73",
       "IsBase": true,
-      "Progressed": 736,
+      "Progressed": 737,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:40.9180208+00:00",
   "FirstSeenAchievements": "2023-12-04T11:09:15.2533576+00:00",
   "LastChanged": "2023-12-28T14:59:58.8011191+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:11:15.7327039+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:11:38.687595+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:02.2099798+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:58:09.2332768+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:11:15.7327292+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:58:15.7851132+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:11:38.6876246+00:00"
 }

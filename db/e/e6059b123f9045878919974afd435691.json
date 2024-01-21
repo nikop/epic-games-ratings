@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -4041,9 +4041,9 @@
       "ID": "AMMO_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "How Many Do You Need?",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 796
+      "UsersEstimate": 811
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4353,9 +4353,9 @@
       "ID": "KLACKEY_ACHIEVEMENT_1",
       "SetID": "9lcahn0",
       "Name": "And There We Go",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 526
+      "UsersEstimate": 541
     },
     {
       "ID": "KLACKEY_ACHIEVEMENT_2",
@@ -4385,9 +4385,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 285
+      "UsersEstimate": 300
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4568,8 +4568,8 @@
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:11:30.4302938+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:11:54.3015291+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:03:21.3184432+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:11:30.4303514+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:03:43.9040476+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:11:54.3015853+00:00"
 }

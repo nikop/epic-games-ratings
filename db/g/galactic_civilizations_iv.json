@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 273,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -1017,9 +1017,9 @@
       "Count": 32
     }
   ],
-  "EOS_Progressed": 7576,
+  "EOS_Progressed": 7577,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9917,6 +9917,11 @@
       "Time": "2024-01-21T18:11:24.8646126+00:00",
       "NumProgressed": 7576,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-21T19:11:48.3845731+00:00",
+      "NumProgressed": 7577,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 72,
@@ -10054,9 +10059,9 @@
       "ID": "First_Stream_Travel",
       "SetID": "4h07amh",
       "Name": "Hyperspace!",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 68
+      "UsersEstimate": 76
     },
     {
       "ID": "First_Worker_Specialization",
@@ -10064,7 +10069,7 @@
       "Name": "Worker Specialization",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 5758
+      "UsersEstimate": 5759
     },
     {
       "ID": "GA_Against_The_Tide",
@@ -10144,7 +10149,7 @@
       "Name": "Own 30 Planets",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2425
     },
     {
       "ID": "Play_1000_Hours",
@@ -10416,7 +10421,7 @@
       "Name": "Win a Battle",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 4924
+      "UsersEstimate": 4925
     },
     {
       "ID": "Win_Battle_Against_Many_Ships",
@@ -10503,15 +10508,15 @@
     {
       "ID": "4h07amh",
       "IsBase": true,
-      "Progressed": 7576,
+      "Progressed": 7577,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:11:24.8646123+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:11:48.3845725+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:59:25.4677344+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:11:24.8647056+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:59:39.7206306+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:11:48.3846638+00:00"
 }

@@ -18854,9 +18854,9 @@
       "Count": 19733
     }
   ],
-  "EOS_Progressed": 1056643,
+  "EOS_Progressed": 1056679,
   "EOS_Completed": 3144,
-  "EOS_NewPlayers": 5495,
+  "EOS_NewPlayers": 5476,
   "EOS_NewCompleters": 50,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50514,6 +50514,11 @@
       "Time": "2024-01-21T18:09:56.9493381+00:00",
       "NumProgressed": 1056643,
       "NumCompleted": 3144
+    },
+    {
+      "Time": "2024-01-21T19:10:14.450492+00:00",
+      "NumProgressed": 1056679,
+      "NumCompleted": 3144
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50982,7 +50987,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 926
+      "UsersEstimate": 927
     },
     {
       "ID": "HydraIsDead",
@@ -50996,9 +51001,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 741
+      "UsersEstimate": 927
     },
     {
       "ID": "KingOfTheCups",
@@ -51061,21 +51066,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056643,
+      "Progressed": 1056679,
       "Completed": 3144
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185266,
+      "Progressed": 185302,
       "Completed": 10673
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-21T18:03:57.799556+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:09:56.9493376+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:10:14.4504915+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:03:57.7995566+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:09:56.9494906+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:04:22.2013157+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:10:14.4506952+00:00"
 }

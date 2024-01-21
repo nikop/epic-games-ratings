@@ -7,12 +7,12 @@ Number of Ratings: 429  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Colonize a Planet | 77.00% | ~5,834 |
-| Worker Specialization | 76.00% | ~5,758 |
+| Worker Specialization | 76.00% | ~5,759 |
 | First Contact | 72.00% | ~5,455 |
-| Win a Battle | 65.00% | ~4,924 |
+| Win a Battle | 65.00% | ~4,925 |
 | Anomaly Researcher | 60.00% | ~4,546 |
 | Unleash My Power | 60.00% | ~4,546 |
-| Own 30 Planets | 32.00% | ~2,424 |
+| Own 30 Planets | 32.00% | ~2,425 |
 | Xenocide | 31.00% | ~2,349 |
 | Design a Civilization | 31.00% | ~2,349 |
 | Commodity Trader | 29.00% | ~2,197 |
@@ -36,10 +36,10 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Yor | 2.00% | ~152 |
 | Influence Victory! | 2.00% | ~152 |
 | Ask Not What Your Empire Can Do For You | 1.00% | ~76 |
+| Hyperspace! | 1.00% | ~76 |
 | Veteran Crew | 1.00% | ~76 |
 | Win as the Baratak | 1.00% | ~76 |
 | Win as the Mimot | 1.00% | ~76 |
-| Hyperspace! | 0.90% | ~68 |
 | Win as Arceans | 0.90% | ~68 |
 | Win as Festron | 0.90% | ~68 |
 | Win as the Navigators | 0.90% | ~68 |
@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,576 (Ranked 199)  
+Progressed: 7,577 (Ranked 199)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 7,562 | 0 |
 | 2024-01-19 | 7,567 | 0 |
 | 2024-01-20 | 7,573 | 0 |
-| 2024-01-21 | 7,576 | 0 |
+| 2024-01-21 | 7,577 | 0 |
 ## Awards
 Max (Diverse Characters): 99  (Ranked 385)  
 Sum: 702 (Ranked 314)  

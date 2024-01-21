@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19215,
+  "EOS_Progressed": 19216,
   "EOS_Completed": 66,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.34,
   "EosHistory": [
@@ -17961,6 +17961,11 @@
       "Time": "2024-01-21T18:06:01.7363857+00:00",
       "NumProgressed": 19215,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-21T19:06:35.8823077+00:00",
+      "NumProgressed": 19216,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18149,7 +18154,7 @@
       "Name": "Captain Drummer",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3074
+      "UsersEstimate": 3075
     },
     {
       "ID": "30",
@@ -18252,22 +18257,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19215,
+      "Progressed": 19216,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5169,
-      "Completed": 1371
+      "Progressed": 5170,
+      "Completed": 1372
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-21T06:58:34.7730339+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:06:01.7363854+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:06:35.8823072+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:59:03.1717521+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:06:01.7365115+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:59:13.5864791+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:06:35.8824125+00:00"
 }

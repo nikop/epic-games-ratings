@@ -5,52 +5,52 @@ Rating: 4.63 (Ranked 358)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,171 |
+| Feels Familiar | 74.00% | ~1,172 |
 | I Broke It | 73.00% | ~1,156 |
-| Better On Ice | 69.00% | ~1,092 |
+| Better On Ice | 69.00% | ~1,093 |
 | Notai Notes | 67.00% | ~1,061 |
 | Blue Dreams | 66.00% | ~1,045 |
 | He's Famous! | 66.00% | ~1,045 |
 | Cutie Poro | 66.00% | ~1,045 |
-| Krugmazing | 65.00% | ~1,029 |
-| Moneyball | 61.00% | ~966 |
+| Krugmazing | 65.00% | ~1,030 |
 | The Fire Below the Mountain | 61.00% | ~966 |
-| Iceborn | 56.00% | ~886 |
+| Moneyball | 60.00% | ~950 |
+| Iceborn | 56.00% | ~887 |
 | No Bites | 55.00% | ~871 |
-| Boom Things | 53.00% | ~839 |
-| Tear of Freedom | 52.00% | ~823 |
+| Tear of Freedom | 53.00% | ~840 |
+| Boom Things | 53.00% | ~840 |
 | My Darkest Day | 49.00% | ~776 |
 | Rhythm Of Willump | 47.00% | ~744 |
 | The Relentless Storm | 47.00% | ~744 |
-| A Tragic Reminder | 45.00% | ~712 |
-| 3000 Year Blackout | 45.00% | ~712 |
+| A Tragic Reminder | 45.00% | ~713 |
+| 3000 Year Blackout | 45.00% | ~713 |
 | So Close | 42.00% | ~665 |
 | You Get Used To It | 42.00% | ~665 |
 | The Finisher | 42.00% | ~665 |
-| Family | 40.00% | ~633 |
-| Biggest Snowball Ever | 40.00% | ~633 |
-| Boosted! | 40.00% | ~633 |
-| Freeze The Ice Witch | 39.00% | ~617 |
-| Deadliest and Biggest Snowball Ever! | 39.00% | ~617 |
+| Family | 40.00% | ~634 |
+| Biggest Snowball Ever | 40.00% | ~634 |
+| Boosted! | 40.00% | ~634 |
+| Freeze The Ice Witch | 39.00% | ~618 |
+| Deadliest and Biggest Snowball Ever! | 39.00% | ~618 |
 | True Legends | 38.00% | ~602 |
 | It Is Not Over | 36.00% | ~570 |
 | Bullseye | 36.00% | ~570 |
-| On The Rocks | 34.00% | ~538 |
-| Snowy Poro | 33.00% | ~522 |
+| On The Rocks | 34.00% | ~539 |
+| Snowy Poro | 33.00% | ~523 |
 | Never Gets Old | 32.00% | ~507 |
 | Vertical Power | 26.00% | ~412 |
 | One From The Heart | 14.00% | ~222 |
 | Yummy | 10.00% | ~158 |
-| Snowball Fightn't | 9.00% | ~142 |
+| Snowball Fightn't | 9.00% | ~143 |
 | It Was Him | 7.00% | ~111 |
 | Handy Yeti | 6.00% | ~95 |
 | The Pied Piper Of Freljord | 4.00% | ~63 |
-| Braum's Poro Ranch | 3.00% | ~47 |
+| Braum's Poro Ranch | 3.00% | ~48 |
 | Rock Star | 2.00% | ~32 |
 | We Are Speed | 2.00% | ~32 |
 | Sneaky Notai | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,583 (Ranked 270)  
+Progressed: 1,584 (Ranked 270)  
 Completed: 10 (0.63%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,7 +143,7 @@ Completed: 10 (0.63%) (Ranked 212)
 | 2024-01-18 | 1,572 | 10 |
 | 2024-01-19 | 1,574 | 10 |
 | 2024-01-20 | 1,580 | 10 |
-| 2024-01-21 | 1,583 | 10 |
+| 2024-01-21 | 1,584 | 10 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

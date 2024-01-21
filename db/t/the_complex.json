@@ -4,7 +4,7 @@
   "ProductSlug": "the-complex-0ca5bb",
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 270,
+  "Ranking_EOS_NewPlayers": 269,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
@@ -2004,9 +2004,9 @@
       "ID": "beat_it",
       "SetID": "d4f4pll",
       "Name": "Beat It",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 406
+      "UsersEstimate": 414
     },
     {
       "ID": "blast_from_the_past",
@@ -2173,8 +2173,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:10:57.7650646+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:11:19.6360474+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:29.4438802+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:03:35.8010461+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:10:57.7650868+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:03:59.6767349+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:11:19.6360687+00:00"
 }

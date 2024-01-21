@@ -579,9 +579,9 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6528,
+  "EOS_Progressed": 6529,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 97,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10209,6 +10209,11 @@
       "Time": "2024-01-21T18:05:48.5847601+00:00",
       "NumProgressed": 6528,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-21T19:06:21.3726865+00:00",
+      "NumProgressed": 6529,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10276,7 +10281,7 @@
       "Name": "Stuff Of Nightmares",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "ACH_FINISH_HARD",
@@ -10316,7 +10321,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4308
+      "UsersEstimate": 4309
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10332,7 +10337,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3525
+      "UsersEstimate": 3526
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10340,7 +10345,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3786
+      "UsersEstimate": 3787
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10380,7 +10385,7 @@
       "Name": "Bandage Lover",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1044
+      "UsersEstimate": 1045
     },
     {
       "ID": "ACH_MAX_RECON",
@@ -10396,7 +10401,7 @@
       "Name": "Come on, You Wanna Live Forever?",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 1501
+      "UsersEstimate": 1502
     },
     {
       "ID": "ACH_MAX_TECKER",
@@ -10460,7 +10465,7 @@
       "Name": "The Darwin Era Was Here",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1697
+      "UsersEstimate": 1698
     },
     {
       "ID": "ACH_MISSION_08",
@@ -10492,7 +10497,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10500,7 +10505,7 @@
       "Name": "Abysmal Horrors",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1240
+      "UsersEstimate": 1241
     },
     {
       "ID": "ACH_OBJECTIVE_MARINE",
@@ -10516,7 +10521,7 @@
       "Name": "Snatched Out",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 4178
+      "UsersEstimate": 4179
     },
     {
       "ID": "ACH_PROLOGUE",
@@ -10532,7 +10537,7 @@
       "Name": "This Was No Papercut",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 3329
+      "UsersEstimate": 3330
     },
     {
       "ID": "ACH_SAVE_SURVIVORS",
@@ -10540,7 +10545,7 @@
       "Name": "People Person",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 3133
+      "UsersEstimate": 3134
     },
     {
       "ID": "ACH_SECURE_MARINE",
@@ -10556,7 +10561,7 @@
       "Name": "Recouped Investment",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2154
+      "UsersEstimate": 2155
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10579,7 +10584,7 @@
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6528,
+      "Progressed": 6529,
       "Completed": 3
     }
   ],
@@ -10587,8 +10592,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:05:48.5847597+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:06:21.3726859+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:58:23.7727064+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:05:48.5848238+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:58:30.0595203+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:06:21.3727678+00:00"
 }

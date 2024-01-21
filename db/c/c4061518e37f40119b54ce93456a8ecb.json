@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-grace-92a75a",
   "Ranking_EOS_Progress": 633,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 561,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-05-30T13:00:00+00:00",
@@ -420,8 +420,8 @@
   ],
   "FirstSeen": "2023-06-18T13:01:09.4740669+00:00",
   "FirstSeenAchievements": "2023-05-24T20:04:21.7839136+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:05:29.8231486+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:06:01.4311776+00:00",
   "LastUpdate_AppInfo": "2024-01-17T11:57:04.071553+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:59:53.576937+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:05:29.8231745+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:00:10.311843+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:06:01.4311972+00:00"
 }

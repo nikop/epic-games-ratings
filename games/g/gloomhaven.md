@@ -6,39 +6,39 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,338 |
-| Overkill | 33.00% | ~11,583 |
-| Vaccine Incoming | 31.00% | ~10,881 |
-| A normal day in Gloomhaven | 28.00% | ~9,828 |
-| Spread the plague | 26.00% | ~9,126 |
-| Get over here! | 24.00% | ~8,424 |
-| Just when I thought I was out... | 19.00% | ~6,669 |
-| Mine... All Mine... | 16.00% | ~5,616 |
-| Precious! | 15.00% | ~5,265 |
-| Grizzled veteran | 14.00% | ~4,914 |
-| Anatomy Lesson | 14.00% | ~4,914 |
-| Who's the Boss? | 12.00% | ~4,212 |
-| You activated my trap card! | 12.00% | ~4,212 |
-| Obstacle race | 12.00% | ~4,212 |
-| Light of my life | 12.00% | ~4,212 |
-| Augmented rat | 10.00% | ~3,510 |
-| Doom and gloom | 9.00% | ~3,159 |
-| Dungeon Veteran | 8.00% | ~2,808 |
-| Pack leader | 7.00% | ~2,457 |
-| Pain is your friend | 7.00% | ~2,457 |
-| Black death | 7.00% | ~2,457 |
-| Play it again, Sam | 7.00% | ~2,457 |
-| Caught off guard | 6.00% | ~2,106 |
-| Quad damage | 6.00% | ~2,106 |
-| Power Up! | 5.00% | ~1,755 |
-| Merchant of doom | 5.00% | ~1,755 |
-| Now you see me... | 5.00% | ~1,755 |
-| The Pro from Dover | 4.00% | ~1,404 |
-| Pretty lights! | 4.00% | ~1,404 |
-| I hate portals | 3.00% | ~1,053 |
-| Down the hatch | 3.00% | ~1,053 |
-| An eye for an eye | 3.00% | ~1,053 |
-| The Cephalophore | 3.00% | ~1,053 |
+| I'm not dead yet | 38.00% | ~13,347 |
+| Overkill | 33.00% | ~11,591 |
+| Vaccine Incoming | 31.00% | ~10,888 |
+| A normal day in Gloomhaven | 28.00% | ~9,834 |
+| Spread the plague | 26.00% | ~9,132 |
+| Get over here! | 24.00% | ~8,430 |
+| Just when I thought I was out... | 19.00% | ~6,673 |
+| Mine... All Mine... | 16.00% | ~5,620 |
+| Precious! | 15.00% | ~5,268 |
+| Grizzled veteran | 14.00% | ~4,917 |
+| Anatomy Lesson | 14.00% | ~4,917 |
+| Who's the Boss? | 12.00% | ~4,215 |
+| You activated my trap card! | 12.00% | ~4,215 |
+| Obstacle race | 12.00% | ~4,215 |
+| Light of my life | 12.00% | ~4,215 |
+| Augmented rat | 10.00% | ~3,512 |
+| Doom and gloom | 9.00% | ~3,161 |
+| Dungeon Veteran | 8.00% | ~2,810 |
+| Pack leader | 7.00% | ~2,459 |
+| Pain is your friend | 7.00% | ~2,459 |
+| Black death | 7.00% | ~2,459 |
+| Play it again, Sam | 7.00% | ~2,459 |
+| Caught off guard | 6.00% | ~2,107 |
+| Quad damage | 6.00% | ~2,107 |
+| Power Up! | 5.00% | ~1,756 |
+| Merchant of doom | 5.00% | ~1,756 |
+| Now you see me... | 5.00% | ~1,756 |
+| The Pro from Dover | 4.00% | ~1,405 |
+| Pretty lights! | 4.00% | ~1,405 |
+| I hate portals | 3.00% | ~1,054 |
+| Down the hatch | 3.00% | ~1,054 |
+| An eye for an eye | 3.00% | ~1,054 |
+| The Cephalophore | 3.00% | ~1,054 |
 | From Gloom, only greed and death emerges | 2.00% | ~702 |
 | The Rat King | 2.00% | ~702 |
 | How to train your Drake | 2.00% | ~702 |
@@ -51,9 +51,9 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~351 |
 | Spoiler police! | 1.00% | ~351 |
 | New Blood | 1.00% | ~351 |
-| The Pacifist | 0.50% | ~175 |
-| The evil that men do | 0.50% | ~175 |
-| Born Support | 0.50% | ~175 |
+| The Pacifist | 0.50% | ~176 |
+| The evil that men do | 0.50% | ~176 |
+| Born Support | 0.50% | ~176 |
 | MacReady Steady.. Go! | 0.40% | ~140 |
 | A tough job | 0.30% | ~105 |
 | The Jaws of victory! | 0.30% | ~105 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,099 (Ranked 140)  
+Progressed: 35,123 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 1 (0.00%) (Ranked 409)
 | 2024-01-18 | 34,462 | 1 |
 | 2024-01-19 | 34,657 | 1 |
 | 2024-01-20 | 34,921 | 1 |
-| 2024-01-21 | 35,099 | 1 |
+| 2024-01-21 | 35,123 | 1 |
 ## Awards
 Max (Character Customization): 3,624  (Ranked 96)  
 Sum: 8,500 (Ranked 110)  

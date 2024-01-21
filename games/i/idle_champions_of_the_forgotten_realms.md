@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 5.00% | ~12,754 |
-| Beast Intentions | 2.00% | ~5,101 |
-| The Cursed Farmer | 2.00% | ~5,101 |
-| The Mad Wizard | 2.00% | ~5,101 |
+| Beast Intentions | 2.00% | ~5,102 |
+| The Cursed Farmer | 2.00% | ~5,102 |
+| The Mad Wizard | 2.00% | ~5,102 |
 | The Ring of Regeneration | 1.00% | ~2,551 |
 | Are Ya Chicken? | 1.00% | ~2,551 |
 | Were-verpowered | 0.90% | ~2,296 |
@@ -17,8 +17,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.80% | ~2,041 |
 | Friendly Imps | 0.80% | ~2,041 |
 | Welcome to Sigil | 0.80% | ~1,771 |
-| A Persistent Buzzing | 0.70% | ~1,785 |
-| Pure Energy | 0.70% | ~1,785 |
+| A Persistent Buzzing | 0.70% | ~1,786 |
+| Pure Energy | 0.70% | ~1,786 |
 | Fast Food | 0.70% | ~1,549 |
 | Terror in the Dark | 0.60% | ~1,530 |
 | Maddening | 0.50% | ~1,275 |
@@ -36,6 +36,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Don't Lose Your Head | 0.50% | ~1,107 |
 | Low Initiative | 0.40% | ~1,020 |
 | Building Trust | 0.40% | ~1,020 |
+| No Time To Rest | 0.40% | ~1,020 |
 | Useless Allies | 0.40% | ~1,020 |
 | Running of the Saurs | 0.40% | ~1,020 |
 | Waterdeep Detours | 0.40% | ~1,020 |
@@ -49,7 +50,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Supply Run | 0.30% | ~765 |
 | Street War | 0.30% | ~765 |
 | March of the Undead | 0.30% | ~765 |
-| No Time To Rest | 0.30% | ~765 |
 | Invisible Shadows | 0.30% | ~765 |
 | The Dinner Party | 0.30% | ~765 |
 | The Botched Kidnapping | 0.30% | ~765 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,071 (Ranked 71)  
+Progressed: 255,078 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -829,7 +829,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-18 | 254,593 | 2,624 |
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
-| 2024-01-21 | 255,071 | 2,629 |
+| 2024-01-21 | 255,078 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,804  (Ranked 74)  
 Sum: 33,596 (Ranked 41)  

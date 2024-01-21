@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 235,
   "Ranking_EOS_Completed": 62,
-  "Ranking_EOS_NewPlayers": 261,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-14T10:00:00+00:00",
@@ -5408,9 +5408,9 @@
       "ID": "002",
       "SetID": "94k0mj8",
       "Name": "002",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 100,
-      "UsersEstimate": 514
+      "UsersEstimate": 544
     },
     {
       "ID": "003",
@@ -5505,8 +5505,8 @@
   "FirstSeenRating": "2022-10-15T14:30:48.7901656+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.2661117+00:00",
   "LastChanged": "2023-12-26T13:00:53.8529115+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:09:17.9877188+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:09:33.0037816+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.5579139+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:01:10.5334309+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:09:17.9877688+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:01:31.1557596+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:09:33.0038208+00:00"
 }

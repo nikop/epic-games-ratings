@@ -2339,9 +2339,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22636,
+  "EOS_Progressed": 22637,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 268,
+  "EOS_NewPlayers": 267,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14624,6 +14624,11 @@
       "Time": "2024-01-21T18:11:01.2630224+00:00",
       "NumProgressed": 22636,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-21T19:11:23.5099886+00:00",
+      "NumProgressed": 22637,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14739,7 +14744,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5206
+      "UsersEstimate": 5207
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14779,7 +14784,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4074
+      "UsersEstimate": 4075
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14835,7 +14840,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4074
+      "UsersEstimate": 4075
     },
     {
       "ID": "STORY_HABITAT",
@@ -14867,7 +14872,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5885
+      "UsersEstimate": 5886
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15010,13 +15015,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22636,
+      "Progressed": 22637,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10562,
+      "Progressed": 10563,
       "Completed": 29
     }
   ],
@@ -15024,8 +15029,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:11:01.263022+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:11:23.5099881+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:04:07.9095103+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:11:01.2630956+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:04:33.066562+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:11:23.5100939+00:00"
 }

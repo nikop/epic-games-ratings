@@ -15,8 +15,8 @@
 | Repair the Mind Validation Machine | 19.00% | ~15 |
 | Elementary, My Dear Dusty | 19.00% | ~15 |
 | Dance like an idiot | 14.00% | ~11 |
+| Come full circle | 13.00% | ~10 |
 | I'm Back at the Surface now | 13.00% | ~10 |
-| Come full circle | 12.00% | ~9 |
 | Patient Listener | 6.00% | ~5 |
 | GOAAAAAAAAAL! | 5.00% | ~4 |
 | Whac-a-worker | 3.00% | ~2 |

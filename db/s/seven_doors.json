@@ -4,7 +4,7 @@
   "ProductSlug": "seven-doors-7039de",
   "Ranking_EOS_Progress": 606,
   "Ranking_EOS_Completed": 35,
-  "Ranking_EOS_NewPlayers": 486,
+  "Ranking_EOS_NewPlayers": 487,
   "Ranking_EOS_NewCompleters": 148,
   "Store": {
     "ReleaseDate": "2023-02-20T23:00:00+00:00",
@@ -213,9 +213,9 @@
       "ID": "ACH_10",
       "SetID": "15cie2",
       "Name": "Thanksgiving Day",
-      "Percentage": 13,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "ACH_11",
@@ -350,8 +350,8 @@
   "FirstSeenRating": "2023-03-31T05:57:43.4272245+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.6926568+00:00",
   "LastChanged": "2023-03-31T05:57:43.4272246+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:11:10.1430649+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:11:32.8271409+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:37.7623245+00:00",
-  "LastUpdate_Ratings": "2024-01-21T17:59:16.8577592+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:11:10.143075+00:00"
+  "LastUpdate_Ratings": "2024-01-21T18:59:28.9766573+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:11:32.8271517+00:00"
 }

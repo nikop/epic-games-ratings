@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 546,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 221,
+  "Ranking_EOS_NewPlayers": 222,
   "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -249,9 +249,9 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 31,
+      "Percentage": 33,
       "XP": 35,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "BOSS_3",
@@ -313,9 +313,9 @@
       "ID": "MONEY_10K",
       "SetID": "89ki2f0",
       "Name": "Rolling in it",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 35,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "MONEY_1K",
@@ -400,8 +400,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-21T18:06:50.9987811+00:00",
+  "LastChanged_Achievements": "2024-01-21T19:07:28.3209667+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-21T18:00:51.4902385+00:00",
-  "LastUpdate_Achievements": "2024-01-21T18:06:50.9988001+00:00"
+  "LastUpdate_Ratings": "2024-01-21T19:01:12.7260555+00:00",
+  "LastUpdate_Achievements": "2024-01-21T19:07:28.3209787+00:00"
 }

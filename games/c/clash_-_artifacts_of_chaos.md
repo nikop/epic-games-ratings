@@ -18,7 +18,7 @@
 | Omnia Vincit Amor | 22.00% | ~37 |
 | Stilt House | 15.00% | ~25 |
 | Armor Collector | 13.00% | ~22 |
-| Corwid Hill | 11.00% | ~18 |
+| Corwid Hill | 12.00% | ~20 |
 | Total Eclipse | 9.00% | ~15 |
 | Dreamwalker | 9.00% | ~15 |
 | Your Training Is Complete | 7.00% | ~12 |
