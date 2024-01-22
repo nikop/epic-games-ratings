@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.52% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.51% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -58,9 +58,9 @@
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
 | 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.23% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
-| 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
-| 60 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
-| 61 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.07% |
+| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.20% |
+| 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
+| 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
 | 62 | [Scorn](games/s/scorn.md) | 6.85% |
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.84% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
@@ -80,14 +80,14 @@
 | 78 | [ZZT!](games/z/zzt!.md) | 4.79% |
 | 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
 | 80 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
-| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.61% |
+| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.67% |
 | 82 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
-| 83 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.45% |
-| 84 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
-| 85 | [JARS](games/j/jars.md) | 4.42% |
-| 86 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
-| 87 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.35% |
-| 88 | [Dungeons 4](games/d/dungeons_4.md) | 4.34% |
+| 83 | [Dungeons 4](games/d/dungeons_4.md) | 4.47% |
+| 84 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.45% |
+| 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
+| 86 | [JARS](games/j/jars.md) | 4.42% |
+| 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
+| 88 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.35% |
 | 89 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 90 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.24% |
 | 91 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
@@ -127,7 +127,7 @@
 | 124 | [The Complex](games/t/the_complex.md) | 2.55% |
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.54% |
 | 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
+| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 129 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
 | 130 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 131 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.38% |
@@ -368,20 +368,20 @@
 | 364 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 364 | [Old World](games/o/old_world.md) | 0.03% |
 | 364 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
-| 364 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 364 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.03% |
 | 364 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 372 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
-| 372 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
-| 372 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 372 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 372 | [Ghostrunner](games/g/ghostrunner.md) | 0.02% |
-| 372 | [Godlike Burger](games/g/godlike_burger.md) | 0.02% |
-| 372 | [Good Company](games/g/good_company.md) | 0.02% |
-| 372 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 0.02% |
-| 372 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 372 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 372 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
+| 371 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
+| 371 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
+| 371 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 371 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 371 | [Ghostrunner](games/g/ghostrunner.md) | 0.02% |
+| 371 | [Godlike Burger](games/g/godlike_burger.md) | 0.02% |
+| 371 | [Good Company](games/g/good_company.md) | 0.02% |
+| 371 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 0.02% |
+| 371 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 371 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.02% |
+| 371 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 371 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
 | 383 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.01% |
 | 383 | [Art of Rally](games/a/art_of_rally_1.md) | 0.01% |
 | 383 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 0.01% |

@@ -126,10 +126,10 @@
 | [Full Metal Sergeant](games/f/full_metal_sergeant.md) | 2024-07-04 | 10 (1,000 XP) | 0 | - | - |
 | [Crypto Mayhem](games/e/e1bc77a119a046a79877b1265b9537ee.md) | 2024-08-10 | - |  | - | - |
 | [Black Myth: Wukong](games/0/0e548758b82a4be785f435cedf306130.md) | 2024-08-20 | - |  | - | - |
+| [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-08-31 | - |  | - | - |
 | [S.T.A.L.K.E.R. 2: Heart of Chornobyl](games/s/s.t.a.l.k.e.r._2__heart_of_chornobyl.md) | 2024-09-05 | - |  | - | - |
 | [Warhammer 40,000: Space Marine 2](games/f/f640a0c1648147fea7e81565b45a3003.md) | 2024-09-09 | - |  | - | - |
 | [BoltBreak 2](games/5/597a33e3a06945278a30506a8496345f.md) | 2024-09-30 | - |  | - | - |
-| [Elementals Beta](games/a/a927bb8643514202846c78c1ab0c2d18.md) | 2024-09-30 | - |  | - | - |
 | [Ememe](games/2/2a5c8c9ac1d54eb39a5df0bce74cc66e.md) | 2024-09-30 | - |  | - | - |
 | [Flintlock: The Siege of Dawn](games/f/flintlock_-_the_siege_of_dawn.md) | 2024-09-30 | - |  | - | - |
 | [Hidden Pass](games/9/9cda6b0af2b040728763a7f798370910.md) | 2024-09-30 | - |  | - | - |
