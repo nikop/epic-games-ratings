@@ -331,6 +331,7 @@
 | [Forest Grove](../games/1/172112126caf448aa6e069b16a9f0118.md) | 12 | 1,000 |
 | [Foretales](../games/f/foretales.md) | 41 | 1,000 |
 | [Forklift Extreme - Deluxe Edition](../games/f/forklift_extreme_-_deluxe_edition.md) | 13 | 1,000 |
+| [Formula Evolution 2024](../games/3/3ed00dd26dce45c0912e528beb2877f8.md) | 33 | 1,000 |
 | [Forspoken](../games/f/forspoken.md) | 53 | 1,000 |
 | [Fort Solis](../games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 20 | 1,000 |
 | [FRACTALS OF DESTINY](../games/c/c3282c07843f4c4b8601d8c6abd1d7c5.md) | 8 | 1,000 |
@@ -513,6 +514,7 @@
 | [Moonglow Bay](../games/m/moonglow_bay.md) | 37 | 1,000 |
 | [MORDHAU](../games/m/mordhau.md) | 38 | 1,000 |
 | [Mortal Kombat 1](../games/f/fda0f2b4047f46ffb4e94d5595c1468e.md) | 50 | 1,000 |
+| [Motorbike Evolution 2024](../games/e/e278531bc44245d29329e60389bd04ad.md) | 33 | 1,000 |
 | [Mount & Blade II: Bannerlord](../games/m/mount_&_blade_ii__bannerlord.md) | 51 | 1,000 |
 | [Mountain Racing](../games/8/8f343ffd415a4fa28a2b24c4ac3c9b22.md) | 5 | 1,000 |
 | [MultiVersus](../games/m/multiversus.md) | 28 | 1,000 |
@@ -675,6 +677,7 @@
 | [Shinogi Chess Club](../games/s/shinogi_chess_club.md) | 12 | 1,000 |
 | [Shop Titans](../games/s/shop_titans.md) | 112 | 1,000 |
 | [Shoulders of Giants](../games/s/shoulders_of_giants.md) | 19 | 1,000 |
+| [Sidecar Evolution 2024](../games/7/7ec664888c8f437483dc5a0a7cad5e69.md) | 33 | 1,000 |
 | [Silence](../games/s/silence.md) | 46 | 1,000 |
 | [SIMULACRA 3](../games/s/simulacra_3.md) | 24 | 1,000 |
 | [Sir Whoopass - Immortal Death](../games/s/sir_whoopass_-_immortal_death.md) | 82 | 1,000 |

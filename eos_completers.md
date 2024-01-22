@@ -56,9 +56,9 @@
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.40% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
-| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.23% |
+| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.22% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.21% |
-| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.19% |
+| 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.18% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
 | 62 | [Scorn](games/s/scorn.md) | 6.85% |
@@ -88,11 +88,11 @@
 | 86 | [JARS](games/j/jars.md) | 4.42% |
 | 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
 | 88 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
-| 89 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.24% |
-| 90 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.23% |
-| 91 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
-| 92 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.17% |
-| 92 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
+| 89 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.20% |
+| 89 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
+| 91 | [My Friend Peppa Pig](games/m/my_friend_peppa_pig.md) | 4.17% |
+| 91 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.17% |
+| 91 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 94 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 95 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
 | 96 | [The Bunker](games/t/the_bunker.md) | 3.78% |
@@ -118,7 +118,7 @@
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.88% |
 | 117 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |
 | 118 | [Lamentum](games/l/lamentum.md) | 2.86% |
-| 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.85% |
+| 119 | [Match Village](games/0/09508f70d8d44e108e89ebcc7114ec4f.md) | 2.84% |
 | 120 | [Without Escape](games/w/without_escape.md) | 2.78% |
 | 121 | [STRANGER OF PARADISE FINAL FANTASY ORIGIN](games/s/stranger_of_paradise_final_fantasy_origin.md) | 2.71% |
 | 122 | [Forest Grove](games/1/172112126caf448aa6e069b16a9f0118.md) | 2.70% |
@@ -160,8 +160,8 @@
 | 158 | [Hercule Poirot - The First Cases](games/h/hercule_poirot_-_the_first_cases.md) | 1.38% |
 | 158 | [I Saw Black Clouds](games/i/i_saw_black_clouds.md) | 1.38% |
 | 160 | [Chorus](games/c/chorus.md) | 1.32% |
-| 161 | [Ten Dates](games/t/ten_dates.md) | 1.31% |
-| 162 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.30% |
+| 161 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.30% |
+| 161 | [Ten Dates](games/t/ten_dates.md) | 1.30% |
 | 163 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
 | 164 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.26% |
 | 165 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
@@ -251,8 +251,8 @@
 | 247 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.40% |
 | 247 | [Tchia](games/t/tchia.md) | 0.40% |
 | 251 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.39% |
-| 252 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.38% |
-| 253 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
+| 252 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
+| 252 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
 | 254 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
 | 254 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 256 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.34% |
@@ -337,16 +337,16 @@
 | 333 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
 | 333 | [SYNCED](games/s/synced.md) | 0.08% |
 | 333 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
-| 338 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.07% |
 | 338 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
-| 340 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
-| 340 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 340 | [DEATH STRANDING](games/d/death_stranding.md) | 0.06% |
-| 340 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.06% |
-| 340 | [High On Life](games/h/high_on_life.md) | 0.06% |
-| 340 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.06% |
-| 340 | [The Invincible](games/t/the_invincible.md) | 0.06% |
-| 340 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
+| 339 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.06% |
+| 339 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
+| 339 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
+| 339 | [DEATH STRANDING](games/d/death_stranding.md) | 0.06% |
+| 339 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.06% |
+| 339 | [High On Life](games/h/high_on_life.md) | 0.06% |
+| 339 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.06% |
+| 339 | [The Invincible](games/t/the_invincible.md) | 0.06% |
+| 339 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
 | 348 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 348 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.05% |
 | 348 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.05% |
@@ -844,4 +844,4 @@
 | 409 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 409 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 409 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,868 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,871 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
