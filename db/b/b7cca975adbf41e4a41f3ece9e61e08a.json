@@ -345,7 +345,7 @@
   ],
   "EOS_Progressed": 18959,
   "EOS_Completed": 337,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 340,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -10910,9 +10910,9 @@
       "ID": "NEW_ACHIEVEMENT_2_7",
       "SetID": "7opfcp",
       "Name": "Drama King",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 6825
+      "UsersEstimate": 7015
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -10943,8 +10943,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-20T14:59:39.7389406+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:11:04.0016539+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:10:00.0959411+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:02:56.5389193+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:11:04.0017557+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:00:15.8758351+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:10:00.0960148+00:00"
 }

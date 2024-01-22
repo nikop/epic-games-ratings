@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 337,
   "Ranking_EOS_Completed": 192,
-  "Ranking_EOS_NewPlayers": 347,
+  "Ranking_EOS_NewPlayers": 338,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-07-13T15:00:00+00:00",
@@ -89,9 +89,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 683,
+  "EOS_Progressed": 684,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.88,
   "EosHistory": [
@@ -1459,6 +1459,11 @@
       "Time": "2024-01-20T15:05:00.4676779+00:00",
       "NumProgressed": 683,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-22T06:05:23.4398428+00:00",
+      "NumProgressed": 684,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 29,
@@ -1542,7 +1547,7 @@
       "Name": "Everything Must Go!",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Headshot",
@@ -1644,9 +1649,9 @@
       "ID": "Old_Friend",
       "SetID": "ek310c",
       "Name": "A Familiar Face",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 89
+      "UsersEstimate": 96
     },
     {
       "ID": "Paparazzi",
@@ -1701,7 +1706,7 @@
     {
       "ID": "ek310c",
       "IsBase": true,
-      "Progressed": 683,
+      "Progressed": 684,
       "Completed": 6
     }
   ],
@@ -1709,8 +1714,8 @@
   "FirstSeenRating": "2022-10-10T07:33:50.0588661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:44.5175403+00:00",
   "LastChanged": "2024-01-02T20:03:11.8970033+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:06:55.1469508+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:05:23.4398426+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:07.0579048+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:04:13.3703912+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:06:55.1469741+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:03:21.1897318+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:05:23.4398602+00:00"
 }

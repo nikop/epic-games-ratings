@@ -27,9 +27,9 @@ Number of Ratings: 1,635  (23.09.2022)
 | For a handfull of Catapults | 28.00% | ~13,336 |
 | Thirst quencher | 27.00% | ~12,859 |
 | Ogre Solo! | 27.00% | ~12,859 |
+| Destroy the thing | 26.00% | ~12,383 |
 | Tide Master | 26.00% | ~12,383 |
 | Difficult family relationships | 25.00% | ~11,907 |
-| Destroy the thing | 25.00% | ~11,907 |
 | MASS-O-BOT | 24.00% | ~11,430 |
 | Prepare the grave | 24.00% | ~11,430 |
 | Angel of Fire | 24.00% | ~11,430 |

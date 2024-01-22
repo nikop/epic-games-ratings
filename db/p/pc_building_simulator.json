@@ -6001,9 +6001,9 @@
       "Count": 689
     }
   ],
-  "EOS_Progressed": 3612067,
+  "EOS_Progressed": 3612071,
   "EOS_Completed": 41,
-  "EOS_NewPlayers": 2928,
+  "EOS_NewPlayers": 2919,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37971,6 +37971,11 @@
       "Time": "2024-01-22T05:08:55.1345787+00:00",
       "NumProgressed": 3612067,
       "NumCompleted": 41
+    },
+    {
+      "Time": "2024-01-22T06:08:22.9505767+00:00",
+      "NumProgressed": 3612071,
+      "NumCompleted": 41
     }
   ],
   "TotalAchievements": 52,
@@ -37990,7 +37995,7 @@
       "Name": "The Best of Both Worlds",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 903017
+      "UsersEstimate": 903018
     },
     {
       "ID": "BRICK",
@@ -38046,7 +38051,7 @@
       "Name": "Back in the black",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 1408706
+      "UsersEstimate": 1408708
     },
     {
       "ID": "CASH_2",
@@ -38110,7 +38115,7 @@
       "Name": "Get your wings",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 722413
+      "UsersEstimate": 722414
     },
     {
       "ID": "HBPC_TIME",
@@ -38142,7 +38147,7 @@
       "Name": "That\u0027s what I\u0027m talking about",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 1047499
+      "UsersEstimate": 1047501
     },
     {
       "ID": "JOBS_2",
@@ -38150,7 +38155,7 @@
       "Name": "Smashing it",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 397327
+      "UsersEstimate": 397328
     },
     {
       "ID": "JOBS_3",
@@ -38222,7 +38227,7 @@
       "Name": "You need to plug it in...",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 1769913
+      "UsersEstimate": 1769915
     },
     {
       "ID": "NO_PASTE",
@@ -38230,7 +38235,7 @@
       "Name": "Easy to forget",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 1661551
+      "UsersEstimate": 1661553
     },
     {
       "ID": "OPC_BM_1",
@@ -38342,7 +38347,7 @@
       "Name": "Customer satisfaction",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 288965
+      "UsersEstimate": 288966
     },
     {
       "ID": "STARS_2",
@@ -38397,15 +38402,15 @@
     {
       "ID": "m0injl",
       "IsBase": true,
-      "Progressed": 3612067,
+      "Progressed": 3612071,
       "Completed": 41
     }
   ],
   "FirstSeen": "2022-07-22T20:21:06.3204437+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:31.9861995+00:00",
   "LastChanged": "2024-01-21T18:01:56.2201545+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:08:55.1345783+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:08:22.9505765+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.9572971+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:02:50.3528472+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:08:55.1347691+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:00:11.7295176+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:08:22.9507347+00:00"
 }

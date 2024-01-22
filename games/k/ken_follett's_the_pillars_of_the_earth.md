@@ -29,11 +29,11 @@ Number of Ratings: 368  (23.09.2022)
 | Friar Tuck | 10.00% | ~1,804 |
 | First profit | 10.00% | ~1,804 |
 | Team player | 10.00% | ~1,804 |
-| Skilled merchant | 9.00% | ~1,623 |
-| Brother Marcus | 9.00% | ~1,623 |
-| The oath | 9.00% | ~1,623 |
-| The truth revealed | 9.00% | ~1,623 |
-| The End. | 9.00% | ~1,623 |
+| Skilled merchant | 9.00% | ~1,624 |
+| Brother Marcus | 9.00% | ~1,624 |
+| The oath | 9.00% | ~1,624 |
+| The truth revealed | 9.00% | ~1,624 |
+| The End. | 9.00% | ~1,624 |
 | Nothing but make-believe | 8.00% | ~1,443 |
 | A cry for help | 7.00% | ~1,263 |
 | Silentium est aureum | 7.00% | ~1,263 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~541 |
 | Boy of mystery | 2.00% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,038 (Ranked 166)  
+Progressed: 18,039 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 125 (0.69%) (Ranked 207)
 | 2024-01-19 | 17,964 | 125 |
 | 2024-01-20 | 17,997 | 125 |
 | 2024-01-21 | 18,031 | 125 |
-| 2024-01-22 | 18,038 | 125 |
+| 2024-01-22 | 18,039 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 333)  
 Sum: 200 (Ranked 419)  

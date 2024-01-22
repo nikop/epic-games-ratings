@@ -1177,9 +1177,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553031,
+  "EOS_Progressed": 553032,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1455,
+  "EOS_NewPlayers": 1452,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32832,6 +32832,11 @@
       "Time": "2024-01-22T05:08:55.6345283+00:00",
       "NumProgressed": 553031,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T06:08:23.2792449+00:00",
+      "NumProgressed": 553032,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -32843,7 +32848,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 149318
+      "UsersEstimate": 149319
     },
     {
       "ID": "Backdoor",
@@ -32939,7 +32944,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 221212
+      "UsersEstimate": 221213
     },
     {
       "ID": "DeadlyAssassin",
@@ -33043,7 +33048,7 @@
       "Name": "Never Give Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 44242
+      "UsersEstimate": 44243
     },
     {
       "ID": "OnTheButton",
@@ -33163,7 +33168,7 @@
       "Name": "The Bigger They Are",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 44242
+      "UsersEstimate": 44243
     },
     {
       "ID": "ThreeWay",
@@ -33187,7 +33192,7 @@
       "Name": "Total Knock Out",
       "Percentage": 8,
       "XP": 40,
-      "UsersEstimate": 44242
+      "UsersEstimate": 44243
     },
     {
       "ID": "WHIP",
@@ -33202,7 +33207,7 @@
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553031,
+      "Progressed": 553032,
       "Completed": 2
     }
   ],
@@ -33210,8 +33215,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-22T01:53:23.1036441+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:08:55.6345279+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:08:23.2792448+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:59:43.6950299+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:08:55.6346925+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:58:43.3894974+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:08:23.279393+00:00"
 }

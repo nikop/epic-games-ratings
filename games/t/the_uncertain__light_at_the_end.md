@@ -9,7 +9,7 @@ Rating: 3.86 (Ranked 1,084)
 | A Friend in Need... | 44.00% | ~301 |
 | Bosom Buddies | 30.00% | ~205 |
 | Beat the Heat | 23.00% | ~157 |
-| A Familiar Face | 13.00% | ~89 |
+| A Familiar Face | 14.00% | ~96 |
 | Unexpected Consequences | 12.00% | ~82 |
 | Identity Theft | 11.00% | ~75 |
 | Mind the Gap | 11.00% | ~75 |
@@ -25,7 +25,7 @@ Rating: 3.86 (Ranked 1,084)
 | Antisocial Club | 4.00% | ~27 |
 | You Had One Job... | 4.00% | ~27 |
 | Smart cookie | 4.00% | ~27 |
-| Everything Must Go! | 3.00% | ~20 |
+| Everything Must Go! | 3.00% | ~21 |
 | The Butterfly Effect | 2.00% | ~14 |
 | Echoes of the Past | 2.00% | ~14 |
 | Casual Gamer | 2.00% | ~14 |
@@ -35,7 +35,7 @@ Rating: 3.86 (Ranked 1,084)
 | Urban Scrawl | 1.00% | ~7 |
 | Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 337)  
+Progressed: 684 (Ranked 337)  
 Completed: 6 (0.88%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,6 +186,7 @@ Completed: 6 (0.88%) (Ranked 192)
 | 2024-01-18 | 681 | 6 |
 | 2024-01-19 | 682 | 6 |
 | 2024-01-20 | 683 | 6 |
+| 2024-01-22 | 684 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,15 +4,15 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,462 |
-| Space Colonization | 79.00% | ~1,203 |
-| Friendzone | 76.00% | ~1,157 |
+| Don't Panic! | 96.00% | ~1,463 |
+| Space Colonization | 79.00% | ~1,204 |
+| Friendzone | 76.00% | ~1,158 |
 | Hello World | 72.00% | ~1,097 |
 | Space Engineer | 60.00% | ~914 |
 | Tinkerer | 60.00% | ~914 |
 | Dust to Dust | 55.00% | ~838 |
-| Across The Stars | 44.00% | ~670 |
-| Crafty | 41.00% | ~624 |
+| Across The Stars | 44.00% | ~671 |
+| Crafty | 41.00% | ~625 |
 | All Seats Taken | 34.00% | ~518 |
 | For Science! | 30.00% | ~457 |
 | Meet the Petersons | 30.00% | ~457 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,523 (Ranked 274)  
+Progressed: 1,524 (Ranked 274)  
 Completed: 1 (0.07%) (Ranked 337)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 1 (0.07%) (Ranked 337)
 | 2024-01-19 | 1,224 | 1 |
 | 2024-01-20 | 1,362 | 1 |
 | 2024-01-21 | 1,495 | 1 |
-| 2024-01-22 | 1,523 | 1 |
+| 2024-01-22 | 1,524 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

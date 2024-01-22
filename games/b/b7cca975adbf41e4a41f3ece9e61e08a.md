@@ -13,7 +13,7 @@ Rating: 4.69 (Ranked 240)
 | To Be Or Not To Be | 51.00% | ~9,669 |
 | Are You Alright? | 47.00% | ~8,911 |
 | Love Actually | 42.00% | ~7,963 |
-| Drama King | 36.00% | ~6,825 |
+| Drama King | 37.00% | ~7,015 |
 | Go Clean up In Your Own Way | 33.00% | ~6,256 |
 | Drama CP: Reel to Real | 32.00% | ~6,067 |
 | You're Really Something Else | 32.00% | ~6,067 |

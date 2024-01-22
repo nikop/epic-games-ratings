@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10042,
+  "EOS_Progressed": 10045,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 1037,
+  "EOS_NewPlayers": 1040,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -3774,6 +3774,11 @@
       "Time": "2024-01-22T05:10:35.311061+00:00",
       "NumProgressed": 10042,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-22T06:09:38.3331988+00:00",
+      "NumProgressed": 10045,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3786,7 +3791,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4921
+      "UsersEstimate": 4922
     },
     {
       "ID": "Document1",
@@ -3794,7 +3799,7 @@
       "Name": "The Seeker in the Shadows",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "Document2",
@@ -3849,14 +3854,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 10042,
+      "Progressed": 10045,
       "Completed": 14
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:10:35.3110606+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:09:38.3331986+00:00",
   "LastUpdate_AppInfo": "2024-01-21T22:57:09.6072792+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:00:02.5399228+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:10:35.3110809+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:58:58.2497046+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:09:38.3332208+00:00"
 }

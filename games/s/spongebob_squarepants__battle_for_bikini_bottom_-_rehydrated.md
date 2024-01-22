@@ -23,23 +23,23 @@ Number of Ratings: 76  (23.09.2022)
 | Are you ready now? | 8.00% | ~93 |
 | Shrimp Catcher | 8.00% | ~93 |
 | Hit Rock Bottom | 8.00% | ~93 |
-| Robot encyclopedia | 7.00% | ~81 |
-| Hello, Bikini Bottom | 7.00% | ~81 |
-| Keep it Rolling | 7.00% | ~81 |
-| Ultra Spatula Seeker | 7.00% | ~81 |
+| Robot encyclopedia | 7.00% | ~82 |
+| Hello, Bikini Bottom | 7.00% | ~82 |
+| Keep it Rolling | 7.00% | ~82 |
+| Ultra Spatula Seeker | 7.00% | ~82 |
 | The Small Does Not Rule | 5.00% | ~58 |
 | Ship Shape | 5.00% | ~58 |
 | Shanghaied | 5.00% | ~58 |
 | Kelp Forest of Fear | 5.00% | ~58 |
 | SpongeBob vs SpongeBob! | 5.00% | ~58 |
+| Sock Concert | 5.00% | ~58 |
 | Sleepy Time | 4.00% | ~47 |
-| Sock Concert | 4.00% | ~47 |
 | Mega Spatula Seeker | 4.00% | ~47 |
 | 100% SpongeBob | 1.00% | ~12 |
 | Sock Opera | 1.00% | ~12 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,164 (Ranked 294)  
+Progressed: 1,165 (Ranked 294)  
 Completed: 10 (0.86%) (Ranked 196)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -79,7 +79,7 @@ Completed: 10 (0.86%) (Ranked 196)
 | 2024-01-19 | 1,105 | 9 |
 | 2024-01-20 | 1,135 | 10 |
 | 2024-01-21 | 1,157 | 10 |
-| 2024-01-22 | 1,164 | 10 |
+| 2024-01-22 | 1,165 | 10 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 506)  
 Sum: 36 (Ranked 539)  

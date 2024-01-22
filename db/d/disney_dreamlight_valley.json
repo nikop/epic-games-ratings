@@ -6087,7 +6087,7 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 14279,
+  "EOS_Progressed": 14280,
   "EOS_Completed": 355,
   "EOS_NewPlayers": 124,
   "EOS_NewCompleters": 4,
@@ -25927,6 +25927,11 @@
       "Time": "2024-01-22T05:10:21.534497+00:00",
       "NumProgressed": 14279,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-22T06:09:28.0644998+00:00",
+      "NumProgressed": 14280,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 15,
@@ -26026,7 +26031,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9567
+      "UsersEstimate": 9568
     },
     {
       "ID": "Renovator",
@@ -26057,7 +26062,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14279,
+      "Progressed": 14280,
       "Completed": 355
     }
   ],
@@ -26065,8 +26070,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-21T20:59:04.8427749+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:10:21.5344965+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:09:28.0644996+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:59:29.038447+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:10:21.5346156+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:58:32.4675978+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:09:28.0645814+00:00"
 }

@@ -15,9 +15,9 @@ Number of Ratings: 285  (23.09.2022)
 | First Strike | 22.00% | ~1,418 |
 | Spending Spree | 19.00% | ~1,225 |
 | Horder Better Faster Stronger | 18.00% | ~1,160 |
+| Ten Steps from the Grave | 16.00% | ~1,032 |
 | Everything Must Go! | 15.00% | ~967 |
 | Next Time on MythForce... | 15.00% | ~967 |
-| Ten Steps from the Grave | 15.00% | ~967 |
 | Cold-Blooded Critters | 11.00% | ~709 |
 | Death Becomes You | 8.00% | ~516 |
 | On this Episode! | 7.00% | ~451 |

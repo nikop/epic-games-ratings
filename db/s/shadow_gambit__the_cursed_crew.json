@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 273,
   "Ranking_EOS_Completed": 131,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1556,
+  "EOS_Progressed": 1557,
   "EOS_Completed": 37,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.38,
   "EosHistory": [
@@ -5422,6 +5422,11 @@
       "Time": "2024-01-21T19:05:40.5331606+00:00",
       "NumProgressed": 1556,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-22T06:04:14.9580933+00:00",
+      "NumProgressed": 1557,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-08-08T17:05:28.0226893+00:00",
@@ -5466,7 +5471,7 @@
       "Name": "The Gambit Has Begun",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "_06_FinishFirstMirrorQuest",
@@ -5514,7 +5519,7 @@
       "Name": "Seadog",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 233
+      "UsersEstimate": 234
     },
     {
       "ID": "_12_Completion_50",
@@ -5554,7 +5559,7 @@
       "Name": "Pirates Assemble!",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "_17_UpgradeFirstCharacter",
@@ -5641,7 +5646,7 @@
     {
       "ID": "8a1io5d",
       "IsBase": true,
-      "Progressed": 1556,
+      "Progressed": 1557,
       "Completed": 37
     }
   ],
@@ -5649,8 +5654,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:05:23.9224145+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:04:14.9580931+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:34.079201+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:59:09.5050527+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:05:23.9224548+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:58:18.9450486+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:04:14.958136+00:00"
 }

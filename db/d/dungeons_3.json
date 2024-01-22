@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 192,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 198,
-  "Ranking_EOS_NewPlayers": 109,
+  "Ranking_EOS_NewPlayers": 110,
   "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2020-11-05T16:00:00+00:00",
@@ -3657,7 +3657,7 @@
   ],
   "EOS_Progressed": 47627,
   "EOS_Completed": 375,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 657,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -34784,9 +34784,9 @@
       "ID": "ACH_D3_Campaign_Infested_Completed",
       "SetID": "cda475f",
       "Name": "Destroy the thing",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 11907
+      "UsersEstimate": 12383
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -34992,8 +34992,8 @@
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-20T21:59:45.4321498+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:06:26.5161338+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:05:02.1749234+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.3456906+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:02:52.3551167+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:06:26.5162855+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:00:13.163385+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:05:02.1750853+00:00"
 }

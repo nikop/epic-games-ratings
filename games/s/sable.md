@@ -12,28 +12,28 @@ Number of Ratings: 43  (23.09.2022)
 | Under The Hood | 25.00% | ~27,984 |
 | Got Your Nose | 24.00% | ~26,864 |
 | The Gift of Gab | 24.00% | ~26,864 |
-| Wrapping Up | 22.00% | ~24,625 |
+| Wrapping Up | 22.00% | ~24,626 |
 | More Than A Box Of Sand | 18.00% | ~20,148 |
 | The Dunboyne | 17.00% | ~19,029 |
 | Badge Hobbyist | 17.00% | ~19,029 |
-| Chum Novice | 16.00% | ~17,909 |
-| Silver-Tongued Sable | 16.00% | ~17,909 |
-| Sticky Paws | 16.00% | ~17,909 |
-| Bubble Up | 16.00% | ~17,909 |
+| Chum Novice | 16.00% | ~17,910 |
+| Silver-Tongued Sable | 16.00% | ~17,910 |
+| Sticky Paws | 16.00% | ~17,910 |
+| Bubble Up | 16.00% | ~17,910 |
 | Thread The Needle | 15.00% | ~16,790 |
 | Power to the People | 14.00% | ~15,671 |
 | Nesting Giant | 14.00% | ~15,671 |
-| Take That! | 13.00% | ~14,551 |
-| Treasure Tracker | 13.00% | ~14,551 |
-| Big Spender | 13.00% | ~14,551 |
+| Take That! | 13.00% | ~14,552 |
+| Treasure Tracker | 13.00% | ~14,552 |
+| Big Spender | 13.00% | ~14,552 |
 | Badge Collector | 12.00% | ~13,432 |
 | Quite The Catch | 12.00% | ~13,432 |
 | Rowleys Way | 11.00% | ~12,313 |
-| The Machinist Mask | 10.00% | ~11,193 |
-| The Cartographer Mask | 10.00% | ~11,193 |
-| Balfron Connection | 10.00% | ~11,193 |
-| Ceiling Of Stars | 10.00% | ~11,193 |
-| Playing Dress Up | 10.00% | ~11,193 |
+| The Machinist Mask | 10.00% | ~11,194 |
+| The Cartographer Mask | 10.00% | ~11,194 |
+| Balfron Connection | 10.00% | ~11,194 |
+| Ceiling Of Stars | 10.00% | ~11,194 |
+| Playing Dress Up | 10.00% | ~11,194 |
 | Many Different Faces | 9.00% | ~10,074 |
 | Trellick's Pillar | 9.00% | ~10,074 |
 | Centre Of Brunswick | 9.00% | ~10,074 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,358 |
 | Vivacious Vivarium | 2.00% | ~2,239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,934 (Ranked 98)  
+Progressed: 111,935 (Ranked 98)  
 Completed: 1,145 (1.02%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 1,145 (1.02%) (Ranked 182)
 | 2024-01-19 | 111,563 | 1,141 |
 | 2024-01-20 | 111,724 | 1,142 |
 | 2024-01-21 | 111,910 | 1,143 |
-| 2024-01-22 | 111,934 | 1,145 |
+| 2024-01-22 | 111,935 | 1,145 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 531)  
 Sum: 155 (Ranked 448)  

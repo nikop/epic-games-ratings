@@ -6,7 +6,7 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,830 |
+| Initiation | 29.00% | ~19,831 |
 | Student | 23.00% | ~15,728 |
 | Knower | 16.00% | ~10,941 |
 | Listener | 15.00% | ~10,257 |
@@ -23,9 +23,9 @@ Number of Ratings: 96  (23.09.2022)
 | Collector | 9.00% | ~6,154 |
 | Wolf | 9.00% | ~6,154 |
 | Black Mage | 9.00% | ~6,154 |
-| Card Player | 8.00% | ~5,470 |
-| Dead Friend | 8.00% | ~5,470 |
-| Pine Tree | 8.00% | ~5,470 |
+| Card Player | 8.00% | ~5,471 |
+| Dead Friend | 8.00% | ~5,471 |
+| Pine Tree | 8.00% | ~5,471 |
 | Worthy | 7.00% | ~4,787 |
 | Black Book | 7.00% | ~4,787 |
 | Black Sorcerer | 7.00% | ~4,787 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,368 |
 | Word Master | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,381 (Ranked 118)  
+Progressed: 68,382 (Ranked 118)  
 Completed: 75 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 75 (0.11%) (Ranked 314)
 | 2024-01-19 | 67,935 | 75 |
 | 2024-01-20 | 68,148 | 75 |
 | 2024-01-21 | 68,355 | 75 |
-| 2024-01-22 | 68,381 | 75 |
+| 2024-01-22 | 68,382 | 75 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

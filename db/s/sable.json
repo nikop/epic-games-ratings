@@ -653,9 +653,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 111934,
+  "EOS_Progressed": 111935,
   "EOS_Completed": 1145,
-  "EOS_NewPlayers": 1047,
+  "EOS_NewPlayers": 1041,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -32518,6 +32518,11 @@
       "Time": "2024-01-22T05:11:27.7484856+00:00",
       "NumProgressed": 111934,
       "NumCompleted": 1145
+    },
+    {
+      "Time": "2024-01-22T06:10:18.5259533+00:00",
+      "NumProgressed": 111935,
+      "NumCompleted": 1145
     }
   ],
   "TotalAchievements": 56,
@@ -32569,7 +32574,7 @@
       "Name": "The Machinist Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11193
+      "UsersEstimate": 11194
     },
     {
       "ID": "ach_006_beetle_mask",
@@ -32625,7 +32630,7 @@
       "Name": "The Cartographer Mask",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 11193
+      "UsersEstimate": 11194
     },
     {
       "ID": "ach_013_collect_masks",
@@ -32641,7 +32646,7 @@
       "Name": "Chum Novice",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 17909
+      "UsersEstimate": 17910
     },
     {
       "ID": "ach_015_all_chum_eggs",
@@ -32697,7 +32702,7 @@
       "Name": "Balfron Connection",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11193
+      "UsersEstimate": 11194
     },
     {
       "ID": "ach_022_reveal_any_monument",
@@ -32729,7 +32734,7 @@
       "Name": "Ceiling Of Stars",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11193
+      "UsersEstimate": 11194
     },
     {
       "ID": "ach_026_fix_wind_tower",
@@ -32753,7 +32758,7 @@
       "Name": "Take That!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_029_collect_lightning_crystal",
@@ -32865,7 +32870,7 @@
       "Name": "Silver-Tongued Sable",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17909
+      "UsersEstimate": 17910
     },
     {
       "ID": "ach_043_climb_large_distance",
@@ -32873,7 +32878,7 @@
       "Name": "Sticky Paws",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 17909
+      "UsersEstimate": 17910
     },
     {
       "ID": "ach_044_open_chests_1",
@@ -32889,7 +32894,7 @@
       "Name": "Treasure Tracker",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_046_stay_airborne",
@@ -32913,7 +32918,7 @@
       "Name": "Bubble Up",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 17909
+      "UsersEstimate": 17910
     },
     {
       "ID": "ach_049_fall_from_large_height",
@@ -32929,7 +32934,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 24625
+      "UsersEstimate": 24626
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -32937,7 +32942,7 @@
       "Name": "Playing Dress Up",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 11193
+      "UsersEstimate": 11194
     },
     {
       "ID": "ach_052_spend_cuts_1",
@@ -32945,7 +32950,7 @@
       "Name": "Big Spender",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 14551
+      "UsersEstimate": 14552
     },
     {
       "ID": "ach_053_angler_mask",
@@ -32976,15 +32981,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 111934,
+      "Progressed": 111935,
       "Completed": 1145
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2024-01-20T10:58:09.3006263+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:11:27.7484853+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:10:18.5259531+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:41.8453297+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:00:05.3530842+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:11:27.7486939+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:59:00.2328349+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:10:18.5260989+00:00"
 }

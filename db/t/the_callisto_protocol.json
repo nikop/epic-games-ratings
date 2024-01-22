@@ -4,7 +4,7 @@
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 958,
   "Ranking_Popularity": 342,
-  "Ranking_PopularitySum": 317,
+  "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 155,
@@ -2289,10 +2289,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 681,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-01-22T06:03:18.6579191+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 682,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 681,
+  "NumberOfAwards": 682,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2312,7 +2318,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 116
+      "Count": 117
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2339,9 +2345,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22659,
+  "EOS_Progressed": 22660,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 266,
+  "EOS_NewPlayers": 263,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14669,6 +14675,11 @@
       "Time": "2024-01-22T05:11:06.5743019+00:00",
       "NumProgressed": 22659,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-22T06:10:02.0617417+00:00",
+      "NumProgressed": 22660,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14696,7 +14707,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2492
+      "UsersEstimate": 2493
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14848,7 +14859,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4758
+      "UsersEstimate": 4759
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14888,7 +14899,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3625
+      "UsersEstimate": 3626
     },
     {
       "ID": "STORY_HANGAR",
@@ -14912,7 +14923,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -15055,22 +15066,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22659,
+      "Progressed": 22660,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10585,
+      "Progressed": 10586,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:11:06.5743013+00:00",
+  "LastChanged": "2024-01-22T06:03:18.6579185+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:10:02.0617415+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:04:09.254446+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:11:06.5743807+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:03:18.6579193+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:10:02.0618128+00:00"
 }

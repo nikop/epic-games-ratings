@@ -7,8 +7,8 @@ Rating: 3.84 (Ranked 1,089)
 | ---- | ---------- | ----- |
 | Pro Creation | 76.00% | ~420,304 |
 | Handy | 42.00% | ~232,273 |
-| Cold Caller | 40.00% | ~221,212 |
-| A Bit On The Side | 27.00% | ~149,318 |
+| Cold Caller | 40.00% | ~221,213 |
+| A Bit On The Side | 27.00% | ~149,319 |
 | Backdoor | 26.00% | ~143,788 |
 | Rank Amateur | 22.00% | ~121,667 |
 | Three Way | 19.00% | ~105,076 |
@@ -20,9 +20,9 @@ Rating: 3.84 (Ranked 1,089)
 | Bet Bet Bet | 10.00% | ~55,303 |
 | Blindman's Bluff | 9.00% | ~49,773 |
 | Poker Joker | 9.00% | ~49,773 |
-| Never Give Up | 8.00% | ~44,242 |
-| The Bigger They Are | 8.00% | ~44,242 |
-| Total Knock Out | 8.00% | ~44,242 |
+| Never Give Up | 8.00% | ~44,243 |
+| The Bigger They Are | 8.00% | ~44,243 |
+| Total Knock Out | 8.00% | ~44,243 |
 | Dog Eat Dog | 7.00% | ~38,712 |
 | Quack Quack | 7.00% | ~38,712 |
 | Give Your Regards To Broadway | 6.00% | ~33,182 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,089)
 | Rounder | 0.10% | ~553 |
 | Top Dog | 0.10% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,031 (Ranked 35)  
+Progressed: 553,032 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-19 | 552,525 | 2 |
 | 2024-01-20 | 552,747 | 2 |
 | 2024-01-21 | 552,997 | 2 |
-| 2024-01-22 | 553,031 | 2 |
+| 2024-01-22 | 553,032 | 2 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 423)  
 Sum: 216 (Ranked 415)  

@@ -2289,9 +2289,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 176
+      "UsersEstimate": 181
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2482,8 +2482,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:10:44.4075098+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:09:45.2067959+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:57:58.2220055+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:10:44.4075477+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:57:28.170089+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:09:45.206831+00:00"
 }

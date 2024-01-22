@@ -18804,10 +18804,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 512581,
       "NumberOfAwardsMax": 143675
+    },
+    {
+      "Time": "2024-01-22T06:03:10.4812988+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 512797,
+      "NumberOfAwardsMax": 143675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 512581,
+  "NumberOfAwards": 512797,
   "NumberOfAwardsMax": 143675,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18827,7 +18833,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 31948
+      "Count": 32164
     },
     {
       "Text": "This game is Relaxing",
@@ -18884,9 +18890,9 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1056877,
+  "EOS_Progressed": 1056899,
   "EOS_Completed": 3145,
-  "EOS_NewPlayers": 5326,
+  "EOS_NewPlayers": 5314,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50594,6 +50600,11 @@
       "Time": "2024-01-22T05:10:02.7338623+00:00",
       "NumProgressed": 1056877,
       "NumCompleted": 3145
+    },
+    {
+      "Time": "2024-01-22T06:09:14.0132696+00:00",
+      "NumProgressed": 1056899,
+      "NumCompleted": 3145
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50908,9 +50919,9 @@
       "ID": "TrueWarrior",
       "SetID": "47clieb",
       "Name": "True Warrior",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 3171
+      "UsersEstimate": 4228
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -51006,7 +51017,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 556
+      "UsersEstimate": 557
     },
     {
       "ID": "Kingofcups",
@@ -51141,21 +51152,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056877,
+      "Progressed": 1056899,
       "Completed": 3145
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185500,
+      "Progressed": 185522,
       "Completed": 10679
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-22T05:03:58.9515952+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:10:02.7338619+00:00",
+  "LastChanged": "2024-01-22T06:03:10.4812987+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:09:14.0132693+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:03:58.951603+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:10:02.7340314+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:03:10.4813005+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:09:14.013482+00:00"
 }

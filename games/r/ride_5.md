@@ -41,7 +41,7 @@ Rating: 4.59 (Ranked 453)
 | I Don't Stop | 1.00% | ~37 |
 | Exhausted but Happy | 0.80% | ~29 |
 | In Search of Perfection | 0.70% | ~26 |
-| Globe-trotter | 0.40% | ~15 |
+| Globe-trotter | 0.50% | ~18 |
 | Breathtaking Views | 0.30% | ~11 |
 | Maximum Endurance | 0.20% | ~7 |
 | Beyond the Limiter | 0.20% | ~7 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 127,
   "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewPlayers": 119,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48059,
+  "EOS_Progressed": 48060,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 593,
+  "EOS_NewPlayers": 589,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15041,6 +15041,11 @@
       "Time": "2024-01-22T05:10:42.3284175+00:00",
       "NumProgressed": 48059,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-22T06:09:43.6791363+00:00",
+      "NumProgressed": 48060,
+      "NumCompleted": 248
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15053,7 +15058,7 @@
       "Name": "Descendants",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 7689
+      "UsersEstimate": 7690
     },
     {
       "ID": "ACH_BLUEEND",
@@ -15245,7 +15250,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32680
+      "UsersEstimate": 32681
     },
     {
       "ID": "ACH_S4",
@@ -15269,7 +15274,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 36044
+      "UsersEstimate": 36045
     },
     {
       "ID": "ACH_STATUE",
@@ -15277,22 +15282,22 @@
       "Name": "Forgotten Memories",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 20665
+      "UsersEstimate": 20666
     }
   ],
   "AchievementSets": [
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48059,
+      "Progressed": 48060,
       "Completed": 248
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:10:42.3284173+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:09:43.679136+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:59:06.4283769+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:10:42.3284981+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:58:16.4346383+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:09:43.6792194+00:00"
 }

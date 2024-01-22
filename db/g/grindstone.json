@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 424,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5248,
+  "EOS_Progressed": 5249,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1224,6 +1224,11 @@
       "Time": "2024-01-21T23:05:27.0294694+00:00",
       "NumProgressed": 5248,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-22T06:05:25.0218313+00:00",
+      "NumProgressed": 5249,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 49,
@@ -1275,7 +1280,7 @@
       "Name": "Ghost Facers!",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 1469
+      "UsersEstimate": 1470
     },
     {
       "ID": "ACHIEVE_50_GOLD",
@@ -1363,7 +1368,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1371,7 +1376,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3306
+      "UsersEstimate": 3307
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1379,7 +1384,7 @@
       "Name": "Top of the Food Chain",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACHIEVE_DODGE",
@@ -1443,7 +1448,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4093
+      "UsersEstimate": 4094
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1507,7 +1512,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3096
+      "UsersEstimate": 3097
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1523,7 +1528,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5143
+      "UsersEstimate": 5144
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1531,7 +1536,7 @@
       "Name": "Humerus Achievement",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1679
+      "UsersEstimate": 1680
     },
     {
       "ID": "ACHIEVE_LVL_60_COMPLETE",
@@ -1619,22 +1624,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5248,
+      "Progressed": 5249,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-22T05:06:57.2335498+00:00",
+  "LastChanged_Achievements": "2024-01-22T06:05:25.0218311+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:27.1921833+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:00:22.8265555+00:00",
-  "LastUpdate_Achievements": "2024-01-22T05:06:57.2335917+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:59:11.2363303+00:00",
+  "LastUpdate_Achievements": "2024-01-22T06:05:25.0218726+00:00"
 }
