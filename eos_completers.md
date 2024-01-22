@@ -135,7 +135,7 @@
 | 132 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.27% |
 | 132 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
 | 135 | [Night Book](games/n/night_book.md) | 2.19% |
-| 136 | [tERRORbane](games/t/terrorbane.md) | 2.17% |
+| 136 | [tERRORbane](games/t/terrorbane.md) | 2.13% |
 | 137 | [Breakout: Recharged](games/b/breakout__recharged.md) | 2.04% |
 | 138 | [Bloodshore](games/b/bloodshore.md) | 2.02% |
 | 139 | [Strange House](games/s/strange_house.md) | 2.00% |

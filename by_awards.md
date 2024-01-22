@@ -21,8 +21,8 @@
 | 19 | [Dauntless](games/d/dauntless.md) | 26,052 | 4.53 | 571 |
 | 20 | [The Witcher 3: Wild Hunt – Complete Edition](games/t/the_witcher_3__wild_hunt_–_complete_edition.md) | 23,512 | 4.89 | 12 |
 | 21 | [EA SPORTS™ FIFA 23 Standard Edition](games/e/ea_sports™_fifa_23_standard_edition.md) | 22,339 | 4.26 | 924 |
-| 22 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 22,237 | 4.57 | 497 |
-| 23 | [Warframe](games/w/warframe.md) | 20,520 | 4.61 | 400 |
+| 22 | [Tiny Tina's Wonderlands](games/t/tiny_tina's_wonderlands.md) | 22,267 | 4.57 | 497 |
+| 23 | [Warframe](games/w/warframe.md) | 20,552 | 4.61 | 400 |
 | 24 | [Borderlands 2](games/b/borderlands_2.md) | 16,530 | 4.76 | 132 |
 | 25 | [Assassin's Creed® Valhalla Standard Edition](games/a/assassin's_creed®_valhalla_standard_edition.md) | 16,254 | 4.60 | 427 |
 | 26 | [Satisfactory](games/s/satisfactory.md) | 15,178 | 4.87 | 25 |
@@ -55,8 +55,8 @@
 | 53 | [Europa Universalis IV](games/e/europa_universalis_iv.md) | 7,940 | 4.69 | 240 |
 | 54 | [Kingdom Come: Deliverance](games/k/kingdom_come__deliverance.md) | 7,796 | 4.71 | 206 |
 | 55 | [Supraland](games/s/supraland.md) | 7,783 | 4.61 | 400 |
-| 56 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 7,376 | 4.75 | 150 |
-| 57 | [Remnant 2](games/r/remnant_2.md) | 7,358 | 4.72 | 198 |
+| 56 | [Remnant 2](games/r/remnant_2.md) | 7,439 | 4.72 | 198 |
+| 57 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 7,376 | 4.75 | 150 |
 | 58 | [Sifu](games/s/sifu.md) | 7,249 | 4.82 | 69 |
 | 59 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 7,239 | 4.69 | 240 |
 | 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,768 | 4.66 | 306 |
@@ -76,9 +76,9 @@
 | 74 | [Idle Champions of the Forgotten Realms](games/i/idle_champions_of_the_forgotten_realms.md) | 5,810 | 4.07 | 1,041 |
 | 75 | [Ghostwire: Tokyo](games/g/ghostwire__tokyo.md) | 5,731 | 4.50 | 620 |
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,423 | 4.56 | 513 |
-| 77 | [Chivalry 2](games/c/chivalry_2.md) | 5,257 | 4.60 | 427 |
-| 78 | [League of Legends](games/l/league_of_legends.md) | 5,229 | 4.20 | 971 |
-| 79 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 5,196 | 4.50 | 620 |
+| 77 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 5,308 | 4.50 | 620 |
+| 78 | [Chivalry 2](games/c/chivalry_2.md) | 5,257 | 4.60 | 427 |
+| 79 | [League of Legends](games/l/league_of_legends.md) | 5,229 | 4.20 | 971 |
 | 80 | [God of War](games/g/god_of_war.md) | 5,034 | 4.88 | 17 |
 | 81 | [SMITE](games/s/smite.md) | 4,999 | 4.43 | 730 |
 | 82 | [Shop Titans](games/s/shop_titans.md) | 4,969 | 4.00 | 1,056 |
@@ -216,8 +216,8 @@
 | 214 | [Godfall Ultimate Edition](games/g/godfall.md) | 592 | 4.07 | 1,041 |
 | 215 | [Vampyr](games/v/vampyr.md) | 591 | 4.32 | 871 |
 | 216 | [Filament](games/f/filament.md) | 586 | 4.33 | 862 |
-| 217 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 553 | 4.71 | 206 |
-| 218 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 552 | 4.83 | 56 |
+| 217 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 555 | 4.83 | 56 |
+| 218 | [Far Cry Primal Standard Edition](games/f/far_cry_primal_standard_edition.md) | 553 | 4.71 | 206 |
 | 219 | [Terraforming Mars](games/t/terraforming_mars.md) | 545 | 4.53 | 571 |
 | 220 | [Far Cry®3 Standard Edition](games/f/far_cry®3_standard_edition.md) | 541 | 4.71 | 206 |
 | 220 | [Surviving Mars](games/s/surviving_mars.md) | 541 | 4.60 | 427 |
@@ -232,7 +232,7 @@
 | 230 | [Tom Clancy's The Division](games/t/tom_clancy's_the_division.md) | 467 | 4.60 | 427 |
 | 231 | [Unreal Tournament](games/u/unreal_tournament.md) | 460 | 4.66 | 306 |
 | 232 | [Borderlands: The Pre-Sequel](games/b/borderlands__the_pre-sequel.md) | 458 | 4.50 | 620 |
-| 233 | [Into the Breach](games/i/into_the_breach.md) | 457 | 4.84 | 49 |
+| 232 | [Into the Breach](games/i/into_the_breach.md) | 458 | 4.84 | 49 |
 | 234 | [Slime Rancher](games/s/slime_rancher.md) | 456 | 4.82 | 69 |
 | 235 | [Against the Storm](games/a/against_the_storm.md) | 455 | 4.82 | 69 |
 | 236 | [Totally Accurate Battle Simulator](games/t/totally_accurate_battle_simulator.md) | 449 | 4.75 | 150 |
@@ -303,9 +303,9 @@
 | 301 | [Relicta](games/r/relicta.md) | 205 | 4.15 | 1,009 |
 | 302 | [Star Stable Online](games/s/star_stable_online.md) | 203 | 4.42 | 746 |
 | 303 | [Warhammer 40,000: Gladius - Relics of War](games/w/warhammer_40,000__gladius_-_relics_of_war.md) | 201 | 4.42 | 746 |
-| 304 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 199 | 4.67 | 287 |
-| 305 | [Crashlands](games/c/crashlands.md) | 198 | 4.66 | 306 |
-| 306 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 197 | 4.54 | 551 |
+| 304 | [Avatar: Frontiers of Pandora](games/e/eca39884bdf14f65af242a8e3ff5b2d9.md) | 200 | 4.54 | 551 |
+| 305 | [Cat Quest](games/c/c986e75258a146fba03a920dba852ca9.md) | 199 | 4.67 | 287 |
+| 306 | [Crashlands](games/c/crashlands.md) | 198 | 4.66 | 306 |
 | 307 | [South Park™: The Fractured But Whole™ Standard Edition](games/s/south_park™__the_fractured_but_whole™_standard_edition.md) | 196 | 4.85 | 40 |
 | 308 | [Disney Speedstorm](games/d/disney_speedstorm.md) | 195 | 4.41 | 760 |
 | 309 | [Galactic Civilizations III](games/g/galactic_civilizations_iii.md) | 191 | 4.23 | 954 |
@@ -448,7 +448,7 @@
 | 446 | [Baldur's Gate: Enhanced Edition](games/b/baldur's_gate__enhanced_edition.md) | 56 | 4.79 | 99 |
 | 446 | [Dishonored®: Death of the Outsider™](games/d/dishonored®__death_of_the_outsider™.md) | 56 | 4.43 | 730 |
 | 446 | [Illuvium](games/d/d7ce267f72d247b9b1aaf0e6f54df795.md) | 56 | 4.84 | 49 |
-| 446 | [Obduction](games/o/obduction.md) | 56 | 4.09 | 1,030 |
+| 446 | [Obduction](games/o/obduction.md) | 56 | 4.09 | 1,031 |
 | 450 | [BLOCKLORDS](games/8/869be603dee2405197126408e11eb41c.md) | 55 | 4.32 | 871 |
 | 450 | [Hell is Others](games/h/hell_is_others.md) | 55 | 4.39 | 789 |
 | 450 | [Kerbal Space Program 2](games/k/kerbal_space_program_2.md) | 55 | 4.26 | 924 |
