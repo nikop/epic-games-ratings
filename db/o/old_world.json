@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 159,
+  "Ranking_EOS_NewPlayers": 160,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -2366,7 +2366,7 @@
   ],
   "EOS_Progressed": 17099,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 245,
+  "EOS_NewPlayers": 242,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22730,9 +22730,9 @@
       "ID": "ACHIEVEMENT_TECH_MILITARY_PRESTIGE",
       "SetID": "9201eeb",
       "Name": "Military Prestige",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 154
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_DUALISM",
@@ -23378,9 +23378,9 @@
       "ID": "ACHIEVEMENT_EGYPT5_MAJOR_DEFEAT",
       "SetID": "9201eeb",
       "Name": "The Neter Collapsed",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_MAJOR_VICTORY",
@@ -23656,8 +23656,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:11:34.561768+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:18:33.7938806+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:58:55.1540101+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:11:34.5627332+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:06:17.8424325+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:18:33.7951197+00:00"
 }

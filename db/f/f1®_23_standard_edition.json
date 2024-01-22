@@ -1617,9 +1617,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18610,
+  "EOS_Progressed": 18611,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 410,
+  "EOS_NewPlayers": 409,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12552,6 +12552,11 @@
       "Time": "2024-01-22T11:05:35.0489414+00:00",
       "NumProgressed": 18610,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T13:12:26.7460511+00:00",
+      "NumProgressed": 18611,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12604,7 +12609,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13027
+      "UsersEstimate": 13028
     },
     {
       "ID": "achievement_0007",
@@ -12612,7 +12617,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16935
+      "UsersEstimate": 16936
     },
     {
       "ID": "achievement_0008",
@@ -12620,7 +12625,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15446
+      "UsersEstimate": 15447
     },
     {
       "ID": "achievement_0009",
@@ -12636,7 +12641,7 @@
       "Name": "Network Success",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4467
     },
     {
       "ID": "achievement_0011",
@@ -12666,9 +12671,9 @@
       "ID": "achievement_0014",
       "SetID": "9123ogc",
       "Name": "Saturday Night Drama",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 167
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_0015",
@@ -12716,7 +12721,7 @@
       "Name": "For all Those Back at the Factory",
       "Percentage": 5,
       "XP": 75,
-      "UsersEstimate": 930
+      "UsersEstimate": 931
     },
     {
       "ID": "achievement_0021",
@@ -12732,7 +12737,7 @@
       "Name": "A Dozen Pieces",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 4652
+      "UsersEstimate": 4653
     },
     {
       "ID": "achievement_0023",
@@ -12740,7 +12745,7 @@
       "Name": "Sharing the Love",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6327
+      "UsersEstimate": 6328
     },
     {
       "ID": "achievement_0024",
@@ -12828,7 +12833,7 @@
       "Name": "Challenge Yourself",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 4466
+      "UsersEstimate": 4467
     },
     {
       "ID": "achievement_0035",
@@ -12900,7 +12905,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7816
+      "UsersEstimate": 7817
     },
     {
       "ID": "achievement_0044",
@@ -12916,7 +12921,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4652
+      "UsersEstimate": 4653
     },
     {
       "ID": "achievement_0046",
@@ -12955,7 +12960,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18610,
+      "Progressed": 18611,
       "Completed": 0
     }
   ],
@@ -12963,8 +12968,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-21T21:59:19.4265372+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:05:26.052601+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:12:26.7460505+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:00:48.2753746+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:05:26.0526717+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:07:39.5086799+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:12:26.746158+00:00"
 }

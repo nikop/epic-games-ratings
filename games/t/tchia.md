@@ -16,10 +16,10 @@ Rating: 4.69 (Ranked 240)
 | Clay Pigeon | 0.50% | ~45 |
 | Shredder | 0.50% | ~45 |
 | Iconoclast | 0.40% | ~36 |
+| Happy Camper | 0.30% | ~27 |
 | Historian | 0.30% | ~27 |
 | Liberator | 0.30% | ~27 |
 | Fashion Faux-Pas | 0.20% | ~18 |
-| Happy Camper | 0.20% | ~18 |
 | Live Wire | 0.20% | ~18 |
 | Arrr! | 0.10% | ~9 |
 | Ça de Wizz! | 0.10% | ~9 |

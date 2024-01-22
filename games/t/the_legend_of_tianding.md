@@ -9,7 +9,7 @@
 | Killing Machine | 47.00% | ~44 |
 | Death Battle | 43.00% | ~40 |
 | Phantom Kunoichi | 43.00% | ~40 |
-| Divine Retribution | 40.00% | ~37 |
+| Divine Retribution | 41.00% | ~38 |
 | Captain Mustache | 38.00% | ~35 |
 | Final Showdown | 35.00% | ~33 |
 | The End of an Outlaw | 35.00% | ~33 |

@@ -84,6 +84,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Persian Paganism | 1.00% | ~171 |
 | Building Wonders | 1.00% | ~171 |
 | Economic Reform | 1.00% | ~171 |
+| Military Prestige | 1.00% | ~171 |
 | Dualism | 1.00% | ~171 |
 | Legalism | 1.00% | ~171 |
 | Points Victory | 1.00% | ~171 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pantheon | 0.90% | ~154 |
 | Via Recta Souk | 0.90% | ~154 |
 | Learn to Play 4 | 0.90% | ~154 |
-| Military Prestige | 0.90% | ~154 |
 | Legionary | 0.90% | ~154 |
 | Double Victory | 0.90% | ~154 |
 | Jerwan Aqueduct | 0.90% | ~154 |
@@ -324,6 +324,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Pharaonic Qadesh Victory | 0.10% | ~17 |
 | Ramesses II KIA | 0.10% | ~17 |
 | Lost the Hearts of Kmt | 0.10% | ~17 |
+| The Neter Collapsed | 0.10% | ~17 |
 | Won the Hearts of Kmt | 0.10% | ~17 |
 | Partly Balanced Ma'at | 0.10% | ~17 |
 | Re-writing History | 0.10% | ~17 |
@@ -352,7 +353,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Failed the Aten | 0.00% | ~0 |
 | Muwatalli II KIA | 0.00% | ~0 |
 | Split the Army | 0.00% | ~0 |
-| The Neter Collapsed | 0.00% | ~0 |
 | Won the Pharaonic Hearts of Kmt | 0.00% | ~0 |
 | Pharaonic Partly Balanced Ma'at | 0.00% | ~0 |
 | Kmt's Sunset | 0.00% | ~0 |

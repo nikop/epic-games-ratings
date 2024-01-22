@@ -13,8 +13,8 @@ Number of Ratings: 292  (23.09.2022)
 | Dressed For Success | 15.00% | ~191 |
 | Veni, Vidi, Vici | 11.00% | ~140 |
 | Humiliation | 10.00% | ~127 |
-| Multi Kill | 9.00% | ~114 |
-| Sorcerous Spree | 9.00% | ~114 |
+| Multi Kill | 9.00% | ~115 |
+| Sorcerous Spree | 9.00% | ~115 |
 | Landlord Extraordinaire | 8.00% | ~102 |
 | Master | 7.00% | ~89 |
 | The Song of Stoutheart | 6.00% | ~76 |
@@ -36,9 +36,9 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 0.90% | ~11 |
 | Unlimited Power! | 0.70% | ~9 |
 | Killing Spree | 0.70% | ~9 |
-| Death To Diplomacy | 0.60% | ~8 |
-| Get Over Here! | 0.60% | ~8 |
 | Cleave | 0.60% | ~8 |
+| Death To Diplomacy | 0.50% | ~6 |
+| Get Over Here! | 0.50% | ~6 |
 | Fully Charged | 0.40% | ~5 |
 | Coming Through! | 0.40% | ~5 |
 | Attack Bonanza | 0.30% | ~4 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,272 (Ranked 288)  
+Progressed: 1,273 (Ranked 288)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 1,244 | 0 |
 | 2024-01-20 | 1,258 | 0 |
 | 2024-01-21 | 1,271 | 0 |
-| 2024-01-22 | 1,272 | 0 |
+| 2024-01-22 | 1,273 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 531)  
 Sum: 252 (Ranked 401)  

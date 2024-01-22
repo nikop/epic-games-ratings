@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
   "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 18,
+  "Ranking_EOS_NewCompleters": 19,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -145,9 +145,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2948,
+  "EOS_Progressed": 2949,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 162,
+  "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 7.8,
   "EosHistory": [
@@ -7890,6 +7890,11 @@
       "Time": "2024-01-22T10:05:47.0094265+00:00",
       "NumProgressed": 2948,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2024-01-22T13:14:20.3100326+00:00",
+      "NumProgressed": 2949,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 25,
@@ -7917,7 +7922,7 @@
       "Name": "Peace walker",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "META_ALL_TERMINAL",
@@ -7933,7 +7938,7 @@
       "Name": "A good beginning",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 943
+      "UsersEstimate": 944
     },
     {
       "ID": "META_HALF_LINK",
@@ -8021,7 +8026,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1297
+      "UsersEstimate": 1298
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -8037,7 +8042,7 @@
       "Name": "Champollion",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 825
+      "UsersEstimate": 826
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -8053,7 +8058,7 @@
       "Name": "Scholar",
       "Percentage": 34,
       "XP": 50,
-      "UsersEstimate": 1002
+      "UsersEstimate": 1003
     },
     {
       "ID": "PROGRESS_N1",
@@ -8069,7 +8074,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1356
+      "UsersEstimate": 1357
     },
     {
       "ID": "PROGRESS_N3",
@@ -8093,14 +8098,14 @@
       "Name": "One last step",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 884
+      "UsersEstimate": 885
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2948,
+      "Progressed": 2949,
       "Completed": 230
     }
   ],
@@ -8108,8 +8113,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-21T16:59:53.3167431+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:07:52.8553319+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:14:20.3100323+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:00:09.920147+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:07:52.8553808+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:07:12.3505906+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:14:20.3100894+00:00"
 }

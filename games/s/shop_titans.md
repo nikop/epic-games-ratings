@@ -1,14 +1,14 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,058)  
+Rating: 4.00 (Ranked 1,059)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,295 |
-| Titan's First Steps | 12.00% | ~18,295 |
-| Basic in Bulk | 11.00% | ~16,770 |
+| Sponsored by Argon | 12.00% | ~18,296 |
+| Titan's First Steps | 12.00% | ~18,296 |
+| Basic in Bulk | 11.00% | ~16,771 |
 | Tinkle of Coins | 10.00% | ~15,246 |
 | Disintermediation | 8.00% | ~12,197 |
 | Capitalism Ho! | 8.00% | ~12,197 |
@@ -23,15 +23,15 @@ Number of Ratings: 12,664  (23.09.2022)
 | Bounty Hunters | 5.00% | ~7,623 |
 | Where it Hurts | 5.00% | ~7,623 |
 | One-Armed Bandit | 5.00% | ~7,623 |
+| Dungeon Imports | 5.00% | ~7,623 |
 | Through Repetition, Perfection | 5.00% | ~7,623 |
-| Demand for Supplies | 4.00% | ~6,098 |
-| Flooding the Market | 4.00% | ~6,098 |
-| Gem Expert | 4.00% | ~6,098 |
-| Gild-Gotten Goods | 4.00% | ~6,098 |
-| Accomplished Merchant | 4.00% | ~6,098 |
-| Dungeon Imports | 4.00% | ~6,098 |
-| Did we pack lunch? | 4.00% | ~6,098 |
-| Arcane Industries | 4.00% | ~6,098 |
+| Demand for Supplies | 4.00% | ~6,099 |
+| Flooding the Market | 4.00% | ~6,099 |
+| Gem Expert | 4.00% | ~6,099 |
+| Gild-Gotten Goods | 4.00% | ~6,099 |
+| Accomplished Merchant | 4.00% | ~6,099 |
+| Did we pack lunch? | 4.00% | ~6,099 |
+| Arcane Industries | 4.00% | ~6,099 |
 | On the Path to Greatness | 3.00% | ~4,574 |
 | A Notch Above the Rest | 3.00% | ~4,574 |
 | Ascended | 3.00% | ~4,574 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~610 |
 | Capitalist Camaraderie | 0.30% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,459 (Ranked 87)  
+Progressed: 152,463 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-19 | 152,097 | 359 |
 | 2024-01-20 | 152,267 | 360 |
 | 2024-01-21 | 152,414 | 360 |
-| 2024-01-22 | 152,459 | 360 |
+| 2024-01-22 | 152,463 | 360 |
 ## Awards
 Max (Great for Beginners): 4,973  (Ranked 82)  
 Sum: 28,039 (Ranked 52)  

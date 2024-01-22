@@ -285,9 +285,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17590,
+  "EOS_Progressed": 17591,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 395,
+  "EOS_NewPlayers": 393,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13030,6 +13030,11 @@
       "Time": "2024-01-22T12:06:53.4661516+00:00",
       "NumProgressed": 17590,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T13:13:34.4997601+00:00",
+      "NumProgressed": 17591,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13041,7 +13046,7 @@
       "Name": "Start with a bang!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9850
+      "UsersEstimate": 9851
     },
     {
       "ID": "Ach002",
@@ -13049,7 +13054,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6508
+      "UsersEstimate": 6509
     },
     {
       "ID": "Ach003",
@@ -13153,7 +13158,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6332
+      "UsersEstimate": 6333
     },
     {
       "ID": "Ach016",
@@ -13217,7 +13222,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9850
+      "UsersEstimate": 9851
     },
     {
       "ID": "Ach024",
@@ -13241,7 +13246,7 @@
       "Name": "You must like calling me in, Chai",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 2814
+      "UsersEstimate": 2815
     },
     {
       "ID": "Ach027",
@@ -13265,7 +13270,7 @@
       "Name": "Out in a puff of smoke",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 2638
+      "UsersEstimate": 2639
     },
     {
       "ID": "Ach030",
@@ -13608,13 +13613,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17590,
+      "Progressed": 17591,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16111,
+      "Progressed": 16112,
       "Completed": 1931
     }
   ],
@@ -13622,8 +13627,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:06:53.466151+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:13:34.4997596+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:00:25.4744449+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:06:53.46627+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:07:23.3071253+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:13:34.4998754+00:00"
 }

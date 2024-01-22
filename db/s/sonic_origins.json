@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 401,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3426,9 +3426,9 @@
       "ID": "ID_29_HERO_FOR_ALL",
       "SetID": "7o8nc5m",
       "Name": "Everyone\u0027s Hero",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 428
+      "UsersEstimate": 435
     },
     {
       "ID": "ID_30_TRANSFORM_SUPER_SONIC",
@@ -3490,8 +3490,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:11:23.1663152+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:18:23.8491343+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:37.3555015+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:01:36.6915119+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:11:23.1663525+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:08:15.8738216+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:18:23.8491592+00:00"
 }

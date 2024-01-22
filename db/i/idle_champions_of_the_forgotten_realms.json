@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9751,10 +9751,10 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255170,
-  "EOS_Completed": 2630,
-  "EOS_NewPlayers": 1141,
-  "EOS_NewCompleters": 13,
+  "EOS_Progressed": 255174,
+  "EOS_Completed": 2631,
+  "EOS_NewPlayers": 1136,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -41201,6 +41201,11 @@
       "Time": "2024-01-22T12:11:35.7897298+00:00",
       "NumProgressed": 255170,
       "NumCompleted": 2630
+    },
+    {
+      "Time": "2024-01-22T13:18:34.964923+00:00",
+      "NumProgressed": 255174,
+      "NumCompleted": 2631
     }
   ],
   "TotalAchievements": 546,
@@ -41212,7 +41217,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12758
+      "UsersEstimate": 12759
     },
     {
       "ID": "objective_completed_10",
@@ -41930,9 +41935,9 @@
       "ID": "objective_completed_117",
       "SetID": "cc37lbc",
       "Name": "Friends of the Forest",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_1170",
@@ -45579,21 +45584,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221444,
+      "Progressed": 221448,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255170,
-      "Completed": 2630
+      "Progressed": 255174,
+      "Completed": 2631
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-22T09:57:37.3372509+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:11:35.7897293+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:18:34.9649224+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:58:03.6437434+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:11:35.7919672+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:05:39.8426322+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:18:34.9671814+00:00"
 }

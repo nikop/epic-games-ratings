@@ -18896,10 +18896,10 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1057035,
+  "EOS_Progressed": 1057075,
   "EOS_Completed": 3147,
-  "EOS_NewPlayers": 5166,
-  "EOS_NewCompleters": 48,
+  "EOS_NewPlayers": 5149,
+  "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50641,6 +50641,11 @@
       "Time": "2024-01-22T12:09:51.030348+00:00",
       "NumProgressed": 1057035,
       "NumCompleted": 3147
+    },
+    {
+      "Time": "2024-01-22T13:17:12.7499897+00:00",
+      "NumProgressed": 1057075,
+      "NumCompleted": 3147
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50677,7 +50682,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7399
+      "UsersEstimate": 7400
     },
     {
       "ID": "Denied",
@@ -50685,7 +50690,7 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7399
+      "UsersEstimate": 7400
     },
     {
       "ID": "FollowingTheRiver",
@@ -51188,21 +51193,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057035,
+      "Progressed": 1057075,
       "Completed": 3147
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185658,
+      "Progressed": 185698,
       "Completed": 10679
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-22T12:03:50.1732768+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:09:51.0303476+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:17:12.7499893+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:03:50.1732775+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:09:51.0305276+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:11:13.2519211+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:17:12.7502053+00:00"
 }

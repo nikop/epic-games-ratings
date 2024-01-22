@@ -577,9 +577,9 @@
       "ID": "creepytale3_ach_17",
       "SetID": "7idcjbn",
       "Name": "Pain lover",
-      "Percentage": 31,
+      "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "creepytale3_ach_18",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:06:44.4957965+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:13:27.5417259+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:05.8667817+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:59:39.1599866+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:06:44.4958154+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:06:49.7161338+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:13:27.5417481+00:00"
 }

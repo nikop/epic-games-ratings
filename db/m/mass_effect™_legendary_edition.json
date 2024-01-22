@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4582,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 213,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -9249,9 +9249,9 @@
       "ID": "achievement_27",
       "SetID": "b9pe172",
       "Name": "Turian Ally",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1833
+      "UsersEstimate": 1879
     },
     {
       "ID": "achievement_28",
@@ -9505,9 +9505,9 @@
       "ID": "achievement_56",
       "SetID": "d252ncf",
       "Name": "Fade Away",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1054
     },
     {
       "ID": "achievement_57",
@@ -9901,8 +9901,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:11:32.9908317+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:18:32.2127721+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:04:03.883966+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:11:32.9910325+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:11:23.1865913+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:18:32.212941+00:00"
 }

@@ -2345,9 +2345,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22661,
+  "EOS_Progressed": 22662,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14685,6 +14685,11 @@
       "Time": "2024-01-22T12:11:01.2897712+00:00",
       "NumProgressed": 22661,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-22T13:18:06.6931581+00:00",
+      "NumProgressed": 22662,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14760,7 +14765,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14824,7 +14829,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "KILL_ROBOT",
@@ -14872,7 +14877,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5665
+      "UsersEstimate": 5666
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15071,13 +15076,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22661,
+      "Progressed": 22662,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10587,
+      "Progressed": 10588,
       "Completed": 29
     }
   ],
@@ -15085,8 +15090,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-22T06:03:18.6579185+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:11:01.2897706+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:18:06.6931573+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:04:01.5705812+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:11:01.2898758+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:11:21.425219+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:18:06.6932818+00:00"
 }

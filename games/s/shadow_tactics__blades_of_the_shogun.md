@@ -6,52 +6,52 @@ Number of Ratings: 495  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Genin | 12.00% | ~27,313 |
-| A thief's beginning | 11.00% | ~25,037 |
-| Thorough | 11.00% | ~25,037 |
-| Disguised | 9.00% | ~20,485 |
-| Rescue Takuma | 9.00% | ~20,485 |
-| Rollin' | 9.00% | ~20,485 |
-| Tanuki Time | 9.00% | ~20,485 |
-| Ice Ice Yuki | 8.00% | ~18,209 |
-| Jonin | 8.00% | ~18,209 |
-| Stoned Ox | 8.00% | ~18,209 |
-| Yabu | 8.00% | ~18,209 |
-| Happy Planning | 7.00% | ~15,933 |
-| Mugen Unchained | 7.00% | ~15,933 |
-| Chunin | 6.00% | ~13,657 |
-| Flying Rocks | 6.00% | ~13,657 |
-| Warzone | 6.00% | ~13,657 |
-| Happy little accidents | 5.00% | ~11,380 |
-| Okkoto | 5.00% | ~11,380 |
-| Prisoners | 5.00% | ~11,380 |
-| Too Early | 5.00% | ~11,380 |
-| Gear up | 4.00% | ~9,104 |
-| Noboru | 4.00% | ~9,104 |
-| Still Rollin' | 4.00% | ~9,104 |
-| Stoned | 4.00% | ~9,104 |
-| It's raining men | 3.00% | ~6,828 |
-| The Old Way | 3.00% | ~6,828 |
-| Atheist Ox | 2.00% | ~4,552 |
-| No Gimmicks | 2.00% | ~4,552 |
-| Old Man | 2.00% | ~4,552 |
-| The End | 2.00% | ~4,552 |
-| Winner Winner | 2.00% | ~4,552 |
+| Genin | 12.00% | ~27,315 |
+| A thief's beginning | 11.00% | ~25,039 |
+| Thorough | 11.00% | ~25,039 |
+| Disguised | 9.00% | ~20,486 |
+| Rescue Takuma | 9.00% | ~20,486 |
+| Rollin' | 9.00% | ~20,486 |
+| Tanuki Time | 9.00% | ~20,486 |
+| Ice Ice Yuki | 8.00% | ~18,210 |
+| Jonin | 8.00% | ~18,210 |
+| Stoned Ox | 8.00% | ~18,210 |
+| Yabu | 8.00% | ~18,210 |
+| Happy Planning | 7.00% | ~15,934 |
+| Mugen Unchained | 7.00% | ~15,934 |
+| Chunin | 6.00% | ~13,658 |
+| Flying Rocks | 6.00% | ~13,658 |
+| Warzone | 6.00% | ~13,658 |
+| Happy little accidents | 5.00% | ~11,381 |
+| Okkoto | 5.00% | ~11,381 |
+| Prisoners | 5.00% | ~11,381 |
+| Too Early | 5.00% | ~11,381 |
+| Gear up | 4.00% | ~9,105 |
+| Noboru | 4.00% | ~9,105 |
+| Still Rollin' | 4.00% | ~9,105 |
+| Stoned | 4.00% | ~9,105 |
+| It's raining men | 3.00% | ~6,829 |
+| The Old Way | 3.00% | ~6,829 |
+| Atheist Ox | 2.00% | ~4,553 |
+| No Gimmicks | 2.00% | ~4,553 |
+| Old Man | 2.00% | ~4,553 |
+| The End | 2.00% | ~4,553 |
+| Winner Winner | 2.00% | ~4,553 |
 | Meticulous | 1.00% | ~2,276 |
 | Undeserved Honor | 1.00% | ~2,276 |
 | When Cut Across the Neck | 1.00% | ~2,276 |
-| High Five the Moon | 0.90% | ~2,048 |
-| The Cave | 0.90% | ~2,048 |
+| High Five the Moon | 0.90% | ~2,049 |
+| The Cave | 0.90% | ~2,049 |
 | Time Paradox | 0.60% | ~1,366 |
 | Merciful | 0.50% | ~1,138 |
-| Five Shadows | 0.40% | ~910 |
+| Five Shadows | 0.40% | ~911 |
 | Complete Mastery | 0.20% | ~455 |
 | Praise the Shogun | 0.20% | ~455 |
 | Chicken Dinner | 0.10% | ~228 |
 | Mimimi | 0.10% | ~228 |
 | Release the Kraken | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,609 (Ranked 80)  
+Progressed: 227,626 (Ranked 80)  
 Completed: 110 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 110 (0.05%) (Ranked 348)
 | 2024-01-19 | 226,961 | 108 |
 | 2024-01-20 | 227,247 | 108 |
 | 2024-01-21 | 227,527 | 110 |
-| 2024-01-22 | 227,609 | 110 |
+| 2024-01-22 | 227,626 | 110 |
 ## Awards
 Max (Great for Beginners): 596  (Ranked 213)  
 Sum: 4,968 (Ranked 155)  

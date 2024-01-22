@@ -186,9 +186,9 @@
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "85ipd90",
       "Name": "My Favorite game",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -346,9 +346,9 @@
       "ID": "NEW_ACHIEVEMENT_2_19",
       "SetID": "85ipd90",
       "Name": "Loyalty V",
-      "Percentage": 0,
+      "Percentage": 100,
       "XP": 10,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_2",
@@ -848,8 +848,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-07T15:03:10.8160278+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:06:33.8393309+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:13:19.3784557+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8483746+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:59:48.7635124+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:06:33.8394217+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:06:56.5107048+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:13:19.3785537+00:00"
 }

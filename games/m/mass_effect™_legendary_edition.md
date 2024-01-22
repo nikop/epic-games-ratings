@@ -12,7 +12,7 @@
 | Quarian Ally | 49.00% | ~2,245 |
 | Honorarium of Corporate Service | 45.00% | ~2,062 |
 | Medal of Heroism | 44.00% | ~2,016 |
-| Turian Ally | 40.00% | ~1,833 |
+| Turian Ally | 41.00% | ~1,879 |
 | Medal of Exploration II | 39.00% | ~1,787 |
 | Council Legion of Merit | 39.00% | ~1,787 |
 | Missing in Action | 38.00% | ~1,741 |
@@ -50,6 +50,7 @@
 | The Prodigal | 24.00% | ~1,100 |
 | A Personal Touch | 23.00% | ~1,054 |
 | Catharsis | 23.00% | ~1,054 |
+| Fade Away | 23.00% | ~1,054 |
 | Ghost of the Father | 23.00% | ~1,054 |
 | The Cure | 23.00% | ~1,054 |
 | Galactic Explorer | 23.00% | ~1,054 |
@@ -58,7 +59,6 @@
 | Bringer of War | 23.00% | ~1,054 |
 | Shopaholic | 23.00% | ~1,054 |
 | Battlemaster | 22.00% | ~1,008 |
-| Fade Away | 22.00% | ~1,008 |
 | Treason | 22.00% | ~1,008 |
 | Big Game Hunter | 22.00% | ~1,008 |
 | Digital Exorcist | 22.00% | ~1,008 |

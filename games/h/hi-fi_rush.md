@@ -5,12 +5,12 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,850 |
-| Feeling the beat! | 56.00% | ~9,850 |
+| Start with a bang! | 56.00% | ~9,851 |
+| Feeling the beat! | 56.00% | ~9,851 |
 | You can pet the cat! | 51.00% | ~8,971 |
 | Who put gears in there? | 42.00% | ~7,388 |
-| Cream of the Crop | 37.00% | ~6,508 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,332 |
+| Cream of the Crop | 37.00% | ~6,509 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,333 |
 | You got this, Peppermint? | 32.00% | ~5,629 |
 | Perfect Parry | 29.00% | ~5,101 |
 | Alright, that felt AWESOME! | 29.00% | ~5,101 |
@@ -22,8 +22,8 @@ Rating: 4.86 (Ranked 33)
 | Whoa! There's ANOTHER health bar!? | 18.00% | ~3,166 |
 | Does that say weakpoint? | 18.00% | ~3,166 |
 | The Negotiator | 17.00% | ~2,990 |
-| You must like calling me in, Chai | 16.00% | ~2,814 |
-| Out in a puff of smoke | 15.00% | ~2,638 |
+| You must like calling me in, Chai | 16.00% | ~2,815 |
+| Out in a puff of smoke | 15.00% | ~2,639 |
 | Headliner | 14.00% | ~2,463 |
 | Time to pay up! | 13.00% | ~2,287 |
 | Who's the boss now? | 13.00% | ~2,287 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,590 (Ranked 168)  
+Progressed: 17,591 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 8 (0.05%) (Ranked 348)
 | 2024-01-19 | 17,441 | 8 |
 | 2024-01-20 | 17,503 | 8 |
 | 2024-01-21 | 17,560 | 8 |
-| 2024-01-22 | 17,590 | 8 |
+| 2024-01-22 | 17,591 | 8 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 503)  
 Sum: 37 (Ranked 538)  

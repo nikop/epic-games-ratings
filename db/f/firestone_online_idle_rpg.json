@@ -799,9 +799,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4732,
+  "EOS_Progressed": 4734,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 223,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13224,6 +13224,11 @@
       "Time": "2024-01-22T12:06:36.1428772+00:00",
       "NumProgressed": 4732,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T13:13:21.0190833+00:00",
+      "NumProgressed": 4734,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13289,9 +13294,9 @@
       "ID": "cauldronliberator",
       "SetID": "3nl4bcg",
       "Name": "Cauldron Liberator",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 95
+      "UsersEstimate": 47
     },
     {
       "ID": "challenger",
@@ -13419,7 +13424,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1987
+      "UsersEstimate": 1988
     },
     {
       "ID": "fourleafclover",
@@ -13443,7 +13448,7 @@
       "Name": "Full Party",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "gearenchanting",
@@ -13627,7 +13632,7 @@
       "Name": "Prestigious",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 2461
+      "UsersEstimate": 2462
     },
     {
       "ID": "prestigiousx10",
@@ -13635,7 +13640,7 @@
       "Name": "Prestigious x10",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "relicofthepast",
@@ -13691,7 +13696,7 @@
       "Name": "Temple of Eternals",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 2650
+      "UsersEstimate": 2651
     },
     {
       "ID": "thealchemist",
@@ -13795,7 +13800,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4401
+      "UsersEstimate": 4403
     },
     {
       "ID": "warmachinesarmy",
@@ -13827,14 +13832,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3691
+      "UsersEstimate": 3693
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4732,
+      "Progressed": 4734,
       "Completed": 2
     }
   ],
@@ -13842,8 +13847,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:06:36.1428769+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:13:21.0190826+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:01:52.620003+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:06:36.1429735+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:08:26.9993035+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:13:21.0192068+00:00"
 }

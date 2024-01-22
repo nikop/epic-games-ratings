@@ -8,9 +8,9 @@ Rating: 4.22 (Ranked 960)
 | Flesh Wound | 28.00% | ~6,345 |
 | The Outer Way | 28.00% | ~6,345 |
 | Desperate Times | 26.00% | ~5,892 |
-| Paper Jams | 25.00% | ~5,665 |
+| Paper Jams | 25.00% | ~5,666 |
 | Get a Grip | 23.00% | ~5,212 |
-| Chew 'Em Up | 22.00% | ~4,985 |
+| Chew 'Em Up | 22.00% | ~4,986 |
 | Reforged | 21.00% | ~4,759 |
 | Float Like A Butterfly | 19.00% | ~4,306 |
 | Workplace Hazard | 18.00% | ~4,079 |
@@ -25,7 +25,7 @@ Rating: 4.22 (Ranked 960)
 | Full Circle | 12.00% | ~2,719 |
 | Giving Back | 11.00% | ~2,493 |
 | You Need a Gun | 10.00% | ~2,266 |
-| I Do Belong Here | 9.00% | ~2,039 |
+| I Do Belong Here | 9.00% | ~2,040 |
 | Keep Fighting | 8.00% | ~847 |
 | The Commonality | 6.00% | ~1,360 |
 | It's Time | 6.00% | ~635 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 960)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,661 (Ranked 153)  
+Progressed: 22,662 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-19 | 22,569 | 82 |
 | 2024-01-20 | 22,600 | 82 |
 | 2024-01-21 | 22,649 | 82 |
-| 2024-01-22 | 22,661 | 82 |
+| 2024-01-22 | 22,662 | 82 |
 ## Awards
 Max (Amazing Characters): 141  (Ranked 343)  
 Sum: 682 (Ranked 316)  

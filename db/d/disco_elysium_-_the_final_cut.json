@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 113,
+  "Ranking_EOS_NewPlayers": 114,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
@@ -1706,9 +1706,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139872,
+  "EOS_Progressed": 139874,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 613,
+  "EOS_NewPlayers": 605,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29451,6 +29451,11 @@
       "Time": "2024-01-22T12:09:45.5946726+00:00",
       "NumProgressed": 139872,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-22T13:17:08.4122265+00:00",
+      "NumProgressed": 139874,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29510,7 +29515,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12588
+      "UsersEstimate": 12589
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -29542,7 +29547,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39164
+      "UsersEstimate": 39165
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -29574,7 +29579,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27974
+      "UsersEstimate": 27975
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -29590,7 +29595,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18183
+      "UsersEstimate": 18184
     },
     {
       "ID": "ACH_COP_STAR",
@@ -29622,7 +29627,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12588
+      "UsersEstimate": 12589
     },
     {
       "ID": "ACH_GLUTEN",
@@ -29781,15 +29786,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139872,
+      "Progressed": 139874,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-17T20:59:17.8370844+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:09:45.5946723+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:17:08.412226+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:58:47.3889381+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:09:45.5948369+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:06:12.1541882+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:17:08.4123879+00:00"
 }

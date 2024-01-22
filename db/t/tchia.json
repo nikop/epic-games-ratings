@@ -11929,9 +11929,9 @@
       "ID": "HAPPY_CAMPER",
       "SetID": "3cck1g6",
       "Name": "Happy Camper",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 18
+      "UsersEstimate": 27
     },
     {
       "ID": "HISTORIAN",
@@ -12026,8 +12026,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-16T21:59:20.6458805+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:06:01.9787609+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:12:54.350336+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.7072075+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:58:06.3948017+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:06:01.9788157+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:05:41.8810326+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:12:54.3504098+00:00"
 }

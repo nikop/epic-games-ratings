@@ -4,7 +4,7 @@
   "ProductSlug": "ten-dates-9a188a",
   "Ranking_EOS_Progress": 356,
   "Ranking_EOS_Completed": 161,
-  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewPlayers": 306,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-02-14T12:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 536,
+  "EOS_Progressed": 537,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.31,
+  "EOS_Completed_Percentage": 1.3,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:50.5545173+00:00",
@@ -1636,6 +1636,11 @@
       "Time": "2024-01-21T11:10:21.6310072+00:00",
       "NumProgressed": 536,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-22T13:18:04.9601416+00:00",
+      "NumProgressed": 537,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 19,
@@ -1677,9 +1682,9 @@
       "ID": "profile_misha",
       "SetID": "6h5h9ho",
       "Name": "Let it begin",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 247
+      "UsersEstimate": 242
     },
     {
       "ID": "profile_ryan",
@@ -1687,7 +1692,7 @@
       "Name": "That wasn\u0027t so bad",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 477
+      "UsersEstimate": 478
     },
     {
       "ID": "ryan_date2_all",
@@ -1798,7 +1803,7 @@
     {
       "ID": "6h5h9ho",
       "IsBase": true,
-      "Progressed": 536,
+      "Progressed": 537,
       "Completed": 7
     }
   ],
@@ -1806,8 +1811,8 @@
   "FirstSeenRating": "2023-03-31T05:58:08.2897173+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.554518+00:00",
   "LastChanged": "2023-03-31T05:58:08.2897174+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:10:58.9737997+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:18:04.9601411+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.3077577+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:58:52.4869369+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:10:58.9738172+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:06:15.7694379+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:18:04.9601635+00:00"
 }

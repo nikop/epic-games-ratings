@@ -4,7 +4,7 @@
   "ProductSlug": "biped",
   "Ranking_EOS_Progress": 185,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-20T15:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10684,
+  "EOS_Progressed": 10685,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 208,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17534,6 +17534,11 @@
       "Time": "2024-01-22T12:04:41.9580433+00:00",
       "NumProgressed": 10684,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T13:11:52.5240509+00:00",
+      "NumProgressed": 10685,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -17601,7 +17606,7 @@
       "Name": "Dense Forest",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 3098
+      "UsersEstimate": 3099
     },
     {
       "ID": "3",
@@ -17664,7 +17669,7 @@
     {
       "ID": "1dkhij4",
       "IsBase": true,
-      "Progressed": 10684,
+      "Progressed": 10685,
       "Completed": 0
     }
   ],
@@ -17672,8 +17677,8 @@
   "FirstSeenRating": "2023-04-22T05:57:51.3460145+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:16.3894488+00:00",
   "LastChanged": "2023-04-22T05:57:51.3460146+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:04:41.9580427+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:11:52.5240504+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.2707916+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:58:09.8069352+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:04:41.9581505+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:05:44.0293943+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:11:52.5241405+00:00"
 }

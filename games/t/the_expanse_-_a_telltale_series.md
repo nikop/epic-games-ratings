@@ -6,7 +6,7 @@ Rating: 4.54 (Ranked 552)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Oyedang, Kopengs | 19.00% | ~3,654 |
-| Captain Drummer | 16.00% | ~3,077 |
+| Captain Drummer | 17.00% | ~3,269 |
 | Celebrations are in Order | 15.00% | ~2,884 |
 | The Pit and the Pirates | 14.00% | ~2,692 |
 | Martian Music | 14.00% | ~2,692 |
@@ -14,13 +14,13 @@ Rating: 4.54 (Ranked 552)
 | Impossible Objects | 14.00% | ~2,692 |
 | Spore Taste | 13.00% | ~2,500 |
 | Drone Dodger | 13.00% | ~2,500 |
-| Stogie for Fogey | 12.00% | ~2,307 |
+| Stogie for Fogey | 12.00% | ~2,308 |
 | Zen Master | 11.00% | ~570 |
 | Call it Even | 10.00% | ~1,923 |
 | Safe Cracker | 10.00% | ~518 |
 | Madame Undersecretary | 10.00% | ~518 |
 | Heal Thy Medic | 9.00% | ~1,731 |
-| Keep Arjun in Check | 9.00% | ~466 |
+| Keep Arjun in Check | 9.00% | ~467 |
 | Data Archivist | 8.00% | ~1,538 |
 | Drug Gifter | 8.00% | ~1,538 |
 | Thorston Mayer | 8.00% | ~1,538 |
@@ -28,8 +28,8 @@ Rating: 4.54 (Ranked 552)
 | Doctor Approved | 7.00% | ~1,346 |
 | Bottoms up! | 7.00% | ~1,346 |
 | Master Negotiator | 7.00% | ~363 |
-| Data Logger | 5.00% | ~961 |
-| Miraculous Maya | 5.00% | ~961 |
+| Data Logger | 5.00% | ~962 |
+| Miraculous Maya | 5.00% | ~962 |
 | Data Master | 4.00% | ~769 |
 | No Belter Left Behind | 3.00% | ~577 |
 | Brother's Reaper | 2.00% | ~385 |
@@ -41,7 +41,7 @@ Rating: 4.54 (Ranked 552)
 | Scavenger Star | 0.40% | ~77 |
 | Data Collector | 0.20% | ~38 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,229 (Ranked 160)  
+Progressed: 19,230 (Ranked 160)  
 Completed: 66 (0.34%) (Ranked 256)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -225,7 +225,7 @@ Completed: 66 (0.34%) (Ranked 256)
 | 2024-01-19 | 19,168 | 66 |
 | 2024-01-20 | 19,199 | 66 |
 | 2024-01-21 | 19,222 | 66 |
-| 2024-01-22 | 19,229 | 66 |
+| 2024-01-22 | 19,230 | 66 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -23,11 +23,11 @@ Rating: 4.65 (Ranked 325)
 | Botanical Breakthrough | 2.00% | ~183 |
 | Exit Through The Gift Shop | 2.00% | ~36 |
 | Flaming Hot Completos | 1.00% | ~92 |
+| Fae Farmer | 1.00% | ~92 |
 | Beach Comber | 1.00% | ~92 |
 | Rumble in the Jumble | 1.00% | ~92 |
 | Azorian Anniversary | 1.00% | ~92 |
 | Skilled | 1.00% | ~92 |
-| Fae Farmer | 0.90% | ~82 |
 | Got to Catch Them All | 0.90% | ~82 |
 | Scattered Scroll Scrounger | 0.90% | ~82 |
 | Fanatical Farmer | 0.90% | ~82 |

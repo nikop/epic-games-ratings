@@ -9171,9 +9171,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762349,
+  "EOS_Progressed": 762357,
   "EOS_Completed": 13003,
-  "EOS_NewPlayers": 1441,
+  "EOS_NewPlayers": 1430,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34861,6 +34861,11 @@
       "Time": "2024-01-22T12:10:47.8078831+00:00",
       "NumProgressed": 762349,
       "NumCompleted": 13003
+    },
+    {
+      "Time": "2024-01-22T13:17:56.2768628+00:00",
+      "NumProgressed": 762357,
+      "NumCompleted": 13003
     }
   ],
   "TotalAchievements": 60,
@@ -34880,7 +34885,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38117
+      "UsersEstimate": 38118
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34888,7 +34893,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22870
+      "UsersEstimate": 22871
     },
     {
       "ID": "04_Vengeance_H3",
@@ -34960,7 +34965,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7623
+      "UsersEstimate": 7624
     },
     {
       "ID": "13_LowAge",
@@ -35024,7 +35029,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22870
+      "UsersEstimate": 22871
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -35032,7 +35037,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7623
+      "UsersEstimate": 7624
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -35040,7 +35045,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22870
+      "UsersEstimate": 22871
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -35048,7 +35053,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38117
+      "UsersEstimate": 38118
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -35056,7 +35061,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22870
+      "UsersEstimate": 22871
     },
     {
       "ID": "25_ShrineMind",
@@ -35080,7 +35085,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22870
+      "UsersEstimate": 22871
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -35120,7 +35125,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22870
+      "UsersEstimate": 22871
     },
     {
       "ID": "33_BladeOneShot",
@@ -35136,7 +35141,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38117
+      "UsersEstimate": 38118
     },
     {
       "ID": "35_WideStrike",
@@ -35144,7 +35149,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7623
+      "UsersEstimate": 7624
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -35208,7 +35213,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 716
+      "UsersEstimate": 717
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -35351,21 +35356,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71650,
+      "Progressed": 71658,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762349,
+      "Progressed": 762357,
       "Completed": 13003
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-22T08:03:16.0488747+00:00",
-  "LastChanged_Achievements": "2024-01-22T12:10:47.8078828+00:00",
+  "LastChanged_Achievements": "2024-01-22T13:17:56.2768623+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-22T12:03:44.8300329+00:00",
-  "LastUpdate_Achievements": "2024-01-22T12:10:47.8080215+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:11:09.3077346+00:00",
+  "LastUpdate_Achievements": "2024-01-22T13:17:56.2770278+00:00"
 }
