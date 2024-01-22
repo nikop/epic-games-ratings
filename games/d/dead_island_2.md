@@ -5,11 +5,11 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,881 |
-| Hotel California | 10.00% | ~80,801 |
-| Break A Leg | 9.00% | ~72,721 |
-| Coup de Grâce | 8.00% | ~64,641 |
-| Hazardous Materials | 8.00% | ~64,641 |
+| Welcome To Hell-A | 11.00% | ~88,882 |
+| Hotel California | 10.00% | ~80,802 |
+| Break A Leg | 9.00% | ~72,722 |
+| Coup de Grâce | 8.00% | ~64,642 |
+| Hazardous Materials | 8.00% | ~64,642 |
 | Git Gutte! | 7.00% | ~56,561 |
 | Apex Predator | 7.00% | ~56,561 |
 | Personal Assistant Personally Assisted | 7.00% | ~56,561 |
@@ -31,12 +31,12 @@ Rating: 4.54 (Ranked 551)
 | A Patton Emerges | 4.00% | ~32,321 |
 | I Am the Resurrection | 4.00% | ~32,321 |
 | Our True Nature | 4.00% | ~32,321 |
-| Whatever It Takes | 4.00% | ~5,342 |
-| Pork Chopped | 4.00% | ~5,342 |
-| Jumbo Keyring | 3.00% | ~24,240 |
-| Humanity Distilled | 3.00% | ~24,240 |
-| Down with the Sickness | 3.00% | ~24,240 |
-| Max Headroom | 3.00% | ~24,240 |
+| Whatever It Takes | 4.00% | ~5,343 |
+| Pork Chopped | 4.00% | ~5,343 |
+| Jumbo Keyring | 3.00% | ~24,241 |
+| Humanity Distilled | 3.00% | ~24,241 |
+| Down with the Sickness | 3.00% | ~24,241 |
+| Max Headroom | 3.00% | ~24,241 |
 | One of Us | 3.00% | ~4,007 |
 | Smorgasbord | 2.00% | ~16,160 |
 | Not Even My Final Form | 2.00% | ~16,160 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,013 (Ranked 23)  
+Progressed: 808,019 (Ranked 23)  
 Completed: 2,619 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 2,619 (0.32%) (Ranked 261)
 | 2024-01-19 | 806,486 | 2,606 |
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
-| 2024-01-22 | 808,013 | 2,619 |
+| 2024-01-22 | 808,019 | 2,619 |
 ## Awards
 Max (Great Boss Battles): 10,767  (Ranked 40)  
 Sum: 16,557 (Ranked 68)  

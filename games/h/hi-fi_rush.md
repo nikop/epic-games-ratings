@@ -5,48 +5,48 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feeling the beat! | 56.00% | ~9,840 |
-| Start with a bang! | 55.00% | ~9,665 |
-| You can pet the cat! | 51.00% | ~8,962 |
-| Who put gears in there? | 42.00% | ~7,380 |
-| Cream of the Crop | 37.00% | ~6,502 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,326 |
-| You got this, Peppermint? | 32.00% | ~5,623 |
-| Perfect Parry | 29.00% | ~5,096 |
-| Alright, that felt AWESOME! | 29.00% | ~5,096 |
-| I play my own way! | 25.00% | ~4,393 |
-| This will cost you big time | 23.00% | ~4,042 |
-| Uh, they were broken when I got here | 23.00% | ~4,042 |
-| Z-shielding's got nothing on us! | 22.00% | ~3,866 |
-| Kissing the sky! | 21.00% | ~3,690 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,163 |
-| Does that say weakpoint? | 18.00% | ~3,163 |
-| The Negotiator | 17.00% | ~2,987 |
-| You must like calling me in, Chai | 16.00% | ~2,812 |
-| Out in a puff of smoke | 15.00% | ~2,636 |
-| Headliner | 14.00% | ~2,460 |
-| Time to pay up! | 13.00% | ~2,284 |
-| Who's the boss now? | 13.00% | ~2,284 |
-| Perfecter Parry-er! | 13.00% | ~2,284 |
-| I look cool. But I can look COOLER. | 13.00% | ~2,284 |
+| Feeling the beat! | 56.00% | ~9,844 |
+| Start with a bang! | 55.00% | ~9,668 |
+| You can pet the cat! | 51.00% | ~8,965 |
+| Who put gears in there? | 42.00% | ~7,383 |
+| Cream of the Crop | 37.00% | ~6,504 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,328 |
+| You got this, Peppermint? | 32.00% | ~5,625 |
+| Perfect Parry | 29.00% | ~5,098 |
+| Alright, that felt AWESOME! | 29.00% | ~5,098 |
+| I play my own way! | 25.00% | ~4,395 |
+| This will cost you big time | 23.00% | ~4,043 |
+| Uh, they were broken when I got here | 23.00% | ~4,043 |
+| Z-shielding's got nothing on us! | 22.00% | ~3,867 |
+| Kissing the sky! | 21.00% | ~3,692 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,164 |
+| Does that say weakpoint? | 18.00% | ~3,164 |
+| The Negotiator | 17.00% | ~2,988 |
+| You must like calling me in, Chai | 16.00% | ~2,813 |
+| Out in a puff of smoke | 15.00% | ~2,637 |
+| Headliner | 14.00% | ~2,461 |
+| Time to pay up! | 13.00% | ~2,285 |
+| Who's the boss now? | 13.00% | ~2,285 |
+| Perfecter Parry-er! | 13.00% | ~2,285 |
+| I look cool. But I can look COOLER. | 13.00% | ~2,285 |
 | I have to read these things? | 12.00% | ~2,109 |
-| There's such a thing as TOO helpful | 9.00% | ~1,581 |
-| NOW we got a kickass hideout! | 9.00% | ~1,448 |
+| There's such a thing as TOO helpful | 9.00% | ~1,582 |
+| NOW we got a kickass hideout! | 9.00% | ~1,449 |
 | Well that was a rush! | 8.00% | ~1,406 |
 | That's a lot of junk metal… | 8.00% | ~1,406 |
-| Beat-hit mania | 7.00% | ~1,230 |
+| Beat-hit mania | 7.00% | ~1,231 |
 | Chip-tuned | 5.00% | ~879 |
 | I told you I'd be fine, Peppermint! | 5.00% | ~879 |
 | Wanna hear my playlist? | 4.00% | ~703 |
 | Check out my moves! | 4.00% | ~703 |
 | We're Jammin' | 3.00% | ~527 |
 | You ever parry a volcano? | 3.00% | ~527 |
-| I think I deserve some praise, here! | 2.00% | ~351 |
-| I think I found your calling, Macaron | 2.00% | ~351 |
-| This is a breeze! | 2.00% | ~351 |
-| I'm not done with you yet | 2.00% | ~351 |
-| First we parry, then we counter | 2.00% | ~351 |
-| I hit things with a guitar really well. | 2.00% | ~351 |
+| I think I deserve some praise, here! | 2.00% | ~352 |
+| I think I found your calling, Macaron | 2.00% | ~352 |
+| This is a breeze! | 2.00% | ~352 |
+| I'm not done with you yet | 2.00% | ~352 |
+| First we parry, then we counter | 2.00% | ~352 |
+| I hit things with a guitar really well. | 2.00% | ~352 |
 | Call me Turbo Chai | 2.00% | ~322 |
 | Easy Listening | 1.00% | ~176 |
 | OK, well THEY came after ME! | 0.90% | ~158 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,572 (Ranked 168)  
+Progressed: 17,579 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 8 (0.05%) (Ranked 347)
 | 2024-01-19 | 17,441 | 8 |
 | 2024-01-20 | 17,503 | 8 |
 | 2024-01-21 | 17,560 | 8 |
-| 2024-01-22 | 17,572 | 8 |
+| 2024-01-22 | 17,579 | 8 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 503)  
 Sum: 37 (Ranked 538)  

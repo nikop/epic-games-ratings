@@ -6,8 +6,8 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 127,
-  "Ranking_EOS_Completed": 226,
-  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_Completed": 227,
+  "Ranking_EOS_NewPlayers": 120,
   "Ranking_EOS_NewCompleters": 34,
   "Store": {
     "ReleaseDate": "2018-03-18T15:00:00+00:00",
@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48060,
+  "EOS_Progressed": 48061,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 586,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15046,6 +15046,11 @@
       "Time": "2024-01-22T06:09:43.6791363+00:00",
       "NumProgressed": 48060,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-22T07:09:27.8597185+00:00",
+      "NumProgressed": 48061,
+      "NumCompleted": 248
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15218,7 +15223,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24991
+      "UsersEstimate": 24992
     },
     {
       "ID": "ACH_PEAK",
@@ -15266,7 +15271,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 17782
+      "UsersEstimate": 17783
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -15274,7 +15279,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 36045
+      "UsersEstimate": 36046
     },
     {
       "ID": "ACH_STATUE",
@@ -15289,15 +15294,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48060,
+      "Progressed": 48061,
       "Completed": 248
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:09:43.679136+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:09:27.8597183+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:58:16.4346383+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:09:43.6792194+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:58:24.0082034+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:09:27.8597969+00:00"
 }

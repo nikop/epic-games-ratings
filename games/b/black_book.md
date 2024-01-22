@@ -6,23 +6,23 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,831 |
-| Student | 23.00% | ~15,728 |
-| Knower | 16.00% | ~10,941 |
-| Listener | 15.00% | ~10,257 |
-| Aspen Tree | 14.00% | ~9,573 |
-| Healer | 14.00% | ~9,573 |
+| Initiation | 29.00% | ~19,832 |
+| Student | 23.00% | ~15,729 |
+| Knower | 16.00% | ~10,942 |
+| Listener | 15.00% | ~10,258 |
+| Aspen Tree | 14.00% | ~9,574 |
+| Healer | 14.00% | ~9,574 |
 | Scientist | 12.00% | ~8,206 |
 | Soldier | 12.00% | ~8,206 |
-| Cow Level | 11.00% | ~7,522 |
-| Old Friend | 10.00% | ~6,838 |
-| Herbalist | 10.00% | ~6,838 |
-| Water | 10.00% | ~6,838 |
-| New Spirits | 9.00% | ~6,154 |
-| Voipel | 9.00% | ~6,154 |
-| Collector | 9.00% | ~6,154 |
-| Wolf | 9.00% | ~6,154 |
-| Black Mage | 9.00% | ~6,154 |
+| Cow Level | 11.00% | ~7,523 |
+| Old Friend | 10.00% | ~6,839 |
+| Herbalist | 10.00% | ~6,839 |
+| Water | 10.00% | ~6,839 |
+| New Spirits | 9.00% | ~6,155 |
+| Voipel | 9.00% | ~6,155 |
+| Collector | 9.00% | ~6,155 |
+| Wolf | 9.00% | ~6,155 |
+| Black Mage | 9.00% | ~6,155 |
 | Card Player | 8.00% | ~5,471 |
 | Dead Friend | 8.00% | ~5,471 |
 | Pine Tree | 8.00% | ~5,471 |
@@ -46,10 +46,10 @@ Number of Ratings: 96  (23.09.2022)
 | Righteous | 4.00% | ~2,735 |
 | Musician | 4.00% | ~2,735 |
 | Koldun | 4.00% | ~2,735 |
-| Black Sorceress | 3.00% | ~2,051 |
-| Cheater | 3.00% | ~2,051 |
-| Diplomat | 3.00% | ~2,051 |
-| White Head | 3.00% | ~2,051 |
+| Black Sorceress | 3.00% | ~2,052 |
+| Cheater | 3.00% | ~2,052 |
+| Diplomat | 3.00% | ~2,052 |
+| White Head | 3.00% | ~2,052 |
 | Revelation | 2.00% | ~1,368 |
 | Mistress of Hell | 2.00% | ~1,368 |
 | Detective | 2.00% | ~1,368 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,368 |
 | Word Master | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,382 (Ranked 118)  
+Progressed: 68,387 (Ranked 118)  
 Completed: 75 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 75 (0.11%) (Ranked 314)
 | 2024-01-19 | 67,935 | 75 |
 | 2024-01-20 | 68,148 | 75 |
 | 2024-01-21 | 68,355 | 75 |
-| 2024-01-22 | 68,382 | 75 |
+| 2024-01-22 | 68,387 | 75 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

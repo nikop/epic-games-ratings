@@ -6,23 +6,23 @@ Number of Ratings: 7,683  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Own use | 71.00% | ~45,079 |
-| I read Shakespeare and stuff | 59.00% | ~37,460 |
-| Just a sprinkle | 58.00% | ~36,825 |
-| I'm stumped | 56.00% | ~35,556 |
-| Plant get enough | 56.00% | ~35,556 |
-| This is just my weekend vehicle | 54.00% | ~34,286 |
-| It's just the beginning | 54.00% | ~34,286 |
-| Hard work pays off | 49.00% | ~31,111 |
-| It's never too late to farm | 45.00% | ~28,571 |
-| All out of Land | 41.00% | ~26,032 |
-| Field Trip | 40.00% | ~25,397 |
-| I like to switch it up | 37.00% | ~23,492 |
-| Help me to help you | 35.00% | ~22,222 |
-| Ultimutt Pawesomeness | 25.00% | ~15,873 |
-| Van Gogh | 23.00% | ~14,603 |
-| You wood not believe it | 20.00% | ~12,698 |
-| Vehicle fleet | 20.00% | ~12,698 |
+| Own use | 71.00% | ~45,081 |
+| I read Shakespeare and stuff | 59.00% | ~37,461 |
+| Just a sprinkle | 58.00% | ~36,827 |
+| I'm stumped | 56.00% | ~35,557 |
+| Plant get enough | 56.00% | ~35,557 |
+| This is just my weekend vehicle | 54.00% | ~34,287 |
+| It's just the beginning | 54.00% | ~34,287 |
+| Hard work pays off | 49.00% | ~31,112 |
+| It's never too late to farm | 45.00% | ~28,572 |
+| All out of Land | 41.00% | ~26,033 |
+| Field Trip | 40.00% | ~25,398 |
+| I like to switch it up | 37.00% | ~23,493 |
+| Help me to help you | 35.00% | ~22,223 |
+| Ultimutt Pawesomeness | 25.00% | ~15,874 |
+| Van Gogh | 23.00% | ~14,604 |
+| You wood not believe it | 20.00% | ~12,699 |
+| Vehicle fleet | 20.00% | ~12,699 |
 | Well-Oiled Machine | 15.00% | ~9,524 |
 | Clucky Streak | 14.00% | ~8,889 |
 | The plot thickens | 14.00% | ~8,889 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~254 |
 | Raisin the stakes | 0.30% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,492 (Ranked 120)  
+Progressed: 63,494 (Ranked 120)  
 Completed: 6 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 6 (0.01%) (Ranked 383)
 | 2024-01-19 | 63,190 | 6 |
 | 2024-01-20 | 63,336 | 6 |
 | 2024-01-21 | 63,476 | 6 |
-| 2024-01-22 | 63,492 | 6 |
+| 2024-01-22 | 63,494 | 6 |
 ## Awards
 Max (Great for Beginners): 6,160  (Ranked 67)  
 Sum: 45,964 (Ranked 33)  

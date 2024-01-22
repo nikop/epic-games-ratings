@@ -1547,9 +1547,9 @@
       "ID": "another_perspective",
       "SetID": "f2im8d",
       "Name": "Another perspective",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 41
+      "UsersEstimate": 44
     },
     {
       "ID": "assemble_puzzles",
@@ -1747,9 +1747,9 @@
       "ID": "hear_one_interview",
       "SetID": "f2im8d",
       "Name": "Sound Bite",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 51
     },
     {
       "ID": "heavy_burden",
@@ -1899,9 +1899,9 @@
       "ID": "the_art_of_movement",
       "SetID": "f2im8d",
       "Name": "The art of movement",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 48
     },
     {
       "ID": "the_tragedy_unfolds",
@@ -1962,8 +1962,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:09:20.1876546+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:09:04.2408373+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:57:35.9541614+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:09:20.1877057+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:57:43.439177+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:09:04.2408982+00:00"
 }

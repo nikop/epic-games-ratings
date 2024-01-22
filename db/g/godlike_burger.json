@@ -268,9 +268,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 405496,
+  "EOS_Progressed": 405502,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 2899,
+  "EOS_NewPlayers": 2898,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14243,6 +14243,11 @@
       "Time": "2024-01-22T06:05:46.4729406+00:00",
       "NumProgressed": 405496,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-22T07:05:41.9859299+00:00",
+      "NumProgressed": 405502,
+      "NumCompleted": 62
     }
   ],
   "TotalAchievements": 28,
@@ -14270,7 +14275,7 @@
       "Name": "CORRUPTIONIST",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "GB_CRIMINAL",
@@ -14278,7 +14283,7 @@
       "Name": "CRIMINAL",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 81099
+      "UsersEstimate": 81100
     },
     {
       "ID": "GB_DEBTOR",
@@ -14302,7 +14307,7 @@
       "Name": "FIRST BLOOD",
       "Percentage": 40,
       "XP": 25,
-      "UsersEstimate": 162198
+      "UsersEstimate": 162201
     },
     {
       "ID": "GB_GOURMET",
@@ -14342,7 +14347,7 @@
       "Name": "HIGH TECHNOLOGIES",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 2838
+      "UsersEstimate": 2839
     },
     {
       "ID": "GB_HONORS_STUDENT",
@@ -14374,7 +14379,7 @@
       "Name": "JACK OF ALL TRADES",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 93264
+      "UsersEstimate": 93265
     },
     {
       "ID": "GB_KEVIN",
@@ -14382,7 +14387,7 @@
       "Name": "KEVIN!",
       "Percentage": 30,
       "XP": 25,
-      "UsersEstimate": 121649
+      "UsersEstimate": 121651
     },
     {
       "ID": "GB_LAW_ABIDING_CITIZEN",
@@ -14406,7 +14411,7 @@
       "Name": "MASTER CHEF",
       "Percentage": 45,
       "XP": 25,
-      "UsersEstimate": 182473
+      "UsersEstimate": 182476
     },
     {
       "ID": "GB_MISTER_ALL_THUMBS",
@@ -14414,7 +14419,7 @@
       "Name": "MISTER ALL THUMBS",
       "Percentage": 0.1,
       "XP": 25,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "GB_PATTY_KILLER",
@@ -14462,7 +14467,7 @@
       "Name": "TRAVELER",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "GB_WITHOUT_BREAKING_A_SWEAT",
@@ -14477,7 +14482,7 @@
     {
       "ID": "8ga3kd9",
       "IsBase": true,
-      "Progressed": 405496,
+      "Progressed": 405502,
       "Completed": 62
     }
   ],
@@ -14485,8 +14490,8 @@
   "FirstSeenRating": "2022-10-16T14:30:41.0597875+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:15.8385233+00:00",
   "LastChanged": "2023-12-28T01:47:13.8742821+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:05:46.4729404+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:05:41.9859297+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.8708888+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:03:14.3173554+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:05:46.4730082+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:03:07.2098599+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:05:41.9859955+00:00"
 }

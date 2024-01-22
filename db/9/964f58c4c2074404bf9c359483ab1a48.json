@@ -2,7 +2,7 @@
   "ID": "964f58c4c2074404bf9c359483ab1a48",
   "Name": "Midnight Ghost Hunt",
   "ProductSlug": "midnight-ghost-hunt",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 388,
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 11,
@@ -2475,9 +2475,9 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 1302236,
+  "EOS_Progressed": 1302240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1126,
+  "EOS_NewPlayers": 1122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29960,6 +29960,11 @@
       "Time": "2024-01-22T06:03:39.3043476+00:00",
       "NumProgressed": 1302236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T07:03:34.3319569+00:00",
+      "NumProgressed": 1302240,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -30235,7 +30240,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 52089
+      "UsersEstimate": 52090
     },
     {
       "ID": "50_riot_shield_kills",
@@ -30267,7 +30272,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 768319
+      "UsersEstimate": 768322
     },
     {
       "ID": "hunter_win",
@@ -30275,7 +30280,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 703207
+      "UsersEstimate": 703210
     },
     {
       "ID": "master_of_loadouts",
@@ -30299,14 +30304,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 286492
+      "UsersEstimate": 286493
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1302236,
+      "Progressed": 1302240,
       "Completed": 0
     }
   ],
@@ -30314,8 +30319,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-21T20:01:26.1237804+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:03:39.3043474+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:03:34.3319565+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:08.3458382+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:59:54.957144+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:03:39.3045096+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:00:00.5979129+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:03:34.3320852+00:00"
 }

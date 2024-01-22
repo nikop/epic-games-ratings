@@ -48,6 +48,7 @@
 | The Justicar | 24.00% | ~1,098 |
 | The Quarian | 24.00% | ~1,098 |
 | The Prodigal | 24.00% | ~1,098 |
+| A Personal Touch | 23.00% | ~1,052 |
 | Catharsis | 23.00% | ~1,052 |
 | Ghost of the Father | 23.00% | ~1,052 |
 | The Cure | 23.00% | ~1,052 |
@@ -55,7 +56,6 @@
 | Revenge! | 23.00% | ~1,052 |
 | Bringer of War | 23.00% | ~1,052 |
 | Shopaholic | 23.00% | ~1,052 |
-| A Personal Touch | 22.00% | ~1,006 |
 | Battlemaster | 22.00% | ~1,006 |
 | Fade Away | 22.00% | ~1,006 |
 | Treason | 22.00% | ~1,006 |

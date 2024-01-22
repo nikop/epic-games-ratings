@@ -16,12 +16,12 @@
 | Face your fears | 33.00% | ~113 |
 | Finished it | 27.00% | ~92 |
 | Whispers long forgotten | 19.00% | ~65 |
-| Sound Bite | 14.00% | ~48 |
+| Sound Bite | 15.00% | ~51 |
+| The art of movement | 14.00% | ~48 |
+| Another perspective | 13.00% | ~44 |
 | A Slice of Life | 13.00% | ~44 |
 | Debut | 13.00% | ~44 |
 | Lights! Camera! Action! | 13.00% | ~44 |
-| The art of movement | 13.00% | ~44 |
-| Another perspective | 12.00% | ~41 |
 | First steps | 11.00% | ~38 |
 | Playtime | 11.00% | ~38 |
 | The tragedy unfolds | 11.00% | ~38 |

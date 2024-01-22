@@ -2,13 +2,13 @@
   "ID": "35eda4ff87f94a7491dc28175b8f3b4f",
   "Name": "Eternal Threads",
   "ProductSlug": "eternal-threads-197169",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 152,
   "Ranking_EOS_Completed": 226,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 26,
+  "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
     "PcReleaseDate": "2022-05-19T14:00:00+00:00",
@@ -288,10 +288,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 23103,
-  "EOS_Completed": 121,
-  "EOS_NewPlayers": 1075,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 0.52,
+  "EOS_Completed": 122,
+  "EOS_NewPlayers": 1067,
+  "EOS_NewCompleters": 14,
+  "EOS_Completed_Percentage": 0.53,
   "EosHistory": [
     {
       "Time": "2023-10-19T17:06:35.017307+00:00",
@@ -8927,6 +8927,11 @@
       "Time": "2024-01-22T06:03:58.1381319+00:00",
       "NumProgressed": 23103,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-22T07:03:53.4518245+00:00",
+      "NumProgressed": 23103,
+      "NumCompleted": 122
     }
   ],
   "AchievementsAdded": "2023-10-19T13:12:28.0553012+00:00",
@@ -9019,15 +9024,15 @@
       "ID": "24fdn9j",
       "IsBase": true,
       "Progressed": 23103,
-      "Completed": 121
+      "Completed": 122
     }
   ],
   "FirstSeen": "2023-10-19T17:59:40.5875906+00:00",
   "FirstSeenRating": "2023-10-22T18:02:06.4612547+00:00",
   "FirstSeenAchievements": "2023-10-12T16:03:21.8701232+00:00",
   "LastChanged": "2024-01-15T17:58:16.6666667+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:03:58.1381317+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:03:53.4518241+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:12.6896156+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:57:13.0423725+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:03:58.1381836+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:57:20.1418596+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:03:53.451904+00:00"
 }

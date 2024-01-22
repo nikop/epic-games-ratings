@@ -8517,7 +8517,7 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 219959,
+  "EOS_Progressed": 219967,
   "EOS_Completed": 13,
   "EOS_NewPlayers": 3164,
   "EOS_NewCompleters": 0,
@@ -40362,6 +40362,11 @@
       "Time": "2024-01-22T06:09:54.7965062+00:00",
       "NumProgressed": 219959,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-22T07:09:40.2136323+00:00",
+      "NumProgressed": 219967,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -40405,7 +40410,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32994
+      "UsersEstimate": 32995
     },
     {
       "ID": "Achievement_13",
@@ -40453,7 +40458,7 @@
       "Name": "Stone Walls",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 52790
+      "UsersEstimate": 52792
     },
     {
       "ID": "Achievement_5",
@@ -40485,7 +40490,7 @@
       "Name": "Samuel Norton",
       "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 19796
+      "UsersEstimate": 19797
     },
     {
       "ID": "Achievement_9",
@@ -40493,22 +40498,22 @@
       "Name": "Spare The Rod",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 8798
+      "UsersEstimate": 8799
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 219959,
+      "Progressed": 219967,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-22T02:57:34.0125952+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:09:54.7965061+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:09:40.2136319+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.4348703+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:57:30.725756+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:09:54.7966514+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:57:38.4711274+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:09:40.213802+00:00"
 }

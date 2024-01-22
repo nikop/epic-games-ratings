@@ -1000,9 +1000,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55771,
+  "EOS_Progressed": 55773,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 858,
+  "EOS_NewPlayers": 855,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32530,6 +32530,11 @@
       "Time": "2024-01-22T06:05:25.9289814+00:00",
       "NumProgressed": 55771,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T07:05:21.1170485+00:00",
+      "NumProgressed": 55773,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32661,7 +32666,7 @@
       "Name": "Nomad",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 8923
+      "UsersEstimate": 8924
     },
     {
       "ID": "novice",
@@ -32852,15 +32857,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55771,
+      "Progressed": 55773,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-20T03:57:39.1090707+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:05:25.9289812+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:05:21.1170481+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.3868724+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:58:25.8833685+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:05:25.9291431+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:58:33.4792251+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:05:21.1172031+00:00"
 }

@@ -26,7 +26,7 @@ Rating: 4.43 (Ranked 730)
 | Architect Abortion | 2.00% | ~4,657 |
 | Cohortus Maximus | 0.80% | ~1,863 |
 | Mother of Xenarites | 0.40% | ~931 |
-| False God | 0.30% | ~698 |
+| False God | 0.30% | ~699 |
 | Hard | 0.20% | ~466 |
 | Sensory overload | 0.20% | ~466 |
 | Transonic Blur | 0.20% | ~466 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 730)
 | Perma-live | 0.10% | ~233 |
 | Purge the Heretek | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,833 (Ranked 78)  
+Progressed: 232,834 (Ranked 78)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,7 +317,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 232,616 | 5 |
 | 2024-01-20 | 232,710 | 5 |
 | 2024-01-21 | 232,812 | 5 |
-| 2024-01-22 | 232,833 | 5 |
+| 2024-01-22 | 232,834 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 270)  
 Sum: 2,233 (Ranked 213)  

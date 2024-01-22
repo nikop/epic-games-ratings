@@ -11010,7 +11010,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 96708,
+  "EOS_Progressed": 96711,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1429,
   "EOS_NewCompleters": 0,
@@ -40735,6 +40735,11 @@
       "Time": "2024-01-22T06:10:21.9247632+00:00",
       "NumProgressed": 96708,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T07:10:07.5395908+00:00",
+      "NumProgressed": 96711,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40746,7 +40751,7 @@
       "Name": "Against all odds",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 14506
+      "UsersEstimate": 14507
     },
     {
       "ID": "Apple of my eye",
@@ -40754,7 +40759,7 @@
       "Name": "Apple of my eye",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16440
+      "UsersEstimate": 16441
     },
     {
       "ID": "Bannerlord",
@@ -40762,7 +40767,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 24177
+      "UsersEstimate": 24178
     },
     {
       "ID": "Best served cold",
@@ -40914,7 +40919,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 15473
+      "UsersEstimate": 15474
     },
     {
       "ID": "I spit on your grave",
@@ -40938,7 +40943,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17407
+      "UsersEstimate": 17408
     },
     {
       "ID": "Kingslayer",
@@ -40970,7 +40975,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33848
+      "UsersEstimate": 33849
     },
     {
       "ID": "Lawbringer",
@@ -40978,7 +40983,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41584
+      "UsersEstimate": 41586
     },
     {
       "ID": "Lawmaker",
@@ -40986,7 +40991,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23210
+      "UsersEstimate": 23211
     },
     {
       "ID": "Long live the Empire",
@@ -41026,7 +41031,7 @@
       "Name": "My way",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 4835
+      "UsersEstimate": 4836
     },
     {
       "ID": "Real Estate",
@@ -41106,7 +41111,7 @@
       "Name": "This Is Our Land",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16440
+      "UsersEstimate": 16441
     },
     {
       "ID": "This is Sparta",
@@ -41122,7 +41127,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29012
+      "UsersEstimate": 29013
     },
     {
       "ID": "Undercover",
@@ -41153,15 +41158,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 96708,
+      "Progressed": 96711,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-22T03:57:53.934225+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:10:21.924763+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:10:07.5395906+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:57:47.3352674+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:10:21.9249348+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:57:54.5507072+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:10:07.539753+00:00"
 }

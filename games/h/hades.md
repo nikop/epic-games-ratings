@@ -6,32 +6,32 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~638,647 |
+| Escaped Tartarus | 88.00% | ~638,648 |
 | Escaped Asphodel | 79.00% | ~573,331 |
-| Arms Collector | 70.00% | ~508,014 |
-| Friends in High Places | 67.00% | ~486,242 |
+| Arms Collector | 70.00% | ~508,015 |
+| Friends in High Places | 67.00% | ~486,243 |
 | Escaped Elysium | 65.00% | ~471,728 |
 | Chthonic Colleagues | 62.00% | ~449,956 |
-| Is There No Escape? | 52.00% | ~377,382 |
+| Is There No Escape? | 52.00% | ~377,383 |
 | Death Dealer | 45.00% | ~326,581 |
 | Skelly Slayer | 42.00% | ~304,809 |
 | Well Stocked | 40.00% | ~290,294 |
-| Back to Work | 38.00% | ~275,779 |
+| Back to Work | 38.00% | ~275,780 |
 | Day-or-Night Trader | 37.00% | ~268,522 |
 | Blessed by the Gods | 37.00% | ~268,522 |
 | Urge to Sing | 36.00% | ~261,265 |
-| Blood Bound | 35.00% | ~254,007 |
+| Blood Bound | 35.00% | ~254,008 |
 | Three-Headed Boy | 31.00% | ~224,978 |
 | River Denizens | 28.00% | ~203,206 |
 | Grown Close | 28.00% | ~203,206 |
-| Home Makeover | 27.00% | ~195,948 |
+| Home Makeover | 27.00% | ~195,949 |
 | Had to Happen | 25.00% | ~181,434 |
 | The Family Secret | 25.00% | ~181,434 |
 | Tools of the Architect | 23.00% | ~166,919 |
 | Master of Arms | 23.00% | ~166,919 |
 | To Charon's Credit | 22.00% | ~159,662 |
 | Rare Collectible | 22.00% | ~159,662 |
-| Weapon of Fate | 21.00% | ~152,404 |
+| Weapon of Fate | 21.00% | ~152,405 |
 | Something From Everyone | 19.00% | ~137,890 |
 | Hold the Onions | 18.00% | ~130,632 |
 | Well Versed | 17.00% | ~123,375 |
@@ -49,14 +49,14 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thanks, But No Thanks | 9.00% | ~65,316 |
 | Infernal Arms | 9.00% | ~65,316 |
 | Divided by Death | 8.00% | ~58,059 |
-| Harsh Conditions | 7.00% | ~50,801 |
-| One for the Ages | 7.00% | ~50,801 |
+| Harsh Conditions | 7.00% | ~50,802 |
+| One for the Ages | 7.00% | ~50,802 |
 | Complete Set | 6.00% | ~43,544 |
 | Skelly's Last Lamentations | 6.00% | ~43,544 |
 | Thorn of Thanatos | 4.00% | ~29,029 |
 | Friends Forever | 4.00% | ~29,029 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,735 (Ranked 28)  
+Progressed: 725,736 (Ranked 28)  
 Completed: 6,628 (0.91%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 6,628 (0.91%) (Ranked 190)
 | 2024-01-19 | 725,403 | 6,621 |
 | 2024-01-20 | 725,573 | 6,626 |
 | 2024-01-21 | 725,717 | 6,628 |
-| 2024-01-22 | 725,735 | 6,628 |
+| 2024-01-22 | 725,736 | 6,628 |
 ## Awards
 Max (Character Customization): 3,570  (Ranked 97)  
 Sum: 8,706 (Ranked 108)  

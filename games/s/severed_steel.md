@@ -5,28 +5,28 @@ Rating: 4.69 (Ranked 240)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| 100 KILLS | 34.00% | ~219,329 |
-| 50 HEADSHOTS | 31.00% | ~199,976 |
-| SCIENCE AND INDUSTRY | 30.00% | ~193,526 |
-| FINISHED CHAPTER 1 | 29.00% | ~187,075 |
-| FINISHED CHAPTER 2 | 21.00% | ~135,468 |
-| 200 HEADSHOTS | 19.00% | ~122,566 |
-| FINISHED CHAPTER 3 | 18.00% | ~116,115 |
-| FINISHED CHAPTER 4 | 15.00% | ~96,763 |
-| FINISH CHAPTER 5 | 13.00% | ~83,861 |
-| FINISH CHAPTER 6 | 11.00% | ~70,959 |
-| CATHARTIC ESCAPISM | 11.00% | ~70,959 |
-| 1000 KILLS | 10.00% | ~64,508 |
+| 100 KILLS | 34.00% | ~219,324 |
+| 50 HEADSHOTS | 31.00% | ~199,972 |
+| SCIENCE AND INDUSTRY | 30.00% | ~193,521 |
+| FINISHED CHAPTER 1 | 29.00% | ~187,071 |
+| FINISHED CHAPTER 2 | 21.00% | ~135,465 |
+| 200 HEADSHOTS | 19.00% | ~122,563 |
+| FINISHED CHAPTER 3 | 18.00% | ~116,113 |
+| FINISHED CHAPTER 4 | 15.00% | ~96,761 |
+| FINISH CHAPTER 5 | 13.00% | ~83,859 |
+| FINISH CHAPTER 6 | 11.00% | ~70,958 |
+| CATHARTIC ESCAPISM | 11.00% | ~70,958 |
+| 1000 KILLS | 10.00% | ~64,507 |
 | FIREFIGHT LEVEL 10 | 4.00% | ~25,803 |
-| FIREFIGHT LEVEL 20 | 2.00% | ~12,902 |
-| FIRST BLOOD | 2.00% | ~12,902 |
+| FIREFIGHT LEVEL 20 | 2.00% | ~12,901 |
+| FIRST BLOOD | 2.00% | ~12,901 |
 | FIREFIGHT LEVEL 30 | 1.00% | ~6,451 |
 | OUT OF ORDER | 1.00% | ~6,451 |
 | PACEMAKER | 1.00% | ~6,451 |
 | TIME PARADOX | 1.00% | ~6,451 |
 | PARTYHARD | 0.90% | ~5,806 |
-| NEW GAME PLUS | 0.70% | ~4,516 |
-| FIREFIGHT LEVEL 40 | 0.60% | ~3,871 |
+| NEW GAME PLUS | 0.70% | ~4,515 |
+| FIREFIGHT LEVEL 40 | 0.60% | ~3,870 |
 | CHURCH | 0.40% | ~2,580 |
 | FIREFIGHT LEVEL 50 | 0.40% | ~2,580 |
 | REMEMBER THE ARMORY | 0.30% | ~1,935 |
@@ -58,7 +58,7 @@ Rating: 4.69 (Ranked 240)
 | THE GAMBLER | 0.10% | ~645 |
 | WARRIOR IN A GARDEN | 0.10% | ~645 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 645,085 (Ranked 32)  
+Progressed: 645,071 (Ranked 32)  
 Completed: 57 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -10129,18 +10129,24 @@
       "Rating": 4.71,
       "NumberOfAwards": 28888,
       "NumberOfAwardsMax": 7796
+    },
+    {
+      "Time": "2024-01-22T06:57:51.9390175+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28893,
+      "NumberOfAwardsMax": 7801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28888,
-  "NumberOfAwardsMax": 7796,
+  "NumberOfAwards": 28893,
+  "NumberOfAwardsMax": 7801,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 7796
+      "Count": 7801
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -10215,7 +10221,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818618,
+  "EOS_Progressed": 818621,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 1056,
   "EOS_NewCompleters": 0,
@@ -41550,6 +41556,11 @@
       "Time": "2024-01-22T06:10:23.3050606+00:00",
       "NumProgressed": 818618,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-22T07:10:09.0300015+00:00",
+      "NumProgressed": 818621,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41641,7 +41652,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261958
+      "UsersEstimate": 261959
     },
     {
       "ID": "Bookworm",
@@ -41657,7 +41668,7 @@
       "Name": "Buddy",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98234
+      "UsersEstimate": 98235
     },
     {
       "ID": "Casanova",
@@ -41761,7 +41772,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 188282
+      "UsersEstimate": 188283
     },
     {
       "ID": "Fighter",
@@ -41881,7 +41892,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106420
+      "UsersEstimate": 106421
     },
     {
       "ID": "Judas",
@@ -42137,7 +42148,7 @@
       "Name": "Thief",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 98234
+      "UsersEstimate": 98235
     },
     {
       "ID": "TisButAScratch",
@@ -42216,15 +42227,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818618,
+      "Progressed": 818621,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-01-21T13:57:34.3383901+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:10:23.3050605+00:00",
+  "LastChanged": "2024-01-22T06:57:51.9390173+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:10:09.0300013+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.3609649+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:57:44.6771798+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:10:23.3052267+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:57:51.939018+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:10:09.0301753+00:00"
 }

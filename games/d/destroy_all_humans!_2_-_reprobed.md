@@ -18,7 +18,7 @@ Number of Ratings: 90  (23.09.2022)
 | Upgreatest | 28.00% | ~130 |
 | Pimp My Raid | 26.00% | ~121 |
 | Freshly Squeezed | 23.00% | ~107 |
-| I Look Up As I Walk to Takoshima | 21.00% | ~97 |
+| I Look Up As I Walk to Takoshima | 22.00% | ~102 |
 | Die Nasty | 19.00% | ~88 |
 | Perfect Probulator | 18.00% | ~84 |
 | Transmitting From Sol-3 | 17.00% | ~79 |

@@ -4,7 +4,7 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 180,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3098,
+  "EOS_Progressed": 3099,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8459,6 +8459,11 @@
       "Time": "2024-01-22T02:05:17.5071432+00:00",
       "NumProgressed": 3098,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T07:10:09.6486593+00:00",
+      "NumProgressed": 3099,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8695,7 +8700,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2664
+      "UsersEstimate": 2665
     },
     {
       "ID": "achievement_36",
@@ -8974,13 +8979,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3098,
+      "Progressed": 3099,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3098,
+      "Progressed": 3099,
       "Completed": 1
     }
   ],
@@ -8988,8 +8993,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:10:24.0350418+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:10:09.648659+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-22T05:57:21.53693+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:10:24.0351149+00:00"
+  "LastUpdate_Ratings": "2024-01-22T06:57:29.3346342+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:10:09.648733+00:00"
 }

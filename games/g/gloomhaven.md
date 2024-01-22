@@ -12,9 +12,9 @@ Number of Ratings: 68  (23.09.2022)
 | A normal day in Gloomhaven | 29.00% | ~10,215 |
 | Spread the plague | 26.00% | ~9,158 |
 | Get over here! | 24.00% | ~8,454 |
-| Just when I thought I was out... | 19.00% | ~6,692 |
+| Just when I thought I was out... | 19.00% | ~6,693 |
 | Mine... All Mine... | 16.00% | ~5,636 |
-| Precious! | 15.00% | ~5,283 |
+| Precious! | 15.00% | ~5,284 |
 | Grizzled veteran | 14.00% | ~4,931 |
 | Anatomy Lesson | 14.00% | ~4,931 |
 | Who's the Boss? | 12.00% | ~4,227 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,223 (Ranked 140)  
+Progressed: 35,224 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 1 (0.00%) (Ranked 409)
 | 2024-01-19 | 34,657 | 1 |
 | 2024-01-20 | 34,921 | 1 |
 | 2024-01-21 | 35,178 | 1 |
-| 2024-01-22 | 35,223 | 1 |
+| 2024-01-22 | 35,224 | 1 |
 ## Awards
 Max (Character Customization): 3,626  (Ranked 96)  
 Sum: 8,502 (Ranked 110)  

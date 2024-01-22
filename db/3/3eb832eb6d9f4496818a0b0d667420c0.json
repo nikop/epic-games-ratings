@@ -2,7 +2,7 @@
   "ID": "3eb832eb6d9f4496818a0b0d667420c0",
   "Name": "DNF Duel",
   "ProductSlug": "dnf-duel-07d055",
-  "Ranking_Rating": 849,
+  "Ranking_Rating": 850,
   "Ranking_Popularity": 525,
   "Ranking_PopularitySum": 435,
   "Ranking_EOS_Progress": 49,
@@ -415,9 +415,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 428322,
+  "EOS_Progressed": 428349,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7579,
+  "EOS_NewPlayers": 7584,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4370,6 +4370,11 @@
       "Time": "2024-01-22T06:04:11.6227518+00:00",
       "NumProgressed": 428322,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T07:04:07.0700624+00:00",
+      "NumProgressed": 428349,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4390,7 +4395,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 29983
+      "UsersEstimate": 29984
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4414,7 +4419,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98514
+      "UsersEstimate": 98520
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4438,7 +4443,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111364
+      "UsersEstimate": 111371
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4446,7 +4451,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94231
+      "UsersEstimate": 94237
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4478,7 +4483,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17133
+      "UsersEstimate": 17134
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -4526,7 +4531,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8566
+      "UsersEstimate": 8567
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -4542,7 +4547,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38549
+      "UsersEstimate": 38551
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4590,7 +4595,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34266
+      "UsersEstimate": 34268
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -4598,7 +4603,7 @@
       "Name": "A Raging Madness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8566
+      "UsersEstimate": 8567
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -4614,7 +4619,7 @@
       "Name": "To Greater Heights",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8566
+      "UsersEstimate": 8567
     },
     {
       "ID": "ACHIEVEMENT_031",
@@ -4622,7 +4627,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8566
+      "UsersEstimate": 8567
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -4630,7 +4635,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8566
+      "UsersEstimate": 8567
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -4725,7 +4730,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 428322,
+      "Progressed": 428349,
       "Completed": 4
     }
   ],
@@ -4733,8 +4738,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-22T06:03:05.6637843+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:04:11.6227515+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:04:07.0700622+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:02:24.2404261+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:03:05.6637858+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:04:11.6228033+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:02:59.2562234+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:04:07.0701296+00:00"
 }

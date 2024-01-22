@@ -6,18 +6,18 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~261,958 |
+| Blacksmith's Son | 32.00% | ~261,959 |
 | Cavalier | 26.00% | ~212,841 |
-| Fatso | 23.00% | ~188,282 |
+| Fatso | 23.00% | ~188,283 |
 | Awakening | 21.00% | ~171,910 |
 | Ranger | 20.00% | ~163,724 |
 | Scrooge | 20.00% | ~163,724 |
 | Anorectic | 16.00% | ~130,979 |
 | Firestarter | 16.00% | ~130,979 |
 | Bookworm | 15.00% | ~122,793 |
-| Insomniac | 13.00% | ~106,420 |
-| Buddy | 12.00% | ~98,234 |
-| Thief | 12.00% | ~98,234 |
+| Insomniac | 13.00% | ~106,421 |
+| Buddy | 12.00% | ~98,235 |
+| Thief | 12.00% | ~98,235 |
 | Sinner | 11.00% | ~90,048 |
 | Traveller | 11.00% | ~90,048 |
 | Convict | 10.00% | ~81,862 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~819 |
 | Wingman | 0.10% | ~819 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 818,618 (Ranked 22)  
+Progressed: 818,621 (Ranked 22)  
 Completed: 53 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -366,14 +366,14 @@ Completed: 53 (0.01%) (Ranked 383)
 | 2024-01-19 | 818,242 | 53 |
 | 2024-01-20 | 818,409 | 53 |
 | 2024-01-21 | 818,592 | 53 |
-| 2024-01-22 | 818,618 | 53 |
+| 2024-01-22 | 818,621 | 53 |
 ## Awards
-Max (Character Customization): 7,796  (Ranked 54)  
-Sum: 28,888 (Ranked 50)  
+Max (Character Customization): 7,801  (Ranked 54)  
+Sum: 28,893 (Ranked 50)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 7,796 |
+| This game has Inclusive Character Customization | 7,801 |
 | This game has Great Boss Battles | 5,675 |
 | This game has Challenging Combat | 1,816 |
 | This game has Diverse Characters | 1,785 |
@@ -748,3 +748,4 @@ Diff (max vs sum): 4
 | 2024-01-19 | 4.71 | - | 7,793 | 28,873 |
 | 2024-01-20 | 4.71 | - | 7,796 | 28,881 |
 | 2024-01-21 | 4.71 | - | 7,796 | 28,888 |
+| 2024-01-22 | 4.71 | - | 7,801 | 28,893 |

@@ -3047,9 +3047,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 35223,
+  "EOS_Progressed": 35224,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1554,
+  "EOS_NewPlayers": 1544,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17967,6 +17967,11 @@
       "Time": "2024-01-22T06:09:56.7104305+00:00",
       "NumProgressed": 35223,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T07:09:42.182476+00:00",
+      "NumProgressed": 35224,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -18147,7 +18152,7 @@
       "Name": "Precious!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5283
+      "UsersEstimate": 5284
     },
     {
       "ID": "Achievement_Trophy23",
@@ -18283,7 +18288,7 @@
       "Name": "Just when I thought I was out...",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 6692
+      "UsersEstimate": 6693
     },
     {
       "ID": "Achievement_Trophy40",
@@ -18466,7 +18471,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 35223,
+      "Progressed": 35224,
       "Completed": 1
     }
   ],
@@ -18474,8 +18479,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-21T22:02:52.1894083+00:00",
-  "LastChanged_Achievements": "2024-01-22T06:09:56.7104304+00:00",
+  "LastChanged_Achievements": "2024-01-22T07:09:42.1824758+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:49.3369443+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:02:44.8043387+00:00",
-  "LastUpdate_Achievements": "2024-01-22T06:09:56.7105169+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:02:39.7475803+00:00",
+  "LastUpdate_Achievements": "2024-01-22T07:09:42.1825844+00:00"
 }
