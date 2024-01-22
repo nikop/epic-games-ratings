@@ -28,7 +28,7 @@
 | 26 | [Island Cities](games/i/island_cities.md) | 16.78% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.55% |
+| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.54% |
 | 30 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
@@ -53,7 +53,7 @@
 | 51 | [Jill of the Jungle: The Complete Trilogy](games/j/jill_of_the_jungle__the_complete_trilogy.md) | 7.80% |
 | 52 | [Chants of Sennaar](games/c/chants_of_sennaar.md) | 7.78% |
 | 53 | [Blossom Tales II The Minotaur Prince](games/b/blossom_tales_ii_the_minotaur_prince.md) | 7.69% |
-| 54 | [Ravenlok](games/r/ravenlok.md) | 7.63% |
+| 54 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.41% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
 | 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.24% |
@@ -202,9 +202,9 @@
 | 199 | [The Isle Tide Hotel](games/e/ed8b8463b9a34638b64bb8e5575b8f4e.md) | 0.78% |
 | 201 | [Grand Theft Auto III – The Definitive Edition](games/g/grand_theft_auto_iii_–_the_definitive_edition.md) | 0.76% |
 | 202 | [Airborne Kingdom](games/a/airborne_kingdom.md) | 0.75% |
-| 203 | [Infindustry](games/i/infindustry.md) | 0.74% |
-| 203 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.74% |
-| 203 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.74% |
+| 202 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 0.75% |
+| 204 | [Infindustry](games/i/infindustry.md) | 0.74% |
+| 204 | [Sonic Frontiers](games/5/50809e4c39674f42b649fa127d6796dd.md) | 0.74% |
 | 206 | [TT Isle of Man: Ride on the Edge 3](games/t/tt_isle_of_man__ride_on_the_edge_3_-_pre-purchase.md) | 0.73% |
 | 207 | [Ken Follett's The Pillars of the Earth](games/k/ken_follett's_the_pillars_of_the_earth.md) | 0.69% |
 | 208 | [Botanicula](games/5/5c7501617f3449c5a6eed7590392f9fa.md) | 0.67% |
@@ -251,8 +251,8 @@
 | 247 | [Road 96: Mile 0](games/r/road_96__mile_0.md) | 0.40% |
 | 247 | [Tchia](games/t/tchia.md) | 0.40% |
 | 251 | [Frontier Hunter: Erza's Wheel of Fortune](games/f/frontier_hunter__erza's_wheel_of_fortune.md) | 0.39% |
-| 252 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
-| 252 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
+| 252 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.38% |
+| 253 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
 | 254 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
 | 254 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
 | 256 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.34% |
@@ -348,6 +348,7 @@
 | 346 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
 | 346 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.05% |
 | 346 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 346 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.05% |
 | 346 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.05% |
 | 346 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.05% |
 | 346 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.05% |
@@ -357,12 +358,11 @@
 | 346 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.05% |
 | 346 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
 | 346 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.05% |
-| 358 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.04% |
-| 358 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.04% |
-| 358 | [House Party](games/h/house_party.md) | 0.04% |
-| 358 | [Operation New Earth](games/o/operation_new_earth.md) | 0.04% |
-| 358 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
-| 358 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.04% |
+| 359 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.04% |
+| 359 | [House Party](games/h/house_party.md) | 0.04% |
+| 359 | [Operation New Earth](games/o/operation_new_earth.md) | 0.04% |
+| 359 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 0.04% |
+| 359 | [Transport Fever 2](games/t/transport_fever_2.md) | 0.04% |
 | 364 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.03% |
 | 364 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
 | 364 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
