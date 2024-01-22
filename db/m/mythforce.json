@@ -6,8 +6,8 @@
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 386,
   "Ranking_EOS_Progress": 204,
-  "Ranking_EOS_Completed": 326,
-  "Ranking_EOS_NewPlayers": 193,
+  "Ranking_EOS_Completed": 325,
+  "Ranking_EOS_NewPlayers": 195,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-04-20T15:00:00+00:00",
@@ -878,9 +878,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6447,
+  "EOS_Progressed": 6448,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 92,
+  "EOS_NewPlayers": 90,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -13628,6 +13628,11 @@
       "Time": "2024-01-22T04:05:19.0674139+00:00",
       "NumProgressed": 6447,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-22T16:06:17.7176011+00:00",
+      "NumProgressed": 6448,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13696,7 +13701,7 @@
       "Name": "First Strike",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 1418
+      "UsersEstimate": 1419
     },
     {
       "ID": "MF_Ach_FlawlessVictory",
@@ -13736,7 +13741,7 @@
       "Name": "Horder Better Faster Stronger",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "MF_Ach_KaijuOnTheField",
@@ -13752,7 +13757,7 @@
       "Name": "Mushroom Madness!",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 1547
+      "UsersEstimate": 1548
     },
     {
       "ID": "MF_Ach_NextTimeOnMythForce",
@@ -13823,15 +13828,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6447,
+      "Progressed": 6448,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-21T18:00:55.1150058+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:06:50.4944142+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:06:17.7176005+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:01:18.3020995+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:50.4944999+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:00:55.7563464+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:17.7176644+00:00"
 }

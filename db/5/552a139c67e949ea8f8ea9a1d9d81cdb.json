@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 256,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-10-19T07:00:00+00:00",
     "PcReleaseDate": "2023-10-19T07:00:00+00:00",
@@ -5336,9 +5336,9 @@
       "ID": "ML_ACHIEVEMENT_19",
       "SetID": "5k00jcd",
       "Name": "Well begun\u2026",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 219
+      "UsersEstimate": 239
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -5573,8 +5573,8 @@
   ],
   "FirstSeen": "2023-10-20T01:40:42.3941305+00:00",
   "FirstSeenAchievements": "2023-05-31T16:00:03.0027016+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:06:00.8586014+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:05:30.5449674+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:13.7946639+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:01:52.7359679+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:00.8587046+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:01:27.1313631+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:05:30.5450192+00:00"
 }

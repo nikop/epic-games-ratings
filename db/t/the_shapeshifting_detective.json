@@ -4,8 +4,8 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
     "PcReleaseDate": "2018-11-06T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 344,
+  "EOS_Progressed": 345,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.87,
   "EosHistory": [
@@ -940,6 +940,11 @@
       "Time": "2024-01-22T14:08:39.9263558+00:00",
       "NumProgressed": 344,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-22T16:08:25.9063122+00:00",
+      "NumProgressed": 345,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -991,7 +996,7 @@
       "Name": "Hashtag Winning",
       "Percentage": 37,
       "XP": 90,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "heavy_rayne",
@@ -1007,7 +1012,7 @@
       "Name": "Highlander",
       "Percentage": 17,
       "XP": 35,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "look_mum_im_a_detective",
@@ -1039,7 +1044,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "play_me_by_the_hour",
@@ -1077,17 +1082,17 @@
       "ID": "strong_silent_type",
       "SetID": "2db2j74",
       "Name": "Strong Silent Type",
-      "Percentage": 92,
+      "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 314
     },
     {
       "ID": "the_big_sleep",
       "SetID": "2db2j74",
       "Name": "The Big Sleep",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 90,
-      "UsersEstimate": 14
+      "UsersEstimate": 17
     },
     {
       "ID": "video_saved_the_radio_star",
@@ -1095,7 +1100,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "voyeur",
@@ -1118,7 +1123,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 344,
+      "Progressed": 345,
       "Completed": 3
     }
   ],
@@ -1126,8 +1131,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:08:32.7943198+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:08:25.9063117+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:41.8700165+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:03:42.6010612+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:08:32.7943494+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:03:21.7088853+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:08:25.9063337+00:00"
 }

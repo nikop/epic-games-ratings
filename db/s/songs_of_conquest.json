@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 211,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1274,
+  "EOS_Progressed": 1275,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -4407,6 +4407,11 @@
       "Time": "2024-01-22T15:10:25.836453+00:00",
       "NumProgressed": 1274,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T16:10:10.4828351+00:00",
+      "NumProgressed": 1275,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4563,7 +4568,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 522
+      "UsersEstimate": 523
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4595,7 +4600,7 @@
       "Name": "Infernal Influence",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "KillingSpree",
@@ -4667,7 +4672,7 @@
       "Name": "From the Ashes",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "RanaCampaignFinaleOnHard",
@@ -4779,7 +4784,7 @@
       "Name": "Humiliation",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 127
+      "UsersEstimate": 128
     },
     {
       "ID": "WinBattleWithOneUnitLeft",
@@ -4787,7 +4792,7 @@
       "Name": "Pyrrhic Victory",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WinBattleWithoutAttacking",
@@ -4811,7 +4816,7 @@
       "Name": "Venisti, Vidisti, Perdidisti",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 25
+      "UsersEstimate": 26
     },
     {
       "ID": "WinsWithFactionArleon",
@@ -4850,15 +4855,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1274,
+      "Progressed": 1275,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:10:25.8364524+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:10.4828346+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:00.3632659+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:10:25.836526+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:58:47.7751504+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:10.4828812+00:00"
 }

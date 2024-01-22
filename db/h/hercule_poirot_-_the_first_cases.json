@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 360,
   "Ranking_EOS_Completed": 159,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
     "PcReleaseDate": "2021-09-27T00:00:00+00:00",
@@ -1127,9 +1127,9 @@
       "ID": "ACH_031",
       "SetID": "72imik0",
       "Name": "Angeline Van den Bosch",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 362
+      "UsersEstimate": 367
     },
     {
       "ID": "ACH_032",
@@ -1312,8 +1312,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:09:19.3845346+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:09:09.9285427+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.6494504+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:03:41.2916407+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:09:19.3845824+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:03:20.4993007+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:09.9286057+00:00"
 }

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 197,
-  "Ranking_EOS_NewPlayers": 178,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
@@ -355,7 +355,7 @@
   ],
   "EOS_Progressed": 1173,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 142,
+  "EOS_NewPlayers": 140,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.85,
   "EosHistory": [
@@ -3499,9 +3499,9 @@
       "ID": "ACH_STAT_SPONGE_SMASHER",
       "SetID": "biiejkc",
       "Name": "Sponge Smasher",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 270
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3547,8 +3547,8 @@
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:07:04.7596387+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:06:30.8351074+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:01:26.6315248+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:07:04.7596754+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:01:03.6326529+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:30.8351467+00:00"
 }

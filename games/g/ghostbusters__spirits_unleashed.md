@@ -12,13 +12,13 @@ Rating: 4.51 (Ranked 599)
 | I collect Spores, Molds, and Fungi | 6.00% | ~2,033 |
 | Discovery | 6.00% | ~2,033 |
 | Solo Capture | 6.00% | ~2,033 |
-| Clutch Capture | 5.00% | ~1,694 |
-| Cultured | 5.00% | ~1,694 |
-| Fully Upgraded | 5.00% | ~1,694 |
-| Teamwork | 5.00% | ~1,694 |
-| There you are! | 5.00% | ~1,694 |
-| Vaporous Expansion | 5.00% | ~1,694 |
-| Whoopsie | 5.00% | ~1,694 |
+| Clutch Capture | 5.00% | ~1,695 |
+| Cultured | 5.00% | ~1,695 |
+| Fully Upgraded | 5.00% | ~1,695 |
+| Teamwork | 5.00% | ~1,695 |
+| There you are! | 5.00% | ~1,695 |
+| Vaporous Expansion | 5.00% | ~1,695 |
+| Whoopsie | 5.00% | ~1,695 |
 | Daily Dose | 4.00% | ~1,356 |
 | Ghostbuster In Training | 4.00% | ~1,356 |
 | Right back at ya | 4.00% | ~1,356 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 599)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,888 (Ranked 142)  
+Progressed: 33,891 (Ranked 142)  
 Completed: 71 (0.21%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 71 (0.21%) (Ranked 285)
 | 2024-01-19 | 33,801 | 71 |
 | 2024-01-20 | 33,837 | 71 |
 | 2024-01-21 | 33,868 | 71 |
-| 2024-01-22 | 33,888 | 71 |
+| 2024-01-22 | 33,891 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 329  (Ranked 257)  
 Sum: 2,986 (Ranked 187)  

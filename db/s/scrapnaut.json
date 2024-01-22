@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 338,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 319,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 310,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-03-03T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -156,9 +156,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 681,
+  "EOS_Progressed": 682,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -2386,6 +2386,11 @@
       "Time": "2024-01-22T12:10:32.746065+00:00",
       "NumProgressed": 681,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T16:10:03.8649695+00:00",
+      "NumProgressed": 682,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 31,
@@ -2397,7 +2402,7 @@
       "Name": "Digger",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_ALL_TELEPORTS",
@@ -2429,7 +2434,7 @@
       "Name": "Scrap Master",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "ACH_COLLECT_10_HERBS",
@@ -2475,9 +2480,9 @@
       "ID": "ACH_COLLECT_50_ELECTROSCRAP",
       "SetID": "7c4cldc",
       "Name": "Electro-Scrap Gatherer",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_COLLECT_50_SCRAP",
@@ -2565,7 +2570,7 @@
       "Name": "Prepper",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ACH_MAKE_FUEL",
@@ -2613,7 +2618,7 @@
       "Name": "Survivor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_SURVIVE_20_DAYS",
@@ -2644,7 +2649,7 @@
     {
       "ID": "7c4cldc",
       "IsBase": true,
-      "Progressed": 681,
+      "Progressed": 682,
       "Completed": 4
     }
   ],
@@ -2652,8 +2657,8 @@
   "FirstSeenRating": "2022-08-06T21:32:12.5323827+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.3117413+00:00",
   "LastChanged": "2023-12-17T16:57:21.5175593+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:10:18.5258114+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:03.8649691+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:06.1088777+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:01:27.7869022+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:10:18.5258681+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:01:04.6603785+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:03.8649938+00:00"
 }

@@ -1527,10 +1527,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 1039,
       "NumberOfAwardsMax": 156
+    },
+    {
+      "Time": "2024-01-22T16:00:07.8048715+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 1040,
+      "NumberOfAwardsMax": 156
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1039,
+  "NumberOfAwards": 1040,
   "NumberOfAwardsMax": 156,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1592,7 +1598,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 67
+      "Count": 68
     },
     {
       "Text": "This game is Great for Beginners",
@@ -1601,7 +1607,7 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 14944,
+  "EOS_Progressed": 14946,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 192,
   "EOS_NewCompleters": 1,
@@ -10641,6 +10647,11 @@
       "Time": "2024-01-22T15:10:10.0935905+00:00",
       "NumProgressed": 14944,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-22T16:09:56.0362346+00:00",
+      "NumProgressed": 14946,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 24,
@@ -10676,7 +10687,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8966
+      "UsersEstimate": 8968
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10732,7 +10743,7 @@
       "Name": "Go Home...",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 4184
+      "UsersEstimate": 4185
     },
     {
       "ID": "HeroSlayer",
@@ -10740,7 +10751,7 @@
       "Name": "The Hero Killer",
       "Percentage": 26,
       "XP": 90,
-      "UsersEstimate": 3885
+      "UsersEstimate": 3886
     },
     {
       "ID": "LeoniasFall",
@@ -10780,7 +10791,7 @@
       "Name": "Rescued Elder Ent",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 9116
+      "UsersEstimate": 9117
     },
     {
       "ID": "SavedElderEnt_2",
@@ -10788,7 +10799,7 @@
       "Name": "Quick Movements",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 4483
+      "UsersEstimate": 4484
     },
     {
       "ID": "SkeletonKing",
@@ -10812,7 +10823,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13898
+      "UsersEstimate": 13900
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10820,7 +10831,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 7173
+      "UsersEstimate": 7174
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -10836,22 +10847,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11955
+      "UsersEstimate": 11957
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14944,
+      "Progressed": 14946,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
-  "LastChanged": "2024-01-22T02:59:03.6516572+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:10:10.09359+00:00",
+  "LastChanged": "2024-01-22T16:00:07.8048712+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:09:56.0362344+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:00:25.9674981+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:10:10.0936391+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:00:07.804872+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:56.0362809+00:00"
 }

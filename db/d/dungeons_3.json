@@ -3661,9 +3661,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47651,
+  "EOS_Progressed": 47652,
   "EOS_Completed": 375,
-  "EOS_NewPlayers": 654,
+  "EOS_NewPlayers": 651,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -34541,6 +34541,11 @@
       "Time": "2024-01-22T15:06:44.2160996+00:00",
       "NumProgressed": 47651,
       "NumCompleted": 375
+    },
+    {
+      "Time": "2024-01-22T16:06:11.8380458+00:00",
+      "NumProgressed": 47652,
+      "NumCompleted": 375
     }
   ],
   "TotalAchievements": 60,
@@ -34560,7 +34565,7 @@
       "Name": "No one has to die today!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 21919
+      "UsersEstimate": 21920
     },
     {
       "ID": "ACH_D3_Campaign_Cathedral_Completed",
@@ -34640,7 +34645,7 @@
       "Name": "A trip on sea, what fun it can be",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 16201
+      "UsersEstimate": 16202
     },
     {
       "ID": "ACH_D3_Campaign_DemonStones_1",
@@ -34768,7 +34773,7 @@
       "Name": "The One-Huge-Army-Building Evil",
       "Percentage": 40,
       "XP": 5,
-      "UsersEstimate": 19060
+      "UsersEstimate": 19061
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_2",
@@ -34776,7 +34781,7 @@
       "Name": "Hands off the Dungeonheart!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 17154
+      "UsersEstimate": 17155
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_Completed",
@@ -34880,7 +34885,7 @@
       "Name": "For a handfull of Catapults",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 13342
+      "UsersEstimate": 13343
     },
     {
       "ID": "ACH_D3_Campaign_Ritual_1",
@@ -34928,7 +34933,7 @@
       "Name": "Damned good",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -34936,7 +34941,7 @@
       "Name": "Death and destruction!",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 21919
+      "UsersEstimate": 21920
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_2",
@@ -35024,22 +35029,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12389
+      "UsersEstimate": 12390
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47651,
+      "Progressed": 47652,
       "Completed": 375
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-22T09:00:41.7824263+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:06:44.2160992+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:06:11.8380453+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.3456906+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:02:49.2875447+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:44.216292+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:02:31.5608402+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:11.8382545+00:00"
 }

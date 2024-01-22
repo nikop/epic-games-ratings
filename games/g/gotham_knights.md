@@ -5,8 +5,8 @@ Rating: 4.19 (Ranked 982)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,584 |
-| Har, Har, Har, Very Funny | 34.00% | ~28,277 |
+| First Step Into the Knight | 50.00% | ~41,585 |
+| Har, Har, Har, Very Funny | 34.00% | ~28,278 |
 | Loose Ends | 33.00% | ~27,446 |
 | To the Victor Go the Spoils | 27.00% | ~22,456 |
 | Knighthood | 26.00% | ~21,624 |
@@ -23,8 +23,8 @@ Rating: 4.19 (Ranked 982)
 | The Show Mud Go On | 17.00% | ~14,139 |
 | From Inside Gotham's Walls | 17.00% | ~14,139 |
 | Protector of Gotham | 16.00% | ~13,307 |
-| In Your Element | 15.00% | ~12,475 |
-| Universal Health Scare | 15.00% | ~12,475 |
+| In Your Element | 15.00% | ~12,476 |
+| Universal Health Scare | 15.00% | ~12,476 |
 | Rock and a Hard Place | 14.00% | ~11,644 |
 | Cooldown | 14.00% | ~11,644 |
 | Voiceless | 14.00% | ~11,644 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 982)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,169 (Ranked 111)  
+Progressed: 83,170 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,19 +344,19 @@ Completed: 135 (0.16%) (Ranked 296)
 | 2024-01-19 | 83,031 | 135 |
 | 2024-01-20 | 83,086 | 135 |
 | 2024-01-21 | 83,148 | 135 |
-| 2024-01-22 | 83,169 | 135 |
+| 2024-01-22 | 83,170 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,243  (Ranked 102)  
-Sum: 5,543 (Ranked 145)  
+Sum: 5,545 (Ranked 145)  
 Diff (max vs sum): -43  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 3,243 |
 | This game is Great for Beginners | 296 |
 | This game has Diverse Characters | 294 |
+| This game is Extremely Fun | 293 |
 | This game is Relaxing | 292 |
 | This game has Quickly Understood Controls | 291 |
-| This game is Extremely Fun | 291 |
 | This game has Amazing Characters | 281 |
 | This game has Amazing Storytelling | 279 |
 | This game is Highly Recommended | 276 |
@@ -694,4 +694,4 @@ Diff (max vs sum): -43
 | 2024-01-19 | 4.19 | 3,232 | 5,523 |
 | 2024-01-20 | 4.19 | 3,237 | 5,530 |
 | 2024-01-21 | 4.19 | 3,237 | 5,534 |
-| 2024-01-22 | 4.19 | 3,243 | 5,543 |
+| 2024-01-22 | 4.19 | 3,243 | 5,545 |

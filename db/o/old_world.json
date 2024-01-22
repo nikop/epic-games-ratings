@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17100,
+  "EOS_Progressed": 17102,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 240,
+  "EOS_NewPlayers": 236,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20774,6 +20774,11 @@
       "Time": "2024-01-22T15:11:20.3454063+00:00",
       "NumProgressed": 17100,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T16:11:00.7836774+00:00",
+      "NumProgressed": 17102,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -20975,9 +20980,9 @@
       "ID": "ACHIEVEMENT_CARTHAGE_2",
       "SetID": "9201eeb",
       "Name": "Carthage - Riches and Influence",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 51
     },
     {
       "ID": "ACHIEVEMENT_CARTHAGE_2_BRONZE",
@@ -21647,9 +21652,9 @@
       "ID": "ACHIEVEMENT_FAMILYCLASS_LANDOWNERS",
       "SetID": "7l38kb8",
       "Name": "Landowners",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_FAMILYCLASS_PATRONS",
@@ -23648,21 +23653,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17100,
+      "Progressed": 17102,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17100,
+      "Progressed": 17102,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:11:20.3454058+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:11:00.7836767+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:00.5501738+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:11:20.3465424+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:58:47.9558287+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:11:00.7847679+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 162,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4584,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8923,9 +8923,9 @@
       "ID": "achievement_103",
       "SetID": "d252ncf",
       "Name": "Untouchable",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 871
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_104",
@@ -9027,9 +9027,9 @@
       "ID": "achievement_115",
       "SetID": "d252ncf",
       "Name": "Last Resort",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 642
+      "UsersEstimate": 688
     },
     {
       "ID": "achievement_116",
@@ -9299,9 +9299,9 @@
       "ID": "achievement_31",
       "SetID": "b9pe172",
       "Name": "Spectre Inductee",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3071
     },
     {
       "ID": "achievement_32",
@@ -9483,9 +9483,9 @@
       "ID": "achievement_52",
       "SetID": "d252ncf",
       "Name": "Battlemaster",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1054
     },
     {
       "ID": "achievement_53",
@@ -9911,8 +9911,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:11:18.7072671+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:59.2446808+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:03:59.1604102+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:11:18.7074384+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:03:36.8505221+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:59.2448537+00:00"
 }

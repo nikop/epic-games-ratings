@@ -16,20 +16,20 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Soldier | 0.60% | ~6,343 |
 | Legend of The Afterlife | 0.60% | ~6,343 |
 | Bushido and Chill | 0.50% | ~5,286 |
+| Gun Fu | 0.50% | ~5,286 |
 | Stanislavski's Method | 0.50% | ~5,286 |
 | The Fool | 0.50% | ~5,286 |
 | The Lovers | 0.50% | ~5,286 |
 | The World | 0.50% | ~5,286 |
 | All the President's Men | 0.50% | ~929 |
 | Arachnophobia | 0.50% | ~929 |
-| Gun Fu | 0.40% | ~4,229 |
 | Master Crafter | 0.40% | ~4,229 |
 | I Am The Law | 0.40% | ~4,229 |
 | The Quick and the Dead | 0.40% | ~4,229 |
 | True Warrior | 0.40% | ~4,229 |
 | Judy vs Night City | 0.40% | ~4,229 |
-| To Protect and Serve | 0.30% | ~3,171 |
-| Two Heads, One Bullet | 0.30% | ~3,171 |
+| To Protect and Serve | 0.30% | ~3,172 |
+| Two Heads, One Bullet | 0.30% | ~3,172 |
 | Spin Doctor | 0.30% | ~557 |
 | To Bad Decisions! | 0.20% | ~2,114 |
 | The Wandering Fool | 0.20% | ~2,114 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,152 (Ranked 17)  
+Progressed: 1,057,173 (Ranked 17)  
 Completed: 3,147 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 3,147 (0.30%) (Ranked 265)
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
-| 2024-01-22 | 1,057,152 | 3,147 |
+| 2024-01-22 | 1,057,173 | 3,147 |
 ## Awards
 Max (Character Customization): 143,675  (Ranked 8)  
 Sum: 513,353 (Ranked 8)  

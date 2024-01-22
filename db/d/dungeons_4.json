@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 79,
-  "Ranking_EOS_NewPlayers": 306,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -101,11 +101,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 783,
+  "EOS_Progressed": 784,
   "EOS_Completed": 37,
   "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 4.73,
+  "EOS_Completed_Percentage": 4.72,
   "EosHistory": [
     {
       "Time": "2023-11-09T19:14:40.2664678+00:00",
@@ -2606,6 +2606,11 @@
       "Time": "2024-01-22T09:09:51.9637734+00:00",
       "NumProgressed": 783,
       "NumCompleted": 37
+    },
+    {
+      "Time": "2024-01-22T16:10:10.667788+00:00",
+      "NumProgressed": 784,
+      "NumCompleted": 37
     }
   ],
   "AchievementsAdded": "2023-11-07T12:05:38.3005436+00:00",
@@ -2618,7 +2623,7 @@
       "Name": "The Last Stand",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "ach_main01begin_die",
@@ -2626,7 +2631,7 @@
       "Name": "Thalya\u00A0\u2013 Simply Immortal",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 689
+      "UsersEstimate": 690
     },
     {
       "ID": "ach_main01begin_storm",
@@ -2640,9 +2645,9 @@
       "ID": "ach_main02horde_completed",
       "SetID": "4hg22ll",
       "Name": "Hammer Time, Round Two",
-      "Percentage": 81,
+      "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 634
+      "UsersEstimate": 627
     },
     {
       "ID": "ach_main02horde_creatures",
@@ -2650,7 +2655,7 @@
       "Name": "For the Horde!",
       "Percentage": 82,
       "XP": 20,
-      "UsersEstimate": 642
+      "UsersEstimate": 643
     },
     {
       "ID": "ach_main02horde_traps",
@@ -2658,7 +2663,7 @@
       "Name": "Trap Master",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ach_main03demon_completed",
@@ -2666,7 +2671,7 @@
       "Name": "The Hellwoods",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ach_main03demon_doors",
@@ -2674,7 +2679,7 @@
       "Name": "Master of Magic",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 485
+      "UsersEstimate": 486
     },
     {
       "ID": "ach_main03demon_spells",
@@ -2682,7 +2687,7 @@
       "Name": "Magic Accidents",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 454
+      "UsersEstimate": 455
     },
     {
       "ID": "ach_main04undead_completed",
@@ -2714,7 +2719,7 @@
       "Name": "Bad Elves Go Everywhere",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 548
+      "UsersEstimate": 549
     },
     {
       "ID": "ach_main05evil_thalyalevel",
@@ -2730,7 +2735,7 @@
       "Name": "Unicorn steaks\u00A0\u2013 fresh off the hoof!",
       "Percentage": 63,
       "XP": 20,
-      "UsersEstimate": 493
+      "UsersEstimate": 494
     },
     {
       "ID": "ach_main06transporter_completed",
@@ -2754,15 +2759,15 @@
       "Name": "YOU SHALL NOT PASS!",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 399
+      "UsersEstimate": 400
     },
     {
       "ID": "ach_main07storm_classified",
       "SetID": "4hg22ll",
       "Name": "Hard Work",
-      "Percentage": 56,
+      "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 438
+      "UsersEstimate": 431
     },
     {
       "ID": "ach_main07storm_completed",
@@ -2778,7 +2783,7 @@
       "Name": "Pure Dynamite!",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ach_main07storm_storm",
@@ -2794,7 +2799,7 @@
       "Name": "The Big Eaty",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "ach_main08sacrifice_gorguattack",
@@ -2826,7 +2831,7 @@
       "Name": "Dungeonlord Gorgu",
       "Percentage": 46,
       "XP": 20,
-      "UsersEstimate": 360
+      "UsersEstimate": 361
     },
     {
       "ID": "ach_main09journey_nospells",
@@ -2930,7 +2935,7 @@
       "Name": "Bonus Evilness",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ach_main14run_completed",
@@ -2938,7 +2943,7 @@
       "Name": "If Looks Could Kill",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "ach_main14run_mirroruses",
@@ -2954,15 +2959,15 @@
       "Name": "Laser Eyes Are So Useless",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_main15drill_completed",
       "SetID": "4hg22ll",
       "Name": "The Finitude Drill",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 282
     },
     {
       "ID": "ach_main15drill_sabotage",
@@ -2986,7 +2991,7 @@
       "Name": "Doom Hill",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "ach_main16ring_lavalings",
@@ -3050,7 +3055,7 @@
       "Name": "To Infinity And Beyond!",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 164
+      "UsersEstimate": 165
     },
     {
       "ID": "ach_main19war_completed",
@@ -3058,7 +3063,7 @@
       "Name": "The Rune Sockets of Finitude (Part 2)",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ach_main19war_heal",
@@ -3074,7 +3079,7 @@
       "Name": "Hands Off My Stones",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 117
+      "UsersEstimate": 118
     },
     {
       "ID": "ach_main20end_completed",
@@ -3105,7 +3110,7 @@
     {
       "ID": "4hg22ll",
       "IsBase": true,
-      "Progressed": 783,
+      "Progressed": 784,
       "Completed": 37
     }
   ],
@@ -3113,8 +3118,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:10:25.9120939+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:10.6677875+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:58:18.9302187+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:10:25.912144+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:58:08.7822981+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:10.667844+00:00"
 }

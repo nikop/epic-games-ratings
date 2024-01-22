@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5511,9 +5511,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 24133,
+  "EOS_Progressed": 24134,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 265,
+  "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17531,6 +17531,11 @@
       "Time": "2024-01-22T15:09:29.5735158+00:00",
       "NumProgressed": 24133,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T16:09:19.3838453+00:00",
+      "NumProgressed": 24134,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17543,7 +17548,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8205
+      "UsersEstimate": 8206
     },
     {
       "ID": "ach02",
@@ -17567,7 +17572,7 @@
       "Name": "What Just Happened??",
       "Percentage": 31,
       "XP": 50,
-      "UsersEstimate": 7481
+      "UsersEstimate": 7482
     },
     {
       "ID": "ach05",
@@ -17583,7 +17588,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16410
+      "UsersEstimate": 16411
     },
     {
       "ID": "ach07",
@@ -17591,7 +17596,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11101
+      "UsersEstimate": 11102
     },
     {
       "ID": "ach08",
@@ -17751,7 +17756,7 @@
       "Name": "So Krafty",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "ach28",
@@ -17759,7 +17764,7 @@
       "Name": "Feeling Stronger",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 6033
+      "UsersEstimate": 6034
     },
     {
       "ID": "ach29",
@@ -17839,7 +17844,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8205
+      "UsersEstimate": 8206
     },
     {
       "ID": "ach39",
@@ -17935,14 +17940,14 @@
       "Name": "Witness Me!!!",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 7481
+      "UsersEstimate": 7482
     }
   ],
   "AchievementSets": [
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24133,
+      "Progressed": 24134,
       "Completed": 2
     }
   ],
@@ -17950,8 +17955,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-22T13:10:56.5758858+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:09:29.5735152+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:09:19.3838449+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:03:22.7561299+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:09:29.5736256+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:03:02.643019+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:19.3839394+00:00"
 }

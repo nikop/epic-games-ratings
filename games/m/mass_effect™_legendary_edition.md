@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Distinguished Service Medal | 90.00% | ~4,126 |
-| Spectre Inductee | 66.00% | ~3,025 |
+| Spectre Inductee | 67.00% | ~3,071 |
 | Medal of Exploration I | 56.00% | ~2,567 |
 | Recruit | 53.00% | ~2,430 |
 | Search and Rescue | 51.00% | ~2,338 |
@@ -49,6 +49,7 @@
 | The Quarian | 24.00% | ~1,100 |
 | The Prodigal | 24.00% | ~1,100 |
 | A Personal Touch | 23.00% | ~1,054 |
+| Battlemaster | 23.00% | ~1,054 |
 | Catharsis | 23.00% | ~1,054 |
 | Fade Away | 23.00% | ~1,054 |
 | Ghost of the Father | 23.00% | ~1,054 |
@@ -58,7 +59,6 @@
 | Heart of Darkness | 23.00% | ~1,054 |
 | Bringer of War | 23.00% | ~1,054 |
 | Shopaholic | 23.00% | ~1,054 |
-| Battlemaster | 22.00% | ~1,008 |
 | Treason | 22.00% | ~1,008 |
 | Big Game Hunter | 22.00% | ~1,008 |
 | Digital Exorcist | 22.00% | ~1,008 |
@@ -68,12 +68,12 @@
 | Cat's in the Cradle | 21.00% | ~963 |
 | Doppelganger | 21.00% | ~963 |
 | Mobilizer | 21.00% | ~963 |
+| Untouchable | 20.00% | ~917 |
 | Completionist | 20.00% | ~917 |
 | Mission Accomplished | 20.00% | ~917 |
 | Suicide Mission | 20.00% | ~917 |
 | Against All Odds | 20.00% | ~917 |
 | Agent | 20.00% | ~917 |
-| Untouchable | 19.00% | ~871 |
 | Eye of the Hurricane | 19.00% | ~871 |
 | Giant Killer | 19.00% | ~871 |
 | A House Divided | 19.00% | ~871 |
@@ -88,12 +88,12 @@
 | Party Crasher | 16.00% | ~733 |
 | Lost and Found | 16.00% | ~733 |
 | Under Pressure | 15.00% | ~688 |
+| Last Resort | 15.00% | ~688 |
 | Paramour II | 15.00% | ~688 |
 | Hard Target | 15.00% | ~688 |
 | Saboteur | 15.00% | ~688 |
 | Fact Finder | 15.00% | ~688 |
 | Problem Solver | 15.00% | ~688 |
-| Last Resort | 14.00% | ~642 |
 | No One Left Behind | 14.00% | ~642 |
 | Last Witness | 14.00% | ~642 |
 | Well Connected | 14.00% | ~642 |

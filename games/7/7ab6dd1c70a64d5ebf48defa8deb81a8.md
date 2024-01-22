@@ -31,8 +31,8 @@ Rating: 4.19 (Ranked 982)
 | Clear Sight | 6.00% | ~146 |
 | Shatterer | 6.00% | ~146 |
 | Fine Feathers Make Fine Birds | 6.00% | ~146 |
+| Slayer | 4.00% | ~97 |
 | A Queen's Tale | 4.00% | ~97 |
-| Slayer | 3.00% | ~73 |
 | Flawless Victory | 3.00% | ~73 |
 | All There Is | 3.00% | ~73 |
 | False God | 3.00% | ~73 |

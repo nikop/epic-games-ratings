@@ -1,27 +1,27 @@
 # Terraforming Mars
 [Store](https://store.epicgames.com/en-US/p/terraforming-mars-18c3ad)  
 [View Rawdata](../../db/t/terraforming_mars.json)  
-Rating: 4.53 (Ranked 572)  
+Rating: 4.53 (Ranked 571)  
 Number of Ratings: 2,731  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It's a steal! | 37.00% | ~33,851 |
-| Final touch | 33.00% | ~30,191 |
-| Prop-M Rover | 32.00% | ~29,276 |
-| Changing the Planet | 28.00% | ~25,617 |
-| Sojourner | 26.00% | ~23,787 |
-| New Home | 23.00% | ~21,042 |
-| Beagle 2 | 23.00% | ~21,042 |
+| It's a steal! | 37.00% | ~33,852 |
+| Final touch | 33.00% | ~30,192 |
+| Prop-M Rover | 32.00% | ~29,277 |
+| Changing the Planet | 28.00% | ~25,618 |
+| Sojourner | 26.00% | ~23,788 |
+| New Home | 23.00% | ~21,043 |
+| Beagle 2 | 23.00% | ~21,043 |
 | Winner Winner Terraformer | 20.00% | ~18,298 |
 | Project Manager | 19.00% | ~17,383 |
 | Collector | 19.00% | ~17,383 |
-| Curiosity | 18.00% | ~16,468 |
-| Master | 18.00% | ~16,468 |
-| No Longer Red | 17.00% | ~15,553 |
-| Self-sufficient | 17.00% | ~15,553 |
-| Money money | 15.00% | ~13,723 |
-| First Journey | 14.00% | ~12,808 |
+| Curiosity | 18.00% | ~16,469 |
+| Master | 18.00% | ~16,469 |
+| No Longer Red | 17.00% | ~15,554 |
+| Self-sufficient | 17.00% | ~15,554 |
+| Money money | 15.00% | ~13,724 |
+| First Journey | 14.00% | ~12,809 |
 | Biggest Reward | 13.00% | ~11,894 |
 | Acquired knowledge | 12.00% | ~10,979 |
 | Landlord | 11.00% | ~10,064 |
@@ -37,7 +37,7 @@ Number of Ratings: 2,731  (23.09.2022)
 | Opportunity | 3.00% | ~2,745 |
 | Team Effort | 2.00% | ~1,830 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 91,489 (Ranked 107)  
+Progressed: 91,492 (Ranked 107)  
 Completed: 186 (0.20%) (Ranked 288)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -314,10 +314,10 @@ Completed: 186 (0.20%) (Ranked 288)
 | 2024-01-19 | 91,157 | 185 |
 | 2024-01-20 | 91,306 | 185 |
 | 2024-01-21 | 91,446 | 185 |
-| 2024-01-22 | 91,489 | 186 |
+| 2024-01-22 | 91,492 | 186 |
 ## Awards
 Max (Relaxing): 545  (Ranked 219)  
-Sum: 3,360 (Ranked 181)  
+Sum: 3,361 (Ranked 181)  
 Diff (max vs sum): 38  
 | Award | Count |
 | ----- | ----- |
@@ -326,7 +326,7 @@ Diff (max vs sum): 38
 | This game has Quickly Understood Controls | 484 |
 | This game is Extremely Fun | 479 |
 | This game has Competitive Players | 473 |
-| This game has Amazing Storytelling | 381 |
+| This game has Amazing Storytelling | 382 |
 | This game has Obsessive Gameplay | 334 |
 | This game has a Competitive Community | 266 |
 | This game has Amazing Characters | 207 |
@@ -596,4 +596,4 @@ Diff (max vs sum): 38
 | 2024-01-18 | 4.53 | - | 545 | 3,352 |
 | 2024-01-19 | 4.53 | - | 545 | 3,356 |
 | 2024-01-21 | 4.53 | - | 545 | 3,359 |
-| 2024-01-22 | 4.53 | - | 545 | 3,360 |
+| 2024-01-22 | 4.53 | - | 545 | 3,361 |

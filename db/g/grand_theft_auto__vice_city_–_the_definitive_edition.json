@@ -2,12 +2,12 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 571,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 165,
+  "Ranking_EOS_NewPlayers": 164,
   "Ranking_EOS_NewCompleters": 36,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1074,7 +1074,7 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16636,
+  "EOS_Progressed": 16637,
   "EOS_Completed": 109,
   "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 9,
@@ -18814,6 +18814,11 @@
       "Time": "2024-01-22T14:10:21.2189282+00:00",
       "NumProgressed": 16636,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-22T16:10:38.593212+00:00",
+      "NumProgressed": 16637,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18929,7 +18934,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7153
+      "UsersEstimate": 7154
     },
     {
       "ID": "ACH15",
@@ -19096,7 +19101,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16636,
+      "Progressed": 16637,
       "Completed": 109
     }
   ],
@@ -19104,8 +19109,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:10:56.1514433+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:38.5932113+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
   "LastUpdate_Ratings": "2024-01-22T15:02:44.1723613+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:10:56.1515583+00:00"
+  "LastUpdate_Achievements": "2024-01-22T16:10:38.5933517+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "4d8b727a49144090b103f6b6ba471e71",
   "Name": "Hundred Days - Winemaking Simulator",
   "ProductSlug": "hundred-days-winemaking-simulator",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 835,
   "Ranking_Popularity": 299,
   "Ranking_PopularitySum": 231,
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21747,
+  "EOS_Progressed": 21750,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 895,
+  "EOS_NewPlayers": 890,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18218,6 +18218,11 @@
       "Time": "2024-01-22T15:10:44.0701175+00:00",
       "NumProgressed": 21747,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-22T16:10:27.6546967+00:00",
+      "NumProgressed": 21750,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18278,7 +18283,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9569
+      "UsersEstimate": 9570
     },
     {
       "ID": "a_19",
@@ -18294,7 +18299,7 @@
       "Name": "Ostinata",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "a_20",
@@ -18334,7 +18339,7 @@
       "Name": "Better than nothing?",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "a_26",
@@ -18374,7 +18379,7 @@
       "Name": "King of red wines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "a_31",
@@ -18382,7 +18387,7 @@
       "Name": "King of white wines",
       "Percentage": 0.2,
       "XP": 20,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "a_32",
@@ -18430,7 +18435,7 @@
       "Name": "King of Langhe",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "a_5",
@@ -18446,7 +18451,7 @@
       "Name": "Gem of Monferrato",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 217
+      "UsersEstimate": 218
     },
     {
       "ID": "a_7",
@@ -18477,7 +18482,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21747,
+      "Progressed": 21750,
       "Completed": 13
     }
   ],
@@ -18485,8 +18490,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:10:44.070117+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:27.6546961+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:00:07.5804846+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:10:44.0702392+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:49.1487139+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:27.6548019+00:00"
 }

@@ -5,40 +5,40 @@ Rating: 4.54 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,900 |
-| Hotel California | 10.00% | ~80,818 |
-| Break A Leg | 9.00% | ~72,737 |
-| Coup de Grâce | 8.00% | ~64,655 |
-| Hazardous Materials | 8.00% | ~64,655 |
-| Git Gutte! | 7.00% | ~56,573 |
-| Apex Predator | 7.00% | ~56,573 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,573 |
-| Dr. Reed, I Presume? | 6.00% | ~48,491 |
-| Bookworm | 6.00% | ~48,491 |
-| Friends Like These | 6.00% | ~48,491 |
-| Stacking the Deck | 6.00% | ~48,491 |
-| This is My Weapon | 6.00% | ~48,491 |
-| Anger Management | 5.00% | ~40,409 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,409 |
-| But Doctor, I am Butcho | 5.00% | ~40,409 |
-| Can't Handle the Truth | 5.00% | ~40,409 |
-| Like Riding a Bike | 5.00% | ~40,409 |
-| Making Your Mark | 4.00% | ~32,327 |
-| Perks of the Job | 4.00% | ~32,327 |
-| Slayer Squad | 4.00% | ~32,327 |
-| Zombologist | 4.00% | ~32,327 |
-| Ooh, Shiny! | 4.00% | ~32,327 |
-| A Patton Emerges | 4.00% | ~32,327 |
-| I Am the Resurrection | 4.00% | ~32,327 |
-| Our True Nature | 4.00% | ~32,327 |
-| Whatever It Takes | 4.00% | ~5,349 |
-| Pork Chopped | 4.00% | ~5,349 |
+| Welcome To Hell-A | 11.00% | ~88,904 |
+| Hotel California | 10.00% | ~80,822 |
+| Break A Leg | 9.00% | ~72,739 |
+| Coup de Grâce | 8.00% | ~64,657 |
+| Hazardous Materials | 8.00% | ~64,657 |
+| Git Gutte! | 7.00% | ~56,575 |
+| Apex Predator | 7.00% | ~56,575 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,575 |
+| Dr. Reed, I Presume? | 6.00% | ~48,493 |
+| Bookworm | 6.00% | ~48,493 |
+| Friends Like These | 6.00% | ~48,493 |
+| Stacking the Deck | 6.00% | ~48,493 |
+| This is My Weapon | 6.00% | ~48,493 |
+| Anger Management | 5.00% | ~40,411 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,411 |
+| But Doctor, I am Butcho | 5.00% | ~40,411 |
+| Can't Handle the Truth | 5.00% | ~40,411 |
+| Like Riding a Bike | 5.00% | ~40,411 |
+| Making Your Mark | 4.00% | ~32,329 |
+| Perks of the Job | 4.00% | ~32,329 |
+| Slayer Squad | 4.00% | ~32,329 |
+| Zombologist | 4.00% | ~32,329 |
+| Ooh, Shiny! | 4.00% | ~32,329 |
+| A Patton Emerges | 4.00% | ~32,329 |
+| I Am the Resurrection | 4.00% | ~32,329 |
+| Our True Nature | 4.00% | ~32,329 |
+| Whatever It Takes | 4.00% | ~5,350 |
+| Pork Chopped | 4.00% | ~5,350 |
 | Jumbo Keyring | 3.00% | ~24,246 |
 | Humanity Distilled | 3.00% | ~24,246 |
 | Down with the Sickness | 3.00% | ~24,246 |
 | Max Headroom | 3.00% | ~24,246 |
 | Go, Bobcats! | 3.00% | ~24,246 |
-| One of Us | 3.00% | ~4,012 |
+| One of Us | 3.00% | ~4,013 |
 | Smorgasbord | 2.00% | ~16,164 |
 | Not Even My Final Form | 2.00% | ~16,164 |
 | Internet Famous | 2.00% | ~16,164 |
@@ -51,13 +51,13 @@ Rating: 4.54 (Ranked 552)
 | Gore Horse | 1.00% | ~8,082 |
 | Sharpest Tool in the Box | 1.00% | ~8,082 |
 | Survival Skills | 0.60% | ~4,849 |
-| Top That, Tisha! | 0.60% | ~802 |
+| Top That, Tisha! | 0.60% | ~803 |
 | Donk! | 0.40% | ~3,233 |
 | Lawn and Order | 0.30% | ~401 |
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,184 (Ranked 23)  
+Progressed: 808,215 (Ranked 23)  
 Completed: 2,622 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,16 +334,16 @@ Completed: 2,622 (0.32%) (Ranked 261)
 | 2024-01-19 | 806,486 | 2,606 |
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
-| 2024-01-22 | 808,184 | 2,622 |
+| 2024-01-22 | 808,215 | 2,622 |
 ## Awards
 Max (Great Boss Battles): 10,811  (Ranked 40)  
-Sum: 16,623 (Ranked 68)  
+Sum: 16,626 (Ranked 68)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 10,811 |
 | This game is Great for Beginners | 851 |
-| This game has Diverse Characters | 797 |
+| This game has Diverse Characters | 800 |
 | This game has Quickly Understood Controls | 752 |
 | This game is Relaxing | 712 |
 | This game has Amazing Storytelling | 707 |
@@ -629,4 +629,4 @@ Diff (max vs sum): -28
 | 2024-01-19 | 4.54 | 10,659 | 16,370 |
 | 2024-01-20 | 4.54 | 10,713 | 16,454 |
 | 2024-01-21 | 4.54 | 10,767 | 16,552 |
-| 2024-01-22 | 4.54 | 10,811 | 16,623 |
+| 2024-01-22 | 4.54 | 10,811 | 16,626 |

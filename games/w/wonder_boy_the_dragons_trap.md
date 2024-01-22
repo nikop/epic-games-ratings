@@ -1,12 +1,12 @@
 # Wonder Boy The Dragons Trap
 [Store](https://store.epicgames.com/en-US/p/wonder-boy-the-dragons-trap-26381d)  
 [View Rawdata](../../db/w/wonder_boy_the_dragons_trap.json)  
-Rating: 4.43 (Ranked 733)  
+Rating: 4.43 (Ranked 734)  
 Number of Ratings: 3,047  (23.09.2022)  
 ## Awards
-Max (Relaxing): 59  (Ranked 438)  
+Max (Relaxing): 59  (Ranked 439)  
 Sum: 392 (Ranked 363)  
-Diff (max vs sum): 75  
+Diff (max vs sum): 76  
 | Award | Count |
 | ----- | ----- |
 | This game is Relaxing | 59 |

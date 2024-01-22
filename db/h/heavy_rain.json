@@ -3,12 +3,12 @@
   "Name": "Heavy Rain",
   "ProductSlug": "heavy-rain",
   "Ranking_Rating": 475,
-  "Ranking_Popularity": 430,
-  "Ranking_PopularitySum": 502,
+  "Ranking_Popularity": 431,
+  "Ranking_PopularitySum": 503,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2019-06-24T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -549,6 +549,6 @@
   "FirstSeen": "2022-07-22T20:17:18.3925162+00:00",
   "LastChanged": "2024-01-20T19:01:26.6308137+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:25.8380961+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:02:58.0769076+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:07:24.4498708+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:02:39.7083373+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:49.2437304+00:00"
 }

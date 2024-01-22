@@ -25,7 +25,7 @@
 | Lost | 9.00% | ~20 |
 | An act of courage | 7.00% | ~15 |
 | All knowing | 7.00% | ~15 |
-| Corruption | 5.00% | ~11 |
+| Corruption | 6.00% | ~13 |
 | An act of mercy | 4.00% | ~9 |
 | An act of compassion | 3.00% | ~7 |
 | Ad Infinitum | 0.90% | ~2 |

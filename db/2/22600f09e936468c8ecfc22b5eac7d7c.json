@@ -2,13 +2,13 @@
   "ID": "22600f09e936468c8ecfc22b5eac7d7c",
   "Name": "Prince of Persia The Lost Crown",
   "ProductSlug": "prince-of-persia-the-lost-crown",
-  "Ranking_Rating": 99,
-  "Ranking_Popularity": 465,
-  "Ranking_PopularitySum": 520,
+  "Ranking_Rating": 92,
+  "Ranking_Popularity": 403,
+  "Ranking_PopularitySum": 486,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-01-18T05:00:00+00:00",
     "PcReleaseDate": "2024-01-18T05:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.79,
+  "Rating": 4.8,
   "RatingHistory": [
     {
       "Time": "2024-01-19T10:59:44.5935854+00:00",
@@ -91,18 +91,24 @@
       "Rating": 4.79,
       "NumberOfAwards": 50,
       "NumberOfAwardsMax": 50
+    },
+    {
+      "Time": "2024-01-22T16:01:17.9993097+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 84,
+      "NumberOfAwardsMax": 84
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 50,
-  "NumberOfAwardsMax": 50,
+  "NumberOfAwards": 84,
+  "NumberOfAwardsMax": 84,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 50
+      "Count": 84
     }
   ],
   "EOS_Progressed": 0,
@@ -117,8 +123,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-18T05:58:12.1267938+00:00",
   "FirstSeenRating": "2024-01-19T10:59:44.5935852+00:00",
-  "LastChanged": "2024-01-22T09:59:54.7247824+00:00",
+  "LastChanged": "2024-01-22T16:01:17.9993095+00:00",
   "LastUpdate_AppInfo": "2024-01-16T10:56:56.7768068+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:01:42.7422775+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:59.3535057+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:01:17.99931+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:25.8219654+00:00"
 }

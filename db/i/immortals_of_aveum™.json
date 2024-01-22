@@ -2,13 +2,13 @@
   "ID": "33a47f9b76374045b7da20af80c40aa1",
   "Name": "Immortals of Aveum\u2122",
   "ProductSlug": "immortals-of-aveum",
-  "Ranking_Rating": 973,
+  "Ranking_Rating": 972,
   "Ranking_Popularity": 565,
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 185,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -6237,9 +6237,9 @@
       "ID": "achievement_26",
       "SetID": "18al4io",
       "Name": "Scholar",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 143
+      "UsersEstimate": 179
     },
     {
       "ID": "achievement_3",
@@ -6486,8 +6486,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:11:06.5266431+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:48.0592436+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:57:49.6483424+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:11:06.526736+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:57:41.2755011+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:48.0592926+00:00"
 }

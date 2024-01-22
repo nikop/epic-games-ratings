@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -911,9 +911,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244677,
+  "EOS_Progressed": 244688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1161,
+  "EOS_NewPlayers": 1156,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22196,6 +22196,11 @@
       "Time": "2024-01-22T15:11:02.5063677+00:00",
       "NumProgressed": 244677,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T16:10:44.4606984+00:00",
+      "NumProgressed": 244688,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22240,7 +22245,7 @@
       "Name": "Bridge of Sighs Completed",
       "Percentage": 0.8,
       "XP": 35,
-      "UsersEstimate": 1957
+      "UsersEstimate": 1958
     },
     {
       "ID": "HW1_MISSION15_COMPLETE",
@@ -22264,7 +22269,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51382
+      "UsersEstimate": 51384
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22272,7 +22277,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 22021
+      "UsersEstimate": 22022
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -22288,7 +22293,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9787
+      "UsersEstimate": 9788
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -22304,7 +22309,7 @@
       "Name": "Diamond Shoals Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7340
+      "UsersEstimate": 7341
     },
     {
       "ID": "HW1_MISSION7_COMPLETE",
@@ -22312,7 +22317,7 @@
       "Name": "The Gardens of Kadesh Completed",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 7340
+      "UsersEstimate": 7341
     },
     {
       "ID": "HW1_MISSION8_COMPLETE",
@@ -22392,7 +22397,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34255
+      "UsersEstimate": 34256
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -22400,7 +22405,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 17127
+      "UsersEstimate": 17128
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -22464,7 +22469,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61169
+      "UsersEstimate": 61172
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22479,7 +22484,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244677,
+      "Progressed": 244688,
       "Completed": 0
     }
   ],
@@ -22487,8 +22492,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-20T14:02:38.8696493+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:11:02.5063671+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:44.4606982+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:58:28.7998108+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:11:02.506519+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:58:17.5133807+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:44.460785+00:00"
 }

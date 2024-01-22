@@ -6,10 +6,10 @@ Number of Ratings: 8,414  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Until death do us apart | 0.70% | ~3,526 |
-| That's a Grand Army | 0.60% | ~3,022 |
-| That is mine! | 0.60% | ~3,022 |
-| Victorious! | 0.60% | ~3,022 |
+| Until death do us apart | 0.70% | ~3,527 |
+| That's a Grand Army | 0.60% | ~3,023 |
+| That is mine! | 0.60% | ~3,023 |
+| Victorious! | 0.60% | ~3,023 |
 | That's a Grand Navy | 0.50% | ~2,519 |
 | Seriously?! | 0.50% | ~2,519 |
 | Brothers in Arms | 0.40% | ~2,015 |
@@ -18,17 +18,17 @@ Number of Ratings: 8,414  (23.09.2022)
 | For the Glory | 0.30% | ~1,511 |
 | It's all about the money | 0.30% | ~1,511 |
 | True Catholic | 0.30% | ~1,511 |
-| Aggressive Expander | 0.20% | ~1,007 |
-| Blockader | 0.20% | ~1,007 |
-| Combined Arms | 0.20% | ~1,007 |
-| Double the Love | 0.20% | ~1,007 |
-| It's all about luck | 0.20% | ~1,007 |
-| My armies are invincible! | 0.20% | ~1,007 |
-| Respected | 0.20% | ~1,007 |
-| Royal Authority | 0.20% | ~1,007 |
-| The Princess is in this Castle | 0.20% | ~1,007 |
-| Total Control | 0.20% | ~1,007 |
-| Truly Divine Ruler | 0.20% | ~1,007 |
+| Aggressive Expander | 0.20% | ~1,008 |
+| Blockader | 0.20% | ~1,008 |
+| Combined Arms | 0.20% | ~1,008 |
+| Double the Love | 0.20% | ~1,008 |
+| It's all about luck | 0.20% | ~1,008 |
+| My armies are invincible! | 0.20% | ~1,008 |
+| Respected | 0.20% | ~1,008 |
+| Royal Authority | 0.20% | ~1,008 |
+| The Princess is in this Castle | 0.20% | ~1,008 |
+| Total Control | 0.20% | ~1,008 |
+| Truly Divine Ruler | 0.20% | ~1,008 |
 | The 52 Garhs | 0.10% | ~504 |
 | I don't like sand | 0.10% | ~504 |
 | A Blessed Nation | 0.10% | ~504 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~504 |
 | The Zoro-Austrians | 0.10% | ~504 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503,747 (Ranked 42)  
+Progressed: 503,795 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,7 +647,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-19 | 501,958 | 2 |
 | 2024-01-20 | 502,741 | 2 |
 | 2024-01-21 | 503,481 | 2 |
-| 2024-01-22 | 503,747 | 2 |
+| 2024-01-22 | 503,795 | 2 |
 ## Awards
 Max (Educational): 7,940  (Ranked 53)  
 Sum: 65,484 (Ranked 25)  

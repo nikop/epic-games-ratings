@@ -123,7 +123,7 @@
   "Tags": [],
   "EOS_Progressed": 2429,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 90,
+  "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5124,9 +5124,9 @@
       "ID": "ACH_19",
       "SetID": "efe2lj",
       "Name": "Slayer",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 60,
-      "UsersEstimate": 73
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_20",
@@ -5277,8 +5277,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:11:08.9923164+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:50.4573889+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:00:24.6509871+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:11:08.9923765+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:00:06.1916875+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:50.4574276+00:00"
 }

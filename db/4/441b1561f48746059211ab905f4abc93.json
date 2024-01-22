@@ -4,8 +4,8 @@
   "ProductSlug": "fishing-planet-87df68",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
     "PcReleaseDate": "2015-08-11T00:00:00+00:00",
@@ -28,9 +28,171 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-22T16:06:23.6308178+00:00",
+  "TotalAchievements": 20,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "ACH_F2P_ALMOST_THERE",
+      "SetID": "bhfkccp",
+      "Name": "Almost There!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_BASS_MASTER",
+      "SetID": "bhfkccp",
+      "Name": "Bass Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_CAPTAIN_ROWER",
+      "SetID": "bhfkccp",
+      "Name": "Captain Rower",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_CARP_MASTER",
+      "SetID": "bhfkccp",
+      "Name": "Carp Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_CATFISH_MASTER",
+      "SetID": "bhfkccp",
+      "Name": "Catfish Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_CRAPPIE_MASTER",
+      "SetID": "bhfkccp",
+      "Name": "Crappie Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_FISHY_KAYAKER",
+      "SetID": "bhfkccp",
+      "Name": "Fishy Kayaker",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_NIGHT_SHIFT",
+      "SetID": "bhfkccp",
+      "Name": "Night Shift",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_PANFISH_OVERLORD",
+      "SetID": "bhfkccp",
+      "Name": "Panfish Overlord",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_PARTAKER",
+      "SetID": "bhfkccp",
+      "Name": "Partaker",
+      "Percentage": 0,
+      "XP": 70,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_PIKE_MASTER",
+      "SetID": "bhfkccp",
+      "Name": "Pike Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_QUALIFIED_WINNER",
+      "SetID": "bhfkccp",
+      "Name": "Qualified Winner",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_SALMON_MASTER",
+      "SetID": "bhfkccp",
+      "Name": "Salmon Master",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_TIGHT_LINES",
+      "SetID": "bhfkccp",
+      "Name": "Tight Lines!",
+      "Percentage": 0,
+      "XP": 10,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_TROPHY_COLLECTOR",
+      "SetID": "bhfkccp",
+      "Name": "Trophy Collector",
+      "Percentage": 0,
+      "XP": 80,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_TROUT_MASTER",
+      "SetID": "bhfkccp",
+      "Name": "Trout Master",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_UNIQUE_GAINER",
+      "SetID": "bhfkccp",
+      "Name": "Unique Gainer",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_WALLEYE_CHIEF",
+      "SetID": "bhfkccp",
+      "Name": "Walleye Chief",
+      "Percentage": 0,
+      "XP": 30,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_WINNING_STREAK",
+      "SetID": "bhfkccp",
+      "Name": "Winning Streak",
+      "Percentage": 0,
+      "XP": 100,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "ACH_F2P_YOURE_IN",
+      "SetID": "bhfkccp",
+      "Name": "You\u0027re in!",
+      "Percentage": 0,
+      "XP": 50,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "bhfkccp",
@@ -40,8 +202,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-11T10:03:10.8867409+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:06:56.9241037+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:06:23.6308157+00:00",
   "LastUpdate_AppInfo": "2024-01-18T09:57:56.8932402+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:00:17.2371457+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:56.9241072+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:58.5052525+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:23.6335132+00:00"
 }

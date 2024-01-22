@@ -3,9 +3,9 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 326,
+  "Ranking_EOS_Completed": 325,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8145,
+  "EOS_Progressed": 8148,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 0,
@@ -3304,6 +3304,11 @@
       "Time": "2024-01-22T15:09:11.1994112+00:00",
       "NumProgressed": 8145,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-22T16:09:02.093538+00:00",
+      "NumProgressed": 8148,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -3347,7 +3352,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -3379,7 +3384,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3665
+      "UsersEstimate": 3667
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3403,7 +3408,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4154
+      "UsersEstimate": 4155
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3411,7 +3416,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 2199
+      "UsersEstimate": 2200
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3419,7 +3424,7 @@
       "Name": "The Invisible Man",
       "Percentage": 16,
       "XP": 100,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "ACH_THE_MIRACLE",
@@ -3427,7 +3432,7 @@
       "Name": "The Miracle",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 814
+      "UsersEstimate": 815
     },
     {
       "ID": "ACH_WE_WILL_ROCK_YOU",
@@ -3442,7 +3447,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8145,
+      "Progressed": 8148,
       "Completed": 7
     }
   ],
@@ -3450,8 +3455,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:09:11.1994107+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:09:02.0935375+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:03:03.8289836+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:09:11.1994412+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:02:44.6853888+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:02.0935635+00:00"
 }

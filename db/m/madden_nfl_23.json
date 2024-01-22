@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 213,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 187,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-08-19T04:00:00+00:00",
     "PcReleaseDate": "2022-08-19T04:00:00+00:00",
@@ -1051,9 +1051,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4539,
+  "EOS_Progressed": 4540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 109,
+  "EOS_NewPlayers": 108,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9111,6 +9111,11 @@
       "Time": "2024-01-22T07:08:39.9061203+00:00",
       "NumProgressed": 4539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T16:09:01.928681+00:00",
+      "NumProgressed": 4540,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -9139,7 +9144,7 @@
       "Name": "Future of the Franchise",
       "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 862
+      "UsersEstimate": 863
     },
     {
       "ID": "achievement_12",
@@ -9155,7 +9160,7 @@
       "Name": "Big Spender",
       "Percentage": 52,
       "XP": 60,
-      "UsersEstimate": 2360
+      "UsersEstimate": 2361
     },
     {
       "ID": "achievement_14",
@@ -9179,7 +9184,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1452
+      "UsersEstimate": 1453
     },
     {
       "ID": "achievement_17",
@@ -9290,7 +9295,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4539,
+      "Progressed": 4540,
       "Completed": 0
     }
   ],
@@ -9298,8 +9303,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-21T01:56:27.488858+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:09:11.0902739+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:09:01.9286804+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.6554152+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:24.7610617+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:09:11.0903347+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:09.8430088+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:01.9287338+00:00"
 }

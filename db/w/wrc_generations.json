@@ -4,11 +4,11 @@
   "ProductSlug": "wrc-11-fia-world-rally-championship-f0749b",
   "Ranking_Rating": 644,
   "Ranking_Popularity": 546,
-  "Ranking_PopularitySum": 518,
+  "Ranking_PopularitySum": 519,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-11-03T09:00:00+00:00",
     "PcReleaseDate": "2022-11-03T09:00:00+00:00",
@@ -498,6 +498,6 @@
   "FirstSeenRating": "2022-11-09T14:57:20.1169919+00:00",
   "LastChanged": "2024-01-13T18:57:33.1717979+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.0126186+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:20.1180599+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:09:37.2352053+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:06.0020324+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:26.1426248+00:00"
 }

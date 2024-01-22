@@ -6,19 +6,19 @@ Number of Ratings: 546  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,898 |
-| What should I buy? | 80.00% | ~11,955 |
-| Rescued Elder Ent | 61.00% | ~9,116 |
-| Focus! | 60.00% | ~8,966 |
-| The End of the Gold Mane Knights | 48.00% | ~7,173 |
+| The Legend Begins | 93.00% | ~13,900 |
+| What should I buy? | 80.00% | ~11,957 |
+| Rescued Elder Ent | 61.00% | ~9,117 |
+| Focus! | 60.00% | ~8,968 |
+| The End of the Gold Mane Knights | 48.00% | ~7,174 |
 | False Goddess, Disappear | 40.00% | ~5,978 |
 | Rules of Etiquette | 38.00% | ~5,679 |
 | Inventory Management | 33.00% | ~4,932 |
 | The Fall of the Leonia Order | 31.00% | ~4,633 |
-| Quick Movements | 30.00% | ~4,483 |
-| Go Home... | 28.00% | ~4,184 |
+| Quick Movements | 30.00% | ~4,484 |
+| Go Home... | 28.00% | ~4,185 |
 | The Final Battle of the First Hero | 27.00% | ~4,035 |
-| The Hero Killer | 26.00% | ~3,885 |
+| The Hero Killer | 26.00% | ~3,886 |
 | Brain at Full Throttle | 20.00% | ~2,989 |
 | Rookies Welcome | 18.00% | ~2,690 |
 | Deadly Power | 16.00% | ~2,391 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~149 |
 | Cold-Blooded | 0.60% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,944 (Ranked 176)  
+Progressed: 14,946 (Ranked 176)  
 Completed: 23 (0.15%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 23 (0.15%) (Ranked 299)
 | 2024-01-19 | 14,875 | 22 |
 | 2024-01-20 | 14,893 | 22 |
 | 2024-01-21 | 14,922 | 22 |
-| 2024-01-22 | 14,944 | 23 |
+| 2024-01-22 | 14,946 | 23 |
 ## Awards
 Max (Diverse Characters): 156  (Ranked 333)  
-Sum: 1,039 (Ranked 274)  
+Sum: 1,040 (Ranked 274)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -302,7 +302,7 @@ Diff (max vs sum): 59
 | This game has Quickly Understood Controls | 115 |
 | This game has Amazing Storytelling | 97 |
 | This game has Amazing Characters | 88 |
-| This game has a Creative Community | 67 |
+| This game has a Creative Community | 68 |
 | This game has Challenging Combat | 51 |
 | This game has Playful Visuals | 45 |
 ## Ratings History
@@ -490,4 +490,4 @@ Diff (max vs sum): 59
 | 2024-01-18 | 4.75 | - | 155 | 1,035 |
 | 2024-01-19 | 4.75 | - | 156 | 1,037 |
 | 2024-01-20 | 4.75 | - | 156 | 1,038 |
-| 2024-01-22 | 4.74 | - | 156 | 1,039 |
+| 2024-01-22 | 4.74 | - | 156 | 1,040 |

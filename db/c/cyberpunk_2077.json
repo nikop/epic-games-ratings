@@ -18902,9 +18902,9 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1057152,
+  "EOS_Progressed": 1057173,
   "EOS_Completed": 3147,
-  "EOS_NewPlayers": 5113,
+  "EOS_NewPlayers": 5085,
   "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50662,6 +50662,11 @@
       "Time": "2024-01-22T15:09:36.6151254+00:00",
       "NumProgressed": 1057152,
       "NumCompleted": 3147
+    },
+    {
+      "Time": "2024-01-22T16:09:25.5733503+00:00",
+      "NumProgressed": 1057173,
+      "NumCompleted": 3147
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50714,7 +50719,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "Fortuneteller",
@@ -50744,9 +50749,9 @@
       "ID": "GunKata",
       "SetID": "47clieb",
       "Name": "Gun Fu",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4229
+      "UsersEstimate": 5286
     },
     {
       "ID": "Gunslinger",
@@ -50986,7 +50991,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "UnderPressure",
@@ -51209,21 +51214,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057152,
+      "Progressed": 1057173,
       "Completed": 3147
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185775,
-      "Completed": 10679
+      "Progressed": 185796,
+      "Completed": 10681
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-22T15:03:45.7877454+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:09:36.615125+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:09:25.5733498+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:03:45.7877461+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:09:36.6153783+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:03:24.5099802+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:25.5735326+00:00"
 }

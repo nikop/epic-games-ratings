@@ -1,7 +1,7 @@
 # Grand Theft Auto III – The Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/grand-theft-auto-iii-the-definitive-edition)  
 [View Rawdata](../../db/g/grand_theft_auto_iii_–_the_definitive_edition.json)  
-Rating: 4.21 (Ranked 967)  
+Rating: 4.20 (Ranked 972)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -432,3 +432,4 @@ Completed: 95 (0.76%) (Ranked 201)
 | 2024-01-15 | 4.23 | 0 | 0 |
 | 2024-01-16 | 4.22 | 0 | 0 |
 | 2024-01-21 | 4.21 | 0 | 0 |
+| 2024-01-22 | 4.20 | 0 | 0 |

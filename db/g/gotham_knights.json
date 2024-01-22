@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewPlayers": 139,
   "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5361,10 +5361,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5543,
       "NumberOfAwardsMax": 3243
+    },
+    {
+      "Time": "2024-01-22T15:59:53.4620513+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5545,
+      "NumberOfAwardsMax": 3243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5543,
+  "NumberOfAwards": 5545,
   "NumberOfAwardsMax": 3243,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5414,7 +5420,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 291
+      "Count": 293
     },
     {
       "Text": "This game has Diverse Characters",
@@ -5429,9 +5435,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83169,
+  "EOS_Progressed": 83170,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 363,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31174,6 +31180,11 @@
       "Time": "2024-01-22T15:04:44.4488299+00:00",
       "NumProgressed": 83169,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-22T16:04:18.3481381+00:00",
+      "NumProgressed": 83170,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31273,7 +31284,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12475
+      "UsersEstimate": 12476
     },
     {
       "ID": "CHALLENGES_1",
@@ -31489,7 +31500,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28277
+      "UsersEstimate": 28278
     },
     {
       "ID": "HARLEY_2",
@@ -31513,7 +31524,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12475
+      "UsersEstimate": 12476
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31529,7 +31540,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41584
+      "UsersEstimate": 41585
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31672,22 +31683,22 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83169,
+      "Progressed": 83170,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53449,
+      "Progressed": 53450,
       "Completed": 2680
     }
   ],
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-22T04:59:53.7141721+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:04:44.4488293+00:00",
+  "LastChanged": "2024-01-22T15:59:53.462051+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:04:18.3481378+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:00:11.8101889+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:04:44.4489801+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:53.4620519+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:04:18.3482876+00:00"
 }

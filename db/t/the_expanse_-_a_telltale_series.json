@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19230,
+  "EOS_Progressed": 19231,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 189,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18006,6 +18006,11 @@
       "Time": "2024-01-22T15:06:30.970806+00:00",
       "NumProgressed": 19230,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-22T16:05:59.72583+00:00",
+      "NumProgressed": 19231,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18120,9 +18125,9 @@
       "ID": "21",
       "SetID": "458bbdk",
       "Name": "Drone Dodger",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2692
     },
     {
       "ID": "22",
@@ -18226,7 +18231,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2884
+      "UsersEstimate": 2885
     },
     {
       "ID": "7",
@@ -18297,13 +18302,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19230,
+      "Progressed": 19231,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5184,
+      "Progressed": 5185,
       "Completed": 1382
     }
   ],
@@ -18311,8 +18316,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-21T06:58:34.7730339+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:06:30.9708054+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:05:59.7258297+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:21.8797247+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:30.9709247+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:07.574781+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:05:59.7259238+00:00"
 }

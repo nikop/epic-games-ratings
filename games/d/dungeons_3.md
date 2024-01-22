@@ -10,24 +10,24 @@ Number of Ratings: 1,635  (23.09.2022)
 | The Evilest Evil | 58.00% | ~27,638 |
 | Twistram is devastated | 58.00% | ~27,638 |
 | The Gehenna Stones | 49.00% | ~23,349 |
-| No one has to die today! | 46.00% | ~21,919 |
-| Death and destruction! | 46.00% | ~21,919 |
+| No one has to die today! | 46.00% | ~21,920 |
+| Death and destruction! | 46.00% | ~21,920 |
 | The Swamplanders from the swamplands | 43.00% | ~20,490 |
 | Rusty Steel | 41.00% | ~19,537 |
-| The One-Huge-Army-Building Evil | 40.00% | ~19,060 |
+| The One-Huge-Army-Building Evil | 40.00% | ~19,061 |
 | The last burger | 37.00% | ~17,631 |
 | Braiiiiins! | 37.00% | ~17,631 |
-| Hands off the Dungeonheart! | 36.00% | ~17,154 |
-| A trip on sea, what fun it can be | 34.00% | ~16,201 |
-| Damned good | 32.00% | ~15,248 |
+| Hands off the Dungeonheart! | 36.00% | ~17,155 |
+| A trip on sea, what fun it can be | 34.00% | ~16,202 |
+| Damned good | 32.00% | ~15,249 |
 | Stock Market Crash | 31.00% | ~14,772 |
 | Factory farming | 31.00% | ~14,772 |
 | Shadow hunter | 29.00% | ~13,819 |
 | Not-So-Overproud | 29.00% | ~13,819 |
-| For a handfull of Catapults | 28.00% | ~13,342 |
+| For a handfull of Catapults | 28.00% | ~13,343 |
 | Thirst quencher | 27.00% | ~12,866 |
 | Ogre Solo! | 27.00% | ~12,866 |
-| Tide Master | 26.00% | ~12,389 |
+| Tide Master | 26.00% | ~12,390 |
 | Difficult family relationships | 25.00% | ~11,913 |
 | Destroy the thing | 25.00% | ~11,913 |
 | MASS-O-BOT | 24.00% | ~11,436 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~953 |
 | Sacrifices! | 2.00% | ~953 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,651 (Ranked 128)  
+Progressed: 47,652 (Ranked 128)  
 Completed: 375 (0.79%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 375 (0.79%) (Ranked 198)
 | 2024-01-19 | 47,362 | 373 |
 | 2024-01-20 | 47,479 | 374 |
 | 2024-01-21 | 47,606 | 375 |
-| 2024-01-22 | 47,651 | 375 |
+| 2024-01-22 | 47,652 | 375 |
 ## Awards
 Max (Great for Beginners): 402  (Ranked 242)  
 Sum: 2,859 (Ranked 192)  

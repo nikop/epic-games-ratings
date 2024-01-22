@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 217,
   "Ranking_EOS_Completed": 275,
   "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-03-07T12:00:00+00:00",
     "PcReleaseDate": "2023-03-07T12:00:00+00:00",
@@ -685,9 +685,9 @@
       "Count": 31
     }
   ],
-  "EOS_Progressed": 4330,
+  "EOS_Progressed": 4331,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 43,
+  "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -9925,6 +9925,11 @@
       "Time": "2024-01-22T15:10:48.245998+00:00",
       "NumProgressed": 4330,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-22T16:10:31.5229005+00:00",
+      "NumProgressed": 4331,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 71,
@@ -10008,7 +10013,7 @@
       "Name": "Strategist",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_1_MEETING_RESISTANCE",
@@ -10016,7 +10021,7 @@
       "Name": "Meeting Resistance",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 2035
+      "UsersEstimate": 2036
     },
     {
       "ID": "REWARD_20_MASTER_OF_PISTOLS",
@@ -10144,7 +10149,7 @@
       "Name": "Lord of War",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1342
+      "UsersEstimate": 1343
     },
     {
       "ID": "REWARD_36_DIE_NUSSKNACKER_SWEET",
@@ -10160,7 +10165,7 @@
       "Name": "Resourceful",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "REWARD_38_DER_GEIST",
@@ -10184,7 +10189,7 @@
       "Name": "The Kraken Wakes",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1645
+      "UsersEstimate": 1646
     },
     {
       "ID": "REWARD_40_CLOSE_QUARTERS",
@@ -10240,7 +10245,7 @@
       "Name": "Tinkerer",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_4_INDUSTRIAL_ESPIONAGE",
@@ -10256,7 +10261,7 @@
       "Name": "It\u0027ll Buff Right Out",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_56_SMOOTH_OPERATOR",
@@ -10288,7 +10293,7 @@
       "Name": "Road Rage",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_67_NO_ASSISTANCE",
@@ -10296,7 +10301,7 @@
       "Name": "Don\u0027t hold your breath",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 216
+      "UsersEstimate": 217
     },
     {
       "ID": "REWARD_6_BIG_GAME_HUNTER",
@@ -10328,7 +10333,7 @@
       "Name": "Target America",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1212
+      "UsersEstimate": 1213
     },
     {
       "ID": "REWARD_83_SHOOT_FOR_THE_MOON",
@@ -10503,13 +10508,13 @@
     {
       "ID": "83mdf7p",
       "IsBase": false,
-      "Progressed": 4281,
+      "Progressed": 4282,
       "Completed": 15
     },
     {
       "ID": "bm6el81",
       "IsBase": true,
-      "Progressed": 4330,
+      "Progressed": 4331,
       "Completed": 11
     }
   ],
@@ -10517,8 +10522,8 @@
   "FirstSeenRating": "2023-03-27T02:57:24.3255679+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.1376845+00:00",
   "LastChanged": "2024-01-21T18:57:40.5550274+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:10:48.2459975+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:31.5229+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.7375711+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:57:54.6640195+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:10:48.2461085+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:57:46.6782526+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:31.5229864+00:00"
 }

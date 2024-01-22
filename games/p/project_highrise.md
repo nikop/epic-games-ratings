@@ -4,8 +4,8 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In the Black | 54.00% | ~289 |
-| Starting Skyward | 48.00% | ~257 |
+| In the Black | 54.00% | ~290 |
+| Starting Skyward | 48.00% | ~258 |
 | Grime is Not Good | 41.00% | ~220 |
 | Floor Galore | 36.00% | ~193 |
 | Campaign Launch | 35.00% | ~188 |
@@ -13,28 +13,28 @@
 | Need a Consult | 33.00% | ~177 |
 | Upgrade Unlock | 32.00% | ~172 |
 | It's Technical | 32.00% | ~172 |
-| Proper Walls | 29.00% | ~155 |
-| Delegate Maintenance | 29.00% | ~155 |
+| Proper Walls | 28.00% | ~150 |
+| Delegate Maintenance | 28.00% | ~150 |
 | Destination Destiny | 28.00% | ~150 |
-| Happy Tenants | 23.00% | ~123 |
+| Happy Tenants | 23.00% | ~124 |
 | Your Prestige is Rising | 22.00% | ~118 |
 | Potent Potables | 22.00% | ~118 |
 | Smooth Service | 22.00% | ~118 |
 | Retail Revenue | 21.00% | ~113 |
 | Don't Feel a Loan | 20.00% | ~107 |
-| Artfully Done | 18.00% | ~96 |
-| People Mover | 18.00% | ~96 |
-| Leveled Up Shops | 18.00% | ~96 |
-| We Don't Need No Education | 18.00% | ~96 |
+| Artfully Done | 18.00% | ~97 |
+| People Mover | 18.00% | ~97 |
+| Leveled Up Shops | 18.00% | ~97 |
+| We Don't Need No Education | 18.00% | ~97 |
 | Lux Living | 17.00% | ~91 |
 | Emporium Empire | 17.00% | ~91 |
 | Get Electrified | 17.00% | ~91 |
 | Tasty Profits | 16.00% | ~86 |
-| Rehab Expert | 15.00% | ~80 |
-| Established Fame | 15.00% | ~80 |
+| Rehab Expert | 15.00% | ~81 |
+| Established Fame | 15.00% | ~81 |
 | Under One Roof | 13.00% | ~70 |
-| Starred Dining | 13.00% | ~70 |
 | Cashflow Chief | 13.00% | ~70 |
+| Starred Dining | 12.00% | ~64 |
 | Smooth Operator | 11.00% | ~59 |
 | Boutique Benefits | 11.00% | ~59 |
 | Thrilled Tenants | 11.00% | ~59 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536 (Ranked 357)  
+Progressed: 537 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,7 +231,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 533 | 0 |
 | 2024-01-19 | 534 | 0 |
 | 2024-01-20 | 535 | 0 |
-| 2024-01-22 | 536 | 0 |
+| 2024-01-22 | 537 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 335,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 391,
+  "EOS_Progressed": 392,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1634,6 +1634,11 @@
       "Time": "2024-01-19T18:09:06.1137934+00:00",
       "NumProgressed": 391,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T16:09:37.2865707+00:00",
+      "NumProgressed": 392,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1652,9 +1657,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 129
     },
     {
       "ID": "AnomalyMaster",
@@ -1732,9 +1737,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 141
+      "UsersEstimate": 137
     },
     {
       "ID": "AstralSeeker",
@@ -1838,7 +1843,7 @@
       "Name": "Can\u0027t touch this",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CriticalTwist",
@@ -1870,7 +1875,7 @@
       "Name": "Dicesmithing Time!",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "EndlessTricks",
@@ -1878,7 +1883,7 @@
       "Name": "Endless Tricks",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 203
+      "UsersEstimate": 204
     },
     {
       "ID": "EridanianChampionAchievement",
@@ -1910,7 +1915,7 @@
       "Name": "Favored by the Cosmos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "Gottatinkeremall",
@@ -1932,9 +1937,9 @@
       "ID": "HeavyPurger",
       "SetID": "1jeo1g7",
       "Name": "Heavy Purger",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 47
+      "UsersEstimate": 43
     },
     {
       "ID": "IfIHadFailed",
@@ -1988,9 +1993,9 @@
       "ID": "MechanicalBuddy",
       "SetID": "1jeo1g7",
       "Name": "Mechanical Buddy",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 5,
-      "UsersEstimate": 293
+      "UsersEstimate": 290
     },
     {
       "ID": "MeissasSavior",
@@ -1998,7 +2003,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 332
+      "UsersEstimate": 333
     },
     {
       "ID": "MindIlluminator",
@@ -2070,7 +2075,7 @@
       "Name": "Purification Pioneer",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ReflexiveMind",
@@ -2102,7 +2107,7 @@
       "Name": "Sanctuary Guardian",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 219
+      "UsersEstimate": 220
     },
     {
       "ID": "Sentinelphobic",
@@ -2142,7 +2147,7 @@
       "Name": "Star Killer",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "StellarDismantler",
@@ -2150,7 +2155,7 @@
       "Name": "Stellar Dismantler",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "StellarHaste",
@@ -2246,7 +2251,7 @@
       "Name": "Unbeatable",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "UnepicHero",
@@ -2429,14 +2434,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 391,
+      "Progressed": 392,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:09:49.3041698+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:09:37.2865703+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.6848498+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:58:42.567772+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:09:49.3042595+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:58:31.3291431+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:37.286678+00:00"
 }

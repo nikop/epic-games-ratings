@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 66,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 54,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-03-31T15:00:00+00:00",
     "PcReleaseDate": "2022-03-31T15:00:00+00:00",
@@ -2317,9 +2317,9 @@
       "Count": 115
     }
   ],
-  "EOS_Progressed": 297773,
+  "EOS_Progressed": 297786,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2498,
+  "EOS_NewPlayers": 2504,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -34152,6 +34152,11 @@
       "Time": "2024-01-22T15:05:22.7287246+00:00",
       "NumProgressed": 297773,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T16:04:54.8827936+00:00",
+      "NumProgressed": 297786,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 39,
@@ -34281,9 +34286,9 @@
       "ID": "ACHIEVEMENT_16",
       "SetID": "83b4cpd",
       "Name": "Ready Steady Score",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 20,
-      "UsersEstimate": 1787
+      "UsersEstimate": 2085
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -34323,7 +34328,7 @@
       "Name": "I Found it!",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 5955
+      "UsersEstimate": 5956
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -34474,21 +34479,21 @@
     {
       "ID": "83b4cpd",
       "IsBase": true,
-      "Progressed": 297773,
+      "Progressed": 297786,
       "Completed": 0
     },
     {
       "ID": "5ld4kno",
       "IsBase": false,
-      "Progressed": 15932,
+      "Progressed": 15945,
       "Completed": 595
     }
   ],
   "FirstSeen": "2022-07-22T20:17:22.6209808+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.9751583+00:00",
   "LastChanged": "2024-01-20T21:03:25.8968423+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:05:22.7287241+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:04:54.8827932+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.8694902+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:04:02.6439374+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:05:22.7289007+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:03:40.0177292+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:04:54.8829983+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 967,
+  "Ranking_Rating": 972,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 180,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 177,
-  "Ranking_EOS_NewCompleters": 56,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-02-24T19:57:59.6714906+00:00",
@@ -721,6 +721,12 @@
       "Rating": 4.21,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-22T15:57:04.964626+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -729,7 +735,7 @@
   "Tags": [],
   "EOS_Progressed": 12496,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 154,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -16561,9 +16567,9 @@
   "FirstSeen": "2023-02-16T16:58:44.0672808+00:00",
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
-  "LastChanged": "2024-01-21T22:00:08.0795157+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:07:28.3331842+00:00",
+  "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:06:52.8717908+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:57:11.8030073+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:07:28.3333127+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:57:04.9646263+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:52.8718819+00:00"
 }

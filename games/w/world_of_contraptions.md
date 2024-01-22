@@ -11,7 +11,7 @@
 | Easy group | 5.00% | ~20 |
 | First hard level | 2.00% | ~8 |
 | Medium group | 1.00% | ~4 |
-| First extreme level | 0.50% | ~2 |
+| First extreme level | 0.70% | ~3 |
 | Hard group | 0.20% | ~1 |
 | Mountain for amateurs | 0.20% | ~1 |
 | Easy group with gold stars | 0.00% | ~0 |

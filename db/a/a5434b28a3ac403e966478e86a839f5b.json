@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 304,
   "Ranking_EOS_Completed": 167,
-  "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-10T17:00:00+00:00",
     "PcReleaseDate": "1997-12-09T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 992,
+  "EOS_Progressed": 993,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.21,
   "EosHistory": [
@@ -3531,6 +3531,11 @@
       "Time": "2024-01-22T06:04:11.571385+00:00",
       "NumProgressed": 992,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-22T16:05:03.4327228+00:00",
+      "NumProgressed": 993,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-22T21:07:10.642553+00:00",
@@ -3549,9 +3554,9 @@
       "ID": "ACH_eou1",
       "SetID": "51of0eo",
       "Name": "Establish Communications",
-      "Percentage": 53,
+      "Percentage": 52,
       "XP": 50,
-      "UsersEstimate": 526
+      "UsersEstimate": 516
     },
     {
       "ID": "ACH_eou2",
@@ -3559,7 +3564,7 @@
       "Name": "Destroy Strogg Logistical Train",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "ACH_eou3",
@@ -3575,7 +3580,7 @@
       "Name": "Navigate the Mines",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_eou5",
@@ -3583,7 +3588,7 @@
       "Name": "Shut Down Processing Plant",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "ACH_eou6",
@@ -3599,7 +3604,7 @@
       "Name": "Destroy the Big Gun",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_eou8",
@@ -3623,7 +3628,7 @@
       "Name": "Shut Down the Core",
       "Percentage": 7,
       "XP": 120,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "ACH_rogue",
@@ -3646,7 +3651,7 @@
     {
       "ID": "51of0eo",
       "IsBase": true,
-      "Progressed": 992,
+      "Progressed": 993,
       "Completed": 12
     }
   ],
@@ -3654,8 +3659,8 @@
   "FirstSeenRating": "2024-01-20T20:58:07.6381528+00:00",
   "FirstSeenAchievements": "2023-08-10T18:02:11.7504047+00:00",
   "LastChanged": "2024-01-20T20:58:07.6381528+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:05:31.6261745+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:05:03.4327225+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:04.0887382+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:40.0495117+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:05:31.626207+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:24.7203062+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:05:03.4327519+00:00"
 }

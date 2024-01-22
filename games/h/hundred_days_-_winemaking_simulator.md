@@ -1,19 +1,19 @@
 # Hundred Days - Winemaking Simulator
 [Store](https://store.epicgames.com/en-US/p/hundred-days-winemaking-simulator)  
 [View Rawdata](../../db/h/hundred_days_-_winemaking_simulator.json)  
-Rating: 4.35 (Ranked 836)  
+Rating: 4.35 (Ranked 835)  
 Number of Ratings: 7,669  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bye Bye | 44.00% | ~9,569 |
+| Bye Bye | 44.00% | ~9,570 |
 | It's a good start | 10.00% | ~2,175 |
 | Bonjour! | 8.00% | ~1,740 |
 | Quack | 8.00% | ~1,740 |
 | The Assistant | 6.00% | ~1,305 |
 | The Blue Marl | 6.00% | ~1,305 |
-| Ostinata | 5.00% | ~1,087 |
-| Better than nothing? | 5.00% | ~1,087 |
+| Ostinata | 5.00% | ~1,088 |
+| Better than nothing? | 5.00% | ~1,088 |
 | A long journey | 4.00% | ~870 |
 | Big Money | 3.00% | ~652 |
 | Keep the doctor away | 3.00% | ~652 |
@@ -27,18 +27,18 @@ Number of Ratings: 7,669  (23.09.2022)
 | Pastry Chef | 2.00% | ~435 |
 | Welcome to the club | 2.00% | ~435 |
 | Very Important Winemaker | 2.00% | ~435 |
-| King of Langhe | 1.00% | ~217 |
-| Gem of Monferrato | 1.00% | ~217 |
+| King of Langhe | 1.00% | ~218 |
+| Gem of Monferrato | 1.00% | ~218 |
 | Treasure of Roero | 0.70% | ~152 |
 | Knight of Langhe | 0.50% | ~109 |
-| King of red wines | 0.20% | ~43 |
-| King of white wines | 0.20% | ~43 |
+| King of red wines | 0.20% | ~44 |
+| King of white wines | 0.20% | ~44 |
 | Sales Expert | 0.10% | ~22 |
 | Big deals | 0.10% | ~22 |
 | Master Winemaker | 0.10% | ~22 |
 | Unsuitable Terroir | 0.10% | ~22 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 21,747 (Ranked 155)  
+Progressed: 21,750 (Ranked 155)  
 Completed: 13 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,7 +188,7 @@ Completed: 13 (0.06%) (Ranked 339)
 | 2024-01-19 | 21,397 | 13 |
 | 2024-01-20 | 21,547 | 13 |
 | 2024-01-21 | 21,680 | 13 |
-| 2024-01-22 | 21,747 | 13 |
+| 2024-01-22 | 21,750 | 13 |
 ## Awards
 Max (Relaxing): 208  (Ranked 299)  
 Sum: 1,739 (Ranked 231)  

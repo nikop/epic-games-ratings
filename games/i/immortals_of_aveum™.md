@@ -1,7 +1,7 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 973)  
+Rating: 4.20 (Ranked 972)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,9 +33,9 @@ Rating: 4.20 (Ranked 973)
 | Best Dressed | 7.00% | ~250 |
 | Shroudfane Explorer | 7.00% | ~250 |
 | Kitted Out | 6.00% | ~215 |
+| Scholar | 5.00% | ~179 |
 | Armaments Azure | 5.00% | ~179 |
 | Armaments Gules | 5.00% | ~179 |
-| Scholar | 4.00% | ~143 |
 | Armaments Vert | 4.00% | ~143 |
 | Veteran | 3.00% | ~107 |
 | Grand Magnus | 2.00% | ~72 |

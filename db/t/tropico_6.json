@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1641,7 +1641,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7239,
+  "EOS_Progressed": 7240,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 0,
@@ -17191,6 +17191,11 @@
       "Time": "2024-01-22T15:06:28.7215444+00:00",
       "NumProgressed": 7239,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T16:05:57.5086672+00:00",
+      "NumProgressed": 7240,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17362,7 +17367,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5284
+      "UsersEstimate": 5285
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17458,7 +17463,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3185
+      "UsersEstimate": 3186
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17521,15 +17526,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7239,
+      "Progressed": 7240,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-21T15:58:03.0831244+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:06:28.7215438+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:05:57.5086669+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:10.3918037+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:28.7216593+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:58:56.5718022+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:05:57.5087676+00:00"
 }

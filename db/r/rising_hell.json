@@ -3,12 +3,12 @@
   "Name": "Rising Hell",
   "ProductSlug": "rising-hell-253707",
   "Ranking_Rating": 779,
-  "Ranking_Popularity": 409,
+  "Ranking_Popularity": 410,
   "Ranking_PopularitySum": 318,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-02-11T00:00:00+00:00",
     "PcReleaseDate": "2021-05-19T00:00:00+00:00",
@@ -451,6 +451,6 @@
   "FirstSeenRating": "2022-10-07T17:01:28.5689964+00:00",
   "LastChanged": "2024-01-12T04:00:37.1780437+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:06.6524617+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:58:41.9994705+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:09:44.2481739+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:58:30.6625386+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:09:32.6156211+00:00"
 }

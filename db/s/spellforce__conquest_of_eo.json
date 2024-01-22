@@ -2,10 +2,10 @@
   "ID": "0acc28c619c44fbab3dd30c7f87e9679",
   "Name": "SpellForce: Conquest of Eo",
   "ProductSlug": "spellforce-conquest-of-eo",
-  "Ranking_EOS_Progress": 462,
+  "Ranking_EOS_Progress": 461,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -789,6 +789,11 @@
       "Time": "2024-01-22T12:11:03.6935447+00:00",
       "NumProgressed": 157,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T16:10:32.3197074+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-25T16:04:46.0994968+00:00",
@@ -809,7 +814,7 @@
       "Name": "Expansion",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Build_First_Room",
@@ -817,15 +822,15 @@
       "Name": "Enough rooms to swing a cat",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "Build_First_Room_Extension",
       "SetID": "7b9f97e",
       "Name": "Redecorating",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "Capture_Own_Tower",
@@ -847,9 +852,9 @@
       "ID": "Circle_Page",
       "SetID": "7b9f97e",
       "Name": "The Circle",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "Craft_First_Glyph",
@@ -857,7 +862,7 @@
       "Name": "Artificer\u0027s Apprentice",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "Craft_First_Potion",
@@ -871,9 +876,9 @@
       "ID": "Craft_First_Undead",
       "SetID": "7b9f97e",
       "Name": "Necromancer\u0027s Apprentice",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 60
+      "UsersEstimate": 58
     },
     {
       "ID": "Defeat_Gor",
@@ -953,7 +958,7 @@
       "Name": "Slave to the rhythm",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "First_LevelUp",
@@ -961,7 +966,7 @@
       "Name": "First to the post",
       "Percentage": 78,
       "XP": 15,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "First_Node_Meld",
@@ -969,7 +974,7 @@
       "Name": "Connected",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "Harvest_First_Plant",
@@ -977,7 +982,7 @@
       "Name": "Harvest Time",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "HeroStory_Elynn",
@@ -1217,7 +1222,7 @@
       "Name": "Friend of Lyraine",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     },
     {
       "ID": "Max_Reputation_MistyCoast",
@@ -1329,7 +1334,7 @@
       "Name": "Get out of here!",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Start_Of_A_Joke",
@@ -1345,7 +1350,7 @@
       "Name": "Fly the friendly Sky",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "Zombify_Unit_Post_Battle",
@@ -1360,7 +1365,7 @@
     {
       "ID": "7b9f97e",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 0
     }
   ],
@@ -1368,8 +1373,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:10:49.0497888+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:10:32.319707+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.6757583+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:01.1286836+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:10:49.0498805+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:58:48.4635169+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:10:32.3197561+00:00"
 }

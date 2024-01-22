@@ -2,13 +2,13 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 907,
+  "Ranking_Rating": 904,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258579,
+  "EOS_Progressed": 258582,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 654,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31622,6 +31622,11 @@
       "Time": "2024-01-22T15:06:58.6470633+00:00",
       "NumProgressed": 258579,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T16:06:25.2084567+00:00",
+      "NumProgressed": 258582,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31633,7 +31638,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69816
+      "UsersEstimate": 69817
     },
     {
       "ID": "ACH_AON",
@@ -31673,7 +31678,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 31029
+      "UsersEstimate": 31030
     },
     {
       "ID": "ACH_ENJOY",
@@ -31697,7 +31702,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33615
+      "UsersEstimate": 33616
     },
     {
       "ID": "ACH_HATTRICK",
@@ -31777,7 +31782,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 74988
+      "UsersEstimate": 74989
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -31849,7 +31854,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64645
+      "UsersEstimate": 64646
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -31937,7 +31942,7 @@
       "Name": "Griever",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20686
+      "UsersEstimate": 20687
     },
     {
       "ID": "ACH_PUMPKINJACK",
@@ -31945,7 +31950,7 @@
       "Name": "Pumpkin Jack",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 20686
+      "UsersEstimate": 20687
     },
     {
       "ID": "ACH_SCRATCH",
@@ -31953,7 +31958,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64645
+      "UsersEstimate": 64646
     },
     {
       "ID": "ACH_SOREAD",
@@ -32025,7 +32030,7 @@
       "Name": "Wake up!",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 20686
+      "UsersEstimate": 20687
     },
     {
       "ID": "ACH_WELLDESERVED",
@@ -32048,7 +32053,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258579,
+      "Progressed": 258582,
       "Completed": 8
     }
   ],
@@ -32056,8 +32061,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:06:58.6470628+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:06:25.2084561+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:03:12.9041112+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:58.6473246+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:02:53.1948405+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:25.208662+00:00"
 }

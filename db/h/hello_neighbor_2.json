@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -525,11 +525,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4142,
+  "EOS_Progressed": 4143,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 73,
   "EOS_NewCompleters": 7,
-  "EOS_Completed_Percentage": 3.65,
+  "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -7670,6 +7670,11 @@
       "Time": "2024-01-22T15:04:16.1568842+00:00",
       "NumProgressed": 4142,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2024-01-22T16:03:52.1768092+00:00",
+      "NumProgressed": 4143,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 14,
@@ -7681,7 +7686,7 @@
       "Name": "Ancient Curse",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -7785,14 +7790,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4142,
+      "Progressed": 4143,
       "Completed": 151
     }
   ],
@@ -7800,8 +7805,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-22T13:58:58.9675729+00:00",
-  "LastChanged_Achievements": "2024-01-22T15:04:16.1568836+00:00",
+  "LastChanged_Achievements": "2024-01-22T16:03:52.1768089+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:58.3174388+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:04:16.1569425+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:40.7158016+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:03:52.1768669+00:00"
 }

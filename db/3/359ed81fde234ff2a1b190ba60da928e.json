@@ -2,13 +2,13 @@
   "ID": "359ed81fde234ff2a1b190ba60da928e",
   "Name": "KOMPETE",
   "ProductSlug": "kompete-73c94a",
-  "Ranking_Rating": 712,
+  "Ranking_Rating": 680,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-10-16T07:00:00+00:00",
     "PcReleaseDate": "2023-09-01T07:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.44,
+  "Rating": 4.46,
   "RatingHistory": [
     {
       "Time": "2023-12-28T19:58:04.6014071+00:00",
@@ -89,6 +89,12 @@
       "Rating": 4.44,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-22T15:59:36.4207655+00:00",
+      "Rating": 4.46,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
@@ -107,8 +113,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-16T23:57:25.2891809+00:00",
   "FirstSeenRating": "2023-12-28T19:58:04.6014069+00:00",
-  "LastChanged": "2024-01-19T15:57:52.2466574+00:00",
+  "LastChanged": "2024-01-22T15:59:36.4207652+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.1780051+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:59:53.5691286+00:00",
-  "LastUpdate_Achievements": "2024-01-22T15:06:57.6604432+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:59:36.4207658+00:00",
+  "LastUpdate_Achievements": "2024-01-22T16:06:24.3066831+00:00"
 }

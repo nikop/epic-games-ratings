@@ -73,6 +73,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Good Difficulty | 1.00% | ~171 |
 | Artisans | 1.00% | ~171 |
 | Champions | 1.00% | ~171 |
+| Landowners | 1.00% | ~171 |
 | Patrons | 1.00% | ~171 |
 | Sages | 1.00% | ~171 |
 | Statesmen | 1.00% | ~171 |
@@ -95,7 +96,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Conqueror | 0.90% | ~154 |
 | Ready | 0.90% | ~154 |
 | Subjugator | 0.90% | ~154 |
-| Landowners | 0.90% | ~154 |
 | Riders | 0.90% | ~154 |
 | Traders | 0.90% | ~154 |
 | Circus Maximus | 0.90% | ~154 |
@@ -156,6 +156,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.40% | ~68 |
 | Siege Tower | 0.40% | ~68 |
 | Al Khazneh | 0.40% | ~68 |
+| Carthage - Riches and Influence | 0.30% | ~51 |
 | Ancient | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
@@ -168,7 +169,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Colosseum | 0.30% | ~51 |
 | Bronze Victory (Carthage 1) | 0.20% | ~34 |
 | Silver Victory (Carthage 1) | 0.20% | ~34 |
-| Carthage - Riches and Influence | 0.20% | ~34 |
 | Cleopatra's Love | 0.20% | ~34 |
 | Holy | 0.20% | ~34 |
 | Glorious Difficulty | 0.20% | ~34 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,100 (Ranked 170)  
+Progressed: 17,102 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,7 +642,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
-| 2024-01-22 | 17,100 | 5 |
+| 2024-01-22 | 17,102 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  
