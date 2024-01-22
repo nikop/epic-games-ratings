@@ -6,9 +6,9 @@ Number of Ratings: 170  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Light at the end of the tunnel | 76.00% | ~22,244 |
+| Light at the end of the tunnel | 76.00% | ~22,245 |
 | Mama? | 27.00% | ~7,903 |
-| People's Haven | 18.00% | ~5,268 |
+| People's Haven | 18.00% | ~5,269 |
 | Cartographer | 16.00% | ~4,683 |
 | Knowledge for Power | 14.00% | ~4,098 |
 | Antlers of Stone | 14.00% | ~4,098 |
@@ -24,10 +24,10 @@ Number of Ratings: 170  (23.09.2022)
 | Baa from the past | 6.00% | ~1,756 |
 | Written in stone | 6.00% | ~1,756 |
 | Talk to all the spirit animals | 6.00% | ~1,756 |
-| Ripples on the surface | 5.00% | ~1,463 |
+| Ripples on the surface | 5.00% | ~1,464 |
 | Hide and Seek | 4.00% | ~1,171 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 29,269 (Ranked 145)  
+Progressed: 29,270 (Ranked 145)  
 Completed: 539 (1.84%) (Ranked 145)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -304,7 +304,7 @@ Completed: 539 (1.84%) (Ranked 145)
 | 2024-01-19 | 29,053 | 534 |
 | 2024-01-20 | 29,163 | 536 |
 | 2024-01-21 | 29,256 | 539 |
-| 2024-01-22 | 29,269 | 539 |
+| 2024-01-22 | 29,270 | 539 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

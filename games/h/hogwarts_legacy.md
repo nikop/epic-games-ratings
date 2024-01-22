@@ -5,23 +5,23 @@ Rating: 4.75 (Ranked 150)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,739 |
-| First Class Student | 29.00% | ~112,139 |
-| Troll with the Punches | 26.00% | ~100,538 |
-| A Keen Sense of Spell | 24.00% | ~92,804 |
-| A Talent for Spending | 20.00% | ~77,337 |
-| That's a Keeper | 19.00% | ~73,470 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,740 |
+| First Class Student | 29.00% | ~112,140 |
+| Troll with the Punches | 26.00% | ~100,539 |
+| A Keen Sense of Spell | 24.00% | ~92,805 |
+| A Talent for Spending | 20.00% | ~77,338 |
+| That's a Keeper | 19.00% | ~73,471 |
 | Loom for Improvement | 16.00% | ~61,870 |
 | Followed the Butterflies | 15.00% | ~58,003 |
 | The Defender of Dragons | 14.00% | ~54,136 |
 | Challenge Accepted | 14.00% | ~54,136 |
-| The Hallowed Hero | 13.00% | ~50,269 |
-| Coasting Along | 13.00% | ~50,269 |
-| Grappling with a Graphorn | 12.00% | ~46,402 |
-| The One Who Mastered Memories | 12.00% | ~46,402 |
-| The Hero of Hogwarts | 11.00% | ~42,535 |
-| The Spell Master | 11.00% | ~42,535 |
-| Rising From the Ashes | 11.00% | ~42,535 |
+| The Hallowed Hero | 13.00% | ~50,270 |
+| Coasting Along | 13.00% | ~50,270 |
+| Grappling with a Graphorn | 12.00% | ~46,403 |
+| The One Who Mastered Memories | 12.00% | ~46,403 |
+| The Hero of Hogwarts | 11.00% | ~42,536 |
+| The Spell Master | 11.00% | ~42,536 |
+| Rising From the Ashes | 11.00% | ~42,536 |
 | The Avenging Gazelle | 9.00% | ~34,802 |
 | A Sallow Grave | 9.00% | ~34,802 |
 | Flight the Good Flight | 9.00% | ~34,802 |
@@ -35,10 +35,10 @@ Rating: 4.75 (Ranked 150)
 | The Ends Petrify the Means | 6.00% | ~23,201 |
 | The Wise Owl | 6.00% | ~23,201 |
 | Going Through the Potions | 5.00% | ~19,334 |
-| Put Down Roots | 4.00% | ~15,467 |
-| The Auror's Apprentice | 4.00% | ~15,467 |
-| Room with a View | 4.00% | ~15,467 |
-| The Intrepid Explorer | 4.00% | ~15,467 |
+| Put Down Roots | 4.00% | ~15,468 |
+| The Auror's Apprentice | 4.00% | ~15,468 |
+| Room with a View | 4.00% | ~15,468 |
+| The Intrepid Explorer | 4.00% | ~15,468 |
 | Floo Around the World | 3.00% | ~11,601 |
 | The Good Samaritan | 2.00% | ~7,734 |
 | Savvy Spender | 2.00% | ~7,734 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 150)
 | The Nature of the Beast | 0.70% | ~2,707 |
 | Collector's Edition | 0.40% | ~1,547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,685 (Ranked 56)  
+Progressed: 386,689 (Ranked 56)  
 Completed: 582 (0.15%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,10 +328,10 @@ Completed: 582 (0.15%) (Ranked 299)
 | 2024-01-19 | 385,824 | 578 |
 | 2024-01-20 | 386,230 | 580 |
 | 2024-01-21 | 386,612 | 581 |
-| 2024-01-22 | 386,685 | 582 |
+| 2024-01-22 | 386,689 | 582 |
 ## Awards
 Max (Character Customization): 32,072  (Ranked 16)  
-Sum: 65,793 (Ranked 24)  
+Sum: 65,804 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -8
 | This game has Amazing Characters | 1,730 |
 | This game is Highly Recommended | 1,718 |
 | This game has Quickly Understood Controls | 1,647 |
-| This game has Beautiful Visuals | 1,503 |
+| This game has Beautiful Visuals | 1,514 |
 | This game has a Creative Community | 1,124 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -654,4 +654,4 @@ Diff (max vs sum): -8
 | 2024-01-19 | 4.75 | 31,744 | 64,743 |
 | 2024-01-20 | 4.75 | 31,905 | 65,176 |
 | 2024-01-21 | 4.75 | 32,072 | 65,650 |
-| 2024-01-22 | 4.75 | 32,072 | 65,793 |
+| 2024-01-22 | 4.75 | 32,072 | 65,804 |

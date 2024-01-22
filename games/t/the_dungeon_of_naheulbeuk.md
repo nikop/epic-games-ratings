@@ -6,16 +6,16 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,184 |
+| Sowwy! | 37.00% | ~92,186 |
 | Alt+F4 | 11.00% | ~27,406 |
 | Where's that freaking Dwarf? | 10.00% | ~24,915 |
 | Déjà vu | 8.00% | ~19,932 |
 | Sock! SOCK! | 6.00% | ~14,949 |
 | Speedrun | 6.00% | ~14,949 |
-| A beer, two curses, three companions | 5.00% | ~12,457 |
-| GG EZ | 5.00% | ~12,457 |
-| DM intervention | 5.00% | ~12,457 |
-| Fireproof Wizardess | 5.00% | ~12,457 |
+| A beer, two curses, three companions | 5.00% | ~12,458 |
+| GG EZ | 5.00% | ~12,458 |
+| DM intervention | 5.00% | ~12,458 |
+| Fireproof Wizardess | 5.00% | ~12,458 |
 | Way of the Wimp | 4.00% | ~9,966 |
 | The plot thickens... At the tavern | 4.00% | ~9,966 |
 | Livin' in a dwarven paradise | 3.00% | ~7,474 |
@@ -40,12 +40,12 @@ Number of Ratings: 118  (23.09.2022)
 | The Ranger of Chaos | 2.00% | ~4,983 |
 | I am the night | 2.00% | ~4,983 |
 | Thieves' Guild Accreditation | 2.00% | ~4,983 |
-| %#*!$*! | 1.00% | ~2,491 |
-| Dead for good | 1.00% | ~2,491 |
-| Gargantua | 1.00% | ~2,491 |
-| In Navalu's footsteps | 1.00% | ~2,491 |
-| Lëgal Legend | 1.00% | ~2,491 |
-| Material Girl | 1.00% | ~2,491 |
+| %#*!$*! | 1.00% | ~2,492 |
+| Dead for good | 1.00% | ~2,492 |
+| Gargantua | 1.00% | ~2,492 |
+| In Navalu's footsteps | 1.00% | ~2,492 |
+| Lëgal Legend | 1.00% | ~2,492 |
+| Material Girl | 1.00% | ~2,492 |
 | We come in peace | 0.90% | ~2,242 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,993 |
 | Holistic Adventuring Party | 0.70% | ~1,744 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,147 (Ranked 73)  
+Progressed: 249,150 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 9 (0.00%) (Ranked 409)
 | 2024-01-19 | 248,799 | 9 |
 | 2024-01-20 | 248,966 | 9 |
 | 2024-01-21 | 249,117 | 9 |
-| 2024-01-22 | 249,147 | 9 |
+| 2024-01-22 | 249,150 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 578 (Ranked 331)  

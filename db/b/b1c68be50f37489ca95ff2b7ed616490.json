@@ -1514,9 +1514,9 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 224
+      "UsersEstimate": 228
     },
     {
       "ID": "10",
@@ -1530,9 +1530,9 @@
       "ID": "11",
       "SetID": "6bgoh8g",
       "Name": "Final questions",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 28
+      "UsersEstimate": 32
     },
     {
       "ID": "12",
@@ -1578,9 +1578,9 @@
       "ID": "17",
       "SetID": "6bgoh8g",
       "Name": "Master Chess",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     },
     {
       "ID": "18",
@@ -1737,8 +1737,8 @@
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:06:22.5211113+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:05:35.9217776+00:00",
   "LastUpdate_AppInfo": "2024-01-18T06:57:12.8329669+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:03:30.2550976+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:06:22.5211407+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:03:02.3350504+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:05:35.9218011+00:00"
 }

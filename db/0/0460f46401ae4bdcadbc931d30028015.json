@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 114,
+  "Ranking_EOS_NewPlayers": 116,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1839,9 +1839,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 11305,
+  "EOS_Progressed": 11306,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 601,
+  "EOS_NewPlayers": 598,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12354,6 +12354,11 @@
       "Time": "2024-01-22T09:06:04.202766+00:00",
       "NumProgressed": 11305,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T10:05:20.9891513+00:00",
+      "NumProgressed": 11306,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12462,7 +12467,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6670
+      "UsersEstimate": 6671
     },
     {
       "ID": "achievement_21",
@@ -12502,7 +12507,7 @@
       "Name": "Roster Reshuffle",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 2939
+      "UsersEstimate": 2940
     },
     {
       "ID": "achievement_7",
@@ -12518,7 +12523,7 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 3052
+      "UsersEstimate": 3053
     },
     {
       "ID": "achievement_9",
@@ -12533,7 +12538,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11305,
+      "Progressed": 11306,
       "Completed": 0
     }
   ],
@@ -12541,8 +12546,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-22T04:03:03.2362906+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:06:04.2027656+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:05:20.9891509+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:03:05.5816351+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:06:04.2028534+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:02:41.3508705+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:05:20.9892102+00:00"
 }

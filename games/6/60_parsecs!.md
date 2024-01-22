@@ -4,20 +4,20 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,469 |
+| Don't Panic! | 96.00% | ~1,470 |
 | Space Colonization | 79.00% | ~1,209 |
-| Friendzone | 76.00% | ~1,163 |
+| Friendzone | 76.00% | ~1,164 |
 | Hello World | 72.00% | ~1,102 |
-| Space Engineer | 60.00% | ~918 |
-| Tinkerer | 60.00% | ~918 |
+| Space Engineer | 60.00% | ~919 |
+| Tinkerer | 60.00% | ~919 |
 | Dust to Dust | 55.00% | ~842 |
-| Across The Stars | 44.00% | ~673 |
-| Crafty | 41.00% | ~627 |
-| All Seats Taken | 34.00% | ~520 |
-| For Science! | 30.00% | ~459 |
+| Across The Stars | 44.00% | ~674 |
+| Crafty | 41.00% | ~628 |
+| All Seats Taken | 34.00% | ~521 |
+| For Science! | 31.00% | ~475 |
 | Meet the Petersons | 30.00% | ~459 |
-| KIA | 25.00% | ~382 |
-| Stay Cool | 25.00% | ~382 |
+| KIA | 25.00% | ~383 |
+| Stay Cool | 25.00% | ~383 |
 | Mutiny in making | 22.00% | ~337 |
 | Et tu, Astrocitizen? | 17.00% | ~260 |
 | Eco-Shuttle | 16.00% | ~245 |
@@ -29,9 +29,9 @@
 | Intergalactic Breakup | 7.00% | ~107 |
 | First of April | 6.00% | ~92 |
 | Second Life | 6.00% | ~92 |
-| Axel jump in space! | 5.00% | ~76 |
-| Fix-It Felix | 5.00% | ~76 |
-| Flawless Maegangement | 5.00% | ~76 |
+| Axel jump in space! | 5.00% | ~77 |
+| Fix-It Felix | 5.00% | ~77 |
+| Flawless Maegangement | 5.00% | ~77 |
 | Extreme Makeover | 4.00% | ~61 |
 | The Improvinator | 3.00% | ~46 |
 | The Last Supper | 3.00% | ~46 |
@@ -49,8 +49,8 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,530 (Ranked 274)  
-Completed: 1 (0.07%) (Ranked 337)  
+Progressed: 1,531 (Ranked 274)  
+Completed: 1 (0.07%) (Ranked 338)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -210,7 +210,7 @@ Completed: 1 (0.07%) (Ranked 337)
 | 2024-01-19 | 1,224 | 1 |
 | 2024-01-20 | 1,362 | 1 |
 | 2024-01-21 | 1,495 | 1 |
-| 2024-01-22 | 1,530 | 1 |
+| 2024-01-22 | 1,531 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

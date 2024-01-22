@@ -10,10 +10,10 @@ Number of Ratings: 43  (23.09.2022)
 | Just The Two of Us | 32.00% | ~35,823 |
 | Up On High | 25.00% | ~27,987 |
 | Under The Hood | 25.00% | ~27,987 |
-| Got Your Nose | 24.00% | ~26,867 |
-| The Gift of Gab | 24.00% | ~26,867 |
-| Wrapping Up | 22.00% | ~24,628 |
-| More Than A Box Of Sand | 18.00% | ~20,150 |
+| Got Your Nose | 24.00% | ~26,868 |
+| The Gift of Gab | 24.00% | ~26,868 |
+| Wrapping Up | 22.00% | ~24,629 |
+| More Than A Box Of Sand | 18.00% | ~20,151 |
 | The Dunboyne | 17.00% | ~19,031 |
 | Badge Hobbyist | 17.00% | ~19,031 |
 | Chum Novice | 16.00% | ~17,912 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,358 |
 | Vivacious Vivarium | 2.00% | ~2,239 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 111,947 (Ranked 98)  
+Progressed: 111,948 (Ranked 98)  
 Completed: 1,145 (1.02%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -340,7 +340,7 @@ Completed: 1,145 (1.02%) (Ranked 182)
 | 2024-01-19 | 111,563 | 1,141 |
 | 2024-01-20 | 111,724 | 1,142 |
 | 2024-01-21 | 111,910 | 1,143 |
-| 2024-01-22 | 111,947 | 1,145 |
+| 2024-01-22 | 111,948 | 1,145 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 531)  
 Sum: 155 (Ranked 448)  

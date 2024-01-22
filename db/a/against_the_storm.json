@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 3864,
+  "Ranking_EOS_NewCompleters": 3865,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4055,9 +4055,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20964,
+  "EOS_Progressed": 20965,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 173,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20310,6 +20310,11 @@
       "Time": "2024-01-22T07:08:33.258162+00:00",
       "NumProgressed": 20964,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-22T10:08:38.8899865+00:00",
+      "NumProgressed": 20965,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20610,7 +20615,7 @@
       "Name": "The Scarlet Orchard",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "WinPrestige10",
@@ -20762,7 +20767,7 @@
       "Name": "Ominous Presence",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "WinNearStorms",
@@ -20770,7 +20775,7 @@
       "Name": "Gathering Storm",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "WinNearUntamedWilds",
@@ -20793,15 +20798,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20964,
+      "Progressed": 20965,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-21T23:57:11.7855863+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:08:48.3432653+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:08:38.8899863+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:57:24.9301651+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:08:48.3433854+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:57:24.3304656+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:08:38.8900773+00:00"
 }

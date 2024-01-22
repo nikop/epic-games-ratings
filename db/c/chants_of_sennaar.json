@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 173,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -145,7 +145,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2947,
+  "EOS_Progressed": 2948,
   "EOS_Completed": 230,
   "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 20,
@@ -7885,6 +7885,11 @@
       "Time": "2024-01-22T08:06:21.6132115+00:00",
       "NumProgressed": 2947,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2024-01-22T10:05:47.0094265+00:00",
+      "NumProgressed": 2948,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 25,
@@ -7952,7 +7957,7 @@
       "Name": "Free at last",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 589
+      "UsersEstimate": 590
     },
     {
       "ID": "META_RESULT_1-4",
@@ -7984,7 +7989,7 @@
       "Name": "A Link to the Past",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 530
+      "UsersEstimate": 531
     },
     {
       "ID": "OPTIONNAL_AIRLINES",
@@ -8040,7 +8045,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1768
+      "UsersEstimate": 1769
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8056,7 +8061,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1591
+      "UsersEstimate": 1592
     },
     {
       "ID": "PROGRESS_N2",
@@ -8072,7 +8077,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1149
+      "UsersEstimate": 1150
     },
     {
       "ID": "PROGRESS_N4",
@@ -8095,7 +8100,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2947,
+      "Progressed": 2948,
       "Completed": 230
     }
   ],
@@ -8103,8 +8108,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-21T16:59:53.3167431+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:06:38.7905041+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:05:47.0094258+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:59:14.3694265+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:06:38.7905523+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:58:57.1706955+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:05:47.0094917+00:00"
 }

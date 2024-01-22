@@ -5,7 +5,7 @@ Rating: 3.84 (Ranked 1,090)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~420,314 |
+| Pro Creation | 76.00% | ~420,315 |
 | Handy | 42.00% | ~232,279 |
 | Cold Caller | 40.00% | ~221,218 |
 | A Bit On The Side | 27.00% | ~149,322 |
@@ -16,8 +16,8 @@ Rating: 3.84 (Ranked 1,090)
 | Gutshot | 14.00% | ~77,426 |
 | Risk It For A Biscuit | 14.00% | ~77,426 |
 | Showoff | 13.00% | ~71,896 |
-| W.H.I.P. | 12.00% | ~66,365 |
-| Bet Bet Bet | 10.00% | ~55,304 |
+| W.H.I.P. | 12.00% | ~66,366 |
+| Bet Bet Bet | 10.00% | ~55,305 |
 | Blindman's Bluff | 9.00% | ~49,774 |
 | Poker Joker | 9.00% | ~49,774 |
 | Never Give Up | 8.00% | ~44,244 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,090)
 | Rounder | 0.10% | ~553 |
 | Top Dog | 0.10% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,045 (Ranked 35)  
+Progressed: 553,046 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-19 | 552,525 | 2 |
 | 2024-01-20 | 552,747 | 2 |
 | 2024-01-21 | 552,997 | 2 |
-| 2024-01-22 | 553,045 | 2 |
+| 2024-01-22 | 553,046 | 2 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 423)  
 Sum: 216 (Ranked 415)  

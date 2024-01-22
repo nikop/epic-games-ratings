@@ -7,8 +7,8 @@ Number of Ratings: 98  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You Shall Not Pass | 51.00% | ~5,113 |
-| Tutti Eroi! | 50.00% | ~5,012 |
-| Peak Performance | 45.00% | ~4,511 |
+| Tutti Eroi! | 50.00% | ~5,013 |
+| Peak Performance | 45.00% | ~4,512 |
 | Avanti Savoia! | 44.00% | ~4,411 |
 | Mamma Mia! | 35.00% | ~3,509 |
 | Conrad von Hotzensocks | 32.00% | ~3,208 |
@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 19.00% | ~1,905 |
 | The Italian Job | 19.00% | ~1,905 |
 | Veni Vidi Vici | 19.00% | ~1,905 |
-| Ragazzi del '99 | 18.00% | ~1,804 |
+| Ragazzi del '99 | 18.00% | ~1,805 |
 | Luigi Cadorna | 16.00% | ~1,604 |
 | The Lion of the Isonzo | 14.00% | ~1,404 |
 | Shaken, Not Stirred | 13.00% | ~1,303 |
@@ -28,8 +28,8 @@ Number of Ratings: 98  (23.09.2022)
 | Die Bosniaken Kommen! | 12.00% | ~1,203 |
 | Dirty Dozen | 12.00% | ~1,203 |
 | Machiavelli | 11.00% | ~1,103 |
-| The Devil's Paintbrush | 10.00% | ~1,002 |
-| Thus With A Kiss | 10.00% | ~1,002 |
+| The Devil's Paintbrush | 10.00% | ~1,003 |
+| Thus With A Kiss | 10.00% | ~1,003 |
 | Dante's Inferno | 9.00% | ~902 |
 | I Have the High Ground | 9.00% | ~902 |
 | Millenial | 9.00% | ~902 |
@@ -42,9 +42,9 @@ Number of Ratings: 98  (23.09.2022)
 | Farewell to Arms | 3.00% | ~301 |
 | "O La Vittoria, O Tutti Accoppati" | 3.00% | ~301 |
 | Seeing Red | 3.00% | ~301 |
-| Ponte of No Return | 2.00% | ~200 |
-| Soča Drag | 2.00% | ~200 |
-| Saboteur | 2.00% | ~200 |
+| Ponte of No Return | 2.00% | ~201 |
+| Soča Drag | 2.00% | ~201 |
+| Saboteur | 2.00% | ~201 |
 | Drop and Give Me 20 | 1.00% | ~100 |
 | Malpractice | 1.00% | ~100 |
 | Rome Wasn't Built In A Day | 1.00% | ~100 |
@@ -52,7 +52,7 @@ Number of Ratings: 98  (23.09.2022)
 | "Sacro Egoismo" | 0.40% | ~40 |
 | Can I Go Home Now? | 0.10% | ~10 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,025 (Ranked 188)  
+Progressed: 10,026 (Ranked 188)  
 Completed: 10 (0.10%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,6 +323,7 @@ Completed: 10 (0.10%) (Ranked 319)
 | 2024-01-19 | 10,005 | 10 |
 | 2024-01-20 | 10,011 | 10 |
 | 2024-01-21 | 10,025 | 10 |
+| 2024-01-22 | 10,026 | 10 |
 ## Awards
 Max (Diverse Characters): 44  (Ranked 482)  
 Sum: 344 (Ranked 371)  

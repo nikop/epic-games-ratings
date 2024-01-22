@@ -43,10 +43,10 @@ Rating: 4.38 (Ranked 801)
 | Exquisite Artwork | 25.00% | ~127 |
 | Well-prepared | 22.00% | ~112 |
 | The Truth | 21.00% | ~107 |
+| What Else Did I Miss? | 19.00% | ~97 |
 | I Like an Audience | 19.00% | ~97 |
 | The Denouement | 18.00% | ~92 |
 | Sunken Secrets | 18.00% | ~92 |
-| What Else Did I Miss? | 18.00% | ~92 |
 | Probably the Greatest Detective in the World | 13.00% | ~66 |
 | Take a Break | 11.00% | ~56 |
 | Room with a View | 8.00% | ~41 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
@@ -9542,9 +9542,9 @@
       "ID": "SO_Madison",
       "SetID": "bmkn7o4",
       "Name": "Smooth Operator: Madison",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 369
+      "UsersEstimate": 443
     },
     {
       "ID": "SmellBlood",
@@ -9740,8 +9740,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2024-01-17T20:58:21.7127925+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:09:31.8761337+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:09:18.4192934+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:04.9311422+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:57:02.0951523+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:09:31.87623+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:57:04.8845419+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:09:18.4193734+00:00"
 }

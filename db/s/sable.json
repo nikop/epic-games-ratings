@@ -653,9 +653,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 111947,
+  "EOS_Progressed": 111948,
   "EOS_Completed": 1145,
-  "EOS_NewPlayers": 1036,
+  "EOS_NewPlayers": 1032,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.02,
   "EosHistory": [
@@ -32538,6 +32538,11 @@
       "Time": "2024-01-22T09:10:25.2967801+00:00",
       "NumProgressed": 111947,
       "NumCompleted": 1145
+    },
+    {
+      "Time": "2024-01-22T10:10:06.7510578+00:00",
+      "NumProgressed": 111948,
+      "NumCompleted": 1145
     }
   ],
   "TotalAchievements": 56,
@@ -32805,7 +32810,7 @@
       "Name": "Got Your Nose",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26867
+      "UsersEstimate": 26868
     },
     {
       "ID": "ach_033_collect_slicer_beetle_poo",
@@ -32877,7 +32882,7 @@
       "Name": "The Gift of Gab",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 26867
+      "UsersEstimate": 26868
     },
     {
       "ID": "ach_042_talk_to_npcs_2",
@@ -32901,7 +32906,7 @@
       "Name": "More Than A Box Of Sand",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 20150
+      "UsersEstimate": 20151
     },
     {
       "ID": "ach_045_open_chests_2",
@@ -32949,7 +32954,7 @@
       "Name": "Wrapping Up",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 24628
+      "UsersEstimate": 24629
     },
     {
       "ID": "ach_051_collect_clothing_items_2",
@@ -32996,15 +33001,15 @@
     {
       "ID": "585ckk9",
       "IsBase": true,
-      "Progressed": 111947,
+      "Progressed": 111948,
       "Completed": 1145
     }
   ],
   "FirstSeen": "2022-07-22T20:31:24.3265081+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:25.3097347+00:00",
   "LastChanged": "2024-01-20T10:58:09.3006263+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:10:25.2967798+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:10:06.7510577+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:41.8453297+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:59:21.520745+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:10:25.2969437+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:59:03.5179523+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:10:06.7511995+00:00"
 }

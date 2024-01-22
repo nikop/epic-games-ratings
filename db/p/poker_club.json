@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-27T15:00:00+00:00",
@@ -1177,9 +1177,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553045,
+  "EOS_Progressed": 553046,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1447,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32847,6 +32847,11 @@
       "Time": "2024-01-22T09:03:48.4554825+00:00",
       "NumProgressed": 553045,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T10:03:20.1138855+00:00",
+      "NumProgressed": 553046,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -32882,7 +32887,7 @@
       "Name": "Bet Bet Bet",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 55304
+      "UsersEstimate": 55305
     },
     {
       "ID": "BlindmansBluff",
@@ -33106,7 +33111,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420314
+      "UsersEstimate": 420315
     },
     {
       "ID": "ProPlayer",
@@ -33210,14 +33215,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66365
+      "UsersEstimate": 66366
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553045,
+      "Progressed": 553046,
       "Completed": 2
     }
   ],
@@ -33225,8 +33230,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-22T01:53:23.1036441+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:03:48.4554821+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:03:20.1138853+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:59:04.2908469+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:03:48.4556367+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:58:48.4298853+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:03:20.1140414+00:00"
 }

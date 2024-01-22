@@ -1,15 +1,15 @@
 # Metro Last Light Redux
 [Store](https://store.epicgames.com/en-US/p/metro-last-light-redux)  
 [View Rawdata](../../db/m/metro_last_light_redux.json)  
-Rating: 4.69 (Ranked 241)  
+Rating: 4.69 (Ranked 240)  
 Number of Ratings: 6,367  (23.09.2022)  
 ## Awards
-Max (Great Boss Battles): 1,999  (Ranked 122)  
-Sum: 2,322 (Ranked 209)  
+Max (Great Boss Battles): 2,002  (Ranked 122)  
+Sum: 2,325 (Ranked 209)  
 Diff (max vs sum): -87  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 1,999 |
+| This game has Great Boss Battles | 2,002 |
 | This game is Great for Beginners | 50 |
 | This game has Diverse Characters | 46 |
 | This game has Quickly Understood Controls | 43 |
@@ -243,3 +243,4 @@ Diff (max vs sum): -87
 | 2024-01-17 | 4.70 | - | 1,996 | 2,319 |
 | 2024-01-19 | 4.69 | - | 1,997 | 2,320 |
 | 2024-01-20 | 4.69 | - | 1,999 | 2,322 |
+| 2024-01-22 | 4.69 | - | 2,002 | 2,325 |

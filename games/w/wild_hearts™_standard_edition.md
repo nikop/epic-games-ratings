@@ -4,13 +4,13 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,397 |
-| Hidden History | 72.00% | ~1,006 |
-| Commencing of Quests | 62.00% | ~866 |
-| Budding Conjuror | 61.00% | ~852 |
-| Man-Machine Master | 51.00% | ~712 |
-| Mountain Splitter | 51.00% | ~712 |
-| Charmed by the Hunt | 50.00% | ~698 |
+| Land of the Rising Sun | 100.00% | ~1,398 |
+| Hidden History | 72.00% | ~1,007 |
+| Commencing of Quests | 62.00% | ~867 |
+| Budding Conjuror | 61.00% | ~853 |
+| Man-Machine Master | 51.00% | ~713 |
+| Mountain Splitter | 51.00% | ~713 |
+| Charmed by the Hunt | 50.00% | ~699 |
 | Memory Rouser | 49.00% | ~685 |
 | Subsistence Skills | 49.00% | ~685 |
 | Fusion Conjuror | 48.00% | ~671 |
@@ -27,14 +27,14 @@
 | Fair Means or Foul | 29.00% | ~405 |
 | Kemono at Heart | 29.00% | ~405 |
 | Single Minded | 27.00% | ~377 |
-| Snare Specialist | 25.00% | ~349 |
-| Karakuri Trail | 24.00% | ~335 |
-| Team Hunter | 22.00% | ~307 |
-| Karakuri Isle | 21.00% | ~293 |
-| Artful Assister | 21.00% | ~293 |
-| Reincarnation Cycle Stopper | 20.00% | ~279 |
-| Left Arm Leverager | 17.00% | ~237 |
-| Human Believer | 17.00% | ~237 |
+| Snare Specialist | 25.00% | ~350 |
+| Karakuri Trail | 24.00% | ~336 |
+| Team Hunter | 22.00% | ~308 |
+| Karakuri Isle | 21.00% | ~294 |
+| Artful Assister | 21.00% | ~294 |
+| Reincarnation Cycle Stopper | 20.00% | ~280 |
+| Left Arm Leverager | 17.00% | ~238 |
+| Human Believer | 17.00% | ~238 |
 | Style Seeker | 16.00% | ~224 |
 | Unrivaled in Arms | 16.00% | ~224 |
 | Quintessence of Form | 16.00% | ~224 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 5.00% | ~70 |
 | Tsukumo Whisperer | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,397 (Ranked 280)  
+Progressed: 1,398 (Ranked 280)  
 Completed: 8 (0.57%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -182,4 +182,4 @@ Completed: 8 (0.57%) (Ranked 221)
 | 2024-01-19 | 1,385 | 8 |
 | 2024-01-20 | 1,389 | 8 |
 | 2024-01-21 | 1,396 | 8 |
-| 2024-01-22 | 1,397 | 8 |
+| 2024-01-22 | 1,398 | 8 |

@@ -40,7 +40,7 @@ Number of Ratings: 892  (23.09.2022)
 | Elementary, My Dear | 75.00% | ~680 |
 | Lifeline Pipeline | 70.00% | ~635 |
 | Sepia Toned Memories | 68.00% | ~617 |
-| Anti-Santa | 65.00% | ~590 |
+| Anti-Santa | 66.00% | ~599 |
 | You Don't Win Friends With Salad | 65.00% | ~590 |
 | Time Flies | 64.00% | ~580 |
 | Martle's Dream | 64.00% | ~580 |

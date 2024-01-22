@@ -2,7 +2,7 @@
   "ID": "c1adccb6ce8344ebac8cb4e3c81f01ef",
   "Name": "Evalina The Sorceress",
   "ProductSlug": "evalinathe-sorceress-a9a60a",
-  "Ranking_EOS_Progress": 331,
+  "Ranking_EOS_Progress": 330,
   "Ranking_EOS_Completed": 126,
   "Ranking_EOS_NewPlayers": 228,
   "Ranking_EOS_NewCompleters": 105,
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 710,
+  "EOS_Progressed": 712,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 48,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 2.54,
+  "EOS_Completed_Percentage": 2.53,
   "EosHistory": [
     {
       "Time": "2023-06-26T21:03:11.1861868+00:00",
@@ -2689,6 +2689,11 @@
       "Time": "2024-01-22T04:05:24.3235598+00:00",
       "NumProgressed": 710,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-22T10:05:08.6444562+00:00",
+      "NumProgressed": 712,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2709,7 +2714,7 @@
       "Name": "Blue Skeleton",
       "Percentage": 13,
       "XP": 200,
-      "UsersEstimate": 92
+      "UsersEstimate": 93
     },
     {
       "ID": "GreenSkeleton",
@@ -2725,7 +2730,7 @@
       "Name": "Orange Skeleton",
       "Percentage": 43,
       "XP": 100,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "RedSkeleton",
@@ -2733,7 +2738,7 @@
       "Name": "Red Skeleton",
       "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 433
+      "UsersEstimate": 434
     },
     {
       "ID": "YellowSkeleton",
@@ -2748,14 +2753,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 710,
+      "Progressed": 712,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:05:50.4880699+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:05:08.6444554+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.8355081+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:57:02.1250023+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:05:50.4880901+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:57:04.9296196+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:05:08.6444739+00:00"
 }

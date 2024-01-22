@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 262,
-  "Ranking_EOS_NewPlayers": 146,
+  "Ranking_EOS_NewPlayers": 145,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40872,
+  "EOS_Progressed": 40876,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 323,
+  "EOS_NewPlayers": 327,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -24773,6 +24773,11 @@
       "Time": "2024-01-22T09:08:59.2718591+00:00",
       "NumProgressed": 40872,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2024-01-22T10:08:49.046628+00:00",
+      "NumProgressed": 40876,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 14,
@@ -24792,7 +24797,7 @@
       "Name": "150 Stars",
       "Percentage": 0.4,
       "XP": 150,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "50stars",
@@ -24800,7 +24805,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10627
+      "UsersEstimate": 10628
     },
     {
       "ID": "allItems",
@@ -24808,7 +24813,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "allSecrets",
@@ -24816,7 +24821,7 @@
       "Name": "No Stone Left Unturned",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "bigBunny",
@@ -24832,7 +24837,7 @@
       "Name": "Joseph",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 3678
+      "UsersEstimate": 3679
     },
     {
       "ID": "completionist",
@@ -24848,7 +24853,7 @@
       "Name": "Deja Vu",
       "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "ending",
@@ -24864,7 +24869,7 @@
       "Name": "Hare Today",
       "Percentage": 24,
       "XP": 25,
-      "UsersEstimate": 9809
+      "UsersEstimate": 9810
     },
     {
       "ID": "firstItem",
@@ -24872,7 +24877,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 31063
+      "UsersEstimate": 31066
     },
     {
       "ID": "roots",
@@ -24880,7 +24885,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6948
+      "UsersEstimate": 6949
     },
     {
       "ID": "secretItem",
@@ -24895,15 +24900,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40872,
+      "Progressed": 40876,
       "Completed": 127
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:08:59.2718587+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:08:49.0466278+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.6207969+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:00:08.5226881+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:08:59.2719943+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:59:45.4660178+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:08:49.0467557+00:00"
 }

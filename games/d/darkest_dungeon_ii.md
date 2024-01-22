@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 241)  
+Rating: 4.69 (Ranked 240)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,23 +31,23 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 5.00% | ~6,673 |
 | A Place to Lay Your Head | 5.00% | ~6,673 |
 | Nope | 5.00% | ~6,673 |
-| Friends 'Til the End | 5.00% | ~416 |
-| Resurrection | 4.00% | ~5,338 |
-| Unleash Hell | 4.00% | ~5,338 |
-| Funny Guy | 4.00% | ~5,338 |
-| Long Live the King | 4.00% | ~5,338 |
-| Wyrdly Reconstructed | 4.00% | ~5,338 |
-| Boxcar Kid | 4.00% | ~5,338 |
-| Unfulfilled Desires | 4.00% | ~5,338 |
-| Dissector | 4.00% | ~5,338 |
-| Banishment | 4.00% | ~5,338 |
-| Deprogramming | 4.00% | ~5,338 |
-| Now Stay Dead | 4.00% | ~5,338 |
-| Spelunker | 4.00% | ~5,338 |
-| Ramble On | 4.00% | ~5,338 |
-| A Clear Conscience | 4.00% | ~5,338 |
-| Unshackled | 4.00% | ~5,338 |
-| Road Trip | 4.00% | ~5,338 |
+| Friends 'Til the End | 5.00% | ~417 |
+| Resurrection | 4.00% | ~5,339 |
+| Unleash Hell | 4.00% | ~5,339 |
+| Funny Guy | 4.00% | ~5,339 |
+| Long Live the King | 4.00% | ~5,339 |
+| Wyrdly Reconstructed | 4.00% | ~5,339 |
+| Boxcar Kid | 4.00% | ~5,339 |
+| Unfulfilled Desires | 4.00% | ~5,339 |
+| Dissector | 4.00% | ~5,339 |
+| Banishment | 4.00% | ~5,339 |
+| Deprogramming | 4.00% | ~5,339 |
+| Now Stay Dead | 4.00% | ~5,339 |
+| Spelunker | 4.00% | ~5,339 |
+| Ramble On | 4.00% | ~5,339 |
+| A Clear Conscience | 4.00% | ~5,339 |
+| Unshackled | 4.00% | ~5,339 |
+| Road Trip | 4.00% | ~5,339 |
 | Hope Rekindled | 3.00% | ~4,004 |
 | Predator | 3.00% | ~4,004 |
 | Reverse Banditry | 3.00% | ~4,004 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,461 (Ranked 92)  
+Progressed: 133,464 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,461 | 5 |
+| 2024-01-22 | 133,464 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,818 (Ranked 58)  

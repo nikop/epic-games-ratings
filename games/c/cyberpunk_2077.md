@@ -33,6 +33,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | Spin Doctor | 0.30% | ~557 |
 | To Bad Decisions! | 0.20% | ~2,114 |
 | The Wandering Fool | 0.20% | ~2,114 |
+| Breathtaking | 0.20% | ~2,114 |
 | Ten out of Ten | 0.20% | ~2,114 |
 | The Star | 0.20% | ~2,114 |
 | The Sun | 0.20% | ~2,114 |
@@ -46,7 +47,6 @@ Number of Ratings: 32,700  (23.09.2022)
 | Mean Streets | 0.10% | ~1,057 |
 | Little Tokyo | 0.10% | ~1,057 |
 | Must Be Rats | 0.10% | ~1,057 |
-| Breathtaking | 0.10% | ~1,057 |
 | The Wasteland | 0.10% | ~1,057 |
 | Daemon In The Shell | 0.10% | ~1,057 |
 | Temperance | 0.10% | ~1,057 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,958 (Ranked 17)  
+Progressed: 1,056,988 (Ranked 17)  
 Completed: 3,146 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,7 +351,7 @@ Completed: 3,146 (0.30%) (Ranked 265)
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
-| 2024-01-22 | 1,056,958 | 3,146 |
+| 2024-01-22 | 1,056,988 | 3,146 |
 ## Awards
 Max (Character Customization): 143,675  (Ranked 8)  
 Sum: 512,797 (Ranked 8)  

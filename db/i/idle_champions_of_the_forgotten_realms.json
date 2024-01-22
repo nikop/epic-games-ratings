@@ -9695,10 +9695,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33602,
       "NumberOfAwardsMax": 5810
+    },
+    {
+      "Time": "2024-01-22T09:57:37.3372511+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33605,
+      "NumberOfAwardsMax": 5810
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33602,
+  "NumberOfAwards": 33605,
   "NumberOfAwardsMax": 5810,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9712,7 +9718,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5740
+      "Count": 5743
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -9745,9 +9751,9 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255159,
+  "EOS_Progressed": 255165,
   "EOS_Completed": 2630,
-  "EOS_NewPlayers": 1142,
+  "EOS_NewPlayers": 1143,
   "EOS_NewCompleters": 13,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41180,6 +41186,11 @@
       "Time": "2024-01-22T09:10:35.5735403+00:00",
       "NumProgressed": 255159,
       "NumCompleted": 2630
+    },
+    {
+      "Time": "2024-01-22T10:10:16.5272704+00:00",
+      "NumProgressed": 255165,
+      "NumCompleted": 2630
     }
   ],
   "TotalAchievements": 546,
@@ -45479,7 +45490,7 @@
       "Name": "Welcome to Sigil",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1771
+      "UsersEstimate": 1772
     },
     {
       "ID": "objective_completed_1558",
@@ -45558,21 +45569,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221433,
+      "Progressed": 221439,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255159,
+      "Progressed": 255165,
       "Completed": 2630
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-21T22:57:33.9043633+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:10:35.5735399+00:00",
+  "LastChanged": "2024-01-22T09:57:37.3372509+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:10:16.5272701+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:57:42.1208878+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:10:35.5758006+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:57:37.3372518+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:10:16.5295831+00:00"
 }

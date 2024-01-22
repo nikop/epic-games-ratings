@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25183,
+  "EOS_Progressed": 25184,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 35,
+  "EOS_NewPlayers": 36,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9381,6 +9381,11 @@
       "Time": "2024-01-22T09:09:14.1221218+00:00",
       "NumProgressed": 25183,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-22T10:09:02.2793348+00:00",
+      "NumProgressed": 25184,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9464,7 +9469,7 @@
       "Name": "Lezduit!",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_GET_MAGBOOTS",
@@ -9496,7 +9501,7 @@
       "Name": "Eye Scream, You Scream",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_HUMAN_HAVEN",
@@ -9536,7 +9541,7 @@
       "Name": "Legendary Bounty Hunter",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_KILL_GIBLETS",
@@ -9560,7 +9565,7 @@
       "Name": "Self-Actualization",
       "Percentage": 3,
       "XP": 45,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_KILL_SKRENDELS",
@@ -9616,7 +9621,7 @@
       "Name": "Spent 15 Hours At The Alien Strip Club",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_NOT_KENNY",
@@ -9640,7 +9645,7 @@
       "Name": "Series Wrap on Suit-O",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "ACH_CHARGED_BALL_KILLS",
@@ -9743,13 +9748,13 @@
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25183,
+      "Progressed": 25184,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2476,
+      "Progressed": 2477,
       "Completed": 1376
     }
   ],
@@ -9757,8 +9762,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:09:14.1221215+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:09:02.2793344+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.7752227+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:58:03.3321382+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:09:14.1221812+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:57:55.8016629+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:09:02.2794121+00:00"
 }

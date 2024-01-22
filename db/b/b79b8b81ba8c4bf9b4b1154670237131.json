@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 171,
   "Ranking_EOS_Completed": 325,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-14T17:00:00+00:00",
@@ -203,9 +203,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 16863,
+  "EOS_Progressed": 16864,
   "EOS_Completed": 16,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 165,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -7208,6 +7208,11 @@
       "Time": "2024-01-22T09:09:57.6200758+00:00",
       "NumProgressed": 16863,
       "NumCompleted": 16
+    },
+    {
+      "Time": "2024-01-22T10:09:41.3959599+00:00",
+      "NumProgressed": 16864,
+      "NumCompleted": 16
     }
   ],
   "AchievementsAdded": "2023-11-14T00:05:20.8218044+00:00",
@@ -7252,7 +7257,7 @@
       "Name": "No Holding Back",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 12647
+      "UsersEstimate": 12648
     },
     {
       "ID": "ACH_AE_14",
@@ -7300,7 +7305,7 @@
       "Name": "Signature Style",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 2529
+      "UsersEstimate": 2530
     },
     {
       "ID": "ACH_AE_2",
@@ -7499,7 +7504,7 @@
     {
       "ID": "ck3465",
       "IsBase": true,
-      "Progressed": 16863,
+      "Progressed": 16864,
       "Completed": 16
     }
   ],
@@ -7507,8 +7512,8 @@
   "FirstSeenRating": "2023-11-18T01:43:33.9893591+00:00",
   "FirstSeenAchievements": "2023-11-07T15:03:30.6237417+00:00",
   "LastChanged": "2024-01-21T20:57:58.4125903+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:09:57.6200755+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:09:41.3959597+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.8519454+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:58:00.3461759+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:09:57.6201279+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:57:53.2050597+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:09:41.396014+00:00"
 }

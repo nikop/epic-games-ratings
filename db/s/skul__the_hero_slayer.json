@@ -1601,7 +1601,7 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 14934,
+  "EOS_Progressed": 14935,
   "EOS_Completed": 23,
   "EOS_NewPlayers": 196,
   "EOS_NewCompleters": 1,
@@ -10611,6 +10611,11 @@
       "Time": "2024-01-22T09:09:39.7848399+00:00",
       "NumProgressed": 14934,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-22T10:09:25.5168398+00:00",
+      "NumProgressed": 14935,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 24,
@@ -10646,7 +10651,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8960
+      "UsersEstimate": 8961
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10654,7 +10659,7 @@
       "Name": "Castle Restoration Plans",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "DwarfChandelier",
@@ -10678,7 +10683,7 @@
       "Name": "Deadly Power",
       "Percentage": 16,
       "XP": 90,
-      "UsersEstimate": 2389
+      "UsersEstimate": 2390
     },
     {
       "ID": "FirstHeroLastBattle",
@@ -10774,7 +10779,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4928
+      "UsersEstimate": 4929
     },
     {
       "ID": "TheLegendBegins",
@@ -10782,7 +10787,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13889
+      "UsersEstimate": 13890
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10790,7 +10795,7 @@
       "Name": "The End of the Gold Mane Knights",
       "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 7168
+      "UsersEstimate": 7169
     },
     {
       "ID": "TheendofGoldManeKnights_2",
@@ -10806,22 +10811,22 @@
       "Name": "What should I buy?",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 11947
+      "UsersEstimate": 11948
     }
   ],
   "AchievementSets": [
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14934,
+      "Progressed": 14935,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-22T02:59:03.6516572+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:09:39.7848394+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:09:25.5168395+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:59:22.6394171+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:09:39.7848949+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:59:04.4540222+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:09:25.5169002+00:00"
 }

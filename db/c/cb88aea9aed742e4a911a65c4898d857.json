@@ -2,12 +2,12 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 224,
+  "Ranking_Rating": 240,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -20,7 +20,7 @@
       "com.epicgames.app.blacklist": "[]"
     }
   },
-  "Rating": 4.7,
+  "Rating": 4.69,
   "RatingHistory": [
     {
       "Time": "2023-12-11T06:59:42.897175+00:00",
@@ -423,6 +423,12 @@
       "Rating": 4.7,
       "NumberOfAwards": 235,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2024-01-22T09:57:28.1976459+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 235,
+      "NumberOfAwardsMax": 164
     }
   ],
   "ReviewsDisabled": false,
@@ -455,9 +461,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12057,
+  "EOS_Progressed": 12058,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 567,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5800,6 +5806,11 @@
       "Time": "2024-01-22T09:10:26.128825+00:00",
       "NumProgressed": 12057,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T10:10:07.5170029+00:00",
+      "NumProgressed": 12058,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5954,9 +5965,9 @@
       "ID": "20_PurgeTheUnclean",
       "SetID": "37a94m8",
       "Name": "Purge the Unclean",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 482
+      "UsersEstimate": 362
     },
     {
       "ID": "21_PreciseDefense",
@@ -6124,7 +6135,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1567
+      "UsersEstimate": 1568
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6210,9 +6221,9 @@
       "ID": "52_TheGoldenFrog",
       "SetID": "37a94m8",
       "Name": "Frog Trader",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 84
     },
     {
       "ID": "53_GardensOfMadness",
@@ -6331,16 +6342,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12057,
+      "Progressed": 12058,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-21T22:57:25.0496169+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:10:26.1288246+00:00",
+  "LastChanged": "2024-01-22T09:57:28.1976457+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:10:07.5170027+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:57:29.5072275+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:10:26.1289203+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:57:28.1976462+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:10:07.5170646+00:00"
 }

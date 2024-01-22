@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 237,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2035,
+  "EOS_Progressed": 2036,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3870,6 +3870,11 @@
       "Time": "2024-01-21T23:05:59.7640907+00:00",
       "NumProgressed": 2035,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-22T10:05:52.1181856+00:00",
+      "NumProgressed": 2036,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3881,7 +3886,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 834
+      "UsersEstimate": 835
     },
     {
       "ID": "10",
@@ -3945,7 +3950,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1424
+      "UsersEstimate": 1425
     },
     {
       "ID": "18",
@@ -4097,7 +4102,7 @@
       "Name": "Ain\u0027t no mountain high enough",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 142
+      "UsersEstimate": 143
     },
     {
       "ID": "8",
@@ -4120,15 +4125,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2035,
+      "Progressed": 2036,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-22T09:06:44.697276+00:00",
+  "LastChanged_Achievements": "2024-01-22T10:05:52.1181853+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:58:14.1943735+00:00",
-  "LastUpdate_Achievements": "2024-01-22T09:06:44.697316+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:58:05.3959846+00:00",
+  "LastUpdate_Achievements": "2024-01-22T10:05:52.1182133+00:00"
 }

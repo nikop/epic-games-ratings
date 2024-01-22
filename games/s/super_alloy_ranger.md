@@ -5,11 +5,11 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Iceberg Theory | 75.00% | ~121 |
-| Gear Up | 64.00% | ~103 |
-| A Grand Show | 64.00% | ~103 |
-| Freshen Up | 53.00% | ~85 |
-| GG EZ | 51.00% | ~82 |
-| Hydrophobia | 35.00% | ~56 |
+| Gear Up | 65.00% | ~105 |
+| A Grand Show | 65.00% | ~105 |
+| Freshen Up | 54.00% | ~87 |
+| GG EZ | 52.00% | ~84 |
+| Hydrophobia | 36.00% | ~58 |
 | Ka-Ching! | 29.00% | ~47 |
 | Stop Right There | 27.00% | ~43 |
 | Get to the Point | 23.00% | ~37 |
