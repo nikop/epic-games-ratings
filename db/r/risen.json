@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 331,
+  "Ranking_EOS_NewPlayers": 330,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -1317,9 +1317,9 @@
       "ID": "id_42",
       "SetID": "bk9jib6",
       "Name": "Ogre friend",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 47
+      "UsersEstimate": 49
     },
     {
       "ID": "id_43",
@@ -1542,8 +1542,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-21T07:02:18.1071448+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:11:05.3137211+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:09:42.087046+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:58:00.9866452+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:11:05.3137548+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:57:34.3996355+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:09:42.0870792+00:00"
 }

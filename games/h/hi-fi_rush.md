@@ -5,23 +5,23 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,860 |
-| Feeling the beat! | 56.00% | ~9,860 |
-| You can pet the cat! | 51.00% | ~8,980 |
-| Who put gears in there? | 42.00% | ~7,395 |
+| Start with a bang! | 56.00% | ~9,861 |
+| Feeling the beat! | 56.00% | ~9,861 |
+| You can pet the cat! | 51.00% | ~8,981 |
+| Who put gears in there? | 42.00% | ~7,396 |
 | Cream of the Crop | 37.00% | ~6,515 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,339 |
 | You got this, Peppermint? | 32.00% | ~5,635 |
-| Perfect Parry | 29.00% | ~5,106 |
-| Alright, that felt AWESOME! | 29.00% | ~5,106 |
+| Perfect Parry | 29.00% | ~5,107 |
+| Alright, that felt AWESOME! | 29.00% | ~5,107 |
 | I play my own way! | 25.00% | ~4,402 |
 | This will cost you big time | 24.00% | ~4,226 |
 | Uh, they were broken when I got here | 23.00% | ~4,050 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,874 |
 | Kissing the sky! | 21.00% | ~3,698 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,169 |
-| Does that say weakpoint? | 18.00% | ~3,169 |
-| The Negotiator | 17.00% | ~2,993 |
+| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,170 |
+| Does that say weakpoint? | 18.00% | ~3,170 |
+| The Negotiator | 17.00% | ~2,994 |
 | You must like calling me in, Chai | 16.00% | ~2,817 |
 | Headliner | 15.00% | ~2,641 |
 | Out in a puff of smoke | 15.00% | ~2,641 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,608 (Ranked 168)  
+Progressed: 17,609 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 8 (0.05%) (Ranked 348)
 | 2024-01-19 | 17,441 | 8 |
 | 2024-01-20 | 17,503 | 8 |
 | 2024-01-21 | 17,560 | 8 |
-| 2024-01-22 | 17,608 | 8 |
+| 2024-01-22 | 17,609 | 8 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 503)  
 Sum: 37 (Ranked 538)  

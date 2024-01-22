@@ -2,7 +2,7 @@
   "ID": "16fc138ed83846bc90d923fe0d87ad72",
   "Name": "GigaBash",
   "ProductSlug": "gigabash",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 599,
   "Ranking_Popularity": 439,
   "Ranking_PopularitySum": 506,
   "Ranking_EOS_Progress": 94,
@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126093,
+  "EOS_Progressed": 126101,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2753,
+  "EOS_NewPlayers": 2746,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5580,6 +5580,11 @@
       "Time": "2024-01-22T21:05:23.1736766+00:00",
       "NumProgressed": 126093,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T22:04:13.9088738+00:00",
+      "NumProgressed": 126101,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5656,7 +5661,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13870
+      "UsersEstimate": 13871
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5664,7 +5669,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25219
+      "UsersEstimate": 25220
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5688,7 +5693,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18914
+      "UsersEstimate": 18915
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5736,7 +5741,7 @@
       "Name": "This is GigaBash!",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_PIPIJURAS_STORY",
@@ -5744,7 +5749,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10087
+      "UsersEstimate": 10088
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -5760,7 +5765,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11348
+      "UsersEstimate": 11349
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -5776,7 +5781,7 @@
       "Name": "Sidetracked...",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "ACH_STORY_APEX",
@@ -5871,7 +5876,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126093,
+      "Progressed": 126101,
       "Completed": 0
     }
   ],
@@ -5879,8 +5884,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:05:23.1736764+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:04:13.9088735+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:59:07.0353033+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:05:23.1737449+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:58:19.8273502+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:04:13.9089161+00:00"
 }

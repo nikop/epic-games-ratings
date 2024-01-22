@@ -4,7 +4,7 @@
   "ProductSlug": "quest-hunter-96b20d",
   "Ranking_EOS_Progress": 437,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-09T06:00:00+00:00",
@@ -1045,9 +1045,9 @@
       "ID": "killGolem10",
       "SetID": "ci65fo0",
       "Name": "Golems Fighter",
-      "Percentage": 39,
+      "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 77
+      "UsersEstimate": 79
     },
     {
       "ID": "killGrave10",
@@ -1197,9 +1197,9 @@
       "ID": "locGraveyard",
       "SetID": "ci65fo0",
       "Name": "Graveyard",
-      "Percentage": 44,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 89
     },
     {
       "ID": "locSmith",
@@ -1301,9 +1301,9 @@
       "ID": "questDefeatMainEnemy",
       "SetID": "ci65fo0",
       "Name": "The most important achievement",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "questDefender",
@@ -1333,9 +1333,9 @@
       "ID": "questGenerous",
       "SetID": "ci65fo0",
       "Name": "Generous",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 101
+      "UsersEstimate": 103
     },
     {
       "ID": "questHallucinationsKing",
@@ -1397,9 +1397,9 @@
       "ID": "questReturnSun",
       "SetID": "ci65fo0",
       "Name": "Let there be light!",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "questRobHut",
@@ -1445,9 +1445,9 @@
       "ID": "questSavePrincessFinal",
       "SetID": "ci65fo0",
       "Name": "Great rescuer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 24
+      "UsersEstimate": 26
     },
     {
       "ID": "questSaveRoyalSmith",
@@ -1498,8 +1498,8 @@
   ],
   "FirstSeen": "2023-06-10T02:07:40.9339282+00:00",
   "FirstSeenAchievements": "2023-06-07T07:01:02.3737618+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:11:03.7450966+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:09:40.8177267+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:11.7457374+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:57:40.3231797+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:11:03.7451593+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:57:21.1515381+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:09:40.8177823+00:00"
 }

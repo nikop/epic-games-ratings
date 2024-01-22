@@ -31,8 +31,8 @@ Number of Ratings: 45  (23.09.2022)
 | A Story of Heroes | 1.00% | ~16 |
 | Turncoat | 1.00% | ~16 |
 | Some Say I'm Too Flashy | 1.00% | ~16 |
+| No Time for Clawmonsters | 1.00% | ~16 |
 | All My Birds, Safely Home | 0.90% | ~15 |
-| No Time for Clawmonsters | 0.90% | ~15 |
 | Bears are Scary | 0.80% | ~13 |
 | Fight Like a Bird | 0.80% | ~13 |
 | Tempest | 0.80% | ~13 |

@@ -1,7 +1,7 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.64 (Ranked 348)  
+Rating: 4.64 (Ranked 349)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -16,9 +16,9 @@ Number of Ratings: 398  (23.09.2022)
 | The Governator | 16.00% | ~1,159 |
 | Caribbean Comrade | 15.00% | ~1,086 |
 | The Dreamer of Dreams | 15.00% | ~1,086 |
+| For Science! | 11.00% | ~797 |
 | Happy Ending? | 10.00% | ~724 |
 | Go Sovereigns! | 10.00% | ~724 |
-| For Science! | 10.00% | ~724 |
 | Of Seals And Men | 9.00% | ~652 |
 | Shackadelic | 9.00% | ~652 |
 | Double Trouble | 7.00% | ~507 |

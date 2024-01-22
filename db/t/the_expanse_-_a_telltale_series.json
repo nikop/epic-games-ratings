@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19235,
+  "EOS_Progressed": 19236,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 183,
+  "EOS_NewPlayers": 182,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18027,6 +18027,11 @@
       "Time": "2024-01-22T21:06:31.4704246+00:00",
       "NumProgressed": 19235,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-22T22:05:01.1079587+00:00",
+      "NumProgressed": 19236,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18079,7 +18084,7 @@
       "Name": "Doctor Approved",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "15",
@@ -18111,7 +18116,7 @@
       "Name": "Bottoms up!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1346
+      "UsersEstimate": 1347
     },
     {
       "ID": "19",
@@ -18318,22 +18323,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19235,
+      "Progressed": 19236,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5189,
-      "Completed": 1386
+      "Progressed": 5190,
+      "Completed": 1388
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-22T18:58:41.0959252+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:06:31.4704242+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:05:01.1079584+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:59:21.3213618+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:06:31.4705422+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:58:29.6438492+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:05:01.1080379+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "catnip",
   "Name": "Borderlands 3",
   "ProductSlug": "borderlands-3",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 9,
   "Ranking_PopularitySum": 10,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2019-09-13T15:00:00+00:00",
@@ -18029,10 +18029,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 381109,
       "NumberOfAwardsMax": 126143
+    },
+    {
+      "Time": "2024-01-22T21:59:41.5285554+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 381154,
+      "NumberOfAwardsMax": 126143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 381109,
+  "NumberOfAwards": 381154,
   "NumberOfAwardsMax": 126143,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18058,7 +18064,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 28118
+      "Count": 28140
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18070,7 +18076,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 27627
+      "Count": 27650
     },
     {
       "Text": "This game is Relaxing",
@@ -18114,8 +18120,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:17:32.2549878+00:00",
-  "LastChanged": "2024-01-22T18:59:54.0682877+00:00",
+  "LastChanged": "2024-01-22T21:59:41.5285552+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:59.6727176+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:01:09.2379612+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:05:09.476504+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:59:41.5285558+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:04:04.2896345+00:00"
 }

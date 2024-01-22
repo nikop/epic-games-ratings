@@ -1,15 +1,15 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.51 (Ranked 600)  
+Rating: 4.51 (Ranked 599)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,219 |
-| I've Had Enough! | 15.00% | ~18,914 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,870 |
-| Seasoned Fighter | 9.00% | ~11,348 |
-| All For One and One For All | 8.00% | ~10,087 |
+| All Grown Up! | 20.00% | ~25,220 |
+| I've Had Enough! | 15.00% | ~18,915 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,871 |
+| Seasoned Fighter | 9.00% | ~11,349 |
+| All For One and One For All | 8.00% | ~10,088 |
 | Home Sweet Home? | 6.00% | ~7,566 |
 | A New Age | 5.00% | ~6,305 |
 | Oh Baby, A Triple | 3.00% | ~3,783 |
@@ -26,8 +26,8 @@ Rating: 4.51 (Ranked 600)
 | Zero-sum Game | 1.00% | ~1,261 |
 | Ninja Reflex | 0.90% | ~1,135 |
 | Taste Your Own Medicine | 0.80% | ~1,009 |
-| This is GigaBash! | 0.50% | ~630 |
-| Sidetracked... | 0.50% | ~630 |
+| This is GigaBash! | 0.50% | ~631 |
+| Sidetracked... | 0.50% | ~631 |
 | Eye of the Titan | 0.40% | ~504 |
 | Just Getting Warmed Up | 0.40% | ~504 |
 | Top of the Food Chain | 0.40% | ~504 |
@@ -41,7 +41,7 @@ Rating: 4.51 (Ranked 600)
 | What's Mine is Yours | 0.10% | ~126 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 126,093 (Ranked 94)  
+Progressed: 126,101 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 124,900 | 0 |
 | 2024-01-20 | 125,359 | 0 |
 | 2024-01-21 | 125,815 | 0 |
-| 2024-01-22 | 126,093 | 0 |
+| 2024-01-22 | 126,101 | 0 |
 ## Awards
 Max (Great Boss Battles): 59  (Ranked 439)  
 Sum: 59 (Ranked 506)  

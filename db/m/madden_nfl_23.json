@@ -1051,7 +1051,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 4542,
+  "EOS_Progressed": 4543,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
@@ -9121,6 +9121,11 @@
       "Time": "2024-01-22T21:09:06.9269764+00:00",
       "NumProgressed": 4542,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T22:08:19.2984941+00:00",
+      "NumProgressed": 4543,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-19T23:05:10.7749428+00:00",
@@ -9181,7 +9186,7 @@
       "Name": "MVP",
       "Percentage": 53,
       "XP": 90,
-      "UsersEstimate": 2407
+      "UsersEstimate": 2408
     },
     {
       "ID": "achievement_16",
@@ -9189,7 +9194,7 @@
       "Name": "ROTY",
       "Percentage": 32,
       "XP": 100,
-      "UsersEstimate": 1453
+      "UsersEstimate": 1454
     },
     {
       "ID": "achievement_17",
@@ -9243,9 +9248,9 @@
       "ID": "achievement_3",
       "SetID": "c8fif6p",
       "Name": "Throwin\u2019 Dots",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 818
+      "UsersEstimate": 772
     },
     {
       "ID": "achievement_4",
@@ -9300,7 +9305,7 @@
     {
       "ID": "c8fif6p",
       "IsBase": true,
-      "Progressed": 4542,
+      "Progressed": 4543,
       "Completed": 0
     }
   ],
@@ -9308,8 +9313,8 @@
   "FirstSeenRating": "2022-12-16T08:57:24.9170768+00:00",
   "FirstSeenAchievements": "2023-07-18T21:06:36.6756133+00:00",
   "LastChanged": "2024-01-21T01:56:27.488858+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:09:06.9269759+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:08:19.2984937+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:33.6554152+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:59:23.7825405+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:09:06.9270368+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:58:31.2518119+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:08:19.2985556+00:00"
 }

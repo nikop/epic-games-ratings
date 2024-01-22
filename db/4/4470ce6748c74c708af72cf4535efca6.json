@@ -4,7 +4,7 @@
   "ProductSlug": "warstone-td-8fe138",
   "Ranking_EOS_Progress": 538,
   "Ranking_EOS_Completed": 92,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -506,9 +506,9 @@
       "ID": "27",
       "SetID": "5e3maia",
       "Name": "Madly in love",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "28",
@@ -905,8 +905,8 @@
   ],
   "FirstSeen": "2023-08-18T16:58:15.744315+00:00",
   "FirstSeenAchievements": "2023-08-04T21:02:15.6690515+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:08:39.9720366+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:08:00.2248506+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.60083+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:57:34.1334679+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:08:39.9720846+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:57:17.0942662+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:08:00.2248963+00:00"
 }

@@ -22,7 +22,7 @@ Rating: 4.63 (Ranked 359)
 | My Darkest Day | 50.00% | ~794 |
 | Rhythm Of Willump | 47.00% | ~746 |
 | The Relentless Storm | 47.00% | ~746 |
-| A Tragic Reminder | 45.00% | ~714 |
+| A Tragic Reminder | 46.00% | ~730 |
 | 3000 Year Blackout | 45.00% | ~714 |
 | The Finisher | 43.00% | ~682 |
 | So Close | 42.00% | ~667 |
@@ -50,7 +50,7 @@ Rating: 4.63 (Ranked 359)
 | We Are Speed | 2.00% | ~32 |
 | Sneaky Notai | 1.00% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,587 (Ranked 271)  
+Progressed: 1,587 (Ranked 272)  
 Completed: 10 (0.63%) (Ranked 212)  
 ## EOS Players History
 | Date | Progressed | Completed |

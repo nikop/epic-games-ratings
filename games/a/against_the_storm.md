@@ -6,8 +6,8 @@ Number of Ratings: 1,845  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Abandoned Settlement | 10.00% | ~2,097 |
-| Overgrown Library | 10.00% | ~2,097 |
+| Abandoned Settlement | 10.00% | ~2,098 |
+| Overgrown Library | 10.00% | ~2,098 |
 | First Real Expedition | 9.00% | ~1,888 |
 | Taking Action | 9.00% | ~1,888 |
 | No Deaths | 9.00% | ~1,888 |
@@ -41,16 +41,16 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 3.00% | ~629 |
 | Haunted Forest | 3.00% | ~629 |
 | Flooded Mines | 3.00% | ~629 |
-| Serving Ale | 2.00% | ~419 |
-| Efficient Explorer | 2.00% | ~419 |
-| Refinery | 2.00% | ~419 |
-| Dangerous Lands | 2.00% | ~419 |
-| Fishmen Ritual Site | 2.00% | ~419 |
-| Forbidden Lands | 2.00% | ~419 |
-| Forsaken Gods Temple | 2.00% | ~419 |
-| Victory Through Prosperity | 2.00% | ~419 |
-| Defying the Crown | 2.00% | ~419 |
-| Into the Forest | 2.00% | ~419 |
+| Serving Ale | 2.00% | ~420 |
+| Efficient Explorer | 2.00% | ~420 |
+| Refinery | 2.00% | ~420 |
+| Dangerous Lands | 2.00% | ~420 |
+| Fishmen Ritual Site | 2.00% | ~420 |
+| Forbidden Lands | 2.00% | ~420 |
+| Forsaken Gods Temple | 2.00% | ~420 |
+| Victory Through Prosperity | 2.00% | ~420 |
+| Defying the Crown | 2.00% | ~420 |
+| Into the Forest | 2.00% | ~420 |
 | Feeding The People | 1.00% | ~210 |
 | Like a Machine | 1.00% | ~210 |
 | Prestigious Expedition | 0.60% | ~126 |
@@ -66,8 +66,8 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,974 (Ranked 157)  
-Completed: 34 (0.16%) (Ranked 296)  
+Progressed: 20,975 (Ranked 157)  
+Completed: 34 (0.16%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -343,10 +343,10 @@ Completed: 34 (0.16%) (Ranked 296)
 | 2024-01-19 | 20,898 | 35 |
 | 2024-01-20 | 20,926 | 35 |
 | 2024-01-21 | 20,958 | 34 |
-| 2024-01-22 | 20,974 | 34 |
+| 2024-01-22 | 20,975 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 455  (Ranked 235)  
-Sum: 3,407 (Ranked 180)  
+Sum: 3,408 (Ranked 180)  
 Diff (max vs sum): 55  
 | Award | Count |
 | ----- | ----- |
@@ -355,7 +355,7 @@ Diff (max vs sum): 55
 | This game is Relaxing | 452 |
 | This game is Extremely Fun | 424 |
 | This game is Highly Recommended | 411 |
-| This game has Unique Visuals | 352 |
+| This game has Unique Visuals | 353 |
 | This game has Amazing Storytelling | 338 |
 | This game has Amazing Characters | 299 |
 | This game has Obsessive Gameplay | 254 |
@@ -654,3 +654,4 @@ Diff (max vs sum): 55
 | 2024-01-19 | 4.82 | - | 454 | 3,398 |
 | 2024-01-20 | 4.82 | - | 455 | 3,401 |
 | 2024-01-21 | 4.82 | - | 455 | 3,407 |
+| 2024-01-22 | 4.82 | - | 455 | 3,408 |

@@ -2,12 +2,12 @@
   "ID": "b7773a08a6fa41e3a0fbc4c1e51c95a4",
   "Name": "F1\u00AE 23",
   "ProductSlug": "f1-23",
-  "Ranking_Rating": 348,
+  "Ranking_Rating": 326,
   "Ranking_Popularity": 420,
   "Ranking_PopularitySum": 343,
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 134,
+  "Ranking_EOS_NewPlayers": 135,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.64,
+  "Rating": 4.65,
   "RatingHistory": [
     {
       "Time": "2023-07-03T02:21:27.1613315+00:00",
@@ -1543,6 +1543,12 @@
       "Rating": 4.64,
       "NumberOfAwards": 475,
       "NumberOfAwardsMax": 71
+    },
+    {
+      "Time": "2024-01-22T21:59:30.0480241+00:00",
+      "Rating": 4.65,
+      "NumberOfAwards": 475,
+      "NumberOfAwardsMax": 71
     }
   ],
   "ReviewsDisabled": false,
@@ -1623,9 +1629,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18625,
+  "EOS_Progressed": 18626,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 383,
+  "EOS_NewPlayers": 382,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12603,6 +12609,11 @@
       "Time": "2024-01-22T21:05:26.4985712+00:00",
       "NumProgressed": 18625,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T22:04:16.1712271+00:00",
+      "NumProgressed": 18626,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12663,7 +12674,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16949
+      "UsersEstimate": 16950
     },
     {
       "ID": "achievement_0008",
@@ -12671,7 +12682,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15459
+      "UsersEstimate": 15460
     },
     {
       "ID": "achievement_0009",
@@ -12679,7 +12690,7 @@
       "Name": "Eagle Eye",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "achievement_0010",
@@ -12695,7 +12706,7 @@
       "Name": "All in a Weekend\u0027s Work",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "achievement_0012",
@@ -12711,7 +12722,7 @@
       "Name": "Oil and Water",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "achievement_0014",
@@ -12743,7 +12754,7 @@
       "Name": "Hitting a Bullseye",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "achievement_0018",
@@ -12751,7 +12762,7 @@
       "Name": "Hitting a Century",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "achievement_0019",
@@ -12775,7 +12786,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12665
+      "UsersEstimate": 12666
     },
     {
       "ID": "achievement_0022",
@@ -12807,7 +12818,7 @@
       "Name": "Wait, I know you?",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "achievement_0026",
@@ -12815,7 +12826,7 @@
       "Name": "Friendly Competition",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "achievement_0027",
@@ -12823,7 +12834,7 @@
       "Name": "Switcheroo",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 1862
+      "UsersEstimate": 1863
     },
     {
       "ID": "achievement_0028",
@@ -12951,7 +12962,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "achievement_0044",
@@ -13006,16 +13017,16 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18625,
+      "Progressed": 18626,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-16T07:57:31.4647936+00:00",
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
-  "LastChanged": "2024-01-22T21:00:51.3152512+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:05:26.4985709+00:00",
+  "LastChanged": "2024-01-22T21:59:30.0480239+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:04:16.1712264+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:00:51.3152516+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:05:26.4986356+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:59:30.0480243+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:04:16.1712953+00:00"
 }

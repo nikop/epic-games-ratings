@@ -9356,9 +9356,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479651,
+  "EOS_Progressed": 479652,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 314,
+  "EOS_NewPlayers": 313,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -37076,6 +37076,11 @@
       "Time": "2024-01-22T20:10:41.0363285+00:00",
       "NumProgressed": 479651,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-22T22:09:05.6263519+00:00",
+      "NumProgressed": 479652,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -37143,7 +37148,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124709
+      "UsersEstimate": 124710
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -37199,7 +37204,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143895
+      "UsersEstimate": 143896
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -37319,7 +37324,7 @@
       "Name": "I\u0027m The Boss!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 201453
+      "UsersEstimate": 201454
     },
     {
       "ID": "achievement_full_board_confidence",
@@ -37375,7 +37380,7 @@
       "Name": "Attack!",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 134302
+      "UsersEstimate": 134303
     },
     {
       "ID": "achievement_goal_scored_in_30_consecutive_matches",
@@ -37479,7 +37484,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124709
+      "UsersEstimate": 124710
     },
     {
       "ID": "achievement_mr_delegator",
@@ -37519,7 +37524,7 @@
       "Name": "Total Support",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 153488
+      "UsersEstimate": 153489
     },
     {
       "ID": "achievement_perfect_match_cohesion",
@@ -37591,7 +37596,7 @@
       "Name": "Record Signing",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 153488
+      "UsersEstimate": 153489
     },
     {
       "ID": "achievement_rushed_signing",
@@ -37607,7 +37612,7 @@
       "Name": "Scoring Streak",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 182267
+      "UsersEstimate": 182268
     },
     {
       "ID": "achievement_scouts_honour",
@@ -37631,7 +37636,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 230232
+      "UsersEstimate": 230233
     },
     {
       "ID": "achievement_signed_a_player",
@@ -37870,15 +37875,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479651,
+      "Progressed": 479652,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
   "LastChanged": "2024-01-22T17:03:18.109399+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:10:12.4510195+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:09:05.6263515+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.8725355+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:03:10.1949857+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:10:12.4513033+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:02:42.4773506+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:09:05.6265247+00:00"
 }

@@ -10,7 +10,7 @@ Number of Ratings: 371  (23.09.2022)
 | Look Over There! | 16.00% | ~629 |
 | Not So Fast... | 16.00% | ~629 |
 | Watch Where You Step... | 16.00% | ~629 |
-| An Ill Omen | 15.00% | ~590 |
+| An Ill Omen | 16.00% | ~629 |
 | Purging Spree | 11.00% | ~432 |
 | Blood for the Blood God! | 10.00% | ~393 |
 | Bloodless | 8.00% | ~314 |

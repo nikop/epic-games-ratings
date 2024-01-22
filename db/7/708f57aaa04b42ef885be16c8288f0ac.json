@@ -2,11 +2,11 @@
   "ID": "708f57aaa04b42ef885be16c8288f0ac",
   "Name": "Ghostrunner 2",
   "ProductSlug": "ghostrunner-2",
-  "Ranking_Rating": 151,
+  "Ranking_Rating": 152,
   "Ranking_Popularity": 455,
   "Ranking_PopularitySum": 512,
   "Ranking_EOS_Progress": 175,
-  "Ranking_EOS_Completed": 293,
+  "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
@@ -467,9 +467,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15205,
+  "EOS_Progressed": 15206,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 278,
+  "EOS_NewPlayers": 276,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11187,6 +11187,11 @@
       "Time": "2024-01-22T21:11:00.6727194+00:00",
       "NumProgressed": 15205,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-22T22:09:38.4440334+00:00",
+      "NumProgressed": 15206,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11391,7 +11396,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3953
+      "UsersEstimate": 3954
     },
     {
       "ID": "TheQuarterback",
@@ -11399,7 +11404,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6538
+      "UsersEstimate": 6539
     },
     {
       "ID": "ThisIsDharma",
@@ -11455,7 +11460,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     },
     {
       "ID": "k01101110",
@@ -11463,14 +11468,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1520
+      "UsersEstimate": 1521
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15205,
+      "Progressed": 15206,
       "Completed": 28
     }
   ],
@@ -11478,8 +11483,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-21T01:57:02.9385793+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:11:00.672719+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:09:38.4440331+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:59:58.1380073+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:11:00.6727971+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:58:54.9327151+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:09:38.4441039+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "thecycle",
   "Ranking_Rating": 1031,
   "Ranking_Popularity": 110,
-  "Ranking_PopularitySum": 69,
+  "Ranking_PopularitySum": 70,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 560,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2099-06-08T10:00:00+00:00",
@@ -7112,6 +7112,6 @@
   "FirstSeen": "2022-07-22T20:19:03.6642346+00:00",
   "LastChanged": "2023-10-07T23:58:38.3129285+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.0804814+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:00:09.5752705+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:07:05.7676519+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:59:02.3159863+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:05:25.2279103+00:00"
 }

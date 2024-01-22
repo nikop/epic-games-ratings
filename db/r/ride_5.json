@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3675,
+  "EOS_Progressed": 3676,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9200,6 +9200,11 @@
       "Time": "2024-01-22T21:08:04.0818182+00:00",
       "NumProgressed": 3675,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T22:06:05.6245696+00:00",
+      "NumProgressed": 3676,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9212,7 +9217,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1690
+      "UsersEstimate": 1691
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9220,7 +9225,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1580
+      "UsersEstimate": 1581
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9268,7 +9273,7 @@
       "Name": "I Want One Too!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 808
+      "UsersEstimate": 809
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9500,7 +9505,7 @@
       "Name": "Bitter Rivalry",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ML_ACHIEVEMENT_38",
@@ -9516,7 +9521,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1102
+      "UsersEstimate": 1103
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9564,7 +9569,7 @@
       "Name": "Rivals to the End",
       "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 1139
+      "UsersEstimate": 1140
     },
     {
       "ID": "ML_ACHIEVEMENT_46",
@@ -9603,7 +9608,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3675,
+      "Progressed": 3676,
       "Completed": 0
     }
   ],
@@ -9611,8 +9616,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:08:04.0818178+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:06:05.6245693+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:57:08.1652136+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:08:04.0818994+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:56:59.6583634+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:06:05.6246292+00:00"
 }

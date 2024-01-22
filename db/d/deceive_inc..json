@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19371,
+  "EOS_Progressed": 19372,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14880,6 +14880,11 @@
       "Time": "2024-01-22T02:03:14.2280712+00:00",
       "NumProgressed": 19371,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T22:07:48.696338+00:00",
+      "NumProgressed": 19372,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14891,7 +14896,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5811
+      "UsersEstimate": 5812
     },
     {
       "ID": "0002",
@@ -14955,7 +14960,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "0010",
@@ -14979,7 +14984,7 @@
       "Name": "You Only Live Twice",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "0013",
@@ -14995,7 +15000,7 @@
       "Name": "Fully Decked Out",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 3099
+      "UsersEstimate": 3100
     },
     {
       "ID": "0015",
@@ -15107,7 +15112,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4455
+      "UsersEstimate": 4456
     },
     {
       "ID": "0029",
@@ -15178,7 +15183,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19371,
+      "Progressed": 19372,
       "Completed": 4
     }
   ],
@@ -15186,8 +15191,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:08:23.446634+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:07:48.6963376+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:01:17.3085743+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:08:23.4467938+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:59:46.9293708+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:07:48.6964332+00:00"
 }

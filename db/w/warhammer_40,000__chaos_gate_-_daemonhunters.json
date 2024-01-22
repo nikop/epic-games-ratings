@@ -6438,9 +6438,9 @@
       "ID": "KoramarCompleted",
       "SetID": "3jha1np",
       "Name": "An Ill Omen",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 590
+      "UsersEstimate": 629
     },
     {
       "ID": "LargeGrimoireInventory",
@@ -6748,8 +6748,8 @@
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-21T02:01:56.8630375+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:06:11.0678249+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:04:46.9932742+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:03:42.1579994+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:06:11.0679117+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:03:03.8714255+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:04:46.9933367+00:00"
 }

@@ -1,7 +1,7 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 240)  
+Rating: 4.69 (Ranked 241)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -12,25 +12,25 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 7.00% | ~9,346 |
 | Creep and Sleep | 7.00% | ~9,346 |
 | Overdue Notice | 7.00% | ~9,346 |
-| This guy... again? | 7.00% | ~586 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,010 |
-| Serenity Now! | 6.00% | ~8,010 |
-| Meat and Greet | 6.00% | ~8,010 |
-| Catch and Decease | 6.00% | ~8,010 |
-| Escape from the Black Hole | 6.00% | ~8,010 |
-| Rush Hour | 6.00% | ~8,010 |
-| To Grandmother's House | 6.00% | ~8,010 |
-| FNG | 6.00% | ~8,010 |
+| This guy... again? | 7.00% | ~587 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,011 |
+| Serenity Now! | 6.00% | ~8,011 |
+| Meat and Greet | 6.00% | ~8,011 |
+| Catch and Decease | 6.00% | ~8,011 |
+| Escape from the Black Hole | 6.00% | ~8,011 |
+| Rush Hour | 6.00% | ~8,011 |
+| To Grandmother's House | 6.00% | ~8,011 |
+| FNG | 6.00% | ~8,011 |
 | Ploughshares to Swords | 6.00% | ~503 |
 | Bloody Graduation | 6.00% | ~503 |
-| It Rings a Bell | 5.00% | ~6,675 |
-| Not Today! | 5.00% | ~6,675 |
-| It Happens | 5.00% | ~6,675 |
-| Merry Time | 5.00% | ~6,675 |
-| Harvest Festival | 5.00% | ~6,675 |
-| Whale | 5.00% | ~6,675 |
-| A Place to Lay Your Head | 5.00% | ~6,675 |
-| Nope | 5.00% | ~6,675 |
+| It Rings a Bell | 5.00% | ~6,676 |
+| Not Today! | 5.00% | ~6,676 |
+| It Happens | 5.00% | ~6,676 |
+| Merry Time | 5.00% | ~6,676 |
+| Harvest Festival | 5.00% | ~6,676 |
+| Whale | 5.00% | ~6,676 |
+| A Place to Lay Your Head | 5.00% | ~6,676 |
+| Nope | 5.00% | ~6,676 |
 | Friends 'Til the End | 5.00% | ~419 |
 | Resurrection | 4.00% | ~5,340 |
 | Unleash Hell | 4.00% | ~5,340 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,508 (Ranked 92)  
+Progressed: 133,512 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,508 | 5 |
+| 2024-01-22 | 133,512 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,821 (Ranked 58)  

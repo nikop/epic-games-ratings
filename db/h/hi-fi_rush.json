@@ -285,7 +285,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17608,
+  "EOS_Progressed": 17609,
   "EOS_Completed": 8,
   "EOS_NewPlayers": 383,
   "EOS_NewCompleters": 0,
@@ -13065,6 +13065,11 @@
       "Time": "2024-01-22T21:06:54.7945207+00:00",
       "NumProgressed": 17608,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T22:05:17.5198598+00:00",
+      "NumProgressed": 17609,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13076,7 +13081,7 @@
       "Name": "Start with a bang!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9860
+      "UsersEstimate": 9861
     },
     {
       "ID": "Ach002",
@@ -13100,7 +13105,7 @@
       "Name": "The Negotiator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2993
+      "UsersEstimate": 2994
     },
     {
       "ID": "Ach005",
@@ -13212,7 +13217,7 @@
       "Name": "Whoa! There\u0027s ANOTHER health bar!?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "Ach019",
@@ -13252,7 +13257,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9860
+      "UsersEstimate": 9861
     },
     {
       "ID": "Ach024",
@@ -13316,7 +13321,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5106
+      "UsersEstimate": 5107
     },
     {
       "ID": "Ach032",
@@ -13444,7 +13449,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7395
+      "UsersEstimate": 7396
     },
     {
       "ID": "Ach048",
@@ -13452,7 +13457,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5106
+      "UsersEstimate": 5107
     },
     {
       "ID": "Ach049",
@@ -13476,7 +13481,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8980
+      "UsersEstimate": 8981
     },
     {
       "ID": "Ach052",
@@ -13492,7 +13497,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3169
+      "UsersEstimate": 3170
     },
     {
       "ID": "Ach054",
@@ -13643,13 +13648,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17608,
+      "Progressed": 17609,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16129,
+      "Progressed": 16130,
       "Completed": 1931
     }
   ],
@@ -13657,8 +13662,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:06:54.7945204+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:05:17.5198594+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:00:29.4796803+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:06:54.7946384+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:59:15.4530334+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:05:17.5199554+00:00"
 }

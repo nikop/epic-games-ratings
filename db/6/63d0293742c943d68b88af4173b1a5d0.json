@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 935,
+  "EOS_Progressed": 936,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2964,6 +2964,11 @@
       "Time": "2024-01-22T20:04:37.9423715+00:00",
       "NumProgressed": 935,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T22:03:31.628125+00:00",
+      "NumProgressed": 936,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3014,9 +3019,9 @@
       "ID": "8",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s On Fire",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 346
+      "UsersEstimate": 356
     },
     {
       "ID": "9",
@@ -3038,9 +3043,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 654
+      "UsersEstimate": 665
     },
     {
       "ID": "REMAKE_004",
@@ -3072,7 +3077,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 225
     },
     {
       "ID": "Remake_008",
@@ -3199,14 +3204,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 935,
+      "Progressed": 936,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:04:22.7456922+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:03:31.6281246+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:58:21.8760906+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:04:22.745755+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:57:49.1487373+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:03:31.6281563+00:00"
 }

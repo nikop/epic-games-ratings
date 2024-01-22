@@ -21,9 +21,9 @@ Rating: 4.73 (Ranked 186)
 | It's Warm and Cozy at Home | 60.00% | ~471 |
 | Magic Accidents | 58.00% | ~455 |
 | Trap Master | 56.00% | ~440 |
+| Hard Work | 56.00% | ~440 |
 | The Big Eaty | 56.00% | ~440 |
 | Minions, Minions! | 55.00% | ~432 |
-| Hard Work | 55.00% | ~432 |
 | “… like son” | 54.00% | ~424 |
 | YOU SHALL NOT PASS! | 51.00% | ~400 |
 | The Cathedral of Light | 50.00% | ~392 |
@@ -32,7 +32,7 @@ Rating: 4.73 (Ranked 186)
 | Pure Dynamite! | 46.00% | ~361 |
 | Dungeonlord Gorgu | 46.00% | ~361 |
 | All’s Well That Ends Evil | 44.00% | ~345 |
-| Mana Cannon | 42.00% | ~330 |
+| Mana Cannon | 43.00% | ~338 |
 | The Duel | 41.00% | ~322 |
 | If Looks Could Kill | 39.00% | ~306 |
 | Unstoppable Horde | 37.00% | ~290 |

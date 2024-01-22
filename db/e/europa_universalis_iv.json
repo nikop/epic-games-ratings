@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 42,
@@ -14647,10 +14647,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65514,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-22T21:59:52.1790812+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65531,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65514,
+  "NumberOfAwards": 65531,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14676,7 +14682,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 7446
+      "Count": 7454
     },
     {
       "Text": "This game is Educational",
@@ -14700,7 +14706,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 7268
+      "Count": 7277
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -14721,9 +14727,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 503967,
+  "EOS_Progressed": 503999,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4355,
+  "EOS_NewPlayers": 4362,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46766,6 +46772,11 @@
       "Time": "2024-01-22T21:11:16.8067615+00:00",
       "NumProgressed": 503967,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T22:09:50.8380082+00:00",
+      "NumProgressed": 503999,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -49680,21 +49691,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 503967,
+      "Progressed": 503999,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 503967,
+      "Progressed": 503999,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-22T20:01:36.0126898+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:11:16.8067605+00:00",
+  "LastChanged": "2024-01-22T21:59:52.179081+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:09:50.8380079+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:01:25.6105146+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:11:16.8078184+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:59:52.1790816+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:09:50.8390097+00:00"
 }

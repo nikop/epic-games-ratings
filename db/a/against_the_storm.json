@@ -6,9 +6,9 @@
   "Ranking_Popularity": 235,
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
-  "Ranking_EOS_Completed": 296,
+  "Ranking_EOS_Completed": 297,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 3874,
+  "Ranking_EOS_NewCompleters": 3875,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -3987,10 +3987,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 3407,
       "NumberOfAwardsMax": 455
+    },
+    {
+      "Time": "2024-01-22T21:57:28.3435735+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 3408,
+      "NumberOfAwardsMax": 455
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3407,
+  "NumberOfAwards": 3408,
   "NumberOfAwardsMax": 455,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -4052,12 +4058,12 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 352
+      "Count": 353
     }
   ],
-  "EOS_Progressed": 20974,
+  "EOS_Progressed": 20975,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 167,
+  "EOS_NewPlayers": 166,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20340,6 +20346,11 @@
       "Time": "2024-01-22T21:08:57.9007304+00:00",
       "NumProgressed": 20974,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-22T22:08:12.9689401+00:00",
+      "NumProgressed": 20975,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20352,7 +20363,7 @@
       "Name": "Serving Ale",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "AllFood",
@@ -20416,7 +20427,7 @@
       "Name": "Efficient Explorer",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "MetalChain",
@@ -20424,7 +20435,7 @@
       "Name": "Refinery",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "Win5Years",
@@ -20504,7 +20515,7 @@
       "Name": "Dangerous Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "WinNearFertile",
@@ -20520,7 +20531,7 @@
       "Name": "Fishmen Ritual Site",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "WinNearForbidden",
@@ -20528,7 +20539,7 @@
       "Name": "Forbidden Lands",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "WinNearHaunted",
@@ -20592,7 +20603,7 @@
       "Name": "Forsaken Gods Temple",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "WinNearTorrent",
@@ -20696,7 +20707,7 @@
       "Name": "Victory Through Prosperity",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "WinWithRuins",
@@ -20736,7 +20747,7 @@
       "Name": "Defying the Crown",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "Year1Dangerous",
@@ -20744,7 +20755,7 @@
       "Name": "Into the Forest",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 419
+      "UsersEstimate": 420
     },
     {
       "ID": "WinNearAbandoned",
@@ -20752,7 +20763,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "WinNearFrosts",
@@ -20776,7 +20787,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "WinNearPetrified",
@@ -20823,15 +20834,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20974,
+      "Progressed": 20975,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
-  "LastChanged": "2024-01-21T23:57:11.7855863+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:08:57.9007301+00:00",
+  "LastChanged": "2024-01-22T21:57:28.3435733+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:08:12.9689397+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:57:51.6740995+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:08:57.9008244+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:57:28.343574+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:08:12.9690411+00:00"
 }

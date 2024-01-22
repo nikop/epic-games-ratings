@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 172,
   "Ranking_EOS_Completed": 210,
-  "Ranking_EOS_NewPlayers": 164,
+  "Ranking_EOS_NewPlayers": 163,
   "Ranking_EOS_NewCompleters": 35,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
@@ -1074,11 +1074,11 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16641,
+  "EOS_Progressed": 16643,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 198,
+  "EOS_NewPlayers": 199,
   "EOS_NewCompleters": 9,
-  "EOS_Completed_Percentage": 0.66,
+  "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.1062688+00:00",
@@ -18829,6 +18829,11 @@
       "Time": "2024-01-22T20:11:19.0197936+00:00",
       "NumProgressed": 16641,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-22T22:09:32.2448905+00:00",
+      "NumProgressed": 16643,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18928,7 +18933,7 @@
       "Name": "Catch Me if You Can",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ACH13",
@@ -19000,7 +19005,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7821
+      "UsersEstimate": 7822
     },
     {
       "ID": "ACH22",
@@ -19016,7 +19021,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4493
+      "UsersEstimate": 4494
     },
     {
       "ID": "ACH24",
@@ -19048,7 +19053,7 @@
       "Name": "Grand Theft Auto",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ACH28",
@@ -19056,7 +19061,7 @@
       "Name": "Bloodstained Hands",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 998
+      "UsersEstimate": 999
     },
     {
       "ID": "ACH29",
@@ -19104,14 +19109,14 @@
       "Name": "Kingpin",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     }
   ],
   "AchievementSets": [
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16641,
+      "Progressed": 16643,
       "Completed": 109
     }
   ],
@@ -19119,8 +19124,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:10:52.1815815+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:09:32.2448901+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:57:06.4390398+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:10:52.1816785+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:56:58.5301544+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:09:32.2449786+00:00"
 }

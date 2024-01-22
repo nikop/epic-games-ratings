@@ -1760,9 +1760,9 @@
       "ID": "20AUDIOLOGS",
       "SetID": "a1angca",
       "Name": "Storyteller",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "20TELEPORTS",
@@ -2120,8 +2120,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:06:54.0680204+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:05:17.0641614+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:00:38.4799831+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:06:54.0680767+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:59:21.5291785+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:05:17.0642005+00:00"
 }

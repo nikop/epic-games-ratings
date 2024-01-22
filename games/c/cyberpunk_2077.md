@@ -16,11 +16,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Lovers | 0.60% | ~6,344 |
 | The Wheel of Fortune | 0.60% | ~6,344 |
 | Legend of The Afterlife | 0.60% | ~6,344 |
-| Bushido and Chill | 0.50% | ~5,286 |
-| Gun Fu | 0.50% | ~5,286 |
-| Stanislavski's Method | 0.50% | ~5,286 |
-| The Fool | 0.50% | ~5,286 |
-| The World | 0.50% | ~5,286 |
+| Bushido and Chill | 0.50% | ~5,287 |
+| Gun Fu | 0.50% | ~5,287 |
+| Stanislavski's Method | 0.50% | ~5,287 |
+| The Fool | 0.50% | ~5,287 |
+| The World | 0.50% | ~5,287 |
 | All the President's Men | 0.50% | ~930 |
 | Arachnophobia | 0.50% | ~930 |
 | To Protect and Serve | 0.40% | ~4,229 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,298 (Ranked 17)  
+Progressed: 1,057,309 (Ranked 17)  
 Completed: 3,149 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,16 +351,16 @@ Completed: 3,149 (0.30%) (Ranked 264)
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
-| 2024-01-22 | 1,057,298 | 3,149 |
+| 2024-01-22 | 1,057,309 | 3,149 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
-Sum: 514,024 (Ranked 8)  
+Sum: 514,199 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 144,045 |
 | This game has Great Boss Battles | 107,512 |
-| This game is Great for Beginners | 32,887 |
+| This game is Great for Beginners | 33,062 |
 | This game has Diverse Characters | 32,164 |
 | This game is Highly Recommended | 30,761 |
 | This game has Amazing Storytelling | 30,140 |
@@ -740,4 +740,4 @@ Diff (max vs sum): 0
 | 2024-01-19 | 4.67 | - | 142,615 | 506,646 |
 | 2024-01-20 | 4.67 | - | 143,148 | 509,082 |
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
-| 2024-01-22 | 4.67 | - | 144,045 | 514,024 |
+| 2024-01-22 | 4.67 | - | 144,045 | 514,199 |

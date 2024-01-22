@@ -2351,9 +2351,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22674,
+  "EOS_Progressed": 22675,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 250,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14731,6 +14731,11 @@
       "Time": "2024-01-22T21:10:43.0374167+00:00",
       "NumProgressed": 22674,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-22T22:09:25.8211551+00:00",
+      "NumProgressed": 22675,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14766,7 +14771,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2267
+      "UsersEstimate": 2268
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14886,7 +14891,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14918,7 +14923,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5668
+      "UsersEstimate": 5669
     },
     {
       "ID": "SHARE_PHOTO",
@@ -14926,7 +14931,7 @@
       "Name": "Mugshot",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 453
+      "UsersEstimate": 454
     },
     {
       "ID": "STORY_COLDOPEN",
@@ -14942,7 +14947,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4081
+      "UsersEstimate": 4082
     },
     {
       "ID": "STORY_HABITAT",
@@ -14958,7 +14963,7 @@
       "Name": "In the Pipe, Five by Five",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "STORY_MINETOWN",
@@ -14974,7 +14979,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5895
+      "UsersEstimate": 5896
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14982,7 +14987,7 @@
       "Name": "Crash Site",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 3174
+      "UsersEstimate": 3175
     },
     {
       "ID": "STORY_TOWER",
@@ -15117,13 +15122,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22674,
+      "Progressed": 22675,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10600,
+      "Progressed": 10601,
       "Completed": 29
     }
   ],
@@ -15131,8 +15136,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-22T14:03:24.1566114+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:10:43.0374162+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:09:25.8211548+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:03:48.9629643+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:10:43.0374933+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:03:08.604246+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:09:25.8212447+00:00"
 }

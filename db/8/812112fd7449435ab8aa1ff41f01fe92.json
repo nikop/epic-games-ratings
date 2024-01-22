@@ -4,7 +4,7 @@
   "ProductSlug": "jump-challenge-228ff0",
   "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 149,
-  "Ranking_EOS_NewPlayers": 368,
+  "Ranking_EOS_NewPlayers": 367,
   "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-11-23T18:00:00+00:00",
@@ -426,9 +426,9 @@
       "ID": "SCORE_300",
       "SetID": "5629o35",
       "Name": "Parkourer",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "SCORE_600",
@@ -450,9 +450,9 @@
       "ID": "WIN_VERSUS",
       "SetID": "5629o35",
       "Name": "Tower Champion",
-      "Percentage": 10,
+      "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     }
   ],
   "AchievementSets": [
@@ -465,8 +465,8 @@
   ],
   "FirstSeen": "2023-11-29T17:58:28.6807523+00:00",
   "FirstSeenAchievements": "2023-11-13T15:03:01.800397+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:09:08.6804532+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:08:20.5455068+00:00",
   "LastUpdate_AppInfo": "2024-01-22T20:56:59.12016+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:02:40.0291149+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:09:08.6804665+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:02:23.3008499+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:08:20.5455168+00:00"
 }

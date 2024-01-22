@@ -972,17 +972,17 @@
       "ID": "First_Node_Meld",
       "SetID": "7b9f97e",
       "Name": "Connected",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "Harvest_First_Plant",
       "SetID": "7b9f97e",
       "Name": "Harvest Time",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 79
+      "UsersEstimate": 81
     },
     {
       "ID": "HeroStory_Elynn",
@@ -1373,8 +1373,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-22T21:10:45.4563014+00:00",
+  "LastChanged_Achievements": "2024-01-22T22:09:27.572871+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.6757583+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:59:01.4056128+00:00",
-  "LastUpdate_Achievements": "2024-01-22T21:10:45.4563504+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:58:15.7471184+00:00",
+  "LastUpdate_Achievements": "2024-01-22T22:09:27.5729189+00:00"
 }

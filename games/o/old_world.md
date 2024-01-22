@@ -10,13 +10,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Play a Single Player Game | 6.00% | ~1,027 |
 | Explorer | 5.00% | ~856 |
 | Friendly Family | 5.00% | ~856 |
-| Able | 4.00% | ~684 |
-| Architect | 4.00% | ~684 |
-| Intrepid | 4.00% | ~684 |
-| Mason | 4.00% | ~684 |
-| Strong | 4.00% | ~684 |
-| Hanging Gardens | 4.00% | ~684 |
-| Oracle | 4.00% | ~684 |
+| Able | 4.00% | ~685 |
+| Architect | 4.00% | ~685 |
+| Intrepid | 4.00% | ~685 |
+| Mason | 4.00% | ~685 |
+| Strong | 4.00% | ~685 |
+| Hanging Gardens | 4.00% | ~685 |
+| Oracle | 4.00% | ~685 |
 | Ambitious | 3.00% | ~513 |
 | Enlightened | 3.00% | ~513 |
 | Fountainhead | 3.00% | ~513 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,111 (Ranked 170)  
+Progressed: 17,113 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,7 +642,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
-| 2024-01-22 | 17,111 | 5 |
+| 2024-01-22 | 17,113 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  
