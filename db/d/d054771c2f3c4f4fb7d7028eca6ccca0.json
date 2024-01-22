@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 4518,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 332,
+  "EOS_NewPlayers": 331,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5893,9 +5893,9 @@
       "ID": "ACHIEVEMENT_21",
       "SetID": "c167foo",
       "Name": "Worthy Badge",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 994
+      "UsersEstimate": 1039
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -6178,8 +6178,8 @@
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:06:51.6723342+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:07:36.4109955+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.8664152+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:59:50.6050927+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:06:51.6723945+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:00:16.9791341+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:07:36.4110462+00:00"
 }

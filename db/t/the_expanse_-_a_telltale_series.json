@@ -361,9 +361,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19231,
+  "EOS_Progressed": 19233,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 187,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18011,6 +18011,11 @@
       "Time": "2024-01-22T16:05:59.72583+00:00",
       "NumProgressed": 19231,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-22T18:06:11.3531338+00:00",
+      "NumProgressed": 19233,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18039,7 +18044,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "12",
@@ -18047,7 +18052,7 @@
       "Name": "Data Archivist",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "13",
@@ -18079,7 +18084,7 @@
       "Name": "Drug Gifter",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "17",
@@ -18103,7 +18108,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "2",
@@ -18119,7 +18124,7 @@
       "Name": "Thorston Mayer",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "21",
@@ -18127,7 +18132,7 @@
       "Name": "Drone Dodger",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "22",
@@ -18159,7 +18164,7 @@
       "Name": "Khan\u0027s Revenge",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 1538
+      "UsersEstimate": 1539
     },
     {
       "ID": "26",
@@ -18175,7 +18180,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "28",
@@ -18199,7 +18204,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3269
+      "UsersEstimate": 3270
     },
     {
       "ID": "30",
@@ -18255,7 +18260,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2692
+      "UsersEstimate": 2693
     },
     {
       "ID": "31",
@@ -18271,7 +18276,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     },
     {
       "ID": "33",
@@ -18279,7 +18284,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 570
+      "UsersEstimate": 571
     },
     {
       "ID": "34",
@@ -18295,29 +18300,29 @@
       "Name": "Madame Undersecretary",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 518
+      "UsersEstimate": 519
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19231,
+      "Progressed": 19233,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5185,
-      "Completed": 1383
+      "Progressed": 5187,
+      "Completed": 1384
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-21T06:58:34.7730339+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:05:44.2734064+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:06:11.3531336+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:59:04.7619108+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:05:44.2735163+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:59:18.1928346+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:06:11.3532402+00:00"
 }

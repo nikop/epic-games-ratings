@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewPlayers": 137,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5435,9 +5435,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83173,
+  "EOS_Progressed": 83175,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31190,6 +31190,11 @@
       "Time": "2024-01-22T17:04:22.2298824+00:00",
       "NumProgressed": 83173,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-22T18:04:26.9530316+00:00",
+      "NumProgressed": 83175,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31273,7 +31278,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "ALL_VILLAIN",
@@ -31313,7 +31318,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14139
+      "UsersEstimate": 14140
     },
     {
       "ID": "CLAYFACE_3",
@@ -31321,7 +31326,7 @@
       "Name": "Rock and a Hard Place",
       "Percentage": 14,
       "XP": 30,
-      "UsersEstimate": 11644
+      "UsersEstimate": 11645
     },
     {
       "ID": "CLAYFACE_SHOWDOWN_1",
@@ -31409,7 +31414,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10812
+      "UsersEstimate": 10813
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -31417,7 +31422,7 @@
       "Name": "Drone You Out",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 8317
+      "UsersEstimate": 8318
     },
     {
       "ID": "FREEZE_1",
@@ -31449,7 +31454,7 @@
       "Name": "Cooldown",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11644
+      "UsersEstimate": 11645
     },
     {
       "ID": "FREEZE_SHOWDOWN_1",
@@ -31505,7 +31510,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28279
+      "UsersEstimate": 28280
     },
     {
       "ID": "HARLEY_2",
@@ -31545,7 +31550,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41586
+      "UsersEstimate": 41588
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31553,7 +31558,7 @@
       "Name": "He\u0027d Be So Proud of You",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "HERO_PROGRESSION_3",
@@ -31577,7 +31582,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21625
+      "UsersEstimate": 21626
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31593,7 +31598,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27447
+      "UsersEstimate": 27448
     },
     {
       "ID": "MYSTERY_02",
@@ -31625,7 +31630,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14139
+      "UsersEstimate": 14140
     },
     {
       "ID": "MYSTERY_06",
@@ -31633,7 +31638,7 @@
       "Name": "Voiceless",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 11644
+      "UsersEstimate": 11645
     },
     {
       "ID": "MYSTERY_07",
@@ -31641,7 +31646,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10812
+      "UsersEstimate": 10813
     },
     {
       "ID": "MYSTERY_08",
@@ -31688,13 +31693,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83173,
+      "Progressed": 83175,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53453,
+      "Progressed": 53455,
       "Completed": 2680
     }
   ],
@@ -31702,8 +31707,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-22T15:59:53.462051+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:04:22.2298819+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:04:26.9530309+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:59:41.8278373+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:04:22.2300628+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:00:05.7219153+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:04:26.9532096+00:00"
 }

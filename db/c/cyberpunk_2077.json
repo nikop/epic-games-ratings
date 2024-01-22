@@ -18828,10 +18828,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 513507,
       "NumberOfAwardsMax": 143675
+    },
+    {
+      "Time": "2024-01-22T18:03:27.5771028+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 513654,
+      "NumberOfAwardsMax": 143675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 513507,
+  "NumberOfAwards": 513654,
   "NumberOfAwardsMax": 143675,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18875,7 +18881,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 30614
+      "Count": 30761
     },
     {
       "Text": "This game is Great for Beginners",
@@ -18908,10 +18914,10 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1057193,
+  "EOS_Progressed": 1057228,
   "EOS_Completed": 3147,
-  "EOS_NewPlayers": 5059,
-  "EOS_NewCompleters": 45,
+  "EOS_NewPlayers": 5064,
+  "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50678,6 +50684,11 @@
       "Time": "2024-01-22T17:09:28.139369+00:00",
       "NumProgressed": 1057193,
       "NumCompleted": 3147
+    },
+    {
+      "Time": "2024-01-22T18:09:12.4092397+00:00",
+      "NumProgressed": 1057228,
+      "NumCompleted": 3147
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50714,7 +50725,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "Denied",
@@ -50722,15 +50733,15 @@
       "Name": "Right Back At Ya",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7400
+      "UsersEstimate": 7401
     },
     {
       "ID": "FollowingTheRiver",
       "SetID": "47clieb",
       "Name": "To Protect and Serve",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 3172
+      "UsersEstimate": 4229
     },
     {
       "ID": "Fortuneteller",
@@ -50928,9 +50939,9 @@
       "ID": "TheLovers",
       "SetID": "47clieb",
       "Name": "The Lovers",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5286
+      "UsersEstimate": 6343
     },
     {
       "ID": "TheStar",
@@ -51090,7 +51101,7 @@
       "Name": "Spin Doctor",
       "Percentage": 0.3,
       "XP": 35,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     },
     {
       "ID": "Kingofcups",
@@ -51225,21 +51236,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057193,
+      "Progressed": 1057228,
       "Completed": 3147
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185816,
+      "Progressed": 185851,
       "Completed": 10681
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-22T17:03:37.6139432+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:09:28.1393685+00:00",
+  "LastChanged": "2024-01-22T18:03:27.5771027+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:09:12.4092395+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:03:37.6139439+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:09:28.139656+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:03:27.5771032+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:09:12.4093997+00:00"
 }

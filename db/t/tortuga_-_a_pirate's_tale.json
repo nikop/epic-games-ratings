@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 169,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 263,
+  "Ranking_EOS_NewPlayers": 262,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-01-19T15:00:00+00:00",
@@ -293,9 +293,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 17542,
+  "EOS_Progressed": 17543,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 25,
+  "EOS_NewPlayers": 26,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -8548,6 +8548,11 @@
       "Time": "2024-01-22T17:09:17.5672612+00:00",
       "NumProgressed": 17542,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T18:09:00.1176259+00:00",
+      "NumProgressed": 17543,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 26,
@@ -8559,7 +8564,7 @@
       "Name": "Eeligally Ambitious",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 16665
+      "UsersEstimate": 16666
     },
     {
       "ID": "ACH001",
@@ -8567,7 +8572,7 @@
       "Name": "Personal Matter",
       "Percentage": 86,
       "XP": 5,
-      "UsersEstimate": 15086
+      "UsersEstimate": 15087
     },
     {
       "ID": "ACH0010",
@@ -8591,7 +8596,7 @@
       "Name": "Pimp My Glide",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 8771
+      "UsersEstimate": 8772
     },
     {
       "ID": "ACH0013",
@@ -8655,7 +8660,7 @@
       "Name": "But You Have Heard of Me",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 12630
+      "UsersEstimate": 12631
     },
     {
       "ID": "ACH0020",
@@ -8766,7 +8771,7 @@
     {
       "ID": "6749a6l",
       "IsBase": true,
-      "Progressed": 17542,
+      "Progressed": 17543,
       "Completed": 1
     }
   ],
@@ -8774,8 +8779,8 @@
   "FirstSeenRating": "2023-01-26T03:57:13.5091097+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.9880628+00:00",
   "LastChanged": "2024-01-11T23:59:56.1760647+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:09:17.5672607+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:09:00.1176256+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.6374967+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:58:34.4101225+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:09:17.5673265+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:58:38.2297491+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:09:00.1176729+00:00"
 }

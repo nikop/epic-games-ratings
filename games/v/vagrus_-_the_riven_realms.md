@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Second Chance | 58.00% | ~181 |
-| Press-ganged | 43.00% | ~134 |
-| The Package | 28.00% | ~87 |
+| A Second Chance | 58.00% | ~182 |
+| Press-ganged | 43.00% | ~135 |
+| The Package | 27.00% | ~85 |
 | Randomized | 19.00% | ~59 |
 | Conquered | 19.00% | ~59 |
-| Scribe | 12.00% | ~37 |
+| Scribe | 12.00% | ~38 |
 | Breached | 11.00% | ~34 |
 | Conciliator | 10.00% | ~31 |
 | Tactician | 10.00% | ~31 |
@@ -25,12 +25,12 @@
 | Merchant | 6.00% | ~19 |
 | Strategist | 5.00% | ~16 |
 | Courier | 5.00% | ~16 |
-| Quartermaster | 4.00% | ~12 |
-| Potential Unlocked | 4.00% | ~12 |
-| Despised | 4.00% | ~12 |
-| Been There | 4.00% | ~12 |
-| Spiritual Journey | 4.00% | ~12 |
-| Trouble at Fort Larius | 4.00% | ~12 |
+| Quartermaster | 4.00% | ~13 |
+| Potential Unlocked | 4.00% | ~13 |
+| Despised | 4.00% | ~13 |
+| Been There | 4.00% | ~13 |
+| Spiritual Journey | 4.00% | ~13 |
+| Trouble at Fort Larius | 4.00% | ~13 |
 | Supercargo | 3.00% | ~9 |
 | Xevarian Gambit | 3.00% | ~9 |
 | The Voice of Hereafter | 3.00% | ~9 |
@@ -104,7 +104,7 @@
 | Vagrus Supreme | 0.00% | ~0 |
 | Enterpreneur | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 312 (Ranked 403)  
+Progressed: 313 (Ranked 402)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -223,7 +223,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-16 | 309 | 0 |
 | 2024-01-18 | 310 | 0 |
 | 2024-01-20 | 311 | 0 |
-| 2024-01-22 | 312 | 0 |
+| 2024-01-22 | 313 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

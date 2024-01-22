@@ -504,9 +504,9 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 675,
+  "EOS_Progressed": 676,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -2574,6 +2574,11 @@
       "Time": "2024-01-22T17:04:39.132574+00:00",
       "NumProgressed": 675,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T18:04:48.4051812+00:00",
+      "NumProgressed": 676,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2594,7 +2599,7 @@
       "Name": "Unyielding Strength",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -2632,9 +2637,9 @@
       "ID": "Collect_Artifact_EpicShard",
       "SetID": "7a5k76n",
       "Name": "One Of the Chosen",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 277
+      "UsersEstimate": 284
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_1",
@@ -2642,7 +2647,7 @@
       "Name": "Increased Capacity",
       "Percentage": 56,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
@@ -2674,7 +2679,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 398
+      "UsersEstimate": 399
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2682,7 +2687,7 @@
       "Name": "I Wanna Rock",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Collect_Hollow_Stasis",
@@ -2690,7 +2695,7 @@
       "Name": "Freeze Frame",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Collect_Hollow_Storm",
@@ -2698,7 +2703,7 @@
       "Name": "Perfect Storm",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Collect_Lurchers_100000",
@@ -2746,7 +2751,7 @@
       "Name": "Can you restore the Balance?",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Craft_Enhancement_Balanced_5",
@@ -2762,7 +2767,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2898,7 +2903,7 @@
       "Name": "Love Tap",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 236
+      "UsersEstimate": 237
     },
     {
       "ID": "Kill_Enemies_666",
@@ -2922,7 +2927,7 @@
       "Name": "All That Glitters",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "Kill_Sin_BigBad",
@@ -2938,7 +2943,7 @@
       "Name": "Green with Envy",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 520
+      "UsersEstimate": 521
     },
     {
       "ID": "Kill_Sin_Gluttony",
@@ -2946,7 +2951,7 @@
       "Name": "Eat Your Heart Out",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "Kill_Sin_Lust",
@@ -3002,7 +3007,7 @@
       "Name": "Crowd Source",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Save_Humans_15",
@@ -3034,7 +3039,7 @@
       "Name": "For Whom the Bell Tolls",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 202
+      "UsersEstimate": 203
     },
     {
       "ID": "Spend_AttributePoint_1",
@@ -3058,7 +3063,7 @@
       "Name": "Big Spender",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 182
+      "UsersEstimate": 183
     },
     {
       "ID": "Unlocked_49_Achievements",
@@ -3097,15 +3102,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 675,
+      "Progressed": 676,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-19T19:59:04.9154437+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:04:39.1325734+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:04:48.4051809+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:00:54.4563552+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:04:39.1326445+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:01:37.9679434+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:04:48.4052413+00:00"
 }

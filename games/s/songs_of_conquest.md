@@ -36,7 +36,7 @@ Number of Ratings: 292  (23.09.2022)
 | Together For Her | 0.90% | ~11 |
 | Unlimited Power! | 0.70% | ~9 |
 | Killing Spree | 0.70% | ~9 |
-| Cleave | 0.60% | ~8 |
+| Cleave | 0.70% | ~9 |
 | Death To Diplomacy | 0.50% | ~6 |
 | Get Over Here! | 0.50% | ~6 |
 | Fully Charged | 0.40% | ~5 |

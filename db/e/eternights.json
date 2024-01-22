@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 283,
+  "Ranking_EOS_NewPlayers": 279,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 927,
+  "EOS_Progressed": 928,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 19,
+  "EOS_NewPlayers": 20,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3497,6 +3497,11 @@
       "Time": "2024-01-22T12:10:16.7178248+00:00",
       "NumProgressed": 927,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T18:09:36.8876176+00:00",
+      "NumProgressed": 928,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3507,9 +3512,9 @@
       "ID": "ACHIEVEMENT_10_NewArm",
       "SetID": "9bke6f1",
       "Name": "New arm",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 723
+      "UsersEstimate": 715
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3541,7 +3546,7 @@
       "Name": "Yuna\u0027s Promise",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3629,7 +3634,7 @@
       "Name": "TentacleMAN",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACHIEVEMENT_25_LoveAssistant",
@@ -3677,7 +3682,7 @@
       "Name": "Piggyback Expert",
       "Percentage": 42,
       "XP": 20,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "ACHIEVEMENT_7_SecondWall",
@@ -3685,7 +3690,7 @@
       "Name": "Second wall",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3708,7 +3713,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 927,
+      "Progressed": 928,
       "Completed": 2
     }
   ],
@@ -3716,8 +3721,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-21T16:00:00.0377056+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:09:47.7060306+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:09:36.8876173+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:01:01.9637497+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:09:47.7060641+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:02:27.9638594+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:09:36.8876549+00:00"
 }

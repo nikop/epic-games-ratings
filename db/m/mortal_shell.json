@@ -4,7 +4,7 @@
   "ProductSlug": "mortal-shell",
   "Ranking_Rating": 915,
   "Ranking_Popularity": 579,
-  "Ranking_PopularitySum": 528,
+  "Ranking_PopularitySum": 505,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 556,
@@ -679,10 +679,16 @@
       "Rating": 4.27,
       "NumberOfAwards": 41,
       "NumberOfAwardsMax": 21
+    },
+    {
+      "Time": "2024-01-22T17:58:35.2097842+00:00",
+      "Rating": 4.27,
+      "NumberOfAwards": 61,
+      "NumberOfAwardsMax": 21
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 41,
+  "NumberOfAwards": 61,
   "NumberOfAwardsMax": 21,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -703,6 +709,12 @@
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
       "Count": 21
+    },
+    {
+      "Text": "This game has Diverse Characters",
+      "Prefix": "This game has",
+      "Type": "Diverse Characters",
+      "Count": 20
     }
   ],
   "EOS_Progressed": 0,
@@ -716,8 +728,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:45.0826323+00:00",
-  "LastChanged": "2024-01-20T03:00:09.996722+00:00",
+  "LastChanged": "2024-01-22T17:58:35.2097842+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.4924901+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:58:31.9894619+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:05:02.7167371+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:58:35.2097844+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:05:18.8805505+00:00"
 }

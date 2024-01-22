@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 180,
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 172,
-  "Ranking_EOS_NewCompleters": 3872,
+  "Ranking_EOS_NewPlayers": 171,
+  "Ranking_EOS_NewCompleters": 3873,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4055,7 +4055,7 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20968,
+  "EOS_Progressed": 20969,
   "EOS_Completed": 34,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": -1,
@@ -20325,6 +20325,11 @@
       "Time": "2024-01-22T14:09:00.3728208+00:00",
       "NumProgressed": 20968,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-22T18:08:38.8562835+00:00",
+      "NumProgressed": 20969,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20433,7 +20438,7 @@
       "Name": "Overcoming Difficulty",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "WinImpossible",
@@ -20601,15 +20606,15 @@
       "Name": "Coral Forest",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "WinOnCursed",
       "SetID": "cfbk359",
       "Name": "Cursed Lands",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 629
+      "UsersEstimate": 839
     },
     {
       "ID": "WinOnMarshlands",
@@ -20617,7 +20622,7 @@
       "Name": "The Marshlands",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "WinOnMoorlands",
@@ -20808,15 +20813,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20968,
+      "Progressed": 20969,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-21T23:57:11.7855863+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:09:00.370054+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:08:38.856283+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:57:58.5604946+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:09:00.3701599+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:57:51.5712581+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:08:38.8563873+00:00"
 }

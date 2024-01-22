@@ -1641,9 +1641,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7240,
+  "EOS_Progressed": 7241,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17196,6 +17196,11 @@
       "Time": "2024-01-22T16:05:57.5086672+00:00",
       "NumProgressed": 7240,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T18:06:09.2457283+00:00",
+      "NumProgressed": 7241,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17303,7 +17308,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3113
+      "UsersEstimate": 3114
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17311,7 +17316,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -17359,7 +17364,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1158
+      "UsersEstimate": 1159
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -17367,7 +17372,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17526,15 +17531,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7240,
+      "Progressed": 7241,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-21T15:58:03.0831244+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:05:42.4996028+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:06:09.2457281+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:58:56.582149+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:05:42.49973+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:59:07.2389773+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:06:09.245829+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -1624,9 +1624,9 @@
       "ID": "covered_up_for_a_reason",
       "SetID": "f2im8d",
       "Name": "It\u0027s covered up for a reason",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 206
+      "UsersEstimate": 209
     },
     {
       "ID": "decrypt_one_myth",
@@ -1816,9 +1816,9 @@
       "ID": "piece_of_story",
       "SetID": "f2im8d",
       "Name": "A piece of the story",
-      "Percentage": 66,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 226
+      "UsersEstimate": 230
     },
     {
       "ID": "playtime",
@@ -1967,8 +1967,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:09:35.0318144+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:09:20.9977429+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:58:21.0209696+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:09:35.0318571+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:58:21.90791+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:09:20.9977968+00:00"
 }

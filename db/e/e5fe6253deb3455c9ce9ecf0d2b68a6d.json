@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 561,
+  "EOS_Progressed": 562,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 12,
   "EOS_NewCompleters": 0,
@@ -2214,6 +2214,11 @@
       "Time": "2024-01-22T16:04:43.9560087+00:00",
       "NumProgressed": 561,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T18:04:52.9232251+00:00",
+      "NumProgressed": 562,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-07T18:00:21.0046811+00:00",
@@ -2248,9 +2253,9 @@
       "ID": "Full",
       "SetID": "cjfnji1",
       "Name": "Full load",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 337
+      "UsersEstimate": 332
     },
     {
       "ID": "Island",
@@ -2266,7 +2271,7 @@
       "Name": "In the last second",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 258
+      "UsersEstimate": 259
     },
     {
       "ID": "Master",
@@ -2337,14 +2342,14 @@
     {
       "ID": "cjfnji1",
       "IsBase": true,
-      "Progressed": 561,
+      "Progressed": 562,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-11T01:35:20.9956349+00:00",
   "FirstSeenAchievements": "2023-08-07T18:00:21.004681+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:04:42.6871401+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:04:52.9232248+00:00",
   "LastUpdate_AppInfo": "2024-01-16T05:57:15.8277407+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:01:00.4102538+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:04:42.6871592+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:01:46.0175727+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:04:52.9232436+00:00"
 }

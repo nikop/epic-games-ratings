@@ -5,10 +5,10 @@ Rating: 4.50 (Ranked 622)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~992 |
-| To Hell In A Handcart | 60.00% | ~960 |
-| High Profile | 54.00% | ~864 |
-| Whispers In The Dark | 51.00% | ~816 |
+| Read Between The Lines | 62.00% | ~993 |
+| To Hell In A Handcart | 60.00% | ~961 |
+| High Profile | 54.00% | ~865 |
+| Whispers In The Dark | 51.00% | ~817 |
 | Fond Memories | 49.00% | ~784 |
 | A Method To His Madness | 47.00% | ~752 |
 | History Check | 46.00% | ~736 |
@@ -31,10 +31,10 @@ Rating: 4.50 (Ranked 622)
 | Brain Food | 30.00% | ~480 |
 | Read It And Weep | 20.00% | ~320 |
 | Curiosity Killed The Cat | 18.00% | ~288 |
-| Big Breakthrough | 13.00% | ~208 |
-| Reawakened | 4.00% | ~64 |
+| Big Breakthrough | 12.00% | ~192 |
+| Reawakened | 3.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,600 (Ranked 270)  
+Progressed: 1,601 (Ranked 270)  
 Completed: 51 (3.19%) (Ranked 108)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -267,7 +267,7 @@ Completed: 51 (3.19%) (Ranked 108)
 | 2024-01-19 | 1,521 | 49 |
 | 2024-01-20 | 1,557 | 49 |
 | 2024-01-21 | 1,584 | 51 |
-| 2024-01-22 | 1,600 | 51 |
+| 2024-01-22 | 1,601 | 51 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7,25 +7,25 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 45.00% | ~126 |
-| Best Buddy | 39.00% | ~109 |
+| Best Buddy | 38.00% | ~107 |
 | Civilian | 36.00% | ~101 |
 | Role Model | 35.00% | ~98 |
-| Creator | 33.00% | ~92 |
+| Creator | 33.00% | ~93 |
 | Military Leader | 31.00% | ~87 |
 | Festival-goer | 29.00% | ~81 |
 | Peddler | 26.00% | ~73 |
 | Commander | 26.00% | ~73 |
 | Irissa's Fate | 22.00% | ~62 |
+| Long-Haul Flyer | 21.00% | ~59 |
 | Family Reunion | 21.00% | ~59 |
-| Long-Haul Flyer | 20.00% | ~56 |
 | Pass A38 | 19.00% | ~53 |
-| Eternal Oblivion | 18.00% | ~50 |
+| Eternal Oblivion | 18.00% | ~51 |
 | Banker | 17.00% | ~48 |
 | Berserker | 16.00% | ~45 |
 | Storyteller | 15.00% | ~42 |
 | Globetrotter | 15.00% | ~42 |
-| Alb | 13.00% | ~36 |
-| Hunter | 13.00% | ~36 |
+| Hunter | 13.00% | ~37 |
+| Alb | 12.00% | ~34 |
 | Perfectionist | 12.00% | ~34 |
 | Lover | 12.00% | ~34 |
 | Beam Me Up | 11.00% | ~31 |
@@ -40,9 +40,9 @@ Number of Ratings: 124  (23.09.2022)
 | Unbreakable | 5.00% | ~14 |
 | Idealist | 4.00% | ~11 |
 | Legendary | 4.00% | ~11 |
-| Morkon | 3.00% | ~8 |
 | Toy Time | 2.00% | ~6 |
 | Defector | 2.00% | ~6 |
+| Morkon | 2.00% | ~6 |
 | Outlaw | 2.00% | ~6 |
 | Pack Rat | 1.00% | ~3 |
 | Destroyer | 1.00% | ~3 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 280 (Ranked 415)  
+Progressed: 281 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,7 +97,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 266 | 0 |
 | 2024-01-20 | 272 | 0 |
 | 2024-01-21 | 278 | 0 |
-| 2024-01-22 | 280 | 0 |
+| 2024-01-22 | 281 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

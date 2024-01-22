@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162241,
+  "EOS_Progressed": 162243,
   "EOS_Completed": 398,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -26148,6 +26148,11 @@
       "Time": "2024-01-22T17:06:42.6549231+00:00",
       "NumProgressed": 162241,
       "NumCompleted": 398
+    },
+    {
+      "Time": "2024-01-22T18:07:24.731775+00:00",
+      "NumProgressed": 162243,
+      "NumCompleted": 398
     }
   ],
   "TotalAchievements": 31,
@@ -26167,7 +26172,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113569
+      "UsersEstimate": 113570
     },
     {
       "ID": "EAwards_10",
@@ -26199,7 +26204,7 @@
       "Name": "Next-gen!!",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9734
+      "UsersEstimate": 9735
     },
     {
       "ID": "EAwards_14",
@@ -26207,7 +26212,7 @@
       "Name": "Do or Do Not",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 64896
+      "UsersEstimate": 64897
     },
     {
       "ID": "EAwards_15",
@@ -26215,7 +26220,7 @@
       "Name": "No Encore!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 21091
+      "UsersEstimate": 21092
     },
     {
       "ID": "EAwards_16",
@@ -26255,7 +26260,7 @@
       "Name": "That\u0027s one big Gato Frito",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 45427
+      "UsersEstimate": 45428
     },
     {
       "ID": "EAwards_20",
@@ -26295,7 +26300,7 @@
       "Name": "The Never Ending Combo",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 9734
+      "UsersEstimate": 9735
     },
     {
       "ID": "EAwards_25",
@@ -26343,7 +26348,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 32448
+      "UsersEstimate": 32449
     },
     {
       "ID": "EAwards_30",
@@ -26375,7 +26380,7 @@
       "Name": "Power Within",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 40560
+      "UsersEstimate": 40561
     },
     {
       "ID": "EAwards_7",
@@ -26406,7 +26411,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 162241,
+      "Progressed": 162243,
       "Completed": 398
     }
   ],
@@ -26414,8 +26419,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:06:42.6549226+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:07:24.7317746+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.0746018+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:00:47.629602+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:06:42.6551064+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:01:29.2592338+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:07:24.731939+00:00"
 }

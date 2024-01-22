@@ -8,7 +8,7 @@ Number of Ratings: 332  (23.09.2022)
 | ---- | ---------- | ----- |
 | Rookie | 28.00% | ~15,632 |
 | Finding Your Footing | 25.00% | ~13,957 |
-| Nomad | 16.00% | ~8,932 |
+| Nomad | 16.00% | ~8,933 |
 | Picking Up Speed | 15.00% | ~8,374 |
 | Welcome Maya | 14.00% | ~7,816 |
 | Scout | 12.00% | ~6,699 |
@@ -46,7 +46,7 @@ Number of Ratings: 332  (23.09.2022)
 | The Ultimate Challenge | 0.10% | ~56 |
 | Windswept | 0.10% | ~56 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 55,828 (Ranked 124)  
+Progressed: 55,829 (Ranked 124)  
 Completed: 5 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,10 +323,10 @@ Completed: 5 (0.01%) (Ranked 383)
 | 2024-01-19 | 55,452 | 5 |
 | 2024-01-20 | 55,598 | 5 |
 | 2024-01-21 | 55,738 | 5 |
-| 2024-01-22 | 55,828 | 5 |
+| 2024-01-22 | 55,829 | 5 |
 ## Awards
 Max (Great for Quick Sessions): 52  (Ranked 457)  
-Sum: 402 (Ranked 360)  
+Sum: 403 (Ranked 360)  
 Diff (max vs sum): 97  
 | Award | Count |
 | ----- | ----- |
@@ -338,7 +338,7 @@ Diff (max vs sum): 97
 | This game has Quickly Understood Controls | 41 |
 | This game is Relaxing | 38 |
 | This game has Diverse Characters | 34 |
-| This game has Amazing Storytelling | 30 |
+| This game has Amazing Storytelling | 31 |
 | This game has Amazing Characters | 27 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -475,3 +475,4 @@ Diff (max vs sum): 97
 | 2024-01-16 | 4.70 | - | 51 | 400 |
 | 2024-01-19 | 4.70 | - | 52 | 401 |
 | 2024-01-20 | 4.70 | - | 52 | 402 |
+| 2024-01-22 | 4.70 | - | 52 | 403 |

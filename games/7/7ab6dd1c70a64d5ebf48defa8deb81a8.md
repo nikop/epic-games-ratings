@@ -5,11 +5,11 @@ Rating: 4.21 (Ranked 967)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Break Out | 64.00% | ~1,555 |
+| Break Out | 65.00% | ~1,579 |
 | Trinity | 35.00% | ~850 |
 | The Collector | 29.00% | ~704 |
 | Find Allies | 28.00% | ~680 |
-| A Taste of Wrath | 27.00% | ~656 |
+| A Taste of Wrath | 28.00% | ~680 |
 | Adventurer | 26.00% | ~632 |
 | Shatter Them All | 26.00% | ~632 |
 | Geared Up | 26.00% | ~632 |

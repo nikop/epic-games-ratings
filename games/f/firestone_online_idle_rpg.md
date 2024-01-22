@@ -5,13 +5,13 @@ Rating: 4.11 (Ranked 1,029)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Victor | 93.00% | ~4,406 |
+| Victor | 93.00% | ~4,407 |
 | World Map | 78.00% | ~3,696 |
-| Temple of Eternals | 56.00% | ~2,653 |
+| Temple of Eternals | 56.00% | ~2,654 |
 | Prestigious | 52.00% | ~2,464 |
 | Fellowship Power | 42.00% | ~1,990 |
 | Full Party | 31.00% | ~1,469 |
-| Guild Power | 22.00% | ~1,042 |
+| Guild Power | 22.00% | ~1,043 |
 | Prestigious x10 | 20.00% | ~948 |
 | The game is on | 18.00% | ~853 |
 | Exotic Merchant | 16.00% | ~758 |
@@ -27,9 +27,9 @@ Rating: 4.11 (Ranked 1,029)
 | Natural Talent | 11.00% | ~521 |
 | Superior | 11.00% | ~521 |
 | The Unstoppable | 11.00% | ~521 |
-| Doing My Part | 9.00% | ~426 |
-| Scientist | 9.00% | ~426 |
-| The power of Awakening | 9.00% | ~426 |
+| Doing My Part | 9.00% | ~427 |
+| Scientist | 9.00% | ~427 |
+| The power of Awakening | 9.00% | ~427 |
 | Challenger | 8.00% | ~379 |
 | Daily Quest Completionist | 8.00% | ~379 |
 | Four Leaf Clover | 8.00% | ~379 |
@@ -81,7 +81,7 @@ Rating: 4.11 (Ranked 1,029)
 | Jewel Enchanting | 0.10% | ~5 |
 | War Machines Army | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,738 (Ranked 211)  
+Progressed: 4,739 (Ranked 211)  
 Completed: 2 (0.04%) (Ranked 359)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 2 (0.04%) (Ranked 359)
 | 2024-01-19 | 4,665 | 2 |
 | 2024-01-20 | 4,696 | 2 |
 | 2024-01-21 | 4,725 | 2 |
-| 2024-01-22 | 4,738 | 2 |
+| 2024-01-22 | 4,739 | 2 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 484)  
 Sum: 162 (Ranked 445)  

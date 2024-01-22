@@ -14,8 +14,8 @@ Number of Ratings: 54  (23.09.2022)
 | Grave Robber | 17.00% | ~299 |
 | Explorer | 16.00% | ~282 |
 | Head Burst | 16.00% | ~282 |
+| Double agent | 15.00% | ~264 |
 | Paranoia | 15.00% | ~264 |
-| Double agent | 14.00% | ~246 |
 | Savant | 10.00% | ~176 |
 | Kraina Grzybow | 9.00% | ~158 |
 | Love Guru | 9.00% | ~158 |
@@ -275,8 +275,8 @@ Completed: 1 (0.06%) (Ranked 339)
 | 2024-01-22 | 1,760 | 1 |
 ## Awards
 Max (Character Customization): 53  (Ranked 455)  
-Sum: 53 (Ranked 512)  
-Diff (max vs sum): -57  
+Sum: 53 (Ranked 513)  
+Diff (max vs sum): -58  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 53 |

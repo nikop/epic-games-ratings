@@ -12,9 +12,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 9.00% | ~1,887 |
 | No Deaths | 9.00% | ~1,887 |
 | Petrified Necropolis | 9.00% | ~1,887 |
-| Overcoming Difficulty | 8.00% | ~1,677 |
-| Coral Forest | 8.00% | ~1,677 |
-| The Marshlands | 8.00% | ~1,677 |
+| Overcoming Difficulty | 8.00% | ~1,678 |
+| Coral Forest | 8.00% | ~1,678 |
+| The Marshlands | 8.00% | ~1,678 |
 | The Scarlet Orchard | 7.00% | ~1,468 |
 | Ominous Presence | 7.00% | ~1,468 |
 | Gathering Storm | 7.00% | ~1,468 |
@@ -31,6 +31,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Lost Colonies | 4.00% | ~839 |
 | Statue of the Forefathers | 4.00% | ~839 |
 | Corrosive Torrent | 4.00% | ~839 |
+| Cursed Lands | 4.00% | ~839 |
 | Trade Baron | 4.00% | ~839 |
 | Untamed Wilds | 4.00% | ~839 |
 | Against All Odds | 3.00% | ~629 |
@@ -40,7 +41,6 @@ Number of Ratings: 1,845  (23.09.2022)
 | Sparkdew Crystals | 3.00% | ~629 |
 | Haunted Forest | 3.00% | ~629 |
 | Flooded Mines | 3.00% | ~629 |
-| Cursed Lands | 3.00% | ~629 |
 | Serving Ale | 2.00% | ~419 |
 | Efficient Explorer | 2.00% | ~419 |
 | Refinery | 2.00% | ~419 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,968 (Ranked 157)  
+Progressed: 20,969 (Ranked 157)  
 Completed: 34 (0.16%) (Ranked 296)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 34 (0.16%) (Ranked 296)
 | 2024-01-19 | 20,898 | 35 |
 | 2024-01-20 | 20,926 | 35 |
 | 2024-01-21 | 20,958 | 34 |
-| 2024-01-22 | 20,968 | 34 |
+| 2024-01-22 | 20,969 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 455  (Ranked 235)  
 Sum: 3,407 (Ranked 180)  

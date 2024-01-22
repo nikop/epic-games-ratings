@@ -2,9 +2,9 @@
   "ID": "9de65f6db18c4757a84e639d9a3e5a97",
   "Name": "Vagrus - The Riven Realms",
   "ProductSlug": "vagrus-the-riven-realms-c635d5",
-  "Ranking_EOS_Progress": 403,
+  "Ranking_EOS_Progress": 402,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 381,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-04-04T12:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 312,
+  "EOS_Progressed": 313,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1276,6 +1276,11 @@
       "Time": "2024-01-22T11:09:44.4344147+00:00",
       "NumProgressed": 312,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T18:08:37.6881295+00:00",
+      "NumProgressed": 313,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 99,
@@ -1367,7 +1372,7 @@
       "Name": "Quartermaster",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Vanilla_CargoEfficiencyTier2",
@@ -1407,7 +1412,7 @@
       "Name": "Scribe",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "Vanilla_CodexTier2",
@@ -1455,7 +1460,7 @@
       "Name": "Potential Unlocked",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Vanilla_CompanionSkillsMaxedOut",
@@ -1631,7 +1636,7 @@
       "Name": "Despised",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Vanilla_FirstWin",
@@ -1671,7 +1676,7 @@
       "Name": "Been There",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Vanilla_Garrik",
@@ -1839,7 +1844,7 @@
       "Name": "Press-ganged",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "Vanilla_Ratharnak",
@@ -1887,7 +1892,7 @@
       "Name": "Spiritual Journey",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Vanilla_Scythichnis",
@@ -1903,7 +1908,7 @@
       "Name": "A Second Chance",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 181
+      "UsersEstimate": 182
     },
     {
       "ID": "Vanilla_SecretsBelow",
@@ -1965,9 +1970,9 @@
       "ID": "Vanilla_ThePackage",
       "SetID": "27kik8p",
       "Name": "The Package",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 87
+      "UsersEstimate": 85
     },
     {
       "ID": "Vanilla_ThePilgrimageEnds",
@@ -2031,7 +2036,7 @@
       "Name": "Trouble at Fort Larius",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "Vanilla_UnseenPatterns",
@@ -2078,7 +2083,7 @@
     {
       "ID": "27kik8p",
       "IsBase": true,
-      "Progressed": 312,
+      "Progressed": 313,
       "Completed": 0
     }
   ],
@@ -2086,8 +2091,8 @@
   "FirstSeenRating": "2023-04-05T05:57:43.4826684+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:05.3388077+00:00",
   "LastChanged": "2023-04-05T05:57:43.4826685+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:08:59.5076621+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:08:37.6881293+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.8161865+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:03:02.0219595+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:08:59.5077718+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:02:39.8776615+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:08:37.6882263+00:00"
 }

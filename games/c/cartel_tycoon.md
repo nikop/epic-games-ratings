@@ -11,9 +11,9 @@ Number of Ratings: 101  (23.09.2022)
 | Hokey-Pokey | 68.00% | ~718 |
 | Camellos | 53.00% | ~560 |
 | Bad Trip | 45.00% | ~475 |
+| Didn't Miss A Single One | 43.00% | ~454 |
 | That was base | 43.00% | ~454 |
 | Spread | 43.00% | ~454 |
-| Didn't Miss A Single One | 42.00% | ~444 |
 | Safe Pair of Hands | 34.00% | ~359 |
 | Don't Let Mom Know You're A Druglord | 29.00% | ~306 |
 | Architect of Fortunes | 23.00% | ~243 |

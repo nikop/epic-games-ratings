@@ -35,6 +35,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | Heroic Victory | 3.00% | ~400 |
 | Capitulation Is Now Moot | 3.00% | ~400 |
 | Core of the Riddle | 3.00% | ~400 |
+| Stay Underground | 3.00% | ~363 |
 | Hanged Man's Notes | 3.00% | ~363 |
 | Sarkoris Will Be Green | 3.00% | ~363 |
 | The Lady of the Forest | 3.00% | ~363 |
@@ -43,7 +44,6 @@ Number of Ratings: 1,354  (23.09.2022)
 | Path of the Aeon | 2.00% | ~267 |
 | Your First Big Enemy | 2.00% | ~267 |
 | Truly Important Deed | 2.00% | ~267 |
-| Stay Underground | 2.00% | ~242 |
 | This Wall Won't Fall | 2.00% | ~242 |
 | The Final Threshold | 1.00% | ~133 |
 | Path of the Dragon | 1.00% | ~133 |

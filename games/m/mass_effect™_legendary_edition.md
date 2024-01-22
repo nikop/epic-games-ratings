@@ -35,8 +35,8 @@
 | The Archangel | 30.00% | ~1,376 |
 | The Professor | 30.00% | ~1,376 |
 | Head Hunter | 30.00% | ~1,376 |
+| Operative | 29.00% | ~1,330 |
 | The Convict | 28.00% | ~1,284 |
-| Operative | 28.00% | ~1,284 |
 | Power Full | 28.00% | ~1,284 |
 | Colony Defense | 27.00% | ~1,238 |
 | The Krogan | 27.00% | ~1,238 |
@@ -68,12 +68,12 @@
 | Cat's in the Cradle | 21.00% | ~963 |
 | Doppelganger | 21.00% | ~963 |
 | Mobilizer | 21.00% | ~963 |
+| Untouchable | 20.00% | ~917 |
 | Completionist | 20.00% | ~917 |
 | Mission Accomplished | 20.00% | ~917 |
 | Suicide Mission | 20.00% | ~917 |
 | Against All Odds | 20.00% | ~917 |
 | Agent | 20.00% | ~917 |
-| Untouchable | 19.00% | ~871 |
 | Eye of the Hurricane | 19.00% | ~871 |
 | Giant Killer | 19.00% | ~871 |
 | A House Divided | 19.00% | ~871 |

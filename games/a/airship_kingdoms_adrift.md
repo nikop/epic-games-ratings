@@ -17,11 +17,11 @@
 | Not a Good Decoy | 50.00% | ~3 |
 | The Pink Flower | 50.00% | ~3 |
 | Safe Delivery | 50.00% | ~3 |
+| Shipping Ships | 50.00% | ~3 |
 | Tuck the Tail | 50.00% | ~3 |
 | Dream of Flight | 33.00% | ~2 |
 | In His Majesty's Service! | 33.00% | ~2 |
 | Our Tiny Little Fleet | 33.00% | ~2 |
-| Shipping Ships | 33.00% | ~2 |
 | The Combatant | 33.00% | ~2 |
 | The Mother Ocean | 33.00% | ~2 |
 | Whoops | 33.00% | ~2 |
@@ -153,7 +153,7 @@
 | Trouble in Aberdonia | 0.00% | ~0 |
 | We need Space! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 698)  
+Progressed: 6 (Ranked 699)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |

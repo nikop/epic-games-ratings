@@ -6,17 +6,17 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~520 |
+| Green with Envy | 77.00% | ~521 |
 | First of many… | 69.00% | ~466 |
 | Helping Hand | 65.00% | ~439 |
 | Increased Vigor | 61.00% | ~412 |
-| Fight Fire with Fire | 59.00% | ~398 |
-| Increased Capacity | 56.00% | ~378 |
+| Fight Fire with Fire | 59.00% | ~399 |
+| Increased Capacity | 56.00% | ~379 |
 | Just the start | 50.00% | ~338 |
-| Perfect Storm | 47.00% | ~317 |
-| All That Glitters | 47.00% | ~317 |
-| Enhance! | 43.00% | ~290 |
-| One Of the Chosen | 41.00% | ~277 |
+| Perfect Storm | 47.00% | ~318 |
+| All That Glitters | 47.00% | ~318 |
+| Enhance! | 43.00% | ~291 |
+| One Of the Chosen | 42.00% | ~284 |
 | Devil's in the Details | 41.00% | ~277 |
 | Throne Potato | 41.00% | ~277 |
 | Five's a Crowd | 41.00% | ~277 |
@@ -25,16 +25,16 @@ Number of Ratings: 116  (23.09.2022)
 | Unshakable Fortitude | 37.00% | ~250 |
 | Soul Harvester | 37.00% | ~250 |
 | Delusions of Grandeur | 36.00% | ~243 |
-| I Wanna Rock | 35.00% | ~236 |
-| Love Tap | 35.00% | ~236 |
+| I Wanna Rock | 35.00% | ~237 |
+| Love Tap | 35.00% | ~237 |
 | Maximum Vigor | 33.00% | ~223 |
-| Freeze Frame | 31.00% | ~209 |
-| Eat Your Heart Out | 31.00% | ~209 |
-| For Whom the Bell Tolls | 30.00% | ~202 |
-| Unyielding Strength | 27.00% | ~182 |
-| Can you restore the Balance? | 27.00% | ~182 |
-| Crowd Source | 27.00% | ~182 |
-| Big Spender | 27.00% | ~182 |
+| Freeze Frame | 31.00% | ~210 |
+| Eat Your Heart Out | 31.00% | ~210 |
+| For Whom the Bell Tolls | 30.00% | ~203 |
+| Unyielding Strength | 27.00% | ~183 |
+| Can you restore the Balance? | 27.00% | ~183 |
+| Crowd Source | 27.00% | ~183 |
+| Big Spender | 27.00% | ~183 |
 | Cleanup Crew | 26.00% | ~176 |
 | Seeing Red | 26.00% | ~176 |
 | Demon Meddler | 25.00% | ~169 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 675 (Ranked 340)  
+Progressed: 676 (Ranked 340)  
 Completed: 2 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.30%) (Ranked 265)
 | 2024-01-19 | 649 | 2 |
 | 2024-01-20 | 658 | 2 |
 | 2024-01-21 | 667 | 2 |
-| 2024-01-22 | 675 | 2 |
+| 2024-01-22 | 676 | 2 |
 ## Awards
 Max (Great Boss Battles): 100  (Ranked 383)  
 Sum: 100 (Ranked 474)  

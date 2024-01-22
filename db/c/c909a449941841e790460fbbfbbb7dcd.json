@@ -3,9 +3,9 @@
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
   "Ranking_EOS_Progress": 422,
-  "Ranking_EOS_Completed": 80,
+  "Ranking_EOS_Completed": 76,
   "Ranking_EOS_NewPlayers": 381,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
     "PcReleaseDate": "2023-05-28T19:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 255,
-  "EOS_Completed": 12,
+  "EOS_Completed": 13,
   "EOS_NewPlayers": 5,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.71,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 5.1,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -1169,6 +1169,11 @@
       "Time": "2024-01-22T15:04:50.5895918+00:00",
       "NumProgressed": 255,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-22T18:04:32.9819844+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -1195,9 +1200,9 @@
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 60,
-      "UsersEstimate": 41
+      "UsersEstimate": 43
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -1267,17 +1272,17 @@
       "ID": "NEW_ACHIEVEMENT_1_3",
       "SetID": "14g34pl",
       "Name": "Sagehaven is safe!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "14g34pl",
       "Name": "Forest is safe!",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 23
+      "UsersEstimate": 26
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -1317,13 +1322,13 @@
       "ID": "14g34pl",
       "IsBase": true,
       "Progressed": 255,
-      "Completed": 12
+      "Completed": 13
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:04:27.0380023+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:04:32.9819841+00:00",
   "LastUpdate_AppInfo": "2024-01-17T01:46:10.8318489+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:58:13.2185591+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:04:27.0380243+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:58:11.0833996+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:04:32.982+00:00"
 }

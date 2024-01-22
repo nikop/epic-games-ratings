@@ -5,47 +5,47 @@ Rating: 4.26 (Ranked 925)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Power Shot | 75.00% | ~161,617 |
-| Dead-ball specialist | 61.00% | ~131,448 |
-| European Legend | 52.00% | ~112,054 |
-| Multitasking | 51.00% | ~109,899 |
-| Balanced Path | 49.00% | ~105,590 |
-| High Grades | 48.00% | ~103,435 |
-| A Moment of Your Time | 46.00% | ~99,125 |
-| Let the Games Begin | 46.00% | ~99,125 |
-| Aiming High | 46.00% | ~99,125 |
-| Tactical Tinkerer | 40.00% | ~86,196 |
-| Intuition and Execution | 39.00% | ~84,041 |
-| Squad Building Connoisseur | 38.00% | ~81,886 |
-| The Winning Formula | 36.00% | ~77,576 |
-| Parking the Bus | 27.00% | ~58,182 |
-| Safe House | 26.00% | ~56,027 |
-| Best of Five | 26.00% | ~56,027 |
-| Football is Everything | 24.00% | ~51,717 |
-| The Chosen One | 21.00% | ~45,253 |
-| Fresh Fit | 20.00% | ~43,098 |
-| Bring it on | 17.00% | ~36,633 |
-| Life-Like | 14.00% | ~30,168 |
-| Make the Grade | 12.00% | ~25,859 |
-| I Played Them All | 10.00% | ~21,549 |
-| Specialist | 10.00% | ~21,549 |
-| Teamwork works | 9.00% | ~19,394 |
-| First of Many | 9.00% | ~19,394 |
-| Momentous Achievement | 6.00% | ~12,929 |
-| Becoming Unplayable | 5.00% | ~10,774 |
-| Shop till you drop | 5.00% | ~10,774 |
-| On the way up | 5.00% | ~10,774 |
+| Power Shot | 75.00% | ~161,627 |
+| Dead-ball specialist | 61.00% | ~131,457 |
+| European Legend | 52.00% | ~112,062 |
+| Multitasking | 51.00% | ~109,907 |
+| Balanced Path | 49.00% | ~105,596 |
+| High Grades | 48.00% | ~103,441 |
+| A Moment of Your Time | 46.00% | ~99,131 |
+| Let the Games Begin | 46.00% | ~99,131 |
+| Aiming High | 46.00% | ~99,131 |
+| Tactical Tinkerer | 40.00% | ~86,201 |
+| Intuition and Execution | 39.00% | ~84,046 |
+| Squad Building Connoisseur | 38.00% | ~81,891 |
+| The Winning Formula | 36.00% | ~77,581 |
+| Parking the Bus | 27.00% | ~58,186 |
+| Safe House | 26.00% | ~56,031 |
+| Best of Five | 26.00% | ~56,031 |
+| Football is Everything | 24.00% | ~51,721 |
+| The Chosen One | 21.00% | ~45,256 |
+| Fresh Fit | 20.00% | ~43,101 |
+| Bring it on | 17.00% | ~36,636 |
+| Life-Like | 14.00% | ~30,170 |
+| Make the Grade | 12.00% | ~25,860 |
+| I Played Them All | 10.00% | ~21,550 |
+| Specialist | 10.00% | ~21,550 |
+| Teamwork works | 9.00% | ~19,395 |
+| First of Many | 9.00% | ~19,395 |
+| Momentous Achievement | 6.00% | ~12,930 |
+| Becoming Unplayable | 5.00% | ~10,775 |
+| Shop till you drop | 5.00% | ~10,775 |
+| On the way up | 5.00% | ~10,775 |
 | Volta's best | 4.00% | ~8,620 |
 | In Cahoots | 4.00% | ~8,620 |
 | Tune Your Club | 4.00% | ~8,620 |
 | Full-House | 4.00% | ~8,620 |
 | Sharing is Caring | 3.00% | ~6,465 |
-| Full wardrobe | 0.50% | ~1,077 |
+| Full wardrobe | 0.50% | ~1,078 |
 | Girl Power | 0.40% | ~862 |
-| Training Addict | 0.10% | ~215 |
-| Dazzling Personality | 0.10% | ~215 |
+| Training Addict | 0.10% | ~216 |
+| Dazzling Personality | 0.10% | ~216 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 215,489 (Ranked 82)  
+Progressed: 215,503 (Ranked 82)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -175,20 +175,20 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 214,630 | 0 |
 | 2024-01-20 | 214,955 | 0 |
 | 2024-01-21 | 215,315 | 0 |
-| 2024-01-22 | 215,489 | 0 |
+| 2024-01-22 | 215,503 | 0 |
 ## Awards
-Max (Diverse Characters): 22,339  (Ranked 21)  
-Sum: 110,800 (Ranked 17)  
+Max (Diverse Characters): 22,348  (Ranked 21)  
+Sum: 110,826 (Ranked 17)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 22,339 |
-| This game is Highly Recommended | 15,148 |
+| This game has Diverse Characters | 22,348 |
+| This game is Highly Recommended | 15,151 |
 | This game has a Competitive Community | 14,509 |
 | This game has Amazing Characters | 12,469 |
 | This game is Extremely Fun | 11,950 |
-| This game has Competitive Players | 11,885 |
-| This game has Amazing Storytelling | 11,708 |
+| This game has Competitive Players | 11,894 |
+| This game has Amazing Storytelling | 11,713 |
 | This game has Quickly Understood Controls | 10,792 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -576,4 +576,4 @@ Diff (max vs sum): 4
 | 2024-01-19 | 4.26 | 22,316 | 110,663 |
 | 2024-01-20 | 4.26 | 22,329 | 110,734 |
 | 2024-01-21 | 4.26 | 22,339 | 110,780 |
-| 2024-01-22 | 4.26 | 22,339 | 110,800 |
+| 2024-01-22 | 4.26 | 22,348 | 110,826 |

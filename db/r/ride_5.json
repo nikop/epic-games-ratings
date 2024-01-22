@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 218,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3670,
+  "EOS_Progressed": 3672,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 63,
+  "EOS_NewPlayers": 65,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9180,6 +9180,11 @@
       "Time": "2024-01-22T15:08:04.49151+00:00",
       "NumProgressed": 3670,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T18:07:42.0949153+00:00",
+      "NumProgressed": 3672,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9192,7 +9197,7 @@
       "Name": "First Love",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 1688
+      "UsersEstimate": 1689
     },
     {
       "ID": "ML_ACHIEVEMENT_02",
@@ -9200,7 +9205,7 @@
       "Name": "Hear That Roar!",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 1578
+      "UsersEstimate": 1579
     },
     {
       "ID": "ML_ACHIEVEMENT_03",
@@ -9248,7 +9253,7 @@
       "Name": "I Want One Too!",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "ML_ACHIEVEMENT_09",
@@ -9296,7 +9301,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 844
+      "UsersEstimate": 845
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9368,7 +9373,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -9448,7 +9453,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 550
+      "UsersEstimate": 551
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9488,7 +9493,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1835
+      "UsersEstimate": 1836
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9496,7 +9501,7 @@
       "Name": "Champagne Spray",
       "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 1101
+      "UsersEstimate": 1102
     },
     {
       "ID": "ML_ACHIEVEMENT_40",
@@ -9583,7 +9588,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3670,
+      "Progressed": 3672,
       "Completed": 0
     }
   ],
@@ -9591,8 +9596,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:06:56.5387607+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:07:42.0949151+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:57:25.3022466+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:06:56.5388421+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:57:09.7749799+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:07:42.0949838+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 108,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
     "PcReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -193,10 +193,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1600,
+  "EOS_Progressed": 1601,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 146,
-  "EOS_NewCompleters": 4,
+  "EOS_NewPlayers": 147,
+  "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 3.19,
   "EosHistory": [
     {
@@ -5653,6 +5653,11 @@
       "Time": "2024-01-22T17:05:08.9982877+00:00",
       "NumProgressed": 1600,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-22T18:05:26.8103386+00:00",
+      "NumProgressed": 1601,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5664,7 +5669,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 992
+      "UsersEstimate": 993
     },
     {
       "ID": "MQ01_2",
@@ -5672,7 +5677,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 960
+      "UsersEstimate": 961
     },
     {
       "ID": "MQ02_1",
@@ -5680,15 +5685,15 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 864
+      "UsersEstimate": 865
     },
     {
       "ID": "MQ02_2",
       "SetID": "bbing49",
       "Name": "Big Breakthrough",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 208
+      "UsersEstimate": 192
     },
     {
       "ID": "MQ02_3",
@@ -5704,7 +5709,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 816
+      "UsersEstimate": 817
     },
     {
       "ID": "MQ03_1",
@@ -5878,16 +5883,16 @@
       "ID": "PLTN",
       "SetID": "bbing49",
       "Name": "Reawakened",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 70,
-      "UsersEstimate": 64
+      "UsersEstimate": 48
     }
   ],
   "AchievementSets": [
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1600,
+      "Progressed": 1601,
       "Completed": 51
     }
   ],
@@ -5895,8 +5900,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:05:08.9982872+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:05:26.8103383+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:03:39.669041+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:05:08.998333+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:03:30.1689817+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:05:26.8103855+00:00"
 }

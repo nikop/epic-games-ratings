@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 221,
   "Ranking_EOS_Completed": 272,
-  "Ranking_EOS_NewPlayers": 291,
+  "Ranking_EOS_NewPlayers": 289,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-03-28T13:00:00+00:00",
@@ -55,9 +55,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4057,
+  "EOS_Progressed": 4058,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -5790,6 +5790,11 @@
       "Time": "2024-01-21T10:04:52.8242179+00:00",
       "NumProgressed": 4057,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-22T18:06:27.8827989+00:00",
+      "NumProgressed": 4058,
+      "NumCompleted": 11
     }
   ],
   "TotalAchievements": 33,
@@ -5937,7 +5942,7 @@
       "Name": "Flanked!",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 3043
+      "UsersEstimate": 3044
     },
     {
       "ID": "campaign20",
@@ -5961,7 +5966,7 @@
       "Name": "Get Rich Quick",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 1663
+      "UsersEstimate": 1664
     },
     {
       "ID": "campaign5",
@@ -5977,7 +5982,7 @@
       "Name": "Nowhere left to Hide",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 527
+      "UsersEstimate": 528
     },
     {
       "ID": "campaign7",
@@ -6064,7 +6069,7 @@
     {
       "ID": "2h56gn1",
       "IsBase": true,
-      "Progressed": 4057,
+      "Progressed": 4058,
       "Completed": 11
     }
   ],
@@ -6072,8 +6077,8 @@
   "FirstSeenRating": "2023-03-31T05:57:45.7559865+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:09.3745834+00:00",
   "LastChanged": "2024-01-21T14:59:54.3587878+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:05:56.8714476+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:06:27.8827986+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:44.1211002+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:59:56.2674141+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:05:56.8714966+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:00:24.4061719+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:06:27.8828384+00:00"
 }

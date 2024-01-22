@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12496,
+  "EOS_Progressed": 12497,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 152,
+  "EOS_NewPlayers": 153,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -16318,6 +16318,11 @@
       "Time": "2024-01-22T14:05:52.5848673+00:00",
       "NumProgressed": 12496,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2024-01-22T18:07:07.2255064+00:00",
+      "NumProgressed": 12497,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 29,
@@ -16329,7 +16334,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10372
+      "UsersEstimate": 10373
     },
     {
       "ID": "ACH02",
@@ -16353,7 +16358,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4873
+      "UsersEstimate": 4874
     },
     {
       "ID": "ACH05",
@@ -16457,7 +16462,7 @@
       "Name": "Offshore Delivery",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 1874
+      "UsersEstimate": 1875
     },
     {
       "ID": "ACH18",
@@ -16513,7 +16518,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 30,
-      "UsersEstimate": 1624
+      "UsersEstimate": 1625
     },
     {
       "ID": "ACH25",
@@ -16560,7 +16565,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12496,
+      "Progressed": 12497,
       "Completed": 95
     }
   ],
@@ -16568,8 +16573,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:06:29.013668+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:07:07.2255061+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:57:28.7878211+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:06:29.0137586+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:57:14.0216902+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:07:07.2255872+00:00"
 }

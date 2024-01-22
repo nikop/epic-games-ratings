@@ -2,7 +2,7 @@
   "ID": "577c5cbc303a4d168b1a104f3b46e751",
   "Name": "Hi-Fi RUSH",
   "ProductSlug": "hi-fi-rush",
-  "Ranking_Rating": 34,
+  "Ranking_Rating": 33,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 168,
@@ -285,9 +285,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17606,
+  "EOS_Progressed": 17607,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 388,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13055,6 +13055,11 @@
       "Time": "2024-01-22T17:06:01.8501589+00:00",
       "NumProgressed": 17606,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T18:06:34.2833946+00:00",
+      "NumProgressed": 17607,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13066,7 +13071,7 @@
       "Name": "Start with a bang!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9859
+      "UsersEstimate": 9860
     },
     {
       "ID": "Ach002",
@@ -13074,7 +13079,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6514
+      "UsersEstimate": 6515
     },
     {
       "ID": "Ach003",
@@ -13082,7 +13087,7 @@
       "Name": "This will cost you big time",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 4225
+      "UsersEstimate": 4226
     },
     {
       "ID": "Ach004",
@@ -13130,7 +13135,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "Ach010",
@@ -13178,7 +13183,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6338
+      "UsersEstimate": 6339
     },
     {
       "ID": "Ach016",
@@ -13242,7 +13247,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9859
+      "UsersEstimate": 9860
     },
     {
       "ID": "Ach024",
@@ -13274,7 +13279,7 @@
       "Name": "Z-shielding\u0027s got nothing on us!",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 3873
+      "UsersEstimate": 3874
     },
     {
       "ID": "Ach028",
@@ -13322,7 +13327,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4049
+      "UsersEstimate": 4050
     },
     {
       "ID": "Ach034",
@@ -13330,7 +13335,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1408
+      "UsersEstimate": 1409
     },
     {
       "ID": "Ach035",
@@ -13466,7 +13471,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8979
+      "UsersEstimate": 8980
     },
     {
       "ID": "Ach052",
@@ -13520,9 +13525,9 @@
       "ID": "Ach058",
       "SetID": "12n4k20",
       "Name": "With our powers combined\u2026and to the rhythm\u2026",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 70
     },
     {
       "ID": "Ach059",
@@ -13633,13 +13638,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17606,
+      "Progressed": 17607,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16127,
+      "Progressed": 16128,
       "Completed": 1931
     }
   ],
@@ -13647,8 +13652,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:06:01.8501583+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:06:34.2833942+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:59:55.0716656+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:06:01.8502658+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:00:22.5145065+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:06:34.2835323+00:00"
 }

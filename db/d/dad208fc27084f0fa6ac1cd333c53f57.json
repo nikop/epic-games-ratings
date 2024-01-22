@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 197,
   "Ranking_EOS_Completed": 188,
   "Ranking_EOS_NewPlayers": 144,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2023-10-31T14:00:00+00:00",
     "PcReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7964,
+  "EOS_Progressed": 7965,
   "EOS_Completed": 74,
   "EOS_NewPlayers": 330,
   "EOS_NewCompleters": 3,
@@ -9024,6 +9024,11 @@
       "Time": "2024-01-22T17:05:57.4300559+00:00",
       "NumProgressed": 7964,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-22T18:06:28.4779958+00:00",
+      "NumProgressed": 7965,
+      "NumCompleted": 74
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9036,7 +9041,7 @@
       "Name": "Finish The Hidden Room",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_HIDDENROOM",
@@ -9044,7 +9049,7 @@
       "Name": "Unlock the secret room",
       "Percentage": 24,
       "XP": 80,
-      "UsersEstimate": 1911
+      "UsersEstimate": 1912
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_MASK",
@@ -9076,7 +9081,7 @@
       "Name": "Move the sofa",
       "Percentage": 35,
       "XP": 30,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_TV",
@@ -9084,7 +9089,7 @@
       "Name": "Turn on the TV",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 4539
+      "UsersEstimate": 4540
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -9156,21 +9161,21 @@
       "Name": "Turn on the TV in Speedrun",
       "Percentage": 7,
       "XP": 60,
-      "UsersEstimate": 557
+      "UsersEstimate": 558
     }
   ],
   "AchievementSets": [
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7964,
+      "Progressed": 7965,
       "Completed": 74
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:05:57.4300554+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:06:28.4779952+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:57:56.6808487+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:05:57.4301043+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:57:48.962117+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:06:28.4780459+00:00"
 }

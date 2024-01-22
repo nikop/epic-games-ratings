@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 51,
+  "Ranking_EOS_NewCompleters": 52,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8293,9 +8293,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152485,
+  "EOS_Progressed": 152487,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 1203,
+  "EOS_NewPlayers": 1193,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37748,6 +37748,11 @@
       "Time": "2024-01-22T17:09:44.620558+00:00",
       "NumProgressed": 152485,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-22T18:09:33.2791953+00:00",
+      "NumProgressed": 152487,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -37991,7 +37996,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16773
+      "UsersEstimate": 16774
     },
     {
       "ID": "commonres02",
@@ -38231,7 +38236,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15248
+      "UsersEstimate": 15249
     },
     {
       "ID": "gold02",
@@ -38654,15 +38659,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152485,
+      "Progressed": 152487,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-22T09:03:38.5579473+00:00",
-  "LastChanged_Achievements": "2024-01-22T17:09:44.6205575+00:00",
+  "LastChanged_Achievements": "2024-01-22T18:09:33.2791951+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:03:44.5871078+00:00",
-  "LastUpdate_Achievements": "2024-01-22T17:09:44.6207928+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:03:36.7917862+00:00",
+  "LastUpdate_Achievements": "2024-01-22T18:09:33.2794075+00:00"
 }
