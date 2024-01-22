@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 58,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 93,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
     "PcReleaseDate": "2021-08-09T00:00:00+00:00",
@@ -1084,9 +1084,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 363163,
+  "EOS_Progressed": 363167,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 976,
+  "EOS_NewPlayers": 974,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32709,6 +32709,11 @@
       "Time": "2024-01-22T03:04:05.4955074+00:00",
       "NumProgressed": 363163,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-22T04:04:25.8750849+00:00",
+      "NumProgressed": 363167,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 80,
@@ -32824,7 +32829,7 @@
       "Name": "Fronting the Money",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 54474
+      "UsersEstimate": 54475
     },
     {
       "ID": "ach015",
@@ -32848,7 +32853,7 @@
       "Name": "Dirty Money",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 47211
+      "UsersEstimate": 47212
     },
     {
       "ID": "ach018",
@@ -32928,7 +32933,7 @@
       "Name": "Corner Clout",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 167055
+      "UsersEstimate": 167057
     },
     {
       "ID": "ach028",
@@ -32960,7 +32965,7 @@
       "Name": "Dirty Work",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ach032",
@@ -32992,7 +32997,7 @@
       "Name": "Bottled Up",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ach036",
@@ -33024,7 +33029,7 @@
       "Name": "Friends on the Force",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36316
+      "UsersEstimate": 36317
     },
     {
       "ID": "ach040",
@@ -33040,7 +33045,7 @@
       "Name": "Streetwise",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1089
+      "UsersEstimate": 1090
     },
     {
       "ID": "ach042",
@@ -33056,7 +33061,7 @@
       "Name": "Street Fighter",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25421
+      "UsersEstimate": 25422
     },
     {
       "ID": "ach044",
@@ -33072,7 +33077,7 @@
       "Name": "Family First",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 47211
+      "UsersEstimate": 47212
     },
     {
       "ID": "ach046",
@@ -33080,7 +33085,7 @@
       "Name": "Friendly Gestures",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25421
+      "UsersEstimate": 25422
     },
     {
       "ID": "ach047",
@@ -33088,7 +33093,7 @@
       "Name": "Crossing Over",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     },
     {
       "ID": "ach048",
@@ -33184,7 +33189,7 @@
       "Name": "Neighborhood Watch",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 36316
+      "UsersEstimate": 36317
     },
     {
       "ID": "ach060",
@@ -33248,7 +33253,7 @@
       "Name": "Copacetic Coordination",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 58106
+      "UsersEstimate": 58107
     },
     {
       "ID": "ach069",
@@ -33328,7 +33333,7 @@
       "Name": "People Person",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 25421
+      "UsersEstimate": 25422
     },
     {
       "ID": "ach079",
@@ -33359,7 +33364,7 @@
     {
       "ID": "1d2iaed",
       "IsBase": true,
-      "Progressed": 363163,
+      "Progressed": 363167,
       "Completed": 7
     }
   ],
@@ -33367,8 +33372,8 @@
   "FirstSeenRating": "2023-02-04T02:04:08.6033838+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:55.8180377+00:00",
   "LastChanged": "2024-01-21T15:58:48.6350263+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:04:05.4955071+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:04:25.8750846+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:40.2715819+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:58:55.8567737+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:04:05.4957062+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:59:01.048585+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:04:25.8752986+00:00"
 }

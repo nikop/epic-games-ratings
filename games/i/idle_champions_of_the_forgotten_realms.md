@@ -92,6 +92,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Attack on the Manor | 0.20% | ~510 |
 | Treasure Hunters | 0.20% | ~510 |
 | The Guardian of Orolunga | 0.20% | ~510 |
+| The Lost Love | 0.20% | ~510 |
 | Flies on the Wall | 0.20% | ~510 |
 | Backtracking Through Barovia | 0.20% | ~510 |
 | Nimble Escape | 0.20% | ~510 |
@@ -288,7 +289,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Think Your Way Out Of It | 0.10% | ~255 |
 | Air's Getting Pretty Thin | 0.10% | ~255 |
 | Red Wizard 'Escort' | 0.10% | ~221 |
-| The Lost Love | 0.10% | ~255 |
 | A Saurial's Lament | 0.10% | ~255 |
 | A Saurial's Resolve | 0.10% | ~255 |
 | Spirit of the Trickster Gods | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,133 (Ranked 71)  
+Progressed: 255,140 (Ranked 71)  
 Completed: 2,630 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -830,7 +830,7 @@ Completed: 2,630 (1.03%) (Ranked 180)
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
-| 2024-01-22 | 255,133 | 2,630 |
+| 2024-01-22 | 255,140 | 2,630 |
 ## Awards
 Max (Great for Beginners): 5,810  (Ranked 74)  
 Sum: 33,602 (Ranked 41)  

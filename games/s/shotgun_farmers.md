@@ -5,32 +5,32 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Seeds of War | 81.00% | ~313 |
-| First Blood | 65.00% | ~251 |
-| Triple Kill | 63.00% | ~243 |
-| Aspairagus | 60.00% | ~202 |
-| No Asperascope | 59.00% | ~228 |
-| Survivor | 56.00% | ~188 |
-| Cornivore | 54.00% | ~208 |
-| I Believe I Can Fly | 49.00% | ~189 |
-| No Diggity | 45.00% | ~151 |
+| First Blood | 64.00% | ~248 |
+| Triple Kill | 63.00% | ~244 |
+| Aspairagus | 59.00% | ~199 |
+| No Asperascope | 58.00% | ~224 |
+| Survivor | 56.00% | ~189 |
+| Cornivore | 53.00% | ~205 |
+| I Believe I Can Fly | 49.00% | ~190 |
+| No Diggity | 45.00% | ~152 |
 | Early Survivor | 39.00% | ~131 |
 | Bouncemato | 32.00% | ~108 |
 | 10K | 28.00% | ~108 |
 | Amateur Survivor | 28.00% | ~94 |
-| 15K | 26.00% | ~100 |
+| 15K | 26.00% | ~101 |
 | Grave Digger | 24.00% | ~81 |
 | Drinking Problem | 22.00% | ~85 |
-| Quick-Draw Pod | 22.00% | ~74 |
+| Quick-Draw Pod | 21.00% | ~71 |
 | Pork Chop Express | 20.00% | ~77 |
 | Professional Survivor | 19.00% | ~64 |
 | Carrocketeer | 17.00% | ~66 |
 | Getting Started | 16.00% | ~62 |
 | Skin Of Your Teeth | 16.00% | ~62 |
-| This Is My Boomstick | 15.00% | ~50 |
+| This Is My Boomstick | 15.00% | ~51 |
 | Eggtraordinary | 14.00% | ~54 |
 | Oh My Gourd | 14.00% | ~47 |
 | Perfect | 14.00% | ~47 |
-| Quit Horsin' Around | 11.00% | ~42 |
+| Quit Horsin' Around | 11.00% | ~43 |
 | Summers Here | 11.00% | ~37 |
 | Fresh Pancake | 10.00% | ~39 |
 | Quadsparagus | 10.00% | ~34 |
@@ -79,7 +79,7 @@
 | Prestige 4 - Rancher | 0.00% | ~0 |
 | Prestige 5 - Master Farmer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386 (Ranked 379)  
+Progressed: 387 (Ranked 379)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -250,6 +250,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 383 | 0 |
 | 2024-01-19 | 384 | 0 |
 | 2024-01-21 | 386 | 0 |
+| 2024-01-22 | 387 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

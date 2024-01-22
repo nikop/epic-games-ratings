@@ -4,11 +4,11 @@
   "ProductSlug": "lords-of-the-fallen",
   "Ranking_Rating": 958,
   "Ranking_Popularity": 202,
-  "Ranking_PopularitySum": 244,
+  "Ranking_PopularitySum": 243,
   "Ranking_EOS_Progress": 178,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 139,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-13T14:00:00+00:00",
     "PcReleaseDate": "2023-10-13T14:00:00+00:00",
@@ -2041,10 +2041,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 1614,
       "NumberOfAwardsMax": 664
+    },
+    {
+      "Time": "2024-01-22T03:58:17.5546591+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 1619,
+      "NumberOfAwardsMax": 664
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1614,
+  "NumberOfAwards": 1619,
   "NumberOfAwardsMax": 664,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -2082,7 +2088,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 68
+      "Count": 73
     },
     {
       "Text": "This game has Competitive Players",
@@ -2123,7 +2129,7 @@
   ],
   "EOS_Progressed": 13995,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 356,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10923,9 +10929,9 @@
   "FirstSeen": "2023-10-13T16:58:40.9012964+00:00",
   "FirstSeenRating": "2023-10-15T11:58:59.8898365+00:00",
   "FirstSeenAchievements": "2023-10-11T10:04:59.1697726+00:00",
-  "LastChanged": "2024-01-22T01:52:52.5241745+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:09:46.6409521+00:00",
+  "LastChanged": "2024-01-22T03:58:17.5546589+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:05.5677415+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.5417904+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:58:12.7701126+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:09:46.6410469+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:58:17.5546594+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:05.5678123+00:00"
 }

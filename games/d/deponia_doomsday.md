@@ -26,8 +26,8 @@ Rating: 4.55 (Ranked 529)
 | And everything comes full circle. | 19.00% | ~103 |
 | Quickdraw | 14.00% | ~76 |
 | Thuna...? | 14.00% | ~76 |
+| Monstrous Harassment | 14.00% | ~76 |
 | Heading the inverter | 14.00% | ~76 |
-| Monstrous Harassment | 13.00% | ~70 |
 | Blast from the Past | 11.00% | ~59 |
 | Play it again, Ronny | 10.00% | ~54 |
 | Paradox! | 10.00% | ~54 |

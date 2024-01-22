@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 373,
   "Ranking_EOS_Progress": 133,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 127,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 128,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-02-25T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -826,7 +826,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44738,
+  "EOS_Progressed": 44740,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 464,
   "EOS_NewCompleters": 0,
@@ -29196,6 +29196,11 @@
       "Time": "2024-01-22T03:05:30.8195785+00:00",
       "NumProgressed": 44738,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T04:05:51.4534745+00:00",
+      "NumProgressed": 44740,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29223,7 +29228,7 @@
       "Name": "Rules the Waves",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 7605
+      "UsersEstimate": 7606
     },
     {
       "ID": "ach_antiquarian10",
@@ -29405,9 +29410,9 @@
       "ID": "ach_legacypupil",
       "SetID": "ammcm",
       "Name": "Pupil",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 3132
+      "UsersEstimate": 2684
     },
     {
       "ID": "ach_legacyrival",
@@ -29415,7 +29420,7 @@
       "Name": "Rival",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 6263
+      "UsersEstimate": 6264
     },
     {
       "ID": "ach_legacysalvager",
@@ -29638,15 +29643,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44738,
+      "Progressed": 44740,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:05:30.8195782+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:05:51.4534742+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:57:34.6737669+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:05:30.8198526+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:57:38.907268+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:05:51.4536339+00:00"
 }

@@ -16,7 +16,7 @@ Number of Ratings: 53  (23.09.2022)
 | Greed for gold | 42.00% | ~523 |
 | Intangible | 41.00% | ~511 |
 | I'm out of here for a while | 41.00% | ~511 |
-| In a mint condition | 37.00% | ~461 |
+| In a mint condition | 38.00% | ~473 |
 | Licence to Kill | 36.00% | ~449 |
 | Pirates! | 34.00% | ~424 |
 | Collectionitis | 28.00% | ~349 |

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 462,
+  "EOS_Progressed": 463,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2101,6 +2101,11 @@
       "Time": "2024-01-21T20:10:52.4529565+00:00",
       "NumProgressed": 462,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T04:10:01.0228736+00:00",
+      "NumProgressed": 463,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2111,9 +2116,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 347
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2225,7 +2230,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_DROP_HUMAN_OFF_BRIDGE",
@@ -2241,7 +2246,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_ENTER_BAYCITY",
@@ -2249,7 +2254,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 388
+      "UsersEstimate": 389
     },
     {
       "ID": "ACH_ENTER_SOLARIS",
@@ -2279,9 +2284,9 @@
       "ID": "ACH_KILL_BONGWATER",
       "SetID": "4n84pon",
       "Name": "Bodied Sattva",
-      "Percentage": 39,
+      "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 180
+      "UsersEstimate": 176
     },
     {
       "ID": "ACH_KILL_KOJIRA",
@@ -2289,7 +2294,7 @@
       "Name": "Kaijuiced",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_KILL_MILENKOV",
@@ -2369,7 +2374,7 @@
       "Name": "Upgreatest",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACH_REACH_TAKOSHIMA_TOWER",
@@ -2401,7 +2406,7 @@
       "Name": "Dusted",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 55
+      "UsersEstimate": 56
     },
     {
       "ID": "ACH_SKATE_BAYCITY",
@@ -2464,7 +2469,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 462,
+      "Progressed": 463,
       "Completed": 2
     }
   ],
@@ -2472,8 +2477,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:09:42.112483+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:01.0228731+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:57:30.9351531+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:09:42.1125336+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:57:35.4030412+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:01.0229036+00:00"
 }

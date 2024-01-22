@@ -4,8 +4,8 @@
   "ProductSlug": "samorost-2-1b9bb1",
   "Ranking_EOS_Progress": 421,
   "Ranking_EOS_Completed": 7,
-  "Ranking_EOS_NewPlayers": 349,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 348,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
     "PcReleaseDate": "2005-12-08T12:00:00+00:00",
@@ -1778,9 +1778,9 @@
       "ID": "Kompotarna",
       "SetID": "823jm6g",
       "Name": "Pantry",
-      "Percentage": 74,
+      "Percentage": 75,
       "XP": 80,
-      "UsersEstimate": 194
+      "UsersEstimate": 196
     },
     {
       "ID": "Konec",
@@ -1865,8 +1865,8 @@
   ],
   "FirstSeen": "2023-07-09T20:57:11.2117927+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.1574321+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:03:38.4618566+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:03:58.3040607+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.7228603+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:00:32.7159307+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:03:38.4618811+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:02:52.9679525+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:03:58.3040849+00:00"
 }

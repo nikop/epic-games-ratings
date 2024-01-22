@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 124,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 99,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-08-13T15:00:00+00:00",
     "PcReleaseDate": "2020-08-13T15:00:00+00:00",
@@ -1000,9 +1000,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 55763,
+  "EOS_Progressed": 55765,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 863,
+  "EOS_NewPlayers": 861,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32515,6 +32515,11 @@
       "Time": "2024-01-22T03:05:18.0927218+00:00",
       "NumProgressed": 55763,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T04:05:38.6598711+00:00",
+      "NumProgressed": 55765,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 39,
@@ -32654,7 +32659,7 @@
       "Name": "Picking Up Speed",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 8364
+      "UsersEstimate": 8365
     },
     {
       "ID": "playerFelipe",
@@ -32798,7 +32803,7 @@
       "Name": "Enter Paz",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3903
+      "UsersEstimate": 3904
     },
     {
       "ID": "vandal",
@@ -32837,15 +32842,15 @@
     {
       "ID": "2lgngib",
       "IsBase": true,
-      "Progressed": 55763,
+      "Progressed": 55765,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:27:20.9071596+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:49.5001597+00:00",
   "LastChanged": "2024-01-20T03:57:39.1090707+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:05:18.0927215+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:05:38.6598707+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:35.3868724+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:58:29.8840978+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:05:18.0928888+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:58:34.9787722+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:05:38.6600248+00:00"
 }

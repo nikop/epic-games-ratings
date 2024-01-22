@@ -5,7 +5,7 @@ Rating: 4.16 (Ranked 1,000)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,191 |
+| Attachments | 13.00% | ~6,192 |
 | Unlocked Potential | 12.00% | ~5,715 |
 | Tinkerer | 9.00% | ~4,286 |
 | Leapfrogger | 8.00% | ~3,810 |
@@ -23,13 +23,13 @@ Rating: 4.16 (Ranked 1,000)
 | Damned If You Do... | 3.00% | ~1,429 |
 | Hop, Step, Jump | 3.00% | ~1,429 |
 | Endless Runner | 3.00% | ~1,429 |
-| What Must Be Done | 2.00% | ~952 |
-| Might and Main | 2.00% | ~952 |
-| The Hue of Blue | 2.00% | ~952 |
-| Breaking Point | 2.00% | ~952 |
-| Explorer: Pathfinder | 2.00% | ~952 |
-| Shocker | 2.00% | ~952 |
-| From Every Angle | 2.00% | ~952 |
+| What Must Be Done | 2.00% | ~953 |
+| Might and Main | 2.00% | ~953 |
+| The Hue of Blue | 2.00% | ~953 |
+| Breaking Point | 2.00% | ~953 |
+| Explorer: Pathfinder | 2.00% | ~953 |
+| Shocker | 2.00% | ~953 |
+| From Every Angle | 2.00% | ~953 |
 | The Truth Will Out | 1.00% | ~476 |
 | None the Wiser | 1.00% | ~476 |
 | Forspoken | 1.00% | ~476 |
@@ -39,9 +39,9 @@ Rating: 4.16 (Ranked 1,000)
 | Realized Potential | 0.70% | ~333 |
 | Explorer: Trailblazer | 0.60% | ~286 |
 | Through the Eyes of Another: Seer | 0.50% | ~238 |
-| Archivist | 0.40% | ~190 |
-| Craftsperson | 0.40% | ~190 |
-| Tit for Tat | 0.40% | ~190 |
+| Archivist | 0.40% | ~191 |
+| Craftsperson | 0.40% | ~191 |
+| Tit for Tat | 0.40% | ~191 |
 | A Roaring Trade | 0.30% | ~143 |
 | Promises | 0.30% | ~143 |
 | Rebirth | 0.30% | ~143 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 1,000)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,625 (Ranked 128)  
+Progressed: 47,627 (Ranked 128)  
 Completed: 4 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 4 (0.01%) (Ranked 383)
 | 2024-01-19 | 47,505 | 4 |
 | 2024-01-20 | 47,566 | 4 |
 | 2024-01-21 | 47,620 | 4 |
-| 2024-01-22 | 47,625 | 4 |
+| 2024-01-22 | 47,627 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 456)  
 Sum: 79 (Ranked 489)  

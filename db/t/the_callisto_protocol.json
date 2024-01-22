@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 155,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
     "PcReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2339,9 +2339,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22655,
+  "EOS_Progressed": 22658,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14659,6 +14659,11 @@
       "Time": "2024-01-22T02:04:55.750447+00:00",
       "NumProgressed": 22655,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-22T04:10:18.0690274+00:00",
+      "NumProgressed": 22658,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14702,7 +14707,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14790,7 +14795,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14798,7 +14803,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4984
+      "UsersEstimate": 4985
     },
     {
       "ID": "KILL_ROBOT",
@@ -14830,7 +14835,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4304
+      "UsersEstimate": 4305
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14862,7 +14867,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6343
+      "UsersEstimate": 6344
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14902,7 +14907,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5890
+      "UsersEstimate": 5891
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14926,7 +14931,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2945
+      "UsersEstimate": 2946
     },
     {
       "ID": "DISMEMBER_100",
@@ -15014,7 +15019,7 @@
       "Name": "One Last Job",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 317
+      "UsersEstimate": 318
     },
     {
       "ID": "KILL_BIOBOT",
@@ -15022,7 +15027,7 @@
       "Name": "Keep Fighting",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "KINETIC_HAMMER",
@@ -15045,13 +15050,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22655,
+      "Progressed": 22658,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10581,
+      "Progressed": 10584,
       "Completed": 29
     }
   ],
@@ -15059,8 +15064,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:09:59.2424155+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:18.069027+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:03:15.0478135+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:09:59.2425227+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:03:32.7254342+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:18.0691116+00:00"
 }

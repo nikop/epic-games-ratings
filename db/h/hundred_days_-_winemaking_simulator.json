@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 155,
   "Ranking_EOS_Completed": 340,
   "Ranking_EOS_NewPlayers": 97,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-05-13T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -1123,9 +1123,9 @@
       "Count": 111
     }
   ],
-  "EOS_Progressed": 21695,
+  "EOS_Progressed": 21704,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 899,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -18158,6 +18158,11 @@
       "Time": "2024-01-22T03:09:57.7808992+00:00",
       "NumProgressed": 21695,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-22T04:10:16.6082886+00:00",
+      "NumProgressed": 21704,
+      "NumCompleted": 13
     }
   ],
   "AchievementsAdded": "2023-08-30T11:07:13.7661109+00:00",
@@ -18218,7 +18223,7 @@
       "Name": "Bye Bye",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 9546
+      "UsersEstimate": 9550
     },
     {
       "ID": "a_19",
@@ -18394,7 +18399,7 @@
       "Name": "Knight of Langhe",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "a_8",
@@ -18417,7 +18422,7 @@
     {
       "ID": "daiie3o",
       "IsBase": true,
-      "Progressed": 21695,
+      "Progressed": 21704,
       "Completed": 13
     }
   ],
@@ -18425,8 +18430,8 @@
   "FirstSeenRating": "2022-09-09T05:31:36.2629343+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:22.1761394+00:00",
   "LastChanged": "2024-01-15T16:59:39.2152609+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:09:57.7808989+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:16.6082882+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.6233313+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:58:50.911587+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:09:57.7809721+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:58:55.3008267+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:16.6083794+00:00"
 }

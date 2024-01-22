@@ -21,14 +21,14 @@ Rating: 4.65 (Ranked 324)
 | Higher Tax Bracket | 2.00% | ~183 |
 | Oui, Chef! | 2.00% | ~183 |
 | Botanical Breakthrough | 2.00% | ~183 |
-| Exit Through The Gift Shop | 2.00% | ~35 |
+| Exit Through The Gift Shop | 2.00% | ~36 |
 | Flaming Hot Completos | 1.00% | ~92 |
-| Fae Farmer | 1.00% | ~92 |
-| Got to Catch Them All | 1.00% | ~92 |
 | Beach Comber | 1.00% | ~92 |
 | Rumble in the Jumble | 1.00% | ~92 |
 | Azorian Anniversary | 1.00% | ~92 |
 | Skilled | 1.00% | ~92 |
+| Fae Farmer | 0.90% | ~82 |
+| Got to Catch Them All | 0.90% | ~82 |
 | Scattered Scroll Scrounger | 0.90% | ~82 |
 | Fanatical Farmer | 0.90% | ~82 |
 | Azorian Hat Dance | 0.70% | ~12 |
@@ -49,7 +49,7 @@ Rating: 4.65 (Ranked 324)
 | Splish-Splash | 0.10% | ~2 |
 | Archi-Pal-igo Aficionado | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 9,157 (Ranked 190)  
+Progressed: 9,158 (Ranked 190)  
 Completed: 1 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,6 +199,7 @@ Completed: 1 (0.01%) (Ranked 383)
 | 2024-01-19 | 9,134 | 1 |
 | 2024-01-20 | 9,139 | 1 |
 | 2024-01-21 | 9,157 | 1 |
+| 2024-01-22 | 9,158 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

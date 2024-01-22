@@ -9,27 +9,27 @@ Number of Ratings: 15,086  (23.09.2022)
 | First Steps | 2.00% | ~4,867 |
 | Uncharted Territory | 2.00% | ~4,867 |
 | Matching | 2.00% | ~97 |
-| Ambitious Intent | 1.00% | ~2,433 |
-| Nothing To Lose | 1.00% | ~2,433 |
-| Heavy Hitter | 1.00% | ~2,433 |
-| Delving Deeper | 1.00% | ~2,433 |
-| Getting A Glimpse | 1.00% | ~2,433 |
-| R.I.P | 1.00% | ~2,433 |
-| That Was Quick | 1.00% | ~2,433 |
-| Colorful Corpse | 1.00% | ~2,433 |
-| Defeat The Dark | 1.00% | ~2,433 |
-| The Bestiary | 1.00% | ~2,433 |
-| Goodbye, Frog Friend | 1.00% | ~2,433 |
-| Heartless | 1.00% | ~2,433 |
-| What's Yours Is Mine | 1.00% | ~2,433 |
-| Spine Breaker | 1.00% | ~2,433 |
-| A Donation | 1.00% | ~2,433 |
-| C-C-Combo | 1.00% | ~2,433 |
-| Deflection | 1.00% | ~2,433 |
-| A Quick Escape | 1.00% | ~2,433 |
-| Explorer | 1.00% | ~2,433 |
-| Sneaky | 1.00% | ~2,433 |
-| An Offering | 1.00% | ~2,433 |
+| Ambitious Intent | 1.00% | ~2,434 |
+| Nothing To Lose | 1.00% | ~2,434 |
+| Heavy Hitter | 1.00% | ~2,434 |
+| Delving Deeper | 1.00% | ~2,434 |
+| Getting A Glimpse | 1.00% | ~2,434 |
+| R.I.P | 1.00% | ~2,434 |
+| That Was Quick | 1.00% | ~2,434 |
+| Colorful Corpse | 1.00% | ~2,434 |
+| Defeat The Dark | 1.00% | ~2,434 |
+| The Bestiary | 1.00% | ~2,434 |
+| Goodbye, Frog Friend | 1.00% | ~2,434 |
+| Heartless | 1.00% | ~2,434 |
+| What's Yours Is Mine | 1.00% | ~2,434 |
+| Spine Breaker | 1.00% | ~2,434 |
+| A Donation | 1.00% | ~2,434 |
+| C-C-Combo | 1.00% | ~2,434 |
+| Deflection | 1.00% | ~2,434 |
+| A Quick Escape | 1.00% | ~2,434 |
+| Explorer | 1.00% | ~2,434 |
+| Sneaky | 1.00% | ~2,434 |
+| An Offering | 1.00% | ~2,434 |
 | Not Touching You | 1.00% | ~48 |
 | Dig Your Own Grave | 0.90% | ~2,190 |
 | Walk It Off | 0.90% | ~2,190 |
@@ -145,7 +145,7 @@ Number of Ratings: 15,086  (23.09.2022)
 | Stalker | 0.10% | ~5 |
 | Dominant Twin | 0.10% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 243,349 (Ranked 75)  
+Progressed: 243,352 (Ranked 75)  
 Completed: 309 (0.13%) (Ranked 308)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -422,7 +422,7 @@ Completed: 309 (0.13%) (Ranked 308)
 | 2024-01-19 | 243,229 | 309 |
 | 2024-01-20 | 243,288 | 309 |
 | 2024-01-21 | 243,345 | 309 |
-| 2024-01-22 | 243,349 | 309 |
+| 2024-01-22 | 243,352 | 309 |
 ## Awards
 Max (Quickly Understood Controls): 1,516  (Ranked 140)  
 Sum: 11,802 (Ranked 92)  

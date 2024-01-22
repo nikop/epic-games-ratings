@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 267,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
     "PcReleaseDate": "2019-09-24T00:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2614,
+  "EOS_Progressed": 2615,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4876,6 +4876,11 @@
       "Time": "2024-01-21T15:08:22.3890718+00:00",
       "NumProgressed": 2614,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-22T04:08:39.0083431+00:00",
+      "NumProgressed": 2615,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4895,7 +4900,7 @@
       "Name": "Jailbreak",
       "Percentage": 64,
       "XP": 10,
-      "UsersEstimate": 1673
+      "UsersEstimate": 1674
     },
     {
       "ID": "ACHV_03",
@@ -4903,7 +4908,7 @@
       "Name": "Dead Again",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHV_04",
@@ -4919,7 +4924,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 627
+      "UsersEstimate": 628
     },
     {
       "ID": "ACHV_06",
@@ -5047,7 +5052,7 @@
       "Name": "Stimulating The Local Economy",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHV_22",
@@ -5063,7 +5068,7 @@
       "Name": "HEADSHOT!",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACHV_24",
@@ -5079,7 +5084,7 @@
       "Name": "Full Arsenal",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "ACHV_26",
@@ -5087,7 +5092,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2039
+      "UsersEstimate": 2040
     },
     {
       "ID": "ACHV_27",
@@ -5111,15 +5116,15 @@
       "Name": "Triplets",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "ACHV_30",
       "SetID": "8p5mlmc",
       "Name": "Powered Up",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 732
+      "UsersEstimate": 706
     },
     {
       "ID": "ACHV_31",
@@ -5191,7 +5196,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1960
+      "UsersEstimate": 1961
     },
     {
       "ID": "ACHV_40",
@@ -5207,7 +5212,7 @@
       "Name": "Suited and Booted",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "ACHV_42",
@@ -5342,7 +5347,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2614,
+      "Progressed": 2615,
       "Completed": 13
     }
   ],
@@ -5350,8 +5355,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:08:19.7898432+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:08:39.0083428+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:02:52.6804157+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:08:19.7899191+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:03:10.2930059+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:08:39.0084164+00:00"
 }

@@ -2,10 +2,10 @@
   "ID": "8bacb9319c4b44d689aa6920a1044010",
   "Name": "tERRORbane",
   "ProductSlug": "terrorbane-437dd3",
-  "Ranking_EOS_Progress": 579,
+  "Ranking_EOS_Progress": 576,
   "Ranking_EOS_Completed": 136,
-  "Ranking_EOS_NewPlayers": 485,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 442,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-01T00:00:00+00:00",
     "PcReleaseDate": "2022-04-01T00:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 46,
+  "EOS_Progressed": 47,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.17,
+  "EOS_Completed_Percentage": 2.13,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:10:15.1891473+00:00",
@@ -121,6 +121,11 @@
       "Time": "2024-01-19T11:06:58.4209411+00:00",
       "NumProgressed": 46,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T04:03:47.575065+00:00",
+      "NumProgressed": 47,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 25,
@@ -132,13 +137,13 @@
       "Name": "First contact",
       "Percentage": 104,
       "XP": 100,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement_01",
       "SetID": "6jd5kdh",
       "Name": "C Rank Bug-catcher",
-      "Percentage": 41,
+      "Percentage": 40,
       "XP": 50,
       "UsersEstimate": 19
     },
@@ -170,7 +175,7 @@
       "ID": "Achievement_05",
       "SetID": "6jd5kdh",
       "Name": "System shocked",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 50,
       "UsersEstimate": 30
     },
@@ -178,7 +183,7 @@
       "ID": "Achievement_06",
       "SetID": "6jd5kdh",
       "Name": "Blade of prophecy",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 50,
       "UsersEstimate": 21
     },
@@ -218,7 +223,7 @@
       "ID": "Achievement_11",
       "SetID": "6jd5kdh",
       "Name": "Expos\u00E9",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 10,
       "UsersEstimate": 28
     },
@@ -226,7 +231,7 @@
       "ID": "Achievement_12",
       "SetID": "6jd5kdh",
       "Name": "Secret Admirer",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 10,
       "UsersEstimate": 9
     },
@@ -274,7 +279,7 @@
       "ID": "Achievement_18",
       "SetID": "6jd5kdh",
       "Name": "Pool party",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -314,7 +319,7 @@
       "ID": "Achievement_23",
       "SetID": "6jd5kdh",
       "Name": "Armed robbery",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
       "UsersEstimate": 16
     },
@@ -331,7 +336,7 @@
     {
       "ID": "6jd5kdh",
       "IsBase": true,
-      "Progressed": 46,
+      "Progressed": 47,
       "Completed": 1
     }
   ],
@@ -339,8 +344,8 @@
   "FirstSeenRating": "2023-04-02T01:58:31.1782551+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:15.1891477+00:00",
   "LastChanged": "2023-04-02T01:58:31.1782553+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:03:28.0673941+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:03:47.5750646+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:37.1395432+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:58:50.3990485+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:03:28.0674197+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:58:54.6822197+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:03:47.5750888+00:00"
 }

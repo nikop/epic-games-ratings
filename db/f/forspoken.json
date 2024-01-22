@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47625,
+  "EOS_Progressed": 47627,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 350,
+  "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19579,6 +19579,11 @@
       "Time": "2024-01-22T03:06:10.0836674+00:00",
       "NumProgressed": 47625,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T04:08:30.4845167+00:00",
+      "NumProgressed": 47627,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19598,7 +19603,7 @@
       "Name": "Archivist",
       "Percentage": 0.4,
       "XP": 105,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "CAMP",
@@ -19638,7 +19643,7 @@
       "Name": "Attachments",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 6191
+      "UsersEstimate": 6192
     },
     {
       "ID": "CHAPTER_02_CLEAR",
@@ -19662,7 +19667,7 @@
       "Name": "What Must Be Done",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "CHAPTER_05_CLEAR",
@@ -19670,7 +19675,7 @@
       "Name": "Might and Main",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "CHAPTER_06_CLEAR",
@@ -19686,7 +19691,7 @@
       "Name": "The Hue of Blue",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "CHAPTER_08_CLEAR",
@@ -19702,7 +19707,7 @@
       "Name": "Breaking Point",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "CHAPTER_10_CLEAR",
@@ -19734,7 +19739,7 @@
       "Name": "Craftsperson",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "CRAFT_FIRST",
@@ -19774,7 +19779,7 @@
       "Name": "Tit for Tat",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "LEAPFROG",
@@ -19790,7 +19795,7 @@
       "Name": "Explorer: Pathfinder",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "LOCATION_HUNDRED",
@@ -19838,7 +19843,7 @@
       "Name": "Shocker",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "MAGIC_FLOWER",
@@ -19862,7 +19867,7 @@
       "Name": "From Every Angle",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "MONUMENT_ALL",
@@ -20013,22 +20018,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47625,
+      "Progressed": 47627,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12462,
-      "Completed": 12462
+      "Progressed": 12464,
+      "Completed": 12464
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:06:10.0836672+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:08:30.4845163+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:02:58.1177782+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:06:10.0838197+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:03:15.6242451+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:08:30.4846386+00:00"
 }

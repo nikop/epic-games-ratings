@@ -6,15 +6,15 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,829 |
-| Student | 23.00% | ~15,726 |
-| Knower | 16.00% | ~10,940 |
-| Listener | 15.00% | ~10,256 |
+| Initiation | 29.00% | ~19,830 |
+| Student | 23.00% | ~15,727 |
+| Knower | 16.00% | ~10,941 |
+| Listener | 15.00% | ~10,257 |
 | Aspen Tree | 14.00% | ~9,573 |
 | Healer | 14.00% | ~9,573 |
 | Scientist | 12.00% | ~8,205 |
 | Soldier | 12.00% | ~8,205 |
-| Cow Level | 11.00% | ~7,521 |
+| Cow Level | 11.00% | ~7,522 |
 | Old Friend | 10.00% | ~6,838 |
 | Herbalist | 10.00% | ~6,838 |
 | Water | 10.00% | ~6,838 |
@@ -26,15 +26,15 @@ Number of Ratings: 96  (23.09.2022)
 | Card Player | 8.00% | ~5,470 |
 | Dead Friend | 8.00% | ~5,470 |
 | Pine Tree | 8.00% | ~5,470 |
-| Worthy | 7.00% | ~4,786 |
-| Black Book | 7.00% | ~4,786 |
-| Black Sorcerer | 7.00% | ~4,786 |
-| Dead Man | 7.00% | ~4,786 |
-| Fern | 7.00% | ~4,786 |
-| 100 Friends | 7.00% | ~4,786 |
-| Witch | 7.00% | ~4,786 |
-| Researcher | 7.00% | ~4,786 |
-| Savvy | 7.00% | ~4,786 |
+| Worthy | 7.00% | ~4,787 |
+| Black Book | 7.00% | ~4,787 |
+| Black Sorcerer | 7.00% | ~4,787 |
+| Dead Man | 7.00% | ~4,787 |
+| Fern | 7.00% | ~4,787 |
+| 100 Friends | 7.00% | ~4,787 |
+| Witch | 7.00% | ~4,787 |
+| Researcher | 7.00% | ~4,787 |
+| Savvy | 7.00% | ~4,787 |
 | Encyclopedist | 6.00% | ~4,103 |
 | Vorsa | 6.00% | ~4,103 |
 | Old Spirits | 6.00% | ~4,103 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,368 |
 | Word Master | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,376 (Ranked 118)  
+Progressed: 68,379 (Ranked 118)  
 Completed: 75 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 75 (0.11%) (Ranked 314)
 | 2024-01-19 | 67,935 | 75 |
 | 2024-01-20 | 68,148 | 75 |
 | 2024-01-21 | 68,355 | 75 |
-| 2024-01-22 | 68,376 | 75 |
+| 2024-01-22 | 68,379 | 75 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

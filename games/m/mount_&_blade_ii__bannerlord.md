@@ -6,10 +6,10 @@ Number of Ratings: 5,603  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,580 |
-| Landlord | 35.00% | ~33,844 |
-| Trained | 30.00% | ~29,009 |
-| Bannerlord | 25.00% | ~24,174 |
+| Lawbringer | 43.00% | ~41,582 |
+| Landlord | 35.00% | ~33,846 |
+| Trained | 30.00% | ~29,011 |
+| Bannerlord | 25.00% | ~24,176 |
 | Lawmaker | 24.00% | ~23,208 |
 | Horde breaker | 22.00% | ~21,274 |
 | The king is pleased | 20.00% | ~19,340 |
@@ -39,7 +39,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Crackshot | 0.80% | ~774 |
 | Undercover | 0.80% | ~774 |
 | Fat Cat | 0.70% | ~677 |
-| Catch | 0.50% | ~483 |
+| Catch | 0.50% | ~484 |
 | Slice 'n dice | 0.40% | ~387 |
 | Ride it like you stole it | 0.30% | ~290 |
 | Explorer | 0.20% | ~193 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,698 (Ranked 103)  
+Progressed: 96,702 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,16 +335,16 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 96,231 | 0 |
 | 2024-01-20 | 96,440 | 0 |
 | 2024-01-21 | 96,687 | 0 |
-| 2024-01-22 | 96,698 | 0 |
+| 2024-01-22 | 96,702 | 0 |
 ## Awards
 Max (Character Customization): 8,189  (Ranked 51)  
-Sum: 16,947 (Ranked 66)  
-Diff (max vs sum): -15  
+Sum: 16,952 (Ranked 67)  
+Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,189 |
 | This game is Great for Beginners | 1,232 |
-| This game has Diverse Characters | 1,129 |
+| This game has Diverse Characters | 1,134 |
 | This game is Highly Recommended | 1,033 |
 | This game is Extremely Fun | 956 |
 | This game has Amazing Storytelling | 943 |
@@ -729,4 +729,4 @@ Diff (max vs sum): -15
 | 2024-01-19 | 4.74 | - | 8,142 | 16,863 |
 | 2024-01-20 | 4.74 | - | 8,171 | 16,918 |
 | 2024-01-21 | 4.74 | - | 8,189 | 16,944 |
-| 2024-01-22 | 4.74 | - | 8,189 | 16,947 |
+| 2024-01-22 | 4.74 | - | 8,189 | 16,952 |

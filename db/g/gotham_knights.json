@@ -5423,9 +5423,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83150,
+  "EOS_Progressed": 83152,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 358,
+  "EOS_NewPlayers": 359,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31123,6 +31123,11 @@
       "Time": "2024-01-22T03:03:29.9594314+00:00",
       "NumProgressed": 83150,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-22T04:03:49.7135355+00:00",
+      "NumProgressed": 83152,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31222,7 +31227,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12472
+      "UsersEstimate": 12473
     },
     {
       "ID": "CHALLENGES_1",
@@ -31358,7 +31363,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22450
+      "UsersEstimate": 22451
     },
     {
       "ID": "FREEZE_1_5",
@@ -31374,7 +31379,7 @@
       "Name": "Snow Problem",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 15798
+      "UsersEstimate": 15799
     },
     {
       "ID": "FREEZE_3",
@@ -31438,7 +31443,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28271
+      "UsersEstimate": 28272
     },
     {
       "ID": "HARLEY_2",
@@ -31462,7 +31467,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12472
+      "UsersEstimate": 12473
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31478,7 +31483,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41575
+      "UsersEstimate": 41576
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31494,7 +31499,7 @@
       "Name": "A Momentum Occasion",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     },
     {
       "ID": "HERO_PROGRESSION_4",
@@ -31510,7 +31515,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21619
+      "UsersEstimate": 21620
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31590,7 +31595,7 @@
       "Name": "Gotham City Confidential",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 9146
+      "UsersEstimate": 9147
     },
     {
       "ID": "SECRET_IDENTITY",
@@ -31614,20 +31619,20 @@
       "Name": "Bat Out of Hell",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 2494
+      "UsersEstimate": 2495
     }
   ],
   "AchievementSets": [
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83150,
+      "Progressed": 83152,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53430,
+      "Progressed": 53432,
       "Completed": 2680
     }
   ],
@@ -31635,8 +31640,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-22T01:53:30.4977174+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:03:29.9594311+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:03:49.713535+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:58:53.6656082+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:03:29.9595839+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:58:58.3517169+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:03:49.7136846+00:00"
 }

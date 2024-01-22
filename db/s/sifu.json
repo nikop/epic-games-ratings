@@ -9165,9 +9165,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762280,
+  "EOS_Progressed": 762285,
   "EOS_Completed": 13003,
-  "EOS_NewPlayers": 1463,
+  "EOS_NewPlayers": 1459,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34810,6 +34810,11 @@
       "Time": "2024-01-22T03:09:49.7014454+00:00",
       "NumProgressed": 762280,
       "NumCompleted": 13003
+    },
+    {
+      "Time": "2024-01-22T04:10:08.5438805+00:00",
+      "NumProgressed": 762285,
+      "NumCompleted": 13003
     }
   ],
   "TotalAchievements": 60,
@@ -34837,7 +34842,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22868
+      "UsersEstimate": 22869
     },
     {
       "ID": "04_Vengeance_H3",
@@ -34973,7 +34978,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22868
+      "UsersEstimate": 22869
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -34989,7 +34994,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22868
+      "UsersEstimate": 22869
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -35005,7 +35010,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22868
+      "UsersEstimate": 22869
     },
     {
       "ID": "25_ShrineMind",
@@ -35029,7 +35034,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22868
+      "UsersEstimate": 22869
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -35069,7 +35074,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22868
+      "UsersEstimate": 22869
     },
     {
       "ID": "33_BladeOneShot",
@@ -35173,7 +35178,7 @@
       "Name": "Bloody Sport",
       "Percentage": 0.6,
       "XP": 40,
-      "UsersEstimate": 429
+      "UsersEstimate": 430
     },
     {
       "ID": "46_Arena_45Challenges",
@@ -35300,21 +35305,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71581,
+      "Progressed": 71586,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762280,
+      "Progressed": 762285,
       "Completed": 13003
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-21T22:03:15.5090209+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:09:49.7014452+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:08.5438801+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:03:03.8727938+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:09:49.7016972+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:03:22.0357502+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:08.5440067+00:00"
 }

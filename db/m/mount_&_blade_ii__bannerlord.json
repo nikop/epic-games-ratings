@@ -4,11 +4,11 @@
   "ProductSlug": "mount-and-blade-2",
   "Ranking_Rating": 168,
   "Ranking_Popularity": 51,
-  "Ranking_PopularitySum": 66,
+  "Ranking_PopularitySum": 67,
   "Ranking_EOS_Progress": 103,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 72,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-03-31T11:00:00+00:00",
     "PcReleaseDate": null,
@@ -10924,10 +10924,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 16947,
       "NumberOfAwardsMax": 8189
+    },
+    {
+      "Time": "2024-01-22T03:57:53.9342251+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 16952,
+      "NumberOfAwardsMax": 8189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16947,
+  "NumberOfAwards": 16952,
   "NumberOfAwardsMax": 8189,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10983,7 +10989,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1129
+      "Count": 1134
     },
     {
       "Text": "This game is Relaxing",
@@ -11004,9 +11010,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 96698,
+  "EOS_Progressed": 96702,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1433,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40714,6 +40720,11 @@
       "Time": "2024-01-22T03:10:19.4918379+00:00",
       "NumProgressed": 96698,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T04:10:38.0116972+00:00",
+      "NumProgressed": 96702,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40741,7 +40752,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 24174
+      "UsersEstimate": 24176
     },
     {
       "ID": "Best served cold",
@@ -40773,7 +40784,7 @@
       "Name": "Catch",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 483
+      "UsersEstimate": 484
     },
     {
       "ID": "Champion",
@@ -40949,7 +40960,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33844
+      "UsersEstimate": 33846
     },
     {
       "ID": "Lawbringer",
@@ -40957,7 +40968,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41580
+      "UsersEstimate": 41582
     },
     {
       "ID": "Lawmaker",
@@ -41101,7 +41112,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29009
+      "UsersEstimate": 29011
     },
     {
       "ID": "Undercover",
@@ -41132,15 +41143,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 96698,
+      "Progressed": 96702,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-22T01:52:30.9628986+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:10:19.4918377+00:00",
+  "LastChanged": "2024-01-22T03:57:53.934225+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:38.0116968+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:57:50.8517478+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:10:19.4919659+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:57:53.9342256+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:38.0118705+00:00"
 }

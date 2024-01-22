@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 68376,
+  "EOS_Progressed": 68379,
   "EOS_Completed": 75,
-  "EOS_NewPlayers": 1224,
+  "EOS_NewPlayers": 1223,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17766,6 +17766,11 @@
       "Time": "2024-01-22T03:05:23.1081605+00:00",
       "NumProgressed": 68376,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-22T04:05:43.7736873+00:00",
+      "NumProgressed": 68379,
+      "NumCompleted": 75
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17794,7 +17799,7 @@
       "Name": "Worthy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "ASPEN_TREE",
@@ -17818,7 +17823,7 @@
       "Name": "Black Book",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "BLACK_SORCERER",
@@ -17826,7 +17831,7 @@
       "Name": "Black Sorcerer",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "CARD_PLAYER",
@@ -17850,7 +17855,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7521
+      "UsersEstimate": 7522
     },
     {
       "ID": "DEAD_MAN",
@@ -17858,7 +17863,7 @@
       "Name": "Dead Man",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "DETECTIVE",
@@ -17890,7 +17895,7 @@
       "Name": "Student",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 15726
+      "UsersEstimate": 15727
     },
     {
       "ID": "ENCYCLOPEDIA_2",
@@ -17914,7 +17919,7 @@
       "Name": "Fern",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "FRIENDS",
@@ -17922,7 +17927,7 @@
       "Name": "100 Friends",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "GOOD_END",
@@ -17970,7 +17975,7 @@
       "Name": "Witch",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "INITIATION",
@@ -17978,7 +17983,7 @@
       "Name": "Initiation",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 19829
+      "UsersEstimate": 19830
     },
     {
       "ID": "KARNYSH_LOYAL",
@@ -18050,7 +18055,7 @@
       "Name": "Researcher",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "PINE_TREE",
@@ -18074,7 +18079,7 @@
       "Name": "Savvy",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 4786
+      "UsersEstimate": 4787
     },
     {
       "ID": "SINNER",
@@ -18098,7 +18103,7 @@
       "Name": "Listener",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 10256
+      "UsersEstimate": 10257
     },
     {
       "ID": "TALES_2",
@@ -18154,7 +18159,7 @@
       "Name": "Knower",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 10940
+      "UsersEstimate": 10941
     },
     {
       "ID": "ZNATKOST_2",
@@ -18177,15 +18182,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 68376,
+      "Progressed": 68379,
       "Completed": 75
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:05:23.1081602+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:05:43.7736871+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:05.7187732+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:59:43.562933+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:05:23.1082697+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:59:50.5091727+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:05:43.7737805+00:00"
 }

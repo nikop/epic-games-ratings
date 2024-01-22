@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 190,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 200,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-08T16:00:00+00:00",
     "PcReleaseDate": "2023-09-08T16:00:00+00:00",
@@ -259,9 +259,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 9157,
+  "EOS_Progressed": 9158,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -10549,6 +10549,11 @@
       "Time": "2024-01-21T23:10:21.2154095+00:00",
       "NumProgressed": 9157,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T04:10:36.1775952+00:00",
+      "NumProgressed": 9158,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-08-15T23:06:29.7932503+00:00",
@@ -10615,9 +10620,9 @@
       "ID": "CHAPTER_8_COMPLETE",
       "SetID": "9eia0f5",
       "Name": "Fae Farmer",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 90,
-      "UsersEstimate": 92
+      "UsersEstimate": 82
     },
     {
       "ID": "COLLECT_CLOVER",
@@ -10631,9 +10636,9 @@
       "ID": "COLLECT_CRITTERS",
       "SetID": "9eia0f5",
       "Name": "Got to Catch Them All",
-      "Percentage": 1,
+      "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 92
+      "UsersEstimate": 82
     },
     {
       "ID": "COLLECT_FISH",
@@ -10897,20 +10902,20 @@
       "Name": "Exit Through The Gift Shop",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     }
   ],
   "AchievementSets": [
     {
       "ID": "9eia0f5",
       "IsBase": true,
-      "Progressed": 9157,
+      "Progressed": 9158,
       "Completed": 1
     },
     {
       "ID": "6p01o4j",
       "IsBase": false,
-      "Progressed": 1774,
+      "Progressed": 1775,
       "Completed": 1050
     }
   ],
@@ -10918,8 +10923,8 @@
   "FirstSeenRating": "2023-09-18T15:57:21.5975395+00:00",
   "FirstSeenAchievements": "2023-06-20T15:03:22.3562816+00:00",
   "LastChanged": "2024-01-20T14:03:24.888989+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:10:17.6327261+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:36.177595+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:10.3187742+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:03:15.2920781+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:10:17.6327826+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:03:32.9776926+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:36.1776542+00:00"
 }

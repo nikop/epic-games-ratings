@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 532286,
+  "EOS_Progressed": 532297,
   "EOS_Completed": 101,
   "EOS_NewPlayers": 3146,
   "EOS_NewCompleters": 2,
@@ -15672,6 +15672,11 @@
       "Time": "2024-01-22T03:03:55.0915874+00:00",
       "NumProgressed": 532286,
       "NumCompleted": 101
+    },
+    {
+      "Time": "2024-01-22T04:04:15.3031859+00:00",
+      "NumProgressed": 532297,
+      "NumCompleted": 101
     }
   ],
   "AchievementsAdded": "2023-09-07T15:04:00.2217259+00:00",
@@ -15692,7 +15697,7 @@
       "Name": "Advanced Certification Medal",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 37260
+      "UsersEstimate": 37261
     },
     {
       "ID": "achiv_community",
@@ -15700,7 +15705,7 @@
       "Name": "Community Policing Medal",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 31937
+      "UsersEstimate": 31938
     },
     {
       "ID": "achiv_driving",
@@ -15708,7 +15713,7 @@
       "Name": "Safe Driving Medal",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 58551
+      "UsersEstimate": 58553
     },
     {
       "ID": "achiv_field",
@@ -15716,7 +15721,7 @@
       "Name": "Field Training Officer Medal",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 388569
+      "UsersEstimate": 388577
     },
     {
       "ID": "achiv_fires",
@@ -15724,7 +15729,7 @@
       "Name": "Exemplary Fire Service Medal",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 85166
+      "UsersEstimate": 85168
     },
     {
       "ID": "achiv_heart",
@@ -15732,7 +15737,7 @@
       "Name": "Purple Heart",
       "Percentage": 36,
       "XP": 50,
-      "UsersEstimate": 191623
+      "UsersEstimate": 191627
     },
     {
       "ID": "achiv_honor",
@@ -15740,7 +15745,7 @@
       "Name": "Medal of Honor",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 42583
+      "UsersEstimate": 42584
     },
     {
       "ID": "achiv_honorary",
@@ -15764,7 +15769,7 @@
       "Name": "Lifesaving Medal",
       "Percentage": 40,
       "XP": 50,
-      "UsersEstimate": 212914
+      "UsersEstimate": 212919
     },
     {
       "ID": "achiv_meds",
@@ -15772,7 +15777,7 @@
       "Name": "Exemplary Medical Service Medal",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 127749
+      "UsersEstimate": 127751
     },
     {
       "ID": "achiv_meritorius",
@@ -15796,7 +15801,7 @@
       "Name": "Sacrifice Medal",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 37260
+      "UsersEstimate": 37261
     },
     {
       "ID": "achiv_smile",
@@ -15804,7 +15809,7 @@
       "Name": "Order of Smile",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 37260
+      "UsersEstimate": 37261
     },
     {
       "ID": "achiv_tactical",
@@ -15812,7 +15817,7 @@
       "Name": "Tactical Squad Service Medal",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 79843
+      "UsersEstimate": 79845
     },
     {
       "ID": "achiv_valor",
@@ -15820,14 +15825,14 @@
       "Name": "Medal of Valor",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 58551
+      "UsersEstimate": 58553
     }
   ],
   "AchievementSets": [
     {
       "ID": "7oh7228",
       "IsBase": true,
-      "Progressed": 532286,
+      "Progressed": 532297,
       "Completed": 101
     }
   ],
@@ -15835,8 +15840,8 @@
   "FirstSeenRating": "2023-09-15T13:59:44.5988414+00:00",
   "FirstSeenAchievements": "2023-09-07T15:04:00.2217258+00:00",
   "LastChanged": "2024-01-14T18:59:55.1850614+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:03:55.0915871+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:04:15.3031852+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.7495413+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:59:54.4742113+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:03:55.0916834+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:00:00.6127128+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:04:15.3032702+00:00"
 }

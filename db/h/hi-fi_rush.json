@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 538,
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 347,
-  "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 135,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -285,9 +285,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17567,
+  "EOS_Progressed": 17569,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 399,
+  "EOS_NewPlayers": 401,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -12990,6 +12990,11 @@
       "Time": "2024-01-22T03:05:00.9740031+00:00",
       "NumProgressed": 17567,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T04:05:21.4456822+00:00",
+      "NumProgressed": 17569,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13001,7 +13006,7 @@
       "Name": "Start with a bang!",
       "Percentage": 55,
       "XP": 15,
-      "UsersEstimate": 9662
+      "UsersEstimate": 9663
     },
     {
       "ID": "Ach002",
@@ -13009,7 +13014,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6500
+      "UsersEstimate": 6501
     },
     {
       "ID": "Ach003",
@@ -13017,7 +13022,7 @@
       "Name": "This will cost you big time",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "Ach004",
@@ -13025,7 +13030,7 @@
       "Name": "The Negotiator",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 2986
+      "UsersEstimate": 2987
     },
     {
       "ID": "Ach005",
@@ -13033,7 +13038,7 @@
       "Name": "Headliner",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 2459
+      "UsersEstimate": 2460
     },
     {
       "ID": "Ach006",
@@ -13065,7 +13070,7 @@
       "Name": "Well that was a rush!",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "Ach010",
@@ -13113,7 +13118,7 @@
       "Name": "Thanks for the free chip, Peppermint!",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 6324
+      "UsersEstimate": 6325
     },
     {
       "ID": "Ach016",
@@ -13177,7 +13182,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9838
+      "UsersEstimate": 9839
     },
     {
       "ID": "Ach024",
@@ -13193,7 +13198,7 @@
       "Name": "You got this, Peppermint?",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 5621
+      "UsersEstimate": 5622
     },
     {
       "ID": "Ach026",
@@ -13241,7 +13246,7 @@
       "Name": "Perfect Parry",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "Ach032",
@@ -13257,7 +13262,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4040
+      "UsersEstimate": 4041
     },
     {
       "ID": "Ach034",
@@ -13265,7 +13270,7 @@
       "Name": "That\u0027s a lot of junk metal\u2026",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 1405
+      "UsersEstimate": 1406
     },
     {
       "ID": "Ach035",
@@ -13369,7 +13374,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7378
+      "UsersEstimate": 7379
     },
     {
       "ID": "Ach048",
@@ -13377,7 +13382,7 @@
       "Name": "Alright, that felt AWESOME!",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 5094
+      "UsersEstimate": 5095
     },
     {
       "ID": "Ach049",
@@ -13401,7 +13406,7 @@
       "Name": "You can pet the cat!",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 8959
+      "UsersEstimate": 8960
     },
     {
       "ID": "Ach052",
@@ -13568,13 +13573,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17567,
+      "Progressed": 17569,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16088,
+      "Progressed": 16090,
       "Completed": 1931
     }
   ],
@@ -13582,8 +13587,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-21T10:59:08.3080771+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:05:00.9740028+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:05:21.4456817+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:59:06.25174+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:05:00.9741059+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:59:11.5500514+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:05:21.4457968+00:00"
 }

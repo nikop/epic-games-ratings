@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 441,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2014-02-25T05:00:00+00:00",
@@ -899,9 +899,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "ae95dh3",
       "Name": "Child of the Shadows",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -1027,9 +1027,9 @@
       "ID": "NEW_ACHIEVEMENT_1_28",
       "SetID": "ae95dh3",
       "Name": "Lockdown",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 87
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_29",
@@ -1162,8 +1162,8 @@
   ],
   "FirstSeen": "2023-12-14T05:57:39.3908515+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.6694863+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:05:57.3298405+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:06:17.9045156+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:33.6242405+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:59:12.9221841+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:05:57.3298677+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:59:18.2354097+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:06:17.904552+00:00"
 }

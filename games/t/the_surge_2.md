@@ -5,16 +5,16 @@ Rating: 4.27 (Ranked 914)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,039 |
-| Don't I Know You...? | 75.00% | ~1,960 |
-| Jailbreak | 64.00% | ~1,673 |
-| HEADSHOT! | 37.00% | ~967 |
-| Suited and Booted | 37.00% | ~967 |
+| Rigged And Ready | 78.00% | ~2,040 |
+| Don't I Know You...? | 75.00% | ~1,961 |
+| Jailbreak | 64.00% | ~1,674 |
+| HEADSHOT! | 37.00% | ~968 |
+| Suited and Booted | 37.00% | ~968 |
 | Sleeping With The Fishes | 34.00% | ~889 |
 | High Performance | 30.00% | ~784 |
 | Overheated | 29.00% | ~758 |
-| Powered Up | 28.00% | ~732 |
-| Studied The Blade | 24.00% | ~627 |
+| Powered Up | 27.00% | ~706 |
+| Studied The Blade | 24.00% | ~628 |
 | Home Invasion | 23.00% | ~601 |
 | Luminary | 22.00% | ~575 |
 | It's a Trap | 22.00% | ~575 |
@@ -24,8 +24,8 @@ Rating: 4.27 (Ranked 914)
 | Court Martial | 19.00% | ~497 |
 | Unforeseeable Consequences | 19.00% | ~497 |
 | Clean Cut | 18.00% | ~471 |
-| Dead Again | 17.00% | ~444 |
-| Full Arsenal | 17.00% | ~444 |
+| Dead Again | 17.00% | ~445 |
+| Full Arsenal | 17.00% | ~445 |
 | Can't Trust Banks | 15.00% | ~392 |
 | Mommy Dearest | 13.00% | ~340 |
 | Bad Dog | 13.00% | ~340 |
@@ -35,8 +35,8 @@ Rating: 4.27 (Ranked 914)
 | Corrupted Beauty | 12.00% | ~314 |
 | Sorry, Didn't See You There | 12.00% | ~314 |
 | Marked For Success | 11.00% | ~288 |
-| Stimulating The Local Economy | 10.00% | ~261 |
-| Triplets | 10.00% | ~261 |
+| Stimulating The Local Economy | 10.00% | ~262 |
+| Triplets | 10.00% | ~262 |
 | Denying Prophecy | 9.00% | ~235 |
 | A Little Banged Up | 8.00% | ~209 |
 | Following In Their Footsteps | 8.00% | ~209 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 914)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,614 (Ranked 241)  
+Progressed: 2,615 (Ranked 241)  
 Completed: 13 (0.50%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -277,6 +277,7 @@ Completed: 13 (0.50%) (Ranked 230)
 | 2024-01-19 | 2,607 | 13 |
 | 2024-01-20 | 2,611 | 13 |
 | 2024-01-21 | 2,614 | 13 |
+| 2024-01-22 | 2,615 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

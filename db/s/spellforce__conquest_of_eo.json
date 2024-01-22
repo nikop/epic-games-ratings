@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 463,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-02-03T14:00:00+00:00",
     "PcReleaseDate": "2023-02-03T14:00:00+00:00",
@@ -946,9 +946,9 @@
       "ID": "Enslave_Unit_Post_Battle",
       "SetID": "7b9f97e",
       "Name": "Slave to the rhythm",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 30
+      "UsersEstimate": 31
     },
     {
       "ID": "First_LevelUp",
@@ -1363,8 +1363,8 @@
   "FirstSeenRating": "2023-03-31T05:58:32.8524387+00:00",
   "FirstSeenAchievements": "2023-10-19T11:05:25.3574067+00:00",
   "LastChanged": "2023-03-31T05:58:32.8524389+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:10:01.0389846+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:20.0427001+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:11.6757583+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:58:06.2674412+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:10:01.0390619+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:58:10.9366904+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:20.042748+00:00"
 }

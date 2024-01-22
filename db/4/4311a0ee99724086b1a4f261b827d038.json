@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -911,9 +911,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244620,
+  "EOS_Progressed": 244623,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1188,
+  "EOS_NewPlayers": 1185,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22136,6 +22136,11 @@
       "Time": "2024-01-22T03:10:11.1905856+00:00",
       "NumProgressed": 244620,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T04:10:29.7493137+00:00",
+      "NumProgressed": 244623,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22204,7 +22209,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51370
+      "UsersEstimate": 51371
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22340,7 +22345,7 @@
       "Name": "Angel Moon Completed",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 17123
+      "UsersEstimate": 17124
     },
     {
       "ID": "HW2_MISSION3_COMPLETE",
@@ -22404,7 +22409,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61155
+      "UsersEstimate": 61156
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22419,7 +22424,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244620,
+      "Progressed": 244623,
       "Completed": 0
     }
   ],
@@ -22427,8 +22432,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-20T14:02:38.8696493+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:10:11.1905853+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:10:29.7493135+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-22T02:57:43.2539044+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:10:11.1907035+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:57:47.4543026+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:10:29.7494386+00:00"
 }

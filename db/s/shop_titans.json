@@ -8275,7 +8275,7 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 152428,
+  "EOS_Progressed": 152431,
   "EOS_Completed": 360,
   "EOS_NewPlayers": 1221,
   "EOS_NewCompleters": 6,
@@ -37665,6 +37665,11 @@
       "Time": "2024-01-22T03:09:25.3381801+00:00",
       "NumProgressed": 152428,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-22T04:09:44.3285497+00:00",
+      "NumProgressed": 152431,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -37676,7 +37681,7 @@
       "Name": "The Daily Grind",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "advlevel02",
@@ -37812,7 +37817,7 @@
       "Name": "Bounty Hunters",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "boss02",
@@ -37844,7 +37849,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18291
+      "UsersEstimate": 18292
     },
     {
       "ID": "chest02",
@@ -37980,7 +37985,7 @@
       "Name": "Where it Hurts",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "damage02",
@@ -38228,7 +38233,7 @@
       "Name": "One-Armed Bandit",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "jackslot02",
@@ -38332,7 +38337,7 @@
       "Name": "Through Repetition, Perfection",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 7621
+      "UsersEstimate": 7622
     },
     {
       "ID": "master02",
@@ -38492,7 +38497,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18291
+      "UsersEstimate": 18292
     },
     {
       "ID": "twinenchant01",
@@ -38571,15 +38576,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152428,
+      "Progressed": 152431,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-21T20:04:06.6067821+00:00",
-  "LastChanged_Achievements": "2024-01-22T03:09:25.3381798+00:00",
+  "LastChanged_Achievements": "2024-01-22T04:09:44.3285493+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:03:14.2314173+00:00",
-  "LastUpdate_Achievements": "2024-01-22T03:09:25.3384094+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:03:31.9224179+00:00",
+  "LastUpdate_Achievements": "2024-01-22T04:09:44.328759+00:00"
 }

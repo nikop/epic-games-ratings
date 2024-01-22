@@ -20,11 +20,11 @@
 | Harbinger | 7.00% | ~22 |
 | Tail-wind | 7.00% | ~22 |
 | Scholar | 6.00% | ~19 |
+| Deputized | 6.00% | ~19 |
 | Pilgrimage's End | 6.00% | ~19 |
 | Merchant | 6.00% | ~19 |
 | Quartermaster | 5.00% | ~16 |
 | Strategist | 5.00% | ~16 |
-| Deputized | 5.00% | ~16 |
 | Courier | 5.00% | ~16 |
 | Trouble at Fort Larius | 5.00% | ~16 |
 | Potential Unlocked | 4.00% | ~12 |
