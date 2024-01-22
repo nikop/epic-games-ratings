@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 29 | [The Riflemen](games/t/the_riflemen.md) | 15.53% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.52% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -56,7 +56,7 @@
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.40% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
-| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.24% |
+| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.23% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.22% |
 | 59 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 60 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
@@ -221,9 +221,9 @@
 | 217 | [Scrapnaut](games/s/scrapnaut.md) | 0.59% |
 | 217 | [SPINGUN](games/c/c5fe11872c2c407baee53f1a1a9131ed.md) | 0.59% |
 | 221 | [WILD HEARTS™ Standard Edition](games/w/wild_hearts™_standard_edition.md) | 0.57% |
-| 222 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.56% |
 | 222 | [Potion Permit](games/p/potion_permit.md) | 0.56% |
-| 224 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 223 | [Aragami 2](games/a/aragami_2.md) | 0.55% |
+| 223 | [Laika: Aged Through Blood](games/6/64f5543ade2942d59ae4e0321915e0da.md) | 0.55% |
 | 225 | [Spirit of the North](games/s/spirit_of_the_north.md) | 0.54% |
 | 226 | [Eternal Threads](games/3/35eda4ff87f94a7491dc28175b8f3b4f.md) | 0.52% |
 | 226 | [Q.U.B.E. 2](games/q/q.u.b.e._2.md) | 0.52% |
