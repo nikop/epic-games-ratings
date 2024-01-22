@@ -6,13 +6,14 @@ Number of Ratings: 1,307  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Settler | 6.00% | ~1,025 |
-| Play a Single Player Game | 6.00% | ~1,025 |
-| Explorer | 5.00% | ~854 |
-| Friendly Family | 5.00% | ~854 |
+| Settler | 6.00% | ~1,026 |
+| Play a Single Player Game | 6.00% | ~1,026 |
+| Explorer | 5.00% | ~855 |
+| Friendly Family | 5.00% | ~855 |
 | Able | 4.00% | ~684 |
 | Architect | 4.00% | ~684 |
 | Intrepid | 4.00% | ~684 |
+| Strong | 4.00% | ~684 |
 | Hanging Gardens | 4.00% | ~684 |
 | Oracle | 4.00% | ~684 |
 | Ambitious | 3.00% | ~513 |
@@ -26,7 +27,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mason | 3.00% | ~513 |
 | Noble | 3.00% | ~513 |
 | Pioneer | 3.00% | ~513 |
-| Strong | 3.00% | ~513 |
 | Warrior | 3.00% | ~513 |
 | Developing Cities | 3.00% | ~513 |
 | Strong Cities | 3.00% | ~513 |
@@ -134,7 +134,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Church of the Holy Sepulchre | 0.60% | ~103 |
 | Carthage | 0.60% | ~103 |
 | Rome | 0.60% | ~103 |
-| One True Faith | 0.60% | ~103 |
 | Turreted Elephant | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
 | Deposed Tribe | 0.60% | ~103 |
@@ -143,6 +142,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Old | 0.50% | ~85 |
 | Learn to Play 5 | 0.50% | ~85 |
 | Egypt | 0.50% | ~85 |
+| One True Faith | 0.50% | ~85 |
 | No Undo | 0.50% | ~85 |
 | Poetic Leader | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,090 (Ranked 170)  
+Progressed: 17,093 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,6 +642,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
+| 2024-01-22 | 17,093 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

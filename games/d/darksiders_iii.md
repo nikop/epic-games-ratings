@@ -6,20 +6,20 @@ Number of Ratings: 116  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~515 |
-| First of many… | 68.00% | ~455 |
-| Helping Hand | 65.00% | ~435 |
-| Increased Vigor | 61.00% | ~408 |
-| Fight Fire with Fire | 58.00% | ~388 |
+| Green with Envy | 77.00% | ~516 |
+| First of many… | 69.00% | ~462 |
+| Helping Hand | 65.00% | ~436 |
+| Increased Vigor | 61.00% | ~409 |
+| Fight Fire with Fire | 58.00% | ~389 |
 | Increased Capacity | 56.00% | ~375 |
-| Just the start | 50.00% | ~334 |
-| Perfect Storm | 47.00% | ~314 |
-| All That Glitters | 47.00% | ~314 |
+| Just the start | 50.00% | ~335 |
+| Perfect Storm | 47.00% | ~315 |
+| All That Glitters | 47.00% | ~315 |
 | Enhance! | 43.00% | ~288 |
 | One Of the Chosen | 42.00% | ~281 |
-| Devil's in the Details | 41.00% | ~274 |
-| Throne Potato | 41.00% | ~274 |
-| Five's a Crowd | 41.00% | ~274 |
+| Devil's in the Details | 41.00% | ~275 |
+| Throne Potato | 41.00% | ~275 |
+| Five's a Crowd | 41.00% | ~275 |
 | Salvation | 40.00% | ~268 |
 | 25 to Life | 40.00% | ~268 |
 | Unshakable Fortitude | 37.00% | ~248 |
@@ -28,17 +28,17 @@ Number of Ratings: 116  (23.09.2022)
 | I Wanna Rock | 35.00% | ~234 |
 | Love Tap | 35.00% | ~234 |
 | Maximum Vigor | 33.00% | ~221 |
-| Freeze Frame | 31.00% | ~207 |
-| Eat Your Heart Out | 31.00% | ~207 |
+| Freeze Frame | 31.00% | ~208 |
+| Eat Your Heart Out | 31.00% | ~208 |
 | For Whom the Bell Tolls | 30.00% | ~201 |
-| Unyielding Strength | 28.00% | ~187 |
+| Unyielding Strength | 27.00% | ~181 |
 | Can you restore the Balance? | 27.00% | ~181 |
 | Crowd Source | 27.00% | ~181 |
 | Big Spender | 27.00% | ~181 |
 | Cleanup Crew | 26.00% | ~174 |
 | Seeing Red | 26.00% | ~174 |
-| Demon Meddler | 25.00% | ~167 |
-| Egomaniac | 25.00% | ~167 |
+| Demon Meddler | 25.00% | ~168 |
+| Egomaniac | 25.00% | ~168 |
 | Maximum Capacity | 24.00% | ~161 |
 | Protector of Humanity | 23.00% | ~154 |
 | Everybody Wants to Rule the World | 23.00% | ~154 |
@@ -53,8 +53,8 @@ Number of Ratings: 116  (23.09.2022)
 | Soul Reaper | 9.00% | ~60 |
 | Made of Sterner Stuff | 7.00% | ~47 |
 | My Evil Twin | 6.00% | ~40 |
-| Purity of Power | 5.00% | ~33 |
-| Balance in all things | 5.00% | ~33 |
+| Purity of Power | 5.00% | ~34 |
+| Balance in all things | 5.00% | ~34 |
 | "Impressive!" | 4.00% | ~27 |
 | Keeper of the Bonfire | 4.00% | ~27 |
 | Keeper of the Vale | 4.00% | ~27 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 669 (Ranked 340)  
+Progressed: 670 (Ranked 340)  
 Completed: 2 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.30%) (Ranked 265)
 | 2024-01-19 | 649 | 2 |
 | 2024-01-20 | 658 | 2 |
 | 2024-01-21 | 667 | 2 |
-| 2024-01-22 | 669 | 2 |
+| 2024-01-22 | 670 | 2 |
 ## Awards
 Max (Great Boss Battles): 100  (Ranked 383)  
 Sum: 100 (Ranked 474)  

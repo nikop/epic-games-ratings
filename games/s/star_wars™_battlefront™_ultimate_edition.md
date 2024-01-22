@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,663 |
-| Off to a good start | 60.00% | ~1,858 |
-| Do... or do not. There is no try | 52.00% | ~1,610 |
-| A good blaster at your side | 24.00% | ~743 |
-| I suggest a new strategy | 17.00% | ~526 |
+| New Recruit | 86.00% | ~2,664 |
+| Off to a good start | 60.00% | ~1,859 |
+| Do... or do not. There is no try | 52.00% | ~1,611 |
+| A good blaster at your side | 24.00% | ~744 |
+| I suggest a new strategy | 17.00% | ~527 |
 | Great shot, kid! | 15.00% | ~465 |
 | Scrap collector | 14.00% | ~434 |
 | All right, I'll give it a try | 14.00% | ~434 |
@@ -20,8 +20,8 @@
 | Best star-pilot in the galaxy | 8.00% | ~248 |
 | Never tell me the odds! | 7.00% | ~217 |
 | Survivor | 7.00% | ~217 |
+| What's the cargo? | 6.00% | ~186 |
 | A cunning warrior | 6.00% | ~186 |
-| What's the cargo? | 5.00% | ~155 |
 | "Gonk? Gonk!" | 5.00% | ~155 |
 | Judge me by my size, do you? | 5.00% | ~155 |
 | Distinguished | 4.00% | ~124 |
@@ -30,6 +30,7 @@
 | A tremor in the Force | 3.00% | ~93 |
 | Safety ain't the point of a joyride | 3.00% | ~93 |
 | Not bad for a little furball | 3.00% | ~93 |
+| Patience you must have | 3.00% | ~93 |
 | The Force is strong with this one | 2.00% | ~62 |
 | I've been waiting for you | 2.00% | ~62 |
 | When 900 years old you reach... | 2.00% | ~62 |
@@ -37,7 +38,6 @@
 | Your journey has only started | 2.00% | ~62 |
 | On the ball | 2.00% | ~62 |
 | Precision shot | 2.00% | ~62 |
-| Patience you must have | 2.00% | ~62 |
 | That's no moon | 2.00% | ~62 |
 | Don't underestimate the Force | 2.00% | ~62 |
 | Hold the line! | 1.00% | ~31 |
@@ -56,19 +56,19 @@
 | When surrounded by war... | 0.60% | ~19 |
 | No such thing as luck | 0.50% | ~15 |
 | Do we take prisoners? | 0.50% | ~15 |
+| I’ll take that bet | 0.50% | ~15 |
 | Stop that Droid | 0.50% | ~15 |
-| I’ll take that bet | 0.40% | ~12 |
-| Stay on target | 0.30% | ~9 |
+| Stay on target | 0.40% | ~12 |
 | Greed can be a very powerful ally | 0.30% | ~9 |
 | That got him! | 0.20% | ~6 |
 | in a galaxy far, far away.... | 0.20% | ~6 |
 | Don't get cocky | 0.20% | ~6 |
 | Master | 0.20% | ~6 |
+| I never doubted you! | 0.20% | ~6 |
 | Stay in attack formation | 0.10% | ~3 |
-| I never doubted you! | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,097 (Ranked 234)  
+Progressed: 3,098 (Ranked 234)  
 Completed: 1 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -196,7 +196,7 @@ Completed: 1 (0.03%) (Ranked 364)
 | 2024-01-19 | 3,042 | 1 |
 | 2024-01-20 | 3,065 | 1 |
 | 2024-01-21 | 3,096 | 1 |
-| 2024-01-22 | 3,097 | 1 |
+| 2024-01-22 | 3,098 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

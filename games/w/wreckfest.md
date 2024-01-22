@@ -15,7 +15,7 @@ Rating: 4.24 (Ranked 938)
 | Hating Them Tin Cans | 16.00% | ~198 |
 | Junk Collector | 15.00% | ~186 |
 | Trashing Around | 15.00% | ~186 |
-| Challengers Champion | 11.00% | ~136 |
+| Challengers Champion | 12.00% | ~149 |
 | Cash For Crashes | 8.00% | ~99 |
 | Pro Internationals Champion | 7.00% | ~87 |
 | World Masters Champion | 3.00% | ~37 |

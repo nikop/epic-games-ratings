@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3097,
+  "EOS_Progressed": 3098,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8454,6 +8454,11 @@
       "Time": "2024-01-22T00:11:00.0422678+00:00",
       "NumProgressed": 3097,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T02:05:17.5071432+00:00",
+      "NumProgressed": 3098,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8488,17 +8493,17 @@
       "ID": "achievement_12",
       "SetID": "271ol84",
       "Name": "Stay on target",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_13",
       "SetID": "271ol84",
       "Name": "What\u0027s the cargo?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 155
+      "UsersEstimate": 186
     },
     {
       "ID": "achievement_14",
@@ -8690,7 +8695,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2663
+      "UsersEstimate": 2664
     },
     {
       "ID": "achievement_36",
@@ -8706,7 +8711,7 @@
       "Name": "Off to a good start",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 1858
+      "UsersEstimate": 1859
     },
     {
       "ID": "achievement_38",
@@ -8730,7 +8735,7 @@
       "Name": "I suggest a new strategy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 527
     },
     {
       "ID": "achievement_40",
@@ -8738,7 +8743,7 @@
       "Name": "Do... or do not. There is no try",
       "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1610
+      "UsersEstimate": 1611
     },
     {
       "ID": "achievement_41",
@@ -8770,7 +8775,7 @@
       "Name": "A good blaster at your side",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 743
+      "UsersEstimate": 744
     },
     {
       "ID": "achievement_45",
@@ -8784,9 +8789,9 @@
       "ID": "achievement_46",
       "SetID": "cemm4l8",
       "Name": "Patience you must have",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 62
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_47",
@@ -8848,9 +8853,9 @@
       "ID": "achievement_53",
       "SetID": "cemm4l8",
       "Name": "I\u2019ll take that bet",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 12
+      "UsersEstimate": 15
     },
     {
       "ID": "achievement_54",
@@ -8928,9 +8933,9 @@
       "ID": "achievement_62",
       "SetID": "cemm4l8",
       "Name": "I never doubted you!",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "achievement_63",
@@ -8969,13 +8974,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3097,
+      "Progressed": 3098,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3097,
+      "Progressed": 3098,
       "Completed": 1
     }
   ],
@@ -8983,8 +8988,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:11:00.0422673+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:17.507143+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:57:22.8248138+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:11:00.0423466+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:52:04.9191765+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:17.507213+00:00"
 }

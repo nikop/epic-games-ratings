@@ -4,8 +4,8 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
     "PcReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 401,
+  "EOS_Progressed": 404,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1650,6 +1650,11 @@
       "Time": "2024-01-22T00:10:39.371175+00:00",
       "NumProgressed": 401,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T02:05:01.7600724+00:00",
+      "NumProgressed": 404,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1885,14 +1890,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 401,
+      "Progressed": 404,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:10:39.3711747+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:01.7600722+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8036701+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:59:24.2593557+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:10:39.3711996+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:53:23.4557374+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:01.760097+00:00"
 }

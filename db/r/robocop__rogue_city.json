@@ -3,12 +3,12 @@
   "Name": "RoboCop: Rogue City",
   "ProductSlug": "robocop-rogue-city",
   "Ranking_Rating": 799,
-  "Ranking_Popularity": 318,
-  "Ranking_PopularitySum": 433,
+  "Ranking_Popularity": 315,
+  "Ranking_PopularitySum": 431,
   "Ranking_EOS_Progress": 225,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-02T15:00:00+00:00",
     "PcReleaseDate": "2023-11-02T15:00:00+00:00",
@@ -561,23 +561,29 @@
       "Rating": 4.38,
       "NumberOfAwards": 177,
       "NumberOfAwardsMax": 177
+    },
+    {
+      "Time": "2024-01-22T01:52:16.9384193+00:00",
+      "Rating": 4.38,
+      "NumberOfAwards": 182,
+      "NumberOfAwardsMax": 182
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 177,
-  "NumberOfAwardsMax": 177,
+  "NumberOfAwards": 182,
+  "NumberOfAwardsMax": 182,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 177
+      "Count": 182
     }
   ],
   "EOS_Progressed": 3833,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 252,
+  "EOS_NewPlayers": 248,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4294,9 +4300,9 @@
   "FirstSeen": "2023-11-02T16:00:47.732778+00:00",
   "FirstSeenRating": "2023-11-07T18:58:52.6047074+00:00",
   "FirstSeenAchievements": "2023-10-10T13:10:57.0550884+00:00",
-  "LastChanged": "2024-01-20T22:57:07.5477861+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:09:05.1384104+00:00",
+  "LastChanged": "2024-01-22T01:52:16.9384191+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:03:56.6862039+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:05.9479514+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:57:38.7477397+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:09:05.1384467+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:52:16.9384196+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:03:56.6862306+00:00"
 }

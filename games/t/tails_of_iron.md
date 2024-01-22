@@ -16,6 +16,7 @@ Rating: 4.57 (Ranked 497)
 | Complete Elder Faction | 2.00% | ~47 |
 | End of the Mozis | 2.00% | ~47 |
 | Defeat Ratnor Rodentson | 2.00% | ~47 |
+| Fix the Travellers Wagon | 2.00% | ~47 |
 | Two Handed Weapon | 2.00% | ~47 |
 | Defeat 25 Grubs | 2.00% | ~47 |
 | Defeat 25 Mozis | 2.00% | ~47 |
@@ -32,7 +33,6 @@ Rating: 4.57 (Ranked 497)
 | Complete the Chefs Book | 1.00% | ~23 |
 | Defeat Avor Warden of the Northern Wastes | 1.00% | ~23 |
 | Defeat Rattus Augustail | 1.00% | ~23 |
-| Fix the Travellers Wagon | 1.00% | ~23 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | Discover the mystery of the Kings Chambers | 0.90% | ~21 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 497)
 | King of Kings | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,345 (Ranked 249)  
+Progressed: 2,346 (Ranked 249)  
 Completed: 12 (0.51%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -272,6 +272,7 @@ Completed: 12 (0.51%) (Ranked 228)
 | 2024-01-19 | 2,340 | 12 |
 | 2024-01-20 | 2,343 | 12 |
 | 2024-01-21 | 2,345 | 12 |
+| 2024-01-22 | 2,346 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

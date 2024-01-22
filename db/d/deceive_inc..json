@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 372,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19370,
+  "EOS_Progressed": 19371,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 34,
+  "EOS_NewPlayers": 35,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14875,6 +14875,11 @@
       "Time": "2024-01-21T21:08:31.6992969+00:00",
       "NumProgressed": 19370,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T02:03:14.2280712+00:00",
+      "NumProgressed": 19371,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14894,7 +14899,7 @@
       "Name": "License to Thrill",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 968
+      "UsersEstimate": 969
     },
     {
       "ID": "0003",
@@ -15070,7 +15075,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4261
+      "UsersEstimate": 4262
     },
     {
       "ID": "0025",
@@ -15086,7 +15091,7 @@
       "Name": "The Living Portrait",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "0027",
@@ -15150,7 +15155,7 @@
       "Name": "Smells Like Trouble",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 2324
+      "UsersEstimate": 2325
     },
     {
       "ID": "0035",
@@ -15173,7 +15178,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19370,
+      "Progressed": 19371,
       "Completed": 4
     }
   ],
@@ -15181,8 +15186,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:08:04.4844319+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:03:14.2280709+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-22T00:00:42.5784273+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:08:04.4845452+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:54:13.1902881+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:03:14.2281573+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | A Brief Tour of the Realms | 5.00% | ~12,756 |
-| Beast Intentions | 2.00% | ~5,102 |
-| The Cursed Farmer | 2.00% | ~5,102 |
-| The Mad Wizard | 2.00% | ~5,102 |
+| Beast Intentions | 2.00% | ~5,103 |
+| The Cursed Farmer | 2.00% | ~5,103 |
+| The Mad Wizard | 2.00% | ~5,103 |
 | The Ring of Regeneration | 1.00% | ~2,551 |
 | Are Ya Chicken? | 1.00% | ~2,551 |
 | Were-verpowered | 0.90% | ~2,296 |
@@ -34,13 +34,13 @@ Number of Ratings: 9,041  (23.09.2022)
 | Flames of Avernus | 0.50% | ~1,107 |
 | Mental Gymnastics | 0.50% | ~1,107 |
 | Don't Lose Your Head | 0.50% | ~1,107 |
-| Low Initiative | 0.40% | ~1,020 |
-| Building Trust | 0.40% | ~1,020 |
-| No Time To Rest | 0.40% | ~1,020 |
-| Useless Allies | 0.40% | ~1,020 |
-| Running of the Saurs | 0.40% | ~1,020 |
-| Waterdeep Detours | 0.40% | ~1,020 |
-| Underdeep Cartography | 0.40% | ~1,020 |
+| Low Initiative | 0.40% | ~1,021 |
+| Building Trust | 0.40% | ~1,021 |
+| No Time To Rest | 0.40% | ~1,021 |
+| Useless Allies | 0.40% | ~1,021 |
+| Running of the Saurs | 0.40% | ~1,021 |
+| Waterdeep Detours | 0.40% | ~1,021 |
+| Underdeep Cartography | 0.40% | ~1,021 |
 | Arcane Suppression | 0.40% | ~886 |
 | Welcome to the Vrocks | 0.40% | ~886 |
 | Misaligned in Sigil | 0.40% | ~886 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,115 (Ranked 71)  
+Progressed: 255,129 (Ranked 71)  
 Completed: 2,629 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -830,7 +830,7 @@ Completed: 2,629 (1.03%) (Ranked 180)
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
-| 2024-01-22 | 255,115 | 2,629 |
+| 2024-01-22 | 255,129 | 2,629 |
 ## Awards
 Max (Great for Beginners): 5,810  (Ranked 74)  
 Sum: 33,602 (Ranked 41)  

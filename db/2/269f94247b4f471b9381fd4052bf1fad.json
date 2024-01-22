@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 558,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -376,9 +376,9 @@
       "ID": "ACH_EXOTIC-ARSENAL",
       "SetID": "6lg1p1e",
       "Name": "Exotic Arsenal",
-      "Percentage": 13,
+      "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "ACH_FIRST-PAYCHECK",
@@ -599,8 +599,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:09:38.2283509+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:04:19.5565923+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.669194+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:58:42.174997+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:09:38.2283766+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:52:57.5855558+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:04:19.5566217+00:00"
 }

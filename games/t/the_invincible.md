@@ -6,27 +6,27 @@ Rating: 4.54 (Ranked 550)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Camp | 71.00% | ~1,265 |
-| The Teleprobe | 58.00% | ~1,033 |
+| The Teleprobe | 58.00% | ~1,034 |
 | The City | 53.00% | ~944 |
 | The field base | 48.00% | ~855 |
-| The Alliance | 46.00% | ~819 |
+| The Alliance | 46.00% | ~820 |
 | Survivors | 42.00% | ~748 |
-| The Condor | 40.00% | ~712 |
-| The End | 40.00% | ~712 |
+| The Condor | 40.00% | ~713 |
+| The End | 40.00% | ~713 |
 | The Necroevolution | 32.00% | ~570 |
-| Krauta is alive | 30.00% | ~534 |
-| Peacemaker | 24.00% | ~427 |
+| Krauta is alive | 30.00% | ~535 |
+| Peacemaker | 24.00% | ~428 |
 | On her own | 23.00% | ~410 |
 | Fierce fight | 23.00% | ~410 |
 | Volcanologist | 23.00% | ~410 |
 | Evacuation | 22.00% | ~392 |
-| Beyond divisions | 19.00% | ~338 |
+| Beyond divisions | 19.00% | ~339 |
 | Flying Objects Operator | 18.00% | ~321 |
 | I remember everything! | 14.00% | ~249 |
 | Another giant | 14.00% | ~249 |
 | Violent solution | 10.00% | ~178 |
 | I leave no man behind | 10.00% | ~178 |
-| Innate curiosity | 8.00% | ~142 |
+| Innate curiosity | 8.00% | ~143 |
 | Ubiquitous holes | 7.00% | ~125 |
 | Strong objection | 7.00% | ~125 |
 | The Invincible | 6.00% | ~107 |
@@ -35,8 +35,8 @@ Rating: 4.54 (Ranked 550)
 | Convoy list | 0.90% | ~16 |
 | No more mistakes | 0.70% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,781 (Ranked 262)  
-Completed: 1 (0.06%) (Ranked 339)  
+Progressed: 1,782 (Ranked 262)  
+Completed: 1 (0.06%) (Ranked 340)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -113,7 +113,7 @@ Completed: 1 (0.06%) (Ranked 339)
 | 2024-01-19 | 1,753 | 1 |
 | 2024-01-20 | 1,766 | 1 |
 | 2024-01-21 | 1,779 | 1 |
-| 2024-01-22 | 1,781 | 1 |
+| 2024-01-22 | 1,782 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

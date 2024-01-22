@@ -121,7 +121,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2426,
+  "EOS_Progressed": 2427,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 94,
   "EOS_NewCompleters": 2,
@@ -4956,6 +4956,11 @@
       "Time": "2024-01-21T23:10:19.5881899+00:00",
       "NumProgressed": 2426,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T02:05:11.8341351+00:00",
+      "NumProgressed": 2427,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -4975,7 +4980,7 @@
       "Name": "Find Allies",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 679
+      "UsersEstimate": 680
     },
     {
       "ID": "ACH_03",
@@ -5031,7 +5036,7 @@
       "Name": "The Mentor",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "ACH_10",
@@ -5183,7 +5188,7 @@
       "Name": "I Found It",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 606
+      "UsersEstimate": 607
     },
     {
       "ID": "ACH_29",
@@ -5254,7 +5259,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2426,
+      "Progressed": 2427,
       "Completed": 5
     }
   ],
@@ -5262,8 +5267,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-20T16:58:42.6858177+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:10:52.8275657+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:11.8341349+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:59:48.8907187+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:10:52.8275983+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:53:38.3968972+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:11.8341752+00:00"
 }

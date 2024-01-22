@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -455,9 +455,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12047,
+  "EOS_Progressed": 12050,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 572,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5775,6 +5775,11 @@
       "Time": "2024-01-22T00:10:54.0168507+00:00",
       "NumProgressed": 12047,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T02:05:12.7520438+00:00",
+      "NumProgressed": 12050,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5787,7 +5792,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2771
+      "UsersEstimate": 2772
     },
     {
       "ID": "03_TheStolenStar",
@@ -5891,7 +5896,7 @@
       "Name": "Pentakill",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "16_TheRise",
@@ -5931,7 +5936,7 @@
       "Name": "Purge the Unclean",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "21_PreciseDefense",
@@ -5963,7 +5968,7 @@
       "Name": "Highrise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "25_DynastyProspers",
@@ -5987,7 +5992,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -6011,7 +6016,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "31_DontTouchThis",
@@ -6067,7 +6072,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -6107,7 +6112,7 @@
       "Name": "Iron Judgement",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6115,7 +6120,7 @@
       "Name": "No Place Like Home",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1325
+      "UsersEstimate": 1326
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6171,7 +6176,7 @@
       "Name": "Whodunit?",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 843
+      "UsersEstimate": 844
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6203,7 +6208,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -6211,7 +6216,7 @@
       "Name": "Returning the Boots",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 361
+      "UsersEstimate": 362
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -6306,7 +6311,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12047,
+      "Progressed": 12050,
       "Completed": 1
     }
   ],
@@ -6314,8 +6319,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-21T22:57:25.0496169+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:10:54.0168504+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:12.7520436+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:57:17.8933613+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:10:54.0169089+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:52:02.2234869+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:12.7521004+00:00"
 }

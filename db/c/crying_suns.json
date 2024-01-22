@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 400,
   "Ranking_EOS_Progress": 45,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 135,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 133,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-01-07T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -715,9 +715,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474287,
+  "EOS_Progressed": 474291,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 406,
+  "EOS_NewPlayers": 407,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29305,6 +29305,11 @@
       "Time": "2024-01-22T00:10:59.4843978+00:00",
       "NumProgressed": 474287,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-22T02:05:17.1174014+00:00",
+      "NumProgressed": 474291,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29316,7 +29321,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71143
+      "UsersEstimate": 71144
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -29324,7 +29329,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71143
+      "UsersEstimate": 71144
     },
     {
       "ID": "achievement_first_death",
@@ -29332,7 +29337,7 @@
       "Name": "In space, no one can hear you scream",
       "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 113829
+      "UsersEstimate": 113830
     },
     {
       "ID": "achievement_story_complete_chapter_1",
@@ -29340,7 +29345,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104343
+      "UsersEstimate": 104344
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -29348,7 +29353,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 71143
+      "UsersEstimate": 71144
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -29404,7 +29409,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 313029
+      "UsersEstimate": 313032
     },
     {
       "ID": "achievement_story_landa",
@@ -29412,7 +29417,7 @@
       "Name": "Kill the Doctor",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23714
+      "UsersEstimate": 23715
     },
     {
       "ID": "achievement_story_meet_cryo_rebecca",
@@ -29420,7 +29425,7 @@
       "Name": "Forsaken",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23714
+      "UsersEstimate": 23715
     },
     {
       "ID": "achievement_story_meet_idaho_b",
@@ -29436,7 +29441,7 @@
       "Name": "Mother",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 118572
+      "UsersEstimate": 118573
     },
     {
       "ID": "achievement_story_meet_oberon",
@@ -29484,7 +29489,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71143
+      "UsersEstimate": 71144
     },
     {
       "ID": "achievement_story_neon_child",
@@ -29492,7 +29497,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94857
+      "UsersEstimate": 94858
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -29500,7 +29505,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161258
+      "UsersEstimate": 161259
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -29516,7 +29521,7 @@
       "Name": "Mercy",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23714
+      "UsersEstimate": 23715
     },
     {
       "ID": "achievement_unlock_officer_as_1",
@@ -29740,7 +29745,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208686
+      "UsersEstimate": 208688
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -29748,7 +29753,7 @@
       "Name": "Jeef Skagg",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 142286
+      "UsersEstimate": 142287
     },
     {
       "ID": "achievement_win_expedition_all_commandos_dead",
@@ -29764,7 +29769,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56914
+      "UsersEstimate": 56915
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -29772,7 +29777,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184972
+      "UsersEstimate": 184973
     },
     {
       "ID": "achievement_win_run_hard",
@@ -29796,7 +29801,7 @@
       "Name": "Jericho Rule",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 23714
+      "UsersEstimate": 23715
     },
     {
       "ID": "achievement_win_run_with_kb",
@@ -29828,7 +29833,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104343
+      "UsersEstimate": 104344
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -29947,21 +29952,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18221,
+      "Progressed": 18225,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474287,
+      "Progressed": 474291,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-19T06:58:34.3477894+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:10:59.4843975+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:17.1174012+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:55.2971937+00:00",
-  "LastUpdate_Ratings": "2024-01-22T00:00:25.424564+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:10:59.4846013+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:54:00.9582762+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:17.1175522+00:00"
 }

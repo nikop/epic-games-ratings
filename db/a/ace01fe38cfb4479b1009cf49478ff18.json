@@ -4,8 +4,8 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 254,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 988,
+  "EOS_Progressed": 989,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 30,
+  "EOS_NewPlayers": 31,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3299,6 +3299,11 @@
       "Time": "2024-01-21T22:09:05.7777625+00:00",
       "NumProgressed": 988,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T02:03:58.9741008+00:00",
+      "NumProgressed": 989,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-10-13T10:03:19.5685802+00:00",
@@ -3367,7 +3372,7 @@
       "Name": "Defeat a Great Unclean One",
       "Percentage": 13,
       "XP": 45,
-      "UsersEstimate": 128
+      "UsersEstimate": 129
     },
     {
       "ID": "ach_defeat_lord_of_change",
@@ -3406,14 +3411,14 @@
     {
       "ID": "d499apg",
       "IsBase": true,
-      "Progressed": 988,
+      "Progressed": 989,
       "Completed": 2
     }
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:09:08.3848534+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:03:58.9741005+00:00",
   "LastUpdate_AppInfo": "2024-01-19T17:56:57.984209+00:00",
-  "LastUpdate_Ratings": "2024-01-22T00:03:03.152703+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:09:08.3848793+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:57:51.2785018+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:03:58.9741271+00:00"
 }

@@ -10,7 +10,7 @@
 | Enemies of Fate | 32.00% | ~53 |
 | Your Training Continues | 31.00% | ~51 |
 | Over the Moon | 31.00% | ~51 |
-| Armored | 29.00% | ~48 |
+| Armored | 30.00% | ~50 |
 | Amokuali Tower | 27.00% | ~45 |
 | Freedom | 26.00% | ~43 |
 | Winner | 24.00% | ~40 |

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 170,
   "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 156,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-05-05T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17090,
+  "EOS_Progressed": 17093,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 260,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20739,6 +20739,11 @@
       "Time": "2024-01-21T23:10:28.2634876+00:00",
       "NumProgressed": 17090,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T02:05:20.5624413+00:00",
+      "NumProgressed": 17093,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -21182,7 +21187,7 @@
       "Name": "Explorer",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_FOUNTAINHEAD",
@@ -21374,15 +21379,15 @@
       "Name": "Settler",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_STRONG",
       "SetID": "7l38kb8",
       "Name": "Strong",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 513
+      "UsersEstimate": 684
     },
     {
       "ID": "ACHIEVEMENT_COGNOMEN_SUBJUGATOR",
@@ -21662,7 +21667,7 @@
       "Name": "Friendly Family",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACHIEVEMENT_FAMILY_FURIOUS",
@@ -22420,9 +22425,9 @@
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0.6,
+      "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 103
+      "UsersEstimate": 85
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -22502,7 +22507,7 @@
       "Name": "Play a Single Player Game",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 1025
+      "UsersEstimate": 1026
     },
     {
       "ID": "ACHIEVEMENT_POWER_TO_THE_PEOPLE",
@@ -23613,21 +23618,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17090,
+      "Progressed": 17093,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17090,
+      "Progressed": 17093,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:11:04.4551453+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:20.5624411+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:58:24.0648802+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:11:04.4563765+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:52:45.9656396+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:20.5633834+00:00"
 }

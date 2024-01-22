@@ -12,7 +12,7 @@ Number of Ratings: 281  (23.09.2022)
 | Can you smell what the Rod is Hooking | 16.00% | ~1,343 |
 | Scaling up | 15.00% | ~1,259 |
 | I'm on a Boat! | 14.00% | ~1,175 |
-| Ready to Rod and Roll | 12.00% | ~1,007 |
+| Ready to Rod and Roll | 12.00% | ~1,008 |
 | Fish Out of Water | 8.00% | ~672 |
 | Things that go Splash in the Night | 8.00% | ~672 |
 | Goldfish? | 6.00% | ~504 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,395 (Ranked 194)  
+Progressed: 8,396 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,16 +324,17 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 8,374 | 0 |
 | 2024-01-20 | 8,377 | 0 |
 | 2024-01-21 | 8,395 | 0 |
+| 2024-01-22 | 8,396 | 0 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
-Sum: 216 (Ranked 414)  
+Sum: 217 (Ranked 414)  
 Diff (max vs sum): 69  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 43 |
 | This game is Relaxing | 39 |
 | This game has Amazing Storytelling | 39 |
-| This game is Highly Recommended | 38 |
+| This game is Highly Recommended | 39 |
 | This game is Extremely Fun | 32 |
 | This game has Quickly Understood Controls | 25 |
 ## Ratings History
@@ -448,3 +449,4 @@ Diff (max vs sum): 69
 | 2024-01-17 | 4.22 | - | 42 | 214 |
 | 2024-01-20 | 4.22 | - | 42 | 215 |
 | 2024-01-21 | 4.22 | - | 43 | 216 |
+| 2024-01-22 | 4.22 | - | 43 | 217 |

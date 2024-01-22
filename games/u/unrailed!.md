@@ -6,19 +6,19 @@ Number of Ratings: 21,990  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Advanced Stroller | 19.00% | ~129,738 |
-| Incurious | 18.00% | ~122,909 |
-| Climate Change | 17.00% | ~116,081 |
-| Stroller | 16.00% | ~109,253 |
-| Advanced Hiker | 14.00% | ~95,596 |
-| Toy Train | 14.00% | ~95,596 |
-| Hiker | 12.00% | ~81,939 |
-| Mojave Courier | 6.00% | ~40,970 |
-| Saved by Nausicaä | 6.00% | ~40,970 |
-| Voyager | 4.00% | ~27,313 |
-| Advanced Voyager | 4.00% | ~27,313 |
-| Expert Stroller | 4.00% | ~27,313 |
-| Orient Express | 4.00% | ~27,313 |
+| Advanced Stroller | 19.00% | ~129,740 |
+| Incurious | 18.00% | ~122,912 |
+| Climate Change | 17.00% | ~116,083 |
+| Stroller | 16.00% | ~109,255 |
+| Advanced Hiker | 14.00% | ~95,598 |
+| Toy Train | 14.00% | ~95,598 |
+| Hiker | 12.00% | ~81,941 |
+| Mojave Courier | 6.00% | ~40,971 |
+| Saved by Nausicaä | 6.00% | ~40,971 |
+| Voyager | 4.00% | ~27,314 |
+| Advanced Voyager | 4.00% | ~27,314 |
+| Expert Stroller | 4.00% | ~27,314 |
+| Orient Express | 4.00% | ~27,314 |
 | Marathon | 3.00% | ~20,485 |
 | Destructionist | 3.00% | ~20,485 |
 | Expert Hiker | 2.00% | ~13,657 |
@@ -35,8 +35,8 @@ Number of Ratings: 21,990  (23.09.2022)
 | Trans-Siberian Railway | 0.40% | ~2,731 |
 | Satan's Minion | 0.40% | ~2,731 |
 | Tough Nut! | 0.40% | ~2,731 |
-| Engineer | 0.30% | ~2,048 |
-| Snowman's Land | 0.30% | ~2,048 |
+| Engineer | 0.30% | ~2,049 |
+| Snowman's Land | 0.30% | ~2,049 |
 | Expert Wayfarer | 0.20% | ~1,366 |
 | Explorer | 0.10% | ~683 |
 | Advanced Explorer | 0.10% | ~683 |
@@ -59,7 +59,7 @@ Number of Ratings: 21,990  (23.09.2022)
 | Fireworks! | 0.10% | ~683 |
 | 20 Miles under the Sea | 0.10% | ~683 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 682,829 (Ranked 30)  
+Progressed: 682,843 (Ranked 30)  
 Completed: 15 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,10 +336,10 @@ Completed: 15 (0.00%) (Ranked 409)
 | 2024-01-19 | 682,004 | 15 |
 | 2024-01-20 | 682,421 | 15 |
 | 2024-01-21 | 682,819 | 15 |
-| 2024-01-22 | 682,829 | 15 |
+| 2024-01-22 | 682,843 | 15 |
 ## Awards
 Max (Great for Beginners): 213  (Ranked 296)  
-Sum: 1,642 (Ranked 239)  
+Sum: 1,643 (Ranked 239)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
@@ -348,7 +348,7 @@ Diff (max vs sum): 57
 | This game has Quickly Understood Controls | 196 |
 | This game is Extremely Fun | 189 |
 | This game is Relaxing | 184 |
-| This game has Amazing Characters | 173 |
+| This game has Amazing Characters | 174 |
 | This game has Playful Visuals | 166 |
 | This game is Highly Recommended | 164 |
 | This game has Amazing Storytelling | 151 |
@@ -528,3 +528,4 @@ Diff (max vs sum): 57
 | 2024-01-13 | 4.64 | - | 211 | 1,639 |
 | 2024-01-15 | 4.64 | - | 212 | 1,640 |
 | 2024-01-16 | 4.64 | - | 213 | 1,642 |
+| 2024-01-22 | 4.64 | - | 213 | 1,643 |

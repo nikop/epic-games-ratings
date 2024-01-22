@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 294,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 85,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,10 +353,10 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1158,
+  "EOS_Progressed": 1159,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 135,
-  "EOS_NewCompleters": 2,
+  "EOS_NewPlayers": 134,
+  "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
     {
@@ -3223,6 +3223,11 @@
       "Time": "2024-01-22T00:06:26.4601464+00:00",
       "NumProgressed": 1158,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-22T02:00:06.4041497+00:00",
+      "NumProgressed": 1159,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3329,9 +3334,9 @@
       "ID": "ACH_MERMALAIR",
       "SetID": "biiejkc",
       "Name": "Keep it Rolling",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 93
     },
     {
       "ID": "ACH_PRAWN_BOSS",
@@ -3353,9 +3358,9 @@
       "ID": "ACH_ROBO_SANDY_BOSS",
       "SetID": "biiejkc",
       "Name": "Sweet Victory",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -3443,7 +3448,7 @@
       "Name": "Spatula Seeker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3490,15 +3495,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1158,
+      "Progressed": 1159,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:06:26.4601459+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:00:06.4041494+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-22T00:00:50.093134+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:06:26.4601846+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:54:18.0036319+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:00:06.4041786+00:00"
 }

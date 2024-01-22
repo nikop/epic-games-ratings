@@ -4,8 +4,8 @@
   "ProductSlug": "stray-gods-the-roleplaying-musical-0e651d",
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 338,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 287,
+  "EOS_Progressed": 288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1294,6 +1294,11 @@
       "Time": "2024-01-20T04:09:08.2296152+00:00",
       "NumProgressed": 287,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T02:04:22.2447184+00:00",
+      "NumProgressed": 288,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-10T08:00:42.4581294+00:00",
@@ -1314,7 +1319,7 @@
       "Name": "Across The Styx",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "SG_AGAINSTALLODDS",
@@ -1458,7 +1463,7 @@
       "Name": "Not A Lost Girl",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "SG_NOTTAKINGANYCHANCES",
@@ -1601,14 +1606,14 @@
     {
       "ID": "bj5g0n4",
       "IsBase": true,
-      "Progressed": 287,
+      "Progressed": 288,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:09:42.0952591+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:04:22.2447181+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.9220606+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:59:29.6508921+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:09:42.0952918+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:53:26.7958451+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:04:22.2447502+00:00"
 }

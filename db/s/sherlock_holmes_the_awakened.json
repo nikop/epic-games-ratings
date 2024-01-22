@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 107,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 179,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -193,11 +193,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1586,
+  "EOS_Progressed": 1587,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 133,
+  "EOS_NewPlayers": 134,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 3.22,
+  "EOS_Completed_Percentage": 3.21,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:08:47.1075074+00:00",
@@ -5608,6 +5608,11 @@
       "Time": "2024-01-22T00:05:06.4945099+00:00",
       "NumProgressed": 1586,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-22T01:59:12.307088+00:00",
+      "NumProgressed": 1587,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5619,7 +5624,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 983
+      "UsersEstimate": 984
     },
     {
       "ID": "MQ01_2",
@@ -5627,7 +5632,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 967
+      "UsersEstimate": 968
     },
     {
       "ID": "MQ02_1",
@@ -5635,7 +5640,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "MQ02_2",
@@ -5651,7 +5656,7 @@
       "Name": "Curiosity Killed The Cat",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 285
+      "UsersEstimate": 286
     },
     {
       "ID": "MQ02_4",
@@ -5667,7 +5672,7 @@
       "Name": "Fond Memories",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 777
+      "UsersEstimate": 778
     },
     {
       "ID": "MQ03_2",
@@ -5675,7 +5680,7 @@
       "Name": "Lock, Stock, And Barrel",
       "Percentage": 42,
       "XP": 50,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "MQ03_3",
@@ -5699,7 +5704,7 @@
       "Name": "A Method To His Madness",
       "Percentage": 47,
       "XP": 40,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "MQ04_1",
@@ -5715,7 +5720,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "MQ04_3",
@@ -5729,9 +5734,9 @@
       "ID": "MQ05_1",
       "SetID": "bbing49",
       "Name": "Open Sesame",
-      "Percentage": 42,
+      "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 682
     },
     {
       "ID": "MQ05_2",
@@ -5739,7 +5744,7 @@
       "Name": "Back In The Saddle",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "MQ05_3",
@@ -5747,7 +5752,7 @@
       "Name": "Sticky Fingers",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "MQ05_4",
@@ -5755,7 +5760,7 @@
       "Name": "Knives Out",
       "Percentage": 42,
       "XP": 40,
-      "UsersEstimate": 666
+      "UsersEstimate": 667
     },
     {
       "ID": "MQ06_1",
@@ -5779,7 +5784,7 @@
       "Name": "Land, Ho!",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 650
+      "UsersEstimate": 651
     },
     {
       "ID": "MQ06_4",
@@ -5787,7 +5792,7 @@
       "Name": "No Man Is An Island",
       "Percentage": 40,
       "XP": 40,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "MQ07_1",
@@ -5842,7 +5847,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1586,
+      "Progressed": 1587,
       "Completed": 51
     }
   ],
@@ -5850,8 +5855,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:05:06.4945096+00:00",
+  "LastChanged_Achievements": "2024-01-22T01:59:12.3070878+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-22T00:03:36.2742679+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:05:06.494552+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:58:12.6330693+00:00",
+  "LastUpdate_Achievements": "2024-01-22T01:59:12.3071228+00:00"
 }

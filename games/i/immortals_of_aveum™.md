@@ -5,9 +5,9 @@ Rating: 4.20 (Ranked 971)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,177 |
-| Battlefields Have Memories | 82.00% | ~2,927 |
-| Enlisted | 76.00% | ~2,713 |
+| Unforeseen | 89.00% | ~3,178 |
+| Battlefields Have Memories | 82.00% | ~2,928 |
+| Enlisted | 76.00% | ~2,714 |
 | Maybe Engage a Little | 71.00% | ~2,535 |
 | No More Names | 55.00% | ~1,964 |
 | Initiate | 41.00% | ~1,464 |
@@ -15,8 +15,8 @@ Rating: 4.20 (Ranked 971)
 | Gravity-Challenged Rocks | 31.00% | ~1,107 |
 | Soldier | 27.00% | ~964 |
 | All the Major Food Groups | 27.00% | ~964 |
-| Socialite | 25.00% | ~892 |
-| Beggars Would Ride | 25.00% | ~892 |
+| Socialite | 25.00% | ~893 |
+| Beggars Would Ride | 25.00% | ~893 |
 | Control is an Illusion | 24.00% | ~857 |
 | The Means to Save It | 21.00% | ~750 |
 | Resilience to Sin | 19.00% | ~678 |
@@ -26,15 +26,15 @@ Rating: 4.20 (Ranked 971)
 | A Perfect Cycle | 17.00% | ~607 |
 | Recruit | 16.00% | ~571 |
 | Armsman | 14.00% | ~500 |
-| Lights Army | 12.00% | ~428 |
+| Lights Army | 12.00% | ~429 |
 | Periapt Cerulean | 10.00% | ~357 |
 | Good Boy | 9.00% | ~321 |
 | Periapt Viridian | 8.00% | ~286 |
 | Best Dressed | 7.00% | ~250 |
 | Shroudfane Explorer | 7.00% | ~250 |
 | Kitted Out | 6.00% | ~214 |
-| Armaments Azure | 5.00% | ~178 |
-| Armaments Gules | 5.00% | ~178 |
+| Armaments Azure | 5.00% | ~179 |
+| Armaments Gules | 5.00% | ~179 |
 | Scholar | 4.00% | ~143 |
 | Armaments Vert | 4.00% | ~143 |
 | Veteran | 3.00% | ~107 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 971)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,570 (Ranked 230)  
+Progressed: 3,571 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,6 +169,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
 | 2024-01-21 | 3,570 | 5 |
+| 2024-01-22 | 3,571 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 565)  
 Sum: 43 (Ranked 525)  

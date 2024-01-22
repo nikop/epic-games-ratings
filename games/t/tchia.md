@@ -15,8 +15,8 @@ Rating: 4.69 (Ranked 240)
 | Audiophile | 0.60% | ~54 |
 | Shredder | 0.50% | ~45 |
 | Clay Pigeon | 0.40% | ~36 |
+| Iconoclast | 0.40% | ~36 |
 | Historian | 0.30% | ~27 |
-| Iconoclast | 0.30% | ~27 |
 | Liberator | 0.30% | ~27 |
 | Fashion Faux-Pas | 0.20% | ~18 |
 | Happy Camper | 0.20% | ~18 |
@@ -27,7 +27,7 @@ Rating: 4.69 (Ranked 240)
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,972 (Ranked 191)  
+Progressed: 8,973 (Ranked 191)  
 Completed: 36 (0.40%) (Ranked 247)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -302,6 +302,7 @@ Completed: 36 (0.40%) (Ranked 247)
 | 2024-01-19 | 8,946 | 36 |
 | 2024-01-20 | 8,956 | 36 |
 | 2024-01-21 | 8,972 | 36 |
+| 2024-01-22 | 8,973 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

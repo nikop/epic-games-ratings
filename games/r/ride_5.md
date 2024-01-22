@@ -39,7 +39,7 @@ Rating: 4.59 (Ranked 453)
 | Still Here | 2.00% | ~73 |
 | Next Level | 1.00% | ~37 |
 | I Don't Stop | 1.00% | ~37 |
-| Exhausted but Happy | 0.70% | ~26 |
+| Exhausted but Happy | 0.80% | ~29 |
 | In Search of Perfection | 0.70% | ~26 |
 | Globe-trotter | 0.40% | ~15 |
 | Breathtaking Views | 0.30% | ~11 |

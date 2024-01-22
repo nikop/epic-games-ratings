@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 227,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
     "PcReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -20191,9 +20191,9 @@
       "ID": "17_Transformation",
       "SetID": "989of5o",
       "Name": "Transformation",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 666
+      "UsersEstimate": 800
     },
     {
       "ID": "18_MythicChoices",
@@ -21005,8 +21005,8 @@
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-21T05:00:20.592995+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:11:01.22917+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:18.3566504+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-22T00:00:36.0724066+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:11:01.2293524+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:54:09.097369+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:18.3568079+00:00"
 }

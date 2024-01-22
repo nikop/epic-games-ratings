@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48050,
+  "EOS_Progressed": 48052,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 596,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15021,6 +15021,11 @@
       "Time": "2024-01-22T00:10:04.5429271+00:00",
       "NumProgressed": 48050,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-22T02:04:37.9016998+00:00",
+      "NumProgressed": 48052,
+      "NumCompleted": 248
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15041,7 +15046,7 @@
       "Name": "The Flawed Teacher",
       "Percentage": 13,
       "XP": 120,
-      "UsersEstimate": 6246
+      "UsersEstimate": 6247
     },
     {
       "ID": "ACH_CUBEKILLER",
@@ -15105,7 +15110,7 @@
       "Name": "King of the Collectables",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_DLC2BRONZE",
@@ -15113,7 +15118,7 @@
       "Name": "Competent Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_DLC2COMPLETE",
@@ -15121,7 +15126,7 @@
       "Name": "Puzzle Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_DLC2EXIT",
@@ -15129,7 +15134,7 @@
       "Name": "Coming Home",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_DLC2GOLD",
@@ -15137,7 +15142,7 @@
       "Name": "Master Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_DLC2MAXPOINTS",
@@ -15145,7 +15150,7 @@
       "Name": "QUBE Master",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_DLC2SILVER",
@@ -15153,7 +15158,7 @@
       "Name": "Expert Collector",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 480
+      "UsersEstimate": 481
     },
     {
       "ID": "ACH_DLC2TUTORIAL",
@@ -15193,7 +15198,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24986
+      "UsersEstimate": 24987
     },
     {
       "ID": "ACH_PEAK",
@@ -15217,7 +15222,7 @@
       "Name": "The Truthful Enemy",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "ACH_S1",
@@ -15225,7 +15230,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32674
+      "UsersEstimate": 32675
     },
     {
       "ID": "ACH_S4",
@@ -15233,7 +15238,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 24025
+      "UsersEstimate": 24026
     },
     {
       "ID": "ACH_S5",
@@ -15241,7 +15246,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 17778
+      "UsersEstimate": 17779
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -15249,7 +15254,7 @@
       "Name": "Lost in Space",
       "Percentage": 75,
       "XP": 30,
-      "UsersEstimate": 36038
+      "UsersEstimate": 36039
     },
     {
       "ID": "ACH_STATUE",
@@ -15264,15 +15269,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48050,
+      "Progressed": 48052,
       "Completed": 248
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:10:04.5429267+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:04:37.9016995+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:58:45.3322159+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:10:04.5430149+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:52:59.131488+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:04:37.9017866+00:00"
 }

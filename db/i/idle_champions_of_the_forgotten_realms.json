@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 83,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9745,9 +9745,9 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255115,
+  "EOS_Progressed": 255129,
   "EOS_Completed": 2629,
-  "EOS_NewPlayers": 1148,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41145,6 +41145,11 @@
       "Time": "2024-01-22T00:11:06.1220365+00:00",
       "NumProgressed": 255115,
       "NumCompleted": 2629
+    },
+    {
+      "Time": "2024-01-22T02:05:21.9071502+00:00",
+      "NumProgressed": 255129,
+      "NumCompleted": 2629
     }
   ],
   "TotalAchievements": 546,
@@ -41524,7 +41529,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "objective_completed_110",
@@ -42340,7 +42345,7 @@
       "Name": "Low Initiative",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "objective_completed_164",
@@ -42380,7 +42385,7 @@
       "Name": "Building Trust",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "objective_completed_17",
@@ -42492,7 +42497,7 @@
       "Name": "No Time To Rest",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "objective_completed_208",
@@ -42828,7 +42833,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "objective_completed_34",
@@ -43028,7 +43033,7 @@
       "Name": "Useless Allies",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "objective_completed_400",
@@ -43644,7 +43649,7 @@
       "Name": "Running of the Saurs",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "objective_completed_590",
@@ -44300,7 +44305,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5102
+      "UsersEstimate": 5103
     },
     {
       "ID": "objective_completed_70",
@@ -44332,7 +44337,7 @@
       "Name": "Waterdeep Detours",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "objective_completed_75",
@@ -44364,7 +44369,7 @@
       "Name": "Underdeep Cartography",
       "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 1020
+      "UsersEstimate": 1021
     },
     {
       "ID": "objective_completed_8",
@@ -45523,21 +45528,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221389,
+      "Progressed": 221403,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255115,
+      "Progressed": 255129,
       "Completed": 2629
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-21T22:57:33.9043633+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:11:06.1220359+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:21.90715+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:57:33.6716514+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:11:06.1244785+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:52:13.0047011+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:21.9093792+00:00"
 }

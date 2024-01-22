@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 191,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 216,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-21T09:00:00+00:00",
     "PcReleaseDate": "2023-03-21T09:00:00+00:00",
@@ -305,7 +305,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8972,
+  "EOS_Progressed": 8973,
   "EOS_Completed": 36,
   "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
@@ -11825,6 +11825,11 @@
       "Time": "2024-01-21T22:04:40.0703609+00:00",
       "NumProgressed": 8972,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-22T01:59:24.0694457+00:00",
+      "NumProgressed": 8973,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 21,
@@ -11930,9 +11935,9 @@
       "ID": "ICONOCLAST",
       "SetID": "3cck1g6",
       "Name": "Iconoclast",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 27
+      "UsersEstimate": 36
     },
     {
       "ID": "IN_A_PINCH",
@@ -12003,7 +12008,7 @@
     {
       "ID": "3cck1g6",
       "IsBase": true,
-      "Progressed": 8972,
+      "Progressed": 8973,
       "Completed": 36
     }
   ],
@@ -12011,8 +12016,8 @@
   "FirstSeenRating": "2023-03-27T01:58:07.926038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.5163747+00:00",
   "LastChanged": "2024-01-16T21:59:20.6458805+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:05:23.9285223+00:00",
+  "LastChanged_Achievements": "2024-01-22T01:59:24.0694454+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.7072075+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:57:36.1220463+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:05:23.9285879+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:52:14.9884248+00:00",
+  "LastUpdate_Achievements": "2024-01-22T01:59:24.0695093+00:00"
 }

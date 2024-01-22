@@ -11,14 +11,14 @@ Rating: 4.63 (Ranked 358)
 | Walls Cannot Stop Us | 15.00% | ~1,093 |
 | From Friends to Family | 13.00% | ~947 |
 | Bone Peddler | 11.00% | ~801 |
-| Full Ascension | 10.00% | ~728 |
-| Magical Synergy | 10.00% | ~728 |
+| Full Ascension | 10.00% | ~729 |
+| Magical Synergy | 10.00% | ~729 |
 | There Can Only Be One! | 9.00% | ~656 |
 | Stronger Together | 9.00% | ~656 |
 | Seat of Power | 9.00% | ~656 |
 | In a Liege of Your Own | 8.00% | ~583 |
+| Intimidation Tactics | 8.00% | ~583 |
 | Valley of Wonders | 7.00% | ~510 |
-| Intimidation Tactics | 7.00% | ~510 |
 | My Final Form | 6.00% | ~437 |
 | But this one is mine | 6.00% | ~437 |
 | Return of the Wizard King | 5.00% | ~364 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 358)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,285 (Ranked 201)  
+Progressed: 7,286 (Ranked 201)  
 Completed: 8 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -310,6 +310,7 @@ Completed: 8 (0.11%) (Ranked 314)
 | 2024-01-19 | 7,273 | 8 |
 | 2024-01-20 | 7,279 | 8 |
 | 2024-01-21 | 7,285 | 8 |
+| 2024-01-22 | 7,286 | 8 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 484)  
 Sum: 240 (Ranked 407)  

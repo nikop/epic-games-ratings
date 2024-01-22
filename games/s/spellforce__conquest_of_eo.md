@@ -55,13 +55,13 @@
 | Defeat Raith | 6.00% | ~9 |
 | Defeat Undergast | 6.00% | ~9 |
 | Elynn's Tale | 6.00% | ~9 |
+| Lore's Tale | 6.00% | ~9 |
 | Master Artificer | 6.00% | ~9 |
 | Heroes | 6.00% | ~9 |
 | My Friends! | 6.00% | ~9 |
 | Balanced | 6.00% | ~9 |
 | Friend of Grey Dusk Vale | 6.00% | ~9 |
 | Defeat Yria | 5.00% | ~8 |
-| Lore's Tale | 5.00% | ~8 |
 | Misty Coast Dragonbones | 5.00% | ~8 |
 | Master Alchemist | 5.00% | ~8 |
 | Breaking the circle | 5.00% | ~8 |

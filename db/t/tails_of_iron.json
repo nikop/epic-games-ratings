@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 293,
-  "Ranking_EOS_NewCompleters": 147,
+  "Ranking_EOS_NewPlayers": 290,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2345,
+  "EOS_Progressed": 2346,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 17,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4477,6 +4477,11 @@
       "Time": "2024-01-21T20:05:05.7353029+00:00",
       "NumProgressed": 2345,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-22T01:58:58.4135655+00:00",
+      "NumProgressed": 2346,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4622,9 +4627,9 @@
       "ID": "FixTheTravellersWagon",
       "SetID": "9lj35g4",
       "Name": "Fix the Travellers Wagon",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 47
     },
     {
       "ID": "GetRangedWeapon",
@@ -4775,13 +4780,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2345,
+      "Progressed": 2346,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 986,
+      "Progressed": 987,
       "Completed": 926
     }
   ],
@@ -4789,8 +4794,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:04:45.7281443+00:00",
+  "LastChanged_Achievements": "2024-01-22T01:58:58.4135652+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.8451703+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:58:58.5259563+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:04:45.728207+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:53:07.6346308+00:00",
+  "LastUpdate_Achievements": "2024-01-22T01:58:58.4136348+00:00"
 }

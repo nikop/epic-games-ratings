@@ -6,13 +6,13 @@
 | ---- | ---------- | ----- |
 | In the Black | 54.00% | ~289 |
 | Starting Skyward | 48.00% | ~257 |
-| Grime is Not Good | 41.00% | ~219 |
+| Grime is Not Good | 41.00% | ~220 |
 | Floor Galore | 36.00% | ~193 |
-| Campaign Launch | 36.00% | ~193 |
-| Dinner Dash | 35.00% | ~187 |
+| Campaign Launch | 35.00% | ~188 |
+| Dinner Dash | 35.00% | ~188 |
 | Need a Consult | 33.00% | ~177 |
-| Upgrade Unlock | 32.00% | ~171 |
-| It's Technical | 32.00% | ~171 |
+| Upgrade Unlock | 32.00% | ~172 |
+| It's Technical | 32.00% | ~172 |
 | Proper Walls | 29.00% | ~155 |
 | Delegate Maintenance | 29.00% | ~155 |
 | Destination Destiny | 28.00% | ~150 |
@@ -20,15 +20,15 @@
 | Your Prestige is Rising | 22.00% | ~118 |
 | Potent Potables | 22.00% | ~118 |
 | Smooth Service | 22.00% | ~118 |
-| Retail Revenue | 21.00% | ~112 |
+| Retail Revenue | 21.00% | ~113 |
 | Don't Feel a Loan | 20.00% | ~107 |
-| People Mover | 19.00% | ~102 |
 | Artfully Done | 18.00% | ~96 |
+| People Mover | 18.00% | ~96 |
 | Leveled Up Shops | 18.00% | ~96 |
 | We Don't Need No Education | 18.00% | ~96 |
+| Lux Living | 17.00% | ~91 |
 | Emporium Empire | 17.00% | ~91 |
 | Get Electrified | 17.00% | ~91 |
-| Lux Living | 16.00% | ~86 |
 | Tasty Profits | 16.00% | ~86 |
 | Rehab Expert | 15.00% | ~80 |
 | Established Fame | 15.00% | ~80 |
@@ -43,10 +43,10 @@
 | Swimming in Surplus | 9.00% | ~48 |
 | Aestheticly Pleased | 8.00% | ~43 |
 | Refined Palates | 8.00% | ~43 |
-| First 100 Days | 7.00% | ~37 |
-| Plaza Plan | 7.00% | ~37 |
-| Master of Puppets | 7.00% | ~37 |
-| Phoning It In | 7.00% | ~37 |
+| First 100 Days | 7.00% | ~38 |
+| Plaza Plan | 7.00% | ~38 |
+| Master of Puppets | 7.00% | ~38 |
+| Phoning It In | 7.00% | ~38 |
 | Water Features | 6.00% | ~32 |
 | Revenue Royalty | 6.00% | ~32 |
 | Golden Opportunity | 6.00% | ~32 |
@@ -93,7 +93,7 @@
 | Mod Squad | 0.00% | ~0 |
 | Experimential Experience | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 535 (Ranked 357)  
+Progressed: 536 (Ranked 356)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -231,6 +231,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 533 | 0 |
 | 2024-01-19 | 534 | 0 |
 | 2024-01-20 | 535 | 0 |
+| 2024-01-22 | 536 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

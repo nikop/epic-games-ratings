@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 293,
   "Ranking_EOS_NewPlayers": 149,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -467,9 +467,9 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 15178,
+  "EOS_Progressed": 15179,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 297,
+  "EOS_NewPlayers": 291,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11122,6 +11122,11 @@
       "Time": "2024-01-22T00:10:48.6521771+00:00",
       "NumProgressed": 15178,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-22T02:05:08.6661066+00:00",
+      "NumProgressed": 15179,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11190,7 +11195,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "FasterThanLight",
@@ -11214,7 +11219,7 @@
       "Name": "Funeral Of The Death",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "GarbageMan",
@@ -11278,7 +11283,7 @@
       "Name": "Nasty!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 4553
+      "UsersEstimate": 4554
     },
     {
       "ID": "NoMoreTotems",
@@ -11318,7 +11323,7 @@
       "Name": "The Floor Is Lava",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "TheOldSchoolWay",
@@ -11326,7 +11331,7 @@
       "Name": "The Old-School Way",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 3946
+      "UsersEstimate": 3947
     },
     {
       "ID": "TheQuarterback",
@@ -11405,7 +11410,7 @@
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15178,
+      "Progressed": 15179,
       "Completed": 28
     }
   ],
@@ -11413,8 +11418,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-21T01:57:02.9385793+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:10:48.6521769+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:08.6661063+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:59:22.0470409+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:10:48.6522353+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:53:22.2529489+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:08.6661784+00:00"
 }

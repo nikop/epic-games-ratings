@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
   "Ranking_EOS_NewPlayers": 116,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
     "PcReleaseDate": "2020-10-08T00:00:00+00:00",
@@ -1446,9 +1446,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34073,
+  "EOS_Progressed": 34076,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 605,
+  "EOS_NewPlayers": 602,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31261,6 +31261,11 @@
       "Time": "2024-01-22T00:10:37.4367634+00:00",
       "NumProgressed": 34073,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-22T02:05:00.3680017+00:00",
+      "NumProgressed": 34076,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31280,7 +31285,7 @@
       "Name": "Ours is the Fury",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "1017",
@@ -31288,7 +31293,7 @@
       "Name": "We Do Not Sow",
       "Percentage": 6,
       "XP": 55,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "1018",
@@ -31328,7 +31333,7 @@
       "Name": "Defender of the Wall",
       "Percentage": 6,
       "XP": 60,
-      "UsersEstimate": 2044
+      "UsersEstimate": 2045
     },
     {
       "ID": "1023",
@@ -31352,7 +31357,7 @@
       "Name": "King in the North",
       "Percentage": 2,
       "XP": 110,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "1026",
@@ -31376,7 +31381,7 @@
       "Name": "The Kingsroad",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 5792
+      "UsersEstimate": 5793
     },
     {
       "ID": "1029",
@@ -31400,7 +31405,7 @@
       "Name": "Well Stocked",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 4429
+      "UsersEstimate": 4430
     },
     {
       "ID": "1032",
@@ -31408,7 +31413,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13629
+      "UsersEstimate": 13630
     },
     {
       "ID": "1033",
@@ -31416,7 +31421,7 @@
       "Name": "The Swift",
       "Percentage": 2,
       "XP": 120,
-      "UsersEstimate": 681
+      "UsersEstimate": 682
     },
     {
       "ID": "1034",
@@ -31447,15 +31452,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34073,
+      "Progressed": 34076,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-21T18:01:14.7181216+00:00",
-  "LastChanged_Achievements": "2024-01-22T00:10:37.4367628+00:00",
+  "LastChanged_Achievements": "2024-01-22T02:05:00.3680014+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-22T00:00:59.4817305+00:00",
-  "LastUpdate_Achievements": "2024-01-22T00:10:37.4369374+00:00"
+  "LastUpdate_Ratings": "2024-01-22T01:54:23.8863638+00:00",
+  "LastUpdate_Achievements": "2024-01-22T02:05:00.3681648+00:00"
 }
