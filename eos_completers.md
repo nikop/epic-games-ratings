@@ -25,11 +25,11 @@
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.70% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
 | 25 | [The Tale of Bistun](games/t/the_tale_of_bistun.md) | 17.24% |
-| 26 | [Island Cities](games/i/island_cities.md) | 16.76% |
+| 26 | [Island Cities](games/i/island_cities.md) | 16.74% |
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.49% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.48% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -56,13 +56,13 @@
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.62% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.40% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
-| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.22% |
+| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.33% |
 | 58 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.21% |
 | 59 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.18% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
 | 62 | [Scorn](games/s/scorn.md) | 6.85% |
-| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.84% |
+| 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.83% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
 | 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.45% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
@@ -75,7 +75,7 @@
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.71% |
 | 74 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.98% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.79% |
 | 79 | [Dungeons 4](games/d/dungeons_4.md) | 4.73% |
@@ -98,7 +98,7 @@
 | 96 | [The Bunker](games/t/the_bunker.md) | 3.78% |
 | 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
 | 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
-| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.62% |
+| 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.65% |
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.58% |
 | 101 | [Nova Strike](games/b/b1555bed500048b79f6fad321d5a7202.md) | 3.57% |
 | 101 | [Outbreak Endless Nightmares Restless Dreams](games/c/c43146b859f04072ab662e89587b692b.md) | 3.57% |
@@ -127,7 +127,7 @@
 | 124 | [The Complex](games/t/the_complex.md) | 2.55% |
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.53% |
 | 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
+| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
 | 129 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
 | 130 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
 | 131 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.37% |
@@ -173,9 +173,9 @@
 | 171 | [Adios](games/a/adios.md) | 1.13% |
 | 172 | [DESTRUCTURE: Among Debris](games/d/destructure__among_debris.md) | 1.12% |
 | 172 | [Party Monsterzz](games/5/563ac8b0b7d44761a068c0e23d32b7f6.md) | 1.12% |
-| 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.09% |
-| 175 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
-| 175 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
+| 174 | [Destroy All Humans!](games/d/destroy_all_humans!.md) | 1.08% |
+| 174 | [Get Together: A Coop Adventure](games/g/get_together__a_coop_adventure.md) | 1.08% |
+| 174 | [The Fabulous Fear Machine](games/t/the_fabulous_fear_machine.md) | 1.08% |
 | 177 | [Coffee Talk Episode 2 - Hibiscus and Butterfly](games/9/901880c636ef456e936d376fbe089f11.md) | 1.07% |
 | 178 | [One More Dungeon 2](games/4/46c8eccba1224195bdd112048075cc37.md) | 1.05% |
 | 179 | [Deus Ex - Mankind Divided](games/5/5c5b2b01c8ce475d86cdd2c76fd11f7b.md) | 1.03% |
@@ -270,9 +270,9 @@
 | 268 | [Snowmen](games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 0.29% |
 | 269 | [Cartel Tycoon](games/c/cartel_tycoon.md) | 0.28% |
 | 269 | [Dead Space](games/d/dead_space.md) | 0.28% |
-| 271 | [Filament](games/f/filament.md) | 0.27% |
-| 271 | [GRIME](games/g/grime.md) | 0.27% |
-| 271 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
+| 269 | [GRIME](games/g/grime.md) | 0.28% |
+| 272 | [Filament](games/f/filament.md) | 0.27% |
+| 272 | [Touch Type Tale](games/t/touch_type_tale.md) | 0.27% |
 | 274 | [A Game Of Thrones: The Board Game Digital Edition](games/a/a_game_of_thrones__the_board_game_digital_edition.md) | 0.26% |
 | 275 | [Black Widow: Recharged](games/b/black_widow__recharged.md) | 0.25% |
 | 275 | [Guacamelee! Super Turbo Championship Edition](games/f/f5d9b93771214e4cbd60506539d1cfc6.md) | 0.25% |
@@ -319,24 +319,24 @@
 | 314 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
 | 314 | [Supraland](games/s/supraland.md) | 0.11% |
 | 319 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 319 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.10% |
 | 319 | [Isonzo](games/i/isonzo.md) | 0.10% |
 | 319 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 319 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 319 | [Riverbond](games/r/riverbond.md) | 0.10% |
 | 319 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.10% |
-| 325 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
-| 325 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
-| 325 | [House Flipper](games/h/house_flipper.md) | 0.09% |
-| 325 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
-| 325 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 325 | [MythForce](games/m/mythforce.md) | 0.09% |
-| 325 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
-| 325 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 333 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.08% |
-| 333 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
-| 333 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
-| 333 | [SYNCED](games/s/synced.md) | 0.08% |
-| 333 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
+| 326 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
+| 326 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
+| 326 | [House Flipper](games/h/house_flipper.md) | 0.09% |
+| 326 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
+| 326 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 326 | [MythForce](games/m/mythforce.md) | 0.09% |
+| 326 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
+| 326 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 334 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
+| 334 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
+| 334 | [SYNCED](games/s/synced.md) | 0.08% |
+| 334 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
 | 338 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 339 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.06% |
 | 339 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
@@ -366,22 +366,22 @@
 | 364 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 0.03% |
 | 364 | [Feud](games/6/6c79fa8a8e2849e58b605f233c20a889.md) | 0.03% |
 | 364 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
+| 364 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 0.03% |
 | 364 | [Old World](games/o/old_world.md) | 0.03% |
 | 364 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
 | 364 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 364 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.03% |
 | 364 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 372 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
-| 372 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
-| 372 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 372 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 372 | [Ghostrunner](games/g/ghostrunner.md) | 0.02% |
-| 372 | [Godlike Burger](games/g/godlike_burger.md) | 0.02% |
-| 372 | [Good Company](games/g/good_company.md) | 0.02% |
-| 372 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 0.02% |
-| 372 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 372 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 372 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
+| 373 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
+| 373 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
+| 373 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 373 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 373 | [Ghostrunner](games/g/ghostrunner.md) | 0.02% |
+| 373 | [Godlike Burger](games/g/godlike_burger.md) | 0.02% |
+| 373 | [Good Company](games/g/good_company.md) | 0.02% |
+| 373 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 373 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 373 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
 | 383 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.01% |
 | 383 | [Art of Rally](games/a/art_of_rally_1.md) | 0.01% |
 | 383 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 0.01% |
