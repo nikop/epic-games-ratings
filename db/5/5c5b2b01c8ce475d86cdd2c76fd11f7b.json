@@ -2,9 +2,9 @@
   "ID": "5c5b2b01c8ce475d86cdd2c76fd11f7b",
   "Name": "Deus Ex - Mankind Divided",
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
-  "Ranking_EOS_Progress": 503,
+  "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 96,
+  "EOS_Progressed": 97,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 1.04,
+  "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
       "Time": "2023-12-13T17:03:37.7075338+00:00",
@@ -504,6 +504,11 @@
       "Time": "2024-01-21T21:05:28.1364807+00:00",
       "NumProgressed": 96,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T11:06:30.6797944+00:00",
+      "NumProgressed": 97,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-13T17:03:37.7079864+00:00",
@@ -546,7 +551,7 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "7on801h",
       "Name": "Honor Holds Us All Together",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 15,
       "UsersEstimate": 14
     },
@@ -802,7 +807,7 @@
       "ID": "NEW_ACHIEVEMENT_2_13",
       "SetID": "7on801h",
       "Name": "Adept of the Metaverse",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 14
     },
@@ -978,7 +983,7 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7on801h",
       "Name": "The Golden Ticket",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 10,
       "UsersEstimate": 13
     },
@@ -1163,20 +1168,20 @@
     {
       "ID": "7on801h",
       "IsBase": true,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 1
     },
     {
       "ID": "o6aioj",
       "IsBase": false,
-      "Progressed": 96,
+      "Progressed": 97,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:04:45.050741+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:06:30.6797939+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:32.5337791+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:59:27.0141034+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:04:45.0508042+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:01:06.4656841+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:06:30.6798566+00:00"
 }

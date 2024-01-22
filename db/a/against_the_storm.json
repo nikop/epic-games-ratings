@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 157,
   "Ranking_EOS_Completed": 296,
   "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 3865,
+  "Ranking_EOS_NewCompleters": 3866,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
     "PcReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -4055,9 +4055,9 @@
       "Count": 352
     }
   ],
-  "EOS_Progressed": 20965,
+  "EOS_Progressed": 20966,
   "EOS_Completed": 34,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": -1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -20315,6 +20315,11 @@
       "Time": "2024-01-22T10:08:38.8899865+00:00",
       "NumProgressed": 20965,
       "NumCompleted": 34
+    },
+    {
+      "Time": "2024-01-22T11:09:45.7751844+00:00",
+      "NumProgressed": 20966,
+      "NumCompleted": 34
     }
   ],
   "AchievementsAdded": "2023-11-27T14:08:39.3976941+00:00",
@@ -20727,7 +20732,7 @@
       "Name": "Abandoned Settlement",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "WinNearFrosts",
@@ -20751,7 +20756,7 @@
       "Name": "Overgrown Library",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 2096
+      "UsersEstimate": 2097
     },
     {
       "ID": "WinNearPetrified",
@@ -20798,15 +20803,15 @@
     {
       "ID": "cfbk359",
       "IsBase": true,
-      "Progressed": 20965,
+      "Progressed": 20966,
       "Completed": 34
     }
   ],
   "FirstSeen": "2022-07-22T20:26:52.7561899+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:44.0193344+00:00",
   "LastChanged": "2024-01-21T23:57:11.7855863+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:08:38.8899863+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:09:45.7751839+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.5766226+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:57:24.3304656+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:08:38.8900773+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:57:57.961366+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:09:45.7752863+00:00"
 }

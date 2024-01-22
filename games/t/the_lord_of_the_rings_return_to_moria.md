@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 732)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,107 |
-| Delving Onward | 69.00% | ~267,675 |
-| Miner's Helper | 59.00% | ~228,882 |
-| Suit Up | 54.00% | ~209,485 |
-| To the Mountain's Roots | 50.00% | ~193,968 |
-| Remains To Be Seen | 35.00% | ~135,777 |
-| Covered Head to Toe | 33.00% | ~128,019 |
-| Line of Azog, Ended | 32.00% | ~124,139 |
-| Risk a Little Real Light | 31.00% | ~120,260 |
-| Caradhras The Cruel | 19.00% | ~73,708 |
-| A Memory of this Place | 18.00% | ~69,828 |
-| False King, Deposed | 14.00% | ~54,311 |
+| Speak Friend | 82.00% | ~318,111 |
+| Delving Onward | 69.00% | ~267,679 |
+| Miner's Helper | 59.00% | ~228,885 |
+| Suit Up | 54.00% | ~209,488 |
+| To the Mountain's Roots | 50.00% | ~193,970 |
+| Remains To Be Seen | 35.00% | ~135,779 |
+| Covered Head to Toe | 33.00% | ~128,020 |
+| Line of Azog, Ended | 32.00% | ~124,141 |
+| Risk a Little Real Light | 31.00% | ~120,261 |
+| Caradhras The Cruel | 19.00% | ~73,709 |
+| A Memory of this Place | 18.00% | ~69,829 |
+| False King, Deposed | 14.00% | ~54,312 |
 | Baruk Khazâd! | 13.00% | ~50,432 |
 | Battering Ram | 13.00% | ~50,432 |
 | Shadow's Bane | 10.00% | ~38,794 |
-| Westgate Weaponcraft | 9.00% | ~34,914 |
+| Westgate Weaponcraft | 9.00% | ~34,915 |
 | Deeps Weaponcraft | 8.00% | ~31,035 |
 | Darkness Is Passing | 8.00% | ~31,035 |
 | Decked Out | 5.00% | ~19,397 |
 | Guarded from Despair | 5.00% | ~19,397 |
-| Master of All Trades | 4.00% | ~15,517 |
+| Master of All Trades | 4.00% | ~15,518 |
 | Eregion Weaponcraft | 3.00% | ~11,638 |
 | True-silver | 3.00% | ~11,638 |
 | Dimrill Weaponcraft | 3.00% | ~11,638 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 732)
 | Shielded | 1.00% | ~3,879 |
 | We're Gonna Need More Mugs | 0.20% | ~776 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,935 (Ranked 54)  
+Progressed: 387,940 (Ranked 54)  
 Completed: 389 (0.10%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 389 (0.10%) (Ranked 319)
 | 2024-01-19 | 386,746 | 375 |
 | 2024-01-20 | 387,317 | 381 |
 | 2024-01-21 | 387,836 | 387 |
-| 2024-01-22 | 387,935 | 389 |
+| 2024-01-22 | 387,940 | 389 |
 ## Awards
 Max (Great for Beginners): 987  (Ranked 168)  
 Sum: 5,672 (Ranked 142)  

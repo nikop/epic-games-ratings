@@ -5,13 +5,13 @@ Rating: 4.64 (Ranked 348)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,934 |
-| On the Top Step | 83.00% | ~15,445 |
-| Setting up for Success | 70.00% | ~13,026 |
-| Team Orders | 68.00% | ~12,654 |
-| Engineer | 46.00% | ~8,560 |
+| Getting on the Step | 91.00% | ~16,935 |
+| On the Top Step | 83.00% | ~15,446 |
+| Setting up for Success | 70.00% | ~13,027 |
+| Team Orders | 68.00% | ~12,655 |
+| Engineer | 46.00% | ~8,561 |
 | Familiar Faces | 42.00% | ~7,816 |
-| Going the Extra Mile | 36.00% | ~6,699 |
+| Going the Extra Mile | 36.00% | ~6,700 |
 | Sharing the Love | 34.00% | ~6,327 |
 | Hitting a Season | 28.00% | ~5,211 |
 | A Dozen Pieces | 25.00% | ~4,652 |
@@ -20,8 +20,8 @@ Rating: 4.64 (Ranked 348)
 | Challenge Yourself | 24.00% | ~4,466 |
 | Writing a new Chapter | 20.00% | ~3,722 |
 | Spring Cleaning | 19.00% | ~3,536 |
-| Reduce | 15.00% | ~2,791 |
-| Ups and Downs | 15.00% | ~2,791 |
+| Reduce | 15.00% | ~2,792 |
+| Ups and Downs | 15.00% | ~2,792 |
 | Crucial Combo | 13.00% | ~2,419 |
 | Reuse | 13.00% | ~2,419 |
 | Proving Them Wrong | 13.00% | ~2,419 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 348)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,609 (Ranked 165)  
+Progressed: 18,610 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 18,454 | 0 |
 | 2024-01-20 | 18,524 | 0 |
 | 2024-01-21 | 18,591 | 0 |
-| 2024-01-22 | 18,609 | 0 |
+| 2024-01-22 | 18,610 | 0 |
 ## Awards
 Max (Diverse Characters): 71  (Ranked 419)  
 Sum: 474 (Ranked 343)  

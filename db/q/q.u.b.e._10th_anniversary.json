@@ -6,9 +6,9 @@
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 202,
+  "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 27,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -366,11 +366,11 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30294,
-  "EOS_Completed": 227,
-  "EOS_NewPlayers": 701,
-  "EOS_NewCompleters": 13,
-  "EOS_Completed_Percentage": 0.75,
+  "EOS_Progressed": 30297,
+  "EOS_Completed": 229,
+  "EOS_NewPlayers": 703,
+  "EOS_NewCompleters": 15,
+  "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -11456,6 +11456,11 @@
       "Time": "2024-01-22T10:09:57.6165625+00:00",
       "NumProgressed": 30294,
       "NumCompleted": 227
+    },
+    {
+      "Time": "2024-01-22T11:11:39.8363595+00:00",
+      "NumProgressed": 30297,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 24,
@@ -11467,7 +11472,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "ACH_CollectAll",
@@ -11595,7 +11600,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10300
+      "UsersEstimate": 10301
     },
     {
       "ID": "ACH_Sector2",
@@ -11603,7 +11608,7 @@
       "Name": "Sector 2",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 9088
+      "UsersEstimate": 9089
     },
     {
       "ID": "ACH_Sector3",
@@ -11627,7 +11632,7 @@
       "Name": "Sector 5",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3938
+      "UsersEstimate": 3939
     },
     {
       "ID": "ACH_Sector6",
@@ -11635,7 +11640,7 @@
       "Name": "Sector 6",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 3332
+      "UsersEstimate": 3333
     },
     {
       "ID": "ACH_Sector7",
@@ -11658,16 +11663,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30294,
-      "Completed": 227
+      "Progressed": 30297,
+      "Completed": 229
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:09:57.6165623+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:11:39.8363589+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:00:20.3644396+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:09:57.6166117+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:03:10.5265991+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:11:39.8364297+00:00"
 }

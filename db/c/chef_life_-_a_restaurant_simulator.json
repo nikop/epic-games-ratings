@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1038,
+  "EOS_Progressed": 1039,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4484,6 +4484,11 @@
       "Time": "2024-01-21T07:10:56.2341531+00:00",
       "NumProgressed": 1038,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T11:11:39.1936914+00:00",
+      "NumProgressed": 1039,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4671,7 +4676,7 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "Packing20",
@@ -4751,7 +4756,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "TrattoriaSet",
@@ -4814,7 +4819,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1038,
+      "Progressed": 1039,
       "Completed": 0
     }
   ],
@@ -4822,8 +4827,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:09:57.2147363+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:11:39.1936908+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.8599474+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:59:17.3225339+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:09:57.2147704+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:00:53.3111671+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:11:39.1937393+00:00"
 }

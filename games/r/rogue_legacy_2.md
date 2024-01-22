@@ -23,13 +23,13 @@ Number of Ratings: 1,331  (23.09.2022)
 | For Justice | 0.70% | ~199 |
 | Good Boy! | 0.70% | ~199 |
 | For Survival | 0.50% | ~142 |
+| For Wrath | 0.40% | ~114 |
 | For Love | 0.40% | ~114 |
 | K.O. | 0.40% | ~114 |
 | Just the Beginning | 0.40% | ~114 |
 | Wasted Betrayal | 0.40% | ~114 |
 | Jack of all Trades | 0.40% | ~114 |
 | Color Coordination | 0.40% | ~114 |
-| For Wrath | 0.30% | ~85 |
 | For Pride | 0.30% | ~85 |
 | Maybe Wax Doesn't Melt | 0.30% | ~85 |
 | Black-shoppe | 0.20% | ~57 |
@@ -46,7 +46,7 @@ Number of Ratings: 1,331  (23.09.2022)
 | Thanatwophobia | 0.00% | ~0 |
 | Rogue Rogue Legacy | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 28,475 (Ranked 147)  
+Progressed: 28,476 (Ranked 147)  
 Completed: 35 (0.12%) (Ranked 313)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 35 (0.12%) (Ranked 313)
 | 2024-01-19 | 28,433 | 35 |
 | 2024-01-20 | 28,446 | 35 |
 | 2024-01-21 | 28,466 | 35 |
-| 2024-01-22 | 28,475 | 35 |
+| 2024-01-22 | 28,476 | 35 |
 ## Awards
 Max (Extremely Fun): 227  (Ranked 291)  
 Sum: 1,572 (Ranked 247)  

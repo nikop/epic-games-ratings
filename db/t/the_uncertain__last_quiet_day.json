@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 343,
   "Ranking_EOS_Completed": 111,
-  "Ranking_EOS_NewPlayers": 401,
+  "Ranking_EOS_NewPlayers": 380,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-04-29T14:00:00+00:00",
@@ -39,9 +39,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 649,
+  "EOS_Progressed": 650,
   "EOS_Completed": 20,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 3.08,
   "EosHistory": [
@@ -1179,6 +1179,11 @@
       "Time": "2024-01-21T11:10:37.2347406+00:00",
       "NumProgressed": 649,
       "NumCompleted": 20
+    },
+    {
+      "Time": "2024-01-22T11:11:47.7374877+00:00",
+      "NumProgressed": 650,
+      "NumCompleted": 20
     }
   ],
   "TotalAchievements": 32,
@@ -1214,7 +1219,7 @@
       "Name": "Buckle up",
       "Percentage": 59,
       "XP": 50,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "CONCRETE_PAINTING",
@@ -1262,7 +1267,7 @@
       "Name": "Goody",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 110
+      "UsersEstimate": 111
     },
     {
       "ID": "HACKER",
@@ -1270,7 +1275,7 @@
       "Name": "Hacker",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "HANDS_UP",
@@ -1278,7 +1283,7 @@
       "Name": "Hands up!",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "HAPPY_HALLOWEEN",
@@ -1286,7 +1291,7 @@
       "Name": "Trick or Treat?",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 149
+      "UsersEstimate": 150
     },
     {
       "ID": "HE_IS_JUST_A_CHILD",
@@ -1294,7 +1299,7 @@
       "Name": "He is just a child",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     },
     {
       "ID": "HIPSTER",
@@ -1302,7 +1307,7 @@
       "Name": "Hipster",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 98
     },
     {
       "ID": "I_CAN_DO_A_THING_OR_TWO",
@@ -1310,7 +1315,7 @@
       "Name": "I can do a thing or two",
       "Percentage": 60,
       "XP": 25,
-      "UsersEstimate": 389
+      "UsersEstimate": 390
     },
     {
       "ID": "LUCKY_DOG",
@@ -1326,7 +1331,7 @@
       "Name": "Meticulous",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "NOT_CLUMSY",
@@ -1350,7 +1355,7 @@
       "Name": "Now you know",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "PERFECT_HEARING",
@@ -1382,7 +1387,7 @@
       "Name": "Quick charge",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 383
+      "UsersEstimate": 384
     },
     {
       "ID": "SHORT_CIRCUIT",
@@ -1390,7 +1395,7 @@
       "Name": "Short circuit",
       "Percentage": 52,
       "XP": 25,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "SILENT",
@@ -1438,14 +1443,14 @@
       "Name": "The Walking Robot Among Us",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 123
+      "UsersEstimate": 124
     }
   ],
   "AchievementSets": [
     {
       "ID": "2iigf77",
       "IsBase": true,
-      "Progressed": 649,
+      "Progressed": 650,
       "Completed": 20
     }
   ],
@@ -1453,8 +1458,8 @@
   "FirstSeenRating": "2023-03-31T05:58:48.8443798+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:50.2411779+00:00",
   "LastChanged": "2023-12-08T04:01:04.3643054+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:10:03.6978453+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:11:47.7374873+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.552059+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:57:53.0849137+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:10:03.6978674+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:58:42.309048+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:11:47.7375151+00:00"
 }

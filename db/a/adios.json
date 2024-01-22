@@ -5,7 +5,7 @@
   "Ranking_Rating": 1106,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 109,
+  "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 29,
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84169,
+  "EOS_Progressed": 84170,
   "EOS_Completed": 947,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31072,6 +31072,11 @@
       "Time": "2024-01-22T10:05:24.2759838+00:00",
       "NumProgressed": 84169,
       "NumCompleted": 947
+    },
+    {
+      "Time": "2024-01-22T11:07:28.1303261+00:00",
+      "NumProgressed": 84170,
+      "NumCompleted": 947
     }
   ],
   "TotalAchievements": 25,
@@ -31123,7 +31128,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15150
+      "UsersEstimate": 15151
     },
     {
       "ID": "Butcher",
@@ -31187,7 +31192,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17675
+      "UsersEstimate": 17676
     },
     {
       "ID": "Meaty",
@@ -31282,7 +31287,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84169,
+      "Progressed": 84170,
       "Completed": 947
     }
   ],
@@ -31290,8 +31295,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:05:24.2759834+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:07:28.1303256+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:57:42.786+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:05:24.2761446+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:58:25.9446202+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:07:28.1304728+00:00"
 }

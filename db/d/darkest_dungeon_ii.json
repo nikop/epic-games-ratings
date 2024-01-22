@@ -11172,9 +11172,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133464,
+  "EOS_Progressed": 133470,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41032,6 +41032,11 @@
       "Time": "2024-01-22T10:10:04.3434292+00:00",
       "NumProgressed": 133464,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T11:11:48.6543615+00:00",
+      "NumProgressed": 133470,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41059,7 +41064,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41171,7 +41176,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9342
+      "UsersEstimate": 9343
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41195,7 +41200,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41203,7 +41208,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9342
+      "UsersEstimate": 9343
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41267,7 +41272,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9342
+      "UsersEstimate": 9343
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41315,7 +41320,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41347,7 +41352,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41355,7 +41360,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41395,7 +41400,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10677
+      "UsersEstimate": 10678
     },
     {
       "ID": "hero_story_complete_all",
@@ -41419,7 +41424,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "hospital_full_service",
@@ -41435,7 +41440,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41491,7 +41496,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6673
+      "UsersEstimate": 6674
     },
     {
       "ID": "run_victory_act01",
@@ -41579,7 +41584,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1250
+      "UsersEstimate": 1251
     },
     {
       "ID": "combat_kill_collector",
@@ -41587,7 +41592,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 583
+      "UsersEstimate": 584
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41643,7 +41648,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 750
+      "UsersEstimate": 751
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41674,21 +41679,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133464,
+      "Progressed": 133470,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8333,
+      "Progressed": 8339,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-22T08:58:50.9602296+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:10:04.3434291+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:11:48.6543611+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:58:36.9173218+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:10:04.3435862+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:59:50.6412551+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:11:48.6545722+00:00"
 }

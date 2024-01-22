@@ -3047,9 +3047,9 @@
       "Count": 223
     }
   ],
-  "EOS_Progressed": 35238,
+  "EOS_Progressed": 35239,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1544,
+  "EOS_NewPlayers": 1541,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -17987,6 +17987,11 @@
       "Time": "2024-01-22T10:09:45.2973778+00:00",
       "NumProgressed": 35238,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T11:11:22.002827+00:00",
+      "NumProgressed": 35239,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -18183,7 +18188,7 @@
       "Name": "I\u0027m not dead yet",
       "Percentage": 38,
       "XP": 20,
-      "UsersEstimate": 13390
+      "UsersEstimate": 13391
     },
     {
       "ID": "Achievement_Trophy25",
@@ -18375,7 +18380,7 @@
       "Name": "Doom and gloom",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3171
+      "UsersEstimate": 3172
     },
     {
       "ID": "Achievement_Trophy49",
@@ -18486,7 +18491,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 35238,
+      "Progressed": 35239,
       "Completed": 1
     }
   ],
@@ -18494,8 +18499,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-21T22:02:52.1894083+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:09:45.2973777+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:11:22.0028265+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:49.3369443+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:02:39.8697399+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:09:45.29747+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:03:24.1961622+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:11:22.0029482+00:00"
 }

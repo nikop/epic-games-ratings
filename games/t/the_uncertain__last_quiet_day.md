@@ -5,40 +5,40 @@ Rating: 3.75 (Ranked 1,100)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I can do a thing or two | 60.00% | ~389 |
-| Buckle up | 59.00% | ~383 |
-| Quick charge | 59.00% | ~383 |
-| Hands up! | 52.00% | ~337 |
-| Now you know | 52.00% | ~337 |
-| Short circuit | 52.00% | ~337 |
+| I can do a thing or two | 60.00% | ~390 |
+| Buckle up | 59.00% | ~384 |
+| Quick charge | 59.00% | ~384 |
+| Hands up! | 52.00% | ~338 |
+| Now you know | 52.00% | ~338 |
+| Short circuit | 52.00% | ~338 |
 | Curious | 42.00% | ~273 |
 | Everybody lies | 36.00% | ~234 |
-| Trick or Treat? | 23.00% | ~149 |
+| Trick or Treat? | 23.00% | ~150 |
 | Sysadmin | 22.00% | ~143 |
 | There is another way | 22.00% | ~143 |
 | Every little helps | 21.00% | ~136 |
-| Hacker | 19.00% | ~123 |
-| He is just a child | 19.00% | ~123 |
-| The Walking Robot Among Us | 19.00% | ~123 |
+| Hacker | 19.00% | ~124 |
+| He is just a child | 19.00% | ~124 |
+| The Walking Robot Among Us | 19.00% | ~124 |
 | Annoying | 18.00% | ~117 |
 | Uncertain | 18.00% | ~117 |
-| Goody | 17.00% | ~110 |
+| Goody | 17.00% | ~111 |
 | Ace | 16.00% | ~104 |
 | Concrete painting | 16.00% | ~104 |
 | Found it! | 16.00% | ~104 |
 | Not what it seems | 16.00% | ~104 |
 | Please oh pleeease! | 16.00% | ~104 |
 | That's much better! | 16.00% | ~104 |
-| Hipster | 15.00% | ~97 |
+| Hipster | 15.00% | ~98 |
 | Not as clumsy or random | 13.00% | ~84 |
 | Blade Runner | 10.00% | ~65 |
 | Perfect hearing | 9.00% | ~58 |
-| Meticulous | 7.00% | ~45 |
+| Meticulous | 7.00% | ~46 |
 | Lucky dog | 5.00% | ~32 |
 | Accurate | 5.00% | ~32 |
 | Silent | 4.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 649 (Ranked 343)  
+Progressed: 650 (Ranked 343)  
 Completed: 20 (3.08%) (Ranked 111)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -194,6 +194,7 @@ Completed: 20 (3.08%) (Ranked 111)
 | 2024-01-17 | 648 | 19 |
 | 2024-01-19 | 649 | 19 |
 | 2024-01-21 | 649 | 20 |
+| 2024-01-22 | 650 | 20 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

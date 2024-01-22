@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 260,
   "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 326,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-05-20T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1857,
+  "EOS_Progressed": 1858,
   "EOS_Completed": 78,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 4.2,
   "EosHistory": [
@@ -4358,6 +4358,11 @@
       "Time": "2024-01-21T11:05:50.4079428+00:00",
       "NumProgressed": 1857,
       "NumCompleted": 78
+    },
+    {
+      "Time": "2024-01-22T11:08:01.6531534+00:00",
+      "NumProgressed": 1858,
+      "NumCompleted": 78
     }
   ],
   "TotalAchievements": 11,
@@ -4369,7 +4374,7 @@
       "Name": "Cutepie",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH_BloccatoInGhiacciaia",
@@ -4385,7 +4390,7 @@
       "Name": "Screwdriver",
       "Percentage": 44,
       "XP": 50,
-      "UsersEstimate": 817
+      "UsersEstimate": 818
     },
     {
       "ID": "ACH_DialogoAspettoFisico",
@@ -4401,7 +4406,7 @@
       "Name": "Is she really dead?",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 854
+      "UsersEstimate": 855
     },
     {
       "ID": "ACH_FineEV9",
@@ -4409,7 +4414,7 @@
       "Name": "Alone",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_FineGioco",
@@ -4417,7 +4422,7 @@
       "Name": "All together, again",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 631
+      "UsersEstimate": 632
     },
     {
       "ID": "ACH_PrendiTuttiOggetti",
@@ -4425,7 +4430,7 @@
       "Name": "Pack Rat",
       "Percentage": 39,
       "XP": 100,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACH_PrimoContattoIrving",
@@ -4433,7 +4438,7 @@
       "Name": "\u0022Nice\u0022 to meet you",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 1411
+      "UsersEstimate": 1412
     },
     {
       "ID": "ACH_StanzaSegreta",
@@ -4441,7 +4446,7 @@
       "Name": "Someone was here",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "ACH_SussurriHotel",
@@ -4456,15 +4461,15 @@
     {
       "ID": "7a9m7mj",
       "IsBase": true,
-      "Progressed": 1857,
+      "Progressed": 1858,
       "Completed": 78
     }
   ],
   "FirstSeen": "2022-07-22T20:17:58.034244+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:57.7032055+00:00",
   "LastChanged": "2023-11-07T11:59:02.4644389+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:05:47.1470932+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:08:01.6531529+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:52.6871318+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:02:49.6556035+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:05:47.1471203+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:03:38.3986848+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:08:01.653187+00:00"
 }

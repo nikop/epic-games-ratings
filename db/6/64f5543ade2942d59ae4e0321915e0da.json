@@ -2438,9 +2438,9 @@
       "ID": "AC_ROSCOBOSS",
       "SetID": "16i2akc",
       "Name": "Loss",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 217
+      "UsersEstimate": 222
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2477,8 +2477,8 @@
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:06:06.3632074+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:08:29.7003315+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:58:12.5822675+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:06:06.3632381+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:59:12.4831004+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:08:29.7003618+00:00"
 }

@@ -1,22 +1,22 @@
 # Disney Speedstorm
 [Store](https://store.epicgames.com/en-US/p/disney-speedstorm)  
 [View Rawdata](../../db/d/disney_speedstorm.json)  
-Rating: 4.41 (Ranked 761)  
+Rating: 4.41 (Ranked 760)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,673 |
-| IT MAKES BOOM! | 9.00% | ~36,466 |
-| EXTRA BOOST | 6.00% | ~24,310 |
+| ROOKIE | 13.00% | ~52,674 |
+| IT MAKES BOOM! | 9.00% | ~36,467 |
+| EXTRA BOOST | 6.00% | ~24,311 |
 | PROTECTED | 5.00% | ~20,259 |
 | PRO | 5.00% | ~20,259 |
 | HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,207 |
-| AGGRESSIVE RACER | 3.00% | ~12,155 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,103 |
-| TRAINING HARD | 2.00% | ~8,103 |
-| BE OUR GUEST | 2.00% | ~8,103 |
-| ACE SPEEDSTER | 2.00% | ~8,103 |
-| A TIGER'S FEAR | 2.00% | ~8,103 |
+| AGGRESSIVE RACER | 3.00% | ~12,156 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,104 |
+| TRAINING HARD | 2.00% | ~8,104 |
+| BE OUR GUEST | 2.00% | ~8,104 |
+| ACE SPEEDSTER | 2.00% | ~8,104 |
+| A TIGER'S FEAR | 2.00% | ~8,104 |
 | RELEASE THE KRAKEN | 1.00% | ~4,052 |
 | ACE BRAWLER | 1.00% | ~4,052 |
 | DEFEAT OUR CHAMPION | 1.00% | ~4,052 |
@@ -30,8 +30,8 @@ Rating: 4.41 (Ranked 761)
 | FRAMED! | 0.70% | ~2,836 |
 | ACE TRICKSTER | 0.70% | ~2,836 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405,174 (Ranked 51)  
-Completed: 1,705 (0.42%) (Ranked 245)  
+Progressed: 405,187 (Ranked 51)  
+Completed: 1,706 (0.42%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -303,10 +303,10 @@ Completed: 1,705 (0.42%) (Ranked 245)
 | 2024-01-19 | 402,662 | 1,669 |
 | 2024-01-20 | 403,816 | 1,690 |
 | 2024-01-21 | 404,898 | 1,703 |
-| 2024-01-22 | 405,174 | 1,705 |
+| 2024-01-22 | 405,187 | 1,706 |
 ## Awards
 Max (Great for Beginners): 195  (Ranked 308)  
-Sum: 1,260 (Ranked 263)  
+Sum: 1,261 (Ranked 263)  
 Diff (max vs sum): 45  
 | Award | Count |
 | ----- | ----- |
@@ -319,7 +319,7 @@ Diff (max vs sum): 45
 | This game is Highly Recommended | 94 |
 | This game is Extremely Fun | 80 |
 | This game has Competitive Players | 76 |
-| This game has Quickly Understood Controls | 67 |
+| This game has Quickly Understood Controls | 68 |
 | This game is Relaxing | 64 |
 | This game has Amazing Storytelling | 58 |
 ## Ratings History
@@ -438,3 +438,4 @@ Diff (max vs sum): 45
 | 2024-01-19 | 4.42 | 193 | 1,246 |
 | 2024-01-20 | 4.41 | 195 | 1,252 |
 | 2024-01-21 | 4.41 | 195 | 1,260 |
+| 2024-01-22 | 4.41 | 195 | 1,261 |

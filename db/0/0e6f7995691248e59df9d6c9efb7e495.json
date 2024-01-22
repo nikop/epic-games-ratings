@@ -4,7 +4,7 @@
   "ProductSlug": "the-sophisticated-art-of-friendship-ed1d26",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2024-12-31T00:00:00+00:00",
@@ -31,8 +31,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "dell3k6",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-01-22T11:11:33.1932917+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:11:33.1932898+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.3453919+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:57:59.2467881+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:09:53.0840096+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:58:52.8137587+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:11:33.193293+00:00"
 }

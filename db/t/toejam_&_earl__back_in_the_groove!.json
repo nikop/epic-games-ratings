@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 122,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-10-13T15:00:00+00:00",
@@ -226,9 +226,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 58900,
+  "EOS_Progressed": 58901,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 101,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -16276,6 +16276,11 @@
       "Time": "2024-01-22T04:05:35.0434778+00:00",
       "NumProgressed": 58900,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-22T11:07:21.325341+00:00",
+      "NumProgressed": 58901,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 49,
@@ -16319,7 +16324,7 @@
       "Name": "I Can\u0027t Believe I\u0027ve Done This",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "CantTouchThis",
@@ -16535,7 +16540,7 @@
       "Name": "Piece O\u0027 Cake",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Randomizer",
@@ -16678,7 +16683,7 @@
     {
       "ID": "8gem5jc",
       "IsBase": true,
-      "Progressed": 58900,
+      "Progressed": 58901,
       "Completed": 6
     }
   ],
@@ -16686,8 +16691,8 @@
   "FirstSeenRating": "2022-10-16T10:33:46.261917+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:30.3691813+00:00",
   "LastChanged": "2023-09-06T19:57:37.4927312+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:05:19.5829103+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:07:21.3253405+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:38.1607038+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:58:34.6872004+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:05:19.583+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:59:46.8936343+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:07:21.3254483+00:00"
 }

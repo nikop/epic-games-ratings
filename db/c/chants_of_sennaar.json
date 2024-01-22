@@ -147,7 +147,7 @@
   "Tags": [],
   "EOS_Progressed": 2948,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 165,
+  "EOS_NewPlayers": 164,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 7.8,
   "EosHistory": [
@@ -8035,9 +8035,9 @@
       "ID": "PROGRESS_ALL_RUNES",
       "SetID": "2gma9an",
       "Name": "Champollion",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 796
+      "UsersEstimate": 825
     },
     {
       "ID": "PROGRESS_FIRST_PAGE",
@@ -8108,8 +8108,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-21T16:59:53.3167431+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:05:47.0094258+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:08:01.5810726+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:58:57.1706955+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:05:47.0094917+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:00:22.2630904+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:08:01.5811302+00:00"
 }

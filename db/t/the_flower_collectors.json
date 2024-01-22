@@ -4,7 +4,7 @@
   "ProductSlug": "the-flower-collectors",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-12-18T14:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.6952566+00:00",
   "LastChanged": "2023-03-31T05:58:00.6952567+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.5189409+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:02:57.0410301+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:04:08.9609011+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:03:50.3360112+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:05:39.773983+00:00"
 }

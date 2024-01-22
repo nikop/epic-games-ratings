@@ -5,23 +5,23 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Something important | 87.00% | ~298 |
-| A piece of the story | 67.00% | ~229 |
-| It's covered up for a reason | 61.00% | ~209 |
-| Wanderer | 55.00% | ~188 |
-| Scraps of love | 53.00% | ~181 |
-| The artist’s impression | 51.00% | ~174 |
-| Do what you have to | 46.00% | ~157 |
-| Sign of weakness | 44.00% | ~150 |
-| Refuse to look | 39.00% | ~133 |
+| A piece of the story | 66.00% | ~226 |
+| It's covered up for a reason | 60.00% | ~206 |
+| Wanderer | 55.00% | ~189 |
+| Scraps of love | 53.00% | ~182 |
+| The artist’s impression | 51.00% | ~175 |
+| Do what you have to | 46.00% | ~158 |
+| Sign of weakness | 43.00% | ~147 |
+| Refuse to look | 38.00% | ~130 |
 | Face your fears | 33.00% | ~113 |
-| Finished it | 27.00% | ~92 |
+| Finished it | 27.00% | ~93 |
 | Whispers long forgotten | 19.00% | ~65 |
 | Sound Bite | 15.00% | ~51 |
 | The art of movement | 14.00% | ~48 |
-| Another perspective | 13.00% | ~44 |
-| A Slice of Life | 13.00% | ~44 |
-| Debut | 13.00% | ~44 |
-| Lights! Camera! Action! | 13.00% | ~44 |
+| Another perspective | 13.00% | ~45 |
+| A Slice of Life | 13.00% | ~45 |
+| Debut | 13.00% | ~45 |
+| Lights! Camera! Action! | 13.00% | ~45 |
 | First steps | 11.00% | ~38 |
 | Playtime | 11.00% | ~38 |
 | The tragedy unfolds | 11.00% | ~38 |
@@ -30,8 +30,8 @@
 | Breaking free | 10.00% | ~34 |
 | Casting Finished | 8.00% | ~27 |
 | Heavy Burden | 8.00% | ~27 |
+| Instinct of self-preservation | 8.00% | ~27 |
 | True Reflection | 8.00% | ~27 |
-| Instinct of self-preservation | 7.00% | ~24 |
 | Fisherman | 7.00% | ~24 |
 | Something to think about | 5.00% | ~17 |
 | I remember It Like Was Yesterday | 5.00% | ~17 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 342 (Ranked 390)  
+Progressed: 343 (Ranked 389)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,3 +146,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 334 | 0 |
 | 2024-01-19 | 337 | 0 |
 | 2024-01-20 | 342 | 0 |
+| 2024-01-22 | 343 | 0 |

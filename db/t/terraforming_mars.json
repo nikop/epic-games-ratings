@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 107,
   "Ranking_EOS_Completed": 288,
   "Ranking_EOS_NewPlayers": 104,
-  "Ranking_EOS_NewCompleters": 89,
+  "Ranking_EOS_NewCompleters": 90,
   "Store": {
     "ReleaseDate": "2022-05-05T15:00:00+00:00",
     "PcReleaseDate": "2018-10-16T00:00:00+00:00",
@@ -3599,10 +3599,16 @@
       "Rating": 4.53,
       "NumberOfAwards": 3359,
       "NumberOfAwardsMax": 545
+    },
+    {
+      "Time": "2024-01-22T11:00:59.1749674+00:00",
+      "Rating": 4.53,
+      "NumberOfAwards": 3360,
+      "NumberOfAwardsMax": 545
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3359,
+  "NumberOfAwards": 3360,
   "NumberOfAwardsMax": 545,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -3610,7 +3616,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 524
+      "Count": 525
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3661,7 +3667,7 @@
       "Count": 266
     }
   ],
-  "EOS_Progressed": 91477,
+  "EOS_Progressed": 91481,
   "EOS_Completed": 186,
   "EOS_NewPlayers": 799,
   "EOS_NewCompleters": 2,
@@ -34681,6 +34687,11 @@
       "Time": "2024-01-22T10:06:16.4200102+00:00",
       "NumProgressed": 91477,
       "NumCompleted": 186
+    },
+    {
+      "Time": "2024-01-22T11:08:44.6144185+00:00",
+      "NumProgressed": 91481,
+      "NumCompleted": 186
     }
   ],
   "TotalAchievements": 30,
@@ -34716,7 +34727,7 @@
       "Name": "New Home",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 21040
+      "UsersEstimate": 21041
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -34724,7 +34735,7 @@
       "Name": "No Longer Red",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 15551
+      "UsersEstimate": 15552
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -34732,7 +34743,7 @@
       "Name": "Landlord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10062
+      "UsersEstimate": 10063
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -34740,7 +34751,7 @@
       "Name": "Biggest Reward",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 11892
+      "UsersEstimate": 11893
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -34748,7 +34759,7 @@
       "Name": "Most Achievements",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10062
+      "UsersEstimate": 10063
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -34772,7 +34783,7 @@
       "Name": "It\u0027s a steal!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 33846
+      "UsersEstimate": 33848
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -34780,7 +34791,7 @@
       "Name": "Changing the Planet",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 25614
+      "UsersEstimate": 25615
     },
     {
       "ID": "ACHIEVEMENT_12",
@@ -34788,7 +34799,7 @@
       "Name": "Prop-M Rover",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 29273
+      "UsersEstimate": 29274
     },
     {
       "ID": "ACHIEVEMENT_13",
@@ -34812,7 +34823,7 @@
       "Name": "Curiosity",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 16466
+      "UsersEstimate": 16467
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -34820,7 +34831,7 @@
       "Name": "Beagle 2",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 21040
+      "UsersEstimate": 21041
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -34828,7 +34839,7 @@
       "Name": "Sojourner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 23784
+      "UsersEstimate": 23785
     },
     {
       "ID": "ACHIEVEMENT_18",
@@ -34844,7 +34855,7 @@
       "Name": "Winner Winner Terraformer",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 18295
+      "UsersEstimate": 18296
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -34852,7 +34863,7 @@
       "Name": "Acquired knowledge",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 10977
+      "UsersEstimate": 10978
     },
     {
       "ID": "ACHIEVEMENT_21",
@@ -34868,7 +34879,7 @@
       "Name": "Final touch",
       "Percentage": 33,
       "XP": 50,
-      "UsersEstimate": 30187
+      "UsersEstimate": 30189
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -34876,7 +34887,7 @@
       "Name": "Self-sufficient",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 15551
+      "UsersEstimate": 15552
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -34892,7 +34903,7 @@
       "Name": "Hellenic Elysium",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 10062
+      "UsersEstimate": 10063
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -34908,7 +34919,7 @@
       "Name": "Grand champion",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10062
+      "UsersEstimate": 10063
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -34916,7 +34927,7 @@
       "Name": "Master",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 16466
+      "UsersEstimate": 16467
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -34924,22 +34935,22 @@
       "Name": "Determined",
       "Percentage": 7,
       "XP": 100,
-      "UsersEstimate": 6403
+      "UsersEstimate": 6404
     }
   ],
   "AchievementSets": [
     {
       "ID": "aonc16",
       "IsBase": true,
-      "Progressed": 91477,
+      "Progressed": 91481,
       "Completed": 186
     }
   ],
   "FirstSeen": "2022-07-22T20:29:50.3990269+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:25.5883894+00:00",
-  "LastChanged": "2024-01-21T21:00:05.2535418+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:06:16.4200098+00:00",
+  "LastChanged": "2024-01-22T11:00:59.1749672+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:08:44.6144179+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:51.5564511+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:59:20.9433014+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:06:16.4201315+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:00:59.1749678+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:08:44.6146263+00:00"
 }

@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 552)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,887 |
-| Hotel California | 10.00% | ~80,806 |
-| Break A Leg | 9.00% | ~72,726 |
-| Coup de Grâce | 8.00% | ~64,645 |
-| Hazardous Materials | 8.00% | ~64,645 |
-| Git Gutte! | 7.00% | ~56,565 |
-| Apex Predator | 7.00% | ~56,565 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,565 |
-| Dr. Reed, I Presume? | 6.00% | ~48,484 |
-| Bookworm | 6.00% | ~48,484 |
-| Friends Like These | 6.00% | ~48,484 |
-| Stacking the Deck | 6.00% | ~48,484 |
-| This is My Weapon | 6.00% | ~48,484 |
-| Anger Management | 5.00% | ~40,403 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,403 |
-| But Doctor, I am Butcho | 5.00% | ~40,403 |
-| Can't Handle the Truth | 5.00% | ~40,403 |
-| Like Riding a Bike | 5.00% | ~40,403 |
+| Welcome To Hell-A | 11.00% | ~88,889 |
+| Hotel California | 10.00% | ~80,808 |
+| Break A Leg | 9.00% | ~72,727 |
+| Coup de Grâce | 8.00% | ~64,646 |
+| Hazardous Materials | 8.00% | ~64,646 |
+| Git Gutte! | 7.00% | ~56,566 |
+| Apex Predator | 7.00% | ~56,566 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,566 |
+| Dr. Reed, I Presume? | 6.00% | ~48,485 |
+| Bookworm | 6.00% | ~48,485 |
+| Friends Like These | 6.00% | ~48,485 |
+| Stacking the Deck | 6.00% | ~48,485 |
+| This is My Weapon | 6.00% | ~48,485 |
+| Anger Management | 5.00% | ~40,404 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,404 |
+| But Doctor, I am Butcho | 5.00% | ~40,404 |
+| Can't Handle the Truth | 5.00% | ~40,404 |
+| Like Riding a Bike | 5.00% | ~40,404 |
 | Making Your Mark | 4.00% | ~32,323 |
 | Perks of the Job | 4.00% | ~32,323 |
 | Slayer Squad | 4.00% | ~32,323 |
@@ -31,19 +31,19 @@ Rating: 4.54 (Ranked 552)
 | A Patton Emerges | 4.00% | ~32,323 |
 | I Am the Resurrection | 4.00% | ~32,323 |
 | Our True Nature | 4.00% | ~32,323 |
-| Whatever It Takes | 4.00% | ~5,344 |
-| Pork Chopped | 4.00% | ~5,344 |
+| Whatever It Takes | 4.00% | ~5,345 |
+| Pork Chopped | 4.00% | ~5,345 |
 | Jumbo Keyring | 3.00% | ~24,242 |
 | Humanity Distilled | 3.00% | ~24,242 |
 | Down with the Sickness | 3.00% | ~24,242 |
 | Max Headroom | 3.00% | ~24,242 |
 | Go, Bobcats! | 3.00% | ~24,242 |
-| One of Us | 3.00% | ~4,008 |
-| Smorgasbord | 2.00% | ~16,161 |
-| Not Even My Final Form | 2.00% | ~16,161 |
-| Internet Famous | 2.00% | ~16,161 |
-| Variety is the Spice of Death | 2.00% | ~16,161 |
-| Rising Star | 2.00% | ~16,161 |
+| One of Us | 3.00% | ~4,009 |
+| Smorgasbord | 2.00% | ~16,162 |
+| Not Even My Final Form | 2.00% | ~16,162 |
+| Internet Famous | 2.00% | ~16,162 |
+| Variety is the Spice of Death | 2.00% | ~16,162 |
+| Rising Star | 2.00% | ~16,162 |
 | Make it So | 1.00% | ~8,081 |
 | LA Influential | 1.00% | ~8,081 |
 | On Safari | 1.00% | ~8,081 |
@@ -57,8 +57,8 @@ Rating: 4.54 (Ranked 552)
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,065 (Ranked 23)  
-Completed: 2,620 (0.32%) (Ranked 261)  
+Progressed: 808,079 (Ranked 23)  
+Completed: 2,621 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -334,10 +334,10 @@ Completed: 2,620 (0.32%) (Ranked 261)
 | 2024-01-19 | 806,486 | 2,606 |
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
-| 2024-01-22 | 808,065 | 2,620 |
+| 2024-01-22 | 808,079 | 2,621 |
 ## Awards
 Max (Great Boss Battles): 10,767  (Ranked 40)  
-Sum: 16,557 (Ranked 68)  
+Sum: 16,566 (Ranked 68)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -347,8 +347,8 @@ Diff (max vs sum): -28
 | This game has Quickly Understood Controls | 752 |
 | This game is Relaxing | 712 |
 | This game has Amazing Storytelling | 701 |
-| This game is Highly Recommended | 693 |
-| This game is Extremely Fun | 665 |
+| This game is Highly Recommended | 697 |
+| This game is Extremely Fun | 670 |
 | This game has Amazing Characters | 626 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -629,4 +629,4 @@ Diff (max vs sum): -28
 | 2024-01-19 | 4.54 | 10,659 | 16,370 |
 | 2024-01-20 | 4.54 | 10,713 | 16,454 |
 | 2024-01-21 | 4.54 | 10,767 | 16,552 |
-| 2024-01-22 | 4.54 | 10,767 | 16,557 |
+| 2024-01-22 | 4.54 | 10,767 | 16,566 |

@@ -9,7 +9,7 @@ Rating: 4.00 (Ranked 1,057)
 | Electrician | 33.00% | ~630 |
 | Fear my botany powers, Mars | 32.00% | ~611 |
 | Occupy Mars! | 31.00% | ~592 |
-| Zero Waste | 29.00% | ~554 |
+| Zero Waste | 30.00% | ~573 |
 | Bob The Builder | 29.00% | ~554 |
 | I am the greatest botanist on this planet. | 28.00% | ~535 |
 | Gardener | 26.00% | ~496 |

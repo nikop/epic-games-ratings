@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 109,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-02-17T06:00:00+00:00",
@@ -10298,10 +10298,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 8660,
       "NumberOfAwardsMax": 2314
+    },
+    {
+      "Time": "2024-01-22T10:57:52.5114816+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 8666,
+      "NumberOfAwardsMax": 2314
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8660,
+  "NumberOfAwards": 8666,
   "NumberOfAwardsMax": 2314,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -10327,7 +10333,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 528
+      "Count": 529
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -10357,13 +10363,13 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 555
+      "Count": 557
     },
     {
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 501
+      "Count": 504
     },
     {
       "Text": "This game has a Creative Community",
@@ -10395,8 +10401,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:31.8340221+00:00",
-  "LastChanged": "2024-01-22T04:57:33.319214+00:00",
+  "LastChanged": "2024-01-22T10:57:52.5114814+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.0485592+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:57:20.8140366+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:04:35.0959259+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:57:52.511482+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:06:17.8049888+00:00"
 }

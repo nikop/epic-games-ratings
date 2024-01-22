@@ -1,7 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.41 (Ranked 761)  
+Rating: 4.41 (Ranked 760)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -30,7 +30,7 @@ Rating: 4.41 (Ranked 761)
 | Squeaky Clean | 17.00% | ~130 |
 | Master Artificer | 17.00% | ~130 |
 | Kind Adventurer | 16.00% | ~122 |
-| Mermaid Killer | 15.00% | ~114 |
+| Mermaid Killer | 16.00% | ~122 |
 | Cave Master | 15.00% | ~114 |
 | Face Slapper | 15.00% | ~114 |
 | Berserker Slayer | 12.00% | ~92 |

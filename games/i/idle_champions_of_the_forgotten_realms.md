@@ -12,7 +12,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Mad Wizard | 2.00% | ~5,103 |
 | The Ring of Regeneration | 1.00% | ~2,552 |
 | Are Ya Chicken? | 1.00% | ~2,552 |
-| Were-verpowered | 0.90% | ~2,296 |
+| Were-verpowered | 0.90% | ~2,297 |
 | Seeking Allies | 0.80% | ~2,041 |
 | Mad Cow Disease | 0.80% | ~2,041 |
 | Friendly Imps | 0.80% | ~2,041 |
@@ -46,22 +46,22 @@ Number of Ratings: 9,041  (23.09.2022)
 | Misaligned in Sigil | 0.40% | ~886 |
 | Chaos Theory | 0.40% | ~886 |
 | Mind Spike | 0.40% | ~886 |
-| The Silken Swamp | 0.30% | ~765 |
-| Supply Run | 0.30% | ~765 |
-| Street War | 0.30% | ~765 |
-| March of the Undead | 0.30% | ~765 |
-| Invisible Shadows | 0.30% | ~765 |
-| The Dinner Party | 0.30% | ~765 |
-| The Botched Kidnapping | 0.30% | ~765 |
-| The Death Curse | 0.30% | ~765 |
-| Premature Betrayal | 0.30% | ~765 |
-| A Tale of Two Cities | 0.30% | ~765 |
-| Flying Monkey Skulls of Doom | 0.30% | ~765 |
-| Close Escort | 0.30% | ~765 |
-| Constant Banditry | 0.30% | ~765 |
-| Overdue Rendezvous | 0.30% | ~765 |
-| The Templar's Camp | 0.30% | ~765 |
-| Rescue in the Jungle | 0.30% | ~765 |
+| The Silken Swamp | 0.30% | ~766 |
+| Supply Run | 0.30% | ~766 |
+| Street War | 0.30% | ~766 |
+| March of the Undead | 0.30% | ~766 |
+| Invisible Shadows | 0.30% | ~766 |
+| The Dinner Party | 0.30% | ~766 |
+| The Botched Kidnapping | 0.30% | ~766 |
+| The Death Curse | 0.30% | ~766 |
+| Premature Betrayal | 0.30% | ~766 |
+| A Tale of Two Cities | 0.30% | ~766 |
+| Flying Monkey Skulls of Doom | 0.30% | ~766 |
+| Close Escort | 0.30% | ~766 |
+| Constant Banditry | 0.30% | ~766 |
+| Overdue Rendezvous | 0.30% | ~766 |
+| The Templar's Camp | 0.30% | ~766 |
+| Rescue in the Jungle | 0.30% | ~766 |
 | Pros and CONs | 0.20% | ~510 |
 | Tall Tales | 0.20% | ~443 |
 | Wet Feet | 0.20% | ~510 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,165 (Ranked 71)  
-Completed: 2,630 (1.03%) (Ranked 180)  
+Progressed: 255,168 (Ranked 71)  
+Completed: 2,630 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -830,7 +830,7 @@ Completed: 2,630 (1.03%) (Ranked 180)
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
-| 2024-01-22 | 255,165 | 2,630 |
+| 2024-01-22 | 255,168 | 2,630 |
 ## Awards
 Max (Great for Beginners): 5,810  (Ranked 75)  
 Sum: 33,605 (Ranked 41)  

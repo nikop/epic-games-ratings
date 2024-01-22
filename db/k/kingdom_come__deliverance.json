@@ -10221,9 +10221,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818642,
+  "EOS_Progressed": 818644,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1059,
+  "EOS_NewPlayers": 1055,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41576,6 +41576,11 @@
       "Time": "2024-01-22T10:10:11.8359383+00:00",
       "NumProgressed": 818642,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-22T11:11:58.0951894+00:00",
+      "NumProgressed": 818644,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41667,7 +41672,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 261965
+      "UsersEstimate": 261966
     },
     {
       "ID": "Bookworm",
@@ -41675,7 +41680,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122796
+      "UsersEstimate": 122797
     },
     {
       "ID": "Buddy",
@@ -41795,7 +41800,7 @@
       "Name": "Fighter",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "Firestarter",
@@ -41907,7 +41912,7 @@
       "Name": "Insomniac",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 106423
+      "UsersEstimate": 106424
     },
     {
       "ID": "Judas",
@@ -41995,7 +42000,7 @@
       "Name": "Mercenary\u0027s Honour",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "Merciful",
@@ -42067,7 +42072,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163728
+      "UsersEstimate": 163729
     },
     {
       "ID": "RevenantOfLedechko",
@@ -42099,7 +42104,7 @@
       "Name": "Saviour",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 5730
+      "UsersEstimate": 5731
     },
     {
       "ID": "Scrooge",
@@ -42107,7 +42112,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163728
+      "UsersEstimate": 163729
     },
     {
       "ID": "SerialKiller",
@@ -42242,15 +42247,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818642,
+      "Progressed": 818644,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-22T06:57:51.9390173+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:10:11.8359381+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:11:58.095189+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.3609649+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:57:52.9628977+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:10:11.8361139+00:00"
+  "LastUpdate_Ratings": "2024-01-22T10:58:42.1252794+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:11:58.0954071+00:00"
 }

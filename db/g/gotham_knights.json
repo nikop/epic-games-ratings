@@ -5429,9 +5429,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83163,
+  "EOS_Progressed": 83164,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 362,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31159,6 +31159,11 @@
       "Time": "2024-01-22T09:04:07.1049601+00:00",
       "NumProgressed": 83163,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-22T11:04:52.4501767+00:00",
+      "NumProgressed": 83164,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31258,7 +31263,7 @@
       "Name": "In Your Element",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 12474
+      "UsersEstimate": 12475
     },
     {
       "ID": "CHALLENGES_1",
@@ -31474,7 +31479,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28275
+      "UsersEstimate": 28276
     },
     {
       "ID": "HARLEY_2",
@@ -31498,7 +31503,7 @@
       "Name": "Universal Health Scare",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 12474
+      "UsersEstimate": 12475
     },
     {
       "ID": "HARLEY_SHOWDOWN_1",
@@ -31546,7 +31551,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21622
+      "UsersEstimate": 21623
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31657,13 +31662,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83163,
+      "Progressed": 83164,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53443,
+      "Progressed": 53444,
       "Completed": 2680
     }
   ],
@@ -31671,8 +31676,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-22T04:59:53.7141721+00:00",
-  "LastChanged_Achievements": "2024-01-22T10:03:36.8164549+00:00",
+  "LastChanged_Achievements": "2024-01-22T11:04:52.4501763+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-22T09:58:55.4497247+00:00",
-  "LastUpdate_Achievements": "2024-01-22T10:03:36.8165836+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:00:19.4019165+00:00",
+  "LastUpdate_Achievements": "2024-01-22T11:04:52.4503243+00:00"
 }
