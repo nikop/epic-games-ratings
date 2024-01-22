@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 158,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253747,
+  "EOS_Progressed": 253749,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 246,
+  "EOS_NewPlayers": 247,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24762,6 +24762,11 @@
       "Time": "2024-01-22T20:11:22.9329761+00:00",
       "NumProgressed": 253747,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-22T21:10:56.108776+00:00",
+      "NumProgressed": 253749,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24869,7 +24874,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45674
+      "UsersEstimate": 45675
     },
     {
       "ID": "curator",
@@ -24877,7 +24882,7 @@
       "Name": "Curator",
       "Percentage": 20,
       "XP": 40,
-      "UsersEstimate": 50749
+      "UsersEstimate": 50750
     },
     {
       "ID": "didYourTime",
@@ -24949,7 +24954,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134486
+      "UsersEstimate": 134487
     },
     {
       "ID": "indegestible",
@@ -24973,7 +24978,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65974
+      "UsersEstimate": 65975
     },
     {
       "ID": "justABit",
@@ -25140,7 +25145,7 @@
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253747,
+      "Progressed": 253749,
       "Completed": 6
     }
   ],
@@ -25148,8 +25153,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:11:22.9329758+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:10:56.1087757+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:03:08.7046875+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:11:22.9331531+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:02:49.0938114+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:10:56.1089175+00:00"
 }

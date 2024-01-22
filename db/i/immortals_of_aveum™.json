@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 184,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
     "PcReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -533,7 +533,7 @@
   ],
   "EOS_Progressed": 3582,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 123,
+  "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6356,9 +6356,9 @@
       "ID": "achievement_49",
       "SetID": "18al4io",
       "Name": "Soldier",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 967
+      "UsersEstimate": 1003
     },
     {
       "ID": "achievement_5",
@@ -6501,8 +6501,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:11:29.6063457+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:11:02.6433791+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:58:00.6783227+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:11:29.6063983+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:57:50.5460051+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:11:02.6434358+00:00"
 }

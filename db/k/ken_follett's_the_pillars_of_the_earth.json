@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 176,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-08-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18048,
+  "EOS_Progressed": 18049,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 160,
   "EOS_NewCompleters": 0,
@@ -18940,6 +18940,11 @@
       "Time": "2024-01-22T20:06:49.5389786+00:00",
       "NumProgressed": 18048,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-22T21:06:39.2447066+00:00",
+      "NumProgressed": 18049,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18991,7 +18996,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5775
+      "UsersEstimate": 5776
     },
     {
       "ID": "tpote_achievement_15",
@@ -19039,7 +19044,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5775
+      "UsersEstimate": 5776
     },
     {
       "ID": "tpote_achievement_20",
@@ -19271,22 +19276,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6136
+      "UsersEstimate": 6137
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18048,
+      "Progressed": 18049,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:06:49.5389783+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:06:39.2447063+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:03:38.0984174+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:06:49.5390711+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:03:20.6886395+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:06:39.2448039+00:00"
 }

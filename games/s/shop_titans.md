@@ -107,19 +107,19 @@ Number of Ratings: 12,664  (23.09.2022)
 | The Greatest Grind | 1.00% | ~1,525 |
 | All or Nothing! | 1.00% | ~1,525 |
 | Eternal Crusade | 1.00% | ~1,525 |
-| Bane of Legends | 0.90% | ~1,372 |
-| Marvels from the World Over | 0.90% | ~1,372 |
+| Bane of Legends | 0.90% | ~1,373 |
+| Marvels from the World Over | 0.90% | ~1,373 |
 | Anything not Nailed Down | 0.80% | ~1,220 |
-| Ultimate Collector | 0.70% | ~1,067 |
-| Unleashed Potential | 0.70% | ~1,067 |
-| JACKPOT!!! | 0.70% | ~1,067 |
-| Oligarch Monarch | 0.50% | ~762 |
-| Merchant Extraordinaire | 0.50% | ~762 |
+| Ultimate Collector | 0.70% | ~1,068 |
+| Unleashed Potential | 0.70% | ~1,068 |
+| JACKPOT!!! | 0.70% | ~1,068 |
+| Oligarch Monarch | 0.50% | ~763 |
+| Merchant Extraordinaire | 0.50% | ~763 |
 | To Hell and Back | 0.40% | ~610 |
 | Cash Only Please | 0.40% | ~610 |
-| Capitalist Camaraderie | 0.30% | ~457 |
+| Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,497 (Ranked 87)  
+Progressed: 152,503 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-19 | 152,097 | 359 |
 | 2024-01-20 | 152,267 | 360 |
 | 2024-01-21 | 152,414 | 360 |
-| 2024-01-22 | 152,497 | 360 |
+| 2024-01-22 | 152,503 | 360 |
 ## Awards
 Max (Great for Beginners): 4,973  (Ranked 83)  
 Sum: 28,039 (Ranked 52)  

@@ -5,9 +5,9 @@ Rating: 4.59 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,837 |
+| Eat My Dust | 50.00% | ~1,838 |
 | First Love | 46.00% | ~1,690 |
-| Clean Race | 45.00% | ~1,653 |
+| Clean Race | 45.00% | ~1,654 |
 | Hear That Roar! | 43.00% | ~1,580 |
 | Bitter Rivalry | 31.00% | ~1,139 |
 | Rivals to the End | 31.00% | ~1,139 |
@@ -17,10 +17,10 @@ Rating: 4.59 (Ranked 455)
 | I Want One Too! | 22.00% | ~808 |
 | Restored and Ready | 21.00% | ~772 |
 | Legendary!!! | 21.00% | ~772 |
-| Go-Faster Stripes | 18.00% | ~661 |
+| Go-Faster Stripes | 18.00% | ~662 |
 | I'm Here Too! | 15.00% | ~551 |
 | We've Just Begun | 15.00% | ~551 |
-| Is It the Right Size? | 10.00% | ~367 |
+| Is It the Right Size? | 10.00% | ~368 |
 | Stamina Star | 9.00% | ~331 |
 | Evangelist | 7.00% | ~257 |
 | Make It Your Own! | 5.00% | ~184 |
@@ -33,10 +33,10 @@ Rating: 4.59 (Ranked 455)
 | La Dolce Vita | 3.00% | ~110 |
 | Rounding Off | 3.00% | ~110 |
 | Overtaking the Master | 3.00% | ~110 |
-| Iconic! | 2.00% | ~73 |
-| I'll Be the Best! | 2.00% | ~73 |
-| Back in Blighty | 2.00% | ~73 |
-| Still Here | 2.00% | ~73 |
+| Iconic! | 2.00% | ~74 |
+| I'll Be the Best! | 2.00% | ~74 |
+| Back in Blighty | 2.00% | ~74 |
+| Still Here | 2.00% | ~74 |
 | Next Level | 1.00% | ~37 |
 | I Don't Stop | 1.00% | ~37 |
 | Exhausted but Happy | 0.80% | ~29 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 455)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,674 (Ranked 227)  
+Progressed: 3,675 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,7 +198,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 3,649 | 0 |
 | 2024-01-20 | 3,660 | 0 |
 | 2024-01-21 | 3,669 | 0 |
-| 2024-01-22 | 3,674 | 0 |
+| 2024-01-22 | 3,675 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

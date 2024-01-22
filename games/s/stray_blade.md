@@ -9,7 +9,7 @@
 | Welcome to the Club | 12.00% | ~20 |
 | A new World ahead | 11.00% | ~19 |
 | Don't Cry Wolf | 10.00% | ~17 |
-| Apprentice | 7.00% | ~12 |
+| Apprentice | 6.00% | ~10 |
 | Craftsmen | 5.00% | ~8 |
 | Freezing Cold | 5.00% | ~8 |
 | Locked and Loaded | 5.00% | ~8 |
@@ -57,7 +57,7 @@
 | Whispers of the Sand | 0.00% | ~0 |
 | Lost and Found | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169 (Ranked 454)  
+Progressed: 170 (Ranked 454)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -172,6 +172,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-15 | 167 | 0 |
 | 2024-01-17 | 168 | 0 |
 | 2024-01-21 | 169 | 0 |
+| 2024-01-22 | 170 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

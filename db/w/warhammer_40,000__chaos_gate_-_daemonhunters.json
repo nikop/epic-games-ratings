@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 342,
   "Ranking_EOS_Progress": 223,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 252,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-05-05T14:00:00+00:00",
     "PcReleaseDate": "2022-05-05T14:00:00+00:00",
@@ -891,9 +891,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 3930,
+  "EOS_Progressed": 3931,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6176,6 +6176,11 @@
       "Time": "2024-01-22T20:06:21.9312982+00:00",
       "NumProgressed": 3930,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T21:06:11.0678252+00:00",
+      "NumProgressed": 3931,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 68,
@@ -6275,7 +6280,7 @@
       "Name": "Honoured Battle-Brother",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "ExtractorSkullUses",
@@ -6451,7 +6456,7 @@
       "Name": "The Emperor Protects",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "MasterCraftLevel3_Melee",
@@ -6730,21 +6735,21 @@
     {
       "ID": "2im8phi",
       "IsBase": false,
-      "Progressed": 3930,
+      "Progressed": 3931,
       "Completed": 0
     },
     {
       "ID": "3jha1np",
       "IsBase": true,
-      "Progressed": 3930,
+      "Progressed": 3931,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:25:10.4681645+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:23.1516473+00:00",
   "LastChanged": "2024-01-21T02:01:56.8630375+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:06:21.9312978+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:06:11.0678249+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:45.6909367+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:03:59.6712976+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:06:21.9313761+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:03:42.1579994+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:06:11.0679117+00:00"
 }

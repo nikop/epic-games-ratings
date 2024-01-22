@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 279,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8293,9 +8293,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152497,
+  "EOS_Progressed": 152503,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 1191,
+  "EOS_NewPlayers": 1190,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37763,6 +37763,11 @@
       "Time": "2024-01-22T20:10:23.4224878+00:00",
       "NumProgressed": 152497,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-22T21:09:54.2466165+00:00",
+      "NumProgressed": 152503,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -37926,7 +37931,7 @@
       "Name": "Bane of Legends",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "champions01",
@@ -37998,7 +38003,7 @@
       "Name": "Ultimate Collector",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "commonres01",
@@ -38070,7 +38075,7 @@
       "Name": "Oligarch Monarch",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "damage01",
@@ -38118,7 +38123,7 @@
       "Name": "Unleashed Potential",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "energy01",
@@ -38310,7 +38315,7 @@
       "Name": "Capitalist Camaraderie",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 457
+      "UsersEstimate": 458
     },
     {
       "ID": "hemma_a",
@@ -38342,7 +38347,7 @@
       "Name": "JACKPOT!!!",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 1067
+      "UsersEstimate": 1068
     },
     {
       "ID": "legenchant01",
@@ -38382,7 +38387,7 @@
       "Name": "Merchant Extraordinaire",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "lilu_a",
@@ -38534,7 +38539,7 @@
       "Name": "Marvels from the World Over",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 1372
+      "UsersEstimate": 1373
     },
     {
       "ID": "rudo_a",
@@ -38669,15 +38674,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152497,
+      "Progressed": 152503,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-22T09:03:38.5579473+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:10:23.4224875+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:09:54.246616+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:04:05.3807183+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:10:23.4227685+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:03:47.8500837+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:09:54.2468941+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 111,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 138,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5367,10 +5367,16 @@
       "Rating": 4.19,
       "NumberOfAwards": 5545,
       "NumberOfAwardsMax": 3243
+    },
+    {
+      "Time": "2024-01-22T21:00:11.044802+00:00",
+      "Rating": 4.19,
+      "NumberOfAwards": 5548,
+      "NumberOfAwardsMax": 3243
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5545,
+  "NumberOfAwards": 5548,
   "NumberOfAwardsMax": 3243,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5402,7 +5408,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 279
+      "Count": 282
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5437,7 +5443,7 @@
   ],
   "EOS_Progressed": 83179,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 360,
+  "EOS_NewPlayers": 355,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31711,9 +31717,9 @@
   "FirstSeen": "2022-10-21T19:30:44.6573238+00:00",
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
-  "LastChanged": "2024-01-22T15:59:53.462051+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:04:57.424491+00:00",
+  "LastChanged": "2024-01-22T21:00:11.0448018+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:04:43.0581837+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:00:22.0389179+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:04:57.4246398+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:00:11.0448024+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:04:43.0583417+00:00"
 }

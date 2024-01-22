@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 195,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
     "PcReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -579,7 +579,7 @@
       "Count": 67
     }
   ],
-  "EOS_Progressed": 6537,
+  "EOS_Progressed": 6538,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 89,
   "EOS_NewCompleters": 0,
@@ -10244,6 +10244,11 @@
       "Time": "2024-01-22T19:05:05.4706229+00:00",
       "NumProgressed": 6537,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-22T21:06:17.4444443+00:00",
+      "NumProgressed": 6538,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -10351,7 +10356,7 @@
       "Name": "Keep \u0027Em Coming",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 4314
+      "UsersEstimate": 4315
     },
     {
       "ID": "ACH_KILL_QUEENS",
@@ -10367,7 +10372,7 @@
       "Name": "Call Me Snake",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 3530
+      "UsersEstimate": 3531
     },
     {
       "ID": "ACH_KILL_XENOS",
@@ -10375,7 +10380,7 @@
       "Name": "Cleaning Lethe, One Nest At A Time",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 3791
+      "UsersEstimate": 3792
     },
     {
       "ID": "ACH_LURE_QUEEN",
@@ -10463,7 +10468,7 @@
       "Name": "Harper\u0027s Hell",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 2549
+      "UsersEstimate": 2550
     },
     {
       "ID": "ACH_MISSION_04",
@@ -10487,7 +10492,7 @@
       "Name": "Living Nightmare",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1830
+      "UsersEstimate": 1831
     },
     {
       "ID": "ACH_MISSION_07",
@@ -10527,7 +10532,7 @@
       "Name": "Excavating The Truth",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "ACH_MISSION_12",
@@ -10559,7 +10564,7 @@
       "Name": "This Is Hayes, Pioneer Station, Signing Off",
       "Percentage": 77,
       "XP": 5,
-      "UsersEstimate": 5033
+      "UsersEstimate": 5034
     },
     {
       "ID": "ACH_SAVE_MARINE_BLEEDING",
@@ -10583,7 +10588,7 @@
       "Name": "Damn Dude, You Gotta Lose Some Weight!",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "ACH_SENTRY_KILLS",
@@ -10591,7 +10596,7 @@
       "Name": "Recouped Investment",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 2157
+      "UsersEstimate": 2158
     },
     {
       "ID": "ACH_UNLOCK_APC",
@@ -10607,14 +10612,14 @@
       "Name": "The Shrink Hates Me",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 3203
+      "UsersEstimate": 3204
     }
   ],
   "AchievementSets": [
     {
       "ID": "816efe",
       "IsBase": true,
-      "Progressed": 6537,
+      "Progressed": 6538,
       "Completed": 3
     }
   ],
@@ -10622,8 +10627,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-18T17:01:06.8303384+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:06:28.3063749+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:06:17.4444439+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:58:52.4765824+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:06:28.3064489+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:58:41.7698697+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:06:17.44452+00:00"
 }

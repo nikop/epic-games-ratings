@@ -17,8 +17,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Mad Cow Disease | 0.80% | ~2,042 |
 | Friendly Imps | 0.80% | ~2,042 |
 | Welcome to Sigil | 0.80% | ~1,772 |
-| A Persistent Buzzing | 0.70% | ~1,786 |
-| Pure Energy | 0.70% | ~1,786 |
+| A Persistent Buzzing | 0.70% | ~1,787 |
+| Pure Energy | 0.70% | ~1,787 |
 | Fast Food | 0.70% | ~1,550 |
 | Maddening | 0.60% | ~1,531 |
 | Terror in the Dark | 0.60% | ~1,531 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,214 (Ranked 71)  
+Progressed: 255,218 (Ranked 71)  
 Completed: 2,633 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -830,16 +830,16 @@ Completed: 2,633 (1.03%) (Ranked 179)
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
-| 2024-01-22 | 255,214 | 2,633 |
+| 2024-01-22 | 255,218 | 2,633 |
 ## Awards
 Max (Great for Beginners): 5,810  (Ranked 75)  
-Sum: 33,606 (Ranked 41)  
+Sum: 33,607 (Ranked 41)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,810 |
 | This game has Diverse Characters | 5,743 |
-| This game has Quickly Understood Controls | 4,918 |
+| This game has Quickly Understood Controls | 4,919 |
 | This game is Relaxing | 4,797 |
 | This game has Amazing Characters | 4,344 |
 | This game is Highly Recommended | 4,342 |
@@ -1208,4 +1208,4 @@ Diff (max vs sum): 34
 | 2024-01-19 | 4.07 | - | 5,801 | 33,572 |
 | 2024-01-20 | 4.07 | - | 5,804 | 33,584 |
 | 2024-01-21 | 4.07 | - | 5,810 | 33,602 |
-| 2024-01-22 | 4.07 | - | 5,810 | 33,606 |
+| 2024-01-22 | 4.07 | - | 5,810 | 33,607 |

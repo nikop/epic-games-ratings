@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3674,
+  "EOS_Progressed": 3675,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9195,6 +9195,11 @@
       "Time": "2024-01-22T20:08:34.1706903+00:00",
       "NumProgressed": 3674,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T21:08:04.0818182+00:00",
+      "NumProgressed": 3675,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9223,7 +9228,7 @@
       "Name": "Go-Faster Stripes",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 661
+      "UsersEstimate": 662
     },
     {
       "ID": "ML_ACHIEVEMENT_04",
@@ -9255,7 +9260,7 @@
       "Name": "Iconic!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_08",
@@ -9271,7 +9276,7 @@
       "Name": "Is It the Right Size?",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ML_ACHIEVEMENT_10",
@@ -9319,7 +9324,7 @@
       "Name": "I\u0027ll Be the Best!",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_16",
@@ -9351,7 +9356,7 @@
       "Name": "Back in Blighty",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_20",
@@ -9391,7 +9396,7 @@
       "Name": "Still Here",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "ML_ACHIEVEMENT_25",
@@ -9415,7 +9420,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1653
+      "UsersEstimate": 1654
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9503,7 +9508,7 @@
       "Name": "Eat My Dust",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1837
+      "UsersEstimate": 1838
     },
     {
       "ID": "ML_ACHIEVEMENT_39",
@@ -9598,7 +9603,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3674,
+      "Progressed": 3675,
       "Completed": 0
     }
   ],
@@ -9606,8 +9611,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:08:34.1706898+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:08:04.0818178+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:57:16.6961935+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:08:34.1707636+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:57:08.1652136+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:08:04.0818994+00:00"
 }

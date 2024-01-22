@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9707,10 +9707,16 @@
       "Rating": 4.07,
       "NumberOfAwards": 33606,
       "NumberOfAwardsMax": 5810
+    },
+    {
+      "Time": "2024-01-22T20:58:11.2922117+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33607,
+      "NumberOfAwardsMax": 5810
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33606,
+  "NumberOfAwards": 33607,
   "NumberOfAwardsMax": 5810,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -9730,7 +9736,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 4918
+      "Count": 4919
     },
     {
       "Text": "This game is Relaxing",
@@ -9757,10 +9763,10 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255214,
+  "EOS_Progressed": 255218,
   "EOS_Completed": 2633,
-  "EOS_NewPlayers": 1144,
-  "EOS_NewCompleters": 15,
+  "EOS_NewPlayers": 1142,
+  "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -41242,6 +41248,11 @@
       "Time": "2024-01-22T20:11:44.1163234+00:00",
       "NumProgressed": 255214,
       "NumCompleted": 2633
+    },
+    {
+      "Time": "2024-01-22T21:11:18.1384521+00:00",
+      "NumProgressed": 255218,
+      "NumCompleted": 2633
     }
   ],
   "TotalAchievements": 546,
@@ -42229,7 +42240,7 @@
       "Name": "A Persistent Buzzing",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "objective_completed_130",
@@ -44997,7 +45008,7 @@
       "Name": "Pure Energy",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1786
+      "UsersEstimate": 1787
     },
     {
       "ID": "objective_completed_902",
@@ -45620,21 +45631,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221488,
+      "Progressed": 221492,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255214,
+      "Progressed": 255218,
       "Completed": 2633
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-22T15:58:01.1112582+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:11:44.1163232+00:00",
+  "LastChanged": "2024-01-22T20:58:11.2922116+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:11:18.1384517+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:58:21.8420032+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:11:44.1186555+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:58:11.2922121+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:11:18.1406457+00:00"
 }

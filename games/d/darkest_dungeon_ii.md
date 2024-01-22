@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,256 |
+| Malpractice Assurance | 15.00% | ~1,257 |
 | Lost and Found | 9.00% | ~754 |
-| Autodidact | 8.00% | ~10,680 |
-| This Belongs in a Museum | 7.00% | ~9,345 |
-| Creep and Sleep | 7.00% | ~9,345 |
-| Overdue Notice | 7.00% | ~9,345 |
+| Autodidact | 8.00% | ~10,681 |
+| This Belongs in a Museum | 7.00% | ~9,346 |
+| Creep and Sleep | 7.00% | ~9,346 |
+| Overdue Notice | 7.00% | ~9,346 |
 | This guy... again? | 7.00% | ~586 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,010 |
 | Serenity Now! | 6.00% | ~8,010 |
@@ -21,8 +21,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 6.00% | ~8,010 |
 | To Grandmother's House | 6.00% | ~8,010 |
 | FNG | 6.00% | ~8,010 |
-| Ploughshares to Swords | 6.00% | ~502 |
-| Bloody Graduation | 6.00% | ~502 |
+| Ploughshares to Swords | 6.00% | ~503 |
+| Bloody Graduation | 6.00% | ~503 |
 | It Rings a Bell | 5.00% | ~6,675 |
 | Not Today! | 5.00% | ~6,675 |
 | It Happens | 5.00% | ~6,675 |
@@ -76,7 +76,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | On This Long Road, We Found Redemption | 0.60% | ~50 |
 | Battle Hardened | 0.50% | ~42 |
 | Tears in the Rain | 0.40% | ~534 |
-| Maître De La Lame | 0.40% | ~33 |
+| Maître De La Lame | 0.40% | ~34 |
 | Circle of Life | 0.30% | ~401 |
 | Grand Slam | 0.30% | ~401 |
 | 20,000 Leagues Above the Sea | 0.20% | ~267 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,504 (Ranked 92)  
+Progressed: 133,508 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,504 | 5 |
+| 2024-01-22 | 133,508 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,821 (Ranked 58)  

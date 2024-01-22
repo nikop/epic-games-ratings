@@ -4,14 +4,14 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,133 |
+| Distinguished Service Medal | 90.00% | ~4,134 |
 | Spectre Inductee | 66.00% | ~3,031 |
 | Medal of Exploration I | 56.00% | ~2,572 |
 | Recruit | 53.00% | ~2,434 |
 | Search and Rescue | 51.00% | ~2,342 |
-| Quarian Ally | 49.00% | ~2,250 |
-| Honorarium of Corporate Service | 45.00% | ~2,066 |
-| Medal of Heroism | 44.00% | ~2,020 |
+| Quarian Ally | 49.00% | ~2,251 |
+| Honorarium of Corporate Service | 45.00% | ~2,067 |
+| Medal of Heroism | 44.00% | ~2,021 |
 | Turian Ally | 41.00% | ~1,883 |
 | Medal of Exploration II | 39.00% | ~1,791 |
 | Council Legion of Merit | 39.00% | ~1,791 |
@@ -21,13 +21,13 @@
 | Meritorious Service Medal | 36.00% | ~1,653 |
 | Soldier Ally | 36.00% | ~1,653 |
 | Charismatic | 36.00% | ~1,653 |
-| Very Elusive | 35.00% | ~1,607 |
-| Asari Ally | 34.00% | ~1,561 |
-| Medal of Exploration III | 32.00% | ~1,469 |
-| Principled | 32.00% | ~1,469 |
-| Colonial Savior | 32.00% | ~1,469 |
-| Merciless | 32.00% | ~1,469 |
-| Scientist | 32.00% | ~1,469 |
+| Very Elusive | 35.00% | ~1,608 |
+| Asari Ally | 34.00% | ~1,562 |
+| Medal of Exploration III | 32.00% | ~1,470 |
+| Principled | 32.00% | ~1,470 |
+| Colonial Savior | 32.00% | ~1,470 |
+| Merciless | 32.00% | ~1,470 |
+| Scientist | 32.00% | ~1,470 |
 | Paramour I | 31.00% | ~1,424 |
 | Krogan Ally | 31.00% | ~1,424 |
 | Scholar | 31.00% | ~1,424 |
@@ -35,8 +35,8 @@
 | The Archangel | 30.00% | ~1,378 |
 | The Professor | 30.00% | ~1,378 |
 | Head Hunter | 30.00% | ~1,378 |
-| Operative | 29.00% | ~1,332 |
 | The Convict | 28.00% | ~1,286 |
+| Operative | 28.00% | ~1,286 |
 | Power Full | 28.00% | ~1,286 |
 | Colony Defense | 27.00% | ~1,240 |
 | The Krogan | 27.00% | ~1,240 |
@@ -62,22 +62,22 @@
 | Treason | 22.00% | ~1,010 |
 | Big Game Hunter | 22.00% | ~1,010 |
 | Digital Exorcist | 22.00% | ~1,010 |
-| Focused | 21.00% | ~964 |
-| Archivist | 21.00% | ~964 |
-| Friend or Foe | 21.00% | ~964 |
-| Cat's in the Cradle | 21.00% | ~964 |
-| Doppelganger | 21.00% | ~964 |
-| Mobilizer | 21.00% | ~964 |
-| Untouchable | 20.00% | ~918 |
-| Giant Killer | 20.00% | ~918 |
-| Completionist | 20.00% | ~918 |
-| Mission Accomplished | 20.00% | ~918 |
-| Suicide Mission | 20.00% | ~918 |
-| Against All Odds | 20.00% | ~918 |
-| Agent | 20.00% | ~918 |
-| Eye of the Hurricane | 19.00% | ~872 |
-| A House Divided | 19.00% | ~872 |
-| World Shaker | 19.00% | ~872 |
+| Focused | 21.00% | ~965 |
+| Archivist | 21.00% | ~965 |
+| Friend or Foe | 21.00% | ~965 |
+| Cat's in the Cradle | 21.00% | ~965 |
+| Doppelganger | 21.00% | ~965 |
+| Mobilizer | 21.00% | ~965 |
+| Untouchable | 20.00% | ~919 |
+| Giant Killer | 20.00% | ~919 |
+| Completionist | 20.00% | ~919 |
+| Mission Accomplished | 20.00% | ~919 |
+| Suicide Mission | 20.00% | ~919 |
+| Against All Odds | 20.00% | ~919 |
+| Agent | 20.00% | ~919 |
+| Eye of the Hurricane | 19.00% | ~873 |
+| A House Divided | 19.00% | ~873 |
+| World Shaker | 19.00% | ~873 |
 | First Aid Specialist | 18.00% | ~827 |
 | Pathfinder | 18.00% | ~827 |
 | Tunnel Rat | 18.00% | ~827 |
@@ -109,13 +109,13 @@
 | Electronics Specialist | 10.00% | ~459 |
 | Combined Arms | 9.00% | ~413 |
 | Warp Mastery | 8.00% | ~367 |
-| Barrier Mastery | 7.00% | ~321 |
-| Sky High | 7.00% | ~321 |
-| Always Prepared | 7.00% | ~321 |
-| Paramour III | 7.00% | ~321 |
-| Bruiser | 7.00% | ~321 |
-| Lift Mastery | 7.00% | ~321 |
-| Overload Specialist | 7.00% | ~321 |
+| Barrier Mastery | 7.00% | ~322 |
+| Sky High | 7.00% | ~322 |
+| Always Prepared | 7.00% | ~322 |
+| Paramour III | 7.00% | ~322 |
+| Bruiser | 7.00% | ~322 |
+| Lift Mastery | 7.00% | ~322 |
+| Overload Specialist | 7.00% | ~322 |
 | Hijacker | 6.00% | ~276 |
 | Insanity I | 4.00% | ~184 |
 | Damping Specialist | 4.00% | ~184 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~41 |
 | The One and Only | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,592 (Ranked 212)  
+Progressed: 4,593 (Ranked 212)  
 Completed: 14 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -261,4 +261,4 @@ Completed: 14 (0.30%) (Ranked 264)
 | 2024-01-19 | 4,496 | 13 |
 | 2024-01-20 | 4,531 | 14 |
 | 2024-01-21 | 4,564 | 14 |
-| 2024-01-22 | 4,592 | 14 |
+| 2024-01-22 | 4,593 | 14 |

@@ -27,12 +27,12 @@ Rating: 3.67 (Ranked 1,106)
 | You Clean It Up | 5.00% | ~121 |
 | Helping Hand | 5.00% | ~121 |
 | I Spit On Your Grave | 5.00% | ~121 |
-| Sic Transit Umbra | 4.00% | ~96 |
-| Bell-ringer | 4.00% | ~96 |
-| Silence Is Golden | 4.00% | ~96 |
-| Good Morning | 4.00% | ~96 |
-| From the Shadows | 4.00% | ~96 |
-| Starve the Beast | 4.00% | ~96 |
+| Sic Transit Umbra | 4.00% | ~97 |
+| Bell-ringer | 4.00% | ~97 |
+| Silence Is Golden | 4.00% | ~97 |
+| Good Morning | 4.00% | ~97 |
+| From the Shadows | 4.00% | ~97 |
+| Starve the Beast | 4.00% | ~97 |
 | Revelations | 3.00% | ~72 |
 | Contingency Plans | 3.00% | ~72 |
 | Block Party | 3.00% | ~72 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,106)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,412 (Ranked 248)  
+Progressed: 2,413 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -226,6 +226,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 2,407 | 0 |
 | 2024-01-20 | 2,408 | 0 |
 | 2024-01-21 | 2,412 | 0 |
+| 2024-01-22 | 2,413 | 0 |
 ## Awards
 Max (Great Boss Battles): 28  (Ranked 542)  
 Sum: 28 (Ranked 558)  

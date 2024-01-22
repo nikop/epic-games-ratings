@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 37,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -7013,9 +7013,9 @@
       "ID": "STB_MISSION2B_COMPLETED",
       "SetID": "3pe2bac",
       "Name": "Clarion Cove",
-      "Percentage": 41,
+      "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1471
     },
     {
       "ID": "STB_MISSION3_COMPLETED",
@@ -7214,8 +7214,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:06:54.3496113+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:06:44.2057286+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.6014461+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:57:22.447595+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:06:54.3496765+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:57:13.8741718+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:06:44.2057956+00:00"
 }

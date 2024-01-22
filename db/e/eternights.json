@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 274,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-12T07:00:00+00:00",
     "PcReleaseDate": "2023-09-12T07:00:00+00:00",
@@ -77,9 +77,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 928,
+  "EOS_Progressed": 929,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -3502,6 +3502,11 @@
       "Time": "2024-01-22T18:09:36.8876176+00:00",
       "NumProgressed": 928,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T21:09:57.6040786+00:00",
+      "NumProgressed": 929,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3514,7 +3519,7 @@
       "Name": "New arm",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 724
+      "UsersEstimate": 725
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3544,9 +3549,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 251
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3594,7 +3599,7 @@
       "Name": "Shelter Escape",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 705
+      "UsersEstimate": 706
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3650,7 +3655,7 @@
       "Name": "The First Bond",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "ACHIEVEMENT_3_NoviceScavenger",
@@ -3658,7 +3663,7 @@
       "Name": "Novice Scavenger",
       "Percentage": 58,
       "XP": 20,
-      "UsersEstimate": 538
+      "UsersEstimate": 539
     },
     {
       "ID": "ACHIEVEMENT_4_MasterCraftsman",
@@ -3666,7 +3671,7 @@
       "Name": "Master Craftsman",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "ACHIEVEMENT_5_FirstWall",
@@ -3688,9 +3693,9 @@
       "ID": "ACHIEVEMENT_7_SecondWall",
       "SetID": "9bke6f1",
       "Name": "Second wall",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 316
+      "UsersEstimate": 307
     },
     {
       "ID": "ACHIEVEMENT_8_StoneRetriever",
@@ -3698,7 +3703,7 @@
       "Name": "Stone Retriever",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3713,7 +3718,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 928,
+      "Progressed": 929,
       "Completed": 2
     }
   ],
@@ -3721,8 +3726,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-21T16:00:00.0377056+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:10:26.8039222+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:09:57.6040781+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:02:57.4734261+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:10:26.8039532+00:00"
+  "LastUpdate_Ratings": "2024-01-22T21:02:37.4638654+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:09:57.6041335+00:00"
 }

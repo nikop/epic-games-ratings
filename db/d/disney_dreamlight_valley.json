@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -6093,7 +6093,7 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 14293,
+  "EOS_Progressed": 14294,
   "EOS_Completed": 355,
   "EOS_NewPlayers": 130,
   "EOS_NewCompleters": 4,
@@ -25988,6 +25988,11 @@
       "Time": "2024-01-22T20:10:21.3816856+00:00",
       "NumProgressed": 14293,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-22T21:09:52.2364846+00:00",
+      "NumProgressed": 14294,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 15,
@@ -26007,7 +26012,7 @@
       "Name": "Banker",
       "Percentage": 38,
       "XP": 50,
-      "UsersEstimate": 5431
+      "UsersEstimate": 5432
     },
     {
       "ID": "Bestest_Friend",
@@ -26039,7 +26044,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7146
+      "UsersEstimate": 7147
     },
     {
       "ID": "Duty_Bound",
@@ -26047,7 +26052,7 @@
       "Name": "Duty Bound",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 1143
+      "UsersEstimate": 1144
     },
     {
       "ID": "Gardener",
@@ -26063,7 +26068,7 @@
       "Name": "Generous",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 3573
+      "UsersEstimate": 3574
     },
     {
       "ID": "Goofys_Investor",
@@ -26071,7 +26076,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9719
+      "UsersEstimate": 9720
     },
     {
       "ID": "Miner",
@@ -26087,7 +26092,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9576
+      "UsersEstimate": 9577
     },
     {
       "ID": "Renovator",
@@ -26095,7 +26100,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 7146
+      "UsersEstimate": 7147
     },
     {
       "ID": "Thorn_Cleaner",
@@ -26118,7 +26123,7 @@
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14293,
+      "Progressed": 14294,
       "Completed": 355
     }
   ],
@@ -26126,8 +26131,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-22T15:59:30.1771509+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:10:21.3816854+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:09:52.2364841+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:59:56.7301758+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:10:21.381815+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:59:45.6584301+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:09:52.2366287+00:00"
 }

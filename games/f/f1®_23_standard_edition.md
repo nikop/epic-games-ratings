@@ -5,14 +5,14 @@ Rating: 4.64 (Ranked 348)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,948 |
-| On the Top Step | 83.00% | ~15,458 |
-| Setting up for Success | 70.00% | ~13,037 |
-| Team Orders | 68.00% | ~12,664 |
-| Engineer | 46.00% | ~8,567 |
+| Getting on the Step | 91.00% | ~16,949 |
+| On the Top Step | 83.00% | ~15,459 |
+| Setting up for Success | 70.00% | ~13,038 |
+| Team Orders | 68.00% | ~12,665 |
+| Engineer | 46.00% | ~8,568 |
 | Familiar Faces | 42.00% | ~7,822 |
 | Going the Extra Mile | 36.00% | ~6,705 |
-| Sharing the Love | 34.00% | ~6,332 |
+| Sharing the Love | 34.00% | ~6,333 |
 | Hitting a Season | 28.00% | ~5,215 |
 | A Dozen Pieces | 25.00% | ~4,656 |
 | Making History | 25.00% | ~4,656 |
@@ -37,7 +37,7 @@ Rating: 4.64 (Ranked 348)
 | Spinning Around | 9.00% | ~1,676 |
 | Undisputed Winner | 7.00% | ~1,304 |
 | Recycle | 7.00% | ~1,304 |
-| Tinkerer | 6.00% | ~1,117 |
+| Tinkerer | 6.00% | ~1,118 |
 | For all Those Back at the Factory | 5.00% | ~931 |
 | Living up to Expectations | 4.00% | ~745 |
 | Smooth Operator | 4.00% | ~745 |
@@ -55,7 +55,7 @@ Rating: 4.64 (Ranked 348)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,624 (Ranked 165)  
+Progressed: 18,625 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,10 +186,10 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 18,454 | 0 |
 | 2024-01-20 | 18,524 | 0 |
 | 2024-01-21 | 18,591 | 0 |
-| 2024-01-22 | 18,624 | 0 |
+| 2024-01-22 | 18,625 | 0 |
 ## Awards
 Max (Diverse Characters): 71  (Ranked 420)  
-Sum: 474 (Ranked 343)  
+Sum: 475 (Ranked 343)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -201,9 +201,9 @@ Diff (max vs sum): 77
 | This game has Quickly Understood Controls | 42 |
 | This game has Competitive Players | 42 |
 | This game has Challenging Combat | 41 |
+| This game has Amazing Storytelling | 37 |
 | This game is Educational | 37 |
 | This game is Great for Beginners | 36 |
-| This game has Amazing Storytelling | 36 |
 | This game is Great for Quick Sessions | 24 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -339,3 +339,4 @@ Diff (max vs sum): 77
 | 2024-01-19 | 4.64 | 68 | 462 |
 | 2024-01-20 | 4.64 | 69 | 467 |
 | 2024-01-21 | 4.64 | 71 | 474 |
+| 2024-01-22 | 4.64 | 71 | 475 |

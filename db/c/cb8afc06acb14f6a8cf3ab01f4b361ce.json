@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 48,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 49,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 348738,
+  "EOS_Progressed": 348754,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2815,
+  "EOS_NewPlayers": 2810,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14349,6 +14349,11 @@
       "Time": "2024-01-22T20:10:07.0184217+00:00",
       "NumProgressed": 348738,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-22T21:09:37.7956175+00:00",
+      "NumProgressed": 348754,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14361,7 +14366,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17437
+      "UsersEstimate": 17438
     },
     {
       "ID": "S02_BRDA",
@@ -14377,7 +14382,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "S04_BRDC",
@@ -14385,7 +14390,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "S05_SWRA",
@@ -14425,7 +14430,7 @@
       "Name": "Here to stay",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "S10_GRSB",
@@ -14433,7 +14438,7 @@
       "Name": "Counting on you",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "S11_MMR6",
@@ -14441,7 +14446,7 @@
       "Name": "This is the end",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "S12_ALL",
@@ -14449,7 +14454,7 @@
       "Name": "We can choose to fight",
       "Percentage": 0.6,
       "XP": 90,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "S13_ALL_HARD",
@@ -14457,7 +14462,7 @@
       "Name": "No damsels in distress",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "S14_ALL_VERYHARD",
@@ -14497,7 +14502,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17437
+      "UsersEstimate": 17438
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14553,7 +14558,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "S26_CRTA",
@@ -14585,7 +14590,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "S30_DIAMOND",
@@ -14657,7 +14662,7 @@
       "Name": "Chaos be damned!",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 697
+      "UsersEstimate": 698
     },
     {
       "ID": "S39_END_RAPTURE",
@@ -14680,7 +14685,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 348738,
+      "Progressed": 348754,
       "Completed": 7
     }
   ],
@@ -14688,8 +14693,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:10:07.0184212+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:09:37.7956173+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-22T20:00:02.3191973+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:10:07.0185222+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:59:51.3373202+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:09:37.7956965+00:00"
 }

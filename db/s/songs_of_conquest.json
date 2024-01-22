@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 401,
   "Ranking_EOS_Progress": 288,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 206,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-05-10T16:00:00+00:00",
     "PcReleaseDate": "2022-05-10T16:00:00+00:00",
@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1280,
+  "EOS_Progressed": 1282,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 74,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4422,6 +4422,11 @@
       "Time": "2024-01-22T20:10:49.20199+00:00",
       "NumProgressed": 1280,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T21:10:21.2664086+00:00",
+      "NumProgressed": 1282,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4538,7 +4543,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "Deepstrike",
@@ -4578,7 +4583,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 525
+      "UsersEstimate": 526
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4736,9 +4741,9 @@
       "ID": "TownCompletion",
       "SetID": "71c0n9i",
       "Name": "Landlord Extraordinaire",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 90
     },
     {
       "ID": "TrojanHorse",
@@ -4752,9 +4757,9 @@
       "ID": "UltraKill",
       "SetID": "71c0n9i",
       "Name": "Ultra Kill",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 38
+      "UsersEstimate": 26
     },
     {
       "ID": "WielderLevel1",
@@ -4762,7 +4767,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 602
+      "UsersEstimate": 603
     },
     {
       "ID": "WielderLevel2",
@@ -4770,7 +4775,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "WielderLevel3",
@@ -4865,15 +4870,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1280,
+      "Progressed": 1282,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:10:49.2019899+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:10:21.2664081+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:59:11.1197512+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:10:49.2020328+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:59:00.6157403+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:10:21.2664704+00:00"
 }

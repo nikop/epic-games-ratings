@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11178,9 +11178,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133504,
+  "EOS_Progressed": 133508,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 585,
+  "EOS_NewPlayers": 584,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41083,6 +41083,11 @@
       "Time": "2024-01-22T20:11:29.0125475+00:00",
       "NumProgressed": 133504,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T21:11:02.2307982+00:00",
+      "NumProgressed": 133508,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41222,7 +41227,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9346
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41254,7 +41259,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9346
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41318,7 +41323,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9345
+      "UsersEstimate": 9346
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41446,7 +41451,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10680
+      "UsersEstimate": 10681
     },
     {
       "ID": "hero_story_complete_all",
@@ -41622,7 +41627,7 @@
       "Name": "Ma\u00EEtre De La Lame",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "combat_kill_chirurgeon",
@@ -41630,7 +41635,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1256
+      "UsersEstimate": 1257
     },
     {
       "ID": "combat_kill_collector",
@@ -41678,7 +41683,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -41686,7 +41691,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 502
+      "UsersEstimate": 503
     },
     {
       "ID": "quest_complete_crusader",
@@ -41725,21 +41730,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133504,
+      "Progressed": 133508,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8373,
+      "Progressed": 8377,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-22T14:59:42.7618923+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:11:29.012547+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:11:02.2307979+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:59:53.5873471+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:11:29.0127122+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:59:42.3203336+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:11:02.2310567+00:00"
 }

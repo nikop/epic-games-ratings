@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 228,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 230,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -363,7 +363,7 @@
   ],
   "EOS_Progressed": 1461,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 46,
+  "EOS_NewPlayers": 45,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4679,9 +4679,9 @@
       "ID": "Sinner",
       "SetID": "1n308hc",
       "Name": "Sinner",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4
+      "UsersEstimate": 6
     },
     {
       "ID": "SouthernCoast",
@@ -4711,9 +4711,9 @@
       "ID": "TheAllGifted",
       "SetID": "1n308hc",
       "Name": "The All-Gifted",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 307
+      "UsersEstimate": 321
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4791,9 +4791,9 @@
       "ID": "Wanderers",
       "SetID": "1n308hc",
       "Name": "Wanderers",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 336
+      "UsersEstimate": 351
     },
     {
       "ID": "WesternDelta",
@@ -4832,8 +4832,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-22T16:58:45.5941627+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:05:21.7468921+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:05:08.4633133+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:59:05.4247548+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:05:21.7469583+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:58:54.853493+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:05:08.4633798+00:00"
 }

@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A path of no return | 96.00% | ~136 |
+| A path of no return | 97.00% | ~138 |
 | A bottomless pit | 80.00% | ~114 |
 | Pigeon | 77.00% | ~109 |
 | Baited | 66.00% | ~94 |

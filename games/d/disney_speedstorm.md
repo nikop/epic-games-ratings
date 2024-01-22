@@ -5,13 +5,13 @@ Rating: 4.41 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,712 |
-| IT MAKES BOOM! | 9.00% | ~36,493 |
-| EXTRA BOOST | 6.00% | ~24,329 |
-| PROTECTED | 5.00% | ~20,274 |
-| PRO | 5.00% | ~20,274 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,219 |
-| AGGRESSIVE RACER | 3.00% | ~12,164 |
+| ROOKIE | 13.00% | ~52,717 |
+| IT MAKES BOOM! | 9.00% | ~36,496 |
+| EXTRA BOOST | 6.00% | ~24,331 |
+| PROTECTED | 5.00% | ~20,276 |
+| PRO | 5.00% | ~20,276 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,220 |
+| AGGRESSIVE RACER | 3.00% | ~12,165 |
 | IT'S A LONG WAY TO THE TOP | 2.00% | ~8,110 |
 | TRAINING HARD | 2.00% | ~8,110 |
 | BE OUR GUEST | 2.00% | ~8,110 |
@@ -25,13 +25,13 @@ Rating: 4.41 (Ranked 760)
 | FRIENDLY | 1.00% | ~4,055 |
 | MASTER | 1.00% | ~4,055 |
 | LEGENDARY HERO | 1.00% | ~4,055 |
-| EXPERIENCED CREW | 0.90% | ~3,649 |
-| PERFECTLY POISED | 0.70% | ~2,838 |
-| FRAMED! | 0.70% | ~2,838 |
-| ACE TRICKSTER | 0.70% | ~2,838 |
+| EXPERIENCED CREW | 0.90% | ~3,650 |
+| PERFECTLY POISED | 0.70% | ~2,839 |
+| FRAMED! | 0.70% | ~2,839 |
+| ACE TRICKSTER | 0.70% | ~2,839 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405,476 (Ranked 51)  
-Completed: 1,714 (0.42%) (Ranked 245)  
+Progressed: 405,512 (Ranked 51)  
+Completed: 1,716 (0.42%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -303,10 +303,10 @@ Completed: 1,714 (0.42%) (Ranked 245)
 | 2024-01-19 | 402,662 | 1,669 |
 | 2024-01-20 | 403,816 | 1,690 |
 | 2024-01-21 | 404,898 | 1,703 |
-| 2024-01-22 | 405,476 | 1,714 |
+| 2024-01-22 | 405,512 | 1,716 |
 ## Awards
 Max (Great for Beginners): 197  (Ranked 307)  
-Sum: 1,265 (Ranked 263)  
+Sum: 1,266 (Ranked 263)  
 Diff (max vs sum): 44  
 | Award | Count |
 | ----- | ----- |
@@ -318,7 +318,7 @@ Diff (max vs sum): 44
 | This game has Amazing Characters | 97 |
 | This game is Highly Recommended | 94 |
 | This game is Extremely Fun | 80 |
-| This game has Competitive Players | 76 |
+| This game has Competitive Players | 77 |
 | This game has Quickly Understood Controls | 68 |
 | This game is Relaxing | 64 |
 | This game has Amazing Storytelling | 59 |
@@ -438,4 +438,4 @@ Diff (max vs sum): 44
 | 2024-01-19 | 4.42 | 193 | 1,246 |
 | 2024-01-20 | 4.41 | 195 | 1,252 |
 | 2024-01-21 | 4.41 | 195 | 1,260 |
-| 2024-01-22 | 4.41 | 197 | 1,265 |
+| 2024-01-22 | 4.41 | 197 | 1,266 |

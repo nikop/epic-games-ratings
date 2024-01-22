@@ -13,7 +13,7 @@ Rating: 4.43 (Ranked 734)
 | Radium Ready | 10.00% | ~23,288 |
 | Taser Goad | 9.00% | ~20,959 |
 | Half a cog | 9.00% | ~20,959 |
-| Watch them crumble | 6.00% | ~13,972 |
+| Watch them crumble | 6.00% | ~13,973 |
 | Competent Cohort | 4.00% | ~9,315 |
 | Celestial Cartography Catastrophe | 4.00% | ~9,315 |
 | One with the Machine | 4.00% | ~9,315 |
@@ -40,7 +40,7 @@ Rating: 4.43 (Ranked 734)
 | Perma-live | 0.10% | ~233 |
 | Purge the Heretek | 0.10% | ~233 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 232,875 (Ranked 78)  
+Progressed: 232,877 (Ranked 78)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -317,17 +317,17 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 232,616 | 5 |
 | 2024-01-20 | 232,710 | 5 |
 | 2024-01-21 | 232,812 | 5 |
-| 2024-01-22 | 232,875 | 5 |
+| 2024-01-22 | 232,877 | 5 |
 ## Awards
 Max (Highly Recommended): 292  (Ranked 270)  
-Sum: 2,233 (Ranked 213)  
+Sum: 2,234 (Ranked 213)  
 Diff (max vs sum): 57  
 | Award | Count |
 | ----- | ----- |
 | This game is Highly Recommended | 292 |
 | This game has Quickly Understood Controls | 289 |
 | This game is Extremely Fun | 286 |
-| This game has Amazing Characters | 278 |
+| This game has Amazing Characters | 279 |
 | This game has Diverse Characters | 270 |
 | This game has Amazing Storytelling | 252 |
 | This game is Relaxing | 246 |
@@ -458,3 +458,4 @@ Diff (max vs sum): 57
 | 2024-01-11 | 4.43 | 292 | 2,231 |
 | 2024-01-12 | 4.43 | 292 | 2,232 |
 | 2024-01-15 | 4.43 | 292 | 2,233 |
+| 2024-01-22 | 4.43 | 292 | 2,234 |

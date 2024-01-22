@@ -12,7 +12,7 @@ Rating: 4.50 (Ranked 622)
 | Fond Memories | 49.00% | ~787 |
 | A Method To His Madness | 47.00% | ~755 |
 | History Check | 46.00% | ~739 |
-| The New World | 43.00% | ~691 |
+| The New World | 44.00% | ~707 |
 | Gaze Into The Abyss | 42.00% | ~675 |
 | Open Sesame | 42.00% | ~675 |
 | Sticky Fingers | 42.00% | ~675 |
@@ -31,7 +31,7 @@ Rating: 4.50 (Ranked 622)
 | Brain Food | 30.00% | ~482 |
 | Read It And Weep | 20.00% | ~321 |
 | Curiosity Killed The Cat | 18.00% | ~289 |
-| Big Breakthrough | 12.00% | ~193 |
+| Big Breakthrough | 13.00% | ~209 |
 | Reawakened | 3.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 1,606 (Ranked 270)  

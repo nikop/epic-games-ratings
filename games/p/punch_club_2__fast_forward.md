@@ -25,10 +25,10 @@
 | Employee of the month | 56.00% | ~338 |
 | Law student | 55.00% | ~332 |
 | Workout professional | 52.00% | ~314 |
+| Little hacker | 52.00% | ~314 |
 | Handyman | 52.00% | ~314 |
 | Champion – starter pack | 52.00% | ~314 |
 | Fight for life | 51.00% | ~308 |
-| Little hacker | 51.00% | ~308 |
 | It's good to be alive | 51.00% | ~308 |
 | Intriguing candies | 51.00% | ~308 |
 | Own four walls | 50.00% | ~302 |
@@ -42,9 +42,9 @@
 | Guiding on the right path | 39.00% | ~235 |
 | Champion – no way back | 36.00% | ~217 |
 | No blades in the gym | 36.00% | ~217 |
+| GYM professional | 35.00% | ~211 |
 | Underground dwellers | 35.00% | ~211 |
 | Responsible approach | 35.00% | ~211 |
-| GYM professional | 34.00% | ~205 |
 | Mom got better | 33.00% | ~199 |
 | Deal with life | 33.00% | ~199 |
 | The die is cast | 33.00% | ~199 |
@@ -54,7 +54,7 @@
 | Gang wrangler | 30.00% | ~181 |
 | Absolute Champion! | 30.00% | ~181 |
 | Seashell hunter | 30.00% | ~181 |
-| Problems of cyborgs | 28.00% | ~169 |
+| Problems of cyborgs | 29.00% | ~175 |
 | Another world | 28.00% | ~169 |
 | The lonesome road | 28.00% | ~169 |
 | Key memories | 28.00% | ~169 |

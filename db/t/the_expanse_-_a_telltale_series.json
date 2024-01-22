@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 256,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 102,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19233,
+  "EOS_Progressed": 19235,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 185,
+  "EOS_NewPlayers": 183,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18022,6 +18022,11 @@
       "Time": "2024-01-22T18:06:11.3531338+00:00",
       "NumProgressed": 19233,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-22T21:06:31.4704246+00:00",
+      "NumProgressed": 19235,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18066,7 +18071,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3654
+      "UsersEstimate": 3655
     },
     {
       "ID": "14",
@@ -18098,7 +18103,7 @@
       "Name": "Spore Taste",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2500
+      "UsersEstimate": 2501
     },
     {
       "ID": "18",
@@ -18178,7 +18183,7 @@
       "Name": "Call it Even",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1923
+      "UsersEstimate": 1924
     },
     {
       "ID": "27",
@@ -18313,22 +18318,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19233,
+      "Progressed": 19235,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5187,
-      "Completed": 1385
+      "Progressed": 5189,
+      "Completed": 1386
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-22T18:58:41.0959252+00:00",
-  "LastChanged_Achievements": "2024-01-22T20:06:42.0776488+00:00",
+  "LastChanged_Achievements": "2024-01-22T21:06:31.4704242+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:59:31.4706442+00:00",
-  "LastUpdate_Achievements": "2024-01-22T20:06:42.0778124+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:59:21.3213618+00:00",
+  "LastUpdate_Achievements": "2024-01-22T21:06:31.4705422+00:00"
 }

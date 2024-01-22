@@ -36,9 +36,9 @@ Rating: 4.66 (Ranked 308)
 | Family Memories | 14.00% | ~189 |
 | Syron for Hope | 14.00% | ~189 |
 | Ask Questions Later | 14.00% | ~189 |
+| Treasure Trove | 13.00% | ~176 |
 | Cartographer | 13.00% | ~176 |
 | Sump Explorer | 13.00% | ~176 |
-| Treasure Trove | 12.00% | ~162 |
 | Factorywood Explorer | 11.00% | ~149 |
 | Theater Explorer | 11.00% | ~149 |
 | Cultivair Explorer | 10.00% | ~135 |
