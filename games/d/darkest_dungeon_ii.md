@@ -1,26 +1,26 @@
 # Darkest Dungeon II
 [Store](https://store.epicgames.com/en-US/p/darkest-dungeon-2)  
 [View Rawdata](../../db/d/darkest_dungeon_ii.json)  
-Rating: 4.69 (Ranked 240)  
+Rating: 4.69 (Ranked 241)  
 Number of Ratings: 7,767  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,249 |
-| Lost and Found | 9.00% | ~749 |
+| Lost and Found | 9.00% | ~750 |
 | Autodidact | 8.00% | ~10,677 |
 | This Belongs in a Museum | 7.00% | ~9,342 |
 | Creep and Sleep | 7.00% | ~9,342 |
 | Overdue Notice | 7.00% | ~9,342 |
 | This guy... again? | 7.00% | ~583 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,007 |
-| Serenity Now! | 6.00% | ~8,007 |
-| Meat and Greet | 6.00% | ~8,007 |
-| Catch and Decease | 6.00% | ~8,007 |
-| Escape from the Black Hole | 6.00% | ~8,007 |
-| Rush Hour | 6.00% | ~8,007 |
-| To Grandmother's House | 6.00% | ~8,007 |
-| FNG | 6.00% | ~8,007 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,008 |
+| Serenity Now! | 6.00% | ~8,008 |
+| Meat and Greet | 6.00% | ~8,008 |
+| Catch and Decease | 6.00% | ~8,008 |
+| Escape from the Black Hole | 6.00% | ~8,008 |
+| Rush Hour | 6.00% | ~8,008 |
+| To Grandmother's House | 6.00% | ~8,008 |
+| FNG | 6.00% | ~8,008 |
 | Ploughshares to Swords | 6.00% | ~500 |
 | Bloody Graduation | 6.00% | ~500 |
 | It Rings a Bell | 5.00% | ~6,673 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,457 (Ranked 92)  
+Progressed: 133,460 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,457 | 5 |
+| 2024-01-22 | 133,460 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,816 (Ranked 58)  

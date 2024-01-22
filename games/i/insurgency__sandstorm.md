@@ -1,20 +1,20 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 400)  
+Rating: 4.61 (Ranked 401)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,410 |
-| Wallbanger | 5.00% | ~26,410 |
-| Exploitative | 4.00% | ~21,128 |
-| High Speed Low Drag | 4.00% | ~21,128 |
-| Wet Feet | 4.00% | ~21,128 |
-| Checkpoint Victory | 3.00% | ~15,846 |
-| Lucky | 3.00% | ~15,846 |
-| Stylin' | 3.00% | ~15,846 |
-| Turf War | 3.00% | ~15,846 |
+| Point Shooting | 5.00% | ~26,411 |
+| Wallbanger | 5.00% | ~26,411 |
+| Exploitative | 4.00% | ~21,129 |
+| High Speed Low Drag | 4.00% | ~21,129 |
+| Wet Feet | 4.00% | ~21,129 |
+| Checkpoint Victory | 3.00% | ~15,847 |
+| Lucky | 3.00% | ~15,847 |
+| Stylin' | 3.00% | ~15,847 |
+| Turf War | 3.00% | ~15,847 |
 | Banged | 2.00% | ~10,564 |
 | First Blood | 2.00% | ~10,564 |
 | Flaccid Paralysis | 2.00% | ~10,564 |
@@ -29,7 +29,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | Personal | 0.90% | ~4,754 |
 | Grounded | 0.80% | ~4,226 |
 | Play to Win | 0.80% | ~4,226 |
-| Special Delivery | 0.70% | ~3,697 |
+| Special Delivery | 0.70% | ~3,698 |
 | Firefight Victory | 0.60% | ~3,169 |
 | #1 | 0.60% | ~3,169 |
 | Cinematic | 0.50% | ~2,641 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~528 |
 | Road Hazard | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,207 (Ranked 40)  
+Progressed: 528,217 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-19 | 527,024 | 2 |
 | 2024-01-20 | 527,542 | 2 |
 | 2024-01-21 | 528,045 | 2 |
-| 2024-01-22 | 528,207 | 2 |
+| 2024-01-22 | 528,217 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 426  (Ranked 239)  
 Sum: 3,432 (Ranked 178)  

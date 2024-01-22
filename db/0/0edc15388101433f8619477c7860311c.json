@@ -4,8 +4,8 @@
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
   "Ranking_EOS_Progress": 487,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 347,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 346,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -645,9 +645,9 @@
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "HauntingSpecter",
@@ -661,9 +661,9 @@
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "HideAndSeek",
@@ -797,9 +797,9 @@
       "ID": "WhoseChild",
       "SetID": "7m88n8p",
       "Name": "Whose Child?",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
@@ -812,8 +812,8 @@
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:08:14.9483315+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:08:33.1269572+00:00",
   "LastUpdate_AppInfo": "2024-01-15T15:57:24.3630829+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:57:27.3842306+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:08:14.9483713+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:57:37.2570979+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:08:33.1269857+00:00"
 }

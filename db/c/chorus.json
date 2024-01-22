@@ -2,13 +2,13 @@
   "ID": "4930dde6add240a9bfc7ddc415dc2799",
   "Name": "Chorus",
   "ProductSlug": "chorus",
-  "Ranking_Rating": 662,
+  "Ranking_Rating": 663,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 278,
   "Ranking_EOS_Completed": 160,
-  "Ranking_EOS_NewPlayers": 310,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-12-03T08:00:00+00:00",
     "PcReleaseDate": "2021-12-03T08:00:00+00:00",
@@ -337,9 +337,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 1436,
+  "EOS_Progressed": 1437,
   "EOS_Completed": 19,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.32,
   "EosHistory": [
@@ -3177,6 +3177,11 @@
       "Time": "2024-01-21T18:11:11.4860148+00:00",
       "NumProgressed": 1436,
       "NumCompleted": 19
+    },
+    {
+      "Time": "2024-01-22T08:10:23.4724595+00:00",
+      "NumProgressed": 1437,
+      "NumCompleted": 19
     }
   ],
   "TotalAchievements": 43,
@@ -3188,7 +3193,7 @@
       "Name": "Demigod",
       "Percentage": 73,
       "XP": 150,
-      "UsersEstimate": 1048
+      "UsersEstimate": 1049
     },
     {
       "ID": "DieInPermadeath",
@@ -3204,7 +3209,7 @@
       "Name": "Voices from the Past",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "Finish5SideMissions",
@@ -3212,7 +3217,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "FinishAllSideMissions",
@@ -3228,7 +3233,7 @@
       "Name": "Controlled Demolition",
       "Percentage": 53,
       "XP": 5,
-      "UsersEstimate": 761
+      "UsersEstimate": 762
     },
     {
       "ID": "Kill3InOneDrift",
@@ -3252,7 +3257,7 @@
       "Name": "The Great Destroyer",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1034
+      "UsersEstimate": 1035
     },
     {
       "ID": "MasteryOfCombat",
@@ -3276,7 +3281,7 @@
       "Name": "Mastery of Weapons",
       "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "MissionActivateDish",
@@ -3332,7 +3337,7 @@
       "Name": "Full Arsenal",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "MissionEosReturn",
@@ -3356,7 +3361,7 @@
       "Name": "Disciple",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 416
+      "UsersEstimate": 417
     },
     {
       "ID": "MissionHelios",
@@ -3372,7 +3377,7 @@
       "Name": "Safe Home",
       "Percentage": 64,
       "XP": 5,
-      "UsersEstimate": 919
+      "UsersEstimate": 920
     },
     {
       "ID": "MissionMasterAndDisciple",
@@ -3388,7 +3393,7 @@
       "Name": "Old Days Born Anew",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 847
+      "UsersEstimate": 848
     },
     {
       "ID": "MissionPhoenixRediscovery",
@@ -3404,7 +3409,7 @@
       "Name": "Shields Down",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 991
+      "UsersEstimate": 992
     },
     {
       "ID": "MissionScavengingJob",
@@ -3412,7 +3417,7 @@
       "Name": "Another Life",
       "Percentage": 84,
       "XP": 5,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     },
     {
       "ID": "MissionShipyard",
@@ -3428,7 +3433,7 @@
       "Name": "The Path Forward",
       "Percentage": 43,
       "XP": 70,
-      "UsersEstimate": 617
+      "UsersEstimate": 618
     },
     {
       "ID": "MissionTemple",
@@ -3436,7 +3441,7 @@
       "Name": "Disruption",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "MissionTheArmadaStrikes",
@@ -3484,7 +3489,7 @@
       "Name": "Huntress",
       "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 732
+      "UsersEstimate": 733
     },
     {
       "ID": "RiteOfTheStar",
@@ -3508,7 +3513,7 @@
       "Name": "Phoenix",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 603
+      "UsersEstimate": 604
     },
     {
       "ID": "VisitAllLocations",
@@ -3516,7 +3521,7 @@
       "Name": "Space Traveler",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 1091
+      "UsersEstimate": 1092
     },
     {
       "ID": "WinARace",
@@ -3531,15 +3536,15 @@
     {
       "ID": "a6c395p",
       "IsBase": true,
-      "Progressed": 1436,
+      "Progressed": 1437,
       "Completed": 19
     }
   ],
   "FirstSeen": "2022-07-22T20:25:13.6854184+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:24.5445277+00:00",
   "LastChanged": "2024-01-20T20:00:14.1124037+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:09:55.4599073+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:23.4724593+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:43.4492395+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:57:16.6387791+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:09:55.4599448+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:57:24.7199616+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:23.4725032+00:00"
 }

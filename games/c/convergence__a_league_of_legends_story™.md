@@ -1,7 +1,7 @@
 # CONVERGENCE: A League of Legends Story™
 [Store](https://store.epicgames.com/en-US/p/convergence-a-league-of-legends-story)  
 [View Rawdata](../../db/c/convergence__a_league_of_legends_story™.json)  
-Rating: 4.66 (Ranked 306)  
+Rating: 4.66 (Ranked 307)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -33,11 +33,11 @@ Rating: 4.66 (Ranked 306)
 | Whiz Kid | 16.00% | ~216 |
 | Good Neighbor | 16.00% | ~216 |
 | Family Memories | 14.00% | ~189 |
+| Syron for Hope | 14.00% | ~189 |
 | Ask Questions Later | 14.00% | ~189 |
 | Chaincrawler Explorer | 13.00% | ~176 |
 | Cartographer | 13.00% | ~176 |
 | Sump Explorer | 13.00% | ~176 |
-| Syron for Hope | 13.00% | ~176 |
 | Treasure Trove | 12.00% | ~162 |
 | Factorywood Explorer | 11.00% | ~148 |
 | Theater Explorer | 11.00% | ~148 |

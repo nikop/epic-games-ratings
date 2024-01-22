@@ -2,13 +2,13 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 306,
+  "Ranking_Rating": 307,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 217,
   "Ranking_EOS_NewPlayers": 272,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -4517,9 +4517,9 @@
       "ID": "SyronGift",
       "SetID": "a9e499d",
       "Name": "Syron for Hope",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 176
+      "UsersEstimate": 189
     },
     {
       "ID": "TemporalPulseKills1",
@@ -4598,8 +4598,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:10:09.1089897+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:38.1769129+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:58:53.0031732+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:10:09.1090361+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:59:13.2406476+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:38.176977+00:00"
 }

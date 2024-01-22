@@ -2,12 +2,12 @@
   "ID": "1b737464d3c441f8956315433be02d3b",
   "Name": "A Game Of Thrones: The Board Game Digital Edition",
   "ProductSlug": "a-game-of-thrones-5858a3",
-  "Ranking_Rating": 965,
+  "Ranking_Rating": 966,
   "Ranking_Popularity": 354,
   "Ranking_PopularitySum": 294,
   "Ranking_EOS_Progress": 141,
   "Ranking_EOS_Completed": 274,
-  "Ranking_EOS_NewPlayers": 117,
+  "Ranking_EOS_NewPlayers": 118,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-06-23T15:00:00+00:00",
@@ -1446,9 +1446,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34081,
+  "EOS_Progressed": 34083,
   "EOS_Completed": 88,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.26,
   "EosHistory": [
@@ -31286,6 +31286,11 @@
       "Time": "2024-01-22T06:10:06.723983+00:00",
       "NumProgressed": 34081,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-22T08:10:19.7871353+00:00",
+      "NumProgressed": 34083,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31409,7 +31414,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2726
+      "UsersEstimate": 2727
     },
     {
       "ID": "1030",
@@ -31417,7 +31422,7 @@
       "Name": "Battering Crew",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 6475
+      "UsersEstimate": 6476
     },
     {
       "ID": "1031",
@@ -31433,7 +31438,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13632
+      "UsersEstimate": 13633
     },
     {
       "ID": "1033",
@@ -31472,15 +31477,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34081,
+      "Progressed": 34083,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-21T18:01:14.7181216+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:09:52.2135002+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:19.7871351+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:59:53.4964988+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:09:52.2136593+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:00:22.6907711+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:19.787272+00:00"
 }

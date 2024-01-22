@@ -1,7 +1,7 @@
 # Dungeons 4
 [Store](https://store.epicgames.com/en-US/p/dungeons-4-595454)  
 [View Rawdata](../../db/d/dungeons_4.json)  
-Rating: 4.73 (Ranked 185)  
+Rating: 4.73 (Ranked 186)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -68,7 +68,7 @@ Rating: 4.73 (Ranked 185)
 | I Don't Need Any Help | 11.00% | ~86 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 783 (Ranked 322)  
-Completed: 35 (4.47%) (Ranked 83)  
+Completed: 36 (4.60%) (Ranked 82)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -145,7 +145,7 @@ Completed: 35 (4.47%) (Ranked 83)
 | 2024-01-19 | 777 | 34 |
 | 2024-01-20 | 779 | 34 |
 | 2024-01-21 | 783 | 34 |
-| 2024-01-22 | 783 | 35 |
+| 2024-01-22 | 783 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

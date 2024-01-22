@@ -1,20 +1,20 @@
 # Farming Simulator 22
 [Store](https://store.epicgames.com/en-US/p/farming-simulator-22)  
 [View Rawdata](../../db/f/farming_simulator_22.json)  
-Rating: 4.67 (Ranked 287)  
+Rating: 4.67 (Ranked 288)  
 Number of Ratings: 7,683  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Own use | 71.00% | ~45,081 |
-| I read Shakespeare and stuff | 59.00% | ~37,461 |
+| I read Shakespeare and stuff | 59.00% | ~37,462 |
 | Just a sprinkle | 58.00% | ~36,827 |
 | I'm stumped | 56.00% | ~35,557 |
 | Plant get enough | 56.00% | ~35,557 |
 | This is just my weekend vehicle | 54.00% | ~34,287 |
 | It's just the beginning | 54.00% | ~34,287 |
-| Hard work pays off | 49.00% | ~31,112 |
-| It's never too late to farm | 45.00% | ~28,572 |
+| Hard work pays off | 49.00% | ~31,113 |
+| It's never too late to farm | 45.00% | ~28,573 |
 | All out of Land | 41.00% | ~26,033 |
 | Field Trip | 40.00% | ~25,398 |
 | I like to switch it up | 37.00% | ~23,493 |
@@ -30,10 +30,10 @@ Number of Ratings: 7,683  (23.09.2022)
 | Long haul | 14.00% | ~8,889 |
 | That's a wrap | 13.00% | ~8,254 |
 | Fix me up | 11.00% | ~6,984 |
-| Highly cultivated | 10.00% | ~6,349 |
-| It's sow easy | 10.00% | ~6,349 |
-| Rock on | 10.00% | ~6,349 |
-| Giddy-up! | 9.00% | ~5,714 |
+| Highly cultivated | 10.00% | ~6,350 |
+| It's sow easy | 10.00% | ~6,350 |
+| Rock on | 10.00% | ~6,350 |
+| Giddy-up! | 9.00% | ~5,715 |
 | Cowherd | 6.00% | ~3,810 |
 | Fluffyness | 6.00% | ~3,810 |
 | Road Trip | 5.00% | ~3,175 |
@@ -50,7 +50,7 @@ Number of Ratings: 7,683  (23.09.2022)
 | You are not a kangaroo | 0.40% | ~254 |
 | Raisin the stakes | 0.30% | ~190 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 63,494 (Ranked 120)  
+Progressed: 63,495 (Ranked 120)  
 Completed: 6 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 6 (0.01%) (Ranked 383)
 | 2024-01-19 | 63,190 | 6 |
 | 2024-01-20 | 63,336 | 6 |
 | 2024-01-21 | 63,476 | 6 |
-| 2024-01-22 | 63,494 | 6 |
+| 2024-01-22 | 63,495 | 6 |
 ## Awards
 Max (Great for Beginners): 6,160  (Ranked 67)  
 Sum: 45,964 (Ranked 33)  

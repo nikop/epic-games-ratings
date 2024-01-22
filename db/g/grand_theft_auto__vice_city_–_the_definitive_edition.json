@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 571,
+  "Ranking_Rating": 572,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 172,
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16632,
+  "EOS_Progressed": 16633,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 206,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -18799,6 +18799,11 @@
       "Time": "2024-01-22T06:10:08.7387789+00:00",
       "NumProgressed": 16632,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-22T08:10:22.1276384+00:00",
+      "NumProgressed": 16633,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18970,7 +18975,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7817
+      "UsersEstimate": 7818
     },
     {
       "ID": "ACH22",
@@ -19081,7 +19086,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16632,
+      "Progressed": 16633,
       "Completed": 109
     }
   ],
@@ -19089,8 +19094,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:09:54.2689996+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:22.1276381+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:00:12.6582978+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:09:54.2691083+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:00:43.4754672+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:22.1277707+00:00"
 }

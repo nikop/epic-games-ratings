@@ -1,15 +1,15 @@
 # City of Gangsters
 [Store](https://store.epicgames.com/en-US/p/city-of-gangsters-6c2974)  
 [View Rawdata](../../db/c/city_of_gangsters.json)  
-Rating: 4.29 (Ranked 890)  
+Rating: 4.29 (Ranked 891)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Corner Clout | 46.00% | ~167,064 |
-| Copacetic Coordination | 16.00% | ~58,109 |
-| Fronting the Money | 15.00% | ~54,477 |
-| The Dawn of Automation | 14.00% | ~50,845 |
-| Extraordinary Logistics | 14.00% | ~50,845 |
+| Corner Clout | 46.00% | ~167,065 |
+| Copacetic Coordination | 16.00% | ~58,110 |
+| Fronting the Money | 15.00% | ~54,478 |
+| The Dawn of Automation | 14.00% | ~50,846 |
+| Extraordinary Logistics | 14.00% | ~50,846 |
 | Dirty Money | 13.00% | ~47,214 |
 | Family First | 13.00% | ~47,214 |
 | Cleaning House | 12.00% | ~43,582 |
@@ -42,13 +42,13 @@ Rating: 4.29 (Ranked 890)
 | Friends from Back Home | 4.00% | ~14,527 |
 | Bees Knees Bootlegger | 4.00% | ~14,527 |
 | Half Century Mark | 4.00% | ~14,527 |
-| Corner Opportunities | 3.00% | ~10,895 |
-| 2122 North Clark Street | 3.00% | ~10,895 |
-| Copious Cabbage | 3.00% | ~10,895 |
-| Sockdolager | 3.00% | ~10,895 |
-| Still Stalwart | 3.00% | ~10,895 |
-| Tighten the Screws | 3.00% | ~10,895 |
-| Keeping Your Word | 3.00% | ~10,895 |
+| Corner Opportunities | 3.00% | ~10,896 |
+| 2122 North Clark Street | 3.00% | ~10,896 |
+| Copious Cabbage | 3.00% | ~10,896 |
+| Sockdolager | 3.00% | ~10,896 |
+| Still Stalwart | 3.00% | ~10,896 |
+| Tighten the Screws | 3.00% | ~10,896 |
+| Keeping Your Word | 3.00% | ~10,896 |
 | One of Us | 2.00% | ~7,264 |
 | Baker’s Dozen | 2.00% | ~7,264 |
 | Dropping the Dime | 2.00% | ~7,264 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 890)
 | High Pillow | 0.10% | ~363 |
 | Station Master | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,182 (Ranked 58)  
+Progressed: 363,185 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 7 (0.00%) (Ranked 409)
 | 2024-01-19 | 362,851 | 7 |
 | 2024-01-20 | 362,998 | 7 |
 | 2024-01-21 | 363,152 | 7 |
-| 2024-01-22 | 363,182 | 7 |
+| 2024-01-22 | 363,185 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 441)  
 Sum: 276 (Ranked 396)  

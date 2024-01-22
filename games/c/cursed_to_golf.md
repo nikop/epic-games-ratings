@@ -1,7 +1,7 @@
 # Cursed to Golf
 [Store](https://store.epicgames.com/en-US/p/cursed-to-golf-a6bc22)  
 [View Rawdata](../../db/c/cursed_to_golf.json)  
-Rating: 4.16 (Ranked 1,000)  
+Rating: 4.16 (Ranked 1,001)  
 ## Awards
 Max (Great Boss Battles): 20  (Ranked 585)  
 Sum: 20 (Ranked 586)  

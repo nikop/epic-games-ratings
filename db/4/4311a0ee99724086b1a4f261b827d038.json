@@ -2,13 +2,13 @@
   "ID": "4311a0ee99724086b1a4f261b827d038",
   "Name": "Homeworld Remastered Collection",
   "ProductSlug": "homeworld-remastered-collection",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 503,
   "Ranking_PopularitySum": 410,
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 79,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -911,9 +911,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244637,
+  "EOS_Progressed": 244639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1185,
+  "EOS_NewPlayers": 1182,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22156,6 +22156,11 @@
       "Time": "2024-01-22T07:09:59.2172558+00:00",
       "NumProgressed": 244637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T08:10:27.4539586+00:00",
+      "NumProgressed": 244639,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22232,7 +22237,7 @@
       "Name": "Outskirts of Kharak System Completed",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 22017
+      "UsersEstimate": 22018
     },
     {
       "ID": "HW1_MISSION3_COMPLETE",
@@ -22248,7 +22253,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9785
+      "UsersEstimate": 9786
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -22424,7 +22429,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61159
+      "UsersEstimate": 61160
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22439,7 +22444,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244637,
+      "Progressed": 244639,
       "Completed": 0
     }
   ],
@@ -22447,8 +22452,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-20T14:02:38.8696493+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:09:59.2172555+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:27.4539577+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:57:47.5048671+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:09:59.2173891+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:58:00.0908057+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:27.4540832+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "b9c7474c6bdf4e9ab8ca5a5da60059d4",
   "Name": "Ring of Pain",
   "ProductSlug": "ring-of-pain",
-  "Ranking_Rating": 474,
+  "Ranking_Rating": 475,
   "Ranking_Popularity": 140,
   "Ranking_PopularitySum": 92,
   "Ranking_EOS_Progress": 75,
@@ -3946,7 +3946,7 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243356,
+  "EOS_Progressed": 243358,
   "EOS_Completed": 309,
   "EOS_NewPlayers": 367,
   "EOS_NewCompleters": 3,
@@ -32626,6 +32626,11 @@
       "Time": "2024-01-22T07:10:11.7129414+00:00",
       "NumProgressed": 243356,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-22T08:10:40.8525766+00:00",
+      "NumProgressed": 243358,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32685,7 +32690,7 @@
       "Name": "Consecutive Curses",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "DAILY7",
@@ -32893,7 +32898,7 @@
       "Name": "Just Chilling",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "FREEZE20TIMES",
@@ -33013,7 +33018,7 @@
       "Name": "Save Our Souls",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "HUGESOULSPILL",
@@ -33325,7 +33330,7 @@
       "Name": "Acid Bath",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "POISONSELF20",
@@ -33365,7 +33370,7 @@
       "Name": "New Perspectives",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 1703
+      "UsersEstimate": 1704
     },
     {
       "ID": "SNAKESTEALTH",
@@ -33740,13 +33745,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243356,
+      "Progressed": 243358,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4836,
+      "Progressed": 4838,
       "Completed": 431
     }
   ],
@@ -33754,8 +33759,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-21T22:00:30.5602822+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:10:11.7129411+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:40.8525765+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:00:26.0072725+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:10:11.7132048+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:02:38.8021095+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:40.8528191+00:00"
 }

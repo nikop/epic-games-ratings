@@ -2,13 +2,13 @@
   "ID": "d469e82d91fe4516a00d6566c3d2f8f7",
   "Name": "Going Medieval",
   "ProductSlug": "going-medieval",
-  "Ranking_Rating": 427,
+  "Ranking_Rating": 428,
   "Ranking_Popularity": 347,
   "Ranking_PopularitySum": 271,
   "Ranking_EOS_Progress": 196,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 193,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-06-01T15:00:00+00:00",
     "PcReleaseDate": "2021-06-01T15:00:00+00:00",
@@ -1715,7 +1715,7 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 8048,
+  "EOS_Progressed": 8049,
   "EOS_Completed": 14,
   "EOS_NewPlayers": 95,
   "EOS_NewCompleters": 0,
@@ -17190,6 +17190,11 @@
       "Time": "2024-01-22T00:05:40.4085515+00:00",
       "NumProgressed": 8048,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-22T08:05:09.0936337+00:00",
+      "NumProgressed": 8049,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17201,7 +17206,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6116
+      "UsersEstimate": 6117
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -17209,7 +17214,7 @@
       "Name": "Beam Me Up",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 4265
+      "UsersEstimate": 4266
     },
     {
       "ID": "DISMANTLE_ITEMS_5",
@@ -17241,7 +17246,7 @@
       "Name": "Having A Field Day",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 6197
+      "UsersEstimate": 6198
     },
     {
       "ID": "HARVEST_CROP_50",
@@ -17249,7 +17254,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5875
+      "UsersEstimate": 5876
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17321,7 +17326,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5070
+      "UsersEstimate": 5071
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -17337,7 +17342,7 @@
       "Name": "Fit For A King",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -17345,7 +17350,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3541
+      "UsersEstimate": 3542
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -17353,7 +17358,7 @@
       "Name": "Winter Is Coming",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "SURVIVE_FIRST_DAY",
@@ -17385,7 +17390,7 @@
       "Name": "Winter Is Here",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 2092
+      "UsersEstimate": 2093
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -17409,7 +17414,7 @@
       "Name": "Novice Researcher",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 5553
+      "UsersEstimate": 5554
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17425,7 +17430,7 @@
       "Name": "Luminary Researcher",
       "Percentage": 30,
       "XP": 100,
-      "UsersEstimate": 2414
+      "UsersEstimate": 2415
     },
     {
       "ID": "UNLOCK_RESEARCH_3",
@@ -17441,22 +17446,22 @@
       "Name": "Studious Researcher",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 4265
+      "UsersEstimate": 4266
     }
   ],
   "AchievementSets": [
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 8048,
+      "Progressed": 8049,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-20T17:00:34.4365504+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:04:40.2673209+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:05:09.0936334+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:27.945305+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:57:41.9491037+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:04:40.2674108+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:57:53.6622245+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:05:09.0937139+00:00"
 }

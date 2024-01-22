@@ -2,13 +2,13 @@
   "ID": "fda0f2b4047f46ffb4e94d5595c1468e",
   "Name": "Mortal Kombat 1",
   "ProductSlug": "mortal-kombat-1",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 105,
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 153,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 154,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5499,9 +5499,9 @@
       "Count": 665
     }
   ],
-  "EOS_Progressed": 24126,
+  "EOS_Progressed": 24127,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 267,
+  "EOS_NewPlayers": 265,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17494,6 +17494,11 @@
       "Time": "2024-01-22T05:09:56.1521704+00:00",
       "NumProgressed": 24126,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T08:09:15.5553024+00:00",
+      "NumProgressed": 24127,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17562,7 +17567,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7720
+      "UsersEstimate": 7721
     },
     {
       "ID": "ach09",
@@ -17570,7 +17575,7 @@
       "Name": "Kontender",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 3136
+      "UsersEstimate": 3137
     },
     {
       "ID": "ach10",
@@ -17602,7 +17607,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "ach14",
@@ -17682,7 +17687,7 @@
       "Name": "Take And Deny",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 5066
+      "UsersEstimate": 5067
     },
     {
       "ID": "ach24",
@@ -17730,7 +17735,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "ach30",
@@ -17794,7 +17799,7 @@
       "Name": "ABACABB",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 11339
+      "UsersEstimate": 11340
     },
     {
       "ID": "ach38",
@@ -17818,7 +17823,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "ach41",
@@ -17834,7 +17839,7 @@
       "Name": "Quest Master",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7720
+      "UsersEstimate": 7721
     },
     {
       "ID": "ach43",
@@ -17842,7 +17847,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7720
+      "UsersEstimate": 7721
     },
     {
       "ID": "ach44",
@@ -17882,7 +17887,7 @@
       "Name": "Total Disrespect",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4101
+      "UsersEstimate": 4102
     },
     {
       "ID": "ach49",
@@ -17905,7 +17910,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24126,
+      "Progressed": 24127,
       "Completed": 2
     }
   ],
@@ -17913,8 +17918,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-22T03:02:52.5595715+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:08:52.8209618+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:09:15.5553022+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:02:48.3615233+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:08:52.8210381+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:03:02.6883529+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:09:15.5553829+00:00"
 }

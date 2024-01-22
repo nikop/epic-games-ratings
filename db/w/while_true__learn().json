@@ -2,7 +2,7 @@
   "ID": "9359fa123dbf4b89b7d70be316d7810c",
   "Name": "while True: learn()",
   "ProductSlug": "while-true-learn",
-  "Ranking_Rating": 599,
+  "Ranking_Rating": 600,
   "Ranking_Popularity": 346,
   "Ranking_PopularitySum": 452,
   "Ranking_EOS_Progress": 33,
@@ -523,7 +523,7 @@
       "Count": 140
     }
   ],
-  "EOS_Progressed": 619437,
+  "EOS_Progressed": 619438,
   "EOS_Completed": 569,
   "EOS_NewPlayers": 822,
   "EOS_NewCompleters": 3,
@@ -31853,6 +31853,11 @@
       "Time": "2024-01-22T07:09:13.4915727+00:00",
       "NumProgressed": 619437,
       "NumCompleted": 569
+    },
+    {
+      "Time": "2024-01-22T08:09:37.9667502+00:00",
+      "NumProgressed": 619438,
+      "NumCompleted": 569
     }
   ],
   "TotalAchievements": 28,
@@ -31912,7 +31917,7 @@
       "Name": "README reader",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 24777
+      "UsersEstimate": 24778
     },
     {
       "ID": "ACHIEVEMENT_19",
@@ -31944,7 +31949,7 @@
       "Name": "One more!",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 272552
+      "UsersEstimate": 272553
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -31984,7 +31989,7 @@
       "Name": "More FPS for the FPS god!",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 309718
+      "UsersEstimate": 309719
     },
     {
       "ID": "ACHIEVEMENT_3",
@@ -31992,7 +31997,7 @@
       "Name": "First.. Bit?",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 576076
+      "UsersEstimate": 576077
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -32024,7 +32029,7 @@
       "Name": "Error: Stack Overflow",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 408828
+      "UsersEstimate": 408829
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -32040,7 +32045,7 @@
       "Name": "The dawn of civilization",
       "Percentage": 54,
       "XP": 30,
-      "UsersEstimate": 334496
+      "UsersEstimate": 334497
     },
     {
       "ID": "ACHIEVEMENT_5",
@@ -32087,15 +32092,15 @@
     {
       "ID": "c2jc46f",
       "IsBase": true,
-      "Progressed": 619437,
+      "Progressed": 619438,
       "Completed": 569
     }
   ],
   "FirstSeen": "2022-07-22T20:20:21.231383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:23.0744995+00:00",
   "LastChanged": "2023-12-26T11:02:39.9263335+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:09:13.4915723+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:09:37.96675+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:37.7136463+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:58:57.4745172+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:09:13.4917391+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:59:18.8933446+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:09:37.9668742+00:00"
 }

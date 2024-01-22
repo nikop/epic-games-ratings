@@ -1,29 +1,29 @@
 # Defense Grid: The Awakening
 [Store](https://store.epicgames.com/en-US/p/defense-grid)  
 [View Rawdata](../../db/d/defense_grid__the_awakening.json)  
-Rating: 4.45 (Ranked 697)  
+Rating: 4.45 (Ranked 698)  
 Number of Ratings: 1,225  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Blood | 81.00% | ~400,630 |
-| Happy Returns | 78.00% | ~385,792 |
-| Hey! That's mine! | 78.00% | ~385,792 |
+| First Blood | 81.00% | ~400,631 |
+| Happy Returns | 78.00% | ~385,793 |
+| Hey! That's mine! | 78.00% | ~385,793 |
 | Field Promotion | 74.00% | ~366,008 |
 | Leadhead | 71.00% | ~351,170 |
-| Eradicator | 68.00% | ~336,331 |
-| Surplus | 66.00% | ~326,439 |
-| I Spy | 64.00% | ~316,547 |
-| Burn Baby Burn | 59.00% | ~291,817 |
+| Eradicator | 68.00% | ~336,332 |
+| Surplus | 66.00% | ~326,440 |
+| I Spy | 64.00% | ~316,548 |
+| Burn Baby Burn | 59.00% | ~291,818 |
 | Yellow Beats Green | 56.00% | ~276,979 |
 | Salvage Rights | 53.00% | ~262,141 |
 | What IS that? | 51.00% | ~252,249 |
-| Close Call | 50.00% | ~247,302 |
-| Pew Pew | 50.00% | ~247,302 |
-| Penny Pincher | 49.00% | ~242,356 |
-| Arsenal | 46.00% | ~227,518 |
-| Boot Camp | 46.00% | ~227,518 |
-| Flawless Victory | 42.00% | ~207,734 |
+| Close Call | 50.00% | ~247,303 |
+| Pew Pew | 50.00% | ~247,303 |
+| Penny Pincher | 49.00% | ~242,357 |
+| Arsenal | 46.00% | ~227,519 |
+| Boot Camp | 46.00% | ~227,519 |
+| Flawless Victory | 42.00% | ~207,735 |
 | Confident | 41.00% | ~202,788 |
 | Exterminator | 36.00% | ~178,058 |
 | Sharpshooter | 34.00% | ~168,166 |
@@ -31,7 +31,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Great Ball of Fire | 32.00% | ~158,274 |
 | No Sale | 31.00% | ~153,328 |
 | Kaboom! | 30.00% | ~148,382 |
-| Liquidator | 29.00% | ~143,435 |
+| Liquidator | 29.00% | ~143,436 |
 | High Voltage | 24.00% | ~118,705 |
 | Filthy Rich | 20.00% | ~98,921 |
 | Pyrrhic Victory | 18.00% | ~89,029 |
@@ -40,8 +40,8 @@ Number of Ratings: 1,225  (23.09.2022)
 | Death From Above | 16.00% | ~79,137 |
 | Retry | 16.00% | ~79,137 |
 | Head Trauma | 12.00% | ~59,353 |
-| Full Defense | 10.00% | ~49,460 |
-| Overseer | 9.00% | ~44,514 |
+| Full Defense | 10.00% | ~49,461 |
+| Overseer | 9.00% | ~44,515 |
 | Annihilator | 8.00% | ~39,568 |
 | If At First You Don't Succeed, Retry Again | 8.00% | ~39,568 |
 | Indecisive | 6.00% | ~29,676 |
@@ -94,7 +94,7 @@ Number of Ratings: 1,225  (23.09.2022)
 | Contains Trace Amounts of Gold | 0.10% | ~495 |
 | You Monster | 0.10% | ~495 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 494,605 (Ranked 43)  
+Progressed: 494,606 (Ranked 43)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -371,7 +371,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 494,428 | 5 |
 | 2024-01-20 | 494,512 | 5 |
 | 2024-01-21 | 494,584 | 5 |
-| 2024-01-22 | 494,605 | 5 |
+| 2024-01-22 | 494,606 | 5 |
 ## Awards
 Max (Great for Beginners): 265  (Ranked 282)  
 Sum: 1,753 (Ranked 229)  

@@ -2,7 +2,7 @@
   "ID": "80d3aeb1d7c3434981e0bcbc47700a83",
   "Name": "Europa Universalis IV",
   "ProductSlug": "europa-universalis-iv",
-  "Ranking_Rating": 240,
+  "Ranking_Rating": 241,
   "Ranking_Popularity": 53,
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 42,
@@ -14697,9 +14697,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 503576,
+  "EOS_Progressed": 503588,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4340,
+  "EOS_NewPlayers": 4338,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46672,6 +46672,11 @@
       "Time": "2024-01-22T07:10:13.3167158+00:00",
       "NumProgressed": 503576,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T08:10:42.5157713+00:00",
+      "NumProgressed": 503588,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47683,7 +47688,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3022
     },
     {
       "ID": "achievement_grand_coalition",
@@ -48963,7 +48968,7 @@
       "Name": "That is mine!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3022
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -49379,7 +49384,7 @@
       "Name": "Victorious!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3021
+      "UsersEstimate": 3022
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -49586,21 +49591,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 503576,
+      "Progressed": 503588,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 503576,
+      "Progressed": 503588,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-22T01:54:18.1519045+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:10:13.3167154+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:42.515771+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:59:47.6234041+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:10:13.3177595+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:00:15.8550194+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:42.516947+00:00"
 }

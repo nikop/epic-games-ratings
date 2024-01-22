@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 231,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 38,
   "Store": {
     "ReleaseDate": "2023-04-18T16:00:00+00:00",
@@ -187,9 +187,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3500,
+  "EOS_Progressed": 3501,
   "EOS_Completed": 36,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -6757,6 +6757,11 @@
       "Time": "2024-01-22T06:05:01.9170975+00:00",
       "NumProgressed": 3500,
       "NumCompleted": 36
+    },
+    {
+      "Time": "2024-01-22T08:05:27.7754331+00:00",
+      "NumProgressed": 3501,
+      "NumCompleted": 36
     }
   ],
   "TotalAchievements": 53,
@@ -6832,7 +6837,7 @@
       "Name": "For Demacia",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 3325
+      "UsersEstimate": 3326
     },
     {
       "ID": "STB_DEFEAT_GAREN_II",
@@ -6848,7 +6853,7 @@
       "Name": "Everfrost",
       "Percentage": 76,
       "XP": 5,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "STB_DEFEAT_JARVAN_SHYVANA",
@@ -6944,7 +6949,7 @@
       "Name": "Pentakill",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 2625
+      "UsersEstimate": 2626
     },
     {
       "ID": "STB_MISSION0_COMPLETED",
@@ -6952,7 +6957,7 @@
       "Name": "No more cages!",
       "Percentage": 90,
       "XP": 5,
-      "UsersEstimate": 3150
+      "UsersEstimate": 3151
     },
     {
       "ID": "STB_MISSION10_COMPLETED",
@@ -6984,7 +6989,7 @@
       "Name": "Dark Forest",
       "Percentage": 76,
       "XP": 100,
-      "UsersEstimate": 2660
+      "UsersEstimate": 2661
     },
     {
       "ID": "STB_MISSION2A_COMPLETED",
@@ -7072,7 +7077,7 @@
       "Name": "You can pet the dog",
       "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 2100
+      "UsersEstimate": 2101
     },
     {
       "ID": "STB_PET_HORSE",
@@ -7144,7 +7149,7 @@
       "Name": "The use of petricite",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 2555
+      "UsersEstimate": 2556
     },
     {
       "ID": "STB_UNLOCK_ALL_ACTIVE_RUNES",
@@ -7191,7 +7196,7 @@
     {
       "ID": "3pe2bac",
       "IsBase": true,
-      "Progressed": 3500,
+      "Progressed": 3501,
       "Completed": 36
     }
   ],
@@ -7199,8 +7204,8 @@
   "FirstSeenRating": "2023-04-18T18:57:53.9681455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:35.6138047+00:00",
   "LastChanged": "2024-01-15T21:57:13.895107+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:04:57.1846725+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:05:27.7754328+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.6014461+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:00:25.5006817+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:04:57.1847549+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:02:38.2295856+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:05:27.775501+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "c37115918ccc4969a57b6b1bdc28af4a",
   "Name": "Tiny Tina\u0027s Wonderlands",
   "ProductSlug": "tiny-tinas-wonderlands",
-  "Ranking_Rating": 497,
+  "Ranking_Rating": 498,
   "Ranking_Popularity": 22,
   "Ranking_PopularitySum": 37,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-03-24T23:00:00+00:00",
     "PcReleaseDate": "2022-03-24T23:00:00+00:00",
@@ -12177,5 +12177,5 @@
   "LastChanged": "2024-01-22T04:00:23.0966424+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:41.7617702+00:00",
   "LastUpdate_Ratings": "2024-01-22T07:00:15.7555729+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:09:04.049227+00:00"
+  "LastUpdate_Achievements": "2024-01-22T08:09:27.747757+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "eb348461cdaf4bec9d69a1c4bb39ecc4",
   "Name": "Hand of Fate 2",
   "ProductSlug": "hand-of-fate-2",
-  "Ranking_Rating": 529,
+  "Ranking_Rating": 530,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 31,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-04-22T15:00:00+00:00",
     "PcReleaseDate": "2021-04-22T15:00:00+00:00",
@@ -967,7 +967,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667739,
+  "EOS_Progressed": 667740,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 351,
   "EOS_NewCompleters": 0,
@@ -27387,6 +27387,11 @@
       "Time": "2024-01-22T04:10:08.1486211+00:00",
       "NumProgressed": 667739,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-22T08:10:03.7263481+00:00",
+      "NumProgressed": 667740,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27398,7 +27403,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480772
+      "UsersEstimate": 480773
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27542,7 +27547,7 @@
       "Name": "Thief Bane",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 93483
+      "UsersEstimate": 93484
     },
     {
       "ID": "Achievement_20_Northern_Scourge",
@@ -27781,15 +27786,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667739,
+      "Progressed": 667740,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:09:36.5924686+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:03.7263479+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:59:48.0933866+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:09:36.5926323+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:00:16.3769006+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:03.7264984+00:00"
 }

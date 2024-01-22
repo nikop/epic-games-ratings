@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.07 (Ranked 1,041)  
+Rating: 4.07 (Ranked 1,042)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -21,10 +21,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Pure Energy | 0.70% | ~1,786 |
 | Fast Food | 0.70% | ~1,550 |
 | Terror in the Dark | 0.60% | ~1,531 |
+| Unearthed Evil | 0.60% | ~1,531 |
 | Maddening | 0.50% | ~1,276 |
 | Beast Mode | 0.50% | ~1,276 |
 | A Mysterious Summons | 0.50% | ~1,276 |
-| Unearthed Evil | 0.50% | ~1,276 |
 | The Crumbling Temple | 0.50% | ~1,276 |
 | Exploring Port Nyanzaru | 0.50% | ~1,276 |
 | The Contagious Curse | 0.50% | ~1,276 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,151 (Ranked 71)  
+Progressed: 255,154 (Ranked 71)  
 Completed: 2,630 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -830,11 +830,11 @@ Completed: 2,630 (1.03%) (Ranked 180)
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
-| 2024-01-22 | 255,151 | 2,630 |
+| 2024-01-22 | 255,154 | 2,630 |
 ## Awards
-Max (Great for Beginners): 5,810  (Ranked 74)  
+Max (Great for Beginners): 5,810  (Ranked 75)  
 Sum: 33,602 (Ranked 41)  
-Diff (max vs sum): 33  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,810 |

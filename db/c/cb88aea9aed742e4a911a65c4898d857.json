@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 223,
+  "Ranking_Rating": 224,
   "Ranking_Popularity": 331,
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 122,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -455,7 +455,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12055,
+  "EOS_Progressed": 12056,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 0,
@@ -5790,6 +5790,11 @@
       "Time": "2024-01-22T06:10:19.2840046+00:00",
       "NumProgressed": 12055,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T08:10:33.568959+00:00",
+      "NumProgressed": 12056,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5810,7 +5815,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2049
+      "UsersEstimate": 2050
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -6146,7 +6151,7 @@
       "Name": "Polyglot",
       "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "46_ASpark",
@@ -6266,7 +6271,7 @@
       "Name": "The Not-So-Bottomless Pit",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "61_TheScourge",
@@ -6321,7 +6326,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12055,
+      "Progressed": 12056,
       "Completed": 1
     }
   ],
@@ -6329,8 +6334,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-21T22:57:25.0496169+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:10:04.9943576+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:33.5689588+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:57:26.9964545+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:10:04.9944151+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:57:36.3617785+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:33.5690154+00:00"
 }

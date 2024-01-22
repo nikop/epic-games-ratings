@@ -1,7 +1,7 @@
 # The Invincible
 [Store](https://store.epicgames.com/en-US/p/the-invincible)  
 [View Rawdata](../../db/t/the_invincible.json)  
-Rating: 4.54 (Ranked 551)  
+Rating: 4.54 (Ranked 552)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -20,7 +20,7 @@ Rating: 4.54 (Ranked 551)
 | Fierce fight | 23.00% | ~410 |
 | Volcanologist | 23.00% | ~410 |
 | Evacuation | 22.00% | ~392 |
-| Beyond divisions | 19.00% | ~339 |
+| Beyond divisions | 20.00% | ~356 |
 | Flying Objects Operator | 18.00% | ~321 |
 | I remember everything! | 14.00% | ~249 |
 | Another giant | 14.00% | ~249 |

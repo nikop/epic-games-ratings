@@ -2,7 +2,7 @@
   "ID": "8b2f4c9ee4e74d05b801565de8fd4500",
   "Name": "The Expanse - A Telltale Series",
   "ProductSlug": "the-expanse-a-telltale-series",
-  "Ranking_Rating": 551,
+  "Ranking_Rating": 552,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
@@ -361,7 +361,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19224,
+  "EOS_Progressed": 19225,
   "EOS_Completed": 66,
   "EOS_NewPlayers": 189,
   "EOS_NewCompleters": 1,
@@ -17986,6 +17986,11 @@
       "Time": "2024-01-22T05:06:14.5938405+00:00",
       "NumProgressed": 19224,
       "NumCompleted": 66
+    },
+    {
+      "Time": "2024-01-22T08:05:17.9254142+00:00",
+      "NumProgressed": 19225,
+      "NumCompleted": 66
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18014,7 +18019,7 @@
       "Name": "The Pit and the Pirates",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "12",
@@ -18078,7 +18083,7 @@
       "Name": "Martian Music",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "2",
@@ -18150,7 +18155,7 @@
       "Name": "Bosmang",
       "Percentage": 14,
       "XP": 100,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "28",
@@ -18230,7 +18235,7 @@
       "Name": "Impossible Objects",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 2691
+      "UsersEstimate": 2692
     },
     {
       "ID": "31",
@@ -18262,7 +18267,7 @@
       "Name": "Master Negotiator",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "35",
@@ -18277,13 +18282,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19224,
+      "Progressed": 19225,
       "Completed": 66
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5178,
+      "Progressed": 5179,
       "Completed": 1379
     }
   ],
@@ -18291,8 +18296,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-21T06:58:34.7730339+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:04:48.3570785+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:05:17.925414+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-22T06:58:23.8115244+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:04:48.3571949+00:00"
+  "LastUpdate_Ratings": "2024-01-22T07:58:40.4611956+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:05:17.9255455+00:00"
 }

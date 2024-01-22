@@ -6,10 +6,10 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,738 |
-| The Assault | 5.00% | ~38,115 |
-| Life is your teacher | 5.00% | ~38,115 |
-| Lightning Hands | 5.00% | ~38,115 |
+| The Old Grandmaster | 6.00% | ~45,739 |
+| The Assault | 5.00% | ~38,116 |
+| Life is your teacher | 5.00% | ~38,116 |
+| Lightning Hands | 5.00% | ~38,116 |
 | The Hateful Pole Fighter | 3.00% | ~22,869 |
 | Stuntmaster | 3.00% | ~22,869 |
 | Street Fighting | 3.00% | ~22,869 |
@@ -31,7 +31,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Dance of the Praying Mantis | 1.00% | ~7,623 |
 | Kung-Fu Tussle | 1.00% | ~7,623 |
 | Project Arena | 1.00% | ~716 |
-| Fight the way you practice | 0.90% | ~644 |
+| Fight the way you practice | 0.90% | ~645 |
 | Muk Yan Master | 0.80% | ~6,098 |
 | Tiger on Fire | 0.70% | ~5,336 |
 | Source of Flying Daggers | 0.70% | ~5,336 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,307 (Ranked 26)  
+Progressed: 762,312 (Ranked 26)  
 Completed: 13,003 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,22 +344,22 @@ Completed: 13,003 (1.71%) (Ranked 150)
 | 2024-01-19 | 761,872 | 12,994 |
 | 2024-01-20 | 762,069 | 13,000 |
 | 2024-01-21 | 762,261 | 13,003 |
-| 2024-01-22 | 762,307 | 13,003 |
+| 2024-01-22 | 762,312 | 13,003 |
 ## Awards
-Max (Great Boss Battles): 7,249  (Ranked 58)  
-Sum: 12,835 (Ranked 87)  
+Max (Great Boss Battles): 7,261  (Ranked 58)  
+Sum: 12,849 (Ranked 87)  
 Diff (max vs sum): -29  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 7,249 |
+| This game has Great Boss Battles | 7,261 |
 | This game has Diverse Characters | 713 |
 | This game has Challenging Combat | 652 |
 | This game has Amazing Storytelling | 626 |
 | This game has Amazing Characters | 624 |
 | This game is Highly Recommended | 615 |
 | This game has Quickly Understood Controls | 601 |
+| This game is Extremely Fun | 595 |
 | This game has Unique Visuals | 595 |
-| This game is Extremely Fun | 593 |
 | This game is Relaxing | 567 |
 | This game has a Creative Community | 436 |
 | This game has Obsessive Gameplay | 293 |
@@ -735,3 +735,4 @@ Diff (max vs sum): -29
 | 2024-01-19 | 4.82 | - | 7,237 | 12,812 |
 | 2024-01-20 | 4.82 | - | 7,245 | 12,828 |
 | 2024-01-21 | 4.82 | - | 7,249 | 12,835 |
+| 2024-01-22 | 4.82 | - | 7,261 | 12,849 |

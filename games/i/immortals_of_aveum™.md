@@ -1,20 +1,20 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 971)  
+Rating: 4.20 (Ranked 972)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,182 |
+| Unforeseen | 89.00% | ~3,183 |
 | Battlefields Have Memories | 82.00% | ~2,932 |
-| Enlisted | 76.00% | ~2,717 |
-| Maybe Engage a Little | 71.00% | ~2,538 |
-| No More Names | 55.00% | ~1,966 |
+| Enlisted | 76.00% | ~2,718 |
+| Maybe Engage a Little | 71.00% | ~2,539 |
+| No More Names | 55.00% | ~1,967 |
 | Initiate | 41.00% | ~1,466 |
-| Thrada-Kul | 38.00% | ~1,358 |
-| Gravity-Challenged Rocks | 31.00% | ~1,108 |
-| Soldier | 27.00% | ~965 |
-| All the Major Food Groups | 27.00% | ~965 |
+| Thrada-Kul | 38.00% | ~1,359 |
+| Gravity-Challenged Rocks | 31.00% | ~1,109 |
+| Soldier | 27.00% | ~966 |
+| All the Major Food Groups | 27.00% | ~966 |
 | Socialite | 25.00% | ~894 |
 | Beggars Would Ride | 25.00% | ~894 |
 | Control is an Illusion | 24.00% | ~858 |
@@ -32,7 +32,7 @@ Rating: 4.20 (Ranked 971)
 | Periapt Viridian | 8.00% | ~286 |
 | Best Dressed | 7.00% | ~250 |
 | Shroudfane Explorer | 7.00% | ~250 |
-| Kitted Out | 6.00% | ~214 |
+| Kitted Out | 6.00% | ~215 |
 | Armaments Azure | 5.00% | ~179 |
 | Armaments Gules | 5.00% | ~179 |
 | Scholar | 4.00% | ~143 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 971)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,575 (Ranked 230)  
+Progressed: 3,576 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,7 +169,7 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
 | 2024-01-21 | 3,570 | 5 |
-| 2024-01-22 | 3,575 | 5 |
+| 2024-01-22 | 3,576 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 565)  
 Sum: 43 (Ranked 525)  

@@ -2,13 +2,13 @@
   "ID": "impala",
   "Name": "The Division 2 Standard Edition",
   "ProductSlug": "the-division-2",
-  "Ranking_Rating": 620,
+  "Ranking_Rating": 621,
   "Ranking_Popularity": 46,
   "Ranking_PopularitySum": 46,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2019-03-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -15189,10 +15189,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 31109,
       "NumberOfAwardsMax": 9108
+    },
+    {
+      "Time": "2024-01-22T08:02:45.0323257+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 31123,
+      "NumberOfAwardsMax": 9108
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 31109,
+  "NumberOfAwards": 31123,
   "NumberOfAwardsMax": 9108,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -15218,13 +15224,13 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 1637
+      "Count": 1645
     },
     {
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1669
+      "Count": 1675
     },
     {
       "Text": "This game is Relaxing",
@@ -15280,8 +15286,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:22:04.4200787+00:00",
-  "LastChanged": "2024-01-22T03:00:32.7163168+00:00",
+  "LastChanged": "2024-01-22T08:02:45.0323256+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:56.474885+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:02:32.5289377+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:03:25.3089026+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:02:45.0323262+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:03:46.0892903+00:00"
 }

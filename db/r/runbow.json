@@ -2,13 +2,13 @@
   "ID": "aa7c3e6b5a2a4ca8962270c15bddb861",
   "Name": "Runbow",
   "ProductSlug": "runbow-fc9fa4",
-  "Ranking_Rating": 680,
+  "Ranking_Rating": 681,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 72,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 159,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewPlayers": 158,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-09-29T15:00:00+00:00",
     "PcReleaseDate": "2016-11-18T05:00:00+00:00",
@@ -182,9 +182,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 253734,
+  "EOS_Progressed": 253737,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 249,
+  "EOS_NewPlayers": 250,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -24722,6 +24722,11 @@
       "Time": "2024-01-22T06:10:11.8214133+00:00",
       "NumProgressed": 253734,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-22T08:10:25.3554569+00:00",
+      "NumProgressed": 253737,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 46,
@@ -24733,7 +24738,7 @@
       "Name": "Just A Phaze",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17761
+      "UsersEstimate": 17762
     },
     {
       "ID": "aWinnerIsYou",
@@ -24757,7 +24762,7 @@
       "Name": "Be Aggressive",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 53284
+      "UsersEstimate": 53285
     },
     {
       "ID": "blotbuster",
@@ -24805,7 +24810,7 @@
       "Name": "Chan-tastic",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 38060
+      "UsersEstimate": 38061
     },
     {
       "ID": "clearCut",
@@ -24829,7 +24834,7 @@
       "Name": "Crowning Around",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 45672
+      "UsersEstimate": 45673
     },
     {
       "ID": "curator",
@@ -24909,7 +24914,7 @@
       "Name": "In The Zone",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 134479
+      "UsersEstimate": 134481
     },
     {
       "ID": "indegestible",
@@ -24925,7 +24930,7 @@
       "Name": "Into The Drift",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 17761
+      "UsersEstimate": 17762
     },
     {
       "ID": "itsTheFall",
@@ -24933,7 +24938,7 @@
       "Name": "It\u0027s The Fall",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 65971
+      "UsersEstimate": 65972
     },
     {
       "ID": "justABit",
@@ -24973,7 +24978,7 @@
       "Name": "My First Runbow",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 126867
+      "UsersEstimate": 126868
     },
     {
       "ID": "notScared",
@@ -25037,7 +25042,7 @@
       "Name": "The Stunner",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 58359
+      "UsersEstimate": 58360
     },
     {
       "ID": "thunderstruck",
@@ -25053,7 +25058,7 @@
       "Name": "Toasty!",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 32985
+      "UsersEstimate": 32986
     },
     {
       "ID": "treeMedalist",
@@ -25093,14 +25098,14 @@
       "Name": "You Juan-A-Go?",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 40597
+      "UsersEstimate": 40598
     }
   ],
   "AchievementSets": [
     {
       "ID": "d7im63i",
       "IsBase": true,
-      "Progressed": 253734,
+      "Progressed": 253737,
       "Completed": 6
     }
   ],
@@ -25108,8 +25113,8 @@
   "FirstSeenRating": "2022-10-01T13:01:20.7436535+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.0454593+00:00",
   "LastChanged": "2023-03-31T05:57:38.188757+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:09:57.3058506+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:10:25.3554567+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.9478555+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:00:25.7465078+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:09:57.3059662+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:02:38.5128577+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:10:25.3556523+00:00"
 }

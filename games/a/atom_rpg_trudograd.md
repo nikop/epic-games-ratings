@@ -1,7 +1,7 @@
 # ATOM RPG Trudograd
 [Store](https://store.epicgames.com/en-US/p/atom-rpg-trudograd-a97244)  
 [View Rawdata](../../db/a/atom_rpg_trudograd.json)  
-Rating: 4.57 (Ranked 497)  
+Rating: 4.57 (Ranked 498)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -38,7 +38,7 @@ Rating: 4.57 (Ranked 497)
 | Terrorist | 0.20% | ~3 |
 | Escalation of Conflict | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,419 (Ranked 279)  
+Progressed: 1,420 (Ranked 279)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -233,6 +233,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-18 | 1,414 | 0 |
 | 2024-01-19 | 1,415 | 0 |
 | 2024-01-21 | 1,419 | 0 |
+| 2024-01-22 | 1,420 | 0 |
 ## Awards
 Max (Character Customization): 26  (Ranked 551)  
 Sum: 26 (Ranked 563)  

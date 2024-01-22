@@ -1,12 +1,12 @@
 # Darksiders Genesis
 [Store](https://store.epicgames.com/en-US/p/darksiders-genesis)  
 [View Rawdata](../../db/d/darksiders_genesis.json)  
-Rating: 4.49 (Ranked 643)  
+Rating: 4.49 (Ranked 644)  
 Number of Ratings: 67  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Mint I | 6.00% | ~44 |
+| Mint I | 6.00% | ~45 |
 | Soul Cache | 5.00% | ~37 |
 | Astarte | 2.00% | ~15 |
 | Close the Rift | 2.00% | ~15 |
@@ -37,7 +37,7 @@ Number of Ratings: 67  (23.09.2022)
 | Moloch | 0.00% | ~0 |
 | Garden of Forking Paths | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741 (Ranked 328)  
+Progressed: 742 (Ranked 328)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -77,7 +77,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 710 | 0 |
 | 2024-01-20 | 724 | 0 |
 | 2024-01-21 | 739 | 0 |
-| 2024-01-22 | 741 | 0 |
+| 2024-01-22 | 742 | 0 |
 ## Awards
 Max (Great Boss Battles): 45  (Ranked 479)  
 Sum: 45 (Ranked 524)  

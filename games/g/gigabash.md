@@ -1,25 +1,25 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 582)  
+Rating: 4.52 (Ranked 583)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,184 |
-| I've Had Enough! | 15.00% | ~18,888 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,851 |
-| Seasoned Fighter | 9.00% | ~11,333 |
-| All For One and One For All | 8.00% | ~10,074 |
-| Home Sweet Home? | 6.00% | ~7,555 |
-| A New Age | 5.00% | ~6,296 |
+| All Grown Up! | 20.00% | ~25,187 |
+| I've Had Enough! | 15.00% | ~18,890 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,853 |
+| Seasoned Fighter | 9.00% | ~11,334 |
+| All For One and One For All | 8.00% | ~10,075 |
+| Home Sweet Home? | 6.00% | ~7,556 |
+| A New Age | 5.00% | ~6,297 |
 | Oh Baby, A Triple | 3.00% | ~3,778 |
 | Master of Disguise | 3.00% | ~3,778 |
 | Symbiotic | 3.00% | ~3,778 |
-| Battle Hardened | 2.00% | ~2,518 |
-| Double Punch! | 2.00% | ~2,518 |
-| It's Mayhem! | 2.00% | ~2,518 |
-| Right back at'cha | 2.00% | ~2,518 |
-| Spectacular Finisher | 2.00% | ~2,518 |
+| Battle Hardened | 2.00% | ~2,519 |
+| Double Punch! | 2.00% | ~2,519 |
+| It's Mayhem! | 2.00% | ~2,519 |
+| Right back at'cha | 2.00% | ~2,519 |
+| Spectacular Finisher | 2.00% | ~2,519 |
 | Cautious Veteran | 1.00% | ~1,259 |
 | Katamari | 1.00% | ~1,259 |
 | Martyrdom | 1.00% | ~1,259 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 582)
 | What's Mine is Yours | 0.10% | ~126 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,921 (Ranked 94)  
+Progressed: 125,936 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 124,900 | 0 |
 | 2024-01-20 | 125,359 | 0 |
 | 2024-01-21 | 125,815 | 0 |
-| 2024-01-22 | 125,921 | 0 |
+| 2024-01-22 | 125,936 | 0 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 441)  
 Sum: 58 (Ranked 505)  

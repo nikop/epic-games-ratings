@@ -2,13 +2,13 @@
   "ID": "308cbcb523ad4937a8c509d10e9b688a",
   "Name": "Farming Simulator 22",
   "ProductSlug": "farming-simulator-22",
-  "Ranking_Rating": 287,
+  "Ranking_Rating": 288,
   "Ranking_Popularity": 67,
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 145,
+  "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13872,9 +13872,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63494,
+  "EOS_Progressed": 63495,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 787,
+  "EOS_NewPlayers": 784,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40357,6 +40357,11 @@
       "Time": "2024-01-22T07:08:27.2499411+00:00",
       "NumProgressed": 63494,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-22T08:08:46.8020626+00:00",
+      "NumProgressed": 63495,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -40440,7 +40445,7 @@
       "Name": "Highly cultivated",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "CultivateFirst",
@@ -40448,7 +40453,7 @@
       "Name": "I read Shakespeare and stuff",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 37461
+      "UsersEstimate": 37462
     },
     {
       "ID": "CutTree",
@@ -40544,7 +40549,7 @@
       "Name": "Giddy-up!",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 5714
+      "UsersEstimate": 5715
     },
     {
       "ID": "LoadedOldSavegame",
@@ -40552,7 +40557,7 @@
       "Name": "It\u0027s never too late to farm",
       "Percentage": 45,
       "XP": 100,
-      "UsersEstimate": 28572
+      "UsersEstimate": 28573
     },
     {
       "ID": "Mission",
@@ -40576,7 +40581,7 @@
       "Name": "Hard work pays off",
       "Percentage": 49,
       "XP": 55,
-      "UsersEstimate": 31112
+      "UsersEstimate": 31113
     },
     {
       "ID": "NumBeehives",
@@ -40648,7 +40653,7 @@
       "Name": "It\u0027s sow easy",
       "Percentage": 10,
       "XP": 55,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "SowFirst",
@@ -40664,7 +40669,7 @@
       "Name": "Rock on",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 6349
+      "UsersEstimate": 6350
     },
     {
       "ID": "TractorDriving",
@@ -40711,15 +40716,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63494,
+      "Progressed": 63495,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-21T21:01:39.8007205+00:00",
-  "LastChanged_Achievements": "2024-01-22T07:08:27.2499408+00:00",
+  "LastChanged_Achievements": "2024-01-22T08:08:46.8020624+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:00:25.6224492+00:00",
-  "LastUpdate_Achievements": "2024-01-22T07:08:27.2500733+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:02:38.3713793+00:00",
+  "LastUpdate_Achievements": "2024-01-22T08:08:46.8021865+00:00"
 }

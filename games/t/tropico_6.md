@@ -1,15 +1,15 @@
 # Tropico 6
 [Store](https://store.epicgames.com/en-US/p/tropico-6)  
 [View Rawdata](../../db/t/tropico_6.json)  
-Rating: 4.64 (Ranked 347)  
+Rating: 4.64 (Ranked 348)  
 Number of Ratings: 398  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Just One...More...Term... | 73.00% | ~5,282 |
-| Un-Lonely Island | 44.00% | ~3,183 |
+| Un-Lonely Island | 44.00% | ~3,184 |
 | The Beginning of a Servantship | 43.00% | ~3,111 |
-| Trade Is My Trait | 35.00% | ~2,532 |
+| Trade Is My Trait | 35.00% | ~2,533 |
 | Number 18 | 23.00% | ~1,664 |
 | We Don't Have Time For That | 18.00% | ~1,302 |
 | The Legend of Langostino | 16.00% | ~1,158 |
@@ -21,11 +21,11 @@ Number of Ratings: 398  (23.09.2022)
 | For Science! | 10.00% | ~724 |
 | Of Seals And Men | 9.00% | ~651 |
 | Shackadelic | 9.00% | ~651 |
-| Double Trouble | 7.00% | ~506 |
-| Firestarter | 7.00% | ~506 |
-| I Owe You Nothing | 7.00% | ~506 |
-| Make Tropico Great Again! | 7.00% | ~506 |
-| French Connection | 7.00% | ~506 |
+| Double Trouble | 7.00% | ~507 |
+| Firestarter | 7.00% | ~507 |
+| I Owe You Nothing | 7.00% | ~507 |
+| Make Tropico Great Again! | 7.00% | ~507 |
+| French Connection | 7.00% | ~507 |
 | Don't Panic! | 6.00% | ~434 |
 | Viva Tropico! | 5.00% | ~362 |
 | Computer Says "No" | 5.00% | ~362 |
@@ -47,7 +47,7 @@ Number of Ratings: 398  (23.09.2022)
 | Survivor | 0.80% | ~58 |
 | My Ways | 0.20% | ~14 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,235 (Ranked 202)  
+Progressed: 7,236 (Ranked 202)  
 Completed: 2 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -324,7 +324,7 @@ Completed: 2 (0.03%) (Ranked 364)
 | 2024-01-19 | 7,203 | 2 |
 | 2024-01-20 | 7,216 | 2 |
 | 2024-01-21 | 7,233 | 2 |
-| 2024-01-22 | 7,235 | 2 |
+| 2024-01-22 | 7,236 | 2 |
 ## Awards
 Max (Highly Recommended): 107  (Ranked 374)  
 Sum: 775 (Ranked 303)  
