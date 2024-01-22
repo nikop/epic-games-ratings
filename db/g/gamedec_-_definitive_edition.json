@@ -2,7 +2,7 @@
   "ID": "b8abdf9f9bc64ed6b4128a71fd47607f",
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
-  "Ranking_Rating": 904,
+  "Ranking_Rating": 905,
   "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 475,
   "Ranking_EOS_Progress": 70,
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258614,
+  "EOS_Progressed": 258615,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31657,6 +31657,11 @@
       "Time": "2024-01-22T22:05:20.3555896+00:00",
       "NumProgressed": 258614,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T23:05:35.5421214+00:00",
+      "NumProgressed": 258615,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -32083,7 +32088,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258614,
+      "Progressed": 258615,
       "Completed": 8
     }
   ],
@@ -32091,8 +32096,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:05:20.3555893+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:05:35.5421211+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:02:38.7626743+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:05:20.3557245+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:02:58.0088068+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:05:35.5422811+00:00"
 }

@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 974,
+  "Ranking_Rating": 975,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 180,
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12499,
+  "EOS_Progressed": 12500,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 153,
+  "EOS_NewPlayers": 152,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -16333,6 +16333,11 @@
       "Time": "2024-01-22T21:07:28.9336259+00:00",
       "NumProgressed": 12499,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2024-01-22T23:05:55.7638906+00:00",
+      "NumProgressed": 12500,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 29,
@@ -16344,7 +16349,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10374
+      "UsersEstimate": 10375
     },
     {
       "ID": "ACH02",
@@ -16575,7 +16580,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12499,
+      "Progressed": 12500,
       "Completed": 95
     }
   ],
@@ -16583,8 +16588,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:05:41.1604095+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:05:55.7638903+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:57:02.6028595+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:05:41.1604999+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:57:26.7748437+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:05:55.7639892+00:00"
 }

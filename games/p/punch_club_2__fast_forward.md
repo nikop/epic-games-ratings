@@ -55,10 +55,10 @@
 | Absolute Champion! | 30.00% | ~181 |
 | Seashell hunter | 30.00% | ~181 |
 | Problems of cyborgs | 29.00% | ~175 |
+| Not little hacker | 29.00% | ~175 |
 | Another world | 28.00% | ~169 |
 | The lonesome road | 28.00% | ~169 |
 | Key memories | 28.00% | ~169 |
-| Not little hacker | 28.00% | ~169 |
 | The heart of the Resistance | 28.00% | ~169 |
 | Trap disarmed | 27.00% | ~163 |
 | Keep nature safe | 27.00% | ~163 |

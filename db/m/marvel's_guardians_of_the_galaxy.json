@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 138,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -2450,10 +2450,16 @@
       "Rating": 4.64,
       "NumberOfAwards": 6337,
       "NumberOfAwardsMax": 4997
+    },
+    {
+      "Time": "2024-01-22T22:59:19.7680694+00:00",
+      "Rating": 4.64,
+      "NumberOfAwards": 6346,
+      "NumberOfAwardsMax": 4997
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6337,
+  "NumberOfAwards": 6346,
   "NumberOfAwardsMax": 4997,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -2485,7 +2491,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 208
+      "Count": 217
     },
     {
       "Text": "This game is Relaxing",
@@ -2529,8 +2535,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:24:01.0577713+00:00",
-  "LastChanged": "2024-01-22T20:00:12.8589764+00:00",
+  "LastChanged": "2024-01-22T22:59:19.7680692+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:36.2996779+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:58:57.1159709+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:04:52.9121724+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:59:19.7680697+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:05:09.1333829+00:00"
 }

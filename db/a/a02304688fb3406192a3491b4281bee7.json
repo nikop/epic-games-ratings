@@ -113,9 +113,9 @@
       "ID": "18",
       "SetID": "5ekljfg",
       "Name": "Help an Old Pal?",
-      "Percentage": 40,
+      "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "19",
@@ -177,9 +177,9 @@
       "ID": "25",
       "SetID": "5ekljfg",
       "Name": "Like Father Like Daughter",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "26",
@@ -257,9 +257,9 @@
       "ID": "6",
       "SetID": "5ekljfg",
       "Name": "An Explosive Entrance",
-      "Percentage": 60,
+      "Percentage": 80,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "7",
@@ -273,9 +273,9 @@
       "ID": "8",
       "SetID": "5ekljfg",
       "Name": "River City Ransom",
-      "Percentage": 80,
+      "Percentage": 100,
       "XP": 25,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     }
   ],
   "AchievementSets": [
@@ -287,8 +287,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-10T02:27:31.2188456+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:05:48.2622163+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:06:02.7891383+00:00",
   "LastUpdate_AppInfo": "2024-01-17T02:21:32.7622177+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:59:47.8185619+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:05:48.26223+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:00:09.5833631+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:06:02.7891631+00:00"
 }

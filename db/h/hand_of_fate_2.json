@@ -967,7 +967,7 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 667775,
+  "EOS_Progressed": 667776,
   "EOS_Completed": 174,
   "EOS_NewPlayers": 354,
   "EOS_NewCompleters": 0,
@@ -27462,6 +27462,11 @@
       "Time": "2024-01-22T22:09:16.1245209+00:00",
       "NumProgressed": 667775,
       "NumCompleted": 174
+    },
+    {
+      "Time": "2024-01-22T23:09:38.1228497+00:00",
+      "NumProgressed": 667776,
+      "NumCompleted": 174
     }
   ],
   "TotalAchievements": 48,
@@ -27473,7 +27478,7 @@
       "Name": "The Fool",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 480798
+      "UsersEstimate": 480799
     },
     {
       "ID": "Achievement_02_Apprentice",
@@ -27497,7 +27502,7 @@
       "Name": "Adventurer",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40066
+      "UsersEstimate": 40067
     },
     {
       "ID": "Achievement_05_Protector_of_the_Realm",
@@ -27633,7 +27638,7 @@
       "Name": "Empire\u0027s Bane",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 40066
+      "UsersEstimate": 40067
     },
     {
       "ID": "Achievement_22_Cure_for_Corruption",
@@ -27856,15 +27861,15 @@
     {
       "ID": "27hb4pl",
       "IsBase": true,
-      "Progressed": 667775,
+      "Progressed": 667776,
       "Completed": 174
     }
   ],
   "FirstSeen": "2022-07-22T20:22:25.6908038+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.6405356+00:00",
   "LastChanged": "2024-01-19T09:58:28.6493786+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:09:16.1245205+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:09:38.1228494+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.5031167+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:59:52.878951+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:09:16.1246392+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:00:14.3201087+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:09:38.1229787+00:00"
 }

@@ -6,39 +6,39 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,431 |
-| Overkill | 33.00% | ~11,664 |
-| Vaccine Incoming | 31.00% | ~10,957 |
-| A normal day in Gloomhaven | 29.00% | ~10,250 |
-| Spread the plague | 26.00% | ~9,189 |
-| Get over here! | 24.00% | ~8,483 |
-| Just when I thought I was out... | 19.00% | ~6,715 |
-| Mine... All Mine... | 16.00% | ~5,655 |
-| Precious! | 15.00% | ~5,302 |
-| Grizzled veteran | 14.00% | ~4,948 |
-| Anatomy Lesson | 14.00% | ~4,948 |
-| Who's the Boss? | 12.00% | ~4,241 |
-| You activated my trap card! | 12.00% | ~4,241 |
-| Obstacle race | 12.00% | ~4,241 |
-| Light of my life | 12.00% | ~4,241 |
-| Augmented rat | 10.00% | ~3,534 |
-| Doom and gloom | 9.00% | ~3,181 |
+| I'm not dead yet | 38.00% | ~13,435 |
+| Overkill | 33.00% | ~11,667 |
+| Vaccine Incoming | 31.00% | ~10,960 |
+| A normal day in Gloomhaven | 29.00% | ~10,253 |
+| Spread the plague | 26.00% | ~9,193 |
+| Get over here! | 24.00% | ~8,485 |
+| Just when I thought I was out... | 19.00% | ~6,718 |
+| Mine... All Mine... | 16.00% | ~5,657 |
+| Precious! | 15.00% | ~5,303 |
+| Grizzled veteran | 14.00% | ~4,950 |
+| Anatomy Lesson | 14.00% | ~4,950 |
+| Who's the Boss? | 12.00% | ~4,243 |
+| You activated my trap card! | 12.00% | ~4,243 |
+| Obstacle race | 12.00% | ~4,243 |
+| Light of my life | 12.00% | ~4,243 |
+| Augmented rat | 10.00% | ~3,536 |
+| Doom and gloom | 9.00% | ~3,182 |
 | Dungeon Veteran | 8.00% | ~2,828 |
-| Pack leader | 7.00% | ~2,474 |
-| Pain is your friend | 7.00% | ~2,474 |
-| Black death | 7.00% | ~2,474 |
-| Play it again, Sam | 7.00% | ~2,474 |
+| Pack leader | 7.00% | ~2,475 |
+| Pain is your friend | 7.00% | ~2,475 |
+| Black death | 7.00% | ~2,475 |
+| Play it again, Sam | 7.00% | ~2,475 |
 | Caught off guard | 6.00% | ~2,121 |
 | Quad damage | 6.00% | ~2,121 |
-| Power Up! | 5.00% | ~1,767 |
-| Merchant of doom | 5.00% | ~1,767 |
-| Now you see me... | 5.00% | ~1,767 |
+| Power Up! | 5.00% | ~1,768 |
+| Merchant of doom | 5.00% | ~1,768 |
+| Now you see me... | 5.00% | ~1,768 |
 | The Pro from Dover | 4.00% | ~1,414 |
 | Pretty lights! | 4.00% | ~1,414 |
-| I hate portals | 3.00% | ~1,060 |
-| Down the hatch | 3.00% | ~1,060 |
-| An eye for an eye | 3.00% | ~1,060 |
-| The Cephalophore | 3.00% | ~1,060 |
+| I hate portals | 3.00% | ~1,061 |
+| Down the hatch | 3.00% | ~1,061 |
+| An eye for an eye | 3.00% | ~1,061 |
+| The Cephalophore | 3.00% | ~1,061 |
 | From Gloom, only greed and death emerges | 2.00% | ~707 |
 | The Rat King | 2.00% | ~707 |
 | How to train your Drake | 2.00% | ~707 |
@@ -46,11 +46,11 @@ Number of Ratings: 68  (23.09.2022)
 | The Sniper | 2.00% | ~707 |
 | Grin and bear it | 2.00% | ~707 |
 | An axe to grind | 2.00% | ~707 |
-| Betray this | 1.00% | ~353 |
-| Add a bit of colour | 1.00% | ~353 |
-| Captain hooked | 1.00% | ~353 |
-| Spoiler police! | 1.00% | ~353 |
-| New Blood | 1.00% | ~353 |
+| Betray this | 1.00% | ~354 |
+| Add a bit of colour | 1.00% | ~354 |
+| Captain hooked | 1.00% | ~354 |
+| Spoiler police! | 1.00% | ~354 |
+| New Blood | 1.00% | ~354 |
 | The Pacifist | 0.50% | ~177 |
 | The evil that men do | 0.50% | ~177 |
 | Born Support | 0.50% | ~177 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,344 (Ranked 140)  
+Progressed: 35,356 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,10 +199,10 @@ Completed: 1 (0.00%) (Ranked 409)
 | 2024-01-19 | 34,657 | 1 |
 | 2024-01-20 | 34,921 | 1 |
 | 2024-01-21 | 35,178 | 1 |
-| 2024-01-22 | 35,344 | 1 |
+| 2024-01-22 | 35,356 | 1 |
 ## Awards
 Max (Character Customization): 3,626  (Ranked 96)  
-Sum: 8,502 (Ranked 110)  
+Sum: 8,503 (Ranked 110)  
 Diff (max vs sum): -14  
 | Award | Count |
 | ----- | ----- |
@@ -216,7 +216,7 @@ Diff (max vs sum): -14
 | This game has Amazing Storytelling | 495 |
 | This game has Amazing Characters | 495 |
 | This game has Unique Visuals | 384 |
-| This game has a Creative Community | 223 |
+| This game has a Creative Community | 224 |
 | This game has Obsessive Gameplay | 152 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -490,3 +490,4 @@ Diff (max vs sum): -14
 | 2024-01-19 | 4.47 | - | 3,622 | 8,494 |
 | 2024-01-20 | 4.47 | - | 3,624 | 8,498 |
 | 2024-01-21 | 4.47 | - | 3,626 | 8,502 |
+| 2024-01-22 | 4.47 | - | 3,626 | 8,503 |

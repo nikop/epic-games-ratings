@@ -3,7 +3,7 @@
   "Name": "GRIME",
   "ProductSlug": "grime",
   "Ranking_Rating": 430,
-  "Ranking_Popularity": 434,
+  "Ranking_Popularity": 431,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 269,
@@ -1877,11 +1877,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 467,
       "NumberOfAwardsMax": 63
+    },
+    {
+      "Time": "2024-01-22T22:58:53.9473036+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 468,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 467,
-  "NumberOfAwardsMax": 63,
+  "NumberOfAwards": 468,
+  "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
     {
@@ -1894,7 +1900,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 63
+      "Count": 64
     },
     {
       "Text": "This game has Challenging Combat",
@@ -1939,9 +1945,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169322,
+  "EOS_Progressed": 169324,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 942,
+  "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24094,6 +24100,11 @@
       "Time": "2024-01-22T22:07:47.5737218+00:00",
       "NumProgressed": 169322,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2024-01-22T23:06:31.0440994+00:00",
+      "NumProgressed": 169324,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24473,21 +24484,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168905,
+      "Progressed": 168907,
       "Completed": 1268
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169322,
+      "Progressed": 169324,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-22T08:58:35.610038+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:07:47.5737213+00:00",
+  "LastChanged": "2024-01-22T22:58:53.9473034+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:06:31.0440992+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:58:30.3740391+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:07:47.5739032+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:58:53.947304+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:06:31.0442355+00:00"
 }

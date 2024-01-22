@@ -20,7 +20,7 @@
 | 15K | 26.00% | ~101 |
 | Grave Digger | 24.00% | ~81 |
 | Drinking Problem | 22.00% | ~85 |
-| Quick-Draw Pod | 21.00% | ~71 |
+| Quick-Draw Pod | 22.00% | ~74 |
 | Pork Chop Express | 20.00% | ~77 |
 | Professional Survivor | 19.00% | ~64 |
 | Skin Of Your Teeth | 17.00% | ~66 |
@@ -32,8 +32,8 @@
 | Perfect | 14.00% | ~47 |
 | Summers Here | 12.00% | ~40 |
 | Quit Horsin' Around | 11.00% | ~43 |
+| Quadsparagus | 11.00% | ~37 |
 | Fresh Pancake | 10.00% | ~39 |
-| Quadsparagus | 10.00% | ~34 |
 | Bring Home The Bacon | 9.00% | ~35 |
 | Expert Survivor | 8.00% | ~27 |
 | Early Bird | 6.00% | ~23 |

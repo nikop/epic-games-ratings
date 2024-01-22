@@ -10,11 +10,11 @@
 | Jung's dream | 40.00% | ~37 |
 | Pulp! Where Monsters Dwell | 32.00% | ~30 |
 | A continent with chemistry | 32.00% | ~30 |
-| The happy farmer girl | 29.00% | ~27 |
+| The happy farmer girl | 30.00% | ~28 |
 | Giant | 28.00% | ~26 |
 | Pulp! Terror Tales in the Night | 28.00% | ~26 |
 | A rival with no options | 27.00% | ~25 |
-| The artist | 25.00% | ~23 |
+| The artist | 26.00% | ~24 |
 | Diagnosis: fear | 25.00% | ~23 |
 | Ambition is... blind | 25.00% | ~23 |
 | Pulp! Out of this World | 24.00% | ~22 |
@@ -24,9 +24,9 @@
 | The seer | 19.00% | ~18 |
 | Welcome to Hellville | 18.00% | ~17 |
 | You had one wish left | 17.00% | ~16 |
+| Kirlian's best disciple | 17.00% | ~16 |
 | You've awakened the beast | 16.00% | ~15 |
 | Hate is... addictive | 16.00% | ~15 |
-| Kirlian's best disciple | 16.00% | ~15 |
 | Blessed antennas | 15.00% | ~14 |
 | The bully | 15.00% | ~14 |
 | Pulp! The Beyond | 14.00% | ~13 |

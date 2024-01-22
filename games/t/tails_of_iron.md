@@ -35,10 +35,10 @@ Rating: 4.57 (Ranked 498)
 | Defeat Rattus Augustail | 1.00% | ~23 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
+| Complete Ranger Faction | 0.90% | ~21 |
 | Discover the mystery of the Kings Chambers | 0.90% | ~21 |
 | Complete Redgi's Armory | 0.80% | ~19 |
 | Complete Arena Faction | 0.80% | ~19 |
-| Complete Ranger Faction | 0.80% | ~19 |
 | King of Kings | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)

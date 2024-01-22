@@ -3946,9 +3946,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243382,
+  "EOS_Progressed": 243388,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 355,
+  "EOS_NewPlayers": 360,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32686,6 +32686,11 @@
       "Time": "2024-01-22T22:09:49.6362555+00:00",
       "NumProgressed": 243382,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-22T23:10:11.055097+00:00",
+      "NumProgressed": 243388,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -32743,9 +32748,9 @@
       "ID": "CURSEDPOTIONS",
       "SetID": "5l8oe0h",
       "Name": "Consecutive Curses",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1704
+      "UsersEstimate": 1947
     },
     {
       "ID": "DAILY7",
@@ -33479,9 +33484,9 @@
       "ID": "SURVIVEON1",
       "SetID": "5l8oe0h",
       "Name": "Flesh Wound",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 5,
-      "UsersEstimate": 1947
+      "UsersEstimate": 2190
     },
     {
       "ID": "TELEPORTKNOCKBACKEXPLOSIVE50",
@@ -33800,13 +33805,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243382,
+      "Progressed": 243388,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4862,
+      "Progressed": 4868,
       "Completed": 431
     }
   ],
@@ -33814,8 +33819,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-21T22:00:30.5602822+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:09:49.6362551+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:10:11.0550968+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:02:29.5832031+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:09:49.6365011+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:00:39.2250573+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:10:11.0553404+00:00"
 }

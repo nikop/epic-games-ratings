@@ -1,7 +1,7 @@
 # Occupy Mars: The Game
 [Store](https://store.epicgames.com/en-US/p/occupy-mars)  
 [View Rawdata](../../db/o/occupy_mars__the_game.json)  
-Rating: 4.00 (Ranked 1,059)  
+Rating: 4.00 (Ranked 1,060)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,16 +12,16 @@ Rating: 4.00 (Ranked 1,059)
 | Zero Waste | 30.00% | ~573 |
 | Bob The Builder | 29.00% | ~554 |
 | I am the greatest botanist on this planet. | 28.00% | ~535 |
-| Gardener | 26.00% | ~496 |
-| Miner | 25.00% | ~477 |
+| Gardener | 26.00% | ~497 |
+| Miner | 25.00% | ~478 |
 | Houston we have a problem | 23.00% | ~439 |
 | Detective | 19.00% | ~363 |
 | The Collector | 18.00% | ~344 |
 | Get your hands dirty | 12.00% | ~229 |
 | Space Forest | 10.00% | ~191 |
 | All Wheel Trouble | 8.00% | ~153 |
-| DeDust | 6.00% | ~115 |
-| ITS crash site | 5.00% | ~95 |
+| DeDust | 5.00% | ~96 |
+| ITS crash site | 5.00% | ~96 |
 | “Aliens” | 4.00% | ~76 |
 | Plumber | 4.00% | ~76 |
 | To infinity and beyond! | 4.00% | ~76 |
@@ -54,7 +54,7 @@ Rating: 4.00 (Ranked 1,059)
 | You've got a friend in me | 0.00% | ~0 |
 | Tech Expert | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,909 (Ranked 259)  
+Progressed: 1,910 (Ranked 259)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -296,6 +296,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 1,905 | 0 |
 | 2024-01-20 | 1,907 | 0 |
 | 2024-01-21 | 1,909 | 0 |
+| 2024-01-22 | 1,910 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

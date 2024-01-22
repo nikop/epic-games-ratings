@@ -5,41 +5,41 @@ Rating: 4.46 (Ranked 679)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| In The Zone | 53.00% | ~134,487 |
-| My First Runbow | 50.00% | ~126,874 |
+| In The Zone | 53.00% | ~134,488 |
+| My First Runbow | 50.00% | ~126,876 |
 | It's The Fall | 26.00% | ~65,975 |
-| The Stunner | 23.00% | ~58,362 |
-| Be Aggressive | 21.00% | ~53,287 |
+| The Stunner | 23.00% | ~58,363 |
+| Be Aggressive | 21.00% | ~53,288 |
 | Curator | 20.00% | ~50,750 |
 | Crowning Around | 18.00% | ~45,675 |
-| Can You Dig It? | 17.00% | ~43,137 |
+| Can You Dig It? | 17.00% | ~43,138 |
 | You Juan-A-Go? | 16.00% | ~40,600 |
-| Chan-tastic | 15.00% | ~38,062 |
+| Chan-tastic | 15.00% | ~38,063 |
 | Muddy Waters | 14.00% | ~35,525 |
-| Toasty! | 13.00% | ~32,987 |
+| Toasty! | 13.00% | ~32,988 |
 | Lazy Laser | 8.00% | ~20,300 |
 | Ready? Fight! | 8.00% | ~20,300 |
-| Just A Phaze | 7.00% | ~17,762 |
-| Into The Drift | 7.00% | ~17,762 |
+| Just A Phaze | 7.00% | ~17,763 |
+| Into The Drift | 7.00% | ~17,763 |
 | Butt Butt | 6.00% | ~15,225 |
-| He Who Laughs Last | 3.00% | ~7,612 |
-| Shoo, Cat! | 3.00% | ~7,612 |
+| He Who Laughs Last | 3.00% | ~7,613 |
+| Shoo, Cat! | 3.00% | ~7,613 |
 | And You're Okay | 2.00% | ~5,075 |
 | Blotbuster | 2.00% | ~5,075 |
 | Thunderstruck | 2.00% | ~5,075 |
-| Just A Bit | 1.00% | ~2,537 |
-| Tubular, Dude | 1.00% | ~2,537 |
-| What A Trip | 1.00% | ~2,537 |
+| Just A Bit | 1.00% | ~2,538 |
+| Tubular, Dude | 1.00% | ~2,538 |
+| What A Trip | 1.00% | ~2,538 |
 | Please The King | 0.90% | ~2,284 |
 | Here We Go! | 0.80% | ~2,030 |
 | Clear-Cut | 0.50% | ~1,269 |
 | Breaking Out | 0.40% | ~1,015 |
 | Disposable | 0.40% | ~1,015 |
-| A Winner Is You | 0.20% | ~507 |
-| Final Nightmare | 0.20% | ~507 |
-| I'm Here All Night | 0.20% | ~507 |
-| Ride The Wave | 0.20% | ~507 |
-| Tree Medalist | 0.20% | ~507 |
+| A Winner Is You | 0.20% | ~508 |
+| Final Nightmare | 0.20% | ~508 |
+| I'm Here All Night | 0.20% | ~508 |
+| Ride The Wave | 0.20% | ~508 |
+| Tree Medalist | 0.20% | ~508 |
 | Can't Be Kept Down | 0.10% | ~254 |
 | Completionist | 0.10% | ~254 |
 | Did Your Time | 0.10% | ~254 |
@@ -52,7 +52,7 @@ Rating: 4.46 (Ranked 679)
 | Talent Scout | 0.10% | ~254 |
 | True Completionist | 0.10% | ~254 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 253,749 (Ranked 72)  
+Progressed: 253,751 (Ranked 72)  
 Completed: 6 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 6 (0.00%) (Ranked 409)
 | 2024-01-19 | 253,631 | 6 |
 | 2024-01-20 | 253,685 | 6 |
 | 2024-01-21 | 253,726 | 6 |
-| 2024-01-22 | 253,749 | 6 |
+| 2024-01-22 | 253,751 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

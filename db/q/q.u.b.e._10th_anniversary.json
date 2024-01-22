@@ -2,13 +2,13 @@
   "ID": "ad43401ad02840c2b2bee5f1f1a59988",
   "Name": "Q.U.B.E. 10th Anniversary",
   "ProductSlug": "qube-10th-anniversary-59e999",
-  "Ranking_Rating": 734,
+  "Ranking_Rating": 735,
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 144,
   "Ranking_EOS_Completed": 201,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -366,10 +366,10 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30342,
-  "EOS_Completed": 230,
-  "EOS_NewPlayers": 685,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 30343,
+  "EOS_Completed": 231,
+  "EOS_NewPlayers": 680,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
     {
@@ -11516,6 +11516,11 @@
       "Time": "2024-01-22T22:09:32.7683665+00:00",
       "NumProgressed": 30342,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2024-01-22T23:09:54.6666825+00:00",
+      "NumProgressed": 30343,
+      "NumCompleted": 231
     }
   ],
   "TotalAchievements": 24,
@@ -11551,7 +11556,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -11655,7 +11660,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10316
+      "UsersEstimate": 10317
     },
     {
       "ID": "ACH_Sector2",
@@ -11687,7 +11692,7 @@
       "Name": "Sector 5",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3944
+      "UsersEstimate": 3945
     },
     {
       "ID": "ACH_Sector6",
@@ -11718,16 +11723,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30342,
-      "Completed": 230
+      "Progressed": 30343,
+      "Completed": 231
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:09:32.7683661+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:09:54.6666822+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:02:31.4243211+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:09:32.7684372+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:00:40.8837681+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:09:54.6667551+00:00"
 }

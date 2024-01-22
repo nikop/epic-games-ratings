@@ -2,12 +2,12 @@
   "ID": "80e804312c2149c69a75aee703e85a9a",
   "Name": "Warface: Clutch",
   "ProductSlug": "warface",
-  "Ranking_Rating": 1079,
+  "Ranking_Rating": 1080,
   "Ranking_Popularity": 227,
   "Ranking_PopularitySum": 176,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-06-29T09:00:00+00:00",
@@ -4651,6 +4651,6 @@
   "FirstSeen": "2022-07-22T20:31:34.3823284+00:00",
   "LastChanged": "2024-01-22T19:58:47.9296956+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:22.9532091+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:58:00.319411+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:06:09.3616176+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:58:22.1383719+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:06:23.6651211+00:00"
 }

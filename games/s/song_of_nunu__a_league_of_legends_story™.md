@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 359)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Feels Familiar | 74.00% | ~1,174 |
+| Feels Familiar | 75.00% | ~1,190 |
 | I Broke It | 73.00% | ~1,159 |
 | Better On Ice | 69.00% | ~1,095 |
 | Notai Notes | 67.00% | ~1,063 |
@@ -24,8 +24,8 @@ Rating: 4.63 (Ranked 359)
 | The Relentless Storm | 47.00% | ~746 |
 | A Tragic Reminder | 46.00% | ~730 |
 | 3000 Year Blackout | 45.00% | ~714 |
+| So Close | 43.00% | ~682 |
 | The Finisher | 43.00% | ~682 |
-| So Close | 42.00% | ~667 |
 | You Get Used To It | 42.00% | ~667 |
 | Family | 40.00% | ~635 |
 | Biggest Snowball Ever | 40.00% | ~635 |

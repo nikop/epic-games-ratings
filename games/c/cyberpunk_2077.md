@@ -18,13 +18,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | Legend of The Afterlife | 0.60% | ~6,344 |
 | Bushido and Chill | 0.50% | ~5,287 |
 | Gun Fu | 0.50% | ~5,287 |
+| Master Crafter | 0.50% | ~5,287 |
 | Stanislavski's Method | 0.50% | ~5,287 |
 | The Fool | 0.50% | ~5,287 |
 | The World | 0.50% | ~5,287 |
 | All the President's Men | 0.50% | ~930 |
 | Arachnophobia | 0.50% | ~930 |
 | To Protect and Serve | 0.40% | ~4,229 |
-| Master Crafter | 0.40% | ~4,229 |
 | I Am The Law | 0.40% | ~4,229 |
 | The Quick and the Dead | 0.40% | ~4,229 |
 | True Warrior | 0.40% | ~4,229 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,309 (Ranked 17)  
-Completed: 3,149 (0.30%) (Ranked 264)  
+Progressed: 1,057,324 (Ranked 17)  
+Completed: 3,150 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,7 +351,7 @@ Completed: 3,149 (0.30%) (Ranked 264)
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
-| 2024-01-22 | 1,057,309 | 3,149 |
+| 2024-01-22 | 1,057,324 | 3,150 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
 Sum: 514,199 (Ranked 8)  

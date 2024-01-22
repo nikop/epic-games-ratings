@@ -2,12 +2,12 @@
   "ID": "5fdcc0dc67294af3be740f362bd976fd",
   "Name": "Magic: The Gathering Arena",
   "ProductSlug": "mtg-arena",
-  "Ranking_Rating": 697,
+  "Ranking_Rating": 698,
   "Ranking_Popularity": 33,
   "Ranking_PopularitySum": 19,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-01-16T08:00:00+00:00",
@@ -16790,10 +16790,16 @@
       "Rating": 4.45,
       "NumberOfAwards": 101594,
       "NumberOfAwardsMax": 13064
+    },
+    {
+      "Time": "2024-01-22T22:59:11.9131517+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 101612,
+      "NumberOfAwardsMax": 13064
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 101594,
+  "NumberOfAwards": 101612,
   "NumberOfAwardsMax": 13064,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -16825,7 +16831,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 9405
+      "Count": 9413
     },
     {
       "Text": "This game has Diverse Characters",
@@ -16837,7 +16843,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 9062
+      "Count": 9067
     },
     {
       "Text": "This game has Challenging Combat",
@@ -16861,7 +16867,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 6609
+      "Count": 6614
     }
   ],
   "EOS_Progressed": 0,
@@ -16875,8 +16881,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:26.8036404+00:00",
-  "LastChanged": "2024-01-22T20:59:50.5220063+00:00",
+  "LastChanged": "2024-01-22T22:59:11.9131515+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:33.9804668+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:58:49.8501749+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:03:29.8565313+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:59:11.9131532+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:03:47.8797197+00:00"
 }

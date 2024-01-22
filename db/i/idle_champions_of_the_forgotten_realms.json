@@ -2,12 +2,12 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1043,
-  "Ranking_Popularity": 75,
+  "Ranking_Rating": 1044,
+  "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
-  "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_Completed": 180,
+  "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9713,18 +9713,24 @@
       "Rating": 4.07,
       "NumberOfAwards": 33607,
       "NumberOfAwardsMax": 5810
+    },
+    {
+      "Time": "2024-01-22T22:58:05.0955828+00:00",
+      "Rating": 4.07,
+      "NumberOfAwards": 33610,
+      "NumberOfAwardsMax": 5813
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 33607,
-  "NumberOfAwardsMax": 5810,
+  "NumberOfAwards": 33610,
+  "NumberOfAwardsMax": 5813,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 5810
+      "Count": 5813
     },
     {
       "Text": "This game has Diverse Characters",
@@ -9763,9 +9769,9 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255221,
+  "EOS_Progressed": 255224,
   "EOS_Completed": 2633,
-  "EOS_NewPlayers": 1142,
+  "EOS_NewPlayers": 1136,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41258,6 +41264,11 @@
       "Time": "2024-01-22T22:09:51.9396349+00:00",
       "NumProgressed": 255221,
       "NumCompleted": 2633
+    },
+    {
+      "Time": "2024-01-22T23:10:13.4080717+00:00",
+      "NumProgressed": 255224,
+      "NumCompleted": 2633
     }
   ],
   "TotalAchievements": 546,
@@ -43931,9 +43942,9 @@
       "ID": "objective_completed_615",
       "SetID": "cc37lbc",
       "Name": "Wyllowwood",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_616",
@@ -45636,21 +45647,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221495,
+      "Progressed": 221498,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255221,
+      "Progressed": 255224,
       "Completed": 2633
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
-  "LastChanged": "2024-01-22T20:58:11.2922116+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:09:51.9396345+00:00",
+  "LastChanged": "2024-01-22T22:58:05.0955826+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:10:13.4080715+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:57:42.1896406+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:09:51.9419948+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:58:05.0955833+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:10:13.4103689+00:00"
 }

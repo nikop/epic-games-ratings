@@ -1,31 +1,31 @@
 # Poker Club
 [Store](https://store.epicgames.com/en-US/p/poker-club-6e18ee)  
 [View Rawdata](../../db/p/poker_club.json)  
-Rating: 3.84 (Ranked 1,092)  
+Rating: 3.84 (Ranked 1,093)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~420,398 |
-| Handy | 42.00% | ~232,325 |
-| Cold Caller | 40.00% | ~221,262 |
-| A Bit On The Side | 27.00% | ~149,352 |
-| Backdoor | 26.00% | ~143,820 |
-| Rank Amateur | 22.00% | ~121,694 |
-| Three Way | 19.00% | ~105,099 |
-| Deadly Assassin | 16.00% | ~88,505 |
-| Gutshot | 14.00% | ~77,442 |
-| Risk It For A Biscuit | 14.00% | ~77,442 |
-| Showoff | 13.00% | ~71,910 |
+| Pro Creation | 76.00% | ~420,402 |
+| Handy | 42.00% | ~232,328 |
+| Cold Caller | 40.00% | ~221,264 |
+| A Bit On The Side | 27.00% | ~149,353 |
+| Backdoor | 26.00% | ~143,822 |
+| Rank Amateur | 22.00% | ~121,695 |
+| Three Way | 19.00% | ~105,101 |
+| Deadly Assassin | 16.00% | ~88,506 |
+| Gutshot | 14.00% | ~77,443 |
+| Risk It For A Biscuit | 14.00% | ~77,443 |
+| Showoff | 13.00% | ~71,911 |
 | W.H.I.P. | 12.00% | ~66,379 |
 | Bet Bet Bet | 10.00% | ~55,316 |
 | Blindman's Bluff | 9.00% | ~49,784 |
 | Poker Joker | 9.00% | ~49,784 |
-| Never Give Up | 8.00% | ~44,252 |
-| The Bigger They Are | 8.00% | ~44,252 |
-| Total Knock Out | 8.00% | ~44,252 |
+| Never Give Up | 8.00% | ~44,253 |
+| The Bigger They Are | 8.00% | ~44,253 |
+| Total Knock Out | 8.00% | ~44,253 |
 | Dog Eat Dog | 7.00% | ~38,721 |
 | Quack Quack | 7.00% | ~38,721 |
-| Give Your Regards To Broadway | 6.00% | ~33,189 |
+| Give Your Regards To Broadway | 6.00% | ~33,190 |
 | Check Yourself | 4.00% | ~22,126 |
 | Moneymaker | 4.00% | ~22,126 |
 | In The Gang | 3.00% | ~16,595 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,092)
 | Rounder | 0.10% | ~553 |
 | Top Dog | 0.10% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,155 (Ranked 35)  
+Progressed: 553,161 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-19 | 552,525 | 2 |
 | 2024-01-20 | 552,747 | 2 |
 | 2024-01-21 | 552,997 | 2 |
-| 2024-01-22 | 553,155 | 2 |
+| 2024-01-22 | 553,161 | 2 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 424)  
 Sum: 216 (Ranked 415)  

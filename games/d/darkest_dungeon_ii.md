@@ -6,8 +6,8 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,257 |
-| Lost and Found | 9.00% | ~754 |
+| Malpractice Assurance | 15.00% | ~1,258 |
+| Lost and Found | 9.00% | ~755 |
 | Autodidact | 8.00% | ~10,681 |
 | This Belongs in a Museum | 7.00% | ~9,346 |
 | Creep and Sleep | 7.00% | ~9,346 |
@@ -32,22 +32,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,676 |
 | Nope | 5.00% | ~6,676 |
 | Friends 'Til the End | 5.00% | ~419 |
-| Resurrection | 4.00% | ~5,340 |
-| Unleash Hell | 4.00% | ~5,340 |
-| Funny Guy | 4.00% | ~5,340 |
-| Long Live the King | 4.00% | ~5,340 |
-| Wyrdly Reconstructed | 4.00% | ~5,340 |
-| Boxcar Kid | 4.00% | ~5,340 |
-| Unfulfilled Desires | 4.00% | ~5,340 |
-| Dissector | 4.00% | ~5,340 |
-| Banishment | 4.00% | ~5,340 |
-| Deprogramming | 4.00% | ~5,340 |
-| Now Stay Dead | 4.00% | ~5,340 |
-| Spelunker | 4.00% | ~5,340 |
-| Ramble On | 4.00% | ~5,340 |
-| A Clear Conscience | 4.00% | ~5,340 |
-| Unshackled | 4.00% | ~5,340 |
-| Road Trip | 4.00% | ~5,340 |
+| Resurrection | 4.00% | ~5,341 |
+| Unleash Hell | 4.00% | ~5,341 |
+| Funny Guy | 4.00% | ~5,341 |
+| Long Live the King | 4.00% | ~5,341 |
+| Wyrdly Reconstructed | 4.00% | ~5,341 |
+| Boxcar Kid | 4.00% | ~5,341 |
+| Unfulfilled Desires | 4.00% | ~5,341 |
+| Dissector | 4.00% | ~5,341 |
+| Banishment | 4.00% | ~5,341 |
+| Deprogramming | 4.00% | ~5,341 |
+| Now Stay Dead | 4.00% | ~5,341 |
+| Spelunker | 4.00% | ~5,341 |
+| Ramble On | 4.00% | ~5,341 |
+| A Clear Conscience | 4.00% | ~5,341 |
+| Unshackled | 4.00% | ~5,341 |
+| Road Trip | 4.00% | ~5,341 |
 | Hope Rekindled | 3.00% | ~4,005 |
 | Predator | 3.00% | ~4,005 |
 | Reverse Banditry | 3.00% | ~4,005 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,512 (Ranked 92)  
+Progressed: 133,516 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,512 | 5 |
+| 2024-01-22 | 133,516 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,821 (Ranked 58)  

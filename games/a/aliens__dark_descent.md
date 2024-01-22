@@ -20,10 +20,10 @@ Rating: 4.53 (Ranked 571)
 | Harper's Hell | 39.00% | ~2,550 |
 | Making a Stand | 38.00% | ~2,485 |
 | Damn Dude, You Gotta Lose Some Weight! | 36.00% | ~2,354 |
-| Where It All Begun | 34.00% | ~2,223 |
+| Where It All Begun | 35.00% | ~2,289 |
 | Recouped Investment | 33.00% | ~2,158 |
+| Living Nightmare | 29.00% | ~1,896 |
 | The More The Merrier | 29.00% | ~1,896 |
-| Living Nightmare | 28.00% | ~1,831 |
 | Omelette Du Fromage | 27.00% | ~1,766 |
 | The Darwin Era Was Here | 26.00% | ~1,700 |
 | Deep Into Insanity | 25.00% | ~1,635 |

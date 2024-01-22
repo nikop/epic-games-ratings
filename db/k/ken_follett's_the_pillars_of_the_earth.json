@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18049,
+  "EOS_Progressed": 18050,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 159,
   "EOS_NewCompleters": 0,
@@ -18945,6 +18945,11 @@
       "Time": "2024-01-22T21:06:39.2447066+00:00",
       "NumProgressed": 18049,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-22T23:05:22.2892886+00:00",
+      "NumProgressed": 18050,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -18972,7 +18977,7 @@
       "Name": "Wannabe knight",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4152
     },
     {
       "ID": "tpote_achievement_12",
@@ -19004,7 +19009,7 @@
       "Name": "Care, like a brother cares",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "tpote_achievement_16",
@@ -19076,7 +19081,7 @@
       "Name": "A brush with death",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "tpote_achievement_24",
@@ -19132,7 +19137,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5595
+      "UsersEstimate": 5596
     },
     {
       "ID": "tpote_achievement_30",
@@ -19172,7 +19177,7 @@
       "Name": "A cry for help",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "tpote_achievement_35",
@@ -19180,7 +19185,7 @@
       "Name": "Self-defense",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 541
+      "UsersEstimate": 542
     },
     {
       "ID": "tpote_achievement_36",
@@ -19220,7 +19225,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7039
+      "UsersEstimate": 7040
     },
     {
       "ID": "tpote_achievement_40",
@@ -19244,7 +19249,7 @@
       "Name": "Garden of Eden",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4152
     },
     {
       "ID": "tpote_achievement_6",
@@ -19252,7 +19257,7 @@
       "Name": "Full house",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 4151
+      "UsersEstimate": 4152
     },
     {
       "ID": "tpote_achievement_7",
@@ -19260,7 +19265,7 @@
       "Name": "Silentium est aureum",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 1263
+      "UsersEstimate": 1264
     },
     {
       "ID": "tpote_achievement_8",
@@ -19283,15 +19288,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18049,
+      "Progressed": 18050,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:05:06.6298127+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:05:22.2892879+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:02:49.0132382+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:05:06.6299189+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:03:08.6054394+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:05:22.2893773+00:00"
 }

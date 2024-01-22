@@ -1,13 +1,13 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.79 (Ranked 100)  
+Rating: 4.79 (Ranked 99)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Me and My Familiar | 9.00% | ~145 |
 | The Cost of Heroism | 9.00% | ~145 |
-| Me and My Familiar | 8.00% | ~129 |
 | This Too Shall Pass | 7.00% | ~113 |
 | Cutthroat Competitors | 7.00% | ~113 |
 | Gotta Ca... Must Collect All of Them | 6.00% | ~97 |

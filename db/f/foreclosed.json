@@ -2,9 +2,9 @@
   "ID": "9070f19d29354e45abf338e566da7ced",
   "Name": "FORECLOSED",
   "ProductSlug": "foreclosed",
-  "Ranking_EOS_Progress": 463,
-  "Ranking_EOS_Completed": 124,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_Progress": 461,
+  "Ranking_EOS_Completed": 125,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-08-12T13:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 157,
+  "EOS_Progressed": 158,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 2.55,
+  "EOS_Completed_Percentage": 2.53,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:36.3929113+00:00",
@@ -479,6 +479,11 @@
       "Time": "2024-01-21T16:08:43.3341549+00:00",
       "NumProgressed": 157,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T23:06:35.6563958+00:00",
+      "NumProgressed": 158,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 24,
@@ -488,9 +493,9 @@
       "ID": "AllCreditorsComplete",
       "SetID": "9e3d06k",
       "Name": "Full and Final Settlement",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "AutoBullets_0",
@@ -514,15 +519,15 @@
       "Name": "Sapper",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "EnemyDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Unstoppable",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "EnemyDefeat_1",
@@ -546,7 +551,7 @@
       "Name": "Breaking Through",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 106
     },
     {
       "ID": "FirstSkillBuy",
@@ -570,7 +575,7 @@
       "Name": "Sniper",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "Headshots_1",
@@ -584,9 +589,9 @@
       "ID": "KyklosPlan",
       "SetID": "9e3d06k",
       "Name": "The Red Herring",
-      "Percentage": 31,
+      "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "LiftEnemies_0",
@@ -632,9 +637,9 @@
       "ID": "StealthDefeat_0",
       "SetID": "9e3d06k",
       "Name": "Flatline",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "StealthDefeat_1",
@@ -648,17 +653,17 @@
       "ID": "StoryEnd",
       "SetID": "9e3d06k",
       "Name": "One Click Away",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "TelekinesisThrow_0",
       "SetID": "9e3d06k",
       "Name": "Mind Over Matter",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "TelekinesisThrow_1",
@@ -681,7 +686,7 @@
     {
       "ID": "9e3d06k",
       "IsBase": true,
-      "Progressed": 157,
+      "Progressed": 158,
       "Completed": 4
     }
   ],
@@ -689,8 +694,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.504536+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:36.392912+00:00",
   "LastChanged": "2023-03-31T05:58:41.5045361+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:07:52.2597023+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:06:35.6563956+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:20.1319416+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:57:53.5828007+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:07:52.2597186+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:58:16.0057672+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:06:35.6564215+00:00"
 }

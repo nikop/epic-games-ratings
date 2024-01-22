@@ -462,9 +462,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1283,
+  "EOS_Progressed": 1284,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4432,6 +4432,11 @@
       "Time": "2024-01-22T22:09:11.4434651+00:00",
       "NumProgressed": 1283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T23:09:33.6003958+00:00",
+      "NumProgressed": 1284,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4468,7 +4473,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "AttackCount",
@@ -4500,7 +4505,7 @@
       "Name": "This Spot\u0027s Taken",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "BurrowUp",
@@ -4652,7 +4657,7 @@
       "Name": "Multi Kill",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "MultiplayerWins",
@@ -4724,7 +4729,7 @@
       "Name": "Sorcerous Spree",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 115
+      "UsersEstimate": 116
     },
     {
       "ID": "SwapIntoPoisonCloud",
@@ -4875,15 +4880,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1283,
+      "Progressed": 1284,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:09:11.4434648+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:09:33.6003954+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:58:15.2646856+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:09:11.4435212+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:58:39.2436921+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:09:33.6004461+00:00"
 }

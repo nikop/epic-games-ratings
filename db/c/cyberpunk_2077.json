@@ -18926,10 +18926,10 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1057309,
-  "EOS_Completed": 3149,
-  "EOS_NewPlayers": 5020,
-  "EOS_NewCompleters": 44,
+  "EOS_Progressed": 1057324,
+  "EOS_Completed": 3150,
+  "EOS_NewPlayers": 5009,
+  "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50721,6 +50721,11 @@
       "Time": "2024-01-22T22:08:37.4955234+00:00",
       "NumProgressed": 1057309,
       "NumCompleted": 3149
+    },
+    {
+      "Time": "2024-01-22T23:08:59.5121155+00:00",
+      "NumProgressed": 1057324,
+      "NumCompleted": 3150
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50819,9 +50824,9 @@
       "ID": "HandyMan",
       "SetID": "47clieb",
       "Name": "Master Crafter",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4229
+      "UsersEstimate": 5287
     },
     {
       "ID": "IAmMaxTac",
@@ -51268,21 +51273,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057309,
-      "Completed": 3149
+      "Progressed": 1057324,
+      "Completed": 3150
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185932,
-      "Completed": 10684
+      "Progressed": 185947,
+      "Completed": 10685
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-22T22:03:01.2302401+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:08:37.4955228+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:08:59.5121151+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:03:01.2302407+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:08:37.4958224+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:03:19.2914997+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:08:59.5122969+00:00"
 }

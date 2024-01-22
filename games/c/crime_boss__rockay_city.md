@@ -1,7 +1,7 @@
 # Crime Boss: Rockay City
 [Store](https://store.epicgames.com/en-US/p/crime-boss)  
 [View Rawdata](../../db/c/crime_boss__rockay_city.json)  
-Rating: 3.96 (Ranked 1,071)  
+Rating: 3.96 (Ranked 1,072)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -22,8 +22,8 @@ Rating: 3.96 (Ranked 1,071)
 | Track Star | 1.00% | ~936 |
 | Headhunter | 1.00% | ~936 |
 | True Player | 1.00% | ~936 |
+| I Like Trains | 0.90% | ~842 |
 | Freebooter | 0.90% | ~842 |
-| I Like Trains | 0.80% | ~749 |
 | Foo Finder | 0.70% | ~655 |
 | Moneybags | 0.70% | ~655 |
 | Legend Looter | 0.60% | ~562 |

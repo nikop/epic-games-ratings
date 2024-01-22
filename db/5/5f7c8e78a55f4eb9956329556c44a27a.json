@@ -1418,9 +1418,9 @@
       "ID": "TINGWD_OUTBOX",
       "SetID": "c0imaa6",
       "Name": "Outside the box",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 59
+      "UsersEstimate": 62
     },
     {
       "ID": "TINGWD_PERPETUITY",
@@ -1442,9 +1442,9 @@
       "ID": "TINGWD_RADAR",
       "SetID": "c0imaa6",
       "Name": "Better than Mr. Radar",
-      "Percentage": 3,
+      "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 9
+      "UsersEstimate": 12
     },
     {
       "ID": "TINGWD_RAIDERS",
@@ -1474,9 +1474,9 @@
       "ID": "TINGWD_SHOOT",
       "SetID": "c0imaa6",
       "Name": "Skeet shoot",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "TINGWD_SPAM",
@@ -1513,8 +1513,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:03:52.1230652+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:04:09.5547084+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:48.2261697+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:02:40.29591+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:03:52.123091+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:02:59.4313281+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:04:09.5547323+00:00"
 }

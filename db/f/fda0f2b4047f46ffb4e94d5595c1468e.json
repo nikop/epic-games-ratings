@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 106,
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 152,
+  "Ranking_EOS_NewPlayers": 153,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5529,9 +5529,9 @@
       "Count": 676
     }
   ],
-  "EOS_Progressed": 24148,
+  "EOS_Progressed": 24149,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -17579,6 +17579,11 @@
       "Time": "2024-01-22T22:08:32.7865979+00:00",
       "NumProgressed": 24148,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T23:08:54.9980555+00:00",
+      "NumProgressed": 24149,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17591,7 +17596,7 @@
       "Name": "Become A Ninja In No Time",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 8210
+      "UsersEstimate": 8211
     },
     {
       "ID": "ach02",
@@ -17639,7 +17644,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11108
+      "UsersEstimate": 11109
     },
     {
       "ID": "ach08",
@@ -17647,7 +17652,7 @@
       "Name": "It Has Begun!!!",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7727
+      "UsersEstimate": 7728
     },
     {
       "ID": "ach09",
@@ -17887,7 +17892,7 @@
       "Name": "Made It Out Alive",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 8210
+      "UsersEstimate": 8211
     },
     {
       "ID": "ach39",
@@ -17919,7 +17924,7 @@
       "Name": "Quest Master",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7727
+      "UsersEstimate": 7728
     },
     {
       "ID": "ach43",
@@ -17927,7 +17932,7 @@
       "Name": "Working Overtime",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 7727
+      "UsersEstimate": 7728
     },
     {
       "ID": "ach44",
@@ -17990,7 +17995,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24148,
+      "Progressed": 24149,
       "Completed": 2
     }
   ],
@@ -17998,8 +18003,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-22T22:02:45.4617189+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:08:32.7865975+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:08:54.9980553+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:02:45.4617193+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:08:32.7866845+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:03:04.7657607+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:08:54.9981623+00:00"
 }

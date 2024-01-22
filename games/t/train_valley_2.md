@@ -1,22 +1,22 @@
 # Train Valley 2
 [Store](https://store.epicgames.com/en-US/p/train-valley-2-3606da)  
 [View Rawdata](../../db/t/train_valley_2.json)  
-Rating: 4.45 (Ranked 697)  
+Rating: 4.45 (Ranked 698)  
 Number of Ratings: 87  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Dealmaker | 74.00% | ~321,677 |
-| Full garage | 61.00% | ~265,166 |
-| To the eyeballs! | 51.00% | ~221,696 |
-| Individual delivery | 47.00% | ~204,308 |
-| Non-Stop | 45.00% | ~195,614 |
-| Juggler | 36.00% | ~156,491 |
-| Forgot something | 35.00% | ~152,144 |
-| Close call! | 31.00% | ~134,756 |
-| Get out my way | 28.00% | ~121,715 |
-| Common cause | 26.00% | ~113,021 |
-| Critical care | 26.00% | ~113,021 |
+| Dealmaker | 74.00% | ~321,679 |
+| Full garage | 61.00% | ~265,168 |
+| To the eyeballs! | 51.00% | ~221,698 |
+| Individual delivery | 47.00% | ~204,310 |
+| Non-Stop | 45.00% | ~195,616 |
+| Juggler | 36.00% | ~156,493 |
+| Forgot something | 35.00% | ~152,146 |
+| Close call! | 31.00% | ~134,758 |
+| Get out my way | 28.00% | ~121,717 |
+| Common cause | 26.00% | ~113,023 |
+| Critical care | 26.00% | ~113,023 |
 | Mega-railroad | 23.00% | ~99,981 |
 | Upgrade complete | 23.00% | ~99,981 |
 | Just in time! | 18.00% | ~78,246 |
@@ -65,7 +65,7 @@ Number of Ratings: 87  (23.09.2022)
 | BBQ | 0.80% | ~3,478 |
 | Miscalculation | 0.80% | ~3,478 |
 | Voyager | 0.60% | ~2,608 |
-| Railroad tycoon | 0.50% | ~2,173 |
+| Railroad tycoon | 0.50% | ~2,174 |
 | It's no coincidence | 0.40% | ~1,739 |
 | Miner | 0.30% | ~1,302 |
 | Pink Ruby | 0.30% | ~1,302 |
@@ -96,7 +96,7 @@ Number of Ratings: 87  (23.09.2022)
 | Whoooosh! | 0.10% | ~434 |
 | World Zapper | 0.10% | ~434 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 434,698 (Ranked 46)  
+Progressed: 434,702 (Ranked 46)  
 Completed: 24 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 24 (0.01%) (Ranked 383)
 | 2024-01-19 | 433,960 | 24 |
 | 2024-01-20 | 434,223 | 24 |
 | 2024-01-21 | 434,513 | 24 |
-| 2024-01-22 | 434,698 | 24 |
+| 2024-01-22 | 434,702 | 24 |
 ## Awards
 Max (Challenging Puzzles): 1,063  (Ranked 159)  
 Sum: 2,208 (Ranked 215)  

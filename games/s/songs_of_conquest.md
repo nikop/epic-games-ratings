@@ -10,11 +10,11 @@ Number of Ratings: 292  (23.09.2022)
 | Double Kill | 41.00% | ~526 |
 | Critical Hit | 23.00% | ~295 |
 | Veteran | 23.00% | ~295 |
-| Dressed For Success | 15.00% | ~192 |
+| Dressed For Success | 15.00% | ~193 |
 | Veni, Vidi, Vici | 11.00% | ~141 |
 | Humiliation | 10.00% | ~128 |
-| Multi Kill | 9.00% | ~115 |
-| Sorcerous Spree | 9.00% | ~115 |
+| Multi Kill | 9.00% | ~116 |
+| Sorcerous Spree | 9.00% | ~116 |
 | Landlord Extraordinaire | 8.00% | ~103 |
 | Master | 7.00% | ~90 |
 | The Song of Stoutheart | 6.00% | ~77 |
@@ -22,7 +22,7 @@ Number of Ratings: 292  (23.09.2022)
 | Don't Touch My Stuff | 6.00% | ~77 |
 | Trojan Horse | 5.00% | ~64 |
 | Expert Essence Employment | 4.00% | ~51 |
-| This Spot's Taken | 3.00% | ~38 |
+| This Spot's Taken | 3.00% | ~39 |
 | Infernal Influence | 2.00% | ~26 |
 | From the Ashes | 2.00% | ~26 |
 | Ultra Kill | 2.00% | ~26 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,283 (Ranked 287)  
+Progressed: 1,284 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -134,7 +134,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 1,244 | 0 |
 | 2024-01-20 | 1,258 | 0 |
 | 2024-01-21 | 1,271 | 0 |
-| 2024-01-22 | 1,283 | 0 |
+| 2024-01-22 | 1,284 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 531)  
 Sum: 252 (Ranked 401)  

@@ -2,12 +2,12 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 967,
+  "Ranking_Rating": 968,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 199,
   "Ranking_EOS_NewCompleters": 91,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 2431,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 85,
+  "EOS_NewPlayers": 83,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5293,8 +5293,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-22T16:59:51.0180566+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:09:41.6340478+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:10:03.2914536+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:59:11.800047+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:09:41.6340855+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:59:33.7524655+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:10:03.2914979+00:00"
 }

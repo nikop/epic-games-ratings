@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16643,
+  "EOS_Progressed": 16644,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 199,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -18834,6 +18834,11 @@
       "Time": "2024-01-22T22:09:32.2448905+00:00",
       "NumProgressed": 16643,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-22T23:09:54.1843302+00:00",
+      "NumProgressed": 16644,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18949,7 +18954,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7156
+      "UsersEstimate": 7157
     },
     {
       "ID": "ACH15",
@@ -19005,7 +19010,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7822
+      "UsersEstimate": 7823
     },
     {
       "ID": "ACH22",
@@ -19013,7 +19018,7 @@
       "Name": "Life of the Party",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3661
+      "UsersEstimate": 3662
     },
     {
       "ID": "ACH23",
@@ -19116,7 +19121,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16643,
+      "Progressed": 16644,
       "Completed": 109
     }
   ],
@@ -19124,8 +19129,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:09:32.2448901+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:09:54.1843298+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:56:58.5301544+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:09:32.2449786+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:57:22.6772492+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:09:54.1844455+00:00"
 }

@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126101,
+  "EOS_Progressed": 126105,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2746,
+  "EOS_NewPlayers": 2741,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5585,6 +5585,11 @@
       "Time": "2024-01-22T22:04:13.9088738+00:00",
       "NumProgressed": 126101,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T23:04:31.2569671+00:00",
+      "NumProgressed": 126105,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5661,7 +5666,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13871
+      "UsersEstimate": 13872
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5669,7 +5674,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25220
+      "UsersEstimate": 25221
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5693,7 +5698,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18915
+      "UsersEstimate": 18916
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5876,7 +5881,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126101,
+      "Progressed": 126105,
       "Completed": 0
     }
   ],
@@ -5884,8 +5889,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-22T22:04:13.9088735+00:00",
+  "LastChanged_Achievements": "2024-01-22T23:04:31.2569668+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-22T21:58:19.8273502+00:00",
-  "LastUpdate_Achievements": "2024-01-22T22:04:13.9089161+00:00"
+  "LastUpdate_Ratings": "2024-01-22T22:58:44.2287793+00:00",
+  "LastUpdate_Achievements": "2024-01-22T23:04:31.2570101+00:00"
 }

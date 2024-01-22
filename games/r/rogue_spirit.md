@@ -12,6 +12,7 @@
 | Possess Mastery | 15.00% | ~5 |
 | Gold Collector | 12.00% | ~4 |
 | Master Assassin | 6.00% | ~2 |
+| War Defeated | 6.00% | ~2 |
 | Body Blast Master | 3.00% | ~1 |
 | Body Spawn Master | 3.00% | ~1 |
 | Body Swapper | 3.00% | ~1 |
@@ -28,7 +29,6 @@
 | Skill Adept | 3.00% | ~1 |
 | Token Collector | 3.00% | ~1 |
 | Vanish Master | 3.00% | ~1 |
-| War Defeated | 3.00% | ~1 |
 | Blink Master | 0.00% | ~0 |
 | Body Snatcher Champion | 0.00% | ~0 |
 | Cold Skin Master | 0.00% | ~0 |
