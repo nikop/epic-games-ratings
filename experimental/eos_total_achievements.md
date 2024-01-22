@@ -645,6 +645,7 @@
 | [Bread and Fred](../games/7/7e95faaa77054b80828dd7d64bbeb4ff.md) | 20 | 1,000 |
 | [Charon's Staircase](../games/c/charon's_staircase.md) | 20 | 1,000 |
 | [Dark Fantasy Jigsaw Puzzle](../games/1/10b5b9a5fe274252aac9166f8b2cc269.md) | 20 | 1,000 |
+| [Fishing Planet](../games/4/441b1561f48746059211ab905f4abc93.md) | 20 | 1,000 |
 | [Fort Solis](../games/9/9a3407ecc4744962bc0571e024d6c6ea.md) | 20 | 1,000 |
 | [I Am Future - Cozy Apocalypse Survival](../games/4/4a86b8318e5a40e094f34a7e6a934652.md) | 20 | 1,000 |
 | [It Takes Two](../games/i/it_takes_two.md) | 20 | 1,000 |

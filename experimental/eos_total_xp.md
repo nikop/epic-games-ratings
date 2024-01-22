@@ -320,6 +320,7 @@
 | [Filthy Animals \| Heist Simulator](../games/f/filthy_animals___heist_simulator.md) | 28 | 1,000 |
 | [Fire: Ungh’s Quest](../games/f/fire__ungh’s_quest.md) | 27 | 1,000 |
 | [Firestone Online Idle RPG](../games/f/firestone_online_idle_rpg.md) | 75 | 1,000 |
+| [Fishing Planet](../games/4/441b1561f48746059211ab905f4abc93.md) | 20 | 1,000 |
 | [Five Dates](../games/f/five_dates.md) | 15 | 1,000 |
 | [Flat Heroes](../games/f/flat_heroes.md) | 44 | 1,000 |
 | [Fly Corp](../games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 42 | 1,000 |

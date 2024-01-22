@@ -1,6 +1,7 @@
 | Game | Release Date | Achievements | Players | Rating | Awards |
 | ---- | ------------ | ------------ | ------- | ------ | ------ |
 | [Contraption Maker](games/f/fafd1bf30a1e489e819444377e309999.md) | 2024-01-22 | 22 (1,000 XP) | 2 | - | - |
+| [Not Another Weekend](games/0/0de089d70ff5482285814bb5df921541.md) | 2024-01-23 | - |  | - | - |
 | [Howl](games/h/howl.md) | 2024-01-23 | - |  | - | - |
 | [Love n Life: Lucky Teacher](games/2/2b5dd29acc2c44a7a958484753530068.md) | 2024-01-23 | 18 (1,000 XP) | 0 | - | - |
 | [John Mambo](games/f/fa0a56fac4a44c1d9288fa257d4a9681.md) | 2024-01-23 | - |  | - | - |
@@ -325,7 +326,7 @@
 | [Fireball Wizard](games/a/a39d4b1311c741a191345f39bf1446eb.md) | 2099-01-01 | - |  | - | - |
 | [First Dwarf](games/f/first_dwarf.md) | 2099-01-01 | - |  | - | - |
 | [First Jam](games/1/129195ec773340208309213bc6c99f42.md) | 2099-01-01 | - |  | - | - |
-| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2099-01-01 | - |  | - | - |
+| [Fishing Planet](games/4/441b1561f48746059211ab905f4abc93.md) | 2099-01-01 | 20 (1,000 XP) | 0 | - | - |
 | [Flipper Mechanic Simulator](games/f/flipper_mechanic_simulator.md) | 2099-01-01 | - |  | - | - |
 | [FlipScapes](games/f/flipscapes.md) | 2099-01-01 | - |  | - | - |
 | [Forza Polpo](games/1/11e946fd34244e56b7af5d99e87bf5d4.md) | 2099-01-01 | - |  | - | - |
