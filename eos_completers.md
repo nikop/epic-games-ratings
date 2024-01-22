@@ -41,7 +41,7 @@
 | 39 | [Alekon](games/9/947753e35eda434f9eafba17afa8f570.md) | 11.11% |
 | 40 | [SpongeBob SquarePants: The Cosmic Shake](games/s/spongebob_squarepants__the_cosmic_shake.md) | 10.81% |
 | 41 | [Sphere Guider](games/8/8de4390eabff4b04a5c5c30f7f4fd474.md) | 10.00% |
-| 42 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.97% |
+| 42 | [Who Pressed Mute on Uncle Marcus?](games/w/who_pressed_mute_on_uncle_marcus.md) | 9.94% |
 | 43 | [The House of Da Vinci](games/1/19d61df85a76492f82c4b59fa8f8f9eb.md) | 9.93% |
 | 44 | [Out of Bounds](games/o/out_of_bounds.md) | 9.38% |
 | 45 | [The Light in the Darkness](games/t/the_light_in_the_darkness.md) | 9.29% |
@@ -75,7 +75,7 @@
 | 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.71% |
 | 74 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.98% |
+| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.99% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.79% |
 | 79 | [Dungeons 4](games/d/dungeons_4.md) | 4.73% |
@@ -107,7 +107,7 @@
 | 105 | [Quick Race](games/7/7f0be7eaee1f40039da74dd9591ed049.md) | 3.41% |
 | 106 | [Terror of Hemasaurus](games/t/terror_of_hemasaurus.md) | 3.26% |
 | 107 | [Dolmenjord - Viking Islands](games/e/e4cb896c77f842a3a75d2a19165f4ce5.md) | 3.21% |
-| 107 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.21% |
+| 108 | [Sherlock Holmes The Awakened](games/s/sherlock_holmes_the_awakened.md) | 3.20% |
 | 109 | [Bunny Park](games/b/bunny_park.md) | 3.18% |
 | 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
 | 111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
@@ -125,7 +125,7 @@
 | 123 | [Rescue Party: Live!](games/r/rescue_party__live!.md) | 2.56% |
 | 124 | [FORECLOSED](games/f/foreclosed.md) | 2.55% |
 | 124 | [The Complex](games/t/the_complex.md) | 2.55% |
-| 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.54% |
+| 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.53% |
 | 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
 | 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 129 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
@@ -142,7 +142,7 @@
 | 140 | [Time on Frog Island](games/t/time_on_frog_island.md) | 1.96% |
 | 141 | [Serial Cleaners](games/s/serial_cleaners.md) | 1.95% |
 | 142 | [Somerville](games/s/somerville.md) | 1.94% |
-| 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.89% |
+| 143 | [Salt and Sacrifice](games/s/salt_and_sacrifice.md) | 1.90% |
 | 144 | [Death Crown](games/3/36c80652a9de4ac28ab9f990034dc847.md) | 1.85% |
 | 145 | [AER Memories of Old](games/a/aer_memories_of_old.md) | 1.84% |
 | 146 | [GeoJelly](games/7/78f9ed2320784e4f95ecd6e689f81e2f.md) | 1.82% |
@@ -332,13 +332,13 @@
 | 325 | [MythForce](games/m/mythforce.md) | 0.09% |
 | 325 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
 | 325 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 333 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.08% |
 | 333 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
 | 333 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
 | 333 | [SYNCED](games/s/synced.md) | 0.08% |
 | 333 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
-| 337 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.07% |
-| 337 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.07% |
-| 337 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
+| 338 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.07% |
+| 338 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 340 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
 | 340 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
 | 340 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.06% |
@@ -368,20 +368,20 @@
 | 364 | [Hand of Fate 2](games/h/hand_of_fate_2.md) | 0.03% |
 | 364 | [Old World](games/o/old_world.md) | 0.03% |
 | 364 | [Saturnalia](games/s/saturnalia.md) | 0.03% |
+| 364 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.03% |
 | 364 | [STAR WARS™ Battlefront™ Ultimate Edition](games/s/star_wars™_battlefront™_ultimate_edition.md) | 0.03% |
 | 364 | [Tropico 6](games/t/tropico_6.md) | 0.03% |
-| 371 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
-| 371 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
-| 371 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
-| 371 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
-| 371 | [Ghostrunner](games/g/ghostrunner.md) | 0.02% |
-| 371 | [Godlike Burger](games/g/godlike_burger.md) | 0.02% |
-| 371 | [Good Company](games/g/good_company.md) | 0.02% |
-| 371 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 0.02% |
-| 371 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
-| 371 | [STAR WARS™ Battlefront™ II: Celebration Edition](games/s/star_wars™_battlefront™_ii__celebration_edition.md) | 0.02% |
-| 371 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
-| 371 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
+| 372 | [911 Operator](games/d/d923c737f0d243ccab407605ea40d39e.md) | 0.02% |
+| 372 | [Arcadegeddon](games/a/arcadegeddon.md) | 0.02% |
+| 372 | [Deceive Inc.](games/d/deceive_inc..md) | 0.02% |
+| 372 | [Disco Elysium - The Final Cut](games/d/disco_elysium_-_the_final_cut.md) | 0.02% |
+| 372 | [Ghostrunner](games/g/ghostrunner.md) | 0.02% |
+| 372 | [Godlike Burger](games/g/godlike_burger.md) | 0.02% |
+| 372 | [Good Company](games/g/good_company.md) | 0.02% |
+| 372 | [LOVE](games/6/6a04125b9d884151868aa2c56e84dc11.md) | 0.02% |
+| 372 | [Redout: Enhanced Edition](games/r/redout__enhanced_edition.md) | 0.02% |
+| 372 | [Tannenberg](games/t/tannenberg.md) | 0.02% |
+| 372 | [The Evil Within](games/d/d602fd70876141ba9bf4d54809c423d1.md) | 0.02% |
 | 383 | [60 Seconds! Reatomized](games/6/60_seconds!_reatomized.md) | 0.01% |
 | 383 | [Art of Rally](games/a/art_of_rally_1.md) | 0.01% |
 | 383 | [Battlefield™ 2042](games/b/battlefield™_2042.md) | 0.01% |
@@ -844,4 +844,4 @@
 | 409 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 409 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 409 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,866 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,867 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
