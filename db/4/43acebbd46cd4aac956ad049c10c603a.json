@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 302,
   "Ranking_EOS_NewPlayers": 226,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -355,9 +355,9 @@
       "Count": 120
     }
   ],
-  "EOS_Progressed": 1460,
+  "EOS_Progressed": 1461,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 51,
+  "EOS_NewPlayers": 52,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -4330,6 +4330,11 @@
       "Time": "2024-01-22T01:58:47.2665202+00:00",
       "NumProgressed": 1460,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T05:04:58.1567868+00:00",
+      "NumProgressed": 1461,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4398,7 +4403,7 @@
       "Name": "Bridge Builder",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 569
+      "UsersEstimate": 570
     },
     {
       "ID": "ChasingTheLight",
@@ -4430,7 +4435,7 @@
       "Name": "Desolate Island",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Discovery",
@@ -4438,7 +4443,7 @@
       "Name": "Discovery",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "EasternWetlands",
@@ -4470,7 +4475,7 @@
       "Name": "Flooded Valley",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "GnothiSeauton",
@@ -4526,7 +4531,7 @@
       "Name": "Lord of the Files",
       "Percentage": 34,
       "XP": 30,
-      "UsersEstimate": 496
+      "UsersEstimate": 497
     },
     {
       "ID": "LostMarshes",
@@ -4534,7 +4539,7 @@
       "Name": "Lost Marshes",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "MistressOfRiddles",
@@ -4558,7 +4563,7 @@
       "Name": "Museum Explorer",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 277
+      "UsersEstimate": 278
     },
     {
       "ID": "MuseumVisitor",
@@ -4566,7 +4571,7 @@
       "Name": "Museum Visitor",
       "Percentage": 29,
       "XP": 5,
-      "UsersEstimate": 423
+      "UsersEstimate": 424
     },
     {
       "ID": "NewBeginning",
@@ -4790,7 +4795,7 @@
       "Name": "Western Delta",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "WoodedPlateau",
@@ -4813,7 +4818,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1460,
+      "Progressed": 1461,
       "Completed": 2
     }
   ],
@@ -4821,8 +4826,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-21T13:57:48.8610503+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:04:07.4946137+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:04:58.1567864+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:58:06.1849146+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:04:07.4946907+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:58:40.0665899+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:04:58.1568421+00:00"
 }

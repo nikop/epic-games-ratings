@@ -22,11 +22,11 @@ Rating: 4.11 (Ranked 1,027)
 | Hero inspection | 13.00% | ~615 |
 | Inspection | 13.00% | ~615 |
 | Lieutenant | 12.00% | ~568 |
+| Milestone collector | 11.00% | ~520 |
 | Mysterious Rock | 11.00% | ~520 |
 | Natural Talent | 11.00% | ~520 |
 | Superior | 11.00% | ~520 |
 | The Unstoppable | 11.00% | ~520 |
-| Milestone collector | 10.00% | ~473 |
 | Doing My Part | 9.00% | ~426 |
 | Scientist | 9.00% | ~426 |
 | The power of Awakening | 9.00% | ~426 |

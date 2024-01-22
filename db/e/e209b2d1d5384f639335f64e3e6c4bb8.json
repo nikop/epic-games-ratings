@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 61,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 63,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-24T15:00:00+00:00",
     "PcReleaseDate": "2016-01-20T12:00:00+00:00",
@@ -353,9 +353,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 343686,
+  "EOS_Progressed": 343688,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1849,
+  "EOS_NewPlayers": 1840,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18358,6 +18358,11 @@
       "Time": "2024-01-22T04:08:37.8841606+00:00",
       "NumProgressed": 343686,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T05:08:54.2643089+00:00",
+      "NumProgressed": 343688,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-03T18:03:11.7010747+00:00",
@@ -18370,7 +18375,7 @@
       "Name": "Expedition complete - Easy",
       "Percentage": 0.8,
       "XP": 40,
-      "UsersEstimate": 2749
+      "UsersEstimate": 2750
     },
     {
       "ID": "ACHV_CAMPAIGN_HARD",
@@ -18394,7 +18399,7 @@
       "Name": "Epsilon Base",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 151222
+      "UsersEstimate": 151223
     },
     {
       "ID": "ACHV_M02_COMPLETE",
@@ -18426,7 +18431,7 @@
       "Name": "Kalash Wreck",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 41242
+      "UsersEstimate": 41243
     },
     {
       "ID": "ACHV_M06_COMPLETE",
@@ -18434,7 +18439,7 @@
       "Name": "Beladin Dune Sea",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 37805
+      "UsersEstimate": 37806
     },
     {
       "ID": "ACHV_M07_COMPLETE",
@@ -18746,20 +18751,20 @@
       "Name": "Campaign Tutorial",
       "Percentage": 51,
       "XP": 25,
-      "UsersEstimate": 175280
+      "UsersEstimate": 175281
     }
   ],
   "AchievementSets": [
     {
       "ID": "2l5j4fd",
       "IsBase": true,
-      "Progressed": 343686,
+      "Progressed": 343688,
       "Completed": 0
     },
     {
       "ID": "a9dj9gi",
       "IsBase": false,
-      "Progressed": 343675,
+      "Progressed": 343677,
       "Completed": 1
     }
   ],
@@ -18767,8 +18772,8 @@
   "FirstSeenRating": "2023-08-25T17:58:52.6937375+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5079141+00:00",
   "LastChanged": "2024-01-21T08:03:14.5032449+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:08:37.8841601+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:08:54.2643085+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:14.2029782+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:03:15.8497341+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:08:37.8843056+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:03:44.4953111+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:08:54.264405+00:00"
 }

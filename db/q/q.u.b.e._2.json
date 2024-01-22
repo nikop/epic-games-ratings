@@ -611,9 +611,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 48058,
+  "EOS_Progressed": 48059,
   "EOS_Completed": 248,
-  "EOS_NewPlayers": 592,
+  "EOS_NewPlayers": 593,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.52,
   "EosHistory": [
@@ -15036,6 +15036,11 @@
       "Time": "2024-01-22T04:09:59.4787066+00:00",
       "NumProgressed": 48058,
       "NumCompleted": 248
+    },
+    {
+      "Time": "2024-01-22T05:10:42.3284175+00:00",
+      "NumProgressed": 48059,
+      "NumCompleted": 248
     }
   ],
   "AchievementsAdded": "2023-08-25T13:10:51.5710401+00:00",
@@ -15184,7 +15189,7 @@
       "Name": "Infinity Loop",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 8650
+      "UsersEstimate": 8651
     },
     {
       "ID": "ACH_HUB1",
@@ -15192,7 +15197,7 @@
       "Name": "Mission Success",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 11053
+      "UsersEstimate": 11054
     },
     {
       "ID": "ACH_HUB2",
@@ -15200,7 +15205,7 @@
       "Name": "Path to Salvation",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8650
+      "UsersEstimate": 8651
     },
     {
       "ID": "ACH_OASIS",
@@ -15208,7 +15213,7 @@
       "Name": "Nature or Nurture",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 24990
+      "UsersEstimate": 24991
     },
     {
       "ID": "ACH_PEAK",
@@ -15216,7 +15221,7 @@
       "Name": "There\u0027s No Place Like Home",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 11053
+      "UsersEstimate": 11054
     },
     {
       "ID": "ACH_PROPELL",
@@ -15224,7 +15229,7 @@
       "Name": "To Infinity and Beyond",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 2883
+      "UsersEstimate": 2884
     },
     {
       "ID": "ACH_REDEND",
@@ -15240,7 +15245,7 @@
       "Name": "Quick Understanding of Block Extrusion",
       "Percentage": 68,
       "XP": 30,
-      "UsersEstimate": 32679
+      "UsersEstimate": 32680
     },
     {
       "ID": "ACH_S4",
@@ -15248,7 +15253,7 @@
       "Name": "Power Glove",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 24029
+      "UsersEstimate": 24030
     },
     {
       "ID": "ACH_S5",
@@ -15256,7 +15261,7 @@
       "Name": "Cogs in the Machine",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 17781
+      "UsersEstimate": 17782
     },
     {
       "ID": "ACH_SANDSTORM",
@@ -15279,15 +15284,15 @@
     {
       "ID": "232494e",
       "IsBase": true,
-      "Progressed": 48058,
+      "Progressed": 48059,
       "Completed": 248
     }
   ],
   "FirstSeen": "2022-07-22T20:19:01.6692955+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.1510738+00:00",
   "LastChanged": "2024-01-15T09:58:33.0125663+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:09:59.4787062+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:10:42.3284173+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:13.362303+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:58:24.8266414+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:09:59.4787817+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:59:06.4283769+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:10:42.3284981+00:00"
 }

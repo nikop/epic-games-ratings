@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 132,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1617,7 +1617,7 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 18604,
+  "EOS_Progressed": 18605,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 417,
   "EOS_NewCompleters": 0,
@@ -12527,6 +12527,11 @@
       "Time": "2024-01-22T04:04:20.1623574+00:00",
       "NumProgressed": 18604,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T05:05:15.1712689+00:00",
+      "NumProgressed": 18605,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12547,7 +12552,7 @@
       "Name": "Gathering Dust",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "achievement_0003",
@@ -12579,7 +12584,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13023
+      "UsersEstimate": 13024
     },
     {
       "ID": "achievement_0007",
@@ -12587,7 +12592,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16930
+      "UsersEstimate": 16931
     },
     {
       "ID": "achievement_0008",
@@ -12595,7 +12600,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15441
+      "UsersEstimate": 15442
     },
     {
       "ID": "achievement_0009",
@@ -12715,7 +12720,7 @@
       "Name": "Sharing the Love",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6325
+      "UsersEstimate": 6326
     },
     {
       "ID": "achievement_0024",
@@ -12851,7 +12856,7 @@
       "Name": "One for the Book",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 2046
+      "UsersEstimate": 2047
     },
     {
       "ID": "achievement_0041",
@@ -12883,7 +12888,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6697
+      "UsersEstimate": 6698
     },
     {
       "ID": "achievement_0045",
@@ -12930,7 +12935,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18604,
+      "Progressed": 18605,
       "Completed": 0
     }
   ],
@@ -12938,8 +12943,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-21T21:59:19.4265372+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:04:20.162357+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:05:15.1712683+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:59:26.5398303+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:04:20.1624699+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:00:33.595226+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:05:15.1713814+00:00"
 }

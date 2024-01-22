@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -801,7 +801,7 @@
   ],
   "EOS_Progressed": 4730,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 228,
+  "EOS_NewPlayers": 225,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13551,9 +13551,9 @@
       "ID": "milestonecollector",
       "SetID": "3nl4bcg",
       "Name": "Milestone collector",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 473
+      "UsersEstimate": 520
     },
     {
       "ID": "minerclicker",
@@ -13832,8 +13832,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:05:09.3534841+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:06:19.9552419+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:00:14.0115277+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:05:09.3536336+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:01:32.7473871+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:06:19.9553697+00:00"
 }

@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 551)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,879 |
-| Hotel California | 10.00% | ~80,799 |
-| Break A Leg | 9.00% | ~72,719 |
-| Coup de Grâce | 8.00% | ~64,639 |
-| Hazardous Materials | 8.00% | ~64,639 |
-| Git Gutte! | 7.00% | ~56,559 |
-| Apex Predator | 7.00% | ~56,559 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,559 |
-| Dr. Reed, I Presume? | 6.00% | ~48,479 |
-| Bookworm | 6.00% | ~48,479 |
-| Friends Like These | 6.00% | ~48,479 |
-| Stacking the Deck | 6.00% | ~48,479 |
-| This is My Weapon | 6.00% | ~48,479 |
+| Welcome To Hell-A | 11.00% | ~88,881 |
+| Hotel California | 10.00% | ~80,800 |
+| Break A Leg | 9.00% | ~72,720 |
+| Coup de Grâce | 8.00% | ~64,640 |
+| Hazardous Materials | 8.00% | ~64,640 |
+| Git Gutte! | 7.00% | ~56,560 |
+| Apex Predator | 7.00% | ~56,560 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,560 |
+| Dr. Reed, I Presume? | 6.00% | ~48,480 |
+| Bookworm | 6.00% | ~48,480 |
+| Friends Like These | 6.00% | ~48,480 |
+| Stacking the Deck | 6.00% | ~48,480 |
+| This is My Weapon | 6.00% | ~48,480 |
 | Anger Management | 5.00% | ~40,400 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,400 |
 | But Doctor, I am Butcho | 5.00% | ~40,400 |
@@ -31,8 +31,8 @@ Rating: 4.54 (Ranked 551)
 | A Patton Emerges | 4.00% | ~32,320 |
 | I Am the Resurrection | 4.00% | ~32,320 |
 | Our True Nature | 4.00% | ~32,320 |
-| Whatever It Takes | 4.00% | ~5,341 |
-| Pork Chopped | 4.00% | ~5,341 |
+| Whatever It Takes | 4.00% | ~5,342 |
+| Pork Chopped | 4.00% | ~5,342 |
 | Jumbo Keyring | 3.00% | ~24,240 |
 | Humanity Distilled | 3.00% | ~24,240 |
 | Down with the Sickness | 3.00% | ~24,240 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 551)
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807,991 (Ranked 23)  
+Progressed: 808,005 (Ranked 23)  
 Completed: 2,618 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 2,618 (0.32%) (Ranked 261)
 | 2024-01-19 | 806,486 | 2,606 |
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
-| 2024-01-22 | 807,991 | 2,618 |
+| 2024-01-22 | 808,005 | 2,618 |
 ## Awards
 Max (Great Boss Battles): 10,767  (Ranked 40)  
 Sum: 16,557 (Ranked 68)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 142,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 140,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
     "PcReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47627,
+  "EOS_Progressed": 47628,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 352,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19584,6 +19584,11 @@
       "Time": "2024-01-22T04:08:30.4845167+00:00",
       "NumProgressed": 47627,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T05:08:44.5835384+00:00",
+      "NumProgressed": 47628,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19747,7 +19752,7 @@
       "Name": "Tinkerer",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 4286
+      "UsersEstimate": 4287
     },
     {
       "ID": "CUFF_ATTACK",
@@ -20018,22 +20023,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47627,
+      "Progressed": 47628,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12464,
-      "Completed": 12464
+      "Progressed": 12465,
+      "Completed": 12465
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:08:30.4845163+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:08:44.5835381+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:03:15.6242451+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:08:30.4846386+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:03:44.2990851+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:08:44.5836867+00:00"
 }

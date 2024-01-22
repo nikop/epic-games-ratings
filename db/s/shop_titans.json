@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 45,
+  "Ranking_EOS_NewPlayers": 77,
+  "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
     "PcReleaseDate": "2020-05-05T15:00:00+00:00",
@@ -8219,11 +8219,17 @@
       "Rating": 4,
       "NumberOfAwards": 28030,
       "NumberOfAwardsMax": 4969
+    },
+    {
+      "Time": "2024-01-22T05:04:08.0636766+00:00",
+      "Rating": 4,
+      "NumberOfAwards": 28034,
+      "NumberOfAwardsMax": 4973
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28030,
-  "NumberOfAwardsMax": 4969,
+  "NumberOfAwards": 28034,
+  "NumberOfAwardsMax": 4973,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -8242,7 +8248,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4969
+      "Count": 4973
     },
     {
       "Text": "This game has Easy Combat",
@@ -8275,7 +8281,7 @@
       "Count": 3826
     }
   ],
-  "EOS_Progressed": 152431,
+  "EOS_Progressed": 152435,
   "EOS_Completed": 360,
   "EOS_NewPlayers": 1221,
   "EOS_NewCompleters": 6,
@@ -37670,6 +37676,11 @@
       "Time": "2024-01-22T04:09:44.3285497+00:00",
       "NumProgressed": 152431,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-22T05:10:22.1228032+00:00",
+      "NumProgressed": 152435,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -37913,7 +37924,7 @@
       "Name": "Basic in Bulk",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 16767
+      "UsersEstimate": 16768
     },
     {
       "ID": "commonres02",
@@ -37945,7 +37956,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12194
+      "UsersEstimate": 12195
     },
     {
       "ID": "craft02",
@@ -38153,7 +38164,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15243
+      "UsersEstimate": 15244
     },
     {
       "ID": "gold02",
@@ -38457,7 +38468,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12194
+      "UsersEstimate": 12195
     },
     {
       "ID": "sell02",
@@ -38576,15 +38587,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152431,
+      "Progressed": 152435,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
-  "LastChanged": "2024-01-21T20:04:06.6067821+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:09:44.3285493+00:00",
+  "LastChanged": "2024-01-22T05:04:08.0636764+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:10:22.1228027+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:03:31.9224179+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:09:44.328759+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:04:08.0636775+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:10:22.1230849+00:00"
 }

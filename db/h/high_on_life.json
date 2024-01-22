@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 150,
   "Ranking_EOS_Completed": 340,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-13T08:00:00+00:00",
     "PcReleaseDate": "2022-12-13T08:00:00+00:00",
@@ -331,9 +331,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25181,
+  "EOS_Progressed": 25182,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -9371,6 +9371,11 @@
       "Time": "2024-01-21T21:09:44.4304298+00:00",
       "NumProgressed": 25181,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-22T05:10:01.4632078+00:00",
+      "NumProgressed": 25182,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 44,
@@ -9726,20 +9731,20 @@
       "Name": "Bathe With A Giant Nude Alien",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     }
   ],
   "AchievementSets": [
     {
       "ID": "cdkbb11",
       "IsBase": true,
-      "Progressed": 25181,
+      "Progressed": 25182,
       "Completed": 14
     },
     {
       "ID": "7fgbhpb",
       "IsBase": false,
-      "Progressed": 2474,
+      "Progressed": 2475,
       "Completed": 1376
     }
   ],
@@ -9747,8 +9752,8 @@
   "FirstSeenRating": "2022-12-17T22:57:08.2654507+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1765279+00:00",
   "LastChanged": "2023-12-27T23:03:01.2851601+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:09:28.6278498+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:10:01.4632074+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.7752227+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:57:54.179323+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:09:28.6279213+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:58:25.0485548+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:10:01.4633099+00:00"
 }

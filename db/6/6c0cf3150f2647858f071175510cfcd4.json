@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 588,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-17T14:00:00+00:00",
     "PcReleaseDate": "2022-04-20T13:00:00+00:00",
@@ -290,9 +290,9 @@
       "ID": "NEW_ACHIEVEMENT_1_4",
       "SetID": "a48gbka",
       "Name": "Captain",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 55,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_5",
@@ -345,8 +345,8 @@
   ],
   "FirstSeen": "2024-01-18T18:00:15.4077819+00:00",
   "FirstSeenAchievements": "2023-08-31T10:00:31.4448023+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:06:12.849074+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:07:43.1440209+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.63618+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:58:15.5276026+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:06:12.8490882+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:58:53.1602305+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:07:43.1440383+00:00"
 }

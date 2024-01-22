@@ -11,7 +11,7 @@
 | No Asperascope | 58.00% | ~224 |
 | Survivor | 56.00% | ~189 |
 | Cornivore | 53.00% | ~205 |
-| I Believe I Can Fly | 49.00% | ~190 |
+| I Believe I Can Fly | 50.00% | ~194 |
 | No Diggity | 45.00% | ~152 |
 | Early Survivor | 39.00% | ~131 |
 | Bouncemato | 32.00% | ~108 |
@@ -47,11 +47,11 @@
 | Easy Peasy | 2.00% | ~7 |
 | Pro Shotgunner | 1.00% | ~4 |
 | Tomassacred | 1.00% | ~3 |
+| Graveside Survivor | 0.80% | ~3 |
 | Pro Carrocketeer | 0.80% | ~3 |
 | Pro Sniperagus | 0.80% | ~3 |
 | King of the Crow | 0.80% | ~3 |
 | Forestside Survivor | 0.50% | ~2 |
-| Graveside Survivor | 0.50% | ~2 |
 | Pro Pyromancer | 0.50% | ~2 |
 | Unstoppable | 0.50% | ~2 |
 | Death From Above | 0.50% | ~2 |

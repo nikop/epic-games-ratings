@@ -2,7 +2,7 @@
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 777,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 90,
@@ -325,9 +325,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140812,
+  "EOS_Progressed": 140813,
   "EOS_Completed": 1279,
-  "EOS_NewPlayers": 1029,
+  "EOS_NewPlayers": 1027,
   "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 0.91,
   "EosHistory": [
@@ -32015,6 +32015,11 @@
       "Time": "2024-01-22T04:05:35.3872096+00:00",
       "NumProgressed": 140812,
       "NumCompleted": 1279
+    },
+    {
+      "Time": "2024-01-22T05:06:54.1353246+00:00",
+      "NumProgressed": 140813,
+      "NumCompleted": 1279
     }
   ],
   "TotalAchievements": 34,
@@ -32058,7 +32063,7 @@
       "Name": "The Amazing Adventures of Norah Everhart",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 5632
+      "UsersEstimate": 5633
     },
     {
       "ID": "ACH_GAME_NOTES",
@@ -32106,7 +32111,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 39427
+      "UsersEstimate": 39428
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -32122,7 +32127,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 38019
+      "UsersEstimate": 38020
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -32194,7 +32199,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 38019
+      "UsersEstimate": 38020
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -32202,7 +32207,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 39427
+      "UsersEstimate": 39428
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -32297,7 +32302,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140812,
+      "Progressed": 140813,
       "Completed": 1279
     }
   ],
@@ -32305,8 +32310,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:05:35.3872091+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:06:54.1353243+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.332386+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:57:43.910487+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:05:35.3873748+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:58:09.6504866+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:06:54.1354634+00:00"
 }

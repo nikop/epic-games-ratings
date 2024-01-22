@@ -4,8 +4,8 @@
   "ProductSlug": "zoeti-3ccef9",
   "Ranking_EOS_Progress": 570,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-05-16T22:30:00+00:00",
     "PcReleaseDate": "2023-04-20T16:00:00+00:00",
@@ -276,9 +276,9 @@
       "ID": "BOSS_KILL1",
       "SetID": "1icc7kd",
       "Name": "Breaking Free",
-      "Percentage": 37,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "BOSS_KILL10",
@@ -515,8 +515,8 @@
   ],
   "FirstSeen": "2023-05-19T06:56:53.0270163+00:00",
   "FirstSeenAchievements": "2023-05-16T17:00:43.3294802+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:10:31.3652872+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:11:23.7755525+00:00",
   "LastUpdate_AppInfo": "2024-01-17T13:02:49.3539249+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:58:00.2960419+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:10:31.3653066+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:58:31.7637846+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:11:23.7755705+00:00"
 }

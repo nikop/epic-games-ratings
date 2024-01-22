@@ -12,7 +12,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | This Belongs in a Museum | 7.00% | ~9,342 |
 | Creep and Sleep | 7.00% | ~9,342 |
 | Overdue Notice | 7.00% | ~9,342 |
-| This guy... again? | 7.00% | ~582 |
+| This guy... again? | 7.00% | ~583 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,007 |
 | Serenity Now! | 6.00% | ~8,007 |
 | Meat and Greet | 6.00% | ~8,007 |
@@ -23,14 +23,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 6.00% | ~8,007 |
 | Ploughshares to Swords | 6.00% | ~499 |
 | Bloody Graduation | 6.00% | ~499 |
-| It Rings a Bell | 5.00% | ~6,672 |
-| Not Today! | 5.00% | ~6,672 |
-| It Happens | 5.00% | ~6,672 |
-| Merry Time | 5.00% | ~6,672 |
-| Harvest Festival | 5.00% | ~6,672 |
-| Whale | 5.00% | ~6,672 |
-| A Place to Lay Your Head | 5.00% | ~6,672 |
-| Nope | 5.00% | ~6,672 |
+| It Rings a Bell | 5.00% | ~6,673 |
+| Not Today! | 5.00% | ~6,673 |
+| It Happens | 5.00% | ~6,673 |
+| Merry Time | 5.00% | ~6,673 |
+| Harvest Festival | 5.00% | ~6,673 |
+| Whale | 5.00% | ~6,673 |
+| A Place to Lay Your Head | 5.00% | ~6,673 |
+| Nope | 5.00% | ~6,673 |
 | Friends 'Til the End | 5.00% | ~416 |
 | Resurrection | 4.00% | ~5,338 |
 | Unleash Hell | 4.00% | ~5,338 |
@@ -61,10 +61,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 2.00% | ~2,669 |
 | Handled | 2.00% | ~2,669 |
 | Body of Work | 2.00% | ~2,669 |
-| Clearing the Ledger | 1.00% | ~1,334 |
-| Hat Trick | 1.00% | ~1,334 |
-| Shrine of Reflection | 1.00% | ~1,334 |
-| Triage | 1.00% | ~1,334 |
+| Clearing the Ledger | 1.00% | ~1,335 |
+| Hat Trick | 1.00% | ~1,335 |
+| Shrine of Reflection | 1.00% | ~1,335 |
+| Triage | 1.00% | ~1,335 |
 | No Mercy | 1.00% | ~83 |
 | Slap on the Wrist | 1.00% | ~83 |
 | Et Tu, Riposte? | 1.00% | ~83 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,450 (Ranked 92)  
+Progressed: 133,454 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,450 | 5 |
+| 2024-01-22 | 133,454 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
 Sum: 21,811 (Ranked 58)  

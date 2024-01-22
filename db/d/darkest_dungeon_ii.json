@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11160,9 +11160,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133450,
+  "EOS_Progressed": 133454,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 591,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40995,6 +40995,11 @@
       "Time": "2024-01-22T03:10:13.7049691+00:00",
       "NumProgressed": 133450,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T05:11:24.8510167+00:00",
+      "NumProgressed": 133454,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41022,7 +41027,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41158,7 +41163,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41214,7 +41219,7 @@
       "Name": "Clearing the Ledger",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "combat_kill_leviathan",
@@ -41278,7 +41283,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41286,7 +41291,7 @@
       "Name": "Hat Trick",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "driving_biome_clear_cave",
@@ -41310,7 +41315,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41318,7 +41323,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41366,7 +41371,7 @@
       "Name": "Shrine of Reflection",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "hero_story_complete_any",
@@ -41382,7 +41387,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "hospital_full_service",
@@ -41390,7 +41395,7 @@
       "Name": "Triage",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 1334
+      "UsersEstimate": 1335
     },
     {
       "ID": "inn_first_time",
@@ -41398,7 +41403,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41454,7 +41459,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6672
+      "UsersEstimate": 6673
     },
     {
       "ID": "run_victory_act01",
@@ -41550,7 +41555,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 582
+      "UsersEstimate": 583
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41637,21 +41642,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133450,
+      "Progressed": 133454,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8319,
+      "Progressed": 8323,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-22T01:53:12.1349438+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:10:32.3052724+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:11:24.8510164+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:58:39.3878615+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:10:32.3054388+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:59:25.9098362+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:11:24.8511919+00:00"
 }

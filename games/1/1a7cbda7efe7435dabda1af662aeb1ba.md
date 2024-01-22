@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Breaking Free | 37.00% | ~18 |
+| Breaking Free | 39.00% | ~19 |
 | Overcoming Weakness | 35.00% | ~17 |
 | Boulder Breaker | 27.00% | ~13 |
 | Fence-Sitter | 14.00% | ~7 |

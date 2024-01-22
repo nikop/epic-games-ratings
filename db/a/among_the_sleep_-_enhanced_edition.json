@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 102,
   "Ranking_EOS_Completed": 236,
   "Ranking_EOS_NewPlayers": 108,
-  "Ranking_EOS_NewCompleters": 55,
+  "Ranking_EOS_NewCompleters": 54,
   "Store": {
     "ReleaseDate": "2021-10-21T15:00:00+00:00",
     "PcReleaseDate": "2017-11-02T15:00:00+00:00",
@@ -512,9 +512,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 99948,
+  "EOS_Progressed": 99954,
   "EOS_Completed": 460,
-  "EOS_NewPlayers": 685,
+  "EOS_NewPlayers": 690,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.46,
   "EosHistory": [
@@ -31417,6 +31417,11 @@
       "Time": "2024-01-22T04:09:43.8325912+00:00",
       "NumProgressed": 99948,
       "NumCompleted": 460
+    },
+    {
+      "Time": "2024-01-22T05:10:21.3531091+00:00",
+      "NumProgressed": 99954,
+      "NumCompleted": 460
     }
   ],
   "TotalAchievements": 10,
@@ -31428,7 +31433,7 @@
       "Name": "Baby Mozart",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4997
+      "UsersEstimate": 4998
     },
     {
       "ID": "Drawings01",
@@ -31436,7 +31441,7 @@
       "Name": "House Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "Drawings02",
@@ -31444,7 +31449,7 @@
       "Name": "Cave Drawings",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "Drawings03",
@@ -31492,7 +31497,7 @@
       "Name": "Strike",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 34982
+      "UsersEstimate": 34984
     },
     {
       "ID": "Level04DarkMusicBox",
@@ -31500,22 +31505,22 @@
       "Name": "Bad Lullaby",
       "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 10994
+      "UsersEstimate": 10995
     }
   ],
   "AchievementSets": [
     {
       "ID": "77jc0gi",
       "IsBase": true,
-      "Progressed": 99948,
+      "Progressed": 99954,
       "Completed": 460
     }
   ],
   "FirstSeen": "2022-07-22T20:22:15.2545476+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.769998+00:00",
   "LastChanged": "2024-01-21T16:03:22.7964566+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:09:43.8325909+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:10:21.3531086+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.554239+00:00",
-  "LastUpdate_Ratings": "2024-01-22T04:03:26.8239869+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:09:43.8327411+00:00"
+  "LastUpdate_Ratings": "2024-01-22T05:04:00.9967416+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:10:21.3532724+00:00"
 }

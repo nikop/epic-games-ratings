@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 414,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 144,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-10T07:00:00+00:00",
     "PcReleaseDate": "2023-08-10T07:00:00+00:00",
@@ -1309,9 +1309,9 @@
       "ID": "SG_ABDICATION",
       "SetID": "bj5g0n4",
       "Name": "Abdication",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "SG_ACROSSTHESTYX",
@@ -1333,9 +1333,9 @@
       "ID": "SG_ALLTHEHELPYOUNEED",
       "SetID": "bj5g0n4",
       "Name": "All The Help You Need",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 40
+      "UsersEstimate": 43
     },
     {
       "ID": "SG_ARROWOFEROSUNDONE",
@@ -1612,8 +1612,8 @@
   ],
   "FirstSeen": "2023-08-10T20:57:13.4001222+00:00",
   "FirstSeenAchievements": "2023-08-10T08:00:42.4581292+00:00",
-  "LastChanged_Achievements": "2024-01-22T04:09:43.7503533+00:00",
+  "LastChanged_Achievements": "2024-01-22T05:10:21.3230329+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.9220606+00:00",
-  "LastUpdate_Ratings": "2024-01-22T03:58:54.5032263+00:00",
-  "LastUpdate_Achievements": "2024-01-22T04:09:43.7503841+00:00"
+  "LastUpdate_Ratings": "2024-01-22T04:59:48.8147103+00:00",
+  "LastUpdate_Achievements": "2024-01-22T05:10:21.3230686+00:00"
 }

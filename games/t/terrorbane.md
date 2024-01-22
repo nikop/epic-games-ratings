@@ -5,7 +5,7 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | First contact | 104.00% | ~49 |
-| System shocked | 64.00% | ~30 |
+| System shocked | 66.00% | ~31 |
 | Exposé | 60.00% | ~28 |
 | Blade of prophecy | 45.00% | ~21 |
 | Normal end | 43.00% | ~20 |

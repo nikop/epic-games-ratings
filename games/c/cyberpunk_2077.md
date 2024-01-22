@@ -18,15 +18,15 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Fool | 0.50% | ~5,284 |
 | The Lovers | 0.50% | ~5,284 |
 | Legend of The Afterlife | 0.50% | ~5,284 |
-| All the President's Men | 0.50% | ~927 |
-| Arachnophobia | 0.50% | ~927 |
-| Bushido and Chill | 0.40% | ~4,227 |
-| Gun Fu | 0.40% | ~4,227 |
-| Master Crafter | 0.40% | ~4,227 |
-| I Am The Law | 0.40% | ~4,227 |
-| The Quick and the Dead | 0.40% | ~4,227 |
-| The World | 0.40% | ~4,227 |
-| Judy vs Night City | 0.40% | ~4,227 |
+| All the President's Men | 0.50% | ~928 |
+| Arachnophobia | 0.50% | ~928 |
+| Bushido and Chill | 0.40% | ~4,228 |
+| Gun Fu | 0.40% | ~4,228 |
+| Master Crafter | 0.40% | ~4,228 |
+| I Am The Law | 0.40% | ~4,228 |
+| The Quick and the Dead | 0.40% | ~4,228 |
+| The World | 0.40% | ~4,228 |
+| Judy vs Night City | 0.40% | ~4,228 |
 | To Protect and Serve | 0.30% | ~3,171 |
 | True Warrior | 0.30% | ~3,171 |
 | Two Heads, One Bullet | 0.30% | ~3,171 |
@@ -56,13 +56,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Jungle | 0.10% | ~1,057 |
 | V for Vendetta | 0.10% | ~1,057 |
 | It's Elementary | 0.10% | ~1,057 |
-| The APB is Not Enough | 0.10% | ~185 |
-| Relic Ruler | 0.10% | ~185 |
-| Judgement Day | 0.10% | ~185 |
-| King of Cups | 0.10% | ~185 |
-| King of Pentacles | 0.10% | ~185 |
-| King of Swords | 0.10% | ~185 |
-| The Tower | 0.10% | ~185 |
+| The APB is Not Enough | 0.10% | ~186 |
+| Relic Ruler | 0.10% | ~186 |
+| Judgement Day | 0.10% | ~186 |
+| King of Cups | 0.10% | ~186 |
+| King of Pentacles | 0.10% | ~186 |
+| King of Swords | 0.10% | ~186 |
+| The Tower | 0.10% | ~186 |
 | All the President's Men | 0.00% | ~0 |
 | Arachnophobia | 0.00% | ~0 |
 | Dirty Deeds | 0.00% | ~0 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,854 (Ranked 17)  
+Progressed: 1,056,877 (Ranked 17)  
 Completed: 3,145 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,10 +351,10 @@ Completed: 3,145 (0.30%) (Ranked 265)
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
-| 2024-01-22 | 1,056,854 | 3,145 |
+| 2024-01-22 | 1,056,877 | 3,145 |
 ## Awards
 Max (Character Customization): 143,675  (Ranked 8)  
-Sum: 512,373 (Ranked 8)  
+Sum: 512,581 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -364,7 +364,7 @@ Diff (max vs sum): 0
 | This game has Diverse Characters | 31,948 |
 | This game is Highly Recommended | 30,614 |
 | This game has Amazing Storytelling | 30,006 |
-| This game is Extremely Fun | 29,683 |
+| This game is Extremely Fun | 29,891 |
 | This game has Amazing Characters | 29,573 |
 | This game is Relaxing | 28,645 |
 | This game has Quickly Understood Controls | 28,398 |
@@ -740,4 +740,4 @@ Diff (max vs sum): 0
 | 2024-01-19 | 4.67 | - | 142,615 | 506,646 |
 | 2024-01-20 | 4.67 | - | 143,148 | 509,082 |
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
-| 2024-01-22 | 4.67 | - | 143,675 | 512,373 |
+| 2024-01-22 | 4.67 | - | 143,675 | 512,581 |
