@@ -22,12 +22,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | Fast Food | 0.70% | ~1,550 |
 | Terror in the Dark | 0.60% | ~1,531 |
 | Unearthed Evil | 0.60% | ~1,531 |
+| The Contagious Curse | 0.60% | ~1,531 |
 | Maddening | 0.50% | ~1,276 |
 | Beast Mode | 0.50% | ~1,276 |
 | A Mysterious Summons | 0.50% | ~1,276 |
 | The Crumbling Temple | 0.50% | ~1,276 |
 | Exploring Port Nyanzaru | 0.50% | ~1,276 |
-| The Contagious Curse | 0.50% | ~1,276 |
 | Escort to Waterdeep | 0.50% | ~1,276 |
 | The Overgrown Grove | 0.50% | ~1,107 |
 | When Tentacles Attack | 0.50% | ~1,107 |
@@ -87,6 +87,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Family Entanglements | 0.20% | ~510 |
 | Chatty Nobles | 0.20% | ~510 |
 | Haaave You Met Asmodeus? | 0.20% | ~510 |
+| Domesticated Owlbears | 0.20% | ~510 |
 | The Immortal Warrior | 0.20% | ~510 |
 | The Wyrmheart Mine | 0.20% | ~510 |
 | Tower on the Lake | 0.20% | ~510 |
@@ -268,7 +269,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Relentless Misfortune | 0.10% | ~255 |
 | Modron Assistance | 0.10% | ~255 |
 | Thine Bounty is Mine! | 0.10% | ~221 |
-| Domesticated Owlbears | 0.10% | ~255 |
 | This Quest Stinks! | 0.10% | ~221 |
 | Hold for the Red Wizards | 0.10% | ~255 |
 | Form Ranks | 0.10% | ~255 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,190 (Ranked 71)  
+Progressed: 255,196 (Ranked 71)  
 Completed: 2,633 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -830,7 +830,7 @@ Completed: 2,633 (1.03%) (Ranked 179)
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
-| 2024-01-22 | 255,190 | 2,633 |
+| 2024-01-22 | 255,196 | 2,633 |
 ## Awards
 Max (Great for Beginners): 5,810  (Ranked 75)  
 Sum: 33,606 (Ranked 41)  

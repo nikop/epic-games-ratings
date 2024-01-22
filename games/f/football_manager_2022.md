@@ -1,23 +1,23 @@
 # Football Manager 2022
 [Store](https://store.epicgames.com/en-US/p/football-manager-2022)  
 [View Rawdata](../../db/f/football_manager_2022.json)  
-Rating: 4.80 (Ranked 92)  
+Rating: 4.80 (Ranked 91)  
 Number of Ratings: 19,160  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,821 |
-| He's Signed! | 50.00% | ~239,821 |
-| First Victory | 50.00% | ~239,821 |
-| He's Sold! | 48.00% | ~230,228 |
+| Clean Sheet | 50.00% | ~239,822 |
+| He's Signed! | 50.00% | ~239,822 |
+| First Victory | 50.00% | ~239,822 |
+| He's Sold! | 48.00% | ~230,229 |
 | I'm The Boss! | 42.00% | ~201,450 |
-| Hat-trick | 41.00% | ~196,653 |
+| Hat-trick | 41.00% | ~196,654 |
 | Scoring Streak | 38.00% | ~182,264 |
 | Unbeatable! | 37.00% | ~177,468 |
 | Thumping | 37.00% | ~177,468 |
 | Superb Dressing Room Atmosphere | 35.00% | ~167,875 |
-| Total Support | 32.00% | ~153,485 |
-| Record Signing | 32.00% | ~153,485 |
+| Total Support | 32.00% | ~153,486 |
+| Record Signing | 32.00% | ~153,486 |
 | He's a Natural | 31.00% | ~148,689 |
 | Millionaire's Club | 31.00% | ~148,689 |
 | Team Performance | 30.00% | ~143,893 |
@@ -25,12 +25,12 @@ Number of Ratings: 19,160  (23.09.2022)
 | Shrewd Spender | 29.00% | ~139,096 |
 | Star Man | 29.00% | ~139,096 |
 | Attack! | 28.00% | ~134,300 |
-| You're On Fire | 27.00% | ~129,503 |
-| Tremendous Trio | 27.00% | ~129,503 |
-| Record Sale | 27.00% | ~129,503 |
+| You're On Fire | 27.00% | ~129,504 |
+| Tremendous Trio | 27.00% | ~129,504 |
+| Record Sale | 27.00% | ~129,504 |
 | On A Roll | 26.00% | ~124,707 |
 | Unstoppable Force | 26.00% | ~124,707 |
-| Armchair Expert | 25.00% | ~119,910 |
+| Armchair Expert | 25.00% | ~119,911 |
 | Fantastic Five | 24.00% | ~115,114 |
 | Full Faith | 24.00% | ~115,114 |
 | Iron Curtain | 24.00% | ~115,114 |
@@ -41,8 +41,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Clean Bill of Health | 22.00% | ~105,521 |
 | What A Goal! | 22.00% | ~105,521 |
 | Cup Glory! | 22.00% | ~105,521 |
-| Irresistible Force | 20.00% | ~95,928 |
-| Excellent Match Cohesion | 20.00% | ~95,928 |
+| Irresistible Force | 20.00% | ~95,929 |
+| Excellent Match Cohesion | 20.00% | ~95,929 |
 | Do The Double | 19.00% | ~91,132 |
 | Top Form | 17.00% | ~81,539 |
 | Cash To Burn | 17.00% | ~81,539 |
@@ -52,7 +52,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Eyes and Ears | 15.00% | ~71,946 |
 | Window Shopping | 15.00% | ~71,946 |
 | Comeback King! | 14.00% | ~67,150 |
-| You're Up! | 13.00% | ~62,353 |
+| You're Up! | 13.00% | ~62,354 |
 | Money, Money, Money | 12.00% | ~57,557 |
 | Invincible! | 11.00% | ~52,761 |
 | Superb Strike | 10.00% | ~47,964 |
@@ -86,9 +86,9 @@ Number of Ratings: 19,160  (23.09.2022)
 | The Greatest | 1.00% | ~4,796 |
 | Beat your Mates | 1.00% | ~4,796 |
 | The Rich Get Richer | 0.80% | ~3,837 |
-| Perfect Host | 0.70% | ~3,357 |
-| One more draft | 0.70% | ~3,357 |
-| Set Piece Specialist | 0.70% | ~3,357 |
+| Perfect Host | 0.70% | ~3,358 |
+| One more draft | 0.70% | ~3,358 |
+| Set Piece Specialist | 0.70% | ~3,358 |
 | Online Streak | 0.60% | ~2,878 |
 | Draft Rivalry | 0.50% | ~2,398 |
 | Outstanding Defence | 0.40% | ~1,919 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~480 |
 | Shoestring Budget | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,642 (Ranked 44)  
+Progressed: 479,643 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,10 +382,10 @@ Completed: 22 (0.00%) (Ranked 409)
 | 2024-01-19 | 479,507 | 22 |
 | 2024-01-20 | 479,582 | 22 |
 | 2024-01-21 | 479,621 | 22 |
-| 2024-01-22 | 479,642 | 22 |
+| 2024-01-22 | 479,643 | 22 |
 ## Awards
 Max (Relaxing): 6,498  (Ranked 64)  
-Sum: 51,283 (Ranked 31)  
+Sum: 51,284 (Ranked 31)  
 Diff (max vs sum): 33  
 | Award | Count |
 | ----- | ----- |
@@ -394,7 +394,7 @@ Diff (max vs sum): 33
 | This game has Competitive Players | 5,939 |
 | This game is Highly Recommended | 5,935 |
 | This game has Quickly Understood Controls | 5,917 |
-| This game is Educational | 5,906 |
+| This game is Educational | 5,907 |
 | This game has Diverse Characters | 5,643 |
 | This game has Amazing Storytelling | 4,947 |
 | This game has Obsessive Gameplay | 4,416 |
@@ -757,4 +757,4 @@ Diff (max vs sum): 33
 | 2024-01-19 | 4.80 | - | 6,498 | 51,276 |
 | 2024-01-20 | 4.80 | - | 6,498 | 51,279 |
 | 2024-01-21 | 4.80 | - | 6,498 | 51,281 |
-| 2024-01-22 | 4.80 | - | 6,498 | 51,283 |
+| 2024-01-22 | 4.80 | - | 6,498 | 51,284 |

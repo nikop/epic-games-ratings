@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 242,
+  "Ranking_EOS_NewPlayers": 244,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -727,10 +727,16 @@
       "Rating": 4.63,
       "NumberOfAwards": 240,
       "NumberOfAwardsMax": 42
+    },
+    {
+      "Time": "2024-01-22T17:00:50.4216724+00:00",
+      "Rating": 4.63,
+      "NumberOfAwards": 241,
+      "NumberOfAwardsMax": 42
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 240,
+  "NumberOfAwards": 241,
   "NumberOfAwardsMax": 42,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -780,7 +786,7 @@
       "Text": "This game has Beautiful Visuals",
       "Prefix": "This game has",
       "Type": "Beautiful Visuals",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Relaxing",
@@ -11932,9 +11938,9 @@
   "FirstSeen": "2023-05-02T18:59:30.6410033+00:00",
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
-  "LastChanged": "2024-01-17T19:57:52.044991+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:06:22.8457954+00:00",
+  "LastChanged": "2024-01-22T17:00:50.4216722+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:06:02.9755378+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:01:19.0409363+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:06:22.8459021+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:00:50.4216727+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:06:02.9756714+00:00"
 }

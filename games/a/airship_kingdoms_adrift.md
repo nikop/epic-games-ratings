@@ -5,22 +5,22 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | The Industrialist | 83.00% | ~5 |
+| An Old Friend | 67.00% | ~4 |
+| Attention Peasant! | 67.00% | ~4 |
+| Meet THE Harbormaster | 67.00% | ~4 |
 | Now You Knew | 67.00% | ~4 |
 | The Red Flower | 67.00% | ~4 |
 | The Trial Begins | 67.00% | ~4 |
 | Wise Decision | 67.00% | ~4 |
-| An Old Friend | 50.00% | ~3 |
-| Attention Peasant! | 50.00% | ~3 |
+| Damsel in Distress? | 50.00% | ~3 |
 | Flight Check | 50.00% | ~3 |
-| Meet THE Harbormaster | 50.00% | ~3 |
+| Not a Good Decoy | 50.00% | ~3 |
+| The Pink Flower | 50.00% | ~3 |
+| Safe Delivery | 50.00% | ~3 |
 | Tuck the Tail | 50.00% | ~3 |
-| Damsel in Distress? | 33.00% | ~2 |
 | Dream of Flight | 33.00% | ~2 |
 | In His Majesty's Service! | 33.00% | ~2 |
-| Not a Good Decoy | 33.00% | ~2 |
 | Our Tiny Little Fleet | 33.00% | ~2 |
-| The Pink Flower | 33.00% | ~2 |
-| Safe Delivery | 33.00% | ~2 |
 | Shipping Ships | 33.00% | ~2 |
 | The Combatant | 33.00% | ~2 |
 | The Mother Ocean | 33.00% | ~2 |

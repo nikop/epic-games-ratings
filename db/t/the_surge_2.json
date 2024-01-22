@@ -5015,9 +5015,9 @@
       "ID": "ACHV_16",
       "SetID": "8p5mlmc",
       "Name": "It Lives! It Sniffs! It Conquers!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 52
+      "UsersEstimate": 78
     },
     {
       "ID": "ACHV_17",
@@ -5360,8 +5360,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:03:56.0021267+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:04:03.7629799+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:03:02.4690514+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:03:56.0021963+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:03:21.2208701+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:04:03.7630422+00:00"
 }

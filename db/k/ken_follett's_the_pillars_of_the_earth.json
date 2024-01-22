@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 420,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewPlayers": 173,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,7 +570,7 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18043,
+  "EOS_Progressed": 18044,
   "EOS_Completed": 125,
   "EOS_NewPlayers": 166,
   "EOS_NewCompleters": 0,
@@ -18925,6 +18925,11 @@
       "Time": "2024-01-22T15:06:38.9755133+00:00",
       "NumProgressed": 18043,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-22T17:05:50.071924+00:00",
+      "NumProgressed": 18044,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19040,7 +19045,7 @@
       "Name": "End of Book One",
       "Percentage": 29,
       "XP": 75,
-      "UsersEstimate": 5232
+      "UsersEstimate": 5233
     },
     {
       "ID": "tpote_achievement_22",
@@ -19112,7 +19117,7 @@
       "Name": "Let there be darkness",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 5593
+      "UsersEstimate": 5594
     },
     {
       "ID": "tpote_achievement_30",
@@ -19144,7 +19149,7 @@
       "Name": "Nothing but make-believe",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 1443
+      "UsersEstimate": 1444
     },
     {
       "ID": "tpote_achievement_34",
@@ -19263,15 +19268,15 @@
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18043,
+      "Progressed": 18044,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:06:06.9853299+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:05:50.0719235+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:03:07.9525525+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:06:06.985447+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:03:25.4438223+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:05:50.0720745+00:00"
 }

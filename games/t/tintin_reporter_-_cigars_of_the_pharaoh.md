@@ -4,11 +4,11 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My Papyrus! | 81.00% | ~114 |
+| My Papyrus! | 80.00% | ~114 |
 | A Loyal Friend | 43.00% | ~61 |
 | Abandon Ship! | 33.00% | ~47 |
 | The Tomb of Kih-Oskh | 29.00% | ~41 |
-| The Weighing of the Soul | 26.00% | ~37 |
+| The Weighing of the Soul | 25.00% | ~36 |
 | The Curse of Kih-Oskh | 20.00% | ~28 |
 | It's a Deal! | 17.00% | ~24 |
 | Cat Lover | 15.00% | ~21 |
@@ -24,11 +24,11 @@
 | Under the Hood | 10.00% | ~14 |
 | Long Live Gaipajama! | 10.00% | ~14 |
 | Eyes Shut | 9.00% | ~13 |
-| Barking Dog | 9.00% | ~13 |
 | Tintin, Reporter | 8.00% | ~11 |
+| Barking Dog | 8.00% | ~11 |
 | Mummy Nightmare | 7.00% | ~10 |
 | Mountain Runner | 7.00% | ~10 |
-| Subtlety | 6.00% | ~8 |
+| Subtlety | 6.00% | ~9 |
 | A Yummy Detour | 4.00% | ~6 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
 | Jungle Runner | 2.00% | ~3 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 141 (Ranked 478)  
+Progressed: 142 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -101,3 +101,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-16 | 139 | 0 |
 | 2024-01-20 | 140 | 0 |
 | 2024-01-21 | 141 | 0 |
+| 2024-01-22 | 142 | 0 |

@@ -16,8 +16,8 @@ Number of Ratings: 124  (23.09.2022)
 | Peddler | 26.00% | ~73 |
 | Commander | 26.00% | ~73 |
 | Irissa's Fate | 22.00% | ~62 |
+| Family Reunion | 21.00% | ~59 |
 | Long-Haul Flyer | 20.00% | ~56 |
-| Family Reunion | 20.00% | ~56 |
 | Pass A38 | 19.00% | ~53 |
 | Eternal Oblivion | 18.00% | ~50 |
 | Banker | 17.00% | ~48 |
@@ -27,9 +27,9 @@ Number of Ratings: 124  (23.09.2022)
 | Alb | 13.00% | ~36 |
 | Hunter | 13.00% | ~36 |
 | Perfectionist | 12.00% | ~34 |
+| Lover | 12.00% | ~34 |
 | Beam Me Up | 11.00% | ~31 |
 | Free as a Bird | 11.00% | ~31 |
-| Lover | 11.00% | ~31 |
 | Treasure Hunter | 9.00% | ~25 |
 | Weaponsmith | 8.00% | ~22 |
 | Hotshot | 8.00% | ~22 |

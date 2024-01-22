@@ -826,9 +826,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 44756,
+  "EOS_Progressed": 44759,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 460,
+  "EOS_NewPlayers": 462,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -29246,6 +29246,11 @@
       "Time": "2024-01-22T16:07:00.1211732+00:00",
       "NumProgressed": 44756,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T17:06:34.9268665+00:00",
+      "NumProgressed": 44759,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 54,
@@ -29377,7 +29382,7 @@
       "Name": "Sink Beneath the Waves",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 16112
+      "UsersEstimate": 16113
     },
     {
       "ID": "ach_die10",
@@ -29457,7 +29462,7 @@
       "Name": "Pupil",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "ach_legacyrival",
@@ -29473,7 +29478,7 @@
       "Name": "Salvager",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "ach_legacyshipmate",
@@ -29489,7 +29494,7 @@
       "Name": "Open Your Ears",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2685
+      "UsersEstimate": 2686
     },
     {
       "ID": "ach_portbell",
@@ -29609,7 +29614,7 @@
       "Name": "Sweet Sorrow",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 8056
+      "UsersEstimate": 8057
     },
     {
       "ID": "ach_terror100",
@@ -29625,7 +29630,7 @@
       "Name": "Thou, All-Shaking Thunder",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 6713
+      "UsersEstimate": 6714
     },
     {
       "ID": "ach_undercurrent",
@@ -29665,7 +29670,7 @@
       "Name": "One Year at Zee",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 3580
+      "UsersEstimate": 3581
     },
     {
       "ID": "ach_year10",
@@ -29688,15 +29693,15 @@
     {
       "ID": "ammcm",
       "IsBase": true,
-      "Progressed": 44756,
+      "Progressed": 44759,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:20:36.9352357+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.2077125+00:00",
   "LastChanged": "2024-01-21T17:57:56.6150468+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:07:00.1211728+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:06:34.9268657+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.940294+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:58:05.4410361+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:07:00.1213754+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:58:16.2106784+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:06:34.9270734+00:00"
 }

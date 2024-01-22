@@ -1283,9 +1283,9 @@
       "ID": "NEW_ACHIEVEMENT_1_5",
       "SetID": "14g34pl",
       "Name": "Western is safe!",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 60,
-      "UsersEstimate": 20
+      "UsersEstimate": 23
     },
     {
       "ID": "REACH_LEVEL_10",
@@ -1322,8 +1322,8 @@
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:04:24.0679993+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:04:27.0380023+00:00",
   "LastUpdate_AppInfo": "2024-01-17T01:46:10.8318489+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:58:01.6241181+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:04:24.0680359+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:58:13.2185591+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:04:27.0380243+00:00"
 }

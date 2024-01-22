@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 275,
+  "Ranking_EOS_NewPlayers": 271,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1351,
+  "EOS_Progressed": 1352,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 21,
+  "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4161,6 +4161,11 @@
       "Time": "2024-01-22T14:10:36.4159362+00:00",
       "NumProgressed": 1351,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T17:10:45.0231199+00:00",
+      "NumProgressed": 1352,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4180,7 +4185,7 @@
       "Name": "The Steel Shadow",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ChaincrawlerChests1",
@@ -4202,9 +4207,9 @@
       "ID": "ChronobreakMultiKill1",
       "SetID": "a9e499d",
       "Name": "Right On Time",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 311
+      "UsersEstimate": 324
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4332,7 +4337,7 @@
       "Name": "Rail Rat",
       "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 486
+      "UsersEstimate": 487
     },
     {
       "ID": "HexlockGift",
@@ -4412,7 +4417,7 @@
       "Name": "Time Flies",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 379
     },
     {
       "ID": "ParryBoss",
@@ -4420,7 +4425,7 @@
       "Name": "The Harder They Fall",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "ParryRepeated1",
@@ -4460,7 +4465,7 @@
       "Name": "Time Heals All Wounds",
       "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 648
+      "UsersEstimate": 649
     },
     {
       "ID": "RewindParry",
@@ -4500,7 +4505,7 @@
       "Name": "Fast Learner",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "SpeedRun",
@@ -4548,7 +4553,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 405
+      "UsersEstimate": 406
     },
     {
       "ID": "WarwickDefeated",
@@ -4595,7 +4600,7 @@
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1351,
+      "Progressed": 1352,
       "Completed": 8
     }
   ],
@@ -4603,8 +4608,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:10:56.6368545+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:45.0231194+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:59:46.1298171+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:10:56.6369156+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:59:35.4162667+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:45.0231665+00:00"
 }

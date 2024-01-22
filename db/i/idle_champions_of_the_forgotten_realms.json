@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 24,
+  "Ranking_EOS_NewPlayers": 83,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9757,9 +9757,9 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255190,
+  "EOS_Progressed": 255196,
   "EOS_Completed": 2633,
-  "EOS_NewPlayers": 1138,
+  "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41227,6 +41227,11 @@
       "Time": "2024-01-22T16:11:02.2191918+00:00",
       "NumProgressed": 255190,
       "NumCompleted": 2633
+    },
+    {
+      "Time": "2024-01-22T17:10:50.1336357+00:00",
+      "NumProgressed": 255196,
+      "NumCompleted": 2633
     }
   ],
   "TotalAchievements": 546,
@@ -42700,9 +42705,9 @@
       "ID": "objective_completed_237",
       "SetID": "cc37lbc",
       "Name": "Domesticated Owlbears",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_238",
@@ -43780,9 +43785,9 @@
       "ID": "objective_completed_6",
       "SetID": "cc37lbc",
       "Name": "The Contagious Curse",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1531
     },
     {
       "ID": "objective_completed_60",
@@ -45605,21 +45610,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221464,
+      "Progressed": 221470,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255190,
+      "Progressed": 255196,
       "Completed": 2633
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-22T15:58:01.1112582+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:11:02.2191914+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:50.1336352+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:58:01.1112588+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:11:02.2215262+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:58:12.8174784+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:50.1363444+00:00"
 }

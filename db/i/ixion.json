@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -359,7 +359,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4241,
+  "EOS_Progressed": 4242,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
@@ -8799,6 +8799,11 @@
       "Time": "2024-01-22T14:08:49.0315202+00:00",
       "NumProgressed": 4241,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T17:08:47.9162941+00:00",
+      "NumProgressed": 4242,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8842,7 +8847,7 @@
       "Name": "Oats",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_BASE_15",
@@ -8898,7 +8903,7 @@
       "Name": "Wakey Wakey",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1484
+      "UsersEstimate": 1485
     },
     {
       "ID": "ACH_BASE_22",
@@ -8922,7 +8927,7 @@
       "Name": "Sputnik 2049",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1272
+      "UsersEstimate": 1273
     },
     {
       "ID": "ACH_BASE_25",
@@ -9106,7 +9111,7 @@
       "Name": "Permanent Redesigns",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 763
+      "UsersEstimate": 764
     },
     {
       "ID": "ACH_BASE_49",
@@ -9154,7 +9159,7 @@
       "Name": "All in Good Health",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 254
+      "UsersEstimate": 255
     },
     {
       "ID": "ACH_BASE_56",
@@ -9265,13 +9270,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2425,
+      "Progressed": 2426,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4241,
+      "Progressed": 4242,
       "Completed": 0
     }
   ],
@@ -9279,8 +9284,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-17T19:57:40.7931209+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:08:38.1274305+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:08:47.9162936+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:01:01.4188434+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:08:38.12754+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:00:36.6571988+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:08:47.9163784+00:00"
 }

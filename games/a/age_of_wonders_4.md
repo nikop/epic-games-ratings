@@ -313,7 +313,7 @@ Completed: 8 (0.11%) (Ranked 314)
 | 2024-01-22 | 7,286 | 8 |
 ## Awards
 Max (Great for Beginners): 42  (Ranked 484)  
-Sum: 240 (Ranked 407)  
+Sum: 241 (Ranked 407)  
 Diff (max vs sum): 77  
 | Award | Count |
 | ----- | ----- |
@@ -322,8 +322,8 @@ Diff (max vs sum): 77
 | This game is Extremely Fun | 28 |
 | This game has Challenging Combat | 23 |
 | This game has Quickly Understood Controls | 23 |
+| This game has Beautiful Visuals | 23 |
 | This game is Highly Recommended | 22 |
-| This game has Beautiful Visuals | 22 |
 | This game has Amazing Storytelling | 21 |
 | This game is Relaxing | 20 |
 ## Ratings History
@@ -420,3 +420,4 @@ Diff (max vs sum): 77
 | 2024-01-11 | 4.63 | 41 | 238 |
 | 2024-01-16 | 4.63 | 41 | 239 |
 | 2024-01-17 | 4.63 | 42 | 240 |
+| 2024-01-22 | 4.63 | 42 | 241 |

@@ -2,12 +2,12 @@
   "ID": "a93cd6111251461c953776a0c4ea4d80",
   "Name": "Ghostwire: Tokyo",
   "ProductSlug": "ghostwire-tokyo",
-  "Ranking_Rating": 621,
+  "Ranking_Rating": 622,
   "Ranking_Popularity": 74,
   "Ranking_PopularitySum": 122,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 556,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-03-25T04:00:00+00:00",
@@ -3970,10 +3970,16 @@
       "Rating": 4.5,
       "NumberOfAwards": 7588,
       "NumberOfAwardsMax": 5811
+    },
+    {
+      "Time": "2024-01-22T16:59:23.1857994+00:00",
+      "Rating": 4.5,
+      "NumberOfAwards": 7603,
+      "NumberOfAwardsMax": 5811
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7588,
+  "NumberOfAwards": 7603,
   "NumberOfAwardsMax": 5811,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -4005,7 +4011,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 196
+      "Count": 203
     },
     {
       "Text": "This game has Diverse Characters",
@@ -4029,7 +4035,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 188
+      "Count": 196
     },
     {
       "Text": "This game has a Creative Community",
@@ -4055,8 +4061,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:20:08.0109801+00:00",
-  "LastChanged": "2024-01-22T14:59:47.299167+00:00",
+  "LastChanged": "2024-01-22T16:59:23.1857992+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:37.3072418+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:59:31.3757979+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:08:11.4619931+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:59:23.1857999+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:07:06.4335578+00:00"
 }

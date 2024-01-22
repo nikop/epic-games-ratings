@@ -29,10 +29,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.40% | ~4,229 |
 | Judy vs Night City | 0.40% | ~4,229 |
 | To Protect and Serve | 0.30% | ~3,172 |
+| The Wandering Fool | 0.30% | ~3,172 |
 | Two Heads, One Bullet | 0.30% | ~3,172 |
 | Spin Doctor | 0.30% | ~557 |
 | To Bad Decisions! | 0.20% | ~2,114 |
-| The Wandering Fool | 0.20% | ~2,114 |
 | Breathtaking | 0.20% | ~2,114 |
 | Ten out of Ten | 0.20% | ~2,114 |
 | The Star | 0.20% | ~2,114 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,173 (Ranked 17)  
+Progressed: 1,057,193 (Ranked 17)  
 Completed: 3,147 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -351,10 +351,10 @@ Completed: 3,147 (0.30%) (Ranked 265)
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
-| 2024-01-22 | 1,057,173 | 3,147 |
+| 2024-01-22 | 1,057,193 | 3,147 |
 ## Awards
 Max (Character Customization): 143,675  (Ranked 8)  
-Sum: 513,353 (Ranked 8)  
+Sum: 513,507 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -367,7 +367,7 @@ Diff (max vs sum): 0
 | This game is Extremely Fun | 29,891 |
 | This game has Amazing Characters | 29,573 |
 | This game is Relaxing | 28,645 |
-| This game has Quickly Understood Controls | 28,398 |
+| This game has Quickly Understood Controls | 28,552 |
 | This game has a Creative Community | 19,854 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
@@ -740,4 +740,4 @@ Diff (max vs sum): 0
 | 2024-01-19 | 4.67 | - | 142,615 | 506,646 |
 | 2024-01-20 | 4.67 | - | 143,148 | 509,082 |
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
-| 2024-01-22 | 4.67 | - | 143,675 | 513,353 |
+| 2024-01-22 | 4.67 | - | 143,675 | 513,507 |

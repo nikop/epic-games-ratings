@@ -1,20 +1,20 @@
 # Hi-Fi RUSH
 [Store](https://store.epicgames.com/en-US/p/hi-fi-rush)  
 [View Rawdata](../../db/h/hi-fi_rush.json)  
-Rating: 4.86 (Ranked 33)  
+Rating: 4.86 (Ranked 34)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,858 |
-| Feeling the beat! | 56.00% | ~9,858 |
-| You can pet the cat! | 51.00% | ~8,978 |
-| Who put gears in there? | 42.00% | ~7,393 |
-| Cream of the Crop | 37.00% | ~6,513 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,337 |
-| You got this, Peppermint? | 32.00% | ~5,633 |
-| Perfect Parry | 29.00% | ~5,105 |
-| Alright, that felt AWESOME! | 29.00% | ~5,105 |
-| I play my own way! | 25.00% | ~4,401 |
+| Start with a bang! | 56.00% | ~9,859 |
+| Feeling the beat! | 56.00% | ~9,859 |
+| You can pet the cat! | 51.00% | ~8,979 |
+| Who put gears in there? | 42.00% | ~7,395 |
+| Cream of the Crop | 37.00% | ~6,514 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,338 |
+| You got this, Peppermint? | 32.00% | ~5,634 |
+| Perfect Parry | 29.00% | ~5,106 |
+| Alright, that felt AWESOME! | 29.00% | ~5,106 |
+| I play my own way! | 25.00% | ~4,402 |
 | This will cost you big time | 24.00% | ~4,225 |
 | Uh, they were broken when I got here | 23.00% | ~4,049 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,873 |
@@ -22,16 +22,16 @@ Rating: 4.86 (Ranked 33)
 | Whoa! There's ANOTHER health bar!? | 18.00% | ~3,169 |
 | Does that say weakpoint? | 18.00% | ~3,169 |
 | The Negotiator | 17.00% | ~2,993 |
-| You must like calling me in, Chai | 16.00% | ~2,816 |
-| Headliner | 15.00% | ~2,640 |
-| Out in a puff of smoke | 15.00% | ~2,640 |
-| Time to pay up! | 13.00% | ~2,288 |
-| Who's the boss now? | 13.00% | ~2,288 |
-| Perfecter Parry-er! | 13.00% | ~2,288 |
-| I look cool. But I can look COOLER. | 13.00% | ~2,288 |
-| I have to read these things? | 12.00% | ~2,112 |
-| NOW we got a kickass hideout! | 10.00% | ~1,612 |
-| There's such a thing as TOO helpful | 9.00% | ~1,584 |
+| You must like calling me in, Chai | 16.00% | ~2,817 |
+| Headliner | 15.00% | ~2,641 |
+| Out in a puff of smoke | 15.00% | ~2,641 |
+| Time to pay up! | 13.00% | ~2,289 |
+| Who's the boss now? | 13.00% | ~2,289 |
+| Perfecter Parry-er! | 13.00% | ~2,289 |
+| I look cool. But I can look COOLER. | 13.00% | ~2,289 |
+| I have to read these things? | 12.00% | ~2,113 |
+| NOW we got a kickass hideout! | 10.00% | ~1,613 |
+| There's such a thing as TOO helpful | 9.00% | ~1,585 |
 | Well that was a rush! | 8.00% | ~1,408 |
 | That's a lot of junk metal… | 8.00% | ~1,408 |
 | Beat-hit mania | 7.00% | ~1,232 |
@@ -47,7 +47,7 @@ Rating: 4.86 (Ranked 33)
 | I'm not done with you yet | 2.00% | ~352 |
 | First we parry, then we counter | 2.00% | ~352 |
 | I hit things with a guitar really well. | 2.00% | ~352 |
-| Call me Turbo Chai | 2.00% | ~322 |
+| Call me Turbo Chai | 2.00% | ~323 |
 | Easy Listening | 1.00% | ~176 |
 | OK, well THEY came after ME! | 0.90% | ~158 |
 | New bad guys? No problem! | 0.70% | ~113 |
@@ -55,7 +55,7 @@ Rating: 4.86 (Ranked 33)
 | Problem solved... wait, what? | 0.40% | ~70 |
 | Fully Powered Up! | 0.40% | ~70 |
 | I am a good person who likes to help | 0.40% | ~70 |
-| Choose your own adventure | 0.40% | ~64 |
+| Choose your own adventure | 0.40% | ~65 |
 | And the crowd goes wild! | 0.30% | ~53 |
 | With our powers combined…and to the rhythm… | 0.30% | ~53 |
 | I can't see this ever being a problem again | 0.20% | ~35 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,603 (Ranked 168)  
+Progressed: 17,606 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 8 (0.05%) (Ranked 348)
 | 2024-01-19 | 17,441 | 8 |
 | 2024-01-20 | 17,503 | 8 |
 | 2024-01-21 | 17,560 | 8 |
-| 2024-01-22 | 17,603 | 8 |
+| 2024-01-22 | 17,606 | 8 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 503)  
 Sum: 37 (Ranked 538)  

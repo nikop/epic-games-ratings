@@ -69,9 +69,9 @@
       "ID": "ACH_AN_OLD_FIREND",
       "SetID": "9i65mgf",
       "Name": "An Old Friend",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_AN_OLD_HERO",
@@ -93,9 +93,9 @@
       "ID": "ACH_ATTENTION_PEA",
       "SetID": "9i65mgf",
       "Name": "Attention Peasant!",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_A_LONE_AND_LONESLY_ENGINEER",
@@ -149,9 +149,9 @@
       "ID": "ACH_DAMSEL_IN_DISTRESS",
       "SetID": "9i65mgf",
       "Name": "Damsel in Distress?",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_DISRUPTION_OF_PEACE",
@@ -573,9 +573,9 @@
       "ID": "ACH_MEET_HARBOURMASTER",
       "SetID": "9i65mgf",
       "Name": "Meet THE Harbormaster",
-      "Percentage": 50,
+      "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ACH_MILLIONAIRE",
@@ -605,9 +605,9 @@
       "ID": "ACH_NOT_A_GOOD_DECOY",
       "SetID": "9i65mgf",
       "Name": "Not a Good Decoy",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_NOW_YOU_KNEW",
@@ -661,9 +661,9 @@
       "ID": "ACH_PINK_FLOWER",
       "SetID": "9i65mgf",
       "Name": "The Pink Flower",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_PLAYED_US_LIKE_A_FIDDLE",
@@ -709,9 +709,9 @@
       "ID": "ACH_SAFE_DELIVERY",
       "SetID": "9i65mgf",
       "Name": "Safe Delivery",
-      "Percentage": 33,
+      "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "ACH_SECRET_KEEPER",
@@ -1260,8 +1260,8 @@
   ],
   "FirstSeen": "2024-01-21T20:58:52.2546392+00:00",
   "FirstSeenAchievements": "2023-11-14T13:10:20.9196134+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:06:55.3778751+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:06:31.1486353+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.652208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:59:17.9349868+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:06:55.3780664+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:59:12.4891225+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:06:31.1488578+00:00"
 }

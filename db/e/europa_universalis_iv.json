@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14709,9 +14709,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 503795,
+  "EOS_Progressed": 503844,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4338,
+  "EOS_NewPlayers": 4355,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46729,6 +46729,11 @@
       "Time": "2024-01-22T16:11:01.1272829+00:00",
       "NumProgressed": 503795,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T17:10:49.3340476+00:00",
+      "NumProgressed": 503844,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47260,7 +47265,7 @@
       "Name": "Cold War",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "achievement_colonial_management",
@@ -47356,7 +47361,7 @@
       "Name": "Defender of the Faith",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "achievement_definitely_the_sultan_of_rum",
@@ -47572,7 +47577,7 @@
       "Name": "For the Glory",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "achievement_forever_golden",
@@ -47956,7 +47961,7 @@
       "Name": "It\u0027s all about the money",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "achievement_its_all_greek_to_me",
@@ -49332,7 +49337,7 @@
       "Name": "True Catholic",
       "Percentage": 0.3,
       "XP": 10,
-      "UsersEstimate": 1511
+      "UsersEstimate": 1512
     },
     {
       "ID": "achievement_true_heir_of_timur",
@@ -49643,21 +49648,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 503795,
+      "Progressed": 503844,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 503795,
+      "Progressed": 503844,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-22T15:01:26.8249182+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:11:01.1272825+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:49.3340472+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:01:03.8054456+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:11:01.1282974+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:00:38.4678569+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:49.3350946+00:00"
 }

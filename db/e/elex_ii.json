@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 260,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -579,7 +579,7 @@
   ],
   "EOS_Progressed": 280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2011,9 +2011,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 56
+      "UsersEstimate": 59
     },
     {
       "ID": "FUTUREIRISSA",
@@ -2099,9 +2099,9 @@
       "ID": "LOVECAJA",
       "SetID": "a1angca",
       "Name": "Lover",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     }
   ],
   "AchievementSets": [
@@ -2115,8 +2115,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:06:20.776357+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:06:01.2686053+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:00:19.8985332+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:06:20.7763927+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:00:01.7396195+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:06:01.2686524+00:00"
 }

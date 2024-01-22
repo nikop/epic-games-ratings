@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17102,
+  "EOS_Progressed": 17104,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 236,
+  "EOS_NewPlayers": 237,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20779,6 +20779,11 @@
       "Time": "2024-01-22T16:11:00.7836774+00:00",
       "NumProgressed": 17102,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T17:10:49.0451182+00:00",
+      "NumProgressed": 17104,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22460,9 +22465,9 @@
       "ID": "ACHIEVEMENT_ONE_TRUE_FAITH",
       "SetID": "9201eeb",
       "Name": "One True Faith",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 86
+      "UsersEstimate": 103
     },
     {
       "ID": "ACHIEVEMENT_PANTHEON_OF_GODS",
@@ -22716,9 +22721,9 @@
       "ID": "ACHIEVEMENT_STAT_TEN_LEADERS",
       "SetID": "9201eeb",
       "Name": "Ten Crowns",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 50,
-      "UsersEstimate": 51
+      "UsersEstimate": 68
     },
     {
       "ID": "ACHIEVEMENT_TECH_ECONOMIC_REFORM",
@@ -22756,9 +22761,9 @@
       "ID": "ACHIEVEMENT_THEOLOGY_ENLIGHTENMENT",
       "SetID": "7l38kb8",
       "Name": "Enlightenment",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 120
+      "UsersEstimate": 137
     },
     {
       "ID": "ACHIEVEMENT_THEOLOGY_GNOSTICISM",
@@ -23653,21 +23658,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17102,
+      "Progressed": 17104,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17102,
+      "Progressed": 17104,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:11:00.7836767+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:49.0451177+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:58:47.9558287+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:11:00.7847679+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:58:49.7425892+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:49.046345+00:00"
 }

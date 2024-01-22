@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11178,9 +11178,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133488,
+  "EOS_Progressed": 133491,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 589,
+  "EOS_NewPlayers": 590,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41063,6 +41063,11 @@
       "Time": "2024-01-22T16:10:47.7762721+00:00",
       "NumProgressed": 133488,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T17:10:37.341549+00:00",
+      "NumProgressed": 133491,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41090,7 +41095,7 @@
       "Name": "It Rings a Bell",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "altar_of_hope_memory_equip_five_same_hero",
@@ -41226,7 +41231,7 @@
       "Name": "Not Today!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "combat_kill_dreaming_general",
@@ -41346,7 +41351,7 @@
       "Name": "It Happens",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "combat_run_kill_three_lair_bosses",
@@ -41378,7 +41383,7 @@
       "Name": "Merry Time",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "driving_biome_clear_farm",
@@ -41386,7 +41391,7 @@
       "Name": "Harvest Festival",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "driving_biome_clear_forest",
@@ -41450,7 +41455,7 @@
       "Name": "Whale",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "hospital_full_service",
@@ -41466,7 +41471,7 @@
       "Name": "A Place to Lay Your Head",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "inn_hire_mercenary_bounty_hunter",
@@ -41522,7 +41527,7 @@
       "Name": "Nope",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6674
+      "UsersEstimate": 6675
     },
     {
       "ID": "run_victory_act01",
@@ -41658,7 +41663,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -41666,7 +41671,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "quest_complete_crusader",
@@ -41705,21 +41710,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133488,
+      "Progressed": 133491,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8357,
+      "Progressed": 8360,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-22T14:59:42.7618923+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:10:47.7762718+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:37.3415486+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:59:27.2023614+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:10:47.7764293+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:59:19.9603155+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:37.3417611+00:00"
 }

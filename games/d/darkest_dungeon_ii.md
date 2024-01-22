@@ -21,16 +21,16 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 6.00% | ~8,009 |
 | To Grandmother's House | 6.00% | ~8,009 |
 | FNG | 6.00% | ~8,009 |
-| Ploughshares to Swords | 6.00% | ~501 |
-| Bloody Graduation | 6.00% | ~501 |
-| It Rings a Bell | 5.00% | ~6,674 |
-| Not Today! | 5.00% | ~6,674 |
-| It Happens | 5.00% | ~6,674 |
-| Merry Time | 5.00% | ~6,674 |
-| Harvest Festival | 5.00% | ~6,674 |
-| Whale | 5.00% | ~6,674 |
-| A Place to Lay Your Head | 5.00% | ~6,674 |
-| Nope | 5.00% | ~6,674 |
+| Ploughshares to Swords | 6.00% | ~502 |
+| Bloody Graduation | 6.00% | ~502 |
+| It Rings a Bell | 5.00% | ~6,675 |
+| Not Today! | 5.00% | ~6,675 |
+| It Happens | 5.00% | ~6,675 |
+| Merry Time | 5.00% | ~6,675 |
+| Harvest Festival | 5.00% | ~6,675 |
+| Whale | 5.00% | ~6,675 |
+| A Place to Lay Your Head | 5.00% | ~6,675 |
+| Nope | 5.00% | ~6,675 |
 | Friends 'Til the End | 5.00% | ~418 |
 | Resurrection | 4.00% | ~5,340 |
 | Unleash Hell | 4.00% | ~5,340 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,488 (Ranked 92)  
+Progressed: 133,491 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,488 | 5 |
+| 2024-01-22 | 133,491 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,821 (Ranked 58)  

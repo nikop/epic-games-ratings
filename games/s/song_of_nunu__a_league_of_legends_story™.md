@@ -17,24 +17,24 @@ Rating: 4.63 (Ranked 359)
 | The Fire Below the Mountain | 61.00% | ~968 |
 | Iceborn | 56.00% | ~889 |
 | No Bites | 55.00% | ~873 |
+| Boom Things | 54.00% | ~857 |
 | Tear of Freedom | 53.00% | ~841 |
-| Boom Things | 53.00% | ~841 |
 | My Darkest Day | 49.00% | ~778 |
 | Rhythm Of Willump | 47.00% | ~746 |
 | The Relentless Storm | 47.00% | ~746 |
 | A Tragic Reminder | 45.00% | ~714 |
 | 3000 Year Blackout | 45.00% | ~714 |
+| The Finisher | 43.00% | ~682 |
 | So Close | 42.00% | ~667 |
 | You Get Used To It | 42.00% | ~667 |
-| The Finisher | 42.00% | ~667 |
 | Family | 40.00% | ~635 |
 | Biggest Snowball Ever | 40.00% | ~635 |
 | Boosted! | 40.00% | ~635 |
 | Deadliest and Biggest Snowball Ever! | 40.00% | ~635 |
 | Freeze The Ice Witch | 39.00% | ~619 |
 | True Legends | 38.00% | ~603 |
+| Bullseye | 37.00% | ~587 |
 | It Is Not Over | 36.00% | ~571 |
-| Bullseye | 36.00% | ~571 |
 | On The Rocks | 34.00% | ~540 |
 | Snowy Poro | 33.00% | ~524 |
 | Never Gets Old | 32.00% | ~508 |

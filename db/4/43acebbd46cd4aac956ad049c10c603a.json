@@ -3,11 +3,11 @@
   "Name": "The Talos Principle 2",
   "ProductSlug": "the-talos-principle-2-ab1034",
   "Ranking_Rating": 17,
-  "Ranking_Popularity": 360,
-  "Ranking_PopularitySum": 462,
+  "Ranking_Popularity": 359,
+  "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 228,
+  "Ranking_EOS_NewPlayers": 227,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -341,18 +341,24 @@
       "Rating": 4.88,
       "NumberOfAwards": 120,
       "NumberOfAwardsMax": 120
+    },
+    {
+      "Time": "2024-01-22T16:58:45.5941629+00:00",
+      "Rating": 4.88,
+      "NumberOfAwards": 121,
+      "NumberOfAwardsMax": 121
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 120,
-  "NumberOfAwardsMax": 120,
+  "NumberOfAwards": 121,
+  "NumberOfAwardsMax": 121,
   "MaxAwardTitle": "Challenging Puzzles",
   "Tags": [
     {
       "Text": "This game features Challenging Puzzles",
       "Prefix": "This game features",
       "Type": "Challenging Puzzles",
-      "Count": 120
+      "Count": 121
     }
   ],
   "EOS_Progressed": 1461,
@@ -4777,9 +4783,9 @@
       "ID": "VerdantCanyon",
       "SetID": "1n308hc",
       "Name": "Verdant Canyon",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 175
+      "UsersEstimate": 190
     },
     {
       "ID": "Wanderers",
@@ -4825,9 +4831,9 @@
   "FirstSeen": "2023-11-03T01:41:58.8670455+00:00",
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
-  "LastChanged": "2024-01-21T13:57:48.8610503+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:04:42.0600905+00:00",
+  "LastChanged": "2024-01-22T16:58:45.5941627+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:04:41.2436966+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:58:42.6484252+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:04:42.0601449+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:58:45.5941633+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:04:41.243756+00:00"
 }

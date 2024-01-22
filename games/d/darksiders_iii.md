@@ -1,33 +1,33 @@
 # Darksiders III
 [Store](https://store.epicgames.com/en-US/p/darksiders3)  
 [View Rawdata](../../db/d/darksiders_iii.json)  
-Rating: 4.49 (Ranked 644)  
+Rating: 4.49 (Ranked 645)  
 Number of Ratings: 116  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Green with Envy | 77.00% | ~519 |
-| First of many… | 69.00% | ~465 |
-| Helping Hand | 65.00% | ~438 |
-| Increased Vigor | 61.00% | ~411 |
+| Green with Envy | 77.00% | ~520 |
+| First of many… | 69.00% | ~466 |
+| Helping Hand | 65.00% | ~439 |
+| Increased Vigor | 61.00% | ~412 |
 | Fight Fire with Fire | 59.00% | ~398 |
-| Increased Capacity | 56.00% | ~377 |
-| Just the start | 50.00% | ~337 |
+| Increased Capacity | 56.00% | ~378 |
+| Just the start | 50.00% | ~338 |
 | Perfect Storm | 47.00% | ~317 |
 | All That Glitters | 47.00% | ~317 |
 | Enhance! | 43.00% | ~290 |
-| One Of the Chosen | 42.00% | ~283 |
-| Devil's in the Details | 41.00% | ~276 |
-| Throne Potato | 41.00% | ~276 |
-| Five's a Crowd | 41.00% | ~276 |
+| One Of the Chosen | 41.00% | ~277 |
+| Devil's in the Details | 41.00% | ~277 |
+| Throne Potato | 41.00% | ~277 |
+| Five's a Crowd | 41.00% | ~277 |
 | Salvation | 40.00% | ~270 |
 | 25 to Life | 40.00% | ~270 |
-| Unshakable Fortitude | 37.00% | ~249 |
-| Soul Harvester | 37.00% | ~249 |
+| Unshakable Fortitude | 37.00% | ~250 |
+| Soul Harvester | 37.00% | ~250 |
 | Delusions of Grandeur | 36.00% | ~243 |
 | I Wanna Rock | 35.00% | ~236 |
 | Love Tap | 35.00% | ~236 |
-| Maximum Vigor | 33.00% | ~222 |
+| Maximum Vigor | 33.00% | ~223 |
 | Freeze Frame | 31.00% | ~209 |
 | Eat Your Heart Out | 31.00% | ~209 |
 | For Whom the Bell Tolls | 30.00% | ~202 |
@@ -35,9 +35,9 @@ Number of Ratings: 116  (23.09.2022)
 | Can you restore the Balance? | 27.00% | ~182 |
 | Crowd Source | 27.00% | ~182 |
 | Big Spender | 27.00% | ~182 |
-| Cleanup Crew | 26.00% | ~175 |
-| Seeing Red | 26.00% | ~175 |
-| Demon Meddler | 25.00% | ~168 |
+| Cleanup Crew | 26.00% | ~176 |
+| Seeing Red | 26.00% | ~176 |
+| Demon Meddler | 25.00% | ~169 |
 | Egomaniac | 24.00% | ~162 |
 | Maximum Capacity | 23.00% | ~155 |
 | Protector of Humanity | 23.00% | ~155 |
@@ -45,11 +45,11 @@ Number of Ratings: 116  (23.09.2022)
 | Path of the Horseman | 16.00% | ~108 |
 | Community Outreach | 16.00% | ~108 |
 | A Parting Gift | 15.00% | ~101 |
-| Unbreakable Will | 14.00% | ~94 |
-| Take it to the Limit | 14.00% | ~94 |
+| Unbreakable Will | 14.00% | ~95 |
+| Take it to the Limit | 14.00% | ~95 |
 | Holy Keeper | 12.00% | ~81 |
 | Demon Keeper | 12.00% | ~81 |
-| Humanitarian | 10.00% | ~67 |
+| Humanitarian | 10.00% | ~68 |
 | Soul Reaper | 9.00% | ~61 |
 | Made of Sterner Stuff | 7.00% | ~47 |
 | Purity of Power | 5.00% | ~34 |
@@ -65,13 +65,13 @@ Number of Ratings: 116  (23.09.2022)
 | Proceed on your way to Armageddon | 3.00% | ~20 |
 | Keeper of Colossal Automata | 3.00% | ~20 |
 | Keeper of the Tempo | 3.00% | ~20 |
-| "Apocalyptic!" | 2.00% | ~13 |
-| "Amazing!" | 2.00% | ~13 |
-| Death Incarnate | 2.00% | ~13 |
+| "Apocalyptic!" | 2.00% | ~14 |
+| "Amazing!" | 2.00% | ~14 |
+| Death Incarnate | 2.00% | ~14 |
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 674 (Ranked 340)  
+Progressed: 675 (Ranked 340)  
 Completed: 2 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -109,7 +109,7 @@ Completed: 2 (0.30%) (Ranked 265)
 | 2024-01-19 | 649 | 2 |
 | 2024-01-20 | 658 | 2 |
 | 2024-01-21 | 667 | 2 |
-| 2024-01-22 | 674 | 2 |
+| 2024-01-22 | 675 | 2 |
 ## Awards
 Max (Great Boss Battles): 100  (Ranked 383)  
 Sum: 100 (Ranked 474)  

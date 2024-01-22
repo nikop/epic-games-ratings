@@ -2,9 +2,9 @@
   "ID": "116f71b2da434337bba6498e0ea61d9c",
   "Name": "Virtual Rides 3",
   "ProductSlug": "virtual-rides-3-2add3b",
-  "Ranking_EOS_Progress": 710,
+  "Ranking_EOS_Progress": 698,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 481,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-17T23:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5,
+  "EOS_Progressed": 6,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -54,6 +54,11 @@
       "Time": "2024-01-11T14:06:27.1045797+00:00",
       "NumProgressed": 5,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T17:08:58.907273+00:00",
+      "NumProgressed": 6,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-11T19:03:46.1606302+00:00",
@@ -64,7 +69,7 @@
       "ID": "vr3_arch_changed_theme",
       "SetID": "3dg153n",
       "Name": "Change the mood.",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -72,7 +77,7 @@
       "ID": "vr3_arch_first_coloration",
       "SetID": "3dg153n",
       "Name": "Painter",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -80,7 +85,7 @@
       "ID": "vr3_arch_first_customization_piece",
       "SetID": "3dg153n",
       "Name": "Investments",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -88,7 +93,7 @@
       "ID": "vr3_arch_first_money",
       "SetID": "3dg153n",
       "Name": "Enterpriser",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -96,7 +101,7 @@
       "ID": "vr3_arch_first_texturation",
       "SetID": "3dg153n",
       "Name": "First Texturation",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -128,7 +133,7 @@
       "ID": "vr3_arch_part_unlocker",
       "SetID": "3dg153n",
       "Name": "Shopping",
-      "Percentage": 40,
+      "Percentage": 33,
       "XP": 100,
       "UsersEstimate": 2
     },
@@ -136,7 +141,7 @@
       "ID": "vr3_arch_under_control",
       "SetID": "3dg153n",
       "Name": "Everything under control.",
-      "Percentage": 60,
+      "Percentage": 50,
       "XP": 100,
       "UsersEstimate": 3
     }
@@ -145,14 +150,14 @@
     {
       "ID": "3dg153n",
       "IsBase": true,
-      "Progressed": 5,
+      "Progressed": 6,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-21T18:58:40.4575311+00:00",
   "FirstSeenAchievements": "2023-12-11T19:03:46.1606302+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:08:51.2634475+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:08:58.9072725+00:00",
   "LastUpdate_AppInfo": "2024-01-15T20:57:09.2452325+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:00:45.0105341+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:08:51.2634862+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:00:24.182374+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:08:58.9072828+00:00"
 }

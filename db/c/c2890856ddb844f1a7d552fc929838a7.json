@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -321,9 +321,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 2606,
+  "EOS_Progressed": 2607,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6391,6 +6391,11 @@
       "Time": "2024-01-22T15:08:20.249538+00:00",
       "NumProgressed": 2606,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T17:08:28.5940525+00:00",
+      "NumProgressed": 2607,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-21T15:05:36.9322991+00:00",
@@ -6411,7 +6416,7 @@
       "Name": "A Thousand Years Later",
       "Percentage": 89,
       "XP": 30,
-      "UsersEstimate": 2319
+      "UsersEstimate": 2320
     },
     {
       "ID": "AC02",
@@ -6419,7 +6424,7 @@
       "Name": "Blood and Dust",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 1720
+      "UsersEstimate": 1721
     },
     {
       "ID": "AC03",
@@ -6443,7 +6448,7 @@
       "Name": "The Sharpest Tool in the Shed",
       "Percentage": 57,
       "XP": 30,
-      "UsersEstimate": 1485
+      "UsersEstimate": 1486
     },
     {
       "ID": "AC06",
@@ -6451,7 +6456,7 @@
       "Name": "The Last Ascension",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 1355
+      "UsersEstimate": 1356
     },
     {
       "ID": "AC07",
@@ -6459,7 +6464,7 @@
       "Name": "The Sea dies on the Shore",
       "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1330
     },
     {
       "ID": "AC08",
@@ -6467,7 +6472,7 @@
       "Name": "Forged in Fire",
       "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "AC09",
@@ -6483,7 +6488,7 @@
       "Name": "The Wait is Over",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 964
+      "UsersEstimate": 965
     },
     {
       "ID": "AC11",
@@ -6569,9 +6574,9 @@
       "ID": "AC21",
       "SetID": "l4abp0",
       "Name": "No Cherub Left Behind",
-      "Percentage": 33,
+      "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 860
+      "UsersEstimate": 834
     },
     {
       "ID": "AC22",
@@ -6603,7 +6608,7 @@
       "Name": "House of Grief and Hatred",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 1042
+      "UsersEstimate": 1043
     },
     {
       "ID": "AC26",
@@ -6627,7 +6632,7 @@
       "Name": "The Punished One",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 1068
+      "UsersEstimate": 1069
     },
     {
       "ID": "AC29",
@@ -6635,7 +6640,7 @@
       "Name": "The Veteran One",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "AC30",
@@ -6643,7 +6648,7 @@
       "Name": "The Anointed One",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "AC31",
@@ -6667,7 +6672,7 @@
       "Name": "Ultima Ratio",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1304
     },
     {
       "ID": "AC34",
@@ -6770,7 +6775,7 @@
     {
       "ID": "l4abp0",
       "IsBase": true,
-      "Progressed": 2606,
+      "Progressed": 2607,
       "Completed": 0
     }
   ],
@@ -6778,8 +6783,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:08:14.4074627+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:08:28.5940519+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:58:50.309431+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:08:14.407515+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:58:51.6941733+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:08:28.5941359+00:00"
 }

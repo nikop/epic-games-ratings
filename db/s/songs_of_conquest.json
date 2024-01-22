@@ -462,7 +462,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 1275,
+  "EOS_Progressed": 1277,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 0,
@@ -4412,6 +4412,11 @@
       "Time": "2024-01-22T16:10:10.4828351+00:00",
       "NumProgressed": 1275,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T17:10:05.1153331+00:00",
+      "NumProgressed": 1277,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-15T13:13:10.0440825+00:00",
@@ -4432,7 +4437,7 @@
       "Name": "The Song of Stoutheart",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "ArleonCampaignFinaleOnHard",
@@ -4448,7 +4453,7 @@
       "Name": "Dressed For Success",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "AttackCount",
@@ -4528,7 +4533,7 @@
       "Name": "Critical Hit",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "Deepstrike",
@@ -4568,7 +4573,7 @@
       "Name": "Double Kill",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 523
+      "UsersEstimate": 524
     },
     {
       "ID": "FlameAttackKillCount",
@@ -4664,7 +4669,7 @@
       "Name": "Whoops!",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "RanaCampaign",
@@ -4688,7 +4693,7 @@
       "Name": "Don\u0027t Touch My Stuff",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "RepelIntoExplosiveFungi",
@@ -4752,7 +4757,7 @@
       "Name": "Adept",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 599
+      "UsersEstimate": 600
     },
     {
       "ID": "WielderLevel2",
@@ -4760,7 +4765,7 @@
       "Name": "Veteran",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 293
+      "UsersEstimate": 294
     },
     {
       "ID": "WielderLevel3",
@@ -4855,15 +4860,15 @@
     {
       "ID": "71c0n9i",
       "IsBase": true,
-      "Progressed": 1275,
+      "Progressed": 1277,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:48.2470941+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.5111638+00:00",
   "LastChanged": "2024-01-10T21:57:50.1216986+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:10:10.4828346+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:05.1153326+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:10.5521878+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:58:47.7751504+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:10:10.4828812+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:58:49.6077204+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:05.1153852+00:00"
 }

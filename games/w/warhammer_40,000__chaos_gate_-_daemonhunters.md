@@ -6,13 +6,13 @@ Number of Ratings: 371  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Executioner | 21.00% | ~825 |
+| Executioner | 22.00% | ~864 |
 | Look Over There! | 16.00% | ~628 |
 | Not So Fast... | 16.00% | ~628 |
 | Watch Where You Step... | 16.00% | ~628 |
 | An Ill Omen | 15.00% | ~589 |
 | Purging Spree | 11.00% | ~432 |
-| Blood for the Blood God! | 9.00% | ~353 |
+| Blood for the Blood God! | 10.00% | ~393 |
 | Bloodless | 8.00% | ~314 |
 | Friendly Fire | 7.00% | ~275 |
 | Surgical Excision | 6.00% | ~236 |
@@ -31,6 +31,7 @@ Number of Ratings: 371  (23.09.2022)
 | Efficient Killer | 2.00% | ~79 |
 | Only in Death | 2.00% | ~79 |
 | A Gift Spurned | 2.00% | ~79 |
+| Long Distance Call | 2.00% | ~79 |
 | Execution Force | 2.00% | ~79 |
 | Patron of Deimos | 1.00% | ~39 |
 | Fleetmaster | 1.00% | ~39 |
@@ -39,7 +40,6 @@ Number of Ratings: 371  (23.09.2022)
 | Engine Kill | 1.00% | ~39 |
 | Junk Banishment | 1.00% | ~39 |
 | Death Comes For All | 1.00% | ~39 |
-| Long Distance Call | 1.00% | ~39 |
 | Tactical Flexibility | 1.00% | ~39 |
 | Tactical Sabotage | 1.00% | ~39 |
 | Harvest No More | 0.90% | ~35 |
@@ -75,7 +75,7 @@ Number of Ratings: 371  (23.09.2022)
 | Not a Mote of Corruption | 0.10% | ~4 |
 | Standard-Issue Killer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,927 (Ranked 223)  
+Progressed: 3,928 (Ranked 223)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 3,916 | 0 |
 | 2024-01-20 | 3,920 | 0 |
 | 2024-01-21 | 3,925 | 0 |
-| 2024-01-22 | 3,927 | 0 |
+| 2024-01-22 | 3,928 | 0 |
 ## Awards
 Max (Character Customization): 237  (Ranked 284)  
 Sum: 481 (Ranked 342)  

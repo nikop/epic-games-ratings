@@ -1,38 +1,38 @@
 # Chants of Sennaar
 [Store](https://store.epicgames.com/en-US/p/chants-of-sennaar)  
 [View Rawdata](../../db/c/chants_of_sennaar.json)  
-Rating: 4.86 (Ranked 33)  
+Rating: 4.87 (Ranked 25)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| That's the spirit | 60.00% | ~1,772 |
-| Welcome to the Tower | 54.00% | ~1,595 |
-| The great escape | 46.00% | ~1,359 |
-| The Preacher's fate | 44.00% | ~1,300 |
-| A new dawn | 39.00% | ~1,152 |
-| Scholar | 34.00% | ~1,004 |
+| That's the spirit | 60.00% | ~1,774 |
+| Welcome to the Tower | 54.00% | ~1,596 |
+| The great escape | 46.00% | ~1,360 |
+| The Preacher's fate | 44.00% | ~1,301 |
+| A new dawn | 39.00% | ~1,153 |
+| Scholar | 34.00% | ~1,005 |
 | True G3M4R | 33.00% | ~975 |
 | The darkness | 33.00% | ~975 |
-| A good beginning | 32.00% | ~945 |
-| One last step | 30.00% | ~886 |
+| A good beginning | 32.00% | ~946 |
+| One last step | 30.00% | ~887 |
 | I did it | 29.00% | ~857 |
 | Cable guy | 29.00% | ~857 |
 | Half the way | 29.00% | ~857 |
-| Peace walker | 28.00% | ~827 |
-| Champollion | 28.00% | ~827 |
+| Peace walker | 28.00% | ~828 |
+| Champollion | 28.00% | ~828 |
 | In this together | 27.00% | ~798 |
 | Rascal | 27.00% | ~798 |
-| Open door | 23.00% | ~679 |
-| Feels like springtime | 23.00% | ~679 |
-| Alchemists Express | 23.00% | ~679 |
-| Free at last | 21.00% | ~620 |
+| Open door | 23.00% | ~680 |
+| Feels like springtime | 23.00% | ~680 |
+| Alchemists Express | 23.00% | ~680 |
+| Free at last | 21.00% | ~621 |
 | A Link to the Past | 18.00% | ~532 |
 | A great audience | 16.00% | ~473 |
 | For its own good | 15.00% | ~443 |
-| Fashion victim | 10.00% | ~295 |
+| Fashion victim | 10.00% | ~296 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,954 (Ranked 236)  
-Completed: 230 (7.79%) (Ranked 52)  
+Progressed: 2,956 (Ranked 236)  
+Completed: 231 (7.81%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -215,7 +215,7 @@ Completed: 230 (7.79%) (Ranked 52)
 | 2024-01-19 | 2,890 | 222 |
 | 2024-01-20 | 2,917 | 224 |
 | 2024-01-21 | 2,942 | 229 |
-| 2024-01-22 | 2,954 | 230 |
+| 2024-01-22 | 2,956 | 231 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -239,3 +239,4 @@ Completed: 230 (7.79%) (Ranked 52)
 | 2024-01-14 | 4.86 | 0 | 0 |
 | 2024-01-17 | 4.87 | 0 | 0 |
 | 2024-01-21 | 4.86 | 0 | 0 |
+| 2024-01-22 | 4.87 | 0 | 0 |

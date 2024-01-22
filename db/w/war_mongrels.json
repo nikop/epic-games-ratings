@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 320,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 329,
+  "Ranking_EOS_NewPlayers": 324,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-10-19T16:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 790,
+  "EOS_Progressed": 791,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2855,6 +2855,11 @@
       "Time": "2024-01-22T16:10:56.3157749+00:00",
       "NumProgressed": 790,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T17:10:44.7425838+00:00",
+      "NumProgressed": 791,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 59,
@@ -2970,7 +2975,7 @@
       "Name": "Explorer",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 537
+      "UsersEstimate": 538
     },
     {
       "ID": "ACH_COLL_20",
@@ -2978,7 +2983,7 @@
       "Name": "Prospector",
       "Percentage": 38,
       "XP": 10,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_COLL_ALL",
@@ -2986,7 +2991,7 @@
       "Name": "Treasure Hunter",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "ACH_COLL_CH01",
@@ -3090,7 +3095,7 @@
       "Name": "Cowardice",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 482
+      "UsersEstimate": 483
     },
     {
       "ID": "ACH_FIN_CH02",
@@ -3106,7 +3111,7 @@
       "Name": "The Motivation",
       "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "ACH_FIN_CH04",
@@ -3282,7 +3287,7 @@
       "Name": "Food Massacre",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "ACH_KILL_SNIPER",
@@ -3290,7 +3295,7 @@
       "Name": "Sniper Wolf",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "ACH_KILL_THROW",
@@ -3320,9 +3325,9 @@
       "ID": "ACH_NODETECT",
       "SetID": "1j25agn",
       "Name": "Tiptoe Around",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 87
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_NOMOON",
@@ -3337,15 +3342,15 @@
     {
       "ID": "1j25agn",
       "IsBase": true,
-      "Progressed": 790,
+      "Progressed": 791,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:27.4938889+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:50.3418244+00:00",
   "LastChanged": "2023-11-28T01:45:15.549368+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:10:56.3157742+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:44.7425837+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.4362473+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:59:15.8823577+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:10:56.3158204+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:59:10.8194729+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:44.7426349+00:00"
 }

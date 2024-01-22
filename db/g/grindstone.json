@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 208,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 406,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-05-20T15:00:00+00:00",
@@ -219,9 +219,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 5249,
+  "EOS_Progressed": 5250,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -1229,6 +1229,11 @@
       "Time": "2024-01-22T06:05:25.0218313+00:00",
       "NumProgressed": 5249,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-22T17:06:20.90772+00:00",
+      "NumProgressed": 5250,
+      "NumCompleted": 31
     }
   ],
   "TotalAchievements": 49,
@@ -1288,7 +1293,7 @@
       "Name": "Goldrush Glory Days",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACHIEVE_50_GUTS",
@@ -1296,7 +1301,7 @@
       "Name": "Jerk-Slayer",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 2257
+      "UsersEstimate": 2258
     },
     {
       "ID": "ACHIEVE_50_ICE",
@@ -1304,7 +1309,7 @@
       "Name": "Best Party Guest",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACHIEVE_50_IRON",
@@ -1320,7 +1325,7 @@
       "Name": "Hot Potato",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "ACHIEVE_50_MUSHROOMS",
@@ -1342,9 +1347,9 @@
       "ID": "ACHIEVE_50_WOOD",
       "SetID": "b8l3p0g",
       "Name": "Timber!",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 3202
+      "UsersEstimate": 3150
     },
     {
       "ID": "ACHIEVE_ATE_FOOD_3",
@@ -1368,7 +1373,7 @@
       "Name": "Quincea\u00F1era Time",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "ACHIEVE_CREATE_30_GRINDSTONE",
@@ -1376,7 +1381,7 @@
       "Name": "Fun, Flirty, and Thirty",
       "Percentage": 63,
       "XP": 15,
-      "UsersEstimate": 3307
+      "UsersEstimate": 3308
     },
     {
       "ID": "ACHIEVE_CREATE_45_GRINDSTONE",
@@ -1400,7 +1405,7 @@
       "Name": "The Fellowship",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 157
+      "UsersEstimate": 158
     },
     {
       "ID": "ACHIEVE_FIREMAN",
@@ -1424,7 +1429,7 @@
       "Name": "Don\u0027t Get Too Greedy",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 367
+      "UsersEstimate": 368
     },
     {
       "ID": "ACHIEVE_JERK_ATTACK_JERK",
@@ -1448,7 +1453,7 @@
       "Name": "Slaughterhouse 5 (200 times)",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 4094
+      "UsersEstimate": 4095
     },
     {
       "ID": "ACHIEVE_KILL_CREEPS_10000",
@@ -1464,7 +1469,7 @@
       "Name": "Killed 20 Jerks",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "ACHIEVE_KILL_JERKS_200",
@@ -1480,7 +1485,7 @@
       "Name": "Royal Flush",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 3254
+      "UsersEstimate": 3255
     },
     {
       "ID": "ACHIEVE_KILL_SLOBS_50",
@@ -1488,7 +1493,7 @@
       "Name": "Royal Flush, Again",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 997
+      "UsersEstimate": 998
     },
     {
       "ID": "ACHIEVE_LVL_120_COMPLETE",
@@ -1512,7 +1517,7 @@
       "Name": "Survive the Bombsequences",
       "Percentage": 59,
       "XP": 5,
-      "UsersEstimate": 3097
+      "UsersEstimate": 3098
     },
     {
       "ID": "ACHIEVE_LVL_180_COMPLETE",
@@ -1528,7 +1533,7 @@
       "Name": "The Journey Begins",
       "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 5144
+      "UsersEstimate": 5145
     },
     {
       "ID": "ACHIEVE_LVL_30_COMPLETE",
@@ -1544,7 +1549,7 @@
       "Name": "Shrub it Off",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 787
+      "UsersEstimate": 788
     },
     {
       "ID": "ACHIEVE_LVL_90_COMPLETE",
@@ -1584,7 +1589,7 @@
       "Name": "Death Defied",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 2834
+      "UsersEstimate": 2835
     },
     {
       "ID": "ACHIEVE_PLATINUM",
@@ -1592,7 +1597,7 @@
       "Name": "Completionist",
       "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "ACHIEVE_QUICK_GRIND_WIN",
@@ -1600,7 +1605,7 @@
       "Name": "That Was Quick",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     },
     {
       "ID": "ACHIEVE_ROBINHOOD",
@@ -1624,22 +1629,22 @@
       "Name": "There is No Escape",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     }
   ],
   "AchievementSets": [
     {
       "ID": "b8l3p0g",
       "IsBase": true,
-      "Progressed": 5249,
+      "Progressed": 5250,
       "Completed": 31
     }
   ],
   "FirstSeen": "2022-07-22T20:29:27.1113513+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:21.039114+00:00",
   "LastChanged": "2023-12-26T18:58:09.3460811+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:06:42.9278866+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:06:20.9077196+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:27.1921833+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:00:21.6409624+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:06:42.9279206+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:00:03.1898302+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:06:20.9077536+00:00"
 }

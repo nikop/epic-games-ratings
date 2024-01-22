@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 76,
+  "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
     "PcReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 57226,
+  "EOS_Progressed": 57227,
   "EOS_Completed": 62,
-  "EOS_NewPlayers": 1443,
+  "EOS_NewPlayers": 1436,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -14528,6 +14528,11 @@
       "Time": "2024-01-22T16:10:09.9326748+00:00",
       "NumProgressed": 57226,
       "NumCompleted": 62
+    },
+    {
+      "Time": "2024-01-22T17:10:04.6643488+00:00",
+      "NumProgressed": 57227,
+      "NumCompleted": 62
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -14596,7 +14601,7 @@
       "Name": "Cash Money Millionaire",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 12017
+      "UsersEstimate": 12018
     },
     {
       "ID": "achievement_17",
@@ -14676,7 +14681,7 @@
       "Name": "Access All Areas",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 9728
+      "UsersEstimate": 9729
     },
     {
       "ID": "achievement_26",
@@ -14748,7 +14753,7 @@
       "Name": "#Blessed",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9728
+      "UsersEstimate": 9729
     },
     {
       "ID": "achievement_34",
@@ -14772,7 +14777,7 @@
       "Name": "100 Miles and Runnin\u0027",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 33763
+      "UsersEstimate": 33764
     },
     {
       "ID": "achievement_37",
@@ -14780,7 +14785,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 48070
+      "UsersEstimate": 48071
     },
     {
       "ID": "achievement_38",
@@ -14788,7 +14793,7 @@
       "Name": "Fashion Killa",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 46353
+      "UsersEstimate": 46354
     },
     {
       "ID": "achievement_39",
@@ -14796,7 +14801,7 @@
       "Name": "Cool Whip",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 42347
+      "UsersEstimate": 42348
     },
     {
       "ID": "achievement_4",
@@ -14820,7 +14825,7 @@
       "Name": "Drop the Beat",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 37769
+      "UsersEstimate": 37770
     },
     {
       "ID": "achievement_5",
@@ -14828,7 +14833,7 @@
       "Name": "Lake Better Watch Out",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9728
+      "UsersEstimate": 9729
     },
     {
       "ID": "achievement_6",
@@ -14836,7 +14841,7 @@
       "Name": "Found Family",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 7439
+      "UsersEstimate": 7440
     },
     {
       "ID": "achievement_7",
@@ -14867,13 +14872,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 57226,
+      "Progressed": 57227,
       "Completed": 62
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:10:09.9326743+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:04.6643483+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.4566272+00:00",
-  "LastUpdate_Ratings": "2024-01-22T15:58:07.2438922+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:10:09.932749+00:00"
+  "LastUpdate_Ratings": "2024-01-22T16:58:17.5911199+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:04.664461+00:00"
 }

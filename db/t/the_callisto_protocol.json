@@ -2351,9 +2351,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22665,
+  "EOS_Progressed": 22666,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 257,
+  "EOS_NewPlayers": 253,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14706,6 +14706,11 @@
       "Time": "2024-01-22T16:10:29.9329705+00:00",
       "NumProgressed": 22665,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-22T17:10:21.5432201+00:00",
+      "NumProgressed": 22666,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14741,7 +14746,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2266
+      "UsersEstimate": 2267
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14837,7 +14842,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14845,7 +14850,7 @@
       "Name": "Chew \u0027Em Up",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 4986
+      "UsersEstimate": 4987
     },
     {
       "ID": "KILL_ROBOT",
@@ -14877,7 +14882,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4306
+      "UsersEstimate": 4307
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14925,7 +14930,7 @@
       "Name": "Without A Paddle",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 3626
+      "UsersEstimate": 3627
     },
     {
       "ID": "STORY_HANGAR",
@@ -14973,7 +14978,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2946
+      "UsersEstimate": 2947
     },
     {
       "ID": "DISMEMBER_100",
@@ -15077,7 +15082,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 635
+      "UsersEstimate": 636
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -15092,13 +15097,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22665,
+      "Progressed": 22666,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10591,
+      "Progressed": 10592,
       "Completed": 29
     }
   ],
@@ -15106,8 +15111,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-22T14:03:24.1566114+00:00",
-  "LastChanged_Achievements": "2024-01-22T16:10:29.9329701+00:00",
+  "LastChanged_Achievements": "2024-01-22T17:10:21.5432197+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-22T16:03:34.655825+00:00",
-  "LastUpdate_Achievements": "2024-01-22T16:10:29.9330623+00:00"
+  "LastUpdate_Ratings": "2024-01-22T17:03:45.6992387+00:00",
+  "LastUpdate_Achievements": "2024-01-22T17:10:21.5433066+00:00"
 }

@@ -5,23 +5,23 @@ Rating: 4.66 (Ranked 307)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Time Heals All Wounds | 48.00% | ~648 |
-| Rail Rat | 36.00% | ~486 |
+| Time Heals All Wounds | 48.00% | ~649 |
+| Rail Rat | 36.00% | ~487 |
 | The Mysterious Stranger | 35.00% | ~473 |
-| Immaculate Aim | 30.00% | ~405 |
+| Immaculate Aim | 30.00% | ~406 |
 | The Brass Boss | 29.00% | ~392 |
-| Time Flies | 28.00% | ~378 |
+| Time Flies | 28.00% | ~379 |
 | Make Up For Lost Time | 27.00% | ~365 |
 | No, Thanks! | 27.00% | ~365 |
 | The Prince in Heels | 27.00% | ~365 |
 | Honest Mistake | 27.00% | ~365 |
 | Immaculate Aim | 27.00% | ~365 |
-| The Steel Shadow | 26.00% | ~351 |
-| The Harder They Fall | 26.00% | ~351 |
-| Fast Learner | 26.00% | ~351 |
+| The Steel Shadow | 26.00% | ~352 |
+| The Harder They Fall | 26.00% | ~352 |
+| Fast Learner | 26.00% | ~352 |
+| Right On Time | 24.00% | ~324 |
 | Breaking Down Barriers | 24.00% | ~324 |
 | The Wicked Twins | 24.00% | ~324 |
-| Right On Time | 23.00% | ~311 |
 | Like Clockwork | 23.00% | ~311 |
 | The Betrayer | 23.00% | ~311 |
 | Golem Chaser | 23.00% | ~311 |
@@ -59,7 +59,7 @@ Rating: 4.66 (Ranked 307)
 | Raw Talent | 0.70% | ~9 |
 | Going to Live Forever | 0.60% | ~8 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,351 (Ranked 283)  
+Progressed: 1,352 (Ranked 283)  
 Completed: 8 (0.59%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -242,7 +242,7 @@ Completed: 8 (0.59%) (Ranked 217)
 | 2024-01-19 | 1,343 | 8 |
 | 2024-01-20 | 1,347 | 8 |
 | 2024-01-21 | 1,350 | 8 |
-| 2024-01-22 | 1,351 | 8 |
+| 2024-01-22 | 1,352 | 8 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
