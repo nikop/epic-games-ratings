@@ -78,10 +78,10 @@
 | 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.98% |
 | 77 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
 | 78 | [ZZT!](games/z/zzt!.md) | 4.79% |
-| 79 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
-| 80 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
-| 81 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.67% |
-| 82 | [Dungeons 4](games/d/dungeons_4.md) | 4.60% |
+| 79 | [Dungeons 4](games/d/dungeons_4.md) | 4.73% |
+| 80 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.72% |
+| 81 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
+| 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.67% |
 | 83 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
 | 84 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.45% |
 | 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
@@ -130,7 +130,7 @@
 | 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.49% |
 | 129 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
 | 130 | [Mega City Force](games/m/mega_city_police.md) | 2.44% |
-| 131 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.38% |
+| 131 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.37% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
 | 132 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.27% |
 | 132 | [Xuan-Yuan Sword VII](games/d/de6aa04dd4a44154bef6f80c561d2553.md) | 2.27% |
@@ -341,23 +341,23 @@
 | 337 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 340 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
 | 340 | [Crime Boss: Rockay City](games/c/crime_boss__rockay_city.md) | 0.06% |
-| 340 | [DEATH STRANDING](games/d/death_stranding.md) | 0.06% |
 | 340 | [Gas Station Simulator](games/d/d3f97f301cb746d5b6e15424edb28afc.md) | 0.06% |
 | 340 | [High On Life](games/h/high_on_life.md) | 0.06% |
 | 340 | [Hundred Days - Winemaking Simulator](games/h/hundred_days_-_winemaking_simulator.md) | 0.06% |
 | 340 | [The Invincible](games/t/the_invincible.md) | 0.06% |
 | 340 | [Zombie Army 4: Dead War](games/z/zombie_army_4__dead_war.md) | 0.06% |
-| 348 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
-| 348 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.05% |
-| 348 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.05% |
-| 348 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.05% |
-| 348 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.05% |
-| 348 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.05% |
-| 348 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
-| 348 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.05% |
-| 348 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.05% |
-| 348 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
-| 348 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.05% |
+| 347 | [Absolute Drift](games/a/absolute_drift.md) | 0.05% |
+| 347 | [Aliens: Dark Descent](games/a/aliens__dark_descent.md) | 0.05% |
+| 347 | [DEATH STRANDING](games/d/death_stranding.md) | 0.05% |
+| 347 | [Guacamelee! 2](games/2/277e364d24ec43069f4ee3c4414d5096.md) | 0.05% |
+| 347 | [Hi-Fi RUSH](games/h/hi-fi_rush.md) | 0.05% |
+| 347 | [Horizon Chase Turbo](games/h/horizon_chase_turbo.md) | 0.05% |
+| 347 | [HOT WHEELS UNLEASHED™ 2 - Turbocharged](games/5/552a139c67e949ea8f8ea9a1d9d81cdb.md) | 0.05% |
+| 347 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 0.05% |
+| 347 | [PC Building Simulator 2](games/p/pc_building_simulator_2.md) | 0.05% |
+| 347 | [Session: Skate Sim](games/s/session__skate_sim.md) | 0.05% |
+| 347 | [Shadow Tactics: Blades of the Shogun](games/s/shadow_tactics__blades_of_the_shogun.md) | 0.05% |
+| 347 | [The Evil Within 2](games/5/5891aa5c4c6f4aabbf555a679e02cfb9.md) | 0.05% |
 | 359 | [Firestone Online Idle RPG](games/f/firestone_online_idle_rpg.md) | 0.04% |
 | 359 | [House Party](games/h/house_party.md) | 0.04% |
 | 359 | [Operation New Earth](games/o/operation_new_earth.md) | 0.04% |
