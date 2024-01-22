@@ -57,8 +57,8 @@ Rating: 3.67 (Ranked 1,106)
 | So Anyway I Started Blasting | 0.50% | ~12 |
 | Enemy of My Enemy | 0.50% | ~12 |
 | Bob’s Final Hour | 0.40% | ~10 |
+| Someplace to Be | 0.30% | ~7 |
 | Faith Healer | 0.20% | ~5 |
-| Someplace to Be | 0.20% | ~5 |
 | A Cry in the Dark | 0.10% | ~2 |
 | Ask Not For Whom The Horns Blow | 0.10% | ~2 |
 | Sepsis | 0.10% | ~2 |

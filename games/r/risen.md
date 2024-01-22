@@ -29,8 +29,8 @@ Rating: 4.59 (Ranked 455)
 | Wise man | 17.00% | ~36 |
 | Fence | 17.00% | ~36 |
 | Pandora's box | 16.00% | ~34 |
+| Ghost hunter | 16.00% | ~34 |
 | Hard worker | 16.00% | ~34 |
-| Ghost hunter | 15.00% | ~32 |
 | Master detective | 15.00% | ~32 |
 | Defender | 14.00% | ~30 |
 | Showdown | 14.00% | ~30 |

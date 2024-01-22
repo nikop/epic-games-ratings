@@ -18,9 +18,9 @@ Rating: 4.53 (Ranked 571)
 | Mischief Managed | 9.00% | ~1,498 |
 | Vice City Mogul | 7.00% | ~1,165 |
 | Catch Me if You Can | 6.00% | ~998 |
+| Grand Theft Auto | 6.00% | ~998 |
 | Bloodstained Hands | 6.00% | ~998 |
 | Not my First Time | 5.00% | ~832 |
-| Grand Theft Auto | 5.00% | ~832 |
 | High Quality H2O | 4.00% | ~666 |
 | Pie Guy | 4.00% | ~666 |
 | Running Rampant | 3.00% | ~499 |

@@ -4,8 +4,8 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 502,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
     "PcReleaseDate": "2016-08-23T05:00:00+00:00",
@@ -535,9 +535,9 @@
       "ID": "NEW_ACHIEVEMENT_1_11",
       "SetID": "7on801h",
       "Name": "Singh No Swan Song",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_12",
@@ -1180,8 +1180,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:06:03.2750442+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:05:09.6921861+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:32.5337791+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:00:50.7903641+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:06:03.2751233+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:59:46.378934+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:05:09.6922538+00:00"
 }

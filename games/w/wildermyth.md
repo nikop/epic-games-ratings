@@ -14,9 +14,9 @@ Number of Ratings: 45  (23.09.2022)
 | Passing Shadow | 6.00% | ~97 |
 | How Romantic! | 6.00% | ~97 |
 | Daybreak | 6.00% | ~97 |
-| Completing the Look | 4.00% | ~64 |
-| War Endured | 4.00% | ~64 |
-| Core Failure | 4.00% | ~64 |
+| Completing the Look | 4.00% | ~65 |
+| War Endured | 4.00% | ~65 |
+| Core Failure | 4.00% | ~65 |
 | A Mythic Menagerie | 3.00% | ~48 |
 | Who's Counting? | 3.00% | ~48 |
 | Let Me Get My Chisel | 2.00% | ~32 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,612 (Ranked 268)  
+Progressed: 1,613 (Ranked 268)  
 Completed: 7 (0.43%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -280,6 +280,7 @@ Completed: 7 (0.43%) (Ranked 242)
 | 2024-01-19 | 1,608 | 7 |
 | 2024-01-20 | 1,610 | 7 |
 | 2024-01-21 | 1,612 | 7 |
+| 2024-01-22 | 1,613 | 7 |
 ## Awards
 Max (Character Customization): 29  (Ranked 537)  
 Sum: 29 (Ranked 554)  

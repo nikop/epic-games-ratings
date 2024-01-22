@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -461,9 +461,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12080,
+  "EOS_Progressed": 12084,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 553,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5846,6 +5846,11 @@
       "Time": "2024-01-22T18:10:41.1838417+00:00",
       "NumProgressed": 12080,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T19:10:11.8227593+00:00",
+      "NumProgressed": 12084,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5858,7 +5863,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2778
+      "UsersEstimate": 2779
     },
     {
       "ID": "03_TheStolenStar",
@@ -5882,7 +5887,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5954,7 +5959,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1087
+      "UsersEstimate": 1088
     },
     {
       "ID": "15_Pentakill",
@@ -5978,7 +5983,7 @@
       "Name": "Exemplar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6018,7 +6023,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1812
+      "UsersEstimate": 1813
     },
     {
       "ID": "23_DynastyRestored",
@@ -6058,7 +6063,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -6066,7 +6071,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1691
+      "UsersEstimate": 1692
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6082,15 +6087,15 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 242
     },
     {
       "ID": "32_AviationSaviour",
@@ -6138,7 +6143,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -6170,7 +6175,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1570
+      "UsersEstimate": 1571
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6208,9 +6213,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 2054
     },
     {
       "ID": "47_AFlame",
@@ -6242,7 +6247,7 @@
       "Name": "Whodunit?",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 966
+      "UsersEstimate": 967
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6274,7 +6279,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -6282,7 +6287,7 @@
       "Name": "Returning the Boots",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 362
+      "UsersEstimate": 363
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -6377,7 +6382,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12080,
+      "Progressed": 12084,
       "Completed": 1
     }
   ],
@@ -6385,8 +6390,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T09:57:28.1976457+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:10:41.1838414+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:10:11.822759+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:57:57.6611734+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:10:41.1839173+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:57:43.575135+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:10:11.822831+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 319,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 279,
-  "Ranking_EOS_NewCompleters": 58,
+  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
     "PcReleaseDate": "2019-10-07T12:00:00+00:00",
@@ -3441,9 +3441,9 @@
       "ID": "BroomAmanita",
       "SetID": "db30heh",
       "Name": "Gone Cooking",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 25,
-      "UsersEstimate": 364
+      "UsersEstimate": 372
     },
     {
       "ID": "BroomPistol",
@@ -3569,9 +3569,9 @@
       "ID": "PriestBroom",
       "SetID": "db30heh",
       "Name": "Chastisement",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 202
+      "UsersEstimate": 210
     },
     {
       "ID": "PriestPistol",
@@ -3689,9 +3689,9 @@
       "ID": "SwordDiamond",
       "SetID": "db30heh",
       "Name": "Precious Barter",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 404
+      "UsersEstimate": 413
     },
     {
       "ID": "SwordMoneyBag",
@@ -3720,8 +3720,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:06:40.2942248+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:05:36.6927518+00:00",
   "LastUpdate_AppInfo": "2024-01-17T03:57:20.2875868+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:01:37.05372+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:06:40.2942618+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:00:18.3423649+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:05:36.6927971+00:00"
 }

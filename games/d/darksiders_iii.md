@@ -20,8 +20,8 @@ Number of Ratings: 116  (23.09.2022)
 | Devil's in the Details | 41.00% | ~277 |
 | Throne Potato | 41.00% | ~277 |
 | Five's a Crowd | 41.00% | ~277 |
+| 25 to Life | 41.00% | ~277 |
 | Salvation | 40.00% | ~270 |
-| 25 to Life | 40.00% | ~270 |
 | Unshakable Fortitude | 37.00% | ~250 |
 | Soul Harvester | 37.00% | ~250 |
 | Delusions of Grandeur | 36.00% | ~243 |
@@ -31,7 +31,7 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 31.00% | ~210 |
 | Eat Your Heart Out | 31.00% | ~210 |
 | For Whom the Bell Tolls | 30.00% | ~203 |
-| Unyielding Strength | 27.00% | ~183 |
+| Unyielding Strength | 28.00% | ~189 |
 | Can you restore the Balance? | 27.00% | ~183 |
 | Crowd Source | 27.00% | ~183 |
 | Big Spender | 27.00% | ~183 |

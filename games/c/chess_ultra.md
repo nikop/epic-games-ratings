@@ -1,34 +1,34 @@
 # Chess Ultra
 [Store](https://store.epicgames.com/en-US/p/chess-ultra-91bba3)  
 [View Rawdata](../../db/c/chess_ultra.json)  
-Rating: 4.31 (Ranked 879)  
+Rating: 4.31 (Ranked 880)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Chop Wood | 71.00% | ~162,606 |
-| Doubled Pawn | 57.00% | ~130,543 |
-| Check | 56.00% | ~128,253 |
-| Absolute pin | 47.00% | ~107,641 |
-| Promotion | 31.00% | ~70,997 |
-| Checkmate | 30.00% | ~68,707 |
+| Chop Wood | 71.00% | ~162,609 |
+| Doubled Pawn | 57.00% | ~130,545 |
+| Check | 56.00% | ~128,255 |
+| Absolute pin | 47.00% | ~107,643 |
+| Promotion | 31.00% | ~70,998 |
+| Checkmate | 30.00% | ~68,708 |
 | O-O | 24.00% | ~54,966 |
-| Spanish Bishop | 21.00% | ~48,095 |
+| Spanish Bishop | 21.00% | ~48,096 |
 | Queen Sacrifice | 20.00% | ~45,805 |
-| Stalemate | 18.00% | ~41,224 |
-| O-O-O | 13.00% | ~29,773 |
-| Octopus | 13.00% | ~29,773 |
+| Stalemate | 18.00% | ~41,225 |
+| O-O-O | 13.00% | ~29,774 |
+| Octopus | 13.00% | ~29,774 |
 | Stranger Danger | 12.00% | ~27,483 |
 | En Passant | 9.00% | ~20,612 |
 | Double Check | 7.00% | ~16,032 |
-| Family Fork | 6.00% | ~13,741 |
-| Piece Collector | 6.00% | ~13,741 |
+| Family Fork | 6.00% | ~13,742 |
+| Piece Collector | 6.00% | ~13,742 |
 | ELO | 5.00% | ~11,451 |
 | Friendly Fire | 4.00% | ~9,161 |
 | Underpromote | 4.00% | ~9,161 |
 | ELO ELO | 3.00% | ~6,871 |
 | Learner | 3.00% | ~6,871 |
-| Blind Pigs | 2.00% | ~4,580 |
-| ELO ELO ELO | 2.00% | ~4,580 |
+| Blind Pigs | 2.00% | ~4,581 |
+| ELO ELO ELO | 2.00% | ~4,581 |
 | Bobby Time | 1.00% | ~2,290 |
 | Back-rank Mate | 0.90% | ~2,061 |
 | Chess Champion | 0.30% | ~687 |
@@ -44,7 +44,7 @@ Rating: 4.31 (Ranked 879)
 | Tournament Master | 0.10% | ~229 |
 | Tournament Pro | 0.10% | ~229 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 229,023 (Ranked 79)  
+Progressed: 229,027 (Ranked 79)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-19 | 228,561 | 2 |
 | 2024-01-20 | 228,771 | 2 |
 | 2024-01-21 | 228,936 | 2 |
-| 2024-01-22 | 229,023 | 2 |
+| 2024-01-22 | 229,027 | 2 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

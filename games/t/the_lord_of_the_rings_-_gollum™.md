@@ -9,7 +9,7 @@
 | Collectibles Part 1 | 50.00% | ~346 |
 | Wait! Wait! Not yet! | 38.00% | ~263 |
 | Like Flying... | 33.00% | ~228 |
-| The Maggot | 27.00% | ~187 |
+| The Maggot | 28.00% | ~194 |
 | Memories | 26.00% | ~180 |
 | The Breeder | 23.00% | ~159 |
 | The Veteran | 19.00% | ~131 |

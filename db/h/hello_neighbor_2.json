@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -525,9 +525,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4145,
+  "EOS_Progressed": 4146,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 72,
+  "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
@@ -7685,6 +7685,11 @@
       "Time": "2024-01-22T18:03:59.5672922+00:00",
       "NumProgressed": 4145,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2024-01-22T19:03:39.1529146+00:00",
+      "NumProgressed": 4146,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 14,
@@ -7712,7 +7717,7 @@
       "Name": "Cat Person",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH_CLIMBER",
@@ -7720,7 +7725,7 @@
       "Name": "Climber",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH_DOG_LOVER",
@@ -7768,7 +7773,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 953
+      "UsersEstimate": 954
     },
     {
       "ID": "ACH_REUNION",
@@ -7807,7 +7812,7 @@
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4145,
+      "Progressed": 4146,
       "Completed": 151
     }
   ],
@@ -7815,8 +7820,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-22T13:58:58.9675729+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:03:59.5672919+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:03:39.1529142+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:59:52.7763842+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:03:59.5673387+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:59:04.7032888+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:03:39.1529865+00:00"
 }

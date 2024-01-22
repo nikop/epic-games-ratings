@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.54 (Ranked 552)  
+Rating: 4.54 (Ranked 553)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -11,10 +11,10 @@ Number of Ratings: 266  (23.09.2022)
 | Ready for Summer | 48.00% | ~2,323 |
 | Cordon Bleu | 40.00% | ~1,936 |
 | Tapped! | 34.00% | ~1,646 |
-| Eureka | 29.00% | ~1,404 |
+| Eureka | 30.00% | ~1,452 |
 | Scourge Slayer | 23.00% | ~1,113 |
+| Science, Troglodyte! | 22.00% | ~1,065 |
 | Exceptional Skill | 21.00% | ~1,016 |
-| Science, Troglodyte! | 21.00% | ~1,016 |
 | Home Sweet Home | 20.00% | ~968 |
 | Encyclopedic! | 18.00% | ~871 |
 | A Fortress Toppled! | 15.00% | ~726 |

@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 7965,
+  "EOS_Progressed": 7967,
   "EOS_Completed": 74,
-  "EOS_NewPlayers": 330,
+  "EOS_NewPlayers": 329,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.93,
   "EosHistory": [
@@ -9029,6 +9029,11 @@
       "Time": "2024-01-22T18:06:28.4779958+00:00",
       "NumProgressed": 7965,
       "NumCompleted": 74
+    },
+    {
+      "Time": "2024-01-22T19:05:27.9163637+00:00",
+      "NumProgressed": 7967,
+      "NumCompleted": 74
     }
   ],
   "AchievementsAdded": "2023-10-29T21:05:11.4401866+00:00",
@@ -9057,7 +9062,7 @@
       "Name": "Collect the mask",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_OPENGATE",
@@ -9065,7 +9070,7 @@
       "Name": "Unlock the gate",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 2628
+      "UsersEstimate": 2629
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_PC",
@@ -9073,7 +9078,7 @@
       "Name": "Unlock the PC",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 2947
+      "UsersEstimate": 2948
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_SOFA",
@@ -9087,9 +9092,9 @@
       "ID": "ACHIEVEMENT_MAINGAME_TV",
       "SetID": "4d50jip",
       "Name": "Turn on the TV",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 30,
-      "UsersEstimate": 4540
+      "UsersEstimate": 4621
     },
     {
       "ID": "ACHIEVEMENT_MAINGAME_WRONGCODE",
@@ -9097,7 +9102,7 @@
       "Name": "Wrong passcode",
       "Percentage": 79,
       "XP": 10,
-      "UsersEstimate": 6292
+      "UsersEstimate": 6294
     },
     {
       "ID": "ACHIEVEMENT_SPEEDRUN_MAINGAME_END",
@@ -9168,14 +9173,14 @@
     {
       "ID": "4d50jip",
       "IsBase": true,
-      "Progressed": 7965,
+      "Progressed": 7967,
       "Completed": 74
     }
   ],
   "FirstSeen": "2023-10-31T18:00:26.2259622+00:00",
   "FirstSeenAchievements": "2023-10-28T17:05:04.4489438+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:06:28.4779952+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:05:27.9163635+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.835928+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:57:48.962117+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:06:28.4780459+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:57:36.9400973+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:05:27.9164338+00:00"
 }

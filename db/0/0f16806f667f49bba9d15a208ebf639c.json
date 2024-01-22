@@ -4,7 +4,7 @@
   "ProductSlug": "choice-clash-what-would-you-rather-b75cac",
   "Ranking_EOS_Progress": 510,
   "Ranking_EOS_Completed": 21,
-  "Ranking_EOS_NewPlayers": 325,
+  "Ranking_EOS_NewPlayers": 326,
   "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2024-01-05T19:00:00+00:00",
@@ -481,9 +481,9 @@
       "ID": "THE_BALANCED",
       "SetID": "58oggg1",
       "Name": "The Balanced",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "THE_DECIDER",
@@ -535,8 +535,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-28T04:04:09.7511505+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:06:21.707479+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:05:22.6910771+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:12.3514469+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:00:31.098688+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:06:21.7074956+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:59:31.5868406+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:05:22.6910857+00:00"
 }

@@ -1939,9 +1939,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169296,
+  "EOS_Progressed": 169304,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 943,
+  "EOS_NewPlayers": 944,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24074,6 +24074,11 @@
       "Time": "2024-01-22T18:07:59.8329676+00:00",
       "NumProgressed": 169296,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2024-01-22T19:06:34.2679682+00:00",
+      "NumProgressed": 169304,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24166,7 +24171,7 @@
       "Name": "Hunt Down",
       "Percentage": 0.5,
       "XP": 40,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "DEFEAT_ARTISAN",
@@ -24254,7 +24259,7 @@
       "Name": "Inevitable",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -24453,21 +24458,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168879,
+      "Progressed": 168887,
       "Completed": 1268
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169296,
+      "Progressed": 169304,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-22T08:58:35.610038+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:07:59.8329673+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:06:34.2679679+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:59:19.0859648+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:07:59.8331004+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:58:41.7081513+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:06:34.2681322+00:00"
 }

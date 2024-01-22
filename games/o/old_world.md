@@ -188,6 +188,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus in Roma | 0.20% | ~34 |
 | Necropolis in Waset | 0.20% | ~34 |
 | The Great Mage | 0.20% | ~34 |
+| Kmt Unified | 0.20% | ~34 |
 | Kush | 0.20% | ~34 |
 | Heliopolis | 0.20% | ~34 |
 | Centenarian | 0.10% | ~17 |
@@ -303,7 +304,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Only Kem | 0.10% | ~17 |
 | Sepat Wase Forever | 0.10% | ~17 |
 | Greater Kmt Unified | 0.10% | ~17 |
-| Kmt Unified | 0.10% | ~17 |
 | Pharaonic Greater Kmt Unified | 0.10% | ~17 |
 | Pharaonic Kmt Unified | 0.10% | ~17 |
 | Golden Age-less | 0.10% | ~17 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,106 (Ranked 170)  
+Progressed: 17,107 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,7 +642,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
-| 2024-01-22 | 17,106 | 5 |
+| 2024-01-22 | 17,107 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

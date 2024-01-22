@@ -1,17 +1,17 @@
 # Salt and Sanctuary
 [Store](https://store.epicgames.com/en-US/p/salt-and-sanctuary)  
 [View Rawdata](../../db/s/salt_and_sanctuary.json)  
-Rating: 4.62 (Ranked 383)  
+Rating: 4.62 (Ranked 384)  
 Number of Ratings: 3,114  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~452,416 |
-| The Three | 64.00% | ~348,851 |
-| The Banquet | 40.00% | ~218,032 |
-| Devara's Light | 31.00% | ~168,974 |
-| The Iron Ones | 19.00% | ~103,565 |
-| The Village | 17.00% | ~92,663 |
+| Find Sanctuary | 83.00% | ~452,418 |
+| The Three | 64.00% | ~348,852 |
+| The Banquet | 40.00% | ~218,033 |
+| Devara's Light | 31.00% | ~168,975 |
+| The Iron Ones | 19.00% | ~103,566 |
+| The Village | 17.00% | ~92,664 |
 | The Forest | 15.00% | ~81,762 |
 | Branded | 14.00% | ~76,311 |
 | The Imposter | 14.00% | ~76,311 |
@@ -20,8 +20,8 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Dome | 9.00% | ~49,057 |
 | The Red Hall | 9.00% | ~49,057 |
 | The Sacrifice | 9.00% | ~49,057 |
-| The Cave | 8.00% | ~43,606 |
-| The Ziggurat | 8.00% | ~43,606 |
+| The Cave | 8.00% | ~43,607 |
+| The Ziggurat | 8.00% | ~43,607 |
 | The Mire | 7.00% | ~38,156 |
 | The Stone Roots | 7.00% | ~38,156 |
 | Storied | 6.00% | ~32,705 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,902 |
 | Fading Fast | 1.00% | ~5,451 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545,079 (Ranked 36)  
+Progressed: 545,082 (Ranked 36)  
 Completed: 1,693 (0.31%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,15 +321,15 @@ Completed: 1,693 (0.31%) (Ranked 262)
 | 2024-01-19 | 544,797 | 1,692 |
 | 2024-01-20 | 544,920 | 1,692 |
 | 2024-01-21 | 545,027 | 1,692 |
-| 2024-01-22 | 545,079 | 1,693 |
+| 2024-01-22 | 545,082 | 1,693 |
 ## Awards
 Max (Challenging Combat): 299  (Ranked 266)  
-Sum: 2,045 (Ranked 220)  
+Sum: 2,046 (Ranked 220)  
 Diff (max vs sum): 46  
 | Award | Count |
 | ----- | ----- |
 | This game has Challenging Combat | 299 |
-| This game is Highly Recommended | 270 |
+| This game is Highly Recommended | 271 |
 | This game has Quickly Understood Controls | 269 |
 | This game is Extremely Fun | 252 |
 | This game has Diverse Characters | 250 |
@@ -551,4 +551,4 @@ Diff (max vs sum): 46
 | 2024-01-14 | 4.62 | - | 298 | 2,039 |
 | 2024-01-16 | 4.62 | - | 299 | 2,041 |
 | 2024-01-17 | 4.62 | - | 299 | 2,044 |
-| 2024-01-22 | 4.62 | - | 299 | 2,045 |
+| 2024-01-22 | 4.62 | - | 299 | 2,046 |

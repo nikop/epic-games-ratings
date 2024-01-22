@@ -25,10 +25,10 @@ Rating: 4.86 (Ranked 33)
 | You must like calling me in, Chai | 16.00% | ~2,817 |
 | Headliner | 15.00% | ~2,641 |
 | Out in a puff of smoke | 15.00% | ~2,641 |
+| I look cool. But I can look COOLER. | 14.00% | ~2,465 |
 | Time to pay up! | 13.00% | ~2,289 |
 | Who's the boss now? | 13.00% | ~2,289 |
 | Perfecter Parry-er! | 13.00% | ~2,289 |
-| I look cool. But I can look COOLER. | 13.00% | ~2,289 |
 | I have to read these things? | 12.00% | ~2,113 |
 | NOW we got a kickass hideout! | 10.00% | ~1,613 |
 | There's such a thing as TOO helpful | 9.00% | ~1,585 |

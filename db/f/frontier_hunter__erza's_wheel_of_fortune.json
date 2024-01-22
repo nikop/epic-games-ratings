@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 332,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-02-16T23:00:00+00:00",
     "PcReleaseDate": "2022-12-14T23:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 765,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2719,6 +2719,11 @@
       "Time": "2024-01-22T17:10:06.2604275+00:00",
       "NumProgressed": 764,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-22T19:09:40.9272689+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 45,
@@ -2728,9 +2733,9 @@
       "ID": "ACHIEVEMENT_1",
       "SetID": "7pimpda",
       "Name": "Travel Streamer",
-      "Percentage": 93,
+      "Percentage": 92,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 704
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -2738,7 +2743,7 @@
       "Name": "Giant Lizard Killer",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 206
+      "UsersEstimate": 207
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -2818,7 +2823,7 @@
       "Name": "Training Simulation",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 596
+      "UsersEstimate": 597
     },
     {
       "ID": "ACHIEVEMENT_20",
@@ -2848,9 +2853,9 @@
       "ID": "ACHIEVEMENT_23",
       "SetID": "7pimpda",
       "Name": "Master Cook",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 69
+      "UsersEstimate": 61
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -2858,7 +2863,7 @@
       "Name": "Arms Mechanic",
       "Percentage": 49,
       "XP": 20,
-      "UsersEstimate": 374
+      "UsersEstimate": 375
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -2882,7 +2887,7 @@
       "Name": "Fashion Connoisseur",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -2986,7 +2991,7 @@
       "Name": "Storm Traveller",
       "Percentage": 60,
       "XP": 30,
-      "UsersEstimate": 458
+      "UsersEstimate": 459
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -3050,7 +3055,7 @@
       "Name": "Wolf King Killer",
       "Percentage": 55,
       "XP": 30,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "ACHIEVEMENT_6",
@@ -3058,7 +3063,7 @@
       "Name": "Flower Thief",
       "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "ACHIEVEMENT_7",
@@ -3074,7 +3079,7 @@
       "Name": "Seal Breaker",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 244
+      "UsersEstimate": 245
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -3089,7 +3094,7 @@
     {
       "ID": "7pimpda",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 765,
       "Completed": 3
     }
   ],
@@ -3097,8 +3102,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-22T08:59:35.6514997+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:09:59.9618979+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:09:40.9272687+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.101279+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:00:35.6637062+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:09:59.9619412+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:59:35.0891066+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:09:40.9273078+00:00"
 }

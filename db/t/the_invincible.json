@@ -2,13 +2,13 @@
   "ID": "cf318a791de349f2b724136be105a6f1",
   "Name": "The Invincible",
   "ProductSlug": "the-invincible",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 205,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1784,
+  "EOS_Progressed": 1787,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 73,
+  "EOS_NewPlayers": 76,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4827,6 +4827,11 @@
       "Time": "2024-01-22T18:10:11.5562276+00:00",
       "NumProgressed": 1784,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T19:09:49.5227165+00:00",
+      "NumProgressed": 1787,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4837,9 +4842,9 @@
       "ID": "AchvActivateProbe",
       "SetID": "1hj060c",
       "Name": "The Teleprobe",
-      "Percentage": 58,
+      "Percentage": 57,
       "XP": 15,
-      "UsersEstimate": 1035
+      "UsersEstimate": 1019
     },
     {
       "ID": "AchvAllMemories",
@@ -4855,7 +4860,7 @@
       "Name": "On her own",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AchvBattleScore",
@@ -4863,7 +4868,7 @@
       "Name": "Fierce fight",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AchvBombStop",
@@ -4871,7 +4876,7 @@
       "Name": "Peacemaker",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "AchvBombing",
@@ -4879,7 +4884,7 @@
       "Name": "Violent solution",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AchvConvoyList",
@@ -4893,17 +4898,17 @@
       "ID": "AchvDamnHoles",
       "SetID": "1hj060c",
       "Name": "Ubiquitous holes",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 125
+      "UsersEstimate": 107
     },
     {
       "ID": "AchvDiscoverAlliance",
       "SetID": "1hj060c",
       "Name": "The Alliance",
-      "Percentage": 46,
+      "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 821
+      "UsersEstimate": 804
     },
     {
       "ID": "AchvDoom",
@@ -4919,7 +4924,7 @@
       "Name": "Evacuation",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 392
+      "UsersEstimate": 393
     },
     {
       "ID": "AchvInvShip",
@@ -4935,7 +4940,7 @@
       "Name": "Krauta is alive",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "AchvLava",
@@ -4943,7 +4948,7 @@
       "Name": "Volcanologist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 410
+      "UsersEstimate": 411
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -4951,7 +4956,7 @@
       "Name": "I leave no man behind",
       "Percentage": 10,
       "XP": 90,
-      "UsersEstimate": 178
+      "UsersEstimate": 179
     },
     {
       "ID": "AchvLeavesNoManBehind2",
@@ -4967,7 +4972,7 @@
       "Name": "The Necroevolution",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "AchvNest",
@@ -4983,7 +4988,7 @@
       "Name": "No more mistakes",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 12
+      "UsersEstimate": 13
     },
     {
       "ID": "AchvPing",
@@ -5007,7 +5012,7 @@
       "Name": "The field base",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 856
+      "UsersEstimate": 858
     },
     {
       "ID": "AchvReachCamp",
@@ -5015,7 +5020,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1267
+      "UsersEstimate": 1269
     },
     {
       "ID": "AchvReachCity",
@@ -5023,7 +5028,7 @@
       "Name": "The City",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 946
+      "UsersEstimate": 947
     },
     {
       "ID": "AchvReachCondor",
@@ -5031,7 +5036,7 @@
       "Name": "The Condor",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "AchvSurvivors",
@@ -5039,7 +5044,7 @@
       "Name": "Survivors",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 749
+      "UsersEstimate": 751
     },
     {
       "ID": "AchvTeleprobeOperator",
@@ -5047,7 +5052,7 @@
       "Name": "Flying Objects Operator",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "AchvTheEnd",
@@ -5055,7 +5060,7 @@
       "Name": "The End",
       "Percentage": 40,
       "XP": 55,
-      "UsersEstimate": 714
+      "UsersEstimate": 715
     },
     {
       "ID": "AchvUnity",
@@ -5070,7 +5075,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1784,
+      "Progressed": 1787,
       "Completed": 1
     }
   ],
@@ -5078,8 +5083,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-21T18:01:50.9489814+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:10:11.5562273+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:09:49.5227162+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:57:20.925488+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:10:11.5563005+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:57:17.0180675+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:09:49.5227543+00:00"
 }

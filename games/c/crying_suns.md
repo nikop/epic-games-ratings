@@ -1,28 +1,28 @@
 # Crying Suns
 [Store](https://store.epicgames.com/en-US/p/crying-suns)  
 [View Rawdata](../../db/c/crying_suns.json)  
-Rating: 4.51 (Ranked 599)  
+Rating: 4.51 (Ranked 600)  
 Number of Ratings: 1,003  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shutdown | 66.00% | ~313,047 |
-| Jeef Skeejj | 44.00% | ~208,698 |
-| Careful planning | 39.00% | ~184,982 |
-| Second Coming | 34.00% | ~161,267 |
-| Jeef Skagg | 30.00% | ~142,294 |
-| Mother | 25.00% | ~118,578 |
-| In space, no one can hear you scream | 24.00% | ~113,835 |
-| Chapter I: Echoes | 22.00% | ~104,349 |
-| Excelsior Rule | 22.00% | ~104,349 |
+| The Shutdown | 66.00% | ~313,049 |
+| Jeef Skeejj | 44.00% | ~208,699 |
+| Careful planning | 39.00% | ~184,984 |
+| Second Coming | 34.00% | ~161,268 |
+| Jeef Skagg | 30.00% | ~142,295 |
+| Mother | 25.00% | ~118,579 |
+| In space, no one can hear you scream | 24.00% | ~113,836 |
+| Chapter I: Echoes | 22.00% | ~104,350 |
+| Excelsior Rule | 22.00% | ~104,350 |
 | Things persisted in not being what they seemed | 20.00% | ~94,863 |
-| Knightmare Frames | 15.00% | ~71,147 |
-| May His passing cleanse the world | 15.00% | ~71,147 |
-| Chapter II: Fallible Flesh | 15.00% | ~71,147 |
-| Pope Zenon | 15.00% | ~71,147 |
+| Knightmare Frames | 15.00% | ~71,148 |
+| May His passing cleanse the world | 15.00% | ~71,148 |
+| Chapter II: Fallible Flesh | 15.00% | ~71,148 |
+| Pope Zenon | 15.00% | ~71,148 |
 | Plan for the worst | 12.00% | ~56,918 |
 | Tetsuo | 11.00% | ~52,175 |
-| Chapter III: The Man Who Sold the World | 10.00% | ~47,431 |
+| Chapter III: The Man Who Sold the World | 10.00% | ~47,432 |
 | Chapter IV: Through the Looking Glass | 8.00% | ~37,945 |
 | Through the mirror | 8.00% | ~37,945 |
 | General Vivar | 8.00% | ~37,945 |
@@ -49,8 +49,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Forsaken | 5.00% | ~23,716 |
 | Mercy | 5.00% | ~23,716 |
 | Jericho Rule | 5.00% | ~23,716 |
-| Geno Rule | 3.00% | ~14,229 |
-| Hammer Rule | 3.00% | ~14,229 |
+| Geno Rule | 3.00% | ~14,230 |
+| Hammer Rule | 3.00% | ~14,230 |
 | Survivor | 2.00% | ~9,486 |
 | A Rock in the Dark | 1.00% | ~4,743 |
 | Emperor of Misery | 1.00% | ~4,743 |
@@ -60,8 +60,8 @@ Number of Ratings: 1,003  (23.09.2022)
 | Hand of the Emperor | 0.70% | ~128 |
 | The greatest admiral of all time | 0.50% | ~2,372 |
 | Soldiers of Fortune | 0.50% | ~91 |
-| The Extractor | 0.20% | ~36 |
-| The Executioner | 0.20% | ~36 |
+| The Extractor | 0.20% | ~37 |
+| The Executioner | 0.20% | ~37 |
 | Liberator | 0.10% | ~474 |
 | The Art of War | 0.10% | ~474 |
 | Geno Mastery | 0.10% | ~474 |
@@ -86,7 +86,7 @@ Number of Ratings: 1,003  (23.09.2022)
 | Horus Rule | 0.10% | ~18 |
 | Kronos Rule | 0.10% | ~18 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 474,314 (Ranked 45)  
+Progressed: 474,317 (Ranked 45)  
 Completed: 21 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 21 (0.00%) (Ranked 409)
 | 2024-01-19 | 474,167 | 21 |
 | 2024-01-20 | 474,223 | 21 |
 | 2024-01-21 | 474,284 | 21 |
-| 2024-01-22 | 474,314 | 21 |
+| 2024-01-22 | 474,317 | 21 |
 ## Awards
 Max (Character Customization): 230  (Ranked 288)  
 Sum: 254 (Ranked 400)  

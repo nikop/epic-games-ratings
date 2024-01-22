@@ -2,10 +2,10 @@
   "ID": "63d0293742c943d68b88af4173b1a5d0",
   "Name": "Who\u0027s Your Daddy?!",
   "ProductSlug": "whos-your-daddy-403b04",
-  "Ranking_EOS_Progress": 310,
+  "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 932,
+  "EOS_Progressed": 933,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2954,6 +2954,11 @@
       "Time": "2024-01-22T17:04:06.8560417+00:00",
       "NumProgressed": 932,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T19:03:45.1474779+00:00",
+      "NumProgressed": 933,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3006,7 +3011,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 354
+      "UsersEstimate": 355
     },
     {
       "ID": "9",
@@ -3022,7 +3027,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "REMAKE_002",
@@ -3030,7 +3035,7 @@
       "Name": "Baby\u0027s First...",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 652
+      "UsersEstimate": 653
     },
     {
       "ID": "REMAKE_004",
@@ -3182,21 +3187,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 932,
+      "Progressed": 933,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:04:07.5394205+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:03:45.1474776+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:58:21.1949431+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:04:07.5394544+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:58:00.1917833+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:03:45.1475102+00:00"
 }

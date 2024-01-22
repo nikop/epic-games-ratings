@@ -4,26 +4,26 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Don't Panic! | 96.00% | ~1,510 |
-| Space Colonization | 78.00% | ~1,227 |
-| Friendzone | 76.00% | ~1,195 |
-| Hello World | 72.00% | ~1,133 |
-| Tinkerer | 60.00% | ~944 |
-| Space Engineer | 59.00% | ~928 |
-| Dust to Dust | 55.00% | ~865 |
-| Across The Stars | 44.00% | ~692 |
-| Crafty | 40.00% | ~629 |
-| All Seats Taken | 33.00% | ~519 |
+| Don't Panic! | 96.00% | ~1,512 |
+| Space Colonization | 78.00% | ~1,228 |
+| Friendzone | 76.00% | ~1,197 |
+| Hello World | 72.00% | ~1,134 |
+| Tinkerer | 60.00% | ~945 |
+| Space Engineer | 59.00% | ~929 |
+| Dust to Dust | 55.00% | ~866 |
+| Across The Stars | 44.00% | ~693 |
+| Crafty | 40.00% | ~630 |
+| All Seats Taken | 33.00% | ~520 |
 | For Science! | 30.00% | ~472 |
-| Meet the Petersons | 29.00% | ~456 |
-| KIA | 25.00% | ~393 |
-| Stay Cool | 25.00% | ~393 |
+| Meet the Petersons | 29.00% | ~457 |
+| KIA | 25.00% | ~394 |
+| Stay Cool | 25.00% | ~394 |
 | Mutiny in making | 22.00% | ~346 |
-| Et tu, Astrocitizen? | 17.00% | ~267 |
+| Et tu, Astrocitizen? | 17.00% | ~268 |
 | Eco-Shuttle | 16.00% | ~252 |
-| Space Explorer | 13.00% | ~204 |
-| Gold Medalist | 10.00% | ~157 |
-| Hands Full | 10.00% | ~157 |
+| Space Explorer | 13.00% | ~205 |
+| Gold Medalist | 10.00% | ~158 |
+| Hands Full | 10.00% | ~158 |
 | Non-Fiction | 9.00% | ~142 |
 | No Man Left Behind | 8.00% | ~126 |
 | Intergalactic Breakup | 7.00% | ~110 |
@@ -35,7 +35,7 @@
 | Extreme Makeover | 4.00% | ~63 |
 | The Improvinator | 3.00% | ~47 |
 | The Last Supper | 3.00% | ~47 |
-| 2018: A Soup Odyssey | 2.00% | ~31 |
+| 2018: A Soup Odyssey | 2.00% | ~32 |
 | Bovine Domain | 1.00% | ~16 |
 | Feels like home | 1.00% | ~16 |
 | That's No Moon! | 1.00% | ~16 |
@@ -49,7 +49,7 @@
 | Giant Leap | 0.10% | ~2 |
 | Man's best comrade | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,573 (Ranked 272)  
+Progressed: 1,575 (Ranked 272)  
 Completed: 1 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -210,7 +210,7 @@ Completed: 1 (0.06%) (Ranked 339)
 | 2024-01-19 | 1,224 | 1 |
 | 2024-01-20 | 1,362 | 1 |
 | 2024-01-21 | 1,495 | 1 |
-| 2024-01-22 | 1,573 | 1 |
+| 2024-01-22 | 1,575 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

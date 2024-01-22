@@ -12,7 +12,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Victorious! | 0.60% | ~3,023 |
 | That's a Grand Navy | 0.50% | ~2,519 |
 | Seriously?! | 0.50% | ~2,519 |
-| Brothers in Arms | 0.40% | ~2,015 |
+| Brothers in Arms | 0.40% | ~2,016 |
 | Cold War | 0.30% | ~1,512 |
 | Defender of the Faith | 0.30% | ~1,512 |
 | For the Glory | 0.30% | ~1,512 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~504 |
 | The Zoro-Austrians | 0.10% | ~504 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 503,871 (Ranked 42)  
+Progressed: 503,893 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -647,15 +647,15 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-19 | 501,958 | 2 |
 | 2024-01-20 | 502,741 | 2 |
 | 2024-01-21 | 503,481 | 2 |
-| 2024-01-22 | 503,871 | 2 |
+| 2024-01-22 | 503,893 | 2 |
 ## Awards
 Max (Educational): 7,940  (Ranked 53)  
-Sum: 65,484 (Ranked 25)  
+Sum: 65,495 (Ranked 25)  
 Diff (max vs sum): 28  
 | Award | Count |
 | ----- | ----- |
 | This game is Educational | 7,940 |
-| This game has Diverse Characters | 7,792 |
+| This game has Diverse Characters | 7,803 |
 | This game is Highly Recommended | 7,613 |
 | This game has Challenging Combat | 7,564 |
 | This game is Extremely Fun | 7,446 |
@@ -1037,4 +1037,4 @@ Diff (max vs sum): 28
 | 2024-01-19 | 4.69 | - | 7,911 | 65,212 |
 | 2024-01-20 | 4.69 | - | 7,911 | 65,336 |
 | 2024-01-21 | 4.69 | - | 7,925 | 65,446 |
-| 2024-01-22 | 4.69 | - | 7,940 | 65,484 |
+| 2024-01-22 | 4.69 | - | 7,940 | 65,495 |

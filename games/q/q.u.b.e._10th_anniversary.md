@@ -5,32 +5,32 @@ Rating: 4.43 (Ranked 734)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sector 1 | 34.00% | ~10,310 |
-| Sector 2 | 30.00% | ~9,097 |
-| Crush That Cube! | 25.00% | ~7,581 |
-| Sector 3 | 25.00% | ~7,581 |
-| Sector 4 | 21.00% | ~6,368 |
-| Crush That Ball! | 20.00% | ~6,065 |
-| Sector 5 | 13.00% | ~3,942 |
+| Sector 1 | 34.00% | ~10,312 |
+| Sector 2 | 30.00% | ~9,099 |
+| Crush That Cube! | 25.00% | ~7,582 |
+| Sector 3 | 25.00% | ~7,582 |
+| Sector 4 | 21.00% | ~6,369 |
+| Crush That Ball! | 20.00% | ~6,066 |
+| Sector 5 | 13.00% | ~3,943 |
 | Sector 6 | 11.00% | ~3,336 |
-| Feeling the Blues | 9.00% | ~2,729 |
+| Feeling the Blues | 9.00% | ~2,730 |
 | Squished | 8.00% | ~2,426 |
 | Finale | 8.00% | ~2,426 |
 | Sector 7 | 8.00% | ~2,426 |
 | Did That Work? -- No! | 7.00% | ~2,123 |
 | Master Room | 5.00% | ~1,516 |
 | The Puzzle Master | 3.00% | ~910 |
-| The Collector | 2.00% | ~606 |
-| Bronze Trophy | 2.00% | ~606 |
-| Master Of The Collectables | 2.00% | ~606 |
-| Gold Trophy | 2.00% | ~606 |
-| Hopefully that's all of them! | 2.00% | ~606 |
-| Phew! | 2.00% | ~606 |
-| Silver Trophy | 2.00% | ~606 |
-| Completed It. | 2.00% | ~606 |
-| Maxed Out | 2.00% | ~606 |
+| The Collector | 2.00% | ~607 |
+| Bronze Trophy | 2.00% | ~607 |
+| Master Of The Collectables | 2.00% | ~607 |
+| Gold Trophy | 2.00% | ~607 |
+| Hopefully that's all of them! | 2.00% | ~607 |
+| Phew! | 2.00% | ~607 |
+| Silver Trophy | 2.00% | ~607 |
+| Completed It. | 2.00% | ~607 |
+| Maxed Out | 2.00% | ~607 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 30,324 (Ranked 144)  
+Progressed: 30,329 (Ranked 144)  
 Completed: 229 (0.76%) (Ranked 201)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -130,7 +130,7 @@ Completed: 229 (0.76%) (Ranked 201)
 | 2024-01-19 | 30,055 | 220 |
 | 2024-01-20 | 30,170 | 225 |
 | 2024-01-21 | 30,271 | 225 |
-| 2024-01-22 | 30,324 | 229 |
+| 2024-01-22 | 30,329 | 229 |
 ## Awards
 Max (Challenging Puzzles): 26  (Ranked 551)  
 Sum: 26 (Ranked 563)  

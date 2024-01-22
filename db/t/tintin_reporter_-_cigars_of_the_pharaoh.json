@@ -4,8 +4,8 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 405,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -695,17 +695,17 @@
       "ID": "Achievement11",
       "SetID": "9fa3l5n",
       "Name": "Au Revoir, Abudin",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "Achievement12",
       "SetID": "9fa3l5n",
       "Name": "Mysterious Bungalow",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 17
     },
     {
       "ID": "Achievement13",
@@ -839,9 +839,9 @@
       "ID": "Achievement28",
       "SetID": "9fa3l5n",
       "Name": "Jungle Runner",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement29",
@@ -982,8 +982,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:05:34.509975+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:04:48.4347307+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:47.9162613+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:00:34.2108231+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:05:34.5100105+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:59:33.7061759+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:04:48.4347651+00:00"
 }

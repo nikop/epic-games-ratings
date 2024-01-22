@@ -1076,7 +1076,7 @@
   ],
   "EOS_Progressed": 16639,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 201,
+  "EOS_NewPlayers": 200,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.66,
   "EosHistory": [
@@ -19041,9 +19041,9 @@
       "ID": "ACH27",
       "SetID": "9llo822",
       "Name": "Grand Theft Auto",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 832
+      "UsersEstimate": 998
     },
     {
       "ID": "ACH28",
@@ -19114,8 +19114,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:10:27.1568913+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:10:01.1652625+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:57:08.1388569+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:10:27.1569749+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:57:07.991494+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:10:01.1653574+00:00"
 }

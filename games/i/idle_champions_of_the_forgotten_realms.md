@@ -20,10 +20,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | A Persistent Buzzing | 0.70% | ~1,786 |
 | Pure Energy | 0.70% | ~1,786 |
 | Fast Food | 0.70% | ~1,550 |
+| Maddening | 0.60% | ~1,531 |
 | Terror in the Dark | 0.60% | ~1,531 |
 | Unearthed Evil | 0.60% | ~1,531 |
 | The Contagious Curse | 0.60% | ~1,531 |
-| Maddening | 0.50% | ~1,276 |
 | Beast Mode | 0.50% | ~1,276 |
 | A Mysterious Summons | 0.50% | ~1,276 |
 | The Crumbling Temple | 0.50% | ~1,276 |
@@ -112,10 +112,12 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Darkness Runs Deeper | 0.20% | ~510 |
 | Difficult Terrain | 0.20% | ~510 |
 | Vault of Dragons | 0.20% | ~510 |
+| Champions of Waterdeep | 0.20% | ~510 |
 | Dinosaur Racing | 0.20% | ~510 |
 | Elturel Has Fallen | 0.20% | ~510 |
 | Resolve Amongst Chaos | 0.20% | ~510 |
 | Market Fluctuations | 0.20% | ~510 |
+| Once More Into The Breach | 0.20% | ~510 |
 | Into The Fire | 0.20% | ~443 |
 | Dreamscape | 0.20% | ~443 |
 | The Giant's Bane Tavern | 0.20% | ~443 |
@@ -355,7 +357,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vault of Pixies | 0.10% | ~255 |
 | Vault of Poison | 0.10% | ~255 |
 | Vault of Cuteness | 0.10% | ~221 |
-| Champions of Waterdeep | 0.10% | ~255 |
 | On The Job Learning | 0.10% | ~255 |
 | Strike! | 0.10% | ~221 |
 | Take Five | 0.10% | ~221 |
@@ -371,7 +372,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | All You Know Is Wrong | 0.10% | ~255 |
 | Shadow Stalkers | 0.10% | ~221 |
 | Avernus Frozen Over | 0.10% | ~221 |
-| Once More Into The Breach | 0.10% | ~255 |
 | Twice More Into The Breach | 0.10% | ~255 |
 | Thrice More Into The Breach | 0.10% | ~221 |
 | Nightmare Mode | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,196 (Ranked 71)  
+Progressed: 255,209 (Ranked 71)  
 Completed: 2,633 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -830,7 +830,7 @@ Completed: 2,633 (1.03%) (Ranked 179)
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
-| 2024-01-22 | 255,196 | 2,633 |
+| 2024-01-22 | 255,209 | 2,633 |
 ## Awards
 Max (Great for Beginners): 5,810  (Ranked 75)  
 Sum: 33,606 (Ranked 41)  

@@ -2,7 +2,7 @@
   "ID": "d602fd70876141ba9bf4d54809c423d1",
   "Name": "The Evil Within",
   "ProductSlug": "the-evil-within",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 173,
   "Ranking_PopularitySum": 131,
   "Ranking_EOS_Progress": 24,
@@ -3617,9 +3617,9 @@
       "Count": 818
     }
   ],
-  "EOS_Progressed": 779484,
+  "EOS_Progressed": 779532,
   "EOS_Completed": 136,
-  "EOS_NewPlayers": 8506,
+  "EOS_NewPlayers": 8515,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -15597,6 +15597,11 @@
       "Time": "2024-01-22T18:10:43.8935218+00:00",
       "NumProgressed": 779484,
       "NumCompleted": 136
+    },
+    {
+      "Time": "2024-01-22T19:10:14.1344196+00:00",
+      "NumProgressed": 779532,
+      "NumCompleted": 136
     }
   ],
   "AchievementsAdded": "2023-08-02T16:01:32.1694174+00:00",
@@ -15609,7 +15614,7 @@
       "Name": "What\u0027s in the Box?",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 179281
+      "UsersEstimate": 179292
     },
     {
       "ID": "ACHIEVEMENT_02",
@@ -15617,7 +15622,7 @@
       "Name": "Old Flame",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 132512
+      "UsersEstimate": 132520
     },
     {
       "ID": "ACHIEVEMENT_03",
@@ -15625,7 +15630,7 @@
       "Name": "Weapon of Choice",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 116923
+      "UsersEstimate": 116930
     },
     {
       "ID": "ACHIEVEMENT_04",
@@ -15633,7 +15638,7 @@
       "Name": "Two on Two",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 101333
+      "UsersEstimate": 101339
     },
     {
       "ID": "ACHIEVEMENT_05",
@@ -15641,7 +15646,7 @@
       "Name": "The First, Not the Last",
       "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 77948
+      "UsersEstimate": 77953
     },
     {
       "ID": "ACHIEVEMENT_06",
@@ -15649,7 +15654,7 @@
       "Name": "Arachnophobia",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 70154
+      "UsersEstimate": 70158
     },
     {
       "ID": "ACHIEVEMENT_07",
@@ -15657,7 +15662,7 @@
       "Name": "Slither into Oblivion",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 62359
+      "UsersEstimate": 62363
     },
     {
       "ID": "ACHIEVEMENT_08",
@@ -15665,7 +15670,7 @@
       "Name": "One of the Many",
       "Percentage": 7,
       "XP": 45,
-      "UsersEstimate": 54564
+      "UsersEstimate": 54567
     },
     {
       "ID": "ACHIEVEMENT_09",
@@ -15673,7 +15678,7 @@
       "Name": "First Step into Darkness",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 54564
+      "UsersEstimate": 54567
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -15681,7 +15686,7 @@
       "Name": "Another Day on the Job",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 31179
+      "UsersEstimate": 31181
     },
     {
       "ID": "ACHIEVEMENT_11",
@@ -15713,7 +15718,7 @@
       "Name": "Hardbody",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 23385
+      "UsersEstimate": 23386
     },
     {
       "ID": "ACHIEVEMENT_15",
@@ -15721,7 +15726,7 @@
       "Name": "My Best Friend",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31179
+      "UsersEstimate": 31181
     },
     {
       "ID": "ACHIEVEMENT_16",
@@ -15729,7 +15734,7 @@
       "Name": "The Power of Three",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15590
+      "UsersEstimate": 15591
     },
     {
       "ID": "ACHIEVEMENT_17",
@@ -15769,7 +15774,7 @@
       "Name": "Silent Kill",
       "Percentage": 4,
       "XP": 20,
-      "UsersEstimate": 31179
+      "UsersEstimate": 31181
     },
     {
       "ID": "ACHIEVEMENT_22",
@@ -15777,7 +15782,7 @@
       "Name": "Burn, Baby, Burn!",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 62359
+      "UsersEstimate": 62363
     },
     {
       "ID": "ACHIEVEMENT_23",
@@ -15785,7 +15790,7 @@
       "Name": "...And the Corpses Mount",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 163692
+      "UsersEstimate": 163702
     },
     {
       "ID": "ACHIEVEMENT_24",
@@ -15793,7 +15798,7 @@
       "Name": "Krimson PD Fury",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 77948
+      "UsersEstimate": 77953
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -15801,7 +15806,7 @@
       "Name": "One Man Army",
       "Percentage": 3,
       "XP": 35,
-      "UsersEstimate": 23385
+      "UsersEstimate": 23386
     },
     {
       "ID": "ACHIEVEMENT_26",
@@ -15809,7 +15814,7 @@
       "Name": "Ammo Conservationist",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15590
+      "UsersEstimate": 15591
     },
     {
       "ID": "ACHIEVEMENT_27",
@@ -15817,7 +15822,7 @@
       "Name": "Bloody Bar Brawl",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 31179
+      "UsersEstimate": 31181
     },
     {
       "ID": "ACHIEVEMENT_28",
@@ -15825,7 +15830,7 @@
       "Name": "Drop It Like It\u0027s Hot",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 62359
+      "UsersEstimate": 62363
     },
     {
       "ID": "ACHIEVEMENT_29",
@@ -15833,7 +15838,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.1,
       "XP": 45,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_30",
@@ -15841,7 +15846,7 @@
       "Name": "It Is What It Is",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -15849,7 +15854,7 @@
       "Name": "You Asked For It",
       "Percentage": 0.1,
       "XP": 60,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_32",
@@ -15865,7 +15870,7 @@
       "Name": "Knife Beats Chainsaw",
       "Percentage": 0.3,
       "XP": 40,
-      "UsersEstimate": 2338
+      "UsersEstimate": 2339
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -15873,7 +15878,7 @@
       "Name": "Home is Where the Hospice is",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 124717
+      "UsersEstimate": 124725
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -15889,7 +15894,7 @@
       "Name": "Everybody Gets One",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 23385
+      "UsersEstimate": 23386
     },
     {
       "ID": "ACHIEVEMENT_37",
@@ -15897,7 +15902,7 @@
       "Name": "I Don\u0027t Have Time for This!",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 7015
+      "UsersEstimate": 7016
     },
     {
       "ID": "ACHIEVEMENT_38",
@@ -15905,7 +15910,7 @@
       "Name": "Item Management",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_39",
@@ -15913,7 +15918,7 @@
       "Name": "Bathed in Flames",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 15590
+      "UsersEstimate": 15591
     },
     {
       "ID": "ACHIEVEMENT_40",
@@ -15921,7 +15926,7 @@
       "Name": "Not a Scratch on Her!",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_41",
@@ -15929,7 +15934,7 @@
       "Name": "Entry Level Electrician",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 54564
+      "UsersEstimate": 54567
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -15937,7 +15942,7 @@
       "Name": "Prank Call",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_43",
@@ -15945,7 +15950,7 @@
       "Name": "Clutch!",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_44",
@@ -15953,7 +15958,7 @@
       "Name": "All You Need is Axe",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_45",
@@ -15961,7 +15966,7 @@
       "Name": "Death Grip",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_46",
@@ -15985,7 +15990,7 @@
       "Name": "Doctor\u0027s Notes",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_49",
@@ -15993,7 +15998,7 @@
       "Name": "A Piece of My Past",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_50",
@@ -16001,7 +16006,7 @@
       "Name": "A Warning",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_51",
@@ -16009,7 +16014,7 @@
       "Name": "Not Afraid of the Dark",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_52",
@@ -16017,7 +16022,7 @@
       "Name": "Fumbling in the Dark",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_53",
@@ -16025,7 +16030,7 @@
       "Name": "A Real Hero",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_54",
@@ -16033,7 +16038,7 @@
       "Name": "There Will Not Be Blood",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_55",
@@ -16041,7 +16046,7 @@
       "Name": "Stick to the Script",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_56",
@@ -16057,7 +16062,7 @@
       "Name": "Where Do We Go From Here?",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_58",
@@ -16065,7 +16070,7 @@
       "Name": "It\u0027s All Your Fault",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_59",
@@ -16073,7 +16078,7 @@
       "Name": "Becoming an Agent",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_60",
@@ -16081,7 +16086,7 @@
       "Name": "This is Just the Beginning",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_61",
@@ -16089,7 +16094,7 @@
       "Name": "None More Dark",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_62",
@@ -16097,7 +16102,7 @@
       "Name": "Nosy Parent",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_63",
@@ -16105,7 +16110,7 @@
       "Name": "Cruel and Unusual",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_64",
@@ -16113,7 +16118,7 @@
       "Name": "I Might Close Early",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_65",
@@ -16121,7 +16126,7 @@
       "Name": "Krimson Chainsaw Massacre",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_66",
@@ -16129,7 +16134,7 @@
       "Name": "Trapper and Keeper",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_67",
@@ -16137,7 +16142,7 @@
       "Name": "Got to Destroy the Brain",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_68",
@@ -16145,7 +16150,7 @@
       "Name": "Home Invasion",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_69",
@@ -16153,7 +16158,7 @@
       "Name": "The Craftsman\u0027s Tools",
       "Percentage": 0.1,
       "XP": 15,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_70",
@@ -16161,7 +16166,7 @@
       "Name": "I\u0027ve Got Box of Steel",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     },
     {
       "ID": "ACHIEVEMENT_71",
@@ -16169,20 +16174,20 @@
       "Name": "You Had This Coming",
       "Percentage": 0.1,
       "XP": 40,
-      "UsersEstimate": 779
+      "UsersEstimate": 780
     }
   ],
   "AchievementSets": [
     {
       "ID": "8ddjaeg",
       "IsBase": false,
-      "Progressed": 779484,
+      "Progressed": 779532,
       "Completed": 55
     },
     {
       "ID": "ap8553i",
       "IsBase": true,
-      "Progressed": 779484,
+      "Progressed": 779532,
       "Completed": 136
     }
   ],
@@ -16190,8 +16195,8 @@
   "FirstSeenRating": "2023-10-20T08:01:20.4759895+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.5206267+00:00",
   "LastChanged": "2024-01-22T17:58:48.8617516+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:10:43.8935216+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:10:14.1344194+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.8307585+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:58:48.8617521+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:10:43.8936137+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:58:19.9341519+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:10:14.134519+00:00"
 }

@@ -7,9 +7,9 @@ Number of Ratings: 124  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Entrepreneur | 45.00% | ~126 |
-| Best Buddy | 38.00% | ~107 |
+| Best Buddy | 39.00% | ~110 |
+| Role Model | 36.00% | ~101 |
 | Civilian | 36.00% | ~101 |
-| Role Model | 35.00% | ~98 |
 | Creator | 33.00% | ~93 |
 | Military Leader | 31.00% | ~87 |
 | Festival-goer | 29.00% | ~81 |
@@ -19,7 +19,7 @@ Number of Ratings: 124  (23.09.2022)
 | Long-Haul Flyer | 21.00% | ~59 |
 | Family Reunion | 21.00% | ~59 |
 | Pass A38 | 19.00% | ~53 |
-| Eternal Oblivion | 18.00% | ~51 |
+| Eternal Oblivion | 19.00% | ~53 |
 | Banker | 17.00% | ~48 |
 | Berserker | 16.00% | ~45 |
 | Storyteller | 15.00% | ~42 |
@@ -31,7 +31,7 @@ Number of Ratings: 124  (23.09.2022)
 | Beam Me Up | 11.00% | ~31 |
 | Free as a Bird | 11.00% | ~31 |
 | Treasure Hunter | 9.00% | ~25 |
-| Weaponsmith | 8.00% | ~22 |
+| Weaponsmith | 9.00% | ~25 |
 | Hotshot | 8.00% | ~22 |
 | Detective | 8.00% | ~22 |
 | Cleric | 7.00% | ~20 |

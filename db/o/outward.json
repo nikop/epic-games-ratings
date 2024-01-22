@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 552,
+  "Ranking_Rating": 553,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 221,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -8717,9 +8717,9 @@
       "ID": "Eureka_23",
       "SetID": "c4hee28",
       "Name": "Eureka",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1452
     },
     {
       "ID": "ExceptionalSkill_24",
@@ -8853,9 +8853,9 @@
       "ID": "ScienceTroglodyte_29",
       "SetID": "c4hee28",
       "Name": "Science, Troglodyte!",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 1016
+      "UsersEstimate": 1065
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8997,8 +8997,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:07:58.693024+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:06:33.4172878+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:03:18.2767944+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:07:58.6930925+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:03:10.368404+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:06:33.4173855+00:00"
 }

@@ -1,12 +1,12 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 599)  
+Rating: 4.51 (Ranked 600)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~7,037 |
+| Tattletale | 39.00% | ~7,038 |
 | Man of politics | 34.00% | ~6,135 |
 | Friends of sorts | 32.00% | ~5,774 |
 | Yet another secret | 32.00% | ~5,774 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~541 |
 | Boy of mystery | 2.00% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,044 (Ranked 166)  
+Progressed: 18,045 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 125 (0.69%) (Ranked 207)
 | 2024-01-19 | 17,964 | 125 |
 | 2024-01-20 | 17,997 | 125 |
 | 2024-01-21 | 18,031 | 125 |
-| 2024-01-22 | 18,044 | 125 |
+| 2024-01-22 | 18,045 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 333)  
 Sum: 200 (Ranked 420)  

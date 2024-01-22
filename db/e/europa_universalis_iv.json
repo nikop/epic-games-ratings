@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14635,10 +14635,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65484,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-22T19:00:04.3450715+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65495,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65484,
+  "NumberOfAwards": 65495,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14658,7 +14664,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 7792
+      "Count": 7803
     },
     {
       "Text": "This game is Extremely Fun",
@@ -14709,9 +14715,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 503871,
+  "EOS_Progressed": 503893,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4355,
+  "EOS_NewPlayers": 4349,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46739,6 +46745,11 @@
       "Time": "2024-01-22T18:10:51.2384398+00:00",
       "NumProgressed": 503871,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T19:10:20.1403697+00:00",
+      "NumProgressed": 503893,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47190,7 +47201,7 @@
       "Name": "Brothers in Arms",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 2015
+      "UsersEstimate": 2016
     },
     {
       "ID": "achievement_buddhists_strike_back",
@@ -49653,21 +49664,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 503871,
+      "Progressed": 503893,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 503871,
+      "Progressed": 503893,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-22T15:01:26.8249182+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:10:51.2384395+00:00",
+  "LastChanged": "2024-01-22T19:00:04.3450712+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:10:20.1403695+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:01:17.4214419+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:10:51.239442+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:00:04.3450719+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:10:20.1414939+00:00"
 }

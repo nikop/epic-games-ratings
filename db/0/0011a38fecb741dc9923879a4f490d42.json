@@ -4,8 +4,8 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 556,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
     "PcReleaseDate": "2022-09-13T13:00:00+00:00",
@@ -266,9 +266,9 @@
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "631i43e",
       "Name": "Sue Everybody!",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -490,9 +490,9 @@
       "ID": "NEW_ACHIEVEMENT_2_1",
       "SetID": "631i43e",
       "Name": "Largeville",
-      "Percentage": 3,
+      "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_10",
@@ -753,8 +753,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:09:54.7081138+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:09:37.0559364+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:21.0521021+00:00",
-  "LastUpdate_Ratings": "2024-01-22T17:59:17.2787377+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:09:54.7081669+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:58:40.4803705+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:09:37.0559848+00:00"
 }

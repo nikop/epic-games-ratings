@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,254 |
-| Lost and Found | 9.00% | ~752 |
-| Autodidact | 8.00% | ~10,679 |
-| This Belongs in a Museum | 7.00% | ~9,344 |
-| Creep and Sleep | 7.00% | ~9,344 |
-| Overdue Notice | 7.00% | ~9,344 |
-| This guy... again? | 7.00% | ~585 |
+| Malpractice Assurance | 15.00% | ~1,255 |
+| Lost and Found | 9.00% | ~753 |
+| Autodidact | 8.00% | ~10,680 |
+| This Belongs in a Museum | 7.00% | ~9,345 |
+| Creep and Sleep | 7.00% | ~9,345 |
+| Overdue Notice | 7.00% | ~9,345 |
+| This guy... again? | 7.00% | ~586 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,010 |
 | Serenity Now! | 6.00% | ~8,010 |
 | Meat and Greet | 6.00% | ~8,010 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,492 (Ranked 92)  
+Progressed: 133,499 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,492 | 5 |
+| 2024-01-22 | 133,499 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,821 (Ranked 58)  

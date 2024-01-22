@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 256,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1784,9 +1784,9 @@
       "ID": "20WEAPONSCRAFTED",
       "SetID": "a1angca",
       "Name": "Weaponsmith",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "300QUESTS",
@@ -1888,9 +1888,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 98
+      "UsersEstimate": 101
     },
     {
       "ID": "BRINGTOYS",
@@ -2000,9 +2000,9 @@
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 110
     },
     {
       "ID": "FINDMAP",
@@ -2096,9 +2096,9 @@
       "ID": "KILLKAHN",
       "SetID": "a1angca",
       "Name": "Eternal Oblivion",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 51
+      "UsersEstimate": 53
     },
     {
       "ID": "LOVECAJA",
@@ -2120,8 +2120,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-22T18:06:33.5303416+00:00",
+  "LastChanged_Achievements": "2024-01-22T19:05:31.6438788+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:00:31.9090322+00:00",
-  "LastUpdate_Achievements": "2024-01-22T18:06:33.5303766+00:00"
+  "LastUpdate_Ratings": "2024-01-22T18:59:32.092072+00:00",
+  "LastUpdate_Achievements": "2024-01-22T19:05:31.6439137+00:00"
 }
