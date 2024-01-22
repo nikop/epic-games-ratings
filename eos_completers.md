@@ -20,7 +20,7 @@
 | 16 | [Overloop](games/o/overloop.md) | 25.00% |
 | 19 | [Busway Islands - Puzzle](games/b/busway_islands_-_puzzle.md) | 24.32% |
 | 20 | [Access Denied Escape](games/5/5f9bc84018a34cf1a670234be578e4dd.md) | 24.28% |
-| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.98% |
+| 21 | [Choice Clash: What Would you Rather?](games/0/0f16806f667f49bba9d15a208ebf639c.md) | 21.74% |
 | 22 | [Doodle Devil](games/d/doodle_devil.md) | 20.88% |
 | 23 | [100 Doors - Escape from Prison](games/d/d00a1f7b44a14dddab853280118f8580.md) | 20.70% |
 | 24 | [laserlemon Production](games/l/laserlemon_production.md) | 18.75% |
@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.47% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.46% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -56,8 +56,8 @@
 | 54 | [Ravenlok](games/r/ravenlok.md) | 7.61% |
 | 55 | [Eiyuden Chronicle: Rising](games/e/eiyuden_chronicle__rising.md) | 7.40% |
 | 56 | [Super Bit Blaster XL](games/s/super_bit_blaster_xl.md) | 7.39% |
-| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.32% |
-| 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.30% |
+| 57 | [Carsick Carventure](games/7/772bc13e5a414331a96d62ce36e8fe71.md) | 7.31% |
+| 58 | [Pilgrims](games/0/0693e8391e49492096424712a5595484.md) | 7.29% |
 | 59 | [Island Farmer](games/2/25163a0f3c9d47d38afe753d53fd27bb.md) | 7.21% |
 | 60 | [Outbreak Devious Beginnings](games/d/dbbce4993a554bbba3032476bca1673a.md) | 7.14% |
 | 61 | [DEEEER Simulator: Your Average Everyday Deer Game](games/8/82337545852b4e2d8bfbb5fcccfc587e.md) | 7.10% |
@@ -72,15 +72,15 @@
 | 70 | [Kaze and the Wild Masks](games/8/87b2e2971d6b485085001a91c73a9718.md) | 6.06% |
 | 71 | [Recollection](games/2/2c3af4f6ffce46e78bac85bcbe7bc11f.md) | 5.88% |
 | 72 | [Fire: Ungh’s Quest](games/f/fire__ungh’s_quest.md) | 5.74% |
-| 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.71% |
+| 73 | [Nocturnal](games/2/2755e0338895421ebeb217fe1f742e7b.md) | 5.63% |
 | 74 | [I Did Not Buy This Ticket](games/9/97359b2710354a139a24ddb1580b5b3d.md) | 5.56% |
 | 74 | [Skye Tales](games/0/06c6603778ed47859ce523af7e0b566b.md) | 5.56% |
-| 76 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.98% |
-| 77 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
-| 78 | [ZZT!](games/z/zzt!.md) | 4.79% |
-| 79 | [Dungeons 4](games/d/dungeons_4.md) | 4.72% |
-| 80 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
-| 80 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 4.71% |
+| 76 | [Road Defense: Outsiders](games/c/c909a449941841e790460fbbfbbb7dcd.md) | 5.10% |
+| 77 | [We Were Here Expeditions: The FriendShip](games/8/88feec140a2f41c3954365c24393be14.md) | 4.98% |
+| 78 | [Bugsnax](games/b/bugsnax.md) | 4.91% |
+| 79 | [ZZT!](games/z/zzt!.md) | 4.79% |
+| 80 | [Dungeons 4](games/d/dungeons_4.md) | 4.72% |
+| 81 | [Buddy and Friends in Halloween](games/a/ad3283cc38a64db89c010975976948de.md) | 4.71% |
 | 82 | [Aya & Naya](games/3/3f6efdc449db4175833c86acfc8ce34c.md) | 4.67% |
 | 83 | [Supfly Delivery Simulator](games/1/114c85073c9e4434b5fc83f6f781a02a.md) | 4.55% |
 | 84 | [Samorost 3](games/c/c62d7481ae1744dab7310c8f4e1e9548.md) | 4.45% |
@@ -94,7 +94,7 @@
 | 91 | [Warstone TD](games/4/4470ce6748c74c708af72cf4535efca6.md) | 4.17% |
 | 93 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 94 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
-| 95 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 3.95% |
+| 95 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 3.85% |
 | 96 | [The Bunker](games/t/the_bunker.md) | 3.78% |
 | 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
 | 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
@@ -153,7 +153,7 @@
 | 151 | [Lost Abroad Cafe - A Language Learning Management](games/l/lost_abroad_cafe_-_a_language_learning_management.md) | 1.69% |
 | 152 | [Frogun](games/f/frogun.md) | 1.66% |
 | 153 | [PAW Patrol Mighty Pups Save Adventure Bay](games/p/paw_patrol_mighty_pups_save_adventure_bay.md) | 1.54% |
-| 154 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.50% |
+| 154 | [Punch Club 2: Fast Forward](games/p/punch_club_2__fast_forward.md) | 1.49% |
 | 155 | [Merchant of the Skies](games/m/merchant_of_the_skies.md) | 1.46% |
 | 156 | [It's a Wrap!](games/i/it's_a_wrap!.md) | 1.45% |
 | 157 | [The Backroom Project](games/5/51dd70aea58d47609d82b87473877daa.md) | 1.43% |
@@ -319,20 +319,20 @@
 | 314 | [Need for Speed™ Unbound Standard Edition](games/n/need_for_speed™_unbound_standard_edition.md) | 0.11% |
 | 314 | [Supraland](games/s/supraland.md) | 0.11% |
 | 319 | [Alan Wake Remastered](games/a/alan_wake_remastered.md) | 0.10% |
+| 319 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.10% |
 | 319 | [Isonzo](games/i/isonzo.md) | 0.10% |
 | 319 | [Outward Definitive Edition](games/o/outward.md) | 0.10% |
 | 319 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 319 | [Riverbond](games/r/riverbond.md) | 0.10% |
 | 319 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.10% |
-| 325 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
-| 325 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.09% |
-| 325 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
-| 325 | [House Flipper](games/h/house_flipper.md) | 0.09% |
-| 325 | [Invincible Presents: Atom Eve](games/b/b79b8b81ba8c4bf9b4b1154670237131.md) | 0.09% |
-| 325 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
-| 325 | [MythForce](games/m/mythforce.md) | 0.09% |
-| 325 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
-| 325 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
+| 326 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
+| 326 | [Deliver Us Mars](games/d/deliver_us_mars.md) | 0.09% |
+| 326 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
+| 326 | [House Flipper](games/h/house_flipper.md) | 0.09% |
+| 326 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
+| 326 | [MythForce](games/m/mythforce.md) | 0.09% |
+| 326 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
+| 326 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
 | 334 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
 | 334 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
 | 334 | [SYNCED](games/s/synced.md) | 0.08% |
@@ -844,4 +844,4 @@
 | 409 | [Zoeti](games/1/1a7cbda7efe7435dabda1af662aeb1ba.md) | 0.00% |
 | 409 | [Zombie Soup](games/f/f990ab9ba22149f8a8a6bee2be46ec0b.md) | 0.00% |
 | 409 | [Zombie Watch](games/0/0843063034aa4b43bbc3114f19c6090f.md) | 0.00% |
-| 3,874 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
+| 3,875 | [Aeon Must Die!](games/a/aeon_must_die!.md) | -0.77% |
