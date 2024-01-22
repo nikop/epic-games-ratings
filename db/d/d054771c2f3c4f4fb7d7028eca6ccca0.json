@@ -4,7 +4,7 @@
   "ProductSlug": "pinball-m-755276",
   "Ranking_EOS_Progress": 214,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 144,
+  "Ranking_EOS_NewPlayers": 143,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-30T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4507,
+  "EOS_Progressed": 4508,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 333,
+  "EOS_NewPlayers": 334,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5749,6 +5749,11 @@
       "Time": "2024-01-22T11:08:06.4831994+00:00",
       "NumProgressed": 4507,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T12:07:57.84638+00:00",
+      "NumProgressed": 4508,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-28T11:03:09.4510887+00:00",
@@ -5785,7 +5790,7 @@
       "Name": "Highest Among the Highest",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -5961,7 +5966,7 @@
       "Name": "Unlocked Relic",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 2118
+      "UsersEstimate": 2119
     },
     {
       "ID": "ACHIEVEMENT_35",
@@ -6136,20 +6141,20 @@
     {
       "ID": "c167foo",
       "IsBase": true,
-      "Progressed": 4507,
+      "Progressed": 4508,
       "Completed": 0
     },
     {
       "ID": "c28p0cf",
       "IsBase": false,
-      "Progressed": 285,
-      "Completed": 285
+      "Progressed": 286,
+      "Completed": 286
     }
   ],
   "FirstSeen": "2023-11-30T21:58:57.6280577+00:00",
   "FirstSeenAchievements": "2023-11-28T11:03:09.4510886+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:08:06.4831989+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:07:57.8463797+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:18.8664152+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:00:31.6331357+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:08:06.4832484+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:00:19.4710189+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:07:57.8464399+00:00"
 }

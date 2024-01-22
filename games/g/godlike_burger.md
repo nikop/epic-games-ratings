@@ -1,30 +1,30 @@
 # Godlike Burger
 [Store](https://store.epicgames.com/en-US/p/godlike-burger-4150a0)  
 [View Rawdata](../../db/g/godlike_burger.json)  
-Rating: 4.51 (Ranked 600)  
+Rating: 4.51 (Ranked 599)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~182,496 |
-| FIRST BLOOD | 40.00% | ~162,219 |
-| KEVIN! | 30.00% | ~121,664 |
-| JACK OF ALL TRADES | 23.00% | ~93,276 |
-| CRIMINAL | 20.00% | ~81,109 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,666 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,555 |
-| HONORS STUDENT | 8.00% | ~32,444 |
+| MASTER CHEF | 45.00% | ~182,501 |
+| FIRST BLOOD | 40.00% | ~162,223 |
+| KEVIN! | 30.00% | ~121,667 |
+| JACK OF ALL TRADES | 23.00% | ~93,278 |
+| CRIMINAL | 20.00% | ~81,112 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,667 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,556 |
+| HONORS STUDENT | 8.00% | ~32,445 |
 | BUTCHER | 6.00% | ~24,333 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,277 |
-| RAMBO | 5.00% | ~20,277 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,278 |
+| RAMBO | 5.00% | ~20,278 |
 | HELL'S KITCHEN | 4.00% | ~16,222 |
-| CELEBRITY | 3.00% | ~12,166 |
-| MARTYR | 3.00% | ~12,166 |
+| CELEBRITY | 3.00% | ~12,167 |
+| MARTYR | 3.00% | ~12,167 |
 | GRATITUDE | 2.00% | ~8,111 |
 | PATTY-KILLER | 2.00% | ~8,111 |
-| EXPERIMENTALIST | 1.00% | ~4,055 |
-| GOURMET | 1.00% | ~4,055 |
-| LAW-ABIDING CITIZEN | 1.00% | ~4,055 |
-| PRUDENT | 1.00% | ~4,055 |
+| EXPERIMENTALIST | 1.00% | ~4,056 |
+| GOURMET | 1.00% | ~4,056 |
+| LAW-ABIDING CITIZEN | 1.00% | ~4,056 |
+| PRUDENT | 1.00% | ~4,056 |
 | SCATTERBRAIN | 0.80% | ~3,244 |
 | HIGH TECHNOLOGIES | 0.70% | ~2,839 |
 | TASTE UNTASTY | 0.60% | ~2,433 |
@@ -34,7 +34,7 @@ Rating: 4.51 (Ranked 600)
 | MISTER ALL THUMBS | 0.10% | ~406 |
 | TRAVELER | 0.10% | ~406 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405,547 (Ranked 50)  
+Progressed: 405,558 (Ranked 50)  
 Completed: 62 (0.02%) (Ranked 372)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 62 (0.02%) (Ranked 372)
 | 2024-01-19 | 404,477 | 62 |
 | 2024-01-20 | 404,928 | 62 |
 | 2024-01-21 | 405,413 | 62 |
-| 2024-01-22 | 405,547 | 62 |
+| 2024-01-22 | 405,558 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -2,7 +2,7 @@
   "ID": "a3dd9f3da8ec49c7b25dec42cce2ec46",
   "Name": "Adios",
   "ProductSlug": "adios-b378b4",
-  "Ranking_Rating": 1106,
+  "Ranking_Rating": 1107,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 110,
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84170,
+  "EOS_Progressed": 84172,
   "EOS_Completed": 947,
-  "EOS_NewPlayers": 569,
+  "EOS_NewPlayers": 568,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31077,6 +31077,11 @@
       "Time": "2024-01-22T11:07:28.1303261+00:00",
       "NumProgressed": 84170,
       "NumCompleted": 947
+    },
+    {
+      "Time": "2024-01-22T12:07:19.2493487+00:00",
+      "NumProgressed": 84172,
+      "NumCompleted": 947
     }
   ],
   "TotalAchievements": 25,
@@ -31104,7 +31109,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15992
+      "UsersEstimate": 15993
     },
     {
       "ID": "Audiophile",
@@ -31120,7 +31125,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18517
+      "UsersEstimate": 18518
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -31184,7 +31189,7 @@
       "Name": "Magnetic Miracles",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 4208
+      "UsersEstimate": 4209
     },
     {
       "ID": "Master, Commander",
@@ -31287,7 +31292,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84170,
+      "Progressed": 84172,
       "Completed": 947
     }
   ],
@@ -31295,8 +31300,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:07:28.1303256+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:07:19.249348+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:58:25.9446202+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:07:28.1304728+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:58:12.5531872+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:07:19.2495501+00:00"
 }

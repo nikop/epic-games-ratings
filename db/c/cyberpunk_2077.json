@@ -18810,10 +18810,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 512797,
       "NumberOfAwardsMax": 143675
+    },
+    {
+      "Time": "2024-01-22T12:03:50.173277+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 513219,
+      "NumberOfAwardsMax": 143675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 512797,
+  "NumberOfAwards": 513219,
   "NumberOfAwardsMax": 143675,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18827,7 +18833,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 107090
+      "Count": 107512
     },
     {
       "Text": "This game has Diverse Characters",
@@ -18890,10 +18896,10 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1057007,
-  "EOS_Completed": 3146,
-  "EOS_NewPlayers": 5192,
-  "EOS_NewCompleters": 47,
+  "EOS_Progressed": 1057035,
+  "EOS_Completed": 3147,
+  "EOS_NewPlayers": 5166,
+  "EOS_NewCompleters": 48,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50630,6 +50636,11 @@
       "Time": "2024-01-22T11:10:20.9040838+00:00",
       "NumProgressed": 1057007,
       "NumCompleted": 3146
+    },
+    {
+      "Time": "2024-01-22T12:09:51.030348+00:00",
+      "NumProgressed": 1057035,
+      "NumCompleted": 3147
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50656,17 +50667,17 @@
       "ID": "BushidoAndChill",
       "SetID": "47clieb",
       "Name": "Bushido and Chill",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4228
+      "UsersEstimate": 5285
     },
     {
       "ID": "Cyberjunkie",
       "SetID": "47clieb",
       "Name": "Full Body Conversion",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6342
+      "UsersEstimate": 7399
     },
     {
       "ID": "Denied",
@@ -50912,9 +50923,9 @@
       "ID": "TheWorld",
       "SetID": "47clieb",
       "Name": "The World",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 4228
+      "UsersEstimate": 5285
     },
     {
       "ID": "ThisIsPacifica",
@@ -50984,9 +50995,9 @@
       "ID": "YouKnowWhoIAm",
       "SetID": "47clieb",
       "Name": "Legend of The Afterlife",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 5285
+      "UsersEstimate": 6342
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51177,21 +51188,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057007,
-      "Completed": 3146
+      "Progressed": 1057035,
+      "Completed": 3147
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185630,
+      "Progressed": 185658,
       "Completed": 10679
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-22T06:03:10.4812987+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:10:20.9040833+00:00",
+  "LastChanged": "2024-01-22T12:03:50.1732768+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:09:51.0303476+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:04:00.5098193+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:10:20.9042663+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:03:50.1732775+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:09:51.0305276+00:00"
 }

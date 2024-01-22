@@ -1,14 +1,14 @@
 # The Uncertain: Light at the End
 [Store](https://store.epicgames.com/en-US/p/the-uncertain-light-at-the-end)  
 [View Rawdata](../../db/t/the_uncertain__light_at_the_end.json)  
-Rating: 3.86 (Ranked 1,085)  
+Rating: 3.86 (Ranked 1,086)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bundle of Joy | 49.00% | ~335 |
+| Bundle of Joy | 49.00% | ~336 |
 | A Friend in Need... | 44.00% | ~301 |
-| Bosom Buddies | 30.00% | ~205 |
-| Beat the Heat | 23.00% | ~157 |
+| Bosom Buddies | 30.00% | ~206 |
+| Beat the Heat | 23.00% | ~158 |
 | A Familiar Face | 14.00% | ~96 |
 | Unexpected Consequences | 12.00% | ~82 |
 | Identity Theft | 11.00% | ~75 |
@@ -17,7 +17,7 @@ Rating: 3.86 (Ranked 1,085)
 | A Trip to Remember | 11.00% | ~75 |
 | Does Not Compute | 11.00% | ~75 |
 | U Mad Bro? | 10.00% | ~68 |
-| Short Circuit | 10.00% | ~68 |
+| Short Circuit | 9.00% | ~62 |
 | A Stealthy Outlook | 6.00% | ~41 |
 | Catch You Later | 6.00% | ~41 |
 | Den Mother | 5.00% | ~34 |
@@ -35,7 +35,7 @@ Rating: 3.86 (Ranked 1,085)
 | Urban Scrawl | 1.00% | ~7 |
 | Marvellous Toys | 1.00% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 684 (Ranked 337)  
+Progressed: 685 (Ranked 337)  
 Completed: 6 (0.88%) (Ranked 192)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -186,7 +186,7 @@ Completed: 6 (0.88%) (Ranked 192)
 | 2024-01-18 | 681 | 6 |
 | 2024-01-19 | 682 | 6 |
 | 2024-01-20 | 683 | 6 |
-| 2024-01-22 | 684 | 6 |
+| 2024-01-22 | 685 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

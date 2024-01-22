@@ -4,7 +4,7 @@
   "ProductSlug": "the-devils-face-356c31",
   "Ranking_EOS_Progress": 342,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 380,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-09-10T17:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 657,
+  "EOS_Progressed": 658,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -2904,6 +2904,11 @@
       "Time": "2024-01-20T03:03:58.6623501+00:00",
       "NumProgressed": 657,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T12:06:49.4768947+00:00",
+      "NumProgressed": 658,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 14,
@@ -2915,7 +2920,7 @@
       "Name": "The gateway to the underworld",
       "Percentage": 53,
       "XP": 50,
-      "UsersEstimate": 348
+      "UsersEstimate": 349
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -2923,7 +2928,7 @@
       "Name": "Is it merely a dream?",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -3001,9 +3006,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "296pn27",
       "Name": "The court",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 72
+      "UsersEstimate": 66
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -3026,14 +3031,14 @@
     {
       "ID": "296pn27",
       "IsBase": true,
-      "Progressed": 657,
+      "Progressed": 658,
       "Completed": 8
     }
   ],
   "FirstSeen": "2023-09-10T20:58:06.6505558+00:00",
   "FirstSeenAchievements": "2023-06-02T10:04:29.565857+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:06:58.5786088+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:06:49.4768944+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:02.4079898+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:01:09.3697445+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:06:58.5786369+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:00:57.8770271+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:06:49.4769192+00:00"
 }

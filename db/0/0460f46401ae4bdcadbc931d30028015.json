@@ -2,7 +2,7 @@
   "ID": "0460f46401ae4bdcadbc931d30028015",
   "Name": "Madden NFL 24",
   "ProductSlug": "madden-nfl-24",
-  "Ranking_Rating": 1001,
+  "Ranking_Rating": 1002,
   "Ranking_Popularity": 366,
   "Ranking_PopularitySum": 351,
   "Ranking_EOS_Progress": 183,
@@ -1839,9 +1839,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 11307,
+  "EOS_Progressed": 11308,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12364,6 +12364,11 @@
       "Time": "2024-01-22T11:07:23.4136873+00:00",
       "NumProgressed": 11307,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T12:07:14.3479068+00:00",
+      "NumProgressed": 11308,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12384,7 +12389,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3844
+      "UsersEstimate": 3845
     },
     {
       "ID": "achievement_11",
@@ -12416,7 +12421,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 3844
+      "UsersEstimate": 3845
     },
     {
       "ID": "achievement_15",
@@ -12472,7 +12477,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6671
+      "UsersEstimate": 6672
     },
     {
       "ID": "achievement_21",
@@ -12543,7 +12548,7 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11307,
+      "Progressed": 11308,
       "Completed": 0
     }
   ],
@@ -12551,8 +12556,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-22T04:03:03.2362906+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:07:23.4136855+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:07:14.3479063+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:03:26.6608859+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:07:23.4137471+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:03:15.971853+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:07:14.3479598+00:00"
 }

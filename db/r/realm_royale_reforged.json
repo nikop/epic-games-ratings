@@ -2,12 +2,12 @@
   "ID": "5fcf6f3031c547f789e29c18b422ca67",
   "Name": "Realm Royale Reforged",
   "ProductSlug": "realm-royale-reforged",
-  "Ranking_Rating": 891,
+  "Ranking_Rating": 892,
   "Ranking_Popularity": 328,
   "Ranking_PopularitySum": 253,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-11-29T12:00:00+00:00",
@@ -2528,10 +2528,16 @@
       "Rating": 4.29,
       "NumberOfAwards": 1412,
       "NumberOfAwardsMax": 167
+    },
+    {
+      "Time": "2024-01-22T11:59:06.1236684+00:00",
+      "Rating": 4.29,
+      "NumberOfAwards": 1413,
+      "NumberOfAwardsMax": 167
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1412,
+  "NumberOfAwards": 1413,
   "NumberOfAwardsMax": 167,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2605,7 +2611,7 @@
       "Text": "This game has Playful Visuals",
       "Prefix": "This game has",
       "Type": "Playful Visuals",
-      "Count": 126
+      "Count": 127
     }
   ],
   "EOS_Progressed": 0,
@@ -2620,8 +2626,8 @@
   "AchievementSets": [],
   "FirstSeen": "2022-08-22T12:01:28.8825715+00:00",
   "FirstSeenRating": "2022-08-24T22:31:27.0262733+00:00",
-  "LastChanged": "2024-01-18T01:51:04.2122972+00:00",
+  "LastChanged": "2024-01-22T11:59:06.1236682+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.9680545+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:59:19.7994157+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:05:17.864062+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:59:06.1236687+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:05:08.6071137+00:00"
 }

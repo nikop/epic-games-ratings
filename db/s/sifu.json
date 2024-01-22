@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 87,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9171,9 +9171,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762341,
+  "EOS_Progressed": 762349,
   "EOS_Completed": 13003,
-  "EOS_NewPlayers": 1445,
+  "EOS_NewPlayers": 1441,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34856,6 +34856,11 @@
       "Time": "2024-01-22T11:11:16.5141546+00:00",
       "NumProgressed": 762341,
       "NumCompleted": 13003
+    },
+    {
+      "Time": "2024-01-22T12:10:47.8078831+00:00",
+      "NumProgressed": 762349,
+      "NumCompleted": 13003
     }
   ],
   "TotalAchievements": 60,
@@ -34867,7 +34872,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45740
+      "UsersEstimate": 45741
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35227,7 +35232,7 @@
       "Name": "Martial Hub",
       "Percentage": 0.7,
       "XP": 80,
-      "UsersEstimate": 501
+      "UsersEstimate": 502
     },
     {
       "ID": "47_Arena_GoldManhunt",
@@ -35346,21 +35351,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71642,
+      "Progressed": 71650,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762341,
+      "Progressed": 762349,
       "Completed": 13003
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-22T08:03:16.0488747+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:11:16.514154+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:10:47.8078828+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:03:55.0971169+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:11:16.5143235+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:03:44.8300329+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:10:47.8080215+00:00"
 }

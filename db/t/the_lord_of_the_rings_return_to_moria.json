@@ -3052,10 +3052,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 5672,
       "NumberOfAwardsMax": 987
+    },
+    {
+      "Time": "2024-01-22T11:59:45.5061279+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 5679,
+      "NumberOfAwardsMax": 987
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5672,
+  "NumberOfAwards": 5679,
   "NumberOfAwardsMax": 987,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3063,7 +3069,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 718
+      "Count": 725
     },
     {
       "Text": "This game is Extremely Fun",
@@ -3108,9 +3114,9 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 387940,
+  "EOS_Progressed": 387942,
   "EOS_Completed": 389,
-  "EOS_NewPlayers": 3498,
+  "EOS_NewPlayers": 3491,
   "EOS_NewCompleters": 42,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13878,6 +13884,11 @@
       "Time": "2024-01-22T11:10:51.2706567+00:00",
       "NumProgressed": 387940,
       "NumCompleted": 389
+    },
+    {
+      "Time": "2024-01-22T12:10:21.9744722+00:00",
+      "NumProgressed": 387942,
+      "NumCompleted": 389
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -13930,7 +13941,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 128020
+      "UsersEstimate": 128021
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -13938,7 +13949,7 @@
       "Name": "Suit Up",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 209488
+      "UsersEstimate": 209489
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -14018,7 +14029,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 228885
+      "UsersEstimate": 228886
     },
     {
       "ID": "DefeatedBolgakh",
@@ -14058,7 +14069,7 @@
       "Name": "Risk a Little Real Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 120261
+      "UsersEstimate": 120262
     },
     {
       "ID": "DiscoveredElvenQuarter",
@@ -14066,7 +14077,7 @@
       "Name": "Speak Friend",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 318111
+      "UsersEstimate": 318112
     },
     {
       "ID": "DiscoveredHighway",
@@ -14074,7 +14085,7 @@
       "Name": "A Memory of this Place",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69829
+      "UsersEstimate": 69830
     },
     {
       "ID": "DiscoveredLowerDeeps",
@@ -14082,7 +14093,7 @@
       "Name": "To the Mountain\u0027s Roots",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 193970
+      "UsersEstimate": 193971
     },
     {
       "ID": "DiscoveredMinesOfMoria",
@@ -14090,7 +14101,7 @@
       "Name": "Delving Onward",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 267679
+      "UsersEstimate": 267680
     },
     {
       "ID": "DiscoveredTomb",
@@ -14098,23 +14109,23 @@
       "Name": "Remains To Be Seen",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 135779
+      "UsersEstimate": 135780
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 387940,
+      "Progressed": 387942,
       "Completed": 389
     }
   ],
   "FirstSeen": "2023-10-24T14:01:15.5324027+00:00",
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged": "2024-01-22T02:58:39.346941+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:10:51.2706562+00:00",
+  "LastChanged": "2024-01-22T11:59:45.5061278+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:10:21.9744717+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:14.4291538+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:59:58.159305+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:10:51.2707373+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:59:45.5061283+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:10:21.9745522+00:00"
 }

@@ -1,15 +1,15 @@
 # Lawn Mowing Simulator
 [Store](https://store.epicgames.com/en-US/p/lawn-mowing-simulator-838bf3)  
 [View Rawdata](../../db/l/lawn_mowing_simulator.json)  
-Rating: 4.08 (Ranked 1,035)  
+Rating: 4.08 (Ranked 1,036)  
 Number of Ratings: 5,086  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The dream begins | 79.00% | ~552,561 |
-| Every story has a beginning | 36.00% | ~251,800 |
-| The first of many | 31.00% | ~216,828 |
-| Positive word of mouth | 18.00% | ~125,900 |
+| The dream begins | 79.00% | ~552,564 |
+| Every story has a beginning | 36.00% | ~251,801 |
+| The first of many | 31.00% | ~216,829 |
+| Positive word of mouth | 18.00% | ~125,901 |
 | Lawn in the U.S.A. | 15.00% | ~104,917 |
 | Blade Runner | 9.00% | ~62,950 |
 | Credible | 7.00% | ~48,961 |
@@ -61,7 +61,7 @@ Number of Ratings: 5,086  (23.09.2022)
 | Lawn Enforcement Officer | 0.10% | ~699 |
 | Mo mowers, mo problems | 0.10% | ~699 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 699,444 (Ranked 29)  
+Progressed: 699,448 (Ranked 29)  
 Completed: 19 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -338,7 +338,7 @@ Completed: 19 (0.00%) (Ranked 409)
 | 2024-01-19 | 698,716 | 19 |
 | 2024-01-20 | 699,036 | 19 |
 | 2024-01-21 | 699,359 | 19 |
-| 2024-01-22 | 699,444 | 19 |
+| 2024-01-22 | 699,448 | 19 |
 ## Awards
 Max (Quickly Understood Controls): 182  (Ranked 315)  
 Sum: 993 (Ranked 278)  

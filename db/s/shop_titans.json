@@ -2,7 +2,7 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1057,
+  "Ranking_Rating": 1058,
   "Ranking_Popularity": 82,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
@@ -8293,9 +8293,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152458,
+  "EOS_Progressed": 152459,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 1217,
+  "EOS_NewPlayers": 1210,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37718,6 +37718,11 @@
       "Time": "2024-01-22T11:10:42.3623964+00:00",
       "NumProgressed": 152458,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-22T12:10:12.6110995+00:00",
+      "NumProgressed": 152459,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -37809,7 +37814,7 @@
       "Name": "One Easy Payment",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "bigsale02",
@@ -37833,7 +37838,7 @@
       "Name": "Some Assembly Required",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "blueprint02",
@@ -38081,7 +38086,7 @@
       "Name": "Another Satisfied Customer",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "energy02",
@@ -38209,7 +38214,7 @@
       "Name": "Pretty Penny",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "gold03",
@@ -38593,7 +38598,7 @@
       "Name": "Own the Means of Production",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 9147
+      "UsersEstimate": 9148
     },
     {
       "ID": "workers02",
@@ -38624,15 +38629,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152458,
+      "Progressed": 152459,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-22T09:03:38.5579473+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:10:42.3623959+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:10:12.611099+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:04:10.2492456+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:10:42.3626193+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:03:59.9214985+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:10:12.6113412+00:00"
 }

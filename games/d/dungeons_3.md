@@ -6,36 +6,36 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~33,348 |
-| The Evilest Evil | 58.00% | ~27,631 |
-| Twistram is devastated | 58.00% | ~27,631 |
+| The Shadow strikes | 70.00% | ~33,349 |
+| The Evilest Evil | 58.00% | ~27,632 |
+| Twistram is devastated | 58.00% | ~27,632 |
 | The Gehenna Stones | 49.00% | ~23,344 |
-| No one has to die today! | 46.00% | ~21,914 |
-| Death and destruction! | 46.00% | ~21,914 |
-| The Swamplanders from the swamplands | 43.00% | ~20,485 |
-| Rusty Steel | 41.00% | ~19,532 |
+| No one has to die today! | 46.00% | ~21,915 |
+| Death and destruction! | 46.00% | ~21,915 |
+| The Swamplanders from the swamplands | 43.00% | ~20,486 |
+| Rusty Steel | 41.00% | ~19,533 |
 | The One-Huge-Army-Building Evil | 40.00% | ~19,056 |
 | The last burger | 37.00% | ~17,627 |
 | Braiiiiins! | 37.00% | ~17,627 |
-| Hands off the Dungeonheart! | 36.00% | ~17,150 |
+| Hands off the Dungeonheart! | 36.00% | ~17,151 |
 | A trip on sea, what fun it can be | 34.00% | ~16,198 |
 | Damned good | 32.00% | ~15,245 |
-| Stock Market Crash | 31.00% | ~14,768 |
-| Factory farming | 31.00% | ~14,768 |
+| Stock Market Crash | 31.00% | ~14,769 |
+| Factory farming | 31.00% | ~14,769 |
 | Shadow hunter | 29.00% | ~13,816 |
 | Not-So-Overproud | 29.00% | ~13,816 |
 | For a handfull of Catapults | 28.00% | ~13,339 |
 | Thirst quencher | 27.00% | ~12,863 |
 | Ogre Solo! | 27.00% | ~12,863 |
-| Destroy the thing | 26.00% | ~12,386 |
-| Tide Master | 26.00% | ~12,386 |
+| Destroy the thing | 26.00% | ~12,387 |
+| Tide Master | 26.00% | ~12,387 |
 | Difficult family relationships | 25.00% | ~11,910 |
 | MASS-O-BOT | 24.00% | ~11,434 |
 | Prepare the grave | 24.00% | ~11,434 |
 | Angel of Fire | 24.00% | ~11,434 |
 | Where there is Light, there is Shadow | 23.00% | ~10,957 |
 | At the foot of Mount Destiny | 22.00% | ~10,481 |
-| The Force disturbed | 21.00% | ~10,004 |
+| The Force disturbed | 21.00% | ~10,005 |
 | The Victorious Evil | 20.00% | ~9,528 |
 | Chorus of damnation | 19.00% | ~9,052 |
 | We don’t have time! | 19.00% | ~9,052 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~953 |
 | Sacrifices! | 2.00% | ~953 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,640 (Ranked 128)  
+Progressed: 47,641 (Ranked 128)  
 Completed: 375 (0.79%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 375 (0.79%) (Ranked 198)
 | 2024-01-19 | 47,362 | 373 |
 | 2024-01-20 | 47,479 | 374 |
 | 2024-01-21 | 47,606 | 375 |
-| 2024-01-22 | 47,640 | 375 |
+| 2024-01-22 | 47,641 | 375 |
 ## Awards
 Max (Great for Beginners): 402  (Ranked 242)  
 Sum: 2,859 (Ranked 192)  

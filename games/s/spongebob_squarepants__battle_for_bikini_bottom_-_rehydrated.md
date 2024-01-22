@@ -6,41 +6,41 @@ Number of Ratings: 76  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Spatula Seeker | 23.00% | ~269 |
-| Jellyfish Jam | 22.00% | ~257 |
-| Sponge Smasher | 22.00% | ~257 |
+| Spatula Seeker | 23.00% | ~270 |
+| Jellyfish Jam | 22.00% | ~258 |
+| Sponge Smasher | 22.00% | ~258 |
 | Jellyfishing | 17.00% | ~199 |
 | Sock Getter | 14.00% | ~164 |
 | Sweet Victory | 13.00% | ~152 |
 | Star Smasher | 13.00% | ~152 |
 | Time For Tutorial | 13.00% | ~152 |
-| Super Spatula Seeker | 12.00% | ~140 |
+| Super Spatula Seeker | 12.00% | ~141 |
 | Uptown and Downtown | 11.00% | ~129 |
 | Squirrel Smasher | 11.00% | ~129 |
 | Surf's Up! | 11.00% | ~129 |
 | Life's as extreme as you wanna make it! | 9.00% | ~105 |
 | Toxic Terror | 9.00% | ~105 |
 | Are you ready now? | 8.00% | ~94 |
+| Keep it Rolling | 8.00% | ~94 |
 | Shrimp Catcher | 8.00% | ~94 |
 | Hit Rock Bottom | 8.00% | ~94 |
 | Robot encyclopedia | 7.00% | ~82 |
 | Hello, Bikini Bottom | 7.00% | ~82 |
-| Keep it Rolling | 7.00% | ~82 |
 | Ultra Spatula Seeker | 7.00% | ~82 |
-| The Small Does Not Rule | 5.00% | ~58 |
-| Ship Shape | 5.00% | ~58 |
-| Shanghaied | 5.00% | ~58 |
-| Kelp Forest of Fear | 5.00% | ~58 |
-| SpongeBob vs SpongeBob! | 5.00% | ~58 |
-| Sock Concert | 5.00% | ~58 |
+| The Small Does Not Rule | 5.00% | ~59 |
+| Ship Shape | 5.00% | ~59 |
+| Shanghaied | 5.00% | ~59 |
+| Kelp Forest of Fear | 5.00% | ~59 |
+| SpongeBob vs SpongeBob! | 5.00% | ~59 |
+| Sock Concert | 5.00% | ~59 |
 | Sleepy Time | 4.00% | ~47 |
 | Mega Spatula Seeker | 4.00% | ~47 |
 | 100% SpongeBob | 1.00% | ~12 |
 | Sock Opera | 1.00% | ~12 |
 | Super Ultra Mega Spatula Seeker | 1.00% | ~12 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,169 (Ranked 293)  
-Completed: 10 (0.86%) (Ranked 196)  
+Progressed: 1,172 (Ranked 293)  
+Completed: 10 (0.85%) (Ranked 197)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -79,7 +79,7 @@ Completed: 10 (0.86%) (Ranked 196)
 | 2024-01-19 | 1,105 | 9 |
 | 2024-01-20 | 1,135 | 10 |
 | 2024-01-21 | 1,157 | 10 |
-| 2024-01-22 | 1,169 | 10 |
+| 2024-01-22 | 1,172 | 10 |
 ## Awards
 Max (Great Boss Battles): 36  (Ranked 506)  
 Sum: 36 (Ranked 539)  

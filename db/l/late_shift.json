@@ -4,7 +4,7 @@
   "ProductSlug": "late-shift-8b0634",
   "Ranking_EOS_Progress": 295,
   "Ranking_EOS_Completed": 168,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 214,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2022-10-21T05:00:00+00:00",
@@ -3473,9 +3473,9 @@
       "ID": "INTERROGATION",
       "SetID": "8eejhlh",
       "Name": "Interrogation",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 174
     },
     {
       "ID": "OFFICE_CLERK",
@@ -3521,9 +3521,9 @@
       "ID": "STAR_CROSSED_LOVERS",
       "SetID": "8eejhlh",
       "Name": "Star-Crossed Lovers",
-      "Percentage": 46,
+      "Percentage": 47,
       "XP": 50,
-      "UsersEstimate": 535
+      "UsersEstimate": 546
     }
   ],
   "AchievementSets": [
@@ -3538,8 +3538,8 @@
   "FirstSeenRating": "2023-03-31T05:58:45.2761687+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:43.153308+00:00",
   "LastChanged": "2023-03-31T05:58:45.2761688+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:11:21.6802855+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:10:53.0845934+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.6031874+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:00:54.662758+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:11:21.6803091+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:00:42.2048018+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:10:53.0846229+00:00"
 }

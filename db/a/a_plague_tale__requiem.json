@@ -857,9 +857,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18663,
+  "EOS_Progressed": 18664,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 386,
+  "EOS_NewPlayers": 385,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.38,
   "EosHistory": [
@@ -16787,6 +16787,11 @@
       "Time": "2024-01-22T09:05:27.3079739+00:00",
       "NumProgressed": 18663,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-22T12:06:27.0474709+00:00",
+      "NumProgressed": 18664,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 35,
@@ -16798,7 +16803,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16983
+      "UsersEstimate": 16984
     },
     {
       "ID": "ACH_02",
@@ -16806,7 +16811,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14184
+      "UsersEstimate": 14185
     },
     {
       "ID": "ACH_03",
@@ -16822,7 +16827,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12504
+      "UsersEstimate": 12505
     },
     {
       "ID": "ACH_05",
@@ -16830,7 +16835,7 @@
       "Name": "In our Wake",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 12131
+      "UsersEstimate": 12132
     },
     {
       "ID": "ACH_06",
@@ -16838,7 +16843,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 11571
+      "UsersEstimate": 11572
     },
     {
       "ID": "ACH_07",
@@ -16846,7 +16851,7 @@
       "Name": "Felons",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 11011
+      "UsersEstimate": 11012
     },
     {
       "ID": "ACH_08",
@@ -16862,7 +16867,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 10078
+      "UsersEstimate": 10079
     },
     {
       "ID": "ACH_10",
@@ -16878,7 +16883,7 @@
       "Name": "The Cradle of Centuries",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 8398
+      "UsersEstimate": 8399
     },
     {
       "ID": "ACH_12",
@@ -16886,7 +16891,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 8025
+      "UsersEstimate": 8026
     },
     {
       "ID": "ACH_13",
@@ -16894,7 +16899,7 @@
       "Name": "Nothing Left",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6905
+      "UsersEstimate": 6906
     },
     {
       "ID": "ACH_14",
@@ -16918,7 +16923,7 @@
       "Name": "King Hugo",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "ACH_17",
@@ -17014,7 +17019,7 @@
       "Name": "Alchemist",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 12131
+      "UsersEstimate": 12132
     },
     {
       "ID": "ACH_29",
@@ -17046,7 +17051,7 @@
       "Name": "Perfect shot",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     },
     {
       "ID": "ACH_33",
@@ -17070,14 +17075,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 4292
+      "UsersEstimate": 4293
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18663,
+      "Progressed": 18664,
       "Completed": 70
     }
   ],
@@ -17085,8 +17090,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-19T19:59:20.3831528+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:06:35.7218538+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:06:27.0474704+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.131377+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:57:24.9682422+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:06:35.7219484+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:57:07.151109+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:06:27.0475603+00:00"
 }

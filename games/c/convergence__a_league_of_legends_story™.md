@@ -16,9 +16,9 @@ Rating: 4.66 (Ranked 307)
 | The Prince in Heels | 27.00% | ~364 |
 | Honest Mistake | 27.00% | ~364 |
 | Immaculate Aim | 27.00% | ~364 |
+| The Steel Shadow | 26.00% | ~351 |
 | The Harder They Fall | 26.00% | ~351 |
 | Fast Learner | 26.00% | ~351 |
-| The Steel Shadow | 25.00% | ~338 |
 | Breaking Down Barriers | 24.00% | ~324 |
 | The Wicked Twins | 24.00% | ~324 |
 | Right On Time | 23.00% | ~310 |
@@ -27,7 +27,7 @@ Rating: 4.66 (Ranked 307)
 | Golem Chaser | 23.00% | ~310 |
 | The Loose Cannon | 21.00% | ~284 |
 | Check Your Pulse | 21.00% | ~284 |
-| Street Style | 19.00% | ~256 |
+| Street Style | 20.00% | ~270 |
 | The Man Who Shattered Time | 19.00% | ~256 |
 | The Family Fortune | 19.00% | ~256 |
 | Whiz Kid | 16.00% | ~216 |

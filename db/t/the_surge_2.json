@@ -2,12 +2,12 @@
   "ID": "effee7c2775148e9a99f5685d29751d2",
   "Name": "The Surge 2",
   "ProductSlug": "the-surge-2-e7df70",
-  "Ranking_Rating": 915,
+  "Ranking_Rating": 916,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 241,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 265,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2615,
+  "EOS_Progressed": 2616,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4881,6 +4881,11 @@
       "Time": "2024-01-22T04:08:39.0083431+00:00",
       "NumProgressed": 2615,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-22T12:04:19.3941102+00:00",
+      "NumProgressed": 2616,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4898,9 +4903,9 @@
       "ID": "ACHV_02",
       "SetID": "8p5mlmc",
       "Name": "Jailbreak",
-      "Percentage": 64,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 1674
+      "UsersEstimate": 1648
     },
     {
       "ID": "ACHV_03",
@@ -4916,7 +4921,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 758
+      "UsersEstimate": 759
     },
     {
       "ID": "ACHV_05",
@@ -4932,7 +4937,7 @@
       "Name": "Home Invasion",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 601
+      "UsersEstimate": 602
     },
     {
       "ID": "ACHV_07",
@@ -5100,7 +5105,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 784
+      "UsersEstimate": 785
     },
     {
       "ID": "ACHV_28",
@@ -5180,7 +5185,7 @@
       "Name": "Luminary",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHV_38",
@@ -5196,7 +5201,7 @@
       "Name": "Don\u0027t I Know You...?",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 1961
+      "UsersEstimate": 1962
     },
     {
       "ID": "ACHV_40",
@@ -5244,7 +5249,7 @@
       "Name": "It\u0027s a Trap",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACHV_46",
@@ -5347,7 +5352,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2615,
+      "Progressed": 2616,
       "Completed": 13
     }
   ],
@@ -5355,8 +5360,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:04:28.6485295+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:04:19.3941097+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:03:37.4664728+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:04:28.6485988+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:03:26.5095734+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:04:19.3941653+00:00"
 }

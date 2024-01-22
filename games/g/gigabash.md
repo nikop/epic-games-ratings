@@ -1,25 +1,25 @@
 # GigaBash
 [Store](https://store.epicgames.com/en-US/p/gigabash)  
 [View Rawdata](../../db/g/gigabash.json)  
-Rating: 4.52 (Ranked 583)  
+Rating: 4.51 (Ranked 599)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| All Grown Up! | 20.00% | ~25,194 |
-| I've Had Enough! | 15.00% | ~18,896 |
-| Fists, Fury & a lot of Rage | 11.00% | ~13,857 |
-| Seasoned Fighter | 9.00% | ~11,337 |
-| All For One and One For All | 8.00% | ~10,078 |
-| Home Sweet Home? | 6.00% | ~7,558 |
-| A New Age | 5.00% | ~6,299 |
-| Oh Baby, A Triple | 3.00% | ~3,779 |
-| Master of Disguise | 3.00% | ~3,779 |
-| Symbiotic | 3.00% | ~3,779 |
-| Battle Hardened | 2.00% | ~2,519 |
-| Double Punch! | 2.00% | ~2,519 |
-| It's Mayhem! | 2.00% | ~2,519 |
-| Right back at'cha | 2.00% | ~2,519 |
-| Spectacular Finisher | 2.00% | ~2,519 |
+| All Grown Up! | 20.00% | ~25,198 |
+| I've Had Enough! | 15.00% | ~18,898 |
+| Fists, Fury & a lot of Rage | 11.00% | ~13,859 |
+| Seasoned Fighter | 9.00% | ~11,339 |
+| All For One and One For All | 8.00% | ~10,079 |
+| Home Sweet Home? | 6.00% | ~7,559 |
+| A New Age | 5.00% | ~6,300 |
+| Oh Baby, A Triple | 3.00% | ~3,780 |
+| Master of Disguise | 3.00% | ~3,780 |
+| Symbiotic | 3.00% | ~3,780 |
+| Battle Hardened | 2.00% | ~2,520 |
+| Double Punch! | 2.00% | ~2,520 |
+| It's Mayhem! | 2.00% | ~2,520 |
+| Right back at'cha | 2.00% | ~2,520 |
+| Spectacular Finisher | 2.00% | ~2,520 |
 | Cautious Veteran | 1.00% | ~1,260 |
 | Katamari | 1.00% | ~1,260 |
 | Martyrdom | 1.00% | ~1,260 |
@@ -41,7 +41,7 @@ Rating: 4.52 (Ranked 583)
 | What's Mine is Yours | 0.10% | ~126 |
 | Signature Look | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 125,972 (Ranked 94)  
+Progressed: 125,990 (Ranked 94)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -89,7 +89,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 124,900 | 0 |
 | 2024-01-20 | 125,359 | 0 |
 | 2024-01-21 | 125,815 | 0 |
-| 2024-01-22 | 125,972 | 0 |
+| 2024-01-22 | 125,990 | 0 |
 ## Awards
 Max (Great Boss Battles): 58  (Ranked 441)  
 Sum: 58 (Ranked 505)  
@@ -151,3 +151,4 @@ Diff (max vs sum): -64
 | 2024-01-16 | 4.52 | 57 | 57 |
 | 2024-01-20 | 4.51 | 58 | 58 |
 | 2024-01-21 | 4.52 | 58 | 58 |
+| 2024-01-22 | 4.51 | 58 | 58 |

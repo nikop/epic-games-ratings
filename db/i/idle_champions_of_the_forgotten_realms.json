@@ -2,7 +2,7 @@
   "ID": "7e508f543b05465abe3a935960eb70ac",
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
-  "Ranking_Rating": 1042,
+  "Ranking_Rating": 1043,
   "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
@@ -9751,7 +9751,7 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255168,
+  "EOS_Progressed": 255170,
   "EOS_Completed": 2630,
   "EOS_NewPlayers": 1141,
   "EOS_NewCompleters": 13,
@@ -41196,6 +41196,11 @@
       "Time": "2024-01-22T11:12:03.8356916+00:00",
       "NumProgressed": 255168,
       "NumCompleted": 2630
+    },
+    {
+      "Time": "2024-01-22T12:11:35.7897298+00:00",
+      "NumProgressed": 255170,
+      "NumCompleted": 2630
     }
   ],
   "TotalAchievements": 546,
@@ -41965,9 +41970,9 @@
       "ID": "objective_completed_1178",
       "SetID": "415jc5c",
       "Name": "Heatwave",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 221
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_1179",
@@ -42813,9 +42818,9 @@
       "ID": "objective_completed_278",
       "SetID": "cc37lbc",
       "Name": "Trollskull Manor",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 766
     },
     {
       "ID": "objective_completed_279",
@@ -43629,9 +43634,9 @@
       "ID": "objective_completed_580",
       "SetID": "cc37lbc",
       "Name": "Vault of Dragons",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 510
     },
     {
       "ID": "objective_completed_581",
@@ -45574,21 +45579,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221442,
+      "Progressed": 221444,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255168,
+      "Progressed": 255170,
       "Completed": 2630
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-22T09:57:37.3372509+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:12:03.835691+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:11:35.7897293+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:58:17.5379238+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:12:03.8381917+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:58:03.6437434+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:11:35.7919672+00:00"
 }

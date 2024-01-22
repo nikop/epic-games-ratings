@@ -1,7 +1,7 @@
 # Idle Champions of the Forgotten Realms
 [Store](https://store.epicgames.com/en-US/p/idle-champions-of-the-forgotten-realms)  
 [View Rawdata](../../db/i/idle_champions_of_the_forgotten_realms.json)  
-Rating: 4.07 (Ranked 1,042)  
+Rating: 4.07 (Ranked 1,043)  
 Number of Ratings: 9,041  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -53,6 +53,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Invisible Shadows | 0.30% | ~766 |
 | The Dinner Party | 0.30% | ~766 |
 | The Botched Kidnapping | 0.30% | ~766 |
+| Trollskull Manor | 0.30% | ~766 |
 | The Death Curse | 0.30% | ~766 |
 | Premature Betrayal | 0.30% | ~766 |
 | A Tale of Two Cities | 0.30% | ~766 |
@@ -71,6 +72,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Vecna Lives! | 0.20% | ~443 |
 | Vecna Loots! | 0.20% | ~443 |
 | Return to the Tomb | 0.20% | ~443 |
+| Heatwave | 0.20% | ~443 |
 | Homecoming | 0.20% | ~510 |
 | The Lost Heir of Omu | 0.20% | ~510 |
 | The Forbidden City | 0.20% | ~510 |
@@ -88,7 +90,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Wyrmheart Mine | 0.20% | ~510 |
 | Tower on the Lake | 0.20% | ~510 |
 | Seeds of Deceit | 0.20% | ~510 |
-| Trollskull Manor | 0.20% | ~510 |
 | The Gargoyle's Apprentice | 0.20% | ~510 |
 | Attack on the Manor | 0.20% | ~510 |
 | Treasure Hunters | 0.20% | ~510 |
@@ -108,6 +109,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Crowded Streets | 0.20% | ~510 |
 | The Darkness Runs Deeper | 0.20% | ~510 |
 | Difficult Terrain | 0.20% | ~510 |
+| Vault of Dragons | 0.20% | ~510 |
 | Dinosaur Racing | 0.20% | ~510 |
 | Elturel Has Fallen | 0.20% | ~510 |
 | Resolve Amongst Chaos | 0.20% | ~510 |
@@ -206,7 +208,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | More Than Well Equipped | 0.10% | ~221 |
 | Arcane Efforts | 0.10% | ~221 |
 | Keep Your Distance | 0.10% | ~221 |
-| Heatwave | 0.10% | ~221 |
 | To Avernus in a Handbasket | 0.10% | ~221 |
 | Hands Off! | 0.10% | ~221 |
 | The Dread Domain of Tovag | 0.10% | ~221 |
@@ -351,7 +352,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Cold & Wet | 0.10% | ~255 |
 | Madcap Adventures | 0.10% | ~255 |
 | Faerûn's Most Neglected | 0.10% | ~221 |
-| Vault of Dragons | 0.10% | ~255 |
 | Vault of Pixies | 0.10% | ~255 |
 | Vault of Poison | 0.10% | ~255 |
 | Vault of Cuteness | 0.10% | ~221 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~221 |
 | See You on the Flipside | 0.10% | ~221 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,168 (Ranked 71)  
+Progressed: 255,170 (Ranked 71)  
 Completed: 2,630 (1.03%) (Ranked 179)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -830,7 +830,7 @@ Completed: 2,630 (1.03%) (Ranked 179)
 | 2024-01-19 | 254,785 | 2,625 |
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
-| 2024-01-22 | 255,168 | 2,630 |
+| 2024-01-22 | 255,170 | 2,630 |
 ## Awards
 Max (Great for Beginners): 5,810  (Ranked 75)  
 Sum: 33,605 (Ranked 41)  

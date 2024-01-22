@@ -1,7 +1,7 @@
 # The Callisto Protocol
 [Store](https://store.epicgames.com/en-US/p/the-callisto-protocol)  
 [View Rawdata](../../db/t/the_callisto_protocol.json)  
-Rating: 4.22 (Ranked 959)  
+Rating: 4.22 (Ranked 960)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,12 +12,12 @@ Rating: 4.22 (Ranked 959)
 | Get a Grip | 23.00% | ~5,212 |
 | Chew 'Em Up | 22.00% | ~4,985 |
 | Reforged | 21.00% | ~4,759 |
-| Float Like A Butterfly | 19.00% | ~4,305 |
+| Float Like A Butterfly | 19.00% | ~4,306 |
 | Workplace Hazard | 18.00% | ~4,079 |
 | If the SHU Fits... | 18.00% | ~4,079 |
 | Without A Paddle | 16.00% | ~3,626 |
-| In the Pipe, Five by Five | 14.00% | ~3,172 |
-| Crash Site | 14.00% | ~3,172 |
+| In the Pipe, Five by Five | 14.00% | ~3,173 |
+| Crash Site | 14.00% | ~3,173 |
 | Two Heads Are Better Than One | 13.00% | ~2,946 |
 | Power Up | 13.00% | ~2,946 |
 | Terminated | 12.00% | ~2,719 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 959)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,660 (Ranked 153)  
+Progressed: 22,661 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-19 | 22,569 | 82 |
 | 2024-01-20 | 22,600 | 82 |
 | 2024-01-21 | 22,649 | 82 |
-| 2024-01-22 | 22,660 | 82 |
+| 2024-01-22 | 22,661 | 82 |
 ## Awards
 Max (Amazing Characters): 141  (Ranked 343)  
 Sum: 682 (Ranked 316)  

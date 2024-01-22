@@ -6087,7 +6087,7 @@
       "Count": 561
     }
   ],
-  "EOS_Progressed": 14283,
+  "EOS_Progressed": 14284,
   "EOS_Completed": 355,
   "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 4,
@@ -25947,6 +25947,11 @@
       "Time": "2024-01-22T11:10:41.2594994+00:00",
       "NumProgressed": 14283,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-22T12:10:11.5562372+00:00",
+      "NumProgressed": 14284,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 15,
@@ -25990,7 +25995,7 @@
       "Name": "Chit Chatter",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 428
+      "UsersEstimate": 429
     },
     {
       "ID": "Constructor",
@@ -26070,14 +26075,14 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8427
+      "UsersEstimate": 8428
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14283,
+      "Progressed": 14284,
       "Completed": 355
     }
   ],
@@ -26085,8 +26090,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-21T20:59:04.8427749+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:10:41.2594986+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:10:11.5562366+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:59:53.9993279+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:10:41.2595929+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:59:41.0483997+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:10:11.5563512+00:00"
 }

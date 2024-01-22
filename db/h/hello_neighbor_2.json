@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 213,
+  "Ranking_EOS_NewPlayers": 212,
   "Ranking_EOS_NewCompleters": 46,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -519,11 +519,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4137,
+  "EOS_Progressed": 4138,
   "EOS_Completed": 150,
-  "EOS_NewPlayers": 67,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 6,
-  "EOS_Completed_Percentage": 3.63,
+  "EOS_Completed_Percentage": 3.62,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:09:02.7979813+00:00",
@@ -7644,6 +7644,11 @@
       "Time": "2024-01-22T11:04:24.412685+00:00",
       "NumProgressed": 4137,
       "NumCompleted": 150
+    },
+    {
+      "Time": "2024-01-22T12:04:15.1033962+00:00",
+      "NumProgressed": 4138,
+      "NumCompleted": 150
     }
   ],
   "TotalAchievements": 14,
@@ -7695,7 +7700,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1365
+      "UsersEstimate": 1366
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7703,7 +7708,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1283
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7759,14 +7764,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3268
+      "UsersEstimate": 3269
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4137,
+      "Progressed": 4138,
       "Completed": 150
     }
   ],
@@ -7774,8 +7779,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-21T13:58:32.7616794+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:04:24.4126844+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:04:15.1033958+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:00:05.6334017+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:04:24.4127326+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:59:52.7588114+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:04:15.10344+00:00"
 }

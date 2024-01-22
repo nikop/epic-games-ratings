@@ -257,7 +257,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 45341,
+  "EOS_Progressed": 45342,
   "EOS_Completed": 251,
   "EOS_NewPlayers": 180,
   "EOS_NewCompleters": 2,
@@ -21637,6 +21637,11 @@
       "Time": "2024-01-22T10:03:27.9223023+00:00",
       "NumProgressed": 45341,
       "NumCompleted": 251
+    },
+    {
+      "Time": "2024-01-22T12:04:30.1030284+00:00",
+      "NumProgressed": 45342,
+      "NumCompleted": 251
     }
   ],
   "TotalAchievements": 44,
@@ -21648,7 +21653,7 @@
       "Name": "Secret Seeker",
       "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 25844
+      "UsersEstimate": 25845
     },
     {
       "ID": "ACHIEVEMENT_10",
@@ -21768,7 +21773,7 @@
       "Name": "First Steps",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 36273
+      "UsersEstimate": 36274
     },
     {
       "ID": "ACHIEVEMENT_25",
@@ -21824,7 +21829,7 @@
       "Name": "Soul Reaver",
       "Percentage": 23,
       "XP": 40,
-      "UsersEstimate": 10428
+      "UsersEstimate": 10429
     },
     {
       "ID": "ACHIEVEMENT_31",
@@ -21840,7 +21845,7 @@
       "Name": "Bird of Prey",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 16776
+      "UsersEstimate": 16777
     },
     {
       "ID": "ACHIEVEMENT_33",
@@ -21848,7 +21853,7 @@
       "Name": "Clinging to Life",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 8161
+      "UsersEstimate": 8162
     },
     {
       "ID": "ACHIEVEMENT_34",
@@ -21920,7 +21925,7 @@
       "Name": "Control the Shadows",
       "Percentage": 67,
       "XP": 10,
-      "UsersEstimate": 30378
+      "UsersEstimate": 30379
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -21984,7 +21989,7 @@
       "Name": "Awakening",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 42167
+      "UsersEstimate": 42168
     },
     {
       "ID": "ACHIEVEMENT_9",
@@ -21992,14 +21997,14 @@
       "Name": "Revenant",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 23577
+      "UsersEstimate": 23578
     }
   ],
   "AchievementSets": [
     {
       "ID": "db84117",
       "IsBase": true,
-      "Progressed": 45341,
+      "Progressed": 45342,
       "Completed": 251
     }
   ],
@@ -22007,8 +22012,8 @@
   "FirstSeenRating": "2022-08-18T20:02:23.7159824+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.0141597+00:00",
   "LastChanged": "2023-12-25T15:03:11.7209746+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:04:39.4418802+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:04:30.103028+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.3614153+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:04:01.8645664+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:04:39.4420047+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:03:51.6704613+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:04:30.1031409+00:00"
 }

@@ -1,7 +1,7 @@
 # Forspoken
 [Store](https://store.epicgames.com/en-US/p/forspoken)  
 [View Rawdata](../../db/f/forspoken.json)  
-Rating: 4.16 (Ranked 1,001)  
+Rating: 4.16 (Ranked 1,002)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -12,7 +12,7 @@ Rating: 4.16 (Ranked 1,001)
 | Knock 'Em Dead | 8.00% | ~3,811 |
 | Pilgrimage: Initiate | 8.00% | ~3,811 |
 | Hell of a Run | 8.00% | ~3,811 |
-| Call of the Fount: Baptized | 7.00% | ~3,334 |
+| Call of the Fount: Baptized | 7.00% | ~3,335 |
 | No Mercy | 6.00% | ~2,858 |
 | Explorer: Seeker | 6.00% | ~2,858 |
 | Help Me Out Here | 6.00% | ~2,858 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 1,001)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,635 (Ranked 129)  
+Progressed: 47,636 (Ranked 129)  
 Completed: 4 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 4 (0.01%) (Ranked 383)
 | 2024-01-19 | 47,505 | 4 |
 | 2024-01-20 | 47,566 | 4 |
 | 2024-01-21 | 47,620 | 4 |
-| 2024-01-22 | 47,635 | 4 |
+| 2024-01-22 | 47,636 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 456)  
 Sum: 79 (Ranked 489)  

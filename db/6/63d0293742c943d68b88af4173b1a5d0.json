@@ -4,7 +4,7 @@
   "ProductSlug": "whos-your-daddy-403b04",
   "Ranking_EOS_Progress": 311,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 182,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 925,
+  "EOS_Progressed": 926,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2929,6 +2929,11 @@
       "Time": "2024-01-22T11:04:32.5039471+00:00",
       "NumProgressed": 925,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T12:04:23.1566913+00:00",
+      "NumProgressed": 926,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -2941,7 +2946,7 @@
       "Name": "Fruit Based",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "4",
@@ -2997,7 +3002,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 268
+      "UsersEstimate": 269
     },
     {
       "ID": "REMAKE_002",
@@ -3037,7 +3042,7 @@
       "Name": "Deez Buffs Make Me Go Nuts",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 231
+      "UsersEstimate": 232
     },
     {
       "ID": "Remake_008",
@@ -3053,7 +3058,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 240
+      "UsersEstimate": 241
     },
     {
       "ID": "Remake_010",
@@ -3109,7 +3114,7 @@
       "Name": "Choked on Balls",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Remake_17",
@@ -3141,7 +3146,7 @@
       "Name": "Dug Straight Down",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Remake_21",
@@ -3164,14 +3169,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 925,
+      "Progressed": 926,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:04:32.5039466+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:04:23.1566906+00:00",
   "LastUpdate_AppInfo": "2024-01-16T02:57:12.3183187+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:58:28.7421777+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:04:32.5040045+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:58:15.5250209+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:04:23.1567664+00:00"
 }

@@ -4,10 +4,10 @@
   "ProductSlug": "warhammer-40000-gladius-relics-of-war",
   "Ranking_Rating": 746,
   "Ranking_Popularity": 303,
-  "Ranking_PopularitySum": 297,
+  "Ranking_PopularitySum": 296,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 556,
+  "Ranking_EOS_NewPlayers": 557,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-11-12T16:00:00+00:00",
@@ -2518,10 +2518,16 @@
       "Rating": 4.42,
       "NumberOfAwards": 811,
       "NumberOfAwardsMax": 201
+    },
+    {
+      "Time": "2024-01-22T12:04:00.6803134+00:00",
+      "Rating": 4.42,
+      "NumberOfAwards": 813,
+      "NumberOfAwardsMax": 201
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 811,
+  "NumberOfAwards": 813,
   "NumberOfAwardsMax": 201,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -2565,7 +2571,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 69
+      "Count": 71
     },
     {
       "Text": "This game has Unique Visuals",
@@ -2603,8 +2609,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:36.3681248+00:00",
-  "LastChanged": "2024-01-21T14:03:14.599396+00:00",
+  "LastChanged": "2024-01-22T12:04:00.6803132+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.9160737+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:04:11.0157311+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:04:37.666701+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:04:00.6803142+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:04:28.3574285+00:00"
 }

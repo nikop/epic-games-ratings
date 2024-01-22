@@ -22,8 +22,8 @@
 | Bounty Hunter | 14.00% | ~17 |
 | All Geared Up | 12.00% | ~15 |
 | The End | 12.00% | ~15 |
+| Good Deed | 12.00% | ~15 |
 | Battle Ready | 12.00% | ~15 |
-| Good Deed | 11.00% | ~13 |
 | Music Collector | 9.00% | ~11 |
 | Cooking Maestro | 8.00% | ~10 |
 | Pro Explorers | 8.00% | ~10 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 174,
+  "Ranking_EOS_NewPlayers": 176,
   "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -147,7 +147,7 @@
   "Tags": [],
   "EOS_Progressed": 2948,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 164,
+  "EOS_NewPlayers": 162,
   "EOS_NewCompleters": 20,
   "EOS_Completed_Percentage": 7.8,
   "EosHistory": [
@@ -7955,9 +7955,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 590
+      "UsersEstimate": 619
     },
     {
       "ID": "META_RESULT_1-4",
@@ -8108,8 +8108,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-21T16:59:53.3167431+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:08:01.5810726+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:07:52.8553319+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:00:22.2630904+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:08:01.5811302+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:00:09.920147+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:07:52.8553808+00:00"
 }

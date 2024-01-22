@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 76,
   "Ranking_EOS_Completed": 372,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 3868,
   "Store": {
     "ReleaseDate": "2022-05-12T15:00:00+00:00",
@@ -343,9 +343,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239389,
+  "EOS_Progressed": 239388,
   "EOS_Completed": 44,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": -5,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29333,6 +29333,11 @@
       "Time": "2024-01-22T11:09:48.6358245+00:00",
       "NumProgressed": 239389,
       "NumCompleted": 44
+    },
+    {
+      "Time": "2024-01-22T12:09:18.8342619+00:00",
+      "NumProgressed": 239388,
+      "NumCompleted": 44
     }
   ],
   "TotalAchievements": 34,
@@ -29568,7 +29573,7 @@
       "Name": "SNEAKY SNEAKY",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52666
+      "UsersEstimate": 52665
     },
     {
       "ID": "TACTICIAN",
@@ -29592,7 +29597,7 @@
       "Name": "TRICK UP YOUR SLEEVE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 52666
+      "UsersEstimate": 52665
     },
     {
       "ID": "TUNINGMANIAC",
@@ -29615,15 +29620,15 @@
     {
       "ID": "11popfh",
       "IsBase": true,
-      "Progressed": 239389,
+      "Progressed": 239388,
       "Completed": 44
     }
   ],
   "FirstSeen": "2022-07-22T20:20:34.1583383+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.3275553+00:00",
   "LastChanged": "2023-12-24T20:57:53.5122809+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:09:48.635824+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:09:18.8342613+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:58.314098+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:58:20.7108643+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:09:48.6359824+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:58:06.6866892+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:09:18.8344056+00:00"
 }

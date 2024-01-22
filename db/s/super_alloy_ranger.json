@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 420,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 161,
+  "EOS_Progressed": 162,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -791,6 +791,11 @@
       "Time": "2024-01-22T09:09:08.5789971+00:00",
       "NumProgressed": 161,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T12:09:42.8727077+00:00",
+      "NumProgressed": 162,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -818,7 +823,7 @@
       "Name": "The Abyss Conqueror",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achi_04",
@@ -898,7 +903,7 @@
       "Name": "Grand Escape",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achi_14",
@@ -930,15 +935,15 @@
       "Name": "Space Warrior: Prologue",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 14
+      "UsersEstimate": 15
     },
     {
       "ID": "Achi_18",
       "SetID": "51a97k7",
       "Name": "Gear Up",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "Achi_19",
@@ -970,7 +975,7 @@
       "Name": "Iceberg Theory",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 121
+      "UsersEstimate": 122
     },
     {
       "ID": "Achi_23",
@@ -1008,17 +1013,17 @@
       "ID": "Achi_27",
       "SetID": "51a97k7",
       "Name": "GG EZ",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 83
     },
     {
       "ID": "Achi_28",
       "SetID": "51a97k7",
       "Name": "Ka-Ching!",
-      "Percentage": 29,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "Achi_29",
@@ -1032,9 +1037,9 @@
       "ID": "Achi_30",
       "SetID": "51a97k7",
       "Name": "A Grand Show",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 105
+      "UsersEstimate": 104
     },
     {
       "ID": "Achi_31",
@@ -1074,7 +1079,7 @@
       "Name": "Stop Right There",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 43
+      "UsersEstimate": 44
     },
     {
       "ID": "Achi_36",
@@ -1201,7 +1206,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 161,
+      "Progressed": 162,
       "Completed": 1
     }
   ],
@@ -1209,8 +1214,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:10:12.6592985+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:09:42.8727073+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.025029+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:01:18.6782539+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:10:12.6593322+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:01:07.0366973+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:09:42.872749+00:00"
 }

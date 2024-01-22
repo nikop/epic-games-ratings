@@ -1559,9 +1559,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 430551,
+  "EOS_Progressed": 430552,
   "EOS_Completed": 557,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 131,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -19974,6 +19974,11 @@
       "Time": "2024-01-22T09:08:31.7485775+00:00",
       "NumProgressed": 430551,
       "NumCompleted": 557
+    },
+    {
+      "Time": "2024-01-22T12:08:54.5941253+00:00",
+      "NumProgressed": 430552,
+      "NumCompleted": 557
     }
   ],
   "TotalAchievements": 41,
@@ -20025,7 +20030,7 @@
       "Name": "Spirit Guide",
       "Percentage": 42,
       "XP": 60,
-      "UsersEstimate": 180831
+      "UsersEstimate": 180832
     },
     {
       "ID": "ACH_BOSS_TOSHI",
@@ -20033,7 +20038,7 @@
       "Name": "A Leader Walks Alone",
       "Percentage": 26,
       "XP": 60,
-      "UsersEstimate": 111943
+      "UsersEstimate": 111944
     },
     {
       "ID": "ACH_BOSS_WOODSMITH",
@@ -20041,7 +20046,7 @@
       "Name": "A Heavy Hammer",
       "Percentage": 30,
       "XP": 60,
-      "UsersEstimate": 129165
+      "UsersEstimate": 129166
     },
     {
       "ID": "ACH_CHALLENGE_ARROW",
@@ -20073,7 +20078,7 @@
       "Name": "Quick Draw",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 129165
+      "UsersEstimate": 129166
     },
     {
       "ID": "ACH_CHALLENGE_DASH_KILL",
@@ -20097,7 +20102,7 @@
       "Name": "Weigh Them Down",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 137776
+      "UsersEstimate": 137777
     },
     {
       "ID": "ACH_CHALLENGE_MULTISHOT",
@@ -20105,7 +20110,7 @@
       "Name": "Bow Master",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 111943
+      "UsersEstimate": 111944
     },
     {
       "ID": "ACH_CHALLENGE_PARRY_KILL",
@@ -20153,7 +20158,7 @@
       "Name": "Found a Friend",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 409023
+      "UsersEstimate": 409024
     },
     {
       "ID": "ACH_JIZO_ALL",
@@ -20193,7 +20198,7 @@
       "Name": "The Lonely Path",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111943
+      "UsersEstimate": 111944
     },
     {
       "ID": "ACH_LOCATION_VILLAGE",
@@ -20201,7 +20206,7 @@
       "Name": "Haikyo",
       "Percentage": 80,
       "XP": 5,
-      "UsersEstimate": 344441
+      "UsersEstimate": 344442
     },
     {
       "ID": "ACH_MAIL_ALL",
@@ -20233,7 +20238,7 @@
       "Name": "Taro\u0027s Love",
       "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 198053
+      "UsersEstimate": 198054
     },
     {
       "ID": "ACH_RELIC_HAMMER",
@@ -20257,7 +20262,7 @@
       "Name": "Toshi\u0027s Fear",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 120554
+      "UsersEstimate": 120555
     },
     {
       "ID": "ACH_RELIC_KNIFE",
@@ -20273,7 +20278,7 @@
       "Name": "Taro\u0027s Regret",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 189442
+      "UsersEstimate": 189443
     },
     {
       "ID": "ACH_RELIC_OX",
@@ -20281,7 +20286,7 @@
       "Name": "Adira\u0027s Love",
       "Percentage": 34,
       "XP": 5,
-      "UsersEstimate": 146387
+      "UsersEstimate": 146388
     },
     {
       "ID": "ACH_RELIC_VILLAGE_CREST",
@@ -20312,15 +20317,15 @@
     {
       "ID": "231ghgk",
       "IsBase": true,
-      "Progressed": 430551,
+      "Progressed": 430552,
       "Completed": 557
     }
   ],
   "FirstSeen": "2022-07-22T20:19:51.8985804+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.4226134+00:00",
   "LastChanged": "2024-01-21T22:57:16.168016+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:09:23.423266+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:08:54.594124+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:27.3802595+00:00",
-  "LastUpdate_Ratings": "2024-01-22T10:57:52.6630373+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:09:23.4234084+00:00"
+  "LastUpdate_Ratings": "2024-01-22T11:57:36.0556117+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:08:54.5942763+00:00"
 }

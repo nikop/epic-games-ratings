@@ -1,12 +1,12 @@
 # Ghostbusters: Spirits Unleashed
 [Store](https://store.epicgames.com/en-US/p/ghostbusters-spirits-unleashed)  
 [View Rawdata](../../db/g/ghostbusters__spirits_unleashed.json)  
-Rating: 4.51 (Ranked 600)  
+Rating: 4.51 (Ranked 599)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Stylish | 12.00% | ~4,066 |
-| Meticulously Efficient | 9.00% | ~3,049 |
+| Meticulously Efficient | 9.00% | ~3,050 |
 | Advancement | 8.00% | ~2,711 |
 | Swift Rift Removers | 7.00% | ~2,372 |
 | I collect Spores, Molds, and Fungi | 6.00% | ~2,033 |
@@ -22,18 +22,18 @@ Rating: 4.51 (Ranked 600)
 | Daily Dose | 4.00% | ~1,355 |
 | Ghostbuster In Training | 4.00% | ~1,355 |
 | Right back at ya | 4.00% | ~1,355 |
-| Animated | 3.00% | ~1,016 |
-| Back Off | 3.00% | ~1,016 |
-| We have the best insurance | 3.00% | ~1,016 |
-| Ectoplasmic Entity | 3.00% | ~1,016 |
-| Icing on the Cake | 3.00% | ~1,016 |
-| Legions | 3.00% | ~1,016 |
-| Pesky Jerks | 3.00% | ~1,016 |
-| Rift Destroyer | 3.00% | ~1,016 |
-| Seasoned | 3.00% | ~1,016 |
-| Side Hustle | 3.00% | ~1,016 |
-| Summoner | 3.00% | ~1,016 |
-| Welcome to the Crew | 3.00% | ~1,016 |
+| Animated | 3.00% | ~1,017 |
+| Back Off | 3.00% | ~1,017 |
+| We have the best insurance | 3.00% | ~1,017 |
+| Ectoplasmic Entity | 3.00% | ~1,017 |
+| Icing on the Cake | 3.00% | ~1,017 |
+| Legions | 3.00% | ~1,017 |
+| Pesky Jerks | 3.00% | ~1,017 |
+| Rift Destroyer | 3.00% | ~1,017 |
+| Seasoned | 3.00% | ~1,017 |
+| Side Hustle | 3.00% | ~1,017 |
+| Summoner | 3.00% | ~1,017 |
+| Welcome to the Crew | 3.00% | ~1,017 |
 | Collector | 2.00% | ~678 |
 | Escape Artist | 2.00% | ~678 |
 | Reckless | 2.00% | ~678 |
@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 600)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,882 (Ranked 142)  
+Progressed: 33,885 (Ranked 142)  
 Completed: 71 (0.21%) (Ranked 285)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,7 +334,7 @@ Completed: 71 (0.21%) (Ranked 285)
 | 2024-01-19 | 33,801 | 71 |
 | 2024-01-20 | 33,837 | 71 |
 | 2024-01-21 | 33,868 | 71 |
-| 2024-01-22 | 33,882 | 71 |
+| 2024-01-22 | 33,885 | 71 |
 ## Awards
 Max (Great for Quick Sessions): 329  (Ranked 257)  
 Sum: 2,986 (Ranked 187)  

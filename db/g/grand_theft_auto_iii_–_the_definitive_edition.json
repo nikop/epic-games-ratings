@@ -2,7 +2,7 @@
   "ID": "ec64a50e79884e28be9ac3d3cd4f5c12",
   "Name": "Grand Theft Auto III \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-iii-the-definitive-edition",
-  "Ranking_Rating": 966,
+  "Ranking_Rating": 967,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 180,
@@ -727,9 +727,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12493,
+  "EOS_Progressed": 12494,
   "EOS_Completed": 95,
-  "EOS_NewPlayers": 156,
+  "EOS_NewPlayers": 157,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -16302,6 +16302,11 @@
       "Time": "2024-01-22T09:06:14.5607838+00:00",
       "NumProgressed": 12493,
       "NumCompleted": 95
+    },
+    {
+      "Time": "2024-01-22T12:07:27.6402514+00:00",
+      "NumProgressed": 12494,
+      "NumCompleted": 95
     }
   ],
   "TotalAchievements": 29,
@@ -16313,7 +16318,7 @@
       "Name": "First Day on the Job",
       "Percentage": 83,
       "XP": 15,
-      "UsersEstimate": 10369
+      "UsersEstimate": 10370
     },
     {
       "ID": "ACH02",
@@ -16337,7 +16342,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4872
+      "UsersEstimate": 4873
     },
     {
       "ID": "ACH05",
@@ -16457,7 +16462,7 @@
       "Name": "A Gift from the King",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 999
+      "UsersEstimate": 1000
     },
     {
       "ID": "ACH20",
@@ -16544,7 +16549,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12493,
+      "Progressed": 12494,
       "Completed": 95
     }
   ],
@@ -16552,8 +16557,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-21T22:00:08.0795157+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:07:36.6562116+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:07:27.640251+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
   "LastUpdate_Ratings": "2024-01-22T11:02:06.7553025+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:07:36.6563142+00:00"
+  "LastUpdate_Achievements": "2024-01-22T12:07:27.6403379+00:00"
 }

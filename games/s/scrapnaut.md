@@ -1,33 +1,33 @@
 # Scrapnaut
 [Store](https://store.epicgames.com/en-US/p/scrapnaut)  
 [View Rawdata](../../db/s/scrapnaut.json)  
-Rating: 4.29 (Ranked 891)  
+Rating: 4.29 (Ranked 892)  
 Number of Ratings: 38  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| My New Home | 59.00% | ~401 |
-| Mushroom Picker | 54.00% | ~367 |
-| Scrap Gatherer | 53.00% | ~360 |
-| Scrapper | 44.00% | ~299 |
-| Cook | 42.00% | ~285 |
-| Teleport | 42.00% | ~285 |
+| My New Home | 59.00% | ~402 |
+| Mushroom Picker | 54.00% | ~368 |
+| Scrap Gatherer | 53.00% | ~361 |
+| Scrapper | 44.00% | ~300 |
+| Cook | 42.00% | ~286 |
+| Teleport | 42.00% | ~286 |
 | Scrap Master | 35.00% | ~238 |
-| Smelter | 34.00% | ~231 |
-| Electro-Scrap Gatherer | 31.00% | ~210 |
+| Smelter | 34.00% | ~232 |
+| Electro-Scrap Gatherer | 31.00% | ~211 |
 | Digger | 30.00% | ~204 |
 | Survivor | 30.00% | ~204 |
-| Robot Destroyer | 28.00% | ~190 |
-| Herbalist | 27.00% | ~183 |
-| Lumberjack | 27.00% | ~183 |
+| Robot Destroyer | 28.00% | ~191 |
+| Herbalist | 27.00% | ~184 |
+| Lumberjack | 27.00% | ~184 |
 | Prepper | 24.00% | ~163 |
-| Electro-Scrap Master | 22.00% | ~149 |
+| Electro-Scrap Master | 22.00% | ~150 |
 | Robot Hunter | 20.00% | ~136 |
-| Advanced Survivalist | 18.00% | ~122 |
+| Advanced Survivalist | 18.00% | ~123 |
 | Master Of Technology | 16.00% | ~109 |
 | Treasure Hunter | 15.00% | ~102 |
 | Mythical Smelter | 14.00% | ~95 |
-| Blacksmith | 12.00% | ~81 |
+| Blacksmith | 12.00% | ~82 |
 | Forest Lord | 10.00% | ~68 |
 | Fuel | 10.00% | ~68 |
 | Smelting Master | 10.00% | ~68 |
@@ -38,7 +38,7 @@ Number of Ratings: 38  (23.09.2022)
 | Forest Killer | 2.00% | ~14 |
 | Invincible | 0.40% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 679 (Ranked 338)  
+Progressed: 681 (Ranked 338)  
 Completed: 4 (0.59%) (Ranked 217)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -229,6 +229,7 @@ Completed: 4 (0.59%) (Ranked 217)
 | 2024-01-19 | 674 | 4 |
 | 2024-01-20 | 677 | 4 |
 | 2024-01-21 | 679 | 4 |
+| 2024-01-22 | 681 | 4 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 86,
   "Ranking_EOS_Completed": 275,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-06-15T15:00:00+00:00",
@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162220,
+  "EOS_Progressed": 162221,
   "EOS_Completed": 398,
-  "EOS_NewPlayers": 854,
+  "EOS_NewPlayers": 850,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -26118,6 +26118,11 @@
       "Time": "2024-01-22T11:07:54.4776949+00:00",
       "NumProgressed": 162220,
       "NumCompleted": 398
+    },
+    {
+      "Time": "2024-01-22T12:07:45.7279006+00:00",
+      "NumProgressed": 162221,
+      "NumCompleted": 398
     }
   ],
   "TotalAchievements": 31,
@@ -26137,7 +26142,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113554
+      "UsersEstimate": 113555
     },
     {
       "ID": "EAwards_10",
@@ -26161,7 +26166,7 @@
       "Name": "Last Straw",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 27577
+      "UsersEstimate": 27578
     },
     {
       "ID": "EAwards_13",
@@ -26201,7 +26206,7 @@
       "Name": "Main Event",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35688
+      "UsersEstimate": 35689
     },
     {
       "ID": "EAwards_18",
@@ -26209,7 +26214,7 @@
       "Name": "That was INTENSE",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 35688
+      "UsersEstimate": 35689
     },
     {
       "ID": "EAwards_19",
@@ -26337,7 +26342,7 @@
       "Name": "Licking his Wounds",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19466
+      "UsersEstimate": 19467
     },
     {
       "ID": "EAwards_6",
@@ -26369,14 +26374,14 @@
       "Name": "Nooks and Crannies",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 19466
+      "UsersEstimate": 19467
     }
   ],
   "AchievementSets": [
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 162220,
+      "Progressed": 162221,
       "Completed": 398
     }
   ],
@@ -26384,8 +26389,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-22T11:07:54.4776942+00:00",
+  "LastChanged_Achievements": "2024-01-22T12:07:45.7279002+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.0746018+00:00",
-  "LastUpdate_Ratings": "2024-01-22T11:01:47.603086+00:00",
-  "LastUpdate_Achievements": "2024-01-22T11:07:54.4778716+00:00"
+  "LastUpdate_Ratings": "2024-01-22T12:01:36.6807697+00:00",
+  "LastUpdate_Achievements": "2024-01-22T12:07:45.728006+00:00"
 }

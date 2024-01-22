@@ -6,7 +6,7 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,740 |
+| The Old Grandmaster | 6.00% | ~45,741 |
 | The Assault | 5.00% | ~38,117 |
 | Life is your teacher | 5.00% | ~38,117 |
 | Lightning Hands | 5.00% | ~38,117 |
@@ -36,7 +36,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Tiger on Fire | 0.70% | ~5,336 |
 | Source of Flying Daggers | 0.70% | ~5,336 |
 | Detective Story | 0.70% | ~5,336 |
-| Martial Hub | 0.70% | ~501 |
+| Martial Hub | 0.70% | ~502 |
 | Iron Money | 0.60% | ~4,574 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,574 |
 | Prodigal Child | 0.60% | ~4,574 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,341 (Ranked 26)  
+Progressed: 762,349 (Ranked 26)  
 Completed: 13,003 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 13,003 (1.71%) (Ranked 150)
 | 2024-01-19 | 761,872 | 12,994 |
 | 2024-01-20 | 762,069 | 13,000 |
 | 2024-01-21 | 762,261 | 13,003 |
-| 2024-01-22 | 762,341 | 13,003 |
+| 2024-01-22 | 762,349 | 13,003 |
 ## Awards
 Max (Great Boss Battles): 7,261  (Ranked 58)  
 Sum: 12,849 (Ranked 87)  

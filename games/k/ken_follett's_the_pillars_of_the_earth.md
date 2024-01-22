@@ -1,17 +1,17 @@
 # Ken Follett's The Pillars of the Earth
 [Store](https://store.epicgames.com/en-US/p/ken-follets-the-pillars-of-the-earth)  
 [View Rawdata](../../db/k/ken_follett's_the_pillars_of_the_earth.json)  
-Rating: 4.51 (Ranked 600)  
+Rating: 4.51 (Ranked 599)  
 Number of Ratings: 368  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~7,035 |
-| Man of politics | 34.00% | ~6,133 |
-| Friends of sorts | 32.00% | ~5,772 |
-| Yet another secret | 32.00% | ~5,772 |
+| Tattletale | 39.00% | ~7,036 |
+| Man of politics | 34.00% | ~6,134 |
+| Friends of sorts | 32.00% | ~5,773 |
+| Yet another secret | 32.00% | ~5,773 |
 | Let there be darkness | 31.00% | ~5,592 |
-| End of Book One | 29.00% | ~5,231 |
+| End of Book One | 29.00% | ~5,232 |
 | Wannabe knight | 23.00% | ~4,149 |
 | Garden of Eden | 23.00% | ~4,149 |
 | Full house | 23.00% | ~4,149 |
@@ -21,8 +21,8 @@ Number of Ratings: 368  (23.09.2022)
 | Workers' union | 18.00% | ~3,247 |
 | End of Book Two | 18.00% | ~3,247 |
 | Everything's in order | 16.00% | ~2,886 |
-| Twist of Fate | 14.00% | ~2,525 |
-| Jack was here! | 14.00% | ~2,525 |
+| Twist of Fate | 14.00% | ~2,526 |
+| Jack was here! | 14.00% | ~2,526 |
 | Exterminator | 13.00% | ~2,345 |
 | Whodunnit | 12.00% | ~2,165 |
 | Good midwife | 10.00% | ~1,804 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~541 |
 | Boy of mystery | 2.00% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,039 (Ranked 166)  
+Progressed: 18,040 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 125 (0.69%) (Ranked 207)
 | 2024-01-19 | 17,964 | 125 |
 | 2024-01-20 | 17,997 | 125 |
 | 2024-01-21 | 18,031 | 125 |
-| 2024-01-22 | 18,039 | 125 |
+| 2024-01-22 | 18,040 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 333)  
 Sum: 200 (Ranked 419)  
