@@ -6,7 +6,7 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,249 |
+| Malpractice Assurance | 15.00% | ~1,250 |
 | Lost and Found | 9.00% | ~750 |
 | Autodidact | 8.00% | ~10,677 |
 | This Belongs in a Museum | 7.00% | ~9,342 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,460 (Ranked 92)  
+Progressed: 133,461 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,10 +353,10 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,460 | 5 |
+| 2024-01-22 | 133,461 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
-Sum: 21,816 (Ranked 58)  
+Sum: 21,818 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -368,7 +368,7 @@ Diff (max vs sum): -6
 | This game is Extremely Fun | 1,536 |
 | This game has Unique Visuals | 1,485 |
 | This game has Amazing Storytelling | 1,459 |
-| This game has Quickly Understood Controls | 1,432 |
+| This game has Quickly Understood Controls | 1,434 |
 | This game has a Creative Community | 1,110 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
@@ -734,4 +734,4 @@ Diff (max vs sum): -6
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
 | 2024-01-20 | 4.69 | - | 8,048 | 21,780 |
 | 2024-01-21 | 4.69 | - | 8,057 | 21,807 |
-| 2024-01-22 | 4.69 | - | 8,062 | 21,816 |
+| 2024-01-22 | 4.69 | - | 8,062 | 21,818 |

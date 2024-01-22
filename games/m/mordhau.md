@@ -1,28 +1,28 @@
 # MORDHAU
 [Store](https://store.epicgames.com/en-US/p/mordhau)  
 [View Rawdata](../../db/m/mordhau.json)  
-Rating: 4.38 (Ranked 800)  
+Rating: 4.38 (Ranked 801)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Justice from the Grave | 49.00% | ~781,036 |
-| The ABCs | 43.00% | ~685,398 |
-| Home Run | 41.00% | ~653,520 |
-| Keeps Coming Off | 41.00% | ~653,520 |
-| Guts | 19.00% | ~302,850 |
-| Meat Grinder | 19.00% | ~302,850 |
-| Burning Man | 16.00% | ~255,032 |
-| Lived to Tell the Tale | 12.00% | ~191,274 |
-| Highlander | 10.00% | ~159,395 |
-| Unstoppable | 10.00% | ~159,395 |
-| Just a Scratch | 9.00% | ~143,456 |
-| Tough Nut to Crack | 6.00% | ~95,637 |
-| Yoink | 6.00% | ~95,637 |
-| Long List of Names | 4.00% | ~63,758 |
-| Pyromaniac | 4.00% | ~63,758 |
-| The Queen of Weapons | 4.00% | ~63,758 |
-| This isn’t Sparta | 3.00% | ~47,818 |
-| Put That Away | 3.00% | ~47,818 |
+| Justice from the Grave | 49.00% | ~781,042 |
+| The ABCs | 43.00% | ~685,404 |
+| Home Run | 41.00% | ~653,525 |
+| Keeps Coming Off | 41.00% | ~653,525 |
+| Guts | 19.00% | ~302,853 |
+| Meat Grinder | 19.00% | ~302,853 |
+| Burning Man | 16.00% | ~255,034 |
+| Lived to Tell the Tale | 12.00% | ~191,276 |
+| Highlander | 10.00% | ~159,396 |
+| Unstoppable | 10.00% | ~159,396 |
+| Just a Scratch | 9.00% | ~143,457 |
+| Tough Nut to Crack | 6.00% | ~95,638 |
+| Yoink | 6.00% | ~95,638 |
+| Long List of Names | 4.00% | ~63,759 |
+| Pyromaniac | 4.00% | ~63,759 |
+| The Queen of Weapons | 4.00% | ~63,759 |
+| This isn’t Sparta | 3.00% | ~47,819 |
+| Put That Away | 3.00% | ~47,819 |
 | Crybaby | 2.00% | ~31,879 |
 | Eagle Eye | 2.00% | ~31,879 |
 | I Know Kung Fu | 2.00% | ~31,879 |
@@ -44,7 +44,7 @@ Rating: 4.38 (Ranked 800)
 | That’s No Ordinary Cold | 0.10% | ~1,594 |
 | Stairway to Hell | 0.10% | ~1,594 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,593,950 (Ranked 7)  
+Progressed: 1,593,963 (Ranked 7)  
 Completed: 81 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 81 (0.01%) (Ranked 383)
 | 2024-01-19 | 1,592,653 | 81 |
 | 2024-01-20 | 1,593,247 | 81 |
 | 2024-01-21 | 1,593,825 | 81 |
-| 2024-01-22 | 1,593,950 | 81 |
+| 2024-01-22 | 1,593,963 | 81 |
 ## Awards
 Max (Diverse Characters): 1,254  (Ranked 148)  
 Sum: 6,464 (Ranked 137)  

@@ -5008,9 +5008,9 @@
       "Count": 103
     }
   ],
-  "EOS_Progressed": 528217,
+  "EOS_Progressed": 528229,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 3128,
+  "EOS_NewPlayers": 3129,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36883,6 +36883,11 @@
       "Time": "2024-01-22T08:04:03.002873+00:00",
       "NumProgressed": 528217,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T09:04:14.6619075+00:00",
+      "NumProgressed": 528229,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 35,
@@ -36894,7 +36899,7 @@
       "Name": "Banged",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10564
+      "UsersEstimate": 10565
     },
     {
       "ID": "ACH_BLINDFIRE",
@@ -36966,7 +36971,7 @@
       "Name": "First Blood",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10564
+      "UsersEstimate": 10565
     },
     {
       "ID": "ACH_FLACCID_PARALYSIS",
@@ -36974,7 +36979,7 @@
       "Name": "Flaccid Paralysis",
       "Percentage": 2,
       "XP": 60,
-      "UsersEstimate": 10564
+      "UsersEstimate": 10565
     },
     {
       "ID": "ACH_GROUNDED",
@@ -37070,7 +37075,7 @@
       "Name": "Push Victory",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 10564
+      "UsersEstimate": 10565
     },
     {
       "ID": "ACH_REFLEXES",
@@ -37102,7 +37107,7 @@
       "Name": "Self-destructive",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 10564
+      "UsersEstimate": 10565
     },
     {
       "ID": "ACH_SEMPER_PARATUS",
@@ -37173,15 +37178,15 @@
     {
       "ID": "1hf0o5j",
       "IsBase": true,
-      "Progressed": 528217,
+      "Progressed": 528229,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:18:15.5604867+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.3375251+00:00",
   "LastChanged": "2024-01-22T01:52:02.4654443+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:04:03.0028728+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:04:14.661907+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:03.317896+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:57:36.8426477+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:04:03.0029992+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:57:29.7309993+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:04:14.6620611+00:00"
 }

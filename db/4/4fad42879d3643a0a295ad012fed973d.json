@@ -2,9 +2,9 @@
   "ID": "4fad42879d3643a0a295ad012fed973d",
   "Name": "Ex Natura Nature Corrupted",
   "ProductSlug": "ex-natura-nature-corrupted-d92548",
-  "Ranking_EOS_Progress": 735,
+  "Ranking_EOS_Progress": 719,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 444,
+  "Ranking_EOS_NewPlayers": 420,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2024-01-20T17:30:00+00:00",
@@ -22,9 +22,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 3,
+  "EOS_Progressed": 4,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41,6 +41,11 @@
     {
       "Time": "2024-01-21T14:04:59.0805896+00:00",
       "NumProgressed": 3,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T09:05:52.6297524+00:00",
+      "NumProgressed": 4,
       "NumCompleted": 0
     }
   ],
@@ -100,7 +105,7 @@
       "ID": "ach14",
       "SetID": "cjc5n7b",
       "Name": "I Made Another Mistake",
-      "Percentage": 33,
+      "Percentage": 25,
       "XP": 160,
       "UsersEstimate": 1
     },
@@ -165,13 +170,13 @@
     {
       "ID": "cjc5n7b",
       "IsBase": true,
-      "Progressed": 3,
+      "Progressed": 4,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-17T15:03:59.363264+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:05:40.5647082+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:05:52.629752+00:00",
   "LastUpdate_AppInfo": "2024-01-17T14:57:10.9253137+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:59:43.4468521+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:05:40.5647205+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:59:36.6036873+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:05:52.6297608+00:00"
 }

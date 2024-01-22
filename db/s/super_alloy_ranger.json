@@ -4,7 +4,7 @@
   "ProductSlug": "super-alloy-ranger-4252cc",
   "Ranking_EOS_Progress": 459,
   "Ranking_EOS_Completed": 213,
-  "Ranking_EOS_NewPlayers": 486,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-30T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 160,
+  "EOS_Progressed": 161,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.62,
   "EosHistory": [
@@ -786,6 +786,11 @@
       "Time": "2024-01-17T00:08:30.3557042+00:00",
       "NumProgressed": 160,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T09:09:08.5789971+00:00",
+      "NumProgressed": 161,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 50,
@@ -827,9 +832,9 @@
       "ID": "Achi_05",
       "SetID": "51a97k7",
       "Name": "The Fortress Conqueror",
-      "Percentage": 8,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "Achi_06",
@@ -899,9 +904,9 @@
       "ID": "Achi_14",
       "SetID": "51a97k7",
       "Name": "Break Through the Forbidden",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_15",
@@ -933,23 +938,23 @@
       "Name": "Gear Up",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Achi_19",
       "SetID": "51a97k7",
       "Name": "Breaking the Limit",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_20",
       "SetID": "51a97k7",
       "Name": "Freshen Up",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 85
     },
     {
       "ID": "Achi_21",
@@ -965,15 +970,15 @@
       "Name": "Iceberg Theory",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 120
+      "UsersEstimate": 121
     },
     {
       "ID": "Achi_23",
       "SetID": "51a97k7",
       "Name": "The Hidden Secret",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 19
     },
     {
       "ID": "Achi_24",
@@ -989,7 +994,7 @@
       "Name": "Mr. Want It All",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "Achi_26",
@@ -1013,7 +1018,7 @@
       "Name": "Ka-Ching!",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "Achi_29",
@@ -1029,7 +1034,7 @@
       "Name": "A Grand Show",
       "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "Achi_31",
@@ -1059,9 +1064,9 @@
       "ID": "Achi_34",
       "SetID": "51a97k7",
       "Name": "Hydrophobia",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "Achi_35",
@@ -1171,9 +1176,9 @@
       "ID": "Achi_48",
       "SetID": "51a97k7",
       "Name": "Bye Bye Gravity",
-      "Percentage": 3,
+      "Percentage": 2,
       "XP": 35,
-      "UsersEstimate": 5
+      "UsersEstimate": 3
     },
     {
       "ID": "Achi_49",
@@ -1196,7 +1201,7 @@
     {
       "ID": "51a97k7",
       "IsBase": true,
-      "Progressed": 160,
+      "Progressed": 161,
       "Completed": 1
     }
   ],
@@ -1204,8 +1209,8 @@
   "FirstSeenRating": "2023-05-02T05:59:19.9991149+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:20.3185128+00:00",
   "LastChanged": "2023-05-02T05:59:19.999115+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:09:14.4994416+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:09:08.5789968+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.025029+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:00:04.0540533+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:09:14.4994866+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:59:55.7731911+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:09:08.5790307+00:00"
 }

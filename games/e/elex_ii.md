@@ -6,35 +6,35 @@ Number of Ratings: 124  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 45.00% | ~125 |
-| Best Buddy | 39.00% | ~108 |
-| Role Model | 36.00% | ~100 |
+| Entrepreneur | 45.00% | ~126 |
+| Best Buddy | 39.00% | ~109 |
 | Civilian | 36.00% | ~100 |
+| Role Model | 35.00% | ~98 |
 | Creator | 33.00% | ~92 |
 | Military Leader | 31.00% | ~86 |
 | Festival-goer | 29.00% | ~81 |
-| Peddler | 26.00% | ~72 |
-| Commander | 26.00% | ~72 |
+| Peddler | 26.00% | ~73 |
+| Commander | 26.00% | ~73 |
 | Irissa's Fate | 22.00% | ~61 |
-| Long-Haul Flyer | 21.00% | ~58 |
-| Family Reunion | 21.00% | ~58 |
+| Long-Haul Flyer | 20.00% | ~56 |
+| Family Reunion | 20.00% | ~56 |
 | Pass A38 | 19.00% | ~53 |
 | Eternal Oblivion | 18.00% | ~50 |
-| Banker | 17.00% | ~47 |
+| Banker | 16.00% | ~45 |
 | Storyteller | 15.00% | ~42 |
 | Globetrotter | 15.00% | ~42 |
 | Berserker | 15.00% | ~42 |
 | Alb | 13.00% | ~36 |
 | Hunter | 13.00% | ~36 |
-| Perfectionist | 12.00% | ~33 |
-| Lover | 12.00% | ~33 |
 | Beam Me Up | 11.00% | ~31 |
 | Free as a Bird | 11.00% | ~31 |
+| Perfectionist | 11.00% | ~31 |
+| Lover | 11.00% | ~31 |
 | Treasure Hunter | 9.00% | ~25 |
 | Weaponsmith | 8.00% | ~22 |
 | Hotshot | 8.00% | ~22 |
 | Detective | 8.00% | ~22 |
-| Cleric | 7.00% | ~19 |
+| Cleric | 7.00% | ~20 |
 | Alchemist | 5.00% | ~14 |
 | Self-Sufficient | 5.00% | ~14 |
 | Unbreakable | 5.00% | ~14 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 278 (Ranked 417)  
+Progressed: 279 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -97,6 +97,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 266 | 0 |
 | 2024-01-20 | 272 | 0 |
 | 2024-01-21 | 278 | 0 |
+| 2024-01-22 | 279 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

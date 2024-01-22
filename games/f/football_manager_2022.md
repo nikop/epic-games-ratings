@@ -6,41 +6,41 @@ Number of Ratings: 19,160  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Clean Sheet | 50.00% | ~239,814 |
-| He's Signed! | 50.00% | ~239,814 |
-| First Victory | 50.00% | ~239,814 |
-| He's Sold! | 48.00% | ~230,222 |
-| I'm The Boss! | 42.00% | ~201,444 |
-| Hat-trick | 41.00% | ~196,648 |
-| Scoring Streak | 38.00% | ~182,259 |
+| Clean Sheet | 50.00% | ~239,816 |
+| He's Signed! | 50.00% | ~239,816 |
+| First Victory | 50.00% | ~239,816 |
+| He's Sold! | 48.00% | ~230,223 |
+| I'm The Boss! | 42.00% | ~201,445 |
+| Hat-trick | 41.00% | ~196,649 |
+| Scoring Streak | 38.00% | ~182,260 |
 | Unbeatable! | 37.00% | ~177,463 |
 | Thumping | 37.00% | ~177,463 |
-| Superb Dressing Room Atmosphere | 35.00% | ~167,870 |
-| Total Support | 32.00% | ~153,481 |
-| Record Signing | 32.00% | ~153,481 |
-| He's a Natural | 31.00% | ~148,685 |
-| Millionaire's Club | 31.00% | ~148,685 |
+| Superb Dressing Room Atmosphere | 35.00% | ~167,871 |
+| Total Support | 32.00% | ~153,482 |
+| Record Signing | 32.00% | ~153,482 |
+| He's a Natural | 31.00% | ~148,686 |
+| Millionaire's Club | 31.00% | ~148,686 |
 | Team Performance | 30.00% | ~143,889 |
-| Parked The Bus | 29.00% | ~139,092 |
-| Shrewd Spender | 29.00% | ~139,092 |
-| Star Man | 29.00% | ~139,092 |
-| Attack! | 28.00% | ~134,296 |
+| Parked The Bus | 29.00% | ~139,093 |
+| Shrewd Spender | 29.00% | ~139,093 |
+| Star Man | 29.00% | ~139,093 |
+| Attack! | 28.00% | ~134,297 |
 | You're On Fire | 27.00% | ~129,500 |
 | Tremendous Trio | 27.00% | ~129,500 |
 | Record Sale | 27.00% | ~129,500 |
 | On A Roll | 26.00% | ~124,704 |
 | Unstoppable Force | 26.00% | ~124,704 |
-| Armchair Expert | 25.00% | ~119,907 |
+| Armchair Expert | 25.00% | ~119,908 |
 | Fantastic Five | 24.00% | ~115,111 |
 | Full Faith | 24.00% | ~115,111 |
 | Iron Curtain | 24.00% | ~115,111 |
 | The Boss | 24.00% | ~115,111 |
 | Top Of The Class | 23.00% | ~110,315 |
 | Goal Machine | 23.00% | ~110,315 |
-| Splashing The Cash | 22.00% | ~105,518 |
-| Clean Bill of Health | 22.00% | ~105,518 |
-| What A Goal! | 22.00% | ~105,518 |
-| Cup Glory! | 22.00% | ~105,518 |
+| Splashing The Cash | 22.00% | ~105,519 |
+| Clean Bill of Health | 22.00% | ~105,519 |
+| What A Goal! | 22.00% | ~105,519 |
+| Cup Glory! | 22.00% | ~105,519 |
 | Irresistible Force | 20.00% | ~95,926 |
 | Excellent Match Cohesion | 20.00% | ~95,926 |
 | Do The Double | 19.00% | ~91,130 |
@@ -49,11 +49,11 @@ Number of Ratings: 19,160  (23.09.2022)
 | Beating Expectations | 16.00% | ~76,741 |
 | Overachiever! | 16.00% | ~76,741 |
 | Rushed signing | 16.00% | ~76,741 |
-| Eyes and Ears | 15.00% | ~71,944 |
-| Window Shopping | 15.00% | ~71,944 |
+| Eyes and Ears | 15.00% | ~71,945 |
+| Window Shopping | 15.00% | ~71,945 |
 | Comeback King! | 14.00% | ~67,148 |
 | You're Up! | 13.00% | ~62,352 |
-| Money, Money, Money | 12.00% | ~57,555 |
+| Money, Money, Money | 12.00% | ~57,556 |
 | Invincible! | 11.00% | ~52,759 |
 | Superb Strike | 10.00% | ~47,963 |
 | International Superstar | 10.00% | ~47,963 |
@@ -68,8 +68,8 @@ Number of Ratings: 19,160  (23.09.2022)
 | Parked The Tank | 6.00% | ~28,778 |
 | World Renowned | 6.00% | ~28,778 |
 | Head-to-Head | 6.00% | ~28,778 |
-| Going Places | 5.00% | ~23,981 |
-| We Trust You | 5.00% | ~23,981 |
+| Going Places | 5.00% | ~23,982 |
+| We Trust You | 5.00% | ~23,982 |
 | Trophy Hoarder | 4.00% | ~19,185 |
 | National Hero | 3.00% | ~14,389 |
 | Golden Boot | 3.00% | ~14,389 |
@@ -105,7 +105,7 @@ Number of Ratings: 19,160  (23.09.2022)
 | Draft Value | 0.10% | ~480 |
 | Shoestring Budget | 0.10% | ~480 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 479,629 (Ranked 44)  
+Progressed: 479,631 (Ranked 44)  
 Completed: 22 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 22 (0.00%) (Ranked 409)
 | 2024-01-19 | 479,507 | 22 |
 | 2024-01-20 | 479,582 | 22 |
 | 2024-01-21 | 479,621 | 22 |
-| 2024-01-22 | 479,629 | 22 |
+| 2024-01-22 | 479,631 | 22 |
 ## Awards
 Max (Relaxing): 6,498  (Ranked 64)  
 Sum: 51,283 (Ranked 31)  

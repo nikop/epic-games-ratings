@@ -12,9 +12,9 @@ Number of Ratings: 96  (23.09.2022)
 | Listener | 15.00% | ~10,259 |
 | Aspen Tree | 14.00% | ~9,575 |
 | Healer | 14.00% | ~9,575 |
-| Scientist | 12.00% | ~8,207 |
-| Soldier | 12.00% | ~8,207 |
-| Cow Level | 11.00% | ~7,523 |
+| Scientist | 12.00% | ~8,208 |
+| Soldier | 12.00% | ~8,208 |
+| Cow Level | 11.00% | ~7,524 |
 | Old Friend | 10.00% | ~6,840 |
 | Herbalist | 10.00% | ~6,840 |
 | Water | 10.00% | ~6,840 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,368 |
 | Word Master | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,395 (Ranked 118)  
+Progressed: 68,396 (Ranked 118)  
 Completed: 76 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 76 (0.11%) (Ranked 314)
 | 2024-01-19 | 67,935 | 75 |
 | 2024-01-20 | 68,148 | 75 |
 | 2024-01-21 | 68,355 | 75 |
-| 2024-01-22 | 68,395 | 76 |
+| 2024-01-22 | 68,396 | 76 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

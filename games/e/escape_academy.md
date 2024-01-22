@@ -1,7 +1,7 @@
 # Escape Academy
 [Store](https://store.epicgames.com/en-US/p/escape-academy-bfc2bf)  
 [View Rawdata](../../db/e/escape_academy.json)  
-Rating: 4.43 (Ranked 731)  
+Rating: 4.44 (Ranked 712)  
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -21,3 +21,4 @@ Rating: 4.43 (Ranked 731)
 | 2024-01-17 | 4.43 | 0 | 0 |
 | 2024-01-19 | 4.44 | 0 | 0 |
 | 2024-01-21 | 4.43 | 0 | 0 |
+| 2024-01-22 | 4.44 | 0 | 0 |

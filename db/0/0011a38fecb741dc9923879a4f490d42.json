@@ -4,7 +4,7 @@
   "ProductSlug": "deadwater-saloon-391b9d",
   "Ranking_EOS_Progress": 590,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-21T13:00:00+00:00",
@@ -282,9 +282,9 @@
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "631i43e",
       "Name": "Might Show Up",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -314,9 +314,9 @@
       "ID": "NEW_ACHIEVEMENT_1_19",
       "SetID": "631i43e",
       "Name": "Humble Brag",
-      "Percentage": 0,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_2",
@@ -370,9 +370,9 @@
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "631i43e",
       "Name": "Watch Your Back",
-      "Percentage": 28,
+      "Percentage": 31,
       "XP": 15,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
@@ -738,9 +738,9 @@
       "ID": "NEW_ACHIEVEMENT_3_0",
       "SetID": "631i43e",
       "Name": "Had It Coming",
-      "Percentage": 5,
+      "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     }
   ],
   "AchievementSets": [
@@ -753,8 +753,8 @@
   ],
   "FirstSeen": "2023-10-08T01:44:07.0326373+00:00",
   "FirstSeenAchievements": "2023-08-30T10:02:22.7238107+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:09:55.1879046+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:09:48.6273405+00:00",
   "LastUpdate_AppInfo": "2024-01-17T22:57:21.0521021+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:58:39.5326648+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:09:55.1879432+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:58:34.1035666+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:09:48.6273812+00:00"
 }

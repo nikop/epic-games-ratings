@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 236,
+  "EOS_Progressed": 237,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -999,6 +999,11 @@
       "Time": "2024-01-22T01:58:31.282848+00:00",
       "NumProgressed": 236,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T09:04:07.9508257+00:00",
+      "NumProgressed": 237,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -1041,9 +1046,9 @@
       "ID": "dl1",
       "SetID": "b1ggf28",
       "Name": "Clear Road",
-      "Percentage": 61,
+      "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 144
+      "UsersEstimate": 142
     },
     {
       "ID": "dl2",
@@ -1067,7 +1072,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 80
+      "UsersEstimate": 81
     },
     {
       "ID": "f2",
@@ -1115,7 +1120,7 @@
       "Name": "Skilled Workers",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "g2",
@@ -1163,7 +1168,7 @@
       "Name": "Infrastructure",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "jg2",
@@ -1179,7 +1184,7 @@
       "Name": "Full Load",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "jk1",
@@ -1323,7 +1328,7 @@
       "Name": "Against the Cold",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 153
+      "UsersEstimate": 154
     },
     {
       "ID": "w2",
@@ -1418,14 +1423,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 236,
+      "Progressed": 237,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:03:56.2828825+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:04:07.9508253+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:03:10.9791637+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:03:56.2829153+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:03:21.6596471+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:04:07.9508764+00:00"
 }

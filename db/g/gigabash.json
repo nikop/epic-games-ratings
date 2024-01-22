@@ -363,9 +363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 125936,
+  "EOS_Progressed": 125948,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2820,
+  "EOS_NewPlayers": 2821,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5503,6 +5503,11 @@
       "Time": "2024-01-22T08:04:25.7034182+00:00",
       "NumProgressed": 125936,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T09:04:37.6603992+00:00",
+      "NumProgressed": 125948,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5579,7 +5584,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13853
+      "UsersEstimate": 13854
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5587,7 +5592,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25187
+      "UsersEstimate": 25190
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5611,7 +5616,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18890
+      "UsersEstimate": 18892
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5651,7 +5656,7 @@
       "Name": "Ninja Reflex",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     },
     {
       "ID": "ACH_ONLINE",
@@ -5667,7 +5672,7 @@
       "Name": "All For One and One For All",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 10075
+      "UsersEstimate": 10076
     },
     {
       "ID": "ACH_RIGHT_BACK_AT_CHA",
@@ -5683,7 +5688,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11334
+      "UsersEstimate": 11335
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -5731,7 +5736,7 @@
       "Name": "Taste Your Own Medicine",
       "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 1007
+      "UsersEstimate": 1008
     },
     {
       "ID": "ACH_THUNDATROSS_STORY",
@@ -5779,7 +5784,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7556
+      "UsersEstimate": 7557
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -5787,14 +5792,14 @@
       "Name": "Zero-sum Game",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1133
+      "UsersEstimate": 1134
     }
   ],
   "AchievementSets": [
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 125936,
+      "Progressed": 125948,
       "Completed": 0
     }
   ],
@@ -5802,8 +5807,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-21T11:57:58.5726405+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:04:25.703418+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:04:37.6603987+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:58:29.4499831+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:04:25.7035048+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:58:24.4706085+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:04:37.6604581+00:00"
 }

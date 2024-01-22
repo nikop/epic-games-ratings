@@ -1,30 +1,30 @@
 # The Lord of The Rings Return to Moria
 [Store](https://store.epicgames.com/en-US/p/the-lord-of-the-rings-return-to-moria-f01344)  
 [View Rawdata](../../db/t/the_lord_of_the_rings_return_to_moria.json)  
-Rating: 4.43 (Ranked 731)  
+Rating: 4.43 (Ranked 732)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,100 |
-| Delving Onward | 69.00% | ~267,670 |
-| Miner's Helper | 59.00% | ~228,877 |
-| Suit Up | 54.00% | ~209,481 |
-| To the Mountain's Roots | 50.00% | ~193,964 |
-| Remains To Be Seen | 35.00% | ~135,774 |
-| Covered Head to Toe | 33.00% | ~128,016 |
-| Line of Azog, Ended | 32.00% | ~124,137 |
-| Risk a Little Real Light | 31.00% | ~120,257 |
-| Caradhras The Cruel | 19.00% | ~73,706 |
-| A Memory of this Place | 18.00% | ~69,827 |
+| Speak Friend | 82.00% | ~318,103 |
+| Delving Onward | 69.00% | ~267,672 |
+| Miner's Helper | 59.00% | ~228,879 |
+| Suit Up | 54.00% | ~209,483 |
+| To the Mountain's Roots | 50.00% | ~193,966 |
+| Remains To Be Seen | 35.00% | ~135,776 |
+| Covered Head to Toe | 33.00% | ~128,017 |
+| Line of Azog, Ended | 32.00% | ~124,138 |
+| Risk a Little Real Light | 31.00% | ~120,259 |
+| Caradhras The Cruel | 19.00% | ~73,707 |
+| A Memory of this Place | 18.00% | ~69,828 |
 | False King, Deposed | 14.00% | ~54,310 |
 | Baruk Khazâd! | 13.00% | ~50,431 |
 | Battering Ram | 13.00% | ~50,431 |
 | Shadow's Bane | 10.00% | ~38,793 |
-| Westgate Weaponcraft | 9.00% | ~34,913 |
+| Westgate Weaponcraft | 9.00% | ~34,914 |
 | Deeps Weaponcraft | 8.00% | ~31,034 |
 | Darkness Is Passing | 8.00% | ~31,034 |
-| Decked Out | 5.00% | ~19,396 |
-| Guarded from Despair | 5.00% | ~19,396 |
+| Decked Out | 5.00% | ~19,397 |
+| Guarded from Despair | 5.00% | ~19,397 |
 | Master of All Trades | 4.00% | ~15,517 |
 | Eregion Weaponcraft | 3.00% | ~11,638 |
 | True-silver | 3.00% | ~11,638 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 731)
 | Shielded | 1.00% | ~3,879 |
 | We're Gonna Need More Mugs | 0.20% | ~776 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,927 (Ranked 54)  
+Progressed: 387,931 (Ranked 54)  
 Completed: 389 (0.10%) (Ranked 319)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -128,7 +128,7 @@ Completed: 389 (0.10%) (Ranked 319)
 | 2024-01-19 | 386,746 | 375 |
 | 2024-01-20 | 387,317 | 381 |
 | 2024-01-21 | 387,836 | 387 |
-| 2024-01-22 | 387,927 | 389 |
+| 2024-01-22 | 387,931 | 389 |
 ## Awards
 Max (Great for Beginners): 987  (Ranked 168)  
 Sum: 5,672 (Ranked 142)  

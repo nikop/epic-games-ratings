@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Iceberg Theory | 75.00% | ~120 |
-| Gear Up | 64.00% | ~102 |
-| A Grand Show | 64.00% | ~102 |
-| Freshen Up | 54.00% | ~86 |
+| Iceberg Theory | 75.00% | ~121 |
+| Gear Up | 64.00% | ~103 |
+| A Grand Show | 64.00% | ~103 |
+| Freshen Up | 53.00% | ~85 |
 | GG EZ | 51.00% | ~82 |
-| Hydrophobia | 36.00% | ~58 |
-| Ka-Ching! | 29.00% | ~46 |
+| Hydrophobia | 35.00% | ~56 |
+| Ka-Ching! | 29.00% | ~47 |
 | Stop Right There | 27.00% | ~43 |
 | Get to the Point | 23.00% | ~37 |
 | Phew! | 15.00% | ~24 |
-| Mr. Want It All | 14.00% | ~22 |
-| The Hidden Secret | 13.00% | ~21 |
+| Mr. Want It All | 14.00% | ~23 |
 | Toe to Toe | 13.00% | ~21 |
+| The Hidden Secret | 12.00% | ~19 |
 | The Abyss Conqueror | 9.00% | ~14 |
 | Grand Escape | 9.00% | ~14 |
 | Space Warrior: Prologue | 9.00% | ~14 |
-| The Fortress Conqueror | 8.00% | ~13 |
+| The Fortress Conqueror | 7.00% | ~11 |
 | The Hypergravitational Abyss Conqueror | 6.00% | ~10 |
 | Keep it Up, rookie! | 6.00% | ~10 |
 | The Inactivated Frozen Conqueror | 5.00% | ~8 |
@@ -36,14 +36,14 @@
 | Antaeus | 4.00% | ~6 |
 | Hell of a Fight | 4.00% | ~6 |
 | The Looping Space Conqueror | 3.00% | ~5 |
-| Break Through the Forbidden | 3.00% | ~5 |
-| Breaking the Limit | 3.00% | ~5 |
 | The Truth? | 3.00% | ~5 |
 | Rapidfire | 3.00% | ~5 |
 | Air Interception | 3.00% | ~5 |
-| Bye Bye Gravity | 3.00% | ~5 |
+| Break Through the Forbidden | 2.00% | ~3 |
+| Breaking the Limit | 2.00% | ~3 |
 | Pumped Up | 2.00% | ~3 |
 | Proliferation | 2.00% | ~3 |
+| Bye Bye Gravity | 2.00% | ~3 |
 | Burn After Reading | 2.00% | ~3 |
 | Alloy Rangers, Assemble! | 1.00% | ~2 |
 | Easy Peasy | 1.00% | ~2 |
@@ -55,7 +55,7 @@
 | Bullets Fear Me | 0.60% | ~1 |
 | Super Alloy Ranger! | 0.60% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 160 (Ranked 459)  
+Progressed: 161 (Ranked 459)  
 Completed: 1 (0.62%) (Ranked 213)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -146,6 +146,7 @@ Completed: 1 (0.62%) (Ranked 213)
 | 2024-01-13 | 158 | 1 |
 | 2024-01-14 | 159 | 1 |
 | 2024-01-17 | 160 | 1 |
+| 2024-01-22 | 161 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

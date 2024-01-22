@@ -2,9 +2,9 @@
   "ID": "24bd39f944fa45ad8a953116f9908525",
   "Name": "HAAK",
   "ProductSlug": "haak-1401cb",
-  "Ranking_EOS_Progress": 530,
+  "Ranking_EOS_Progress": 529,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-06-30T02:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 77,
+  "EOS_Progressed": 78,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
@@ -389,6 +389,11 @@
       "Time": "2024-01-07T08:10:25.7312891+00:00",
       "NumProgressed": 77,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T09:10:03.6167854+00:00",
+      "NumProgressed": 78,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -398,9 +403,9 @@
       "ID": "ach_00_glove",
       "SetID": "16n29hg",
       "Name": "Fully Charged",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_01_defeatPing",
@@ -454,9 +459,9 @@
       "ID": "ach_07_foundHidden",
       "SetID": "16n29hg",
       "Name": "Hidden Corner",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_08_hpFrag3",
@@ -518,9 +523,9 @@
       "ID": "ach_15_breakTile100",
       "SetID": "16n29hg",
       "Name": "Destroyer",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "ach_16_defeatPing3",
@@ -840,7 +845,7 @@
       "Name": "Black \u0026 White",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ach_57_NiuNN",
@@ -855,20 +860,20 @@
     {
       "ID": "16n29hg",
       "IsBase": true,
-      "Progressed": 77,
+      "Progressed": 78,
       "Completed": 0
     },
     {
       "ID": "9je3g3a",
       "IsBase": false,
-      "Progressed": 16,
+      "Progressed": 17,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-30T05:57:16.6793848+00:00",
   "FirstSeenAchievements": "2023-06-20T07:03:35.8699826+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:10:10.5201936+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:10:03.616785+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.3762964+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:58:19.5924589+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:10:10.5202359+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:58:14.4662744+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:10:03.6168323+00:00"
 }

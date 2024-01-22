@@ -2009,9 +2009,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 70159,
+  "EOS_Progressed": 70160,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 603,
+  "EOS_NewPlayers": 601,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32579,6 +32579,11 @@
       "Time": "2024-01-22T08:05:42.0566605+00:00",
       "NumProgressed": 70159,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T09:05:54.1878785+00:00",
+      "NumProgressed": 70160,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -32822,7 +32827,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 18241
+      "UsersEstimate": 18242
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -32878,7 +32883,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 44200
+      "UsersEstimate": 44201
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -32958,7 +32963,7 @@
       "Name": "Setting an example",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 54724
+      "UsersEstimate": 54725
     },
     {
       "ID": "VERDUN_ACH_PIONIERS",
@@ -33061,15 +33066,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 70159,
+      "Progressed": 70160,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-20T20:58:52.9716987+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:05:42.0566602+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:05:54.1878781+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:26.9198992+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:59:40.1965204+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:05:42.0568065+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:59:33.2076609+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:05:54.1881342+00:00"
 }

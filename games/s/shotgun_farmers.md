@@ -23,10 +23,10 @@
 | Quick-Draw Pod | 21.00% | ~71 |
 | Pork Chop Express | 20.00% | ~77 |
 | Professional Survivor | 19.00% | ~64 |
+| Skin Of Your Teeth | 17.00% | ~66 |
 | Carrocketeer | 17.00% | ~66 |
 | Getting Started | 16.00% | ~62 |
-| Skin Of Your Teeth | 16.00% | ~62 |
-| This Is My Boomstick | 15.00% | ~51 |
+| This Is My Boomstick | 16.00% | ~54 |
 | Eggtraordinary | 14.00% | ~54 |
 | Oh My Gourd | 14.00% | ~47 |
 | Perfect | 14.00% | ~47 |

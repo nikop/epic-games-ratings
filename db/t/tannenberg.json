@@ -2,7 +2,7 @@
   "ID": "538de058a6d9490ea151c4cd111cc01b",
   "Name": "Tannenberg",
   "ProductSlug": "tannenberg",
-  "Ranking_Rating": 790,
+  "Ranking_Rating": 791,
   "Ranking_Popularity": 254,
   "Ranking_PopularitySum": 188,
   "Ranking_EOS_Progress": 89,
@@ -3785,9 +3785,9 @@
       "Count": 328
     }
   ],
-  "EOS_Progressed": 146241,
+  "EOS_Progressed": 146242,
   "EOS_Completed": 35,
-  "EOS_NewPlayers": 838,
+  "EOS_NewPlayers": 836,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -35030,6 +35030,11 @@
       "Time": "2024-01-22T08:09:08.6608116+00:00",
       "NumProgressed": 146241,
       "NumCompleted": 35
+    },
+    {
+      "Time": "2024-01-22T09:09:02.798969+00:00",
+      "NumProgressed": 146242,
+      "NumCompleted": 35
     }
   ],
   "TotalAchievements": 67,
@@ -35041,7 +35046,7 @@
       "Name": "Anarchist",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 99444
+      "UsersEstimate": 99445
     },
     {
       "ID": "TANNENBERG_ACH_ANYONE_ELSE",
@@ -35057,7 +35062,7 @@
       "Name": "At Least This Way I Can Win...",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 26323
+      "UsersEstimate": 26324
     },
     {
       "ID": "TANNENBERG_ACH_BEFORE_THE_LEAVES_FALL",
@@ -35073,7 +35078,7 @@
       "Name": "Bossing Around",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 65808
+      "UsersEstimate": 65809
     },
     {
       "ID": "TANNENBERG_ACH_BUTCHER",
@@ -35121,7 +35126,7 @@
       "Name": "Crack Shot",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 8774
+      "UsersEstimate": 8775
     },
     {
       "ID": "TANNENBERG_ACH_DEMOCRACY_WORKS",
@@ -35201,7 +35206,7 @@
       "Name": "Frostbite",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 65808
+      "UsersEstimate": 65809
     },
     {
       "ID": "TANNENBERG_ACH_GAVRILO_PRINCIP",
@@ -35249,7 +35254,7 @@
       "Name": "Immovable Object",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 130154
+      "UsersEstimate": 130155
     },
     {
       "ID": "TANNENBERG_ACH_INDIVISIBILITER_AC_INSEPARABILITER",
@@ -35265,7 +35270,7 @@
       "Name": "Information is Key",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 116993
+      "UsersEstimate": 116994
     },
     {
       "ID": "TANNENBERG_ACH_IVE_SEEN_IT_ALL",
@@ -35409,7 +35414,7 @@
       "Name": "Ring Ring!",
       "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 76045
+      "UsersEstimate": 76046
     },
     {
       "ID": "TANNENBERG_ACH_ROAD_TO_BERLIN",
@@ -35433,7 +35438,7 @@
       "Name": "Skynet Confirmed",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 33635
+      "UsersEstimate": 33636
     },
     {
       "ID": "TANNENBERG_ACH_STEADY_SUPPLY",
@@ -35457,7 +35462,7 @@
       "Name": "Stronghold",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 51184
+      "UsersEstimate": 51185
     },
     {
       "ID": "TANNENBERG_ACH_STRONGHOLD_DENIED",
@@ -35529,7 +35534,7 @@
       "Name": "Tourist",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 26323
+      "UsersEstimate": 26324
     },
     {
       "ID": "TANNENBERG_ACH_TO_ARMS_TO_ARMS",
@@ -35576,15 +35581,15 @@
     {
       "ID": "312pgde",
       "IsBase": true,
-      "Progressed": 146241,
+      "Progressed": 146242,
       "Completed": 35
     }
   ],
   "FirstSeen": "2022-07-22T20:24:54.2486297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:19.3256152+00:00",
   "LastChanged": "2024-01-20T18:57:46.4284344+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:09:08.6608115+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:09:02.7989686+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:30.1190344+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:58:12.9771156+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:09:08.6609665+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:58:08.0195241+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:09:02.7991261+00:00"
 }

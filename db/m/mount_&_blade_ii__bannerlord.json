@@ -11010,9 +11010,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 96717,
+  "EOS_Progressed": 96722,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1431,
+  "EOS_NewPlayers": 1427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40745,6 +40745,11 @@
       "Time": "2024-01-22T08:10:36.4050693+00:00",
       "NumProgressed": 96717,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T09:10:28.9697504+00:00",
+      "NumProgressed": 96722,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40764,7 +40769,7 @@
       "Name": "Apple of my eye",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16442
+      "UsersEstimate": 16443
     },
     {
       "ID": "Bannerlord",
@@ -40772,7 +40777,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 24179
+      "UsersEstimate": 24180
     },
     {
       "ID": "Best served cold",
@@ -40836,7 +40841,7 @@
       "Name": "Duelist",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12573
+      "UsersEstimate": 12574
     },
     {
       "ID": "Dynasty",
@@ -40884,7 +40889,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11606
+      "UsersEstimate": 11607
     },
     {
       "ID": "Great Granny",
@@ -40916,7 +40921,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 21278
+      "UsersEstimate": 21279
     },
     {
       "ID": "I can do it",
@@ -40924,7 +40929,7 @@
       "Name": "I can do it",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 15475
+      "UsersEstimate": 15476
     },
     {
       "ID": "I spit on your grave",
@@ -40948,7 +40953,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17409
+      "UsersEstimate": 17410
     },
     {
       "ID": "Kingslayer",
@@ -40964,7 +40969,7 @@
       "Name": "Know your enemy",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 6770
+      "UsersEstimate": 6771
     },
     {
       "ID": "Lance-a-lot",
@@ -40980,7 +40985,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33851
+      "UsersEstimate": 33853
     },
     {
       "ID": "Lawbringer",
@@ -40988,7 +40993,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41588
+      "UsersEstimate": 41590
     },
     {
       "ID": "Lawmaker",
@@ -40996,7 +41001,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23212
+      "UsersEstimate": 23213
     },
     {
       "ID": "Long live the Empire",
@@ -41012,7 +41017,7 @@
       "Name": "Mastery",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 7737
+      "UsersEstimate": 7738
     },
     {
       "ID": "Minor Clan",
@@ -41108,7 +41113,7 @@
       "Name": "The king is pleased",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 19343
+      "UsersEstimate": 19344
     },
     {
       "ID": "This Is Our Land",
@@ -41116,7 +41121,7 @@
       "Name": "This Is Our Land",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 16442
+      "UsersEstimate": 16443
     },
     {
       "ID": "This is Sparta",
@@ -41132,7 +41137,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29015
+      "UsersEstimate": 29017
     },
     {
       "ID": "Undercover",
@@ -41154,24 +41159,24 @@
       "ID": "What have the Romans ever done for us",
       "SetID": "den0lp1",
       "Name": "What have the Romans ever done for us?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 9672
+      "UsersEstimate": 10639
     }
   ],
   "AchievementSets": [
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 96717,
+      "Progressed": 96722,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
   "LastChanged": "2024-01-22T03:57:53.934225+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:10:36.4050692+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:10:28.9697501+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:58:07.6726985+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:10:36.4052256+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:58:03.0121619+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:10:28.9699006+00:00"
 }

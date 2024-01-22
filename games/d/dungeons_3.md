@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~953 |
 | Sacrifices! | 2.00% | ~953 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,633 (Ranked 128)  
+Progressed: 47,633 (Ranked 129)  
 Completed: 375 (0.79%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -346,12 +346,12 @@ Completed: 375 (0.79%) (Ranked 198)
 | 2024-01-21 | 47,606 | 375 |
 | 2024-01-22 | 47,633 | 375 |
 ## Awards
-Max (Great for Beginners): 400  (Ranked 243)  
-Sum: 2,857 (Ranked 192)  
-Diff (max vs sum): 51  
+Max (Great for Beginners): 402  (Ranked 242)  
+Sum: 2,859 (Ranked 192)  
+Diff (max vs sum): 50  
 | Award | Count |
 | ----- | ----- |
-| This game is Great for Beginners | 400 |
+| This game is Great for Beginners | 402 |
 | This game is Extremely Fun | 333 |
 | This game has Quickly Understood Controls | 320 |
 | This game is Highly Recommended | 318 |
@@ -631,3 +631,4 @@ Diff (max vs sum): 51
 | 2024-01-13 | 4.66 | - | 399 | 2,850 |
 | 2024-01-16 | 4.66 | - | 399 | 2,853 |
 | 2024-01-20 | 4.66 | - | 400 | 2,857 |
+| 2024-01-22 | 4.66 | - | 402 | 2,859 |

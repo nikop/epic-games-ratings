@@ -1,36 +1,36 @@
 # Iratus: Lord of the Dead
 [Store](https://store.epicgames.com/en-US/p/iratus-d0e5ba)  
 [View Rawdata](../../db/i/iratus__lord_of_the_dead.json)  
-Rating: 4.37 (Ranked 816)  
+Rating: 4.37 (Ranked 815)  
 Number of Ratings: 10,109  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Improvement | 85.00% | ~42,501 |
+| Improvement | 85.00% | ~42,502 |
 | Blood Moon | 73.00% | ~36,501 |
 | Path of the Necromancer | 65.00% | ~32,501 |
 | Chainbreaker - I | 60.00% | ~30,001 |
 | Cursed Creature | 57.00% | ~28,501 |
 | Extraction | 57.00% | ~28,501 |
 | Chainbreaker - II | 54.00% | ~27,001 |
-| Necromancer's Apprentice | 50.00% | ~25,000 |
-| Keeper of Keys | 47.00% | ~23,500 |
-| Distillation | 43.00% | ~21,500 |
-| Transmutation | 42.00% | ~21,000 |
-| Mountain King - I | 41.00% | ~20,500 |
-| Prepared Necromancer | 40.00% | ~20,000 |
-| Mountain King - II | 39.00% | ~19,500 |
-| Blind Rage | 37.00% | ~18,500 |
-| Mad Genius | 35.00% | ~17,500 |
-| Cannon Fodder - I | 34.00% | ~17,000 |
-| Soul of Lies | 34.00% | ~17,000 |
-| Bane of Mercenaries - I | 32.00% | ~16,000 |
-| Bane of Mercenaries - II | 31.00% | ~15,500 |
-| Cannon Fodder - II | 29.00% | ~14,500 |
-| Shadow Between Worlds | 29.00% | ~14,500 |
-| Bane of Monsters | 28.00% | ~14,000 |
-| Chainbreaker - III | 28.00% | ~14,000 |
-| Revealed Secrets - I | 26.00% | ~13,000 |
+| Necromancer's Apprentice | 50.00% | ~25,001 |
+| Keeper of Keys | 47.00% | ~23,501 |
+| Distillation | 43.00% | ~21,501 |
+| Transmutation | 42.00% | ~21,001 |
+| Mountain King - I | 41.00% | ~20,501 |
+| Prepared Necromancer | 40.00% | ~20,001 |
+| Mountain King - II | 39.00% | ~19,501 |
+| Blind Rage | 37.00% | ~18,501 |
+| Mad Genius | 35.00% | ~17,501 |
+| Cannon Fodder - I | 34.00% | ~17,001 |
+| Soul of Lies | 34.00% | ~17,001 |
+| Bane of Mercenaries - I | 32.00% | ~16,001 |
+| Bane of Mercenaries - II | 31.00% | ~15,501 |
+| Cannon Fodder - II | 29.00% | ~14,501 |
+| Shadow Between Worlds | 29.00% | ~14,501 |
+| Bane of Monsters | 28.00% | ~14,001 |
+| Chainbreaker - III | 28.00% | ~14,001 |
+| Revealed Secrets - I | 26.00% | ~13,001 |
 | Revealed Secrets - II | 25.00% | ~12,500 |
 | Unholy Bones | 23.00% | ~11,500 |
 | Blood Elemental | 23.00% | ~11,500 |
@@ -82,8 +82,8 @@ Number of Ratings: 10,109  (23.09.2022)
 | Unrivaled | 0.50% | ~250 |
 | Renowned Researcher | 0.10% | ~50 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 50,001 (Ranked 126)  
-Completed: 26 (0.05%) (Ranked 348)  
+Progressed: 50,002 (Ranked 126)  
+Completed: 26 (0.05%) (Ranked 347)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -359,7 +359,7 @@ Completed: 26 (0.05%) (Ranked 348)
 | 2024-01-19 | 49,740 | 26 |
 | 2024-01-20 | 49,858 | 26 |
 | 2024-01-21 | 49,969 | 26 |
-| 2024-01-22 | 50,001 | 26 |
+| 2024-01-22 | 50,002 | 26 |
 ## Awards
 Max (Character Customization): 2,167  (Ranked 117)  
 Sum: 4,234 (Ranked 163)  

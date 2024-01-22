@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 118,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 78,
-  "Ranking_EOS_NewCompleters": 75,
+  "Ranking_EOS_NewCompleters": 76,
   "Store": {
     "ReleaseDate": "2021-08-10T17:00:00+00:00",
     "PcReleaseDate": "2021-08-10T17:00:00+00:00",
@@ -686,9 +686,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 68395,
+  "EOS_Progressed": 68396,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 1219,
+  "EOS_NewPlayers": 1213,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -17791,6 +17791,11 @@
       "Time": "2024-01-22T08:05:59.7609538+00:00",
       "NumProgressed": 68395,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-22T09:06:12.0452997+00:00",
+      "NumProgressed": 68396,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T12:04:24.6023115+00:00",
@@ -17875,7 +17880,7 @@
       "Name": "Cow Level",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 7523
+      "UsersEstimate": 7524
     },
     {
       "ID": "DEAD_MAN",
@@ -17923,7 +17928,7 @@
       "Name": "Scientist",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8207
+      "UsersEstimate": 8208
     },
     {
       "ID": "ENCYCLOPEDIA_3",
@@ -18051,7 +18056,7 @@
       "Name": "Soldier",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 8207
+      "UsersEstimate": 8208
     },
     {
       "ID": "NORMAL_END",
@@ -18202,15 +18207,15 @@
     {
       "ID": "bijn3c8",
       "IsBase": true,
-      "Progressed": 68395,
+      "Progressed": 68396,
       "Completed": 76
     }
   ],
   "FirstSeen": "2022-07-22T20:18:55.4349563+00:00",
   "FirstSeenAchievements": "2023-08-28T11:04:46.9381896+00:00",
   "LastChanged": "2024-01-05T15:59:27.4880787+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:05:59.7609536+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:06:12.0452994+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:05.7187732+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:00:15.2859886+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:05:59.7610607+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:00:07.3171582+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:06:12.0454724+00:00"
 }

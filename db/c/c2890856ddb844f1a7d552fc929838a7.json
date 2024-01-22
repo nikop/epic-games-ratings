@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 243,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 202,
+  "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-08-24T16:00:00+00:00",
@@ -323,7 +323,7 @@
   ],
   "EOS_Progressed": 2605,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -6468,9 +6468,9 @@
       "ID": "AC09",
       "SetID": "l4abp0",
       "Name": "Fermosa Fembra",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 30,
-      "UsersEstimate": 1224
+      "UsersEstimate": 1250
     },
     {
       "ID": "AC10",
@@ -6773,8 +6773,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:08:17.359488+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:07:03.04344+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:58:26.5778489+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:08:17.3595573+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:58:21.7769381+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:07:03.0435173+00:00"
 }

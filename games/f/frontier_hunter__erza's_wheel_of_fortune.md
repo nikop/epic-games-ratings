@@ -1,7 +1,7 @@
 # Frontier Hunter: Erza's Wheel of Fortune
 [Store](https://store.epicgames.com/en-US/p/frontier-hunter-erzas-wheel-of-fortune)  
 [View Rawdata](../../db/f/frontier_hunter__erza's_wheel_of_fortune.json)  
-Rating: 4.38 (Ranked 800)  
+Rating: 4.41 (Ranked 761)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -29,7 +29,7 @@ Rating: 4.38 (Ranked 800)
 | Lethal Blade Mantis Killer | 17.00% | ~130 |
 | Squeaky Clean | 17.00% | ~130 |
 | Master Artificer | 17.00% | ~130 |
-| Kind Adventurer | 15.00% | ~114 |
+| Kind Adventurer | 16.00% | ~122 |
 | Mermaid Killer | 15.00% | ~114 |
 | Cave Master | 15.00% | ~114 |
 | Face Slapper | 15.00% | ~114 |
@@ -195,3 +195,4 @@ Completed: 3 (0.39%) (Ranked 251)
 | 2023-03-31 | - | 0 | 0 |
 | 2024-01-02 | 4.35 | 0 | 0 |
 | 2024-01-04 | 4.38 | 0 | 0 |
+| 2024-01-22 | 4.41 | 0 | 0 |

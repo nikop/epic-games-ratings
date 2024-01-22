@@ -5,7 +5,7 @@
   "Ranking_Rating": 348,
   "Ranking_Popularity": 506,
   "Ranking_PopularitySum": 539,
-  "Ranking_EOS_Progress": 294,
+  "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 196,
   "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 105,
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1165,
+  "EOS_Progressed": 1166,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 138,
+  "EOS_NewPlayers": 139,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -3248,6 +3248,11 @@
       "Time": "2024-01-22T06:05:16.5842785+00:00",
       "NumProgressed": 1165,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-22T09:05:56.0186021+00:00",
+      "NumProgressed": 1166,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3340,7 +3345,7 @@
       "Name": "Jellyfish Jam",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_KELP_FOREST",
@@ -3380,7 +3385,7 @@
       "Name": "Sweet Victory",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_ROBO_SB_BOSS",
@@ -3476,7 +3481,7 @@
       "Name": "Sponge Smasher",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "ACH_STAT_SQUIRREL_SMASHER",
@@ -3492,7 +3497,7 @@
       "Name": "Star Smasher",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "ACH_SURFS_UP",
@@ -3508,22 +3513,22 @@
       "Name": "Time For Tutorial",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     }
   ],
   "AchievementSets": [
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1165,
+      "Progressed": 1166,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:05:43.9170653+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:05:56.0186018+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:00:15.6796072+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:05:43.9171204+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:00:07.7056501+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:05:56.0186575+00:00"
 }

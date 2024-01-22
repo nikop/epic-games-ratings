@@ -5,9 +5,9 @@
   "Ranking_Rating": 906,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 417,
+  "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 255,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 278,
+  "EOS_Progressed": 279,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1687,6 +1687,11 @@
       "Time": "2024-01-21T21:05:57.5044764+00:00",
       "NumProgressed": 278,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T09:05:47.5413269+00:00",
+      "NumProgressed": 279,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1705,9 +1710,9 @@
       "ID": "10000ELEXIT",
       "SetID": "a1angca",
       "Name": "Banker",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "1000ELEXIT",
@@ -1715,7 +1720,7 @@
       "Name": "Entrepreneur",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "100HEALS",
@@ -1763,7 +1768,7 @@
       "Name": "Peddler",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1785,9 +1790,9 @@
       "ID": "30FUEL",
       "SetID": "a1angca",
       "Name": "Long-Haul Flyer",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "30POTIONS",
@@ -1873,9 +1878,9 @@
       "ID": "ALLXP",
       "SetID": "a1angca",
       "Name": "Role Model",
-      "Percentage": 36,
+      "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 100
+      "UsersEstimate": 98
     },
     {
       "ID": "BRINGTOYS",
@@ -1915,7 +1920,7 @@
       "Name": "Cleric",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "CHOSEMOR",
@@ -1953,9 +1958,9 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 100,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     },
     {
       "ID": "FINDALLIES",
@@ -1963,7 +1968,7 @@
       "Name": "Commander",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "FINDBILLY",
@@ -1987,7 +1992,7 @@
       "Name": "Best Buddy",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "FINDMAP",
@@ -2001,9 +2006,9 @@
       "ID": "FINDWARDEK",
       "SetID": "a1angca",
       "Name": "Family Reunion",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 58
+      "UsersEstimate": 56
     },
     {
       "ID": "FUTUREIRISSA",
@@ -2089,24 +2094,24 @@
       "ID": "LOVECAJA",
       "SetID": "a1angca",
       "Name": "Lover",
-      "Percentage": 12,
+      "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 31
     }
   ],
   "AchievementSets": [
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 278,
+      "Progressed": 279,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:05:35.2057878+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:05:47.5413266+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:59:39.4799459+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:05:35.2058255+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:59:32.5601637+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:05:47.5413684+00:00"
 }

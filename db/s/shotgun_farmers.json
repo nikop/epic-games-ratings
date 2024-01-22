@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 366,
+  "Ranking_EOS_NewPlayers": 364,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -1869,9 +1869,9 @@
       "ID": "ach_kill_with_1_hp",
       "SetID": "cmg602e",
       "Name": "Skin Of Your Teeth",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 62
+      "UsersEstimate": 66
     },
     {
       "ID": "ach_kill_with_horse_kick",
@@ -2269,9 +2269,9 @@
       "ID": "ach_x_victims_using_double_barrel",
       "SetID": "bf10c8p",
       "Name": "This Is My Boomstick",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 54
     },
     {
       "ID": "ach_x_victims_using_grenade_launcher",
@@ -2332,8 +2332,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:09:04.4741537+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:08:58.7162255+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:04.3355436+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:57:15.626348+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:09:04.4742186+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:57:09.8859915+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:08:58.7163168+00:00"
 }

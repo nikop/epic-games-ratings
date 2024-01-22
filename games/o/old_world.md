@@ -145,6 +145,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.50% | ~85 |
 | No Undo | 0.50% | ~85 |
 | Poetic Leader | 0.50% | ~85 |
+| Cothon | 0.50% | ~85 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | The Eternal Treaty | 0.40% | ~68 |
@@ -155,7 +156,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Cataphract Archer | 0.40% | ~68 |
 | Siege Tower | 0.40% | ~68 |
 | Al Khazneh | 0.40% | ~68 |
-| Cothon | 0.40% | ~68 |
 | Ancient | 0.30% | ~51 |
 | Pyramids in Menefer | 0.30% | ~51 |
 | Persia | 0.30% | ~51 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,096 (Ranked 170)  
+Progressed: 17,097 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,7 +642,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
-| 2024-01-22 | 17,096 | 5 |
+| 2024-01-22 | 17,097 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

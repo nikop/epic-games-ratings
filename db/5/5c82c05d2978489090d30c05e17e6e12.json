@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76499,
+  "EOS_Progressed": 76502,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1163,
+  "EOS_NewPlayers": 1160,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8207,6 +8207,11 @@
       "Time": "2024-01-22T08:09:05.3810593+00:00",
       "NumProgressed": 76499,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-22T09:08:59.5772094+00:00",
+      "NumProgressed": 76502,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8219,7 +8224,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28305
+      "UsersEstimate": 28306
     },
     {
       "ID": "Achievement_10",
@@ -8267,7 +8272,7 @@
       "Name": "Lango Plantmaster",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Achievement_16",
@@ -8283,7 +8288,7 @@
       "Name": "Great Wave Alumni",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Achievement_18",
@@ -8291,7 +8296,7 @@
       "Name": "Champions of Umbra",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Achievement_19",
@@ -8307,7 +8312,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21420
+      "UsersEstimate": 21421
     },
     {
       "ID": "Achievement_20",
@@ -8315,7 +8320,7 @@
       "Name": "Disciple of the Onurasi",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "Achievement_21",
@@ -8387,7 +8392,7 @@
       "Name": "Gold Finger",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "Achievement_3",
@@ -8490,7 +8495,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76499,
+      "Progressed": 76502,
       "Completed": 128
     }
   ],
@@ -8498,8 +8503,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:09:05.3810591+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:08:59.577209+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:57:59.0976126+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:09:05.3811451+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:57:54.3580708+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:08:59.5772719+00:00"
 }

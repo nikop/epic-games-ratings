@@ -3,7 +3,7 @@
   "Name": "SYNCED",
   "ProductSlug": "synced",
   "Ranking_Rating": 1025,
-  "Ranking_Popularity": 342,
+  "Ranking_Popularity": 343,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 108,
   "Ranking_EOS_Completed": 333,
@@ -1813,10 +1813,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 607,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-01-22T08:57:17.368908+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 608,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 607,
+  "NumberOfAwards": 608,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1836,7 +1842,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 69
+      "Count": 70
     },
     {
       "Text": "This game has Unique Visuals",
@@ -1881,9 +1887,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 89800,
-  "EOS_Completed": 75,
-  "EOS_NewPlayers": 2194,
+  "EOS_Progressed": 89806,
+  "EOS_Completed": 76,
+  "EOS_NewPlayers": 2193,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -17716,6 +17722,11 @@
       "Time": "2024-01-22T08:05:39.3004034+00:00",
       "NumProgressed": 89800,
       "NumCompleted": 75
+    },
+    {
+      "Time": "2024-01-22T09:05:51.4752324+00:00",
+      "NumProgressed": 89806,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -17728,7 +17739,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42206
+      "UsersEstimate": 42209
     },
     {
       "ID": "10",
@@ -17792,7 +17803,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18858
+      "UsersEstimate": 18859
     },
     {
       "ID": "3",
@@ -17800,7 +17811,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12572
+      "UsersEstimate": 12573
     },
     {
       "ID": "4",
@@ -17808,7 +17819,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8082
+      "UsersEstimate": 8083
     },
     {
       "ID": "5",
@@ -17832,7 +17843,7 @@
       "Name": "More Power to You",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23348
+      "UsersEstimate": 23350
     },
     {
       "ID": "8",
@@ -17855,16 +17866,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 89800,
-      "Completed": 75
+      "Progressed": 89806,
+      "Completed": 76
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-22T04:57:28.3409747+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:05:39.3004031+00:00",
+  "LastChanged": "2024-01-22T08:57:17.3689079+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:05:51.4752319+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:57:23.0848312+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:05:39.3004845+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:57:17.3689084+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:05:51.475322+00:00"
 }

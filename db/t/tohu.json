@@ -4,7 +4,7 @@
   "ProductSlug": "tohu",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-10-18T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:00.9857755+00:00",
   "LastChanged": "2023-03-31T05:58:00.9857756+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.1396178+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:58:56.4545241+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:09:00.7316789+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:58:49.765861+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:08:55.1592647+00:00"
 }

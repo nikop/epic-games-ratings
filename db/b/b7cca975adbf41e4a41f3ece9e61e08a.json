@@ -343,9 +343,9 @@
       "Count": 40
     }
   ],
-  "EOS_Progressed": 18964,
+  "EOS_Progressed": 18965,
   "EOS_Completed": 337,
-  "EOS_NewPlayers": 337,
+  "EOS_NewPlayers": 333,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -10593,6 +10593,11 @@
       "Time": "2024-01-22T08:10:12.4870152+00:00",
       "NumProgressed": 18964,
       "NumCompleted": 337
+    },
+    {
+      "Time": "2024-01-22T09:10:05.5195958+00:00",
+      "NumProgressed": 18965,
+      "NumCompleted": 337
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10605,7 +10610,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16688
+      "UsersEstimate": 16689
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10613,7 +10618,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15361
+      "UsersEstimate": 15362
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10653,15 +10658,15 @@
       "Name": "Life Is A Rollercoaster",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_15",
       "SetID": "7opfcp",
       "Name": "Lover In Dark Alley",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3982
+      "UsersEstimate": 4172
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_16",
@@ -10669,7 +10674,7 @@
       "Name": "Boys Need To Protect Themselves",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_17",
@@ -10701,7 +10706,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12516
+      "UsersEstimate": 12517
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10709,7 +10714,7 @@
       "Name": "Happy Family",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 5689
+      "UsersEstimate": 5690
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_21",
@@ -10717,7 +10722,7 @@
       "Name": "Let Me Be Your Toy Boy",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 3982
+      "UsersEstimate": 3983
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_22",
@@ -10805,7 +10810,7 @@
       "Name": "Stubborn Noob",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_4",
@@ -10861,7 +10866,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8913
+      "UsersEstimate": 8914
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -10877,7 +10882,7 @@
       "Name": "Drama CP: Reel to Real",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_3",
@@ -10901,7 +10906,7 @@
       "Name": "You\u0027re Really Something Else",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 6068
+      "UsersEstimate": 6069
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -10940,7 +10945,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 18964,
+      "Progressed": 18965,
       "Completed": 337
     }
   ],
@@ -10948,8 +10953,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-20T14:59:39.7389406+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:10:12.487015+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:10:05.5195956+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-22T08:02:34.6615968+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:10:12.4870999+00:00"
+  "LastUpdate_Ratings": "2024-01-22T09:00:44.7272196+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:10:05.5196545+00:00"
 }

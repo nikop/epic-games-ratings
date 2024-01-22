@@ -10,12 +10,12 @@ Number of Ratings: 9,492  (23.09.2022)
 | The Assault | 5.00% | ~38,116 |
 | Life is your teacher | 5.00% | ~38,116 |
 | Lightning Hands | 5.00% | ~38,116 |
-| The Hateful Pole Fighter | 3.00% | ~22,869 |
-| Stuntmaster | 3.00% | ~22,869 |
-| Street Fighting | 3.00% | ~22,869 |
-| State of constant learning | 3.00% | ~22,869 |
-| Qi Gong: Essence | 3.00% | ~22,869 |
-| Old Child | 3.00% | ~22,869 |
+| The Hateful Pole Fighter | 3.00% | ~22,870 |
+| Stuntmaster | 3.00% | ~22,870 |
+| Street Fighting | 3.00% | ~22,870 |
+| State of constant learning | 3.00% | ~22,870 |
+| Qi Gong: Essence | 3.00% | ~22,870 |
+| Old Child | 3.00% | ~22,870 |
 | A Lady's Blood in the Snow | 2.00% | ~15,246 |
 | Lady Wing Chun | 2.00% | ~15,246 |
 | Furious Fists | 2.00% | ~15,246 |
@@ -32,7 +32,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Kung-Fu Tussle | 1.00% | ~7,623 |
 | Project Arena | 1.00% | ~716 |
 | Fight the way you practice | 0.90% | ~645 |
-| Muk Yan Master | 0.80% | ~6,098 |
+| Muk Yan Master | 0.80% | ~6,099 |
 | Tiger on Fire | 0.70% | ~5,336 |
 | Source of Flying Daggers | 0.70% | ~5,336 |
 | Detective Story | 0.70% | ~5,336 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,312 (Ranked 26)  
+Progressed: 762,322 (Ranked 26)  
 Completed: 13,003 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 13,003 (1.71%) (Ranked 150)
 | 2024-01-19 | 761,872 | 12,994 |
 | 2024-01-20 | 762,069 | 13,000 |
 | 2024-01-21 | 762,261 | 13,003 |
-| 2024-01-22 | 762,312 | 13,003 |
+| 2024-01-22 | 762,322 | 13,003 |
 ## Awards
 Max (Great Boss Battles): 7,261  (Ranked 58)  
 Sum: 12,849 (Ranked 87)  

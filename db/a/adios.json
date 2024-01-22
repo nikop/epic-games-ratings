@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 121,
   "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84163,
+  "EOS_Progressed": 84167,
   "EOS_Completed": 947,
-  "EOS_NewPlayers": 566,
+  "EOS_NewPlayers": 569,
   "EOS_NewCompleters": 12,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31062,6 +31062,11 @@
       "Time": "2024-01-22T08:05:55.9062483+00:00",
       "NumProgressed": 84163,
       "NumCompleted": 947
+    },
+    {
+      "Time": "2024-01-22T09:06:07.9807376+00:00",
+      "NumProgressed": 84167,
+      "NumCompleted": 947
     }
   ],
   "TotalAchievements": 25,
@@ -31089,7 +31094,7 @@
       "Name": "Adios, Friendo",
       "Percentage": 19,
       "XP": 150,
-      "UsersEstimate": 15991
+      "UsersEstimate": 15992
     },
     {
       "ID": "Audiophile",
@@ -31105,7 +31110,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18516
+      "UsersEstimate": 18517
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -31113,7 +31118,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15149
+      "UsersEstimate": 15150
     },
     {
       "ID": "Butcher",
@@ -31177,7 +31182,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17674
+      "UsersEstimate": 17675
     },
     {
       "ID": "Meaty",
@@ -31209,7 +31214,7 @@
       "Name": "Nothing Left to Say",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "Piano Man",
@@ -31233,7 +31238,7 @@
       "Name": "Sniper",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 5891
+      "UsersEstimate": 5892
     },
     {
       "ID": "Spicy",
@@ -31272,7 +31277,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84163,
+      "Progressed": 84167,
       "Completed": 947
     }
   ],
@@ -31280,8 +31285,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-22T08:05:55.9062481+00:00",
+  "LastChanged_Achievements": "2024-01-22T09:06:07.980737+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-22T07:57:53.0605598+00:00",
-  "LastUpdate_Achievements": "2024-01-22T08:05:55.9064291+00:00"
+  "LastUpdate_Ratings": "2024-01-22T08:57:48.2910445+00:00",
+  "LastUpdate_Achievements": "2024-01-22T09:06:07.9808962+00:00"
 }
