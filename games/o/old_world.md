@@ -92,6 +92,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 1.00% | ~171 |
 | Capable | 0.90% | ~154 |
 | Conqueror | 0.90% | ~154 |
+| Ready | 0.90% | ~154 |
 | Subjugator | 0.90% | ~154 |
 | Landowners | 0.90% | ~154 |
 | Riders | 0.90% | ~154 |
@@ -106,7 +107,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.90% | ~154 |
 | Invincible | 0.80% | ~137 |
 | Lion | 0.80% | ~137 |
-| Ready | 0.80% | ~137 |
 | Assyrian Paganism | 0.80% | ~137 |
 | Industrial Progress | 0.80% | ~137 |
 | Gnosticism | 0.80% | ~137 |
@@ -122,6 +122,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Peacemaker | 0.70% | ~120 |
 | Strong Difficulty | 0.70% | ~120 |
 | Hunters | 0.70% | ~120 |
+| Adur Burzen-Mihr | 0.70% | ~120 |
 | Babylonia | 0.70% | ~120 |
 | Hittite Paganism | 0.70% | ~120 |
 | Enlightenment | 0.70% | ~120 |
@@ -131,7 +132,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Ambition Victory | 0.70% | ~120 |
 | Clerics | 0.60% | ~103 |
 | Church of the Holy Sepulchre | 0.60% | ~103 |
-| Adur Burzen-Mihr | 0.60% | ~103 |
 | Carthage | 0.60% | ~103 |
 | Rome | 0.60% | ~103 |
 | One True Faith | 0.60% | ~103 |

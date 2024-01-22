@@ -27,8 +27,8 @@
 | The Apartment | 36.00% | ~42 |
 | Nathaniel Dryden | 33.00% | ~39 |
 | Bartholomew | 33.00% | ~39 |
+| A rude awakening | 32.00% | ~38 |
 | Well-acquainted | 31.00% | ~37 |
-| A rude awakening | 31.00% | ~37 |
 | Anastasia Babanin | 31.00% | ~37 |
 | The Scheme | 31.00% | ~37 |
 | Zakariya Demir | 30.00% | ~35 |

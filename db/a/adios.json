@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 109,
   "Ranking_EOS_Completed": 171,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 25,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,9 +147,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84145,
+  "EOS_Progressed": 84147,
   "EOS_Completed": 947,
-  "EOS_NewPlayers": 574,
+  "EOS_NewPlayers": 571,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
@@ -31022,6 +31022,11 @@
       "Time": "2024-01-21T23:05:29.5974226+00:00",
       "NumProgressed": 84145,
       "NumCompleted": 947
+    },
+    {
+      "Time": "2024-01-22T00:06:42.2370091+00:00",
+      "NumProgressed": 84147,
+      "NumCompleted": 947
     }
   ],
   "TotalAchievements": 25,
@@ -31137,7 +31142,7 @@
       "Name": "Master, Commander",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 17670
+      "UsersEstimate": 17671
     },
     {
       "ID": "Meaty",
@@ -31185,7 +31190,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11780
+      "UsersEstimate": 11781
     },
     {
       "ID": "Sniper",
@@ -31232,7 +31237,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84145,
+      "Progressed": 84147,
       "Completed": 947
     }
   ],
@@ -31240,8 +31245,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:05:29.5974223+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:06:42.2370082+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:57:39.3227093+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:05:29.597596+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:57:41.9627471+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:06:42.2371553+00:00"
 }

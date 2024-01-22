@@ -6,8 +6,8 @@ Number of Ratings: 4,491  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Stone Walls | 24.00% | ~52,775 |
-| Get Busy Living | 15.00% | ~32,985 |
+| Stone Walls | 24.00% | ~52,777 |
+| Get Busy Living | 15.00% | ~32,986 |
 | Samuel Norton | 9.00% | ~19,791 |
 | Spare The Rod | 4.00% | ~8,796 |
 | Don't Put Me In The Dark | 3.00% | ~6,597 |
@@ -17,13 +17,13 @@ Number of Ratings: 4,491  (23.09.2022)
 | Iron Bars | 2.00% | ~4,398 |
 | D.B. Cooper | 1.00% | ~2,199 |
 | Reformation | 0.60% | ~1,319 |
-| Crowd Control | 0.50% | ~1,099 |
+| Crowd Control | 0.50% | ~1,100 |
 | Freedom | 0.40% | ~880 |
 | Confined | 0.30% | ~660 |
 | It's Not What You Know... | 0.10% | ~220 |
 | ... It's What You Can Prove | 0.10% | ~220 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 219,897 (Ranked 81)  
+Progressed: 219,905 (Ranked 81)  
 Completed: 13 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -300,9 +300,10 @@ Completed: 13 (0.01%) (Ranked 383)
 | 2024-01-19 | 218,859 | 13 |
 | 2024-01-20 | 219,385 | 13 |
 | 2024-01-21 | 219,897 | 13 |
+| 2024-01-22 | 219,905 | 13 |
 ## Awards
 Max (Great for Beginners): 647  (Ranked 203)  
-Sum: 4,970 (Ranked 154)  
+Sum: 4,974 (Ranked 154)  
 Diff (max vs sum): 49  
 | Award | Count |
 | ----- | ----- |
@@ -311,8 +312,8 @@ Diff (max vs sum): 49
 | This game is Highly Recommended | 595 |
 | This game has Quickly Understood Controls | 586 |
 | This game is Relaxing | 578 |
-| This game has Diverse Characters | 552 |
-| This game has Amazing Storytelling | 526 |
+| This game has Diverse Characters | 554 |
+| This game has Amazing Storytelling | 528 |
 | This game has Amazing Characters | 483 |
 | This game is Educational | 459 |
 | This game has a Creative Community | 382 |
@@ -683,4 +684,4 @@ Diff (max vs sum): 49
 | 2024-01-18 | 4.61 | - | 645 | 4,940 |
 | 2024-01-19 | 4.61 | - | 646 | 4,947 |
 | 2024-01-20 | 4.61 | - | 647 | 4,967 |
-| 2024-01-21 | 4.61 | - | 647 | 4,970 |
+| 2024-01-21 | 4.61 | - | 647 | 4,974 |

@@ -18786,10 +18786,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 511877,
       "NumberOfAwardsMax": 143675
+    },
+    {
+      "Time": "2024-01-22T00:03:33.4419501+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 511998,
+      "NumberOfAwardsMax": 143675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 511877,
+  "NumberOfAwards": 511998,
   "NumberOfAwardsMax": 143675,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18863,11 +18869,11 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 19733
+      "Count": 19854
     }
   ],
-  "EOS_Progressed": 1056765,
-  "EOS_Completed": 3144,
+  "EOS_Progressed": 1056786,
+  "EOS_Completed": 3145,
   "EOS_NewPlayers": 5384,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
@@ -50551,6 +50557,11 @@
       "Time": "2024-01-21T23:09:14.0539239+00:00",
       "NumProgressed": 1056765,
       "NumCompleted": 3144
+    },
+    {
+      "Time": "2024-01-22T00:09:21.9100766+00:00",
+      "NumProgressed": 1056786,
+      "NumCompleted": 3145
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50793,9 +50804,9 @@
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5284
+      "UsersEstimate": 6341
     },
     {
       "ID": "TheLovers",
@@ -51098,21 +51109,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056765,
-      "Completed": 3144
+      "Progressed": 1056786,
+      "Completed": 3145
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185388,
-      "Completed": 10677
+      "Progressed": 185409,
+      "Completed": 10678
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-21T22:03:19.4402891+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:09:14.0539234+00:00",
+  "LastChanged": "2024-01-22T00:03:33.4419499+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:09:21.9100761+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:03:19.621258+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:09:14.0541734+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:03:33.4419509+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:09:21.9102716+00:00"
 }

@@ -1641,7 +1641,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7233,
+  "EOS_Progressed": 7234,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
@@ -17166,6 +17166,11 @@
       "Time": "2024-01-21T23:04:53.3312791+00:00",
       "NumProgressed": 7233,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T00:05:49.4180767+00:00",
+      "NumProgressed": 7234,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17273,7 +17278,7 @@
       "Name": "The Beginning of a Servantship",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 3110
+      "UsersEstimate": 3111
     },
     {
       "ID": "ACH_EP_PIRATEKING",
@@ -17337,7 +17342,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5280
+      "UsersEstimate": 5281
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17496,15 +17501,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7233,
+      "Progressed": 7234,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-21T15:58:03.0831244+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:04:53.3312786+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:05:49.4180765+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:58:13.1579903+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:04:53.3314225+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:58:32.8622296+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:05:49.4181643+00:00"
 }

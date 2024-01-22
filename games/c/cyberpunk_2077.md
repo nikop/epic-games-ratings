@@ -9,12 +9,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | Full Body Conversion | 0.60% | ~6,341 |
 | Right Back At Ya | 0.60% | ~6,341 |
 | The Hermit | 0.60% | ~6,341 |
+| The High Priestess | 0.60% | ~6,341 |
 | The Wheel of Fortune | 0.60% | ~6,341 |
 | True Soldier | 0.60% | ~6,341 |
 | Christmas Tree Attack | 0.50% | ~5,284 |
 | Life of the Road | 0.50% | ~5,284 |
 | Stanislavski's Method | 0.50% | ~5,284 |
-| The High Priestess | 0.50% | ~5,284 |
 | The Lovers | 0.50% | ~5,284 |
 | Legend of The Afterlife | 0.50% | ~5,284 |
 | All the President's Men | 0.50% | ~927 |
@@ -74,8 +74,8 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,056,765 (Ranked 17)  
-Completed: 3,144 (0.30%) (Ranked 265)  
+Progressed: 1,056,786 (Ranked 17)  
+Completed: 3,145 (0.30%) (Ranked 265)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -351,9 +351,10 @@ Completed: 3,144 (0.30%) (Ranked 265)
 | 2024-01-19 | 1,055,199 | 3,129 |
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
+| 2024-01-22 | 1,056,786 | 3,145 |
 ## Awards
 Max (Character Customization): 143,675  (Ranked 8)  
-Sum: 511,877 (Ranked 8)  
+Sum: 511,998 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -367,7 +368,7 @@ Diff (max vs sum): 0
 | This game has Amazing Characters | 29,391 |
 | This game is Relaxing | 28,452 |
 | This game has Quickly Understood Controls | 28,398 |
-| This game has a Creative Community | 19,733 |
+| This game has a Creative Community | 19,854 |
 | This game has Obsessive Gameplay | 3,165 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -739,3 +740,4 @@ Diff (max vs sum): 0
 | 2024-01-19 | 4.67 | - | 142,615 | 506,646 |
 | 2024-01-20 | 4.67 | - | 143,148 | 509,082 |
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
+| 2024-01-22 | 4.67 | - | 143,675 | 511,998 |

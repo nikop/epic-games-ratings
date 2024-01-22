@@ -4,10 +4,10 @@
   "ProductSlug": "palia-0d428e",
   "Ranking_Rating": 599,
   "Ranking_Popularity": 125,
-  "Ranking_PopularitySum": 149,
+  "Ranking_PopularitySum": 148,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -3677,10 +3677,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 5409,
       "NumberOfAwardsMax": 1923
+    },
+    {
+      "Time": "2024-01-22T00:00:37.1950652+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 5419,
+      "NumberOfAwardsMax": 1923
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5409,
+  "NumberOfAwards": 5419,
   "NumberOfAwardsMax": 1923,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3718,7 +3724,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 334
+      "Count": 344
     },
     {
       "Text": "This game has Amazing Characters",
@@ -3769,8 +3775,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-01-21T21:59:35.2940292+00:00",
+  "LastChanged": "2024-01-22T00:00:37.1950651+00:00",
   "LastUpdate_AppInfo": "2024-01-16T23:56:55.7195866+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:59:36.1556109+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:03:32.9745312+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:00:37.1950657+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:03:55.2094751+00:00"
 }

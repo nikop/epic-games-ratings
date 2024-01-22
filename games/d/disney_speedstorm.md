@@ -5,18 +5,18 @@ Rating: 4.41 (Ranked 760)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ROOKIE | 13.00% | ~52,637 |
-| IT MAKES BOOM! | 9.00% | ~36,441 |
-| EXTRA BOOST | 6.00% | ~24,294 |
-| PROTECTED | 5.00% | ~20,245 |
-| PRO | 5.00% | ~20,245 |
-| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,196 |
-| AGGRESSIVE RACER | 3.00% | ~12,147 |
-| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,098 |
-| TRAINING HARD | 2.00% | ~8,098 |
-| BE OUR GUEST | 2.00% | ~8,098 |
-| ACE SPEEDSTER | 2.00% | ~8,098 |
-| A TIGER'S FEAR | 2.00% | ~8,098 |
+| ROOKIE | 13.00% | ~52,642 |
+| IT MAKES BOOM! | 9.00% | ~36,445 |
+| EXTRA BOOST | 6.00% | ~24,296 |
+| PROTECTED | 5.00% | ~20,247 |
+| PRO | 5.00% | ~20,247 |
+| HERE ARE SOME BARE NECESSITIES | 4.00% | ~16,198 |
+| AGGRESSIVE RACER | 3.00% | ~12,148 |
+| IT'S A LONG WAY TO THE TOP | 2.00% | ~8,099 |
+| TRAINING HARD | 2.00% | ~8,099 |
+| BE OUR GUEST | 2.00% | ~8,099 |
+| ACE SPEEDSTER | 2.00% | ~8,099 |
+| A TIGER'S FEAR | 2.00% | ~8,099 |
 | RELEASE THE KRAKEN | 1.00% | ~4,049 |
 | ACE BRAWLER | 1.00% | ~4,049 |
 | DEFEAT OUR CHAMPION | 1.00% | ~4,049 |
@@ -26,11 +26,11 @@ Rating: 4.41 (Ranked 760)
 | MASTER | 1.00% | ~4,049 |
 | LEGENDARY HERO | 1.00% | ~4,049 |
 | EXPERIENCED CREW | 0.90% | ~3,644 |
-| PERFECTLY POISED | 0.70% | ~2,834 |
-| FRAMED! | 0.70% | ~2,834 |
-| ACE TRICKSTER | 0.70% | ~2,834 |
+| PERFECTLY POISED | 0.70% | ~2,835 |
+| FRAMED! | 0.70% | ~2,835 |
+| ACE TRICKSTER | 0.70% | ~2,835 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 404,898 (Ranked 51)  
+Progressed: 404,939 (Ranked 51)  
 Completed: 1,703 (0.42%) (Ranked 245)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,6 +303,7 @@ Completed: 1,703 (0.42%) (Ranked 245)
 | 2024-01-19 | 402,662 | 1,669 |
 | 2024-01-20 | 403,816 | 1,690 |
 | 2024-01-21 | 404,898 | 1,703 |
+| 2024-01-22 | 404,939 | 1,703 |
 ## Awards
 Max (Great for Beginners): 195  (Ranked 308)  
 Sum: 1,260 (Ranked 263)  

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5417,9 +5417,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83148,
+  "EOS_Progressed": 83149,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 366,
+  "EOS_NewPlayers": 363,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31107,6 +31107,11 @@
       "Time": "2024-01-21T23:03:38.7216712+00:00",
       "NumProgressed": 83148,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-22T00:04:03.667661+00:00",
+      "NumProgressed": 83149,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31422,7 +31427,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28270
+      "UsersEstimate": 28271
     },
     {
       "ID": "HARLEY_2",
@@ -31494,7 +31499,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21618
+      "UsersEstimate": 21619
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31605,13 +31610,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83148,
+      "Progressed": 83149,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53428,
+      "Progressed": 53429,
       "Completed": 2680
     }
   ],
@@ -31619,8 +31624,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-21T16:59:50.6986252+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:03:38.7216707+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:04:03.6676605+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:58:55.2890823+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:03:38.7218916+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:59:35.3801385+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:04:03.667859+00:00"
 }

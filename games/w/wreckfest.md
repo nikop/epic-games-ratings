@@ -18,9 +18,9 @@ Rating: 4.24 (Ranked 938)
 | Challengers Champion | 11.00% | ~136 |
 | Cash For Crashes | 8.00% | ~99 |
 | Pro Internationals Champion | 7.00% | ~87 |
+| World Masters Champion | 3.00% | ~37 |
 | Showing Some Dedication | 3.00% | ~37 |
 | Maniac Driver | 3.00% | ~37 |
-| World Masters Champion | 2.00% | ~25 |
 | Garden Variety | 1.00% | ~12 |
 | Glutton For Punishment | 0.60% | ~7 |
 | Human Lover | 0.50% | ~6 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 525,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewPlayers": 184,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-08-22T04:00:00+00:00",
@@ -533,7 +533,7 @@
   ],
   "EOS_Progressed": 3570,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 127,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6279,9 +6279,9 @@
       "ID": "achievement_44",
       "SetID": "18al4io",
       "Name": "Periapt Cerulean",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 321
+      "UsersEstimate": 357
     },
     {
       "ID": "achievement_45",
@@ -6456,8 +6456,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:10:17.4708222+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:10:50.327903+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:57:20.442686+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:10:17.4708721+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:57:10.4473759+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:10:50.3279599+00:00"
 }

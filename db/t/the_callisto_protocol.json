@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 153,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2339,9 +2339,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22649,
+  "EOS_Progressed": 22652,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 269,
+  "EOS_NewPlayers": 268,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14649,6 +14649,11 @@
       "Time": "2024-01-21T23:10:03.0043656+00:00",
       "NumProgressed": 22649,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-22T00:10:30.8457903+00:00",
+      "NumProgressed": 22652,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14676,7 +14681,7 @@
       "Name": "Giving Back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 2491
+      "UsersEstimate": 2492
     },
     {
       "ID": "BUY_ALL_WEAPONS",
@@ -14692,7 +14697,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14700,7 +14705,7 @@
       "Name": "Grim Reaper",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 226
+      "UsersEstimate": 227
     },
     {
       "ID": "FINISH_CONTAGION",
@@ -14724,7 +14729,7 @@
       "Name": "I Do Belong Here",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 2038
+      "UsersEstimate": 2039
     },
     {
       "ID": "FINISH_GAME_HARD",
@@ -14764,7 +14769,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5209
+      "UsersEstimate": 5210
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14772,7 +14777,7 @@
       "Name": "In Striking Distance",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1132
+      "UsersEstimate": 1133
     },
     {
       "ID": "KILL_2HEAD",
@@ -14780,7 +14785,7 @@
       "Name": "Two Heads Are Better Than One",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "KILL_MANY_WITH_HAZARD",
@@ -14820,7 +14825,7 @@
       "Name": "Float Like A Butterfly",
       "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 4303
+      "UsersEstimate": 4304
     },
     {
       "ID": "PRINT_UPGRADE",
@@ -14828,7 +14833,7 @@
       "Name": "Reforged",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 4756
+      "UsersEstimate": 4757
     },
     {
       "ID": "PRINT_WEAPON",
@@ -14852,7 +14857,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14892,7 +14897,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5889
+      "UsersEstimate": 5890
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14916,7 +14921,7 @@
       "Name": "Power Up",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 2944
+      "UsersEstimate": 2945
     },
     {
       "ID": "DISMEMBER_100",
@@ -15020,7 +15025,7 @@
       "Name": "It\u0027s Time",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 634
+      "UsersEstimate": 635
     },
     {
       "ID": "LOCK_UNDER_7SEC",
@@ -15035,13 +15040,13 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22649,
+      "Progressed": 22652,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10575,
+      "Progressed": 10578,
       "Completed": 29
     }
   ],
@@ -15049,8 +15054,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-21T03:03:09.2233342+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:10:03.0043651+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:10:30.8457898+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:03:27.6005685+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:10:03.004464+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:03:44.1319572+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:10:30.8458891+00:00"
 }

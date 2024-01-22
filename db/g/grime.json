@@ -1933,9 +1933,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169214,
+  "EOS_Progressed": 169215,
   "EOS_Completed": 465,
-  "EOS_NewPlayers": 980,
+  "EOS_NewPlayers": 972,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.27,
   "EosHistory": [
@@ -23978,6 +23978,11 @@
       "Time": "2024-01-21T23:06:25.2217827+00:00",
       "NumProgressed": 169214,
       "NumCompleted": 465
+    },
+    {
+      "Time": "2024-01-22T00:08:01.2429058+00:00",
+      "NumProgressed": 169215,
+      "NumCompleted": 465
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24086,7 +24091,7 @@
       "Name": "Shapely",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "DEFEAT_FLOWERHEART",
@@ -24156,9 +24161,9 @@
       "ID": "DEFEAT_SHIDRA",
       "SetID": "ccc0dlh",
       "Name": "Inevitable",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 677
+      "UsersEstimate": 846
     },
     {
       "ID": "DEFEAT_VULTURE",
@@ -24214,7 +24219,7 @@
       "Name": "Predator",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 1184
+      "UsersEstimate": 1185
     },
     {
       "ID": "MISC_ENDING_PROPER",
@@ -24357,21 +24362,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168797,
+      "Progressed": 168798,
       "Completed": 1268
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169214,
+      "Progressed": 169215,
       "Completed": 465
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-21T01:56:25.9231055+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:06:25.221782+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:08:01.2429053+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:58:21.5839563+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:06:25.2219766+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:58:46.0613456+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:08:01.2430617+00:00"
 }

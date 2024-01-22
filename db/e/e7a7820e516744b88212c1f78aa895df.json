@@ -2,9 +2,9 @@
   "ID": "e7a7820e516744b88212c1f78aa895df",
   "Name": "Overpass 2",
   "ProductSlug": "overpass-2",
-  "Ranking_EOS_Progress": 376,
+  "Ranking_EOS_Progress": 375,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 400,
+  "EOS_Progressed": 401,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1645,6 +1645,11 @@
       "Time": "2024-01-21T15:10:53.5030678+00:00",
       "NumProgressed": 400,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T00:10:39.371175+00:00",
+      "NumProgressed": 401,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-28T09:03:06.3221207+00:00",
@@ -1719,15 +1724,15 @@
       "ID": "achScoutMaxStar",
       "SetID": "7ji07dj",
       "Name": "Employee of the Month",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 75,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "achSkillsAll",
       "SetID": "7ji07dj",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1759,9 +1764,9 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 24
+      "UsersEstimate": 20
     },
     {
       "ID": "achSponsorMain1",
@@ -1783,7 +1788,7 @@
       "ID": "achUnlockSuspensions",
       "SetID": "7ji07dj",
       "Name": "The Joys of Spring",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1791,7 +1796,7 @@
       "ID": "achUnlockTires",
       "SetID": "7ji07dj",
       "Name": "Reinventing the Wheel",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1815,9 +1820,9 @@
       "ID": "achWinDiv2",
       "SetID": "7ji07dj",
       "Name": "Moving Up",
-      "Percentage": 2,
+      "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 8
+      "UsersEstimate": 4
     },
     {
       "ID": "achWinEvent",
@@ -1831,7 +1836,7 @@
       "ID": "achWinRaceAll",
       "SetID": "7ji07dj",
       "Name": "Globetrotter",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -1855,7 +1860,7 @@
       "ID": "achWinRaceJv",
       "SetID": "7ji07dj",
       "Name": "Salt Surfer",
-      "Percentage": 0.3,
+      "Percentage": 0.2,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -1880,14 +1885,14 @@
     {
       "ID": "7ji07dj",
       "IsBase": true,
-      "Progressed": 400,
+      "Progressed": 401,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:10:09.183447+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:10:39.3711747+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8036701+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:58:47.6650031+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:10:09.1834719+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:59:24.2593557+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:10:39.3711996+00:00"
 }

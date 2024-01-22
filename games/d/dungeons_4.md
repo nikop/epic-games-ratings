@@ -60,7 +60,7 @@ Rating: 4.73 (Ranked 185)
 | Heal Heal Blessing | 19.00% | ~149 |
 | Sacrificial Pit = Garbage Disposal? | 18.00% | ~141 |
 | Mirror, Mirror | 18.00% | ~141 |
-| Untouchable | 17.00% | ~133 |
+| Untouchable | 18.00% | ~141 |
 | Laser Eyes Are So Useless | 15.00% | ~117 |
 | Hands Off My Stones | 15.00% | ~117 |
 | Gorgu is in the Best of Health | 13.00% | ~102 |

@@ -6,38 +6,38 @@ Number of Ratings: 6,336  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Escaped Tartarus | 88.00% | ~638,631 |
-| Escaped Asphodel | 79.00% | ~573,316 |
-| Arms Collector | 70.00% | ~508,002 |
-| Friends in High Places | 67.00% | ~486,230 |
-| Escaped Elysium | 65.00% | ~471,716 |
-| Chthonic Colleagues | 62.00% | ~449,945 |
-| Is There No Escape? | 52.00% | ~377,373 |
-| Death Dealer | 45.00% | ~326,573 |
-| Skelly Slayer | 42.00% | ~304,801 |
-| Well Stocked | 40.00% | ~290,287 |
-| Back to Work | 38.00% | ~275,772 |
-| Day-or-Night Trader | 37.00% | ~268,515 |
-| Blessed by the Gods | 37.00% | ~268,515 |
-| Urge to Sing | 36.00% | ~261,258 |
-| Blood Bound | 35.00% | ~254,001 |
-| Three-Headed Boy | 31.00% | ~224,972 |
-| River Denizens | 28.00% | ~203,201 |
-| Grown Close | 28.00% | ~203,201 |
+| Escaped Tartarus | 88.00% | ~638,634 |
+| Escaped Asphodel | 79.00% | ~573,319 |
+| Arms Collector | 70.00% | ~508,004 |
+| Friends in High Places | 67.00% | ~486,232 |
+| Escaped Elysium | 65.00% | ~471,718 |
+| Chthonic Colleagues | 62.00% | ~449,946 |
+| Is There No Escape? | 52.00% | ~377,374 |
+| Death Dealer | 45.00% | ~326,574 |
+| Skelly Slayer | 42.00% | ~304,802 |
+| Well Stocked | 40.00% | ~290,288 |
+| Back to Work | 38.00% | ~275,774 |
+| Day-or-Night Trader | 37.00% | ~268,516 |
+| Blessed by the Gods | 37.00% | ~268,516 |
+| Urge to Sing | 36.00% | ~261,259 |
+| Blood Bound | 35.00% | ~254,002 |
+| Three-Headed Boy | 31.00% | ~224,973 |
+| River Denizens | 28.00% | ~203,202 |
+| Grown Close | 28.00% | ~203,202 |
 | Home Makeover | 27.00% | ~195,944 |
-| Had to Happen | 25.00% | ~181,429 |
-| The Family Secret | 25.00% | ~181,429 |
-| Tools of the Architect | 23.00% | ~166,915 |
-| Master of Arms | 23.00% | ~166,915 |
+| Had to Happen | 25.00% | ~181,430 |
+| The Family Secret | 25.00% | ~181,430 |
+| Tools of the Architect | 23.00% | ~166,916 |
+| Master of Arms | 23.00% | ~166,916 |
 | To Charon's Credit | 22.00% | ~159,658 |
 | Rare Collectible | 22.00% | ~159,658 |
 | Weapon of Fate | 21.00% | ~152,401 |
-| Something From Everyone | 19.00% | ~137,886 |
-| Hold the Onions | 18.00% | ~130,629 |
+| Something From Everyone | 19.00% | ~137,887 |
+| Hold the Onions | 18.00% | ~130,630 |
 | Well Versed | 17.00% | ~123,372 |
 | War-God's Bloodlust | 15.00% | ~108,858 |
-| Musician and Muse | 14.00% | ~101,600 |
-| Champion of Elysium | 13.00% | ~94,343 |
+| Musician and Muse | 14.00% | ~101,601 |
+| Champion of Elysium | 13.00% | ~94,344 |
 | The Useless Trinket | 12.00% | ~87,086 |
 | Slashed Benefits | 12.00% | ~87,086 |
 | Haste of Hermes | 11.00% | ~79,829 |
@@ -48,7 +48,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Dark Reflections | 9.00% | ~65,315 |
 | Thanks, But No Thanks | 9.00% | ~65,315 |
 | Infernal Arms | 9.00% | ~65,315 |
-| Divided by Death | 8.00% | ~58,057 |
+| Divided by Death | 8.00% | ~58,058 |
 | Harsh Conditions | 7.00% | ~50,800 |
 | One for the Ages | 7.00% | ~50,800 |
 | Complete Set | 6.00% | ~43,543 |
@@ -56,7 +56,7 @@ Number of Ratings: 6,336  (23.09.2022)
 | Thorn of Thanatos | 4.00% | ~29,029 |
 | Friends Forever | 4.00% | ~29,029 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 725,717 (Ranked 28)  
+Progressed: 725,720 (Ranked 28)  
 Completed: 6,628 (0.91%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,14 +333,15 @@ Completed: 6,628 (0.91%) (Ranked 190)
 | 2024-01-19 | 725,403 | 6,621 |
 | 2024-01-20 | 725,573 | 6,626 |
 | 2024-01-21 | 725,717 | 6,628 |
+| 2024-01-22 | 725,720 | 6,628 |
 ## Awards
 Max (Character Customization): 3,570  (Ranked 97)  
-Sum: 8,704 (Ranked 108)  
+Sum: 8,706 (Ranked 108)  
 Diff (max vs sum): -11  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 3,570 |
-| This game has Great Boss Battles | 2,510 |
+| This game has Great Boss Battles | 2,512 |
 | This game is Great for Beginners | 298 |
 | This game is Highly Recommended | 290 |
 | This game is Extremely Fun | 275 |
@@ -700,3 +701,4 @@ Diff (max vs sum): -11
 | 2024-01-19 | 4.92 | - | 3,565 | 8,696 |
 | 2024-01-20 | 4.92 | - | 3,567 | 8,700 |
 | 2024-01-21 | 4.92 | - | 3,570 | 8,704 |
+| 2024-01-22 | 4.92 | - | 3,570 | 8,706 |

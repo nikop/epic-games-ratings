@@ -4,7 +4,7 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 402,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
@@ -674,9 +674,9 @@
       "ID": "Achievement1",
       "SetID": "9fa3l5n",
       "Name": "My Papyrus!",
-      "Percentage": 79,
+      "Percentage": 80,
       "XP": 15,
-      "UsersEstimate": 111
+      "UsersEstimate": 113
     },
     {
       "ID": "Achievement10",
@@ -977,8 +977,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:04:27.9170816+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:05:13.9956354+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:47.9162613+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:59:15.4485833+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:04:27.9171201+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:00:06.5808707+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:05:13.9956593+00:00"
 }

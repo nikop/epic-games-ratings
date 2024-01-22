@@ -4119,9 +4119,9 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33868,
+  "EOS_Progressed": 33870,
   "EOS_Completed": 71,
-  "EOS_NewPlayers": 204,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -26209,6 +26209,11 @@
       "Time": "2024-01-21T23:09:26.5218788+00:00",
       "NumProgressed": 33868,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-22T00:09:39.3703498+00:00",
+      "NumProgressed": 33870,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26220,7 +26225,7 @@
       "Name": "Advancement",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "Animated",
@@ -26260,7 +26265,7 @@
       "Name": "Clutch Capture",
       "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "Collect_Spores",
@@ -26284,7 +26289,7 @@
       "Name": "Cultured",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "Daily_Dose",
@@ -26356,7 +26361,7 @@
       "Name": "Fully Upgraded",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "GB_In_Training",
@@ -26556,7 +26561,7 @@
       "Name": "Teamwork",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "Terrifying",
@@ -26580,7 +26585,7 @@
       "Name": "There you are!",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "Tobins_Prodigy",
@@ -26604,7 +26609,7 @@
       "Name": "Vaporous Expansion",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "Welcome_Crew",
@@ -26620,14 +26625,14 @@
       "Name": "Whoopsie",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     }
   ],
   "AchievementSets": [
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33868,
+      "Progressed": 33870,
       "Completed": 71
     }
   ],
@@ -26635,8 +26640,8 @@
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
   "LastChanged": "2024-01-21T19:01:52.7855466+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:09:26.5218783+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:09:39.3703493+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:41.0805246+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:00:01.6063741+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:09:26.5220401+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:01:15.3955935+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:09:39.3704823+00:00"
 }

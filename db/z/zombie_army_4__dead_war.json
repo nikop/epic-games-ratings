@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 200,
   "Ranking_EOS_Progress": 135,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 207,
+  "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2020-02-04T15:00:00+00:00",
@@ -2772,9 +2772,9 @@
       "Count": 84
     }
   ],
-  "EOS_Progressed": 44558,
+  "EOS_Progressed": 44559,
   "EOS_Completed": 25,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -11612,6 +11612,11 @@
       "Time": "2024-01-21T20:06:05.4132282+00:00",
       "NumProgressed": 44558,
       "NumCompleted": 25
+    },
+    {
+      "Time": "2024-01-22T00:05:45.9726533+00:00",
+      "NumProgressed": 44559,
+      "NumCompleted": 25
     }
   ],
   "TotalAchievements": 66,
@@ -11623,7 +11628,7 @@
       "Name": "Groovy",
       "Percentage": 62,
       "XP": 5,
-      "UsersEstimate": 27626
+      "UsersEstimate": 27627
     },
     {
       "ID": "SE_COMPLETE_ABADDON_ASYLUM",
@@ -11679,7 +11684,7 @@
       "Name": "Is it over?",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 12476
+      "UsersEstimate": 12477
     },
     {
       "ID": "SE_COMPLETE_CAMPAIGN_ON_HARD",
@@ -11695,7 +11700,7 @@
       "Name": "Look mummy! A shark!",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 18714
+      "UsersEstimate": 18715
     },
     {
       "ID": "SE_COMPLETE_DAMNATION_VALLEY",
@@ -11751,7 +11756,7 @@
       "Name": "Something wicked this way comes",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_FINAL_DEPARTURE",
@@ -11799,7 +11804,7 @@
       "Name": "Staring at Shadows",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "SE_COMPLETE_HORDE_MODE_VENICE",
@@ -11807,7 +11812,7 @@
       "Name": "I told you we should have gone to the beach",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "SE_COMPLETE_MILAN",
@@ -11871,7 +11876,7 @@
       "Name": "The boat can leave now...tell the crew",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 21833
+      "UsersEstimate": 21834
     },
     {
       "ID": "SE_COMPLETE_VESUVIUS",
@@ -11895,7 +11900,7 @@
       "Name": "Shock therapy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 10248
+      "UsersEstimate": 10249
     },
     {
       "ID": "SE_FIND_ALL_JOURNALS_COMICS_TOKENS",
@@ -11903,7 +11908,7 @@
       "Name": "Hoarder",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2673
+      "UsersEstimate": 2674
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_A_ZOMBIE_SELF_RESURRECTION",
@@ -11911,7 +11916,7 @@
       "Name": "Double tap",
       "Percentage": 37,
       "XP": 50,
-      "UsersEstimate": 16486
+      "UsersEstimate": 16487
     },
     {
       "ID": "SE_FINISH_A_LEVEL_WITHOUT_HEALING",
@@ -11919,7 +11924,7 @@
       "Name": "What did you say, Blain?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 18714
+      "UsersEstimate": 18715
     },
     {
       "ID": "SE_GET_GOLD_MEDAL_ON_ANY_CHAPTER",
@@ -11943,7 +11948,7 @@
       "Name": "Cranial blowout!",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 16486
+      "UsersEstimate": 16487
     },
     {
       "ID": "SE_HEADSHOT_ZOMBIE_MID_RESURRECTION",
@@ -11975,7 +11980,7 @@
       "Name": "Give me something to shoot!",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 20942
+      "UsersEstimate": 20943
     },
     {
       "ID": "SE_KILL_SUICIDER_BY_HITTING_THE_GRENADE",
@@ -11983,7 +11988,7 @@
       "Name": "Cleanup on aisle 4!",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 25398
+      "UsersEstimate": 25399
     },
     {
       "ID": "SE_KILL_X_ENEMIES_WITH_PREACHER",
@@ -11991,7 +11996,7 @@
       "Name": "Stand back boy!",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 20942
+      "UsersEstimate": 20943
     },
     {
       "ID": "SE_KILL_X_ZOMBIES",
@@ -12015,7 +12020,7 @@
       "Name": "Chain reaction",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 20051
+      "UsersEstimate": 20052
     },
     {
       "ID": "SE_KILL_ZOMBIE_USING_SPECIAL_MELEE",
@@ -12023,7 +12028,7 @@
       "Name": "Say goodbye, creep!",
       "Percentage": 67,
       "XP": 5,
-      "UsersEstimate": 29854
+      "UsersEstimate": 29855
     },
     {
       "ID": "SE_MASTER_ALL_WEAPONS",
@@ -12079,7 +12084,7 @@
       "Name": "Blood splattered",
       "Percentage": 66,
       "XP": 5,
-      "UsersEstimate": 29408
+      "UsersEstimate": 29409
     },
     {
       "ID": "SE_REACH_RANK_50",
@@ -12119,7 +12124,7 @@
       "Name": "Leave the limbs you\u0027ve lost",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 10248
+      "UsersEstimate": 10249
     },
     {
       "ID": "SE_TAKEDOWN_AN_ELITE",
@@ -12135,7 +12140,7 @@
       "Name": "Take them down screaming",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 8020
+      "UsersEstimate": 8021
     },
     {
       "ID": "SE_X_HEADSHOTS_WITH_ONE_BULLET",
@@ -12150,15 +12155,15 @@
     {
       "ID": "49kdhbg",
       "IsBase": true,
-      "Progressed": 44558,
+      "Progressed": 44559,
       "Completed": 25
     }
   ],
   "FirstSeen": "2022-07-22T20:17:25.2322251+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.0111343+00:00",
   "LastChanged": "2024-01-21T19:03:44.8461925+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:04:50.7455552+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:05:45.972653+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:50.2969677+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:02:55.6257373+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:04:50.7456608+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:02:56.8955237+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:05:45.9727467+00:00"
 }

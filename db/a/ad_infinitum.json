@@ -4,7 +4,7 @@
   "ProductSlug": "ad-infinitum",
   "Ranking_EOS_Progress": 431,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 367,
+  "Ranking_EOS_NewPlayers": 358,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2023-09-14T16:00:00+00:00",
@@ -20,9 +20,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 218,
+  "EOS_Progressed": 219,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 6,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1060,6 +1060,11 @@
       "Time": "2024-01-20T18:08:53.8750648+00:00",
       "NumProgressed": 218,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T00:09:00.3061965+00:00",
+      "NumProgressed": 219,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -1142,9 +1147,9 @@
       "ID": "ACH_CORRUPTION",
       "SetID": "88d7anj",
       "Name": "Corruption",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 13
+      "UsersEstimate": 11
     },
     {
       "ID": "ACH_DESPAIR",
@@ -1176,7 +1181,7 @@
       "Name": "Hunger",
       "Percentage": 52,
       "XP": 30,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "ACH_JIGSAW",
@@ -1208,7 +1213,7 @@
       "Name": "Morgengrauen",
       "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 190
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_NOONELEFTBEHIND",
@@ -1224,7 +1229,7 @@
       "Name": "Not alone",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "ACH_PAIN",
@@ -1248,7 +1253,7 @@
       "Name": "Path of Despair",
       "Percentage": 88,
       "XP": 15,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -1256,7 +1261,7 @@
       "Name": "Path of Pain",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 54
+      "UsersEstimate": 55
     },
     {
       "ID": "ACH_PEACE",
@@ -1303,14 +1308,14 @@
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 218,
+      "Progressed": 219,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:08:58.6786213+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:09:00.3061957+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.8338619+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:57:55.5156227+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:08:58.6786708+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:58:06.2457168+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:09:00.3062254+00:00"
 }

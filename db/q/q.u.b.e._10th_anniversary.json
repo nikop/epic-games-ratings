@@ -6,9 +6,9 @@
   "Ranking_Popularity": 551,
   "Ranking_PopularitySum": 563,
   "Ranking_EOS_Progress": 144,
-  "Ranking_EOS_Completed": 203,
+  "Ranking_EOS_Completed": 202,
   "Ranking_EOS_NewPlayers": 106,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2022-09-29T11:00:00+00:00",
     "PcReleaseDate": "2022-09-14T13:00:00+00:00",
@@ -366,11 +366,11 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30271,
-  "EOS_Completed": 225,
-  "EOS_NewPlayers": 720,
-  "EOS_NewCompleters": 12,
-  "EOS_Completed_Percentage": 0.74,
+  "EOS_Progressed": 30273,
+  "EOS_Completed": 226,
+  "EOS_NewPlayers": 715,
+  "EOS_NewCompleters": 13,
+  "EOS_Completed_Percentage": 0.75,
   "EosHistory": [
     {
       "Time": "2023-04-25T20:51:02.5432355+00:00",
@@ -11406,6 +11406,11 @@
       "Time": "2024-01-21T23:10:10.7784361+00:00",
       "NumProgressed": 30271,
       "NumCompleted": 225
+    },
+    {
+      "Time": "2024-01-22T00:10:41.4323024+00:00",
+      "NumProgressed": 30273,
+      "NumCompleted": 226
     }
   ],
   "TotalAchievements": 24,
@@ -11417,7 +11422,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "ACH_CollectAll",
@@ -11441,7 +11446,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 6054
+      "UsersEstimate": 6055
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -11545,7 +11550,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10292
+      "UsersEstimate": 10293
     },
     {
       "ID": "ACH_Sector2",
@@ -11553,7 +11558,7 @@
       "Name": "Sector 2",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 9081
+      "UsersEstimate": 9082
     },
     {
       "ID": "ACH_Sector3",
@@ -11608,16 +11613,16 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30271,
-      "Completed": 225
+      "Progressed": 30273,
+      "Completed": 226
     }
   ],
   "FirstSeen": "2023-10-12T18:57:52.5770146+00:00",
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:10:10.7784356+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:10:41.4323021+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:00:30.5492264+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:10:10.7785182+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:02:37.5868272+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:10:41.4323671+00:00"
 }

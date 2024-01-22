@@ -10912,10 +10912,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 16940,
       "NumberOfAwardsMax": 8189
+    },
+    {
+      "Time": "2024-01-21T23:58:01.186632+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 16944,
+      "NumberOfAwardsMax": 8189
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16940,
+  "NumberOfAwards": 16944,
   "NumberOfAwardsMax": 8189,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10953,7 +10959,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 939
+      "Count": 943
     },
     {
       "Text": "This game has Amazing Characters",
@@ -10992,9 +10998,9 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 96687,
+  "EOS_Progressed": 96690,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1428,
+  "EOS_NewPlayers": 1427,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40687,6 +40693,11 @@
       "Time": "2024-01-21T23:10:23.0718838+00:00",
       "NumProgressed": 96687,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T00:10:57.3172947+00:00",
+      "NumProgressed": 96690,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40698,7 +40709,7 @@
       "Name": "Against all odds",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 14503
+      "UsersEstimate": 14504
     },
     {
       "ID": "Apple of my eye",
@@ -40754,7 +40765,7 @@
       "Name": "Crowdfunded",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3867
+      "UsersEstimate": 3868
     },
     {
       "ID": "Crackshot",
@@ -40762,7 +40773,7 @@
       "Name": "Crackshot",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "Crush your enemies",
@@ -40770,7 +40781,7 @@
       "Name": "Crush your enemies",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 3867
+      "UsersEstimate": 3868
     },
     {
       "ID": "Duelist",
@@ -40778,7 +40789,7 @@
       "Name": "Duelist",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 12569
+      "UsersEstimate": 12570
     },
     {
       "ID": "Dynasty",
@@ -40826,7 +40837,7 @@
       "Name": "God of the Arena",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 11602
+      "UsersEstimate": 11603
     },
     {
       "ID": "Great Granny",
@@ -40858,7 +40869,7 @@
       "Name": "Horde breaker",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 21271
+      "UsersEstimate": 21272
     },
     {
       "ID": "I can do it",
@@ -40922,7 +40933,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33840
+      "UsersEstimate": 33842
     },
     {
       "ID": "Lawbringer",
@@ -40930,7 +40941,7 @@
       "Name": "Lawbringer",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 41575
+      "UsersEstimate": 41577
     },
     {
       "ID": "Lawmaker",
@@ -40938,7 +40949,7 @@
       "Name": "Lawmaker",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 23205
+      "UsersEstimate": 23206
     },
     {
       "ID": "Long live the Empire",
@@ -41050,7 +41061,7 @@
       "Name": "The king is pleased",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 19337
+      "UsersEstimate": 19338
     },
     {
       "ID": "This Is Our Land",
@@ -41074,7 +41085,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29006
+      "UsersEstimate": 29007
     },
     {
       "ID": "Undercover",
@@ -41082,7 +41093,7 @@
       "Name": "Undercover",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 773
+      "UsersEstimate": 774
     },
     {
       "ID": "Veni vidi vici",
@@ -41090,7 +41101,7 @@
       "Name": "Veni vidi vici",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 3867
+      "UsersEstimate": 3868
     },
     {
       "ID": "What have the Romans ever done for us",
@@ -41105,15 +41116,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 96687,
+      "Progressed": 96690,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-21T15:57:41.3135279+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:10:23.0718833+00:00",
+  "LastChanged": "2024-01-21T23:58:01.1866316+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:10:57.3172944+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:57:51.8638549+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:10:23.0720777+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:58:01.1866328+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:10:57.3174753+00:00"
 }

@@ -9270,10 +9270,16 @@
       "Rating": 4.8,
       "NumberOfAwards": 51281,
       "NumberOfAwardsMax": 6498
+    },
+    {
+      "Time": "2024-01-22T00:03:06.1870953+00:00",
+      "Rating": 4.8,
+      "NumberOfAwards": 51283,
+      "NumberOfAwardsMax": 6498
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 51281,
+  "NumberOfAwards": 51283,
   "NumberOfAwardsMax": 6498,
   "MaxAwardTitle": "Relaxing",
   "Tags": [
@@ -9329,7 +9335,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 5641
+      "Count": 5643
     },
     {
       "Text": "This game has Amazing Characters",
@@ -9344,9 +9350,9 @@
       "Count": 1495
     }
   ],
-  "EOS_Progressed": 479621,
+  "EOS_Progressed": 479622,
   "EOS_Completed": 22,
-  "EOS_NewPlayers": 316,
+  "EOS_NewPlayers": 317,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -36979,6 +36985,11 @@
       "Time": "2024-01-21T23:09:41.3033421+00:00",
       "NumProgressed": 479621,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-22T00:09:59.8845727+00:00",
+      "NumProgressed": 479622,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 98,
@@ -37046,7 +37057,7 @@
       "Name": "On A Roll",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 124701
+      "UsersEstimate": 124702
     },
     {
       "ID": "achievement_20_seasons_at_one_club",
@@ -37102,7 +37113,7 @@
       "Name": "Team Performance",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 143886
+      "UsersEstimate": 143887
     },
     {
       "ID": "achievement_5_players_in_team_of_the_year",
@@ -37134,7 +37145,7 @@
       "Name": "Beating Expectations",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76739
+      "UsersEstimate": 76740
     },
     {
       "ID": "achievement_big_win",
@@ -37174,7 +37185,7 @@
       "Name": "Clean Sheet",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239810
+      "UsersEstimate": 239811
     },
     {
       "ID": "achievement_club_world_cup",
@@ -37382,7 +37393,7 @@
       "Name": "Unstoppable Force",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 124701
+      "UsersEstimate": 124702
     },
     {
       "ID": "achievement_mr_delegator",
@@ -37406,7 +37417,7 @@
       "Name": "Overachiever!",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 76739
+      "UsersEstimate": 76740
     },
     {
       "ID": "achievement_perfect_dressing_room_atmosphere",
@@ -37414,7 +37425,7 @@
       "Name": "Superb Dressing Room Atmosphere",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 167867
+      "UsersEstimate": 167868
     },
     {
       "ID": "achievement_perfect_managerial_support",
@@ -37502,7 +37513,7 @@
       "Name": "Rushed signing",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 76739
+      "UsersEstimate": 76740
     },
     {
       "ID": "achievement_score_a_goal_in_10_consecutive_matches",
@@ -37534,7 +37545,7 @@
       "Name": "He\u0027s Sold!",
       "Percentage": 48,
       "XP": 5,
-      "UsersEstimate": 230218
+      "UsersEstimate": 230219
     },
     {
       "ID": "achievement_signed_a_player",
@@ -37542,7 +37553,7 @@
       "Name": "He\u0027s Signed!",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239810
+      "UsersEstimate": 239811
     },
     {
       "ID": "achievement_top_goalscorer_in_league",
@@ -37574,7 +37585,7 @@
       "Name": "Armchair Expert",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 119905
+      "UsersEstimate": 119906
     },
     {
       "ID": "achievement_win_3_consecutive_league_titles",
@@ -37622,7 +37633,7 @@
       "Name": "First Victory",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 239810
+      "UsersEstimate": 239811
     },
     {
       "ID": "achievement_won_domestic_cup",
@@ -37773,15 +37784,15 @@
     {
       "ID": "8k91p5b",
       "IsBase": true,
-      "Progressed": 479621,
+      "Progressed": 479622,
       "Completed": 22
     }
   ],
   "FirstSeen": "2022-07-22T20:22:56.4642721+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:56.5953678+00:00",
-  "LastChanged": "2024-01-21T12:02:56.4012009+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:09:41.3033415+00:00",
+  "LastChanged": "2024-01-22T00:03:06.1870948+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:09:59.8845722+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:33.8725355+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:03:01.480182+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:09:41.3036123+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:03:06.1870958+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:09:59.8847704+00:00"
 }

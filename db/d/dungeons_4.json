@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 322,
   "Ranking_EOS_Completed": 88,
   "Ranking_EOS_NewPlayers": 298,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2961,9 +2961,9 @@
       "ID": "ach_main15drill_untouchable",
       "SetID": "4hg22ll",
       "Name": "Untouchable",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 141
     },
     {
       "ID": "ach_main16ring_completed",
@@ -3098,8 +3098,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:09:48.2218862+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:10:09.9293716+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:57:39.4437402+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:09:48.2219534+00:00"
+  "LastUpdate_Ratings": "2024-01-21T23:57:42.1473675+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:10:09.9294198+00:00"
 }

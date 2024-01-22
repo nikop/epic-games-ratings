@@ -25,10 +25,10 @@
 | Employee of the month | 56.00% | ~337 |
 | Law student | 55.00% | ~331 |
 | Workout professional | 52.00% | ~313 |
+| Little hacker | 52.00% | ~313 |
 | Handyman | 52.00% | ~313 |
 | Champion – starter pack | 52.00% | ~313 |
 | Fight for life | 51.00% | ~307 |
-| Little hacker | 51.00% | ~307 |
 | It's good to be alive | 51.00% | ~307 |
 | Intriguing candies | 51.00% | ~307 |
 | Own four walls | 50.00% | ~300 |

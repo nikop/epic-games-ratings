@@ -5351,9 +5351,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 40,
-      "UsersEstimate": 1281
+      "UsersEstimate": 1303
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -5400,8 +5400,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:10:08.7924248+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:10:38.8813137+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.6724658+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:59:26.6357259+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:10:08.7924549+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:00:23.7464213+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:10:38.8813543+00:00"
 }

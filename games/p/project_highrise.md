@@ -13,8 +13,8 @@
 | Need a Consult | 33.00% | ~177 |
 | Upgrade Unlock | 32.00% | ~171 |
 | It's Technical | 32.00% | ~171 |
+| Proper Walls | 29.00% | ~155 |
 | Delegate Maintenance | 29.00% | ~155 |
-| Proper Walls | 28.00% | ~150 |
 | Destination Destiny | 28.00% | ~150 |
 | Happy Tenants | 23.00% | ~123 |
 | Your Prestige is Rising | 22.00% | ~118 |
@@ -48,12 +48,12 @@
 | Master of Puppets | 7.00% | ~37 |
 | Phoning It In | 7.00% | ~37 |
 | Water Features | 6.00% | ~32 |
+| Revenue Royalty | 6.00% | ~32 |
 | Golden Opportunity | 6.00% | ~32 |
 | Careful Constructor | 5.00% | ~27 |
 | Meet Me at HQ | 5.00% | ~27 |
 | Profound Proceeds | 5.00% | ~27 |
 | Maximum Reuse | 5.00% | ~27 |
-| Revenue Royalty | 5.00% | ~27 |
 | It's a Gas | 5.00% | ~27 |
 | Pipe Up | 5.00% | ~27 |
 | Meet ADA/360 | 4.00% | ~21 |

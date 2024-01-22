@@ -36,9 +36,9 @@
 | Left Arm Leverager | 17.00% | ~237 |
 | Human Believer | 17.00% | ~237 |
 | Style Seeker | 16.00% | ~223 |
+| Unrivaled in Arms | 16.00% | ~223 |
 | Quintessence of Form | 16.00% | ~223 |
 | Threaded Harmony | 16.00% | ~223 |
-| Unrivaled in Arms | 15.00% | ~209 |
 | Karakuri Minato | 15.00% | ~209 |
 | Canyon of Karakuri | 14.00% | ~195 |
 | Jack of All Trades | 14.00% | ~195 |

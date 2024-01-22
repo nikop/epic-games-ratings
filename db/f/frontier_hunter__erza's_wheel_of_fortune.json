@@ -2984,9 +2984,9 @@
       "ID": "ACHIEVEMENT_41",
       "SetID": "7pimpda",
       "Name": "Berserker Slayer",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 91
     },
     {
       "ID": "ACHIEVEMENT_42",
@@ -3081,8 +3081,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.9709382+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.4863722+00:00",
   "LastChanged": "2024-01-04T13:01:27.5517957+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:09:49.5389492+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:10:11.6636478+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.101279+00:00",
-  "LastUpdate_Ratings": "2024-01-21T22:59:16.3330221+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:09:49.5390107+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:00:07.932943+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:10:11.6637072+00:00"
 }

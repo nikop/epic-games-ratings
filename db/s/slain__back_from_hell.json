@@ -262,9 +262,9 @@
       "Count": 129
     }
   ],
-  "EOS_Progressed": 44641,
+  "EOS_Progressed": 44643,
   "EOS_Completed": 30,
-  "EOS_NewPlayers": 427,
+  "EOS_NewPlayers": 424,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.07,
   "EosHistory": [
@@ -30282,6 +30282,11 @@
       "Time": "2024-01-21T23:03:50.8066123+00:00",
       "NumProgressed": 44641,
       "NumCompleted": 30
+    },
+    {
+      "Time": "2024-01-22T00:04:21.1516643+00:00",
+      "NumProgressed": 44643,
+      "NumCompleted": 30
     }
   ],
   "TotalAchievements": 29,
@@ -30309,7 +30314,7 @@
       "Name": "Start As You Mean To Go On",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_05_DEFEATED_THORN_BEAST",
@@ -30445,7 +30450,7 @@
       "Name": "Guard! Turn! Parry! Dodge! Spin! Ha!",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ACH_22_ENEMIES_KILLED_BY_REFLECTED_PROJECTILES",
@@ -30453,7 +30458,7 @@
       "Name": "Right Back Atcha",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 2678
+      "UsersEstimate": 2679
     },
     {
       "ID": "ACH_23_ENEMIES_KILLED_BY_TRAPS",
@@ -30469,7 +30474,7 @@
       "Name": "Hail the Great Horned Metal God!",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_25_TALISMAN_COMPLETE",
@@ -30477,7 +30482,7 @@
       "Name": "That\u0027ll Come In Handy...",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 312
+      "UsersEstimate": 313
     },
     {
       "ID": "ACH_26_VROLL_NO_DAMAGE",
@@ -30524,7 +30529,7 @@
     {
       "ID": "443p4o4",
       "IsBase": true,
-      "Progressed": 44641,
+      "Progressed": 44643,
       "Completed": 30
     }
   ],
@@ -30532,8 +30537,8 @@
   "FirstSeenRating": "2022-10-08T20:32:24.8625508+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:35.4373064+00:00",
   "LastChanged": "2024-01-13T02:25:47.9038675+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:03:50.8066121+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:04:21.151664+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:08.0073516+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:03:05.8876268+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:03:50.8068119+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:03:12.6853064+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:04:21.1518497+00:00"
 }

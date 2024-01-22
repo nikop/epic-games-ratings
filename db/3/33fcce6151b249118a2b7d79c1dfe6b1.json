@@ -4,7 +4,7 @@
   "ProductSlug": "lil-guardsman-3cf46c",
   "Ranking_EOS_Progress": 774,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewPlayers": 559,
   "Ranking_EOS_NewCompleters": 147,
   "Store": {
     "ReleaseDate": "2024-01-23T18:00:00+00:00",
@@ -432,8 +432,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-21T23:06:12.8102467+00:00",
+  "LastChanged_Achievements": "2024-01-22T00:07:43.6943255+00:00",
   "LastUpdate_AppInfo": "2024-01-15T21:56:57.6094315+00:00",
-  "LastUpdate_Ratings": "2024-01-21T23:00:12.6711355+00:00",
-  "LastUpdate_Achievements": "2024-01-21T23:06:12.810293+00:00"
+  "LastUpdate_Ratings": "2024-01-22T00:01:31.8515828+00:00",
+  "LastUpdate_Achievements": "2024-01-22T00:07:43.6943554+00:00"
 }
