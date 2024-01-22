@@ -2,12 +2,12 @@
   "ID": "cd14dcaa4f3443f19f7169a980559c62",
   "Name": "Sid Meier\u2019s Civilization\u00AE VI",
   "ProductSlug": "sid-meiers-civilization-vi",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 14,
   "Ranking_PopularitySum": 11,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-05-21T15:00:00+00:00",
@@ -16634,6 +16634,6 @@
   "FirstSeen": "2022-07-22T20:17:50.156423+00:00",
   "LastChanged": "2024-01-22T01:52:00.9324325+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:28.975641+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:52:00.9324333+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:03:28.5927449+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:57:21.3804235+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:08:30.025152+00:00"
 }

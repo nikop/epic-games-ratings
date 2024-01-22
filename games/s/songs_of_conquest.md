@@ -39,9 +39,9 @@ Number of Ratings: 292  (23.09.2022)
 | Death To Diplomacy | 0.60% | ~8 |
 | Get Over Here! | 0.60% | ~8 |
 | Cleave | 0.60% | ~8 |
+| Fully Charged | 0.40% | ~5 |
 | Coming Through! | 0.40% | ~5 |
 | Attack Bonanza | 0.30% | ~4 |
-| Fully Charged | 0.30% | ~4 |
 | Barbecue | 0.30% | ~4 |
 | Bringer of Ruin | 0.20% | ~3 |
 | Hello There | 0.20% | ~3 |

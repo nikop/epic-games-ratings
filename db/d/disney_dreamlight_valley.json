@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 128,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 185,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -6089,7 +6089,7 @@
   ],
   "EOS_Progressed": 14278,
   "EOS_Completed": 354,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 123,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -25931,9 +25931,9 @@
       "ID": "Angler",
       "SetID": "chapdi4",
       "Name": "Angler",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 75,
-      "UsersEstimate": 857
+      "UsersEstimate": 999
     },
     {
       "ID": "Banker",
@@ -26060,8 +26060,8 @@
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
   "LastChanged": "2024-01-21T20:59:04.8427749+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:04:22.6112288+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:09:25.0439176+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:53:14.1145789+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:04:22.6113479+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:58:36.4902504+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:09:25.0440845+00:00"
 }

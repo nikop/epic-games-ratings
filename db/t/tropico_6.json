@@ -1641,9 +1641,9 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7234,
+  "EOS_Progressed": 7235,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -17171,6 +17171,11 @@
       "Time": "2024-01-22T00:05:49.4180767+00:00",
       "NumProgressed": 7234,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T03:04:43.324214+00:00",
+      "NumProgressed": 7235,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17206,7 +17211,7 @@
       "Name": "Happy Ending?",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_EP_ALLMISSIONS",
@@ -17222,7 +17227,7 @@
       "Name": "Go Sovereigns!",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_EP_BATTLEROYALE",
@@ -17286,7 +17291,7 @@
       "Name": "The Legend of Langostino",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "ACH_EP_SHACKLAND",
@@ -17326,7 +17331,7 @@
       "Name": "For Science!",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 723
+      "UsersEstimate": 724
     },
     {
       "ID": "ACH_GOVERNATOR",
@@ -17334,7 +17339,7 @@
       "Name": "The Governator",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 1157
+      "UsersEstimate": 1158
     },
     {
       "ID": "ACH_JUSTONEMORETERM",
@@ -17342,7 +17347,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5281
+      "UsersEstimate": 5282
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17501,15 +17506,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7234,
+      "Progressed": 7235,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-21T15:58:03.0831244+00:00",
-  "LastChanged_Achievements": "2024-01-22T01:59:41.0766982+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:04:43.3242137+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:52:51.6913815+00:00",
-  "LastUpdate_Achievements": "2024-01-22T01:59:41.0768053+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:58:11.8532721+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:04:43.3242951+00:00"
 }

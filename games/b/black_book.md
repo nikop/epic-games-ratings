@@ -6,23 +6,23 @@ Number of Ratings: 96  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Initiation | 29.00% | ~19,828 |
-| Student | 23.00% | ~15,725 |
-| Knower | 16.00% | ~10,939 |
+| Initiation | 29.00% | ~19,829 |
+| Student | 23.00% | ~15,726 |
+| Knower | 16.00% | ~10,940 |
 | Listener | 15.00% | ~10,256 |
-| Aspen Tree | 14.00% | ~9,572 |
-| Healer | 14.00% | ~9,572 |
+| Aspen Tree | 14.00% | ~9,573 |
+| Healer | 14.00% | ~9,573 |
 | Scientist | 12.00% | ~8,205 |
 | Soldier | 12.00% | ~8,205 |
 | Cow Level | 11.00% | ~7,521 |
-| Old Friend | 10.00% | ~6,837 |
-| Herbalist | 10.00% | ~6,837 |
-| Water | 10.00% | ~6,837 |
-| New Spirits | 9.00% | ~6,153 |
-| Voipel | 9.00% | ~6,153 |
-| Collector | 9.00% | ~6,153 |
-| Wolf | 9.00% | ~6,153 |
-| Black Mage | 9.00% | ~6,153 |
+| Old Friend | 10.00% | ~6,838 |
+| Herbalist | 10.00% | ~6,838 |
+| Water | 10.00% | ~6,838 |
+| New Spirits | 9.00% | ~6,154 |
+| Voipel | 9.00% | ~6,154 |
+| Collector | 9.00% | ~6,154 |
+| Wolf | 9.00% | ~6,154 |
+| Black Mage | 9.00% | ~6,154 |
 | Card Player | 8.00% | ~5,470 |
 | Dead Friend | 8.00% | ~5,470 |
 | Pine Tree | 8.00% | ~5,470 |
@@ -35,12 +35,12 @@ Number of Ratings: 96  (23.09.2022)
 | Witch | 7.00% | ~4,786 |
 | Researcher | 7.00% | ~4,786 |
 | Savvy | 7.00% | ~4,786 |
-| Encyclopedist | 6.00% | ~4,102 |
-| Vorsa | 6.00% | ~4,102 |
-| Old Spirits | 6.00% | ~4,102 |
-| Sinner | 6.00% | ~4,102 |
-| Folklorist | 6.00% | ~4,102 |
-| Keeper of Knowledge | 6.00% | ~4,102 |
+| Encyclopedist | 6.00% | ~4,103 |
+| Vorsa | 6.00% | ~4,103 |
+| Old Spirits | 6.00% | ~4,103 |
+| Sinner | 6.00% | ~4,103 |
+| Folklorist | 6.00% | ~4,103 |
+| Keeper of Knowledge | 6.00% | ~4,103 |
 | Susanin | 5.00% | ~3,419 |
 | Traveller | 5.00% | ~3,419 |
 | Righteous | 4.00% | ~2,735 |
@@ -50,14 +50,14 @@ Number of Ratings: 96  (23.09.2022)
 | Cheater | 3.00% | ~2,051 |
 | Diplomat | 3.00% | ~2,051 |
 | White Head | 3.00% | ~2,051 |
-| Revelation | 2.00% | ~1,367 |
-| Mistress of Hell | 2.00% | ~1,367 |
-| Detective | 2.00% | ~1,367 |
-| Great Sorceress | 2.00% | ~1,367 |
-| Own Way | 2.00% | ~1,367 |
+| Revelation | 2.00% | ~1,368 |
+| Mistress of Hell | 2.00% | ~1,368 |
+| Detective | 2.00% | ~1,368 |
+| Great Sorceress | 2.00% | ~1,368 |
+| Own Way | 2.00% | ~1,368 |
 | Word Master | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,371 (Ranked 119)  
+Progressed: 68,376 (Ranked 118)  
 Completed: 75 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -206,7 +206,7 @@ Completed: 75 (0.11%) (Ranked 314)
 | 2024-01-19 | 67,935 | 75 |
 | 2024-01-20 | 68,148 | 75 |
 | 2024-01-21 | 68,355 | 75 |
-| 2024-01-22 | 68,371 | 75 |
+| 2024-01-22 | 68,376 | 75 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

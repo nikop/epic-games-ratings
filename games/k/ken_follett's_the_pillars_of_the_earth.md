@@ -6,17 +6,17 @@ Number of Ratings: 368  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tattletale | 39.00% | ~7,034 |
+| Tattletale | 39.00% | ~7,035 |
 | Man of politics | 34.00% | ~6,133 |
 | Friends of sorts | 32.00% | ~5,772 |
 | Yet another secret | 32.00% | ~5,772 |
-| Let there be darkness | 31.00% | ~5,591 |
+| Let there be darkness | 31.00% | ~5,592 |
 | End of Book One | 29.00% | ~5,231 |
 | Wannabe knight | 23.00% | ~4,149 |
 | Garden of Eden | 23.00% | ~4,149 |
 | Full house | 23.00% | ~4,149 |
 | Help an old friend | 21.00% | ~3,788 |
-| Two of us | 20.00% | ~3,607 |
+| Two of us | 20.00% | ~3,608 |
 | Negotiation skills | 18.00% | ~3,247 |
 | Workers' union | 18.00% | ~3,247 |
 | End of Book Two | 18.00% | ~3,247 |
@@ -24,7 +24,7 @@ Number of Ratings: 368  (23.09.2022)
 | Twist of Fate | 14.00% | ~2,525 |
 | Jack was here! | 14.00% | ~2,525 |
 | Exterminator | 13.00% | ~2,345 |
-| Whodunnit | 12.00% | ~2,164 |
+| Whodunnit | 12.00% | ~2,165 |
 | Good midwife | 10.00% | ~1,804 |
 | Friar Tuck | 10.00% | ~1,804 |
 | First profit | 10.00% | ~1,804 |
@@ -41,14 +41,14 @@ Number of Ratings: 368  (23.09.2022)
 | Staring contest champion | 5.00% | ~902 |
 | Lone wolf | 5.00% | ~902 |
 | Vox Populi | 5.00% | ~902 |
-| Revenge | 4.00% | ~721 |
-| Countess Aliena | 4.00% | ~721 |
+| Revenge | 4.00% | ~722 |
+| Countess Aliena | 4.00% | ~722 |
 | Care, like a brother cares | 3.00% | ~541 |
 | A brush with death | 3.00% | ~541 |
 | Self-defense | 3.00% | ~541 |
 | Boy of mystery | 2.00% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,037 (Ranked 166)  
+Progressed: 18,038 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 125 (0.69%) (Ranked 207)
 | 2024-01-19 | 17,964 | 125 |
 | 2024-01-20 | 17,997 | 125 |
 | 2024-01-21 | 18,031 | 125 |
-| 2024-01-22 | 18,037 | 125 |
+| 2024-01-22 | 18,038 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 333)  
 Sum: 200 (Ranked 419)  

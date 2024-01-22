@@ -1,24 +1,24 @@
 # Mount & Blade II: Bannerlord
 [Store](https://store.epicgames.com/en-US/p/mount-and-blade-2)  
 [View Rawdata](../../db/m/mount_&_blade_ii__bannerlord.json)  
-Rating: 4.74 (Ranked 169)  
+Rating: 4.74 (Ranked 168)  
 Number of Ratings: 5,603  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lawbringer | 43.00% | ~41,579 |
+| Lawbringer | 43.00% | ~41,580 |
 | Landlord | 35.00% | ~33,844 |
 | Trained | 30.00% | ~29,009 |
 | Bannerlord | 25.00% | ~24,174 |
-| Lawmaker | 24.00% | ~23,207 |
-| Horde breaker | 22.00% | ~21,273 |
-| The king is pleased | 20.00% | ~19,339 |
-| King Solomon | 18.00% | ~17,405 |
-| Apple of my eye | 17.00% | ~16,438 |
-| This Is Our Land | 17.00% | ~16,438 |
-| I can do it | 16.00% | ~15,471 |
-| Against all odds | 15.00% | ~14,504 |
-| Duelist | 13.00% | ~12,570 |
+| Lawmaker | 24.00% | ~23,208 |
+| Horde breaker | 22.00% | ~21,274 |
+| The king is pleased | 20.00% | ~19,340 |
+| King Solomon | 18.00% | ~17,406 |
+| Apple of my eye | 17.00% | ~16,439 |
+| This Is Our Land | 17.00% | ~16,439 |
+| I can do it | 16.00% | ~15,472 |
+| Against all odds | 15.00% | ~14,505 |
+| Duelist | 13.00% | ~12,571 |
 | God of the Arena | 12.00% | ~11,604 |
 | Swordbearer | 11.00% | ~10,637 |
 | Butterlord | 10.00% | ~9,670 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,696 (Ranked 103)  
+Progressed: 96,698 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 96,231 | 0 |
 | 2024-01-20 | 96,440 | 0 |
 | 2024-01-21 | 96,687 | 0 |
-| 2024-01-22 | 96,696 | 0 |
+| 2024-01-22 | 96,698 | 0 |
 ## Awards
 Max (Character Customization): 8,189  (Ranked 51)  
 Sum: 16,947 (Ranked 66)  

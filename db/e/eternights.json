@@ -2,7 +2,7 @@
   "ID": "0bb1bf6df5784815a0c62120f8a82b25",
   "Name": "Eternights",
   "ProductSlug": "eternights-c2fbca",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 310,
@@ -77,7 +77,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 924,
+  "EOS_Progressed": 925,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
@@ -3482,6 +3482,11 @@
       "Time": "2024-01-21T21:10:09.7058978+00:00",
       "NumProgressed": 924,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T03:09:28.7350006+00:00",
+      "NumProgressed": 925,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-08T15:06:19.9524834+00:00",
@@ -3494,7 +3499,7 @@
       "Name": "New arm",
       "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 711
+      "UsersEstimate": 712
     },
     {
       "ID": "ACHIEVEMENT_11_BondLord",
@@ -3524,9 +3529,9 @@
       "ID": "ACHIEVEMENT_14_PromiseYuna",
       "SetID": "9bke6f1",
       "Name": "Yuna\u0027s Promise",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_15_PromiseMin",
@@ -3566,7 +3571,7 @@
       "Name": "Romantic",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 129
+      "UsersEstimate": 130
     },
     {
       "ID": "ACHIEVEMENT_1_ShelterEscape",
@@ -3574,7 +3579,7 @@
       "Name": "Shelter Escape",
       "Percentage": 75,
       "XP": 20,
-      "UsersEstimate": 693
+      "UsersEstimate": 694
     },
     {
       "ID": "ACHIEVEMENT_20_TruePlayer",
@@ -3654,7 +3659,7 @@
       "Name": "First wall",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 397
+      "UsersEstimate": 398
     },
     {
       "ID": "ACHIEVEMENT_6_PiggybackExpert",
@@ -3676,9 +3681,9 @@
       "ID": "ACHIEVEMENT_8_StoneRetriever",
       "SetID": "9bke6f1",
       "Name": "Stone Retriever",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 249
+      "UsersEstimate": 240
     },
     {
       "ID": "ACHIEVEMENT_9_Flawless",
@@ -3693,7 +3698,7 @@
     {
       "ID": "9bke6f1",
       "IsBase": true,
-      "Progressed": 924,
+      "Progressed": 925,
       "Completed": 2
     }
   ],
@@ -3701,8 +3706,8 @@
   "FirstSeenRating": "2023-12-27T15:59:49.1136694+00:00",
   "FirstSeenAchievements": "2023-08-17T09:08:34.6987261+00:00",
   "LastChanged": "2024-01-21T16:00:00.0377056+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:04:26.115498+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:09:28.7350003+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.9064811+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:54:40.7471707+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:04:26.1155315+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:00:08.5655276+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:09:28.7350343+00:00"
 }

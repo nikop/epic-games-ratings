@@ -3,11 +3,11 @@
   "Name": "Galactic Civilizations IV",
   "ProductSlug": "galactic-civilizations-iv",
   "Ranking_Rating": 994,
-  "Ranking_Popularity": 385,
+  "Ranking_Popularity": 386,
   "Ranking_PopularitySum": 314,
   "Ranking_EOS_Progress": 199,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 273,
+  "Ranking_EOS_NewPlayers": 272,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-04-26T14:00:00+00:00",
@@ -10203,9 +10203,9 @@
       "ID": "Recruit_12_Leaders",
       "SetID": "4h07amh",
       "Name": "Recruit a Dozen Leaders",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 45
     },
     {
       "ID": "Recruit_Leader",
@@ -10515,8 +10515,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:05:13.4895109+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:10:17.6309773+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:53:13.9958386+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:05:13.4896203+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:58:36.3634912+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:10:17.631079+00:00"
 }

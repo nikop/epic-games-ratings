@@ -799,7 +799,7 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4728,
+  "EOS_Progressed": 4729,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 227,
   "EOS_NewCompleters": 0,
@@ -13204,6 +13204,11 @@
       "Time": "2024-01-22T01:59:46.8898298+00:00",
       "NumProgressed": 4728,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T03:04:49.0473754+00:00",
+      "NumProgressed": 4729,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13391,7 +13396,7 @@
       "Name": "Exotic Merchant",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "fellowshippower",
@@ -13775,7 +13780,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4397
+      "UsersEstimate": 4398
     },
     {
       "ID": "warmachinesarmy",
@@ -13807,14 +13812,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3688
+      "UsersEstimate": 3689
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4728,
+      "Progressed": 4729,
       "Completed": 2
     }
   ],
@@ -13822,8 +13827,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-22T01:59:46.8898295+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:04:49.0473751+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:54:36.9639059+00:00",
-  "LastUpdate_Achievements": "2024-01-22T01:59:46.8899268+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:00:04.4180613+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:04:49.0475327+00:00"
 }

@@ -1177,7 +1177,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553009,
+  "EOS_Progressed": 553014,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1453,
   "EOS_NewCompleters": 0,
@@ -32817,6 +32817,11 @@
       "Time": "2024-01-22T02:03:18.9311483+00:00",
       "NumProgressed": 553009,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T03:08:19.9256239+00:00",
+      "NumProgressed": 553014,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -32828,7 +32833,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 149312
+      "UsersEstimate": 149314
     },
     {
       "ID": "Backdoor",
@@ -32836,7 +32841,7 @@
       "Name": "Backdoor",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 143782
+      "UsersEstimate": 143784
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -32892,7 +32897,7 @@
       "Name": "Check Yourself",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22120
+      "UsersEstimate": 22121
     },
     {
       "ID": "ChokeADozenDonkeys",
@@ -32924,7 +32929,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 221204
+      "UsersEstimate": 221206
     },
     {
       "ID": "DeadlyAssassin",
@@ -32932,7 +32937,7 @@
       "Name": "Deadly Assassin",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 88481
+      "UsersEstimate": 88482
     },
     {
       "ID": "DogEatDog",
@@ -32972,7 +32977,7 @@
       "Name": "Gutshot",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 77421
+      "UsersEstimate": 77422
     },
     {
       "ID": "Handy",
@@ -32980,7 +32985,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232264
+      "UsersEstimate": 232266
     },
     {
       "ID": "HoldingYourOwn",
@@ -33020,7 +33025,7 @@
       "Name": "Moneymaker",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22120
+      "UsersEstimate": 22121
     },
     {
       "ID": "NeverGiveUp",
@@ -33076,7 +33081,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420287
+      "UsersEstimate": 420291
     },
     {
       "ID": "ProPlayer",
@@ -33100,7 +33105,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 121662
+      "UsersEstimate": 121663
     },
     {
       "ID": "RegularPunter",
@@ -33116,7 +33121,7 @@
       "Name": "Risk It For A Biscuit",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 77421
+      "UsersEstimate": 77422
     },
     {
       "ID": "RockAndHighRoller",
@@ -33140,7 +33145,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71891
+      "UsersEstimate": 71892
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -33156,7 +33161,7 @@
       "Name": "Three Way",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 105072
+      "UsersEstimate": 105073
     },
     {
       "ID": "TopDog",
@@ -33180,14 +33185,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66361
+      "UsersEstimate": 66362
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553009,
+      "Progressed": 553014,
       "Completed": 2
     }
   ],
@@ -33195,8 +33200,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-22T01:53:23.1036441+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:03:18.9311482+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:08:19.9256236+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:53:23.1036446+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:03:18.931307+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:58:46.5813545+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:08:19.9258332+00:00"
 }

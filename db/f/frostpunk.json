@@ -2,12 +2,12 @@
   "ID": "be886d9db65047a89b24cd4317695f18",
   "Name": "Frostpunk",
   "ProductSlug": "frostpunk",
-  "Ranking_Rating": 169,
+  "Ranking_Rating": 168,
   "Ranking_Popularity": 180,
   "Ranking_PopularitySum": 123,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-06-03T15:00:00+00:00",
@@ -7329,10 +7329,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 7524,
       "NumberOfAwardsMax": 865
+    },
+    {
+      "Time": "2024-01-22T03:00:08.5236811+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 7528,
+      "NumberOfAwardsMax": 865
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7524,
+  "NumberOfAwards": 7528,
   "NumberOfAwardsMax": 865,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -7352,7 +7358,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 857
+      "Count": 858
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -7364,7 +7370,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 810
+      "Count": 812
     },
     {
       "Text": "This game is Educational",
@@ -7376,7 +7382,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 862
+      "Count": 863
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7422,9 +7428,9 @@
   ],
   "FirstSeen": "2022-07-22T20:20:37.412546+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:26.239094+00:00",
-  "LastChanged": "2024-01-20T20:59:54.6735224+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:04:15.3763233+00:00",
+  "LastChanged": "2024-01-22T03:00:08.5236809+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:09:17.7957498+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:42.5225667+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:54:40.6746429+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:04:15.3763252+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:00:08.5236814+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:09:17.7957514+00:00"
 }

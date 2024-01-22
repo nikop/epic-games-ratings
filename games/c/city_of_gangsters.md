@@ -12,8 +12,8 @@ Rating: 4.29 (Ranked 890)
 | Extraordinary Logistics | 14.00% | ~50,843 |
 | Dirty Money | 13.00% | ~47,211 |
 | Family First | 13.00% | ~47,211 |
-| Cleaning House | 12.00% | ~43,579 |
-| Room in the Back | 12.00% | ~43,579 |
+| Cleaning House | 12.00% | ~43,580 |
+| Room in the Back | 12.00% | ~43,580 |
 | Beating the Heat | 11.00% | ~39,948 |
 | Booze Baron | 11.00% | ~39,948 |
 | Friends on the Force | 10.00% | ~36,316 |
@@ -36,12 +36,12 @@ Rating: 4.29 (Ranked 890)
 | Opportunity Knocked | 5.00% | ~18,158 |
 | City of Big Shoulders | 5.00% | ~18,158 |
 | Mission Mastery | 5.00% | ~18,158 |
-| Considerable Clams | 4.00% | ~14,526 |
-| Gin Joint | 4.00% | ~14,526 |
-| An Affront to the Enemy | 4.00% | ~14,526 |
-| Friends from Back Home | 4.00% | ~14,526 |
-| Bees Knees Bootlegger | 4.00% | ~14,526 |
-| Half Century Mark | 4.00% | ~14,526 |
+| Considerable Clams | 4.00% | ~14,527 |
+| Gin Joint | 4.00% | ~14,527 |
+| An Affront to the Enemy | 4.00% | ~14,527 |
+| Friends from Back Home | 4.00% | ~14,527 |
+| Bees Knees Bootlegger | 4.00% | ~14,527 |
+| Half Century Mark | 4.00% | ~14,527 |
 | Corner Opportunities | 3.00% | ~10,895 |
 | 2122 North Clark Street | 3.00% | ~10,895 |
 | Copious Cabbage | 3.00% | ~10,895 |
@@ -86,7 +86,7 @@ Rating: 4.29 (Ranked 890)
 | High Pillow | 0.10% | ~363 |
 | Station Master | 0.10% | ~363 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 363,162 (Ranked 58)  
+Progressed: 363,163 (Ranked 58)  
 Completed: 7 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -363,7 +363,7 @@ Completed: 7 (0.00%) (Ranked 409)
 | 2024-01-19 | 362,851 | 7 |
 | 2024-01-20 | 362,998 | 7 |
 | 2024-01-21 | 363,152 | 7 |
-| 2024-01-22 | 363,162 | 7 |
+| 2024-01-22 | 363,163 | 7 |
 ## Awards
 Max (Great for Beginners): 58  (Ranked 441)  
 Sum: 276 (Ranked 396)  

@@ -4,8 +4,8 @@
   "ProductSlug": "boltgun-b1cb36",
   "Ranking_EOS_Progress": 305,
   "Ranking_EOS_Completed": 288,
-  "Ranking_EOS_NewPlayers": 250,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 989,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.2,
   "EosHistory": [
@@ -3330,17 +3330,17 @@
       "ID": "ach_chapter_complete_3",
       "SetID": "d499apg",
       "Name": "Chapter III - Complete",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 69
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_complete_difficulty_easy",
       "SetID": "d499apg",
       "Name": "The Emperor Protects",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 45,
-      "UsersEstimate": 69
+      "UsersEstimate": 79
     },
     {
       "ID": "ach_complete_difficulty_extreme",
@@ -3354,9 +3354,9 @@
       "ID": "ach_complete_difficulty_hard",
       "SetID": "d499apg",
       "Name": "Emperor\u2019s Mercy",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 175,
-      "UsersEstimate": 20
+      "UsersEstimate": 30
     },
     {
       "ID": "ach_complete_difficulty_medium",
@@ -3417,8 +3417,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:03:58.9741005+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:09:01.422201+00:00",
   "LastUpdate_AppInfo": "2024-01-19T17:56:57.984209+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:57:51.2785018+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:03:58.9741271+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:02:46.5364206+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:09:01.4222323+00:00"
 }

@@ -12,9 +12,9 @@
 | Born to Win | 39.00% | ~67 |
 | Welcome to Seoul | 39.00% | ~67 |
 | Stilesville Hidden Style | 35.00% | ~60 |
-| Creating New Trends | 27.00% | ~46 |
+| Creating New Trends | 28.00% | ~48 |
+| Welcome to the The Stylin' Soiree | 28.00% | ~48 |
 | Best Gala Ever | 27.00% | ~46 |
-| Welcome to the The Stylin' Soiree | 27.00% | ~46 |
 | Scooter Race | 26.00% | ~44 |
 | Barcelona Hidden Style | 20.00% | ~34 |
 | Seoul Hidden Style | 15.00% | ~26 |

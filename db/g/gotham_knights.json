@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 145,
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 296,
-  "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewPlayers": 138,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2022-10-21T17:00:00+00:00",
     "PcReleaseDate": "2022-10-21T17:00:00+00:00",
@@ -5423,9 +5423,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83149,
+  "EOS_Progressed": 83150,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 359,
+  "EOS_NewPlayers": 358,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31118,6 +31118,11 @@
       "Time": "2024-01-22T00:04:03.667661+00:00",
       "NumProgressed": 83149,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-22T03:03:29.9594314+00:00",
+      "NumProgressed": 83150,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31241,7 +31246,7 @@
       "Name": "The Show Mud Go On",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14135
+      "UsersEstimate": 14136
     },
     {
       "ID": "CLAYFACE_3",
@@ -31273,7 +31278,7 @@
       "Name": "Fusion Expert",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 5820
+      "UsersEstimate": 5821
     },
     {
       "ID": "CRIME_FIGHTER_1",
@@ -31281,7 +31286,7 @@
       "Name": "Expert Crime Fighter",
       "Percentage": 5,
       "XP": 100,
-      "UsersEstimate": 4157
+      "UsersEstimate": 4158
     },
     {
       "ID": "CRIME_FIGHTER_2",
@@ -31297,7 +31302,7 @@
       "Name": "Talonted",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "DEFEAT_FREAKS_1",
@@ -31313,7 +31318,7 @@
       "Name": "Out of Their League",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 7483
+      "UsersEstimate": 7484
     },
     {
       "ID": "DEFEAT_LOS_2",
@@ -31321,7 +31326,7 @@
       "Name": "The Man-Bat Family",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "DEFEAT_OC_1",
@@ -31337,7 +31342,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10809
+      "UsersEstimate": 10810
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -31401,7 +31406,7 @@
       "Name": "Batarang Collector",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "GOTHAM_COO_PAGES",
@@ -31425,7 +31430,7 @@
       "Name": "Claiming the Mural High Ground",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 831
+      "UsersEstimate": 832
     },
     {
       "ID": "HARLEY_1",
@@ -31473,7 +31478,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41574
+      "UsersEstimate": 41575
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31521,7 +31526,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27439
+      "UsersEstimate": 27440
     },
     {
       "ID": "MYSTERY_02",
@@ -31553,7 +31558,7 @@
       "Name": "From Inside Gotham\u0027s Walls",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 14135
+      "UsersEstimate": 14136
     },
     {
       "ID": "MYSTERY_06",
@@ -31569,7 +31574,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10809
+      "UsersEstimate": 10810
     },
     {
       "ID": "MYSTERY_08",
@@ -31616,13 +31621,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83149,
+      "Progressed": 83150,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53429,
+      "Progressed": 53430,
       "Completed": 2680
     }
   ],
@@ -31630,8 +31635,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-22T01:53:30.4977174+00:00",
-  "LastChanged_Achievements": "2024-01-22T01:58:30.1072263+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:03:29.9594311+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:53:30.4977179+00:00",
-  "LastUpdate_Achievements": "2024-01-22T01:58:30.1073882+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:58:53.6656082+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:03:29.9595839+00:00"
 }

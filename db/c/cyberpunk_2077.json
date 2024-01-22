@@ -18792,10 +18792,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 511998,
       "NumberOfAwardsMax": 143675
+    },
+    {
+      "Time": "2024-01-22T03:03:07.5913321+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 512373,
+      "NumberOfAwardsMax": 143675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 511998,
+  "NumberOfAwards": 512373,
   "NumberOfAwardsMax": 143675,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18821,7 +18827,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 28452
+      "Count": 28645
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -18857,7 +18863,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 29391
+      "Count": 29573
     },
     {
       "Text": "This game is Extremely Fun",
@@ -18872,9 +18878,9 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1056815,
+  "EOS_Progressed": 1056835,
   "EOS_Completed": 3145,
-  "EOS_NewPlayers": 5356,
+  "EOS_NewPlayers": 5350,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50567,6 +50573,11 @@
       "Time": "2024-01-22T02:04:08.3871136+00:00",
       "NumProgressed": 1056815,
       "NumCompleted": 3145
+    },
+    {
+      "Time": "2024-01-22T03:09:10.9326905+00:00",
+      "NumProgressed": 1056835,
+      "NumCompleted": 3145
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50619,7 +50630,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "Fortuneteller",
@@ -50793,9 +50804,9 @@
       "ID": "TheFool",
       "SetID": "47clieb",
       "Name": "The Fool",
-      "Percentage": 0.4,
+      "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 4227
+      "UsersEstimate": 5284
     },
     {
       "ID": "TheHermit",
@@ -50883,7 +50894,7 @@
       "Name": "True Warrior",
       "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -50891,7 +50902,7 @@
       "Name": "Two Heads, One Bullet",
       "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3170
+      "UsersEstimate": 3171
     },
     {
       "ID": "UnderPressure",
@@ -51114,21 +51125,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1056815,
+      "Progressed": 1056835,
       "Completed": 3145
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185438,
-      "Completed": 10678
+      "Progressed": 185458,
+      "Completed": 10679
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-22T00:03:33.4419499+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:04:08.3871134+00:00",
+  "LastChanged": "2024-01-22T03:03:07.5913319+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:09:10.9326902+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:58:10.6789173+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:04:08.3872576+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:03:07.5913324+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:09:10.932909+00:00"
 }

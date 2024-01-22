@@ -6,12 +6,12 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,247 |
-| Lost and Found | 9.00% | ~748 |
+| Malpractice Assurance | 15.00% | ~1,248 |
+| Lost and Found | 9.00% | ~749 |
 | Autodidact | 8.00% | ~10,676 |
-| This Belongs in a Museum | 7.00% | ~9,341 |
-| Creep and Sleep | 7.00% | ~9,341 |
-| Overdue Notice | 7.00% | ~9,341 |
+| This Belongs in a Museum | 7.00% | ~9,342 |
+| Creep and Sleep | 7.00% | ~9,342 |
+| Overdue Notice | 7.00% | ~9,342 |
 | This guy... again? | 7.00% | ~582 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,007 |
 | Serenity Now! | 6.00% | ~8,007 |
@@ -48,12 +48,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,338 |
 | Unshackled | 4.00% | ~5,338 |
 | Road Trip | 4.00% | ~5,338 |
-| Hope Rekindled | 3.00% | ~4,003 |
-| Predator | 3.00% | ~4,003 |
-| Reverse Banditry | 3.00% | ~4,003 |
-| When You Want Something Done Right | 3.00% | ~4,003 |
-| Utopia | 3.00% | ~4,003 |
-| Hot Air | 3.00% | ~4,003 |
+| Hope Rekindled | 3.00% | ~4,004 |
+| Predator | 3.00% | ~4,004 |
+| Reverse Banditry | 3.00% | ~4,004 |
+| When You Want Something Done Right | 3.00% | ~4,004 |
+| Utopia | 3.00% | ~4,004 |
+| Hot Air | 3.00% | ~4,004 |
 | This Looks Familiar | 2.00% | ~2,669 |
 | Ichthyophobic | 2.00% | ~2,669 |
 | No More Mouths to Feed | 2.00% | ~2,669 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,446 (Ranked 92)  
+Progressed: 133,450 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,446 | 5 |
+| 2024-01-22 | 133,450 | 5 |
 ## Awards
 Max (Character Customization): 8,057  (Ranked 52)  
 Sum: 21,811 (Ranked 58)  

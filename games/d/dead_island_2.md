@@ -1,28 +1,28 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 550)  
+Rating: 4.54 (Ranked 551)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,876 |
-| Hotel California | 10.00% | ~80,797 |
-| Break A Leg | 9.00% | ~72,717 |
-| Coup de Grâce | 8.00% | ~64,637 |
-| Hazardous Materials | 8.00% | ~64,637 |
+| Welcome To Hell-A | 11.00% | ~88,878 |
+| Hotel California | 10.00% | ~80,798 |
+| Break A Leg | 9.00% | ~72,718 |
+| Coup de Grâce | 8.00% | ~64,638 |
+| Hazardous Materials | 8.00% | ~64,638 |
 | Git Gutte! | 7.00% | ~56,558 |
 | Apex Predator | 7.00% | ~56,558 |
 | Personal Assistant Personally Assisted | 7.00% | ~56,558 |
-| Dr. Reed, I Presume? | 6.00% | ~48,478 |
-| Bookworm | 6.00% | ~48,478 |
-| Friends Like These | 6.00% | ~48,478 |
-| Stacking the Deck | 6.00% | ~48,478 |
-| This is My Weapon | 6.00% | ~48,478 |
-| Anger Management | 5.00% | ~40,398 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,398 |
-| But Doctor, I am Butcho | 5.00% | ~40,398 |
-| Can't Handle the Truth | 5.00% | ~40,398 |
-| Like Riding a Bike | 5.00% | ~40,398 |
+| Dr. Reed, I Presume? | 6.00% | ~48,479 |
+| Bookworm | 6.00% | ~48,479 |
+| Friends Like These | 6.00% | ~48,479 |
+| Stacking the Deck | 6.00% | ~48,479 |
+| This is My Weapon | 6.00% | ~48,479 |
+| Anger Management | 5.00% | ~40,399 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,399 |
+| But Doctor, I am Butcho | 5.00% | ~40,399 |
+| Can't Handle the Truth | 5.00% | ~40,399 |
+| Like Riding a Bike | 5.00% | ~40,399 |
 | Making Your Mark | 4.00% | ~32,319 |
 | Perks of the Job | 4.00% | ~32,319 |
 | Slayer Squad | 4.00% | ~32,319 |
@@ -31,19 +31,19 @@ Rating: 4.54 (Ranked 550)
 | A Patton Emerges | 4.00% | ~32,319 |
 | I Am the Resurrection | 4.00% | ~32,319 |
 | Our True Nature | 4.00% | ~32,319 |
-| Whatever It Takes | 4.00% | ~5,340 |
-| Pork Chopped | 4.00% | ~5,340 |
+| Whatever It Takes | 4.00% | ~5,341 |
+| Pork Chopped | 4.00% | ~5,341 |
 | Jumbo Keyring | 3.00% | ~24,239 |
 | Humanity Distilled | 3.00% | ~24,239 |
 | Down with the Sickness | 3.00% | ~24,239 |
-| One of Us | 3.00% | ~4,005 |
-| Smorgasbord | 2.00% | ~16,159 |
-| Not Even My Final Form | 2.00% | ~16,159 |
-| Internet Famous | 2.00% | ~16,159 |
-| Max Headroom | 2.00% | ~16,159 |
-| Go, Bobcats! | 2.00% | ~16,159 |
-| Variety is the Spice of Death | 2.00% | ~16,159 |
-| Rising Star | 2.00% | ~16,159 |
+| Max Headroom | 3.00% | ~24,239 |
+| One of Us | 3.00% | ~4,006 |
+| Smorgasbord | 2.00% | ~16,160 |
+| Not Even My Final Form | 2.00% | ~16,160 |
+| Internet Famous | 2.00% | ~16,160 |
+| Go, Bobcats! | 2.00% | ~16,160 |
+| Variety is the Spice of Death | 2.00% | ~16,160 |
+| Rising Star | 2.00% | ~16,160 |
 | Make it So | 1.00% | ~8,080 |
 | LA Influential | 1.00% | ~8,080 |
 | On Safari | 1.00% | ~8,080 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 550)
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 807,968 (Ranked 23)  
+Progressed: 807,978 (Ranked 23)  
 Completed: 2,618 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -334,10 +334,10 @@ Completed: 2,618 (0.32%) (Ranked 261)
 | 2024-01-19 | 806,486 | 2,606 |
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
-| 2024-01-22 | 807,968 | 2,618 |
+| 2024-01-22 | 807,978 | 2,618 |
 ## Awards
 Max (Great Boss Battles): 10,767  (Ranked 40)  
-Sum: 16,552 (Ranked 68)  
+Sum: 16,557 (Ranked 68)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -345,7 +345,7 @@ Diff (max vs sum): -28
 | This game is Great for Beginners | 844 |
 | This game has Diverse Characters | 797 |
 | This game has Quickly Understood Controls | 752 |
-| This game is Relaxing | 707 |
+| This game is Relaxing | 712 |
 | This game has Amazing Storytelling | 701 |
 | This game is Highly Recommended | 693 |
 | This game is Extremely Fun | 665 |
@@ -629,3 +629,4 @@ Diff (max vs sum): -28
 | 2024-01-19 | 4.54 | 10,659 | 16,370 |
 | 2024-01-20 | 4.54 | 10,713 | 16,454 |
 | 2024-01-21 | 4.54 | 10,767 | 16,552 |
+| 2024-01-22 | 4.54 | 10,767 | 16,557 |

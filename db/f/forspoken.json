@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 489,
   "Ranking_EOS_Progress": 128,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 142,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47624,
+  "EOS_Progressed": 47625,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 351,
+  "EOS_NewPlayers": 350,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19574,6 +19574,11 @@
       "Time": "2024-01-22T02:03:08.4452846+00:00",
       "NumProgressed": 47624,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-22T03:06:10.0836674+00:00",
+      "NumProgressed": 47625,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -19745,7 +19750,7 @@
       "Name": "No Mercy",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2857
+      "UsersEstimate": 2858
     },
     {
       "ID": "EQUIPMENT_ALL",
@@ -19801,7 +19806,7 @@
       "Name": "Explorer: Seeker",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2857
+      "UsersEstimate": 2858
     },
     {
       "ID": "MAGICBOOST_ALL",
@@ -19841,7 +19846,7 @@
       "Name": "Help Me Out Here",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2857
+      "UsersEstimate": 2858
     },
     {
       "ID": "MAGIC_IVY",
@@ -20008,22 +20013,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47624,
+      "Progressed": 47625,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12461,
-      "Completed": 12461
+      "Progressed": 12462,
+      "Completed": 12462
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:03:08.4452844+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:06:10.0836672+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:58:01.1435777+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:03:08.445388+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:02:58.1177782+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:06:10.0838197+00:00"
 }

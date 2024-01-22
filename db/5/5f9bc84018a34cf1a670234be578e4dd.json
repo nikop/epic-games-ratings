@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 368,
   "Ranking_EOS_Completed": 19,
   "Ranking_EOS_NewPlayers": 358,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-07-27T15:30:00+00:00",
     "PcReleaseDate": "2023-07-27T15:30:00+00:00",
@@ -2422,9 +2422,9 @@
       "ID": "Batteries",
       "SetID": "7jbi7el",
       "Name": "Batteries",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 70,
-      "UsersEstimate": 255
+      "UsersEstimate": 260
     },
     {
       "ID": "Compiling",
@@ -2533,8 +2533,8 @@
   ],
   "FirstSeen": "2023-07-28T18:57:35.2106655+00:00",
   "FirstSeenAchievements": "2023-07-04T15:00:48.8668075+00:00",
-  "LastChanged_Achievements": "2024-01-22T01:59:11.4116128+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:04:12.158289+00:00",
   "LastUpdate_AppInfo": "2024-01-17T03:57:20.5897352+00:00",
-  "LastUpdate_Ratings": "2024-01-22T00:02:28.351488+00:00",
-  "LastUpdate_Achievements": "2024-01-22T01:59:11.4116323+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:57:04.7446473+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:04:12.1583243+00:00"
 }

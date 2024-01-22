@@ -531,7 +531,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3571,
+  "EOS_Progressed": 3572,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -6066,6 +6066,11 @@
       "Time": "2024-01-22T02:05:09.9421256+00:00",
       "NumProgressed": 3571,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T03:10:14.0441021+00:00",
+      "NumProgressed": 3572,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6078,7 +6083,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3178
+      "UsersEstimate": 3179
     },
     {
       "ID": "achievement_10",
@@ -6102,7 +6107,7 @@
       "Name": "Resilience to Sin",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "achievement_13",
@@ -6110,7 +6115,7 @@
       "Name": "A Familiar Nest",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "achievement_14",
@@ -6134,7 +6139,7 @@
       "Name": "Recruit",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "achievement_17",
@@ -6166,7 +6171,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2928
+      "UsersEstimate": 2929
     },
     {
       "ID": "achievement_20",
@@ -6222,7 +6227,7 @@
       "Name": "Maybe Engage a Little",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "achievement_36",
@@ -6254,7 +6259,7 @@
       "Name": "No More Names",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1964
+      "UsersEstimate": 1965
     },
     {
       "ID": "achievement_41",
@@ -6310,7 +6315,7 @@
       "Name": "Enlisted",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2714
+      "UsersEstimate": 2715
     },
     {
       "ID": "achievement_49",
@@ -6326,7 +6331,7 @@
       "Name": "Initiate",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 1464
+      "UsersEstimate": 1465
     },
     {
       "ID": "achievement_50",
@@ -6453,7 +6458,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3571,
+      "Progressed": 3572,
       "Completed": 5
     }
   ],
@@ -6461,8 +6466,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:05:09.9421253+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:10:14.0441017+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:51:57.6123632+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:05:09.9421758+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:57:17.2382521+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:10:14.0441643+00:00"
 }

@@ -1,23 +1,23 @@
 # Skul: The Hero Slayer
 [Store](https://store.epicgames.com/en-US/p/skul-the-hero-slayer)  
 [View Rawdata](../../db/s/skul__the_hero_slayer.json)  
-Rating: 4.75 (Ranked 150)  
+Rating: 4.74 (Ranked 168)  
 Number of Ratings: 546  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Legend Begins | 93.00% | ~13,879 |
-| What should I buy? | 80.00% | ~11,939 |
+| The Legend Begins | 93.00% | ~13,880 |
+| What should I buy? | 80.00% | ~11,940 |
 | Rescued Elder Ent | 61.00% | ~9,104 |
-| Focus! | 60.00% | ~8,954 |
+| Focus! | 60.00% | ~8,955 |
 | The End of the Gold Mane Knights | 48.00% | ~7,164 |
 | False Goddess, Disappear | 40.00% | ~5,970 |
-| Rules of Etiquette | 38.00% | ~5,671 |
+| Rules of Etiquette | 38.00% | ~5,672 |
 | Inventory Management | 33.00% | ~4,925 |
-| The Fall of the Leonia Order | 31.00% | ~4,626 |
-| Quick Movements | 30.00% | ~4,477 |
+| The Fall of the Leonia Order | 31.00% | ~4,627 |
+| Quick Movements | 30.00% | ~4,478 |
 | Go Home... | 28.00% | ~4,179 |
-| The Final Battle of the First Hero | 27.00% | ~4,029 |
+| The Final Battle of the First Hero | 27.00% | ~4,030 |
 | The Hero Killer | 26.00% | ~3,880 |
 | Brain at Full Throttle | 20.00% | ~2,985 |
 | Rookies Welcome | 18.00% | ~2,686 |
@@ -31,7 +31,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Skeleton King | 1.00% | ~149 |
 | Cold-Blooded | 0.60% | ~90 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 14,924 (Ranked 176)  
+Progressed: 14,925 (Ranked 176)  
 Completed: 22 (0.15%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -287,10 +287,10 @@ Completed: 22 (0.15%) (Ranked 299)
 | 2024-01-19 | 14,875 | 22 |
 | 2024-01-20 | 14,893 | 22 |
 | 2024-01-21 | 14,922 | 22 |
-| 2024-01-22 | 14,924 | 22 |
+| 2024-01-22 | 14,925 | 22 |
 ## Awards
 Max (Diverse Characters): 156  (Ranked 333)  
-Sum: 1,038 (Ranked 274)  
+Sum: 1,039 (Ranked 274)  
 Diff (max vs sum): 59  
 | Award | Count |
 | ----- | ----- |
@@ -299,7 +299,7 @@ Diff (max vs sum): 59
 | This game is Highly Recommended | 126 |
 | This game is Extremely Fun | 118 |
 | This game is Relaxing | 116 |
-| This game has Quickly Understood Controls | 114 |
+| This game has Quickly Understood Controls | 115 |
 | This game has Amazing Storytelling | 97 |
 | This game has Amazing Characters | 88 |
 | This game has a Creative Community | 67 |
@@ -490,3 +490,4 @@ Diff (max vs sum): 59
 | 2024-01-18 | 4.75 | - | 155 | 1,035 |
 | 2024-01-19 | 4.75 | - | 156 | 1,037 |
 | 2024-01-20 | 4.75 | - | 156 | 1,038 |
+| 2024-01-22 | 4.74 | - | 156 | 1,039 |

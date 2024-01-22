@@ -18,7 +18,7 @@ Number of Ratings: 1,396  (23.09.2022)
 | Chef Cook | 19.00% | ~2,713 |
 | Miner | 11.00% | ~1,571 |
 | Duty Bound | 8.00% | ~1,142 |
-| Angler | 6.00% | ~857 |
+| Angler | 7.00% | ~999 |
 | Thorn Cleaner | 6.00% | ~857 |
 | Chit Chatter | 3.00% | ~428 |
 ## Popularity (Based on EOS Achievements)

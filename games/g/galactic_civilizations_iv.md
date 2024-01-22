@@ -47,13 +47,13 @@ Number of Ratings: 429  (23.09.2022)
 | Win as Torians | 0.80% | ~61 |
 | Win as the Drengin | 0.70% | ~53 |
 | Win as Xeloxi | 0.70% | ~53 |
+| Recruit a Dozen Leaders | 0.60% | ~45 |
 | Commodity Seller, Level 2 | 0.60% | ~45 |
 | Win as the Drath | 0.60% | ~45 |
 | Win as the Iridium | 0.60% | ~45 |
 | Win as the Manti | 0.60% | ~45 |
 | Win as the Onyx | 0.60% | ~45 |
 | Diplomatic Victory! | 0.60% | ~45 |
-| Recruit a Dozen Leaders | 0.50% | ~38 |
 | Win as the Iconians | 0.50% | ~38 |
 | Commodity Trader - Level 2 | 0.30% | ~23 |
 | Commodity Selling Guru | 0.30% | ~23 |
@@ -356,9 +356,9 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 7,573 | 0 |
 | 2024-01-21 | 7,577 | 0 |
 ## Awards
-Max (Diverse Characters): 99  (Ranked 385)  
+Max (Diverse Characters): 99  (Ranked 386)  
 Sum: 702 (Ranked 314)  
-Diff (max vs sum): 71  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 99 |

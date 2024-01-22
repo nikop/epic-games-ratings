@@ -4,7 +4,7 @@
   "ProductSlug": "hello-goodboy-4b2edb",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 559,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-05-25T16:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:52:34.582918+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:04:30.8426512+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:09:33.4309683+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:38.7500658+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:53:11.7227166+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:04:30.842653+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:58:34.1401369+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:09:33.4309701+00:00"
 }

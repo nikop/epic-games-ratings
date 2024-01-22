@@ -4,7 +4,7 @@
   "ProductSlug": "chased-by-darkness-d00d26",
   "Ranking_EOS_Progress": 275,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 243,
+  "Ranking_EOS_NewPlayers": 240,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-07-01T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1502,
+  "EOS_Progressed": 1503,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 36,
+  "EOS_NewPlayers": 37,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4024,6 +4024,11 @@
       "Time": "2024-01-21T18:11:30.4302943+00:00",
       "NumProgressed": 1502,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T03:10:22.2179795+00:00",
+      "NumProgressed": 1503,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -4035,7 +4040,7 @@
       "Name": "This Isn\u0027t The Last Box",
       "Percentage": 72,
       "XP": 5,
-      "UsersEstimate": 1081
+      "UsersEstimate": 1082
     },
     {
       "ID": "AMMO_ACHIEVEMENT_2",
@@ -4043,7 +4048,7 @@
       "Name": "How Many Do You Need?",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 811
+      "UsersEstimate": 812
     },
     {
       "ID": "AMMO_ACHIEVEMENT_3",
@@ -4051,7 +4056,7 @@
       "Name": "FULLCLIP",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "AMMO_ACHIEVEMENT_4",
@@ -4107,7 +4112,7 @@
       "Name": "Capraphobia",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 856
+      "UsersEstimate": 857
     },
     {
       "ID": "BARK_ACHIEVEMENT_2",
@@ -4275,7 +4280,7 @@
       "Name": "Where Is Houdini?",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "FREE_ACHIEVEMENT_1",
@@ -4283,7 +4288,7 @@
       "Name": "I\u0027ll Save You!",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 315
+      "UsersEstimate": 316
     },
     {
       "ID": "FREE_ACHIEVEMENT_2",
@@ -4307,7 +4312,7 @@
       "Name": "Pest Control or Taxonomist?",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "KILLR_ACHIEVEMENT_1",
@@ -4315,7 +4320,7 @@
       "Name": "Breaking Twigs",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 871
+      "UsersEstimate": 872
     },
     {
       "ID": "KILLR_ACHIEVEMENT_2",
@@ -4385,9 +4390,9 @@
       "ID": "KLEECHER_ACHIEVEMENT_2",
       "SetID": "9lcahn0",
       "Name": "Leecher Hunting Season",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 300
+      "UsersEstimate": 286
     },
     {
       "ID": "LEECHER_ACHIEVEMENT_1",
@@ -4459,7 +4464,7 @@
       "Name": "Buy A Book",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 255
+      "UsersEstimate": 256
     },
     {
       "ID": "OUT_ACHIEVEMENT_1",
@@ -4483,7 +4488,7 @@
       "Name": "The Clairvoyant Who Doesn\u0027t See",
       "Percentage": 52,
       "XP": 5,
-      "UsersEstimate": 781
+      "UsersEstimate": 782
     },
     {
       "ID": "RAPTOR_ACHIEVEMENT_2",
@@ -4562,14 +4567,14 @@
     {
       "ID": "9lcahn0",
       "IsBase": true,
-      "Progressed": 1502,
+      "Progressed": 1503,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-07-04T15:57:15.7278878+00:00",
   "FirstSeenAchievements": "2023-06-22T13:07:11.8536651+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:05:18.0309002+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:10:22.217979+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:13.6978618+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:57:46.1794691+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:05:18.0309735+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:02:41.9723422+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:10:22.2180514+00:00"
 }

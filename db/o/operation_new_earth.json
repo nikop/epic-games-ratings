@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2301,
+  "EOS_Progressed": 2302,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 53,
+  "EOS_NewPlayers": 54,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -8901,6 +8901,11 @@
       "Time": "2024-01-21T22:04:45.7021769+00:00",
       "NumProgressed": 2301,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T03:04:30.934164+00:00",
+      "NumProgressed": 2302,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 38,
@@ -9088,7 +9093,7 @@
       "Name": "It\u0027s Good to have Allies",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 644
+      "UsersEstimate": 645
     },
     {
       "ID": "objective_key_contest_tiles_3",
@@ -9168,7 +9173,7 @@
       "Name": "Defenses Online",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "objective_research_unlock_air_vehicle_tier_4",
@@ -9215,7 +9220,7 @@
     {
       "ID": "bm61c2p",
       "IsBase": true,
-      "Progressed": 2301,
+      "Progressed": 2302,
       "Completed": 1
     }
   ],
@@ -9223,8 +9228,8 @@
   "FirstSeenRating": "2023-10-02T15:57:56.3745226+00:00",
   "FirstSeenAchievements": "2023-05-18T10:05:12.5661211+00:00",
   "LastChanged": "2024-01-12T17:58:59.9146024+00:00",
-  "LastChanged_Achievements": "2024-01-22T01:59:29.1190884+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:04:30.9341637+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:45.1428113+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:54:53.8896727+00:00",
-  "LastUpdate_Achievements": "2024-01-22T01:59:29.1191573+00:00"
+  "LastUpdate_Ratings": "2024-01-22T03:00:21.8416377+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:04:30.934282+00:00"
 }

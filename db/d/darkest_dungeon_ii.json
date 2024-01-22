@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11160,9 +11160,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133446,
+  "EOS_Progressed": 133450,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 595,
+  "EOS_NewPlayers": 594,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -40990,6 +40990,11 @@
       "Time": "2024-01-22T02:05:09.7063684+00:00",
       "NumProgressed": 133446,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T03:10:13.7049691+00:00",
+      "NumProgressed": 133450,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41105,7 +41110,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -41121,7 +41126,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -41129,7 +41134,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41161,7 +41166,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41225,7 +41230,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9341
+      "UsersEstimate": 9342
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41233,7 +41238,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "combat_kill_shambler",
@@ -41401,7 +41406,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -41433,7 +41438,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -41465,7 +41470,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4003
+      "UsersEstimate": 4004
     },
     {
       "ID": "run_victory_act03",
@@ -41537,7 +41542,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1247
+      "UsersEstimate": 1248
     },
     {
       "ID": "combat_kill_collector",
@@ -41601,7 +41606,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41632,21 +41637,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133446,
+      "Progressed": 133450,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8315,
+      "Progressed": 8319,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-22T01:53:12.1349438+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:05:09.7063682+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:10:13.7049689+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:53:12.1349444+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:05:09.7065437+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:58:34.5205949+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:10:13.7051606+00:00"
 }

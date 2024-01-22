@@ -2,12 +2,12 @@
   "ID": "236c74b4cd2e4e3099cbe2ebdc9686fd",
   "Name": "Dead Island 2",
   "ProductSlug": "dead-island-2",
-  "Ranking_Rating": 550,
+  "Ranking_Rating": 551,
   "Ranking_Popularity": 40,
   "Ranking_PopularitySum": 68,
   "Ranking_EOS_Progress": 23,
   "Ranking_EOS_Completed": 261,
-  "Ranking_EOS_NewPlayers": 35,
+  "Ranking_EOS_NewPlayers": 36,
   "Ranking_EOS_NewCompleters": 11,
   "Store": {
     "ReleaseDate": "2023-04-21T14:00:00+00:00",
@@ -9013,10 +9013,16 @@
       "Rating": 4.54,
       "NumberOfAwards": 16552,
       "NumberOfAwardsMax": 10767
+    },
+    {
+      "Time": "2024-01-22T02:57:11.6745763+00:00",
+      "Rating": 4.54,
+      "NumberOfAwards": 16557,
+      "NumberOfAwardsMax": 10767
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16552,
+  "NumberOfAwards": 16557,
   "NumberOfAwardsMax": 10767,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9066,7 +9072,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 707
+      "Count": 712
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9075,9 +9081,9 @@
       "Count": 701
     }
   ],
-  "EOS_Progressed": 807968,
+  "EOS_Progressed": 807978,
   "EOS_Completed": 2618,
-  "EOS_NewPlayers": 4277,
+  "EOS_NewPlayers": 4266,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -40995,6 +41001,11 @@
       "Time": "2024-01-22T02:04:58.3746558+00:00",
       "NumProgressed": 807968,
       "NumCompleted": 2618
+    },
+    {
+      "Time": "2024-01-22T03:10:01.8346012+00:00",
+      "NumProgressed": 807978,
+      "NumCompleted": 2618
     }
   ],
   "TotalAchievements": 51,
@@ -41006,7 +41017,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48478
+      "UsersEstimate": 48479
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -41030,7 +41041,7 @@
       "Name": "Anger Management",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40398
+      "UsersEstimate": 40399
     },
     {
       "ID": "ach_ayeaye_captain_vixen",
@@ -41062,7 +41073,7 @@
       "Name": "Bookworm",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 48478
+      "UsersEstimate": 48479
     },
     {
       "ID": "ach_break_a_leg",
@@ -41070,7 +41081,7 @@
       "Name": "Break A Leg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72717
+      "UsersEstimate": 72718
     },
     {
       "ID": "ach_contender",
@@ -41086,7 +41097,7 @@
       "Name": "I Got a Zombie Army and You Can\u0027t Harm Me",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40398
+      "UsersEstimate": 40399
     },
     {
       "ID": "ach_doctor_i_am_butcho",
@@ -41094,7 +41105,7 @@
       "Name": "But Doctor, I am Butcho",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40398
+      "UsersEstimate": 40399
     },
     {
       "ID": "ach_doom_buddies",
@@ -41110,7 +41121,7 @@
       "Name": "Smorgasbord",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 16159
+      "UsersEstimate": 16160
     },
     {
       "ID": "ach_fetch_me_a_tisha",
@@ -41118,7 +41129,7 @@
       "Name": "Can\u0027t Handle the Truth",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40398
+      "UsersEstimate": 40399
     },
     {
       "ID": "ach_finisher",
@@ -41126,7 +41137,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64637
+      "UsersEstimate": 64638
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -41134,7 +41145,7 @@
       "Name": "Like Riding a Bike",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 40398
+      "UsersEstimate": 40399
     },
     {
       "ID": "ach_good_eyesight",
@@ -41142,7 +41153,7 @@
       "Name": "Not Even My Final Form",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16159
+      "UsersEstimate": 16160
     },
     {
       "ID": "ach_hazardous_materials",
@@ -41150,7 +41161,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64637
+      "UsersEstimate": 64638
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -41158,7 +41169,7 @@
       "Name": "Friends Like These",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48478
+      "UsersEstimate": 48479
     },
     {
       "ID": "ach_hotel_california",
@@ -41166,7 +41177,7 @@
       "Name": "Hotel California",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80797
+      "UsersEstimate": 80798
     },
     {
       "ID": "ach_impressive_aim",
@@ -41182,7 +41193,7 @@
       "Name": "Internet Famous",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16159
+      "UsersEstimate": 16160
     },
     {
       "ID": "ach_investigator",
@@ -41278,7 +41289,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48478
+      "UsersEstimate": 48479
     },
     {
       "ID": "ach_star_performance",
@@ -41300,9 +41311,9 @@
       "ID": "ach_survival_of_the_fittest",
       "SetID": "7km39fm",
       "Name": "Max Headroom",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 16159
+      "UsersEstimate": 24239
     },
     {
       "ID": "ach_the_vcla",
@@ -41310,7 +41321,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16159
+      "UsersEstimate": 16160
     },
     {
       "ID": "ach_thesacrifice",
@@ -41326,7 +41337,7 @@
       "Name": "This is My Weapon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48478
+      "UsersEstimate": 48479
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -41334,7 +41345,7 @@
       "Name": "Variety is the Spice of Death",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 16159
+      "UsersEstimate": 16160
     },
     {
       "ID": "ach_welcome_to_hell_a",
@@ -41342,7 +41353,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88876
+      "UsersEstimate": 88878
     },
     {
       "ID": "ach_well_known_survivor",
@@ -41350,7 +41361,7 @@
       "Name": "Rising Star",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 16159
+      "UsersEstimate": 16160
     },
     {
       "ID": "ach_well_trained",
@@ -41366,7 +41377,7 @@
       "Name": "One of Us",
       "Percentage": 3,
       "XP": 60,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "ach_dark_magic",
@@ -41374,7 +41385,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5340
+      "UsersEstimate": 5341
     },
     {
       "ID": "ach_gardening_tools",
@@ -41390,7 +41401,7 @@
       "Name": "Pork Chopped",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5340
+      "UsersEstimate": 5341
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -41413,22 +41424,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 807968,
+      "Progressed": 807978,
       "Completed": 2618
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 133512,
+      "Progressed": 133522,
       "Completed": 36804
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
-  "LastChanged": "2024-01-21T23:57:02.0700429+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:04:58.3746555+00:00",
+  "LastChanged": "2024-01-22T02:57:11.6745761+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:10:01.8346007+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.3560603+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:51:52.4419932+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:04:58.3748477+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:57:11.6745767+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:10:01.8347498+00:00"
 }

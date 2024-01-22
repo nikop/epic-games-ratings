@@ -4,8 +4,8 @@
   "ProductSlug": "season",
   "Ranking_EOS_Progress": 253,
   "Ranking_EOS_Completed": 97,
-  "Ranking_EOS_NewPlayers": 230,
-  "Ranking_EOS_NewCompleters": 72,
+  "Ranking_EOS_NewPlayers": 231,
+  "Ranking_EOS_NewCompleters": 71,
   "Store": {
     "ReleaseDate": "2023-01-31T17:00:00+00:00",
     "PcReleaseDate": "2023-01-31T17:00:00+00:00",
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2171,
+  "EOS_Progressed": 2172,
   "EOS_Completed": 81,
   "EOS_NewPlayers": 44,
   "EOS_NewCompleters": 3,
@@ -5254,6 +5254,11 @@
       "Time": "2024-01-21T23:10:08.792425+00:00",
       "NumProgressed": 2171,
       "NumCompleted": 81
+    },
+    {
+      "Time": "2024-01-22T03:10:05.0104117+00:00",
+      "NumProgressed": 2172,
+      "NumCompleted": 81
     }
   ],
   "TotalAchievements": 16,
@@ -5321,7 +5326,7 @@
       "Name": "Home Leaver",
       "Percentage": 78,
       "XP": 40,
-      "UsersEstimate": 1693
+      "UsersEstimate": 1694
     },
     {
       "ID": "ACH_JOURNALBEAUTIFIER",
@@ -5329,7 +5334,7 @@
       "Name": "Journal Beautifier",
       "Percentage": 79,
       "XP": 40,
-      "UsersEstimate": 1715
+      "UsersEstimate": 1716
     },
     {
       "ID": "ACH_LOVEUNCOVERER",
@@ -5351,9 +5356,9 @@
       "ID": "ACH_OUTSIDEWORLDSEER",
       "SetID": "7pam6gn",
       "Name": "Outside World Seer",
-      "Percentage": 60,
+      "Percentage": 59,
       "XP": 40,
-      "UsersEstimate": 1303
+      "UsersEstimate": 1281
     },
     {
       "ID": "ACH_SHRINEARRIVER",
@@ -5392,7 +5397,7 @@
     {
       "ID": "7pam6gn",
       "IsBase": true,
-      "Progressed": 2171,
+      "Progressed": 2172,
       "Completed": 81
     }
   ],
@@ -5400,8 +5405,8 @@
   "FirstSeenRating": "2023-03-31T05:57:21.5123333+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.3083546+00:00",
   "LastChanged": "2023-03-31T05:57:21.5123334+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:05:01.4238255+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:10:05.0104113+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:54.6724658+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:53:59.887759+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:05:01.4238505+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:59:26.6055309+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:10:05.010467+00:00"
 }

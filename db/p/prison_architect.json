@@ -8437,10 +8437,16 @@
       "Rating": 4.61,
       "NumberOfAwards": 4974,
       "NumberOfAwardsMax": 647
+    },
+    {
+      "Time": "2024-01-22T02:57:34.0125953+00:00",
+      "Rating": 4.61,
+      "NumberOfAwards": 4977,
+      "NumberOfAwardsMax": 647
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4974,
+  "NumberOfAwards": 4977,
   "NumberOfAwardsMax": 647,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -8484,7 +8490,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 586
+      "Count": 589
     },
     {
       "Text": "This game is Relaxing",
@@ -8511,9 +8517,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 219928,
+  "EOS_Progressed": 219933,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3179,
+  "EOS_NewPlayers": 3174,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40336,6 +40342,11 @@
       "Time": "2024-01-22T02:04:48.7600239+00:00",
       "NumProgressed": 219928,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-22T03:09:51.9932877+00:00",
+      "NumProgressed": 219933,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -40379,7 +40390,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 32989
+      "UsersEstimate": 32990
     },
     {
       "ID": "Achievement_13",
@@ -40427,7 +40438,7 @@
       "Name": "Stone Walls",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 52783
+      "UsersEstimate": 52784
     },
     {
       "ID": "Achievement_5",
@@ -40474,15 +40485,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 219928,
+      "Progressed": 219933,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
-  "LastChanged": "2024-01-21T23:57:37.2572354+00:00",
-  "LastChanged_Achievements": "2024-01-22T02:04:48.7600237+00:00",
+  "LastChanged": "2024-01-22T02:57:34.0125952+00:00",
+  "LastChanged_Achievements": "2024-01-22T03:09:51.9932874+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.4348703+00:00",
-  "LastUpdate_Ratings": "2024-01-22T01:52:16.0772908+00:00",
-  "LastUpdate_Achievements": "2024-01-22T02:04:48.7601599+00:00"
+  "LastUpdate_Ratings": "2024-01-22T02:57:34.0125957+00:00",
+  "LastUpdate_Achievements": "2024-01-22T03:09:51.9934042+00:00"
 }
