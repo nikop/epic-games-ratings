@@ -9751,9 +9751,9 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255174,
+  "EOS_Progressed": 255177,
   "EOS_Completed": 2631,
-  "EOS_NewPlayers": 1136,
+  "EOS_NewPlayers": 1137,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41206,6 +41206,11 @@
       "Time": "2024-01-22T13:18:34.964923+00:00",
       "NumProgressed": 255174,
       "NumCompleted": 2631
+    },
+    {
+      "Time": "2024-01-22T14:10:41.5451276+00:00",
+      "NumProgressed": 255177,
+      "NumCompleted": 2631
     }
   ],
   "TotalAchievements": 546,
@@ -41585,7 +41590,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "objective_completed_110",
@@ -42889,7 +42894,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "objective_completed_34",
@@ -44361,7 +44366,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5103
+      "UsersEstimate": 5104
     },
     {
       "ID": "objective_completed_70",
@@ -45584,21 +45589,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221448,
+      "Progressed": 221451,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255174,
+      "Progressed": 255177,
       "Completed": 2631
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-22T09:57:37.3372509+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:34.9649224+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:41.5451273+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:05:39.8426322+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:34.9671814+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:43.5413653+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:41.5476703+00:00"
 }

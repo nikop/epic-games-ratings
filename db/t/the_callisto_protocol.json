@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 316,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
-  "Ranking_EOS_NewPlayers": 156,
+  "Ranking_EOS_NewPlayers": 155,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-03T05:00:00+00:00",
@@ -2295,10 +2295,16 @@
       "Rating": 4.22,
       "NumberOfAwards": 682,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-01-22T14:03:24.1566115+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 684,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 682,
+  "NumberOfAwards": 684,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
@@ -2330,7 +2336,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 120
+      "Count": 122
     },
     {
       "Text": "This game has Challenging Combat",
@@ -2345,9 +2351,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22662,
+  "EOS_Progressed": 22664,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 256,
+  "EOS_NewPlayers": 258,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14690,6 +14696,11 @@
       "Time": "2024-01-22T13:18:06.6931581+00:00",
       "NumProgressed": 22662,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-22T14:10:14.4880251+00:00",
+      "NumProgressed": 22664,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14733,7 +14744,7 @@
       "Name": "Flesh Wound",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "FIND_ALL_BIOS",
@@ -14805,7 +14816,7 @@
       "Name": "Get a Grip",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 5212
+      "UsersEstimate": 5213
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14837,7 +14848,7 @@
       "Name": "Terminated",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "KILL_WITH_GRP_HAZARD",
@@ -14845,7 +14856,7 @@
       "Name": "Workplace Hazard",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4080
     },
     {
       "ID": "PERFECT_DODGE_GRUNT",
@@ -14893,7 +14904,7 @@
       "Name": "The Outer Way",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "STORY_ESCAPE",
@@ -14901,7 +14912,7 @@
       "Name": "If the SHU Fits...",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 4079
+      "UsersEstimate": 4080
     },
     {
       "ID": "STORY_HABITAT",
@@ -14925,7 +14936,7 @@
       "Name": "What Lies Beneath",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "STORY_OUTBREAK",
@@ -14933,7 +14944,7 @@
       "Name": "Desperate Times",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 5892
+      "UsersEstimate": 5893
     },
     {
       "ID": "STORY_SNOWCAT",
@@ -14949,7 +14960,7 @@
       "Name": "Full Circle",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 2719
+      "UsersEstimate": 2720
     },
     {
       "ID": "STORY_TUNNELS",
@@ -15076,22 +15087,22 @@
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22662,
+      "Progressed": 22664,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10588,
+      "Progressed": 10590,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-22T06:03:18.6579185+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:06.6931573+00:00",
+  "LastChanged": "2024-01-22T14:03:24.1566114+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:14.4880246+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:11:21.425219+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:06.6932818+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:03:24.1566118+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:14.488116+00:00"
 }

@@ -11,13 +11,13 @@
 | This looks really bad | 26.00% | ~171 |
 | Unholy lands | 23.00% | ~151 |
 | Unveiling the Magnitude of Sin | 14.00% | ~92 |
-| The court | 10.00% | ~66 |
+| The court | 11.00% | ~72 |
 | The crucifixion | 9.00% | ~59 |
 | Holy Nails | 9.00% | ~59 |
 | Flagellation | 9.00% | ~59 |
 | The choice | 6.00% | ~39 |
 | Hubris | 5.00% | ~33 |
-| Humility | 2.00% | ~13 |
+| Humility | 3.00% | ~20 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 658 (Ranked 342)  
 Completed: 8 (1.22%) (Ranked 165)  

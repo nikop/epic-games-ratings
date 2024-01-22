@@ -5,24 +5,24 @@ Rating: 4.22 (Ranked 960)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Flesh Wound | 28.00% | ~6,345 |
-| The Outer Way | 28.00% | ~6,345 |
-| Desperate Times | 26.00% | ~5,892 |
+| Flesh Wound | 28.00% | ~6,346 |
+| The Outer Way | 28.00% | ~6,346 |
+| Desperate Times | 26.00% | ~5,893 |
 | Paper Jams | 25.00% | ~5,666 |
-| Get a Grip | 23.00% | ~5,212 |
+| Get a Grip | 23.00% | ~5,213 |
 | Chew 'Em Up | 22.00% | ~4,986 |
 | Reforged | 21.00% | ~4,759 |
 | Float Like A Butterfly | 19.00% | ~4,306 |
-| Workplace Hazard | 18.00% | ~4,079 |
-| If the SHU Fits... | 18.00% | ~4,079 |
+| Workplace Hazard | 18.00% | ~4,080 |
+| If the SHU Fits... | 18.00% | ~4,080 |
 | Without A Paddle | 16.00% | ~3,626 |
 | In the Pipe, Five by Five | 14.00% | ~3,173 |
 | Crash Site | 14.00% | ~3,173 |
 | Two Heads Are Better Than One | 13.00% | ~2,946 |
 | Power Up | 13.00% | ~2,946 |
-| Terminated | 12.00% | ~2,719 |
-| What Lies Beneath | 12.00% | ~2,719 |
-| Full Circle | 12.00% | ~2,719 |
+| Terminated | 12.00% | ~2,720 |
+| What Lies Beneath | 12.00% | ~2,720 |
+| Full Circle | 12.00% | ~2,720 |
 | Giving Back | 11.00% | ~2,493 |
 | You Need a Gun | 10.00% | ~2,266 |
 | I Do Belong Here | 9.00% | ~2,040 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 960)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,662 (Ranked 153)  
+Progressed: 22,664 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,17 +322,17 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-19 | 22,569 | 82 |
 | 2024-01-20 | 22,600 | 82 |
 | 2024-01-21 | 22,649 | 82 |
-| 2024-01-22 | 22,662 | 82 |
+| 2024-01-22 | 22,664 | 82 |
 ## Awards
 Max (Amazing Characters): 141  (Ranked 343)  
-Sum: 682 (Ranked 316)  
+Sum: 684 (Ranked 316)  
 Diff (max vs sum): 27  
 | Award | Count |
 | ----- | ----- |
 | This game has Amazing Characters | 141 |
 | This game is Highly Recommended | 123 |
 | This game is Extremely Fun | 123 |
-| This game has Amazing Storytelling | 120 |
+| This game has Amazing Storytelling | 122 |
 | This game has Quickly Understood Controls | 117 |
 | This game has Challenging Combat | 68 |
 | This game has a Creative Community | 58 |
@@ -548,4 +548,4 @@ Diff (max vs sum): 27
 | 2024-01-19 | 4.22 | 139 | 673 |
 | 2024-01-20 | 4.22 | 139 | 678 |
 | 2024-01-21 | 4.22 | 141 | 681 |
-| 2024-01-22 | 4.22 | 141 | 682 |
+| 2024-01-22 | 4.22 | 141 | 684 |

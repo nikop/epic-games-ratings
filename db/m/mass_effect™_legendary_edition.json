@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 4582,
+  "EOS_Progressed": 4583,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 209,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -8863,6 +8863,11 @@
       "Time": "2024-01-22T12:11:32.9908321+00:00",
       "NumProgressed": 4582,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-22T14:10:38.8331583+00:00",
+      "NumProgressed": 4583,
+      "NumCompleted": 14
     }
   ],
   "AchievementsAdded": "2023-09-20T19:07:08.0577567+00:00",
@@ -9019,7 +9024,7 @@
       "Name": "Last Resort",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_116",
@@ -9067,7 +9072,7 @@
       "Name": "Paramour I",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "achievement_121",
@@ -9099,7 +9104,7 @@
       "Name": "Recruit",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 2428
+      "UsersEstimate": 2429
     },
     {
       "ID": "achievement_125",
@@ -9115,7 +9120,7 @@
       "Name": "Veteran",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "achievement_127",
@@ -9187,7 +9192,7 @@
       "Name": "Medal of Heroism",
       "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 2016
+      "UsersEstimate": 2017
     },
     {
       "ID": "achievement_20",
@@ -9195,7 +9200,7 @@
       "Name": "Completionist",
       "Percentage": 20,
       "XP": 75,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_21",
@@ -9219,7 +9224,7 @@
       "Name": "Medal of Exploration III",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_24",
@@ -9243,7 +9248,7 @@
       "Name": "Krogan Ally",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "achievement_27",
@@ -9259,7 +9264,7 @@
       "Name": "Quarian Ally",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 2245
+      "UsersEstimate": 2246
     },
     {
       "ID": "achievement_29",
@@ -9275,7 +9280,7 @@
       "Name": "Distinguished Service Medal",
       "Percentage": 90,
       "XP": 25,
-      "UsersEstimate": 4124
+      "UsersEstimate": 4125
     },
     {
       "ID": "achievement_30",
@@ -9283,7 +9288,7 @@
       "Name": "Principled",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_31",
@@ -9291,7 +9296,7 @@
       "Name": "Spectre Inductee",
       "Percentage": 66,
       "XP": 15,
-      "UsersEstimate": 3024
+      "UsersEstimate": 3025
     },
     {
       "ID": "achievement_32",
@@ -9315,7 +9320,7 @@
       "Name": "Colonial Savior",
       "Percentage": 32,
       "XP": 75,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_35",
@@ -9323,7 +9328,7 @@
       "Name": "Mission Accomplished",
       "Percentage": 20,
       "XP": 125,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_36",
@@ -9331,7 +9336,7 @@
       "Name": "Missing in Action",
       "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 1741
+      "UsersEstimate": 1742
     },
     {
       "ID": "achievement_37",
@@ -9371,7 +9376,7 @@
       "Name": "Suicide Mission",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_41",
@@ -9379,7 +9384,7 @@
       "Name": "Against All Odds",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_42",
@@ -9387,7 +9392,7 @@
       "Name": "No One Left Behind",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_43",
@@ -9579,7 +9584,7 @@
       "Name": "Merciless",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_65",
@@ -9611,7 +9616,7 @@
       "Name": "Agent",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 916
+      "UsersEstimate": 917
     },
     {
       "ID": "achievement_69",
@@ -9643,7 +9648,7 @@
       "Name": "Scientist",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 1466
+      "UsersEstimate": 1467
     },
     {
       "ID": "achievement_72",
@@ -9659,7 +9664,7 @@
       "Name": "Scholar",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 1420
+      "UsersEstimate": 1421
     },
     {
       "ID": "achievement_74",
@@ -9683,7 +9688,7 @@
       "Name": "Broke, Blind, and Bedlam",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 1191
+      "UsersEstimate": 1192
     },
     {
       "ID": "achievement_77",
@@ -9795,7 +9800,7 @@
       "Name": "Last Witness",
       "Percentage": 14,
       "XP": 25,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_9",
@@ -9819,7 +9824,7 @@
       "Name": "Well Connected",
       "Percentage": 14,
       "XP": 15,
-      "UsersEstimate": 641
+      "UsersEstimate": 642
     },
     {
       "ID": "achievement_92",
@@ -9890,19 +9895,19 @@
     {
       "ID": "b9pe172",
       "IsBase": true,
-      "Progressed": 4582,
+      "Progressed": 4583,
       "Completed": 14
     },
     {
       "ID": "d252ncf",
       "IsBase": false,
-      "Progressed": 4582,
+      "Progressed": 4583,
       "Completed": 9
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:32.2127721+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:38.8331579+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:11:23.1865913+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:32.212941+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:03:25.7317066+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:38.8333334+00:00"
 }

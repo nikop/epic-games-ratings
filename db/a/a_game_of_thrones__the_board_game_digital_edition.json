@@ -1446,7 +1446,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 34093,
+  "EOS_Progressed": 34096,
   "EOS_Completed": 88,
   "EOS_NewPlayers": 596,
   "EOS_NewCompleters": 1,
@@ -31311,6 +31311,11 @@
       "Time": "2024-01-22T13:18:11.3674099+00:00",
       "NumProgressed": 34093,
       "NumCompleted": 88
+    },
+    {
+      "Time": "2024-01-22T14:10:18.786024+00:00",
+      "NumProgressed": 34096,
+      "NumCompleted": 88
     }
   ],
   "TotalAchievements": 22,
@@ -31418,7 +31423,7 @@
       "Name": "The Kraken\u2019s Grasp",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3068
+      "UsersEstimate": 3069
     },
     {
       "ID": "1028",
@@ -31434,7 +31439,7 @@
       "Name": "Alliance",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 2727
+      "UsersEstimate": 2728
     },
     {
       "ID": "1030",
@@ -31458,7 +31463,7 @@
       "Name": "Conqueror",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 13637
+      "UsersEstimate": 13638
     },
     {
       "ID": "1033",
@@ -31482,7 +31487,7 @@
       "Name": "Royal Fleet",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 4091
+      "UsersEstimate": 4092
     },
     {
       "ID": "1036",
@@ -31497,15 +31502,15 @@
     {
       "ID": "9l3d3cl",
       "IsBase": true,
-      "Progressed": 34093,
+      "Progressed": 34096,
       "Completed": 88
     }
   ],
   "FirstSeen": "2022-07-22T20:27:31.9241678+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:51.561132+00:00",
   "LastChanged": "2024-01-21T18:01:14.7181216+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:11.3674097+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:18.7860235+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:36.7955635+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:08:13.5431438+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:11.3675645+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:00:05.5648842+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:18.7861689+00:00"
 }

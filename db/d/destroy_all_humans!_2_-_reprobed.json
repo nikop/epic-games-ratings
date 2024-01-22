@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 539,
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -306,9 +306,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 465,
+  "EOS_Progressed": 466,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2116,6 +2116,11 @@
       "Time": "2024-01-22T10:09:34.1549306+00:00",
       "NumProgressed": 465,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T14:09:57.2384344+00:00",
+      "NumProgressed": 466,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-01T10:05:16.7894991+00:00",
@@ -2126,9 +2131,9 @@
       "ID": "ACH_ACCELERATE_SMASH",
       "SetID": "4n84pon",
       "Name": "Mash Machine",
-      "Percentage": 75,
+      "Percentage": 74,
       "XP": 15,
-      "UsersEstimate": 349
+      "UsersEstimate": 345
     },
     {
       "ID": "ACH_ALL_GENEBLENDER_UPGRADES",
@@ -2160,7 +2165,7 @@
       "Name": "Furon Fashion",
       "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 223
+      "UsersEstimate": 224
     },
     {
       "ID": "ACH_COLLECT_ALIEN_ARTIFACTS",
@@ -2278,9 +2283,9 @@
       "ID": "ACH_ENTER_TAKOSHIMA",
       "SetID": "4n84pon",
       "Name": "I Look Up As I Walk to Takoshima",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 102
+      "UsersEstimate": 98
     },
     {
       "ID": "ACH_ENTER_TUNGUSKA",
@@ -2352,7 +2357,7 @@
       "Name": "Scuttled",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_KILL_YETI",
@@ -2479,7 +2484,7 @@
     {
       "ID": "4n84pon",
       "IsBase": true,
-      "Progressed": 465,
+      "Progressed": 466,
       "Completed": 2
     }
   ],
@@ -2487,8 +2492,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:17:47.9516269+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:09:57.2384341+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:05:39.7847984+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:17:47.9516686+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:43.522826+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:09:57.2384687+00:00"
 }

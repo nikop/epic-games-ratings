@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 280,
+  "Ranking_EOS_NewPlayers": 276,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -81,9 +81,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1350,
+  "EOS_Progressed": 1351,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.59,
   "EosHistory": [
@@ -4156,6 +4156,11 @@
       "Time": "2024-01-21T18:11:29.4212025+00:00",
       "NumProgressed": 1350,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-22T14:10:36.4159362+00:00",
+      "NumProgressed": 1351,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 53,
@@ -4199,7 +4204,7 @@
       "Name": "Right On Time",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ClockworkCompletion1",
@@ -4215,7 +4220,7 @@
       "Name": "Like Clockwork",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "ClovemaryGift",
@@ -4271,7 +4276,7 @@
       "Name": "Factorywood Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "FairgroundsChests1",
@@ -4287,7 +4292,7 @@
       "Name": "The Mysterious Stranger",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 472
+      "UsersEstimate": 473
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4295,7 +4300,7 @@
       "Name": "The Betrayer",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "FutureEkko3Defeated",
@@ -4303,7 +4308,7 @@
       "Name": "The Man Who Shattered Time",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     },
     {
       "ID": "GadgetCompletion1",
@@ -4311,7 +4316,7 @@
       "Name": "Wunderkind",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "GadgetProgress1",
@@ -4359,7 +4364,7 @@
       "Name": "Make Up For Lost Time",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "MapCompletion1",
@@ -4423,7 +4428,7 @@
       "Name": "No, Thanks!",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "PhaseDiveCounter",
@@ -4447,7 +4452,7 @@
       "Name": "The Prince in Heels",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "RewindDamage1",
@@ -4463,7 +4468,7 @@
       "Name": "Honest Mistake",
       "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ScrambotCompletion1",
@@ -4479,7 +4484,7 @@
       "Name": "Golem Chaser",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 310
+      "UsersEstimate": 311
     },
     {
       "ID": "SkillCompletion1",
@@ -4535,7 +4540,7 @@
       "Name": "Theater Explorer",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "TimewinderMultiKill1",
@@ -4551,7 +4556,7 @@
       "Name": "Immaculate Aim",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "WatcherFought",
@@ -4583,14 +4588,14 @@
       "Name": "The Family Fortune",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 256
+      "UsersEstimate": 257
     }
   ],
   "AchievementSets": [
     {
       "ID": "a9e499d",
       "IsBase": true,
-      "Progressed": 1350,
+      "Progressed": 1351,
       "Completed": 8
     }
   ],
@@ -4598,8 +4603,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:29.667584+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:36.4159359+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:07:04.6564304+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:29.6676328+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:02.9938722+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:36.41599+00:00"
 }

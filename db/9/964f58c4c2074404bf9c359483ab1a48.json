@@ -4,7 +4,7 @@
   "ProductSlug": "midnight-ghost-hunt",
   "Ranking_Rating": 851,
   "Ranking_Popularity": 388,
-  "Ranking_PopularitySum": 316,
+  "Ranking_PopularitySum": 317,
   "Ranking_EOS_Progress": 11,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 84,
@@ -2475,7 +2475,7 @@
       "Count": 55
     }
   ],
-  "EOS_Progressed": 1302261,
+  "EOS_Progressed": 1302263,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1112,
   "EOS_NewCompleters": 0,
@@ -29995,6 +29995,11 @@
       "Time": "2024-01-22T13:11:53.9720014+00:00",
       "NumProgressed": 1302261,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T14:03:55.699033+00:00",
+      "NumProgressed": 1302263,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 42,
@@ -30270,7 +30275,7 @@
       "Name": "25 Taunts In One Game!",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 52090
+      "UsersEstimate": 52091
     },
     {
       "ID": "50_riot_shield_kills",
@@ -30302,7 +30307,7 @@
       "Name": "Ghost Victory!",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 768334
+      "UsersEstimate": 768335
     },
     {
       "ID": "hunter_win",
@@ -30310,7 +30315,7 @@
       "Name": "Hunter Victory!",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 703221
+      "UsersEstimate": 703222
     },
     {
       "ID": "master_of_loadouts",
@@ -30334,14 +30339,14 @@
       "Name": "Unlock Any Cosmetic",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 286497
+      "UsersEstimate": 286498
     }
   ],
   "AchievementSets": [
     {
       "ID": "aa92n6g",
       "IsBase": true,
-      "Progressed": 1302261,
+      "Progressed": 1302263,
       "Completed": 0
     }
   ],
@@ -30349,8 +30354,8 @@
   "FirstSeenRating": "2023-06-02T07:56:53.1160177+00:00",
   "FirstSeenAchievements": "2023-06-01T15:01:01.0187435+00:00",
   "LastChanged": "2024-01-21T20:01:26.1237804+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:11:53.9720008+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:03:55.6990326+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:08.3458382+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:08:20.7265534+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:11:53.9721625+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:00:12.4062138+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:03:55.6991761+00:00"
 }

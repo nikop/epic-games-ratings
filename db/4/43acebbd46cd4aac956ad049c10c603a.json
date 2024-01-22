@@ -4769,9 +4769,9 @@
       "ID": "TrevorsBiographer",
       "SetID": "1n308hc",
       "Name": "Trevor\u0027s Biographer",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 175
+      "UsersEstimate": 190
     },
     {
       "ID": "VerdantCanyon",
@@ -4826,8 +4826,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-21T13:57:48.8610503+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:12:12.7224422+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:04:12.5572824+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:06:13.5805088+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:12:12.722503+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:58:15.4226804+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:04:12.5573384+00:00"
 }

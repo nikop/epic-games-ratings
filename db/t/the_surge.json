@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 207,
   "Ranking_EOS_Completed": 260,
-  "Ranking_EOS_NewPlayers": 222,
+  "Ranking_EOS_NewPlayers": 220,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-09-23T14:00:00+00:00",
@@ -400,9 +400,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 5484,
+  "EOS_Progressed": 5485,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 55,
+  "EOS_NewPlayers": 56,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.33,
   "EosHistory": [
@@ -5535,6 +5535,11 @@
       "Time": "2024-01-21T23:04:00.0020039+00:00",
       "NumProgressed": 5484,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-22T14:04:16.176101+00:00",
+      "NumProgressed": 5485,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 67,
@@ -5546,7 +5551,7 @@
       "Name": "P.A.X",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ID_ACHIEV_02",
@@ -5602,7 +5607,7 @@
       "Name": "On My Own Two Feet",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 5155
+      "UsersEstimate": 5156
     },
     {
       "ID": "ID_ACHIEV_09",
@@ -5610,7 +5615,7 @@
       "Name": "Sorry, I Dropped This",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 4168
+      "UsersEstimate": 4169
     },
     {
       "ID": "ID_ACHIEV_10",
@@ -5618,7 +5623,7 @@
       "Name": "Hey Listen",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 1974
+      "UsersEstimate": 1975
     },
     {
       "ID": "ID_ACHIEV_11",
@@ -5762,7 +5767,7 @@
       "Name": "First Day on the Job",
       "Percentage": 75,
       "XP": 10,
-      "UsersEstimate": 4113
+      "UsersEstimate": 4114
     },
     {
       "ID": "ID_ACHIEV_29",
@@ -5794,7 +5799,7 @@
       "Name": "Butcher\u0027s Bill",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 2961
+      "UsersEstimate": 2962
     },
     {
       "ID": "ID_ACHIEV_34",
@@ -5818,7 +5823,7 @@
       "Name": "Infidel",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 1261
+      "UsersEstimate": 1262
     },
     {
       "ID": "ID_ACHIEV_37",
@@ -5890,7 +5895,7 @@
       "Name": "OPERATOR",
       "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 1919
+      "UsersEstimate": 1920
     },
     {
       "ID": "ID_ACHIEV_46",
@@ -6081,15 +6086,15 @@
     {
       "ID": "98bke8c",
       "IsBase": true,
-      "Progressed": 5484,
+      "Progressed": 5485,
       "Completed": 18
     }
   ],
   "FirstSeen": "2022-07-22T20:17:27.6192129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:51.628323+00:00",
   "LastChanged": "2023-12-31T19:58:10.5906343+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:12:16.5909236+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:04:16.1761007+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:53.2151346+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:05:13.923943+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:12:16.5910902+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:20.4629212+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:04:16.1761745+00:00"
 }

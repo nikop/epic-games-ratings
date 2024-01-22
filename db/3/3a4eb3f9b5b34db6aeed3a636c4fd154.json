@@ -4,7 +4,7 @@
   "ProductSlug": "quiz-time-e4daaa",
   "Ranking_EOS_Progress": 710,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 445,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-05T18:30:00+00:00",
@@ -108,8 +108,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-02T18:03:40.8766537+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:11:58.1373764+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:03:59.436785+00:00",
   "LastUpdate_AppInfo": "2024-01-20T22:57:05.0575326+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:06:13.5430919+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:11:58.1373828+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:58:15.3201302+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:03:59.4367916+00:00"
 }

@@ -53,7 +53,7 @@
 | Troy is burning! | 3.00% | ~3 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 93 (Ranked 507)  
-Completed: 1 (1.08%) (Ranked 175)  
+Completed: 1 (1.08%) (Ranked 174)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

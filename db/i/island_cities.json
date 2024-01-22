@@ -4,7 +4,7 @@
   "ProductSlug": "island-cities-0a3026",
   "Ranking_EOS_Progress": 313,
   "Ranking_EOS_Completed": 26,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-27T05:00:00+00:00",
@@ -31,11 +31,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 901,
+  "EOS_Progressed": 902,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 16.76,
+  "EOS_Completed_Percentage": 16.74,
   "EosHistory": [
     {
       "Time": "2023-04-25T21:05:49.3766192+00:00",
@@ -3926,6 +3926,11 @@
       "Time": "2024-01-22T12:05:41.1328881+00:00",
       "NumProgressed": 901,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2024-01-22T14:04:36.2127528+00:00",
+      "NumProgressed": 902,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 22,
@@ -3937,7 +3942,7 @@
       "Name": "Welcome!",
       "Percentage": 96,
       "XP": 35,
-      "UsersEstimate": 865
+      "UsersEstimate": 866
     },
     {
       "ID": "LEVEL_002",
@@ -3945,7 +3950,7 @@
       "Name": "A tiny town",
       "Percentage": 86,
       "XP": 35,
-      "UsersEstimate": 775
+      "UsersEstimate": 776
     },
     {
       "ID": "LEVEL_003",
@@ -3969,7 +3974,7 @@
       "Name": "Bridges to come and go",
       "Percentage": 50,
       "XP": 35,
-      "UsersEstimate": 450
+      "UsersEstimate": 451
     },
     {
       "ID": "LEVEL_006",
@@ -3977,7 +3982,7 @@
       "Name": "Found an oasis",
       "Percentage": 44,
       "XP": 35,
-      "UsersEstimate": 396
+      "UsersEstimate": 397
     },
     {
       "ID": "LEVEL_007",
@@ -3985,7 +3990,7 @@
       "Name": "Burger or pizza?",
       "Percentage": 37,
       "XP": 35,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "LEVEL_008",
@@ -3993,7 +3998,7 @@
       "Name": "Passion for sports",
       "Percentage": 32,
       "XP": 35,
-      "UsersEstimate": 288
+      "UsersEstimate": 289
     },
     {
       "ID": "LEVEL_009",
@@ -4001,7 +4006,7 @@
       "Name": "Who loves trains?",
       "Percentage": 29,
       "XP": 35,
-      "UsersEstimate": 261
+      "UsersEstimate": 262
     },
     {
       "ID": "LEVEL_010",
@@ -4009,7 +4014,7 @@
       "Name": "Easy and steady climb",
       "Percentage": 28,
       "XP": 35,
-      "UsersEstimate": 252
+      "UsersEstimate": 253
     },
     {
       "ID": "LEVEL_011",
@@ -4017,7 +4022,7 @@
       "Name": "At the heart of the city",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "LEVEL_012",
@@ -4112,7 +4117,7 @@
     {
       "ID": "3khpmem",
       "IsBase": true,
-      "Progressed": 901,
+      "Progressed": 902,
       "Completed": 151
     }
   ],
@@ -4120,8 +4125,8 @@
   "FirstSeenRating": "2023-04-28T06:58:06.5817239+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:06.7364351+00:00",
   "LastChanged": "2023-04-28T06:58:06.5817241+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:12:38.3728072+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:04:36.2127524+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:26.5155519+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:05:39.2705249+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:12:38.3728476+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:43.0544219+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:04:36.21278+00:00"
 }

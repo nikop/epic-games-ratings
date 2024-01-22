@@ -1,13 +1,13 @@
 # Insurgency: Sandstorm
 [Store](https://store.epicgames.com/en-US/p/insurgency-sandstorm)  
 [View Rawdata](../../db/i/insurgency__sandstorm.json)  
-Rating: 4.61 (Ranked 401)  
+Rating: 4.61 (Ranked 402)  
 Number of Ratings: 1,316  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Point Shooting | 5.00% | ~26,413 |
-| Wallbanger | 5.00% | ~26,413 |
+| Point Shooting | 5.00% | ~26,414 |
+| Wallbanger | 5.00% | ~26,414 |
 | Exploitative | 4.00% | ~21,131 |
 | High Speed Low Drag | 4.00% | ~21,131 |
 | Wet Feet | 4.00% | ~21,131 |
@@ -42,7 +42,7 @@ Number of Ratings: 1,316  (23.09.2022)
 | It's All in the Reflexes | 0.10% | ~528 |
 | Road Hazard | 0.10% | ~528 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 528,265 (Ranked 40)  
+Progressed: 528,274 (Ranked 40)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,10 +319,10 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-19 | 527,024 | 2 |
 | 2024-01-20 | 527,542 | 2 |
 | 2024-01-21 | 528,045 | 2 |
-| 2024-01-22 | 528,265 | 2 |
+| 2024-01-22 | 528,274 | 2 |
 ## Awards
 Max (Quickly Understood Controls): 426  (Ranked 239)  
-Sum: 3,432 (Ranked 178)  
+Sum: 3,433 (Ranked 178)  
 Diff (max vs sum): 61  
 | Award | Count |
 | ----- | ----- |
@@ -334,7 +334,7 @@ Diff (max vs sum): 61
 | This game has Realistic Visuals | 378 |
 | This game has Amazing Characters | 360 |
 | This game has Amazing Storytelling | 353 |
-| This game has a Competitive Community | 328 |
+| This game has a Competitive Community | 329 |
 | This game has Obsessive Gameplay | 156 |
 | This game has Diverse Characters | 103 |
 ## Ratings History
@@ -686,4 +686,4 @@ Diff (max vs sum): 61
 | 2024-01-19 | 4.61 | - | 422 | 3,412 |
 | 2024-01-20 | 4.61 | - | 422 | 3,420 |
 | 2024-01-21 | 4.61 | - | 426 | 3,431 |
-| 2024-01-22 | 4.61 | - | 426 | 3,432 |
+| 2024-01-22 | 4.61 | - | 426 | 3,433 |

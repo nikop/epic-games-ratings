@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1243,
+  "EOS_Progressed": 1244,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 80,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3228,6 +3228,11 @@
       "Time": "2024-01-22T12:09:56.5982542+00:00",
       "NumProgressed": 1243,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T14:09:29.1948449+00:00",
+      "NumProgressed": 1244,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3246,9 +3251,9 @@
       "ID": "CareerAllChallenges",
       "SetID": "5hd282c",
       "Name": "Highballer",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 90,
-      "UsersEstimate": 746
+      "UsersEstimate": 759
     },
     {
       "ID": "CareerChamp1",
@@ -3296,7 +3301,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 895
+      "UsersEstimate": 896
     },
     {
       "ID": "CollectVehiclesA",
@@ -3312,7 +3317,7 @@
       "Name": "Junk Collector",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "CreditsEarnedA",
@@ -3320,7 +3325,7 @@
       "Name": "Cash For Crashes",
       "Percentage": 8,
       "XP": 120,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "GetWreckedA",
@@ -3360,7 +3365,7 @@
       "Name": "Trashing Around",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 186
+      "UsersEstimate": 187
     },
     {
       "ID": "PlayerRankC",
@@ -3399,7 +3404,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1243,
+      "Progressed": 1244,
       "Completed": 0
     }
   ],
@@ -3407,8 +3412,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-21T13:59:24.6790776+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:17:16.8697372+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:09:29.1948446+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:07:58.0316594+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:17:16.8697646+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:51.6207852+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:09:29.1948764+00:00"
 }

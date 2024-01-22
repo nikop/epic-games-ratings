@@ -715,9 +715,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474307,
+  "EOS_Progressed": 474308,
   "EOS_Completed": 21,
-  "EOS_NewPlayers": 407,
+  "EOS_NewPlayers": 406,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -29340,6 +29340,11 @@
       "Time": "2024-01-22T11:11:58.5313938+00:00",
       "NumProgressed": 474307,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-22T14:10:36.6864769+00:00",
+      "NumProgressed": 474308,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29479,7 +29484,7 @@
       "Name": "Meet your maker",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33201
+      "UsersEstimate": 33202
     },
     {
       "ID": "achievement_story_meet_okonkwo",
@@ -29487,7 +29492,7 @@
       "Name": "Admiral Okonkwo",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33201
+      "UsersEstimate": 33202
     },
     {
       "ID": "achievement_story_meet_survivalists",
@@ -29495,7 +29500,7 @@
       "Name": "The Survivalists",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33201
+      "UsersEstimate": 33202
     },
     {
       "ID": "achievement_story_meet_tetsuo",
@@ -29527,7 +29532,7 @@
       "Name": "Things persisted in not being what they seemed",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 94861
+      "UsersEstimate": 94862
     },
     {
       "ID": "achievement_story_second_awakening",
@@ -29535,7 +29540,7 @@
       "Name": "Second Coming",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 161264
+      "UsersEstimate": 161265
     },
     {
       "ID": "achievement_story_see_ganyma",
@@ -29591,7 +29596,7 @@
       "Name": "The Tech Specialist",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33201
+      "UsersEstimate": 33202
     },
     {
       "ID": "achievement_unlock_officer_empire_2",
@@ -29615,7 +29620,7 @@
       "Name": "The Mech Soldier",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 33201
+      "UsersEstimate": 33202
     },
     {
       "ID": "achievement_unlock_officer_kickstarter_1",
@@ -29775,7 +29780,7 @@
       "Name": "Jeef Skeejj",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 208695
+      "UsersEstimate": 208696
     },
     {
       "ID": "achievement_win_boss_sector_2",
@@ -29982,21 +29987,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18241,
+      "Progressed": 18242,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474307,
+      "Progressed": 474308,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-19T06:58:34.3477894+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:29.9411618+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:36.6864765+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:55.2971937+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:07:48.2632496+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:29.941348+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:42.1652796+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:36.686645+00:00"
 }

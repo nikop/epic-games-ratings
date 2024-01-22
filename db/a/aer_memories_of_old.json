@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 31,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29282,
+  "EOS_Progressed": 29285,
   "EOS_Completed": 539,
-  "EOS_NewPlayers": 526,
+  "EOS_NewPlayers": 527,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30316,6 +30316,11 @@
       "Time": "2024-01-22T13:14:21.0674698+00:00",
       "NumProgressed": 29282,
       "NumCompleted": 539
+    },
+    {
+      "Time": "2024-01-22T14:06:11.0705835+00:00",
+      "NumProgressed": 29285,
+      "NumCompleted": 539
     }
   ],
   "TotalAchievements": 20,
@@ -30327,7 +30332,7 @@
       "Name": "Cartographer",
       "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 4685
+      "UsersEstimate": 4686
     },
     {
       "ID": "DOWN_THE_WELL",
@@ -30343,7 +30348,7 @@
       "Name": "Knowledge for Power",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4100
     },
     {
       "ID": "FOUND_BATTLEFIELD",
@@ -30351,7 +30356,7 @@
       "Name": "Memorial",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 2635
+      "UsersEstimate": 2636
     },
     {
       "ID": "FOUND_BIG_SKELETON",
@@ -30391,7 +30396,7 @@
       "Name": "Antlers of Stone",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 4099
+      "UsersEstimate": 4100
     },
     {
       "ID": "FOUND_ERIN",
@@ -30447,7 +30452,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22254
+      "UsersEstimate": 22257
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30455,7 +30460,7 @@
       "Name": "Mama?",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 7906
+      "UsersEstimate": 7907
     },
     {
       "ID": "NORTH_FINISHED",
@@ -30486,15 +30491,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29282,
+      "Progressed": 29285,
       "Completed": 539
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:14:21.0674694+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:06:11.0705831+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:07:44.4024085+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:14:21.0676915+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:39.6211071+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:06:11.070786+00:00"
 }

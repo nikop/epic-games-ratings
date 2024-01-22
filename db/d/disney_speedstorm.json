@@ -3051,10 +3051,10 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 405241,
-  "EOS_Completed": 1708,
+  "EOS_Progressed": 405260,
+  "EOS_Completed": 1709,
   "EOS_NewPlayers": 6774,
-  "EOS_NewCompleters": 96,
+  "EOS_NewCompleters": 97,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
@@ -22081,6 +22081,11 @@
       "Time": "2024-01-22T13:16:54.5885983+00:00",
       "NumProgressed": 405241,
       "NumCompleted": 1708
+    },
+    {
+      "Time": "2024-01-22T14:09:08.5944278+00:00",
+      "NumProgressed": 405260,
+      "NumCompleted": 1709
     }
   ],
   "TotalAchievements": 24,
@@ -22100,7 +22105,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24314
+      "UsersEstimate": 24316
     },
     {
       "ID": "11",
@@ -22132,7 +22137,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36472
+      "UsersEstimate": 36473
     },
     {
       "ID": "15",
@@ -22148,7 +22153,7 @@
       "Name": "RELEASE THE KRAKEN",
       "Percentage": 1,
       "XP": 45,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "17",
@@ -22164,7 +22169,7 @@
       "Name": "ACE BRAWLER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "19",
@@ -22172,7 +22177,7 @@
       "Name": "DEFEAT OUR CHAMPION",
       "Percentage": 1,
       "XP": 85,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "2",
@@ -22188,7 +22193,7 @@
       "Name": "PROTECTED",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 20262
+      "UsersEstimate": 20263
     },
     {
       "ID": "21",
@@ -22196,7 +22201,7 @@
       "Name": "ACE DEFENDER",
       "Percentage": 1,
       "XP": 40,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "22",
@@ -22204,7 +22209,7 @@
       "Name": "THE EYE OF THE HUNTER",
       "Percentage": 1,
       "XP": 55,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "23",
@@ -22228,7 +22233,7 @@
       "Name": "FRIENDLY",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "4",
@@ -22236,7 +22241,7 @@
       "Name": "AGGRESSIVE RACER",
       "Percentage": 3,
       "XP": 80,
-      "UsersEstimate": 12157
+      "UsersEstimate": 12158
     },
     {
       "ID": "5",
@@ -22244,7 +22249,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 52681
+      "UsersEstimate": 52684
     },
     {
       "ID": "6",
@@ -22252,7 +22257,7 @@
       "Name": "PRO",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 20262
+      "UsersEstimate": 20263
     },
     {
       "ID": "7",
@@ -22260,7 +22265,7 @@
       "Name": "MASTER",
       "Percentage": 1,
       "XP": 65,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     },
     {
       "ID": "8",
@@ -22276,23 +22281,23 @@
       "Name": "LEGENDARY HERO",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 4052
+      "UsersEstimate": 4053
     }
   ],
   "AchievementSets": [
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 405241,
-      "Completed": 1708
+      "Progressed": 405260,
+      "Completed": 1709
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-22T11:57:31.9959465+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:16:54.5885981+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:09:08.5944274+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:58.5530008+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:05:18.3175956+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:16:54.588698+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:23.4796477+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:09:08.5945412+00:00"
 }

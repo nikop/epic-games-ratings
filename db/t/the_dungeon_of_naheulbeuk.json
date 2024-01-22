@@ -1803,9 +1803,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 249162,
+  "EOS_Progressed": 249171,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 919,
+  "EOS_NewPlayers": 922,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27138,6 +27138,11 @@
       "Time": "2024-01-22T13:18:30.5262246+00:00",
       "NumProgressed": 249162,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-22T14:10:37.2319869+00:00",
+      "NumProgressed": 249171,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27181,7 +27186,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "BookCollection",
@@ -27197,7 +27202,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19933
+      "UsersEstimate": 19934
     },
     {
       "ID": "Chapter2",
@@ -27205,7 +27210,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12458
+      "UsersEstimate": 12459
     },
     {
       "ID": "Chapter3",
@@ -27213,7 +27218,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9966
+      "UsersEstimate": 9967
     },
     {
       "ID": "Chapter4",
@@ -27549,7 +27554,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24916
+      "UsersEstimate": 24917
     },
     {
       "ID": "DwarfElf15Support",
@@ -27597,7 +27602,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92190
+      "UsersEstimate": 92193
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27613,7 +27618,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12458
+      "UsersEstimate": 12459
     },
     {
       "ID": "EndCombatOneHp",
@@ -27621,7 +27626,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12458
+      "UsersEstimate": 12459
     },
     {
       "ID": "EndGameCursed",
@@ -27629,7 +27634,7 @@
       "Name": "100% satisfaction guarantee",
       "Percentage": 0.3,
       "XP": 5,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "EndGameNoDeath",
@@ -27637,7 +27642,7 @@
       "Name": "Death is for wimps",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 747
+      "UsersEstimate": 748
     },
     {
       "ID": "FastKill",
@@ -27645,7 +27650,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27408
+      "UsersEstimate": 27409
     },
     {
       "ID": "FollowBraztok",
@@ -27685,7 +27690,7 @@
       "Name": "We come in peace",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2242
+      "UsersEstimate": 2243
     },
     {
       "ID": "MinistrelEpic",
@@ -27845,28 +27850,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12458
+      "UsersEstimate": 12459
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249162,
+      "Progressed": 249171,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249162,
+      "Progressed": 249171,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-22T06:58:54.5808771+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:30.5262239+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:37.2319865+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:07:06.5181006+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:30.5264312+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:04.7191586+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:37.2321673+00:00"
 }

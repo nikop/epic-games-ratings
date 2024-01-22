@@ -11172,9 +11172,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133472,
+  "EOS_Progressed": 133480,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41042,6 +41042,11 @@
       "Time": "2024-01-22T13:18:21.7398549+00:00",
       "NumProgressed": 133472,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T14:10:29.0685764+00:00",
+      "NumProgressed": 133480,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41053,7 +41058,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -41061,7 +41066,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41149,7 +41154,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -41181,7 +41186,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9343
+      "UsersEstimate": 9344
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41213,7 +41218,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9343
+      "UsersEstimate": 9344
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41229,7 +41234,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "combat_kill_gaunts",
@@ -41245,7 +41250,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -41253,7 +41258,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41269,7 +41274,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "combat_kill_librarian",
@@ -41277,7 +41282,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9343
+      "UsersEstimate": 9344
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41293,7 +41298,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41349,7 +41354,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41373,7 +41378,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "driving_distance_easy",
@@ -41461,7 +41466,7 @@
       "Name": "FNG",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8008
+      "UsersEstimate": 8009
     },
     {
       "ID": "inn_visit_all_variants",
@@ -41469,7 +41474,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -41525,7 +41530,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "run_victory_act04",
@@ -41533,7 +41538,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "run_victory_act05",
@@ -41541,7 +41546,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2669
+      "UsersEstimate": 2670
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -41589,7 +41594,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1251
+      "UsersEstimate": 1252
     },
     {
       "ID": "combat_kill_collector",
@@ -41637,7 +41642,7 @@
       "Name": "Ploughshares to Swords",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "hero_story_complete_duelist",
@@ -41645,7 +41650,7 @@
       "Name": "Bloody Graduation",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 500
+      "UsersEstimate": 501
     },
     {
       "ID": "quest_complete_crusader",
@@ -41684,21 +41689,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133472,
+      "Progressed": 133480,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8341,
+      "Progressed": 8349,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-22T08:58:50.9602296+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:21.7398546+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:29.068576+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:06:48.7458155+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:21.740112+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:58:48.1238192+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:29.0687838+00:00"
 }

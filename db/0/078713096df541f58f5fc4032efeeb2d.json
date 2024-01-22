@@ -4,7 +4,7 @@
   "ProductSlug": "creepy-tale-3-ingrid-penance-1daff4",
   "Ranking_EOS_Progress": 498,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 484,
+  "Ranking_EOS_NewPlayers": 483,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-10-26T17:00:00+00:00",
@@ -593,9 +593,9 @@
       "ID": "creepytale3_ach_19",
       "SetID": "7idcjbn",
       "Name": "A deal, there is a deal.",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "creepytale3_ach_2",
@@ -681,9 +681,9 @@
       "ID": "creepytale3_ach_32",
       "SetID": "7idcjbn",
       "Name": "Classic",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 19
+      "UsersEstimate": 20
     },
     {
       "ID": "creepytale3_ach_33",
@@ -800,8 +800,8 @@
   ],
   "FirstSeen": "2023-11-01T20:03:22.8731969+00:00",
   "FirstSeenAchievements": "2023-09-05T23:03:14.6697024+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:13:27.5417259+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:05:22.0607381+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:05.8667817+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:06:49.7161338+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:13:27.5417481+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:58:49.6114684+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:05:22.0607673+00:00"
 }

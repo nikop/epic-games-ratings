@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 351,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,11 +305,11 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 552,
+  "EOS_Progressed": 553,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 52,
+  "EOS_NewPlayers": 53,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1.09,
+  "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
     {
       "Time": "2023-12-18T10:04:38.3586261+00:00",
@@ -2225,6 +2225,11 @@
       "Time": "2024-01-22T13:16:16.6008507+00:00",
       "NumProgressed": 552,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-22T14:08:33.3642707+00:00",
+      "NumProgressed": 553,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2293,7 +2298,7 @@
       "Name": "Forbidden Donut",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -2301,7 +2306,7 @@
       "Name": "I Look Up As I Walk to Takoshima",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 342
+      "UsersEstimate": 343
     },
     {
       "ID": "ACH_ABILITY_SMASHBUTTON",
@@ -2317,7 +2322,7 @@
       "Name": "Freshly Squeezed",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_ABILITY_WITHWEAPON",
@@ -2325,7 +2330,7 @@
       "Name": "Lie Back and Think of Albion",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 370
+      "UsersEstimate": 371
     },
     {
       "ID": "ACH_CHALLENGE_ABDUCTIONTHREESTAR",
@@ -2389,15 +2394,15 @@
       "Name": "Earthly Pleasures",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 397
+      "UsersEstimate": 404
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2405,7 +2410,7 @@
       "Name": "The Irony of Fate, or Enjoy Your Tunguska!",
       "Percentage": 64,
       "XP": 15,
-      "UsersEstimate": 353
+      "UsersEstimate": 354
     },
     {
       "ID": "ACH_COMBAT_EVADEBAZOOKA",
@@ -2413,7 +2418,7 @@
       "Name": "Die Nasty",
       "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 99
+      "UsersEstimate": 100
     },
     {
       "ID": "ACH_ENEMY_KILLARMQUIST",
@@ -2437,7 +2442,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 298
+      "UsersEstimate": 299
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2477,7 +2482,7 @@
       "Name": "Upgreatest",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_INVADE_TURNIPSEED",
@@ -2485,7 +2490,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 436
+      "UsersEstimate": 437
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2507,9 +2512,9 @@
       "ID": "ACH_MENU_FURONIGAMI",
       "SetID": "cefn62b",
       "Name": "Bodied Sattva",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 210
+      "UsersEstimate": 205
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2541,7 +2546,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 270
+      "UsersEstimate": 271
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2556,15 +2561,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 552,
+      "Progressed": 553,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:16:16.6008504+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:08:33.3642704+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:24.5329483+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:05:37.5724605+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:16:16.6008926+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:41.7588415+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:08:33.3643048+00:00"
 }

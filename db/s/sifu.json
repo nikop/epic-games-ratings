@@ -9171,9 +9171,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762357,
+  "EOS_Progressed": 762368,
   "EOS_Completed": 13003,
-  "EOS_NewPlayers": 1430,
+  "EOS_NewPlayers": 1422,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34866,6 +34866,11 @@
       "Time": "2024-01-22T13:17:56.2768628+00:00",
       "NumProgressed": 762357,
       "NumCompleted": 13003
+    },
+    {
+      "Time": "2024-01-22T14:10:05.0400528+00:00",
+      "NumProgressed": 762368,
+      "NumCompleted": 13003
     }
   ],
   "TotalAchievements": 60,
@@ -34877,7 +34882,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45741
+      "UsersEstimate": 45742
     },
     {
       "ID": "02_Vengeance_H1",
@@ -34933,7 +34938,7 @@
       "Name": "Tiger on Fire",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5336
+      "UsersEstimate": 5337
     },
     {
       "ID": "09_Wude_H3",
@@ -34941,7 +34946,7 @@
       "Name": "Source of Flying Daggers",
       "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 5336
+      "UsersEstimate": 5337
     },
     {
       "ID": "10_Wude_H4",
@@ -34989,7 +34994,7 @@
       "Name": "Detective Story",
       "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 5336
+      "UsersEstimate": 5337
     },
     {
       "ID": "16_Detective_H2",
@@ -35356,21 +35361,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71658,
+      "Progressed": 71669,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762357,
+      "Progressed": 762368,
       "Completed": 13003
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-22T08:03:16.0488747+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:17:56.2768623+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:05.0400522+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:11:09.3077346+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:17:56.2770278+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:03:13.1311906+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:05.0401933+00:00"
 }

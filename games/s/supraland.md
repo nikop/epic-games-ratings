@@ -1,22 +1,22 @@
 # Supraland
 [Store](https://store.epicgames.com/en-US/p/supraland)  
 [View Rawdata](../../db/s/supraland.json)  
-Rating: 4.61 (Ranked 401)  
+Rating: 4.61 (Ranked 402)  
 Number of Ratings: 25,175  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~733,791 |
+| Out of bed | 99.00% | ~733,792 |
 | The Blues | 85.00% | ~630,023 |
-| Fast | 66.00% | ~489,194 |
+| Fast | 66.00% | ~489,195 |
 | Healthbar | 55.00% | ~407,662 |
 | Force Cube | 53.00% | ~392,838 |
-| Double Jump | 48.00% | ~355,777 |
-| Regeneration | 47.00% | ~348,365 |
-| Triple Jump | 43.00% | ~318,717 |
-| Climb the hill | 42.00% | ~311,305 |
-| Through the fire pipe | 39.00% | ~289,069 |
-| MacGuffin | 38.00% | ~281,657 |
+| Double Jump | 48.00% | ~355,778 |
+| Regeneration | 47.00% | ~348,366 |
+| Triple Jump | 43.00% | ~318,718 |
+| Climb the hill | 42.00% | ~311,306 |
+| Through the fire pipe | 39.00% | ~289,070 |
+| MacGuffin | 38.00% | ~281,658 |
 | Just once | 37.00% | ~274,245 |
 | Armor | 30.00% | ~222,361 |
 | True holy spirit | 28.00% | ~207,537 |
@@ -29,14 +29,14 @@ Number of Ratings: 25,175  (23.09.2022)
 | Double Health | 19.00% | ~140,829 |
 | Buckle | 18.00% | ~133,417 |
 | Green Keycard | 18.00% | ~133,417 |
-| Rattle Hag | 16.00% | ~118,592 |
-| All Shells | 15.00% | ~111,180 |
-| Beam | 14.00% | ~103,768 |
-| 9 | 14.00% | ~103,768 |
-| Supraball Noob | 14.00% | ~103,768 |
-| Health Drink | 13.00% | ~96,356 |
-| Helped a star | 13.00% | ~96,356 |
-| Purple Cube | 13.00% | ~96,356 |
+| Rattle Hag | 16.00% | ~118,593 |
+| All Shells | 15.00% | ~111,181 |
+| Beam | 14.00% | ~103,769 |
+| 9 | 14.00% | ~103,769 |
+| Supraball Noob | 14.00% | ~103,769 |
+| Health Drink | 13.00% | ~96,357 |
+| Helped a star | 13.00% | ~96,357 |
+| Purple Cube | 13.00% | ~96,357 |
 | Strong | 12.00% | ~88,944 |
 | Blue King's lair | 11.00% | ~81,532 |
 | Payback | 11.00% | ~81,532 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,203 (Ranked 27)  
+Progressed: 741,204 (Ranked 27)  
 Completed: 784 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -382,7 +382,7 @@ Completed: 784 (0.11%) (Ranked 314)
 | 2024-01-19 | 740,840 | 783 |
 | 2024-01-20 | 740,996 | 783 |
 | 2024-01-21 | 741,153 | 784 |
-| 2024-01-22 | 741,203 | 784 |
+| 2024-01-22 | 741,204 | 784 |
 ## Awards
 Max (Challenging Puzzles): 7,785  (Ranked 55)  
 Sum: 10,175 (Ranked 97)  

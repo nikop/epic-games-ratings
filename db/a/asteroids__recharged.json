@@ -3,7 +3,7 @@
   "Name": "Asteroids: Recharged",
   "ProductSlug": "asteroids-recharged",
   "Ranking_EOS_Progress": 195,
-  "Ranking_EOS_Completed": 325,
+  "Ranking_EOS_Completed": 326,
   "Ranking_EOS_NewPlayers": 81,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
@@ -29,7 +29,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8141,
+  "EOS_Progressed": 8142,
   "EOS_Completed": 7,
   "EOS_NewPlayers": 1157,
   "EOS_NewCompleters": 0,
@@ -3294,6 +3294,11 @@
       "Time": "2024-01-22T13:16:53.2257954+00:00",
       "NumProgressed": 8141,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-22T14:09:07.3610843+00:00",
+      "NumProgressed": 8142,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -3369,7 +3374,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3663
+      "UsersEstimate": 3664
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3432,7 +3437,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8141,
+      "Progressed": 8142,
       "Completed": 7
     }
   ],
@@ -3440,8 +3445,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:16:53.2257951+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:09:07.361084+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:10:41.6345929+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:16:53.2258242+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:02:48.3818215+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:09:07.3611114+00:00"
 }

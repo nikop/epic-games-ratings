@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2036,
+  "EOS_Progressed": 2037,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 38,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3875,6 +3875,11 @@
       "Time": "2024-01-22T10:05:52.1181856+00:00",
       "NumProgressed": 2036,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-22T14:06:15.7248336+00:00",
+      "NumProgressed": 2037,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3902,7 +3907,7 @@
       "Name": "Strike!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "12",
@@ -3950,7 +3955,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1425
+      "UsersEstimate": 1426
     },
     {
       "ID": "18",
@@ -4038,7 +4043,7 @@
       "Name": "A love supreme",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 305
+      "UsersEstimate": 306
     },
     {
       "ID": "3",
@@ -4094,7 +4099,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "7",
@@ -4125,15 +4130,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2036,
+      "Progressed": 2037,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:14:26.2275742+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:06:15.7248331+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:06:12.634368+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:14:26.2276142+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:58:14.4846958+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:06:15.7248733+00:00"
 }

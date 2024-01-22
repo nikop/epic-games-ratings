@@ -6,23 +6,23 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,251 |
+| Malpractice Assurance | 15.00% | ~1,252 |
 | Lost and Found | 9.00% | ~751 |
 | Autodidact | 8.00% | ~10,678 |
-| This Belongs in a Museum | 7.00% | ~9,343 |
-| Creep and Sleep | 7.00% | ~9,343 |
-| Overdue Notice | 7.00% | ~9,343 |
+| This Belongs in a Museum | 7.00% | ~9,344 |
+| Creep and Sleep | 7.00% | ~9,344 |
+| Overdue Notice | 7.00% | ~9,344 |
 | This guy... again? | 7.00% | ~584 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,008 |
-| Serenity Now! | 6.00% | ~8,008 |
-| Meat and Greet | 6.00% | ~8,008 |
-| Catch and Decease | 6.00% | ~8,008 |
-| Escape from the Black Hole | 6.00% | ~8,008 |
-| Rush Hour | 6.00% | ~8,008 |
-| To Grandmother's House | 6.00% | ~8,008 |
-| FNG | 6.00% | ~8,008 |
-| Ploughshares to Swords | 6.00% | ~500 |
-| Bloody Graduation | 6.00% | ~500 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,009 |
+| Serenity Now! | 6.00% | ~8,009 |
+| Meat and Greet | 6.00% | ~8,009 |
+| Catch and Decease | 6.00% | ~8,009 |
+| Escape from the Black Hole | 6.00% | ~8,009 |
+| Rush Hour | 6.00% | ~8,009 |
+| To Grandmother's House | 6.00% | ~8,009 |
+| FNG | 6.00% | ~8,009 |
+| Ploughshares to Swords | 6.00% | ~501 |
+| Bloody Graduation | 6.00% | ~501 |
 | It Rings a Bell | 5.00% | ~6,674 |
 | Not Today! | 5.00% | ~6,674 |
 | It Happens | 5.00% | ~6,674 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~4,004 |
 | Utopia | 3.00% | ~4,004 |
 | Hot Air | 3.00% | ~4,004 |
-| This Looks Familiar | 2.00% | ~2,669 |
-| Ichthyophobic | 2.00% | ~2,669 |
-| No More Mouths to Feed | 2.00% | ~2,669 |
-| Worldly Traveller | 2.00% | ~2,669 |
-| Eyes Up | 2.00% | ~2,669 |
-| Handled | 2.00% | ~2,669 |
-| Body of Work | 2.00% | ~2,669 |
+| This Looks Familiar | 2.00% | ~2,670 |
+| Ichthyophobic | 2.00% | ~2,670 |
+| No More Mouths to Feed | 2.00% | ~2,670 |
+| Worldly Traveller | 2.00% | ~2,670 |
+| Eyes Up | 2.00% | ~2,670 |
+| Handled | 2.00% | ~2,670 |
+| Body of Work | 2.00% | ~2,670 |
 | Clearing the Ledger | 1.00% | ~1,335 |
 | Hat Trick | 1.00% | ~1,335 |
 | Shrine of Reflection | 1.00% | ~1,335 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,472 (Ranked 92)  
+Progressed: 133,480 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,472 | 5 |
+| 2024-01-22 | 133,480 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,818 (Ranked 58)  

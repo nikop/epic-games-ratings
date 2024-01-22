@@ -145,10 +145,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2949,
+  "EOS_Progressed": 2950,
   "EOS_Completed": 230,
-  "EOS_NewPlayers": 160,
-  "EOS_NewCompleters": 20,
+  "EOS_NewPlayers": 161,
+  "EOS_NewCompleters": 19,
   "EOS_Completed_Percentage": 7.8,
   "EosHistory": [
     {
@@ -7895,6 +7895,11 @@
       "Time": "2024-01-22T13:14:20.3100326+00:00",
       "NumProgressed": 2949,
       "NumCompleted": 230
+    },
+    {
+      "Time": "2024-01-22T14:06:10.3120757+00:00",
+      "NumProgressed": 2950,
+      "NumCompleted": 230
     }
   ],
   "TotalAchievements": 25,
@@ -7962,7 +7967,7 @@
       "Name": "Free at last",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 619
+      "UsersEstimate": 620
     },
     {
       "ID": "META_RESULT_1-4",
@@ -8018,7 +8023,7 @@
       "Name": "True G3M4R",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -8050,7 +8055,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1769
+      "UsersEstimate": 1770
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8066,7 +8071,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1592
+      "UsersEstimate": 1593
     },
     {
       "ID": "PROGRESS_N2",
@@ -8090,7 +8095,7 @@
       "Name": "The darkness",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "PROGRESS_N5",
@@ -8105,7 +8110,7 @@
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2949,
+      "Progressed": 2950,
       "Completed": 230
     }
   ],
@@ -8113,8 +8118,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-21T16:59:53.3167431+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:14:20.3100323+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:06:10.3120753+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:07:12.3505906+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:14:20.3100894+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:10.2062515+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:06:10.3121233+00:00"
 }

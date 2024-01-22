@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 757,
+  "EOS_Progressed": 758,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2802,6 +2802,11 @@
       "Time": "2024-01-22T02:05:04.8715137+00:00",
       "NumProgressed": 757,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-22T14:10:23.5382707+00:00",
+      "NumProgressed": 758,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2813,15 +2818,15 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "completeact2",
       "SetID": "40n95i5",
       "Name": "Conspiracy Theorist",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 80,
-      "UsersEstimate": 288
+      "UsersEstimate": 280
     },
     {
       "ID": "completeact3",
@@ -2853,7 +2858,7 @@
       "Name": "Truthseeker",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "scoreminrankrb2",
@@ -2885,7 +2890,7 @@
       "Name": "Souvenirs",
       "Percentage": 25,
       "XP": 40,
-      "UsersEstimate": 189
+      "UsersEstimate": 190
     },
     {
       "ID": "scoreminrankrp1",
@@ -2893,7 +2898,7 @@
       "Name": "This is Not Heavy Metal!",
       "Percentage": 13,
       "XP": 40,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "scoreminrankrp2",
@@ -2932,7 +2937,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 757,
+      "Progressed": 758,
       "Completed": 3
     }
   ],
@@ -2940,8 +2945,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:16.1481137+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:23.5382702+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:04:57.5587128+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:16.1481414+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:05.423109+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:23.5382943+00:00"
 }

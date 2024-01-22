@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 110,
   "Ranking_EOS_Completed": 171,
   "Ranking_EOS_NewPlayers": 121,
-  "Ranking_EOS_NewCompleters": 29,
+  "Ranking_EOS_NewCompleters": 30,
   "Store": {
     "ReleaseDate": "2021-06-29T04:00:00+00:00",
     "PcReleaseDate": "2021-06-29T04:00:00+00:00",
@@ -147,10 +147,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84174,
+  "EOS_Progressed": 84176,
   "EOS_Completed": 947,
-  "EOS_NewPlayers": 569,
-  "EOS_NewCompleters": 12,
+  "EOS_NewPlayers": 568,
+  "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.13,
   "EosHistory": [
     {
@@ -31087,6 +31087,11 @@
       "Time": "2024-01-22T13:13:54.2413627+00:00",
       "NumProgressed": 84174,
       "NumCompleted": 947
+    },
+    {
+      "Time": "2024-01-22T14:05:46.5823572+00:00",
+      "NumProgressed": 84176,
+      "NumCompleted": 947
     }
   ],
   "TotalAchievements": 25,
@@ -31122,7 +31127,7 @@
       "Name": "Audiophile",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "Be Seeing You",
@@ -31130,7 +31135,7 @@
       "Name": "Be Seeing You",
       "Percentage": 22,
       "XP": 50,
-      "UsersEstimate": 18518
+      "UsersEstimate": 18519
     },
     {
       "ID": "Bottom\u0027s Up",
@@ -31138,7 +31143,7 @@
       "Name": "Bottom\u0027s Up",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 15151
+      "UsersEstimate": 15152
     },
     {
       "ID": "Butcher",
@@ -31154,7 +31159,7 @@
       "Name": "Cut Call",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 5050
+      "UsersEstimate": 5051
     },
     {
       "ID": "Fair\u0027sFair",
@@ -31216,9 +31221,9 @@
       "ID": "Mechanic",
       "SetID": "1e8d2nk",
       "Name": "Mechanic",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 50,
-      "UsersEstimate": 16835
+      "UsersEstimate": 15993
     },
     {
       "ID": "Nice Try",
@@ -31250,7 +31255,7 @@
       "Name": "Right On Target",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 11784
+      "UsersEstimate": 11785
     },
     {
       "ID": "Sniper",
@@ -31282,7 +31287,7 @@
       "Name": "Tape Head",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 1683
+      "UsersEstimate": 1684
     },
     {
       "ID": "Vinyl Vibes",
@@ -31297,7 +31302,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84174,
+      "Progressed": 84176,
       "Completed": 947
     }
   ],
@@ -31305,8 +31310,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:13:54.2413623+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:05:46.5823568+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:05:45.8581726+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:13:54.2414864+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:49.0582142+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:05:46.5825267+00:00"
 }

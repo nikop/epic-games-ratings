@@ -3372,9 +3372,9 @@
       "ID": "ach_complete_difficulty_medium",
       "SetID": "d499apg",
       "Name": "My Armour is Contempt",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 95,
-      "UsersEstimate": 59
+      "UsersEstimate": 69
     },
     {
       "ID": "ach_defeat_great_unclean_one",
@@ -3388,9 +3388,9 @@
       "ID": "ach_defeat_lord_of_change",
       "SetID": "d499apg",
       "Name": "Defeat a Lord of Change",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 45,
-      "UsersEstimate": 268
+      "UsersEstimate": 277
     },
     {
       "ID": "ach_find_all_secrets_c1",
@@ -3427,8 +3427,8 @@
   ],
   "FirstSeen": "2023-11-02T16:00:16.7134238+00:00",
   "FirstSeenAchievements": "2023-10-13T09:03:36.2275883+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:17:01.8342805+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:09:15.4170484+00:00",
   "LastUpdate_AppInfo": "2024-01-19T17:56:57.984209+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:10:51.0359388+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:17:01.8343061+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:02:56.1996705+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:09:15.4170716+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "overpass-2",
   "Ranking_EOS_Progress": 374,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 240,
+  "Ranking_EOS_NewPlayers": 242,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-28T08:00:00+00:00",
@@ -1774,9 +1774,9 @@
       "ID": "achSponsor5",
       "SetID": "7ji07dj",
       "Name": "In the Good Books",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 20
+      "UsersEstimate": 24
     },
     {
       "ID": "achSponsorMain1",
@@ -1901,8 +1901,8 @@
   ],
   "FirstSeen": "2023-10-03T04:00:29.2485771+00:00",
   "FirstSeenAchievements": "2023-09-28T09:03:06.3221206+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:13.0038109+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:20.5892988+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8036701+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:07:02.3104582+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:13.0038327+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:01.0839994+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:20.5893174+00:00"
 }

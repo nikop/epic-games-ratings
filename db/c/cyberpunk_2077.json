@@ -18896,9 +18896,9 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1057075,
+  "EOS_Progressed": 1057114,
   "EOS_Completed": 3147,
-  "EOS_NewPlayers": 5149,
+  "EOS_NewPlayers": 5134,
   "EOS_NewCompleters": 47,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50646,6 +50646,11 @@
       "Time": "2024-01-22T13:17:12.7499897+00:00",
       "NumProgressed": 1057075,
       "NumCompleted": 3147
+    },
+    {
+      "Time": "2024-01-22T14:09:25.4036062+00:00",
+      "NumProgressed": 1057114,
+      "NumCompleted": 3147
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50674,7 +50679,7 @@
       "Name": "Bushido and Chill",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "Cyberjunkie",
@@ -50778,7 +50783,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "MaxPain",
@@ -50824,9 +50829,9 @@
       "ID": "QueenOfTheHighway",
       "SetID": "47clieb",
       "Name": "Life of the Road",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5285
+      "UsersEstimate": 6343
     },
     {
       "ID": "Roleplayer",
@@ -50834,7 +50839,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "Specialist",
@@ -50874,7 +50879,7 @@
       "Name": "The Fool",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "TheHermit",
@@ -50882,7 +50887,7 @@
       "Name": "The Hermit",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "TheHightPriestess",
@@ -50890,7 +50895,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "TheLovers",
@@ -50898,7 +50903,7 @@
       "Name": "The Lovers",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "TheStar",
@@ -50922,7 +50927,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "TheWorld",
@@ -50930,7 +50935,7 @@
       "Name": "The World",
       "Percentage": 0.5,
       "XP": 90,
-      "UsersEstimate": 5285
+      "UsersEstimate": 5286
     },
     {
       "ID": "ThisIsPacifica",
@@ -50954,7 +50959,7 @@
       "Name": "True Soldier",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "TrueWarrior",
@@ -51002,7 +51007,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6342
+      "UsersEstimate": 6343
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51114,7 +51119,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "HydraIsDead",
@@ -51130,7 +51135,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 928
+      "UsersEstimate": 929
     },
     {
       "ID": "KingOfTheCups",
@@ -51193,21 +51198,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057075,
+      "Progressed": 1057114,
       "Completed": 3147
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185698,
+      "Progressed": 185737,
       "Completed": 10679
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-22T12:03:50.1732768+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:17:12.7499893+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:09:25.4036059+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:11:13.2519211+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:17:12.7502053+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:03:17.1043527+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:09:25.4037586+00:00"
 }

@@ -461,9 +461,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12067,
+  "EOS_Progressed": 12068,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 562,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5821,6 +5821,11 @@
       "Time": "2024-01-22T13:18:25.3454694+00:00",
       "NumProgressed": 12067,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T14:10:32.2950589+00:00",
+      "NumProgressed": 12068,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5833,7 +5838,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2775
+      "UsersEstimate": 2776
     },
     {
       "ID": "03_TheStolenStar",
@@ -5841,7 +5846,7 @@
       "Name": "Stolen Star",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 2051
+      "UsersEstimate": 2052
     },
     {
       "ID": "04_TheTradeEmpire",
@@ -5871,9 +5876,9 @@
       "ID": "07_TheGrandFinale",
       "SetID": "37a94m8",
       "Name": "Grand Finale",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 109
     },
     {
       "ID": "08_TheEmperorsHand",
@@ -5959,9 +5964,9 @@
       "ID": "18_TheRookieSkipper",
       "SetID": "37a94m8",
       "Name": "Rookie Skipper",
-      "Percentage": 16,
+      "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 1931
+      "UsersEstimate": 2052
     },
     {
       "ID": "19_TheVoidWolf",
@@ -6041,7 +6046,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 1689
+      "UsersEstimate": 1690
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6063,9 +6068,9 @@
       "ID": "31_DontTouchThis",
       "SetID": "37a94m8",
       "Name": "Don\u0027t Touch This",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 241
+      "UsersEstimate": 362
     },
     {
       "ID": "32_AviationSaviour",
@@ -6352,7 +6357,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12067,
+      "Progressed": 12068,
       "Completed": 1
     }
   ],
@@ -6360,8 +6365,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T09:57:28.1976457+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:18:25.345469+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:10:32.2950584+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:05:29.618349+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:18:25.3455274+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:57:33.8014708+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:10:32.2951202+00:00"
 }

@@ -2,12 +2,12 @@
   "ID": "1efd3d783b814b8b8548fb60c5983825",
   "Name": "IXION",
   "ProductSlug": "ixion-88cda4",
-  "Ranking_Rating": 429,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 218,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 233,
+  "Ranking_EOS_NewPlayers": 232,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-12-07T18:00:00+00:00",
@@ -359,9 +359,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4240,
+  "EOS_Progressed": 4241,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 40,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -8794,6 +8794,11 @@
       "Time": "2024-01-21T22:08:36.9214007+00:00",
       "NumProgressed": 4240,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T14:08:49.0315202+00:00",
+      "NumProgressed": 4241,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 57,
@@ -8803,9 +8808,9 @@
       "ID": "ACH_BASE_1",
       "SetID": "92iocjf",
       "Name": "Without Breaking Some Eggs...",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 1187
+      "UsersEstimate": 1145
     },
     {
       "ID": "ACH_BASE_10",
@@ -8997,7 +9002,7 @@
       "Name": "Fully Recycled",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_BASE_34",
@@ -9181,7 +9186,7 @@
       "Name": "The Ship of Theseus",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 678
+      "UsersEstimate": 679
     },
     {
       "ID": "ACH_BASE_6",
@@ -9260,13 +9265,13 @@
     {
       "ID": "7a6m2da",
       "IsBase": false,
-      "Progressed": 2424,
+      "Progressed": 2425,
       "Completed": 12
     },
     {
       "ID": "92iocjf",
       "IsBase": true,
-      "Progressed": 4240,
+      "Progressed": 4241,
       "Completed": 0
     }
   ],
@@ -9274,8 +9279,8 @@
   "FirstSeenRating": "2022-12-11T21:57:21.970765+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:33.197571+00:00",
   "LastChanged": "2024-01-17T19:57:40.7931209+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:16:33.9867529+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:08:49.0315199+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:42.4394865+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:08:05.0298686+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:16:33.9868358+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:57.6374035+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:08:49.0316208+00:00"
 }

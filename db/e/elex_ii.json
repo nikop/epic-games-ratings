@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 254,
+  "Ranking_EOS_NewPlayers": 253,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1692,6 +1692,11 @@
       "Time": "2024-01-22T09:05:47.5413269+00:00",
       "NumProgressed": 279,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T14:05:28.0031684+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1712,7 +1717,7 @@
       "Name": "Banker",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "1000ELEXIT",
@@ -1832,7 +1837,7 @@
       "Name": "Military Leader",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 86
+      "UsersEstimate": 87
     },
     {
       "ID": "ALLCOMBAT",
@@ -1910,9 +1915,9 @@
       "ID": "CHOSEBSK",
       "SetID": "a1angca",
       "Name": "Berserker",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 42
+      "UsersEstimate": 45
     },
     {
       "ID": "CHOSEKLE",
@@ -1958,9 +1963,9 @@
       "ID": "ENDGAME",
       "SetID": "a1angca",
       "Name": "Perfectionist",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 100,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "FINDALLIES",
@@ -1984,7 +1989,7 @@
       "Name": "Civilian",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "FINDCRONY",
@@ -2016,7 +2021,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "HELPCHILDREN",
@@ -2103,15 +2108,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:13:34.0476457+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:05:28.003168+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:07:29.9942935+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:13:34.0476849+00:00"
+  "LastUpdate_Ratings": "2024-01-22T13:59:26.3595028+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:05:28.0032039+00:00"
 }

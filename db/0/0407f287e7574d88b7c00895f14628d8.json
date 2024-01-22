@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 300,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1382,7 +1382,7 @@
       "ID": "zf2",
       "SetID": "b1ggf28",
       "Name": "House Remodel",
-      "Percentage": 0.8,
+      "Percentage": 1,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -1429,8 +1429,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-22T13:11:54.0685926+00:00",
+  "LastChanged_Achievements": "2024-01-22T14:03:55.7344074+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:11:04.197185+00:00",
-  "LastUpdate_Achievements": "2024-01-22T13:11:54.0686349+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:03:08.4834178+00:00",
+  "LastUpdate_Achievements": "2024-01-22T14:03:55.7344519+00:00"
 }

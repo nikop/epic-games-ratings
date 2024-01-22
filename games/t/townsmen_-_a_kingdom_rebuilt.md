@@ -26,11 +26,11 @@ Number of Ratings: 37  (23.09.2022)
 | Knee deep in snow | 7.00% | ~312 |
 | Not a small trader anymore | 6.00% | ~267 |
 | The King's new clothes I | 6.00% | ~267 |
+| Builder II | 6.00% | ~267 |
 | Tax-man III | 6.00% | ~267 |
 | Tools of the trade I | 6.00% | ~267 |
 | Bread for the people II | 5.00% | ~223 |
 | I like to build stuff... III | 5.00% | ~223 |
-| Builder II | 5.00% | ~223 |
 | An honorable Governor II | 5.00% | ~223 |
 | Full-time job III | 5.00% | ~223 |
 | Tax-man IV | 5.00% | ~223 |
@@ -109,7 +109,7 @@ Number of Ratings: 37  (23.09.2022)
 | We can rebuild it! | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 4,457 (Ranked 215)  
-Completed: 4 (0.09%) (Ranked 325)  
+Completed: 4 (0.09%) (Ranked 326)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

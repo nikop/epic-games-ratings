@@ -12,14 +12,14 @@ Number of Ratings: 368  (23.09.2022)
 | Yet another secret | 32.00% | ~5,773 |
 | Let there be darkness | 31.00% | ~5,593 |
 | End of Book One | 29.00% | ~5,232 |
-| Wannabe knight | 23.00% | ~4,149 |
-| Garden of Eden | 23.00% | ~4,149 |
-| Full house | 23.00% | ~4,149 |
+| Wannabe knight | 23.00% | ~4,150 |
+| Garden of Eden | 23.00% | ~4,150 |
+| Full house | 23.00% | ~4,150 |
 | Help an old friend | 21.00% | ~3,789 |
 | Two of us | 20.00% | ~3,608 |
-| Negotiation skills | 18.00% | ~3,247 |
-| Workers' union | 18.00% | ~3,247 |
-| End of Book Two | 18.00% | ~3,247 |
+| Negotiation skills | 18.00% | ~3,248 |
+| Workers' union | 18.00% | ~3,248 |
+| End of Book Two | 18.00% | ~3,248 |
 | Everything's in order | 16.00% | ~2,887 |
 | Twist of Fate | 14.00% | ~2,526 |
 | Jack was here! | 14.00% | ~2,526 |
@@ -37,7 +37,7 @@ Number of Ratings: 368  (23.09.2022)
 | Nothing but make-believe | 8.00% | ~1,443 |
 | A cry for help | 7.00% | ~1,263 |
 | Silentium est aureum | 7.00% | ~1,263 |
-| Rebel without a cause | 6.00% | ~1,082 |
+| Rebel without a cause | 6.00% | ~1,083 |
 | Staring contest champion | 5.00% | ~902 |
 | Lone wolf | 5.00% | ~902 |
 | Vox Populi | 5.00% | ~902 |
@@ -48,7 +48,7 @@ Number of Ratings: 368  (23.09.2022)
 | Self-defense | 3.00% | ~541 |
 | Boy of mystery | 2.00% | ~361 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,041 (Ranked 166)  
+Progressed: 18,042 (Ranked 166)  
 Completed: 125 (0.69%) (Ranked 207)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 125 (0.69%) (Ranked 207)
 | 2024-01-19 | 17,964 | 125 |
 | 2024-01-20 | 17,997 | 125 |
 | 2024-01-21 | 18,031 | 125 |
-| 2024-01-22 | 18,041 | 125 |
+| 2024-01-22 | 18,042 | 125 |
 ## Awards
 Max (Easy Puzzles): 156  (Ranked 333)  
 Sum: 200 (Ranked 420)  
