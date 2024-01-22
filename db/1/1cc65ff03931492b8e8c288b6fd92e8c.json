@@ -2,9 +2,9 @@
   "ID": "1cc65ff03931492b8e8c288b6fd92e8c",
   "Name": "STASIS : BONE TOTEM",
   "ProductSlug": "stasis-bone-totem-ca8320",
-  "Ranking_EOS_Progress": 699,
+  "Ranking_EOS_Progress": 690,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 479,
+  "Ranking_EOS_NewPlayers": 445,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-06-20T20:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 6,
+  "EOS_Progressed": 7,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -59,6 +59,11 @@
       "Time": "2024-01-22T19:10:03.4765169+00:00",
       "NumProgressed": 6,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T20:11:22.1652374+00:00",
+      "NumProgressed": 7,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 20,
@@ -68,7 +73,7 @@
       "ID": "NEW_ACHIEVEMENT_0",
       "SetID": "ab695d",
       "Name": "NO STONE UNTURNED",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 200,
       "UsersEstimate": 3
     },
@@ -76,7 +81,7 @@
       "ID": "NEW_ACHIEVEMENT_1",
       "SetID": "ab695d",
       "Name": "PROBLEM SOLVER",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 45,
       "UsersEstimate": 1
     },
@@ -92,7 +97,7 @@
       "ID": "NEW_ACHIEVEMENT_11",
       "SetID": "ab695d",
       "Name": "DEATH 1",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -100,7 +105,7 @@
       "ID": "NEW_ACHIEVEMENT_12",
       "SetID": "ab695d",
       "Name": "DEATH 2",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -108,7 +113,7 @@
       "ID": "NEW_ACHIEVEMENT_13",
       "SetID": "ab695d",
       "Name": "DEATH 3",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 10,
       "UsersEstimate": 1
     },
@@ -116,15 +121,15 @@
       "ID": "NEW_ACHIEVEMENT_14",
       "SetID": "ab695d",
       "Name": "DEATH 4",
-      "Percentage": 50,
+      "Percentage": 57,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "NEW_ACHIEVEMENT_15",
       "SetID": "ab695d",
       "Name": "DEATH 5",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 10,
       "UsersEstimate": 2
     },
@@ -132,7 +137,7 @@
       "ID": "NEW_ACHIEVEMENT_16",
       "SetID": "ab695d",
       "Name": "DEATH 6",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 20,
       "UsersEstimate": 1
     },
@@ -140,15 +145,15 @@
       "ID": "NEW_ACHIEVEMENT_17",
       "SetID": "ab695d",
       "Name": "DEATH 7",
-      "Percentage": 17,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_18",
       "SetID": "ab695d",
       "Name": "DEATH 8",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -164,7 +169,7 @@
       "ID": "NEW_ACHIEVEMENT_2",
       "SetID": "ab695d",
       "Name": "ESCAPE",
-      "Percentage": 33,
+      "Percentage": 29,
       "XP": 50,
       "UsersEstimate": 2
     },
@@ -172,7 +177,7 @@
       "ID": "NEW_ACHIEVEMENT_3",
       "SetID": "ab695d",
       "Name": "ELDRITCH ENQUIRER",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 150,
       "UsersEstimate": 1
     },
@@ -196,7 +201,7 @@
       "ID": "NEW_ACHIEVEMENT_6",
       "SetID": "ab695d",
       "Name": "GIMME",
-      "Percentage": 50,
+      "Percentage": 43,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -212,7 +217,7 @@
       "ID": "NEW_ACHIEVEMENT_8",
       "SetID": "ab695d",
       "Name": "BLUE FAIRY",
-      "Percentage": 17,
+      "Percentage": 14,
       "XP": 50,
       "UsersEstimate": 1
     },
@@ -229,14 +234,14 @@
     {
       "ID": "ab695d",
       "IsBase": true,
-      "Progressed": 6,
+      "Progressed": 7,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-22T13:57:49.6515967+00:00",
   "FirstSeenAchievements": "2023-06-14T11:02:04.2165239+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:03.4765167+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:22.1652371+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:23.9625877+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:58:13.9885263+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:03.4765323+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:58:53.2736883+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:22.1652487+00:00"
 }

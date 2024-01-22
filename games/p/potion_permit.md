@@ -10,7 +10,7 @@ Rating: 3.87 (Ranked 1,085)
 | Moonbury Traveller | 63.00% | ~1,244 |
 | Rookie Chemist | 60.00% | ~1,184 |
 | Great Doctor | 50.00% | ~987 |
-| Dog Whisperer | 47.00% | ~928 |
+| Dog Whisperer | 48.00% | ~948 |
 | Friendly | 46.00% | ~908 |
 | K.O.! | 43.00% | ~849 |
 | The Capitalist | 43.00% | ~849 |
@@ -248,8 +248,8 @@ Completed: 11 (0.56%) (Ranked 222)
 | 2024-01-22 | 1,974 | 11 |
 ## Awards
 Max (Character Customization): 72  (Ranked 417)  
-Sum: 72 (Ranked 495)  
-Diff (max vs sum): -78  
+Sum: 72 (Ranked 494)  
+Diff (max vs sum): -77  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 72 |

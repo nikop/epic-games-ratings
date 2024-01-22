@@ -2,9 +2,9 @@
   "ID": "64f5543ade2942d59ae4e0321915e0da",
   "Name": "Laika: Aged Through Blood",
   "ProductSlug": "laika-3293ee",
-  "Ranking_EOS_Progress": 354,
+  "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 223,
-  "Ranking_EOS_NewPlayers": 278,
+  "Ranking_EOS_NewPlayers": 275,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-10-19T15:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 542,
+  "EOS_Progressed": 543,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.55,
   "EosHistory": [
@@ -2124,6 +2124,11 @@
       "Time": "2024-01-22T10:06:06.3632078+00:00",
       "NumProgressed": 542,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-22T20:08:46.6358477+00:00",
+      "NumProgressed": 543,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-10-17T15:03:17.5678148+00:00",
@@ -2192,7 +2197,7 @@
       "Name": "Gambler",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "AC_BLACKJACK_GAMES_2",
@@ -2304,7 +2309,7 @@
       "Name": "Killer",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 276
+      "UsersEstimate": 277
     },
     {
       "ID": "AC_DEATH_ENEMIES_2",
@@ -2312,7 +2317,7 @@
       "Name": "Psycopath",
       "Percentage": 27,
       "XP": 25,
-      "UsersEstimate": 146
+      "UsersEstimate": 147
     },
     {
       "ID": "AC_DEATH_ENEMIES_3",
@@ -2320,7 +2325,7 @@
       "Name": "Genocide",
       "Percentage": 20,
       "XP": 45,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "AC_DISTANCE_1",
@@ -2368,7 +2373,7 @@
       "Name": "Demise",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "AC_FLASHBACK_03",
@@ -2440,7 +2445,7 @@
       "Name": "Loss",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 222
+      "UsersEstimate": 223
     },
     {
       "ID": "AC_SHOTGUN_MAX",
@@ -2454,9 +2459,9 @@
       "ID": "AC_SNIPER_MAX",
       "SetID": "16i2akc",
       "Name": "Crosshair",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 16
     },
     {
       "ID": "AC_UZI_MAX",
@@ -2471,14 +2476,14 @@
     {
       "ID": "16i2akc",
       "IsBase": true,
-      "Progressed": 542,
+      "Progressed": 543,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-10-21T20:58:53.662709+00:00",
   "FirstSeenAchievements": "2023-10-17T15:03:17.5678146+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:06:30.6416782+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:08:46.6358474+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.4217978+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:58:29.6996766+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:06:30.6417095+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:59:14.8054864+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:08:46.6358846+00:00"
 }

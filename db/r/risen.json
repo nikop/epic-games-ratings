@@ -1173,9 +1173,9 @@
       "ID": "id_16",
       "SetID": "bk9jib6",
       "Name": "Little hero",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 40
     },
     {
       "ID": "id_17",
@@ -1542,8 +1542,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-21T07:02:18.1071448+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:11.0738312+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:32.2676636+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:57:45.7669371+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:11.0738616+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:58:11.2832756+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:32.267704+00:00"
 }

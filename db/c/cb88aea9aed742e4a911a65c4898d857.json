@@ -3,8 +3,8 @@
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
   "Ranking_Rating": 240,
-  "Ranking_Popularity": 331,
-  "Ranking_PopularitySum": 409,
+  "Ranking_Popularity": 327,
+  "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 123,
@@ -429,18 +429,24 @@
       "Rating": 4.69,
       "NumberOfAwards": 235,
       "NumberOfAwardsMax": 164
+    },
+    {
+      "Time": "2024-01-22T19:58:08.2693794+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 240,
+      "NumberOfAwardsMax": 169
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 235,
-  "NumberOfAwardsMax": 164,
+  "NumberOfAwards": 240,
+  "NumberOfAwardsMax": 169,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 164
+      "Count": 169
     },
     {
       "Text": "This game has Diverse Characters",
@@ -461,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12084,
+  "EOS_Progressed": 12085,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 553,
+  "EOS_NewPlayers": 551,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5851,6 +5857,11 @@
       "Time": "2024-01-22T19:10:11.8227593+00:00",
       "NumProgressed": 12084,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T20:11:33.188268+00:00",
+      "NumProgressed": 12085,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5863,7 +5874,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2779
+      "UsersEstimate": 2780
     },
     {
       "ID": "03_TheStolenStar",
@@ -5975,7 +5986,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1933
+      "UsersEstimate": 1934
     },
     {
       "ID": "17_TheExemplar",
@@ -6101,9 +6112,9 @@
       "ID": "32_AviationSaviour",
       "SetID": "37a94m8",
       "Name": "Aviation Saviour",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 121
+      "UsersEstimate": 242
     },
     {
       "ID": "33_TzeentchCleaning",
@@ -6181,9 +6192,9 @@
       "ID": "42_TheIronJudgement",
       "SetID": "37a94m8",
       "Name": "Iron Judgement",
-      "Percentage": 11,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1329
+      "UsersEstimate": 1450
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6213,9 +6224,9 @@
       "ID": "46_ASpark",
       "SetID": "37a94m8",
       "Name": "A Spark",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 2054
+      "UsersEstimate": 1934
     },
     {
       "ID": "47_AFlame",
@@ -6382,16 +6393,16 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12084,
+      "Progressed": 12085,
       "Completed": 1
     }
   ],
   "FirstSeen": "2023-12-07T19:57:48.6554999+00:00",
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
-  "LastChanged": "2024-01-22T09:57:28.1976457+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:11.822759+00:00",
+  "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:33.1882678+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:57:43.575135+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:11.822831+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:58:08.2693798+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:33.1883253+00:00"
 }

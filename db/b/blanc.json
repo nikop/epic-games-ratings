@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 302,
-  "Ranking_EOS_NewPlayers": 188,
+  "Ranking_EOS_NewPlayers": 187,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4221,
+  "EOS_Progressed": 4222,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 105,
+  "EOS_NewPlayers": 106,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7421,6 +7421,11 @@
       "Time": "2024-01-22T19:04:59.1311432+00:00",
       "NumProgressed": 4221,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-22T20:06:19.3791389+00:00",
+      "NumProgressed": 4222,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7464,7 +7469,7 @@
       "Name": "The will to move on",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "REUNION",
@@ -7472,7 +7477,7 @@
       "Name": "Reunion",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "SLIDERS",
@@ -7528,14 +7533,14 @@
       "Name": "Unexpected encounter",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 675
+      "UsersEstimate": 676
     }
   ],
   "AchievementSets": [
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4221,
+      "Progressed": 4222,
       "Completed": 6
     }
   ],
@@ -7543,8 +7548,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:04:59.1311429+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:06:19.3791386+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:35.0592598+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:58:46.0701098+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:04:59.1311984+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:59:39.541658+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:06:19.3791827+00:00"
 }

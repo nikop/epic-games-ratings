@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 187,
   "Ranking_EOS_Progress": 142,
   "Ranking_EOS_Completed": 285,
-  "Ranking_EOS_NewPlayers": 163,
+  "Ranking_EOS_NewPlayers": 162,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-10-18T15:00:00+00:00",
@@ -4045,10 +4045,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 2986,
       "NumberOfAwardsMax": 329
+    },
+    {
+      "Time": "2024-01-22T20:02:51.0906049+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 2987,
+      "NumberOfAwardsMax": 329
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2986,
+  "NumberOfAwards": 2987,
   "NumberOfAwardsMax": 329,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -4092,7 +4098,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 314
+      "Count": 315
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -4125,7 +4131,7 @@
       "Count": 94
     }
   ],
-  "EOS_Progressed": 33892,
+  "EOS_Progressed": 33893,
   "EOS_Completed": 71,
   "EOS_NewPlayers": 205,
   "EOS_NewCompleters": 0,
@@ -26275,6 +26281,11 @@
       "Time": "2024-01-22T19:09:18.3771884+00:00",
       "NumProgressed": 33892,
       "NumCompleted": 71
+    },
+    {
+      "Time": "2024-01-22T20:10:18.9628136+00:00",
+      "NumProgressed": 33893,
+      "NumCompleted": 71
     }
   ],
   "TotalAchievements": 51,
@@ -26614,7 +26625,7 @@
       "Name": "Swift Rift Removers",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 2372
+      "UsersEstimate": 2373
     },
     {
       "ID": "Teamwork",
@@ -26693,16 +26704,16 @@
     {
       "ID": "819popo",
       "IsBase": true,
-      "Progressed": 33892,
+      "Progressed": 33893,
       "Completed": 71
     }
   ],
   "FirstSeen": "2022-10-18T17:30:59.223386+00:00",
   "FirstSeenRating": "2022-10-19T03:31:00.7496548+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.8024032+00:00",
-  "LastChanged": "2024-01-22T03:00:03.0228317+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:09:18.3771881+00:00",
+  "LastChanged": "2024-01-22T20:02:51.0906047+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:10:18.9628133+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:41.0805246+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:00:21.4276124+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:09:18.3773199+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:02:51.0906052+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:10:18.9629575+00:00"
 }

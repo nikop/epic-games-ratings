@@ -4,7 +4,7 @@
   "ProductSlug": "night-book-77f2c7",
   "Ranking_EOS_Progress": 398,
   "Ranking_EOS_Completed": 135,
-  "Ranking_EOS_NewPlayers": 354,
+  "Ranking_EOS_NewPlayers": 347,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-11-18T05:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 322,
+  "EOS_Progressed": 323,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.17,
   "EosHistory": [
@@ -756,6 +756,11 @@
       "Time": "2024-01-22T19:08:39.9796183+00:00",
       "NumProgressed": 322,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-22T20:09:25.059222+00:00",
+      "NumProgressed": 323,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 17,
@@ -765,9 +770,9 @@
       "ID": "a_little_extra",
       "SetID": "a3kkelb",
       "Name": "A Little Extra",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 52
+      "UsersEstimate": 48
     },
     {
       "ID": "career_woman",
@@ -807,7 +812,7 @@
       "Name": "Impress Theron",
       "Percentage": 47,
       "XP": 100,
-      "UsersEstimate": 151
+      "UsersEstimate": 152
     },
     {
       "ID": "marriage_is_off",
@@ -823,7 +828,7 @@
       "Name": "No One Is Safe",
       "Percentage": 65,
       "XP": 15,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "off_his_meds",
@@ -839,7 +844,7 @@
       "Name": "On Your Bike",
       "Percentage": 29,
       "XP": 100,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "pearce",
@@ -855,7 +860,7 @@
       "Name": "Personal Life",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 148
+      "UsersEstimate": 149
     },
     {
       "ID": "save_dad",
@@ -863,7 +868,7 @@
       "Name": "Save Dad",
       "Percentage": 24,
       "XP": 100,
-      "UsersEstimate": 77
+      "UsersEstimate": 78
     },
     {
       "ID": "shady_truth",
@@ -902,7 +907,7 @@
     {
       "ID": "a3kkelb",
       "IsBase": true,
-      "Progressed": 322,
+      "Progressed": 323,
       "Completed": 7
     }
   ],
@@ -910,8 +915,8 @@
   "FirstSeenRating": "2023-03-31T05:57:35.831564+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.2644184+00:00",
   "LastChanged": "2023-03-31T05:57:35.8315642+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:08:39.979618+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:09:25.0592218+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.224486+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:57:58.2369523+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:08:39.9796314+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:58:29.4509208+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:09:25.0592355+00:00"
 }

@@ -23,12 +23,12 @@
 | Punctual | 11.00% | ~16 |
 | Under the Hood | 10.00% | ~14 |
 | Long Live Gaipajama! | 10.00% | ~14 |
-| Eyes Shut | 9.00% | ~13 |
+| Eyes Shut | 10.00% | ~14 |
 | Tintin, Reporter | 8.00% | ~11 |
 | Barking Dog | 8.00% | ~11 |
 | Mummy Nightmare | 7.00% | ~10 |
 | Mountain Runner | 7.00% | ~10 |
-| Subtlety | 6.00% | ~9 |
+| Subtlety | 7.00% | ~10 |
 | A Yummy Detour | 4.00% | ~6 |
 | Jungle Runner | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 375,
   "Ranking_EOS_Progress": 244,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 250,
+  "Ranking_EOS_NewPlayers": 252,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-08-18T14:00:00+00:00",
@@ -7181,9 +7181,9 @@
       "ID": "achAccumulate1M",
       "SetID": "dgl390n",
       "Name": "Transport millionaire",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 1280
+      "UsersEstimate": 1305
     },
     {
       "ID": "achAircraftEarnings",
@@ -7637,8 +7637,8 @@
   "FirstSeen": "2022-07-22T20:18:50.1070653+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:54.6875496+00:00",
   "LastChanged": "2024-01-07T21:03:10.1496131+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:09:34.7176032+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:10:41.7704414+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.5683931+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:03:07.1100052+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:09:34.7176903+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:03:41.0313358+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:10:41.770508+00:00"
 }

@@ -127,7 +127,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2430,
+  "EOS_Progressed": 2431,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 86,
   "EOS_NewCompleters": 2,
@@ -4982,6 +4982,11 @@
       "Time": "2024-01-22T19:10:10.8120938+00:00",
       "NumProgressed": 2430,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T20:11:31.8190511+00:00",
+      "NumProgressed": 2431,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 36,
@@ -5001,7 +5006,7 @@
       "Name": "Find Allies",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 680
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_03",
@@ -5065,7 +5070,7 @@
       "Name": "Trinity",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "ACH_11",
@@ -5113,7 +5118,7 @@
       "Name": "Essence Blow",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 364
+      "UsersEstimate": 365
     },
     {
       "ID": "ACH_17",
@@ -5280,7 +5285,7 @@
     {
       "ID": "efe2lj",
       "IsBase": true,
-      "Progressed": 2430,
+      "Progressed": 2431,
       "Completed": 5
     }
   ],
@@ -5288,8 +5293,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-22T16:59:51.0180566+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:10.8120934+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:31.8190509+00:00",
   "LastUpdate_AppInfo": "2024-01-16T01:45:46.7304507+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:59:22.506576+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:10.81214+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:00:34.442386+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:31.8190918+00:00"
 }

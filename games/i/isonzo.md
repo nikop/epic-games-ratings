@@ -20,7 +20,7 @@ Number of Ratings: 98  (23.09.2022)
 | Insubordination | 19.00% | ~1,906 |
 | The Italian Job | 19.00% | ~1,906 |
 | Veni Vidi Vici | 19.00% | ~1,906 |
-| Ragazzi del '99 | 17.00% | ~1,705 |
+| Ragazzi del '99 | 18.00% | ~1,805 |
 | Luigi Cadorna | 16.00% | ~1,605 |
 | The Lion of the Isonzo | 14.00% | ~1,404 |
 | Shaken, Not Stirred | 13.00% | ~1,304 |

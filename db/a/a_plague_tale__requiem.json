@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 164,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 136,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2022-10-17T22:00:00+00:00",
     "PcReleaseDate": "2022-10-17T22:00:00+00:00",
@@ -857,9 +857,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 18684,
+  "EOS_Progressed": 18685,
   "EOS_Completed": 70,
-  "EOS_NewPlayers": 382,
+  "EOS_NewPlayers": 376,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -16822,6 +16822,11 @@
       "Time": "2024-01-22T19:05:12.949025+00:00",
       "NumProgressed": 18684,
       "NumCompleted": 70
+    },
+    {
+      "Time": "2024-01-22T20:06:38.4956944+00:00",
+      "NumProgressed": 18685,
+      "NumCompleted": 70
     }
   ],
   "TotalAchievements": 35,
@@ -16833,7 +16838,7 @@
       "Name": "Under a New Sun",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 17002
+      "UsersEstimate": 17003
     },
     {
       "ID": "ACH_02",
@@ -16841,7 +16846,7 @@
       "Name": "Newcomers",
       "Percentage": 76,
       "XP": 15,
-      "UsersEstimate": 14200
+      "UsersEstimate": 14201
     },
     {
       "ID": "ACH_03",
@@ -16857,7 +16862,7 @@
       "Name": "Protector\u0027s Duty",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 12518
+      "UsersEstimate": 12519
     },
     {
       "ID": "ACH_05",
@@ -16873,7 +16878,7 @@
       "Name": "Leaving all Behind",
       "Percentage": 62,
       "XP": 15,
-      "UsersEstimate": 11584
+      "UsersEstimate": 11585
     },
     {
       "ID": "ACH_07",
@@ -16897,7 +16902,7 @@
       "Name": "Tales and Revelations",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 10089
+      "UsersEstimate": 10090
     },
     {
       "ID": "ACH_10",
@@ -16905,7 +16910,7 @@
       "Name": "Bloodline",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 9155
+      "UsersEstimate": 9156
     },
     {
       "ID": "ACH_11",
@@ -16921,7 +16926,7 @@
       "Name": "The Life We Deserve",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 8034
+      "UsersEstimate": 8035
     },
     {
       "ID": "ACH_13",
@@ -16937,7 +16942,7 @@
       "Name": "Healing our Wounds",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 6539
+      "UsersEstimate": 6540
     },
     {
       "ID": "ACH_15",
@@ -16959,9 +16964,9 @@
       "ID": "ACH_17",
       "SetID": "9d4cf4c",
       "Name": "Knights!",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 3550
+      "UsersEstimate": 3737
     },
     {
       "ID": "ACH_18",
@@ -17041,7 +17046,7 @@
       "Name": "Night guard",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 7660
+      "UsersEstimate": 7661
     },
     {
       "ID": "ACH_28",
@@ -17081,7 +17086,7 @@
       "Name": "Perfect shot",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 4297
+      "UsersEstimate": 4298
     },
     {
       "ID": "ACH_33",
@@ -17105,14 +17110,14 @@
       "Name": "Mercy",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 4297
+      "UsersEstimate": 4298
     }
   ],
   "AchievementSets": [
     {
       "ID": "9d4cf4c",
       "IsBase": true,
-      "Progressed": 18684,
+      "Progressed": 18685,
       "Completed": 70
     }
   ],
@@ -17120,8 +17125,8 @@
   "FirstSeenRating": "2022-10-19T08:31:07.269334+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.6707564+00:00",
   "LastChanged": "2024-01-19T19:59:20.3831528+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:05:12.9490247+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:06:38.495694+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:42.131377+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:57:16.8753296+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:05:12.9491302+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:57:29.477213+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:06:38.4958029+00:00"
 }

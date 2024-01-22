@@ -6731,10 +6731,16 @@
       "Rating": 4.83,
       "NumberOfAwards": 4447,
       "NumberOfAwardsMax": 555
+    },
+    {
+      "Time": "2024-01-22T19:57:09.8151596+00:00",
+      "Rating": 4.83,
+      "NumberOfAwards": 4448,
+      "NumberOfAwardsMax": 555
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 4447,
+  "NumberOfAwards": 4448,
   "NumberOfAwardsMax": 555,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6760,7 +6766,7 @@
       "Text": "This game has a Silly Community",
       "Prefix": "This game has a",
       "Type": "Silly Community",
-      "Count": 411
+      "Count": 412
     },
     {
       "Text": "This game is Great for Beginners",
@@ -6805,9 +6811,9 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 268462,
+  "EOS_Progressed": 268463,
   "EOS_Completed": 960,
-  "EOS_NewPlayers": 912,
+  "EOS_NewPlayers": 902,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -37365,6 +37371,11 @@
       "Time": "2024-01-22T19:10:08.5110154+00:00",
       "NumProgressed": 268462,
       "NumCompleted": 960
+    },
+    {
+      "Time": "2024-01-22T20:11:28.6812368+00:00",
+      "NumProgressed": 268463,
+      "NumCompleted": 960
     }
   ],
   "TotalAchievements": 39,
@@ -37392,7 +37403,7 @@
       "Name": "Car Cave",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 32215
+      "UsersEstimate": 32216
     },
     {
       "ID": "AchievementBaywatchID",
@@ -37400,7 +37411,7 @@
       "Name": "Who Baywatches the Baywatch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 10738
+      "UsersEstimate": 10739
     },
     {
       "ID": "AchievementBecomeHumanID",
@@ -37440,7 +37451,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 244300
+      "UsersEstimate": 244301
     },
     {
       "ID": "AchievementClownID",
@@ -37464,7 +37475,7 @@
       "Name": "Don\u0027t touch the servers",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 75169
+      "UsersEstimate": 75170
     },
     {
       "ID": "AchievementEggID",
@@ -37488,7 +37499,7 @@
       "Name": "What a Waste of Money",
       "Percentage": 33,
       "XP": 5,
-      "UsersEstimate": 88592
+      "UsersEstimate": 88593
     },
     {
       "ID": "AchievementGoatID",
@@ -37504,7 +37515,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139600
+      "UsersEstimate": 139601
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -37536,7 +37547,7 @@
       "Name": "Secret Society",
       "Percentage": 44,
       "XP": 5,
-      "UsersEstimate": 118123
+      "UsersEstimate": 118124
     },
     {
       "ID": "AchievementIntroID",
@@ -37544,7 +37555,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 153023
+      "UsersEstimate": 153024
     },
     {
       "ID": "AchievementLootBoxID",
@@ -37592,7 +37603,7 @@
       "Name": "[REDACTED]",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 10738
+      "UsersEstimate": 10739
     },
     {
       "ID": "AchievementRedecorationID",
@@ -37608,7 +37619,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 195977
+      "UsersEstimate": 195978
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -37624,7 +37635,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 134231
+      "UsersEstimate": 134232
     },
     {
       "ID": "AchievementStreakingID",
@@ -37648,7 +37659,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 144969
+      "UsersEstimate": 144970
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -37656,7 +37667,7 @@
       "Name": "Synchronization Complete",
       "Percentage": 47,
       "XP": 5,
-      "UsersEstimate": 126177
+      "UsersEstimate": 126178
     },
     {
       "ID": "AchievementTrinketID",
@@ -37687,16 +37698,16 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268462,
+      "Progressed": 268463,
       "Completed": 960
     }
   ],
   "FirstSeen": "2022-11-17T15:57:34.4341009+00:00",
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
-  "LastChanged": "2024-01-22T17:03:06.595712+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:08.5110151+00:00",
+  "LastChanged": "2024-01-22T19:57:09.8151594+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:28.6812366+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.8011791+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:02:46.0924812+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:08.5111758+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:57:09.8151598+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:28.6813771+00:00"
 }

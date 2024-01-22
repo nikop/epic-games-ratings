@@ -6,7 +6,7 @@
   "Ranking_Popularity": 8,
   "Ranking_PopularitySum": 8,
   "Ranking_EOS_Progress": 17,
-  "Ranking_EOS_Completed": 265,
+  "Ranking_EOS_Completed": 264,
   "Ranking_EOS_NewPlayers": 29,
   "Ranking_EOS_NewCompleters": 8,
   "Store": {
@@ -18834,18 +18834,24 @@
       "Rating": 4.67,
       "NumberOfAwards": 513654,
       "NumberOfAwardsMax": 143675
+    },
+    {
+      "Time": "2024-01-22T20:03:55.6519878+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 514024,
+      "NumberOfAwardsMax": 144045
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 513654,
-  "NumberOfAwardsMax": 143675,
+  "NumberOfAwards": 514024,
+  "NumberOfAwardsMax": 144045,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 143675
+      "Count": 144045
     },
     {
       "Text": "This game has Great Boss Battles",
@@ -18914,10 +18920,10 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1057250,
-  "EOS_Completed": 3147,
-  "EOS_NewPlayers": 5042,
-  "EOS_NewCompleters": 43,
+  "EOS_Progressed": 1057277,
+  "EOS_Completed": 3148,
+  "EOS_NewPlayers": 5043,
+  "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50694,6 +50700,11 @@
       "Time": "2024-01-22T19:09:06.0204508+00:00",
       "NumProgressed": 1057250,
       "NumCompleted": 3147
+    },
+    {
+      "Time": "2024-01-22T20:10:01.664228+00:00",
+      "NumProgressed": 1057277,
+      "NumCompleted": 3148
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50714,7 +50725,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "BushidoAndChill",
@@ -50850,7 +50861,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "NoMansLand",
@@ -50890,7 +50901,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "Temperance",
@@ -50954,7 +50965,7 @@
       "Name": "The Star",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "TheSun",
@@ -50962,7 +50973,7 @@
       "Name": "The Sun",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2114
+      "UsersEstimate": 2115
     },
     {
       "ID": "TheWheelOfFortune",
@@ -51000,9 +51011,9 @@
       "ID": "TrueSoldier",
       "SetID": "47clieb",
       "Name": "True Soldier",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 6344
+      "UsersEstimate": 7401
     },
     {
       "ID": "TrueWarrior",
@@ -51162,7 +51173,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "HydraIsDead",
@@ -51178,7 +51189,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.5,
       "XP": 35,
-      "UsersEstimate": 929
+      "UsersEstimate": 930
     },
     {
       "ID": "KingOfTheCups",
@@ -51241,21 +51252,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057250,
-      "Completed": 3147
+      "Progressed": 1057277,
+      "Completed": 3148
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185873,
-      "Completed": 10682
+      "Progressed": 185900,
+      "Completed": 10683
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-22T18:03:27.5771027+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:09:06.0204505+00:00",
+  "LastChanged": "2024-01-22T20:03:55.6519876+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:10:01.6642276+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:03:16.2425138+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:09:06.0206362+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:03:55.6519883+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:10:01.6644253+00:00"
 }

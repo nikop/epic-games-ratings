@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 25,
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 34,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 33,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14641,10 +14641,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 65495,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-22T20:01:36.01269+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65514,
+      "NumberOfAwardsMax": 7940
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65495,
+  "NumberOfAwards": 65514,
   "NumberOfAwardsMax": 7940,
   "MaxAwardTitle": "Educational",
   "Tags": [
@@ -14658,7 +14664,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 7564
+      "Count": 7575
     },
     {
       "Text": "This game has Diverse Characters",
@@ -14688,7 +14694,7 @@
       "Text": "This game has Competitive Players",
       "Prefix": "This game has",
       "Type": "Competitive Players",
-      "Count": 7108
+      "Count": 7116
     },
     {
       "Text": "This game is Relaxing",
@@ -14715,9 +14721,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 503893,
+  "EOS_Progressed": 503935,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4349,
+  "EOS_NewPlayers": 4353,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46750,6 +46756,11 @@
       "Time": "2024-01-22T19:10:20.1403697+00:00",
       "NumProgressed": 503893,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-22T20:11:43.0525719+00:00",
+      "NumProgressed": 503935,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47761,7 +47772,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "achievement_grand_coalition",
@@ -47785,7 +47796,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2520
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -48761,7 +48772,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2519
+      "UsersEstimate": 2520
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -49041,7 +49052,7 @@
       "Name": "That is mine!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -49425,7 +49436,7 @@
       "Name": "Until death do us apart",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 3527
+      "UsersEstimate": 3528
     },
     {
       "ID": "achievement_vasa_or_wettin",
@@ -49457,7 +49468,7 @@
       "Name": "Victorious!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3023
+      "UsersEstimate": 3024
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -49664,21 +49675,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 503893,
+      "Progressed": 503935,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 503893,
+      "Progressed": 503935,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-22T19:00:04.3450712+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:20.1403695+00:00",
+  "LastChanged": "2024-01-22T20:01:36.0126898+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:43.0525717+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:00:04.3450719+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:20.1414939+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:01:36.0126905+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:43.0537482+00:00"
 }

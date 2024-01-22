@@ -2,7 +2,7 @@
   "ID": "8d26e33298454f97888010e66a681b93",
   "Name": "CONVERGENCE: A League of Legends Story\u2122",
   "ProductSlug": "convergence-a-league-of-legends-story",
-  "Ranking_Rating": 307,
+  "Ranking_Rating": 308,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 283,
@@ -4295,9 +4295,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 473
+      "UsersEstimate": 487
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4608,8 +4608,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-16T13:04:50.4094714+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:15.8946899+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:38.2385525+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:59:08.8242406+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:15.8947332+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:00:14.4716578+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:38.2386017+00:00"
 }

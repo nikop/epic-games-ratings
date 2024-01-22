@@ -36,7 +36,7 @@ Number of Ratings: 177  (23.09.2022)
 | Ashley | 0.60% | ~44 |
 | Benedict Brahrnold | 0.60% | ~44 |
 | I'll Be Back | 0.60% | ~44 |
-| Love Conquers All | 0.50% | ~37 |
+| Love Conquers All | 0.60% | ~44 |
 | The Bride | 0.40% | ~30 |
 | Rule 34 | 0.40% | ~30 |
 | Rachael | 0.40% | ~30 |

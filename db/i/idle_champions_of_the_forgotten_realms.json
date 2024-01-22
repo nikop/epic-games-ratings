@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 179,
-  "Ranking_EOS_NewPlayers": 80,
+  "Ranking_EOS_NewPlayers": 79,
   "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9757,10 +9757,10 @@
       "Count": 3652
     }
   ],
-  "EOS_Progressed": 255209,
+  "EOS_Progressed": 255214,
   "EOS_Completed": 2633,
-  "EOS_NewPlayers": 1145,
-  "EOS_NewCompleters": 16,
+  "EOS_NewPlayers": 1144,
+  "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
     {
@@ -41237,6 +41237,11 @@
       "Time": "2024-01-22T19:10:20.7321716+00:00",
       "NumProgressed": 255209,
       "NumCompleted": 2633
+    },
+    {
+      "Time": "2024-01-22T20:11:44.1163234+00:00",
+      "NumProgressed": 255214,
+      "NumCompleted": 2633
     }
   ],
   "TotalAchievements": 546,
@@ -41248,7 +41253,7 @@
       "Name": "A Brief Tour of the Realms",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12760
+      "UsersEstimate": 12761
     },
     {
       "ID": "objective_completed_10",
@@ -45615,21 +45620,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221483,
+      "Progressed": 221488,
       "Completed": 4157
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255209,
+      "Progressed": 255214,
       "Completed": 2633
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-22T15:58:01.1112582+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:20.7321714+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:44.1163232+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:57:52.5424994+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:20.7344923+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:58:21.8420032+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:44.1186555+00:00"
 }

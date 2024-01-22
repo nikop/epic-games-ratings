@@ -1,26 +1,26 @@
 # Immortals of Aveum™
 [Store](https://store.epicgames.com/en-US/p/immortals-of-aveum)  
 [View Rawdata](../../db/i/immortals_of_aveum™.json)  
-Rating: 4.20 (Ranked 973)  
+Rating: 4.20 (Ranked 974)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,187 |
-| Battlefields Have Memories | 82.00% | ~2,936 |
+| Unforeseen | 89.00% | ~3,188 |
+| Battlefields Have Memories | 82.00% | ~2,937 |
 | Enlisted | 76.00% | ~2,722 |
 | Maybe Engage a Little | 71.00% | ~2,543 |
 | No More Names | 55.00% | ~1,970 |
-| Initiate | 41.00% | ~1,468 |
+| Initiate | 41.00% | ~1,469 |
 | Thrada-Kul | 38.00% | ~1,361 |
 | Gravity-Challenged Rocks | 32.00% | ~1,146 |
 | Soldier | 27.00% | ~967 |
 | All the Major Food Groups | 27.00% | ~967 |
-| Socialite | 25.00% | ~895 |
-| Beggars Would Ride | 25.00% | ~895 |
-| Control is an Illusion | 24.00% | ~859 |
+| Socialite | 25.00% | ~896 |
+| Beggars Would Ride | 25.00% | ~896 |
+| Control is an Illusion | 24.00% | ~860 |
 | The Means to Save It | 21.00% | ~752 |
-| Resilience to Sin | 19.00% | ~680 |
-| A Familiar Nest | 19.00% | ~680 |
+| Resilience to Sin | 19.00% | ~681 |
+| A Familiar Nest | 19.00% | ~681 |
 | Geas Aristeya | 18.00% | ~645 |
 | Periapt Alizarin | 18.00% | ~645 |
 | A Perfect Cycle | 17.00% | ~609 |
@@ -29,7 +29,7 @@ Rating: 4.20 (Ranked 973)
 | Lights Army | 12.00% | ~430 |
 | Periapt Cerulean | 10.00% | ~358 |
 | Good Boy | 9.00% | ~322 |
-| Periapt Viridian | 8.00% | ~286 |
+| Periapt Viridian | 8.00% | ~287 |
 | Best Dressed | 7.00% | ~251 |
 | Shroudfane Explorer | 7.00% | ~251 |
 | Kitted Out | 6.00% | ~215 |
@@ -45,15 +45,15 @@ Rating: 4.20 (Ranked 973)
 | Witch-Taker | 0.90% | ~32 |
 | Master of Ultramarine | 0.90% | ~32 |
 | Backtracker | 0.90% | ~32 |
+| Petite Bourgeoisie | 0.80% | ~29 |
 | Family Business | 0.70% | ~25 |
 | Diplomat | 0.70% | ~25 |
-| Petite Bourgeoisie | 0.70% | ~25 |
 | Master of Malachite | 0.60% | ~21 |
 | Out of Time | 0.50% | ~18 |
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,581 (Ranked 230)  
+Progressed: 3,582 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 302)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -169,11 +169,11 @@ Completed: 5 (0.14%) (Ranked 302)
 | 2024-01-19 | 3,533 | 5 |
 | 2024-01-20 | 3,546 | 5 |
 | 2024-01-21 | 3,570 | 5 |
-| 2024-01-22 | 3,581 | 5 |
+| 2024-01-22 | 3,582 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 565)  
-Sum: 43 (Ranked 526)  
-Diff (max vs sum): 39  
+Sum: 43 (Ranked 525)  
+Diff (max vs sum): 40  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 23 |

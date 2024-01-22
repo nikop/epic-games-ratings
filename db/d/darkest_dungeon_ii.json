@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 118,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewPlayers": 119,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11178,9 +11178,9 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133499,
+  "EOS_Progressed": 133504,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 587,
+  "EOS_NewPlayers": 585,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41078,6 +41078,11 @@
       "Time": "2024-01-22T19:10:08.7764965+00:00",
       "NumProgressed": 133499,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T20:11:29.0125475+00:00",
+      "NumProgressed": 133504,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41113,7 +41118,7 @@
       "Name": "A Life Well Lived",
       "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "altar_of_hope_unlock_hero_flagellant",
@@ -41201,7 +41206,7 @@
       "Name": "Loop Year",
       "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "combat_kill_animal",
@@ -41337,7 +41342,7 @@
       "Name": "Circle of Life",
       "Percentage": 0.3,
       "XP": 20,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "combat_kill_swine",
@@ -41345,7 +41350,7 @@
       "Name": "Bacon Bits",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 934
+      "UsersEstimate": 935
     },
     {
       "ID": "combat_party_wipe_all_run_bosses",
@@ -41353,7 +41358,7 @@
       "Name": "No Gravestone Left Unturned",
       "Percentage": 0.1,
       "XP": 20,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "combat_party_wipe_any_run_boss",
@@ -41513,7 +41518,7 @@
       "Name": "The Clash",
       "Percentage": 0.1,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "relationships_all_positive_mountain",
@@ -41585,7 +41590,7 @@
       "Name": "Grand Slam",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 400
+      "UsersEstimate": 401
     },
     {
       "ID": "run_victory_final_boss_infernal_flame",
@@ -41593,7 +41598,7 @@
       "Name": "Hard Mode",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "stagecoach_upgrade_equip_all",
@@ -41625,7 +41630,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1255
+      "UsersEstimate": 1256
     },
     {
       "ID": "combat_kill_collector",
@@ -41689,7 +41694,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41697,7 +41702,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 418
+      "UsersEstimate": 419
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41720,21 +41725,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133499,
+      "Progressed": 133504,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8368,
+      "Progressed": 8373,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-22T14:59:42.7618923+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:10:08.7764963+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:11:29.012547+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:58:54.7790703+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:10:08.7766779+00:00"
+  "LastUpdate_Ratings": "2024-01-22T19:59:53.5873471+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:11:29.0127122+00:00"
 }

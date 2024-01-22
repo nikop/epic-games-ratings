@@ -5,20 +5,20 @@ Rating: 4.52 (Ranked 584)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| MASTER CHEF | 45.00% | ~182,560 |
-| FIRST BLOOD | 40.00% | ~162,276 |
-| KEVIN! | 30.00% | ~121,707 |
-| JACK OF ALL TRADES | 23.00% | ~93,309 |
-| CRIMINAL | 20.00% | ~81,138 |
-| GRANDMA WOULD BE PROUD | 12.00% | ~48,683 |
-| WITHOUT BREAKING A SWEAT | 10.00% | ~40,569 |
-| HONORS STUDENT | 8.00% | ~32,455 |
-| BUTCHER | 6.00% | ~24,341 |
-| INDIVIDUAL APPROACH | 5.00% | ~20,284 |
-| RAMBO | 5.00% | ~20,284 |
-| HELL'S KITCHEN | 4.00% | ~16,228 |
-| CELEBRITY | 3.00% | ~12,171 |
-| MARTYR | 3.00% | ~12,171 |
+| MASTER CHEF | 45.00% | ~182,575 |
+| FIRST BLOOD | 40.00% | ~162,289 |
+| KEVIN! | 30.00% | ~121,717 |
+| JACK OF ALL TRADES | 23.00% | ~93,316 |
+| CRIMINAL | 20.00% | ~81,145 |
+| GRANDMA WOULD BE PROUD | 12.00% | ~48,687 |
+| WITHOUT BREAKING A SWEAT | 10.00% | ~40,572 |
+| HONORS STUDENT | 8.00% | ~32,458 |
+| BUTCHER | 6.00% | ~24,343 |
+| INDIVIDUAL APPROACH | 5.00% | ~20,286 |
+| RAMBO | 5.00% | ~20,286 |
+| HELL'S KITCHEN | 4.00% | ~16,229 |
+| CELEBRITY | 3.00% | ~12,172 |
+| MARTYR | 3.00% | ~12,172 |
 | GRATITUDE | 2.00% | ~8,114 |
 | PATTY-KILLER | 2.00% | ~8,114 |
 | EXPERIMENTALIST | 1.00% | ~4,057 |
@@ -34,7 +34,7 @@ Rating: 4.52 (Ranked 584)
 | MISTER ALL THUMBS | 0.10% | ~406 |
 | TRAVELER | 0.10% | ~406 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 405,690 (Ranked 50)  
+Progressed: 405,723 (Ranked 50)  
 Completed: 62 (0.02%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -238,7 +238,7 @@ Completed: 62 (0.02%) (Ranked 373)
 | 2024-01-19 | 404,477 | 62 |
 | 2024-01-20 | 404,928 | 62 |
 | 2024-01-21 | 405,413 | 62 |
-| 2024-01-22 | 405,690 | 62 |
+| 2024-01-22 | 405,723 | 62 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

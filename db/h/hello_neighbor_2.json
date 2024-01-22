@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 208,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -525,9 +525,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4146,
+  "EOS_Progressed": 4147,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 70,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 3.64,
   "EosHistory": [
@@ -7690,6 +7690,11 @@
       "Time": "2024-01-22T19:03:39.1529146+00:00",
       "NumProgressed": 4146,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2024-01-22T20:04:29.8743168+00:00",
+      "NumProgressed": 4147,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 14,
@@ -7701,7 +7706,7 @@
       "Name": "Ancient Curse",
       "Percentage": 27,
       "XP": 80,
-      "UsersEstimate": 1119
+      "UsersEstimate": 1120
     },
     {
       "ID": "ACH_CASE_CLOSED",
@@ -7741,7 +7746,7 @@
       "Name": "Easy As Pie",
       "Percentage": 33,
       "XP": 55,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "ACH_FAMILY_LOST",
@@ -7749,7 +7754,7 @@
       "Name": "Family Lost",
       "Percentage": 31,
       "XP": 80,
-      "UsersEstimate": 1285
+      "UsersEstimate": 1286
     },
     {
       "ID": "ACH_HIDDEN_SECRETS",
@@ -7797,7 +7802,7 @@
       "Name": "Treasure Hunt",
       "Percentage": 29,
       "XP": 80,
-      "UsersEstimate": 1202
+      "UsersEstimate": 1203
     },
     {
       "ID": "ACH_WELCOME_TO_RAVEN_BROOKS",
@@ -7805,14 +7810,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3275
+      "UsersEstimate": 3276
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4146,
+      "Progressed": 4147,
       "Completed": 151
     }
   ],
@@ -7820,8 +7825,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-22T13:58:58.9675729+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:03:39.1529142+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:04:29.8743164+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-22T18:59:04.7032888+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:03:39.1529865+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:00:08.2739851+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:04:29.8743684+00:00"
 }

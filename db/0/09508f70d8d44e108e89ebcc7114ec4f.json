@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 364,
   "Ranking_EOS_Completed": 119,
   "Ranking_EOS_NewPlayers": 423,
-  "Ranking_EOS_NewCompleters": 104,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-06-01T13:00:00+00:00",
     "PcReleaseDate": "2022-10-20T13:00:00+00:00",
@@ -1682,9 +1682,9 @@
       "ID": "fishing_house",
       "SetID": "ap7g2g4",
       "Name": "Big fishing house",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 87
+      "UsersEstimate": 92
     },
     {
       "ID": "fun!",
@@ -1762,9 +1762,9 @@
       "ID": "seaweed_farm",
       "SetID": "ap7g2g4",
       "Name": "Seaweed farm",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 30,
-      "UsersEstimate": 197
+      "UsersEstimate": 202
     },
     {
       "ID": "tavern",
@@ -1786,9 +1786,9 @@
       "ID": "water_platform",
       "SetID": "ap7g2g4",
       "Name": "Water platform",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 137
     },
     {
       "ID": "wheat_farm",
@@ -1817,8 +1817,8 @@
   ],
   "FirstSeen": "2023-06-02T14:56:55.6252119+00:00",
   "FirstSeenAchievements": "2023-05-18T11:00:53.5255241+00:00",
-  "LastChanged_Achievements": "2024-01-22T19:09:37.8229532+00:00",
+  "LastChanged_Achievements": "2024-01-22T20:10:46.1073832+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:07.1835223+00:00",
-  "LastUpdate_Ratings": "2024-01-22T19:03:10.2740957+00:00",
-  "LastUpdate_Achievements": "2024-01-22T19:09:37.8229763+00:00"
+  "LastUpdate_Ratings": "2024-01-22T20:03:45.8536126+00:00",
+  "LastUpdate_Achievements": "2024-01-22T20:10:46.1074062+00:00"
 }

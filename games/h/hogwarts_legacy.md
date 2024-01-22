@@ -5,36 +5,36 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,775 |
-| First Class Student | 29.00% | ~112,171 |
-| Troll with the Punches | 26.00% | ~100,567 |
-| A Keen Sense of Spell | 24.00% | ~92,832 |
-| A Talent for Spending | 20.00% | ~77,360 |
-| That's a Keeper | 19.00% | ~73,492 |
-| Loom for Improvement | 16.00% | ~61,888 |
-| Followed the Butterflies | 15.00% | ~58,020 |
-| The Defender of Dragons | 14.00% | ~54,152 |
-| Challenge Accepted | 14.00% | ~54,152 |
-| The Hallowed Hero | 13.00% | ~50,284 |
-| Coasting Along | 13.00% | ~50,284 |
-| Grappling with a Graphorn | 12.00% | ~46,416 |
-| The One Who Mastered Memories | 12.00% | ~46,416 |
-| The Hero of Hogwarts | 12.00% | ~46,416 |
-| The Spell Master | 11.00% | ~42,548 |
-| Rising From the Ashes | 11.00% | ~42,548 |
-| The Avenging Gazelle | 9.00% | ~34,812 |
-| A Sallow Grave | 9.00% | ~34,812 |
-| Flight the Good Flight | 9.00% | ~34,812 |
-| Raising Expectations | 9.00% | ~34,812 |
-| Beast Friends | 8.00% | ~30,944 |
-| The Root of the Problem | 8.00% | ~30,944 |
-| The Gryffindor in the Graveyard | 8.00% | ~30,944 |
-| The Toast of the Town | 7.00% | ~27,076 |
-| Third Time's a Charm | 7.00% | ~27,076 |
-| The Seeker of Knowledge | 6.00% | ~23,208 |
-| The Ends Petrify the Means | 6.00% | ~23,208 |
-| The Wise Owl | 6.00% | ~23,208 |
-| Going Through the Potions | 5.00% | ~19,340 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,780 |
+| First Class Student | 29.00% | ~112,175 |
+| Troll with the Punches | 26.00% | ~100,571 |
+| A Keen Sense of Spell | 24.00% | ~92,835 |
+| A Talent for Spending | 20.00% | ~77,362 |
+| That's a Keeper | 19.00% | ~73,494 |
+| Loom for Improvement | 16.00% | ~61,890 |
+| Followed the Butterflies | 15.00% | ~58,022 |
+| The Defender of Dragons | 14.00% | ~54,154 |
+| Challenge Accepted | 14.00% | ~54,154 |
+| The Hallowed Hero | 13.00% | ~50,286 |
+| Coasting Along | 13.00% | ~50,286 |
+| Grappling with a Graphorn | 12.00% | ~46,417 |
+| The One Who Mastered Memories | 12.00% | ~46,417 |
+| The Hero of Hogwarts | 12.00% | ~46,417 |
+| The Spell Master | 11.00% | ~42,549 |
+| Rising From the Ashes | 11.00% | ~42,549 |
+| The Avenging Gazelle | 9.00% | ~34,813 |
+| A Sallow Grave | 9.00% | ~34,813 |
+| Flight the Good Flight | 9.00% | ~34,813 |
+| Raising Expectations | 9.00% | ~34,813 |
+| Beast Friends | 8.00% | ~30,945 |
+| The Root of the Problem | 8.00% | ~30,945 |
+| The Gryffindor in the Graveyard | 8.00% | ~30,945 |
+| The Toast of the Town | 7.00% | ~27,077 |
+| Third Time's a Charm | 7.00% | ~27,077 |
+| The Seeker of Knowledge | 6.00% | ~23,209 |
+| The Ends Petrify the Means | 6.00% | ~23,209 |
+| The Wise Owl | 6.00% | ~23,209 |
+| Going Through the Potions | 5.00% | ~19,341 |
 | Put Down Roots | 4.00% | ~15,472 |
 | The Auror's Apprentice | 4.00% | ~15,472 |
 | Room with a View | 4.00% | ~15,472 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 151)
 | The Nature of the Beast | 0.70% | ~2,708 |
 | Collector's Edition | 0.40% | ~1,547 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,798 (Ranked 56)  
+Progressed: 386,812 (Ranked 56)  
 Completed: 583 (0.15%) (Ranked 299)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,16 +328,16 @@ Completed: 583 (0.15%) (Ranked 299)
 | 2024-01-19 | 385,824 | 578 |
 | 2024-01-20 | 386,230 | 580 |
 | 2024-01-21 | 386,612 | 581 |
-| 2024-01-22 | 386,798 | 583 |
+| 2024-01-22 | 386,812 | 583 |
 ## Awards
 Max (Character Customization): 32,228  (Ranked 16)  
-Sum: 66,041 (Ranked 24)  
+Sum: 66,062 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 32,228 |
 | This game has Great Boss Battles | 16,947 |
-| This game is Great for Beginners | 1,902 |
+| This game is Great for Beginners | 1,923 |
 | This game is Extremely Fun | 1,826 |
 | This game has Amazing Storytelling | 1,810 |
 | This game has Diverse Characters | 1,779 |
@@ -654,4 +654,4 @@ Diff (max vs sum): -8
 | 2024-01-19 | 4.75 | 31,744 | 64,743 |
 | 2024-01-20 | 4.75 | 31,905 | 65,176 |
 | 2024-01-21 | 4.75 | 32,072 | 65,650 |
-| 2024-01-22 | 4.75 | 32,228 | 66,041 |
+| 2024-01-22 | 4.75 | 32,228 | 66,062 |

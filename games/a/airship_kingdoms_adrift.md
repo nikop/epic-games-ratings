@@ -20,6 +20,7 @@
 | Shipping Ships | 50.00% | ~3 |
 | Tuck the Tail | 50.00% | ~3 |
 | Dream of Flight | 33.00% | ~2 |
+| Home Made | 33.00% | ~2 |
 | In His Majesty's Service! | 33.00% | ~2 |
 | Our Tiny Little Fleet | 33.00% | ~2 |
 | The Combatant | 33.00% | ~2 |
@@ -38,7 +39,6 @@
 | Good Founder | 17.00% | ~1 |
 | Good Grinder | 17.00% | ~1 |
 | Good Mason | 17.00% | ~1 |
-| Home Made | 17.00% | ~1 |
 | It is Unsafe Out Here | 17.00% | ~1 |
 | It’s Commandeering | 17.00% | ~1 |
 | It’s Smarter to Pay the Toll | 17.00% | ~1 |
@@ -153,7 +153,7 @@
 | Trouble in Aberdonia | 0.00% | ~0 |
 | We need Space! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 6 (Ranked 699)  
+Progressed: 6 (Ranked 700)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
