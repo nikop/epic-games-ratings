@@ -306,7 +306,7 @@
 | 287 | [We Were Here Forever](games/w/we_were_here_forever.md) | 4.67 | 25 | 557 |
 | 287 | [Yuppie Psycho: Executive Edition](games/y/yuppie_psycho__executive_edition.md) | 4.67 | 0 | 591 |
 | 306 | [Carcassonne](games/c/carcassonne.md) | 4.66 | 89 | 399 |
-| 306 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,768 | 60 |
+| 306 | [Cities: Skylines](games/c/cities__skylines.md) | 4.66 | 6,777 | 60 |
 | 306 | [CONVERGENCE: A League of Legends Story™](games/c/convergence__a_league_of_legends_story™.md) | 4.66 | 0 | 591 |
 | 306 | [Crashlands](games/c/crashlands.md) | 4.66 | 198 | 306 |
 | 306 | [DOOM 64](games/d/doom_64.md) | 4.66 | 1,311 | 147 |
@@ -368,7 +368,7 @@
 | 358 | [Far Cry 3: Blood Dragon](games/f/far_cry_3__blood_dragon.md) | 4.63 | 0 | 591 |
 | 358 | [Far Cry 5 Standard Edition](games/f/far_cry_5_standard_edition.md) | 4.63 | 1,806 | 131 |
 | 358 | [Five Nights at Freddy's: Security Breach](games/f/five_nights_at_freddy's__security_breach.md) | 4.63 | 38 | 496 |
-| 358 | [HITMAN](games/h/hitman.md) | 4.63 | 219 | 293 |
+| 358 | [HITMAN](games/h/hitman.md) | 4.63 | 220 | 293 |
 | 358 | [Last Day of June](games/l/last_day_of_june.md) | 4.63 | 0 | 591 |
 | 358 | [LEGO® Bricktales](games/l/lego®_bricktales.md) | 4.63 | 0 | 591 |
 | 358 | [Limbo](games/l/limbo.md) | 4.63 | 0 | 591 |
@@ -389,7 +389,7 @@
 | 382 | [Kill It With Fire](games/k/kill_it_with_fire.md) | 4.62 | 0 | 591 |
 | 382 | [LEGO® Batman™ 2: DC Super Heroes](games/l/lego®_batman™_2__dc_super_heroes.md) | 4.62 | 189 | 311 |
 | 382 | [Mafia: Definitive Edition](games/m/mafia___definitive_edition.md) | 4.62 | 682 | 200 |
-| 382 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.62 | 2,096 | 119 |
+| 382 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 4.62 | 2,135 | 119 |
 | 382 | [Operation: Tango](games/o/operation__tango.md) | 4.62 | 0 | 591 |
 | 382 | [Out of the Park Baseball 23](games/o/out_of_the_park_baseball_23.md) | 4.62 | 0 | 591 |
 | 382 | [Partisans 1941](games/p/partisans_1941.md) | 4.62 | 0 | 591 |
@@ -476,14 +476,14 @@
 | 474 | [Ancestors: The Humankind Odyssey](games/a/ancestors__the_humankind_odyssey.md) | 4.58 | 45 | 479 |
 | 474 | [ARK: Survival Evolved](games/a/ark__survival_evolved.md) | 4.58 | 66,051 | 11 |
 | 474 | [Assassin's Creed Chronicles: Russia](games/a/assassin's_creed_chronicles__russia.md) | 4.58 | 0 | 591 |
-| 474 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 12,568 | 35 |
+| 474 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 4.58 | 12,625 | 35 |
 | 474 | [F1® Manager 2022](games/f/f1®_manager_2022.md) | 4.58 | 273 | 277 |
 | 474 | [Ghostrunner](games/g/ghostrunner.md) | 4.58 | 1,644 | 138 |
 | 474 | [GRIT](games/g/grit.md) | 4.58 | 0 | 591 |
 | 474 | [Heavy Rain](games/h/heavy_rain.md) | 4.58 | 64 | 430 |
 | 474 | [Hextech Mayhem: A League of Legends Story™](games/h/hextech_mayhem__a_league_of_legends_story™.md) | 4.58 | 0 | 591 |
 | 474 | [Moving Out](games/m/moving_out.md) | 4.58 | 22 | 570 |
-| 474 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 10,574 | 41 |
+| 474 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 4.58 | 10,600 | 41 |
 | 474 | [Ring of Pain](games/r/ring_of_pain.md) | 4.58 | 1,516 | 140 |
 | 474 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 4.58 | 0 | 591 |
 | 474 | [Sunless Sea](games/s/sunless_sea.md) | 4.58 | 222 | 292 |
@@ -739,7 +739,7 @@
 | 730 | [Lords and Villeins](games/l/lords_and_villeins.md) | 4.43 | 0 | 591 |
 | 730 | [OUTRIDERS](games/o/outriders.md) | 4.43 | 1,406 | 142 |
 | 730 | [Q.U.B.E. 10th Anniversary](games/q/q.u.b.e._10th_anniversary.md) | 4.43 | 26 | 551 |
-| 730 | [SMITE](games/s/smite.md) | 4.43 | 4,999 | 81 |
+| 730 | [SMITE](games/s/smite.md) | 4.43 | 5,006 | 81 |
 | 730 | [STG Football](games/s/stg_football.md) | 4.43 | 52 | 456 |
 | 730 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 4.43 | 987 | 168 |
 | 730 | [Warhammer 40,000: Mechanicus - Standard Edition](games/w/warhammer_40,000__mechanicus_-_standard_edition.md) | 4.43 | 292 | 270 |
@@ -977,7 +977,7 @@
 | 971 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 4.20 | 23 | 565 |
 | 971 | [Insurmountable](games/i/insurmountable.md) | 4.20 | 22 | 570 |
 | 971 | [King's Bounty II](games/k/king's_bounty_ii.md) | 4.20 | 0 | 591 |
-| 971 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,229 | 79 |
+| 971 | [League of Legends](games/l/league_of_legends.md) | 4.20 | 5,242 | 79 |
 | 971 | [Starship Troopers: Terran Command](games/s/starship_troopers__terran_command.md) | 4.20 | 0 | 591 |
 | 980 | [Atlas Fallen](games/7/7ab6dd1c70a64d5ebf48defa8deb81a8.md) | 4.19 | 0 | 591 |
 | 980 | [Crayta](games/c/crayta.md) | 4.19 | 50 | 465 |

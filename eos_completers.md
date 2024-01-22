@@ -9,7 +9,7 @@
 | 7 | [Samorost 2](games/3/3341d4dd5b8d44c3a372da3f10122485.md) | 43.13% |
 | 8 | [RedRaptor](games/7/7a4e0cde9aaa4708bdebbe5a3943b140.md) | 40.00% |
 | 9 | [Dark Fantasy 2: Jigsaw Puzzle](games/9/9b9b8d67d4ce4b7f81cd74b2fe7325c0.md) | 39.24% |
-| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.75% |
+| 10 | [Boxville](games/7/7e305f850a5749b3b16599d737e500c8.md) | 38.59% |
 | 11 | [Kids Learn](games/1/173d783680df4fba92423e189f6df67d.md) | 37.50% |
 | 12 | [Time Trap](games/a/ac29e4dd8b194395ad1adcb59a1eb755.md) | 31.03% |
 | 13 | [Volley Pals](games/v/volley_pals.md) | 30.87% |
@@ -87,7 +87,7 @@
 | 85 | [Astalon -Tears of the Earth-](games/a/astalon_-tears_of_the_earth-.md) | 4.44% |
 | 86 | [JARS](games/j/jars.md) | 4.42% |
 | 87 | [Mystery in the Office](games/c/ce6933f42c924ff8af432359d83ddd7e.md) | 4.40% |
-| 88 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.35% |
+| 88 | [Turnip Boy Robs a Bank](games/2/263de26be57d43528bb9c7fdb133b9fe.md) | 4.29% |
 | 89 | [Angelo and Deemon: One Hell of a Quest](games/f/fe4fbacf140f4fb2a05f074730a3375c.md) | 4.26% |
 | 90 | [Agatha Christie - Hercule Poirot: The London Case](games/a/agatha_christie_-_hercule_poirot__the_london_case.md) | 4.24% |
 | 91 | [The Suicide of Rachel Foster](games/t/the_suicide_of_rachel_foster.md) | 4.20% |
@@ -96,7 +96,7 @@
 | 94 | [Jennifer Wilde Unlikely Revolutionaries](games/j/jennifer_wilde_unlikely_revolutionaries.md) | 4.11% |
 | 95 | [Orten Was The Case](games/4/40257023d2d44231ac722108f30ab717.md) | 4.00% |
 | 96 | [The Bunker](games/t/the_bunker.md) | 3.78% |
-| 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.73% |
+| 97 | [SEASON®: A letter to the future](games/s/season®__a_letter_to_the_future.md) | 3.77% |
 | 98 | [Rise of the Third Power](games/r/rise_of_the_third_power.md) | 3.66% |
 | 99 | [Hello Neighbor 2](games/h/hello_neighbor_2.md) | 3.63% |
 | 100 | [Doodle God](games/d/doodle_god.md) | 3.58% |
@@ -112,8 +112,8 @@
 | 110 | [The Case of the Golden Idol](games/t/the_case_of_the_golden_idol.md) | 3.14% |
 | 111 | [The Uncertain: Last Quiet Day](games/t/the_uncertain__last_quiet_day.md) | 3.08% |
 | 112 | [Palladium: Adventure in Greece](games/8/8b851e3d53d94fb1ba3fa58aa33a2c3d.md) | 3.03% |
-| 112 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 3.03% |
-| 114 | [HordeCore](games/h/hordecore.md) | 3.02% |
+| 113 | [HordeCore](games/h/hordecore.md) | 3.02% |
+| 114 | [Thunder Ray](games/3/3c59565688c94fa2807baaa19ed62478.md) | 2.94% |
 | 115 | [MultiVersus](games/m/multiversus.md) | 2.93% |
 | 116 | [Mia and the Dragon Princess](games/m/mia_and_the_dragon_princess.md) | 2.88% |
 | 117 | [Monster Harvest](games/m/monster_harvest.md) | 2.87% |

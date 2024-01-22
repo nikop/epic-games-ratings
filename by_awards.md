@@ -34,13 +34,13 @@
 | 32 | [Maneater](games/m/maneater.md) | 13,954 | 4.49 | 643 |
 | 33 | [Magic: The Gathering Arena](games/m/magic__the_gathering_arena.md) | 13,050 | 4.45 | 697 |
 | 34 | [Evil Dead: The Game](games/e/evil_dead__the_game.md) | 12,818 | 4.36 | 823 |
-| 35 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 12,568 | 4.58 | 474 |
+| 35 | [Dying Light 2 Stay Human](games/d/dying_light_2_stay_human.md) | 12,625 | 4.58 | 474 |
 | 36 | [Rise of the Tomb Raider: 20 Year Celebration](games/r/rise_of_the_tomb_raider__20_year_celebration.md) | 11,877 | 4.69 | 240 |
 | 37 | [NBA 2K21](games/n/nba_2k21.md) | 11,821 | 4.39 | 789 |
 | 38 | [HITMAN World of Assassination](games/h/hitman_3.md) | 11,522 | 4.77 | 122 |
 | 39 | [Remnant: From the Ashes](games/r/remnant__from_the_ashes.md) | 10,895 | 4.61 | 400 |
 | 40 | [Dead Island 2](games/d/dead_island_2.md) | 10,767 | 4.54 | 551 |
-| 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 10,574 | 4.58 | 474 |
+| 41 | [PAYDAY 2](games/3/3b661fd6a9724ac7b6ac6d10d0572511.md) | 10,600 | 4.58 | 474 |
 | 42 | [Bloons TD 6](games/b/bloons_td_6.md) | 9,811 | 4.77 | 122 |
 | 43 | [DEATH STRANDING DIRECTOR'S CUT](games/d/death_stranding_director's_cut.md) | 9,439 | 4.89 | 12 |
 | 44 | [DEATH STRANDING](games/d/death_stranding.md) | 9,170 | 4.78 | 112 |
@@ -59,7 +59,7 @@
 | 57 | [Assassins Creed Odyssey Standard Edition](games/a/assassins_creed_odyssey_standard_edition.md) | 7,376 | 4.75 | 150 |
 | 58 | [Sifu](games/s/sifu.md) | 7,249 | 4.82 | 69 |
 | 59 | [Fallout: New Vegas](games/3/3428aaab2c674c98b3acb789dcfaa548.md) | 7,239 | 4.69 | 240 |
-| 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,768 | 4.66 | 306 |
+| 60 | [Cities: Skylines](games/c/cities__skylines.md) | 6,777 | 4.66 | 306 |
 | 61 | [Total War: WARHAMMER](games/t/total_war__warhammer.md) | 6,726 | 4.58 | 474 |
 | 62 | [Rumbleverse](games/r/rumbleverse.md) | 6,689 | 4.42 | 746 |
 | 63 | [PUBG: BATTLEGROUNDS](games/p/pubg__battlegrounds.md) | 6,615 | 3.99 | 1,059 |
@@ -78,9 +78,9 @@
 | 76 | [World War Z Aftermath](games/w/world_war_z_aftermath.md) | 5,423 | 4.56 | 513 |
 | 77 | [The Outer Worlds: Spacer's Choice Edition](games/t/the_outer_worlds__spacer's_choice_edition.md) | 5,308 | 4.50 | 620 |
 | 78 | [Chivalry 2](games/c/chivalry_2.md) | 5,257 | 4.60 | 427 |
-| 79 | [League of Legends](games/l/league_of_legends.md) | 5,229 | 4.20 | 971 |
+| 79 | [League of Legends](games/l/league_of_legends.md) | 5,242 | 4.20 | 971 |
 | 80 | [God of War](games/g/god_of_war.md) | 5,034 | 4.88 | 17 |
-| 81 | [SMITE](games/s/smite.md) | 4,999 | 4.43 | 730 |
+| 81 | [SMITE](games/s/smite.md) | 5,006 | 4.43 | 730 |
 | 82 | [Shop Titans](games/s/shop_titans.md) | 4,973 | 4.00 | 1,056 |
 | 83 | [theHunter: Call of the Wild™](games/t/thehunter__call_of_the_wild™.md) | 4,967 | 4.57 | 497 |
 | 84 | [Total War: WARHAMMER II](games/t/total_war__warhammer_ii.md) | 4,849 | 4.70 | 223 |
@@ -118,7 +118,7 @@
 | 116 | [Marvel’s Spider-Man: Miles Morales](games/m/marvel’s_spider-man__miles_morales.md) | 2,200 | 4.77 | 122 |
 | 117 | [Iratus: Lord of the Dead](games/i/iratus__lord_of_the_dead.md) | 2,167 | 4.37 | 815 |
 | 118 | [Anno 1800 Standard Edition](games/a/anno_1800_standard_edition.md) | 2,142 | 4.81 | 83 |
-| 119 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 2,096 | 4.62 | 382 |
+| 119 | [Melvor Idle](games/2/207c42b0325d40ebb0414041dac29b19.md) | 2,135 | 4.62 | 382 |
 | 120 | [Marvel's Midnight Suns](games/m/marvel's_midnight_suns.md) | 2,058 | 4.55 | 529 |
 | 121 | [Car Mechanic Simulator 2018](games/c/car_mechanic_simulator_2018.md) | 2,042 | 4.49 | 643 |
 | 122 | [Metro Last Light Redux](games/m/metro_last_light_redux.md) | 1,999 | 4.69 | 240 |
@@ -292,7 +292,7 @@
 | 288 | [DRAGON QUEST® XI S: Echoes of an Elusive Age™](games/d/dragon_quest®_xi_s__echoes_of_an_elusive_age™.md) | 230 | 4.83 | 56 |
 | 291 | [Rogue Legacy 2](games/r/rogue_legacy_2.md) | 227 | 4.85 | 40 |
 | 292 | [Sunless Sea](games/s/sunless_sea.md) | 222 | 4.58 | 474 |
-| 293 | [HITMAN](games/h/hitman.md) | 219 | 4.63 | 358 |
+| 293 | [HITMAN](games/h/hitman.md) | 220 | 4.63 | 358 |
 | 294 | [Legends of Runeterra](games/l/legends_of_runeterra.md) | 216 | 4.65 | 324 |
 | 295 | [Pinball FX](games/p/pinball_fx.md) | 215 | 4.07 | 1,041 |
 | 296 | [Unrailed!](games/u/unrailed!.md) | 213 | 4.64 | 347 |
