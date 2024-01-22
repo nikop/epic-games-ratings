@@ -5,7 +5,7 @@ Rating: 4.16 (Ranked 1,002)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Attachments | 13.00% | ~6,193 |
+| Attachments | 13.00% | ~6,194 |
 | Unlocked Potential | 12.00% | ~5,717 |
 | Tinkerer | 9.00% | ~4,288 |
 | Leapfrogger | 8.00% | ~3,811 |
@@ -13,9 +13,9 @@ Rating: 4.16 (Ranked 1,002)
 | Pilgrimage: Initiate | 8.00% | ~3,811 |
 | Hell of a Run | 8.00% | ~3,811 |
 | Call of the Fount: Baptized | 7.00% | ~3,335 |
-| No Mercy | 6.00% | ~2,858 |
-| Explorer: Seeker | 6.00% | ~2,858 |
-| Help Me Out Here | 6.00% | ~2,858 |
+| No Mercy | 6.00% | ~2,859 |
+| Explorer: Seeker | 6.00% | ~2,859 |
+| Help Me Out Here | 6.00% | ~2,859 |
 | Through the Eyes of Another: Empath | 5.00% | ~2,382 |
 | Stuck | 5.00% | ~2,382 |
 | The Interloper | 4.00% | ~1,906 |
@@ -35,8 +35,8 @@ Rating: 4.16 (Ranked 1,002)
 | Forspoken | 1.00% | ~476 |
 | Pilgrimage: Novice | 1.00% | ~476 |
 | Wildfire | 0.80% | ~381 |
-| Awakening | 0.70% | ~333 |
-| Realized Potential | 0.70% | ~333 |
+| Awakening | 0.70% | ~334 |
+| Realized Potential | 0.70% | ~334 |
 | Explorer: Trailblazer | 0.60% | ~286 |
 | Through the Eyes of Another: Seer | 0.50% | ~238 |
 | Archivist | 0.40% | ~191 |
@@ -59,7 +59,7 @@ Rating: 4.16 (Ranked 1,002)
 | Remembrance | 0.10% | ~48 |
 | Cat Person | 0.10% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,640 (Ranked 129)  
+Progressed: 47,643 (Ranked 129)  
 Completed: 4 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,7 +336,7 @@ Completed: 4 (0.01%) (Ranked 383)
 | 2024-01-19 | 47,505 | 4 |
 | 2024-01-20 | 47,566 | 4 |
 | 2024-01-21 | 47,620 | 4 |
-| 2024-01-22 | 47,640 | 4 |
+| 2024-01-22 | 47,643 | 4 |
 ## Awards
 Max (Character Customization): 52  (Ranked 456)  
 Sum: 79 (Ranked 489)  

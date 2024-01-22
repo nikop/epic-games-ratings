@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76528,
+  "EOS_Progressed": 76529,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1149,
+  "EOS_NewPlayers": 1138,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8237,6 +8237,11 @@
       "Time": "2024-01-22T14:09:11.1132716+00:00",
       "NumProgressed": 76528,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-22T15:09:16.3906767+00:00",
+      "NumProgressed": 76529,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8249,7 +8254,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28315
+      "UsersEstimate": 28316
     },
     {
       "ID": "Achievement_10",
@@ -8520,7 +8525,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76528,
+      "Progressed": 76529,
       "Completed": 128
     }
   ],
@@ -8528,8 +8533,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:09:11.1132711+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:09:16.3906762+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:57:55.3568139+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:09:11.1133439+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:58:27.4923849+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:09:16.3907583+00:00"
 }

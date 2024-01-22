@@ -3,8 +3,8 @@
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 326,
-  "Ranking_EOS_Completed": 247,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_Completed": 249,
+  "Ranking_EOS_NewPlayers": 250,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 758,
+  "EOS_Progressed": 759,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.4,
   "EosHistory": [
@@ -2807,6 +2807,11 @@
       "Time": "2024-01-22T14:10:23.5382707+00:00",
       "NumProgressed": 758,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-22T15:10:58.9702671+00:00",
+      "NumProgressed": 759,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2826,7 +2831,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 37,
       "XP": 80,
-      "UsersEstimate": 280
+      "UsersEstimate": 281
     },
     {
       "ID": "completeact3",
@@ -2874,7 +2879,7 @@
       "Name": "86\u0027s Nightmare",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "scoreminrankrf2",
@@ -2930,14 +2935,14 @@
       "Name": "Friendzone",
       "Percentage": 6,
       "XP": 40,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     }
   ],
   "AchievementSets": [
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 758,
+      "Progressed": 759,
       "Completed": 3
     }
   ],
@@ -2945,8 +2950,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:10:23.5382702+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:10:58.9702666+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:57:05.423109+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:10:23.5382943+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:57:15.4507326+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:10:58.9702936+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.59 (Ranked 455)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,834 |
+| Eat My Dust | 50.00% | ~1,835 |
 | First Love | 46.00% | ~1,688 |
-| Clean Race | 45.00% | ~1,651 |
+| Clean Race | 45.00% | ~1,652 |
 | Hear That Roar! | 43.00% | ~1,578 |
-| Bitter Rivalry | 31.00% | ~1,137 |
-| Rivals to the End | 31.00% | ~1,137 |
+| Bitter Rivalry | 31.00% | ~1,138 |
+| Rivals to the End | 31.00% | ~1,138 |
 | Champagne Spray | 30.00% | ~1,101 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,027 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,028 |
 | Quick Pit Stop | 23.00% | ~844 |
 | I Want One Too! | 22.00% | ~807 |
-| Restored and Ready | 21.00% | ~770 |
-| Legendary!!! | 21.00% | ~770 |
-| Go-Faster Stripes | 18.00% | ~660 |
+| Restored and Ready | 21.00% | ~771 |
+| Legendary!!! | 21.00% | ~771 |
+| Go-Faster Stripes | 18.00% | ~661 |
 | I'm Here Too! | 15.00% | ~550 |
 | We've Just Begun | 15.00% | ~550 |
 | Is It the Right Size? | 10.00% | ~367 |
 | Stamina Star | 9.00% | ~330 |
 | Evangelist | 7.00% | ~257 |
-| Make It Your Own! | 5.00% | ~183 |
-| Cherry Blossom and Temples | 5.00% | ~183 |
-| The Road to Liberty | 5.00% | ~183 |
+| Make It Your Own! | 5.00% | ~184 |
+| Cherry Blossom and Temples | 5.00% | ~184 |
+| The Road to Liberty | 5.00% | ~184 |
 | Romantic Races | 4.00% | ~147 |
 | I Make the Rules! | 4.00% | ~147 |
 | My Work Here Is Done | 4.00% | ~147 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 455)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,669 (Ranked 227)  
+Progressed: 3,670 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -198,6 +198,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 3,649 | 0 |
 | 2024-01-20 | 3,660 | 0 |
 | 2024-01-21 | 3,669 | 0 |
+| 2024-01-22 | 3,670 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

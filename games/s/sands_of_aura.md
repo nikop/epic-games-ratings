@@ -13,7 +13,7 @@
 | Overboard | 10.00% | ~14 |
 | Bladesmith | 10.00% | ~14 |
 | Leisis Bless You | 10.00% | ~14 |
-| The Guardian of Fire | 8.00% | ~12 |
+| The Guardian of Fire | 9.00% | ~13 |
 | Twin Thorns | 8.00% | ~12 |
 | Explorer | 7.00% | ~10 |
 | The River Styx | 7.00% | ~10 |

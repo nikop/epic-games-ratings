@@ -12,8 +12,8 @@
 | Rapturous Applause! | 13.00% | ~41 |
 | Perfect Harmony! | 12.00% | ~38 |
 | Bull in a China Shop | 8.00% | ~25 |
+| Chief Butler | 8.00% | ~25 |
 | Wales Interactive | 8.00% | ~25 |
-| Chief Butler | 7.00% | ~22 |
 | Sker Explorer | 4.00% | ~13 |
 | The Long Night | 2.00% | ~6 |
 | Ending on a High Note | 1.00% | ~3 |

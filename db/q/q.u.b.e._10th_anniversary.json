@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30306,
+  "EOS_Progressed": 30308,
   "EOS_Completed": 229,
-  "EOS_NewPlayers": 701,
+  "EOS_NewPlayers": 699,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -11476,6 +11476,11 @@
       "Time": "2024-01-22T14:10:21.9500178+00:00",
       "NumProgressed": 30306,
       "NumCompleted": 229
+    },
+    {
+      "Time": "2024-01-22T15:10:56.9317892+00:00",
+      "NumProgressed": 30308,
+      "NumCompleted": 229
     }
   ],
   "TotalAchievements": 24,
@@ -11503,7 +11508,7 @@
       "Name": "Squished",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2425
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -11511,7 +11516,7 @@
       "Name": "Crush That Ball!",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 6061
+      "UsersEstimate": 6062
     },
     {
       "ID": "ACH_CrushPhysicsCube",
@@ -11519,7 +11524,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 7576
+      "UsersEstimate": 7577
     },
     {
       "ID": "ACH_Finale",
@@ -11527,7 +11532,7 @@
       "Name": "Finale",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2425
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -11615,7 +11620,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10304
+      "UsersEstimate": 10305
     },
     {
       "ID": "ACH_Sector2",
@@ -11631,7 +11636,7 @@
       "Name": "Sector 3",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 7576
+      "UsersEstimate": 7577
     },
     {
       "ID": "ACH_Sector4",
@@ -11639,7 +11644,7 @@
       "Name": "Sector 4",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 6364
+      "UsersEstimate": 6365
     },
     {
       "ID": "ACH_Sector5",
@@ -11663,7 +11668,7 @@
       "Name": "Sector 7",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2424
+      "UsersEstimate": 2425
     },
     {
       "ID": "ACH_TurnBallBlack",
@@ -11671,14 +11676,14 @@
       "Name": "Did That Work? -- No!",
       "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 2121
+      "UsersEstimate": 2122
     }
   ],
   "AchievementSets": [
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30306,
+      "Progressed": 30308,
       "Completed": 229
     }
   ],
@@ -11686,8 +11691,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:10:21.9500175+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:10:56.9317887+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:02:44.8701938+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:10:21.9500739+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:02:58.5574428+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:10:56.9318786+00:00"
 }

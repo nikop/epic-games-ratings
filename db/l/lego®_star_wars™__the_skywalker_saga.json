@@ -4325,9 +4325,9 @@
       "Count": 307
     }
   ],
-  "EOS_Progressed": 59720,
+  "EOS_Progressed": 59721,
   "EOS_Completed": 263,
-  "EOS_NewPlayers": 263,
+  "EOS_NewPlayers": 261,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.44,
   "EosHistory": [
@@ -19460,6 +19460,11 @@
       "Time": "2024-01-22T14:08:56.614992+00:00",
       "NumProgressed": 59720,
       "NumCompleted": 263
+    },
+    {
+      "Time": "2024-01-22T15:08:56.1458108+00:00",
+      "NumProgressed": 59721,
+      "NumCompleted": 263
     }
   ],
   "TotalAchievements": 45,
@@ -19495,7 +19500,7 @@
       "Name": "\u0027\u0027I don\u0027t like you either!\u0027\u0027",
       "Percentage": 77,
       "XP": 15,
-      "UsersEstimate": 45984
+      "UsersEstimate": 45985
     },
     {
       "ID": "COMPLETE_AHCHTO_ENDOR_KEF_EXEGOL",
@@ -19583,7 +19588,7 @@
       "Name": "The Phantom Menace",
       "Percentage": 56,
       "XP": 20,
-      "UsersEstimate": 33443
+      "UsersEstimate": 33444
     },
     {
       "ID": "COMPLETE_EPISODE_2",
@@ -19711,7 +19716,7 @@
       "Name": "\u0027\u0027Aggressive Negotiations\u0027\u0027",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 33443
+      "UsersEstimate": 33444
     },
     {
       "ID": "DESTROY_100_TIE_FIGHTERS",
@@ -19719,7 +19724,7 @@
       "Name": "\u0027\u0027Get the crews to their fighters\u0027\u0027",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 10152
+      "UsersEstimate": 10153
     },
     {
       "ID": "EARN_10B_STUDS",
@@ -19735,7 +19740,7 @@
       "Name": "\u0027\u0027You guys got yourself a ship!\u0027\u0027",
       "Percentage": 96,
       "XP": 10,
-      "UsersEstimate": 57331
+      "UsersEstimate": 57332
     },
     {
       "ID": "FULLY_UPGRADE_ALL_CHAR_CLASSES",
@@ -19807,7 +19812,7 @@
       "Name": "\u0027\u0027And who gave you permission...?\u0027\u0027",
       "Percentage": 51,
       "XP": 10,
-      "UsersEstimate": 30457
+      "UsersEstimate": 30458
     },
     {
       "ID": "TRUE_JEDI_ALL_LEVELS",
@@ -19830,15 +19835,15 @@
     {
       "ID": "3fcpmbm",
       "IsBase": true,
-      "Progressed": 59720,
+      "Progressed": 59721,
       "Completed": 263
     }
   ],
   "FirstSeen": "2022-07-22T20:16:57.6637813+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:43.3939247+00:00",
   "LastChanged": "2024-01-22T01:57:47.1276773+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:08:56.6149916+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:08:56.1458101+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.6764829+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:02:52.7543197+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:08:56.6151+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:03:09.8744187+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:08:56.1459502+00:00"
 }

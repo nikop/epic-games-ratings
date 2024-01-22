@@ -18816,10 +18816,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 513219,
       "NumberOfAwardsMax": 143675
+    },
+    {
+      "Time": "2024-01-22T15:03:45.7877456+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 513353,
+      "NumberOfAwardsMax": 143675
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 513219,
+  "NumberOfAwards": 513353,
   "NumberOfAwardsMax": 143675,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18851,7 +18857,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30006
+      "Count": 30140
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18896,10 +18902,10 @@
       "Count": 19854
     }
   ],
-  "EOS_Progressed": 1057114,
+  "EOS_Progressed": 1057152,
   "EOS_Completed": 3147,
-  "EOS_NewPlayers": 5134,
-  "EOS_NewCompleters": 47,
+  "EOS_NewPlayers": 5113,
+  "EOS_NewCompleters": 46,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50651,6 +50657,11 @@
       "Time": "2024-01-22T14:09:25.4036062+00:00",
       "NumProgressed": 1057114,
       "NumCompleted": 3147
+    },
+    {
+      "Time": "2024-01-22T15:09:36.6151254+00:00",
+      "NumProgressed": 1057152,
+      "NumCompleted": 3147
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50735,7 +50746,7 @@
       "Name": "Gun Fu",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "Gunslinger",
@@ -50751,7 +50762,7 @@
       "Name": "Master Crafter",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "IAmMaxTac",
@@ -50759,7 +50770,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -50781,9 +50792,9 @@
       "ID": "MasterRunner",
       "SetID": "47clieb",
       "Name": "Christmas Tree Attack",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 5286
+      "UsersEstimate": 6343
     },
     {
       "ID": "MaxPain",
@@ -50791,7 +50802,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "MustBeTheRats",
@@ -50967,7 +50978,7 @@
       "Name": "True Warrior",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -50983,7 +50994,7 @@
       "Name": "Judy vs Night City",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4228
+      "UsersEstimate": 4229
     },
     {
       "ID": "VForVendetta",
@@ -51167,7 +51178,7 @@
       "Name": "King of Wands",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "TheTower",
@@ -51183,7 +51194,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     },
     {
       "ID": "EasyComeEasyGo",
@@ -51191,28 +51202,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 371
+      "UsersEstimate": 372
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057114,
+      "Progressed": 1057152,
       "Completed": 3147
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 185737,
+      "Progressed": 185775,
       "Completed": 10679
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-22T12:03:50.1732768+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:09:25.4036059+00:00",
+  "LastChanged": "2024-01-22T15:03:45.7877454+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:09:36.615125+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:03:17.1043527+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:09:25.4037586+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:03:45.7877461+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:09:36.6153783+00:00"
 }

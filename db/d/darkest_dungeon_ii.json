@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewPlayers": 118,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11092,10 +11092,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21818,
       "NumberOfAwardsMax": 8062
+    },
+    {
+      "Time": "2024-01-22T14:59:42.7618925+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21821,
+      "NumberOfAwardsMax": 8062
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21818,
+  "NumberOfAwards": 21821,
   "NumberOfAwardsMax": 8062,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11145,7 +11151,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 1881
+      "Count": 1884
     },
     {
       "Text": "This game is Relaxing",
@@ -11172,7 +11178,7 @@
       "Count": 1110
     }
   ],
-  "EOS_Progressed": 133480,
+  "EOS_Progressed": 133486,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 592,
   "EOS_NewCompleters": 1,
@@ -41047,6 +41053,11 @@
       "Time": "2024-01-22T14:10:29.0685764+00:00",
       "NumProgressed": 133480,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-22T15:11:06.2188395+00:00",
+      "NumProgressed": 133486,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41162,7 +41173,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -41178,7 +41189,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -41290,7 +41301,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "combat_kill_shambler",
@@ -41410,7 +41421,7 @@
       "Name": "Autodidact",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10678
+      "UsersEstimate": 10679
     },
     {
       "ID": "hero_story_complete_all",
@@ -41458,7 +41469,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -41490,7 +41501,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -41522,7 +41533,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4004
+      "UsersEstimate": 4005
     },
     {
       "ID": "run_victory_act03",
@@ -41594,7 +41605,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1252
+      "UsersEstimate": 1253
     },
     {
       "ID": "combat_kill_collector",
@@ -41602,7 +41613,7 @@
       "Name": "This guy... again?",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 584
+      "UsersEstimate": 585
     },
     {
       "ID": "combat_kill_lair_boss_the_boot",
@@ -41618,7 +41629,7 @@
       "Name": "No Mercy",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "combat_land_riposte_dmg_threshold_duelist",
@@ -41626,7 +41637,7 @@
       "Name": "Slap on the Wrist",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "combat_land_riposte_maa_hwy_dul",
@@ -41634,7 +41645,7 @@
       "Name": "Et Tu, Riposte?",
       "Percentage": 1,
       "XP": 20,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "hero_story_complete_crusader",
@@ -41658,7 +41669,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 751
+      "UsersEstimate": 752
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41666,7 +41677,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 417
+      "UsersEstimate": 418
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41674,7 +41685,7 @@
       "Name": "For Old Time\u0027 Sake",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "run_victory_final_boss_hwy_cru",
@@ -41689,21 +41700,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133480,
+      "Progressed": 133486,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8349,
+      "Progressed": 8355,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-22T08:58:50.9602296+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:10:29.068576+00:00",
+  "LastChanged": "2024-01-22T14:59:42.7618923+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:11:06.218839+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:58:48.1238192+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:10:29.0687838+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:59:42.761893+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:11:06.2190692+00:00"
 }

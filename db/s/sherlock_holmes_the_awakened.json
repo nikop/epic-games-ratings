@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 108,
-  "Ranking_EOS_NewPlayers": 179,
+  "Ranking_EOS_NewPlayers": 178,
   "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2023-04-11T16:00:00+00:00",
@@ -193,9 +193,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1595,
+  "EOS_Progressed": 1596,
   "EOS_Completed": 51,
-  "EOS_NewPlayers": 141,
+  "EOS_NewPlayers": 142,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 3.2,
   "EosHistory": [
@@ -5638,6 +5638,11 @@
       "Time": "2024-01-22T14:04:38.8391343+00:00",
       "NumProgressed": 1595,
       "NumCompleted": 51
+    },
+    {
+      "Time": "2024-01-22T15:05:45.2772408+00:00",
+      "NumProgressed": 1596,
+      "NumCompleted": 51
     }
   ],
   "TotalAchievements": 28,
@@ -5649,7 +5654,7 @@
       "Name": "Read Between The Lines",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 989
+      "UsersEstimate": 990
     },
     {
       "ID": "MQ01_2",
@@ -5657,7 +5662,7 @@
       "Name": "To Hell In A Handcart",
       "Percentage": 61,
       "XP": 40,
-      "UsersEstimate": 973
+      "UsersEstimate": 974
     },
     {
       "ID": "MQ02_1",
@@ -5665,7 +5670,7 @@
       "Name": "High Profile",
       "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 861
+      "UsersEstimate": 862
     },
     {
       "ID": "MQ02_2",
@@ -5673,7 +5678,7 @@
       "Name": "Big Breakthrough",
       "Percentage": 12,
       "XP": 40,
-      "UsersEstimate": 191
+      "UsersEstimate": 192
     },
     {
       "ID": "MQ02_3",
@@ -5689,7 +5694,7 @@
       "Name": "Whispers In The Dark",
       "Percentage": 51,
       "XP": 40,
-      "UsersEstimate": 813
+      "UsersEstimate": 814
     },
     {
       "ID": "MQ03_1",
@@ -5703,9 +5708,9 @@
       "ID": "MQ03_2",
       "SetID": "bbing49",
       "Name": "Lock, Stock, And Barrel",
-      "Percentage": 42,
+      "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 670
+      "UsersEstimate": 654
     },
     {
       "ID": "MQ03_3",
@@ -5737,7 +5742,7 @@
       "Name": "Going Once...",
       "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 558
+      "UsersEstimate": 559
     },
     {
       "ID": "MQ04_2",
@@ -5745,7 +5750,7 @@
       "Name": "Let Me Be Frank",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 542
+      "UsersEstimate": 543
     },
     {
       "ID": "MQ04_3",
@@ -5793,7 +5798,7 @@
       "Name": "Brain Food",
       "Percentage": 30,
       "XP": 40,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "MQ06_2",
@@ -5801,7 +5806,7 @@
       "Name": "Bookworm",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "MQ06_3",
@@ -5841,7 +5846,7 @@
       "Name": "No Stone Unturned",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 494
+      "UsersEstimate": 495
     },
     {
       "ID": "MQ08_2",
@@ -5872,7 +5877,7 @@
     {
       "ID": "bbing49",
       "IsBase": true,
-      "Progressed": 1595,
+      "Progressed": 1596,
       "Completed": 51
     }
   ],
@@ -5880,8 +5885,8 @@
   "FirstSeenRating": "2023-04-12T21:57:08.1785828+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:47.1075082+00:00",
   "LastChanged": "2024-01-20T12:03:17.4232441+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:04:38.8391338+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:05:45.2772403+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:30.5812877+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:03:18.9352013+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:04:38.8391833+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:03:48.6448805+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:05:45.277291+00:00"
 }

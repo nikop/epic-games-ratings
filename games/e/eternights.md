@@ -12,10 +12,10 @@ Rating: 4.74 (Ranked 169)
 | Master Craftsman | 44.00% | ~408 |
 | First wall | 43.00% | ~399 |
 | Piggyback Expert | 42.00% | ~389 |
-| Second wall | 33.00% | ~306 |
+| Second wall | 34.00% | ~315 |
 | Expert Scavenger | 32.00% | ~297 |
 | Their Rock | 28.00% | ~260 |
-| Yuna's Promise | 26.00% | ~241 |
+| Yuna's Promise | 27.00% | ~250 |
 | Stone Retriever | 26.00% | ~241 |
 | Find myself | 25.00% | ~232 |
 | Min's Promise | 18.00% | ~167 |
@@ -31,7 +31,7 @@ Rating: 4.74 (Ranked 169)
 | Dreamboat | 1.00% | ~9 |
 | Bond Lord | 0.10% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 927 (Ranked 310)  
+Progressed: 927 (Ranked 311)  
 Completed: 2 (0.22%) (Ranked 283)  
 ## EOS Players History
 | Date | Progressed | Completed |

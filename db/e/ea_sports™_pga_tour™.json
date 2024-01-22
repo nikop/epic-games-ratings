@@ -3,8 +3,8 @@
   "Name": "EA SPORTS\u2122 PGA TOUR\u2122",
   "ProductSlug": "ea-sports-pga-tour",
   "Ranking_EOS_Progress": 302,
-  "Ranking_EOS_Completed": 184,
-  "Ranking_EOS_NewPlayers": 285,
+  "Ranking_EOS_Completed": 185,
+  "Ranking_EOS_NewPlayers": 283,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-04-07T04:00:00+00:00",
@@ -20,11 +20,11 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1005,
+  "EOS_Progressed": 1006,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 1,
+  "EOS_Completed_Percentage": 0.99,
   "EosHistory": [
     {
       "Time": "2023-09-18T22:08:11.9466887+00:00",
@@ -3660,6 +3660,11 @@
       "Time": "2024-01-22T03:05:50.7847561+00:00",
       "NumProgressed": 1005,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-22T15:08:02.3496972+00:00",
+      "NumProgressed": 1006,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-09-18T22:08:11.9466919+00:00",
@@ -3680,7 +3685,7 @@
       "Name": "Holey Moley",
       "Percentage": 43,
       "XP": 30,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "achievement_11",
@@ -3712,7 +3717,7 @@
       "Name": "Golfer Versus Golfer",
       "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "achievement_15",
@@ -3726,9 +3731,9 @@
       "ID": "achievement_16",
       "SetID": "7ldgi7j",
       "Name": "Star Power",
-      "Percentage": 85,
+      "Percentage": 84,
       "XP": 15,
-      "UsersEstimate": 854
+      "UsersEstimate": 845
     },
     {
       "ID": "achievement_17",
@@ -3800,7 +3805,7 @@
       "Name": "Winner\u0027s Circle",
       "Percentage": 45,
       "XP": 35,
-      "UsersEstimate": 452
+      "UsersEstimate": 453
     },
     {
       "ID": "achievement_9",
@@ -3815,13 +3820,13 @@
     {
       "ID": "7ldgi7j",
       "IsBase": true,
-      "Progressed": 1005,
+      "Progressed": 1006,
       "Completed": 10
     }
   ],
   "FirstSeenAchievements": "2023-07-11T22:04:45.1474641+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:06:16.5416355+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:08:02.3496968+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:37.1636766+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:00:06.8211011+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:06:16.5416669+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:01:38.1303327+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:08:02.3497335+00:00"
 }

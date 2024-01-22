@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 409,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 123,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -461,7 +461,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12068,
+  "EOS_Progressed": 12073,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
@@ -5826,6 +5826,11 @@
       "Time": "2024-01-22T14:10:32.2950589+00:00",
       "NumProgressed": 12068,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-22T15:11:10.4017918+00:00",
+      "NumProgressed": 12073,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5838,7 +5843,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2776
+      "UsersEstimate": 2777
     },
     {
       "ID": "03_TheStolenStar",
@@ -5862,7 +5867,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -5934,7 +5939,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1086
+      "UsersEstimate": 1087
     },
     {
       "ID": "15_Pentakill",
@@ -5942,7 +5947,7 @@
       "Name": "Pentakill",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "16_TheRise",
@@ -5950,7 +5955,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "17_TheExemplar",
@@ -5958,7 +5963,7 @@
       "Name": "Exemplar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -5974,7 +5979,7 @@
       "Name": "Void Wolf",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "20_PurgeTheUnclean",
@@ -5998,7 +6003,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1810
+      "UsersEstimate": 1811
     },
     {
       "ID": "23_DynastyRestored",
@@ -6086,7 +6091,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6094,7 +6099,7 @@
       "Name": "Curiosity Is Not a Vice",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 1448
+      "UsersEstimate": 1449
     },
     {
       "ID": "35_DontStopTheExploration",
@@ -6158,7 +6163,7 @@
       "Name": "Iron Judgement",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "43_ThereIsNoPlaceLikeHome",
@@ -6166,7 +6171,7 @@
       "Name": "No Place Like Home",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1327
+      "UsersEstimate": 1328
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6190,7 +6195,7 @@
       "Name": "A Spark",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1931
+      "UsersEstimate": 1932
     },
     {
       "ID": "47_AFlame",
@@ -6222,7 +6227,7 @@
       "Name": "Whodunit?",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 965
+      "UsersEstimate": 966
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6238,7 +6243,7 @@
       "Name": "Frog Trader",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "53_GardensOfMadness",
@@ -6270,7 +6275,7 @@
       "Name": "Thorough Investigation",
       "Percentage": 0.7,
       "XP": 5,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "57_TheBurningHeritage",
@@ -6357,7 +6362,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12068,
+      "Progressed": 12073,
       "Completed": 1
     }
   ],
@@ -6365,8 +6370,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T09:57:28.1976457+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:10:32.2950584+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:11:10.4017913+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:57:33.8014708+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:10:32.2951202+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:57:56.8499619+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:11:10.4018726+00:00"
 }

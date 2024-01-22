@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8142,
+  "EOS_Progressed": 8145,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1157,
+  "EOS_NewPlayers": 1151,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3299,6 +3299,11 @@
       "Time": "2024-01-22T14:09:07.3610843+00:00",
       "NumProgressed": 8142,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-22T15:09:11.1994112+00:00",
+      "NumProgressed": 8145,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -3310,7 +3315,7 @@
       "Name": "All Dead, All Dead",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 1384
+      "UsersEstimate": 1385
     },
     {
       "ID": "ACH_COOL_CAT",
@@ -3342,7 +3347,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -3366,7 +3371,7 @@
       "Name": "Misfire",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 1221
+      "UsersEstimate": 1222
     },
     {
       "ID": "ACH_NOW_IM_HERE",
@@ -3374,7 +3379,7 @@
       "Name": "Now I\u0027m Here",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3398,7 +3403,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4152
+      "UsersEstimate": 4154
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3406,7 +3411,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 2198
+      "UsersEstimate": 2199
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3437,7 +3442,7 @@
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8142,
+      "Progressed": 8145,
       "Completed": 7
     }
   ],
@@ -3445,8 +3450,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:09:07.361084+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:09:11.1994107+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:02:48.3818215+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:09:07.3611114+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:03:03.8289836+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:09:11.1994412+00:00"
 }

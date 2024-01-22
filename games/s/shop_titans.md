@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,296 |
-| Titan's First Steps | 12.00% | ~18,296 |
-| Basic in Bulk | 11.00% | ~16,771 |
+| Sponsored by Argon | 12.00% | ~18,297 |
+| Titan's First Steps | 12.00% | ~18,297 |
+| Basic in Bulk | 11.00% | ~16,772 |
 | Tinkle of Coins | 10.00% | ~15,247 |
-| Disintermediation | 8.00% | ~12,197 |
-| Capitalism Ho! | 8.00% | ~12,197 |
+| Disintermediation | 8.00% | ~12,198 |
+| Capitalism Ho! | 8.00% | ~12,198 |
 | It's Free Real Estate | 7.00% | ~10,673 |
 | Budding Merchant | 7.00% | ~10,673 |
 | One Easy Payment | 6.00% | ~9,148 |
@@ -19,12 +19,12 @@ Number of Ratings: 12,664  (23.09.2022)
 | Another Satisfied Customer | 6.00% | ~9,148 |
 | Pretty Penny | 6.00% | ~9,148 |
 | Own the Means of Production | 6.00% | ~9,148 |
-| The Daily Grind | 5.00% | ~7,623 |
-| Bounty Hunters | 5.00% | ~7,623 |
-| Where it Hurts | 5.00% | ~7,623 |
-| One-Armed Bandit | 5.00% | ~7,623 |
-| Dungeon Imports | 5.00% | ~7,623 |
-| Through Repetition, Perfection | 5.00% | ~7,623 |
+| The Daily Grind | 5.00% | ~7,624 |
+| Bounty Hunters | 5.00% | ~7,624 |
+| Where it Hurts | 5.00% | ~7,624 |
+| One-Armed Bandit | 5.00% | ~7,624 |
+| Dungeon Imports | 5.00% | ~7,624 |
+| Through Repetition, Perfection | 5.00% | ~7,624 |
 | Demand for Supplies | 4.00% | ~6,099 |
 | Flooding the Market | 4.00% | ~6,099 |
 | Gem Expert | 4.00% | ~6,099 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~610 |
 | Capitalist Camaraderie | 0.30% | ~457 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,466 (Ranked 87)  
+Progressed: 152,473 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -396,7 +396,7 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-19 | 152,097 | 359 |
 | 2024-01-20 | 152,267 | 360 |
 | 2024-01-21 | 152,414 | 360 |
-| 2024-01-22 | 152,466 | 360 |
+| 2024-01-22 | 152,473 | 360 |
 ## Awards
 Max (Great for Beginners): 4,973  (Ranked 82)  
 Sum: 28,039 (Ranked 52)  

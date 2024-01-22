@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 592,
+  "EOS_Progressed": 593,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
@@ -2459,6 +2459,11 @@
       "Time": "2024-01-22T03:05:30.9045957+00:00",
       "NumProgressed": 592,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-22T15:07:35.8515215+00:00",
+      "NumProgressed": 593,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-08-29T09:05:59.1773424+00:00",
@@ -2471,7 +2476,7 @@
       "Name": "Holy Macaroni!",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 539
+      "UsersEstimate": 540
     },
     {
       "ID": "ALL_BLUEPRINTS_WORKBENCH",
@@ -2487,7 +2492,7 @@
       "Name": "Retro Diva",
       "Percentage": 63,
       "XP": 50,
-      "UsersEstimate": 373
+      "UsersEstimate": 374
     },
     {
       "ID": "BRING_PROSPERO",
@@ -2511,7 +2516,7 @@
       "Name": "Fisherman",
       "Percentage": 48,
       "XP": 50,
-      "UsersEstimate": 284
+      "UsersEstimate": 285
     },
     {
       "ID": "EAT_AN_ENERGY_BAR",
@@ -2527,7 +2532,7 @@
       "Name": "Off on an Expedition!",
       "Percentage": 64,
       "XP": 50,
-      "UsersEstimate": 379
+      "UsersEstimate": 380
     },
     {
       "ID": "GROW_20_PLANTS",
@@ -2535,7 +2540,7 @@
       "Name": "Farmer",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "HOUSEWARMING",
@@ -2551,7 +2556,7 @@
       "Name": "Leech Lunch",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "NOT_EAT_BIOMASS_HOUSEWARMING",
@@ -2567,7 +2572,7 @@
       "Name": "Tough Guy",
       "Percentage": 21,
       "XP": 50,
-      "UsersEstimate": 124
+      "UsersEstimate": 125
     },
     {
       "ID": "PREPARE_10_COFFEE",
@@ -2591,7 +2596,7 @@
       "Name": "Bridge Builder",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 266
+      "UsersEstimate": 267
     },
     {
       "ID": "SLEEP_50_HOURS",
@@ -2615,7 +2620,7 @@
       "Name": "Uppies!",
       "Percentage": 73,
       "XP": 50,
-      "UsersEstimate": 432
+      "UsersEstimate": 433
     },
     {
       "ID": "UPGRADE_SMART_TOWER",
@@ -2623,21 +2628,21 @@
       "Name": "Strong Signal",
       "Percentage": 49,
       "XP": 50,
-      "UsersEstimate": 290
+      "UsersEstimate": 291
     }
   ],
   "AchievementSets": [
     {
       "ID": "aniflfk",
       "IsBase": true,
-      "Progressed": 592,
+      "Progressed": 593,
       "Completed": 3
     }
   ],
   "FirstSeen": "2023-08-29T15:00:28.1876814+00:00",
   "FirstSeenAchievements": "2023-08-22T07:07:08.4509845+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:05:57.8064624+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:07:35.851521+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.7224824+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:59:12.7920485+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:05:57.8064842+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:00:18.6457439+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:07:35.8515455+00:00"
 }

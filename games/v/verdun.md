@@ -6,25 +6,25 @@ Number of Ratings: 1,999  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Setting an example | 78.00% | ~54,736 |
-| Worth it | 63.00% | ~44,210 |
-| Eagle Eye | 54.00% | ~37,894 |
-| Corpseman I | 39.00% | ~27,368 |
-| Blast fishing | 37.00% | ~25,965 |
-| Not alone | 32.00% | ~22,456 |
-| Headhunter I | 26.00% | ~18,246 |
-| Developers, Developers, Developers | 24.00% | ~16,842 |
-| Manual Labour I | 24.00% | ~16,842 |
-| Basic Training | 23.00% | ~16,140 |
+| Setting an example | 78.00% | ~54,740 |
+| Worth it | 63.00% | ~44,213 |
+| Eagle Eye | 54.00% | ~37,897 |
+| Corpseman I | 39.00% | ~27,370 |
+| Blast fishing | 37.00% | ~25,967 |
+| Not alone | 32.00% | ~22,458 |
+| Headhunter I | 26.00% | ~18,247 |
+| Developers, Developers, Developers | 24.00% | ~16,843 |
+| Manual Labour I | 24.00% | ~16,843 |
+| Basic Training | 23.00% | ~16,141 |
 | Furchtlos und Treu | 13.00% | ~9,123 |
-| Gott Mit Uns | 12.00% | ~8,421 |
+| Gott Mit Uns | 12.00% | ~8,422 |
 | This We'll Defend! | 9.00% | ~6,316 |
 | For King and Country | 9.00% | ~6,316 |
 | Battle hardened | 8.00% | ~5,614 |
 | Anker wirf! | 8.00% | ~5,614 |
 | Providentiea Memor | 8.00% | ~5,614 |
-| Semper Fidelis! | 7.00% | ~4,912 |
-| Honneur et Patrie | 7.00% | ~4,912 |
+| Semper Fidelis! | 7.00% | ~4,913 |
+| Honneur et Patrie | 7.00% | ~4,913 |
 | In Treue Fest | 5.00% | ~3,509 |
 | Voor De Koning | 5.00% | ~3,509 |
 | Extreme Headhunter | 5.00% | ~3,509 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,999  (23.09.2022)
 | Comrade | 0.10% | ~70 |
 | Blood Brother | 0.10% | ~70 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 70,175 (Ranked 117)  
+Progressed: 70,180 (Ranked 117)  
 Completed: 4 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -343,7 +343,7 @@ Completed: 4 (0.01%) (Ranked 383)
 | 2024-01-19 | 69,945 | 4 |
 | 2024-01-20 | 70,042 | 4 |
 | 2024-01-21 | 70,136 | 4 |
-| 2024-01-22 | 70,175 | 4 |
+| 2024-01-22 | 70,180 | 4 |
 ## Awards
 Max (Highly Recommended): 105  (Ranked 376)  
 Sum: 842 (Ranked 290)  

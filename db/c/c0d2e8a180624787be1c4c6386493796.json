@@ -2128,9 +2128,9 @@
       "ID": "KR4_ACHIEVEMENT_VERUK_MAX",
       "SetID": "caeik3h",
       "Name": "Champion Of The Arena",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 43
+      "UsersEstimate": 46
     },
     {
       "ID": "KR4_ACHIEVEMENT_WINTERLORD",
@@ -2167,8 +2167,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:05:46.9954753+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:07:20.5000674+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:58:58.7295639+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:05:46.9955479+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:59:57.9039237+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:07:20.5001519+00:00"
 }

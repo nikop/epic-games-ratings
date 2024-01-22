@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,252 |
-| Lost and Found | 9.00% | ~751 |
-| Autodidact | 8.00% | ~10,678 |
+| Malpractice Assurance | 15.00% | ~1,253 |
+| Lost and Found | 9.00% | ~752 |
+| Autodidact | 8.00% | ~10,679 |
 | This Belongs in a Museum | 7.00% | ~9,344 |
 | Creep and Sleep | 7.00% | ~9,344 |
 | Overdue Notice | 7.00% | ~9,344 |
-| This guy... again? | 7.00% | ~584 |
+| This guy... again? | 7.00% | ~585 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,009 |
 | Serenity Now! | 6.00% | ~8,009 |
 | Meat and Greet | 6.00% | ~8,009 |
@@ -31,7 +31,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | Whale | 5.00% | ~6,674 |
 | A Place to Lay Your Head | 5.00% | ~6,674 |
 | Nope | 5.00% | ~6,674 |
-| Friends 'Til the End | 5.00% | ~417 |
+| Friends 'Til the End | 5.00% | ~418 |
 | Resurrection | 4.00% | ~5,339 |
 | Unleash Hell | 4.00% | ~5,339 |
 | Funny Guy | 4.00% | ~5,339 |
@@ -48,12 +48,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,339 |
 | Unshackled | 4.00% | ~5,339 |
 | Road Trip | 4.00% | ~5,339 |
-| Hope Rekindled | 3.00% | ~4,004 |
-| Predator | 3.00% | ~4,004 |
-| Reverse Banditry | 3.00% | ~4,004 |
-| When You Want Something Done Right | 3.00% | ~4,004 |
-| Utopia | 3.00% | ~4,004 |
-| Hot Air | 3.00% | ~4,004 |
+| Hope Rekindled | 3.00% | ~4,005 |
+| Predator | 3.00% | ~4,005 |
+| Reverse Banditry | 3.00% | ~4,005 |
+| When You Want Something Done Right | 3.00% | ~4,005 |
+| Utopia | 3.00% | ~4,005 |
+| Hot Air | 3.00% | ~4,005 |
 | This Looks Familiar | 2.00% | ~2,670 |
 | Ichthyophobic | 2.00% | ~2,670 |
 | No More Mouths to Feed | 2.00% | ~2,670 |
@@ -65,10 +65,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Hat Trick | 1.00% | ~1,335 |
 | Shrine of Reflection | 1.00% | ~1,335 |
 | Triage | 1.00% | ~1,335 |
-| No Mercy | 1.00% | ~83 |
-| Slap on the Wrist | 1.00% | ~83 |
-| Et Tu, Riposte? | 1.00% | ~83 |
-| For Old Time' Sake | 1.00% | ~83 |
+| No Mercy | 1.00% | ~84 |
+| Slap on the Wrist | 1.00% | ~84 |
+| Et Tu, Riposte? | 1.00% | ~84 |
+| For Old Time' Sake | 1.00% | ~84 |
 | The World As It Was | 0.80% | ~1,068 |
 | A Life Well Lived | 0.70% | ~934 |
 | Bacon Bits | 0.70% | ~934 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~133 |
 | Hard Mode | 0.10% | ~133 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,480 (Ranked 92)  
+Progressed: 133,486 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,15 +353,15 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-19 | 133,251 | 5 |
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
-| 2024-01-22 | 133,480 | 5 |
+| 2024-01-22 | 133,486 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
-Sum: 21,818 (Ranked 58)  
+Sum: 21,821 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 8,062 |
-| This game has Diverse Characters | 1,881 |
+| This game has Diverse Characters | 1,884 |
 | This game has Challenging Combat | 1,692 |
 | This game is Highly Recommended | 1,617 |
 | This game has Amazing Characters | 1,542 |
@@ -734,4 +734,4 @@ Diff (max vs sum): -6
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
 | 2024-01-20 | 4.69 | - | 8,048 | 21,780 |
 | 2024-01-21 | 4.69 | - | 8,057 | 21,807 |
-| 2024-01-22 | 4.69 | - | 8,062 | 21,818 |
+| 2024-01-22 | 4.69 | - | 8,062 | 21,821 |

@@ -2,9 +2,9 @@
   "ID": "c909a449941841e790460fbbfbbb7dcd",
   "Name": "Road Defense: Outsiders",
   "ProductSlug": "road-defense-outsiders-22e4ba",
-  "Ranking_EOS_Progress": 424,
+  "Ranking_EOS_Progress": 422,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 403,
+  "Ranking_EOS_NewPlayers": 381,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-09-22T19:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 254,
+  "EOS_Progressed": 255,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.72,
+  "EOS_Completed_Percentage": 4.71,
   "EosHistory": [
     {
       "Time": "2023-09-18T15:04:59.5567381+00:00",
@@ -1164,6 +1164,11 @@
       "Time": "2024-01-19T19:05:30.6260692+00:00",
       "NumProgressed": 254,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-22T15:04:50.5895918+00:00",
+      "NumProgressed": 255,
+      "NumCompleted": 12
     }
   ],
   "AchievementsAdded": "2023-09-18T15:04:59.5567411+00:00",
@@ -1184,15 +1189,15 @@
       "Name": "Laser Beam",
       "Percentage": 61,
       "XP": 60,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "DEFEATED_10000_ENEMIES",
       "SetID": "14g34pl",
       "Name": "Slayer",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 60,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "DEFEATED_1000_ENEMIES",
@@ -1200,7 +1205,7 @@
       "Name": "Assassin",
       "Percentage": 60,
       "XP": 60,
-      "UsersEstimate": 152
+      "UsersEstimate": 153
     },
     {
       "ID": "DEFEATED_100_ENEMIES",
@@ -1208,7 +1213,7 @@
       "Name": "Murderer",
       "Percentage": 83,
       "XP": 40,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "DEFEATED_10_ENEMIES",
@@ -1216,7 +1221,7 @@
       "Name": "Killer",
       "Percentage": 95,
       "XP": 10,
-      "UsersEstimate": 241
+      "UsersEstimate": 242
     },
     {
       "ID": "DEFEATED_20000_ENEMIES",
@@ -1288,7 +1293,7 @@
       "Name": "Powerful",
       "Percentage": 47,
       "XP": 60,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "REACH_LEVEL_15",
@@ -1304,21 +1309,21 @@
       "Name": "Strong",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 208
+      "UsersEstimate": 209
     }
   ],
   "AchievementSets": [
     {
       "ID": "14g34pl",
       "IsBase": true,
-      "Progressed": 254,
+      "Progressed": 255,
       "Completed": 12
     }
   ],
   "FirstSeen": "2023-09-25T02:58:38.7787342+00:00",
   "FirstSeenAchievements": "2023-09-06T12:07:44.9094388+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:03:59.7956342+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:04:50.5895914+00:00",
   "LastUpdate_AppInfo": "2024-01-17T01:46:10.8318489+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:57:44.167891+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:03:59.7956611+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:58:11.1600049+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:04:50.5896135+00:00"
 }

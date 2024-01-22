@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2616,
+  "EOS_Progressed": 2617,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 427,
   "EOS_NewCompleters": 0,
@@ -3624,6 +3624,11 @@
       "Time": "2024-01-22T14:09:47.0953033+00:00",
       "NumProgressed": 2616,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-22T15:10:07.4371777+00:00",
+      "NumProgressed": 2617,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-03T16:02:20.9417999+00:00",
@@ -3740,7 +3745,7 @@
       "Name": "Podium finisher",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 889
+      "UsersEstimate": 890
     },
     {
       "ID": "PODIUM_10",
@@ -3764,7 +3769,7 @@
       "Name": "On the starting grid",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 2433
+      "UsersEstimate": 2434
     },
     {
       "ID": "RESEARCHED_2",
@@ -3788,7 +3793,7 @@
       "Name": "Generation 4",
       "Percentage": 9,
       "XP": 40,
-      "UsersEstimate": 235
+      "UsersEstimate": 236
     },
     {
       "ID": "RESEARCHED_5",
@@ -3844,7 +3849,7 @@
       "Name": "Championship contender",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "WIN_100",
@@ -3882,9 +3887,9 @@
       "ID": "XP_1000",
       "SetID": "4nk2039",
       "Name": "Rookie",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 523
+      "UsersEstimate": 550
     },
     {
       "ID": "XP_10000",
@@ -3892,7 +3897,7 @@
       "Name": "Learner",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "XP_100000",
@@ -3915,14 +3920,14 @@
     {
       "ID": "4nk2039",
       "IsBase": true,
-      "Progressed": 2616,
+      "Progressed": 2617,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-20T20:59:52.9883268+00:00",
   "FirstSeenAchievements": "2023-09-03T16:02:20.9417998+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:09:47.095303+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:10:07.4371772+00:00",
   "LastUpdate_AppInfo": "2024-01-22T02:57:03.6253654+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:58:28.223156+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:09:47.0953332+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:59:13.5594291+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:10:07.4372254+00:00"
 }

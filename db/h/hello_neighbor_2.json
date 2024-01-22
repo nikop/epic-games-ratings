@@ -2,12 +2,12 @@
   "ID": "4046b000e6b0477ea639ee07e28db3d0",
   "Name": "Hello Neighbor 2",
   "ProductSlug": "hello-neighbor-2",
-  "Ranking_Rating": 778,
+  "Ranking_Rating": 779,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 220,
   "Ranking_EOS_Completed": 99,
-  "Ranking_EOS_NewPlayers": 209,
+  "Ranking_EOS_NewPlayers": 208,
   "Ranking_EOS_NewCompleters": 43,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -525,9 +525,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4141,
+  "EOS_Progressed": 4142,
   "EOS_Completed": 151,
-  "EOS_NewPlayers": 71,
+  "EOS_NewPlayers": 72,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 3.65,
   "EosHistory": [
@@ -7665,6 +7665,11 @@
       "Time": "2024-01-22T14:03:35.7751583+00:00",
       "NumProgressed": 4141,
       "NumCompleted": 151
+    },
+    {
+      "Time": "2024-01-22T15:04:16.1568842+00:00",
+      "NumProgressed": 4142,
+      "NumCompleted": 151
     }
   ],
   "TotalAchievements": 14,
@@ -7684,7 +7689,7 @@
       "Name": "Case Closed",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "ACH_CAT_LOVER",
@@ -7692,7 +7697,7 @@
       "Name": "Cat Person",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH_CLIMBER",
@@ -7708,7 +7713,7 @@
       "Name": "Dog Person",
       "Percentage": 18,
       "XP": 80,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "ACH_EASY_AS_PIE",
@@ -7748,7 +7753,7 @@
       "Name": "Mad Scientist",
       "Percentage": 23,
       "XP": 80,
-      "UsersEstimate": 952
+      "UsersEstimate": 953
     },
     {
       "ID": "ACH_REUNION",
@@ -7764,7 +7769,7 @@
       "Name": "Shovel Night",
       "Percentage": 35,
       "XP": 55,
-      "UsersEstimate": 1449
+      "UsersEstimate": 1450
     },
     {
       "ID": "ACH_TREASURE_HUNT",
@@ -7780,14 +7785,14 @@
       "Name": "Welcome to Raven Brooks",
       "Percentage": 79,
       "XP": 35,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     }
   ],
   "AchievementSets": [
     {
       "ID": "4kfb9pd",
       "IsBase": true,
-      "Progressed": 4141,
+      "Progressed": 4142,
       "Completed": 151
     }
   ],
@@ -7795,8 +7800,8 @@
   "FirstSeenRating": "2022-12-13T19:57:02.6250271+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.7979824+00:00",
   "LastChanged": "2024-01-22T13:58:58.9675729+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:03:35.7751579+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:04:16.1568836+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:19.3671172+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:58:58.9675734+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:03:35.7752019+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:59:58.3174388+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:04:16.1569425+00:00"
 }

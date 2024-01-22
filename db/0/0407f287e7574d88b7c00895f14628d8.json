@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 301,
+  "Ranking_EOS_NewPlayers": 302,
   "Ranking_EOS_NewCompleters": 144,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -1182,9 +1182,9 @@
       "ID": "jg3",
       "SetID": "b1ggf28",
       "Name": "Full Load",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 36
+      "UsersEstimate": 38
     },
     {
       "ID": "jk1",
@@ -1429,8 +1429,8 @@
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:03:55.7344074+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:04:44.9300206+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-22T14:03:08.4834178+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:03:55.7344519+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:03:33.2619998+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:04:44.9300816+00:00"
 }

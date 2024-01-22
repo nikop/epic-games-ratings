@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 325)  
+Rating: 4.65 (Ranked 326)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -138,14 +138,14 @@ Number of Ratings: 1,307  (23.09.2022)
 | All Nations | 0.60% | ~103 |
 | Deposed Tribe | 0.60% | ~103 |
 | Jebel Barkal | 0.60% | ~103 |
-| Ishtar Gate in Babylon | 0.50% | ~85 |
-| Old | 0.50% | ~85 |
-| Learn to Play 5 | 0.50% | ~85 |
-| Egypt | 0.50% | ~85 |
-| One True Faith | 0.50% | ~85 |
-| No Undo | 0.50% | ~85 |
-| Poetic Leader | 0.50% | ~85 |
-| Cothon | 0.50% | ~85 |
+| Ishtar Gate in Babylon | 0.50% | ~86 |
+| Old | 0.50% | ~86 |
+| Learn to Play 5 | 0.50% | ~86 |
+| Egypt | 0.50% | ~86 |
+| One True Faith | 0.50% | ~86 |
+| No Undo | 0.50% | ~86 |
+| Poetic Leader | 0.50% | ~86 |
+| Cothon | 0.50% | ~86 |
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | The Eternal Treaty | 0.40% | ~68 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,099 (Ranked 170)  
+Progressed: 17,100 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -642,7 +642,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-19 | 17,008 | 5 |
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
-| 2024-01-22 | 17,099 | 5 |
+| 2024-01-22 | 17,100 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

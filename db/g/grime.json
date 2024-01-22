@@ -1939,9 +1939,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169275,
-  "EOS_Completed": 466,
-  "EOS_NewPlayers": 953,
+  "EOS_Progressed": 169278,
+  "EOS_Completed": 467,
+  "EOS_NewPlayers": 949,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24054,6 +24054,11 @@
       "Time": "2024-01-22T14:08:33.5304741+00:00",
       "NumProgressed": 169275,
       "NumCompleted": 466
+    },
+    {
+      "Time": "2024-01-22T15:08:23.8759206+00:00",
+      "NumProgressed": 169278,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24210,7 +24215,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -24218,7 +24223,7 @@
       "Name": "Jawstag",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -24242,7 +24247,7 @@
       "Name": "Feast",
       "Percentage": 0.9,
       "XP": 40,
-      "UsersEstimate": 1523
+      "UsersEstimate": 1524
     },
     {
       "ID": "DEFEAT_WATCHER",
@@ -24433,21 +24438,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168858,
+      "Progressed": 168861,
       "Completed": 1268
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169275,
-      "Completed": 466
+      "Progressed": 169278,
+      "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-22T08:58:35.610038+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:08:33.5304739+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:08:23.87592+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:58:34.3859127+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:08:33.5305852+00:00"
+  "LastUpdate_Ratings": "2024-01-22T14:59:23.3018803+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:08:23.8760738+00:00"
 }

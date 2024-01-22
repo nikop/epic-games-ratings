@@ -2,9 +2,9 @@
   "ID": "263de26be57d43528bb9c7fdb133b9fe",
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
-  "Ranking_EOS_Progress": 537,
-  "Ranking_EOS_Completed": 91,
-  "Ranking_EOS_NewPlayers": 217,
+  "Ranking_EOS_Progress": 535,
+  "Ranking_EOS_Completed": 93,
+  "Ranking_EOS_NewPlayers": 216,
   "Ranking_EOS_NewCompleters": 77,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 72,
+  "EOS_Progressed": 73,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 65,
+  "EOS_NewPlayers": 66,
   "EOS_NewCompleters": 3,
-  "EOS_Completed_Percentage": 4.17,
+  "EOS_Completed_Percentage": 4.11,
   "EosHistory": [
     {
       "Time": "2024-01-18T17:10:07.9287814+00:00",
@@ -234,6 +234,11 @@
       "Time": "2024-01-22T13:13:56.409315+00:00",
       "NumProgressed": 72,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-22T15:07:22.9213022+00:00",
+      "NumProgressed": 73,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2024-01-18T17:10:07.9287841+00:00",
@@ -254,7 +259,7 @@
       "Name": "Broke into the Botanical Bank",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "BANK_MOTHERLODE",
@@ -268,7 +273,7 @@
       "ID": "BANK_STEAL",
       "SetID": "89ki2f0",
       "Name": "See you later space turnip\u2026",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 35,
       "UsersEstimate": 12
     },
@@ -276,7 +281,7 @@
       "ID": "BOSS_1",
       "SetID": "89ki2f0",
       "Name": "Down the rabbit hole",
-      "Percentage": 57,
+      "Percentage": 56,
       "XP": 35,
       "UsersEstimate": 41
     },
@@ -326,7 +331,7 @@
       "Name": "Illegal goods",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "HATS_ALL",
@@ -356,9 +361,9 @@
       "ID": "MONEY_1K",
       "SetID": "89ki2f0",
       "Name": "Buy yourself something nice",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "MONEY_1M",
@@ -390,13 +395,13 @@
       "Name": "For science!",
       "Percentage": 68,
       "XP": 20,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "TASKS_ALL",
       "SetID": "89ki2f0",
       "Name": "Completionist",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 150,
       "UsersEstimate": 4
     },
@@ -404,7 +409,7 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 50,
       "UsersEstimate": 12
     },
@@ -412,7 +417,7 @@
       "ID": "UPGRADES_FIRST",
       "SetID": "89ki2f0",
       "Name": "Better, faster, stronger",
-      "Percentage": 69,
+      "Percentage": 68,
       "XP": 20,
       "UsersEstimate": 50
     },
@@ -420,23 +425,23 @@
       "ID": "WEAPONRACK_FIRST",
       "SetID": "89ki2f0",
       "Name": "Woah! Guns!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 51
     }
   ],
   "AchievementSets": [
     {
       "ID": "89ki2f0",
       "IsBase": true,
-      "Progressed": 72,
+      "Progressed": 73,
       "Completed": 3
     }
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-22T14:05:48.6941572+00:00",
+  "LastChanged_Achievements": "2024-01-22T15:07:22.9213017+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-22T13:59:51.8732608+00:00",
-  "LastUpdate_Achievements": "2024-01-22T14:05:48.6941977+00:00"
+  "LastUpdate_Ratings": "2024-01-22T15:01:15.3385217+00:00",
+  "LastUpdate_Achievements": "2024-01-22T15:07:22.9213205+00:00"
 }
