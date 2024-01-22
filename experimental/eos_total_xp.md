@@ -687,6 +687,7 @@
 | [Skye Tales](../games/0/06c6603778ed47859ce523af7e0b566b.md) | 41 | 1,000 |
 | [Slain: Back From Hell](../games/s/slain__back_from_hell.md) | 29 | 1,000 |
 | [SlavicPunk: Oldtimer](../games/1/1e9b7636582f4251a1e1a61906d31c47.md) | 74 | 1,000 |
+| [Slide Stories - Bucky's Quest](../games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 12 | 1,000 |
 | [Smalland: Survive the Wilds](../games/s/smalland__survive_the_wilds.md) | 13 | 1,000 |
 | [Smelter](../games/s/smelter.md) | 51 | 1,000 |
 | [Snowmen](../games/6/691a9f92becd48a58e558b4faccf6bcb.md) | 18 | 1,000 |

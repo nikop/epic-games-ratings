@@ -20,6 +20,7 @@
 | [The Harvest](games/1/171eb5b083604de697c6d64e243d308b.md) | 2024-01-31 | - |  | - | - |
 | [Troma Presents Poultrygeist](games/9/956f0252b6b941c5a724faa53ff8ea73.md) | 2024-01-31 | - |  | - | - |
 | [The Evolving Forest](games/6/6e80378d8a1444cf94e8221bee233464.md) | 2024-01-31 | - |  | - | - |
+| [Slide Stories - Bucky's Quest](games/9/99565e18e9ba4a9eb21434c1a2bf23ae.md) | 2024-01-31 | 12 (1,000 XP) | 0 | - | - |
 | [Argonauts Agency 5: Captive of Circe](games/7/7f9155561a3e461a83739c94459d013b.md) | 2024-02-01 | - |  | - | - |
 | [Island of Fear](games/c/cd9345b512a544e38b7ff0165111e35c.md) | 2024-02-01 | - |  | - | - |
 | [Tiny Jump](games/0/08d22307c66c4923ae6fab7edfa6e227.md) | 2024-02-02 | - |  | - | - |
@@ -115,6 +116,7 @@
 | [The Hidden Room - Pyramid](games/0/0ea1e86ea6bc402790f8b8d6302ac790.md) | 2024-05-31 | - |  | - | - |
 | [SpectralClimb](games/6/6120f91f9281420e818d6298ccd09772.md) | 2024-06-28 | - |  | - | - |
 | [Elden Gunfire](games/2/2a031a58bca34b179a0c7b9c1a9e130e.md) | 2024-06-30 | - |  | - | - |
+| [Enotria: The Last Song](games/7/7a02ad607dc84051b28191947a517645.md) | 2024-06-30 | - |  | - | - |
 | [Forgotten Runiverse](games/2/28102c9b12f0424cb937170f7f6286b9.md) | 2024-06-30 | - |  | - | - |
 | [I Love Finding Cats](games/2/22d7d08b02de4ce79b0316ced5064741.md) | 2024-06-30 | - |  | - | - |
 | [Little Wu Chang](games/2/2949830a102e4b6aad990f6ae31e758f.md) | 2024-06-30 | - |  | - | - |
