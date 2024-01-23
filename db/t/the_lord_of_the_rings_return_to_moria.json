@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 42,
+  "Ranking_EOS_NewPlayers": 43,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -3076,10 +3076,16 @@
       "Rating": 4.43,
       "NumberOfAwards": 5706,
       "NumberOfAwardsMax": 998
+    },
+    {
+      "Time": "2024-01-23T09:59:23.3108278+00:00",
+      "Rating": 4.43,
+      "NumberOfAwards": 5710,
+      "NumberOfAwardsMax": 998
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5706,
+  "NumberOfAwards": 5710,
   "NumberOfAwardsMax": 998,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3111,7 +3117,7 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 681
+      "Count": 685
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3132,10 +3138,10 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 388217,
+  "EOS_Progressed": 388222,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 3174,
-  "EOS_NewCompleters": 41,
+  "EOS_NewPlayers": 3163,
+  "EOS_NewCompleters": 40,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
     {
@@ -14012,6 +14018,11 @@
       "Time": "2024-01-23T09:10:24.837756+00:00",
       "NumProgressed": 388217,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2024-01-23T10:09:44.9234959+00:00",
+      "NumProgressed": 388222,
+      "NumCompleted": 392
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -14032,7 +14043,7 @@
       "Name": "Baruk Khaz\u00E2d!",
       "Percentage": 13,
       "XP": 50,
-      "UsersEstimate": 50468
+      "UsersEstimate": 50469
     },
     {
       "ID": "CraftedFullSetBelegost",
@@ -14064,7 +14075,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 128112
+      "UsersEstimate": 128113
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -14072,7 +14083,7 @@
       "Name": "Suit Up",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 209637
+      "UsersEstimate": 209640
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -14080,7 +14091,7 @@
       "Name": "Battering Ram",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 54350
+      "UsersEstimate": 54351
     },
     {
       "ID": "CraftedFullSetMetaElven",
@@ -14136,7 +14147,7 @@
       "Name": "Deeps Weaponcraft",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31057
+      "UsersEstimate": 31058
     },
     {
       "ID": "CraftedFullSetWeaponsCh4",
@@ -14152,7 +14163,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 229048
+      "UsersEstimate": 229051
     },
     {
       "ID": "DefeatedBolgakh",
@@ -14160,7 +14171,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 124229
+      "UsersEstimate": 124231
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -14168,7 +14179,7 @@
       "Name": "Darkness Is Passing",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 31057
+      "UsersEstimate": 31058
     },
     {
       "ID": "DefeatedTrollKing",
@@ -14176,7 +14187,7 @@
       "Name": "False King, Deposed",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 54350
+      "UsersEstimate": 54351
     },
     {
       "ID": "DiscoveredAngryCaverns",
@@ -14184,7 +14195,7 @@
       "Name": "Caradhras The Cruel",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 73761
+      "UsersEstimate": 73762
     },
     {
       "ID": "DiscoveredDwarrowdelf",
@@ -14192,7 +14203,7 @@
       "Name": "Risk a Little Real Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 120347
+      "UsersEstimate": 120349
     },
     {
       "ID": "DiscoveredElvenQuarter",
@@ -14200,7 +14211,7 @@
       "Name": "Speak Friend",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 318338
+      "UsersEstimate": 318342
     },
     {
       "ID": "DiscoveredHighway",
@@ -14208,7 +14219,7 @@
       "Name": "A Memory of this Place",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69879
+      "UsersEstimate": 69880
     },
     {
       "ID": "DiscoveredLowerDeeps",
@@ -14216,7 +14227,7 @@
       "Name": "To the Mountain\u0027s Roots",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 194108
+      "UsersEstimate": 194111
     },
     {
       "ID": "DiscoveredMinesOfMoria",
@@ -14224,7 +14235,7 @@
       "Name": "Delving Onward",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 267870
+      "UsersEstimate": 267873
     },
     {
       "ID": "DiscoveredTomb",
@@ -14232,23 +14243,23 @@
       "Name": "Remains To Be Seen",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 135876
+      "UsersEstimate": 135878
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 388217,
+      "Progressed": 388222,
       "Completed": 392
     }
   ],
   "FirstSeen": "2023-10-24T14:01:15.5324027+00:00",
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
-  "LastChanged": "2024-01-22T21:58:49.5054759+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:10:24.8377557+00:00",
+  "LastChanged": "2024-01-23T09:59:23.3108276+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:09:44.9234955+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:14.4291538+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:00:40.3815936+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:10:24.8378098+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:59:23.3108282+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:09:44.9235566+00:00"
 }

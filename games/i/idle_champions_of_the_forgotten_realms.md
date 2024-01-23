@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,763 |
+| A Brief Tour of the Realms | 5.00% | ~12,764 |
 | Beast Intentions | 2.00% | ~5,105 |
 | The Cursed Farmer | 2.00% | ~5,105 |
 | The Mad Wizard | 2.00% | ~5,105 |
@@ -96,6 +96,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeds of Deceit | 0.20% | ~511 |
 | The Gargoyle's Apprentice | 0.20% | ~511 |
 | Attack on the Manor | 0.20% | ~511 |
+| The Trepidatious Trio | 0.20% | ~511 |
 | Treasure Hunters | 0.20% | ~511 |
 | The Guardian of Orolunga | 0.20% | ~511 |
 | The Lost Love | 0.20% | ~511 |
@@ -125,6 +126,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Déjà Vu | 0.20% | ~443 |
 | Into The Fire | 0.20% | ~443 |
 | Dreamscape | 0.20% | ~443 |
+| Alterdeep | 0.20% | ~443 |
 | The Giant's Bane Tavern | 0.20% | ~443 |
 | The Long Haul | 0.20% | ~511 |
 | Lost in the Deep | 0.20% | ~511 |
@@ -289,7 +291,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | The Strahd Squad | 0.10% | ~222 |
 | House of Darkness | 0.10% | ~255 |
 | Home Not So Alone | 0.10% | ~222 |
-| The Trepidatious Trio | 0.10% | ~255 |
 | Our Time To Shine | 0.10% | ~255 |
 | Review by the Blackstaff | 0.10% | ~222 |
 | Think Your Way Out Of It | 0.10% | ~255 |
@@ -402,7 +403,6 @@ Number of Ratings: 9,041  (23.09.2022)
 | Zapper Overload | 0.10% | ~222 |
 | Best Friend Search Squad! | 0.10% | ~222 |
 | An Even Worse Time in Avernus | 0.10% | ~222 |
-| Alterdeep | 0.10% | ~222 |
 | Elder Rune Attack | 0.10% | ~222 |
 | The Gargoyle | 0.10% | ~222 |
 | Ulkoria's Escape from Alterdeep | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,266 (Ranked 71)  
+Progressed: 255,270 (Ranked 71)  
 Completed: 2,633 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -831,7 +831,7 @@ Completed: 2,633 (1.03%) (Ranked 180)
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
-| 2024-01-23 | 255,266 | 2,633 |
+| 2024-01-23 | 255,270 | 2,633 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,613 (Ranked 41)  

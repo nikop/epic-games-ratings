@@ -1,21 +1,21 @@
 # Saints Row IV Re-Elected
 [Store](https://store.epicgames.com/en-US/p/saints-row-iv-re-elected)  
 [View Rawdata](../../db/s/saints_row_iv_re-elected.json)  
-Rating: 4.40 (Ranked 779)  
+Rating: 4.40 (Ranked 778)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Zero Saints Thirty | 62.00% | ~216,998 |
-| Destroyer-In-Chief | 56.00% | ~195,998 |
-| There Is No Pancakes | 52.00% | ~181,998 |
-| First of Many | 40.00% | ~139,998 |
-| Woah. | 35.00% | ~122,499 |
-| Don't Look Down | 28.00% | ~97,999 |
-| Don't Panic | 27.00% | ~94,499 |
-| Ooo A Piece of Candy! | 22.00% | ~76,999 |
-| Ghost in the Machine | 17.00% | ~59,499 |
-| All Too Easy | 15.00% | ~52,499 |
-| Didn't Need to See Him Naked | 13.00% | ~45,499 |
+| Zero Saints Thirty | 62.00% | ~217,002 |
+| Destroyer-In-Chief | 56.00% | ~196,002 |
+| There Is No Pancakes | 52.00% | ~182,002 |
+| First of Many | 40.00% | ~140,002 |
+| Woah. | 35.00% | ~122,501 |
+| Don't Look Down | 28.00% | ~98,001 |
+| Don't Panic | 27.00% | ~94,501 |
+| Ooo A Piece of Candy! | 22.00% | ~77,001 |
+| Ghost in the Machine | 17.00% | ~59,501 |
+| All Too Easy | 15.00% | ~52,501 |
+| Didn't Need to See Him Naked | 13.00% | ~45,501 |
 | Indomitable | 10.00% | ~35,000 |
 | Bow to the Boss! | 9.00% | ~31,500 |
 | Blast from the Past | 8.00% | ~28,000 |
@@ -78,7 +78,7 @@ Rating: 4.40 (Ranked 779)
 | Super Power Team Up! | 0.10% | ~350 |
 | Ultimate Hot Potato | 0.10% | ~350 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 349,996 (Ranked 59)  
+Progressed: 350,004 (Ranked 59)  
 Completed: 17 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -356,7 +356,7 @@ Completed: 17 (0.00%) (Ranked 409)
 | 2024-01-20 | 348,598 | 17 |
 | 2024-01-21 | 349,287 | 17 |
 | 2024-01-22 | 349,797 | 17 |
-| 2024-01-23 | 349,996 | 17 |
+| 2024-01-23 | 350,004 | 17 |
 ## Awards
 Max (Great Boss Battles): 535  (Ranked 222)  
 Sum: 535 (Ranked 336)  

@@ -22,9 +22,9 @@
 | A Slice of Life | 13.00% | ~45 |
 | Debut | 13.00% | ~45 |
 | Lights! Camera! Action! | 13.00% | ~45 |
+| Playtime | 12.00% | ~41 |
 | Tough conversation | 12.00% | ~41 |
 | First steps | 11.00% | ~38 |
-| Playtime | 11.00% | ~38 |
 | The tragedy unfolds | 11.00% | ~38 |
 | A new way | 10.00% | ~34 |
 | Breaking free | 10.00% | ~34 |

@@ -4,7 +4,7 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 326,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 763,
+  "EOS_Progressed": 764,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2832,6 +2832,11 @@
       "Time": "2024-01-23T04:10:23.526137+00:00",
       "NumProgressed": 763,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T10:10:20.3993491+00:00",
+      "NumProgressed": 764,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2851,7 +2856,7 @@
       "Name": "Conspiracy Theorist",
       "Percentage": 37,
       "XP": 80,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "completeact3",
@@ -2947,7 +2952,7 @@
       "Name": "Welcome to the Garage",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 114
+      "UsersEstimate": 115
     },
     {
       "ID": "scoreminrankrv2",
@@ -2962,7 +2967,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 763,
+      "Progressed": 764,
       "Completed": 3
     }
   ],
@@ -2970,8 +2975,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:11:25.4155759+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:10:20.3993488+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-23T08:58:00.6619+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:11:25.4155977+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:57:36.9674117+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:10:20.3993723+00:00"
 }

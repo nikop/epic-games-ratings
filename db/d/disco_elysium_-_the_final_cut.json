@@ -1718,7 +1718,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139933,
+  "EOS_Progressed": 139936,
   "EOS_Completed": 29,
   "EOS_NewPlayers": 577,
   "EOS_NewCompleters": 0,
@@ -29563,6 +29563,11 @@
       "Time": "2024-01-23T09:09:48.4979317+00:00",
       "NumProgressed": 139933,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-23T10:09:19.3504932+00:00",
+      "NumProgressed": 139936,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29654,7 +29659,7 @@
       "Name": "Goodest Of The Good Cops",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 39181
+      "UsersEstimate": 39182
     },
     {
       "ID": "ACH_COP_HONOUR",
@@ -29678,7 +29683,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22389
+      "UsersEstimate": 22390
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -29702,7 +29707,7 @@
       "Name": "Literally The Sorriest Cop On Earth",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 18191
+      "UsersEstimate": 18192
     },
     {
       "ID": "ACH_COP_STAR",
@@ -29893,15 +29898,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139933,
+      "Progressed": 139936,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-23T04:58:42.7043232+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:09:48.4979314+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:09:19.3504929+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-23T08:59:39.4880421+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:09:48.49809+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:58:43.5234496+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:09:19.3506477+00:00"
 }

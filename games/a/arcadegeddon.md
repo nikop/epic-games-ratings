@@ -6,25 +6,25 @@ Number of Ratings: 801  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Let's Get This Party Started | 86.00% | ~8,981 |
-| Photogenic | 82.00% | ~8,563 |
-| Surge Gauntlet Jockey | 79.00% | ~8,250 |
+| Let's Get This Party Started | 86.00% | ~8,982 |
+| Photogenic | 82.00% | ~8,564 |
+| Surge Gauntlet Jockey | 79.00% | ~8,251 |
 | Plug It In | 78.00% | ~8,146 |
-| Adventure Time | 74.00% | ~7,728 |
-| Playing With Power | 72.00% | ~7,519 |
+| Adventure Time | 74.00% | ~7,729 |
+| Playing With Power | 72.00% | ~7,520 |
 | Coup d'Etat | 55.00% | ~5,744 |
-| You're Fired | 54.00% | ~5,639 |
+| You're Fired | 54.00% | ~5,640 |
 | Get Furious | 53.00% | ~5,535 |
-| Hacks In Stacks | 52.00% | ~5,430 |
+| Hacks In Stacks | 52.00% | ~5,431 |
 | Gunplay And Cosplay | 51.00% | ~5,326 |
 | Meching Enemies | 46.00% | ~4,804 |
 | Ticket Toddler | 41.00% | ~4,282 |
-| Booty Bashing | 36.00% | ~3,759 |
-| Field Medic | 36.00% | ~3,759 |
+| Booty Bashing | 36.00% | ~3,760 |
+| Field Medic | 36.00% | ~3,760 |
 | Here Comes a New Challenger | 35.00% | ~3,655 |
-| Rapid Response | 31.00% | ~3,237 |
-| Surge Ahead | 29.00% | ~3,028 |
-| The Full Monty | 29.00% | ~3,028 |
+| Rapid Response | 31.00% | ~3,238 |
+| Surge Ahead | 29.00% | ~3,029 |
+| The Full Monty | 29.00% | ~3,029 |
 | Guardian Angel | 25.00% | ~2,611 |
 | Poppin Noggins | 23.00% | ~2,402 |
 | Clips and Crits | 18.00% | ~1,880 |
@@ -57,7 +57,7 @@ Number of Ratings: 801  (23.09.2022)
 | Infinite Adventures! | 0.40% | ~42 |
 | Pyrotechnical | 0.20% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 10,443 (Ranked 186)  
+Progressed: 10,444 (Ranked 186)  
 Completed: 2 (0.02%) (Ranked 373)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,6 +335,7 @@ Completed: 2 (0.02%) (Ranked 373)
 | 2024-01-20 | 10,431 | 2 |
 | 2024-01-21 | 10,439 | 2 |
 | 2024-01-22 | 10,443 | 2 |
+| 2024-01-23 | 10,444 | 2 |
 ## Awards
 Max (Great for Beginners): 65  (Ranked 430)  
 Sum: 465 (Ranked 348)  

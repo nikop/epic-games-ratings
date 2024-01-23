@@ -5,36 +5,36 @@ Rating: 4.50 (Ranked 622)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Read Between The Lines | 62.00% | ~999 |
-| To Hell In A Handcart | 61.00% | ~983 |
-| High Profile | 54.00% | ~870 |
-| Whispers In The Dark | 51.00% | ~822 |
-| Fond Memories | 49.00% | ~790 |
-| A Method To His Madness | 47.00% | ~758 |
-| History Check | 46.00% | ~742 |
-| The New World | 43.00% | ~693 |
-| Lock, Stock, And Barrel | 42.00% | ~677 |
-| Gaze Into The Abyss | 42.00% | ~677 |
-| Open Sesame | 42.00% | ~677 |
-| Sticky Fingers | 42.00% | ~677 |
-| Knives Out | 42.00% | ~677 |
-| Back In The Saddle | 41.00% | ~661 |
-| Land, Ho! | 41.00% | ~661 |
-| No Man Is An Island | 40.00% | ~645 |
-| At Wits' End | 39.00% | ~629 |
-| Up In Flames | 38.00% | ~613 |
-| Fhtagn! | 38.00% | ~613 |
-| Bookworm | 37.00% | ~596 |
-| Going Once... | 35.00% | ~564 |
-| Let Me Be Frank | 33.00% | ~532 |
-| No Stone Unturned | 31.00% | ~500 |
-| Brain Food | 29.00% | ~467 |
-| Read It And Weep | 20.00% | ~322 |
-| Curiosity Killed The Cat | 18.00% | ~290 |
-| Big Breakthrough | 12.00% | ~193 |
+| Read Between The Lines | 61.00% | ~985 |
+| To Hell In A Handcart | 60.00% | ~969 |
+| High Profile | 53.00% | ~856 |
+| Whispers In The Dark | 51.00% | ~824 |
+| Fond Memories | 49.00% | ~791 |
+| A Method To His Madness | 47.00% | ~759 |
+| History Check | 46.00% | ~743 |
+| The New World | 43.00% | ~694 |
+| Gaze Into The Abyss | 42.00% | ~678 |
+| Open Sesame | 42.00% | ~678 |
+| Sticky Fingers | 42.00% | ~678 |
+| Knives Out | 42.00% | ~678 |
+| Lock, Stock, And Barrel | 41.00% | ~662 |
+| Back In The Saddle | 41.00% | ~662 |
+| Land, Ho! | 41.00% | ~662 |
+| No Man Is An Island | 40.00% | ~646 |
+| At Wits' End | 39.00% | ~630 |
+| Fhtagn! | 38.00% | ~614 |
+| Up In Flames | 37.00% | ~598 |
+| Bookworm | 36.00% | ~581 |
+| Going Once... | 35.00% | ~565 |
+| Let Me Be Frank | 33.00% | ~533 |
+| No Stone Unturned | 31.00% | ~501 |
+| Brain Food | 29.00% | ~468 |
+| Read It And Weep | 20.00% | ~323 |
+| Curiosity Killed The Cat | 18.00% | ~291 |
+| Big Breakthrough | 12.00% | ~194 |
 | Reawakened | 3.00% | ~48 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,612 (Ranked 270)  
+Progressed: 1,615 (Ranked 269)  
 Completed: 51 (3.16%) (Ranked 109)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -268,7 +268,7 @@ Completed: 51 (3.16%) (Ranked 109)
 | 2024-01-20 | 1,557 | 49 |
 | 2024-01-21 | 1,584 | 51 |
 | 2024-01-22 | 1,607 | 51 |
-| 2024-01-23 | 1,612 | 51 |
+| 2024-01-23 | 1,615 | 51 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

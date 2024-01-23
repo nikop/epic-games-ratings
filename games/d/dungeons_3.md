@@ -6,18 +6,18 @@ Number of Ratings: 1,635  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Shadow strikes | 70.00% | ~33,394 |
-| The Evilest Evil | 58.00% | ~27,669 |
-| Twistram is devastated | 58.00% | ~27,669 |
+| The Shadow strikes | 70.00% | ~33,395 |
+| The Evilest Evil | 58.00% | ~27,670 |
+| Twistram is devastated | 58.00% | ~27,670 |
 | The Gehenna Stones | 49.00% | ~23,376 |
 | No one has to die today! | 46.00% | ~21,945 |
 | Death and destruction! | 46.00% | ~21,945 |
 | The Swamplanders from the swamplands | 43.00% | ~20,514 |
-| Rusty Steel | 41.00% | ~19,559 |
-| The One-Huge-Army-Building Evil | 40.00% | ~19,082 |
-| The last burger | 37.00% | ~17,651 |
-| Braiiiiins! | 37.00% | ~17,651 |
-| Hands off the Dungeonheart! | 36.00% | ~17,174 |
+| Rusty Steel | 41.00% | ~19,560 |
+| The One-Huge-Army-Building Evil | 40.00% | ~19,083 |
+| The last burger | 37.00% | ~17,652 |
+| Braiiiiins! | 37.00% | ~17,652 |
+| Hands off the Dungeonheart! | 36.00% | ~17,175 |
 | A trip on sea, what fun it can be | 34.00% | ~16,220 |
 | Damned good | 32.00% | ~15,266 |
 | Stock Market Crash | 31.00% | ~14,789 |
@@ -28,13 +28,13 @@ Number of Ratings: 1,635  (23.09.2022)
 | Thirst quencher | 27.00% | ~12,881 |
 | Ogre Solo! | 27.00% | ~12,881 |
 | Tide Master | 26.00% | ~12,404 |
-| Difficult family relationships | 25.00% | ~11,926 |
-| Destroy the thing | 25.00% | ~11,926 |
-| MASS-O-BOT | 24.00% | ~11,449 |
-| Prepare the grave | 24.00% | ~11,449 |
-| Angel of Fire | 24.00% | ~11,449 |
-| Where there is Light, there is Shadow | 23.00% | ~10,972 |
-| At the foot of Mount Destiny | 22.00% | ~10,495 |
+| Difficult family relationships | 25.00% | ~11,927 |
+| Destroy the thing | 25.00% | ~11,927 |
+| MASS-O-BOT | 24.00% | ~11,450 |
+| Prepare the grave | 24.00% | ~11,450 |
+| Angel of Fire | 24.00% | ~11,450 |
+| Where there is Light, there is Shadow | 23.00% | ~10,973 |
+| At the foot of Mount Destiny | 22.00% | ~10,496 |
 | The Force disturbed | 21.00% | ~10,018 |
 | Chorus of damnation | 19.00% | ~9,064 |
 | The Victorious Evil | 19.00% | ~9,064 |
@@ -49,11 +49,11 @@ Number of Ratings: 1,635  (23.09.2022)
 | Please, no interruptions! | 10.00% | ~4,771 |
 | Use the terrain | 9.00% | ~4,294 |
 | Prison Break | 9.00% | ~4,294 |
-| Hearts of Iron | 8.00% | ~3,816 |
-| Master of Traps | 8.00% | ~3,816 |
-| Ignore The Level Designer’s Plan | 8.00% | ~3,816 |
-| Can’t stand to see an Ogre bleed | 8.00% | ~3,816 |
-| Lifesaver | 8.00% | ~3,816 |
+| Master of Traps | 8.00% | ~3,817 |
+| Ignore The Level Designer’s Plan | 8.00% | ~3,817 |
+| Can’t stand to see an Ogre bleed | 8.00% | ~3,817 |
+| Lifesaver | 8.00% | ~3,817 |
+| Hearts of Iron | 7.00% | ~3,339 |
 | Hearts are trump | 7.00% | ~3,339 |
 | Spawner Killer | 6.00% | ~2,862 |
 | A little something extra | 6.00% | ~2,862 |
@@ -67,7 +67,7 @@ Number of Ratings: 1,635  (23.09.2022)
 | Not a scratch | 2.00% | ~954 |
 | Sacrifices! | 2.00% | ~954 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 47,706 (Ranked 128)  
+Progressed: 47,707 (Ranked 128)  
 Completed: 375 (0.79%) (Ranked 198)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 375 (0.79%) (Ranked 198)
 | 2024-01-20 | 47,479 | 374 |
 | 2024-01-21 | 47,606 | 375 |
 | 2024-01-22 | 47,686 | 375 |
-| 2024-01-23 | 47,706 | 375 |
+| 2024-01-23 | 47,707 | 375 |
 ## Awards
 Max (Great for Beginners): 402  (Ranked 242)  
 Sum: 2,860 (Ranked 192)  

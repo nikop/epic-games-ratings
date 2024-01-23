@@ -27,8 +27,17 @@
   "TotalAchievements": 0,
   "TotalAchievementsXP": 0,
   "Achievements": [],
-  "AchievementSets": [],
+  "AchievementSets": [
+    {
+      "ID": "2hglfi0",
+      "IsBase": true,
+      "Progressed": 0,
+      "Completed": 0
+    }
+  ],
+  "FirstSeenAchievements": "2024-01-23T10:04:16.3711297+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:04:16.3711277+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:11.4584448+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:00:24.9500315+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:05:18.2316944+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:59:12.7495162+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:04:16.3711312+00:00"
 }

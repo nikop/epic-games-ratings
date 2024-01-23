@@ -715,7 +715,7 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 474329,
+  "EOS_Progressed": 474330,
   "EOS_Completed": 21,
   "EOS_NewPlayers": 384,
   "EOS_NewCompleters": 0,
@@ -29400,6 +29400,11 @@
       "Time": "2024-01-23T07:11:50.2725381+00:00",
       "NumProgressed": 474329,
       "NumCompleted": 21
+    },
+    {
+      "Time": "2024-01-23T10:10:32.8791567+00:00",
+      "NumProgressed": 474330,
+      "NumCompleted": 21
     }
   ],
   "TotalAchievements": 79,
@@ -29411,7 +29416,7 @@
       "Name": "Knightmare Frames",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71149
+      "UsersEstimate": 71150
     },
     {
       "ID": "achievement_expedition_overcome_sandworm",
@@ -29419,7 +29424,7 @@
       "Name": "May His passing cleanse the world",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71149
+      "UsersEstimate": 71150
     },
     {
       "ID": "achievement_first_death",
@@ -29435,7 +29440,7 @@
       "Name": "Chapter I: Echoes",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 104352
+      "UsersEstimate": 104353
     },
     {
       "ID": "achievement_story_complete_chapter_2",
@@ -29443,7 +29448,7 @@
       "Name": "Chapter II: Fallible Flesh",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 71149
+      "UsersEstimate": 71150
     },
     {
       "ID": "achievement_story_complete_chapter_3",
@@ -29499,7 +29504,7 @@
       "Name": "The Shutdown",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 313057
+      "UsersEstimate": 313058
     },
     {
       "ID": "achievement_story_landa",
@@ -29579,7 +29584,7 @@
       "Name": "Pope Zenon",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 71149
+      "UsersEstimate": 71150
     },
     {
       "ID": "achievement_story_neon_child",
@@ -29859,7 +29864,7 @@
       "Name": "Plan for the worst",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 56919
+      "UsersEstimate": 56920
     },
     {
       "ID": "achievement_win_expedition_without_monster_noloss",
@@ -29867,7 +29872,7 @@
       "Name": "Careful planning",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 184988
+      "UsersEstimate": 184989
     },
     {
       "ID": "achievement_win_run_hard",
@@ -29923,7 +29928,7 @@
       "Name": "Excelsior Rule",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 104352
+      "UsersEstimate": 104353
     },
     {
       "ID": "achievement_unlock_officer_phalanx_1",
@@ -30042,21 +30047,21 @@
     {
       "ID": "7plcbc4",
       "IsBase": false,
-      "Progressed": 18263,
+      "Progressed": 18264,
       "Completed": 2362
     },
     {
       "ID": "8cokdon",
       "IsBase": true,
-      "Progressed": 474329,
+      "Progressed": 474330,
       "Completed": 21
     }
   ],
   "FirstSeen": "2022-07-22T20:24:25.9606454+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:13.4102455+00:00",
   "LastChanged": "2024-01-19T06:58:34.3477894+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:11:41.6070199+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:10:32.8791564+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:55.2971937+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:01:53.0299496+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:11:41.6071764+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:00:12.6020895+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:10:32.8793598+00:00"
 }

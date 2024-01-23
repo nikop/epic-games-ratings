@@ -4,7 +4,7 @@
   "ProductSlug": "wild-hearts",
   "Ranking_EOS_Progress": 280,
   "Ranking_EOS_Completed": 221,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 257,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-02-16T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 1402,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.57,
   "EosHistory": [
@@ -4801,9 +4801,9 @@
       "ID": "achievement_29",
       "SetID": "2cpn27e",
       "Name": "Fair Means or Foul",
-      "Percentage": 29,
+      "Percentage": 30,
       "XP": 15,
-      "UsersEstimate": 407
+      "UsersEstimate": 421
     },
     {
       "ID": "achievement_3",
@@ -5023,8 +5023,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-28T18:06:19.9144369+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:11:10.4541158+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:10:09.7104392+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.4169868+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:02:06.5145865+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:11:10.4541733+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:00:22.1044333+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:10:09.7105128+00:00"
 }

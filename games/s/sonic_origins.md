@@ -12,13 +12,13 @@ Number of Ratings: 154  (23.09.2022)
 | Welcome to Sonic 3 & Knuckles | 69.00% | ~486 |
 | Welcome to Sonic the Hedgehog 2 | 68.00% | ~479 |
 | Ring Collector | 66.00% | ~465 |
-| Time Traveler | 64.00% | ~451 |
+| Time Traveler | 65.00% | ~458 |
 | Everyone's Hero | 62.00% | ~436 |
 | Easy Peasy with Shields | 58.00% | ~408 |
 | Bubbly Breath | 56.00% | ~394 |
 | Gallant Spin Dash | 56.00% | ~394 |
 | Knuckles the Echidna | 55.00% | ~387 |
-| Miles "Tails" Prower | 54.00% | ~380 |
+| Miles "Tails" Prower | 55.00% | ~387 |
 | Boss Rush Attempt | 48.00% | ~338 |
 | Cleared Sonic the Hedgehog | 47.00% | ~331 |
 | Super Sonic | 42.00% | ~296 |

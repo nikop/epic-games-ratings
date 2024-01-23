@@ -5447,9 +5447,9 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83198,
+  "EOS_Progressed": 83201,
   "EOS_Completed": 135,
-  "EOS_NewPlayers": 338,
+  "EOS_NewPlayers": 341,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.16,
   "EosHistory": [
@@ -31257,6 +31257,11 @@
       "Time": "2024-01-23T09:05:27.1175242+00:00",
       "NumProgressed": 83198,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-23T10:04:23.2076822+00:00",
+      "NumProgressed": 83201,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31492,7 +31497,7 @@
       "Name": "To the Victor Go the Spoils",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 22463
+      "UsersEstimate": 22464
     },
     {
       "ID": "FREEZE_1_5",
@@ -31572,7 +31577,7 @@
       "Name": "Har, Har, Har, Very Funny",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 28287
+      "UsersEstimate": 28288
     },
     {
       "ID": "HARLEY_2",
@@ -31612,7 +31617,7 @@
       "Name": "First Step Into the Knight",
       "Percentage": 50,
       "XP": 15,
-      "UsersEstimate": 41599
+      "UsersEstimate": 41600
     },
     {
       "ID": "HERO_PROGRESSION_2",
@@ -31644,7 +31649,7 @@
       "Name": "Knighthood",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 21631
+      "UsersEstimate": 21632
     },
     {
       "ID": "KNIGHTHOOD_2",
@@ -31660,7 +31665,7 @@
       "Name": "Loose Ends",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 27455
+      "UsersEstimate": 27456
     },
     {
       "ID": "MYSTERY_02",
@@ -31755,13 +31760,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83198,
+      "Progressed": 83201,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53478,
+      "Progressed": 53481,
       "Completed": 2680
     }
   ],
@@ -31769,8 +31774,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-22T21:59:03.1947285+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:05:27.117524+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:04:23.2076816+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:01:01.2203747+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:05:27.1176646+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:59:37.7874169+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:04:23.2078168+00:00"
 }

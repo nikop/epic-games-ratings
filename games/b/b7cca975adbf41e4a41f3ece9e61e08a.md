@@ -39,9 +39,9 @@ Rating: 4.69 (Ranked 241)
 | The Flash | 11.00% | ~2,090 |
 | New Yoga Pose Unlocked | 10.00% | ~1,900 |
 | My Dear Love! | 8.00% | ~1,520 |
+| Life Is A Rollercoaster | 8.00% | ~1,520 |
 | Counting Sheep? | 8.00% | ~1,520 |
 | This Ain't Right In Many Ways... | 8.00% | ~1,520 |
-| Life Is A Rollercoaster | 7.00% | ~1,330 |
 | Boys Need To Protect Themselves | 7.00% | ~1,330 |
 | Stubborn Noob | 7.00% | ~1,330 |
 | Hurrah! | 2.00% | ~380 |

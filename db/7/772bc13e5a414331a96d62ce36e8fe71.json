@@ -3,7 +3,7 @@
   "Name": "Carsick Carventure",
   "ProductSlug": "carsick-carventure-d216ba",
   "Ranking_EOS_Progress": 317,
-  "Ranking_EOS_Completed": 55,
+  "Ranking_EOS_Completed": 56,
   "Ranking_EOS_NewPlayers": 206,
   "Ranking_EOS_NewCompleters": 31,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 851,
+  "EOS_Progressed": 852,
   "EOS_Completed": 63,
   "EOS_NewPlayers": 71,
   "EOS_NewCompleters": 10,
-  "EOS_Completed_Percentage": 7.4,
+  "EOS_Completed_Percentage": 7.39,
   "EosHistory": [
     {
       "Time": "2023-12-07T15:03:10.6458391+00:00",
@@ -2844,6 +2844,11 @@
       "Time": "2024-01-23T06:07:53.2512158+00:00",
       "NumProgressed": 851,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-23T10:06:21.7900564+00:00",
+      "NumProgressed": 852,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-12-07T15:03:10.6469952+00:00",
@@ -2872,7 +2877,7 @@
       "Name": "1000 Score",
       "Percentage": 46,
       "XP": 200,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "100_XP",
@@ -2880,7 +2885,7 @@
       "Name": "500 Score",
       "Percentage": 61,
       "XP": 200,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "10_XP",
@@ -2888,21 +2893,21 @@
       "Name": "200 Score",
       "Percentage": 77,
       "XP": 200,
-      "UsersEstimate": 655
+      "UsersEstimate": 656
     }
   ],
   "AchievementSets": [
     {
       "ID": "8d0im30",
       "IsBase": true,
-      "Progressed": 851,
+      "Progressed": 852,
       "Completed": 63
     }
   ],
   "FirstSeen": "2023-12-08T10:57:34.1568649+00:00",
   "FirstSeenAchievements": "2023-12-07T15:03:10.6469952+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:08:13.050361+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:06:21.790056+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.29709+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:02:14.9131147+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:08:13.0503778+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:00:28.0511233+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:06:21.7900769+00:00"
 }

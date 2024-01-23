@@ -362,9 +362,9 @@
       "ID": "NEW_ACHIEVEMENT_2_20",
       "SetID": "85ipd90",
       "Name": "Loyalty IV",
-      "Percentage": 100,
+      "Percentage": 200,
       "XP": 10,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_21",
@@ -848,8 +848,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-07T15:03:10.8160278+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:07:16.0513176+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:05:41.0350597+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8483746+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:00:43.9180175+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:07:16.0514227+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:59:25.3967297+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:05:41.0351433+00:00"
 }

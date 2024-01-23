@@ -5,10 +5,10 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,775 |
-| First of Many | 12.00% | ~35,792 |
-| Not Your Average Trait | 10.00% | ~29,827 |
-| Expanding Horizons | 9.00% | ~26,844 |
+| The Killing Jar | 13.00% | ~38,776 |
+| First of Many | 12.00% | ~35,793 |
+| Not Your Average Trait | 10.00% | ~29,828 |
+| Expanding Horizons | 9.00% | ~26,845 |
 | Gleaming the Cube | 8.00% | ~23,862 |
 | Quest for Survival | 8.00% | ~23,862 |
 | Familiar Face | 8.00% | ~23,862 |
@@ -17,22 +17,22 @@ Rating: 4.72 (Ranked 199)
 | Not So Special Now | 7.00% | ~20,879 |
 | Not a Janitor | 7.00% | ~20,879 |
 | Duality | 7.00% | ~20,879 |
-| Equal Measures | 6.00% | ~17,896 |
-| Blue Goddess | 6.00% | ~17,896 |
-| Top Performer | 6.00% | ~17,896 |
-| Shhh...It's a Secret | 6.00% | ~17,896 |
-| Almost There | 6.00% | ~17,896 |
-| Make Some Room | 6.00% | ~17,896 |
-| Good, But Could Be Better! | 6.00% | ~17,896 |
-| Am I Seeing This? | 5.00% | ~14,913 |
-| Chaos | 5.00% | ~14,913 |
-| Traitor | 5.00% | ~14,913 |
-| Power Surge | 5.00% | ~14,913 |
-| The God Gambit | 5.00% | ~14,913 |
-| Dark Designs | 5.00% | ~14,913 |
-| Was This Supposed To Happen? | 5.00% | ~14,913 |
-| The Web | 5.00% | ~14,913 |
-| Scrap Collector | 5.00% | ~14,913 |
+| Equal Measures | 6.00% | ~17,897 |
+| Blue Goddess | 6.00% | ~17,897 |
+| Top Performer | 6.00% | ~17,897 |
+| Shhh...It's a Secret | 6.00% | ~17,897 |
+| Almost There | 6.00% | ~17,897 |
+| Make Some Room | 6.00% | ~17,897 |
+| Good, But Could Be Better! | 6.00% | ~17,897 |
+| Am I Seeing This? | 5.00% | ~14,914 |
+| Chaos | 5.00% | ~14,914 |
+| Traitor | 5.00% | ~14,914 |
+| Power Surge | 5.00% | ~14,914 |
+| The God Gambit | 5.00% | ~14,914 |
+| Dark Designs | 5.00% | ~14,914 |
+| Was This Supposed To Happen? | 5.00% | ~14,914 |
+| The Web | 5.00% | ~14,914 |
+| Scrap Collector | 5.00% | ~14,914 |
 | Forever is a Long Time Coming | 4.00% | ~11,931 |
 | Madman's Paradise | 4.00% | ~11,931 |
 | The Agenda | 4.00% | ~11,931 |
@@ -48,20 +48,20 @@ Rating: 4.72 (Ranked 199)
 | Transmutate | 3.00% | ~8,948 |
 | Regicide | 3.00% | ~2,323 |
 | Master of the Dark Arts | 3.00% | ~2,323 |
-| Crafty | 2.00% | ~5,965 |
-| Ghost in the Machine | 2.00% | ~5,965 |
-| Only Human | 2.00% | ~5,965 |
-| Red Room | 2.00% | ~5,965 |
-| The Trigger | 2.00% | ~5,965 |
-| Cutting Edge | 2.00% | ~5,965 |
-| The Collector | 2.00% | ~5,965 |
-| Maxed Out! | 2.00% | ~5,965 |
+| Crafty | 2.00% | ~5,966 |
+| Ghost in the Machine | 2.00% | ~5,966 |
+| Only Human | 2.00% | ~5,966 |
+| Red Room | 2.00% | ~5,966 |
+| The Trigger | 2.00% | ~5,966 |
+| Cutting Edge | 2.00% | ~5,966 |
+| The Collector | 2.00% | ~5,966 |
+| Maxed Out! | 2.00% | ~5,966 |
 | Proving Grounds | 1.00% | ~2,983 |
 | Succession | 0.90% | ~697 |
-| You Shall Pass | 0.80% | ~619 |
+| You Shall Pass | 0.80% | ~620 |
 | A Foul Feast | 0.50% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,269 (Ranked 65)  
+Progressed: 298,276 (Ranked 65)  
 Completed: 1,220 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 1,220 (0.41%) (Ranked 246)
 | 2024-01-20 | 297,043 | 1,177 |
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
-| 2024-01-23 | 298,269 | 1,220 |
+| 2024-01-23 | 298,276 | 1,220 |
 ## Awards
 Max (Great Boss Battles): 7,507  (Ranked 56)  
-Sum: 17,199 (Ranked 65)  
+Sum: 17,212 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -267,7 +267,7 @@ Diff (max vs sum): -9
 | This game has Challenging Combat | 999 |
 | This game is Relaxing | 997 |
 | This game has Amazing Storytelling | 985 |
-| This game has Amazing Characters | 946 |
+| This game has Amazing Characters | 959 |
 | This game has Unique Visuals | 875 |
 | This game has a Creative Community | 713 |
 ## Ratings History
@@ -454,4 +454,4 @@ Diff (max vs sum): -9
 | 2024-01-20 | 4.72 | 7,279 | 16,670 |
 | 2024-01-21 | 4.72 | 7,358 | 16,919 |
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
-| 2024-01-23 | 4.72 | 7,507 | 17,199 |
+| 2024-01-23 | 4.72 | 7,507 | 17,212 |

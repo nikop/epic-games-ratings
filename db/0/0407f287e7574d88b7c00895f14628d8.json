@@ -4,7 +4,7 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 238,
+  "EOS_Progressed": 239,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1009,6 +1009,11 @@
       "Time": "2024-01-22T19:03:59.6064352+00:00",
       "NumProgressed": 238,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T10:04:23.1068787+00:00",
+      "NumProgressed": 239,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -1101,7 +1106,7 @@
       "Name": "City Center",
       "Percentage": 50,
       "XP": 20,
-      "UsersEstimate": 119
+      "UsersEstimate": 120
     },
     {
       "ID": "fw2",
@@ -1125,7 +1130,7 @@
       "Name": "Skilled Workers",
       "Percentage": 53,
       "XP": 20,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "g2",
@@ -1229,7 +1234,7 @@
       "Name": "Architect",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 64
+      "UsersEstimate": 65
     },
     {
       "ID": "jz3",
@@ -1269,7 +1274,7 @@
       "Name": "Animal Imports",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "m2",
@@ -1301,7 +1306,7 @@
       "Name": "A Welcoming Settlement",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "r3",
@@ -1331,9 +1336,9 @@
       "ID": "w1",
       "SetID": "b1ggf28",
       "Name": "Against the Cold",
-      "Percentage": 65,
+      "Percentage": 64,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 153
     },
     {
       "ID": "w2",
@@ -1363,9 +1368,9 @@
       "ID": "x2",
       "SetID": "b1ggf28",
       "Name": "Hard-Drinking",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 36
     },
     {
       "ID": "x3",
@@ -1428,14 +1433,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 238,
+      "Progressed": 239,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:05:26.9244033+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:04:23.1068783+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:03:53.4760337+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:05:26.9244378+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:03:16.0491874+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:04:23.1069179+00:00"
 }

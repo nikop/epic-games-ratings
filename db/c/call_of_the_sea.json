@@ -2,13 +2,13 @@
   "ID": "5e427319eea1401ab20c6cd78a4163c4",
   "Name": "Call of the Sea",
   "ProductSlug": "call-of-the-sea",
-  "Ranking_Rating": 779,
+  "Ranking_Rating": 778,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 90,
   "Ranking_EOS_Completed": 190,
   "Ranking_EOS_NewPlayers": 92,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewCompleters": 24,
   "Store": {
     "ReleaseDate": "2022-02-17T15:00:00+00:00",
     "PcReleaseDate": "2020-12-08T13:25:14+00:00",
@@ -325,7 +325,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 140945,
+  "EOS_Progressed": 140949,
   "EOS_Completed": 1279,
   "EOS_NewPlayers": 1003,
   "EOS_NewCompleters": 15,
@@ -32155,6 +32155,11 @@
       "Time": "2024-01-23T09:07:54.2060738+00:00",
       "NumProgressed": 140945,
       "NumCompleted": 1279
+    },
+    {
+      "Time": "2024-01-23T10:06:08.512073+00:00",
+      "NumProgressed": 140949,
+      "NumCompleted": 1279
     }
   ],
   "TotalAchievements": 34,
@@ -32182,7 +32187,7 @@
       "Name": "Interesting...",
       "Percentage": 42,
       "XP": 25,
-      "UsersEstimate": 59197
+      "UsersEstimate": 59199
     },
     {
       "ID": "ACH_GAME_JOURNAL2",
@@ -32190,7 +32195,7 @@
       "Name": "Halfway there",
       "Percentage": 30,
       "XP": 35,
-      "UsersEstimate": 42284
+      "UsersEstimate": 42285
     },
     {
       "ID": "ACH_GAME_JOURNAL3",
@@ -32222,7 +32227,7 @@
       "Name": "A Family Heirloom",
       "Percentage": 80,
       "XP": 25,
-      "UsersEstimate": 112756
+      "UsersEstimate": 112759
     },
     {
       "ID": "ACH_L01_BOAT",
@@ -32238,7 +32243,7 @@
       "Name": "74 miles East of Otaheit\u00E9",
       "Percentage": 56,
       "XP": 30,
-      "UsersEstimate": 78929
+      "UsersEstimate": 78931
     },
     {
       "ID": "ACH_L01_WHITEBEACH_OBJ",
@@ -32246,7 +32251,7 @@
       "Name": "A brigantine, a brig and a barque",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 39465
+      "UsersEstimate": 39466
     },
     {
       "ID": "ACH_L02_BASECAMP_END",
@@ -32254,7 +32259,7 @@
       "Name": "The Everhart Expedition",
       "Percentage": 40,
       "XP": 30,
-      "UsersEstimate": 56378
+      "UsersEstimate": 56380
     },
     {
       "ID": "ACH_L02_BASECAMP_OBJ",
@@ -32262,7 +32267,7 @@
       "Name": "Weekend at Walakea\u0027s",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 39465
+      "UsersEstimate": 39466
     },
     {
       "ID": "ACH_L02_LOGO",
@@ -32278,7 +32283,7 @@
       "Name": "The Vanishing of the Lady Shannon",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 43693
+      "UsersEstimate": 43694
     },
     {
       "ID": "ACH_L03_BLACKBEACH_OBJ",
@@ -32286,7 +32291,7 @@
       "Name": "Marsh Cannery",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 29598
+      "UsersEstimate": 29599
     },
     {
       "ID": "ACH_L03_ORGAN",
@@ -32294,7 +32299,7 @@
       "Name": "Seaside Serenade",
       "Percentage": 31,
       "XP": 25,
-      "UsersEstimate": 43693
+      "UsersEstimate": 43694
     },
     {
       "ID": "ACH_L03_PIANO",
@@ -32318,7 +32323,7 @@
       "Name": "Not Another Boring Slideshow!",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22551
+      "UsersEstimate": 22552
     },
     {
       "ID": "ACH_L04A_MIC",
@@ -32334,7 +32339,7 @@
       "Name": "Quite a Show",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 38055
+      "UsersEstimate": 38056
     },
     {
       "ID": "ACH_L04B_DESERT_END",
@@ -32342,7 +32347,7 @@
       "Name": "506 East Hampden Avenue",
       "Percentage": 28,
       "XP": 25,
-      "UsersEstimate": 39465
+      "UsersEstimate": 39466
     },
     {
       "ID": "ACH_L04B_DESERT_OBJ",
@@ -32350,7 +32355,7 @@
       "Name": "Greetings from Y\u0027ha-nthlei!",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 25370
+      "UsersEstimate": 25371
     },
     {
       "ID": "ACH_L04B_JOURNAL",
@@ -32358,7 +32363,7 @@
       "Name": "The Norahnomicon",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 14094
+      "UsersEstimate": 14095
     },
     {
       "ID": "ACH_L05_NAACAL",
@@ -32366,7 +32371,7 @@
       "Name": "Naacalvision",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 22551
+      "UsersEstimate": 22552
     },
     {
       "ID": "ACH_L05_STREAMS",
@@ -32374,7 +32379,7 @@
       "Name": "Dark Water Ride",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 35236
+      "UsersEstimate": 35237
     },
     {
       "ID": "ACH_L05_TOWN_END",
@@ -32382,7 +32387,7 @@
       "Name": "Sunken",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 35236
+      "UsersEstimate": 35237
     },
     {
       "ID": "ACH_L05_TOWN_OBJ",
@@ -32414,7 +32419,7 @@
       "Name": "Deep Cut",
       "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 35236
+      "UsersEstimate": 35237
     },
     {
       "ID": "ACH_L06_TEMPLE_END",
@@ -32422,7 +32427,7 @@
       "Name": "FHALGOF\u0027N\u0027",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 32417
+      "UsersEstimate": 32418
     },
     {
       "ID": "ACH_L06_TEMPLE_OBJ",
@@ -32437,7 +32442,7 @@
     {
       "ID": "agbm7mn",
       "IsBase": true,
-      "Progressed": 140945,
+      "Progressed": 140949,
       "Completed": 1279
     }
   ],
@@ -32445,8 +32450,8 @@
   "FirstSeenRating": "2022-10-02T01:30:49.7494646+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:18.2456033+00:00",
   "LastChanged": "2024-01-10T13:04:20.7610519+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:07:54.2060735+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:06:08.5120726+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.332386+00:00",
-  "LastUpdate_Ratings": "2024-01-23T08:59:08.4777879+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:07:54.2062369+00:00"
+  "LastUpdate_Ratings": "2024-01-23T09:58:22.8394288+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:06:08.512267+00:00"
 }

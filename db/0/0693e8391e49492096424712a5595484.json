@@ -4,7 +4,7 @@
   "ProductSlug": "pilgrims-6d250f",
   "Ranking_EOS_Progress": 318,
   "Ranking_EOS_Completed": 58,
-  "Ranking_EOS_NewPlayers": 269,
+  "Ranking_EOS_NewPlayers": 270,
   "Ranking_EOS_NewCompleters": 58,
   "Store": {
     "ReleaseDate": "2023-06-16T11:00:00+00:00",
@@ -3472,9 +3472,9 @@
       "ID": "DevilPriest",
       "SetID": "db30heh",
       "Name": "Deal with the Devil",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 577
+      "UsersEstimate": 585
     },
     {
       "ID": "DevilRope",
@@ -3735,8 +3735,8 @@
   ],
   "FirstSeen": "2023-06-19T16:57:06.8280569+00:00",
   "FirstSeenAchievements": "2023-06-13T12:01:22.6015849+00:00",
-  "LastChanged_Achievements": "2024-01-23T09:07:41.7672583+00:00",
+  "LastChanged_Achievements": "2024-01-23T10:05:59.6499449+00:00",
   "LastUpdate_AppInfo": "2024-01-17T03:57:20.2875868+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:03:08.1375673+00:00",
-  "LastUpdate_Achievements": "2024-01-23T09:07:41.7673158+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:00:36.20626+00:00",
+  "LastUpdate_Achievements": "2024-01-23T10:05:59.6499932+00:00"
 }

@@ -10,9 +10,9 @@ Number of Ratings: 12,664  (23.09.2022)
 | Titan's First Steps | 12.00% | ~18,307 |
 | Basic in Bulk | 11.00% | ~16,781 |
 | Tinkle of Coins | 10.00% | ~15,256 |
-| Disintermediation | 8.00% | ~12,204 |
-| It's Free Real Estate | 8.00% | ~12,204 |
-| Capitalism Ho! | 8.00% | ~12,204 |
+| Disintermediation | 8.00% | ~12,205 |
+| It's Free Real Estate | 8.00% | ~12,205 |
+| Capitalism Ho! | 8.00% | ~12,205 |
 | Budding Merchant | 7.00% | ~10,679 |
 | One Easy Payment | 6.00% | ~9,153 |
 | Some Assembly Required | 6.00% | ~9,153 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~610 |
 | Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,555 (Ranked 87)  
+Progressed: 152,558 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-20 | 152,267 | 360 |
 | 2024-01-21 | 152,414 | 360 |
 | 2024-01-22 | 152,516 | 360 |
-| 2024-01-23 | 152,555 | 360 |
+| 2024-01-23 | 152,558 | 360 |
 ## Awards
 Max (Great for Beginners): 4,973  (Ranked 83)  
 Sum: 28,039 (Ranked 52)  

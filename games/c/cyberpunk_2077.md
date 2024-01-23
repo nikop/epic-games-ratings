@@ -6,31 +6,31 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Full Body Conversion | 0.70% | ~7,402 |
-| Right Back At Ya | 0.70% | ~7,402 |
-| The Hermit | 0.70% | ~7,402 |
-| The Wheel of Fortune | 0.70% | ~7,402 |
-| True Soldier | 0.70% | ~7,402 |
+| Full Body Conversion | 0.70% | ~7,403 |
+| Right Back At Ya | 0.70% | ~7,403 |
+| The Hermit | 0.70% | ~7,403 |
+| The Wheel of Fortune | 0.70% | ~7,403 |
+| True Soldier | 0.70% | ~7,403 |
 | Christmas Tree Attack | 0.60% | ~6,345 |
 | Life of the Road | 0.60% | ~6,345 |
 | Stanislavski's Method | 0.60% | ~6,345 |
 | The High Priestess | 0.60% | ~6,345 |
 | The Lovers | 0.60% | ~6,345 |
 | Legend of The Afterlife | 0.60% | ~6,345 |
-| Bushido and Chill | 0.50% | ~5,287 |
-| Gun Fu | 0.50% | ~5,287 |
-| Master Crafter | 0.50% | ~5,287 |
-| The Fool | 0.50% | ~5,287 |
-| The World | 0.50% | ~5,287 |
-| Judy vs Night City | 0.50% | ~5,287 |
+| Bushido and Chill | 0.50% | ~5,288 |
+| Gun Fu | 0.50% | ~5,288 |
+| Master Crafter | 0.50% | ~5,288 |
+| The Fool | 0.50% | ~5,288 |
+| The World | 0.50% | ~5,288 |
+| Judy vs Night City | 0.50% | ~5,288 |
 | All the President's Men | 0.50% | ~931 |
 | Arachnophobia | 0.50% | ~931 |
 | To Protect and Serve | 0.40% | ~4,230 |
 | I Am The Law | 0.40% | ~4,230 |
 | The Quick and the Dead | 0.40% | ~4,230 |
 | True Warrior | 0.40% | ~4,230 |
-| The Wandering Fool | 0.30% | ~3,172 |
-| Two Heads, One Bullet | 0.30% | ~3,172 |
+| The Wandering Fool | 0.30% | ~3,173 |
+| Two Heads, One Bullet | 0.30% | ~3,173 |
 | Spin Doctor | 0.30% | ~558 |
 | To Bad Decisions! | 0.20% | ~2,115 |
 | Breathtaking | 0.20% | ~2,115 |
@@ -40,22 +40,22 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.20% | ~372 |
 | Dirty Deeds | 0.20% | ~372 |
 | Easy Come, Easy Go | 0.20% | ~372 |
-| City Lights | 0.10% | ~1,057 |
-| Autojock | 0.10% | ~1,057 |
-| Frequent Flyer | 0.10% | ~1,057 |
-| Gunslinger | 0.10% | ~1,057 |
-| Mean Streets | 0.10% | ~1,057 |
-| Little Tokyo | 0.10% | ~1,057 |
-| Must Be Rats | 0.10% | ~1,057 |
-| The Wasteland | 0.10% | ~1,057 |
-| Daemon In The Shell | 0.10% | ~1,057 |
-| Temperance | 0.10% | ~1,057 |
-| Rough Landing | 0.10% | ~1,057 |
-| The Devil | 0.10% | ~1,057 |
-| Greetings from Pacifica! | 0.10% | ~1,057 |
-| The Jungle | 0.10% | ~1,057 |
-| V for Vendetta | 0.10% | ~1,057 |
-| It's Elementary | 0.10% | ~1,057 |
+| City Lights | 0.10% | ~1,058 |
+| Autojock | 0.10% | ~1,058 |
+| Frequent Flyer | 0.10% | ~1,058 |
+| Gunslinger | 0.10% | ~1,058 |
+| Mean Streets | 0.10% | ~1,058 |
+| Little Tokyo | 0.10% | ~1,058 |
+| Must Be Rats | 0.10% | ~1,058 |
+| The Wasteland | 0.10% | ~1,058 |
+| Daemon In The Shell | 0.10% | ~1,058 |
+| Temperance | 0.10% | ~1,058 |
+| Rough Landing | 0.10% | ~1,058 |
+| The Devil | 0.10% | ~1,058 |
+| Greetings from Pacifica! | 0.10% | ~1,058 |
+| The Jungle | 0.10% | ~1,058 |
+| V for Vendetta | 0.10% | ~1,058 |
+| It's Elementary | 0.10% | ~1,058 |
 | The APB is Not Enough | 0.10% | ~186 |
 | Relic Ruler | 0.10% | ~186 |
 | Judgement Day | 0.10% | ~186 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,486 (Ranked 17)  
+Progressed: 1,057,514 (Ranked 17)  
 Completed: 3,151 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 3,151 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,486 | 3,151 |
+| 2024-01-23 | 1,057,514 | 3,151 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
 Sum: 514,887 (Ranked 8)  
