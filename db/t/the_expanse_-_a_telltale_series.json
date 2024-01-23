@@ -6,9 +6,9 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 160,
-  "Ranking_EOS_Completed": 256,
+  "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 103,
+  "Ranking_EOS_NewCompleters": 104,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19240,
+  "EOS_Progressed": 19242,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 177,
+  "EOS_NewPlayers": 178,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18047,6 +18047,11 @@
       "Time": "2024-01-23T02:32:59.6419306+00:00",
       "NumProgressed": 19240,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-23T08:05:31.3775948+00:00",
+      "NumProgressed": 19242,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18299,7 +18304,7 @@
       "Name": "Keep Arjun in Check",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 467
+      "UsersEstimate": 468
     },
     {
       "ID": "32",
@@ -18307,7 +18312,7 @@
       "Name": "Safe Cracker",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     },
     {
       "ID": "33",
@@ -18315,7 +18320,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 571
+      "UsersEstimate": 572
     },
     {
       "ID": "34",
@@ -18331,20 +18336,20 @@
       "Name": "Madame Undersecretary",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 519
+      "UsersEstimate": 520
     }
   ],
   "AchievementSets": [
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19240,
+      "Progressed": 19242,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5194,
+      "Progressed": 5196,
       "Completed": 1391
     }
   ],
@@ -18352,8 +18357,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-22T18:58:41.0959252+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:07:04.4170425+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:05:31.3775946+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:59:53.3474778+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:07:04.4171344+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:58:58.6276031+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:05:31.3776746+00:00"
 }

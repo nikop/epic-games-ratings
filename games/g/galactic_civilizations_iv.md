@@ -57,8 +57,8 @@ Number of Ratings: 429  (23.09.2022)
 | Win as the Iconians | 0.50% | ~38 |
 | Commodity Trader - Level 2 | 0.40% | ~30 |
 | Commodity Selling Guru | 0.40% | ~30 |
+| Solid Economy | 0.30% | ~23 |
 | Iconia Reclaimed! | 0.30% | ~23 |
-| Solid Economy | 0.20% | ~15 |
 | Commodity Guru | 0.20% | ~15 |
 | Relic Hoarder | 0.20% | ~15 |
 | Yor Dead Iconians | 0.10% | ~8 |

@@ -23,10 +23,10 @@ Number of Ratings: 9,041  (23.09.2022)
 | Maddening | 0.60% | ~1,532 |
 | Terror in the Dark | 0.60% | ~1,532 |
 | Unearthed Evil | 0.60% | ~1,532 |
+| The Crumbling Temple | 0.60% | ~1,532 |
 | The Contagious Curse | 0.60% | ~1,532 |
 | Beast Mode | 0.50% | ~1,276 |
 | A Mysterious Summons | 0.50% | ~1,276 |
-| The Crumbling Temple | 0.50% | ~1,276 |
 | Exploring Port Nyanzaru | 0.50% | ~1,276 |
 | Escort to Waterdeep | 0.50% | ~1,276 |
 | The Overgrown Grove | 0.50% | ~1,108 |
@@ -121,6 +121,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | Market Fluctuations | 0.20% | ~511 |
 | Once More Into The Breach | 0.20% | ~511 |
 | Wyllowwood | 0.20% | ~511 |
+| An Illithid Undertaking | 0.20% | ~443 |
+| Déjà Vu | 0.20% | ~443 |
 | Into The Fire | 0.20% | ~443 |
 | Dreamscape | 0.20% | ~443 |
 | The Giant's Bane Tavern | 0.20% | ~443 |
@@ -380,11 +382,9 @@ Number of Ratings: 9,041  (23.09.2022)
 | Ettercap Swarm | 0.10% | ~222 |
 | Smooth Talkers | 0.10% | ~222 |
 | Relay Race | 0.10% | ~255 |
-| An Illithid Undertaking | 0.10% | ~222 |
 | An Illithid Ambush | 0.10% | ~222 |
 | Misty Undermountain | 0.10% | ~222 |
 | An Owlbear of an Undertaking | 0.10% | ~222 |
-| Déjà Vu | 0.10% | ~222 |
 | Wait, What? | 0.10% | ~222 |
 | Ireena von Zarovich | 0.10% | ~222 |
 | Déjà Vu All Over Again | 0.10% | ~222 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,256 (Ranked 71)  
+Progressed: 255,262 (Ranked 71)  
 Completed: 2,633 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -831,11 +831,11 @@ Completed: 2,633 (1.03%) (Ranked 180)
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
-| 2024-01-23 | 255,256 | 2,633 |
+| 2024-01-23 | 255,262 | 2,633 |
 ## Awards
-Max (Great for Beginners): 5,813  (Ranked 74)  
+Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,613 (Ranked 41)  
-Diff (max vs sum): 33  
+Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 5,813 |

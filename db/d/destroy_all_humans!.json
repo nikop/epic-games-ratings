@@ -2,12 +2,12 @@
   "ID": "c12a5687fb024192999b2d22c555d4c6",
   "Name": "Destroy All Humans!",
   "ProductSlug": "destroy-all-humans",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 360,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 542,
   "Ranking_EOS_Progress": 350,
   "Ranking_EOS_Completed": 174,
-  "Ranking_EOS_NewPlayers": 225,
+  "Ranking_EOS_NewPlayers": 224,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2020-07-28T17:00:00+00:00",
@@ -305,9 +305,9 @@
       "Count": 35
     }
   ],
-  "EOS_Progressed": 556,
+  "EOS_Progressed": 557,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 50,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.08,
   "EosHistory": [
@@ -2245,6 +2245,11 @@
       "Time": "2024-01-23T06:03:43.5010645+00:00",
       "NumProgressed": 556,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T08:03:45.2490174+00:00",
+      "NumProgressed": 557,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-12-18T10:04:38.3586284+00:00",
@@ -2297,7 +2302,7 @@
       "Name": "Yettisoned",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 339
+      "UsersEstimate": 340
     },
     {
       "ID": "ACH_ABILITY_PKHUMANINTOOCEAN",
@@ -2311,9 +2316,9 @@
       "ID": "ACH_ABILITY_PKTHROWANDCATCHHUMAN",
       "SetID": "cefn62b",
       "Name": "Forbidden Donut",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 206
+      "UsersEstimate": 201
     },
     {
       "ID": "ACH_ABILITY_SCANINHOLOBOB",
@@ -2329,7 +2334,7 @@
       "Name": "Rock of the Bay",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     },
     {
       "ID": "ACH_ABILITY_TRANSMOG",
@@ -2407,17 +2412,17 @@
       "ID": "ACH_CHANGE_SKIN",
       "SetID": "cefn62b",
       "Name": "Earthly Pleasures",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 267
     },
     {
       "ID": "ACH_COLLECT_BRAINWHILEDAMAGED",
       "SetID": "cefn62b",
       "Name": "Kaijuiced",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 400
+      "UsersEstimate": 407
     },
     {
       "ID": "ACH_COLLECT_PROBE",
@@ -2441,7 +2446,7 @@
       "Name": "Albion Bridge Is for Falling Down",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "ACH_ENEMY_KILLROBOPREZ",
@@ -2457,7 +2462,7 @@
       "Name": "Lobster Blisque",
       "Percentage": 54,
       "XP": 15,
-      "UsersEstimate": 300
+      "UsersEstimate": 301
     },
     {
       "ID": "ACH_ENEMY_SILHOUETTE",
@@ -2489,7 +2494,7 @@
       "Name": "Pimp My Raid",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_INVADE_SANTAMODESTA",
@@ -2505,7 +2510,7 @@
       "Name": "Shop Til They Drop",
       "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "ACH_INVADE_UNIONTOWN",
@@ -2529,7 +2534,7 @@
       "Name": "Bodied Sattva",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 211
+      "UsersEstimate": 212
     },
     {
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
@@ -2553,7 +2558,7 @@
       "Name": "Perfect Probulator",
       "Percentage": 59,
       "XP": 15,
-      "UsersEstimate": 328
+      "UsersEstimate": 329
     },
     {
       "ID": "ACH_UPGRADE_SAUCER",
@@ -2561,7 +2566,7 @@
       "Name": "Ducks in a Row, Fish in a Barrel",
       "Percentage": 49,
       "XP": 15,
-      "UsersEstimate": 272
+      "UsersEstimate": 273
     },
     {
       "ID": "ACH_UPGRADE_TOPTIER",
@@ -2576,15 +2581,15 @@
     {
       "ID": "cefn62b",
       "IsBase": true,
-      "Progressed": 556,
+      "Progressed": 557,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:26:21.4096772+00:00",
   "FirstSeenAchievements": "2023-11-29T08:03:30.414682+00:00",
   "LastChanged": "2024-01-02T13:57:49.2378657+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:04:37.634555+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:03:45.2490172+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:24.5329483+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:58:41.5675772+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:04:37.6345933+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:58:07.9300595+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:03:45.2490509+00:00"
 }

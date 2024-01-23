@@ -6,29 +6,29 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~345,934 |
-| good drivers have dead flies on the side windows | 32.00% | ~138,374 |
-| keep it tidy | 26.00% | ~112,429 |
-| brail | 26.00% | ~112,429 |
-| car wash | 23.00% | ~99,456 |
-| the artist | 23.00% | ~99,456 |
-| podium | 20.00% | ~86,484 |
-| medium attack | 17.00% | ~73,511 |
-| bicycle race | 6.00% | ~25,945 |
-| grocery-getter | 5.00% | ~21,621 |
-| autopilot | 4.00% | ~17,297 |
-| night ride | 4.00% | ~17,297 |
-| rwd only | 3.00% | ~12,973 |
-| where is the stage? | 3.00% | ~12,973 |
-| snorkel | 3.00% | ~12,973 |
-| food tour: pasta | 3.00% | ~12,973 |
-| to finish first, first you must finish | 2.00% | ~8,648 |
-| perkele | 2.00% | ~8,648 |
-| turbo | 2.00% | ~8,648 |
-| if in doubt, flat out! | 2.00% | ~8,648 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,648 |
-| mittens | 2.00% | ~8,648 |
-| food tour: pretzel | 2.00% | ~8,648 |
+| light attack | 80.00% | ~345,960 |
+| good drivers have dead flies on the side windows | 32.00% | ~138,384 |
+| keep it tidy | 26.00% | ~112,437 |
+| brail | 26.00% | ~112,437 |
+| car wash | 23.00% | ~99,464 |
+| the artist | 23.00% | ~99,464 |
+| podium | 20.00% | ~86,490 |
+| medium attack | 17.00% | ~73,516 |
+| bicycle race | 6.00% | ~25,947 |
+| grocery-getter | 5.00% | ~21,622 |
+| autopilot | 4.00% | ~17,298 |
+| night ride | 4.00% | ~17,298 |
+| rwd only | 3.00% | ~12,974 |
+| where is the stage? | 3.00% | ~12,974 |
+| snorkel | 3.00% | ~12,974 |
+| food tour: pasta | 3.00% | ~12,974 |
+| to finish first, first you must finish | 2.00% | ~8,649 |
+| perkele | 2.00% | ~8,649 |
+| turbo | 2.00% | ~8,649 |
+| if in doubt, flat out! | 2.00% | ~8,649 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,649 |
+| mittens | 2.00% | ~8,649 |
+| food tour: pretzel | 2.00% | ~8,649 |
 | espresso | 1.00% | ~4,324 |
 | monster | 1.00% | ~4,324 |
 | in like a lamb, out like a lion | 1.00% | ~4,324 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~432 |
 | you're here for a good time, not a long time | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,418 (Ranked 47)  
+Progressed: 432,450 (Ranked 47)  
 Completed: 27 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 27 (0.01%) (Ranked 383)
 | 2024-01-20 | 429,113 | 26 |
 | 2024-01-21 | 430,837 | 26 |
 | 2024-01-22 | 432,130 | 27 |
-| 2024-01-23 | 432,418 | 27 |
+| 2024-01-23 | 432,450 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
 Sum: 306 (Ranked 384)  

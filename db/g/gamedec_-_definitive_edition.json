@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258637,
+  "EOS_Progressed": 258638,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 663,
+  "EOS_NewPlayers": 661,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31702,6 +31702,11 @@
       "Time": "2024-01-23T07:07:30.6785382+00:00",
       "NumProgressed": 258637,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T08:05:50.5718485+00:00",
+      "NumProgressed": 258638,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31737,7 +31742,7 @@
       "Name": "BOY!",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 10345
+      "UsersEstimate": 10346
     },
     {
       "ID": "ACH_CATNIPCATNIP",
@@ -31753,7 +31758,7 @@
       "Name": "Collector",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 31036
+      "UsersEstimate": 31037
     },
     {
       "ID": "ACH_ENJOY",
@@ -31881,7 +31886,7 @@
       "Name": "Ka-ching!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 10345
+      "UsersEstimate": 10346
     },
     {
       "ID": "ACH_LETMEOUT",
@@ -31929,7 +31934,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64659
+      "UsersEstimate": 64660
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -32033,7 +32038,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64659
+      "UsersEstimate": 64660
     },
     {
       "ID": "ACH_SOREAD",
@@ -32041,7 +32046,7 @@
       "Name": "So you like to read?",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 10345
+      "UsersEstimate": 10346
     },
     {
       "ID": "ACH_TAKEBLUEPILL",
@@ -32128,7 +32133,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258637,
+      "Progressed": 258638,
       "Completed": 8
     }
   ],
@@ -32136,8 +32141,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:07:30.6785376+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:05:50.5718481+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:03:32.3020272+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:07:30.6786878+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:02:59.1291302+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:05:50.5720587+00:00"
 }

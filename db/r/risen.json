@@ -2,12 +2,12 @@
   "ID": "fee7e9420cd849c3a8e7d09b2622f9b3",
   "Name": "Risen",
   "ProductSlug": "risen-e8e55e",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 430,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 329,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.59,
+  "Rating": 4.6,
   "RatingHistory": [
     {
       "Time": "2023-03-31T05:58:38.3860804+00:00",
@@ -107,15 +107,21 @@
       "Rating": 4.59,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-23T07:58:03.0213162+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 213,
+  "EOS_Progressed": 214,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1123,6 +1129,11 @@
       "Time": "2024-01-21T13:14:21.7253108+00:00",
       "NumProgressed": 213,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T08:10:23.1959706+00:00",
+      "NumProgressed": 214,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-20T08:07:32.4989951+00:00",
@@ -1157,9 +1168,9 @@
       "ID": "id_14",
       "SetID": "bk9jib6",
       "Name": "Death of a legend",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 47
+      "UsersEstimate": 45
     },
     {
       "ID": "id_15",
@@ -1175,7 +1186,7 @@
       "Name": "Little hero",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "id_17",
@@ -1189,9 +1200,9 @@
       "ID": "id_18",
       "SetID": "bk9jib6",
       "Name": "Defender",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 30
     },
     {
       "ID": "id_19",
@@ -1207,7 +1218,7 @@
       "Name": "Field hand",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "id_20",
@@ -1247,7 +1258,7 @@
       "Name": "Titan Lord",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "id_3",
@@ -1255,7 +1266,7 @@
       "Name": "Philanthropist",
       "Percentage": 62,
       "XP": 10,
-      "UsersEstimate": 132
+      "UsersEstimate": 133
     },
     {
       "ID": "id_30",
@@ -1263,7 +1274,7 @@
       "Name": "Beginner",
       "Percentage": 90,
       "XP": 10,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "id_32",
@@ -1279,7 +1290,7 @@
       "Name": "Ferocious wild boars",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "id_34",
@@ -1317,9 +1328,9 @@
       "ID": "id_42",
       "SetID": "bk9jib6",
       "Name": "Ogre friend",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 47
     },
     {
       "ID": "id_43",
@@ -1399,7 +1410,7 @@
       "Name": "The fourth triplet",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "id_52",
@@ -1407,7 +1418,7 @@
       "Name": "Idiot",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "id_53",
@@ -1447,7 +1458,7 @@
       "Name": "Well-to-do",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "id_58",
@@ -1479,7 +1490,7 @@
       "Name": "Adventurer",
       "Percentage": 65,
       "XP": 10,
-      "UsersEstimate": 138
+      "UsersEstimate": 139
     },
     {
       "ID": "id_61",
@@ -1519,7 +1530,7 @@
       "Name": "Sidelined",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "id_9",
@@ -1534,16 +1545,16 @@
     {
       "ID": "bk9jib6",
       "IsBase": true,
-      "Progressed": 213,
+      "Progressed": 214,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-02-17T13:13:36.4148926+00:00",
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
-  "LastChanged": "2024-01-21T07:02:18.1071448+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:11:44.0755116+00:00",
+  "LastChanged": "2024-01-23T07:58:03.0213159+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:10:23.1959703+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:58:34.378025+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:11:44.0755442+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:58:03.0213164+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:10:23.1960448+00:00"
 }

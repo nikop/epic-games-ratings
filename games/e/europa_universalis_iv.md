@@ -12,7 +12,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Victorious! | 0.60% | ~3,025 |
 | That's a Grand Navy | 0.50% | ~2,521 |
 | Seriously?! | 0.50% | ~2,521 |
-| Brothers in Arms | 0.40% | ~2,016 |
+| Brothers in Arms | 0.40% | ~2,017 |
 | Cold War | 0.30% | ~1,512 |
 | Defender of the Faith | 0.30% | ~1,512 |
 | For the Glory | 0.30% | ~1,512 |
@@ -370,7 +370,7 @@ Number of Ratings: 8,414  (23.09.2022)
 | Truly Good Maaaaa-tch | 0.10% | ~504 |
 | The Zoro-Austrians | 0.10% | ~504 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 504,116 (Ranked 42)  
+Progressed: 504,130 (Ranked 42)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -648,7 +648,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-20 | 502,741 | 2 |
 | 2024-01-21 | 503,481 | 2 |
 | 2024-01-22 | 504,018 | 2 |
-| 2024-01-23 | 504,116 | 2 |
+| 2024-01-23 | 504,130 | 2 |
 ## Awards
 Max (Educational): 7,951  (Ranked 53)  
 Sum: 65,554 (Ranked 25)  

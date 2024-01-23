@@ -11190,9 +11190,9 @@
       "Count": 1113
     }
   ],
-  "EOS_Progressed": 133534,
+  "EOS_Progressed": 133536,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 568,
+  "EOS_NewPlayers": 565,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41145,6 +41145,11 @@
       "Time": "2024-01-23T07:11:41.759976+00:00",
       "NumProgressed": 133534,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T08:10:21.3242284+00:00",
+      "NumProgressed": 133536,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41284,7 +41289,7 @@
       "Name": "This Belongs in a Museum",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 9347
+      "UsersEstimate": 9348
     },
     {
       "ID": "combat_kill_cadavers",
@@ -41316,7 +41321,7 @@
       "Name": "Creep and Sleep",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9347
+      "UsersEstimate": 9348
     },
     {
       "ID": "combat_kill_fanatics",
@@ -41380,7 +41385,7 @@
       "Name": "Overdue Notice",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 9347
+      "UsersEstimate": 9348
     },
     {
       "ID": "combat_kill_pillagers",
@@ -41692,7 +41697,7 @@
       "Name": "Malpractice Assurance",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 1260
+      "UsersEstimate": 1261
     },
     {
       "ID": "combat_kill_collector",
@@ -41778,30 +41783,30 @@
       "ID": "run_victory_final_boss_hwy_cru",
       "SetID": "d3bcpc8",
       "Name": "On This Long Road, We Found Redemption",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 50,
-      "UsersEstimate": 50
+      "UsersEstimate": 59
     }
   ],
   "AchievementSets": [
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133534,
+      "Progressed": 133536,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8403,
+      "Progressed": 8405,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-23T01:49:36.0565864+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:11:41.7599755+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:10:21.3242281+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:00:13.7434524+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:11:41.7601531+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:59:12.1404555+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:10:21.3244223+00:00"
 }

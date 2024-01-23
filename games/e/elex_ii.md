@@ -26,9 +26,9 @@ Number of Ratings: 124  (23.09.2022)
 | Globetrotter | 15.00% | ~42 |
 | Hunter | 13.00% | ~37 |
 | Lover | 13.00% | ~37 |
+| Beam Me Up | 12.00% | ~34 |
 | Alb | 12.00% | ~34 |
 | Perfectionist | 12.00% | ~34 |
-| Beam Me Up | 11.00% | ~31 |
 | Free as a Bird | 11.00% | ~31 |
 | Treasure Hunter | 9.00% | ~25 |
 | Weaponsmith | 8.00% | ~23 |

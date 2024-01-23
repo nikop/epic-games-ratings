@@ -4,30 +4,30 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Home Sweet Home | 87.00% | ~137 |
-| Enough rooms to swing a cat | 78.00% | ~123 |
-| First to the post | 78.00% | ~123 |
-| A kind of Magic | 68.00% | ~107 |
-| Connected | 56.00% | ~88 |
+| Home Sweet Home | 87.00% | ~138 |
+| Enough rooms to swing a cat | 79.00% | ~126 |
+| First to the post | 79.00% | ~126 |
+| A kind of Magic | 69.00% | ~110 |
+| Connected | 56.00% | ~89 |
 | Expansion | 53.00% | ~84 |
-| Mine! | 53.00% | ~84 |
+| Mine! | 52.00% | ~83 |
 | Harvest Time | 51.00% | ~81 |
-| Artificer's Apprentice | 44.00% | ~70 |
+| Artificer's Apprentice | 45.00% | ~72 |
 | Fly the friendly Sky | 41.00% | ~65 |
-| Get out of here! | 39.00% | ~62 |
-| Necromancer's Apprentice | 37.00% | ~58 |
+| Necromancer's Apprentice | 38.00% | ~60 |
+| Get out of here! | 38.00% | ~60 |
 | Alchemist's Apprentice | 36.00% | ~57 |
 | Friend of Lyraine | 32.00% | ~51 |
-| Redecorating | 28.00% | ~44 |
-| The Circle | 28.00% | ~44 |
+| Redecorating | 28.00% | ~45 |
+| The Circle | 28.00% | ~45 |
 | Bad JuJu | 24.00% | ~38 |
 | Friend of Sevenkeeps | 21.00% | ~33 |
-| Slave to the rhythm | 20.00% | ~32 |
+| Slave to the rhythm | 19.00% | ~30 |
 | Castle Meldec | 19.00% | ~30 |
-| Sevenkeeps Seat of Kings | 18.00% | ~28 |
+| Sevenkeeps Seat of Kings | 18.00% | ~29 |
 | Friend of Alluvyan | 16.00% | ~25 |
-| Friend of Gillyshire | 15.00% | ~24 |
 | Friend of Connach | 15.00% | ~24 |
+| Friend of Gillyshire | 14.00% | ~22 |
 | Friend of Orgash | 14.00% | ~22 |
 | Friend of Silver Drift Hollow | 14.00% | ~22 |
 | Silver Drift Hollow Mine | 12.00% | ~19 |
@@ -50,17 +50,17 @@
 | Fireforge | 8.00% | ~13 |
 | Friend of Uram Gor | 8.00% | ~13 |
 | Crypt of the Revenant | 7.00% | ~11 |
-| Get to the Airship! | 6.00% | ~9 |
-| Defeat Ianna | 6.00% | ~9 |
-| Defeat Raith | 6.00% | ~9 |
-| Defeat Undergast | 6.00% | ~9 |
-| Elynn's Tale | 6.00% | ~9 |
-| Lore's Tale | 6.00% | ~9 |
-| Master Artificer | 6.00% | ~9 |
-| Heroes | 6.00% | ~9 |
-| My Friends! | 6.00% | ~9 |
-| Balanced | 6.00% | ~9 |
-| Friend of Grey Dusk Vale | 6.00% | ~9 |
+| Get to the Airship! | 6.00% | ~10 |
+| Defeat Ianna | 6.00% | ~10 |
+| Defeat Raith | 6.00% | ~10 |
+| Defeat Undergast | 6.00% | ~10 |
+| Elynn's Tale | 6.00% | ~10 |
+| Lore's Tale | 6.00% | ~10 |
+| Master Artificer | 6.00% | ~10 |
+| Heroes | 6.00% | ~10 |
+| My Friends! | 6.00% | ~10 |
+| Balanced | 6.00% | ~10 |
+| Friend of Grey Dusk Vale | 6.00% | ~10 |
 | Defeat Yria | 5.00% | ~8 |
 | Misty Coast Dragonbones | 5.00% | ~8 |
 | Master Alchemist | 5.00% | ~8 |
@@ -75,7 +75,7 @@
 | Master Smith | 0.00% | ~0 |
 | From the Graves to the Cradle | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 158 (Ranked 461)  
+Progressed: 159 (Ranked 461)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -143,6 +143,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 152 | 0 |
 | 2024-01-20 | 156 | 0 |
 | 2024-01-22 | 158 | 0 |
+| 2024-01-23 | 159 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

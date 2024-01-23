@@ -3,12 +3,12 @@
   "Name": "Idle Champions of the Forgotten Realms",
   "ProductSlug": "idle-champions-of-the-forgotten-realms",
   "Ranking_Rating": 1044,
-  "Ranking_Popularity": 74,
+  "Ranking_Popularity": 75,
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 180,
   "Ranking_EOS_NewPlayers": 81,
-  "Ranking_EOS_NewCompleters": 25,
+  "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
     "PcReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9781,7 +9781,7 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255256,
+  "EOS_Progressed": 255262,
   "EOS_Completed": 2633,
   "EOS_NewPlayers": 1125,
   "EOS_NewCompleters": 14,
@@ -41316,6 +41316,11 @@
       "Time": "2024-01-23T07:11:55.9693951+00:00",
       "NumProgressed": 255256,
       "NumCompleted": 2633
+    },
+    {
+      "Time": "2024-01-23T08:10:33.150152+00:00",
+      "NumProgressed": 255262,
+      "NumCompleted": 2633
     }
   ],
   "TotalAchievements": 546,
@@ -43013,9 +43018,9 @@
       "ID": "objective_completed_35",
       "SetID": "cc37lbc",
       "Name": "The Crumbling Temple",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 1276
+      "UsersEstimate": 1532
     },
     {
       "ID": "objective_completed_36",
@@ -44029,9 +44034,9 @@
       "ID": "objective_completed_620",
       "SetID": "415jc5c",
       "Name": "An Illithid Undertaking",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_621",
@@ -44061,9 +44066,9 @@
       "ID": "objective_completed_625",
       "SetID": "415jc5c",
       "Name": "D\u00E9j\u00E0 Vu",
-      "Percentage": 0.1,
+      "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 222
+      "UsersEstimate": 443
     },
     {
       "ID": "objective_completed_626",
@@ -45694,21 +45699,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221530,
-      "Completed": 4158
+      "Progressed": 221536,
+      "Completed": 4159
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255256,
+      "Progressed": 255262,
       "Completed": 2633
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-23T06:58:44.3058378+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:11:55.9693945+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:10:33.1501517+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:58:44.3058385+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:11:55.9716775+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:58:09.8206626+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:10:33.1524592+00:00"
 }

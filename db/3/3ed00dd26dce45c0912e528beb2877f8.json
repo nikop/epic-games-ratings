@@ -4,7 +4,7 @@
   "ProductSlug": "formula-evolution-2024-085f66",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 553,
+  "Ranking_EOS_NewPlayers": 551,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2024-05-27T12:00:00+00:00",
@@ -306,8 +306,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-22T13:11:28.0449271+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:04:47.4034851+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:03:52.396793+00:00",
   "LastUpdate_AppInfo": "2024-01-22T13:04:52.1040857+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:57:46.5877442+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:04:47.403504+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:57:29.327862+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:03:52.3968152+00:00"
 }

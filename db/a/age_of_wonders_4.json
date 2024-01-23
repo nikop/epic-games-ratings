@@ -2,7 +2,7 @@
   "ID": "61375e6a52534a1aa2d8ba6d46f9ee64",
   "Name": "Age of Wonders 4",
   "ProductSlug": "age-of-wonders-4",
-  "Ranking_Rating": 359,
+  "Ranking_Rating": 360,
   "Ranking_Popularity": 484,
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 201,
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7288,
+  "EOS_Progressed": 7290,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11445,6 +11445,11 @@
       "Time": "2024-01-23T00:07:19.8324598+00:00",
       "NumProgressed": 7288,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T08:05:48.9889803+00:00",
+      "NumProgressed": 7290,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11576,7 +11581,7 @@
       "Name": "A Wonderful Discovery",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "24",
@@ -11592,7 +11597,7 @@
       "Name": "Walls Cannot Stop Us",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1093
+      "UsersEstimate": 1094
     },
     {
       "ID": "26",
@@ -11616,7 +11621,7 @@
       "Name": "From Friends to Family",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 947
+      "UsersEstimate": 948
     },
     {
       "ID": "29",
@@ -11935,13 +11940,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7288,
+      "Progressed": 7290,
       "Completed": 4769
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7288,
+      "Progressed": 7290,
       "Completed": 8
     }
   ],
@@ -11949,8 +11954,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-22T17:00:50.4216722+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:07:28.4731275+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:05:48.98898+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:03:06.4966211+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:07:28.4732209+00:00"
+  "LastUpdate_Ratings": "2024-01-23T08:02:40.2702958+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:05:48.9890952+00:00"
 }

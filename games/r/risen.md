@@ -1,42 +1,42 @@
 # Risen
 [Store](https://store.epicgames.com/en-US/p/risen-e8e55e)  
 [View Rawdata](../../db/r/risen.json)  
-Rating: 4.59 (Ranked 455)  
+Rating: 4.60 (Ranked 430)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Beginner | 90.00% | ~192 |
+| Beginner | 90.00% | ~193 |
 | Map reader | 66.00% | ~141 |
-| Adventurer | 65.00% | ~138 |
-| Philanthropist | 62.00% | ~132 |
+| Adventurer | 65.00% | ~139 |
+| Philanthropist | 62.00% | ~133 |
 | The brave little tailor | 43.00% | ~92 |
 | Archer | 43.00% | ~92 |
-| Field hand | 40.00% | ~85 |
-| Well-to-do | 34.00% | ~72 |
+| Field hand | 40.00% | ~86 |
+| Well-to-do | 34.00% | ~73 |
 | Samaritan | 31.00% | ~66 |
 | The merciful one | 30.00% | ~64 |
 | Ladies' man | 30.00% | ~64 |
-| Ferocious wild boars | 25.00% | ~53 |
-| Idiot | 25.00% | ~53 |
+| Ferocious wild boars | 25.00% | ~54 |
+| Idiot | 25.00% | ~54 |
 | Beast slayer | 23.00% | ~49 |
-| Ogre friend | 23.00% | ~49 |
-| Death of a legend | 22.00% | ~47 |
+| Ogre friend | 22.00% | ~47 |
+| Death of a legend | 21.00% | ~45 |
 | Archaeologist | 21.00% | ~45 |
 | Family man | 20.00% | ~43 |
-| Little hero | 19.00% | ~40 |
-| Sidelined | 19.00% | ~40 |
-| The fourth triplet | 18.00% | ~38 |
+| Little hero | 19.00% | ~41 |
+| Sidelined | 19.00% | ~41 |
+| The fourth triplet | 18.00% | ~39 |
 | Wise man | 17.00% | ~36 |
 | Fence | 17.00% | ~36 |
 | Pandora's box | 16.00% | ~34 |
 | Ghost hunter | 16.00% | ~34 |
 | Hard worker | 16.00% | ~34 |
-| Defender | 15.00% | ~32 |
 | Master detective | 15.00% | ~32 |
+| Defender | 14.00% | ~30 |
 | Showdown | 14.00% | ~30 |
 | Peacekeeper | 14.00% | ~30 |
 | Workaholic | 13.00% | ~28 |
-| Titan Lord | 11.00% | ~23 |
+| Titan Lord | 11.00% | ~24 |
 | Master thief | 10.00% | ~21 |
 | Freedom fighter | 9.00% | ~19 |
 | Safecracker | 9.00% | ~19 |
@@ -56,7 +56,7 @@ Rating: 4.59 (Ranked 455)
 | Master of the classes | 0.50% | ~1 |
 | Weaponsmith | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 213 (Ranked 433)  
+Progressed: 214 (Ranked 433)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -138,6 +138,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 208 | 0 |
 | 2024-01-20 | 210 | 0 |
 | 2024-01-21 | 213 | 0 |
+| 2024-01-23 | 214 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -155,3 +156,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-07 | 4.56 | 0 | 0 |
 | 2024-01-15 | 4.58 | 0 | 0 |
 | 2024-01-21 | 4.59 | 0 | 0 |
+| 2024-01-23 | 4.60 | 0 | 0 |

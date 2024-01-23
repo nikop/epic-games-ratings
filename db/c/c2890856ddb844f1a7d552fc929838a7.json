@@ -6504,9 +6504,9 @@
       "ID": "AC11",
       "SetID": "l4abp0",
       "Name": "A Heart of Gold",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 30,
-      "UsersEstimate": 913
+      "UsersEstimate": 939
     },
     {
       "ID": "AC12",
@@ -6793,8 +6793,8 @@
   "FirstSeenRating": "2023-08-31T05:00:39.0192377+00:00",
   "FirstSeenAchievements": "2023-08-01T13:10:06.4465845+00:00",
   "LastChanged": "2024-01-21T01:56:07.2625295+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:09:08.7523531+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:08:29.923624+00:00",
   "LastUpdate_AppInfo": "2024-01-17T05:57:14.9519089+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:59:36.562535+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:09:08.7524041+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:58:45.4968321+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:08:29.9236921+00:00"
 }

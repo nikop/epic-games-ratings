@@ -6,24 +6,24 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,454 |
-| Overkill | 33.00% | ~11,683 |
-| Vaccine Incoming | 31.00% | ~10,975 |
-| A normal day in Gloomhaven | 29.00% | ~10,267 |
-| Spread the plague | 26.00% | ~9,205 |
-| Get over here! | 24.00% | ~8,497 |
+| I'm not dead yet | 38.00% | ~13,455 |
+| Overkill | 33.00% | ~11,684 |
+| Vaccine Incoming | 31.00% | ~10,976 |
+| A normal day in Gloomhaven | 29.00% | ~10,268 |
+| Spread the plague | 26.00% | ~9,206 |
+| Get over here! | 24.00% | ~8,498 |
 | Just when I thought I was out... | 19.00% | ~6,727 |
 | Mine... All Mine... | 16.00% | ~5,665 |
 | Precious! | 15.00% | ~5,311 |
 | Grizzled veteran | 14.00% | ~4,957 |
 | Anatomy Lesson | 14.00% | ~4,957 |
-| Who's the Boss? | 12.00% | ~4,248 |
-| You activated my trap card! | 12.00% | ~4,248 |
-| Obstacle race | 12.00% | ~4,248 |
-| Light of my life | 12.00% | ~4,248 |
-| Augmented rat | 10.00% | ~3,540 |
-| Doom and gloom | 9.00% | ~3,186 |
-| Dungeon Veteran | 8.00% | ~2,832 |
+| Who's the Boss? | 12.00% | ~4,249 |
+| You activated my trap card! | 12.00% | ~4,249 |
+| Obstacle race | 12.00% | ~4,249 |
+| Light of my life | 12.00% | ~4,249 |
+| Augmented rat | 10.00% | ~3,541 |
+| Doom and gloom | 9.00% | ~3,187 |
+| Dungeon Veteran | 8.00% | ~2,833 |
 | Pack leader | 7.00% | ~2,478 |
 | Pain is your friend | 7.00% | ~2,478 |
 | Black death | 7.00% | ~2,478 |
@@ -68,7 +68,7 @@ Number of Ratings: 68  (23.09.2022)
 | Hard-travelling Heroes | 0.10% | ~35 |
 | Murder Death Kill | 0.10% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,404 (Ranked 140)  
+Progressed: 35,407 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 1 (0.00%) (Ranked 409)
 | 2024-01-20 | 34,921 | 1 |
 | 2024-01-21 | 35,178 | 1 |
 | 2024-01-22 | 35,356 | 1 |
-| 2024-01-23 | 35,404 | 1 |
+| 2024-01-23 | 35,407 | 1 |
 ## Awards
 Max (Character Customization): 3,626  (Ranked 96)  
 Sum: 8,503 (Ranked 110)  

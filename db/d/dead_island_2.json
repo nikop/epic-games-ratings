@@ -9117,9 +9117,9 @@
       "Count": 707
     }
   ],
-  "EOS_Progressed": 808440,
+  "EOS_Progressed": 808447,
   "EOS_Completed": 2625,
-  "EOS_NewPlayers": 4028,
+  "EOS_NewPlayers": 4017,
   "EOS_NewCompleters": 34,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -41182,6 +41182,11 @@
       "Time": "2024-01-23T07:11:26.6884485+00:00",
       "NumProgressed": 808440,
       "NumCompleted": 2625
+    },
+    {
+      "Time": "2024-01-23T08:10:10.0622767+00:00",
+      "NumProgressed": 808447,
+      "NumCompleted": 2625
     }
   ],
   "TotalAchievements": 51,
@@ -41193,7 +41198,7 @@
       "Name": "Dr. Reed, I Presume?",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48506
+      "UsersEstimate": 48507
     },
     {
       "ID": "ach_a_taste_of_stardom",
@@ -41249,7 +41254,7 @@
       "Name": "Bookworm",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 48506
+      "UsersEstimate": 48507
     },
     {
       "ID": "ach_break_a_leg",
@@ -41313,7 +41318,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64675
+      "UsersEstimate": 64676
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -41337,7 +41342,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64675
+      "UsersEstimate": 64676
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -41345,7 +41350,7 @@
       "Name": "Friends Like These",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48506
+      "UsersEstimate": 48507
     },
     {
       "ID": "ach_hotel_california",
@@ -41353,7 +41358,7 @@
       "Name": "Hotel California",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80844
+      "UsersEstimate": 80845
     },
     {
       "ID": "ach_impressive_aim",
@@ -41465,7 +41470,7 @@
       "Name": "Stacking the Deck",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48506
+      "UsersEstimate": 48507
     },
     {
       "ID": "ach_star_performance",
@@ -41513,7 +41518,7 @@
       "Name": "This is My Weapon",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 48506
+      "UsersEstimate": 48507
     },
     {
       "ID": "ach_weapon_wrangler",
@@ -41529,7 +41534,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88928
+      "UsersEstimate": 88929
     },
     {
       "ID": "ach_well_known_survivor",
@@ -41561,7 +41566,7 @@
       "Name": "Whatever It Takes",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 5359
+      "UsersEstimate": 5360
     },
     {
       "ID": "ach_gardening_tools",
@@ -41577,7 +41582,7 @@
       "Name": "Pork Chopped",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 5359
+      "UsersEstimate": 5360
     },
     {
       "ID": "ach_this_is_deeper_v2",
@@ -41600,22 +41605,22 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 808440,
+      "Progressed": 808447,
       "Completed": 2625
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 133984,
-      "Completed": 36806
+      "Progressed": 133991,
+      "Completed": 36807
     }
   ],
   "FirstSeen": "2023-04-21T14:57:30.4641587+00:00",
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-23T01:48:18.272292+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:11:26.688448+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:10:10.0622764+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.3560603+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:58:16.5191963+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:11:26.6886486+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:57:50.5570054+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:10:10.062492+00:00"
 }

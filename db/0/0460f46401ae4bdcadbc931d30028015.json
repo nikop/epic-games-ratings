@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 350,
   "Ranking_EOS_Progress": 183,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 124,
+  "Ranking_EOS_NewPlayers": 125,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1869,9 +1869,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 11353,
+  "EOS_Progressed": 11354,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 531,
+  "EOS_NewPlayers": 524,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12459,6 +12459,11 @@
       "Time": "2024-01-23T07:07:46.1470649+00:00",
       "NumProgressed": 11353,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T08:06:01.9495745+00:00",
+      "NumProgressed": 11354,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12567,7 +12572,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6698
+      "UsersEstimate": 6699
     },
     {
       "ID": "achievement_21",
@@ -12623,7 +12628,7 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 3065
+      "UsersEstimate": 3066
     },
     {
       "ID": "achievement_9",
@@ -12631,14 +12636,14 @@
       "Name": "Future of the Franchise",
       "Percentage": 14,
       "XP": 50,
-      "UsersEstimate": 1589
+      "UsersEstimate": 1590
     }
   ],
   "AchievementSets": [
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11353,
+      "Progressed": 11354,
       "Completed": 0
     }
   ],
@@ -12646,8 +12651,8 @@
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
   "LastChanged": "2024-01-23T02:57:24.5739839+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:07:46.1470644+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:06:01.9495742+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:57:29.4295592+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:07:46.1471314+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:57:17.6662047+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:06:01.9496598+00:00"
 }

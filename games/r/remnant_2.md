@@ -5,25 +5,25 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 12.00% | ~35,790 |
-| First of Many | 12.00% | ~35,790 |
-| Not Your Average Trait | 10.00% | ~29,825 |
+| The Killing Jar | 13.00% | ~38,774 |
+| First of Many | 12.00% | ~35,791 |
+| Not Your Average Trait | 10.00% | ~29,826 |
 | Expanding Horizons | 9.00% | ~26,843 |
-| Gleaming the Cube | 8.00% | ~23,860 |
-| Quest for Survival | 8.00% | ~23,860 |
-| Familiar Face | 8.00% | ~23,860 |
-| Boss'n Up | 8.00% | ~23,860 |
-| Trait Chaser | 8.00% | ~23,860 |
+| Gleaming the Cube | 8.00% | ~23,861 |
+| Quest for Survival | 8.00% | ~23,861 |
+| Familiar Face | 8.00% | ~23,861 |
+| Boss'n Up | 8.00% | ~23,861 |
+| Trait Chaser | 8.00% | ~23,861 |
 | Not So Special Now | 7.00% | ~20,878 |
 | Not a Janitor | 7.00% | ~20,878 |
 | Duality | 7.00% | ~20,878 |
-| Equal Measures | 6.00% | ~17,895 |
-| Blue Goddess | 6.00% | ~17,895 |
-| Top Performer | 6.00% | ~17,895 |
-| Shhh...It's a Secret | 6.00% | ~17,895 |
-| Almost There | 6.00% | ~17,895 |
-| Make Some Room | 6.00% | ~17,895 |
-| Good, But Could Be Better! | 6.00% | ~17,895 |
+| Equal Measures | 6.00% | ~17,896 |
+| Blue Goddess | 6.00% | ~17,896 |
+| Top Performer | 6.00% | ~17,896 |
+| Shhh...It's a Secret | 6.00% | ~17,896 |
+| Almost There | 6.00% | ~17,896 |
+| Make Some Room | 6.00% | ~17,896 |
+| Good, But Could Be Better! | 6.00% | ~17,896 |
 | Am I Seeing This? | 5.00% | ~14,913 |
 | Chaos | 5.00% | ~14,913 |
 | Traitor | 5.00% | ~14,913 |
@@ -46,8 +46,8 @@ Rating: 4.72 (Ranked 199)
 | The Ultimate Weapon | 3.00% | ~8,948 |
 | No One Should Have All That Power | 3.00% | ~8,948 |
 | Transmutate | 3.00% | ~8,948 |
-| Regicide | 3.00% | ~2,322 |
-| Master of the Dark Arts | 3.00% | ~2,322 |
+| Regicide | 3.00% | ~2,323 |
+| Master of the Dark Arts | 3.00% | ~2,323 |
 | Crafty | 2.00% | ~5,965 |
 | Ghost in the Machine | 2.00% | ~5,965 |
 | Only Human | 2.00% | ~5,965 |
@@ -61,7 +61,7 @@ Rating: 4.72 (Ranked 199)
 | You Shall Pass | 0.80% | ~619 |
 | A Foul Feast | 0.50% | ~387 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,251 (Ranked 65)  
+Progressed: 298,261 (Ranked 65)  
 Completed: 1,219 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 1,219 (0.41%) (Ranked 246)
 | 2024-01-20 | 297,043 | 1,177 |
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
-| 2024-01-23 | 298,251 | 1,219 |
+| 2024-01-23 | 298,261 | 1,219 |
 ## Awards
 Max (Great Boss Battles): 7,507  (Ranked 56)  
-Sum: 17,187 (Ranked 65)  
+Sum: 17,199 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -268,7 +268,7 @@ Diff (max vs sum): -9
 | This game is Relaxing | 997 |
 | This game has Amazing Storytelling | 985 |
 | This game has Amazing Characters | 946 |
-| This game has Unique Visuals | 863 |
+| This game has Unique Visuals | 875 |
 | This game has a Creative Community | 713 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -454,4 +454,4 @@ Diff (max vs sum): -9
 | 2024-01-20 | 4.72 | 7,279 | 16,670 |
 | 2024-01-21 | 4.72 | 7,358 | 16,919 |
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
-| 2024-01-23 | 4.72 | 7,507 | 17,187 |
+| 2024-01-23 | 4.72 | 7,507 | 17,199 |

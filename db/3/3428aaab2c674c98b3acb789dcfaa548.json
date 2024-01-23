@@ -10791,10 +10791,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21804,
       "NumberOfAwardsMax": 7259
+    },
+    {
+      "Time": "2024-01-23T07:57:31.5796692+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21808,
+      "NumberOfAwardsMax": 7259
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21804,
+  "NumberOfAwards": 21808,
   "NumberOfAwardsMax": 7259,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10844,7 +10850,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 677
+      "Count": 681
     },
     {
       "Text": "This game is Extremely Fun",
@@ -10871,9 +10877,9 @@
       "Count": 1709
     }
   ],
-  "EOS_Progressed": 894941,
+  "EOS_Progressed": 894948,
   "EOS_Completed": 253,
-  "EOS_NewPlayers": 4644,
+  "EOS_NewPlayers": 4637,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -39486,6 +39492,11 @@
       "Time": "2024-01-23T07:11:07.6630143+00:00",
       "NumProgressed": 894941,
       "NumCompleted": 253
+    },
+    {
+      "Time": "2024-01-23T08:09:55.8791192+00:00",
+      "NumProgressed": 894948,
+      "NumCompleted": 253
     }
   ],
   "TotalAchievements": 75,
@@ -39497,7 +39508,7 @@
       "Name": "Ain\u0027t That a Kick in the Head",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 250583
+      "UsersEstimate": 250585
     },
     {
       "ID": "ACHIEVEMENT_ALL_OR_NOTHING",
@@ -39577,7 +39588,7 @@
       "Name": "Come Fly With Me",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 53696
+      "UsersEstimate": 53697
     },
     {
       "ID": "ACHIEVEMENT_CONDEMNED_TO_REPEAT_IT",
@@ -39825,7 +39836,7 @@
       "Name": "Old-Tyme Brawler",
       "Percentage": 0.9,
       "XP": 15,
-      "UsersEstimate": 8054
+      "UsersEstimate": 8055
     },
     {
       "ID": "ACHIEVEMENT_OL_BUDDY_OL_PAL",
@@ -39833,7 +39844,7 @@
       "Name": "Ol\u0027 Buddy Ol\u0027 Pal",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 53696
+      "UsersEstimate": 53697
     },
     {
       "ID": "ACHIEVEMENT_ONE_ARMED_BANDIT",
@@ -39905,7 +39916,7 @@
       "Name": "Ring-a-Ding-Ding",
       "Percentage": 6,
       "XP": 25,
-      "UsersEstimate": 53696
+      "UsersEstimate": 53697
     },
     {
       "ID": "ACHIEVEMENT_ROCKETS_RED_GLARE",
@@ -40096,22 +40107,22 @@
     {
       "ID": "6m5nldi",
       "IsBase": false,
-      "Progressed": 894941,
+      "Progressed": 894948,
       "Completed": 298
     },
     {
       "ID": "a96a0j2",
       "IsBase": true,
-      "Progressed": 894941,
+      "Progressed": 894948,
       "Completed": 253
     }
   ],
   "FirstSeen": "2023-06-01T15:57:19.0339471+00:00",
   "FirstSeenRating": "2023-06-01T19:56:58.3012542+00:00",
   "FirstSeenAchievements": "2023-05-25T15:01:32.4580339+00:00",
-  "LastChanged": "2024-01-23T06:57:49.871732+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:11:07.6630138+00:00",
+  "LastChanged": "2024-01-23T07:57:31.5796688+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:09:55.8791186+00:00",
   "LastUpdate_AppInfo": "2024-01-19T13:57:09.9158872+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:57:49.8717326+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:11:07.6632003+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:57:31.5796696+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:09:55.8792795+00:00"
 }

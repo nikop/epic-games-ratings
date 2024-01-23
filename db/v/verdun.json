@@ -2009,9 +2009,9 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 70229,
+  "EOS_Progressed": 70230,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 608,
+  "EOS_NewPlayers": 609,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -32694,6 +32694,11 @@
       "Time": "2024-01-23T07:07:34.8436093+00:00",
       "NumProgressed": 70229,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T08:05:53.5860879+00:00",
+      "NumProgressed": 70230,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -32745,7 +32750,7 @@
       "Name": "In Treue Fest",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     },
     {
       "ID": "VERDUN_ACH_ANZAC",
@@ -32761,7 +32766,7 @@
       "Name": "Voor De Koning",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     },
     {
       "ID": "VERDUN_ACH_BRONZE100",
@@ -32929,7 +32934,7 @@
       "Name": "Extreme Headhunter",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 3511
+      "UsersEstimate": 3512
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS1",
@@ -32961,7 +32966,7 @@
       "Name": "Not alone",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 22473
+      "UsersEstimate": 22474
     },
     {
       "ID": "VERDUN_ACH_KILLS1",
@@ -32969,7 +32974,7 @@
       "Name": "Corpseman I",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 27389
+      "UsersEstimate": 27390
     },
     {
       "ID": "VERDUN_ACH_KILLS2",
@@ -32993,7 +32998,7 @@
       "Name": "Worth it",
       "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 44244
+      "UsersEstimate": 44245
     },
     {
       "ID": "VERDUN_ACH_LANDSERS",
@@ -33001,7 +33006,7 @@
       "Name": "Gott Mit Uns",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 8427
+      "UsersEstimate": 8428
     },
     {
       "ID": "VERDUN_ACH_LEVEL100",
@@ -33176,15 +33181,15 @@
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 70229,
+      "Progressed": 70230,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-20T20:58:52.9716987+00:00",
-  "LastChanged_Achievements": "2024-01-23T07:07:34.8436088+00:00",
+  "LastChanged_Achievements": "2024-01-23T08:05:53.5860877+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:26.9198992+00:00",
-  "LastUpdate_Ratings": "2024-01-23T07:01:10.2196001+00:00",
-  "LastUpdate_Achievements": "2024-01-23T07:07:34.8438166+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:59:50.51282+00:00",
+  "LastUpdate_Achievements": "2024-01-23T08:05:53.5862602+00:00"
 }
