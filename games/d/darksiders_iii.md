@@ -7,15 +7,15 @@ Number of Ratings: 116  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Green with Envy | 77.00% | ~524 |
-| First of many… | 69.00% | ~469 |
-| Helping Hand | 65.00% | ~442 |
+| First of many… | 69.00% | ~470 |
+| Helping Hand | 65.00% | ~443 |
 | Increased Vigor | 61.00% | ~415 |
-| Fight Fire with Fire | 59.00% | ~401 |
+| Fight Fire with Fire | 59.00% | ~402 |
 | Increased Capacity | 56.00% | ~381 |
-| Just the start | 50.00% | ~340 |
+| Just the start | 51.00% | ~347 |
 | Perfect Storm | 47.00% | ~320 |
 | All That Glitters | 47.00% | ~320 |
-| Enhance! | 43.00% | ~292 |
+| Enhance! | 43.00% | ~293 |
 | One Of the Chosen | 42.00% | ~286 |
 | Devil's in the Details | 41.00% | ~279 |
 | Throne Potato | 41.00% | ~279 |
@@ -27,21 +27,21 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 36.00% | ~245 |
 | I Wanna Rock | 35.00% | ~238 |
 | Love Tap | 35.00% | ~238 |
-| Maximum Vigor | 34.00% | ~231 |
+| Maximum Vigor | 33.00% | ~225 |
 | Freeze Frame | 31.00% | ~211 |
 | Eat Your Heart Out | 31.00% | ~211 |
 | For Whom the Bell Tolls | 30.00% | ~204 |
-| Unyielding Strength | 28.00% | ~190 |
+| Unyielding Strength | 27.00% | ~184 |
 | Can you restore the Balance? | 27.00% | ~184 |
 | Crowd Source | 27.00% | ~184 |
 | Big Spender | 27.00% | ~184 |
 | Cleanup Crew | 26.00% | ~177 |
 | Seeing Red | 26.00% | ~177 |
 | Egomaniac | 25.00% | ~170 |
-| Maximum Capacity | 24.00% | ~163 |
 | Demon Meddler | 24.00% | ~163 |
-| Protector of Humanity | 23.00% | ~156 |
-| Everybody Wants to Rule the World | 23.00% | ~156 |
+| Maximum Capacity | 23.00% | ~157 |
+| Protector of Humanity | 23.00% | ~157 |
+| Everybody Wants to Rule the World | 23.00% | ~157 |
 | Path of the Horseman | 16.00% | ~109 |
 | Community Outreach | 16.00% | ~109 |
 | A Parting Gift | 15.00% | ~102 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 680 (Ranked 339)  
+Progressed: 681 (Ranked 339)  
 Completed: 2 (0.29%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -110,7 +110,7 @@ Completed: 2 (0.29%) (Ranked 267)
 | 2024-01-20 | 658 | 2 |
 | 2024-01-21 | 667 | 2 |
 | 2024-01-22 | 677 | 2 |
-| 2024-01-23 | 680 | 2 |
+| 2024-01-23 | 681 | 2 |
 ## Awards
 Max (Great Boss Battles): 100  (Ranked 383)  
 Sum: 100 (Ranked 474)  

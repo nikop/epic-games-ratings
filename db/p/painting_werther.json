@@ -2,7 +2,7 @@
   "ID": "37cfc61b2f70457dad97e9066a081437",
   "Name": "Painting Werther",
   "ProductSlug": "painting-werther-654780",
-  "Ranking_EOS_Progress": 847,
+  "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:45.9570464+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:05:46.327004+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:07:47.9653593+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:27.3091666+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:59:53.9014796+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:05:46.3270078+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:01:34.2713729+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:07:47.9653625+00:00"
 }

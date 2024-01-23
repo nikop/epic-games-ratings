@@ -20,7 +20,7 @@
 | Eridanian Champion | 27.00% | ~106 |
 | Loyal Partner | 23.00% | ~90 |
 | Lacertian Champion | 23.00% | ~90 |
-| Apian Champion | 20.00% | ~78 |
+| Apian Champion | 21.00% | ~82 |
 | Shard Spender | 19.00% | ~74 |
 | Unbeatable | 18.00% | ~71 |
 | Sadistic Plan | 16.00% | ~63 |
@@ -33,8 +33,8 @@
 | Stellar Haste | 8.00% | ~31 |
 | The Corruption Goddess | 8.00% | ~31 |
 | The Goddes Avatar | 8.00% | ~31 |
+| Favored by the Cosmos | 7.00% | ~27 |
 | Can't touch this | 6.00% | ~24 |
-| Favored by the Cosmos | 6.00% | ~24 |
 | Prestidigitation | 6.00% | ~24 |
 | Anomaly Control | 5.00% | ~20 |
 | Artificer | 5.00% | ~20 |

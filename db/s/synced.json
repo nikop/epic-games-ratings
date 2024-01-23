@@ -1905,9 +1905,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90060,
+  "EOS_Progressed": 90064,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2119,
+  "EOS_NewPlayers": 2110,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -17890,6 +17890,11 @@
       "Time": "2024-01-23T14:05:44.7582529+00:00",
       "NumProgressed": 90060,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-23T15:07:45.6569563+00:00",
+      "NumProgressed": 90064,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -17902,7 +17907,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42328
+      "UsersEstimate": 42330
     },
     {
       "ID": "10",
@@ -17974,7 +17979,7 @@
       "Name": "A Most Unstable Organism",
       "Percentage": 14,
       "XP": 20,
-      "UsersEstimate": 12608
+      "UsersEstimate": 12609
     },
     {
       "ID": "4",
@@ -17982,7 +17987,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8105
+      "UsersEstimate": 8106
     },
     {
       "ID": "5",
@@ -18006,7 +18011,7 @@
       "Name": "More Power to You",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23416
+      "UsersEstimate": 23417
     },
     {
       "ID": "8",
@@ -18029,7 +18034,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90060,
+      "Progressed": 90064,
       "Completed": 76
     }
   ],
@@ -18037,8 +18042,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-23T13:57:48.0479941+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:05:44.7582525+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:07:45.6569557+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:57:48.0479952+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:05:44.7583536+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:58:28.289786+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:07:45.6570538+00:00"
 }

@@ -17,8 +17,8 @@ Rating: 4.27 (Ranked 916)
 | Studied The Blade | 24.00% | ~629 |
 | Home Invasion | 23.00% | ~603 |
 | Luminary | 22.00% | ~577 |
+| It's a Trap | 22.00% | ~577 |
 | True Survivor | 21.00% | ~551 |
-| It's a Trap | 21.00% | ~551 |
 | Offensive Defense | 20.00% | ~524 |
 | Shocking | 20.00% | ~524 |
 | Court Martial | 19.00% | ~498 |

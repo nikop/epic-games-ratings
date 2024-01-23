@@ -2,7 +2,7 @@
   "ID": "0dc17d69dbfa4dd7b4eeb480d3adad6d",
   "Name": "Backpack Hero",
   "ProductSlug": "backpack-hero-449c5e",
-  "Ranking_EOS_Progress": 777,
+  "Ranking_EOS_Progress": 778,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
@@ -331,8 +331,8 @@
   ],
   "FirstSeen": "2023-11-16T10:58:07.1046411+00:00",
   "FirstSeenAchievements": "2023-11-14T19:03:04.5661186+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:03:37.8245866+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:04:44.754675+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:03.1482126+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:58:54.004072+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:03:37.8246127+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:00:05.8534708+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:04:44.7546956+00:00"
 }

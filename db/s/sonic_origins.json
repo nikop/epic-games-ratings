@@ -2,7 +2,7 @@
   "ID": "78705aae6f39495e920966615c7a22ae",
   "Name": "Sonic Origins",
   "ProductSlug": "sonic-origins",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 350,
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 333,
@@ -3252,9 +3252,9 @@
       "ID": "ID_06_SONIC1_BREATHING_COUNT",
       "SetID": "7o8nc5m",
       "Name": "Bubbly Breath",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 401
     },
     {
       "ID": "ID_07_SONICCD_TIME_WARP",
@@ -3324,9 +3324,9 @@
       "ID": "ID_15_NOVICE_HERO",
       "SetID": "7o8nc5m",
       "Name": "Newbie Hero",
-      "Percentage": 80,
+      "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 563
+      "UsersEstimate": 570
     },
     {
       "ID": "ID_16_WATCH_AT_MUSEUM",
@@ -3500,8 +3500,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:09:50.4807713+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:11:24.4128592+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:37.3555015+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:57:11.7372303+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:09:50.4808223+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:57:32.2671508+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:11:24.4129011+00:00"
 }

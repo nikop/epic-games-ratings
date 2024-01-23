@@ -175,25 +175,25 @@
       "ID": "NEW_ACHIEVEMENT_1_24",
       "SetID": "85ipd90",
       "Name": "I Like this game",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_25",
       "SetID": "85ipd90",
       "Name": "I love this game",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_26",
       "SetID": "85ipd90",
       "Name": "My Favorite game",
-      "Percentage": 100,
+      "Percentage": 150,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_28",
@@ -853,8 +853,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-07T15:03:10.8160278+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:05:29.1583376+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:07:23.3704921+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.8483746+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:59:19.7905029+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:05:29.15849+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:00:45.2326075+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:07:23.3705937+00:00"
 }

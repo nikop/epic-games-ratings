@@ -6,9 +6,9 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,235 |
+| Sowwy! | 37.00% | ~92,236 |
 | Alt+F4 | 11.00% | ~27,421 |
-| Where's that freaking Dwarf? | 10.00% | ~24,928 |
+| Where's that freaking Dwarf? | 10.00% | ~24,929 |
 | Déjà vu | 8.00% | ~19,943 |
 | Sock! SOCK! | 6.00% | ~14,957 |
 | Speedrun | 6.00% | ~14,957 |
@@ -18,17 +18,17 @@ Number of Ratings: 118  (23.09.2022)
 | Fireproof Wizardess | 5.00% | ~12,464 |
 | Way of the Wimp | 4.00% | ~9,971 |
 | The plot thickens... At the tavern | 4.00% | ~9,971 |
-| Livin' in a dwarven paradise | 3.00% | ~7,478 |
-| The demons' feast | 3.00% | ~7,478 |
-| The Great Library | 3.00% | ~7,478 |
-| Torture and Sensibility | 3.00% | ~7,478 |
-| Urik's Depths | 3.00% | ~7,478 |
-| The Dungeon Master | 3.00% | ~7,478 |
-| The Statuette of Gladeulfeurah | 3.00% | ~7,478 |
-| The Woman in the High Castle | 3.00% | ~7,478 |
-| A tale of adventurers not quite like the others... | 3.00% | ~7,478 |
-| Team Building Exercise | 3.00% | ~7,478 |
-| Oh, when I'll be level 10... | 3.00% | ~7,478 |
+| Livin' in a dwarven paradise | 3.00% | ~7,479 |
+| The demons' feast | 3.00% | ~7,479 |
+| The Great Library | 3.00% | ~7,479 |
+| Torture and Sensibility | 3.00% | ~7,479 |
+| Urik's Depths | 3.00% | ~7,479 |
+| The Dungeon Master | 3.00% | ~7,479 |
+| The Statuette of Gladeulfeurah | 3.00% | ~7,479 |
+| The Woman in the High Castle | 3.00% | ~7,479 |
+| A tale of adventurers not quite like the others... | 3.00% | ~7,479 |
+| Team Building Exercise | 3.00% | ~7,479 |
+| Oh, when I'll be level 10... | 3.00% | ~7,479 |
 | Shiny and Crôm | 2.00% | ~4,986 |
 | Res Judicata | 2.00% | ~4,986 |
 | The Famous Dungeon of Naheulbeuk | 2.00% | ~4,986 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,283 (Ranked 73)  
+Progressed: 249,286 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 9 (0.00%) (Ranked 409)
 | 2024-01-20 | 248,966 | 9 |
 | 2024-01-21 | 249,117 | 9 |
 | 2024-01-22 | 249,232 | 9 |
-| 2024-01-23 | 249,283 | 9 |
+| 2024-01-23 | 249,286 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 578 (Ranked 330)  

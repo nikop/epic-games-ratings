@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Something important | 87.00% | ~298 |
+| Something important | 88.00% | ~303 |
 | A piece of the story | 67.00% | ~230 |
-| It's covered up for a reason | 61.00% | ~209 |
-| Wanderer | 55.00% | ~189 |
+| It's covered up for a reason | 61.00% | ~210 |
+| Wanderer | 56.00% | ~193 |
 | Scraps of love | 53.00% | ~182 |
-| The artist’s impression | 52.00% | ~178 |
+| The artist’s impression | 51.00% | ~175 |
 | Do what you have to | 46.00% | ~158 |
 | Sign of weakness | 44.00% | ~151 |
 | Refuse to look | 39.00% | ~134 |
-| Face your fears | 33.00% | ~113 |
+| Face your fears | 33.00% | ~114 |
 | Finished it | 27.00% | ~93 |
 | Whispers long forgotten | 19.00% | ~65 |
-| Sound Bite | 15.00% | ~51 |
+| Sound Bite | 15.00% | ~52 |
+| Debut | 14.00% | ~48 |
 | The art of movement | 14.00% | ~48 |
 | Another perspective | 13.00% | ~45 |
 | A Slice of Life | 13.00% | ~45 |
-| Debut | 13.00% | ~45 |
 | Lights! Camera! Action! | 13.00% | ~45 |
 | Playtime | 12.00% | ~41 |
 | Tough conversation | 12.00% | ~41 |
@@ -29,9 +29,9 @@
 | A new way | 10.00% | ~34 |
 | Breaking free | 10.00% | ~34 |
 | True Reflection | 9.00% | ~31 |
-| Casting Finished | 8.00% | ~27 |
-| Heavy Burden | 8.00% | ~27 |
-| Instinct of self-preservation | 8.00% | ~27 |
+| Casting Finished | 8.00% | ~28 |
+| Heavy Burden | 8.00% | ~28 |
+| Instinct of self-preservation | 8.00% | ~28 |
 | Fisherman | 7.00% | ~24 |
 | Something to think about | 6.00% | ~21 |
 | I remember It Like Was Yesterday | 6.00% | ~21 |
@@ -57,7 +57,7 @@
 | The whole story | 0.00% | ~0 |
 | Inheritance | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 343 (Ranked 391)  
+Progressed: 344 (Ranked 390)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -147,3 +147,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-19 | 337 | 0 |
 | 2024-01-20 | 342 | 0 |
 | 2024-01-22 | 343 | 0 |
+| 2024-01-23 | 344 | 0 |

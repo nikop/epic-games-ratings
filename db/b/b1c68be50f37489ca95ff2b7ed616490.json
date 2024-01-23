@@ -4,7 +4,7 @@
   "ProductSlug": "agatha-christie-murder-on-the-orient-express-a53833",
   "Ranking_EOS_Progress": 385,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 312,
+  "Ranking_EOS_NewPlayers": 305,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-19T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 352,
+  "EOS_Progressed": 353,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1514,6 +1514,11 @@
       "Time": "2024-01-23T14:06:09.1217422+00:00",
       "NumProgressed": 352,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T15:08:20.5541398+00:00",
+      "NumProgressed": 353,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-10-05T15:06:14.3136114+00:00",
@@ -1524,25 +1529,25 @@
       "ID": "1",
       "SetID": "6bgoh8g",
       "Name": "A mystery? No! A trifle for Poirot!",
-      "Percentage": 64,
+      "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 225
+      "UsersEstimate": 229
     },
     {
       "ID": "10",
       "SetID": "6bgoh8g",
       "Name": "Masquerade",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "11",
       "SetID": "6bgoh8g",
       "Name": "Final questions",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "12",
@@ -1572,7 +1577,7 @@
       "ID": "15",
       "SetID": "6bgoh8g",
       "Name": "My little grey cells did not let me down!",
-      "Percentage": 0.9,
+      "Percentage": 0.8,
       "XP": 90,
       "UsersEstimate": 3
     },
@@ -1636,9 +1641,9 @@
       "ID": "22",
       "SetID": "6bgoh8g",
       "Name": "I know kung fu",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 40,
-      "UsersEstimate": 39
+      "UsersEstimate": 35
     },
     {
       "ID": "23",
@@ -1668,9 +1673,9 @@
       "ID": "26",
       "SetID": "6bgoh8g",
       "Name": "The only useful pigeon is a stool pigeon",
-      "Percentage": 13,
+      "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 46
+      "UsersEstimate": 42
     },
     {
       "ID": "27",
@@ -1716,9 +1721,9 @@
       "ID": "7",
       "SetID": "6bgoh8g",
       "Name": "It\u0027s all coming together",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 32
+      "UsersEstimate": 28
     },
     {
       "ID": "8",
@@ -1741,14 +1746,14 @@
     {
       "ID": "6bgoh8g",
       "IsBase": true,
-      "Progressed": 352,
+      "Progressed": 353,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-10-19T15:03:07.0400902+00:00",
   "FirstSeenAchievements": "2023-10-04T15:04:42.9561948+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:06:09.1217419+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:08:20.5541393+00:00",
   "LastUpdate_AppInfo": "2024-01-18T06:57:12.8329669+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:03:05.0164754+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:06:09.1217686+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:03:55.4704031+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:08:20.5541664+00:00"
 }

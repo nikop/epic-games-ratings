@@ -467,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12119,
+  "EOS_Progressed": 12120,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 534,
+  "EOS_NewPlayers": 531,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5937,6 +5937,11 @@
       "Time": "2024-01-23T14:09:52.3369988+00:00",
       "NumProgressed": 12119,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T15:11:26.6198183+00:00",
+      "NumProgressed": 12120,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5949,7 +5954,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2787
+      "UsersEstimate": 2788
     },
     {
       "ID": "03_TheStolenStar",
@@ -6197,7 +6202,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6261,7 +6266,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1575
+      "UsersEstimate": 1576
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6468,7 +6473,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12119,
+      "Progressed": 12120,
       "Completed": 1
     }
   ],
@@ -6476,8 +6481,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:09:52.3369982+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:11:26.6198176+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:57:59.2293335+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:09:52.3371309+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:58:45.2023455+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:11:26.6198874+00:00"
 }

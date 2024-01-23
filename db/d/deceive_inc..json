@@ -2,12 +2,12 @@
   "ID": "eca9a86adffa4605b8250d383fc01098",
   "Name": "Deceive Inc.",
   "ProductSlug": "deceive-inc",
-  "Ranking_Rating": 455,
+  "Ranking_Rating": 456,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 253,
+  "Ranking_EOS_NewPlayers": 251,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19372,
+  "EOS_Progressed": 19373,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14885,6 +14885,11 @@
       "Time": "2024-01-22T22:07:48.696338+00:00",
       "NumProgressed": 19372,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T15:08:46.5363442+00:00",
+      "NumProgressed": 19373,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -15032,7 +15037,7 @@
       "Name": "In It to Win It",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "0019",
@@ -15183,7 +15188,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19372,
+      "Progressed": 19373,
       "Completed": 4
     }
   ],
@@ -15191,8 +15196,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:07:58.6070827+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:08:46.5363436+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:00:18.9712588+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:07:58.6071828+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:02:50.4269467+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:08:46.5364346+00:00"
 }

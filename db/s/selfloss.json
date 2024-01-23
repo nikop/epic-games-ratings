@@ -2,7 +2,7 @@
   "ID": "f64e89cc12ef4afea8609ca8a6a2f7ea",
   "Name": "Selfloss",
   "ProductSlug": "selfloss",
-  "Ranking_EOS_Progress": 847,
+  "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
@@ -31,6 +31,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-21T05:58:35.6893054+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:02:55.1530136+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:05:38.7226839+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:03:40.9775334+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:07:36.7981782+00:00"
 }

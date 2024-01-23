@@ -4,7 +4,7 @@
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 522,
   "Ranking_EOS_Completed": 80,
-  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewPlayers": 200,
   "Ranking_EOS_NewCompleters": 57,
   "Store": {
     "ReleaseDate": "2024-01-18T15:00:00+00:00",
@@ -339,9 +339,9 @@
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 38,
+      "Percentage": 40,
       "XP": 35,
-      "UsersEstimate": 32
+      "UsersEstimate": 34
     },
     {
       "ID": "BOSS_3",
@@ -395,9 +395,9 @@
       "ID": "MONEY_100K",
       "SetID": "89ki2f0",
       "Name": "Hiding your wealth",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 35,
-      "UsersEstimate": 29
+      "UsersEstimate": 30
     },
     {
       "ID": "MONEY_10K",
@@ -490,8 +490,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:03:22.0134291+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:04:21.9139725+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:00:17.4638203+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:03:22.0134747+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:02:48.2909858+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:04:21.9139901+00:00"
 }

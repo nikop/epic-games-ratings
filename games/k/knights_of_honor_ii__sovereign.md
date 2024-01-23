@@ -5,28 +5,33 @@ Rating: 4.34 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 10.00% | ~4 |
-| Full House | 8.00% | ~3 |
-| There is no Nobility in Poverty | 8.00% | ~3 |
+| Hail to the King, Baby | 14.00% | ~6 |
+| Bring it on! | 7.00% | ~3 |
+| Full House | 7.00% | ~3 |
+| There is no Nobility in Poverty | 7.00% | ~3 |
 | Call the Boys | 5.00% | ~2 |
 | Can’t Touch This | 5.00% | ~2 |
+| Cut-Me-Own-Throat | 5.00% | ~2 |
 | Help! Help! I’m being repressed | 5.00% | ~2 |
+| Learn Me a Book | 5.00% | ~2 |
+| Path of Glory | 5.00% | ~2 |
 | Time to find India | 5.00% | ~2 |
 | ‘Tis but a scratch | 5.00% | ~2 |
-| All the King's Men | 3.00% | ~1 |
-| Blinded by Science | 3.00% | ~1 |
-| Bring it on! | 3.00% | ~1 |
-| Crusade Invoker, no Regret | 3.00% | ~1 |
-| Desperate Times Call for Desperate Measures | 3.00% | ~1 |
-| Do you read Sutter Cane? | 3.00% | ~1 |
-| Forth, Eorlingas! | 3.00% | ~1 |
-| Kingslayer | 3.00% | ~1 |
-| Learn Me a Book | 3.00% | ~1 |
-| Let Us Pray | 3.00% | ~1 |
-| Path of Glory | 3.00% | ~1 |
-| Playerxander the Great | 3.00% | ~1 |
-| The finest merchandise this side of river Jordan | 3.00% | ~1 |
-| You reap what you sow | 3.00% | ~1 |
+| All the King's Men | 2.00% | ~1 |
+| Blinded by Science | 2.00% | ~1 |
+| Crusade Invoker, no Regret | 2.00% | ~1 |
+| Desperate Times Call for Desperate Measures | 2.00% | ~1 |
+| Dinner Time | 2.00% | ~1 |
+| Do you read Sutter Cane? | 2.00% | ~1 |
+| Forth, Eorlingas! | 2.00% | ~1 |
+| Kingslayer | 2.00% | ~1 |
+| Let Us Pray | 2.00% | ~1 |
+| Let us trade with these fine people | 2.00% | ~1 |
+| Pillars of the Earth | 2.00% | ~1 |
+| Playerxander the Great | 2.00% | ~1 |
+| The finest merchandise this side of river Jordan | 2.00% | ~1 |
+| What we’ve got here is failure to communicate | 2.00% | ~1 |
+| You reap what you sow | 2.00% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | A Quiet Palace | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
@@ -40,9 +45,7 @@ Rating: 4.34 (Ranked 851)
 | Edge of the World | 0.00% | ~0 |
 | Crom, I have never prayed to you before | 0.00% | ~0 |
 | Crusader “you know what” | 0.00% | ~0 |
-| Cut-Me-Own-Throat | 0.00% | ~0 |
 | Die By My Hand | 0.00% | ~0 |
-| Dinner Time | 0.00% | ~0 |
 | Dust and Salt | 0.00% | ~0 |
 | Everything the light touches is our kingdom | 0.00% | ~0 |
 | Fighting with Power and Steel | 0.00% | ~0 |
@@ -67,7 +70,6 @@ Rating: 4.34 (Ranked 851)
 | Fight Another Day | 0.00% | ~0 |
 | Join the Dark Side | 0.00% | ~0 |
 | Kingdom Fall: Disappearance | 0.00% | ~0 |
-| Let us trade with these fine people | 0.00% | ~0 |
 | Liberty or Death! | 0.00% | ~0 |
 | Lord of the Kings | 0.00% | ~0 |
 | Master of Puppets | 0.00% | ~0 |
@@ -76,7 +78,6 @@ Rating: 4.34 (Ranked 851)
 | On the third day at dawn, look east | 0.00% | ~0 |
 | Open Your Eyes | 0.00% | ~0 |
 | Our Arrows Will Blot Out the Sun | 0.00% | ~0 |
-| Pillars of the Earth | 0.00% | ~0 |
 | Power Overwhelming | 0.00% | ~0 |
 | Prince Ali! Fabulous he! | 0.00% | ~0 |
 | Prison Break | 0.00% | ~0 |
@@ -99,19 +100,18 @@ Rating: 4.34 (Ranked 851)
 | Vlad the Impaler | 0.00% | ~0 |
 | We Are the Champions | 0.00% | ~0 |
 | We want the money, Playerowski | 0.00% | ~0 |
-| What we’ve got here is failure to communicate | 0.00% | ~0 |
 | Where’s your crown, king Nothing? | 0.00% | ~0 |
 | Why is there no culture victory?! | 0.00% | ~0 |
 | You are not the boss of me now | 0.00% | ~0 |
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 39 (Ranked 590)  
+Progressed: 44 (Ranked 582)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 39 | 0 |
+| 2024-01-23 | 44 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

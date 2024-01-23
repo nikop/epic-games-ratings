@@ -2,7 +2,7 @@
   "ID": "0fb229f35a3f4eb788b05ae91419a214",
   "Name": "Arise: A Simple Story",
   "ProductSlug": "arise-a-simple-story",
-  "Ranking_EOS_Progress": 847,
+  "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:57:43.275831+00:00",
   "LastChanged": "2023-03-31T05:57:43.2758311+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:24.087445+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:59:43.0045126+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:08:01.1346099+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:01:18.1197293+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:08:50.1352122+00:00"
 }

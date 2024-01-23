@@ -2,9 +2,9 @@
   "ID": "9df61912ce644d8096412ba0f516759a",
   "Name": "Layers of Fear",
   "ProductSlug": "layers-of-fears-85a02b",
-  "Ranking_EOS_Progress": 391,
+  "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 302,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 343,
+  "EOS_Progressed": 344,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1534,6 +1534,11 @@
       "Time": "2024-01-22T11:10:30.0625536+00:00",
       "NumProgressed": 343,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T15:10:03.8762337+00:00",
+      "NumProgressed": 344,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-02T13:11:20.3046893+00:00",
@@ -1578,7 +1583,7 @@
       "Name": "Casting Finished",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "collect_items_mother",
@@ -1626,7 +1631,7 @@
       "Name": "It\u0027s covered up for a reason",
       "Percentage": 61,
       "XP": 5,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "decrypt_one_myth",
@@ -1674,7 +1679,7 @@
       "Name": "Face your fears",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 113
+      "UsersEstimate": 114
     },
     {
       "ID": "find_most_of_family_mementos",
@@ -1712,17 +1717,17 @@
       "ID": "find_one_poster",
       "SetID": "f2im8d",
       "Name": "Debut",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "find_one_rat_sketch",
       "SetID": "f2im8d",
       "Name": "The artist\u2019s impression",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 178
+      "UsersEstimate": 175
     },
     {
       "ID": "finished_it",
@@ -1754,7 +1759,7 @@
       "Name": "Sound Bite",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "heavy_burden",
@@ -1762,7 +1767,7 @@
       "Name": "Heavy Burden",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "in_one_take",
@@ -1866,7 +1871,7 @@
       "Name": "Instinct of self-preservation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "sign_of_weakness",
@@ -1880,9 +1885,9 @@
       "ID": "something_important",
       "SetID": "f2im8d",
       "Name": "Something important",
-      "Percentage": 87,
+      "Percentage": 88,
       "XP": 5,
-      "UsersEstimate": 298
+      "UsersEstimate": 303
     },
     {
       "ID": "spy_one_item",
@@ -1944,9 +1949,9 @@
       "ID": "wanderer",
       "SetID": "f2im8d",
       "Name": "Wanderer",
-      "Percentage": 55,
+      "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 189
+      "UsersEstimate": 193
     },
     {
       "ID": "whispers_long_forgotten",
@@ -1961,14 +1966,14 @@
     {
       "ID": "f2im8d",
       "IsBase": true,
-      "Progressed": 343,
+      "Progressed": 344,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:08:52.7471477+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:10:03.8762331+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:58:16.1251915+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:08:52.7471952+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:59:11.0253458+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:10:03.8762777+00:00"
 }

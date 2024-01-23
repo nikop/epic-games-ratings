@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 251,
+  "Ranking_EOS_NewPlayers": 254,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 284,
+  "EOS_Progressed": 285,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 29,
+  "EOS_NewPlayers": 27,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1712,6 +1712,11 @@
       "Time": "2024-01-23T13:13:32.7658094+00:00",
       "NumProgressed": 284,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T15:07:42.3714131+00:00",
+      "NumProgressed": 285,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1772,7 +1777,7 @@
       "Name": "Storyteller",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "20TELEPORTS",
@@ -1786,9 +1791,9 @@
       "ID": "20TRADER",
       "SetID": "a1angca",
       "Name": "Peddler",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 77
     },
     {
       "ID": "20WEAPONSCRAFTED",
@@ -1900,7 +1905,7 @@
       "Name": "Role Model",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "BRINGTOYS",
@@ -1932,7 +1937,7 @@
       "Name": "Berserker",
       "Percentage": 16,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "CHOSEKLE",
@@ -1996,7 +2001,7 @@
       "Name": "Festival-goer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "FINDCITY",
@@ -2004,15 +2009,15 @@
       "Name": "Civilian",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 103
     },
     {
       "ID": "FINDCRONY",
       "SetID": "a1angca",
       "Name": "Best Buddy",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 111
     },
     {
       "ID": "FINDMAP",
@@ -2036,7 +2041,7 @@
       "Name": "Irissa\u0027s Fate",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "HELPCHILDREN",
@@ -2123,15 +2128,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 284,
+      "Progressed": 285,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:05:42.3758227+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:07:42.3714125+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:59:52.0279899+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:05:42.3758683+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:01:31.6323935+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:07:42.3714583+00:00"
 }

@@ -5,16 +5,16 @@ Rating: 4.65 (Ranked 327)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,962 |
-| On the Top Step | 83.00% | ~15,471 |
-| Setting up for Success | 70.00% | ~13,048 |
-| Team Orders | 68.00% | ~12,675 |
-| Engineer | 46.00% | ~8,574 |
-| Familiar Faces | 42.00% | ~7,829 |
-| Going the Extra Mile | 36.00% | ~6,710 |
+| Getting on the Step | 91.00% | ~16,964 |
+| On the Top Step | 83.00% | ~15,473 |
+| Setting up for Success | 70.00% | ~13,049 |
+| Team Orders | 68.00% | ~12,677 |
+| Engineer | 46.00% | ~8,575 |
+| Familiar Faces | 42.00% | ~7,830 |
+| Going the Extra Mile | 36.00% | ~6,711 |
 | Sharing the Love | 34.00% | ~6,338 |
 | Hitting a Season | 29.00% | ~5,406 |
-| A Dozen Pieces | 26.00% | ~4,846 |
+| A Dozen Pieces | 26.00% | ~4,847 |
 | Making History | 25.00% | ~4,660 |
 | Network Success | 24.00% | ~4,474 |
 | Challenge Yourself | 24.00% | ~4,474 |
@@ -25,8 +25,8 @@ Rating: 4.65 (Ranked 327)
 | Crucial Combo | 13.00% | ~2,423 |
 | Reuse | 13.00% | ~2,423 |
 | Proving Them Wrong | 13.00% | ~2,423 |
-| Gathering Dust | 11.00% | ~2,050 |
-| One for the Book | 11.00% | ~2,050 |
+| Gathering Dust | 11.00% | ~2,051 |
+| One for the Book | 11.00% | ~2,051 |
 | Eagle Eye | 10.00% | ~1,864 |
 | All in a Weekend's Work | 10.00% | ~1,864 |
 | Oil and Water | 10.00% | ~1,864 |
@@ -37,7 +37,7 @@ Rating: 4.65 (Ranked 327)
 | Spinning Around | 9.00% | ~1,678 |
 | Undisputed Winner | 7.00% | ~1,305 |
 | Recycle | 7.00% | ~1,305 |
-| Tinkerer | 6.00% | ~1,118 |
+| Tinkerer | 6.00% | ~1,119 |
 | For all Those Back at the Factory | 5.00% | ~932 |
 | Living up to Expectations | 4.00% | ~746 |
 | Smooth Operator | 4.00% | ~746 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 327)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,640 (Ranked 165)  
+Progressed: 18,642 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 18,524 | 0 |
 | 2024-01-21 | 18,591 | 0 |
 | 2024-01-22 | 18,629 | 0 |
-| 2024-01-23 | 18,640 | 0 |
+| 2024-01-23 | 18,642 | 0 |
 ## Awards
 Max (Diverse Characters): 71  (Ranked 420)  
 Sum: 477 (Ranked 343)  

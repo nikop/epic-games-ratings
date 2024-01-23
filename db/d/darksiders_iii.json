@@ -510,7 +510,7 @@
       "Count": 100
     }
   ],
-  "EOS_Progressed": 680,
+  "EOS_Progressed": 681,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 59,
   "EOS_NewCompleters": 0,
@@ -2595,6 +2595,11 @@
       "Time": "2024-01-23T12:04:31.1034824+00:00",
       "NumProgressed": 680,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T15:05:54.193741+00:00",
+      "NumProgressed": 681,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-12-13T09:04:44.5703562+00:00",
@@ -2613,9 +2618,9 @@
       "ID": "Collect_AdamantineMedium_30",
       "SetID": "7a5k76n",
       "Name": "Unyielding Strength",
-      "Percentage": 28,
+      "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 190
+      "UsersEstimate": 184
     },
     {
       "ID": "Collect_AdamantinePure_3",
@@ -2669,9 +2674,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 163
+      "UsersEstimate": 157
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -2685,9 +2690,9 @@
       "ID": "Collect_HealthStone_HealUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Vigor",
-      "Percentage": 34,
+      "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 231
+      "UsersEstimate": 225
     },
     {
       "ID": "Collect_Hollow_Flame",
@@ -2695,7 +2700,7 @@
       "Name": "Fight Fire with Fire",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 401
+      "UsersEstimate": 402
     },
     {
       "ID": "Collect_Hollow_Force",
@@ -2783,7 +2788,7 @@
       "Name": "Enhance!",
       "Percentage": 43,
       "XP": 10,
-      "UsersEstimate": 292
+      "UsersEstimate": 293
     },
     {
       "ID": "Crucible_Kill_WickedK",
@@ -2839,7 +2844,7 @@
       "Name": "Protector of Humanity",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Game_CompleteApocolyptic",
@@ -2951,7 +2956,7 @@
       "Name": "Everybody Wants to Rule the World",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Kill_Sin_Envy",
@@ -3015,7 +3020,7 @@
       "Name": "Helping Hand",
       "Percentage": 65,
       "XP": 5,
-      "UsersEstimate": 442
+      "UsersEstimate": 443
     },
     {
       "ID": "Save_Humans_10",
@@ -3063,7 +3068,7 @@
       "Name": "First of many\u2026",
       "Percentage": 69,
       "XP": 5,
-      "UsersEstimate": 469
+      "UsersEstimate": 470
     },
     {
       "ID": "Spend_AttributePoint_25",
@@ -3101,9 +3106,9 @@
       "ID": "Upgrade_Weapon_First",
       "SetID": "7a5k76n",
       "Name": "Just the start",
-      "Percentage": 50,
+      "Percentage": 51,
       "XP": 5,
-      "UsersEstimate": 340
+      "UsersEstimate": 347
     },
     {
       "ID": "Upgrade_Weapon_Max",
@@ -3118,15 +3123,15 @@
     {
       "ID": "7a5k76n",
       "IsBase": true,
-      "Progressed": 680,
+      "Progressed": 681,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-22T20:57:00.0680665+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:04:26.7557222+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:05:54.1937403+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:57:19.7223483+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:04:26.755869+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:57:44.2209482+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:05:54.1937928+00:00"
 }

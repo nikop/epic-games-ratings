@@ -4,7 +4,7 @@
   "ProductSlug": "samorost-3-0c4489",
   "Ranking_EOS_Progress": 425,
   "Ranking_EOS_Completed": 85,
-  "Ranking_EOS_NewPlayers": 419,
+  "Ranking_EOS_NewPlayers": 400,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-30T13:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 247,
+  "EOS_Progressed": 248,
   "EOS_Completed": 11,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 4.45,
+  "EOS_Completed_Percentage": 4.44,
   "EosHistory": [
     {
       "Time": "2023-07-02T13:13:21.8292114+00:00",
@@ -1204,6 +1204,11 @@
       "Time": "2024-01-21T20:07:38.6287129+00:00",
       "NumProgressed": 247,
       "NumCompleted": 11
+    },
+    {
+      "Time": "2024-01-23T15:04:34.4719699+00:00",
+      "NumProgressed": 248,
+      "NumCompleted": 11
     }
   ],
   "AchievementsAdded": "2023-06-30T13:15:05.2091186+00:00",
@@ -1256,7 +1261,7 @@
       "Name": "Mushrooms",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Jing",
@@ -1264,7 +1269,7 @@
       "Name": "Jing Jang",
       "Percentage": 37,
       "XP": 30,
-      "UsersEstimate": 91
+      "UsersEstimate": 92
     },
     {
       "ID": "Kamzik",
@@ -1272,7 +1277,7 @@
       "Name": "Chamois",
       "Percentage": 47,
       "XP": 30,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "Kour",
@@ -1326,9 +1331,9 @@
       "ID": "Netopyrci",
       "SetID": "ag48e8e",
       "Name": "Cave Bats",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Netopyrek",
@@ -1382,9 +1387,9 @@
       "ID": "SpiciPapouch",
       "SetID": "ag48e8e",
       "Name": "Sleeping Parrot",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 74
+      "UsersEstimate": 72
     },
     {
       "ID": "Sputnik2",
@@ -1392,7 +1397,7 @@
       "Name": "Sputnik",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 59
+      "UsersEstimate": 60
     },
     {
       "ID": "Stonozka",
@@ -1414,17 +1419,17 @@
       "ID": "Termit",
       "SetID": "ag48e8e",
       "Name": "Saint Termite",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 64
+      "UsersEstimate": 62
     },
     {
       "ID": "Truhlice",
       "SetID": "ag48e8e",
       "Name": "Shem Is Home",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 60,
-      "UsersEstimate": 27
+      "UsersEstimate": 25
     },
     {
       "ID": "Xicht",
@@ -1432,7 +1437,7 @@
       "Name": "Rockheads",
       "Percentage": 20,
       "XP": 30,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "Zelvak",
@@ -1455,14 +1460,14 @@
     {
       "ID": "ag48e8e",
       "IsBase": true,
-      "Progressed": 247,
+      "Progressed": 248,
       "Completed": 11
     }
   ],
   "FirstSeen": "2023-07-16T17:56:59.6615713+00:00",
   "FirstSeenAchievements": "2023-06-30T13:15:05.2091185+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:03:30.7247178+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:04:34.4719694+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8617172+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:02:58.2002829+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:03:30.7247744+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:03:45.6369286+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:04:34.4719953+00:00"
 }

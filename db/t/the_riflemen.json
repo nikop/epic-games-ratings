@@ -221,11 +221,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76482,
+  "EOS_Progressed": 76508,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4620,
+  "EOS_NewPlayers": 4623,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 15.38,
+  "EOS_Completed_Percentage": 15.37,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -17676,6 +17676,11 @@
       "Time": "2024-01-23T14:09:13.5174592+00:00",
       "NumProgressed": 76482,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-23T15:10:33.2554138+00:00",
+      "NumProgressed": 76508,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -17688,7 +17693,7 @@
       "Name": "Bazooka Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "firstMatch",
@@ -17696,7 +17701,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 57362
+      "UsersEstimate": 57381
     },
     {
       "ID": "grenadeKills",
@@ -17704,7 +17709,7 @@
       "Name": "Grenade Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "headshots100",
@@ -17712,7 +17717,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3059
+      "UsersEstimate": 3060
     },
     {
       "ID": "headshots1000",
@@ -17720,7 +17725,7 @@
       "Name": "Head popping III",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "headshots500",
@@ -17728,7 +17733,7 @@
       "Name": "Head popping II",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 229
+      "UsersEstimate": 230
     },
     {
       "ID": "knifeKills",
@@ -17736,7 +17741,7 @@
       "Name": "Knife Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "matchesLost",
@@ -17744,7 +17749,7 @@
       "Name": "Hang in there",
       "Percentage": 0.5,
       "XP": 25,
-      "UsersEstimate": 382
+      "UsersEstimate": 383
     },
     {
       "ID": "matchesWon",
@@ -17760,7 +17765,7 @@
       "Name": "He who laughs last laughs best",
       "Percentage": 0.1,
       "XP": 50,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "rifleKills",
@@ -17768,7 +17773,7 @@
       "Name": "Rifle Master",
       "Percentage": 0.7,
       "XP": 100,
-      "UsersEstimate": 535
+      "UsersEstimate": 536
     },
     {
       "ID": "shotgunKills",
@@ -17776,7 +17781,7 @@
       "Name": "Shotgun Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "sniperKills",
@@ -17784,7 +17789,7 @@
       "Name": "Sniper Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     },
     {
       "ID": "swordKills",
@@ -17792,14 +17797,14 @@
       "Name": "Sword Master",
       "Percentage": 0.1,
       "XP": 100,
-      "UsersEstimate": 76
+      "UsersEstimate": 77
     }
   ],
   "AchievementSets": [
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 76482,
+      "Progressed": 76508,
       "Completed": 11760
     }
   ],
@@ -17807,8 +17812,8 @@
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
   "LastChanged": "2024-01-22T23:59:25.0561671+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:09:13.5174587+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:10:33.255413+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.9687625+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:58:50.6639743+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:09:13.5175737+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:00:00.3757777+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:10:33.2555134+00:00"
 }

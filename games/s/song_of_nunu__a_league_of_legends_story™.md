@@ -19,7 +19,7 @@ Rating: 4.63 (Ranked 360)
 | No Bites | 55.00% | ~874 |
 | Boom Things | 54.00% | ~858 |
 | Tear of Freedom | 53.00% | ~842 |
-| My Darkest Day | 49.00% | ~779 |
+| My Darkest Day | 50.00% | ~794 |
 | Rhythm Of Willump | 47.00% | ~747 |
 | The Relentless Storm | 47.00% | ~747 |
 | A Tragic Reminder | 46.00% | ~731 |

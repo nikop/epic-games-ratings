@@ -21,7 +21,7 @@ Number of Ratings: 292  (23.09.2022)
 | Whoops! | 6.00% | ~77 |
 | Don't Touch My Stuff | 6.00% | ~77 |
 | Trojan Horse | 5.00% | ~64 |
-| Expert Essence Employment | 4.00% | ~51 |
+| Expert Essence Employment | 4.00% | ~52 |
 | This Spot's Taken | 3.00% | ~39 |
 | Infernal Influence | 2.00% | ~26 |
 | From the Ashes | 2.00% | ~26 |
@@ -61,7 +61,7 @@ Number of Ratings: 292  (23.09.2022)
 | I like it a Loth | 0.00% | ~0 |
 | Here be Dragons | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,287 (Ranked 287)  
+Progressed: 1,288 (Ranked 287)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -135,7 +135,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 1,258 | 0 |
 | 2024-01-21 | 1,271 | 0 |
 | 2024-01-22 | 1,284 | 0 |
-| 2024-01-23 | 1,287 | 0 |
+| 2024-01-23 | 1,288 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 30  (Ranked 531)  
 Sum: 252 (Ranked 401)  

@@ -2,10 +2,10 @@
   "ID": "baa1163025994ae3b1cf3d425230e90a",
   "Name": "Aimlabs",
   "ProductSlug": "aimlabs",
-  "Ranking_Rating": 430,
-  "Ranking_Popularity": 394,
+  "Ranking_Rating": 431,
+  "Ranking_Popularity": 392,
   "Ranking_PopularitySum": 321,
-  "Ranking_EOS_Progress": 847,
+  "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
@@ -2335,11 +2335,17 @@
       "Rating": 4.6,
       "NumberOfAwards": 655,
       "NumberOfAwardsMax": 95
+    },
+    {
+      "Time": "2024-01-23T15:03:32.4940567+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 658,
+      "NumberOfAwardsMax": 96
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 655,
-  "NumberOfAwardsMax": 95,
+  "NumberOfAwards": 658,
+  "NumberOfAwardsMax": 96,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -2358,7 +2364,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 95
+      "Count": 96
     },
     {
       "Text": "This game has Competitive Players",
@@ -2400,7 +2406,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 41
+      "Count": 43
     },
     {
       "Text": "This game has Playful Visuals",
@@ -2427,8 +2433,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-03-10T02:20:52.9712815+00:00",
   "FirstSeenRating": "2023-03-31T05:57:50.8966303+00:00",
-  "LastChanged": "2024-01-23T07:03:40.2277236+00:00",
+  "LastChanged": "2024-01-23T15:03:32.4940566+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:51.8096856+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:02:48.7483449+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:05:31.2623311+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:03:32.4940573+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:07:26.1729287+00:00"
 }

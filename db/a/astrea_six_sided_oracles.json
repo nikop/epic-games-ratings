@@ -1913,9 +1913,9 @@
       "ID": "FavoredbytheCosmos",
       "SetID": "1jeo1g7",
       "Name": "Favored by the Cosmos",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 24
+      "UsersEstimate": 27
     },
     {
       "ID": "Gottatinkeremall",
@@ -2289,9 +2289,9 @@
       "ID": "ApianChampion",
       "SetID": "1jeo1g7",
       "Name": "Apian Champion",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 78
+      "UsersEstimate": 82
     },
     {
       "ID": "ApianHero",
@@ -2440,8 +2440,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:08:55.507749+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:10:07.7066589+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.6848498+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:58:30.0543792+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:08:55.5078926+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:59:31.8669633+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:10:07.7067622+00:00"
 }

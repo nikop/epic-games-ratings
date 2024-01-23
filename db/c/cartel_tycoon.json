@@ -2,12 +2,12 @@
   "ID": "1696ef78f67c411ea67d2c2b8e9bc5a6",
   "Name": "Cartel Tycoon",
   "ProductSlug": "cartel-tycoon",
-  "Ranking_Rating": 836,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 300,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewPlayers": 281,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-03-18T16:00:00+00:00",
@@ -319,9 +319,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1058,
+  "EOS_Progressed": 1059,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 18,
+  "EOS_NewPlayers": 19,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -3819,6 +3819,11 @@
       "Time": "2024-01-23T01:54:16.4177638+00:00",
       "NumProgressed": 1058,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T15:04:51.2883121+00:00",
+      "NumProgressed": 1059,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 19,
@@ -3846,7 +3851,7 @@
       "Name": "Architect of Fortunes",
       "Percentage": 23,
       "XP": 20,
-      "UsersEstimate": 243
+      "UsersEstimate": 244
     },
     {
       "ID": "dont-miss-calls",
@@ -3854,7 +3859,7 @@
       "Name": "Didn\u0027t Miss A Single One",
       "Percentage": 42,
       "XP": 100,
-      "UsersEstimate": 444
+      "UsersEstimate": 445
     },
     {
       "ID": "female-conqueror",
@@ -3878,7 +3883,7 @@
       "Name": "Our Man",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 878
+      "UsersEstimate": 879
     },
     {
       "ID": "kill-lieutenants",
@@ -3894,7 +3899,7 @@
       "Name": "Hokey-Pokey",
       "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 719
+      "UsersEstimate": 720
     },
     {
       "ID": "play-at-night",
@@ -3918,7 +3923,7 @@
       "Name": "Bad Trip",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 476
+      "UsersEstimate": 477
     },
     {
       "ID": "rename-lieutenant",
@@ -3966,7 +3971,7 @@
       "Name": "Take-Off",
       "Percentage": 80,
       "XP": 10,
-      "UsersEstimate": 846
+      "UsersEstimate": 847
     },
     {
       "ID": "use-submarine",
@@ -3981,15 +3986,15 @@
     {
       "ID": "bed33dd",
       "IsBase": true,
-      "Progressed": 1058,
+      "Progressed": 1059,
       "Completed": 3
     }
   ],
   "FirstSeen": "2022-07-22T20:29:21.1819376+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.458971+00:00",
   "LastChanged": "2024-01-21T00:03:54.481116+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:03:42.657802+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:04:51.2883115+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:54.1776026+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:02:55.7819482+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:03:42.6578412+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:03:41.9226911+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:04:51.2883358+00:00"
 }

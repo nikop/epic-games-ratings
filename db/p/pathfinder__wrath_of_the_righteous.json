@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 235,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -4941,10 +4941,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 7245,
       "NumberOfAwardsMax": 1787
+    },
+    {
+      "Time": "2024-01-23T15:02:04.9875811+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 7248,
+      "NumberOfAwardsMax": 1787
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 7245,
+  "NumberOfAwards": 7248,
   "NumberOfAwardsMax": 1787,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -4976,7 +4982,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 667
+      "Count": 669
     },
     {
       "Text": "This game is Highly Recommended",
@@ -5006,7 +5012,7 @@
       "Text": "This game has Challenging Combat",
       "Prefix": "This game has",
       "Type": "Challenging Combat",
-      "Count": 607
+      "Count": 608
     },
     {
       "Text": "This game has a Creative Community",
@@ -20326,9 +20332,9 @@
       "ID": "31_DivideAndRule",
       "SetID": "989of5o",
       "Name": "Divide and Rule",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 533
+      "UsersEstimate": 667
     },
     {
       "ID": "32_MythicReinforcements",
@@ -21035,9 +21041,9 @@
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
-  "LastChanged": "2024-01-22T15:01:12.1782943+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:09:57.7511557+00:00",
+  "LastChanged": "2024-01-23T15:02:04.9875809+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:11:33.618571+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:00:15.2651886+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:09:57.7513234+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:02:04.9875819+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:11:33.6187385+00:00"
 }

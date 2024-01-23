@@ -23,11 +23,11 @@ Number of Ratings: 1,354  (23.09.2022)
 | All Paths Open | 6.00% | ~800 |
 | Path of the Azata | 5.00% | ~667 |
 | The Legacy | 5.00% | ~667 |
+| Divide and Rule | 5.00% | ~667 |
 | A Flame | 5.00% | ~667 |
 | Next-Door Play | 5.00% | ~667 |
 | Get the Toad | 5.00% | ~667 |
 | Heart of the Fallen Land | 4.00% | ~533 |
-| Divide and Rule | 4.00% | ~533 |
 | Mythic Reinforcements | 4.00% | ~533 |
 | Hey, I Know You! | 4.00% | ~533 |
 | Path of the Trickster | 3.00% | ~400 |
@@ -404,17 +404,17 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-23 | 13,334 | 0 |
 ## Awards
 Max (Character Customization): 1,787  (Ranked 133)  
-Sum: 7,245 (Ranked 128)  
+Sum: 7,248 (Ranked 128)  
 Diff (max vs sum): 5  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 1,787 |
+| This game has Diverse Characters | 669 |
 | This game is Extremely Fun | 667 |
-| This game has Diverse Characters | 667 |
 | This game is Highly Recommended | 658 |
 | This game has Amazing Characters | 656 |
 | This game has Amazing Storytelling | 637 |
-| This game has Challenging Combat | 607 |
+| This game has Challenging Combat | 608 |
 | This game has Quickly Understood Controls | 589 |
 | This game is Relaxing | 567 |
 | This game has a Creative Community | 410 |
@@ -748,3 +748,4 @@ Diff (max vs sum): 5
 | 2024-01-20 | 4.76 | - | 1,785 | 7,239 |
 | 2024-01-21 | 4.76 | - | 1,787 | 7,244 |
 | 2024-01-22 | 4.76 | - | 1,787 | 7,245 |
+| 2024-01-23 | 4.76 | - | 1,787 | 7,248 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 276,
   "Ranking_EOS_Completed": 165,
-  "Ranking_EOS_NewPlayers": 344,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-03-07T17:00:00+00:00",
@@ -299,9 +299,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1476,
+  "EOS_Progressed": 1477,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.22,
   "EosHistory": [
@@ -3739,6 +3739,11 @@
       "Time": "2024-01-22T14:09:27.3491925+00:00",
       "NumProgressed": 1476,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-23T15:09:56.7034859+00:00",
+      "NumProgressed": 1477,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 27,
@@ -3774,7 +3779,7 @@
       "Name": "Roll with it",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 649
+      "UsersEstimate": 650
     },
     {
       "ID": "ACH_DYNAMITE_USED",
@@ -3790,7 +3795,7 @@
       "Name": "Fine, I\u0027ll do it myself",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_ELIZA_PHOTO",
@@ -3798,7 +3803,7 @@
       "Name": "Love is in the air",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 605
+      "UsersEstimate": 606
     },
     {
       "ID": "ACH_ENGAGEMENT_RING",
@@ -3846,7 +3851,7 @@
       "Name": "No pressure",
       "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 1033
+      "UsersEstimate": 1034
     },
     {
       "ID": "ACH_HOTEL_NAMED",
@@ -3902,7 +3907,7 @@
       "Name": "Good start",
       "Percentage": 76,
       "XP": 20,
-      "UsersEstimate": 1122
+      "UsersEstimate": 1123
     },
     {
       "ID": "ACH_STAR_2",
@@ -3910,7 +3915,7 @@
       "Name": "Moving up",
       "Percentage": 40,
       "XP": 20,
-      "UsersEstimate": 590
+      "UsersEstimate": 591
     },
     {
       "ID": "ACH_STAR_3",
@@ -3965,7 +3970,7 @@
     {
       "ID": "7k95e4n",
       "IsBase": true,
-      "Progressed": 1476,
+      "Progressed": 1477,
       "Completed": 18
     }
   ],
@@ -3973,8 +3978,8 @@
   "FirstSeenRating": "2023-03-30T21:57:33.398638+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:47.1560449+00:00",
   "LastChanged": "2024-01-22T05:00:40.8775564+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:08:47.6920961+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:09:56.7034854+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:19.5337676+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:00:07.1257155+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:08:47.692142+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:01:52.48971+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:09:56.7035148+00:00"
 }

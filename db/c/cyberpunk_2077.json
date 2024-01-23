@@ -18876,10 +18876,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 515250,
       "NumberOfAwardsMax": 144045
+    },
+    {
+      "Time": "2024-01-23T15:03:57.2070576+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 515410,
+      "NumberOfAwardsMax": 144045
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 515250,
+  "NumberOfAwards": 515410,
   "NumberOfAwardsMax": 144045,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18911,7 +18917,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 30140
+      "Count": 30300
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -18956,10 +18962,10 @@
       "Count": 19955
     }
   ],
-  "EOS_Progressed": 1057624,
+  "EOS_Progressed": 1057657,
   "EOS_Completed": 3151,
-  "EOS_NewPlayers": 4847,
-  "EOS_NewCompleters": 44,
+  "EOS_NewPlayers": 4828,
+  "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50831,6 +50837,11 @@
       "Time": "2024-01-23T14:08:46.6051252+00:00",
       "NumProgressed": 1057624,
       "NumCompleted": 3151
+    },
+    {
+      "Time": "2024-01-23T15:09:55.1729818+00:00",
+      "NumProgressed": 1057657,
+      "NumCompleted": 3151
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50867,7 +50878,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7403
+      "UsersEstimate": 7404
     },
     {
       "ID": "Denied",
@@ -50883,7 +50894,7 @@
       "Name": "To Protect and Serve",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "Fortuneteller",
@@ -50939,7 +50950,7 @@
       "Name": "I Am The Law",
       "Percentage": 0.4,
       "XP": 20,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "LikeFatherLikeSon",
@@ -50971,7 +50982,7 @@
       "Name": "The Quick and the Dead",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "MustBeTheRats",
@@ -51067,15 +51078,15 @@
       "Name": "The Hermit",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7403
+      "UsersEstimate": 7404
     },
     {
       "ID": "TheHightPriestess",
       "SetID": "47clieb",
       "Name": "The High Priestess",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6346
+      "UsersEstimate": 7404
     },
     {
       "ID": "TheLovers",
@@ -51107,7 +51118,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7403
+      "UsersEstimate": 7404
     },
     {
       "ID": "TheWorld",
@@ -51139,7 +51150,7 @@
       "Name": "True Soldier",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7403
+      "UsersEstimate": 7404
     },
     {
       "ID": "TrueWarrior",
@@ -51147,7 +51158,7 @@
       "Name": "True Warrior",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 4230
+      "UsersEstimate": 4231
     },
     {
       "ID": "TwoHeadsOneBullet",
@@ -51299,7 +51310,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1117
+      "UsersEstimate": 1118
     },
     {
       "ID": "HydraIsDead",
@@ -51347,7 +51358,7 @@
       "Name": "King of Wands",
       "Percentage": 0.2,
       "XP": 35,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "TheTower",
@@ -51363,7 +51374,7 @@
       "Name": "Dirty Deeds",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     },
     {
       "ID": "EasyComeEasyGo",
@@ -51371,28 +51382,28 @@
       "Name": "Easy Come, Easy Go",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 372
+      "UsersEstimate": 373
     }
   ],
   "AchievementSets": [
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057624,
+      "Progressed": 1057657,
       "Completed": 3151
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186247,
-      "Completed": 10689
+      "Progressed": 186280,
+      "Completed": 10691
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-23T12:03:14.3221394+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:08:46.6051247+00:00",
+  "LastChanged": "2024-01-23T15:03:57.2070574+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:09:55.1729812+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:03:06.131606+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:08:46.6053451+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:03:57.207058+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:09:55.1731921+00:00"
 }

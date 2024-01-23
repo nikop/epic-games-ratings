@@ -638,9 +638,9 @@
       "ID": "ACH_WIN_BY_40",
       "SetID": "1lnhagg",
       "Name": "Overpowered",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 33
+      "UsersEstimate": 34
     },
     {
       "ID": "ACH_WIN_EUROLEAGUE",
@@ -677,8 +677,8 @@
   ],
   "FirstSeen": "2023-06-03T19:56:57.988344+00:00",
   "FirstSeenAchievements": "2023-05-25T09:01:01.8676873+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:03:34.8521117+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:04:40.5657818+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.2192101+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:59:49.9706393+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:03:34.8521373+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:01:28.4007301+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:04:40.5658106+00:00"
 }

@@ -1,13 +1,13 @@
 # Sonic Origins
 [Store](https://store.epicgames.com/en-US/p/sonic-origins)  
 [View Rawdata](../../db/s/sonic_origins.json)  
-Rating: 4.59 (Ranked 455)  
+Rating: 4.59 (Ranked 456)  
 Number of Ratings: 154  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome to Sonic the Hedgehog | 93.00% | ~655 |
-| Newbie Hero | 80.00% | ~563 |
+| Newbie Hero | 81.00% | ~570 |
 | Welcome to Sonic CD | 70.00% | ~493 |
 | Welcome to Sonic 3 & Knuckles | 69.00% | ~486 |
 | Welcome to Sonic the Hedgehog 2 | 68.00% | ~479 |
@@ -15,8 +15,8 @@ Number of Ratings: 154  (23.09.2022)
 | Time Traveler | 65.00% | ~458 |
 | Everyone's Hero | 62.00% | ~436 |
 | Easy Peasy with Shields | 58.00% | ~408 |
+| Bubbly Breath | 57.00% | ~401 |
 | Gallant Spin Dash | 57.00% | ~401 |
-| Bubbly Breath | 56.00% | ~394 |
 | Knuckles the Echidna | 55.00% | ~387 |
 | Miles "Tails" Prower | 55.00% | ~387 |
 | Boss Rush Attempt | 48.00% | ~338 |

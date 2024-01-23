@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 75,
   "Ranking_EOS_Completed": 308,
   "Ranking_EOS_NewPlayers": 139,
-  "Ranking_EOS_NewCompleters": 87,
+  "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2022-08-25T15:00:00+00:00",
     "PcReleaseDate": "2020-10-15T12:00:00+00:00",
@@ -3946,9 +3946,9 @@
       "Count": 749
     }
   ],
-  "EOS_Progressed": 243404,
+  "EOS_Progressed": 243407,
   "EOS_Completed": 309,
-  "EOS_NewPlayers": 345,
+  "EOS_NewPlayers": 344,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.13,
   "EosHistory": [
@@ -32751,6 +32751,11 @@
       "Time": "2024-01-23T14:09:58.8976236+00:00",
       "NumProgressed": 243404,
       "NumCompleted": 309
+    },
+    {
+      "Time": "2024-01-23T15:11:34.8701476+00:00",
+      "NumProgressed": 243407,
+      "NumCompleted": 309
     }
   ],
   "TotalAchievements": 138,
@@ -33184,9 +33189,9 @@
       "ID": "KILL10ONETURN",
       "SetID": "5l8oe0h",
       "Name": "Clearing The Room",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 5,
-      "UsersEstimate": 730
+      "UsersEstimate": 974
     },
     {
       "ID": "KILL20TYPES",
@@ -33865,13 +33870,13 @@
     {
       "ID": "5l8oe0h",
       "IsBase": true,
-      "Progressed": 243404,
+      "Progressed": 243407,
       "Completed": 309
     },
     {
       "ID": "1peahb6",
       "IsBase": false,
-      "Progressed": 4884,
+      "Progressed": 4887,
       "Completed": 431
     }
   ],
@@ -33879,8 +33884,8 @@
   "FirstSeenRating": "2022-08-26T04:31:33.9561595+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.8220994+00:00",
   "LastChanged": "2024-01-21T22:00:30.5602822+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:09:58.8976231+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:11:34.8701471+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:50.1432229+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:57:14.2860549+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:09:58.8978665+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:57:35.9266786+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:11:34.870394+00:00"
 }

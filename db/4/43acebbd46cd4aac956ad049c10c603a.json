@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 461,
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 234,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -361,9 +361,9 @@
       "Count": 121
     }
   ],
-  "EOS_Progressed": 1461,
+  "EOS_Progressed": 1462,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 39,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -4346,6 +4346,11 @@
       "Time": "2024-01-22T22:04:03.7454312+00:00",
       "NumProgressed": 1461,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T15:05:56.4793136+00:00",
+      "NumProgressed": 1462,
+      "NumCompleted": 3
     }
   ],
   "AchievementsAdded": "2023-11-08T08:07:23.5672352+00:00",
@@ -4366,7 +4371,7 @@
       "Name": "Ab Initio",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 511
+      "UsersEstimate": 512
     },
     {
       "ID": "AnthropicHills",
@@ -4406,7 +4411,7 @@
       "Name": "Break the Loop",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "BridgeBuilder",
@@ -4454,7 +4459,7 @@
       "Name": "Discovery",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 438
+      "UsersEstimate": 439
     },
     {
       "ID": "EasternWetlands",
@@ -4462,7 +4467,7 @@
       "Name": "Eastern Wetlands",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "EcstaticTruth",
@@ -4502,7 +4507,7 @@
       "Name": "Good Citizen",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "GrasslandsRing",
@@ -4638,7 +4643,7 @@
       "Name": "Puzzle Fiend",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "RemnantsOfThePast",
@@ -4718,7 +4723,7 @@
       "Name": "The All-Gifted",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 321
+      "UsersEstimate": 322
     },
     {
       "ID": "TheEdgeOfForever",
@@ -4758,7 +4763,7 @@
       "Name": "The Thief of Fire",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "TheWordEndures",
@@ -4814,7 +4819,7 @@
       "Name": "Wooded Plateau",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 248
+      "UsersEstimate": 249
     },
     {
       "ID": "YourBiggestFan",
@@ -4829,7 +4834,7 @@
     {
       "ID": "1n308hc",
       "IsBase": true,
-      "Progressed": 1461,
+      "Progressed": 1462,
       "Completed": 3
     }
   ],
@@ -4837,8 +4842,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-22T16:58:45.5941627+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:04:28.2884561+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:05:56.479313+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:58:39.6369322+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:04:28.2885338+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:59:43.9761441+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:05:56.4793826+00:00"
 }

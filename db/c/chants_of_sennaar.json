@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 19,
+  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewCompleters": 20,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -151,7 +151,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2975,
+  "EOS_Progressed": 2976,
   "EOS_Completed": 232,
   "EOS_NewPlayers": 167,
   "EOS_NewCompleters": 17,
@@ -7981,6 +7981,11 @@
       "Time": "2024-01-23T14:03:25.6258144+00:00",
       "NumProgressed": 2975,
       "NumCompleted": 232
+    },
+    {
+      "Time": "2024-01-23T15:04:27.0086097+00:00",
+      "NumProgressed": 2976,
+      "NumCompleted": 232
     }
   ],
   "TotalAchievements": 25,
@@ -8000,7 +8005,7 @@
       "Name": "In this together",
       "Percentage": 27,
       "XP": 200,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "META_ALL_LINK",
@@ -8046,9 +8051,9 @@
       "ID": "META_RESULT_1-3",
       "SetID": "2gma9an",
       "Name": "Free at last",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 625
+      "UsersEstimate": 595
     },
     {
       "ID": "META_RESULT_1-4",
@@ -8096,7 +8101,7 @@
       "Name": "Rascal",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 803
+      "UsersEstimate": 804
     },
     {
       "ID": "OPTIONNAL_GAMES",
@@ -8136,7 +8141,7 @@
       "Name": "That\u0027s the spirit",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 1785
+      "UsersEstimate": 1786
     },
     {
       "ID": "PROGRESS_HALF_RUNES",
@@ -8152,7 +8157,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1606
+      "UsersEstimate": 1607
     },
     {
       "ID": "PROGRESS_N2",
@@ -8160,7 +8165,7 @@
       "Name": "The great escape",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 1368
+      "UsersEstimate": 1369
     },
     {
       "ID": "PROGRESS_N3",
@@ -8168,7 +8173,7 @@
       "Name": "A new dawn",
       "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 1160
+      "UsersEstimate": 1161
     },
     {
       "ID": "PROGRESS_N4",
@@ -8184,14 +8189,14 @@
       "Name": "One last step",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 892
+      "UsersEstimate": 893
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2975,
+      "Progressed": 2976,
       "Completed": 232
     }
   ],
@@ -8199,8 +8204,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:03:25.6258141+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:04:27.008609+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:59:34.6848911+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:03:25.6258737+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:01:06.2775467+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:04:27.0086697+00:00"
 }

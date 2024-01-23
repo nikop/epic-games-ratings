@@ -25,6 +25,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Just | 3.00% | ~514 |
 | Keystone | 3.00% | ~514 |
 | Learned | 3.00% | ~514 |
+| Magnificent | 3.00% | ~514 |
 | Noble | 3.00% | ~514 |
 | Pioneer | 3.00% | ~514 |
 | Warrior | 3.00% | ~514 |
@@ -43,12 +44,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | Drillmaster | 2.00% | ~342 |
 | Brilliant | 2.00% | ~342 |
 | Great | 2.00% | ~342 |
-| Magnificent | 2.00% | ~342 |
 | Valiant | 2.00% | ~342 |
 | Wise | 2.00% | ~342 |
 | Legendary Cities | 2.00% | ~342 |
 | Able Difficulty | 2.00% | ~342 |
 | Just Difficulty | 2.00% | ~342 |
+| Artisans | 2.00% | ~342 |
 | Furious Family | 2.00% | ~342 |
 | Acropolis | 2.00% | ~342 |
 | Apadana | 2.00% | ~342 |
@@ -71,7 +72,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Mighty | 1.00% | ~171 |
 | Victorious | 1.00% | ~171 |
 | Good Difficulty | 1.00% | ~171 |
-| Artisans | 1.00% | ~171 |
 | Champions | 1.00% | ~171 |
 | Landowners | 1.00% | ~171 |
 | Patrons | 1.00% | ~171 |
@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 1.00% | ~171 |
 | Hittite Iron | 1.00% | ~171 |
 | Temple of Solomon | 1.00% | ~171 |
+| Pantheon | 1.00% | ~171 |
 | Via Recta Souk | 1.00% | ~171 |
 | Learn to Play 3 | 1.00% | ~171 |
 | Greece | 1.00% | ~171 |
@@ -102,14 +103,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Traders | 0.90% | ~154 |
 | Circus Maximus | 0.90% | ~154 |
 | Hagia Sophia | 0.90% | ~154 |
-| Pantheon | 0.90% | ~154 |
 | Learn to Play 4 | 0.90% | ~154 |
+| Assyrian Paganism | 0.90% | ~154 |
 | Legionary | 0.90% | ~154 |
 | Double Victory | 0.90% | ~154 |
 | Jerwan Aqueduct | 0.90% | ~154 |
 | Royal Library | 0.90% | ~154 |
 | Lion | 0.80% | ~137 |
-| Assyrian Paganism | 0.80% | ~137 |
 | Industrial Progress | 0.80% | ~137 |
 | Enlightenment | 0.80% | ~137 |
 | Gnosticism | 0.80% | ~137 |
@@ -117,6 +117,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Veneration | 0.80% | ~137 |
 | Cimmerian Archer | 0.80% | ~137 |
 | Phalangite | 0.80% | ~137 |
+| Ambition Victory | 0.80% | ~137 |
 | Kushite Pyramids | 0.80% | ~137 |
 | Yazilikaya | 0.80% | ~137 |
 | Bad Heir Day | 0.70% | ~120 |
@@ -126,21 +127,21 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hunters | 0.70% | ~120 |
 | Adur Burzen-Mihr | 0.70% | ~120 |
 | Babylonia | 0.70% | ~120 |
+| Rome | 0.70% | ~120 |
 | Hittite Paganism | 0.70% | ~120 |
 | Revelation | 0.70% | ~120 |
 | Kushite Cavalry | 0.70% | ~120 |
-| Ambition Victory | 0.70% | ~120 |
 | Deposed Tribe | 0.70% | ~120 |
 | Clerics | 0.60% | ~103 |
 | Church of the Holy Sepulchre | 0.60% | ~103 |
 | Carthage | 0.60% | ~103 |
-| Rome | 0.60% | ~103 |
 | One True Faith | 0.60% | ~103 |
 | Turreted Elephant | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
 | Jebel Barkal | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~86 |
 | Old | 0.50% | ~86 |
+| Cao'an | 0.50% | ~86 |
 | Learn to Play 5 | 0.50% | ~86 |
 | Egypt | 0.50% | ~86 |
 | No Undo | 0.50% | ~86 |
@@ -149,7 +150,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Carthage - Ox Hide | 0.40% | ~68 |
 | Noble Difficulty | 0.40% | ~68 |
 | The Eternal Treaty | 0.40% | ~68 |
-| Cao'an | 0.40% | ~68 |
 | Old World Order | 0.40% | ~68 |
 | Pantheon of Gods | 0.40% | ~68 |
 | Play a Network Game | 0.40% | ~68 |

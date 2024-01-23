@@ -16,7 +16,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | Seeking Allies | 0.80% | ~2,042 |
 | Mad Cow Disease | 0.80% | ~2,042 |
 | Friendly Imps | 0.80% | ~2,042 |
-| Welcome to Sigil | 0.80% | ~1,772 |
+| Welcome to Sigil | 0.80% | ~1,773 |
 | A Persistent Buzzing | 0.70% | ~1,787 |
 | Pure Energy | 0.70% | ~1,787 |
 | Fast Food | 0.70% | ~1,551 |
@@ -553,8 +553,8 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,283 (Ranked 71)  
-Completed: 2,633 (1.03%) (Ranked 180)  
+Progressed: 255,290 (Ranked 71)  
+Completed: 2,634 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -831,10 +831,10 @@ Completed: 2,633 (1.03%) (Ranked 180)
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
-| 2024-01-23 | 255,283 | 2,633 |
+| 2024-01-23 | 255,290 | 2,634 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
-Sum: 33,613 (Ranked 41)  
+Sum: 33,615 (Ranked 41)  
 Diff (max vs sum): 34  
 | Award | Count |
 | ----- | ----- |
@@ -843,7 +843,7 @@ Diff (max vs sum): 34
 | This game has Quickly Understood Controls | 4,919 |
 | This game is Relaxing | 4,797 |
 | This game has Amazing Characters | 4,346 |
-| This game is Highly Recommended | 4,342 |
+| This game is Highly Recommended | 4,344 |
 | This game has Playful Visuals | 3,653 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
@@ -1210,4 +1210,4 @@ Diff (max vs sum): 34
 | 2024-01-20 | 4.07 | - | 5,804 | 33,584 |
 | 2024-01-21 | 4.07 | - | 5,810 | 33,602 |
 | 2024-01-22 | 4.07 | - | 5,813 | 33,612 |
-| 2024-01-23 | 4.07 | - | 5,813 | 33,613 |
+| 2024-01-23 | 4.07 | - | 5,813 | 33,615 |

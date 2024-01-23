@@ -1,27 +1,27 @@
 # RIDE 5
 [Store](https://store.epicgames.com/en-US/p/ride-5)  
 [View Rawdata](../../db/r/ride_5.json)  
-Rating: 4.59 (Ranked 455)  
+Rating: 4.61 (Ranked 402)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Eat My Dust | 50.00% | ~1,841 |
-| First Love | 46.00% | ~1,694 |
-| Clean Race | 45.00% | ~1,657 |
-| Hear That Roar! | 43.00% | ~1,583 |
-| Bitter Rivalry | 31.00% | ~1,141 |
-| Rivals to the End | 31.00% | ~1,141 |
+| Eat My Dust | 50.00% | ~1,842 |
+| First Love | 46.00% | ~1,695 |
+| Clean Race | 45.00% | ~1,658 |
+| Hear That Roar! | 43.00% | ~1,584 |
+| Bitter Rivalry | 31.00% | ~1,142 |
+| Rivals to the End | 31.00% | ~1,142 |
 | Champagne Spray | 30.00% | ~1,105 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,031 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,032 |
 | Quick Pit Stop | 23.00% | ~847 |
-| I Want One Too! | 22.00% | ~810 |
-| Restored and Ready | 21.00% | ~773 |
-| Legendary!!! | 21.00% | ~773 |
+| Restored and Ready | 21.00% | ~774 |
+| I Want One Too! | 21.00% | ~774 |
+| Legendary!!! | 21.00% | ~774 |
 | Go-Faster Stripes | 18.00% | ~663 |
-| I'm Here Too! | 15.00% | ~552 |
-| We've Just Begun | 15.00% | ~552 |
+| I'm Here Too! | 15.00% | ~553 |
+| We've Just Begun | 15.00% | ~553 |
 | Is It the Right Size? | 10.00% | ~368 |
-| Stamina Star | 9.00% | ~331 |
+| Stamina Star | 9.00% | ~332 |
 | Evangelist | 7.00% | ~258 |
 | Make It Your Own! | 5.00% | ~184 |
 | Cherry Blossom and Temples | 5.00% | ~184 |
@@ -29,10 +29,10 @@ Rating: 4.59 (Ranked 455)
 | Romantic Races | 4.00% | ~147 |
 | I Make the Rules! | 4.00% | ~147 |
 | My Work Here Is Done | 4.00% | ~147 |
-| Spoilt for Choice | 3.00% | ~110 |
-| La Dolce Vita | 3.00% | ~110 |
-| Rounding Off | 3.00% | ~110 |
-| Overtaking the Master | 3.00% | ~110 |
+| Spoilt for Choice | 3.00% | ~111 |
+| La Dolce Vita | 3.00% | ~111 |
+| Rounding Off | 3.00% | ~111 |
+| Overtaking the Master | 3.00% | ~111 |
 | Iconic! | 2.00% | ~74 |
 | I'll Be the Best! | 2.00% | ~74 |
 | Back in Blighty | 2.00% | ~74 |
@@ -55,7 +55,7 @@ Rating: 4.59 (Ranked 455)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,682 (Ranked 227)  
+Progressed: 3,684 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 3,660 | 0 |
 | 2024-01-21 | 3,669 | 0 |
 | 2024-01-22 | 3,676 | 0 |
-| 2024-01-23 | 3,682 | 0 |
+| 2024-01-23 | 3,684 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -211,3 +211,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-13 | 4.55 | 0 | 0 |
 | 2024-01-14 | 4.58 | 0 | 0 |
 | 2024-01-15 | 4.59 | 0 | 0 |
+| 2024-01-23 | 4.61 | 0 | 0 |

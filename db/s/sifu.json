@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 70,
-  "Ranking_EOS_NewCompleters": 23,
+  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewCompleters": 22,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9115,10 +9115,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12863,
       "NumberOfAwardsMax": 7269
+    },
+    {
+      "Time": "2024-01-23T15:03:51.7169762+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12864,
+      "NumberOfAwardsMax": 7269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12863,
+  "NumberOfAwards": 12864,
   "NumberOfAwardsMax": 7269,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9180,7 +9186,7 @@
       "Text": "This game has Unique Visuals",
       "Prefix": "This game has",
       "Type": "Unique Visuals",
-      "Count": 595
+      "Count": 596
     },
     {
       "Text": "This game is Highly Recommended",
@@ -9195,9 +9201,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762521,
+  "EOS_Progressed": 762527,
   "EOS_Completed": 13005,
-  "EOS_NewPlayers": 1364,
+  "EOS_NewPlayers": 1355,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35015,6 +35021,11 @@
       "Time": "2024-01-23T14:09:26.6769837+00:00",
       "NumProgressed": 762521,
       "NumCompleted": 13005
+    },
+    {
+      "Time": "2024-01-23T15:10:51.2292457+00:00",
+      "NumProgressed": 762527,
+      "NumCompleted": 13005
     }
   ],
   "TotalAchievements": 60,
@@ -35026,7 +35037,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45751
+      "UsersEstimate": 45752
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35050,7 +35061,7 @@
       "Name": "A Lady\u0027s Blood in the Snow",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "05_Vengeance_H4",
@@ -35058,7 +35069,7 @@
       "Name": "Lady Wing Chun",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "06_Vengeance_H5",
@@ -35066,7 +35077,7 @@
       "Name": "Furious Fists",
       "Percentage": 2,
       "XP": 75,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "07_Wude_H1",
@@ -35130,7 +35141,7 @@
       "Name": "Kill Nil",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "15_Detective_H1",
@@ -35218,7 +35229,7 @@
       "Name": "Qi Gong: Mind",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "26_ShrineSpirit",
@@ -35226,7 +35237,7 @@
       "Name": "Qi Gong: Breath",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "27_ShrineBody",
@@ -35258,7 +35269,7 @@
       "Name": "I know Kung-Fu",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "31_ComboHigh",
@@ -35306,7 +35317,7 @@
       "Name": "Path of the Prospect",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "37_CustomTrophy_H1",
@@ -35314,7 +35325,7 @@
       "Name": "Rumble in the Hangar",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "38_CustomTrophy_H2",
@@ -35338,7 +35349,7 @@
       "Name": "Take damage to save time",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 15250
+      "UsersEstimate": 15251
     },
     {
       "ID": "41_CustomTrophy_H5",
@@ -35370,7 +35381,7 @@
       "Name": "Diligence as a goal",
       "Percentage": 2,
       "XP": 15,
-      "UsersEstimate": 1436
+      "UsersEstimate": 1437
     },
     {
       "ID": "45_Arena_25Challenges",
@@ -35505,21 +35516,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71822,
-      "Completed": 10817
+      "Progressed": 71828,
+      "Completed": 10819
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762521,
+      "Progressed": 762527,
       "Completed": 13005
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-23T11:03:29.857563+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:09:26.6769834+00:00",
+  "LastChanged": "2024-01-23T15:03:51.716976+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:10:51.2292451+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:03:02.5603058+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:09:26.6771516+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:03:51.7169766+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:10:51.2294138+00:00"
 }

@@ -7,17 +7,17 @@ Number of Ratings: 32,700  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Right Back At Ya | 0.80% | ~8,461 |
-| Full Body Conversion | 0.70% | ~7,403 |
-| The Hermit | 0.70% | ~7,403 |
-| The Wheel of Fortune | 0.70% | ~7,403 |
-| True Soldier | 0.70% | ~7,403 |
+| Full Body Conversion | 0.70% | ~7,404 |
+| The Hermit | 0.70% | ~7,404 |
+| The High Priestess | 0.70% | ~7,404 |
+| The Wheel of Fortune | 0.70% | ~7,404 |
+| True Soldier | 0.70% | ~7,404 |
 | Christmas Tree Attack | 0.60% | ~6,346 |
 | Life of the Road | 0.60% | ~6,346 |
 | Stanislavski's Method | 0.60% | ~6,346 |
-| The High Priestess | 0.60% | ~6,346 |
 | The Lovers | 0.60% | ~6,346 |
 | Legend of The Afterlife | 0.60% | ~6,346 |
-| All the President's Men | 0.60% | ~1,117 |
+| All the President's Men | 0.60% | ~1,118 |
 | Bushido and Chill | 0.50% | ~5,288 |
 | Gun Fu | 0.50% | ~5,288 |
 | Master Crafter | 0.50% | ~5,288 |
@@ -25,10 +25,10 @@ Number of Ratings: 32,700  (23.09.2022)
 | The World | 0.50% | ~5,288 |
 | Judy vs Night City | 0.50% | ~5,288 |
 | Arachnophobia | 0.50% | ~931 |
-| To Protect and Serve | 0.40% | ~4,230 |
-| I Am The Law | 0.40% | ~4,230 |
-| The Quick and the Dead | 0.40% | ~4,230 |
-| True Warrior | 0.40% | ~4,230 |
+| To Protect and Serve | 0.40% | ~4,231 |
+| I Am The Law | 0.40% | ~4,231 |
+| The Quick and the Dead | 0.40% | ~4,231 |
+| True Warrior | 0.40% | ~4,231 |
 | The Wandering Fool | 0.30% | ~3,173 |
 | Two Heads, One Bullet | 0.30% | ~3,173 |
 | Spin Doctor | 0.30% | ~559 |
@@ -37,9 +37,9 @@ Number of Ratings: 32,700  (23.09.2022)
 | Ten out of Ten | 0.20% | ~2,115 |
 | The Star | 0.20% | ~2,115 |
 | The Sun | 0.20% | ~2,115 |
-| King of Wands | 0.20% | ~372 |
-| Dirty Deeds | 0.20% | ~372 |
-| Easy Come, Easy Go | 0.20% | ~372 |
+| King of Wands | 0.20% | ~373 |
+| Dirty Deeds | 0.20% | ~373 |
+| Easy Come, Easy Go | 0.20% | ~373 |
 | City Lights | 0.10% | ~1,058 |
 | Autojock | 0.10% | ~1,058 |
 | Frequent Flyer | 0.10% | ~1,058 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,624 (Ranked 17)  
+Progressed: 1,057,657 (Ranked 17)  
 Completed: 3,151 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,10 +352,10 @@ Completed: 3,151 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,624 | 3,151 |
+| 2024-01-23 | 1,057,657 | 3,151 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
-Sum: 515,250 (Ranked 8)  
+Sum: 515,410 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
@@ -364,7 +364,7 @@ Diff (max vs sum): 0
 | This game is Great for Beginners | 33,062 |
 | This game has Diverse Characters | 32,307 |
 | This game is Highly Recommended | 30,761 |
-| This game has Amazing Storytelling | 30,140 |
+| This game has Amazing Storytelling | 30,300 |
 | This game is Extremely Fun | 30,040 |
 | This game has Amazing Characters | 29,735 |
 | This game is Relaxing | 28,778 |
@@ -742,4 +742,4 @@ Diff (max vs sum): 0
 | 2024-01-20 | 4.67 | - | 143,148 | 509,082 |
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
-| 2024-01-23 | 4.68 | - | 144,045 | 515,250 |
+| 2024-01-23 | 4.68 | - | 144,045 | 515,410 |

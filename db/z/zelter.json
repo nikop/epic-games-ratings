@@ -2,7 +2,7 @@
   "ID": "0e2bd7afb59f4359b2abc5ded57a4264",
   "Name": "Zelter",
   "ProductSlug": "zelter-b3640a",
-  "Ranking_EOS_Progress": 847,
+  "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:57:17.6697346+00:00",
   "LastChanged": "2023-03-31T05:57:17.6697347+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.4249584+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:59:32.7328585+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:06:19.9262768+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:01:03.8785385+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:08:35.7999735+00:00"
 }

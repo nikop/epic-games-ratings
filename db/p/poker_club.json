@@ -4,7 +4,7 @@
   "ProductSlug": "poker-club-6e18ee",
   "Ranking_Rating": 1093,
   "Ranking_Popularity": 424,
-  "Ranking_PopularitySum": 414,
+  "Ranking_PopularitySum": 415,
   "Ranking_EOS_Progress": 35,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 69,
@@ -1183,9 +1183,9 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553262,
+  "EOS_Progressed": 553264,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 1420,
+  "EOS_NewPlayers": 1410,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -32998,6 +32998,11 @@
       "Time": "2024-01-23T14:03:52.8410028+00:00",
       "NumProgressed": 553262,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T15:05:05.1034484+00:00",
+      "NumProgressed": 553264,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -33017,7 +33022,7 @@
       "Name": "Backdoor",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 143848
+      "UsersEstimate": 143849
     },
     {
       "ID": "BeforeYouWreckYourself",
@@ -33073,7 +33078,7 @@
       "Name": "Check Yourself",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22130
+      "UsersEstimate": 22131
     },
     {
       "ID": "ChokeADozenDonkeys",
@@ -33105,7 +33110,7 @@
       "Name": "Cold Caller",
       "Percentage": 40,
       "XP": 10,
-      "UsersEstimate": 221305
+      "UsersEstimate": 221306
     },
     {
       "ID": "DeadlyAssassin",
@@ -33161,7 +33166,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232370
+      "UsersEstimate": 232371
     },
     {
       "ID": "HoldingYourOwn",
@@ -33201,7 +33206,7 @@
       "Name": "Moneymaker",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 22130
+      "UsersEstimate": 22131
     },
     {
       "ID": "NeverGiveUp",
@@ -33257,7 +33262,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420479
+      "UsersEstimate": 420481
     },
     {
       "ID": "ProPlayer",
@@ -33361,14 +33366,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66391
+      "UsersEstimate": 66392
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553262,
+      "Progressed": 553264,
       "Completed": 2
     }
   ],
@@ -33376,8 +33381,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-23T11:59:30.652642+00:00",
-  "LastChanged_Achievements": "2024-01-23T14:03:52.8410019+00:00",
+  "LastChanged_Achievements": "2024-01-23T15:05:05.1034477+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:59:24.8200706+00:00",
-  "LastUpdate_Achievements": "2024-01-23T14:03:52.8412731+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:00:52.404054+00:00",
+  "LastUpdate_Achievements": "2024-01-23T15:05:05.1036142+00:00"
 }
