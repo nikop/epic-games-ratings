@@ -64,7 +64,7 @@
 | 62 | [Scorn](games/s/scorn.md) | 6.84% |
 | 63 | [Sonic Origins](games/s/sonic_origins.md) | 6.82% |
 | 64 | [SPACE ELITE FORCE](games/a/ad1d27353b5a4f49a8aa00853d729fd4.md) | 6.58% |
-| 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.45% |
+| 65 | [The Legend of Tianding](games/t/the_legend_of_tianding.md) | 6.38% |
 | 66 | [Anna's Quest](games/a/anna's_quest.md) | 6.25% |
 | 66 | [Croc's World Construction Kit 2](games/5/55c1dafc343149419579a9939de53424.md) | 6.25% |
 | 68 | [Time Loader](games/t/time_loader.md) | 6.16% |
@@ -302,11 +302,11 @@
 | 300 | [Hogwarts Legacy](games/h/hogwarts_legacy.md) | 0.15% |
 | 300 | [Scathe](games/s/scathe.md) | 0.15% |
 | 300 | [Skul: The Hero Slayer](games/s/skul__the_hero_slayer.md) | 0.15% |
-| 303 | [Blanc](games/b/blanc.md) | 0.14% |
-| 303 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
-| 303 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
-| 303 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.14% |
-| 303 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
+| 300 | [Tangles](games/f/f10440a3a8fa4c29ae5be55c949ba58f.md) | 0.15% |
+| 304 | [Blanc](games/b/blanc.md) | 0.14% |
+| 304 | [Immortals of Aveum™](games/i/immortals_of_aveum™.md) | 0.14% |
+| 304 | [Lost Ruins](games/l/lost_ruins.md) | 0.14% |
+| 304 | [The Lord of the Rings - Gollum™](games/t/the_lord_of_the_rings_-_gollum™.md) | 0.14% |
 | 308 | [Electrician Simulator](games/d/d400b874b09b4cd49d149358c67aa453.md) | 0.13% |
 | 308 | [Fall Guys](games/f/fall_guys.md) | 0.13% |
 | 308 | [Kena: Bridge of Spirits](games/k/kena__bridge_of_spirits.md) | 0.13% |
@@ -326,17 +326,17 @@
 | 320 | [Partisans 1941](games/p/partisans_1941.md) | 0.10% |
 | 320 | [Riverbond](games/r/riverbond.md) | 0.10% |
 | 320 | [The Lord of The Rings Return to Moria](games/t/the_lord_of_the_rings_return_to_moria.md) | 0.10% |
-| 327 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.09% |
 | 327 | [Fly Corp](games/3/3bb63a39c60c4459a5a526eb6a4b08b5.md) | 0.09% |
 | 327 | [House Flipper](games/h/house_flipper.md) | 0.09% |
 | 327 | [Lost Eidolons](games/l/lost_eidolons.md) | 0.09% |
 | 327 | [MythForce](games/m/mythforce.md) | 0.09% |
 | 327 | [Townsmen - A Kingdom Rebuilt](games/t/townsmen_-_a_kingdom_rebuilt.md) | 0.09% |
 | 327 | [while True: learn()](games/w/while_true__learn().md) | 0.09% |
-| 334 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
-| 334 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
-| 334 | [SYNCED](games/s/synced.md) | 0.08% |
-| 334 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
+| 333 | [Asteroids: Recharged](games/a/asteroids__recharged.md) | 0.08% |
+| 333 | [Port Royale 4](games/p/port_royale_4.md) | 0.08% |
+| 333 | [Smalland: Survive the Wilds](games/s/smalland__survive_the_wilds.md) | 0.08% |
+| 333 | [SYNCED](games/s/synced.md) | 0.08% |
+| 333 | [Warhammer Age of Sigmar: Realms of Ruin](games/0/0f4a57443f904107818acfc2068704f9.md) | 0.08% |
 | 338 | [Slain: Back From Hell](games/s/slain__back_from_hell.md) | 0.07% |
 | 339 | [60 Parsecs!](games/6/60_parsecs!.md) | 0.06% |
 | 339 | [ATOM RPG](games/a/atom_rpg.md) | 0.06% |
@@ -610,6 +610,7 @@
 | 409 | [Kainga: Seeds of Civilization](games/k/kainga__seeds_of_civilization.md) | 0.00% |
 | 409 | [KeyWe](games/k/keywe.md) | 0.00% |
 | 409 | [Knight vs Giant: The Broken Excalibur](games/9/973549a03a1441058badf7a1bc8b565d.md) | 0.00% |
+| 409 | [Knights of Honor II: Sovereign](games/k/knights_of_honor_ii__sovereign.md) | 0.00% |
 | 409 | [Last Labyrinth](games/6/63e942fbfc8e40a5af2f7749a8cbcc09.md) | 0.00% |
 | 409 | [Lawn Mowing Simulator](games/l/lawn_mowing_simulator.md) | 0.00% |
 | 409 | [Layers of Fear](games/l/layers_of_fear.md) | 0.00% |
