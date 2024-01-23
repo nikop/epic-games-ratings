@@ -7,7 +7,7 @@ Rating: 4.71 (Ranked 207)
 | ---- | ---------- | ----- |
 | Marksman | 97.00% | ~18,263 |
 | Welcome Aboard | 83.00% | ~15,627 |
-| Lab Rat | 67.00% | ~12,615 |
+| Lab Rat | 68.00% | ~12,803 |
 | All Systems Go | 57.00% | ~10,732 |
 | Brute Force | 56.00% | ~10,544 |
 | Cannon Fodder | 52.00% | ~9,791 |
@@ -32,7 +32,7 @@ Rating: 4.71 (Ranked 207)
 | Mindless Prey | 31.00% | ~5,837 |
 | There's Always Peng! | 30.00% | ~5,648 |
 | A Cut Above | 28.00% | ~5,272 |
-| Front Toward Enemy | 27.00% | ~5,084 |
+| Front Toward Enemy | 28.00% | ~5,272 |
 | Whole Again | 24.00% | ~4,519 |
 | Set A Benchmark | 24.00% | ~4,519 |
 | Final Regeneration | 20.00% | ~3,766 |

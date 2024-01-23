@@ -1,12 +1,12 @@
 # Carcassonne
 [Store](https://store.epicgames.com/en-US/p/carcassonne)  
 [View Rawdata](../../db/c/carcassonne.json)  
-Rating: 4.66 (Ranked 309)  
+Rating: 4.66 (Ranked 310)  
 Number of Ratings: 276  (23.09.2022)  
 ## Awards
 Max (Great for Beginners): 89  (Ranked 399)  
-Sum: 564 (Ranked 334)  
-Diff (max vs sum): 65  
+Sum: 564 (Ranked 333)  
+Diff (max vs sum): 66  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 89 |

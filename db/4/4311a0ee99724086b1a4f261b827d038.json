@@ -911,9 +911,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244758,
+  "EOS_Progressed": 244760,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1110,
+  "EOS_NewPlayers": 1103,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22266,6 +22266,11 @@
       "Time": "2024-01-23T05:10:18.9018388+00:00",
       "NumProgressed": 244758,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T06:10:06.3822348+00:00",
+      "NumProgressed": 244760,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22334,7 +22339,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51399
+      "UsersEstimate": 51400
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22549,7 +22554,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244758,
+      "Progressed": 244760,
       "Completed": 0
     }
   ],
@@ -22557,8 +22562,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-20T14:02:38.8696493+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:10:18.9018385+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:10:06.3822341+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:58:26.1954512+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:10:18.9019511+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:58:10.4340703+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:10:06.3823554+00:00"
 }

@@ -18864,10 +18864,16 @@
       "Rating": 4.67,
       "NumberOfAwards": 514744,
       "NumberOfAwardsMax": 144045
+    },
+    {
+      "Time": "2024-01-23T06:03:20.6541004+00:00",
+      "Rating": 4.67,
+      "NumberOfAwards": 514887,
+      "NumberOfAwardsMax": 144045
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 514744,
+  "NumberOfAwards": 514887,
   "NumberOfAwardsMax": 144045,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18887,7 +18893,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 32164
+      "Count": 32307
     },
     {
       "Text": "This game is Relaxing",
@@ -18944,9 +18950,9 @@
       "Count": 19955
     }
   ],
-  "EOS_Progressed": 1057413,
+  "EOS_Progressed": 1057433,
   "EOS_Completed": 3151,
-  "EOS_NewPlayers": 4968,
+  "EOS_NewPlayers": 4955,
   "EOS_NewCompleters": 45,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50774,6 +50780,11 @@
       "Time": "2024-01-23T05:09:19.1545828+00:00",
       "NumProgressed": 1057413,
       "NumCompleted": 3151
+    },
+    {
+      "Time": "2024-01-23T06:09:07.0433914+00:00",
+      "NumProgressed": 1057433,
+      "NumCompleted": 3151
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50906,7 +50917,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6345
     },
     {
       "ID": "MaxPain",
@@ -50954,7 +50965,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6345
     },
     {
       "ID": "Roleplayer",
@@ -50962,7 +50973,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6345
     },
     {
       "ID": "Specialist",
@@ -51018,7 +51029,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6345
     },
     {
       "ID": "TheLovers",
@@ -51026,7 +51037,7 @@
       "Name": "The Lovers",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6345
     },
     {
       "ID": "TheStar",
@@ -51048,9 +51059,9 @@
       "ID": "TheWheelOfFortune",
       "SetID": "47clieb",
       "Name": "The Wheel of Fortune",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 6344
+      "UsersEstimate": 7402
     },
     {
       "ID": "TheWorld",
@@ -51130,7 +51141,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6344
+      "UsersEstimate": 6345
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51321,21 +51332,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057413,
+      "Progressed": 1057433,
       "Completed": 3151
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186036,
+      "Progressed": 186056,
       "Completed": 10687
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-23T05:03:17.183148+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:09:19.1545825+00:00",
+  "LastChanged": "2024-01-23T06:03:20.6541003+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:09:07.0433909+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:03:17.1831486+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:09:19.1547529+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:03:20.6541008+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:09:07.0436389+00:00"
 }

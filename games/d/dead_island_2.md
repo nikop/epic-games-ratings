@@ -5,19 +5,19 @@ Rating: 4.54 (Ranked 554)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,926 |
-| Hotel California | 10.00% | ~80,842 |
-| Break A Leg | 9.00% | ~72,757 |
-| Coup de Grâce | 8.00% | ~64,673 |
-| Hazardous Materials | 8.00% | ~64,673 |
-| Git Gutte! | 7.00% | ~56,589 |
-| Apex Predator | 7.00% | ~56,589 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,589 |
-| Dr. Reed, I Presume? | 6.00% | ~48,505 |
-| Bookworm | 6.00% | ~48,505 |
-| Friends Like These | 6.00% | ~48,505 |
-| Stacking the Deck | 6.00% | ~48,505 |
-| This is My Weapon | 6.00% | ~48,505 |
+| Welcome To Hell-A | 11.00% | ~88,927 |
+| Hotel California | 10.00% | ~80,843 |
+| Break A Leg | 9.00% | ~72,758 |
+| Coup de Grâce | 8.00% | ~64,674 |
+| Hazardous Materials | 8.00% | ~64,674 |
+| Git Gutte! | 7.00% | ~56,590 |
+| Apex Predator | 7.00% | ~56,590 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,590 |
+| Dr. Reed, I Presume? | 6.00% | ~48,506 |
+| Bookworm | 6.00% | ~48,506 |
+| Friends Like These | 6.00% | ~48,506 |
+| Stacking the Deck | 6.00% | ~48,506 |
+| This is My Weapon | 6.00% | ~48,506 |
 | Anger Management | 5.00% | ~40,421 |
 | I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,421 |
 | But Doctor, I am Butcho | 5.00% | ~40,421 |
@@ -31,33 +31,33 @@ Rating: 4.54 (Ranked 554)
 | A Patton Emerges | 4.00% | ~32,337 |
 | I Am the Resurrection | 4.00% | ~32,337 |
 | Our True Nature | 4.00% | ~32,337 |
-| Whatever It Takes | 4.00% | ~5,358 |
-| Pork Chopped | 4.00% | ~5,358 |
-| Jumbo Keyring | 3.00% | ~24,252 |
-| Humanity Distilled | 3.00% | ~24,252 |
-| Down with the Sickness | 3.00% | ~24,252 |
-| Max Headroom | 3.00% | ~24,252 |
-| Go, Bobcats! | 3.00% | ~24,252 |
-| Rising Star | 3.00% | ~24,252 |
+| Whatever It Takes | 4.00% | ~5,359 |
+| Pork Chopped | 4.00% | ~5,359 |
+| Jumbo Keyring | 3.00% | ~24,253 |
+| Humanity Distilled | 3.00% | ~24,253 |
+| Down with the Sickness | 3.00% | ~24,253 |
+| Max Headroom | 3.00% | ~24,253 |
+| Go, Bobcats! | 3.00% | ~24,253 |
+| Rising Star | 3.00% | ~24,253 |
 | One of Us | 3.00% | ~4,019 |
-| Make it So | 2.00% | ~16,168 |
-| Smorgasbord | 2.00% | ~16,168 |
-| Not Even My Final Form | 2.00% | ~16,168 |
-| Internet Famous | 2.00% | ~16,168 |
-| Variety is the Spice of Death | 2.00% | ~16,168 |
+| Make it So | 2.00% | ~16,169 |
+| Smorgasbord | 2.00% | ~16,169 |
+| Not Even My Final Form | 2.00% | ~16,169 |
+| Internet Famous | 2.00% | ~16,169 |
+| Variety is the Spice of Death | 2.00% | ~16,169 |
 | LA Influential | 1.00% | ~8,084 |
 | On Safari | 1.00% | ~8,084 |
 | Sole Survivor | 1.00% | ~8,084 |
 | Gore Horse | 1.00% | ~8,084 |
 | Sharpest Tool in the Box | 1.00% | ~8,084 |
-| Survival Skills | 0.60% | ~4,850 |
+| Survival Skills | 0.60% | ~4,851 |
 | Top That, Tisha! | 0.60% | ~804 |
 | Donk! | 0.40% | ~3,234 |
 | Lawn and Order | 0.30% | ~402 |
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,416 (Ranked 23)  
+Progressed: 808,427 (Ranked 23)  
 Completed: 2,624 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 2,624 (0.32%) (Ranked 261)
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
-| 2024-01-23 | 808,416 | 2,624 |
+| 2024-01-23 | 808,427 | 2,624 |
 ## Awards
 Max (Great Boss Battles): 10,811  (Ranked 40)  
 Sum: 16,637 (Ranked 68)  

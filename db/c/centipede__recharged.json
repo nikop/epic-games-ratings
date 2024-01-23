@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 148,
   "Ranking_EOS_Completed": 235,
-  "Ranking_EOS_NewPlayers": 150,
+  "Ranking_EOS_NewPlayers": 149,
   "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-09-29T04:00:00+00:00",
@@ -365,9 +365,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 25546,
+  "EOS_Progressed": 25547,
   "EOS_Completed": 121,
-  "EOS_NewPlayers": 272,
+  "EOS_NewPlayers": 271,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.47,
   "EosHistory": [
@@ -23935,6 +23935,11 @@
       "Time": "2024-01-23T05:05:22.8671677+00:00",
       "NumProgressed": 25546,
       "NumCompleted": 121
+    },
+    {
+      "Time": "2024-01-23T06:05:27.8958771+00:00",
+      "NumProgressed": 25547,
+      "NumCompleted": 121
     }
   ],
   "TotalAchievements": 16,
@@ -23994,7 +23999,7 @@
       "Name": "Fireworks",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 7408
+      "UsersEstimate": 7409
     },
     {
       "ID": "Harvester_Of_Eyes",
@@ -24018,7 +24023,7 @@
       "Name": "Make Rock Not War",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 9707
+      "UsersEstimate": 9708
     },
     {
       "ID": "Mirrors",
@@ -24058,7 +24063,7 @@
       "Name": "Still Burnin\u0027",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 4087
+      "UsersEstimate": 4088
     },
     {
       "ID": "The_Reaper",
@@ -24073,15 +24078,15 @@
     {
       "ID": "96f13ae",
       "IsBase": true,
-      "Progressed": 25546,
+      "Progressed": 25547,
       "Completed": 121
     }
   ],
   "FirstSeen": "2022-07-22T20:30:18.6527297+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:32.2496513+00:00",
   "LastChanged": "2024-01-09T13:57:36.5131842+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:05:22.8671675+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:05:27.8958767+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.7056201+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:57:40.0266396+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:05:22.8672627+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:57:23.0982161+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:05:27.8960138+00:00"
 }

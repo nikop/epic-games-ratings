@@ -6,7 +6,7 @@ Rating: 4.60 (Ranked 430)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Wakey Wakey | 35.00% | ~1,487 |
-| Sputnik 2049 | 30.00% | ~1,274 |
+| Sputnik 2049 | 30.00% | ~1,275 |
 | Infinite Growth... | 29.00% | ~1,232 |
 | Without Breaking Some Eggs... | 27.00% | ~1,147 |
 | Space Society | 20.00% | ~850 |
@@ -63,7 +63,7 @@ Rating: 4.60 (Ranked 430)
 | This is Fine | 0.10% | ~4 |
 | Suburban Perfection | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,248 (Ranked 218)  
+Progressed: 4,249 (Ranked 218)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -331,7 +331,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 4,231 | 0 |
 | 2024-01-21 | 4,240 | 0 |
 | 2024-01-22 | 4,246 | 0 |
-| 2024-01-23 | 4,248 | 0 |
+| 2024-01-23 | 4,249 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

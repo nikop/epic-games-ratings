@@ -2596,9 +2596,9 @@
       "Count": 259
     }
   ],
-  "EOS_Progressed": 227775,
+  "EOS_Progressed": 227776,
   "EOS_Completed": 110,
-  "EOS_NewPlayers": 1530,
+  "EOS_NewPlayers": 1521,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -34601,6 +34601,11 @@
       "Time": "2024-01-23T05:08:23.2484641+00:00",
       "NumProgressed": 227775,
       "NumCompleted": 110
+    },
+    {
+      "Time": "2024-01-23T06:08:12.0425722+00:00",
+      "NumProgressed": 227776,
+      "NumCompleted": 110
     }
   ],
   "TotalAchievements": 44,
@@ -34636,7 +34641,7 @@
       "Name": "Chunin",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 13666
+      "UsersEstimate": 13667
     },
     {
       "ID": "CompleteMastery",
@@ -34668,7 +34673,7 @@
       "Name": "Flying Rocks",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13666
+      "UsersEstimate": 13667
     },
     {
       "ID": "GearUp",
@@ -34932,7 +34937,7 @@
       "Name": "Warzone",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 13666
+      "UsersEstimate": 13667
     },
     {
       "ID": "WhenCutAcrossTheNeck",
@@ -34963,15 +34968,15 @@
     {
       "ID": "ak6bfk8",
       "IsBase": true,
-      "Progressed": 227775,
+      "Progressed": 227776,
       "Completed": 110
     }
   ],
   "FirstSeen": "2022-07-22T20:21:59.8684253+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:45.1019573+00:00",
   "LastChanged": "2024-01-22T18:57:08.7177604+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:08:23.2484638+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:08:12.0425719+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.1856968+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:57:31.6386508+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:08:23.2486047+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:57:14.5889238+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:08:12.0427242+00:00"
 }

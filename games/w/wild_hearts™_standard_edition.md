@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Land of the Rising Sun | 100.00% | ~1,401 |
+| Land of the Rising Sun | 100.00% | ~1,402 |
 | Hidden History | 72.00% | ~1,009 |
 | Commencing of Quests | 63.00% | ~883 |
 | Budding Conjuror | 62.00% | ~869 |
 | Man-Machine Master | 51.00% | ~715 |
 | Mountain Splitter | 51.00% | ~715 |
-| Charmed by the Hunt | 50.00% | ~700 |
-| Memory Rouser | 49.00% | ~686 |
-| Subsistence Skills | 49.00% | ~686 |
-| Fusion Conjuror | 48.00% | ~672 |
-| Kemono Hunter | 45.00% | ~630 |
-| Expert Conjuror | 43.00% | ~602 |
-| Helpful Heart | 41.00% | ~574 |
-| Bonds of Enmity | 40.00% | ~560 |
-| Distance Devourer | 39.00% | ~546 |
-| Flawless Crystal | 39.00% | ~546 |
-| Counter Specialist | 36.00% | ~504 |
-| Master of the Skies | 33.00% | ~462 |
-| Mighty Marmelizer | 30.00% | ~420 |
-| Axer of Auspice | 30.00% | ~420 |
-| Fair Means or Foul | 29.00% | ~406 |
-| Kemono at Heart | 29.00% | ~406 |
-| Single Minded | 27.00% | ~378 |
+| Charmed by the Hunt | 50.00% | ~701 |
+| Memory Rouser | 49.00% | ~687 |
+| Subsistence Skills | 49.00% | ~687 |
+| Fusion Conjuror | 48.00% | ~673 |
+| Kemono Hunter | 45.00% | ~631 |
+| Expert Conjuror | 43.00% | ~603 |
+| Helpful Heart | 41.00% | ~575 |
+| Bonds of Enmity | 40.00% | ~561 |
+| Distance Devourer | 39.00% | ~547 |
+| Flawless Crystal | 39.00% | ~547 |
+| Counter Specialist | 36.00% | ~505 |
+| Master of the Skies | 33.00% | ~463 |
+| Mighty Marmelizer | 30.00% | ~421 |
+| Axer of Auspice | 30.00% | ~421 |
+| Fair Means or Foul | 29.00% | ~407 |
+| Kemono at Heart | 29.00% | ~407 |
+| Single Minded | 27.00% | ~379 |
 | Karakuri Trail | 25.00% | ~350 |
 | Snare Specialist | 25.00% | ~350 |
 | Team Hunter | 22.00% | ~308 |
@@ -53,7 +53,7 @@
 | Bewitched by Bathing | 5.00% | ~70 |
 | Tsukumo Whisperer | 3.00% | ~42 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,401 (Ranked 280)  
+Progressed: 1,402 (Ranked 280)  
 Completed: 8 (0.57%) (Ranked 221)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -183,4 +183,4 @@ Completed: 8 (0.57%) (Ranked 221)
 | 2024-01-20 | 1,389 | 8 |
 | 2024-01-21 | 1,396 | 8 |
 | 2024-01-22 | 1,400 | 8 |
-| 2024-01-23 | 1,401 | 8 |
+| 2024-01-23 | 1,402 | 8 |

@@ -26,15 +26,15 @@ Number of Ratings: 96  (23.09.2022)
 | Card Player | 8.00% | ~5,481 |
 | Dead Friend | 8.00% | ~5,481 |
 | Pine Tree | 8.00% | ~5,481 |
-| Worthy | 7.00% | ~4,795 |
-| Black Book | 7.00% | ~4,795 |
-| Black Sorcerer | 7.00% | ~4,795 |
-| Dead Man | 7.00% | ~4,795 |
-| Fern | 7.00% | ~4,795 |
-| 100 Friends | 7.00% | ~4,795 |
-| Witch | 7.00% | ~4,795 |
-| Researcher | 7.00% | ~4,795 |
-| Savvy | 7.00% | ~4,795 |
+| Worthy | 7.00% | ~4,796 |
+| Black Book | 7.00% | ~4,796 |
+| Black Sorcerer | 7.00% | ~4,796 |
+| Dead Man | 7.00% | ~4,796 |
+| Fern | 7.00% | ~4,796 |
+| 100 Friends | 7.00% | ~4,796 |
+| Witch | 7.00% | ~4,796 |
+| Researcher | 7.00% | ~4,796 |
+| Savvy | 7.00% | ~4,796 |
 | Encyclopedist | 6.00% | ~4,110 |
 | Vorsa | 6.00% | ~4,110 |
 | Old Spirits | 6.00% | ~4,110 |
@@ -57,7 +57,7 @@ Number of Ratings: 96  (23.09.2022)
 | Own Way | 2.00% | ~1,370 |
 | Word Master | 0.20% | ~137 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 68,507 (Ranked 118)  
+Progressed: 68,508 (Ranked 118)  
 Completed: 77 (0.11%) (Ranked 314)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -207,7 +207,7 @@ Completed: 77 (0.11%) (Ranked 314)
 | 2024-01-20 | 68,148 | 75 |
 | 2024-01-21 | 68,355 | 75 |
 | 2024-01-22 | 68,486 | 77 |
-| 2024-01-23 | 68,507 | 77 |
+| 2024-01-23 | 68,508 | 77 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

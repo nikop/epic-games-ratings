@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30361,
+  "EOS_Progressed": 30362,
   "EOS_Completed": 231,
-  "EOS_NewPlayers": 677,
+  "EOS_NewPlayers": 673,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -11551,6 +11551,11 @@
       "Time": "2024-01-23T05:10:14.8325711+00:00",
       "NumProgressed": 30361,
       "NumCompleted": 231
+    },
+    {
+      "Time": "2024-01-23T06:10:02.2314251+00:00",
+      "NumProgressed": 30362,
+      "NumCompleted": 231
     }
   ],
   "TotalAchievements": 24,
@@ -11562,7 +11567,7 @@
       "Name": "Feeling the Blues",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 2732
+      "UsersEstimate": 2733
     },
     {
       "ID": "ACH_CollectAll",
@@ -11698,7 +11703,7 @@
       "Name": "Sector 2",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 9108
+      "UsersEstimate": 9109
     },
     {
       "ID": "ACH_Sector3",
@@ -11753,7 +11758,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30361,
+      "Progressed": 30362,
       "Completed": 231
     }
   ],
@@ -11761,8 +11766,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:10:14.8325708+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:10:02.2314247+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:02:49.1176695+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:10:14.8326353+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:02:53.2316611+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:10:02.2314936+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "shotgun-farmers-d9f3f0",
   "Ranking_EOS_Progress": 379,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 379,
+  "Ranking_EOS_NewPlayers": 366,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-04-27T14:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 387,
+  "EOS_Progressed": 388,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 5,
+  "EOS_NewPlayers": 6,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1716,6 +1716,11 @@
       "Time": "2024-01-22T04:09:14.8080459+00:00",
       "NumProgressed": 387,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T06:08:52.6439256+00:00",
+      "NumProgressed": 388,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 74,
@@ -1783,15 +1788,15 @@
       "Name": "Seeds of War",
       "Percentage": 81,
       "XP": 5,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "ach_first_rocket_jump",
       "SetID": "cmg602e",
       "Name": "I Believe I Can Fly",
-      "Percentage": 50,
+      "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 194
+      "UsersEstimate": 190
     },
     {
       "ID": "ach_heal_x_points_with_health_pack",
@@ -2015,7 +2020,7 @@
       "Name": "No Asperascope",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 228
+      "UsersEstimate": 229
     },
     {
       "ID": "ach_steal_x_gnomes",
@@ -2031,7 +2036,7 @@
       "Name": "10K",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 108
+      "UsersEstimate": 109
     },
     {
       "ID": "ach_tripleKill",
@@ -2069,9 +2074,9 @@
       "ID": "ach_x_victims_using_shotgun",
       "SetID": "cmg602e",
       "Name": "Cornivore",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 20,
-      "UsersEstimate": 205
+      "UsersEstimate": 210
     },
     {
       "ID": "ach_all_koth_points",
@@ -2191,7 +2196,7 @@
       "Name": "Early Survivor",
       "Percentage": 39,
       "XP": 5,
-      "UsersEstimate": 131
+      "UsersEstimate": 132
     },
     {
       "ID": "ach_waves_20",
@@ -2199,7 +2204,7 @@
       "Name": "Amateur Survivor",
       "Percentage": 28,
       "XP": 5,
-      "UsersEstimate": 94
+      "UsersEstimate": 95
     },
     {
       "ID": "ach_waves_30",
@@ -2229,9 +2234,9 @@
       "ID": "ach_x_farmers_same_sniper",
       "SetID": "bf10c8p",
       "Name": "Aspairagus",
-      "Percentage": 59,
+      "Percentage": 60,
       "XP": 5,
-      "UsersEstimate": 199
+      "UsersEstimate": 203
     },
     {
       "ID": "ach_x_peastol_healing_done",
@@ -2269,9 +2274,9 @@
       "ID": "ach_x_victims_using_double_barrel",
       "SetID": "bf10c8p",
       "Name": "This Is My Boomstick",
-      "Percentage": 16,
+      "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 54
+      "UsersEstimate": 51
     },
     {
       "ID": "ach_x_victims_using_grenade_launcher",
@@ -2287,7 +2292,7 @@
       "Name": "Summers Here",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 40
+      "UsersEstimate": 41
     },
     {
       "ID": "ach_x_victims_using_pistol",
@@ -2301,9 +2306,9 @@
       "ID": "ach_x_victims_using_shovel",
       "SetID": "bf10c8p",
       "Name": "Grave Digger",
-      "Percentage": 24,
+      "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 81
+      "UsersEstimate": 78
     },
     {
       "ID": "ach_y_farmers_same_sniper",
@@ -2318,13 +2323,13 @@
     {
       "ID": "cmg602e",
       "IsBase": true,
-      "Progressed": 387,
+      "Progressed": 388,
       "Completed": 0
     },
     {
       "ID": "bf10c8p",
       "IsBase": false,
-      "Progressed": 337,
+      "Progressed": 338,
       "Completed": 2
     }
   ],
@@ -2332,8 +2337,8 @@
   "FirstSeenRating": "2023-05-02T01:56:41.6239382+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:50.543476+00:00",
   "LastChanged": "2023-05-02T01:56:41.6239383+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:09:04.2509162+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:08:52.6439251+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:04.3355436+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:57:48.5590156+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:09:04.2509906+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:57:31.2211438+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:08:52.6439925+00:00"
 }

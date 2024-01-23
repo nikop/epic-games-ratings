@@ -531,7 +531,7 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 3584,
+  "EOS_Progressed": 3585,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 115,
   "EOS_NewCompleters": 0,
@@ -6116,6 +6116,11 @@
       "Time": "2024-01-23T03:11:48.5336245+00:00",
       "NumProgressed": 3584,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T06:10:09.6185219+00:00",
+      "NumProgressed": 3585,
+      "NumCompleted": 5
     }
   ],
   "AchievementsAdded": "2023-09-21T18:04:12.8574949+00:00",
@@ -6128,7 +6133,7 @@
       "Name": "Unforeseen",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 3190
+      "UsersEstimate": 3191
     },
     {
       "ID": "achievement_10",
@@ -6184,7 +6189,7 @@
       "Name": "Recruit",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 573
+      "UsersEstimate": 574
     },
     {
       "ID": "achievement_17",
@@ -6216,7 +6221,7 @@
       "Name": "Battlefields Have Memories",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 2939
+      "UsersEstimate": 2940
     },
     {
       "ID": "achievement_20",
@@ -6304,7 +6309,7 @@
       "Name": "No More Names",
       "Percentage": 55,
       "XP": 10,
-      "UsersEstimate": 1971
+      "UsersEstimate": 1972
     },
     {
       "ID": "achievement_41",
@@ -6360,7 +6365,7 @@
       "Name": "Enlisted",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 2724
+      "UsersEstimate": 2725
     },
     {
       "ID": "achievement_49",
@@ -6376,7 +6381,7 @@
       "Name": "Initiate",
       "Percentage": 42,
       "XP": 15,
-      "UsersEstimate": 1505
+      "UsersEstimate": 1506
     },
     {
       "ID": "achievement_50",
@@ -6503,7 +6508,7 @@
     {
       "ID": "18al4io",
       "IsBase": true,
-      "Progressed": 3584,
+      "Progressed": 3585,
       "Completed": 5
     }
   ],
@@ -6511,8 +6516,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:10:22.1102055+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:10:09.6185215+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:58:01.1196049+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:10:22.1102682+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:57:44.4508455+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:10:09.6186182+00:00"
 }

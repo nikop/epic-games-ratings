@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 342,
+  "Ranking_EOS_NewPlayers": 341,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1693,9 +1693,9 @@
       "ID": "KR4_ACHIEVEMENT_FEELS_GOOD_TO_BE_BACK",
       "SetID": "caeik3h",
       "Name": "Feels Good To Be Back",
-      "Percentage": 97,
+      "Percentage": 98,
       "XP": 5,
-      "UsersEstimate": 323
+      "UsersEstimate": 326
     },
     {
       "ID": "KR4_ACHIEVEMENT_FIND_THE_CAPT",
@@ -2172,8 +2172,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:06:03.2887233+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:06:03.6353476+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:59:24.9585001+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:06:03.2888154+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:59:10.8062375+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:06:03.6354062+00:00"
 }

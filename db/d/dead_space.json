@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 381,
   "Ranking_EOS_Progress": 163,
   "Ranking_EOS_Completed": 269,
-  "Ranking_EOS_NewPlayers": 98,
+  "Ranking_EOS_NewPlayers": 99,
   "Ranking_EOS_NewCompleters": 32,
   "Store": {
     "ReleaseDate": "2023-01-27T16:00:00+00:00",
@@ -1009,7 +1009,7 @@
   ],
   "EOS_Progressed": 18828,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 855,
+  "EOS_NewPlayers": 848,
   "EOS_NewCompleters": 10,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -12255,9 +12255,9 @@
       "ID": "achievement_2",
       "SetID": "222fo9l",
       "Name": "Lab Rat",
-      "Percentage": 67,
+      "Percentage": 68,
       "XP": 10,
-      "UsersEstimate": 12615
+      "UsersEstimate": 12803
     },
     {
       "ID": "achievement_20",
@@ -12415,9 +12415,9 @@
       "ID": "achievement_38",
       "SetID": "222fo9l",
       "Name": "Front Toward Enemy",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 5084
+      "UsersEstimate": 5272
     },
     {
       "ID": "achievement_39",
@@ -12552,8 +12552,8 @@
   "FirstSeenRating": "2023-01-31T17:57:54.7682727+00:00",
   "FirstSeenAchievements": "2023-07-14T17:07:55.1010151+00:00",
   "LastChanged": "2024-01-23T01:53:37.6046867+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:03:58.5707104+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:04:04.2769526+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:32.8853693+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:02:56.6442584+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:03:58.5707873+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:03:01.1855186+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:04:04.2770303+00:00"
 }

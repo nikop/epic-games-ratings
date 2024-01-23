@@ -5,15 +5,15 @@ Rating: 4.19 (Ranked 985)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step Into the Knight | 50.00% | ~41,596 |
+| First Step Into the Knight | 50.00% | ~41,598 |
 | Har, Har, Har, Very Funny | 34.00% | ~28,286 |
 | Loose Ends | 33.00% | ~27,454 |
-| To the Victor Go the Spoils | 27.00% | ~22,462 |
-| Knighthood | 26.00% | ~21,630 |
-| Get ReQ'd | 24.00% | ~19,966 |
-| Whispered Words | 24.00% | ~19,966 |
-| The Batman Family | 22.00% | ~18,302 |
-| Lock and Key | 22.00% | ~18,302 |
+| To the Victor Go the Spoils | 27.00% | ~22,463 |
+| Knighthood | 26.00% | ~21,631 |
+| Get ReQ'd | 24.00% | ~19,967 |
+| Whispered Words | 24.00% | ~19,967 |
+| The Batman Family | 22.00% | ~18,303 |
+| Lock and Key | 22.00% | ~18,303 |
 | Something in the Clay | 20.00% | ~16,639 |
 | Quartzer Life Crisis | 20.00% | ~16,639 |
 | Working Hard or Harley Working? | 20.00% | ~16,639 |
@@ -35,9 +35,9 @@ Rating: 4.19 (Ranked 985)
 | Bulldozed | 12.00% | ~9,983 |
 | Gotham Knight | 12.00% | ~9,983 |
 | Gotham City Confidential | 11.00% | ~9,151 |
-| Drone You Out | 10.00% | ~8,319 |
-| Out of Their League | 9.00% | ~7,487 |
-| Solid Alibi | 8.00% | ~6,655 |
+| Drone You Out | 10.00% | ~8,320 |
+| Out of Their League | 9.00% | ~7,488 |
+| Solid Alibi | 8.00% | ~6,656 |
 | Fusion Expert | 7.00% | ~5,824 |
 | Family Meeting | 6.00% | ~4,992 |
 | A Worthy Successor | 6.00% | ~4,992 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 985)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,193 (Ranked 111)  
+Progressed: 83,195 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 135 (0.16%) (Ranked 297)
 | 2024-01-20 | 83,086 | 135 |
 | 2024-01-21 | 83,148 | 135 |
 | 2024-01-22 | 83,185 | 135 |
-| 2024-01-23 | 83,193 | 135 |
+| 2024-01-23 | 83,195 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,243  (Ranked 102)  
 Sum: 5,549 (Ranked 145)  

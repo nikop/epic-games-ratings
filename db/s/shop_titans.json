@@ -8293,9 +8293,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152542,
+  "EOS_Progressed": 152546,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 1181,
+  "EOS_NewPlayers": 1180,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37808,6 +37808,11 @@
       "Time": "2024-01-23T05:09:35.2449487+00:00",
       "NumProgressed": 152542,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-23T06:09:22.6614646+00:00",
+      "NumProgressed": 152546,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -37987,7 +37992,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18305
+      "UsersEstimate": 18306
     },
     {
       "ID": "chest02",
@@ -38083,7 +38088,7 @@
       "Name": "Disintermediation",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12203
+      "UsersEstimate": 12204
     },
     {
       "ID": "craft02",
@@ -38193,9 +38198,9 @@
       "ID": "expansion01",
       "SetID": "anfd17p",
       "Name": "It\u0027s Free Real Estate",
-      "Percentage": 7,
+      "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 10678
+      "UsersEstimate": 12204
     },
     {
       "ID": "expansion02",
@@ -38291,7 +38296,7 @@
       "Name": "Tinkle of Coins",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 15254
+      "UsersEstimate": 15255
     },
     {
       "ID": "gold02",
@@ -38595,7 +38600,7 @@
       "Name": "Capitalism Ho!",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 12203
+      "UsersEstimate": 12204
     },
     {
       "ID": "sell02",
@@ -38635,7 +38640,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18305
+      "UsersEstimate": 18306
     },
     {
       "ID": "twinenchant01",
@@ -38714,15 +38719,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152542,
+      "Progressed": 152546,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-22T09:03:38.5579473+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:09:35.2449484+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:09:22.6614642+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:03:23.7565526+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:09:35.2451749+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:03:27.9446462+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:09:22.6616887+00:00"
 }

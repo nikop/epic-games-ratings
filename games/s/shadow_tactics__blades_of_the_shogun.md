@@ -19,9 +19,9 @@ Number of Ratings: 495  (23.09.2022)
 | Yabu | 8.00% | ~18,222 |
 | Happy Planning | 7.00% | ~15,944 |
 | Mugen Unchained | 7.00% | ~15,944 |
-| Chunin | 6.00% | ~13,666 |
-| Flying Rocks | 6.00% | ~13,666 |
-| Warzone | 6.00% | ~13,666 |
+| Chunin | 6.00% | ~13,667 |
+| Flying Rocks | 6.00% | ~13,667 |
+| Warzone | 6.00% | ~13,667 |
 | Happy little accidents | 5.00% | ~11,389 |
 | Okkoto | 5.00% | ~11,389 |
 | Prisoners | 5.00% | ~11,389 |
@@ -51,7 +51,7 @@ Number of Ratings: 495  (23.09.2022)
 | Mimimi | 0.10% | ~228 |
 | Release the Kraken | 0.10% | ~228 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 227,775 (Ranked 80)  
+Progressed: 227,776 (Ranked 80)  
 Completed: 110 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 110 (0.05%) (Ranked 348)
 | 2024-01-20 | 227,247 | 108 |
 | 2024-01-21 | 227,527 | 110 |
 | 2024-01-22 | 227,732 | 110 |
-| 2024-01-23 | 227,775 | 110 |
+| 2024-01-23 | 227,776 | 110 |
 ## Awards
 Max (Great for Beginners): 596  (Ranked 213)  
 Sum: 4,969 (Ranked 155)  

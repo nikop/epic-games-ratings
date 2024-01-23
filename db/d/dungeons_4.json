@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 81,
-  "Ranking_EOS_NewPlayers": 295,
+  "Ranking_EOS_NewPlayers": 294,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2703,9 +2703,9 @@
       "ID": "ach_main04undead_completed",
       "SetID": "4hg22ll",
       "Name": "The Plains of Strothalm",
-      "Percentage": 72,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 566
+      "UsersEstimate": 574
     },
     {
       "ID": "ach_main04undead_minions",
@@ -3128,8 +3128,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:09:53.7975351+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:09:41.4008163+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:58:20.037644+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:09:53.7975798+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:58:04.2117361+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:09:41.4008741+00:00"
 }

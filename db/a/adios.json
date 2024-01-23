@@ -147,7 +147,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 84227,
+  "EOS_Progressed": 84228,
   "EOS_Completed": 947,
   "EOS_NewPlayers": 555,
   "EOS_NewCompleters": 7,
@@ -31167,6 +31167,11 @@
       "Time": "2024-01-23T05:06:02.1878698+00:00",
       "NumProgressed": 84227,
       "NumCompleted": 947
+    },
+    {
+      "Time": "2024-01-23T06:06:02.5491029+00:00",
+      "NumProgressed": 84228,
+      "NumCompleted": 947
     }
   ],
   "TotalAchievements": 25,
@@ -31250,7 +31255,7 @@
       "Name": "Hard Worker",
       "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 16845
+      "UsersEstimate": 16846
     },
     {
       "ID": "Hearty",
@@ -31266,7 +31271,7 @@
       "Name": "Lazy Bones",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 7580
+      "UsersEstimate": 7581
     },
     {
       "ID": "Magnetic Miracles",
@@ -31298,7 +31303,7 @@
       "Name": "Mechanic",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 16845
+      "UsersEstimate": 16846
     },
     {
       "ID": "Nice Try",
@@ -31377,7 +31382,7 @@
     {
       "ID": "1e8d2nk",
       "IsBase": true,
-      "Progressed": 84227,
+      "Progressed": 84228,
       "Completed": 947
     }
   ],
@@ -31385,8 +31390,8 @@
   "FirstSeenRating": "2023-03-31T05:58:06.4297957+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:47.4961579+00:00",
   "LastChanged": "2024-01-16T03:59:25.027441+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:06:02.1878694+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:06:02.5491025+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:18.1215984+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:58:19.8976457+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:06:02.1880079+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:58:04.0406765+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:06:02.549286+00:00"
 }

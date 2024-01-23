@@ -9959,9 +9959,9 @@
       "ID": "30_Citizens",
       "SetID": "4h07amh",
       "Name": "Ask Not What Your Empire Can Do For You",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 76
+      "UsersEstimate": 152
     },
     {
       "ID": "Buy_10_Resource",
@@ -10535,8 +10535,8 @@
   "FirstSeen": "2022-07-22T20:20:44.6509477+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:27.9117326+00:00",
   "LastChanged": "2024-01-18T18:57:53.1315206+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:10:25.5310517+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:10:13.0481734+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.9915823+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:59:17.9576297+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:10:25.5311549+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:59:03.4158319+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:10:13.0482563+00:00"
 }

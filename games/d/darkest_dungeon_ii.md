@@ -23,14 +23,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 6.00% | ~8,012 |
 | Ploughshares to Swords | 6.00% | ~504 |
 | Bloody Graduation | 6.00% | ~504 |
-| It Rings a Bell | 5.00% | ~6,676 |
-| Not Today! | 5.00% | ~6,676 |
-| It Happens | 5.00% | ~6,676 |
-| Merry Time | 5.00% | ~6,676 |
-| Harvest Festival | 5.00% | ~6,676 |
-| Whale | 5.00% | ~6,676 |
-| A Place to Lay Your Head | 5.00% | ~6,676 |
-| Nope | 5.00% | ~6,676 |
+| It Rings a Bell | 5.00% | ~6,677 |
+| Not Today! | 5.00% | ~6,677 |
+| It Happens | 5.00% | ~6,677 |
+| Merry Time | 5.00% | ~6,677 |
+| Harvest Festival | 5.00% | ~6,677 |
+| Whale | 5.00% | ~6,677 |
+| A Place to Lay Your Head | 5.00% | ~6,677 |
+| Nope | 5.00% | ~6,677 |
 | Friends 'Til the End | 5.00% | ~420 |
 | Resurrection | 4.00% | ~5,341 |
 | Unleash Hell | 4.00% | ~5,341 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,528 (Ranked 92)  
+Progressed: 133,531 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
-| 2024-01-23 | 133,528 | 5 |
+| 2024-01-23 | 133,531 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,825 (Ranked 58)  

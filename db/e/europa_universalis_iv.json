@@ -14659,11 +14659,17 @@
       "Rating": 4.69,
       "NumberOfAwards": 65543,
       "NumberOfAwardsMax": 7940
+    },
+    {
+      "Time": "2024-01-23T06:02:30.363691+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 65554,
+      "NumberOfAwardsMax": 7951
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 65543,
-  "NumberOfAwardsMax": 7940,
+  "NumberOfAwards": 65554,
+  "NumberOfAwardsMax": 7951,
   "MaxAwardTitle": "Educational",
   "Tags": [
     {
@@ -14694,7 +14700,7 @@
       "Text": "This game is Educational",
       "Prefix": "This game is",
       "Type": "Educational",
-      "Count": 7940
+      "Count": 7951
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -14733,9 +14739,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 504096,
+  "EOS_Progressed": 504105,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4342,
+  "EOS_NewPlayers": 4341,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46818,6 +46824,11 @@
       "Time": "2024-01-23T05:10:33.1165201+00:00",
       "NumProgressed": 504096,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T06:10:20.3342683+00:00",
+      "NumProgressed": 504105,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47853,7 +47864,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2521
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -48829,7 +48840,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2520
+      "UsersEstimate": 2521
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -49732,21 +49743,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 504096,
+      "Progressed": 504105,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 504096,
+      "Progressed": 504105,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
-  "LastChanged": "2024-01-23T01:50:43.2124876+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:10:33.1165198+00:00",
+  "LastChanged": "2024-01-23T06:02:30.3636908+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:10:20.3342679+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:00:24.0338729+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:10:33.1175423+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:02:30.3636913+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:10:20.3352787+00:00"
 }

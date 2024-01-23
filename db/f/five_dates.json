@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2445,
+  "EOS_Progressed": 2446,
   "EOS_Completed": 12,
   "EOS_NewPlayers": 121,
   "EOS_NewCompleters": 0,
@@ -4855,6 +4855,11 @@
       "Time": "2024-01-23T02:37:12.7417215+00:00",
       "NumProgressed": 2445,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-23T06:10:02.7832215+00:00",
+      "NumProgressed": 2446,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4866,7 +4871,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2396
+      "UsersEstimate": 2397
     },
     {
       "ID": "booty_call",
@@ -4890,7 +4895,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2347
+      "UsersEstimate": 2348
     },
     {
       "ID": "hold_my_beer",
@@ -4898,7 +4903,7 @@
       "Name": "Hold my Beer",
       "Percentage": 62,
       "XP": 25,
-      "UsersEstimate": 1516
+      "UsersEstimate": 1517
     },
     {
       "ID": "in_contempt_of_duvet",
@@ -4906,7 +4911,7 @@
       "Name": "In Contempt of Duvet",
       "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "interrogation",
@@ -4930,7 +4935,7 @@
       "Name": "Not Alone",
       "Percentage": 21,
       "XP": 25,
-      "UsersEstimate": 513
+      "UsersEstimate": 514
     },
     {
       "ID": "nueva_beginnings",
@@ -4946,7 +4951,7 @@
       "Name": "Only Thyme Will Tell",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "planting_the_seed",
@@ -4978,14 +4983,14 @@
       "Name": "We Go Again",
       "Percentage": 25,
       "XP": 100,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     }
   ],
   "AchievementSets": [
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2445,
+      "Progressed": 2446,
       "Completed": 12
     }
   ],
@@ -4993,8 +4998,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:10:15.4084965+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:10:02.7832206+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.0715921+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:59:44.8214493+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:10:15.4085281+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:59:31.1359419+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:10:02.7832562+00:00"
 }

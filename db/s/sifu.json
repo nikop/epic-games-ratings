@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 71,
+  "Ranking_EOS_NewPlayers": 70,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9183,9 +9183,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762448,
+  "EOS_Progressed": 762456,
   "EOS_Completed": 13004,
-  "EOS_NewPlayers": 1401,
+  "EOS_NewPlayers": 1396,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34958,6 +34958,11 @@
       "Time": "2024-01-23T05:09:59.0061164+00:00",
       "NumProgressed": 762448,
       "NumCompleted": 13004
+    },
+    {
+      "Time": "2024-01-23T06:09:46.6241395+00:00",
+      "NumProgressed": 762456,
+      "NumCompleted": 13004
     }
   ],
   "TotalAchievements": 60,
@@ -34977,7 +34982,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38122
+      "UsersEstimate": 38123
     },
     {
       "ID": "03_Vengeance_H2",
@@ -34985,7 +34990,7 @@
       "Name": "The Hateful Pole Fighter",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 22873
+      "UsersEstimate": 22874
     },
     {
       "ID": "04_Vengeance_H3",
@@ -35057,7 +35062,7 @@
       "Name": "Scareless",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7624
+      "UsersEstimate": 7625
     },
     {
       "ID": "13_LowAge",
@@ -35121,7 +35126,7 @@
       "Name": "Stuntmaster",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22873
+      "UsersEstimate": 22874
     },
     {
       "ID": "21_ThrowAI_Trophy",
@@ -35129,7 +35134,7 @@
       "Name": "Dance of the Praying Mantis",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 7624
+      "UsersEstimate": 7625
     },
     {
       "ID": "22_ThrowEE_Trophy",
@@ -35137,7 +35142,7 @@
       "Name": "Street Fighting",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 22873
+      "UsersEstimate": 22874
     },
     {
       "ID": "23_AnySkill_Trophy",
@@ -35145,7 +35150,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38122
+      "UsersEstimate": 38123
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -35153,7 +35158,7 @@
       "Name": "State of constant learning",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22873
+      "UsersEstimate": 22874
     },
     {
       "ID": "25_ShrineMind",
@@ -35177,7 +35182,7 @@
       "Name": "Qi Gong: Essence",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22873
+      "UsersEstimate": 22874
     },
     {
       "ID": "28_Takedown_Trophy",
@@ -35217,7 +35222,7 @@
       "Name": "Old Child",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 22873
+      "UsersEstimate": 22874
     },
     {
       "ID": "33_BladeOneShot",
@@ -35233,7 +35238,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38122
+      "UsersEstimate": 38123
     },
     {
       "ID": "35_WideStrike",
@@ -35241,7 +35246,7 @@
       "Name": "Kung-Fu Tussle",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 7624
+      "UsersEstimate": 7625
     },
     {
       "ID": "36_Calbot_Trophy",
@@ -35305,7 +35310,7 @@
       "Name": "Project Arena",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "44_Arena_3Stamps",
@@ -35345,7 +35350,7 @@
       "Name": "Secure, Protect, Leave",
       "Percentage": 0.2,
       "XP": 50,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "49_Arena_GoldSurvival",
@@ -35369,7 +35374,7 @@
       "Name": "Crouching Tiger",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "52_Arena_DragonAll",
@@ -35385,7 +35390,7 @@
       "Name": "Skill and an even stronger will",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "54_Arena_HeliportAllOut",
@@ -35393,7 +35398,7 @@
       "Name": "Master of the Flying Assassins",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "55_Arena_SnowballKill",
@@ -35425,7 +35430,7 @@
       "Name": "Beatmaker",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "59_Arena_CustomMode",
@@ -35448,21 +35453,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71749,
+      "Progressed": 71757,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762448,
+      "Progressed": 762456,
       "Completed": 13004
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-22T21:03:32.9825001+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:09:59.0061161+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:09:46.6241389+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:03:13.8478568+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:09:59.0062425+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:03:17.3728341+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:09:46.624279+00:00"
 }

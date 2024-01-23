@@ -5,12 +5,12 @@ Rating: 4.20 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,190 |
-| Battlefields Have Memories | 82.00% | ~2,939 |
-| Enlisted | 76.00% | ~2,724 |
+| Unforeseen | 89.00% | ~3,191 |
+| Battlefields Have Memories | 82.00% | ~2,940 |
+| Enlisted | 76.00% | ~2,725 |
 | Maybe Engage a Little | 71.00% | ~2,545 |
-| No More Names | 55.00% | ~1,971 |
-| Initiate | 42.00% | ~1,505 |
+| No More Names | 55.00% | ~1,972 |
+| Initiate | 42.00% | ~1,506 |
 | Thrada-Kul | 38.00% | ~1,362 |
 | Gravity-Challenged Rocks | 32.00% | ~1,147 |
 | Soldier | 28.00% | ~1,004 |
@@ -24,7 +24,7 @@ Rating: 4.20 (Ranked 975)
 | Geas Aristeya | 18.00% | ~645 |
 | Periapt Alizarin | 18.00% | ~645 |
 | A Perfect Cycle | 17.00% | ~609 |
-| Recruit | 16.00% | ~573 |
+| Recruit | 16.00% | ~574 |
 | Armsman | 14.00% | ~502 |
 | Lights Army | 12.00% | ~430 |
 | Periapt Cerulean | 10.00% | ~358 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 975)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,584 (Ranked 230)  
+Progressed: 3,585 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 5 (0.14%) (Ranked 303)
 | 2024-01-20 | 3,546 | 5 |
 | 2024-01-21 | 3,570 | 5 |
 | 2024-01-22 | 3,582 | 5 |
-| 2024-01-23 | 3,584 | 5 |
+| 2024-01-23 | 3,585 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 566)  
 Sum: 43 (Ranked 525)  

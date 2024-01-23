@@ -3075,10 +3075,10 @@
       "Count": 64
     }
   ],
-  "EOS_Progressed": 405757,
-  "EOS_Completed": 1717,
-  "EOS_NewPlayers": 6729,
-  "EOS_NewCompleters": 99,
+  "EOS_Progressed": 405768,
+  "EOS_Completed": 1718,
+  "EOS_NewPlayers": 6708,
+  "EOS_NewCompleters": 100,
   "EOS_Completed_Percentage": 0.42,
   "EosHistory": [
     {
@@ -22185,6 +22185,11 @@
       "Time": "2024-01-23T05:09:01.806999+00:00",
       "NumProgressed": 405757,
       "NumCompleted": 1717
+    },
+    {
+      "Time": "2024-01-23T06:08:50.0599737+00:00",
+      "NumProgressed": 405768,
+      "NumCompleted": 1718
     }
   ],
   "TotalAchievements": 24,
@@ -22204,7 +22209,7 @@
       "Name": "EXTRA BOOST",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 24345
+      "UsersEstimate": 24346
     },
     {
       "ID": "11",
@@ -22236,7 +22241,7 @@
       "Name": "IT MAKES BOOM!",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 36518
+      "UsersEstimate": 36519
     },
     {
       "ID": "15",
@@ -22324,7 +22329,7 @@
       "Name": "HERE ARE SOME BARE NECESSITIES",
       "Percentage": 4,
       "XP": 35,
-      "UsersEstimate": 16230
+      "UsersEstimate": 16231
     },
     {
       "ID": "3",
@@ -22348,7 +22353,7 @@
       "Name": "ROOKIE",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 52748
+      "UsersEstimate": 52750
     },
     {
       "ID": "6",
@@ -22387,16 +22392,16 @@
     {
       "ID": "9p3jgda",
       "IsBase": true,
-      "Progressed": 405757,
-      "Completed": 1717
+      "Progressed": 405768,
+      "Completed": 1718
     }
   ],
   "FirstSeen": "2023-09-28T08:59:03.6545176+00:00",
   "FirstSeenRating": "2023-09-30T08:59:17.2887826+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:22.891803+00:00",
   "LastChanged": "2024-01-22T23:57:57.0987931+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:09:01.8069986+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:08:50.0599732+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:58.5530008+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:57:55.9171846+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:09:01.8071194+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:57:38.4749189+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:08:50.0601052+00:00"
 }

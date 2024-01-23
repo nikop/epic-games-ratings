@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 174,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-06-16T16:00:00+00:00",
@@ -41,9 +41,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15850,
+  "EOS_Progressed": 15851,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -19736,6 +19736,11 @@
       "Time": "2024-01-23T03:08:15.174491+00:00",
       "NumProgressed": 15850,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T06:07:56.1733508+00:00",
+      "NumProgressed": 15851,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 25,
@@ -19771,7 +19776,7 @@
       "Name": "Rainbow!",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH_EVERYONE_GUESSED_CORRECTLY_ONLY_SHAPES_4_PLAYERS",
@@ -19946,7 +19951,7 @@
     {
       "ID": "5ck0pmd",
       "IsBase": true,
-      "Progressed": 15850,
+      "Progressed": 15851,
       "Completed": 0
     }
   ],
@@ -19954,8 +19959,8 @@
   "FirstSeenRating": "2023-12-27T16:58:07.3955203+00:00",
   "FirstSeenAchievements": "2023-06-16T17:03:52.3870117+00:00",
   "LastChanged": "2024-01-06T16:59:02.2017011+00:00",
-  "LastChanged_Achievements": "2024-01-23T05:06:16.1227816+00:00",
+  "LastChanged_Achievements": "2024-01-23T06:07:56.1733504+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.8491193+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:58:13.3247552+00:00",
-  "LastUpdate_Achievements": "2024-01-23T05:06:16.122861+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:57:57.2181509+00:00",
+  "LastUpdate_Achievements": "2024-01-23T06:07:56.1734423+00:00"
 }
