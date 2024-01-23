@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 314,
   "Ranking_EOS_Completed": 124,
   "Ranking_EOS_NewPlayers": 267,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-04T11:30:00+00:00",
     "PcReleaseDate": "2020-03-31T05:00:00+00:00",
@@ -30,7 +30,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 869,
+  "EOS_Progressed": 870,
   "EOS_Completed": 22,
   "EOS_NewPlayers": 24,
   "EOS_NewCompleters": 0,
@@ -2025,6 +2025,11 @@
       "Time": "2024-01-23T18:09:41.0265802+00:00",
       "NumProgressed": 869,
       "NumCompleted": 22
+    },
+    {
+      "Time": "2024-01-23T21:09:53.3854345+00:00",
+      "NumProgressed": 870,
+      "NumCompleted": 22
     }
   ],
   "TotalAchievements": 20,
@@ -2036,7 +2041,7 @@
       "Name": "Beat It",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 408
+      "UsersEstimate": 409
     },
     {
       "ID": "blast_from_the_past",
@@ -2130,9 +2135,9 @@
       "ID": "free_champagne",
       "SetID": "d4f4pll",
       "Name": "Free Champagne",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 417
+      "UsersEstimate": 426
     },
     {
       "ID": "kamikaze",
@@ -2140,7 +2145,7 @@
       "Name": "Kamikaze",
       "Percentage": 63,
       "XP": 100,
-      "UsersEstimate": 547
+      "UsersEstimate": 548
     },
     {
       "ID": "kindar_surprise",
@@ -2172,7 +2177,7 @@
       "Name": "Storage Hunter",
       "Percentage": 45,
       "XP": 50,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "the_rebel_and_the_doctor",
@@ -2180,7 +2185,7 @@
       "Name": "The Rebel And The Doctor",
       "Percentage": 55,
       "XP": 100,
-      "UsersEstimate": 478
+      "UsersEstimate": 479
     },
     {
       "ID": "tough_decision",
@@ -2188,14 +2193,14 @@
       "Name": "Tough Decision",
       "Percentage": 91,
       "XP": 50,
-      "UsersEstimate": 791
+      "UsersEstimate": 792
     }
   ],
   "AchievementSets": [
     {
       "ID": "d4f4pll",
       "IsBase": true,
-      "Progressed": 869,
+      "Progressed": 870,
       "Completed": 22
     }
   ],
@@ -2203,8 +2208,8 @@
   "FirstSeenRating": "2023-03-31T05:58:47.9747946+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:48.1616319+00:00",
   "LastChanged": "2023-03-31T05:58:47.9747947+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:09:50.5186875+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:09:53.3854334+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:29.4438802+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:02:49.3089845+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:09:50.5187153+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:02:57.2208861+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:09:53.3854559+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1809,7 +1809,7 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 249306,
+  "EOS_Progressed": 249313,
   "EOS_Completed": 9,
   "EOS_NewPlayers": 905,
   "EOS_NewCompleters": 0,
@@ -27289,6 +27289,11 @@
       "Time": "2024-01-23T20:10:16.0746283+00:00",
       "NumProgressed": 249306,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-23T21:10:17.9316099+00:00",
+      "NumProgressed": 249313,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27332,7 +27337,7 @@
       "Name": "Way of the Wimp",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9972
+      "UsersEstimate": 9973
     },
     {
       "ID": "BookCollection",
@@ -27348,7 +27353,7 @@
       "Name": "D\u00E9j\u00E0 vu",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 19944
+      "UsersEstimate": 19945
     },
     {
       "ID": "Chapter2",
@@ -27356,7 +27361,7 @@
       "Name": "A beer, two curses, three companions",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12465
+      "UsersEstimate": 12466
     },
     {
       "ID": "Chapter3",
@@ -27364,7 +27369,7 @@
       "Name": "The plot thickens... At the tavern",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 9972
+      "UsersEstimate": 9973
     },
     {
       "ID": "Chapter4",
@@ -27732,7 +27737,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14958
+      "UsersEstimate": 14959
     },
     {
       "ID": "ElfEpic",
@@ -27748,7 +27753,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92243
+      "UsersEstimate": 92246
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27764,7 +27769,7 @@
       "Name": "GG EZ",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 12465
+      "UsersEstimate": 12466
     },
     {
       "ID": "EndCombatOneHp",
@@ -27772,7 +27777,7 @@
       "Name": "DM intervention",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12465
+      "UsersEstimate": 12466
     },
     {
       "ID": "EndGameCursed",
@@ -27812,7 +27817,7 @@
       "Name": "An old poacher makes the best gamekeeper",
       "Percentage": 0.8,
       "XP": 5,
-      "UsersEstimate": 1994
+      "UsersEstimate": 1995
     },
     {
       "ID": "InsultLoose",
@@ -27948,7 +27953,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14958
+      "UsersEstimate": 14959
     },
     {
       "ID": "SupportCount4",
@@ -27996,28 +28001,28 @@
       "Name": "Fireproof Wizardess",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 12465
+      "UsersEstimate": 12466
     }
   ],
   "AchievementSets": [
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249306,
+      "Progressed": 249313,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249306,
+      "Progressed": 249313,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-23T15:59:56.8096112+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:10:16.0746278+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:10:17.9316095+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:59:37.9125108+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:10:16.0748254+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:59:46.8565303+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:10:17.931814+00:00"
 }

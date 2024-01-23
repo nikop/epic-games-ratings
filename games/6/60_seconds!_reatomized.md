@@ -1,44 +1,44 @@
 # 60 Seconds! Reatomized
 [Store](https://store.epicgames.com/en-US/p/60-seconds-reatomized-91ffa3)  
 [View Rawdata](../../db/6/60_seconds!_reatomized.json)  
-Rating: 4.51 (Ranked 601)  
+Rating: 4.51 (Ranked 600)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Prepper | 92.00% | ~10,554 |
-| All thumbs | 90.00% | ~10,325 |
-| I will survive! | 90.00% | ~10,325 |
-| Home, sweet home | 89.00% | ~10,210 |
-| Survivalist | 86.00% | ~9,866 |
-| One way ticket | 81.00% | ~9,292 |
-| Last man standing | 75.00% | ~8,604 |
-| Out of the Bag | 71.00% | ~8,145 |
-| Family guy | 69.00% | ~7,916 |
-| The Dark Side | 64.00% | ~7,342 |
-| Duck and cover! | 60.00% | ~6,883 |
-| Souper! | 58.00% | ~6,654 |
-| Pacifist | 52.00% | ~5,965 |
-| 2-1-6 | 51.00% | ~5,851 |
-| A gift | 48.00% | ~5,507 |
-| Girl Power | 41.00% | ~4,704 |
-| What goes around... | 39.00% | ~4,474 |
-| Be Prepared | 34.00% | ~3,900 |
-| Unbreakable | 31.00% | ~3,556 |
-| Atomic drill | 29.00% | ~3,327 |
-| Gotta get 'em all | 28.00% | ~3,212 |
-| This is the end | 28.00% | ~3,212 |
-| Disco Roach | 24.00% | ~2,753 |
-| Dawkins Residence | 18.00% | ~2,065 |
-| Rescue time! | 15.00% | ~1,721 |
-| Enigma | 13.00% | ~1,491 |
-| New order | 13.00% | ~1,491 |
-| New species | 13.00% | ~1,491 |
-| A New Hope | 12.00% | ~1,377 |
-| Men in Black | 11.00% | ~1,262 |
-| Challenger | 10.00% | ~1,147 |
-| No stone unturned | 10.00% | ~1,147 |
-| Mad Hatter | 6.00% | ~688 |
-| Unplugged | 6.00% | ~688 |
+| Prepper | 92.00% | ~10,563 |
+| All thumbs | 90.00% | ~10,334 |
+| I will survive! | 90.00% | ~10,334 |
+| Home, sweet home | 89.00% | ~10,219 |
+| Survivalist | 86.00% | ~9,875 |
+| One way ticket | 81.00% | ~9,300 |
+| Last man standing | 75.00% | ~8,612 |
+| Out of the Bag | 71.00% | ~8,152 |
+| Family guy | 69.00% | ~7,923 |
+| The Dark Side | 64.00% | ~7,348 |
+| Duck and cover! | 60.00% | ~6,889 |
+| Souper! | 58.00% | ~6,660 |
+| Pacifist | 52.00% | ~5,971 |
+| 2-1-6 | 51.00% | ~5,856 |
+| A gift | 48.00% | ~5,511 |
+| Girl Power | 41.00% | ~4,708 |
+| What goes around... | 39.00% | ~4,478 |
+| Be Prepared | 34.00% | ~3,904 |
+| Unbreakable | 31.00% | ~3,559 |
+| Atomic drill | 29.00% | ~3,330 |
+| Gotta get 'em all | 28.00% | ~3,215 |
+| This is the end | 28.00% | ~3,215 |
+| Disco Roach | 24.00% | ~2,756 |
+| Dawkins Residence | 18.00% | ~2,067 |
+| Rescue time! | 15.00% | ~1,722 |
+| Enigma | 13.00% | ~1,493 |
+| New order | 13.00% | ~1,493 |
+| New species | 13.00% | ~1,493 |
+| A New Hope | 12.00% | ~1,378 |
+| Men in Black | 11.00% | ~1,263 |
+| Challenger | 10.00% | ~1,148 |
+| No stone unturned | 10.00% | ~1,148 |
+| Mad Hatter | 6.00% | ~689 |
+| Unplugged | 6.00% | ~689 |
 | Holidays! | 5.00% | ~574 |
 | Lumbersexual | 5.00% | ~574 |
 | Yes Man | 5.00% | ~574 |
@@ -47,9 +47,9 @@ Rating: 4.51 (Ranked 601)
 | Danger zone | 3.00% | ~344 |
 | Friend in need | 3.00% | ~344 |
 | Rogue One | 3.00% | ~344 |
-| Soup Can into Space | 2.00% | ~229 |
-| Liberation | 2.00% | ~229 |
-| Not Alone | 2.00% | ~229 |
+| Soup Can into Space | 2.00% | ~230 |
+| Liberation | 2.00% | ~230 |
+| Not Alone | 2.00% | ~230 |
 | Enola Gay | 1.00% | ~115 |
 | Stay frosty | 1.00% | ~115 |
 | Panzer | 1.00% | ~115 |
@@ -66,7 +66,7 @@ Rating: 4.51 (Ranked 601)
 | Dead Hand | 0.10% | ~11 |
 | Tora! Tora! Tora! | 0.10% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 11,472 (Ranked 183)  
+Progressed: 11,482 (Ranked 183)  
 Completed: 1 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 1 (0.01%) (Ranked 383)
 | 2024-01-20 | 9,776 | 1 |
 | 2024-01-21 | 10,582 | 1 |
 | 2024-01-22 | 11,172 | 1 |
-| 2024-01-23 | 11,472 | 1 |
+| 2024-01-23 | 11,482 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

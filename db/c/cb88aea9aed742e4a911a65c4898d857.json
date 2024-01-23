@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 124,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -467,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12134,
+  "EOS_Progressed": 12137,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 520,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5962,6 +5962,11 @@
       "Time": "2024-01-23T20:10:10.9070166+00:00",
       "NumProgressed": 12134,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T21:10:13.3620123+00:00",
+      "NumProgressed": 12137,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5974,7 +5979,7 @@
       "Name": "Conspiracy",
       "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 2912
+      "UsersEstimate": 2913
     },
     {
       "ID": "03_TheStolenStar",
@@ -6086,7 +6091,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1941
+      "UsersEstimate": 1942
     },
     {
       "ID": "17_TheExemplar",
@@ -6134,7 +6139,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "23_DynastyRestored",
@@ -6142,7 +6147,7 @@
       "Name": "The Dynasty Restored",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1213
+      "UsersEstimate": 1214
     },
     {
       "ID": "24_TheHighrise",
@@ -6150,7 +6155,7 @@
       "Name": "Highrise",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 849
+      "UsersEstimate": 850
     },
     {
       "ID": "25_DynastyProspers",
@@ -6182,7 +6187,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1820
+      "UsersEstimate": 1821
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6222,7 +6227,7 @@
       "Name": "Cleening Out the Tzeentch",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6286,7 +6291,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1577
+      "UsersEstimate": 1578
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6493,7 +6498,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12134,
+      "Progressed": 12137,
       "Completed": 1
     }
   ],
@@ -6501,8 +6506,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:10:10.9070163+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:10:13.362012+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:58:10.1798773+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:10:10.9070812+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:58:16.0900055+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:10:13.3620734+00:00"
 }

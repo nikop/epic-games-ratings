@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 132,
   "Ranking_EOS_NewPlayers": 479,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
     "PcReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -831,9 +831,9 @@
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
-      "Percentage": 17,
+      "Percentage": 18,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "04",
@@ -879,9 +879,9 @@
       "ID": "09",
       "SetID": "6glb5g1",
       "Name": "In the heart of the volcano.",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 80,
-      "UsersEstimate": 31
+      "UsersEstimate": 34
     },
     {
       "ID": "10",
@@ -927,9 +927,9 @@
       "ID": "15",
       "SetID": "6glb5g1",
       "Name": "The entrails of the beast.",
-      "Percentage": 8,
+      "Percentage": 9,
       "XP": 140,
-      "UsersEstimate": 25
+      "UsersEstimate": 28
     }
   ],
   "AchievementSets": [
@@ -944,8 +944,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:05:27.7182695+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:05:35.0455152+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:25.3828236+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:59:54.5024137+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:05:27.7182888+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:00:04.5251046+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:05:35.0455328+00:00"
 }

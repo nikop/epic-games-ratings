@@ -4,8 +4,8 @@
   "ProductSlug": "placid-plastic-duck-simulator-b65716",
   "Ranking_EOS_Progress": 382,
   "Ranking_EOS_Completed": 47,
-  "Ranking_EOS_NewPlayers": 361,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewPlayers": 362,
+  "Ranking_EOS_NewCompleters": 86,
   "Store": {
     "ReleaseDate": "2023-07-05T22:00:00+00:00",
     "PcReleaseDate": "2022-07-06T08:00:00+00:00",
@@ -25,10 +25,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 370,
-  "EOS_Completed": 32,
+  "EOS_Completed": 33,
   "EOS_NewPlayers": 6,
-  "EOS_NewCompleters": 1,
-  "EOS_Completed_Percentage": 8.65,
+  "EOS_NewCompleters": 2,
+  "EOS_Completed_Percentage": 8.92,
   "EosHistory": [
     {
       "Time": "2023-06-10T10:01:48.8314977+00:00",
@@ -1654,6 +1654,11 @@
       "Time": "2024-01-23T14:03:38.9554348+00:00",
       "NumProgressed": 370,
       "NumCompleted": 32
+    },
+    {
+      "Time": "2024-01-23T21:03:54.3880963+00:00",
+      "NumProgressed": 370,
+      "NumCompleted": 33
     }
   ],
   "TotalAchievements": 16,
@@ -1767,9 +1772,9 @@
       "ID": "NEW_ACHIEVEMENT_1_7",
       "SetID": "8d3ci0",
       "Name": "Abducktion",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 95,
-      "UsersEstimate": 89
+      "UsersEstimate": 92
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_8",
@@ -1793,13 +1798,13 @@
       "ID": "8d3ci0",
       "IsBase": true,
       "Progressed": 370,
-      "Completed": 32
+      "Completed": 33
     }
   ],
   "FirstSeen": "2023-07-06T18:57:07.5333418+00:00",
   "FirstSeenAchievements": "2023-06-10T10:01:48.833613+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:03:44.6712682+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:03:54.388096+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.5757531+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:58:53.4569654+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:03:44.671293+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:58:59.4440333+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:03:54.3881352+00:00"
 }

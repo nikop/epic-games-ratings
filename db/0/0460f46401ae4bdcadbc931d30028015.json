@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 184,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-18T00:00:00+00:00",
     "PcReleaseDate": "2023-08-18T00:00:00+00:00",
@@ -1801,10 +1801,16 @@
       "Rating": 4.16,
       "NumberOfAwards": 456,
       "NumberOfAwardsMax": 118
+    },
+    {
+      "Time": "2024-01-23T20:57:29.8170225+00:00",
+      "Rating": 4.16,
+      "NumberOfAwards": 458,
+      "NumberOfAwardsMax": 118
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 456,
+  "NumberOfAwards": 458,
   "NumberOfAwardsMax": 118,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
@@ -1854,7 +1860,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 49
+      "Count": 51
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -1869,9 +1875,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 11368,
+  "EOS_Progressed": 11370,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 510,
+  "EOS_NewPlayers": 508,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12504,6 +12510,11 @@
       "Time": "2024-01-23T20:06:07.1488336+00:00",
       "NumProgressed": 11368,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T21:06:13.7439511+00:00",
+      "NumProgressed": 11370,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:56.5934065+00:00",
@@ -12524,7 +12535,7 @@
       "Name": "Stud Finder",
       "Percentage": 34,
       "XP": 25,
-      "UsersEstimate": 3865
+      "UsersEstimate": 3866
     },
     {
       "ID": "achievement_11",
@@ -12548,7 +12559,7 @@
       "Name": "MVP",
       "Percentage": 30,
       "XP": 90,
-      "UsersEstimate": 3410
+      "UsersEstimate": 3411
     },
     {
       "ID": "achievement_14",
@@ -12556,7 +12567,7 @@
       "Name": "ROTY",
       "Percentage": 34,
       "XP": 100,
-      "UsersEstimate": 3865
+      "UsersEstimate": 3866
     },
     {
       "ID": "achievement_15",
@@ -12604,7 +12615,7 @@
       "Name": "Unblockable",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 909
+      "UsersEstimate": 910
     },
     {
       "ID": "achievement_20",
@@ -12612,7 +12623,7 @@
       "Name": "Saw It Coming",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 6707
+      "UsersEstimate": 6708
     },
     {
       "ID": "achievement_21",
@@ -12668,7 +12679,7 @@
       "Name": "Bragging Rights",
       "Percentage": 27,
       "XP": 90,
-      "UsersEstimate": 3069
+      "UsersEstimate": 3070
     },
     {
       "ID": "achievement_9",
@@ -12683,16 +12694,16 @@
     {
       "ID": "aiin7da",
       "IsBase": true,
-      "Progressed": 11368,
+      "Progressed": 11370,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-08-18T01:36:55.7733992+00:00",
   "FirstSeenRating": "2023-08-25T11:00:17.1063515+00:00",
   "FirstSeenAchievements": "2023-07-31T02:03:32.5997501+00:00",
-  "LastChanged": "2024-01-23T02:57:24.5739839+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:06:07.1488333+00:00",
+  "LastChanged": "2024-01-23T20:57:29.8170223+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:06:13.7439507+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:16.6480571+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:57:24.9380529+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:06:07.1488991+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:57:29.8170228+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:06:13.7440106+00:00"
 }

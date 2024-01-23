@@ -6,20 +6,20 @@ Number of Ratings: 3,114  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Find Sanctuary | 83.00% | ~452,483 |
-| The Three | 64.00% | ~348,902 |
-| The Banquet | 40.00% | ~218,064 |
-| Devara's Light | 31.00% | ~169,000 |
-| The Iron Ones | 19.00% | ~103,580 |
-| The Village | 17.00% | ~92,677 |
+| Find Sanctuary | 83.00% | ~452,485 |
+| The Three | 64.00% | ~348,904 |
+| The Banquet | 40.00% | ~218,065 |
+| Devara's Light | 31.00% | ~169,001 |
+| The Iron Ones | 19.00% | ~103,581 |
+| The Village | 17.00% | ~92,678 |
 | The Forest | 15.00% | ~81,774 |
-| Branded | 14.00% | ~76,322 |
-| The Imposter | 14.00% | ~76,322 |
-| The Keep | 14.00% | ~76,322 |
+| Branded | 14.00% | ~76,323 |
+| The Imposter | 14.00% | ~76,323 |
+| The Keep | 14.00% | ~76,323 |
 | The Castle | 11.00% | ~59,968 |
-| The Dome | 9.00% | ~49,064 |
-| The Red Hall | 9.00% | ~49,064 |
-| The Sacrifice | 9.00% | ~49,064 |
+| The Dome | 9.00% | ~49,065 |
+| The Red Hall | 9.00% | ~49,065 |
+| The Sacrifice | 9.00% | ~49,065 |
 | The Cave | 8.00% | ~43,613 |
 | The Ziggurat | 8.00% | ~43,613 |
 | The Mire | 7.00% | ~38,161 |
@@ -30,10 +30,10 @@ Number of Ratings: 3,114  (23.09.2022)
 | The Ruins | 6.00% | ~32,710 |
 | The Alkymancery | 5.00% | ~27,258 |
 | The Pitchwoods | 5.00% | ~27,258 |
-| Honed | 4.00% | ~21,806 |
-| The House of Splendor | 4.00% | ~21,806 |
-| The Crypt | 4.00% | ~21,806 |
-| The Palace | 4.00% | ~21,806 |
+| Honed | 4.00% | ~21,807 |
+| The House of Splendor | 4.00% | ~21,807 |
+| The Crypt | 4.00% | ~21,807 |
+| The Palace | 4.00% | ~21,807 |
 | Coastrock | 3.00% | ~16,355 |
 | Find Salvation | 3.00% | ~16,355 |
 | The Unspeakable Deep | 3.00% | ~16,355 |
@@ -44,7 +44,7 @@ Number of Ratings: 3,114  (23.09.2022)
 | Wise Words | 2.00% | ~10,903 |
 | Fading Fast | 1.00% | ~5,452 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 545,160 (Ranked 36)  
+Progressed: 545,163 (Ranked 36)  
 Completed: 1,696 (0.31%) (Ranked 262)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,7 +322,7 @@ Completed: 1,696 (0.31%) (Ranked 262)
 | 2024-01-20 | 544,920 | 1,692 |
 | 2024-01-21 | 545,027 | 1,692 |
 | 2024-01-22 | 545,091 | 1,694 |
-| 2024-01-23 | 545,160 | 1,696 |
+| 2024-01-23 | 545,163 | 1,696 |
 ## Awards
 Max (Challenging Combat): 299  (Ranked 266)  
 Sum: 2,046 (Ranked 221)  

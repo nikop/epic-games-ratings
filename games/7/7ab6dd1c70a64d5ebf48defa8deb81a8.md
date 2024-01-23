@@ -14,7 +14,7 @@ Rating: 4.20 (Ranked 974)
 | Shatter Them All | 26.00% | ~634 |
 | Geared Up | 26.00% | ~634 |
 | Scholar | 26.00% | ~634 |
-| I Found It | 25.00% | ~610 |
+| I Found It | 26.00% | ~634 |
 | Fashion Victim | 24.00% | ~585 |
 | Stone Collection | 24.00% | ~585 |
 | Powerful Allies | 23.00% | ~561 |

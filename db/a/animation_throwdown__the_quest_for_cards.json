@@ -2,13 +2,13 @@
   "ID": "1fe9a1a33a8b4df8bd8dd3b9269f8153",
   "Name": "Animation Throwdown: The Quest for Cards",
   "ProductSlug": "animation-throwdown-the-quest-for-cards",
-  "Ranking_Rating": 884,
+  "Ranking_Rating": 885,
   "Ranking_Popularity": 246,
   "Ranking_PopularitySum": 190,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2021-10-04T17:00:00+00:00",
     "PcReleaseDate": "2017-05-05T11:49:39+00:00",
@@ -2582,10 +2582,16 @@
       "Rating": 4.3,
       "NumberOfAwards": 2885,
       "NumberOfAwardsMax": 384
+    },
+    {
+      "Time": "2024-01-23T20:57:45.4490056+00:00",
+      "Rating": 4.3,
+      "NumberOfAwards": 2886,
+      "NumberOfAwardsMax": 384
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2885,
+  "NumberOfAwards": 2886,
   "NumberOfAwardsMax": 384,
   "MaxAwardTitle": "Great for Quick Sessions",
   "Tags": [
@@ -2629,7 +2635,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 359
+      "Count": 360
     },
     {
       "Text": "This game has Amazing Characters",
@@ -2661,8 +2667,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:16:50.5721144+00:00",
-  "LastChanged": "2024-01-23T16:58:10.7615132+00:00",
+  "LastChanged": "2024-01-23T20:57:45.4490054+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:05.2854895+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:57:40.9159298+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:08:43.9751854+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:57:45.449006+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:08:48.0139826+00:00"
 }

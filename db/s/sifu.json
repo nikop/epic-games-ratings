@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9133,10 +9133,16 @@
       "Rating": 4.82,
       "NumberOfAwards": 12867,
       "NumberOfAwardsMax": 7269
+    },
+    {
+      "Time": "2024-01-23T21:03:09.6126454+00:00",
+      "Rating": 4.82,
+      "NumberOfAwards": 12868,
+      "NumberOfAwardsMax": 7269
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 12867,
+  "NumberOfAwards": 12868,
   "NumberOfAwardsMax": 7269,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -9156,7 +9162,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 603
+      "Count": 604
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -9213,9 +9219,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762557,
+  "EOS_Progressed": 762561,
   "EOS_Completed": 13006,
-  "EOS_NewPlayers": 1341,
+  "EOS_NewPlayers": 1345,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35063,6 +35069,11 @@
       "Time": "2024-01-23T20:09:44.5914399+00:00",
       "NumProgressed": 762557,
       "NumCompleted": 13006
+    },
+    {
+      "Time": "2024-01-23T21:09:48.0925977+00:00",
+      "NumProgressed": 762561,
+      "NumCompleted": 13006
     }
   ],
   "TotalAchievements": 60,
@@ -35074,7 +35085,7 @@
       "Name": "The Old Grandmaster",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 45753
+      "UsersEstimate": 45754
     },
     {
       "ID": "02_Vengeance_H1",
@@ -35553,21 +35564,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71858,
+      "Progressed": 71862,
       "Completed": 10819
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762557,
+      "Progressed": 762561,
       "Completed": 13006
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
-  "LastChanged": "2024-01-23T20:03:00.5878581+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:09:44.5914396+00:00",
+  "LastChanged": "2024-01-23T21:03:09.6126452+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:09:48.0925973+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:03:00.5878586+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:09:44.591613+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:03:09.6126459+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:09:48.0927436+00:00"
 }

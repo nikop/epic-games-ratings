@@ -5,32 +5,33 @@ Rating: 4.34 (Ranked 850)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 15.00% | ~12 |
+| Hail to the King, Baby | 14.00% | ~12 |
+| Bring it on! | 12.00% | ~10 |
 | Full House | 11.00% | ~9 |
-| Can’t Touch This | 10.00% | ~8 |
-| There is no Nobility in Poverty | 10.00% | ~8 |
-| Bring it on! | 9.00% | ~7 |
-| Help! Help! I’m being repressed | 9.00% | ~7 |
+| Can’t Touch This | 9.00% | ~8 |
+| There is no Nobility in Poverty | 9.00% | ~8 |
+| Help! Help! I’m being repressed | 8.00% | ~7 |
 | Path of Glory | 7.00% | ~6 |
-| The finest merchandise this side of river Jordan | 6.00% | ~5 |
+| The finest merchandise this side of river Jordan | 7.00% | ~6 |
 | Call the Boys | 5.00% | ~4 |
+| Desperate Times Call for Desperate Measures | 5.00% | ~4 |
 | ‘Tis but a scratch | 5.00% | ~4 |
-| Desperate Times Call for Desperate Measures | 4.00% | ~3 |
+| What we’ve got here is failure to communicate | 5.00% | ~4 |
+| Big Apple | 4.00% | ~3 |
 | Do you read Sutter Cane? | 4.00% | ~3 |
 | Kingslayer | 4.00% | ~3 |
 | Learn Me a Book | 4.00% | ~3 |
-| What we’ve got here is failure to communicate | 4.00% | ~3 |
+| They Got What They Deserved | 4.00% | ~3 |
 | All the King's Men | 2.00% | ~2 |
-| Big Apple | 2.00% | ~2 |
 | Cut-Me-Own-Throat | 2.00% | ~2 |
 | Dinner Time | 2.00% | ~2 |
 | Forth, Eorlingas! | 2.00% | ~2 |
 | He made it out, but with an arrow in his back | 2.00% | ~2 |
+| I started a joke | 2.00% | ~2 |
 | Let Us Pray | 2.00% | ~2 |
 | On the third day at dawn, look east | 2.00% | ~2 |
 | Pillars of the Earth | 2.00% | ~2 |
 | Playerxander the Great | 2.00% | ~2 |
-| They Got What They Deserved | 2.00% | ~2 |
 | Time to find India | 2.00% | ~2 |
 | Battle of the Four Armies | 1.00% | ~1 |
 | Black Sheep Wall | 1.00% | ~1 |
@@ -39,7 +40,6 @@ Rating: 4.34 (Ranked 850)
 | Fighting with Power and Steel | 1.00% | ~1 |
 | Greed is Good | 1.00% | ~1 |
 | His All-Holiness | 1.00% | ~1 |
-| I started a joke | 1.00% | ~1 |
 | Fight Another Day | 1.00% | ~1 |
 | Let us trade with these fine people | 1.00% | ~1 |
 | Naught but a Seamless Victory | 1.00% | ~1 |
@@ -106,12 +106,12 @@ Rating: 4.34 (Ranked 850)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 82 (Ranked 526)  
+Progressed: 85 (Ranked 523)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 82 | 0 |
+| 2024-01-23 | 85 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

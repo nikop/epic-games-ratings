@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 291,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 337,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-06-16T16:00:00+00:00",
     "PcReleaseDate": "2022-06-16T16:00:00+00:00",
@@ -101,9 +101,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1222,
+  "EOS_Progressed": 1223,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 9,
+  "EOS_NewPlayers": 10,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1391,6 +1391,11 @@
       "Time": "2024-01-22T06:03:39.5483536+00:00",
       "NumProgressed": 1222,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T21:04:27.6242538+00:00",
+      "NumProgressed": 1223,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 52,
@@ -1498,7 +1503,7 @@
       "Name": "Martian explorer",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 134
+      "UsersEstimate": 135
     },
     {
       "ID": "ALLTRACKSTARTARUS",
@@ -1632,9 +1637,9 @@
       "ID": "FINISHSOUND",
       "SetID": "3dh70f3",
       "Name": "Running at the speed of sound",
-      "Percentage": 14,
+      "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 171
+      "UsersEstimate": 159
     },
     {
       "ID": "FLYLONG",
@@ -1817,7 +1822,7 @@
     {
       "ID": "3dh70f3",
       "IsBase": true,
-      "Progressed": 1222,
+      "Progressed": 1223,
       "Completed": 0
     }
   ],
@@ -1825,8 +1830,8 @@
   "FirstSeenRating": "2022-10-24T23:31:30.7974455+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.7016521+00:00",
   "LastChanged": "2024-01-13T16:03:26.8950598+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:04:18.9472244+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:04:27.6242534+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:43.1636719+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:03:03.8431703+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:04:18.9472731+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:03:12.9095131+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:04:27.624335+00:00"
 }

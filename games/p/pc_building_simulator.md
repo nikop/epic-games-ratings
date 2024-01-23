@@ -6,39 +6,39 @@ Number of Ratings: 12,155  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| You need to plug it in... | 49.00% | ~1,770,188 |
-| Easy to forget | 46.00% | ~1,661,809 |
-| Back in the black | 39.00% | ~1,408,925 |
-| That's what I'm talking about | 29.00% | ~1,047,662 |
-| The Best of Both Worlds | 25.00% | ~903,157 |
-| Get your wings | 20.00% | ~722,526 |
-| Double trouble | 16.00% | ~578,020 |
-| Smashing it | 11.00% | ~397,389 |
-| But can it run Crysis? | 9.00% | ~325,137 |
-| My favourite feature... | 9.00% | ~325,137 |
-| Customer satisfaction | 8.00% | ~289,010 |
-| From humble beginnings... | 7.00% | ~252,884 |
-| Keeping things neat | 4.00% | ~144,505 |
-| Seems you're pretty good at this | 4.00% | ~144,505 |
-| Bending over backwards | 4.00% | ~144,505 |
-| I'm broke, Uncle! | 3.00% | ~108,379 |
-| Triple threat | 3.00% | ~108,379 |
-| You rock at this! | 3.00% | ~108,379 |
-| Perfection | 3.00% | ~108,379 |
-| Your music sucks | 3.00% | ~108,379 |
+| You need to plug it in... | 49.00% | ~1,770,199 |
+| Easy to forget | 46.00% | ~1,661,820 |
+| Back in the black | 39.00% | ~1,408,934 |
+| That's what I'm talking about | 29.00% | ~1,047,669 |
+| The Best of Both Worlds | 25.00% | ~903,163 |
+| Get your wings | 20.00% | ~722,530 |
+| Double trouble | 16.00% | ~578,024 |
+| Smashing it | 11.00% | ~397,392 |
+| But can it run Crysis? | 9.00% | ~325,139 |
+| My favourite feature... | 9.00% | ~325,139 |
+| Customer satisfaction | 8.00% | ~289,012 |
+| From humble beginnings... | 7.00% | ~252,886 |
+| Keeping things neat | 4.00% | ~144,506 |
+| Seems you're pretty good at this | 4.00% | ~144,506 |
+| Bending over backwards | 4.00% | ~144,506 |
+| I'm broke, Uncle! | 3.00% | ~108,380 |
+| Triple threat | 3.00% | ~108,380 |
+| You rock at this! | 3.00% | ~108,380 |
+| Perfection | 3.00% | ~108,380 |
+| Your music sucks | 3.00% | ~108,380 |
 | Maybe you should try something else? | 2.00% | ~72,253 |
 | Taking care of business | 2.00% | ~72,253 |
 | Things are under control | 2.00% | ~72,253 |
 | Calling in Sick | 2.00% | ~72,253 |
-| Overvolted | 1.00% | ~36,126 |
-| If you fail the first time... | 1.00% | ~36,126 |
-| Amazonian | 1.00% | ~36,126 |
-| Show off | 1.00% | ~36,126 |
-| The Stuart Morton Award for Purpleness | 1.00% | ~36,126 |
-| Building isn't cheap! | 1.00% | ~36,126 |
-| Majority Shareholder | 1.00% | ~36,126 |
-| Owner | 1.00% | ~36,126 |
-| Work ethic 101 | 0.70% | ~25,288 |
+| Overvolted | 1.00% | ~36,127 |
+| If you fail the first time... | 1.00% | ~36,127 |
+| Amazonian | 1.00% | ~36,127 |
+| Show off | 1.00% | ~36,127 |
+| The Stuart Morton Award for Purpleness | 1.00% | ~36,127 |
+| Building isn't cheap! | 1.00% | ~36,127 |
+| Majority Shareholder | 1.00% | ~36,127 |
+| Owner | 1.00% | ~36,127 |
+| Work ethic 101 | 0.70% | ~25,289 |
 | Building momentum | 0.60% | ~21,676 |
 | Lead by example | 0.60% | ~21,676 |
 | Treat yourself - RAM | 0.50% | ~18,063 |
@@ -59,7 +59,7 @@ Number of Ratings: 12,155  (23.09.2022)
 | Stop it | 0.10% | ~3,613 |
 | Treat yourself - GPU | 0.10% | ~3,613 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,612,628 (Ranked 5)  
+Progressed: 3,612,652 (Ranked 5)  
 Completed: 41 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -337,7 +337,7 @@ Completed: 41 (0.00%) (Ranked 409)
 | 2024-01-20 | 3,611,519 | 41 |
 | 2024-01-21 | 3,611,983 | 41 |
 | 2024-01-22 | 3,612,336 | 41 |
-| 2024-01-23 | 3,612,628 | 41 |
+| 2024-01-23 | 3,612,652 | 41 |
 ## Awards
 Max (Great for Beginners): 1,148  (Ranked 153)  
 Sum: 8,328 (Ranked 116)  

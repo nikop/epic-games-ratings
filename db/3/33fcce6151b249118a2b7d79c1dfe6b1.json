@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 739,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
     "PcReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -132,9 +132,9 @@
       "ID": "CompleteLevel4",
       "SetID": "8j3le2g",
       "Name": "The Princess Is Missing",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "CompleteLevel5",
@@ -292,9 +292,9 @@
       "ID": "PerfectLevel4",
       "SetID": "8j3le2g",
       "Name": "4-Star: Level 4",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PerfectLevel5",
@@ -420,9 +420,9 @@
       "ID": "WarriorChampion",
       "SetID": "8j3le2g",
       "Name": "Warrior Champion!",
-      "Percentage": 0,
+      "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "WeddingUninterrupted",
@@ -442,8 +442,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:03:39.5048944+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:03:49.5473552+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:57:47.1718227+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:03:39.5049288+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:57:52.7993747+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:03:49.5473956+00:00"
 }

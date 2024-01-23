@@ -1,7 +1,7 @@
 # Predecessor
 [Store](https://store.epicgames.com/en-US/p/predecessor)  
 [View Rawdata](../../db/p/predecessor.json)  
-Rating: 4.30 (Ranked 884)  
+Rating: 4.30 (Ranked 885)  
 ## Awards
 Max (Diverse Characters): 332  (Ranked 256)  
 Sum: 1,851 (Ranked 226)  

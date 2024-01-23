@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 443,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
     "PcReleaseDate": "2023-01-06T16:00:00+00:00",
@@ -788,9 +788,9 @@
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 105
+      "UsersEstimate": 107
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -804,9 +804,9 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 61,
+      "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 84
+      "UsersEstimate": 85
     },
     {
       "ID": "Epic_InnerWorld_1",
@@ -892,9 +892,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 100
+      "UsersEstimate": 101
     },
     {
       "ID": "Epic_Revenge_1",
@@ -932,9 +932,9 @@
       "ID": "Epic_Shotgun_1",
       "SetID": "ba1m2fc",
       "Name": "Deadly Twin Cracks",
-      "Percentage": 57,
+      "Percentage": 58,
       "XP": 10,
-      "UsersEstimate": 78
+      "UsersEstimate": 79
     },
     {
       "ID": "Epic_SmallBell_1",
@@ -1019,8 +1019,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:04:24.0451488+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:04:32.3654067+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.2529391+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:57:39.7003122+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:04:24.0451881+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:57:44.2686876+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:04:32.3654462+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 283,
   "Ranking_EOS_Completed": 217,
-  "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-05-23T16:00:00+00:00",
     "PcReleaseDate": "2023-05-23T16:00:00+00:00",
@@ -4311,9 +4311,9 @@
       "ID": "FutureEkko1Defeated",
       "SetID": "a9e499d",
       "Name": "The Mysterious Stranger",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 474
+      "UsersEstimate": 488
     },
     {
       "ID": "FutureEkko2Defeated",
@@ -4351,9 +4351,9 @@
       "ID": "GrindingTime1",
       "SetID": "a9e499d",
       "Name": "Rail Rat",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 488
+      "UsersEstimate": 501
     },
     {
       "ID": "HexlockGift",
@@ -4624,8 +4624,8 @@
   "FirstSeenRating": "2023-07-28T17:00:54.123238+00:00",
   "FirstSeenAchievements": "2023-05-23T15:05:13.7891487+00:00",
   "LastChanged": "2024-01-23T01:49:49.4916603+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:10:15.2445425+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:10:17.1480075+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.6178324+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:59:36.6412836+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:10:15.2445914+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:59:45.5927045+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:10:17.1480576+00:00"
 }

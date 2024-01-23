@@ -4,8 +4,8 @@
   "ProductSlug": "road-96-mile-0",
   "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 247,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
     "PcReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,9 +27,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 767,
+  "EOS_Progressed": 768,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.39,
   "EosHistory": [
@@ -2852,6 +2852,11 @@
       "Time": "2024-01-23T18:09:52.0229016+00:00",
       "NumProgressed": 767,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T21:10:04.2606132+00:00",
+      "NumProgressed": 768,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2863,7 +2868,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 337
+      "UsersEstimate": 338
     },
     {
       "ID": "completeact2",
@@ -2982,7 +2987,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 767,
+      "Progressed": 768,
       "Completed": 3
     }
   ],
@@ -2990,8 +2995,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:10:01.9630173+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:10:04.2606128+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:57:40.4111639+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:10:01.9630393+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:57:44.9090291+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:10:04.2606387+00:00"
 }

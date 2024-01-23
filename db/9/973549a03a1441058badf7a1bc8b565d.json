@@ -4,8 +4,8 @@
   "ProductSlug": "knight-vs-giant-the-broken-excalibur-230c5c",
   "Ranking_EOS_Progress": 627,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
     "PcReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -176,17 +176,17 @@
       "ID": "NEW_ACHIEVEMENT_1_12",
       "SetID": "4mjb15",
       "Name": "Pollinated",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
       "SetID": "4mjb15",
       "Name": "A Weapon to Grind",
-      "Percentage": 48,
+      "Percentage": 52,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_14",
@@ -216,17 +216,17 @@
       "ID": "NEW_ACHIEVEMENT_1_17",
       "SetID": "4mjb15",
       "Name": "Slowly but Surely",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 50,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_18",
       "SetID": "4mjb15",
       "Name": "Rebuild the Nation",
-      "Percentage": 22,
+      "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -272,9 +272,9 @@
       "ID": "NEW_ACHIEVEMENT_1_23",
       "SetID": "4mjb15",
       "Name": "Percival, the Noble Spearhead",
-      "Percentage": 30,
+      "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_24",
@@ -351,8 +351,8 @@
   ],
   "FirstSeen": "2023-10-07T12:03:46.8255851+00:00",
   "FirstSeenAchievements": "2023-09-15T05:04:55.0336993+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:10:05.7342243+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:10:08.2431122+00:00",
   "LastUpdate_AppInfo": "2024-01-20T01:44:01.495635+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:02:34.3924597+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:10:05.7342389+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:02:42.6669597+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:10:08.243127+00:00"
 }

@@ -4,8 +4,8 @@
   "ProductSlug": "layers-of-fears-85a02b",
   "Ranking_EOS_Progress": 390,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-15T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -1709,9 +1709,9 @@
       "ID": "find_one_photo",
       "SetID": "f2im8d",
       "Name": "A Slice of Life",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 45
+      "UsersEstimate": 48
     },
     {
       "ID": "find_one_poster",
@@ -1972,8 +1972,8 @@
   ],
   "FirstSeen": "2023-06-15T19:59:05.896424+00:00",
   "FirstSeenAchievements": "2023-06-07T13:11:24.8295602+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:09:09.3817943+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:09:13.349491+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:27.0222855+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:58:26.2998075+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:09:09.3818351+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:58:32.7433476+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:09:13.3495268+00:00"
 }

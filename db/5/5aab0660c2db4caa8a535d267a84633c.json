@@ -4,8 +4,8 @@
   "ProductSlug": "tomb-raider-iiii-remastered-538640",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-02-14T18:00:00+00:00",
     "PcReleaseDate": "2024-02-14T18:00:00+00:00",
@@ -46,8 +46,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-12-08T17:06:49.6815041+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:08:55.4567348+00:00",
-  "LastUpdate_AppInfo": "2024-01-16T19:57:08.0287761+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:58:59.2109497+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:08:55.4567389+00:00"
+  "LastChanged_Achievements": "2024-01-23T21:08:59.3411641+00:00",
+  "LastUpdate_AppInfo": "2024-01-23T20:56:59.3054745+00:00",
+  "LastUpdate_Ratings": "2024-01-23T20:59:05.6339611+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:08:59.3411671+00:00"
 }

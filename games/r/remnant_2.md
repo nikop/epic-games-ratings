@@ -5,25 +5,25 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,799 |
-| First of Many | 12.00% | ~35,814 |
-| Not Your Average Trait | 10.00% | ~29,845 |
-| Expanding Horizons | 9.00% | ~26,861 |
-| Gleaming the Cube | 8.00% | ~23,876 |
-| Quest for Survival | 8.00% | ~23,876 |
-| Familiar Face | 8.00% | ~23,876 |
-| Boss'n Up | 8.00% | ~23,876 |
-| Trait Chaser | 8.00% | ~23,876 |
-| Not So Special Now | 7.00% | ~20,892 |
-| Not a Janitor | 7.00% | ~20,892 |
-| Duality | 7.00% | ~20,892 |
-| Equal Measures | 6.00% | ~17,907 |
-| Blue Goddess | 6.00% | ~17,907 |
-| Top Performer | 6.00% | ~17,907 |
-| Shhh...It's a Secret | 6.00% | ~17,907 |
-| Almost There | 6.00% | ~17,907 |
-| Make Some Room | 6.00% | ~17,907 |
-| Good, But Could Be Better! | 6.00% | ~17,907 |
+| The Killing Jar | 13.00% | ~38,801 |
+| First of Many | 12.00% | ~35,816 |
+| Not Your Average Trait | 10.00% | ~29,847 |
+| Expanding Horizons | 9.00% | ~26,862 |
+| Gleaming the Cube | 8.00% | ~23,877 |
+| Quest for Survival | 8.00% | ~23,877 |
+| Familiar Face | 8.00% | ~23,877 |
+| Boss'n Up | 8.00% | ~23,877 |
+| Trait Chaser | 8.00% | ~23,877 |
+| Not So Special Now | 7.00% | ~20,893 |
+| Not a Janitor | 7.00% | ~20,893 |
+| Duality | 7.00% | ~20,893 |
+| Equal Measures | 6.00% | ~17,908 |
+| Blue Goddess | 6.00% | ~17,908 |
+| Top Performer | 6.00% | ~17,908 |
+| Shhh...It's a Secret | 6.00% | ~17,908 |
+| Almost There | 6.00% | ~17,908 |
+| Make Some Room | 6.00% | ~17,908 |
+| Good, But Could Be Better! | 6.00% | ~17,908 |
 | Am I Seeing This? | 5.00% | ~14,923 |
 | Chaos | 5.00% | ~14,923 |
 | Traitor | 5.00% | ~14,923 |
@@ -33,12 +33,12 @@ Rating: 4.72 (Ranked 199)
 | Was This Supposed To Happen? | 5.00% | ~14,923 |
 | The Web | 5.00% | ~14,923 |
 | Scrap Collector | 5.00% | ~14,923 |
-| Forever is a Long Time Coming | 4.00% | ~11,938 |
-| Madman's Paradise | 4.00% | ~11,938 |
-| The Agenda | 4.00% | ~11,938 |
-| Bad Moon Rising | 4.00% | ~11,938 |
-| Strapped | 4.00% | ~11,938 |
-| All These Traits� | 4.00% | ~11,938 |
+| Forever is a Long Time Coming | 4.00% | ~11,939 |
+| Madman's Paradise | 4.00% | ~11,939 |
+| The Agenda | 4.00% | ~11,939 |
+| Bad Moon Rising | 4.00% | ~11,939 |
+| Strapped | 4.00% | ~11,939 |
+| All These Traits� | 4.00% | ~11,939 |
 | Tall Tales | 3.00% | ~8,954 |
 | Edgelord | 3.00% | ~8,954 |
 | Scrap Hoarder | 3.00% | ~8,954 |
@@ -46,8 +46,8 @@ Rating: 4.72 (Ranked 199)
 | The Ultimate Weapon | 3.00% | ~8,954 |
 | No One Should Have All That Power | 3.00% | ~8,954 |
 | Transmutate | 3.00% | ~8,954 |
-| Regicide | 3.00% | ~2,328 |
-| Master of the Dark Arts | 3.00% | ~2,328 |
+| Regicide | 3.00% | ~2,329 |
+| Master of the Dark Arts | 3.00% | ~2,329 |
 | Crafty | 2.00% | ~5,969 |
 | Ghost in the Machine | 2.00% | ~5,969 |
 | Only Human | 2.00% | ~5,969 |
@@ -61,7 +61,7 @@ Rating: 4.72 (Ranked 199)
 | You Shall Pass | 0.80% | ~621 |
 | A Foul Feast | 0.50% | ~388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,451 (Ranked 65)  
+Progressed: 298,466 (Ranked 65)  
 Completed: 1,227 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,17 +252,17 @@ Completed: 1,227 (0.41%) (Ranked 246)
 | 2024-01-20 | 297,043 | 1,177 |
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
-| 2024-01-23 | 298,451 | 1,227 |
+| 2024-01-23 | 298,466 | 1,227 |
 ## Awards
 Max (Great Boss Battles): 7,507  (Ranked 56)  
-Sum: 17,248 (Ranked 65)  
+Sum: 17,268 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
 | This game has Great Boss Battles | 7,507 |
-| This game is Highly Recommended | 1,090 |
+| This game is Highly Recommended | 1,102 |
 | This game has Diverse Characters | 1,062 |
-| This game is Extremely Fun | 1,019 |
+| This game is Extremely Fun | 1,027 |
 | This game is Relaxing | 1,010 |
 | This game has Quickly Understood Controls | 1,006 |
 | This game has Amazing Storytelling | 1,000 |
@@ -454,4 +454,4 @@ Diff (max vs sum): -9
 | 2024-01-20 | 4.72 | 7,279 | 16,670 |
 | 2024-01-21 | 4.72 | 7,358 | 16,919 |
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
-| 2024-01-23 | 4.72 | 7,507 | 17,248 |
+| 2024-01-23 | 4.72 | 7,507 | 17,268 |

@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 268,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 103,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-13T15:00:00+00:00",
     "PcReleaseDate": "2018-09-17T22:00:00+00:00",
@@ -33,7 +33,7 @@
   "Tags": [],
   "EOS_Progressed": 1644,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 796,
+  "EOS_NewPlayers": 793,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -2271,9 +2271,9 @@
       "ID": "Achievement_HelloWorld",
       "SetID": "c01p6e5",
       "Name": "Hello World",
-      "Percentage": 71,
+      "Percentage": 72,
       "XP": 15,
-      "UsersEstimate": 1167
+      "UsersEstimate": 1184
     },
     {
       "ID": "Achievement_Improvinator",
@@ -2383,9 +2383,9 @@
       "ID": "Achievement_SpaceColonization",
       "SetID": "c01p6e5",
       "Name": "Space Colonization",
-      "Percentage": 78,
+      "Percentage": 79,
       "XP": 15,
-      "UsersEstimate": 1282
+      "UsersEstimate": 1299
     },
     {
       "ID": "Achievement_SpaceEngineer",
@@ -2456,8 +2456,8 @@
   "FirstSeenRating": "2023-03-31T05:57:20.6761614+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:25.908072+00:00",
   "LastChanged": "2023-03-31T05:57:20.6761615+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:08:49.0549953+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:08:53.0354065+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:01.9198203+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:59:41.3468782+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:08:49.0550342+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:59:50.4808453+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:08:53.0354469+00:00"
 }

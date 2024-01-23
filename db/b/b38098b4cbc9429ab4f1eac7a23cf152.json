@@ -4,8 +4,8 @@
   "ProductSlug": "escaperoom-0d8657",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2024-01-13T00:00:00+00:00",
     "PcReleaseDate": "2024-01-31T00:00:00+00:00",
@@ -28,9 +28,51 @@
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [],
-  "TotalAchievements": 0,
-  "TotalAchievementsXP": 0,
-  "Achievements": [],
+  "AchievementsAdded": "2024-01-23T21:08:24.4948134+00:00",
+  "TotalAchievements": 5,
+  "TotalAchievementsXP": 1000,
+  "Achievements": [
+    {
+      "ID": "achievement_1",
+      "SetID": "3i8160j",
+      "Name": "Escape from the castle!",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_2",
+      "SetID": "3i8160j",
+      "Name": "Vesper toys",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_3",
+      "SetID": "3i8160j",
+      "Name": "Cat lover",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_4",
+      "SetID": "3i8160j",
+      "Name": "Escaped in time!",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    },
+    {
+      "ID": "achievement_5",
+      "SetID": "3i8160j",
+      "Name": "Card reader",
+      "Percentage": 0,
+      "XP": 200,
+      "UsersEstimate": 0
+    }
+  ],
   "AchievementSets": [
     {
       "ID": "3i8160j",
@@ -40,8 +82,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-12T11:03:43.6218073+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:08:19.9412276+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:08:24.4948118+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:13.4579305+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:02:39.7060918+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:08:19.941231+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:02:47.7765249+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:08:24.5281123+00:00"
 }

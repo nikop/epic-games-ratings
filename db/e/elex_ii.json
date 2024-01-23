@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 256,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -1892,9 +1892,9 @@
       "ID": "ALLPERSONALITY",
       "SetID": "a1angca",
       "Name": "Idealist",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 20,
-      "UsersEstimate": 11
+      "UsersEstimate": 14
     },
     {
       "ID": "ALLSURVIVAL",
@@ -2140,8 +2140,8 @@
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:05:52.0324835+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:05:59.1840638+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:59:59.4431311+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:05:52.0325412+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:00:09.4558987+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:05:59.1841248+00:00"
 }

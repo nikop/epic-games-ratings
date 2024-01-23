@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 168,
   "Ranking_EOS_Completed": 348,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-01-25T21:00:00+00:00",
     "PcReleaseDate": "2023-01-25T21:00:00+00:00",
@@ -291,9 +291,9 @@
       "Count": 37
     }
   ],
-  "EOS_Progressed": 17641,
+  "EOS_Progressed": 17642,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 361,
+  "EOS_NewPlayers": 362,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -13156,6 +13156,11 @@
       "Time": "2024-01-23T20:05:53.3284275+00:00",
       "NumProgressed": 17641,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T21:06:00.3183739+00:00",
+      "NumProgressed": 17642,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 71,
@@ -13167,7 +13172,7 @@
       "Name": "Start with a bang!",
       "Percentage": 56,
       "XP": 15,
-      "UsersEstimate": 9879
+      "UsersEstimate": 9880
     },
     {
       "ID": "Ach002",
@@ -13175,7 +13180,7 @@
       "Name": "Cream of the Crop",
       "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 6527
+      "UsersEstimate": 6528
     },
     {
       "ID": "Ach003",
@@ -13343,7 +13348,7 @@
       "Name": "Feeling the beat!",
       "Percentage": 56,
       "XP": 5,
-      "UsersEstimate": 9879
+      "UsersEstimate": 9880
     },
     {
       "ID": "Ach024",
@@ -13407,7 +13412,7 @@
       "Name": "Perfect Parry",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 5292
+      "UsersEstimate": 5293
     },
     {
       "ID": "Ach032",
@@ -13423,7 +13428,7 @@
       "Name": "Uh, they were broken when I got here",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4057
+      "UsersEstimate": 4058
     },
     {
       "ID": "Ach034",
@@ -13535,7 +13540,7 @@
       "Name": "Who put gears in there?",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7409
+      "UsersEstimate": 7410
     },
     {
       "ID": "Ach048",
@@ -13583,7 +13588,7 @@
       "Name": "Does that say weakpoint?",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3175
+      "UsersEstimate": 3176
     },
     {
       "ID": "Ach054",
@@ -13734,13 +13739,13 @@
     {
       "ID": "12n4k20",
       "IsBase": true,
-      "Progressed": 17641,
+      "Progressed": 17642,
       "Completed": 8
     },
     {
       "ID": "b7dbjo0",
       "IsBase": false,
-      "Progressed": 16162,
+      "Progressed": 16163,
       "Completed": 1931
     }
   ],
@@ -13748,8 +13753,8 @@
   "FirstSeenRating": "2023-02-17T04:58:03.9003743+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:13.77633+00:00",
   "LastChanged": "2024-01-23T11:01:11.7898211+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:05:53.3284273+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:06:00.3183735+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.4600838+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:59:53.4470211+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:05:53.3285365+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:00:03.4976869+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:06:00.3184837+00:00"
 }

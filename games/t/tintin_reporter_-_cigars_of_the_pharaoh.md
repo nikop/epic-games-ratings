@@ -5,32 +5,32 @@
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | My Papyrus! | 80.00% | ~114 |
-| A Loyal Friend | 44.00% | ~62 |
-| Abandon Ship! | 34.00% | ~48 |
-| The Tomb of Kih-Oskh | 30.00% | ~43 |
-| The Weighing of the Soul | 27.00% | ~38 |
-| The Curse of Kih-Oskh | 20.00% | ~28 |
-| It's a Deal! | 18.00% | ~26 |
+| A Loyal Friend | 43.00% | ~61 |
+| Abandon Ship! | 34.00% | ~49 |
+| The Tomb of Kih-Oskh | 29.00% | ~41 |
+| The Weighing of the Soul | 27.00% | ~39 |
+| The Curse of Kih-Oskh | 20.00% | ~29 |
+| It's a Deal! | 17.00% | ~24 |
 | Cat Lover | 15.00% | ~21 |
 | Dynamite, Treason and Coconuts | 15.00% | ~21 |
 | Save a Friend | 14.00% | ~20 |
-| In the Name of the Law | 13.00% | ~18 |
-| Au Revoir, Abudin | 13.00% | ~18 |
-| Mysterious Bungalow | 13.00% | ~18 |
+| In the Name of the Law | 13.00% | ~19 |
+| Au Revoir, Abudin | 13.00% | ~19 |
+| Mysterious Bungalow | 13.00% | ~19 |
 | The Eyes! | 11.00% | ~16 |
-| Keep the Doctor Away | 11.00% | ~16 |
-| Just a Palm Tree | 11.00% | ~16 |
-| Punctual | 11.00% | ~16 |
+| Keep the Doctor Away | 10.00% | ~14 |
+| Just a Palm Tree | 10.00% | ~14 |
 | Under the Hood | 10.00% | ~14 |
 | Long Live Gaipajama! | 10.00% | ~14 |
 | Eyes Shut | 10.00% | ~14 |
+| Punctual | 10.00% | ~14 |
 | Barking Dog | 9.00% | ~13 |
 | Tintin, Reporter | 8.00% | ~11 |
 | Mummy Nightmare | 7.00% | ~10 |
 | Mountain Runner | 7.00% | ~10 |
 | Subtlety | 7.00% | ~10 |
-| A Yummy Detour | 4.00% | ~6 |
 | Jungle Runner | 3.00% | ~4 |
+| A Yummy Detour | 3.00% | ~4 |
 | The Corporal's Golden Boy | 2.00% | ~3 |
 | Guilt | 2.00% | ~3 |
 | Threat | 2.00% | ~3 |
@@ -42,7 +42,7 @@
 | Flying Ace | 0.00% | ~0 |
 | Escaping War | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 142 (Ranked 478)  
+Progressed: 143 (Ranked 478)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -102,3 +102,4 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 140 | 0 |
 | 2024-01-21 | 141 | 0 |
 | 2024-01-22 | 142 | 0 |
+| 2024-01-23 | 143 | 0 |

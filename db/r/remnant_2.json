@@ -7465,10 +7465,16 @@
       "Rating": 4.72,
       "NumberOfAwards": 17248,
       "NumberOfAwardsMax": 7507
+    },
+    {
+      "Time": "2024-01-23T21:03:24.511352+00:00",
+      "Rating": 4.72,
+      "NumberOfAwards": 17268,
+      "NumberOfAwardsMax": 7507
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 17248,
+  "NumberOfAwards": 17268,
   "NumberOfAwardsMax": 7507,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -7482,13 +7488,13 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 1090
+      "Count": 1102
     },
     {
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 1019
+      "Count": 1027
     },
     {
       "Text": "This game has Challenging Combat",
@@ -7539,9 +7545,9 @@
       "Count": 1010
     }
   ],
-  "EOS_Progressed": 298451,
+  "EOS_Progressed": 298466,
   "EOS_Completed": 1227,
-  "EOS_NewPlayers": 3777,
+  "EOS_NewPlayers": 3759,
   "EOS_NewCompleters": 127,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -29719,6 +29725,11 @@
       "Time": "2024-01-23T20:09:54.584896+00:00",
       "NumProgressed": 298451,
       "NumCompleted": 1227
+    },
+    {
+      "Time": "2024-01-23T21:09:57.3583103+00:00",
+      "NumProgressed": 298466,
+      "NumCompleted": 1227
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -29731,7 +29742,7 @@
       "Name": "Expanding Horizons",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 26861
+      "UsersEstimate": 26862
     },
     {
       "ID": "Craft_Weapon_Mod_B",
@@ -29779,7 +29790,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23876
+      "UsersEstimate": 23877
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -29795,7 +29806,7 @@
       "Name": "Forever is a Long Time Coming",
       "Percentage": 4,
       "XP": 50,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "Defeat_Guardian",
@@ -29811,7 +29822,7 @@
       "Name": "The Killing Jar",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38799
+      "UsersEstimate": 38801
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -29835,7 +29846,7 @@
       "Name": "Not So Special Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20892
+      "UsersEstimate": 20893
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -29843,7 +29854,7 @@
       "Name": "Madman\u0027s Paradise",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "Defeat_World_Boss",
@@ -29851,7 +29862,7 @@
       "Name": "Quest for Survival",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23876
+      "UsersEstimate": 23877
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -29867,7 +29878,7 @@
       "Name": "The Agenda",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "Meet_Custodian",
@@ -29875,7 +29886,7 @@
       "Name": "Not a Janitor",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20892
+      "UsersEstimate": 20893
     },
     {
       "ID": "Meet_Flautist",
@@ -29883,7 +29894,7 @@
       "Name": "Familiar Face",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23876
+      "UsersEstimate": 23877
     },
     {
       "ID": "Meet_Meidra",
@@ -29891,7 +29902,7 @@
       "Name": "Equal Measures",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17907
+      "UsersEstimate": 17908
     },
     {
       "ID": "Meet_Mudtooth",
@@ -29907,7 +29918,7 @@
       "Name": "Blue Goddess",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17907
+      "UsersEstimate": 17908
     },
     {
       "ID": "Obtain_Archetype",
@@ -29915,7 +29926,7 @@
       "Name": "First of Many",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35814
+      "UsersEstimate": 35816
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -29923,7 +29934,7 @@
       "Name": "Duality",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20892
+      "UsersEstimate": 20893
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -29931,7 +29942,7 @@
       "Name": "Top Performer",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 17907
+      "UsersEstimate": 17908
     },
     {
       "ID": "Obtain_Archetype_Secret",
@@ -29939,7 +29950,7 @@
       "Name": "Shhh...It\u0027s a Secret",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17907
+      "UsersEstimate": 17908
     },
     {
       "ID": "Obtain_Blood_Moon_Item",
@@ -29947,7 +29958,7 @@
       "Name": "Bad Moon Rising",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "Obtain_Boss_Alt_Reward",
@@ -29963,7 +29974,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23876
+      "UsersEstimate": 23877
     },
     {
       "ID": "Obtain_Guns_A",
@@ -29971,7 +29982,7 @@
       "Name": "Strapped",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "Obtain_Guns_B",
@@ -30035,7 +30046,7 @@
       "Name": "Not Your Average Trait",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 29845
+      "UsersEstimate": 29847
     },
     {
       "ID": "Obtain_Traits_B",
@@ -30043,7 +30054,7 @@
       "Name": "All These Traits\uFFFD",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 11938
+      "UsersEstimate": 11939
     },
     {
       "ID": "Obtain_Traits_C",
@@ -30075,7 +30086,7 @@
       "Name": "Almost There",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17907
+      "UsersEstimate": 17908
     },
     {
       "ID": "Upgrade_Relic",
@@ -30083,7 +30094,7 @@
       "Name": "Make Some Room",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 17907
+      "UsersEstimate": 17908
     },
     {
       "ID": "Upgrade_Standard_Weapon_A",
@@ -30091,7 +30102,7 @@
       "Name": "Good, But Could Be Better!",
       "Percentage": 6,
       "XP": 20,
-      "UsersEstimate": 17907
+      "UsersEstimate": 17908
     },
     {
       "ID": "Upgrade_Standard_Weapon_B",
@@ -30107,7 +30118,7 @@
       "Name": "Trait Chaser",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23876
+      "UsersEstimate": 23877
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -30131,7 +30142,7 @@
       "Name": "Regicide",
       "Percentage": 3,
       "XP": 75,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "DLC1_Discover_True_Ending",
@@ -30147,7 +30158,7 @@
       "Name": "Master of the Dark Arts",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2328
+      "UsersEstimate": 2329
     },
     {
       "ID": "DLC1_Obtain_Scribe_Reward",
@@ -30170,22 +30181,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 298451,
+      "Progressed": 298466,
       "Completed": 1227
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 77616,
-      "Completed": 789
+      "Progressed": 77631,
+      "Completed": 791
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
-  "LastChanged": "2024-01-23T20:03:15.160175+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:09:54.5848958+00:00",
+  "LastChanged": "2024-01-23T21:03:24.5113519+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:09:57.35831+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.5413849+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:03:15.1601756+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:09:54.5850342+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:03:24.5113524+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:09:57.3584204+00:00"
 }

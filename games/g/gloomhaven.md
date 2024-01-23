@@ -6,33 +6,33 @@ Number of Ratings: 68  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| I'm not dead yet | 38.00% | ~13,485 |
-| Overkill | 33.00% | ~11,711 |
-| Vaccine Incoming | 31.00% | ~11,001 |
-| A normal day in Gloomhaven | 29.00% | ~10,292 |
-| Spread the plague | 26.00% | ~9,227 |
-| Get over here! | 24.00% | ~8,517 |
-| Just when I thought I was out... | 19.00% | ~6,743 |
-| Mine... All Mine... | 16.00% | ~5,678 |
-| Precious! | 15.00% | ~5,323 |
-| Grizzled veteran | 14.00% | ~4,968 |
-| Anatomy Lesson | 14.00% | ~4,968 |
-| Who's the Boss? | 12.00% | ~4,259 |
-| You activated my trap card! | 12.00% | ~4,259 |
-| Obstacle race | 12.00% | ~4,259 |
-| Light of my life | 12.00% | ~4,259 |
-| Augmented rat | 10.00% | ~3,549 |
-| Doom and gloom | 9.00% | ~3,194 |
-| Dungeon Veteran | 8.00% | ~2,839 |
-| Pack leader | 7.00% | ~2,484 |
-| Pain is your friend | 7.00% | ~2,484 |
-| Black death | 7.00% | ~2,484 |
-| Play it again, Sam | 7.00% | ~2,484 |
-| Caught off guard | 6.00% | ~2,129 |
-| Quad damage | 6.00% | ~2,129 |
-| Power Up! | 5.00% | ~1,774 |
-| Merchant of doom | 5.00% | ~1,774 |
-| Now you see me... | 5.00% | ~1,774 |
+| I'm not dead yet | 38.00% | ~13,492 |
+| Overkill | 33.00% | ~11,717 |
+| Vaccine Incoming | 31.00% | ~11,007 |
+| A normal day in Gloomhaven | 29.00% | ~10,296 |
+| Spread the plague | 26.00% | ~9,231 |
+| Get over here! | 24.00% | ~8,521 |
+| Just when I thought I was out... | 19.00% | ~6,746 |
+| Mine... All Mine... | 16.00% | ~5,681 |
+| Precious! | 15.00% | ~5,326 |
+| Grizzled veteran | 14.00% | ~4,971 |
+| Anatomy Lesson | 14.00% | ~4,971 |
+| Who's the Boss? | 12.00% | ~4,261 |
+| You activated my trap card! | 12.00% | ~4,261 |
+| Obstacle race | 12.00% | ~4,261 |
+| Light of my life | 12.00% | ~4,261 |
+| Augmented rat | 10.00% | ~3,550 |
+| Doom and gloom | 9.00% | ~3,195 |
+| Dungeon Veteran | 8.00% | ~2,840 |
+| Pack leader | 7.00% | ~2,485 |
+| Pain is your friend | 7.00% | ~2,485 |
+| Black death | 7.00% | ~2,485 |
+| Play it again, Sam | 7.00% | ~2,485 |
+| Caught off guard | 6.00% | ~2,130 |
+| Quad damage | 6.00% | ~2,130 |
+| Power Up! | 5.00% | ~1,775 |
+| Merchant of doom | 5.00% | ~1,775 |
+| Now you see me... | 5.00% | ~1,775 |
 | The Pro from Dover | 4.00% | ~1,420 |
 | Pretty lights! | 4.00% | ~1,420 |
 | I hate portals | 3.00% | ~1,065 |
@@ -51,24 +51,24 @@ Number of Ratings: 68  (23.09.2022)
 | Captain hooked | 1.00% | ~355 |
 | Spoiler police! | 1.00% | ~355 |
 | New Blood | 1.00% | ~355 |
-| The Pacifist | 0.50% | ~177 |
-| The evil that men do | 0.50% | ~177 |
-| Born Support | 0.50% | ~177 |
+| The Pacifist | 0.50% | ~178 |
+| The evil that men do | 0.50% | ~178 |
+| Born Support | 0.50% | ~178 |
 | MacReady Steady.. Go! | 0.40% | ~142 |
-| A tough job | 0.30% | ~106 |
-| The Jaws of victory! | 0.30% | ~106 |
-| Pull out the big guns | 0.30% | ~106 |
+| A tough job | 0.30% | ~107 |
+| The Jaws of victory! | 0.30% | ~107 |
+| Pull out the big guns | 0.30% | ~107 |
 | The Cartographer | 0.20% | ~71 |
 | Beware my power | 0.20% | ~71 |
 | Crimson Tornado | 0.20% | ~71 |
-| A cult following | 0.10% | ~35 |
-| Over your dead body | 0.10% | ~35 |
-| The Guildmaster | 0.10% | ~35 |
-| Lara Who? | 0.10% | ~35 |
-| Hard-travelling Heroes | 0.10% | ~35 |
-| Murder Death Kill | 0.10% | ~35 |
+| A cult following | 0.10% | ~36 |
+| Over your dead body | 0.10% | ~36 |
+| The Guildmaster | 0.10% | ~36 |
+| Lara Who? | 0.10% | ~36 |
+| Hard-travelling Heroes | 0.10% | ~36 |
+| Murder Death Kill | 0.10% | ~36 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 35,488 (Ranked 140)  
+Progressed: 35,505 (Ranked 140)  
 Completed: 1 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -200,7 +200,7 @@ Completed: 1 (0.00%) (Ranked 409)
 | 2024-01-20 | 34,921 | 1 |
 | 2024-01-21 | 35,178 | 1 |
 | 2024-01-22 | 35,356 | 1 |
-| 2024-01-23 | 35,488 | 1 |
+| 2024-01-23 | 35,505 | 1 |
 ## Awards
 Max (Character Customization): 3,626  (Ranked 96)  
 Sum: 8,503 (Ranked 110)  

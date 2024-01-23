@@ -31,7 +31,7 @@ Number of Ratings: 116  (23.09.2022)
 | Freeze Frame | 31.00% | ~212 |
 | Eat Your Heart Out | 31.00% | ~212 |
 | For Whom the Bell Tolls | 30.00% | ~205 |
-| Unyielding Strength | 27.00% | ~184 |
+| Unyielding Strength | 28.00% | ~191 |
 | Can you restore the Balance? | 27.00% | ~184 |
 | Crowd Source | 27.00% | ~184 |
 | Big Spender | 27.00% | ~184 |
@@ -71,7 +71,7 @@ Number of Ratings: 116  (23.09.2022)
 | Beast Mode | 1.00% | ~7 |
 | Quite Proper | 0.90% | ~6 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 683 (Ranked 338)  
+Progressed: 683 (Ranked 339)  
 Completed: 2 (0.29%) (Ranked 267)  
 ## EOS Players History
 | Date | Progressed | Completed |

@@ -5,10 +5,10 @@
   "Ranking_Rating": 850,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 526,
+  "Ranking_EOS_Progress": 523,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 204,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 201,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 82,
+  "EOS_Progressed": 85,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 75,
+  "EOS_NewPlayers": 78,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -302,6 +302,11 @@
       "Time": "2024-01-23T20:03:35.4492375+00:00",
       "NumProgressed": 82,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T21:03:45.7890785+00:00",
+      "NumProgressed": 85,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2024-01-23T11:04:07.3597003+00:00",
@@ -352,9 +357,9 @@
       "ID": "big_apple",
       "SetID": "41moj9p",
       "Name": "Big Apple",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "black_sheep_wall",
@@ -392,9 +397,9 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 9,
+      "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 7
+      "UsersEstimate": 10
     },
     {
       "ID": "brutus",
@@ -424,7 +429,7 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 20,
       "UsersEstimate": 8
     },
@@ -472,9 +477,9 @@
       "ID": "desperate_times",
       "SetID": "41moj9p",
       "Name": "Desperate Times Call for Desperate Measures",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "die_by_my_hand",
@@ -592,7 +597,7 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 15,
+      "Percentage": 14,
       "XP": 25,
       "UsersEstimate": 12
     },
@@ -608,7 +613,7 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 5,
       "UsersEstimate": 7
     },
@@ -672,9 +677,9 @@
       "ID": "i_started_a_joke",
       "SetID": "41moj9p",
       "Name": "I started a joke",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "ibn_battuta",
@@ -936,9 +941,9 @@
       "ID": "the_finest_merchandise",
       "SetID": "41moj9p",
       "Name": "The finest merchandise this side of river Jordan",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 5
+      "UsersEstimate": 6
     },
     {
       "ID": "the_magnificent_nine",
@@ -968,7 +973,7 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 10,
+      "Percentage": 9,
       "XP": 10,
       "UsersEstimate": 8
     },
@@ -976,9 +981,9 @@
       "ID": "they_got_what_they_deserved",
       "SetID": "41moj9p",
       "Name": "They Got What They Deserved",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "time_to_find_india",
@@ -1056,9 +1061,9 @@
       "ID": "what_weve_got",
       "SetID": "41moj9p",
       "Name": "What we\u2019ve got here is failure to communicate",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "wheres_your_crown",
@@ -1113,7 +1118,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 82,
+      "Progressed": 85,
       "Completed": 0
     }
   ],
@@ -1121,8 +1126,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-20T16:58:07.6974686+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:03:35.4492371+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:03:45.789078+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:59:13.8232648+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:03:35.4493876+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:59:20.436216+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:03:45.7891707+00:00"
 }

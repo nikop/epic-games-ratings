@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 160,
   "Ranking_EOS_Completed": 257,
   "Ranking_EOS_NewPlayers": 169,
-  "Ranking_EOS_NewCompleters": 106,
+  "Ranking_EOS_NewCompleters": 107,
   "Store": {
     "ReleaseDate": "2023-07-27T07:00:00+00:00",
     "PcReleaseDate": "2023-07-27T07:00:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19249,
+  "EOS_Progressed": 19251,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 169,
+  "EOS_NewPlayers": 170,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18093,6 +18093,11 @@
       "Time": "2024-01-23T20:05:35.8721808+00:00",
       "NumProgressed": 19249,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-23T21:05:43.2053295+00:00",
+      "NumProgressed": 19251,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18105,7 +18110,7 @@
       "Name": "Urshanabi Hoarder",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 192
+      "UsersEstimate": 193
     },
     {
       "ID": "10",
@@ -18137,7 +18142,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3657
+      "UsersEstimate": 3658
     },
     {
       "ID": "14",
@@ -18145,7 +18150,7 @@
       "Name": "Doctor Approved",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "15",
@@ -18169,7 +18174,7 @@
       "Name": "Spore Taste",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 2502
+      "UsersEstimate": 2503
     },
     {
       "ID": "18",
@@ -18177,7 +18182,7 @@
       "Name": "Bottoms up!",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 1347
+      "UsersEstimate": 1348
     },
     {
       "ID": "19",
@@ -18185,7 +18190,7 @@
       "Name": "Martian Music",
       "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "2",
@@ -18193,7 +18198,7 @@
       "Name": "Data Logger",
       "Percentage": 5,
       "XP": 25,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "20",
@@ -18225,7 +18230,7 @@
       "Name": "Heal Thy Medic",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1732
+      "UsersEstimate": 1733
     },
     {
       "ID": "24",
@@ -18233,7 +18238,7 @@
       "Name": "Miraculous Maya",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 962
+      "UsersEstimate": 963
     },
     {
       "ID": "25",
@@ -18257,7 +18262,7 @@
       "Name": "Bosmang",
       "Percentage": 15,
       "XP": 100,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "28",
@@ -18273,7 +18278,7 @@
       "Name": "Data Collector",
       "Percentage": 0.2,
       "XP": 100,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "3",
@@ -18281,7 +18286,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3272
+      "UsersEstimate": 3273
     },
     {
       "ID": "30",
@@ -18289,7 +18294,7 @@
       "Name": "No Belter Left Behind",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 577
+      "UsersEstimate": 578
     },
     {
       "ID": "4",
@@ -18313,7 +18318,7 @@
       "Name": "Celebrations are in Order",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "7",
@@ -18337,7 +18342,7 @@
       "Name": "Impossible Objects",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 2887
+      "UsersEstimate": 2888
     },
     {
       "ID": "31",
@@ -18361,7 +18366,7 @@
       "Name": "Zen Master",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 572
+      "UsersEstimate": 573
     },
     {
       "ID": "34",
@@ -18384,22 +18389,22 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19249,
+      "Progressed": 19251,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5203,
-      "Completed": 1395
+      "Progressed": 5205,
+      "Completed": 1397
     }
   ],
   "FirstSeen": "2023-07-27T08:00:40.4390292+00:00",
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-23T18:59:22.4286338+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:05:35.8721804+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:05:43.2053291+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:59:08.1201373+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:05:35.8722805+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:59:14.2944252+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:05:43.2054529+00:00"
 }

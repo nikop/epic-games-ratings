@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 359,
   "Ranking_EOS_NewPlayers": 160,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
     "PcReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -801,7 +801,7 @@
   ],
   "EOS_Progressed": 4755,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 219,
+  "EOS_NewPlayers": 210,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13559,9 +13559,9 @@
       "ID": "howdoyouturnthison",
       "SetID": "3nl4bcg",
       "Name": "How Do You Turn This On?",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 238
+      "UsersEstimate": 285
     },
     {
       "ID": "hunter",
@@ -13912,8 +13912,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:05:40.2244473+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:05:47.5253199+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:57:10.7012025+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:05:40.2245738+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:57:15.3774736+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:05:47.5254203+00:00"
 }

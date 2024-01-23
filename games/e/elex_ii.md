@@ -37,8 +37,8 @@ Number of Ratings: 124  (23.09.2022)
 | Detective | 8.00% | ~23 |
 | Alchemist | 5.00% | ~14 |
 | Self-Sufficient | 5.00% | ~14 |
+| Idealist | 5.00% | ~14 |
 | Unbreakable | 5.00% | ~14 |
-| Idealist | 4.00% | ~11 |
 | Legendary | 3.00% | ~9 |
 | Toy Time | 2.00% | ~6 |
 | Defector | 2.00% | ~6 |

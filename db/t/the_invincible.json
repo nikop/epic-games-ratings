@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 203,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -135,7 +135,7 @@
   "Tags": [],
   "EOS_Progressed": 1797,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 77,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4920,9 +4920,9 @@
       "ID": "AchvBombStop",
       "SetID": "1hj060c",
       "Name": "Peacemaker",
-      "Percentage": 24,
+      "Percentage": 25,
       "XP": 90,
-      "UsersEstimate": 431
+      "UsersEstimate": 449
     },
     {
       "ID": "AchvBombing",
@@ -4976,9 +4976,9 @@
       "ID": "AchvInvShip",
       "SetID": "1hj060c",
       "Name": "Another giant",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 252
+      "UsersEstimate": 270
     },
     {
       "ID": "AchvKrautaAlive",
@@ -5129,8 +5129,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-23T17:57:43.9429739+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:09:48.0167195+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:09:51.1685277+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:57:42.826186+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:09:48.0167601+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:57:47.5478384+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:09:51.1685626+00:00"
 }

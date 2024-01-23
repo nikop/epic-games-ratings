@@ -4,8 +4,8 @@
   "ProductSlug": "tintin-reporter-cigars-of-the-pharaoh-8b32ea",
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 420,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 142,
+  "EOS_Progressed": 143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 3,
+  "EOS_NewPlayers": 4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -669,6 +669,11 @@
       "Time": "2024-01-22T17:05:15.2015956+00:00",
       "NumProgressed": 142,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T21:05:15.4070208+00:00",
+      "NumProgressed": 143,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-13T17:07:46.1878997+00:00",
@@ -689,7 +694,7 @@
       "Name": "In the Name of the Law",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement11",
@@ -697,7 +702,7 @@
       "Name": "Au Revoir, Abudin",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement12",
@@ -705,7 +710,7 @@
       "Name": "Mysterious Bungalow",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "Achievement13",
@@ -719,17 +724,17 @@
       "ID": "Achievement14",
       "SetID": "9fa3l5n",
       "Name": "Keep the Doctor Away",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement15",
       "SetID": "9fa3l5n",
       "Name": "Just a Palm Tree",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement16",
@@ -767,9 +772,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 44,
+      "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 62
+      "UsersEstimate": 61
     },
     {
       "ID": "Achievement20",
@@ -799,9 +804,9 @@
       "ID": "Achievement23",
       "SetID": "9fa3l5n",
       "Name": "Punctual",
-      "Percentage": 11,
+      "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 16
+      "UsersEstimate": 14
     },
     {
       "ID": "Achievement24",
@@ -857,7 +862,7 @@
       "Name": "Abandon Ship!",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "Achievement30",
@@ -871,9 +876,9 @@
       "ID": "Achievement31",
       "SetID": "9fa3l5n",
       "Name": "A Yummy Detour",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 6
+      "UsersEstimate": 4
     },
     {
       "ID": "Achievement32",
@@ -927,9 +932,9 @@
       "ID": "Achievement4",
       "SetID": "9fa3l5n",
       "Name": "The Tomb of Kih-Oskh",
-      "Percentage": 30,
+      "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 43
+      "UsersEstimate": 41
     },
     {
       "ID": "Achievement5",
@@ -937,7 +942,7 @@
       "Name": "The Weighing of the Soul",
       "Percentage": 27,
       "XP": 15,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "Achievement6",
@@ -945,15 +950,15 @@
       "Name": "The Curse of Kih-Oskh",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 28
+      "UsersEstimate": 29
     },
     {
       "ID": "Achievement7",
       "SetID": "9fa3l5n",
       "Name": "It\u0027s a Deal!",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 26
+      "UsersEstimate": 24
     },
     {
       "ID": "Achievement8",
@@ -976,14 +981,14 @@
     {
       "ID": "9fa3l5n",
       "IsBase": true,
-      "Progressed": 142,
+      "Progressed": 143,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:05:08.0585293+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:05:15.4070204+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:47.9162613+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:00:01.1059565+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:05:08.0585546+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:00:11.2447117+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:05:15.4070783+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 159,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 253,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 248,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-03-21T15:00:00+00:00",
     "PcReleaseDate": "2023-03-21T15:00:00+00:00",
@@ -295,9 +295,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19373,
+  "EOS_Progressed": 19377,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 28,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -14890,6 +14890,11 @@
       "Time": "2024-01-23T15:08:46.5363442+00:00",
       "NumProgressed": 19373,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T21:08:18.5370912+00:00",
+      "NumProgressed": 19377,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 36,
@@ -14901,7 +14906,7 @@
       "Name": "On Deceive Inc.\u0027s Secret Service",
       "Percentage": 30,
       "XP": 10,
-      "UsersEstimate": 5812
+      "UsersEstimate": 5813
     },
     {
       "ID": "0002",
@@ -14917,7 +14922,7 @@
       "Name": "Assistant Accountant",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3293
+      "UsersEstimate": 3294
     },
     {
       "ID": "0004",
@@ -14925,7 +14930,7 @@
       "Name": "Security Supervisor",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 1162
+      "UsersEstimate": 1163
     },
     {
       "ID": "0005",
@@ -14933,7 +14938,7 @@
       "Name": "Branch Manager",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "0006",
@@ -14957,7 +14962,7 @@
       "Name": "From the Vault with Love",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "0009",
@@ -14965,7 +14970,7 @@
       "Name": "Mainframe Hacker",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "0010",
@@ -14997,7 +15002,7 @@
       "Name": "Keycards Royale",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "0014",
@@ -15029,7 +15034,7 @@
       "Name": "Never Say Loser Again",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "0018",
@@ -15053,7 +15058,7 @@
       "Name": "Dr. No Kill",
       "Percentage": 10,
       "XP": 115,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "0021",
@@ -15061,7 +15066,7 @@
       "Name": "Call Me Maybe",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "0022",
@@ -15069,7 +15074,7 @@
       "Name": "PHD in VIP",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "0023",
@@ -15085,7 +15090,7 @@
       "Name": "Tomorrow Never Dyes",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 4262
+      "UsersEstimate": 4263
     },
     {
       "ID": "0025",
@@ -15093,7 +15098,7 @@
       "Name": "Tailor-Made",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "0026",
@@ -15117,7 +15122,7 @@
       "Name": "The Spy who eliminated me",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 4456
+      "UsersEstimate": 4457
     },
     {
       "ID": "0029",
@@ -15125,7 +15130,7 @@
       "Name": "A view to Win",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 2518
+      "UsersEstimate": 2519
     },
     {
       "ID": "0030",
@@ -15133,7 +15138,7 @@
       "Name": "For your Eyes only",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3487
+      "UsersEstimate": 3488
     },
     {
       "ID": "0031",
@@ -15188,7 +15193,7 @@
     {
       "ID": "2n2feee",
       "IsBase": true,
-      "Progressed": 19373,
+      "Progressed": 19377,
       "Completed": 4
     }
   ],
@@ -15196,8 +15201,8 @@
   "FirstSeenRating": "2023-03-31T05:56:57.834896+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.9363349+00:00",
   "LastChanged": "2023-12-30T02:18:11.77416+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:08:13.8235019+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:08:18.5370908+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:02.7427882+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:00:23.6878842+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:08:13.8235775+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:02:32.9118665+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:08:18.537166+00:00"
 }

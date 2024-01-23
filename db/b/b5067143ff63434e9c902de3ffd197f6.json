@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 168,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
     "PcReleaseDate": "2023-07-11T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19195,
+  "EOS_Progressed": 19198,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 173,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12879,6 +12879,11 @@
       "Time": "2024-01-23T20:03:26.4800239+00:00",
       "NumProgressed": 19195,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T21:03:37.0020386+00:00",
+      "NumProgressed": 19198,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -12995,7 +13000,7 @@
       "Name": "Level 1",
       "Percentage": 12,
       "XP": 25,
-      "UsersEstimate": 2303
+      "UsersEstimate": 2304
     },
     {
       "ID": "ACH_WINLEVEL2",
@@ -13003,7 +13008,7 @@
       "Name": "Dreamer!",
       "Percentage": 11,
       "XP": 25,
-      "UsersEstimate": 2111
+      "UsersEstimate": 2112
     },
     {
       "ID": "ACH_WINLEVEL3",
@@ -13082,14 +13087,14 @@
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 19195,
+      "Progressed": 19198,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:03:26.4800233+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:03:37.0020384+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:53.1330929+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:02:39.0492536+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:03:26.4801575+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:02:47.2870534+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:03:37.0021432+00:00"
 }

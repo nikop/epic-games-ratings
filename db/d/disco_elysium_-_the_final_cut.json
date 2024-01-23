@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 266,
   "Ranking_EOS_Progress": 91,
   "Ranking_EOS_Completed": 373,
-  "Ranking_EOS_NewPlayers": 120,
-  "Ranking_EOS_NewCompleters": 143,
+  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-06-06T18:00:00+00:00",
     "PcReleaseDate": null,
@@ -1718,9 +1718,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139970,
+  "EOS_Progressed": 139972,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 551,
+  "EOS_NewPlayers": 550,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29613,6 +29613,11 @@
       "Time": "2024-01-23T20:08:57.6064124+00:00",
       "NumProgressed": 139970,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-23T21:09:01.5349167+00:00",
+      "NumProgressed": 139972,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29680,7 +29685,7 @@
       "Name": "Biggest Communism Builder",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 32193
+      "UsersEstimate": 32194
     },
     {
       "ID": "ACH_COP_DESTROY",
@@ -29728,7 +29733,7 @@
       "Name": "Baddest Hustler In The Neoliberal Hood",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 22395
+      "UsersEstimate": 22396
     },
     {
       "ID": "ACH_COP_MORALIST",
@@ -29943,15 +29948,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139970,
+      "Progressed": 139972,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-23T04:58:42.7043232+00:00",
-  "LastChanged_Achievements": "2024-01-23T20:08:57.6064119+00:00",
+  "LastChanged_Achievements": "2024-01-23T21:09:01.5349164+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:58:47.1157412+00:00",
-  "LastUpdate_Achievements": "2024-01-23T20:08:57.6065788+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:58:53.7272446+00:00",
+  "LastUpdate_Achievements": "2024-01-23T21:09:01.5350714+00:00"
 }

@@ -15,15 +15,15 @@ Rating: 4.52 (Ranked 583)
 | The End | 40.00% | ~719 |
 | The Necroevolution | 32.00% | ~575 |
 | Krauta is alive | 30.00% | ~539 |
-| Peacemaker | 24.00% | ~431 |
+| Peacemaker | 25.00% | ~449 |
 | On her own | 23.00% | ~413 |
 | Fierce fight | 23.00% | ~413 |
 | Volcanologist | 23.00% | ~413 |
 | Evacuation | 22.00% | ~395 |
 | Beyond divisions | 20.00% | ~359 |
 | Flying Objects Operator | 18.00% | ~323 |
+| Another giant | 15.00% | ~270 |
 | I remember everything! | 14.00% | ~252 |
-| Another giant | 14.00% | ~252 |
 | Violent solution | 10.00% | ~180 |
 | I leave no man behind | 10.00% | ~180 |
 | Innate curiosity | 8.00% | ~144 |
