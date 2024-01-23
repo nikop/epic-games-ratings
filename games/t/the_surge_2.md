@@ -5,24 +5,24 @@ Rating: 4.27 (Ranked 916)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rigged And Ready | 78.00% | ~2,042 |
+| Rigged And Ready | 78.00% | ~2,043 |
 | Don't I Know You...? | 75.00% | ~1,964 |
 | Jailbreak | 64.00% | ~1,676 |
 | HEADSHOT! | 37.00% | ~969 |
 | Suited and Booted | 37.00% | ~969 |
 | Sleeping With The Fishes | 34.00% | ~890 |
-| High Performance | 30.00% | ~785 |
-| Overheated | 29.00% | ~759 |
+| High Performance | 30.00% | ~786 |
+| Overheated | 29.00% | ~760 |
 | Powered Up | 27.00% | ~707 |
-| Studied The Blade | 24.00% | ~628 |
+| Studied The Blade | 24.00% | ~629 |
 | Home Invasion | 23.00% | ~602 |
 | Luminary | 22.00% | ~576 |
-| It's a Trap | 22.00% | ~576 |
 | True Survivor | 21.00% | ~550 |
+| It's a Trap | 21.00% | ~550 |
 | Offensive Defense | 20.00% | ~524 |
 | Shocking | 20.00% | ~524 |
-| Court Martial | 19.00% | ~497 |
-| Unforeseeable Consequences | 19.00% | ~497 |
+| Court Martial | 19.00% | ~498 |
+| Unforeseeable Consequences | 19.00% | ~498 |
 | Clean Cut | 18.00% | ~471 |
 | Dead Again | 17.00% | ~445 |
 | Full Arsenal | 17.00% | ~445 |
@@ -38,9 +38,9 @@ Rating: 4.27 (Ranked 916)
 | Stimulating The Local Economy | 10.00% | ~262 |
 | Triplets | 10.00% | ~262 |
 | Denying Prophecy | 9.00% | ~236 |
-| A Little Banged Up | 8.00% | ~209 |
-| Following In Their Footsteps | 8.00% | ~209 |
-| Defense in Depth | 8.00% | ~209 |
+| A Little Banged Up | 8.00% | ~210 |
+| Following In Their Footsteps | 8.00% | ~210 |
+| Defense in Depth | 8.00% | ~210 |
 | Reverse Engineering | 7.00% | ~183 |
 | Remote Surgery | 6.00% | ~157 |
 | Turbo Booster | 6.00% | ~157 |
@@ -63,7 +63,7 @@ Rating: 4.27 (Ranked 916)
 | Three Birds With One Stone | 1.00% | ~26 |
 | The Easy Way Out | 1.00% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,618 (Ranked 242)  
+Progressed: 2,619 (Ranked 242)  
 Completed: 13 (0.50%) (Ranked 230)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -278,7 +278,7 @@ Completed: 13 (0.50%) (Ranked 230)
 | 2024-01-20 | 2,611 | 13 |
 | 2024-01-21 | 2,614 | 13 |
 | 2024-01-22 | 2,617 | 13 |
-| 2024-01-23 | 2,618 | 13 |
+| 2024-01-23 | 2,619 | 13 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

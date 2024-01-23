@@ -2,7 +2,7 @@
   "ID": "9862908ffff747abb145c54ded5164d0",
   "Name": "Ad Infinitum",
   "ProductSlug": "ad-infinitum",
-  "Ranking_EOS_Progress": 431,
+  "Ranking_EOS_Progress": 430,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 378,
   "Ranking_EOS_NewCompleters": 140,
@@ -20,7 +20,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 219,
+  "EOS_Progressed": 220,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
@@ -1065,6 +1065,11 @@
       "Time": "2024-01-22T00:09:00.3061965+00:00",
       "NumProgressed": 219,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T07:09:56.2512594+00:00",
+      "NumProgressed": 220,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-26T17:06:03.7591+00:00",
@@ -1133,7 +1138,7 @@
       "Name": "Awaken",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 96
+      "UsersEstimate": 97
     },
     {
       "ID": "ACH_CLARITY",
@@ -1141,7 +1146,7 @@
       "Name": "Clarity",
       "Percentage": 18,
       "XP": 30,
-      "UsersEstimate": 39
+      "UsersEstimate": 40
     },
     {
       "ID": "ACH_CORRUPTION",
@@ -1173,15 +1178,15 @@
       "Name": "Hope",
       "Percentage": 33,
       "XP": 30,
-      "UsersEstimate": 72
+      "UsersEstimate": 73
     },
     {
       "ID": "ACH_HUNGER",
       "SetID": "88d7anj",
       "Name": "Hunger",
-      "Percentage": 52,
+      "Percentage": 51,
       "XP": 30,
-      "UsersEstimate": 114
+      "UsersEstimate": 112
     },
     {
       "ID": "ACH_JIGSAW",
@@ -1243,17 +1248,17 @@
       "ID": "ACH_PATHOFCORRUPTION",
       "SetID": "88d7anj",
       "Name": "Path of Corruption",
-      "Percentage": 37,
+      "Percentage": 36,
       "XP": 15,
-      "UsersEstimate": 81
+      "UsersEstimate": 79
     },
     {
       "ID": "ACH_PATHOFDESPAIR",
       "SetID": "88d7anj",
       "Name": "Path of Despair",
-      "Percentage": 88,
+      "Percentage": 87,
       "XP": 15,
-      "UsersEstimate": 193
+      "UsersEstimate": 191
     },
     {
       "ID": "ACH_PATHOFPAIN",
@@ -1283,9 +1288,9 @@
       "ID": "ACH_REFLECTIONS",
       "SetID": "88d7anj",
       "Name": "Reflections",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 46
+      "UsersEstimate": 44
     },
     {
       "ID": "ACH_THEIRNAMES",
@@ -1308,14 +1313,14 @@
     {
       "ID": "88d7anj",
       "IsBase": true,
-      "Progressed": 219,
+      "Progressed": 220,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-16T22:59:49.7725195+00:00",
   "FirstSeenAchievements": "2023-07-25T11:06:40.9201069+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:08:51.8811828+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:09:56.251259+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.8338619+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:58:20.1016463+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:08:51.8812067+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:59:17.1379876+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:09:56.2512812+00:00"
 }

@@ -878,7 +878,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 6450,
+  "EOS_Progressed": 6451,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 1,
@@ -13643,6 +13643,11 @@
       "Time": "2024-01-23T01:56:10.3535336+00:00",
       "NumProgressed": 6450,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T07:07:22.657465+00:00",
+      "NumProgressed": 6451,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-07-20T18:03:29.3468852+00:00",
@@ -13671,7 +13676,7 @@
       "Name": "Deadication",
       "Percentage": 5,
       "XP": 50,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "MF_Ach_DeathBecomesYou",
@@ -13687,7 +13692,7 @@
       "Name": "Debuff Dogpile",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 1612
+      "UsersEstimate": 1613
     },
     {
       "ID": "MF_Ach_EverythingMustGo",
@@ -13838,15 +13843,15 @@
     {
       "ID": "9b9n573",
       "IsBase": true,
-      "Progressed": 6450,
+      "Progressed": 6451,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:29:19.2920768+00:00",
   "FirstSeenAchievements": "2023-06-27T22:04:49.8839907+00:00",
   "LastChanged": "2024-01-21T18:00:55.1150058+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:05:42.2220583+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:07:22.6574646+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.8952031+00:00",
   "LastUpdate_Ratings": "2024-01-23T06:00:04.8131781+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:05:42.2221404+00:00"
+  "LastUpdate_Achievements": "2024-01-23T07:07:22.6575267+00:00"
 }

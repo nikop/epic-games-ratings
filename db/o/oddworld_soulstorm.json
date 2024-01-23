@@ -4,10 +4,10 @@
   "ProductSlug": "oddworld-soulstorm",
   "Ranking_Rating": 207,
   "Ranking_Popularity": 489,
-  "Ranking_PopularitySum": 529,
+  "Ranking_PopularitySum": 530,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 553,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-04-05T22:00:00+00:00",
@@ -285,6 +285,6 @@
   "FirstSeen": "2022-07-22T20:32:54.3777281+00:00",
   "LastChanged": "2023-12-19T11:03:13.7163836+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:39.0977113+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:59:22.9997558+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:05:35.2682742+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:00:46.2811535+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:07:13.0790458+00:00"
 }

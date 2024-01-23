@@ -20,10 +20,10 @@ Rating: 4.22 (Ranked 961)
 | Crash Site | 14.00% | ~3,175 |
 | Two Heads Are Better Than One | 13.00% | ~2,948 |
 | Power Up | 13.00% | ~2,948 |
+| Giving Back | 12.00% | ~2,721 |
 | Terminated | 12.00% | ~2,721 |
 | What Lies Beneath | 12.00% | ~2,721 |
 | Full Circle | 12.00% | ~2,721 |
-| Giving Back | 11.00% | ~2,495 |
 | You Need a Gun | 10.00% | ~2,268 |
 | I Do Belong Here | 9.00% | ~2,041 |
 | Keep Fighting | 8.00% | ~848 |

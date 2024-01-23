@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 348872,
+  "EOS_Progressed": 348882,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2797,
+  "EOS_NewPlayers": 2790,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14399,6 +14399,11 @@
       "Time": "2024-01-23T06:09:10.5871806+00:00",
       "NumProgressed": 348872,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-23T07:10:21.9325725+00:00",
+      "NumProgressed": 348882,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14619,7 +14624,7 @@
       "Name": "Their fate is sealed",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "S28_CTHB",
@@ -14627,7 +14632,7 @@
       "Name": "Not even from this world",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 1395
+      "UsersEstimate": 1396
     },
     {
       "ID": "S29_RECOVER",
@@ -14723,14 +14728,14 @@
       "Name": "Let\u0027s raise the stakes!!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 6977
+      "UsersEstimate": 6978
     }
   ],
   "AchievementSets": [
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 348872,
+      "Progressed": 348882,
       "Completed": 7
     }
   ],
@@ -14738,8 +14743,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:09:10.5871803+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:10:21.9325722+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:59:07.2303041+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:09:10.5872524+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:00:22.3491618+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:10:21.9326644+00:00"
 }

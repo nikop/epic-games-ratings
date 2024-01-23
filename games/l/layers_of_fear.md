@@ -28,10 +28,10 @@
 | Tough conversation | 11.00% | ~38 |
 | A new way | 10.00% | ~34 |
 | Breaking free | 10.00% | ~34 |
+| True Reflection | 9.00% | ~31 |
 | Casting Finished | 8.00% | ~27 |
 | Heavy Burden | 8.00% | ~27 |
 | Instinct of self-preservation | 8.00% | ~27 |
-| True Reflection | 8.00% | ~27 |
 | Fisherman | 7.00% | ~24 |
 | Something to think about | 6.00% | ~21 |
 | I remember It Like Was Yesterday | 6.00% | ~21 |

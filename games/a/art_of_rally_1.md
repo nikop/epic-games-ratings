@@ -6,22 +6,22 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~345,912 |
-| good drivers have dead flies on the side windows | 32.00% | ~138,365 |
-| keep it tidy | 26.00% | ~112,421 |
-| brail | 26.00% | ~112,421 |
-| car wash | 23.00% | ~99,450 |
-| the artist | 23.00% | ~99,450 |
-| podium | 20.00% | ~86,478 |
-| medium attack | 17.00% | ~73,506 |
-| bicycle race | 6.00% | ~25,943 |
-| grocery-getter | 5.00% | ~21,620 |
-| autopilot | 4.00% | ~17,296 |
-| night ride | 4.00% | ~17,296 |
-| rwd only | 3.00% | ~12,972 |
-| where is the stage? | 3.00% | ~12,972 |
-| snorkel | 3.00% | ~12,972 |
-| food tour: pasta | 3.00% | ~12,972 |
+| light attack | 80.00% | ~345,934 |
+| good drivers have dead flies on the side windows | 32.00% | ~138,374 |
+| keep it tidy | 26.00% | ~112,429 |
+| brail | 26.00% | ~112,429 |
+| car wash | 23.00% | ~99,456 |
+| the artist | 23.00% | ~99,456 |
+| podium | 20.00% | ~86,484 |
+| medium attack | 17.00% | ~73,511 |
+| bicycle race | 6.00% | ~25,945 |
+| grocery-getter | 5.00% | ~21,621 |
+| autopilot | 4.00% | ~17,297 |
+| night ride | 4.00% | ~17,297 |
+| rwd only | 3.00% | ~12,973 |
+| where is the stage? | 3.00% | ~12,973 |
+| snorkel | 3.00% | ~12,973 |
+| food tour: pasta | 3.00% | ~12,973 |
 | to finish first, first you must finish | 2.00% | ~8,648 |
 | perkele | 2.00% | ~8,648 |
 | turbo | 2.00% | ~8,648 |
@@ -35,7 +35,7 @@ Number of Ratings: 56  (23.09.2022)
 | eurobeat | 0.70% | ~3,027 |
 | viking | 0.70% | ~3,027 |
 | parallel universe | 0.70% | ~3,027 |
-| oktoberfest | 0.60% | ~2,594 |
+| oktoberfest | 0.60% | ~2,595 |
 | group b | 0.50% | ~2,162 |
 | maximum attack | 0.50% | ~2,162 |
 | samir | 0.50% | ~2,162 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~432 |
 | you're here for a good time, not a long time | 0.10% | ~432 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 432,390 (Ranked 47)  
+Progressed: 432,418 (Ranked 47)  
 Completed: 27 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,7 +258,7 @@ Completed: 27 (0.01%) (Ranked 383)
 | 2024-01-20 | 429,113 | 26 |
 | 2024-01-21 | 430,837 | 26 |
 | 2024-01-22 | 432,130 | 27 |
-| 2024-01-23 | 432,390 | 27 |
+| 2024-01-23 | 432,418 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
 Sum: 306 (Ranked 384)  

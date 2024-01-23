@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 68,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2022-11-17T15:00:00+00:00",
     "PcReleaseDate": "2022-11-17T15:00:00+00:00",
@@ -6811,7 +6811,7 @@
       "Count": 387
     }
   ],
-  "EOS_Progressed": 268493,
+  "EOS_Progressed": 268494,
   "EOS_Completed": 960,
   "EOS_NewPlayers": 895,
   "EOS_NewCompleters": 7,
@@ -37421,6 +37421,11 @@
       "Time": "2024-01-23T06:10:08.8932669+00:00",
       "NumProgressed": 268493,
       "NumCompleted": 960
+    },
+    {
+      "Time": "2024-01-23T07:11:41.0392165+00:00",
+      "NumProgressed": 268494,
+      "NumCompleted": 960
     }
   ],
   "TotalAchievements": 39,
@@ -37432,7 +37437,7 @@
       "Name": "Welcome to Earth",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 67123
+      "UsersEstimate": 67124
     },
     {
       "ID": "AchievementBananaLickerID",
@@ -37496,7 +37501,7 @@
       "Name": "Forgotten Sorority",
       "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 244329
+      "UsersEstimate": 244330
     },
     {
       "ID": "AchievementClownID",
@@ -37512,7 +37517,7 @@
       "Name": "Club Mohair",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 21479
+      "UsersEstimate": 21480
     },
     {
       "ID": "AchievementCrashGameID",
@@ -37560,7 +37565,7 @@
       "Name": "Goat Queen",
       "Percentage": 52,
       "XP": 100,
-      "UsersEstimate": 139616
+      "UsersEstimate": 139617
     },
     {
       "ID": "AchievementHarryPotterID",
@@ -37600,7 +37605,7 @@
       "Name": "I Watched the Intro",
       "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 153041
+      "UsersEstimate": 153042
     },
     {
       "ID": "AchievementLootBoxID",
@@ -37632,7 +37637,7 @@
       "Name": "Shadow Syndicate",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 99342
+      "UsersEstimate": 99343
     },
     {
       "ID": "AchievementRampID",
@@ -37664,7 +37669,7 @@
       "Name": "Private Club",
       "Percentage": 73,
       "XP": 5,
-      "UsersEstimate": 196000
+      "UsersEstimate": 196001
     },
     {
       "ID": "AchievementShrinkHouseID",
@@ -37672,7 +37677,7 @@
       "Name": "A Center for Ants?",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 21479
+      "UsersEstimate": 21480
     },
     {
       "ID": "AchievementStratosphereID",
@@ -37680,7 +37685,7 @@
       "Name": "Reach the Stratosphere",
       "Percentage": 50,
       "XP": 5,
-      "UsersEstimate": 134246
+      "UsersEstimate": 134247
     },
     {
       "ID": "AchievementStreakingID",
@@ -37704,7 +37709,7 @@
       "Name": "Covert Consortium",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 144986
+      "UsersEstimate": 144987
     },
     {
       "ID": "AchievementTowerSyncID",
@@ -37743,7 +37748,7 @@
     {
       "ID": "a2e41al",
       "IsBase": true,
-      "Progressed": 268493,
+      "Progressed": 268494,
       "Completed": 960
     }
   ],
@@ -37751,8 +37756,8 @@
   "FirstSeenRating": "2022-11-17T20:57:24.0090351+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:37.2764644+00:00",
   "LastChanged": "2024-01-22T19:57:09.8151594+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:10:08.8932664+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:11:41.039216+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:48.8011791+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:57:10.3297276+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:10:08.8934259+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:57:35.6280418+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:11:41.0393725+00:00"
 }

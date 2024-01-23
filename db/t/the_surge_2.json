@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 242,
   "Ranking_EOS_Completed": 230,
-  "Ranking_EOS_NewPlayers": 268,
+  "Ranking_EOS_NewPlayers": 267,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-08-16T10:00:00+00:00",
@@ -306,9 +306,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2618,
+  "EOS_Progressed": 2619,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 22,
+  "EOS_NewPlayers": 23,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.5,
   "EosHistory": [
@@ -4896,6 +4896,11 @@
       "Time": "2024-01-23T05:03:52.3540913+00:00",
       "NumProgressed": 2618,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-23T07:04:57.8296735+00:00",
+      "NumProgressed": 2619,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 57,
@@ -4907,7 +4912,7 @@
       "Name": "A Little Banged Up",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHV_02",
@@ -4931,7 +4936,7 @@
       "Name": "Overheated",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 759
+      "UsersEstimate": 760
     },
     {
       "ID": "ACHV_05",
@@ -4939,7 +4944,7 @@
       "Name": "Studied The Blade",
       "Percentage": 24,
       "XP": 30,
-      "UsersEstimate": 628
+      "UsersEstimate": 629
     },
     {
       "ID": "ACHV_06",
@@ -4955,7 +4960,7 @@
       "Name": "Court Martial",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHV_08",
@@ -5035,7 +5040,7 @@
       "Name": "Following In Their Footsteps",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHV_18",
@@ -5051,7 +5056,7 @@
       "Name": "Defense in Depth",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 209
+      "UsersEstimate": 210
     },
     {
       "ID": "ACHV_20",
@@ -5107,7 +5112,7 @@
       "Name": "Rigged And Ready",
       "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 2042
+      "UsersEstimate": 2043
     },
     {
       "ID": "ACHV_27",
@@ -5115,7 +5120,7 @@
       "Name": "High Performance",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 785
+      "UsersEstimate": 786
     },
     {
       "ID": "ACHV_28",
@@ -5257,9 +5262,9 @@
       "ID": "ACHV_45",
       "SetID": "8p5mlmc",
       "Name": "It\u0027s a Trap",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 576
+      "UsersEstimate": 550
     },
     {
       "ID": "ACHV_46",
@@ -5267,7 +5272,7 @@
       "Name": "Unforeseeable Consequences",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 497
+      "UsersEstimate": 498
     },
     {
       "ID": "ACHV_47",
@@ -5362,7 +5367,7 @@
     {
       "ID": "8p5mlmc",
       "IsBase": true,
-      "Progressed": 2618,
+      "Progressed": 2619,
       "Completed": 13
     }
   ],
@@ -5370,8 +5375,8 @@
   "FirstSeenRating": "2022-09-28T12:01:34.4586966+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.0038706+00:00",
   "LastChanged": "2024-01-15T11:03:17.1587731+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:03:58.032167+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:04:57.8296731+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.6933569+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:03:05.7986008+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:03:58.0322235+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:03:42.2064995+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:04:57.8297457+00:00"
 }

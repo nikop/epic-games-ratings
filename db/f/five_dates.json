@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2446,
+  "EOS_Progressed": 2447,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 121,
+  "EOS_NewPlayers": 122,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -4860,6 +4860,11 @@
       "Time": "2024-01-23T06:10:02.7832215+00:00",
       "NumProgressed": 2446,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-23T07:11:33.0771768+00:00",
+      "NumProgressed": 2447,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4871,7 +4876,7 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2397
+      "UsersEstimate": 2398
     },
     {
       "ID": "booty_call",
@@ -4895,7 +4900,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2348
+      "UsersEstimate": 2349
     },
     {
       "ID": "hold_my_beer",
@@ -4959,7 +4964,7 @@
       "Name": "Planting the Seed",
       "Percentage": 16,
       "XP": 25,
-      "UsersEstimate": 391
+      "UsersEstimate": 392
     },
     {
       "ID": "smooth_criminal",
@@ -4990,7 +4995,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2446,
+      "Progressed": 2447,
       "Completed": 12
     }
   ],
@@ -4998,8 +5003,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:10:02.7832206+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:11:33.0771765+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.0715921+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:59:31.1359419+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:10:02.7832562+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:00:58.716368+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:11:33.0772141+00:00"
 }

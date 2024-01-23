@@ -3132,9 +3132,9 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 388205,
+  "EOS_Progressed": 388208,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 3195,
+  "EOS_NewPlayers": 3192,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13997,6 +13997,11 @@
       "Time": "2024-01-23T06:09:27.8631643+00:00",
       "NumProgressed": 388205,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2024-01-23T07:10:45.7194998+00:00",
+      "NumProgressed": 388208,
+      "NumCompleted": 392
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -14009,7 +14014,7 @@
       "Name": "Shadow\u0027s Bane",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 38820
+      "UsersEstimate": 38821
     },
     {
       "ID": "CraftedDurinsAxe",
@@ -14049,7 +14054,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 128108
+      "UsersEstimate": 128109
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -14057,7 +14062,7 @@
       "Name": "Suit Up",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 209631
+      "UsersEstimate": 209632
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -14113,7 +14118,7 @@
       "Name": "Westgate Weaponcraft",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 34938
+      "UsersEstimate": 34939
     },
     {
       "ID": "CraftedFullSetWeaponsCh3",
@@ -14121,7 +14126,7 @@
       "Name": "Deeps Weaponcraft",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 31056
+      "UsersEstimate": 31057
     },
     {
       "ID": "CraftedFullSetWeaponsCh4",
@@ -14137,7 +14142,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 229041
+      "UsersEstimate": 229043
     },
     {
       "ID": "DefeatedBolgakh",
@@ -14145,7 +14150,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 124226
+      "UsersEstimate": 124227
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -14153,7 +14158,7 @@
       "Name": "Darkness Is Passing",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 31056
+      "UsersEstimate": 31057
     },
     {
       "ID": "DefeatedTrollKing",
@@ -14169,7 +14174,7 @@
       "Name": "Caradhras The Cruel",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 73759
+      "UsersEstimate": 73760
     },
     {
       "ID": "DiscoveredDwarrowdelf",
@@ -14185,7 +14190,7 @@
       "Name": "Speak Friend",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 318328
+      "UsersEstimate": 318331
     },
     {
       "ID": "DiscoveredHighway",
@@ -14201,7 +14206,7 @@
       "Name": "To the Mountain\u0027s Roots",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 194102
+      "UsersEstimate": 194104
     },
     {
       "ID": "DiscoveredMinesOfMoria",
@@ -14209,7 +14214,7 @@
       "Name": "Delving Onward",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 267861
+      "UsersEstimate": 267864
     },
     {
       "ID": "DiscoveredTomb",
@@ -14217,14 +14222,14 @@
       "Name": "Remains To Be Seen",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 135872
+      "UsersEstimate": 135873
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 388205,
+      "Progressed": 388208,
       "Completed": 392
     }
   ],
@@ -14232,8 +14237,8 @@
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
   "LastChanged": "2024-01-22T21:58:49.5054759+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:09:27.8631638+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:10:45.7194993+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:14.4291538+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:59:06.490334+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:09:27.8632353+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:00:21.2104876+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:10:45.719562+00:00"
 }

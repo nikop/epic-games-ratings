@@ -29,7 +29,7 @@ Number of Ratings: 2,500  (23.09.2022)
 | The Swift | 2.00% | ~683 |
 | War of the Five Kings | 1.00% | ~341 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 34,147 (Ranked 141)  
+Progressed: 34,148 (Ranked 141)  
 Completed: 88 (0.26%) (Ranked 274)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,7 +307,7 @@ Completed: 88 (0.26%) (Ranked 274)
 | 2024-01-20 | 33,975 | 88 |
 | 2024-01-21 | 34,070 | 88 |
 | 2024-01-22 | 34,134 | 88 |
-| 2024-01-23 | 34,147 | 88 |
+| 2024-01-23 | 34,148 | 88 |
 ## Awards
 Max (Quickly Understood Controls): 129  (Ranked 354)  
 Sum: 818 (Ranked 294)  

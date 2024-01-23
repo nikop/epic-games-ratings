@@ -6,7 +6,7 @@ Number of Ratings: 1,354  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Devoured by Darkness | 28.00% | ~3,733 |
+| Devoured by Darkness | 28.00% | ~3,734 |
 | A Spark | 20.00% | ~2,667 |
 | Burning City | 19.00% | ~2,533 |
 | Defender's Heart | 17.00% | ~2,267 |
@@ -53,8 +53,8 @@ Number of Ratings: 1,354  (23.09.2022)
 | Truly Profane Gift | 1.00% | ~133 |
 | Not the Last Sarkorian | 1.00% | ~121 |
 | End of Eternal Guard | 0.90% | ~120 |
-| Playful Mood | 0.80% | ~107 |
 | Masterful Charge | 0.70% | ~93 |
+| Playful Mood | 0.70% | ~93 |
 | Dreadful Dragon | 0.70% | ~93 |
 | Prelate's Nemesis | 0.50% | ~67 |
 | Ashes to Ashes | 0.40% | ~53 |
@@ -123,7 +123,7 @@ Number of Ratings: 1,354  (23.09.2022)
 | No Ordinary Mortal | 0.00% | ~0 |
 | Wealth Is the Best Superpower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 13,333 (Ranked 179)  
+Progressed: 13,334 (Ranked 179)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -401,6 +401,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 13,325 | 0 |
 | 2024-01-21 | 13,329 | 0 |
 | 2024-01-22 | 13,333 | 0 |
+| 2024-01-23 | 13,334 | 0 |
 ## Awards
 Max (Character Customization): 1,787  (Ranked 133)  
 Sum: 7,245 (Ranked 128)  

@@ -5015,7 +5015,7 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13333,
+  "EOS_Progressed": 13334,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
@@ -20080,6 +20080,11 @@
       "Time": "2024-01-22T23:10:10.0600388+00:00",
       "NumProgressed": 13333,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T07:11:52.3041124+00:00",
+      "NumProgressed": 13334,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20091,7 +20096,7 @@
       "Name": "Devoured by Darkness",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 3733
+      "UsersEstimate": 3734
     },
     {
       "ID": "02_BurningCity",
@@ -20401,9 +20406,9 @@
       "ID": "41_PlayfulMood",
       "SetID": "989of5o",
       "Name": "Playful Mood",
-      "Percentage": 0.8,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 107
+      "UsersEstimate": 93
     },
     {
       "ID": "42_JustPathetic",
@@ -21018,21 +21023,21 @@
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12115,
+      "Progressed": 12116,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13333,
+      "Progressed": 13334,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-22T15:01:12.1782943+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:10:17.9225032+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:11:52.3041119+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:00:00.7810032+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:10:17.9227391+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:01:41.0304672+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:11:52.3043066+00:00"
 }

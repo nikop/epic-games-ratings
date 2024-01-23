@@ -4,7 +4,7 @@
   "ProductSlug": "dude-where-is-my-beer-2455aa",
   "Ranking_EOS_Progress": 527,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewPlayers": 553,
   "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-11-01T17:00:00+00:00",
@@ -557,8 +557,8 @@
   ],
   "FirstSeen": "2023-11-05T04:02:04.3012768+00:00",
   "FirstSeenAchievements": "2023-09-21T09:03:22.496367+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:05:38.0765668+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:07:17.0973674+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:15.1936755+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:58:17.5515772+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:05:38.0765822+00:00"
+  "LastUpdate_Ratings": "2024-01-23T06:59:13.3072664+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:07:17.0973971+00:00"
 }

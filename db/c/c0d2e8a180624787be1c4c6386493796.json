@@ -2061,9 +2061,9 @@
       "ID": "KR4_ACHIEVEMENT_SON_OF_FIRE",
       "SetID": "caeik3h",
       "Name": "Son of Fire",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 50,
-      "UsersEstimate": 127
+      "UsersEstimate": 130
     },
     {
       "ID": "KR4_ACHIEVEMENT_SPAWN_REINFORCEMENTS",
@@ -2172,8 +2172,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:06:03.6353476+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:07:52.6358733+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:59:10.8062375+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:06:03.6354062+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:00:27.7396294+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:07:52.6359518+00:00"
 }

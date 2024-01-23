@@ -337,9 +337,9 @@
       "ID": "BOSS_3",
       "SetID": "89ki2f0",
       "Name": "Thiccc \u0026 snatched",
-      "Percentage": 21,
+      "Percentage": 22,
       "XP": 35,
-      "UsersEstimate": 17
+      "UsersEstimate": 18
     },
     {
       "ID": "BOSS_4",
@@ -385,9 +385,9 @@
       "ID": "MONEY_100K",
       "SetID": "89ki2f0",
       "Name": "Hiding your wealth",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 35,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "MONEY_10K",
@@ -480,8 +480,8 @@
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:06:04.6904678+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:07:53.859899+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:00:02.9531595+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:06:04.6904786+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:01:44.3083194+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:07:53.8599187+00:00"
 }

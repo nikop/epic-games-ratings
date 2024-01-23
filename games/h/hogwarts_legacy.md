@@ -5,18 +5,18 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,807 |
-| First Class Student | 29.00% | ~112,200 |
-| Troll with the Punches | 26.00% | ~100,593 |
-| A Keen Sense of Spell | 24.00% | ~92,855 |
-| A Talent for Spending | 20.00% | ~77,379 |
-| That's a Keeper | 19.00% | ~73,510 |
-| Loom for Improvement | 16.00% | ~61,903 |
-| Followed the Butterflies | 15.00% | ~58,034 |
-| The Defender of Dragons | 14.00% | ~54,165 |
-| Challenge Accepted | 14.00% | ~54,165 |
-| The Hallowed Hero | 13.00% | ~50,296 |
-| Coasting Along | 13.00% | ~50,296 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,809 |
+| First Class Student | 29.00% | ~112,202 |
+| Troll with the Punches | 26.00% | ~100,595 |
+| A Keen Sense of Spell | 24.00% | ~92,857 |
+| A Talent for Spending | 20.00% | ~77,381 |
+| That's a Keeper | 19.00% | ~73,512 |
+| Loom for Improvement | 16.00% | ~61,905 |
+| Followed the Butterflies | 15.00% | ~58,036 |
+| The Defender of Dragons | 14.00% | ~54,167 |
+| Challenge Accepted | 14.00% | ~54,167 |
+| The Hallowed Hero | 13.00% | ~50,298 |
+| Coasting Along | 13.00% | ~50,298 |
 | Grappling with a Graphorn | 12.00% | ~46,428 |
 | The One Who Mastered Memories | 12.00% | ~46,428 |
 | The Hero of Hogwarts | 12.00% | ~46,428 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 151)
 | The Nature of the Beast | 0.70% | ~2,708 |
 | Collector's Edition | 0.40% | ~1,548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 386,896 (Ranked 56)  
+Progressed: 386,904 (Ranked 56)  
 Completed: 583 (0.15%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,10 +329,10 @@ Completed: 583 (0.15%) (Ranked 300)
 | 2024-01-20 | 386,230 | 580 |
 | 2024-01-21 | 386,612 | 581 |
 | 2024-01-22 | 386,850 | 583 |
-| 2024-01-23 | 386,896 | 583 |
+| 2024-01-23 | 386,904 | 583 |
 ## Awards
 Max (Character Customization): 32,228  (Ranked 16)  
-Sum: 66,187 (Ranked 24)  
+Sum: 66,201 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
@@ -341,8 +341,8 @@ Diff (max vs sum): -8
 | This game is Great for Beginners | 1,923 |
 | This game has Amazing Storytelling | 1,830 |
 | This game is Extremely Fun | 1,826 |
+| This game is Relaxing | 1,780 |
 | This game has Diverse Characters | 1,779 |
-| This game is Relaxing | 1,766 |
 | This game has Amazing Characters | 1,745 |
 | This game is Highly Recommended | 1,737 |
 | This game has Quickly Understood Controls | 1,678 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2024-01-20 | 4.75 | 31,905 | 65,176 |
 | 2024-01-21 | 4.75 | 32,072 | 65,650 |
 | 2024-01-22 | 4.75 | 32,228 | 66,082 |
-| 2024-01-23 | 4.75 | 32,228 | 66,187 |
+| 2024-01-23 | 4.75 | 32,228 | 66,201 |

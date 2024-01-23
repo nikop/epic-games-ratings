@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 101694,
+  "EOS_Progressed": 101704,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 2813,
+  "EOS_NewPlayers": 2802,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14733,6 +14733,11 @@
       "Time": "2024-01-23T06:10:02.9934451+00:00",
       "NumProgressed": 101694,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T07:11:33.313845+00:00",
+      "NumProgressed": 101704,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-20T23:03:51.052105+00:00",
@@ -14777,7 +14782,7 @@
       "Name": "Grim Reaper",
       "Percentage": 66,
       "XP": 30,
-      "UsersEstimate": 67118
+      "UsersEstimate": 67125
     },
     {
       "ID": "achievement_14",
@@ -14785,7 +14790,7 @@
       "Name": "Call \u2019em in!",
       "Percentage": 30,
       "XP": 30,
-      "UsersEstimate": 30508
+      "UsersEstimate": 30511
     },
     {
       "ID": "achievement_15",
@@ -14793,15 +14798,15 @@
       "Name": "Combat Engineer",
       "Percentage": 41,
       "XP": 30,
-      "UsersEstimate": 41695
+      "UsersEstimate": 41699
     },
     {
       "ID": "achievement_16",
       "SetID": "akc8324",
       "Name": "Heads Down",
-      "Percentage": 63,
+      "Percentage": 64,
       "XP": 30,
-      "UsersEstimate": 64067
+      "UsersEstimate": 65091
     },
     {
       "ID": "achievement_17",
@@ -14817,7 +14822,7 @@
       "Name": "Eager Beaver",
       "Percentage": 32,
       "XP": 30,
-      "UsersEstimate": 32542
+      "UsersEstimate": 32545
     },
     {
       "ID": "achievement_19",
@@ -14825,7 +14830,7 @@
       "Name": "Elite",
       "Percentage": 13,
       "XP": 90,
-      "UsersEstimate": 13220
+      "UsersEstimate": 13222
     },
     {
       "ID": "achievement_2",
@@ -14841,7 +14846,7 @@
       "Name": "Last Man Standing",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 92542
+      "UsersEstimate": 92551
     },
     {
       "ID": "achievement_21",
@@ -14849,7 +14854,7 @@
       "Name": "Not On My Watch",
       "Percentage": 60,
       "XP": 15,
-      "UsersEstimate": 61016
+      "UsersEstimate": 61022
     },
     {
       "ID": "achievement_3",
@@ -14865,7 +14870,7 @@
       "Name": "Lovely",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 28474
+      "UsersEstimate": 28477
     },
     {
       "ID": "achievement_5",
@@ -14873,7 +14878,7 @@
       "Name": "Store fuglar fanga ingi flugor",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 17288
+      "UsersEstimate": 17290
     },
     {
       "ID": "achievement_6",
@@ -14881,7 +14886,7 @@
       "Name": "Ou La Mort",
       "Percentage": 15,
       "XP": 30,
-      "UsersEstimate": 15254
+      "UsersEstimate": 15256
     },
     {
       "ID": "achievement_7",
@@ -14897,7 +14902,7 @@
       "Name": "Enemy Attrition",
       "Percentage": 67,
       "XP": 15,
-      "UsersEstimate": 68135
+      "UsersEstimate": 68142
     },
     {
       "ID": "achievement_9",
@@ -14912,13 +14917,13 @@
     {
       "ID": "akc8324",
       "IsBase": true,
-      "Progressed": 101694,
+      "Progressed": 101704,
       "Completed": 1
     }
   ],
   "FirstSeenAchievements": "2023-07-28T21:07:50.8080594+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:10:02.9934448+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:11:33.3138445+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.7832783+00:00",
-  "LastUpdate_Ratings": "2024-01-23T05:59:02.2929613+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:10:02.9935355+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:00:16.0536791+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:11:33.3139211+00:00"
 }

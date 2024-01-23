@@ -19,7 +19,7 @@ Rating: 4.73 (Ranked 186)
 | Master of Magic | 62.00% | ~487 |
 | The Ascent | 60.00% | ~472 |
 | It's Warm and Cozy at Home | 60.00% | ~472 |
-| Magic Accidents | 58.00% | ~456 |
+| Magic Accidents | 59.00% | ~464 |
 | Trap Master | 56.00% | ~440 |
 | The Big Eaty | 56.00% | ~440 |
 | Minions, Minions! | 55.00% | ~432 |

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 71,
   "Ranking_EOS_NewCompleters": 23,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9183,9 +9183,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762456,
+  "EOS_Progressed": 762458,
   "EOS_Completed": 13004,
-  "EOS_NewPlayers": 1396,
+  "EOS_NewPlayers": 1388,
   "EOS_NewCompleters": 15,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -34963,6 +34963,11 @@
       "Time": "2024-01-23T06:09:46.6241395+00:00",
       "NumProgressed": 762456,
       "NumCompleted": 13004
+    },
+    {
+      "Time": "2024-01-23T07:11:11.2815444+00:00",
+      "NumProgressed": 762458,
+      "NumCompleted": 13004
     }
   ],
   "TotalAchievements": 60,
@@ -35084,9 +35089,9 @@
       "ID": "15_Detective_H1",
       "SetID": "adcm20g",
       "Name": "Detective Story",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 5337
+      "UsersEstimate": 6100
     },
     {
       "ID": "16_Detective_H2",
@@ -35453,21 +35458,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71757,
+      "Progressed": 71759,
       "Completed": 10817
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762456,
+      "Progressed": 762458,
       "Completed": 13004
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-22T21:03:32.9825001+00:00",
-  "LastChanged_Achievements": "2024-01-23T06:09:46.6241389+00:00",
+  "LastChanged_Achievements": "2024-01-23T07:11:11.2815439+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-23T06:03:17.3728341+00:00",
-  "LastUpdate_Achievements": "2024-01-23T06:09:46.624279+00:00"
+  "LastUpdate_Ratings": "2024-01-23T07:03:58.9002625+00:00",
+  "LastUpdate_Achievements": "2024-01-23T07:11:11.2816793+00:00"
 }
