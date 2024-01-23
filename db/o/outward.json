@@ -2,13 +2,13 @@
   "ID": "viola",
   "Name": "Outward Definitive Edition",
   "ProductSlug": "outward",
-  "Ranking_Rating": 553,
+  "Ranking_Rating": 554,
   "Ranking_Popularity": 511,
   "Ranking_PopularitySum": 406,
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 319,
   "Ranking_EOS_NewPlayers": 223,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -8663,9 +8663,9 @@
       "ID": "AFortressToppled_14",
       "SetID": "c4hee28",
       "Name": "A Fortress Toppled!",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 678
+      "UsersEstimate": 726
     },
     {
       "ID": "AceDetective_9",
@@ -9007,8 +9007,8 @@
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:03:32.2454463+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:04:24.409426+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:03:13.8655583+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:03:32.2455325+00:00"
+  "LastUpdate_Ratings": "2024-01-23T00:03:33.3839788+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:04:24.4095123+00:00"
 }

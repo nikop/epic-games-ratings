@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 232,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 198,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-09T10:00:00+00:00",
     "PcReleaseDate": "2022-08-18T15:00:00+00:00",
@@ -5715,9 +5715,9 @@
       "ID": "ACH_ANewPurpose",
       "SetID": "ai9gp4m",
       "Name": "A New Purpose",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 30,
-      "UsersEstimate": 23
+      "UsersEstimate": 27
     },
     {
       "ID": "ACH_Advisor",
@@ -5994,8 +5994,8 @@
   ],
   "FirstSeen": "2023-11-10T17:12:11.6441417+00:00",
   "FirstSeenAchievements": "2023-11-07T10:03:34.0451584+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:05:26.594387+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:07:09.2512942+00:00",
   "LastUpdate_AppInfo": "2024-01-16T13:57:19.2052259+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:59:52.1776913+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:05:26.5944317+00:00"
+  "LastUpdate_Ratings": "2024-01-23T00:01:06.8542054+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:07:09.2513492+00:00"
 }

@@ -2,13 +2,13 @@
   "ID": "68214aaaa6f94c81a18c99fc2dc208cf",
   "Name": "The Last Campfire",
   "ProductSlug": "the-last-campfire",
-  "Ranking_Rating": 49,
+  "Ranking_Rating": 48,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 559,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 558,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2020-08-27T12:00:00+00:00",
     "PcReleaseDate": "2020-08-27T12:00:00+00:00",
@@ -183,6 +183,6 @@
   "FirstSeen": "2022-07-22T20:21:43.218901+00:00",
   "LastChanged": "2023-07-31T13:10:55.0658011+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:21.355136+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:58:17.6872752+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:04:47.182444+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:58:45.3179615+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:06:12.2673512+00:00"
 }

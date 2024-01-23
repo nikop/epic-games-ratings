@@ -1,11 +1,11 @@
 # Enter the Gungeon
 [Store](https://store.epicgames.com/en-US/p/enter-the-gungeon)  
 [View Rawdata](../../db/e/enter_the_gungeon.json)  
-Rating: 4.85 (Ranked 40)  
+Rating: 4.84 (Ranked 48)  
 Number of Ratings: 8,617  (23.09.2022)  
 ## Awards
 Max (Great Boss Battles): 8,298  (Ranked 50)  
-Sum: 14,768 (Ranked 78)  
+Sum: 14,769 (Ranked 78)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
@@ -13,7 +13,7 @@ Diff (max vs sum): -28
 | This game has Diverse Characters | 976 |
 | This game is Highly Recommended | 959 |
 | This game has Challenging Combat | 948 |
-| This game is Extremely Fun | 913 |
+| This game is Extremely Fun | 914 |
 | This game has Amazing Characters | 909 |
 | This game has Quickly Understood Controls | 896 |
 | This game has Amazing Storytelling | 869 |
@@ -371,3 +371,4 @@ Diff (max vs sum): -28
 | 2024-01-20 | 4.85 | - | 8,288 | 14,752 |
 | 2024-01-21 | 4.85 | - | 8,294 | 14,761 |
 | 2024-01-22 | 4.85 | - | 8,298 | 14,768 |
+| 2024-01-23 | 4.84 | - | 8,298 | 14,769 |

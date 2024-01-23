@@ -2,10 +2,10 @@
   "ID": "0edc15388101433f8619477c7860311c",
   "Name": "The Bridge Curse Road to Salvation",
   "ProductSlug": "the-bridge-curse-road-to-salvation-c29320",
-  "Ranking_EOS_Progress": 486,
+  "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 329,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-08-30T04:00:00+00:00",
     "PcReleaseDate": "2022-08-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 128,
+  "EOS_Progressed": 129,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -629,6 +629,11 @@
       "Time": "2024-01-22T17:08:40.0075084+00:00",
       "NumProgressed": 128,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T00:08:52.8646128+00:00",
+      "NumProgressed": 129,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-08-29T03:07:11.2910815+00:00",
@@ -647,17 +652,17 @@
       "ID": "DatingAttraction",
       "SetID": "7m88n8p",
       "Name": "Dating Attraction",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "FirstTry",
       "SetID": "7m88n8p",
       "Name": "Getting It on the First Try",
-      "Percentage": 54,
+      "Percentage": 53,
       "XP": 25,
-      "UsersEstimate": 69
+      "UsersEstimate": 68
     },
     {
       "ID": "HauntingSpecter",
@@ -665,13 +670,13 @@
       "Name": "Haunting Specter",
       "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "HeartHurt",
       "SetID": "7m88n8p",
       "Name": "Whose Heart was Never Hurt",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 25,
       "UsersEstimate": 61
     },
@@ -681,7 +686,7 @@
       "Name": "Hide-and-Seek Expert",
       "Percentage": 33,
       "XP": 65,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "HonoraryAlumni",
@@ -727,17 +732,17 @@
       "ID": "MoneyCamouflage",
       "SetID": "7m88n8p",
       "Name": "Money Camouflage",
-      "Percentage": 45,
+      "Percentage": 44,
       "XP": 25,
-      "UsersEstimate": 58
+      "UsersEstimate": 57
     },
     {
       "ID": "MortuaryMarkup",
       "SetID": "7m88n8p",
       "Name": "Mortuary Makeup Artist",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 65,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "NoOneLeft",
@@ -761,7 +766,7 @@
       "Name": "Protected by Divine Power",
       "Percentage": 91,
       "XP": 25,
-      "UsersEstimate": 116
+      "UsersEstimate": 117
     },
     {
       "ID": "RoadToSalvation",
@@ -799,9 +804,9 @@
       "ID": "WaitingForSalvation",
       "SetID": "7m88n8p",
       "Name": "Waiting for Salvation",
-      "Percentage": 27,
+      "Percentage": 26,
       "XP": 65,
-      "UsersEstimate": 35
+      "UsersEstimate": 34
     },
     {
       "ID": "WhoseChild",
@@ -809,21 +814,21 @@
       "Name": "Whose Child?",
       "Percentage": 47,
       "XP": 25,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "7m88n8p",
       "IsBase": true,
-      "Progressed": 128,
+      "Progressed": 129,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-20T07:59:32.6529045+00:00",
   "FirstSeenAchievements": "2023-08-28T04:02:18.2065221+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:06:37.414282+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:08:52.8646124+00:00",
   "LastUpdate_AppInfo": "2024-01-22T16:57:22.7565466+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:57:56.9384675+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:06:37.4142972+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:58:12.7038618+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:08:52.864626+00:00"
 }

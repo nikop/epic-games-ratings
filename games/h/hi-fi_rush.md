@@ -5,12 +5,12 @@ Rating: 4.86 (Ranked 33)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,861 |
-| Feeling the beat! | 56.00% | ~9,861 |
+| Start with a bang! | 56.00% | ~9,862 |
+| Feeling the beat! | 56.00% | ~9,862 |
 | You can pet the cat! | 51.00% | ~8,981 |
 | Who put gears in there? | 42.00% | ~7,396 |
-| Cream of the Crop | 37.00% | ~6,515 |
-| Thanks for the free chip, Peppermint! | 36.00% | ~6,339 |
+| Cream of the Crop | 37.00% | ~6,516 |
+| Thanks for the free chip, Peppermint! | 36.00% | ~6,340 |
 | You got this, Peppermint? | 32.00% | ~5,635 |
 | Perfect Parry | 29.00% | ~5,107 |
 | Alright, that felt AWESOME! | 29.00% | ~5,107 |
@@ -22,9 +22,9 @@ Rating: 4.86 (Ranked 33)
 | Whoa! There's ANOTHER health bar!? | 18.00% | ~3,170 |
 | Does that say weakpoint? | 18.00% | ~3,170 |
 | The Negotiator | 17.00% | ~2,994 |
-| You must like calling me in, Chai | 16.00% | ~2,817 |
-| Headliner | 15.00% | ~2,641 |
-| Out in a puff of smoke | 15.00% | ~2,641 |
+| You must like calling me in, Chai | 16.00% | ~2,818 |
+| Headliner | 15.00% | ~2,642 |
+| Out in a puff of smoke | 15.00% | ~2,642 |
 | I look cool. But I can look COOLER. | 14.00% | ~2,465 |
 | Time to pay up! | 13.00% | ~2,289 |
 | Who's the boss now? | 13.00% | ~2,289 |
@@ -77,7 +77,7 @@ Rating: 4.86 (Ranked 33)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,609 (Ranked 168)  
+Progressed: 17,610 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,6 +345,7 @@ Completed: 8 (0.05%) (Ranked 348)
 | 2024-01-20 | 17,503 | 8 |
 | 2024-01-21 | 17,560 | 8 |
 | 2024-01-22 | 17,609 | 8 |
+| 2024-01-23 | 17,610 | 8 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 503)  
 Sum: 37 (Ranked 538)  

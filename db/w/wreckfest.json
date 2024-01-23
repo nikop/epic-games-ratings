@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 199,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1253,
+  "EOS_Progressed": 1254,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 83,
+  "EOS_NewPlayers": 84,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3268,6 +3268,11 @@
       "Time": "2024-01-22T22:08:41.0040638+00:00",
       "NumProgressed": 1253,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T00:10:16.5047882+00:00",
+      "NumProgressed": 1254,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3280,7 +3285,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 313
+      "UsersEstimate": 314
     },
     {
       "ID": "CareerAllChallenges",
@@ -3336,7 +3341,7 @@
       "Name": "Storm Warning",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 902
+      "UsersEstimate": 903
     },
     {
       "ID": "CollectVehiclesA",
@@ -3424,7 +3429,7 @@
       "Name": "Hating Them Tin Cans",
       "Percentage": 16,
       "XP": 30,
-      "UsersEstimate": 200
+      "UsersEstimate": 201
     },
     {
       "ID": "WreckOpponentsBus",
@@ -3439,7 +3444,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1253,
+      "Progressed": 1254,
       "Completed": 0
     }
   ],
@@ -3447,8 +3452,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-21T13:59:24.6790776+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:09:03.0563538+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:10:16.5047877+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:00:06.1990106+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:09:03.0563838+00:00"
+  "LastUpdate_Ratings": "2024-01-23T00:01:26.7773865+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:10:16.5048151+00:00"
 }

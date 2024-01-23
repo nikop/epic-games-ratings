@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 712,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 445,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2024-01-22T18:00:00+00:00",
     "PcReleaseDate": "2014-07-07T17:00:00+00:00",
@@ -113,9 +113,9 @@
       "ID": "PUZZLE_GUY",
       "SetID": "ad3jn51",
       "Name": "Puzzle Solver",
-      "Percentage": 0,
+      "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "PUZZLE_NINJA",
@@ -239,8 +239,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-09-17T18:06:17.5632843+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:09:55.9339535+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:11:29.9923404+00:00",
   "LastUpdate_AppInfo": "2024-01-22T04:57:13.5976666+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:00:40.0572412+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:09:55.9339682+00:00"
+  "LastUpdate_Ratings": "2024-01-23T00:02:59.7485968+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:11:29.9923601+00:00"
 }

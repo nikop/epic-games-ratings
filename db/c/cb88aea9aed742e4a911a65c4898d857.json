@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 122,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -467,7 +467,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12088,
+  "EOS_Progressed": 12089,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 547,
   "EOS_NewCompleters": 0,
@@ -5872,6 +5872,11 @@
       "Time": "2024-01-22T22:09:42.831196+00:00",
       "NumProgressed": 12088,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T00:11:41.5127269+00:00",
+      "NumProgressed": 12089,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6196,7 +6201,7 @@
       "Name": "Jungle Heat",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1571
+      "UsersEstimate": 1572
     },
     {
       "ID": "42_TheIronJudgement",
@@ -6403,7 +6408,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12088,
+      "Progressed": 12089,
       "Completed": 1
     }
   ],
@@ -6411,8 +6416,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:10:04.6599759+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:11:41.5127261+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:57:56.5627996+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:10:04.6600485+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:58:12.1327644+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:11:41.5128002+00:00"
 }

@@ -5,13 +5,13 @@ Rating: 4.71 (Ranked 207)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Marksman | 97.00% | ~18,238 |
+| Marksman | 97.00% | ~18,239 |
 | Welcome Aboard | 83.00% | ~15,606 |
-| Lab Rat | 67.00% | ~12,597 |
-| All Systems Go | 57.00% | ~10,717 |
-| Brute Force | 56.00% | ~10,529 |
-| Cannon Fodder | 52.00% | ~9,777 |
-| Raise the Stakes | 50.00% | ~9,401 |
+| Lab Rat | 67.00% | ~12,598 |
+| All Systems Go | 57.00% | ~10,718 |
+| Brute Force | 56.00% | ~10,530 |
+| Cannon Fodder | 52.00% | ~9,778 |
+| Raise the Stakes | 50.00% | ~9,402 |
 | True Believer | 48.00% | ~9,025 |
 | Autofire | 47.00% | ~8,837 |
 | Story Teller | 47.00% | ~8,837 |
@@ -32,14 +32,14 @@ Rating: 4.71 (Ranked 207)
 | Mindless Prey | 31.00% | ~5,829 |
 | There's Always Peng! | 30.00% | ~5,641 |
 | A Cut Above | 28.00% | ~5,265 |
-| Front Toward Enemy | 27.00% | ~5,077 |
-| Whole Again | 24.00% | ~4,512 |
-| Set A Benchmark | 24.00% | ~4,512 |
-| Final Regeneration | 20.00% | ~3,760 |
-| Full Contact | 20.00% | ~3,760 |
-| Full Clearance | 20.00% | ~3,760 |
-| Z-Baller | 18.00% | ~3,384 |
-| Pusher | 17.00% | ~3,196 |
+| Front Toward Enemy | 28.00% | ~5,265 |
+| Whole Again | 24.00% | ~4,513 |
+| Set A Benchmark | 24.00% | ~4,513 |
+| Final Regeneration | 20.00% | ~3,761 |
+| Full Contact | 20.00% | ~3,761 |
+| Full Clearance | 20.00% | ~3,761 |
+| Z-Baller | 18.00% | ~3,385 |
+| Pusher | 17.00% | ~3,197 |
 | Pack Rat | 16.00% | ~3,008 |
 | Eviscerator | 13.00% | ~2,444 |
 | Backbreaker | 11.00% | ~2,068 |
@@ -53,7 +53,7 @@ Rating: 4.71 (Ranked 207)
 | One Gun | 1.00% | ~188 |
 | Reunion | 1.00% | ~188 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,802 (Ranked 163)  
+Progressed: 18,803 (Ranked 163)  
 Completed: 53 (0.28%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -184,6 +184,7 @@ Completed: 53 (0.28%) (Ranked 269)
 | 2024-01-20 | 18,549 | 51 |
 | 2024-01-21 | 18,698 | 52 |
 | 2024-01-22 | 18,802 | 53 |
+| 2024-01-23 | 18,803 | 53 |
 ## Awards
 Max (Great Boss Battles): 313  (Ranked 260)  
 Sum: 313 (Ranked 381)  

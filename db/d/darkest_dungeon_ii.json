@@ -11098,10 +11098,16 @@
       "Rating": 4.69,
       "NumberOfAwards": 21821,
       "NumberOfAwardsMax": 8062
+    },
+    {
+      "Time": "2024-01-22T23:59:56.1238024+00:00",
+      "Rating": 4.69,
+      "NumberOfAwards": 21824,
+      "NumberOfAwardsMax": 8062
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 21821,
+  "NumberOfAwards": 21824,
   "NumberOfAwardsMax": 8062,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -11175,12 +11181,12 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 1110
+      "Count": 1113
     }
   ],
-  "EOS_Progressed": 133516,
+  "EOS_Progressed": 133518,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 581,
+  "EOS_NewPlayers": 583,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41098,6 +41104,11 @@
       "Time": "2024-01-22T23:10:01.4580631+00:00",
       "NumProgressed": 133516,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T00:11:37.4085985+00:00",
+      "NumProgressed": 133518,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41213,7 +41224,7 @@
       "Name": "Hope Rekindled",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "application_start_on_release_anniversary",
@@ -41229,7 +41240,7 @@
       "Name": "Predator",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "combat_kill_antiquarian",
@@ -41341,7 +41352,7 @@
       "Name": "Reverse Banditry",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "combat_kill_shambler",
@@ -41509,7 +41520,7 @@
       "Name": "When You Want Something Done Right",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "inn_replacement_hero_add",
@@ -41541,7 +41552,7 @@
       "Name": "Utopia",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "roster_confirm_all_memoried",
@@ -41573,7 +41584,7 @@
       "Name": "Hot Air",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 4005
+      "UsersEstimate": 4006
     },
     {
       "ID": "run_victory_act03",
@@ -41740,21 +41751,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133516,
+      "Progressed": 133518,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8385,
+      "Progressed": 8387,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
-  "LastChanged": "2024-01-22T14:59:42.7618923+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:10:01.4580629+00:00",
+  "LastChanged": "2024-01-22T23:59:56.1238022+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:11:37.4085983+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:59:06.4817978+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:10:01.4582271+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:59:56.1238028+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:11:37.4088038+00:00"
 }

@@ -55,8 +55,8 @@ Number of Ratings: 892  (23.09.2022)
 | Santa In Training | 48.00% | ~433 |
 | My Time Mansion | 45.00% | ~406 |
 | He Can Spin A Yarn... | 45.00% | ~406 |
+| Do Your Part | 44.00% | ~397 |
 | It Belongs in a Museum! | 44.00% | ~397 |
-| Do Your Part | 43.00% | ~388 |
 | Pro Gamer | 40.00% | ~361 |
 | Newton | 40.00% | ~361 |
 | Winner and Still Champeen | 35.00% | ~316 |
@@ -155,12 +155,12 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-21 | 906 | 0 |
 | 2024-01-22 | 922 | 0 |
 ## Awards
-Max (Character Customization): 642  (Ranked 204)  
-Sum: 1,567 (Ranked 248)  
+Max (Character Customization): 643  (Ranked 204)  
+Sum: 1,568 (Ranked 248)  
 Diff (max vs sum): -44  
 | Award | Count |
 | ----- | ----- |
-| This game has Inclusive Character Customization | 642 |
+| This game has Inclusive Character Customization | 643 |
 | This game is Great for Beginners | 134 |
 | This game is Highly Recommended | 103 |
 | This game is Extremely Fun | 98 |
@@ -401,4 +401,4 @@ Diff (max vs sum): -44
 | 2024-01-19 | 4.68 | - | 641 | 1,559 |
 | 2024-01-20 | 4.68 | - | 642 | 1,561 |
 | 2024-01-21 | 4.68 | - | 642 | 1,564 |
-| 2024-01-22 | 4.68 | - | 642 | 1,567 |
+| 2024-01-22 | 4.68 | - | 643 | 1,568 |

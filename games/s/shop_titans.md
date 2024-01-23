@@ -6,12 +6,12 @@ Number of Ratings: 12,664  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,302 |
-| Titan's First Steps | 12.00% | ~18,302 |
+| Sponsored by Argon | 12.00% | ~18,303 |
+| Titan's First Steps | 12.00% | ~18,303 |
 | Basic in Bulk | 11.00% | ~16,777 |
 | Tinkle of Coins | 10.00% | ~15,252 |
-| Disintermediation | 8.00% | ~12,201 |
-| Capitalism Ho! | 8.00% | ~12,201 |
+| Disintermediation | 8.00% | ~12,202 |
+| Capitalism Ho! | 8.00% | ~12,202 |
 | It's Free Real Estate | 7.00% | ~10,676 |
 | Budding Merchant | 7.00% | ~10,676 |
 | One Easy Payment | 6.00% | ~9,151 |
@@ -32,33 +32,33 @@ Number of Ratings: 12,664  (23.09.2022)
 | Accomplished Merchant | 4.00% | ~6,101 |
 | Did we pack lunch? | 4.00% | ~6,101 |
 | Arcane Industries | 4.00% | ~6,101 |
-| On the Path to Greatness | 3.00% | ~4,575 |
-| A Notch Above the Rest | 3.00% | ~4,575 |
-| Ascended | 3.00% | ~4,575 |
-| Tax not Included | 3.00% | ~4,575 |
-| Research & Development | 3.00% | ~4,575 |
-| Vanity, Verily | 3.00% | ~4,575 |
-| Big Game Hunting | 3.00% | ~4,575 |
-| Fated Encounters | 3.00% | ~4,575 |
-| For the Hoard! | 3.00% | ~4,575 |
-| Blank Page Syndrome | 3.00% | ~4,575 |
-| Scrapbooker | 3.00% | ~4,575 |
-| Locally Sourced | 3.00% | ~4,575 |
-| Flying off the Shelves | 3.00% | ~4,575 |
-| This Power Level...! | 3.00% | ~4,575 |
-| Power of Love | 3.00% | ~4,575 |
-| Expansion in Session | 3.00% | ~4,575 |
-| Efficient Floor Space | 3.00% | ~4,575 |
-| Flawless Fusion | 3.00% | ~4,575 |
-| Trash to Treasure | 3.00% | ~4,575 |
-| Royal Ransom | 3.00% | ~4,575 |
-| Helping Hand | 3.00% | ~4,575 |
-| Natural 20 | 3.00% | ~4,575 |
-| Seasoned Journeyman | 3.00% | ~4,575 |
-| Black Friday Special | 3.00% | ~4,575 |
-| Magical Harmony | 3.00% | ~4,575 |
-| Special Ingredient | 3.00% | ~4,575 |
-| Complete Monopoly | 3.00% | ~4,575 |
+| On the Path to Greatness | 3.00% | ~4,576 |
+| A Notch Above the Rest | 3.00% | ~4,576 |
+| Ascended | 3.00% | ~4,576 |
+| Tax not Included | 3.00% | ~4,576 |
+| Research & Development | 3.00% | ~4,576 |
+| Vanity, Verily | 3.00% | ~4,576 |
+| Big Game Hunting | 3.00% | ~4,576 |
+| Fated Encounters | 3.00% | ~4,576 |
+| For the Hoard! | 3.00% | ~4,576 |
+| Blank Page Syndrome | 3.00% | ~4,576 |
+| Scrapbooker | 3.00% | ~4,576 |
+| Locally Sourced | 3.00% | ~4,576 |
+| Flying off the Shelves | 3.00% | ~4,576 |
+| This Power Level...! | 3.00% | ~4,576 |
+| Power of Love | 3.00% | ~4,576 |
+| Expansion in Session | 3.00% | ~4,576 |
+| Efficient Floor Space | 3.00% | ~4,576 |
+| Flawless Fusion | 3.00% | ~4,576 |
+| Trash to Treasure | 3.00% | ~4,576 |
+| Royal Ransom | 3.00% | ~4,576 |
+| Helping Hand | 3.00% | ~4,576 |
+| Natural 20 | 3.00% | ~4,576 |
+| Seasoned Journeyman | 3.00% | ~4,576 |
+| Black Friday Special | 3.00% | ~4,576 |
+| Magical Harmony | 3.00% | ~4,576 |
+| Special Ingredient | 3.00% | ~4,576 |
+| Complete Monopoly | 3.00% | ~4,576 |
 | Cream of the Crop | 2.00% | ~3,050 |
 | Top of the World | 2.00% | ~3,050 |
 | Proud Paladin | 2.00% | ~3,050 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~610 |
 | Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,516 (Ranked 87)  
+Progressed: 152,521 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,6 +397,7 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-20 | 152,267 | 360 |
 | 2024-01-21 | 152,414 | 360 |
 | 2024-01-22 | 152,516 | 360 |
+| 2024-01-23 | 152,521 | 360 |
 ## Awards
 Max (Great for Beginners): 4,973  (Ranked 83)  
 Sum: 28,039 (Ranked 52)  

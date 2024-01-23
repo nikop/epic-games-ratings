@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30343,
+  "EOS_Progressed": 30345,
   "EOS_Completed": 231,
-  "EOS_NewPlayers": 680,
+  "EOS_NewPlayers": 678,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -11521,6 +11521,11 @@
       "Time": "2024-01-22T23:09:54.6666825+00:00",
       "NumProgressed": 30343,
       "NumCompleted": 231
+    },
+    {
+      "Time": "2024-01-23T00:11:28.2974717+00:00",
+      "NumProgressed": 30345,
+      "NumCompleted": 231
     }
   ],
   "TotalAchievements": 24,
@@ -11548,7 +11553,7 @@
       "Name": "Squished",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "ACH_CrushPhysicsBall",
@@ -11572,7 +11577,7 @@
       "Name": "Finale",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "ACH_S8AllBronze",
@@ -11668,7 +11673,7 @@
       "Name": "Sector 2",
       "Percentage": 30,
       "XP": 20,
-      "UsersEstimate": 9103
+      "UsersEstimate": 9104
     },
     {
       "ID": "ACH_Sector3",
@@ -11708,7 +11713,7 @@
       "Name": "Sector 7",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 2427
+      "UsersEstimate": 2428
     },
     {
       "ID": "ACH_TurnBallBlack",
@@ -11723,7 +11728,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30343,
+      "Progressed": 30345,
       "Completed": 231
     }
   ],
@@ -11731,8 +11736,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:09:54.6666822+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:11:28.297471+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:00:40.8837681+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:09:54.6667551+00:00"
+  "LastUpdate_Ratings": "2024-01-23T00:03:01.0417866+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:11:28.2975426+00:00"
 }

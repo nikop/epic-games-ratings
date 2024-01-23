@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 197,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2020-12-23T16:00:00+00:00",
     "PcReleaseDate": "2020-12-23T16:00:00+00:00",
@@ -1641,7 +1641,7 @@
       "Count": 106
     }
   ],
-  "EOS_Progressed": 7244,
+  "EOS_Progressed": 7245,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
@@ -17216,6 +17216,11 @@
       "Time": "2024-01-22T23:05:15.4874709+00:00",
       "NumProgressed": 7244,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T00:06:52.9421704+00:00",
+      "NumProgressed": 7245,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 40,
@@ -17387,7 +17392,7 @@
       "Name": "Just One...More...Term...",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 5288
+      "UsersEstimate": 5289
     },
     {
       "ID": "ACH_KNIGHTTOLITTLEDUCK",
@@ -17483,7 +17488,7 @@
       "Name": "Un-Lonely Island",
       "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "ACH_TIMEFORWONDER",
@@ -17499,7 +17504,7 @@
       "Name": "Trade Is My Trait",
       "Percentage": 35,
       "XP": 15,
-      "UsersEstimate": 2535
+      "UsersEstimate": 2536
     },
     {
       "ID": "ACH_TROPICOGREATAGAIN",
@@ -17546,15 +17551,15 @@
     {
       "ID": "1p8ab95",
       "IsBase": true,
-      "Progressed": 7244,
+      "Progressed": 7245,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:17:21.1290301+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.7267651+00:00",
   "LastChanged": "2024-01-21T15:58:03.0831244+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:05:15.4874707+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:06:52.9421698+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:31.2924165+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:58:46.0833952+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:05:15.4875576+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:59:24.658379+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:06:52.9422674+00:00"
 }

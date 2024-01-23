@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 415,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 258,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 252,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-03-01T18:00:00+00:00",
     "PcReleaseDate": "2022-03-01T18:00:00+00:00",
@@ -577,9 +577,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 281,
+  "EOS_Progressed": 283,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 27,
+  "EOS_NewPlayers": 29,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1702,6 +1702,11 @@
       "Time": "2024-01-22T18:06:33.530342+00:00",
       "NumProgressed": 281,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T00:07:17.602022+00:00",
+      "NumProgressed": 283,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:41.4600068+00:00",
@@ -1730,7 +1735,7 @@
       "Name": "Entrepreneur",
       "Percentage": 45,
       "XP": 10,
-      "UsersEstimate": 126
+      "UsersEstimate": 127
     },
     {
       "ID": "100HEALS",
@@ -1778,15 +1783,15 @@
       "Name": "Peddler",
       "Percentage": 26,
       "XP": 20,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "20WEAPONSCRAFTED",
       "SetID": "a1angca",
       "Name": "Weaponsmith",
-      "Percentage": 9,
+      "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 25
+      "UsersEstimate": 23
     },
     {
       "ID": "300QUESTS",
@@ -1842,7 +1847,7 @@
       "Name": "Military Leader",
       "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 87
+      "UsersEstimate": 88
     },
     {
       "ID": "ALLCOMBAT",
@@ -1850,7 +1855,7 @@
       "Name": "Hotshot",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "ALLCRAFT",
@@ -1890,7 +1895,7 @@
       "Name": "Role Model",
       "Percentage": 36,
       "XP": 20,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "BRINGTOYS",
@@ -1978,7 +1983,7 @@
       "Name": "Commander",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 74
     },
     {
       "ID": "FINDBILLY",
@@ -1986,7 +1991,7 @@
       "Name": "Festival-goer",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "FINDCITY",
@@ -1994,7 +1999,7 @@
       "Name": "Civilian",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 102
     },
     {
       "ID": "FINDCRONY",
@@ -2034,7 +2039,7 @@
       "Name": "Detective",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "HELPTHORHILD",
@@ -2042,7 +2047,7 @@
       "Name": "Pass A38",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "KILL200MONSTER",
@@ -2098,7 +2103,7 @@
       "Name": "Eternal Oblivion",
       "Percentage": 19,
       "XP": 20,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "LOVECAJA",
@@ -2113,15 +2118,15 @@
     {
       "ID": "a1angca",
       "IsBase": true,
-      "Progressed": 281,
+      "Progressed": 283,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:24:52.812395+00:00",
   "FirstSeenAchievements": "2023-12-04T12:03:29.35155+00:00",
   "LastChanged": "2024-01-17T10:02:56.182852+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:05:32.2643958+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:07:17.6020212+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:41.6345674+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:59:42.7828271+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:05:32.2644459+00:00"
+  "LastUpdate_Ratings": "2024-01-23T00:00:52.1272084+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:07:17.6020562+00:00"
 }

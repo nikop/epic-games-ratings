@@ -37,7 +37,7 @@ Rating: 4.73 (Ranked 186)
 | If Looks Could Kill | 39.00% | ~306 |
 | Unstoppable Horde | 37.00% | ~290 |
 | Master of the Undead | 37.00% | ~290 |
-| The Finitude Drill | 36.00% | ~283 |
+| The Finitude Drill | 37.00% | ~290 |
 | Doom Hill | 33.00% | ~259 |
 | Ghost Pirates? Ghost Heroes! | 32.00% | ~251 |
 | Brimstone Shaken, Not Stirred | 31.00% | ~243 |

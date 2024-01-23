@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 312,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 3874,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-05-26T02:00:00+00:00",
     "PcReleaseDate": "2022-05-26T02:00:00+00:00",
@@ -2308,18 +2308,24 @@
       "Rating": 4.68,
       "NumberOfAwards": 1567,
       "NumberOfAwardsMax": 642
+    },
+    {
+      "Time": "2024-01-22T23:59:05.2116706+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 1568,
+      "NumberOfAwardsMax": 643
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 1567,
-  "NumberOfAwardsMax": 642,
+  "NumberOfAwards": 1568,
+  "NumberOfAwardsMax": 643,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
     {
       "Text": "This game has Inclusive Character Customization",
       "Prefix": "This game has Inclusive",
       "Type": "Character Customization",
-      "Count": 642
+      "Count": 643
     },
     {
       "Text": "This game is Great for Beginners",
@@ -2396,7 +2402,7 @@
   ],
   "EOS_Progressed": 903,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": -10,
+  "EOS_NewPlayers": -12,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -11701,9 +11707,9 @@
       "ID": "X_CLEAN",
       "SetID": "80dcan0",
       "Name": "Do Your Part",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 388
+      "UsersEstimate": 397
     },
     {
       "ID": "X_FISH_RARE",
@@ -11756,9 +11762,9 @@
   ],
   "FirstSeen": "2022-07-22T20:31:47.6872009+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:29.3428285+00:00",
-  "LastChanged": "2024-01-22T16:58:41.8034814+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:09:10.3267581+00:00",
+  "LastChanged": "2024-01-22T23:59:05.2116704+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:10:26.3362509+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:25.5009332+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:58:32.5910514+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:09:10.3268433+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:59:05.2116709+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:10:26.3363563+00:00"
 }

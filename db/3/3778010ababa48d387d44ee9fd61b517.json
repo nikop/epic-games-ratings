@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 460,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-05T22:00:00+00:00",
     "PcReleaseDate": "2023-11-05T22:00:00+00:00",
@@ -672,9 +672,9 @@
       "ID": "A_ARTIFACT",
       "SetID": "324h56e",
       "Name": "The Artifact",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 5,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "A_AVATAR",
@@ -792,9 +792,9 @@
       "ID": "A_KILLS kills_1 (0-100)",
       "SetID": "324h56e",
       "Name": "Slaughter",
-      "Percentage": 30,
+      "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 48
+      "UsersEstimate": 50
     },
     {
       "ID": "A_KILLS_2 kills_1 (0-1000)",
@@ -832,17 +832,17 @@
       "ID": "A_MEAT meat (0-10000)",
       "SetID": "324h56e",
       "Name": "Fresh Meat!",
-      "Percentage": 26,
+      "Percentage": 27,
       "XP": 5,
-      "UsersEstimate": 42
+      "UsersEstimate": 43
     },
     {
       "ID": "A_MEDIC_HEAL",
       "SetID": "324h56e",
       "Name": "Always Blame the Healer",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 6
+      "UsersEstimate": 8
     },
     {
       "ID": "A_MINERALS minerals (0-2500)",
@@ -880,9 +880,9 @@
       "ID": "A_QUEEN",
       "SetID": "324h56e",
       "Name": "Mother of Insectoids",
-      "Percentage": 19,
+      "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 31
+      "UsersEstimate": 32
     },
     {
       "ID": "A_RESS",
@@ -983,8 +983,8 @@
   ],
   "FirstSeen": "2023-11-08T21:13:07.2225127+00:00",
   "FirstSeenAchievements": "2023-09-01T10:05:47.6411553+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:06:41.2816487+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:08:58.5202283+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:15.0895709+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:58:45.4850424+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:06:41.281687+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:59:23.7222853+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:08:58.5202526+00:00"
 }

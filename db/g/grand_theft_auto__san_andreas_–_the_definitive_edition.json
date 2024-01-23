@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 158,
   "Ranking_EOS_Completed": 246,
   "Ranking_EOS_NewPlayers": 164,
-  "Ranking_EOS_NewCompleters": 77,
+  "Ranking_EOS_NewCompleters": 78,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2004-10-26T08:44:00+00:00",
@@ -2629,9 +2629,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 19799,
+  "EOS_Progressed": 19800,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21259,6 +21259,11 @@
       "Time": "2024-01-22T22:09:38.7925199+00:00",
       "NumProgressed": 19799,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-23T00:11:36.0426002+00:00",
+      "NumProgressed": 19800,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 35,
@@ -21270,7 +21275,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16037
+      "UsersEstimate": 16038
     },
     {
       "ID": "ACH02",
@@ -21326,7 +21331,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10097
+      "UsersEstimate": 10098
     },
     {
       "ID": "ACH09",
@@ -21549,7 +21554,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19799,
+      "Progressed": 19800,
       "Completed": 82
     }
   ],
@@ -21557,8 +21562,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-22T16:57:43.521775+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:10:00.3766734+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:11:36.0425999+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:57:39.2947179+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:10:00.3767936+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:57:46.8587523+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:11:36.0427135+00:00"
 }

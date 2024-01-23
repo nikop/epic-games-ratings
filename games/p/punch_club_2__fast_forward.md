@@ -58,11 +58,11 @@
 | Not little hacker | 29.00% | ~175 |
 | Another world | 28.00% | ~169 |
 | The lonesome road | 28.00% | ~169 |
+| Family comes first | 28.00% | ~169 |
 | Key memories | 28.00% | ~169 |
 | The heart of the Resistance | 28.00% | ~169 |
 | Trap disarmed | 27.00% | ~163 |
 | Keep nature safe | 27.00% | ~163 |
-| Family comes first | 27.00% | ~163 |
 | Careerist | 27.00% | ~163 |
 | The only right decision | 26.00% | ~157 |
 | The last bell ring | 26.00% | ~157 |

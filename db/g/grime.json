@@ -1945,7 +1945,7 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169324,
+  "EOS_Progressed": 169329,
   "EOS_Completed": 467,
   "EOS_NewPlayers": 940,
   "EOS_NewCompleters": 6,
@@ -24105,6 +24105,11 @@
       "Time": "2024-01-22T23:06:31.0440994+00:00",
       "NumProgressed": 169324,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2024-01-23T00:08:43.1721746+00:00",
+      "NumProgressed": 169329,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24189,7 +24194,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3386
+      "UsersEstimate": 3387
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -24484,21 +24489,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168907,
+      "Progressed": 168912,
       "Completed": 1268
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169324,
+      "Progressed": 169329,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-22T22:58:53.9473034+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:06:31.0440992+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:08:43.172174+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:58:53.947304+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:06:31.0442355+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:59:36.7100832+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:08:43.1723026+00:00"
 }

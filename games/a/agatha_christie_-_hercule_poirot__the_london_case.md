@@ -33,9 +33,9 @@
 | The Scheme | 32.00% | ~38 |
 | Zakariya Demir | 31.00% | ~37 |
 | Truth from within | 29.00% | ~35 |
+| Evelyn Lakshmi Warbeck | 26.00% | ~31 |
 | The Suspects | 26.00% | ~31 |
 | A curious phrase | 25.00% | ~30 |
-| Evelyn Lakshmi Warbeck | 25.00% | ~30 |
 | Horace Mountjoy | 24.00% | ~29 |
 | The Secrets | 24.00% | ~29 |
 | A peculiar fellow | 23.00% | ~27 |

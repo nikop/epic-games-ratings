@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 227,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 215,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-08-24T07:00:00+00:00",
     "PcReleaseDate": "2023-08-24T07:00:00+00:00",
@@ -75,9 +75,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3676,
+  "EOS_Progressed": 3677,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 67,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -9205,6 +9205,11 @@
       "Time": "2024-01-22T22:06:05.6245696+00:00",
       "NumProgressed": 3676,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T00:08:27.6479175+00:00",
+      "NumProgressed": 3677,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-06T15:05:12.2723109+00:00",
@@ -9289,7 +9294,7 @@
       "Name": "We\u0027re Going to Need a Bigger Garage",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 1029
+      "UsersEstimate": 1030
     },
     {
       "ID": "ML_ACHIEVEMENT_11",
@@ -9321,7 +9326,7 @@
       "Name": "Quick Pit Stop",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 845
+      "UsersEstimate": 846
     },
     {
       "ID": "ML_ACHIEVEMENT_15",
@@ -9393,7 +9398,7 @@
       "Name": "I\u0027m Here Too!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ML_ACHIEVEMENT_24",
@@ -9425,7 +9430,7 @@
       "Name": "Clean Race",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 1654
+      "UsersEstimate": 1655
     },
     {
       "ID": "ML_ACHIEVEMENT_28",
@@ -9473,7 +9478,7 @@
       "Name": "We\u0027ve Just Begun",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "ML_ACHIEVEMENT_34",
@@ -9608,7 +9613,7 @@
     {
       "ID": "c7hf6a4",
       "IsBase": true,
-      "Progressed": 3676,
+      "Progressed": 3677,
       "Completed": 0
     }
   ],
@@ -9616,8 +9621,8 @@
   "FirstSeenRating": "2023-12-26T23:58:21.0860971+00:00",
   "FirstSeenAchievements": "2023-04-25T20:47:56.5638254+00:00",
   "LastChanged": "2024-01-15T15:02:48.6046842+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:06:19.8536304+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:08:27.6479169+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:46.7551333+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:57:23.8006518+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:06:19.8537043+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:57:22.7702719+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:08:27.6480052+00:00"
 }

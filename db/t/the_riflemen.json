@@ -2,13 +2,13 @@
   "ID": "f76d927e6a344026a1cdd6b44b52c055",
   "Name": "The Riflemen",
   "ProductSlug": "the-riflemen-8be608",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 792,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 115,
   "Ranking_EOS_Completed": 30,
   "Ranking_EOS_NewPlayers": 32,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-28T03:00:00+00:00",
     "PcReleaseDate": "2023-09-01T11:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.38,
+  "Rating": 4.39,
   "RatingHistory": [
     {
       "Time": "2023-10-20T10:59:47.6628887+00:00",
@@ -209,17 +209,23 @@
       "Rating": 4.38,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-22T23:59:25.0561673+00:00",
+      "Rating": 4.39,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
     }
   ],
   "ReviewsDisabled": false,
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76225,
+  "EOS_Progressed": 76253,
   "EOS_Completed": 11760,
-  "EOS_NewPlayers": 4611,
+  "EOS_NewPlayers": 4619,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 15.43,
+  "EOS_Completed_Percentage": 15.42,
   "EosHistory": [
     {
       "Time": "2023-08-15T10:06:43.8267441+00:00",
@@ -17595,6 +17601,11 @@
       "Time": "2024-01-22T23:09:27.3223604+00:00",
       "NumProgressed": 76225,
       "NumCompleted": 11760
+    },
+    {
+      "Time": "2024-01-23T00:10:49.6890188+00:00",
+      "NumProgressed": 76253,
+      "NumCompleted": 11760
     }
   ],
   "AchievementsAdded": "2023-09-19T11:09:10.2256048+00:00",
@@ -17615,7 +17626,7 @@
       "Name": "First blood",
       "Percentage": 75,
       "XP": 25,
-      "UsersEstimate": 57169
+      "UsersEstimate": 57190
     },
     {
       "ID": "grenadeKills",
@@ -17631,7 +17642,7 @@
       "Name": "Head popping I",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3049
+      "UsersEstimate": 3050
     },
     {
       "ID": "headshots1000",
@@ -17671,7 +17682,7 @@
       "Name": "It\u0027s a piece of cake",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 762
+      "UsersEstimate": 763
     },
     {
       "ID": "revengeMedal",
@@ -17718,16 +17729,16 @@
     {
       "ID": "b3jeemd",
       "IsBase": true,
-      "Progressed": 76225,
+      "Progressed": 76253,
       "Completed": 11760
     }
   ],
   "FirstSeen": "2023-09-28T12:00:24.9112474+00:00",
   "FirstSeenRating": "2023-10-20T10:59:47.6628885+00:00",
   "FirstSeenAchievements": "2023-08-14T08:06:03.4842179+00:00",
-  "LastChanged": "2024-01-06T23:59:09.4867908+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:09:27.3223601+00:00",
+  "LastChanged": "2024-01-22T23:59:25.0561671+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:10:49.6890183+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:56:59.9687625+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:58:46.3980666+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:09:27.3224675+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:59:25.0561676+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:10:49.6891185+00:00"
 }

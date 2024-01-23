@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 201,
   "Ranking_EOS_Completed": 314,
   "Ranking_EOS_NewPlayers": 246,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
     "PcReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -795,9 +795,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7287,
+  "EOS_Progressed": 7288,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11440,6 +11440,11 @@
       "Time": "2024-01-22T23:05:33.8640994+00:00",
       "NumProgressed": 7287,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T00:07:19.8324598+00:00",
+      "NumProgressed": 7288,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11635,7 +11640,7 @@
       "Name": "Preparation Is Everything",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "31",
@@ -11683,7 +11688,7 @@
       "Name": "Fiery Friend",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "37",
@@ -11930,13 +11935,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7287,
+      "Progressed": 7288,
       "Completed": 4769
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7287,
+      "Progressed": 7288,
       "Completed": 8
     }
   ],
@@ -11944,8 +11949,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-22T17:00:50.4216722+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:05:33.8640988+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:07:19.8324592+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-22T23:00:24.6961+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:05:33.8642034+00:00"
+  "LastUpdate_Ratings": "2024-01-23T00:01:56.3402348+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:07:19.8325629+00:00"
 }

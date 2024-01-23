@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 278,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 272,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
     "PcReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -355,9 +355,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1910,
+  "EOS_Progressed": 1911,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 20,
+  "EOS_NewPlayers": 21,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5165,6 +5165,11 @@
       "Time": "2024-01-22T23:09:40.6817518+00:00",
       "NumProgressed": 1910,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T00:11:08.705648+00:00",
+      "NumProgressed": 1911,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -5296,7 +5301,7 @@
       "Name": "Fear my botany powers, Mars",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 611
+      "UsersEstimate": 612
     },
     {
       "ID": "NEW_ACHIEVEMENT_BULLS_EYE",
@@ -5352,7 +5357,7 @@
       "Name": "Electrician",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 630
+      "UsersEstimate": 631
     },
     {
       "ID": "NEW_ACHIEVEMENT_FROZEN",
@@ -5400,7 +5405,7 @@
       "Name": "Houston we have a problem",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 439
+      "UsersEstimate": 440
     },
     {
       "ID": "NEW_ACHIEVEMENT_ITS",
@@ -5432,7 +5437,7 @@
       "Name": "I don\u0027t feel so good",
       "Percentage": 41,
       "XP": 50,
-      "UsersEstimate": 783
+      "UsersEstimate": 784
     },
     {
       "ID": "NEW_ACHIEVEMENT_NEVER_ENDING_STORY",
@@ -5559,7 +5564,7 @@
     {
       "ID": "l546gc",
       "IsBase": true,
-      "Progressed": 1910,
+      "Progressed": 1911,
       "Completed": 0
     }
   ],
@@ -5567,8 +5572,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-16T15:59:32.5251341+00:00",
-  "LastChanged_Achievements": "2024-01-22T23:09:40.6817515+00:00",
+  "LastChanged_Achievements": "2024-01-23T00:11:08.7056475+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:00.6724547+00:00",
-  "LastUpdate_Ratings": "2024-01-22T22:59:03.6890345+00:00",
-  "LastUpdate_Achievements": "2024-01-22T23:09:40.6817923+00:00"
+  "LastUpdate_Ratings": "2024-01-22T23:59:51.835808+00:00",
+  "LastUpdate_Achievements": "2024-01-23T00:11:08.7057115+00:00"
 }

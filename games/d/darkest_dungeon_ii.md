@@ -48,12 +48,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,341 |
 | Unshackled | 4.00% | ~5,341 |
 | Road Trip | 4.00% | ~5,341 |
-| Hope Rekindled | 3.00% | ~4,005 |
-| Predator | 3.00% | ~4,005 |
-| Reverse Banditry | 3.00% | ~4,005 |
-| When You Want Something Done Right | 3.00% | ~4,005 |
-| Utopia | 3.00% | ~4,005 |
-| Hot Air | 3.00% | ~4,005 |
+| Hope Rekindled | 3.00% | ~4,006 |
+| Predator | 3.00% | ~4,006 |
+| Reverse Banditry | 3.00% | ~4,006 |
+| When You Want Something Done Right | 3.00% | ~4,006 |
+| Utopia | 3.00% | ~4,006 |
+| Hot Air | 3.00% | ~4,006 |
 | This Looks Familiar | 2.00% | ~2,670 |
 | Ichthyophobic | 2.00% | ~2,670 |
 | No More Mouths to Feed | 2.00% | ~2,670 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,516 (Ranked 92)  
+Progressed: 133,518 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,9 +354,10 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
+| 2024-01-23 | 133,518 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
-Sum: 21,821 (Ranked 58)  
+Sum: 21,824 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -369,7 +370,7 @@ Diff (max vs sum): -6
 | This game has Unique Visuals | 1,485 |
 | This game has Amazing Storytelling | 1,459 |
 | This game has Quickly Understood Controls | 1,434 |
-| This game has a Creative Community | 1,110 |
+| This game has a Creative Community | 1,113 |
 | This game has Obsessive Gameplay | 585 |
 | This game is Relaxing | 326 |
 ## Ratings History
@@ -734,4 +735,4 @@ Diff (max vs sum): -6
 | 2024-01-19 | 4.69 | - | 8,044 | 21,761 |
 | 2024-01-20 | 4.69 | - | 8,048 | 21,780 |
 | 2024-01-21 | 4.69 | - | 8,057 | 21,807 |
-| 2024-01-22 | 4.69 | - | 8,062 | 21,821 |
+| 2024-01-22 | 4.69 | - | 8,062 | 21,824 |

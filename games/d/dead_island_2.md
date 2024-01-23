@@ -1,28 +1,28 @@
 # Dead Island 2
 [Store](https://store.epicgames.com/en-US/p/dead-island-2)  
 [View Rawdata](../../db/d/dead_island_2.json)  
-Rating: 4.54 (Ranked 553)  
+Rating: 4.54 (Ranked 554)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,918 |
-| Hotel California | 10.00% | ~80,834 |
-| Break A Leg | 9.00% | ~72,751 |
-| Coup de Grâce | 8.00% | ~64,668 |
-| Hazardous Materials | 8.00% | ~64,668 |
-| Git Gutte! | 7.00% | ~56,584 |
-| Apex Predator | 7.00% | ~56,584 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,584 |
-| Dr. Reed, I Presume? | 6.00% | ~48,501 |
-| Bookworm | 6.00% | ~48,501 |
-| Friends Like These | 6.00% | ~48,501 |
-| Stacking the Deck | 6.00% | ~48,501 |
-| This is My Weapon | 6.00% | ~48,501 |
-| Anger Management | 5.00% | ~40,417 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,417 |
-| But Doctor, I am Butcho | 5.00% | ~40,417 |
-| Can't Handle the Truth | 5.00% | ~40,417 |
-| Like Riding a Bike | 5.00% | ~40,417 |
+| Welcome To Hell-A | 11.00% | ~88,920 |
+| Hotel California | 10.00% | ~80,836 |
+| Break A Leg | 9.00% | ~72,752 |
+| Coup de Grâce | 8.00% | ~64,669 |
+| Hazardous Materials | 8.00% | ~64,669 |
+| Git Gutte! | 7.00% | ~56,585 |
+| Apex Predator | 7.00% | ~56,585 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,585 |
+| Dr. Reed, I Presume? | 6.00% | ~48,502 |
+| Bookworm | 6.00% | ~48,502 |
+| Friends Like These | 6.00% | ~48,502 |
+| Stacking the Deck | 6.00% | ~48,502 |
+| This is My Weapon | 6.00% | ~48,502 |
+| Anger Management | 5.00% | ~40,418 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,418 |
+| But Doctor, I am Butcho | 5.00% | ~40,418 |
+| Can't Handle the Truth | 5.00% | ~40,418 |
+| Like Riding a Bike | 5.00% | ~40,418 |
 | Making Your Mark | 4.00% | ~32,334 |
 | Perks of the Job | 4.00% | ~32,334 |
 | Slayer Squad | 4.00% | ~32,334 |
@@ -33,23 +33,23 @@ Rating: 4.54 (Ranked 553)
 | Our True Nature | 4.00% | ~32,334 |
 | Whatever It Takes | 4.00% | ~5,356 |
 | Pork Chopped | 4.00% | ~5,356 |
-| Jumbo Keyring | 3.00% | ~24,250 |
-| Humanity Distilled | 3.00% | ~24,250 |
-| Down with the Sickness | 3.00% | ~24,250 |
-| Max Headroom | 3.00% | ~24,250 |
-| Go, Bobcats! | 3.00% | ~24,250 |
-| Rising Star | 3.00% | ~24,250 |
+| Jumbo Keyring | 3.00% | ~24,251 |
+| Humanity Distilled | 3.00% | ~24,251 |
+| Down with the Sickness | 3.00% | ~24,251 |
+| Max Headroom | 3.00% | ~24,251 |
+| Go, Bobcats! | 3.00% | ~24,251 |
+| Rising Star | 3.00% | ~24,251 |
 | One of Us | 3.00% | ~4,017 |
 | Make it So | 2.00% | ~16,167 |
 | Smorgasbord | 2.00% | ~16,167 |
 | Not Even My Final Form | 2.00% | ~16,167 |
 | Internet Famous | 2.00% | ~16,167 |
 | Variety is the Spice of Death | 2.00% | ~16,167 |
-| LA Influential | 1.00% | ~8,083 |
-| On Safari | 1.00% | ~8,083 |
-| Sole Survivor | 1.00% | ~8,083 |
-| Gore Horse | 1.00% | ~8,083 |
-| Sharpest Tool in the Box | 1.00% | ~8,083 |
+| LA Influential | 1.00% | ~8,084 |
+| On Safari | 1.00% | ~8,084 |
+| Sole Survivor | 1.00% | ~8,084 |
+| Gore Horse | 1.00% | ~8,084 |
+| Sharpest Tool in the Box | 1.00% | ~8,084 |
 | Survival Skills | 0.60% | ~4,850 |
 | Top That, Tisha! | 0.60% | ~803 |
 | Donk! | 0.40% | ~3,233 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 553)
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,345 (Ranked 23)  
+Progressed: 808,360 (Ranked 23)  
 Completed: 2,624 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,6 +335,7 @@ Completed: 2,624 (0.32%) (Ranked 261)
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
+| 2024-01-23 | 808,360 | 2,624 |
 ## Awards
 Max (Great Boss Battles): 10,811  (Ranked 40)  
 Sum: 16,633 (Ranked 68)  

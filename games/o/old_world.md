@@ -94,6 +94,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Kushite Paganism | 1.00% | ~171 |
 | Capable | 0.90% | ~154 |
 | Conqueror | 0.90% | ~154 |
+| Invincible | 0.90% | ~154 |
 | Ready | 0.90% | ~154 |
 | Subjugator | 0.90% | ~154 |
 | Riders | 0.90% | ~154 |
@@ -107,13 +108,13 @@ Number of Ratings: 1,307  (23.09.2022)
 | Double Victory | 0.90% | ~154 |
 | Jerwan Aqueduct | 0.90% | ~154 |
 | Royal Library | 0.90% | ~154 |
-| Invincible | 0.80% | ~137 |
 | Lion | 0.80% | ~137 |
 | Assyrian Paganism | 0.80% | ~137 |
 | Industrial Progress | 0.80% | ~137 |
 | Enlightenment | 0.80% | ~137 |
 | Gnosticism | 0.80% | ~137 |
 | Redemption | 0.80% | ~137 |
+| Veneration | 0.80% | ~137 |
 | Cimmerian Archer | 0.80% | ~137 |
 | Phalangite | 0.80% | ~137 |
 | Kushite Pyramids | 0.80% | ~137 |
@@ -127,7 +128,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Babylonia | 0.70% | ~120 |
 | Hittite Paganism | 0.70% | ~120 |
 | Revelation | 0.70% | ~120 |
-| Veneration | 0.70% | ~120 |
 | Kushite Cavalry | 0.70% | ~120 |
 | Ambition Victory | 0.70% | ~120 |
 | Clerics | 0.60% | ~103 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,114 (Ranked 170)  
+Progressed: 17,115 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,6 +643,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
+| 2024-01-23 | 17,115 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

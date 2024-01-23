@@ -5,14 +5,14 @@ Rating: 4.20 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,188 |
-| Battlefields Have Memories | 82.00% | ~2,937 |
-| Enlisted | 76.00% | ~2,722 |
-| Maybe Engage a Little | 71.00% | ~2,543 |
-| No More Names | 55.00% | ~1,970 |
+| Unforeseen | 89.00% | ~3,189 |
+| Battlefields Have Memories | 82.00% | ~2,938 |
+| Enlisted | 76.00% | ~2,723 |
+| Maybe Engage a Little | 71.00% | ~2,544 |
+| No More Names | 55.00% | ~1,971 |
 | Initiate | 41.00% | ~1,469 |
-| Thrada-Kul | 38.00% | ~1,361 |
-| Gravity-Challenged Rocks | 32.00% | ~1,146 |
+| Thrada-Kul | 38.00% | ~1,362 |
+| Gravity-Challenged Rocks | 32.00% | ~1,147 |
 | Soldier | 28.00% | ~1,003 |
 | All the Major Food Groups | 27.00% | ~967 |
 | Socialite | 25.00% | ~896 |
@@ -25,7 +25,7 @@ Rating: 4.20 (Ranked 975)
 | Periapt Alizarin | 18.00% | ~645 |
 | A Perfect Cycle | 17.00% | ~609 |
 | Recruit | 16.00% | ~573 |
-| Armsman | 14.00% | ~501 |
+| Armsman | 14.00% | ~502 |
 | Lights Army | 12.00% | ~430 |
 | Periapt Cerulean | 10.00% | ~358 |
 | Good Boy | 9.00% | ~322 |
@@ -53,7 +53,7 @@ Rating: 4.20 (Ranked 975)
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,582 (Ranked 230)  
+Progressed: 3,583 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,6 +170,7 @@ Completed: 5 (0.14%) (Ranked 303)
 | 2024-01-20 | 3,546 | 5 |
 | 2024-01-21 | 3,570 | 5 |
 | 2024-01-22 | 3,582 | 5 |
+| 2024-01-23 | 3,583 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 565)  
 Sum: 43 (Ranked 525)  

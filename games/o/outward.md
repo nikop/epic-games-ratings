@@ -1,7 +1,7 @@
 # Outward Definitive Edition
 [Store](https://store.epicgames.com/en-US/p/outward)  
 [View Rawdata](../../db/o/outward.json)  
-Rating: 4.54 (Ranked 553)  
+Rating: 4.54 (Ranked 554)  
 Number of Ratings: 266  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -17,8 +17,8 @@ Number of Ratings: 266  (23.09.2022)
 | Science, Troglodyte! | 21.00% | ~1,017 |
 | Home Sweet Home | 20.00% | ~968 |
 | Encyclopedic! | 18.00% | ~872 |
+| A Fortress Toppled! | 15.00% | ~726 |
 | The Power of Family | 15.00% | ~726 |
-| A Fortress Toppled! | 14.00% | ~678 |
 | Apex Predator | 14.00% | ~678 |
 | The Power of Faith | 12.00% | ~581 |
 | Strange amalgams | 11.00% | ~533 |
