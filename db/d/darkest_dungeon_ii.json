@@ -2,13 +2,13 @@
   "ID": "6ff9efdef6dc45ecb40ed20fcd2c4621",
   "Name": "Darkest Dungeon II",
   "ProductSlug": "darkest-dungeon-2",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 242,
   "Ranking_Popularity": 52,
   "Ranking_PopularitySum": 58,
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11190,9 +11190,9 @@
       "Count": 1113
     }
   ],
-  "EOS_Progressed": 133541,
+  "EOS_Progressed": 133542,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 565,
+  "EOS_NewPlayers": 561,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41160,6 +41160,11 @@
       "Time": "2024-01-23T12:10:17.5755687+00:00",
       "NumProgressed": 133541,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T13:17:57.0252846+00:00",
+      "NumProgressed": 133542,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41171,7 +41176,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -41179,7 +41184,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41371,7 +41376,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41387,7 +41392,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "combat_kill_librarian",
@@ -41411,7 +41416,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41467,7 +41472,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41491,7 +41496,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "driving_distance_easy",
@@ -41579,7 +41584,7 @@
       "Name": "FNG",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8012
+      "UsersEstimate": 8013
     },
     {
       "ID": "inn_visit_all_variants",
@@ -41779,7 +41784,7 @@
       "Name": "Friends \u0027Til the End",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 420
+      "UsersEstimate": 421
     },
     {
       "ID": "run_victory_any_ves_pd_hwy_cru",
@@ -41802,21 +41807,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133541,
+      "Progressed": 133542,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8410,
+      "Progressed": 8411,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-23T01:49:36.0565864+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:10:17.5755685+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:17:57.0252842+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:59:19.0698583+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:10:17.5757251+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:06:58.6468661+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:17:57.0254618+00:00"
 }

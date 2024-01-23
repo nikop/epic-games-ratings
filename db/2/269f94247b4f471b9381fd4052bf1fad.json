@@ -4,8 +4,8 @@
   "ProductSlug": "born-of-bread-008e66",
   "Ranking_EOS_Progress": 557,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 444,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-05T18:00:00+00:00",
     "PcReleaseDate": "2023-12-05T18:00:00+00:00",
@@ -381,9 +381,9 @@
       "ID": "ACH_EXOTIC-ARSENAL",
       "SetID": "6lg1p1e",
       "Name": "Exotic Arsenal",
-      "Percentage": 14,
+      "Percentage": 16,
       "XP": 50,
-      "UsersEstimate": 8
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_FIRST-PAYCHECK",
@@ -604,8 +604,8 @@
   ],
   "FirstSeen": "2023-12-07T10:00:27.7734376+00:00",
   "FirstSeenAchievements": "2023-11-03T11:07:54.6624066+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:09:25.3413809+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:17:06.234153+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.669194+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:59:03.1492251+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:09:25.3414279+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:06:41.8010502+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:17:06.2341836+00:00"
 }

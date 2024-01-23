@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 195,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1258,
+  "EOS_Progressed": 1259,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 86,
+  "EOS_NewPlayers": 87,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3293,6 +3293,11 @@
       "Time": "2024-01-23T11:09:47.8049799+00:00",
       "NumProgressed": 1258,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T13:16:58.6513427+00:00",
+      "NumProgressed": 1259,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3305,7 +3310,7 @@
       "Name": "Look Mom, I Can Fly",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 314
+      "UsersEstimate": 315
     },
     {
       "ID": "CareerAllChallenges",
@@ -3464,7 +3469,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1258,
+      "Progressed": 1259,
       "Completed": 0
     }
   ],
@@ -3472,8 +3477,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-21T13:59:24.6790776+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:09:17.8587396+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:16:58.651342+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-23T12:00:22.2691644+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:09:17.8587638+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:08:00.6035616+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:16:58.6513674+00:00"
 }

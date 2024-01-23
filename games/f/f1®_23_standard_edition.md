@@ -5,20 +5,20 @@ Rating: 4.65 (Ranked 326)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,960 |
-| On the Top Step | 83.00% | ~15,469 |
-| Setting up for Success | 70.00% | ~13,046 |
-| Team Orders | 68.00% | ~12,673 |
-| Engineer | 46.00% | ~8,573 |
+| Getting on the Step | 91.00% | ~16,961 |
+| On the Top Step | 83.00% | ~15,470 |
+| Setting up for Success | 70.00% | ~13,047 |
+| Team Orders | 68.00% | ~12,675 |
+| Engineer | 46.00% | ~8,574 |
 | Familiar Faces | 42.00% | ~7,828 |
-| Going the Extra Mile | 36.00% | ~6,709 |
+| Going the Extra Mile | 36.00% | ~6,710 |
 | Sharing the Love | 34.00% | ~6,337 |
 | Hitting a Season | 29.00% | ~5,405 |
-| A Dozen Pieces | 25.00% | ~4,659 |
-| Making History | 25.00% | ~4,659 |
+| A Dozen Pieces | 26.00% | ~4,846 |
+| Making History | 25.00% | ~4,660 |
 | Network Success | 24.00% | ~4,473 |
 | Challenge Yourself | 24.00% | ~4,473 |
-| Writing a new Chapter | 20.00% | ~3,727 |
+| Writing a new Chapter | 20.00% | ~3,728 |
 | Spring Cleaning | 19.00% | ~3,541 |
 | Reduce | 15.00% | ~2,796 |
 | Ups and Downs | 15.00% | ~2,796 |
@@ -33,15 +33,15 @@ Rating: 4.65 (Ranked 326)
 | Hitting a Bullseye | 10.00% | ~1,864 |
 | Friendly Competition | 10.00% | ~1,864 |
 | Switcheroo | 10.00% | ~1,864 |
-| Lightning Round the World | 9.00% | ~1,677 |
-| Spinning Around | 9.00% | ~1,677 |
+| Lightning Round the World | 9.00% | ~1,678 |
+| Spinning Around | 9.00% | ~1,678 |
 | Undisputed Winner | 7.00% | ~1,305 |
 | Recycle | 7.00% | ~1,305 |
 | Tinkerer | 6.00% | ~1,118 |
 | For all Those Back at the Factory | 5.00% | ~932 |
-| Living up to Expectations | 4.00% | ~745 |
-| Smooth Operator | 4.00% | ~745 |
-| Peak Performance | 4.00% | ~745 |
+| Living up to Expectations | 4.00% | ~746 |
+| Smooth Operator | 4.00% | ~746 |
+| Peak Performance | 4.00% | ~746 |
 | Seasoned Rookie | 3.00% | ~559 |
 | Hitting a Century | 3.00% | ~559 |
 | Loyal Bond | 3.00% | ~559 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 326)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,637 (Ranked 165)  
+Progressed: 18,639 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 18,524 | 0 |
 | 2024-01-21 | 18,591 | 0 |
 | 2024-01-22 | 18,629 | 0 |
-| 2024-01-23 | 18,637 | 0 |
+| 2024-01-23 | 18,639 | 0 |
 ## Awards
 Max (Diverse Characters): 71  (Ranked 420)  
 Sum: 477 (Ranked 343)  

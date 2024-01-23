@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 73,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 94,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2020-09-17T15:00:00+00:00",
     "PcReleaseDate": "2020-09-17T15:00:00+00:00",
@@ -1803,9 +1803,9 @@
       "Count": 21
     }
   ],
-  "EOS_Progressed": 249272,
+  "EOS_Progressed": 249280,
   "EOS_Completed": 9,
-  "EOS_NewPlayers": 927,
+  "EOS_NewPlayers": 928,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -27243,6 +27243,11 @@
       "Time": "2024-01-23T12:10:25.0419329+00:00",
       "NumProgressed": 249272,
       "NumCompleted": 9
+    },
+    {
+      "Time": "2024-01-23T13:18:04.1176762+00:00",
+      "NumProgressed": 249280,
+      "NumCompleted": 9
     }
   ],
   "TotalAchievements": 88,
@@ -27278,7 +27283,7 @@
       "Name": "Shiny and Cr\u00F4m",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "BarbarianKillUsingBow",
@@ -27398,7 +27403,7 @@
       "Name": "Res Judicata",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "CompanionPriestress",
@@ -27606,7 +27611,7 @@
       "Name": "The Famous Dungeon of Naheulbeuk",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "DifficultyIronManNoCompanion",
@@ -27654,7 +27659,7 @@
       "Name": "Where\u0027s that freaking Dwarf?",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 24927
+      "UsersEstimate": 24928
     },
     {
       "ID": "DwarfElf15Support",
@@ -27670,7 +27675,7 @@
       "Name": "Dwarf Fortress",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "DwarfInsultWin",
@@ -27686,7 +27691,7 @@
       "Name": "Sock! SOCK!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14956
+      "UsersEstimate": 14957
     },
     {
       "ID": "ElfEpic",
@@ -27694,7 +27699,7 @@
       "Name": "Look but don\u0027t touch",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "ElfHitTwoFriends",
@@ -27702,7 +27707,7 @@
       "Name": "Sowwy!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 92231
+      "UsersEstimate": 92234
     },
     {
       "ID": "EndCombatHeavyWound",
@@ -27750,7 +27755,7 @@
       "Name": "Alt\u002BF4",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 27420
+      "UsersEstimate": 27421
     },
     {
       "ID": "FollowBraztok",
@@ -27758,7 +27763,7 @@
       "Name": "The beards of change",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "FollowNarzatok",
@@ -27774,7 +27779,7 @@
       "Name": "I\u0027ve seen that beard before! It was on sale, and came with a broomstick and a bucket!",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "KillDungeonLich",
@@ -27790,7 +27795,7 @@
       "Name": "We come in peace",
       "Percentage": 0.9,
       "XP": 50,
-      "UsersEstimate": 2243
+      "UsersEstimate": 2244
     },
     {
       "ID": "MinistrelEpic",
@@ -27870,7 +27875,7 @@
       "Name": "Lust and Debauchery",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "RangerEpic",
@@ -27878,7 +27883,7 @@
       "Name": "The Ranger of Chaos",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "Rogue30Backstab",
@@ -27886,7 +27891,7 @@
       "Name": "I am the night",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "RogueEpic",
@@ -27894,7 +27899,7 @@
       "Name": "Thieves\u0027 Guild Accreditation",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 4985
+      "UsersEstimate": 4986
     },
     {
       "ID": "Speedrun",
@@ -27902,7 +27907,7 @@
       "Name": "Speedrun",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 14956
+      "UsersEstimate": 14957
     },
     {
       "ID": "SupportCount4",
@@ -27957,21 +27962,21 @@
     {
       "ID": "50chcgj",
       "IsBase": true,
-      "Progressed": 249272,
+      "Progressed": 249280,
       "Completed": 9
     },
     {
       "ID": "50p8kh1",
       "IsBase": false,
-      "Progressed": 249272,
+      "Progressed": 249280,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:18:10.3058592+00:00",
   "FirstSeenAchievements": "2023-06-02T13:19:07.6525511+00:00",
   "LastChanged": "2024-01-22T06:58:54.5808771+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:10:25.0419328+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:18:04.1176757+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:21.4289542+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:59:35.0785146+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:10:25.0420849+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:07:14.6247112+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:18:04.1178806+00:00"
 }

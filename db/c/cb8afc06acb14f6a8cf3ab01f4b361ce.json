@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 488,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 49,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
     "PcReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 348946,
+  "EOS_Progressed": 348961,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2789,
+  "EOS_NewPlayers": 2780,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14429,6 +14429,11 @@
       "Time": "2024-01-23T12:09:18.2416945+00:00",
       "NumProgressed": 348946,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-23T13:16:58.971364+00:00",
+      "NumProgressed": 348961,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14441,7 +14446,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17447
+      "UsersEstimate": 17448
     },
     {
       "ID": "S02_BRDA",
@@ -14457,7 +14462,7 @@
       "Name": "Rumors are true",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "S04_BRDC",
@@ -14465,7 +14470,7 @@
       "Name": "We\u0027ll be careful",
       "Percentage": 1,
       "XP": 15,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "S05_SWRA",
@@ -14577,7 +14582,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 5,
       "XP": 10,
-      "UsersEstimate": 17447
+      "UsersEstimate": 17448
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14633,7 +14638,7 @@
       "Name": "Pride is a sin, young Knight",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "S26_CRTA",
@@ -14665,7 +14670,7 @@
       "Name": "Your wounds\u2026 They are healing so fast!",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 3489
+      "UsersEstimate": 3490
     },
     {
       "ID": "S30_DIAMOND",
@@ -14760,7 +14765,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 348946,
+      "Progressed": 348961,
       "Completed": 7
     }
   ],
@@ -14768,8 +14773,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:09:18.2416941+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:16:58.9713636+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:59:24.8612969+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:09:18.2417682+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:07:04.9129829+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:16:58.9714555+00:00"
 }

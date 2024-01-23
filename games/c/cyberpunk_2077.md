@@ -11,12 +11,12 @@ Number of Ratings: 32,700  (23.09.2022)
 | The Hermit | 0.70% | ~7,403 |
 | The Wheel of Fortune | 0.70% | ~7,403 |
 | True Soldier | 0.70% | ~7,403 |
-| Christmas Tree Attack | 0.60% | ~6,345 |
-| Life of the Road | 0.60% | ~6,345 |
-| Stanislavski's Method | 0.60% | ~6,345 |
-| The High Priestess | 0.60% | ~6,345 |
-| The Lovers | 0.60% | ~6,345 |
-| Legend of The Afterlife | 0.60% | ~6,345 |
+| Christmas Tree Attack | 0.60% | ~6,346 |
+| Life of the Road | 0.60% | ~6,346 |
+| Stanislavski's Method | 0.60% | ~6,346 |
+| The High Priestess | 0.60% | ~6,346 |
+| The Lovers | 0.60% | ~6,346 |
+| Legend of The Afterlife | 0.60% | ~6,346 |
 | Bushido and Chill | 0.50% | ~5,288 |
 | Gun Fu | 0.50% | ~5,288 |
 | Master Crafter | 0.50% | ~5,288 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,563 (Ranked 17)  
+Progressed: 1,057,599 (Ranked 17)  
 Completed: 3,151 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 3,151 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,563 | 3,151 |
+| 2024-01-23 | 1,057,599 | 3,151 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
 Sum: 515,250 (Ranked 8)  

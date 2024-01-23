@@ -6,12 +6,12 @@ Number of Ratings: 118  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sowwy! | 37.00% | ~92,231 |
-| Alt+F4 | 11.00% | ~27,420 |
-| Where's that freaking Dwarf? | 10.00% | ~24,927 |
+| Sowwy! | 37.00% | ~92,234 |
+| Alt+F4 | 11.00% | ~27,421 |
+| Where's that freaking Dwarf? | 10.00% | ~24,928 |
 | Déjà vu | 8.00% | ~19,942 |
-| Sock! SOCK! | 6.00% | ~14,956 |
-| Speedrun | 6.00% | ~14,956 |
+| Sock! SOCK! | 6.00% | ~14,957 |
+| Speedrun | 6.00% | ~14,957 |
 | A beer, two curses, three companions | 5.00% | ~12,464 |
 | GG EZ | 5.00% | ~12,464 |
 | DM intervention | 5.00% | ~12,464 |
@@ -29,24 +29,24 @@ Number of Ratings: 118  (23.09.2022)
 | A tale of adventurers not quite like the others... | 3.00% | ~7,478 |
 | Team Building Exercise | 3.00% | ~7,478 |
 | Oh, when I'll be level 10... | 3.00% | ~7,478 |
-| Shiny and Crôm | 2.00% | ~4,985 |
-| Res Judicata | 2.00% | ~4,985 |
-| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,985 |
-| Dwarf Fortress | 2.00% | ~4,985 |
-| Look but don't touch | 2.00% | ~4,985 |
-| The beards of change | 2.00% | ~4,985 |
-| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,985 |
-| Lust and Debauchery | 2.00% | ~4,985 |
-| The Ranger of Chaos | 2.00% | ~4,985 |
-| I am the night | 2.00% | ~4,985 |
-| Thieves' Guild Accreditation | 2.00% | ~4,985 |
+| Shiny and Crôm | 2.00% | ~4,986 |
+| Res Judicata | 2.00% | ~4,986 |
+| The Famous Dungeon of Naheulbeuk | 2.00% | ~4,986 |
+| Dwarf Fortress | 2.00% | ~4,986 |
+| Look but don't touch | 2.00% | ~4,986 |
+| The beards of change | 2.00% | ~4,986 |
+| I've seen that beard before! It was on sale, and came with a broomstick and a bucket! | 2.00% | ~4,986 |
+| Lust and Debauchery | 2.00% | ~4,986 |
+| The Ranger of Chaos | 2.00% | ~4,986 |
+| I am the night | 2.00% | ~4,986 |
+| Thieves' Guild Accreditation | 2.00% | ~4,986 |
 | %#*!$*! | 1.00% | ~2,493 |
 | Dead for good | 1.00% | ~2,493 |
 | Gargantua | 1.00% | ~2,493 |
 | In Navalu's footsteps | 1.00% | ~2,493 |
 | Lëgal Legend | 1.00% | ~2,493 |
 | Material Girl | 1.00% | ~2,493 |
-| We come in peace | 0.90% | ~2,243 |
+| We come in peace | 0.90% | ~2,244 |
 | An old poacher makes the best gamekeeper | 0.80% | ~1,994 |
 | Holistic Adventuring Party | 0.70% | ~1,745 |
 | Law and Order | 0.70% | ~1,745 |
@@ -95,7 +95,7 @@ Number of Ratings: 118  (23.09.2022)
 | Dumb and dumber | 0.10% | ~249 |
 | Dwarf Candy | 0.10% | ~249 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 249,272 (Ranked 73)  
+Progressed: 249,280 (Ranked 73)  
 Completed: 9 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -332,7 +332,7 @@ Completed: 9 (0.00%) (Ranked 409)
 | 2024-01-20 | 248,966 | 9 |
 | 2024-01-21 | 249,117 | 9 |
 | 2024-01-22 | 249,232 | 9 |
-| 2024-01-23 | 249,272 | 9 |
+| 2024-01-23 | 249,280 | 9 |
 ## Awards
 Max (Character Customization): 273  (Ranked 277)  
 Sum: 578 (Ranked 330)  

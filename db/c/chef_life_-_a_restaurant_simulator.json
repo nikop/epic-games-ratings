@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 301,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 321,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-02-23T09:00:00+00:00",
     "PcReleaseDate": "2023-02-23T09:00:00+00:00",
@@ -49,9 +49,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1042,
+  "EOS_Progressed": 1044,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 11,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4504,6 +4504,11 @@
       "Time": "2024-01-23T06:10:01.8365351+00:00",
       "NumProgressed": 1042,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T13:17:49.3896972+00:00",
+      "NumProgressed": 1044,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 40,
@@ -4571,7 +4576,7 @@
       "Name": "So Clean You Can Eat Off the Floor",
       "Percentage": 15,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "Clothes10",
@@ -4691,7 +4696,7 @@
       "Name": "The Big Day",
       "Percentage": 61,
       "XP": 15,
-      "UsersEstimate": 636
+      "UsersEstimate": 637
     },
     {
       "ID": "Packing20",
@@ -4699,7 +4704,7 @@
       "Name": "Next Level Cuisine",
       "Percentage": 8,
       "XP": 15,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "PerfectGrade25",
@@ -4715,7 +4720,7 @@
       "Name": "Home Cook",
       "Percentage": 24,
       "XP": 15,
-      "UsersEstimate": 250
+      "UsersEstimate": 251
     },
     {
       "ID": "RecipeDifferent30",
@@ -4737,9 +4742,9 @@
       "ID": "SDishes50",
       "SetID": "d1bm05f",
       "Name": "S is for Scrumptious",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 156
+      "UsersEstimate": 167
     },
     {
       "ID": "ServiceMaxClient",
@@ -4771,7 +4776,7 @@
       "Name": "You\u0027re the Expert!",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 281
+      "UsersEstimate": 282
     },
     {
       "ID": "TrattoriaSet",
@@ -4834,7 +4839,7 @@
     {
       "ID": "d1bm05f",
       "IsBase": true,
-      "Progressed": 1042,
+      "Progressed": 1044,
       "Completed": 0
     }
   ],
@@ -4842,8 +4847,8 @@
   "FirstSeenRating": "2023-03-31T05:57:34.6968935+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:52.3534126+00:00",
   "LastChanged": "2024-01-13T14:59:03.3145908+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:10:09.7645182+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:17:49.3896966+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:49.8599474+00:00",
-  "LastUpdate_Ratings": "2024-01-23T12:00:00.8721991+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:10:09.7645626+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:07:41.5329016+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:17:49.3897519+00:00"
 }

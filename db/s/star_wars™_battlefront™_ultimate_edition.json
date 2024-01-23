@@ -4,8 +4,8 @@
   "ProductSlug": "star-wars-battlefront",
   "Ranking_EOS_Progress": 234,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 183,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-01-14T16:00:00+00:00",
     "PcReleaseDate": "2015-11-16T00:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 3111,
+  "EOS_Progressed": 3112,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 127,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -8504,6 +8504,11 @@
       "Time": "2024-01-23T02:00:57.3352001+00:00",
       "NumProgressed": 3111,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T13:18:03.844827+00:00",
+      "NumProgressed": 3112,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-21T18:05:05.2869795+00:00",
@@ -8740,7 +8745,7 @@
       "Name": "New Recruit",
       "Percentage": 86,
       "XP": 15,
-      "UsersEstimate": 2675
+      "UsersEstimate": 2676
     },
     {
       "ID": "achievement_36",
@@ -8858,9 +8863,9 @@
       "ID": "achievement_49",
       "SetID": "cemm4l8",
       "Name": "Do we take prisoners?",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_5",
@@ -8898,9 +8903,9 @@
       "ID": "achievement_53",
       "SetID": "cemm4l8",
       "Name": "I\u2019ll take that bet",
-      "Percentage": 0.5,
+      "Percentage": 0.4,
       "XP": 90,
-      "UsersEstimate": 16
+      "UsersEstimate": 12
     },
     {
       "ID": "achievement_54",
@@ -9019,13 +9024,13 @@
     {
       "ID": "271ol84",
       "IsBase": true,
-      "Progressed": 3111,
+      "Progressed": 3112,
       "Completed": 1
     },
     {
       "ID": "cemm4l8",
       "IsBase": false,
-      "Progressed": 3111,
+      "Progressed": 3112,
       "Completed": 1
     }
   ],
@@ -9033,8 +9038,8 @@
   "FirstSeenRating": "2023-03-31T05:58:10.1323225+00:00",
   "FirstSeenAchievements": "2023-07-31T17:03:17.5561062+00:00",
   "LastChanged": "2023-03-31T05:58:10.1323226+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:10:24.7401084+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:18:03.8448265+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.9435107+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:58:06.2773842+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:10:24.7401805+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:05:48.7529527+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:18:03.8449025+00:00"
 }

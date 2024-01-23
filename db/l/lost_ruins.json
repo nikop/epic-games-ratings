@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 331,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 342,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 351,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-04-15T00:00:00+00:00",
     "PcReleaseDate": "2022-04-15T00:00:00+00:00",
@@ -41,7 +41,7 @@
   "Tags": [],
   "EOS_Progressed": 712,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 7,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -2071,9 +2071,9 @@
       "ID": "ArtCollector",
       "SetID": "82505mn",
       "Name": "Art Collector",
-      "Percentage": 0.4,
+      "Percentage": 0.6,
       "XP": 25,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "ArtifactsCollector",
@@ -2392,8 +2392,8 @@
   "FirstSeenRating": "2023-03-31T05:57:58.2772273+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:32.3628443+00:00",
   "LastChanged": "2024-01-12T01:47:25.1685373+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:10:17.2516167+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:17:56.7250497+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:50.4166375+00:00",
-  "LastUpdate_Ratings": "2024-01-23T12:00:01.907323+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:10:17.2516442+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:07:42.5271007+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:17:56.7250833+00:00"
 }

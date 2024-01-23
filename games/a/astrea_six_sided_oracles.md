@@ -11,7 +11,7 @@
 | Sanctuary Guardian | 56.00% | ~220 |
 | Endless Tricks | 53.00% | ~208 |
 | Wild's Keeper | 50.00% | ~196 |
-| Mind Illuminator | 45.00% | ~176 |
+| Mind Illuminator | 46.00% | ~180 |
 | Stellar Dismantler | 41.00% | ~161 |
 | Astral Adventurer | 36.00% | ~141 |
 | Noctuan Champion | 36.00% | ~141 |
@@ -35,10 +35,10 @@
 | The Goddes Avatar | 8.00% | ~31 |
 | Can't touch this | 6.00% | ~24 |
 | Favored by the Cosmos | 6.00% | ~24 |
+| Prestidigitation | 6.00% | ~24 |
 | Anomaly Control | 5.00% | ~20 |
 | Artificer | 5.00% | ~20 |
 | Denying Destiny | 5.00% | ~20 |
-| Prestidigitation | 5.00% | ~20 |
 | Apian Hero | 5.00% | ~20 |
 | Astrarium of Holding | 4.00% | ~16 |
 | If I Had Failed... | 4.00% | ~16 |

@@ -2,13 +2,13 @@
   "ID": "cb88aea9aed742e4a911a65c4898d857",
   "Name": "Warhammer 40,000: Rogue Trader",
   "ProductSlug": "warhammer-40000-rogue-trader",
-  "Ranking_Rating": 241,
+  "Ranking_Rating": 242,
   "Ranking_Popularity": 327,
   "Ranking_PopularitySum": 408,
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -467,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12115,
+  "EOS_Progressed": 12118,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 542,
+  "EOS_NewPlayers": 536,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5927,6 +5927,11 @@
       "Time": "2024-01-23T12:10:20.4828202+00:00",
       "NumProgressed": 12115,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T13:17:59.7955676+00:00",
+      "NumProgressed": 12118,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5939,7 +5944,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2786
+      "UsersEstimate": 2787
     },
     {
       "ID": "03_TheStolenStar",
@@ -5963,7 +5968,7 @@
       "Name": "Commorragh Survivors",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "06_TheExpanseCalamity",
@@ -6035,7 +6040,7 @@
       "Name": "Fear Not Obliteration",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 1090
+      "UsersEstimate": 1091
     },
     {
       "ID": "15_Pentakill",
@@ -6051,7 +6056,7 @@
       "Name": "The Rise",
       "Percentage": 16,
       "XP": 5,
-      "UsersEstimate": 1938
+      "UsersEstimate": 1939
     },
     {
       "ID": "17_TheExemplar",
@@ -6099,7 +6104,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "23_DynastyRestored",
@@ -6139,7 +6144,7 @@
       "Name": "Uncover the Ice",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "28_TheLightOfAstronomicon",
@@ -6147,7 +6152,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1817
+      "UsersEstimate": 1818
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6163,7 +6168,7 @@
       "Name": "Greatest Exploration",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "31_DontTouchThis",
@@ -6171,7 +6176,7 @@
       "Name": "Don\u0027t Touch This",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "32_AviationSaviour",
@@ -6219,7 +6224,7 @@
       "Name": "Silver-Tongued Diplomat",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "38_ThoseWhoAreAboutToDieSaluteYou",
@@ -6313,9 +6318,9 @@
       "ID": "49_HowDidItAllEnd",
       "SetID": "37a94m8",
       "Name": "How Did It All End?",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 100,
-      "UsersEstimate": 61
+      "UsersEstimate": 73
     },
     {
       "ID": "50_Whodunit",
@@ -6355,7 +6360,7 @@
       "Name": "This Is a Job for the Lord Captain!",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "55_ReturningTheBoots",
@@ -6363,7 +6368,7 @@
       "Name": "Returning the Boots",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "56_ThoroughInvestigation",
@@ -6458,7 +6463,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12115,
+      "Progressed": 12118,
       "Completed": 1
     }
   ],
@@ -6466,8 +6471,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:10:20.48282+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:17:59.7955672+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:58:04.2382015+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:10:20.4828796+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:05:46.8651382+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:17:59.7956298+00:00"
 }

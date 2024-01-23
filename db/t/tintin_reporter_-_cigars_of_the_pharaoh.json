@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 478,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 420,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-11-13T17:00:00+00:00",
     "PcReleaseDate": "2023-11-07T09:00:00+00:00",
@@ -767,9 +767,9 @@
       "ID": "Achievement2",
       "SetID": "9fa3l5n",
       "Name": "A Loyal Friend",
-      "Percentage": 43,
+      "Percentage": 44,
       "XP": 15,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "Achievement20",
@@ -982,8 +982,8 @@
   ],
   "FirstSeen": "2023-11-17T21:59:52.2440618+00:00",
   "FirstSeenAchievements": "2023-11-07T09:03:31.8773089+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:05:03.7219068+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:12:50.3067172+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:47.9162613+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:59:58.5109474+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:05:03.7219425+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:07:38.8705046+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:12:50.3067479+00:00"
 }

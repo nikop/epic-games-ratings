@@ -6,7 +6,7 @@ Rating: 4.48 (Ranked 663)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Meeting Resistance | 47.00% | ~2,037 |
-| Confirming Suspicions | 42.00% | ~1,820 |
+| Confirming Suspicions | 42.00% | ~1,821 |
 | The Kraken Wakes | 38.00% | ~1,647 |
 | It's Starting to Crack | 35.00% | ~1,517 |
 | Change the Channel | 32.00% | ~1,387 |
@@ -24,18 +24,18 @@ Rating: 4.48 (Ranked 663)
 | Climbing the Ladder | 17.00% | ~737 |
 | Just a Flesh Wound | 17.00% | ~737 |
 | Der Geist | 17.00% | ~737 |
-| Skirmisher | 16.00% | ~693 |
-| Close Quarters | 16.00% | ~693 |
-| Snake in the Grass | 16.00% | ~693 |
-| Brains of the Operation | 16.00% | ~693 |
+| Skirmisher | 16.00% | ~694 |
+| Close Quarters | 16.00% | ~694 |
+| Snake in the Grass | 16.00% | ~694 |
+| Brains of the Operation | 16.00% | ~694 |
 | No Stone Unturned | 15.00% | ~650 |
 | Fields of Glory | 15.00% | ~650 |
 | Die Nussknacker Sweet! | 15.00% | ~650 |
 | Opposing Force | 14.00% | ~607 |
 | Enemy at the Gates | 14.00% | ~607 |
 | Set Europe Ablaze | 14.00% | ~607 |
-| Precision Is Key | 10.00% | ~433 |
-| My Little Friend | 10.00% | ~433 |
+| Precision Is Key | 10.00% | ~434 |
+| My Little Friend | 10.00% | ~434 |
 | Rigged to Blow | 9.00% | ~390 |
 | Herr Today, Gone Tomorrow | 7.00% | ~300 |
 | The Long Game | 6.00% | ~260 |
@@ -77,7 +77,7 @@ Rating: 4.48 (Ranked 663)
 | Stroll in the Woods | 0.60% | ~26 |
 | Going Overboard | 0.60% | ~26 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,334 (Ranked 217)  
+Progressed: 4,335 (Ranked 217)  
 Completed: 11 (0.25%) (Ranked 275)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -353,7 +353,7 @@ Completed: 11 (0.25%) (Ranked 275)
 | 2024-01-20 | 4,317 | 11 |
 | 2024-01-21 | 4,327 | 11 |
 | 2024-01-22 | 4,331 | 11 |
-| 2024-01-23 | 4,334 | 11 |
+| 2024-01-23 | 4,335 | 11 |
 ## Awards
 Max (Great for Beginners): 31  (Ranked 526)  
 Sum: 31 (Ranked 548)  

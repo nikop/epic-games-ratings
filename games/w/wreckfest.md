@@ -10,7 +10,7 @@ Rating: 4.24 (Ranked 941)
 | Dirty Roller | 34.00% | ~428 |
 | Regional Juniors Champion | 32.00% | ~403 |
 | Wheeler Dealer | 26.00% | ~327 |
-| Look Mom, I Can Fly | 25.00% | ~314 |
+| Look Mom, I Can Fly | 25.00% | ~315 |
 | National Amateurs Champion | 19.00% | ~239 |
 | Hating Them Tin Cans | 16.00% | ~201 |
 | Junk Collector | 15.00% | ~189 |
@@ -26,7 +26,7 @@ Rating: 4.24 (Ranked 941)
 | Human Lover | 0.50% | ~6 |
 | Rocketeer | 0.40% | ~5 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,258 (Ranked 289)  
+Progressed: 1,259 (Ranked 289)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -67,7 +67,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 1,230 | 0 |
 | 2024-01-21 | 1,240 | 0 |
 | 2024-01-22 | 1,253 | 0 |
-| 2024-01-23 | 1,258 | 0 |
+| 2024-01-23 | 1,259 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

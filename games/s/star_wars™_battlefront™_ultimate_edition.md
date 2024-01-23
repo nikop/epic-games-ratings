@@ -4,7 +4,7 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,675 |
+| New Recruit | 86.00% | ~2,676 |
 | Off to a good start | 60.00% | ~1,867 |
 | Do... or do not. There is no try | 52.00% | ~1,618 |
 | A good blaster at your side | 24.00% | ~747 |
@@ -55,10 +55,10 @@
 | A New Hope | 0.60% | ~19 |
 | When surrounded by war... | 0.60% | ~19 |
 | No such thing as luck | 0.50% | ~16 |
-| Do we take prisoners? | 0.50% | ~16 |
-| I’ll take that bet | 0.50% | ~16 |
 | Stop that Droid | 0.50% | ~16 |
 | Stay on target | 0.40% | ~12 |
+| Do we take prisoners? | 0.40% | ~12 |
+| I’ll take that bet | 0.40% | ~12 |
 | Greed can be a very powerful ally | 0.30% | ~9 |
 | That got him! | 0.20% | ~6 |
 | in a galaxy far, far away.... | 0.20% | ~6 |
@@ -68,7 +68,7 @@
 | Stay in attack formation | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,111 (Ranked 234)  
+Progressed: 3,112 (Ranked 234)  
 Completed: 1 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 1 (0.03%) (Ranked 364)
 | 2024-01-20 | 3,065 | 1 |
 | 2024-01-21 | 3,096 | 1 |
 | 2024-01-22 | 3,110 | 1 |
-| 2024-01-23 | 3,111 | 1 |
+| 2024-01-23 | 3,112 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

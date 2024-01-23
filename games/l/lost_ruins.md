@@ -41,7 +41,7 @@ Rating: 4.85 (Ranked 39)
 | Weapon Master | 1.00% | ~7 |
 | Witch | 1.00% | ~7 |
 | Assassin | 0.80% | ~6 |
-| Art Collector | 0.40% | ~3 |
+| Art Collector | 0.60% | ~4 |
 | Necromancer | 0.40% | ~3 |
 | Cryomancer | 0.30% | ~2 |
 | Hardboiled | 0.30% | ~2 |

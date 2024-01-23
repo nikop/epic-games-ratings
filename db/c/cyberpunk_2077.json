@@ -18956,9 +18956,9 @@
       "Count": 19955
     }
   ],
-  "EOS_Progressed": 1057563,
+  "EOS_Progressed": 1057599,
   "EOS_Completed": 3151,
-  "EOS_NewPlayers": 4877,
+  "EOS_NewPlayers": 4863,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50821,6 +50821,11 @@
       "Time": "2024-01-23T12:09:14.9766401+00:00",
       "NumProgressed": 1057563,
       "NumCompleted": 3151
+    },
+    {
+      "Time": "2024-01-23T13:16:55.9295806+00:00",
+      "NumProgressed": 1057599,
+      "NumCompleted": 3151
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50953,7 +50958,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "MaxPain",
@@ -51001,7 +51006,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "Roleplayer",
@@ -51009,7 +51014,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "Specialist",
@@ -51065,7 +51070,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "TheLovers",
@@ -51073,7 +51078,7 @@
       "Name": "The Lovers",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "TheStar",
@@ -51177,7 +51182,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6345
+      "UsersEstimate": 6346
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51368,21 +51373,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057563,
+      "Progressed": 1057599,
       "Completed": 3151
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186186,
+      "Progressed": 186222,
       "Completed": 10688
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-23T12:03:14.3221394+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:09:14.9766397+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:16:55.9295803+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-23T12:03:14.32214+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:09:14.9768092+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:10:59.3912592+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:16:55.9298005+00:00"
 }

@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 182,
-  "Ranking_EOS_NewCompleters": 73,
+  "Ranking_EOS_NewPlayers": 181,
+  "Ranking_EOS_NewCompleters": 72,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -6043,10 +6043,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8460,
       "NumberOfAwardsMax": 1200
+    },
+    {
+      "Time": "2024-01-23T13:07:01.3304177+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8462,
+      "NumberOfAwardsMax": 1200
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8460,
+  "NumberOfAwards": 8462,
   "NumberOfAwardsMax": 1200,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6114,12 +6120,12 @@
       "Text": "This game has Easy Combat",
       "Prefix": "This game has",
       "Type": "Easy Combat",
-      "Count": 561
+      "Count": 563
     }
   ],
-  "EOS_Progressed": 14299,
+  "EOS_Progressed": 14300,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 128,
+  "EOS_NewPlayers": 129,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -26042,6 +26048,11 @@
       "Time": "2024-01-23T11:10:02.4058358+00:00",
       "NumProgressed": 14299,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-23T13:17:08.9409391+00:00",
+      "NumProgressed": 14300,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 15,
@@ -26125,7 +26136,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9723
+      "UsersEstimate": 9724
     },
     {
       "ID": "Miner",
@@ -26141,7 +26152,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9580
+      "UsersEstimate": 9581
     },
     {
       "ID": "Renovator",
@@ -26165,23 +26176,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8436
+      "UsersEstimate": 8437
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14299,
+      "Progressed": 14300,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-23T04:59:17.7518403+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:09:28.1286127+00:00",
+  "LastChanged": "2024-01-23T13:07:01.3304176+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:17:08.9409387+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:59:21.3627736+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:09:28.1287172+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:07:01.3304182+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:17:08.9410152+00:00"
 }

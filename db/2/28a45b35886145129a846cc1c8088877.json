@@ -4,11 +4,11 @@
   "ProductSlug": "mortal-online-2-d7bb78",
   "Ranking_Rating": 802,
   "Ranking_Popularity": 490,
-  "Ranking_PopularitySum": 531,
+  "Ranking_PopularitySum": 532,
   "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 549,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-11T11:00:00+00:00",
     "PcReleaseDate": "2023-12-11T11:00:00+00:00",
@@ -249,6 +249,6 @@
   "FirstSeenRating": "2023-12-21T16:59:51.7204834+00:00",
   "LastChanged": "2024-01-21T13:59:53.0927682+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:44.329702+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:57:04.5672423+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:03:51.5814045+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:04:47.7234991+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:11:39.2691791+00:00"
 }

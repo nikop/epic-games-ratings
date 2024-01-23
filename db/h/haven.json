@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
   "Ranking_EOS_NewPlayers": 245,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
     "PcReleaseDate": null,
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2042,
+  "EOS_Progressed": 2044,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 32,
+  "EOS_NewPlayers": 33,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3905,6 +3905,11 @@
       "Time": "2024-01-23T12:08:16.6307699+00:00",
       "NumProgressed": 2042,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T13:16:00.0416861+00:00",
+      "NumProgressed": 2044,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3916,7 +3921,7 @@
       "Name": "Lovebirds",
       "Percentage": 41,
       "XP": 10,
-      "UsersEstimate": 837
+      "UsersEstimate": 838
     },
     {
       "ID": "10",
@@ -3924,7 +3929,7 @@
       "Name": "Perfect timing",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "11",
@@ -3932,7 +3937,7 @@
       "Name": "Strike!",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "12",
@@ -3948,7 +3953,7 @@
       "Name": "Unstoppable",
       "Percentage": 8,
       "XP": 100,
-      "UsersEstimate": 163
+      "UsersEstimate": 164
     },
     {
       "ID": "14",
@@ -3980,7 +3985,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1429
+      "UsersEstimate": 1431
     },
     {
       "ID": "18",
@@ -4044,7 +4049,7 @@
       "Name": "In my shoes",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "25",
@@ -4068,7 +4073,7 @@
       "Name": "A love supreme",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 306
+      "UsersEstimate": 307
     },
     {
       "ID": "3",
@@ -4076,7 +4081,7 @@
       "Name": "Hug therapy",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 735
+      "UsersEstimate": 736
     },
     {
       "ID": "30",
@@ -4140,7 +4145,7 @@
       "Name": "Over my dead body",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 674
+      "UsersEstimate": 675
     },
     {
       "ID": "9",
@@ -4155,15 +4160,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2042,
+      "Progressed": 2044,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:08:16.6307696+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:16:00.0416857+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:58:45.1346789+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:08:16.6308232+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:06:24.9566435+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:16:00.0417286+00:00"
 }

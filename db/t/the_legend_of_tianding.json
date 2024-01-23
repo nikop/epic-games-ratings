@@ -4,8 +4,8 @@
   "ProductSlug": "the-legend-of-tianding",
   "Ranking_EOS_Progress": 506,
   "Ranking_EOS_Completed": 65,
-  "Ranking_EOS_NewPlayers": 362,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-11-02T01:00:00+00:00",
     "PcReleaseDate": "2021-11-02T01:00:00+00:00",
@@ -570,9 +570,9 @@
       "ID": "BeatBossWang",
       "SetID": "123m9l1",
       "Name": "Eat the Rich",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 100,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "BigEater",
@@ -626,9 +626,9 @@
       "ID": "FinishTutorialStage",
       "SetID": "123m9l1",
       "Name": "Hero Arrives",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "HardcorePlayer",
@@ -747,8 +747,8 @@
   "FirstSeenRating": "2023-03-31T05:57:26.4162091+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:36.7817696+00:00",
   "LastChanged": "2023-03-31T05:57:26.4162092+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:05:01.3843857+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:12:48.083937+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.1588271+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:57:23.8637369+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:05:01.3844062+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:05:06.7144644+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:12:48.083965+00:00"
 }

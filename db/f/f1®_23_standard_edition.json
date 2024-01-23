@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 165,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 134,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-16T04:00:00+00:00",
     "PcReleaseDate": "2023-06-13T04:00:00+00:00",
@@ -1635,9 +1635,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18637,
+  "EOS_Progressed": 18639,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 371,
+  "EOS_NewPlayers": 372,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12655,6 +12655,11 @@
       "Time": "2024-01-23T12:04:45.2320085+00:00",
       "NumProgressed": 18637,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T13:12:31.7839275+00:00",
+      "NumProgressed": 18639,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12707,7 +12712,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13046
+      "UsersEstimate": 13047
     },
     {
       "ID": "achievement_0007",
@@ -12715,7 +12720,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16960
+      "UsersEstimate": 16961
     },
     {
       "ID": "achievement_0008",
@@ -12723,7 +12728,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15469
+      "UsersEstimate": 15470
     },
     {
       "ID": "achievement_0009",
@@ -12779,7 +12784,7 @@
       "Name": "Lightning Round the World",
       "Percentage": 9,
       "XP": 30,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "achievement_0016",
@@ -12827,15 +12832,15 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12673
+      "UsersEstimate": 12675
     },
     {
       "ID": "achievement_0022",
       "SetID": "9123ogc",
       "Name": "A Dozen Pieces",
-      "Percentage": 25,
+      "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4846
     },
     {
       "ID": "achievement_0023",
@@ -12883,7 +12888,7 @@
       "Name": "Spinning Around",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 1677
+      "UsersEstimate": 1678
     },
     {
       "ID": "achievement_0029",
@@ -12923,7 +12928,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8573
+      "UsersEstimate": 8574
     },
     {
       "ID": "achievement_0034",
@@ -12939,7 +12944,7 @@
       "Name": "Living up to Expectations",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_0036",
@@ -12971,7 +12976,7 @@
       "Name": "Smooth Operator",
       "Percentage": 4,
       "XP": 40,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_0040",
@@ -13011,7 +13016,7 @@
       "Name": "Going the Extra Mile",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 6709
+      "UsersEstimate": 6710
     },
     {
       "ID": "achievement_0045",
@@ -13019,7 +13024,7 @@
       "Name": "Making History",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 4659
+      "UsersEstimate": 4660
     },
     {
       "ID": "achievement_0046",
@@ -13027,7 +13032,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3727
+      "UsersEstimate": 3728
     },
     {
       "ID": "achievement_0047",
@@ -13035,7 +13040,7 @@
       "Name": "Peak Performance",
       "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 745
+      "UsersEstimate": 746
     },
     {
       "ID": "achievement_0048",
@@ -13058,7 +13063,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18637,
+      "Progressed": 18639,
       "Completed": 0
     }
   ],
@@ -13066,8 +13071,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-22T22:59:50.9821634+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:04:45.2320081+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:12:31.7839271+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-23T12:00:05.318775+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:04:45.2321193+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:07:46.0545168+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:12:31.7839967+00:00"
 }

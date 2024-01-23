@@ -1,12 +1,12 @@
 # Redfall
 [Store](https://store.epicgames.com/en-US/p/redfall)  
 [View Rawdata](../../db/r/redfall.json)  
-Rating: 3.67 (Ranked 1,107)  
+Rating: 3.66 (Ranked 1,107)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | I Like My Stakes Rare! | 24.00% | ~579 |
-| Catch and Release | 18.00% | ~434 |
+| Catch and Release | 18.00% | ~435 |
 | Home Is Where the Heart Is | 17.00% | ~410 |
 | Wounded Whispers | 17.00% | ~410 |
 | ICU | 16.00% | ~386 |
@@ -15,10 +15,10 @@ Rating: 3.67 (Ranked 1,107)
 | Peek-a-boo | 14.00% | ~338 |
 | Fly Fisher | 13.00% | ~314 |
 | Sucks To Be You | 13.00% | ~314 |
-| Enter of Your Own Free Will | 11.00% | ~265 |
-| Welcome to the Neighborhood | 11.00% | ~265 |
-| Throw The First Stone | 11.00% | ~265 |
-| Heart Attack | 11.00% | ~265 |
+| Enter of Your Own Free Will | 11.00% | ~266 |
+| Welcome to the Neighborhood | 11.00% | ~266 |
+| Throw The First Stone | 11.00% | ~266 |
+| Heart Attack | 11.00% | ~266 |
 | Grounded | 10.00% | ~241 |
 | Skin of Their Teeth | 10.00% | ~241 |
 | Neighborhood Revitalization | 7.00% | ~169 |
@@ -72,7 +72,7 @@ Rating: 3.67 (Ranked 1,107)
 | Say Goodbye, Joe | 0.00% | ~0 |
 | Avenging the Good Doctor | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,413 (Ranked 248)  
+Progressed: 2,414 (Ranked 248)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -227,13 +227,14 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 2,408 | 0 |
 | 2024-01-21 | 2,412 | 0 |
 | 2024-01-22 | 2,413 | 0 |
+| 2024-01-23 | 2,414 | 0 |
 ## Awards
-Max (Great Boss Battles): 28  (Ranked 542)  
-Sum: 28 (Ranked 558)  
-Diff (max vs sum): -16  
+Max (Great Boss Battles): 29  (Ranked 538)  
+Sum: 29 (Ranked 555)  
+Diff (max vs sum): -17  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 28 |
+| This game has Great Boss Battles | 29 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -295,3 +296,4 @@ Diff (max vs sum): -16
 | 2024-01-19 | 3.67 | 26 | 26 |
 | 2024-01-20 | 3.66 | 27 | 27 |
 | 2024-01-21 | 3.67 | 28 | 28 |
+| 2024-01-23 | 3.66 | 29 | 29 |

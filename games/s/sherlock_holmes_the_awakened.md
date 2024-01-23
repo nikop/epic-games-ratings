@@ -23,10 +23,10 @@ Rating: 4.51 (Ranked 601)
 | No Man Is An Island | 40.00% | ~646 |
 | At Wits' End | 39.00% | ~630 |
 | Fhtagn! | 38.00% | ~614 |
+| Bookworm | 37.00% | ~598 |
 | Up In Flames | 37.00% | ~598 |
-| Bookworm | 36.00% | ~581 |
 | Going Once... | 35.00% | ~565 |
-| Let Me Be Frank | 33.00% | ~533 |
+| Let Me Be Frank | 34.00% | ~549 |
 | No Stone Unturned | 31.00% | ~501 |
 | Brain Food | 29.00% | ~468 |
 | Read It And Weep | 20.00% | ~323 |

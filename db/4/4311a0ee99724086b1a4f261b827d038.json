@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 74,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 85,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-07-27T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -917,9 +917,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 244784,
+  "EOS_Progressed": 244790,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1097,
+  "EOS_NewPlayers": 1091,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -22307,6 +22307,11 @@
       "Time": "2024-01-23T12:10:14.1286686+00:00",
       "NumProgressed": 244784,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T13:17:53.6679584+00:00",
+      "NumProgressed": 244790,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-07-20T15:00:41.6482091+00:00",
@@ -22367,7 +22372,7 @@
       "Name": "Hiigara Completed",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "HW1_MISSION1_COMPLETE",
@@ -22375,7 +22380,7 @@
       "Name": "Kharak System Completed",
       "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 51405
+      "UsersEstimate": 51406
     },
     {
       "ID": "HW1_MISSION2_COMPLETE",
@@ -22391,7 +22396,7 @@
       "Name": "Return to Kharak",
       "Percentage": 5,
       "XP": 30,
-      "UsersEstimate": 12239
+      "UsersEstimate": 12240
     },
     {
       "ID": "HW1_MISSION4_COMPLETE",
@@ -22399,7 +22404,7 @@
       "Name": "Great Wastelands Completed",
       "Percentage": 4,
       "XP": 30,
-      "UsersEstimate": 9791
+      "UsersEstimate": 9792
     },
     {
       "ID": "HW1_MISSION5_COMPLETE",
@@ -22455,7 +22460,7 @@
       "Name": "Keepers of Sajuuk Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "HW2_MISSION11_COMPLETE",
@@ -22463,7 +22468,7 @@
       "Name": "Sacrifice Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "HW2_MISSION12_COMPLETE",
@@ -22479,7 +22484,7 @@
       "Name": "Balcora Gate Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "HW2_MISSION14_COMPLETE",
@@ -22503,7 +22508,7 @@
       "Name": "Tanis Completed",
       "Percentage": 14,
       "XP": 5,
-      "UsersEstimate": 34270
+      "UsersEstimate": 34271
     },
     {
       "ID": "HW2_MISSION2_COMPLETE",
@@ -22551,7 +22556,7 @@
       "Name": "Derelicts Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "HW2_MISSION8_COMPLETE",
@@ -22559,7 +22564,7 @@
       "Name": "Dreadnaught Berth Complete",
       "Percentage": 0.7,
       "XP": 35,
-      "UsersEstimate": 1713
+      "UsersEstimate": 1714
     },
     {
       "ID": "HW2_MISSION9_COMPLETE",
@@ -22575,7 +22580,7 @@
       "Name": "Graduated Command School",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 61196
+      "UsersEstimate": 61198
     },
     {
       "ID": "RR_OEM_MISSION1_COMPLETE",
@@ -22590,7 +22595,7 @@
     {
       "ID": "ae07go3",
       "IsBase": true,
-      "Progressed": 244784,
+      "Progressed": 244790,
       "Completed": 0
     }
   ],
@@ -22598,8 +22603,8 @@
   "FirstSeenRating": "2023-07-29T12:59:22.4734781+00:00",
   "FirstSeenAchievements": "2023-07-20T15:00:41.648209+00:00",
   "LastChanged": "2024-01-23T11:58:26.4835625+00:00",
-  "LastChanged_Achievements": "2024-01-23T12:10:14.1286683+00:00",
+  "LastChanged_Achievements": "2024-01-23T13:17:53.6679579+00:00",
   "LastUpdate_AppInfo": "2024-01-19T07:57:06.6746443+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:58:26.4835637+00:00",
-  "LastUpdate_Achievements": "2024-01-23T12:10:14.1287806+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:06:08.4063272+00:00",
+  "LastUpdate_Achievements": "2024-01-23T13:17:53.6680793+00:00"
 }
