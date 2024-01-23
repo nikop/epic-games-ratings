@@ -6,10 +6,10 @@ Rating: 4.54 (Ranked 554)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Welcome To Hell-A | 11.00% | ~88,922 |
-| Hotel California | 10.00% | ~80,838 |
-| Break A Leg | 9.00% | ~72,754 |
-| Coup de Grâce | 8.00% | ~64,670 |
-| Hazardous Materials | 8.00% | ~64,670 |
+| Hotel California | 10.00% | ~80,839 |
+| Break A Leg | 9.00% | ~72,755 |
+| Coup de Grâce | 8.00% | ~64,671 |
+| Hazardous Materials | 8.00% | ~64,671 |
 | Git Gutte! | 7.00% | ~56,587 |
 | Apex Predator | 7.00% | ~56,587 |
 | Personal Assistant Personally Assisted | 7.00% | ~56,587 |
@@ -33,12 +33,12 @@ Rating: 4.54 (Ranked 554)
 | Our True Nature | 4.00% | ~32,335 |
 | Whatever It Takes | 4.00% | ~5,357 |
 | Pork Chopped | 4.00% | ~5,357 |
-| Jumbo Keyring | 3.00% | ~24,251 |
-| Humanity Distilled | 3.00% | ~24,251 |
-| Down with the Sickness | 3.00% | ~24,251 |
-| Max Headroom | 3.00% | ~24,251 |
-| Go, Bobcats! | 3.00% | ~24,251 |
-| Rising Star | 3.00% | ~24,251 |
+| Jumbo Keyring | 3.00% | ~24,252 |
+| Humanity Distilled | 3.00% | ~24,252 |
+| Down with the Sickness | 3.00% | ~24,252 |
+| Max Headroom | 3.00% | ~24,252 |
+| Go, Bobcats! | 3.00% | ~24,252 |
+| Rising Star | 3.00% | ~24,252 |
 | One of Us | 3.00% | ~4,018 |
 | Make it So | 2.00% | ~16,168 |
 | Smorgasbord | 2.00% | ~16,168 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 554)
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,379 (Ranked 23)  
+Progressed: 808,386 (Ranked 23)  
 Completed: 2,624 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 2,624 (0.32%) (Ranked 261)
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
-| 2024-01-23 | 808,379 | 2,624 |
+| 2024-01-23 | 808,386 | 2,624 |
 ## Awards
 Max (Great Boss Battles): 10,811  (Ranked 40)  
 Sum: 16,637 (Ranked 68)  

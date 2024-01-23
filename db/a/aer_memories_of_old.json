@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 145,
   "Ranking_EOS_Completed": 145,
   "Ranking_EOS_NewPlayers": 125,
-  "Ranking_EOS_NewCompleters": 28,
+  "Ranking_EOS_NewCompleters": 29,
   "Store": {
     "ReleaseDate": "2020-06-25T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -431,9 +431,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 29329,
+  "EOS_Progressed": 29330,
   "EOS_Completed": 540,
-  "EOS_NewPlayers": 532,
+  "EOS_NewPlayers": 528,
   "EOS_NewCompleters": 11,
   "EOS_Completed_Percentage": 1.84,
   "EosHistory": [
@@ -30376,6 +30376,11 @@
       "Time": "2024-01-23T01:56:54.2408297+00:00",
       "NumProgressed": 29329,
       "NumCompleted": 540
+    },
+    {
+      "Time": "2024-01-23T02:34:22.0768146+00:00",
+      "NumProgressed": 29330,
+      "NumCompleted": 540
     }
   ],
   "TotalAchievements": 20,
@@ -30443,7 +30448,7 @@
       "Name": "Wings of Stone",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "FOUND_DEER_STATUE",
@@ -30499,7 +30504,7 @@
       "Name": "Equilibrium",
       "Percentage": 12,
       "XP": 50,
-      "UsersEstimate": 3519
+      "UsersEstimate": 3520
     },
     {
       "ID": "INTRO_FINISHED",
@@ -30507,7 +30512,7 @@
       "Name": "Light at the end of the tunnel",
       "Percentage": 76,
       "XP": 50,
-      "UsersEstimate": 22290
+      "UsersEstimate": 22291
     },
     {
       "ID": "LAMBABY_LOVE",
@@ -30546,15 +30551,15 @@
     {
       "ID": "b6m2mm5",
       "IsBase": true,
-      "Progressed": 29329,
+      "Progressed": 29330,
       "Completed": 540
     }
   ],
   "FirstSeen": "2022-07-22T20:31:57.2410231+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:31.7860486+00:00",
   "LastChanged": "2024-01-11T07:57:26.7354656+00:00",
-  "LastChanged_Achievements": "2024-01-23T01:56:54.2408293+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:34:22.0768142+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:53.7554708+00:00",
-  "LastUpdate_Ratings": "2024-01-23T01:50:23.4319411+00:00",
-  "LastUpdate_Achievements": "2024-01-23T01:56:54.2410402+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:27:31.7440114+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:34:22.0769941+00:00"
 }

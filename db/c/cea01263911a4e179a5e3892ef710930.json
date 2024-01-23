@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 252,
   "Ranking_EOS_NewPlayers": 110,
-  "Ranking_EOS_NewCompleters": 40,
+  "Ranking_EOS_NewCompleters": 41,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94050,
+  "EOS_Progressed": 94052,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 642,
+  "EOS_NewPlayers": 639,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18864,6 +18864,11 @@
       "Time": "2024-01-23T01:55:51.5740199+00:00",
       "NumProgressed": 94050,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2024-01-23T02:32:51.8746726+00:00",
+      "NumProgressed": 94052,
+      "NumCompleted": 351
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -18876,7 +18881,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 75240
+      "UsersEstimate": 75242
     },
     {
       "ID": "grp_beet",
@@ -18892,7 +18897,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 72418
+      "UsersEstimate": 72420
     },
     {
       "ID": "grp_endless",
@@ -18916,7 +18921,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 23512
+      "UsersEstimate": 23513
     },
     {
       "ID": "grp_level10",
@@ -18964,7 +18969,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 50787
+      "UsersEstimate": 50788
     },
     {
       "ID": "grp_money_tree",
@@ -18972,7 +18977,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 69597
+      "UsersEstimate": 69598
     },
     {
       "ID": "grp_speed",
@@ -18980,7 +18985,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 45144
+      "UsersEstimate": 45145
     },
     {
       "ID": "grp_stone",
@@ -19004,14 +19009,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 8464
+      "UsersEstimate": 8465
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 94050,
+      "Progressed": 94052,
       "Completed": 351
     }
   ],
@@ -19019,8 +19024,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-21T08:00:17.9135113+00:00",
-  "LastChanged_Achievements": "2024-01-23T01:55:51.5740195+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:32:51.8746723+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:11.6108268+00:00",
-  "LastUpdate_Ratings": "2024-01-23T01:53:29.0824883+00:00",
-  "LastUpdate_Achievements": "2024-01-23T01:55:51.5741699+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:29:19.0919611+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:32:51.8747821+00:00"
 }

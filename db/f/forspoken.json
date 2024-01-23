@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 490,
   "Ranking_EOS_Progress": 129,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 141,
+  "Ranking_EOS_NewPlayers": 140,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-01-24T17:00:00+00:00",
@@ -679,9 +679,9 @@
       "Count": 27
     }
   ],
-  "EOS_Progressed": 47663,
+  "EOS_Progressed": 47665,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 348,
+  "EOS_NewPlayers": 349,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -19679,6 +19679,11 @@
       "Time": "2024-01-23T01:54:11.1767754+00:00",
       "NumProgressed": 47663,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T02:30:26.1294265+00:00",
+      "NumProgressed": 47665,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 53,
@@ -20042,7 +20047,7 @@
       "Name": "Call of the Fount: Baptized",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3336
+      "UsersEstimate": 3337
     },
     {
       "ID": "STAYING_AIR",
@@ -20113,22 +20118,22 @@
     {
       "ID": "6d0g7k8",
       "IsBase": true,
-      "Progressed": 47663,
+      "Progressed": 47665,
       "Completed": 4
     },
     {
       "ID": "be0b2",
       "IsBase": false,
-      "Progressed": 12500,
-      "Completed": 12500
+      "Progressed": 12502,
+      "Completed": 12502
     }
   ],
   "FirstSeen": "2023-01-24T17:57:26.2449142+00:00",
   "FirstSeenRating": "2023-01-28T02:09:06.4755932+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:03.539143+00:00",
   "LastChanged": "2024-01-21T17:03:49.086987+00:00",
-  "LastChanged_Achievements": "2024-01-23T01:54:11.1767752+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:30:26.1294262+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.5736764+00:00",
-  "LastUpdate_Ratings": "2024-01-23T01:53:47.3537225+00:00",
-  "LastUpdate_Achievements": "2024-01-23T01:54:11.1769584+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:29:47.1245972+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:30:26.1295734+00:00"
 }

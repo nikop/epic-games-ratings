@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126137,
+  "EOS_Progressed": 126143,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2736,
+  "EOS_NewPlayers": 2730,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5600,6 +5600,11 @@
       "Time": "2024-01-23T01:55:10.2782826+00:00",
       "NumProgressed": 126137,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T02:31:51.6160604+00:00",
+      "NumProgressed": 126143,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5676,7 +5681,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13875
+      "UsersEstimate": 13876
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5684,7 +5689,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25227
+      "UsersEstimate": 25229
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5780,7 +5785,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11352
+      "UsersEstimate": 11353
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -5876,7 +5881,7 @@
       "Name": "Home Sweet Home?",
       "Percentage": 6,
       "XP": 15,
-      "UsersEstimate": 7568
+      "UsersEstimate": 7569
     },
     {
       "ID": "ACH_ZERO_SUM_GAME",
@@ -5891,7 +5896,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126137,
+      "Progressed": 126143,
       "Completed": 0
     }
   ],
@@ -5899,8 +5904,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-23T01:55:10.2782823+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:31:51.6160599+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-23T01:49:12.5353532+00:00",
-  "LastUpdate_Achievements": "2024-01-23T01:55:10.2783321+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:25:42.3843833+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:31:51.6162023+00:00"
 }

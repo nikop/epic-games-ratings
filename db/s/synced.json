@@ -1887,9 +1887,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 89992,
+  "EOS_Progressed": 89996,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2164,
+  "EOS_NewPlayers": 2161,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -17807,6 +17807,11 @@
       "Time": "2024-01-23T01:56:15.6006108+00:00",
       "NumProgressed": 89992,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-23T02:33:25.8572019+00:00",
+      "NumProgressed": 89996,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -17819,7 +17824,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42296
+      "UsersEstimate": 42298
     },
     {
       "ID": "10",
@@ -17859,7 +17864,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 7199
+      "UsersEstimate": 7200
     },
     {
       "ID": "15",
@@ -17883,7 +17888,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18898
+      "UsersEstimate": 18899
     },
     {
       "ID": "3",
@@ -17899,7 +17904,7 @@
       "Name": "No Time to Follow Protocol",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 8099
+      "UsersEstimate": 8100
     },
     {
       "ID": "5",
@@ -17907,7 +17912,7 @@
       "Name": "Float Like a Butterfly...",
       "Percentage": 7,
       "XP": 25,
-      "UsersEstimate": 6299
+      "UsersEstimate": 6300
     },
     {
       "ID": "6",
@@ -17923,7 +17928,7 @@
       "Name": "More Power to You",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23398
+      "UsersEstimate": 23399
     },
     {
       "ID": "8",
@@ -17946,7 +17951,7 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 89992,
+      "Progressed": 89996,
       "Completed": 76
     }
   ],
@@ -17954,8 +17959,8 @@
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
   "LastChanged": "2024-01-22T08:57:17.3689079+00:00",
-  "LastChanged_Achievements": "2024-01-23T01:56:15.6006104+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:33:25.8572016+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-23T01:48:17.4733465+00:00",
-  "LastUpdate_Achievements": "2024-01-23T01:56:15.600695+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:24:15.7492097+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:33:25.8573158+00:00"
 }

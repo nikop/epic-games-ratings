@@ -10147,10 +10147,16 @@
       "Rating": 4.71,
       "NumberOfAwards": 28897,
       "NumberOfAwardsMax": 7801
+    },
+    {
+      "Time": "2024-01-23T02:25:09.3718798+00:00",
+      "Rating": 4.71,
+      "NumberOfAwards": 28899,
+      "NumberOfAwardsMax": 7801
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 28897,
+  "NumberOfAwards": 28899,
   "NumberOfAwardsMax": 7801,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10212,7 +10218,7 @@
       "Text": "This game has Realistic Visuals",
       "Prefix": "This game has",
       "Type": "Realistic Visuals",
-      "Count": 1705
+      "Count": 1707
     },
     {
       "Text": "This game is Relaxing",
@@ -10233,7 +10239,7 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818767,
+  "EOS_Progressed": 818769,
   "EOS_Completed": 53,
   "EOS_NewPlayers": 1068,
   "EOS_NewCompleters": 0,
@@ -41663,6 +41669,11 @@
       "Time": "2024-01-23T02:00:57.0625151+00:00",
       "NumProgressed": 818767,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-23T02:37:30.4177825+00:00",
+      "NumProgressed": 818769,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41754,7 +41765,7 @@
       "Name": "Blacksmith\u0027s Son",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 262005
+      "UsersEstimate": 262006
     },
     {
       "ID": "Bookworm",
@@ -41786,7 +41797,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212879
+      "UsersEstimate": 212880
     },
     {
       "ID": "Chivalrous",
@@ -41874,7 +41885,7 @@
       "Name": "Fatso",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 188316
+      "UsersEstimate": 188317
     },
     {
       "ID": "Fighter",
@@ -42154,7 +42165,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163753
+      "UsersEstimate": 163754
     },
     {
       "ID": "RevenantOfLedechko",
@@ -42194,7 +42205,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163753
+      "UsersEstimate": 163754
     },
     {
       "ID": "SerialKiller",
@@ -42210,7 +42221,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 90064
+      "UsersEstimate": 90065
     },
     {
       "ID": "Sniper",
@@ -42282,7 +42293,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 90064
+      "UsersEstimate": 90065
     },
     {
       "ID": "TrialAndError",
@@ -42329,15 +42340,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818767,
+      "Progressed": 818769,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
-  "LastChanged": "2024-01-22T19:58:45.3990111+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:00:57.0625149+00:00",
+  "LastChanged": "2024-01-23T02:25:09.3718796+00:00",
+  "LastChanged_Achievements": "2024-01-23T02:37:30.4177822+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.3609649+00:00",
-  "LastUpdate_Ratings": "2024-01-23T01:48:51.8944354+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:00:57.0626982+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:25:09.3718802+00:00",
+  "LastUpdate_Achievements": "2024-01-23T02:37:30.4179477+00:00"
 }

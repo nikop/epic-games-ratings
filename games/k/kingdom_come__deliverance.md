@@ -6,20 +6,20 @@ Number of Ratings: 9,133  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blacksmith's Son | 32.00% | ~262,005 |
-| Cavalier | 26.00% | ~212,879 |
-| Fatso | 23.00% | ~188,316 |
+| Blacksmith's Son | 32.00% | ~262,006 |
+| Cavalier | 26.00% | ~212,880 |
+| Fatso | 23.00% | ~188,317 |
 | Awakening | 21.00% | ~171,941 |
-| Ranger | 20.00% | ~163,753 |
-| Scrooge | 20.00% | ~163,753 |
+| Ranger | 20.00% | ~163,754 |
+| Scrooge | 20.00% | ~163,754 |
 | Anorectic | 16.00% | ~131,003 |
 | Firestarter | 16.00% | ~131,003 |
 | Bookworm | 15.00% | ~122,815 |
 | Insomniac | 13.00% | ~106,440 |
 | Buddy | 12.00% | ~98,252 |
 | Thief | 12.00% | ~98,252 |
-| Sinner | 11.00% | ~90,064 |
-| Traveller | 11.00% | ~90,064 |
+| Sinner | 11.00% | ~90,065 |
+| Traveller | 11.00% | ~90,065 |
 | Convict | 10.00% | ~81,877 |
 | Haggler | 10.00% | ~81,877 |
 | McLovin | 7.00% | ~57,314 |
@@ -89,7 +89,7 @@ Number of Ratings: 9,133  (23.09.2022)
 | Voyeur | 0.10% | ~819 |
 | Wingman | 0.10% | ~819 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 818,767 (Ranked 22)  
+Progressed: 818,769 (Ranked 22)  
 Completed: 53 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -367,10 +367,10 @@ Completed: 53 (0.01%) (Ranked 383)
 | 2024-01-20 | 818,409 | 53 |
 | 2024-01-21 | 818,592 | 53 |
 | 2024-01-22 | 818,753 | 53 |
-| 2024-01-23 | 818,767 | 53 |
+| 2024-01-23 | 818,769 | 53 |
 ## Awards
 Max (Character Customization): 7,801  (Ranked 54)  
-Sum: 28,897 (Ranked 50)  
+Sum: 28,899 (Ranked 50)  
 Diff (max vs sum): 4  
 | Award | Count |
 | ----- | ----- |
@@ -381,7 +381,7 @@ Diff (max vs sum): 4
 | This game has Amazing Storytelling | 1,755 |
 | This game is Highly Recommended | 1,731 |
 | This game is Extremely Fun | 1,719 |
-| This game has Realistic Visuals | 1,705 |
+| This game has Realistic Visuals | 1,707 |
 | This game has Amazing Characters | 1,703 |
 | This game is Educational | 1,639 |
 | This game is Relaxing | 1,565 |
@@ -750,3 +750,4 @@ Diff (max vs sum): 4
 | 2024-01-20 | 4.71 | - | 7,796 | 28,881 |
 | 2024-01-21 | 4.71 | - | 7,796 | 28,888 |
 | 2024-01-22 | 4.71 | - | 7,801 | 28,897 |
+| 2024-01-23 | 4.71 | - | 7,801 | 28,899 |
