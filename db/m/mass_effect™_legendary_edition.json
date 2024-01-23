@@ -4,8 +4,8 @@
   "ProductSlug": "mass-effect-legendary-edition",
   "Ranking_EOS_Progress": 212,
   "Ranking_EOS_Completed": 264,
-  "Ranking_EOS_NewPlayers": 161,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2022-06-15T15:00:00+00:00",
     "PcReleaseDate": "2021-05-14T15:00:00+00:00",
@@ -20,7 +20,7 @@
   "Tags": [],
   "EOS_Progressed": 4628,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 209,
+  "EOS_NewPlayers": 207,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -9034,9 +9034,9 @@
       "ID": "achievement_100",
       "SetID": "d252ncf",
       "Name": "A Personal Touch",
-      "Percentage": 22,
+      "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1018
+      "UsersEstimate": 1064
     },
     {
       "ID": "achievement_101",
@@ -9138,9 +9138,9 @@
       "ID": "achievement_112",
       "SetID": "d252ncf",
       "Name": "Gunsmith",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 46
+      "UsersEstimate": 93
     },
     {
       "ID": "achievement_113",
@@ -9514,9 +9514,9 @@
       "ID": "achievement_40",
       "SetID": "b9pe172",
       "Name": "Suicide Mission",
-      "Percentage": 20,
+      "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 926
+      "UsersEstimate": 972
     },
     {
       "ID": "achievement_41",
@@ -9778,9 +9778,9 @@
       "ID": "achievement_70",
       "SetID": "d252ncf",
       "Name": "Operative",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 1296
+      "UsersEstimate": 1342
     },
     {
       "ID": "achievement_71",
@@ -9938,9 +9938,9 @@
       "ID": "achievement_89",
       "SetID": "d252ncf",
       "Name": "Last Witness",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 25,
-      "UsersEstimate": 648
+      "UsersEstimate": 694
     },
     {
       "ID": "achievement_9",
@@ -10046,8 +10046,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-07-27T20:03:19.7839847+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:10:19.6082012+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:10:16.3638276+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:50.7721604+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:03:22.3501995+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:10:19.6083707+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:03:30.928409+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:10:16.3640091+00:00"
 }

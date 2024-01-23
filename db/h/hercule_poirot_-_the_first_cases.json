@@ -6,8 +6,8 @@
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 360,
-  "Ranking_EOS_Completed": 159,
-  "Ranking_EOS_NewPlayers": 397,
+  "Ranking_EOS_Completed": 158,
+  "Ranking_EOS_NewPlayers": 395,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-02-28T00:00:00+00:00",
@@ -975,9 +975,9 @@
       "ID": "ACH_014",
       "SetID": "72imik0",
       "Name": "Order and Method",
-      "Percentage": 51,
+      "Percentage": 52,
       "XP": 15,
-      "UsersEstimate": 260
+      "UsersEstimate": 265
     },
     {
       "ID": "ACH_015",
@@ -1023,9 +1023,9 @@
       "ID": "ACH_02",
       "SetID": "72imik0",
       "Name": "The Blackmail",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_020",
@@ -1111,9 +1111,9 @@
       "ID": "ACH_03",
       "SetID": "72imik0",
       "Name": "The Altercation",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 25,
-      "UsersEstimate": 245
+      "UsersEstimate": 250
     },
     {
       "ID": "ACH_030",
@@ -1167,9 +1167,9 @@
       "ID": "ACH_036",
       "SetID": "72imik0",
       "Name": "Ernesto da Silva",
-      "Percentage": 32,
+      "Percentage": 33,
       "XP": 25,
-      "UsersEstimate": 163
+      "UsersEstimate": 168
     },
     {
       "ID": "ACH_037",
@@ -1231,9 +1231,9 @@
       "ID": "ACH_043",
       "SetID": "72imik0",
       "Name": "Major Felix Hagen",
-      "Percentage": 53,
+      "Percentage": 54,
       "XP": 25,
-      "UsersEstimate": 270
+      "UsersEstimate": 275
     },
     {
       "ID": "ACH_044",
@@ -1255,9 +1255,9 @@
       "ID": "ACH_046",
       "SetID": "72imik0",
       "Name": "Zakariya Demir",
-      "Percentage": 40,
+      "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 209
     },
     {
       "ID": "ACH_05",
@@ -1312,8 +1312,8 @@
   "FirstSeenRating": "2023-01-28T08:58:06.9323918+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:42.646456+00:00",
   "LastChanged": "2024-01-03T10:03:27.8684847+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:08:54.568428+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:08:55.4363253+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.6494504+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:03:10.2490656+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:08:54.5684632+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:03:20.1602032+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:08:55.436364+00:00"
 }

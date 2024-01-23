@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 487,
   "Ranking_EOS_Progress": 60,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 48,
+  "Ranking_EOS_NewPlayers": 49,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-28T15:00:00+00:00",
@@ -509,9 +509,9 @@
       "Count": 82
     }
   ],
-  "EOS_Progressed": 349090,
+  "EOS_Progressed": 349105,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 2746,
+  "EOS_NewPlayers": 2739,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -14474,6 +14474,11 @@
       "Time": "2024-01-23T21:09:10.163776+00:00",
       "NumProgressed": 349090,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-23T22:09:09.7091998+00:00",
+      "NumProgressed": 349105,
+      "NumCompleted": 7
     }
   ],
   "AchievementsAdded": "2023-09-28T16:04:59.024153+00:00",
@@ -14486,7 +14491,7 @@
       "Name": "May the Torchbearer light our way",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 17454
+      "UsersEstimate": 17455
     },
     {
       "ID": "S02_BRDA",
@@ -14622,7 +14627,7 @@
       "Name": "The touch of Chaos",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 20945
+      "UsersEstimate": 20946
     },
     {
       "ID": "S19_CHALLENGES",
@@ -14790,7 +14795,7 @@
       "Name": "I took a risk",
       "Percentage": 0.5,
       "XP": 15,
-      "UsersEstimate": 1745
+      "UsersEstimate": 1746
     },
     {
       "ID": "S40_BONUS",
@@ -14805,7 +14810,7 @@
     {
       "ID": "4j44ol8",
       "IsBase": true,
-      "Progressed": 349090,
+      "Progressed": 349105,
       "Completed": 7
     }
   ],
@@ -14813,8 +14818,8 @@
   "FirstSeenRating": "2023-09-29T19:00:17.3026685+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.0976206+00:00",
   "LastChanged": "2024-01-17T11:00:14.890062+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:09:10.1637757+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:09:09.7091994+00:00",
   "LastUpdate_AppInfo": "2024-01-19T01:46:42.0105606+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:59:36.7692691+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:09:10.1638518+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:59:38.5866821+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:09:09.7092877+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-shapeshifting-detective-ef0f21",
   "Ranking_EOS_Progress": 389,
   "Ranking_EOS_Completed": 195,
-  "Ranking_EOS_NewPlayers": 330,
+  "Ranking_EOS_NewPlayers": 325,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-10-28T05:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 347,
+  "EOS_Progressed": 348,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 10,
+  "EOS_NewPlayers": 11,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.86,
   "EosHistory": [
@@ -955,6 +955,11 @@
       "Time": "2024-01-23T09:08:53.4096257+00:00",
       "NumProgressed": 347,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T22:06:44.9649706+00:00",
+      "NumProgressed": 348,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 21,
@@ -990,7 +995,7 @@
       "Name": "Chameleon",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 69
+      "UsersEstimate": 70
     },
     {
       "ID": "chicken",
@@ -1054,7 +1059,7 @@
       "Name": "Play It Again Sam",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "play_me_by_the_hour",
@@ -1062,7 +1067,7 @@
       "Name": "Play Me By The Hour",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 239
+      "UsersEstimate": 240
     },
     {
       "ID": "poetent",
@@ -1094,7 +1099,7 @@
       "Name": "Strong Silent Type",
       "Percentage": 91,
       "XP": 10,
-      "UsersEstimate": 316
+      "UsersEstimate": 317
     },
     {
       "ID": "the_big_sleep",
@@ -1110,7 +1115,7 @@
       "Name": "Video Saved The Radio Star",
       "Percentage": 39,
       "XP": 35,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "voyeur",
@@ -1133,7 +1138,7 @@
     {
       "ID": "2db2j74",
       "IsBase": true,
-      "Progressed": 347,
+      "Progressed": 348,
       "Completed": 3
     }
   ],
@@ -1141,8 +1146,8 @@
   "FirstSeenRating": "2023-03-31T05:57:37.9107561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:57.7196515+00:00",
   "LastChanged": "2023-03-31T05:57:37.9107562+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:08:22.2144928+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:06:44.9649701+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:41.8700165+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:03:11.2945625+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:08:22.214516+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:03:21.3250975+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:06:44.9649926+00:00"
 }

@@ -11,7 +11,7 @@ Number of Ratings: 116  (23.09.2022)
 | Helping Hand | 65.00% | ~444 |
 | Increased Vigor | 61.00% | ~417 |
 | Fight Fire with Fire | 59.00% | ~403 |
-| Increased Capacity | 56.00% | ~382 |
+| Increased Capacity | 57.00% | ~389 |
 | Just the start | 51.00% | ~348 |
 | Perfect Storm | 47.00% | ~321 |
 | All That Glitters | 47.00% | ~321 |

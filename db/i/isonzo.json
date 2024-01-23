@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 371,
   "Ranking_EOS_Progress": 188,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 214,
+  "Ranking_EOS_NewPlayers": 211,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2022-09-13T11:00:00+00:00",
@@ -1099,9 +1099,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 10035,
+  "EOS_Progressed": 10037,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 66,
+  "EOS_NewPlayers": 68,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -11519,6 +11519,11 @@
       "Time": "2024-01-23T21:09:44.4564189+00:00",
       "NumProgressed": 10035,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T22:09:42.3159544+00:00",
+      "NumProgressed": 10037,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 45,
@@ -11546,7 +11551,7 @@
       "Name": "Avanti Savoia!",
       "Percentage": 44,
       "XP": 20,
-      "UsersEstimate": 4415
+      "UsersEstimate": 4416
     },
     {
       "ID": "ISONZO_ACH_CAN_I_GO_HOME_NOW",
@@ -11642,7 +11647,7 @@
       "Name": "Gabriele D\u0027Annunzio",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 3211
+      "UsersEstimate": 3212
     },
     {
       "ID": "ISONZO_ACH_GENERALISIMO",
@@ -11698,7 +11703,7 @@
       "Name": "Mamma Mia!",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 3512
+      "UsersEstimate": 3513
     },
     {
       "ID": "ISONZO_ACH_MILLENIAL",
@@ -11722,7 +11727,7 @@
       "Name": "Peak Performance",
       "Percentage": 45,
       "XP": 20,
-      "UsersEstimate": 4516
+      "UsersEstimate": 4517
     },
     {
       "ID": "ISONZO_ACH_PONTE_OF_NO_RETURN",
@@ -11738,7 +11743,7 @@
       "Name": "Ragazzi del \u002799",
       "Percentage": 18,
       "XP": 20,
-      "UsersEstimate": 1806
+      "UsersEstimate": 1807
     },
     {
       "ID": "ISONZO_ACH_ROME_WASNT_BUILT_IN_A_DAY",
@@ -11778,7 +11783,7 @@
       "Name": "Silver Lining",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 2709
+      "UsersEstimate": 2710
     },
     {
       "ID": "ISONZO_ACH_SOCA_DRAG",
@@ -11882,14 +11887,14 @@
       "Name": "You Shall Not Pass",
       "Percentage": 51,
       "XP": 20,
-      "UsersEstimate": 5118
+      "UsersEstimate": 5119
     }
   ],
   "AchievementSets": [
     {
       "ID": "akchbl3",
       "IsBase": true,
-      "Progressed": 10035,
+      "Progressed": 10037,
       "Completed": 10
     }
   ],
@@ -11897,8 +11902,8 @@
   "FirstSeenRating": "2022-09-15T19:30:41.978644+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:46.669627+00:00",
   "LastChanged": "2024-01-20T21:57:37.7605938+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:09:44.4564185+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:09:42.3159539+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:11.2973704+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:59:02.7920192+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:09:44.4565014+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:59:06.8407715+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:09:42.3160219+00:00"
 }

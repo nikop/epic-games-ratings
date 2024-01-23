@@ -12,8 +12,8 @@ Rating: 4.19 (Ranked 985)
 | Knighthood | 26.00% | ~21,635 |
 | Get ReQ'd | 24.00% | ~19,971 |
 | Whispered Words | 24.00% | ~19,971 |
-| The Batman Family | 22.00% | ~18,306 |
-| Lock and Key | 22.00% | ~18,306 |
+| The Batman Family | 22.00% | ~18,307 |
+| Lock and Key | 22.00% | ~18,307 |
 | Something in the Clay | 20.00% | ~16,642 |
 | Quartzer Life Crisis | 20.00% | ~16,642 |
 | Working Hard or Harley Working? | 20.00% | ~16,642 |
@@ -28,8 +28,8 @@ Rating: 4.19 (Ranked 985)
 | Rock and a Hard Place | 14.00% | ~11,650 |
 | Cooldown | 14.00% | ~11,650 |
 | Voiceless | 14.00% | ~11,650 |
-| Shock Til They Drop | 13.00% | ~10,817 |
-| Seeking Asylum | 13.00% | ~10,817 |
+| Shock Til They Drop | 13.00% | ~10,818 |
+| Seeking Asylum | 13.00% | ~10,818 |
 | End of an Era | 12.00% | ~9,985 |
 | Not On My Watch | 12.00% | ~9,985 |
 | Bulldozed | 12.00% | ~9,985 |
@@ -67,7 +67,7 @@ Rating: 4.19 (Ranked 985)
 | The Cold, the Bad and the Ugly | 0.30% | ~160 |
 | It's Nice to Be Wanted | 0.20% | ~107 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 83,211 (Ranked 111)  
+Progressed: 83,212 (Ranked 111)  
 Completed: 135 (0.16%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 135 (0.16%) (Ranked 297)
 | 2024-01-20 | 83,086 | 135 |
 | 2024-01-21 | 83,148 | 135 |
 | 2024-01-22 | 83,185 | 135 |
-| 2024-01-23 | 83,211 | 135 |
+| 2024-01-23 | 83,212 | 135 |
 ## Awards
 Max (Great Boss Battles): 3,249  (Ranked 102)  
 Sum: 5,556 (Ranked 145)  

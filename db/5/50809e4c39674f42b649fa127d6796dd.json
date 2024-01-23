@@ -4,7 +4,7 @@
   "ProductSlug": "sonic-frontiers",
   "Ranking_EOS_Progress": 353,
   "Ranking_EOS_Completed": 204,
-  "Ranking_EOS_NewPlayers": 314,
+  "Ranking_EOS_NewPlayers": 310,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-11-21T16:00:00+00:00",
@@ -22,9 +22,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 545,
+  "EOS_Progressed": 546,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.73,
   "EosHistory": [
@@ -1627,6 +1627,11 @@
       "Time": "2024-01-23T18:08:42.3557044+00:00",
       "NumProgressed": 545,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T22:08:53.5496661+00:00",
+      "NumProgressed": 546,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-10-18T09:06:38.9917505+00:00",
@@ -1695,7 +1700,7 @@
       "Name": "Combo Convert",
       "Percentage": 36,
       "XP": 10,
-      "UsersEstimate": 196
+      "UsersEstimate": 197
     },
     {
       "ID": "FIRST_ALL_MISSION_CLEAR",
@@ -1743,7 +1748,7 @@
       "Name": "Unknown Threat",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 441
+      "UsersEstimate": 442
     },
     {
       "ID": "FIRST_POWER_BOOST",
@@ -1767,7 +1772,7 @@
       "Name": "Ticket to Tranquility",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "GET_FISH_ALL",
@@ -1791,7 +1796,7 @@
       "Name": "The Beginning",
       "Percentage": 23,
       "XP": 50,
-      "UsersEstimate": 125
+      "UsersEstimate": 126
     },
     {
       "ID": "MAIN_CLEAR_ISLAND2",
@@ -1951,21 +1956,21 @@
       "Name": "Swath of Destruction",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 174
+      "UsersEstimate": 175
     }
   ],
   "AchievementSets": [
     {
       "ID": "apihg0e",
       "IsBase": true,
-      "Progressed": 545,
+      "Progressed": 546,
       "Completed": 4
     }
   ],
   "FirstSeen": "2023-11-21T22:57:46.7244481+00:00",
   "FirstSeenAchievements": "2023-08-01T13:08:41.3085792+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:08:52.7950199+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:08:53.5496656+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:01.4392441+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:15.8919436+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:08:52.7950538+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:57:23.2644604+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:08:53.5497317+00:00"
 }

@@ -11,12 +11,12 @@ Rating: 4.38 (Ranked 801)
 | Elizabeth Padget | 69.00% | ~352 |
 | Little Grey Cells | 68.00% | ~347 |
 | The Bracelet | 65.00% | ~332 |
+| The Blackmail | 54.00% | ~275 |
 | Florette Duval | 54.00% | ~275 |
-| The Blackmail | 53.00% | ~270 |
-| Major Felix Hagen | 53.00% | ~270 |
+| Major Felix Hagen | 54.00% | ~275 |
+| Order and Method | 52.00% | ~265 |
 | Fine-toothed Comb | 52.00% | ~265 |
-| Order and Method | 51.00% | ~260 |
-| The Altercation | 48.00% | ~245 |
+| The Altercation | 49.00% | ~250 |
 | Truth from Within | 47.00% | ~240 |
 | The Major | 46.00% | ~235 |
 | Comtesse Margaux de Vos | 44.00% | ~224 |
@@ -24,14 +24,14 @@ Rating: 4.38 (Ranked 801)
 | Jacqueline “Jackie” Conrad | 43.00% | ~219 |
 | The Interrogations | 43.00% | ~219 |
 | Well-acquainted | 41.00% | ~209 |
-| Zakariya Demir | 40.00% | ~204 |
+| Zakariya Demir | 41.00% | ~209 |
 | Well-read | 39.00% | ~199 |
 | Cassandra Van den Bosch | 37.00% | ~189 |
 | The Secret | 37.00% | ~189 |
 | Gedeon Demir | 35.00% | ~178 |
 | Rehana Piette | 34.00% | ~173 |
 | Instinct is Marvellous | 33.00% | ~168 |
-| Ernesto da Silva | 32.00% | ~163 |
+| Ernesto da Silva | 33.00% | ~168 |
 | Inge Frank | 31.00% | ~158 |
 | The Search | 31.00% | ~158 |
 | Hugo Beckers | 30.00% | ~153 |
@@ -53,7 +53,7 @@ Rating: 4.38 (Ranked 801)
 | Work-life Balance | 3.00% | ~15 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 510 (Ranked 360)  
-Completed: 7 (1.37%) (Ranked 159)  
+Completed: 7 (1.37%) (Ranked 158)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

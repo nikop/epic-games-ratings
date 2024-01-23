@@ -1718,9 +1718,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 139972,
+  "EOS_Progressed": 139973,
   "EOS_Completed": 29,
-  "EOS_NewPlayers": 550,
+  "EOS_NewPlayers": 548,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.02,
   "EosHistory": [
@@ -29618,6 +29618,11 @@
       "Time": "2024-01-23T21:09:01.5349167+00:00",
       "NumProgressed": 139972,
       "NumCompleted": 29
+    },
+    {
+      "Time": "2024-01-23T22:09:02.0996016+00:00",
+      "NumProgressed": 139973,
+      "NumCompleted": 29
     }
   ],
   "TotalAchievements": 40,
@@ -29677,7 +29682,7 @@
       "Name": "Unbelievably Boring ****",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 12597
+      "UsersEstimate": 12598
     },
     {
       "ID": "ACH_COP_COMMUNIST",
@@ -29741,7 +29746,7 @@
       "Name": "The World\u0027s Most Laughable Centrist",
       "Percentage": 20,
       "XP": 5,
-      "UsersEstimate": 27994
+      "UsersEstimate": 27995
     },
     {
       "ID": "ACH_COP_REMOTE",
@@ -29789,7 +29794,7 @@
       "Name": "The Figurines Won\u0027t Win Her Back",
       "Percentage": 9,
       "XP": 50,
-      "UsersEstimate": 12597
+      "UsersEstimate": 12598
     },
     {
       "ID": "ACH_GLUTEN",
@@ -29948,15 +29953,15 @@
     {
       "ID": "5l3ge6h",
       "IsBase": true,
-      "Progressed": 139972,
+      "Progressed": 139973,
       "Completed": 29
     }
   ],
   "FirstSeen": "2022-07-22T20:19:46.3709628+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:16.5812917+00:00",
   "LastChanged": "2024-01-23T04:58:42.7043232+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:09:01.5349164+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:09:02.0996012+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.277385+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:58:53.7272446+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:09:01.5350714+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:58:58.4443569+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:09:02.0998408+00:00"
 }

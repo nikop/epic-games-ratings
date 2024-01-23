@@ -46,10 +46,10 @@
 | 15 Days | 2.00% | ~8 |
 | Easy Peasy | 2.00% | ~7 |
 | Pro Shotgunner | 1.00% | ~4 |
+| Pro Sniperagus | 1.00% | ~4 |
 | Tomassacred | 1.00% | ~3 |
 | Graveside Survivor | 0.80% | ~3 |
 | Pro Carrocketeer | 0.80% | ~3 |
-| Pro Sniperagus | 0.80% | ~3 |
 | King of the Crow | 0.80% | ~3 |
 | Forestside Survivor | 0.50% | ~2 |
 | Pro Pyromancer | 0.50% | ~2 |

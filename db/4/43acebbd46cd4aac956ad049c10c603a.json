@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 277,
   "Ranking_EOS_Completed": 284,
   "Ranking_EOS_NewPlayers": 241,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-11-02T16:00:00+00:00",
     "PcReleaseDate": "2023-11-02T16:00:00+00:00",
@@ -4409,9 +4409,9 @@
       "ID": "BreakTheLoop",
       "SetID": "1n308hc",
       "Name": "Break the Loop",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 132
+      "UsersEstimate": 146
     },
     {
       "ID": "BridgeBuilder",
@@ -4649,9 +4649,9 @@
       "ID": "RemnantsOfThePast",
       "SetID": "1n308hc",
       "Name": "Remnants of the Past",
-      "Percentage": 36,
+      "Percentage": 37,
       "XP": 15,
-      "UsersEstimate": 526
+      "UsersEstimate": 541
     },
     {
       "ID": "RenaissanceRobot",
@@ -4842,8 +4842,8 @@
   "FirstSeenRating": "2023-11-08T20:00:37.8164588+00:00",
   "FirstSeenAchievements": "2023-10-12T10:09:22.7929978+00:00",
   "LastChanged": "2024-01-22T16:58:45.5941627+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:04:44.2747147+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:04:53.3385417+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.8809488+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:58:54.8970451+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:04:44.2747739+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:58:59.6519814+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:04:53.338617+00:00"
 }

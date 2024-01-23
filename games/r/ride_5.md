@@ -7,12 +7,12 @@ Rating: 4.61 (Ranked 402)
 | ---- | ---------- | ----- |
 | Eat My Dust | 50.00% | ~1,844 |
 | First Love | 46.00% | ~1,696 |
-| Clean Race | 45.00% | ~1,659 |
-| Hear That Roar! | 43.00% | ~1,585 |
+| Clean Race | 45.00% | ~1,660 |
+| Hear That Roar! | 43.00% | ~1,586 |
 | Bitter Rivalry | 31.00% | ~1,143 |
 | Rivals to the End | 31.00% | ~1,143 |
 | Champagne Spray | 30.00% | ~1,106 |
-| We're Going to Need a Bigger Garage | 28.00% | ~1,032 |
+| We're Going to Need a Bigger Garage | 28.00% | ~1,033 |
 | Quick Pit Stop | 23.00% | ~848 |
 | Restored and Ready | 21.00% | ~774 |
 | I Want One Too! | 21.00% | ~774 |
@@ -26,9 +26,9 @@ Rating: 4.61 (Ranked 402)
 | Make It Your Own! | 5.00% | ~184 |
 | Cherry Blossom and Temples | 5.00% | ~184 |
 | The Road to Liberty | 5.00% | ~184 |
-| Romantic Races | 4.00% | ~147 |
-| I Make the Rules! | 4.00% | ~147 |
-| My Work Here Is Done | 4.00% | ~147 |
+| Romantic Races | 4.00% | ~148 |
+| I Make the Rules! | 4.00% | ~148 |
+| My Work Here Is Done | 4.00% | ~148 |
 | Spoilt for Choice | 3.00% | ~111 |
 | La Dolce Vita | 3.00% | ~111 |
 | Rounding Off | 3.00% | ~111 |
@@ -39,7 +39,7 @@ Rating: 4.61 (Ranked 402)
 | Still Here | 2.00% | ~74 |
 | Next Level | 1.00% | ~37 |
 | I Don't Stop | 1.00% | ~37 |
-| Exhausted but Happy | 0.80% | ~29 |
+| Exhausted but Happy | 0.80% | ~30 |
 | In Search of Perfection | 0.70% | ~26 |
 | Globe-trotter | 0.50% | ~18 |
 | Breathtaking Views | 0.30% | ~11 |
@@ -55,7 +55,7 @@ Rating: 4.61 (Ranked 402)
 | There's a Great View up Here | 0.10% | ~4 |
 | Absolute Champion | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,687 (Ranked 227)  
+Progressed: 3,688 (Ranked 227)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -199,7 +199,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 3,660 | 0 |
 | 2024-01-21 | 3,669 | 0 |
 | 2024-01-22 | 3,676 | 0 |
-| 2024-01-23 | 3,687 | 0 |
+| 2024-01-23 | 3,688 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

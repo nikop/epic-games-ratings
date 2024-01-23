@@ -5,34 +5,34 @@ Rating: 4.72 (Ranked 199)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Killing Jar | 13.00% | ~38,801 |
-| First of Many | 12.00% | ~35,816 |
-| Not Your Average Trait | 10.00% | ~29,847 |
-| Expanding Horizons | 9.00% | ~26,862 |
-| Gleaming the Cube | 8.00% | ~23,877 |
-| Quest for Survival | 8.00% | ~23,877 |
-| Familiar Face | 8.00% | ~23,877 |
-| Boss'n Up | 8.00% | ~23,877 |
-| Trait Chaser | 8.00% | ~23,877 |
-| Not So Special Now | 7.00% | ~20,893 |
-| Not a Janitor | 7.00% | ~20,893 |
-| Duality | 7.00% | ~20,893 |
-| Equal Measures | 6.00% | ~17,908 |
-| Blue Goddess | 6.00% | ~17,908 |
-| Top Performer | 6.00% | ~17,908 |
-| Shhh...It's a Secret | 6.00% | ~17,908 |
-| Almost There | 6.00% | ~17,908 |
-| Make Some Room | 6.00% | ~17,908 |
-| Good, But Could Be Better! | 6.00% | ~17,908 |
-| Am I Seeing This? | 5.00% | ~14,923 |
-| Chaos | 5.00% | ~14,923 |
-| Traitor | 5.00% | ~14,923 |
-| Power Surge | 5.00% | ~14,923 |
-| The God Gambit | 5.00% | ~14,923 |
-| Dark Designs | 5.00% | ~14,923 |
-| Was This Supposed To Happen? | 5.00% | ~14,923 |
-| The Web | 5.00% | ~14,923 |
-| Scrap Collector | 5.00% | ~14,923 |
+| The Killing Jar | 13.00% | ~38,802 |
+| First of Many | 12.00% | ~35,818 |
+| Not Your Average Trait | 10.00% | ~29,848 |
+| Expanding Horizons | 9.00% | ~26,863 |
+| Gleaming the Cube | 8.00% | ~23,878 |
+| Quest for Survival | 8.00% | ~23,878 |
+| Familiar Face | 8.00% | ~23,878 |
+| Boss'n Up | 8.00% | ~23,878 |
+| Trait Chaser | 8.00% | ~23,878 |
+| Not So Special Now | 7.00% | ~20,894 |
+| Not a Janitor | 7.00% | ~20,894 |
+| Duality | 7.00% | ~20,894 |
+| Equal Measures | 6.00% | ~17,909 |
+| Blue Goddess | 6.00% | ~17,909 |
+| Top Performer | 6.00% | ~17,909 |
+| Shhh...It's a Secret | 6.00% | ~17,909 |
+| Almost There | 6.00% | ~17,909 |
+| Make Some Room | 6.00% | ~17,909 |
+| Good, But Could Be Better! | 6.00% | ~17,909 |
+| Am I Seeing This? | 5.00% | ~14,924 |
+| Chaos | 5.00% | ~14,924 |
+| Traitor | 5.00% | ~14,924 |
+| Power Surge | 5.00% | ~14,924 |
+| The God Gambit | 5.00% | ~14,924 |
+| Dark Designs | 5.00% | ~14,924 |
+| Was This Supposed To Happen? | 5.00% | ~14,924 |
+| The Web | 5.00% | ~14,924 |
+| Scrap Collector | 5.00% | ~14,924 |
 | Forever is a Long Time Coming | 4.00% | ~11,939 |
 | Madman's Paradise | 4.00% | ~11,939 |
 | The Agenda | 4.00% | ~11,939 |
@@ -48,20 +48,20 @@ Rating: 4.72 (Ranked 199)
 | Transmutate | 3.00% | ~8,954 |
 | Regicide | 3.00% | ~2,329 |
 | Master of the Dark Arts | 3.00% | ~2,329 |
-| Crafty | 2.00% | ~5,969 |
-| Ghost in the Machine | 2.00% | ~5,969 |
-| Only Human | 2.00% | ~5,969 |
-| Red Room | 2.00% | ~5,969 |
-| The Trigger | 2.00% | ~5,969 |
-| Cutting Edge | 2.00% | ~5,969 |
-| The Collector | 2.00% | ~5,969 |
-| Maxed Out! | 2.00% | ~5,969 |
+| Crafty | 2.00% | ~5,970 |
+| Ghost in the Machine | 2.00% | ~5,970 |
+| Only Human | 2.00% | ~5,970 |
+| Red Room | 2.00% | ~5,970 |
+| The Trigger | 2.00% | ~5,970 |
+| Cutting Edge | 2.00% | ~5,970 |
+| The Collector | 2.00% | ~5,970 |
+| Maxed Out! | 2.00% | ~5,970 |
 | Proving Grounds | 1.00% | ~2,985 |
 | Succession | 0.90% | ~699 |
 | You Shall Pass | 0.80% | ~621 |
 | A Foul Feast | 0.50% | ~388 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 298,466 (Ranked 65)  
+Progressed: 298,480 (Ranked 65)  
 Completed: 1,227 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -252,10 +252,10 @@ Completed: 1,227 (0.41%) (Ranked 246)
 | 2024-01-20 | 297,043 | 1,177 |
 | 2024-01-21 | 297,695 | 1,201 |
 | 2024-01-22 | 298,163 | 1,214 |
-| 2024-01-23 | 298,466 | 1,227 |
+| 2024-01-23 | 298,480 | 1,227 |
 ## Awards
 Max (Great Boss Battles): 7,507  (Ranked 56)  
-Sum: 17,268 (Ranked 65)  
+Sum: 17,281 (Ranked 65)  
 Diff (max vs sum): -9  
 | Award | Count |
 | ----- | ----- |
@@ -263,8 +263,8 @@ Diff (max vs sum): -9
 | This game is Highly Recommended | 1,102 |
 | This game has Diverse Characters | 1,062 |
 | This game is Extremely Fun | 1,027 |
+| This game has Quickly Understood Controls | 1,019 |
 | This game is Relaxing | 1,010 |
-| This game has Quickly Understood Controls | 1,006 |
 | This game has Amazing Storytelling | 1,000 |
 | This game has Challenging Combat | 999 |
 | This game has Amazing Characters | 959 |
@@ -454,4 +454,4 @@ Diff (max vs sum): -9
 | 2024-01-20 | 4.72 | 7,279 | 16,670 |
 | 2024-01-21 | 4.72 | 7,358 | 16,919 |
 | 2024-01-22 | 4.72 | 7,439 | 17,104 |
-| 2024-01-23 | 4.72 | 7,507 | 17,268 |
+| 2024-01-23 | 4.72 | 7,507 | 17,281 |

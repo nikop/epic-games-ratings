@@ -1951,9 +1951,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169440,
+  "EOS_Progressed": 169445,
   "EOS_Completed": 468,
-  "EOS_NewPlayers": 910,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24221,6 +24221,11 @@
       "Time": "2024-01-23T21:08:17.6555401+00:00",
       "NumProgressed": 169440,
       "NumCompleted": 468
+    },
+    {
+      "Time": "2024-01-23T22:06:40.6065261+00:00",
+      "NumProgressed": 169445,
+      "NumCompleted": 468
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24287,9 +24292,9 @@
       "ID": "ACQUIRE_MAXBREATH",
       "SetID": "ccc0dlh",
       "Name": "Breath",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 508
+      "UsersEstimate": 678
     },
     {
       "ID": "ACQUIRE_TRAIT",
@@ -24600,21 +24605,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 169023,
+      "Progressed": 169028,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169440,
+      "Progressed": 169445,
       "Completed": 468
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-23T16:59:47.2958962+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:08:17.6555399+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:06:40.6065257+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:59:14.9861506+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:08:17.6556646+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:59:18.8062648+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:06:40.6066691+00:00"
 }

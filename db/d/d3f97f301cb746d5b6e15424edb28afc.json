@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 339,
-  "Ranking_EOS_NewPlayers": 239,
+  "Ranking_EOS_NewPlayers": 238,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-09-25T10:00:00+00:00",
@@ -5340,25 +5340,25 @@
       "ID": "GSS_ACH_15_FUEL_SERVE_03",
       "SetID": "5fn8ia4",
       "Name": "Skills to Pay the Bills",
-      "Percentage": 73,
+      "Percentage": 74,
       "XP": 25,
-      "UsersEstimate": 1288
+      "UsersEstimate": 1306
     },
     {
       "ID": "GSS_ACH_16_ORDER_FUEL",
       "SetID": "5fn8ia4",
       "Name": "Fuel Ordered",
-      "Percentage": 93,
+      "Percentage": 94,
       "XP": 5,
-      "UsersEstimate": 1641
+      "UsersEstimate": 1659
     },
     {
       "ID": "GSS_ACH_17_ORDER_TRASH_COLLECTION",
       "SetID": "5fn8ia4",
       "Name": "Trash Collection",
-      "Percentage": 90,
+      "Percentage": 91,
       "XP": 5,
-      "UsersEstimate": 1588
+      "UsersEstimate": 1606
     },
     {
       "ID": "GSS_ACH_18_ALIENS",
@@ -5436,9 +5436,9 @@
       "ID": "GSS_ACH_28_PAINT_02",
       "SetID": "5fn8ia4",
       "Name": "On the Roll",
-      "Percentage": 83,
+      "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 1465
+      "UsersEstimate": 1483
     },
     {
       "ID": "GSS_ACH_29_PAINT_03",
@@ -5460,9 +5460,9 @@
       "ID": "GSS_ACH_31_TRASH_02",
       "SetID": "5fn8ia4",
       "Name": "Trash B Gone",
-      "Percentage": 84,
+      "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 1483
+      "UsersEstimate": 1500
     },
     {
       "ID": "GSS_ACH_32_TRASH_03",
@@ -5885,8 +5885,8 @@
   "FirstSeenRating": "2023-11-20T21:59:05.9866431+00:00",
   "FirstSeenAchievements": "2023-09-18T11:03:09.3611981+00:00",
   "LastChanged": "2024-01-22T02:57:06.6848671+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:05:10.9258877+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:05:18.9293863+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.0722072+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:58.4969146+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:05:10.9259811+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:58:05.1863317+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:05:18.9294842+00:00"
 }

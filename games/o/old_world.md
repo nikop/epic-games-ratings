@@ -90,6 +90,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Military Prestige | 1.00% | ~171 |
 | Dualism | 1.00% | ~171 |
 | Legalism | 1.00% | ~171 |
+| Legionary | 1.00% | ~171 |
 | Double Victory | 1.00% | ~171 |
 | Points Victory | 1.00% | ~171 |
 | Win a Single Player Game | 1.00% | ~171 |
@@ -106,11 +107,10 @@ Number of Ratings: 1,307  (23.09.2022)
 | Hagia Sophia | 0.90% | ~154 |
 | Learn to Play 4 | 0.90% | ~154 |
 | Assyrian Paganism | 0.90% | ~154 |
-| Legionary | 0.90% | ~154 |
+| Industrial Progress | 0.90% | ~154 |
 | Jerwan Aqueduct | 0.90% | ~154 |
 | Royal Library | 0.90% | ~154 |
 | Lion | 0.80% | ~137 |
-| Industrial Progress | 0.80% | ~137 |
 | Enlightenment | 0.80% | ~137 |
 | Gnosticism | 0.80% | ~137 |
 | Redemption | 0.80% | ~137 |
@@ -365,7 +365,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Jebel Barkal in Napata | 0.00% | ~0 |
 | Al Khazneh in Petra | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,123 (Ranked 170)  
+Progressed: 17,124 (Ranked 170)  
 Completed: 5 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -643,7 +643,7 @@ Completed: 5 (0.03%) (Ranked 364)
 | 2024-01-20 | 17,039 | 5 |
 | 2024-01-21 | 17,090 | 5 |
 | 2024-01-22 | 17,114 | 5 |
-| 2024-01-23 | 17,123 | 5 |
+| 2024-01-23 | 17,124 | 5 |
 ## Awards
 Max (Relaxing): 231  (Ranked 287)  
 Sum: 1,945 (Ranked 224)  

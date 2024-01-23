@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 175,
   "Ranking_EOS_Completed": 294,
   "Ranking_EOS_NewPlayers": 148,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-10-26T15:00:00+00:00",
     "PcReleaseDate": "2023-10-26T15:00:00+00:00",
@@ -473,9 +473,9 @@
       "Count": 54
     }
   ],
-  "EOS_Progressed": 15245,
+  "EOS_Progressed": 15246,
   "EOS_Completed": 28,
-  "EOS_NewPlayers": 280,
+  "EOS_NewPlayers": 279,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.18,
   "EosHistory": [
@@ -11278,6 +11278,11 @@
       "Time": "2024-01-23T21:10:08.8426295+00:00",
       "NumProgressed": 15245,
       "NumCompleted": 28
+    },
+    {
+      "Time": "2024-01-23T22:10:05.9138163+00:00",
+      "NumProgressed": 15246,
+      "NumCompleted": 28
     }
   ],
   "AchievementsAdded": "2023-10-17T15:04:17.1318239+00:00",
@@ -11298,7 +11303,7 @@
       "Name": "Baby Steps",
       "Percentage": 41,
       "XP": 20,
-      "UsersEstimate": 6250
+      "UsersEstimate": 6251
     },
     {
       "ID": "BeLikeWater",
@@ -11346,7 +11351,7 @@
       "Name": "Explosive Personality",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 3201
+      "UsersEstimate": 3202
     },
     {
       "ID": "FasterThanLight",
@@ -11490,7 +11495,7 @@
       "Name": "The Quarterback",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 6555
+      "UsersEstimate": 6556
     },
     {
       "ID": "ThisIsDharma",
@@ -11546,7 +11551,7 @@
       "Name": "You\u0027ve Reached The Right Number",
       "Percentage": 10,
       "XP": 30,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "k01101110",
@@ -11554,14 +11559,14 @@
       "Name": "01101110 01101001 01100011 01100101",
       "Percentage": 10,
       "XP": 50,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     }
   ],
   "AchievementSets": [
     {
       "ID": "acc6ea0",
       "IsBase": true,
-      "Progressed": 15245,
+      "Progressed": 15246,
       "Completed": 28
     }
   ],
@@ -11569,8 +11574,8 @@
   "FirstSeenRating": "2023-10-30T17:01:05.4334368+00:00",
   "FirstSeenAchievements": "2023-10-13T13:15:15.5542755+00:00",
   "LastChanged": "2024-01-23T11:59:29.6436647+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:10:08.8426293+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:10:05.9138159+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:13.6631814+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:59:41.9165022+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:10:08.8426825+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:59:43.1343982+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:10:05.9139126+00:00"
 }

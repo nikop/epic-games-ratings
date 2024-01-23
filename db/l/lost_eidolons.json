@@ -197,9 +197,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1118,
+  "EOS_Progressed": 1117,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": -2,
+  "EOS_NewPlayers": -4,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3057,6 +3057,11 @@
       "Time": "2024-01-23T21:03:44.5383427+00:00",
       "NumProgressed": 1118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T22:03:55.4509456+00:00",
+      "NumProgressed": 1117,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 23,
@@ -3108,7 +3113,7 @@
       "Name": "First Blood",
       "Percentage": 72,
       "XP": 20,
-      "UsersEstimate": 805
+      "UsersEstimate": 804
     },
     {
       "ID": "07",
@@ -3124,7 +3129,7 @@
       "Name": "Monster Slayer",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 358
+      "UsersEstimate": 357
     },
     {
       "ID": "09",
@@ -3132,7 +3137,7 @@
       "Name": "Awakening",
       "Percentage": 25,
       "XP": 15,
-      "UsersEstimate": 280
+      "UsersEstimate": 279
     },
     {
       "ID": "10",
@@ -3244,14 +3249,14 @@
       "Name": "Complete the sidequest \u0027Malice and Greed\u0027",
       "Percentage": 20,
       "XP": 50,
-      "UsersEstimate": 224
+      "UsersEstimate": 223
     }
   ],
   "AchievementSets": [
     {
       "ID": "73ikgfc",
       "IsBase": true,
-      "Progressed": 1118,
+      "Progressed": 1117,
       "Completed": 1
     }
   ],
@@ -3259,8 +3264,8 @@
   "FirstSeenRating": "2022-10-20T13:00:36.1264308+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:06.7777676+00:00",
   "LastChanged": "2024-01-03T20:02:34.5349742+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:03:44.5383423+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:03:55.4509452+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:09.4589017+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:03:02.1475586+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:03:44.5383694+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:03:10.6486415+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:03:55.4510127+00:00"
 }

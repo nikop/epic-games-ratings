@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 84.00% | ~48,198 |
-| Fashion Killa | 81.00% | ~46,477 |
-| Cool Whip | 74.00% | ~42,460 |
-| Drop the Beat | 66.00% | ~37,870 |
-| Hey Lakeshore | 61.00% | ~35,001 |
-| Public Enemy | 60.00% | ~34,427 |
+| Throwing up Tags | 84.00% | ~48,199 |
+| Fashion Killa | 81.00% | ~46,478 |
+| Cool Whip | 74.00% | ~42,461 |
+| Drop the Beat | 66.00% | ~37,871 |
+| Hey Lakeshore | 61.00% | ~35,002 |
+| Public Enemy | 60.00% | ~34,428 |
 | 100 Miles and Runnin' | 59.00% | ~33,854 |
 | Rebel Without a Pause | 39.00% | ~22,378 |
 | Hey Speedie! | 38.00% | ~21,804 |
 | Most Wanted | 34.00% | ~19,509 |
 | New Crew | 33.00% | ~18,935 |
-| Serious Guap | 27.00% | ~15,492 |
-| Style it Out | 27.00% | ~15,492 |
-| Escape Artist | 27.00% | ~15,492 |
+| Serious Guap | 27.00% | ~15,493 |
+| Style it Out | 27.00% | ~15,493 |
+| Escape Artist | 27.00% | ~15,493 |
 | Rydell's Rydes | 26.00% | ~14,919 |
 | Untouchable | 26.00% | ~14,919 |
 | Oh, It's On | 24.00% | ~13,771 |
 | Cash Money Millionaire | 21.00% | ~12,050 |
-| Access All Areas | 17.00% | ~9,754 |
-| #Blessed | 17.00% | ~9,754 |
-| Lake Better Watch Out | 17.00% | ~9,754 |
+| Access All Areas | 17.00% | ~9,755 |
+| #Blessed | 17.00% | ~9,755 |
+| Lake Better Watch Out | 17.00% | ~9,755 |
 | Found Family | 13.00% | ~7,459 |
-| Kick it | 12.00% | ~6,885 |
+| Kick it | 12.00% | ~6,886 |
 | In the Flow | 11.00% | ~6,312 |
 | The Collector | 11.00% | ~6,312 |
 | Top Billin' | 9.00% | ~5,164 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 0.60% | ~344 |
 | Cleaning Up | 0.60% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,379 (Ranked 123)  
+Progressed: 57,380 (Ranked 123)  
 Completed: 63 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,4 +176,4 @@ Completed: 63 (0.11%) (Ranked 315)
 | 2024-01-20 | 56,877 | 61 |
 | 2024-01-21 | 57,109 | 62 |
 | 2024-01-22 | 57,258 | 62 |
-| 2024-01-23 | 57,379 | 63 |
+| 2024-01-23 | 57,380 | 63 |

@@ -2,9 +2,9 @@
   "ID": "1df6c2cb003d48979ee3f72fff54d013",
   "Name": "Chicken Journey",
   "ProductSlug": "chicken-journey-415550",
-  "Ranking_EOS_Progress": 779,
+  "Ranking_EOS_Progress": 753,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-31T20:00:00+00:00",
@@ -24,15 +24,20 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-01-16T19:10:15.0429511+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T22:09:21.6360876+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -44,89 +49,89 @@
       "ID": "ACH_01",
       "SetID": "6ed99oi",
       "Name": "Virtue of curiosity",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_02",
       "SetID": "6ed99oi",
       "Name": "Perseverance in the Swamps",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_03",
       "SetID": "6ed99oi",
       "Name": "Value of Synthesis",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_04",
       "SetID": "6ed99oi",
       "Name": "Enlightened",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 190,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_05",
       "SetID": "6ed99oi",
       "Name": "Peck like a PRO!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_06",
       "SetID": "6ed99oi",
       "Name": "I believe I can fly!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_07",
       "SetID": "6ed99oi",
       "Name": "Winter Outfit",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_08",
       "SetID": "6ed99oi",
       "Name": "Worm salad anyone?",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_09",
       "SetID": "6ed99oi",
       "Name": "Cookies!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_10",
       "SetID": "6ed99oi",
       "Name": "I\u0027m fabulous",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_11",
       "SetID": "6ed99oi",
       "Name": "Picnic treat",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_12",
@@ -156,31 +161,31 @@
       "ID": "ACH_15",
       "SetID": "6ed99oi",
       "Name": "Dust bath time!",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 30,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "ACH_16",
       "SetID": "6ed99oi",
       "Name": "Shining feather",
-      "Percentage": 0,
+      "Percentage": 50,
       "XP": 90,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ed99oi",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-06T16:02:42.6367125+00:00",
   "FirstSeenAchievements": "2024-01-16T17:09:22.2903776+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:09:22.6637771+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:09:21.6360872+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.7611712+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:24.9995398+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:09:22.6637864+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:57:32.3956488+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:09:21.6360973+00:00"
 }

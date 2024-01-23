@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 123,
   "Ranking_EOS_Completed": 315,
   "Ranking_EOS_NewPlayers": 73,
-  "Ranking_EOS_NewCompleters": 57,
+  "Ranking_EOS_NewCompleters": 56,
   "Store": {
     "ReleaseDate": "2022-12-02T07:00:00+00:00",
     "PcReleaseDate": "2022-12-02T07:00:00+00:00",
@@ -18,9 +18,9 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 57379,
+  "EOS_Progressed": 57380,
   "EOS_Completed": 63,
-  "EOS_NewPlayers": 1337,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -14673,6 +14673,11 @@
       "Time": "2024-01-23T21:09:41.2759729+00:00",
       "NumProgressed": 57379,
       "NumCompleted": 63
+    },
+    {
+      "Time": "2024-01-23T22:09:39.3028707+00:00",
+      "NumProgressed": 57380,
+      "NumCompleted": 63
     }
   ],
   "AchievementsAdded": "2023-09-19T23:06:56.1964818+00:00",
@@ -14733,7 +14738,7 @@
       "Name": "Serious Guap",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 15492
+      "UsersEstimate": 15493
     },
     {
       "ID": "achievement_16",
@@ -14781,7 +14786,7 @@
       "Name": "Style it Out",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 15492
+      "UsersEstimate": 15493
     },
     {
       "ID": "achievement_21",
@@ -14797,7 +14802,7 @@
       "Name": "Escape Artist",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 15492
+      "UsersEstimate": 15493
     },
     {
       "ID": "achievement_23",
@@ -14805,7 +14810,7 @@
       "Name": "Public Enemy",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 34427
+      "UsersEstimate": 34428
     },
     {
       "ID": "achievement_24",
@@ -14821,7 +14826,7 @@
       "Name": "Access All Areas",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 9754
+      "UsersEstimate": 9755
     },
     {
       "ID": "achievement_26",
@@ -14893,7 +14898,7 @@
       "Name": "#Blessed",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9754
+      "UsersEstimate": 9755
     },
     {
       "ID": "achievement_34",
@@ -14925,7 +14930,7 @@
       "Name": "Throwing up Tags",
       "Percentage": 84,
       "XP": 10,
-      "UsersEstimate": 48198
+      "UsersEstimate": 48199
     },
     {
       "ID": "achievement_38",
@@ -14933,7 +14938,7 @@
       "Name": "Fashion Killa",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 46477
+      "UsersEstimate": 46478
     },
     {
       "ID": "achievement_39",
@@ -14941,7 +14946,7 @@
       "Name": "Cool Whip",
       "Percentage": 74,
       "XP": 10,
-      "UsersEstimate": 42460
+      "UsersEstimate": 42461
     },
     {
       "ID": "achievement_4",
@@ -14957,7 +14962,7 @@
       "Name": "Kick it",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 6885
+      "UsersEstimate": 6886
     },
     {
       "ID": "achievement_41",
@@ -14965,7 +14970,7 @@
       "Name": "Drop the Beat",
       "Percentage": 66,
       "XP": 10,
-      "UsersEstimate": 37870
+      "UsersEstimate": 37871
     },
     {
       "ID": "achievement_5",
@@ -14973,7 +14978,7 @@
       "Name": "Lake Better Watch Out",
       "Percentage": 17,
       "XP": 20,
-      "UsersEstimate": 9754
+      "UsersEstimate": 9755
     },
     {
       "ID": "achievement_6",
@@ -14989,7 +14994,7 @@
       "Name": "Hey Lakeshore",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 35001
+      "UsersEstimate": 35002
     },
     {
       "ID": "achievement_8",
@@ -15012,13 +15017,13 @@
     {
       "ID": "d0n64ce",
       "IsBase": true,
-      "Progressed": 57379,
+      "Progressed": 57380,
       "Completed": 63
     }
   ],
   "FirstSeenAchievements": "2023-07-25T22:03:37.4196764+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:09:41.2759724+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:09:39.3028702+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:00.4566272+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:58:29.5581231+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:09:41.2760685+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:58:34.175094+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:09:39.3029598+00:00"
 }

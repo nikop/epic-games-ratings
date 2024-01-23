@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewPlayers": 73,
   "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9219,9 +9219,9 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762561,
+  "EOS_Progressed": 762566,
   "EOS_Completed": 13006,
-  "EOS_NewPlayers": 1345,
+  "EOS_NewPlayers": 1334,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
@@ -35074,6 +35074,11 @@
       "Time": "2024-01-23T21:09:48.0925977+00:00",
       "NumProgressed": 762561,
       "NumCompleted": 13006
+    },
+    {
+      "Time": "2024-01-23T22:09:45.9087476+00:00",
+      "NumProgressed": 762566,
+      "NumCompleted": 13006
     }
   ],
   "TotalAchievements": 60,
@@ -35133,7 +35138,7 @@
       "Name": "Muk Yan Master",
       "Percentage": 0.8,
       "XP": 25,
-      "UsersEstimate": 6100
+      "UsersEstimate": 6101
     },
     {
       "ID": "08_Wude_H2",
@@ -35197,7 +35202,7 @@
       "Name": "Detective Story",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 6100
+      "UsersEstimate": 6101
     },
     {
       "ID": "16_Detective_H2",
@@ -35564,21 +35569,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71862,
+      "Progressed": 71867,
       "Completed": 10819
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762561,
+      "Progressed": 762566,
       "Completed": 13006
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-23T21:03:09.6126452+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:09:48.0925973+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:09:45.9087469+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:03:09.6126459+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:09:48.0927436+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:03:19.5715938+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:09:45.9089154+00:00"
 }

@@ -5,27 +5,27 @@ Rating: 4.43 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,456 |
-| Delving Onward | 69.00% | ~267,969 |
-| Miner's Helper | 59.00% | ~229,133 |
-| Suit Up | 54.00% | ~209,715 |
-| To the Mountain's Roots | 50.00% | ~194,180 |
-| Remains To Be Seen | 35.00% | ~135,926 |
-| Covered Head to Toe | 33.00% | ~128,159 |
-| Line of Azog, Ended | 32.00% | ~124,276 |
-| Risk a Little Real Light | 31.00% | ~120,392 |
-| Caradhras The Cruel | 19.00% | ~73,789 |
-| A Memory of this Place | 18.00% | ~69,905 |
-| Battering Ram | 14.00% | ~54,371 |
-| False King, Deposed | 14.00% | ~54,371 |
-| Baruk Khazâd! | 13.00% | ~50,487 |
-| Shadow's Bane | 10.00% | ~38,836 |
-| Westgate Weaponcraft | 9.00% | ~34,952 |
-| Deeps Weaponcraft | 8.00% | ~31,069 |
-| Darkness Is Passing | 8.00% | ~31,069 |
-| Decked Out | 5.00% | ~19,418 |
-| Guarded from Despair | 5.00% | ~19,418 |
-| Master of All Trades | 4.00% | ~15,534 |
+| Speak Friend | 82.00% | ~318,469 |
+| Delving Onward | 69.00% | ~267,980 |
+| Miner's Helper | 59.00% | ~229,142 |
+| Suit Up | 54.00% | ~209,724 |
+| To the Mountain's Roots | 50.00% | ~194,188 |
+| Remains To Be Seen | 35.00% | ~135,932 |
+| Covered Head to Toe | 33.00% | ~128,164 |
+| Line of Azog, Ended | 32.00% | ~124,281 |
+| Risk a Little Real Light | 31.00% | ~120,397 |
+| Caradhras The Cruel | 19.00% | ~73,792 |
+| A Memory of this Place | 18.00% | ~69,908 |
+| Battering Ram | 14.00% | ~54,373 |
+| False King, Deposed | 14.00% | ~54,373 |
+| Baruk Khazâd! | 13.00% | ~50,489 |
+| Shadow's Bane | 10.00% | ~38,838 |
+| Westgate Weaponcraft | 9.00% | ~34,954 |
+| Deeps Weaponcraft | 8.00% | ~31,070 |
+| Darkness Is Passing | 8.00% | ~31,070 |
+| Decked Out | 5.00% | ~19,419 |
+| Guarded from Despair | 5.00% | ~19,419 |
+| Master of All Trades | 4.00% | ~15,535 |
 | Eregion Weaponcraft | 3.00% | ~11,651 |
 | True-silver | 3.00% | ~11,651 |
 | Dimrill Weaponcraft | 3.00% | ~11,651 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 735)
 | Shielded | 1.00% | ~3,884 |
 | We're Gonna Need More Mugs | 0.20% | ~777 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,361 (Ranked 54)  
+Progressed: 388,377 (Ranked 54)  
 Completed: 397 (0.10%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,10 +129,10 @@ Completed: 397 (0.10%) (Ranked 320)
 | 2024-01-20 | 387,317 | 381 |
 | 2024-01-21 | 387,836 | 387 |
 | 2024-01-22 | 388,142 | 391 |
-| 2024-01-23 | 388,361 | 397 |
+| 2024-01-23 | 388,377 | 397 |
 ## Awards
 Max (Great for Beginners): 998  (Ranked 165)  
-Sum: 5,728 (Ranked 142)  
+Sum: 5,734 (Ranked 142)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
@@ -142,7 +142,7 @@ Diff (max vs sum): 23
 | This game has Amazing Storytelling | 730 |
 | This game is Relaxing | 685 |
 | This game has Quickly Understood Controls | 675 |
-| This game has Amazing Characters | 669 |
+| This game has Amazing Characters | 675 |
 | This game has a Creative Community | 406 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
@@ -238,4 +238,4 @@ Diff (max vs sum): 23
 | 2024-01-20 | 4.43 | 979 | 5,626 |
 | 2024-01-21 | 4.43 | 987 | 5,662 |
 | 2024-01-22 | 4.43 | 998 | 5,706 |
-| 2024-01-23 | 4.43 | 998 | 5,728 |
+| 2024-01-23 | 4.43 | 998 | 5,734 |

@@ -4,7 +4,7 @@
   "ProductSlug": "space-war-infinity-024a8f",
   "Ranking_EOS_Progress": 500,
   "Ranking_EOS_Completed": 29,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-08-15T15:00:00+00:00",
@@ -574,9 +574,9 @@
       "ID": "_armor_v2",
       "SetID": "2d5739o",
       "Name": "Armor v2",
-      "Percentage": 37,
+      "Percentage": 38,
       "XP": 5,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "_armor_v3",
@@ -766,9 +766,9 @@
       "ID": "_minigun",
       "SetID": "2d5739o",
       "Name": "Minigun",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "_missile",
@@ -798,9 +798,9 @@
       "ID": "_plasma",
       "SetID": "2d5739o",
       "Name": "Plasma",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 5,
-      "UsersEstimate": 24
+      "UsersEstimate": 25
     },
     {
       "ID": "_plasma_sentinel",
@@ -925,8 +925,8 @@
   ],
   "FirstSeen": "2023-08-19T02:04:22.1564483+00:00",
   "FirstSeenAchievements": "2023-08-09T13:13:29.9534062+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:09:15.5916369+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:09:14.9645357+00:00",
   "LastUpdate_AppInfo": "2024-01-18T03:57:06.7914197+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:26.6841852+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:09:15.5916619+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:57:34.0031052+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:09:14.9645715+00:00"
 }

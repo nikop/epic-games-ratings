@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 181,
   "Ranking_EOS_Completed": 200,
   "Ranking_EOS_NewPlayers": 178,
-  "Ranking_EOS_NewCompleters": 52,
+  "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2023-02-15T14:00:00+00:00",
     "PcReleaseDate": "2001-10-22T11:49:00+00:00",
@@ -733,9 +733,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 12508,
+  "EOS_Progressed": 12509,
   "EOS_Completed": 96,
-  "EOS_NewPlayers": 145,
+  "EOS_NewPlayers": 144,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -16373,6 +16373,11 @@
       "Time": "2024-01-23T20:03:32.6122448+00:00",
       "NumProgressed": 12508,
       "NumCompleted": 96
+    },
+    {
+      "Time": "2024-01-23T22:03:54.0709929+00:00",
+      "NumProgressed": 12509,
+      "NumCompleted": 96
     }
   ],
   "TotalAchievements": 29,
@@ -16408,7 +16413,7 @@
       "Name": "Disposing of the Evidence",
       "Percentage": 39,
       "XP": 15,
-      "UsersEstimate": 4878
+      "UsersEstimate": 4879
     },
     {
       "ID": "ACH05",
@@ -16456,7 +16461,7 @@
       "Name": "Wreckless Driving",
       "Percentage": 29,
       "XP": 25,
-      "UsersEstimate": 3627
+      "UsersEstimate": 3628
     },
     {
       "ID": "ACH11",
@@ -16488,7 +16493,7 @@
       "Name": "Liberty City Minute",
       "Percentage": 18,
       "XP": 50,
-      "UsersEstimate": 2251
+      "UsersEstimate": 2252
     },
     {
       "ID": "ACH15",
@@ -16615,7 +16620,7 @@
     {
       "ID": "552d41m",
       "IsBase": true,
-      "Progressed": 12508,
+      "Progressed": 12509,
       "Completed": 96
     }
   ],
@@ -16623,8 +16628,8 @@
   "FirstSeenRating": "2023-02-24T19:57:59.6714904+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:24.6451265+00:00",
   "LastChanged": "2024-01-22T15:57:04.9646257+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:03:43.012618+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:03:54.0709925+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4282185+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:42.7347519+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:03:43.0127134+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:57:50.7798825+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:03:54.0710804+00:00"
 }

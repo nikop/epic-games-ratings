@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 444,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -652,9 +652,9 @@
       "ID": "Epic_ChainSaw_1",
       "SetID": "ba1m2fc",
       "Name": "Maimed Bodies",
-      "Percentage": 14,
+      "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 19
+      "UsersEstimate": 21
     },
     {
       "ID": "Epic_Challenger_1",
@@ -756,9 +756,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 47,
+      "Percentage": 48,
       "XP": 10,
-      "UsersEstimate": 64
+      "UsersEstimate": 66
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -1019,8 +1019,8 @@
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:04:32.3654067+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:04:41.4784921+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.2529391+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:44.2686876+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:04:32.3654462+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:57:52.2514039+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:04:41.4785739+00:00"
 }

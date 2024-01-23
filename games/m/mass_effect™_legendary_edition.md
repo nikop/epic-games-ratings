@@ -35,8 +35,8 @@
 | The Archangel | 30.00% | ~1,388 |
 | The Professor | 30.00% | ~1,388 |
 | Head Hunter | 30.00% | ~1,388 |
+| Operative | 29.00% | ~1,342 |
 | The Convict | 28.00% | ~1,296 |
-| Operative | 28.00% | ~1,296 |
 | Power Full | 28.00% | ~1,296 |
 | Colony Defense | 27.00% | ~1,250 |
 | The Krogan | 27.00% | ~1,250 |
@@ -48,6 +48,7 @@
 | The Justicar | 24.00% | ~1,111 |
 | The Quarian | 24.00% | ~1,111 |
 | The Prodigal | 24.00% | ~1,111 |
+| A Personal Touch | 23.00% | ~1,064 |
 | Battlemaster | 23.00% | ~1,064 |
 | Catharsis | 23.00% | ~1,064 |
 | Fade Away | 23.00% | ~1,064 |
@@ -58,12 +59,12 @@
 | Heart of Darkness | 23.00% | ~1,064 |
 | Bringer of War | 23.00% | ~1,064 |
 | Shopaholic | 23.00% | ~1,064 |
-| A Personal Touch | 22.00% | ~1,018 |
 | Treason | 22.00% | ~1,018 |
 | Big Game Hunter | 22.00% | ~1,018 |
 | Digital Exorcist | 22.00% | ~1,018 |
 | Focused | 21.00% | ~972 |
 | Archivist | 21.00% | ~972 |
+| Suicide Mission | 21.00% | ~972 |
 | Friend or Foe | 21.00% | ~972 |
 | Cat's in the Cradle | 21.00% | ~972 |
 | Doppelganger | 21.00% | ~972 |
@@ -72,7 +73,6 @@
 | Giant Killer | 20.00% | ~926 |
 | Completionist | 20.00% | ~926 |
 | Mission Accomplished | 20.00% | ~926 |
-| Suicide Mission | 20.00% | ~926 |
 | Against All Odds | 20.00% | ~926 |
 | A House Divided | 20.00% | ~926 |
 | Agent | 20.00% | ~926 |
@@ -92,10 +92,10 @@
 | Paramour II | 15.00% | ~694 |
 | Hard Target | 15.00% | ~694 |
 | Saboteur | 15.00% | ~694 |
+| Last Witness | 15.00% | ~694 |
 | Fact Finder | 15.00% | ~694 |
 | Problem Solver | 15.00% | ~694 |
 | No One Left Behind | 14.00% | ~648 |
-| Last Witness | 14.00% | ~648 |
 | Well Connected | 14.00% | ~648 |
 | Pyromaniac | 13.00% | ~602 |
 | Executioner | 13.00% | ~602 |
@@ -123,11 +123,11 @@
 | Shield Breaker | 3.00% | ~139 |
 | Incineration Specialist | 3.00% | ~139 |
 | Warp Specialist | 3.00% | ~139 |
+| Gunsmith | 2.00% | ~93 |
 | Insanity II | 2.00% | ~93 |
 | AI Hacking Specialist | 2.00% | ~93 |
 | Tactician | 2.00% | ~93 |
 | Stasis Mastery | 1.00% | ~46 |
-| Gunsmith | 1.00% | ~46 |
 | Neural Shock Specialist | 1.00% | ~46 |
 | Insanity III | 0.90% | ~42 |
 | The One and Only | 0.60% | ~28 |

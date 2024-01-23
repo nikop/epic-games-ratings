@@ -5,55 +5,55 @@ Rating: 4.41 (Ranked 762)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Tootorial | 66.00% | ~223,384 |
-| Wind Master | 53.00% | ~179,384 |
-| Davy Jones | 18.00% | ~60,923 |
-| Hook, Line and Stinker | 15.00% | ~50,769 |
-| Gateway Slug | 6.00% | ~20,308 |
-| Race In Yo Face | 5.00% | ~16,923 |
-| Nice Shootin' Duds | 5.00% | ~16,923 |
-| Boarding Party | 5.00% | ~16,923 |
-| Great Balls Of Fire | 4.00% | ~13,538 |
-| Baby's First Thingamabob | 4.00% | ~13,538 |
-| By The Power Of Underskull | 3.00% | ~10,154 |
-| Light Up the Night | 3.00% | ~10,154 |
-| I Don't Like The Slugs | 3.00% | ~10,154 |
-| This Is Fine | 2.00% | ~6,769 |
-| But The Slugs Like Me | 2.00% | ~6,769 |
-| Pengy Fun | 2.00% | ~6,769 |
-| Polar Pontification | 1.00% | ~3,385 |
-| Aggro Kreb | 1.00% | ~3,385 |
-| No More Splosions | 1.00% | ~3,385 |
-| Snapping Turtle | 1.00% | ~3,385 |
-| Fish Kabob | 1.00% | ~3,385 |
-| Enter The Croakers | 1.00% | ~3,385 |
-| Crovert Ops | 0.90% | ~3,046 |
-| Tekk Savvy | 0.70% | ~2,369 |
+| Tootorial | 66.00% | ~223,450 |
+| Wind Master | 53.00% | ~179,437 |
+| Davy Jones | 18.00% | ~60,941 |
+| Hook, Line and Stinker | 15.00% | ~50,784 |
+| Gateway Slug | 6.00% | ~20,314 |
+| Race In Yo Face | 5.00% | ~16,928 |
+| Nice Shootin' Duds | 5.00% | ~16,928 |
+| Boarding Party | 5.00% | ~16,928 |
+| Great Balls Of Fire | 4.00% | ~13,542 |
+| Baby's First Thingamabob | 4.00% | ~13,542 |
+| By The Power Of Underskull | 3.00% | ~10,157 |
+| Light Up the Night | 3.00% | ~10,157 |
+| I Don't Like The Slugs | 3.00% | ~10,157 |
+| This Is Fine | 2.00% | ~6,771 |
+| But The Slugs Like Me | 2.00% | ~6,771 |
+| Pengy Fun | 2.00% | ~6,771 |
+| Polar Pontification | 1.00% | ~3,386 |
+| Aggro Kreb | 1.00% | ~3,386 |
+| No More Splosions | 1.00% | ~3,386 |
+| Snapping Turtle | 1.00% | ~3,386 |
+| Fish Kabob | 1.00% | ~3,386 |
+| Enter The Croakers | 1.00% | ~3,386 |
+| Crovert Ops | 0.90% | ~3,047 |
+| Tekk Savvy | 0.70% | ~2,370 |
 | Blowfish Me Down | 0.40% | ~1,354 |
 | Fish And Tips | 0.40% | ~1,354 |
-| Sweeter Than Honey | 0.30% | ~1,015 |
-| Getting Hooked | 0.30% | ~1,015 |
-| This Magik Moment | 0.30% | ~1,015 |
+| Sweeter Than Honey | 0.30% | ~1,016 |
+| Getting Hooked | 0.30% | ~1,016 |
+| This Magik Moment | 0.30% | ~1,016 |
 | Total Eclipse of the Eel | 0.20% | ~677 |
 | Over The Moon | 0.20% | ~677 |
-| What's Krakalackin? | 0.10% | ~338 |
-| All Good Things... | 0.10% | ~338 |
-| Lights Out | 0.10% | ~338 |
-| Built For Speed | 0.10% | ~338 |
-| Crackshot | 0.10% | ~338 |
-| Whosits And Whatsits Galore | 0.10% | ~338 |
-| Croaker Command's Most Wanted | 0.10% | ~338 |
-| In Service Of Glory And Valor | 0.10% | ~338 |
-| Sail Forth! | 0.10% | ~338 |
-| Shooting Star | 0.10% | ~338 |
-| Crushed Ice | 0.10% | ~338 |
-| Fish On | 0.10% | ~338 |
-| 1.21 Ribbitwatts | 0.10% | ~338 |
-| Guiding Light | 0.10% | ~338 |
-| For Whom The Bells Toll | 0.10% | ~338 |
-| Don't I Know You? | 0.10% | ~338 |
+| What's Krakalackin? | 0.10% | ~339 |
+| All Good Things... | 0.10% | ~339 |
+| Lights Out | 0.10% | ~339 |
+| Built For Speed | 0.10% | ~339 |
+| Crackshot | 0.10% | ~339 |
+| Whosits And Whatsits Galore | 0.10% | ~339 |
+| Croaker Command's Most Wanted | 0.10% | ~339 |
+| In Service Of Glory And Valor | 0.10% | ~339 |
+| Sail Forth! | 0.10% | ~339 |
+| Shooting Star | 0.10% | ~339 |
+| Crushed Ice | 0.10% | ~339 |
+| Fish On | 0.10% | ~339 |
+| 1.21 Ribbitwatts | 0.10% | ~339 |
+| Guiding Light | 0.10% | ~339 |
+| For Whom The Bells Toll | 0.10% | ~339 |
+| Don't I Know You? | 0.10% | ~339 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 338,460 (Ranked 63)  
+Progressed: 338,561 (Ranked 63)  
 Completed: 3 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -71,7 +71,7 @@ Completed: 3 (0.00%) (Ranked 409)
 | 2024-01-20 | 325,488 | 2 |
 | 2024-01-21 | 331,634 | 2 |
 | 2024-01-22 | 335,398 | 2 |
-| 2024-01-23 | 338,460 | 3 |
+| 2024-01-23 | 338,561 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -18900,10 +18900,16 @@
       "Rating": 4.68,
       "NumberOfAwards": 516062,
       "NumberOfAwardsMax": 144402
+    },
+    {
+      "Time": "2024-01-23T22:03:23.0677313+00:00",
+      "Rating": 4.68,
+      "NumberOfAwards": 516233,
+      "NumberOfAwardsMax": 144402
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 516062,
+  "NumberOfAwards": 516233,
   "NumberOfAwardsMax": 144402,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -18953,7 +18959,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 33062
+      "Count": 33233
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -18980,9 +18986,9 @@
       "Count": 19955
     }
   ],
-  "EOS_Progressed": 1057782,
+  "EOS_Progressed": 1057799,
   "EOS_Completed": 3152,
-  "EOS_NewPlayers": 4750,
+  "EOS_NewPlayers": 4744,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50890,6 +50896,11 @@
       "Time": "2024-01-23T21:09:06.6057773+00:00",
       "NumProgressed": 1057782,
       "NumCompleted": 3152
+    },
+    {
+      "Time": "2024-01-23T22:09:06.95298+00:00",
+      "NumProgressed": 1057799,
+      "NumCompleted": 3152
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50926,7 +50937,7 @@
       "Name": "Full Body Conversion",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7404
+      "UsersEstimate": 7405
     },
     {
       "ID": "Denied",
@@ -51126,7 +51137,7 @@
       "Name": "The Hermit",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7404
+      "UsersEstimate": 7405
     },
     {
       "ID": "TheHightPriestess",
@@ -51134,7 +51145,7 @@
       "Name": "The High Priestess",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7404
+      "UsersEstimate": 7405
     },
     {
       "ID": "TheLovers",
@@ -51166,7 +51177,7 @@
       "Name": "The Wheel of Fortune",
       "Percentage": 0.7,
       "XP": 15,
-      "UsersEstimate": 7404
+      "UsersEstimate": 7405
     },
     {
       "ID": "TheWorld",
@@ -51198,7 +51209,7 @@
       "Name": "True Soldier",
       "Percentage": 0.7,
       "XP": 30,
-      "UsersEstimate": 7404
+      "UsersEstimate": 7405
     },
     {
       "ID": "TrueWarrior",
@@ -51358,7 +51369,7 @@
       "Name": "All the President\u0027s Men",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "HydraIsDead",
@@ -51374,7 +51385,7 @@
       "Name": "Arachnophobia",
       "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 1118
+      "UsersEstimate": 1119
     },
     {
       "ID": "KingOfTheCups",
@@ -51437,21 +51448,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057782,
+      "Progressed": 1057799,
       "Completed": 3152
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186405,
+      "Progressed": 186422,
       "Completed": 10694
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
-  "LastChanged": "2024-01-23T21:03:13.6419443+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:09:06.6057768+00:00",
+  "LastChanged": "2024-01-23T22:03:23.0677311+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:09:06.9529795+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-23T21:03:13.641945+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:09:06.6059541+00:00"
+  "LastUpdate_Ratings": "2024-01-23T22:03:23.0677317+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:09:06.9532143+00:00"
 }

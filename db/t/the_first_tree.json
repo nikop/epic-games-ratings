@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 137,
   "Ranking_EOS_Completed": 262,
   "Ranking_EOS_NewPlayers": 145,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
     "PcReleaseDate": "2017-09-14T15:00:00+00:00",
@@ -283,9 +283,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 40924,
+  "EOS_Progressed": 40927,
   "EOS_Completed": 127,
-  "EOS_NewPlayers": 302,
+  "EOS_NewPlayers": 304,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.31,
   "EosHistory": [
@@ -24898,6 +24898,11 @@
       "Time": "2024-01-23T21:08:50.301296+00:00",
       "NumProgressed": 40924,
       "NumCompleted": 127
+    },
+    {
+      "Time": "2024-01-23T22:08:51.2198328+00:00",
+      "NumProgressed": 40927,
+      "NumCompleted": 127
     }
   ],
   "TotalAchievements": 14,
@@ -24925,7 +24930,7 @@
       "Name": "50 Stars",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 10640
+      "UsersEstimate": 10641
     },
     {
       "ID": "allItems",
@@ -24933,7 +24938,7 @@
       "Name": "Excavator",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 818
+      "UsersEstimate": 819
     },
     {
       "ID": "allSecrets",
@@ -24997,7 +25002,7 @@
       "Name": "Two Worlds",
       "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 31102
+      "UsersEstimate": 31105
     },
     {
       "ID": "roots",
@@ -25005,7 +25010,7 @@
       "Name": "The Way Forward",
       "Percentage": 17,
       "XP": 25,
-      "UsersEstimate": 6957
+      "UsersEstimate": 6958
     },
     {
       "ID": "secretItem",
@@ -25020,15 +25025,15 @@
     {
       "ID": "8pjb9ak",
       "IsBase": true,
-      "Progressed": 40924,
+      "Progressed": 40927,
       "Completed": 127
     }
   ],
   "FirstSeen": "2022-07-22T20:28:16.3923768+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:12.9453948+00:00",
   "LastChanged": "2024-01-04T15:58:41.1338028+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:08:50.3012957+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:08:51.2198324+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.6207969+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:14.261138+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:08:50.3014185+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:57:21.7673552+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:08:51.2199468+00:00"
 }

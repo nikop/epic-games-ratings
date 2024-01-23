@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 446,
   "Ranking_EOS_Progress": 211,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 160,
+  "Ranking_EOS_NewPlayers": 161,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2023-04-25T09:30:00+00:00",
@@ -799,9 +799,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4755,
+  "EOS_Progressed": 4756,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 210,
+  "EOS_NewPlayers": 201,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.04,
   "EosHistory": [
@@ -13294,6 +13294,11 @@
       "Time": "2024-01-23T18:05:34.9671294+00:00",
       "NumProgressed": 4755,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T22:05:53.4763564+00:00",
+      "NumProgressed": 4756,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 75,
@@ -13311,9 +13316,9 @@
       "ID": "ancientknowledge",
       "SetID": "3nl4bcg",
       "Name": "Ancient Knowledge",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
-      "UsersEstimate": 238
+      "UsersEstimate": 190
     },
     {
       "ID": "angelpower",
@@ -13489,7 +13494,7 @@
       "Name": "Fellowship Power",
       "Percentage": 42,
       "XP": 5,
-      "UsersEstimate": 1997
+      "UsersEstimate": 1998
     },
     {
       "ID": "fourleafclover",
@@ -13865,7 +13870,7 @@
       "Name": "Victor",
       "Percentage": 93,
       "XP": 5,
-      "UsersEstimate": 4422
+      "UsersEstimate": 4423
     },
     {
       "ID": "warmachinesarmy",
@@ -13897,14 +13902,14 @@
       "Name": "World Map",
       "Percentage": 78,
       "XP": 5,
-      "UsersEstimate": 3709
+      "UsersEstimate": 3710
     }
   ],
   "AchievementSets": [
     {
       "ID": "3nl4bcg",
       "IsBase": true,
-      "Progressed": 4755,
+      "Progressed": 4756,
       "Completed": 2
     }
   ],
@@ -13912,8 +13917,8 @@
   "FirstSeenRating": "2023-04-03T11:57:10.5871109+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6381942+00:00",
   "LastChanged": "2024-01-20T14:59:22.2687822+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:05:47.5253199+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:05:53.476356+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:14.0380557+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:15.3774736+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:05:47.5254203+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:57:22.7847935+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:05:53.4764648+00:00"
 }

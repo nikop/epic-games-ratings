@@ -5453,7 +5453,7 @@
       "Count": 60
     }
   ],
-  "EOS_Progressed": 83211,
+  "EOS_Progressed": 83212,
   "EOS_Completed": 135,
   "EOS_NewPlayers": 325,
   "EOS_NewCompleters": 0,
@@ -31293,6 +31293,11 @@
       "Time": "2024-01-23T20:04:17.6530473+00:00",
       "NumProgressed": 83211,
       "NumCompleted": 135
+    },
+    {
+      "Time": "2024-01-23T22:04:35.7250394+00:00",
+      "NumProgressed": 83212,
+      "NumCompleted": 135
     }
   ],
   "TotalAchievements": 61,
@@ -31352,7 +31357,7 @@
       "Name": "The Batman Family",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18306
+      "UsersEstimate": 18307
     },
     {
       "ID": "ALL_HEROIC_ASSAULT",
@@ -31512,7 +31517,7 @@
       "Name": "Shock Til They Drop",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     },
     {
       "ID": "DEFEAT_OC_3",
@@ -31712,7 +31717,7 @@
       "Name": "Lock and Key",
       "Percentage": 22,
       "XP": 15,
-      "UsersEstimate": 18306
+      "UsersEstimate": 18307
     },
     {
       "ID": "MYSTERY_04",
@@ -31744,7 +31749,7 @@
       "Name": "Seeking Asylum",
       "Percentage": 13,
       "XP": 15,
-      "UsersEstimate": 10817
+      "UsersEstimate": 10818
     },
     {
       "ID": "MYSTERY_08",
@@ -31791,13 +31796,13 @@
     {
       "ID": "4eo5ebm",
       "IsBase": true,
-      "Progressed": 83211,
+      "Progressed": 83212,
       "Completed": 135
     },
     {
       "ID": "18c818l",
       "IsBase": false,
-      "Progressed": 53491,
+      "Progressed": 53492,
       "Completed": 2680
     }
   ],
@@ -31805,8 +31810,8 @@
   "FirstSeenRating": "2022-10-22T01:00:47.4981419+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:08.570231+00:00",
   "LastChanged": "2024-01-23T15:01:04.0104619+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:04:26.3732864+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:04:35.725039+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:22.2251988+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:59:50.723232+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:04:26.3736282+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:59:53.2623+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:04:35.7252201+00:00"
 }

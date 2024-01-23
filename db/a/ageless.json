@@ -4,7 +4,7 @@
   "ProductSlug": "ageless",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 551,
+  "Ranking_EOS_NewPlayers": 552,
   "Ranking_EOS_NewCompleters": 145,
   "Store": {
     "ReleaseDate": "2020-07-29T15:00:00+00:00",
@@ -43,6 +43,6 @@
   "FirstSeenRating": "2023-03-31T05:58:13.8345372+00:00",
   "LastChanged": "2023-03-31T05:58:13.8345373+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.2103381+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:57:32.9929043+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:06:11.9356583+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:57:40.3757692+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:06:17.1454573+00:00"
 }

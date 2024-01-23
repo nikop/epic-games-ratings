@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 88,
-  "Ranking_EOS_NewCompleters": 107,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -10263,9 +10263,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818877,
+  "EOS_Progressed": 818879,
   "EOS_Completed": 54,
-  "EOS_NewPlayers": 1052,
+  "EOS_NewPlayers": 1045,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41788,6 +41788,11 @@
       "Time": "2024-01-23T21:10:17.39614+00:00",
       "NumProgressed": 818877,
       "NumCompleted": 54
+    },
+    {
+      "Time": "2024-01-23T22:10:14.2908601+00:00",
+      "NumProgressed": 818879,
+      "NumCompleted": 54
     }
   ],
   "TotalAchievements": 82,
@@ -41823,7 +41828,7 @@
       "Name": "Anorectic",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 131020
+      "UsersEstimate": 131021
     },
     {
       "ID": "Awakening",
@@ -41831,7 +41836,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171964
+      "UsersEstimate": 171965
     },
     {
       "ID": "BadGirl",
@@ -41911,7 +41916,7 @@
       "Name": "Cavalier",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 212908
+      "UsersEstimate": 212909
     },
     {
       "ID": "Chivalrous",
@@ -42015,7 +42020,7 @@
       "Name": "Firestarter",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 131020
+      "UsersEstimate": 131021
     },
     {
       "ID": "Freud",
@@ -42199,7 +42204,7 @@
       "Name": "McLovin",
       "Percentage": 7,
       "XP": 15,
-      "UsersEstimate": 57321
+      "UsersEstimate": 57322
     },
     {
       "ID": "MercenarysHonor",
@@ -42279,7 +42284,7 @@
       "Name": "Ranger",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163775
+      "UsersEstimate": 163776
     },
     {
       "ID": "RevenantOfLedechko",
@@ -42319,7 +42324,7 @@
       "Name": "Scrooge",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 163775
+      "UsersEstimate": 163776
     },
     {
       "ID": "SerialKiller",
@@ -42335,7 +42340,7 @@
       "Name": "Sinner",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 90076
+      "UsersEstimate": 90077
     },
     {
       "ID": "Sniper",
@@ -42407,7 +42412,7 @@
       "Name": "Traveller",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 90076
+      "UsersEstimate": 90077
     },
     {
       "ID": "TrialAndError",
@@ -42454,15 +42459,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818877,
+      "Progressed": 818879,
       "Completed": 54
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-23T19:58:35.0091938+00:00",
-  "LastChanged_Achievements": "2024-01-23T21:10:17.3961396+00:00",
+  "LastChanged_Achievements": "2024-01-23T22:10:14.2908598+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.3609649+00:00",
-  "LastUpdate_Ratings": "2024-01-23T20:58:41.958986+00:00",
-  "LastUpdate_Achievements": "2024-01-23T21:10:17.3963563+00:00"
+  "LastUpdate_Ratings": "2024-01-23T21:58:46.0991521+00:00",
+  "LastUpdate_Achievements": "2024-01-23T22:10:14.291031+00:00"
 }
