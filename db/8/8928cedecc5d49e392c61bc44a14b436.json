@@ -4,8 +4,8 @@
   "ProductSlug": "return-alive-0ffdd1",
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 555,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2024-03-06T02:00:00+00:00",
     "PcReleaseDate": "2024-03-06T02:00:00+00:00",
@@ -40,8 +40,8 @@
     }
   ],
   "FirstSeenAchievements": "2024-01-19T02:30:04.991913+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:05:31.5769113+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:05:10.2257786+00:00",
   "LastUpdate_AppInfo": "2024-01-19T02:22:58.0513385+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:59:14.3290896+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:05:31.576913+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:59:10.0503278+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:05:10.2257805+00:00"
 }

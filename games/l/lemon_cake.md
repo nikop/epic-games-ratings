@@ -10,9 +10,9 @@
 | The Kitchen Is On Fire | 33.00% | ~67 |
 | Perfect Server | 16.00% | ~32 |
 | Adept Baker | 13.00% | ~26 |
+| Luxury Kitchen | 11.00% | ~22 |
 | Expert Baker | 10.00% | ~20 |
 | Verdant Greenhouse | 10.00% | ~20 |
-| Luxury Kitchen | 10.00% | ~20 |
 | Bustling Store | 10.00% | ~20 |
 | Gotta Go Fast | 9.00% | ~18 |
 | Master Baker | 7.00% | ~14 |

@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16650,
+  "EOS_Progressed": 16652,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 197,
+  "EOS_NewPlayers": 198,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -18859,6 +18859,11 @@
       "Time": "2024-01-23T03:11:38.2405314+00:00",
       "NumProgressed": 16650,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-23T05:10:14.2576629+00:00",
+      "NumProgressed": 16652,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18870,7 +18875,7 @@
       "Name": "Born in the 80\u2019s",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH02",
@@ -18894,7 +18899,7 @@
       "Name": "Not my First Time",
       "Percentage": 5,
       "XP": 35,
-      "UsersEstimate": 832
+      "UsersEstimate": 833
     },
     {
       "ID": "ACH05",
@@ -18990,7 +18995,7 @@
       "Name": "Keepie-Uppy Okie Dokie",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH17",
@@ -19006,7 +19011,7 @@
       "Name": "I\u0027m Famous!",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH19",
@@ -19022,7 +19027,7 @@
       "Name": "Daredevil",
       "Percentage": 1,
       "XP": 30,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH21",
@@ -19102,7 +19107,7 @@
       "Name": "Mischief Managed",
       "Percentage": 9,
       "XP": 25,
-      "UsersEstimate": 1498
+      "UsersEstimate": 1499
     },
     {
       "ID": "ACH31",
@@ -19126,7 +19131,7 @@
       "Name": "Done it All",
       "Percentage": 1,
       "XP": 50,
-      "UsersEstimate": 166
+      "UsersEstimate": 167
     },
     {
       "ID": "ACH34",
@@ -19141,7 +19146,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16650,
+      "Progressed": 16652,
       "Completed": 109
     }
   ],
@@ -19149,8 +19154,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:10:21.3266048+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:10:14.2576626+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:57:20.0682978+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:10:21.326681+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:57:30.8115869+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:10:14.2577403+00:00"
 }

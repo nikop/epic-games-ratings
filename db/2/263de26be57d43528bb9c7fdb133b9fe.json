@@ -3,7 +3,7 @@
   "Name": "Turnip Boy Robs a Bank",
   "ProductSlug": "turnip-boy-robs-a-bank-3fae0e",
   "Ranking_EOS_Progress": 525,
-  "Ranking_EOS_Completed": 78,
+  "Ranking_EOS_Completed": 79,
   "Ranking_EOS_NewPlayers": 203,
   "Ranking_EOS_NewCompleters": 59,
   "Store": {
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 81,
+  "EOS_Progressed": 82,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 74,
+  "EOS_NewPlayers": 75,
   "EOS_NewCompleters": 4,
-  "EOS_Completed_Percentage": 4.94,
+  "EOS_Completed_Percentage": 4.88,
   "EosHistory": [
     {
       "Time": "2024-01-18T17:10:07.9287814+00:00",
@@ -274,6 +274,11 @@
       "Time": "2024-01-23T04:06:26.359182+00:00",
       "NumProgressed": 81,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T05:06:04.4943878+00:00",
+      "NumProgressed": 82,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2024-01-18T17:10:07.9287841+00:00",
@@ -294,7 +299,7 @@
       "Name": "Broke into the Botanical Bank",
       "Percentage": 91,
       "XP": 20,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "BANK_MOTHERLODE",
@@ -308,7 +313,7 @@
       "ID": "BANK_STEAL",
       "SetID": "89ki2f0",
       "Name": "See you later space turnip\u2026",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 35,
       "UsersEstimate": 15
     },
@@ -316,15 +321,15 @@
       "ID": "BOSS_1",
       "SetID": "89ki2f0",
       "Name": "Down the rabbit hole",
-      "Percentage": 60,
+      "Percentage": 61,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 50
     },
     {
       "ID": "BOSS_2",
       "SetID": "89ki2f0",
       "Name": "Sour apple",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 35,
       "UsersEstimate": 28
     },
@@ -366,7 +371,7 @@
       "Name": "Illegal goods",
       "Percentage": 78,
       "XP": 20,
-      "UsersEstimate": 63
+      "UsersEstimate": 64
     },
     {
       "ID": "HATS_ALL",
@@ -388,17 +393,17 @@
       "ID": "MONEY_10K",
       "SetID": "89ki2f0",
       "Name": "Rolling in it",
-      "Percentage": 60,
+      "Percentage": 62,
       "XP": 35,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "MONEY_1K",
       "SetID": "89ki2f0",
       "Name": "Buy yourself something nice",
-      "Percentage": 75,
+      "Percentage": 76,
       "XP": 25,
-      "UsersEstimate": 61
+      "UsersEstimate": 62
     },
     {
       "ID": "MONEY_1M",
@@ -428,9 +433,9 @@
       "ID": "RESEARCH_FIRST",
       "SetID": "89ki2f0",
       "Name": "For science!",
-      "Percentage": 69,
+      "Percentage": 70,
       "XP": 20,
-      "UsersEstimate": 56
+      "UsersEstimate": 57
     },
     {
       "ID": "TASKS_ALL",
@@ -444,7 +449,7 @@
       "ID": "UPGRADES_ALL",
       "SetID": "89ki2f0",
       "Name": "Ol\u0027 natural",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 50,
       "UsersEstimate": 15
     },
@@ -454,7 +459,7 @@
       "Name": "Better, faster, stronger",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     },
     {
       "ID": "WEAPONRACK_FIRST",
@@ -462,21 +467,21 @@
       "Name": "Woah! Guns!",
       "Percentage": 74,
       "XP": 20,
-      "UsersEstimate": 60
+      "UsersEstimate": 61
     }
   ],
   "AchievementSets": [
     {
       "ID": "89ki2f0",
       "IsBase": true,
-      "Progressed": 81,
+      "Progressed": 82,
       "Completed": 4
     }
   ],
   "FirstSeen": "2024-01-19T09:58:20.3533971+00:00",
   "FirstSeenAchievements": "2023-11-23T07:03:14.488466+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:06:26.3591816+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:06:04.4943875+00:00",
   "LastUpdate_AppInfo": "2024-01-18T11:57:15.9763606+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:00:27.4529197+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:06:26.3592022+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:00:15.9259501+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:06:04.4943973+00:00"
 }

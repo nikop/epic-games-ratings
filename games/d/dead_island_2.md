@@ -5,32 +5,32 @@ Rating: 4.54 (Ranked 554)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,925 |
-| Hotel California | 10.00% | ~80,841 |
+| Welcome To Hell-A | 11.00% | ~88,926 |
+| Hotel California | 10.00% | ~80,842 |
 | Break A Leg | 9.00% | ~72,757 |
 | Coup de Grâce | 8.00% | ~64,673 |
 | Hazardous Materials | 8.00% | ~64,673 |
-| Git Gutte! | 7.00% | ~56,588 |
-| Apex Predator | 7.00% | ~56,588 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,588 |
-| Dr. Reed, I Presume? | 6.00% | ~48,504 |
-| Bookworm | 6.00% | ~48,504 |
-| Friends Like These | 6.00% | ~48,504 |
-| Stacking the Deck | 6.00% | ~48,504 |
-| This is My Weapon | 6.00% | ~48,504 |
-| Anger Management | 5.00% | ~40,420 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,420 |
-| But Doctor, I am Butcho | 5.00% | ~40,420 |
-| Can't Handle the Truth | 5.00% | ~40,420 |
-| Like Riding a Bike | 5.00% | ~40,420 |
-| Making Your Mark | 4.00% | ~32,336 |
-| Perks of the Job | 4.00% | ~32,336 |
-| Slayer Squad | 4.00% | ~32,336 |
-| Zombologist | 4.00% | ~32,336 |
-| Ooh, Shiny! | 4.00% | ~32,336 |
-| A Patton Emerges | 4.00% | ~32,336 |
-| I Am the Resurrection | 4.00% | ~32,336 |
-| Our True Nature | 4.00% | ~32,336 |
+| Git Gutte! | 7.00% | ~56,589 |
+| Apex Predator | 7.00% | ~56,589 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,589 |
+| Dr. Reed, I Presume? | 6.00% | ~48,505 |
+| Bookworm | 6.00% | ~48,505 |
+| Friends Like These | 6.00% | ~48,505 |
+| Stacking the Deck | 6.00% | ~48,505 |
+| This is My Weapon | 6.00% | ~48,505 |
+| Anger Management | 5.00% | ~40,421 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,421 |
+| But Doctor, I am Butcho | 5.00% | ~40,421 |
+| Can't Handle the Truth | 5.00% | ~40,421 |
+| Like Riding a Bike | 5.00% | ~40,421 |
+| Making Your Mark | 4.00% | ~32,337 |
+| Perks of the Job | 4.00% | ~32,337 |
+| Slayer Squad | 4.00% | ~32,337 |
+| Zombologist | 4.00% | ~32,337 |
+| Ooh, Shiny! | 4.00% | ~32,337 |
+| A Patton Emerges | 4.00% | ~32,337 |
+| I Am the Resurrection | 4.00% | ~32,337 |
+| Our True Nature | 4.00% | ~32,337 |
 | Whatever It Takes | 4.00% | ~5,358 |
 | Pork Chopped | 4.00% | ~5,358 |
 | Jumbo Keyring | 3.00% | ~24,252 |
@@ -57,7 +57,7 @@ Rating: 4.54 (Ranked 554)
 | Bucket List | 0.10% | ~808 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,407 (Ranked 23)  
+Progressed: 808,416 (Ranked 23)  
 Completed: 2,624 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,7 +335,7 @@ Completed: 2,624 (0.32%) (Ranked 261)
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
-| 2024-01-23 | 808,407 | 2,624 |
+| 2024-01-23 | 808,416 | 2,624 |
 ## Awards
 Max (Great Boss Battles): 10,811  (Ranked 40)  
 Sum: 16,637 (Ranked 68)  

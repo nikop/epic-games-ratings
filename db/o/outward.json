@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 222,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,7 +559,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4843,
+  "EOS_Progressed": 4844,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -8659,6 +8659,11 @@
       "Time": "2024-01-23T01:54:11.2830197+00:00",
       "NumProgressed": 4843,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T05:03:36.6653623+00:00",
+      "NumProgressed": 4844,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8670,7 +8675,7 @@
       "Name": "A Fortress Toppled!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "AceDetective_9",
@@ -8710,7 +8715,7 @@
       "Name": "Cordon Bleu",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 1937
+      "UsersEstimate": 1938
     },
     {
       "ID": "CrowdPleaser",
@@ -8862,7 +8867,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2954
+      "UsersEstimate": 2955
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8934,7 +8939,7 @@
       "Name": "The Power of Family",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 726
+      "UsersEstimate": 727
     },
     {
       "ID": "ThePowerofFreedom_3",
@@ -8990,7 +8995,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3535
+      "UsersEstimate": 3536
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -9005,15 +9010,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4843,
+      "Progressed": 4844,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:03:48.4182642+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:03:36.665362+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:03:20.2032651+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:03:48.4183365+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:03:11.6208657+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:03:36.6654353+00:00"
 }

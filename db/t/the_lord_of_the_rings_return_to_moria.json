@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 142,
   "Ranking_EOS_Progress": 54,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 40,
+  "Ranking_EOS_NewPlayers": 41,
   "Ranking_EOS_NewCompleters": 9,
   "Store": {
     "ReleaseDate": "2023-10-24T13:00:00+00:00",
@@ -3132,9 +3132,9 @@
       "Count": 402
     }
   ],
-  "EOS_Progressed": 388197,
+  "EOS_Progressed": 388201,
   "EOS_Completed": 392,
-  "EOS_NewPlayers": 3220,
+  "EOS_NewPlayers": 3205,
   "EOS_NewCompleters": 41,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -13987,6 +13987,11 @@
       "Time": "2024-01-23T04:09:43.8899486+00:00",
       "NumProgressed": 388197,
       "NumCompleted": 392
+    },
+    {
+      "Time": "2024-01-23T05:09:40.3524482+00:00",
+      "NumProgressed": 388201,
+      "NumCompleted": 392
     }
   ],
   "AchievementsAdded": "2023-10-24T04:04:23.8047747+00:00",
@@ -14039,7 +14044,7 @@
       "Name": "Covered Head to Toe",
       "Percentage": 33,
       "XP": 20,
-      "UsersEstimate": 128105
+      "UsersEstimate": 128106
     },
     {
       "ID": "CraftedFullSetIronHills",
@@ -14047,7 +14052,7 @@
       "Name": "Suit Up",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 209626
+      "UsersEstimate": 209629
     },
     {
       "ID": "CraftedFullSetKhazad",
@@ -14127,7 +14132,7 @@
       "Name": "Miner\u0027s Helper",
       "Percentage": 59,
       "XP": 10,
-      "UsersEstimate": 229036
+      "UsersEstimate": 229039
     },
     {
       "ID": "DefeatedBolgakh",
@@ -14135,7 +14140,7 @@
       "Name": "Line of Azog, Ended",
       "Percentage": 32,
       "XP": 20,
-      "UsersEstimate": 124223
+      "UsersEstimate": 124224
     },
     {
       "ID": "DefeatedShadowDragon",
@@ -14159,7 +14164,7 @@
       "Name": "Caradhras The Cruel",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 73757
+      "UsersEstimate": 73758
     },
     {
       "ID": "DiscoveredDwarrowdelf",
@@ -14167,7 +14172,7 @@
       "Name": "Risk a Little Real Light",
       "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 120341
+      "UsersEstimate": 120342
     },
     {
       "ID": "DiscoveredElvenQuarter",
@@ -14175,7 +14180,7 @@
       "Name": "Speak Friend",
       "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 318322
+      "UsersEstimate": 318325
     },
     {
       "ID": "DiscoveredHighway",
@@ -14183,7 +14188,7 @@
       "Name": "A Memory of this Place",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 69875
+      "UsersEstimate": 69876
     },
     {
       "ID": "DiscoveredLowerDeeps",
@@ -14191,7 +14196,7 @@
       "Name": "To the Mountain\u0027s Roots",
       "Percentage": 50,
       "XP": 10,
-      "UsersEstimate": 194098
+      "UsersEstimate": 194100
     },
     {
       "ID": "DiscoveredMinesOfMoria",
@@ -14199,7 +14204,7 @@
       "Name": "Delving Onward",
       "Percentage": 69,
       "XP": 50,
-      "UsersEstimate": 267856
+      "UsersEstimate": 267859
     },
     {
       "ID": "DiscoveredTomb",
@@ -14207,14 +14212,14 @@
       "Name": "Remains To Be Seen",
       "Percentage": 35,
       "XP": 20,
-      "UsersEstimate": 135869
+      "UsersEstimate": 135870
     }
   ],
   "AchievementSets": [
     {
       "ID": "1cnmn8b",
       "IsBase": true,
-      "Progressed": 388197,
+      "Progressed": 388201,
       "Completed": 392
     }
   ],
@@ -14222,8 +14227,8 @@
   "FirstSeenRating": "2023-10-24T23:00:00.8997493+00:00",
   "FirstSeenAchievements": "2023-08-08T22:03:55.1596043+00:00",
   "LastChanged": "2024-01-22T21:58:49.5054759+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:09:43.8899482+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:09:40.3524478+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:14.4291538+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:59:25.5255917+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:09:43.8900182+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:59:20.5587933+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:09:40.3525152+00:00"
 }

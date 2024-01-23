@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 195,
   "Ranking_EOS_Completed": 327,
   "Ranking_EOS_NewPlayers": 82,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-12-14T16:00:00+00:00",
     "PcReleaseDate": "2021-12-14T16:00:00+00:00",
@@ -29,9 +29,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 8216,
+  "EOS_Progressed": 8218,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 1131,
+  "EOS_NewPlayers": 1124,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -3364,6 +3364,11 @@
       "Time": "2024-01-23T04:09:00.8391431+00:00",
       "NumProgressed": 8216,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-23T05:09:00.6333529+00:00",
+      "NumProgressed": 8218,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 16,
@@ -3407,7 +3412,7 @@
       "Name": "Keep Yourself Alive",
       "Percentage": 27,
       "XP": 50,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACH_KILLER_QUEEN",
@@ -3437,9 +3442,9 @@
       "ID": "ACH_NOW_IM_HERE",
       "SetID": "ca3jj1k",
       "Name": "Now I\u0027m Here",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 50,
-      "UsersEstimate": 3697
+      "UsersEstimate": 3780
     },
     {
       "ID": "ACH_PUT_OUT_THE_FIRE",
@@ -3463,7 +3468,7 @@
       "Name": "The Hero",
       "Percentage": 51,
       "XP": 50,
-      "UsersEstimate": 4190
+      "UsersEstimate": 4191
     },
     {
       "ID": "ACH_THE_HITMAN",
@@ -3471,7 +3476,7 @@
       "Name": "The Hitman",
       "Percentage": 27,
       "XP": 75,
-      "UsersEstimate": 2218
+      "UsersEstimate": 2219
     },
     {
       "ID": "ACH_THE_INVISIBLE",
@@ -3495,14 +3500,14 @@
       "Name": "We Will Rock You",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 739
+      "UsersEstimate": 740
     }
   ],
   "AchievementSets": [
     {
       "ID": "ca3jj1k",
       "IsBase": true,
-      "Progressed": 8216,
+      "Progressed": 8218,
       "Completed": 7
     }
   ],
@@ -3510,8 +3515,8 @@
   "FirstSeenRating": "2023-03-31T05:58:41.8457032+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:37.0797767+00:00",
   "LastChanged": "2023-03-31T05:58:41.8457033+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:09:00.8391428+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:09:00.6333526+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.7371937+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:57:16.9211942+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:09:00.8391676+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:57:27.9594707+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:09:00.6333756+00:00"
 }

@@ -6,20 +6,20 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~72,507 |
-| Initial Capital | 61.00% | ~58,972 |
-| Junior Supply Officer | 39.00% | ~37,704 |
-| Moneybags | 38.00% | ~36,737 |
-| Naval Warfare. Arson | 29.00% | ~28,036 |
-| Naval Warfare. Ramming | 28.00% | ~27,069 |
-| Amateur | 26.00% | ~25,136 |
-| Naval Warfare. Tactics | 26.00% | ~25,136 |
-| Naval Constructor | 25.00% | ~24,169 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~18,368 |
-| Naval Warfare. Flooding | 16.00% | ~15,468 |
-| Naval Warfare. Lucky Shot | 16.00% | ~15,468 |
-| Business Magnate | 13.00% | ~12,568 |
-| Battle Hero | 12.00% | ~11,601 |
+| Junior Naval Designer | 75.00% | ~72,512 |
+| Initial Capital | 61.00% | ~58,977 |
+| Junior Supply Officer | 39.00% | ~37,706 |
+| Moneybags | 38.00% | ~36,740 |
+| Naval Warfare. Arson | 29.00% | ~28,038 |
+| Naval Warfare. Ramming | 28.00% | ~27,071 |
+| Amateur | 26.00% | ~25,138 |
+| Naval Warfare. Tactics | 26.00% | ~25,138 |
+| Naval Constructor | 25.00% | ~24,171 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~18,370 |
+| Naval Warfare. Flooding | 16.00% | ~15,469 |
+| Naval Warfare. Lucky Shot | 16.00% | ~15,469 |
+| Business Magnate | 13.00% | ~12,569 |
+| Battle Hero | 12.00% | ~11,602 |
 | Warrior | 10.00% | ~9,668 |
 | Supply Officer | 10.00% | ~9,668 |
 | Smooth Supply | 10.00% | ~9,668 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~97 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,676 (Ranked 104)  
+Progressed: 96,683 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,7 +214,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 95,407 | 0 |
 | 2024-01-21 | 96,126 | 0 |
 | 2024-01-22 | 96,588 | 0 |
-| 2024-01-23 | 96,676 | 0 |
+| 2024-01-23 | 96,683 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,745  (Ranked 134)  
 Sum: 14,656 (Ranked 80)  

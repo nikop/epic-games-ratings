@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 289,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 196,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2023-03-10T21:30:00+00:00",
     "PcReleaseDate": "2014-01-14T21:30:00+00:00",
@@ -373,9 +373,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1255,
+  "EOS_Progressed": 1256,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 84,
+  "EOS_NewPlayers": 85,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3278,6 +3278,11 @@
       "Time": "2024-01-23T01:59:51.7860053+00:00",
       "NumProgressed": 1255,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T05:09:22.422002+00:00",
+      "NumProgressed": 1256,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-18T10:07:34.063249+00:00",
@@ -3298,7 +3303,7 @@
       "Name": "Highballer",
       "Percentage": 60,
       "XP": 90,
-      "UsersEstimate": 753
+      "UsersEstimate": 754
     },
     {
       "ID": "CareerChamp1",
@@ -3314,7 +3319,7 @@
       "Name": "National Amateurs Champion",
       "Percentage": 19,
       "XP": 30,
-      "UsersEstimate": 238
+      "UsersEstimate": 239
     },
     {
       "ID": "CareerChamp3",
@@ -3354,7 +3359,7 @@
       "Name": "Wheeler Dealer",
       "Percentage": 26,
       "XP": 30,
-      "UsersEstimate": 326
+      "UsersEstimate": 327
     },
     {
       "ID": "CollectVehiclesB",
@@ -3449,7 +3454,7 @@
     {
       "ID": "5hd282c",
       "IsBase": true,
-      "Progressed": 1255,
+      "Progressed": 1256,
       "Completed": 0
     }
   ],
@@ -3457,8 +3462,8 @@
   "FirstSeenRating": "2023-03-31T05:58:07.2367646+00:00",
   "FirstSeenAchievements": "2023-11-30T14:06:41.3577531+00:00",
   "LastChanged": "2024-01-21T13:59:24.6790776+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:09:24.5015477+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:09:22.4220018+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:01.1794911+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:00:26.9249096+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:09:24.5015696+00:00"
+  "LastUpdate_Ratings": "2024-01-23T05:00:15.5345904+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:09:22.4220275+00:00"
 }

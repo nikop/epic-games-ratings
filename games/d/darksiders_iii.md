@@ -27,7 +27,7 @@ Number of Ratings: 116  (23.09.2022)
 | Delusions of Grandeur | 36.00% | ~244 |
 | I Wanna Rock | 35.00% | ~237 |
 | Love Tap | 35.00% | ~237 |
-| Maximum Vigor | 33.00% | ~223 |
+| Maximum Vigor | 34.00% | ~230 |
 | Freeze Frame | 31.00% | ~210 |
 | Eat Your Heart Out | 31.00% | ~210 |
 | For Whom the Bell Tolls | 30.00% | ~203 |

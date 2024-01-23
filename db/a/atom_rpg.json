@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 263,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 269,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-04-06T21:00:00+00:00",
     "PcReleaseDate": "2022-04-06T21:00:00+00:00",
@@ -427,7 +427,7 @@
       "Count": 53
     }
   ],
-  "EOS_Progressed": 1761,
+  "EOS_Progressed": 1762,
   "EOS_Completed": 1,
   "EOS_NewPlayers": 22,
   "EOS_NewCompleters": 0,
@@ -4787,6 +4787,11 @@
       "Time": "2024-01-23T00:11:34.7326432+00:00",
       "NumProgressed": 1761,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T05:10:19.7007673+00:00",
+      "NumProgressed": 1762,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 36,
@@ -4854,7 +4859,7 @@
       "Name": "Atom Agent",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 1743
+      "UsersEstimate": 1744
     },
     {
       "ID": "EXPERT_1",
@@ -4886,7 +4891,7 @@
       "Name": "Grave Robber",
       "Percentage": 17,
       "XP": 5,
-      "UsersEstimate": 299
+      "UsersEstimate": 300
     },
     {
       "ID": "HEAD_BURST_1",
@@ -4918,7 +4923,7 @@
       "Name": "Kraina Grzybow",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "LOVE_GURU_1",
@@ -4926,7 +4931,7 @@
       "Name": "Love Guru",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "NEANDERTHAL_1",
@@ -4950,7 +4955,7 @@
       "Name": "One HIT wonder",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 616
+      "UsersEstimate": 617
     },
     {
       "ID": "ONE_SHOT_ONE_KILL_1",
@@ -5054,7 +5059,7 @@
       "Name": "Traveler",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 387
+      "UsersEstimate": 388
     },
     {
       "ID": "VVE",
@@ -5085,15 +5090,15 @@
     {
       "ID": "bf13m8j",
       "IsBase": true,
-      "Progressed": 1761,
+      "Progressed": 1762,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:25:27.3928405+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:26.9288986+00:00",
   "LastChanged": "2024-01-12T16:58:09.1410221+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:10:27.2093871+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:10:19.700767+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:28.2672243+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:58:38.5588433+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:10:27.2094259+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:58:39.8640952+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:10:19.700808+00:00"
 }

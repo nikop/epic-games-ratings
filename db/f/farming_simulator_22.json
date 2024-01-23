@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 33,
   "Ranking_EOS_Progress": 120,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 105,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 106,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-11-22T08:00:00+00:00",
     "PcReleaseDate": "2021-11-22T08:00:00+00:00",
@@ -13908,9 +13908,9 @@
       "Count": 1816
     }
   ],
-  "EOS_Progressed": 63569,
+  "EOS_Progressed": 63570,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 776,
+  "EOS_NewPlayers": 774,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40488,6 +40488,11 @@
       "Time": "2024-01-23T04:08:47.1421518+00:00",
       "NumProgressed": 63569,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T05:08:48.0230474+00:00",
+      "NumProgressed": 63570,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 43,
@@ -40651,7 +40656,7 @@
       "Name": "Own use",
       "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 45134
+      "UsersEstimate": 45135
     },
     {
       "ID": "HorseJumps",
@@ -40699,7 +40704,7 @@
       "Name": "Help me to help you",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 22249
+      "UsersEstimate": 22250
     },
     {
       "ID": "Money",
@@ -40731,7 +40736,7 @@
       "Name": "All out of Land",
       "Percentage": 41,
       "XP": 100,
-      "UsersEstimate": 26063
+      "UsersEstimate": 26064
     },
     {
       "ID": "NumProductionPoints",
@@ -40739,7 +40744,7 @@
       "Name": "Well-Oiled Machine",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 9535
+      "UsersEstimate": 9536
     },
     {
       "ID": "NumVehiclesLarge",
@@ -40755,7 +40760,7 @@
       "Name": "This is just my weekend vehicle",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34327
+      "UsersEstimate": 34328
     },
     {
       "ID": "PetDog",
@@ -40771,7 +40776,7 @@
       "Name": "It\u0027s just the beginning",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 34327
+      "UsersEstimate": 34328
     },
     {
       "ID": "Sow",
@@ -40787,7 +40792,7 @@
       "Name": "Just a sprinkle",
       "Percentage": 58,
       "XP": 5,
-      "UsersEstimate": 36870
+      "UsersEstimate": 36871
     },
     {
       "ID": "Stones",
@@ -40842,15 +40847,15 @@
     {
       "ID": "636ci4d",
       "IsBase": true,
-      "Progressed": 63569,
+      "Progressed": 63570,
       "Completed": 6
     }
   ],
   "FirstSeen": "2022-07-22T20:17:20.6370147+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:49.1962563+00:00",
   "LastChanged": "2024-01-23T03:57:08.9028816+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:08:47.1421515+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:08:48.0230472+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:49.3635803+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:57:08.9028824+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:08:47.1423181+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:57:20.5772765+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:08:48.023186+00:00"
 }

@@ -5,17 +5,17 @@ Rating: 4.43 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,322 |
-| Delving Onward | 69.00% | ~267,856 |
-| Miner's Helper | 59.00% | ~229,036 |
-| Suit Up | 54.00% | ~209,626 |
-| To the Mountain's Roots | 50.00% | ~194,098 |
-| Remains To Be Seen | 35.00% | ~135,869 |
-| Covered Head to Toe | 33.00% | ~128,105 |
-| Line of Azog, Ended | 32.00% | ~124,223 |
-| Risk a Little Real Light | 31.00% | ~120,341 |
-| Caradhras The Cruel | 19.00% | ~73,757 |
-| A Memory of this Place | 18.00% | ~69,875 |
+| Speak Friend | 82.00% | ~318,325 |
+| Delving Onward | 69.00% | ~267,859 |
+| Miner's Helper | 59.00% | ~229,039 |
+| Suit Up | 54.00% | ~209,629 |
+| To the Mountain's Roots | 50.00% | ~194,100 |
+| Remains To Be Seen | 35.00% | ~135,870 |
+| Covered Head to Toe | 33.00% | ~128,106 |
+| Line of Azog, Ended | 32.00% | ~124,224 |
+| Risk a Little Real Light | 31.00% | ~120,342 |
+| Caradhras The Cruel | 19.00% | ~73,758 |
+| A Memory of this Place | 18.00% | ~69,876 |
 | Battering Ram | 14.00% | ~54,348 |
 | False King, Deposed | 14.00% | ~54,348 |
 | Baruk Khazâd! | 13.00% | ~50,466 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 735)
 | Shielded | 1.00% | ~3,882 |
 | We're Gonna Need More Mugs | 0.20% | ~776 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,197 (Ranked 54)  
+Progressed: 388,201 (Ranked 54)  
 Completed: 392 (0.10%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,7 +129,7 @@ Completed: 392 (0.10%) (Ranked 320)
 | 2024-01-20 | 387,317 | 381 |
 | 2024-01-21 | 387,836 | 387 |
 | 2024-01-22 | 388,142 | 391 |
-| 2024-01-23 | 388,197 | 392 |
+| 2024-01-23 | 388,201 | 392 |
 ## Awards
 Max (Great for Beginners): 998  (Ranked 165)  
 Sum: 5,706 (Ranked 142)  

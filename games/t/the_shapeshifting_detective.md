@@ -8,7 +8,7 @@
 | Strong Silent Type | 91.00% | ~315 |
 | Play Me By The Hour | 70.00% | ~242 |
 | Patient Listener | 47.00% | ~163 |
-| Video Saved The Radio Star | 39.00% | ~135 |
+| Video Saved The Radio Star | 40.00% | ~138 |
 | Hashtag Winning | 36.00% | ~125 |
 | A Woman Scorned | 27.00% | ~93 |
 | Look Mum I'm A Detective | 21.00% | ~73 |

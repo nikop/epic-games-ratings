@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 117,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 115,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-07-22T15:00:00+00:00",
     "PcReleaseDate": "2013-09-19T15:00:00+00:00",
@@ -2009,7 +2009,7 @@
       "Count": 76
     }
   ],
-  "EOS_Progressed": 70225,
+  "EOS_Progressed": 70226,
   "EOS_Completed": 4,
   "EOS_NewPlayers": 608,
   "EOS_NewCompleters": 0,
@@ -32679,6 +32679,11 @@
       "Time": "2024-01-23T04:06:10.9235891+00:00",
       "NumProgressed": 70225,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T05:05:50.6283899+00:00",
+      "NumProgressed": 70226,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 59,
@@ -32754,7 +32759,7 @@
       "Name": "Bronze x100",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "VERDUN_ACH_CANADIANS",
@@ -32882,7 +32887,7 @@
       "Name": "Shoot, Cover, Reload, Repeat",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 1404
+      "UsersEstimate": 1405
     },
     {
       "ID": "VERDUN_ACH_GOLD10_KILLSTREAK",
@@ -32922,7 +32927,7 @@
       "Name": "Headhunter I",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 18258
+      "UsersEstimate": 18259
     },
     {
       "ID": "VERDUN_ACH_HEADSHOTS2",
@@ -33154,22 +33159,22 @@
       "Name": "Blast fishing",
       "Percentage": 37,
       "XP": 20,
-      "UsersEstimate": 25983
+      "UsersEstimate": 25984
     }
   ],
   "AchievementSets": [
     {
       "ID": "dje9lo9",
       "IsBase": true,
-      "Progressed": 70225,
+      "Progressed": 70226,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:26:07.9846696+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.7056855+00:00",
   "LastChanged": "2024-01-20T20:58:52.9716987+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:06:10.9235885+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:05:50.6283895+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:26.9198992+00:00",
-  "LastUpdate_Ratings": "2024-01-23T04:00:02.0359932+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:06:10.9237991+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:59:52.3659359+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:05:50.628562+00:00"
 }

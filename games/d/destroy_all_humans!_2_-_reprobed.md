@@ -34,9 +34,9 @@ Number of Ratings: 90  (23.09.2022)
 | Arkvoodle Doodle | 5.00% | ~23 |
 | Deincarnated | 3.00% | ~14 |
 | Forbidden Donut | 2.00% | ~9 |
+| The Optional Mandate | 2.00% | ~9 |
 | Arty Facts | 1.00% | ~5 |
 | Against All Odds | 1.00% | ~5 |
-| The Optional Mandate | 1.00% | ~5 |
 | Higher Than the Futen Zoku | 1.00% | ~5 |
 | Gotta Catch All the Pop Art | 0.90% | ~4 |
 | This Is Earth Radio | 0.90% | ~4 |

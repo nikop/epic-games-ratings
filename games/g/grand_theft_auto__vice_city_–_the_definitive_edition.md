@@ -15,12 +15,12 @@ Rating: 4.53 (Ranked 571)
 | Salutations My Little Friend | 12.00% | ~1,998 |
 | Iron-y | 10.00% | ~1,665 |
 | Gun for Hire | 10.00% | ~1,665 |
-| Mischief Managed | 9.00% | ~1,498 |
+| Mischief Managed | 9.00% | ~1,499 |
 | Vice City Mogul | 7.00% | ~1,166 |
 | Catch Me if You Can | 6.00% | ~999 |
 | Grand Theft Auto | 6.00% | ~999 |
 | Bloodstained Hands | 6.00% | ~999 |
-| Not my First Time | 5.00% | ~832 |
+| Not my First Time | 5.00% | ~833 |
 | High Quality H2O | 4.00% | ~666 |
 | Pie Guy | 4.00% | ~666 |
 | Running Rampant | 3.00% | ~500 |
@@ -33,14 +33,14 @@ Rating: 4.53 (Ranked 571)
 | City Sleuth | 3.00% | ~500 |
 | One is Better Than Two | 2.00% | ~333 |
 | Chopper’d Up | 2.00% | ~333 |
-| Born in the 80’s | 1.00% | ~166 |
-| Keepie-Uppy Okie Dokie | 1.00% | ~166 |
-| I'm Famous! | 1.00% | ~166 |
-| Daredevil | 1.00% | ~166 |
-| Done it All | 1.00% | ~166 |
+| Born in the 80’s | 1.00% | ~167 |
+| Keepie-Uppy Okie Dokie | 1.00% | ~167 |
+| I'm Famous! | 1.00% | ~167 |
+| Daredevil | 1.00% | ~167 |
+| Done it All | 1.00% | ~167 |
 | Kingpin | 0.70% | ~117 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 16,650 (Ranked 172)  
+Progressed: 16,652 (Ranked 172)  
 Completed: 109 (0.65%) (Ranked 211)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 109 (0.65%) (Ranked 211)
 | 2024-01-20 | 16,599 | 107 |
 | 2024-01-21 | 16,630 | 109 |
 | 2024-01-22 | 16,644 | 109 |
-| 2024-01-23 | 16,650 | 109 |
+| 2024-01-23 | 16,652 | 109 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

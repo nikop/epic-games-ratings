@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 363,
   "Ranking_EOS_Completed": 242,
   "Ranking_EOS_NewPlayers": 255,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-08-30T17:00:00+00:00",
     "PcReleaseDate": "2022-08-30T17:00:00+00:00",
@@ -2376,9 +2376,9 @@
       "ID": "ACH_OBJECTIVES_COMPLETEDALLOPTIONAL",
       "SetID": "4n84pon",
       "Name": "The Optional Mandate",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 5
+      "UsersEstimate": 9
     },
     {
       "ID": "ACH_OPEN_FLUFF_MENU",
@@ -2497,8 +2497,8 @@
   "FirstSeenRating": "2022-09-02T22:30:21.4748663+00:00",
   "FirstSeenAchievements": "2023-10-20T10:05:21.0409141+00:00",
   "LastChanged": "2024-01-10T11:58:35.6982603+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:09:55.8077537+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:09:51.2183452+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:57.780326+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:58:09.958608+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:09:55.8077838+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:58:14.5577153+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:09:51.2183804+00:00"
 }

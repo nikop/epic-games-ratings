@@ -4,8 +4,8 @@
   "ProductSlug": "aegis-descent-a1f5a0",
   "Ranking_EOS_Progress": 365,
   "Ranking_EOS_Completed": 283,
-  "Ranking_EOS_NewPlayers": 557,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewPlayers": 478,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-07-08T16:00:00+00:00",
     "PcReleaseDate": "2022-07-08T16:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 454,
+  "EOS_Progressed": 455,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.22,
   "EosHistory": [
@@ -560,6 +560,11 @@
       "Time": "2024-01-18T20:06:44.3666595+00:00",
       "NumProgressed": 454,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T05:04:03.3970544+00:00",
+      "NumProgressed": 455,
+      "NumCompleted": 1
     }
   ],
   "TotalAchievements": 44,
@@ -611,7 +616,7 @@
       "Name": "Clean Sweep",
       "Percentage": 93,
       "XP": 20,
-      "UsersEstimate": 422
+      "UsersEstimate": 423
     },
     {
       "ID": "Award_DeathFromAbove",
@@ -643,7 +648,7 @@
       "Name": "DocKing",
       "Percentage": 45,
       "XP": 15,
-      "UsersEstimate": 204
+      "UsersEstimate": 205
     },
     {
       "ID": "Award_EarlyBird",
@@ -657,9 +662,9 @@
       "ID": "Award_ExtraAmmo",
       "SetID": "9ojec6n",
       "Name": "Extra Ammo",
-      "Percentage": 19,
+      "Percentage": 18,
       "XP": 15,
-      "UsersEstimate": 86
+      "UsersEstimate": 82
     },
     {
       "ID": "Award_FinalAscension",
@@ -747,7 +752,7 @@
       "Name": "Line of Duty",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 322
+      "UsersEstimate": 323
     },
     {
       "ID": "Award_MilitaryIntelligence",
@@ -787,7 +792,7 @@
       "Name": "Perk King",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Award_Perky",
@@ -811,7 +816,7 @@
       "Name": "Salvage",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Award_Scavenger",
@@ -819,7 +824,7 @@
       "Name": "Scavenger",
       "Percentage": 73,
       "XP": 15,
-      "UsersEstimate": 331
+      "UsersEstimate": 332
     },
     {
       "ID": "Award_ShellShock",
@@ -835,7 +840,7 @@
       "Name": "Sixty Seconds",
       "Percentage": 10,
       "XP": 20,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Award_SoldierLockOn",
@@ -867,7 +872,7 @@
       "Name": "Shocking",
       "Percentage": 10,
       "XP": 25,
-      "UsersEstimate": 45
+      "UsersEstimate": 46
     },
     {
       "ID": "Award_SwissCheese",
@@ -915,14 +920,14 @@
       "Name": "What-A-Shot",
       "Percentage": 43,
       "XP": 20,
-      "UsersEstimate": 195
+      "UsersEstimate": 196
     }
   ],
   "AchievementSets": [
     {
       "ID": "9ojec6n",
       "IsBase": true,
-      "Progressed": 454,
+      "Progressed": 455,
       "Completed": 1
     }
   ],
@@ -930,8 +935,8 @@
   "FirstSeenRating": "2023-03-31T05:57:11.7672731+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:10.7474308+00:00",
   "LastChanged": "2023-03-31T05:57:11.7672732+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:04:17.8082151+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:04:03.3970541+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:46.1069395+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:59:59.6757586+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:04:17.8082455+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:59:50.30497+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:04:03.3970896+00:00"
 }

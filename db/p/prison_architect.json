@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 81,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 42,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2021-12-09T16:00:00+00:00",
     "PcReleaseDate": "2015-10-06T14:47:00+00:00",
@@ -8541,9 +8541,9 @@
       "Count": 459
     }
   ],
-  "EOS_Progressed": 220339,
+  "EOS_Progressed": 220344,
   "EOS_Completed": 13,
-  "EOS_NewPlayers": 3180,
+  "EOS_NewPlayers": 3178,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -40496,6 +40496,11 @@
       "Time": "2024-01-23T04:10:05.6745728+00:00",
       "NumProgressed": 220339,
       "NumCompleted": 13
+    },
+    {
+      "Time": "2024-01-23T05:09:59.9428837+00:00",
+      "NumProgressed": 220344,
+      "NumCompleted": 13
     }
   ],
   "TotalAchievements": 16,
@@ -40539,7 +40544,7 @@
       "Name": "Get Busy Living",
       "Percentage": 15,
       "XP": 60,
-      "UsersEstimate": 33051
+      "UsersEstimate": 33052
     },
     {
       "ID": "Achievement_13",
@@ -40587,7 +40592,7 @@
       "Name": "Stone Walls",
       "Percentage": 24,
       "XP": 40,
-      "UsersEstimate": 52881
+      "UsersEstimate": 52883
     },
     {
       "ID": "Achievement_5",
@@ -40634,15 +40639,15 @@
     {
       "ID": "7m3ikfb",
       "IsBase": true,
-      "Progressed": 220339,
+      "Progressed": 220344,
       "Completed": 13
     }
   ],
   "FirstSeen": "2022-07-22T20:17:08.1221803+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.6163088+00:00",
   "LastChanged": "2024-01-23T03:58:12.666548+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:10:05.6745724+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:09:59.9428833+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:53:59.4348703+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:58:12.6665487+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:10:05.6747329+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:58:17.0214804+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:09:59.9430404+00:00"
 }

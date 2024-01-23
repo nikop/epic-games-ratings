@@ -33,10 +33,10 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 1.00% | ~16 |
 | No Time for Clawmonsters | 1.00% | ~16 |
 | All My Birds, Safely Home | 0.90% | ~15 |
+| Storied Past | 0.80% | ~13 |
 | Bears are Scary | 0.80% | ~13 |
 | Fight Like a Bird | 0.80% | ~13 |
 | Tempest | 0.80% | ~13 |
-| Storied Past | 0.70% | ~11 |
 | Worldwalker | 0.70% | ~11 |
 | Bonebreakers | 0.70% | ~11 |
 | Plague Doctor | 0.70% | ~11 |

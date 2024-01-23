@@ -130,6 +130,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Revelation | 0.70% | ~120 |
 | Kushite Cavalry | 0.70% | ~120 |
 | Ambition Victory | 0.70% | ~120 |
+| Deposed Tribe | 0.70% | ~120 |
 | Clerics | 0.60% | ~103 |
 | Church of the Holy Sepulchre | 0.60% | ~103 |
 | Carthage | 0.60% | ~103 |
@@ -137,7 +138,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | One True Faith | 0.60% | ~103 |
 | Turreted Elephant | 0.60% | ~103 |
 | All Nations | 0.60% | ~103 |
-| Deposed Tribe | 0.60% | ~103 |
 | Jebel Barkal | 0.60% | ~103 |
 | Ishtar Gate in Babylon | 0.50% | ~86 |
 | Old | 0.50% | ~86 |

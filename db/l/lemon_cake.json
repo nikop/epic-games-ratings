@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 436,
   "Ranking_EOS_Completed": 184,
   "Ranking_EOS_NewPlayers": 379,
-  "Ranking_EOS_NewCompleters": 141,
+  "Ranking_EOS_NewCompleters": 140,
   "Store": {
     "ReleaseDate": "2022-09-29T23:00:00+00:00",
     "PcReleaseDate": "2021-02-18T01:00:00+00:00",
@@ -556,9 +556,9 @@
       "ID": "LC-10",
       "SetID": "ap2ljl4",
       "Name": "Luxury Kitchen",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 22
     },
     {
       "ID": "LC-11",
@@ -629,8 +629,8 @@
   "FirstSeenRating": "2023-03-31T05:58:18.6780256+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:16.6062065+00:00",
   "LastChanged": "2023-03-31T05:58:18.6780257+00:00",
-  "LastChanged_Achievements": "2024-01-23T04:09:24.8611143+00:00",
+  "LastChanged_Achievements": "2024-01-23T05:09:22.6644734+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:47.8157757+00:00",
-  "LastUpdate_Ratings": "2024-01-23T03:57:34.2214665+00:00",
-  "LastUpdate_Achievements": "2024-01-23T04:09:24.8611298+00:00"
+  "LastUpdate_Ratings": "2024-01-23T04:57:42.8382314+00:00",
+  "LastUpdate_Achievements": "2024-01-23T05:09:22.6644843+00:00"
 }

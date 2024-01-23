@@ -43,8 +43,8 @@ Rating: 4.65 (Ranked 326)
 | Smooth Operator | 4.00% | ~745 |
 | Peak Performance | 4.00% | ~745 |
 | Seasoned Rookie | 3.00% | ~559 |
+| Hitting a Century | 3.00% | ~559 |
 | Loyal Bond | 3.00% | ~559 |
-| Hitting a Century | 2.00% | ~373 |
 | Wait, I know you? | 2.00% | ~373 |
 | Filling in the Gaps | 1.00% | ~186 |
 | Media Darling | 1.00% | ~186 |

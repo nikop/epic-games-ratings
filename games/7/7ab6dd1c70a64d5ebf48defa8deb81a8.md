@@ -19,7 +19,7 @@ Rating: 4.21 (Ranked 968)
 | Stone Collection | 24.00% | ~583 |
 | Powerful Allies | 23.00% | ~559 |
 | Tributes of Caladrias | 23.00% | ~559 |
-| Big Bazar | 16.00% | ~389 |
+| Big Bazar | 17.00% | ~413 |
 | Alchemist | 16.00% | ~389 |
 | Essence Blow | 15.00% | ~365 |
 | The Mentor | 13.00% | ~316 |
