@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 407,
   "Ranking_EOS_Progress": 202,
   "Ranking_EOS_Completed": 315,
-  "Ranking_EOS_NewPlayers": 249,
+  "Ranking_EOS_NewPlayers": 247,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-02T16:00:00+00:00",
@@ -813,9 +813,9 @@
       "Count": 20
     }
   ],
-  "EOS_Progressed": 7291,
+  "EOS_Progressed": 7293,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -11473,6 +11473,11 @@
       "Time": "2024-01-23T18:05:48.3676032+00:00",
       "NumProgressed": 7291,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T20:05:54.1369188+00:00",
+      "NumProgressed": 7293,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 60,
@@ -11484,7 +11489,7 @@
       "Name": "Valley of Wonders",
       "Percentage": 7,
       "XP": 5,
-      "UsersEstimate": 510
+      "UsersEstimate": 511
     },
     {
       "ID": "10",
@@ -11612,7 +11617,7 @@
       "Name": "Secret Technique",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 1312
+      "UsersEstimate": 1313
     },
     {
       "ID": "25",
@@ -11684,7 +11689,7 @@
       "Name": "My Final Form",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "33",
@@ -11948,7 +11953,7 @@
       "Name": "But this one is mine",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 437
+      "UsersEstimate": 438
     },
     {
       "ID": "60",
@@ -11963,13 +11968,13 @@
     {
       "ID": "7132754",
       "IsBase": false,
-      "Progressed": 7291,
+      "Progressed": 7293,
       "Completed": 4769
     },
     {
       "ID": "3aa2279",
       "IsBase": true,
-      "Progressed": 7291,
+      "Progressed": 7293,
       "Completed": 8
     }
   ],
@@ -11977,8 +11982,8 @@
   "FirstSeenRating": "2023-05-02T18:59:30.6410078+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:49.308295+00:00",
   "LastChanged": "2024-01-23T19:02:49.8867252+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:06:20.8551172+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:05:54.1369184+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:43.4695029+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:02:49.8867258+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:06:20.8551997+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:02:29.9862098+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:05:54.1370127+00:00"
 }

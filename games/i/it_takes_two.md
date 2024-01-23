@@ -4,28 +4,28 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fried Friendship | 83.00% | ~106,228 |
-| Struck A Pose | 82.00% | ~104,949 |
-| Look At Him Go | 70.00% | ~89,590 |
-| On Rails Experience | 46.00% | ~58,874 |
-| A Daring Devil | 44.00% | ~56,314 |
-| Break the Bank | 34.00% | ~43,515 |
-| It Took Two | 33.00% | ~42,235 |
-| Bug Sized Relaxation | 15.00% | ~19,198 |
-| Plastic Prison Breakers | 13.00% | ~16,638 |
-| Terror Of The Seven Seas | 11.00% | ~14,078 |
-| Realize Your Art | 8.00% | ~10,239 |
-| Force Triangulated | 8.00% | ~10,239 |
-| Meditation Maestro | 8.00% | ~10,239 |
-| Lost And Found | 7.00% | ~8,959 |
-| Something Fishy | 7.00% | ~8,959 |
-| Snackosaurus | 6.00% | ~7,679 |
-| Platforming Prodigy | 6.00% | ~7,679 |
-| Mood Swing | 5.00% | ~6,399 |
+| Fried Friendship | 83.00% | ~106,241 |
+| Struck A Pose | 82.00% | ~104,961 |
+| Look At Him Go | 70.00% | ~89,601 |
+| On Rails Experience | 46.00% | ~58,880 |
+| A Daring Devil | 44.00% | ~56,320 |
+| Break the Bank | 34.00% | ~43,520 |
+| It Took Two | 33.00% | ~42,240 |
+| Bug Sized Relaxation | 15.00% | ~19,200 |
+| Plastic Prison Breakers | 13.00% | ~16,640 |
+| Terror Of The Seven Seas | 11.00% | ~14,080 |
+| Realize Your Art | 8.00% | ~10,240 |
+| Force Triangulated | 8.00% | ~10,240 |
+| Meditation Maestro | 8.00% | ~10,240 |
+| Lost And Found | 7.00% | ~8,960 |
+| Something Fishy | 7.00% | ~8,960 |
+| Snackosaurus | 6.00% | ~7,680 |
+| Platforming Prodigy | 6.00% | ~7,680 |
+| Mood Swing | 5.00% | ~6,400 |
 | Faraway Frequencies | 3.00% | ~3,840 |
 | Minigame Megalomania | 2.00% | ~2,560 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 127,986 (Ranked 93)  
+Progressed: 128,001 (Ranked 93)  
 Completed: 309 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -155,4 +155,4 @@ Completed: 309 (0.24%) (Ranked 279)
 | 2024-01-20 | 124,614 | 297 |
 | 2024-01-21 | 126,057 | 301 |
 | 2024-01-22 | 127,069 | 306 |
-| 2024-01-23 | 127,986 | 309 |
+| 2024-01-23 | 128,001 | 309 |

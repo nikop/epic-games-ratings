@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 321,
   "Ranking_EOS_Completed": 81,
   "Ranking_EOS_NewPlayers": 296,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2023-11-09T18:00:00+00:00",
     "PcReleaseDate": "2023-11-09T18:00:00+00:00",
@@ -2884,9 +2884,9 @@
       "ID": "ach_main11blessing_completed",
       "SetID": "4hg22ll",
       "Name": "Tanos\u0027 Crusade Against Thalya",
-      "Percentage": 48,
+      "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 378
+      "UsersEstimate": 386
     },
     {
       "ID": "ach_main11blessing_ghostheroes",
@@ -3133,8 +3133,8 @@
   "FirstSeenRating": "2023-12-28T14:01:53.0382271+00:00",
   "FirstSeenAchievements": "2023-09-26T09:07:26.2814309+00:00",
   "LastChanged": "2024-01-21T11:57:26.2456522+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:09:50.1450708+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:09:39.1682055+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:06.6955833+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:58:40.6477757+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:09:50.1451163+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:58:24.6796422+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:09:39.1682549+00:00"
 }

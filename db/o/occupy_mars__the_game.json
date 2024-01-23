@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 259,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 277,
+  "Ranking_EOS_NewPlayers": 278,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-10T16:00:00+00:00",
@@ -5395,9 +5395,9 @@
       "ID": "NEW_ACHIEVEMENT_GREATEST_BOTANIST",
       "SetID": "l546gc",
       "Name": "I am the greatest botanist on this planet.",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 50,
-      "UsersEstimate": 535
+      "UsersEstimate": 554
     },
     {
       "ID": "NEW_ACHIEVEMENT_HOUSTON_PROBLEM",
@@ -5572,8 +5572,8 @@
   "FirstSeenRating": "2023-05-17T09:57:13.2048267+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:10.052156+00:00",
   "LastChanged": "2024-01-16T15:59:32.5251341+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:09:56.6590152+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:09:45.9048832+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:00.6724547+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:59:33.4119061+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:09:56.6590625+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:59:19.1056739+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:09:45.9049393+00:00"
 }

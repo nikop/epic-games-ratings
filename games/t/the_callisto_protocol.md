@@ -8,8 +8,8 @@ Rating: 4.22 (Ranked 961)
 | Flesh Wound | 28.00% | ~6,352 |
 | The Outer Way | 28.00% | ~6,352 |
 | Desperate Times | 27.00% | ~6,125 |
-| Paper Jams | 25.00% | ~5,671 |
-| Get a Grip | 24.00% | ~5,444 |
+| Paper Jams | 25.00% | ~5,672 |
+| Get a Grip | 24.00% | ~5,445 |
 | Chew 'Em Up | 22.00% | ~4,991 |
 | Reforged | 21.00% | ~4,764 |
 | Float Like A Butterfly | 19.00% | ~4,310 |
@@ -24,7 +24,7 @@ Rating: 4.22 (Ranked 961)
 | Terminated | 12.00% | ~2,722 |
 | What Lies Beneath | 12.00% | ~2,722 |
 | Full Circle | 12.00% | ~2,722 |
-| You Need a Gun | 10.00% | ~2,268 |
+| You Need a Gun | 10.00% | ~2,269 |
 | I Do Belong Here | 9.00% | ~2,042 |
 | Keep Fighting | 8.00% | ~849 |
 | In Striking Distance | 6.00% | ~1,361 |
@@ -38,8 +38,8 @@ Rating: 4.22 (Ranked 961)
 | Grim Reaper | 1.00% | ~227 |
 | Instigator | 1.00% | ~106 |
 | Information Overload | 1.00% | ~106 |
-| Parole Denied | 0.90% | ~95 |
-| Quick Pick | 0.90% | ~95 |
+| Parole Denied | 0.90% | ~96 |
+| Quick Pick | 0.90% | ~96 |
 | Subject Alpha | 0.70% | ~74 |
 | The Protocol is About Life | 0.40% | ~91 |
 | Hoard Mode | 0.40% | ~42 |
@@ -53,7 +53,7 @@ Rating: 4.22 (Ranked 961)
 | Big Game Hunter | 0.10% | ~11 |
 | I am the Danger | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 22,685 (Ranked 153)  
+Progressed: 22,686 (Ranked 153)  
 Completed: 82 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -323,7 +323,7 @@ Completed: 82 (0.36%) (Ranked 254)
 | 2024-01-20 | 22,600 | 82 |
 | 2024-01-21 | 22,649 | 82 |
 | 2024-01-22 | 22,675 | 82 |
-| 2024-01-23 | 22,685 | 82 |
+| 2024-01-23 | 22,686 | 82 |
 ## Awards
 Max (Amazing Characters): 143  (Ranked 342)  
 Sum: 687 (Ranked 315)  

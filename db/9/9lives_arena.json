@@ -2,7 +2,7 @@
   "ID": "b6dd761bd5894441b3e3776b7bfe5bb4",
   "Name": "9Lives Arena",
   "ProductSlug": "9lives-arena-fb6229",
-  "Ranking_Rating": 802,
+  "Ranking_Rating": 801,
   "Ranking_Popularity": 567,
   "Ranking_PopularitySum": 574,
   "Ranking_EOS_Progress": 215,
@@ -145,9 +145,9 @@
       "Count": 23
     }
   ],
-  "EOS_Progressed": 4489,
+  "EOS_Progressed": 4490,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 428,
+  "EOS_NewPlayers": 423,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -3390,6 +3390,11 @@
       "Time": "2024-01-23T19:05:26.8093578+00:00",
       "NumProgressed": 4489,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T20:04:57.0463444+00:00",
+      "NumProgressed": 4490,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-20T23:05:42.1114138+00:00",
@@ -3441,7 +3446,7 @@
     {
       "ID": "13dm16l",
       "IsBase": true,
-      "Progressed": 4489,
+      "Progressed": 4490,
       "Completed": 0
     }
   ],
@@ -3449,8 +3454,8 @@
   "FirstSeenRating": "2024-01-06T12:01:38.2851422+00:00",
   "FirstSeenAchievements": "2023-12-07T00:03:10.2913253+00:00",
   "LastChanged": "2024-01-23T07:57:41.3838187+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:05:26.8093576+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:04:57.046344+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:49.9220174+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:58:03.8763037+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:05:26.809387+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:57:49.5079149+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:04:57.0463641+00:00"
 }

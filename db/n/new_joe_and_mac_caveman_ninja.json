@@ -4,7 +4,7 @@
   "ProductSlug": "new-joe-and-mac-caveman-ninja-bbaa73",
   "Ranking_EOS_Progress": 404,
   "Ranking_EOS_Completed": 132,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-12-01T11:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 308,
+  "EOS_Progressed": 309,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 2.27,
   "EosHistory": [
@@ -801,6 +801,11 @@
       "Time": "2024-01-14T19:04:23.5331962+00:00",
       "NumProgressed": 308,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-23T20:05:27.7182699+00:00",
+      "NumProgressed": 309,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 15,
@@ -812,7 +817,7 @@
       "Name": "The T-Rex plain.",
       "Percentage": 52,
       "XP": 20,
-      "UsersEstimate": 160
+      "UsersEstimate": 161
     },
     {
       "ID": "02",
@@ -826,9 +831,9 @@
       "ID": "03",
       "SetID": "6glb5g1",
       "Name": "In the treetops.",
-      "Percentage": 18,
+      "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 55
+      "UsersEstimate": 53
     },
     {
       "ID": "04",
@@ -836,7 +841,7 @@
       "Name": "At the top of the mountain.",
       "Percentage": 17,
       "XP": 40,
-      "UsersEstimate": 52
+      "UsersEstimate": 53
     },
     {
       "ID": "05",
@@ -916,7 +921,7 @@
       "Name": "Lightning swamp.",
       "Percentage": 6,
       "XP": 80,
-      "UsersEstimate": 18
+      "UsersEstimate": 19
     },
     {
       "ID": "15",
@@ -931,7 +936,7 @@
     {
       "ID": "6glb5g1",
       "IsBase": true,
-      "Progressed": 308,
+      "Progressed": 309,
       "Completed": 7
     }
   ],
@@ -939,8 +944,8 @@
   "FirstSeenRating": "2023-03-31T05:57:50.4741518+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:18.172885+00:00",
   "LastChanged": "2023-03-31T05:57:50.4741519+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:05:55.5692237+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:05:27.7182695+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:25.3828236+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:00:11.4810249+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:05:55.5692431+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:59:54.5024137+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:05:27.7182888+00:00"
 }

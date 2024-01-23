@@ -2,12 +2,12 @@
   "ID": "45a3134e24b3470dbd9ea94d17b3507b",
   "Name": "Townsmen - A Kingdom Rebuilt",
   "ProductSlug": "townsmen-a-kingdom-rebuilt-07c09d",
-  "Ranking_Rating": 916,
+  "Ranking_Rating": 915,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 216,
   "Ranking_EOS_Completed": 327,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-02-25T14:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4457,
+  "EOS_Progressed": 4458,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.09,
   "EosHistory": [
@@ -2102,6 +2102,11 @@
       "Time": "2024-01-17T19:10:40.3216731+00:00",
       "NumProgressed": 4457,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T20:10:18.6183583+00:00",
+      "NumProgressed": 4458,
+      "NumCompleted": 4
     }
   ],
   "TotalAchievements": 101,
@@ -2761,7 +2766,7 @@
       "Name": "Tax-man I",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACHIEVEMENT_TAXES2",
@@ -2865,7 +2870,7 @@
       "Name": "A new beginning",
       "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 579
+      "UsersEstimate": 580
     },
     {
       "ID": "ACHIEVEMENT_TUTORIAL_CAMPAIGN_MISSION02",
@@ -2920,15 +2925,15 @@
     {
       "ID": "9eacipp",
       "IsBase": true,
-      "Progressed": 4457,
+      "Progressed": 4458,
       "Completed": 4
     }
   ],
   "FirstSeen": "2022-07-22T20:17:10.6515246+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:46.2656175+00:00",
   "LastChanged": "2024-01-19T21:02:15.7846465+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:10:27.1816921+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:10:18.618358+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:27.8277767+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:58:39.6764691+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:10:27.1818472+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:58:23.7047611+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:10:18.6184459+00:00"
 }

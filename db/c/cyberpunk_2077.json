@@ -18974,10 +18974,10 @@
       "Count": 19955
     }
   ],
-  "EOS_Progressed": 1057736,
+  "EOS_Progressed": 1057762,
   "EOS_Completed": 3152,
-  "EOS_NewPlayers": 4762,
-  "EOS_NewCompleters": 44,
+  "EOS_NewPlayers": 4760,
+  "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
     {
@@ -50874,6 +50874,11 @@
       "Time": "2024-01-23T19:09:15.7079882+00:00",
       "NumProgressed": 1057736,
       "NumCompleted": 3152
+    },
+    {
+      "Time": "2024-01-23T20:09:03.0518825+00:00",
+      "NumProgressed": 1057762,
+      "NumCompleted": 3152
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50894,7 +50899,7 @@
       "Name": "To Bad Decisions!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "BushidoAndChill",
@@ -51006,7 +51011,7 @@
       "Name": "Christmas Tree Attack",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "MaxPain",
@@ -51030,7 +51035,7 @@
       "Name": "Breathtaking",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "NoMansLand",
@@ -51054,7 +51059,7 @@
       "Name": "Life of the Road",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "Roleplayer",
@@ -51062,7 +51067,7 @@
       "Name": "Stanislavski\u0027s Method",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "Specialist",
@@ -51070,7 +51075,7 @@
       "Name": "Ten out of Ten",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "Temperance",
@@ -51126,7 +51131,7 @@
       "Name": "The Lovers",
       "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "TheStar",
@@ -51134,7 +51139,7 @@
       "Name": "The Star",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "TheSun",
@@ -51142,7 +51147,7 @@
       "Name": "The Sun",
       "Percentage": 0.2,
       "XP": 30,
-      "UsersEstimate": 2115
+      "UsersEstimate": 2116
     },
     {
       "ID": "TheWheelOfFortune",
@@ -51230,7 +51235,7 @@
       "Name": "Legend of The Afterlife",
       "Percentage": 0.6,
       "XP": 30,
-      "UsersEstimate": 6346
+      "UsersEstimate": 6347
     },
     {
       "ID": "All the President\u0027s Men",
@@ -51421,21 +51426,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057736,
+      "Progressed": 1057762,
       "Completed": 3152
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186359,
+      "Progressed": 186385,
       "Completed": 10694
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-23T18:03:07.6048644+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:09:15.7079878+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:09:03.051882+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:03:21.5517089+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:09:15.7081426+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:03:04.1301944+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:09:03.0520506+00:00"
 }

@@ -6,17 +6,17 @@ Number of Ratings: 1,343  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The First of Many | 90.00% | ~997,704 |
-| I Need a Bigger Garage | 63.00% | ~698,393 |
-| Pump my Ride | 47.00% | ~521,023 |
-| Ghostbuster | 34.00% | ~376,910 |
-| Call Roadside Assistance | 18.00% | ~199,541 |
-| That Was Close | 18.00% | ~199,541 |
-| Quickie | 11.00% | ~121,942 |
-| California Dreamer | 7.00% | ~77,599 |
-| Can't Touch This | 5.00% | ~55,428 |
-| Carménère Taster | 4.00% | ~44,342 |
-| Comeback | 4.00% | ~44,342 |
+| The First of Many | 90.00% | ~997,717 |
+| I Need a Bigger Garage | 63.00% | ~698,402 |
+| Pump my Ride | 47.00% | ~521,030 |
+| Ghostbuster | 34.00% | ~376,915 |
+| Call Roadside Assistance | 18.00% | ~199,543 |
+| That Was Close | 18.00% | ~199,543 |
+| Quickie | 11.00% | ~121,943 |
+| California Dreamer | 7.00% | ~77,600 |
+| Can't Touch This | 5.00% | ~55,429 |
+| Carménère Taster | 4.00% | ~44,343 |
+| Comeback | 4.00% | ~44,343 |
 | Driver from Ipanema | 3.00% | ~33,257 |
 | Supersonic | 3.00% | ~33,257 |
 | Marathonist | 3.00% | ~33,257 |
@@ -44,7 +44,7 @@ Number of Ratings: 1,343  (23.09.2022)
 | Look Mom, No Hands! | 0.20% | ~2,217 |
 | Transporter | 0.10% | ~1,109 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,108,560 (Ranked 15)  
+Progressed: 1,108,574 (Ranked 15)  
 Completed: 539 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -322,10 +322,10 @@ Completed: 539 (0.05%) (Ranked 348)
 | 2024-01-20 | 1,107,465 | 538 |
 | 2024-01-21 | 1,107,941 | 538 |
 | 2024-01-22 | 1,108,276 | 539 |
-| 2024-01-23 | 1,108,560 | 539 |
+| 2024-01-23 | 1,108,574 | 539 |
 ## Awards
 Max (Great for Beginners): 187  (Ranked 313)  
-Sum: 1,660 (Ranked 238)  
+Sum: 1,661 (Ranked 238)  
 Diff (max vs sum): 75  
 | Award | Count |
 | ----- | ----- |
@@ -333,7 +333,7 @@ Diff (max vs sum): 75
 | This game is Great for Quick Sessions | 159 |
 | This game has Diverse Characters | 157 |
 | This game has Quickly Understood Controls | 152 |
-| This game is Relaxing | 146 |
+| This game is Relaxing | 147 |
 | This game is Highly Recommended | 143 |
 | This game has Competitive Players | 136 |
 | This game has Playful Visuals | 134 |
@@ -646,4 +646,4 @@ Diff (max vs sum): 75
 | 2024-01-20 | 4.55 | - | 187 | 1,656 |
 | 2024-01-21 | 4.55 | - | 187 | 1,657 |
 | 2024-01-22 | 4.55 | - | 187 | 1,658 |
-| 2024-01-23 | 4.55 | - | 187 | 1,660 |
+| 2024-01-23 | 4.55 | - | 187 | 1,661 |

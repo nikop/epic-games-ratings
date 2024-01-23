@@ -6,22 +6,22 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,199 |
-| First Steps | 80.00% | ~36,300 |
-| Control the Shadows | 67.00% | ~30,401 |
-| Tools of the Trade | 63.00% | ~28,586 |
-| Apprentice | 60.00% | ~27,225 |
-| Secret Seeker | 57.00% | ~25,864 |
-| Forge of Assassins | 55.00% | ~24,956 |
-| Revenant | 52.00% | ~23,595 |
-| I don’t Care! | 46.00% | ~20,872 |
+| Awakening | 93.00% | ~42,201 |
+| First Steps | 80.00% | ~36,302 |
+| Control the Shadows | 67.00% | ~30,403 |
+| Tools of the Trade | 63.00% | ~28,588 |
+| Apprentice | 60.00% | ~27,226 |
+| Secret Seeker | 57.00% | ~25,865 |
+| Forge of Assassins | 55.00% | ~24,957 |
+| Revenant | 52.00% | ~23,596 |
+| I don’t Care! | 46.00% | ~20,873 |
 | Bird of Prey | 37.00% | ~16,789 |
-| Engraved with Power | 32.00% | ~14,520 |
-| Lady | 31.00% | ~14,066 |
-| Fashionable Assassin | 27.00% | ~12,251 |
+| Engraved with Power | 32.00% | ~14,521 |
+| Lady | 31.00% | ~14,067 |
+| Fashionable Assassin | 27.00% | ~12,252 |
 | Apex Predator | 24.00% | ~10,890 |
-| Soul Reaver | 23.00% | ~10,436 |
-| Embers | 22.00% | ~9,982 |
+| Soul Reaver | 23.00% | ~10,437 |
+| Embers | 22.00% | ~9,983 |
 | Wall Lizard | 20.00% | ~9,075 |
 | Clinging to Life | 18.00% | ~8,168 |
 | Burning | 17.00% | ~7,714 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~908 |
 | Legacy | 2.00% | ~908 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,375 (Ranked 132)  
+Progressed: 45,377 (Ranked 132)  
 Completed: 251 (0.55%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 251 (0.55%) (Ranked 223)
 | 2024-01-20 | 45,311 | 251 |
 | 2024-01-21 | 45,332 | 251 |
 | 2024-01-22 | 45,353 | 251 |
-| 2024-01-23 | 45,375 | 251 |
+| 2024-01-23 | 45,377 | 251 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

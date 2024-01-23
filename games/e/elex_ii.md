@@ -1,17 +1,17 @@
 # ELEX II
 [Store](https://store.epicgames.com/en-US/p/elex-ii)  
 [View Rawdata](../../db/e/elex_ii.json)  
-Rating: 4.28 (Ranked 906)  
+Rating: 4.28 (Ranked 905)  
 Number of Ratings: 124  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 45.00% | ~128 |
-| Best Buddy | 39.00% | ~111 |
+| Entrepreneur | 44.00% | ~126 |
+| Best Buddy | 39.00% | ~112 |
 | Role Model | 36.00% | ~103 |
 | Civilian | 36.00% | ~103 |
 | Creator | 33.00% | ~94 |
-| Military Leader | 32.00% | ~91 |
+| Military Leader | 31.00% | ~89 |
 | Festival-goer | 29.00% | ~83 |
 | Peddler | 27.00% | ~77 |
 | Commander | 26.00% | ~74 |
@@ -29,7 +29,7 @@ Number of Ratings: 124  (23.09.2022)
 | Beam Me Up | 12.00% | ~34 |
 | Alb | 12.00% | ~34 |
 | Perfectionist | 12.00% | ~34 |
-| Free as a Bird | 11.00% | ~31 |
+| Free as a Bird | 10.00% | ~29 |
 | Treasure Hunter | 9.00% | ~26 |
 | Weaponsmith | 8.00% | ~23 |
 | Hotshot | 8.00% | ~23 |
@@ -39,7 +39,7 @@ Number of Ratings: 124  (23.09.2022)
 | Self-Sufficient | 5.00% | ~14 |
 | Unbreakable | 5.00% | ~14 |
 | Idealist | 4.00% | ~11 |
-| Legendary | 4.00% | ~11 |
+| Legendary | 3.00% | ~9 |
 | Toy Time | 2.00% | ~6 |
 | Defector | 2.00% | ~6 |
 | Morkon | 2.00% | ~6 |
@@ -48,7 +48,7 @@ Number of Ratings: 124  (23.09.2022)
 | Destroyer | 1.00% | ~3 |
 | Ruthless | 0.70% | ~2 |
 | Fire in the Hole | 0.70% | ~2 |
-| Defender | 0.40% | ~1 |
+| Defender | 0.30% | ~1 |
 | Drinker | 0.00% | ~0 |
 | Key Master | 0.00% | ~0 |
 | Socializer | 0.00% | ~0 |
@@ -57,7 +57,7 @@ Number of Ratings: 124  (23.09.2022)
 | Warrior | 0.00% | ~0 |
 | Enforcer | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 285 (Ranked 415)  
+Progressed: 286 (Ranked 415)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -98,7 +98,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 272 | 0 |
 | 2024-01-21 | 278 | 0 |
 | 2024-01-22 | 281 | 0 |
-| 2024-01-23 | 285 | 0 |
+| 2024-01-23 | 286 | 0 |
 ## Awards
 | Award | Count |
 | ----- | ----- |

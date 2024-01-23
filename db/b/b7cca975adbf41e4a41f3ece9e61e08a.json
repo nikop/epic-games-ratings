@@ -349,9 +349,9 @@
       "Count": 42
     }
   ],
-  "EOS_Progressed": 19009,
+  "EOS_Progressed": 19010,
   "EOS_Completed": 339,
-  "EOS_NewPlayers": 294,
+  "EOS_NewPlayers": 295,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 1.78,
   "EosHistory": [
@@ -10699,6 +10699,11 @@
       "Time": "2024-01-23T18:09:41.6807337+00:00",
       "NumProgressed": 19009,
       "NumCompleted": 339
+    },
+    {
+      "Time": "2024-01-23T20:09:51.1510741+00:00",
+      "NumProgressed": 19010,
+      "NumCompleted": 339
     }
   ],
   "AchievementsAdded": "2023-07-27T01:53:04.8005767+00:00",
@@ -10711,7 +10716,7 @@
       "Name": "Last Night...Did We...",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 16728
+      "UsersEstimate": 16729
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_1",
@@ -10719,7 +10724,7 @@
       "Name": "I Challenge You To Save More Money!",
       "Percentage": 81,
       "XP": 20,
-      "UsersEstimate": 15397
+      "UsersEstimate": 15398
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_10",
@@ -10743,7 +10748,7 @@
       "Name": "Off We Sail Tonight",
       "Percentage": 15,
       "XP": 50,
-      "UsersEstimate": 2851
+      "UsersEstimate": 2852
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_13",
@@ -10791,7 +10796,7 @@
       "Name": "Days Of Innocence",
       "Percentage": 27,
       "XP": 30,
-      "UsersEstimate": 5132
+      "UsersEstimate": 5133
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_19",
@@ -10807,7 +10812,7 @@
       "Name": "I Love How Tough You Are",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 12546
+      "UsersEstimate": 12547
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_20",
@@ -10895,7 +10900,7 @@
       "Name": "Wanna Come To My Place For Dinner?",
       "Percentage": 59,
       "XP": 20,
-      "UsersEstimate": 11215
+      "UsersEstimate": 11216
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_30",
@@ -10967,7 +10972,7 @@
       "Name": "Are You Alright?",
       "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 8934
+      "UsersEstimate": 8935
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_1",
@@ -10991,7 +10996,7 @@
       "Name": "David",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 4942
+      "UsersEstimate": 4943
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_4",
@@ -11023,7 +11028,7 @@
       "Name": "Drama King",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 7033
+      "UsersEstimate": 7034
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_8",
@@ -11046,7 +11051,7 @@
     {
       "ID": "7opfcp",
       "IsBase": true,
-      "Progressed": 19009,
+      "Progressed": 19010,
       "Completed": 339
     }
   ],
@@ -11054,8 +11059,8 @@
   "FirstSeenRating": "2023-10-25T05:57:58.9583524+00:00",
   "FirstSeenAchievements": "2023-07-26T06:03:03.3058446+00:00",
   "LastChanged": "2024-01-23T08:57:32.6452149+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:10:00.9812533+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:09:51.1510738+00:00",
   "LastUpdate_AppInfo": "2024-01-20T04:57:06.1449876+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:57:36.4013139+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:10:00.9813154+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:57:21.1100788+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:09:51.151137+00:00"
 }

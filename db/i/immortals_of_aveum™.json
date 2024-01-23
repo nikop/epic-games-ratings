@@ -4,7 +4,7 @@
   "ProductSlug": "immortals-of-aveum",
   "Ranking_Rating": 974,
   "Ranking_Popularity": 567,
-  "Ranking_PopularitySum": 526,
+  "Ranking_PopularitySum": 524,
   "Ranking_EOS_Progress": 230,
   "Ranking_EOS_Completed": 303,
   "Ranking_EOS_NewPlayers": 185,
@@ -511,10 +511,16 @@
       "Rating": 4.2,
       "NumberOfAwards": 43,
       "NumberOfAwardsMax": 23
+    },
+    {
+      "Time": "2024-01-23T19:58:05.0105984+00:00",
+      "Rating": 4.2,
+      "NumberOfAwards": 46,
+      "NumberOfAwardsMax": 23
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 43,
+  "NumberOfAwards": 46,
   "NumberOfAwardsMax": 23,
   "MaxAwardTitle": "Quickly Understood Controls",
   "Tags": [
@@ -528,12 +534,12 @@
       "Text": "This game is Relaxing",
       "Prefix": "This game is",
       "Type": "Relaxing",
-      "Count": 20
+      "Count": 23
     }
   ],
   "EOS_Progressed": 3587,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 113,
+  "EOS_NewPlayers": 112,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -6453,9 +6459,9 @@
       "ID": "achievement_62",
       "SetID": "18al4io",
       "Name": "Tip of the Spear",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 36
+      "UsersEstimate": 72
     },
     {
       "ID": "achievement_63",
@@ -6525,9 +6531,9 @@
   "FirstSeen": "2023-08-22T19:00:26.7529904+00:00",
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
-  "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:10:17.3910729+00:00",
+  "LastChanged": "2024-01-23T19:58:05.0105982+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:10:08.1326643+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:58:18.6598333+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:10:17.3911438+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:58:05.0105987+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:10:08.1327137+00:00"
 }

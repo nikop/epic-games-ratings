@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 113,
   "Ranking_EOS_Progress": 177,
   "Ranking_EOS_Completed": 129,
-  "Ranking_EOS_NewPlayers": 183,
-  "Ranking_EOS_NewCompleters": 71,
+  "Ranking_EOS_NewPlayers": 182,
+  "Ranking_EOS_NewCompleters": 70,
   "Store": {
     "ReleaseDate": "2022-09-06T13:00:00+00:00",
     "PcReleaseDate": "2022-09-06T13:00:00+00:00",
@@ -6055,10 +6055,16 @@
       "Rating": 4.76,
       "NumberOfAwards": 8468,
       "NumberOfAwardsMax": 1200
+    },
+    {
+      "Time": "2024-01-23T19:59:24.1969566+00:00",
+      "Rating": 4.76,
+      "NumberOfAwards": 8469,
+      "NumberOfAwardsMax": 1200
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 8468,
+  "NumberOfAwards": 8469,
   "NumberOfAwardsMax": 1200,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -6114,7 +6120,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 808
+      "Count": 809
     },
     {
       "Text": "This game has a Creative Community",
@@ -6129,9 +6135,9 @@
       "Count": 563
     }
   ],
-  "EOS_Progressed": 14304,
+  "EOS_Progressed": 14306,
   "EOS_Completed": 355,
-  "EOS_NewPlayers": 125,
+  "EOS_NewPlayers": 126,
   "EOS_NewCompleters": 3,
   "EOS_Completed_Percentage": 2.48,
   "EosHistory": [
@@ -26074,6 +26080,11 @@
       "Time": "2024-01-23T19:09:28.5255792+00:00",
       "NumProgressed": 14304,
       "NumCompleted": 355
+    },
+    {
+      "Time": "2024-01-23T20:09:16.2129246+00:00",
+      "NumProgressed": 14306,
+      "NumCompleted": 355
     }
   ],
   "TotalAchievements": 15,
@@ -26101,7 +26112,7 @@
       "Name": "Bestest Friend",
       "Percentage": 44,
       "XP": 75,
-      "UsersEstimate": 6294
+      "UsersEstimate": 6295
     },
     {
       "ID": "Chef_Cook",
@@ -26125,7 +26136,7 @@
       "Name": "Constructor",
       "Percentage": 50,
       "XP": 50,
-      "UsersEstimate": 7152
+      "UsersEstimate": 7153
     },
     {
       "ID": "Duty_Bound",
@@ -26141,7 +26152,7 @@
       "Name": "Gardener",
       "Percentage": 30,
       "XP": 75,
-      "UsersEstimate": 4291
+      "UsersEstimate": 4292
     },
     {
       "ID": "Generous",
@@ -26157,7 +26168,7 @@
       "Name": "Goofy\u0027s Investor",
       "Percentage": 68,
       "XP": 75,
-      "UsersEstimate": 9727
+      "UsersEstimate": 9728
     },
     {
       "ID": "Miner",
@@ -26165,7 +26176,7 @@
       "Name": "Miner",
       "Percentage": 11,
       "XP": 75,
-      "UsersEstimate": 1573
+      "UsersEstimate": 1574
     },
     {
       "ID": "Photographer",
@@ -26173,7 +26184,7 @@
       "Name": "Photographer",
       "Percentage": 67,
       "XP": 25,
-      "UsersEstimate": 9584
+      "UsersEstimate": 9585
     },
     {
       "ID": "Renovator",
@@ -26181,7 +26192,7 @@
       "Name": "Renovator",
       "Percentage": 50,
       "XP": 100,
-      "UsersEstimate": 7152
+      "UsersEstimate": 7153
     },
     {
       "ID": "Thorn_Cleaner",
@@ -26197,23 +26208,23 @@
       "Name": "Valley\u0027s Helper",
       "Percentage": 59,
       "XP": 100,
-      "UsersEstimate": 8439
+      "UsersEstimate": 8441
     }
   ],
   "AchievementSets": [
     {
       "ID": "chapdi4",
       "IsBase": true,
-      "Progressed": 14304,
+      "Progressed": 14306,
       "Completed": 355
     }
   ],
   "FirstSeen": "2022-09-06T14:01:24.7201642+00:00",
   "FirstSeenRating": "2022-09-06T23:00:48.1100285+00:00",
   "FirstSeenAchievements": "2023-06-13T11:04:21.3893095+00:00",
-  "LastChanged": "2024-01-23T17:59:24.9543719+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:09:28.5255788+00:00",
+  "LastChanged": "2024-01-23T19:59:24.1969564+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:09:16.2129243+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:39.3684077+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:59:38.0744246+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:09:28.5256835+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:59:24.1969568+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:09:16.2130329+00:00"
 }

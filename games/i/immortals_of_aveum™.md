@@ -39,9 +39,9 @@ Rating: 4.20 (Ranked 974)
 | Armaments Vert | 4.00% | ~143 |
 | Veteran | 3.00% | ~108 |
 | Grand Magnus | 2.00% | ~72 |
+| Tip of the Spear | 2.00% | ~72 |
 | Master of Carmine | 1.00% | ~36 |
 | Shroudfane Surveyor | 1.00% | ~36 |
-| Tip of the Spear | 1.00% | ~36 |
 | Witch-Taker | 0.90% | ~32 |
 | Master of Ultramarine | 0.90% | ~32 |
 | Backtracker | 0.90% | ~32 |
@@ -173,12 +173,12 @@ Completed: 5 (0.14%) (Ranked 303)
 | 2024-01-23 | 3,587 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 567)  
-Sum: 43 (Ranked 526)  
-Diff (max vs sum): 41  
+Sum: 46 (Ranked 524)  
+Diff (max vs sum): 43  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 23 |
-| This game is Relaxing | 20 |
+| This game is Relaxing | 23 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |
@@ -237,3 +237,4 @@ Diff (max vs sum): 41
 | 2024-01-16 | 4.19 | 21 | 21 |
 | 2024-01-19 | 4.19 | 22 | 42 |
 | 2024-01-21 | 4.20 | 23 | 43 |
+| 2024-01-23 | 4.20 | 23 | 46 |

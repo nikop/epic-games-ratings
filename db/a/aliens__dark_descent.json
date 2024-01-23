@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 501,
   "Ranking_EOS_Progress": 204,
   "Ranking_EOS_Completed": 348,
-  "Ranking_EOS_NewPlayers": 197,
+  "Ranking_EOS_NewPlayers": 198,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-19T22:00:00+00:00",
@@ -587,7 +587,7 @@
   ],
   "EOS_Progressed": 6548,
   "EOS_Completed": 3,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.05,
   "EosHistory": [
@@ -10472,9 +10472,9 @@
       "ID": "ACH_MAX_RECON",
       "SetID": "816efe",
       "Name": "Frontliner",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 15,
-      "UsersEstimate": 1179
+      "UsersEstimate": 1244
     },
     {
       "ID": "ACH_MAX_SERGEANT",
@@ -10673,8 +10673,8 @@
   "FirstSeenRating": "2023-06-25T13:13:06.1916648+00:00",
   "FirstSeenAchievements": "2023-04-25T20:50:43.221379+00:00",
   "LastChanged": "2024-01-23T16:59:17.3064618+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:05:53.8809632+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:05:25.9898167+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:24.1500873+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:58:56.0724207+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:05:53.8810321+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:58:39.3966176+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:05:25.9898928+00:00"
 }

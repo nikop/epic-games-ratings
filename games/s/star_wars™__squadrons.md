@@ -4,19 +4,19 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~41,552 |
-| Safety in the Storm | 23.00% | ~10,060 |
-| A Better Idea | 23.00% | ~10,060 |
-| Begin the Ceremony | 19.00% | ~8,310 |
-| Mission Accomplished | 18.00% | ~7,873 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,561 |
-| A Starfighter of Your Own | 13.00% | ~5,686 |
-| Asset Secured | 12.00% | ~5,249 |
-| Unkillable | 7.00% | ~3,062 |
-| Together, Vanguard | 7.00% | ~3,062 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,624 |
-| Sound Strategy | 5.00% | ~2,187 |
-| Stomped | 5.00% | ~2,187 |
+| Fracture at Fostar Haven | 95.00% | ~41,562 |
+| Safety in the Storm | 23.00% | ~10,062 |
+| A Better Idea | 23.00% | ~10,062 |
+| Begin the Ceremony | 19.00% | ~8,312 |
+| Mission Accomplished | 18.00% | ~7,875 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,562 |
+| A Starfighter of Your Own | 13.00% | ~5,688 |
+| Asset Secured | 12.00% | ~5,250 |
+| Unkillable | 7.00% | ~3,063 |
+| Together, Vanguard | 7.00% | ~3,063 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,625 |
+| Sound Strategy | 5.00% | ~2,188 |
+| Stomped | 5.00% | ~2,188 |
 | Fearless | 4.00% | ~1,750 |
 | Back From the Brink | 4.00% | ~1,750 |
 | Flames Over Mon Cala | 4.00% | ~1,750 |
@@ -30,7 +30,7 @@
 | Squadron Hunter | 2.00% | ~875 |
 | Combat Pilot | 2.00% | ~875 |
 | Dressed for the Job You Want | 2.00% | ~875 |
-| I Have You Now | 1.00% | ~437 |
+| I Have You Now | 1.00% | ~438 |
 | Against the Current | 0.80% | ~350 |
 | Denied | 0.70% | ~306 |
 | Found Your Place | 0.60% | ~262 |
@@ -42,9 +42,9 @@
 | The Galaxy's Finest (Veteran) | 0.30% | ~131 |
 | Across the Stars | 0.30% | ~131 |
 | Got 'Em | 0.30% | ~131 |
-| Victory for the New Republic | 0.20% | ~87 |
-| Victory for the Empire | 0.20% | ~87 |
-| Stay on Target | 0.20% | ~87 |
+| Victory for the New Republic | 0.20% | ~88 |
+| Victory for the Empire | 0.20% | ~88 |
+| Stay on Target | 0.20% | ~88 |
 | I Know a Few Maneuvers | 0.10% | ~44 |
 | Trigger Happy | 0.10% | ~44 |
 | Shallow Grave | 0.10% | ~44 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~44 |
 | Ultimate Weapon | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,739 (Ranked 136)  
+Progressed: 43,750 (Ranked 136)  
 Completed: 3 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 3 (0.01%) (Ranked 383)
 | 2024-01-20 | 42,941 | 3 |
 | 2024-01-21 | 43,332 | 3 |
 | 2024-01-22 | 43,563 | 3 |
-| 2024-01-23 | 43,739 | 3 |
+| 2024-01-23 | 43,750 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

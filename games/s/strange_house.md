@@ -8,8 +8,8 @@
 | Alcoholic | 20.00% | ~10 |
 | Underground | 20.00% | ~10 |
 | Chapter 1 | 18.00% | ~9 |
+| Lost Cat | 14.00% | ~7 |
 | Piglet | 12.00% | ~6 |
-| Lost Cat | 12.00% | ~6 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 50 (Ranked 568)  
 Completed: 1 (2.00%) (Ranked 139)  

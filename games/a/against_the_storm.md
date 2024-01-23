@@ -9,9 +9,9 @@ Number of Ratings: 1,845  (23.09.2022)
 | Taking Action | 10.00% | ~2,098 |
 | Abandoned Settlement | 10.00% | ~2,098 |
 | Overgrown Library | 10.00% | ~2,098 |
-| First Real Expedition | 9.00% | ~1,888 |
-| No Deaths | 9.00% | ~1,888 |
-| Petrified Necropolis | 9.00% | ~1,888 |
+| First Real Expedition | 9.00% | ~1,889 |
+| No Deaths | 9.00% | ~1,889 |
+| Petrified Necropolis | 9.00% | ~1,889 |
 | Overcoming Difficulty | 8.00% | ~1,679 |
 | Coral Forest | 8.00% | ~1,679 |
 | The Marshlands | 8.00% | ~1,679 |
@@ -34,13 +34,13 @@ Number of Ratings: 1,845  (23.09.2022)
 | Cursed Lands | 4.00% | ~839 |
 | Trade Baron | 4.00% | ~839 |
 | Untamed Wilds | 4.00% | ~839 |
-| Against All Odds | 3.00% | ~629 |
-| Bandit Camp | 3.00% | ~629 |
-| Barren Lands | 3.00% | ~629 |
-| Ancient Battleground | 3.00% | ~629 |
-| Sparkdew Crystals | 3.00% | ~629 |
-| Haunted Forest | 3.00% | ~629 |
-| Flooded Mines | 3.00% | ~629 |
+| Against All Odds | 3.00% | ~630 |
+| Bandit Camp | 3.00% | ~630 |
+| Barren Lands | 3.00% | ~630 |
+| Ancient Battleground | 3.00% | ~630 |
+| Sparkdew Crystals | 3.00% | ~630 |
+| Haunted Forest | 3.00% | ~630 |
+| Flooded Mines | 3.00% | ~630 |
 | Serving Ale | 2.00% | ~420 |
 | Efficient Explorer | 2.00% | ~420 |
 | Refinery | 2.00% | ~420 |
@@ -66,7 +66,7 @@ Number of Ratings: 1,845  (23.09.2022)
 | Paradise | 0.10% | ~21 |
 | Treasure | 0.10% | ~21 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 20,982 (Ranked 157)  
+Progressed: 20,984 (Ranked 157)  
 Completed: 34 (0.16%) (Ranked 297)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -344,7 +344,7 @@ Completed: 34 (0.16%) (Ranked 297)
 | 2024-01-20 | 20,926 | 35 |
 | 2024-01-21 | 20,958 | 34 |
 | 2024-01-22 | 20,975 | 34 |
-| 2024-01-23 | 20,982 | 34 |
+| 2024-01-23 | 20,984 | 34 |
 ## Awards
 Max (Quickly Understood Controls): 458  (Ranked 233)  
 Sum: 3,411 (Ranked 180)  

@@ -4,10 +4,10 @@
   "ProductSlug": "auto-chess",
   "Ranking_Rating": 601,
   "Ranking_Popularity": 177,
-  "Ranking_PopularitySum": 136,
+  "Ranking_PopularitySum": 137,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2019-08-23T15:00:00+00:00",
@@ -5527,11 +5527,17 @@
       "Rating": 4.51,
       "NumberOfAwards": 6535,
       "NumberOfAwardsMax": 885
+    },
+    {
+      "Time": "2024-01-23T19:59:04.1601884+00:00",
+      "Rating": 4.51,
+      "NumberOfAwards": 6539,
+      "NumberOfAwardsMax": 888
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 6535,
-  "NumberOfAwardsMax": 885,
+  "NumberOfAwards": 6539,
+  "NumberOfAwardsMax": 888,
   "MaxAwardTitle": "Diverse Characters",
   "Tags": [
     {
@@ -5550,7 +5556,7 @@
       "Text": "This game has Diverse Characters",
       "Prefix": "This game has",
       "Type": "Diverse Characters",
-      "Count": 885
+      "Count": 888
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -5598,7 +5604,7 @@
       "Text": "This game has a Competitive Community",
       "Prefix": "This game has a",
       "Type": "Competitive Community",
-      "Count": 455
+      "Count": 456
     }
   ],
   "EOS_Progressed": 0,
@@ -5612,8 +5618,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:21:31.7729603+00:00",
-  "LastChanged": "2024-01-23T10:59:54.1856055+00:00",
+  "LastChanged": "2024-01-23T19:59:04.1601883+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:32.5762987+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:59:18.8294859+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:08:35.1282794+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:59:04.1601888+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:08:20.0718742+00:00"
 }

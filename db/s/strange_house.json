@@ -4,7 +4,7 @@
   "ProductSlug": "strange-house-5fd1b5",
   "Ranking_EOS_Progress": 568,
   "Ranking_EOS_Completed": 139,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 479,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-03T11:00:00+00:00",
@@ -316,9 +316,9 @@
       "ID": "LostCat",
       "SetID": "a2ci5mh",
       "Name": "Lost Cat",
-      "Percentage": 12,
+      "Percentage": 14,
       "XP": 200,
-      "UsersEstimate": 6
+      "UsersEstimate": 7
     },
     {
       "ID": "Underground",
@@ -346,8 +346,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-04-25T20:46:48.3132312+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:09:29.3156562+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:09:17.0652065+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:44.9265749+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:03:24.1004543+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:09:29.3156633+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:03:06.1333248+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:09:17.0652135+00:00"
 }

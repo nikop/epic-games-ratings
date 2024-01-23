@@ -4,7 +4,7 @@
   "ProductSlug": "there-is-no-game-wrong-dimension-d2782b",
   "Ranking_EOS_Progress": 412,
   "Ranking_EOS_Completed": 182,
-  "Ranking_EOS_NewPlayers": 324,
+  "Ranking_EOS_NewPlayers": 323,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-13T18:00:00+00:00",
@@ -1330,9 +1330,9 @@
       "ID": "TINGWD_CHAP_END_05",
       "SetID": "c0imaa6",
       "Name": "It\u0027s not over yet",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 53
+      "UsersEstimate": 56
     },
     {
       "ID": "TINGWD_CHAP_END_06",
@@ -1513,8 +1513,8 @@
   ],
   "FirstSeen": "2023-11-14T04:01:29.6780803+00:00",
   "FirstSeenAchievements": "2023-11-06T19:03:25.519116+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:04:55.1057584+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:04:23.4972049+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:44.5427917+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:03:02.2508598+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:04:55.1057843+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:02:44.1765321+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:04:23.497239+00:00"
 }

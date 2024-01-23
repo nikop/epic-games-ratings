@@ -27,12 +27,12 @@ Rating: 4.87 (Ranked 25)
 | Alchemists Express | 23.00% | ~685 |
 | Free at last | 21.00% | ~625 |
 | A Link to the Past | 18.00% | ~536 |
-| A great audience | 15.00% | ~447 |
+| A great audience | 16.00% | ~476 |
 | For its own good | 15.00% | ~447 |
 | Fashion victim | 10.00% | ~298 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,977 (Ranked 236)  
-Completed: 232 (7.79%) (Ranked 51)  
+Completed: 233 (7.83%) (Ranked 51)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -216,7 +216,7 @@ Completed: 232 (7.79%) (Ranked 51)
 | 2024-01-20 | 2,917 | 224 |
 | 2024-01-21 | 2,942 | 229 |
 | 2024-01-22 | 2,963 | 232 |
-| 2024-01-23 | 2,977 | 232 |
+| 2024-01-23 | 2,977 | 233 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

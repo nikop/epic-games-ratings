@@ -2363,9 +2363,9 @@
       "Count": 58
     }
   ],
-  "EOS_Progressed": 22685,
+  "EOS_Progressed": 22686,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 227,
+  "EOS_NewPlayers": 226,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -14783,6 +14783,11 @@
       "Time": "2024-01-23T17:10:22.1504016+00:00",
       "NumProgressed": 22685,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-23T20:09:54.3630709+00:00",
+      "NumProgressed": 22686,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 47,
@@ -14818,7 +14823,7 @@
       "Name": "You Need a Gun",
       "Percentage": 10,
       "XP": 100,
-      "UsersEstimate": 2268
+      "UsersEstimate": 2269
     },
     {
       "ID": "DISARM_ENEMY",
@@ -14890,7 +14895,7 @@
       "Name": "Parole Denied",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     },
     {
       "ID": "GRP_25_ENEMIES",
@@ -14898,7 +14903,7 @@
       "Name": "Get a Grip",
       "Percentage": 24,
       "XP": 50,
-      "UsersEstimate": 5444
+      "UsersEstimate": 5445
     },
     {
       "ID": "GRP_MELEE_KILL",
@@ -14970,7 +14975,7 @@
       "Name": "Paper Jams",
       "Percentage": 25,
       "XP": 10,
-      "UsersEstimate": 5671
+      "UsersEstimate": 5672
     },
     {
       "ID": "SHARE_PHOTO",
@@ -15162,20 +15167,20 @@
       "Name": "Quick Pick",
       "Percentage": 0.9,
       "XP": 20,
-      "UsersEstimate": 95
+      "UsersEstimate": 96
     }
   ],
   "AchievementSets": [
     {
       "ID": "4hj6d86",
       "IsBase": true,
-      "Progressed": 22685,
+      "Progressed": 22686,
       "Completed": 82
     },
     {
       "ID": "6j5ggkc",
       "IsBase": false,
-      "Progressed": 10611,
+      "Progressed": 10612,
       "Completed": 29
     }
   ],
@@ -15183,8 +15188,8 @@
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
   "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:10:04.0677851+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:09:54.3630704+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:03:49.1956218+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:10:04.0678919+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:03:11.3596674+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:09:54.3631734+00:00"
 }

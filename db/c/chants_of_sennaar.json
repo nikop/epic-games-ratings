@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 236,
   "Ranking_EOS_Completed": 51,
-  "Ranking_EOS_NewPlayers": 171,
-  "Ranking_EOS_NewCompleters": 20,
+  "Ranking_EOS_NewPlayers": 172,
+  "Ranking_EOS_NewCompleters": 18,
   "Store": {
     "ReleaseDate": "2023-09-05T16:00:00+00:00",
     "PcReleaseDate": "2023-09-05T16:00:00+00:00",
@@ -152,10 +152,10 @@
   "NumberOfAwardsMax": 0,
   "Tags": [],
   "EOS_Progressed": 2977,
-  "EOS_Completed": 232,
-  "EOS_NewPlayers": 166,
-  "EOS_NewCompleters": 17,
-  "EOS_Completed_Percentage": 7.79,
+  "EOS_Completed": 233,
+  "EOS_NewPlayers": 165,
+  "EOS_NewCompleters": 18,
+  "EOS_Completed_Percentage": 7.83,
   "EosHistory": [
     {
       "Time": "2023-05-26T15:06:51.5877703+00:00",
@@ -7991,6 +7991,11 @@
       "Time": "2024-01-23T17:04:09.1431633+00:00",
       "NumProgressed": 2977,
       "NumCompleted": 232
+    },
+    {
+      "Time": "2024-01-23T20:03:30.3295838+00:00",
+      "NumProgressed": 2977,
+      "NumCompleted": 233
     }
   ],
   "TotalAchievements": 25,
@@ -8072,9 +8077,9 @@
       "ID": "META_RESULT_2-3",
       "SetID": "2gma9an",
       "Name": "A great audience",
-      "Percentage": 15,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 447
+      "UsersEstimate": 476
     },
     {
       "ID": "META_RESULT_2-4",
@@ -8202,15 +8207,15 @@
       "ID": "2gma9an",
       "IsBase": true,
       "Progressed": 2977,
-      "Completed": 232
+      "Completed": 233
     }
   ],
   "FirstSeen": "2023-09-05T21:00:17.8174205+00:00",
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:04:05.6529301+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:03:30.3295833+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:59:58.4915122+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:04:05.6529848+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:59:43.1444065+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:03:30.3296347+00:00"
 }

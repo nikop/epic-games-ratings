@@ -2,9 +2,9 @@
   "ID": "bce5e14327134bbd9f987dc12e220e20",
   "Name": "BloodRayne Betrayal Fresh Bites",
   "ProductSlug": "bloodrayne-betrayal-fresh-bites-8f1012",
-  "Ranking_EOS_Progress": 542,
+  "Ranking_EOS_Progress": 541,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 443,
+  "Ranking_EOS_NewPlayers": 420,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-11-04T17:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70,
+  "EOS_Progressed": 71,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -165,6 +165,11 @@
       "Time": "2024-01-22T15:11:03.2822188+00:00",
       "NumProgressed": 70,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T20:10:04.8899432+00:00",
+      "NumProgressed": 71,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 24,
@@ -216,7 +221,7 @@
       "Name": "Crab Cakes",
       "Percentage": 49,
       "XP": 10,
-      "UsersEstimate": 34
+      "UsersEstimate": 35
     },
     {
       "ID": "DropIn",
@@ -240,7 +245,7 @@
       "Name": "Finish Him",
       "Percentage": 89,
       "XP": 10,
-      "UsersEstimate": 62
+      "UsersEstimate": 63
     },
     {
       "ID": "FlightOfTheRaven",
@@ -272,7 +277,7 @@
       "Name": "Just a Taste",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 51
+      "UsersEstimate": 52
     },
     {
       "ID": "LastBullet",
@@ -334,7 +339,7 @@
       "ID": "StrangeSkulls",
       "SetID": "6jf74lf",
       "Name": "Strange Skulls",
-      "Percentage": 59,
+      "Percentage": 58,
       "XP": 10,
       "UsersEstimate": 41
     },
@@ -350,9 +355,9 @@
       "ID": "TreasureHunter",
       "SetID": "6jf74lf",
       "Name": "Treasure Hunter",
-      "Percentage": 54,
+      "Percentage": 55,
       "XP": 20,
-      "UsersEstimate": 38
+      "UsersEstimate": 39
     },
     {
       "ID": "WalkingOnAir",
@@ -367,7 +372,7 @@
     {
       "ID": "6jf74lf",
       "IsBase": true,
-      "Progressed": 70,
+      "Progressed": 71,
       "Completed": 0
     }
   ],
@@ -375,8 +380,8 @@
   "FirstSeenRating": "2023-03-31T05:58:13.7137735+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:16.1017514+00:00",
   "LastChanged": "2023-03-31T05:58:13.7137736+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:10:14.1154039+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:10:04.8899427+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:44.1751709+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:02:52.4092495+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:10:14.1154261+00:00"
+  "LastUpdate_Ratings": "2024-01-23T20:02:32.8541549+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:10:04.8899581+00:00"
 }

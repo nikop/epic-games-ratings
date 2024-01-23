@@ -4,31 +4,32 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Lesson of an evaporation | 75.00% | ~3 |
-| Dismembered | 75.00% | ~3 |
-| Like a balloon | 75.00% | ~3 |
-| Free fly | 75.00% | ~3 |
-| Take it easy | 75.00% | ~3 |
-| The longest story | 50.00% | ~2 |
-| Golden 100 | 50.00% | ~2 |
-| Bullets are not friends | 50.00% | ~2 |
-| Like a tomato | 50.00% | ~2 |
-| Anna Karenina | 50.00% | ~2 |
-| Be careful with a chandelier | 50.00% | ~2 |
-| Cube?? | 25.00% | ~1 |
-| Meat salad | 25.00% | ~1 |
-| Ticket to the Moon | 25.00% | ~1 |
-| Dennis | 25.00% | ~1 |
-| Douglas | 25.00% | ~1 |
-| Julia | 25.00% | ~1 |
-| Flowers for... | 25.00% | ~1 |
-| Noé | 25.00% | ~1 |
-| Hear that wisper | 25.00% | ~1 |
-| Run, Forest! Run! | 25.00% | ~1 |
+| Lesson of an evaporation | 80.00% | ~4 |
+| Dismembered | 80.00% | ~4 |
+| Like a balloon | 80.00% | ~4 |
+| Free fly | 80.00% | ~4 |
+| Take it easy | 80.00% | ~4 |
+| Golden 100 | 60.00% | ~3 |
+| Bullets are not friends | 60.00% | ~3 |
+| Like a tomato | 60.00% | ~3 |
+| Be careful with a chandelier | 60.00% | ~3 |
+| The longest story | 40.00% | ~2 |
+| Anna Karenina | 40.00% | ~2 |
+| Cube?? | 20.00% | ~1 |
+| Meat salad | 20.00% | ~1 |
+| Ticket to the Moon | 20.00% | ~1 |
+| Dennis | 20.00% | ~1 |
+| Douglas | 20.00% | ~1 |
+| Julia | 20.00% | ~1 |
+| Flowers for... | 20.00% | ~1 |
+| Noé | 20.00% | ~1 |
+| Hear that wisper | 20.00% | ~1 |
+| Run, Forest! Run! | 20.00% | ~1 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4 (Ranked 724)  
-Completed: 1 (25.00%) (Ranked 16)  
+Progressed: 5 (Ranked 715)  
+Completed: 1 (20.00%) (Ranked 23)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
 | 2023-04-25 | 4 | 1 |
+| 2024-01-23 | 5 | 1 |

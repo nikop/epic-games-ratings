@@ -12,11 +12,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.70% | ~7,404 |
 | The Wheel of Fortune | 0.70% | ~7,404 |
 | True Soldier | 0.70% | ~7,404 |
-| Christmas Tree Attack | 0.60% | ~6,346 |
-| Life of the Road | 0.60% | ~6,346 |
-| Stanislavski's Method | 0.60% | ~6,346 |
-| The Lovers | 0.60% | ~6,346 |
-| Legend of The Afterlife | 0.60% | ~6,346 |
+| Christmas Tree Attack | 0.60% | ~6,347 |
+| Life of the Road | 0.60% | ~6,347 |
+| Stanislavski's Method | 0.60% | ~6,347 |
+| The Lovers | 0.60% | ~6,347 |
+| Legend of The Afterlife | 0.60% | ~6,347 |
 | All the President's Men | 0.60% | ~1,118 |
 | Arachnophobia | 0.60% | ~1,118 |
 | Bushido and Chill | 0.50% | ~5,289 |
@@ -33,11 +33,11 @@ Number of Ratings: 32,700  (23.09.2022)
 | Two Heads, One Bullet | 0.30% | ~3,173 |
 | Spin Doctor | 0.30% | ~559 |
 | Easy Come, Easy Go | 0.30% | ~559 |
-| To Bad Decisions! | 0.20% | ~2,115 |
-| Breathtaking | 0.20% | ~2,115 |
-| Ten out of Ten | 0.20% | ~2,115 |
-| The Star | 0.20% | ~2,115 |
-| The Sun | 0.20% | ~2,115 |
+| To Bad Decisions! | 0.20% | ~2,116 |
+| Breathtaking | 0.20% | ~2,116 |
+| Ten out of Ten | 0.20% | ~2,116 |
+| The Star | 0.20% | ~2,116 |
+| The Sun | 0.20% | ~2,116 |
 | King of Wands | 0.20% | ~373 |
 | Dirty Deeds | 0.20% | ~373 |
 | City Lights | 0.10% | ~1,058 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,736 (Ranked 17)  
+Progressed: 1,057,762 (Ranked 17)  
 Completed: 3,152 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 3,152 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,736 | 3,152 |
+| 2024-01-23 | 1,057,762 | 3,152 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
 Sum: 515,705 (Ranked 8)  

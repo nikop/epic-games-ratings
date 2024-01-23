@@ -4,7 +4,7 @@
   "ProductSlug": "highway-driving-140121",
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-08T18:30:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-22T20:59:41.9325797+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:52.4047903+00:00",
-  "LastUpdate_Ratings": "2024-01-23T19:00:05.2441159+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:08:41.2006938+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:59:50.1998874+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:08:26.537252+00:00"
 }

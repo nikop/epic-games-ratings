@@ -5,40 +5,40 @@ Rating: 4.75 (Ranked 151)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Sort Who Makes an Entrance | 32.00% | ~123,850 |
-| First Class Student | 29.00% | ~112,239 |
-| Troll with the Punches | 27.00% | ~104,498 |
-| A Keen Sense of Spell | 24.00% | ~92,887 |
-| A Talent for Spending | 20.00% | ~77,406 |
-| That's a Keeper | 19.00% | ~73,536 |
-| Loom for Improvement | 16.00% | ~61,925 |
-| Followed the Butterflies | 15.00% | ~58,055 |
-| The Defender of Dragons | 14.00% | ~54,184 |
-| Challenge Accepted | 14.00% | ~54,184 |
-| The Hallowed Hero | 13.00% | ~50,314 |
-| Coasting Along | 13.00% | ~50,314 |
-| Grappling with a Graphorn | 12.00% | ~46,444 |
-| The One Who Mastered Memories | 12.00% | ~46,444 |
-| The Hero of Hogwarts | 12.00% | ~46,444 |
-| The Spell Master | 11.00% | ~42,573 |
-| Rising From the Ashes | 11.00% | ~42,573 |
-| The Avenging Gazelle | 9.00% | ~34,833 |
-| A Sallow Grave | 9.00% | ~34,833 |
-| Flight the Good Flight | 9.00% | ~34,833 |
-| Raising Expectations | 9.00% | ~34,833 |
-| Beast Friends | 8.00% | ~30,962 |
-| The Root of the Problem | 8.00% | ~30,962 |
-| The Gryffindor in the Graveyard | 8.00% | ~30,962 |
-| The Toast of the Town | 7.00% | ~27,092 |
-| Third Time's a Charm | 7.00% | ~27,092 |
-| The Seeker of Knowledge | 6.00% | ~23,222 |
-| Going Through the Potions | 6.00% | ~23,222 |
-| The Ends Petrify the Means | 6.00% | ~23,222 |
-| The Wise Owl | 6.00% | ~23,222 |
-| Put Down Roots | 4.00% | ~15,481 |
-| The Auror's Apprentice | 4.00% | ~15,481 |
-| Room with a View | 4.00% | ~15,481 |
-| The Intrepid Explorer | 4.00% | ~15,481 |
+| The Sort Who Makes an Entrance | 32.00% | ~123,854 |
+| First Class Student | 29.00% | ~112,243 |
+| Troll with the Punches | 27.00% | ~104,502 |
+| A Keen Sense of Spell | 24.00% | ~92,891 |
+| A Talent for Spending | 20.00% | ~77,409 |
+| That's a Keeper | 19.00% | ~73,539 |
+| Loom for Improvement | 16.00% | ~61,927 |
+| Followed the Butterflies | 15.00% | ~58,057 |
+| The Defender of Dragons | 14.00% | ~54,186 |
+| Challenge Accepted | 14.00% | ~54,186 |
+| The Hallowed Hero | 13.00% | ~50,316 |
+| Coasting Along | 13.00% | ~50,316 |
+| Grappling with a Graphorn | 12.00% | ~46,445 |
+| The One Who Mastered Memories | 12.00% | ~46,445 |
+| The Hero of Hogwarts | 12.00% | ~46,445 |
+| The Spell Master | 11.00% | ~42,575 |
+| Rising From the Ashes | 11.00% | ~42,575 |
+| The Avenging Gazelle | 9.00% | ~34,834 |
+| A Sallow Grave | 9.00% | ~34,834 |
+| Flight the Good Flight | 9.00% | ~34,834 |
+| Raising Expectations | 9.00% | ~34,834 |
+| Beast Friends | 8.00% | ~30,964 |
+| The Root of the Problem | 8.00% | ~30,964 |
+| The Gryffindor in the Graveyard | 8.00% | ~30,964 |
+| The Toast of the Town | 7.00% | ~27,093 |
+| Third Time's a Charm | 7.00% | ~27,093 |
+| The Seeker of Knowledge | 6.00% | ~23,223 |
+| Going Through the Potions | 6.00% | ~23,223 |
+| The Ends Petrify the Means | 6.00% | ~23,223 |
+| The Wise Owl | 6.00% | ~23,223 |
+| Put Down Roots | 4.00% | ~15,482 |
+| The Auror's Apprentice | 4.00% | ~15,482 |
+| Room with a View | 4.00% | ~15,482 |
+| The Intrepid Explorer | 4.00% | ~15,482 |
 | Floo Around the World | 3.00% | ~11,611 |
 | The Good Samaritan | 2.00% | ~7,741 |
 | Savvy Spender | 2.00% | ~7,741 |
@@ -51,7 +51,7 @@ Rating: 4.75 (Ranked 151)
 | The Nature of the Beast | 0.70% | ~2,709 |
 | Collector's Edition | 0.40% | ~1,548 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 387,031 (Ranked 56)  
+Progressed: 387,045 (Ranked 56)  
 Completed: 584 (0.15%) (Ranked 300)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,16 +329,16 @@ Completed: 584 (0.15%) (Ranked 300)
 | 2024-01-20 | 386,230 | 580 |
 | 2024-01-21 | 386,612 | 581 |
 | 2024-01-22 | 386,850 | 583 |
-| 2024-01-23 | 387,031 | 584 |
+| 2024-01-23 | 387,045 | 584 |
 ## Awards
 Max (Character Customization): 32,342  (Ranked 16)  
-Sum: 66,379 (Ranked 24)  
+Sum: 66,390 (Ranked 24)  
 Diff (max vs sum): -8  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 32,342 |
 | This game has Great Boss Battles | 17,037 |
-| This game is Great for Beginners | 1,923 |
+| This game is Great for Beginners | 1,934 |
 | This game is Extremely Fun | 1,838 |
 | This game has Amazing Storytelling | 1,830 |
 | This game is Relaxing | 1,780 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -8
 | 2024-01-20 | 4.75 | 31,905 | 65,176 |
 | 2024-01-21 | 4.75 | 32,072 | 65,650 |
 | 2024-01-22 | 4.75 | 32,228 | 66,082 |
-| 2024-01-23 | 4.75 | 32,342 | 66,379 |
+| 2024-01-23 | 4.75 | 32,342 | 66,390 |

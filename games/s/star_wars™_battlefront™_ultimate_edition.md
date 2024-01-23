@@ -4,12 +4,12 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| New Recruit | 86.00% | ~2,680 |
+| New Recruit | 86.00% | ~2,681 |
 | Off to a good start | 60.00% | ~1,870 |
-| Do... or do not. There is no try | 52.00% | ~1,620 |
+| Do... or do not. There is no try | 52.00% | ~1,621 |
 | A good blaster at your side | 24.00% | ~748 |
 | I suggest a new strategy | 17.00% | ~530 |
-| Great shot, kid! | 15.00% | ~467 |
+| Great shot, kid! | 15.00% | ~468 |
 | Scrap collector | 14.00% | ~436 |
 | All right, I'll give it a try | 14.00% | ~436 |
 | The power of the Force | 12.00% | ~374 |
@@ -27,10 +27,10 @@
 | Distinguished | 4.00% | ~125 |
 | Impressive. Most impressive. | 4.00% | ~125 |
 | Support the troops | 4.00% | ~125 |
-| A tremor in the Force | 3.00% | ~93 |
-| Safety ain't the point of a joyride | 3.00% | ~93 |
-| Not bad for a little furball | 3.00% | ~93 |
-| Patience you must have | 3.00% | ~93 |
+| A tremor in the Force | 3.00% | ~94 |
+| Safety ain't the point of a joyride | 3.00% | ~94 |
+| Not bad for a little furball | 3.00% | ~94 |
+| Patience you must have | 3.00% | ~94 |
 | The Force is strong with this one | 2.00% | ~62 |
 | I've been waiting for you | 2.00% | ~62 |
 | When 900 years old you reach... | 2.00% | ~62 |
@@ -68,7 +68,7 @@
 | Stay in attack formation | 0.10% | ~3 |
 | Crush them with one swift stroke… | 0.10% | ~3 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,116 (Ranked 234)  
+Progressed: 3,117 (Ranked 234)  
 Completed: 1 (0.03%) (Ranked 364)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -197,7 +197,7 @@ Completed: 1 (0.03%) (Ranked 364)
 | 2024-01-20 | 3,065 | 1 |
 | 2024-01-21 | 3,096 | 1 |
 | 2024-01-22 | 3,110 | 1 |
-| 2024-01-23 | 3,116 | 1 |
+| 2024-01-23 | 3,117 | 1 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -6,32 +6,32 @@ Number of Ratings: 56  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| light attack | 80.00% | ~346,486 |
-| good drivers have dead flies on the side windows | 32.00% | ~138,594 |
-| keep it tidy | 26.00% | ~112,608 |
-| brail | 26.00% | ~112,608 |
-| car wash | 23.00% | ~99,615 |
-| the artist | 23.00% | ~99,615 |
-| podium | 20.00% | ~86,621 |
-| medium attack | 17.00% | ~73,628 |
-| bicycle race | 6.00% | ~25,986 |
-| grocery-getter | 5.00% | ~21,655 |
-| autopilot | 4.00% | ~17,324 |
-| night ride | 4.00% | ~17,324 |
-| rwd only | 3.00% | ~12,993 |
-| where is the stage? | 3.00% | ~12,993 |
-| snorkel | 3.00% | ~12,993 |
-| food tour: pasta | 3.00% | ~12,993 |
-| to finish first, first you must finish | 2.00% | ~8,662 |
-| perkele | 2.00% | ~8,662 |
-| turbo | 2.00% | ~8,662 |
-| if in doubt, flat out! | 2.00% | ~8,662 |
-| you can't treat a car like a human being. a car requires love | 2.00% | ~8,662 |
-| mittens | 2.00% | ~8,662 |
-| food tour: pretzel | 2.00% | ~8,662 |
-| espresso | 1.00% | ~4,331 |
-| monster | 1.00% | ~4,331 |
-| in like a lamb, out like a lion | 1.00% | ~4,331 |
+| light attack | 80.00% | ~346,527 |
+| good drivers have dead flies on the side windows | 32.00% | ~138,611 |
+| keep it tidy | 26.00% | ~112,621 |
+| brail | 26.00% | ~112,621 |
+| car wash | 23.00% | ~99,627 |
+| the artist | 23.00% | ~99,627 |
+| podium | 20.00% | ~86,632 |
+| medium attack | 17.00% | ~73,637 |
+| bicycle race | 6.00% | ~25,990 |
+| grocery-getter | 5.00% | ~21,658 |
+| autopilot | 4.00% | ~17,326 |
+| night ride | 4.00% | ~17,326 |
+| rwd only | 3.00% | ~12,995 |
+| where is the stage? | 3.00% | ~12,995 |
+| snorkel | 3.00% | ~12,995 |
+| food tour: pasta | 3.00% | ~12,995 |
+| to finish first, first you must finish | 2.00% | ~8,663 |
+| perkele | 2.00% | ~8,663 |
+| turbo | 2.00% | ~8,663 |
+| if in doubt, flat out! | 2.00% | ~8,663 |
+| you can't treat a car like a human being. a car requires love | 2.00% | ~8,663 |
+| mittens | 2.00% | ~8,663 |
+| food tour: pretzel | 2.00% | ~8,663 |
+| espresso | 1.00% | ~4,332 |
+| monster | 1.00% | ~4,332 |
+| in like a lamb, out like a lion | 1.00% | ~4,332 |
 | eurobeat | 0.70% | ~3,032 |
 | viking | 0.70% | ~3,032 |
 | parallel universe | 0.70% | ~3,032 |
@@ -39,10 +39,10 @@ Number of Ratings: 56  (23.09.2022)
 | group b | 0.50% | ~2,166 |
 | maximum attack | 0.50% | ~2,166 |
 | samir | 0.50% | ~2,166 |
-| parking lot | 0.40% | ~1,732 |
-| master of rally | 0.40% | ~1,732 |
-| antilag | 0.40% | ~1,732 |
-| real roads, real fast | 0.40% | ~1,732 |
+| parking lot | 0.40% | ~1,733 |
+| master of rally | 0.40% | ~1,733 |
+| antilag | 0.40% | ~1,733 |
+| real roads, real fast | 0.40% | ~1,733 |
 | comfy seats | 0.30% | ~1,299 |
 | simulator | 0.20% | ~866 |
 | if everything seems under control, you're not going fast enough | 0.10% | ~433 |
@@ -50,7 +50,7 @@ Number of Ratings: 56  (23.09.2022)
 | barely keeping it together | 0.10% | ~433 |
 | you're here for a good time, not a long time | 0.10% | ~433 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 433,107 (Ranked 47)  
+Progressed: 433,159 (Ranked 47)  
 Completed: 27 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -258,11 +258,11 @@ Completed: 27 (0.01%) (Ranked 383)
 | 2024-01-20 | 429,113 | 26 |
 | 2024-01-21 | 430,837 | 26 |
 | 2024-01-22 | 432,130 | 27 |
-| 2024-01-23 | 433,107 | 27 |
+| 2024-01-23 | 433,159 | 27 |
 ## Awards
 Max (Quickly Understood Controls): 46  (Ranked 475)  
-Sum: 309 (Ranked 384)  
-Diff (max vs sum): 91  
+Sum: 312 (Ranked 382)  
+Diff (max vs sum): 93  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 46 |
@@ -273,8 +273,8 @@ Diff (max vs sum): 91
 | This game has Amazing Storytelling | 34 |
 | This game is Great for Beginners | 28 |
 | This game has Amazing Characters | 28 |
+| This game has a Competitive Community | 24 |
 | This game has Competitive Players | 23 |
-| This game has a Competitive Community | 21 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |
@@ -346,4 +346,4 @@ Diff (max vs sum): 91
 | 2024-01-20 | 4.64 | - | 45 | 291 |
 | 2024-01-21 | 4.64 | - | 46 | 299 |
 | 2024-01-22 | 4.64 | - | 46 | 304 |
-| 2024-01-23 | 4.64 | - | 46 | 309 |
+| 2024-01-23 | 4.64 | - | 46 | 312 |

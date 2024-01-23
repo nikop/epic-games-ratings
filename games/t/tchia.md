@@ -8,7 +8,7 @@ Rating: 4.69 (Ranked 242)
 | Energy Saver | 2.00% | ~180 |
 | In a Pinch | 2.00% | ~180 |
 | The Journey Onwards | 1.00% | ~90 |
-| Body and Soul | 0.80% | ~72 |
+| Body and Soul | 0.90% | ~81 |
 | Globe Trotter | 0.80% | ~72 |
 | Ahem Ahem | 0.70% | ~63 |
 | Soul-Canon | 0.70% | ~63 |
@@ -27,7 +27,7 @@ Rating: 4.69 (Ranked 242)
 | Snip Snip | 0.10% | ~9 |
 | Thing | 0.10% | ~9 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,987 (Ranked 191)  
+Progressed: 8,989 (Ranked 191)  
 Completed: 36 (0.40%) (Ranked 249)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -303,7 +303,7 @@ Completed: 36 (0.40%) (Ranked 249)
 | 2024-01-20 | 8,956 | 36 |
 | 2024-01-21 | 8,972 | 36 |
 | 2024-01-22 | 8,981 | 36 |
-| 2024-01-23 | 8,987 | 36 |
+| 2024-01-23 | 8,989 | 36 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

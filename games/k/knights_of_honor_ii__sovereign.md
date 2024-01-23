@@ -1,47 +1,52 @@
 # Knights of Honor II: Sovereign
 [Store](https://store.epicgames.com/en-US/p/knights-of-honor-ii-sovereign)  
 [View Rawdata](../../db/k/knights_of_honor_ii__sovereign.json)  
-Rating: 4.34 (Ranked 851)  
+Rating: 4.34 (Ranked 850)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 14.00% | ~10 |
+| Hail to the King, Baby | 15.00% | ~12 |
+| Full House | 11.00% | ~9 |
+| Can’t Touch This | 10.00% | ~8 |
+| There is no Nobility in Poverty | 10.00% | ~8 |
 | Bring it on! | 9.00% | ~7 |
-| Can’t Touch This | 8.00% | ~6 |
-| Full House | 8.00% | ~6 |
-| Help! Help! I’m being repressed | 8.00% | ~6 |
-| There is no Nobility in Poverty | 8.00% | ~6 |
+| Help! Help! I’m being repressed | 9.00% | ~7 |
+| Path of Glory | 7.00% | ~6 |
+| The finest merchandise this side of river Jordan | 6.00% | ~5 |
 | Call the Boys | 5.00% | ~4 |
-| Path of Glory | 5.00% | ~4 |
 | ‘Tis but a scratch | 5.00% | ~4 |
 | Desperate Times Call for Desperate Measures | 4.00% | ~3 |
 | Do you read Sutter Cane? | 4.00% | ~3 |
 | Kingslayer | 4.00% | ~3 |
 | Learn Me a Book | 4.00% | ~3 |
-| All the King's Men | 3.00% | ~2 |
-| Big Apple | 3.00% | ~2 |
-| Cut-Me-Own-Throat | 3.00% | ~2 |
-| Dinner Time | 3.00% | ~2 |
-| Forth, Eorlingas! | 3.00% | ~2 |
-| He made it out, but with an arrow in his back | 3.00% | ~2 |
-| On the third day at dawn, look east | 3.00% | ~2 |
-| Pillars of the Earth | 3.00% | ~2 |
-| The finest merchandise this side of river Jordan | 3.00% | ~2 |
-| They Got What They Deserved | 3.00% | ~2 |
-| Time to find India | 3.00% | ~2 |
+| What we’ve got here is failure to communicate | 4.00% | ~3 |
+| All the King's Men | 2.00% | ~2 |
+| Big Apple | 2.00% | ~2 |
+| Cut-Me-Own-Throat | 2.00% | ~2 |
+| Dinner Time | 2.00% | ~2 |
+| Forth, Eorlingas! | 2.00% | ~2 |
+| He made it out, but with an arrow in his back | 2.00% | ~2 |
+| Let Us Pray | 2.00% | ~2 |
+| On the third day at dawn, look east | 2.00% | ~2 |
+| Pillars of the Earth | 2.00% | ~2 |
+| Playerxander the Great | 2.00% | ~2 |
+| They Got What They Deserved | 2.00% | ~2 |
+| Time to find India | 2.00% | ~2 |
 | Battle of the Four Armies | 1.00% | ~1 |
 | Black Sheep Wall | 1.00% | ~1 |
 | Blinded by Science | 1.00% | ~1 |
 | Crusade Invoker, no Regret | 1.00% | ~1 |
 | Fighting with Power and Steel | 1.00% | ~1 |
+| Greed is Good | 1.00% | ~1 |
+| His All-Holiness | 1.00% | ~1 |
 | I started a joke | 1.00% | ~1 |
 | Fight Another Day | 1.00% | ~1 |
-| Let Us Pray | 1.00% | ~1 |
 | Let us trade with these fine people | 1.00% | ~1 |
 | Naught but a Seamless Victory | 1.00% | ~1 |
-| Playerxander the Great | 1.00% | ~1 |
+| Prince Ali! Fabulous he! | 1.00% | ~1 |
+| Scientia potentia es | 1.00% | ~1 |
 | Spartacus | 1.00% | ~1 |
-| What we’ve got here is failure to communicate | 1.00% | ~1 |
+| Vlad the Impaler | 1.00% | ~1 |
 | Why is there no culture victory?! | 1.00% | ~1 |
 | You reap what you sow | 1.00% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
@@ -61,9 +66,7 @@ Rating: 4.34 (Ranked 851)
 | From Rags to Riches | 0.00% | ~0 |
 | Game of Thorns | 0.00% | ~0 |
 | Genghis Khan | 0.00% | ~0 |
-| Greed is Good | 0.00% | ~0 |
 | Hail and Kill | 0.00% | ~0 |
-| His All-Holiness | 0.00% | ~0 |
 | His Holiness | 0.00% | ~0 |
 | His name is King | 0.00% | ~0 |
 | Holy Trinity | 0.00% | ~0 |
@@ -82,13 +85,11 @@ Rating: 4.34 (Ranked 851)
 | Open Your Eyes | 0.00% | ~0 |
 | Our Arrows Will Blot Out the Sun | 0.00% | ~0 |
 | Power Overwhelming | 0.00% | ~0 |
-| Prince Ali! Fabulous he! | 0.00% | ~0 |
 | Prison Break | 0.00% | ~0 |
 | Probably Just the Wind | 0.00% | ~0 |
 | Ragium quitos? | 0.00% | ~0 |
 | Ragnarok | 0.00% | ~0 |
 | Renaissance Man | 0.00% | ~0 |
-| Scientia potentia es | 0.00% | ~0 |
 | The Antipope | 0.00% | ~0 |
 | The Beginning of a Beautiful Friendship | 0.00% | ~0 |
 | The Magnificent Nine | 0.00% | ~0 |
@@ -98,7 +99,6 @@ Rating: 4.34 (Ranked 851)
 | Two Sides to Every Story | 0.00% | ~0 |
 | This is why we're here: Unobtanium | 0.00% | ~0 |
 | Valhalla Awaits Me | 0.00% | ~0 |
-| Vlad the Impaler | 0.00% | ~0 |
 | We Are the Champions | 0.00% | ~0 |
 | We want the money, Playerowski | 0.00% | ~0 |
 | Where’s your crown, king Nothing? | 0.00% | ~0 |
@@ -106,12 +106,12 @@ Rating: 4.34 (Ranked 851)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 74 (Ranked 536)  
+Progressed: 82 (Ranked 526)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 74 | 0 |
+| 2024-01-23 | 82 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

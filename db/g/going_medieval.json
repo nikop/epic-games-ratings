@@ -1715,9 +1715,9 @@
       "Count": 79
     }
   ],
-  "EOS_Progressed": 8067,
+  "EOS_Progressed": 8068,
   "EOS_Completed": 14,
-  "EOS_NewPlayers": 87,
+  "EOS_NewPlayers": 88,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -17260,6 +17260,11 @@
       "Time": "2024-01-23T18:05:21.5948624+00:00",
       "NumProgressed": 8067,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-23T20:05:26.612509+00:00",
+      "NumProgressed": 8068,
+      "NumCompleted": 14
     }
   ],
   "TotalAchievements": 31,
@@ -17271,7 +17276,7 @@
       "Name": "Get A Room",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 6131
+      "UsersEstimate": 6132
     },
     {
       "ID": "BUILD_WOOD_BEAM",
@@ -17287,7 +17292,7 @@
       "Name": "Disassembled",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "DISMANTLE_ITEMS_50",
@@ -17319,7 +17324,7 @@
       "Name": "Reap What You Sow",
       "Percentage": 73,
       "XP": 25,
-      "UsersEstimate": 5889
+      "UsersEstimate": 5890
     },
     {
       "ID": "HAVE_SATTLERS_10",
@@ -17343,7 +17348,7 @@
       "Name": "Oh Deer!",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "HUNT_RABBIT_20",
@@ -17375,7 +17380,7 @@
       "Name": "Don\u0027t Cry Wolf",
       "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 1129
+      "UsersEstimate": 1130
     },
     {
       "ID": "KILL_RAIDER",
@@ -17391,7 +17396,7 @@
       "Name": "Home Cooked Meal",
       "Percentage": 63,
       "XP": 25,
-      "UsersEstimate": 5082
+      "UsersEstimate": 5083
     },
     {
       "ID": "STORE_NUTRITION_10000",
@@ -17399,7 +17404,7 @@
       "Name": "Feast or Famine",
       "Percentage": 35,
       "XP": 25,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2824
     },
     {
       "ID": "STORE_NUTRITION_20000",
@@ -17407,7 +17412,7 @@
       "Name": "Fit For A King",
       "Percentage": 26,
       "XP": 50,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "STORE_NUTRITION_5000",
@@ -17415,7 +17420,7 @@
       "Name": "Putting Food on the Table",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 3549
+      "UsersEstimate": 3550
     },
     {
       "ID": "SURVIVE_FIRST_AUTUMN",
@@ -17431,7 +17436,7 @@
       "Name": "The First Day",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 5647
+      "UsersEstimate": 5648
     },
     {
       "ID": "SURVIVE_FIRST_RAID",
@@ -17455,7 +17460,7 @@
       "Name": "Winter Is Here",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 2097
+      "UsersEstimate": 2098
     },
     {
       "ID": "SURVIVE_FIRST_YEAR",
@@ -17463,7 +17468,7 @@
       "Name": "All Year Round",
       "Percentage": 23,
       "XP": 100,
-      "UsersEstimate": 1855
+      "UsersEstimate": 1856
     },
     {
       "ID": "SURVIVE_SEVEN_DAY",
@@ -17479,7 +17484,7 @@
       "Name": "Novice Researcher",
       "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 5566
+      "UsersEstimate": 5567
     },
     {
       "ID": "UNLOCK_RESEARCH_10",
@@ -17487,7 +17492,7 @@
       "Name": "Adept Researcher",
       "Percentage": 45,
       "XP": 75,
-      "UsersEstimate": 3630
+      "UsersEstimate": 3631
     },
     {
       "ID": "UNLOCK_RESEARCH_25",
@@ -17518,15 +17523,15 @@
     {
       "ID": "5349c2e",
       "IsBase": true,
-      "Progressed": 8067,
+      "Progressed": 8068,
       "Completed": 14
     }
   ],
   "FirstSeen": "2022-07-22T20:28:43.3022233+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:10.2850538+00:00",
   "LastChanged": "2024-01-20T17:00:34.4365504+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:05:54.4616699+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:05:26.6125085+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:27.945305+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:58:40.7739092+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:05:54.4617956+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:58:24.8166636+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:05:26.612605+00:00"
 }

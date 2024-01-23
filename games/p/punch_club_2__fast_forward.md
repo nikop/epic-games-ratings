@@ -24,17 +24,17 @@
 | Spirit of the past | 57.00% | ~345 |
 | Employee of the month | 56.00% | ~339 |
 | Law student | 55.00% | ~333 |
+| Workout professional | 52.00% | ~315 |
 | Little hacker | 52.00% | ~315 |
 | Handyman | 52.00% | ~315 |
-| Workout professional | 51.00% | ~309 |
 | Fight for life | 51.00% | ~309 |
 | Champion – starter pack | 51.00% | ~309 |
 | It's good to be alive | 51.00% | ~309 |
 | Intriguing candies | 51.00% | ~309 |
 | Own four walls | 50.00% | ~302 |
 | Employee of the year | 50.00% | ~302 |
+| Extreme neuropower! | 47.00% | ~284 |
 | Legal courier | 46.00% | ~278 |
-| Extreme neuropower! | 46.00% | ~278 |
 | Escaped from a big trouble | 44.00% | ~266 |
 | Fight is life | 40.00% | ~242 |
 | Now you are worthy | 39.00% | ~236 |
@@ -57,13 +57,13 @@
 | Not little hacker | 29.00% | ~175 |
 | Problems of cyborgs | 28.00% | ~169 |
 | Another world | 28.00% | ~169 |
+| The lonesome road | 28.00% | ~169 |
 | Family comes first | 28.00% | ~169 |
+| Key memories | 28.00% | ~169 |
+| The heart of the Resistance | 28.00% | ~169 |
 | Trap disarmed | 27.00% | ~163 |
-| The lonesome road | 27.00% | ~163 |
 | Keep nature safe | 27.00% | ~163 |
-| Key memories | 27.00% | ~163 |
 | Careerist | 27.00% | ~163 |
-| The heart of the Resistance | 27.00% | ~163 |
 | The only right decision | 26.00% | ~157 |
 | The last bell ring | 26.00% | ~157 |
 | Anyone can resist | 26.00% | ~157 |

@@ -2,12 +2,12 @@
   "ID": "dcbacb85c17e4d39b885d0ba252dc8a7",
   "Name": "Stubbs the Zombie in Rebel Without a Pulse",
   "ProductSlug": "stubbs-the-zombie-in-rebel-without-a-pulse",
-  "Ranking_Rating": 838,
+  "Ranking_Rating": 837,
   "Ranking_Popularity": 457,
   "Ranking_PopularitySum": 515,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-10-14T15:00:00+00:00",
@@ -567,6 +567,6 @@
   "FirstSeen": "2022-07-22T20:32:41.8050293+00:00",
   "LastChanged": "2023-12-23T23:58:10.1082656+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:44.9008841+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:58:28.6456201+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:08:10.1858594+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:58:12.997995+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:06:14.2729828+00:00"
 }

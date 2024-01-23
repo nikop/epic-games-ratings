@@ -4,7 +4,7 @@
   "ProductSlug": "return-to-abyss-226301",
   "Ranking_EOS_Progress": 483,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 476,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-06-05T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 136,
+  "EOS_Progressed": 137,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -614,6 +614,11 @@
       "Time": "2024-01-22T11:05:01.6971847+00:00",
       "NumProgressed": 136,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T20:04:24.0451493+00:00",
+      "NumProgressed": 137,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 48,
@@ -625,7 +630,7 @@
       "Name": "10,000-Volt Electric Field",
       "Percentage": 72,
       "XP": 10,
-      "UsersEstimate": 98
+      "UsersEstimate": 99
     },
     {
       "ID": "Epic_AsteroidBase_1",
@@ -639,9 +644,9 @@
       "ID": "Epic_Brand_25",
       "SetID": "ba1m2fc",
       "Name": "Pilgrim",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 20,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "Epic_ChainSaw_1",
@@ -751,9 +756,9 @@
       "ID": "Epic_GoldenCity_1",
       "SetID": "ba1m2fc",
       "Name": "Dystopia",
-      "Percentage": 48,
+      "Percentage": 47,
       "XP": 10,
-      "UsersEstimate": 65
+      "UsersEstimate": 64
     },
     {
       "ID": "Epic_GoldenCoins_10000000",
@@ -777,15 +782,15 @@
       "Name": "Heart-aimed Arrow",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "Epic_HolyLight_1",
       "SetID": "ba1m2fc",
       "Name": "Exorcism",
-      "Percentage": 78,
+      "Percentage": 77,
       "XP": 10,
-      "UsersEstimate": 106
+      "UsersEstimate": 105
     },
     {
       "ID": "Epic_HomeRun_1",
@@ -799,7 +804,7 @@
       "ID": "Epic_Hunter_c0190900-91ca-4012-b070-e45fedf5cf41_1",
       "SetID": "ba1m2fc",
       "Name": "Wrecking Ball",
-      "Percentage": 62,
+      "Percentage": 61,
       "XP": 20,
       "UsersEstimate": 84
     },
@@ -857,7 +862,7 @@
       "Name": "Knife Out",
       "Percentage": 26,
       "XP": 10,
-      "UsersEstimate": 35
+      "UsersEstimate": 36
     },
     {
       "ID": "Epic_Parasitic_1",
@@ -887,9 +892,9 @@
       "ID": "Epic_Purgatory_1",
       "SetID": "ba1m2fc",
       "Name": "Paradise Lost",
-      "Percentage": 74,
+      "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 101
+      "UsersEstimate": 100
     },
     {
       "ID": "Epic_Revenge_1",
@@ -911,9 +916,9 @@
       "ID": "Epic_RustySickle_1",
       "SetID": "ba1m2fc",
       "Name": "Life Harvest",
-      "Percentage": 35,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 47
     },
     {
       "ID": "Epic_ShellBreaking_1",
@@ -951,17 +956,17 @@
       "ID": "Epic_SwampPet_1",
       "SetID": "ba1m2fc",
       "Name": "The Indescribable",
-      "Percentage": 38,
+      "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 52
+      "UsersEstimate": 51
     },
     {
       "ID": "Epic_Swamp_1",
       "SetID": "ba1m2fc",
       "Name": "Fallen Eden",
-      "Percentage": 32,
+      "Percentage": 31,
       "XP": 10,
-      "UsersEstimate": 44
+      "UsersEstimate": 42
     },
     {
       "ID": "Epic_Times_100",
@@ -977,7 +982,7 @@
       "Name": "Winds of Destruction",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 83
+      "UsersEstimate": 84
     },
     {
       "ID": "Epic_Treasure_1000",
@@ -1008,14 +1013,14 @@
     {
       "ID": "ba1m2fc",
       "IsBase": true,
-      "Progressed": 136,
+      "Progressed": 137,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-06-06T02:19:27.4871578+00:00",
   "FirstSeenAchievements": "2023-06-01T03:29:11.6586734+00:00",
-  "LastChanged_Achievements": "2024-01-23T19:04:55.6845604+00:00",
+  "LastChanged_Achievements": "2024-01-23T20:04:24.0451488+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.2529391+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:57:54.5887774+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:04:55.6845989+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:57:39.7003122+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:04:24.0451881+00:00"
 }

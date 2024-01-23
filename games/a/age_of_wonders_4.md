@@ -5,7 +5,7 @@ Rating: 4.63 (Ranked 360)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Secret Technique | 18.00% | ~1,312 |
+| Secret Technique | 18.00% | ~1,313 |
 | Realm Estate | 16.00% | ~1,167 |
 | A Wonderful Discovery | 15.00% | ~1,094 |
 | Walls Cannot Stop Us | 15.00% | ~1,094 |
@@ -18,9 +18,9 @@ Rating: 4.63 (Ranked 360)
 | Seat of Power | 9.00% | ~656 |
 | In a Liege of Your Own | 8.00% | ~583 |
 | Intimidation Tactics | 8.00% | ~583 |
-| Valley of Wonders | 7.00% | ~510 |
-| My Final Form | 6.00% | ~437 |
-| But this one is mine | 6.00% | ~437 |
+| Valley of Wonders | 7.00% | ~511 |
+| My Final Form | 6.00% | ~438 |
+| But this one is mine | 6.00% | ~438 |
 | Return of the Wizard King | 5.00% | ~365 |
 | Enchanted Archipelago | 5.00% | ~365 |
 | Digging for Treasure | 5.00% | ~365 |
@@ -66,7 +66,7 @@ Rating: 4.63 (Ranked 360)
 | The Grey Wizard | 0.10% | ~7 |
 | Draconic Connoisseur | 0.10% | ~7 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,291 (Ranked 202)  
+Progressed: 7,293 (Ranked 202)  
 Completed: 8 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 8 (0.11%) (Ranked 315)
 | 2024-01-20 | 7,279 | 8 |
 | 2024-01-21 | 7,285 | 8 |
 | 2024-01-22 | 7,287 | 8 |
-| 2024-01-23 | 7,291 | 8 |
+| 2024-01-23 | 7,293 | 8 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
 Sum: 245 (Ranked 407)  

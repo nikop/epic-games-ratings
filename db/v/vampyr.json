@@ -2,12 +2,12 @@
   "ID": "nautilus",
   "Name": "Vampyr",
   "ProductSlug": "vampyr",
-  "Ranking_Rating": 873,
+  "Ranking_Rating": 872,
   "Ranking_Popularity": 215,
   "Ranking_PopularitySum": 302,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
+  "Ranking_EOS_NewPlayers": 549,
   "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2018-06-05T15:00:00+00:00",
@@ -1580,6 +1580,6 @@
   "FirstSeen": "2022-07-22T20:29:20.3532845+00:00",
   "LastChanged": "2024-01-19T20:02:39.6508736+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:28.8269141+00:00",
-  "LastUpdate_Ratings": "2024-01-23T18:59:06.1060442+00:00",
-  "LastUpdate_Achievements": "2024-01-23T19:04:12.8293871+00:00"
+  "LastUpdate_Ratings": "2024-01-23T19:58:49.9442834+00:00",
+  "LastUpdate_Achievements": "2024-01-23T20:03:37.6234771+00:00"
 }
