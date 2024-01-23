@@ -13,8 +13,8 @@ Number of Ratings: 281  (23.09.2022)
 | Scaling up | 15.00% | ~1,261 |
 | I'm on a Boat! | 14.00% | ~1,177 |
 | Ready to Rod and Roll | 12.00% | ~1,009 |
-| Fish Out of Water | 8.00% | ~672 |
-| Things that go Splash in the Night | 8.00% | ~672 |
+| Fish Out of Water | 8.00% | ~673 |
+| Things that go Splash in the Night | 8.00% | ~673 |
 | Goldfish? | 6.00% | ~504 |
 | Going for Gold | 6.00% | ~504 |
 | License to Gill | 5.00% | ~420 |
@@ -47,7 +47,7 @@ Number of Ratings: 281  (23.09.2022)
 | Norway Jose | 0.00% | ~0 |
 | Claras Mud | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 8,406 (Ranked 194)  
+Progressed: 8,407 (Ranked 194)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -325,7 +325,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 8,377 | 0 |
 | 2024-01-21 | 8,395 | 0 |
 | 2024-01-22 | 8,403 | 0 |
-| 2024-01-23 | 8,406 | 0 |
+| 2024-01-23 | 8,407 | 0 |
 ## Awards
 Max (Great for Beginners): 43  (Ranked 483)  
 Sum: 217 (Ranked 414)  

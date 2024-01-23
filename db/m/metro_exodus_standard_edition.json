@@ -4,11 +4,11 @@
   "ProductSlug": "metro-exodus",
   "Ranking_Rating": 112,
   "Ranking_Popularity": 66,
-  "Ranking_PopularitySum": 94,
-  "Ranking_EOS_Progress": 846,
+  "Ranking_PopularitySum": 93,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2019-02-15T15:00:00+00:00",
     "PcReleaseDate": null,
@@ -5902,10 +5902,16 @@
       "Rating": 4.78,
       "NumberOfAwards": 11591,
       "NumberOfAwardsMax": 6266
+    },
+    {
+      "Time": "2024-01-23T11:03:41.7221357+00:00",
+      "Rating": 4.78,
+      "NumberOfAwards": 11593,
+      "NumberOfAwardsMax": 6266
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 11591,
+  "NumberOfAwards": 11593,
   "NumberOfAwardsMax": 6266,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
@@ -5973,7 +5979,7 @@
       "Text": "This game has a Creative Community",
       "Prefix": "This game has a",
       "Type": "Creative Community",
-      "Count": 303
+      "Count": 305
     },
     {
       "Text": "This game has Realistic Visuals",
@@ -6001,9 +6007,9 @@
   ],
   "FirstSeen": "2022-07-22T20:18:26.6430541+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.9783491+00:00",
-  "LastChanged": "2024-01-23T06:03:24.9713866+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:04:06.7426448+00:00",
+  "LastChanged": "2024-01-23T11:03:41.7221355+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:04:42.2991312+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:46.9976131+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:03:27.8762118+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:04:06.7426513+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:03:41.7221362+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:04:42.2991329+00:00"
 }

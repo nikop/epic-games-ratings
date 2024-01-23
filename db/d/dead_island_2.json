@@ -9123,9 +9123,9 @@
       "Count": 707
     }
   ],
-  "EOS_Progressed": 808478,
+  "EOS_Progressed": 808490,
   "EOS_Completed": 2626,
-  "EOS_NewPlayers": 4017,
+  "EOS_NewPlayers": 4003,
   "EOS_NewCompleters": 35,
   "EOS_Completed_Percentage": 0.32,
   "EosHistory": [
@@ -41203,6 +41203,11 @@
       "Time": "2024-01-23T10:10:14.9614204+00:00",
       "NumProgressed": 808478,
       "NumCompleted": 2626
+    },
+    {
+      "Time": "2024-01-23T11:10:55.3289124+00:00",
+      "NumProgressed": 808490,
+      "NumCompleted": 2626
     }
   ],
   "TotalAchievements": 51,
@@ -41222,7 +41227,7 @@
       "Name": "Making Your Mark",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32339
+      "UsersEstimate": 32340
     },
     {
       "ID": "ach_ammo_ran",
@@ -41230,7 +41235,7 @@
       "Name": "Git Gutte!",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56593
+      "UsersEstimate": 56594
     },
     {
       "ID": "ach_anger_management",
@@ -41262,7 +41267,7 @@
       "Name": "Perks of the Job",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32339
+      "UsersEstimate": 32340
     },
     {
       "ID": "ach_bookworm",
@@ -41278,7 +41283,7 @@
       "Name": "Break A Leg",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 72763
+      "UsersEstimate": 72764
     },
     {
       "ID": "ach_contender",
@@ -41310,7 +41315,7 @@
       "Name": "Slayer Squad",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32339
+      "UsersEstimate": 32340
     },
     {
       "ID": "ach_explorer",
@@ -41334,7 +41339,7 @@
       "Name": "Coup de Gr\u00E2ce",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64678
+      "UsersEstimate": 64679
     },
     {
       "ID": "ach_get_to_the_chopper",
@@ -41358,7 +41363,7 @@
       "Name": "Hazardous Materials",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 64678
+      "UsersEstimate": 64679
     },
     {
       "ID": "ach_her_name_was_lola",
@@ -41374,7 +41379,7 @@
       "Name": "Hotel California",
       "Percentage": 10,
       "XP": 10,
-      "UsersEstimate": 80848
+      "UsersEstimate": 80849
     },
     {
       "ID": "ach_impressive_aim",
@@ -41406,7 +41411,7 @@
       "Name": "Jumbo Keyring",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 24254
+      "UsersEstimate": 24255
     },
     {
       "ID": "ach_knock_down",
@@ -41414,7 +41419,7 @@
       "Name": "Apex Predator",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56593
+      "UsersEstimate": 56594
     },
     {
       "ID": "ach_knowledgeable",
@@ -41422,7 +41427,7 @@
       "Name": "Zombologist",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32339
+      "UsersEstimate": 32340
     },
     {
       "ID": "ach_legendary",
@@ -41430,7 +41435,7 @@
       "Name": "Ooh, Shiny!",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32339
+      "UsersEstimate": 32340
     },
     {
       "ID": "ach_magnum_opus",
@@ -41446,7 +41451,7 @@
       "Name": "A Patton Emerges",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32339
+      "UsersEstimate": 32340
     },
     {
       "ID": "ach_mind_over_monster",
@@ -41454,7 +41459,7 @@
       "Name": "Humanity Distilled",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24254
+      "UsersEstimate": 24255
     },
     {
       "ID": "ach_revival_tour",
@@ -41462,7 +41467,7 @@
       "Name": "I Am the Resurrection",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 32339
+      "UsersEstimate": 32340
     },
     {
       "ID": "ach_salvation",
@@ -41470,7 +41475,7 @@
       "Name": "Down with the Sickness",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24254
+      "UsersEstimate": 24255
     },
     {
       "ID": "ach_secrets_of_la",
@@ -41494,7 +41499,7 @@
       "Name": "Personal Assistant Personally Assisted",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 56593
+      "UsersEstimate": 56594
     },
     {
       "ID": "ach_survival_expert",
@@ -41510,7 +41515,7 @@
       "Name": "Max Headroom",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 24254
+      "UsersEstimate": 24255
     },
     {
       "ID": "ach_the_vcla",
@@ -41518,7 +41523,7 @@
       "Name": "Go, Bobcats!",
       "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 24254
+      "UsersEstimate": 24255
     },
     {
       "ID": "ach_thesacrifice",
@@ -41526,7 +41531,7 @@
       "Name": "Our True Nature",
       "Percentage": 4,
       "XP": 100,
-      "UsersEstimate": 32339
+      "UsersEstimate": 32340
     },
     {
       "ID": "ach_this_is_my_weapon",
@@ -41550,7 +41555,7 @@
       "Name": "Welcome To Hell-A",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 88933
+      "UsersEstimate": 88934
     },
     {
       "ID": "ach_well_known_survivor",
@@ -41558,7 +41563,7 @@
       "Name": "Rising Star",
       "Percentage": 3,
       "XP": 40,
-      "UsersEstimate": 24254
+      "UsersEstimate": 24255
     },
     {
       "ID": "ach_well_trained",
@@ -41621,13 +41626,13 @@
     {
       "ID": "7km39fm",
       "IsBase": true,
-      "Progressed": 808478,
+      "Progressed": 808490,
       "Completed": 2626
     },
     {
       "ID": "344c43k",
       "IsBase": false,
-      "Progressed": 134022,
+      "Progressed": 134034,
       "Completed": 36807
     }
   ],
@@ -41635,8 +41640,8 @@
   "FirstSeenRating": "2023-04-21T14:57:30.4641619+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.9918857+00:00",
   "LastChanged": "2024-01-23T09:57:55.3034693+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:10:14.96142+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:10:55.328912+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:29.3560603+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:57:55.3034698+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:10:14.96159+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:58:14.2224283+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:10:55.3290582+00:00"
 }

@@ -12,7 +12,7 @@ Rating: 4.60 (Ranked 430)
 | The brave little tailor | 43.00% | ~92 |
 | Archer | 43.00% | ~92 |
 | Field hand | 40.00% | ~86 |
-| Well-to-do | 34.00% | ~73 |
+| Well-to-do | 35.00% | ~75 |
 | Samaritan | 31.00% | ~66 |
 | The merciful one | 30.00% | ~64 |
 | Ladies' man | 30.00% | ~64 |

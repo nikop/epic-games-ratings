@@ -6,16 +6,16 @@ Number of Ratings: 9,492  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Old Grandmaster | 6.00% | ~45,749 |
-| The Assault | 5.00% | ~38,124 |
-| Life is your teacher | 5.00% | ~38,124 |
-| Lightning Hands | 5.00% | ~38,124 |
-| The Hateful Pole Fighter | 3.00% | ~22,874 |
-| Stuntmaster | 3.00% | ~22,874 |
-| Street Fighting | 3.00% | ~22,874 |
-| State of constant learning | 3.00% | ~22,874 |
-| Qi Gong: Essence | 3.00% | ~22,874 |
-| Old Child | 3.00% | ~22,874 |
+| The Old Grandmaster | 6.00% | ~45,750 |
+| The Assault | 5.00% | ~38,125 |
+| Life is your teacher | 5.00% | ~38,125 |
+| Lightning Hands | 5.00% | ~38,125 |
+| The Hateful Pole Fighter | 3.00% | ~22,875 |
+| Stuntmaster | 3.00% | ~22,875 |
+| Street Fighting | 3.00% | ~22,875 |
+| State of constant learning | 3.00% | ~22,875 |
+| Qi Gong: Essence | 3.00% | ~22,875 |
+| Old Child | 3.00% | ~22,875 |
 | A Lady's Blood in the Snow | 2.00% | ~15,250 |
 | Lady Wing Chun | 2.00% | ~15,250 |
 | Furious Fists | 2.00% | ~15,250 |
@@ -36,8 +36,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Detective Story | 0.80% | ~6,100 |
 | Tiger on Fire | 0.70% | ~5,337 |
 | Source of Flying Daggers | 0.70% | ~5,337 |
-| Bloody Sport | 0.70% | ~502 |
-| Martial Hub | 0.70% | ~502 |
+| Bloody Sport | 0.70% | ~503 |
+| Martial Hub | 0.70% | ~503 |
 | Iron Money | 0.60% | ~4,575 |
 | Legendary Talismans of Wuxing | 0.60% | ~4,575 |
 | Prodigal Child | 0.60% | ~4,575 |
@@ -67,7 +67,7 @@ Number of Ratings: 9,492  (23.09.2022)
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,477 (Ranked 26)  
+Progressed: 762,492 (Ranked 26)  
 Completed: 13,005 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,10 +345,10 @@ Completed: 13,005 (1.71%) (Ranked 150)
 | 2024-01-20 | 762,069 | 13,000 |
 | 2024-01-21 | 762,261 | 13,003 |
 | 2024-01-22 | 762,418 | 13,004 |
-| 2024-01-23 | 762,477 | 13,005 |
+| 2024-01-23 | 762,492 | 13,005 |
 ## Awards
 Max (Great Boss Battles): 7,269  (Ranked 58)  
-Sum: 12,861 (Ranked 88)  
+Sum: 12,863 (Ranked 88)  
 Diff (max vs sum): -30  
 | Award | Count |
 | ----- | ----- |
@@ -357,7 +357,7 @@ Diff (max vs sum): -30
 | This game has Challenging Combat | 653 |
 | This game has Amazing Storytelling | 627 |
 | This game has Amazing Characters | 624 |
-| This game is Highly Recommended | 615 |
+| This game is Highly Recommended | 617 |
 | This game has Quickly Understood Controls | 603 |
 | This game is Extremely Fun | 595 |
 | This game has Unique Visuals | 595 |
@@ -737,4 +737,4 @@ Diff (max vs sum): -30
 | 2024-01-20 | 4.82 | - | 7,245 | 12,828 |
 | 2024-01-21 | 4.82 | - | 7,249 | 12,835 |
 | 2024-01-22 | 4.82 | - | 7,261 | 12,853 |
-| 2024-01-23 | 4.82 | - | 7,269 | 12,861 |
+| 2024-01-23 | 4.82 | - | 7,269 | 12,863 |

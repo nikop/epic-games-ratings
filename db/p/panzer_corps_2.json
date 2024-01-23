@@ -4,11 +4,11 @@
   "ProductSlug": "panzer-corps-2",
   "Ranking_Rating": 644,
   "Ranking_Popularity": 531,
-  "Ranking_PopularitySum": 448,
-  "Ranking_EOS_Progress": 846,
+  "Ranking_PopularitySum": 454,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-04-27T14:00:00+00:00",
     "PcReleaseDate": "2020-03-19T15:00:00+00:00",
@@ -529,10 +529,16 @@
       "Rating": 4.49,
       "NumberOfAwards": 156,
       "NumberOfAwardsMax": 30
+    },
+    {
+      "Time": "2024-01-23T10:58:15.7513906+00:00",
+      "Rating": 4.49,
+      "NumberOfAwards": 132,
+      "NumberOfAwardsMax": 30
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 156,
+  "NumberOfAwards": 132,
   "NumberOfAwardsMax": 30,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -590,8 +596,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:07.3866122+00:00",
-  "LastChanged": "2024-01-23T01:48:19.1552429+00:00",
+  "LastChanged": "2024-01-23T10:58:15.7513904+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:24.6964645+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:57:56.144695+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:06:21.8731975+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:58:15.7513909+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:07:53.6578166+00:00"
 }

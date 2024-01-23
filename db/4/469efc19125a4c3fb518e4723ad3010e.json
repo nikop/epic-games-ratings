@@ -2,10 +2,10 @@
   "ID": "469efc19125a4c3fb518e4723ad3010e",
   "Name": "Underground Waifus TCG",
   "ProductSlug": "underground-waifus-tcg-4c889b",
-  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-12-29T05:00:00+00:00",
     "PcReleaseDate": "2023-12-29T05:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-30T08:57:14.3833574+00:00",
   "LastUpdate_AppInfo": "2024-01-22T20:56:58.6806146+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:58:09.7015277+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:06:26.395766+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:58:36.2819196+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:08:09.8554481+00:00"
 }

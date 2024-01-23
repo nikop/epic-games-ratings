@@ -3,9 +3,9 @@
   "Name": "Tangles",
   "ProductSlug": "tangles-e99298",
   "Ranking_EOS_Progress": 187,
-  "Ranking_EOS_Completed": 303,
-  "Ranking_EOS_NewPlayers": 90,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_Completed": 300,
+  "Ranking_EOS_NewPlayers": 91,
+  "Ranking_EOS_NewCompleters": 105,
   "Store": {
     "ReleaseDate": "2023-12-21T00:00:00+00:00",
     "PcReleaseDate": "2023-12-22T03:00:00+00:00",
@@ -24,11 +24,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 10190,
-  "EOS_Completed": 14,
-  "EOS_NewPlayers": 1035,
-  "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 0.14,
+  "EOS_Progressed": 10191,
+  "EOS_Completed": 15,
+  "EOS_NewPlayers": 1030,
+  "EOS_NewCompleters": 1,
+  "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
     {
       "Time": "2023-12-04T20:08:44.4848229+00:00",
@@ -3919,6 +3919,11 @@
       "Time": "2024-01-23T10:09:47.6054782+00:00",
       "NumProgressed": 10190,
       "NumCompleted": 14
+    },
+    {
+      "Time": "2024-01-23T11:10:16.8608377+00:00",
+      "NumProgressed": 10191,
+      "NumCompleted": 15
     }
   ],
   "AchievementsAdded": "2023-12-04T20:08:44.4848254+00:00",
@@ -3931,7 +3936,7 @@
       "Name": "Final Destination",
       "Percentage": 49,
       "XP": 200,
-      "UsersEstimate": 4993
+      "UsersEstimate": 4994
     },
     {
       "ID": "Document1",
@@ -3994,14 +3999,14 @@
     {
       "ID": "ao2gjap",
       "IsBase": true,
-      "Progressed": 10190,
-      "Completed": 14
+      "Progressed": 10191,
+      "Completed": 15
     }
   ],
   "FirstSeen": "2023-12-22T16:57:58.2471903+00:00",
   "FirstSeenAchievements": "2023-11-03T22:20:08.6603993+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:09:47.6054777+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:10:16.8608373+00:00",
   "LastUpdate_AppInfo": "2024-01-21T22:57:09.6072792+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:59:45.5815004+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:09:47.6055057+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:01:01.9301151+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:10:16.8608659+00:00"
 }

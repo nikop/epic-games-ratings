@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 433,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 328,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-01-27T15:00:00+00:00",
     "PcReleaseDate": "2009-10-30T16:00:00+00:00",
@@ -1456,9 +1456,9 @@
       "ID": "id_57",
       "SetID": "bk9jib6",
       "Name": "Well-to-do",
-      "Percentage": 34,
+      "Percentage": 35,
       "XP": 10,
-      "UsersEstimate": 73
+      "UsersEstimate": 75
     },
     {
       "ID": "id_58",
@@ -1553,8 +1553,8 @@
   "FirstSeenRating": "2023-03-31T05:58:38.3860801+00:00",
   "FirstSeenAchievements": "2023-10-19T12:07:24.2845579+00:00",
   "LastChanged": "2024-01-23T07:58:03.0213159+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:10:28.0032517+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:11:12.9641545+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:26.317277+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:58:07.4609552+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:10:28.0032891+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:58:32.885441+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:11:12.9641845+00:00"
 }

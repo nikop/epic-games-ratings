@@ -49,6 +49,7 @@ Number of Ratings: 177  (23.09.2022)
 | The Harder They Fall...Dood | 0.30% | ~22 |
 | Do You Smell Blood? | 0.30% | ~22 |
 | A Striking Resemblance | 0.30% | ~22 |
+| Howz It Goin Dood | 0.30% | ~22 |
 | Derezzed | 0.30% | ~22 |
 | Beyond the Call of Dude-y | 0.20% | ~15 |
 | Congrats, A Celebrity Hates You | 0.20% | ~9 |
@@ -56,7 +57,6 @@ Number of Ratings: 177  (23.09.2022)
 | Duck n' Weave | 0.20% | ~15 |
 | I Know Grump-Fu | 0.20% | ~15 |
 | Ronin | 0.20% | ~15 |
-| Howz It Goin Dood | 0.20% | ~15 |
 | The Crush(es) | 0.20% | ~15 |
 | Snapped | 0.20% | ~15 |
 | Against All Odds | 0.10% | ~7 |

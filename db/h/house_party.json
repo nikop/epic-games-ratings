@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 200,
   "Ranking_EOS_Completed": 359,
-  "Ranking_EOS_NewPlayers": 235,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-07-15T22:00:00+00:00",
     "PcReleaseDate": "2017-06-30T00:00:00+00:00",
@@ -9631,9 +9631,9 @@
       "ID": "TM_Frank",
       "SetID": "bmkn7o4",
       "Name": "Howz It Goin Dood",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 30,
-      "UsersEstimate": 15
+      "UsersEstimate": 22
     },
     {
       "ID": "TM_Madison",
@@ -9765,8 +9765,8 @@
   "FirstSeen": "2022-07-22T20:27:44.2322185+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:09.6662653+00:00",
   "LastChanged": "2024-01-17T20:58:21.7127925+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:09:39.2201938+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:10:04.90959+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:04.9311422+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:57:40.5869617+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:09:39.220298+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:57:51.3738296+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:10:04.9096729+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 94,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 51,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-08-04T15:00:00+00:00",
     "PcReleaseDate": "2022-08-04T15:00:00+00:00",
@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126244,
+  "EOS_Progressed": 126250,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2720,
+  "EOS_NewPlayers": 2706,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5645,6 +5645,11 @@
       "Time": "2024-01-23T10:04:51.1459018+00:00",
       "NumProgressed": 126244,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T11:05:44.6583586+00:00",
+      "NumProgressed": 126250,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5657,7 +5662,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -5721,7 +5726,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13887
+      "UsersEstimate": 13888
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5729,7 +5734,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25249
+      "UsersEstimate": 25250
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5753,7 +5758,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18937
+      "UsersEstimate": 18938
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5777,7 +5782,7 @@
       "Name": "Master of Disguise",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "ACH_MAYHEM",
@@ -5865,7 +5870,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3787
+      "UsersEstimate": 3788
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -5936,7 +5941,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126244,
+      "Progressed": 126250,
       "Completed": 0
     }
   ],
@@ -5944,8 +5949,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:04:51.1459014+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:05:44.6583583+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:58:54.5505194+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:04:51.1459456+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:59:45.2973113+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:05:44.6583988+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11190,9 +11190,9 @@
       "Count": 1113
     }
   ],
-  "EOS_Progressed": 133536,
+  "EOS_Progressed": 133537,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 563,
+  "EOS_NewPlayers": 564,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41150,6 +41150,11 @@
       "Time": "2024-01-23T08:10:21.3242284+00:00",
       "NumProgressed": 133536,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T11:11:10.6806279+00:00",
+      "NumProgressed": 133537,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41761,7 +41766,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41792,21 +41797,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133536,
+      "Progressed": 133537,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8405,
+      "Progressed": 8406,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-23T01:49:36.0565864+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:10:26.2702385+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:11:10.6806274+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:59:18.1359836+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:10:26.2704258+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:00:23.1960813+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:11:10.6807975+00:00"
 }

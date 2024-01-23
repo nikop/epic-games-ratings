@@ -11,8 +11,8 @@ Rating: 4.33 (Ranked 864)
 | Flying Present Catcher | 6.00% | ~3,535 |
 | HFZ Goober | 6.00% | ~3,535 |
 | Sunflower Master | 5.00% | ~2,946 |
-| Hi Fiver | 3.00% | ~1,767 |
-| A Timely Splash | 3.00% | ~1,767 |
+| Hi Fiver | 3.00% | ~1,768 |
+| A Timely Splash | 3.00% | ~1,768 |
 | Backer Visitor | 2.00% | ~1,178 |
 | Hate That Randomizer | 2.00% | ~1,178 |
 | Feet on Funkotron | 2.00% | ~1,178 |
@@ -24,8 +24,8 @@ Rating: 4.33 (Ranked 864)
 | Level Diver | 0.80% | ~471 |
 | Cleaning Out Santa's Sack | 0.70% | ~412 |
 | Teamwork Rules | 0.70% | ~412 |
-| Beaten By A Little Girl | 0.60% | ~353 |
-| Totally Bummed Again | 0.60% | ~353 |
+| Beaten By A Little Girl | 0.60% | ~354 |
+| Totally Bummed Again | 0.60% | ~354 |
 | I Can't Believe I've Done This | 0.50% | ~295 |
 | Piece O' Cake | 0.50% | ~295 |
 | Boom Box Baby | 0.40% | ~236 |
@@ -55,7 +55,7 @@ Rating: 4.33 (Ranked 864)
 | Why Do I Keep Doing That? | 0.10% | ~59 |
 | Hey, You Did It! | 0.10% | ~59 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 58,916 (Ranked 122)  
+Progressed: 58,917 (Ranked 122)  
 Completed: 6 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -333,7 +333,7 @@ Completed: 6 (0.01%) (Ranked 383)
 | 2024-01-20 | 58,877 | 6 |
 | 2024-01-21 | 58,899 | 6 |
 | 2024-01-22 | 58,907 | 6 |
-| 2024-01-23 | 58,916 | 6 |
+| 2024-01-23 | 58,917 | 6 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

@@ -7521,10 +7521,10 @@
       "Count": 997
     }
   ],
-  "EOS_Progressed": 298276,
-  "EOS_Completed": 1220,
-  "EOS_NewPlayers": 3932,
-  "EOS_NewCompleters": 132,
+  "EOS_Progressed": 298283,
+  "EOS_Completed": 1221,
+  "EOS_NewPlayers": 3925,
+  "EOS_NewCompleters": 133,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
     {
@@ -29651,6 +29651,11 @@
       "Time": "2024-01-23T10:10:13.1672745+00:00",
       "NumProgressed": 298276,
       "NumCompleted": 1220
+    },
+    {
+      "Time": "2024-01-23T11:10:52.9372629+00:00",
+      "NumProgressed": 298283,
+      "NumCompleted": 1221
     }
   ],
   "AchievementsAdded": "2023-07-21T16:05:22.6408064+00:00",
@@ -29711,7 +29716,7 @@
       "Name": "Gleaming the Cube",
       "Percentage": 8,
       "XP": 30,
-      "UsersEstimate": 23862
+      "UsersEstimate": 23863
     },
     {
       "ID": "Defeat_Faelin_Faerin",
@@ -29743,7 +29748,7 @@
       "Name": "The Killing Jar",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 38776
+      "UsersEstimate": 38777
     },
     {
       "ID": "Defeat_Many_Faces",
@@ -29767,7 +29772,7 @@
       "Name": "Not So Special Now",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20879
+      "UsersEstimate": 20880
     },
     {
       "ID": "Defeat_Tal_Ratha",
@@ -29783,7 +29788,7 @@
       "Name": "Quest for Survival",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23862
+      "UsersEstimate": 23863
     },
     {
       "ID": "Discover_Blood_Moon_Room",
@@ -29807,7 +29812,7 @@
       "Name": "Not a Janitor",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 20879
+      "UsersEstimate": 20880
     },
     {
       "ID": "Meet_Flautist",
@@ -29815,7 +29820,7 @@
       "Name": "Familiar Face",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 23862
+      "UsersEstimate": 23863
     },
     {
       "ID": "Meet_Meidra",
@@ -29847,7 +29852,7 @@
       "Name": "First of Many",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 35793
+      "UsersEstimate": 35794
     },
     {
       "ID": "Obtain_Archetype_Dual",
@@ -29855,7 +29860,7 @@
       "Name": "Duality",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 20879
+      "UsersEstimate": 20880
     },
     {
       "ID": "Obtain_Archetype_Level",
@@ -29895,7 +29900,7 @@
       "Name": "Boss\u0027n Up",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23862
+      "UsersEstimate": 23863
     },
     {
       "ID": "Obtain_Guns_A",
@@ -30039,7 +30044,7 @@
       "Name": "Trait Chaser",
       "Percentage": 8,
       "XP": 20,
-      "UsersEstimate": 23862
+      "UsersEstimate": 23863
     },
     {
       "ID": "Upgrade_Traits_B",
@@ -30102,22 +30107,22 @@
     {
       "ID": "bkp3b1a",
       "IsBase": true,
-      "Progressed": 298276,
-      "Completed": 1220
+      "Progressed": 298283,
+      "Completed": 1221
     },
     {
       "ID": "bkoie00",
       "IsBase": false,
-      "Progressed": 77441,
-      "Completed": 780
+      "Progressed": 77448,
+      "Completed": 781
     }
   ],
   "FirstSeen": "2023-07-25T16:02:46.4526125+00:00",
   "FirstSeenRating": "2023-07-26T04:00:29.4116116+00:00",
   "FirstSeenAchievements": "2023-06-01T22:05:55.3934459+00:00",
   "LastChanged": "2024-01-23T10:03:35.4272325+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:10:13.1672742+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:10:52.9372627+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:52.5413849+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:03:35.4272331+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:10:13.1674247+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:03:54.8873901+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:10:52.9373847+00:00"
 }

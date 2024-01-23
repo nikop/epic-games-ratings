@@ -2,10 +2,10 @@
   "ID": "48678106a8904f27871cf02d0bb970b6",
   "Name": "1001 Jigsaw. Home Sweet Home",
   "ProductSlug": "1001-jigsaw-home-sweet-home-1b1e16",
-  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-20T21:00:00+00:00",
     "PcReleaseDate": "2018-12-09T21:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-22T19:59:48.3067621+00:00",
   "LastUpdate_AppInfo": "2024-01-17T08:57:05.7894427+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:59:11.6508141+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:04:48.6136656+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:00:13.4371056+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:05:41.0227632+00:00"
 }

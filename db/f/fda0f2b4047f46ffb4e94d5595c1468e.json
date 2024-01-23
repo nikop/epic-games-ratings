@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 151,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 151,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-19T17:00:00+00:00",
     "PcReleaseDate": "2023-09-19T17:00:00+00:00",
@@ -5559,7 +5559,7 @@
       "Count": 676
     }
   ],
-  "EOS_Progressed": 24161,
+  "EOS_Progressed": 24162,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 264,
   "EOS_NewCompleters": 0,
@@ -17649,6 +17649,11 @@
       "Time": "2024-01-23T08:09:14.0712748+00:00",
       "NumProgressed": 24161,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T11:09:36.9651133+00:00",
+      "NumProgressed": 24162,
+      "NumCompleted": 2
     }
   ],
   "AchievementsAdded": "2023-09-18T10:09:04.4128582+00:00",
@@ -17677,7 +17682,7 @@
       "Name": "A New Timeline",
       "Percentage": 45,
       "XP": 30,
-      "UsersEstimate": 10872
+      "UsersEstimate": 10873
     },
     {
       "ID": "ach04",
@@ -17701,7 +17706,7 @@
       "Name": "Titan",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 16429
+      "UsersEstimate": 16430
     },
     {
       "ID": "ach07",
@@ -17709,7 +17714,7 @@
       "Name": "Beaten And Broken",
       "Percentage": 46,
       "XP": 15,
-      "UsersEstimate": 11114
+      "UsersEstimate": 11115
     },
     {
       "ID": "ach08",
@@ -17757,7 +17762,7 @@
       "Name": "Making Friends Is Easy",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ach14",
@@ -17781,7 +17786,7 @@
       "Name": "Test Your Might",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ach17",
@@ -17885,7 +17890,7 @@
       "Name": "Unstoppable",
       "Percentage": 17,
       "XP": 15,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ach30",
@@ -17973,7 +17978,7 @@
       "Name": "Found You",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ach41",
@@ -18013,7 +18018,7 @@
       "Name": "There Is No Knowledge That Is Not Power",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 2174
+      "UsersEstimate": 2175
     },
     {
       "ID": "ach46",
@@ -18037,7 +18042,7 @@
       "Name": "Total Disrespect",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 4107
+      "UsersEstimate": 4108
     },
     {
       "ID": "ach49",
@@ -18060,7 +18065,7 @@
     {
       "ID": "47in8n6",
       "IsBase": true,
-      "Progressed": 24161,
+      "Progressed": 24162,
       "Completed": 2
     }
   ],
@@ -18068,8 +18073,8 @@
   "FirstSeenRating": "2023-09-20T09:57:46.6053486+00:00",
   "FirstSeenAchievements": "2023-09-05T14:05:31.867666+00:00",
   "LastChanged": "2024-01-23T10:03:09.4015476+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:09:19.6161574+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:09:36.9651128+00:00",
   "LastUpdate_AppInfo": "2024-01-20T18:57:19.8834304+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:03:09.4015481+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:09:19.616247+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:03:11.8241337+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:09:36.9652078+00:00"
 }

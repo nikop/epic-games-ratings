@@ -263,9 +263,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 162307,
+  "EOS_Progressed": 162308,
   "EOS_Completed": 400,
-  "EOS_NewPlayers": 833,
+  "EOS_NewPlayers": 831,
   "EOS_NewCompleters": 8,
   "EOS_Completed_Percentage": 0.25,
   "EosHistory": [
@@ -26228,6 +26228,11 @@
       "Time": "2024-01-23T10:06:29.4748747+00:00",
       "NumProgressed": 162307,
       "NumCompleted": 400
+    },
+    {
+      "Time": "2024-01-23T11:08:14.5076198+00:00",
+      "NumProgressed": 162308,
+      "NumCompleted": 400
     }
   ],
   "TotalAchievements": 31,
@@ -26247,7 +26252,7 @@
       "Name": "Viva La Resurrecci\u00F3n",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 113615
+      "UsersEstimate": 113616
     },
     {
       "ID": "EAwards_10",
@@ -26263,7 +26268,7 @@
       "Name": "Pollo Power",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 34084
+      "UsersEstimate": 34085
     },
     {
       "ID": "EAwards_12",
@@ -26423,7 +26428,7 @@
       "Name": "X\u0027tabay-Bye",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 32461
+      "UsersEstimate": 32462
     },
     {
       "ID": "EAwards_30",
@@ -26486,7 +26491,7 @@
     {
       "ID": "7gko43",
       "IsBase": true,
-      "Progressed": 162307,
+      "Progressed": 162308,
       "Completed": 400
     }
   ],
@@ -26494,8 +26499,8 @@
   "FirstSeenRating": "2023-06-17T17:56:58.5564769+00:00",
   "FirstSeenAchievements": "2023-06-08T15:00:48.7008816+00:00",
   "LastChanged": "2023-12-16T18:59:03.9912318+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:06:29.4748743+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:08:14.5076193+00:00",
   "LastUpdate_AppInfo": "2024-01-19T10:57:11.0746018+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:57:15.83616+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:06:29.4750544+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:57:12.3712355+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:08:14.5077705+00:00"
 }

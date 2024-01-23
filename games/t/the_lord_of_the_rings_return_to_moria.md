@@ -5,16 +5,16 @@ Rating: 4.43 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,342 |
-| Delving Onward | 69.00% | ~267,873 |
-| Miner's Helper | 59.00% | ~229,051 |
-| Suit Up | 54.00% | ~209,640 |
-| To the Mountain's Roots | 50.00% | ~194,111 |
+| Speak Friend | 82.00% | ~318,344 |
+| Delving Onward | 69.00% | ~267,875 |
+| Miner's Helper | 59.00% | ~229,052 |
+| Suit Up | 54.00% | ~209,641 |
+| To the Mountain's Roots | 50.00% | ~194,112 |
 | Remains To Be Seen | 35.00% | ~135,878 |
-| Covered Head to Toe | 33.00% | ~128,113 |
-| Line of Azog, Ended | 32.00% | ~124,231 |
+| Covered Head to Toe | 33.00% | ~128,114 |
+| Line of Azog, Ended | 32.00% | ~124,232 |
 | Risk a Little Real Light | 31.00% | ~120,349 |
-| Caradhras The Cruel | 19.00% | ~73,762 |
+| Caradhras The Cruel | 19.00% | ~73,763 |
 | A Memory of this Place | 18.00% | ~69,880 |
 | Battering Ram | 14.00% | ~54,351 |
 | False King, Deposed | 14.00% | ~54,351 |
@@ -33,7 +33,7 @@ Rating: 4.43 (Ranked 735)
 | Shielded | 1.00% | ~3,882 |
 | We're Gonna Need More Mugs | 0.20% | ~776 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,222 (Ranked 54)  
+Progressed: 388,224 (Ranked 54)  
 Completed: 392 (0.10%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -129,16 +129,16 @@ Completed: 392 (0.10%) (Ranked 320)
 | 2024-01-20 | 387,317 | 381 |
 | 2024-01-21 | 387,836 | 387 |
 | 2024-01-22 | 388,142 | 391 |
-| 2024-01-23 | 388,222 | 392 |
+| 2024-01-23 | 388,224 | 392 |
 ## Awards
 Max (Great for Beginners): 998  (Ranked 165)  
-Sum: 5,710 (Ranked 142)  
+Sum: 5,716 (Ranked 142)  
 Diff (max vs sum): 23  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 998 |
 | This game is Highly Recommended | 798 |
-| This game is Extremely Fun | 761 |
+| This game is Extremely Fun | 767 |
 | This game has Amazing Storytelling | 725 |
 | This game is Relaxing | 685 |
 | This game has Quickly Understood Controls | 672 |
@@ -238,4 +238,4 @@ Diff (max vs sum): 23
 | 2024-01-20 | 4.43 | 979 | 5,626 |
 | 2024-01-21 | 4.43 | 987 | 5,662 |
 | 2024-01-22 | 4.43 | 998 | 5,706 |
-| 2024-01-23 | 4.43 | 998 | 5,710 |
+| 2024-01-23 | 4.43 | 998 | 5,716 |

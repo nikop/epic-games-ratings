@@ -2,10 +2,10 @@
   "ID": "7752347969094a69a892f9ddc6fd5b8f",
   "Name": "Dirt and Flo",
   "ProductSlug": "dirt-and-flo-8b09f2",
-  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2024-01-03T07:14:06.995+00:00",
     "PcReleaseDate": "2023-12-13T23:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T02:21:25.2632892+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:59:40.8956527+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:05:48.7887409+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:00:55.2489697+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:07:07.1567604+00:00"
 }

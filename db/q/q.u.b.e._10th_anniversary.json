@@ -366,9 +366,9 @@
       "Count": 26
     }
   ],
-  "EOS_Progressed": 30373,
+  "EOS_Progressed": 30375,
   "EOS_Completed": 231,
-  "EOS_NewPlayers": 679,
+  "EOS_NewPlayers": 677,
   "EOS_NewCompleters": 16,
   "EOS_Completed_Percentage": 0.76,
   "EosHistory": [
@@ -11576,6 +11576,11 @@
       "Time": "2024-01-23T10:10:19.0256142+00:00",
       "NumProgressed": 30373,
       "NumCompleted": 231
+    },
+    {
+      "Time": "2024-01-23T11:11:01.042026+00:00",
+      "NumProgressed": 30375,
+      "NumCompleted": 231
     }
   ],
   "TotalAchievements": 24,
@@ -11595,7 +11600,7 @@
       "Name": "The Collector",
       "Percentage": 2,
       "XP": 70,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_CrushEnemy",
@@ -11619,7 +11624,7 @@
       "Name": "Crush That Cube!",
       "Percentage": 25,
       "XP": 30,
-      "UsersEstimate": 7593
+      "UsersEstimate": 7594
     },
     {
       "ID": "ACH_Finale",
@@ -11635,7 +11640,7 @@
       "Name": "Bronze Trophy",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_S8AllCubes",
@@ -11643,7 +11648,7 @@
       "Name": "Master Of The Collectables",
       "Percentage": 2,
       "XP": 90,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_S8AllGold",
@@ -11651,7 +11656,7 @@
       "Name": "Gold Trophy",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_S8AllMasterRoom",
@@ -11659,7 +11664,7 @@
       "Name": "Hopefully that\u0027s all of them!",
       "Percentage": 2,
       "XP": 30,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_S8AllPuzzleRooms",
@@ -11667,7 +11672,7 @@
       "Name": "Phew!",
       "Percentage": 2,
       "XP": 45,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_S8AllPuzzles",
@@ -11683,7 +11688,7 @@
       "Name": "Silver Trophy",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_S8Exit",
@@ -11691,7 +11696,7 @@
       "Name": "Completed It.",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_S8MasterRoom",
@@ -11707,7 +11712,7 @@
       "Name": "Maxed Out",
       "Percentage": 2,
       "XP": 100,
-      "UsersEstimate": 607
+      "UsersEstimate": 608
     },
     {
       "ID": "ACH_Sector1",
@@ -11715,7 +11720,7 @@
       "Name": "Sector 1",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 10327
+      "UsersEstimate": 10328
     },
     {
       "ID": "ACH_Sector2",
@@ -11731,7 +11736,7 @@
       "Name": "Sector 3",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 7593
+      "UsersEstimate": 7594
     },
     {
       "ID": "ACH_Sector4",
@@ -11739,7 +11744,7 @@
       "Name": "Sector 4",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 6378
+      "UsersEstimate": 6379
     },
     {
       "ID": "ACH_Sector5",
@@ -11747,7 +11752,7 @@
       "Name": "Sector 5",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 3948
+      "UsersEstimate": 3949
     },
     {
       "ID": "ACH_Sector6",
@@ -11778,7 +11783,7 @@
     {
       "ID": "a3lf366",
       "IsBase": true,
-      "Progressed": 30373,
+      "Progressed": 30375,
       "Completed": 231
     }
   ],
@@ -11786,8 +11791,8 @@
   "FirstSeenRating": "2023-10-16T17:01:54.486281+00:00",
   "FirstSeenAchievements": "2023-04-25T20:51:02.5432363+00:00",
   "LastChanged": "2024-01-20T19:01:27.1674139+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:10:19.0256139+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:11:01.0420256+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:46.7417675+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:02:56.5440456+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:10:19.0256877+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:02:52.7661933+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:11:01.0420824+00:00"
 }

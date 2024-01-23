@@ -2,10 +2,10 @@
   "ID": "b08609c40a8b465ea288d96ba71b2088",
   "Name": "The Chronos Event",
   "ProductSlug": "the-chronos-event-5a9785",
-  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2024-03-31T00:00:00+00:00",
     "PcReleaseDate": "2024-03-31T00:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-18T21:57:13.0611744+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:58:24.6643836+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:03:49.528472+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:59:00.7196104+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:04:17.9812238+00:00"
 }

@@ -5,21 +5,21 @@ Rating: 3.84 (Ranked 1,093)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~420,451 |
-| Handy | 42.00% | ~232,354 |
-| Cold Caller | 40.00% | ~221,290 |
-| A Bit On The Side | 27.00% | ~149,371 |
-| Backdoor | 26.00% | ~143,838 |
-| Rank Amateur | 22.00% | ~121,710 |
-| Three Way | 19.00% | ~105,113 |
-| Deadly Assassin | 16.00% | ~88,516 |
+| Pro Creation | 76.00% | ~420,456 |
+| Handy | 42.00% | ~232,357 |
+| Cold Caller | 40.00% | ~221,292 |
+| A Bit On The Side | 27.00% | ~149,372 |
+| Backdoor | 26.00% | ~143,840 |
+| Rank Amateur | 22.00% | ~121,711 |
+| Three Way | 19.00% | ~105,114 |
+| Deadly Assassin | 16.00% | ~88,517 |
 | Gutshot | 14.00% | ~77,452 |
 | Risk It For A Biscuit | 14.00% | ~77,452 |
-| Showoff | 13.00% | ~71,919 |
-| W.H.I.P. | 12.00% | ~66,387 |
-| Bet Bet Bet | 10.00% | ~55,322 |
-| Blindman's Bluff | 9.00% | ~49,790 |
-| Poker Joker | 9.00% | ~49,790 |
+| Showoff | 13.00% | ~71,920 |
+| W.H.I.P. | 12.00% | ~66,388 |
+| Bet Bet Bet | 10.00% | ~55,323 |
+| Blindman's Bluff | 9.00% | ~49,791 |
+| Poker Joker | 9.00% | ~49,791 |
 | Never Give Up | 8.00% | ~44,258 |
 | The Bigger They Are | 8.00% | ~44,258 |
 | Total Knock Out | 8.00% | ~44,258 |
@@ -30,9 +30,9 @@ Rating: 3.84 (Ranked 1,093)
 | Moneymaker | 4.00% | ~22,129 |
 | In The Gang | 3.00% | ~16,597 |
 | On The Button | 3.00% | ~16,597 |
-| Before You Wreck Yourself | 2.00% | ~11,064 |
-| Holding Your Own | 2.00% | ~11,064 |
-| Keep Your Heads Up | 2.00% | ~11,064 |
+| Before You Wreck Yourself | 2.00% | ~11,065 |
+| Holding Your Own | 2.00% | ~11,065 |
+| Keep Your Heads Up | 2.00% | ~11,065 |
 | Bluffing Eh? | 1.00% | ~5,532 |
 | Go For It | 1.00% | ~5,532 |
 | Regular Punter | 0.80% | ~4,426 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,093)
 | Rounder | 0.10% | ~553 |
 | Top Dog | 0.10% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,225 (Ranked 35)  
+Progressed: 553,231 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-20 | 552,747 | 2 |
 | 2024-01-21 | 552,997 | 2 |
 | 2024-01-22 | 553,161 | 2 |
-| 2024-01-23 | 553,225 | 2 |
+| 2024-01-23 | 553,231 | 2 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 424)  
 Sum: 216 (Ranked 415)  

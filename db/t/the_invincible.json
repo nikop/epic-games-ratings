@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 262,
   "Ranking_EOS_Completed": 339,
   "Ranking_EOS_NewPlayers": 201,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-11-06T15:00:00+00:00",
     "PcReleaseDate": "2023-11-06T15:00:00+00:00",
@@ -127,9 +127,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1793,
+  "EOS_Progressed": 1794,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 78,
+  "EOS_NewPlayers": 79,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.06,
   "EosHistory": [
@@ -4857,6 +4857,11 @@
       "Time": "2024-01-23T10:10:07.1858894+00:00",
       "NumProgressed": 1793,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T11:10:44.4535067+00:00",
+      "NumProgressed": 1794,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-11-03T15:10:49.494363+00:00",
@@ -4869,7 +4874,7 @@
       "Name": "The Teleprobe",
       "Percentage": 58,
       "XP": 15,
-      "UsersEstimate": 1040
+      "UsersEstimate": 1041
     },
     {
       "ID": "AchvAllMemories",
@@ -4885,7 +4890,7 @@
       "Name": "On her own",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "AchvBattleScore",
@@ -4893,7 +4898,7 @@
       "Name": "Fierce fight",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "AchvBombStop",
@@ -4901,7 +4906,7 @@
       "Name": "Peacemaker",
       "Percentage": 24,
       "XP": 90,
-      "UsersEstimate": 430
+      "UsersEstimate": 431
     },
     {
       "ID": "AchvBombing",
@@ -4949,7 +4954,7 @@
       "Name": "Evacuation",
       "Percentage": 22,
       "XP": 90,
-      "UsersEstimate": 394
+      "UsersEstimate": 395
     },
     {
       "ID": "AchvInvShip",
@@ -4973,7 +4978,7 @@
       "Name": "Volcanologist",
       "Percentage": 23,
       "XP": 15,
-      "UsersEstimate": 412
+      "UsersEstimate": 413
     },
     {
       "ID": "AchvLeaveNoManBehind",
@@ -5005,7 +5010,7 @@
       "Name": "Innate curiosity",
       "Percentage": 8,
       "XP": 90,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "AchvNoHoles",
@@ -5045,7 +5050,7 @@
       "Name": "The Camp",
       "Percentage": 71,
       "XP": 15,
-      "UsersEstimate": 1273
+      "UsersEstimate": 1274
     },
     {
       "ID": "AchvReachCity",
@@ -5053,7 +5058,7 @@
       "Name": "The City",
       "Percentage": 53,
       "XP": 15,
-      "UsersEstimate": 950
+      "UsersEstimate": 951
     },
     {
       "ID": "AchvReachCondor",
@@ -5061,7 +5066,7 @@
       "Name": "The Condor",
       "Percentage": 40,
       "XP": 15,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "AchvSurvivors",
@@ -5085,7 +5090,7 @@
       "Name": "The End",
       "Percentage": 40,
       "XP": 55,
-      "UsersEstimate": 717
+      "UsersEstimate": 718
     },
     {
       "ID": "AchvUnity",
@@ -5100,7 +5105,7 @@
     {
       "ID": "1hj060c",
       "IsBase": true,
-      "Progressed": 1793,
+      "Progressed": 1794,
       "Completed": 1
     }
   ],
@@ -5108,8 +5113,8 @@
   "FirstSeenRating": "2023-12-23T17:00:23.321383+00:00",
   "FirstSeenAchievements": "2023-10-29T17:05:23.6957765+00:00",
   "LastChanged": "2024-01-21T18:01:50.9489814+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:10:07.185889+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:10:44.4535065+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:18.5808689+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:57:39.3923441+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:10:07.1859306+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:57:49.6507671+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:10:44.4535369+00:00"
 }

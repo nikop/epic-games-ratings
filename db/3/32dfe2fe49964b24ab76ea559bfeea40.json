@@ -2,10 +2,10 @@
   "ID": "32dfe2fe49964b24ab76ea559bfeea40",
   "Name": "Sensorium Galaxy",
   "ProductSlug": "sensorium-galaxy-0f986d",
-  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-10-29T15:00:00+00:00",
     "PcReleaseDate": "2023-10-30T07:00:00+00:00",
@@ -36,6 +36,6 @@
   "AchievementSets": [],
   "FirstSeen": "2023-11-04T22:00:06.985005+00:00",
   "LastUpdate_AppInfo": "2024-01-22T18:57:04.7901271+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:58:35.8298082+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:04:58.3247562+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:59:17.9499239+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:05:54.93709+00:00"
 }

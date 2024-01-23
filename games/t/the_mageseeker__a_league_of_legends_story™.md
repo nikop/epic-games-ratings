@@ -5,24 +5,24 @@ Rating: 4.78 (Ranked 112)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| For Demacia | 95.00% | ~3,329 |
+| For Demacia | 95.00% | ~3,330 |
 | No more cages! | 90.00% | ~3,154 |
-| Everfrost | 76.00% | ~2,663 |
-| Dark Forest | 76.00% | ~2,663 |
-| Pentakill | 75.00% | ~2,628 |
-| The use of petricite | 73.00% | ~2,558 |
-| You can pet the dog | 60.00% | ~2,102 |
+| Everfrost | 76.00% | ~2,664 |
+| Dark Forest | 76.00% | ~2,664 |
+| Pentakill | 75.00% | ~2,629 |
+| The use of petricite | 73.00% | ~2,559 |
+| You can pet the dog | 60.00% | ~2,103 |
 | Thornbarrow | 44.00% | ~1,542 |
 | Big Helmet Bro | 42.00% | ~1,472 |
 | Clarion Cove | 42.00% | ~1,472 |
 | Ternmoat Headquarters | 40.00% | ~1,402 |
 | Elemental master | 38.00% | ~1,332 |
 | Past trauma | 38.00% | ~1,332 |
-| Cypress Glen Headquarters | 35.00% | ~1,226 |
-| Old friend | 34.00% | ~1,191 |
-| Petricite Burst | 34.00% | ~1,191 |
-| Devineur | 33.00% | ~1,156 |
-| Hijack | 32.00% | ~1,121 |
+| Cypress Glen Headquarters | 35.00% | ~1,227 |
+| Old friend | 34.00% | ~1,192 |
+| Petricite Burst | 34.00% | ~1,192 |
+| Devineur | 33.00% | ~1,157 |
+| Hijack | 32.00% | ~1,122 |
 | Whispers in the Woods I | 29.00% | ~1,016 |
 | I chose my shackles | 29.00% | ~1,016 |
 | Ancient power | 29.00% | ~1,016 |
@@ -53,13 +53,13 @@ Rating: 4.78 (Ranked 112)
 | Do you trust me? | 13.00% | ~456 |
 | The great mage rebellion starts now | 13.00% | ~456 |
 | Back to sleep, then... | 13.00% | ~456 |
-| Chains master | 11.00% | ~385 |
-| You can pet the... horse | 11.00% | ~385 |
-| Spellcrafting | 11.00% | ~385 |
+| Chains master | 11.00% | ~386 |
+| You can pet the... horse | 11.00% | ~386 |
+| Spellcrafting | 11.00% | ~386 |
 | Silverwing nest | 3.00% | ~105 |
 | The Unshackled | 1.00% | ~35 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,504 (Ranked 231)  
+Progressed: 3,505 (Ranked 231)  
 Completed: 37 (1.06%) (Ranked 177)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -284,7 +284,7 @@ Completed: 37 (1.06%) (Ranked 177)
 | 2024-01-20 | 3,494 | 35 |
 | 2024-01-21 | 3,499 | 36 |
 | 2024-01-22 | 3,503 | 37 |
-| 2024-01-23 | 3,504 | 37 |
+| 2024-01-23 | 3,505 | 37 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

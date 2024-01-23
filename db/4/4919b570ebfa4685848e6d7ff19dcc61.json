@@ -2,10 +2,10 @@
   "ID": "4919b570ebfa4685848e6d7ff19dcc61",
   "Name": "Galaxy Trek",
   "ProductSlug": "galaxy-trek-c165da",
-  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2024-01-01T16:00:00+00:00",
     "PcReleaseDate": "2024-01-01T19:00:00+00:00",
@@ -33,6 +33,6 @@
   "Achievements": [],
   "AchievementSets": [],
   "LastUpdate_AppInfo": "2024-01-22T18:57:05.2965349+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:02:48.9373841+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:05:37.9459732+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:02:41.8769921+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:06:51.5947082+00:00"
 }

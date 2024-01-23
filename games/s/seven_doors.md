@@ -7,10 +7,10 @@
 | Welcome to Seven Doors | 55.00% | ~17 |
 | Kill the Dead Man | 45.00% | ~14 |
 | Diogenes Syndrome | 45.00% | ~14 |
+| No Fear of the Dark | 42.00% | ~13 |
 | Egyptologist | 42.00% | ~13 |
-| No Fear of the Dark | 39.00% | ~12 |
+| They’re Watching | 39.00% | ~12 |
 | The Last Skull | 39.00% | ~12 |
-| They’re Watching | 35.00% | ~11 |
 | Art Connoisseur | 35.00% | ~11 |
 | Survivor | 35.00% | ~11 |
 | Master of Riddles | 32.00% | ~10 |

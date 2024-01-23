@@ -6,21 +6,21 @@ Number of Ratings: 2,536  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| ''You guys got yourself a ship!'' | 96.00% | ~57,356 |
-| ''I don't like you either!'' | 77.00% | ~46,004 |
+| ''You guys got yourself a ship!'' | 96.00% | ~57,357 |
+| ''I don't like you either!'' | 77.00% | ~46,005 |
 | ''Impressive, most impressive'' | 69.00% | ~41,225 |
 | ''You think you're some kind of Jedi?'' | 69.00% | ~41,225 |
 | The Phantom Menace | 56.00% | ~33,458 |
 | ''Aggressive Negotiations'' | 56.00% | ~33,458 |
 | ''I can fly anything'' | 54.00% | ~32,263 |
-| ''And who gave you permission...?'' | 51.00% | ~30,470 |
+| ''And who gave you permission...?'' | 51.00% | ~30,471 |
 | A New Hope | 45.00% | ~26,886 |
-| Attack of the Clones | 44.00% | ~26,288 |
-| Revenge of the Sith | 38.00% | ~22,703 |
+| Attack of the Clones | 44.00% | ~26,289 |
+| Revenge of the Sith | 38.00% | ~22,704 |
 | The Empire Strikes Back | 35.00% | ~20,911 |
 | ''A fine addition to my collection'' | 35.00% | ~20,911 |
 | Return of the Jedi | 30.00% | ~17,924 |
-| The Force Awakens | 25.00% | ~14,936 |
+| The Force Awakens | 25.00% | ~14,937 |
 | The Last Jedi | 21.00% | ~12,547 |
 | The Rise of Skywalker | 19.00% | ~11,352 |
 | ''It's true... all of it'' | 18.00% | ~10,754 |
@@ -52,7 +52,7 @@ Number of Ratings: 2,536  (23.09.2022)
 | ''Jedi Business'' | 1.00% | ~597 |
 | ''I've never seen a real one!'' | 0.90% | ~538 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 59,746 (Ranked 121)  
+Progressed: 59,747 (Ranked 121)  
 Completed: 264 (0.44%) (Ranked 240)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,10 +329,10 @@ Completed: 264 (0.44%) (Ranked 240)
 | 2024-01-20 | 59,658 | 263 |
 | 2024-01-21 | 59,699 | 263 |
 | 2024-01-22 | 59,737 | 264 |
-| 2024-01-23 | 59,746 | 264 |
+| 2024-01-23 | 59,747 | 264 |
 ## Awards
 Max (Great Boss Battles): 2,512  (Ranked 111)  
-Sum: 6,885 (Ranked 133)  
+Sum: 6,886 (Ranked 133)  
 Diff (max vs sum): -22  
 | Award | Count |
 | ----- | ----- |
@@ -343,7 +343,7 @@ Diff (max vs sum): -22
 | This game is Highly Recommended | 484 |
 | This game has Easy Combat | 482 |
 | This game has Amazing Storytelling | 477 |
-| This game is Extremely Fun | 466 |
+| This game is Extremely Fun | 467 |
 | This game has Quickly Understood Controls | 453 |
 | This game is Relaxing | 445 |
 | This game has Obsessive Gameplay | 341 |
@@ -656,4 +656,4 @@ Diff (max vs sum): -22
 | 2024-01-20 | 4.77 | - | 2,509 | 6,877 |
 | 2024-01-21 | 4.77 | - | 2,512 | 6,881 |
 | 2024-01-22 | 4.77 | - | 2,512 | 6,883 |
-| 2024-01-23 | 4.77 | - | 2,512 | 6,885 |
+| 2024-01-23 | 4.77 | - | 2,512 | 6,886 |

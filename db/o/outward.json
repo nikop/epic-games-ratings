@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 210,
   "Ranking_EOS_Completed": 320,
   "Ranking_EOS_NewPlayers": 220,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2022-05-17T15:00:00+00:00",
     "PcReleaseDate": "2022-05-17T15:00:00+00:00",
@@ -559,7 +559,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 4845,
+  "EOS_Progressed": 4846,
   "EOS_Completed": 5,
   "EOS_NewPlayers": 55,
   "EOS_NewCompleters": 0,
@@ -8669,6 +8669,11 @@
       "Time": "2024-01-23T08:03:44.1280469+00:00",
       "NumProgressed": 4845,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T11:04:17.6932309+00:00",
+      "NumProgressed": 4846,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 42,
@@ -8752,7 +8757,7 @@
       "Name": "Exceptional Skill",
       "Percentage": 21,
       "XP": 30,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ForAllAurai_8",
@@ -8872,7 +8877,7 @@
       "Name": "Ready for Winter",
       "Percentage": 61,
       "XP": 10,
-      "UsersEstimate": 2955
+      "UsersEstimate": 2956
     },
     {
       "ID": "ScienceTroglodyte_29",
@@ -8880,7 +8885,7 @@
       "Name": "Science, Troglodyte!",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 1017
+      "UsersEstimate": 1018
     },
     {
       "ID": "ScourgeSlayer_26",
@@ -8888,7 +8893,7 @@
       "Name": "Scourge Slayer",
       "Percentage": 23,
       "XP": 30,
-      "UsersEstimate": 1114
+      "UsersEstimate": 1115
     },
     {
       "ID": "StrangeAmalgams_53",
@@ -8904,7 +8909,7 @@
       "Name": "Tapped!",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 1647
+      "UsersEstimate": 1648
     },
     {
       "ID": "TheAbsolutePinnacle",
@@ -8936,7 +8941,7 @@
       "Name": "The Power of Faith",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 581
+      "UsersEstimate": 582
     },
     {
       "ID": "ThePowerofFamily_2",
@@ -9000,7 +9005,7 @@
       "Name": "Venture Outward",
       "Percentage": 73,
       "XP": 10,
-      "UsersEstimate": 3537
+      "UsersEstimate": 3538
     },
     {
       "ID": "YourActionsDefineYou_49",
@@ -9015,15 +9020,15 @@
     {
       "ID": "c4hee28",
       "IsBase": true,
-      "Progressed": 4845,
+      "Progressed": 4846,
       "Completed": 5
     }
   ],
   "FirstSeen": "2022-07-22T20:22:22.1140753+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:49.1218322+00:00",
   "LastChanged": "2024-01-10T17:03:00.5825602+00:00",
-  "LastChanged_Achievements": "2024-01-23T10:03:49.2543596+00:00",
+  "LastChanged_Achievements": "2024-01-23T11:04:17.6932291+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.9300607+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:03:18.2550312+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:03:49.2544412+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:03:26.3697935+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:04:17.6932873+00:00"
 }

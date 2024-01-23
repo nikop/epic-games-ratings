@@ -3,12 +3,12 @@
   "Name": "theHunter: Call of the Wild\u2122",
   "ProductSlug": "thehunter-call-of-the-wild",
   "Ranking_Rating": 498,
-  "Ranking_Popularity": 84,
+  "Ranking_Popularity": 83,
   "Ranking_PopularitySum": 49,
-  "Ranking_EOS_Progress": 846,
+  "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 550,
-  "Ranking_EOS_NewCompleters": 140,
+  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-11-25T16:00:00+00:00",
     "PcReleaseDate": "2017-02-16T15:00:00+00:00",
@@ -12253,11 +12253,17 @@
       "Rating": 4.57,
       "NumberOfAwards": 30499,
       "NumberOfAwardsMax": 4972
+    },
+    {
+      "Time": "2024-01-23T10:57:07.9532009+00:00",
+      "Rating": 4.57,
+      "NumberOfAwards": 30507,
+      "NumberOfAwardsMax": 4976
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 30499,
-  "NumberOfAwardsMax": 4972,
+  "NumberOfAwards": 30507,
+  "NumberOfAwardsMax": 4976,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -12294,7 +12300,7 @@
       "Text": "This game is Highly Recommended",
       "Prefix": "This game is",
       "Type": "Highly Recommended",
-      "Count": 3834
+      "Count": 3838
     },
     {
       "Text": "This game has Obsessive Gameplay",
@@ -12318,7 +12324,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 4972
+      "Count": 4976
     }
   ],
   "EOS_Progressed": 0,
@@ -12332,8 +12338,8 @@
   "Achievements": [],
   "AchievementSets": [],
   "FirstSeen": "2022-07-22T20:19:14.0161067+00:00",
-  "LastChanged": "2024-01-23T00:01:35.0763688+00:00",
+  "LastChanged": "2024-01-23T10:57:07.9532007+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:20.8526534+00:00",
-  "LastUpdate_Ratings": "2024-01-23T09:57:12.929397+00:00",
-  "LastUpdate_Achievements": "2024-01-23T10:05:59.772792+00:00"
+  "LastUpdate_Ratings": "2024-01-23T10:57:07.9532013+00:00",
+  "LastUpdate_Achievements": "2024-01-23T11:07:22.1663645+00:00"
 }
