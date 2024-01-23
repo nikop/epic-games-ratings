@@ -2,10 +2,10 @@
   "ID": "33fcce6151b249118a2b7d79c1dfe6b1",
   "Name": "Lil\u0027 Guardsman",
   "ProductSlug": "lil-guardsman-3cf46c",
-  "Ranking_EOS_Progress": 778,
+  "Ranking_EOS_Progress": 752,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2024-01-23T14:00:00+00:00",
     "PcReleaseDate": "2024-01-23T14:00:00+00:00",
@@ -22,15 +22,20 @@
   "RatingHistory": [],
   "ReviewsDisabled": false,
   "Tags": [],
-  "EOS_Progressed": 1,
+  "EOS_Progressed": 2,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
     {
       "Time": "2024-01-15T22:03:25.4956515+00:00",
       "NumProgressed": 1,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T17:04:17.9430852+00:00",
+      "NumProgressed": 2,
       "NumCompleted": 0
     }
   ],
@@ -362,7 +367,7 @@
       "ID": "TripleBarf",
       "SetID": "8j3le2g",
       "Name": "Triple Barf!",
-      "Percentage": 200,
+      "Percentage": 100,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -427,13 +432,13 @@
     {
       "ID": "8j3le2g",
       "IsBase": true,
-      "Progressed": 1,
+      "Progressed": 2,
       "Completed": 0
     }
   ],
   "FirstSeenAchievements": "2024-01-15T22:03:25.4967944+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:03:52.8707043+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:04:17.943085+00:00",
   "LastUpdate_AppInfo": "2024-01-22T22:57:15.5652399+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:57:53.8618519+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:03:52.8707616+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:58:17.4799188+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:04:17.9431141+00:00"
 }

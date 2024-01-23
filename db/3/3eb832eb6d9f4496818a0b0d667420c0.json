@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 49,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 23,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2023-12-18T08:00:00+00:00",
     "PcReleaseDate": "2022-06-28T07:00:00+00:00",
@@ -439,9 +439,9 @@
       "Count": 25
     }
   ],
-  "EOS_Progressed": 429451,
+  "EOS_Progressed": 429482,
   "EOS_Completed": 4,
-  "EOS_NewPlayers": 7202,
+  "EOS_NewPlayers": 7176,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4564,6 +4564,11 @@
       "Time": "2024-01-23T16:05:08.9041017+00:00",
       "NumProgressed": 429451,
       "NumCompleted": 4
+    },
+    {
+      "Time": "2024-01-23T17:05:33.8212803+00:00",
+      "NumProgressed": 429482,
+      "NumCompleted": 4
     }
   ],
   "AchievementsAdded": "2023-12-05T09:03:44.926061+00:00",
@@ -4584,7 +4589,7 @@
       "Name": "Relentless Will",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 30062
+      "UsersEstimate": 30064
     },
     {
       "ID": "ACHIEVEMENT_003",
@@ -4608,7 +4613,7 @@
       "Name": "The Beginning of a Legend",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 98774
+      "UsersEstimate": 98781
     },
     {
       "ID": "ACHIEVEMENT_006",
@@ -4632,7 +4637,7 @@
       "Name": "Home Sweet Home",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 111657
+      "UsersEstimate": 111665
     },
     {
       "ID": "ACHIEVEMENT_009",
@@ -4640,7 +4645,7 @@
       "Name": "Level Analysis Complete",
       "Percentage": 22,
       "XP": 5,
-      "UsersEstimate": 94479
+      "UsersEstimate": 94486
     },
     {
       "ID": "ACHIEVEMENT_010",
@@ -4672,7 +4677,7 @@
       "Name": "For Home Appreciation",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 17178
+      "UsersEstimate": 17179
     },
     {
       "ID": "ACHIEVEMENT_014",
@@ -4720,7 +4725,7 @@
       "Name": "Adventurer at the Precipice",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "ACHIEVEMENT_020",
@@ -4736,7 +4741,7 @@
       "Name": "Downloaded",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 38651
+      "UsersEstimate": 38653
     },
     {
       "ID": "ACHIEVEMENT_022",
@@ -4784,7 +4789,7 @@
       "Name": "Training Advancement",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 34356
+      "UsersEstimate": 34359
     },
     {
       "ID": "ACHIEVEMENT_028",
@@ -4792,7 +4797,7 @@
       "Name": "A Raging Madness",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "ACHIEVEMENT_029",
@@ -4808,7 +4813,7 @@
       "Name": "To Greater Heights",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "ACHIEVEMENT_031",
@@ -4816,7 +4821,7 @@
       "Name": "Inquisition",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "ACHIEVEMENT_032",
@@ -4824,7 +4829,7 @@
       "Name": "Fire!",
       "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 8589
+      "UsersEstimate": 8590
     },
     {
       "ID": "ACHIEVEMENT_033",
@@ -4919,7 +4924,7 @@
     {
       "ID": "dge1ook",
       "IsBase": true,
-      "Progressed": 429451,
+      "Progressed": 429482,
       "Completed": 4
     }
   ],
@@ -4927,8 +4932,8 @@
   "FirstSeenRating": "2023-12-21T06:03:01.4124708+00:00",
   "FirstSeenAchievements": "2023-12-05T09:03:44.9260609+00:00",
   "LastChanged": "2024-01-23T12:03:10.1493311+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:05:08.9041012+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:05:33.8212799+00:00",
   "LastUpdate_AppInfo": "2024-01-23T13:04:44.661281+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:03:04.8961493+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:05:08.9041536+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:03:40.4303009+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:05:33.8213386+00:00"
 }

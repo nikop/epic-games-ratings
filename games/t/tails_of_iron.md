@@ -6,9 +6,9 @@ Rating: 4.57 (Ranked 498)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Complete Guard Faction | 4.00% | ~94 |
-| Become King | 3.00% | ~70 |
-| Ranged Weapon | 3.00% | ~70 |
-| Defeat 25 Frogs | 3.00% | ~70 |
+| Become King | 3.00% | ~71 |
+| Ranged Weapon | 3.00% | ~71 |
+| Defeat 25 Frogs | 3.00% | ~71 |
 | The Bright Fir | 3.00% | ~30 |
 | Collect Gold | 2.00% | ~47 |
 | Collect Iron Ore | 2.00% | ~47 |
@@ -29,10 +29,10 @@ Rating: 4.57 (Ranked 498)
 | Defeat Croakhis Khan | 2.00% | ~20 |
 | Shield Maiden Yellow Tongue | 2.00% | ~20 |
 | I Remember My First Beer | 2.00% | ~20 |
-| Return the Statues | 1.00% | ~23 |
-| Complete the Chefs Book | 1.00% | ~23 |
-| Defeat Avor Warden of the Northern Wastes | 1.00% | ~23 |
-| Defeat Rattus Augustail | 1.00% | ~23 |
+| Return the Statues | 1.00% | ~24 |
+| Complete the Chefs Book | 1.00% | ~24 |
+| Defeat Avor Warden of the Northern Wastes | 1.00% | ~24 |
+| Defeat Rattus Augustail | 1.00% | ~24 |
 | Defeat the Grub Buster | 1.00% | ~10 |
 | Defeat the Stalker Queen | 1.00% | ~10 |
 | Complete Ranger Faction | 0.90% | ~21 |
@@ -42,7 +42,7 @@ Rating: 4.57 (Ranked 498)
 | King of Kings | 0.70% | ~16 |
 | A new Warchief rises | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 2,349 (Ranked 249)  
+Progressed: 2,351 (Ranked 249)  
 Completed: 12 (0.51%) (Ranked 228)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -273,7 +273,7 @@ Completed: 12 (0.51%) (Ranked 228)
 | 2024-01-20 | 2,343 | 12 |
 | 2024-01-21 | 2,345 | 12 |
 | 2024-01-22 | 2,347 | 12 |
-| 2024-01-23 | 2,349 | 12 |
+| 2024-01-23 | 2,351 | 12 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

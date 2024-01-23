@@ -57,7 +57,7 @@ Rating: 4.51 (Ranked 601)
 | Ultimate Defense | 0.20% | ~68 |
 | Line em' up | 0.10% | ~34 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 33,910 (Ranked 142)  
+Progressed: 33,912 (Ranked 142)  
 Completed: 71 (0.21%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,11 +335,11 @@ Completed: 71 (0.21%) (Ranked 284)
 | 2024-01-20 | 33,837 | 71 |
 | 2024-01-21 | 33,868 | 71 |
 | 2024-01-22 | 33,895 | 71 |
-| 2024-01-23 | 33,910 | 71 |
+| 2024-01-23 | 33,912 | 71 |
 ## Awards
-Max (Great for Quick Sessions): 329  (Ranked 257)  
+Max (Great for Quick Sessions): 329  (Ranked 258)  
 Sum: 2,987 (Ranked 187)  
-Diff (max vs sum): 70  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 329 |

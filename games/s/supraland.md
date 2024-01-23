@@ -6,38 +6,38 @@ Number of Ratings: 25,175  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Out of bed | 99.00% | ~733,895 |
-| The Blues | 85.00% | ~630,112 |
-| Fast | 66.00% | ~489,263 |
-| Healthbar | 55.00% | ~407,719 |
-| Force Cube | 53.00% | ~392,893 |
-| Double Jump | 48.00% | ~355,828 |
-| Regeneration | 47.00% | ~348,415 |
-| Triple Jump | 43.00% | ~318,762 |
-| Climb the hill | 42.00% | ~311,349 |
-| Through the fire pipe | 39.00% | ~289,110 |
-| MacGuffin | 38.00% | ~281,697 |
-| Just once | 37.00% | ~274,284 |
-| Armor | 30.00% | ~222,392 |
-| True holy spirit | 28.00% | ~207,566 |
-| That's how electronics work obviously | 27.00% | ~200,153 |
-| Force Cube Catapult | 25.00% | ~185,327 |
-| Holy Sword | 23.00% | ~170,501 |
-| Telefrag | 23.00% | ~170,501 |
-| Freed from prison | 22.00% | ~163,088 |
-| Stomp | 21.00% | ~155,675 |
+| Out of bed | 99.00% | ~733,900 |
+| The Blues | 85.00% | ~630,116 |
+| Fast | 66.00% | ~489,267 |
+| Healthbar | 55.00% | ~407,722 |
+| Force Cube | 53.00% | ~392,896 |
+| Double Jump | 48.00% | ~355,830 |
+| Regeneration | 47.00% | ~348,417 |
+| Triple Jump | 43.00% | ~318,765 |
+| Climb the hill | 42.00% | ~311,351 |
+| Through the fire pipe | 39.00% | ~289,112 |
+| MacGuffin | 38.00% | ~281,699 |
+| Just once | 37.00% | ~274,286 |
+| Armor | 30.00% | ~222,394 |
+| True holy spirit | 28.00% | ~207,568 |
+| That's how electronics work obviously | 27.00% | ~200,155 |
+| Force Cube Catapult | 25.00% | ~185,328 |
+| Holy Sword | 23.00% | ~170,502 |
+| Telefrag | 23.00% | ~170,502 |
+| Freed from prison | 22.00% | ~163,089 |
+| Stomp | 21.00% | ~155,676 |
 | Double Health | 19.00% | ~140,849 |
-| Buckle | 18.00% | ~133,435 |
-| Green Keycard | 18.00% | ~133,435 |
-| Rattle Hag | 16.00% | ~118,609 |
-| All Shells | 15.00% | ~111,196 |
-| Beam | 14.00% | ~103,783 |
-| 9 | 14.00% | ~103,783 |
-| Supraball Noob | 14.00% | ~103,783 |
-| Health Drink | 13.00% | ~96,370 |
-| Helped a star | 13.00% | ~96,370 |
-| Purple Cube | 13.00% | ~96,370 |
-| Strong | 12.00% | ~88,957 |
+| Buckle | 18.00% | ~133,436 |
+| Green Keycard | 18.00% | ~133,436 |
+| Rattle Hag | 16.00% | ~118,610 |
+| All Shells | 15.00% | ~111,197 |
+| Beam | 14.00% | ~103,784 |
+| 9 | 14.00% | ~103,784 |
+| Supraball Noob | 14.00% | ~103,784 |
+| Health Drink | 13.00% | ~96,371 |
+| Helped a star | 13.00% | ~96,371 |
+| Purple Cube | 13.00% | ~96,371 |
+| Strong | 12.00% | ~88,958 |
 | Blue King's lair | 11.00% | ~81,544 |
 | Payback | 11.00% | ~81,544 |
 | Got the coins back | 11.00% | ~81,544 |
@@ -56,8 +56,8 @@ Number of Ratings: 25,175  (23.09.2022)
 | Through the tiny pipe | 9.00% | ~66,718 |
 | Win! | 9.00% | ~66,718 |
 | The real real teleported man | 8.00% | ~59,305 |
-| Well deserved | 6.00% | ~44,478 |
-| Super Sword | 4.00% | ~29,652 |
+| Well deserved | 6.00% | ~44,479 |
+| Super Sword | 4.00% | ~29,653 |
 | Happiness | 3.00% | ~22,239 |
 | All Chests | 2.00% | ~14,826 |
 | Poor ancestors | 2.00% | ~14,826 |
@@ -105,7 +105,7 @@ Number of Ratings: 25,175  (23.09.2022)
 | DLC: There he is! | 0.10% | ~741 |
 | DLC: Top of the world | 0.10% | ~741 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 741,308 (Ranked 27)  
+Progressed: 741,313 (Ranked 27)  
 Completed: 784 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -383,16 +383,16 @@ Completed: 784 (0.11%) (Ranked 315)
 | 2024-01-20 | 740,996 | 783 |
 | 2024-01-21 | 741,153 | 784 |
 | 2024-01-22 | 741,258 | 784 |
-| 2024-01-23 | 741,308 | 784 |
+| 2024-01-23 | 741,313 | 784 |
 ## Awards
 Max (Challenging Puzzles): 7,785  (Ranked 55)  
-Sum: 10,175 (Ranked 97)  
+Sum: 10,176 (Ranked 97)  
 Diff (max vs sum): -42  
 | Award | Count |
 | ----- | ----- |
 | This game features Challenging Puzzles | 7,785 |
 | This game is Educational | 289 |
-| This game has Amazing Storytelling | 283 |
+| This game has Amazing Storytelling | 284 |
 | This game has Amazing Characters | 282 |
 | This game is Relaxing | 282 |
 | This game is Great for Beginners | 275 |
@@ -634,3 +634,4 @@ Diff (max vs sum): -42
 | 2024-01-20 | 4.61 | - | 7,783 | 10,169 |
 | 2024-01-21 | 4.61 | - | 7,783 | 10,173 |
 | 2024-01-22 | 4.61 | - | 7,785 | 10,175 |
+| 2024-01-23 | 4.61 | - | 7,785 | 10,176 |

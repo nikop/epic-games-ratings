@@ -2,7 +2,7 @@
   "ID": "fd6a13a256014a22a83ff2aaacc30e00",
   "Name": "Grand Theft Auto: Vice City \u2013 The Definitive Edition",
   "ProductSlug": "grand-theft-auto-vice-city-the-definitive-edition",
-  "Ranking_Rating": 572,
+  "Ranking_Rating": 573,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 172,
@@ -1074,9 +1074,9 @@
       "Count": 177
     }
   ],
-  "EOS_Progressed": 16656,
+  "EOS_Progressed": 16658,
   "EOS_Completed": 109,
-  "EOS_NewPlayers": 192,
+  "EOS_NewPlayers": 194,
   "EOS_NewCompleters": 9,
   "EOS_Completed_Percentage": 0.65,
   "EosHistory": [
@@ -18879,6 +18879,11 @@
       "Time": "2024-01-23T15:11:12.2525255+00:00",
       "NumProgressed": 16656,
       "NumCompleted": 109
+    },
+    {
+      "Time": "2024-01-23T17:10:27.8742426+00:00",
+      "NumProgressed": 16658,
+      "NumCompleted": 109
     }
   ],
   "TotalAchievements": 34,
@@ -18994,7 +18999,7 @@
       "Name": "Greasy Palms",
       "Percentage": 43,
       "XP": 15,
-      "UsersEstimate": 7162
+      "UsersEstimate": 7163
     },
     {
       "ID": "ACH15",
@@ -19050,7 +19055,7 @@
       "Name": "Legal Counsel",
       "Percentage": 47,
       "XP": 20,
-      "UsersEstimate": 7828
+      "UsersEstimate": 7829
     },
     {
       "ID": "ACH22",
@@ -19058,7 +19063,7 @@
       "Name": "Life of the Party",
       "Percentage": 22,
       "XP": 20,
-      "UsersEstimate": 3664
+      "UsersEstimate": 3665
     },
     {
       "ID": "ACH23",
@@ -19066,7 +19071,7 @@
       "Name": "South American Connection",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 4497
+      "UsersEstimate": 4498
     },
     {
       "ID": "ACH24",
@@ -19161,7 +19166,7 @@
     {
       "ID": "9llo822",
       "IsBase": true,
-      "Progressed": 16656,
+      "Progressed": 16658,
       "Completed": 109
     }
   ],
@@ -19169,8 +19174,8 @@
   "FirstSeenRating": "2023-02-21T16:57:02.7003962+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:02.1062697+00:00",
   "LastChanged": "2024-01-17T11:57:52.7919452+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:10:05.0996286+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:10:27.8742424+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:16.7400504+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:57:37.5186388+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:10:05.0997218+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:58:02.7033006+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:10:27.8743501+00:00"
 }

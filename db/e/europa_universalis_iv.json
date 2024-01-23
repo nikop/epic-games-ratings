@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 42,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 33,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2021-09-30T15:00:00+00:00",
     "PcReleaseDate": "2013-08-13T15:00:00+00:00",
@@ -14751,9 +14751,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 504295,
+  "EOS_Progressed": 504324,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4312,
+  "EOS_NewPlayers": 4303,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46891,6 +46891,11 @@
       "Time": "2024-01-23T16:10:24.8420039+00:00",
       "NumProgressed": 504295,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T17:10:47.9059333+00:00",
+      "NumProgressed": 504324,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47926,7 +47931,7 @@
       "Name": "That\u0027s a Grand Navy",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "achievement_graze_my_horse_here_and_here",
@@ -48902,7 +48907,7 @@
       "Name": "Seriously?!",
       "Percentage": 0.5,
       "XP": 5,
-      "UsersEstimate": 2521
+      "UsersEstimate": 2522
     },
     {
       "ID": "achievement_servitor_of_jagannath",
@@ -49805,21 +49810,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 504295,
+      "Progressed": 504324,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 504295,
+      "Progressed": 504324,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-23T14:57:15.4714082+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:10:24.8420035+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:10:47.9059331+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:57:11.3362246+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:10:24.8430379+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:57:36.5448127+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:10:47.9071019+00:00"
 }

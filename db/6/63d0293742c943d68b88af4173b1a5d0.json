@@ -5,7 +5,7 @@
   "Ranking_EOS_Progress": 309,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 180,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-11-10T13:00:00+00:00",
     "PcReleaseDate": "2015-12-23T05:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 949,
+  "EOS_Progressed": 950,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
@@ -3004,6 +3004,11 @@
       "Time": "2024-01-23T16:04:16.5753417+00:00",
       "NumProgressed": 949,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T17:04:41.7753036+00:00",
+      "NumProgressed": 950,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3032,7 +3037,7 @@
       "Name": "What\u0027s Cooking?",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "6",
@@ -3056,7 +3061,7 @@
       "Name": "Baby\u0027s On Fire",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 351
+      "UsersEstimate": 352
     },
     {
       "ID": "9",
@@ -3072,7 +3077,7 @@
       "Name": "Turn a Rat into a Snack",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 275
+      "UsersEstimate": 276
     },
     {
       "ID": "REMAKE_002",
@@ -3104,7 +3109,7 @@
       "Name": "Attempted Vehicular Infanticide",
       "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 85
+      "UsersEstimate": 86
     },
     {
       "ID": "Remake_007",
@@ -3120,15 +3125,15 @@
       "Name": "Plumber\u0027s Apprentice",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 9
+      "UsersEstimate": 10
     },
     {
       "ID": "Remake_009",
       "SetID": "5pi96jj",
       "Name": "Make a fish your dish",
-      "Percentage": 26,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 247
+      "UsersEstimate": 238
     },
     {
       "ID": "Remake_010",
@@ -3232,21 +3237,21 @@
       "Name": "Escape Lookout Cove",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 161
+      "UsersEstimate": 162
     }
   ],
   "AchievementSets": [
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 949,
+      "Progressed": 950,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:04:16.5753413+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:04:41.7753033+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:58:37.0297496+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:04:16.5753736+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:59:02.7070559+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:04:41.7753325+00:00"
 }

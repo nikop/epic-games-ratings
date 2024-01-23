@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 249,
   "Ranking_EOS_Completed": 228,
-  "Ranking_EOS_NewPlayers": 291,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 284,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-09-15T22:00:00+00:00",
     "PcReleaseDate": "2021-09-16T22:00:00+00:00",
@@ -272,9 +272,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2349,
+  "EOS_Progressed": 2351,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 16,
+  "EOS_NewPlayers": 18,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.51,
   "EosHistory": [
@@ -4497,6 +4497,11 @@
       "Time": "2024-01-23T11:05:45.3171843+00:00",
       "NumProgressed": 2349,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-23T17:05:28.7548473+00:00",
+      "NumProgressed": 2351,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 36,
@@ -4508,7 +4513,7 @@
       "Name": "Become King",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Collect20Gold",
@@ -4540,7 +4545,7 @@
       "Name": "Return the Statues",
       "Percentage": 1,
       "XP": 10,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CollectAllWeaponsAndGear",
@@ -4572,7 +4577,7 @@
       "Name": "Complete the Chefs Book",
       "Percentage": 1,
       "XP": 100,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "CompleteElderFaction",
@@ -4612,7 +4617,7 @@
       "Name": "Defeat Avor Warden of the Northern Wastes",
       "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "DefeatMoziQueen",
@@ -4636,7 +4641,7 @@
       "Name": "Defeat Rattus Augustail",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "FixTheTravellersWagon",
@@ -4652,7 +4657,7 @@
       "Name": "Ranged Weapon",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "GetTHWeapon",
@@ -4676,7 +4681,7 @@
       "Name": "Defeat 25 Frogs",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 70
+      "UsersEstimate": 71
     },
     {
       "ID": "Kill25Mozi",
@@ -4795,13 +4800,13 @@
     {
       "ID": "9lj35g4",
       "IsBase": true,
-      "Progressed": 2349,
+      "Progressed": 2351,
       "Completed": 12
     },
     {
       "ID": "cbf1i0c",
       "IsBase": false,
-      "Progressed": 990,
+      "Progressed": 992,
       "Completed": 926
     }
   ],
@@ -4809,8 +4814,8 @@
   "FirstSeenRating": "2022-09-24T13:07:58.3730388+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:46.1393778+00:00",
   "LastChanged": "2024-01-06T21:58:36.9976729+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:05:03.6959974+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:05:28.7548472+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.8451703+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:59:33.4966127+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:05:03.6960424+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:59:57.7537+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:05:28.7548832+00:00"
 }

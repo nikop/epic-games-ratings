@@ -7,7 +7,7 @@ Number of Ratings: 111  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | You're free now! | 63.00% | ~2,337 |
-| Keeping it classy | 27.00% | ~1,001 |
+| Keeping it classy | 27.00% | ~1,002 |
 | Welcome to the family | 21.00% | ~779 |
 | The finer things in life | 19.00% | ~705 |
 | Backpacker | 13.00% | ~482 |
@@ -28,15 +28,15 @@ Number of Ratings: 111  (23.09.2022)
 | Purple passion | 6.00% | ~223 |
 | Squad goals | 6.00% | ~223 |
 | Sup widdit big dog! | 6.00% | ~223 |
-| Commence the Hijinx! | 5.00% | ~185 |
-| DIY Boss | 5.00% | ~185 |
-| Globetrotter | 5.00% | ~185 |
-| Laid back | 5.00% | ~185 |
-| Lines for days | 5.00% | ~185 |
-| Manny Destroys All | 5.00% | ~185 |
-| NAHELL! | 5.00% | ~185 |
-| Renaissance man | 5.00% | ~185 |
-| Trick shot marksman | 5.00% | ~185 |
+| Commence the Hijinx! | 5.00% | ~186 |
+| DIY Boss | 5.00% | ~186 |
+| Globetrotter | 5.00% | ~186 |
+| Laid back | 5.00% | ~186 |
+| Lines for days | 5.00% | ~186 |
+| Manny Destroys All | 5.00% | ~186 |
+| NAHELL! | 5.00% | ~186 |
+| Renaissance man | 5.00% | ~186 |
+| Trick shot marksman | 5.00% | ~186 |
 | Cops called! | 4.00% | ~148 |
 | G.O.A.T. status | 4.00% | ~148 |
 | Hoarder | 4.00% | ~148 |
@@ -55,7 +55,7 @@ Number of Ratings: 111  (23.09.2022)
 | That's how it's done! | 0.10% | ~4 |
 | Ultimate skate nerd | 0.10% | ~4 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,709 (Ranked 226)  
+Progressed: 3,710 (Ranked 226)  
 Completed: 2 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -307,18 +307,18 @@ Completed: 2 (0.05%) (Ranked 348)
 | 2024-01-19 | 3,699 | 2 |
 | 2024-01-20 | 3,703 | 2 |
 | 2024-01-21 | 3,706 | 2 |
-| 2024-01-23 | 3,709 | 2 |
+| 2024-01-23 | 3,710 | 2 |
 ## Awards
 Max (Great for Quick Sessions): 65  (Ranked 430)  
-Sum: 590 (Ranked 329)  
+Sum: 591 (Ranked 329)  
 Diff (max vs sum): 101  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Quick Sessions | 65 |
 | This game is Highly Recommended | 61 |
 | This game has Diverse Characters | 57 |
+| This game has a Creative Community | 51 |
 | This game has Realistic Visuals | 51 |
-| This game has a Creative Community | 50 |
 | This game has Amazing Characters | 50 |
 | This game is Extremely Fun | 48 |
 | This game is Relaxing | 47 |
@@ -531,4 +531,4 @@ Diff (max vs sum): 101
 | 2024-01-13 | 4.67 | - | 64 | 587 |
 | 2024-01-14 | 4.67 | - | 64 | 588 |
 | 2024-01-19 | 4.67 | - | 64 | 589 |
-| 2024-01-23 | 4.67 | - | 65 | 590 |
+| 2024-01-23 | 4.67 | - | 65 | 591 |

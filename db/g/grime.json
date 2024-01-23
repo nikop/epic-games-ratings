@@ -4,11 +4,11 @@
   "ProductSlug": "grime",
   "Ranking_Rating": 431,
   "Ranking_Popularity": 432,
-  "Ranking_PopularitySum": 347,
+  "Ranking_PopularitySum": 346,
   "Ranking_EOS_Progress": 85,
   "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 96,
-  "Ranking_EOS_NewCompleters": 48,
+  "Ranking_EOS_NewCompleters": 49,
   "Store": {
     "ReleaseDate": "2021-08-02T13:00:00+00:00",
     "PcReleaseDate": "2021-08-02T13:00:00+00:00",
@@ -1883,10 +1883,16 @@
       "Rating": 4.6,
       "NumberOfAwards": 468,
       "NumberOfAwardsMax": 64
+    },
+    {
+      "Time": "2024-01-23T16:59:47.2958963+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 469,
+      "NumberOfAwardsMax": 64
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 468,
+  "NumberOfAwards": 469,
   "NumberOfAwardsMax": 64,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -1918,7 +1924,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 62
+      "Count": 63
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -1945,9 +1951,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169395,
+  "EOS_Progressed": 169399,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 906,
+  "EOS_NewPlayers": 901,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24190,6 +24196,11 @@
       "Time": "2024-01-23T16:07:51.028353+00:00",
       "NumProgressed": 169395,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2024-01-23T17:08:35.2220226+00:00",
+      "NumProgressed": 169399,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24569,21 +24580,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168978,
+      "Progressed": 168982,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169395,
+      "Progressed": 169399,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
-  "LastChanged": "2024-01-22T22:58:53.9473034+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:07:51.0283526+00:00",
+  "LastChanged": "2024-01-23T16:59:47.2958962+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:08:35.2220224+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:59:24.0529472+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:07:51.0284835+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:59:47.2958965+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:08:35.222144+00:00"
 }

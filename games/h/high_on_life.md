@@ -14,11 +14,11 @@ Rating: 4.65 (Ranked 327)
 | We're All Very Impressed, Trust Me | 5.00% | ~1,259 |
 | G3 Graduation | 5.00% | ~1,259 |
 | Don't Knife The Hand That Feeds | 5.00% | ~1,259 |
-| Creature Feature | 4.00% | ~1,007 |
-| RIP Davey Glutes | 4.00% | ~1,007 |
-| Hardest Battle In The Game | 4.00% | ~1,007 |
-| Who's The Boss? | 4.00% | ~1,007 |
-| Fallout Doesn't Let You Do This | 4.00% | ~1,007 |
+| Creature Feature | 4.00% | ~1,008 |
+| RIP Davey Glutes | 4.00% | ~1,008 |
+| Hardest Battle In The Game | 4.00% | ~1,008 |
+| Who's The Boss? | 4.00% | ~1,008 |
+| Fallout Doesn't Let You Do This | 4.00% | ~1,008 |
 | Lezduit! | 3.00% | ~756 |
 | Eye Scream, You Scream | 3.00% | ~756 |
 | Legendary Bounty Hunter | 3.00% | ~756 |
@@ -50,7 +50,7 @@ Rating: 4.65 (Ranked 327)
 | Porch Pirate | 0.10% | ~2 |
 | Harper? I Barely Know Her! | 0.10% | ~2 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 25,187 (Ranked 150)  
+Progressed: 25,188 (Ranked 150)  
 Completed: 14 (0.06%) (Ranked 339)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -327,7 +327,7 @@ Completed: 14 (0.06%) (Ranked 339)
 | 2024-01-20 | 25,177 | 14 |
 | 2024-01-21 | 25,181 | 14 |
 | 2024-01-22 | 25,186 | 14 |
-| 2024-01-23 | 25,187 | 14 |
+| 2024-01-23 | 25,188 | 14 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

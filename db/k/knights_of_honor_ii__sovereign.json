@@ -5,10 +5,10 @@
   "Ranking_Rating": 851,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 571,
+  "Ranking_EOS_Progress": 555,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 231,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 223,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
     "PcReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 49,
+  "EOS_Progressed": 58,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 42,
+  "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -281,6 +281,11 @@
     {
       "Time": "2024-01-23T16:03:48.6210337+00:00",
       "NumProgressed": 49,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T17:04:14.0360779+00:00",
+      "NumProgressed": 58,
       "NumCompleted": 0
     }
   ],
@@ -332,17 +337,17 @@
       "ID": "big_apple",
       "SetID": "41moj9p",
       "Name": "Big Apple",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "black_sheep_wall",
       "SetID": "41moj9p",
       "Name": "Black Sheep Wall",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "blessed_be_his_name",
@@ -372,9 +377,9 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 6,
+      "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 6
     },
     {
       "ID": "brutus",
@@ -396,7 +401,7 @@
       "ID": "call_the_boys",
       "SetID": "41moj9p",
       "Name": "Call the Boys",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -404,9 +409,9 @@
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 4,
+      "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 2
+      "UsersEstimate": 4
     },
     {
       "ID": "columbus",
@@ -444,7 +449,7 @@
       "ID": "cut_me_own_throat",
       "SetID": "41moj9p",
       "Name": "Cut-Me-Own-Throat",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -452,7 +457,7 @@
       "ID": "desperate_times",
       "SetID": "41moj9p",
       "Name": "Desperate Times Call for Desperate Measures",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -468,15 +473,15 @@
       "ID": "dinner_time",
       "SetID": "41moj9p",
       "Name": "Dinner Time",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "do_you_read",
       "SetID": "41moj9p",
       "Name": "Do you read Sutter Cane?",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -508,9 +513,9 @@
       "ID": "forth_eorlingas",
       "SetID": "41moj9p",
       "Name": "Forth, Eorlingas!",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "freeeedom",
@@ -532,9 +537,9 @@
       "ID": "full_house",
       "SetID": "41moj9p",
       "Name": "Full House",
-      "Percentage": 6,
+      "Percentage": 9,
       "XP": 5,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "game_of_thorns",
@@ -572,7 +577,7 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 12,
+      "Percentage": 10,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -580,7 +585,7 @@
       "ID": "he_made_it_out",
       "SetID": "41moj9p",
       "Name": "He made it out, but with an arrow in his back",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -588,7 +593,7 @@
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -708,7 +713,7 @@
       "ID": "kingslayer",
       "SetID": "41moj9p",
       "Name": "Kingslayer",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -716,9 +721,9 @@
       "ID": "learn_me_a_book",
       "SetID": "41moj9p",
       "Name": "Learn Me a Book",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "let_us_pray",
@@ -780,9 +785,9 @@
       "ID": "on_the_third_day",
       "SetID": "41moj9p",
       "Name": "On the third day at dawn, look east",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "open_your_eyes",
@@ -804,7 +809,7 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 6,
+      "Percentage": 5,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -812,7 +817,7 @@
       "ID": "pillars_of_the_earth",
       "SetID": "41moj9p",
       "Name": "Pillars of the Earth",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -948,9 +953,9 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 3
+      "UsersEstimate": 4
     },
     {
       "ID": "they_got_what_they_deserved",
@@ -964,7 +969,7 @@
       "ID": "time_to_find_india",
       "SetID": "41moj9p",
       "Name": "Time to find India",
-      "Percentage": 4,
+      "Percentage": 3,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -972,9 +977,9 @@
       "ID": "tis_but_a_scratch",
       "SetID": "41moj9p",
       "Name": "\u2018Tis but a scratch",
-      "Percentage": 4,
+      "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "together_we_stand",
@@ -1093,7 +1098,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 49,
+      "Progressed": 58,
       "Completed": 0
     }
   ],
@@ -1101,8 +1106,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-20T16:58:07.6974686+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:03:48.6210334+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:04:14.0360776+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:59:30.0211567+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:03:48.6211291+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:59:52.9237381+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:04:14.0361716+00:00"
 }

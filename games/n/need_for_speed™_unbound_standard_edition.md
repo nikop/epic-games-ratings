@@ -4,29 +4,29 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Throwing up Tags | 84.00% | ~48,177 |
-| Fashion Killa | 81.00% | ~46,456 |
-| Cool Whip | 74.00% | ~42,441 |
-| Drop the Beat | 66.00% | ~37,853 |
-| Hey Lakeshore | 61.00% | ~34,985 |
-| Public Enemy | 60.00% | ~34,412 |
-| 100 Miles and Runnin' | 59.00% | ~33,838 |
-| Rebel Without a Pause | 38.00% | ~21,794 |
-| Hey Speedie! | 38.00% | ~21,794 |
-| Most Wanted | 34.00% | ~19,500 |
-| New Crew | 33.00% | ~18,926 |
-| Serious Guap | 27.00% | ~15,485 |
-| Style it Out | 27.00% | ~15,485 |
-| Escape Artist | 27.00% | ~15,485 |
+| Throwing up Tags | 84.00% | ~48,178 |
+| Fashion Killa | 81.00% | ~46,458 |
+| Cool Whip | 74.00% | ~42,443 |
+| Drop the Beat | 66.00% | ~37,854 |
+| Hey Lakeshore | 61.00% | ~34,987 |
+| Public Enemy | 60.00% | ~34,413 |
+| 100 Miles and Runnin' | 59.00% | ~33,839 |
+| Rebel Without a Pause | 38.00% | ~21,795 |
+| Hey Speedie! | 38.00% | ~21,795 |
+| Most Wanted | 34.00% | ~19,501 |
+| New Crew | 33.00% | ~18,927 |
+| Serious Guap | 27.00% | ~15,486 |
+| Style it Out | 27.00% | ~15,486 |
+| Escape Artist | 27.00% | ~15,486 |
 | Rydell's Rydes | 26.00% | ~14,912 |
 | Untouchable | 26.00% | ~14,912 |
 | Oh, It's On | 24.00% | ~13,765 |
-| Cash Money Millionaire | 21.00% | ~12,044 |
+| Cash Money Millionaire | 21.00% | ~12,045 |
 | Access All Areas | 17.00% | ~9,750 |
 | #Blessed | 17.00% | ~9,750 |
 | Lake Better Watch Out | 17.00% | ~9,750 |
 | Found Family | 13.00% | ~7,456 |
-| Kick it | 12.00% | ~6,882 |
+| Kick it | 12.00% | ~6,883 |
 | In the Flow | 11.00% | ~6,309 |
 | The Collector | 11.00% | ~6,309 |
 | Top Billin' | 9.00% | ~5,162 |
@@ -46,7 +46,7 @@
 | Frequent Flyer | 0.60% | ~344 |
 | Cleaning Up | 0.60% | ~344 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 57,353 (Ranked 123)  
+Progressed: 57,355 (Ranked 123)  
 Completed: 63 (0.11%) (Ranked 315)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -176,4 +176,4 @@ Completed: 63 (0.11%) (Ranked 315)
 | 2024-01-20 | 56,877 | 61 |
 | 2024-01-21 | 57,109 | 62 |
 | 2024-01-22 | 57,258 | 62 |
-| 2024-01-23 | 57,353 | 63 |
+| 2024-01-23 | 57,355 | 63 |

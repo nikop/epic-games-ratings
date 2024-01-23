@@ -1,11 +1,11 @@
 # Hello Neighbor 2
 [Store](https://store.epicgames.com/en-US/p/hello-neighbor-2)  
 [View Rawdata](../../db/h/hello_neighbor_2.json)  
-Rating: 4.40 (Ranked 778)  
+Rating: 4.40 (Ranked 777)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome to Raven Brooks | 79.00% | ~3,279 |
+| Welcome to Raven Brooks | 79.00% | ~3,280 |
 | Case Closed | 35.00% | ~1,453 |
 | Shovel Night | 35.00% | ~1,453 |
 | Easy As Pie | 33.00% | ~1,370 |
@@ -20,7 +20,7 @@ Rating: 4.40 (Ranked 778)
 | Reunion | 22.00% | ~913 |
 | Dog Person | 18.00% | ~747 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,151 (Ranked 220)  
+Progressed: 4,152 (Ranked 220)  
 Completed: 151 (3.64%) (Ranked 99)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -292,7 +292,7 @@ Completed: 151 (3.64%) (Ranked 99)
 | 2024-01-20 | 4,129 | 150 |
 | 2024-01-21 | 4,134 | 150 |
 | 2024-01-22 | 4,147 | 151 |
-| 2024-01-23 | 4,151 | 151 |
+| 2024-01-23 | 4,152 | 151 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

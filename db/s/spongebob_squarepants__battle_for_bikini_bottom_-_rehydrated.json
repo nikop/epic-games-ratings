@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 293,
   "Ranking_EOS_Completed": 197,
   "Ranking_EOS_NewPlayers": 179,
-  "Ranking_EOS_NewCompleters": 105,
+  "Ranking_EOS_NewCompleters": 106,
   "Store": {
     "ReleaseDate": "2020-06-23T17:00:00+00:00",
     "PcReleaseDate": null,
@@ -353,9 +353,9 @@
       "Count": 36
     }
   ],
-  "EOS_Progressed": 1185,
+  "EOS_Progressed": 1187,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 134,
+  "EOS_NewPlayers": 136,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.84,
   "EosHistory": [
@@ -3323,6 +3323,11 @@
       "Time": "2024-01-23T13:13:39.655399+00:00",
       "NumProgressed": 1185,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T17:06:45.2733376+00:00",
+      "NumProgressed": 1187,
+      "NumCompleted": 10
     }
   ],
   "AchievementsAdded": "2023-12-18T10:05:03.5075143+00:00",
@@ -3375,7 +3380,7 @@
       "Name": "Uptown and Downtown",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_FD_GRAVEYARD",
@@ -3407,7 +3412,7 @@
       "Name": "Jellyfishing",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "ACH_JELLYFISH_JAM",
@@ -3541,9 +3546,9 @@
       "ID": "ACH_STAT_SPATULA_SEEKER",
       "SetID": "biiejkc",
       "Name": "Spatula Seeker",
-      "Percentage": 23,
+      "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 273
+      "UsersEstimate": 261
     },
     {
       "ID": "ACH_STAT_SPONGE_SMASHER",
@@ -3559,7 +3564,7 @@
       "Name": "Squirrel Smasher",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_STAT_STAR_SMASHER",
@@ -3575,7 +3580,7 @@
       "Name": "Surf\u0027s Up!",
       "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 130
+      "UsersEstimate": 131
     },
     {
       "ID": "ACH_TIME_FOR_TUTORIAL",
@@ -3590,15 +3595,15 @@
     {
       "ID": "biiejkc",
       "IsBase": true,
-      "Progressed": 1185,
+      "Progressed": 1187,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:27:24.5080429+00:00",
   "FirstSeenAchievements": "2023-11-28T11:04:47.3095052+00:00",
   "LastChanged": "2024-01-11T20:58:47.3998753+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:06:19.8219211+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:06:45.2733373+00:00",
   "LastUpdate_AppInfo": "2024-01-20T16:57:25.1693155+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:57:11.0837373+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:06:19.8219584+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:57:35.9423438+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:06:45.2733967+00:00"
 }

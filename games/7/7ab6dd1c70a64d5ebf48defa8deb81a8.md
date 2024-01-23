@@ -1,7 +1,7 @@
 # Atlas Fallen
 [Store](https://store.epicgames.com/en-US/p/atlas-fallen)  
 [View Rawdata](../../db/7/7ab6dd1c70a64d5ebf48defa8deb81a8.json)  
-Rating: 4.21 (Ranked 968)  
+Rating: 4.20 (Ranked 974)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
@@ -25,7 +25,7 @@ Rating: 4.21 (Ranked 968)
 | The Mentor | 13.00% | ~317 |
 | Calm before the Storm | 12.00% | ~292 |
 | To Battle | 11.00% | ~268 |
-| Godslayer | 10.00% | ~244 |
+| Godslayer | 11.00% | ~268 |
 | Airborne | 9.00% | ~219 |
 | Miner | 9.00% | ~219 |
 | Clear Sight | 6.00% | ~146 |
@@ -164,3 +164,4 @@ Completed: 5 (0.21%) (Ranked 284)
 | 2024-01-17 | 4.18 | 0 | 0 |
 | 2024-01-20 | 4.19 | 0 | 0 |
 | 2024-01-22 | 4.21 | 0 | 0 |
+| 2024-01-23 | 4.20 | 0 | 0 |

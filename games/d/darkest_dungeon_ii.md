@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,263 |
+| Malpractice Assurance | 15.00% | ~1,264 |
 | Lost and Found | 9.00% | ~758 |
 | Autodidact | 8.00% | ~10,684 |
 | This Belongs in a Museum | 7.00% | ~9,349 |
 | Creep and Sleep | 7.00% | ~9,349 |
 | Overdue Notice | 7.00% | ~9,349 |
-| This guy... again? | 7.00% | ~589 |
+| This guy... again? | 7.00% | ~590 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,013 |
 | Serenity Now! | 6.00% | ~8,013 |
 | Meat and Greet | 6.00% | ~8,013 |
@@ -21,8 +21,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 6.00% | ~8,013 |
 | To Grandmother's House | 6.00% | ~8,013 |
 | FNG | 6.00% | ~8,013 |
-| Ploughshares to Swords | 6.00% | ~505 |
-| Bloody Graduation | 6.00% | ~505 |
+| Ploughshares to Swords | 6.00% | ~506 |
+| Bloody Graduation | 6.00% | ~506 |
 | It Rings a Bell | 5.00% | ~6,678 |
 | Not Today! | 5.00% | ~6,678 |
 | It Happens | 5.00% | ~6,678 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,551 (Ranked 92)  
+Progressed: 133,556 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,10 +354,10 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
-| 2024-01-23 | 133,551 | 5 |
+| 2024-01-23 | 133,556 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
-Sum: 21,831 (Ranked 58)  
+Sum: 21,833 (Ranked 58)  
 Diff (max vs sum): -6  
 | Award | Count |
 | ----- | ----- |
@@ -365,7 +365,7 @@ Diff (max vs sum): -6
 | This game has Diverse Characters | 1,884 |
 | This game has Challenging Combat | 1,694 |
 | This game is Highly Recommended | 1,617 |
-| This game has Amazing Characters | 1,542 |
+| This game has Amazing Characters | 1,544 |
 | This game is Extremely Fun | 1,536 |
 | This game has Unique Visuals | 1,485 |
 | This game has Amazing Storytelling | 1,460 |
@@ -736,4 +736,4 @@ Diff (max vs sum): -6
 | 2024-01-20 | 4.69 | - | 8,048 | 21,780 |
 | 2024-01-21 | 4.69 | - | 8,057 | 21,807 |
 | 2024-01-22 | 4.69 | - | 8,062 | 21,824 |
-| 2024-01-23 | 4.69 | - | 8,066 | 21,831 |
+| 2024-01-23 | 4.69 | - | 8,066 | 21,833 |

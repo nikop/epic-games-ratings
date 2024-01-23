@@ -5,8 +5,8 @@ Rating: 4.55 (Ranked 530)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting Started | 81.00% | ~16,046 |
-| Pay 'n' Spray | 51.00% | ~10,103 |
+| Getting Started | 81.00% | ~16,049 |
+| Pay 'n' Spray | 51.00% | ~10,105 |
 | All Dressed Up for San Fierro | 26.00% | ~5,151 |
 | The American Dream | 19.00% | ~3,764 |
 | School's Out | 19.00% | ~3,764 |
@@ -19,9 +19,9 @@ Rating: 4.55 (Ranked 530)
 | Original Gangster | 8.00% | ~1,585 |
 | With Extra Dip | 7.00% | ~1,387 |
 | Saviour | 6.00% | ~1,189 |
-| They Can’t Stop All of Us | 5.00% | ~990 |
-| Rescue a Kitten Too? | 5.00% | ~990 |
-| What are the Odds | 4.00% | ~792 |
+| They Can’t Stop All of Us | 5.00% | ~991 |
+| Rescue a Kitten Too? | 5.00% | ~991 |
+| What are the Odds | 4.00% | ~793 |
 | Bike or Biker | 3.00% | ~594 |
 | What the City Needs | 3.00% | ~594 |
 | A Legitimate Business | 2.00% | ~396 |
@@ -37,11 +37,11 @@ Rating: 4.55 (Ranked 530)
 | Lucky Spinner | 1.00% | ~198 |
 | Not a Player | 1.00% | ~198 |
 | Chick Magnet | 1.00% | ~198 |
-| Remastered | 0.80% | ~158 |
+| Remastered | 0.80% | ~159 |
 | ...Here we go again | 0.60% | ~119 |
 | I Ain't No Buster | 0.40% | ~79 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 19,810 (Ranked 158)  
+Progressed: 19,813 (Ranked 158)  
 Completed: 82 (0.41%) (Ranked 246)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -319,7 +319,7 @@ Completed: 82 (0.41%) (Ranked 246)
 | 2024-01-20 | 19,755 | 81 |
 | 2024-01-21 | 19,778 | 81 |
 | 2024-01-22 | 19,799 | 82 |
-| 2024-01-23 | 19,810 | 82 |
+| 2024-01-23 | 19,813 | 82 |
 ## Awards
 Max (Great Boss Battles): 712  (Ranked 198)  
 Sum: 1,099 (Ranked 270)  

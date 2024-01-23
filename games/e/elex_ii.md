@@ -11,7 +11,7 @@ Number of Ratings: 124  (23.09.2022)
 | Role Model | 36.00% | ~103 |
 | Civilian | 36.00% | ~103 |
 | Creator | 33.00% | ~94 |
-| Military Leader | 31.00% | ~88 |
+| Military Leader | 32.00% | ~91 |
 | Festival-goer | 29.00% | ~83 |
 | Peddler | 27.00% | ~77 |
 | Commander | 26.00% | ~74 |

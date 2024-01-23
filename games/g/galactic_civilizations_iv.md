@@ -79,7 +79,7 @@ Number of Ratings: 429  (23.09.2022)
 | Complete a Minor Civilization Quest | 0.00% | ~0 |
 | Science Victory! | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7,582 (Ranked 199)  
+Progressed: 7,582 (Ranked 200)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -358,9 +358,9 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-22 | 7,579 | 0 |
 | 2024-01-23 | 7,582 | 0 |
 ## Awards
-Max (Diverse Characters): 99  (Ranked 386)  
+Max (Diverse Characters): 99  (Ranked 387)  
 Sum: 702 (Ranked 314)  
-Diff (max vs sum): 72  
+Diff (max vs sum): 73  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 99 |

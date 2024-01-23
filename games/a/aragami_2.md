@@ -6,33 +6,33 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,189 |
-| First Steps | 80.00% | ~36,292 |
-| Control the Shadows | 67.00% | ~30,395 |
-| Tools of the Trade | 63.00% | ~28,580 |
-| Apprentice | 60.00% | ~27,219 |
-| Secret Seeker | 57.00% | ~25,858 |
-| Forge of Assassins | 55.00% | ~24,951 |
-| Revenant | 52.00% | ~23,590 |
-| I don’t Care! | 46.00% | ~20,868 |
-| Bird of Prey | 37.00% | ~16,785 |
+| Awakening | 93.00% | ~42,191 |
+| First Steps | 80.00% | ~36,294 |
+| Control the Shadows | 67.00% | ~30,396 |
+| Tools of the Trade | 63.00% | ~28,581 |
+| Apprentice | 60.00% | ~27,220 |
+| Secret Seeker | 57.00% | ~25,859 |
+| Forge of Assassins | 55.00% | ~24,952 |
+| Revenant | 52.00% | ~23,591 |
+| I don’t Care! | 46.00% | ~20,869 |
+| Bird of Prey | 37.00% | ~16,786 |
 | Engraved with Power | 32.00% | ~14,517 |
-| Lady | 31.00% | ~14,063 |
+| Lady | 31.00% | ~14,064 |
 | Fashionable Assassin | 27.00% | ~12,249 |
 | Apex Predator | 24.00% | ~10,888 |
 | Soul Reaver | 23.00% | ~10,434 |
-| Embers | 22.00% | ~9,980 |
+| Embers | 22.00% | ~9,981 |
 | Wall Lizard | 20.00% | ~9,073 |
 | Clinging to Life | 18.00% | ~8,166 |
 | Burning | 17.00% | ~7,712 |
 | Look Behind You | 17.00% | ~7,712 |
-| Sleeping on the Job | 16.00% | ~7,258 |
+| Sleeping on the Job | 16.00% | ~7,259 |
 | Family | 14.00% | ~6,351 |
 | War Engines | 14.00% | ~6,351 |
 | Signature Move | 14.00% | ~6,351 |
 | Ruse | 12.00% | ~5,444 |
 | Master Ninja | 11.00% | ~4,990 |
-| Hatching | 10.00% | ~4,536 |
+| Hatching | 10.00% | ~4,537 |
 | Bonds | 9.00% | ~4,083 |
 | Get Over Here | 9.00% | ~4,083 |
 | The Hidden Village | 9.00% | ~4,083 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~907 |
 | Legacy | 2.00% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,365 (Ranked 132)  
+Progressed: 45,367 (Ranked 132)  
 Completed: 251 (0.55%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 251 (0.55%) (Ranked 223)
 | 2024-01-20 | 45,311 | 251 |
 | 2024-01-21 | 45,332 | 251 |
 | 2024-01-22 | 45,353 | 251 |
-| 2024-01-23 | 45,365 | 251 |
+| 2024-01-23 | 45,367 | 251 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

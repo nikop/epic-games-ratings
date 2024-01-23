@@ -4,8 +4,8 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 377,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
     "PcReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 392,
+  "EOS_Progressed": 393,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 5,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1639,6 +1639,11 @@
       "Time": "2024-01-22T16:09:37.2865707+00:00",
       "NumProgressed": 392,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T17:09:38.2230247+00:00",
+      "NumProgressed": 393,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-22T01:45:20.357802+00:00",
@@ -1659,7 +1664,7 @@
       "Name": "Anomaly Destroyer",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 133
+      "UsersEstimate": 134
     },
     {
       "ID": "AnomalyMaster",
@@ -1915,7 +1920,7 @@
       "Name": "Favored by the Cosmos",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27
+      "UsersEstimate": 28
     },
     {
       "ID": "Gottatinkeremall",
@@ -1995,7 +2000,7 @@
       "Name": "Mechanical Buddy",
       "Percentage": 75,
       "XP": 5,
-      "UsersEstimate": 294
+      "UsersEstimate": 295
     },
     {
       "ID": "MeissasSavior",
@@ -2003,7 +2008,7 @@
       "Name": "Meissa\u0027s Savior",
       "Percentage": 85,
       "XP": 10,
-      "UsersEstimate": 333
+      "UsersEstimate": 334
     },
     {
       "ID": "MindIlluminator",
@@ -2011,7 +2016,7 @@
       "Name": "Mind Illuminator",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 180
+      "UsersEstimate": 181
     },
     {
       "ID": "NoctuanChampionAchievement",
@@ -2123,7 +2128,7 @@
       "Name": "Shard Spender",
       "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 74
+      "UsersEstimate": 75
     },
     {
       "ID": "SixSidedMastery",
@@ -2291,7 +2296,7 @@
       "Name": "Apian Champion",
       "Percentage": 21,
       "XP": 15,
-      "UsersEstimate": 82
+      "UsersEstimate": 83
     },
     {
       "ID": "ApianHero",
@@ -2434,14 +2439,14 @@
     {
       "ID": "1jeo1g7",
       "IsBase": true,
-      "Progressed": 392,
+      "Progressed": 393,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:09:14.0628215+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:09:38.2230245+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.6848498+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:58:53.1661868+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:09:14.0629178+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:59:18.2934415+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:09:38.2231212+00:00"
 }

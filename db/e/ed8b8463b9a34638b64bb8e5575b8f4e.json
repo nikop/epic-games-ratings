@@ -4,8 +4,8 @@
   "ProductSlug": "the-isle-tide-hotel-adf588",
   "Ranking_EOS_Progress": 485,
   "Ranking_EOS_Completed": 200,
-  "Ranking_EOS_NewPlayers": 399,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 420,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-09-12T11:00:00+00:00",
     "PcReleaseDate": "2023-09-12T09:00:00+00:00",
@@ -26,7 +26,7 @@
   "Tags": [],
   "EOS_Progressed": 130,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 4,
+  "EOS_NewPlayers": 3,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.77,
   "EosHistory": [
@@ -746,9 +746,9 @@
       "ID": "knock_knockout",
       "SetID": "7i36ba9",
       "Name": "Knock, Knockout",
-      "Percentage": 38,
+      "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 49
+      "UsersEstimate": 51
     },
     {
       "ID": "lessons_never_learnt",
@@ -850,9 +850,9 @@
       "ID": "the_price_is_right",
       "SetID": "7i36ba9",
       "Name": "The Price is Right",
-      "Percentage": 68,
+      "Percentage": 69,
       "XP": 10,
-      "UsersEstimate": 88
+      "UsersEstimate": 90
     },
     {
       "ID": "the_swell_celebration",
@@ -889,8 +889,8 @@
   ],
   "FirstSeen": "2023-09-13T06:59:45.0735192+00:00",
   "FirstSeenAchievements": "2023-07-21T15:01:43.3197058+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:10:11.7443028+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:10:34.4178961+00:00",
   "LastUpdate_AppInfo": "2024-01-20T09:56:55.626448+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:02:37.8335632+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:10:11.7443238+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:03:14.2473021+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:10:34.41791+00:00"
 }

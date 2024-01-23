@@ -4,8 +4,8 @@
   "ProductSlug": "blood-of-titans-49a2a8",
   "Ranking_EOS_Progress": 282,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-05-29T18:00:00+00:00",
     "PcReleaseDate": "2023-05-29T18:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1354,
+  "EOS_Progressed": 1355,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -4894,6 +4894,11 @@
       "Time": "2024-01-22T11:11:56.6394558+00:00",
       "NumProgressed": 1354,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T17:10:41.7330127+00:00",
+      "NumProgressed": 1355,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 66,
@@ -5025,7 +5030,7 @@
       "Name": "Conqueror 1",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 162
+      "UsersEstimate": 163
     },
     {
       "ID": "conqueror_2",
@@ -5313,7 +5318,7 @@
       "Name": "Sophisticated Alchemist 1",
       "Percentage": 10,
       "XP": 5,
-      "UsersEstimate": 135
+      "UsersEstimate": 136
     },
     {
       "ID": "sophisticated_alchemist_2",
@@ -5432,14 +5437,14 @@
     {
       "ID": "53c1p3k",
       "IsBase": true,
-      "Progressed": 1354,
+      "Progressed": 1355,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:10:18.8295186+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:10:41.7330125+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.5682133+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:57:35.8586264+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:10:18.8295783+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:58:01.5018072+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:10:41.7330772+00:00"
 }

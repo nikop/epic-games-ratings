@@ -2,12 +2,12 @@
   "ID": "7ab6dd1c70a64d5ebf48defa8deb81a8",
   "Name": "Atlas Fallen",
   "ProductSlug": "atlas-fallen",
-  "Ranking_Rating": 968,
+  "Ranking_Rating": 974,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 247,
   "Ranking_EOS_Completed": 284,
-  "Ranking_EOS_NewPlayers": 198,
+  "Ranking_EOS_NewPlayers": 197,
   "Ranking_EOS_NewCompleters": 88,
   "Store": {
     "ReleaseDate": "2023-10-31T16:00:00+00:00",
@@ -18,7 +18,7 @@
     "EpicFirstRunRemoved": null,
     "CustomAttributes": {}
   },
-  "Rating": 4.21,
+  "Rating": 4.2,
   "RatingHistory": [
     {
       "Time": "2023-12-25T23:59:59.8062735+00:00",
@@ -119,6 +119,12 @@
     {
       "Time": "2024-01-22T16:59:51.0180567+00:00",
       "Rating": 4.21,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-23T17:00:34.378282+00:00",
+      "Rating": 4.2,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -5061,9 +5067,9 @@
       "ID": "ACH_06",
       "SetID": "efe2lj",
       "Name": "Godslayer",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 40,
-      "UsersEstimate": 244
+      "UsersEstimate": 268
     },
     {
       "ID": "ACH_07",
@@ -5317,9 +5323,9 @@
   "FirstSeen": "2023-11-01T18:58:29.7772632+00:00",
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
-  "LastChanged": "2024-01-22T16:59:51.0180566+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:10:14.9211741+00:00",
+  "LastChanged": "2024-01-23T17:00:34.3782819+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:10:37.5897768+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:00:10.5056886+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:10:14.9212272+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:00:34.3782822+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:10:37.5898237+00:00"
 }

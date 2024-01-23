@@ -5,23 +5,23 @@ Rating: 4.65 (Ranked 327)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,965 |
-| On the Top Step | 83.00% | ~15,474 |
-| Setting up for Success | 70.00% | ~13,050 |
-| Team Orders | 68.00% | ~12,677 |
+| Getting on the Step | 91.00% | ~16,966 |
+| On the Top Step | 83.00% | ~15,475 |
+| Setting up for Success | 70.00% | ~13,051 |
+| Team Orders | 68.00% | ~12,678 |
 | Engineer | 46.00% | ~8,576 |
 | Familiar Faces | 42.00% | ~7,830 |
-| Going the Extra Mile | 36.00% | ~6,711 |
+| Going the Extra Mile | 36.00% | ~6,712 |
 | Sharing the Love | 34.00% | ~6,339 |
-| Hitting a Season | 29.00% | ~5,406 |
+| Hitting a Season | 29.00% | ~5,407 |
 | A Dozen Pieces | 26.00% | ~4,847 |
 | Making History | 25.00% | ~4,661 |
-| Network Success | 24.00% | ~4,474 |
-| Challenge Yourself | 24.00% | ~4,474 |
+| Network Success | 24.00% | ~4,475 |
+| Challenge Yourself | 24.00% | ~4,475 |
 | Writing a new Chapter | 20.00% | ~3,729 |
 | Spring Cleaning | 19.00% | ~3,542 |
-| Reduce | 15.00% | ~2,796 |
-| Ups and Downs | 15.00% | ~2,796 |
+| Reduce | 15.00% | ~2,797 |
+| Ups and Downs | 15.00% | ~2,797 |
 | Crucial Combo | 13.00% | ~2,424 |
 | Reuse | 13.00% | ~2,424 |
 | Proving Them Wrong | 13.00% | ~2,424 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 327)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,643 (Ranked 165)  
+Progressed: 18,644 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,11 +187,11 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 18,524 | 0 |
 | 2024-01-21 | 18,591 | 0 |
 | 2024-01-22 | 18,629 | 0 |
-| 2024-01-23 | 18,643 | 0 |
+| 2024-01-23 | 18,644 | 0 |
 ## Awards
 Max (Diverse Characters): 74  (Ranked 414)  
-Sum: 481 (Ranked 342)  
-Diff (max vs sum): 72  
+Sum: 481 (Ranked 343)  
+Diff (max vs sum): 71  
 | Award | Count |
 | ----- | ----- |
 | This game has Diverse Characters | 74 |

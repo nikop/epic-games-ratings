@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 106,
   "Ranking_EOS_Completed": 252,
-  "Ranking_EOS_NewPlayers": 111,
-  "Ranking_EOS_NewCompleters": 41,
+  "Ranking_EOS_NewPlayers": 110,
+  "Ranking_EOS_NewCompleters": 42,
   "Store": {
     "ReleaseDate": "2023-08-03T05:00:00+00:00",
     "PcReleaseDate": null,
@@ -269,9 +269,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94094,
+  "EOS_Progressed": 94100,
   "EOS_Completed": 351,
-  "EOS_NewPlayers": 635,
+  "EOS_NewPlayers": 637,
   "EOS_NewCompleters": 7,
   "EOS_Completed_Percentage": 0.37,
   "EosHistory": [
@@ -18939,6 +18939,11 @@
       "Time": "2024-01-23T16:05:48.6474029+00:00",
       "NumProgressed": 94094,
       "NumCompleted": 351
+    },
+    {
+      "Time": "2024-01-23T17:06:13.5444087+00:00",
+      "NumProgressed": 94100,
+      "NumCompleted": 351
     }
   ],
   "AchievementsAdded": "2023-08-03T06:01:19.3820028+00:00",
@@ -18951,7 +18956,7 @@
       "Name": "Welcome to Dodo Peak",
       "Percentage": 80,
       "XP": 50,
-      "UsersEstimate": 75275
+      "UsersEstimate": 75280
     },
     {
       "ID": "grp_beet",
@@ -18959,7 +18964,7 @@
       "Name": "The early bird gets the beet",
       "Percentage": 20,
       "XP": 25,
-      "UsersEstimate": 18819
+      "UsersEstimate": 18820
     },
     {
       "ID": "grp_collect_ruby",
@@ -18967,7 +18972,7 @@
       "Name": "Two month\u0027s rent",
       "Percentage": 77,
       "XP": 25,
-      "UsersEstimate": 72452
+      "UsersEstimate": 72457
     },
     {
       "ID": "grp_endless",
@@ -18975,7 +18980,7 @@
       "Name": "That Sinking Feeling",
       "Percentage": 35,
       "XP": 100,
-      "UsersEstimate": 32933
+      "UsersEstimate": 32935
     },
     {
       "ID": "grp_finallevel",
@@ -18991,7 +18996,7 @@
       "Name": "Play Free Bird",
       "Percentage": 25,
       "XP": 50,
-      "UsersEstimate": 23524
+      "UsersEstimate": 23525
     },
     {
       "ID": "grp_level10",
@@ -19039,7 +19044,7 @@
       "Name": "Investing in BirdCoin",
       "Percentage": 54,
       "XP": 50,
-      "UsersEstimate": 50811
+      "UsersEstimate": 50814
     },
     {
       "ID": "grp_money_tree",
@@ -19047,7 +19052,7 @@
       "Name": "Money doesn\u0027t grow on trees",
       "Percentage": 74,
       "XP": 50,
-      "UsersEstimate": 69630
+      "UsersEstimate": 69634
     },
     {
       "ID": "grp_speed",
@@ -19055,7 +19060,7 @@
       "Name": "As the dodo flies",
       "Percentage": 48,
       "XP": 25,
-      "UsersEstimate": 45165
+      "UsersEstimate": 45168
     },
     {
       "ID": "grp_stone",
@@ -19063,7 +19068,7 @@
       "Name": "Killing one stone with two birds",
       "Percentage": 11,
       "XP": 50,
-      "UsersEstimate": 10350
+      "UsersEstimate": 10351
     },
     {
       "ID": "grp_store_ftux",
@@ -19071,7 +19076,7 @@
       "Name": "Birds of a Feather",
       "Percentage": 43,
       "XP": 25,
-      "UsersEstimate": 40460
+      "UsersEstimate": 40463
     },
     {
       "ID": "grp_weekly_beaten",
@@ -19079,14 +19084,14 @@
       "Name": "Bird of the Week",
       "Percentage": 9,
       "XP": 100,
-      "UsersEstimate": 8468
+      "UsersEstimate": 8469
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gd32f",
       "IsBase": true,
-      "Progressed": 94094,
+      "Progressed": 94100,
       "Completed": 351
     }
   ],
@@ -19094,8 +19099,8 @@
   "FirstSeenRating": "2023-08-27T07:59:18.2658043+00:00",
   "FirstSeenAchievements": "2023-08-03T06:01:19.3820026+00:00",
   "LastChanged": "2024-01-21T08:00:17.9135113+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:05:48.6474026+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:06:13.5444082+00:00",
   "LastUpdate_AppInfo": "2024-01-18T21:57:11.6108268+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:02:37.2488133+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:05:48.6474956+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:03:13.749164+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:06:13.5445147+00:00"
 }

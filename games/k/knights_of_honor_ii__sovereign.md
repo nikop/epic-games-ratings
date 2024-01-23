@@ -5,31 +5,34 @@ Rating: 4.34 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 12.00% | ~6 |
-| Bring it on! | 6.00% | ~3 |
-| Call the Boys | 6.00% | ~3 |
-| Full House | 6.00% | ~3 |
-| Help! Help! I’m being repressed | 6.00% | ~3 |
-| Path of Glory | 6.00% | ~3 |
-| There is no Nobility in Poverty | 6.00% | ~3 |
-| Can’t Touch This | 4.00% | ~2 |
-| Cut-Me-Own-Throat | 4.00% | ~2 |
-| Desperate Times Call for Desperate Measures | 4.00% | ~2 |
-| Do you read Sutter Cane? | 4.00% | ~2 |
-| He made it out, but with an arrow in his back | 4.00% | ~2 |
-| Kingslayer | 4.00% | ~2 |
-| Learn Me a Book | 4.00% | ~2 |
-| Pillars of the Earth | 4.00% | ~2 |
-| Time to find India | 4.00% | ~2 |
-| ‘Tis but a scratch | 4.00% | ~2 |
+| Bring it on! | 10.00% | ~6 |
+| Hail to the King, Baby | 10.00% | ~6 |
+| Full House | 9.00% | ~5 |
+| Can’t Touch This | 7.00% | ~4 |
+| There is no Nobility in Poverty | 7.00% | ~4 |
+| Call the Boys | 5.00% | ~3 |
+| Help! Help! I’m being repressed | 5.00% | ~3 |
+| Learn Me a Book | 5.00% | ~3 |
+| Path of Glory | 5.00% | ~3 |
+| ‘Tis but a scratch | 5.00% | ~3 |
+| Cut-Me-Own-Throat | 3.00% | ~2 |
+| Desperate Times Call for Desperate Measures | 3.00% | ~2 |
+| Dinner Time | 3.00% | ~2 |
+| Do you read Sutter Cane? | 3.00% | ~2 |
+| Forth, Eorlingas! | 3.00% | ~2 |
+| He made it out, but with an arrow in his back | 3.00% | ~2 |
+| Kingslayer | 3.00% | ~2 |
+| Pillars of the Earth | 3.00% | ~2 |
+| Time to find India | 3.00% | ~2 |
 | All the King's Men | 2.00% | ~1 |
+| Big Apple | 2.00% | ~1 |
+| Black Sheep Wall | 2.00% | ~1 |
 | Blinded by Science | 2.00% | ~1 |
 | Crusade Invoker, no Regret | 2.00% | ~1 |
-| Dinner Time | 2.00% | ~1 |
-| Forth, Eorlingas! | 2.00% | ~1 |
 | Fight Another Day | 2.00% | ~1 |
 | Let Us Pray | 2.00% | ~1 |
 | Let us trade with these fine people | 2.00% | ~1 |
+| On the third day at dawn, look east | 2.00% | ~1 |
 | Playerxander the Great | 2.00% | ~1 |
 | Spartacus | 2.00% | ~1 |
 | The finest merchandise this side of river Jordan | 2.00% | ~1 |
@@ -39,8 +42,6 @@ Rating: 4.34 (Ranked 851)
 | A Quiet Palace | 0.00% | ~0 |
 | Ashes to Ashes | 0.00% | ~0 |
 | Battle of the Four Armies | 0.00% | ~0 |
-| Big Apple | 0.00% | ~0 |
-| Black Sheep Wall | 0.00% | ~0 |
 | Blessed Be His Name | 0.00% | ~0 |
 | Zerg Rush | 0.00% | ~0 |
 | Brutus | 0.00% | ~0 |
@@ -76,7 +77,6 @@ Rating: 4.34 (Ranked 851)
 | Master of Puppets | 0.00% | ~0 |
 | Naught but a Seamless Victory | 0.00% | ~0 |
 | New Mineland | 0.00% | ~0 |
-| On the third day at dawn, look east | 0.00% | ~0 |
 | Open Your Eyes | 0.00% | ~0 |
 | Our Arrows Will Blot Out the Sun | 0.00% | ~0 |
 | Power Overwhelming | 0.00% | ~0 |
@@ -106,12 +106,12 @@ Rating: 4.34 (Ranked 851)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 49 (Ranked 571)  
+Progressed: 58 (Ranked 555)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 49 | 0 |
+| 2024-01-23 | 58 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

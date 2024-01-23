@@ -1,30 +1,30 @@
 # Call of the Sea
 [Store](https://store.epicgames.com/en-US/p/call-of-the-sea)  
 [View Rawdata](../../db/c/call_of_the_sea.json)  
-Rating: 4.40 (Ranked 778)  
+Rating: 4.40 (Ranked 777)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Family Heirloom | 80.00% | ~112,796 |
-| 74 miles East of Otaheité | 56.00% | ~78,957 |
-| Interesting... | 42.00% | ~59,218 |
-| The Everhart Expedition | 40.00% | ~56,398 |
-| The Vanishing of the Lady Shannon | 31.00% | ~43,708 |
-| Seaside Serenade | 31.00% | ~43,708 |
-| Halfway there | 30.00% | ~42,298 |
-| A brigantine, a brig and a barque | 28.00% | ~39,479 |
-| Weekend at Walakea's | 28.00% | ~39,479 |
-| 506 East Hampden Avenue | 28.00% | ~39,479 |
-| Quite a Show | 27.00% | ~38,069 |
-| Dark Water Ride | 25.00% | ~35,249 |
-| Sunken | 25.00% | ~35,249 |
-| Deep Cut | 25.00% | ~35,249 |
-| FHALGOF'N' | 23.00% | ~32,429 |
-| Marsh Cannery | 21.00% | ~29,609 |
-| Greetings from Y'ha-nthlei! | 18.00% | ~25,379 |
-| The only thing I have now | 17.00% | ~23,969 |
-| Not Another Boring Slideshow! | 16.00% | ~22,559 |
-| Naacalvision | 16.00% | ~22,559 |
+| A Family Heirloom | 80.00% | ~112,803 |
+| 74 miles East of Otaheité | 56.00% | ~78,962 |
+| Interesting... | 42.00% | ~59,222 |
+| The Everhart Expedition | 40.00% | ~56,402 |
+| The Vanishing of the Lady Shannon | 31.00% | ~43,711 |
+| Seaside Serenade | 31.00% | ~43,711 |
+| Halfway there | 30.00% | ~42,301 |
+| A brigantine, a brig and a barque | 28.00% | ~39,481 |
+| Weekend at Walakea's | 28.00% | ~39,481 |
+| 506 East Hampden Avenue | 28.00% | ~39,481 |
+| Quite a Show | 27.00% | ~38,071 |
+| Dark Water Ride | 25.00% | ~35,251 |
+| Sunken | 25.00% | ~35,251 |
+| Deep Cut | 25.00% | ~35,251 |
+| FHALGOF'N' | 23.00% | ~32,431 |
+| Marsh Cannery | 21.00% | ~29,611 |
+| Greetings from Y'ha-nthlei! | 18.00% | ~25,381 |
+| The only thing I have now | 17.00% | ~23,971 |
+| Not Another Boring Slideshow! | 16.00% | ~22,561 |
+| Naacalvision | 16.00% | ~22,561 |
 | The Norahnomicon | 10.00% | ~14,100 |
 | I'll make a note of that... | 9.00% | ~12,690 |
 | Written in Stone | 7.00% | ~9,870 |
@@ -40,7 +40,7 @@ Rating: 4.40 (Ranked 778)
 | Soundcheck | 2.00% | ~2,820 |
 | Meta-reference | 1.00% | ~1,410 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 140,995 (Ranked 90)  
+Progressed: 141,004 (Ranked 90)  
 Completed: 1,279 (0.91%) (Ranked 190)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -318,7 +318,7 @@ Completed: 1,279 (0.91%) (Ranked 190)
 | 2024-01-20 | 140,597 | 1,275 |
 | 2024-01-21 | 140,787 | 1,278 |
 | 2024-01-22 | 140,905 | 1,279 |
-| 2024-01-23 | 140,995 | 1,279 |
+| 2024-01-23 | 141,004 | 1,279 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

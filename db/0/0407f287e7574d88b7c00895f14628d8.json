@@ -4,8 +4,8 @@
   "ProductSlug": "settlement-survival-923f57",
   "Ranking_EOS_Progress": 429,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 301,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 297,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-13T04:00:00+00:00",
     "PcReleaseDate": "2022-10-24T16:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 239,
+  "EOS_Progressed": 240,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 14,
+  "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1014,6 +1014,11 @@
       "Time": "2024-01-23T10:04:23.1068787+00:00",
       "NumProgressed": 239,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T17:04:57.4217858+00:00",
+      "NumProgressed": 240,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-12T07:05:28.2307151+00:00",
@@ -1058,7 +1063,7 @@
       "Name": "Clear Road",
       "Percentage": 60,
       "XP": 20,
-      "UsersEstimate": 143
+      "UsersEstimate": 144
     },
     {
       "ID": "dl2",
@@ -1082,7 +1087,7 @@
       "Name": "Agriculture Tycoon",
       "Percentage": 34,
       "XP": 20,
-      "UsersEstimate": 81
+      "UsersEstimate": 82
     },
     {
       "ID": "f2",
@@ -1226,15 +1231,15 @@
       "Name": "Builder",
       "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 57
+      "UsersEstimate": 58
     },
     {
       "ID": "jz2",
       "SetID": "b1ggf28",
       "Name": "Architect",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 65
+      "UsersEstimate": 67
     },
     {
       "ID": "jz3",
@@ -1250,7 +1255,7 @@
       "Name": "Advanced Technology",
       "Percentage": 39,
       "XP": 20,
-      "UsersEstimate": 93
+      "UsersEstimate": 94
     },
     {
       "ID": "k2",
@@ -1296,9 +1301,9 @@
       "ID": "r1",
       "SetID": "b1ggf28",
       "Name": "Prosperity",
-      "Percentage": 21,
+      "Percentage": 20,
       "XP": 20,
-      "UsersEstimate": 50
+      "UsersEstimate": 48
     },
     {
       "ID": "r2",
@@ -1338,7 +1343,7 @@
       "Name": "Against the Cold",
       "Percentage": 65,
       "XP": 20,
-      "UsersEstimate": 155
+      "UsersEstimate": 156
     },
     {
       "ID": "w2",
@@ -1433,14 +1438,14 @@
     {
       "ID": "b1ggf28",
       "IsBase": true,
-      "Progressed": 239,
+      "Progressed": 240,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-12-14T09:03:04.1134639+00:00",
   "FirstSeenAchievements": "2023-12-06T04:03:29.9982071+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:04:32.299548+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:04:57.4217856+00:00",
   "LastUpdate_AppInfo": "2024-01-17T07:57:23.9320569+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:03:00.7941226+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:04:32.2995812+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:03:36.4611101+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:04:57.4218197+00:00"
 }

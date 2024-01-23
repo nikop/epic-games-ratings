@@ -3,12 +3,12 @@
   "Name": "Gamedec - Definitive Edition",
   "ProductSlug": "gamedec",
   "Ranking_Rating": 905,
-  "Ranking_Popularity": 386,
-  "Ranking_PopularitySum": 475,
+  "Ranking_Popularity": 387,
+  "Ranking_PopularitySum": 476,
   "Ranking_EOS_Progress": 70,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 109,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2021-09-16T16:00:00+00:00",
     "PcReleaseDate": null,
@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258664,
+  "EOS_Progressed": 258668,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 659,
+  "EOS_NewPlayers": 658,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31747,6 +31747,11 @@
       "Time": "2024-01-23T16:06:16.0721709+00:00",
       "NumProgressed": 258664,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T17:06:41.6178567+00:00",
+      "NumProgressed": 258668,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31758,7 +31763,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69839
+      "UsersEstimate": 69840
     },
     {
       "ID": "ACH_AON",
@@ -31822,7 +31827,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33626
+      "UsersEstimate": 33627
     },
     {
       "ID": "ACH_HATTRICK",
@@ -31902,7 +31907,7 @@
       "Name": "I will finish what you started",
       "Percentage": 29,
       "XP": 20,
-      "UsersEstimate": 75013
+      "UsersEstimate": 75014
     },
     {
       "ID": "ACH_ITSALIVE",
@@ -31974,7 +31979,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64666
+      "UsersEstimate": 64667
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -32030,7 +32035,7 @@
       "Name": "It\u0027s honest work",
       "Percentage": 7,
       "XP": 20,
-      "UsersEstimate": 18106
+      "UsersEstimate": 18107
     },
     {
       "ID": "ACH_MEMESMART",
@@ -32078,7 +32083,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64666
+      "UsersEstimate": 64667
     },
     {
       "ID": "ACH_SOREAD",
@@ -32173,7 +32178,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258664,
+      "Progressed": 258668,
       "Completed": 8
     }
   ],
@@ -32181,8 +32186,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:06:16.0721705+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:06:41.6178563+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-23T16:02:44.2698892+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:06:16.0724018+00:00"
+  "LastUpdate_Ratings": "2024-01-23T17:03:20.8900742+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:06:41.618062+00:00"
 }

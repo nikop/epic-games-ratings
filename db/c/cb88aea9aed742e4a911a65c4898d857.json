@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 182,
   "Ranking_EOS_Completed": 383,
   "Ranking_EOS_NewPlayers": 123,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-12-07T16:00:00+00:00",
     "PcReleaseDate": "2023-12-07T16:00:00+00:00",
@@ -467,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12122,
+  "EOS_Progressed": 12124,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 524,
+  "EOS_NewPlayers": 522,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5947,6 +5947,11 @@
       "Time": "2024-01-23T16:10:16.5705593+00:00",
       "NumProgressed": 12122,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T17:10:39.5325311+00:00",
+      "NumProgressed": 12124,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -5959,7 +5964,7 @@
       "Name": "Conspiracy",
       "Percentage": 23,
       "XP": 5,
-      "UsersEstimate": 2788
+      "UsersEstimate": 2789
     },
     {
       "ID": "03_TheStolenStar",
@@ -5975,7 +5980,7 @@
       "Name": "Trade Empire",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "05_TheComorraghSurvivors",
@@ -6119,7 +6124,7 @@
       "Name": "Perfect Timing",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "23_DynastyRestored",
@@ -6167,7 +6172,7 @@
       "Name": "Light of the Astronomican",
       "Percentage": 15,
       "XP": 5,
-      "UsersEstimate": 1818
+      "UsersEstimate": 1819
     },
     {
       "ID": "29_NoStoneUnturned",
@@ -6287,7 +6292,7 @@
       "Name": "No Place Like Home",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 1333
+      "UsersEstimate": 1334
     },
     {
       "ID": "44_OrdosHolyWork",
@@ -6301,9 +6306,9 @@
       "ID": "45_ThePolygloth",
       "SetID": "37a94m8",
       "Name": "Polyglot",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 109
+      "UsersEstimate": 121
     },
     {
       "ID": "46_ASpark",
@@ -6478,7 +6483,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12122,
+      "Progressed": 12124,
       "Completed": 1
     }
   ],
@@ -6486,8 +6491,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:10:16.5705588+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:10:39.5325308+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:58:17.4109144+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:10:16.5706359+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:58:42.8485297+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:10:39.5326032+00:00"
 }

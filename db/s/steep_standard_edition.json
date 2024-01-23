@@ -4,11 +4,11 @@
   "ProductSlug": "steep",
   "Ranking_Rating": 242,
   "Ranking_Popularity": 572,
-  "Ranking_PopularitySum": 471,
+  "Ranking_PopularitySum": 472,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 550,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2016-12-02T08:00:00+00:00",
     "PcReleaseDate": null,
@@ -636,6 +636,6 @@
   "FirstSeen": "2022-07-22T20:22:40.9407934+00:00",
   "LastChanged": "2024-01-22T01:54:54.5090616+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:21.8739064+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:57:24.6154796+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:09:33.5745074+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:57:50.4786982+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:09:58.0165176+00:00"
 }

@@ -2641,9 +2641,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 19810,
+  "EOS_Progressed": 19813,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 186,
+  "EOS_NewPlayers": 188,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.41,
   "EosHistory": [
@@ -21316,6 +21316,11 @@
       "Time": "2024-01-23T16:10:12.4751434+00:00",
       "NumProgressed": 19810,
       "NumCompleted": 82
+    },
+    {
+      "Time": "2024-01-23T17:10:35.1050076+00:00",
+      "NumProgressed": 19813,
+      "NumCompleted": 82
     }
   ],
   "TotalAchievements": 35,
@@ -21327,7 +21332,7 @@
       "Name": "Getting Started",
       "Percentage": 81,
       "XP": 10,
-      "UsersEstimate": 16046
+      "UsersEstimate": 16049
     },
     {
       "ID": "ACH02",
@@ -21383,7 +21388,7 @@
       "Name": "Pay \u0027n\u0027 Spray",
       "Percentage": 51,
       "XP": 15,
-      "UsersEstimate": 10103
+      "UsersEstimate": 10105
     },
     {
       "ID": "ACH09",
@@ -21439,7 +21444,7 @@
       "Name": "They Can\u2019t Stop All of Us",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ACH16",
@@ -21471,7 +21476,7 @@
       "Name": "Rescue a Kitten Too?",
       "Percentage": 5,
       "XP": 40,
-      "UsersEstimate": 990
+      "UsersEstimate": 991
     },
     {
       "ID": "ACH20",
@@ -21519,7 +21524,7 @@
       "Name": "What are the Odds",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 792
+      "UsersEstimate": 793
     },
     {
       "ID": "ACH26",
@@ -21583,7 +21588,7 @@
       "Name": "Remastered",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 158
+      "UsersEstimate": 159
     },
     {
       "ID": "ACH34",
@@ -21606,7 +21611,7 @@
     {
       "ID": "4ck5mbe",
       "IsBase": true,
-      "Progressed": 19810,
+      "Progressed": 19813,
       "Completed": 82
     }
   ],
@@ -21614,8 +21619,8 @@
   "FirstSeenRating": "2023-02-21T07:58:25.3551605+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:18.6535191+00:00",
   "LastChanged": "2024-01-23T10:58:01.8179894+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:10:12.475143+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:10:35.1050073+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:24.0408837+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:57:58.0775018+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:10:12.4752591+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:58:21.5244536+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:10:35.1051+00:00"
 }

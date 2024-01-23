@@ -2,10 +2,10 @@
   "ID": "0e65d8e6338943e68169f928702c4706",
   "Name": "Bosorka",
   "ProductSlug": "bosorka-c0e6b6",
-  "Ranking_EOS_Progress": 474,
+  "Ranking_EOS_Progress": 472,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 548,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2023-04-14T16:00:00+00:00",
     "PcReleaseDate": "2023-04-14T16:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 146,
+  "EOS_Progressed": 147,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 0,
+  "EOS_NewPlayers": 1,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -516,6 +516,11 @@
       "Time": "2024-01-17T20:05:08.2859951+00:00",
       "NumProgressed": 146,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T17:05:04.5824797+00:00",
+      "NumProgressed": 147,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 15,
@@ -533,9 +538,9 @@
       "ID": "RUNE_BAT",
       "SetID": "9433p49",
       "Name": "It doesn\u0027t work like that",
-      "Percentage": 25,
+      "Percentage": 24,
       "XP": 55,
-      "UsersEstimate": 36
+      "UsersEstimate": 35
     },
     {
       "ID": "RUNE_BOOSTDAMAGERANGE",
@@ -543,7 +548,7 @@
       "Name": "This is just the beginning...",
       "Percentage": 16,
       "XP": 40,
-      "UsersEstimate": 23
+      "UsersEstimate": 24
     },
     {
       "ID": "RUNE_BOOSTHEALTHCOMBO",
@@ -575,7 +580,7 @@
       "Name": "Runes collector",
       "Percentage": 46,
       "XP": 100,
-      "UsersEstimate": 67
+      "UsersEstimate": 68
     },
     {
       "ID": "RUNE_CURSEDCOMPANIONSPELL",
@@ -599,7 +604,7 @@
       "Name": "Witch\u0027s duty",
       "Percentage": 61,
       "XP": 55,
-      "UsersEstimate": 89
+      "UsersEstimate": 90
     },
     {
       "ID": "RUNE_DROPRESETSPELL",
@@ -607,7 +612,7 @@
       "Name": "Devil\u0027s dozen",
       "Percentage": 25,
       "XP": 55,
-      "UsersEstimate": 36
+      "UsersEstimate": 37
     },
     {
       "ID": "RUNE_LIGHTNINGSTUN",
@@ -615,7 +620,7 @@
       "Name": "Skilled rider",
       "Percentage": 40,
       "XP": 75,
-      "UsersEstimate": 58
+      "UsersEstimate": 59
     },
     {
       "ID": "RUNE_OVERSTAMINA",
@@ -623,7 +628,7 @@
       "Name": "A small victory",
       "Percentage": 14,
       "XP": 75,
-      "UsersEstimate": 20
+      "UsersEstimate": 21
     },
     {
       "ID": "RUNE_STORM",
@@ -637,16 +642,16 @@
       "ID": "RUNE_STUNHIT",
       "SetID": "9433p49",
       "Name": "Kind heart",
-      "Percentage": 49,
+      "Percentage": 48,
       "XP": 40,
-      "UsersEstimate": 72
+      "UsersEstimate": 71
     }
   ],
   "AchievementSets": [
     {
       "ID": "9433p49",
       "IsBase": true,
-      "Progressed": 146,
+      "Progressed": 147,
       "Completed": 0
     }
   ],
@@ -654,8 +659,8 @@
   "FirstSeenRating": "2023-04-21T21:58:16.6767727+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:50.939072+00:00",
   "LastChanged": "2023-04-21T21:58:16.6767728+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:04:39.4254404+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:05:04.5824795+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:25.8223723+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:58:58.6469462+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:04:39.425453+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:59:23.243475+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:05:04.5824959+00:00"
 }

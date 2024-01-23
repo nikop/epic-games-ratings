@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 258,
   "Ranking_EOS_Completed": 320,
-  "Ranking_EOS_NewPlayers": 313,
-  "Ranking_EOS_NewCompleters": 142,
+  "Ranking_EOS_NewPlayers": 306,
+  "Ranking_EOS_NewCompleters": 143,
   "Store": {
     "ReleaseDate": "2022-01-11T19:00:00+00:00",
     "PcReleaseDate": "2020-10-14T12:00:28+00:00",
@@ -304,9 +304,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1969,
+  "EOS_Progressed": 1970,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 12,
+  "EOS_NewPlayers": 13,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.1,
   "EosHistory": [
@@ -4944,6 +4944,11 @@
       "Time": "2024-01-23T13:17:46.6252648+00:00",
       "NumProgressed": 1969,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T17:10:25.5091781+00:00",
+      "NumProgressed": 1970,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 30,
@@ -4955,7 +4960,7 @@
       "Name": "Agent 47",
       "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "Auditor",
@@ -5083,7 +5088,7 @@
       "Name": "Heroes Never Die",
       "Percentage": 41,
       "XP": 15,
-      "UsersEstimate": 807
+      "UsersEstimate": 808
     },
     {
       "ID": "High_noon",
@@ -5107,7 +5112,7 @@
       "Name": "Spice It Up",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 669
+      "UsersEstimate": 670
     },
     {
       "ID": "KillAllM2",
@@ -5131,7 +5136,7 @@
       "Name": "One by One",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 295
+      "UsersEstimate": 296
     },
     {
       "ID": "Miner",
@@ -5139,7 +5144,7 @@
       "Name": "Bomberman",
       "Percentage": 28,
       "XP": 15,
-      "UsersEstimate": 551
+      "UsersEstimate": 552
     },
     {
       "ID": "MoskitoBite",
@@ -5147,7 +5152,7 @@
       "Name": "Mosquito bite",
       "Percentage": 38,
       "XP": 15,
-      "UsersEstimate": 748
+      "UsersEstimate": 749
     },
     {
       "ID": "Scout",
@@ -5194,15 +5199,15 @@
     {
       "ID": "85nb4h3",
       "IsBase": true,
-      "Progressed": 1969,
+      "Progressed": 1970,
       "Completed": 2
     }
   ],
   "FirstSeen": "2022-07-22T20:21:38.7033822+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:39.8632147+00:00",
   "LastChanged": "2023-10-17T21:59:15.1343014+00:00",
-  "LastChanged_Achievements": "2024-01-23T16:10:02.6323084+00:00",
+  "LastChanged_Achievements": "2024-01-23T17:10:25.5091779+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.3931135+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:58:48.2242848+00:00",
-  "LastUpdate_Achievements": "2024-01-23T16:10:02.6323459+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:59:13.4799647+00:00",
+  "LastUpdate_Achievements": "2024-01-23T17:10:25.5092183+00:00"
 }
