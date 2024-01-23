@@ -2364,9 +2364,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 17120,
+  "EOS_Progressed": 17121,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 207,
+  "EOS_NewPlayers": 206,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -20839,6 +20839,11 @@
       "Time": "2024-01-23T09:11:46.070892+00:00",
       "NumProgressed": 17120,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T16:10:24.1715257+00:00",
+      "NumProgressed": 17121,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 358,
@@ -22984,9 +22989,9 @@
       "ID": "ACHIEVEMENT_VICTORY_DOUBLE",
       "SetID": "7l38kb8",
       "Name": "Double Victory",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_VICTORY_NO_CHARACTERS",
@@ -23713,21 +23718,21 @@
     {
       "ID": "7l38kb8",
       "IsBase": true,
-      "Progressed": 17120,
+      "Progressed": 17121,
       "Completed": 5
     },
     {
       "ID": "9201eeb",
       "IsBase": false,
-      "Progressed": 17120,
+      "Progressed": 17121,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:11:35.9665929+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:10:24.1715252+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:59:50.4353521+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:11:35.9675472+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:59:07.7334036+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:10:24.172812+00:00"
 }

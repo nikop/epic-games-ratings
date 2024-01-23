@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 948,
+  "EOS_Progressed": 949,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 132,
+  "EOS_NewPlayers": 133,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -2999,6 +2999,11 @@
       "Time": "2024-01-23T15:05:09.397899+00:00",
       "NumProgressed": 948,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T16:04:16.5753417+00:00",
+      "NumProgressed": 949,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-11-06T21:03:14.0502304+00:00",
@@ -3073,9 +3078,9 @@
       "ID": "REMAKE_002",
       "SetID": "5pi96jj",
       "Name": "Baby\u0027s First...",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 664
+      "UsersEstimate": 674
     },
     {
       "ID": "REMAKE_004",
@@ -3083,7 +3088,7 @@
       "Name": "I\u0027m Your Daddy",
       "Percentage": 59,
       "XP": 25,
-      "UsersEstimate": 559
+      "UsersEstimate": 560
     },
     {
       "ID": "Remake_005",
@@ -3123,7 +3128,7 @@
       "Name": "Make a fish your dish",
       "Percentage": 26,
       "XP": 25,
-      "UsersEstimate": 246
+      "UsersEstimate": 247
     },
     {
       "ID": "Remake_010",
@@ -3234,14 +3239,14 @@
     {
       "ID": "5pi96jj",
       "IsBase": true,
-      "Progressed": 948,
+      "Progressed": 949,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-11-10T19:58:46.1603291+00:00",
   "FirstSeenAchievements": "2023-11-06T21:03:14.0502303+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:05:09.3978983+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:04:16.5753413+00:00",
   "LastUpdate_AppInfo": "2024-01-23T02:57:16.0263705+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:59:10.1962124+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:05:09.3979284+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:58:37.0297496+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:04:16.5753736+00:00"
 }

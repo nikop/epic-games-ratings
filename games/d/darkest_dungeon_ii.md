@@ -9,9 +9,9 @@ Number of Ratings: 7,767  (23.09.2022)
 | Malpractice Assurance | 15.00% | ~1,263 |
 | Lost and Found | 9.00% | ~758 |
 | Autodidact | 8.00% | ~10,684 |
-| This Belongs in a Museum | 7.00% | ~9,348 |
-| Creep and Sleep | 7.00% | ~9,348 |
-| Overdue Notice | 7.00% | ~9,348 |
+| This Belongs in a Museum | 7.00% | ~9,349 |
+| Creep and Sleep | 7.00% | ~9,349 |
+| Overdue Notice | 7.00% | ~9,349 |
 | This guy... again? | 7.00% | ~589 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,013 |
 | Serenity Now! | 6.00% | ~8,013 |
@@ -23,14 +23,14 @@ Number of Ratings: 7,767  (23.09.2022)
 | FNG | 6.00% | ~8,013 |
 | Ploughshares to Swords | 6.00% | ~505 |
 | Bloody Graduation | 6.00% | ~505 |
-| It Rings a Bell | 5.00% | ~6,677 |
-| Not Today! | 5.00% | ~6,677 |
-| It Happens | 5.00% | ~6,677 |
-| Merry Time | 5.00% | ~6,677 |
-| Harvest Festival | 5.00% | ~6,677 |
-| Whale | 5.00% | ~6,677 |
-| A Place to Lay Your Head | 5.00% | ~6,677 |
-| Nope | 5.00% | ~6,677 |
+| It Rings a Bell | 5.00% | ~6,678 |
+| Not Today! | 5.00% | ~6,678 |
+| It Happens | 5.00% | ~6,678 |
+| Merry Time | 5.00% | ~6,678 |
+| Harvest Festival | 5.00% | ~6,678 |
+| Whale | 5.00% | ~6,678 |
+| A Place to Lay Your Head | 5.00% | ~6,678 |
+| Nope | 5.00% | ~6,678 |
 | Friends 'Til the End | 5.00% | ~421 |
 | Resurrection | 4.00% | ~5,342 |
 | Unleash Hell | 4.00% | ~5,342 |
@@ -48,12 +48,12 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Clear Conscience | 4.00% | ~5,342 |
 | Unshackled | 4.00% | ~5,342 |
 | Road Trip | 4.00% | ~5,342 |
-| Hope Rekindled | 3.00% | ~4,006 |
-| Predator | 3.00% | ~4,006 |
-| Reverse Banditry | 3.00% | ~4,006 |
-| When You Want Something Done Right | 3.00% | ~4,006 |
-| Utopia | 3.00% | ~4,006 |
-| Hot Air | 3.00% | ~4,006 |
+| Hope Rekindled | 3.00% | ~4,007 |
+| Predator | 3.00% | ~4,007 |
+| Reverse Banditry | 3.00% | ~4,007 |
+| When You Want Something Done Right | 3.00% | ~4,007 |
+| Utopia | 3.00% | ~4,007 |
+| Hot Air | 3.00% | ~4,007 |
 | This Looks Familiar | 2.00% | ~2,671 |
 | Ichthyophobic | 2.00% | ~2,671 |
 | No More Mouths to Feed | 2.00% | ~2,671 |
@@ -61,10 +61,10 @@ Number of Ratings: 7,767  (23.09.2022)
 | Eyes Up | 2.00% | ~2,671 |
 | Handled | 2.00% | ~2,671 |
 | Body of Work | 2.00% | ~2,671 |
-| Clearing the Ledger | 1.00% | ~1,335 |
-| Hat Trick | 1.00% | ~1,335 |
-| Shrine of Reflection | 1.00% | ~1,335 |
-| Triage | 1.00% | ~1,335 |
+| Clearing the Ledger | 1.00% | ~1,336 |
+| Hat Trick | 1.00% | ~1,336 |
+| Shrine of Reflection | 1.00% | ~1,336 |
+| Triage | 1.00% | ~1,336 |
 | No Mercy | 1.00% | ~84 |
 | Slap on the Wrist | 1.00% | ~84 |
 | Et Tu, Riposte? | 1.00% | ~84 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,548 (Ranked 92)  
+Progressed: 133,551 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
-| 2024-01-23 | 133,548 | 5 |
+| 2024-01-23 | 133,551 | 5 |
 ## Awards
 Max (Character Customization): 8,066  (Ranked 52)  
 Sum: 21,831 (Ranked 58)  

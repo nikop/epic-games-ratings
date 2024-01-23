@@ -1,21 +1,21 @@
 # Sable
 [Store](https://store.epicgames.com/en-US/p/sable)  
 [View Rawdata](../../db/s/sable.json)  
-Rating: 4.53 (Ranked 571)  
+Rating: 4.53 (Ranked 572)  
 Number of Ratings: 43  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Simoon | 34.00% | ~38,113 |
-| Just The Two of Us | 32.00% | ~35,871 |
-| Up On High | 25.00% | ~28,024 |
-| Under The Hood | 25.00% | ~28,024 |
-| Got Your Nose | 24.00% | ~26,904 |
-| The Gift of Gab | 24.00% | ~26,904 |
-| Wrapping Up | 22.00% | ~24,662 |
-| More Than A Box Of Sand | 18.00% | ~20,178 |
-| The Dunboyne | 17.00% | ~19,057 |
-| Badge Hobbyist | 17.00% | ~19,057 |
+| Simoon | 34.00% | ~38,115 |
+| Just The Two of Us | 32.00% | ~35,873 |
+| Up On High | 25.00% | ~28,026 |
+| Under The Hood | 25.00% | ~28,026 |
+| Got Your Nose | 24.00% | ~26,905 |
+| The Gift of Gab | 24.00% | ~26,905 |
+| Wrapping Up | 22.00% | ~24,663 |
+| More Than A Box Of Sand | 18.00% | ~20,179 |
+| The Dunboyne | 17.00% | ~19,058 |
+| Badge Hobbyist | 17.00% | ~19,058 |
 | Chum Novice | 16.00% | ~17,936 |
 | Silver-Tongued Sable | 16.00% | ~17,936 |
 | Sticky Paws | 16.00% | ~17,936 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,363 |
 | Vivacious Vivarium | 2.00% | ~2,242 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112,098 (Ranked 98)  
+Progressed: 112,103 (Ranked 98)  
 Completed: 1,146 (1.02%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 1,146 (1.02%) (Ranked 182)
 | 2024-01-20 | 111,724 | 1,142 |
 | 2024-01-21 | 111,910 | 1,143 |
 | 2024-01-22 | 112,031 | 1,146 |
-| 2024-01-23 | 112,098 | 1,146 |
+| 2024-01-23 | 112,103 | 1,146 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 531)  
 Sum: 155 (Ranked 448)  

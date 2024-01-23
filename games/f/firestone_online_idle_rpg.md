@@ -47,6 +47,7 @@ Rating: 4.11 (Ranked 1,030)
 | Enchanting skill | 6.00% | ~285 |
 | The Expeditioner | 6.00% | ~285 |
 | Weekly Quest Completionist | 6.00% | ~285 |
+| Ancient Knowledge | 5.00% | ~238 |
 | Blueprint Upgrades | 5.00% | ~238 |
 | Crystal Mining | 5.00% | ~238 |
 | Engineer Mastery | 5.00% | ~238 |
@@ -55,7 +56,6 @@ Rating: 4.11 (Ranked 1,030)
 | Missions Dedication | 5.00% | ~238 |
 | Sailor | 5.00% | ~238 |
 | Active Member | 4.00% | ~190 |
-| Ancient Knowledge | 4.00% | ~190 |
 | Background Story | 4.00% | ~190 |
 | Legendary | 4.00% | ~190 |
 | The Alchemist | 4.00% | ~190 |
@@ -356,9 +356,9 @@ Completed: 2 (0.04%) (Ranked 359)
 | 2024-01-22 | 4,742 | 2 |
 | 2024-01-23 | 4,753 | 2 |
 ## Awards
-Max (Great for Beginners): 42  (Ranked 484)  
+Max (Great for Beginners): 42  (Ranked 485)  
 Sum: 162 (Ranked 446)  
-Diff (max vs sum): 38  
+Diff (max vs sum): 39  
 | Award | Count |
 | ----- | ----- |
 | This game is Great for Beginners | 42 |

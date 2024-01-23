@@ -3,8 +3,8 @@
   "Name": "The Callisto Protocol",
   "ProductSlug": "the-callisto-protocol",
   "Ranking_Rating": 961,
-  "Ranking_Popularity": 343,
-  "Ranking_PopularitySum": 316,
+  "Ranking_Popularity": 341,
+  "Ranking_PopularitySum": 315,
   "Ranking_EOS_Progress": 153,
   "Ranking_EOS_Completed": 254,
   "Ranking_EOS_NewPlayers": 159,
@@ -2307,11 +2307,17 @@
       "Rating": 4.22,
       "NumberOfAwards": 685,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-01-23T16:03:29.674794+00:00",
+      "Rating": 4.22,
+      "NumberOfAwards": 687,
+      "NumberOfAwardsMax": 143
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 685,
-  "NumberOfAwardsMax": 141,
+  "NumberOfAwards": 687,
+  "NumberOfAwardsMax": 143,
   "MaxAwardTitle": "Amazing Characters",
   "Tags": [
     {
@@ -2336,7 +2342,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 141
+      "Count": 143
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -2359,7 +2365,7 @@
   ],
   "EOS_Progressed": 22683,
   "EOS_Completed": 82,
-  "EOS_NewPlayers": 233,
+  "EOS_NewPlayers": 229,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.36,
   "EosHistory": [
@@ -15171,9 +15177,9 @@
   "FirstSeen": "2022-12-03T05:57:50.9933536+00:00",
   "FirstSeenRating": "2022-12-03T10:57:24.5094078+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:11.0112553+00:00",
-  "LastChanged": "2024-01-23T01:54:03.5303872+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:11:04.7819684+00:00",
+  "LastChanged": "2024-01-23T16:03:29.6747939+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:09:59.2002562+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:49.3171093+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:04:08.4152294+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:11:04.7820929+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:03:29.6747943+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:09:59.2003325+00:00"
 }

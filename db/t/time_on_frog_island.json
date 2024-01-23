@@ -4,7 +4,7 @@
   "ProductSlug": "time-on-frog-island-b3ad0d",
   "Ranking_EOS_Progress": 566,
   "Ranking_EOS_Completed": 140,
-  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-07-12T13:00:00+00:00",
@@ -32,7 +32,7 @@
   "Tags": [],
   "EOS_Progressed": 51,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 0,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 1.96,
   "EosHistory": [
@@ -584,8 +584,8 @@
   "FirstSeenRating": "2023-03-31T05:58:16.4143103+00:00",
   "FirstSeenAchievements": "2023-05-09T12:54:44.2276989+00:00",
   "LastChanged": "2023-03-31T05:58:16.4143104+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:07:40.5133438+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:06:10.996808+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:37.13331+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:03:46.8959418+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:07:40.5133678+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:03:02.2405248+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:06:10.9968293+00:00"
 }

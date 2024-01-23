@@ -17,7 +17,7 @@ Number of Ratings: 546  (23.09.2022)
 | The Fall of the Leonia Order | 31.00% | ~4,639 |
 | Quick Movements | 30.00% | ~4,490 |
 | Go Home... | 29.00% | ~4,340 |
-| The Final Battle of the First Hero | 27.00% | ~4,041 |
+| The Final Battle of the First Hero | 28.00% | ~4,190 |
 | The Hero Killer | 26.00% | ~3,891 |
 | Brain at Full Throttle | 20.00% | ~2,993 |
 | Rookies Welcome | 18.00% | ~2,694 |

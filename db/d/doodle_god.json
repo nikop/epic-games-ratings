@@ -4,7 +4,7 @@
   "ProductSlug": "doodle-god-f6a7b6",
   "Ranking_EOS_Progress": 416,
   "Ranking_EOS_Completed": 100,
-  "Ranking_EOS_NewPlayers": 473,
+  "Ranking_EOS_NewPlayers": 443,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-03-10T17:00:00+00:00",
@@ -29,11 +29,11 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 279,
+  "EOS_Progressed": 280,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 1,
+  "EOS_NewPlayers": 2,
   "EOS_NewCompleters": 0,
-  "EOS_Completed_Percentage": 3.58,
+  "EOS_Completed_Percentage": 3.57,
   "EosHistory": [
     {
       "Time": "2023-04-25T16:15:26.6583072+00:00",
@@ -479,6 +479,11 @@
       "Time": "2024-01-21T10:09:01.7975116+00:00",
       "NumProgressed": 279,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T16:08:49.9698025+00:00",
+      "NumProgressed": 280,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 22,
@@ -490,7 +495,7 @@
       "Name": "Good Start",
       "Percentage": 95,
       "XP": 5,
-      "UsersEstimate": 265
+      "UsersEstimate": 266
     },
     {
       "ID": "605742",
@@ -498,7 +503,7 @@
       "Name": "Creator of Diversity",
       "Percentage": 72,
       "XP": 30,
-      "UsersEstimate": 201
+      "UsersEstimate": 202
     },
     {
       "ID": "605752",
@@ -514,7 +519,7 @@
       "Name": "Creator of Humanity",
       "Percentage": 66,
       "XP": 20,
-      "UsersEstimate": 184
+      "UsersEstimate": 185
     },
     {
       "ID": "605772",
@@ -594,7 +599,7 @@
       "Name": "Half the Kingdom",
       "Percentage": 17,
       "XP": 30,
-      "UsersEstimate": 47
+      "UsersEstimate": 48
     },
     {
       "ID": "605872",
@@ -602,7 +607,7 @@
       "Name": "Practice Makes Perfect",
       "Percentage": 84,
       "XP": 25,
-      "UsersEstimate": 234
+      "UsersEstimate": 235
     },
     {
       "ID": "605892",
@@ -610,7 +615,7 @@
       "Name": "Similar to Similar",
       "Percentage": 71,
       "XP": 20,
-      "UsersEstimate": 198
+      "UsersEstimate": 199
     },
     {
       "ID": "605912",
@@ -665,7 +670,7 @@
     {
       "ID": "4lpaifm",
       "IsBase": true,
-      "Progressed": 279,
+      "Progressed": 280,
       "Completed": 10
     }
   ],
@@ -673,8 +678,8 @@
   "FirstSeenRating": "2023-03-31T05:58:36.1213415+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:26.6583079+00:00",
   "LastChanged": "2023-03-31T05:58:36.1213416+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:09:36.4419595+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:08:49.9698022+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:15.4097153+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:57:47.4083499+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:09:36.4419795+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:57:34.6566559+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:08:49.9698175+00:00"
 }

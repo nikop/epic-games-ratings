@@ -23,10 +23,10 @@
 | Et in arcadia ego | 22.00% | ~20 |
 | The seer | 20.00% | ~19 |
 | Welcome to Hellville | 19.00% | ~18 |
-| You had one wish left | 17.00% | ~16 |
+| You had one wish left | 18.00% | ~17 |
+| You've awakened the beast | 17.00% | ~16 |
+| Hate is... addictive | 17.00% | ~16 |
 | Kirlian's best disciple | 17.00% | ~16 |
-| You've awakened the beast | 16.00% | ~15 |
-| Hate is... addictive | 16.00% | ~15 |
 | The bully | 16.00% | ~15 |
 | Blessed antennas | 15.00% | ~14 |
 | Pulp! The Beyond | 14.00% | ~13 |

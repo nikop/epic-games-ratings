@@ -6,24 +6,24 @@ Number of Ratings: 88  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Awakening | 93.00% | ~42,188 |
-| First Steps | 80.00% | ~36,290 |
-| Control the Shadows | 67.00% | ~30,393 |
-| Tools of the Trade | 63.00% | ~28,579 |
-| Apprentice | 60.00% | ~27,218 |
-| Secret Seeker | 57.00% | ~25,857 |
-| Forge of Assassins | 55.00% | ~24,950 |
-| Revenant | 52.00% | ~23,589 |
-| I don’t Care! | 46.00% | ~20,867 |
-| Bird of Prey | 37.00% | ~16,784 |
-| Engraved with Power | 32.00% | ~14,516 |
+| Awakening | 93.00% | ~42,189 |
+| First Steps | 80.00% | ~36,292 |
+| Control the Shadows | 67.00% | ~30,395 |
+| Tools of the Trade | 63.00% | ~28,580 |
+| Apprentice | 60.00% | ~27,219 |
+| Secret Seeker | 57.00% | ~25,858 |
+| Forge of Assassins | 55.00% | ~24,951 |
+| Revenant | 52.00% | ~23,590 |
+| I don’t Care! | 46.00% | ~20,868 |
+| Bird of Prey | 37.00% | ~16,785 |
+| Engraved with Power | 32.00% | ~14,517 |
 | Lady | 31.00% | ~14,063 |
-| Fashionable Assassin | 27.00% | ~12,248 |
-| Apex Predator | 24.00% | ~10,887 |
-| Soul Reaver | 23.00% | ~10,433 |
+| Fashionable Assassin | 27.00% | ~12,249 |
+| Apex Predator | 24.00% | ~10,888 |
+| Soul Reaver | 23.00% | ~10,434 |
 | Embers | 22.00% | ~9,980 |
 | Wall Lizard | 20.00% | ~9,073 |
-| Clinging to Life | 18.00% | ~8,165 |
+| Clinging to Life | 18.00% | ~8,166 |
 | Burning | 17.00% | ~7,712 |
 | Look Behind You | 17.00% | ~7,712 |
 | Sleeping on the Job | 16.00% | ~7,258 |
@@ -38,7 +38,7 @@ Number of Ratings: 88  (23.09.2022)
 | The Hidden Village | 9.00% | ~4,083 |
 | Denouement | 8.00% | ~3,629 |
 | A Pleasant Stay | 8.00% | ~3,629 |
-| Pilgrimage | 7.00% | ~3,175 |
+| Pilgrimage | 7.00% | ~3,176 |
 | The Lookout | 5.00% | ~2,268 |
 | The Spirit of Vengeance | 5.00% | ~2,268 |
 | Hollow | 5.00% | ~2,268 |
@@ -51,7 +51,7 @@ Number of Ratings: 88  (23.09.2022)
 | Anger Management | 2.00% | ~907 |
 | Legacy | 2.00% | ~907 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,363 (Ranked 132)  
+Progressed: 45,365 (Ranked 132)  
 Completed: 251 (0.55%) (Ranked 223)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -329,7 +329,7 @@ Completed: 251 (0.55%) (Ranked 223)
 | 2024-01-20 | 45,311 | 251 |
 | 2024-01-21 | 45,332 | 251 |
 | 2024-01-22 | 45,353 | 251 |
-| 2024-01-23 | 45,363 | 251 |
+| 2024-01-23 | 45,365 | 251 |
 ## Ratings History
 | Date | Rating | Number of Ratings | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ----------------- | ---------------------- | ---------------------- |

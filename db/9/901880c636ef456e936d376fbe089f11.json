@@ -1153,9 +1153,9 @@
       "ID": "ACH_HYDE_LEIBOVITZ",
       "SetID": "8h8m55b",
       "Name": "Hyde Leibovitz",
-      "Percentage": 18,
+      "Percentage": 19,
       "XP": 5,
-      "UsersEstimate": 34
+      "UsersEstimate": 36
     },
     {
       "ID": "ACH_JUST_MARRIED",
@@ -1384,8 +1384,8 @@
   ],
   "FirstSeen": "2023-06-22T05:57:16.7917977+00:00",
   "FirstSeenAchievements": "2023-06-06T03:16:08.7581386+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:09:13.3249633+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:08:31.9662683+00:00",
   "LastUpdate_AppInfo": "2024-01-16T22:57:02.7129015+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:59:15.2323598+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:09:13.3249972+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:58:40.7028118+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:08:31.9663018+00:00"
 }

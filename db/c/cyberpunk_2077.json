@@ -18962,9 +18962,9 @@
       "Count": 19955
     }
   ],
-  "EOS_Progressed": 1057657,
+  "EOS_Progressed": 1057677,
   "EOS_Completed": 3151,
-  "EOS_NewPlayers": 4828,
+  "EOS_NewPlayers": 4806,
   "EOS_NewCompleters": 43,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50842,6 +50842,11 @@
       "Time": "2024-01-23T15:09:55.1729818+00:00",
       "NumProgressed": 1057657,
       "NumCompleted": 3151
+    },
+    {
+      "Time": "2024-01-23T16:09:04.0439265+00:00",
+      "NumProgressed": 1057677,
+      "NumCompleted": 3151
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -51324,9 +51329,9 @@
       "ID": "IHateSpider",
       "SetID": "23nboa5",
       "Name": "Arachnophobia",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 931
+      "UsersEstimate": 1118
     },
     {
       "ID": "KingOfTheCups",
@@ -51389,21 +51394,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057657,
+      "Progressed": 1057677,
       "Completed": 3151
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186280,
+      "Progressed": 186300,
       "Completed": 10691
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-23T15:03:57.2070574+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:09:55.1729812+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:09:04.043926+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:03:57.207058+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:09:55.1731921+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:03:19.5847155+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:09:04.0441424+00:00"
 }

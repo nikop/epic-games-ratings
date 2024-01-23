@@ -5,30 +5,33 @@ Rating: 4.34 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 14.00% | ~6 |
-| Bring it on! | 7.00% | ~3 |
-| Full House | 7.00% | ~3 |
-| There is no Nobility in Poverty | 7.00% | ~3 |
-| Call the Boys | 5.00% | ~2 |
-| Can’t Touch This | 5.00% | ~2 |
-| Cut-Me-Own-Throat | 5.00% | ~2 |
-| Help! Help! I’m being repressed | 5.00% | ~2 |
-| Learn Me a Book | 5.00% | ~2 |
-| Path of Glory | 5.00% | ~2 |
-| Time to find India | 5.00% | ~2 |
-| ‘Tis but a scratch | 5.00% | ~2 |
+| Hail to the King, Baby | 12.00% | ~6 |
+| Bring it on! | 6.00% | ~3 |
+| Call the Boys | 6.00% | ~3 |
+| Full House | 6.00% | ~3 |
+| Help! Help! I’m being repressed | 6.00% | ~3 |
+| Path of Glory | 6.00% | ~3 |
+| There is no Nobility in Poverty | 6.00% | ~3 |
+| Can’t Touch This | 4.00% | ~2 |
+| Cut-Me-Own-Throat | 4.00% | ~2 |
+| Desperate Times Call for Desperate Measures | 4.00% | ~2 |
+| Do you read Sutter Cane? | 4.00% | ~2 |
+| He made it out, but with an arrow in his back | 4.00% | ~2 |
+| Kingslayer | 4.00% | ~2 |
+| Learn Me a Book | 4.00% | ~2 |
+| Pillars of the Earth | 4.00% | ~2 |
+| Time to find India | 4.00% | ~2 |
+| ‘Tis but a scratch | 4.00% | ~2 |
 | All the King's Men | 2.00% | ~1 |
 | Blinded by Science | 2.00% | ~1 |
 | Crusade Invoker, no Regret | 2.00% | ~1 |
-| Desperate Times Call for Desperate Measures | 2.00% | ~1 |
 | Dinner Time | 2.00% | ~1 |
-| Do you read Sutter Cane? | 2.00% | ~1 |
 | Forth, Eorlingas! | 2.00% | ~1 |
-| Kingslayer | 2.00% | ~1 |
+| Fight Another Day | 2.00% | ~1 |
 | Let Us Pray | 2.00% | ~1 |
 | Let us trade with these fine people | 2.00% | ~1 |
-| Pillars of the Earth | 2.00% | ~1 |
 | Playerxander the Great | 2.00% | ~1 |
+| Spartacus | 2.00% | ~1 |
 | The finest merchandise this side of river Jordan | 2.00% | ~1 |
 | What we’ve got here is failure to communicate | 2.00% | ~1 |
 | You reap what you sow | 2.00% | ~1 |
@@ -55,7 +58,6 @@ Rating: 4.34 (Ranked 851)
 | Genghis Khan | 0.00% | ~0 |
 | Greed is Good | 0.00% | ~0 |
 | Hail and Kill | 0.00% | ~0 |
-| He made it out, but with an arrow in his back | 0.00% | ~0 |
 | His All-Holiness | 0.00% | ~0 |
 | His Holiness | 0.00% | ~0 |
 | His name is King | 0.00% | ~0 |
@@ -67,7 +69,6 @@ Rating: 4.34 (Ranked 851)
 | Ibn Battuta | 0.00% | ~0 |
 | I’ll Be Back | 0.00% | ~0 |
 | Import is my second nature | 0.00% | ~0 |
-| Fight Another Day | 0.00% | ~0 |
 | Join the Dark Side | 0.00% | ~0 |
 | Kingdom Fall: Disappearance | 0.00% | ~0 |
 | Liberty or Death! | 0.00% | ~0 |
@@ -86,7 +87,6 @@ Rating: 4.34 (Ranked 851)
 | Ragnarok | 0.00% | ~0 |
 | Renaissance Man | 0.00% | ~0 |
 | Scientia potentia es | 0.00% | ~0 |
-| Spartacus | 0.00% | ~0 |
 | The Antipope | 0.00% | ~0 |
 | The Beginning of a Beautiful Friendship | 0.00% | ~0 |
 | The Magnificent Nine | 0.00% | ~0 |
@@ -106,12 +106,12 @@ Rating: 4.34 (Ranked 851)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 44 (Ranked 582)  
+Progressed: 49 (Ranked 571)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 44 | 0 |
+| 2024-01-23 | 49 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

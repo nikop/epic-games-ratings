@@ -4,7 +4,7 @@
   "ProductSlug": "suicide-guy-9f7963",
   "Ranking_EOS_Progress": 395,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-06-14T00:00:00+00:00",
@@ -1466,9 +1466,9 @@
       "ID": "Extra Level",
       "SetID": "1fffk9d",
       "Name": "Extra level 1 completed!",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 200,
-      "UsersEstimate": 17
+      "UsersEstimate": 20
     },
     {
       "ID": "First Statue Collector",
@@ -1545,8 +1545,8 @@
   ],
   "FirstSeen": "2023-06-15T07:57:21.3305809+00:00",
   "FirstSeenAchievements": "2023-05-16T16:00:57.0168149+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:06:05.1902981+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:04:58.6322154+00:00",
   "LastUpdate_AppInfo": "2024-01-17T13:02:49.4535679+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:00:05.477364+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:06:05.1903161+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:59:18.0734041+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:04:58.63223+00:00"
 }

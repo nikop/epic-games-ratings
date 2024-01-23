@@ -7,8 +7,8 @@
   "Ranking_PopularitySum": 88,
   "Ranking_EOS_Progress": 26,
   "Ranking_EOS_Completed": 150,
-  "Ranking_EOS_NewPlayers": 71,
-  "Ranking_EOS_NewCompleters": 22,
+  "Ranking_EOS_NewPlayers": 70,
+  "Ranking_EOS_NewCompleters": 21,
   "Store": {
     "ReleaseDate": "2022-02-08T12:00:00+00:00",
     "PcReleaseDate": "2022-02-08T12:00:00+00:00",
@@ -9201,10 +9201,10 @@
       "Count": 436
     }
   ],
-  "EOS_Progressed": 762527,
-  "EOS_Completed": 13005,
-  "EOS_NewPlayers": 1355,
-  "EOS_NewCompleters": 16,
+  "EOS_Progressed": 762536,
+  "EOS_Completed": 13006,
+  "EOS_NewPlayers": 1353,
+  "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 1.71,
   "EosHistory": [
     {
@@ -35026,6 +35026,11 @@
       "Time": "2024-01-23T15:10:51.2292457+00:00",
       "NumProgressed": 762527,
       "NumCompleted": 13005
+    },
+    {
+      "Time": "2024-01-23T16:09:49.1103177+00:00",
+      "NumProgressed": 762536,
+      "NumCompleted": 13006
     }
   ],
   "TotalAchievements": 60,
@@ -35045,7 +35050,7 @@
       "Name": "The Assault",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38126
+      "UsersEstimate": 38127
     },
     {
       "ID": "03_Vengeance_H2",
@@ -35213,7 +35218,7 @@
       "Name": "Life is your teacher",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 38126
+      "UsersEstimate": 38127
     },
     {
       "ID": "24_PermaSkill_Trophy",
@@ -35301,7 +35306,7 @@
       "Name": "Lightning Hands",
       "Percentage": 5,
       "XP": 15,
-      "UsersEstimate": 38126
+      "UsersEstimate": 38127
     },
     {
       "ID": "35_WideStrike",
@@ -35405,7 +35410,7 @@
       "Name": "Deadly Venom",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "48_Arena_GoldCapture",
@@ -35429,7 +35434,7 @@
       "Name": "A Touch of Acumen",
       "Percentage": 0.3,
       "XP": 50,
-      "UsersEstimate": 215
+      "UsersEstimate": 216
     },
     {
       "ID": "51_Arena_TigerAll",
@@ -35501,7 +35506,7 @@
       "Name": "Fight the way you practice",
       "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 646
+      "UsersEstimate": 647
     },
     {
       "ID": "60_Arena_Randomizer",
@@ -35516,21 +35521,21 @@
     {
       "ID": "14c2oii",
       "IsBase": false,
-      "Progressed": 71828,
+      "Progressed": 71837,
       "Completed": 10819
     },
     {
       "ID": "adcm20g",
       "IsBase": true,
-      "Progressed": 762527,
-      "Completed": 13005
+      "Progressed": 762536,
+      "Completed": 13006
     }
   ],
   "FirstSeen": "2022-07-22T20:24:06.0099465+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:08.97078+00:00",
   "LastChanged": "2024-01-23T15:03:51.716976+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:10:51.2292451+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:09:49.1103171+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:40.2053718+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:03:51.7169766+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:10:51.2294138+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:03:05.6973762+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:09:49.110484+00:00"
 }

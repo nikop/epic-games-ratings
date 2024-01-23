@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 128,
   "Ranking_EOS_Progress": 179,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 235,
+  "Ranking_EOS_NewPlayers": 233,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-09-02T16:00:00+00:00",
@@ -5021,9 +5021,9 @@
       "Count": 410
     }
   ],
-  "EOS_Progressed": 13334,
+  "EOS_Progressed": 13337,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 38,
+  "EOS_NewPlayers": 41,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -20091,6 +20091,11 @@
       "Time": "2024-01-23T07:11:52.3041124+00:00",
       "NumProgressed": 13334,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T16:10:22.3469829+00:00",
+      "NumProgressed": 13337,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 116,
@@ -20110,7 +20115,7 @@
       "Name": "Burning City",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 2533
+      "UsersEstimate": 2534
     },
     {
       "ID": "03_BannerOverCitadel",
@@ -20134,7 +20139,7 @@
       "Name": "Embrace of the Abyss",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "06_HeartOfFallenLand",
@@ -20158,7 +20163,7 @@
       "Name": "Path of the Angel",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "09_PathOfDemon",
@@ -20238,7 +20243,7 @@
       "Name": "Mythic Choices",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 2133
+      "UsersEstimate": 2134
     },
     {
       "ID": "19_EqualToAroden",
@@ -20302,7 +20307,7 @@
       "Name": "Queen\u0027s Gratitude",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 1733
+      "UsersEstimate": 1734
     },
     {
       "ID": "28_GreatUpstart",
@@ -20494,7 +20499,7 @@
       "Name": "Demonic and Divine",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 933
+      "UsersEstimate": 934
     },
     {
       "ID": "52_TrulyImportantDeed",
@@ -20974,7 +20979,7 @@
       "Name": "Stay Underground",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "DLC4_24_Hanged Man\u0027s Notes",
@@ -20982,7 +20987,7 @@
       "Name": "Hanged Man\u0027s Notes",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "DLC4_25_Sarkoris Will Be Green",
@@ -20990,7 +20995,7 @@
       "Name": "Sarkoris Will Be Green",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "DLC4_26_This Wall Won\u0027t Fall",
@@ -21014,7 +21019,7 @@
       "Name": "The Lady of the Forest",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     },
     {
       "ID": "DLC4_34_Beware of Still Water",
@@ -21022,28 +21027,28 @@
       "Name": "Beware Still Water",
       "Percentage": 3,
       "XP": 5,
-      "UsersEstimate": 363
+      "UsersEstimate": 364
     }
   ],
   "AchievementSets": [
     {
       "ID": "11go2ek",
       "IsBase": false,
-      "Progressed": 12116,
+      "Progressed": 12119,
       "Completed": 5820
     },
     {
       "ID": "989of5o",
       "IsBase": true,
-      "Progressed": 13334,
+      "Progressed": 13337,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:19:10.608561+00:00",
   "FirstSeenAchievements": "2023-04-25T16:36:53.5630452+00:00",
   "LastChanged": "2024-01-23T15:02:04.9875809+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:11:33.618571+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:10:22.3469824+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:00.4068706+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:02:04.9875819+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:11:33.6187385+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:00:46.4900127+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:10:22.3471817+00:00"
 }

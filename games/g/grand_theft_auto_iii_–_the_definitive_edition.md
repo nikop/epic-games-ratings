@@ -36,7 +36,7 @@ Rating: 4.20 (Ranked 975)
 | King of Liberty City | 0.80% | ~100 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 12,505 (Ranked 180)  
-Completed: 96 (0.77%) (Ranked 201)  
+Completed: 96 (0.77%) (Ranked 200)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

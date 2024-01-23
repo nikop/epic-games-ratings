@@ -5,26 +5,26 @@ Rating: 4.65 (Ranked 327)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,964 |
-| On the Top Step | 83.00% | ~15,473 |
-| Setting up for Success | 70.00% | ~13,049 |
+| Getting on the Step | 91.00% | ~16,965 |
+| On the Top Step | 83.00% | ~15,474 |
+| Setting up for Success | 70.00% | ~13,050 |
 | Team Orders | 68.00% | ~12,677 |
-| Engineer | 46.00% | ~8,575 |
+| Engineer | 46.00% | ~8,576 |
 | Familiar Faces | 42.00% | ~7,830 |
 | Going the Extra Mile | 36.00% | ~6,711 |
-| Sharing the Love | 34.00% | ~6,338 |
+| Sharing the Love | 34.00% | ~6,339 |
 | Hitting a Season | 29.00% | ~5,406 |
 | A Dozen Pieces | 26.00% | ~4,847 |
-| Making History | 25.00% | ~4,660 |
+| Making History | 25.00% | ~4,661 |
 | Network Success | 24.00% | ~4,474 |
 | Challenge Yourself | 24.00% | ~4,474 |
-| Writing a new Chapter | 20.00% | ~3,728 |
+| Writing a new Chapter | 20.00% | ~3,729 |
 | Spring Cleaning | 19.00% | ~3,542 |
 | Reduce | 15.00% | ~2,796 |
 | Ups and Downs | 15.00% | ~2,796 |
-| Crucial Combo | 13.00% | ~2,423 |
-| Reuse | 13.00% | ~2,423 |
-| Proving Them Wrong | 13.00% | ~2,423 |
+| Crucial Combo | 13.00% | ~2,424 |
+| Reuse | 13.00% | ~2,424 |
+| Proving Them Wrong | 13.00% | ~2,424 |
 | Gathering Dust | 11.00% | ~2,051 |
 | One for the Book | 11.00% | ~2,051 |
 | Eagle Eye | 10.00% | ~1,864 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 327)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,642 (Ranked 165)  
+Progressed: 18,643 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,18 +187,18 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 18,524 | 0 |
 | 2024-01-21 | 18,591 | 0 |
 | 2024-01-22 | 18,629 | 0 |
-| 2024-01-23 | 18,642 | 0 |
+| 2024-01-23 | 18,643 | 0 |
 ## Awards
-Max (Diverse Characters): 71  (Ranked 420)  
-Sum: 477 (Ranked 343)  
-Diff (max vs sum): 77  
+Max (Diverse Characters): 74  (Ranked 414)  
+Sum: 481 (Ranked 342)  
+Diff (max vs sum): 72  
 | Award | Count |
 | ----- | ----- |
-| This game has Diverse Characters | 71 |
+| This game has Diverse Characters | 74 |
 | This game has a Competitive Community | 56 |
 | This game has Amazing Characters | 51 |
+| This game is Extremely Fun | 50 |
 | This game is Highly Recommended | 49 |
-| This game is Extremely Fun | 49 |
 | This game has Quickly Understood Controls | 42 |
 | This game has Competitive Players | 42 |
 | This game has Challenging Combat | 41 |
@@ -341,3 +341,4 @@ Diff (max vs sum): 77
 | 2024-01-20 | 4.64 | 69 | 467 |
 | 2024-01-21 | 4.64 | 71 | 474 |
 | 2024-01-22 | 4.65 | 71 | 477 |
+| 2024-01-23 | 4.65 | 74 | 481 |

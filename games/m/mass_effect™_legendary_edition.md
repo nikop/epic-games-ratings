@@ -4,24 +4,24 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Distinguished Service Medal | 90.00% | ~4,156 |
-| Spectre Inductee | 66.00% | ~3,048 |
-| Medal of Exploration I | 56.00% | ~2,586 |
+| Distinguished Service Medal | 90.00% | ~4,157 |
+| Spectre Inductee | 66.00% | ~3,049 |
+| Medal of Exploration I | 56.00% | ~2,587 |
 | Recruit | 53.00% | ~2,448 |
-| Search and Rescue | 51.00% | ~2,355 |
+| Search and Rescue | 51.00% | ~2,356 |
 | Quarian Ally | 49.00% | ~2,263 |
 | Medal of Heroism | 44.00% | ~2,032 |
 | Honorarium of Corporate Service | 44.00% | ~2,032 |
-| Turian Ally | 40.00% | ~1,847 |
+| Turian Ally | 40.00% | ~1,848 |
 | Medal of Exploration II | 39.00% | ~1,801 |
 | Council Legion of Merit | 39.00% | ~1,801 |
 | Missing in Action | 38.00% | ~1,755 |
-| Medal of Honor | 36.00% | ~1,662 |
-| Soldier | 36.00% | ~1,662 |
-| Meritorious Service Medal | 36.00% | ~1,662 |
-| Soldier Ally | 36.00% | ~1,662 |
-| Charismatic | 35.00% | ~1,616 |
-| Very Elusive | 35.00% | ~1,616 |
+| Medal of Honor | 36.00% | ~1,663 |
+| Soldier | 36.00% | ~1,663 |
+| Meritorious Service Medal | 36.00% | ~1,663 |
+| Soldier Ally | 36.00% | ~1,663 |
+| Charismatic | 36.00% | ~1,663 |
+| Very Elusive | 35.00% | ~1,617 |
 | Asari Ally | 34.00% | ~1,570 |
 | Medal of Exploration III | 32.00% | ~1,478 |
 | Principled | 32.00% | ~1,478 |
@@ -29,12 +29,12 @@
 | Merciless | 32.00% | ~1,478 |
 | Scientist | 32.00% | ~1,478 |
 | Paramour I | 31.00% | ~1,432 |
+| Krogan Ally | 31.00% | ~1,432 |
 | Scholar | 31.00% | ~1,432 |
-| Sentinel Ally | 30.00% | ~1,385 |
-| Krogan Ally | 30.00% | ~1,385 |
-| The Archangel | 30.00% | ~1,385 |
-| The Professor | 30.00% | ~1,385 |
-| Head Hunter | 30.00% | ~1,385 |
+| Sentinel Ally | 30.00% | ~1,386 |
+| The Archangel | 30.00% | ~1,386 |
+| The Professor | 30.00% | ~1,386 |
+| Head Hunter | 30.00% | ~1,386 |
 | The Convict | 28.00% | ~1,293 |
 | Operative | 28.00% | ~1,293 |
 | Power Full | 28.00% | ~1,293 |
@@ -42,12 +42,12 @@
 | The Krogan | 27.00% | ~1,247 |
 | Veteran | 26.00% | ~1,201 |
 | Broke, Blind, and Bedlam | 26.00% | ~1,201 |
-| Driven | 25.00% | ~1,154 |
-| Ghost Ship | 24.00% | ~1,108 |
-| The Assassin | 24.00% | ~1,108 |
-| The Justicar | 24.00% | ~1,108 |
-| The Quarian | 24.00% | ~1,108 |
-| The Prodigal | 24.00% | ~1,108 |
+| Driven | 25.00% | ~1,155 |
+| Ghost Ship | 24.00% | ~1,109 |
+| The Assassin | 24.00% | ~1,109 |
+| The Justicar | 24.00% | ~1,109 |
+| The Quarian | 24.00% | ~1,109 |
+| The Prodigal | 24.00% | ~1,109 |
 | Battlemaster | 23.00% | ~1,062 |
 | Catharsis | 23.00% | ~1,062 |
 | Fade Away | 23.00% | ~1,062 |
@@ -68,16 +68,16 @@
 | Cat's in the Cradle | 21.00% | ~970 |
 | Doppelganger | 21.00% | ~970 |
 | Mobilizer | 21.00% | ~970 |
+| Untouchable | 20.00% | ~924 |
 | Giant Killer | 20.00% | ~924 |
 | Completionist | 20.00% | ~924 |
 | Mission Accomplished | 20.00% | ~924 |
 | Suicide Mission | 20.00% | ~924 |
 | Against All Odds | 20.00% | ~924 |
 | Agent | 20.00% | ~924 |
-| Untouchable | 19.00% | ~877 |
-| Eye of the Hurricane | 19.00% | ~877 |
-| A House Divided | 19.00% | ~877 |
-| World Shaker | 19.00% | ~877 |
+| Eye of the Hurricane | 19.00% | ~878 |
+| A House Divided | 19.00% | ~878 |
+| World Shaker | 19.00% | ~878 |
 | First Aid Specialist | 18.00% | ~831 |
 | Pathfinder | 18.00% | ~831 |
 | Tunnel Rat | 18.00% | ~831 |
@@ -108,7 +108,7 @@
 | Mail Slot | 10.00% | ~462 |
 | Electronics Specialist | 10.00% | ~462 |
 | Combined Arms | 9.00% | ~416 |
-| Warp Mastery | 8.00% | ~369 |
+| Warp Mastery | 8.00% | ~370 |
 | Barrier Mastery | 7.00% | ~323 |
 | Sky High | 7.00% | ~323 |
 | Always Prepared | 7.00% | ~323 |
@@ -132,7 +132,7 @@
 | Insanity III | 0.90% | ~42 |
 | The One and Only | 0.60% | ~28 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 4,618 (Ranked 212)  
+Progressed: 4,619 (Ranked 212)  
 Completed: 14 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -262,4 +262,4 @@ Completed: 14 (0.30%) (Ranked 264)
 | 2024-01-20 | 4,531 | 14 |
 | 2024-01-21 | 4,564 | 14 |
 | 2024-01-22 | 4,594 | 14 |
-| 2024-01-23 | 4,618 | 14 |
+| 2024-01-23 | 4,619 | 14 |

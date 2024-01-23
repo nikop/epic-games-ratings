@@ -5,9 +5,9 @@
   "Ranking_Rating": 851,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
-  "Ranking_EOS_Progress": 582,
+  "Ranking_EOS_Progress": 571,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 236,
+  "Ranking_EOS_NewPlayers": 231,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-12-06T18:00:00+00:00",
@@ -247,9 +247,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 44,
+  "EOS_Progressed": 49,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 37,
+  "EOS_NewPlayers": 42,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -276,6 +276,11 @@
     {
       "Time": "2024-01-23T15:04:33.5067256+00:00",
       "NumProgressed": 44,
+      "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T16:03:48.6210337+00:00",
+      "NumProgressed": 49,
       "NumCompleted": 0
     }
   ],
@@ -367,7 +372,7 @@
       "ID": "bring_it_on",
       "SetID": "41moj9p",
       "Name": "Bring it on!",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -391,15 +396,15 @@
       "ID": "call_the_boys",
       "SetID": "41moj9p",
       "Name": "Call the Boys",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "cant_touch_this",
       "SetID": "41moj9p",
       "Name": "Can\u2019t Touch This",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 20,
       "UsersEstimate": 2
     },
@@ -439,7 +444,7 @@
       "ID": "cut_me_own_throat",
       "SetID": "41moj9p",
       "Name": "Cut-Me-Own-Throat",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 15,
       "UsersEstimate": 2
     },
@@ -447,9 +452,9 @@
       "ID": "desperate_times",
       "SetID": "41moj9p",
       "Name": "Desperate Times Call for Desperate Measures",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "die_by_my_hand",
@@ -471,9 +476,9 @@
       "ID": "do_you_read",
       "SetID": "41moj9p",
       "Name": "Do you read Sutter Cane?",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "dust_and_salt",
@@ -527,7 +532,7 @@
       "ID": "full_house",
       "SetID": "41moj9p",
       "Name": "Full House",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 5,
       "UsersEstimate": 3
     },
@@ -567,7 +572,7 @@
       "ID": "hail_to_the_king_baby",
       "SetID": "41moj9p",
       "Name": "Hail to the King, Baby",
-      "Percentage": 14,
+      "Percentage": 12,
       "XP": 25,
       "UsersEstimate": 6
     },
@@ -575,17 +580,17 @@
       "ID": "he_made_it_out",
       "SetID": "41moj9p",
       "Name": "He made it out, but with an arrow in his back",
-      "Percentage": 0,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 2
     },
     {
       "ID": "help_help",
       "SetID": "41moj9p",
       "Name": "Help! Help! I\u2019m being repressed",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "his_all_holiness",
@@ -679,9 +684,9 @@
       "ID": "in_our_darkest_hour",
       "SetID": "41moj9p",
       "Name": "Fight Another Day",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "join_the_dark_side",
@@ -703,15 +708,15 @@
       "ID": "kingslayer",
       "SetID": "41moj9p",
       "Name": "Kingslayer",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "learn_me_a_book",
       "SetID": "41moj9p",
       "Name": "Learn Me a Book",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -799,17 +804,17 @@
       "ID": "path_of_glory",
       "SetID": "41moj9p",
       "Name": "Path of Glory",
-      "Percentage": 5,
+      "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 2
+      "UsersEstimate": 3
     },
     {
       "ID": "pillars_of_the_earth",
       "SetID": "41moj9p",
       "Name": "Pillars of the Earth",
-      "Percentage": 2,
+      "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 1
+      "UsersEstimate": 2
     },
     {
       "ID": "playersander_the_great",
@@ -887,9 +892,9 @@
       "ID": "spartacus",
       "SetID": "41moj9p",
       "Name": "Spartacus",
-      "Percentage": 0,
+      "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     },
     {
       "ID": "the_antipope",
@@ -943,7 +948,7 @@
       "ID": "there_is_no_nobility_in_poverty",
       "SetID": "41moj9p",
       "Name": "There is no Nobility in Poverty",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 10,
       "UsersEstimate": 3
     },
@@ -959,7 +964,7 @@
       "ID": "time_to_find_india",
       "SetID": "41moj9p",
       "Name": "Time to find India",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -967,7 +972,7 @@
       "ID": "tis_but_a_scratch",
       "SetID": "41moj9p",
       "Name": "\u2018Tis but a scratch",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 5,
       "UsersEstimate": 2
     },
@@ -1088,7 +1093,7 @@
     {
       "ID": "41moj9p",
       "IsBase": true,
-      "Progressed": 44,
+      "Progressed": 49,
       "Completed": 0
     }
   ],
@@ -1096,8 +1101,8 @@
   "FirstSeenRating": "2023-02-23T23:57:47.5434781+00:00",
   "FirstSeenAchievements": "2023-11-30T13:09:10.4147394+00:00",
   "LastChanged": "2024-01-20T16:58:07.6974686+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:04:33.5067251+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:03:48.6210334+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:15.342184+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:00:21.9325153+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:04:33.5068174+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:59:30.0211567+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:03:48.6211291+00:00"
 }

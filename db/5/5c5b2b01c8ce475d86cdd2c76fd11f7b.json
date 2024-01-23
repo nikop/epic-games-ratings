@@ -4,7 +4,7 @@
   "ProductSlug": "deus-ex-mankind-divided-4c6370",
   "Ranking_EOS_Progress": 503,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 400,
+  "Ranking_EOS_NewPlayers": 399,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-13T16:00:00+00:00",
@@ -527,9 +527,9 @@
       "ID": "NEW_ACHIEVEMENT_1_10",
       "SetID": "7on801h",
       "Name": "Ghost",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 10,
-      "UsersEstimate": 22
+      "UsersEstimate": 23
     },
     {
       "ID": "NEW_ACHIEVEMENT_1_11",
@@ -983,9 +983,9 @@
       "ID": "NEW_ACHIEVEMENT_2_5",
       "SetID": "7on801h",
       "Name": "The Golden Ticket",
-      "Percentage": 13,
+      "Percentage": 14,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "NEW_ACHIEVEMENT_2_6",
@@ -1180,8 +1180,8 @@
   ],
   "FirstSeen": "2023-12-14T01:44:09.032196+00:00",
   "FirstSeenAchievements": "2023-12-13T17:03:37.7079864+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:07:11.956283+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:05:49.7289004+00:00",
   "LastUpdate_AppInfo": "2024-01-17T17:57:32.5337791+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:01:51.3506067+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:07:11.9563481+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:00:36.6294584+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:05:49.7289647+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "the-front-3a8219",
   "Ranking_Rating": 1053,
   "Ranking_Popularity": 557,
-  "Ranking_PopularitySum": 479,
+  "Ranking_PopularitySum": 498,
   "Ranking_EOS_Progress": 848,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 548,
@@ -563,10 +563,16 @@
       "Rating": 4.04,
       "NumberOfAwards": 92,
       "NumberOfAwardsMax": 25
+    },
+    {
+      "Time": "2024-01-23T16:00:50.3809237+00:00",
+      "Rating": 4.04,
+      "NumberOfAwards": 70,
+      "NumberOfAwardsMax": 25
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 92,
+  "NumberOfAwards": 70,
   "NumberOfAwardsMax": 25,
   "MaxAwardTitle": "Highly Recommended",
   "Tags": [
@@ -613,8 +619,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-11T21:01:43.5636582+00:00",
   "FirstSeenRating": "2023-10-16T03:57:21.8315472+00:00",
-  "LastChanged": "2024-01-23T06:00:05.6632915+00:00",
+  "LastChanged": "2024-01-23T16:00:50.3809235+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:32.9412475+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:02:50.7516427+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:07:56.2170703+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:00:50.3809241+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:06:22.8938152+00:00"
 }

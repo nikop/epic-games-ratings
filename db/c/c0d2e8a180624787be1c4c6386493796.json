@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 394,
   "Ranking_EOS_Completed": 215,
-  "Ranking_EOS_NewPlayers": 334,
+  "Ranking_EOS_NewPlayers": 335,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-28T13:00:00+00:00",
@@ -1810,9 +1810,9 @@
       "ID": "KR4_ACHIEVEMENT_ICESCULPTOR",
       "SetID": "caeik3h",
       "Name": "Ice sculptor",
-      "Percentage": 70,
+      "Percentage": 71,
       "XP": 5,
-      "UsersEstimate": 234
+      "UsersEstimate": 237
     },
     {
       "ID": "KR4_ACHIEVEMENT_INCREDIBLES",
@@ -1938,9 +1938,9 @@
       "ID": "KR4_ACHIEVEMENT_MINE_CART_CARNAGE",
       "SetID": "caeik3h",
       "Name": "Mine Cart Carnage",
-      "Percentage": 45,
+      "Percentage": 46,
       "XP": 5,
-      "UsersEstimate": 150
+      "UsersEstimate": 154
     },
     {
       "ID": "KR4_ACHIEVEMENT_MOLE",
@@ -2177,8 +2177,8 @@
   "FirstSeenRating": "2024-01-11T05:00:16.5712264+00:00",
   "FirstSeenAchievements": "2023-09-21T14:03:17.7043009+00:00",
   "LastChanged": "2024-01-20T06:58:13.5555456+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:08:10.0458828+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:06:33.7849162+00:00",
   "LastUpdate_AppInfo": "2024-01-18T20:57:11.5153971+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:00:48.7890645+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:08:10.0459445+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:59:49.9690201+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:06:33.7849767+00:00"
 }

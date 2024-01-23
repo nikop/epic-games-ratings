@@ -1,7 +1,7 @@
 # Wildermyth
 [Store](https://store.epicgames.com/en-US/p/wildermyth-593344)  
 [View Rawdata](../../db/w/wildermyth.json)  
-Rating: 4.78 (Ranked 111)  
+Rating: 4.78 (Ranked 112)  
 Number of Ratings: 45  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -10,21 +10,21 @@ Number of Ratings: 45  (23.09.2022)
 | The Cost of Heroism | 9.00% | ~145 |
 | This Too Shall Pass | 7.00% | ~113 |
 | Cutthroat Competitors | 7.00% | ~113 |
+| Daybreak | 7.00% | ~113 |
 | Gotta Ca... Must Collect All of Them | 6.00% | ~97 |
 | Passing Shadow | 6.00% | ~97 |
 | How Romantic! | 6.00% | ~97 |
-| Daybreak | 6.00% | ~97 |
 | Completing the Look | 4.00% | ~65 |
 | War Endured | 4.00% | ~65 |
 | Core Failure | 4.00% | ~65 |
 | A Mythic Menagerie | 3.00% | ~48 |
 | Who's Counting? | 3.00% | ~48 |
+| Pyrrhic Victory | 3.00% | ~48 |
 | Let Me Get My Chisel | 2.00% | ~32 |
 | Thematic Divergence | 2.00% | ~32 |
-| Pyrrhic Victory | 2.00% | ~32 |
+| Chain Reaction | 2.00% | ~32 |
 | Echoes Die | 2.00% | ~32 |
 | Legends Never Die | 1.00% | ~16 |
-| Chain Reaction | 1.00% | ~16 |
 | In Soil, In Smoke | 1.00% | ~16 |
 | Everfading | 1.00% | ~16 |
 | Another Tale to Tell | 1.00% | ~16 |
@@ -33,28 +33,28 @@ Number of Ratings: 45  (23.09.2022)
 | Some Say I'm Too Flashy | 1.00% | ~16 |
 | No Time for Clawmonsters | 1.00% | ~16 |
 | All My Birds, Safely Home | 0.90% | ~15 |
+| Bears are Scary | 0.90% | ~15 |
 | Storied Past | 0.80% | ~13 |
-| Bears are Scary | 0.80% | ~13 |
+| Plague Doctor | 0.80% | ~13 |
 | Fight Like a Bird | 0.80% | ~13 |
 | Tempest | 0.80% | ~13 |
 | Worldwalker | 0.70% | ~11 |
 | Bonebreakers | 0.70% | ~11 |
-| Plague Doctor | 0.70% | ~11 |
 | A Hunger, Sated | 0.70% | ~11 |
 | Wingknight's Prowess | 0.70% | ~11 |
 | Grillmaster | 0.70% | ~11 |
+| Into Mulch | 0.70% | ~11 |
 | Astrology | 0.70% | ~11 |
 | We Emerge Changed | 0.60% | ~10 |
 | Empty the Caves | 0.60% | ~10 |
 | No More Nightmares | 0.60% | ~10 |
-| Into Mulch | 0.60% | ~10 |
 | Lochias's Hunger | 0.60% | ~10 |
 | The Power of Friendship | 0.40% | ~6 |
 | I'm Not Smiling | 0.40% | ~6 |
 | Drauvenslayers | 0.30% | ~5 |
 | Back into the Sea | 0.30% | ~5 |
+| War-Ender | 0.30% | ~5 |
 | Overwhelming Monstrosity | 0.20% | ~3 |
-| War-Ender | 0.20% | ~3 |
 | Solid as the Hills | 0.20% | ~3 |
 | Symbiosis | 0.20% | ~3 |
 | Thwack! | 0.20% | ~3 |
@@ -63,7 +63,7 @@ Number of Ratings: 45  (23.09.2022)
 | Peacemaker | 0.00% | ~0 |
 | A Temperamental Shrub | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,613 (Ranked 270)  
+Progressed: 1,614 (Ranked 270)  
 Completed: 7 (0.43%) (Ranked 242)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -281,6 +281,7 @@ Completed: 7 (0.43%) (Ranked 242)
 | 2024-01-20 | 1,610 | 7 |
 | 2024-01-21 | 1,612 | 7 |
 | 2024-01-22 | 1,613 | 7 |
+| 2024-01-23 | 1,614 | 7 |
 ## Awards
 Max (Character Customization): 30  (Ranked 531)  
 Sum: 30 (Ranked 552)  

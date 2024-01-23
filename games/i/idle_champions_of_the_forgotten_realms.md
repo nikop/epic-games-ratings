@@ -6,7 +6,7 @@ Number of Ratings: 9,041  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| A Brief Tour of the Realms | 5.00% | ~12,764 |
+| A Brief Tour of the Realms | 5.00% | ~12,765 |
 | Beast Intentions | 2.00% | ~5,106 |
 | The Cursed Farmer | 2.00% | ~5,106 |
 | The Mad Wizard | 2.00% | ~5,106 |
@@ -553,7 +553,7 @@ Number of Ratings: 9,041  (23.09.2022)
 | The End is the Beginning | 0.10% | ~222 |
 | See You on the Flipside | 0.10% | ~222 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 255,290 (Ranked 71)  
+Progressed: 255,293 (Ranked 71)  
 Completed: 2,634 (1.03%) (Ranked 180)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -831,7 +831,7 @@ Completed: 2,634 (1.03%) (Ranked 180)
 | 2024-01-20 | 254,957 | 2,629 |
 | 2024-01-21 | 255,112 | 2,629 |
 | 2024-01-22 | 255,224 | 2,633 |
-| 2024-01-23 | 255,290 | 2,634 |
+| 2024-01-23 | 255,293 | 2,634 |
 ## Awards
 Max (Great for Beginners): 5,813  (Ranked 75)  
 Sum: 33,615 (Ranked 41)  

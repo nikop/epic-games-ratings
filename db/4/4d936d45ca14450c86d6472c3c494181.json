@@ -2,9 +2,9 @@
   "ID": "4d936d45ca14450c86d6472c3c494181",
   "Name": "Hero Battle Fantasy Arena",
   "ProductSlug": "hero-battle-fantasy-arena-f15594",
-  "Ranking_EOS_Progress": 652,
+  "Ranking_EOS_Progress": 645,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 305,
+  "Ranking_EOS_NewPlayers": 301,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-12-15T00:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 15,
+  "EOS_Progressed": 16,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 13,
+  "EOS_NewPlayers": 14,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -104,6 +104,11 @@
       "Time": "2024-01-22T13:16:29.0963583+00:00",
       "NumProgressed": 15,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T16:08:00.8873278+00:00",
+      "NumProgressed": 16,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-17T08:05:59.4350978+00:00",
@@ -122,7 +127,7 @@
       "ID": "darkwizard",
       "SetID": "5p6eg8f",
       "Name": "Dark Wizard Destroyer",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -130,7 +135,7 @@
       "ID": "fire1",
       "SetID": "5p6eg8f",
       "Name": "Master of Fira",
-      "Percentage": 27,
+      "Percentage": 25,
       "XP": 20,
       "UsersEstimate": 4
     },
@@ -138,7 +143,7 @@
       "ID": "fire2",
       "SetID": "5p6eg8f",
       "Name": "Volcanic Mastermind",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -146,7 +151,7 @@
       "ID": "fire3",
       "SetID": "5p6eg8f",
       "Name": "Unrivaled Pyrokinetic",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -162,7 +167,7 @@
       "ID": "ice1",
       "SetID": "5p6eg8f",
       "Name": "Master of Blizzara",
-      "Percentage": 20,
+      "Percentage": 19,
       "XP": 20,
       "UsersEstimate": 3
     },
@@ -170,7 +175,7 @@
       "ID": "ice2",
       "SetID": "5p6eg8f",
       "Name": "Unleasher of Blizzaga",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -178,7 +183,7 @@
       "ID": "ice3",
       "SetID": "5p6eg8f",
       "Name": "Conqueror of Avalanche",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 100,
       "UsersEstimate": 1
     },
@@ -202,7 +207,7 @@
       "ID": "shaman",
       "SetID": "5p6eg8f",
       "Name": "Shamanic Conqueror",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 30,
       "UsersEstimate": 1
     },
@@ -218,7 +223,7 @@
       "ID": "storm2",
       "SetID": "5p6eg8f",
       "Name": "Unleasher of Thundaga",
-      "Percentage": 7,
+      "Percentage": 6,
       "XP": 40,
       "UsersEstimate": 1
     },
@@ -235,14 +240,14 @@
     {
       "ID": "5p6eg8f",
       "IsBase": true,
-      "Progressed": 15,
+      "Progressed": 16,
       "Completed": 0
     }
   ],
   "FirstSeen": "2024-01-21T14:57:04.324913+00:00",
   "FirstSeenAchievements": "2023-12-16T08:05:18.2860146+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:08:58.750797+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:08:00.8873276+00:00",
   "LastUpdate_AppInfo": "2024-01-21T15:57:03.2813635+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:58:38.1876275+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:08:58.7508123+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:58:12.4391276+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:08:00.8873337+00:00"
 }

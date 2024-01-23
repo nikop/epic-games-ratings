@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2451,
+  "EOS_Progressed": 2452,
   "EOS_Completed": 12,
-  "EOS_NewPlayers": 118,
+  "EOS_NewPlayers": 119,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -4885,6 +4885,11 @@
       "Time": "2024-01-23T14:09:42.6722847+00:00",
       "NumProgressed": 2451,
       "NumCompleted": 12
+    },
+    {
+      "Time": "2024-01-23T16:10:06.2352967+00:00",
+      "NumProgressed": 2452,
+      "NumCompleted": 12
     }
   ],
   "TotalAchievements": 15,
@@ -4896,15 +4901,15 @@
       "Name": "All Set Up",
       "Percentage": 98,
       "XP": 100,
-      "UsersEstimate": 2402
+      "UsersEstimate": 2403
     },
     {
       "ID": "booty_call",
       "SetID": "c4ipj3h",
       "Name": "Booty Call",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 100,
-      "UsersEstimate": 539
+      "UsersEstimate": 515
     },
     {
       "ID": "crash_and_burn",
@@ -4920,7 +4925,7 @@
       "Name": "Digital Casanova",
       "Percentage": 96,
       "XP": 50,
-      "UsersEstimate": 2353
+      "UsersEstimate": 2354
     },
     {
       "ID": "hold_my_beer",
@@ -4968,7 +4973,7 @@
       "Name": "Nueva Beginnings",
       "Percentage": 28,
       "XP": 100,
-      "UsersEstimate": 686
+      "UsersEstimate": 687
     },
     {
       "ID": "only_thyme_will_tell",
@@ -5015,7 +5020,7 @@
     {
       "ID": "c4ipj3h",
       "IsBase": true,
-      "Progressed": 2451,
+      "Progressed": 2452,
       "Completed": 12
     }
   ],
@@ -5023,8 +5028,8 @@
   "FirstSeenRating": "2023-03-31T05:58:14.2521095+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:09.1440743+00:00",
   "LastChanged": "2023-03-31T05:58:14.2521096+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:11:13.755337+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:10:06.2352963+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:43.0715921+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:01:21.0274957+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:11:13.7553763+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:00:13.8754567+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:10:06.2353321+00:00"
 }

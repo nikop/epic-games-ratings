@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 716,
+  "EOS_Progressed": 717,
   "EOS_Completed": 18,
   "EOS_NewPlayers": 51,
   "EOS_NewCompleters": 1,
@@ -2714,6 +2714,11 @@
       "Time": "2024-01-22T22:05:19.0137777+00:00",
       "NumProgressed": 716,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-23T16:06:13.6913604+00:00",
+      "NumProgressed": 717,
+      "NumCompleted": 18
     }
   ],
   "AchievementsAdded": "2023-06-26T21:03:11.1861911+00:00",
@@ -2726,7 +2731,7 @@
       "Name": "Black Skeleton",
       "Percentage": 3,
       "XP": 200,
-      "UsersEstimate": 21
+      "UsersEstimate": 22
     },
     {
       "ID": "BlueSkeleton",
@@ -2773,14 +2778,14 @@
     {
       "ID": "a76l54k",
       "IsBase": true,
-      "Progressed": 716,
+      "Progressed": 717,
       "Completed": 18
     }
   ],
   "FirstSeen": "2023-06-27T08:56:55.4742028+00:00",
   "FirstSeenAchievements": "2023-06-15T10:01:05.3060571+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:07:44.2134963+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:06:13.69136+00:00",
   "LastUpdate_AppInfo": "2024-01-19T05:57:12.8355081+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:58:07.1740815+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:07:44.2135194+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:57:49.5848303+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:06:13.6913804+00:00"
 }

@@ -6,7 +6,7 @@
   "Ranking_Popularity": 432,
   "Ranking_PopularitySum": 347,
   "Ranking_EOS_Progress": 85,
-  "Ranking_EOS_Completed": 269,
+  "Ranking_EOS_Completed": 270,
   "Ranking_EOS_NewPlayers": 96,
   "Ranking_EOS_NewCompleters": 48,
   "Store": {
@@ -1945,9 +1945,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169387,
+  "EOS_Progressed": 169395,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 902,
+  "EOS_NewPlayers": 906,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24185,6 +24185,11 @@
       "Time": "2024-01-23T15:08:45.3569384+00:00",
       "NumProgressed": 169387,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2024-01-23T16:07:51.028353+00:00",
+      "NumProgressed": 169395,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24261,7 +24266,7 @@
       "Name": "Taste",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6775
+      "UsersEstimate": 6776
     },
     {
       "ID": "DEFEAT_AMAL1",
@@ -24307,9 +24312,9 @@
       "ID": "DEFEAT_FLOWERROCKGIANT",
       "SetID": "72k7oh",
       "Name": "Glare",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 1183
+      "UsersEstimate": 1352
     },
     {
       "ID": "DEFEAT_FLOWERVULTURE",
@@ -24341,7 +24346,7 @@
       "Name": "Jawcrab",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "DEFEAT_JAWSTAG",
@@ -24349,7 +24354,7 @@
       "Name": "Jawstag",
       "Percentage": 0.9,
       "XP": 30,
-      "UsersEstimate": 1524
+      "UsersEstimate": 1525
     },
     {
       "ID": "DEFEAT_PERFORMER",
@@ -24413,7 +24418,7 @@
       "Name": "Imprint",
       "Percentage": 5,
       "XP": 5,
-      "UsersEstimate": 8469
+      "UsersEstimate": 8470
     },
     {
       "ID": "MISC_DISCOVERALLPREY",
@@ -24564,21 +24569,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168970,
+      "Progressed": 168978,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169387,
+      "Progressed": 169395,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-22T22:58:53.9473034+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:08:45.3569378+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:07:51.0283526+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:00:13.800295+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:08:45.3570623+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:59:24.0529472+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:07:51.0284835+00:00"
 }

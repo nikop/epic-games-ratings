@@ -4,7 +4,7 @@
   "ProductSlug": "filament-332a92",
   "Ranking_Rating": 864,
   "Ranking_Popularity": 216,
-  "Ranking_PopularitySum": 311,
+  "Ranking_PopularitySum": 312,
   "Ranking_EOS_Progress": 83,
   "Ranking_EOS_Completed": 272,
   "Ranking_EOS_NewPlayers": 132,
@@ -444,7 +444,7 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 209642,
+  "EOS_Progressed": 209644,
   "EOS_Completed": 567,
   "EOS_NewPlayers": 400,
   "EOS_NewCompleters": 2,
@@ -30144,6 +30144,11 @@
       "Time": "2024-01-23T15:06:53.6183112+00:00",
       "NumProgressed": 209642,
       "NumCompleted": 567
+    },
+    {
+      "Time": "2024-01-23T16:05:35.7281925+00:00",
+      "NumProgressed": 209644,
+      "NumCompleted": 567
     }
   ],
   "TotalAchievements": 29,
@@ -30179,7 +30184,7 @@
       "Name": "Boarded!",
       "Percentage": 94,
       "XP": 10,
-      "UsersEstimate": 197063
+      "UsersEstimate": 197065
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_COMPLETE",
@@ -30187,7 +30192,7 @@
       "Name": "Bridge crossed.",
       "Percentage": 0.7,
       "XP": 40,
-      "UsersEstimate": 1467
+      "UsersEstimate": 1468
     },
     {
       "ID": "ACHIEVEMENT_BRIDGE_ENTER",
@@ -30355,7 +30360,7 @@
       "Name": "You have to start somewhere, right?",
       "Percentage": 8,
       "XP": 10,
-      "UsersEstimate": 16771
+      "UsersEstimate": 16772
     },
     {
       "ID": "ACHIEVEMENT_WITNESS",
@@ -30386,7 +30391,7 @@
     {
       "ID": "1fd5amk",
       "IsBase": true,
-      "Progressed": 209642,
+      "Progressed": 209644,
       "Completed": 567
     }
   ],
@@ -30394,8 +30399,8 @@
   "FirstSeenRating": "2022-11-04T12:32:28.2806391+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:46.6220536+00:00",
   "LastChanged": "2024-01-22T04:57:15.3126995+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:06:53.6183106+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:05:35.7281921+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:45.9572729+00:00",
-  "LastUpdate_Ratings": "2024-01-23T14:58:13.9374748+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:06:53.618527+00:00"
+  "LastUpdate_Ratings": "2024-01-23T15:57:54.9817996+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:05:35.7283532+00:00"
 }

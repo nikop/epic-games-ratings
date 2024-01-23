@@ -2,12 +2,12 @@
   "ID": "466bb53962c14a6e80f3e3d919f123eb",
   "Name": "Wildermyth",
   "ProductSlug": "wildermyth-593344",
-  "Ranking_Rating": 111,
+  "Ranking_Rating": 112,
   "Ranking_Popularity": 531,
   "Ranking_PopularitySum": 552,
   "Ranking_EOS_Progress": 270,
   "Ranking_EOS_Completed": 242,
-  "Ranking_EOS_NewPlayers": 350,
+  "Ranking_EOS_NewPlayers": 344,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-04-22T17:00:00+00:00",
@@ -178,9 +178,9 @@
       "Count": 30
     }
   ],
-  "EOS_Progressed": 1613,
+  "EOS_Progressed": 1614,
   "EOS_Completed": 7,
-  "EOS_NewPlayers": 7,
+  "EOS_NewPlayers": 8,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.43,
   "EosHistory": [
@@ -2523,6 +2523,11 @@
       "Time": "2024-01-22T19:10:14.3706264+00:00",
       "NumProgressed": 1613,
       "NumCompleted": 7
+    },
+    {
+      "Time": "2024-01-23T16:10:19.0888835+00:00",
+      "NumProgressed": 1614,
+      "NumCompleted": 7
     }
   ],
   "TotalAchievements": 56,
@@ -2684,9 +2689,9 @@
       "ID": "achievement_kill3EnemiesWithPoisonInOneTurn",
       "SetID": "95dc8p",
       "Name": "Plague Doctor",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 11
+      "UsersEstimate": 13
     },
     {
       "ID": "achievement_loseBattle",
@@ -2740,17 +2745,17 @@
       "ID": "achievement_use3ReactionStrikesInOneTurn",
       "SetID": "95dc8p",
       "Name": "Chain Reaction",
-      "Percentage": 1,
+      "Percentage": 2,
       "XP": 10,
-      "UsersEstimate": 16
+      "UsersEstimate": 32
     },
     {
       "ID": "achievement_victoryAfterLosingThreeHeroesInBattle",
       "SetID": "95dc8p",
       "Name": "Pyrrhic Victory",
-      "Percentage": 2,
+      "Percentage": 3,
       "XP": 10,
-      "UsersEstimate": 32
+      "UsersEstimate": 48
     },
     {
       "ID": "completedStory_cvawn",
@@ -2804,9 +2809,9 @@
       "ID": "completedStory_ulstryx",
       "SetID": "95dc8p",
       "Name": "Daybreak",
-      "Percentage": 6,
+      "Percentage": 7,
       "XP": 50,
-      "UsersEstimate": 97
+      "UsersEstimate": 113
     },
     {
       "ID": "completedStory_vultureLord",
@@ -2844,9 +2849,9 @@
       "ID": "enduringWar_destroyEnduring",
       "SetID": "95dc8p",
       "Name": "War-Ender",
-      "Percentage": 0.2,
+      "Percentage": 0.3,
       "XP": 15,
-      "UsersEstimate": 3
+      "UsersEstimate": 5
     },
     {
       "ID": "monarchs_acceptDeepkingsOffer",
@@ -2860,9 +2865,9 @@
       "ID": "theme_bear_kill2EnemiesSimultaneously",
       "SetID": "95dc8p",
       "Name": "Bears are Scary",
-      "Percentage": 0.8,
+      "Percentage": 0.9,
       "XP": 10,
-      "UsersEstimate": 13
+      "UsersEstimate": 15
     },
     {
       "ID": "theme_crow_blind20Enemies",
@@ -2900,9 +2905,9 @@
       "ID": "theme_green_kill3Enemies",
       "SetID": "95dc8p",
       "Name": "Into Mulch",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 10,
-      "UsersEstimate": 10
+      "UsersEstimate": 11
     },
     {
       "ID": "theme_morthagi_killWithBoltAndHammer",
@@ -2981,15 +2986,15 @@
     {
       "ID": "95dc8p",
       "IsBase": true,
-      "Progressed": 1613,
+      "Progressed": 1614,
       "Completed": 7
     }
   ],
   "FirstSeen": "2022-07-22T20:29:42.7377526+00:00",
   "FirstSeenAchievements": "2023-04-25T16:14:23.2726923+00:00",
   "LastChanged": "2024-01-23T00:01:44.7658287+00:00",
-  "LastChanged_Achievements": "2024-01-23T15:11:29.6713801+00:00",
+  "LastChanged_Achievements": "2024-01-23T16:10:19.0888827+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:35.1220407+00:00",
-  "LastUpdate_Ratings": "2024-01-23T15:02:57.2233218+00:00",
-  "LastUpdate_Achievements": "2024-01-23T15:11:29.6714255+00:00"
+  "LastUpdate_Ratings": "2024-01-23T16:00:55.1887416+00:00",
+  "LastUpdate_Achievements": "2024-01-23T16:10:19.0889287+00:00"
 }
