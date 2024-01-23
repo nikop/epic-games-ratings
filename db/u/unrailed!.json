@@ -3047,9 +3047,9 @@
       "Count": 151
     }
   ],
-  "EOS_Progressed": 683098,
+  "EOS_Progressed": 683101,
   "EOS_Completed": 15,
-  "EOS_NewPlayers": 2077,
+  "EOS_NewPlayers": 2074,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -35002,6 +35002,11 @@
       "Time": "2024-01-23T02:37:26.2712577+00:00",
       "NumProgressed": 683098,
       "NumCompleted": 15
+    },
+    {
+      "Time": "2024-01-23T03:11:53.1163929+00:00",
+      "NumProgressed": 683101,
+      "NumCompleted": 15
     }
   ],
   "TotalAchievements": 52,
@@ -35245,7 +35250,7 @@
       "Name": "Scrooge",
       "Percentage": 0.5,
       "XP": 10,
-      "UsersEstimate": 3415
+      "UsersEstimate": 3416
     },
     {
       "ID": "_02_08_COWTER_SPACE",
@@ -35428,15 +35433,15 @@
     {
       "ID": "1l01929",
       "IsBase": true,
-      "Progressed": 683098,
+      "Progressed": 683101,
       "Completed": 15
     }
   ],
   "FirstSeen": "2022-07-22T20:23:12.9402264+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:04.2595231+00:00",
   "LastChanged": "2024-01-22T01:57:53.575249+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:37:26.2712573+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:11:53.1163926+00:00",
   "LastUpdate_AppInfo": "2024-01-20T20:57:06.1246588+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:29:35.1438244+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:37:26.271415+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:03:42.8870865+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:11:53.1165525+00:00"
 }

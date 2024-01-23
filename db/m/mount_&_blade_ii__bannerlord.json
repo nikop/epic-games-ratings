@@ -10954,10 +10954,16 @@
       "Rating": 4.74,
       "NumberOfAwards": 16980,
       "NumberOfAwardsMax": 8207
+    },
+    {
+      "Time": "2024-01-23T02:59:08.8972497+00:00",
+      "Rating": 4.74,
+      "NumberOfAwards": 16981,
+      "NumberOfAwardsMax": 8207
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 16980,
+  "NumberOfAwards": 16981,
   "NumberOfAwardsMax": 8207,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -10995,7 +11001,7 @@
       "Text": "This game has Amazing Storytelling",
       "Prefix": "This game has",
       "Type": "Amazing Storytelling",
-      "Count": 943
+      "Count": 944
     },
     {
       "Text": "This game has Amazing Characters",
@@ -11034,7 +11040,7 @@
       "Count": 107
     }
   ],
-  "EOS_Progressed": 96858,
+  "EOS_Progressed": 96859,
   "EOS_Completed": 0,
   "EOS_NewPlayers": 1387,
   "EOS_NewCompleters": 0,
@@ -40859,6 +40865,11 @@
       "Time": "2024-01-23T02:37:28.4204538+00:00",
       "NumProgressed": 96858,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T03:11:55.306708+00:00",
+      "NumProgressed": 96859,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 51,
@@ -40886,7 +40897,7 @@
       "Name": "Bannerlord",
       "Percentage": 25,
       "XP": 65,
-      "UsersEstimate": 24214
+      "UsersEstimate": 24215
     },
     {
       "ID": "Best served cold",
@@ -41062,7 +41073,7 @@
       "Name": "King Solomon",
       "Percentage": 18,
       "XP": 5,
-      "UsersEstimate": 17434
+      "UsersEstimate": 17435
     },
     {
       "ID": "Kingslayer",
@@ -41094,7 +41105,7 @@
       "Name": "Landlord",
       "Percentage": 35,
       "XP": 5,
-      "UsersEstimate": 33900
+      "UsersEstimate": 33901
     },
     {
       "ID": "Lawbringer",
@@ -41246,7 +41257,7 @@
       "Name": "Trained",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 29057
+      "UsersEstimate": 29058
     },
     {
       "ID": "Undercover",
@@ -41277,15 +41288,15 @@
     {
       "ID": "den0lp1",
       "IsBase": true,
-      "Progressed": 96858,
+      "Progressed": 96859,
       "Completed": 0
     }
   ],
   "FirstSeen": "2022-07-22T20:21:18.7217335+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:34.6597199+00:00",
-  "LastChanged": "2024-01-22T19:58:49.3207759+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:37:28.4204535+00:00",
+  "LastChanged": "2024-01-23T02:59:08.8972496+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:11:55.3067077+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:23.5919341+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:25:13.1910761+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:37:28.4205836+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:59:08.8972501+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:11:55.3068555+00:00"
 }

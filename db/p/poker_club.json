@@ -1177,7 +1177,7 @@
       "Count": 33
     }
   ],
-  "EOS_Progressed": 553179,
+  "EOS_Progressed": 553181,
   "EOS_Completed": 2,
   "EOS_NewPlayers": 1422,
   "EOS_NewCompleters": 0,
@@ -32932,6 +32932,11 @@
       "Time": "2024-01-23T02:30:47.1703044+00:00",
       "NumProgressed": 553179,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T03:04:55.6447368+00:00",
+      "NumProgressed": 553181,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 45,
@@ -32943,7 +32948,7 @@
       "Name": "A Bit On The Side",
       "Percentage": 27,
       "XP": 10,
-      "UsersEstimate": 149358
+      "UsersEstimate": 149359
     },
     {
       "ID": "Backdoor",
@@ -33095,7 +33100,7 @@
       "Name": "Handy",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 232335
+      "UsersEstimate": 232336
     },
     {
       "ID": "HoldingYourOwn",
@@ -33191,7 +33196,7 @@
       "Name": "Pro Creation",
       "Percentage": 76,
       "XP": 10,
-      "UsersEstimate": 420416
+      "UsersEstimate": 420418
     },
     {
       "ID": "ProPlayer",
@@ -33215,7 +33220,7 @@
       "Name": "Rank Amateur",
       "Percentage": 22,
       "XP": 10,
-      "UsersEstimate": 121699
+      "UsersEstimate": 121700
     },
     {
       "ID": "RegularPunter",
@@ -33255,7 +33260,7 @@
       "Name": "Showoff",
       "Percentage": 13,
       "XP": 10,
-      "UsersEstimate": 71913
+      "UsersEstimate": 71914
     },
     {
       "ID": "TheBiggerTheyAre",
@@ -33295,14 +33300,14 @@
       "Name": "W.H.I.P.",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 66381
+      "UsersEstimate": 66382
     }
   ],
   "AchievementSets": [
     {
       "ID": "7mgad4a",
       "IsBase": true,
-      "Progressed": 553179,
+      "Progressed": 553181,
       "Completed": 2
     }
   ],
@@ -33310,8 +33315,8 @@
   "FirstSeenRating": "2023-04-27T17:00:42.1303145+00:00",
   "FirstSeenAchievements": "2023-04-25T20:52:29.5031618+00:00",
   "LastChanged": "2024-01-22T01:53:23.1036441+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:30:47.1703041+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:04:55.6447365+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:38.1520629+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:26:34.3401425+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:30:47.1705268+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:00:30.707147+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:04:55.6449185+00:00"
 }

@@ -7,13 +7,13 @@ Number of Ratings: 5,603  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Lawbringer | 43.00% | ~41,649 |
-| Landlord | 35.00% | ~33,900 |
-| Trained | 30.00% | ~29,057 |
-| Bannerlord | 25.00% | ~24,214 |
+| Landlord | 35.00% | ~33,901 |
+| Trained | 30.00% | ~29,058 |
+| Bannerlord | 25.00% | ~24,215 |
 | Lawmaker | 24.00% | ~23,246 |
 | Horde breaker | 22.00% | ~21,309 |
 | The king is pleased | 20.00% | ~19,372 |
-| King Solomon | 18.00% | ~17,434 |
+| King Solomon | 18.00% | ~17,435 |
 | Apple of my eye | 17.00% | ~16,466 |
 | This Is Our Land | 17.00% | ~16,466 |
 | I can do it | 16.00% | ~15,497 |
@@ -58,7 +58,7 @@ Number of Ratings: 5,603  (23.09.2022)
 | Jack of All Trades | 0.00% | ~0 |
 | Shish Kebab | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,858 (Ranked 103)  
+Progressed: 96,859 (Ranked 103)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -336,10 +336,10 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 96,440 | 0 |
 | 2024-01-21 | 96,687 | 0 |
 | 2024-01-22 | 96,846 | 0 |
-| 2024-01-23 | 96,858 | 0 |
+| 2024-01-23 | 96,859 | 0 |
 ## Awards
 Max (Character Customization): 8,207  (Ranked 51)  
-Sum: 16,980 (Ranked 67)  
+Sum: 16,981 (Ranked 67)  
 Diff (max vs sum): -16  
 | Award | Count |
 | ----- | ----- |
@@ -348,8 +348,8 @@ Diff (max vs sum): -16
 | This game has Diverse Characters | 1,134 |
 | This game is Highly Recommended | 1,035 |
 | This game is Extremely Fun | 956 |
+| This game has Amazing Storytelling | 944 |
 | This game has Amazing Characters | 944 |
-| This game has Amazing Storytelling | 943 |
 | This game is Relaxing | 917 |
 | This game has Quickly Understood Controls | 904 |
 | This game has a Creative Community | 708 |
@@ -731,3 +731,4 @@ Diff (max vs sum): -16
 | 2024-01-20 | 4.74 | - | 8,171 | 16,918 |
 | 2024-01-21 | 4.74 | - | 8,189 | 16,944 |
 | 2024-01-22 | 4.74 | - | 8,207 | 16,980 |
+| 2024-01-23 | 4.74 | - | 8,207 | 16,981 |

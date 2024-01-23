@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 78,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 121,
+  "Ranking_EOS_NewPlayers": 122,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -1122,9 +1122,9 @@
       "Count": 102
     }
   ],
-  "EOS_Progressed": 232895,
+  "EOS_Progressed": 232898,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 548,
+  "EOS_NewPlayers": 549,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31652,6 +31652,11 @@
       "Time": "2024-01-23T02:37:16.4456054+00:00",
       "NumProgressed": 232895,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T03:11:43.4102564+00:00",
+      "NumProgressed": 232898,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 34,
@@ -31663,7 +31668,7 @@
       "Name": "This is only the beginning",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 46579
+      "UsersEstimate": 46580
     },
     {
       "ID": "ACH_BASE_10",
@@ -31911,7 +31916,7 @@
       "Name": "Knowledge is power",
       "Percentage": 13,
       "XP": 20,
-      "UsersEstimate": 30276
+      "UsersEstimate": 30277
     },
     {
       "ID": "ACH_BASE_8",
@@ -31934,7 +31939,7 @@
     {
       "ID": "880fehc",
       "IsBase": true,
-      "Progressed": 232895,
+      "Progressed": 232898,
       "Completed": 5
     }
   ],
@@ -31942,8 +31947,8 @@
   "FirstSeenRating": "2022-10-28T06:01:26.9039053+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:03.53867+00:00",
   "LastChanged": "2024-01-22T21:01:37.0351842+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:37:16.4456048+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:11:43.410256+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:09.5204893+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:28:11.6176862+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:37:16.4457787+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:02:10.111406+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:11:43.4104114+00:00"
 }

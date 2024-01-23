@@ -4,7 +4,7 @@
   "ProductSlug": "golfing-in-aether-cfac43",
   "Ranking_EOS_Progress": 723,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2099-01-01T00:00:00+00:00",
@@ -156,9 +156,9 @@
       "ID": "Turkey",
       "SetID": "8ohdpka",
       "Name": "Turkey",
-      "Percentage": 0,
+      "Percentage": 25,
       "XP": 25,
-      "UsersEstimate": 0
+      "UsersEstimate": 1
     }
   ],
   "AchievementSets": [
@@ -170,8 +170,8 @@
     }
   ],
   "FirstSeenAchievements": "2023-08-31T01:41:24.9647963+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:30:48.9931886+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:04:57.4714637+00:00",
   "LastUpdate_AppInfo": "2024-01-18T13:57:18.8210048+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:27:30.815487+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:30:48.993198+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:01:26.0801474+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:04:57.4714789+00:00"
 }

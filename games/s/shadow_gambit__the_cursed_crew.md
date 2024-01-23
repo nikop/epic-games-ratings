@@ -24,8 +24,8 @@ Rating: 4.82 (Ranked 69)
 | Tobacco Travesty | 11.00% | ~172 |
 | Rustic Recipe | 11.00% | ~172 |
 | Accursed Artifacts | 10.00% | ~156 |
+| Lyrical Longing | 10.00% | ~156 |
 | Privateer | 9.00% | ~141 |
-| Lyrical Longing | 9.00% | ~141 |
 | Fully Decked | 7.00% | ~109 |
 | Corsair | 5.00% | ~78 |
 | Freebooter | 4.00% | ~62 |

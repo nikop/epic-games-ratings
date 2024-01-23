@@ -2,12 +2,12 @@
   "ID": "ce8393adfbf342ceab0a36479ffbc627",
   "Name": "Ken Follett\u0027s The Pillars of the Earth",
   "ProductSlug": "ken-follets-the-pillars-of-the-earth",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 601,
   "Ranking_Popularity": 333,
   "Ranking_PopularitySum": 421,
   "Ranking_EOS_Progress": 166,
   "Ranking_EOS_Completed": 207,
-  "Ranking_EOS_NewPlayers": 175,
+  "Ranking_EOS_NewPlayers": 174,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-04-15T15:00:00+00:00",
@@ -570,9 +570,9 @@
       "Count": 44
     }
   ],
-  "EOS_Progressed": 18051,
+  "EOS_Progressed": 18053,
   "EOS_Completed": 125,
-  "EOS_NewPlayers": 159,
+  "EOS_NewPlayers": 161,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.69,
   "EosHistory": [
@@ -18955,6 +18955,11 @@
       "Time": "2024-01-23T00:07:03.2010641+00:00",
       "NumProgressed": 18051,
       "NumCompleted": 125
+    },
+    {
+      "Time": "2024-01-23T03:07:14.435679+00:00",
+      "NumProgressed": 18053,
+      "NumCompleted": 125
     }
   ],
   "TotalAchievements": 41,
@@ -19006,7 +19011,7 @@
       "Name": "Friends of sorts",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 5776
+      "UsersEstimate": 5777
     },
     {
       "ID": "tpote_achievement_15",
@@ -19046,7 +19051,7 @@
       "Name": "Negotiation skills",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "tpote_achievement_2",
@@ -19054,7 +19059,7 @@
       "Name": "Yet another secret",
       "Percentage": 32,
       "XP": 50,
-      "UsersEstimate": 5776
+      "UsersEstimate": 5777
     },
     {
       "ID": "tpote_achievement_20",
@@ -19078,7 +19083,7 @@
       "Name": "Two of us",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3610
+      "UsersEstimate": 3611
     },
     {
       "ID": "tpote_achievement_23",
@@ -19118,7 +19123,7 @@
       "Name": "Workers\u0027 union",
       "Percentage": 18,
       "XP": 10,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "tpote_achievement_28",
@@ -19158,7 +19163,7 @@
       "Name": "End of Book Two",
       "Percentage": 18,
       "XP": 75,
-      "UsersEstimate": 3249
+      "UsersEstimate": 3250
     },
     {
       "ID": "tpote_achievement_32",
@@ -19230,7 +19235,7 @@
       "Name": "Tattletale",
       "Percentage": 39,
       "XP": 10,
-      "UsersEstimate": 7040
+      "UsersEstimate": 7041
     },
     {
       "ID": "tpote_achievement_40",
@@ -19286,22 +19291,22 @@
       "Name": "Man of politics",
       "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 6137
+      "UsersEstimate": 6138
     }
   ],
   "AchievementSets": [
     {
       "ID": "3jcf6c3",
       "IsBase": true,
-      "Progressed": 18051,
+      "Progressed": 18053,
       "Completed": 125
     }
   ],
   "FirstSeen": "2022-07-22T20:32:00.1804661+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:32.372183+00:00",
   "LastChanged": "2023-12-17T06:57:28.9186118+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:33:07.4814756+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:07:14.4356782+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:53.7452437+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:29:44.5367704+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:33:07.4815747+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:03:52.4978809+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:07:14.4358143+00:00"
 }

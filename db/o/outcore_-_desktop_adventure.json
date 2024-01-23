@@ -340,9 +340,9 @@
       "ID": "CompletedChapter4",
       "SetID": "7ejh407",
       "Name": "Defeated the core of the outside world",
-      "Percentage": 22,
+      "Percentage": 24,
       "XP": 200,
-      "UsersEstimate": 13
+      "UsersEstimate": 14
     },
     {
       "ID": "Creepy1",
@@ -420,9 +420,9 @@
       "ID": "InternetExplorer",
       "SetID": "7ejh407",
       "Name": "Internet Explorer",
-      "Percentage": 19,
+      "Percentage": 21,
       "XP": 5,
-      "UsersEstimate": 11
+      "UsersEstimate": 12
     },
     {
       "ID": "LaifuRouteDemon",
@@ -523,8 +523,8 @@
   ],
   "FirstSeen": "2023-05-08T18:00:59.2575901+00:00",
   "FirstSeenAchievements": "2023-05-02T18:05:17.3554395+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:36:25.4310851+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:10:52.9118251+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:30.8864816+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:25:40.8561248+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:36:25.4311085+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:59:36.3237681+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:10:52.9118443+00:00"
 }

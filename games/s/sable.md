@@ -10,19 +10,19 @@ Number of Ratings: 43  (23.09.2022)
 | Just The Two of Us | 32.00% | ~35,855 |
 | Up On High | 25.00% | ~28,012 |
 | Under The Hood | 25.00% | ~28,012 |
-| Got Your Nose | 24.00% | ~26,891 |
-| The Gift of Gab | 24.00% | ~26,891 |
-| Wrapping Up | 22.00% | ~24,650 |
-| More Than A Box Of Sand | 18.00% | ~20,168 |
+| Got Your Nose | 24.00% | ~26,892 |
+| The Gift of Gab | 24.00% | ~26,892 |
+| Wrapping Up | 22.00% | ~24,651 |
+| More Than A Box Of Sand | 18.00% | ~20,169 |
 | The Dunboyne | 17.00% | ~19,048 |
 | Badge Hobbyist | 17.00% | ~19,048 |
-| Chum Novice | 16.00% | ~17,927 |
-| Silver-Tongued Sable | 16.00% | ~17,927 |
-| Sticky Paws | 16.00% | ~17,927 |
-| Bubble Up | 16.00% | ~17,927 |
+| Chum Novice | 16.00% | ~17,928 |
+| Silver-Tongued Sable | 16.00% | ~17,928 |
+| Sticky Paws | 16.00% | ~17,928 |
+| Bubble Up | 16.00% | ~17,928 |
 | Thread The Needle | 15.00% | ~16,807 |
-| Power to the People | 14.00% | ~15,686 |
-| Nesting Giant | 14.00% | ~15,686 |
+| Power to the People | 14.00% | ~15,687 |
+| Nesting Giant | 14.00% | ~15,687 |
 | Take That! | 13.00% | ~14,566 |
 | Treasure Tracker | 13.00% | ~14,566 |
 | Big Spender | 13.00% | ~14,566 |
@@ -63,7 +63,7 @@ Number of Ratings: 43  (23.09.2022)
 | The Angler Mask | 3.00% | ~3,361 |
 | Vivacious Vivarium | 2.00% | ~2,241 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 112,046 (Ranked 98)  
+Progressed: 112,048 (Ranked 98)  
 Completed: 1,146 (1.02%) (Ranked 182)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -341,7 +341,7 @@ Completed: 1,146 (1.02%) (Ranked 182)
 | 2024-01-20 | 111,724 | 1,142 |
 | 2024-01-21 | 111,910 | 1,143 |
 | 2024-01-22 | 112,031 | 1,146 |
-| 2024-01-23 | 112,046 | 1,146 |
+| 2024-01-23 | 112,048 | 1,146 |
 ## Awards
 Max (Extremely Fun): 30  (Ranked 531)  
 Sum: 155 (Ranked 449)  

@@ -5,18 +5,18 @@ Rating: 3.84 (Ranked 1,093)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Pro Creation | 76.00% | ~420,416 |
-| Handy | 42.00% | ~232,335 |
+| Pro Creation | 76.00% | ~420,418 |
+| Handy | 42.00% | ~232,336 |
 | Cold Caller | 40.00% | ~221,272 |
-| A Bit On The Side | 27.00% | ~149,358 |
+| A Bit On The Side | 27.00% | ~149,359 |
 | Backdoor | 26.00% | ~143,827 |
-| Rank Amateur | 22.00% | ~121,699 |
+| Rank Amateur | 22.00% | ~121,700 |
 | Three Way | 19.00% | ~105,104 |
 | Deadly Assassin | 16.00% | ~88,509 |
 | Gutshot | 14.00% | ~77,445 |
 | Risk It For A Biscuit | 14.00% | ~77,445 |
-| Showoff | 13.00% | ~71,913 |
-| W.H.I.P. | 12.00% | ~66,381 |
+| Showoff | 13.00% | ~71,914 |
+| W.H.I.P. | 12.00% | ~66,382 |
 | Bet Bet Bet | 10.00% | ~55,318 |
 | Blindman's Bluff | 9.00% | ~49,786 |
 | Poker Joker | 9.00% | ~49,786 |
@@ -51,7 +51,7 @@ Rating: 3.84 (Ranked 1,093)
 | Rounder | 0.10% | ~553 |
 | Top Dog | 0.10% | ~553 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 553,179 (Ranked 35)  
+Progressed: 553,181 (Ranked 35)  
 Completed: 2 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -328,7 +328,7 @@ Completed: 2 (0.00%) (Ranked 409)
 | 2024-01-20 | 552,747 | 2 |
 | 2024-01-21 | 552,997 | 2 |
 | 2024-01-22 | 553,161 | 2 |
-| 2024-01-23 | 553,179 | 2 |
+| 2024-01-23 | 553,181 | 2 |
 ## Awards
 Max (Great for Beginners): 70  (Ranked 424)  
 Sum: 216 (Ranked 415)  

@@ -537,9 +537,9 @@
       "Count": 99
     }
   ],
-  "EOS_Progressed": 258626,
+  "EOS_Progressed": 258628,
   "EOS_Completed": 8,
-  "EOS_NewPlayers": 658,
+  "EOS_NewPlayers": 660,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -31677,6 +31677,11 @@
       "Time": "2024-01-23T02:33:26.5781183+00:00",
       "NumProgressed": 258626,
       "NumCompleted": 8
+    },
+    {
+      "Time": "2024-01-23T03:07:33.6713393+00:00",
+      "NumProgressed": 258628,
+      "NumCompleted": 8
     }
   ],
   "TotalAchievements": 52,
@@ -31688,7 +31693,7 @@
       "Name": "Powergamer",
       "Percentage": 27,
       "XP": 20,
-      "UsersEstimate": 69829
+      "UsersEstimate": 69830
     },
     {
       "ID": "ACH_AON",
@@ -31752,7 +31757,7 @@
       "Name": "Guns, lots of guns",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 33621
+      "UsersEstimate": 33622
     },
     {
       "ID": "ACH_HATTRICK",
@@ -31768,7 +31773,7 @@
       "Name": "Elementary!",
       "Percentage": 9,
       "XP": 20,
-      "UsersEstimate": 23276
+      "UsersEstimate": 23277
     },
     {
       "ID": "ACH_HIDEANDSEEK",
@@ -31904,7 +31909,7 @@
       "Name": "Write that down",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64656
+      "UsersEstimate": 64657
     },
     {
       "ID": "ACH_LETSDUTY",
@@ -32008,7 +32013,7 @@
       "Name": "Barely scratched the surface",
       "Percentage": 25,
       "XP": 20,
-      "UsersEstimate": 64656
+      "UsersEstimate": 64657
     },
     {
       "ID": "ACH_SOREAD",
@@ -32103,7 +32108,7 @@
     {
       "ID": "dfh7g87",
       "IsBase": true,
-      "Progressed": 258626,
+      "Progressed": 258628,
       "Completed": 8
     }
   ],
@@ -32111,8 +32116,8 @@
   "FirstSeenRating": "2022-08-13T10:30:34.4977261+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:13.8451574+00:00",
   "LastChanged": "2024-01-17T01:52:02.486444+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:33:26.578118+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:07:33.6713389+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:06.9216076+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:29:28.7265093+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:33:26.5782822+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:03:36.6066187+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:07:33.6715324+00:00"
 }

@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 274,
   "Ranking_EOS_Completed": 130,
   "Ranking_EOS_NewPlayers": 273,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2023-08-17T16:00:00+00:00",
     "PcReleaseDate": "2023-08-17T16:00:00+00:00",
@@ -5643,9 +5643,9 @@
       "ID": "_23_CrewTale_CNN",
       "SetID": "8a1io5d",
       "Name": "Lyrical Longing",
-      "Percentage": 9,
+      "Percentage": 10,
       "XP": 15,
-      "UsersEstimate": 141
+      "UsersEstimate": 156
     },
     {
       "ID": "_24_CrewTale_SNP",
@@ -5684,8 +5684,8 @@
   "FirstSeenRating": "2023-09-02T15:58:27.8231567+00:00",
   "FirstSeenAchievements": "2023-07-31T14:04:54.3645662+00:00",
   "LastChanged": "2024-01-18T16:02:09.105773+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:32:03.0780451+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:06:11.0409244+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:34.079201+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:26:00.0302412+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:32:03.0780962+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:59:56.3654236+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:06:11.0409781+00:00"
 }

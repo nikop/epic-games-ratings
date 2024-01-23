@@ -7,20 +7,20 @@ Number of Ratings: 7,767  (23.09.2022)
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
 | Malpractice Assurance | 15.00% | ~1,259 |
-| Lost and Found | 9.00% | ~755 |
+| Lost and Found | 9.00% | ~756 |
 | Autodidact | 8.00% | ~10,682 |
 | This Belongs in a Museum | 7.00% | ~9,347 |
 | Creep and Sleep | 7.00% | ~9,347 |
 | Overdue Notice | 7.00% | ~9,347 |
 | This guy... again? | 7.00% | ~588 |
-| Don't Make Me Turn This Coach Around | 6.00% | ~8,011 |
-| Serenity Now! | 6.00% | ~8,011 |
-| Meat and Greet | 6.00% | ~8,011 |
-| Catch and Decease | 6.00% | ~8,011 |
-| Escape from the Black Hole | 6.00% | ~8,011 |
-| Rush Hour | 6.00% | ~8,011 |
-| To Grandmother's House | 6.00% | ~8,011 |
-| FNG | 6.00% | ~8,011 |
+| Don't Make Me Turn This Coach Around | 6.00% | ~8,012 |
+| Serenity Now! | 6.00% | ~8,012 |
+| Meat and Greet | 6.00% | ~8,012 |
+| Catch and Decease | 6.00% | ~8,012 |
+| Escape from the Black Hole | 6.00% | ~8,012 |
+| Rush Hour | 6.00% | ~8,012 |
+| To Grandmother's House | 6.00% | ~8,012 |
+| FNG | 6.00% | ~8,012 |
 | Ploughshares to Swords | 6.00% | ~504 |
 | Bloody Graduation | 6.00% | ~504 |
 | It Rings a Bell | 5.00% | ~6,676 |
@@ -54,13 +54,13 @@ Number of Ratings: 7,767  (23.09.2022)
 | When You Want Something Done Right | 3.00% | ~4,006 |
 | Utopia | 3.00% | ~4,006 |
 | Hot Air | 3.00% | ~4,006 |
-| This Looks Familiar | 2.00% | ~2,670 |
-| Ichthyophobic | 2.00% | ~2,670 |
-| No More Mouths to Feed | 2.00% | ~2,670 |
-| Worldly Traveller | 2.00% | ~2,670 |
-| Eyes Up | 2.00% | ~2,670 |
-| Handled | 2.00% | ~2,670 |
-| Body of Work | 2.00% | ~2,670 |
+| This Looks Familiar | 2.00% | ~2,671 |
+| Ichthyophobic | 2.00% | ~2,671 |
+| No More Mouths to Feed | 2.00% | ~2,671 |
+| Worldly Traveller | 2.00% | ~2,671 |
+| Eyes Up | 2.00% | ~2,671 |
+| Handled | 2.00% | ~2,671 |
+| Body of Work | 2.00% | ~2,671 |
 | Clearing the Ledger | 1.00% | ~1,335 |
 | Hat Trick | 1.00% | ~1,335 |
 | Shrine of Reflection | 1.00% | ~1,335 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,524 (Ranked 92)  
+Progressed: 133,526 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
-| 2024-01-23 | 133,524 | 5 |
+| 2024-01-23 | 133,526 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,825 (Ranked 58)  

@@ -5,20 +5,20 @@ Rating: 4.20 (Ranked 975)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Unforeseen | 89.00% | ~3,189 |
-| Battlefields Have Memories | 82.00% | ~2,938 |
-| Enlisted | 76.00% | ~2,723 |
-| Maybe Engage a Little | 71.00% | ~2,544 |
+| Unforeseen | 89.00% | ~3,190 |
+| Battlefields Have Memories | 82.00% | ~2,939 |
+| Enlisted | 76.00% | ~2,724 |
+| Maybe Engage a Little | 71.00% | ~2,545 |
 | No More Names | 55.00% | ~1,971 |
-| Initiate | 42.00% | ~1,505 |
+| Initiate | 41.00% | ~1,469 |
 | Thrada-Kul | 38.00% | ~1,362 |
 | Gravity-Challenged Rocks | 32.00% | ~1,147 |
-| Soldier | 28.00% | ~1,003 |
-| All the Major Food Groups | 27.00% | ~967 |
+| Soldier | 28.00% | ~1,004 |
+| All the Major Food Groups | 27.00% | ~968 |
 | Socialite | 25.00% | ~896 |
 | Beggars Would Ride | 25.00% | ~896 |
 | Control is an Illusion | 24.00% | ~860 |
-| The Means to Save It | 21.00% | ~752 |
+| The Means to Save It | 21.00% | ~753 |
 | Resilience to Sin | 19.00% | ~681 |
 | A Familiar Nest | 19.00% | ~681 |
 | Geas Aristeya | 18.00% | ~645 |
@@ -28,7 +28,7 @@ Rating: 4.20 (Ranked 975)
 | Armsman | 14.00% | ~502 |
 | Lights Army | 12.00% | ~430 |
 | Periapt Cerulean | 10.00% | ~358 |
-| Good Boy | 9.00% | ~322 |
+| Good Boy | 9.00% | ~323 |
 | Periapt Viridian | 8.00% | ~287 |
 | Best Dressed | 7.00% | ~251 |
 | Shroudfane Explorer | 7.00% | ~251 |
@@ -37,7 +37,7 @@ Rating: 4.20 (Ranked 975)
 | Armaments Azure | 5.00% | ~179 |
 | Armaments Gules | 5.00% | ~179 |
 | Armaments Vert | 4.00% | ~143 |
-| Veteran | 3.00% | ~107 |
+| Veteran | 3.00% | ~108 |
 | Grand Magnus | 2.00% | ~72 |
 | Master of Carmine | 1.00% | ~36 |
 | Shroudfane Surveyor | 1.00% | ~36 |
@@ -48,12 +48,12 @@ Rating: 4.20 (Ranked 975)
 | Petite Bourgeoisie | 0.80% | ~29 |
 | Family Business | 0.70% | ~25 |
 | Diplomat | 0.70% | ~25 |
-| Master of Malachite | 0.60% | ~21 |
+| Master of Malachite | 0.60% | ~22 |
 | Out of Time | 0.50% | ~18 |
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 3,583 (Ranked 230)  
+Progressed: 3,584 (Ranked 230)  
 Completed: 5 (0.14%) (Ranked 303)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -170,7 +170,7 @@ Completed: 5 (0.14%) (Ranked 303)
 | 2024-01-20 | 3,546 | 5 |
 | 2024-01-21 | 3,570 | 5 |
 | 2024-01-22 | 3,582 | 5 |
-| 2024-01-23 | 3,583 | 5 |
+| 2024-01-23 | 3,584 | 5 |
 ## Awards
 Max (Quickly Understood Controls): 23  (Ranked 565)  
 Sum: 43 (Ranked 525)  

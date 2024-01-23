@@ -14,8 +14,8 @@
 | Too good for this racing mini-game | 31.00% | ~18 |
 | K̸̛̿̀́͛̀̓̎̇̐̀͑̎͒͌͐̈̏́̈̚͝I̶̧̛̙̯̯̳̮̞̺̭̩̬̜̭̿͑̄̈̀͑͛̽̍͆͗́̇͗͘͘͜Ĺ̵̑̾̐͛͐̆̐̂̈́̌̀͑͑̂̉̇́̀͒͂́͑͝L̸͕͓͚̘̖̺͙̫͉̙̜̱͔̮̼̩̜̱̪̻͎̤̩̙̬̹̜̝̮͓͖̤͕̙͊̒͑͌̿̈́͐̄̈́̉͗̌̅̈́̄̀͒̆͒̀̈̃̕͘͝͠ ̴̛̛̛̛̻̞̖̹̟̬̿̒̀̈́̏́̄̏͒̀̑͛̊̿̌̏̉̄̓̈́͋͒͂͊̓̋̿̅͛̈̀̈́͐̾̔̋͘͘M̶̈́͋Ę̴̡̨̡̡̨͎̘̱̥͕͇͖̠̜̤͕̘̭̹̦̪͍̜̟̜̜͍̲̩̝̲̠̻̫̬̪̰͈̣̫̲̲̩͓̟͑̊̃̂͊ | 28.00% | ~16 |
 | Defeated Mistermind | 24.00% | ~14 |
-| Defeated the core of the outside world | 22.00% | ~13 |
-| Internet Explorer | 19.00% | ~11 |
+| Defeated the core of the outside world | 24.00% | ~14 |
+| Internet Explorer | 21.00% | ~12 |
 | LOVE | 17.00% | ~10 |
 | Good boy | 16.00% | ~9 |
 | Pure hearted | 9.00% | ~5 |

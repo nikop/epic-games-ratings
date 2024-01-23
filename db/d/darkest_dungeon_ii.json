@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 92,
   "Ranking_EOS_Completed": 409,
   "Ranking_EOS_NewPlayers": 119,
-  "Ranking_EOS_NewCompleters": 102,
+  "Ranking_EOS_NewCompleters": 103,
   "Store": {
     "ReleaseDate": "2021-10-26T16:00:00+00:00",
     "PcReleaseDate": "2021-10-26T16:00:00+00:00",
@@ -11190,9 +11190,9 @@
       "Count": 1113
     }
   ],
-  "EOS_Progressed": 133524,
+  "EOS_Progressed": 133526,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 578,
+  "EOS_NewPlayers": 576,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -41120,6 +41120,11 @@
       "Time": "2024-01-23T02:00:49.9846043+00:00",
       "NumProgressed": 133524,
       "NumCompleted": 5
+    },
+    {
+      "Time": "2024-01-23T03:11:48.2026967+00:00",
+      "NumProgressed": 133526,
+      "NumCompleted": 5
     }
   ],
   "TotalAchievements": 79,
@@ -41131,7 +41136,7 @@
       "Name": "Don\u0027t Make Me Turn This Coach Around",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "affinity_resolute_first_time",
@@ -41139,7 +41144,7 @@
       "Name": "Serenity Now!",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "altar_of_hope_memory_equip_first_time",
@@ -41227,7 +41232,7 @@
       "Name": "This Looks Familiar",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "altar_of_hope_upgrade_total_quarter",
@@ -41307,7 +41312,7 @@
       "Name": "Ichthyophobic",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "combat_kill_gaunts",
@@ -41323,7 +41328,7 @@
       "Name": "No More Mouths to Feed",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "combat_kill_harvest_child",
@@ -41331,7 +41336,7 @@
       "Name": "Meat and Greet",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "combat_kill_lair_boss_bounty_hunter",
@@ -41347,7 +41352,7 @@
       "Name": "Catch and Decease",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "combat_kill_librarian",
@@ -41371,7 +41376,7 @@
       "Name": "Escape from the Black Hole",
       "Percentage": 6,
       "XP": 10,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "combat_kill_shambler_pet_shambler",
@@ -41427,7 +41432,7 @@
       "Name": "Rush Hour",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "driving_biome_clear_coast",
@@ -41451,7 +41456,7 @@
       "Name": "To Grandmother\u0027s House",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "driving_distance_easy",
@@ -41539,7 +41544,7 @@
       "Name": "FNG",
       "Percentage": 6,
       "XP": 5,
-      "UsersEstimate": 8011
+      "UsersEstimate": 8012
     },
     {
       "ID": "inn_visit_all_variants",
@@ -41547,7 +41552,7 @@
       "Name": "Worldly Traveller",
       "Percentage": 2,
       "XP": 20,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "relationships_all_negative_mountain",
@@ -41603,7 +41608,7 @@
       "Name": "Eyes Up",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "run_victory_act04",
@@ -41611,7 +41616,7 @@
       "Name": "Handled",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "run_victory_act05",
@@ -41619,7 +41624,7 @@
       "Name": "Body of Work",
       "Percentage": 2,
       "XP": 50,
-      "UsersEstimate": 2670
+      "UsersEstimate": 2671
     },
     {
       "ID": "run_victory_all_confessions_back_to_back",
@@ -41731,7 +41736,7 @@
       "Name": "Lost and Found",
       "Percentage": 9,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "relationships_positive_hwy_cru",
@@ -41762,21 +41767,21 @@
     {
       "ID": "64l4lke",
       "IsBase": true,
-      "Progressed": 133524,
+      "Progressed": 133526,
       "Completed": 5
     },
     {
       "ID": "d3bcpc8",
       "IsBase": false,
-      "Progressed": 8393,
+      "Progressed": 8395,
       "Completed": 829
     }
   ],
   "FirstSeen": "2022-07-22T20:21:45.4172836+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:41.1536064+00:00",
   "LastChanged": "2024-01-23T01:49:36.0565864+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:37:21.2819114+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:11:48.2026962+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:17.5960044+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:26:16.8083889+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:37:21.2820792+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:00:13.3819944+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:11:48.2029113+00:00"
 }

@@ -1,29 +1,29 @@
 # Dead by Daylight
 [Store](https://store.epicgames.com/en-US/p/dead-by-daylight)  
 [View Rawdata](../../db/d/dead_by_daylight.json)  
-Rating: 4.51 (Ranked 600)  
+Rating: 4.51 (Ranked 601)  
 Number of Ratings: 70,340  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| It wakes | 8.00% | ~95,274 |
-| Zealous | 7.00% | ~83,365 |
-| Skillful | 7.00% | ~83,365 |
-| Not half bad | 6.00% | ~71,456 |
-| Make Some Noise | 6.00% | ~71,456 |
-| Apt Survivor | 5.00% | ~59,546 |
-| Survival Treasures | 5.00% | ~59,546 |
-| The Grand Sacrifice | 4.00% | ~47,637 |
-| No one left behind | 4.00% | ~47,637 |
-| Medic | 4.00% | ~47,637 |
-| Handyman | 4.00% | ~47,637 |
-| Bloody Millionaire | 4.00% | ~47,637 |
-| I | 4.00% | ~47,637 |
-| Sorted | 4.00% | ~47,637 |
-| Healthy Obsession | 4.00% | ~47,637 |
-| Resurgence | 4.00% | ~47,637 |
-| Preemptive Strike | 4.00% | ~47,637 |
-| Humanitarian | 4.00% | ~47,637 |
+| It wakes | 8.00% | ~95,276 |
+| Zealous | 7.00% | ~83,367 |
+| Skillful | 7.00% | ~83,367 |
+| Not half bad | 6.00% | ~71,457 |
+| Make Some Noise | 6.00% | ~71,457 |
+| Apt Survivor | 5.00% | ~59,548 |
+| Survival Treasures | 5.00% | ~59,548 |
+| The Grand Sacrifice | 4.00% | ~47,638 |
+| No one left behind | 4.00% | ~47,638 |
+| Medic | 4.00% | ~47,638 |
+| Handyman | 4.00% | ~47,638 |
+| Bloody Millionaire | 4.00% | ~47,638 |
+| I | 4.00% | ~47,638 |
+| Sorted | 4.00% | ~47,638 |
+| Healthy Obsession | 4.00% | ~47,638 |
+| Resurgence | 4.00% | ~47,638 |
+| Preemptive Strike | 4.00% | ~47,638 |
+| Humanitarian | 4.00% | ~47,638 |
 | Agonizing Escape | 3.00% | ~35,728 |
 | Backdoor Escape | 3.00% | ~35,728 |
 | I've got your back | 3.00% | ~35,728 |
@@ -63,47 +63,47 @@ Number of Ratings: 70,340  (23.09.2022)
 | One More Step | 2.00% | ~23,819 |
 | Second Act | 2.00% | ~23,819 |
 | MU/TH/UR Dearest | 2.00% | ~23,819 |
-| A bite for the Entity | 1.00% | ~11,909 |
-| Blood on your face | 1.00% | ~11,909 |
-| Jump Scares | 1.00% | ~11,909 |
-| Nerves of steel | 1.00% | ~11,909 |
-| Hemophobia | 1.00% | ~11,909 |
-| Shock Therapy | 1.00% | ~11,909 |
-| Leapfrog | 1.00% | ~11,909 |
-| Cottage Owner | 1.00% | ~11,909 |
-| Serial Killer | 1.00% | ~11,909 |
-| Escaping the Nightmare | 1.00% | ~11,909 |
-| Game Over | 1.00% | ~11,909 |
-| Party Crasher | 1.00% | ~11,909 |
-| Campbell's Chapel Legacy | 1.00% | ~11,909 |
-| Ancestor's Rite | 1.00% | ~11,909 |
-| Devoted Gatekeeping | 1.00% | ~11,909 |
-| Shrine Apparatus | 1.00% | ~11,909 |
-| Outrun Evil | 1.00% | ~11,909 |
-| Broken Bodies | 1.00% | ~11,909 |
-| Grim Pilgrimage | 1.00% | ~11,909 |
-| Selfless Survival | 1.00% | ~11,909 |
-| End of Days | 1.00% | ~11,909 |
-| Insult and Injury | 1.00% | ~11,909 |
-| Outrun the Overlap | 1.00% | ~11,909 |
-| High Speed Pursuit | 1.00% | ~11,909 |
-| A Fast Death | 1.00% | ~11,909 |
-| Rebuilding The Borgo | 1.00% | ~11,909 |
-| Complete the Evolution | 1.00% | ~11,909 |
-| Extraterrestrial | 1.00% | ~11,909 |
-| Outta Nowhere | 1.00% | ~11,909 |
-| Deep Cleansing | 0.90% | ~10,718 |
-| Texas BBQ | 0.90% | ~10,718 |
-| Outrage | 0.90% | ~10,718 |
-| I See You | 0.90% | ~10,718 |
-| Heavy Burden | 0.80% | ~9,527 |
-| Prowler | 0.80% | ~9,527 |
-| Triage | 0.80% | ~9,527 |
-| Blood in your mouth | 0.70% | ~8,336 |
-| Whiffing to Success | 0.70% | ~8,336 |
-| Power Moves | 0.70% | ~8,336 |
-| Punch Drunk | 0.70% | ~8,336 |
-| Kitted Out | 0.70% | ~8,336 |
+| A bite for the Entity | 1.00% | ~11,910 |
+| Blood on your face | 1.00% | ~11,910 |
+| Jump Scares | 1.00% | ~11,910 |
+| Nerves of steel | 1.00% | ~11,910 |
+| Hemophobia | 1.00% | ~11,910 |
+| Shock Therapy | 1.00% | ~11,910 |
+| Leapfrog | 1.00% | ~11,910 |
+| Cottage Owner | 1.00% | ~11,910 |
+| Serial Killer | 1.00% | ~11,910 |
+| Escaping the Nightmare | 1.00% | ~11,910 |
+| Game Over | 1.00% | ~11,910 |
+| Party Crasher | 1.00% | ~11,910 |
+| Campbell's Chapel Legacy | 1.00% | ~11,910 |
+| Ancestor's Rite | 1.00% | ~11,910 |
+| Devoted Gatekeeping | 1.00% | ~11,910 |
+| Shrine Apparatus | 1.00% | ~11,910 |
+| Outrun Evil | 1.00% | ~11,910 |
+| Broken Bodies | 1.00% | ~11,910 |
+| Grim Pilgrimage | 1.00% | ~11,910 |
+| Selfless Survival | 1.00% | ~11,910 |
+| End of Days | 1.00% | ~11,910 |
+| Insult and Injury | 1.00% | ~11,910 |
+| Outrun the Overlap | 1.00% | ~11,910 |
+| High Speed Pursuit | 1.00% | ~11,910 |
+| A Fast Death | 1.00% | ~11,910 |
+| Rebuilding The Borgo | 1.00% | ~11,910 |
+| Complete the Evolution | 1.00% | ~11,910 |
+| Extraterrestrial | 1.00% | ~11,910 |
+| Outta Nowhere | 1.00% | ~11,910 |
+| Deep Cleansing | 0.90% | ~10,719 |
+| Texas BBQ | 0.90% | ~10,719 |
+| Outrage | 0.90% | ~10,719 |
+| I See You | 0.90% | ~10,719 |
+| Heavy Burden | 0.80% | ~9,528 |
+| Prowler | 0.80% | ~9,528 |
+| Triage | 0.80% | ~9,528 |
+| Blood in your mouth | 0.70% | ~8,337 |
+| Whiffing to Success | 0.70% | ~8,337 |
+| Power Moves | 0.70% | ~8,337 |
+| Punch Drunk | 0.70% | ~8,337 |
+| Kitted Out | 0.70% | ~8,337 |
 | Looter | 0.60% | ~7,146 |
 | Death of Ignorance | 0.60% | ~7,146 |
 | Mad House | 0.50% | ~5,955 |
@@ -239,7 +239,7 @@ Number of Ratings: 70,340  (23.09.2022)
 | Adept Ripley | 0.10% | ~1,191 |
 | Adept Good Guy | 0.10% | ~1,191 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,190,927 (Ranked 14)  
+Progressed: 1,190,950 (Ranked 14)  
 Completed: 68 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -517,7 +517,7 @@ Completed: 68 (0.01%) (Ranked 383)
 | 2024-01-20 | 1,187,352 | 68 |
 | 2024-01-21 | 1,189,296 | 68 |
 | 2024-01-22 | 1,190,733 | 68 |
-| 2024-01-23 | 1,190,927 | 68 |
+| 2024-01-23 | 1,190,950 | 68 |
 ## Awards
 Max (Diverse Characters): 40,086  (Ranked 15)  
 Sum: 301,516 (Ranked 12)  

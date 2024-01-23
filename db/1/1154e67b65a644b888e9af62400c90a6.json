@@ -2,12 +2,12 @@
   "ID": "1154e67b65a644b888e9af62400c90a6",
   "Name": "Palia",
   "ProductSlug": "palia-0d428e",
-  "Ranking_Rating": 600,
+  "Ranking_Rating": 584,
   "Ranking_Popularity": 125,
   "Ranking_PopularitySum": 146,
   "Ranking_EOS_Progress": 846,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-24T17:00:00+00:00",
@@ -22,7 +22,7 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.51,
+  "Rating": 4.52,
   "RatingHistory": [
     {
       "Time": "2023-10-26T20:01:30.909406+00:00",
@@ -3737,10 +3737,16 @@
       "Rating": 4.51,
       "NumberOfAwards": 5499,
       "NumberOfAwardsMax": 1944
+    },
+    {
+      "Time": "2024-01-23T03:01:43.7974607+00:00",
+      "Rating": 4.52,
+      "NumberOfAwards": 5508,
+      "NumberOfAwardsMax": 1944
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 5499,
+  "NumberOfAwards": 5508,
   "NumberOfAwardsMax": 1944,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -3790,7 +3796,7 @@
       "Text": "This game has a Kind Community",
       "Prefix": "This game has a",
       "Type": "Kind Community",
-      "Count": 344
+      "Count": 353
     },
     {
       "Text": "This game is Highly Recommended",
@@ -3829,8 +3835,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-24T21:02:46.7682751+00:00",
   "FirstSeenRating": "2023-10-26T20:01:30.9094056+00:00",
-  "LastChanged": "2024-01-23T01:50:34.6032616+00:00",
+  "LastChanged": "2024-01-23T03:01:43.7974605+00:00",
   "LastUpdate_AppInfo": "2024-01-16T23:56:55.7195866+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:27:47.2895257+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:31:01.3379747+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:01:43.7974611+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:05:09.6410713+00:00"
 }

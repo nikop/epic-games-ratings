@@ -129,7 +129,7 @@
   "Tags": [],
   "EOS_Progressed": 2431,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 82,
+  "EOS_NewPlayers": 81,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.21,
   "EosHistory": [
@@ -5052,9 +5052,9 @@
       "ID": "ACH_08",
       "SetID": "efe2lj",
       "Name": "A Taste of Wrath",
-      "Percentage": 27,
+      "Percentage": 28,
       "XP": 20,
-      "UsersEstimate": 656
+      "UsersEstimate": 681
     },
     {
       "ID": "ACH_09",
@@ -5293,8 +5293,8 @@
   "FirstSeenRating": "2023-12-25T23:59:59.8062733+00:00",
   "FirstSeenAchievements": "2023-06-14T14:59:58.2499866+00:00",
   "LastChanged": "2024-01-22T16:59:51.0180566+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:37:23.3730651+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:11:50.2987187+00:00",
   "LastUpdate_AppInfo": "2024-01-23T01:47:43.6554353+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:26:58.0413924+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:37:23.3730997+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:00:54.0197949+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:11:50.2987535+00:00"
 }

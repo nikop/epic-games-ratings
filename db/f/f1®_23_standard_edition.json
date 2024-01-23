@@ -1635,9 +1635,9 @@
       "Count": 39
     }
   ],
-  "EOS_Progressed": 18632,
+  "EOS_Progressed": 18634,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 376,
+  "EOS_NewPlayers": 377,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12635,6 +12635,11 @@
       "Time": "2024-01-23T01:55:12.4592762+00:00",
       "NumProgressed": 18632,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T03:06:02.4021642+00:00",
+      "NumProgressed": 18634,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-18T21:06:54.827697+00:00",
@@ -12687,7 +12692,7 @@
       "Name": "Setting up for Success",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 13042
+      "UsersEstimate": 13044
     },
     {
       "ID": "achievement_0007",
@@ -12695,7 +12700,7 @@
       "Name": "Getting on the Step",
       "Percentage": 91,
       "XP": 15,
-      "UsersEstimate": 16955
+      "UsersEstimate": 16957
     },
     {
       "ID": "achievement_0008",
@@ -12703,7 +12708,7 @@
       "Name": "On the Top Step",
       "Percentage": 83,
       "XP": 20,
-      "UsersEstimate": 15465
+      "UsersEstimate": 15466
     },
     {
       "ID": "achievement_0009",
@@ -12767,7 +12772,7 @@
       "Name": "Hitting a Season",
       "Percentage": 28,
       "XP": 10,
-      "UsersEstimate": 5217
+      "UsersEstimate": 5218
     },
     {
       "ID": "achievement_0017",
@@ -12807,7 +12812,7 @@
       "Name": "Team Orders",
       "Percentage": 68,
       "XP": 15,
-      "UsersEstimate": 12670
+      "UsersEstimate": 12671
     },
     {
       "ID": "achievement_0022",
@@ -12823,7 +12828,7 @@
       "Name": "Sharing the Love",
       "Percentage": 34,
       "XP": 15,
-      "UsersEstimate": 6335
+      "UsersEstimate": 6336
     },
     {
       "ID": "achievement_0024",
@@ -12903,7 +12908,7 @@
       "Name": "Engineer",
       "Percentage": 46,
       "XP": 10,
-      "UsersEstimate": 8571
+      "UsersEstimate": 8572
     },
     {
       "ID": "achievement_0034",
@@ -12983,7 +12988,7 @@
       "Name": "Familiar Faces",
       "Percentage": 42,
       "XP": 10,
-      "UsersEstimate": 7825
+      "UsersEstimate": 7826
     },
     {
       "ID": "achievement_0044",
@@ -13007,7 +13012,7 @@
       "Name": "Writing a new Chapter",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 3726
+      "UsersEstimate": 3727
     },
     {
       "ID": "achievement_0047",
@@ -13038,7 +13043,7 @@
     {
       "ID": "9123ogc",
       "IsBase": true,
-      "Progressed": 18632,
+      "Progressed": 18634,
       "Completed": 0
     }
   ],
@@ -13046,8 +13051,8 @@
   "FirstSeenRating": "2023-07-03T02:21:27.1613312+00:00",
   "FirstSeenAchievements": "2023-07-06T22:03:45.789381+00:00",
   "LastChanged": "2024-01-22T22:59:50.9821634+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:31:54.6572083+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:06:02.4021637+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:29.284515+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:27:26.6532684+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:31:54.6572777+00:00"
+  "LastUpdate_Ratings": "2024-01-23T03:01:21.7517562+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:06:02.402235+00:00"
 }

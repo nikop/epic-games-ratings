@@ -6,23 +6,23 @@ Number of Ratings: 4,733  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Junior Naval Designer | 75.00% | ~72,489 |
-| Initial Capital | 61.00% | ~58,958 |
-| Junior Supply Officer | 39.00% | ~37,694 |
-| Moneybags | 38.00% | ~36,728 |
-| Naval Warfare. Arson | 29.00% | ~28,029 |
-| Naval Warfare. Ramming | 28.00% | ~27,063 |
-| Amateur | 26.00% | ~25,130 |
-| Naval Warfare. Tactics | 26.00% | ~25,130 |
-| Naval Constructor | 25.00% | ~24,163 |
-| Naval Warfare. Weaponry Basics | 19.00% | ~18,364 |
-| Naval Warfare. Flooding | 16.00% | ~15,464 |
-| Naval Warfare. Lucky Shot | 16.00% | ~15,464 |
-| Business Magnate | 13.00% | ~12,565 |
-| Battle Hero | 12.00% | ~11,598 |
-| Warrior | 10.00% | ~9,665 |
-| Supply Officer | 10.00% | ~9,665 |
-| Smooth Supply | 10.00% | ~9,665 |
+| Junior Naval Designer | 75.00% | ~72,495 |
+| Initial Capital | 61.00% | ~58,963 |
+| Junior Supply Officer | 39.00% | ~37,697 |
+| Moneybags | 38.00% | ~36,731 |
+| Naval Warfare. Arson | 29.00% | ~28,031 |
+| Naval Warfare. Ramming | 28.00% | ~27,065 |
+| Amateur | 26.00% | ~25,132 |
+| Naval Warfare. Tactics | 26.00% | ~25,132 |
+| Naval Constructor | 25.00% | ~24,165 |
+| Naval Warfare. Weaponry Basics | 19.00% | ~18,365 |
+| Naval Warfare. Flooding | 16.00% | ~15,466 |
+| Naval Warfare. Lucky Shot | 16.00% | ~15,466 |
+| Business Magnate | 13.00% | ~12,566 |
+| Battle Hero | 12.00% | ~11,599 |
+| Warrior | 10.00% | ~9,666 |
+| Supply Officer | 10.00% | ~9,666 |
+| Smooth Supply | 10.00% | ~9,666 |
 | Veteran | 5.00% | ~4,833 |
 | Legend of the Seas | 3.00% | ~2,900 |
 | Shield | 3.00% | ~2,900 |
@@ -51,7 +51,7 @@ Number of Ratings: 4,733  (23.09.2022)
 | "Yamamoto Isoroku" with Honors | 0.10% | ~97 |
 | Hit Hard! Hit Fast! Hit Often! with Honors | 0.10% | ~97 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 96,652 (Ranked 104)  
+Progressed: 96,660 (Ranked 104)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -214,17 +214,17 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 95,407 | 0 |
 | 2024-01-21 | 96,126 | 0 |
 | 2024-01-22 | 96,588 | 0 |
-| 2024-01-23 | 96,652 | 0 |
+| 2024-01-23 | 96,660 | 0 |
 ## Awards
 Max (Quickly Understood Controls): 1,745  (Ranked 134)  
-Sum: 14,648 (Ranked 80)  
+Sum: 14,652 (Ranked 80)  
 Diff (max vs sum): 54  
 | Award | Count |
 | ----- | ----- |
 | This game has Quickly Understood Controls | 1,745 |
 | This game is Relaxing | 1,741 |
 | This game has Challenging Combat | 1,726 |
-| This game is Highly Recommended | 1,694 |
+| This game is Highly Recommended | 1,698 |
 | This game is Extremely Fun | 1,692 |
 | This game has Competitive Players | 1,677 |
 | This game has Realistic Visuals | 1,535 |
@@ -610,4 +610,4 @@ Diff (max vs sum): 54
 | 2024-01-20 | 4.41 | - | 1,739 | 14,588 |
 | 2024-01-21 | 4.41 | - | 1,739 | 14,616 |
 | 2024-01-22 | 4.41 | - | 1,745 | 14,645 |
-| 2024-01-23 | 4.41 | - | 1,745 | 14,648 |
+| 2024-01-23 | 4.41 | - | 1,745 | 14,652 |

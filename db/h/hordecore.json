@@ -4,7 +4,7 @@
   "ProductSlug": "hordecore",
   "Ranking_EOS_Progress": 383,
   "Ranking_EOS_Completed": 113,
-  "Ranking_EOS_NewPlayers": 557,
+  "Ranking_EOS_NewPlayers": 558,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-03-02T17:00:00+00:00",
@@ -334,9 +334,9 @@
       "ID": "20",
       "SetID": "1530e6b",
       "Name": "Is Anyone Out There?",
-      "Percentage": 10,
+      "Percentage": 11,
       "XP": 20,
-      "UsersEstimate": 36
+      "UsersEstimate": 40
     },
     {
       "ID": "21",
@@ -471,8 +471,8 @@
   "FirstSeenRating": "2023-03-31T05:57:38.7013302+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:58.4754344+00:00",
   "LastChanged": "2023-03-31T05:57:38.7013303+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:36:52.3861358+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:11:19.5565328+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:22.2460883+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:23:47.9573107+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:36:52.3861483+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:57:43.5910725+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:11:19.5565521+00:00"
 }

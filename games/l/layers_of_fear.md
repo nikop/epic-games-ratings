@@ -9,7 +9,7 @@
 | It's covered up for a reason | 61.00% | ~209 |
 | Wanderer | 55.00% | ~189 |
 | Scraps of love | 53.00% | ~182 |
-| The artist’s impression | 51.00% | ~175 |
+| The artist’s impression | 52.00% | ~178 |
 | Do what you have to | 46.00% | ~158 |
 | Sign of weakness | 44.00% | ~151 |
 | Refuse to look | 39.00% | ~134 |

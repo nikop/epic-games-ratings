@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 50,
   "Ranking_EOS_Progress": 22,
   "Ranking_EOS_Completed": 383,
-  "Ranking_EOS_NewPlayers": 87,
+  "Ranking_EOS_NewPlayers": 89,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2018-02-13T16:00:00+00:00",
@@ -10239,9 +10239,9 @@
       "Count": 664
     }
   ],
-  "EOS_Progressed": 818769,
+  "EOS_Progressed": 818770,
   "EOS_Completed": 53,
-  "EOS_NewPlayers": 1068,
+  "EOS_NewPlayers": 1065,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -41674,6 +41674,11 @@
       "Time": "2024-01-23T02:37:30.4177825+00:00",
       "NumProgressed": 818769,
       "NumCompleted": 53
+    },
+    {
+      "Time": "2024-01-23T03:11:57.107098+00:00",
+      "NumProgressed": 818770,
+      "NumCompleted": 53
     }
   ],
   "TotalAchievements": 82,
@@ -41717,7 +41722,7 @@
       "Name": "Awakening",
       "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 171941
+      "UsersEstimate": 171942
     },
     {
       "ID": "BadGirl",
@@ -41773,7 +41778,7 @@
       "Name": "Bookworm",
       "Percentage": 15,
       "XP": 10,
-      "UsersEstimate": 122815
+      "UsersEstimate": 122816
     },
     {
       "ID": "Buddy",
@@ -42340,15 +42345,15 @@
     {
       "ID": "8fdh3of",
       "IsBase": true,
-      "Progressed": 818769,
+      "Progressed": 818770,
       "Completed": 53
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.2310154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:50.6949325+00:00",
   "LastChanged": "2024-01-23T02:25:09.3718796+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:37:30.4177822+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:11:57.1070975+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:04.3609649+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:25:09.3718802+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:37:30.4179477+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:59:05.086847+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:11:57.1073226+00:00"
 }

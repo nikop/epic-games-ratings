@@ -287,9 +287,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 76621,
+  "EOS_Progressed": 76625,
   "EOS_Completed": 128,
-  "EOS_NewPlayers": 1145,
+  "EOS_NewPlayers": 1148,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.17,
   "EosHistory": [
@@ -8297,6 +8297,11 @@
       "Time": "2024-01-23T02:35:32.8056734+00:00",
       "NumProgressed": 76621,
       "NumCompleted": 128
+    },
+    {
+      "Time": "2024-01-23T03:10:00.9438363+00:00",
+      "NumProgressed": 76625,
+      "NumCompleted": 128
     }
   ],
   "AchievementsAdded": "2023-11-09T12:03:07.8480262+00:00",
@@ -8309,7 +8314,7 @@
       "Name": "Zabirum Seeker",
       "Percentage": 37,
       "XP": 25,
-      "UsersEstimate": 28350
+      "UsersEstimate": 28351
     },
     {
       "ID": "Achievement_10",
@@ -8397,7 +8402,7 @@
       "Name": "Hogbunny Buddy",
       "Percentage": 28,
       "XP": 30,
-      "UsersEstimate": 21454
+      "UsersEstimate": 21455
     },
     {
       "ID": "Achievement_20",
@@ -8541,7 +8546,7 @@
       "Name": "A Stormdog\u0027s bond",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 5363
+      "UsersEstimate": 5364
     },
     {
       "ID": "Achievement_6",
@@ -8580,7 +8585,7 @@
     {
       "ID": "2md12pi",
       "IsBase": true,
-      "Progressed": 76621,
+      "Progressed": 76625,
       "Completed": 128
     }
   ],
@@ -8588,8 +8593,8 @@
   "FirstSeenRating": "2023-11-20T03:59:04.4319754+00:00",
   "FirstSeenAchievements": "2023-11-09T12:03:07.8480262+00:00",
   "LastChanged": "2024-01-18T10:00:16.7623931+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:35:32.8056731+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:10:00.9438359+00:00",
   "LastUpdate_AppInfo": "2024-01-18T17:57:14.7402661+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:25:02.407868+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:35:32.8057263+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:58:58.1972816+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:10:00.9438891+00:00"
 }

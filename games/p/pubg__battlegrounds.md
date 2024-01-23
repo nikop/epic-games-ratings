@@ -5,36 +5,36 @@ Rating: 3.99 (Ranked 1,063)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Blood on My Hands | 71.00% | ~645,413 |
-| Health Junkie | 38.00% | ~345,433 |
-| You Complete Me | 37.00% | ~336,342 |
-| Guardian Angel | 32.00% | ~290,891 |
-| Devil Inside Me | 25.00% | ~227,258 |
-| Fantastic Four | 19.00% | ~172,716 |
-| Killing Spree | 18.00% | ~163,626 |
-| Marksman Novice | 16.00% | ~145,445 |
-| First Blood | 12.00% | ~109,084 |
-| Top 10 | 12.00% | ~109,084 |
-| Now You See Me, Now You Don't | 10.00% | ~90,903 |
-| Marksman Expert | 8.00% | ~72,723 |
-| CQB Novice | 7.00% | ~63,632 |
-| Collateral Damage | 6.00% | ~54,542 |
-| Airborne | 5.00% | ~45,452 |
-| Pacifist | 5.00% | ~45,452 |
-| Last Survivor | 4.00% | ~36,361 |
-| Marksman Master | 4.00% | ~36,361 |
-| First Come, First Served | 4.00% | ~36,361 |
-| Trigonometry Novice | 3.00% | ~27,271 |
-| Dynamic Duo | 3.00% | ~27,271 |
+| Blood on My Hands | 71.00% | ~645,433 |
+| Health Junkie | 38.00% | ~345,443 |
+| You Complete Me | 37.00% | ~336,352 |
+| Guardian Angel | 32.00% | ~290,899 |
+| Devil Inside Me | 25.00% | ~227,265 |
+| Fantastic Four | 19.00% | ~172,721 |
+| Killing Spree | 18.00% | ~163,631 |
+| Marksman Novice | 16.00% | ~145,450 |
+| First Blood | 12.00% | ~109,087 |
+| Top 10 | 12.00% | ~109,087 |
+| Now You See Me, Now You Don't | 10.00% | ~90,906 |
+| Marksman Expert | 8.00% | ~72,725 |
+| CQB Novice | 7.00% | ~63,634 |
+| Collateral Damage | 6.00% | ~54,544 |
+| Airborne | 5.00% | ~45,453 |
+| Pacifist | 5.00% | ~45,453 |
+| Last Survivor | 4.00% | ~36,362 |
+| Marksman Master | 4.00% | ~36,362 |
+| First Come, First Served | 4.00% | ~36,362 |
+| Trigonometry Novice | 3.00% | ~27,272 |
+| Dynamic Duo | 3.00% | ~27,272 |
 | Winner Winner Chicken Dinner! | 2.00% | ~18,181 |
 | Okay, Now I'm Ready | 2.00% | ~18,181 |
 | Agent 48 | 2.00% | ~18,181 |
 | Don't Pan Me Bro! | 2.00% | ~18,181 |
 | Fast and Furious | 2.00% | ~18,181 |
 | CQB Expert | 2.00% | ~18,181 |
-| Fury Road | 1.00% | ~9,090 |
-| Ghost | 1.00% | ~9,090 |
-| Cruising with the Enemy | 1.00% | ~9,090 |
+| Fury Road | 1.00% | ~9,091 |
+| Ghost | 1.00% | ~9,091 |
+| Cruising with the Enemy | 1.00% | ~9,091 |
 | Nade King Novice | 0.80% | ~7,272 |
 | Master Assassin | 0.80% | ~7,272 |
 | CQB Master | 0.50% | ~4,545 |
@@ -43,7 +43,7 @@ Rating: 3.99 (Ranked 1,063)
 | Nade King Master | 0.10% | ~909 |
 | Shoot the Knee | 0.10% | ~909 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 909,033 (Ranked 18)  
+Progressed: 909,060 (Ranked 18)  
 Completed: 16 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -321,7 +321,7 @@ Completed: 16 (0.00%) (Ranked 409)
 | 2024-01-20 | 902,466 | 16 |
 | 2024-01-21 | 906,188 | 16 |
 | 2024-01-22 | 908,776 | 16 |
-| 2024-01-23 | 909,033 | 16 |
+| 2024-01-23 | 909,060 | 16 |
 ## Awards
 Max (Competitive Players): 6,645  (Ranked 63)  
 Sum: 21,685 (Ranked 60)  

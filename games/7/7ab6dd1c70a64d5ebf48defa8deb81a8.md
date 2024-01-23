@@ -9,7 +9,7 @@ Rating: 4.21 (Ranked 968)
 | Trinity | 35.00% | ~851 |
 | The Collector | 29.00% | ~705 |
 | Find Allies | 28.00% | ~681 |
-| A Taste of Wrath | 27.00% | ~656 |
+| A Taste of Wrath | 28.00% | ~681 |
 | Adventurer | 26.00% | ~632 |
 | Shatter Them All | 26.00% | ~632 |
 | Geared Up | 26.00% | ~632 |

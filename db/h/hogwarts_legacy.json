@@ -13939,10 +13939,16 @@
       "Rating": 4.75,
       "NumberOfAwards": 66097,
       "NumberOfAwardsMax": 32228
+    },
+    {
+      "Time": "2024-01-23T02:59:12.7915127+00:00",
+      "Rating": 4.75,
+      "NumberOfAwards": 66187,
+      "NumberOfAwardsMax": 32228
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 66097,
+  "NumberOfAwards": 66187,
   "NumberOfAwardsMax": 32228,
   "MaxAwardTitle": "Character Customization",
   "Tags": [
@@ -13956,7 +13962,7 @@
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 16947
+      "Count": 17037
     },
     {
       "Text": "This game has Beautiful Visuals",
@@ -14019,9 +14025,9 @@
       "Count": 1124
     }
   ],
-  "EOS_Progressed": 386878,
+  "EOS_Progressed": 386880,
   "EOS_Completed": 583,
-  "EOS_NewPlayers": 2344,
+  "EOS_NewPlayers": 2340,
   "EOS_NewCompleters": 17,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -44209,6 +44215,11 @@
       "Time": "2024-01-23T02:36:17.0868357+00:00",
       "NumProgressed": 386878,
       "NumCompleted": 583
+    },
+    {
+      "Time": "2024-01-23T03:10:44.5377609+00:00",
+      "NumProgressed": 386880,
+      "NumCompleted": 583
     }
   ],
   "TotalAchievements": 45,
@@ -44220,7 +44231,7 @@
       "Name": "The Sort Who Makes an Entrance",
       "Percentage": 32,
       "XP": 15,
-      "UsersEstimate": 123801
+      "UsersEstimate": 123802
     },
     {
       "ID": "PFA_10",
@@ -44228,7 +44239,7 @@
       "Name": "Grappling with a Graphorn",
       "Percentage": 12,
       "XP": 15,
-      "UsersEstimate": 46425
+      "UsersEstimate": 46426
     },
     {
       "ID": "PFA_11",
@@ -44236,7 +44247,7 @@
       "Name": "The One Who Mastered Memories",
       "Percentage": 12,
       "XP": 20,
-      "UsersEstimate": 46425
+      "UsersEstimate": 46426
     },
     {
       "ID": "PFA_12",
@@ -44252,7 +44263,7 @@
       "Name": "The Hero of Hogwarts",
       "Percentage": 12,
       "XP": 30,
-      "UsersEstimate": 46425
+      "UsersEstimate": 46426
     },
     {
       "ID": "PFA_14",
@@ -44308,7 +44319,7 @@
       "Name": "The Toast of the Town",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 27081
+      "UsersEstimate": 27082
     },
     {
       "ID": "PFA_20",
@@ -44348,7 +44359,7 @@
       "Name": "Loom for Improvement",
       "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 61900
+      "UsersEstimate": 61901
     },
     {
       "ID": "PFA_25",
@@ -44388,7 +44399,7 @@
       "Name": "Third Time\u0027s a Charm",
       "Percentage": 7,
       "XP": 30,
-      "UsersEstimate": 27081
+      "UsersEstimate": 27082
     },
     {
       "ID": "PFA_3",
@@ -44556,7 +44567,7 @@
       "Name": "Troll with the Punches",
       "Percentage": 26,
       "XP": 15,
-      "UsersEstimate": 100588
+      "UsersEstimate": 100589
     },
     {
       "ID": "PFA_8",
@@ -44579,16 +44590,16 @@
     {
       "ID": "1hf4dep",
       "IsBase": true,
-      "Progressed": 386878,
+      "Progressed": 386880,
       "Completed": 583
     }
   ],
   "FirstSeen": "2023-02-10T18:57:13.2836702+00:00",
   "FirstSeenRating": "2023-02-10T20:57:09.6904578+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:00.6952201+00:00",
-  "LastChanged": "2024-01-23T01:48:56.3464868+00:00",
-  "LastChanged_Achievements": "2024-01-23T02:36:17.0868353+00:00",
+  "LastChanged": "2024-01-23T02:59:12.7915125+00:00",
+  "LastChanged_Achievements": "2024-01-23T03:10:44.5377603+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:09.2606186+00:00",
-  "LastUpdate_Ratings": "2024-01-23T02:25:16.4666563+00:00",
-  "LastUpdate_Achievements": "2024-01-23T02:36:17.0870133+00:00"
+  "LastUpdate_Ratings": "2024-01-23T02:59:12.7915131+00:00",
+  "LastUpdate_Achievements": "2024-01-23T03:10:44.5379276+00:00"
 }
