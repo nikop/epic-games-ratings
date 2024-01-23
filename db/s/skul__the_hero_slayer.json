@@ -1619,9 +1619,9 @@
       "Count": 156
     }
   ],
-  "EOS_Progressed": 14962,
+  "EOS_Progressed": 14963,
   "EOS_Completed": 23,
-  "EOS_NewPlayers": 175,
+  "EOS_NewPlayers": 174,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.15,
   "EosHistory": [
@@ -10714,6 +10714,11 @@
       "Time": "2024-01-23T11:10:15.9309595+00:00",
       "NumProgressed": 14962,
       "NumCompleted": 23
+    },
+    {
+      "Time": "2024-01-23T12:09:38.0341622+00:00",
+      "NumProgressed": 14963,
+      "NumCompleted": 23
     }
   ],
   "TotalAchievements": 24,
@@ -10725,7 +10730,7 @@
       "Name": "Brain at Full Throttle",
       "Percentage": 20,
       "XP": 10,
-      "UsersEstimate": 2992
+      "UsersEstimate": 2993
     },
     {
       "ID": "Chatterbox",
@@ -10749,7 +10754,7 @@
       "Name": "Focus!",
       "Percentage": 60,
       "XP": 10,
-      "UsersEstimate": 8977
+      "UsersEstimate": 8978
     },
     {
       "ID": "DemonCastleRestoration",
@@ -10797,15 +10802,15 @@
       "Name": "The God of Battle",
       "Percentage": 4,
       "XP": 90,
-      "UsersEstimate": 598
+      "UsersEstimate": 599
     },
     {
       "ID": "GoHome",
       "SetID": "97dk767",
       "Name": "Go Home...",
-      "Percentage": 28,
+      "Percentage": 29,
       "XP": 30,
-      "UsersEstimate": 4189
+      "UsersEstimate": 4339
     },
     {
       "ID": "HeroSlayer",
@@ -10821,7 +10826,7 @@
       "Name": "The Fall of the Leonia Order",
       "Percentage": 31,
       "XP": 30,
-      "UsersEstimate": 4638
+      "UsersEstimate": 4639
     },
     {
       "ID": "LeoniasFall_2",
@@ -10877,7 +10882,7 @@
       "Name": "Inventory Management",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 4937
+      "UsersEstimate": 4938
     },
     {
       "ID": "TheLegendBegins",
@@ -10885,7 +10890,7 @@
       "Name": "The Legend Begins",
       "Percentage": 93,
       "XP": 10,
-      "UsersEstimate": 13915
+      "UsersEstimate": 13916
     },
     {
       "ID": "TheendofGoldManeKnights",
@@ -10916,15 +10921,15 @@
     {
       "ID": "97dk767",
       "IsBase": true,
-      "Progressed": 14962,
+      "Progressed": 14963,
       "Completed": 23
     }
   ],
   "FirstSeen": "2022-07-22T20:31:36.7483715+00:00",
   "FirstSeenAchievements": "2023-04-25T16:15:27.4944549+00:00",
   "LastChanged": "2024-01-23T09:59:49.0966627+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:10:15.9309589+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:09:38.034162+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:42.2914223+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:01:07.9283241+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:10:15.9310189+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:59:48.2134261+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:09:38.0342066+00:00"
 }

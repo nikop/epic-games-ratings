@@ -9,7 +9,7 @@ Rating: 4.55 (Ranked 531)
 | Pay 'n' Spray | 51.00% | ~10,102 |
 | All Dressed Up for San Fierro | 26.00% | ~5,150 |
 | The American Dream | 19.00% | ~3,764 |
-| School's Out | 18.00% | ~3,565 |
+| School's Out | 19.00% | ~3,764 |
 | Smooth Moves | 17.00% | ~3,367 |
 | What happens in Las Venturas... | 15.00% | ~2,971 |
 | Today Was a Good Day | 15.00% | ~2,971 |

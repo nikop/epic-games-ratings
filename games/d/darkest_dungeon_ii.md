@@ -6,13 +6,13 @@ Number of Ratings: 7,767  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Malpractice Assurance | 15.00% | ~1,261 |
+| Malpractice Assurance | 15.00% | ~1,262 |
 | Lost and Found | 9.00% | ~757 |
 | Autodidact | 8.00% | ~10,683 |
 | This Belongs in a Museum | 7.00% | ~9,348 |
 | Creep and Sleep | 7.00% | ~9,348 |
 | Overdue Notice | 7.00% | ~9,348 |
-| This guy... again? | 7.00% | ~588 |
+| This guy... again? | 7.00% | ~589 |
 | Don't Make Me Turn This Coach Around | 6.00% | ~8,012 |
 | Serenity Now! | 6.00% | ~8,012 |
 | Meat and Greet | 6.00% | ~8,012 |
@@ -21,8 +21,8 @@ Number of Ratings: 7,767  (23.09.2022)
 | Rush Hour | 6.00% | ~8,012 |
 | To Grandmother's House | 6.00% | ~8,012 |
 | FNG | 6.00% | ~8,012 |
-| Ploughshares to Swords | 6.00% | ~504 |
-| Bloody Graduation | 6.00% | ~504 |
+| Ploughshares to Swords | 6.00% | ~505 |
+| Bloody Graduation | 6.00% | ~505 |
 | It Rings a Bell | 5.00% | ~6,677 |
 | Not Today! | 5.00% | ~6,677 |
 | It Happens | 5.00% | ~6,677 |
@@ -32,22 +32,22 @@ Number of Ratings: 7,767  (23.09.2022)
 | A Place to Lay Your Head | 5.00% | ~6,677 |
 | Nope | 5.00% | ~6,677 |
 | Friends 'Til the End | 5.00% | ~420 |
-| Resurrection | 4.00% | ~5,341 |
-| Unleash Hell | 4.00% | ~5,341 |
-| Funny Guy | 4.00% | ~5,341 |
-| Long Live the King | 4.00% | ~5,341 |
-| Wyrdly Reconstructed | 4.00% | ~5,341 |
-| Boxcar Kid | 4.00% | ~5,341 |
-| Unfulfilled Desires | 4.00% | ~5,341 |
-| Dissector | 4.00% | ~5,341 |
-| Banishment | 4.00% | ~5,341 |
-| Deprogramming | 4.00% | ~5,341 |
-| Now Stay Dead | 4.00% | ~5,341 |
-| Spelunker | 4.00% | ~5,341 |
-| Ramble On | 4.00% | ~5,341 |
-| A Clear Conscience | 4.00% | ~5,341 |
-| Unshackled | 4.00% | ~5,341 |
-| Road Trip | 4.00% | ~5,341 |
+| Resurrection | 4.00% | ~5,342 |
+| Unleash Hell | 4.00% | ~5,342 |
+| Funny Guy | 4.00% | ~5,342 |
+| Long Live the King | 4.00% | ~5,342 |
+| Wyrdly Reconstructed | 4.00% | ~5,342 |
+| Boxcar Kid | 4.00% | ~5,342 |
+| Unfulfilled Desires | 4.00% | ~5,342 |
+| Dissector | 4.00% | ~5,342 |
+| Banishment | 4.00% | ~5,342 |
+| Deprogramming | 4.00% | ~5,342 |
+| Now Stay Dead | 4.00% | ~5,342 |
+| Spelunker | 4.00% | ~5,342 |
+| Ramble On | 4.00% | ~5,342 |
+| A Clear Conscience | 4.00% | ~5,342 |
+| Unshackled | 4.00% | ~5,342 |
+| Road Trip | 4.00% | ~5,342 |
 | Hope Rekindled | 3.00% | ~4,006 |
 | Predator | 3.00% | ~4,006 |
 | Reverse Banditry | 3.00% | ~4,006 |
@@ -86,7 +86,7 @@ Number of Ratings: 7,767  (23.09.2022)
 | The Clash | 0.10% | ~134 |
 | Hard Mode | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 133,537 (Ranked 92)  
+Progressed: 133,541 (Ranked 92)  
 Completed: 5 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -354,7 +354,7 @@ Completed: 5 (0.00%) (Ranked 409)
 | 2024-01-20 | 133,350 | 5 |
 | 2024-01-21 | 133,440 | 5 |
 | 2024-01-22 | 133,516 | 5 |
-| 2024-01-23 | 133,537 | 5 |
+| 2024-01-23 | 133,541 | 5 |
 ## Awards
 Max (Character Customization): 8,062  (Ranked 52)  
 Sum: 21,825 (Ranked 58)  

@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 246,
+  "Ranking_EOS_NewPlayers": 245,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2041,
+  "EOS_Progressed": 2042,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 31,
+  "EOS_NewPlayers": 32,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3900,6 +3900,11 @@
       "Time": "2024-01-23T01:56:59.1063293+00:00",
       "NumProgressed": 2041,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T12:08:16.6307699+00:00",
+      "NumProgressed": 2042,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -4079,7 +4084,7 @@
       "Name": "Self-sustainability",
       "Percentage": 6,
       "XP": 50,
-      "UsersEstimate": 122
+      "UsersEstimate": 123
     },
     {
       "ID": "31",
@@ -4119,7 +4124,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 755
+      "UsersEstimate": 756
     },
     {
       "ID": "7",
@@ -4150,15 +4155,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2041,
+      "Progressed": 2042,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:08:22.2058865+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:08:16.6307696+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:59:31.1914379+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:08:22.2059221+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:58:45.1346789+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:08:16.6308232+00:00"
 }

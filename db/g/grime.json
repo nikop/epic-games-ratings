@@ -1945,9 +1945,9 @@
       "Count": 56
     }
   ],
-  "EOS_Progressed": 169372,
+  "EOS_Progressed": 169376,
   "EOS_Completed": 467,
-  "EOS_NewPlayers": 916,
+  "EOS_NewPlayers": 910,
   "EOS_NewCompleters": 6,
   "EOS_Completed_Percentage": 0.28,
   "EosHistory": [
@@ -24165,6 +24165,11 @@
       "Time": "2024-01-23T11:08:34.7745185+00:00",
       "NumProgressed": 169372,
       "NumCompleted": 467
+    },
+    {
+      "Time": "2024-01-23T12:08:25.5947215+00:00",
+      "NumProgressed": 169376,
+      "NumCompleted": 467
     }
   ],
   "AchievementsAdded": "2023-11-30T17:04:40.228766+00:00",
@@ -24249,7 +24254,7 @@
       "Name": "Weeper",
       "Percentage": 2,
       "XP": 40,
-      "UsersEstimate": 3387
+      "UsersEstimate": 3388
     },
     {
       "ID": "DEFEAT_AMAL2",
@@ -24265,7 +24270,7 @@
       "Name": "Artisan",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "DEFEAT_FIDUS",
@@ -24305,7 +24310,7 @@
       "Name": "Hush",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "DEFEAT_HARMLESSROCKGIANT",
@@ -24385,7 +24390,7 @@
       "Name": "All-Seeing",
       "Percentage": 0.4,
       "XP": 30,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "MISC_ACTIVATESURROGATE",
@@ -24425,7 +24430,7 @@
       "Name": "Breathsmith",
       "Percentage": 0.4,
       "XP": 15,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "MISC_PULLANENEMY",
@@ -24457,7 +24462,7 @@
       "Name": "Unwrap the Gift",
       "Percentage": 0.4,
       "XP": 10,
-      "UsersEstimate": 677
+      "UsersEstimate": 678
     },
     {
       "ID": "MISC_UNLOCKNERVEPASSES",
@@ -24544,21 +24549,21 @@
     {
       "ID": "72k7oh",
       "IsBase": false,
-      "Progressed": 168955,
+      "Progressed": 168959,
       "Completed": 1269
     },
     {
       "ID": "ccc0dlh",
       "IsBase": true,
-      "Progressed": 169372,
+      "Progressed": 169376,
       "Completed": 467
     }
   ],
   "FirstSeen": "2022-07-22T20:23:52.5995031+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:06.276589+00:00",
   "LastChanged": "2024-01-22T22:58:53.9473034+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:08:34.774518+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:08:25.5947212+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:14.3635856+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:00:02.1688938+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:08:34.7746572+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:59:05.5468973+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:08:25.594843+00:00"
 }

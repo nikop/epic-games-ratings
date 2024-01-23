@@ -151,10 +151,10 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2971,
+  "EOS_Progressed": 2972,
   "EOS_Completed": 232,
-  "EOS_NewPlayers": 168,
-  "EOS_NewCompleters": 19,
+  "EOS_NewPlayers": 167,
+  "EOS_NewCompleters": 18,
   "EOS_Completed_Percentage": 7.81,
   "EosHistory": [
     {
@@ -7966,6 +7966,11 @@
       "Time": "2024-01-23T11:04:01.4449853+00:00",
       "NumProgressed": 2971,
       "NumCompleted": 232
+    },
+    {
+      "Time": "2024-01-23T12:03:30.6103577+00:00",
+      "NumProgressed": 2972,
+      "NumCompleted": 232
     }
   ],
   "TotalAchievements": 25,
@@ -8025,7 +8030,7 @@
       "Name": "Open door",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "META_RESULT_1-3",
@@ -8041,7 +8046,7 @@
       "Name": "Feels like springtime",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "META_RESULT_2-3",
@@ -8073,7 +8078,7 @@
       "Name": "Alchemists Express",
       "Percentage": 23,
       "XP": 10,
-      "UsersEstimate": 683
+      "UsersEstimate": 684
     },
     {
       "ID": "OPTIONNAL_BELL",
@@ -8089,7 +8094,7 @@
       "Name": "True G3M4R",
       "Percentage": 33,
       "XP": 10,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "OPTIONNAL_PREACHER",
@@ -8097,7 +8102,7 @@
       "Name": "The Preacher\u0027s fate",
       "Percentage": 44,
       "XP": 10,
-      "UsersEstimate": 1307
+      "UsersEstimate": 1308
     },
     {
       "ID": "OPTIONNAL_WEAPONS",
@@ -8137,7 +8142,7 @@
       "Name": "Welcome to the Tower",
       "Percentage": 54,
       "XP": 10,
-      "UsersEstimate": 1604
+      "UsersEstimate": 1605
     },
     {
       "ID": "PROGRESS_N2",
@@ -8161,7 +8166,7 @@
       "Name": "The darkness",
       "Percentage": 33,
       "XP": 60,
-      "UsersEstimate": 980
+      "UsersEstimate": 981
     },
     {
       "ID": "PROGRESS_N5",
@@ -8169,14 +8174,14 @@
       "Name": "One last step",
       "Percentage": 30,
       "XP": 80,
-      "UsersEstimate": 891
+      "UsersEstimate": 892
     }
   ],
   "AchievementSets": [
     {
       "ID": "2gma9an",
       "IsBase": true,
-      "Progressed": 2971,
+      "Progressed": 2972,
       "Completed": 232
     }
   ],
@@ -8184,8 +8189,8 @@
   "FirstSeenRating": "2023-12-16T17:01:08.7568685+00:00",
   "FirstSeenAchievements": "2023-04-25T20:49:44.0988538+00:00",
   "LastChanged": "2024-01-22T16:59:43.8481028+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:04:01.4449851+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:03:30.6103574+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:38.8119652+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:00:55.0629306+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:04:01.4450469+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:59:40.5700007+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:03:30.6104199+00:00"
 }

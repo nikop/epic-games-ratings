@@ -8,7 +8,7 @@
   "Ranking_EOS_Progress": 105,
   "Ranking_EOS_Completed": 364,
   "Ranking_EOS_NewPlayers": 4,
-  "Ranking_EOS_NewCompleters": 13,
+  "Ranking_EOS_NewCompleters": 12,
   "Store": {
     "ReleaseDate": "2024-01-18T16:00:00+00:00",
     "PcReleaseDate": "2014-02-07T18:00:00+00:00",
@@ -35,9 +35,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 94084,
+  "EOS_Progressed": 94461,
   "EOS_Completed": 31,
-  "EOS_NewPlayers": 94081,
+  "EOS_NewPlayers": 94458,
   "EOS_NewCompleters": 31,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -610,6 +610,11 @@
       "Time": "2024-01-23T11:06:44.2712927+00:00",
       "NumProgressed": 94084,
       "NumCompleted": 31
+    },
+    {
+      "Time": "2024-01-23T12:05:25.1556339+00:00",
+      "NumProgressed": 94461,
+      "NumCompleted": 31
     }
   ],
   "AchievementsAdded": "2024-01-18T14:03:50.5589777+00:00",
@@ -630,7 +635,7 @@
       "Name": "Studious",
       "Percentage": 0.3,
       "XP": 100,
-      "UsersEstimate": 282
+      "UsersEstimate": 283
     },
     {
       "ID": "ach_BRank",
@@ -638,7 +643,7 @@
       "Name": "Day Dreamer",
       "Percentage": 0.9,
       "XP": 80,
-      "UsersEstimate": 847
+      "UsersEstimate": 850
     },
     {
       "ID": "ach_CRank",
@@ -646,7 +651,7 @@
       "Name": "Slacker",
       "Percentage": 3,
       "XP": 50,
-      "UsersEstimate": 2823
+      "UsersEstimate": 2834
     },
     {
       "ID": "ach_OverlyCautious",
@@ -654,7 +659,7 @@
       "Name": "Overly Cautious",
       "Percentage": 8,
       "XP": 25,
-      "UsersEstimate": 7527
+      "UsersEstimate": 7557
     },
     {
       "ID": "ach_SpeedRank",
@@ -662,7 +667,7 @@
       "Name": "Gotta Go Fast",
       "Percentage": 0.4,
       "XP": 100,
-      "UsersEstimate": 376
+      "UsersEstimate": 378
     },
     {
       "ID": "ach_bouncer",
@@ -670,7 +675,7 @@
       "Name": "Bouncer",
       "Percentage": 57,
       "XP": 25,
-      "UsersEstimate": 53628
+      "UsersEstimate": 53843
     },
     {
       "ID": "ach_gameClear",
@@ -678,7 +683,7 @@
       "Name": "Game Cleared",
       "Percentage": 9,
       "XP": 75,
-      "UsersEstimate": 8468
+      "UsersEstimate": 8501
     },
     {
       "ID": "ach_lv02",
@@ -686,7 +691,7 @@
       "Name": "The Direct Approach",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1889
     },
     {
       "ID": "ach_lv04",
@@ -694,7 +699,7 @@
       "Name": "The Secret of the Slow Tube",
       "Percentage": 0.5,
       "XP": 50,
-      "UsersEstimate": 470
+      "UsersEstimate": 472
     },
     {
       "ID": "ach_lv05",
@@ -702,7 +707,7 @@
       "Name": "What Are You Doing Up There?",
       "Percentage": 18,
       "XP": 25,
-      "UsersEstimate": 16935
+      "UsersEstimate": 17003
     },
     {
       "ID": "ach_lv06",
@@ -710,7 +715,7 @@
       "Name": "Not a Drop",
       "Percentage": 2,
       "XP": 25,
-      "UsersEstimate": 1882
+      "UsersEstimate": 1889
     },
     {
       "ID": "ach_lv08",
@@ -718,7 +723,7 @@
       "Name": "Without a Scratch",
       "Percentage": 1,
       "XP": 25,
-      "UsersEstimate": 941
+      "UsersEstimate": 945
     },
     {
       "ID": "ach_lv10",
@@ -726,7 +731,7 @@
       "Name": "The High Road",
       "Percentage": 19,
       "XP": 25,
-      "UsersEstimate": 17876
+      "UsersEstimate": 17948
     },
     {
       "ID": "ach_lv10-2",
@@ -734,7 +739,7 @@
       "Name": "The Low Road",
       "Percentage": 13,
       "XP": 25,
-      "UsersEstimate": 12231
+      "UsersEstimate": 12280
     },
     {
       "ID": "ach_shortcut1",
@@ -742,7 +747,7 @@
       "Name": "Shorcut Taker",
       "Percentage": 4,
       "XP": 25,
-      "UsersEstimate": 3763
+      "UsersEstimate": 3778
     },
     {
       "ID": "ach_yolo",
@@ -758,14 +763,14 @@
       "Name": "YOLNHNNT",
       "Percentage": 0.8,
       "XP": 50,
-      "UsersEstimate": 753
+      "UsersEstimate": 756
     }
   ],
   "AchievementSets": [
     {
       "ID": "1ol4jj3",
       "IsBase": true,
-      "Progressed": 94084,
+      "Progressed": 94461,
       "Completed": 31
     }
   ],
@@ -773,8 +778,8 @@
   "FirstSeenRating": "2024-01-22T22:59:18.2293453+00:00",
   "FirstSeenAchievements": "2024-01-18T14:03:50.5589776+00:00",
   "LastChanged": "2024-01-22T22:59:18.2293454+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:06:44.2712923+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:05:25.1556337+00:00",
   "LastUpdate_AppInfo": "2024-01-18T13:57:18.6800892+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:00:40.5130892+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:06:44.2713102+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:59:30.2735788+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:05:25.1556457+00:00"
 }

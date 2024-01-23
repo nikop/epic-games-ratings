@@ -5,21 +5,21 @@ Rating: 4.85 (Ranked 39)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Start with a bang! | 56.00% | ~9,868 |
-| Feeling the beat! | 56.00% | ~9,868 |
-| You can pet the cat! | 51.00% | ~8,987 |
-| Who put gears in there? | 42.00% | ~7,401 |
-| Cream of the Crop | 37.00% | ~6,520 |
+| Start with a bang! | 56.00% | ~9,869 |
+| Feeling the beat! | 56.00% | ~9,869 |
+| You can pet the cat! | 51.00% | ~8,988 |
+| Who put gears in there? | 42.00% | ~7,402 |
+| Cream of the Crop | 37.00% | ~6,521 |
 | Thanks for the free chip, Peppermint! | 36.00% | ~6,344 |
 | You got this, Peppermint? | 32.00% | ~5,639 |
 | Perfect Parry | 30.00% | ~5,287 |
-| Alright, that felt AWESOME! | 29.00% | ~5,110 |
+| Alright, that felt AWESOME! | 29.00% | ~5,111 |
 | I play my own way! | 25.00% | ~4,406 |
-| This will cost you big time | 24.00% | ~4,229 |
+| This will cost you big time | 24.00% | ~4,230 |
 | Uh, they were broken when I got here | 23.00% | ~4,053 |
 | Z-shielding's got nothing on us! | 22.00% | ~3,877 |
 | Kissing the sky! | 21.00% | ~3,701 |
-| Whoa! There's ANOTHER health bar!? | 18.00% | ~3,172 |
+| Whoa! There's ANOTHER health bar!? | 19.00% | ~3,348 |
 | Does that say weakpoint? | 18.00% | ~3,172 |
 | The Negotiator | 17.00% | ~2,996 |
 | You must like calling me in, Chai | 16.00% | ~2,820 |
@@ -77,7 +77,7 @@ Rating: 4.85 (Ranked 39)
 | Voices from within | 0.10% | ~16 |
 | Low budget finish | 0.10% | ~16 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 17,622 (Ranked 168)  
+Progressed: 17,623 (Ranked 168)  
 Completed: 8 (0.05%) (Ranked 348)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 8 (0.05%) (Ranked 348)
 | 2024-01-20 | 17,503 | 8 |
 | 2024-01-21 | 17,560 | 8 |
 | 2024-01-22 | 17,609 | 8 |
-| 2024-01-23 | 17,622 | 8 |
+| 2024-01-23 | 17,623 | 8 |
 ## Awards
 Max (Great Boss Battles): 37  (Ranked 503)  
 Sum: 37 (Ranked 538)  

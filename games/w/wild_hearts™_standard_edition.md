@@ -33,8 +33,8 @@
 | Karakuri Isle | 21.00% | ~294 |
 | Artful Assister | 21.00% | ~294 |
 | Reincarnation Cycle Stopper | 20.00% | ~280 |
+| Human Believer | 18.00% | ~252 |
 | Left Arm Leverager | 17.00% | ~238 |
-| Human Believer | 17.00% | ~238 |
 | Style Seeker | 16.00% | ~224 |
 | Unrivaled in Arms | 16.00% | ~224 |
 | Quintessence of Form | 16.00% | ~224 |

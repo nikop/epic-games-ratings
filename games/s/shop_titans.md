@@ -1,19 +1,19 @@
 # Shop Titans
 [Store](https://store.epicgames.com/en-US/p/shop-titans-d95c1c)  
 [View Rawdata](../../db/s/shop_titans.json)  
-Rating: 4.00 (Ranked 1,060)  
+Rating: 4.00 (Ranked 1,059)  
 Number of Ratings: 12,664  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Sponsored by Argon | 12.00% | ~18,307 |
-| Titan's First Steps | 12.00% | ~18,307 |
+| Sponsored by Argon | 12.00% | ~18,308 |
+| Titan's First Steps | 12.00% | ~18,308 |
 | Basic in Bulk | 11.00% | ~16,782 |
 | Tinkle of Coins | 10.00% | ~15,256 |
 | Disintermediation | 8.00% | ~12,205 |
 | It's Free Real Estate | 8.00% | ~12,205 |
 | Capitalism Ho! | 8.00% | ~12,205 |
-| Budding Merchant | 7.00% | ~10,679 |
+| Budding Merchant | 7.00% | ~10,680 |
 | One Easy Payment | 6.00% | ~9,154 |
 | Some Assembly Required | 6.00% | ~9,154 |
 | Another Satisfied Customer | 6.00% | ~9,154 |
@@ -25,13 +25,13 @@ Number of Ratings: 12,664  (23.09.2022)
 | One-Armed Bandit | 5.00% | ~7,628 |
 | Dungeon Imports | 5.00% | ~7,628 |
 | Through Repetition, Perfection | 5.00% | ~7,628 |
-| Demand for Supplies | 4.00% | ~6,102 |
-| Flooding the Market | 4.00% | ~6,102 |
-| Gem Expert | 4.00% | ~6,102 |
-| Gild-Gotten Goods | 4.00% | ~6,102 |
-| Accomplished Merchant | 4.00% | ~6,102 |
-| Did we pack lunch? | 4.00% | ~6,102 |
-| Arcane Industries | 4.00% | ~6,102 |
+| Demand for Supplies | 4.00% | ~6,103 |
+| Flooding the Market | 4.00% | ~6,103 |
+| Gem Expert | 4.00% | ~6,103 |
+| Gild-Gotten Goods | 4.00% | ~6,103 |
+| Accomplished Merchant | 4.00% | ~6,103 |
+| Did we pack lunch? | 4.00% | ~6,103 |
+| Arcane Industries | 4.00% | ~6,103 |
 | On the Path to Greatness | 3.00% | ~4,577 |
 | A Notch Above the Rest | 3.00% | ~4,577 |
 | Ascended | 3.00% | ~4,577 |
@@ -109,7 +109,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Eternal Crusade | 1.00% | ~1,526 |
 | Bane of Legends | 0.90% | ~1,373 |
 | Marvels from the World Over | 0.90% | ~1,373 |
-| Anything not Nailed Down | 0.80% | ~1,220 |
+| Anything not Nailed Down | 0.80% | ~1,221 |
 | Ultimate Collector | 0.70% | ~1,068 |
 | Unleashed Potential | 0.70% | ~1,068 |
 | JACKPOT!!! | 0.70% | ~1,068 |
@@ -119,7 +119,7 @@ Number of Ratings: 12,664  (23.09.2022)
 | Cash Only Please | 0.40% | ~610 |
 | Capitalist Camaraderie | 0.30% | ~458 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 152,560 (Ranked 87)  
+Progressed: 152,565 (Ranked 87)  
 Completed: 360 (0.24%) (Ranked 279)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -397,7 +397,7 @@ Completed: 360 (0.24%) (Ranked 279)
 | 2024-01-20 | 152,267 | 360 |
 | 2024-01-21 | 152,414 | 360 |
 | 2024-01-22 | 152,516 | 360 |
-| 2024-01-23 | 152,560 | 360 |
+| 2024-01-23 | 152,565 | 360 |
 ## Awards
 Max (Great for Beginners): 4,973  (Ranked 84)  
 Sum: 28,039 (Ranked 52)  

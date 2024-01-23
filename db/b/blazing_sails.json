@@ -2,7 +2,7 @@
   "ID": "aee7dd76aa6746578f476dc47f8d1d7f",
   "Name": "Blazing Sails",
   "ProductSlug": "blazing-sails",
-  "Ranking_Rating": 1074,
+  "Ranking_Rating": 1073,
   "Ranking_Popularity": 205,
   "Ranking_PopularitySum": 167,
   "Ranking_EOS_Progress": 847,
@@ -3351,10 +3351,16 @@
       "Rating": 3.95,
       "NumberOfAwards": 3978,
       "NumberOfAwardsMax": 635
+    },
+    {
+      "Time": "2024-01-23T11:58:38.254952+00:00",
+      "Rating": 3.95,
+      "NumberOfAwards": 3979,
+      "NumberOfAwardsMax": 635
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 3978,
+  "NumberOfAwards": 3979,
   "NumberOfAwardsMax": 635,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -3386,7 +3392,7 @@
       "Text": "This game is Extremely Fun",
       "Prefix": "This game is",
       "Type": "Extremely Fun",
-      "Count": 507
+      "Count": 508
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3431,8 +3437,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-12T17:58:51.2912831+00:00",
   "FirstSeenRating": "2023-10-13T14:59:17.6210713+00:00",
-  "LastChanged": "2024-01-23T01:48:58.3534806+00:00",
+  "LastChanged": "2024-01-23T11:58:38.2549519+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:07.0197299+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:59:20.8579381+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:09:58.0889906+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:58:38.2549523+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:09:25.150168+00:00"
 }

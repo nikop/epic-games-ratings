@@ -5,8 +5,21 @@ Rating: 4.34 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Bring it on! | 14.00% | ~1 |
-| Time to find India | 14.00% | ~1 |
+| Full House | 10.00% | ~2 |
+| There is no Nobility in Poverty | 10.00% | ~2 |
+| Time to find India | 10.00% | ~2 |
+| Blinded by Science | 5.00% | ~1 |
+| Bring it on! | 5.00% | ~1 |
+| Call the Boys | 5.00% | ~1 |
+| Can’t Touch This | 5.00% | ~1 |
+| Forth, Eorlingas! | 5.00% | ~1 |
+| Hail to the King, Baby | 5.00% | ~1 |
+| Help! Help! I’m being repressed | 5.00% | ~1 |
+| Let Us Pray | 5.00% | ~1 |
+| Playerxander the Great | 5.00% | ~1 |
+| The finest merchandise this side of river Jordan | 5.00% | ~1 |
+| ‘Tis but a scratch | 5.00% | ~1 |
+| You reap what you sow | 5.00% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | A Quiet Palace | 0.00% | ~0 |
 | All the King's Men | 0.00% | ~0 |
@@ -15,12 +28,9 @@ Rating: 4.34 (Ranked 851)
 | Big Apple | 0.00% | ~0 |
 | Black Sheep Wall | 0.00% | ~0 |
 | Blessed Be His Name | 0.00% | ~0 |
-| Blinded by Science | 0.00% | ~0 |
 | Zerg Rush | 0.00% | ~0 |
 | Brutus | 0.00% | ~0 |
 | Buyin' the Dip | 0.00% | ~0 |
-| Call the Boys | 0.00% | ~0 |
-| Can’t Touch This | 0.00% | ~0 |
 | Edge of the World | 0.00% | ~0 |
 | Crom, I have never prayed to you before | 0.00% | ~0 |
 | Crusade Invoker, no Regret | 0.00% | ~0 |
@@ -33,17 +43,13 @@ Rating: 4.34 (Ranked 851)
 | Dust and Salt | 0.00% | ~0 |
 | Everything the light touches is our kingdom | 0.00% | ~0 |
 | Fighting with Power and Steel | 0.00% | ~0 |
-| Forth, Eorlingas! | 0.00% | ~0 |
 | Freeeedom! | 0.00% | ~0 |
 | From Rags to Riches | 0.00% | ~0 |
-| Full House | 0.00% | ~0 |
 | Game of Thorns | 0.00% | ~0 |
 | Genghis Khan | 0.00% | ~0 |
 | Greed is Good | 0.00% | ~0 |
 | Hail and Kill | 0.00% | ~0 |
-| Hail to the King, Baby | 0.00% | ~0 |
 | He made it out, but with an arrow in his back | 0.00% | ~0 |
-| Help! Help! I’m being repressed | 0.00% | ~0 |
 | His All-Holiness | 0.00% | ~0 |
 | His Holiness | 0.00% | ~0 |
 | His name is King | 0.00% | ~0 |
@@ -60,7 +66,6 @@ Rating: 4.34 (Ranked 851)
 | Kingdom Fall: Disappearance | 0.00% | ~0 |
 | Kingslayer | 0.00% | ~0 |
 | Learn Me a Book | 0.00% | ~0 |
-| Let Us Pray | 0.00% | ~0 |
 | Let us trade with these fine people | 0.00% | ~0 |
 | Liberty or Death! | 0.00% | ~0 |
 | Lord of the Kings | 0.00% | ~0 |
@@ -72,7 +77,6 @@ Rating: 4.34 (Ranked 851)
 | Our Arrows Will Blot Out the Sun | 0.00% | ~0 |
 | Path of Glory | 0.00% | ~0 |
 | Pillars of the Earth | 0.00% | ~0 |
-| Playerxander the Great | 0.00% | ~0 |
 | Power Overwhelming | 0.00% | ~0 |
 | Prince Ali! Fabulous he! | 0.00% | ~0 |
 | Prison Break | 0.00% | ~0 |
@@ -84,13 +88,10 @@ Rating: 4.34 (Ranked 851)
 | Spartacus | 0.00% | ~0 |
 | The Antipope | 0.00% | ~0 |
 | The Beginning of a Beautiful Friendship | 0.00% | ~0 |
-| The finest merchandise this side of river Jordan | 0.00% | ~0 |
 | The Magnificent Nine | 0.00% | ~0 |
 | The Merchant of Venice | 0.00% | ~0 |
 | The New World Order | 0.00% | ~0 |
-| There is no Nobility in Poverty | 0.00% | ~0 |
 | They Got What They Deserved | 0.00% | ~0 |
-| ‘Tis but a scratch | 0.00% | ~0 |
 | Together We Stand | 0.00% | ~0 |
 | Two Sides to Every Story | 0.00% | ~0 |
 | This is why we're here: Unobtanium | 0.00% | ~0 |
@@ -103,15 +104,14 @@ Rating: 4.34 (Ranked 851)
 | Why is there no culture victory?! | 0.00% | ~0 |
 | You are not the boss of me now | 0.00% | ~0 |
 | You dare challenge the Salamanca? | 0.00% | ~0 |
-| You reap what you sow | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 7 (Ranked 691)  
+Progressed: 20 (Ranked 631)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 7 | 0 |
+| 2024-01-23 | 20 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

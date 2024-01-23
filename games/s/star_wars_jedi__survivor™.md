@@ -1,47 +1,47 @@
 # STAR WARS Jedi: Survivor™
 [Store](https://store.epicgames.com/en-US/p/star-wars-jedi-survivor)  
 [View Rawdata](../../db/s/star_wars_jedi__survivor™.json)  
-Rating: 4.50 (Ranked 622)  
+Rating: 4.50 (Ranked 623)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Rooftop Duel | 99.00% | ~45,340 |
-| For Saw Gerrera | 97.00% | ~44,424 |
-| Grab Some Seat | 85.00% | ~38,928 |
-| Can You Pet the Bogling? | 81.00% | ~37,096 |
-| The Past Made Present | 74.00% | ~33,891 |
-| Survivors, We Adapt | 69.00% | ~31,601 |
-| They Never Saw It Coming | 67.00% | ~30,685 |
-| Among the Masters | 67.00% | ~30,685 |
-| Who Gives a Puck | 62.00% | ~28,395 |
-| Mirror Match | 60.00% | ~27,479 |
-| For the Path | 55.00% | ~25,189 |
-| Now, This Isn't Podracing | 54.00% | ~24,731 |
-| Skywalker | 52.00% | ~23,815 |
-| Out of Bedlam | 50.00% | ~22,899 |
-| Cleaning Up | 49.00% | ~22,441 |
-| Hey, Luke At Us | 42.00% | ~19,235 |
-| Tanalorr Bound | 42.00% | ~19,235 |
-| Tragedy | 40.00% | ~18,319 |
-| Kitted Out | 40.00% | ~18,319 |
-| At the Precipice | 39.00% | ~17,861 |
-| Greezy Money | 38.00% | ~17,403 |
-| Into the Abyss | 37.00% | ~16,945 |
-| Riposte | 37.00% | ~16,945 |
-| A Place You Could Call Home | 36.00% | ~16,487 |
-| Catch! | 34.00% | ~15,571 |
-| They're Probably Fine | 34.00% | ~15,571 |
-| There Is No Try | 29.00% | ~13,281 |
-| Han Slowlo | 28.00% | ~12,823 |
-| The Jedi Path | 24.00% | ~10,992 |
-| This Is Canon | 21.00% | ~9,618 |
-| It's a Trap | 21.00% | ~9,618 |
-| You've Got A Friend | 18.00% | ~8,244 |
-| King of the World | 13.00% | ~5,954 |
-| Reconnaissance | 13.00% | ~5,954 |
-| Max Capacity | 11.00% | ~5,038 |
-| A Presence I've Not Felt Since... | 10.00% | ~4,580 |
-| Slam Dunk | 9.00% | ~4,122 |
+| Rooftop Duel | 99.00% | ~45,348 |
+| For Saw Gerrera | 97.00% | ~44,432 |
+| Grab Some Seat | 85.00% | ~38,935 |
+| Can You Pet the Bogling? | 81.00% | ~37,103 |
+| The Past Made Present | 74.00% | ~33,896 |
+| Survivors, We Adapt | 69.00% | ~31,606 |
+| They Never Saw It Coming | 67.00% | ~30,690 |
+| Among the Masters | 67.00% | ~30,690 |
+| Who Gives a Puck | 62.00% | ~28,400 |
+| Mirror Match | 60.00% | ~27,484 |
+| For the Path | 55.00% | ~25,193 |
+| Now, This Isn't Podracing | 54.00% | ~24,735 |
+| Skywalker | 52.00% | ~23,819 |
+| Out of Bedlam | 50.00% | ~22,903 |
+| Cleaning Up | 49.00% | ~22,445 |
+| Hey, Luke At Us | 42.00% | ~19,239 |
+| Tanalorr Bound | 42.00% | ~19,239 |
+| Tragedy | 40.00% | ~18,322 |
+| Kitted Out | 40.00% | ~18,322 |
+| At the Precipice | 39.00% | ~17,864 |
+| Greezy Money | 38.00% | ~17,406 |
+| Into the Abyss | 37.00% | ~16,948 |
+| Riposte | 37.00% | ~16,948 |
+| A Place You Could Call Home | 36.00% | ~16,490 |
+| Catch! | 34.00% | ~15,574 |
+| They're Probably Fine | 34.00% | ~15,574 |
+| There Is No Try | 29.00% | ~13,284 |
+| Han Slowlo | 28.00% | ~12,826 |
+| The Jedi Path | 24.00% | ~10,993 |
+| This Is Canon | 21.00% | ~9,619 |
+| It's a Trap | 21.00% | ~9,619 |
+| You've Got A Friend | 18.00% | ~8,245 |
+| King of the World | 13.00% | ~5,955 |
+| Reconnaissance | 13.00% | ~5,955 |
+| Max Capacity | 11.00% | ~5,039 |
+| A Presence I've Not Felt Since... | 10.00% | ~4,581 |
+| Slam Dunk | 9.00% | ~4,123 |
 | Star Tours | 8.00% | ~3,664 |
 | Gambler | 8.00% | ~3,664 |
 | Growth Spurt | 7.00% | ~3,206 |
@@ -59,7 +59,7 @@ Rating: 4.50 (Ranked 622)
 | Splurgle | 2.00% | ~916 |
 | Blood, Sweat, and Tears | 2.00% | ~916 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 45,798 (Ranked 131)  
+Progressed: 45,806 (Ranked 131)  
 Completed: 164 (0.36%) (Ranked 254)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -188,14 +188,14 @@ Completed: 164 (0.36%) (Ranked 254)
 | 2024-01-20 | 45,162 | 149 |
 | 2024-01-21 | 45,494 | 155 |
 | 2024-01-22 | 45,714 | 162 |
-| 2024-01-23 | 45,798 | 164 |
+| 2024-01-23 | 45,806 | 164 |
 ## Awards
-Max (Great Boss Battles): 8,638  (Ranked 49)  
-Sum: 14,234 (Ranked 81)  
-Diff (max vs sum): -32  
+Max (Great Boss Battles): 8,730  (Ranked 47)  
+Sum: 14,326 (Ranked 81)  
+Diff (max vs sum): -34  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 8,638 |
+| This game has Great Boss Battles | 8,730 |
 | This game is Highly Recommended | 688 |
 | This game is Extremely Fun | 667 |
 | This game has Quickly Understood Controls | 661 |
@@ -476,4 +476,4 @@ Diff (max vs sum): -32
 | 2024-01-20 | 4.50 | 8,374 | 13,689 |
 | 2024-01-21 | 4.50 | 8,522 | 13,936 |
 | 2024-01-22 | 4.50 | 8,638 | 14,184 |
-| 2024-01-23 | 4.50 | 8,638 | 14,234 |
+| 2024-01-23 | 4.50 | 8,730 | 14,326 |

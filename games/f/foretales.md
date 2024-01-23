@@ -8,8 +8,8 @@
 | Gorilla warfare | 58.00% | ~176 |
 | Isenburg's fall | 49.00% | ~148 |
 | Pieces of eight! | 42.00% | ~127 |
+| Elephant in the room | 32.00% | ~97 |
 | Aboard the Sea Bird | 31.00% | ~94 |
-| Elephant in the room | 31.00% | ~94 |
 | Dark and stinky | 29.00% | ~88 |
 | Is this the end? | 25.00% | ~76 |
 | A gift horse | 25.00% | ~76 |

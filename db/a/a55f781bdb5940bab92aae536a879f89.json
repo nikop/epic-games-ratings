@@ -2,7 +2,7 @@
   "ID": "a55f781bdb5940bab92aae536a879f89",
   "Name": "Legendary Road Online",
   "ProductSlug": "legendary-road-online-e3f617",
-  "Ranking_Rating": 1051,
+  "Ranking_Rating": 1078,
   "Ranking_Popularity": 591,
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 847,
@@ -22,11 +22,17 @@
       "isManuallySetPCReleaseDate": "true"
     }
   },
-  "Rating": 4.05,
+  "Rating": 3.92,
   "RatingHistory": [
     {
       "Time": "2024-01-22T13:07:31.6222476+00:00",
       "Rating": 4.05,
+      "NumberOfAwards": 0,
+      "NumberOfAwardsMax": 0
+    },
+    {
+      "Time": "2024-01-23T11:59:58.3641066+00:00",
+      "Rating": 3.92,
       "NumberOfAwards": 0,
       "NumberOfAwardsMax": 0
     }
@@ -47,8 +53,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-12-05T11:58:13.01852+00:00",
   "FirstSeenRating": "2024-01-22T13:07:31.6222474+00:00",
-  "LastChanged": "2024-01-22T13:07:31.6222475+00:00",
+  "LastChanged": "2024-01-23T11:59:58.3641064+00:00",
   "LastUpdate_AppInfo": "2024-01-21T20:57:03.9145265+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:01:24.2013935+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:09:26.9430005+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:59:58.364107+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:09:02.6210376+00:00"
 }

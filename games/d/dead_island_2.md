@@ -5,24 +5,24 @@ Rating: 4.54 (Ranked 554)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Welcome To Hell-A | 11.00% | ~88,934 |
-| Hotel California | 10.00% | ~80,849 |
-| Break A Leg | 9.00% | ~72,764 |
-| Coup de Grâce | 8.00% | ~64,679 |
-| Hazardous Materials | 8.00% | ~64,679 |
-| Git Gutte! | 7.00% | ~56,594 |
-| Apex Predator | 7.00% | ~56,594 |
-| Personal Assistant Personally Assisted | 7.00% | ~56,594 |
-| Dr. Reed, I Presume? | 6.00% | ~48,509 |
-| Bookworm | 6.00% | ~48,509 |
-| Friends Like These | 6.00% | ~48,509 |
-| Stacking the Deck | 6.00% | ~48,509 |
-| This is My Weapon | 6.00% | ~48,509 |
-| Anger Management | 5.00% | ~40,424 |
-| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,424 |
-| But Doctor, I am Butcho | 5.00% | ~40,424 |
-| Can't Handle the Truth | 5.00% | ~40,424 |
-| Like Riding a Bike | 5.00% | ~40,424 |
+| Welcome To Hell-A | 11.00% | ~88,936 |
+| Hotel California | 10.00% | ~80,851 |
+| Break A Leg | 9.00% | ~72,766 |
+| Coup de Grâce | 8.00% | ~64,681 |
+| Hazardous Materials | 8.00% | ~64,681 |
+| Git Gutte! | 7.00% | ~56,596 |
+| Apex Predator | 7.00% | ~56,596 |
+| Personal Assistant Personally Assisted | 7.00% | ~56,596 |
+| Dr. Reed, I Presume? | 6.00% | ~48,511 |
+| Bookworm | 6.00% | ~48,511 |
+| Friends Like These | 6.00% | ~48,511 |
+| Stacking the Deck | 6.00% | ~48,511 |
+| This is My Weapon | 6.00% | ~48,511 |
+| Anger Management | 5.00% | ~40,426 |
+| I Got a Zombie Army and You Can't Harm Me | 5.00% | ~40,426 |
+| But Doctor, I am Butcho | 5.00% | ~40,426 |
+| Can't Handle the Truth | 5.00% | ~40,426 |
+| Like Riding a Bike | 5.00% | ~40,426 |
 | Making Your Mark | 4.00% | ~32,340 |
 | Perks of the Job | 4.00% | ~32,340 |
 | Slayer Squad | 4.00% | ~32,340 |
@@ -31,15 +31,15 @@ Rating: 4.54 (Ranked 554)
 | A Patton Emerges | 4.00% | ~32,340 |
 | I Am the Resurrection | 4.00% | ~32,340 |
 | Our True Nature | 4.00% | ~32,340 |
-| Whatever It Takes | 4.00% | ~5,361 |
-| Pork Chopped | 4.00% | ~5,361 |
+| Whatever It Takes | 4.00% | ~5,362 |
+| Pork Chopped | 4.00% | ~5,362 |
 | Jumbo Keyring | 3.00% | ~24,255 |
 | Humanity Distilled | 3.00% | ~24,255 |
 | Down with the Sickness | 3.00% | ~24,255 |
 | Max Headroom | 3.00% | ~24,255 |
 | Go, Bobcats! | 3.00% | ~24,255 |
 | Rising Star | 3.00% | ~24,255 |
-| One of Us | 3.00% | ~4,021 |
+| One of Us | 3.00% | ~4,022 |
 | Make it So | 2.00% | ~16,170 |
 | Smorgasbord | 2.00% | ~16,170 |
 | Not Even My Final Form | 2.00% | ~16,170 |
@@ -54,10 +54,10 @@ Rating: 4.54 (Ranked 554)
 | Top That, Tisha! | 0.60% | ~804 |
 | Donk! | 0.40% | ~3,234 |
 | Lawn and Order | 0.30% | ~402 |
-| Bucket List | 0.10% | ~808 |
+| Bucket List | 0.10% | ~809 |
 | Wilhelm | 0.10% | ~134 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 808,490 (Ranked 23)  
+Progressed: 808,512 (Ranked 23)  
 Completed: 2,626 (0.32%) (Ranked 261)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -335,14 +335,14 @@ Completed: 2,626 (0.32%) (Ranked 261)
 | 2024-01-20 | 807,210 | 2,613 |
 | 2024-01-21 | 807,904 | 2,617 |
 | 2024-01-22 | 808,345 | 2,624 |
-| 2024-01-23 | 808,490 | 2,626 |
+| 2024-01-23 | 808,512 | 2,626 |
 ## Awards
-Max (Great Boss Battles): 10,811  (Ranked 40)  
-Sum: 16,641 (Ranked 68)  
+Max (Great Boss Battles): 10,850  (Ranked 40)  
+Sum: 16,680 (Ranked 68)  
 Diff (max vs sum): -28  
 | Award | Count |
 | ----- | ----- |
-| This game has Great Boss Battles | 10,811 |
+| This game has Great Boss Battles | 10,850 |
 | This game is Great for Beginners | 851 |
 | This game has Diverse Characters | 800 |
 | This game has Quickly Understood Controls | 756 |
@@ -631,4 +631,4 @@ Diff (max vs sum): -28
 | 2024-01-20 | 4.54 | 10,713 | 16,454 |
 | 2024-01-21 | 4.54 | 10,767 | 16,552 |
 | 2024-01-22 | 4.54 | 10,811 | 16,633 |
-| 2024-01-23 | 4.54 | 10,811 | 16,641 |
+| 2024-01-23 | 4.54 | 10,850 | 16,680 |

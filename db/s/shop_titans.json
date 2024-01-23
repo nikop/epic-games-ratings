@@ -2,12 +2,12 @@
   "ID": "9696e0c7c26841789a152588c744d506",
   "Name": "Shop Titans",
   "ProductSlug": "shop-titans-d95c1c",
-  "Ranking_Rating": 1060,
+  "Ranking_Rating": 1059,
   "Ranking_Popularity": 84,
   "Ranking_PopularitySum": 52,
   "Ranking_EOS_Progress": 87,
   "Ranking_EOS_Completed": 279,
-  "Ranking_EOS_NewPlayers": 76,
+  "Ranking_EOS_NewPlayers": 77,
   "Ranking_EOS_NewCompleters": 51,
   "Store": {
     "ReleaseDate": "2022-07-21T15:00:00+00:00",
@@ -8293,9 +8293,9 @@
       "Count": 3828
     }
   ],
-  "EOS_Progressed": 152560,
+  "EOS_Progressed": 152565,
   "EOS_Completed": 360,
-  "EOS_NewPlayers": 1174,
+  "EOS_NewPlayers": 1172,
   "EOS_NewCompleters": 5,
   "EOS_Completed_Percentage": 0.24,
   "EosHistory": [
@@ -37838,6 +37838,11 @@
       "Time": "2024-01-23T11:10:06.1567605+00:00",
       "NumProgressed": 152560,
       "NumCompleted": 360
+    },
+    {
+      "Time": "2024-01-23T12:09:31.0892292+00:00",
+      "NumProgressed": 152565,
+      "NumCompleted": 360
     }
   ],
   "TotalAchievements": 112,
@@ -38017,7 +38022,7 @@
       "Name": "Sponsored by Argon",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18307
+      "UsersEstimate": 18308
     },
     {
       "ID": "chest02",
@@ -38089,7 +38094,7 @@
       "Name": "Demand for Supplies",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "commonres03",
@@ -38121,7 +38126,7 @@
       "Name": "Flooding the Market",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "craft03",
@@ -38313,7 +38318,7 @@
       "Name": "Gem Expert",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "gold01",
@@ -38337,7 +38342,7 @@
       "Name": "Gild-Gotten Goods",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "gold04",
@@ -38433,7 +38438,7 @@
       "Name": "Budding Merchant",
       "Percentage": 7,
       "XP": 10,
-      "UsersEstimate": 10679
+      "UsersEstimate": 10680
     },
     {
       "ID": "level02",
@@ -38441,7 +38446,7 @@
       "Name": "Accomplished Merchant",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "level03",
@@ -38497,7 +38502,7 @@
       "Name": "Anything not Nailed Down",
       "Percentage": 0.8,
       "XP": 10,
-      "UsersEstimate": 1220
+      "UsersEstimate": 1221
     },
     {
       "ID": "master01",
@@ -38561,7 +38566,7 @@
       "Name": "Did we pack lunch?",
       "Percentage": 4,
       "XP": 5,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "quest02",
@@ -38665,7 +38670,7 @@
       "Name": "Titan\u0027s First Steps",
       "Percentage": 12,
       "XP": 5,
-      "UsersEstimate": 18307
+      "UsersEstimate": 18308
     },
     {
       "ID": "twinenchant01",
@@ -38721,7 +38726,7 @@
       "Name": "Arcane Industries",
       "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 6102
+      "UsersEstimate": 6103
     },
     {
       "ID": "workers03",
@@ -38744,15 +38749,15 @@
     {
       "ID": "anfd17p",
       "IsBase": true,
-      "Progressed": 152560,
+      "Progressed": 152565,
       "Completed": 360
     }
   ],
   "FirstSeen": "2022-07-22T20:18:09.8321215+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:59.5794011+00:00",
   "LastChanged": "2024-01-22T09:03:38.5579473+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:10:06.1567601+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:09:31.0892289+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:48.5239917+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:03:45.5013161+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:10:06.1570109+00:00"
+  "LastUpdate_Ratings": "2024-01-23T12:03:21.4129392+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:09:31.0894515+00:00"
 }

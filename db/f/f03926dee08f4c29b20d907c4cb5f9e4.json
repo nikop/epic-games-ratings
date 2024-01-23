@@ -4,7 +4,7 @@
   "ProductSlug": "horse-club-adventures-2-hazelwood-stories-b257d3",
   "Ranking_EOS_Progress": 553,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 475,
+  "Ranking_EOS_NewPlayers": 476,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-07-06T10:00:00+00:00",
@@ -473,9 +473,9 @@
       "ID": "ACH_19_HORSE_FRIENDS",
       "SetID": "9loam6m",
       "Name": "Horse friends",
-      "Percentage": 80,
+      "Percentage": 82,
       "XP": 10,
-      "UsersEstimate": 48
+      "UsersEstimate": 49
     },
     {
       "ID": "ACH_20_HORSE_LANGUAGE",
@@ -489,9 +489,9 @@
       "ID": "ACH_21_FIRST_RACE",
       "SetID": "9loam6m",
       "Name": "First race",
-      "Percentage": 77,
+      "Percentage": 78,
       "XP": 10,
-      "UsersEstimate": 46
+      "UsersEstimate": 47
     },
     {
       "ID": "ACH_22_HORSE_RACES",
@@ -537,9 +537,9 @@
       "ID": "ACH_27_HORSEMANSHIP",
       "SetID": "9loam6m",
       "Name": "Horsemanship",
-      "Percentage": 62,
+      "Percentage": 63,
       "XP": 10,
-      "UsersEstimate": 37
+      "UsersEstimate": 38
     },
     {
       "ID": "ACH_28_THE_FINE_ART",
@@ -672,8 +672,8 @@
   ],
   "FirstSeen": "2023-07-23T11:57:26.6885781+00:00",
   "FirstSeenAchievements": "2023-07-05T11:01:11.7064759+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:06:30.3881435+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:05:15.17292+00:00",
   "LastUpdate_AppInfo": "2024-01-18T06:57:11.0232163+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:59:18.5184895+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:06:30.3881715+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:58:36.8620709+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:05:15.1729551+00:00"
 }

@@ -24,10 +24,10 @@
 | Spirit of the past | 57.00% | ~344 |
 | Employee of the month | 56.00% | ~338 |
 | Law student | 55.00% | ~332 |
+| Little hacker | 52.00% | ~314 |
 | Handyman | 52.00% | ~314 |
 | Workout professional | 51.00% | ~308 |
 | Fight for life | 51.00% | ~308 |
-| Little hacker | 51.00% | ~308 |
 | Champion – starter pack | 51.00% | ~308 |
 | It's good to be alive | 51.00% | ~308 |
 | Intriguing candies | 51.00% | ~308 |

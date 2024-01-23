@@ -10,8 +10,8 @@
 | No Fear of the Dark | 42.00% | ~13 |
 | Egyptologist | 42.00% | ~13 |
 | They’re Watching | 39.00% | ~12 |
+| Art Connoisseur | 39.00% | ~12 |
 | The Last Skull | 39.00% | ~12 |
-| Art Connoisseur | 35.00% | ~11 |
 | Survivor | 35.00% | ~11 |
 | Master of Riddles | 32.00% | ~10 |
 | The Witch’s Haunt | 29.00% | ~9 |

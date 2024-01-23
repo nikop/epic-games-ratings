@@ -24,7 +24,7 @@ Number of Ratings: 124  (23.09.2022)
 | Storyteller | 16.00% | ~45 |
 | Berserker | 16.00% | ~45 |
 | Globetrotter | 15.00% | ~42 |
-| Hunter | 13.00% | ~37 |
+| Hunter | 14.00% | ~40 |
 | Lover | 13.00% | ~37 |
 | Beam Me Up | 12.00% | ~34 |
 | Alb | 12.00% | ~34 |
@@ -33,8 +33,8 @@ Number of Ratings: 124  (23.09.2022)
 | Treasure Hunter | 9.00% | ~25 |
 | Weaponsmith | 8.00% | ~23 |
 | Hotshot | 8.00% | ~23 |
+| Cleric | 8.00% | ~23 |
 | Detective | 8.00% | ~23 |
-| Cleric | 7.00% | ~20 |
 | Alchemist | 5.00% | ~14 |
 | Self-Sufficient | 5.00% | ~14 |
 | Unbreakable | 5.00% | ~14 |

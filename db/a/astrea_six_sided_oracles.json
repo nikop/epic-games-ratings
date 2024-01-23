@@ -4,7 +4,7 @@
   "ProductSlug": "astrea-six-sided-oracles-33c949",
   "Ranking_EOS_Progress": 378,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 361,
+  "Ranking_EOS_NewPlayers": 362,
   "Ranking_EOS_NewCompleters": 141,
   "Store": {
     "ReleaseDate": "2023-09-21T16:00:00+00:00",
@@ -1657,9 +1657,9 @@
       "ID": "AnomalyDestroyer",
       "SetID": "1jeo1g7",
       "Name": "Anomaly Destroyer",
-      "Percentage": 33,
+      "Percentage": 34,
       "XP": 10,
-      "UsersEstimate": 129
+      "UsersEstimate": 133
     },
     {
       "ID": "AnomalyMaster",
@@ -1737,9 +1737,9 @@
       "ID": "AstralAdventurer",
       "SetID": "1jeo1g7",
       "Name": "Astral Adventurer",
-      "Percentage": 35,
+      "Percentage": 36,
       "XP": 5,
-      "UsersEstimate": 137
+      "UsersEstimate": 141
     },
     {
       "ID": "AstralSeeker",
@@ -2440,8 +2440,8 @@
   ],
   "FirstSeen": "2023-09-22T09:00:40.724474+00:00",
   "FirstSeenAchievements": "2023-08-22T14:07:42.2717057+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:09:56.0484621+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:09:23.7406059+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.6848498+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:59:18.4168634+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:09:56.0485532+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:58:36.8168108+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:09:23.7406887+00:00"
 }

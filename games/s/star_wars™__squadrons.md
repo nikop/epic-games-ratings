@@ -4,23 +4,23 @@
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Fracture at Fostar Haven | 95.00% | ~41,472 |
-| Safety in the Storm | 23.00% | ~10,041 |
-| A Better Idea | 23.00% | ~10,041 |
-| Begin the Ceremony | 19.00% | ~8,294 |
-| Mission Accomplished | 18.00% | ~7,858 |
-| The Galaxy's Finest (Story Mode) | 15.00% | ~6,548 |
-| A Starfighter of Your Own | 13.00% | ~5,675 |
-| Asset Secured | 12.00% | ~5,239 |
+| Fracture at Fostar Haven | 95.00% | ~41,480 |
+| Safety in the Storm | 23.00% | ~10,042 |
+| A Better Idea | 23.00% | ~10,042 |
+| Begin the Ceremony | 19.00% | ~8,296 |
+| Mission Accomplished | 18.00% | ~7,859 |
+| The Galaxy's Finest (Story Mode) | 15.00% | ~6,549 |
+| A Starfighter of Your Own | 13.00% | ~5,676 |
+| Asset Secured | 12.00% | ~5,240 |
 | Unkillable | 7.00% | ~3,056 |
 | Together, Vanguard | 7.00% | ~3,056 |
-| The Galaxy's Finest (Pilot) | 6.00% | ~2,619 |
+| The Galaxy's Finest (Pilot) | 6.00% | ~2,620 |
 | Sound Strategy | 5.00% | ~2,183 |
 | Stomped | 5.00% | ~2,183 |
-| Fearless | 4.00% | ~1,746 |
-| Back From the Brink | 4.00% | ~1,746 |
-| Flames Over Mon Cala | 4.00% | ~1,746 |
-| A Promising Career | 4.00% | ~1,746 |
+| Fearless | 4.00% | ~1,747 |
+| Back From the Brink | 4.00% | ~1,747 |
+| Flames Over Mon Cala | 4.00% | ~1,747 |
+| A Promising Career | 4.00% | ~1,747 |
 | Great Shot, Kid | 3.00% | ~1,310 |
 | Stronger Together | 3.00% | ~1,310 |
 | Temporary Guardian | 3.00% | ~1,310 |
@@ -52,7 +52,7 @@
 | The Galaxy's Finest (Ace) | 0.10% | ~44 |
 | Ultimate Weapon | 0.10% | ~44 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 43,655 (Ranked 136)  
+Progressed: 43,663 (Ranked 136)  
 Completed: 3 (0.01%) (Ranked 383)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -181,7 +181,7 @@ Completed: 3 (0.01%) (Ranked 383)
 | 2024-01-20 | 42,941 | 3 |
 | 2024-01-21 | 43,332 | 3 |
 | 2024-01-22 | 43,563 | 3 |
-| 2024-01-23 | 43,655 | 3 |
+| 2024-01-23 | 43,663 | 3 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

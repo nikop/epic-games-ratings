@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 41,
   "Ranking_EOS_Progress": 71,
   "Ranking_EOS_Completed": 180,
-  "Ranking_EOS_NewPlayers": 81,
+  "Ranking_EOS_NewPlayers": 82,
   "Ranking_EOS_NewCompleters": 26,
   "Store": {
     "ReleaseDate": "2021-02-16T17:00:00+00:00",
@@ -9781,9 +9781,9 @@
       "Count": 3653
     }
   ],
-  "EOS_Progressed": 255273,
+  "EOS_Progressed": 255277,
   "EOS_Completed": 2633,
-  "EOS_NewPlayers": 1124,
+  "EOS_NewPlayers": 1120,
   "EOS_NewCompleters": 14,
   "EOS_Completed_Percentage": 1.03,
   "EosHistory": [
@@ -41336,6 +41336,11 @@
       "Time": "2024-01-23T11:11:24.6880706+00:00",
       "NumProgressed": 255273,
       "NumCompleted": 2633
+    },
+    {
+      "Time": "2024-01-23T12:10:29.3623491+00:00",
+      "NumProgressed": 255277,
+      "NumCompleted": 2633
     }
   ],
   "TotalAchievements": 546,
@@ -41715,7 +41720,7 @@
       "Name": "Beast Intentions",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "objective_completed_110",
@@ -43019,7 +43024,7 @@
       "Name": "The Cursed Farmer",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "objective_completed_34",
@@ -44491,7 +44496,7 @@
       "Name": "The Mad Wizard",
       "Percentage": 2,
       "XP": 5,
-      "UsersEstimate": 5105
+      "UsersEstimate": 5106
     },
     {
       "ID": "objective_completed_70",
@@ -45714,21 +45719,21 @@
     {
       "ID": "415jc5c",
       "IsBase": false,
-      "Progressed": 221547,
+      "Progressed": 221551,
       "Completed": 4159
     },
     {
       "ID": "cc37lbc",
       "IsBase": true,
-      "Progressed": 255273,
+      "Progressed": 255277,
       "Completed": 2633
     }
   ],
   "FirstSeen": "2022-07-22T20:16:45.6649581+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.9871825+00:00",
   "LastChanged": "2024-01-23T06:58:44.3058378+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:11:24.6880703+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:10:29.3623489+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:25.380597+00:00",
-  "LastUpdate_Ratings": "2024-01-23T10:58:43.5266863+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:11:24.690283+00:00"
+  "LastUpdate_Ratings": "2024-01-23T11:58:13.4903434+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:10:29.3645586+00:00"
 }

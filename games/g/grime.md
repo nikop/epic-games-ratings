@@ -10,7 +10,7 @@ Number of Ratings: 46  (23.09.2022)
 | Taste | 4.00% | ~6,775 |
 | The Hunt | 3.00% | ~5,081 |
 | Ravenous | 3.00% | ~5,081 |
-| Weeper | 2.00% | ~3,387 |
+| Weeper | 2.00% | ~3,388 |
 | Harmless | 1.00% | ~1,694 |
 | Feast | 1.00% | ~1,694 |
 | Silenced Whispers | 1.00% | ~1,694 |
@@ -29,11 +29,11 @@ Number of Ratings: 46  (23.09.2022)
 | Celebration | 0.60% | ~1,016 |
 | Hunt Down | 0.50% | ~847 |
 | Inevitable | 0.50% | ~847 |
-| Artisan | 0.40% | ~677 |
-| Hush | 0.40% | ~677 |
-| All-Seeing | 0.40% | ~677 |
-| Breathsmith | 0.40% | ~677 |
-| Unwrap the Gift | 0.40% | ~677 |
+| Artisan | 0.40% | ~678 |
+| Hush | 0.40% | ~678 |
+| All-Seeing | 0.40% | ~678 |
+| Breathsmith | 0.40% | ~678 |
+| Unwrap the Gift | 0.40% | ~678 |
 | Dream | 0.40% | ~676 |
 | Breath | 0.30% | ~508 |
 | Passage | 0.30% | ~508 |
@@ -53,7 +53,7 @@ Number of Ratings: 46  (23.09.2022)
 | Enrich | 0.10% | ~169 |
 | Intensify | 0.10% | ~169 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 169,372 (Ranked 85)  
+Progressed: 169,376 (Ranked 85)  
 Completed: 467 (0.28%) (Ranked 269)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -308,7 +308,7 @@ Completed: 467 (0.28%) (Ranked 269)
 | 2024-01-20 | 169,084 | 462 |
 | 2024-01-21 | 169,214 | 465 |
 | 2024-01-22 | 169,324 | 467 |
-| 2024-01-23 | 169,372 | 467 |
+| 2024-01-23 | 169,376 | 467 |
 ## Awards
 Max (Highly Recommended): 64  (Ranked 431)  
 Sum: 468 (Ranked 347)  

@@ -3,7 +3,7 @@
   "Name": "20 Minutes Till Dawn",
   "ProductSlug": "20-minutes-till-dawn-be3305",
   "Ranking_Rating": 430,
-  "Ranking_Popularity": 223,
+  "Ranking_Popularity": 221,
   "Ranking_PopularitySum": 327,
   "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
@@ -269,18 +269,24 @@
       "Rating": 4.6,
       "NumberOfAwards": 597,
       "NumberOfAwardsMax": 533
+    },
+    {
+      "Time": "2024-01-23T12:00:19.3570306+00:00",
+      "Rating": 4.6,
+      "NumberOfAwards": 608,
+      "NumberOfAwardsMax": 543
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 597,
-  "NumberOfAwardsMax": 533,
+  "NumberOfAwards": 608,
+  "NumberOfAwardsMax": 543,
   "MaxAwardTitle": "Great Boss Battles",
   "Tags": [
     {
       "Text": "This game has Great Boss Battles",
       "Prefix": "This game has",
       "Type": "Great Boss Battles",
-      "Count": 533
+      "Count": 543
     },
     {
       "Text": "This game has Amazing Characters",
@@ -292,7 +298,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 22
+      "Count": 23
     },
     {
       "Text": "This game is Extremely Fun",
@@ -313,8 +319,8 @@
   "AchievementSets": [],
   "FirstSeen": "2024-01-02T18:57:16.5662622+00:00",
   "FirstSeenRating": "2024-01-03T11:57:34.3437098+00:00",
-  "LastChanged": "2024-01-22T09:59:34.1769143+00:00",
+  "LastChanged": "2024-01-23T12:00:19.3570304+00:00",
   "LastUpdate_AppInfo": "2024-01-16T17:57:01.8832001+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:01:52.9219011+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:07:41.0141136+00:00"
+  "LastUpdate_Ratings": "2024-01-23T12:00:19.3570308+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:06:05.1760085+00:00"
 }

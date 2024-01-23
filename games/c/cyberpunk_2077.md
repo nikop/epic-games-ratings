@@ -1,7 +1,7 @@
 # Cyberpunk 2077
 [Store](https://store.epicgames.com/en-US/p/cyberpunk-2077)  
 [View Rawdata](../../db/c/cyberpunk_2077.json)  
-Rating: 4.67 (Ranked 288)  
+Rating: 4.68 (Ranked 266)  
 Number of Ratings: 32,700  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -31,7 +31,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | True Warrior | 0.40% | ~4,230 |
 | The Wandering Fool | 0.30% | ~3,173 |
 | Two Heads, One Bullet | 0.30% | ~3,173 |
-| Spin Doctor | 0.30% | ~558 |
+| Spin Doctor | 0.30% | ~559 |
 | To Bad Decisions! | 0.20% | ~2,115 |
 | Breathtaking | 0.20% | ~2,115 |
 | Ten out of Ten | 0.20% | ~2,115 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,543 (Ranked 17)  
+Progressed: 1,057,563 (Ranked 17)  
 Completed: 3,151 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,15 +352,15 @@ Completed: 3,151 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,543 | 3,151 |
+| 2024-01-23 | 1,057,563 | 3,151 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
-Sum: 514,887 (Ranked 8)  
+Sum: 515,250 (Ranked 8)  
 Diff (max vs sum): 0  
 | Award | Count |
 | ----- | ----- |
 | This game has Inclusive Character Customization | 144,045 |
-| This game has Great Boss Battles | 107,512 |
+| This game has Great Boss Battles | 107,875 |
 | This game is Great for Beginners | 33,062 |
 | This game has Diverse Characters | 32,307 |
 | This game is Highly Recommended | 30,761 |
@@ -742,4 +742,4 @@ Diff (max vs sum): 0
 | 2024-01-20 | 4.67 | - | 143,148 | 509,082 |
 | 2024-01-21 | 4.67 | - | 143,675 | 511,877 |
 | 2024-01-22 | 4.67 | - | 144,045 | 514,199 |
-| 2024-01-23 | 4.67 | - | 144,045 | 514,887 |
+| 2024-01-23 | 4.68 | - | 144,045 | 515,250 |

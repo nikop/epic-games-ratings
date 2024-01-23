@@ -3053,9 +3053,9 @@
       "Count": 224
     }
   ],
-  "EOS_Progressed": 35415,
+  "EOS_Progressed": 35417,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 1478,
+  "EOS_NewPlayers": 1471,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -18113,6 +18113,11 @@
       "Time": "2024-01-23T11:10:43.9231017+00:00",
       "NumProgressed": 35415,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T12:09:57.7842046+00:00",
+      "NumProgressed": 35417,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-09-18T12:03:38.4464278+00:00",
@@ -18141,7 +18146,7 @@
       "Name": "I hate portals",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "Achievement_Trophy04",
@@ -18221,7 +18226,7 @@
       "Name": "Down the hatch",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "Achievement_Trophy14",
@@ -18229,7 +18234,7 @@
       "Name": "An eye for an eye",
       "Percentage": 3,
       "XP": 20,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "Achievement_Trophy15",
@@ -18237,7 +18242,7 @@
       "Name": "The Cephalophore",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 1062
+      "UsersEstimate": 1063
     },
     {
       "ID": "Achievement_Trophy16",
@@ -18293,7 +18298,7 @@
       "Name": "Precious!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 5312
+      "UsersEstimate": 5313
     },
     {
       "ID": "Achievement_Trophy23",
@@ -18325,7 +18330,7 @@
       "Name": "Overkill",
       "Percentage": 33,
       "XP": 15,
-      "UsersEstimate": 11687
+      "UsersEstimate": 11688
     },
     {
       "ID": "Achievement_Trophy27",
@@ -18365,7 +18370,7 @@
       "Name": "A normal day in Gloomhaven",
       "Percentage": 29,
       "XP": 15,
-      "UsersEstimate": 10270
+      "UsersEstimate": 10271
     },
     {
       "ID": "Achievement_Trophy32",
@@ -18421,7 +18426,7 @@
       "Name": "Mine... All Mine...",
       "Percentage": 16,
       "XP": 15,
-      "UsersEstimate": 5666
+      "UsersEstimate": 5667
     },
     {
       "ID": "Achievement_Trophy39",
@@ -18501,7 +18506,7 @@
       "Name": "Doom and gloom",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 3187
+      "UsersEstimate": 3188
     },
     {
       "ID": "Achievement_Trophy49",
@@ -18612,7 +18617,7 @@
     {
       "ID": "724h0m0",
       "IsBase": true,
-      "Progressed": 35415,
+      "Progressed": 35417,
       "Completed": 1
     }
   ],
@@ -18620,8 +18625,8 @@
   "FirstSeenRating": "2022-09-23T05:01:45.7957206+00:00",
   "FirstSeenAchievements": "2023-08-30T09:00:18.7791652+00:00",
   "LastChanged": "2024-01-22T23:00:46.1742152+00:00",
-  "LastChanged_Achievements": "2024-01-23T11:10:43.9231015+00:00",
+  "LastChanged_Achievements": "2024-01-23T12:09:57.7842043+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:49.3369443+00:00",
-  "LastUpdate_Ratings": "2024-01-23T11:03:00.7474474+00:00",
-  "LastUpdate_Achievements": "2024-01-23T11:10:43.9231884+00:00"
+  "LastUpdate_Ratings": "2024-01-23T12:02:52.1074305+00:00",
+  "LastUpdate_Achievements": "2024-01-23T12:09:57.7843+00:00"
 }

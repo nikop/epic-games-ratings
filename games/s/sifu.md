@@ -34,8 +34,8 @@ Number of Ratings: 9,492  (23.09.2022)
 | Fight the way you practice | 0.90% | ~646 |
 | Muk Yan Master | 0.80% | ~6,100 |
 | Detective Story | 0.80% | ~6,100 |
-| Tiger on Fire | 0.70% | ~5,337 |
-| Source of Flying Daggers | 0.70% | ~5,337 |
+| Tiger on Fire | 0.70% | ~5,338 |
+| Source of Flying Daggers | 0.70% | ~5,338 |
 | Bloody Sport | 0.70% | ~503 |
 | Martial Hub | 0.70% | ~503 |
 | Iron Money | 0.60% | ~4,575 |
@@ -49,10 +49,10 @@ Number of Ratings: 9,492  (23.09.2022)
 | Knowledge Greed | 0.40% | ~3,050 |
 | The Pit Protector | 0.40% | ~3,050 |
 | Come Snap With Me | 0.40% | ~3,050 |
-| Healing Memory | 0.30% | ~2,287 |
-| Master of the Phoenix Eye Fist | 0.30% | ~2,287 |
-| Ferocity, speed, strength, accuracy | 0.30% | ~2,287 |
-| Be like water my friend | 0.30% | ~2,287 |
+| Healing Memory | 0.30% | ~2,288 |
+| Master of the Phoenix Eye Fist | 0.30% | ~2,288 |
+| Ferocity, speed, strength, accuracy | 0.30% | ~2,288 |
+| Be like water my friend | 0.30% | ~2,288 |
 | Deadly Venom | 0.30% | ~215 |
 | A Touch of Acumen | 0.30% | ~215 |
 | Secure, Protect, Leave | 0.20% | ~144 |
@@ -60,14 +60,14 @@ Number of Ratings: 9,492  (23.09.2022)
 | Skill and an even stronger will | 0.20% | ~144 |
 | Master of the Flying Assassins | 0.20% | ~144 |
 | Beatmaker | 0.20% | ~144 |
-| Warriors from the Mountain | 0.10% | ~762 |
+| Warriors from the Mountain | 0.10% | ~763 |
 | Hidden Dragon | 0.10% | ~72 |
 | Here Cometh the Iceman | 0.10% | ~72 |
 | Fighter in the Pond | 0.10% | ~72 |
 | Bonus Stage | 0.10% | ~72 |
 | A Bit Of Everything, Simultaneously | 0.10% | ~72 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 762,492 (Ranked 26)  
+Progressed: 762,504 (Ranked 26)  
 Completed: 13,005 (1.71%) (Ranked 150)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -345,7 +345,7 @@ Completed: 13,005 (1.71%) (Ranked 150)
 | 2024-01-20 | 762,069 | 13,000 |
 | 2024-01-21 | 762,261 | 13,003 |
 | 2024-01-22 | 762,418 | 13,004 |
-| 2024-01-23 | 762,492 | 13,005 |
+| 2024-01-23 | 762,504 | 13,005 |
 ## Awards
 Max (Great Boss Battles): 7,269  (Ranked 58)  
 Sum: 12,863 (Ranked 88)  
