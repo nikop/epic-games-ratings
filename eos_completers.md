@@ -163,7 +163,7 @@
 | 161 | [Deponia Doomsday](games/d/deponia_doomsday.md) | 1.30% |
 | 161 | [Ten Dates](games/t/ten_dates.md) | 1.30% |
 | 163 | [Poosh XL](games/p/poosh_xl.md) | 1.28% |
-| 164 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.26% |
+| 164 | [CHUCHEL](games/0/092bbf0d7e2449c08271cae2fb791cf2.md) | 1.25% |
 | 165 | [Hotel Renovator](games/h/hotel_renovator.md) | 1.22% |
 | 165 | [The Devil's Face](games/t/the_devil's_face.md) | 1.22% |
 | 167 | [Quake II](games/a/a5434b28a3ac403e966478e86a839f5b.md) | 1.21% |
