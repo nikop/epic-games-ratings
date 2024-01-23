@@ -2669,9 +2669,9 @@
       "ID": "Collect_HealthStone_CapacityUpgrade_4",
       "SetID": "7a5k76n",
       "Name": "Maximum Capacity",
-      "Percentage": 23,
+      "Percentage": 24,
       "XP": 20,
-      "UsersEstimate": 156
+      "UsersEstimate": 163
     },
     {
       "ID": "Collect_HealthStone_HealUpgrade_1",
@@ -3125,8 +3125,8 @@
   "FirstSeen": "2022-07-22T20:19:42.0719795+00:00",
   "FirstSeenAchievements": "2023-11-30T14:07:10.5336431+00:00",
   "LastChanged": "2024-01-22T20:57:00.0680665+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:12:18.0667153+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:04:26.7557222+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:58:12.3054675+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:06.3907605+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:12:18.0667712+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:19.7223483+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:04:26.755869+00:00"
 }

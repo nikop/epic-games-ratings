@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 255,
   "Ranking_EOS_Completed": 231,
-  "Ranking_EOS_NewPlayers": 245,
+  "Ranking_EOS_NewPlayers": 243,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2021-02-04T14:00:00+00:00",
@@ -195,9 +195,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 2044,
+  "EOS_Progressed": 2045,
   "EOS_Completed": 10,
-  "EOS_NewPlayers": 33,
+  "EOS_NewPlayers": 34,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.49,
   "EosHistory": [
@@ -3910,6 +3910,11 @@
       "Time": "2024-01-23T13:16:00.0416861+00:00",
       "NumProgressed": 2044,
       "NumCompleted": 10
+    },
+    {
+      "Time": "2024-01-23T14:06:19.1012086+00:00",
+      "NumProgressed": 2045,
+      "NumCompleted": 10
     }
   ],
   "TotalAchievements": 30,
@@ -3945,7 +3950,7 @@
       "Name": "Shake the rust off their feet",
       "Percentage": 17,
       "XP": 50,
-      "UsersEstimate": 347
+      "UsersEstimate": 348
     },
     {
       "ID": "13",
@@ -3985,7 +3990,7 @@
       "Name": "Balding bloot!",
       "Percentage": 70,
       "XP": 10,
-      "UsersEstimate": 1431
+      "UsersEstimate": 1432
     },
     {
       "ID": "18",
@@ -4119,9 +4124,9 @@
       "ID": "5",
       "SetID": "n50no0",
       "Name": "An eye for an eye",
-      "Percentage": 5,
+      "Percentage": 4,
       "XP": 10,
-      "UsersEstimate": 102
+      "UsersEstimate": 82
     },
     {
       "ID": "6",
@@ -4129,7 +4134,7 @@
       "Name": "Life\u2019s short, ride long",
       "Percentage": 37,
       "XP": 10,
-      "UsersEstimate": 756
+      "UsersEstimate": 757
     },
     {
       "ID": "7",
@@ -4160,15 +4165,15 @@
     {
       "ID": "n50no0",
       "IsBase": true,
-      "Progressed": 2044,
+      "Progressed": 2045,
       "Completed": 10
     }
   ],
   "FirstSeen": "2022-07-22T20:20:00.7905864+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:19.3415146+00:00",
   "LastChanged": "2024-01-20T19:57:24.0971107+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:16:00.0416857+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:06:19.1012083+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:08.2486817+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:06:24.9566435+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:16:00.0417286+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:58:38.8388106+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:06:19.1012572+00:00"
 }

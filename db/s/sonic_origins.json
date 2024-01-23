@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 455,
   "Ranking_EOS_Progress": 333,
   "Ranking_EOS_Completed": 63,
-  "Ranking_EOS_NewPlayers": 360,
+  "Ranking_EOS_NewPlayers": 361,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-06-23T04:00:00+00:00",
@@ -3316,9 +3316,9 @@
       "ID": "ID_14_DEFEAT_ENEMY_BY_SPIN_DASH",
       "SetID": "7o8nc5m",
       "Name": "Gallant Spin Dash",
-      "Percentage": 56,
+      "Percentage": 57,
       "XP": 5,
-      "UsersEstimate": 394
+      "UsersEstimate": 401
     },
     {
       "ID": "ID_15_NOVICE_HERO",
@@ -3500,8 +3500,8 @@
   "FirstSeen": "2022-07-22T20:25:50.9782294+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:31.9559583+00:00",
   "LastChanged": "2023-12-13T19:57:46.4026225+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:17:57.9338143+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:09:50.4807713+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:37.3555015+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:04:58.0871582+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:17:57.9338531+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:11.7372303+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:09:50.4808223+00:00"
 }

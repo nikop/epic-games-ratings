@@ -4,7 +4,7 @@
   "ProductSlug": "blanc-703b40",
   "Ranking_EOS_Progress": 219,
   "Ranking_EOS_Completed": 304,
-  "Ranking_EOS_NewPlayers": 191,
+  "Ranking_EOS_NewPlayers": 190,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-02-14T18:00:00+00:00",
@@ -31,9 +31,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 4223,
+  "EOS_Progressed": 4225,
   "EOS_Completed": 6,
-  "EOS_NewPlayers": 98,
+  "EOS_NewPlayers": 100,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.14,
   "EosHistory": [
@@ -7431,6 +7431,11 @@
       "Time": "2024-01-22T23:05:01.5051127+00:00",
       "NumProgressed": 4223,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T14:05:09.7940607+00:00",
+      "NumProgressed": 4225,
+      "NumCompleted": 6
     }
   ],
   "TotalAchievements": 13,
@@ -7506,7 +7511,7 @@
       "Name": "Starting as a duo",
       "Percentage": 15,
       "XP": 40,
-      "UsersEstimate": 633
+      "UsersEstimate": 634
     },
     {
       "ID": "STRONGER_TOGETHER",
@@ -7522,7 +7527,7 @@
       "Name": "The end",
       "Percentage": 6,
       "XP": 100,
-      "UsersEstimate": 253
+      "UsersEstimate": 254
     },
     {
       "ID": "TRANSMISSION",
@@ -7545,7 +7550,7 @@
     {
       "ID": "1a29mp6",
       "IsBase": true,
-      "Progressed": 4223,
+      "Progressed": 4225,
       "Completed": 6
     }
   ],
@@ -7553,8 +7558,8 @@
   "FirstSeenRating": "2023-03-31T05:58:12.5808393+00:00",
   "FirstSeenAchievements": "2023-04-25T16:42:13.2487996+00:00",
   "LastChanged": "2023-03-31T05:58:12.5808394+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:13:00.5500202+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:05:09.79406+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:35.0592598+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:06:49.5563401+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:13:00.5500779+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:59:02.963845+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:05:09.7941146+00:00"
 }

@@ -375,9 +375,9 @@
       "Count": 59
     }
   ],
-  "EOS_Progressed": 126283,
+  "EOS_Progressed": 126288,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 2691,
+  "EOS_NewPlayers": 2669,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -5660,6 +5660,11 @@
       "Time": "2024-01-23T13:12:29.3789557+00:00",
       "NumProgressed": 126283,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T14:04:38.2667851+00:00",
+      "NumProgressed": 126288,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-12-10T01:55:31.023863+00:00",
@@ -5672,7 +5677,7 @@
       "Name": "Oh Baby, A Triple",
       "Percentage": 3,
       "XP": 30,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "ACH_5_STAGES_OF_GRIEF",
@@ -5736,7 +5741,7 @@
       "Name": "Fists, Fury \u0026 a lot of Rage",
       "Percentage": 11,
       "XP": 15,
-      "UsersEstimate": 13891
+      "UsersEstimate": 13892
     },
     {
       "ID": "ACH_GROWNUP",
@@ -5744,7 +5749,7 @@
       "Name": "All Grown Up!",
       "Percentage": 20,
       "XP": 15,
-      "UsersEstimate": 25257
+      "UsersEstimate": 25258
     },
     {
       "ID": "ACH_JUST_GETTING_WARMED_UP",
@@ -5768,7 +5773,7 @@
       "Name": "I\u0027ve Had Enough!",
       "Percentage": 15,
       "XP": 15,
-      "UsersEstimate": 18942
+      "UsersEstimate": 18943
     },
     {
       "ID": "ACH_LET_THEM_FIGHT",
@@ -5792,7 +5797,7 @@
       "Name": "Master of Disguise",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "ACH_MAYHEM",
@@ -5840,7 +5845,7 @@
       "Name": "Seasoned Fighter",
       "Percentage": 9,
       "XP": 15,
-      "UsersEstimate": 11365
+      "UsersEstimate": 11366
     },
     {
       "ID": "ACH_SIGNATURE_LOOK",
@@ -5880,7 +5885,7 @@
       "Name": "Symbiotic",
       "Percentage": 3,
       "XP": 15,
-      "UsersEstimate": 3788
+      "UsersEstimate": 3789
     },
     {
       "ID": "ACH_TASTE_YOUR_OWN_MEDICINE",
@@ -5951,7 +5956,7 @@
     {
       "ID": "3k5ibhn",
       "IsBase": true,
-      "Progressed": 126283,
+      "Progressed": 126288,
       "Completed": 0
     }
   ],
@@ -5959,8 +5964,8 @@
   "FirstSeenRating": "2022-10-02T07:32:08.4274129+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:17.2611178+00:00",
   "LastChanged": "2024-01-22T20:59:07.0353028+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:12:29.3789553+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:04:38.2667848+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:32.4689414+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:06:34.0229005+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:12:29.3790073+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:58:48.2001098+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:04:38.2668425+00:00"
 }

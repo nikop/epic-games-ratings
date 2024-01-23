@@ -4,7 +4,7 @@
   "ProductSlug": "backrooms-realm-of-shadows-1ca413",
   "Ranking_EOS_Progress": 161,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 170,
+  "Ranking_EOS_NewPlayers": 169,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-09-12T08:00:00+00:00",
@@ -24,9 +24,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19183,
+  "EOS_Progressed": 19184,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 170,
+  "EOS_NewPlayers": 171,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -12844,6 +12844,11 @@
       "Time": "2024-01-23T13:11:14.4904474+00:00",
       "NumProgressed": 19183,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T14:03:21.8382057+00:00",
+      "NumProgressed": 19184,
+      "NumCompleted": 0
     }
   ],
   "AchievementsAdded": "2023-09-04T10:02:08.8016715+00:00",
@@ -12976,7 +12981,7 @@
       "Name": "Poolrooms",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_WINLEVEL4",
@@ -13016,7 +13021,7 @@
       "Name": "Motion",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     },
     {
       "ID": "ACH_WINLEVEL9999999",
@@ -13040,21 +13045,21 @@
       "Name": "Lights Out",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 575
+      "UsersEstimate": 576
     }
   ],
   "AchievementSets": [
     {
       "ID": "1lo1k0a",
       "IsBase": true,
-      "Progressed": 19183,
+      "Progressed": 19184,
       "Completed": 0
     }
   ],
   "FirstSeen": "2023-09-15T13:06:18.6552833+00:00",
   "FirstSeenAchievements": "2023-09-04T10:02:08.8016714+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:11:14.4904463+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:03:21.8382053+00:00",
   "LastUpdate_AppInfo": "2024-01-22T21:56:53.1330929+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:10:36.1253118+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:11:14.4922693+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:02:40.3401585+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:03:21.8382987+00:00"
 }

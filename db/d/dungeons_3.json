@@ -3667,9 +3667,9 @@
       "Count": 24
     }
   ],
-  "EOS_Progressed": 47717,
+  "EOS_Progressed": 47718,
   "EOS_Completed": 375,
-  "EOS_NewPlayers": 627,
+  "EOS_NewPlayers": 628,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.79,
   "EosHistory": [
@@ -34647,6 +34647,11 @@
       "Time": "2024-01-23T13:13:25.6185305+00:00",
       "NumProgressed": 47717,
       "NumCompleted": 375
+    },
+    {
+      "Time": "2024-01-23T14:05:35.1781527+00:00",
+      "NumProgressed": 47718,
+      "NumCompleted": 375
     }
   ],
   "TotalAchievements": 60,
@@ -34722,7 +34727,7 @@
       "Name": "Difficult family relationships",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 11929
+      "UsersEstimate": 11930
     },
     {
       "ID": "ACH_D3_Campaign_DayNight_1",
@@ -34770,7 +34775,7 @@
       "Name": "The Gehenna Stones",
       "Percentage": 49,
       "XP": 5,
-      "UsersEstimate": 23381
+      "UsersEstimate": 23382
     },
     {
       "ID": "ACH_D3_Campaign_Demonicon_1",
@@ -34818,7 +34823,7 @@
       "Name": "The last burger",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17655
+      "UsersEstimate": 17656
     },
     {
       "ID": "ACH_D3_Campaign_Fire_1",
@@ -34850,7 +34855,7 @@
       "Name": "Braiiiiins!",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 17655
+      "UsersEstimate": 17656
     },
     {
       "ID": "ACH_D3_Campaign_Graves_2",
@@ -34866,7 +34871,7 @@
       "Name": "The Swamplanders from the swamplands",
       "Percentage": 43,
       "XP": 5,
-      "UsersEstimate": 20518
+      "UsersEstimate": 20519
     },
     {
       "ID": "ACH_D3_Campaign_Hammer_1",
@@ -34938,7 +34943,7 @@
       "Name": "Destroy the thing",
       "Percentage": 25,
       "XP": 5,
-      "UsersEstimate": 11929
+      "UsersEstimate": 11930
     },
     {
       "ID": "ACH_D3_Campaign_Pain_1",
@@ -35018,7 +35023,7 @@
       "Name": "Factory farming",
       "Percentage": 31,
       "XP": 5,
-      "UsersEstimate": 14792
+      "UsersEstimate": 14793
     },
     {
       "ID": "ACH_D3_Campaign_Sacrifice_2",
@@ -35034,7 +35039,7 @@
       "Name": "Damned good",
       "Percentage": 32,
       "XP": 5,
-      "UsersEstimate": 15269
+      "UsersEstimate": 15270
     },
     {
       "ID": "ACH_D3_Campaign_Shadow_1",
@@ -35058,7 +35063,7 @@
       "Name": "The Shadow strikes",
       "Percentage": 70,
       "XP": 5,
-      "UsersEstimate": 33402
+      "UsersEstimate": 33403
     },
     {
       "ID": "ACH_D3_Campaign_TheLast_1",
@@ -35130,22 +35135,22 @@
       "Name": "Tide Master",
       "Percentage": 26,
       "XP": 5,
-      "UsersEstimate": 12406
+      "UsersEstimate": 12407
     }
   ],
   "AchievementSets": [
     {
       "ID": "cda475f",
       "IsBase": true,
-      "Progressed": 47717,
+      "Progressed": 47718,
       "Completed": 375
     }
   ],
   "FirstSeen": "2022-07-22T20:16:48.6100154+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:41.4845857+00:00",
   "LastChanged": "2024-01-23T08:57:48.8794969+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:13:25.6185298+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:05:35.178152+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:47.3456906+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:09.7157589+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:13:25.6186774+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:23.5707503+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:05:35.1783542+00:00"
 }

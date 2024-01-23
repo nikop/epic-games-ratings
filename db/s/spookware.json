@@ -4,7 +4,7 @@
   "ProductSlug": "spookware-89874e",
   "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-05-12T08:00:00+00:00",
@@ -44,6 +44,6 @@
   "FirstSeenRating": "2023-03-31T05:58:26.227082+00:00",
   "LastChanged": "2023-03-31T05:58:26.2270821+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:34.4787882+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:07:05.0781148+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:16:57.5910118+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:59:18.5510995+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:08:48.2790893+00:00"
 }

@@ -4,7 +4,7 @@
   "ProductSlug": "fort-solis-9164ca",
   "Ranking_EOS_Progress": 281,
   "Ranking_EOS_Completed": 240,
-  "Ranking_EOS_NewPlayers": 298,
+  "Ranking_EOS_NewPlayers": 299,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-08-22T17:00:00+00:00",
@@ -24,7 +24,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 1371,
+  "EOS_Progressed": 1372,
   "EOS_Completed": 6,
   "EOS_NewPlayers": 15,
   "EOS_NewCompleters": 0,
@@ -4049,6 +4049,11 @@
       "Time": "2024-01-22T16:10:40.4421082+00:00",
       "NumProgressed": 1371,
       "NumCompleted": 6
+    },
+    {
+      "Time": "2024-01-23T14:09:43.2069717+00:00",
+      "NumProgressed": 1372,
+      "NumCompleted": 6
     }
   ],
   "AchievementsAdded": "2023-08-22T18:03:23.7760363+00:00",
@@ -4069,7 +4074,7 @@
       "Name": "Boston Hay Day",
       "Percentage": 62,
       "XP": 20,
-      "UsersEstimate": 850
+      "UsersEstimate": 851
     },
     {
       "ID": "BoxingClever",
@@ -4157,7 +4162,7 @@
       "Name": "Once more into the Breach",
       "Percentage": 55,
       "XP": 50,
-      "UsersEstimate": 754
+      "UsersEstimate": 755
     },
     {
       "ID": "Outpatient",
@@ -4173,7 +4178,7 @@
       "Name": "Relic",
       "Percentage": 79,
       "XP": 20,
-      "UsersEstimate": 1083
+      "UsersEstimate": 1084
     },
     {
       "ID": "SkeletonCrew",
@@ -4213,21 +4218,21 @@
       "Name": "Welcome to Fort Solis",
       "Percentage": 88,
       "XP": 20,
-      "UsersEstimate": 1206
+      "UsersEstimate": 1207
     }
   ],
   "AchievementSets": [
     {
       "ID": "3ai6ml8",
       "IsBase": true,
-      "Progressed": 1371,
+      "Progressed": 1372,
       "Completed": 6
     }
   ],
   "FirstSeen": "2023-08-23T06:58:05.3086379+00:00",
   "FirstSeenAchievements": "2023-08-16T13:04:27.9454829+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:17:50.6153522+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:09:43.2069712+00:00",
   "LastUpdate_AppInfo": "2024-01-17T23:57:12.0988435+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:06:24.0984688+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:17:50.6153865+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:58:37.9839424+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:09:43.2070132+00:00"
 }

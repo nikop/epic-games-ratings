@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 591,
   "Ranking_EOS_Progress": 116,
   "Ranking_EOS_Completed": 364,
-  "Ranking_EOS_NewPlayers": 155,
+  "Ranking_EOS_NewPlayers": 154,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-10-27T15:00:00+00:00",
@@ -273,9 +273,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 70847,
+  "EOS_Progressed": 70850,
   "EOS_Completed": 18,
-  "EOS_NewPlayers": 255,
+  "EOS_NewPlayers": 256,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -21198,6 +21198,11 @@
       "Time": "2024-01-23T13:11:58.3982354+00:00",
       "NumProgressed": 70847,
       "NumCompleted": 18
+    },
+    {
+      "Time": "2024-01-23T14:04:06.5223306+00:00",
+      "NumProgressed": 70850,
+      "NumCompleted": 18
     }
   ],
   "TotalAchievements": 20,
@@ -21217,7 +21222,7 @@
       "Name": "Bonfire Lit",
       "Percentage": 3,
       "XP": 25,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     },
     {
       "ID": "ACH_CHURCHCANDLES",
@@ -21361,14 +21366,14 @@
       "Name": "Survival Expert",
       "Percentage": 3,
       "XP": 100,
-      "UsersEstimate": 2125
+      "UsersEstimate": 2126
     }
   ],
   "AchievementSets": [
     {
       "ID": "6ccjg6f",
       "IsBase": true,
-      "Progressed": 70847,
+      "Progressed": 70850,
       "Completed": 18
     }
   ],
@@ -21376,8 +21381,8 @@
   "FirstSeenRating": "2022-10-29T18:31:38.4403649+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:44.9607825+00:00",
   "LastChanged": "2023-11-04T14:58:39.1316469+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:11:58.398235+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:04:06.5223302+00:00",
   "LastUpdate_AppInfo": "2024-01-20T23:57:21.4564232+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:08:05.8188057+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:11:58.3983319+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:00:21.9940476+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:04:06.5224457+00:00"
 }

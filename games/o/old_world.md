@@ -1,7 +1,7 @@
 # Old World
 [Store](https://store.epicgames.com/en-US/p/old-world)  
 [View Rawdata](../../db/o/old_world.json)  
-Rating: 4.65 (Ranked 326)  
+Rating: 4.65 (Ranked 327)  
 Number of Ratings: 1,307  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
@@ -79,6 +79,7 @@ Number of Ratings: 1,307  (23.09.2022)
 | Statesmen | 1.00% | ~171 |
 | Hittite Iron | 1.00% | ~171 |
 | Temple of Solomon | 1.00% | ~171 |
+| Via Recta Souk | 1.00% | ~171 |
 | Learn to Play 3 | 1.00% | ~171 |
 | Greece | 1.00% | ~171 |
 | Power to the People | 1.00% | ~171 |
@@ -102,7 +103,6 @@ Number of Ratings: 1,307  (23.09.2022)
 | Circus Maximus | 0.90% | ~154 |
 | Hagia Sophia | 0.90% | ~154 |
 | Pantheon | 0.90% | ~154 |
-| Via Recta Souk | 0.90% | ~154 |
 | Learn to Play 4 | 0.90% | ~154 |
 | Legionary | 0.90% | ~154 |
 | Double Victory | 0.90% | ~154 |
@@ -327,8 +327,12 @@ Number of Ratings: 1,307  (23.09.2022)
 | The Neter Collapsed | 0.10% | ~17 |
 | Won the Hearts of Kmt | 0.10% | ~17 |
 | Partly Balanced Ma'at | 0.10% | ~17 |
+| Won the Pharaonic Hearts of Kmt | 0.10% | ~17 |
+| Pharaonic Partly Balanced Ma'at | 0.10% | ~17 |
 | Re-writing History | 0.10% | ~17 |
 | History Repeats | 0.10% | ~17 |
+| The Greatest Pharaoh! | 0.10% | ~17 |
+| Pharaonic History Repeats | 0.10% | ~17 |
 | Egypt Campaign | 0.10% | ~17 |
 | Cothon in Carthago | 0.10% | ~17 |
 | Yazilikaya in Hattusa | 0.10% | ~17 |
@@ -353,12 +357,8 @@ Number of Ratings: 1,307  (23.09.2022)
 | Failed the Aten | 0.00% | ~0 |
 | Muwatalli II KIA | 0.00% | ~0 |
 | Split the Army | 0.00% | ~0 |
-| Won the Pharaonic Hearts of Kmt | 0.00% | ~0 |
-| Pharaonic Partly Balanced Ma'at | 0.00% | ~0 |
 | Kmt's Sunset | 0.00% | ~0 |
 | Worst.Ending.Possible. | 0.00% | ~0 |
-| The Greatest Pharaoh! | 0.00% | ~0 |
-| Pharaonic History Repeats | 0.00% | ~0 |
 | The Hekau Khasut Slaves | 0.00% | ~0 |
 | Heliopolis in Heliopolis | 0.00% | ~0 |
 | Jerwan Aqueduct in Jerwan | 0.00% | ~0 |

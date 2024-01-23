@@ -5,14 +5,14 @@ Rating: 4.13 (Ranked 1,027)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Your Lucky Day | 47.00% | ~42,325 |
-| More Power to You | 26.00% | ~23,414 |
-| As Far Away As Possible | 21.00% | ~18,911 |
+| Your Lucky Day | 47.00% | ~42,328 |
+| More Power to You | 26.00% | ~23,416 |
+| As Far Away As Possible | 21.00% | ~18,913 |
 | A Most Unstable Organism | 14.00% | ~12,608 |
 | No Time to Follow Protocol | 9.00% | ~8,105 |
-| Nano Connoisseur | 8.00% | ~7,204 |
+| Nano Connoisseur | 8.00% | ~7,205 |
 | Float Like a Butterfly... | 7.00% | ~6,304 |
-| In Two Places At Once | 6.00% | ~5,403 |
+| In Two Places At Once | 6.00% | ~5,404 |
 | Pulling Your Weight | 3.00% | ~2,702 |
 | Reaping Rivals | 3.00% | ~2,702 |
 | fifteenth Time's the Charm | 1.00% | ~901 |
@@ -22,7 +22,7 @@ Rating: 4.13 (Ranked 1,027)
 | Runs for Your Money | 0.30% | ~270 |
 | Past Master | 0.30% | ~270 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 90,054 (Ranked 109)  
+Progressed: 90,060 (Ranked 109)  
 Completed: 76 (0.08%) (Ranked 333)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -171,10 +171,10 @@ Completed: 76 (0.08%) (Ranked 333)
 | 2024-01-20 | 89,385 | 73 |
 | 2024-01-21 | 89,743 | 75 |
 | 2024-01-22 | 89,964 | 76 |
-| 2024-01-23 | 90,054 | 76 |
+| 2024-01-23 | 90,060 | 76 |
 ## Awards
 Max (Great for Beginners): 141  (Ranked 343)  
-Sum: 542 (Ranked 335)  
+Sum: 543 (Ranked 335)  
 Diff (max vs sum): 8  
 | Award | Count |
 | ----- | ----- |
@@ -183,8 +183,8 @@ Diff (max vs sum): 8
 | This game is Highly Recommended | 70 |
 | This game has Amazing Characters | 68 |
 | This game is Extremely Fun | 67 |
+| This game has Quickly Understood Controls | 59 |
 | This game has Amazing Storytelling | 58 |
-| This game has Quickly Understood Controls | 58 |
 | This game has a Competitive Community | 54 |
 | This game is Relaxing | 48 |
 | This game has Unique Visuals | 20 |
@@ -316,4 +316,4 @@ Diff (max vs sum): 8
 | 2024-01-20 | 4.13 | 140 | 603 |
 | 2024-01-21 | 4.13 | 140 | 606 |
 | 2024-01-22 | 4.13 | 141 | 608 |
-| 2024-01-23 | 4.13 | 141 | 542 |
+| 2024-01-23 | 4.13 | 141 | 543 |

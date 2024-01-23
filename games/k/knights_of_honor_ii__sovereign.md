@@ -5,17 +5,19 @@ Rating: 4.34 (Ranked 851)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Hail to the King, Baby | 9.00% | ~3 |
-| Call the Boys | 6.00% | ~2 |
-| Can’t Touch This | 6.00% | ~2 |
-| Full House | 6.00% | ~2 |
-| Help! Help! I’m being repressed | 6.00% | ~2 |
-| There is no Nobility in Poverty | 6.00% | ~2 |
-| Time to find India | 6.00% | ~2 |
+| Hail to the King, Baby | 10.00% | ~4 |
+| Full House | 8.00% | ~3 |
+| There is no Nobility in Poverty | 8.00% | ~3 |
+| Call the Boys | 5.00% | ~2 |
+| Can’t Touch This | 5.00% | ~2 |
+| Help! Help! I’m being repressed | 5.00% | ~2 |
+| Time to find India | 5.00% | ~2 |
+| ‘Tis but a scratch | 5.00% | ~2 |
 | All the King's Men | 3.00% | ~1 |
 | Blinded by Science | 3.00% | ~1 |
 | Bring it on! | 3.00% | ~1 |
 | Crusade Invoker, no Regret | 3.00% | ~1 |
+| Desperate Times Call for Desperate Measures | 3.00% | ~1 |
 | Do you read Sutter Cane? | 3.00% | ~1 |
 | Forth, Eorlingas! | 3.00% | ~1 |
 | Kingslayer | 3.00% | ~1 |
@@ -24,7 +26,6 @@ Rating: 4.34 (Ranked 851)
 | Path of Glory | 3.00% | ~1 |
 | Playerxander the Great | 3.00% | ~1 |
 | The finest merchandise this side of river Jordan | 3.00% | ~1 |
-| ‘Tis but a scratch | 3.00% | ~1 |
 | You reap what you sow | 3.00% | ~1 |
 | A Leinster always pays his debts | 0.00% | ~0 |
 | A Quiet Palace | 0.00% | ~0 |
@@ -40,7 +41,6 @@ Rating: 4.34 (Ranked 851)
 | Crom, I have never prayed to you before | 0.00% | ~0 |
 | Crusader “you know what” | 0.00% | ~0 |
 | Cut-Me-Own-Throat | 0.00% | ~0 |
-| Desperate Times Call for Desperate Measures | 0.00% | ~0 |
 | Die By My Hand | 0.00% | ~0 |
 | Dinner Time | 0.00% | ~0 |
 | Dust and Salt | 0.00% | ~0 |
@@ -106,12 +106,12 @@ Rating: 4.34 (Ranked 851)
 | You dare challenge the Salamanca? | 0.00% | ~0 |
 | You’re Not My Real Dad | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 32 (Ranked 603)  
+Progressed: 39 (Ranked 590)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
-| 2024-01-23 | 32 | 0 |
+| 2024-01-23 | 39 | 0 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

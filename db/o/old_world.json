@@ -2,7 +2,7 @@
   "ID": "07f4a7dd3c884e5d87e9a209716962ca",
   "Name": "Old World",
   "ProductSlug": "old-world",
-  "Ranking_Rating": 326,
+  "Ranking_Rating": 327,
   "Ranking_Popularity": 287,
   "Ranking_PopularitySum": 224,
   "Ranking_EOS_Progress": 170,
@@ -2366,7 +2366,7 @@
   ],
   "EOS_Progressed": 17120,
   "EOS_Completed": 5,
-  "EOS_NewPlayers": 211,
+  "EOS_NewPlayers": 208,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.03,
   "EosHistory": [
@@ -22320,9 +22320,9 @@
       "ID": "ACHIEVEMENT_IMPROVEMENT_VIA_RECTA_SOUK",
       "SetID": "9201eeb",
       "Name": "Via Recta Souk",
-      "Percentage": 0.9,
+      "Percentage": 1,
       "XP": 5,
-      "UsersEstimate": 154
+      "UsersEstimate": 171
     },
     {
       "ID": "ACHIEVEMENT_KNOWLEDGE_ANCIENTS",
@@ -23472,17 +23472,17 @@
       "ID": "ACHIEVEMENT_EGYPT5_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Won the Pharaonic Hearts of Kmt",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT5_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic Partly Balanced Ma\u0027at",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_DEFEAT",
@@ -23520,17 +23520,17 @@
       "ID": "ACHIEVEMENT_EGYPT6_PHARAOH_MAJOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "The Greatest Pharaoh!",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT6_PHARAOH_MINOR_VICTORY",
       "SetID": "9201eeb",
       "Name": "Pharaonic History Repeats",
-      "Percentage": 0,
+      "Percentage": 0.1,
       "XP": 5,
-      "UsersEstimate": 0
+      "UsersEstimate": 17
     },
     {
       "ID": "ACHIEVEMENT_EGYPT_CAMPAIGN_COMPLETED",
@@ -23726,8 +23726,8 @@
   "FirstSeen": "2022-07-22T20:22:45.086585+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:54.0933321+00:00",
   "LastChanged": "2024-01-21T01:56:04.4514892+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:18:07.4847555+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:10:00.2113615+00:00",
   "LastUpdate_AppInfo": "2024-01-21T05:57:29.3883833+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:06:30.1293846+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:18:07.4857175+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:58:43.9626765+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:10:00.2124561+00:00"
 }

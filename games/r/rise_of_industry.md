@@ -1,20 +1,20 @@
 # Rise of Industry
 [Store](https://store.epicgames.com/en-US/p/rise-of-industry-0af838)  
 [View Rawdata](../../db/r/rise_of_industry.json)  
-Rating: 4.25 (Ranked 933)  
+Rating: 4.25 (Ranked 934)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Entrepreneur | 48.00% | ~370,005 |
-| Well educated | 37.00% | ~285,212 |
-| City Planner | 19.00% | ~146,460 |
-| Deforester | 17.00% | ~131,043 |
+| Entrepreneur | 48.00% | ~370,006 |
+| Well educated | 37.00% | ~285,213 |
+| City Planner | 19.00% | ~146,461 |
+| Deforester | 17.00% | ~131,044 |
 | Big Hauling | 16.00% | ~123,335 |
 | Apprentice Manufacturer | 13.00% | ~100,210 |
 | Exporter | 13.00% | ~100,210 |
-| I would drive 500 tiles... | 12.00% | ~92,501 |
-| Landscaper | 12.00% | ~92,501 |
-| Railwayman | 8.00% | ~61,667 |
+| I would drive 500 tiles... | 12.00% | ~92,502 |
+| Landscaper | 12.00% | ~92,502 |
+| Railwayman | 8.00% | ~61,668 |
 | Penniless | 6.00% | ~46,251 |
 | Massive Gains | 6.00% | ~46,251 |
 | Salesman | 3.00% | ~23,125 |
@@ -33,7 +33,7 @@ Rating: 4.25 (Ranked 933)
 | Master Builder | 0.10% | ~771 |
 | Hard working | 0.10% | ~771 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 770,843 (Ranked 25)  
+Progressed: 770,846 (Ranked 25)  
 Completed: 4 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -311,7 +311,7 @@ Completed: 4 (0.00%) (Ranked 409)
 | 2024-01-20 | 770,228 | 4 |
 | 2024-01-21 | 770,521 | 4 |
 | 2024-01-22 | 770,740 | 4 |
-| 2024-01-23 | 770,843 | 4 |
+| 2024-01-23 | 770,846 | 4 |
 ## Ratings History
 | Date | Rating | Number of Awards (Max) | Number of Awards (Sum) |
 | ---- | ------ | ---------------------- | ---------------------- |

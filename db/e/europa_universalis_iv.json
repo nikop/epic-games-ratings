@@ -14745,9 +14745,9 @@
       "Count": 2994
     }
   ],
-  "EOS_Progressed": 504242,
+  "EOS_Progressed": 504252,
   "EOS_Completed": 2,
-  "EOS_NewPlayers": 4348,
+  "EOS_NewPlayers": 4333,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -46870,6 +46870,11 @@
       "Time": "2024-01-23T13:18:07.6924819+00:00",
       "NumProgressed": 504242,
       "NumCompleted": 2
+    },
+    {
+      "Time": "2024-01-23T14:10:00.2307063+00:00",
+      "NumProgressed": 504252,
+      "NumCompleted": 2
     }
   ],
   "TotalAchievements": 363,
@@ -47009,7 +47014,7 @@
       "Name": "Aggressive Expander",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_albania_or_iberia",
@@ -47273,7 +47278,7 @@
       "Name": "Blockader",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_blood_for_the_sky_god",
@@ -47417,7 +47422,7 @@
       "Name": "Combined Arms",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_consulate_of_the_sea",
@@ -47537,7 +47542,7 @@
       "Name": "Double the Love",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_dovmonts_own",
@@ -47881,7 +47886,7 @@
       "Name": "That\u0027s a Grand Army",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "achievement_grand_coalition",
@@ -48089,7 +48094,7 @@
       "Name": "It\u0027s all about luck",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_its_all_about_the_money",
@@ -48449,7 +48454,7 @@
       "Name": "My armies are invincible!",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_my_true_friend",
@@ -48817,7 +48822,7 @@
       "Name": "Respected",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_rise_of_the_white_sheep",
@@ -48833,7 +48838,7 @@
       "Name": "Royal Authority",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_rozwi_empire",
@@ -49161,7 +49166,7 @@
       "Name": "That is mine!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "achievement_thats_a_silk_road",
@@ -49305,7 +49310,7 @@
       "Name": "The Princess is in this Castle",
       "Percentage": 0.2,
       "XP": 10,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_the_re_reconquista",
@@ -49433,7 +49438,7 @@
       "Name": "Total Control",
       "Percentage": 0.2,
       "XP": 15,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_trade_hegemon",
@@ -49489,7 +49494,7 @@
       "Name": "Truly Divine Ruler",
       "Percentage": 0.2,
       "XP": 5,
-      "UsersEstimate": 1008
+      "UsersEstimate": 1009
     },
     {
       "ID": "achievement_trustworthy",
@@ -49577,7 +49582,7 @@
       "Name": "Victorious!",
       "Percentage": 0.6,
       "XP": 5,
-      "UsersEstimate": 3025
+      "UsersEstimate": 3026
     },
     {
       "ID": "achievement_viva_la_revolucion",
@@ -49784,21 +49789,21 @@
     {
       "ID": "67mdiil",
       "IsBase": true,
-      "Progressed": 504242,
+      "Progressed": 504252,
       "Completed": 2
     },
     {
       "ID": "8p2n7he",
       "IsBase": false,
-      "Progressed": 504242,
+      "Progressed": 504252,
       "Completed": 1
     }
   ],
   "FirstSeen": "2022-07-22T20:17:24.7092719+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:45.1605873+00:00",
   "LastChanged": "2024-01-23T11:02:06.5163437+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:18:07.6924815+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:10:00.2307059+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:34.4327753+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:04:45.9157578+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:18:07.6937185+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:01.3921462+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:10:00.2322021+00:00"
 }

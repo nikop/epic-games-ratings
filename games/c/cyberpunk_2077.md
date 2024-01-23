@@ -6,8 +6,8 @@ Number of Ratings: 32,700  (23.09.2022)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
+| Right Back At Ya | 0.80% | ~8,461 |
 | Full Body Conversion | 0.70% | ~7,403 |
-| Right Back At Ya | 0.70% | ~7,403 |
 | The Hermit | 0.70% | ~7,403 |
 | The Wheel of Fortune | 0.70% | ~7,403 |
 | True Soldier | 0.70% | ~7,403 |
@@ -17,13 +17,13 @@ Number of Ratings: 32,700  (23.09.2022)
 | The High Priestess | 0.60% | ~6,346 |
 | The Lovers | 0.60% | ~6,346 |
 | Legend of The Afterlife | 0.60% | ~6,346 |
+| All the President's Men | 0.60% | ~1,117 |
 | Bushido and Chill | 0.50% | ~5,288 |
 | Gun Fu | 0.50% | ~5,288 |
 | Master Crafter | 0.50% | ~5,288 |
 | The Fool | 0.50% | ~5,288 |
 | The World | 0.50% | ~5,288 |
 | Judy vs Night City | 0.50% | ~5,288 |
-| All the President's Men | 0.50% | ~931 |
 | Arachnophobia | 0.50% | ~931 |
 | To Protect and Serve | 0.40% | ~4,230 |
 | I Am The Law | 0.40% | ~4,230 |
@@ -74,7 +74,7 @@ Number of Ratings: 32,700  (23.09.2022)
 | King of Wands | 0.00% | ~0 |
 | The Tower | 0.00% | ~0 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 1,057,599 (Ranked 17)  
+Progressed: 1,057,624 (Ranked 17)  
 Completed: 3,151 (0.30%) (Ranked 264)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -352,7 +352,7 @@ Completed: 3,151 (0.30%) (Ranked 264)
 | 2024-01-20 | 1,056,015 | 3,136 |
 | 2024-01-21 | 1,056,765 | 3,144 |
 | 2024-01-22 | 1,057,324 | 3,150 |
-| 2024-01-23 | 1,057,599 | 3,151 |
+| 2024-01-23 | 1,057,624 | 3,151 |
 ## Awards
 Max (Character Customization): 144,045  (Ranked 8)  
 Sum: 515,250 (Ranked 8)  

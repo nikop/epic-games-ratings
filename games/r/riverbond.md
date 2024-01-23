@@ -1,45 +1,45 @@
 # Riverbond
 [Store](https://store.epicgames.com/en-US/p/riverbond-782aa4)  
 [View Rawdata](../../db/r/riverbond.json)  
-Rating: 4.46 (Ranked 679)  
+Rating: 4.46 (Ranked 680)  
 Number of Ratings: 617  (23.09.2022)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| First Step | 70.00% | ~375,357 |
-| Now You're Talking | 62.00% | ~332,459 |
-| Steel Yourself | 62.00% | ~332,459 |
-| Window Dressing | 50.00% | ~268,112 |
-| Trigger Happy | 46.00% | ~246,663 |
-| Riverborn | 45.00% | ~241,301 |
-| Starry Eyed | 34.00% | ~182,316 |
-| Poking Around | 34.00% | ~182,316 |
-| Talk of the Town | 24.00% | ~128,694 |
-| AAARR! | 23.00% | ~123,332 |
-| Hello Darkness | 23.00% | ~123,332 |
-| Wind At Our Backs | 22.00% | ~117,969 |
-| To the Beat | 20.00% | ~107,245 |
-| Sunny Shores | 17.00% | ~91,158 |
-| Sunday Best | 16.00% | ~85,796 |
+| First Step | 70.00% | ~375,360 |
+| Now You're Talking | 62.00% | ~332,462 |
+| Steel Yourself | 62.00% | ~332,462 |
+| Window Dressing | 50.00% | ~268,114 |
+| Trigger Happy | 46.00% | ~246,665 |
+| Riverborn | 45.00% | ~241,303 |
+| Starry Eyed | 34.00% | ~182,318 |
+| Poking Around | 34.00% | ~182,318 |
+| Talk of the Town | 24.00% | ~128,695 |
+| AAARR! | 23.00% | ~123,333 |
+| Hello Darkness | 23.00% | ~123,333 |
+| Wind At Our Backs | 22.00% | ~117,970 |
+| To the Beat | 20.00% | ~107,246 |
+| Sunny Shores | 17.00% | ~91,159 |
+| Sunday Best | 16.00% | ~85,797 |
 | To Victory! | 15.00% | ~80,434 |
-| Two of a Kind | 14.00% | ~75,071 |
-| Keep On Trucking | 13.00% | ~69,709 |
+| Two of a Kind | 14.00% | ~75,072 |
+| Keep On Trucking | 13.00% | ~69,710 |
 | Going on an Adventure | 12.00% | ~64,347 |
 | Make Peace, Not War | 11.00% | ~58,985 |
-| Walking The Line | 10.00% | ~53,622 |
-| Not So Cute Anymore | 10.00% | ~53,622 |
-| Road Less Travelled | 9.00% | ~48,260 |
-| Lost and Found | 9.00% | ~48,260 |
+| Walking The Line | 10.00% | ~53,623 |
+| Not So Cute Anymore | 10.00% | ~53,623 |
+| Road Less Travelled | 9.00% | ~48,261 |
+| Lost and Found | 9.00% | ~48,261 |
 | Under the Radar | 8.00% | ~42,898 |
 | Partner in Crime | 7.00% | ~37,536 |
 | Hard to Hear | 7.00% | ~37,536 |
-| Moving On Up | 6.00% | ~32,173 |
-| Owl Knows Best | 6.00% | ~32,173 |
-| Mind the Moose | 6.00% | ~32,173 |
-| Oh, Romeo! | 6.00% | ~32,173 |
-| Dressed to Kill | 6.00% | ~32,173 |
-| Beast Mode | 6.00% | ~32,173 |
-| Slime Slayer | 6.00% | ~32,173 |
+| Moving On Up | 6.00% | ~32,174 |
+| Owl Knows Best | 6.00% | ~32,174 |
+| Mind the Moose | 6.00% | ~32,174 |
+| Oh, Romeo! | 6.00% | ~32,174 |
+| Dressed to Kill | 6.00% | ~32,174 |
+| Beast Mode | 6.00% | ~32,174 |
+| Slime Slayer | 6.00% | ~32,174 |
 | Noble Intentions | 5.00% | ~26,811 |
 | Rising Star | 5.00% | ~26,811 |
 | Privacy, Please! | 4.00% | ~21,449 |
@@ -54,17 +54,17 @@ Number of Ratings: 617  (23.09.2022)
 | Page Turner | 3.00% | ~16,087 |
 | Spinal Adjustment | 3.00% | ~16,087 |
 | The Knowledge | 3.00% | ~16,087 |
-| Seek the Rainbow | 2.00% | ~10,724 |
-| Words of Truth | 2.00% | ~10,724 |
-| Star Power | 2.00% | ~10,724 |
-| Don’t Get Crabby | 2.00% | ~10,724 |
-| Justice Served | 2.00% | ~10,724 |
+| Seek the Rainbow | 2.00% | ~10,725 |
+| Words of Truth | 2.00% | ~10,725 |
+| Star Power | 2.00% | ~10,725 |
+| Don’t Get Crabby | 2.00% | ~10,725 |
+| Justice Served | 2.00% | ~10,725 |
 | Written in the Stars | 1.00% | ~5,362 |
 | Don't Care | 1.00% | ~5,362 |
 | Boss of All Bosses | 0.30% | ~1,609 |
 | Point Taken | 0.20% | ~1,072 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 536,224 (Ranked 38)  
+Progressed: 536,229 (Ranked 38)  
 Completed: 530 (0.10%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -342,10 +342,10 @@ Completed: 530 (0.10%) (Ranked 320)
 | 2024-01-20 | 536,055 | 524 |
 | 2024-01-21 | 536,138 | 526 |
 | 2024-01-22 | 536,197 | 528 |
-| 2024-01-23 | 536,224 | 530 |
+| 2024-01-23 | 536,229 | 530 |
 ## Awards
-Max (Relaxing): 22  (Ranked 571)  
-Sum: 22 (Ranked 576)  
+Max (Relaxing): 22  (Ranked 572)  
+Sum: 22 (Ranked 577)  
 Diff (max vs sum): -5  
 | Award | Count |
 | ----- | ----- |

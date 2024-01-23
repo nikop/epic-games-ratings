@@ -2,9 +2,9 @@
   "ID": "d354bf1a92ac4546aa20c74c8e7f70e1",
   "Name": "Project Highrise",
   "ProductSlug": "project-highrise-a567e8",
-  "Ranking_EOS_Progress": 356,
+  "Ranking_EOS_Progress": 355,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 341,
+  "Ranking_EOS_NewPlayers": 334,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2022-08-11T11:00:00+00:00",
@@ -30,9 +30,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 539,
+  "EOS_Progressed": 540,
   "EOS_Completed": 0,
-  "EOS_NewPlayers": 8,
+  "EOS_NewPlayers": 9,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0,
   "EosHistory": [
@@ -1810,6 +1810,11 @@
       "Time": "2024-01-22T20:04:55.8774904+00:00",
       "NumProgressed": 539,
       "NumCompleted": 0
+    },
+    {
+      "Time": "2024-01-23T14:04:09.9342401+00:00",
+      "NumProgressed": 540,
+      "NumCompleted": 0
     }
   ],
   "TotalAchievements": 88,
@@ -1835,9 +1840,9 @@
       "ID": "ach_apartments_1",
       "SetID": "b8gh1fi",
       "Name": "Lux Living",
-      "Percentage": 17,
+      "Percentage": 16,
       "XP": 10,
-      "UsersEstimate": 92
+      "UsersEstimate": 86
     },
     {
       "ID": "ach_apartments_2",
@@ -1965,7 +1970,7 @@
       "Name": "Upgrade Unlock",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_consultants_a",
@@ -2029,7 +2034,7 @@
       "Name": "Proper Walls",
       "Percentage": 29,
       "XP": 10,
-      "UsersEstimate": 156
+      "UsersEstimate": 157
     },
     {
       "ID": "ach_drones",
@@ -2221,7 +2226,7 @@
       "Name": "It\u0027s Technical",
       "Percentage": 32,
       "XP": 10,
-      "UsersEstimate": 172
+      "UsersEstimate": 173
     },
     {
       "ID": "ach_office_2",
@@ -2259,9 +2264,9 @@
       "ID": "ach_prestige_1",
       "SetID": "b8gh1fi",
       "Name": "Your Prestige is Rising",
-      "Percentage": 22,
+      "Percentage": 21,
       "XP": 10,
-      "UsersEstimate": 119
+      "UsersEstimate": 113
     },
     {
       "ID": "ach_prestige_2",
@@ -2285,7 +2290,7 @@
       "Name": "In the Black",
       "Percentage": 54,
       "XP": 5,
-      "UsersEstimate": 291
+      "UsersEstimate": 292
     },
     {
       "ID": "ach_profit_1",
@@ -2524,7 +2529,7 @@
     {
       "ID": "b8gh1fi",
       "IsBase": true,
-      "Progressed": 539,
+      "Progressed": 540,
       "Completed": 0
     }
   ],
@@ -2532,8 +2537,8 @@
   "FirstSeenRating": "2023-03-31T05:57:06.6577556+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:01.5407375+00:00",
   "LastChanged": "2023-03-31T05:57:06.6577557+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:12:01.677363+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:04:09.9342397+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:55.9926117+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:06.86119+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:12:01.6774652+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:20.2246234+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:04:09.9343375+00:00"
 }

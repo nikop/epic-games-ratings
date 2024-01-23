@@ -1831,10 +1831,16 @@
       "Rating": 4.13,
       "NumberOfAwards": 542,
       "NumberOfAwardsMax": 141
+    },
+    {
+      "Time": "2024-01-23T13:57:48.0479943+00:00",
+      "Rating": 4.13,
+      "NumberOfAwards": 543,
+      "NumberOfAwardsMax": 141
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 542,
+  "NumberOfAwards": 543,
   "NumberOfAwardsMax": 141,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
@@ -1878,7 +1884,7 @@
       "Text": "This game has Quickly Understood Controls",
       "Prefix": "This game has",
       "Type": "Quickly Understood Controls",
-      "Count": 58
+      "Count": 59
     },
     {
       "Text": "This game is Extremely Fun",
@@ -1899,9 +1905,9 @@
       "Count": 68
     }
   ],
-  "EOS_Progressed": 90054,
+  "EOS_Progressed": 90060,
   "EOS_Completed": 76,
-  "EOS_NewPlayers": 2123,
+  "EOS_NewPlayers": 2119,
   "EOS_NewCompleters": 4,
   "EOS_Completed_Percentage": 0.08,
   "EosHistory": [
@@ -17879,6 +17885,11 @@
       "Time": "2024-01-23T13:13:35.1157236+00:00",
       "NumProgressed": 90054,
       "NumCompleted": 76
+    },
+    {
+      "Time": "2024-01-23T14:05:44.7582529+00:00",
+      "NumProgressed": 90060,
+      "NumCompleted": 76
     }
   ],
   "AchievementsAdded": "2023-08-31T11:06:08.2485958+00:00",
@@ -17891,7 +17902,7 @@
       "Name": "Your Lucky Day",
       "Percentage": 47,
       "XP": 15,
-      "UsersEstimate": 42325
+      "UsersEstimate": 42328
     },
     {
       "ID": "10",
@@ -17931,7 +17942,7 @@
       "Name": "Nano Connoisseur",
       "Percentage": 8,
       "XP": 80,
-      "UsersEstimate": 7204
+      "UsersEstimate": 7205
     },
     {
       "ID": "15",
@@ -17955,7 +17966,7 @@
       "Name": "As Far Away As Possible",
       "Percentage": 21,
       "XP": 20,
-      "UsersEstimate": 18911
+      "UsersEstimate": 18913
     },
     {
       "ID": "3",
@@ -17987,7 +17998,7 @@
       "Name": "In Two Places At Once",
       "Percentage": 6,
       "XP": 30,
-      "UsersEstimate": 5403
+      "UsersEstimate": 5404
     },
     {
       "ID": "7",
@@ -17995,7 +18006,7 @@
       "Name": "More Power to You",
       "Percentage": 26,
       "XP": 100,
-      "UsersEstimate": 23414
+      "UsersEstimate": 23416
     },
     {
       "ID": "8",
@@ -18018,16 +18029,16 @@
     {
       "ID": "2cfdi92",
       "IsBase": true,
-      "Progressed": 90054,
+      "Progressed": 90060,
       "Completed": 76
     }
   ],
   "FirstSeen": "2023-09-08T04:59:50.2961665+00:00",
   "FirstSeenRating": "2023-09-09T22:00:06.114759+00:00",
   "FirstSeenAchievements": "2023-04-25T20:45:56.2221897+00:00",
-  "LastChanged": "2024-01-23T11:57:53.0232371+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:13:35.1157231+00:00",
+  "LastChanged": "2024-01-23T13:57:48.0479941+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:05:44.7582525+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:51.3209258+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:34.7700364+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:13:35.115819+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:48.0479952+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:05:44.7583536+00:00"
 }

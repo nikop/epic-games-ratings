@@ -6411,9 +6411,9 @@
       "ID": "achievement_56",
       "SetID": "18al4io",
       "Name": "Master of Malachite",
-      "Percentage": 0.6,
+      "Percentage": 0.7,
       "XP": 25,
-      "UsersEstimate": 22
+      "UsersEstimate": 25
     },
     {
       "ID": "achievement_59",
@@ -6516,8 +6516,8 @@
   "FirstSeenRating": "2023-08-31T18:56:53.993076+00:00",
   "FirstSeenAchievements": "2023-06-30T22:03:51.4973455+00:00",
   "LastChanged": "2024-01-21T12:02:35.5772208+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:17:56.7887225+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:09:49.5397548+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:54:57.201296+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:42.3006368+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:17:56.788794+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:54.4254988+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:09:49.539846+00:00"
 }

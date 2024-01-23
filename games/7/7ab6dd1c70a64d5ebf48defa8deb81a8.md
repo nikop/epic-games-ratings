@@ -14,7 +14,7 @@ Rating: 4.21 (Ranked 968)
 | Shatter Them All | 26.00% | ~633 |
 | Geared Up | 26.00% | ~633 |
 | Scholar | 26.00% | ~633 |
-| I Found It | 25.00% | ~608 |
+| I Found It | 26.00% | ~633 |
 | Fashion Victim | 24.00% | ~584 |
 | Stone Collection | 24.00% | ~584 |
 | Powerful Allies | 23.00% | ~560 |
@@ -43,7 +43,7 @@ Rating: 4.21 (Ranked 968)
 | Feeling Fancy | 0.50% | ~12 |
 ## Popularity (Based on EOS Achievements)
 Progressed: 2,434 (Ranked 247)  
-Completed: 5 (0.21%) (Ranked 285)  
+Completed: 5 (0.21%) (Ranked 284)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |

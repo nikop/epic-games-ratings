@@ -1,25 +1,25 @@
 # F1® 23
 [Store](https://store.epicgames.com/en-US/p/f1-23)  
 [View Rawdata](../../db/f/f1®_23_standard_edition.json)  
-Rating: 4.65 (Ranked 326)  
+Rating: 4.65 (Ranked 327)  
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Getting on the Step | 91.00% | ~16,961 |
-| On the Top Step | 83.00% | ~15,470 |
-| Setting up for Success | 70.00% | ~13,047 |
+| Getting on the Step | 91.00% | ~16,962 |
+| On the Top Step | 83.00% | ~15,471 |
+| Setting up for Success | 70.00% | ~13,048 |
 | Team Orders | 68.00% | ~12,675 |
 | Engineer | 46.00% | ~8,574 |
-| Familiar Faces | 42.00% | ~7,828 |
+| Familiar Faces | 42.00% | ~7,829 |
 | Going the Extra Mile | 36.00% | ~6,710 |
-| Sharing the Love | 34.00% | ~6,337 |
-| Hitting a Season | 29.00% | ~5,405 |
+| Sharing the Love | 34.00% | ~6,338 |
+| Hitting a Season | 29.00% | ~5,406 |
 | A Dozen Pieces | 26.00% | ~4,846 |
 | Making History | 25.00% | ~4,660 |
-| Network Success | 24.00% | ~4,473 |
-| Challenge Yourself | 24.00% | ~4,473 |
+| Network Success | 24.00% | ~4,474 |
+| Challenge Yourself | 24.00% | ~4,474 |
 | Writing a new Chapter | 20.00% | ~3,728 |
-| Spring Cleaning | 19.00% | ~3,541 |
+| Spring Cleaning | 19.00% | ~3,542 |
 | Reduce | 15.00% | ~2,796 |
 | Ups and Downs | 15.00% | ~2,796 |
 | Crucial Combo | 13.00% | ~2,423 |
@@ -55,7 +55,7 @@ Rating: 4.65 (Ranked 326)
 | Shot in the Dark | 0.10% | ~19 |
 | Elite Racer | 0.10% | ~19 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 18,639 (Ranked 165)  
+Progressed: 18,640 (Ranked 165)  
 Completed: 0 (0.00%) (Ranked 409)  
 ## EOS Players History
 | Date | Progressed | Completed |
@@ -187,7 +187,7 @@ Completed: 0 (0.00%) (Ranked 409)
 | 2024-01-20 | 18,524 | 0 |
 | 2024-01-21 | 18,591 | 0 |
 | 2024-01-22 | 18,629 | 0 |
-| 2024-01-23 | 18,639 | 0 |
+| 2024-01-23 | 18,640 | 0 |
 ## Awards
 Max (Diverse Characters): 71  (Ranked 420)  
 Sum: 477 (Ranked 343)  

@@ -3,11 +3,11 @@
   "Name": "Assassin\u0027s Creed\u00AE Mirage",
   "ProductSlug": "assassins-creed-mirage",
   "Ranking_Rating": 698,
-  "Ranking_Popularity": 280,
-  "Ranking_PopularitySum": 214,
+  "Ranking_Popularity": 279,
+  "Ranking_PopularitySum": 213,
   "Ranking_EOS_Progress": 847,
   "Ranking_EOS_Completed": 409,
-  "Ranking_EOS_NewPlayers": 549,
+  "Ranking_EOS_NewPlayers": 548,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-10-05T16:00:00+00:00",
@@ -3631,11 +3631,17 @@
       "Rating": 4.45,
       "NumberOfAwards": 2232,
       "NumberOfAwardsMax": 271
+    },
+    {
+      "Time": "2024-01-23T13:57:38.9096962+00:00",
+      "Rating": 4.45,
+      "NumberOfAwards": 2236,
+      "NumberOfAwardsMax": 272
     }
   ],
   "ReviewsDisabled": false,
-  "NumberOfAwards": 2232,
-  "NumberOfAwardsMax": 271,
+  "NumberOfAwards": 2236,
+  "NumberOfAwardsMax": 272,
   "MaxAwardTitle": "Great for Beginners",
   "Tags": [
     {
@@ -3648,7 +3654,7 @@
       "Text": "This game is Great for Beginners",
       "Prefix": "This game is",
       "Type": "Great for Beginners",
-      "Count": 271
+      "Count": 272
     },
     {
       "Text": "This game has Quickly Understood Controls",
@@ -3678,7 +3684,7 @@
       "Text": "This game has Amazing Characters",
       "Prefix": "This game has",
       "Type": "Amazing Characters",
-      "Count": 214
+      "Count": 217
     },
     {
       "Text": "This game has Amazing Storytelling",
@@ -3717,8 +3723,8 @@
   "AchievementSets": [],
   "FirstSeen": "2023-10-05T18:58:30.4202319+00:00",
   "FirstSeenRating": "2023-10-06T05:58:23.6709697+00:00",
-  "LastChanged": "2024-01-23T13:05:25.1961928+00:00",
+  "LastChanged": "2024-01-23T13:57:38.9096961+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:44.8542176+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:25.1961934+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:12:27.7836666+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:38.909697+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:04:36.5841464+00:00"
 }

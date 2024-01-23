@@ -7,7 +7,7 @@
   "Ranking_PopularitySum": 97,
   "Ranking_EOS_Progress": 27,
   "Ranking_EOS_Completed": 314,
-  "Ranking_EOS_NewPlayers": 100,
+  "Ranking_EOS_NewPlayers": 101,
   "Ranking_EOS_NewCompleters": 87,
   "Store": {
     "ReleaseDate": "2021-07-02T15:00:00+00:00",
@@ -3523,9 +3523,9 @@
       "Count": 198
     }
   ],
-  "EOS_Progressed": 741295,
+  "EOS_Progressed": 741296,
   "EOS_Completed": 784,
-  "EOS_NewPlayers": 841,
+  "EOS_NewPlayers": 839,
   "EOS_NewCompleters": 2,
   "EOS_Completed_Percentage": 0.11,
   "EosHistory": [
@@ -35003,6 +35003,11 @@
       "Time": "2024-01-23T13:18:04.7490558+00:00",
       "NumProgressed": 741295,
       "NumCompleted": 784
+    },
+    {
+      "Time": "2024-01-23T14:09:57.4445961+00:00",
+      "NumProgressed": 741296,
+      "NumCompleted": 784
     }
   ],
   "TotalAchievements": 98,
@@ -35046,7 +35051,7 @@
       "Name": "Armor",
       "Percentage": 30,
       "XP": 5,
-      "UsersEstimate": 222388
+      "UsersEstimate": 222389
     },
     {
       "ID": "BallShooter",
@@ -35094,7 +35099,7 @@
       "Name": "Blue King\u0027s lair",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81542
+      "UsersEstimate": 81543
     },
     {
       "ID": "Buckle",
@@ -35142,7 +35147,7 @@
       "Name": "Payback",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81542
+      "UsersEstimate": 81543
     },
     {
       "ID": "CoinsBack",
@@ -35150,7 +35155,7 @@
       "Name": "Got the coins back",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81542
+      "UsersEstimate": 81543
     },
     {
       "ID": "Crash2",
@@ -35262,7 +35267,7 @@
       "Name": "Force Cube",
       "Percentage": 53,
       "XP": 10,
-      "UsersEstimate": 392886
+      "UsersEstimate": 392887
     },
     {
       "ID": "Force_Cube_Catapult",
@@ -35350,7 +35355,7 @@
       "Name": "Got the gun back",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81542
+      "UsersEstimate": 81543
     },
     {
       "ID": "Happiness",
@@ -35374,7 +35379,7 @@
       "Name": "Healthbar",
       "Percentage": 55,
       "XP": 5,
-      "UsersEstimate": 407712
+      "UsersEstimate": 407713
     },
     {
       "ID": "Healthregen",
@@ -35430,7 +35435,7 @@
       "Name": "Infiltrated",
       "Percentage": 11,
       "XP": 10,
-      "UsersEstimate": 81542
+      "UsersEstimate": 81543
     },
     {
       "ID": "InvisibleWall",
@@ -35454,7 +35459,7 @@
       "Name": "Just once",
       "Percentage": 37,
       "XP": 5,
-      "UsersEstimate": 274279
+      "UsersEstimate": 274280
     },
     {
       "ID": "MacGuffin",
@@ -35526,7 +35531,7 @@
       "Name": "Out of bed",
       "Percentage": 99,
       "XP": 5,
-      "UsersEstimate": 733882
+      "UsersEstimate": 733883
     },
     {
       "ID": "PanicLights",
@@ -35614,7 +35619,7 @@
       "Name": "Robbed",
       "Percentage": 11,
       "XP": 5,
-      "UsersEstimate": 81542
+      "UsersEstimate": 81543
     },
     {
       "ID": "Shady",
@@ -35654,7 +35659,7 @@
       "Name": "Strong",
       "Percentage": 12,
       "XP": 10,
-      "UsersEstimate": 88955
+      "UsersEstimate": 88956
     },
     {
       "ID": "SuperSword",
@@ -35686,7 +35691,7 @@
       "Name": "The Blues",
       "Percentage": 85,
       "XP": 5,
-      "UsersEstimate": 630101
+      "UsersEstimate": 630102
     },
     {
       "ID": "ThroughPipe",
@@ -35797,15 +35802,15 @@
     {
       "ID": "3m49pn8",
       "IsBase": true,
-      "Progressed": 741295,
+      "Progressed": 741296,
       "Completed": 784
     }
   ],
   "FirstSeen": "2022-07-22T20:19:49.3012076+00:00",
   "FirstSeenAchievements": "2023-04-25T16:09:17.1459144+00:00",
   "LastChanged": "2024-01-22T08:58:06.2505341+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:18:04.7490554+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:09:57.4445958+00:00",
   "LastUpdate_AppInfo": "2024-01-21T04:57:29.8310257+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:06:18.0650544+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:18:04.7492467+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:58:30.1823532+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:09:57.4448643+00:00"
 }

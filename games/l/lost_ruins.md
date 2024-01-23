@@ -16,10 +16,10 @@ Rating: 4.85 (Ranked 39)
 | Iconoclasm | 14.00% | ~100 |
 | Reincarnation | 14.00% | ~100 |
 | Librarian | 13.00% | ~93 |
+| Orcs Must Die! | 12.00% | ~85 |
 | The End | 12.00% | ~85 |
 | Gladiator | 11.00% | ~78 |
 | Lumberjack | 11.00% | ~78 |
-| Orcs Must Die! | 11.00% | ~78 |
 | Troubleshooter | 10.00% | ~71 |
 | Money Swag | 8.00% | ~57 |
 | Oops | 7.00% | ~50 |

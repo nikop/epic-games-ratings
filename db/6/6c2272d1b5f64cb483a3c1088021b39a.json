@@ -5111,9 +5111,9 @@
       "ID": "elite_deck_3",
       "SetID": "53c1p3k",
       "Name": "Elite Deck 3",
-      "Percentage": 0.3,
+      "Percentage": 0.4,
       "XP": 40,
-      "UsersEstimate": 4
+      "UsersEstimate": 5
     },
     {
       "ID": "from_day_to_day_1",
@@ -5279,9 +5279,9 @@
       "ID": "obsessed_carver_3",
       "SetID": "53c1p3k",
       "Name": "Obsessed Carver 3",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 15,
-      "UsersEstimate": 7
+      "UsersEstimate": 8
     },
     {
       "ID": "punctual_1",
@@ -5438,8 +5438,8 @@
   ],
   "FirstSeen": "2023-05-30T19:57:13.0971524+00:00",
   "FirstSeenAchievements": "2023-05-29T19:01:25.0747967+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:18:01.8112174+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:09:54.4897079+00:00",
   "LastUpdate_AppInfo": "2024-01-16T19:57:07.5682133+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:09.4770665+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:18:01.811284+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:23.3263026+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:09:54.4897686+00:00"
 }

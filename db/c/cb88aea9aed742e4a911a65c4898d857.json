@@ -467,9 +467,9 @@
       "Count": 22
     }
   ],
-  "EOS_Progressed": 12118,
+  "EOS_Progressed": 12119,
   "EOS_Completed": 1,
-  "EOS_NewPlayers": 536,
+  "EOS_NewPlayers": 534,
   "EOS_NewCompleters": 0,
   "EOS_Completed_Percentage": 0.01,
   "EosHistory": [
@@ -5932,6 +5932,11 @@
       "Time": "2024-01-23T13:17:59.7955676+00:00",
       "NumProgressed": 12118,
       "NumCompleted": 1
+    },
+    {
+      "Time": "2024-01-23T14:09:52.3369988+00:00",
+      "NumProgressed": 12119,
+      "NumCompleted": 1
     }
   ],
   "AchievementsAdded": "2023-12-05T13:15:42.2392019+00:00",
@@ -6064,7 +6069,7 @@
       "Name": "Exemplar",
       "Percentage": 8,
       "XP": 5,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "18_TheRookieSkipper",
@@ -6190,9 +6195,9 @@
       "ID": "33_TzeentchCleaning",
       "SetID": "37a94m8",
       "Name": "Cleening Out the Tzeentch",
-      "Percentage": 12,
+      "Percentage": 13,
       "XP": 5,
-      "UsersEstimate": 1454
+      "UsersEstimate": 1575
     },
     {
       "ID": "34_CuriosityIsNotAVice",
@@ -6328,7 +6333,7 @@
       "Name": "Whodunit?",
       "Percentage": 8,
       "XP": 50,
-      "UsersEstimate": 969
+      "UsersEstimate": 970
     },
     {
       "ID": "51_AmendsToTheDead",
@@ -6463,7 +6468,7 @@
     {
       "ID": "37a94m8",
       "IsBase": true,
-      "Progressed": 12118,
+      "Progressed": 12119,
       "Completed": 1
     }
   ],
@@ -6471,8 +6476,8 @@
   "FirstSeenRating": "2023-12-11T06:59:42.8971747+00:00",
   "FirstSeenAchievements": "2023-12-01T14:08:49.327878+00:00",
   "LastChanged": "2024-01-22T19:58:08.2693792+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:17:59.7955672+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:09:52.3369982+00:00",
   "LastUpdate_AppInfo": "2024-01-18T05:57:14.6784364+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:46.8651382+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:17:59.7956298+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:59.2293335+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:09:52.3371309+00:00"
 }

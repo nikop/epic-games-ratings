@@ -5,24 +5,24 @@ Rating: 4.43 (Ranked 735)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| Speak Friend | 82.00% | ~318,358 |
-| Delving Onward | 69.00% | ~267,886 |
-| Miner's Helper | 59.00% | ~229,062 |
-| Suit Up | 54.00% | ~209,650 |
-| To the Mountain's Roots | 50.00% | ~194,120 |
-| Remains To Be Seen | 35.00% | ~135,884 |
-| Covered Head to Toe | 33.00% | ~128,120 |
-| Line of Azog, Ended | 32.00% | ~124,237 |
-| Risk a Little Real Light | 31.00% | ~120,355 |
-| Caradhras The Cruel | 19.00% | ~73,766 |
-| A Memory of this Place | 18.00% | ~69,883 |
-| Battering Ram | 14.00% | ~54,354 |
-| False King, Deposed | 14.00% | ~54,354 |
-| Baruk Khazâd! | 13.00% | ~50,471 |
-| Shadow's Bane | 10.00% | ~38,824 |
+| Speak Friend | 82.00% | ~318,363 |
+| Delving Onward | 69.00% | ~267,891 |
+| Miner's Helper | 59.00% | ~229,066 |
+| Suit Up | 54.00% | ~209,654 |
+| To the Mountain's Roots | 50.00% | ~194,124 |
+| Remains To Be Seen | 35.00% | ~135,887 |
+| Covered Head to Toe | 33.00% | ~128,122 |
+| Line of Azog, Ended | 32.00% | ~124,239 |
+| Risk a Little Real Light | 31.00% | ~120,357 |
+| Caradhras The Cruel | 19.00% | ~73,767 |
+| A Memory of this Place | 18.00% | ~69,885 |
+| Battering Ram | 14.00% | ~54,355 |
+| False King, Deposed | 14.00% | ~54,355 |
+| Baruk Khazâd! | 13.00% | ~50,472 |
+| Shadow's Bane | 10.00% | ~38,825 |
 | Westgate Weaponcraft | 9.00% | ~34,942 |
-| Deeps Weaponcraft | 8.00% | ~31,059 |
-| Darkness Is Passing | 8.00% | ~31,059 |
+| Deeps Weaponcraft | 8.00% | ~31,060 |
+| Darkness Is Passing | 8.00% | ~31,060 |
 | Decked Out | 5.00% | ~19,412 |
 | Guarded from Despair | 5.00% | ~19,412 |
 | Master of All Trades | 4.00% | ~15,530 |
@@ -33,8 +33,8 @@ Rating: 4.43 (Ranked 735)
 | Shielded | 1.00% | ~3,882 |
 | We're Gonna Need More Mugs | 0.20% | ~776 |
 ## Popularity (Based on EOS Achievements)
-Progressed: 388,241 (Ranked 54)  
-Completed: 394 (0.10%) (Ranked 320)  
+Progressed: 388,248 (Ranked 54)  
+Completed: 395 (0.10%) (Ranked 320)  
 ## EOS Players History
 | Date | Progressed | Completed |
 | ---- | ---------- | --------- |
@@ -129,7 +129,7 @@ Completed: 394 (0.10%) (Ranked 320)
 | 2024-01-20 | 387,317 | 381 |
 | 2024-01-21 | 387,836 | 387 |
 | 2024-01-22 | 388,142 | 391 |
-| 2024-01-23 | 388,241 | 394 |
+| 2024-01-23 | 388,248 | 395 |
 ## Awards
 Max (Great for Beginners): 998  (Ranked 165)  
 Sum: 5,724 (Ranked 142)  

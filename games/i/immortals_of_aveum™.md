@@ -48,7 +48,7 @@ Rating: 4.20 (Ranked 975)
 | Petite Bourgeoisie | 0.80% | ~29 |
 | Family Business | 0.70% | ~25 |
 | Diplomat | 0.70% | ~25 |
-| Master of Malachite | 0.60% | ~22 |
+| Master of Malachite | 0.70% | ~25 |
 | Out of Time | 0.50% | ~18 |
 | Treasure Hunter | 0.50% | ~18 |
 | Fowl Play | 0.30% | ~11 |

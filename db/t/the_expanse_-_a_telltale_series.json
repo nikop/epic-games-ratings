@@ -367,9 +367,9 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 19244,
+  "EOS_Progressed": 19245,
   "EOS_Completed": 67,
-  "EOS_NewPlayers": 176,
+  "EOS_NewPlayers": 177,
   "EOS_NewCompleters": 1,
   "EOS_Completed_Percentage": 0.35,
   "EosHistory": [
@@ -18062,6 +18062,11 @@
       "Time": "2024-01-23T11:06:52.0585713+00:00",
       "NumProgressed": 19244,
       "NumCompleted": 67
+    },
+    {
+      "Time": "2024-01-23T14:05:26.3447434+00:00",
+      "NumProgressed": 19245,
+      "NumCompleted": 67
     }
   ],
   "AchievementsAdded": "2023-07-25T19:04:40.7062463+00:00",
@@ -18106,7 +18111,7 @@
       "Name": "Oyedang, Kopengs",
       "Percentage": 19,
       "XP": 10,
-      "UsersEstimate": 3656
+      "UsersEstimate": 3657
     },
     {
       "ID": "14",
@@ -18250,7 +18255,7 @@
       "Name": "Captain Drummer",
       "Percentage": 17,
       "XP": 10,
-      "UsersEstimate": 3271
+      "UsersEstimate": 3272
     },
     {
       "ID": "30",
@@ -18353,13 +18358,13 @@
     {
       "ID": "458bbdk",
       "IsBase": true,
-      "Progressed": 19244,
+      "Progressed": 19245,
       "Completed": 67
     },
     {
       "ID": "9nnpo9n",
       "IsBase": false,
-      "Progressed": 5198,
+      "Progressed": 5199,
       "Completed": 1392
     }
   ],
@@ -18367,8 +18372,8 @@
   "FirstSeenRating": "2023-08-26T16:57:34.4680464+00:00",
   "FirstSeenAchievements": "2023-07-18T18:04:46.0123371+00:00",
   "LastChanged": "2024-01-22T18:58:41.0959252+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:13:17.0693899+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:05:26.3447429+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:33.4080964+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:06:44.0690547+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:13:17.0695027+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:58:57.8600726+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:05:26.3448509+00:00"
 }

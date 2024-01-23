@@ -5,7 +5,7 @@ Rating: 4.73 (Ranked 186)
 ## Achievements
 | Name | Percentage | Users |
 | ---- | ---------- | ----- |
-| The Last Stand | 88.00% | ~693 |
+| The Last Stand | 89.00% | ~700 |
 | Thalya – Simply Immortal | 88.00% | ~693 |
 | For the Horde! | 82.00% | ~645 |
 | Hammer Time, Round Two | 81.00% | ~637 |
@@ -13,7 +13,7 @@ Rating: 4.73 (Ranked 186)
 | The Plains of Strothalm | 73.00% | ~575 |
 | Experienced Thalya | 72.00% | ~567 |
 | Bad Elves Go Everywhere | 70.00% | ~551 |
-| Thalya's Concentrated Fury | 67.00% | ~527 |
+| Thalya's Concentrated Fury | 68.00% | ~535 |
 | Heroes’ Gorge | 66.00% | ~519 |
 | Unicorn steaks – fresh off the hoof! | 63.00% | ~496 |
 | Master of Magic | 62.00% | ~488 |

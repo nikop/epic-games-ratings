@@ -21,9 +21,9 @@ Number of Ratings: 76  (23.09.2022)
 | Life's as extreme as you wanna make it! | 9.00% | ~107 |
 | Shrimp Catcher | 9.00% | ~107 |
 | Toxic Terror | 9.00% | ~107 |
+| Hit Rock Bottom | 9.00% | ~107 |
 | Are you ready now? | 8.00% | ~95 |
 | Keep it Rolling | 8.00% | ~95 |
-| Hit Rock Bottom | 8.00% | ~95 |
 | Ultra Spatula Seeker | 8.00% | ~95 |
 | Robot encyclopedia | 7.00% | ~83 |
 | Hello, Bikini Bottom | 7.00% | ~83 |

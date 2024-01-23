@@ -2,9 +2,9 @@
   "ID": "68c8fe90d12b4ea494f549ec409f58c8",
   "Name": "Road 96: Mile 0",
   "ProductSlug": "road-96-mile-0",
-  "Ranking_EOS_Progress": 326,
+  "Ranking_EOS_Progress": 324,
   "Ranking_EOS_Completed": 250,
-  "Ranking_EOS_NewPlayers": 247,
+  "Ranking_EOS_NewPlayers": 248,
   "Ranking_EOS_NewCompleters": 142,
   "Store": {
     "ReleaseDate": "2023-04-04T15:00:00+00:00",
@@ -27,7 +27,7 @@
   "NumberOfAwards": 0,
   "NumberOfAwardsMax": 0,
   "Tags": [],
-  "EOS_Progressed": 764,
+  "EOS_Progressed": 765,
   "EOS_Completed": 3,
   "EOS_NewPlayers": 30,
   "EOS_NewCompleters": 0,
@@ -2837,6 +2837,11 @@
       "Time": "2024-01-23T10:10:20.3993491+00:00",
       "NumProgressed": 764,
       "NumCompleted": 3
+    },
+    {
+      "Time": "2024-01-23T14:09:43.6649305+00:00",
+      "NumProgressed": 765,
+      "NumCompleted": 3
     }
   ],
   "TotalAchievements": 15,
@@ -2848,7 +2853,7 @@
       "Name": "BBFF (Best Brigade Friend Forever)",
       "Percentage": 44,
       "XP": 60,
-      "UsersEstimate": 336
+      "UsersEstimate": 337
     },
     {
       "ID": "completeact2",
@@ -2896,7 +2901,7 @@
       "Name": "Freedom",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "scoreminrankrf1",
@@ -2912,7 +2917,7 @@
       "Name": "Partners in Crime",
       "Percentage": 7,
       "XP": 40,
-      "UsersEstimate": 53
+      "UsersEstimate": 54
     },
     {
       "ID": "scoreminrankrh1",
@@ -2967,7 +2972,7 @@
     {
       "ID": "40n95i5",
       "IsBase": true,
-      "Progressed": 764,
+      "Progressed": 765,
       "Completed": 3
     }
   ],
@@ -2975,8 +2980,8 @@
   "FirstSeenRating": "2023-04-05T01:40:29.4675752+00:00",
   "FirstSeenAchievements": "2023-04-25T16:10:35.153612+00:00",
   "LastChanged": "2023-04-05T01:40:29.4675753+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:17:51.1379768+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:09:43.6649298+00:00",
   "LastUpdate_AppInfo": "2024-01-21T03:57:47.904206+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:05:17.5117329+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:17:51.1380023+00:00"
+  "LastUpdate_Ratings": "2024-01-23T13:57:31.277019+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:09:43.6649544+00:00"
 }

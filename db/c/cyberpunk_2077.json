@@ -18956,9 +18956,9 @@
       "Count": 19955
     }
   ],
-  "EOS_Progressed": 1057599,
+  "EOS_Progressed": 1057624,
   "EOS_Completed": 3151,
-  "EOS_NewPlayers": 4863,
+  "EOS_NewPlayers": 4847,
   "EOS_NewCompleters": 44,
   "EOS_Completed_Percentage": 0.3,
   "EosHistory": [
@@ -50826,6 +50826,11 @@
       "Time": "2024-01-23T13:16:55.9295806+00:00",
       "NumProgressed": 1057599,
       "NumCompleted": 3151
+    },
+    {
+      "Time": "2024-01-23T14:08:46.6051252+00:00",
+      "NumProgressed": 1057624,
+      "NumCompleted": 3151
     }
   ],
   "AchievementsAdded": "2023-10-31T09:04:51.8795861+00:00",
@@ -50868,9 +50873,9 @@
       "ID": "Denied",
       "SetID": "47clieb",
       "Name": "Right Back At Ya",
-      "Percentage": 0.7,
+      "Percentage": 0.8,
       "XP": 15,
-      "UsersEstimate": 7403
+      "UsersEstimate": 8461
     },
     {
       "ID": "FollowingTheRiver",
@@ -51292,9 +51297,9 @@
       "ID": "AllThePresidentsMen",
       "SetID": "23nboa5",
       "Name": "All the President\u0027s Men",
-      "Percentage": 0.5,
+      "Percentage": 0.6,
       "XP": 35,
-      "UsersEstimate": 931
+      "UsersEstimate": 1117
     },
     {
       "ID": "HydraIsDead",
@@ -51373,21 +51378,21 @@
     {
       "ID": "47clieb",
       "IsBase": true,
-      "Progressed": 1057599,
+      "Progressed": 1057624,
       "Completed": 3151
     },
     {
       "ID": "23nboa5",
       "IsBase": false,
-      "Progressed": 186222,
-      "Completed": 10688
+      "Progressed": 186247,
+      "Completed": 10689
     }
   ],
   "FirstSeen": "2022-07-22T20:17:03.6420174+00:00",
   "FirstSeenAchievements": "2023-04-25T16:08:44.7116901+00:00",
   "LastChanged": "2024-01-23T12:03:14.3221394+00:00",
-  "LastChanged_Achievements": "2024-01-23T13:16:55.9295803+00:00",
+  "LastChanged_Achievements": "2024-01-23T14:08:46.6051247+00:00",
   "LastUpdate_AppInfo": "2024-01-21T01:55:11.6602208+00:00",
-  "LastUpdate_Ratings": "2024-01-23T13:10:59.3912592+00:00",
-  "LastUpdate_Achievements": "2024-01-23T13:16:55.9298005+00:00"
+  "LastUpdate_Ratings": "2024-01-23T14:03:06.131606+00:00",
+  "LastUpdate_Achievements": "2024-01-23T14:08:46.6053451+00:00"
 }
