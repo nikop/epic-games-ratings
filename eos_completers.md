@@ -29,7 +29,7 @@
 | 27 | [Absolute Tactics](games/a/absolute_tactics.md) | 16.67% |
 | 28 | [Top Web Search 23](games/6/687d153df3384a0dacd8b1b5a0c723d6.md) | 16.28% |
 | 29 | [SPACE WAR - INFINITY](games/7/72714161da094789aec500130c8530fa.md) | 15.53% |
-| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.40% |
+| 30 | [The Riflemen](games/t/the_riflemen.md) | 15.39% |
 | 31 | [Cursed Treasure 2 Ultimate Edition](games/c/cursed_treasure_2_ultimate_edition.md) | 15.05% |
 | 32 | [Mason: Building Bricks](games/m/mason__building_bricks.md) | 14.29% |
 | 32 | [Super Adventure Hand](games/a/ae403c054fb74a65ae91d61af06d53e3.md) | 14.29% |
@@ -126,10 +126,10 @@
 | 124 | [The Complex](games/t/the_complex.md) | 2.54% |
 | 125 | [FORECLOSED](games/f/foreclosed.md) | 2.53% |
 | 126 | [Evalina The Sorceress](games/c/c1adccb6ce8344ebac8cb4e3c81f01ef.md) | 2.51% |
+| 127 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.50% |
 | 127 | [Wunderling DX](games/w/wunderling_dx.md) | 2.50% |
-| 128 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
-| 129 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
-| 130 | [Shadow Gambit: The Cursed Crew](games/s/shadow_gambit__the_cursed_crew.md) | 2.43% |
+| 129 | [Disney Dreamlight Valley](games/d/disney_dreamlight_valley.md) | 2.48% |
+| 130 | [Destiny 2](games/d/destiny_2.md) | 2.47% |
 | 131 | [Mega City Force](games/m/mega_city_police.md) | 2.38% |
 | 132 | [NEW Joe and Mac Caveman Ninja](games/n/new_joe_and_mac_caveman_ninja.md) | 2.27% |
 | 132 | [Picklock](games/0/0904b974619a436ebc70ec7a374572d8.md) | 2.27% |
@@ -254,9 +254,9 @@
 | 252 | [A Plague Tale: Requiem](games/a/a_plague_tale__requiem.md) | 0.37% |
 | 252 | [Dodo Peak](games/c/cea01263911a4e179a5e3892ef710930.md) | 0.37% |
 | 254 | [Goat Simulator 3](games/g/goat_simulator_3.md) | 0.36% |
+| 254 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.36% |
 | 254 | [The Callisto Protocol](games/t/the_callisto_protocol.md) | 0.36% |
-| 256 | [STAR WARS Jedi: Survivor™](games/s/star_wars_jedi__survivor™.md) | 0.35% |
-| 256 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.35% |
+| 257 | [The Expanse - A Telltale Series](games/t/the_expanse_-_a_telltale_series.md) | 0.35% |
 | 258 | [The Forest Quartet](games/a/a3100205e194489088c7625c8c5c1596.md) | 0.34% |
 | 258 | [Weird West: Definitive Edition](games/w/weird_west.md) | 0.34% |
 | 260 | [The Surge](games/t/the_surge.md) | 0.33% |
